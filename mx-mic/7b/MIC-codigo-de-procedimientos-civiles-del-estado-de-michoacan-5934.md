@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-del-estado-de-michoacan-5934"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1936-07-30"
+last_updated: "1938-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 1938.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el 30 de julio de 1936.
 
@@ -5679,9 +5679,11 @@ Cuando no hubiere este convenio, la oposición de parte se substanciará inciden
 
 La resolución declarando herederos de un intestado o que es legítimo un testamento, es apelable en el efecto devolutivo, si el valor de la sucesión excede de un mil pesos.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1938)</small>
+
 ###### Artículo 1099.
 
-Si el valor de los bienes hereditarios no excede de un mil pesos, es optativo para los interesados acudir a la autoridad judicial o a la administrativa en los términos del articulo 68 del Código Fiscal. En éste último caso, la resolución que ordene la variación catastral servirá de titulo y tendrá los mismos efectos que si la aplicación de bienes se hubiere hecho conforme a las disposiciones de este título, con las salvedades de la ley.
+Si el valor de los bienes hereditarios no excede de $2,000.00, es optativo para los interesados acudir a la autoridad judicial o a la administrativa en los términos del artículo 68 del Código Fiscal. En éste último caso, la resolución que ordene la variación catastral servirá de título y tendrá los mismos efectos que si la aplicación de bienes se hubiese hecho conforme a las disposiciones de este título, con las salvedades de la Ley.
 
 ###### Artículo 1100.
 
@@ -7061,7 +7063,7 @@ Los peritos que se designen para hacer el avalúo serán nombrados por el juez.
 
 Respecto de las alhajas y muebles preciosos, el juez determinará si conviene o no la subasta, atendiendo en todo a la utilidad que resulte al menor; si se decreta se procederá conforme al artículo 925.
 
-El remate de los inmuebles se hará conforme al capítulo II, título décimoprimero, y en él no podrá admitirse postura que baje de las dos terceras partes del avalúo pericial, ni la que no se ajuste a los términos de la autorización judicial.
+El remate de los inmuebles se hará conforme al capítulo II, título decimoprimero, y en él no podrá admitirse postura que baje de las dos terceras partes del avalúo pericial, ni la que no se ajuste a los términos de la autorización judicial.
 
 Si en la primera almoneda no hubiere postor, el juez convocará a solicitud del tutor, o del curador, a una junta dentro del tercero día, para ver si son de notificarse o no las bases del remate, señalándose nuevamente las almonedas que fueren necesarias.
 
@@ -7467,7 +7469,7 @@ Cualquier fraude o acto malicioso para impedir la eficacia del secuestro, como a
 
 ###### Artículo 1439.
 
-El remate de bienes muebles e inmuebles se hará en la forma que determina el capítulo II, título décimoprimero.
+El remate de bienes muebles e inmuebles se hará en la forma que determina el capítulo II, título decimoprimero.
 
 ###### Artículo 1440.
 
@@ -7616,3 +7618,9 @@ Rafael Ordorica Villamar.
 Lic. Francisco Ochoa,
 
 Secretario
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 3 DE FEBRERO DE 1938.
+
+Esta Ley empezará a regir desde la fecha de su publicación.
