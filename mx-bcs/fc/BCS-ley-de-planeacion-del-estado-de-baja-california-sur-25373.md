@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-planeacion-del-estado-de-baja-california-sur-25373"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "2002-07-10"
+last_updated: "2004-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PLANEACION DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE AGOSTO DE 2004.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 20 de febrero de 1984.
 
@@ -67,9 +67,11 @@ Para los efectos de esta Ley, se entiende por Planeación Estatal del Desarrollo
 
 Mediante la Planeación se fijarán objetivos, metas, estrategias y prioridades; se asignarán recursos, responsabilidades y tiempos de ejecución y se evaluarán resultados.
 
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
 ###### ARTICULO 4o.
 
-Corresponde al titular del Ejecutivo Estatal, conducir la Planeación Estatal de Desarrollo, con la participación democrática de los grupos sociales, y mediante la aplicación de mecanismos de coordinación, concertación e inducción, en su caso, de conformidad con lo dispuesto en la presente Ley.
+Corresponde al titular del Ejecutivo Estatal, conducir la Planeación Estatal de Desarrollo, contando con la participación democrática de los grupos sociales y con la representación del H. Congreso del Estado, mediante la aplicación de mecanismos de coordinación, concertación e inducción, en su caso, de conformidad en lo dispuesto en la presente Ley.
 
 ###### ARTICULO 5o.
 
@@ -115,21 +117,31 @@ La Planeación Estatal del Desarrollo le compete a todas las Secretarías y Dire
 
 Las disposiciones reglamentarias de esta Ley establecerán las normas de organización y funcionamiento del Sistema Estatal de Planeación Democrática y el proceso de Planeación a que deberán sujetarse las actividades conducentes a la formulación, instrumentación, control y evaluación del Plan y los programas a que se refiere este ordenamiento.
 
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
 ###### ARTICULO 13.
 
-La Secretaría de Desarrollo tendrá las siguientes atribuciones:
+El H. Congreso del Estado, además de las mencionadas en la presente Ley, tendrá las siguientes atribuciones:
 
-I.- Coordinar las actividades de la Planeación Estatal del Desarrollo.
+I.- Participar en la elaboración del Plan Estatal de desarrollo aportando, en su caso, opiniones y propuestas a dicho Plan.
 
-II.- Elaborar, actualizar y evaluar el Plan Estatal de Desarrollo tomando en cuenta las propuestas de las Dependencias y Entidades de la Administración Pública Estatal y Municipal y en su caso de la Administración Federal, así como los planteamientos que se formulen por los grupos sociales interesados.
+II.- Para dar cumplimiento a la fracción anterior, así como a lo previsto por el Artículo 4º, de la presente Ley, el Congreso del Estado contará con una representación integrada por un Diputado de cada Municipio de la Entidad.
 
-III.- Proyectar y coordinar la Planeación Estatal, con la participación que corresponda a los Municipios y elaborar los programas especiales que le señale el Gobernador.
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
 
-IV.- Cuidar que el plan y los programas que se generen en el sistema mantengan congruencia en su elaboración y contenido.
+ARTICULO 13 bis.- La Secretaría de Desarrollo tendrá las siguientes atribuciones:
 
-V.- Elaborar los programas operativos anuales, tomando en cuenta las propuestas que para el efecto realicen las dependencias coordinadoras del sector y los Gobiernos Municipales.
+I.- Coordinar las actividades de la Planeación Estatal de Desarrollo;
 
-VI.- Verificar, periódicamente, la relación que guardan los programas y presupuestos de las diversas dependencias y Entidades de la Administración Pública Estatal, así como los resultados de su ejecución, los objetivos y prioridades del plan y los programas especiales a que se refiere esta Ley, a fin de adoptar las medidas necesarias para corregir las desviaciones detectadas y reformar en su caso el plan y los programas respectivos.
+II.- Proyectar, elaborar, actualizar y evaluar el Plan Estatal de Desarrollo, tomando en cuenta las propuestas de las Dependencias, de los legisladores representantes de los Municipios y Entidades de la Administración Federal, así como los planteamientos que se formulen por los grupos sociales interesados;
+
+III.- Elaborar los programas especiales que señale el Gobernador;
+
+IV.- Cuidar que el Plan y los programas que se generen en el sistema mantengan congruencia en su elaboración y contenido;
+
+V.- Elaborar los programas operativos anuales, tomando en cuenta las propuestas que para el efecto realicen las dependencias coordinadoras del sector y los Gobiernos Municipales; y
+
+VI.- Verificar, periódicamente, la relación que guardan los programas y presupuestos de las diversas Dependencias y Entidades de la Administración Pública Estatal, así como resultados de su ejecución, los objetivos y prioridades del plan y los programas especiales a que se refiere esta Ley, a fin de adoptar las medidas necesarias para corregir las desviaciones detectadas y reformar, en su caso, el plan y los programas respectivos.
 
 ###### ARTICULO 14.
 
@@ -165,21 +177,15 @@ III.- Verificar periódicamente la relación que guarden sus actividades, así c
 
 ###### ARTICULO 17.
 
-La Contraloría del Estado deberá aportar elementos de juicio para el control y seguimientos de los objetivos y prioridades del Plan Estatal de Desarrollo y los programas respectivos.
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 2002)</small>
+La Contraloría del Estado deberá aportar elementos de juicio para el control y seguimientos (sic) de los objetivos y prioridades del Plan Estatal de Desarrollo y los programas respectivos.
 
 ###### ARTICULO 18.
 
-A los Gobiernos Municipales del Estado les corresponde:
+A las administraciones de los Municipios del Estado les corresponde:
 
 I.- Coordinar las actividades de la Planeación Municipal de Desarrollo.
 
-> <small>(REFORMADA, B.O. 10 DE JULIO DE 2002)</small>
-
-II.- Elaborar y aprobar el Plan Municipal de Desarrollo, en coordinación con el respectivo Comité de Planeación para el Desarrollo Municipal, pudiendo tomar en cuenta las propuestas de las Entidades Estatales y Federales, así como los planteamientos que se formulen por los grupos interesados.
-
-Asimismo, participarán en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Para este fin, el Gobierno del Estado deberá asegurar dicha participación.
+II.- Elaborar y aprobar el Plan Municipal de Desarrollo, en coordinación con el respectivo comité de Planeación para el Desarrollo Municipal, tomando en cuenta las propuestas de las Entidades y Dependencias Municipales, Estatales y Federales, así como los planteamientos que se formulen por los grupos interesados.
 
 III.- Elaborar los programas operativos anuales y los programas especiales, y sectoriales en los términos señalados en la Fracción anterior.
 
@@ -457,12 +463,6 @@ LIC. ANTONIO BENJAMIN MANRIQUEZ GULUARTE.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-B.O. 10 DE JULIO DE 2002.
+B.O. 10 DE AGOSTO DE 2004.
 
-###### ARTÍCULO PRIMERO.
-
-Los ayuntamientos de la entidad contarán con noventa días naturales par (sic) los efectos de lo dispuesto por los artículos 26, 90, 91, 92 y 94 de la Ley Orgánica Municipal Reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur, reformados por este Decreto, en lo que se refiere a los bandos de policía y gobierno y reglamentos.
-
-###### ARTÍCULO SEGUNDO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
