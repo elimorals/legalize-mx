@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-zonificacion-del-estado-de-colima-12516"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-08-23"
-last_updated: "1997-08-23"
+last_updated: "2002-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12516&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "COL"
 
 REGLAMENTO DE ZONIFICACION DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2002.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de agosto de 1997.
 
 CARLOS DE LA MADRID VIRGEN, Gobernador Constitucional del Estado Libre y Soberano de Colima, en ejercicio de la facultad que al Ejecutivo a mi cargo otorga el articulo 58 fracciones III, y XXXIV de la Constitución Política Local y con fundamento en los articulas 3, 12 y 23 de la Ley Orgánica de la Administración Pública Estatal, 5° fracción II, 6° fracción IV, 14 y 19 fracción XIX, y Tercero Transitorio de la Ley de Asentamientos Humanos del Estado, y
 
-CONSIDERANDO:.
+CONSIDERANDO: .
 
 REGLAMENTO DE ZONIFICACION DEL ESTADO DE COLIMA
 
@@ -553,7 +553,7 @@ XXII. Industria media y de mediano impacto, clave 12;
 
 XXIII. Industria pesada y de alto impacto o riesgo, clave 13;
 
-XXIV. Equipamiento institucional, clave EI;
+XXIV. Equipamiento institucional, clave El;
 
 XXV. Equipamiento regional, clave ER;
 
@@ -561,7 +561,7 @@ XXVI. Espacios verdes y abiertos, clave EV;
 
 XXVll. Equipamiento especial, clave EE;
 
-XXVIII. Infraestructura, clave IN.
+XXVIII. Infraestructura, clave IN;(sic)
 
 ###### Artículo 22.
 
@@ -595,9 +595,9 @@ XIII. Habitacional plurifamiliar horizontal, densidad baja, clave H2-H;
 
 XIV. Habitacional plurifamiliar vertical, densidad baja, clave H2-V;
 
-XV. Habitacional unifamiliar, densidad media, clave H3-U;
+XV. Habitacional unifamiliar, densidad media, clave H3-U
 
-XVI. Habitacional plurifamiliar horizontal, densidad media, clave H3-H;
+XVI. Habitacional plurifamiliar horizontal, densidad media, clave H3-H
 
 XVll. Habitacional plurifamiliar vertical, densidad media, clave H3- V;
 
@@ -721,7 +721,7 @@ Para lograr los objetivos y propósitos de este Reglamento, los usos y destinos 
 
 ###### Artículo 27.
 
-En cada una de las zonas enunciadas en el Capitulo IV, se permitirán ubicarse exclusivamente los usos o destinos comprendidos en algunos de estos grupos, bajo las siguientes categorías:
+En cada una de las zonas enunciadas en el Capitulo IV, se permitirán ubicarse exclusivamente los usos o destinos comprendidos en algunos de estos grupos, bajo las siguientes categorías.
 
 I. Uso o destino predominante: él o los usos o destinos que caracterizan de una manera principal una zona, siendo plenamente permitida su ubicación en la zona señalada;
 
@@ -819,7 +819,7 @@ a). Equipamiento urbano de barrio: comprende instalaciones de servicios básicos
 
 b). Equipamiento urbano general: comprende instalaciones de servicios a la comunidad que satisfacen necesidades para el bienestar social de un (sic) amplia área o de la totalidad del Centro de Población; su localización deberá cuidar que no se produzcan impactos negativos, especialmente de ruido y tráfico, a las zonas habitacionales vecinas;
 
-c). Equipamiento urbano regional: comprende las instalaciones que prestan servicios de alcance regional y poseen una infraestructura especial, así como una extensa superficie a fin de desarrollar su actividad, generando condiciones adversas o restricciones a las áreas circunvecinas;
+c). Equipamiento urbano regional: comprende las instalaciones que prestan servicios de alcance regional y poseen una infraestructura especial, así como una extensa superficie a fin de desarrollar su actividad, generando condiciones adversas o restricciones a las áreas circunvecinas.
 
 d). Recreación en espacios abiertos: aún cuando forman parte de los tres niveles de equipamiento señalados anteriormente, por su naturaleza e importancia para las áreas urbanas se clasifican en un grupo especial;
 
@@ -1109,7 +1109,7 @@ IX. Las restricciones laterales serán de cinco metros en todas las colinciancia
 
 X. La restricción posterior será de 10 metros, en esta superficie la construcción, incluyendo las bardas perimetrales no deberán tener una altura mayor a tres metros;
 
-XI. Cuando se autoricen en estas zonas usos habitacionales, se aplicarán para los lotes las normas de las zonas H 1 descritas en el artículo 54, de este reglamento;
+XI. Cuando se autoricen en estas zonas usos habitacionales, se aplicarán para los lotes las normas de las zonas H 1 descritas en el artículo 54, de este reglamento.
 
 XII. El modo de edificación será abierto.
 
@@ -1137,7 +1137,7 @@ IX. Las restricciones laterales serán de tres metros en todas las colindancias 
 
 X. La restricción posterior será de 10 metros, en esta superficie la construcción, incluyendo las bardas perimetrales no deberán tener una altura mayor a tres metros;
 
-XI. Cuando se autoricen en estas zonas usos habitacionales se aplicarán para los lotes las normas de las zonas H2 U, H2 H y H2 V descritas en los artículos 55, 58 y 61, de este reglamento;
+XI. Cuando se autoricen en estas zonas usos habitacionales se aplicarán para los lotes las normas de las zonas H2 U, H2 H y H2 V descritas en los artículos 55, 58 y 61, de este reglamento.
 
 XII. El modo de edificación será abierto.
 
@@ -1165,7 +1165,7 @@ IX. Las restricciones laterales serán de tres metros en todas las colindancias 
 
 X. La restricción posterior será de 10 metros, en esta superficie la construcción, incluyendo las bardas perimetrales no deberán tener una altura mayor a tres metros;
 
-XI. Cuando se autoricen en estas zonas usos habitacionales, se aplicarán para los lotes las normas de las zonas H3 U, H3 H y H3 V descritas en los artículos 56, 59 y 62, de este reglamento;
+XI. Cuando se autoricen en estas zonas usos habitacionales, se aplicarán para los lotes las normas de las zonas H3 U, H3 H y H3 V descritas en los artículos 56, 59 y 62, de este reglamento.
 
 XII. El modo de edificación será abierto.
 
@@ -5981,7 +5981,7 @@ XII. En rampas helicoidales, una al lado de la otra, la rampa exterior se deber�
 
 XIII. Altura mínima libre de los pisos: Primer piso 2.65 metros y para los demás 2. 1 metros mínimo.
 
-XIV. EI número máximo recomendable de pisos con rampas es de 10.
+XIV. El número máximo recomendable de pisos con rampas es de 10.
 
 XV. En estacionamientos de autoservicio, toda rampa de salida deberá terminar a una distancia mínima de 5 metros antes del alineamiento. En esta distancia de 5 metros se podrá permitir una pendientes (sic) máxima del 5 por ciento, pudiendo incluirse en la misma la transición.
 
@@ -7177,7 +7177,7 @@ En lo referente a anuncios para áreas y edificios patrimoniales, se aplicará l
 
 Todo edificio catalogado como de Categoría A o Categoría B, no deberá ser demolido por ninguna causa corresponde al Ayuntamiento por conducto de la Dependencia Municipal, dictaminar sobre la negación o aprobación de demolición de cualquier edificio incluido dentro de las otras categorías señaladas en este capítulo.
 
-## TITULO VI (SIC). ORGANIZACION DE LA FUNCION PERICIAL
+## TITULO VI. ORGANIZACION DE LA FUNCION PERICIAL
 
 ### CAPITULO XXXVIII.. Disposiciones Generales
 
@@ -7431,6 +7431,10 @@ Segundo. En tanto se constituye el Consejo de Peritos, las funciones que le asig
 
 Tercero. Se derogan todas las disposiciones que se opongan a la aplicación del presente Reglamento.
 
+> <small>(ADICIONADO, G.G. 23 DE FEBRERO DE 2002)</small>
+
+Cuarto. Se establece un período de gracia hasta el 31 de diciembre del año 2003 para cumplir con las disposiciones del artículo 436, en su fracción IV, del presente ordenamiento. En tanto, quienes aspiren a obtener su registro como perito en proyecto de urbanización, deberán someterse al procedimiento de admisión que para este efecto establecerá cada Ayuntamiento.
+
 Por tanto mando se imprima, publique, circule y observe.
 
 Dado en la residencia del Poder Ejecutivo Estatal, en la ciudad de Colima, Colima el primero de agosto de 1997.
@@ -7446,3 +7450,9 @@ LIC. RAMON PEREZ DIAZ
 EL SECRETARIO DE DESARROLLO URBANO
 
 ING. ADALBERTO GARCIA BRITO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE FEBRERO DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor el día 1° de marzo del año en curso y deberá publicarse en el Periódico Oficial "El Estado de Colima".
