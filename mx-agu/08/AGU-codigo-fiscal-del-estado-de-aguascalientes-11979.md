@@ -4,7 +4,7 @@ identifier: "AGU-codigo-fiscal-del-estado-de-aguascalientes-11979"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1999-09-19"
+last_updated: "2004-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO FISCAL DEL ESTADO DE AGUASCALIENTES
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CODIGO FISCAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2004.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Aguascalientes, el jueves 31 de diciembre de 1981.
 
@@ -799,115 +801,65 @@ XVIII.- Infringir disposiciones fiscales en cualquier forma no prevista en las f
 
 ### CAPITULO II. De los Delitos Fiscales
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 72.
 
-Constituye delito de carácter fiscal todo acto que tenga como finalidad evitar por cualquier medio el pago de las prestaciones fiscales, o la sustitución ilegal de las funciones de la autoridad fiscal.
+Constituyen delito de carácter fiscal los tipos penales previstos en el Capítulo Décimo Séptimo de la Legislación Penal para el Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 73.
 
-Para proceder penalmente por los delitos de carácter fiscal, será necesario que la Tesorería General del Estado declare previamente que el fisco ha sufrido, o pudo sufrir perjuicio.
+Los procesos por los delitos fiscales serán sobreseídos si la Secretaría de Finanzas y Administración del Estado lo solicita antes de que el Ministerio Público formule conclusiones.
 
-En cuanto a los delitos tipificados en los artículos 75, 79, 80 y 83, se requerirá querella de la propia Tesorería General del Estado.
+La Secretaría de Finanzas y Administración del Estado sólo podrá pedir el sobreseimiento si el procesado paga las prestaciones fiscales originadas por el hecho imputado, o si a juicio del propio titular ha quedado garantizado el interés fiscal.
 
-Los procesos por los delitos fiscales serán sobreseídos si la Tesorería General del Estado lo solicita antes de que el Ministerio Público formule conclusiones.
-
-La Tesorería General del Estado sólo podrá pedir el sobreseimiento si el procesado paga las prestaciones fiscales originadas por el hecho imputado, o si a juicio del propio titular ha quedado garantizado el interés fiscal.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 74.
 
 En los delitos fiscales la autoridad judicial, conforme a las leyes respectivas, hará efectivos los créditos fiscales eludidos y las sanciones administrativas correspondientes.
 
-Para que proceda la suspensión condicional de la condena, cuando se incurra en delitos fiscales, además de los requisitos señalados en el Código Penal para el Estado de Aguascalientes, será necesario acreditar que el interés fiscal está pagado o garantizado.
+Para que proceda la suspensión condicional de la condena, cuando se incurra en delitos fiscales, además de los requisitos señalados en la Legislación Penal para el Estado de Aguascalientes, será necesario acreditar que el interés fiscal está pagado o garantizado.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 75.
 
-En todo lo no previsto en el presente capítulo, serán aplicables las reglas señaladas en el Código Penal y Código de Procedimientos Penales para el Estado de Aguascalientes.
+En todo lo no previsto en el presente Capítulo, serán aplicables las reglas señaladas en la Legislación Penal para el Estado de Aguascalientes.
 
 ###### ARTICULO 76.
 
-Se impondrá prisión hasta de tres años, a los funcionarios o empleados públicos que practiquen o pretendan practicar visitas domiciliarias sin mandamiento escrito de la autoridad fiscal competente.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2004)
 
 ###### ARTICULO 77.
 
-Se sancionará con uno a seis años de prisión a la persona física que proporcione datos falsos para su inscripción en el registro o registros de contribuyentes que corresponda, en perjuicio del interés fiscal.
-
-Se aplicará la misma pena a las personas que consientan o toleren el uso de su nombre para manifestar negociaciones ajenas.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2004)
 
 ###### ARTICULO 78.
 
-Se impondrá prisión de tres a doce años a quien:
-
-I.- Grabe o manufacture sin autorización de la Tesorería General del Estado, matrices, punzones, dados, clichés o negativos, semejantes a los que la propia Tesorería usa para imprimir, grabar o troquelar comprobantes de pago de prestaciones fiscales y objetos que se utilicen oficialmente como medios de control fiscal.
-
-II.- Imprima, grabe o troquele sin autorización de la Tesorería General del Estado placas, tarjetones o comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medios de control fiscal.
-
-III.- Altere en sus características las placas, tarjetones o comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medios de control fiscal.
-
-IV.- Forme las cosas u objetos señalados en la fracción anterior con los fragmentos de otros recortados o mutilados.
-
-Esta sanción se aplicará aún cuando el falsario no se haya propuesto obtener algún provecho.
-
-Para la comprobación de este delito se deberá recabar en la averiguación previa, dictamen de peritos designados por la Tesorería General del Estado.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2004)
 
 ###### ARTICULO 79.
 
-Comete delito de uso de placas, tarjetones o medios de control fiscal falsificados:
-
-I.- El particular o empleado público que a sabiendas de que fueron impresos o grabados sin autorización de la Tesorería General del Estado los posea, venda, ponga en circulación o en su caso, los utilice para ostentar el pago de una prestación fiscal.
-
-II.- El particular o empleado público que los posea, venda, ponga en circulación o los utilice para ostentar el pago de alguna prestación fiscal, estando alteradas sus características, a sabiendas de esta circunstancia.
-
-III.- Quien venda, ponga en circulación o en alguna otra forma comercie con dichos objetos si son manufacturados con fragmentos o recortes de otros.
-
-Este delito será sancionado con prisión de seis meses a tres años. Al empleado oficial que en cualquier forma participe en el delito citado, se le impondrá de uno a cinco años de prisión. Para la comprobación de este delito, se deberá recabar en la averiguación previa, dictamen de peritos designados por la Tesorería General del Estado.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2004)
 
 ###### ARTICULO 80.
 
-Comete el delito de defraudación fiscal quien haga uso de engaños o aproveche errores, para omitir total o parcialmente el pago de algún crédito fiscal.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2004)
 
 ###### ARTICULO 81.
 
-La pena que corresponde al delito de defraudación fiscal se impondrá también a quien:
-
-I.- Mediante la simulación de actos jurídicos omita total o parcialmente el pago de los impuestos a su cargo.
-
-II.- Consigne en las declaraciones que presente para fines fiscales, ingresos o utilidades menores que los realmente obtenidos, o deducciones falsas.
-
-III.- Proporcione con falsedad a las autoridades fiscales que lo requieran, los datos que obren en su poder y que sean necesarios para determinar la producción, la base gravable o los impuestos que cause.
-
-IV.- Oculte a las autoridades fiscales, total o parcialmente, la producción sujeta a impuestos o el monto de las ventas.
-
-V.- No expedir los documentos con los requisitos establecidos por las disposiciones fiscales para acreditar el pago de un impuesto.
-
-VI.- Como fabricante, porteador, comerciante o expendedor, trafique, con productos sin llenar los requisitos de control a que obliguen las disposiciones fiscales.
-
-VII.- No entere a las autoridades fiscales dentro del plazo del requerimiento, que se le haga de las cantidades que haya retenido o recaudado de los contribuyentes por concepto de créditos fiscales.
-
-VIII.- Para registrar sus operaciones contables, fiscales o sociales lleve dos o más libros similares con distintos asientos o datos, y aún cuando se trate de libros no autorizados.
-
-IX.- Destruya, ordene o permita la destrucción total o parcial, dejándolos ilegibles, los libros de contabilidad que prevengan las leyes.
-
-X.- Utilice pastas o encuadernaciones de los libros a que se refiere la fracción anterior, para sustituir o cambiar las páginas foliadas.
-
-XI.- Tener doble juego de libros.
-
-XII.- Confeccione o utilice facturas, notas o comprobantes apócrifos.
-
-XIII.- Haga mal uso de los incentivos fiscales o los aplique para usos distintos del que fueron otorgados.
-
-XIV.- Se beneficie sin tener derecho a ello de un subsidio o estímulo fiscal.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2004)
 
 ###### ARTICULO 82.
 
-El delito de defraudación fiscal se sancionará con prisión de tres meses a seis años si el monto de lo defraudado o que se intentó defraudar es inferior a $50,000.00 y con prisión de dos a nueve años si dicho monto es de $50,000.00 o mayor.
-
-Cuando no se pueda determinar la cuantía del impuesto que se defraudó o intentó defraudar, la pena será de tres meses a nueve años de prisión.
-
-No se impondrán las sanciones previstas en este artículo, si quien hubiera cometido el delito, entera espontáneamente el crédito omitido.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2004)
 
 ###### ARTICULO 83.
 
-Para los fines del artículo que antecede, se tomará en cuenta el monto del impuesto defraudado o que se haya intentado defraudar dentro de un mismo período fiscal, aún cuando se trate de impuestos diferentes y de diversas acciones u omisiones de las previstas en el artículo 80 de este código.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2004)
 
 ###### ARTICULO 84.
 
@@ -923,7 +875,7 @@ IV.- Se dedique al ejercicio del comercio por más de dos meses sin cumplir con 
 
 ###### ARTICULO 85.
 
-Son encubridores de los delitos tipificados en el artículo anterior, quienes a sabiendas de que la elaboración o el comercio se realizan en las condiciones a que se refiere la disposición citada, trasladen o adquieran los productos o mercancías. Los encubridores serán sancionados con prisión hasta de dos años. Los empleados o funcionarios públicos, incurrirán en encubrimiento si no intervienen en el ejercicio de sus funciones. En caso contrario a la pena que corresponda por el delito oficial que cometan, se agregarán hasta dos años de prisión.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2004)
 
 ###### ARTICULO 86.
 
@@ -2212,3 +2164,7 @@ El presente Decreto entrará en vigor a los cinco días del mes de enero del añ
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
