@@ -4,7 +4,7 @@ identifier: "BCN-ley-agropecuaria-y-forestal-del-estado-de-baja-california-2703"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-10"
-last_updated: "1986-08-10"
+last_updated: "1996-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "BCN"
 
 LEY AGROPECUARIA Y FORESTAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 1996.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el domingo 10 de agosto de 1986.
 
 XICOTENCATL LEYVA MORTERA GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, A SUS HABITANTES SABED:
 
 QUE LA H. LEGISLATURA DEL ESTADO, ME HA DIRIGIDO PARA SU PROMULGACION, LA SIGUIENTE:
+
+LEY:
 
 LA H. XI LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 27, FRACCIONES I Y XXX DE LA CONSTITUCION POLITICA LOCAL, TIENE A BIEN EXPEDIR LA SIGUIENTE:
 
@@ -87,11 +89,7 @@ II.- Los terrenos dedicados directa o indirectamente a las explotaciones agríco
 
 Las Organizaciones y las Uniones de Productores Agrícolas, Ganaderas y Forestales, las Asociaciones Agrícolas, Ganaderas y Forestales, los comerciantes, los que comercien en mayoreo o en detalle, y los que industrialicen productos y subproductos de las especies a que se refiere esta Ley, están obligados a registrarse en la Secretaría de Fomento Agropecuario del Estado, quien les expedirá la Patente correspondiente, misma que deberá revalidarse cada año, en los primeros noventa días.
 
-### CAPITULO II
-
-DEFINICION DE CONCEPTOS EN LOS RUBROS AGRICOLA,
-
-GANADERO Y FORESTAL
+### CAPITULO II. DEFINICION DE CONCEPTOS EN LOS RUBROS AGRICOLA, GANADERO Y FORESTAL
 
 ###### ARTICULO 5o.
 
@@ -413,9 +411,7 @@ La Secretaría de Fomento Agropecuario difundirá con oportunidad, por los medio
 
 Se impulsará en el Estado, por todos los medios posibles, la investigación y reproducción de la fauna benéfica, para el control biológico y combate de plagas perjudiciales a la agricultura.
 
-### CAPITULO V. DE LA COMERCIALIZACION DE PRODUCTOS
-
-Y SUBPRODUCTOS
+### CAPITULO V. DE LA COMERCIALIZACION DE PRODUCTOS Y SUBPRODUCTOS
 
 ###### ARTICULO 41.
 
@@ -489,7 +485,7 @@ Los programas serán de tres tipos: normales, especiales y de contingencia. En e
 
 ###### ARTICULO 52.
 
-En los programas de contingencia, la Secretaría de Fomento Agropecuario, establecerá la vinculación necesaria con los productores afectados y con las Dependencias y Organismos Federales que tengan ingerencia en el problema para determinar con precisión los apoyos técnicos, de crédito e inversiones y demás que se requieran a fin de cumplir con esos programas.
+En los programas de contingencia, la Secretaría de Fomento Agropecuario, establecerá la vinculación necesaria con los productores afectados y con las Dependencias y Organismos Federales que tengan ingerencia (sic) en el problema para determinar con precisión los apoyos técnicos, de crédito e inversiones y demás que se requieran a fin de cumplir con esos programas.
 
 ###### ARTICULO 53.
 
@@ -553,7 +549,9 @@ XVII.- Planear cada año, las explotaciones ganaderas, en función de los intere
 
 XVIII.- Llevar un registro de las Patentes, Fierros, Marcas de Herrar y Señales de Sangre, que hayan sido autorizadas por la Secretaría de Fomento Agropecuario.
 
-### CAPITULO II. DE LA PROPIEDAD DE LOS GANADOS
+### CAPITULO II
+
+DE LA PROPIEDAD DE LOS GANADOS.
 
 ###### ARTICULO 58.
 
@@ -607,9 +605,9 @@ Los semovientes y sus crías sin marca, que se encuentren en terrenos ganaderos 
 
 La propiedad del ganado se transferirá de conformidad con lo que establece el derecho común, debiendo el documento en que conste la transmisión, contener los datos que señala la Fracción II del Artículo 58 de esta Ley.
 
-### CAPITULO II
+### CAPITULO III
 
-DE LA PROPIEDAD DE LOS GANADOS.
+DE LAS MARCAS Y SEÑALES.
 
 ###### ARTICULO 66.
 
@@ -661,9 +659,9 @@ III.- "Tatuaje", la impresión de dibujos con tintas indelebles en las orejas o 
 
 IV.- "Arete" la ficha metálica o de plástico con inscripción registrada y autorizada por la Secretaría de Fomento Agropecuario del Estado.
 
-### CAPITULO III
+### CAPITULO IV
 
-DE LAS MARCAS Y SEÑALES.
+DE LA INSPECCION.
 
 ###### ARTICULO 76.
 
@@ -689,9 +687,7 @@ Para la realización de las inspecciones de ganado, la Secretaría de Fomento Ag
 
 Las Autoridades Municipales auxiliarán en sus funciones a los Inspectores de Ganadería cuando éstos lo soliciten y en los lugares en que por cualquier motivo no exista Inspector de Ganadería, dichas Autoridades Municipales tendrán las funciones del Inspector.
 
-### CAPITULO IV
-
-DE LA INSPECCION.
+### CAPITULO V. CORRIDAS O VELAS
 
 ###### ARTICULO 80.
 
@@ -715,7 +711,7 @@ Las corridas o velas, sean parciales o generales, serán dirigidas por el Inspec
 
 ###### ARTICULO 85.
 
-El Inspector de Ganadería, dirigirá, ordenará y vigilará la separación y el reparto de los ganados y únicamente hará entrega de animales a sus respectivos dueños o a quienes acrediten ser representantes de ellos por medio de carta poder, en laque deberán estar diseñadas las marcas y señales legalmente registradas.
+El Inspector de Ganadería, dirigirá, ordenará y vigilará la separación y el reparto de los ganados y únicamente hará entrega de animales a sus respectivos dueños o a quienes acrediten ser representantes de ellos por medio de carta poder, en la que deberán estar diseñadas las marcas y señales legalmente registradas.
 
 ###### ARTICULO 86.
 
@@ -751,7 +747,7 @@ Todos los concurrentes a corridas o velas generales o parciales ya sean propieta
 
 Queda prohibido efectuar movilizaciones de ganado en cada rancho mientras se esté efectuando en él una corrida o vela.
 
-### CAPITULO V. CORRIDAS O VELAS
+### CAPITULO VI. DE LOS MOSTRENCOS
 
 ###### ARTICULO 94.
 
@@ -817,13 +813,15 @@ I.- Al Gobierno del Estado corresponderá el 25%
 
 II.- Al Municipio donde se celebre el Remate, le corresponderá el 50%.
 
-III.- Al denunciante le corresponderá el 25% .
+III.- Al denunciante le corresponderá el 25%.
 
 ###### ARTICULO 109.
 
 La Secretaría de Fomento Agropecuario, llevará un Libro de Registro de Animales Mostrencos, en el que asentará por orden de Municipios los datos relativos a los animales subastados, tales como fecha de presentación de éstos, especie, edad aproximada, sexo, color, clase, estado físico, marcas y señales, nombre y domicilio de la persona a quien se adjudique, precio de la adjudicación, monto de los gastos de alimentación y cuidado del animal y la participación que conforme al Artículo anterior se hayan entregado en su caso.
 
-### CAPITULO VI. DE LOS MOSTRENCOS
+### CAPITULO VII. PROTECCION DE LA GANADERIA
+
+SANIDAD PECUARIA
 
 ###### ARTICULO 110.
 
@@ -839,7 +837,7 @@ En casos urgentes, a juicio del Gobierno del Estado, las autoridades dependiente
 
 ###### ARTICULO 113.
 
-Las Autoridades Municipales, las Asociaciones Ganaderas Locales, los Inspectores de Ganadería y los Médicos Veterinarios , están obligados a dictar inmediatamente las medidas que establecen las Leyes de la materia en caso de desarrollo de una epizootia, debiendo comunicarlos simultáneamente a la Secretaría de Fomento Agropecuario del Estado, a la Delegación Estatal de la S.A.R.H. y a la Unión Ganadera Regional.
+Las Autoridades Municipales, las Asociaciones Ganaderas Locales, los Inspectores de Ganadería y los Médicos Veterinarios, están obligados a dictar inmediatamente las medidas que establecen las Leyes de la materia en caso de desarrollo de una epizootia, debiendo comunicarlos simultáneamente a la Secretaría de Fomento Agropecuario del Estado, a la Delegación Estatal de la S.A.R.H. y a la Unión Ganadera Regional.
 
 ###### ARTICULO 114.
 
@@ -951,9 +949,7 @@ VII.- Para que una partida de ganado pueda continuar hacia una zona limpia, debe
 
 Se declara obligatorio en el Estado, en las zonas zootécnicas, la prevención y el combate de Cochlyoma o Callitroga homonivorax, conocido comunmente como gusano barrenador o tornillo. Quedan asimismo, obligados los ganaderos del Estado, a acatar los ordenamientos que con el fin de evitar esta plaga, así como aquellos que emanen de los acuerdos internacionales de la Ley Federal Fitosanitaria y de las disposiciones del Ejecutivo del Estado encaminadas a combatirlas.
 
-### CAPITULO VII. PROTECCION DE LA GANADERIA
-
-SANIDAD PECUARIA
+### CAPITULO VIII. DE LOS RASTROS Y SACRIFICIOS DE GANADO
 
 ###### ARTICULO 138.
 
@@ -997,7 +993,7 @@ Los ganados sacrificados fuera de la jurisdicción del Estado, que pretendan ser
 
 ###### ARTICULO 148.
 
-Las carnes, productos y subproductos, que se encuentren en los establecimientos comerciales y que carezcan de sellos del Rastro , serán decomisadas y sus propietarios o poseedores, puestos a disposición del Agente del Ministerio Público por si existiera la comisión de algún delito.
+Las carnes, productos y subproductos, que se encuentren en los establecimientos comerciales y que carezcan de sellos del Rastro, serán decomisadas y sus propietarios o poseedores, puestos a disposición del Agente del Ministerio Público por si existiera la comisión de algún delito.
 
 ###### ARTICULO 149.
 
@@ -1019,7 +1015,9 @@ Todo el que sacrificare ganado sin justificar su legal adquisición, será consi
 
 Cuando por cualquier circunstancia haya necesidad de sacrificar ganado en el campo, deberá previamente recabarse permiso por escrito de la Autoridad Municipal más cercana, y consumado el sacrificio, se presentará a la propia Autoridad las respectivas pieles y orejas unidas a las mismas, de los animales sacrificados y quien los mató o mandó matar justificará su derecho o autorización para disponer de ellos.
 
-### CAPITULO VIII. DE LOS RASTROS Y SACRIFICIOS DE GANADO
+### CAPITULO IX
+
+DE LOS SELLOS OFICIALES.
 
 ###### ARTICULO 154.
 
@@ -1049,9 +1047,9 @@ Queda prohibido o toda persona física o moral, fabricar sellos oficiales, regis
 
 A quien se le encomiende la confección de sellos oficiales, registradores o fechadores, sin que se les entregue la orden contenida en oficio de la Secretaría de Fomento Agropecuario del Estado, queda obligado a denunciar el hecho a la citada Secretaría.
 
-### CAPITULO IX
+### CAPITULO X. MOVILIZACION DE GANADO, PRODUCTOS Y SUBPRODUCTOS
 
-DE LOS SELLOS OFICIALES.
+DE ORIGEN ANIMAL.
 
 ###### ARTICULO 158.
 
@@ -1109,9 +1107,9 @@ Los Inspectores de Ganadería dependientes de la Secretaría de Fomento Agropecu
 
 Todo ganado que entre al Estado al amparo de permisos de introducción y con sus correspondientes Guías de Tránsito y permaneciere por un período mayor de cuarenta días dentro de los límites territoriales del Estado, será objeto de todos los Impuestos en vigor. Para la introducción al Estado o salida de él, de productos o subproductos pecuarios, se requerirá el permiso correspondiente de la Secretaría de Fomento Agropecuario quien tomará en cuenta para el otorgamiento o denegación las condiciones de los productores y el consumo local.
 
-### CAPITULO X. MOVILIZACION DE GANADO, PRODUCTOS Y SUBPRODUCTOS
+### CAPITULO XI. DEL CONTROL DE LA ENTRADA DE GANADO MAYOR Y
 
-DE ORIGEN ANIMAL.
+MENOR AL ESTADO.
 
 ###### ARTICULO 166.
 
@@ -1135,9 +1133,7 @@ IV.- Lo dispuesto en el Artículo 135 de esta Ley.
 
 La Secretaría de Fomento Agropecuario, deberá llevar un estricto control de la introducción de ganado en canal o en pie, a través de los permisos de introducción y el registro de aretes, así como de las bajas que cause.
 
-### CAPITULO XI. DEL CONTROL DE LA ENTRADA DE GANADO MAYOR Y
-
-MENOR AL ESTADO.
+### CAPITULO XII. DE LA SALIDA O INTRODUCCION DE REEMPLAZOS
 
 ###### ARTICULO 169.
 
@@ -1151,7 +1147,7 @@ La introducción o salida de reemplazos del Estado, además de los requisitos qu
 
 Para los efectos de los dos Artículos anteriores, se entiende por reemplazos, las vaquillas y demás ganado que substituye al ganado que se desecha.
 
-### CAPITULO XII. DE LA SALIDA O INTRODUCCION DE REEMPLAZOS
+### CAPITULO XIII. DE LA REDHIBICION
 
 ###### ARTICULO 172.
 
@@ -1165,7 +1161,7 @@ En el caso del Artículo anterior, el juicio se tramitará en la Vía Civil Suma
 
 La acción para ejercitar el derecho que concede el Artículo 171 prescribirá en seis meses, contando a partir del día en que el comprador reciba el animal.
 
-### CAPITULO XIII. DE LA REDHIBICION
+### CAPITULO XIV. VIAS PECUARIAS Y AGUAJES O ABREVADEROS
 
 ###### ARTICULO 175.
 
@@ -1181,7 +1177,7 @@ Las vías pecuarias son de utilidad pública y su existencia y apertura implica 
 
 ###### ARTICULO 178.
 
-Los propietarios o poseedores de abrevaderos situados en las inmediaciones de las vías pecuarias, están obligados a proporcionar agua en forma gratuita a las partidas de ganado que sean movilizadas por tales vías, y solo cuando el agua sea obtenida por propulsión mecánica, tendrán derechos a cobrar hasta $ 3.00 (tres pesos) por cabeza por concepto de este aguaje.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 1996)
 
 ###### ARTICULO 179.
 
@@ -1189,15 +1185,15 @@ En los casos en que resulte inconveniente o perjudicial, a juicio de la Secretar
 
 ###### ARTICULO 180.
 
-Todo dueño o poseedor de terreno ubicado a lo largo de una vía pecuaria, está obligado a permitir que pasten los ganados en tránsito por sus propiedades o posesiones debiéndosele cubrir una cuota de hasta $ 5.00 (cinco pesos) por cabeza.
-
-El conductor de una partida no podrá permanecer más de un día con su ganado en terrenos de un particular si no es con el consentimiento del dueño. Debiendo recorrer distancias no menores de cinco kilómetros al día.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 1996)
 
 ###### ARTICULO 181.
 
 No se hará construcción alguna de cercos o valladares que impidan el libre acceso de los ganados a los aguajes, abrevados o embarcaderos de servicio comunal.
 
-### CAPITULO XIV. VIAS PECUARIAS Y AGUAJES O ABREVADEROS
+### CAPITULO XV
+
+DE LOS CERCOS Y PASTOS.
 
 ###### ARTICULO 182.
 
@@ -1229,9 +1225,9 @@ El propietario, poseedor, arrendatario o usufructuario de terrenos pastales, est
 
 Queda prohibido a toda persona cruzar cercos de terreno de propiedad particular, sin previo permiso del dueño o poseedor del mismo.
 
-### CAPITULO XV
+### CAPITULO XVI
 
-DE LOS CERCOS Y PASTOS.
+MEJORAMIENTO DE LA GANADERIA.
 
 ###### ARTICULO 188.
 
@@ -1283,9 +1279,7 @@ La Secretaría de Fomento Agropecuario del Estado, llevará el control de los Li
 
 Las Asociaciones Ganaderas Locales y la Unión Ganadera Regional, cooperarán a la formación de los Libros de Registro a que se refiere el Artículo anterior, facilitando los estudios, datos y cuantos elementos sean necesarios a dicho fin.
 
-### CAPITULO XVI
-
-MEJORAMIENTO DE LA GANADERIA.
+### CAPITULO XVII. INDUSTRIA LECHERA
 
 ###### ARTICULO 196.
 
@@ -1325,7 +1319,7 @@ II.- El muestreo y el análisis químico bacteriológico de la leche y sus deriv
 
 III.- Inspección sanitaria general en los establos, plantas industriales y expendios de leche o de sus derivados para verificar si se cumple con lo dispuesto en la presente Ley Cuando en el ejercicio de sus funciones encontraren violaciones al Código Sanitario Federal, lo pondrán en conocimiento de las autoridades competentes.
 
-### CAPITULO XVII. INDUSTRIA LECHERA
+### CAPITULO XVIII. DE LA AVICULTURA
 
 ###### ARTICULO 204.
 
@@ -1381,7 +1375,9 @@ El Ejecutivo del Estado por sí o a través de la Secretaría de Fomento Agropec
 
 ## TITULO CUARTO. FORESTAL Y FAUNA
 
-### CAPITULO XVIII. DE LA AVICULTURA
+### CAPITULO I
+
+DE LA EXPLOTACION RACIONAL, CONSERVACION Y MEJORAMIENTO DE LOS RECURSOS FORESTALES Y FAUNISTICOS.
 
 ###### ARTICULO 208.
 
@@ -1463,9 +1459,7 @@ Los calendarios cinegéticos así como los permisos de caza, serán objeto de an
 
 En coordinación con las Autoridades Federales del ramo, el Gobierno del Estado a través de la Secretaría de Fomento Agropecuario, sancionará las actividades cinegéticas y forestales que se realicen en la Entidad.
 
-### CAPITULO I
-
-DE LA EXPLOTACION RACIONAL, CONSERVACION Y MEJORAMIENTO DE LOS RECURSOS FORESTALES Y FAUNISTICOS.
+### CAPITULO II. EXPLOTACION DE JOJOBA
 
 ###### ARTICULO 228.
 
@@ -1481,7 +1475,9 @@ IV.- Inspeccionar los centros de producción, comercialización e industrializac
 
 V.- Tomar las medidas adecuadas para la protección de las plantas de jojoba.
 
-### CAPITULO II. EXPLOTACION DE JOJOBA
+### CAPITULO III. DE LAS ORGANIZACIONES PARA EL APROVECHAMIENTO
+
+DE LA JOJOBA.
 
 ###### ARTICULO 229.
 
@@ -1517,9 +1513,9 @@ IX.- Promover en general las medidas adecuadas para la protección y defensa de 
 
 Las organizaciones deberán formular sus Estatutos y Reglamentación Interna para su debido funcionamiento y tendrán la representación del conjunto de sus miembros.
 
-### CAPITULO III. DE LAS ORGANIZACIONES PARA EL APROVECHAMIENTO
+### CAPITULO IV
 
-DE LA JOJOBA.
+DE LOS PRODUCTORES, COMERCIALIZADORES E INDUSTRIALIZADORES DE JOJOBA.
 
 ###### ARTICULO 233.
 
@@ -1555,9 +1551,7 @@ El Ejecutivo del Estado dictará las medidas necesarias para apoyar y promover a
 
 El Ejecutivo del Estado podrá cancelar los Certificados a que se refiere el Artículo 233, cuando no se cumpla con esta Ley.
 
-### CAPITULO IV
-
-DE LOS PRODUCTORES, COMERCIALIZADORES E INDUSTRIALIZADORES DE JOJOBA.
+### CAPITULO V. DE LA PROTECCION DE LA JOJOBA
 
 ###### ARTICULO 239.
 
@@ -1575,7 +1569,7 @@ La recolección de la semilla de jojoba se hará de acuerdo a instructivos técn
 
 Para formar viveros, así como para proporcionarla a centros de investigación, los productores de jojoba dejarán a disposición de la Secretaría de Fomento Agropecuario, hasta el 5% de la recolección de la semilla de más alta calidad.
 
-### CAPITULO V. DE LA PROTECCION DE LA JOJOBA
+### CAPITULO VI. DE LA MOVILIZACION DE LA JOJOBA
 
 ###### ARTICULO 243.
 
@@ -1607,7 +1601,7 @@ II.- Un trato quedará en poder de la Secretaría de Finanzas del Estado.
 
 III.- Los tres tantos restantes se entregarán al propietario solicitante de la Guía, de los cuales uno conservará en su poder, otro será para el conductor del producto y el último será entregado al destinatario.
 
-### CAPITULO VI. DE LA MOVILIZACION DE LA JOJOBA
+### CAPITULO VII. DE LA INSPECCION DE LA JOJOBA
 
 ###### ARTICULO 246.
 
@@ -1631,7 +1625,7 @@ La Secretaría de Fomento Agropecuario del Estado, podrá facultar a otras autor
 
 ## TITULO QUINTO. SERVICIOS A PRODUCTORES
 
-### CAPITULO VII. DE LA INSPECCION DE LA JOJOBA
+### CAPITULO I. ASISTENCIA TECNICA INTEGRAL
 
 ###### ARTICULO 249.
 
@@ -1735,7 +1729,7 @@ El Director Técnico presentará a la Comisión un Avance Mensual de los program
 
 El Director Técnico presentará a la Comisión los Programas y Presupuestos, así como los Convenios suscritos para su aprobación previo al inicio de cada ciclo productivo, así como los que requieran en forma eventual, un incremento de las actividades planteadas originalmente.
 
-### CAPITULO I. ASISTENCIA TECNICA INTEGRAL
+### CAPITULO II. PRODUCCION DE SEMILLAS CERTIFICADAS
 
 ###### ARTICULO 268.
 
@@ -1750,8 +1744,6 @@ La Secretaría de Fomento Agropecuario, promoverá en el Estado la producción d
 Se impulsará en el Estado, la investigación científica como medio para obtener semillas de mejor calidad y mayor productividad, adaptadas a las condiciones ecológicas de las distintas regiones en la Entidad.
 
 ### CAPITULO III. EXPOSICIONES AGROPECUARIAS
-
-### CAPITULO II. PRODUCCION DE SEMILLAS CERTIFICADAS
 
 ###### ARTICULO 271.
 
@@ -1852,3 +1844,9 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 LIC. HUGO FELIX GARCIA.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE NOVIEMBRE DE 1996.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
