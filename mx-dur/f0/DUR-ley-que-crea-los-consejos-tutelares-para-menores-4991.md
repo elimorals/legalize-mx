@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-los-consejos-tutelares-para-menores-4991"
 country: "mx"
 rank: "ley"
 publication_date: "1979-05-13"
-last_updated: "1979-05-13"
+last_updated: "1993-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 13 de mayo de 1979.
 
@@ -261,7 +261,9 @@ IV.- Departamento de Educación Física.
 
 V.- Los demás departamentos y secciones que en lo futuro se determinen.
 
-Estas dependencias estarán bajo la responsabilidad técnica y administrativa del Presidente del Sistema para el Desarrollo Integral de la Familia (D.I.F.), auxiliado por el Director General y el Personal que señala esta Ley y autoriza el Presupuesto.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1993)</small>
+
+Estas dependencias estarán bajo la responsabilidad técnica y administrativa del Ejecutivo del Estado a través de la Secretaría General de Gobierno.
 
 ###### ARTICULO 22o.
 
@@ -525,9 +527,7 @@ Los Consejeros y los Secretarios de acuerdos de los Consejos Tutelares para Meno
 
 El Pleno, el Director del Centro de Observación y Orientación para Menores, en su caso, resolverán la forma de proceder cuando no exista expresa disposición sobre el particular, ajustándose siempre a la naturaleza de las funciones del Consejo y a las finalidades que éste persigue. Se procurará prescindir siempre que sea posible, y particularmente cuando el menor se halle presente, en las formalidades propias del procedimiento para adultos asentándose, en la forma de las actuaciones, la naturaleza tutelar del órgano exenta de propósito represivo, según se establece en esta Ley.
 
-#### SECCION II
-
-DE LA SUBSTANCIACION.
+#### SECCION II. DE LA SUBSTANCIACION
 
 ###### ARTICULO 48o.
 
@@ -655,9 +655,7 @@ Cuando hubiesen intervenido adultos y menores en la Comisión de hechos previsto
 
 Las diligencias en que deban participar los menores se llevarán a cabo, preferentemente, en el sitio en que éstos se encuentren. No se autorizará su traslado a los juzgados penales, salvo cuando se estimen estrictamente necesario, a juicio del Juez que conozca del proceso en contra de los adultos.
 
-#### SECCION IV
-
-DE LAS MEDIDAS TUTELARES.
+#### SECCION IV. DE LAS MEDIDAS TUTELARES
 
 ###### ARTICULO 77o.
 
@@ -870,3 +868,9 @@ Por tanto mando se imprima, publique, circule y comunique a quienes corresponda 
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los dos días del mes de Abril del año de mil novecientos setenta y nueve.
 
 El Gobernador Constitucional del Estado, HECTOR MAYAGOITIA DOMINGUEZ.- El Secretario General de Gobierno, LIC. CARLOS GALINDO MARTINEZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE JUNIO DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor ocho días después al de su publicación en el Periódico Oficial del Estado.
