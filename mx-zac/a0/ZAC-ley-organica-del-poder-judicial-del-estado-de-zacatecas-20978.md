@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-judicial-del-estado-de-zacatecas-20978"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-04"
-last_updated: "2002-07-10"
+last_updated: "2002-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2002.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 4 de abril del 2001.
 
@@ -343,7 +343,7 @@ Atribuciones
 
 El Presidente del Tribunal Superior de Justicia será electo por el Pleno, durará en el ejercicio del cargo tres años, podrá ser reelecto por una sola vez, no integrará sala y ejercerá las atribuciones siguientes:
 
-I. Ser el representante legal del Poder Judicial del Estado,
+I. Ser el representante legal del Poder Judicial del Estado;
 
 II. Vigilar que la administración de justicia sea pronta, expedita y eficaz;
 
@@ -529,7 +529,9 @@ Para ser actuario, notificador, oficial de partes o secretario auxiliar, se requ
 
 Atribuciones del Secretario General de Acuerdos
 
-Son atribuciones del Secretario General de Acuerdos
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
+Son atribuciones del Secretario General de Acuerdos:
 
 I. Concurrir a las sesiones del Pleno con voz informativa y dar fe de los acuerdos;
 
@@ -555,7 +557,9 @@ XI. Llevar el control de procesos;
 
 XII. Organizar y controlar el archivo general del Poder Judicial;
 
-XIII. Ordenar y vigilar la revisión de los procesos penales terminados en la Primera Instancia, mediante sobreseimiento o sentencia ejecutoriada;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
+XIII. Ordenar y vigilar la revisión de los procesos penales terminados en la primera instancia, mediante sobreseimiento o sentencia ejecutoriada, cuando por considerarlo necesario así lo determine el Pleno o el Presidente de este Tribunal Superior de Justicia;
 
 XIV. Dar cuenta al Presidente de los asuntos que deban turnarse a las Salas;
 
@@ -819,7 +823,9 @@ I. Conocerán de los juicios ejecutivos mercantiles cuya suerte principal no exc
 
 II. Conocerán, en materia familiar, de las cuestiones de alimentos;
 
-III. Conocerán de todos los juicios que conforme a la ley, deban tramitarse por la vía de jurisdicción voluntaria;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
+III. Conocerán de todos los juicios que conforme a la ley, deban tramitarse por la vía de jurisdicción voluntaria, incluyendo los juicios sobre rectificación de actas del Registro Civil a que se refiere el capítulo VIII, título tercero, libro tercero del Código de Procedimientos Civiles del Estado;
 
 IV. Conocerán de los delitos que de conformidad con el Código de Procedimientos Penales, deban tramitarse en vía sumaria;
 
@@ -1397,9 +1403,9 @@ IV. Conceder licencia a los Magistrados Electorales que lo integran, siempre que
 
 V. Proponer a la Comisión de Administración el nombramiento de los servidores públicos, jurídicos y administrativos, que deban auxiliar en sus funciones al Tribunal Estatal Electoral;
 
-VI. Aprobar el reglamento interior y dictar los acuerdos generales en las materias de su competencia.
+VI. Aprobar el reglamento interior y dictar los acuerdos generales en las materias de su competencia;
 
-VII. Fijar los días y horas en que deba sesionar la Sala, tomando en cuenta los plazos electorales;
+VII. Fijar los días y horas en que deba sesionar la Sala, tomando en cuenta los plazos electorales.
 
 VIII. Conocer y resolver sobre las excusas o impedimentos de los Magistrados Electorales que la integran;
 
@@ -1962,5 +1968,17 @@ P.O. 12 DE ENERO DE 2002
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 P.O. 10 DE JULIO DE 2002
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 2002.
+
+DECRETO No. 117
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 2002.
+
+DECRETO No 128
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
