@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2004-12-09"
+last_updated: "2004-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -214,6 +214,10 @@ El acuerdo de adscripción de unidades administrativas deberá ser suscrito por 
 Los funcionarios señalados en el artículo 8o. de este Reglamento, que sean designados delegados fiduciarios, tendrán las facultades de administración y pleitos y cobranzas necesarias, para procurar el debido cumplimiento de los fines señalados en el contrato de fideicomiso respectivo. Lo anterior en los términos indicados en los artículos 7o. segundo y tercer párrafos y 8o. del presente ordenamiento.
 
 Las facultades referidas en el párrafo que antecede, tratándose de actos de dominio sólo podrán ser realizadas por los delegados fiduciarios generales, o bien, con la autorización previa y por escrito de éstos.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+A la extinción de cualquier fideicomiso, los delegados fiduciarios generales en representación del Banco como fiduciario, atenderán los requerimientos que formulen toda clase de autoridades, incluyendo las judiciales y administrativas, así como los particulares en términos de las disposiciones aplicables. Dichos delegados podrán actuar en forma individual.
 
 > <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2001)</small>
 
@@ -1342,3 +1346,7 @@ UNICO. Las presentes reformas y adiciones, entrarán en vigor al día siguiente 
 D.O.F. 9 DE DICIEMBRE DE 2004.
 
 UNICO. Las presentes reformas y adición, entrarán en vigor el día 1o. de enero de 2005.
+
+D.O.F. 10 DE DICIEMBRE DE 2004.
+
+UNICO. La presente adición entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
