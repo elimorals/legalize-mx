@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "2000-03-29"
+last_updated: "2000-04-14"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ABRIL DE 2000.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -179,7 +179,9 @@ VII.- SEPTIMO CIRCUITO:
 
 1.- Seis tribunales colegiados especializados: dos en materias administrativa y de trabajo y dos en materia penal, con residencia en Boca del Río; y, dos en materia civil con sede en la ciudad de Xalapa.
 
-2.- Dos tribunales unitarios con residencia en Boca del Río.
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL NUMERO 24/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2000)</small>
+
+2.- Un tribunal unitario con residencia en Boca del Río.
 
 3.- Siete juzgados de distrito: dos con sede en la ciudad de Xalapa, tres con residencia en Boca del Río y dos con sede en Tuxpan.
 
@@ -980,3 +982,11 @@ ACUERDO GENERAL NUMERO 23/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 PRIMERO.- Este Acuerdo entrará en vigor el día veintinueve de marzo de dos mil.
 
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 14 DE ABRIL DE 2000.
+
+PRIMERO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Dirección General de Recursos Humanos del Consejo de la Judicatura Federal atenderá en términos de ley, la situación laboral del personal adscrito al Tribunal Unitario, así como a la Oficialía de Partes Común, que concluyen funciones y que no fuera reubicado en el nuevo Juzgado de Distrito en el Estado de Veracruz, con residencia en Boca del Río, aprobado en sesión del Pleno del Consejo de la Judicatura Federal de ocho de marzo del año en curso; ni en el Tribunal Unitario del Décimo Circuito, con residencia en Villahermosa, Tabasco, aprobado por el mismo Organo Colegiado en sesión de cinco de abril del presente año.
+
+TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
