@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "1994-08-19"
+last_updated: "1994-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 1994.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 1994.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -237,17 +237,31 @@ II.- Poder ser votado para todos los cargos de elección popular y nombrado para
 
 III.- Reunirse pacíficamente para tratar y discutir los asuntos políticos del Estado o de los Municipios de éste.
 
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+IV.- Los Ministros de los cultos religiosos, tendrán las prerrogativas que les concede la Constitución Política de los Estados Unidos Mexicanos, así como Leyes y Reglamentos Federales de la Materia.
+
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
 ###### Artículo 23.
 
 Son obligaciones de los ciudadanos del Estado:
 
-I.- Inscribirse en el Padrón Electoral.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
-II.- Votar en las elecciones populares, en la forma que disponga la ley.
+I.- Inscribirse en el Padrón Municipal.
 
-III.- Desempeñar los cargos de elección popular, los concejiles, los censales y las funciones electorales conforme a la ley, salvo excusa legítima.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+II.- Inscribirse en el Padrón Electoral.
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+III.- Votar en las elecciones populares, en la forma que disponga la Ley; y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+IV.- Desempeñar los cargos de elección popular, los concejiles, los censales y las funciones electorales conforme a la Ley, salvo excusa legítima.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -339,9 +353,7 @@ Sólo podrán ejercer jurisdicción en el territorio del Estado, las autoridades
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-### CAPITULO I
-
-DE LA ORGANIZACION DEL CONGRESO.
+### CAPITULO I. DE LA ORGANIZACION DEL CONGRESO
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -399,7 +411,9 @@ No pueden ser electos diputados propietarios o suplentes:
 
 I.- El Gobernador del Estado, aun cuando se separe definitivamente de su cargo.
 
-II.- Los Magistrados en ejercicio del Tribunal Superior de Justicia del Estado, los Secretarios del Despacho del Ejecutivo, los Subsecretarios, el Procurador General de Justicia, el Oficial Mayor de Gobierno, el Secretario Particular del Gobernador, los Directores de las dependencias del Ejecutivo, el Presidente de la Junta de Conciliación y Arbitraje, el Secretario de la Comisión Agraria Mixta y los Jefes de Policía del Estado.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+II.- Los Magistrados en ejercicio del Tribunal Superior de Justicia del Estado, los Secretarios del Despacho del Ejecutivo, los Subsecretarios, el Procurador General de Justicia, el Secretario Particular del Gobernador, los Directores de las Dependencias del Ejecutivo, el Presidente de la Junta Local de Conciliación y Arbitraje y los Titulares de los cuerpos de Seguridad Pública del Estado.
 
 III.- Los funcionarios del Gobierno Federal
 
@@ -889,9 +903,13 @@ XIV.- Cuidar, en los distintos ramos de la Administración, que los caudales pú
 
 XV.- Controlar los ramos de la Administración Pública.
 
-XVI.- (DEROGADA, P.O. 2 DE FEBRERO DE 1984)
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
-XVII.- (DEROGADA, P.O. 2 DE FEBRERO DE 1984)
+XVI.- Celebrar contratos y convenios con la Federación, Ayuntamientos y demás Estados de la República, sobre asuntos que beneficien a la Entidad.
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+XVII.- Celebrar convenios con los Ayuntamientos del Estado, respecto a la prestación de servicios públicos y cobro de impuestos, derechos y aprovechamientos, cuando éstos no tengan los recursos suficientes para hacerlo.
 
 XVIII.- Nombrar Concejos Municipales, en los casos y términos que señale la ley.
 
@@ -1023,7 +1041,9 @@ II.- La forma en que los Magistrados suplentes deban ser llamados a ejercer sus 
 
 III.- La organización y atribuciones de los Juzgados.
 
-IV.- El tiempo que deben durar los Jueces en el ejercicio de su cargo y los requisitos para que los de Primera Instancia del Estado y los Menores de la Capital, adquieran la inamovilidad.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+IV.- El tiempo que deben durar los Jueces en el ejercicio de su cargo y los requisitos para que los de Primera Instancia del Estado, adquieran la inamovilidad.
 
 V.- La manera de cubrir las faltas de los Jueces.
 
@@ -1301,11 +1321,11 @@ La Hacienda Pública tiene por objeto atender los gastos del Estado.
 
 La Hacienda Pública se formará con el producto de las contribuciones, impuestos, derechos, productos, aprovechamientos y participaciones que determinen las leyes fiscales, y con las donaciones, legados, herencias y reintegros que se hicieren en su favor.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 111.
 
-La Ley de Ingresos fijará anualmente las cuotas correspondientes a las contribuciones, impuestos, derechos, productos y aprovechamientos, los cuales deberán ser suficientes para cubrir el presupuesto anual de egresos, de acuerdo con lo que se establezca en el Código Fiscal del Estado; pero las participaciones que corresponden al Estado en ingresos federales y municipales serán las que determinen las leyes y convenios que las establezcan.
+La Ley de Ingresos, fijará anualmente las cuotas correspondientes a las contribuciones, impuestos, derechos, productos y aprovechamientos, los cuales deberán ser suficientes para cubrir el presupuesto anual de egresos, de acuerdo con lo que se establezca en las disposiciones legales aplicables; las participaciones que corresponden al Estado en ingresos Federales y Municipales, serán las que determinen las Leyes y Convenios que las establezcan.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1355,17 +1375,13 @@ Para la conservación de la tranquilidad y orden públicos en el Estado, se orga
 
 ### CAPITULO IV. DE LA EDUCACION PUBLICA
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 118.
 
-Es obligación del Estado impartir y fomentar la educación pública en todos sus grados, especialmente la educación primaria de acuerdo a las circunstancias del erario y de conformidad con las necesidades sociales de los habitantes.
+Es obligación del Estado impartir y fomentar la educación pública en todos sus grados, de acuerdo a las circunstancias del erario y de conformidad con las necesidades de los habitantes. La educación primaria y secundaria son obligatorias.
 
-La educación que imparta el Estado será gratuita.
-
-La educación primaria, secundaria, normal y la destinada a obreros y campesinos, se sujetará estrictamente a lo dispuesto por el artículo 3º de la Constitución General de la República y sus Leyes reglamentarias.
-
-Los particulares no necesitan autorización del Estado para impartir públicamente educación distinta a la que señala el párrafo anterior; pero para que se reconozca validez oficial a sus estudios deberán satisfacer los requisitos de ley.
+La educación que imparta el Estado será gratuita y se sujetará estrictamente a lo dispuesto por el artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y sus Leyes reglamentarias.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1407,15 +1423,17 @@ El Gobierno proveerá lo necesario para la conservación, mejoramiento y desarro
 
 ### CAPITULO VII. DEL DERECHO SOCIAL
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 123.
 
-El Gobierno, en el ámbito de su competencia, vigilará y estimulará el debido cumplimiento de las leyes y demás disposiciones que se dicten en materia de trabajo y previsión social, educación, fomento agropecuario, vivienda y demás que, siendo de orden público tiendan al mejoramiento de la población y realización de la justicia social.
+El Gobierno, en el ámbito de su competencia, vigilará y estimulará el debido cumplimiento de las Leyes y demás disposiciones que se dicten en materia de trabajo y previsión social, educación, fomento agropecuario, vivienda y cualesquiera otras que siendo de orden público tiendan al mejoramiento de la población y a la realización de la justicia social.
+
+Toda familia poblana, tiene derecho a disfrutar de vivienda digna y decorosa, debiendo establecer el Ejecutivo Estatal, los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-## TITULO NOVENO. DISPOSICIONES GENERALES
+## TITULO NOVENO.. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1669,7 +1687,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 17 DE NOVIEMBRE DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 13 DE NOVIEMBRE DE 1936.
 
@@ -1768,3 +1786,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 19 DE AGOSTO DE 1994.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
