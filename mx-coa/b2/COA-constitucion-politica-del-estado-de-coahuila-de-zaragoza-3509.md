@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1938-03-26"
+last_updated: "1938-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 1938.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 1938.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1080,9 +1080,11 @@ Para ser electo Munícipe se requiere:
 
 Ser ciudadano coahuilense en el ejercicio de sus derechos, vecino de la municipalidad, con residencia de tres años continuados anteriores al día de la elección, saber leer y escribir, tener modo honesto de vivir y los demás requisitos que exija la Ley Electoral.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1938)</small>
+
 ###### Artículo 130.
 
-Los Presidentes Municipales y Regidores de los Ayuntamientos se concretarán a cumplir las funciones que les señale la ley. En consecuencia, no podrán desempeñar empleos o comisiones del Municipio, del Estado o de la Federación por los que se perciba sueldo del erario público, a no ser que renuncien las dietas, que para todos los concejales serán las asignadas por el Ayuntamiento anterior.
+Los Presidentes Municipales o Regidores de los Ayuntamientos, se concretarán a cumplir las funciones que les señala la Ley. En consecuencia no podrán desempeñar empleos o comisiones del Municipio, del Estado o de la Federación por los que perciba sueldo del Erario Público, con excepción de los casos en que el Congreso del Estado los autorice para ello, en atención a las condiciones económicas de los Municipios que estén imposibilitados para cubrir los sueldos correspondientes. Las dietas para todos los Concejales serán las asignadas por el Ayuntamiento anterior.
 
 ###### Artículo 131.
 
@@ -1608,7 +1610,7 @@ Quedan derogadas las disposiciones legales que se opongan a la presente ley.
 
 P.O. 14 DE MAYO DE 1921.
 
-LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+> <small>N. DE E. EL DECRETO DEL ORDENAMIENTO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.</small>
 
 P.O. 5 DE MAYO DE 1926.
 
@@ -1643,5 +1645,9 @@ P.O. 12 DE ENERO DE 1938.
 Artículo Transitorio.- Desde la promulgación del presente Decreto desaparecerá la Cuarta Sala del Supremo Tribunal de Justicia del Estado, cuyos asuntos serán encomendados a las tres Salas restantes.
 
 P.O. 26 DE MARZO DE 1938.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 20 DE ABRIL DE 1938.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
