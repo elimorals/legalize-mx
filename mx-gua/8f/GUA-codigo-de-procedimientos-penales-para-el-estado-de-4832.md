@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "1988-09-20"
+last_updated: "1988-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 1988.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -2427,19 +2427,23 @@ Cuando proceda la libertad caucional, inmediatamente que se solicite se decretar
 
 Si se negare la libertad caucional podrá solicitarse de nuevo y concederse por causas supervenientes.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1988)</small>
+
 ###### Art. 390.
 
-El monto de la caución se fijará por el tribunal, quien tomará en consideración:
+El monto de la caución se fijará por el Juzgador, quien tomará en consideración:
 
-I.- Los antecedentes del inculpado;
+I.- Las circunstancias personales del inculpado;
 
-II.- La gravedad y circunstancias del delito imputado;
+II.- La gravedad del delito que se le impute, incluyendo sus modalidades; y
 
-III.- El mayor o menor interés que pueda tener el inculpado en substraerse a la acción de la justicia;
+III.- La naturaleza de la garantía que ofrezca.
 
-IV.- Las condiciones económicas del inculpado; y
+La caución no excederá de la cantidad equivalente a la percepción durante dos años del salario mínimo general vigente en el lugar en que se cometió el delito. Sin embargo, la autoridad judicial, en virtud de la especial gravedad del delito, las particulares circunstancias personales del imputado o de la víctima, mediante resolución motivada, podrá incrementar el monto de la caución hasta la cantidad equivalente a la percepción durante cuatro años del salario mínimo general vigente en el lugar en que se cometió el delito.
 
-V.- La naturaleza de la garantía que se ofrezca.
+Si el delito es intencional o representa para su autor un beneficio económico o causa a la víctima daño o perjuicio patrimonial, la garantía será cuando menos tres veces mayor al beneficio obtenido o a los daños y perjuicios patrimoniales causados.
+
+Si el delito es preterintencional o imprudencial bastará que se garantice la reparación de los daños o perjuicios patrimoniales y se estará a lo dispuesto en los dos párrafos anteriores.
 
 ###### Art. 391.
 
@@ -2453,35 +2457,39 @@ La caución consistente en depósito en efectivo, se hará por el inculpado o po
 
 Cuando la garantía consista en hipoteca, el inmueble no deberá tener gravamen alguno y su valor fiscal será, cuando menos, de tres veces el monto de la suma fijada como caución.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1988)</small>
 
 ###### Art. 394.
 
-Cuando se ofrezca como garantía, fianza personal por cantidad que no exceda de dos mil pesos, quedará bajo la responsabilidad del Tribunal la apreciación que haga de la solvencia e idoneidad del fiador, para que la garantía no resulte ilusoria.
+Cuando se ofrezca como garantía, fianza personal por cantidad que no exceda del equivalente a la percepción durante seis meses del salario mínimo general vigente, quedará bajo la responsabilidad del Juzgador la apreciación que haga de la solvencia e idoneidad del fiador para que la garantía no resulte ilusoria.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1988)</small>
 
 ###### Art. 395.
 
-Cuando la fianza personal exceda de dos mil pesos, el fiador deberá comprobar que tiene bienes raíces en el Estado, inscritos en el Registro Público de la Propiedad, cuyo valor sea, cuando menos, tres veces el monto de la cantidad señalada como garantía, salvo cuando se trate de empresas afianzadoras legalmente constituídas y autorizadas.
+Cuando la garantía exceda del equivalente a la percepción durante seis meses del salario mínimo general, el fiador deberá comprobar que tiene bienes raíces en el Estado, inscritos en el Registro Público de la Propiedad, cuyo valor sea, cuando menos, tres veces el monto de la cantidad señalada como garantía, salvo cuando se trate de empresas afianzadoras legalmente constituídas y autorizadas.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1988)</small>
 
 ###### Art. 396.
 
-Cuando se ofrezca como garantía fianza personal por cantidad mayor de dos mil pesos o hipoteca, a fin de que el Juez califique la solvencia, se deberá presentar certificado de libertad de gravámenes, que comprenda un término de veinte años, y constancia de estar al corriente en el pago de las contribuciones respectivas.
+Cuando se ofrezca como garantía fianza personal por cantidad que exceda del equivalente a la percepción durante seis meses del salario mínimo general o hipoteca, a fin de que el Juzgador califique la solvencia, se deberá presentar certificado de libertad de gravámenes, que comprenda un término de veinte años, y constancia de estar al corriente en el pago de las contribuciones respectivas.
 
 ###### Art. 397.
 
 Las fianzas de que habla este capítulo se extenderán en la misma pieza de autos o se agregarán a éstos.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1988)</small>
+
 ###### Art. 398.
 
-El fiador, excepto cuando se trate de las empresas mencionadas en el artículo 395, declarará ante el tribunal, bajo protesta de decir verdad, si ha otorgado con anterioridad alguna otra fianza judicial y, en su caso, la cuantía y circunstancia de la misma, para que esa declaración se tome en cuenta al calificar su solvencia.
+El fiador, excepto cuando se trate de las empresas mencionadas en el artículo 395, declarará ante el Juzgador, bajo protesta de decir verdad, si ha otorgado con anterioridad alguna otra fianza judicial y, en su caso, la cuantía y circunstancia de la misma, para que esa declaración se tome en cuenta al calificar su solvencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 1988)</small>
 
 ###### Art. 399.
 
-Al notificarse al inculpado el auto que le conceda la libertad caucional, se le hará saber que contrae las siguientes obligaciones: presentarse ante el tribunal que conozca de su caso los días fijos que se estime conveniente señalarle y cuantas veces sea citado o requerido para ello; comunicar al mismo tribunal los cambios de domicilio que tuviere, y no ausentarse del lugar sin permiso del citado tribunal, el que no se le podrá conceder por tiempo mayor de un mes.
+Al notificarse al inculpado el auto que le conceda la libertad caucional, se le hará saber que contrae las siguientes obligaciones: presentarse ante el Juzgador que conozca de su caso, los días fijos que se estime conveniente señalarle y cuantas veces sea citado o requerido para ello; comunicar al mismo Juzgador los cambios de domicilio que tuviere, y no ausentarse del lugar sin permiso del citado tribunal, el que no se le podrá conceder por tiempo mayor de un mes.
 
 También se le harán saber las causas de revocación de la libertad caucional.
 
@@ -2491,13 +2499,17 @@ En la notificación se hará constar que se hicieron saber al acusado las anteri
 
 Cuando el inculpado haya garantizado por sí mismo su libertad con depósito o con hipoteca, aquélla se le revocará en los casos siguientes:
 
-I.- Cuando desobedeciere, sin causa justa y comprobada, las órdenes legítimas del tribunal que conozca de su asunto;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1988)</small>
+
+I.- Cuando desobedeciere, sin causa justa y comprobada, las órdenes legítimas del Juzgador que conozca de su asunto;
 
 II.- Cuando antes de que el expediente en que se le concedió la libertad esté concluído por sentencia ejecutoria, cometiere un nuevo delito que merezca pena corporal;
 
 III.- Cuando amenazare al ofendido o a algún testigo de los que hayan depuesto o tengan que deponer en su asunto o tratare de cohechar o sobornar a alguno de estos últimos, a algún funcionario del tribunal o al agente del Ministerio Público que intervenga en el caso;
 
-IV.- Cuando lo solicite al mismo inculpado y se presente al tribunal;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1988)</small>
+
+IV.- Cuando lo solicite el mismo inculpado y se presente ante el Juzgador;
 
 V.- Cuando aparezca con posterioridad que le corresponde al inculpado una pena que no permita otorgar la libertad;
 
@@ -2517,15 +2529,19 @@ III.- Cuando, con posterioridad, se demuestre la insolvencia del fiador;
 
 IV.- En el caso del artículo 404.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 1988)</small>
+
 ###### Art. 402.
 
-En los casos de las fracciones I y VII del artículo 400 se mandará reaprehender al inculpado y la caución se hará efectiva, a cuyo efecto el tribunal enviará el certificado de depósito o el testimonio de la hipoteca a la autoridad fiscal para su cobro.
+En los casos de las fracciones I y VII del artículo 400, se mandará reaprehender al inculpado y la caución se hará efectiva, a cuyo efecto el Juzgador enviará el certificado de depósito o el testimonio de la hipoteca a la autoridad fiscal para su cobro.
 
 En los casos de las fracciones II, III, V y VI del mismo artículo y III del artículo 401 se ordenará la reaprehensión del inculpado. En los de las fracciones IV del artículo 400 y II del 401, se remitirá al inculpado al establecimiento que corresponda.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 1988)</small>
+
 ###### Art. 403.
 
-El tribunal ordenará la devolución del depósito o mandará cancelar la garantía:
+El Juzgador ordenará la devolución del depósito o mandará cancelar la garantía:
 
 I.- Cuando, de acuerdo con el artículo anterior, se remita al inculpado al establecimiento correspondiente;
 
@@ -2537,9 +2553,11 @@ IV.- Cuando el acusado sea absuelto;
 
 V.- Cuando resulte condenado el acusado y se presente a cumplir su condena.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1988)</small>
+
 ###### Art. 404.
 
-Cuando un tercero haya constituido depósito, fianza o hipoteca, para garantizar la libertad de un inculpado, las órdenes para que comparezca éste se entenderán con aquél. Si no pudiere desde luego presentarlo, el tribunal podrá otorgarle un plazo hasta de treinta días para que lo haga, sin perjuicio de librar orden de aprehensión si lo estima oportuno. Si concluido el plazo concedido no se obtiene la comparecencia del inculpado, se ordenará su reaprehensión y se hará efectiva la garantía en los términos del primer párrafo del artículo 402.
+Cuando un tercero haya constituído depósito, fianza o hipoteca, para garantizar la libertad de un inculpado, las órdenes para que comparezca éste se entenderán con aquél. Si no pudiere desde luego presentarlo, el Juzgador podrá otorgarle un plazo hasta de treinta días para que lo haga, sin perjuicio de librar orden de aprehensión si lo estima oportuno. Si concluido el plazo concedido no se obtiene la comparecencia del inculpado, se ordenará su reaprehensión y se hará efectiva la garantía en los términos del primer párrafo del artículo 402.
 
 ###### Art. 405.
 
@@ -3069,7 +3087,7 @@ Los incidentes cuya tramitación no se detalle en este Código y que, a juicio d
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MAYO DE 1978)</small>
 
-## TITULO DECIMO SEGUNDO (SIC)
+TITULO DECIMOSEGUNDO
 
 Procedimientos relativos a las personas jurídicas colectivas y a los inimputables.
 
@@ -3544,6 +3562,12 @@ P.O. 7 DE AGOSTO DE 1987.
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 20 DE SEPTIEMBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE OCTUBRE DE 1988.
 
 ###### ARTICULO UNICO.
 
