@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1992-05-19"
+last_updated: "1992-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 1992.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 1992.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -446,11 +446,11 @@ Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Esta
 
 De las Sesiones del Congreso.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1990)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
 ###### Artículo 46.
 
-La Legislatura tendrá dos períodos ordinarios de sesiones cada año. El primero se abrirá el 15 de octubre y terminará el 31 de diciembre. El segundo comenzará el 15 de abril y concluirá el 30 de junio. Estos períodos serán improrrogables.
+El Congreso tendrá dos períodos ordinarios de sesiones cada año. El primero se iniciará el 15 de octubre y terminará a más tardar el 31 de diciembre. El segundo iniciará el 15 de abril y concluirá a más tardar el 30 de junio. Estos períodos serán improrrogables.
 
 ###### Artículo 47.
 
@@ -460,11 +460,11 @@ El Congreso podrá reunirse en sesiones extraordinarias cada vez que fuere convo
 
 Las sesiones extraordinarias deberán cerrarse precisamente antes del día en que deban celebrarse las ordinarias, aún cuando no hayan sido despachados los asuntos que motivaron la convocatoria, los que se resolverán de preferencia en el período ordinario.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
 ###### Artículo 49.
 
-El Gobernador del Estado asistirá cada año a la apertura del primer período ordinario de sesiones y rendirá un informe sobre el estado general que guarda la Administración Pública del Estado. El Presidente de la Cámara lo contestará en términos generales.
+El Gobernador del Estado asistirá cada año a la apertura del primer período ordinario de sesiones y rendirá un informe del estado general que guarda la administración pública del Estado. El Presidente del Congreso lo contestará en términos generales.
 
 ###### Artículo 50.
 
@@ -582,7 +582,9 @@ Es materia de ley toda resolución que otorgue derechos o imponga obligaciones, 
 
 Es materia de decreto, toda resolución que otorgue derechos o imponga obligaciones, a determinadas personas individuales o morales.
 
-Son materia de acuerdo todas las demás resoluciones que tome la Cámara y que no tengan el carácter de ley o decreto.
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1992)</small>
+
+Son materia de acuerdo, todas las demás resoluciones que emita el Congreso y que no tengan el carácter de ley o decreto.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -652,9 +654,9 @@ IX. Reglamentar el funcionamiento del Municipio Libre, como base de la división
 
 X. Conceder amnistías por delitos cuyo conocimiento corresponda a los Tribunales del Estado.
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
-XI. Suspender Ayuntamientos, declarar que estos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, así como designar Concejos Municipales en aquellos casos en que proceda y a quienes deban suplir las faltas temporales o absolutas de alguno de los munícipes, conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en los demás ordenamientos aplicables.
+XI. Suspender ayuntamientos; declarar que estos han desaparecido; suspender o revocar el mandato a alguno de sus miembros; designar concejos municipales en aquellos casos en que proceda y a quienes deban suplir las ausencias temporales o absolutas de alguno de los miembros del Ayuntamiento, conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en los demás ordenamientos aplicables.
 
 XII. Fijar el territorio que corresponde a los Distritos y Municipios y, por el voto de las dos terceras partes de los Diputados presentes, modificar la extensión de los mismos, suprimirlos y crear otros cuando así lo exija el buen servicio público.
 
@@ -664,9 +666,9 @@ XIII. Cambiar provisionalmente la residencia de los Poderes del Estado por la mi
 
 XIV. Establecer, mediante una ley, las bases conforme a las cuales el Estado, los Municipios y las entidades paraestatales y paramunicipales, podrán contraer obligaciones y empréstitos, así como autorizar los conceptos y montos de los mismos, con observancia de lo dispuesto en la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
-XV. Constituirse en Colegio Electoral, para calificar las elecciones de Gobernador y Ayuntamientos y hacer la declaratoria correspondiente de los que hayan resultado electos, conforme a la ley.
+XV. Recibir los expedientes de las elecciones de Gobernador, ayuntamientos y las de diputados locales, en su caso. Para calificar estas elecciones y hacer la declaratoria de los ciudadanos que hayan resultado electos, se constituirá en Colegio Electoral.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -696,7 +698,9 @@ XXI. Conceder o negar permiso a los Diputados y a los miembros de los Ayuntamien
 
 XXII. Recibir la protesta de Ley a los Diputados, al Gobernador y a los Magistrados del Tribunal Superior de Justicia.
 
-XXIII. (DEROGADA, P.O. 17 DE JUNIO DE 1988)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 1992)</small>
+
+XXIII. Designar al Presidente y Consejeros de la Comisión de los Derechos Humanos del Estado de Coahuila; en la forma que determine la ley.
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -742,9 +746,9 @@ XXXIV. Revisar, discutir y aprobar anualmente, las cuentas públicas Estatal y M
 
 La revisión de dichas cuentas públicas tendrá por objeto conocer los resultados de las gestiones financieras respectivas y comprobar si se han ajustado a los correspondientes presupuestos de egresos.
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 1951)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
-XXXV. Autorizar a la Diputación Permanente para que resuelva aquellos asuntos que se presenten durante el receso de la Cámara, que no requieran la intervención directa del Congreso.
+XXXV. Autorizar a la Diputación Permanente para que resuelva aquellos asuntos que se presenten durante su funcionamiento y que no requieran la intervención directa del Congreso.
 
 XXXVI. Formar un Reglamento Interior y acordar las providencias para hacer concurrir a los diputados ausentes.
 
@@ -812,19 +816,21 @@ En el caso de que el Congrero (sic) del Estado se halle en receso, la Diputació
 
 De la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
 ###### Artículo 70.
 
-Durante los recesos del Congreso, habrá una Diputación Permanente de cinco Diputados que nombrará el mismo Congreso, eligiéndolos entre los que estén en funciones un día antes de la clausura de las sesiones ordinarias. Para suplir las faltas de los electos, se nombrarán del mismo modo cinco suplentes que substituyan a aquellos por el orden de su nombramiento.
+Durante los recesos del Congreso, habrá una Diputación Permanente que se integrará con un número de Diputados equivalente a la cuarta parte del total de los miembros de la Legislatura, los cuales se elegirán de entre los que estén en funciones un día antes de la clausura del período ordinario de sesiones, en la forma que determine la Ley. Para suplir las faltas de los electos, se nombrarán, del mismo modo y en igual número, suplentes que substituyan a aquéllos por el orden de su nombramiento.
 
 ###### Artículo 71.
 
 Serán Presidente y Secretarios de esta Diputación el primero y los segundos de los nombrados para formarla, por el orden de su nombramiento. Las faltas de aquellos, se cubrirán por los suplentes respectivos.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1992)</small>
+
 ###### Artículo 72.
 
-Si durante el receso del Congreso fuere este convocado a sesiones extraordinarias, concluidas estas, continuará la Diputación Permanente hasta que llegue el nuevo período de sesiones ordinarias.
+Si durante el receso del Congreso fuere éste convocado a sesiones extraordinarias, la Diputación Permanente no suspenderá sus trabajos, salvo en aquello que se refiera al asunto para el que se haya convocado el período extraordinario.
 
 ###### Artículo 73.
 
@@ -832,9 +838,9 @@ Son atribuciones de la Diputación Permanente:
 
 I. Llevar la correspondencia con los Poderes de la Federación y con los de los Estados.
 
-(REFORMADA, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
-II. Recibir los expedientes de las elecciones de Gobernador, Ayuntamientos y Diputados y presentarlos cerrados al Congreso, cuando se reúna.
+II. Recibir los expedientes de la elección de diputados locales y presentarlos cerrados al Colegio Electoral cuando se instale; y, en su caso, los de Gobernador y ayuntamientos, mismos que deberá presentar cerrados al Congreso cuando éste se reúna.
 
 III. Acordar por sí o a petición del Ejecutivo la convocatoria de la Legislatura a sesiones extraordinarias
 
@@ -998,7 +1004,9 @@ VII. Nombrar, cuando lo crea conveniente, personas de su confianza para que info
 
 VIII. Pedir a la Diputación Permanente expida convocatoria a sesiones extraordinarias del Congreso.
 
-IX. (DEROGADA, P.O. 17 DE JUNIO DE 1988)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 1992)</small>
+
+IX. Presentar al Congreso la propuesta para la designación del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado de Coahuila, en los términos que establezca la ley.
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -1072,9 +1080,11 @@ XXVIII. Auxiliar a los Ayuntamientos, para el mejoramiento de los distintos ramo
 
 XXIX. Las demás que expresamente le concedan las Leyes.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1992)</small>
+
 ###### Artículo 83.
 
-El Ejecutivo tiene derecho de hacer observaciones a las leyes o decretos aprobados por la Legislatura. Si quisiere hacer uso de esta facultad, avisará a la Cámara dentro de tres días de haber recibido la ley o decreto y en el término de diez días lo devolverá con sus observaciones, pasados estos términos sin dar aviso o remitir las observaciones, estará obligado a publicar la ley o decreto.
+El Ejecutivo tiene derecho de hacer observaciones a las leyes o decretos aprobados por el Congreso. Si quisiera hacer uso de esta facultad, avisará al Congreso dentro de tres días de haber recibido la ley o decreto y en el término de diez días lo devolverá con sus observaciones, pasados estos términos sin dar aviso o remitir las observaciones, estará obligado a publicar la ley o decreto.
 
 ###### Artículo 84.
 
@@ -1102,9 +1112,9 @@ V. Rendir los informes que le solicite el Congreso del Estado en los términos d
 
 VI. Presentar al Congreso dentro de los primeros cuatro meses del año fiscal, la cuenta general del año anterior.
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
-VII. Presentar al Congreso del Estado, dentro de los primeros 30 días del primer período de sesiones ordinarias de cada año, la Iniciativa de Ley de Ingresos y el proyecto de presupuesto de egresos correspondientes al siguiente ejercicio fiscal.
+VII. Presentar al Congreso la Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos del Estado, correspondientes a cada ejercicio fiscal.
 
 VIII. Facilitar al Poder Judicial los auxilios que necesite para el ejercicio de sus funciones.
 
@@ -1324,11 +1334,13 @@ El Secretario de Finanzas deberá exigir a todo servidor público que maneje cau
 
 El Ejecutivo sólo podrá expedir órdenes de recaudación o pago por conducto de la Secretaría de Finanzas.
 
-(REFORMADO, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
 ###### Artículo 105.
 
-El Ejecutivo del Estado hará llegar al Congreso las iniciativas de leyes de ingresos y los proyectos de Presupuesto de Egresos a más tardar el día quince de diciembre, debiendo comparecer el Secretario del Ramo correspondiente a dar cuenta de los mismos.
+El Gobernador deberá presentar al Congreso la Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos del Estado, a más tardar el 30 de noviembre del año anterior al del ejercicio fiscal que correspondan, o hasta el día 15 del mes de diciembre cuando inicie su encargo en los términos del Artículo 77 de esta Constitución. El Secretario de Finanzas deberá comparecer a dar cuenta de los mismos.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
 No podrá haber otras partidas globales, fuera de las que se consideren necesarias con ese carácter, en el mismo presupuesto. Su empleo requerirá acuerdo escrito del Gobernador del Estado.
 
@@ -1512,7 +1524,9 @@ Los Municipios, constituyen entidades autónomas, con personalidad jurídica y p
 
 Cada municipio estará administrado por un ayuntamiento que será renovado en su totalidad cada tres años por elección popular directa y no habrá ninguna autoridad intermedia entre este y el Gobierno del Estado. Iniciará sus funciones el día miércoles de la segunda semana de diciembre del año de la renovación y las terminará el día martes de la segunda semana del mes de diciembre del año en que concluya el período constitucional.
 
-Los ayuntamientos se integrarán por un presidente, un síndico y el número de regidores que determine la Ley, que en ningún caso podrá ser menor de siete, ni mayor de dieciséis. Asimismo, contarán con un número de suplentes igual al número de munícipes.
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1992)</small>
+
+Los Ayuntamientos se integrarán con un Presidente, un Síndico y el número de regidores que determine la ley. En ningún caso el número total de miembros podrán ser menor de seis, ni mayor de dieciséis. Asimismo, cada Ayuntamiento contará con un número de suplentes que deberá ser igual al de los regidores y síndico, para cubrir las ausencias de éstos conforme a la ley.
 
 La Ley introducirá el principio de representación proporcional en la elección de ayuntamientos de todos los municipios del Estado.
 
@@ -1552,21 +1566,33 @@ V. Que la comunidad escogida como cabecera, tenga por lo menos el cincuenta por 
 
 VI. La conformidad de las poblaciones solicitantes y de los municipios afectados en su territorio.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
 ###### Artículo 129.
 
-Para ser electo munícipe, se requiere:
+Para ser electo como miembro de un Ayuntamiento se requiere:
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
 I. Ser ciudadano coahuilense, en ejercicio de sus derechos.
 
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+
 II. Tener residencia en el Estado, de tres años continuos inmediatamente anteriores al día de la elección.
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
 III. Ser vecino del Municipio correspondiente.
 
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+
 IV. Saber leer y escribir.
 
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+
 V. Tener modo honesto de vivir; y
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
 VI. Satisfacer los demás requisitos que establezcan los ordenamientos legales aplicables.
 
@@ -1688,33 +1714,35 @@ XXI. Impulsar, conforme a sus facultades y posibilidades, la agricultura, ganade
 
 XXII. Los demás que les señale la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y otros ordenamientos legales aplicables.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1990)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
 ###### Artículo 132.
 
-Cuando hecha la elección de un ayuntamiento, no se presentaren a rendir protesta los propietarios electos por el principio de mayoría relativa, el Congreso del Estado mandará llamar a los suplentes que con ese carácter figuren en la lista presentada por el partido político que obtuvo mayoría, y de entre ellos designará a quienes ocuparán los cargos de presidente, regidores y síndico, respectivamente.
+Cuando el Presidente Municipal electo no se presente a rendir protesta, el Congreso, con la concurrencia de cuando menos las dos terceras partes del total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos de los presente, un Presidente Municipal sustituto.
 
-En igual forma se cubrirán las vacantes de que se trate, si solo hubieren dejado de presentarse algunos de los miembros del ayuntamiento.
+En caso de que no se presenten a rendir protesta el Síndico y los regidores electos, el Congreso mandará llamar a quienes figuren en la lista de suplentes, y de entre éstos designará a quienes deban de cubrir las vacantes.
 
-Sin un regidor de representación proporcional no se presenta a tomar posesión de su cargo, el Congreso del Estado mandará llamar al que siga en el orden dentro de la lista de regidores que figuraron en la planilla que fue propuesta por el partido político de que se trate.
+Cuando el regidor de representación proporcional no se presente a tomar posesión de su cargo, el Congreso del Estado mandará llamar al que siga en el orden dentro de la lista de regidores que figuraron en la planilla que fue propuesta por el partido político de que se trate.
 
-En caso de que la vacante se presentare con posterioridad a la toma de protesta, renunciaren o faltaren alguno o algunos de los miembros del ayuntamiento, se estará a lo dispuesto en los párrafos anteriores, excepción hecha de lo que dispone el Artículo 126.
+En caso de que la vacante se presente con posterioridad a la toma de protesta del Presidente, Síndico o alguno de los regidores de un Ayuntamiento, se estará a lo dispuesto en los párrafos anteriores.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1990)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
 ###### Artículo 133.
 
-Cuando por cualquier circunstancia no se haya verificado la elección de munícipes antes del día señalado por la Ley para la renovación de servidores públicos municipales, o cuando fuere declarada nula, el Congreso del Estado designará de entre los vecinos del municipio de que se trate, un concejo municipal, para que interinamente se haga cargo de la autoridad, y constituido el ayuntamiento como se previene, dará inmediata cuenta al Ejecutivo, para que convoque desde luego a elecciones.
+Cuando por cualquier circunstancia no se haya verificado la elección de los miembros de los Ayuntamientos o ésta fuere declarada nula, antes del día señalado por la Ley para la renovación del poder público municipal, el Congreso del Estado designará de entre los vecinos del Municipio de que se trate, un Concejo Municipal, para que asuma las funciones correspondientes, y, en su caso, expedirá nueva convocatoria para elecciones.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
 ###### Artículo 134.
 
-El Congreso del Estado, por acuerdo de las dos terceras partes del total de sus integrantes y por una causa considerada como grave en los ordenamientos legales aplicables, podrá suspender Ayuntamientos, declarar que estos han desaparecido y suspender o revocar el mandato de alguno de los munícipes, los cuales, en todo caso, tendrán derecho a que se les dé oportunidad para rendir pruebas y alegar, en la forma que establezcan los ordenamientos legales aplicables.
+El Congreso del Estado, por acuerdo de las dos terceras partes del total de sus integrantes y por una causa considerada como grave en los ordenamientos legales aplicables, podrá suspender ayuntamientos, declarar que estos han desaparecido y suspender o revocar el mandato de alguno de los miembros del mismo, los cuales tendrán derecho a ser oídos en la forma que establezcan los ordenamientos legales aplicables.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 1990)</small>
 
 En caso de declararse desaparecido un ayuntamiento, si conforme a lo establecido en esta Constitución y demás ordenamientos legales aplicables, no procediere la celebración de nuevas elecciones, el Congreso del Estado, designará entre los vecinos del municipio de que se trate, un concejo municipal, que concluirá el período correspondiente.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 Si alguno de los miembros de un Ayuntamiento dejare de desempeñar su cargo, se procederá con arreglo a la Ley.
 
@@ -2657,3 +2685,13 @@ El presente Decreto de reformas y adiciones, entrará en vigor al día siguiente
 ###### ARTICULO SEGUNDO.
 
 El organismo a que se refiere este Decreto, deberá integrarse e iniciar sus funciones dentro de los treinta días siguientes a la fecha en que entre en vigor su Ley Orgánica.
+
+P.O. 3 DE NOVIEMBRE DE 1992.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La reforma aprobada con relación al Artículo 124, entrará en vigor a partir de las elecciones que se celebren para la renovación de los Ayuntamientos municipales, que estarán en funciones en el período 1993-1996.
+
+TERCERO.- La reforma aprobada con relación al Artículo 132, será aplicable a partir de la fecha en que deban iniciar funciones los Ayuntamientos electos para el período 1993-1996.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
