@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-servicio-de-maniobras-en-zonas-federales-157
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-01-24"
-last_updated: "1990-01-24"
+last_updated: "2000-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1990-01-23"
 
 REGLAMENTO PARA EL SERVICIO DE MANIOBRAS EN ZONAS FEDERALES TERRESTRES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE AGOSTO DE 2000.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 24 de enero de 1990.
 
@@ -103,9 +103,13 @@ Cuando se trate de solicitudes para ejecutar maniobras de servicio público, la 
 
 Las solicitudes de permiso se tramitarán de acuerdo con el orden cronológico en que hayan sido presentadas; y en ningún caso podrá otorgarse permiso exclusivo para ejecutar maniobras de servicio público en una localidad.
 
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 9o.
 
-Para la expedición de permisos de maniobras de servicio particular, bastará que los propietarios o consignatarios de las mercancías, acrediten contar con equipo propio. El permiso se otorgará en un plazo no mayor de 15 días hábiles a partir de la fecha en que se cumpla con lo anterior.
+Para la expedición de permisos de maniobras de servicio particular, bastará que los propietarios o consignatarios de las mercancías presenten la documentación que demuestre la propiedad del equipo o, en su caso, el contrato de arrendamiento respectivo. El permiso se otorgará en un plazo no mayor de quince días hábiles.
+
+La resolución que emita la Secretaría, en caso de ser favorable, tendrá una vigencia de diez años.
 
 ###### ARTICULO 10.
 
@@ -139,9 +143,15 @@ El transporte de mercancías, el arrastre de semirremolques o de contenedores so
 
 Las responsabilidades en que incurran los permisionarios de servicio público de maniobras, por demora, mermas, pérdidas o averías quedarán sujetos a lo dispuesto por la ley.
 
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 15.
 
-La Secretaría fijará las condiciones operativas y tarifarias conforme a las cuales se presten los servicios públicos en cada localidad.
+Las tarifas del servicio público de maniobras en zonas federales terrestres de las estaciones de ferrocarril serán fijadas libremente por los concesionarios o permisionarios, requiriendo, para su puesta en vigor, estar registradas ante la Secretaría.
+
+Para obtener el registro a que se refiere el párrafo anterior, los solicitantes deberán presentar las tarifas a registrar y/o las reglas de aplicación en los formatos que al efecto publique la Secretaría.
+
+La Secretaría deberá efectuar el registro en un plazo no mayor de diez días hábiles. En caso de que la Secretaría no realice el registro correspondiente en el plazo señalado, éste se entenderá otorgado.
 
 ###### ARTICULO 16.
 
@@ -204,3 +214,13 @@ Los concesionarios o permisionarios de autotransporte federal de carga, podrán 
 Las solicitudes de permiso que a la fecha se encuentren en trámite, continuarán el mismo conforme a las disposiciones de este Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal en la Ciudad de México Distrito Federal, a los veintitrés días del mes de enero de mil novecientos noventa.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Andrés Caso Lombardo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORISO DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 8 DE AGOSTO DE 2000.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Dentro de sesenta días naturales posteriores a la publicación de este Decreto, la Secretaría de Comunicaciones y Transportes deberá publicar en el Diario Oficial de la Federación una tabla de los certificados de seguridad que requieren las embarcaciones y artefactos navales, previstos en el Reglamento a que se refiere el artículo décimo primero del presente Decreto, de acuerdo a sus características y servicio al que se destinen.
+
+TERCERO. Los artículos 30 a 35 del Reglamento a que se refiere el artículo décimo primero del presente Decreto, continuarán vigentes para las empresas que tengan embarcaciones extranjeras inscritas en el Programa de Abanderamiento, hasta la fecha en que den cumplimiento a los compromisos asumidos para abanderar dichas embarcaciones como mexicanas y los casos de incumplimiento serán sancionados conforme al artículo 140 fracción V, de la Ley de Navegación.
