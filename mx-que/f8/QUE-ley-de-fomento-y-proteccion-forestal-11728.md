@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-fomento-y-proteccion-forestal-11728"
 country: "mx"
 rank: "ley"
 publication_date: "1976-09-09"
-last_updated: "1976-09-09"
+last_updated: "2004-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE FOMENTO Y PROTECCION FORESTAL
 
-LEY DE FOMENTO Y PROTECCIÓN FORESTAL
+LEY DE FOMENTO Y PROTECCION FORESTAL
 
-TEXTO ORIGINAL
+> <small>N. DE E. LE PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FOMENTO Y DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE QUERETATRO, PUBLICADA EN EL PERIODICO OFICIAL EL 22 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial "La Sombra de Arteaga", el 9 de septiembre de 1976.
 
@@ -210,3 +212,19 @@ ANTONIO CALZADA.
 El Secretario General de Gobierno
 
 LIC ALEJANDRO MALDONADO FRANCO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Fomento y Protección Forestal, publicada en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga" el día 9 de Septiembre de 1976.
+
+###### ARTÍCULO TERCERO.
+
+Una vez entrada en vigor esta Ley, el Ejecutivo expedirá el Reglamento correspondiente.
