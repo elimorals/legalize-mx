@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2002-03-09"
+last_updated: "2002-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2002.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -211,7 +211,7 @@ a) La formulación y conducción de la política estatal de comunicaciones y tra
 
 b) La expedición de las normas generales de carácter técnico en las materias objeto de esta Ley;
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
 c) El registro de concesiones, permisos, subrogaciones, vehículos, conductores y operadores, para su identificación y la certificación de derechos;
 
@@ -1879,9 +1879,13 @@ La reducción de tarifas en un cincuenta por ciento de la cuota ordinaria, solam
 
 I. En los casos de calamidad pública;
 
-II. Para estudiantes y maestros en período de vacaciones;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2002)</small>
 
-III. Para servidores públicos en comisión de servicio, debidamente comprobada;
+II. Para estudiantes de educación secundaria, media superior y superior así como los equivalentes de estos niveles de instituciones pública (sic) o privadas, durante todo el año;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2002)</small>
+
+III. Para maestros en periodo escolar;
 
 IV. Para personas de edad avanzada;
 
@@ -2754,3 +2758,7 @@ P.O. 9 DE MARZO DE 2002.
 Primero. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 21 DE MAYO DE 2002.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
