@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "2000-08-31"
+last_updated: "2000-09-08"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE SEPTIEMBRE DE 2000.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -303,9 +303,9 @@ XVIII.- DECIMO OCTAVO CIRCUITO:
 
 XIX.- DECIMO NOVENO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 38/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL NUMERO 65/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE SEPTIEMBRE DE 2000)</small>
 
-1.- Tres tribunales colegiados con residencia en Ciudad Victoria.
+1.- Cuatro tribunales colegiados, con residencia en Ciudad Victoria.
 
 > <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL NUMERO 37/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
 
@@ -335,9 +335,9 @@ XXI.- VIGESIMO PRIMER CIRCUITO:
 
 XXII.- VIGESIMO SEGUNDO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL NUMERO 11/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2000)</small>
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 66/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE SEPTIEMBRE DE 2000)</small>
 
-1.- Dos tribunales colegiados y un tribunal unitario, con sede en la ciudad de Querétaro, así como un tribunal colegiado, con residencia en la ciudad de Pachuca.
+1.- Dos tribunales colegiados y un tribunal unitario con sede en la ciudad de Querétaro, así como dos tribunales colegiados con residencia en la ciudad de Pachuca.
 
 2.- Dos juzgados de distrito con residencia en la ciudad de Querétaro.
 
@@ -449,13 +449,13 @@ Respecto de los tribunales colegiados y del tribunal unitario con residencia en 
 
 En cuanto a los tribunales colegiados y al tribunal unitario con residencia en la ciudad de Acapulco, su jurisdicción territorial será la misma que la establecida para los juzgados de distrito en el Estado de Guerrero, con sede en dicha ciudad.
 
-> <small>(REFORMADA POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 11/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2000)</small>
+> <small>(REFORMADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL NUMERO 66/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE SEPTIEMBRE DE 2000)</small>
 
 XXII.- VIGESIMO SEGUNDO CIRCUITO:
 
 Respecto de los tribunales colegiados con residencia en la ciudad de Querétaro, su jurisdicción territorial será la entidad del mismo nombre.
 
-Por cuanto hace al tribunal colegiado con sede en la ciudad de Pachuca, su jurisdicción territorial será el Estado de Hidalgo.
+Por cuanto hace a los tribunales colegiados con sede en la ciudad de Pachuca, su jurisdicción territorial será el Estado de Hidalgo.
 
 La jurisdicción territorial del tribunal unitario comprenderá los Estados de Hidalgo y Querétaro.
 
@@ -839,7 +839,7 @@ TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en e
 
 D.O.F. 9 DE SEPTIEMBRE DE 1999.
 
-ACUERDO GENERAL NUMERO 25/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+ACUERDO GENERAL NUMERO 24/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 
 PRIMERO.- Este Acuerdo entrará en vigor el día treinta de septiembre de mil novecientos noventa y nueve.
 
@@ -1174,3 +1174,19 @@ ACUERDO GENERAL NUMERO 63/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 8 DE SEPTIEMBRE DE 2000.
+
+ACUERDO GENERAL NUMERO 65/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 8 DE SEPTIEMBRE DE 2000.
+
+ACUERDO GENERAL NUMERO 66/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
