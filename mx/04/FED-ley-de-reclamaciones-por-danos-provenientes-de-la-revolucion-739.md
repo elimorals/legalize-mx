@@ -4,7 +4,7 @@ identifier: "FED-ley-de-reclamaciones-por-danos-provenientes-de-la-revolucion-73
 country: "mx"
 rank: "ley"
 publication_date: "1919-09-11"
-last_updated: "1919-09-11"
+last_updated: "1920-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=739&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1919-08-30"
 
 LEY DE RECLAMACIONES POR DAÑOS PROVENIENTES DE LA REVOLUCIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE SEPTIEMBRE DE 1920.
 
 Ley publicada en el Número 10 del Diario Oficial, el jueves 11 de septiembre de 1919.
 
@@ -62,6 +62,8 @@ II.- Por fuerzas de esos mismos Gobiernos en ejercicio de sus funciones durante 
 III.- Por fuerzas dependientes del antiguo ejército federal hasta su disolución, y
 
 IV.- Por foragidos o rebeldes, siempre que se compruebe que el daño causado se consumó a consecuencia de algún acto, lenidad u omisión imputables a las autoridades legítimas encargadas de dar garantías. No habrá lugar a indemnización en el caso a que se refiere este inciso, si el paciente del daño hubiere ejecutado actos voluntarios significativos de un reconocimiento expreso de la autoridad de los rebeldes o foragidos o de la intención de ayudarlos contra las autoridades legítimas encargadas de dar garantías.
+
+> <small>[N. DE E. PARA VER LA FECHA ACTUALIZADA A LA QUE REFIERE EL PRESENTE ARTÍCULO, SE DEBEN CONSULTAR LOS ARTÍCULOS DEL DECRETO PUBLICADO EN EL D.O. DE 17 DE SEPTIEMBRE DE 1920 QUE SE LOCALIZAN EN EL APARTADO DE TRANSITORIOS DE ESTE ORDENAMIENTO.]</small>
 
 ###### Art. 4o.
 
@@ -125,6 +127,8 @@ Las Comisiones arbitrales decidirán por mayoría de votos y sus resoluciones te
 
 Las indemnizaciones debidas a empresas ferrocarrileras o de otros servicios públicos que hubieren sido ocupadas o expropiadas por el Gobierno con motivo de operaciones militares o a causa de las condiciones anormales que han prevalecido en el país, no tendrán necesariamente que sujetarse al conocimiento de la Comisión de Reclamaciones, sino que la indemnización que deba pagárseles podrá ser estipulada por medio de convenios celebrados por conducto de las Secretarías respectivas.
 
+> <small>[N. DE E. PARA VER LAS FECHAS ACTUALIZADAS A LAS QUE REFIERE EL PRESENTE ARTÍCULO, SE DEBEN CONSULTAR LOS ARTÍCULOS DEL DECRETO PUBLICADO EN EL D.O. DE 17 DE SEPTIEMBRE DE 1920 QUE SE LOCALIZAN EN EL APARTADO DE TRANSITORIOS DE ESTE ORDENAMIENTO.]</small>
+
 ###### Art. 15o.
 
 Las acciones para entablar reclamaciones por daños causados desde el 20 de noviembre de 1910, hasta la fecha de la presente ley, prescribirán el 1o. de septiembre de 1920. Las que se deriven de daños que se causaren en lo sucesivo, prescribirán un año después de ocurrido el hecho que motive la reclamación.
@@ -160,3 +164,31 @@ CONSTITUCION Y REFORMAS.- México, 30 de agosto de 1919.
 Aguirre Berlanga. Rúbrica.
 
 Al C...
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 17 DE SEPTIEMBRE DE 1920.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO REFORMANDO LOS ARTÍCULOS 4 Y 15 DE LA LEY DE 30 DE AGOSTO DE 1919, SOBRE RECLAMACIONES DE DAÑOS CAUSADOS POR LA REVOLUCIÓN".]
+
+###### ARTICULO UNICO.
+
+En el sentido de los artículos anteriores, quedarán modificados los artículos 4 y 15 del Decreto de 30 de agosto de 1919; quedando derogadas todas las disposiciones que estén en oposición con las del presente Decreto.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL "DECRETO REFORMANDO LOS ARTÍCULOS 4 Y 15 DE LA LEY DE 30 DE AGOSTO DE 1919, SOBRE RECLAMACIONES DE DAÑOS CAUSADOS POR LA REVOLUCIÓN".]</small>
+
+###### Artículo 1.
+
+Serán materia de las acciones a que se refiere el artículo 15 del Decreto de 30 de agosto de 1919 que reformó el de 24 de noviembre de 1917, sobre daños causados por la Revolución, las reclamaciones referentes a los daños causados desde el 20 de noviembre de 1910, hasta el 30 de junio del año en curso.
+
+###### Artículo 2.
+
+Para ejercitar las acciones a que se refiere el artículo anterior, el plazo señalado en el artículo quince del Decreto de 30 de agosto de 1919, citado en el artículo precedente, se considerará prorrogado hasta el 5 de febrero del año entrante de 1921.
+
+###### Artículo 3.
+
+A partir del 6 de febrero del año entrante de 1921, todas las acciones que puedan tenerse para reclamar contra el Gobierno de la Nación por los daños que la Revolución haya causado desde el 20 de noviembre de 1910, hasta el 30 de junio del año en curso, quedaran definitiva e irrevocablemente prescritas.
+
+###### Artículo 4.
+
+No podrán acogerse a los beneficios del Decreto de 30 de agosto de 1919, que reformó el de 24 de noviembre de 1917, sobre reclamaciones de daños causados por la Revolución, los autores, cómplices o encubridores de los delitos cometidos contra el orden constitucional en el mes de febrero de 1913.
