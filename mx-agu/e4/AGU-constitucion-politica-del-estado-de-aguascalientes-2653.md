@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1929-12-08"
+last_updated: "1930-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 1929.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 1930.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -217,15 +217,17 @@ Desechada una iniciativa, no podrá volver a presentarse en el mismo período de
 
 Las iniciativas adquirirán el carácter de ley, cuando sean aprobadas por el Congreso y promulgadas por el Ejecutivo. Las leyes son obligatorias en cada Municipio 48 horas después de su publicación en el Periódico Oficial, salvo cuando el Congreso del Estado acuerde que la promulgación de ellas, se haga por decreto especial.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1930)</small>
+
 ### CAPITULO SEGUNDO.
 
 DE LA INICIATIVA Y FORMACION DE LAS LEYES.
 
 ###### Artículo 27°
 
-Si el Ejecutivo juzga conveniente hacer observaciones a un proyecto de ley aprobado por el Congreso, podrá negarle su sanción y remitir las observaciones a este Cuerpo, dentro de cinco días útiles para que tomadas en consideración, se examine de nuevo el asunto. En caso urgente, a juicio del Congreso, el término de que se trata será sólo de tres días y así se comunicará al Ejecutivo. Se reputará aprobado por el Ejecutivo todo proyecto no devuelto con observaciones a la Cámara dentro de los mencionados términos, a no ser que, corriendo éstos, hubiere el Congreso cerrado o suspendido sus sesiones; en el cual caso (sic), la devolución deberá hacerse el primer día hábil en que dicho Cuerpo esté reunido. El proyecto de ley al cual se hubiere hecho observaciones será promulgado desde luego, si el Congreso vuelve a aprobarlo por las dos terceras partes del número total de sus miembros.
+Si el Ejecutivo juzga conveniente hacer observaciones a un proyecto de Ley aprobado por el Congreso, podrá negarle su sanción y remitir las observaciones a éste Cuerpo, dentro de cinco días útiles para que tomadas en consideración, se examine de nuevo el asunto. En caso urgente, a juicio del Congreso, el término de que se trata será solo de tres días y así se comunicará al Ejecutivo. Se reputará aprobado por el Ejecutivo todo proyecto no devuelto con observaciones a la Cámara dentro de los mencionados términos, a no ser que, corriendo éstos, hubiere el Congreso cerrado o suspendido sus sesiones; en el cual caso la devolución deberá hacerse el primer día hábil en que dicho Cuerpo esté reunido. El proyecto de Ley al cual se hubiere hecho observación será promulgada desde luego, si el Congreso vuelve a aprobarlo por dos terceras partes del número total de sus miembros.
 
-Los proyectos de Ley aprobados por el Congreso se comunicarán al Ejecutivo, firmados por el Presidente y los Secretarios.
+Los proyectos de Ley aprobados por el Congreso se comunicarán al Ejecutivo firmados por el Presidente y Secretario.
 
 ### CAPITULO TERCERO.
 
@@ -287,11 +289,11 @@ XXI.- Decretar la expropiación por causa de utilidad pública, en la forma que 
 
 DE LA DIPUTACION PERMANENTE.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1929)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1930)</small>
 
 ###### Artículo 30°
 
-Durante el receso del Congreso habrá una Diputación Permanente compuesta de tres miembros de aquel Cuerpo como Propietarios y tres como Suplentes, electos en la forma y términos que señale el Reglamento respectivo.
+Durante el receso del Congreso habrá una Diputación Permanente compuesta de tres miembros de aquel Cuerpo, como propietarios y uno como suplente, electos en la forma y términos que señala el Reglamento respectivo.
 
 ###### Artículo 31°
 
@@ -303,7 +305,9 @@ II. Recibir las Actas relativas a la elección de Diputados, para declarar quié
 
 III. Instalar las juntas preparatorias del nuevo Congreso.
 
-IV. Llamar a los suplentes de la misma Diputación para cubrir las faltas temporales y absolutas de los propietarios.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 1930)</small>
+
+IV. Llamar al suplente de la misma Diputación para cubrir las faltas temporales o absolutas de alguno de los propietarios.
 
 V. Si algún motivo grave exigiera la reunión del Congreso o el Gobierno lo solicitare, será convocado por la Diputación Permanente, y no podrá ocuparse de otro asunto que de aquel o aquellos para que hubiere sido convocado. El período de sesiones extraordinarias no podrá exceder de un mes.
 
@@ -343,13 +347,15 @@ En las faltas absolutas del Gobernador, se procederá a nueva elección y el que
 
 En las faltas temporales y en las absolutas, mientras se verifica la elección y se presenta el nuevamente electo, entrará en ejercicio del Poder Ejecutivo, interinamente, el C. Diputado a quien designe el Congreso por mayoría absoluta de votos, en escrutinio secreto, y obrando como Colegio Electoral. Si la falta absoluta del Gobernador ocurriere en el último año del período constitucional, no se convocará a elecciones extraordinarias, sino que la persona que desempeñare el Poder Ejecutivo, por designación de la Legislatura, seguirá encargado de él hasta que concluya dicho período.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1930)</small>
+
 ### CAPITULO PRIMERO.
 
 DEL PODER EJECUTIVO.
 
 ###### Artículo 36°
 
-Si al comenzar el período constitucional no se presentare el Gobernador o la elección no estuviere hecha ni declarada el primero de diciembre, cesará sin embargo el Gobernador cuyo período hubiere terminado y entonces, así como las faltas repentinas, se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el Diputado que dicha Corporación designe si ésta estuviere en funciones; en caso contrario lo será el Presidente de la Diputación Permanente, quien tendrá obligación de convocar en el acto al Congreso a sesiones extraordinarias.
+Si al comenzar el período constitucional no se presentare el Gobernador o la elección no estuviere hecha ni declarada el primero de diciembre, cesará sin embargo el Gobernador cuyo período hubiese terminado y entonces, así como las faltas repentinas, se encargará desde luego el Poder Ejecutivo, en calidad de Gobernador Interino la persona que designe el Congreso si éste estuviere en funciones; en caso contrario lo será el Presidente de la Diputación Permanente, quien tendrá obligación de convocar en el acto al Congreso a sesiones extraordinarias.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 1929)</small>
 
@@ -417,13 +423,11 @@ XV.- Conceder indultos y reducción de penas en los términos que lo prescriban 
 
 La Administración Municipal se ejerce por los Ayuntamientos que residirán en las Cabeceras de los Municipios.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1930)</small>
+
 ###### Artículo 43°
 
-Los miembros de los Ayuntamientos serán vecinos del Estado y electos popularmente, debiendo tener domicilio legal en el Municipio en que hubieren de funcionar, por lo menos seis meses antes de la elección. Los Ayuntamientos, a partir de las elecciones que deban verificarse en mil novecientos dieciocho, se renovarán por mitad cada año, comenzando por los miembros que tengan número impar.
-
-En el presente año la elección se verificará de acuerdo con la ley vigente.
-
-Las renuncias y las licencias de los Munícipes se admitirán y concederán por los respectivos Ayuntamientos.
+Los miembros de los Ayuntamientos serán vecinos del Estado y electos popularmente, debiendo tener domicilio legal en el Municipio en que hubieren de funcionar, por lo menos seis meses antes de la elección. Los Ayuntamientos se renovaran por midad (sic) cada año.
 
 ###### Artículo 44°
 
@@ -455,15 +459,15 @@ II.- Ser abogado con título oficial, no obteniendo a título de suficiencia, ni
 
 III.- Tener treinta años cumplidos de edad, el día de la elección, estar en pleno ejercicio de sus derechos políticos y civiles, y haber observado una buena conducta pública y notoria.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1930)</small>
+
 ### CAPITULO SEGUNDO.
 
 DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR.
 
 ###### Artículo 48°
 
-Los Magistrados serán electos por el Congreso en funciones de Colegio Electoral, por mayoría absoluta de votos y en escrutinio secreto.
-
-Durarán en su encargo el tiempo que la ley señale, pero desde el año de mil novecientos veintitrés los Magistrados y los Jueces de Primera Instancia sólo podrán ser removidos de sus cargos cuando observen mala conducta, previo el juicio de responsabilidad respectivo, o por falta de alguna de las cualidades que para tales cargos requiere la Ley, así como por ineptitud para el desempeño del mismo cargo, que calificará quién hubiere hecho el nombramiento.
+Los Magistrados serán electos por el Congreso en funciones de Colegio Electoral, por mayoría absoluta de votos y en escrutinio secreto y tanto éstos como los jueces de Primera Instancia sólo podrán ser removidos de sus cargos cuando observen mala conducta, previo el juicio de responsabilidad respectivo o por falta de alguna de las cualidades que para tales cargos requiere la Ley, así como por ineptitud para el desempeño del mismo cargo, que calificará quien hubiere hecho el nombramiento.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1929)</small>
 
@@ -493,7 +497,9 @@ Corresponde exclusivamente al Tribunal de Justicia:
 
 I.- Formar su Reglamento Interior.
 
-II.- Nombrar Jueces de Primera Instancia y Menores y permitir que se proceda criminalmente contra de ellos.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 1930)</small>
+
+II.- Nombrar Jueces de Primera Instancia, Menores y Alcaldes Constitucionales y permitir que se proceda criminalmente contra ellos.
 
 III.- Conocer de los procesos, en la forma de que después se hablará, que por delitos oficiales se animen contra el Gobernador, los Diputados, el Secretario de Gobierno, el Procurador de Justicia y los Munícipes.
 
@@ -505,9 +511,9 @@ VI.- Nombrar y remover, en la forma que determinen las leyes, a los demás emple
 
 ## TITULO OCTAVO.
 
-###### Artículo 53°
+###### Artículo 53.
 
-Todo Funcionario y empleado público es responsable por los delitos del orden común que cometa durante el tiempo de su encargo y por los delitos y faltas oficiales en que incurra en el ejercicio del mismo; pero el Gobernador sólo podrá ser acusado por violación expresa de esta Constitución, ataque a la libertad electoral y delitos graves del orden común.
+°- Todo Funcionario y empleado público es responsable por los delitos del orden común que cometa durante el tiempo de su encargo y por los delitos y faltas oficiales en que incurra en el ejercicio del mismo; pero el Gobernador sólo podrá ser acusado por violación expresa de esta Constitución, ataque a la libertad electoral y delitos graves del orden común.
 
 ###### Artículo 54°
 
@@ -555,9 +561,11 @@ Pronunciada una sentencia condenatoria de responsabilidad por delitos y faltas o
 
 PREVENCIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1930)</small>
+
 ###### Artículo 64°
 
-Los Supremos Poderes deben residir en la Capital del Estado y no podrán trasladarse ni aún provisionalmente sino por acuerdo de las dos terceras partes del número total de Diputados.
+Los Supremos Poderes deben residir en la Capital del Estado y no podran trasladarse a otro lugar ni a ún (sic) provicionalmente sino por acuerdo de las dos terceras de número total de Diputados.
 
 ###### Artículo 65°
 
@@ -714,3 +722,9 @@ DECRETO NÚMERO 193, POR EL QUE SE REFORMAN LOS ARTÍCULOS 19 Y 33 DE LA CONSTIT
 ###### Artículo 3o.
 
 El presente decreto surte sus efectos desde la fecha de su expedición.
+
+P.O. 29 DE JUNIO DE 1930.
+
+###### Art. 3o.
+
+El presente decreto surtirá sus efectos desde el 16 de septiembre del año actual.
