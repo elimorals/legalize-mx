@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1974-09-24"
+last_updated: "1974-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE SEPTIEMBRE DE 1974.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 1974.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -105,7 +105,7 @@ Son ciudadanos del Estado los varones y las mujeres, que teniendo la calidad de 
 
 I.- Haber cumplido dieciocho años y
 
-II.- Tener un modo honesto de vivir.
+II.-Ttener un modo honesto de vivir.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -609,7 +609,9 @@ II.- ser nativo del Estado y con vecindad no menor de un año inmediatamente ant
 
 III.- en caso de no ser nativo del Estado, tener residencia efectiva en él no menor de cinco años inmediatamente anteriores al día de la elección.
 
-IV.- tener treinta y cinco años cumplidos el día de la elección.
+> <small>(REFORMADA, D.O.30 DE SEPTIEMBRE DE 1974)</small>
+
+IV.- tener treinta años cumplidos el día de la elección.
 
 V.- no ser Ministro de ningún culto;
 
@@ -621,17 +623,11 @@ VII.- no ser Director General de alguna de las dependencias del Ejecutivo, a men
 
 VIII.- no estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 48.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O.30 DE SEPTIEMBRE DE 1974)</small>
 
 ###### Artículo 47.
 
-Para ser Gobernador interino del Estado, se requiere:
-
-I.- ser ciudadano mexicano por nacimiento y nativo del Estado en la plenitud de sus derechos, o tener en el mismo una vecindad no menor de cinco años inmediatamente anterior al día de la designación.
-
-II.- tener veinticinco años cumplidos; y
-
-III.- no ser Ministro de ningún culto.
+Para ser Gobernador Interino del Estado se requieren los mismos requisitos que para ser Gobernador Constitucional.
 
 > <small>(REFORMADO, D.O. 6 DE OCTUBRE DE 1943)</small>
 
@@ -1468,6 +1464,10 @@ D.O. 5 DE SEPTIEMBRE DE 1973.
 Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado.
 
 D.O. 24 DE SEPTIEMBRE DE 1974.
+
+UNICO.- El presente decreto comenzará a regir el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 30 DE SEPTIEMBRE DE 1974.
 
 UNICO.- El presente decreto comenzará a regir el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
