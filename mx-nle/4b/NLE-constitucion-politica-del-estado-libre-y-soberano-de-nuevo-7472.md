@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1987-04-13"
+last_updated: "1987-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ABRIL DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 1987.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1371,7 +1371,7 @@ El Pueblo Nuevoleonés reconoce que los derechos del hombre son la base y el obj
 
 En el Estado todos nacen libres. Los esclavos que pisen el territorio del Estado recobran por ese solo hecho su libertad y tienen derecho (sic) la protección de las Leyes.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 1982)</small>
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 1987)</small>
 
 ###### Art. 3.
 
@@ -1387,13 +1387,25 @@ En los establecimientos oficiales se impartirá gratuitamente la enseñanza prim
 
 ###### Art. 3o.
 
+Toda persona tiene derecho a la protección de la salud. La ley establecerá las bases y modalidades para el acceso a los servicios de salud y determinará la participación del Estado y sus Municipios en la materia.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1982)</small>
+
 El niño tiene derecho a la vida sana, a la salud, a la alimentación, a la educación, a la recreación, a la preparación para el trabajo y a llevar una vida digna en el seno de la familia. Nadie podrá darle malos tratos, ni inducirlo a prácticas que afecten su buena formación. El Estado proveerá lo necesario y expedirá leyes y normas para garantizar los derechos del niño.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1982)</small>
 
 La enseñanza es libre; pero será laica la que se dé en los establecimientos oficiales de educación, lo mismo que la enseñanza primaria, elemental y superior que se imparta en los establecimientos particulares.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1982)</small>
+
 Ninguna corporación religiosa ni Ministro de algún culto podrán establecer o dirigir escuelas de instrucción primaria.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1982)</small>
+
 Las escuelas particulares sólo podrán establecerse sujetándose a la vigilancia e inspección oficiales.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1982)</small>
 
 En los establecimientos oficiales se impartirá gratuitamente la enseñanza primaria.
 
@@ -1943,7 +1955,7 @@ PRIMERO.- Como consecuencia de esta Reforma Constitucional, el Reglamento vigent
 
 SEGUNDO.- El presente Decreto entrará en vigor el día primero de enero de 1985, previa la publicación en el Periódico Oficial del Estado.
 
-P.O. 1o. DE MARZO DE 1985.
+P.O. 1 DE MARZO DE 1985.
 
 ###### ARTICULO UNICO
 
@@ -1958,3 +1970,7 @@ P.O.13 DE ABRIL DE 1987.
 ###### ARTICULO UNICO
 
 - El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE OCTUBRE DE 1987.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
