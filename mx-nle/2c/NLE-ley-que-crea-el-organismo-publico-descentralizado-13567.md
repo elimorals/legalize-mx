@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-organismo-publico-descentralizado-13567"
 country: "mx"
 rank: "ley"
 publication_date: "1987-06-01"
-last_updated: "1987-06-01"
+last_updated: "1988-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA UN ORGANISMO PUBLICO DESCENTRALIZADO "SISTEMA METROPOLITANO DE PROCESAMIENTO DE DESECHOS SOLIDOS" (SEMIPRODESO)
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 1988.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de junio de 1987.
 
@@ -85,7 +85,9 @@ I.- Los bienes muebles e inmuebles que sean necesarios para cumplir sus atribuci
 
 II.- Las aportaciones y subsidios que hagan en su favor los Gobiernos Federal, Estatal, Municipal y los que se obtengan de las instituciones o personas públicas o privadas;
 
-III.- Los ingresos derivados de la actividad que desarrolle así como por conceptos de derechos por servicios y sus accesorios;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1988)</small>
+
+III.- Los ingresos derivados de la actividad que desarrolle;
 
 IV.- Los créditos que se obtengan; y
 
@@ -239,7 +241,7 @@ Las tarifas que se cobren por los servicios que preste el Sistema Metropolitano 
 
 ###### ARTICULO 18.
 
-Los adeudos procedentes de la prestación de los servicios del Sistema Metropolitano de Procesamiento de Desechos Sólidos, así como los demás accesorios legales tendrán el carácter de créditos fiscales que se harán efectivos a través de la Secretaría de Finanzas y Tesorería General del Estado en ejercicio de la facultad económica-coactiva.
+(DEROGADO, P.O. 9 DE SEPTIEMBRE DE 1988)
 
 ###### ARTICULO 19.
 
@@ -262,3 +264,9 @@ LIC. JORGE A. TREVIÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. LUCAS DE LA GARZA GONZALEZ
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 9 DE SEPTIEMBRE DE 1988.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
