@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-transporte-y-vialidad-del-estado-de-guerrero-5195"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "1989-06-06"
+last_updated: "1991-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE TRANSPORTE Y VIALIDAD DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 6 de junio de 1989.
 
@@ -579,7 +579,15 @@ III. Por caducidad.
 
 ### CAPITULO X. DE LA VIALIDAD
 
-### CAPITULO XI. DE LAS SANCIONES
+### CAPITULO X BIS
+
+DE LAS BASES PARA LOS REGLAMENTOS MUNICIPALES EN MATERIA DE VIALIDADES Y DE ESTACIONAMIENTOS EN ZONAS TURISTICAS.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
+
+ARTICULO 108 (sic) Bis 1.- Los ayuntamientos, en los términos del artículo 115 de la Constitución General de la República y de la Constitución Política del Estado, y de conformidad con las bases que establece esta Ley, expedirán reglamentos para la utilización de las vialidades en zonas turísticas y en materia de estacionamientos a efecto de atender el interés público y favorecer las actividades económicas y sociales, lograr una mayor eficiencia en las funciones urbanas.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 71.
 
@@ -646,6 +654,8 @@ Para asegurar la continuidad del servicio público y la atención eficiente de l
 ###### ARTICULO 85.
 
 En el procedimiento de intervención la autoridad notificará por escrito al concesionario, apercibiéndolo del contenido del artículo anterior, que procederá a intervenir el servicio público concesionado. Al efecto, tendrá tres días naturales para expresar lo que a su derecho convenga.
+
+### CAPITULO XI. DE LAS SANCIONES
 
 ###### ARTICULO 86.
 
@@ -758,6 +768,84 @@ La construcción de todo estacionamiento de uso colectivo será autorizado por l
 ###### ARTICULO 107.
 
 La Comisión Técnica de Transporte y Vialidad mantendrá en buen estado la señalización y el balizamiento de la vialidad existente y producirá e instalará los señalamientos visuales que requiera el control de la vialidad con la participación de la ciudadanía y la que corresponda a las autoridades municipales.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P. O. 26 DE FEBRERO DE 1991)</small>
+
+###### ARTICULO 107 Bis 2.
+
+Se podrán definir horarios y calendarios para la utilización de la vía pública para efectos de estacionamiento como lo exija el tráfico vehicular, sobre todo, en días y horas de mayor afluencia.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
+
+###### ARTICULO 107 Bis 3.
+
+Los visitantes no podrán dormir en la vía pública ni en vehículos estacionados en la misma.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
+
+###### ARTICULO 107 Bis 4.
+
+Se establecerán normas técnicas y disposiciones administrativas para que la vía pública no sea reservada en exclusiva para vehículo alguno. Cuando la autoridad municipal autorice a los propietarios de establecimientos hoteleros, comerciales o gastronómicos el uso de la vía pública para el estacionamiento de vehículos de sus propietarios, empleados o consumidores, deberá aplicarse a dicha autoridad el régimen de concesiones y de autorizaciones en general, según la ley relativa.
+
+> <small>(ADICIONADO P.O. 26 DE FEBRERO DE 1991)</small>
+
+###### ARTICULO 107 Bis 5.
+
+El Ayuntamiento establecerá directamente o a través de autorizaciones, estacionamientos en las zonas turísticas que puedan ser utilizados por las personas a las que se refiere el artículo anterior, o por los visitantes, considerándose de utilidad pública ese equipamiento.
+
+El Ayuntamiento promoverá también que los particulares construyan y operen dichos estacionamientos.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
+
+###### ARTICULO 107 Bis 6.
+
+La autoridad municipal promoverá que los propietarios o administradores de los establecimientos hoteleros, gastronómicos, centros nocturnos, comercios y demás análogos ubicados en las zonas turísticas, hagan frente a sus necesidades de estacionamientos conforme a las siguientes opciones:
+
+I. Construcción u operación de estacionamientos propios;
+
+II. Adquisición o uso de cajones en propiedad, cualquiera que sea la modalidad, o en arrendamiento, en estacionamientos de terceros;
+
+III. Concesión de lugares en la vía pública cuando ello no lesione el interés general;
+
+IV. Prestación del servicio de acomodador de vehículos en estacionamientos propios o de terceros; y
+
+V. Las demás que sean necesarias y convenientes de acuerdo a las leyes.
+
+Los estacionamientos estarán sujetos a regímenes de concesión en los términos de ley cuando presten servicio al público en general.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
+
+###### ARTICULO 107 Bis 7.
+
+La autoridad municipal autorizará las tarifas que podrán cobrarse en los estacionamientos que presten servicios al público considerando en todo caso el interés general y el de los visitantes, así como el monto de la inversión realizada, el comportamiento de los precios y el derecho a una utilidad razonable.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
+
+###### ARTICULO 107 Bis 8.
+
+Los autobuses provenientes de otras municipalidades o entidades federativas que se utilicen para transportar visitantes hacia las localidades turísticas y para su uso dentro de las mismas, no podrán ser estacionados en las vialidades de carácter turístico sino únicamente para ascenso y descenso de los pasajeros.
+
+Cuando se trate de turismo social y hasta en tanto no hayan los parques y estacionamientos a que se refiere esta ley, podrán temporalmente autorizar excepción a lo previsto en el párrafo anterior, si no afecta el interés general.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
+
+###### ARTICULO 107 Bis 9.
+
+Sin perjuicio de lo establecido en el artículo 105, los ayuntamientos directamente, o a través de concesiones, establecerán parques para autobuses que transporten turistas o visitantes, casas móviles y vehículos análogos. Dichos parques contarán con servicios sanitarios, agua potable, y otras facilidades que eviten deterioros a las condiciones ambientales de la Ciudad.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
+
+###### ARTICULO 107 Bis 10.
+
+Los reglamentos municipales y estatales, en su caso, considerarán modificaciones temporales a la aplicación de las normas técnicas y disposiciones en materia de tránsito y de transporte de carga, por lo que se refiere a estacionamiento en la vía pública, calendarios y horarios, en los días de mayor afluencia turística y en las horas de más tráfico vehicular, estableciéndose operativos de tránsito y de transporte por parte de las autoridades competentes.
+
+Igualmente, podrán autorizar a la autoridad a que se modifiquen temporalmente los sentidos de la circulación de las vialidades de zonas turísticas tomando las providencias de señalización pertinente.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
+
+###### ARTICULO 107 Bis 11.
+
+La autoridad municipal, con la intervención del Gobierno del Estado en lo que se refiere a transporte, promoverá programas y campañas de orientación vial y concientización tendientes a la utilización y aprovechamiento eficientes de las vialidades de carácter turístico y la observancia del interés general.
 
 ###### ARTICULO 108.
 
@@ -938,3 +1026,9 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE FEBRERO DE 1991.
+
+UNICO.- El presente Decreto de Reformas y Adiciones a la Ley de Transporte y Vialidad del Estado de Guerrero, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
