@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-6113"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-26"
-last_updated: "2001-12-31"
+last_updated: "2002-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 26 de diciembre de 1983.
 
@@ -377,33 +377,215 @@ La base del Impuesto Adicional para Carreteras y Construcción de Edificios Esco
 
 El impuesto se causará conforme a la tasa que señale la Ley de Ingresos y se hará efectivo en el momento de pagar los créditos mencionados en el artículo anterior, sobre la cantidad que se entere con carácter definitivo o en garantía de aquéllos.
 
+> <small>N. DE E. LOS ARTICULOS 32 Y 33 FUERON DEROGADOS EL 31 DE DICIEMBRE DE 1988 Y 28 DE DICIEMBRE DE 1989 RESPECTIVAMENTE; SIN EMBARGO EN LA REFORMA QUE NOS OCUPA SE ADICIONA UN CAPITULO III BIS QUE INCLUYE LOS ARTICULOS MENCIONADOS, SIN EMBARGO EL LEGISLADOR NUNCA DEROGO LA PRESENTE SECCION.</small>
+
 #### Sección Cuarta
 
 De las Exenciones.
 
-### CAPITULO IV. DEL IMPUESTO SOBRE PRODUCTOS Y RENDIMIENTOS DE CAPITAL
+> <small>N. DE E. DE CONFORMIDAD CON LA ADICION QUE EFECTUA EL LEGISLADOR DEL CAPITULO III BIS SE INTERCALAN LOS ARTICULOS CON SU CONSECUTIVO DE ACUERDO CON SU PUBLICACION EN EL DECRETO No. 188.</small>
 
-#### Sección Primera. Del Objeto
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+### CAPITULO III BIS. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACION AL TRABAJO PERSONAL, PRESTADO BAJO LA DIRECCION Y DEPENDENCIA DE UN PATRON
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+#### Sección Primera. Del objeto y sujeto
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 32.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
+Están obligados al pago del Impuesto sobre Erogaciones por Remuneración al Trabajo Personal Prestado Bajo la Dirección y Dependencia de un Patrón, las personas físicas y morales que realicen dichas erogaciones, dentro del territorio del Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 32 Bis.
+
+Quedan comprendidos entre los obligados a que se refiere el Artículo 32, las personas físicas y morales que realicen el pago de las remuneraciones afectas a este Impuesto en la Entidad, aún cuando para efectos distintos tengan su domicilio en otra entidad federativa.
+
+Asimismo, quedan comprendidos como sujetos de este imuestos, las dependencias y entidades del Gobierno Federal, el Gobierno del Estado y las entidades paraestatales, los gobiernos municipales, así como sus respectivas entidades paramunicipales, las entidades autónomas, los fideicomisos constituidos por dependencias y entidades de la administración pública federa, por el Gobierno del Estado y por los gobiernos municipales, cuando en estos tres casos, se trate de entidades con personalidad jurídica y patrimonio propio.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 33.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1989)
+Para los efectos de este impuesto quedan comprendidas en el concepto de remuneración al trabajo personal prestado bajo la dirección y dependencia de un patrón, los sueldos y salarios, en los términos de las disposiciones de seguridad social a que el patrón deba sujetarse para realizar las aportaciones correspondientes.
 
-#### Sección Segunda. De los Sujetos
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-#### Sección Tercera
+#### Sección Segunda. De la tasa y de la base
 
-De La Base.
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-#### Sección Cuarta. Del Pago
+###### ARTICULO 33 Bis.
 
-### CAPITULO V. DEL IMPUESTO AL COMERCIO Y A LA INDUSTRIA
+El impuesto a que se refiere este capítulo, se calculará aplicando la tasa del 2% al monto de las remuneraciones pagadas por los servicios prestados bajo la dirección y dependencia de los sujetos a que se refiere el artículo 32 y 32 Bis.
 
-#### Sección Quinta. De las Obligaciones
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 34 Bis.
+
+Para efectos de la determinación y pago del impuesto que regula este Capítulo, que se cause por las remuneraciones al personal transferido al Estado con motivo de la descentralización de los servicios de Educación y Salud, el monto a pagar por el Gobierno del Estado, será a cargo del Gobierno Federal, quien deberá transferir mensualmente el importe correspondiente, calculado sobre el monto que se asigne en el Presupuesto de Egresos de la Federación para esta Entidad, correspondiente a los conceptos de servicios personales, en los siguientes fondos de aportaciones federales:
+
+a) Para la Educación Básica y Normal,
+
+b) Para los Servicios de Salud,
+
+c) Para la Educación Tecnológica y de Adultos.
+
+Asimismo, se deberá transferir al Gobierno del Estado el monto equivalente de este impuesto, que derive del costo asumido por la Federación, tratándose del personal Estatal homologado al Federal transferido.
+
+Adicionalmente, el Gobierno Federal, transferirá al Gobierno del Estado, el cincuenta por ciento del monto del impuesto a cargo de éste, que se cause por la remuneración al personal al servicio de las instituciones educativas constituidas como organismos descentralizados del Estado, con base en convenios suscritos con el Gobierno Federal, en los que se asumió el compromiso de cubrir el costo de operación por partes iguales.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+#### Sección Tercera. De las exenciones y estímulos fiscales
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 35 Bis.
+
+Se exceptúan del pago de este impuesto:
+
+I. Las erogaciones que se efectúen por concepto de:
+
+a) Los instrumentos de trabajo tales como herramientas, ropa y otros similares;
+
+b) El ahorro, cuando se integre por depósito semanal, quincenal o mensual, por cantidades iguales que aporten trabajador y patrón o cuando se constituya en forma diversa a la señalada, aún cuando el trabajador pueda retirarlo más de dos veces al año;
+
+c) Las cantidades otorgadas por el patrón para fines sociales de carácter sindical;
+
+d) Las aportaciones que el patrón pague a sus trabajadores por concepto de cuotas del seguro de retiro, cesantía en edad avanzada y vejez, adicionales a las establecidas en las disposiciones de seguridad social que le sean aplicables;
+
+e) Las participaciones en las utilidades de la empresa;
+
+f) La alimentación y la habitación cuando se entreguen en forma onerosa a los trabajadores, entendiéndose que son onerosas estas prestaciones cuando el trabajador pague por cada una de ellas, como mínimo, el veinte por ciento del salario mínimo general diario que rija en el Distrito Federal;
+
+g) Las despensas en especie o en dinero, siempre y cuando su importe no rebase el cuarenta por ciento del salario mínimo general diario vigente en el Distrito Federal;
+
+h) Los premios por asistencia y puntualidad, siempre que el importe por cada uno de estos conceptos no rebase el diez por ciento del salario base de cotización al Instituto Mexicano del Seguro Social o al Instituto de Seguridad Social y Servicios a los Trabajadores del Estado;
+
+i) Las cantidades aportadas para fines sociales, considerándose como tales las entregadas para constituir fondos de algún plan de pensiones establecido por el patrón o derivado de contraprestación colectiva. Los planes de pensiones serán solo los que reúnan los requisitos que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro;
+
+j) Las remuneraciones por tiempo extraordinario dentro de los márgenes señalados en la Ley Federal del Trabajo;
+
+k) Pagos de becas para trabajadores o para sus hijos, seguro de vida y seguro de gastos médicos, cuando en este último caso se contrate de manera general y sea distinto al de las instituciones de seguridad social;
+
+l) Viáticos y gastos de representación efectivamente erogados por cuenta del patrón y que hayan sido debidamente comprobados en los mismos términos que, para su deducibilidad requiere la Ley del Impuesto sobre la Renta;
+
+m) Aportaciones al Instituto Mexicano del Seguro Social (IMSS), al Instituto del Fondo Nacional para la Vivienda de los Trabajadores (INFONAVIT), al Instituto de Seguridad y Servicios Sociales para los Trabajadores al Servicio del Estado (ISSSTE), a la Dirección de Pensiones Civiles del Estado y las del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (ISSFAM), de las cuotas a cargo del patrón; y
+
+n) Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía en edad avanzada y muerte.
+
+Para los efectos de que proceda la exención por los conceptos mencionados, los mismos deberán estar debidamente comprobados y registrados en la contabilidad del sujeto de este impuesto.
+
+II. Las erogaciones que efectúen:
+
+a) Las Instituciones de asistencia o de beneficencia autorizadas por las leyes de la materia, así como las sociedades o asociaciones civiles autorizadas para recibir donativos en los términos de la Ley del Impuesto Sobre la Renta que, sin designar individualmente a los beneficiarios, tengan como actividades las que a continuación se señalan:
+
+1. Atención a personas que, por sus carencias socioeconómicas o por problemas de invalidez, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo.
+
+2. Atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo, e inválidos de escasos recursos.
+
+3. La prestación de asistencia médica o jurídica, de orientación social, y de servicios funerarios a personas de escasos recursos, especialmente e menores, ancianos o discapacitados.
+
+4. La readaptación social de personas que han llevado a cabo conductas ilícitas.
+
+5. La rehabilitación de farmaco-dependientes de escasos recursos.
+
+b) La empresa social constituida por avecindados, ejidatarios o hijos de éstos, así como las sociedades de solidaridad social y las empresas integradoras de éstas que se constituyan en los términos de la Ley de la materia;
+
+c) Asociaciones rurales de interés colectivo;
+
+d) Agrupaciones políticas y religiosas debidamente registradas conforme a la Ley de la materia; y
+
+e) Instituciones privadas dedicadas a la educación en forma gratuita.
+
+III. Otras exenciones:
+
+a) Ejidos y comunidades;
+
+b) Por remuneraciones al trabajo doméstico; y
+
+c) Por remuneraciones a los trabajadores discapacitados.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 36 Bis.
+
+Con independencias de las excepciones aplicables en materia del impuesto que se regula en este Impuesto, la Tesorería General del Estado, dictaminará, previo acuerdo con los representantes de las organizaciones productivas del Estado, sobre el otorgamiento de estímulos fiscales.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+#### Sección Cuarta. Del (sic) las obligaciones y el pago
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 37 Bis.
+
+El impuesto que regula este Capítulo se calculará por ejercicios fiscales, que coincidirán con el año calendario. Se causará en el momento en que se realicen las erogaciones por el trabajo personal prestado bajo la dirección y dependencia de un patrón y se pagará mensualmente el día 17 del mes siguiente a aquel a que corresponda, mediante declaración provisional que deberá presentarse en la oficina recaudadora que corresponda al domicilio del contribuyente o en la sucursal que elija de las instituciones bancarias que en su caso se autoricen por la Tesorería General.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 38 Bis.
+
+Cuando los sujetos de este impuesto inicien actividades con posterioridad al 1 de enero, en dicho año el ejercicio fiscal será irregular, debiendo iniciarse el día en que comiencen las actividades y terminarse el 31 de diciembre del año que se trate.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 39 Bis.
+
+El contribuyente que con posterioridad a la fecha de presentación de alguna declaración mensual, compruebe que realizó algún pago indebido en exceso, respecto del impuesto causado, podrá optar por solicitar la devolución de la cantidad pagada indebidamente o compensar el monto a su favor contra el importe que deba enterar en el mes siguiente.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 40 Bis.
+
+El impuesto del ejercicio, deducidos los pagos provisionales se pagará mediante declaración que se presentará en cualquiera de las oficinas a que se refiere el artículo 37 Bis de esta Ley, dentro de los tres meses siguientes al cierre del ejercicio.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 41 Bis.
+
+Cuando los sujetos de este impuesto tengan más de un establecimiento u oficina desconcentrada tratándose de instituciones oficiales, dentro del territorio del Estado, podrán presentar las declaraciones mensuales y del ejercicio a que se refieren los artículos 37 Bis y 40 Bis por todos los establecimientos u oficinas desconcentradas, en la oficina que corresponda al domicilio de su establecimiento principal u oficina central según se trate.
+
+Para los efectos de lo dispuesto en el párrafo anterior, los sujetos de que se trate adjuntarán a las declaraciones correspondientes, la cédula que contenga la información relativa a cada establecimiento u oficina establecidas en el Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 42 Bis.
+
+Los obligados al pago de este impuesto, además de las obligaciones señaladas en otros artículos de este capítulo, tendrán las siguientes:
+
+I. Inscribirse en el Registro Estatal de Contribuyentes, a través de la oficina recaudadora que corresponda a su domicilio, dentro de los 30 días siguientes a la fecha de iniciación de las actividades, mediante la presentación de la forma que al efecto autorice la Tesorería General del Estado, debiendo adjuntar a la misma, copia de la solicitud de inscripción al Registro Federal de Contribuyentes, de la Secretaría de Hacienda y Crédito Público, en la que conste la información relacionada con su identidad, que podrá comprender, entre otros datos, nombre, denominación o razón social, actividad, domicilio o ubicación de cada establecimiento u oficina central cuando se trate de instituciones oficiales y en general los demás datos que permitan su identificación precisa para los efectos de este impuesto.
+
+Asimismo, deberán presentar copia de la cédula de identificación fiscal expedida por la Secretaría de Hacienda y Crédito Público;
+
+II. Presentar ante la misma oficina a la que se refiere el párrafo anterior, dentro del plazo señalado, los avisos de cambio de denominación o razón social, de domicilio o ubicación de establecimientos u oficinas, de suspensión o reanudación de actividades, de apertura o cierre de establecimientos, de liquidación o apertura de sucesión y de cancelación en el Registro Federal de Contribuyentes.
+
+Para los efectos de lo dispuesto en este artículo se aplicarán supletoriamente las disposiciones que regulan la materia del Registro Federal de Contribuyentes, establecidas en el Código Fiscal de la Federación y su Reglamento; y
+
+III. Presentar los avisos, datos, documentos e informes que le sean requeridos por la autoridad fiscal, en relación con este impuesto, en los términos de lo dispuesto por el Código Fiscal del Estado de Michoacán de Ocampo.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 43 Bis.
+
+El incumplimiento de las obligaciones a que se refiere este capítulo, se sancionará conforme a lo dispuesto por el Código Fiscal del Estado de Michoacán de Ocampo.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 44 Bis.
+
+La recaudación que se obtenga de la aplicación de este impuesto, se destinará a fomentar el desarrollo económico del Estado y generar condiciones para la creación de más empleos en acuerdo del Ejecutivo, con las organizaciones productivas del Estado.
+
+El Ejecutivo del Estado al presentar la Cuenta Pública informará al Congreso del Estado respecto del monto obtenido por la recaudación de este impuesto así como de su aplicación.
+
+### CAPITULO IV. DEL IMPUESTO SOBRE PRODUCTOS Y RENDIMIENTOS DE CAPITAL
+
+#### Sección Primera. Del Objeto
 
 ###### ARTICULO 34.
 
@@ -453,7 +635,7 @@ XII. De cualesquiera otras operaciones o inversiones de capital, sin importar el
 
 Para los efectos de este artículo se presumirá, salvo prueba en contrario, que existe derecho a percibir los intereses a que se refieren las fracciones I, II, III, IV y XI de este artículo, no obstante que en los documentos en que se hubieran hecho constar las operaciones relativas no aparezca estipulado ningún interés o cuando se determine que no causaron intereses en estos casos el ingreso gravable será el que resulte de aplicar al capital el tanto por ciento para los recargos por falta de pago oportuno que señale la Ley de Ingresos vigente.
 
-#### Sección Sexta. De las Exenciones
+#### Sección Segunda. De los Sujetos
 
 ###### ARTICULO 35.
 
@@ -481,7 +663,9 @@ b) Cuando el pago de los intereses gravables esté garantizado con bienes ubicad
 
 c) Cuando el capital de que provengan esté invertido en el Estado.
 
-#### Sección Séptima. De las Infracciones y Sanciones
+#### Sección Tercera
+
+De La Base.
 
 ###### ARTICULO 38.
 
@@ -501,7 +685,7 @@ II. En los casos de remate judicial o administrativo, por el que se adjudiquen b
 
 La Tesorería llevará un padrón en el que registren los nombres de los contribuyentes y todos los datos necesarios para la determinación del nacimiento, modificación y extinción de los créditos fiscales, por concepto del impuesto a que este capítulo se refiere, así como las bases para su recaudación y los demás datos que se estimen necesarios para la eficaz administración del citado impuesto.
 
-#### Sección Primera. Del Objeto
+#### Sección Cuarta. Del Pago
 
 ###### ARTICULO 40.
 
@@ -545,7 +729,7 @@ Igual aviso al señalado en el párrafo anterior deberá dar el contribuyente si
 
 Cuando se haya suspendido el cobro de este impuesto, de acuerdo con lo establecido en el artículo 42, y el actor se desiste de la demanda o haya omitido hacer en tiempo las promociones procedentes, y como consecuencia de ello se haya perjudicado su acción, quedará sin efecto la suspensión y será exigible el pago del impuesto correspondiente sobre la totalidad de los ingresos que el contribuyente haya tenido derecho a percibir de acuerdo con las estipulaciones del contrato.
 
-#### Sección Segunda. De los Sujetos
+#### Sección Quinta. De las Obligaciones
 
 ###### ARTICULO 45.
 
@@ -689,7 +873,7 @@ Tampoco podrán los encargados del Registro Público cancelar las inscripciones 
 
 Las infracciones a las disposiciones contenidas en este capítulo serán sancionadas de conformidad con lo dispuesto por el Código Fiscal del Estado.
 
-#### Sección Tercera. De los Responsables Solidarios
+#### Sección Sexta. De las Exenciones
 
 ###### ARTICULO 53.
 
@@ -721,17 +905,15 @@ IV. Si en los casos de la fracciones II y III el bien adjudicado no cubre el mon
 
 V. Si la adjudicación al acreedor se hiciere por convenio, deberá considerarse, en todo caso, que percibió la totalidad de los intereses causándose el impuesto sobre los mismos.
 
-#### Sección Cuarta. De la Base
+#### Sección Séptima. De las Infracciones y Sanciones
 
 ###### ARTICULO 55.
 
 Las infracciones al presente capítulo, se sancionarán de acuerdo con lo dispuesto por el Código Fiscal del Estado.
 
-### CAPITULO VI. DEL IMPUESTO SOBRE PRODUCCION DE AZUCAR, PILONCILLO, MIELES CRISTALIZABLES E INCRISTALIZABLES
+### CAPITULO V. DEL IMPUESTO AL COMERCIO Y A LA INDUSTRIA
 
-PRIMERA PARTE
-
-#### Sección Quinta. De las Excepciones
+#### Sección Primera. Del Objeto
 
 ###### ARTICULO 56.
 
@@ -759,7 +941,7 @@ IV. Comisión mercantil, el mandato otorgado al comisionista para ejecutar actos
 
 Quedan comprendidas en esta fracción, entre otras, las actividades que desarrollan por cuenta ajena los consignatarios, agentes, representantes, corredores y distribuidores.
 
-#### Sección Sexta. De las Declaraciones y Pago
+#### Sección Segunda. De los Sujetos
 
 ###### ARTICULO 58.
 
@@ -779,7 +961,7 @@ IV. En el Estado, cuando una empresa domiciliada en éste realice sus operacione
 
 V. Cuando se obtengan ingresos, objeto de este impuesto, provenientes de bienes que en el momento de efectuarse la operación se encuentren dentro del territorio del Estado, cualquiera que sea el domicilio de las partes y el destino de la mercancía.
 
-#### Sección Séptima. De las Rectificaciones
+#### Sección Tercera. De los Responsables Solidarios
 
 ###### ARTICULO 60.
 
@@ -793,9 +975,7 @@ III. Los comitentes, por los créditos fiscales derivados de las operaciones gra
 
 IV. Quienes adquieran por cualquier titulo establecimientos comerciales o industriales en los que se perciban ingresos gravados por este impuesto. Los establecimientos referidos quedarán afectos preferentemente al pago de este impuesto.
 
-#### Sección Octava
-
-De las Obligaciones.
+#### Sección Cuarta. De la Base
 
 ###### ARTICULO 61.
 
@@ -821,7 +1001,7 @@ De no satisfacer los requisitos anteriores, se estimará que el comisionista ha 
 
 El ingreso gravable del propietario de las mercancías, estará formado por el total de los ingresos obtenidos con motivo de las operaciones celebradas por el comisionista, agente, consignatario, representante, corredor o distribuidor, sin que sea deducible, para este efecto, la retribución estipulada.
 
-#### Sección Novena. De las Obligaciones de Terceros
+#### Sección Quinta. De las Excepciones
 
 ###### ARTICULO 64.
 
@@ -843,7 +1023,7 @@ Tampoco se consideran gravables los descuentos y bonificaciones que haga el pres
 
 V. En el caso de los comisionistas, las comisiones cedidas a otros agentes o sub-agentes, siempre que sobre ellas se cause el impuesto.
 
-#### Sección Décima. De las Exenciones
+#### Sección Sexta. De las Declaraciones y Pago
 
 ###### ARTICULO 65.
 
@@ -883,7 +1063,7 @@ Cuando el administrador único o los administradores de las sociedades autoricen
 
 Los contribuyentes menores podrán cubrir sus impuestos a cuota predeterminada, pero estarán obligados a presentar una declaración complementaria al finalizar cada ejercicio, en el caso de que los ingresos reales percibidos hayan excedido en más de un 20% a los que hubiesen servido de base para la determinación de la cuota. Para presentar tal declaración, se establece como plazo los meses de enero y febrero siguientes al término del ejercicio y con ella se cubrirán las diferencias del impuesto a que haya lugar.
 
-#### Sección Décima Primera. Disposiciones Generales
+#### Sección Séptima. De las Rectificaciones
 
 ###### ARTICULO 71.
 
@@ -903,7 +1083,9 @@ Fuera del plazo señalado en el párrafo anterior, no podrán hacerse las compen
 
 Los contribuyentes por iniciativa propia no podrán hacer las rectificaciones referidas en los artículos anteriores, cuando se descubra falsedad en los asientos de su contabilidad, cuando la omisión del impuesto haya sido descubierto de antemano por alguna autoridad, funcionario o empleado, cuando la haya precedido denuncia, cuando con anterioridad se haya iniciado una inspección, investigación, revisión o auditoría al responsable o presunto responsable, o haya sido requerido del pago de alguna prestación fiscal derivada en este gravamen.
 
-#### Sección Décima Segunda. De las Infracciones y Sanciones
+#### Sección Octava
+
+De las Obligaciones.
 
 ###### ARTICULO 74.
 
@@ -983,7 +1165,7 @@ Los fabricantes, envasadores, rectificadores, ampliadores y mezcladores, no podr
 
 Los locales de los expendios de bebidas alcohólicas no podrán ser utilizados para fines distintos a dicho expendio; en consecuencia, se prohibe que estos locales sean utilizados como habitación y que constituyan la única entrada para la habitación.
 
-#### Sección Primera. Del Objeto
+#### Sección Novena. De las Obligaciones de Terceros
 
 ###### ARTICULO 82.
 
@@ -1009,7 +1191,7 @@ Los contadores, al firmar o rendir dictamen sobre balance de los contribuyentes 
 
 Quienes tengan o hayan tenido relaciones comerciales o industriales con alguno o algunos de los contribuyentes de este impuesto, deberán auxiliar a la Tesorería y a sus dependencias, suministrándoles los informes, datos y documentos que le sean solicitados.
 
-#### Sección Segunda. De los Sujetos
+#### Sección Décima. De las Exenciones
 
 ###### ARTICULO 86.
 
@@ -1035,7 +1217,7 @@ IX. La enajenación de valores y de títulos de crédito, y
 
 X. El arrendamiento de carros de ferrocarril.
 
-#### Sección Tercera. De la Base
+#### Sección Décima Primera. Disposiciones Generales
 
 ###### ARTICULO 87.
 
@@ -1047,17 +1229,17 @@ Las personas físicas contribuyentes de este impuesto, para efectos del cumplimi
 
 Las personas morales cualesquiera que sea el monto de sus ingresos, se clasificarán como contribuyentes mayores.
 
-#### Sección Cuarta. Del Pago
+#### Sección Décima Segunda. De las Infracciones y Sanciones
 
 ###### ARTICULO 89.
 
 Las infracciones al presente capítulo se sancionarán de acuerdo con lo dispuesto por el Código Fiscal del Estado.
 
-### CAPITULO VII. DEL IMPUESTO SOBRE PRODUCCION DE ALCOHOL, AGUARDIENTES Y OTRAS BEBIDAS ALCOHOLICAS
+### CAPITULO VI. DEL IMPUESTO SOBRE PRODUCCION DE AZUCAR, PILONCILLO, MIELES CRISTALIZABLES E INCRISTALIZABLES
 
 PRIMERA PARTE
 
-#### Sección Quinta. De las Obligaciones
+#### Sección Primera. Del Objeto
 
 ###### ARTICULO 90.
 
@@ -1071,7 +1253,7 @@ II. Mieles cristalizables, aquéllas cuyas cifras analíticas en azúcares reduc
 
 III. Mieles incristalizables, el producto residual de la fabricación de azúcar, si referido a ochenta y cinco grados brix o veinte grados centígrados, los azúcares fermentables expresados en glucosa, no exceden de sesenta y uno por ciento.
 
-#### Sección Sexta. De las Infracciones y Sanciones
+#### Sección Segunda. De los Sujetos
 
 ###### ARTICULO 91.
 
@@ -1089,13 +1271,13 @@ III. Quienes posean, por cualquier título, productos materia de este impuesto s
 
 IV. Los adquirentes por cualquier título, de establecimientos industriales en que se produzcan bienes materia de este impuesto. Los mencionados establecimientos y productos estarán afectos preferentemente al pago del gravamen.
 
-#### Sección Primera. Del Objeto
+#### Sección Tercera. De la Base
 
 ###### ARTICULO 93.
 
 Es base de este impuesto, la cantidad total en kilogramos, de los artículos producidos.
 
-#### Sección Segunda. De los Sujetos
+#### Sección Cuarta. Del Pago
 
 ###### ARTICULO 94.
 
@@ -1111,7 +1293,7 @@ Para los efectos de este impuesto se considerará que existe enajenación por el
 
 El pago de este impuesto se hará dentro de los días primero al veinte del mes siguiente al en que se hubiere causado, en las oficinas de rentas de la jurisdicción del contribuyente o en el lugar que al efecto señale la Tesorería General del Estado, haciendo uso de las formas oficiales aprobadas.
 
-#### Sección Tercera. De la Base
+#### Sección Quinta. De las Obligaciones
 
 ###### ARTICULO 97.
 
@@ -1163,7 +1345,7 @@ XIV. En general, sujetarse a las medidas de control que para la verificación de
 
 El Tesorero General del Estado podrá autorizar a los contribuyentes de este impuesto, que cumplan con la obligación de llevar los libros que les señale este capítulo, con los que lleven conforme a otras leyes, cuando en los mismos se consignen datos que se consideren suficientes para el control del gravamen.
 
-#### Sección Cuarta. Del Pago
+#### Sección Sexta. De las Infracciones y Sanciones
 
 ###### ARTICULO 99.
 
@@ -1173,7 +1355,7 @@ DEL IMPUESTO SOBRE COMPRAVENTA DE PRIMERA MANO DE AZUCAR, PILONCILLO, MIELES CRI
 
 SEGUNDA PARTE
 
-#### Sección Quinta. De las Obligaciones
+#### Sección Primera. Del Objeto
 
 ###### ARTICULO 100.
 
@@ -1185,7 +1367,7 @@ Para los efectos de este impuesto, también se considera compraventa de primera 
 
 Este impuesto se causará en el momento en que se efectúe la compraventa de primera mano, aún cuando sea a crédito, considerándose consumada cuando el azúcar, piloncillo, mieles cristalizables e incristalizables salgan de la fábrica, bodega o lugar donde se encuentren.
 
-#### Sección Sexta. De las Infracciones y Sanciones
+#### Sección Segunda. De los Sujetos
 
 ###### ARTICULO 102.
 
@@ -1199,13 +1381,13 @@ I. Los productores de azúcar, piloncillo, mieles cristalizables e incristalizab
 
 II. Cualquier poseedor de azúcar, piloncillo, mieles cristalizables e incristalizables; si no presenta en el momento de ser requerido, las facturas o documentos que justifiquen su tenencia, así como la comprobación del pago del impuesto correspondiente.
 
-#### Sección Primera. Del Objeto
+#### Sección Tercera. De la Base
 
 ###### ARTICULO 104.
 
 La base de este impuesto se determinará por el peso, precio, volumen o número de piezas de los productos que se adquieran.
 
-#### Sección Segunda. De los Sujetos
+#### Sección Cuarta. Del Pago
 
 ###### ARTICULO 105.
 
@@ -1217,7 +1399,7 @@ El pago de este impuesto deberá efectuarse dentro de los días primero al veint
 
 Cuando el fabricante o vendedor de azúcar, piloncillo, mieles cristalizables e incristalizables residan fuera del Estado, el impuesto deberá ser pagado por los sujetos directos, dentro del plazo señalado en el párrafo anterior, mediante la presentación de una declaración en las formas oficiales aprobadas.
 
-#### Sección Tercera. De la Base
+#### Sección Quinta. De las Obligaciones
 
 ###### ARTICULO 107.
 
@@ -1245,21 +1427,23 @@ V. Las demás que señalen las autoridades fiscales.
 
 Los fabricantes o vendedores de azúcar, piloncillo, mieles cristalizables e incristalizables, deberán retener el impuesto a los sujetos directos del mismo y enterarlo en la oficina de rentas que corresponda a su jurisdicción, dentro de los días del primero al veinte del mes siguiente en que se hubiere efectuado la retención mediante la presentación de una declaración en las formas oficiales aprobadas.
 
-#### Sección Cuarta. Del Pago
+#### Sección Sexta. De las Infracciones y Sanciones
 
 ###### ARTICULO 110.
 
 Las infracciones al presente capítulo se sancionarán de acuerdo con lo dispuesto por el Código Fiscal del Estado.
 
-### CAPITULO VIII. DEL IMPUESTO SOBRE COMPRAVENTA DE PRIMERA MANO DE PRODUCTOS AGRICOLAS
+### CAPITULO VII. DEL IMPUESTO SOBRE PRODUCCION DE ALCOHOL, AGUARDIENTES Y OTRAS BEBIDAS ALCOHOLICAS
 
-#### Sección Quinta. De las Declaraciones y Obligaciones
+PRIMERA PARTE
+
+#### Sección Primera. Del Objeto
 
 ###### ARTICULO 111.
 
 Es objeto de este impuesto la producción o elaboración, la destilación, ampliación, mezcla o transformación de alcohol, aguardiente y otras bebidas alcohólicas, excepto cerveza.
 
-#### Sección Sexta. Disposiciones Generales
+#### Sección Segunda. De los Sujetos
 
 ###### ARTICULO 112.
 
@@ -1279,7 +1463,7 @@ IV. Los propietarios de fábricas, los maquiladores o establecimientos industria
 
 V. Quienes adquieran por cualquier título, establecimientos industriales, en los que se realicen actividades gravadas. En todo caso, los bienes que forman parte de dicho establecimiento, quedan afectos preferentemente al pago de este impuesto.
 
-#### Sección Séptima. De las Infracciones y Sanciones
+#### Sección Tercera. De la Base
 
 ###### ARTICULO 114.
 
@@ -1291,7 +1475,7 @@ Para los efectos de este impuesto se considera volumen real el efectivamente pro
 
 Tratándose de ampliación cuando no se modifique la denominación del producto sino únicamente su graduación alcohólica, la base del impuesto será la diferencia entre el volumen adquirido y el que resulte de la ampliación, si por el adquirido ya fue pagado el impuesto respectivo, lo cual deberá ser debidamente comprobado.
 
-#### Sección Primera. Del Objeto
+#### Sección Cuarta. Del Pago
 
 ###### ARTICULO 116.
 
@@ -1309,7 +1493,7 @@ El pago de este impuesto se hará mensualmente en la oficina de rentas de la jur
 
 Cuando vencido el plazo para efectuar el pago de este impuesto, no hubiere sido satisfecho, se procederá de acuerdo a lo dispuesto en el Código Fiscal Estatal.
 
-#### Sección Segunda. De los Sujetos
+#### Sección Quinta. De las Declaraciones y Obligaciones
 
 ###### ARTICULO 120.
 
@@ -1353,7 +1537,7 @@ VIII. En general, adoptar los sistemas y medios de control que para el correcto 
 
 Los terceros están obligados a exigir de los sujetos del impuesto, la factura o documentación comprobatoria relativa a las operaciones que con ellos realicen, constituyéndose en responsables solidarios cuando así lo hicieren.
 
-#### Sección Tercera. De la Base
+#### Sección Sexta. Disposiciones Generales
 
 ###### ARTICULO 123.
 
@@ -1385,7 +1569,7 @@ IV. Efectuar las demás diligencias que le sean encomendadas en relación con lo
 
 No podrá transpasarse una fábrica en la que se lleven a cabo actividades gravadas con este impuesto, si no está al corriente en el pago del mismo.
 
-#### Sección Cuarta. Del Pago
+#### Sección Séptima. De las Infracciones y Sanciones
 
 ###### ARTICULO 127.
 
@@ -1395,7 +1579,7 @@ SOBRE COMPRAVENTA DE PRIMERA MANO DE ALCOHOL, AGUARDIENTE Y OTRAS BEBIDAS ALCOHO
 
 SEGUNDA PARTE
 
-#### Sección Quinta. De las Obligaciones
+#### Sección Primera. Del Objeto
 
 ###### ARTICULO 128.
 
@@ -1407,7 +1591,7 @@ Para los efectos de este impuesto, también se considera compraventa de primera 
 
 Este impuesto se causará en el momento en que se efectúe la compraventa de primera mano, aún cuando sea a crédito y se considerará consumada cuando el alcohol, aguardiente o bebidas alcohólicas salgan de la fábrica, bodega o lugar donde se encuentren.
 
-#### Sección Primera. Del Objeto
+#### Sección Segunda. De los Sujetos
 
 ###### ARTICULO 130.
 
@@ -1427,13 +1611,13 @@ III. Cualquier poseedor de alcohol, aguardientes u otras bebidas alcohólicas, s
 
 Para los efectos de este impuesto las operaciones de comisión se considerarán como compraventa, teniendo el comisionista las mismas obligaciones que la presente parte establece para los sujetos del impuesto.
 
-#### Sección Segunda. De los Sujetos
+#### Sección Tercera. De la Base
 
 ###### ARTICULO 133.
 
 Es base de este impuesto el volumen de los productos materia de las operaciones gravadas.
 
-#### Sección Tercera. De la Base y Tasa
+#### Sección Cuarta. Del Pago
 
 ###### ARTICULO 134.
 
@@ -1445,7 +1629,7 @@ El pago de este impuesto deberá efectuarse dentro de los días primero al veint
 
 Cuando los fabricantes, elaboradores, ampliadores, mezcladores y vendedores de alcohol, aguardientes y otras bebidas alcohólicas residan fuera del Estado, el impuesto deberá ser pagado por los sujetos directos, dentro del plazo señalado en el párrafo anterior, mediante la presentación de una declaración en las formas oficiales aprobadas.
 
-#### Sección Cuarta. De las Obligaciones
+#### Sección Quinta. De las Obligaciones
 
 ###### ARTICULO 136.
 
@@ -1511,9 +1695,9 @@ Estarán exceptuados del cumplimiento de las obligaciones enumeradas en el artí
 
 Las infracciones cometidas por los contribuyentes de este impuesto, serán sancionados conforme a lo dispuesto por el Código Fiscal del Estado.
 
-### CAPITULO IX. DEL IMPUESTO SOBRE COMPRAVENTA O PERMUTA DE GANADO Y SUS ESQUILMOS
+### CAPITULO VIII. DEL IMPUESTO SOBRE COMPRAVENTA DE PRIMERA MANO DE PRODUCTOS AGRICOLAS
 
-#### Sección Quinta. Del Pago
+#### Sección Primera. Del Objeto
 
 ###### ARTICULO 143.
 
@@ -1527,7 +1711,7 @@ Este impuesto se causará al transmitir el productor, por cualquier título, la 
 
 Para los efectos de este impuesto se presume la compraventa de primera mano, cuando los productos sean transportados a bodegas o establecimientos comerciales o de su lugar de producción a centros de consumo.
 
-#### Sección Primera. Del Objeto
+#### Sección Segunda. De los Sujetos
 
 ###### ARTICULO 146.
 
@@ -1537,7 +1721,7 @@ Son sujetos del impuesto las personas físicas o morales que, habitual u ocasion
 
 Los vendedores, expendedores, distribuidores y transportadores están obligados a exigir la comprobación del pago del impuesto por los compradores y, en su caso, serán solidariamente responsables de dicho pago.
 
-#### Sección Segunda. De los Sujetos
+#### Sección Tercera. De la Base y Tasa
 
 ###### ARTICULO 148.
 
@@ -1547,7 +1731,7 @@ La base de este impuesto se determinará por el peso, precio, volumen o número 
 
 El impuesto materia de este capítulo, se causará conforme a las tasas que fije la Ley de Ingresos.
 
-#### Sección Tercera. De la Base
+#### Sección Cuarta. De las Obligaciones
 
 ###### ARTICULO 150.
 
@@ -1591,15 +1775,15 @@ Los propietarios o encargados de empacadoras de plantas despepitadoras, molinos 
 
 Las personas que no cumplan con las obligaciones anteriores, sin perjuicio del pago del impuesto omitido, serán sancionadas conforme a las disposiciones del Código Fiscal del Estado.
 
-#### Sección Cuarta. De las Obligaciones
+#### Sección Quinta. Del Pago
 
 ###### ARTICULO 154.
 
 Para hacer el pago del impuesto, el comprador deberá presentar a la oficina de rentas correspondiente, un aviso indicando el nombre del vendedor, la clase de productos que haya adquirido, su peso, volumen o número de piezas, a fin de que la autoridad fiscal correspondiente formule la liquidación procedente y la haga efectiva.
 
-### CAPITULO X. IMPUESTO AL EJERCICIO LIBRE DE PROFESIONES
+### CAPITULO IX. DEL IMPUESTO SOBRE COMPRAVENTA O PERMUTA DE GANADO Y SUS ESQUILMOS
 
-#### Sección Quinta. Del Pago y de las Exenciones
+#### Sección Primera. Del Objeto
 
 ###### ARTICULO 155.
 
@@ -1609,7 +1793,7 @@ Es objeto de este impuesto toda operación de compraventa o permuta de ganado y 
 
 Para los efectos de este impuesto, se considera como compraventa la extracción de ganado del predio destinado a la explotación, salvo el caso de que esta se efectúe para cambios de potrero, pastoreo o engorda, y siempre que el regreso se haga a su lugar de origen dentro de un término no mayor de seis meses.
 
-#### Sección Primera. Del Objeto
+#### Sección Segunda. De los Sujetos
 
 ###### ARTICULO 157.
 
@@ -1619,13 +1803,13 @@ Son sujetos de este impuesto las personas físicas o morales que habitual u ocas
 
 Son solidariamente responsables del pago de este impuesto, el comprador, el introductor, el comisionista, el transportador y los propietarios de vehículos que habitual u ocasionalmente trasladen ganado y sus esquilmos dentro del territorio del Estado.
 
-#### Sección Segunda. De los Sujetos
+#### Sección Tercera. De la Base
 
 ###### ARTICULO 159.
 
 El impuesto se liquidará por cada cabeza de ganado y por cada kilo de sus esquilmos.
 
-#### Sección Tercera. De la Base
+#### Sección Cuarta. De las Obligaciones
 
 ###### ARTICULO 160.
 
@@ -1647,7 +1831,7 @@ Las autoridades del Estado y Municipales, uniones y asociaciones ganaderas, no d
 
 Las autoridades fiscales, los inspectores de ganado, los funcionarios encargados de llevar la fe pública, así como las autoridades judiciales o administrativas, no autorizarán ningún acto o contrato de compraventa, permuta o traslado de ganado ni darán entrada a demanda por reclamaciones en relación con lo anterior, sin la comprobación oficial de haber quedado cubierto el impuesto correspondiente. En caso de que lo hicieren serán solidariamente responsables del pago del impuesto omitido.
 
-#### Sección Cuarta. Del Pago y Obligaciones
+#### Sección Quinta. Del Pago y de las Exenciones
 
 ###### ARTICULO 164.
 
@@ -1665,15 +1849,15 @@ Están exentas de este impuesto, las operaciones de compraventa sobre sementales
 
 Las infracciones cometidas por los contribuyentes de este impuesto, se sancionarán conforme a lo dispuesto por el Código Fiscal del Estado.
 
-### CAPITULO XI. DEL IMPUESTO SOBRE COMPRAVENTA DE PRIMERA MANO DE DIVERSOS MATERIALES PARA CONSTRUCCION
+### CAPITULO X. IMPUESTO AL EJERCICIO LIBRE DE PROFESIONES
 
-#### Sección Quinta. De las Infracciones y Sanciones
+#### Sección Primera. Del Objeto
 
 ###### ARTICULO 168.
 
 Es objeto de este impuesto el ejercicio libre y habitual de una profesión, autorizado conforme a la ley.
 
-#### Sección Primera. Del Objeto
+#### Sección Segunda. De los Sujetos
 
 ###### ARTICULO 169.
 
@@ -1683,13 +1867,13 @@ Son sujetos de este impuesto, las personas que ejerzan en la entidad, libremente
 
 Se entenderá por ejercicio libre de una profesión o especialidad, aquél que se lleve a cabo sin que exista una relación de dependencia o subordinación laboral del profesional.
 
-#### Sección Segunda. De los Sujetos
+#### Sección Tercera. De la Base
 
 ###### ARTICULO 171.
 
 Será base de este impuesto ejercer libre y habitualmente una profesión, independientemente de los ingresos que se perciban con motivo de ello.
 
-#### Sección Tercera. De la Base
+#### Sección Cuarta. Del Pago y Obligaciones
 
 ###### ARTICULO 172.
 
@@ -1707,27 +1891,27 @@ III. Dar aviso de suspensión temporal o definitiva de su ejercicio profesional.
 
 Las obligaciones a que se refiere el presente artículo, deberán cumplirse dentro de los términos de quince días contados a partir de la fecha en que sucedan los hechos generadores de las mismas.
 
-#### Sección Cuarta. Del Pago
+#### Sección Quinta. De las Infracciones y Sanciones
 
 ###### ARTICULO 174.
 
 Las infracciones cometidas por los contribuyentes de este impuesto, se sancionarán conforme a las disposiciones del Código Fiscal del Estado.
 
-### CAPITULO I. DEL CONCEPTO
+### CAPITULO XI. DEL IMPUESTO SOBRE COMPRAVENTA DE PRIMERA MANO DE DIVERSOS MATERIALES PARA CONSTRUCCION
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
-#### Sección Quinta. De las Obligaciones
+#### Sección Primera. Del Objeto
 
 ###### ARTICULO 175.
 
 Es objeto de este impuesto la compraventa de primera mano de los materiales para construcción señalados en este capítulo, que se extraigan dentro del territorio del Estado.
 
-#### Sección Sexta. De las Infracciones y Sanciones
+#### Sección Segunda. De los Sujetos
 
 ###### ARTICULO 176.
 
 Son sujetos de este impuesto las personas físicas o morales que realicen operaciones de venta de primera mano de: arena, piedra, grava, confitillo, texontle, cantera, pizarras, basaltos, calizas y demás rocas similares que se extraigan dentro del territorio del Estado, respondiendo solidariamente quienes los adquieran y transporten.
+
+#### Sección Tercera. De la Base
 
 ###### ARTICULO 177.
 
@@ -1737,6 +1921,8 @@ Es base de este impuesto el monto total de los ingresos obtenidos con motivo de 
 
 Para los efectos de este impuesto, se considera realizada la compraventa de primera mano, cuando los materiales de construcción referidos en este capítulo salgan de los lugares de explotación en que se obtengan.
 
+#### Sección Cuarta. Del Pago
+
 ###### ARTICULO 179.
 
 El pago de este impuesto deberá hacerse en la oficina de rentas de la jurisdicción en que se encuentre el predio, dentro de los días primero al veinte del mes siguiente al en que se hubiera causado el impuesto mediante la presentación de una declaración en la forma oficialmente aprobada al efecto, en la que consignará el monto total de los ingresos obtenidos en el mes inmediato anterior, cubriéndose el impuesto correspondiente.
@@ -1744,6 +1930,8 @@ El pago de este impuesto deberá hacerse en la oficina de rentas de la jurisdicc
 ###### ARTICULO 180.
 
 Los portadores habituales de los materiales a que se refiere este capítulo, deberán registrarse como tales ante la Tesorería General del Estado, así mismo, cada uno de los vehículos que utilicen en tal actividad, pagando los derechos correspondientes.
+
+#### Sección Quinta. De las Obligaciones
 
 ###### ARTICULO 181.
 
@@ -1765,6 +1953,8 @@ VI. Exigir facturas por las adquisiciones que realicen o transporte, así como l
 
 Los sujetos de este impuesto, deberán llevar el registro de sus operaciones diariamente, donde aparezcan los datos relativos de los adquirentes y porteadores, a quienes expedirán el documento que consigne la venta correspondiente.
 
+#### Sección Sexta. De las Infracciones y Sanciones
+
 ###### ARTICULO 183.
 
 Las infracciones al presente capítulo, serán sancionadas de conformidad a lo previsto en el Código Fiscal del Estado.
@@ -1773,9 +1963,9 @@ Las infracciones al presente capítulo, serán sancionadas de conformidad a lo p
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO II. DE LOS DERECHOS POR SERVICIOS QUE SE PRESTAN PERIODICAMENTE
+### CAPITULO I. DEL CONCEPTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 184.
 
@@ -1787,9 +1977,9 @@ II. Derechos por servicios que se prestan eventualmente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO II Bis. DEL REGISTRO Y CONTROL DE LICENCIAS PARA CONDUCIR VEHÍCULOS AUTOMOTORES
+### CAPITULO II. DE LOS DERECHOS POR SERVICIOS QUE SE PRESTAN PERIODICAMENTE
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 185.
 
@@ -1825,11 +2015,11 @@ Asimismo, procederá la expedición de dichos permisos, cuando los vehículos re
 
 Los derechos por los servicios a que se refiere este artículo, se pagarán conforme a las cuotas que establezca la Ley de Ingresos del Estado, para el ejercicio fiscal de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 186.
 
-Los servicios a que se refieren las fracciones I, II y IV del artículo anterior, se prestarán por la Tesorería General del Estado, en los siguientes plazos:
+Los servicios a que se refieren las fracciones I y II del artículo anterior, se prestarán por la Tesorería General del Estado, en los siguientes plazos:
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2000)</small>
 
@@ -1845,9 +2035,11 @@ B).- Para vehículos cuyo modelo corresponda a más de diez años anteriores al 
 
 En los años en que por disposición de la autoridad competente, se realice canje general de placas, el trámite se realizará en los mismos plazos a que se refieren los incisos A) y B) anteriores.
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-III. El refrendo de licencias para conducir vehículos automotores, se realizará dentro de los quince días siguientes a la fecha de su vencimiento. La expedición por primera vez, se realizará el mismo día en que se solicite por el interesado, previo cumplimiento de los requisitos a que se refiere el artículo 188 de esta Ley.
+III. El refrendo de licencias para conducir vehículos automotores, se realizará dentro de los quince días siguientes a la fecha de su vencimiento.
+
+La expedición de licencias por primera vez, se realizará en el plazo que determine la autoridad competente, previo cumplimiento de los requisitos que la misma determine, de conformidad con las disposiciones de la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2000)</small>
 
@@ -1869,71 +2061,39 @@ El incumplimiento a lo estipulado en este artículo se sancionará conforme al C
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2000)</small>
 
-### CAPITULO III. DE LOS RECARGOS Y SANCIONES
+### CAPITULO II Bis. DEL REGISTRO Y CONTROL DE LICENCIAS PARA CONDUCIR VEHÍCULOS AUTOMOTORES
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 188.
 
-La Tesorería General del Estado simultáneamente a la recaudación de los derechos por la expedición y renovación o refrendo de licencias para conducir vehículos automotores, integrará y mantendrá permanentemente actualizado, el "Registro Estatal de Licencias para Conducir", conforme a lo siguiente:
+Los derechos por la expedición y renovación de licencias para conducir vehículos automotores, se pagarán a la Tesorería General del Estado, previamente a la expedición de éstas, aplicando las cuotas que se establezcan en la Ley de Ingresos del Estado para el ejercicio fiscal de que se trate, para cada tipo de licencia que expida la autoridad competente, de conformidad con lo dispuesto en los Capítulos Segundo y Tercero de la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo.
 
-I. Para la expedición inicial de las licencias para conducir vehículos automotores que, entre otras característica de seguridad, contendrán fotografía, huella dactilar y firmas del conductor y del funcionario competente, digitalizadas a través de un sistema automatizado, se deberán cumplir ante la autoridad de tránsito correspondiente, los siguientes requisitos:
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-A) Presentar solicitud en la que declare, bajo protesta de decir verdad, que sabe conducir vehículos automotores según el tipo de licencia que solicite, a la que deberá anexar un comprobante de domicilio.
+### CAPITULO III. DE LOS RECARGOS Y SANCIONES
 
-Tratándose de personas a las que se les expida licencia por primera vez, independientemente de las características de la misma, además, deberá aprobar un examen de manejo según el tipo de licencia que solicite;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-B) Acreditar la nacionalidad mexicana, mediante la presentación de copia de la Credencial para Votar con fotografía, expedida por el Instituto Federal Electoral. Tratándose de extranjeros, el documento vigente expedido por la autoridad competente, mediante el cual se acredite su legal estancia en el País.
+###### ARTICULO 189.
 
-C) Acreditar haber cumplido 18 años de edad, mediante la presentación de copia certificada del acta de nacimiento. Tratándose de menores de 18 años, la solicitud a que se refiere el inciso A), deberá suscribirse por el padre o tutor, quien asumirá la responsabilidad correspondiente;
+Los derechos por los servicios periódicos que preste el Gobierno del Estado, que no sean pagados dentro de los plazos a que se refieren los artículos 186 y 187 de esta Ley, causarán recargos conforme a la tasa que establezca la Ley de Ingresos del Estado para el ejercicio de que se trate.
 
-D) Acreditar la capacidad visual, mediante la presentación de certificado correspondiente, que podrá ser expedido por instituciones oficiales del sector, como por cualquier oftalmólogo u optometrista titulado;
+La Tesorería General del Estado, exigirá el cumplimiento de las obligaciones periódicas a que se refiere este Título, mediante la aplicación del procedimiento administrativo de ejecución conforme al Código Fiscal del Estado de Michoacán de Ocampo, cuando éstas no se cumplan dentro de los plazos establecidos.
 
-E) Cuando por razones de previsión, el conductor requiera que se asiente el dato relativo al grupo sanguíneo y factor RH en la licencia de conducir, deberá proporcionar el documento que contenga el resultado del análisis de laboratorio correspondiente; y,
+La autoridad de transito municipal y en su caso, por virtud de los convenios que se celebren, la autoridad de tránsito del Estado, podrán retirar de la circulación a los vehículos que hayan sido embargados a sus propietarios, previa designación de la autoridad que corresponda, como depositaria de los mismos.
 
-F) Los demás que a juicio de la autoridad permitan la plena identificación del solicitante.
+La Tesorería General del Estado, solicitará el apoyo de las autoridades de tránsito referidas en el párrafo anterior, para realizar los actos de verificación y comprobación a que se refiere la fracción II del artículo 190 de esta Ley y retirar de la circulación aquellos vehículos cuyos propietarios o poseedores no comprueben el pago de los derechos por servicios de control vehicular a que se refiere este Título, previo levantamiento del acta de embargo correspondiente, en la que se designe a la autoridad que corresponda, con el carácter de depositaria.
 
-Tratándose de conductores de vehículos de servicio público estatal, tanto para la expedición inicial, como para la renovación o refrendo de la licencia, además de los requisitos a que se refiere la fracción anterior, deberán acreditar la aptitud física y mental para conducir, mediante la presentación de certificado médico.
+Independientemente de lo señalado en el párrafo anterior, se aplicarán las sanciones que correspondan conforme al Código Fiscal del Estado de Michoacán de Ocampo.
 
-II. Las licencias para conducir vehículos automotores deberán renovarse o refrendarse dentro de los 15 días siguientes a la fecha de su vencimiento, conforme a lo siguiente:
-
-Para conducir vehículos automotores de servicio público, tendrán vigencia de dos años, a partir de la fecha de su expedición.
-
-Para conducir vehículos automotores de servicio particular, la vigencia podrá ser de dos o cuatro años, a partir de la fecha de su expedición, según lo requiera el interesado.
-
-Para la renovación o refrendo, se deberán proporcionar únicamente aquellos documentos que contengan información diferente, respecto de la proporcionada al presentar la solicitud para la expedición inicial.
-
-No se renovará o refrendará la licencia para conducir vehículos automotores, a las personas a quienes sancione la autoridad competente, por conducir reincidentemente en estado de ebriedad o bajo el inlujo de drogas o enervantes.
-
-Para efectos de lo señalado en el párrafo anterior, se deberá llevar un registro de las incidencias que la autoridad competente informe a la Tesorería General del Estado.
-
-III. Los derechos por la expedición y renovación o refrendo de licencias para conducir vehículos automotores a que se refiere este Capítulo, se pagarán previamente a la expedición de éstas, conforme a las cuotas que se establezcan en la Ley de Ingresos del Estado para el ejercicio fiscal de que se trate.
+Para los efectos de que la Tesorería General esté en condiciones de conocer a quienes no realicen la renovación de su licencia para conducir vehículos automotores dentro del plazo a que se refiere la fracción III del artículo 186 de esta Ley y en consecuencia calcular y cobrar los recargos y las multas aplicables, la autoridad competente para la expedición y renovación de las licencias, le proporcionará el registro de las licencias expedidas mediante dispositivo magnético.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ### CAPITULO IV. DEL REGISTRO Y CONTROL DE VEHICULOS
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2000)</small>
-
-###### ARTICULO 189.
-
-Los derechos por los servicios periódicos que preste el gobierno del Estado, que no sean pagados dentro de los plazos a que se refieren los artículos 186, 187 y 188 de esta Ley, causarán recargos conforme a la tasa que establezca la Ley de Ingresos del Estado para el ejercicio de que se trate.
-
-Independientemente de lo señalado en el párrafo anterior, se aplicarán las sanciones que correspondan conforme al Código Fiscal del Estado de Michoacán de Ocampo.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
-
-La Tesorería General del Estado, exigirá el cumplimiento de las obligaciones periódicas a que se refiere este Título, mediante la aplicación del procedimiento administrativo de ejecución conforme al Código Fiscal del Estado, cuando éstas no se cumplan dentro de los plazos establecidos. La autoridad de Tránsito del Estado podrá retirar de la circulación a los vehículos que hayan sido embargados a sus propietarios, previa designación de aquella como depositaria de los mismos.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
-
-La Tesorería General del Estado, solicitará el apoyo de la autoridad de Tránsito del Estado, para realizar los actos de verificación y comprobación a que se refiere la fracción II del artículo 190 de esta Ley, y retirar de la circulación a aquellos vehículos cuyos propietarios o poseedores no comprueben el pago de los derechos por servicios de control vehicular a que se refiere este Título, previo levantamiento del acta de embargo correspondiente, en la que se designe a dicha autoridad con el carácter de depositaria.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
-### CAPITULO V. DE LOS DERECHOS POR SERVICIOS EVENTUALES
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 190.
 
@@ -1981,7 +2141,7 @@ Lo referido en el párrafo anterior, también será aplicable tratándose del do
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO VI. DEL PAGO
+### CAPITULO V. DE LOS DERECHOS POR SERVICIOS EVENTUALES
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -1991,7 +2151,7 @@ Para los efectos del artículo 184 de esta Ley, se consideran servicios eventual
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO VII. DE LAS EXENCIONES
+### CAPITULO VI. DEL PAGO
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -2005,7 +2165,9 @@ Por lo que se refiere a los servicios de Catastro por concepto de registro de pr
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO VIII. POR SERVICIOS PRESTADOS POR LAS OFICINAS DEL REGISTRO CIVIL
+### CAPITULO VII. DE LAS EXENCIONES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 193.
 
@@ -2121,7 +2283,7 @@ f) Los obreros, para asuntos laborales.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO IX. POR SERVICIOS PRESTADOS POR LOS CENTROS DE SALUD PUBLICA
+### CAPITULO VIII. POR SERVICIOS PRESTADOS POR LAS OFICINAS DEL REGISTRO CIVIL
 
 ###### ARTICULO 205.
 
@@ -2137,7 +2299,7 @@ f) Los obreros, para asuntos laborales.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO X. POR SERVICIOS PRESTADOS POR LA DIRECCION DE CATASTRO
+### CAPITULO IX. POR SERVICIOS PRESTADOS POR LOS CENTROS DE SALUD PUBLICA
 
 ###### ARTICULO 208.
 
@@ -2149,7 +2311,7 @@ f) Los obreros, para asuntos laborales.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO XI. POR LA PRESENTACION DE SERVICIOS OFICIALES DIVERSOS
+### CAPITULO X. POR SERVICIOS PRESTADOS POR LA DIRECCION DE CATASTRO
 
 ###### ARTICULO 210.
 
@@ -2161,7 +2323,7 @@ f) Los obreros, para asuntos laborales.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO XII. DISPOSICIONES GENERALES
+### CAPITULO XI. POR LA PRESENTACION DE SERVICIOS OFICIALES DIVERSOS
 
 ###### ARTICULO 212.
 
@@ -2173,7 +2335,7 @@ f) Los obreros, para asuntos laborales.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO UNICO
+### CAPITULO XII. DISPOSICIONES GENERALES
 
 ###### ARTICULO 214.
 
@@ -2229,9 +2391,7 @@ Estarán exentos del pago las inserciones en el Periódico Oficial ordenadas por
 
 ## TITULO SEXTO. DE LAS PARTICIPACIONES
 
-### CAPITULO I. FONDOS DE APORTACIONES FEDERALES
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 221.
 
@@ -2245,7 +2405,7 @@ Las participaciones concedidas al Estado en ingresos federales o municipales por
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
-### CAPITULO II. TRANSFERENCIAS POR CONVENIO
+### CAPITULO I. FONDOS DE APORTACIONES FEDERALES
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -2255,9 +2415,9 @@ Los ingresos del Estado provenientes de los Fondos de Aportaciones Federales, se
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
-### CAPITULO UNICO
+### CAPITULO II. TRANSFERENCIAS POR CONVENIO
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 221-B.
 
@@ -2265,9 +2425,9 @@ Los ingresos que se transfieran al Estado, derivados de reasignaciones del Presu
 
 ## TITULO SEPTIMO. DE LOS APROVECHAMIENTOS
 
-### CAPITULO I. DE LAS APORTACIONES PARA OBRAS O SERVICIOS PUBLICOS
+### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 222.
 
@@ -2323,9 +2483,9 @@ Los aprovechamientos se harán efectivos según proceda en cada caso, atendiendo
 
 > <small>(REFORMADO SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
-### CAPITULO II. DE OTROS
+### CAPITULO I. DE LAS APORTACIONES PARA OBRAS O SERVICIOS PUBLICOS
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 224.
 
@@ -2336,6 +2496,10 @@ De los acuerdos referidos en el párrafo anterior, deberá proporcionarse copia 
 Asimismo, el Estado percibirá las aportaciones de los municipios o de la Federación, para la ejecución de obras o la prestación de servicios públicos, conforme a los convenios respectivos.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+### CAPITULO II. DE OTROS
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 225.
 
@@ -2458,3 +2622,17 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día 1 de enero de 2003, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos de lo dispuesto en el artículo 42 Bis de esta Ley, el plazo para la inscripción en el Registro Estatal de Contribuyentes, iniciará a partir del inicio de vigencia del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para efectos de que el Gobierno de Estado cuente con los datos de identificación de aquellos contribuyentes que al inicio de vigencia del presente Decreto, ya se encuentran realizando las actividades por las que realizan erogaciones por remuneración al trabajo personal, la Secretaría de Hacienda y Crédito Público, a través del Servicio de Administración Tributaria, proporcionará en dispositivo magnético el padrón de contribuyentes obligados a la retención del Impuesto sobre la Renta.
