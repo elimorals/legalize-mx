@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1985-02-25"
+last_updated: "1985-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 1985.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -627,7 +627,7 @@ Las personas que pretendan contraer matrimonio presentarán solicitud al Oficial
 
 La solicitud a que se refiere el artículo anterior, expresará:
 
-I.- Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de los pretendientes como de sus padres, si estos fueran conocidos. Cuando alguno o ambos pretendientes hayan sido casados, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y fecha de ésta.
+I.- Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de los pretendientes como de sus padres, si éstos fueran conocidos. Cuando alguno o ambos pretendientes hayan sido casados, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y fecha de ésta.
 
 II.- Que no tienen impedimento legal para casarse; y
 
@@ -1673,7 +1673,9 @@ XIII.- La acusación calumniosa hecha por un cónyuge contra el otro, por delito
 
 XIV.- Haber cometido uno de los cónyuges un delito que no sea político, pero que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años;
 
-XV.- Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes, cuando amenazan causar la ruina de la familia, o constituyen un continuo motivo de desavenencia conyugal;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 1985)</small>
+
+XV.- Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes, o el maltrato grave físico o mental a los hijos, cuando amenazan causar la ruina de la familia, o constituyen un continuo motivo de desavenencia conyugal;
 
 XVI.- Cometer un cónyuge contra la persona o los bienes del otro, un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la ley una pena que pase de un año de prisión;
 
@@ -2369,7 +2371,7 @@ El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido defin
 
 El menor o el incapacitado que hayan sido adoptados, podrán impugnar la adopción dentro del año siguiente a la mayor edad o a la fecha en que haya desaparecido la incapacidad.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O 26 DE DICIEMBRE DE 1984)</small>
 
 ###### Art. 395.
 
@@ -15121,7 +15123,7 @@ Se derogan todas las disposiciones que contraríen o se opongan al contenido de 
 
 P.O. 5 DE ENERO DE 1983.
 
-PRIMERO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+PRIMERO:- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO:- Los procedimientos judiciales que se encuentren pendientes de resolución antes de la vigencia de este Decreto, se seguirán tramitando conforme a lo dispuesto en el que se reforma.
 
@@ -15154,3 +15156,7 @@ P.O. 25 DE FEBRERO DE 1985.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JULIO DE 1985.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
