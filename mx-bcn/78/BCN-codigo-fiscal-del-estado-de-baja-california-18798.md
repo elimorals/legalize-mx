@@ -4,7 +4,7 @@ identifier: "BCN-codigo-fiscal-del-estado-de-baja-california-18798"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-12-31"
-last_updated: "1998-07-24"
+last_updated: "1999-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1999.
 
 Código publicado en la Sección Decimosegunda del Periódico Oficial del Estado de Baja California, el sábado 31 de diciembre de 1988.
 
@@ -161,17 +161,17 @@ La recaudación, administración, determinación, concentración, vigilancia y c
 
 Son autoridades fiscales del Estado para los efectos de este Código y demás disposiciones aplicables, y competentes para administrar contribuciones Estatales y Federales coordinadas:
 
-I.- El Gobernador.
+I.- El Gobernador;
 
-II.- El Secretario de Finanzas.
+II.- El Secretario de Finanzas;
 
-III.- El Procurador Fiscal.
+III.- El Procurador Fiscal;
 
-IV.- El Director de Ingresos.
+IV.- El Director de Ingresos;
 
-V.- El Director de Auditoría Fiscal.
+V.- El Director de Auditoría Fiscal;
 
-VI.- Los Recaudadores.
+VI.- Los Recaudadores;
 
 VII.- El Subsecretario, los subprocuradores, Subdirectores y Subrecaudadores legal o reglamentariamente autorizados por sí o en ejercicio de suplencia.
 
@@ -1051,9 +1051,9 @@ Las notificaciones podrán hacerse en las oficinas de las autoridades fiscales, 
 
 ARTICULO 68 BIS.- Los actos administrativos que se deban notificar deberán contener por lo menos los siguientes requisitos:
 
-I.- Constar por escrito;
+I.- Constar por escrito.
 
-II.- Señalar la autoridad que lo emite;
+II.- Señalar la autoridad que lo emite.
 
 III.- Estar fundado y motivado y expresar la resolución, objeto o propósito de que se trate; y
 
@@ -1127,7 +1127,7 @@ La diligencia iniciada en horas hábiles podrá concluirse en hora inhábil sin 
 
 Procede garantizar el interés fiscal, cuando:
 
-I.- Se solicite la suspensión del Procedimiento Administrativo de Ejecución;
+I.- Se solicite la suspensión del Procedimiento Administrativo de Ejecución.
 
 II.- Se solicite prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades, si dichas facilidades se conceden individualmente; y
 
@@ -1200,6 +1200,10 @@ Los incapaces, los sujetos a concurso o quiebra, los ausentes y las sucesiones c
 En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las Autoridades Fiscales se hará mediante escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las Autoridades Fiscales o Notario.
 
 Los particulares o sus representantes podrán autorizar por escrito a personas que a su nombre reciban notificaciones. La persona así autorizada podrá ofrecer y rendir pruebas y presentar promociones relacionadas con estos propósitos.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 1999)</small>
+
+ARTICULO 86 BIS.- Los Contribuyentes podrán solicitar a la autoridad fiscal la suspensión de una acción de fiscalización, cuando se hayan realizado dentro del mismo ejercicio fiscal, previamente dos acciones, y que en la última realizada no se hubiese determinado irregularidad alguna, interponiendo el recurso administrativo, con base en el Título Cuarto de este Código.
 
 ###### ARTICULO 87.
 
@@ -1289,11 +1293,11 @@ Los funcionarios y fedatarios públicos no autorizarán ninguna Escritura o docu
 
 Las autoridades fiscales proporcionarán asistencia gratuita a los contribuyentes procurando:
 
-I.- Orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones fiscales, así como respecto al ejercicio de las prerrogativas y derechos que las leyes les otorguen, elaborando y distribuyendo folletos cuando así se considere necesario;
+I.- Orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones fiscales, así como respecto al ejercicio de las prerrogativas y derechos que las leyes les otorguen, elaborando y distribuyendo folletos cuando así se considere necesario.
 
-II.- Mantener módulos de orientación en las oficinas de las autoridades fiscales, en los distintos municipios del Estado;
+II.- Mantener módulos de orientación en las oficinas de las autoridades fiscales, en los distintos municipios del Estado.
 
-III.- Elaborar las formas oficiales de manera clara y precisa, para que puedan ser llenadas con facilidad por los contribuyentes y distribuirlas con oportunidad; e informar de las fechas y lugares de presentación;
+III.- Elaborar las formas oficiales de manera clara y precisa, para que puedan ser llenadas con facilidad por los contribuyentes y distribuirlas con oportunidad; e informar de las fechas y lugares de presentación.
 
 IV.- Proveer lo necesario para la prevención y resolución de problemas de los contribuyentes, ya sea directamente o por conducto de síndicos que éstos designen para que los representen ante las autoridades fiscales; y
 
@@ -2149,7 +2153,7 @@ El Fisco del Estado tendrá preferencia para adjudicarse en cualquier almoneda, 
 
 I.- A falta de postores, por la base de la postura legal que habrá de servir para la almoneda siguiente.
 
-II.- A falta de pujas, por la base de la postura legal no mejorada.
+II.- A falta de pujas, por la base de la postura legal no mejorada;
 
 III.- En caso de posturas o pujas iguales, por la cantidad en que se haya producido el empate.
 
@@ -2249,7 +2253,7 @@ III.- El promovente deberá acompañar al escrito de interposición del recurso:
 
 a) Los documentos que acrediten la personalidad cuando actúe en nombre de otro o de personas morales.
 
-b) El documento en el que conste el acto impugnado;
+b) El documento en el que conste el acto impugnado.
 
 c) Constancia de notificación del acto impugnado, excepto cuando el promovente declare bajo protesta de decir verdad que no recibió la constancia, que la notificación se haya practicado por correo certificado con acuse de recibo o por correo ordinario. Si la notificación fue por edictos, deberá señalar la fecha de la última publicación y en donde se hizo ésta; y
 
@@ -2436,3 +2440,7 @@ P.O. 24 DE JULIO DE 1998.
 ###### ARTICULO UNICO.
 
 La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE ENERO DE 1999.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
