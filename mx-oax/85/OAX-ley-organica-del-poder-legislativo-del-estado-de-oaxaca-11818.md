@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-de-oaxaca-11818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-04"
-last_updated: "1999-10-23"
+last_updated: "2000-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -439,9 +439,13 @@ XXIII.- De Honor y Justicia;
 
 XXIV.- De Fortalecimiento y Asuntos Municipales;
 
-XXV.- De Concertación Parlamentaria; y
+XXV.- De Concertación Parlamentaria; y (sic)
 
 XXVI.- De Ecología;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2000)</small>
+
+XXVII.- De Equidad y Género.
 
 Dichas Comisiones tendrán las facultades que se determinen en el Reglamento Interior del Congreso.
 
@@ -728,3 +732,9 @@ P.O. 23 DE OCTUBRE DE 1999.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE MAYO DE 2000.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- La Comisión Permanente de Equidad y Género de la LVII Legislatura del Estado, se integrará con las Diputadas y Diputados que integran la actual Comisión Especial de Equidad y Género.
