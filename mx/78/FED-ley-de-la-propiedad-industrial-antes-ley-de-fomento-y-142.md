@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-propiedad-industrial-antes-ley-de-fomento-y-142"
 country: "mx"
 rank: "ley"
 publication_date: "1991-06-27"
-last_updated: "1996-10-25"
+last_updated: "1997-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-06-26"
 
 LEY DE LA PROPIEDAD INDUSTRIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE OCTUBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 27 de junio de 1991.
 
@@ -1635,9 +1635,113 @@ Las declaraciones administrativas de nulidad y cancelación se harán por el Ins
 
 Además de las publicaciones previstas en este capítulo, se publicarán en la Gaceta las declaraciones que emita y autorizaciones que otorgue el Instituto, así como cualquier acto que dé por terminados los efectos de los derechos otorgados en materia de denominación de origen.
 
-## TITULO SEXTO. De los Procedimientos Administrativos
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
-## TITULO SEPTIMO. De la Inspección, de las Infracciones y Sanciones Administrativas y de los Delitos
+## TITULO QUINTO BIS. De los Esquemas de Trazado de Circuitos Integrados
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
+
+Artículo 178 bis .- Los esquemas de trazado de circuitos integrados serán registrados y estarán protegidos en términos del presente Título. Al efecto, el Instituto tendrá las facultades siguientes:
+
+I.- Tramitar y, en su caso, otorgar el registro a los esquemas de trazado de circuitos integrados, así como la inscripción de sus transmisiones y licencias de uso y explotación, en los términos de esta Ley y su reglamento;
+
+II.- Sustanciar los procedimientos de declaración administrativa de infracción, nulidad o caducidad, relacionados con el registro de los esquemas de trazado de circuitos integrados, emitir las resoluciones que correspondan a dichos procedimientos e imponer las sanciones que procedan, y
+
+III.- Cuando no lo hayan convenido las partes, fijar el monto de las regalías a que se refiere el artículo 178 bis 5, fracción V, segundo párrafo, de este Título.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
+
+Artículo 178 bis 1.- Para los efectos de este Título, se considerará como:
+
+I.- Circuito integrado: un producto, en su forma final o en una forma intermedia, en el que los elementos, de los cuales uno por lo menos sea un elemento activo, y alguna o todas las interconexiones, formen parte integrante del cuerpo o de la superficie de una pieza de material semiconductor, y que esté destinado a realizar una función electrónica;
+
+II.- Esquema de trazado o topografía: la disposición tridimensional, expresada en cualquier forma, de los elementos, de los cuales uno por lo menos sea un elemento activo, y de alguna o todas las interconexiones de un circuito integrado, o dicha disposición tridimensional preparada para un circuito integrado destinado a ser fabricado;
+
+III.- Esquema de trazado protegido: un esquema de trazado de circuitos integrados respecto del cual se hayan cumplido las condiciones de protección previstas en el presente Título, y
+
+IV.- Esquema de trazado original: el esquema de trazado de circuitos integrados que sea el resultado del esfuerzo intelectual de su creador y no sea habitual o común entre los creadores de esquemas de trazado o los fabricantes de circuitos integrados en el momento de su creación.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
+
+Artículo 178 bis 2.- Será registrable el esquema de trazado original, incorporado o no a un circuito integrado, que no haya sido comercialmente explotado en cualquier parte del mundo. También será registrable aun cuando haya sido comercialmente explotado de manera ordinaria, en México o en el extranjero, siempre que la solicitud de registro se presente ante el Instituto, dentro de los dos años siguientes a la fecha en que el solicitante lo explote comercialmente en forma ordinaria por primera vez en cualquier parte del mundo.
+
+Un esquema de trazado que consista en una combinación de elementos o interconexiones que sean habituales o comunes entre los creadores de esquemas de trazado o los fabricantes de circuitos integrados al momento de su creación, sólo será registrable si la combinación en su conjunto se considera original en los términos de la fracción IV del artículo 178 bis 1 de este Título, y cumpla con las demás condiciones señaladas en el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
+
+Artículo 178 bis 3.- El registro de un esquema de trazado tendrá una vigencia de diez años improrrogables contados a partir de la fecha de presentación de la solicitud de registro y estará sujeta al pago de la tarifa correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
+
+Artículo 178 bis 4.- El registro de un esquema de trazado confiere a su titular el derecho de impedir a otras personas que, sin su autorización:
+
+I.- Reproduzcan en su totalidad el esquema de trazado protegido, o cualquiera de sus partes que se considere original por sí sola en los términos de la fracción IV del artículo 178 bis 1 de esta Ley, por incorporación en un circuito integrado o en otra forma, y
+
+II.- Importen, vendan o distribuyan en cualquier forma para fines comerciales:
+
+a) El esquema de trazado protegido;
+
+b) Un circuito integrado en el que se incorpore un esquema de trazado protegido, o
+
+c) Un bien que incorpore un circuito integrado que a su vez incorpore un esquema de trazado protegido reproducido ilícitamente.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
+
+Artículo 178 bis 5.- El derecho que confiere el registro de un esquema de trazado no producirá efecto alguno en contra de cualquier tercero que:
+
+I.- Sin autorización del titular, con propósitos privados o con el único objetivo de evaluación, análisis, investigación o enseñanza, reproduzca un esquema de trazado protegido;
+
+II.- Cree un esquema de trazado que cumpla con la exigencia de originalidad, sobre la base de la evaluación o el análisis de un esquema de trazado protegido en los términos de la fracción I de este artículo.
+
+El creador del segundo esquema de trazado podrá llevar a cabo cualquiera de los actos a que se refiere el artículo anterior respecto del esquema de trazado por él creado, sin la autorización del titular del primer esquema de trazado protegido;
+
+III.- En forma independiente y con anterioridad a la publicación del registro en la Gaceta, haya creado un esquema de trazado original idéntico al esquema de trazado protegido.
+
+Quien trate de prevalerse de esta excepción, en un procedimiento de declaración administrativa, tendrá la carga de la prueba;
+
+IV.- Realice cualquiera de los actos a que se refiere la fracción II del artículo anterior sin la autorización del titular, después de que hayan sido introducidos lícitamente en el comercio en México o en cualquier parte del mundo por el titular o con su consentimiento, respecto de:
+
+a) Un esquema de trazado protegido;
+
+b) Un circuito integrado que incorpore un esquema de trazado protegido, o
+
+c) Un bien que incorpore un circuito integrado que a su vez incorpore un esquema de trazado protegido;
+
+V.- Sin autorización del titular, venda o distribuya en cualquier forma un circuito integrado que incorpore un esquema de trazado protegido reproducido ilícitamente, siempre y cuando la persona que realice u ordene tales actos no sepa y no tuviere motivos razonables para saber, al adquirir tal circuito integrado, que éste incorpora un esquema de trazado protegido reproducido ilícitamente.
+
+A partir del momento en que el tercero de buena fe reciba aviso suficiente de que el esquema de trazado protegido se ha reproducido ilícitamente, estará obligado al pago de una regalía razonable que correspondería bajo una licencia libremente negociada, de tal esquema de trazado, para agotar el inventario en existencia o los pedidos hechos con anterioridad a la notificación.
+
+La realización de cualquier actividad contemplada en el presente artículo no constituirá infracción administrativa o delito en los términos de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
+
+Artículo 178 bis 6.- Además de los datos señalados en el artículo 38 de esta Ley, la solicitud de registro deberá ir acompañada de:
+
+I.- La manifestación, bajo protesta de decir verdad, de la fecha y lugar de primera explotación comercial ordinaria en alguna parte del mundo, o de que no ha sido explotado;
+
+II.- Una reproducción gráfica o fotográfica del esquema de trazado, y
+
+III.- La indicación de la función electrónica que realice el circuito integrado, al que se incorpora el esquema de trazado.
+
+El solicitante podrá excluir las partes de la reproducción gráfica o fotográfica relativas a la forma de fabricación del circuito integrado, a condición de que las partes presentadas sean suficientes para permitir la identificación del esquema de trazado.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
+
+Artículo 178 bis 7.- El registro de un esquema de trazado se llevará a cabo, en lo conducente, conforme a lo dispuesto en los artículos 34, 35, 38, 38 bis, 39, 50 y 55 bis al 60 de esta Ley.
+
+Para la transmisión o licencia de los derechos que confiere un registro de esquema de trazado protegido serán aplicables las disposiciones contenidas en los artículos 62 al 69 de esta Ley. No procederá el otorgamiento de licencias obligatorias.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
+
+Artículo 178 bis 8.- El registro de un esquema de trazado protegido será nulo cuando se haya otorgado en contravención a lo dispuesto en el artículo 178 bis 2 de este Título, siendo aplicable, en lo conducente, lo dispuesto en los artículos 78 al 81 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
+
+Artículo 178 bis 9.- Para los efectos del artículo 229 de esta Ley, los esquemas de trazado protegidos o los circuitos integrados a los que éstos se incorporen deberán ostentar las letras: “M” o “T”, dentro de un círculo o enmarcados en alguna otra forma; acompañados del nombre del titular, sea en forma completa o en forma abreviada por medio del cual sea generalmente conocido.
+
+El titular del registro de un esquema de trazado podrá demandar daños y perjuicios a terceros que antes del otorgamiento de dicho registro hayan explotado sin su consentimiento el esquema de trazado, siempre y cuando dicha explotación se haya realizado después de la fecha de presentación de la solicitud de registro y el esquema de trazado de que se trate cumpla con lo dispuesto en el párrafo anterior.
+
+## TITULO SEXTO. De los Procedimientos Administrativos
 
 ### Capítulo III. De los Delitos
 
@@ -1931,6 +2035,8 @@ Analizados los argumentos que se exponen en el recurso y los documentos aportado
 
 Sí la resolución que emita el Instituto niega la procedencia del recurso se comunicará por escrito al recurrente y se publicará en la Gaceta. Cuando la resolución sea favorable al recurrente se procederá en los términos del artículo 57 de esta Ley.
 
+## TITULO SEPTIMO. De la Inspección, de las Infracciones y Sanciones Administrativas y de los Delitos
+
 ###### Artículo 203.
 
 Para comprobar el cumplimiento de lo dispuesto en esta Ley y demás disposiciones derivadas de ella, el Instituto realizará la inspección y vigilancia, conforme a los siguientes procedimientos:
@@ -2133,13 +2239,27 @@ XX.- Ofrecer en venta o poner en circulación productos a los que se aplica una 
 
 XXI.- Ofrecer en venta o poner en circulación productos a los que se aplica una marca registrada, después de haber alterado, sustituido o suprimido parcial o totalmente ésta;
 
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
-XXII.- Usar sin autorización o licencia correspondiente una denominación de origen, y
+XXII.- Usar sin autorización o licencia correspondiente una denominación de origen;
 
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
-XXIII.- Las demás violaciones a las disposiciones de esta Ley que no constituyan delitos.
+XXIII.- Reproducir un esquema de trazado protegido, sin la autorización del titular del registro, en su totalidad o cualquier parte que se considere original por sí sola, por incorporación en un circuito integrado o en otra forma;
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
+
+XXIV.- Importar, vender o distribuir en contravención a lo previsto en esta Ley, sin la autorización del titular del registro, en cualquier forma para fines comerciales:
+
+a) Un esquema de trazado protegido;
+
+b) Un circuito integrado en el que esté incorporado un esquema de trazado protegido, o
+
+c) Un bien que incorpore un circuito integrado que a su vez incorpore un esquema de trazado protegido reproducido ilícitamente, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
+
+XXV.- Las demás violaciones a las disposiciones de esta Ley que no constituyan delitos.
 
 ###### Artículo 214.
 
@@ -2400,3 +2520,9 @@ Se derogan los artículos 12 de la Ley Sobre Producción, Certificación y Comer
 El Instituto Mexicano de la Propiedad Industrial remitirá a la Secretaría, dentro de los seis meses de la entrada en vigor de la presente ley, las solicitudes de los obtentores de variedades vegetales en todos los géneros y especies, que le hayan sido presentadas con anterioridad a la entrada en vigor de este ordenamiento, de conformidad con lo establecido en el artículo Quinto Transitorio del Decreto por el que se Reforman, Adicionan y Derogan Diversas Disposiciones de la Ley de Fomento y Protección de la Propiedad Industrial publicado en el Diario Oficial de la Federación el 2 de agosto de 1994.
 
 Respecto de las solicitudes de patentes para proteger variedades vegetales que se encuentren en trámite al amparo de la Ley de Fomento y Protección de la Propiedad Industrial, los solicitantes podrán acogerse a los beneficios que otorga este ordenamiento dentro de los seis meses siguientes a su entrada en vigor, mediante petición por escrito presentada ante la Secretaría de Agricultura, Ganadería y Desarrollo Rural. Los derechos adquiridos por las patentes que se hubieren otorgado serán respetados íntegramente.
+
+D.O.F. 26 DE DICIEMBRE DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1 de enero de 1998.
+
+SEGUNDO.- Lo dispuesto en este Decreto se aplicará a todos los esquemas de trazado de circuitos integrados cuya primera explotación comercial ordinaria, en forma separada o incorporados en un circuito integrado, en cualquier parte del mundo, se realice a partir de la entrada en vigor del presente Decreto.
