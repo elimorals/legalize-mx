@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-sorteo-pronosticos-rapidos-de-39766"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-20"
-last_updated: "1999-08-20"
+last_updated: "2004-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39766&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-03"
 
 REGLAMENTO PARA EL SORTEO PRONOSTICOS RAPIDOS DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 2004.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 20 de agosto de 1999.
 
@@ -105,9 +105,11 @@ b) Cuando Pronósticos compruebe que los dispositivos de seguridad del boleto co
 
 c) Cuando los módulos de almacenamiento no identifiquen la información requerida para su registro.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO DECIMO SEGUNDO.
 
-El fondo destinado a la estructura de premios para cada uno de los Sorteos, no podrá ser menor al 50% (cincuenta por ciento) del valor total de la emisión de los boletos correspondientes a dicho Concurso.
+El fondo destinado a la estructura de premios para cada uno de los Sorteos, no podrá ser menor al 50% (cincuenta por ciento) del valor total de la emisión de los boletos correspondientes a dicho Sorteo.
 
 ###### ARTICULO DECIMO TERCERO.
 
@@ -143,11 +145,17 @@ Los boletos ganadores de Pronósticos Rápidos serán aquellos que una vez activ
 
 Pronósticos, una vez generados los boletos, custodiará los mismos hasta en tanto se determine la venta al público. Pronósticos podrá producir varias emisiones y series, y deberá custodiarlas en tanto se produzca su venta.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO VIGESIMO.
 
-El día y horas fijados para el Sorteo, ante la presencia del interventor designado por la Secretaría de Gobernación, se procederá a realizar una ceremonia pública en la que se declare iniciado el Sorteo, se dará fe de la legalidad del mismo y de la fecha de inicio de venta de la emisión.
+El día y horas fijados para el inicio del sorteo, ante la presencia del inspector designado por la Secretaría de Gobernación y un funcionario que designe el Director General de la institución, se procederá a realizar una ceremonia pública en la que se declare iniciado el sorteo, se dará fe de la legalidad del mismo y de la fecha de inicio de venta de la emisión, lo cual será plasmado en el acta que sea levantada al efecto.
 
-Asimismo, se efectuará una ceremonia el día en que, respondiendo al desplazamiento y venta del producto en el mercado, se dé por terminada la vigencia del Sorteo. Dicha fecha marcará el inicio del término de caducidad para el cobro de boletos participantes del Sorteo en cuestión, que será de 60 (sesenta) días naturales.
+El Director General hará la designación del funcionario a que se hace referencia en el párrafo anterior entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
+
+Estarán presentes también en el acto de inicio del sorteo, un representante de la Dirección Técnica y otro de la Gerencia de Sorteos, quienes también suscribirán el acta mencionada en el párrafo primero.
+
+Asimismo, se efectuará una ceremonia el día en que, respondiendo al desplazamiento y venta del producto en el mercado, se dé por terminada la vigencia del sorteo. Dicha fecha marcará el inicio del término de caducidad para el cobro de boletos participantes del sorteo en cuestión, que será de 60 (sesenta) días naturales.
 
 ###### ARTICULO VIGESIMO PRIMERO.
 
@@ -157,9 +165,17 @@ Asimismo, Pronósticos emitirá una publicación de la misma índole, al día si
 
 Por último, una vez transcurridos los 60 (sesenta) días naturales, contados a partir de la fecha de terminación de la vigencia del sorteo, Pronósticos difundirá por el mismo medio, que los participantes ganadores han perdido su derecho a cobro de premios por caducidad.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO VIGESIMO SEGUNDO.
 
-Concluida la vigencia del Sorteo, se levantará acta en la que se harán constar los antecedentes de éste, sus resultados y cualquier incidente que ocurriere durante el mismo. Dicha acta se elaborará con la participación del interventor de la Secretaría de Gobernación y de los representantes de la Dirección General, de la Dirección Técnica, de la Dirección de Finanzas, de la Dirección Comercial y de Comunicación, de la Contraloría Interna y de la Asesoría Jurídica de Pronósticos, quienes suscribirán el documento, para todos los efectos legales.
+Concluida la vigencia del sorteo, se levantará acta en la que se harán constar los antecedentes de este, sus resultados y cualquier incidente que ocurriere durante el mismo.
+
+Dicha acta se elaborará con la participación del inspector de la Secretaría de Gobernación y del funcionario que al efecto designe el Director General, quienes suscribirán el documento, para todos los efectos legales.
+
+El Director General hará la designación del funcionario a que se hace referencia en el párrafo anterior entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
+
+Estarán presentes también en el acto a que se refiere el presente artículo, un representante de la Dirección Técnica y otro de la Gerencia de Sorteos, quienes también suscribirán el acta mencionada.
 
 ###### ARTICULO VIGESIMO TERCERO.
 
@@ -189,12 +205,22 @@ El derecho al cobro se podrá ejercer durante la vigencia del Sorteo a la que ha
 
 El pago de los premios sólo podrá suspenderse por orden expresa de la autoridad judicial; sin embargo, Pronósticos podrá negarse a cubrir los premios cuando los datos consignados en el boleto de que se trate no coincidan íntegramente con los de sus registros, carezcan de las menciones que señala este Reglamento o se encuentren mutilados, alterados o maltratados de forma que hagan imposible la comprobación de su legitimidad o autenticidad.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO VIGESIMO OCTAVO.
 
-Sólo por fuerza mayor o caso fortuito, Pronósticos suspenderá o cancelará un concurso en vías de realización, y quedará obligado a reembolsar a los concursantes el valor, previa entrega material y cancelación de los boletos adquiridos, sin ulterior responsabilidad.
+Sólo por fuerza mayor o caso fortuito, Pronósticos suspenderá o cancelará un sorteo en vías de realización, y quedará obligado a reembolsar a los concursantes el valor, previa entrega material y cancelación de los boletos adquiridos, sin ulterior responsabilidad.
 
 ## TRANSITORIO
 
 UNICO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 El presente Reglamento, previa revisión y aprobación de su contenido por la Dirección General de Gobierno de la Secretaría de Gobernación, fue aprobado por el H. Consejo Directivo de Pronósticos para la Asistencia Pública, en la sesión ordinaria número 140, de fecha 3 de diciembre de 1998.- El Presidente del H. Consejo Directivo, José Angel Gurría Treviño.- Rúbrica.- El Secretario del H. Consejo Directivo, Carlos García Cabrera.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 11 DE JUNIO DE 2004.
+
+Primero.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
