@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2003-06-30"
+last_updated: "2004-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 2004.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -141,8 +141,6 @@ En los términos de esta Ley, es materia de salubridad general:
 I.- La organización, control y vigilancia de la prestación de servicios y de establecimientos de salud a los que se refiere el artículo 34, fracciones I, III y IV, de esta Ley;
 
 II.- La atención médica, preferentemente en beneficio de grupos vulnerables;
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -408,8 +406,6 @@ VI.- Promover y programar el alcance y las modalidades del Sistema Nacional de S
 
 VII.- Coordinar el Sistema Nacional de Salud;
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2003)</small>
 
 VII bis.- Regular, desarrollar, coordinar, evaluar y supervisar las acciones de protección social en salud;
@@ -421,8 +417,6 @@ IX.- Ejercer la coordinación y la vigilancia general del cumplimiento de las di
 X.- Las demás que sean necesarias para hacer efectivas las facultades anteriores y las que se establezcan en esta Ley y en otras disposiciones generales aplicables.
 
 B. Corresponde a los gobiernos de las entidades federativas, en materia de Salubridad General, como autoridades locales y dentro de sus respectivas jurisdicciones territoriales:
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -478,7 +472,7 @@ VII bis.- Proponer a las autoridades sanitarias el otorgamiento de reconocimient
 
 VIII.- Analizar las disposiciones legales en materia de salud y formular propuestas de reformas o adiciones a las mismas, y
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -664,8 +658,6 @@ IX.- La promoción del mejoramiento de la nutrición, y
 
 X.- La asistencia social a los grupos más vulnerables.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 28.
@@ -721,8 +713,6 @@ II.- Servicios a derechohabientes de instituciones públicas de seguridad social
 III.- Servicios sociales y privados, sea cual fuere la forma en que se contraten, y
 
 IV.- Otros que se presten de conformidad con lo que establezca la autoridad sanitaria.
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -890,11 +880,11 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPITULO V. Atención Materno-Infantil
 
-### CAPITULO VII. Salud Mental
-
 ### CAPITULO VI. Servicios de Planificación Familiar
 
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+
+### CAPITULO VII. Salud Mental
 
 ###### ARTICULO 61.
 
@@ -950,8 +940,6 @@ La prestación de servicios de salud a los escolares se efectuará de conformida
 
 ### CAPITULO I. Disposiciones Generales
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 77 Bis 1.
@@ -962,7 +950,7 @@ La protección social en salud es un mecanismo por el cual el Estado garantizar�
 
 Las disposiciones reglamentarias establecerán los criterios necesarios para la secuencia y alcances de cada intervención que se provea en los términos de este Título.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY. (ADICIONADO, D.O.F. 15 DE MAYO DE 2003)
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 77 Bis 2.
 
@@ -972,15 +960,11 @@ La Secretaría de Salud coordinará las acciones de los Regímenes Estatales de 
 
 Para efectos de este Título se entenderá por Regímenes Estatales, a las acciones de protección social en salud de los Estados de la República y del Distrito Federal.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 77 Bis 3.
 
 Las familias y personas que no sean derechohabientes de las instituciones de seguridad social o no cuenten con algún otro mecanismo de previsión social en salud, se incorporarán al Sistema de Protección Social en Salud que les corresponda en razón de su domicilio, con lo cual gozarán de las acciones de protección en salud a que se refiere este Título.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1026,13 +1010,7 @@ La Secretaría de Salud coordinará las actividades de las dependencias y entida
 
 La Secretaría de Salud prestará, a través del Consejo Nacional de Población, el asesoramiento que para la elaboración de programas educativos en materia de planificación familiar y educación sexual le requiera el sistema educativo nacional.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
-
 ### CAPITULO II. De los Beneficios de la Protección Social en Salud
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1050,15 +1028,11 @@ IV. Cubrir las cuotas familiares correspondientes, en los términos establecidos
 
 V. Cumplir con las obligaciones establecidas en este Título.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 77 Bis 8.
 
 Se considerarán como beneficiarios del Sistema de Protección Social en Salud a las personas a que se refieren los artículos 77 Bis 3 y 77 Bis 4 de esta Ley que satisfagan los requisitos del artículo anterior, previa solicitud de incorporación.
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1086,8 +1060,6 @@ VII. Prescripción y surtimiento de medicamentos, y
 
 VIII. Información al usuario sobre diagnóstico y pronóstico, así como del otorgamiento de orientación terapéutica.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 77 Bis 10.
@@ -1096,21 +1068,15 @@ Los Regímenes Estatales de Protección Social en Salud proveerán de manera int
 
 Con la finalidad de fortalecer el mantenimiento y desarrollo de infraestructura en salud, los Regímenes Estatales de Protección Social en Salud, a partir de las transferencias que reciban en los términos de este Título, deberán destinar los recursos necesarios para la inversión en infraestructura médica, de conformidad con el plan maestro que para el efecto elabore la Secretaría de Salud.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 77 Bis 11.
 
 El Sistema de Protección Social en Salud será financiado de manera solidaria por la Federación, los estados, el Distrito Federal y los beneficiarios en los términos de este Capítulo y el Capítulo V.
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1119,8 +1085,6 @@ N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL
 El Gobierno Federal cubrirá anualmente una cuota social por cada familia beneficiaria del Sistema de Protección Social en Salud equivalente a quince por ciento de un salario mínimo general vigente diario para el Distrito Federal. La cantidad resultante se actualizará trimestralmente de acuerdo a la variación del Índice Nacional de Precios al Consumidor.
 
 Esta aportación se hará efectiva a los estados y al Distrito Federal que cumplan con el artículo siguiente.
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1137,8 +1101,6 @@ La fórmula a que hace referencia la fracción II de este artículo incorporará
 La Secretaría de Salud definirá las variables que serán utilizadas para establecer cada uno de los criterios compensatorios y determinará el peso que tendrá cada uno de ellos en la asignación por fórmula. Asimismo, proporcionará la información de las variables utilizadas para el cálculo.
 
 Los términos bajo los cuales se hará efectiva la concurrencia del Gobierno Federal y estatal para cubrir la aportación solidaria se establecerán en los acuerdos de coordinación a que hace referencia el artículo 77 Bis 6 de la Ley.
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1188,15 +1150,13 @@ Los padres, tutores o quienes ejerzan la patria potestad de menores, los respons
 
 A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
 
-## TITULO TERCERO BIS. De la Protección Social en Salud
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+## TITULO TERCERO BIS. De la Protección Social en Salud
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO V. De las Cuotas Familiares
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1217,8 +1177,6 @@ Se considerarán integrantes del núcleo familiar a los hijos y adoptados menore
 A las personas de dieciocho años o más se les aplicarán los mismos criterios y políticas que al núcleo familiar.
 
 El núcleo familiar será representado para los efectos de este Título por cualquiera de las personas enunciadas en las fracciones I a III de este artículo.
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1282,27 +1240,19 @@ VIII. Proporcionar a la Secretaría de Salud la información relativa al ejercic
 
 IX. Promover la participación de los municipios en los Regímenes Estatales de Protección Social en Salud y sus aportaciones económicas mediante la suscripción de convenios, de conformidad con la legislación estatal aplicable.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 77 Bis 6.
 
 El Ejecutivo Federal, por conducto de la Secretaría de Salud, y los gobiernos de los estados y el Distrito Federal celebrarán acuerdos de coordinación para la ejecución del Sistema de Protección Social en Salud. Para esos efectos, la Secretaría de Salud establecerá el modelo nacional a que se sujetarán dichos acuerdos, en los cuales se determinarán, entre otros, los conceptos de gasto, el destino de los recursos, los indicadores de seguimiento a la operación y los términos de la evaluación integral del Sistema.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+### CAPITULO V. De las Cuotas Familiares
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO VI. Del Fondo de Protección contra Gastos Catastróficos
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1312,23 +1262,17 @@ Para efectos de este Título, se considerarán gastos catastróficos a los que s
 
 Con el objetivo de apoyar el financiamiento de la atención principalmente de beneficiarios del Sistema de Protección Social en Salud que sufran enfermedades de alto costo de las que provocan gastos catastróficos, se constituirá y administrará por la Federación un fondo de reserva, sin límites de anualidad presupuestal, con reglas de operación definidas por la Secretaría de Salud.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 77 Bis 14.
 
 Cualquier aportación adicional a la establecida en el artículo anterior de los gobiernos de los estados y el Distrito Federal para las acciones de protección social en salud, tendrán que canalizarse directamente a través de las estructuras de los servicios estatales de salud.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 77 Bis 15.
 
 El Gobierno Federal transferirá a los gobiernos de los estados y el Distrito Federal los recursos que por concepto de cuota social y de aportación solidaria le correspondan, con base en los padrones de familias incorporadas, que no gocen de los beneficios de las instituciones de seguridad social, validados por la Secretaría de Salud.
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1340,15 +1284,11 @@ Dichos recursos se administrarán y ejercerán por los gobiernos de los estados 
 
 El control y supervisión del manejo de los recursos a que se refiere este Capítulo se realizará conforme a los términos establecidos en el Capítulo VII de este Título.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 77 Bis 17.
 
 De la cuota social y de las aportaciones solidarias a que se refieren los artículos 77 Bis 12 y 77 Bis 13, la Secretaría de Salud canalizará anualmente el 8% de dichos recursos al Fondo de Protección contra Gastos Catastróficos establecido en el Capítulo VI de este Título.
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1362,21 +1302,15 @@ En caso de que existan remanentes de esta previsión presupuestal al concluir el
 
 Al término de cada ejercicio la Secretaría de Salud rendirá al Congreso de la Unión un informe pormenorizado sobre la utilización y aplicación de los recursos del fondo al que se refiere el presente artículo.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 77 Bis 19.
 
 Será causa de responsabilidad administrativa el incumplimiento en tiempo y forma de las obligaciones económicas establecidas en este Capítulo.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+### CAPITULO VIII. Del Consejo Nacional de Protección Social en Salud
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1388,13 +1322,9 @@ La Secretaría de Salud determinará el monto anual de este fondo así como la d
 
 La Secretaría de Salud definirá las variables que serán utilizadas en la fórmula de distribución de los recursos del fondo y proporcionará la información utilizada para el cálculo, así como de la utilización de los mismos, al Congreso de la Unión.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO VIII. Del Consejo Nacional de Protección Social en Salud
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1404,15 +1334,11 @@ Los beneficiarios del Sistema de Protección Social en Salud participarán en su
 
 Las disposiciones reglamentarias establecerán los lineamientos para los casos en que por las características socioeconómicas de los beneficiarios éstos no aportarán cuotas familiares.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 77 Bis 22.
 
 Las cuotas familiares se recibirán, administrarán y aplicarán conforme a las disposiciones de esta Ley y serán destinadas específicamente al abasto de medicamentos, equipo y otros insumos para la salud que sean necesarios para el Sistema de Protección Social en Salud.
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1420,15 +1346,11 @@ N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL
 
 Las cuotas familiares y reguladoras, que en su caso se establezcan, serán recibidas, administradas y ejercidas por los Servicios Estatales de Salud, a través de los Regímenes Estatales de Protección Social en Salud, conforme a lo dispuesto por el artículo 77 Bis 22.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 77 Bis 24.
 
 Los Regímenes Estatales de Protección Social en Salud deberán presentar a la Secretaría de Salud, conforme a los lineamientos que la misma establezca, los informes que sean necesarios respecto del destino y manejo de las cuotas familiares.
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1438,15 +1360,11 @@ Para la determinación de las cuotas familiares se tomarán en cuenta las condic
 
 Los niveles de las cuotas familiares podrán ser revisados anualmente tomando como base la variación del Índice Nacional de Precios al Consumidor.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 77 Bis 26.
 
 El nivel de ingreso o la carencia de éste, no podrán ser limitantes para el acceso al Sistema de Protección Social en Salud.
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1454,21 +1372,15 @@ N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL
 
 Bajo el principio de solidaridad social, las cuotas familiares no serán objeto de devolución bajo ninguna circunstancia, ni podrán aplicarse a años subsecuentes en el caso de suspensión temporal de los beneficios de la protección social en salud.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 77 Bis 28.
 
 Con el objeto de favorecer el uso responsable de los servicios de salud, el Consejo de Salubridad General podrá establecer, mediante reglas de carácter general, un esquema de cuotas reguladoras para algunos servicios en razón de la frecuencia en su uso o especialidad o para el surtimiento de medicamentos asociados. En dichas reglas deberá considerarse la posibilidad de que aquellos beneficiarios cuya condición socioeconómica así lo justifique, no cubran las cuotas a que se refiere este artículo.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO X. Causas de Suspensión y Cancelación al Sistema de Protección Social en Salud
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1484,13 +1396,9 @@ Con la finalidad de racionalizar la inversión en infraestructura de instalacion
 
 No se considerarán elegibles para la participación en los recursos del fondo que se establezca en los términos del presente Capítulo las instalaciones médicas de alta especialidad que no cuenten con el certificado que para el efecto expida la Secretaría de Salud, en congruencia con el plan maestro a que se refiere el párrafo anterior.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO VII. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1503,8 +1411,6 @@ Para estos efectos, tanto la Federación como los Regímenes Estatales de Protec
 Asimismo, los Regímenes Estatales de Protección Social en Salud dispondrán lo necesario para recibir y evaluar las propuestas que le formulen los beneficiarios respecto de los recursos que éstos aporten y tendrán la obligación de difundir, con toda oportunidad, la información que sea necesaria respecto del manejo de los recursos correspondientes.
 
 La Secretaría de Salud presentará al Congreso de la Unión un informe semestral pormenorizado de las acciones que se desarrollen con base en este artículo.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1534,8 +1440,6 @@ Las responsabilidades administrativas, civiles y penales que deriven de afectaci
 
 Se constituye el Consejo Nacional de Protección Social en Salud como órgano colegiado consultivo de las acciones del Sistema de Protección Social en Salud.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 77 Bis 34.
@@ -1544,15 +1448,11 @@ El Consejo Nacional de Protección Social en Salud estará integrado por los tit
 
 El Consejo Nacional de Protección Social en Salud ejercerá las atribuciones que le otorgue su reglamento interior, que será expedido por el Titular del Ejecutivo Federal, en el cual establecerá, asimismo, las reglas para su organización y funcionamiento.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 77 Bis 35.
 
 El Sistema de Protección Social en Salud contará con una Comisión Nacional, como órgano desconcentrado de la Secretaría de Salud, con la estructura y funciones que le asigne su reglamento interno. El titular de la Comisión Nacional será designado por el Presidente de la República a propuesta del Secretario de Salud tras haber recogido las opiniones de los miembros del Consejo a que se refiere este Capítulo, que dispondrá para su operación de los recursos que le asigne la Federación.
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1561,8 +1461,6 @@ N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL
 ###### ARTICULO 77 Bis 36.
 
 Los beneficiarios del Sistema de Protección Social en Salud tienen derecho a recibir bajo ningún tipo de discriminación los servicios de salud, los medicamentos y los insumos esenciales requeridos para el diagnóstico y tratamiento de los padecimientos, en las unidades médicas de la administración pública, tanto federal como local, acreditados de su elección de los Regímenes Estatales de Protección Social en Salud.
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1602,8 +1500,6 @@ XV. Presentar quejas ante los Regímenes Estatales de Protección Social en Salu
 
 XVI. Ser atendido cuando se inconforme por la atención médica recibida.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 77 Bis 38.
@@ -1632,8 +1528,6 @@ X. Hacer uso responsable de los servicios de salud, y
 
 XI. Proporcionar de manera fidedigna la información necesaria para documentar su incorporación al Sistema de Protección Social en Salud y para la definición del monto a pagar por concepto de cuota familiar.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO III. Formación, Capacitación y Actualización del Personal
@@ -1647,8 +1541,6 @@ I. Cuando no cubra las cuotas familiar o reguladora en la forma y fechas que det
 II. Cuando el principal sostén de la familia beneficiaria se incorpore a alguna institución de seguridad social federal o estatal.
 
 La cuota familiar amparará a los beneficiarios en el caso de que suceda la suspensión y la reincorporación a los beneficios del Sistema de Protección Social en Salud en un mismo ejercicio presupuestal.
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1664,15 +1556,11 @@ III. Proporcione información falsa sobre su nivel de ingreso en el estudio soci
 
 En la aplicación de este artículo la Secretaría de Salud tomará como base la Ley Federal de Procedimiento Administrativo y demás disposiciones aplicables.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 77 Bis 41.
 
 En los casos en que se materialicen los supuestos a que se refiere este Capítulo, los interesados conservarán los beneficios del Sistema de Protección Social en Salud hasta por un plazo de sesenta días naturales a partir de la fecha de la suspensión o cancelación. Habiendo transcurrido este plazo, podrán acceder a los servicios de salud disponibles en los términos y condiciones que establece esta Ley.
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -3102,7 +2990,7 @@ II.- Medicamentos que requieren para su adquisición receta médica que deberá 
 
 > <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
-III.- Medicamentos que solamente pueden adquirirse con receta médica que se podrá surtir hasta tres veces, la cual debe sellarse y registrarse cada vez en los libros de control que al efecto se lleven. Esta prescripción se deberá retener por el establecimiento que la surta en la tercera ocasión; el médico tratante determinará, el número de presentaciones del mismo producto y contenido de las mismas que se puedan adquirir en cada ocasión;
+III.- Medicamentos que solamente pueden adquirirse con receta médica que se podrá surtir hasta tres veces, la cual debe sellarse y registrarse cada vez en los libros de control que al efecto se lleven. Esta prescripción se deberá retener por el establecimiento que la surta en la tercera ocasión; el médico tratante determinará, el número de presentaciones del mismo producto y contenido de las mismas que se puedan adquirir en cada ocasión.
 
 Se podrá otorgar por prescripción médica, en casos excepcionales, autorización a los pacientes para adquirir anticonvulsivos directamente en los laboratorios correspondientes, cuando se requieran en cantidad superior a la que se pueda surtir en las farmacias;
 
@@ -3988,39 +3876,41 @@ En las etiquetas de los envases y empaques en los que se presenten los productos
 
 Para los efectos de esta Ley, con el nombre de tabaco se designa a la planta "Nicotina Tabacum" y sus sucedáneos, en su forma natural o modificada, en las diferentes presentaciones, que se utilicen para fumar, masticar o aspirar.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2004)</small>
 
-###### ARTICULO 276.
+###### Artículo 276.
 
-En las etiquetas de los empaques y envases en que se expenda o suministre tabaco, además de lo establecido en las normas oficiales mexicanas correspondientes, deberán figurar en forma clara y visible leyendas de advertencia escritas con letra fácilmente legible con colores contrastantes, sin que se invoque o haga referencia a alguna disposición legal, las cuales se alternarán con los contenidos siguientes:
-
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
+En las etiquetas de los empaques y envases en que se expenda o suministre tabaco, además de lo establecido en las normas oficiales mexicanas correspondientes, deberán figurar en forma clara y visible leyendas de advertencia escritas con letra fácilmente legible con colores contrastantes, sin que se invoque o haga referencia a alguna disposición legal, con un tamaño equivalente al veinticinco por ciento por lo menos en cualquiera de las caras frontales o traseras de las cajetillas, en adición a una leyenda de advertencia en una de las caras laterales de las cajetillas, las cuales se alternarán con los contenidos siguientes:
 
 I.- Dejar de fumar, reduce importantes riesgos en la salud;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
-
-II.- Fumar es causa de cáncer y enfisema pulmonar y,
-
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
+II.- Fumar es causa de cáncer y enfisema pulmonar, y
 
 III.- Fumar durante el embarazo, aumenta el riesgo de parto prematuro y de bajo peso en el recién nacido.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+Las etiquetas de los empaques y envases en que se expenda o suministre tabaco contendrán una inserción perfectamente visible en una de sus caras, con mensajes para orientar al fumador hacia programas de tratamiento para dejar de fumar.
 
-Las disposiciones reglamentarias señalarán los requisitos a que se sujetará el uso de las leyendas a que se refiere este artículo.
-
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+Las disposiciones reglamentarias señalarán los requisitos a que se sujetará el uso de las leyendas y mensajes a que se refiere este artículo.
 
 La Secretaría de Salud, en su caso, publicará en el Diario Oficial de la Federación el acuerdo mediante el cual podrán establecerse otras leyendas precautorias, así como las disposiciones para su aplicación y utilización.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2004)</small>
 
-###### ARTICULO 277.
+###### Artículo 277.
 
 En ningún caso y de ninguna forma se podrá expender o suministrar tabaco a menores de edad.
 
-> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+No se venderán o distribuirán cigarros a los consumidores en empaques que contengan menos de catorce cigarros, cigarros sueltos o tabaco picado en bolsas de menos de diez gramos.
+
+No se venderán o distribuirán cigarrillos en farmacias, boticas, hospitales, ni escuelas de nivel preescolar hasta bachillerato o preparatoria.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2004)</small>
+
+Artículo 277 bis.- Las unidades hospitalarias y clínicas del sistema nacional de salud, deberán contar con áreas en donde se prohíba el consumo de tabaco. Se consideran como tales las de atención médica, auditorios, aulas y zonas de peligro para la seguridad laboral y colectiva, así como los sitios de trabajo de ambiente cerrado.
+
+La Secretaría de Salud en su caso, los Gobiernos de las Entidades Federativas reglamentarán las áreas restringidas para los fumadores.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 277 Bis.
 
@@ -4150,7 +4040,7 @@ I.- Podrán importarse los productos, siempre que el importador exhiba la docume
 
 II.- La Secretaría podrá aleatoriamente muestrear y analizar los productos importados, aún cuando cuenten con certificación sanitaria a fin de verificar el cumplimiento de las normas oficiales mexicanas. Cuando se encuentre que el producto muestreado no cumple con las normas citadas, la Secretaría podrá solicitar su acondicionamiento, y si esto no es posible, procederá en los términos de esta ley. Además, en estos casos se revocará la autorización del laboratorio que expidió el certificado, y
 
-> <small>N. DE E. EN EL ARTICULO SEGUNDO DEL DECRETO DE FECHA 15 DE ABRIL DE 1997, PUBLICADO EN EL D.O.F. EL DIA 7 DE MAYO DEL MISMO AÑO, EL LEGISLADOR SEÑALA QUE SE REFORMAN LOS ARTICULOS EN CUANTO A LA SUSTITUCIÓN DE LA EXPRESION “NORMAS TECNICAS” POR LA DE “NORMAS OFICIALES MEXICANAS”. DEL CONTEXTO DE LA FRACCION QUE A CONTINUACION SE SEÑALA SE DESPRENDE QUE LA MISMA CONTIENE DICHA EXPRESION SIN ESTAR CONTENIDO ESPECIFICAMENTE EN EL DECRETO DE REFERENCIA, POR LO QUE SE HACE LA ADECUACION CORRESPONDIENTE.</small>
+> <small>N. DE E. EN EL ARTICULO SEGUNDO DEL DECRETO DE FECHA 15 DE ABRIL DE 1997, PUBLICADO EN EL D.O.F. EL DIA 7 DE MAYO DEL MISMO AÑO, EL LEGISLADOR SEÑALA QUE SE REFORMAN LOS ARTICULOS EN CUANTO A LA SUSTITUCION DE LA EXPRESION “NORMAS TECNICAS” POR LA DE “NORMAS OFICIALES MEXICANAS”. DEL CONTEXTO DE LA FRACCION QUE A CONTINUACION SE SEÑALA SE DESPRENDE QUE LA MISMA CONTIENE DICHA EXPRESION SIN ESTAR CONTENIDO ESPECIFICAMENTE EN EL DECRETO DE REFERENCIA, POR LO QUE SE HACE LA ADECUACION CORRESPONDIENTE.</small>
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -4368,9 +4258,37 @@ La Secretaría de Salud podrá dispensar el requisito previsto en la fracción V
 
 Las disposiciones reglamentarias señalarán los requisitos a que se sujetará el otorgamiento de la dispensa a que se refiere el párrafo anterior.
 
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2004)</small>
+
+Artículo 308 bis.- La publicidad de tabaco deberá observar, además de las mencionadas en el artículo 308, los siguientes requisitos:
+
+I.- No podrá asociarse a este producto ideas o imágenes atléticas o deportivas y popularidad; ni mostrar celebridades o figuras públicas, o que éstos participen en su publicidad;
+
+II.- En el mensaje, no podrán manipularse directa o indirectamente los recipientes que contengan a los productos;
+
+III.- No podrán distribuirse, venderse u obsequiarse, directa o indirectamente, ningún artículo promocional que muestre el nombre o logotipo de productos de tabaco, salvo aquellos que sean considerados como artículos para fumadores. La distribución de muestras de productos de tabaco queda restringida a áreas de acceso exclusivo a mayores de 18 años;
+
+IV.- No podrán distribuirse, venderse u obsequiarse a menores de edad artículos promocionales o muestras de estos productos, y
+
+V.- No deberá utilizar en su producción dibujos animados, personajes virtuales o caricaturas.
+
 ###### ARTICULO 309.
 
 Los horarios en los que las estaciones de radio y televisión y las salas de exhibición cinematográfica podrán transmitir o proyectar, según el caso, publicidad de bebidas alcohólicas o de tabaco, se ajustarán a lo que establezcan las disposiciones generales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2004)</small>
+
+Artículo 309 bis.- La exhibición o exposición de la publicidad de tabaco se sujetará a las siguientes disposiciones:
+
+I.- Queda prohibida toda publicidad de tabaco en revistas dirigidas a niños, adolescentes o aquellas con contenidos educativos, deportivos o de salud, no podrán aparecer en portada, contraportada, tercera y cuarta de forros, de revistas, periódicos o cualquier otra publicación impresa; así como su colocación en lugares, páginas o planas adyacentes a material que resulte atractivo para menores de edad;
+
+II.- Queda prohibida toda publicidad de tabaco en radio y televisión. En salas de proyección cinematográfica queda prohibida toda publicidad de tabaco en las proyecciones a las que puedan asistir menores de edad. Queda prohibida toda publicidad de tabaco en Internet a menos y hasta que se disponga de la tecnología para que cada persona que busque acceso al sitio de Internet en el cual dicha publicidad se pretenda trasmitir, provea la verificación de que el usuario o receptor es mayor de edad;
+
+III.- Ninguna publicidad exterior de tabaco podrá situarse a menos de 200 metros de cualquier escuela de educación inicial, jardines de niños, educación especial, primarias, secundarias y nivel medio superior; así como de hospitales, parques recreativos y clubes deportivos, educativos o familiares. Así mismo, no se podrá localizar publicidad en anuncios exteriores que excedan en su tamaño total 35 metros cuadrados, sea de manera individual o en combinación intencional con otra publicidad;
+
+IV.- Queda prohibida toda publicidad de tabaco en las farmacias, boticas, hospitales y centros de salud, y
+
+V.- Queda prohibido patrocinar a través de publicidad de tabaco, cualquier evento en el que participe o asistan menores de edad.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -5048,11 +4966,13 @@ X.- Las modificaciones a las instalaciones de establecimientos que manejan subst
 
 Los permisos a que se refiere este artículo sólo podrán ser expedidos por la Secretaría de Salud, con excepción de los casos previstos en las fracciones II y V en lo relativo al embalsamamiento.
 
-> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 376.
 
 Requieren registro sanitario los medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan; equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos y de curación y productos higiénicos; así como los plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas. El registro sólo podrá ser otorgado por la Secretaría de Salud y será por tiempo indeterminado, sin perjuicio de lo establecido en el artículo 378 de esta ley.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 376 Bis.
 
@@ -5063,8 +4983,6 @@ El registro sanitario a que se refiere el artículo anterior se sujetará a los 
 I.- En el caso de medicamentos, estupefacientes y psicotrópicos, la clave de registro será única, no pudiendo aplicarse la misma a dos productos que se diferencien ya sea en su denominación genérica o distintiva o en su formulación. Por otra parte, el titular de un registro, no podrá serlo de dos registros que ostenten el mismo principio activo, forma farmacéutica o formulación, salvo cuando uno de éstos se destine al mercado de genéricos. En los casos de fusión de establecimientos se podrán mantener, en forma temporal, dos registros, y
 
 II.- En el caso de los productos que cita la fracción II del artículo 194, podrá aceptarse un mismo número de registro para líneas de producción del mismo fabricante, a juicio de la Secretaría.
-
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 377.
 
@@ -5522,11 +5440,11 @@ Se sancionará con multa hasta mil veces el salario mínimo general diario vigen
 
 Se sancionará con multa de mil hasta cuatro mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 127, 142, 147, 149, 153, 198, 200, 204, 233, 241, 258, 265, 267, 304, 306, 307, 308, 315, 341, 348, tercer párrafo, 349, 350 bis, 350 bis 1, 350 bis 2, 350 bis 3, 373, 376 y 413 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 421.
 
-Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 67, 100, 101, 122, 125, 126, 146, 193, 205, 210, 212, 213, 218, 220, 230, 232, 235, 237, 238, 240, 242, 243, 247, 248, 251, 252, 254, 255, 256, 264, 266, 276, 281, 289, 293, 298, 317, 325, 327, 330, 331, 332, 333, 334, 335, 336, 338, último párrafo, 348, primer párrafo, 365, 367, 375, 400 y 411 de esta Ley.
+Se sancionará con una multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate la violación de las disposiciones contenidas en los artículos 67, 100, 101, 122, 125, 126, 146, 193, 205, 210, 212, 213, 218, 220, 230, 232, 235, 237, 238, 240, 242, 243, 247, 248, 251, 252, 254, 255, 256, 264, 266, 276, 277, 277 bis, 281, 289, 293, 298, 308 bis, 309, 309 bis, 317, 325, 327, 330, 331, 332, 333, 334, 335, 336, 338, último párrafo, 348, primer párrafo, 365, 367, 375, 400 y 411 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -6087,3 +6005,9 @@ D.O.F. 30 DE JUNIO DE 2003.
 PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. La organización y distribución de atribuciones de la Comisión Federal para la Protección contra Riesgos Sanitarios se establecerán en el Reglamento que, para tal efecto, expida el Presidente de la República. Hasta en tanto no se expida este Reglamento, continuarán en vigor las disposiciones del Decreto que crea la Comisión Federal para la Protección contra Riesgos Sanitarios, en lo que no se opongan a lo dispuesto por este ordenamiento.
+
+D.O.F. 19 DE ENERO DE 2004.
+
+Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las disposiciones reglamentarias contrarias a este Decreto quedarán sin efecto al entrar en vigor el mismo.
