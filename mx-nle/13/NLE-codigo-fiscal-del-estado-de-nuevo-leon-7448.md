@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "1995-12-29"
+last_updated: "1996-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1996.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -140,6 +140,10 @@ El cumplimiento de las leyes fiscales, no podrá eludirse por la simulación de 
 ###### ARTICULO 10.
 
 Las leyes fiscales, sus reglamentos y las disposiciones fiscales de carácter general, entrarán en vigor en el Estado, el día siguiente al de su publicación en el Periódico Oficial, salvo que en ellas se establezca una fecha posterior.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+Cuando en este Código o en otras leyes fiscales del Estado se haga referencia a una cuota, se entiende la cantidad equivalente al salario mínimo general diario vigente en el área Metropolitana de Monterrey.
 
 ###### ARTICULO 11.
 
@@ -327,7 +331,9 @@ Quien promueva a nombre de otro deberá acreditar que la representación le fue 
 
 Los créditos fiscales y sus accesorios se causarán y pagarán en moneda nacional. De provenir su pago por situaciones pactadas en moneda extranjera, el tipo de cambio se determinará de acuerdo al valor en que se haya adquirido ésta y de no haber existido tal adquisición, conforme al valor que rija de acuerdo a la determinación del tipo de cambio que publica el Banco de México, en el Diario Oficial de la Federación.
 
-Se aceptarán como medios de pago, los cheques certificados y los giros postales, telegráficos o bancarios; los cheques personales no certificados únicamente se aceptarán cuando así lo autorice la Secretaría de Finanzas y Tesorería General del Estado.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+Se aceptarán como medios de pago, los cheques certificados y los giros postales, telegráficos o bancarios; los cheques personales no certificados únicamente se aceptarán cuando así lo autorice la Secretaría de Finanzas y Tesorería General del Estado. Los créditos fiscales podrán ser cubiertos en especie, previa autorización por escrito del Secretario de Finanzas y Tesorero General del Estado, debiendo sujetarse para su valuación en lo conducente, al procedimiento de remate previsto en el presente Código.
 
 Los pagos que se hagan se aplicarán a los créditos más antiguos siempre que se trate de la misma contribución y antes de acreditarse al adeudo principal, se hará a los accesorios en el siguiente orden:
 
@@ -1121,17 +1127,25 @@ I.- No solicitar la inscripción cuando se esté obligado a ello, o hacerlo exte
 
 II.- No presentar los avisos al registro o hacerlo extemporáneamente.
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+III.- No presentar las solicitudes de empadronamiento, presentarlas extemporáneamente, no efectuar el refrendo de sus actividades, así como iniciar actividades sin haber solicitado y obtenido la autorización correspondiente cuando las Leyes Fiscales así lo estipulen, en caso de establecimientos por cuya inscripción y refrendo deban pagarse derechos, aún cuando los derechos correspondientes se encuentren suspendidos.
+
 ###### ARTICULO 80.
 
 A quien cometa las infracciones relacionadas con el registro estatal de contribuyentes a que se refiere el artículo 79 se impondrán las siguientes multas:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-I.- De $200.00 a la comprendida en la fracción I.
+I.- De 8.5 cuotas a la comprendida en la fracción I.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-II.- De $100.00 a la comprendida en la fracción II.
+II.- De 4.5 cuotas a la comprendida en la fracción II.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+III.- De 1 a 3 tantos de los derechos a cubrir, a la comprendida en la fracción III.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -1139,9 +1153,15 @@ II.- De $100.00 a la comprendida en la fracción II.
 
 Son infracciones relacionadas con la obligación de pago de contribuciones, con la presentación de declaraciones, solicitudes o avisos, o con la expedición de constancias incompletas o con errores:
 
-I.- No presentar declaraciones, solicitudes, avisos o constancias que exijan las disposiciones fiscales o presentarlos a requerimiento de las autoridades fiscales. No cumplir requerimientos de las autoridades fiscales para presentar alguno de los documentos a que se refiere esta fracción, o cumplirlos fuera de los plazos señalados en los mismos.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+I.- No presentar declaraciones, solicitudes, avisos, constancias, manifestaciones o demás documentos que exijan las disposiciones fiscales o presentarlos a requerimiento de las autoridades fiscales. No cumplir requerimiento de las autoridades fiscales para presentar alguno de los documentos a que se refiere esta fracción o cumplirlos fuera de los plazos señalados en los mismos.
 
 II.- No pagar contribuciones dentro del plazo que establecen las disposiciones fiscales.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+III.- Incumplir las disposiciones fiscales relativas a la obligación de terceros de cerciorarse del pago de contribuciones o del cumplimiento de las diversas obligaciones por parte de los contribuyentes.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -1151,19 +1171,35 @@ A quien cometa las infracciones relacionadas con la obligación de pago de contr
 
 I.- Para la señalada en la fracción I:
 
-A).- Tratándose de declaraciones, la mayor que resulte entre N$30.00 o hasta el 100% de las contribuciones declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre la misma se aplicará también la multa hasta del 100% a que se refiere este inciso.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-B).- Tratándose de solicitudes, avisos o constancias, N$30.00 por cada una de ellas.
+A).- Tratándose de declaraciones, la mayor que resulte entre 1.5 cuotas o hasta el 100% de las contribuciones declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre la misma se aplicará también la multa hasta del 100% a que se refiere este inciso.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+B).- Tratándose de solicitudes, avisos, constancias, manifestaciones o demás documentos, 1.5 cuotas por cada una de ellas.
 
 C).- Por el incumplimiento de los requerimientos o por su cumplimiento fuera de los plazos señalados en los mismos, respecto de una misma declaración, solicitud, aviso o constancia, además de las multas a que se refieren los incisos A) y B):
 
-1.- De N$75.00 para el primer requerimiento.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-2.- De N$200.00 para el segundo requerimiento
+1.- De 3.5 cuotas para el primer requerimiento.
 
-3.- De N$500.00 para el tercer requerimiento.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-II.- Tratándose de la señalada en la fracción II, la que resulte mayor entre N$30.00 o hasta el 100% de las contribuciones no pagadas.
+2.- De 8.5 cuotas para el segundo requerimiento.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+3.- De 20.5 cuotas para el tercer requerimiento.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+II.- Tratándose de la señalada en la fracción II, la que resulte mayor entre 1.5 cuotas o hasta el 100% de las contribuciones no pagadas.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+III.- Para la señalada en la fracción III, del 50% al 100% de las contribuciones omitidas, por cada una de ellas.
 
 ###### ARTICULO 83.
 
@@ -1187,29 +1223,29 @@ VII.- No expedir comprobante de sus actividades, cuando las disposiciones fiscal
 
 A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el artículo 83 se impondrán las siguientes multas:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-I.- De N$100.00 a N$1,000.00 a la comprendida en la fracción I.
+I.- De 4.5 a 41 cuotas a la comprendida en la fracción I.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-II.- De N$50.00 a N$500.00 a las establecidas en las fracciones II y III.
+II.- De 2.5 a 20.5 cuotas a las establecidas en las fracciones II y III.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-III.- De N$100.00 a N$600.00 a la comprendida en la fracción IV.
+III.- De 4.5 a 24.5 cuotas a la comprendida en la fracción IV.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-IV.- De N$50.00 a N$400.00 a la señalada en la fracción V.
+IV.- De 2.5 a 16.5 cuotas a la señalada en la fracción V.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-V.- De N$100.00 a N$800.00 a la señalada en la fracción VI.
+V.- De 4.5 a 33 cuotas a la señalada en la fracción VI.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-VI.- De N$100.00 a N$500.00 a la comprendida en la fracción VII.
+VI.- De 4.5 a 20.5 cuotas a la comprendida en la fracción VII.
 
 ###### ARTICULO 85.
 
@@ -1219,11 +1255,11 @@ I.- Oponerse a que se practique la visita en el domicilio fiscal. No suministrar
 
 II.- No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores les dejen en depósito.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 86.
 
-A quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo 85, se impondrá una multa de N$50.00 a N$2,000.00.
+A quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo 85, se impondrá una multa de 2.5 a 82 cuotas.
 
 ###### ARTICULO 87.
 
@@ -1239,13 +1275,13 @@ III.- Exigir una prestación que no esté prevista en las disposiciones fiscales
 
 A quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 87, se impondrán las siguientes multas:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-I.- De N$50.00 a N$1,000.00 a la comprendida en la fracción I.
+I.- De 2.5 a 41 cuotas a la comprendida en la fracción I.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-II.- De N$100.00 a N$2,000.00 a las establecidas en las fracciones II y III.
+II.- De 4.5 a 82 cuotas a las establecidas en las fracciones II y III.
 
 ###### ARTICULO 89.
 
@@ -1253,27 +1289,29 @@ Son infracciones cuya responsabilidad recae sobre terceros, las siguientes:
 
 I.- Asesorar a los contribuyentes para omitir ilegalmente el pago de una contribución; colaborar a la alteración, inscripción de cuentas, asientos o datos falsos en la contabilidad o en los documentos que se expidan.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 90.
 
-A quien cometa las infracciones señaladas en el artículo 89 de este Código, se le impondrá una multa de N$100.00 a N$1,000.00.
+A quien cometa las infracciones señaladas en el artículo 89 de este Código, se le impondrá una multa de 4.5 a 41 cuotas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 91.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de N$30.00 a N$100.00.
+La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de 1.5 a 4.5 cuotas.
 
 ### CAPITULO II. De los Delitos Fiscales
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 92.
 
-Para proceder penalmente por los delitos fiscales previstos en este capítulo, será necesario que previamente el Secretario de Finanzas y Tesorero General del Estado, formule querella tratándose de los delitos previstos en los artículos 102, 103, 104, 105, 106 y demuestre que el fisco sufrió o se le pudo producir perjuicio económico. En los demás casos, bastará la denuncia de los hechos ante el Ministerio Público del Estado.
+Para proceder penalmente por los delitos fiscales previstos en este capítulo, será necesario que previamente el Secretario de Finanzas y Tesorero General del Estado o el funcionario que éste designe, así como la Tesorería Municipal en su respectivo ámbito de competencia, formule querella tratándose de los delitos previstos en los artículos 102, 103, 104, 105, 106 y demuestre que el fisco sufrió o se le pudo producir perjuicio económico. En los demás casos, bastará la denuncia de los hechos ante el Ministerio Público del Estado.
 
-Los procesos por los delitos fiscales a que se refieren los artículos invocados en este precepto, se sobreseerán a petición del Secretario de Finanzas y Tesorero General del Estado, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público del Estado formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
+Los procesos por los delitos fiscales a que se refieren los artículos invocados en este precepto, se sobreseerán a petición del Secretario de Finanzas y Tesorero General del Estado o el funcionario que éste designe, así como la Tesorería Municipal en su respectivo ámbito de competencia, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público del Estado formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
 
-En los delitos fiscales en que sea necesaria querella o declaratoria de perjuicio y el daño o el perjuicio sea cuantificable, el Secretario de Finanzas y Tesorero General del Estado hará la cuantificación correspondiente en la propia querella o declaratoria, o la presentará durante la tramitación del proceso respectivo antes de que el ministerio público en el Estado formule conclusiones. La citada cuantificación sólo surtirá efectos en el procedimiento penal.
+En los delitos fiscales en que sea necesaria querella o declaratoria de perjuicio y el daño o el perjuicio sea cuantificable, el Secretario de Finanzas y Tesorero General del Estado o el funcionario que éste designe, así como la Tesorería Municipal en su respectivo ámbito de competencia, hará la cuantificación correspondiente en la propia querella o declaratoria, o la presentará durante la tramitación del proceso respectivo antes de que el Ministerio Público en el Estado formule conclusiones. La citada cuantificación sólo surtirá efectos en el procedimiento penal.
 
 ###### ARTICULO 93.
 
@@ -1687,17 +1725,19 @@ Las garantías constituidas para asegurar el interés fiscal a que se refieren l
 
 Si la garantía consiste en depósito de dinero en institución nacional de crédito autorizada, una vez que el crédito fiscal quede firme se ordenará su aplicación por la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 142.
 
-No se ejecutarán los actos administrativos cuando se solicite la suspensión ante la autoridad ejecutora y se acompañen los documentos que acrediten que se ha garantizado el interés fiscal. Dentro de los quince días siguientes a la fecha en que surta efectos la notificación del acto cuya ejecución se suspende, se deberá presentar copia sellada del escrito con el que se hubiera intentado recurso administrativo o juicio. En caso contrario, la autoridad estará facultada para hacer efectiva la garantía, aún cuando se trate de fianza otorgada por compañía autorizada. Si al presentar el medio de defensa no se impugna la totalidad de los créditos que derivan del acto administrativo cuya ejecución fue suspendida, deberá pagarse la parte del crédito consentido con los recargos correspondientes.
+No se ejecutarán los actos administrativos cuando se solicite la suspensión ante la autoridad ejecutora y se acompañen los documentos que acrediten que se ha garantizado el interés fiscal. Dentro de los treinta días siguientes a la fecha en que surta efectos la notificación del acto cuya ejecución se suspende, se deberá presentar copia sellada del escrito con el que se hubiera intentado recurso administrativo o juicio. En caso contrario, la autoridad estará facultada para hacer efectiva la garantía, aún cuando se trate de fianza otorgada por compañía autorizada. Si al presentar el medio de defensa no se impugna la totalidad de los créditos que derivan del acto administrativo cuya ejecución fue suspendida, deberá pagarse la parte del crédito consentido con los recargos correspondientes.
 
 El procedimiento administrativo quedará suspendido hasta que se haga saber la resolución definitiva e irrevocable que hubiere recaído sobre el medio de defensa hecho valer.
 
 No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieran embargado bienes suficientes para garantizar el interés fiscal. En todo caso, se observará lo dispuesto en el penúltimo párrafo del Artículo 139 de este Código.
 
-En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir al superior jerárquico de la autoridad ejecutora si se está tramitando recurso o ante el Juzgado Fiscal que conozca del juicio respectivo, acompañando los documentos en que conste el medio de defensa hecho valer y la garantía del interés fiscal. El superior o el juzgado ordenará a la autoridad ejecutora que suspenda provisionalmente el procedimiento administrativo de ejecución y rinda informe en un plazo de tres días, debiendo resolver la cuestión dentro de los cinco días siguientes a su recepción.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir al superior jerárquico de la autoridad ejecutora si se está tramitando recurso o ante el Tribunal de lo Contencioso Administrativo del Estado que conozca del juicio respectivo, acompañando los documentos en que conste el medio de defensa hecho valer y la garantía del interés fiscal. El superior o el tribunal ordenará a la autoridad ejecutora que suspenda provisionalmente el procedimiento administrativo de ejecución y rinda informe en un plazo de tres días, debiendo resolver la cuestión dentro de los cinco días siguientes a su recepción.
 
 ### CAPITULO III. Del Procedimiento Administrativo de Ejecución
 
@@ -2520,3 +2560,7 @@ El presente Decreto entrará en vigor el día 1o. de Enero de 1996.
 ###### ARTICULO SEGUNDO.
 
 Para los efectos de lo dispuesto en el artículo 18 Bis del Código Fiscal del Estado, a fin de proceder a la actualización de contribuciones y devoluciones a partir del año de 1996 y que fueron exigibles con anterioridad a dicho año, se considerará como mes más antiguo del período el de enero de 1996.
+
+P.O. 27 DE DICIEMBRE DE 1996.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de Enero de 1997.
