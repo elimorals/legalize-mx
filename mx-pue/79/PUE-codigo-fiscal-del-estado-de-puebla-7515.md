@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "1987-12-29"
+last_updated: "1988-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1988.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -225,7 +225,7 @@ Para efectos fiscales se considera domicilio:
 
 I. Tratándose de personas físicas:
 
-a) La casa en que habiten.
+a) (DEROGADO, P.O. 30 DE DICIEMBRE DE 1988)
 
 b) El lugar en que habitualmente realicen actividades o tengan bienes que den lugar a obligaciones fiscales, en todo lo que se relacione con éstas.
 
@@ -297,9 +297,11 @@ V.- Señalar domicilio para oír y recibir notificaciones y el nombre de la pers
 
 Las instancias o peticiones que se formulen a las Autoridades Fiscales, deberán ser resueltas en el término de tres meses o los plazos que específicamente señalen las Leyes Fiscales del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 28.
 
-El silencio de las Autoridades Fiscales durante el término que corresponda se considerará como resolución negativa, a excepción de lo dispuesto en el artículo 136 de este Código.
+El silencio de las Autoridades Fiscales durante el término a que se refiere el artículo anterior, se considerará como resolución negativa, a excepción de lo dispuesto en el artículo 136 de este Código.
 
 ###### ARTICULO 29.
 
@@ -367,7 +369,9 @@ III. Los impuestos, derechos, productos y aprovechamientos distintos de los señ
 
 Las Autoridades Fiscales están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con las Leyes Fiscales. La devolución deberá hacerse a petición del interesado de conformidad a las reglas siguientes:
 
-I.- El contribuyente deberá solicitar por escrito ante la Autoridad Fiscal del Estado la devolución, cumpliendo con los requisitos señalados en el artículo de este Código.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+I.- El contribuyente deberá solicitar la devolución por escrito ante la autoridad Fiscal del Estado, cumpliendo con los requisitos señalados en el artículo 26 de este Código.
 
 II.- El contribuyente deberá acompañar a su solicitud el o los documentos de los que se desprenda el derecho a la devolución.
 
@@ -457,7 +461,7 @@ b) Auxilio de la fuerza pública.
 
 c) Denuncia por desobediencia a un mandato legítimo de Autoridad competente.
 
-XIV.- Dictar como medida urgente para proteger los intereses del Erario Estatal, entre otras, la clausura provisional, de las negociaciones que manifiesten irregularidades, mediante colocación de sellos.
+XIV.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1988)
 
 XV.- Recabar las pruebas necesarias para formular la denuncia, querella o declaratoria al Ministerio Público para que ejercite la acción penal por la posible comisión de delitos fiscales.
 
@@ -465,7 +469,9 @@ En todo caso las actuaciones que practique la Secretaría de Finanzas, tendrán 
 
 XVI.- Elaborar los formularios de declaración en forma que puedan ser llenados fácilmente por los contribuyentes.
 
-XVII.- Condonar o eximir total o parcialmente, el pago de contribuciones y sus accesorios.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+XVII.- Conocer y resolver de las solicitudes de condonación o exención total o parcial del pago de contribuciones y sus accesorios.
 
 XVIII.- Conceder subsidios o estímulos fiscales.
 
@@ -1272,3 +1278,9 @@ Roberto Pozos Cuspinera
 Diputado Secretario.
 
 Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los veinticuatro días del mes de diciembre de mil novecientos ochenta y siete.- El Gobernador Constitucional del Estado.- Lic. Mariano Piña Olaya.- El Secretario de Gobernación.- Lic. Marco Antonio Rojas Flores.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 30 DE DICIEMBRE DE 1988.
+
+UNICO.- Las presentes reformas y derogaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
