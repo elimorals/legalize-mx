@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2004-11-30"
+last_updated: "2004-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -153,7 +153,7 @@ En la impartición de todo tipo de educación para menores de edad, se tomarán 
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2004)</small>
 
-Para tal fin, se implementarán programas permanentes de capacitación y orientación a los directivos, maestros y personal administrativo en asistencia y primeros auxilios para accidentes en las escuelas, considerando en todo caso, la concurrencia de los padres de familia y vigilando que estos programas sean acordes al a edad de los educandos.
+Para tal fin, se implementarán programas permanentes de capacitación y orientación a los directivos, maestros y personal administrativo en asistencia y primeros auxilios para accidentes en las escuelas, considerando en todo caso, la concurrencia de los padres de familia y vigilando que estos programas sean acordes a la edad de los educandos.
 
 ###### ARTICULO 10.
 
@@ -511,7 +511,7 @@ El personal docente encargado de este nivel educativo deberá contar con título
 
 La educación primaria es obligatoria para todos los habitantes del Estado. Tiene como objetivo primordial dotar al educando de los conocimientos, habilidades y formación de hábitos que fundamenten el aprendizaje posterior, así como los conocimientos elementales para integrarse a la sociedad y acceder a su formación cultural posterior.
 
-En el sistema educativo estatal se impartirá educación primaria a los niños cuya edad fluctué entre los 6 y 14 años.
+En el sistema educativo estatal se impartirá educación primaria a los niños cuya edad fluctue entre los 6 y 14 años.
 
 ###### ARTICULO 32.
 
@@ -705,9 +705,13 @@ La educación física y artística tendrán carácter obligatorio, predominantem
 
 La educación física se impartirá por maestros que acrediten preparación profesional en la materia, con grado de licenciatura.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 57.
 
-Los docentes que se contraten de nuevo ingreso al servicio educativo, deberán de cubrir el perfil profesional requerido por la ley. Asimismo, quienes ya perteneciendo al servicio educativo hayan de ser promovidos a una asignatura diferente, deberán cubrir el perfil profesional requerido por la nueva asignatura.
+Los docentes de nuevo ingreso al servicio educativo deberán cumplir el perfil profesional requerido por la Ley. En el caso de que dos o más personas reúnan los requisitos legales y el perfil requerido para cubrir una vacante, las autoridades educativas darán preferencia al candidato residente de la región en donde se ubique el centro de trabajo en que se desempeñará.
+
+Quienes ya pertenezcan al servicio educativo y sean propuestos a una asignatura diferente, deberán cumplir el perfil profesional requerido para la nueva asignatura.
 
 ### CAPÍTULO V
 
@@ -1515,7 +1519,7 @@ La autoridad que dicte la resolución adoptará las medidas que sean necesarias 
 
 ### CAPÍTULO II
 
-DEL RECURSOS ADMINISTRATIVO.
+DEL RECURSOS (SIC) ADMINISTRATIVO.
 
 ###### ARTICULO 145.
 
@@ -1706,3 +1710,7 @@ P.O. 30 DE NOVIEMBRE DE 2004.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- La educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar, a partir del ciclo 2004 - 2005; el segundo año de preescolar, a partir del ciclo 2005 - 2006; el primer año de preescolar, a partir del ciclo 2008 - 2009.
+
+P.O. 4 DE DICIEMBRE DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
