@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1982-06-23"
+last_updated: "1982-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1982.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -349,7 +349,7 @@ Los testigos que intervengan en las actas del Registro Civil deberán ser cuando
 
 ###### Art. 51.
 
-La nulidad del hecho o acto inscrito y la falsedad de las actas del Registro Civil, sólo podrán probarse jusicialmente.
+La nulidad del hecho o acto inscrito y la falsedad de las actas del Registro Civil, sólo podrán probarse judicialmente.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -821,6 +821,8 @@ Extendida el acta se anotarán las de nacimiento y matrimonio de los divorciados
 
 ### CAPITULO IV. DEL CONTRATO DE MATRIMONIO CON RELACION A LOS BIENES
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1982)</small>
+
 ###### Art. 117.
 
 Ninguna inhumación o cremación se harán sin autorización escrita del Oficial del Registro Civil, quien se asegurará suficientemente del fallecimiento por certificado expedido por médico titulado. No se procederá a la inhumación o cremación sino después de que transcurran veinticuatro horas del fallecimiento, excepto los casos en que se ordene otra cosa por la autoridad que corresponda.
@@ -925,6 +927,8 @@ Los Oficiales del Registro Civil que no cumplan con lo dispuesto en este capítu
 
 ### CAPITULO V. DE LA SOCIEDAD CONYUGAL
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1982)</small>
+
 ###### Art. 131.
 
 Las autoridades judiciales que declaren la ausencia, la presunción de muerte, la tutela o la pérdida o limitación de la capacidad legal para administrar bienes, remitirán al Oficial del Registro Civil correspondiente copia certificada de la resolución ejecutoriada respectiva o auto de discernimiento en el término de quince días, para que se efectúe la inscripción en el acta correspondiente.
@@ -965,7 +969,7 @@ La modificación tendrá lugar cuando se solicite variar algún nombre, apellido
 
 ###### Art. 136.
 
-La cancelación, la rectificación o la modificación de un acta del estad (sic) civil, pueden pedirla:
+La cancelación, la rectificación o la modificación de una acta del estad (sic) civil, pueden pedirla:
 
 I.- Las personas de cuyo estado se trata;
 
@@ -1201,7 +1205,7 @@ El marido y la mujer, durante el matrimonio, podrán ejercitar los derechos y ac
 
 ###### Art. 178.
 
-El contrato de matrimonio debe celebrarse bajo el régimen de sociedad conyugal o bajo el de separación de bienes.
+El Contrato de Matrimonio debe celebrarse bajo el régimen de sociedad conyugal o bajo el de separación de bienes. A falta de régimen expresamente señalado, se estará sujeto al régimen de sociedad conyugal, y en ningún caso, los bienes adquiridos antes del matrimonio, el importe de la venta de los bienes propios, los adquiridos por herencia, donación o por cualquier otro título gratuito, los productos y los que se obtengan por su reinversión, formarán parte de la sociedad conyugal, salvo que expresamente se pacte lo contrario en las capitulaciones matrimoniales.
 
 ###### Art. 179.
 
@@ -1223,7 +1227,7 @@ Son nulos los pactos que los esposos hicieren contra las leyes o los naturales f
 
 ###### Art. 183.
 
-La sociedad conyugal se regirá por las capitulaciones matrimoniales que la constituyan, y en lo que no estuviere expresamente estipulado, por las disposiciones relativas al contrato de sociedad.
+La sociedad conyugal se regirá por las capitulaciones matrimoniales que la constituyan, y en lo que no estuviere expresamente estipulado, con la salvedad referida en el Artículo 178 por las disposiciones generales relativas al contrato de sociedad.
 
 ###### Art. 184.
 
@@ -1587,13 +1591,17 @@ La buena fé se presume; para destruir esta presunción se requiere prueba plena
 
 Si la demanda de nulidad fuere entablada por uno solo de los cónyuges, desde luego se dictarán las medidas provisionales que establece el artículo 282.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1982)</small>
+
 ###### Art. 259.
 
-Luego que la sentencia sobre nulidad cause ejecutoria, los hijos varones mayores de cinco años, quedarán al cuidado del padre, y las hijas al cuidado de la madre, si de parte de ambos cónyuges hubiere habido buena fé.
+Luego que la sentencia sobre nulidad cause ejecutoria, los hijos varones mayores de cinco años, quedarán al cuidado del padre, y las hijas al cuidado de la madre, si de parte de ambos cónyuges hubiere habido buena fe; lo anterior no constituye impedimento para que acuerden mutuamente en que todos los hijos queden bajo el cuidado de uno de ellos, previo convenio, del que se dará vista al Ministerio Público y se sancionará por el Juez tomando siempre en cuenta, aquellas circunstancias que favorezcan a los hijos.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1982)</small>
 
 ###### Art. 260.
 
-Si uno solo de los cónyuges ha procedido de buena fé, quedarán todos los hijos bajo su cuidado; pero siempre, y aun tratándose de divorcio, las hijas e hijos menores de cinco años, se mantendrán al cuidado de la madre hasta que cumplan esta edad, a menos que la madre se dedicare a la prostitución, al lenocinio, hubiere contraído el hábito de embriagarse, tuviere alguna enfermedad contagiosa, o por su conducta ofreciere peligro grave para la salud o la moralidad de sus hijos.
+Si uno solo de los cónyuges ha procedido de buena fe, quedarán todos los hijos bajo su cuidado, a menos que se hubiese celebrado convenio con el otro cónyuge en los términos y condiciones del artículo anterior; pero siempre, y aún tratándose de divorcio, las hijas e hijos menores de cinco años, se mantendrán al cuidado de la madre hasta que cumplan esta edad, a menos que la madre se dedicare a la prostitución, al lenocinio, hubiere contraído el hábito de embriagarse, tuviere alguna enfermedad contagiosa, o por su conducta antisocial ofreciere peligro grave para la salud o la moralidad de sus hijos.
 
 ###### Art. 261.
 
@@ -1765,9 +1773,13 @@ VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren d
 
 La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
 
-Primera.- Cuando la causa del divorcio estuviere comprendida en las fracciones I, II, III, IV, V, VIII, XIV y XV del Artículo 267, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda y si no lo hubiere se nombrará tutor.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1982)</small>
 
-Segunda.- Cuando la causa del divorcio estuviere comprendida en las fracciones IX, X, XI, XII, y XVI del Artículo 267, los hijos quedarán bajo la patria potestad del cónyuge inocente; pero a la muerte de éste, el cónyuge culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables, se les suspenderá en el ejercicio de la patria potestad hasta la muerte de uno de ellos recobrándola el otro al acaecer ésta. Entre tanto, los hijos quedarán bajo la patria potestad del ascendiente que corresponda, y si no hay quien la ejerza, se le nombrará tutor.
+Primera.- Cuando la causa del divorcio estuviere comprendida en las Fracciones V y XV del Artículo 267, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda y si no lo hubiere se nombrará tutor.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1982)</small>
+
+Segunda.- Cuando la causa del divorcio estuviere comprendida en las Fracciones I, II, III, IV, VIII, IX, X, XI, XII, XIV y XVI del Artículo 267, los hijos quedarán bajo la patria potestad del cónyuge inocente; pero a la muerte de éste, el cónyuge culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables, se les suspenderá en el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta. Entre tanto, los hijos quedaran bajo la patria potestad del ascendiente que corresponda y si no hay quien lo ejerza, se les nombrará tutor.
 
 Tercera.- En el caso de las fracciones VI y VII del artículo 267, los hijos quedarán en poder del cónyuge sano; pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de sus hijos.
 
@@ -2437,15 +2449,17 @@ Los hijos menores de edad no emancipados, están bajo la patria potestad mientra
 
 La patria potestad se ejerce sobre la persona y los bienes de los hijos.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1982)</small>
+
 ###### Art. 414.
 
-La patria potestad sobre los hijos de matrimonio se ejerce:
+La patria potestad sobre los hijos de Matrimonio se ejerce:
 
-I.- Por el padre y la madre;
+I.- Por el padre y la madre.
 
-II.- Por el abuelo y la abuela paternos;
+II.- Por el abuelo y la abuela maternos.
 
-III.- Por el abuelo y la abuela maternos.
+III.- Por el abuelo y la abuela paternos.
 
 ###### Art. 415.
 
@@ -15056,3 +15070,13 @@ P.O. 1 DE ENERO DE 1982.
 P.O. 23 DE JUNIO DE 1982.
 
 UNICO:- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1982.
+
+###### ARTICULO PRIMERO
+
+- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO
+
+- Quedan derogadas todas las disposiciones que se opongan a las presentes reformas.
