@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1978-09-06"
+last_updated: "1980-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 1980.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -375,15 +375,11 @@ Para que los Diputados puedan cumplir con lo dispuesto en las fracciones anterio
 
 Los Diputados, al abrirse el Período de Sesiones Ordinarias siguiente a la visita que hayan hecho a los pueblos que representan, presentarán al Congreso una Memoria que contenga las observaciones que hayan hecho, proponiendo a la vez las medidas que estimen conducentes para llenar el objeto que expresa la fracción IV de este artículo.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1980)</small>
 
 ###### Art. 33.
 
-El día 14 de enero de cada año, el Congreso Local celebrará una Sesión Pública y Solemne en la que el Gobernador del Estado rendirá un informe por escrito en el que manifieste el estado general que guarden los diversos ramos de la Administración Pública. El Presidente del Congreso contestará el (sic) términos generales.
-
-En el curso del mes de enero el Presidente del H. Tribunal Superior de Justicia enviará su informe anual de la Administración de Justicia al H. Congresos (sic).
-
-El 15 de enero, correspondiente al año de la transmisión del Poder Ejecutivo, el Gobernador Electo acudirá ante el H. Congresos (sic) a otorgar la protesta de acuerdo con las formalidades de rigor.
+El Segundo Sábado de Diciembre de cada año, el Congreso Local celebrará una Sesión Solemne en la que el Gobernador del Estado, rendirá un informe por escrito en el que se dará a conocer el estado general que guardan los diversos ramos de la Administración Pública. El Presidente del Congreso contestará en términos generales.
 
 ###### Art. 34.
 
@@ -1228,3 +1224,7 @@ P.O. 6 DE SEPTIEMBRE DE 1978.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 13 DE AGOSTO DE 1980.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
