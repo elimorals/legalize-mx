@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1982-01-01"
+last_updated: "1982-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 1982.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -197,33 +197,15 @@ El censo electoral se levantará cada seis años y precisamente en el que corres
 
 Del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 1982)</small>
 
 ###### Art. 46.
 
-Se depósita el ejercicio del Poder Legislativo en un Congreso que se renovará cada tres años, compuesto por quince Diputados electos para mayoría relativa y hasta por cinco Diputados de minoría, electos en los términos del presente Artículo.
+Se deposita el ejercicio del Poder Legislativo en un Congreso que se renovará cada tres años, compuesto de 21 de Diputados electos por mayoría relativa y hasta 7 Diputados de minoría, que se asignarán de acuerdo con las bases y formas que señale la Ley Reglamentaria correspondiente.
 
-Los Distritos Electorales no podrán tener menos de cuarenta mil ni más de ciento veinte mil habitantes y por cada uno de ellos se eligirá por mayoría relativa un Diputado Propietario y un Suplente.
+La circunscripción de los 21 Distritos Electorales, será la que resulte de dividir el total de la población en el Estado entre los Distritos señalados y por cada uno de ellos se elegirá por mayoría relativa un Diputado Propietario y un Suplente. También las asignaciones de Diputados de Minoría se harán mediante la misma fórmula de Propietario y Suplente.
 
-I.- Tendrá derecho a participar en la aplicación de Diputados de minoría todo partido político.
-
-a) Que haya obtenido su registro conforme a la Ley Electoral del Estado con un año o más de anterioridad al día de la elección.
-
-b) Que postule candidatos a Diputados en cuando menos dos terceras partes de los Distritos Electorales;
-
-c) Que no haya alcanzado dos o más Diputaciones por mayoría;
-
-d) Que haya obtenido por lo menos el dos y medio por ciento de la votación total emitida en el Estado, en la elección de que se trate.
-
-II.- En la asignación de Diputaciones de minoría se observarán, en su orden, las siguientes disposiciones:
-
-a) En primer término, cada partido político que obtuviere cuando menos el cinco por ciento de la votación global de los partidos minoritarios, le será acreditado un Diputado de minoría, excepción hecha del caso en que el número de partidos que alcanzaren el porcentaje señalado, excediera el número de Diputaciones a asignar. En este evento las Diputaciones de minoría se distribuirán de acuerdo a la cantidad total de votos obtenidos por cada partido, en orden decreciente.
-
-b) Si después de cumplir la regla establecida en la primera parte del inciso precedente aun hubiese Diputaciones por aplicar, se acreditarán en orden decreciente a los partidos que tuvieren el resto mayor de votos a su favor, una vez que les sean deducidos los que correspondan al cinco por ciento. No se podrán asignar más de dos Diputaciones de minoría a un mismo partido político.
-
-c) Las Diputaciones de minoría serán asignadas a los candidatos que mayor número de sufragios hubieran obtenido a favor de sus propios partidos, en los Distritos correspondientes. La suplencia corresponderá al respectivo compañero de fórmula.
-
-III.- Los Diputados de mayoría y los de minoría siendo representantes del pueblo, tendrán la misma categoría e iguales facultades y obligaciones.
+Los Diputados electos por mayoría relativa y los Diputados de minoría, tendrán la misma categoría e iguales facultades y obligaciones.
 
 ###### Art. 47.
 
@@ -1690,3 +1672,9 @@ UNICO:- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 1 DE ENERO DE 1982.
 
 UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE FEBRERO DE 1982.
+
+###### ARTICULO UNICO
+
+- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
