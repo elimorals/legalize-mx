@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-justicia-administrativa-y-del-tribunal-de-lo-5160"
 country: "mx"
 rank: "ley"
 publication_date: "1987-07-07"
-last_updated: "1999-04-20"
+last_updated: "2004-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY DE JUSTICIA ADMINISTRATIVA Y DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS CONTENCIOSOS ADMINISTRATIVOS DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 9 DE MARZO DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 7 de julio de 1987.
 
@@ -813,259 +815,133 @@ La resolución que se dicte no afectará las situaciones jurídicas concretas de
 
 Las tesis jurisprudenciales sustentadas por la Sala Superior, así como aquellas que constituyan precedentes y se consideren importantes, se publicarán en el Organo Oficial del Tribunal.
 
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE MARZO DE 2004)</small>
+
 ## TITULO TERCERO. DE LA ORGANIZACION Y COMPETENCIA DEL TRIBUNAL
+
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE MARZO DE 2004)</small>
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 87.
 
-El Tribunal de lo Contencioso Administrativo, es un órgano dotado de plena autonomía para dictar sus fallos, con la organización y competencia que esta Ley establece.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
 ###### ARTICULO 88.
 
-El Tribunal de lo Contencioso Administrativo se integrará de una Sala Superior con cinco Magistrados; por siete Salas Regionales y Magistrados Supernumerarios, éstos y las Salas Regionales podrán aumentarse cuando el servicio lo requiera, a juicio de la Sala Superior.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
 ###### ARTICULO 89.
 
-Para ser Magistrado del Tribunal de lo Contencioso Administrativo, se requiere:
-
-I.- Ser mexicano por nacimiento, en ejercicio de sus derechos políticos y civiles;
-
-II.- No tener menos de 30 años ni más de 70 al día de su designación;
-
-III.- Ser Licenciado en Derecho, con título profesional legalmente registrado;
-
-IV.- Acreditar cuando menos cinco años de práctica profesional en materia administrativa o fiscal;
-
-V.- Ser de notoria buena conducta, y
-
-VI.- No haber sido condenado por sentencia ejecutoriada por delito intencional.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
 ###### ARTICULO 90.
 
-El nombramiento de los Magistrados lo hará el Gobernador del Estado, de acuerdo al procedimiento constitucional respectivo, requiriéndose en todo caso, la aprobación del Congreso, y hecha la designación, la Sala Superior determinará la adscripción de cada Magistrado.
-
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
 ###### ARTICULO 91.
 
-Los Magistrados durarán en su encargo 6 años y podrán ser reelectos. Después de su desempeño ininterrumpido y siempre que éste haya sido recto y eficiente, los Magistrados serán inamovibles, pudiendo sólo ser privados de su cargo en los casos y de acuerdo con el procedimiento establecido por la Constitución Política Local y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
 ###### ARTICULO 92.
 
-El sueldo y las prestaciones que perciban los Magistrados durante el término de su cargo, no podrán reducirse y quedarán establecidas en el presupuesto de egresos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
 ###### ARTICULO 93.
 
-Las faltas temporales de los Magistrados de la Sala Superior serán cubiertas por los Magistrados de las Salas Regionales que la propia Sala Superior designe. Las definitivas se comunicarán al Gobernador del Estado para que proceda al nombramiento del Magistrado que las cubra. Las faltas temporales de los Magistrados de las Salas Regionales se suplirán por los Magistrados que señale la Sala Superior. Las faltas definitivas se cubrirán con nueva designación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
 ###### ARTICULO 94.
 
-Las licencias a los Magistrados Regionales hasta por tres meses, sean con o sin goce de sueldo, serán concedidas por la Sala Superior y las que excedan del plazo anterior, sólo podrá concederlas el Gobernador del Estado con la aprobación de la Legislatura o Diputación Permanente en los términos previstos por la Constitución Local.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
 ###### ARTICULO 95.
 
-El Tribunal de lo Contencioso Administrativo, tendrá un Presidente, el que será a su vez, Presidente de la Sala Superior y durará en su cargo un año y podrá ser reelecto por el mismo término.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
 ###### ARTICULO 96.
 
-El Tribunal de lo Contencioso Administrativo se integrará con:
-
-I.- Un Secretario General de Acuerdos;
-
-II.- Un Secretario para cada una de las Salas Regionales;
-
-III.- Un Secretario de Compilación y Difusión;
-
-IV.- Un Actuario para cada una de las Salas;
-
-V.- Un Asesor Comisionado, y
-
-VI.- El personal técnico y administrativo necesario para su funcionamiento de acuerdo al presupuesto de egresos estatal.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
 ###### ARTICULO 97.
 
-Para ser Secretario, Actuario o Asesor Comisionado del Tribunal de lo Contencioso Administrativo, se requiere:
-
-I.- Ser mexicano, en ejercicio de sus derechos civiles y políticos;
-
-II.- Ser Licenciado en Derecho, con título profesional legalmente registrado;
-
-III.- No haber sido condenado por sentencia ejecutoriada por delito intencional.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
 ###### ARTICULO 98.
 
-Los Magistrados, Secretarios, Actuarios y Asesores Comisionados, durante el ejercicio de su cargo, estarán impedidos para desempeñar cualquier otra actividad dependiente de la Federación, Estado, Municipio o bien de otra Entidad Federativa o de algún particular, a excepción de las de carácter docente y del ejercicio de la profesión de abogado en causa propia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
+
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE MARZO DE 2004)</small>
 
 ### CAPITULO II. DE LA SALA SUPERIOR
 
 ###### ARTICULO 99.
 
-La Sala Superior tendrá como residencia la Capital del Estado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
 ###### ARTICULO 100.
 
-Las sesiones de la Sala Superior se llevarán a cabo con la presencia de todos sus miembros y sus resoluciones se tomarán por unanimidad o mayoría de votos de los Magistrados.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
 ###### ARTICULO 101.
 
-Las sesiones de la Sala Superior serán públicas, con excepción de los casos en los que la Ley o el interés público exijan que sean reservadas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
 ###### ARTICULO 102.
 
-La Sala Superior tiene competencia para:
-
-I.- Establecer la jurisprudencia del Tribunal;
-
-II.- Resolver los recursos que se interpongan en contra de las resoluciones de las Salas Regionales;
-
-III.- Resolver el recurso de reclamación en contra de los acuerdos de trámite dictados por el Presidente de la Sala;
-
-IV.- Conocer de las excitativas para la impartición de justicia que promuevan las partes, cuando los Magistrados de las Salas Regionales no formulen el proyecto de resolución correspondiente dentro de los plazos señalados por la Ley;
-
-V.- Calificar las recusaciones, excusas e impedimentos de los Magistrados del Tribunal y, en su caso, designar al Magistrado que deba sustituirlo;
-
-VI.- Resolver los conflictos de competencia que se susciten entre las Salas Regionales;
-
-VII.- Establecer las reglas para la distribución de los asuntos entre las Salas Regionales, y
-
-VIII.- Conocer de los demás asuntos que le asignen las disposiciones legales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
 ###### ARTICULO 103.
 
-La Sala Superior tendrá las siguientes atribuciones:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
-I.- Designar entre sus miembros al Presidente del Tribunal, quien lo será también de la Sala Superior;
-
-II.- Fijar y cambiar la adscripción de los Magistrados de las Salas Regionales;
-
-III.- Designar a quiénes suplan las ausencias temporales de los Magistrados de las Salas Regionales;
-
-IV.- Nombrar al Secretario General de Acuerdos, a los Jefes de Unidad y a los Actuarios de la Sala Superior, así como acordar lo que proceda respecto a su remoción;
-
-V.- Nombrar a los Secretarios de Acuerdos, Actuarios, Asesores Comisionados y demás personal administrativo adscrito a las Salas Regionales; concederles licencias y acordar lo que proceda respecto de su remoción;
-
-VI.- Conceder licencias a los Magistrados, con o sin goce de sueldo, hasta por tres meses;
-
-VII.- Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos de la competencia del Tribunal;
-
-VIII.- Designar las comisiones de Magistrados que sean necesarias para la administración interna y representación del Tribunal;
-
-IX.- Formular anualmente el proyecto de presupuesto de Egresos del Tribunal y enviarlo a las autoridades competentes;
-
-X.- Expedir y modificar en su caso, el Reglamento Interior del Tribunal, así como las demás disposiciones necesarias para su buen funcionamiento;
-
-XI.- Designar de entre sus miembros a los Magistrados Visitadores de las Salas Regionales, los que darán cuenta del funcionamiento de estas a la Sala Superior, y
-
-XII.- Las demás que establezcan las disposiciones legales.
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE MARZO DE 2004)</small>
 
 ### CAPITULO III. DEL PRESIDENTE DEL TRIBUNAL
 
 ###### ARTICULO 104.
 
-El Presidente del Tribunal será designado en la primera sesión anual que celebre la Sala Superior y será suplido en caso de faltas temporales por un Magistrado de la Sala Superior, siguiendo el orden numérico de la designación de éstos. Si la falta es definitiva se designará nuevo Presidente para concluir el período.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
 ###### ARTICULO 105.
 
-El Presidente del Tribunal y de la Sala Superior, tendrá las siguientes atribuciones:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
-I.- Representar al Tribunal ante toda clase de autoridades;
-
-II.- Despachar la correspondencia del Tribunal y de la Sala Superior;
-
-III.- Presidir las comisiones que designe la Sala Superior;
-
-IV.- Dirigir los debates y conservar el orden en las sesiones de la Sala Superior;
-
-V.- Informar a la Sala Superior de las contradicciones contenidas en las sentencias dictadas por las Salas Regionales;
-
-VI.- Designar por turno al Magistrado ponente en los recursos de revisión; dar cuenta a la Sala Superior de excitativas de justicia y tramitar los demás asuntos de la competencia de esta Sala hasta ponerlos en estado de resolución;
-
-VII.- Designar al personal administrativo de la Sala Superior y acordar lo que proceda respecto a su remoción;
-
-VIII.- Conceder o negar licencias al personal administrativo de la Sala Superior;
-
-IX.- Dictar las medidas administrativas que exijan el buen funcionamiento y la disciplina de las Salas, e imponer las sanciones administrativas procedentes a los Secretarios y empleados de la misma;
-
-X.- Administrar el presupuesto del Tribunal;
-
-XI.- Autorizar, en unión del Secretario General de Acuerdos, las actas en las que consten las deliberaciones y acuerdos de la Sala Superior;
-
-XII.- Firmar conjuntamente con el Secretario General de Acuerdos, los engroses de resoluciones de la Sala Superior;
-
-XIII.- Llevar a cabo los actos administrativos y jurídicos que no requieran la intervención de la Sala Superior;
-
-XIV.- Rendir al Tribunal y a la Legislatura, en la última sesión de cada año, un informe relacionado con la marcha del Tribunal y de las principales tesis adoptadas;
-
-XV.- Publicar la Jurisprudencia del Tribunal, y las sentencias que por su interés constituyan precedente legal.
-
-XVI.- Las demás que establezcan las disposiciones legales.
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE MARZO DE 2004)</small>
 
 ### CAPITULO IV. DE LAS SALAS REGIONALES
 
 ###### ARTICULO 106.
 
-Las Salas Regionales estarán integradas con un Magistrado cada una, Secretarios de Acuerdos, Actuarios, Asesores, Comisionados y personal administrativo que requieran las necesidades del servicio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
 ###### ARTICULO 107.
 
-Las Salas Regionales tendrán la jurisdicción y las sedes que les señale la Sala Superior, sin perjuicio de establecer las necesarias según las necesidades del Tribunal Superior.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
 ###### ARTICULO 108.
 
-Las Salas Regionales del Tribunal tienen competencia para conocer y resolver:
-
-I.- De los procedimientos contenciosos en contra de los actos administrativos que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado, de los Municipios y de los Organismos con funciones administrativas de autoridad, de carácter estatal o municipal;
-
-II.- De los procedimientos contenciosos en contra de los actos fiscales que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo, de los Municipios y de los Organismos con funciones administrativas de carácter estatal o municipal;
-
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1997)</small>
-
-III.- De los juicios que se promuevan en contra de las resoluciones negativas fictas en materia administrativa y fiscal, que se configuren por el silencio de las autoridades y organismos con funciones administrativas de autoridad, estatales o municipales para dar respuesta a la instancia de un particular en el plazo que la Ley fija y a falta de término, en cuarenta y cinco días.
-
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1997)</small>
-
-IV.- De los juicios que se promuevan en contra de las resoluciones en las que se impongan sanciones por responsabilidad administrativa a servidores públicos, estatales, municipales y organismos públicos descentralizados.
-
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1997)</small>
-
-V.- De los recursos de queja por incumplimiento de la suspensión otorgada o las sentencias que dicten;
-
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1997)</small>
-
-VI.- Del Recurso de Reclamación en contra de las resoluciones de trámite de la misma Sala.
-
-VII.- (DEROGADA, P.O. 12 DE DICIEMBRE DE 1997)
-
-VIII.- (DEROGADA, P.O. 12 DE DICIEMBRE DE 1997)
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
 ###### ARTICULO 109.
 
-Las Salas Regionales conocerán por razón del territorio a que se refiere el Artículo 112 de esta Ley, de los actos que dicten, ordenen, ejecuten o traten de ejecutar las autoridades con sede en su jurisdicción.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
 ###### ARTICULO 110.
 
-Las audiencias de las Salas Regionales serán públicas, exceptuando los casos en que la Ley o el interés público exija que sean privadas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
 ###### ARTICULO 111.
 
-Las atribuciones de los Presidentes de Sala, Secretarios, Actuarios y Secretarios de Compilación y Difusión serán establecidas en el Reglamento Interior del Tribunal.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
-> <small>(ADICIONADO, CON EL ARTICULO QUE LO INTEGRA, P.O. 26 DE FEBRERO DE 1991)</small>
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE MARZO DE 2004)</small>
 
 ### CAPITULO V. DE LOS ASESORES Y COMISIONADOS
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
-
 ###### ARTICULO 112.
 
-Cuando la Sala Superior o las Salas Regionales conozcan de las violaciones a los derechos ciudadanos de los administrados en municipalidades diversas de su sede, pero dentro de su ámbito territorial jurisdiccional enviarán a un Asesor Comisionado para orientar a los posibles quejosos respecto de la aplicación y alcance de esta Ley y, en su caso, habilitarán a las oficinas del Ejecutivo Estatal, Síndicos Procuradores y Comisarios Municipales como órganos de recepción de demandas ciudadanas, así como para realizar diligencias que se estimen convenientes dentro de los procedimientos que prevee esta Ley.
-
-Todas las autoridades habilitadas tendrán facultades de Oficialía de Partes y deberán cumplir con la obligación de remitir la demanda a la Sala Regional correspondiente o a la Sala Superior de acuerdo a las determinaciones específicas que al respecto se dicten, dentro de las 48 horas siguientes a su presentación.
-
-Las autoridades que omitan dar cumplimiento a lo anteriormente señalado, incurrirán en responsabilidad oficial y se harán acreedoras a las sanciones establecidas en el párrafo segundo del artículo 25 de esta misma Ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, P.O. 9 DE MARZO DE 2004)
 
 ## TRANSITORIOS
 
@@ -1152,3 +1028,43 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 El nombramiento de las personas que ocuparán las dos magistraturas que se crean, se ajustará al procedimiento constitucional establecido, para aprobación del H. Congreso del Estado.
+
+P.O. 9 DE MARZO DE 2004.
+
+LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO, NUMERO 194.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga el Título Tercero y sus capítulos del I al V de la Ley de Justicia Administrativa y del Tribunal de lo Contencioso Administrativo publicada en el Periódico Oficial del Estado de Guerrero número cincuenta y ocho, de fecha siete de julio de mil novecientos ochenta y siete.
+
+###### ARTICULO TERCERO.
+
+Los procedimientos que estén tramitándose ante alguna Sala Regional o la Sala Superior del Tribunal al entrar en vigor esta Ley, se decidirán conforme a las disposiciones legales anteriores a la misma.
+
+###### ARTICULO CUARTO.
+
+El Reglamento Interior del Tribunal se aprobará por el Pleno en un plazo máximo de noventa días contados a partir de que entre en vigor esta Ley.
+
+P.O. 9 DE MARZO DE 2004.
+
+CODIGO DE PROCEDIMIENTOS CONTENCIOSOS ADMINISTRATIVOS DEL ESTADO DE GUERRERO, NUMERO 215.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código entrará en vigor a los noventa días siguientes a su publicación en el Periódico Oficial.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la vigencia de este Código, queda abrogada la Ley de Justicia Administrativa y del Tribunal de lo Contencioso Administrativo publicada en el Periódico Oficial del Estado de Guerrero número cincuenta y ocho, de fecha siete de julio de mil novecientos ochenta y siete.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos, recursos administrativos y juicios que estén tramitándose ante alguna Sala Regional o la Sala Superior del Tribunal al entrar en vigor este código, se decidirán conforme a las disposiciones legales anteriores al mismo.
+
+###### ARTÍCULO CUARTO.
+
+Si para la interposición de algún recurso o para el ejercicio de algún otro derecho en la tramitación de los asuntos pendientes al entrar en vigor este código, estuviera corriendo un término y el señalado en él fuere menor que el fijado en la ley anterior, se observará lo dispuesto en éste último.
