@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2001-12-19"
+last_updated: "2001-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -575,27 +575,19 @@ El día primero de Enero siguiente, el Congreso procederá al nombramiento de un
 
 El Congreso tendrá dos períodos ordinarios de sesiones cada año: El primero, improrrogable, iniciará el uno de marzo y terminará el día treinta y uno de mayo, excepto al instalarse cada Legislatura, en cuyo caso será del uno de enero al treinta y uno de marzo; el segundo dará principio el uno de septiembre, durando el tiempo necesario para tratar todos los asuntos de su competencia, sin que pueda extenderse más allá del día quince de diciembre, exceptuándose el último año de la Legislatura, cuando podrá prorrogarse por los días de diciembre que sean necesarios.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1999)</small>
-
-###### ARTICULO 45.
-
-El Congreso en ambos períodos de sesiones, se ocupará del estudio, discusión y votación de las Iniciativas de ley, decreto y acuerdo que se le presenten; de la resolución de los asuntos que le corresponden conforme a la Constitución y a las Leyes; de examinar y calificar las cuentas de recaudación y aplicación de los fondos públicos correspondientes al año anterior y que serán remitidas en la segunda quincena del mes de marzo, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos; si se actuó de conformidad con las leyes de la materia; si los gastos están justificados y si ha lugar a exigir alguna responsabilidad.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 45.
 
-Durante el primer período Ordinario de Sesiones, el Congreso se ocupará preferentemente de los siguientes asuntos:
+El Congreso, en ambos períodos de sesiones, se ocupará del estudio, discusión y votación de las iniciativas de ley, decreto y acuerdo que se le presenten; de la resolución de los asuntos que le corresponden, conforme a la Constitución y a las leyes; de examinar y calificar las cuentas trimestrales de aplicación de los fondos públicos y que serán remitidas en la segunda quincena del mes siguiente a la terminación de cada trimestre, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si se actúo de conformidad con las leyes de la materia, si los gastos están justificados y si ha lugar a exigir alguna responsabilidad.
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 1993)</small>
+De igual manera, en el caso de las cuentas del Poder Ejecutivo y de los Municipios, deberán revisarse las de recaudación y analizarse si fueron percibidos los recursos cumpliendo con las disposiciones legales aplicables.
 
-I.- Salvo lo dispuesto en la Fracción I del Artículo siguiente, de examinar y calificar las cuentas de recaudación y aplicación de los fondos públicos municipales correspondientes al año anterior, las que le serán remitidas por conducto del Ejecutivo antes del quince de febrero de cada año, así como examinar y calificar la recaudación y distribución de los fondos públicos del Estado en el mismo período, cuya documentación presentará el Secretario de Hacienda por conducto del Ejecutivo.
-
-II. De estudiar, discutir y votar las iniciativas de ley que se presenten, y resolver los demás asuntos que le corresponden conforme a esta Constitución.
+((REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)
 
 ###### Art. 46.
 
-El Congreso en el segundo periodo de sesiones, se ocupará en discutir y decretar la Ley de Ingresos y el Presupuesto de Egresos del Estado del año siguiente, mismos que le serán presentados durante los primeros diez días de diciembre de cada año por el Ejecutivo. Las Leyes de Ingresos de los Municipios deberán remitirse durante los primeros diez días del mes de noviembre de cada año. Solo se podrán ampliar dichos plazos cuando medie solicitud del Ejecutivo, suficientemente justificada a juicio del Congreso. Las Cuentas Públicas correspondientes al último año del ejercicio constitucional de la Legislatura, deberán ser presentadas a ésta a más tardar el día quince de diciembre, para lo cual se prorrogará forzosamente el período de sesiones, por los días necesarios del mes de diciembre.
+El Congreso en el segundo periodo de sesiones, se ocupará en discutir y decretar la Ley de Ingresos y el Presupuesto de Egresos del Estado del año siguiente, mismos que le serán presentados durante los primeros diez días de diciembre de cada año por el Ejecutivo. Las Leyes de Ingresos de los Municipios deberán remitirse durante los primeros diez días del mes de noviembre de cada año. Solo se podrán ampliar dichos plazos cuando medie solicitud del Ejecutivo, o de los Ayuntamientos en su caso, suficientemente justificada a juicio del Congreso. Cuando por algún motivo la Legislatura no apruebe la Ley de Ingresos y el Presupuesto de Egresos, deberán aplicarse los montos autorizados en el Presupuesto del año anterior, actualizados según la inflación anual que determine el Banco de México.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
 
@@ -681,9 +673,9 @@ IV. Fijar, a propuesta de los respectivos Ayuntamientos, las contribuciones y ot
 
 V. Nombrar y remover al Oficial Mayor del Congreso, al Contador Mayor de Hacienda y a los demás Servidores Públicos en los términos de la Ley Orgánica y del Reglamento para el Gobierno Interior;
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-VI. Revisar, calificar y fiscalizar, por conducto de la Contaduría Mayor de Hacienda, las cuentas públicas del Estado, de los Municipios y demás organismos que administren o manejen fondos del sector público. Una ley determinará la organización y funcionamiento de dicha Contaduría que dependerá en absoluto del Congreso y estará bajo la vigilancia de la Comisión de Hacienda y Crédito Público;
+VI. Revisar y calificar trimestralmente, por conducto de la Auditoría Superior del Estado, las cuentas públicas del Estado, de los Municipios y demás organismos que administren o manejen fondos del sector público. Una ley determinará la organización y funcionamiento de dicha Auditoría que será el órgano técnico de fiscalización superior del Congreso, contará con independencia en sus funciones y autonomía presupuestal para el ejercicio de sus atribuciones; y estará bajo la vigilancia de la Comisión de Hacienda y Crédito Público;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -723,7 +715,7 @@ XVIII. Establecer un Organismo de Protección de los Derechos Humanos que otorga
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-XIX. Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito, en los términos del Artículo 152 de esta Constitución;
+XIX. Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito, en los términos del Artículo 152 de esta Constitución.
 
 Asimismo, conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el Artículo 151 de esta Constitución y, en su caso, fungir como órgano de acusación en los juicios políticos que contra éstos se instauren;
 
@@ -763,7 +755,7 @@ XXIX. Expedir la Ley sobre el número máximo de Ministros de Cultos a que le fa
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 1997)</small>
 
-XXX. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaratoria de Gobernador electo que hubiere hecho el Consejo Estatal Electoral;
+XXX.- Expedir el Bando Solemne para dar a conocer en todo el Estado la declaratoria de Gobernador electo que hubiere hecho el Consejo Estatal Electoral;
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 1997)</small>
 
@@ -835,7 +827,7 @@ LII. (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-LIII.- Conceder por tiempo limitado privilegio a los inventores, introductores o perfeccionadores de algún arte o mejora útil;
+LIII. Conceder por tiempo limitado privilegio a los inventores, introductores o perfeccionadores de algún arte o mejora útil;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
 
@@ -935,13 +927,17 @@ X.- Resolver, en definitiva, en los recesos del Congreso, sobre las medidas que 
 
 XI.- Ejercer, en su caso, las facultades que al Congreso concede la fracción XVI del Artículo 58 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-XII.- Conocer y resolver sobre solicitud de licencia que le sean presentadas por los legisladores, y;
+XII.- Conocer y resolver sobre solicitud de licencia que le sean presentadas por los legisladores;
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-XIII.- Las demás que le confieran las leyes.
+XIII.- Turnar a la Auditoría Superior del Estado las cuentas públicas que reciba, para su revisión; y
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XIV.- Las demás que le confieran las leyes.
 
 ###### Art. 63.
 
@@ -1044,6 +1040,24 @@ Ninguna resolución del Congreso tendrá otro carácter que el de ley, decreto o
 El Poder Ejecutivo se deposita en un ciudadano que se denominará "Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas", siendo su elección directa cada seis años, en los términos que señala la Ley Electoral.
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 1936)</small>
+
+ART. 78.- Para ser Gobernador se requiere:
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+I.- Que el candidato esté en pleno goce de los derechos de ciudadanía de acuerdo con los Artículos 34, 35 y 36 de la Constitución Política de los Estados Unidos Mexicanos y que no haya ocurrido en su perjuicio ninguno de los motivos de pérdida ni de suspensión de derechos a que se refieren los Artículos 37 y 38 de la misma Constitución;
+
+II.- Ser mexicano de nacimiento;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+III.- Ser nativo del Estado, o con residencia efectiva en él no menor de 5 años inmediatamente anteriores al día de la elección;
+
+IV.- Ser mayor de treinta años de edad el día de la elección; y
+
+V.- Poseer suficiente instrucción.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
 ###### Art. 78.
 
@@ -1175,9 +1189,9 @@ V. Promulgar y mandar publicar, cumplir y hacer cumplir la Constitución del Est
 
 VI.- Cuidar en los distintos ramos de la Administración que los caudales públicos estén asegurados y se recauden e inviertan con arreglo a las Leyes;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-VII.- Presentar al Congreso la Iniciativa de Ley de Ingresos y el proyecto de Presupuesto de Egresos del Estado, así como las cuentas y comprobantes de recaudación y aplicación de los fondos públicos del Estado en los términos que dispone esta Constitución;
+VII.- Presentar al Congreso la Iniciativa de Ley de Ingresos del Estado, el proyecto de Presupuesto de Egresos del Estado, así como remitir trimestralmente las cuentas de recaudación y aplicación de los fondos públicos del Estado, en los términos que dispone esta Constitución;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1459,7 +1473,9 @@ El Poder Judicial del Estado contará con autonomía presupuestal, orgánica y f
 
 El Poder Judicial constituirá un Fondo Auxiliar para la Administración de Justicia que se integrará y funcionará en los términos previstos en la ley, del cual y sin perjuicio de las remuneraciones que correspondan de acuerdo al presupuesto, el Supremo Tribunal de Justicia aplicará un porcentaje de los recursos económicos que lo integren para incrementar la capacitación, adquisición de equipo y mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, conforme a lo que al efecto acuerde el Pleno.
 
-El Ejecutivo del Estado cuidará que las cantidades que integren este Fondo se entreguen trimestralmente al Poder Judicial, quien a través de su Presidente tendrá la obligación de dar a conocer lo recaudado en el año anterior, al rendir el informe anual sobre el estado que guarda la administración de justicia.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+El Ejecutivo del Estado cuidará que las cantidades que integren este Fondo se entreguen trimestralmente al Poder Judicial, quien a través de su Presidente tendrá la obligación de dar a conocer lo recaudado en el año anterior, al rendir el informe anual sobre el estado que guarda la administración de justicia, y dentro de los informes trimestrales de cuenta pública correspondientes, los que deberá remitir dentro de la segunda quincena del mes siguiente a la terminación de cada trimestre, para su revisión por el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -1563,7 +1579,9 @@ XI.- Elegir Presidente del Pleno en los términos que determine la ley;
 
 XII.- Delegar al Presidente las atribuciones que estime pertinentes;
 
-XIII.- Rendir, por conducto de su Presidente, un informe anual del estado que guarda la Administración de Justicia, en Sesión Pública y Solemne del Congreso, que se verificará durante la primera quincena del mes de marzo de cada año;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XIII.- Recibir, en Sesión plenaria, extraordinaria, pública y solemne, el informe anual de labores que deberá rendir su Presidente sobre el estado que guarda la administración de justicia, que se verificará antes de la segunda quincena del mes de marzo de cada año;
 
 XIV.- Enviar al Congreso del Estado, por lo menos noventa días antes de que concluya el plazo de ejercicio de cada Magistrado, la solicitud de ratificación que corresponda;
 
@@ -2111,11 +2129,11 @@ Ningún servidor público percibirá más de un sueldo, excepción hecha de los 
 
 Los servidores públicos que manejen fondos públicos, caucionarán su manejo a juicio del Ejecutivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 162.
 
-Toda erogación que se realice con cargo al Presupuesto de Egresos del Estado se hará conforme a lo dispuesto en la Ley Orgánica de la Administración Pública y en el propio Presupuesto.
+La Secretaría del ramo y áreas de su dependencia, no harán pago alguno que no vaya autorizado con la firma del Gobernador y del Secretario General de Gobierno, salvo que exista acuerdo delegatorio expreso.
 
 Los Tesoreros Municipales sólo harán pagos obedeciendo órdenes firmadas por el Presidente Municipal y el Secretario del Ayuntamiento. El Tesorero o empleado que desobedeciere esta regla, será castigado con la pena de destitución, sin perjuicio de consignarlo a la autoridad judicial competente.
 
@@ -2876,3 +2894,21 @@ P.O. 19 DE DICIEMBRE DE 2001.
 ###### ARTICULO UNICO
 
 - El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE DICIEMBRE DE 2001.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1o. de enero del año 2002.
+
+###### ARTICULO SEGUNDO.
+
+Las cuentas públicas relativas al ejercicio fiscal de 2001 y anteriores serán revisadas de acuerdo al procedimiento previsto con anterioridad a la entrada en vigencia del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Las cuentas públicas relativas al ejercicio fiscal de 2002 y posteriores serán revisadas de conformidad a lo dispuesto en el presente Decreto.
+
+###### ARTICULO CUARTO.
+
+La recepción del informe por el Pleno del Supremo Tribunal de Justicia, por parte de su Presidente, será a partir del que se rinda en el año 2002 y comprenderá el ejercicio del año 2001.
