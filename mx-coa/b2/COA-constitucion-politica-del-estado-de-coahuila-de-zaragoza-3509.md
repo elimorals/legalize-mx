@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1977-02-04"
+last_updated: "1978-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 1977.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 1978.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -280,43 +280,49 @@ Elección e Instalación.
 
 Se deposita el ejercicio del Poder Legislativo en una Asamblea que se denominará Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1943)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1978)</small>
 
 ###### Artículo 33.
 
-El Congreso del Estado se compondrá cuando menos de nueve diputados electos en su totalidad cada tres años por los ciudadanos Coahuilenses.
+El Congreso del Estado se compondrá de 12 Diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, y hasta 4 Diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas regionales, votadas en circunscripciones plurinominales. Por cada Diputado Propietario se elegirá un Suplente.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1978)</small>
 
 ###### Artículo 34.
 
-La elección de Diputados se hará dividiendo en distritos Electorales el Estado. Se elegirá un diputado propietario y un suplente por cada 100,000 habitantes, o por cada fracción que pase de 50,000, sirviendo como base el último censo practicado.
+La demarcación territorial de los 12 distritos electorales uninominales, será la que resulte de dividir la población total del Estado en los distritos señalados. La distribución de los distritos electorales uninominales se hará teniendo en cuenta el último censo general de población.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1974)</small>
+Para la elección de los 4 diputados según el principio de representación proporcional y el sistema de listas regionales, se constituirán hasta 2 circunscripciones electorales plurinominales en el Estado. La ley determinará la forma de establecer la demarcación territorial de estas circunscripciones.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1978)</small>
 
 ###### Artículo 35.
 
-La elección para diputados será directa, con sujeción a lo dispuesto en el artículo anterior, y se complementará, además, con diputados de partido, apegándose en ambos casos a lo que disponga la Ley Electoral y, en el segundo, a las siguientes reglas:
+La elección de los 4 Diputados, según el principio de la representación proporcional y el sistema de listas regionales, se sujetará a las bases generales siguientes y a lo que en lo particular disponga la Ley:
 
-I. Todo Partido Político Nacional o Estatal, que en la elección de diputados respectiva, obtengan el cuatro por ciento de la votación total registrada en el Estado, tendrá derecho a que se acrediten, de sus candidatos, a un diputado, y a uno más, hasta dos como máximo, si obtiene el ocho por ciento o más de los votos emitidos.
+I. Para obtener el registro de sus listas regionales, el partido político nacional o estatal que lo solicite, deberá acreditar que participa con candidatos o diputados por mayoría relativa en por lo menos seis de los 12 distritos uninominales.
 
-II. Si un Partido Político Nacional o Estatal logra mayoría de sufragios en dos o más distritos electorales, no tendrá derecho a que le sean reconocidos diputados de partido; pero si la mayoría la obtiene un solo distrito, tendrá derecho a que se le acredite un diputado de partido, siempre que obtenga cuando menos el cuatro por ciento mencionado en la fracción anterior.
+II. Tendrá derecho a que les sean atribuidos diputados electos según el principio de representación proporcional, todo aquel partido que: A) no haya obtenido dos o más constancias de mayoría, y B) que alcance por lo menos el 3% del total de la votación emitida para todas las listas regionales en las circunscripciones plurinominales.
 
-III. Los diputados de partido serán acreditados por riguroso orden de acuerdo con el número decreciente de sufragios que hayan logrado en relación a los demás candidatos del mismo partido en todo el Estado.
+III. Al partido que cumpla con los supuestos señalados en las fracciones I y II de este artículo, les serán asignados por el principio de representación proporcional el número de diputados de su lista regional que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal correspondiente. La Ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
 
-IV. Solamente podrán acreditar diputados en los términos de este artículo, los Partidos Políticos Nacionales o Estatales que hubieren obtenido su registro conforme a la Ley Electoral Federal y a la Ley Electoral del Estado de Coahuila, por lo menos con un año de anterioridad al día de la elección.
+IV. En el caso de que dos o más partidos con derecho a participar en la distribución de las listas regionales obtengan en su conjunto cuatro o más constancias de mayoría, sólo serán objeto de reparto el 50% de los curules que deban asignarse por el principio de representación proporcional.
 
-V. Los diputados de mayoría y los de partido, siendo representantes del pueblo de Coahuila como lo establece el artículo 33, tendrán la misma categoría e iguales derechos y obligaciones.
+V. Los Diputados de mayoría y los de representación proporcional, siendo representantes del pueblo de Coahuila, tendrán la misma categoría e iguales derechos y obligaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 1978)</small>
 
 ###### Artículo 36.
 
-Para ser diputado propietario o suplente se requiere:
+Para ser Diputado Propietario o Suplente, se requiere:
 
 > <small>(REFORMADA, P.O. 20 DE MAYO DE 1967)</small>
 
 I. Ser Ciudadano coahuilense y avecindado en el Estado cuando menos tres años continuos inmediatamente anteriores al día de la elección.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 1978)</small>
+
+Para poder figurar en las listas de las circunscripciones electorales plurinominales como candidato a diputado, se repuiere (sic) ser originario de alguno de los municipios que comprenda la circunscripción en la que se realice la elección, o vecino de ella con residencia efectiva de más de seis meses anteriores a la fecha en que la misma se celebre.
 
 > <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1974)</small>
 
@@ -356,17 +362,17 @@ Los Diputados recibirán las dietas que les haya señalado la Legislatura anteri
 
 Los Diputados, en funciones, sólo desempeñarán cargos de la Federación, del Estado o del Municipio, con licencia de la Legislatura o de la Diputación Permanente, pero entonces cesarán en su cargo, mientras dure la nueva comisión.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1978)</small>
 
 ###### Artículo 44.
 
-Los diputados efectuarán las juntas preparatorias que fueren necesarias para el examen y calificación de sus respectivas elecciones. El año en que deba renovarse el Congreso, concurrirán a junta pública los diputados electos y los miembros de la Diputación Permanente, seis días antes del señalado para el comienzo de las sesiones ordinarias, fungiendo como Presidente y Secretarios de esta Asamblea los que lo fueren de dicha Diputación. La Diputación Permanente emitirá su dictamen sobre la legitimidad de las credenciales y calidad de los Diputados electos por mayoría de sufragios y determinará los Diputados de Partido que deban acreditarse como arreglo al artículo 35 de esta Constitución. Las dudas que se suscitaren sobre las dos cuestiones anteriores, serán resueltas en forma definitiva por la Asamblea de Diputados de elección directa, a mayoría de votos, sin que en la votación intervengan los miembros de la Diputación Permanente.
+Los Diputados efectuarán las juntas preparatorias que fueren necesarias para el examen y calificación de sus respectivas elecciones. El año en que deba renovarse el Congreso, concurrirán a una junta pública los Diputados electos por votación mayoritaria relativa, dos presuntos Diputados electos en las circunscripciones plurinominales que obtuviesen la votación más alta y los miembros de la diputación permanente, seis días antes del señalado para el comienzo de las sesiones ordinarias, fungiendo como Presidente y Secretarios de esta asamblea los que lo fueren de dicha diputación. La diputación permanente emitirá su dictamen sobre la legitimidad de las credenciales y calidad de los Diputados electos por votación mayoritaria relativa y determinará los Diputados electos según el principio de representación proporcional que deban acreditarse con arreglo al artículo 35 de esta Constitución. Las dudas que se presenten sobre las dos cuestiones anteriores, serán resueltas en forma definitiva por la asamblea preparatoria, a mayoría de votos, sin que en la votación intervengan los miembros de la diputación permanente.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1978)</small>
 
 ###### Artículo 45.
 
-Si los miembros de la Diputación Permanente no concurrieren, los diputados que deban formar el nuevo Congreso, electos por mayoría de sufragios, procederán a examinar y calificar sus respectivas elecciones y acreditar los Diputados de Partido que proceda, conforme al artículo 35 de esta Constitución, resolviendo ambos asuntos a mayoría de votos.
+Si los miembros de la diputación permanente no concurrieren, los diputados que deban formar el nuevo Congreso electos por mayoría de sufragios y los dos presuntos Diputados electos en las circunscripciones plurinominales, procederán a examinar y calificar sus respectivas elecciones y acreditar los Diputados electos según el principio de representación proporcional.
 
 ### CAPITULO II.
 
@@ -1176,6 +1182,10 @@ Cada municipio estará administrado por un Ayuntamiento que será nombrado por e
 
 En los municipios que se cuenten hasta ocho mil habitantes, habrá un Presidente Municipal, un Regidor y un Síndico; en los municipios de más de ocho hasta treinta mil habitantes, habrá un Presidente Municipal, tres Regidores y un Síndico; en los que pasen de treinta mil habitantes, habrá un Presidente Municipal, cuatro Regidores y dos Síndicos.
 
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 1978)</small>
+
+En los municipios cuya población sea de 300,000 o más habitantes, de acuerdo con el último censo, habrá un Presidente Municipal, cuatro Regidores de mayoría relativa, un Regidor electo según el principio de representación proporcional; y dos Síndicos. Para determinar el Regidor que resulte electo según el principio de representación proporcional, se tendrá en cuenta la votación obtenida por los partidos minoritarios que participen en la elección, y de la planilla que resulte con mayor cantidad de votos se tomará al candidato que figure en primer término entre los postulados para el cargo de Regidor.
+
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1918)</small>
 
 ###### Artículo 125.
@@ -1941,5 +1951,9 @@ PRIMERO.- Se derogan todas las disposiciones legales que se opongan a este decre
 SEGUNDO.- El presente decreto entrará en vigor 30 días después de su publicación en el Periódico Oficial del Estado.
 
 P.O. 4 DE FEBRERO DE 1977.
+
+UNICO.- Las presentes reformas y adiciones entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE MARZO DE 1978.
 
 UNICO.- Las presentes reformas y adiciones entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
