@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-penales-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1967-07-19"
-last_updated: "1967-07-19"
+last_updated: "1986-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 1986.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 19 de julio de 1967.
 
@@ -273,13 +273,15 @@ Los tribunales pueden dictar de oficio los trámites y providencias encaminados 
 
 ### CAPITULO V. Correcciones Disciplinarias y Medios de Apremio
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1986)</small>
+
 ###### ARTICULO 40.
 
 Son correcciones disciplinarias:
 
 I.- Apercibimiento;
 
-II.- Multa de veinte a quinientos pesos;
+II.- Multa de una a diez cuotas;
 
 III.- Arresto hasta de quince días; y
 
@@ -293,11 +295,13 @@ Contra cualquiera providencia en que se imponga alguna corrección disciplinaria
 
 En vista de lo que manifieste el interesado, el funcionario que la hubiere impuesto resolverá desde luego lo que estime procedente.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1986)</small>
+
 ###### ARTICULO 42.
 
 El Ministerio Público en la averiguación previa, y los tribunales, podrán emplear, para hacer cumplir sus determinaciones, los siguientes medios de apremio:
 
-I.- Multa de veinte a quinientos pesos;
+I.- Multa de una a diez cuotas;
 
 II.- Auxilio de la fuerza pública; y
 
@@ -549,9 +553,11 @@ Cuando también el Ministerio Público abandonare el local en que se efectúe la
 
 ### CAPITULO XI. Resoluciones Judiciales
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1986)</small>
+
 ###### ARTICULO 88.
 
-Las resoluciones judiciales son: sentencias si terminan la instancia resolviendo el asunto en lo principal o decidiendo sobre la responsabilidad civil; y autos, en cualquier otro caso.
+Las resoluciones judiciales son: sentencias si terminan la instancia resolviendo el asunto en lo principal o decidiendo sobre la reparación del daño; y autos, en cualquier otro caso.
 
 Toda resolución expresará la fecha en que se pronuncie.
 
@@ -719,7 +725,7 @@ Lo mismo se hará tratándose de delitos que solamente puedan perseguirse por qu
 
 ###### ARTICULO 118.
 
-En el caso del artículo anterior, se procederá a levantar el acta correspondiente, que contendrá: la hora, fecha y modo en que se tenga conocimiento de los hechos, el nombre y carácter de la persona que dio noticia de ellos, y su declaración, así como de los testigos cuyos dichos sean más importantes y la del inculpado, si se encontrare presente; la descripción de los que haya sido objeto de inspección ocular; los nombres y domicilios de los testigos que no se hayan podido examinar; el resultado de la observación de las particularidades que se haya notado a raíz de ocurridos los hechos, en las personas que en ellas intervinieron; las medidas y providencias que se hayan tomado para la investigación de los hechos, así como los demás datos y circunstancias que se estime necesario hacer constar.
+En el caso del artículo anterior, se procederá a levantar el acta correspondiente, que contendrá: la hora, fecha y modo en que se tenga conocimiento de los hechos, el nombre y carácter de la persona que dio noticia de ellos, y su declaración, así como de los testigos cuyos dichos sean más importantes y la del inculpado, si se encontrare presente; la descripción de lo que haya sido objeto de inspección ocular; los nombres y domicilios de los testigos que no se hayan podido examinar; el resultado de la observación de las particularidades que se haya notado a raíz de ocurridos los hechos, en las personas que en ellas intervinieron; las medidas y providencias que se hayan tomado para la investigación de los hechos, así como los demás datos y circunstancias que se estime necesario hacer constar.
 
 ###### ARTICULO 119.
 
@@ -763,9 +769,11 @@ Contra la resolución del Procurador no cabe recurso alguno, pero puede ser moti
 
 ### CAPITULO III. Consignación ante los Tribunales
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1986)</small>
+
 ###### ARTICULO 128.
 
-Tan luego como aparezca de la averiguación previa que se han llenado los requisitos que exige el artículo 16 de la Constitución Federal para que pueda procederse a la detención de una persona, se ejercitará la acción penal señalando los hechos delictuosos que la motiven,
+Tan luego como aparezca de la averiguación previa que se han llenado los requisitos que exige el artículo 16 de la Constitución Federal para que pueda procederse a la detención de una persona, se ejercitará la acción penal señalando los hechos delictuosos que lo motiven y clasificando específicamente el delito que aparezca comprobado, cuando ello sea posible.
 
 No será necesario que se llenen los requisitos que exige el precepto constitucional citado, cuando el delito no merezca pena corporal o el Ministerio Público estime conveniente ejercitar desde luego la acción, si la importancia del caso lo amerita, y siempre que haya acuerdo expreso del Procurador de Justicia.
 
@@ -779,6 +787,8 @@ Al recibir el Ministerio Público diligencias de policía judicial, si hubiere d
 
 ### CAPITULO UNICO. Acción Penal
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1986)</small>
+
 ###### ARTICULO 130.
 
 En ejercicio de la acción penal, corresponde al Ministerio Público:
@@ -787,11 +797,11 @@ I.- Promover la incoación del procedimiento judicial;
 
 II.- Solicitar las órdenes de comparecencia para preparatoria y las de aprehensión, que sean procedentes;
 
-III.- Pedir el aseguramiento precautorio de bienes para los efectos de la responsabilidad civil, en su caso;
+III.- Pedir de oficio el aseguramiento precautorio para garantizar la reparación del daño causado;
 
 IV.- Rendir las pruebas de la existencia de los delitos y de la responsabilidad de los inculpados;
 
-V.- Pedir la aplicación de las sanciones respectivas; y
+V.- Pedir la aplicación de las sanciones respectivas y exigir de oficio el pago de la reparación del daño;
 
 VI.- En general, hacer todas las promociones que sean conducentes a la tramitación regular de los asuntos.
 
@@ -821,9 +831,11 @@ Las resoluciones que se dicten en los casos a que se refieren los dos artículos
 
 Para que el desistimiento de la acción penal produzca el efecto señalado en el artículo anterior, deberá ser formulado expresamente y de acuerdo con los requisitos fijados en este Código y en la Ley Orgánica del Ministerio Público, pero siempre con la autorización escrita del Procurador de Justicia.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1986)</small>
+
 ###### ARTICULO 135.
 
-La persona ofendida por un delito no es parte en el procedimiento penal salvo que haya demandado la responsabilidad civil correspondiente; y si no lo ha hecho podrá proporcionar al Ministerio Público, por sí, o por apoderado todos los datos que tenga y que conduzcan a comprobar la existencia del delito y la responsabilidad del inculpado, para que, si lo estima pertinente, en ejercicio de la acción penal los ministre a los tribunales.
+La persona ofendida por un delito no es parte en el procedimiento penal salvo que haya demandado el pago de la reparación del daño correspondiente; y si no lo ha hecho podrá proporcionar al Ministerio Público, por sí, o por apoderado todos los datos que tenga y que conduzca a comprobar la existencia del delito y la responsabilidad del inculpado, para que, si lo estima pertinente, en ejercicio de la acción penal los ministre a los tribunales.
 
 ## TITULO CUARTO. PERIODO CONSTITUCIONAL
 
@@ -1033,7 +1045,7 @@ En los casos dudosos el médico deberá mandar practicar las averiguaciones de l
 
 ### CAPITULO II. Huellas del Delito, y Aseguramiento de
 
-los Instrumentos y Objetos del mismo
+los Instrumentos y Objetos del Mismo
 
 ###### ARTICULO 174.
 
@@ -1163,15 +1175,17 @@ Al ser aprehendido un empleado o funcionario público se comunicará la detenci�
 
 Cuando debe aprehenderse a un empleado oficial o a un particular, que en ese momento esté trabajando en un servicio público, se procurará que éste no se interrumpa, tomándose las providencias necesarias a fin de que el inculpado no se fugue entre tanto se obtiene su relevo.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1986)</small>
+
 ###### ARTICULO 197.
 
 Para la aprehensión de un funcionario federal que goce de fuero constitucional o de otro fuero legal, se procederá de acuerdo con lo que dispongan la Constitución General de la República y las leyes respectivas.
 
-Para la aprehensión de un funcionario del Estado que disfrute de fuero constitucional, se procederá de acuerdo con los artículos 111, 112, 113, y 117 de la Constitución Política del Estado.
+Para la aprehensión de un funcionario del Estado que disfrute de fuero constitucional, se procederá de acuerdo con los artículos 108, 109, 110, 111, 112, 113, 114, y 115 de la Constitución Política del Estado.
 
-Los jueces de primera instancia y los agentes del Ministerio Público de su adscripción, así como los adscritos a la Procuraduría de Justicia, no podrán ser detenidos por autoridad alguna, aun cuando se les impute la comisión de alguna falta o delito, sino hasta que la autoridad que deba conocer del asunto respectivo pida: al Pleno del Supremo Tribunal si se trata de los jueces y al Procurador General de Justicia si se tratare los agentes del Ministerio Público, que los pongan a su disposición y estos funcionarios superiores lo resuelvan así. Lo anterior no será obstáculo para que se sujete al funcionario inculpado a la vigilancia de la policía, para evitar que se sustraiga a la acción de la justicia.
+Los jueces de primera instancia y los agentes del Ministerio Público de su adscripción, así como los adscritos a la Procuraduría de Justicia, no podrán ser detenidos por autoridad alguna, aun cuando se les impute la comisión de alguna falta o delito, sino hasta que la autoridad que deba conocer el asunto respectivo pida: al Pleno del Supremo Tribunal si se trata de los jueces y al Procurador General de Justicia si se trata de los agentes del Ministerio Público, que los pongan a su disposición y estos funcionarios superiores lo resuelvan así. Lo anterior no será obstáculo para que se sujete al funcionario inculpado a la vigilancia de la policía, para evitar que se sustraiga a la acción de la justicia.
 
-Al funcionario, empleado o agente de la autoridad que efectúe una detención de un juez o de un agente del Ministerio Público, contra lo dispuesto en este artículo, le será aplicada por el Presidente del Tribunal Superior, o por el Procurador General de Justicia, en su caso, corrección disciplinaria consistente en multa de cien a quinientos pesos o arresto de cinco a quince días, o ambas correcciones, según se estime conveniente, sin perjuicio de la consignación al Ministerio Público por el delito que resulte de la detención ilegal.
+Al funcionario, empleado o agente de la autoridad que efectúe una detención de un juez o de un agente del Ministerio Público, contra lo dispuesto en este artículo, le será aplicado por el Presidente del Supremo Tribunal o por el Procurador General de Justicia, en su caso, corrección disciplinaria consistente en multa de una a diez cuotas o arresto hasta de quince días o ambas sanciones, según se estime conveniente, sin perjuicio de la consignación del Ministerio Público por el delito que resulte de la detención ilegal.
 
 ###### ARTICULO 198.
 
@@ -1381,11 +1395,13 @@ III.- Cuando ignore el idioma castellano.
 
 En el caso de la fracción I el funcionario que practique las diligencias designará a otra persona para que acompañe al testigo, la que firmará la declaración después de que éste la haya ratificado; en los casos de las fracciones II y III se procederá conforme lo dispone el Capítulo III del Título Primero de este Código.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1986)</small>
+
 ###### ARTICULO 240.
 
-Antes de que los testigos comiencen a declarar se les instruirá de las penas que el Código Penal establece para los que se producen con falsedad o se niegan a protestar o a declarar. Esto se podrá hacer hallándose reunidos todos los testigos.
+Antes de que los testigos comiencen a declarar se les instruirá de las penas que el Código Penal establece para los que se producen con falsedad o se niegan a protestar o declarar. Esto se podrá hacer hallándose reunidos todos los testigos.
 
-A los menores de diecisiete años, en vez de hacérseles saber las penas en que incurren los que se producen con falsedad, se les exhortará para que se conduzcan con verdad.
+A los menores de dieciséis años, en vez de hacerles saber las penas en que incurren los que se producen con falsedad, se les exhortará para que se conduzcan con verdad.
 
 ###### ARTICULO 241.
 
@@ -1417,9 +1433,11 @@ Siempre que se examine a una persona cuya declaración sea sospechosa de falta d
 
 Concluida la diligencia se leerá al testigo su declaración o la leerá él mismo, si quisiere, para que la ratifique o la enmiende, y después de eso será firmada por el testigo y su acompañante si lo hubiere.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1986)</small>
+
 ###### ARTICULO 248.
 
-Si de lo actuado apareciere que algún testigo se ha producido con falsedad, se mandarán compulsar las constancias conducentes para la investigación de ese delito y se hará la consignación respectiva al Ministerio Público, sin que esto sea motivo para que se suspenda el procedimiento; si en el momento de rendir su declaración el testigo apareciere que es manifiesta la comisión del delito de falsedad, será detenido desde luego y consignado al Ministerio Público.
+Si de lo actuado apareciere que algún testigo se ha conducido con falsedad, se mandarán compulsar las constancias conducentes para la investigación de ese delito y se hará la consignación respectiva al Ministerio Público, sin que esto sea motivo para que se suspenda el procedimiento; si en el momento de rendir su declaración el testigo apareciere que es manifiesta la comisión del delito de falsedad, será detenido desde luego y consignado al Ministerio Público.
 
 ###### ARTICULO 249.
 
@@ -1785,9 +1803,11 @@ Solamente los autos contra los cuales no se concede por este Código el recurso 
 
 También lo serán las resoluciones que se dicten en segunda instancia antes de la sentencia.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1986)</small>
+
 ###### ARTICULO 313.
 
-Interpuesto el recurso, en el acto de la notificación o dentro de las veinticuatro horas siguientes, el tribunal lo resolverá de plano si estimare que no es necesario oír a las partes. En caso contrario, las citará a audiencia verbal que se efectuará dentro de las cuarenta y ocho horas siguientes y en ella dictará su resolución, contra la que no procede recurso alguno.
+Interpuesto el recurso, en el acto de la notificación y dentro de las veinticuatro horas siguientes, el tribunal lo resolverá de plano si estimare que no es necesario oír a las partes. En caso contrario, los citará a audiencia verbal que se efectuará dentro de los tres días siguientes y en ella dictará su resolución, contra la que no procede recurso alguno.
 
 ### CAPITULO II. Apelación
 
@@ -2059,17 +2079,19 @@ Los bienes inmuebles de los fiadores deben tener, cuando menos, un valor tres ve
 
 Las fianzas de que habla este Capítulo se extenderán en la misma pieza de autos o se agregarán a éstos.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1986)</small>
+
 ###### ARTICULO 361.
 
-El fiador, excepto cuando se trate de instituciones de crédito o de empresas afianzadoras legalmente constituidas y autorizadas, las cuales no será necesario que tengan bienes raíces inscritos en el Registro Público de la Propiedad, declarará ante el tribunal, bajo protesta de decir verdad, si ha otorgado con anterioridad alguna otra fianza judicial y, en su caso, la cuantía y circunstancias de la misma, para que esa declaración se tome en cuenta al calificar su solvencia.
+El fiador, excepto cuando se trate de instituciones de crédito o de empresas afianzadoras legalmente constituidas y autorizadas, las cuales no será necesario que tengan bienes raíces inscritas en el Registro Público de la Propiedad, declarará ante el tribunal, bajo protesta de decir verdad, si ha otorgado con anterioridad alguna otra fianza judicial y, en su caso, la cuantía y circunstancias de la misma, para que esa declaración se tome en cuenta al calificar su solvencia.
 
-El Tribunal Superior de Justicia llevará un registro en que se anotarán las fianzas otorgadas ante el mismo y ante los tribunales de su jurisdicción, a cuyo efecto, estos últimos, en el término de tres días, deberán comunicarle las que hayan aceptado y la cancelación respectiva, en su caso, para que todo ello se registre.
+El Supremo Tribunal de Justicia llevará un registro en que se anotarán las fianzas otorgadas ante el mismo y ante los tribunales de su jurisdicción, a cuyo efecto, estos últimos, en el término de tres días, deberán comunicarle las que hayan aceptado y la cancelación respectiva, en su caso, para que todo ello se registre.
 
-Las autoridades administrativas del Estado, están obligadas a comunicar al Tribunal Superior, el resultado de las gestiones para hacer efectivas las fianzas a que este Capítulo se refiere, lo que también se anotará en el registro.
+Las autoridades administrativas del Estado, están obligadas a comunicar al Supremo Tribunal, el resultado de las gestiones para hacer efectivas las fianzas a que este Capítulo se refiere, lo que también se anotará en el registro.
 
-La falta de cumplimiento de las obligaciones que impone este artículo, se corregirá disciplinariamente con multa de veinte a quinientos pesos.
+La falta de cumplimiento de las obligaciones que impone este artículo, se corregirá disciplinariamente con multa de una a diez cuotas.
 
-Cuando del registro aparezca la insolvencia de un fiador, el Tribunal Superior lo comunicará por circular a todos los tribunales de su jurisdicción, para el efecto de que no se le vuelva a admitir como fiador.
+Cuando del registro aparezca la insolvencia de un fiador, el Supremo Tribunal lo comunicará por circular a todos los tribunales de su jurisdicción, para el efecto de que no se le vuelva a admitir como fiador.
 
 ###### ARTICULO 362.
 
@@ -2137,9 +2159,11 @@ IV.- Cuando el acusado sea absuelto; y
 
 V.- Cuando resulte condenado el acusado y se presente a cumplir su condena.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1986)</small>
+
 ###### ARTICULO 368.
 
-En los casos del primer párrafo del artículo 365 y de la última parte del párrafo primero del artículo 366, la autoridad fiscal conservará en su poder el importe de la caución que se haya hecho efectiva entre tanto no se resuelva sobre el pago de la responsabilidad civil.
+En los casos del primer párrafo del artículo 365 y de la última parte del párrafo primero del 366, la autoridad fiscal conservará en su poder el importe de la caución que se haya hecho efectiva entre tanto no se resuelva sobre el pago de la reparación del daño.
 
 ### CAPITULO II. Libertad Provisional Bajo Protesta
 
@@ -2577,39 +2601,57 @@ El incidente sobre separación de autos se substanciará por separado, en la mis
 
 Cuando varios tribunales conocieren de procesos cuya separación se hubiere decretado, el que primero pronuncie sentencia ejecutoria procederá en los términos del artículo 427.
 
-### CAPITULO VI. Responsabilidad Civil
+> <small>(REFORMADA LA DENOMINACION, P.O. 20 DE AGOSTO DE 1986)</small>
+
+### CAPITULO VI. De la Reparación del Daño
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1986)</small>
 
 ###### ARTICULO 439.
 
-La acción de responsabilidad civil que deba exigirse al inculpado se deducirá ante el Juez que conozca del proceso, en cualquier estado de la instrucción y hasta antes de que se dicte el auto que ponga la causa a la vista de las partes, en los términos expresados por el artículo 118 del Código Penal.
+La reparación del daño que deba exigirse al inculpado se hará valer de oficio por el Ministerio Público ante el Juez que conozca del proceso en cualquier estado de la instrucción y hasta antes de que se dicte el auto que ponga la causa a la vista de las partes, en los términos expresados por el artículo 118 del Código Penal.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1986)</small>
 
 ###### ARTICULO 440.
 
-Cuando la acción civil haya pasado al Estado por renuncia expresa de los que tienen derecho al pago de la responsabilidad civil, el Ministerio Público en representación de aquél, deducirá la acción ante el mismo juez del proceso hasta antes de que se cite para la audiencia del juicio a que se refiere el Artículo 298 de este Código.
+Cuando la reparación del daño haya pasado al Estado por renuncia expresa de los que tienen derecho a su pago, el Ministerio Público en su representación, deducirá la acción ante el mismo juez del proceso en cualquier estado de la instrucción y hasta antes de que se cite para la audiencia del juicio a que se refiere el Artículo 298 de este Código.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1986)</small>
 
 ###### ARTICULO 441.
 
-Deberá intentarse o continuarse la acción civil ante los tribunales civiles:
+Puede intentarse la reparación del daño en forma de acción de responsabilidad civil ante los Tribunales Civiles, lo mismo en contra del inculpado que de terceros:
 
 I.- Cuando el Ministerio Público no haya ejercitado la acción penal;
 
-II.- Cuando recaiga sentencia irrevocable sobre la acción penal sin que el incidente sobre la acción civil esté todavía en estado de sentencia; y
+II.- Cuando habiendo ejercitado la acción penal el Ministerio Público, el inculpado se encuentre sustraído a la acción de la justicia;
 
-III.- Siempre que se haya extinguido la acción penal por causa que no afecte o extinga la responsabilidad civil.
+III.- Cuando habiendo sido detenido el inculpado, se sustraiga a la acción de la justicia con suspensión del procedimiento;
+
+IV.- Cuando se haya decretado sobreseimiento;
+
+V.- Siempre que se haya extinguido la acción penal por causa que no afecte o extinga la reparación del daño.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1986)</small>
 
 ###### ARTICULO 442.
 
-La persona que desee intentar una demanda por responsabilidad civil, podrá, si fuere notoriamente desvalida, hacerse representar por el Ministerio Público, bastando para ello que en carta poder, en la demanda misma o en escrito ratificado o comparecencia ante el juzgado o tribunal que conozca o deba conocer del negocio, lo manifieste así. En este caso el Ministerio Público tendrá las facultades de un mandatario; y podrá la parte contraria objetar el carácter, demostrando que no se está en el caso excepcional a que se refiere este párrafo.
+La persona que desee intentar una demanda por responsabilidad civil contra terceros podrá, si fuere notoriamente desvalida, hacerse representar por el Ministerio Público bastando para ello que en carta poder, en la demanda misma o en escrito ratificado o comparecencia ante el Juzgado o Tribunal que conozca o deba conocer del negocio, lo manifieste así. En este caso el Ministerio Público tendrá las facultades de un mandatario; y podrá la parte contraria objetar el carácter, demostrando que no se está en el caso excepcional a que se refiere este párrafo.
 
 Cuando la persona que tenga derecho al pago de la responsabilidad civil no sea indigente, podrá hacerse representar por el Ministerio Público, por alguno de los medios expresados en el párrafo anterior. En este caso pagará al Agente que lo represente, por concepto de honorarios el diez por ciento de lo que se obtenga.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1986)</small>
+
 ###### ARTICULO 443.
 
-La acción para exigir la responsabilidad civil a personas distintas del inculpado, de acuerdo con el artículo 121 del Código Penal, debe ejercitarse por quien tenga derecho a ello ante el tribunal que conozca de lo penal; pero deberá intentarse y seguirse ante el tribunal de lo civil, en el juicio que corresponda, cuando haya recaído sentencia irrevocable en el proceso, sin haberse intentado dicha acción, siempre que el que la intente fuere un particular. Esto mismo se observará cuando, concluida la instrucción no hubiere lugar al juicio penal por falta de acusación del Ministerio Público y se promueva posteriormente la acción civil.
+La acción para exigir la responsabilidad civil a personas distintas del inculpado, de acuerdo con el artículo 121, del Código Penal, puede ejercitarse por quien tenga derecho a ello ante el Tribunal que conozca de lo penal; pero deberá intentarse y seguirse ante el tribunal de lo Civil, en el juicio que corresponda, cuando haya recaído sentencia irrevocable en el proceso, sin haberse intentado dicha acción, siempre que el que la intente fuere un particular. Esto mismo se observará cuando, concluida la instrucción no hubiere lugar al juicio penal por falta de acusación del Ministerio Público y se promueva posteriormente la acción civil.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1986)</small>
 
 ###### ARTICULO 444.
 
-Cuando promovidas las dos acciones hubiere concluido el proceso, sin que el incidente de responsabilidad civil esté en estado de sentencia, se procederá conforme a lo dispuesto en la fracción II del artículo 441 de este Código.
+Cuando promovidas las dos acciones hubiere concluido el proceso, sin que el incidente de responsabilidad civil esté en estado de sentencia, se procederá conforme a lo dispuesto por el artículo 441 de este Código.
 
 ###### ARTICULO 445.
 
@@ -2617,11 +2659,11 @@ Todos los incidentes sobre responsabilidad civil que se sigan ante los tribunale
 
 ###### ARTICULO 446.
 
-Si el inculpado se encuentra prófugo, el emplazamiento para contestar la demanda se hará por medio de cédula en el domicilio del demandado, si es conocido; y si no lo fuere, por medio de edictos que se publicarán en el Periódico Oficial y en otro de los de mayor circulación en el Estado, por tres veces consecutivas.
+(DEROGADO, P.O. 20 DE AGOSTO DE 1986)
 
 ###### ARTICULO 447.
 
-En el caso de hallarse prófugo el inculpado, se ha continuará la tramitación del incidente hasta dictarse sentencia.
+(DEROGADO, P.O. 20 DE AGOSTO DE 1986)
 
 ###### ARTICULO 448.
 
@@ -2725,9 +2767,11 @@ En el caso a que se refiere la fracción III del artículo 418, se remitirá al 
 
 ### CAPITULO II. Menores
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1986)</small>
+
 ###### ARTICULO 467.
 
-La represión de las infracciones a la ley penal cometidas por menores de diecisiete años, se hará de acuerdo con la Ley sobre Organización y Funcionamiento de los Tribunales para Menores en el Estado.
+La represión de las infracciones a la Ley Penal cometidas por menores de dieciséis años se hará de acuerdo con el Código Tutelar para Menores en el Estado de Zacatecas.
 
 TITULO DECIMOTERCERO
 
@@ -2853,9 +2897,11 @@ Recibida la solicitud se resolverá, sin más trámite lo que fuere procedente.
 
 Dictada la resolución se comunicará al tribunal que haya conocido del proceso y al jefe de la prisión en que se encuentre el reo. El tribunal deberá mandar notificar la resolución al interesado.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1986)</small>
+
 ###### ARTICULO 493.
 
-En los casos a que se refiere el artículo 75 del Código Penal, se seguirá el procedimiento señalado por los artículos anteriores, sin que pueda modificarse lo que se relacione con la responsabilidad civil.
+En los casos a que se refiere el artículo 75 del Código Penal, se seguirá el procedimiento señalado por los artículos anteriores, sin que pueda modificarse lo que se relacione con la reparación del daño.
 
 ###### ARTICULO 494.
 
@@ -2968,3 +3014,9 @@ Jesús Rodríguez Elías.
 El Secretario General de Gobierno,
 
 Lic. Alejandro Borrego Acuña.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 20 DE AGOSTO DE 1986
+
+PRIMERO.- Las reformas y adiciones a que se refiere este Decreto, entrará en vigor a los treinta días siguientes a la fecha de su publicación en el Periódico Oficial Organo del Gobierno del Estado.
