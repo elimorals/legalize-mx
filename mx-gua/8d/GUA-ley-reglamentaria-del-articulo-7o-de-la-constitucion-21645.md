@@ -4,7 +4,7 @@ identifier: "GUA-ley-reglamentaria-del-articulo-7o-de-la-constitucion-21645"
 country: "mx"
 rank: "ley"
 publication_date: "1959-08-16"
-last_updated: "1959-08-16"
+last_updated: "1960-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY REGLAMENTARIA DEL ARTICULO 4o. DE LA CONSTITUCION POLITICA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 1960.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato el 16 de agosto de 1959.
 
@@ -183,7 +183,9 @@ DE LOS COLEGIOS DE PROFESIONISTAS.
 
 Todos los profesionistas de una misma rama constituirán en las ciudades de su residencia, colegios gobernados por un Consejo compuesto por un Presidente, un Secretario, un Tesorero y los Vocales que señalen sus Estatutos, según sus necesidades.
 
-Para constituir un colegio de profesionistas se requiere un número no menor de 10 miembros.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1960)</small>
+
+Para constituir un Colegio de Profesionistas se requiere un número no menor de tres miembros.
 
 Los profesionistas de los lugares que no tengan el número de miembros para integrar un colegio, se considerarán incorporados al colegio respectivo más próximo. Igualmente se considerarán incorporados al colegio profesional más próximo, cuando existiendo el número de miembros necesarios, no se constituye el colegio en el lugar.
 
@@ -267,6 +269,10 @@ I.- Que lo soliciten ante la Dirección de Profesiones dentro de un término no 
 
 II.- Someterse a una prueba o examen, en que demuestren tener los conocimientos científicos mínimos que se requieran para el ejercicio de sus actividades profesionales. El examen en cuestión será practicado por la Universidad de Guanajuato, observando en lo conducente lo establecido por su Ley Orgánica.
 
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1960)</small>
+
+El examen en cuestión será practicado por la Universidad de Guanajuato observando en lo conducente lo establecido por su Ley Orgánica; pero si dentro de los Planes de Estudio que rigen en la propia Universidad no se encuentra establecida la carrera que corresponda al examen del Práctico, se atenderá a los Planes de la Universidad Nacional Autónoma de México y el examen podrá ser realizado por profesionistas que ejerzan con título legalmente registrado en la Capital del Estado cuyo número será de tres, aun cuando no presten servicios en el personal docente de la Universidad de Guanajuato.
+
 A la solicitud a que se refiere la Fracción I, la Dirección de Profesiones deberá de contestar en un término no mayor de 10 días, señalando al interesado la fecha en que deba tener verificativo el examen a que se refiere la Fracción anterior, en el concepto de que esa fecha no podrá exceder de 90 días a partir de la contestación. De esta contestación se enviará copia al colegio de profesionistas que corresponda.
 
 Si el interesado resulta aprobado en la prueba o examen a que se le someta, se le expedirá cédula para el ejercicio de su actividad.
@@ -304,3 +310,9 @@ JESUS RODRIGUEZ GAONA.
 El Secretario General del Gobierno.
 
 LIC. FELIPE RIOS CORTES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE FEBRERO DE 1960.
+
+Unico.- Este decreto surtirá efectos a partir de la fecha de publicación en el Periódico Oficial del Gobierno del Estado.
