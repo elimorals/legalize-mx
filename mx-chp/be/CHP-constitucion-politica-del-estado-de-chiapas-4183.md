@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1973-12-19"
+last_updated: "1974-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1974.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -111,7 +111,7 @@ II.- Desempeñar los cargos concejiles del Municipio de su vecindad, las funcion
 
 ### CAPITULO I. DEL PODER LEGISLATIVO
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1974)</small>
 
 ###### ARTICULO 7.
 
@@ -123,7 +123,7 @@ II.- Los de petición y asociación en los asuntos políticos del Estado.
 
 ### CAPITULO II. DE LA ELECCION E INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1974)</small>
 
 ###### ARTICULO 8.
 
@@ -271,17 +271,33 @@ No podrán reunirse dos o más de estos poderes en una sola persona o corporaci�
 
 ###### ARTICULO 16.
 
-El Poder Legislativo se depositará en una Asamblea de Representantes que se denominará Congreso del Estado de Chiapas.
+El Poder Legislativo se depositará en una Asamblea de Representantes del Pueblo que se denominará Congreso del Estado de Chiapas.
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 17.
 
-El Congreso del Estado de Chiapas, se integrará por Diputados electos en su totalidad cada tres años, sin que puedan ser reelectos para el período inmediato; su elección será libre y directa.
+El Congreso del Estado de Chiapas, se integrará con diputados electos en su totalidad cada tres años y se complementará, además, con diputados de partido, apegándose en ambos casos, a lo dispuesto en esta Constitución y a la Ley Electoral del Estado.
 
-Los Diputados suplentes podrán ser electos para el período siguiente con el carácter de propietarios, siempre que no hubiesen estado en ejercicio; pero los propietarios no podrán ser electos en dicho período con el carácter de suplentes.
+La elección será libre, directa, por mayoría relativa, uninominal y por distritos electorales.
 
-Para la elección de Diputados, el Estado se dividirá en tantos Distritos Electorales cuanto demanda el censo de su población, designándose uno por cada doscientos mil habitantes o fracción que exceda de la mitad, sin que su número sea menor de once. Cada Distrito Electoral eligirá (sic) un Diputado Propietario y un Suplente.
+Los diputados a la Legislatura del Estado, de mayoría y los de partido, no podrán ser reelectos para el período inmediato.
+
+Los diputados suplentes podrán ser reelectos para el período inmediato con el carácter de propietarios, siempre que no hubiesen estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
+
+El número de representantes a la Legislatura Local será proporcional al de los habitantes del Estado de Chiapas. En consecuencia, para la elección de diputados, el Estado se dividirá en tantos distritos electorales cuantos demande el censo general de su población, designándose uno por cada doscientos mil habitantes o fracción que exceda de la mitad, sin que su número sea menor de trece. Cada distrito electoral elegirá un diputado propietario y un suplente.
+
+Por lo que se refiere a los diputados de partido, se aplicarán las reglas siguientes:
+
+I.- Todo partido político nacional o estatal, registrado legalmente, al obtener el tres por ciento de la votación total del Estado, en la elección respectiva, tendrá derecho a que se le acredite, de sus candidatos un diputado y hasta uno más si obtiene el diez por ciento o más del total de los votos emitidos.
+
+II.- Si logra la mayoría en dos o más distritos electorales, no tendrá derecho a diputado de partido, pero si la obtiene en un distrito, se le reconocerá solamente un diputado de partido, siempre que obtenga el diez por ciento mencionado en la fracción anterior.
+
+III.- Los diputados de partido se acreditarán en riguroso orden, de acuerdo con el porcentaje de sufragios que hayan logrado en relación a los demás candidatos del mismo partido.
+
+IV.- Los diputados de mayoría y los de partido, siendo representantes del pueblo, tienen la misma categoría e iguales derechos y obligaciones.
+
+V.- Solamente podrán acreditar diputados de partido, en los términos de las fracciones anteriores, los partidos políticos nacionales o estatales, que hubieren obtenido legalmente su registro, por lo menos con un año de anterioridad al día de la elección.
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
@@ -1532,6 +1548,10 @@ P.O. 19 DE DICIEMBRE DE 1973.
 DECRETO No. 87, QUE REFORMA EL ARTICULO 2 CONSTITUCIONAL.
 
 UNICO.- Este Decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE NOVIEMBRE DE 1974.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### Artículo 2o.
 
