@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-carrera-de-agente-del-ministerio-publico-56"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-05-17"
-last_updated: "1993-05-17"
+last_updated: "2002-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1993-05-14"
 ---
 # REGLAMENTO DE LA CARRERA DE AGENTE DEL MINISTERIO PUBLICO FEDERAL
 
-REGLAMENTO DE LA CARRERA DE AGENTE DEL MINISTERIO PUBLICO FEDERAL.
+REGLAMENTO DE LA CARRERA DE AGENTE DEL MINISTERIO PUBLICO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 27 DE DICIEMBRE DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación el lunes 17 de mayo de 1993.
 
@@ -578,3 +580,25 @@ TERCERO. Los Agentes del Ministerio Público Federal cualquiera que sea su categ
 CUARTO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de mayo de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 27 DE DICIEMBRE 2002.
+
+PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga la Ley Orgánica de la Procuraduría General de la República publicada en el Diario Oficial de la Federación el día 10 de mayo de 1996, con excepción de lo dispuesto en los artículos transitorios siguientes. Continuarán vigentes las normas expedidas con apoyo en la Ley que se abroga, cuando no se opongan a la presente.
+
+TERCERO.- Se abrogan los Reglamentos de la Carrera de Agente del Ministerio Público Federal y de la Carrera de Policía Judicial Federal, publicados en el Diario Oficial de la Federación el 17 de mayo de 1993 y 26 de marzo de 1993, respectivamente.
+
+CUARTO.- Los procedimientos de responsabilidad administrativa y de remoción iniciados con antelación a la entrada en vigor de la presente Ley serán resueltos por el Consejo de Profesionalización, de conformidad con lo dispuesto en la Ley Orgánica de la Procuraduría General de la República publicada en el Diario Oficial de la Federación el 10 de mayo de 1996.
+
+QUINTO.- En tanto se expide el Reglamento de la Ley Orgánica de la Procuraduría General de la República, el cual deberá expedirse en un plazo no mayor de ciento ochenta días naturales a partir de la entrada en vigor de esta Ley, se aplicará el Reglamento publicado en el Diario Oficial de la Federación el 27 de agosto de 1996 y sus reformas, en todo aquello que no se oponga a las disposiciones de la presente Ley.
+
+SEXTO.- En tanto se expiden las disposiciones reglamentarias del Servicio de Carrera de Procuración de Justicia Federal, el Consejo de Profesionalización estará facultado para emitir normas generales relativas al desarrollo y operación de dicho Servicio.
+
+SÉPTIMO.- Los agentes del Ministerio Público, de la policía federal investigadora y peritos que a la entrada en vigor del presente ordenamiento se encuentren laborando en la Procuraduría General de la República, se someterán a las disposiciones reglamentarias del Servicio de Carrera de Procuración de Justicia Federal que se expidan para tal efecto.
+
+OCTAVO.- Las referencias que se hagan en otras disposiciones legales a la Policía Judicial Federal, se entenderán hechas a la policía federal investigadora.
+
+NOVENO.- Cuando se expida el Reglamento de la Ley Orgánica de la Procuraduría General de la República, las menciones a la unidad especializada a que se refiere el artículo 8o. de la Ley Federal contra la Delincuencia Organizada, se entenderán hechas a la unidad administrativa que se establezca en dicho ordenamiento reglamentario.
