@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1974-11-09"
+last_updated: "1977-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 1974.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 1977.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -60,9 +60,11 @@ La forma de Gobierno en el Estado es republicana, representativa y popular, teni
 
 El territorio del Estado es el que se comprende dentro de los límites que legalmente le corresponden, siendo un deber de las autoridades y de los ciudadanos conservarlo y defenderlo.
 
+REFORMADO, P.O. 4 DE FEBRERO DE 1977)
+
 ###### Artículo 6º.
 
-El Estado se divide en cinco Distritos Judiciales, que se dominan: Saltillo, Monclova, Río Grande, Parras y Viesca, comprendiendo cada uno las municipalidades que les señale la ley.
+El Estado se divide en seis distritos judiciales que se dominan: Saltillo, Monclova, Sabinas, Río Grande, Parras y Viesca, comprendiendo cada uno las municipalidades que les señale la ley.
 
 El Poder Legislativo podrá aumentar el número de distritos y modificar la división política del territorio del Estado, cuando así lo exija el buen servicio público.
 
@@ -384,11 +386,11 @@ El Congreso podrá reunirse en sesiones extraordinarias cada vez que fuere convo
 
 Las sesiones extraordinarias deberán cerrarse precisamente antes del día en que deban celebrarse las ordinarias, aún cuando no hayan sido despachados los asuntos que motivaron la convocatoria, los que se resolverán de preferencia en el período ordinario.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 1956)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 49.
 
-El Gobernador del Estado asistirá cada dos años a la apertura de las sesiones ordinarias y leerá un informe sobre el estado y las necesidades de la Administración. El Presidente de la Cámara le contestará en términos generales.
+El Gobernador del Estado asistirá cada año a la apertura de las sesiones ordinarias y leerá un informe sobre el estado y las necesidades de la Administración. El Presidente de la Cámara lo contestará en términos generales.
 
 ###### Artículo 50.
 
@@ -402,9 +404,13 @@ La Legislatura no podrá ejercer sus funciones sin la concurrencia de más de la
 
 Para que una disposición del Congreso se tenga como legítima es necesario que sea aprobada por mayoría de votos de los Diputados presentes, excepto en aquellos casos en que esta Constitución exija mayor número.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
+
 ###### Artículo 53.
 
-Al discutirse los dictámenes sobre iniciativas de Justicia, podrán asistir a las sesiones el Magistrado o Magistrados que el Superior Tribunal designe y a quienes se les concederá el uso de la palabra del mismo modo que a los Diputados, pero no votarán. En las mismas condiciones asistirá el Secretario del Ejecutivo del Estado cuando el Congreso o el Gobernador lo acuerden y el Tesorero General del Estado a tratar los negocios concernientes a su respectivo ramo de Administración.
+Al discutirse los dictámenes sobre iniciativas de leyes concernientes a la Administración de Justicia y Codificación, podrán asistir a las sesiones el Magistrado o Magistrados que el Supremo Tribunal designe y a quienes se les concederá el uso de la palabra para que opinen o informen sobre dichos dictámenes.
+
+El Congreso del Estado podrá solicitar del Gobernador la comparecencia del Secretario del Ejecutivo, del Tesorero General y de los titulares de las Direcciones Generales del Estado, así como de los Representantes de los Organismos Descentralizados y Empresas de Participación Estatal, para que informen cuando se discuta una Ley o se estudie un negocio concerniente a sus respectivas ramas o actividades.
 
 ###### Artículo 54.
 
@@ -488,21 +494,25 @@ Las leyes o decretos se comunicarán al Ejecutivo, firmados por el Presidente y 
 
 La derogación o reformas de las leyes, se hará con los mismos requisitos y formalidades prescritos para su formación.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
+
 ###### Artículo 66.
 
-La promulgación de las leyes o decretos se hará bajo la siguiente fórmula:
+La promulgación de las leyes, o decretos, se hará bajo la siguiente fórmula:
 
-"N. N. Gobernador Constitucional del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, a sus habitantes, sabed: Que el Congreso del mismo a decretado lo siguiente:"
+"N. N., Gobernador Constitucional del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, a sus habitantes, sabed:
 
-"El Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, decreta:"
+Que el Congreso del mismo a decretado lo siguiente:
+
+"El Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, decreta:
 
 (Aquí el texto).
 
-"Dado en el Salón de Sesiones del Congreso del Estado, [lugar, fecha y firma del Presidente y secretarios]
+Dado en el Salón de Sesiones del Congreso del Estado (Lugar, fecha y firmas del Presidente y Secretarios).
 
-Imprímase, Comuníquese y obsérvese.
+Imprímase, comuníquese y obsérvese.
 
-[Lugar, fecha y firmas del Gobernador y Secretario del Poder Ejecutivo].
+(Lugar, fecha y firmas del Gobernador y Secretario del Ejecutivo del Estado)".
 
 ### CAPITULO IV.
 
@@ -520,9 +530,13 @@ II. Iniciar ante el Congreso General las leyes y decretos que sean de la compete
 
 III. Reclamar ante el Congreso de la Unión cuando alguna ley general constituya un ataque a la Soberanía o Independencia del Estado o a la Constitución Federal.
 
-IV. Facultar al Ejecutivo con las limitaciones que crea necesarias para que por sí, o por apoderado especial represente al Estado en los casos que corresponda.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
 
-V. Proponer al Congreso del la Unión candidatos a Magistrados de la Suprema Corte de Justicia.
+IV. Adicionar y reformar esta Constitución en los términos que la misma prescribe.
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
+
+V. Erigirse en Colegio Electoral para declarar electos Senadores al Congreso de la Unión a los ciudadanos que hubiesen obtenido la mayoría de los votos emitidos.
 
 VI. Facultar al Ejecutivo del Estado para que por sí o por medio de una comisión, celebre arreglos con los Estados vecinos sobre sus límites territoriales; reservándose el mismo Congreso la facultad de aprobar o no dichos convenios, los que en el primer caso, serán sometidos al Congreso de la Unión, para los efectos que establece la Constitución General.
 
@@ -544,21 +558,27 @@ XIV. Fijar las bases para que el Ejecutivo pueda celebrar empréstitos sobre el 
 
 XV. Constituirse en Colegio Electoral y practicar el Escrutinio de votos emitidos en la elección de Gobernador; calificar dicha elección y hacer la declaratoria correspondiente del que haya resultado electo, conforme a la ley.
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 1951)</small>
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
 
-XVI. Designar al C. Secretario del Ejecutivo del Estado, para que con el carácter de Gobernador Interino sustituya al Gobernador Constitucional en sus faltas que no excedan de treinta días; y al Ciudadano que deba sustituirlo en las mayores de ese término y en las absolutas. En caso de que el Secretario del Ejecutivo del Estado, no esté en funciones, el Congreso designará al Ciudadano que sustituya al C. Gobernador Constitucional con el Carácter de Interino.
+XVI. Erigirse en Colegio Electoral para elegir al Ciudadano que deba sustituir al Gobernador en los términos que establece el artículo 78 de esta Constitución.
 
 XVII. Nombrar a los Magistrados del Superior Tribunal de Justicia, a propuesta de los Ayuntamientos.
 
 XVIII. Conocer de las renuncias de los Diputados, del Gobernador y de los Magistrados del Tribunal Superior de Justicia.
 
-XIX. Otorgar licencia a los Diputados y Magistrados para separarse temporalmente de sus puestos, en la forma que determine la ley.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
 
-XX. Conceder permiso al Gobernador para salir del territorio del Estado si la ausencia excede de 48 horas.
+XIX. Otorgar licencia a los Diputados, al Gobernador y a los Magistrados para separarse temporalmente de sus cargos.
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
+
+XX. Nombrar comisiones permanentes y especiales para el estudio de los proyectos de leyes y decretos.
 
 XXI. Conceder o negar permiso a los Diputados para desempeñar algún empleo o comisión del Estado, o de la Federación sin que esta facultad pueda nulificar la prohibición que se consigna en el Artículo 43 de esta Constitución.
 
-XXII. Recibir la protesta de ley a los Diputados, al Gobernador, a los Magistrados del Superior Tribunal y al Tesorero General del Estado.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
+
+XXII. Recibir la protesta de Ley a los Diputados, al Gobernador, a los Magistrados del Superior Tribunal y al Tesorero General del Estado.
 
 XXIII. Dirimir las controversias que se susciten entre el Ejecutivo y el Superior Tribunal de Justicia.
 
@@ -604,6 +624,10 @@ XXXVIII. Expedir las leyes y acuerdos indispensables para hacer efectivas las fa
 
 XXXIX. Velar por la observancia de la Constitución y las leyes.
 
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 1977)</small>
+
+XL.- Solicitar informes al Ejecutivo del Estado y al Supremo Tribunal de Justicia sobre asuntos de su competencia, cuando lo estime conveniente para el mejor ejercicio de sus funciones.
+
 ###### Artículo 68.
 
 En los casos de grave perturbación de la paz pública, o cualesquiera otros que pongan a la sociedad en peligro, el Congreso, si se hallare reunido, concederá las autorizaciones que juzgue necesarias para que el Ejecutivo haga frente a la situación. Las facultades extraordinarias solo podrán concederse en los casos a que se contrae este artículo, con arreglo a las prescripciones siguientes:
@@ -648,7 +672,9 @@ IV. Nombrar al ciudadano que supla las faltas temporales del Gobernador del Esta
 
 V. Recibir la protesta al Gobernador del Estado y a los Magistrados del Superior Tribunal de Justicia en su caso.
 
-VI. Conceder licencia a los funcionarios de que hablan las fracciones XIX y XX del Artículo 67.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
+
+VI. Conceder licencia a los funcionarios de que habla la fracción XIX del artículo 67.
 
 VII. Dictaminar en los asuntos que quedaron pendientes de resolución y dar cuenta con ellos en el siguiente período de sesiones.
 
@@ -680,11 +706,13 @@ Para ser Gobernador se requiere:
 
 I. Ser ciudadano mexicano por nacimiento.
 
-II. Tener veinticinco años cumplidos para el día de la elección.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 1967)</small>
+II. Haber cumplido 30 años de edad para el día de la elección.
 
-III. Ser ciudadano coahuilense o con una residencia efectiva de diez años en el Estado, por lo menos, inmediatamente anteriores al de la elección.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
+
+III. Ser coahuilense por nacimiento o tener una residencia efectiva en el Estado no menor de cinco años inmediatamente anteriores al día de la elección.
 
 > <small>(REFORMADA, P.O. 16 DE MAYO DE 1951)</small>
 
@@ -724,25 +752,33 @@ El Gobernador, al tomar posesión de su cargo, hará la protesta de ley ante el 
 
 Del Despacho de Gobierno.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
+
 ###### Artículo 82.
 
 Son facultades del Gobernador:
 
-I. Iniciar leyes o decretos ante el Congreso del Estado.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
 
-II. Dirigirse al Gobierno General, siempre que lo estime necesario, para obtener las resoluciones que reclamen el bien público y los intereses del Estado.
+I. Iniciar ante el Congreso del Estado las leyes, decretos o acuerdos que juzgue conveniente y solicitarle que inicie ante el Congreso de la Unión las que sean de la competencia federal.
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
+
+II. Dirigirse al Gobierno Federal, siempre que lo estime necesario, para obtener las resoluciones que reclamen el bien público y los intereses del Estado.
 
 III. Celebrar convenios con los Gobernadores de los Estados limítrofes para la entrada y paso de sus fuerzas de seguridad por el territorio del Estado, y recíprocamente.
 
-IV. Nombrar y remover libremente al Procurador General de Justicia del Estado y a los Agentes del Ministerio Público.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
+
+IV. Nombrar, suspender y remover libremente al Secretario del Ejecutivo del Estado, al Procurador General de Justicia del Estado, a los Directores de los diversos ramos, a los Agentes del Ministerios Público, a los Oficiales del Registro Civil y a todos los demás funcionarios y empleados del Poder Ejecutivo cuyo nombramiento, suspensión o remoción no estén determinados de otro modo en esta Constitución o en las leyes y remover libremente al Tesorero General del Estado.
 
 > <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 1966)</small>
 
 V. Celebrar, en su carácter de Representante del Estado, los Convenios y Contratos Administrativos que fueren favorables o necesarios en los diversos ramos de la Administración.
 
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 1926)</small>
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
 
-VI. Nombrar o remover libremente al Secretario de Gobierno y demás empleados de su dependencia; remover también libremente al Tesorero General del Estado.
+VI. Celebrar arreglos sobre los límites del territorio del Estado y someterlos para su aprobación al Congreso Local, antes de remitirlos al Congreso de la Unión para su ratificación.
 
 VII. Nombrar, cuando lo crea conveniente, personas de su confianza para que informen si en los pueblos del Estado se observan la Constitución y las leyes.
 
@@ -750,21 +786,27 @@ VIII. Pedir a la Diputación Permanente expida convocatoria a sesiones extraordi
 
 IX. Objetar por una sola vez, dentro del preciso término de tres días los acuerdos económicos que comunique el Congreso, o la Diputación Permanente, mandándolos cumplir si fueren reproducidas.
 
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 1926)</small>
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
 
-X. Visitar y hacer visitar, cuando lo juzgue conveniente, las Oficinas de Rentas del Estado y Municipales y suspender a los empleados de Hacienda que en aquellas visitas aparezcan responsables del mal manejo o inversión indebida de los fondos que recauden consignándolos al Juez que corresponda, comunicando la suspensión al Ayuntamiento respectivo, para que designe a la persona que haya de sustituir al suspenso. Cuando se trate de la remoción del Tesorero General a que se refiere la fracción VI de este artículo o de su renuncia, enviará inmediatamente terna al Congreso o a la Diputación Permanente en su caso, para que haga desde luego el nuevo nombramiento, haciéndose cargo entre tanto de la Tesorería como Tesorero Interino, el Contador de la misma.
+X. Concurrir personalmente al Congreso del Estado, enviar al Secretario del Ejecutivo del Estado o al funcionario que corresponda, cuando se discuta un proyecto de ley o decreto, cuya iniciativa haya sometido a su aprobación.
 
 XI. Remitir al Congreso los antecedentes relativos a delitos oficiales o del orden común cometidos por algún funcionario o empleado que goce fuero constitucional.
 
 XII. (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 1941)
 
-XIII. Suspender o distituir (sic) al Procurador General de Justicia del Estado y a los Agentes del Ministerio Público por delitos o faltas que cometan en el desempeño de sus funciones, y ponerlos, cuando proceda a disposición de la autoridad que deba juzgarlos.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
+
+XIII. Ejercitar, en el ámbito de su competencia, las facultades que señala el artículo 27 de la Constitución General.
 
 XIV. Hacer observaciones por una sola vez a las leyes o decretos del Congreso con la obligación de mandarlos publicar y ejecutar si fueren reproducidos.
 
-XV. Excitar a los Tribunales del Estado, cuando fuere necesario, a que administren pronta y cumplida justicia, comunicando a los superiores las faltas que advierta en las inferiores.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
 
-XVI. Pedir los informes que crea convenientes sobre el estado de la Administración de Justicia, e inspeccionar si los jueces o asesores asisten con puntualidad a sus respectivos despachos y a las horas determinadas por la ley.
+XV. Declarar expropiaciones por causa de utilidad pública en la forma que determine esta Constitución y su Ley Reglamentaria.
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
+
+XVI. Conceder los estímulos que considere convenientes a las industrias y explotaciones agrícolas y ganaderas que se establezcan en el Estado, de conformidad con lo que dispongan las leyes.
 
 XVII. Pedir a todas la oficinas y empleados las noticias e informes que necesite para el desempeño de sus funciones.
 
@@ -772,23 +814,41 @@ XVIII. Formar los reglamentos que fueren necesarios para la mejor ejecución y o
 
 XIX. Organizar y disciplinar la Guardia Nacional y demás fuerzas del Estado y ejercer, respecto de unas y otras, las atribuciones que determinen las leyes y reglamentos respectivos.
 
-XX. Remover libremente a todos los empleados de Policía cuando lo estime conveniente, como jefe nato que es de todas las fuerzas de Policía y Seguridad Pública del Estado.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
 
-XXI. Imponer gubernamentalmente y con expresión de causa, hasta un mes de arresto, o multa que no exceda de quinientos pesos a los que le faltaren al respeto, o enfrinjan (sic) las órdenes que expida en el ejercicio de sus atribuciones constitucionales.
+XX. Ser el Jefe nato de las fuerzas de seguridad del Estado; nombrar y remover libremente a sus Jefes y Oficiales; movilizarlos según las necesidades públicas, así como tener a sus órdenes y mandar la fuerza pública del Municipio en que resida habitual o transitoriamente.
 
-XXII. Conceder, con arreglo a las leyes, habilitación de edad a los menores, para contraer matrimonio.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
 
-XXIII. Recibir al Secretario del Ejecutivo del Estado la protesta de ley.
+XXI. Sancionar con conocimiento de causa a los que infrinjan los reglamentos gubernativos y las órdenes que expida en el ejercicio de sus atribuciones en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
+
+XXII. Nombrar apoderados para asuntos administrativos y judiciales que se tramiten dentro o fuera del Estado.
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
+
+XXIII. Recibir la protesta de Ley al Secretario del Ejecutivo y al Procurador General de Justicia.
 
 XXIV. Otorgar indultos y conmutaciones de las penas impuestas por sentencia ejecutoria, previa las formalidades que la ley establezca y en los casos en que la misma determine.
 
 XXV. Ejercer la superior inspección en todos los ramos de la Administración Pública y de la Beneficencia Privada.
 
-XXVI. Las demás que expresamente le concedan las leyes.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1927)</small>
+XXVI. Otorgar autorizaciones, concesiones, licencias y permisos en los términos que establezcan las leyes.
 
-XXVII. Nombrar los Jueces del Registro Civil y fijar la demarcación en que deban ejercer sus funciones.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
+
+XXVII. Desconcentrar las funciones administrativas cuando por razones de interés general lo estime conveniente.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 1977)</small>
+
+XXVIII. Auxiliar a los Ayuntamientos, para el mejoramiento de los distintos ramos de la administración de los Municipios.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 1977)</small>
+
+XXIX. Las demás que expresamente le concedan las Leyes.
 
 ###### Artículo 83.
 
@@ -806,17 +866,19 @@ II. Publicar, circular y hacer cumplir, las Leyes y Decretos del Congreso del Es
 
 III. Cuidar de la observancia de la Constitución General, la particular del Estado y de las leyes que de ella emanen.
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 1956)</small>
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
 
-IV. Concurrir cada dos años al Acto de Apertura del Período de Sesiones Ordinarias del Congreso y presentar en este acto un Informe sobre el Estado de la Administración.
+IV. Concurrir cada año al acto de apertura del período de sesiones ordinarias del Congreso y presentar en este acto un informe sobre el estado de la administración.
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 1956)</small>
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
 
-V. Presentar al día siguiente de la apertura del período de sesiones ordinarias del Congreso, en el año en que no le corresponda leer informe personal, una Memoria en que coste el Estado de la Administración Pública durante ese año Fiscal.
+V. Rendir los informes que le solicite el Congreso del Estado en los términos de la fracción XL del artículo 67.
 
 VI. Presentar al Congreso dentro de los primeros cuatro meses del año fiscal, la cuenta general del año anterior.
 
-VII. Presentar durante los primeros quince días de las sesiones ordinarias del Congreso, el Presupuesto de gastos del siguiente año.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
+
+VII. Presentar durante los primeros 30 días de las sesiones ordinarias del Congreso, el Presupuesto de Egresos del siguiente año.
 
 VIII. Facilitar al Poder Judicial los auxilios que necesite para el ejercicio de sus funciones.
 
@@ -840,21 +902,11 @@ XVII. Cuidar de que se verifiquen conforme a la ley las elecciones constituciona
 
 XVIII. Los demás deberes que le impongan la Constitución y las leyes.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
+
 ###### Artículo 85.
 
-Le está prohibido al Gobernador:
-
-I. Separarse de la Capital o de la población donde residan los Poderes del Estado por más de diez días, sin permiso del Congreso o de la Diputación Permanente.
-
-II. Mandar personalmente, en campaña, la fuerza públicas (sic) de que no puede disponer sin previo permiso del Congreso o en su defecto de la Diputación Permanente.
-
-III. Recomendar asuntos a las autoridades judiciales y contrariar en cualquier forma las resoluciones dictadas por éstas.
-
-IV. Oponerse y hacer observaciones a los acuerdos del Congreso en que se le piden informes sobre asuntos públicos.
-
-V. Impedir que las elecciones se verifiquen en los días señalados por la ley.
-
-VI. Suspender o impedir las sesiones del Congreso.
+En su carácter de titular del Poder Ejecutivo, compete al Gobernador, cundo lo estime necesario a la buena marcha de la administración pública, establecer nuevas dependencias, separar o unir las existentes y transformarlas en su estructura en atención al volumen de trabajo y notoria trascendencia de los negocios públicos.
 
 ### CAPITULO IV.
 
@@ -862,15 +914,27 @@ De la Hacienda Pública del Estado.
 
 ###### Artículo 86.
 
-Para el despacho de los negocios del Gobierno habrá un funcionario responsable que se denominará: Secretario del Ejecutivo del Estado.
+Para el estudio, planeación y despacho de los negocios de los diversos ramos del Gobierno y de la administración pública, habrá un funcionario responsable que se denominará: Secretario del Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 87.
 
-Para ser Secretario del Ejecutivo del Estado se necesita ser ciudadano coahuilense por nacimiento, en ejercicio de sus derechos y tener veinticinco años cumplidos.
+Para ser Secretario del Ejecutivo del Estado, se requiere:
+
+I. Ser ciudadano mexicano por nacimiento y coahuilense.
+
+II. Haber cumplido 30 años de edad para el día de la designación.
+
+III. Estar en pleno ejercicio de sus derechos; y
+
+IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 88.
 
-Los acuerdos, circulares, ordenes y disposiciones que dicte el Gobernador, así como los documentos que suscriba en el ejercicio de sus funciones constitucionales, deberán ir autorizados o refrendados por el Secretario, sin el cual requisito no surtirán efectos legales.
+Los Reglamentos, Acuerdos, circulares, ordenes y disposiciones que dicte el Gobernador, así como los documentos que suscriba en el ejercicio de sus funciones constitucionales, deberán ir autorizados o refrendados por el Secretario del Ejecutivo del Estado, sin el cual requisito no surtirán efectos legales.
 
 ###### Artículo 89.
 
@@ -890,9 +954,11 @@ Las faltas temporales del Secretario, serán suplidas por el Oficial Mayor de la
 
 El Secretario del Ejecutivo del Estado reglamentará la Secretaría de su cargo, de acuerdo con el Gobernador, y distribuirá los trabajos de la Oficina entre los empleados de la planta que señale la Ley de Presupuestos respectiva.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
+
 ###### Artículo 93.
 
-El Secretario del Ejecutivo del Estado tendrá responsabilidad solidaria con el Gobernador, por los decretos, reglamentos, circulares o acuerdos ilegales que firmare.
+El refrendo actualiza en el Secretario del Ejecutivo del Estado la responsabilidad que pueda resultar del mismo.
 
 ### CAPITULO V.
 
@@ -1002,7 +1068,9 @@ IV. Hacer efectivas las responsabilidades criminales de los funcionarios y emple
 
 V. Defender la Hacienda Pública del Estado, en juicio, siempre que el Ejecutivo no provea a la procuración conforme a la ley.
 
-VI. Cuidar que se lleven, conforme a las leyes, los Protocolos de los Notarios y del Registro Público de la propiedad.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
+
+VI. La persecución, ante los Tribunales de todos los delitos del orden común; y, por lo mismo, a él le corresponde recibir las denuncias, acusaciones o querellas, tanto de las Autoridades como de los particulares; investigar los hechos objeto de las mismas, ejercitar la acción penal contra los inculpados, solicitando en su caso su aprehensión o comparecencia; allegar al proceso las pruebas que acrediten el cuerpo del delito y la responsabilidad de los acusados; impulsar la secuela del procedimiento; y, en su oportunidad, pedir la aplicación de las penas que correspondan.
 
 VII. Intervenir en las Juntas de vigilancia de las cárceles para exigir que se cumpla con los reglamentos respectivos.
 
@@ -1016,15 +1084,19 @@ X. Las demás que le señalen las leyes, tanto federales como del Estado.
 
 El Ministerio Público se ejercerá por un Procurador de Justicia y los Agentes de su dependencia nombrados por el Gobernador.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
+
 ###### Artículo 111.
 
 Para ser Procurador de Justicia se requiere:
 
-I. Ser ciudadano coahuilense en pleno ejercicio de sus derechos, y tener título oficial de Abogado.
+I. Ser ciudadano mexicano por nacimiento y coahuilense en el pleno ejercicio de sus derechos.
 
-II. No haber sido condenado por robo, fraude, falsificación, abuso de confianza u otro delito infamante.
+II. Tener título oficial de Abogado y haber ejercido cinco años la profesión.
 
-III. Tener cuando menos treinta años de edad y ser de reconocida moralidad.
+III. Haber cumplido 30 años de edad para el día de la designación; y
+
+IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
 ###### Artículo 112.
 
@@ -1084,7 +1156,7 @@ La instrucción pública que imparta el Estado estará bajo el patrocinio y vigi
 
 ### CAPITULO I.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1966)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 122.
 
@@ -1094,11 +1166,15 @@ El territorio del Estado se divide en Distritos y Municipalidades conforme se ex
 
 Las Municipalidades conservarán el territorio que actualmente tienen; pero el Congreso podrá modificar su extensión, cuando lo juzgue conveniente, y aumentar o disminuir el número de ellas.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 1954)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 124.
 
-Cada Municipio estará administrado por un Ayuntamiento que será nombrado por elección popular directa, y se renovará en su totalidad cada tres años, entrado a funcionar el primero de enero conforme a la Ley, no siendo en todo caso menor de tres el número de Munícipes ni mayor de siete conforme el orden siguiente: En los Municipios que se cuenten hasta ocho mil habitantes, habrá un Presidente Municipal, un Regidor y un Síndico; en los Municipios de más de ocho mil hasta treinta mil habitantes, habrá un Presidente Municipal, tres Regidores y un Síndico; en los que pasen de treinta mil habitantes, habrá un Presidente Municipal, Cuatro Regidores y dos Síndicos.
+Los Municipios constituyen entidades con personalidad jurídica y patrimonio propios y por consiguiente son sujetos de derechos y obligaciones.
+
+Cada municipio estará administrado por un Ayuntamiento que será nombrado por elección popular directa y se renovará en su totalidad cada tres años, entrado a funcionar el primero de enero conforme a la Ley, no siendo en todo caso menor de tres el número de munícipes ni mayor de siete conforme el orden siguiente:
+
+En los municipios que se cuenten hasta ocho mil habitantes, habrá un Presidente Municipal, un Regidor y un Síndico; en los municipios de más de ocho hasta treinta mil habitantes, habrá un Presidente Municipal, tres Regidores y un Síndico; en los que pasen de treinta mil habitantes, habrá un Presidente Municipal, cuatro Regidores y dos Síndicos.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1918)</small>
 
@@ -1138,7 +1214,9 @@ Los Presidentes Municipales o Regidores de los Ayuntamientos, se concretarán a 
 
 Los Ayuntamientos tienen las facultades y obligaciones siguientes:
 
-I. Ejecutar las leyes u órdenes que reciban del Gobierno.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
+
+I. Promover y organizar la Participación y colaboración de los ciudadanos en las obras públicas de interés general.
 
 II. Iniciar leyes ante el Congreso del Estado, conforme al Artículo 59.
 
@@ -1152,7 +1230,9 @@ VI. Administrar los bienes del Municipio y las casas de beneficencia pública qu
 
 VII. Vigilar los establecimientos de enseñanza particulares y oficiales, dependientes del Municipio.
 
-VIII. Nombrar y remover al profesorado de las escuelas sostenidas por el Municipio en los términos que determine la ley.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
+
+VIII. Rendir un informe anual del estado que guarde la administración.
 
 IX. Nombrar y remover a los empleados de su dependencia.
 
@@ -1182,31 +1262,37 @@ Poder Judicial.
 
 ### CAPITULO II.
 
-Jueces de Primera Instancia, Locales y Auxiliares.
+Jueces de los Tribunales Tutelares para Menores, de Primera Instancia, Locales y Auxiliares.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1939)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 135.
 
-El Poder Judicial se deposita, para su ejercicio, en el Supremo Tribunal de Justicia, en los Tribunales de Menores, en los Jueces de Primera Instancia, en los Jueces Locales Letrados, en los Jueces Locales Legos y en los Jueces Auxiliares, que establezcan las Leyes.
+El Poder Judicial se deposita, para su ejercicio, en el Supremo Tribunal de Justicia, en los Juzgados de Primera Instancia, en los Tribunales Tutelares para Menores, en los Juzgados Locales Letrados; así como en los Juzgados Locales Legos y en los Juzgados Auxiliares.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 136.
 
-El Supremo Tribunal de Justicia se compondrá de cuatro Magistrados Propietarios y ocho Supernumerarios electos cada seis años por el Congreso del Estado, a propuesta en terna de los Ayuntamientos. Los Magistrados, tanto Propietarios como Supernumerarios, podrán ser reelectos.
+El Supremo Tribunal de Justicia del Estado se compondrá de cuatro Magistrados Numerarios y ocho Supernumerarios.
+
+Los Magistrados serán nombrados cada seis años por el Congreso del Estado a propuesta en terna de los Ayuntamientos.
+
+Los Magistrados Numerarios y Supernumerarios, podrán ser reelectos.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 137.
 
-Para desempeñar el cargo de Magistrado, se requiere:
+Para ser nombrado Magistrado, se requiere:
 
-I. Ser ciudadano mexicano por nacimiento y estar en ejercicio pleno de sus derechos.
+I. Ser ciudadano mexicano por nacimiento y coahuilense, en el pleno ejercicio de sus derechos.
 
-II. Tener título oficial del Abogado y haber ejercido la profesión tres años, cuando menos.
+II. No tener menos de 30 años de edad el día de la designación.
 
-III. Tener buenos antecedentes de moralidad.
+III. Tener título oficial de Abogado y haber ejercido la profesión cinco años por lo menos; y
 
-IV. No tener empleo, cargo o comisión de los otros Poderes del Estado, de las demás Entidades Federativas, ni del Gobierno de la Unión.
+IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
 ###### Artículo 138.
 
@@ -1220,13 +1306,15 @@ Los Magistrados rendirán la protesta de ley ante el Congreso o ante la Diputaci
 
 No podrán formar parte del Tribunal dos o más Magistrados que sean parientes entre sí, por consanguinidad, dentro del cuarto grado, o por afinidad, dentro del segundo.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 141.
 
-El Supremo Tribunal de Justicia funcionará en Pleno y en Salas Unitarias que se denominarán: Primera, Segunda, Tercera y Cuarta Salas. Los Magistrados Propietarios integrarán el Tribunal Pleno y serán los Titulares de las Salas Unitarias, en el orden que determine el Congreso del Estado. Los Magistrados Supernumerarios podrán integrar el Pleno y ejercer las funciones de las Salas Unitarias en los casos previstos por esta Constitución y en la Ley Orgánica del Poder Judicial.
+El Supremo Tribunal de Justicia funcionará en salas unitarias que se distinguirán por las ordinales: primera, segunda, tercera y cuarta; y el Tribunal Pleno que se integrará por los cuatro Magistrados que desempeñen las salas.
 
-Será Presidente del Tribunal el Magistrado que determina la Ley Orgánica del Poder Judicial.
+Las audiencias del Pleno y de las Salas serán públicas, excepción hecha en los casos en que la moral o el interés público exija que sean secretas.
+
+Será Presidente del Supremo Tribunal cada uno de los Magistrados que lo integran por períodos sucesivos de tres meses.
 
 ###### Artículo 142.
 
@@ -1246,11 +1334,11 @@ Las faltas temporales o absolutas de los Magistrados Propietarios, se cubrirán 
 
 Los Magistrados que estén en ejercicio de sus funciones, no pueden ser abogados o apoderados ante los Tribunales, en negocios agenos (sic), asesores, árbitros y arbitradores, ni ejercer el Notariado.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1927)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 146.
 
-Corresponde al Tribunal Pleno de Justicia:
+Corresponde al Pleno del Supremo Tribunal de Justicia:
 
 I. Conocer en segunda instancia de las controversias que se susciten sobre contratos que celebre el Estado, por sí o por medio de sus Agentes, siempre que dichos contratos deban ser cumplidos dentro de su territorio.
 
@@ -1258,59 +1346,53 @@ II. Conocer la segunda instancia de los juicios instaurados en el Estado, contra
 
 III. Ejercer el derecho que le concede la Constitución de iniciar Leyes.
 
-IV. Resolver las quejas que se presentaren contra los Jueces de Primera Instancia y Locales, por actos ejecutados en ejercicio de sus funciones declarando si ha lugar o no, a proceder a exigirles responsabilidad.
+IV. Resolver las quejas que se presenten contra los Jueces de Primera Instancia, Locales Letrados y Tribunales Tutelares para Menores, por actos ejecutados en ejercicio de sus funciones, declarando si ha lugar o nó a proceder a exigirles la responsabilidad correspondiente.
 
 V. Conocer en única instancia de los procesos contra el Gobernador del Estado, los Diputados, los Magistrados del Supremo Tribunal, el Procurador de justicia y demás funcionarios que determine la Ley.
 
 VI. Dirimir las competencias que se susciten entre los Jueces de Primera Instancia del Estado o entre Jueces Locales de distintos distritos judiciales.
 
-VII. Conceder licencias con o sin goce de sueldo a los Magistrados y Jueces de Primera Instancia, siendo las primeras por causa justificada a juicio del Tribunal.
+VII. Conceder licencias con o sin goce de sueldo a los Magistrados, Jueces de Primera Instancia, Jueces de los Tribunales Tutelares para Menores y Jueces Locales Letrados, siendo los primeras por causa justificada a juicio del Tribunal.
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1939)</small>
-
-VIII. Nombrar a los Jueces de Primera Instancia y a los Jueces Locales Letrados, designar el Distrito Judicial en que han de ejercer su encargo, cambiar la designación de Distrito Judicial cuando lo estime conveniente para la Administración de Justicia y aceptar las renuncias de los expresados Jueces.
+VIII. Nombrar a los Jueces de Primera Instancia, a los Jueces de los Tribunales Tutelares para Menores y a los Jueces Locales Letrados; designar el Distrito Judicial en que han de ejercer su encargo, cambiarlos de adscripción cuando lo estime conveniente para la mejor administración de justicia y aceptar sus renuncias.
 
 IX. Conocer de las recusaciones o excusas de los Magistrados que formen el Tribunal.
 
-X. Nombrar y remover al Secretario y demás empleados subalternos del Tribunal.
+X. Nombrar y remover al Secretario del Pleno, a los Secretarios de las Salas y a los demás empleados del Supremo Tribunal de Justicia.
 
-XI. Formar su reglamento interior, pasándolo al Congreso para su aprobación.
+XI. Elaborar el proyecto de Reglamento Interior del Supremo Tribunal de Justicia, presentando la iniciativa al Congreso para su aprobación.
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1939)</small>
-
-XII. Suspender hasta por tres meses, por causa justificada, a los Jueces de Primera Instancia y a los Jueces Locales.
+XII. Suspender hasta por tres meses por causa justificada a los Jueces de Primera Instancia, a los Jueces de los Tribunales Tutelares para Menores y a los Jueces Locales Letrados.
 
 XIII. Remitir al Ejecutivo y al Congreso, los informes que pidan sobre la Administración de justicia.
 
-XIV. Apoyar o contradecir las peticiones de indulto.
+XIV. Revisar las causas penales, cuya sentencia haya causado ejecutoria por no haber sido recurrida, con objeto de determinar si ha lugar o nó a exigir responsabilidad al Juez de los autos.
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1939)</small>
-
-XV. Ordenar visitas de los Juzgados de Primera Instancia, de los Juzgados Locales y de Cárceles.
+XV. Ordenar visitas a los Juzgados de Primera Instancia, a los Tribunales Tutelares para Menores a los Juzgados Locales y a los Centros de Readaptación Social.
 
 XVI. Fijar los emolumentos que deban percibir los Magistrados Supernumerarios, cuando conozcan de asuntos del Tribunal.
 
-XVII. (DEROGADA, P.O. 16 DE MAYO DE 1951)
+XVII. Las demás que les confieran las leyes.
 
-XVIII. Las demás que les confieran las leyes.
-
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1927)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 147.
 
-Corresponde a las Salas del Tribunal:
+Corresponde a las Salas del Supremo Tribunal:
 
-I. Conocer de la apelaciones de autos y sentencias interlocutorias y definitivas, en los juicios civiles.
+I. Substanciar y resolver las apelaciones de autos, sentencias interlocutorias y definitivas, dictadas en juicios civiles y penales.
 
-II. Conocer de las apelaciones de autos y sentencias interlocutorias y definitivas, en los juicios criminales.
+II. Substanciar y resolver los recursos de queja, denegada apelación, reposición y revocación interpuestos en contra de providencias dictadas en juicios del orden civil y penal.
 
-III. Sustanciar y resolver las apelaciones interpuestas en sentencias definitivas y revisar las causas criminales, cuya sentencia haya causado ejecutoria, con objeto de determinar si ha lugar o no a exigir responsabilidad al Juez de los autos.
+III. Revisar las sentencias dictadas en los juicios donde se abre de oficio la segunda instancia.
 
-IV. Conocer en primera instancia de las controversias que se susciten sobre contratos que celebre el Estado por sí o por medio de sus Agentes, siempre que dichos contratos deban ser cumplidos dentro de su territorio, y de la primera instancia de los juicios instaurados en el Estado contra el Gobierno del mismo.
+IV. Conocer en primera instancia de las controversias que se susciten sobre contratos que celebre el Estado por sí o por medio de sus representantes, siempre que dichos contratos deban ser cumplidos dentro de su territorio; y de la primera instancia de los juicios instaurados en el Estado contra el Gobierno del mismo.
 
-V. Conocer de los juicios de responsabilidad contra los Jueces de Primera Instancia.
+V. Conocer de los juicios de responsabilidad contra los Jueces de Primera Instancia y Locales Letrados.
 
 VI. Las demás que les confieran las Leyes.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO III.
 
@@ -1318,43 +1400,45 @@ Reglas Generales sobre Administración de Justicia.
 
 ###### Artículo 148.
 
-Los Jueces de Primera Instancia y los Jueces Locales Letrados serán nombrados cada dos años por el Supremo Tribunal de Justicia y podrán desempeñar el cargo en períodos sucesivos.
+Los Jueces de los Tribunales Tutelares para Menores, los de Primera Instancia y los Locales Letrados serán nombrados cada dos años por el Supremo Tribunal de Justicia y podrán desempeñar el cargo en períodos sucesivos.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 149.
 
-Para ser Juez de Primera Instancia se requiere:
+Los Jueces Locales Legos y los Jueces Auxiliares, serán nombrados cada dos años por los Jueces de Primera Instancia a propuesta en terna de los Ayuntamientos y podrán desempeñar el cargo en períodos sucesivos.
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos.
-
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 1926)</small>
-
-II. Tener título oficial de abogado.
-
-III. Ser de buenos antecedentes de moralidad.
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1939)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 150.
 
-Los Jueces Locales Legos y los Jueces Auxiliares serán nombrados cada dos años por los Jueces de Primera Instancia a propuesta en terna de los Ayuntamientos respectivos y podrán desempeñar sus cargos en períodos sucesivos.
+Para ser Juez de Primera Instancia o Juez Local Letrado se requiere:
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1939)</small>
+I. Ser ciudadano mexicano.
+
+II. Estar en pleno ejercicio de sus derechos.
+
+III. Ser de buenos antecedentes de moralidad.
+
+IV. Tener título oficial de Abogado y en tratándose de Juez de Primera Instancia, haber ejercido su profesión por un término no menor de dos años. Los requisitos para ser Jueces de los Tribunales Tutelares para Menores serán determinados por la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 151.
 
-Para ser Juez Local Letrado se necesitan los mismos requisitos que para ser Juez de Primera Instancia, con excepción del relativo a los dos años cuanto menos del ejercicio de la profesión de abogado, y para ser Juez Local Legos y Juez Auxiliar se requieren únicamente los requisitos a que se refieren las Fracciones I y III del Artículo 149.
+Para ser Juez Local Lego se necesitan los mismos requisitos a que se refiere el artículo anterior, con excepción del relativo al título oficial de Abogado; sin embargo, para el desempeño del cargo serán preferidos quienes hayan cursado estudios de derecho en instituciones reconocidas por el Estado.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1939)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 152.
 
-Los Jueces de Primera Instancia, Locales Letrados, Locales Legos y Auxiliares conocerán de los asuntos que respectivamente les encomienden las leyes.
+Los Jueces de los Tribunales Tutelares para Menores, los de Primera Instancia, Locales Letrados, Locales Legos y Auxiliares, conocerán de los asuntos que respectivamente les encomienden las leyes.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1939)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 153.
 
-Los Jueces de Primera Instancia y Locales Letrados residentes en la Capital del Estado otorgarán la protesta de Ley ante el Supremo Tribunal de Justicia; los Jueces de Primera Instancia y los Locales Letrados foráneos, los Jueces Locales Legos y los Auxiliares protestarán ante el Ayuntamiento del Municipio donde residen.
+Los Jueces de los Tribunales Tutelares para Menores, de Primera Instancia y Locales Letrados residentes en la Capital del Estado, otorgarán protesta ante el Supremo Tribunal de Justicia. Los de igual categoría que residan fuera de la capital del Estado, así como los Jueces Locales Legos y Auxiliares, protestarán ante el Ayuntamiento del Municipio donde residen.
 
 ### CAPITULO UNICO.
 
@@ -1378,13 +1462,17 @@ En los juicios del orden criminal queda prohibido imponer, por simple analogía,
 
 En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra o a la interpretación jurídica de la ley, y a falta de ésta, se fundará en los principios generales del derecho.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
+
 ### CAPITULO UNICO.
 
 Prevenciones Generales.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
+
 ###### Artículo 158.
 
-Se suprime en el Estado el recurso de casación en materia criminal y en asuntos meramente civiles. La reglamentación del recurso en el Código de Procedimientos Civiles, continuará vigente tan solo para asuntos mercantiles.
+Magistrados y Jueces son independientes en el ejercicio de sus funciones y no deben obediencia mas que a la Ley.
 
 ## TITULO SEXTO.
 
@@ -1458,11 +1546,15 @@ En demandas del orden civil, no hay fuero ni inmunidad para ningún Funcionario 
 
 ###### Artículo 169.
 
-Queda prohibida en el Estado de Coahuila la posesión de latifundios o grandes extensiones de terreno en manos de una sola persona o sociedad legalmente constituída. El Congreso del Estado expedirá cuanto antes las leyes necesarias para hacer efectivo este precepto y aquellas que se refieren al fraccionamiento de las grandes propiedades rústicas, a efecto de llevar a cabo la organización del patrimonio de la familia, en los términos del Artículo 27 de la Constitución General de la República.
+El Estado garantiza el derecho de propiedad privada reconocido y amparado por la Constitución Política de los Estados Unidos Mexicanos. Las Autoridades en el ámbito de sus respectivas competencias proveerán las medidas necesarias para ordenar los asentamientos humanos, con el objeto de cumplir los fines previstos en el párrafo tercero del artículo 27 de la propia Constitución.
+
+La propiedad privada puede ser expropiada por causa de utilidad pública calificada por la Ley, la cual prescribirá en qué medida el propietario debe ser indemnizado.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 170.
 
-La Legislatura del Estado expedirá leyes sobre el trabajo, fundadas en las necesidades de cada región del territorio de Coahuila, sin contravenir las bases establecidas en el Artículo 123 de la Constitución General de la República, las cuales regirán el trabajo de los obreros, jornaleros, empleados, domésticos, artesanos y, de una manera general, todo contrato de trabajo.
+El Ejecutivo del Estado, dentro del ámbito de sus atribuciones, vigilará por la estricta aplicación y observancia de las normas de trabajo.
 
 ###### Artículo 171.
 
@@ -1478,9 +1570,17 @@ En los talleres tipográficos del Gobierno, se publicará el Periódico Oficial 
 
 Quedan prohibidos en el Estado, los juegos de azar. La Ley determinará la clase de juegos que puedan ser permitidos.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
+
 ###### Artículo 174.
 
-Se adoptará en el Estado, a la mayor brevedad posible, el sistema penal-colonias, penitenciarías o presidios, sobre la base del trabajo como medio de regeneración. Mientras tanto, las autoridades usarán con los detenidos y reclusos el tratamiento prescrito en los Artículos 22 del Código Federal y 153, 154 y 156 de la presente Constitución.
+Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. El sitio de ésta será distinto del que se destinare para la extinción de las penas y estarán separados.
+
+El Gobierno del Estado organizará el Sistema Penitenciario en forma técnica, progresiva e individualizada, sobre la base del trabajo, la capacitación para el mismo y la educación como medios para la readaptación social del delincuente. Las mujeres compurgarán sus penas en lugares separados de los hombres para tal efecto.
+
+El Gobierno del Estado podrá celebrar con la Federación convenios de carácter general para la mejor aplicación del sistema penitenciario, y de coordinación para la aplicación de las Leyes Federales de la Materia en los establecimientos del Estado.
+
+El Gobierno del Estado establecerá Instituciones Especiales para el tratamiento de menores infractores.
 
 ###### Artículo 175.
 
@@ -1508,9 +1608,13 @@ En el Estado toda elección será directa en primer grado exceptuando la que hag
 
 Los Ministros de cualquier culto religioso no pueden ser nombrados para ningún empleo o cargo del elección popular.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
+
 ###### Artículo 181.
 
-Jamás podrán reunirse en un ciudadano dos o más empleos o destinos por los que disfrute sueldo, exceptuando los de instrucción pública y beneficencia.
+Ningún individuo debe desempeñar dos cargos de elección popular; pero el electo puede escoger entre ellos el que mas le convenga.
+
+No podrán reunirse en un ciudadano dos o más empleos o destinos por los que disfrute sueldo, exceptuando los de Instrucción Pública y Beneficencia.
 
 ###### Artículo 182.
 
@@ -1536,9 +1640,11 @@ Las personas que desempeñen un cargo público lo harán solo por el término pa
 
 Los emolumentos que por sus servicios asignará la ley a los funcionarios públicos, en ningún caso son renunciables.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
+
 ###### Artículo 188.
 
-Ningún sueldo se pagará a los funcionarios y empleados por el tiempo de sus faltas temporales, a no ser que éstas fueren por causa de enfermedad justificada y que no excedan del término de treinta días en un ano (sic). Los jefes de las oficinas respectivas tendrán presente y harán efectivo el cumplimiento de esta disposición y darán además cuenta en cada caso a la oficina pagadora para los efectos de la primera parte de este artículo.
+Ningún sueldo se pagará a los funcionarios y empleados por el tiempo de sus faltas temporales, a no ser que éstas fueren por causa justificada, en los términos que señalen las leyes respectivas.
 
 ###### Artículo 189.
 
@@ -1833,3 +1939,7 @@ P.O. 9 DE NOVIEMBRE DE 1974.
 PRIMERO.- Se derogan todas las disposiciones legales que se opongan a este decreto.
 
 SEGUNDO.- El presente decreto entrará en vigor 30 días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE FEBRERO DE 1977.
+
+UNICO.- Las presentes reformas y adiciones entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
