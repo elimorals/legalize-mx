@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2001-10-17"
+last_updated: "2002-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2002.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1117,9 +1117,9 @@ El dueño de la obra tiene derecho a pedir autorización para continuarla, mient
 
 El que haya obtenido la providencia de suspensión provisional de una obra nueva debe promover el juicio sobre suspensión definitiva o demolición de lo construido, en su caso, dentro del término de tres días, contados desde que se haya notificado la suspensión de la obra.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE FEBRERO DE 2001)</small>
-
 ## TITULO SEXTO. DEL JUICIO ORDINARIO
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE FEBRERO DE 2001)</small>
 
 ### CAPITULO I. De la demanda, de su contestación, de la rebeldía, de la fijación de la litis, y de la audiencia de conciliación y depuración procesal
 
@@ -1857,6 +1857,14 @@ Las que se pronuncien en los demás juicios sumarios incluyendo las sentencias, 
 
 412.- Presentada la solicitud y el convenio o manifestación a que alude el artículo anterior, previa la ratificación hecha por ambos cónyuges o por uno de ellos y el legítimo representante del otro, el juez decretará el divorcio de plano, aprobando el convenio que aquéllos hayan celebrado, en su caso, respecto a la situación de los hijos y división de los bienes.
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2002)</small>
+
+412 Bis.- Los cónyuges que hayan convenido disolver el vínculo matrimonial por mutuo consentimiento ante el Oficial del Registro Civil, podrán comparecer personalmente o por medio de mandatario ante el funcionario del registro civil de su domicilio; acompañarán a su solicitud los documentos que acrediten el matrimonio, la mayoría de edad y demás requisitos que se mencionan en el artículo 255, segundo párrafo, inciso a), del Código Civil, manifestando expresamente su voluntad de disolver el vínculo matrimonial.
+
+El Oficial del Registro Civil, previa identificación de los consortes levantará un acta en la que hará constar la solicitud de divorcio, citándolos a una audiencia que se verificará dentro de los quince días siguientes y en la que promoverá el avenimiento de los cónyuges y, en caso de que éste no se logre, procedan a la ratificación de la solicitud. Habiendo efectuado lo anterior, el Oficial del Registro Civil, cerciorándose que se han satisfecho los requisitos correspondientes, declarará disuelto el vínculo matrimonial, levantando el acta respectiva y ordenando la cancelación del acta de matrimonio en el lugar donde éste se hubiere celebrado. Si el avenimiento se logra, el trámite se dará por terminado.
+
+El divorcio decretado por esta vía no surtirá efecto legal alguno si se acredita que no se cumplió con los requisitos dispuestos por el inciso a), del artículo 255 del Código Civil del Estado de Chihuahua, y será nulo del pleno derecho, haciéndose acreedores los cónyuges a las sanciones que establezca la ley en la materia.
+
 413.- En el juicio de divorcio contencioso, presentada y admitida la demanda, el juez correrá traslado de ella a la contraparte emplazándola para que la conteste dentro del termino de tres días, bajo el apercibimiento de presumir confesados los hechos de la demanda que se deje de contestar.
 
 414.- Al admitirse la demanda de divorcio, se adoptarán por el juez provisionalmente a petición de parte y sólo mientras dure el juicio, las medidas que el juez estime necesarias para la protección de los cónyuges y de los hijos.
@@ -1878,6 +1886,10 @@ Son aplicables al juicio de divorcio las disposiciones contenidas en los artícu
 419.- Toda sentencia que disuelva el vínculo matrimonial debe ser publicada, en su parte resolutiva, en el Periódico Oficial del Estado.
 
 420.- Al pedirse la citación para sentencia o al pedirse que se falle, según el caso, deberá presentarse necesariamente al juzgado el ocurso que llene los requisitos indispensables para que pueda hacerse en el Periódico Oficial del Estado la publicación del fallo que se pronuncie.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2002)</small>
+
+Tratándose del divorcio que se realice ante el Oficial del Registro Civil, al momento de ratificar la solicitud de divorcio, los consortes presentarán los requisitos para que una vez disuelto el vínculo matrimonial, sea publicada el acta que los declare divorciados.
 
 421.- Ejecutoriada la sentencia, el juez remitirá directamente a la Oficina del Periódico Oficial la solicitud prevenida por el artículo anterior con la copia certificada de la parte resolutiva de aquella para que se haga la publicación correspondiente. Cumplido lo anterior se procederá en los términos del artículo 110 del Código Civil.
 
@@ -4476,3 +4488,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Las reformas a que se refiere el presente Decreto, no serán aplicables a persona alguna que tenga créditos contratados con anterioridad a su entrada en vigor, ni tratándose de créditos novados o reestructurados con anterioridad a la misma.
+
+P.O. 2 DE MARZO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor noventa días después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Corresponde a los Oficiales del Registro Civil de las cabeceras municipales de más de 75,000 habitantes llevar a cabo la tramitación del Divorcio Administrativo.
