@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1977-06-18"
+last_updated: "1977-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE JUNIO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE AGOSTO DE 1977.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -327,7 +327,9 @@ Los Diputados al Congreso del Estado serán electos en su totalidad cada tres a�
 
 La división del Estado en Distritos Electorales se hará proporcionalmente al número de habitantes. Los Distritos Electorales no podrán tener menos de veinticinco mil ni más de ciento veinte mil habitantes; y por cada uno de aquellos se elegirá un Diputado Propietario y un Suplente, en el concepto de que los Distritos no podrán ser menos de once. Además se designarán Diputados de Partido de acuerdo con esta Constitución y con lo que disponga la Ley Electoral a quienes resulten nominados de acuerdo con las reglas siguientes:
 
-I. Todo Partido Político que hubiese obtenido su registro conforme a la Ley Electoral del Estado, con un año o más de anterioridad al día de la elección, al obtener cuando menos cinco por ciento de la votación total del Estado, en la elección de Diputados respectiva, tendrá derecho a que se le acredite, de sus candidatos, a un Diputado que se denominará "de partido".
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 1977)</small>
+
+I. Todo Partido Político que hubiese obtenido su registro conforme a la Ley Electoral del Estado, con un año o más de anterioridad al día de la elección, al obtener cuando menos el uno y medio por ciento de la votación total del Estado, en la elección de Diputados respectiva, tendrá derecho a que se le acredite, de sus candidatos, a un Diputado que se denominará "de partido".
 
 II. Las diputaciones de partido serán acreditadas a los candidatos a diputados, que sin haber alcanzado la mayoría de votos en su Distrito, hayan obtenido el mayor número de sufragios a favor de sus propios partidos. La suplencia corresponderá al respectivo compañero de fórmula.
 
@@ -653,6 +655,10 @@ XLIII. Para expedir leyes o reglamentos concernientes a la recta aplicación de 
 
 XLIII Bis. Para instituir Tribunales de lo Contencioso Administrativo dotados de plena autonomía para dictar sus fallos, que tenga a su cargo dirimir las controversias que se susciten entre la administración pública y los particulares, estableciendo las normas para su organización, funcionamiento, procedimiento, y los requisitos que deben reunir el o los Magistrados
 
+> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 1977)</small>
+
+También podrá instituir Tribunales de Conciliación y Arbitraje que conozcan de las controversias que surjan de la aplicación de las leyes que regulen las relaciones entre los trabajadores del Servicio Civil y los titulares de las entidades y dependencias públicas en que presten sus servicios.
+
 XLIV. Para expedir las leyes concernientes a la administración y gobierno interior del Estado en todos sus ramos, interpretarlas, aclararlas o derogarlas y hacer efectivas las facultades expuestas y todas las demás que le confieran la Constitución General de la República, esta Local y las leyes que de ellas emanen.
 
 #### SECCION VI.
@@ -879,7 +885,7 @@ XIV. En caso de sublevación o de trastorno interior en el Estado, excitar, de a
 
 > <small>(REFORMADA, B.O. 18 DE JUNIO DE 1977)</small>
 
-XV. Auxiliar, a solicitud de sus Ayuntamientos, a los Municipios de la entidad a fin de mejorar la ejecución de obras, la prestación de servicios o cualquier otro propósito del que se derive un mejoramiento de la administración y fortalecimiento de autonomía municipal.
+XV. Auxiliar, a solicitud de sus Ayuntamientos, a los Municipios de la entidad a fin de mejorar la ejecución de obras, la prestación de servicios o cualquier otro propósito del que se derive un mejoramiento de la administración y fortalecimiento de la autonomía municipal.
 
 > <small>(REFORMADA, B.O. 18 DE JUNIO DE 1977)</small>
 
@@ -1968,6 +1974,10 @@ UNICO.- Esta ley entrará en vigor al día siguiente de su publicación en el Bo
 B.O. 18 DE JUNIO DE 1977.
 
 UNICO.- Esta ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 20 DE AGOSTO DE 1977.
+
+UNICO.- Esta ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
