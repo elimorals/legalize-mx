@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-municipal-reglamentaria-del-titulo-octavo-de-3321"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1980-12-31"
+last_updated: "1983-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA MUNICIPAL REGLAMENTARIA DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1976.
 
@@ -47,17 +47,21 @@ El Municipio Libre es la base de la organización política y administrativa, as
 
 Los Municipios del Estado estarán organizados y regularán su funcionamiento de acuerdo con lo dispuesto por la presente Ley, en lo interno se regirán por sus propios bandos y reglamentos municipales, que se ajustarán a los principios establecidos en la Constitución Federal, en la del Estado y en esta Ley. Tendrán para el cumplimiento de sus fines, todas las competencias que no estén expresamente atribuidas por las leyes a la Federación o al Estado.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 3o.
 
-El Estado de Baja California Sur se divide en tres municipios que son los de La Paz, Comondú y Mulegé, cuyos límites de su circunscripción territorial y cabecera señala el artículo 120 de la Constitución del Estado, quedando comprendidos además las islas, islotes, cayos y arrecifes ubicados dentro de sus respectivas jurisdicciones.
+El Estado de Baja California Sur, se divide en cuatro municipios que son: La Paz, Comondú, Mulegé y Los Cabos, cuyos límites de su circunscripción territorial y cabecera señala, el Artículo 120 de la Constitución Política del Estado, quedando comprendidas además las Islas, Islotes, Cayos y Arrecifes ubicadas dentro de sus respectivas jurisdicciones.
 
 ###### Artículo 4o.
 
 Los Municipios no tendrán ningún superior jerárquico, son independientes entre sí y no habrá ninguna autoridad intermedia entre éstos y los poderes del Estado. Los Municipios pueden coordinarse entre sí para solucionar necesidades comunes.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 5o.
 
-El Municipio tiene personalidad jurídica propia de conformidad con la fracción III del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 117 de la Constitución Política del Estado de Baja California Sur.
+El Municipio tiene personalidad jurídica propia, de conformidad con la Fracción II del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y el Artículo 117 de la Constitución Política del Estado de Baja California Sur.
 
 ###### Artículo 6o.
 
@@ -91,9 +95,11 @@ Esta Ley Orgánica Municipal es obligatoria para todos los habitantes de los mun
 
 ### CAPITULO PRIMERO. DE LOS AYUNTAMIENTOS
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 11.
 
-El gobierno de cada Municipio estará encomendado a un Ayuntamiento que se integrará, con un Presidente, un Síndico y cinco Regidores, con sus respectivos suplentes, electos por voto popular, para un período de tres años de ejercicio en sus cargos y se renovarán en su totalidad al terminar cada período.
+El Gobierno de cada municipio estará encomendado a un Ayuntamiento que se integrará con un Presidente, un Síndico y siete Regidores electos por Sufragio Universal Directo, Libre y Secreto, mediante el sistema de mayoría relativa y hasta con un Regidor electo por el sistema de Representación Proporcional, con excepción del Ayuntamiento de la Capital del Estado, el cual se integrará con un Presidente, un Síndico y diez Regidores electos por el sistema de mayoría relativa y hasta con dos Regidores por el sistema de Representación Proporcional. Cada Ayuntamiento será electo para un Período de tres años de ejercicio en sus cargos y se renovará en su totalidad al terminar el mismo.
 
 ###### Artículo 12.
 
@@ -101,29 +107,35 @@ Los munícipes del Ayuntamiento se elegirán en los términos de la Ley Local El
 
 Los miembros del Ayuntamiento deberán residir en la municipalidad respectiva. Los que llegaren a estar en funciones, aún en forma transitoria, no podrán ser electos para el período inmediato siguiente.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 13.
 
-Ningún ciudadano puede excusarse de servir al cargo de munícipe, sino por causa justificada, que calificarán los Ayuntamientos.
+Ningún ciudadano puede excusarse de servir al cargo de Munícipe, sino por causa justificada, que calificarán los Ayuntamientos.
 
-Los Presidentes Municipales podrán ser suspendidos en el ejercicio de su cargo en los casos de los artículos 156, 159 y 160 de la Constitución Política Local.
+Los integrantes de los Ayuntamientos podrán ser suspendidos o revocados en el ejercicio de su cargo en los casos previstos en el Título Noveno de la Constitución Política Local.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 14.
 
-Cuando no se hubiera verificado la elección en la fecha en que debe renovarse el Ayuntamiento, o efectuada ésta, no se presenten los miembros del Ayuntamiento a tomar posesión de los cargos para los que fueron elegidos, el Gobernador propondrá al Congreso o a la Comisión Permanente, en su caso, un Consejo Municipal que se encargará provisionalmente de las funciones del Ayuntamiento y se convocará a elecciones extraordinarias que deberán celebrare en un plazo no mayor de cuarenta y cinco días.
+Cuando no se hubiere verificado la elección en la fecha en que deba renovar (sic) el Ayuntamiento, o efectuada ésta, no se presenten los miembros del Ayuntamiento a tomar posesión de los cargos para los que fueron elegidos, el Gobernador propondrá al Congreso o a la Diputación Permanente en su caso, un Concejo Municipal integrado por vecinos del Municipio, que se encargará provisionalmente de las funciones del Ayuntamiento y se convocará a elecciones extraordinarias que deberán celebrarse en un plazo no mayor de 45 días.
 
 El mismo procedimiento se seguirá cuando la elección se declare nula o cuando por cualquier causa desaparezcan los poderes del Ayuntamiento o se desintegre dentro de los dos primeros años de su ejercicio.
 
-Cuando se produzca la desaparición de poderes o la desintegración del Ayuntamiento en el último año del período de gobierno Municipal, el Congreso del Estado o de la Comisión Permanente, en su caso, a propuesta del Gobernador nombrará una Junta de Gobierno Municipal que concluirá el período de gobierno.
+Cuando se produzca la desaparición de Poderes o la desintegración del Ayuntamiento en el último año del Período de Gobierno Municipal, el Congreso del Estado o la Diputación Permanente, en su caso, a propuesta del Gobernador, nombrará de entre los vecinos del municipio una Junta de Gobierno Municipal que concluirá el Período de Gobierno.
 
 ###### Artículo 15.
 
 Se considerará desintegrado un Ayuntamiento, cuando, por cualquier causa aunque sea temporal, falten todos los munícipes propietarios y suplentes quedando sin gobierno el Municipio. Si quedan algunos munícipes pero no los suficientes para constituir quórum, se llamará a los suplentes y si aún así tampoco integran mayoría, se estará a lo dispuesto en el artículo anterior.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 16.
 
-Los Ayuntamientos iniciaran sus funciones el día primero de enero siguiente a la elección.
+Los Ayuntamientos iniciarán sus funciones el día primero de enero siguiente a su elección.
 
-El 31 de diciembre en sesión pública y solemne, en la que el Presidente Municipal en funciones o el Presidente del Consejo Municipal o de la Junta de Gobierno, en su (sic) respectivos casos, rinda el último informe de administración, se tomará también la propuesta prevista en el artículo 163 de la Constitución del Estado a los funcionarios electos. El Presidente entrante rendirá la propuesta de Ley y a continuación la tomará a los demás munícipes que se encuentren presentes.
+Dentro de los últimos tres días del año de la elección, en Sesión Pública Solemne, en la que el Presidente Municipal en funciones o el Presidente de la Junta de Gobierno Municipal, en sus respectivos casos, rinda el último Informe de Administración, se tomará también la protesta prevista en el Artículo 163 de la Constitución Política del Estado a los funcionarios electos. El Presidente entrante rendirá la protesta de Ley y a continuación la tomará a los demás munícipes que se encuentren presentes.
 
 ###### Artículo 17.
 
@@ -193,9 +205,9 @@ V. Dividir el territorio municipal en Delegaciones, Subdelegaciones, Sectores o 
 
 VI. Convocar elecciones de los miembros de los Consejos de Colaboración Municipal.
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
-VII. Expedir la convocatoria para celebrar plebiscitos y calificarlos, conforme a lo establecido en la Fracción VI del Artículo 27 de esta Ley, así como aprobar, en su caso, el nombramiento de Sub-Delegados Municipales.
+VII. Expedir la convocatoria para celebrar plebiscitos y calificarlos conforme a lo establecido en el Artículo 27-A, de esta Ley, y aprobar, en su caso, el nombramiento de Sub-Delegados Municipales.
 
 VIII. Solicitar la expropiación de bienes para causas de utilidad pública.
 
@@ -209,7 +221,9 @@ XII. Administrar su Hacienda en términos de Ley y controlar a través del Presi
 
 XIII. Resolver los recursos interpuestos en contra de los acuerdos dictados por el Presidente Municipal o por el propio Ayuntamiento.
 
-XIV. Rendir al Congreso del Estado, por conducto de la Comisión Permanente, dentro de los dos primeros meses, la cuenta del gasto público del año anterior.
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+XIV. Rendir al Congreso del Estado, por conducto de la Diputación Permanente, dentro de los dos primeros meses la Cuenta Pública del Gasto Público del año anterior.
 
 XV. Adquirir bienes, en cualesquiera de las formas previstas por la Ley. Si los Ayuntamientos se encontraren en posesión de bienes vacantes, operará, en su favor la prescripción positiva en los términos que señala el Código Civil vigente en el Estado.
 
@@ -221,7 +235,9 @@ XVIII. Cuidar del aseo de las calles, calzadas, avenidas y lugares públicos.
 
 XIX. Fijar las condiciones que deban reunir todos los establecimientos, cuyo inadecuado funcionamiento pueda ocasionar daños o molestias a la comunidad y dar cuenta en su caso a la autoridad competente que corresponda.
 
-XX. Prevenir y combatir, en proporción a la posibilidad de sus recursos, la contaminación ambiental, en los términos del último párrafo del artículo 5o. de la Ley Federal sobre la materia.
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+XX. Prevenir y combatir, en proporción a la posibilidad de sus recursos, la contaminación ambiental, en los términos de la Ley de la materia.
 
 XXI. Proporcionar los servicios de seguridad y tránsito a la población en general y mantener el orden en espectáculos, festividades, paseos y lugares públicos.
 
@@ -243,15 +259,19 @@ XXIX. Auxiliar a las Autoridades Federales y del Estado, en las medidas que adop
 
 XXX. Nombrar representante jurídico en negocios judiciales concretos cuando lo estimen pertinente.
 
-XXXI. Proveer e la esfera administrativa, todo lo necesario para la creación y sostenimiento de los servicios municipales.
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+XXXI. Proveer en la esfera administrativa todo lo necesario para la creación y sostenimiento de los servicios públicos señalados en el Artículo 66 de esta propia Ley.
 
 XXXII. Conceder licencia a sus miembros hasta por treinta días y llamar, en su caso, a quienes deban sustituirlos.
 
-XXXIII. Suspender a sus miembros en caso de proceso por responsabilidad proveniente de faltas o delitos oficiales.
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
-En caso de inhabilitación o de falta definitiva de un miembro del Ayuntamiento se llamará al suplente para que entre en funciones.
+XXXIII. Otorgar licencias y permisos para construcciones y autorizar permisos para fraccionamientos, estos últimos previa aprobación en lo general, del Gobierno del Estado.
 
-XXXIV. Ejercer las funciones relativas a la planeación y ordenación de los asentamientos humanos en su jurisdicción, participando con la Federación, las Entidades Federativas o con otros Municipios un la celebración de convenios para cumplir con los objetivos y finalidades de los planes aprobados en materia de desarrollo urbano y rural; y en general hacer valer los derechos y cumplir con todas las obligaciones que a los Municipios señalen las Leyes Federal, Estatal y Reglamentos legalmente expedidos sobre planeación, fundación, conservación, mejoramiento y crecimiento de los centros de población y de más normas sobre asentamientos humanos en el Municipio.
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+XXXIV. Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana y participar en la creación y administración de zonas y reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarias.
 
 XXXV. Rendir a la población del Municipio, ante el Gobernador del Estado, o su representante, en la última Sesión Extraordinaria de año, un informe detallado sobre el estado que guarda la administración pública municipal.
 
@@ -261,13 +281,25 @@ XXXVII. Autorizar las transferencias y partida que reclamen los servicios munici
 
 XXXVIII. Conceder licencias y autorizaciones municipales para el funcionamiento de empresas comerciales, industriales, o de servicios, así como cancelarías temporal o definitivamente por mal uso de ellas o por violar las disposiciones reglamentarias. Señalar horarios en los establecimientos abiertos al público.
 
-> <small>(ADICIONADA, B.O. 10 DE MAYO DE 1980)</small>
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
-XXXIX. Integrar en el mes de enero de cada año un Consejo Local de Tutela, de acuerdo con lo establecido en los artículos 631 y 632 del Código Civil vigente en el Estado.
+XXXIX. Formular, publicar y darle cumplimiento a los planes municipales de desarrollo urbano, en los términos de la Ley de la materia.
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+XL. Celebrar Convenios para la prestación de servicios o ejecución de obras.
+
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+XLI. Establecer el Catastro Municipal.
+
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+XLII. Establecer los servicios y verificar que se realicen las funciones del Registro Público de la Propiedad y del Comercio conforme a las Leyes de la materia.
 
 > <small>(REFORMADA, B.O. 10 DE MAYO DE 1980)</small>
 
-XL. Las demás que le asignen otras Leyes y Reglamentos.
+XLIII. Las demás que le asignen otras Leyes y Reglamentos.
 
 ### CAPITULO CUARTO. FACULTADES Y OBLIGACIONES DE LOS PRESIDENTES MUNICIPALES
 
@@ -275,7 +307,9 @@ XL. Las demás que le asignen otras Leyes y Reglamentos.
 
 El Presidente Municipal es el ejecutor de las determinaciones del Ayuntamiento y tiene las siguientes facultades:
 
-I. De programar y ordenar la publicación de bandos y reglamentos aprobados por el Ayuntamiento en materia Municipal, así como publicar las Leyes y Reglamentos que se encomienden.
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+I. De programar y ordenar la publicación de bandos y reglamentos aprobados por el Ayuntamiento en materia municipal, así como publicar las Leyes y Reglamentos que se le encomienden.
 
 II. Convocar y presidir las Sesiones de los Ayuntamientos.
 
@@ -285,31 +319,9 @@ IV. Representar al Ayuntamiento y rendir a su nombre, el informe anual sobre la 
 
 V. Proponer al Ayuntamiento los nombramientos de Secretario General, Tesorero y Jefes de Dependencias y Oficinas Municipales.
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
-VI. Nombrar y remover a los Sub-Delegados, Alcaides, Personal de la Dirección de Seguridad y Tránsito y Personal Administrativo en general, de acuerdo a las disposiciones aplicables; así como cuidar que las dependencias y oficinas municipales se integren y funcionen con eficiencia.
-
-Los nombramientos de Delegados deberá hacerlos con la participación de los ciudadanos de las respectivas jurisdicciones, mediante la celebración de plebiscitos y de acuerdo con las normas que establezca la convocatoria que para tal efecto expida cada Ayuntamiento y que será publicada en la primera quincena del mes de enero del Primer Año de Gobierno Municipal a efecto de que los plebiscitos se desarrollen en la segunda quincena de ese mismo mes.
-
-Dicha convocatoria deberá establecer el número de participantes elegibles, quienes o qué órganos pueden proporcionarlos, requisitos de legibilidad, calendario de actividades y las demás circunstancias y normas que el Ayuntamiento estima que debe someterse la elección correspondiente. El Ayuntamiento calificará los plebiscitos celebrados, hará la declaratoria correspondiente y pasará ésta al Presidente Municipal para su ejecución, que surtirá sus efectos a partir del quince de febrero.
-
-Los Delegados Municipales podrán ser removidos por cualquiera de las siguientes causas:
-
-a).- Por pedimento fundado y motivado de 100 o más ciudadanos vecinos de la Delegación correspondiente.
-
-b).- Cuando se dicte en su contra orden de aprehensión, auto de formal prisión o de sujeción a proceso.
-
-c).- Por la realización de actos contrarios a los programas de trabajo del Ayuntamiento.
-
-d).- Cuando deje de satisfacer alguno de los requisitos de elegibilidad establecidos en la convocatoria.
-
-La solicitud de remoción deberá presentarse ante el Presidente Municipal e irá acompañada de las pruebas pertinentes dentro del plazo de 10 días el Presidente la hará del conocimiento del Cabildo, el cual designará un a comisión de su seno, que se avocará a la investigación de la misma para averiguar si está probada o no la causa de remoción y que propondrá al Cabildo el dictamen respectivo, dentro de un plazo no mayor de 20 días siguientes a la sesión en que se hubiere tenido conocimiento de la solicitud de remoción. A continuación el Ayuntamiento hará la declaratoria que procediere y el Presidente Municipal se encargará de su ejecución.
-
-La falta absoluta de los Delgados Municipales se cubrirá de la siguiente manera:
-
-a).- Si la falta ocurre en la primera mitad del Periodo Constitucional del Ayuntamiento, deberá celebrarse plebiscito extraordinario conforme a las reglas establecidas en este mismo Artículo.
-
-b).- Si la falta ocurriese dentro de la segunda mitad del mismo periodo constitucional, el Ayuntamiento nombrará el Delgado a propuesta del Presidente Municipal.
+VI. Nombrar y remover a los Sub-Delegados, Alcaides, Personal Administrativo y de Seguridad y Tránsito, de acuerdo a las disposiciones aplicables: Así como cuidar que las Dependencias municipales se integren y funcionen con eficiencia.
 
 VII. Vigilar la recaudación en todas las ramas de la Hacienda Municipal y que la inversión de los fondos municipales se aplique con estricto apego al presupuesto.
 
@@ -327,11 +339,55 @@ XIII. Solicitar la autorización del Ayuntamiento para ausentarse del Municipio 
 
 XIV. Enviar a las autoridades del Municipio y Estatales los ejemplares que contengan las Leyes, Reglamentos y demás disposiciones vigentes, en materia municipal, con la debida oportunidad.
 
-XV. Proveer lo necesario para que los Oficiales y Funcionarios Substitutos, desempeñen en el Municipio los servicios y funciones del Registro Civil en los términos establecidos en la Constitución Estatal y vigilar el cumplimiento de las disposiciones de la materia contenidas en el Código Civil vigente en el Estado.
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+XV. Proveer lo necesario para que Oficiales y Funcionarios substitutos, desempeñen en el Municipio los servicios y funciones del Registro Civil, en los términos de la Constitución Estatal y vigilar se cumplan las disposiciones de la Ley de la materia.
 
 XVI. Obligar cambiariamente al Municipio en forma mancomunada con el Secretario General del Ayuntamiento y el Tesorero Municipal únicamente cuando estas obligaciones se puedan pagar dentro del período de su ejercicio.
 
-XVII. Las demás disposiciones que les señala esta Ley y cualquier otro ordenamiento en vigor.
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+XVII. Cumplir los Convenios que celebre el Ayuntamiento.
+
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+XVIII. Proveer lo necesario para que las oficinas de Catastro y Registro Público de la Propiedad y del Comercio desempeñen sus funciones y presten los servicios en los términos establecidos por las Leyes de la materia vigilando su estricto cumplimiento.
+
+XIX. Las demás disposiciones que les señala esta Ley y cualquier otro ordenamiento en vigor.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+###### Artículo 27-A.
+
+Los nombramientos de Delegados deberán hacerse con la participación de los Ciudadanos de las respectivas jurisdicciones, mediante la celebración de plebiscitos y de acuerdo con las normas que establezca la Convocatoria que para tal efecto expida cada Ayuntamiento y que será publicada en la primera quincena del mes de enero del primer año de Gobierno Municipal, a efecto que los plebiscitos se desarrollen en la segunda quincena de ese mismo mes.
+
+Dicha convocatoria deberá establecer el número de participantes elegibles, quiénes o que órganos pueden proporcionarlos, requisitos de elegibilidad, calendario de actividades y las demás circunstancias y normas que el Ayuntamiento estime a que debe someterse la elección correspondiente. El Ayuntamiento calificará los plebiscitos celebrados, hará la declaratoria correspondiente y pasará ésta al Presidente Municipal para su ejecución, que surtirá sus efectos a partir del quince de Febrero.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+###### Artículo 27-B.
+
+Los Delegados Municipales durarán en su encargo tres años y sólo podrán ser removidos:
+
+Fracción (sic) I. Por pedimento fundado y motivado de la Ciudadanía de la Delegación correspondiente.
+
+II. Por la realización de actos contrarios a los programas de trabajo del Ayuntamiento.
+
+III. Cuando deje de satisfacer alguno de los requisitos de elegibilidad establecidos en la convocatoria.
+
+IV. En los casos y con las formalidades que señala el Título Noveno de la Constitución Política del Estado.
+
+En los casos de las Fracciones I, II y III anteriores la solicitud de remoción deberá presentarse ante el Presidente Municipal e irá acompaña de las pruebas pertinentes, dentro del plazo de 10 días el Presidente la hará del conocimiento del Cabildo, el cual designará una Comisión de su seno, que se avocará a la investigación de la misma para averiguar si está probada o no la causa de remoción y que propondrá al Cabildo el dictamen respectivo dentro de un plazo no mayor de 20 días siguientes a la Sesión en que se hubiere tenido conocimiento de la solicitud de remoción, a continuación el Ayuntamiento hará la declaratoria que procediere y el Presidente Municipal se encargará de su ejecución.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+###### Artículo 27-C.
+
+La falta absoluta de cualesquiera de los Delegados Municipales se cubrirá de la siguiente manera:
+
+Fracción (sic) I. Si la falta ocurriera en la primera mitad del Período Constitucional del Ayuntamiento, deberá celebrarse plebiscito extraordinario conforme a las reglas establecidas en el Artículo 27-A.
+
+II. Si la falta ocurriera dentro de la segunda mitad del mismo Período Constitucional, el Ayuntamiento nombrará al Delegado a propuesta del Presidente Municipal.
 
 ###### Artículo 28.
 
@@ -345,7 +401,9 @@ III. Ausentarse del Municipio por más de 15 días sin licencia del Ayuntamiento
 
 IV. Cobrar personalmente o por interpósita persona o por empleado que no dependa de la Tesorería Municipal, multa o arbitrio alguno.
 
-V. Consentir o autorizar que Oficinas distintas de la Tesorería Municipal, conserven o retengan fondos Municipales.
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+V. Consentir o autorizar que oficinas distintas de la Tesorería Municipal, conserven o retengan fondos municipales excepto por convenios o por disposición de la Ley.
 
 VI. Residir, durante su gestión, fuera del territorio Municipal que represente.
 
@@ -443,29 +501,89 @@ Para cubrir las faltas definitivas de los miembros de los Ayuntamientos serán l
 
 Las faltas temporales de las autoridades auxiliares municipales serán suplidas por la persona que designe el Ayuntamiento; las que tengan el carácter de definitivas no serán suplidas y se hará la designación correspondiente.
 
-### CAPITULO NOVENO. DE LA REMOCION E INHABILITACION DE LOS MIEMBROS DEL AYUNTAMIENTO
+> <small>(REFORMADA SU DENOMINACION, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+### CAPITULO NOVENO. DE LA DECLARACION DE DESAPARICION, SUSPENCION (SIC) Y REVOCACION DE AYUNTAMIENTOS
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 40.
 
-Los miembros de los Ayuntamientos podrán ser declarados inhábiles de los puestos para los cuales fueron electos, en los siguientes casos:
+Corresponde exclusivamente a la Legislatura del Estado declarar que un Ayuntamiento ha desaparecido y designar, en su caso, a un Concejo Municipal.
 
-I. Por abandono de sus funciones en un lapso de quince días consecutivos, sin causa justificada.
+Solo se podrá declarar que un Ayuntamiento ha desaparecido, cuando el cuerpo edilicio se haya desintegrado o cuando no sea posible el ejercicio de sus funciones conforme al orden constitucional, federal o estatal.
 
-II. Por inasistencia consecutiva a tres sesiones de Cabildo, sin causa justificada.
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
-III. Cuando existan entre sus miembros, conflictos que hagan imposible el cumplimiento de los fines del Ayuntamiento y ejercicio de sus competencias.
+###### Artículo 40-A.
 
-IV. Cuando se dicte auto de formal prisión por delito doloso; y
+La Petición para que la Legislatura conozca de las causas a que se refiere el Artículo anterior podrá ser formulada por el Ejecutivo del Estado, por Legisladores Locales o por vecinos del Municipio. Recibida la petición, si la Legislatura la estima procedente, y de acuerdo a las circunstancias que medien, citará al Ayuntamiento a una audiencia que se celebrará, en su caso, ante la Comisión correspondiente, dentro de cinco días naturales a partir de la cita, en la que éste, por conducto del Presidente Municipal, o la representación que al efecto designe, con la comparecencia de su o sus defensores, podrá rendir las pruebas que estime conducentes y alegar lo que a sus intereses convengan. La resolución, en su caso, se producirá dentro de los ocho días siguientes al recibo de la petición. En todo caso, para que ésta resolución sea válida, se requerirá el acuerdo de las dos terceras partes de los integrantes de la Legislatura Local.
 
-V. Por incapacidad física o legal.
+En los recesos de la Legislatura Local, la Diputación Permanente convocará a Período Extraordinario de Sesiones a fin de que se reúna para conocer de la petición a que se refiere el Párrafo anterior.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+###### Artículo 40-B.
+
+Si la Legislatura declara que ha desaparecido el Ayuntamiento, procederá a designar e instalar de inmediato; entre los vecinos del Municipio y a propuesta del Gobernador, a un Concejo Municipal, con el mismo número de integrantes que los que esta Ley señala para el Ayuntamiento.
+
+Los Concejos Municipales tendrán las mismas atribuciones que esta Ley confiere a los Ayuntamientos.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+###### Artículo 40-C.
+
+Si la desaparición del Ayuntamiento se declara dentro de los primeros dos años del ejercicio de éste, el Concejo Municipal tendrá el carácter de provisional y se convocará a nueva elección de Ayuntamiento, que se deberá efectuar en el término de cuarenta y cinco días, aplicándose para el efecto, las disposiciones establecidas en la Constitución Política y la Ley Electoral del Estado en lo conducente.
+
+Si la desaparición del Ayuntamiento se declara en el último año de su ejercicio, se aplicará lo establecido en el último párrafo del Artículo 14 de la presente Ley.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 41.
 
-En los casos previstos por las fracciones I, II, IV y V del artículo que antecede, la inhabilitación operará de pleno derecho, debiendo la autoridad de mayor jerarquía del Ayuntamiento, en funciones, llamar a los suplentes para que de inmediato o dentro de un término de cinco días se presenten a fungir.
+Los Miembros de los Ayuntamientos podrán ser suspendidos definitivamente en los puestos para los cuales fueron electos, en los siguientes casos:
+
+I. Quebrantamiento de los principios del Régimen Federal o de la Constitución Política del Estado.
+
+II. Abandono de sus funciones en un lapso de quince días consecutivos, sin causa justificada.
+
+III. Inasistencia consecutiva a tres Sesiones de Cabildo sin causa justificada.
+
+IV. Cuando se susciten entre ellos conflictos que hagan imposible el cumplimiento de los fines del Ayuntamiento o el ejercicio de sus funciones.
+
+V. Abuso de autoridad en perjuicio de la Comunidad del Municipio.
+
+VI. Omisión reiterada en el cumplimiento de sus funciones.
+
+VII. Cuando se dicte auto de formal prisión por delito doloso, a alguno de ellos.
+
+VIII. Promoción o adoptación de forma de Gobierno o base de organización política distintas a las señaladas en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado.
+
+IX. Incapacidad física o legal permanente.
+
+X. En los casos señalados en el título noveno de la Constitución Política del Estado.
+
+En estos casos se aplicará en lo conducente lo dispuesto por el artículo 40-A de esta Ley. En el caso de que la totalidad de los integrantes del Ayuntamiento se encuentren en alguno de los supuestos previstos en las fracciones anteriores, se estará a lo dispuesto en el Artículo 41-B de esta Ley.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+###### Artículo 41-A.
+
+En los casos previstos en el Artículo que antecede, una vez declarada la suspensión por la Legislatura Local, se procederá a la designación de los substitutos, de acuerdo a lo establecido en la Constitución Política del Estado y esta Ley.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+###### Artículo 41-B.
+
+Cuando por cualquier otra causa no comprendida en el segundo párrafo del Artículo 40 de esta Ley, el Ayuntamiento deje de funcionar normalmente, desacate reiteradamente la Legislación Estatal o Federal, o quebrante los principios del Régimen Federal o de la Constitución Política del Estado, la Legislatura del Estado lo suspenderá definitivamente, aplicándose en lo conducente lo dispuesto en los Artículos 40, 40-A, 40-B y 40-C de esta Ley.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 42.
 
-Cuando el Ejecutivo del Estado tenga conocimiento de la existencia de la situación prevista por la fracción III del artículo 40 de esta Ley, previa investigación y análisis de los hecho, oyendo a los interesados, podrá pedir al Congreso del Estado la aplicación del artículo 64 en sus fracciones XXXVII y XXXVII de la Constitución del Estado.
+El mandato otorgado a alguno de los miembros del Ayuntamiento, sólo podrá ser revocado por la Legislatura del Estado, con el acuerdo de las dos terceras partes de sus miembros, cuando los integrantes de este cuerpo edilicio no reúnan los requisitos de elegibilidad previstos para tal caso.
+
+En caso de que el mandato sea revocado, la Legislatura Local procederá a la designación del substituto.
 
 ## TITULO III. ORGANISMOS MUNICIPALES
 
@@ -483,19 +601,19 @@ I. Los Delegados Municipales en los centros de población del Municipio; y
 
 II. Los Sub-Delegados Municipales, en los lugares comprendidos dentro de la jurisdicción de la Delegación, cuando sean necesarios.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 31 DE DICIEMBRE DE 1980)</small>
-
 ###### Artículo 45.
 
-Los Delgados y Sub-Delegados durarán en su encargo tres años; los primeros sólo podrán ser removidos por las causas y conforme a lo establecido en la Fracción VI del Artículo 27 de esta Ley; los Sub-Delegados podrán ser removidos por el Ayuntamiento en cualquier tiempo por justa causa.
+(DEROGADO, B.O. 26 DE DICIEMBRE DE 1983)
 
 ### CAPITULO SEGUNDO. DE LOS CONSEJOS DE COLABORACION MUNICIPAL
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 46.
 
-En cada Municipio funcionará uno o varios Consejos de Colaboración Municipal según lo acuerde el Ayuntamiento. Estarán integrados por tres o más miembros, y uno de ellos fungiendo como Presidente. Donde existan organizaciones y agrupaciones representativas de los principales sectores sociales de la comunidad, ellas también podrán estar integradas dentro del Consejo.
+En cada Municipio funcionarán uno o varios Consejos de colaboración municipal, según lo acuerde el Ayuntamiento. Estarán integrados por tres o más miembros, y uno de ellos fungiendo como Presidente; donde existan organizaciones y agrupaciones representativas de los principales sectores sociales de la comunidad, ellas también podrán estar integradas dentro del Consejo. Los miembros del Consejo desempeñarán el cargo a título honorífico por lo que no devengarán sueldo.
 
-En la organización, funcionamiento y supervisión de los Consejos de Colaboración Municipal sólo podrá intervenir la Autoridad Municipal.
+En la organización, funcionamiento y supervisión de los Consejos de colaboración Municipal sólo podrá intervenir la autoridad municipal.
 
 ###### Artículo 47.
 
@@ -505,29 +623,33 @@ I. Coadyuvar para el cumplimiento eficaz de los planes y programas municipales a
 
 II. Promover la participación y colaboración de los habitantes y vecinos en todos los aspectos de beneficio social; y
 
-III. Presentar proposiciones al Ayuntamiento para fijar las bases de los planes y programas municipales o para modificarlos en su caso.
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+III. Formar parte de las Comisiones consultivas de desarrollo urbano para la elaboración, formulación y modificación de los planes de desarrollo urbano.
 
 ###### Artículo 48.
 
 Los Consejos de Colaboración se integrarán con vecinos del Municipio y serán electos democráticamente en la forma y términos que determine el Ayuntamiento. Durarán en su cargo el tiempo que dure la administración municipal en que fueron electos.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 49.
 
-Los Consejos de Colaboración Municipal tendrán la obligación de informar oportunamente al pueblo y al Ayuntamiento sobre:
+El Ayuntamiento podrá encomendar a los Consejos de colaboración la recolección de aportaciones económicas de la comunidad.
 
-I. Los proyectos de (sic) pretendan realizar.
-
-II. El estado de las obras en proceso.
-
-III. Las obran realizadas; y
-
-IV. El estado de cuenta que guarda la recolección de aportaciones económicas de la comunidad.
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 50.
 
-El Ayuntamiento podrán (sic) encomendar a los Consejos de Colaboración la recolección de aportaciones económicas de la comunidad.
+Los consejos de colaboración municipal tendrán la obligación de informar oportunamente a sus representados y al Ayuntamiento sobre:
 
-En este caso los recibos serán autorizados por la Tesorería Municipal y a ésta se concentrarán sus fondos, los cuales se aplicarán a la obra respectiva.
+I. Los proyectos que pretendan realizar.
+
+II. El estado que guardan los objetivos planteados.
+
+III. Los objetivos realizados; y
+
+IV. El estado de cuenta que guarda la recolección de aportaciones económicas de la comunidad.
 
 ###### Artículo 51.
 
@@ -549,17 +671,23 @@ III. Los muebles insustituibles como son los expedientes oficiales, archivos, do
 
 IV. Los bienes de dominio privado que le pertenecen en propiedad y los que en lo futuro integren a su patrimonio, no previstas en las fracciones anteriores relativas a bienes de dominio público.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 53.
 
-Los bienes de dominio público son inalineables (sic) e imprescriptibles y no están sujetos, mientras no varíe su situación jurídica, acción reivindicatoria o de posesión definitiva o provisional.
+Los bienes de dominio público son inalienables e imprescriptibles y no están sujetos, mientras no varíe su situación jurídica a acción reivindicatoria o de posesión definitiva o provisional.
 
-Los bienes de dominio privado son inembargables, pero podrán ser enajenados mediante acuerdo del Ayuntamiento. Si son inmuebles, se requerirá el acuerdo del H. Ayuntamiento.
+Los bienes de dominio privado son inembargables, pero podrán ser enajenados mediante acuerdo del Ayuntamiento.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 54.
 
-La Hacienda de los Municipios se formará:
+La hacienda de los Municipios se formará:
 
-I. Por las percepciones que establezca su Ley de Ingresos y por todas las que decrete la Legislatura y las que señalen otras Leyes.
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+I. Por las percepciones que establezca su Ley de ingresos y por todas las que decrete el Congreso del Estado y las que señalen otras Leyes.
 
 II. Por las participaciones que perciban de acuerdo con las Leyes Federales y Estatales.
 
@@ -569,11 +697,13 @@ III. De las rentas y productos de todos los bienes Municipales, así como por lo
 
 ### CAPITULO PRIMERO. DE LA SECRETARIA MUNICIPAL
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 55.
 
-En cada Ayuntamiento para el despacho de los asuntos de carácter administrativo y para auxiliar en sus funciones al Presidente Municipal, se tendrá una Secretaría.
+En cada Ayuntamiento para el despacho de los asuntos de carácter administrativo y para auxiliar en sus funciones al Presidente Municipal, se tendrá una Secretaria.
 
-La Secretaría Municipal estará encomendada a un Secretario, quien no será miembro del Ayuntamiento, y se designará a propuesta por el Presidente Municipal.
+La Secretaría Municipal estará encomendada a un Secretario quien no será miembro del Ayuntamiento, y se designará a propuesta del Presidente Municipal.
 
 ###### Artículo 56.
 
@@ -595,13 +725,17 @@ II. Controlar la correspondencia oficial y dar cuanta diaria con todos (sic) asu
 
 III. Citar por escrito a los miembros del Ayuntamiento a las sesiones de Cabildo, mencionando en el citatorio, lugar, día y hora de la sesión.
 
-IV. Estar presente en todas las sesiones del Ayuntamiento con voz informativa y levantar las actas correspondientes; en su caso asentar y certificar las causas que hayan impedido celebrar la sesión.
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+IV. Estar presente en todas las Sesiones del Ayuntamiento y levantar las Actas correspondientes y participar con voz pero sin voto, y en su caso asentar y certificar las causas que hayan impedido celebrar Sesión.
 
 V. Expedir las copias, credenciales y demás certificaciones y documentos que acuerde el Ayuntamiento
 
 VI. Autorizar con su firma todos los documentos oficiales emanados del Ayuntamiento o del Presidente Municipal.
 
-VII. Formular en (sic) presentar relación mensual de expedientes que se hayan resuelto en dicho lapso o se encuentren pendientes de resolución, haciendo mención suscinta (sic) del asunto en cada caso.
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+VII. Formular y presentar relación mensual de expedientes que se hayan resuelto en dicho lapso o se encuentren pendientes de resolución, haciendo mención suscinta (sic) del asunto en cada caso.
 
 VIII. Con la intervención del Síndico, formular el inventario general y registro de libros especiales, de los bienes muebles e inmuebles propiedad del Municipio, de dominio público y de dominio privado, expresando todos los datos de identificación, valor y destino de los mismos.
 
@@ -689,11 +823,15 @@ XXI. Realizar el padrón de contribuyentes municipales, y
 
 XXII. Las demás que le impongan las Leyes.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 63.
 
-La inspección de la Hacienda Pública Municipal compete al Ayuntamiento por conducto del Presidente o Síndico, en los términos de esta Ley, y a la Contaduría Mayor de Hacienda, cuando el Ejecutivo del Estado sea avalista de empréstitos o créditos concedidos a los Ayuntamientos, acreedor de estos últimos o en los casos en que se les otorgue participación estatal de impuestos, podrá nombrar un representante en las visitas de inspección que se realicen.
+La inspección de la Hacienda Pública Municipal, compete al Ayuntamiento por conducto del Presidente o Síndico, en los términos de esta Ley, y a la Contaduría Mayor de Hacienda del Congreso del Estado, cuando el Ejecutivo del Estado sea avalista de empréstitos o créditos concedidos a los Ayuntamientos, acreedor de estos últimos en los casos en que se les otorgue participación estatal de impuestos, podrá nombrar como su representante al Contralor del Estado en las visitas de inspección que se realicen.
 
-El Ejecutivo podrá en cualquier tiempo solicitar a la Contaduría Mayor de Hacienda, la práctica de visitas de inspección.
+El Ejecutivo Estatal podrá en cualquier tiempo solicitar al Congreso del Estado, que la Contaduría Mayor de Hacienda practique visitas de inspección.
+
+Los Ayuntamientos podrán solicitar al Gobernador el auxilio de la Contraloría del Estado para llevar a cabo Auditorías en los Municipios.
 
 ###### Artículo 64.
 
@@ -731,37 +869,45 @@ f) Si los pagos se hacen con puntualidad y hay algún adelanto o atraso en ellos
 
 g) Si los asientos se llevan al corriente.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 65.
 
-Se concede acción popular para denunciar ante el Ayuntamiento, o ante el Ejecutivo del Estado, la malversación de fondos municipales y cualquier otro hecho que se estime en contra de la Hacienda Municipal.
+Cualquier ciudadano bajo su más estricta responsabilidad podrá formular denuncia ante el Congreso del Estado, mediante la presentación de elementos de prueba, por malversación de fondos municipales o cualquier otro hecho que estime en contra de la Hacienda Municipal.
 
 ### CAPITULO TERCERO. DE LOS SERVICIOS PUBLICOS
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 66.
 
-Los Municipios, organizarán y reglamentarán la administración, funcionamiento, conservación o explotación de los servicios públicos, considerándose enunciativamente y no limitativamente como tales, los siguientes:
+Los Municipios, con el concurso del Estado cuando así fuere necesario, organizarán y reglamentarán la administración, funcionamiento, conservación o explotación de los servicios públicos, considerándose enunciativamente y no limitativamente como tales, los siguientes:
 
-I. Rastro.
+I. Agua Potable y Alcantarillado.
 
-II. Mercada.
+II. Alumbrado Público.
 
-III. Panteón
+III. Limpia.
 
-IV. Limpia.
+IV. Mercados centros de abasto.
 
-V. Seguridad pública.
+V. Panteones.
 
-VI. Alumbrado.
+VI. Rastros.
 
-VII. Tránsito.
+VII. Calles, parque y jardines.
 
-VIII. Conservación de obras de interés social.
+VIII. Seguridad pública y tránsito.
 
-IX. Suministro y abastecimiento de agua potable.
+IX. Conservación de obras de interés social.
 
-X. Servicio de drenaje y alcantarillado.
+X. Fomento y conservación de áreas verdes y recreativas.
 
-XI. Fomento y conservación de áreas verdes y recreativas.
+XI. Catastro.
+
+XII. Registro Público de la Propiedad y del Comercio.
+
+Los Municipios del Estado, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les correspondan.
 
 ###### Artículo 67.
 
@@ -775,9 +921,11 @@ Cuando los servicios públicos sean prestados directamente por el Ayuntamiento, 
 
 Cuando los servicios públicos municipales sean concesionados a particulares, se sujetarán a las disposiciones de esta Ley, a las contenidas en la concesión y a las que determine el Ayuntamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 70.
 
-Los Municipios requieren la autorización previa de la Legislatura del Estado para concesionar sus servicios públicos, en los siguientes casos:
+Los Municipios requieren la autorización previa del Congreso del Estado para concesionar sus servicios públicos, en los siguientes casos:
 
 I. Si el término de la concesión excede a la gestión del Ayuntamiento; y
 
@@ -785,9 +933,11 @@ II. Si con la concesión del servicio público se afectan bienes inmuebles munic
 
 ### CAPITULO CUARTO. DE LOS ACTOS ADMINISTRATIVOS MUNICIPALES
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 71.
 
-Los Ayuntamientos necesitan autorización de la Legislatura para:
+Los Ayuntamientos necesitan autorización del Congreso del Estado para:
 
 I. Obtener empréstitos cuyo pago sea posterior al del período de ejercicio del Ayuntamiento.
 
@@ -803,7 +953,11 @@ VI. Desafectar del servicio público los bienes municipales.
 
 VII. Cambiar las categorías políticas de las poblaciones; y
 
-VIII. Los demás casos establecidos por las Leyes.
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+VIII. Celebrar convenios con otros Ayuntamientos o con el Gobierno del Estado.
+
+IX. Los demás casos establecidos por las Leyes.
 
 ###### Artículo 72.
 
@@ -813,21 +967,27 @@ A la solicitud de autorización para contratar, de acuerdo con el artículo ante
 
 (DEROGADO, B.O. 20 DE DICIEMBRE DE 1977)
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 74.
 
-La celebración de los contratos a que se refiere la fracción IV del artículo 71 de esta Ley, se sujetará a concurso de acuerdo con las bases aprobadas por la Legislatura, a menos que ésta autorice a hacerlo en otra forma.
+La celebración de los contratos a que se refiere la Fracción IV del Artículo 71 de esta Ley, se sujetará al concurso de acuerdo con las bases aprobadas por el Congreso del Estado, a menos que ésta autorice a hacerlo en otra forma.
 
 ###### Artículo 75.
 
 En las solicitudes para cambiar de destino o desafectar los bienes de uso común o dedicados a un servicio público, se expresarán los motivos que tenga el Ayuntamiento solicitante para ello, acompañándose el dictamen técnico al respecto.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 76.
 
-Por ningún motivo los Ayuntamientos harán donación bajo ningún título, de los bienes muebles e inmuebles propiedad del Municipio, excepto cuando se trate de realización de obras de beneficio colectivo; en este caso, se requiere la autorización de la Legislatura Local.
+Por ningún motivo los Ayuntamientos harán donación bajo ningún título, de los bienes muebles e inmuebles propiedad del Municipio, excepto cuando se trate de realización de obras de beneficio colectivo; en este caso se requerirá la autorización del H. Congreso del Estado.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 77.
 
-Los Ayuntamientos apegándose a la Legislatura vigente sobre asentamientos humanos, estarán obligados preferentemente a adquirir los inmuebles que circunden a los centros de población de su Municipio, a efecto de integrar un área de reserva urbana destinada a satisfacer las necesidades de expansión y desarrollo de éstos.
+Los Ayuntamientos apegándose a la Legislación vigente sobre Asentamientos Humanos, estarán obligados preferentemente a adquirir los inmuebles que circunden a los centros de población de su municipio, a efecto de integrar una área de reserva urbana destinada a satisfacer las necesidades de expansión y desarrollo de éstos.
 
 ###### Artículo 78.
 
@@ -915,9 +1075,11 @@ VIII. Las demás que le encomiende el Ayuntamiento y las que le asignen la Leyes
 
 Los Ayuntamientos expedirán los Bandos y Reglamentos Municipales y el Presidente los promulgará.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 91.
 
-Los Bandos y Reglamentos deberán contener las normas de observancia general que requiere el régimen, el orden y buen gobierno y el funcionamiento de los servicios públicos y establecimientos de la administración municipal.
+Los Bandos y Reglamentos deberán contener las normas de observancia general que requiere el Régimen, el Orden y Buen Gobierno y el Funcionamiento de los servicios públicos y establecimientos de la administración municipal, sujetándose a las bases que señala el Congreso del Estado.
 
 ###### Artículo 92.
 
@@ -935,13 +1097,21 @@ Los Bandos y Reglamentos Municipales, sus reformas y adiciones, deberán publica
 
 ### CAPITULO PRIMERO. DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 95.
 
-Las infracciones a las normas contenidas en los Bandos y Reglamentos Municipales que no tengan establecidas sanciones especiales, se sancionarán con:
+Las infracciones a las normas contenidas en los Bandos y Reglamentos Municipales que no tengan establecidas sanciones especiales se sancionarán con:
 
 I. Amonestación.
 
-II. Multa hasta de cincuenta mil pesos, pero si el infractor es jornalero, ejidatario u obrero, la multa no excederá del salario de una semana.
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+II. Multa hasta $50,000. (Cincuenta mil pesos 00/100 M.N.) pero si el infractor no pagara la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de 36 horas.
+
+Si el infractor fuese jornalero, obrero o trabajador no podrá ser sancionado con multa mayor que el importe de su jornal o salario de un día.
+
+Tratándose de trabajadores no asalariados la multa no excederá del equivalente de un día de su ingreso.
 
 III. Arresto no mayor de treinta y seis horas.
 
@@ -951,9 +1121,11 @@ V. Clausura; y
 
 VI. Pago al erario municipal del daño ocasionado, sin perjuicio de las demás sanciones que procedan conforme a las Leyes.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 96.
 
-Los Bandos y Reglamentos determinarán las causas y los procedimientos mediante los cuales se configuran las infracciones a la Legislación Municipal y la imposición de sanciones, tomando en cuenta la gravedad de la infracción y las circunstancias particulares del caso y del contraventor.
+Los Bandos y Reglamentos determinarán las causas y los procedimientos mediante los cuales se configuren las infracciones a los mismos y la imposición de sanciones, teniendo en cuenta lo estipulado por el Artículo 21 de la Constitución General de la República, así como la gravedad de la infracción y las circunstancias particulares del caso y del contraventor.
 
 ###### Artículo 97.
 
@@ -1068,3 +1240,13 @@ El presente Decreto entrará en vigor el día primero de enero de 1981, previa p
 ###### ARTICULO 2º.
 
 Cada Presidente Municipal, con la aprobación del Cabildo, designará Delegados Provisionales que podrán ser los de la Administración anterior para cubrir el periodo comprendido del primero de enero a la toma de posesión de los Delegados electos mediante los plebiscitos.
+
+B.O. 26 DE DICIEMBRE DE 1983.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
