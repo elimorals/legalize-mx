@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1934-12-08"
+last_updated: "1935-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 1934.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 1935
+
+(DECRETO NUM. 63)
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -491,7 +493,9 @@ IX. Autorizar la enajenación y gravamen de los bienes raíces del Estado y de l
 
 X. Fijar las bases a los Ayuntamientos para la contratación de emprésitos.
 
-XI. Suprimir empleos públicos, no pudiendo crear nuevas partidas ni aumentar la dotación de las aprobadas en el Presupuesto.
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1935)</small>
+
+XI. Suprimir empleos públicos.
 
 XII. Conceder permisos y decretar honores por servicios eminentes prestados a la Humanidad, a la Patria o al Estado.
 
@@ -827,9 +831,9 @@ Las facultades y obligaciones del Gobernador son las siguientes:
 
 I. En el orden federal, las que determinen la Constitución y las Leyes Federales.
 
-> <small>(DEROGADA POR DECRETO No. 109, P.O. 8 DE DICIEMBRE DE 1934)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1935)</small>
 
-II. Cuidar de la seguridad y traquilidad del Estado según la Constitución y las leyes, para cuyo efecto podrá nombrar y remover libremente los Jefes de Policía Municipales.
+II. Cuidar de la seguridad y tranquilidad del Estado según la Constitución y las leyes.
 
 III. Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos, procurando que se haga efectiva la responsabilidad en que aquella incurriere.
 
@@ -1536,3 +1540,11 @@ Este decreto comenzará a surtir sus efectos a partir de la fecha de su publicac
 P.O. 8 DE DICIEMBRE DE 1934.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA LAS DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+P.O. 13 DE AGOSTO DE 1935 (DECRETO No. 62)
+
+Transitorio.- Esta reforma comenzará a surtir sus efectos a partir de la fecha de su promulgación.
+
+P.O. 13 DE AGOSTO DE 1935 (DECRETO No. 63)
+
+Transitorio.- Este decreto principiará a surtir sus efectos desde la fecha de su publicación.
