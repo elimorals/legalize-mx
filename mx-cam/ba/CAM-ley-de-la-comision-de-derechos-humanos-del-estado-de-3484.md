@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-la-comision-de-derechos-humanos-del-estado-de-3484"
 country: "mx"
 rank: "ley"
 publication_date: "1993-01-01"
-last_updated: "1993-01-01"
+last_updated: "2000-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2000.
 
 Ley Publicada en el Periódico Oficial del Estado de Campeche, el viernes 1º. de enero de 1993.
 
@@ -47,9 +47,11 @@ LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE
 
 Esta ley es de orden público y de aplicación en todo el territorio del Estado en materia de Derechos Humanos, respecto de los mexicanos y extranjeros que se encuentren en esta entidad federativa, en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2000)</small>
+
 ###### ARTICULO 2.
 
-La Comisión de Derechos Humanos del Estado de Campeche es un organismo descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto esencial la protección, observancia, promoción, estudio y divulgación de los derechos humanos previstos por el orden jurídico mexicano.
+La Comisión de Derechos Humanos del Estado de Campeche es un organismo con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios, que tiene por objeto esencial la protección, observancia, promoción, estudio y divulgación de los derechos humanos previstos por el orden jurídico mexicano.
 
 ###### ARTICULO 3.
 
@@ -71,7 +73,9 @@ El personal de la Comisión Estatal deberá manejar de manera confidencial la in
 
 La Comisión Estatal se integrará con un Presidente, una Secretaría Ejecutiva, hasta tres Visitadores Generales, así como el número de visitadores adjuntos y personal profesional, técnico y administrativo, necesario para la realización de sus funciones, que permita el presupuesto de egresos de la institución.
 
-La Comisión Estatal para el mejor desempeño de sus responsabilidades contará con un Consejo.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2000)</small>
+
+La Comisión Estatal para el mejor desempeño de sus responsabilidades contará con un Consejo Consultivo.
 
 ###### ARTICULO 6.
 
@@ -125,15 +129,21 @@ I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos po
 
 II.- No tener menos de treinta y cinco años de edad el día de su nombramiento; y
 
-III.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2000)</small>
+
+III.- Gozar de buena reputación, no ser militante de algún partido político, ni haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2000)</small>
 
 ###### ARTICULO 9.
 
-El nombramiento del Presidente de la Comisión será hecho por el Gobernador del Estado y sometido a la aprobación del Congreso Local, o en sus recesos, a la Diputación Permanente.
+El Presidente de la Comisión será electo por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, dentro de los que figuren en la terna que al efecto presentará el Gobernador del Estado. Para la conformación de la terna, el Gobernador consultará la opinión de los organismos y organizaciones a que se refiere el artículo 16.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2000)</small>
 
 ###### ARTICULO 10.
 
-El Presidente de la Comisión durará en sus funciones cuatro años, y podrá ser designado exclusivamente para un segundo período.
+El Presidente de la Comisión durará en sus funciones cinco años, y podrá ser reelecto por una sola vez.
 
 ###### ARTICULO 11.
 
@@ -151,7 +161,9 @@ El Presidente de la Comisión podrá ser destituido y, en su caso, sujeto a resp
 
 El Presidente de la Comisión tendrá las siguientes facultades:
 
-I.- Ejercer la representación legal de la Comisión;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2000)</small>
+
+I.- Ejercer la representación legal de la Comisión, con plenas facultades para suscribir, en nombre de la misma, toda clase de convenios, contratos y demás actos jurídicos, salvo los de dominio para los cuales necesitará autorización expresa del Consejo Consultivo;
 
 II.- Formular los lineamientos generales a los que se sujetarán las actividades administrativas de la Comisión, así como nombrar, dirigir y coordinar a los funcionarios y al personal bajo su autoridad;
 
@@ -159,7 +171,9 @@ III.- Dictar las medidas específicas que juzgue convenientes para el mejor dese
 
 IV.- Distribuir y delegar funciones a la Secretaría Ejecutiva y a los Visitadores Generales en los términos del Reglamento Interno;
 
-V.- Enviar un informe anual al Congreso del Estado y al titular del Poder Ejecutivo Estatal sobre las actividades de la Comisión;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2000)</small>
+
+V.- Presentar anualmente, a los Poderes del Estado, un informe de las actividades de la Comisión;
 
 VI.- Celebrar, en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con autoridades y organismos de defensa de los derechos humanos así como con instituciones académicas y asociaciones culturales, para el mejor cumplimiento de sus fines;
 
@@ -167,7 +181,9 @@ VII.- Aprobar y emitir las recomendaciones públicas autónomas y acuerdos que r
 
 VIII.- Formular las propuestas generales conducentes a una mejor protección de los derechos humanos en el Estado;
 
-IX.- Elaborar el anteproyecto de presupuesto de egresos de la Comisión y el respectivo informe sobre su ejercicio para presentarse al Consejo de la misma;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2000)</small>
+
+IX.- Elaborar el proyecto de presupuesto de egresos de la Comisión y el respectivo informe sobre su ejercicio, y someterlo a la consideración del Consejo Consultivo de la misma, para su aprobación;
 
 X.- Recepcionar y enviar a la Comisión Nacional de Derechos Humanos los recursos de impugnación que fueren interpuestos ante la Comisión Estatal, en los términos establecidos por el artículo 63 de la Ley de la Comisión Nacional de Derechos Humanos; y
 
@@ -177,23 +193,29 @@ XI.- Las demás que le señalen la presente ley y otros ordenamientos.
 
 Tanto el Presidente de la Comisión, como los Visitadores Generales y los visitadores adjuntos, en sus actuaciones tendrán fe pública para certificar la veracidad de los hechos en relación con las quejas o denuncias presentadas ante la Comisión Estatal.
 
-### CAPITULO III. DE LA INTEGRACION, NOMBRAMIENTO Y FACULTADES DEL CONSEJO
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE ABRIL DE 2000)</small>
+
+### CAPITULO III. DE LA INTEGRACION Y FACULTADES DEL CONSEJO CONSULTIVO
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2000)</small>
 
 ###### ARTICULO 16.
 
-El Consejo a que se refiere el artículo 5o. de esta ley, estará integrado por diez personas que gocen de reconocido prestigio en la sociedad, mexicanos en pleno ejercicio de sus derechos ciudadanos, y cuando menos siete de entre ellos no deben desempeñar ningún cargo o comisión como servidor público.
+El Consejo Consultivo de la Comisión estará integrado por diez consejeros que serán elegidos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, previa auscultación entre las organizaciones sociales representativas de los diversos sectores de la sociedad, así como entre los organismos públicos y privados promotores o defensores de los derechos humanos en la entidad. Cada año serán sustituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos para un segundo periodo. Los consejeros deberán ser personas que gocen de reconocido prestigio en la sociedad campechana, mexicanos en pleno ejercicio de sus derechos ciudadanos, quienes además no deberán tener la calidad de servidores públicos, ni ser dirigentes o militantes de partido político alguno.
 
-El Presidente de la Comisión lo será también del Consejo. Los cargos de los demás miembros del Consejo serán honorarios y durarán en sus funciones cuatro años.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2000)</small>
 
 ###### ARTICULO 17.
 
-El nombramiento de los miembros del Consejo será hecho por el Titular del Poder Ejecutivo Local y sometido a la aprobación del Congreso del Estado, y en los recesos de éste a su Diputación Permanente.
+El Presidente de la Comisión lo será también del Consejo. Los cargos de los demás miembros del Consejo serán honorarios.
 
 El Consejo contará con un Secretario Técnico, designado por el propio Consejo a propuesta del Presidente de la Comisión, cuyas funciones serán elaborar las actas de las sesiones del Consejo y las que le atribuya el Reglamento Interno.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2000)</small>
+
 ###### ARTICULO 18.
 
-El Consejo de la Comisión tendrá las siguientes facultades:
+El Consejo Consultivo de la Comisión tendrá las siguientes facultades:
 
 I.- Establecer los lineamientos generales de actuación de la Comisión;
 
@@ -201,11 +223,15 @@ II.- Aprobar el Reglamento Interno de la Comisión;
 
 III.- Aprobar las normas de carácter interno relacionadas con la Comisión;
 
-IV.- Opinar sobre el proyecto de informe anual que el Presidente de la Comisión presente al Congreso del Estado y al Titular del Poder Ejecutivo Local;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2000)</small>
+
+IV.- Opinar sobre el proyecto de informe anual que el Presidente de la Comisión presente a los Poderes del Estado;
 
 V.- Solicitar al Presidente de la Comisión información adicional sobre los asuntos que se encuentren en trámite o haya resuelto la propia Comisión; y
 
-VI.- Conocer el informe del Presidente de la Comisión respecto al ejercicio presupuestal.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2000)</small>
+
+VI.- Conocer y aprobar el informe del Presidente de la Comisión respecto al ejercicio presupuestal y situación patrimonial del organismo.
 
 ###### ARTICULO 19.
 
@@ -413,9 +439,11 @@ La Comisión notificará inmediatamente a los quejosos los resultados de la inve
 
 El Presidente de la Comisión deberá publicar en su totalidad o en forma resumida, las recomendaciones y los acuerdos de no responsabilidad de la Comisión Estatal. En casos excepcionales podrá determinar si los mismos sólo deban comunicarse a los interesados de acuerdo con las circunstancias del propio caso. La publicación se hará en el Periódico Oficial del Gobierno del Estado y en uno de los de mayor circulación en la entidad.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2000)</small>
+
 ###### ARTICULO 50.
 
-El Presidente de la Comisión de Derechos Humanos deberá enviar un informe anual tanto al Congreso del Estado como al Titular del Ejecutivo Local, sobre las actividades que haya realizado en el período respectivo. Dicho informe será difundido en la forma más amplia posible para conocimiento de la sociedad.
+El Presidente de la Comisión de Derechos Humanos deberá presentar un informe anual, a los Poderes del Estado, sobre las actividades que haya realizado en el período respectivo. Dicho informe será difundido en la forma más amplia posible para conocimiento de la sociedad.
 
 ###### ARTICULO 51.
 
@@ -497,9 +525,11 @@ Todos los servidores públicos que integran la planta de la Comisión, son traba
 
 La Comisión de Derechos Humanos contará con patrimonio propio. El Gobierno Estatal deberá proporcionarle los recursos materiales y financieros que requiera para su debido funcionamiento.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2000)</small>
+
 ###### ARTICULO 63.
 
-La Comisión de Derechos Humanos tendrá la facultad de elaborar su anteproyecto de presupuesto anual de egresos, el cual remitirá directamente a la Secretaría competente del Gobierno del Estado, para el trámite correspondiente.
+La Comisión de Derechos Humanos tendrá la facultad de elaborar su proyecto de presupuesto anual de egresos, el cual remitirá directamente al Congreso del Estado, durante la segunda quincena del mes de noviembre, para el trámite correspondiente.
 
 ## TRANSITORIOS
 
@@ -522,3 +552,15 @@ Palacio Legislativo, Campeche, Cam., 31 de Diciembre de 1992.- Dip. José Antoni
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono y, en consecuencia, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los treinta y un días del mes de diciembre de mil novecientos noventa y dos.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. CRUZ MANUEL ALFARO ISAAC.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE ABRIL DE 2000.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+Tercero.- Las disposiciones relativas a elección del Presidente de la Comisión y de los miembros del Consejo Consultivo se aplicarán cuando concluya el periodo para el cual fueron designados quienes actualmente detentan esos cargos.
+
+Cuarto.- La Comisión, dentro del término de noventa días contados a partir de la fecha en que entre vigor el presente decreto, deberá hacer las adecuaciones correspondientes a su Reglamento Interior, las cuales serán publicadas en el Periódico Oficial del Estado para su plena validez.
