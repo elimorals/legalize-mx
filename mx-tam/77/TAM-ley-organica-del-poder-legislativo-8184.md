@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-legislativo-8184"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-07-05"
-last_updated: "1989-04-22"
+last_updated: "1994-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8184&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 1994.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el 5 de julio de 1986.
 
@@ -53,7 +53,7 @@ El Congreso se integrará por Diputados electos según el Principio de Votación
 
 ###### ARTICULO 3o.
 
-El ejercicio de las funciones de los Diputados, por el término de tres años, constituye una Legislatura del Congreso del Estado de Tamaulipas.
+El Ejercicio de las funciones de los Diputados, por el término de tres años, constituye una Legislatura del Congreso del Estado de Tamaulipas.
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 1989)</small>
 
@@ -61,9 +61,11 @@ El ejercicio de las funciones de los Diputados, por el término de tres años, c
 
 La Legislatura tendrá su residencia en la capital del Estado, sin perjuicio de que pueda sesionar fuera de su sede, en el lugar que para el efecto acuerden las dos terceras partes de sus miembros.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 1994)</small>
+
 ###### ARTICULO 5o.
 
-El Congreso tendrá dos períodos ordinarios de sesiones cada año: El primero, improrrogable, comenzará el uno de enero y terminará el 30 de abril; el segundo prorrogable hasta por un mes, dará principio el uno de septiembre y terminará el 30 de noviembre.
+El Congreso tendrá dos períodos ordinarios de sesiones cada año: El primero, improrrogable, iniciará el uno de marzo y terminará el día treinta y uno de mayo, excepto al instalarse cada Legislatura, en cuyo caso será del uno de enero al treinta y uno de marzo; el segundo dará principio el uno de septiembre, durando el tiempo necesario para tratar todos los asuntos de su competencia, sin que pueda extenderse más allá del día quince de diciembre, exceptuándose el último año de la Legislatura, cuando podrá prorrogarse por los días de diciembre que sean necesarios.
 
 Las sesiones extraordinarias tendrán lugar siempre que fuere convocado al efecto por la Diputación Permanente en los términos de la Constitución Política del Estado.
 
@@ -572,3 +574,9 @@ P.O. 22 DE ABRIL DE 1989
 PRIMERO.- Se deroga toda disposición que se oponga al contenido de este Decreto.
 
 SEGUNDO.- El presente Ordenamiento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE FEBRERO DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
