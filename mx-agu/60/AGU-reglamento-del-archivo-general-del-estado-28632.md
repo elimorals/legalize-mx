@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-archivo-general-del-estado-28632"
 country: "mx"
 rank: "reglamento"
 publication_date: "1980-09-21"
-last_updated: "1980-09-21"
+last_updated: "1991-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO DEL ARCHIVO GENERAL DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL ARCHIVO GENERAL DEL GOBIERNO DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 24 DE NOVIEMBRE DE 1991, EL PRESENTE ORDENAMENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el domingo 21 de septiembre de 1980.
 
@@ -160,3 +162,13 @@ J. Refugio Esparza Reyes
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Antonio Javier Aguilera García.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE NOVIEMBRE DE 1991.
+
+PRIMERO.- El presente Reglamento entrara en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento del Archivo General del Estado, publicado en el Periódico Oficial No. 28, de fecha 21 de septiembre de 1980.
+
+TERCERO.- Se derogan todas las disposiciones jurídicas y/o administrativas, en lo que se opongan a lo establecido por el presente Reglamento.
