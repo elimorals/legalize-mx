@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "1998-12-31"
+last_updated: "1999-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1999.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -205,17 +205,21 @@ III. Honorarios a personas que presten servicios profesionales en forma preponde
 
 Son sujetos de este impuesto las personas físicas y morales o unidades económicas que dentro del territorio del Estado, realizan las erogaciones a que se refiere el artículo anterior.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 22.
 
-Es base del impuesto el monto total de las remuneraciones a que se refiere el artículo 20.
+Es base del impuesto el monto total de las remuneraciones a que se refiere el artículo 20. No incluirán dentro de la base aquellos conceptos que la Ley del Seguro Social excluye expresamente de la integración del salario base de cotización de las aportaciones de seguridad social.
 
 ###### ARTICULO 23.
 
 El Impuesto se causará y pagará a razón del uno por ciento sobre la base señalada en el artículo anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 24.
 
-El impuesto se causará en el momento en que se realicen las erogaciones objeto del impuesto y se pagará en forma mensual mediante declaración que deberá presentarse dentro de los primeros quince días hábiles del mes siguiente al de las erogaciones, ante la oficina recaudadora o establecimiento autorizado de la jurisdicción a que pertenezca el domicilio del contribuyente, en los formatos que para esos efectos expida la Secretaría de Finanzas.
+El impuesto se causará en el momento en que se realicen las erogaciones objeto del impuesto y se pagará en forma mensual mediante declaración que deberá presentarse a más tardar el día quince del mes siguiente al de las erogaciones, ante la oficina recaudadora o establecimiento autorizado de la jurisdicción a que pertenezca el domicilio del contribuyente, en los formatos que para esos efectos expida la Secretaría de Finanzas.
 
 La obligación de presentar esta declaración subsistirá aún cuando no exista impuesto a cargo.
 
@@ -267,7 +271,9 @@ f) (sic) Gastos de representación y viáticos efectivamente erogados por cuenta
 
 II. Las erogaciones que efectúen:
 
-a) La Federación, el Estado y los Municipios, así como los organismos descentralizados de éstos;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+a) La Federación, el Estado y los Municipios;
 
 b) Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas, así como actividades deportivas, culturales o sociales;
 
@@ -285,7 +291,9 @@ Para el fomento de la inversión productiva y la generación de empleos en el Es
 
 I. Las personas físicas o morales que incrementen en términos reales las remuneraciones a que se refiere este capítulo, tendrán derecho a solicitar a la Secretaría de Finanzas, un certificado que podrán aplicar contra el impuesto que resulte a pagar en los dos años posteriores a la fecha en que lo reciban, de acuerdo a las siguientes reglas:
 
-a) Al monto total de los salarios base del impuesto, correspondientes al ejercicio de que se trate, se le restará el monto total de los salarios base del impuesto, correspondientes al ejercicio inmediato anterior;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+a) Al monto total de los salarios base del impuesto, correspondientes al ejercicio de que se trate, se le restará el monto total de los salarios base del impuesto, correspondientes al ejercicio inmediato anterior, adicionado éste último en un porcentaje equivalente a aquél en que, por acuerdo de la Comisión Nacional de Salarios Mínimos, se haya incrementado el salario mínimo general en el ejercicio anterior a aquél en que se solicite el estímulo.
 
 b) El resultado de la operación a que se refiere el inciso anterior, se multiplicará por el factor que resulte de dividir el índice nacional de precios al consumidor del mes de diciembre del ejercicio de que se trate, entre el citado índice del mes de diciembre del ejercicio inmediato anterior;
 
@@ -329,9 +337,11 @@ El impuesto se calculará y determinará aplicando a la base que señala el art�
 
 Este impuesto se causará en el momento de pago por la prestación del servicio de hospedaje recibido.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 34.
 
-Los prestadores de estos servicios deberán retener el impuesto y trasladarlo al momento del cobro; y, de enterar en forma mensual el importe del impuesto causado. Dichos pagos serán provisionales a cuenta del impuesto anual. Los pagos deberán efectuarse mediante declaración, en las formas que al efecto determine la Secretaría de Finanzas ante las Oficinas Recaudadoras o establecimientos autorizados, correspondientes al domicilio del prestador de servicios, en los siguientes términos:
+Los prestadores de servicios de hospedaje, deberán calcular el impuesto y trasladarlo al momento del cobro; mensualmente enterarán el monto recaudado mediante declaración provisional, a cuenta del impuesto anual, utilizando los formatos aprobados por la Secretaría de Finanzas. Las declaraciones se presentarán en las oficinas recaudadoras o establecimientos autorizados, correspondientes al domicilio del prestador de los servicios de hospedaje en los plazos siguientes:
 
 I. Tratándose de personas físicas, a más tardar el día 19 siguiente al mes en que se retuvo el impuesto; y
 
@@ -339,11 +349,15 @@ II. Tratándose de personas morales a más tardar el día 17 siguiente al mes en
 
 El impuesto del ejercicio, deducidos los pagos provisionales, se pagará mediante declaración ante la Oficina Recaudadora correspondiente al domicilio fiscal del contribuyente dentro de los tres meses siguientes al cierre del ejercicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 35.
 
-Para el cumplimiento oportuno de esta obligación, las personas físicas o morales prestadoras del servicio deberán:
+Para el cumplimiento oportuno de las obligaciones establecidas en el artículo anterior, las personas físicas o morales prestadoras de los servicios por los que se deba pagar este impuesto, deberán:
 
-I. Presentar ante la Secretaría de Finanzas del Estado o ante la Oficina Recaudadora correspondiente al domicilio fiscal del contribuyente el aviso de inscripción dentro de los 15 días hábiles siguientes a la fecha de iniciación de sus operaciones mediante los formatos que para el efecto expida la Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+I. Presentar ante la Secretaría de Finanzas del Estado o ante la oficina recaudadora correspondiente a su domicilio, el aviso de inscripción dentro de los quince días hábiles siguientes a la fecha de inicio de sus operaciones, mediante los formatos que para el efecto apruebe la Secretaría de Finanzas;
 
 II. Presentar aviso ante las mismas autoridades, dentro de los 15 días hábiles siguientes de ocurrido uno o varios de los eventos como cambio de nombre, denominación o razón social, cambio de domicilio, sustitución patronal, suspensión de actividades o cualquier otra modificación a los datos aportados en el documento de empadronamiento;
 
@@ -361,6 +375,8 @@ Las autoridades fiscales, podrán determinar la cantidad del impuesto que deben 
 
 ### CAPITULO IV. SERVICIOS DE SALUD PUBLICA
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ## TITULO TERCERO. DERECHOS
 
 ### CAPITULO V. SERVICIOS PRESTADOS POR LA SECRETARIA DE ECOLOGIA Y GESTION AMBIENTAL
@@ -371,13 +387,29 @@ Con relación al ejercicio del notariado, se causarán los siguientes derechos e
 
 I. Por el examen para la práctica del notariado, 230.41;
 
-II. Por cada fiat que expida el Ejecutivo para el ejercicio del notariado, 230.41. Por los servicios de revisión y autorización del protocolo de los notarios públicos se pagará derechos en salarios mínimos, conforme a las cuotas que a continuación se establecen:
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
-a) Por la razón de apertura, 13.74; y
+II. Por cada fiat que expida el Ejecutivo para el ejercicio del notariado, 230.41;
 
-b) Por la revisión de razón de cierre y su autorización, 11.98.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
-III. Al exhibir el pago de los derechos que causa el registro de los convenios a que se refiere el inciso d), se presentará el aviso que se cita en el Artículo 49 de la Ley del Notariado.
+III. Por los servicios de revisión y autorización del protocolo de los notarios públicos se pagará el derecho conforme a las cuotas que a continuación se establecen:
+
+a) Por la razón de apertura, 13.74.
+
+b) Por la razón de cierre y su autorización, 11.98.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+IV. Por el registro de nombramiento, sello y firma, se pagarán 4.78, respectivamente, y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+V. Por el registro de convenios entre notarios, corredores públicos o entre ambos, se pagarán 15.59.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+Al exhibir el pago de los derechos que causa el registro de convenios a que se refiere la fracción anterior, se presentará el aviso que se cita en el artículo 49 de la Ley del Notariado.
 
 ###### ARTICULO 38.
 
@@ -391,9 +423,11 @@ III. Por anotaciones marginales en actas del Registro Civil de juicios por sente
 
 IV. Por la expedición de copias de actas certificadas del estado civil se pagarán derechos en salarios mínimos, como sigue:
 
-a) Si se expiden dentro de los cinco días siguientes a aquél en que se pagaron los derechos, 0.41, si la expide la Dirección del Registro Civil; y 0.5 si la expide el Archivo Histórico del Estado;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
-b) Si se expiden dentro del término de las dos horas siguientes al pago de los derechos, si la expide la Dirección del Registro Civil, 2.5; si la expide el Archivo Histórico del Estado, 1.5;
+a) Por la expedición de copias de actas certificadas del Registro Civil se pagarán 0.41 si ésta la efectúa la Dirección del Registro Civil y 0.5 si la expide el Archivo Histórico del Estado;
+
+b) (DEROGADO, P.O. 30 DE DICIEMBRE DE 1999)
 
 c) Si se entregan a domicilio en la zona urbana de la capital del Estado, dentro de las cuarenta y ocho horas siguientes a que se reciba la solicitud vía telefónica, se cobrará 0.75;
 
@@ -503,7 +537,9 @@ I. Por inscripción de documentos en que se protocolicen actas de asamblea, junt
 
 II. Por la inscripción de escrituras constitutivas de sociedades cooperativas se causará el 50% de la tarifa del Artículo 40, fracción I de esta Ley; y
 
-III. Por la inscripción de instrumentos en que se consigne la fusión de sociedades, se causará el 1% sobre el capital social resultante de la fusión.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+III. Por inscripción de instrumentos en que se consigne la fusión de sociedades, se causará el uno porciento sobre la diferencia en el capital de la fusionante, antes y después de la fusión.
 
 ###### ARTICULO 44.
 
@@ -595,9 +631,7 @@ VII. Por la búsqueda de datos en este archivo, que no efectúe directamente el 
 
 ###### ARTICULO 57.
 
-Cuando los actos del Registro Público de la Propiedad y del Archivo de Notarias a que se refieren los artículos 40 al 56 de esta Ley se despachen con carácter de urgente, causarán, además de la tarifa normal, 4 salarios mínimos; en casos extra urgentes deberán cubrirse, además de la tarifa normal, 8 salarios mínimos. Los servicios urgentes se prestarán al día hábil siguiente de aquel en que se solicitaron y los extra urgentes el mismo día de su pago.
-
-Los servicios ordinarios se prestarán dentro de los cuatro días siguientes al de su pago. Los servicios urgentes y extra urgentes se verificarán fuera del horario de trabajo y de las tarifas extraordinarias se destinará el 50% para su distribución entre el personal que laboró el tiempo extra, ello con el objeto de no alterar el despacho normal de los actos registrales.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 58.
 
@@ -803,7 +837,9 @@ A personas menores de dieciocho años 7.53
 
 III. Por la expedición de permisos para manejar, con vigencia de seis meses, a personas menores de dieciocho años pero mayores de dieciséis, se pagarán 6.35; y
 
-IV. Cuando se trate de reposición de las licencias o permisos a que se refiere este artículo, se deberá pagar $30.00, más la parte proporcional en función del período que falte por transcurrir para el vencimiento de los mismos.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+IV. Cuando se trate de reposición de licencias o permisos a que se refiere este artículo, se deberá pagar dos por la parte proporcional del período que falte por transcurrir para el vencimiento de los mismos.
 
 ###### ARTICULO 67.
 
@@ -917,6 +953,10 @@ El Estado podrá convenir con los municipios, en los términos del artículo 8 d
 
 Serán de carácter gratuito el empadronamiento, traspaso, cambio de actividades y de negociaciones mercantiles, industriales o de servicio.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+En el caso de licencias para la venta de bebidas alcohólicas, por el cambio de titular de la licencia, cambio de domicilio o cambio de actividad, deberán cubrirse los derechos equivalentes al otorgamiento de licencia inicial; excepto en el caso de cesión de los derechos de licencia entre cónyuges o ascendientes y descendientes.
+
 ###### ARTICULO 69.
 
 Por los avalúos que practique la Dirección de Catastro se pagarán sobre los montos valuados:
@@ -1023,69 +1063,13 @@ Los cursos de capacitación para conductor del servicio de transporte público, 
 
 ###### ARTICULO 80.
 
-Por la expedición de la licencia estatal de uso de suelo a que se refieren los artículos 60 a 62 del Código Urbano y Ecológico, se cobrarán los siguientes derechos expresados en salarios mínimos, según el uso de suelo establecido, como sigue:
-
-a) Habitacional:
-
-Popular y de interés social hasta 100 m2 0
-
-Media 8
-
-Residencial 10
-
-Campestre 10
-
-b) Comercial y de servicio:
-
-Educación 15
-
-Cultura 15
-
-Salud 15
-
-Asistencia Social 15
-
-Asistencia Animal 15
-
-Abastos 15
-
-Comunicaciones 15
-
-Transporte 15
-
-Recreativos 10
-
-Deportes 10
-
-Servicios Urbanos 15
-
-Servicios Administrativos 15
-
-Alojamiento 15
-
-Servicio de apoyo para las actividades Productivas 10
-
-c) Industrial:
-
-Micro 15
-
-Pequeña 15
-
-Mediana 20
-
-Grande 25
-
-Para la regularización de industria establecida, el factor salario mínimo se multiplicará por el valor (0.5).
-
-Por la expedición de copias de dictámenes de uso de suelo se pagará 5 salarios mínimos.
-
-En caso que una industria o comercio pretenda establecerse en un parque, fraccionamiento o condominio industrial, el cual haya cumplido previamente con los trámites requeridos por la Secretaría y efectuado los pagos correspondientes, únicamente cubrirá un pago de 6 salarios mínimos por la emisión del dictamen de uso de suelo individual.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1999)
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 81.
 
-La expedición de permisos para establecimientos dedicados a la elaboración, venta, distribución, consumo, almacenamiento, transporte y expendio de alcoholes y bebidas de contenido alcohólico y otras actividades análogas, será de carácter gratuito y deberá sujetarse a las disposiciones del Título Décimo Segundo de la Ley Estatal de Salud en vigor y demás relativas del citado ordenamiento, así como a las de la Ley de Bebidas Alcohólicas del Estado de San Luis Potosí.
+La expedición de permisos para establecimientos dedicados a la elaboración, venta, distribución, consumo, almacenamiento, transporte y expendio de alcoholes y bebidas de contenido alcohólico y otras actividades análogas, deberá sujetarse a las disposiciones de la Ley Estatal de Salud y de la Ley de Bebidas Alcohólicas del Estado de San Luis Potosí.
 
 ###### ARTICULO 82.
 
@@ -1487,6 +1471,10 @@ IV. Juego de formas de solicitud de licencia para manejo de vehículos motorizad
 
 VII. Cartas político-geográficas del Estado en escala 1:500,000 c/u. 4.93
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+VII-A. Juego de formas de declaración para el pago del Impuesto Sobre Adquisición de Inmuebles, en aquellos municipios con los que el Estado haya celebrado Convenio para la Administración de Contribuciones Inmobiliarias 0.50
+
 VIII. Planos de cartas urbanas 1:10,000 c/u. 4.32
 
 IX. Por medición de terrenos y expedición de plano a escala de la medición efectuada.
@@ -1517,6 +1505,10 @@ Por hectárea con pendiente de 45 grados o más. 22.50
 
 El excedente que resulte de las cuotas señaladas en los incisos a) y b) de esta fracción se reducirá en un 50% tratándose de inspecciones a superficies mayores a 2,000 m2 y a 10 hectáreas respectivamente.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+c). Deslinde en rebeldía de partes. 20.00
+
 X. Por copia de contacto en papel fotográfico blanco y negro en formato 23x23 cm. Escala 1:4,500. 3.80
 
 XI. Por cada diapositiva blanco y negro en formato 23x23 escala 1:4,500. 5.20
@@ -1531,7 +1523,9 @@ XIV. Por copia de contacto en papel fotográfico blanco y negro en formato de 23
 
 XV. Por cada diapositiva blanco y negro en formato 23x23 cm. Escala 1:20,000 y 1:35,000. 6.80
 
-XVI. Por vértices geodésicos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+XVI. Por vértices de apoyo directo:
 
 a) Por cada vértice de apoyo directo (incluyendo fotografía de contacto, con ubicación, listado de coordenadas universal, transversal de mercator y geográficas, así como un croquis). 76.40
 
@@ -1616,3 +1610,11 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. JUAN CARLOS BARRON CERDA.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 1999.
+
+PRIMERO. Este Decreto entrará en vigor a partir del día primero de enero del año 2000.
+
+SEGUNDO. La derogación del artículo 80 de la Ley de Hacienda del Estado, entrará en vigor al iniciar su vigencia la reforma aprobada por la Cámara de Diputados del Congreso de la Unión, con fecha 17 de julio de 1999, al artículo 115 de la Constitución General de la República; mientras tanto, los derechos por la expedición de la licencia estatal de uso de suelo a que se refieren los artículos 60 a 62 del Código Urbano y Ecológico, los seguirá cobrando el Estado.
