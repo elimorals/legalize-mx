@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-mercados-del-estado-de-morelos-7117"
 country: "mx"
 rank: "ley"
 publication_date: "1965-10-27"
-last_updated: "1975-06-25"
+last_updated: "1978-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE MERCADOS DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 1978.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el día 27 de octubre de 1965.
 
@@ -311,11 +311,11 @@ XIX.- Los demás que se establezcan en esta Ley y otras Leyes.
 
 De la administración de los mercados.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1975)</small>
+> <small>N. DE E. POR ARTICULO PRIMERO DEL DECRETO NO. 142 SE DEROGA EL DECRETO NUMERO 75 DE FECHA 10 DE JUNIO DE 1975 QUE REFORMA EL ARTICULO 34 DE ESTA LEY, P.O. 8 DE NOVIEMBRE DE 1978.</small>
 
 ###### ARTICULO 34.
 
-La administración de mercados estará a cargo de la persona o personas que designe el ayuntamiento o Concejo respectivo, de la terna que a su consideración someta la Unión de Locatarios de cada uno de los mercados y sus atribuciones serán, las de vigilar la observancia de esta Ley, las disposiciones conexas y su ejecución, dependiendo dichos administradores directamente del H. Ayuntamiento.
+La administración de mercados estará a cargo de la persona o personas que designe el Ayuntamiento o Consejo Municipal respectivo y sus atribuciones serán las de vigilar la observancia de esta Ley, sus disposiciones conexas y su ejecución.
 
 ###### Artículo 35.
 
@@ -522,3 +522,13 @@ P.O. 25 DE JUNIO DE 1975.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo:- Remítase al Ejecutivo para los efectos de la Fracción XVII del Artículo 70 de la Constitución Política Local.
+
+P.O. 8 DE NOVIEMBRE DE 1978.
+
+###### ARTICULO SEGUNDO.
+
+Se restablece la facultad de los Ayuntamientos para la designación de los Administradores de los Mercados Municipales, en términos del original artículo número 34 de la Ley de Mercados del Estado de Morelos.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Remítase al Ejecutivo Local, para los efectos de su promulgación y publicación en el Periódico Oficial del Estado.
