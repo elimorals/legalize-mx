@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-14921"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-09-13"
-last_updated: "2000-11-09"
+last_updated: "2000-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14921&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-08-23"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE DICIEMBRE DE 2000.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 13 de septiembre de 1999.
 
@@ -42,9 +42,11 @@ REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FED
 
 El presente Reglamento regula el funcionamiento y fija los procedimientos de deliberación y resolución de la Asamblea Legislativa de Distrito Federal y establece la organización de las unidades administrativas de la misma.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 2.
 
-Las disposiciones del presente Reglamento son obligatorias para los Diputados a la Asamblea; la Mesa Directiva, las Comisiones y Comités, la Diputación Permanente y los Grupos Parlamentarios constituidos en el seno de la misma; así como para las unidades administrativas que determine su presupuesto.
+Las disposiciones del presente Reglamento son obligatorias para los Diputados a la Asamblea; la Mesa Directiva, las Comisiones y Comités y los Grupos Parlamentarios constituidos en el seno de la misma; así como para las unidades administrativas que determine su presupuesto.
 
 ###### Artículo 3.
 
@@ -648,33 +650,25 @@ En caso de que la integración de la Comisión se haga en términos de lo previs
 
 En ambos supuestos, el Presidente de la Comisión de Gobierno tendrá voto de calidad en caso de empate.
 
-#### SECCION 2. DE LA DIPUTACION PERMANENTE
+> <small>(DEROGADA LA SECCION Y LOS ARTICULOS QUE LA INTEGRAN, G.O. 29 DE DICIEMBRE DE 2000)</small>
+
+#### SECCION 2
 
 ###### Artículo 62.
 
-La Diputación Permanente es el órgano deliberativo de la Asamblea que durante los recesos de ésta, desempeña las funciones que le señala la Ley Orgánica y este Reglamento.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE NOVIEMBRE DE 2000)</small>
+(DEROGADO, G.O. 29 DE DICIEMBRE DE 2000)
 
 ###### Artículo 63.
 
-La Diputación Permanente se compone de 7 Diputados del Grupo Parlamentario con mayoría absoluta y los restantes 6 de acuerdo a la representación de cada uno de los Grupos Parlamentarios presentes en la Asamblea.
-
-> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2000)</small>
-
-En caso de que no se cumpla el supuesto que le otorga a un Grupo Parlamentario la mayoría absoluta, la conformación de la Diputación Permanente se hará con 13 Diputados, de acuerdo a la representación proporcional que cada grupo parlamentario tenga en el pleno.
-
-La designación se hará en la víspera de la clausura de sesiones ordinarias y sus integrantes durarán todo el periodo de receso aún y cuando haya sesiones extraordinarias.
+(DEROGADO, G.O. 29 DE DICIEMBRE DE 2000)
 
 ###### Artículo 64.
 
-El día hábil siguiente de clausura de las sesiones ordinarias de la Asamblea, los Diputados que hubieren sido nombrados como miembros de la Diputación Permanente, se reunirán en el en el (sic) lugar que determine la Mesa Directiva dentro de las instalaciones de la Asamblea y nombrarán por mayoría de votos a un Presidente, un Vicepresidente y Dos Secretarios, hecha la elección, la Mesa Directiva de la Diputación Permanente tomará posesión de su cargo y lo comunicará a los otros órganos locales de gobierno y demás dependencias o entidades que así se considere necesario.
+(DEROGADO, G.O. 29 DE DICIEMBRE DE 2000)
 
 ###### Artículo 65.
 
-La Diputación Permanente sesionará los días y la hora en que el Presidente señale en la convocatoria respectiva.
-
-La Diputación Permanente no podrá suspender sus sesiones por más de cinco días hábiles, salvo por caso fortuito o de fuerza mayor y siempre que así lo acuerde la mayoría de sus integrantes.
+(DEROGADO, G.O. 29 DE DICIEMBRE DE 2000)
 
 ## TITULO TERCERO. DEL PROCEDIMIENTO LEGISLATIVO EN LA ASAMBLEA
 
@@ -782,7 +776,7 @@ El Presidente deberá reunirse antes de cada sesión con los integrantes de la M
 
 ###### Artículo 77.
 
-Las disposiciones de este título serán aplicables en lo que corresponda a la Diputación Permanente, debiendo ser el orden del día elaborado y aprobado por los integrantes de su Mesa Directiva.
+(DEROGADO, G.O. 29 DE DICIEMBRE DE 2000)
 
 #### SECCION 3. DE LAS SESIONES
 
@@ -1285,3 +1279,9 @@ SEGUNDO.- El artículo 10, primer párrafo, del presente Decreto entrará en vig
 TERCERO.- El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
 
 CUARTO.- Publíquese en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 29 DE DICIEMBRE DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación en el Pleno.
+
+SEGUNDO. - Túrnese a la Jefatura de Gobierno de Distrito Federal para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, así como en el Diario Oficial de la Federación para su mayor difusión.
