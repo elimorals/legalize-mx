@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1997-11-15"
+last_updated: "1998-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 1998.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -279,9 +279,15 @@ Reglas generales
 
 Todo el que conforme a la ley esté en el pleno ejercicio de sus derechos civiles puede comparecer en juicio.
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+
 ###### Artículo 43.
 
-Por los que no se hallen en el caso del artículo anterior comparecerán sus representantes legítimos o los que deban suplir su incapacidad conforme a derecho. Los ausentes e ignorados serán representados como se previene en el título XI, Libro Primero del Código Civil.
+Por los que no se hallen en el caso del artículo anterior comparecerán sus representantes legítimos o los que deban suplir su incapacidad conforme a derecho. Los ausentes e ignorados serán representados como se previene en el Título Décimo Primero, Libro Primero del Código Civil del Estado.
+
+En toda controversia en que puedan afectarse los intereses de un menor, se le oirá al respecto.
+
+El menor deberá estar asistido de su representante legítimo o de su tutor en la audiencia en la que se le escuche, en la que también estará presente el Ministerio Público. El Juez valorará la opinión tomando en cuenta la edad, la madurez y las circunstancias personales del menor.
 
 ###### Artículo 44.
 
@@ -1231,7 +1237,9 @@ Promovido el juicio, el tribunal, a solicitud del que hubiere pedido la preparac
 
 Si el tenedor del documento o cosa mueble fuere el mismo a quien se va a demandar, y sin causa alguna se negare a exhibirlos, se le apremiará por los medios legales, y si aún así resistiere la exhibición o destruyere, deteriorare u ocultare aquéllos, o con dolo o malicia dejare de poseerlos, satisfará todos los daños y perjuicios que se hayan seguido, quedando, además, sujeto a la responsabilidad criminal en que hubiere incurrido. Si alegare alguna causa para no hacer la exhibición, se le oirá en forma incidental.
 
-### CAPITULO III. Del depósito de personas como acto prejudicial
+### CAPITULO III. De la separación de los cónyuges como acto prejudicial
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 ###### Artículo 192.
 
@@ -1257,73 +1265,85 @@ Si es instrumento público o privado reconocido y contiene cantidad ilíquida, l
 
 La liquidación se practicará en forma incidental y la resolución no admitirá ulterior recurso.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE FEBRERO DE 1998)</small>
+
 ### CAPITULO IV. De la preparación del juicio arbitral
 
 ###### Artículo 196.
 
-La mujer casada que viviendo al lado del marido intente demandarlo o acusarlo puede pedir su depósito.
+El cónyuge que intente demandar, denunciar o querellarse en contra del otro, puede solicitar su separación al Juez competente, quien dictará las medidas necesarias a fin de determinar cual de los cónyuges se hará cargo del cuidado de los hijos y la forma de subvenir a sus necesidades alimenticias, para que éste, si así lo desea, siga habitando la casa conyugal, y prevendrá al otro, para que señale la casa donde habitará mientras dure el procedimiento correspondiente.
 
 ###### Artículo 197.
 
-El marido que viviendo con su mujer intente demandarla o acusarla, debe pedir previamente su depósito.
+(DEROGADO, P.O. 7 DE FEBRERO DE 1998)
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 ###### Artículo 198.
 
-Sólo los jueces de primera instancia pueden decretar los depósitos de que hablan los artículos anteriores, a no ser que, por circunstancias especiales, no pueda ocurrirse por el interesado al juez competente, pues entonces el juez del lugar donde la cónyuge se encuentre, podrá decretar el depósito provisionalmente, remitiendo las diligencias al competente y poniendo a su disposición a aquélla.
+Sólo los Jueces de Primera Instancia pueden decretar la separación a que se refiere el artículo 196, a no ser que, por circunstancias especiales y por la urgencia del caso, no se pueda acudir al Juez del lugar en donde se encuentre el domicilio conyugal o el cónyuge que desee separarse. En este caso, el Juez del lugar podrá decretar la separación provisional y deberá remitir las diligencias al Juez competente para que siga conociendo de ellas.
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 ###### Artículo 199.
 
-La solicitud de la mujer puede ser escrita o verbal. Si la urgencia del caso lo amerita, el juez debe proceder con toda rapidez.
+En la solicitud, que puede ser verbal o escrita se señalarán las causas en que se funda, la casa en donde habitará el cónyuge que se separa, se informará sobre la existencia de hijos menores o incapacitados y se expondrán las demás circunstancias del caso.
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 ###### Artículo 200.
 
-Presentada la solicitud se trasladará el juez a la casa del marido y, sin que se halle éste presente, hará comparecer a la mujer para que ratifique su petición. Hecha la ratificación, el juez designará, desde luego, la persona que haya de encargarse del depósito y dispondrá que en el acto se entreguen a la mujer la cama y toda su ropa.
+El Juez practicará todas las diligencias que sean necesarias para proteger a los menores hijos, a quienes deberá escuchárseles en presencia del Ministerio Público.
 
-Si hubiere cuestión sobre cuáles ropas deben entregarse, el juez sin ulterior recurso y teniendo en cuenta las circunstancias de las personas determinará las que haya de llevar la interesada.
+Asimismo, dictará todas las medidas que sean necesarias para evitar que los cónyuges, se causen daños y perjuicios entre sí, o los causen a los bienes comunes.
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 ###### Artículo 201.
 
-Practicado todo lo que queda prevenido en los artículos anteriores, el juez, personalmente, extraerá a la mujer de la casa del marido y la llevará a casa del depositario; o bien podrá constituir el juez el depósito de la mujer en el domicilio conyugal, bajo la responsabilidad del depositario que él nombre, y haciendo que el marido se separe de dicho hogar.
+El Juez resolverá de inmediato sobre la solicitud y dictará las medidas necesarias para que se realice la separación. Podrá modificar esas medidas según las circunstancias de cada caso.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 ###### Artículo 202.
 
-En el mismo acto de la diligencia intimará el juez al marido que no moleste a su mujer ni al depositario, bajo apercibimiento de procederse en caso de desobediencia contra él, a lo que hubiere lugar.
+En la resolución, el Juez fijará un término hasta de quince días contados a partir del día siguiente de su notificación, para que el cónyuge que solicito la separación, intente la acción correspondiente. Dicho término podrá ser prorrogado por una sola vez, hasta por quince días.
 
 Independientemente de lo anterior, el juez puede dictar las medidas que estime prudentes a efecto de evitar las molestias contra la mujer y el depositario.
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+
 ###### Artículo 203.
 
-La casa donde se deposite a la mujer casada será en todo caso designada por el juez y debe ser el depositario persona de notoria honorabilidad y buenas costumbres.
+Previa la autorización del Juez y durante el término señalado en el artículo anterior, el cónyuge que se separo tendrá derecho a volver al domicilio conyugal, o solicitar la incorporación del otro, si fuera el caso.
 
 ###### Artículo 204.
 
-Si los consortes tuvieren hijos, menores de edad, se pondrán éstos al cuidado de la persona que de común acuerdo hubieren designado. En defecto de ese acuerdo, el juez resolverá provisionalmente, debiendo, en todo caso, quedar al cuidado de la madre los hijos menores de siete años.
-
-Cualquier reclamación de los consortes sobre el depósito de los hijos se substanciará y decidirá en forma incidental sin ulterior recurso.
+(DEROGADO, P.O. 7 DE FEBRERO DE 1998)
 
 ###### Artículo 205.
 
-Al día siguiente de constituido el depósito, mandará el juez intimar al marido o a la mujer, en su caso, apercibiéndolos de que si dentro de diez días no acreditan haber intentado la demanda o la acusación, se levantará el depósito y serán restituidas las personas a la situación que guardaban antes de la constitución del depósito.
+(DEROGADO, P.O. 7 DE FEBRERO DE 1998)
 
 ###### Artículo 206.
 
-Al depositario se dará copia certificada de la constitución del depósito, para su resguardo.
+(DEROGADO, P.O. 7 DE FEBRERO DE 1998)
 
 ###### Artículo 207.
 
-El término señalado para la duración del depósito podrá prorrogarse si se acreditare que por causa no imputable a la mujer, cuando ésta lo solicitó, ha sido imposible intentar la acción contra el marido; pero esta prórroga no excederá de diez días.
+(DEROGADO, P.O. 7 DE FEBRERO DE 1998)
 
 ###### Artículo 208.
 
-Las pretensiones que puedan formularse por la mujer, por el marido o por el depositario sobre variación del depósito, o cualquiera otra cuestión a que éste pueda dar lugar, se substanciarán en forma incidental.
+(DEROGADO, P.O. 7 DE FEBRERO DE 1998)
 
 ###### Artículo 209.
 
-No acreditándose haber intentado la demanda o la acusación dentro del término señalado, levantará el juez el depósito y restituirá a las personas a la situación en que se encontraban antes de la constitución de éste.
+(DEROGADO, P.O. 7 DE FEBRERO DE 1998)
 
 ###### Artículo 210.
 
-Si el juez que decretó el depósito no fuere el que deba conocer del negocio principal, remitirá las diligencias practicadas al que fuere competente, quien confirmará el nombramiento de depositario o hará otro, siguiendo el juicio su curso legal.
+(DEROGADO, P.O. 7 DE FEBRERO DE 1998)
 
 ### CAPITULO V. De los preliminares de la consignación
 
@@ -3965,17 +3985,27 @@ Divorcio por mutuo consentimiento
 
 Cuando ambos consortes convengan en divorciarse en los términos del artículo 284 del Código Civil, deberán ocurrir al tribunal competente haciendo la gestión respectiva, a la que acompañarán el convenio que se exige en el artículo 285 del Código citado, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores o incapacitados.
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+
 ###### Artículo 657.
 
-Hecha la solicitud, citará el tribunal a los cónyuges y al representante del Ministerio Público a una junta que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados los exhortará para procurar su reconciliación. Si no logra avenirlos, aprobará provisionalmente, oyendo al representante del Ministerio Público, los puntos del convenio relativos a la situación de los hijos menores o incapacitados y de la mujer y a los alimentos de aquéllos y de los que un cónyuge deba dar al otro mientras dura el procedimiento, dictando las medidas necesarias de aseguramiento.
+Hecha la solicitud, citará el tribunal a los cónyuges y al representante del Ministerio Público a una junta que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados los exhortará para procurar su reconciliación.
+
+Si no logra avenirlos, oyendo al Representante Social y en su caso a las hijas e hijos, aprobará provisionalmente los puntos del convenio relativos a la situación de los propios hijos, a los alimentos de éstos y a los que un cónyuge deba dar al otro.
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 ###### Artículo 658.
 
-Si insistieren los cónyuges en su propósito de divorciarse, citará el tribunal a una segunda junta que se efectuará después de los ocho y antes de los quince días de solicitada; y en ella volverá a exhortar a aquéllos con el propio fin que en la anterior. Si tampoco se lograre la reconciliación y en el convenio quedaren bien garantizados los derechos de los hijos menores o incapacitados, el tribunal, oyendo el parecer del representante del Ministerio Público sobre este punto, dictará sentencia en que quedará disuelto el vínculo matrimonial y decidirá sobre el convenio presentado.
+Si insistieren los cónyuges en su propósito de divorciarse, citará el tribunal a una segunda junta que se efectuará después de los ocho y antes de los quince días de solicitada; y en ella volverá a exhortar a aquéllos con el propio fin que en la anterior.
+
+Si tampoco se lograre la reconciliación y en el convenio quedaren bien garantizados los derechos de las hijas y de los hijos, el Tribunal, oyendo el parecer del representante social y en su caso opinión de los hijos sobre este punto, dictará sentencias en que quedará disuelto el vinculo matrimonial y decidirá sobre el convenio presentado.
+
+En ambos casos, el Juez deberá resolver velando por el interés superior de los hijos.
 
 ###### Artículo 659.
 
-El cónyuge menor de edad necesita para solicitar el divorcio por mutuo consentimiento la intervención de su representante legítimo y si no lo tuviere, de un tutor especial para el caso.
+(DEROGADO, P.O. 7 DE FEBRERO DE 1998)
 
 ###### Artículo 660.
 
@@ -4163,9 +4193,11 @@ Estas apelaciones sólo se admitirán en el efecto devolutivo y nunca en el prev
 
 Las apelaciones en los incidentes se substanciarán como si se tratara de sentencias en juicio sumario.
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+
 ###### Artículo 696.
 
-La revisión de las sentencias recaídas en los juicios sobre rectificación de actas del estado civil y sobre nulidad de matrimonio por las causas expresadas en los artículos 253, 254 y 260 a 263 del Código Civil, abre de oficio la segunda instancia, con intervención del Ministerio Público, y aunque las partes no expresaren agravios ni promovieren pruebas, el Tribunal examinará la legalidad de la sentencia de primera instancia, quedando entretanto sin ejecutarse ésta.
+La revisión de las sentencias recaídas en los juicios sobre rectificación de actas del estado civil, investigación de paternidad y sobre nulidad de matrimonio por las causas expresadas en los artículos 253, 254, 260 a 263 del Código Civil, abre de oficio la segunda instancia, con intervención del Ministerio Público y aunque las partes no expresaren agravios ni promovieren pruebas, el Tribunal examinará la legalidad de la sentencia de primera instancia, quedando entre tanto sin ejecutarse ésta.
 
 ### CAPITULO I. Reglas generales
 
@@ -5197,6 +5229,8 @@ En lo demás se observará lo dispuesto en el capítulo que antecede.
 
 ### CAPITULO II. Del nombramiento de tutores y curadores y discernimiento de estos cargos
 
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. SE UNE EL PRIMER Y SEGUNDO PARRAFOS PARA QUEDAR COMO PRIMERO], P.O. 7 DE FEBRERO DE 1998)</small>
+
 ###### Artículo 881.
 
 Luego que se tenga noticia fehaciente de la muerte del autor de la herencia en el mar o en país extranjero, podrán los interesados ocurrir al tribunal competente para que pida al Gobierno del Estado o a quien lo tenga en su poder la remisión del testamento.
@@ -5255,11 +5289,11 @@ Las providencias de jurisdicción voluntaria serán apelables en ambos efectos, 
 
 ###### Artículo 890.
 
-Ninguna tutela puede conferirse sin que previamente se declare el estado de minoridad o de incapacidad de la persona que va a quedar sujeta a ella.
+Ninguna tutela puede conferirse sin que previamente se declare el estado de minoridad o de incapacidad de la persona que va a quedar sujeta a ella. La declaración de estado de minoridad puede pedirse:
 
-La declaración de estado de minoridad puede pedirse:
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 1998)</small>
 
-I. Por el mismo menor si ha cumplido dieciséis años;
+I. Por el menor si hubiere cumplido catorce años;
 
 II. Por su cónyuge;
 
@@ -5321,9 +5355,11 @@ Cuando el impedimento o la causa legal de excusa ocurrieren después de la admis
 
 La aceptación o el transcurso de los términos, en su caso, importan la renuncia de la excusa.
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+
 ###### Artículo 898.
 
-El menor que tenga dieciséis años o más, podrá oponerse al nombramiento de tutor hecho por la persona que no siendo ascendente, le haya instituido heredero o legatario.
+En todo caso, el menor que haya cumplido catorce años o más podrá oponerse al nombramiento del tutor.
 
 ###### Artículo 899.
 
@@ -5573,13 +5609,11 @@ IV. El permiso que para contratar con su marido, para obligarse solidariamente c
 
 V. Todas las intervenciones de la autoridad judicial que ordene la ley y que no den ocasión a controversia.
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+
 ###### Artículo 930.
 
-Podrá decretarse el depósito de menores, o incapacitados, que se hallen sujetos a la patria potestad o a tutela y que fueren maltratados por sus padres o tutores o reciban de éstos ejemplos perniciosos, a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes; y de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
-
-La mujer menor de edad que deseando contraer matrimonio necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar su depósito.
-
-En ambos casos no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas de las diligencias del día.
+Podrá decretarse el resguardo de un menor o incapacitado, que se hallen sujetos a patria potestad o tutela y que fueren maltratados por sus padres o tutores o reciban de éstos ejemplos perniciosos a juicio del Juez, o sean obligados por ellos a cometer actos reprobados por las Leyes, y de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren. En estos casos no se requiere formalidad alguna. Solo deberán levantarse en acta las diligencias del día.
 
 TITULO DECIMOSEXTO
 
@@ -5757,6 +5791,18 @@ TITULO DECIMOSEPTIMO
 
 Todos los problemas inherentes a la familia se consideran de orden público, por constituir aquella base de la integración de la sociedad.
 
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
+
+En todo caso, el Juez oirá la solicitud y tomará las medidas urgentes que sean necesarias, para garantizar los alimentos o proteger la integridad personal de quien solicite su intervención.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
+
+Cuando la solicitud se fundamente en la existencia de violencia intrafamiliar, o para proteger a un menor sujeto a la patria potestad o tutela que reciba malos tratos o ejemplos perniciosos, o que se vea inducido a la vagancia, al alcoholismo, al consumo de drogas, inhalantes o cualquier otro producto tóxico, o que sea obligado a cometer actos reprobados por la Ley, el Juez está obligado a tomar todas las medidas necesarias para proteger a la persona solicitante y al menor afectado desde el momento en que se hizo el pedimento, sin dilación alguna.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
+
+Contra las medidas provisionales y urgentes que tome el Juez en los casos anteriores, no se admite más recurso que el de responsabilidad.
+
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
 ###### Artículo 963.
@@ -5765,11 +5811,11 @@ El Juez de lo familiar estará facultado para intervenir de oficio en los asunto
 
 En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el Juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 ###### Artículo 964.
 
-No se requieren formalidades especiales para acudir ante el Juez de lo familiar cuando se solicite la declaración, preservación o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de alimentos, de calificación de impedimentos de matrimonio, oposición de maridos, padres y tutores o de las diferencias que surjan entre marido y mujer sobre administración de bienes comunes, educación de hijos y en general todas las cuestiones familiares similares que reclamen la intervención judicial.
+No se requieren formalidades especiales, para acudir ante el Juez competente cuando se trate de investigación de la paternidad a que se refiere el artículo 396 del Código Civil del Estado, así como cuando se solicite la declaración, preservación o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de alimentos, de calificación de impedimentos de matrimonio, oposición de maridos, padres y tutores o de las diferencias que surjan entre marido y mujer sobre administración de bienes comunes, educación de hijos y en general todas las cuestiones familiares que reclamen la intervención judicial.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
@@ -5778,6 +5824,10 @@ No se requieren formalidades especiales para acudir ante el Juez de lo familiar 
 Podrá acudirse al Juez de lo familiar por escrito o por comparecencia personal en los casos urgentes a que se refiere el artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate, con las copias respectivas de esa comparecencia y de los documentos que en su caso se presenten se correrá traslado a la parte demandada, la que deberá comparecer en la misma forma dentro del término de nueve días, en tales comparecencias las partes deberán ofrecer las pruebas respectivas. Al ordenarse ese traslado, el Juez deberá señalar día y hora para la celebración de la audiencia respectiva, tratándose de alimentos, ya sean provisionales o los que se deban por contrato, por testamento o por disposición de la Ley el Juez fijará a petición del acreedor, sin audiencia del deudor, y mediante la prueba que estime necesaria, una pensión alimenticia provisional, mientras se resuelve el juicio.
 
 Será optativo para las partes acudir asesoradas, y en este supuesto, los asesores necesariamente deberán ser Licenciados en Derecho, con título profesional legalmente expedido, en caso de que una de las partes se encuentre asesorada y la otra no, se solicitará de inmediato los servicios de un defensor de oficio, el que deberá acudir, desde luego, a enterarse del asunto, disfrutando de un término que no podrá exceder de tres días para hacerlo, por cuya razón se diferirá la audiencia en un término igual.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
+
+En los casos de investigación de la paternidad, por su especial naturaleza, se dará al Ministerio Público la intervención que a su representación corresponda. El Juez deberá proveer lo necesario para el perfeccionamiento de la prueba pericial genética o cualquiera otra que resulte necesaria o idónea.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
@@ -5841,7 +5891,7 @@ Son procedentes en materia de recursos, todos los previstos en este Código y su
 
 ###### Artículo 975.
 
-La recusación con causa o sin ella, no podrá impedir que el Juez adopte las medidas provisionales sobre deposito de persona, alimentos y menores.
+La recusación con causa o sin ella, no podrá impedir que el Juez adopte las medidas provisionales sobre depósito de persona, alimentos y menores.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
@@ -6006,3 +6056,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todos los juicios hipotecarios que actualmente se siguen, se continuarán conforme al procedimiento iniciado.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE FEBRERO DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Ejecutivo Estatal, dentro de un término de noventa días, contados a partir de la fecha de la iniciación de la vigencia del presente Decreto, procederá a implementar los programas necesarios para su aplicación.
