@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-pensiones-a-empleados-municipales-18902"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-02-09"
-last_updated: "1993-02-09"
+last_updated: "2000-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO DE PENSIONES A EMPLEADOS MUNICIPALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2000.
 
 Reglamento publicado en el Periódico Oficial del Estado de Puebla, el martes 9 de febrero de 1993.
 
@@ -67,41 +67,79 @@ b).- Los nombramientos expedidos a su favor: Funcionario, Empleado, o Trabajador
 
 c).- Su acta de nacimiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 5.
 
-Es obligación ineludible del Ayuntamiento, pensionar o jubilar a sus Funcionarios, Empleados o Trabajadores que hubieren tenido buen comportamiento, honradez en el desempeño de sus funciones y hubiere cumplido con sus obligaciones sin importar la edad del solicitante, de acuerdo a la tabla siguiente:
+Tienen derecho a pensión, los trabajadores que habiendo cumplido 55 años de edad, tuvieran 15años de servicio como mínimo, dentro del Honorable Ayuntamiento del Municipio de Puebla, de acuerdo con las tablas siguientes:
 
-Por 15 años de servicio 25% del salario
+> <small>(REFORMADA TABLA, P.O. 13 DE NOVIEMBRE DE 2000)</small>
 
-16 " " " " 30%" "
+VARONES
 
-17 " " " " 35%" "
+Por 15 años de servicio 50.00% del salario
 
-18 " " " " 40%" "
+16 " " " " 52.50% del salario
 
-19 " " " " 45% " "
+17 " " " " 55.00 % del salario
 
-20 " " " " 50% " "
+18 " " " " 57.50 % del salario
 
-21 " " " " 55% " "
+19 " " " " 60.00 % del salario
 
-22 " " " " 60% " "
+20 " " " " 62.50 % del salario
 
-23 " " " " 65% " "
+21 " " " " 65.00 % del salario
 
-24 " " " " 70% " "
+22 " " " " 67.50 % del salario
 
-25 " " " " 75% " "
+23 " " " " 70.00 % del salario
 
-26 " " " " 80% " "
+24 " " " " 72.50 % del salario
 
-27 " " " " 85% " "
+25 " " " " 75.00 % del salario
 
-28 " " " " 90% " "
+26 " " " " 80.00 % del salario
 
-29 " " " " 95% " "
+27 " " " " 85.00 % del salario
 
-30 " " " " 100% " "
+28 " " " " 90.00 % del salario
+
+29 " " " " 95.00 % del salario
+
+30 " " " " 100.00 % del salario
+
+MUJERES
+
+Por 15 años de servicio 57.50% del salario
+
+16 " " " " 60.00% del salario
+
+17 " " " " 62.50% del salario
+
+18 " " " " 65.00% del salario
+
+19 " " " " 67.50% del salario
+
+20 " " " " 70.00% del salario
+
+21 " " " " 72.50% del salario
+
+22 " " " " 75.00% del salario
+
+23 " " " " 80.00% del salario
+
+24 " " " " 85.00% del salario
+
+25 " " " " 90.00% del salario
+
+26 " " " " 95.00% del salario
+
+27 " " " " 100.00 % del salario
+
+> <small>(REFORMAD [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2000)</small>
+
+Para los efectos de cómputo a que se refiere este artículo, se considerará un año, cuando el trabajador haya laborado seis meses y un día.
 
 Para probar la edad, no se admitirá más prueba que la correspondiente acta de nacimiento autorizada por el Juez del Registro del Estado Civil.
 
@@ -111,9 +149,11 @@ Para los efectos de la jubilación, se tomará en cuenta el tiempo durante el cu
 
 Ninguna pensión actual o anterior será inferior al 25% del salario mínimo general vigente en la zona.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 7º.
 
-Tratándose del sexo femenino se otorgará como pensión del 100% de salario cuando cumplan 28 años de trabajo.
+Tratándose del sexo femenino se otorgará como pensión del 100% del salario cuando cumplan 27 años de trabajo.
 
 ###### ARTICULO 8º.
 
@@ -149,9 +189,11 @@ La H. Comisión de Hacienda podrá proponer al H. Cabildo a un jubilado para des
 
 Cuando un empleado o trabajador, teniendo derecho a la jubilación, sufra incapacidad total permanente por causa del trabajo o enfermedad profesional, a (sic) más (sic) de su pensión jubilatoria, tendrá derecho a una indemnización equivalente a 365 días de su sueldo o salario que se le cubrirá inmediatamente por una sola vez.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 15.
 
-·La muerte del jubilado extingue el derecho a la pensión pero el Ayuntamiento tiene la obligación de entregar a sus beneficiarios lo que corresponda a 12 meses de pensión, previa la exhibición del certificado de defunción, la cantidad antes citada la entregará el Ayuntamiento en una primera exhibición igual al importe de dos meses de la pensión que disfrutará y el resto, en 10 exhibiciones mensuales consecutivas.
+·La muerte del jubilado extingue el derecho a la pensión pero el Ayuntamiento tiene la obligación de entregar a sus beneficiarios lo que corresponda a 12 meses de pensión, previa la exhibición del certificado de defunción, la cantidad antes citada la entregará el Ayuntamiento en una sola exhibición igual al importe de doce meses de la pensión que disfrutará que disfrutará.
 
 ###### ARTICULO 16.
 
@@ -184,3 +226,13 @@ El suscrito Licenciado Germán Escobar Arrona, Secretario General del H. Ayuntam
 C E R T I F I C A
 
 que las presentes copias fotostáticas coinciden plenamente con su original, el cual tengo a la vista y al cual me remito y que se encuentra en el Archivo, para su publicación en el Periódico Oficial del Estado. Expidiéndose esta certificación en siete fojas útiles, en la Heroica Puebla de Zaragoza a los seis días del mes de Enero de mil novecientos noventa y tres.- Lic. Germán Escobar Arrona.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE NOVIEMBRE DE 2000.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+TERCERO.- Que se deroguen todas las disposiciones reglamentarias que se opongan a las presentes reformas, las que entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+CUARTO.- Que se giren los oficios correspondientes para su publicación en el Periódico Oficial del Estado.
