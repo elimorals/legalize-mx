@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1999-07-26"
+last_updated: "1999-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 1999.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -241,11 +241,11 @@ No podrá el Congreso abrir sus sesiones sin la concurrencia de la mayoría simp
 
 El Congreso, fuera de los períodos que señala el artículo anterior, celebrará sesiones extraordinarias sólo cuando fuere convocado al efecto por la Diputación Permanente o el Ejecutivo del Estado, debiendo ocuparse en ellas sólo de los asuntos para los cuales se haya hecho la convocatoria.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1999)</small>
 
 ###### Artículo 31.
 
-Dentro de la segunda quincena del mes de septiembre de cada año, el día que señale el Congreso del Estado, en sesión solemne a la que asistirán el Presidente del Supremo Tribunal de Justicia y todos los miembros de la Legislatura, el Gobernador del Estado rendirá un informe por escrito en el que manifieste las condiciones generales que guarde la Administración Pública de la Entidad. El Presidente del Congreso recibirá el documento y dirigirá un mensaje.
+Al inicio del Primer Período Ordinario de Sesiones del Congreso del Estado, cada año, en sesión solemne a la que asistirán el Presidente del Supremo Tribunal de Justicia y los integrantes de la Legislatura, el Gobernador del Estado rendirá un informe por escrito en el que manifieste las condiciones generales que guarda la administración pública de la Entidad. El Presidente del Congreso recibirá el documento y dirigirá un mensaje.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -2262,5 +2262,11 @@ P.O. 26 DE JULIO DE 1999.
 DECRETO No. 169, QUE REFORMA EL ARTICULO 22 DE LA CONSTITUCION DEL ESTADO.
 
 ###### ARTÍCULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 DE SEPTIEMBRE DE 1999.
+
+###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
