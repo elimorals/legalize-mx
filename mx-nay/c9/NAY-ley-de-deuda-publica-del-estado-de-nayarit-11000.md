@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-deuda-publica-del-estado-de-nayarit-11000"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-20"
-last_updated: "1995-12-20"
+last_updated: "1996-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1996.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 20 de diciembre de 1995.
 
@@ -235,9 +235,11 @@ VIII. Las demás que le confiera el Ejecutivo Estatal, el Reglamento de esta ley
 
 ### CAPITULO TERCERO. DE LA CONTRATACION DE EMPRESTITOS Y CREDITOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 1996)</small>
+
 ###### ARTICULO 17.
 
-El Ejecutivo Estatal concertará y formalizará los créditos y financiamientos que constituyan la Deuda Pública Estatal, a través de la Secretaría de Finanzas; cuyo monto máximo de endeudamiento neto por Ejercicio Fiscal, no podrá ser superior al 15% del Presupuesto de Egresos Anual autorizado en el Ejercicio que se contrate.
+El Ejecutivo Estatal concertará y formalizará los créditos y financiamientos que constituyan la Deuda Pública Estatal, a través de la Secretaría de Finanzas; cuyo monto máximo de endeudamiento neto, no podrá ser superior al 15% del presupuesto de egresos anual autorizado en el ejercicio que se contrate; siendo condición que proyecte, como mínimo, un superávit primario en sus finanzas públicas que permita cubrir las erogaciones por concepto de amortizaciones de capital e intereses durante la vigencia de los créditos contratados.
 
 Los Gobiernos Municipales por conducto de sus Tesorerías, concertarán y formalizarán los créditos y financiamientos que constituyan Deuda Pública. Los organismos públicos descentralizados estatales, las empresas de participación estatal mayoritaria y los demás organismos de naturaleza estatal a que se refiere el Artículo 2o. de este ordenamiento, sólo podrán obtener créditos o financiamientos por conducto de la Secretaría de Finanzas.
 
@@ -285,7 +287,9 @@ I. Que el monto acumulado de avales otorgados por el Gobierno del Estado no exce
 
 II. Que el Ayuntamiento haya acreditado que cuenta con los elementos económicos suficientes para hacer frente a la obligación contraida en los montos y plazos, conforme a su programación financiera.
 
-III. Que el Ayuntamiento esté al corriente en el pago de las amortizaciones de capital e intereses de las operaciones de Deuda Pública que tenga contratadas.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 1996)</small>
+
+II. Que el Ayuntamiento acredite proyectar como mínimo, un superávit primario en sus finanzas públicas que permita cubrir las erogaciones por concepto de amortizaciones de capital e intereses durante la vigencia de los créditos contratados; y que cuenta con los elementos económicos suficientes para dar cumplimiento con la obligación a contraer.
 
 IV. Que el Ayuntamiento esté al corriente en el cumplimiento de sus obligaciones de información al Registro Estatal de Deuda Pública.
 
@@ -387,17 +391,23 @@ Los ingresos que generen de manera directa las obras materia del endeudamiento, 
 
 La inscripción en el Registro de Deuda Pública Estatal de las obligaciones directas, indirectas o contingentes a cargo de los Municipios, confiere a los acreedores, en caso de incumplimiento de los deudores, el derecho a que sus créditos se cubran con cargo a los ingresos municipales en gravámenes y fondos federales repartibles que deba entregarle el Estado.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1996)</small>
+
 ###### ARTICULO 40.
 
-En el caso de incumplimiento a que se refiere el artículo anterior, los acreedores deberán presentar su solicitud de pago a la Secretaría de Finanzas quien cubrirá los adeudos de acuerdo con el orden de su presentación.
+En caso de incumplimiento de pago y para efecto de garantizar a los acreedores, las amortizaciones vencidas de los créditos otorgados con garantía de participaciones en ingresos federales por parte de las entidades referidas en el artículo 2o.; el Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, constituirá un fideicomiso como fuente alterna de pago, misma que se contratará con la institución fiduciaria del sistema bancario nacional, y en el cual se señalarán los procedimientos de pago en caso de incumplimiento por parte de las entidades deudoras.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 41.
 
-El Ejecutivo del Estado a través de la Secretaría de Finanzas informará al Ayuntamiento, por conducto del Presidente Municipal, de la solicitud de pago presentada por el acreedor, dentro de los cinco días hábiles siguientes a la fecha de su presentación. El Ayuntamiento dentro de los diez días hábiles siguientes, deberá comprobar el pago, en su caso.
+El fideicomiso señalado en el artículo anterior, se constituirá con los ingresos que por concepto de participaciones en ingresos federales, correspondan al Estado y sus Municipios.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 42.
 
-De no haberse realizado el pago en los términos del artículo anterior, el Ejecutivo del Estado declarará al Ayuntamiento en mora y procederá a programar el pago correspondiente con cargo a los ingresos municipales en gravámenes y fondos federales repartibles afectados en garantía y por cuenta del moroso, de acuerdo a la disponibilidad existente a favor de ese Ayuntamiento; efectuándose con posterioridad la cancelación total o parcial, según el caso, en el Registro Estatal de Deuda Pública.
+La Secretaría de Finanzas, será el órgano encargado de vigilar el correcto funcionamiento del fideicomiso de fuente alterna de pago.
 
 TRANSITORIOS:
 
@@ -428,3 +438,9 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario General de Gobierno.
 
 Lic. Sigfrido de la Torre Miramontes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE AGOSTO DE 1996.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Organo de Gobierno del Estado.
