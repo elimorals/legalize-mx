@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1979-12-10"
+last_updated: "1983-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "BCN"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 1979.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 10 DE DICIEMBRE DE 1979.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 1983.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el 16 de agosto de 1953.
 
@@ -131,21 +129,25 @@ No pueden reunirse dos o más poderes en una sola persona o corporación ni depo
 
 El ejercicio del Poder Legislativo se deposita en una Asamblea de representantes del pueblo, que se denomina Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 1983)</small>
 
 ###### ARTICULO 14.
 
-El Congreso del Estado se compondrá de diputados electos cada tres años; doce en forma directa y mayoritaria, uno por cada Distrito Electoral y, en su caso, de dos diputados de minoría que serán electos por votación en una circunscripción electoral única que abarcará todo el Estado, de acuerdo con lo establecido por esta Constitución y la Ley respectiva.
-
-Por cada diputado propietario se elegirá un suplente.
-
-Los diputados de mayoría y de minoría tendrán las mismas obligaciones y gozarán de las mismas prerrogativas.
+El Congreso del Estado se compondrá de Diputados Electos cada tres años; trece en forma directa y mayoritaria, uno por cada Distrito Electoral y, en su caso, de cuatro Diputados de minoría que serán electos de acuerdo con lo establecido por esta Constitución y la Ley respectiva.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1979)</small>
 
+Por cada diputado propietario se elegirá un suplente.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1979)</small>
+
+Los diputados de mayoría y de minoría tendrán las mismas obligaciones y gozarán de las mismas prerrogativas.
+
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 20 DE FEBRERO DE 1983)</small>
+
 ###### ARTICULO 15.
 
-La elección para los diputados de minoría se sujetará a lo que en lo particular disponga la Ley, según las bases generales siguientes:
+La elección para los cuatro Diputados de Minoría se sujetará a lo que en lo particular disponga la Ley, según las bases generales siguientes:
 
 I.- Los Partidos Políticos deberán participar en la elección de diputados por mayoría en por lo menos la tercera parte de los Distritos Electorales;
 
@@ -153,7 +155,13 @@ II.- Tendrá derecho a que le sean atribuidos diputados de minoría todo aquel P
 
 III.- Al Partido que cumpla con los supuestos señalados en las Fracciones I y II de este Artículo, le será asignado un diputado de minoría en favor del candidato que en su respectivo Distrito haya obtenido el mayor número de votos de entre todos los candidatos de ese Partido que hayan participado en el proceso electoral.
 
-En caso de que dos o más Partidos se encuentren en las condiciones mencionadas en este Artículo, se atribuirá, en los términos del Párrafo anterior, un diputado al que mayor número de votos alcance y uno al Partido que le siga en votación.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1983)</small>
+
+En caso de que dos o más Partidos se encuentren en las condiciones mencionadas en este Artículo, se atribuirá, en los términos del párrafo anterior, un Diputado al que mayor número de votos alcance y uno a cada uno de los Partidos que le sigan en votación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE FEBRERO DE 1983)</small>
+
+En caso de que sólo un partido satisfaga los requisitos que establecen las Fracciones I y II de este Artículo, se le atribuirán a dicho Partido todos los Diputados de Minoría, conforme al procedimiento que establezca la Ley respectiva.
 
 De no presentarse la situación a que se refiere el Párrafo Segundo de esta Fracción, al que se encuentre en las condiciones de que trata el Primer Párrafo de esta Fracción, se le atribuirá otro diputado de minoría en favor del candidato que en su respectivo Distrito haya obtenido el segundo lugar en número de votación de entre todos los candidatos de ese Partido que hayan participado en el proceso electoral.
 
@@ -1116,3 +1124,9 @@ UNICO.- Las reformas a que se refiere el presente Decreto entrarán en vigor una
 P.O. 20 DE NOVIEMBRE DE 1979.
 
 UNICO.- Las reformas a que se refiere el presente Decreto entrarán en vigor una vez cumplido el procedimiento establecido en el Artículo 112 de la Constitución Política del Estado, y al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 20 DE FEBRERO DE 1983.
+
+###### ARTICULO UNICO.
+
+Las reformas a que se refiere el presente Decreto, entrarán en vigor una vez cumplido el procedimiento establecido en el Artículo 112 de la Constitución Política del Estado, y al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
