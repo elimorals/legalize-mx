@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2003-09-29"
+last_updated: "2004-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ABRIL DE 2004.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 3 de septiembre de 1999.
 
@@ -1506,9 +1506,25 @@ g) Las demás que esta Ley, el Reglamento y los acuerdos de la Mesa Directiva le
 
 1. La Comisión Permanente se compone de treinta y siete miembros, de los que diecinueve serán diputados y dieciocho senadores, quienes serán designados mediante voto secreto por las respectivas Cámaras, durante la última sesión de cada periodo ordinario. Para suplir en sus ausencias a los titulares, las Cámaras nombrarán de entre sus miembros en ejercicio el mismo número de sustitutos.
 
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2004)</small>
+
+2. La Comisión Permanente celebrará sus sesiones correspondientes al primer receso de cada año de la Legislatura en el recinto de la Cámara de Diputados, y en el segundo receso, en el recinto de la Cámara de Senadores.
+
 ###### ARTICULO 118.
 
-1. En el mismo día de la clausura de las sesiones ordinarias del Congreso General e inmediatamente después de esta ceremonia, los diputados y senadores que hubieren sido nombrados como miembros de la Comisión Permanente, se reunirán en el salón de sesiones de la Cámara de Diputados, bajo la presidencia de la persona a quien corresponda el primer lugar por orden alfabético de apellidos, o de éstos y de nombres si hubiere dos o más apellidos iguales, con auxilio de dos Secretarios de su elección, a fin de integrar la Mesa Directiva de la Comisión Permanente, para lo cual se nombrará por mayoría de votos un Presidente, un Vicepresidente y cuatro Secretarios; de estos últimos, dos deberán ser diputados y dos senadores.
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
+
+1. El mismo día en que las Cámaras acuerden su respectiva clausura de sesiones ordinarias, los diputados y senadores que hubieren sido nombrados como miembros de la Comisión Permanente, se reunirán a efecto de elegir a su Mesa Directiva en el recinto que corresponda conforme al artículo anterior.
+
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2004)</small>
+
+2. La Mesa Directiva de la Comisión Permanente, deberá elegirse conforme al siguiente procedimiento:
+
+a) Los Diputados y Senadores se reunirán bajo la Presidencia provisional de la persona a quien corresponda el primer lugar por orden alfabético de apellidos, o de éstos y de nombres si hubiere dos o más apellidos iguales.
+
+b) Para su auxilio, el Presidente provisional designará a dos Secretarios.
+
+c) Los diputados y senadores elegirán por mayoría, en votación por cédula un Presidente, un Vicepresidente y cuatro Secretarios; de estos últimos, dos deberán ser diputados y dos senadores.
 
 ###### ARTICULO 119.
 
@@ -1903,3 +1919,7 @@ D.O.F. 7 DE DICIEMBRE DE 2001.
 D.O.F. 29 DE SEPTIEMBRE DE 2003.
 
 Único. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE ABRIL DE 2004.
+
+Único.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
