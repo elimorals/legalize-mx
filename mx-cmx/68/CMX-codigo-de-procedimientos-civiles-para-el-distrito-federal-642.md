@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1984-10-02"
+last_updated: "1985-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE OCTUBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 1985.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -394,19 +394,27 @@ ARTICULO 60
 
 Los jueces y magistrados a quienes corresponda, recibirán por sí mismos las declaraciones; y presidirán todos los actos de prueba, bajo su responsabilidad.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
 
 ARTICULO 61
 
-Los Jueces y Magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y la consideración debidos, corrigiendo en el acto las faltas que se cometieren con multas que no podrán pasar en los Juzgados de Paz, de mil pesos; en los de lo Civil y de lo Familiar, de dos mil pesos; y de cuatro mil pesos en el Tribunal Superior. Pueden también emplear el auxilio de la fuerza pública. Si las faltas llegaren a constituir delitos, se procederá contra quienes las cometieren, con arreglo a lo dispuesto en el Código Penal, consignando al culpable a la autoridad competente, con testimonio de lo conducente
+(F. DE E., D.O.F. 28 DE ENERO DE 1985) (ACLARACION A LA F. DE E., D.O.F. 13 DE FEBRERO DE 1985)
+
+Los Jueces y Magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y la consideración debidos, corrigiendo en el acto las faltas que se cometieren con multas de 5 a 30 días de salario en los Juzgados de Paz; en los de lo Civil y Familiar de 10 a 50 días de salario y de 15 a 100 días en el Tribunal Superior. Pueden también emplear el auxilio de la fuerza pública. Si las faltas llegaren a constituir delitos, se procederá contra quienes las cometieren, con arreglo a lo dispuesto en el Código Penal, consignando al culpable a la autoridad competente, con testimonio de lo conducente.
+
+Para los efectos de este artículo se entiende como salario el mínimo general diario vigente en el Distrito Federal, el día en que se haga efectiva la multa.
 
 ARTICULO 62
 
-Se entenderá por corrección disciplinaria:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE ENERO DE 1985)</small>
+
+Se entenderá corrección disciplinaria:
 
 I.- El apercibimiento o amonestación;
 
-II.- La multa que no exceda de cien pesos, que se duplicará en caso de reincidencia;
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1985)</small>
+
+II.- La multa que no exceda de un día de salario, como se define en el artículo anterior, y que se duplicará en caso de reincidencia, y
 
 III.- La suspensión que no exceda de un mes.
 
@@ -427,6 +435,12 @@ Se entienden horas hábiles las que median desde las siete hasta las diecinueve 
 ARTICULO 65
 
 El escrito por el cual se inicie un procedimiento deberá ser presentado en la oficialía de partes común a los juzgados de la rama de que se trate, para ser turnado al juzgado que corresponda; los interesados pueden presentar una copia simple del escrito citado, a fin de que dicha oficialía de partes se los devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el empleado que la reciba. Los escritos subsecuentes se presentarán ante el Juez que conozca del procedimiento, durante las horas de labores del juzgado correspondiente, pudiendo los interesados exhibir una copia de sus escritos, a fin de que se les devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el empleado que la reciba en el Tribunal. Los escritos subsecuentes que se presenten fuera de las horas de labores del juzgado del conocimiento, pero dentro de las horas hábiles, deberán presentarse anta la oficialía de partes común de los juzgados de la rama que corresponda al Juez del conocimiento. Las copias simples de los documentos que se presenten, confrontadas y autorizadas por el Secretario, correrán en los autos, quedando los originales en el tribunal, donde podrá verlos la parte contraria, si lo pidiere.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 1985)</small>
+
+ARTICULO 65 BIS
+
+En el caso de comprobarse la realización de cualquier acción tendiente a burlar el turno establecido en las Oficialías de Partes Comunes, una vez presentado un escrito por el cual se inicie un procedimiento, ya sea exhibiendo varios de éstos para elegir el Juzgado que convenga, o desistiéndose de la instancia más de una vez, sin acreditar la necesidad de hacerlo, o cualquiera acción similar, la parte promovente y sus abogados patronos se harán acreedores, solidariamente, a una multa que no será menor de quince, ni mayor de noventa días de salario, tomándose como base el mínimo general diario vigente en el Distrito Federal, y que será impuesta por el Presidente del Tribunal.
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
@@ -958,7 +972,9 @@ Los abogados extranjeros no podrán cobrar costas, sino cuando estén autorizado
 
 ARTICULO 140
 
-La condenación en costas se hará cuando así lo prevenga la ley, o cuando, a juicio del juez, se haya procedido con temeridad o mala fe.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE ENERO DE 1985)</small>
+
+La condenación en costas, se hará cuando así lo prevenga la Ley, o cuando, a juicio del Juez, se haya procedido con temeridad o mala fe.
 
 Siempre serán condenados:
 
@@ -969,6 +985,14 @@ II.- El que presentare instrumentos o documentos falsos, o testigos falsos o sob
 III.- El que fuere condenado en los juicios ejecutivo, hipotecario, en los interdictos de retener y recuperar, y el que intente alguno de estos juicios si no obtiene sentencia favorable. En estos casos la condenación se hará en la primera instancia observándose en la segunda lo dispuesto en la fracción siguiente:
 
 IV.- El que fuere condenado por dos sentencias conformes de toda conformidad en su parte resolutiva, sin tomar en cuenta la declaración sobre costas. En este caso, la condenación comprenderá las costas de ambas instancias.
+
+> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 1985)</small>
+
+V.- El que intente acciones o haga valer excepciones notoriamente improcedentes y que así lo declare la sentencia definitiva que se dicte en el negocio, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 1985)</small>
+
+VI.- El que oponga excepciones dilatorias notoriamente improcedentes o haga valer recursos e incidentes de este tipo, con el fin de entorpecer la buena marcha del juicio.
 
 ARTICULO 141
 
@@ -1188,13 +1212,13 @@ Recibidos los autos en el tribunal que deba decidir la competentcia (sic), citar
 
 Decidida la competencia enviará los autos al juez declarado competente, con testimonio de la sentencia, de la cual remitirá otro tanto al juez contendiente. De la resolución dictada por el tribunal no se da más recurso que el de responsabilidad.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
+
 ARTICULO 167
 
-El litigante que hubiere optado por uno de los dos medios de promover una competencia, no podrá abandonarlo y recurrir al otro; tampoco podrá emplearlos sucesivamente.
+El litigante que hubiere optado por uno de los dos medios de promover una competencia, no podrá abandonarlo y recurrir al otro; tampoco podrá emplearlo sucesivamente.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
-
-En el caso de que se declare infundada o improcedente una incompetencia, se aplicará al que la opuso, multa hasta de tres mil pesos en beneficio del colitigante.
+En el caso de que se declare infundada o improcedente una incompetencia, se aplicará al que la opuso, una multa equivalente hasta 60 días de salario mínimo general diario vigente en el Distrito Federal, en beneficio de colitigante, siempre que se compruebe que el incidente respectivo fue promovido de mala fe.
 
 ARTICULO 168
 
@@ -4618,9 +4642,11 @@ ARTICULO 725
 
 El recurso de queja contra el juez se interpondrá ante el superior inmediato dentro de las veinticuatro horas que sigan al acto reclamado haciéndolo saber dentro del mismo tiempo al juez contra quien va el recurso, acompañándole copia. Dentro del tercero día de que tenga conocimiento, el juez de los autos remitirá al superior informe con justificación. El superior dentro del tercero día decidirá lo que corresponda.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
+
 ARTICULO 726
 
-Si la queja no está apoyada por hecho cierto o no estuviere fundada en derecho o hubiere recurso ordinario de la resolución reclamada, será desechada por el tribunal, imponiendo a la parte quejosa y a su abogado, solidariamente, una multa que no exceda de cien pesos.
+Si la queja no está apoyada por hecho cierto o no estuviere fundada en derecho o hubiere recurso ordinario de la resolución reclamada, será desechada por el Tribunal, imponiendo a la parte quejosa y a su abogado, solidariamente, una multa hasta de 15 días de salario mínimo general diario vigente en el Distrito Federal.
 
 ARTICULO 727
 
@@ -6254,11 +6280,11 @@ El que se presente como actor o como reo usando el nombre de otro para hacerse p
 
 Del juicio
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
 
 ARTICULO 17
 
-Si al anunciarse el despacho del negocio no estuviere presente el actor y sí el demandado se impondrá a aquél una multa de cincuenta a quinientos pesos, que se aplicará al reo por vía de indemnización, y, sin que se justifique haberse hecho el pago, no se citará de nuevo para el juicio.
+Si al anunciarse el despacho del negocio no estuviere presente injustificadamente el actor, y sí el demandado, se impondrá a aquél una multa que no será menor de ocho, ni mayor de treinta días de salario mínimo general diario vigente en el Distrito Federal, que se aplicará al reo por vía de indemnización y, sin que se justifique haberse hecho el pago, no se citará de nuevo para el juicio.
 
 ARTICULO 18
 
@@ -6270,15 +6296,17 @@ Si al anunciarse el despacho del negocio no estuvieren presentes el actor ni el 
 
 ARTICULO 20
 
-Concurriendo al juzgado las partes en virtud de la citación, se abrirá la audiencia y en ella se observarán las siguientes prevenciones:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE ENERO DE 1985)</small>
+
+Concurriendo al Juzgado las partes, en virtud de la citación, se abrirá la audiencia y en ella se observarán las siguientes prevenciones:
 
 I.- Expondrán oralmente sus pretensiones por su orden, el actor su demanda y el reo su contestación y exhibirán los documentos u objetos que estimen conducentes a su defensa y presentarán a los testigos y peritos que pretendan sean oídos;
 
 II.- Las partes pueden hacerse mutuamente las preguntas que quieran, interrogar a los testigos y peritos y en general, presentar todas las pruebas que se puedan rendir desde luego;
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1985)</small>
 
-III.- Todas las acciones y excepciones o defensas se harán valer en el acto mismo de la audiencia, sin sustanciar artículos o incidentes de previo pronunciamiento. Si de lo que expongan o aprueben las partes resultara demostrada la procedencia de una excepción dilatoria, el juez lo declarará así, desde luego, y dará por terminada la audiencia. Ante los Jueces de Paz, sólo se admitirá reconvención hasta por cinco mil pesos;
+III.- Todas las acciones y excepciones o defensas se harán valer en el acto mismo de la audiencia, sin sustanciar artículos o incidentes de previo pronunciamiento. Si de lo que expongan o aprueben las partes resultara demostrada la procedencia de una excepción dilatoria, el Juez lo declarará así, desde luego, y dará por terminada la audiencia. Ante los Jueces de Paz, sólo se admitirá reconvención hasta por ciento ochenta y dos veces el salario mínimo general diario vigente en el Distrito Federal;
 
 IV.- El juez podrá hacer libremente las preguntas que juzgue oportunas a cuantas personas estuvieren presentes en la audiencia, carear a las partes entre sí o con los testigos y a éstos, los unos con los otros, examinar documentos, objetos o lugares y hacerlos reconocer por peritos;
 
@@ -6685,3 +6713,13 @@ El presente Decreto entrará en vigor el día de su publicación en el Diario Of
 ###### ARTICULO SEGUNDO.
 
 La tramitación de los juicios iniciados antes de la fecha prevista para la entrada en vigor de este Decreto se sustanciarán y decidirán conforme a las normas en vigor al momento de la presentación de la demanda.
+
+D.O.F. 21 DE ENERO DE 1985.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CODIGO.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+...
