@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1953-10-17"
+last_updated: "1960-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE OCTUBRE DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 1960.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -252,27 +252,27 @@ Las expropiaciones sólo podrán hacerse por causa de utilidad pública y median
 
 La Nación tendrá en todo tiempo el derecho de imponer a la propiedad privada las modalidades que dicte el interés público, así como el de regular el aprovechamiento de los elementos naturales susceptibles de apropiación, para hacer una distribución equitativa de la riqueza pública y para cuidar de su conservación. Con este objeto, se dictarán las medidas necesarias para el fraccionamiento de los latifundios; para el desarrollo de la pequeña propiedad agrícola en explotación; para la creación de nuevos centros de población agrícola con las tierras y aguas que les sean indispensables; para el fomento de la agricultura y para evitar la destrucción de los elementos naturales y los daños que la propiedad pueda sufrir en perjuicio de la sociedad. Los núcleos de población que carezcan de tierras y aguas o no las tengan en cantidad suficiente para las necesidades de su población, tendrán derecho a que se les dote de ellas, tomándolas de las propiedades inmediatas, respetando siempre la pequeña propiedad agrícola en explotación.
 
-Corresponde a la Nación el dominio directo de todos los minerales o substancias que en vetas, mantos, masas o yacimientos, constituyan depósitos cuya naturaleza sea distinta de los componentes de los terrenos, tales como los minerales de los que se extraigan metales y metaloides utilizados en la industria; los yacimientos de piedras preciosas, de sal de gema y las salinas formadas directamente por las aguas marinas; los productos derivados de la descomposición de las rocas, cuando su explotación necesite trabajos subterráneos; los yacimientos minerales u orgánicos de materias susceptibles de ser utilizadas como fertilizantes; los combustibles minerales sólidos; el petróleo y todos los carburos de hidrógeno sólidos, líquidos o gaseosos.
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1960)</small>
 
-> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 1945)</small>
+Corresponde a la Nación el dominio directo de todos los recursos naturales de la plataforma continental y los zócalos submarinos de las islas; de todos los minerales o substancias que en vetas, mantos, masas o yacimientos, constituyan depósitos cuya naturaleza sea distinta de los componentes de los terrenos, tales como los minerales de los que se extraigan metales y metaloides utilizados en la industria; los yacimientos de piedras preciosas, de sal de gema y las salinas formadas directamente por las aguas marinas; los productos derivados de la descomposición de las rocas, cuando su explotación necesite trabajos subterráneos; los yacimientos minerales u orgánicos de materias susceptibles de ser utilizadas como fertilizantes; los combustibles minerales sólidos; el petróleo y todos los carburos de hidrógeno sólidos, líquidos o gaseosos; y el espacio situado sobre el territorio nacional, en la extensión y términos que fije el Derecho Internacional.
 
-Son también propiedad de la Nación las aguas de los mares territoriales en la extensión y términos que fija el Derecho Internacional; las de las lagunas y esteros que se comuniquen permanente o intermitentemente con el mar; las de los lagos interiores de formación natural que estén ligados directamente a corrientes constantes; las de los ríos y sus afluentes directos o indirectos, desde el punto del cauce en que se inicien las primeras aguas permanentes, intermitentes o torrenciales, hasta su desembocadura en el mar, lagos, lagunas o esteros de propiedad nacional; las de las corrientes constantes o intermitentes y sus afluentes directos o indirectos, cuando el cauce de aquéllas, en toda su extensión o en parte de ella, sirva de límite al territorio nacional o a dos entidades federativas, o cuando pase de una entidad federativa a otra o cruce la línea divisoria de la República; la de los lagos, lagunas o esteros cuyos vasos, zonas o riberas estén cruzadas por líneas divisorias de dos o más entidades o entre la República y un país vecino, o cuando el límite de las riberas sirva de lindero entre dos entidades federativas o a la República con un país vecino; las de los manantiales que broten en las playas, zonas marítimas, cauces, vasos o riberas de los lagos, lagunas o esteros de propiedad nacional, y las que se extraigan de las minas. Las aguas del subsuelo pueden ser libremente alumbradas mediante obras artificiales, y apropiarse por el dueño del terreno, pero cuando lo exija el interés público, o se afecten otros aprovechamientos, el Ejecutivo Federal podrá reglamentar su extracción y utilización, y aún establecer zonas vedadas, al igual que para las demás aguas de propiedad nacional. Cualesquiera otras aguas no incluídas en la enumeración anterior, se considerarán como parte integrante de la propiedad de los terrenos por los que corran o en los que se encuentren sus depósitos, pero si se localizaren en dos o más predios, el aprovechamiento de estas aguas se considerará de utilidad pública, y quedará sujeto a las disposiciones que dicten los Estados.
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1960)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 9 DE NOVIEMBRE DE 1940)</small>
+Son propiedad de la Nación las aguas de los mares territoriales en la extensión y términos que fije (sic) Derecho Internacional; las aguas marinas interiores; las de las lagunas y esteros que se comuniquen permanente o intermitentemente con el mar; las de los lagos interiores de formación natural que estén ligados directamente a corrientes constantes; las de los ríos y sus afluentes directos o indirectos, desde el punto del cauce en que se inicien las primeras aguas permanentes, intermitentes o torrenciales, hasta su desembocadura en el mar, lagos, lagunas o esteros de propiedad nacional; las de las corrientes constantes o interminentes (sic) y sus afluentes directos o indirectos, cuando el cauce de aquéllas en toda su extensión o en parte de ellas, sirva de límite al territorio nacional o a dos entidades federativas, o cuando pase de una entidad federativa a otra o cruce la línea divisoria de la República; la de los lagos, lagunas o esteros cuyos vasos, zonas o riberas, estén cruzadas por líneas divisorias de dos o más entidades o entre la República y un país vecino, o cuando el límite de las riberas sirva de lindero entre dos entidades federativas o a la República con un país vecino; las de los manantiales que broten en las playas, zonas marítimas, cauces, vasos o riberas de los lagos, lagunas o esteros de propiedad nacional, y las que se extraigan de las minas; y los cauces, lechos o riberas de los lagos y corrientes interiores en la extensión que fija la ley. Las aguas del subsuelo pueden ser libremente alumbradas mediante obras artificiales y apropiarse por el dueño del terreno, pero cuando lo exija el interés público o se afecten otros aprovechamientos; el Ejecutivo Federal podrá reglamentar su extracción y utilización y aún establecer zonas vedadas, al igual que para las demás aguas de propiedad nacional. Cualesquiera otras aguas no incluidas en la enumeración anterior, se considerarán como parte integrante de la propiedad de los terrenos por los que corran o en los que se encuentren sus depósitos, pero si se localizaren en dos o más predios, el aprovechamiento de estas aguas se considerará de utilidad pública, y quedará sujeto a las disposiciones que dicten los Estados.
 
-En los casos a que se refieren los dos párrafos anteriores, el dominio de la Nación es inalienable e imprescriptible, y sólo podrán hacerse concesiones por el Gobierno Federal a los particulares o sociedades civiles o comerciales constituidas conforme a las leyes mexicanas, con la condición de que se establezcan trabajos regulares para la explotación de los elementos de que se trata y se cumpla con los requisitos que prevengan las leyes. Tratándose del petróleo y de los carburos de hidrógeno sólidos, líquidos o gaseosos, no se expedirán concesiones y la Ley Reglamentaria respectiva determinará la forma en que la Nación llevará a cabo las explotaciones de esos productos.
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1960)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE DICIEMBRE DE 1948)</small>
+En los casos a que se refieren los dos párrafos anteriores, el dominio de la Nación es inalienable e imprescriptible y la explotación, el uso o el aprovechamiento de los recursos de que se trata, por los particulares o por sociedades constituídas conforme a las leyes mexicanas, no podrá realizarse sino mediante concesiones, otorgadas por el Ejecutivo Federal, de acuerdo con las reglas y condiciones que establezcan las leyes. Las normas legales relativas a obras o trabajos de explotación de los minerales y substancias a que se refiere el párrafo cuarto; regularán la ejecución y comprobación de los que se efectúen o deban efectuarse a partir de su vigencia, independientemente de la fecha de otorgamiento de las concesiones y su inobservancia dará lugar a la cancelación de éstas. El Gobierno Federal tiene la facultad de establecer reservas nacionales y suprimirlas. Las declaratorias correspondientes se harán por el Ejecutivo en los casos y condiciones que las leyes prevean. Tratándose del petróleo y de los carburos de hidrógeno sólido, líquidos o gaseosos, no se otorgarán concesiones ni contratos, ni subsistirán los que se hayan otorgado y la nación llevará a cabo la explotación de esos productos, en los términos que señale la ley reglamentaria respectiva.
 
-La capacidad para adquirir el dominio de las tierras y aguas de la nación, se regirá por las siguientes prescripciones:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ENERO DE 1960)</small>
 
-I.- Sólo los mexicanos por nacimiento o por naturalización y las sociedades mexicanas, tienen derecho para adquirir el dominio de las tierras, aguas y sus accesiones, o para obtener concesiones de explotación de minas, aguas o combustibles minerales en la República Mexicana. El Estado podrá conceder el mismo derecho a los extranjeros, siempre que convengan ante la Secretaría de Relaciones, en considerarse como nacionales respecto de dichos bienes y en no invocar, por lo mismo, la protección de sus Gobiernos por lo que se refiere a aquéllos; bajo la pena, en caso de faltar al convenio, de perder en beneficio de la Nación, los bienes que hubieren adquirido en virtud del mismo.
+La capacidad para adquirir el dominio de las tierras y aguas de la Nación, se regirá por las siguientes prescripciones:
 
-En una faja de cien kilómetros a lo largo de las fronteras y de cincuenta en las playas, por ningún motivo podrán los extranjeros adquirir el dominio directo sobre tierras y aguas.
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 1960)</small>
 
-> <small>(ADICIONADO, D.O.F. 2 DE DICIEMBRE DE 1948)</small>
+I.- Sólo los mexicanos por nacimiento o por naturalización y las sociedades mexicanas tienen derecho para adquirir el dominio de las tierras, aguas y sus accesiones o para obtener concesiones de explotación de minas o aguas. El Estado podrá conceder el mismo derecho a los extranjeros, siempre que convengan ante la Secretaría de Relaciones en considerarse como nacionales respecto de dichos bienes y en no invocar por lo mismo la protección de sus gobiernos por lo que se refiere a aquéllos; bajo la pena, en caso de faltar al convenio, de perder en beneficio de la Nación, los bienes que hubieren adquirido en virtud del mismo. En una faja de cien kilómetros a lo largo de las fronteras y de cincuenta en las playas, por ningún motivo podrán los extranjeros adquirir el dominio directo sobre tierras y aguas.
 
-El Estado, de acuerdo con los intereses públicos internos y los principios de reciprocidad, podrá, a juicio de la Secretaría de Relaciones, conceder autorización a los Estados extranjeros para que adquieran, en el lugar permanente de la residencia de los Poderes Federales, la propiedad privada de bienes inmuebles necesarios para el servicio directo de sus embajadas o legaciones.
+El Estado de acuerdo con los intereses públicos internos y los principios de reciprocidad, podrá, a juicio de la Secretaría de Relaciones, conceder autorización a los Estados extranjeros para que adquieran, en el lugar permanente de la residencia de los Poderes Federales, la propiedad privada de bienes inmuebles necesarios para el servicio directo de sus embajadas o legaciones.
 
 II.- Las asociaciones religiosas denominadas iglesias, cualquiera que sea su credo, no podrán, en ningún caso, tener capacidad para adquirir, poseer o administrar bienes raíces, ni capitales impuestos sobre ellos; los que tuvieren actualmente, por sí o por interpósita persona, entrarán al dominio de la Nación, concediéndose acción popular para denunciar los bienes que se hallaren en tal caso. La prueba de presunciones será bastante para declarar fundada la denuncia. Los templos destinados al culto público son de la propiedad de la Nación, representada por el Gobierno Federal, quien determinará los que deben continuar destinados a su objeto. Los obispados, casas curales, seminarios, asilos o colegios de asociaciones religiosas, conventos o cualquier otro edificio que hubiere sido construído o destinado a la administración, propaganda o enseñanza de un culto religioso, pasarán desde luego, de pleno derecho, al dominio directo de la Nación, para destinarse exclusivamente a los servicios públicos de la Federación o de los Estados, en sus respectivas jurisdicciones. Los templos que en lo sucesivo se erigieren para el culto público serán propiedad de la Nación.
 
@@ -558,11 +558,23 @@ El pueblo ejerce su soberanía por medio de los Poderes de la Unión, en los cas
 
 DE LAS PARTES INTEGRANTES DE LA FEDERACION Y DEL TERRITORIO NACIONAL.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1934)</small>
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1960)</small>
 
 ###### Art. 42.
 
-El territorio nacional comprende el de las partes integrantes de la Federación y además el de las islas adyacentes en ambos mares. Comprende, asimismo, la isla de Guadalupe, y las de Revillagigedo, situadas en el Océano Pacífico.
+El territorio nacional comprende:
+
+I.- El de las partes integrantes de la Federación;
+
+II.- El de las islas, incluyendo los arrecifes y cayos en los mares adyacentes;
+
+III.- El de las islas de Guadalupe y las de Revillagigedo situadas en el Océano Pacífico;
+
+IV.- La plataforma continental y los zócalos submarinos de las islas, cayos y arrecifes;
+
+V.- Las aguas de los mares territoriales en la extensión y términos que fija el Derecho Internacional y las marítimas interiores;
+
+VI.- El espacio situado sobre el territorio nacional, con la extensión y modalidades que establezca el propio Derecho Internacional.
 
 > <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1952)</small>
 
@@ -588,9 +600,11 @@ Los Estados que tuviesen pendientes cuestiones de límites, las arreglarán o so
 
 El Estado del (sic) Nayarit tendrá la extensión territorial y límites que comprende actualmente el Territorio de Tepic.
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1960)</small>
+
 ###### Art. 48.
 
-Las islas de ambos mares que pertenezcan al Territorio Nacional, dependerán directamente del Gobierno de la Federación, con excepción de aquellas sobre las que hasta la fecha hayan ejercido jurisdicción los Estados.
+Las islas, los cayos y arrecifes de los mares adyacentes que pertenezcan al territorio nacional, la plataforma continental, los zócalos submarinos de las islas, de los cayos y arrecifes, los mares territoriales, las aguas marítimas interiores y el espacio situado sobre el territorio nacional, dependerán directamente del Gobierno de la Federación, con excepción de aquellas islas sobre las que hasta la fecha hayan ejercido jurisdicción los Estados.
 
 ## TITULO TERCERO.
 
@@ -2341,3 +2355,7 @@ La presente reforma entrará en vigor el día de su publicación en el "Diario O
 D.O.F. 17 DE OCTUBRE DE 1953.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 20 DE ENERO DE 1960.
+
+UNICO.- Las presentes reformas entrarán en vigor el día de su publicación en el "Diario Oficial" de la Federación.
