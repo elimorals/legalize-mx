@@ -4,7 +4,7 @@ identifier: "LCNBV"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-28"
-last_updated: "1998-01-23"
+last_updated: "1999-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2560&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCNBV"
 
 LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 1999.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el viernes 28 de abril de 1995.
 
@@ -88,7 +88,7 @@ VIII.- Fungir como órgano de consulta del Gobierno Federal en materia financier
 
 IX.- Procurar a través de los procedimientos establecidos en las leyes que regulan al sistema financiero, que las entidades cumplan debida y eficazmente las operaciones y servicios, en los términos y condiciones concertados, con los usuarios de servicios financieros;
 
-X.- Dar atención a las reclamaciones que presenten los usuarios y actuar como conciliador y árbitro, así como proponer la designación de árbitros, en conflictos originados por operaciones y servicios que hayan contratado las entidades con su clientela, de conformidad con las leyes correspondientes;
+X.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, D.O.F. 18 DE ENERO DE 1999)
 
 XI.- Autorizar la constitución y operación, así como determinar el capital mínimo, de aquellas entidades que señalan las leyes;
 
@@ -383,3 +383,17 @@ D.O.F. 23 DE ENERO DE 1998.
 ## TRANSITORIO
 
 UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 18 DE ENERO DE 1999.
+
+DECRETO QUE CREA LA LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan los artículos 119 y 120 de la Ley de Instituciones de Crédito; 102 y 103 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 87 y 88 de la Ley del Mercado de Valores; 45 de la Ley de Sociedades de Inversión; la fracción XI del artículo 108 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros; la fracción XII del artículo 5o., 109 y 110 de la Ley de los Sistemas de Ahorro para el Retiro, y la fracción X del artículo 4o. de la Ley de la Comisión Nacional Bancaria y de Valores, así como las demás disposiciones que se opongan a la presente Ley.
+
+TERCERO.- Para los efectos de los artículos 72 y 83 de esta Ley, las menciones a la Comisión Nacional de Seguros y Fianzas en los artículos 135 y 136 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, y 93 y 94 de la Ley Federal de Instituciones de Fianzas, se deberán entender referidas a la Comisión Nacional para la Defensa de los Usuarios de Servicios Financieros.
+
+DECIMO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
