@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1957-01-30"
+last_updated: "1960-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 1957.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 1960
+
+(REPUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 1960)
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -263,9 +265,9 @@ ART. 28.- Para ser Diputado Propietario o Suplente, se requiere:
 
 I.- Que el candidato esté en pleno goce de los derechos de ciudadanía, de acuerdo con los artículos 34, 35 y 36 de la Constitución Política de los Estados Unidos Mexicanos y que no haya ocurrido en su perjuicio ninguno de los motivos de pérdida ni de suspensión de derechos a que se refieren los artículos 37 y 38 de la misma Constitución.
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1950)</small>
+(REFORMADA, P.O. 20 DE FEBRERO DE 1960) (REPUBLICADA, P.O. 12 DE MARZO DE 1960)
 
-II.- Ser ciudadano del Estado en ejercicio de sus derechos, nacido en el mismo, con residencia en él, por más de un año.
+II.- Ser Ciudadano del Estado, en ejercicio de sus derechos, nacido en el Estado o vecino con residencia en él por más de cinco años.
 
 III.- Tener veinticinco años cumplidos el día de la elección.
 
@@ -1780,3 +1782,7 @@ Transitorio:- Esta reforma comenzará a regir desde la fecha de su publicación 
 P.O. 30 DE ENERO DE 1957.
 
 UNICO.- Este Decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE FEBRERO DE 1960. (REPUBLICADO, P.O. 12 DE MARZO DE 1960)
+
+UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
