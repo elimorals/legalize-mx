@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "1996-11-22"
+last_updated: "1996-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -99,13 +99,19 @@ e).- La dación en pago, y
 
 f).- La permuta.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+g).- Los demás supuestos comprendidos en el Código Fiscal del Estado.
+
 Cuando se trate de permuta, se considera que existe doble enajenación.
 
 II.- Se considera, salvo prueba en contrario, por lo que respecta a los vehículos que la enajenación se efectuó en el Estado de Quintana Roo, cuando al realizar los trámites establecidos en los artículos 176 y 179 de esta Ley, se compruebe al menos alguno de los siguientes supuestos:
 
 a).- Que así conste en el endoso que aparece en el documento que ampare la propiedad del vehículo en cuestión.
 
-b).- Que el endoso a que se refiere el inciso anterior, no contenga lugar de operación.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+b).- Que el endoso a que se refiere el inciso anterior, no contenga lugar de operación, excepto cuando el particular acredite haber cubierto el impuesto en otra entidad federativa.
 
 c).- Que el vehículo en cuestión circule con placas del Estado de Quintana Roo, aún cuando el endoso haya sido fechado en otra entidad.
 
@@ -573,9 +579,9 @@ Son objeto de este impuesto, las erogaciones en efectivo o en especie por concep
 
 Para los efectos de este impuesto, quedan comprendidas entre las erogaciones mencionadas anteriormente, aquellas que se realicen por concepto de prestaciones o contraprestaciones cualquiera que sea el nombre con el que se le designe, ya sean ordinarias o extraordinarias, incluyendo comisiones a trabajadores, premios, gratificaciones, rendimientos, primas vacacionales, dominicales, por antigüedad, así como cualquier otra erogación en beneficio de los trabajadores en forma personal. Son también objeto de este impuesto, las erogaciones por pagos realizados a los administradores, comisarios o miembros de los consejos directivos y de vigilancia en toda clase de sociedades y asociaciones.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-También quedan comprendidos los rendimientos y anticipos que obtengan los miembros de las sociedades cooperativas de producción, así como los anticipos que reciban los miembros de sociedades y asociaciones civiles.
+También quedan comprendidos los anticipos que reciban los miembros de sociedades y asociaciones civiles.
 
 ###### ARTICULO 40.
 
@@ -599,13 +605,21 @@ El presente impuesto se causará y pagará a razón del 2% sobre la base gravabl
 
 El pago deberá efectuarse mensualmente mediante declaración provisional en las formas aprobadas por la propia Secretaría, las que se presentarán en los siguientes plazos:
 
-a).- Cuando se trate de personas morales, cuya denominación o razón social inicie con las letras de la "A" a la "H", las presentarán a mas tardar el día 7 del mes siguiente a aquel en que se efectuó la erogación.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-b).- Las personas morales, cuya denominación o razón social inicie con las letras de la "I" a la "Z" a mas tardar el día 10 del mes siguiente a aquel en que se efectuó la erogación.
+a).- Cuando se trate de personas morales, cuyo Registro Federal de Contribuyentes inicie con las letras de la "A" a la "H", la presentarán a más tardar el día 7 del mes siguiente a aquél en que se efectuó la erogación.
 
-c).- Tratándose de personas físicas, cuyos apellidos paternos inicien con las letras de la "A" a la "K", el plazo vence el día 13 del mes siguiente a aquel en que se efectuó la erogación.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-d).- Las personas físicas, cuyos apellidos paternos inicien con las letras de la "L" a la "Z", a mas tardar el día 15 del mes siguiente a aquel en que se efectuó la erogación.
+b).- Las personas morales cuyo Registro Federal de Contribuyentes inicie con las letras de la "I" a la "Z", a más tardar el día 10 del mes siguiente a aquél en que se efectuó la erogación.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+c).- Tratándose de personas físicas, cuyo Registro Federal de Contribuyentes inicie con las letras de la "A" a la "K", el plazo vence el día 13 del mes siguiente a aquél en que se efectuó la erogación.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+d).- Tratándose de personas físicas cuyo Registro Federal de Contribuyentes inicie con las letras de la "L" a la "Z", el plazo vence el día 15 del mes siguiente a aquél en que se efectuó la erogación.
 
 Estos pagos, se efectuarán en la Oficina Recaudadora de Rentas o en las oficinas autorizadas por la Secretaría de Hacienda del Estado del domicilio del sujeto pasivo de este impuesto, salvo en el caso de contar con una o mas sucursales dentro del territorio del Estado de Quintana Roo, en cuyo caso se estará a lo establecido por el artículo 45 de la presente ley.
 
@@ -631,7 +645,13 @@ I.- Cuando se trate de declaraciones de pagos provisionales y no se haya present
 
 II.- Cuando se modifique una declaración del ejercicio, el contribuyente podrá optar por solicitar devoluciones o compensar dicha diferencia a su favor, en la declaración de pago provisional, siguiente al día en que se presente la complementaria.
 
-Cuando el total de remuneraciones por las que se deba pagar el impuesto del ejercicio sea superior a la suma del declarado en los pagos provisionales que comprenda el mismo, se deberán presentar declaraciones complementarias por el período o períodos por los que se efectúan pagos provisionales a que correspondan las diferencias, debiéndose cubrir los recargos y actualizaciones que señalan los artículos 20 y 22 del Código Fiscal del Estado.
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+III.- Cuando el total de remuneraciones por las que se deba pagar el impuesto del ejercicio sea superior a la suma del declarado en los pagos provisionales que comprenda el mismo, se deberán presentar declaraciones complementarias por el período o períodos por los que se efectúan pagos provisionales a que correspondan las diferencias, debiéndose actualizar el impuesto y cubrir los recargos conforme a los artículos 20 y 22 del Código Fiscal del Estado.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+IV.- Cuando la diferencia entre el impuesto del ejercicio y la suma del impuesto consignado en las declaraciones provisionales, se deba al ajuste de las contribuciones pagadas efectuado en los términos previstos en el artículo 18 último párrafo, se recepcionará la declaración anual sin cobro alguno.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -701,7 +721,7 @@ II.- Jubilaciones y pensiones en caso de invalidez, vejez, cesantía y muerte.
 
 III.- Pagos por gastos funerarios.
 
-IV.- Participaciones a los trabajadores en las utilidades de las empresas.
+IV.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 1996)
 
 V.- Remuneraciones cubiertas por las dependencias de la Administración Pública Centralizada Federal, Estatal y Municipal.
 
@@ -727,7 +747,7 @@ g) Las asociaciones civiles organizadas con fines científicos, políticos, reli
 
 No se considerarán para estos fines las instituciones educativas a menos que sus servicios sean gratuitos.
 
-VIII.- Remuneraciones cubiertas por las industrias cualquiera que sea su giro, en su período preoperativo y primer año de operación.
+VIII.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 1996)
 
 IX.- Remuneraciones cubiertas a trabajadores domésticos.
 
@@ -959,7 +979,7 @@ Los contribuyentes de este impuesto deberán conservar y colocar en lugar visibl
 
 ###### ARTICULO 70.
 
-Los sujetos de este impuesto, que únicamente perciban ingresos exentos, tienen obligación, excepción hecha de los comprendidos en las fracciones I, III, V, y X del artículo 80 de:
+Los sujetos de este impuesto, que únicamente perciban ingresos exentos, tienen obligación, excepción hecha de los comprendidos en las fracciones l, III, V, y X del artículo 80 de:
 
 I.- Empadronarse dentro de los quince días siguientes a la fecha de iniciación de sus operaciones;
 
@@ -1599,17 +1619,19 @@ Será base para la determinación y liquidación de este impuesto, el número de
 
 El presente impuesto se causará y pagará de conformidad con la siguiente:
 
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
 TARIFA
 
-BOVINO N$ 48.00
+Bovino 3.00 S.M.G.
 
-CAPRINO N$ 15.00
+Caprino 1.00 S.M.G.
 
-EQUINO N$ 30.00
+Equino 2.00 S.M.G.
 
-LANAR N$ 15.00
+Lanar 1.00 S.M.G.
 
-PORCINO N$ 30.00
+Porcino 2.00 S.M.G.
 
 #### SECCION TERCERA. DE LAS OBLIGACIONES
 
@@ -1711,19 +1733,19 @@ Será base de este impuesto, el total de los ingresos que perciba el sujeto de e
 
 #### SECCION CUARTA. DEL (SIC) LA TASA, DEL PAGO Y OBLIGACIONES
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 147.
 
-Este impuesto se pagará anualmente dentro del primer cuatrimestre en las oficinas recaudadoras de rentas, o en las oficinas autorizadas por la Secretaría de Hacienda del Estado, de acuerdo a la tasa del 0.5% sobre sus percepciones.
+Este impuesto se pagará anualmente dentro de los dos primeros meses del año siguiente a aquél en que se obtuvieron los ingresos, en las oficinas autorizadas por la Secretaría de Hacienda del Estado, aplicando la tasa del 0.5% sobre sus percepciones.
 
-Cuando sea el primer año de operación del contribuyente se aplicará la siguiente tarifa:
+Cuando sea el primer año de operación del contribuyente conforme a la fecha de su inicio de operaciones, se aplicará la siguiente:
 
-Primer cuatrimestre $ 332.00
+Primer cuatrimestre 22 S.M.G.
 
-Segundo cuatrimestre $ 249.00
+Segundo cuatrimestre 16 S.M.G.
 
-Tercer cuatrimestre $ 166.00
+Tercer cuatrimestre 11 S.M.G.
 
 ###### ARTICULO 148.
 
@@ -1835,11 +1857,17 @@ Son sujetos de este impuesto las personas físicas o morales y unidades económi
 
 Será base gravable para el pago de este impuesto, el monto de los ingresos globales percibidos durante el período de explotación autorizado.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 163.
 
-El impuesto sobre espectáculos públicos, se liquidará y pagará aplicando a los ingresos que se obtengan conforme a lo establecido por el artículo 160 de esta ley, la tasa del 4% por la venta de boletos para entrar al espectáculo, o mensualmente cubrirán la siguiente:
+El impuesto sobre espectáculos públicos, se liquidará y pagará aplicando a los ingresos que se obtengan conforme a lo establecido por el artículo 160 de esta Ley, la tasa del 4% por la venta de boletos para entrar al espectáculo.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 163-A.
+
+Cuando no se pueda identificar plenamente los ingresos a que se refiere el artículo 162, el impuesto se podrá pagar anticipadamente conforme a la siguiente
 
 (VEASE TABLA ANEXA)
 
@@ -1979,13 +2007,17 @@ Los contribuyentes trasladarán el impuesto, en forma expresa y por separado, a 
 
 Este impuesto en ningún caso se considerará que forma parte del valor de los servicios ni será violatorio de tasas o tarifas, incluyendo las oficiales.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 168-I.
 
-Los contribuyentes deberán efectuar pagos provisionales mensuales, a cuenta del impuesto anual, mediante declaraciones que se presentarán ante las oficinas autorizadas por la Secretaría de Hacienda del Estado, a más tardar el día 17 del mes siguiente a aquél en que se perciban las contraprestaciones correspondientes a los servicios objeto del impuesto, utilizando las formas oficiales aprobadas.
+Los contribuyentes deberán efectuar pagos provisionales mensuales, a cuenta del impuesto anual, mediante declaraciones que se presentarán ante las oficinas autorizadas por la Secretaría de Hacienda del Estado, en los mismos plazos contenidos en el artículo 43 de esta ley, utilizando las formas oficiales aprobadas.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
 
 El pago provisional será la cantidad que resulte de aplicar la tasa del impuesto sobre el total de los ingresos por la prestación de los servicios a que se refiere este capítulo, obtenidos en el período por el que se efectúa el pago.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
 
 La obligación de presentar declaraciones de pagos provisionales subsistirá aún cuando no hubiese cantidad a cubrir.
 
@@ -2059,7 +2091,7 @@ Los contribuyentes que tengan varios establecimientos en el Estado, deberán con
 
 ### CAPITULO III. EXPEDICION DE LICENCIAS DE FUNCIONAMIENTO
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION QUINTA. ESTABLECIMIENTOS PENALES
 
@@ -2097,127 +2129,93 @@ La Secretaría de Hacienda del Estado en coordinación con la Secretaría de Gob
 
 TARIFA
 
-Por la expedición de patentes en los municipios de Othón P. Blanco y Felipe Carrillo Puerto, para la:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+I.- Por la expedición de patentes en los municipios de Othón P. Blanco y Felipe Carrillo Puerto, para la:
 
 a).- Venta de cervezas exclusivamente con alimentos.
 
 Loncherías, Marisquerías y Taquerías:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 20,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 15,000.00
+De lujo hasta 1,050 S.M.G. 788 S.M.G.
 
-De segunda hasta 10,000.00
+De primera hasta 788 S.M.G. 630 S.M.G.
 
-ZONA RURAL
-
-De lujo hasta $ 15,000.00
-
-De primera hasta 12,000.00
-
-De segunda hasta 9,000.00
+De segunda hasta 525 S.M.G 473 S.M. (SIC)
 
 b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos
 
 Restaurantes:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 30,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 20,000.00
+De lujo hasta 1,575 S.M.G. 1,050 S.M.G.
 
-De segunda hasta 15,000.00
+De primera hasta 1,050 S.M.G 788 S.M.G.
 
-ZONA RURAL
-
-De lujo hasta $ 20,000.00
-
-De primera hasta 15,000.00
-
-De segunda hasta 10,000.00
+De segunda hasta 788 S.M.G. 525 S.M.G.
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
 Autoservicios, minusuper y licolerías:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 30,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 20,000.00
+De lujo hasta 1,575 S.M.G. 1,050 S.M.G.
 
-De segunda hasta 15,000.00
+De primera hasta 1,050 S.M.G. 788 S.M.G.
 
-ZONA RURAL
-
-De lujo hasta $ 20,000.00
-
-De primera hasta 15,000.00
-
-De segunda hasta 10,000.00
+De segunda hasta 788 S.M.G. 525 S.M.G.
 
 d).- Venta de cervezas en envase cerrado.
 
 Subagencia, depósitos y abarrotes:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 25,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 20,000.00
+De lujo hasta 1,313 S.M.G. 88 S.M.G.
 
-De segunda hasta 15,000.00
+De primera hasta 1,050 S.M.G. 630 S.M.G.
 
-ZONA RURAL
-
-De lujo hasta $ 15,000.00
-
-De primera hasta 12,000.00
-
-De segunda hasta 9,000.00
+De segunda hasta 788 S.M.G. 473 S.M.G.
 
 e).- Venta de cervezas, vinos y licores al copeo.
 
 Bares, discotecas, centros nocturnos y piano bares:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 40,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 35,000.00
+De lujo hasta 2,100 S.M.G. 1,575 S.M.G.
 
-De segunda hasta 30,000.00
+De primera hasta 1,838 S.M.G 1,313 S.M.G.
 
-ZONA RURAL
-
-De lujo hasta $ 30,000.00
-
-De primera hasta 25,000.00
-
-De segunda hasta 20,000.00
+De segunda hasta1,575 S.M.G 1,050 S.M.G.
 
 f).- Venta de cervezas en envase abierto.
 
 cervecerías:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 35,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 30,000.00
+De lujo hasta 1,838 S.M.G. 1,313 S.M.G.
 
-De segunda hasta 25,000.00
+De primera hasta 1,575 S,M.G 1,050 S.M.G.
 
-ZONA RURAL
-
-De lujo hasta $ 25,000.00
-
-De primera hasta 20,000.00
-
-De segunda hasta 15,000.00
+De segunda hasta1,313 S.M.G 788 S.M.G.
 
 II.- Por la expedición de patentes en los municipios de José María Morelos y Lázaro Cárdenas, para la:
 
@@ -2225,243 +2223,173 @@ a).- Venta de cervezas exclusivamente con alimentos.
 
 Loncherías, Marisquerías y Taquerías:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 15,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 10,000.00
+De lujo hasta 788 S.M.G. 525 S.M,G.
 
-De segunda hasta 8,000.00
+De primera hasta 525 S.M.G 420 S.M.G.
 
-ZONA RURAL
-
-De lujo hasta $ 10,000.00
-
-De primera hasta 8,000.00
-
-De segunda hasta 6,000.00
+De segunda hasta 420 S.M.G 315 S.M.G.
 
 b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos.
 
 Restaurantes:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 25,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 20,000.00
+De lujo hasta 1,313 S.M.G. 788 S.M.G.
 
-De segunda hasta 15,000.00
+De primera hasta 1,050 S.M.G. 630 S.M.G.
 
-ZONA RURAL
-
-De lujo hasta $ 15,000.00
-
-De primera hasta 12,000.00
-
-De segunda hasta 10,000.00
+De segunda hasta 788 S.M.G. 525 S.M.G.
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
 Autoservicios, minisuper y licorerías:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 20,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 15,000.00
+De lujo hasta 1,050 S.M.G. 788 S.M,G.
 
-De segunda hasta 10,000.00
+De primera hasta 788 S.M.G. 525 S.M.G.
 
-ZONA RURAL
-
-De lujo hasta $ 15,000.00
-
-De primera hasta 10,000.00
-
-De segunda hasta 6,000.00
+De segunda hasta 525 S,M.G. 315 S.M.G.
 
 d).- Venta de cervezas en envase cerrado.
 
 Subagencia, depósitos y abarrotes:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 15,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 12,000.00
+De lujo hasta 788 S.M.G. 630 S.M.G.
 
-De segunda hasta 8,000.00
+De primera hasta 630 S.M.G 420 S.M.G.
 
-ZONA RURAL
-
-De lujo hasta $ 12,000.00
-
-De primera hasta 8,000.00
-
-De segunda hasta 6,000.00
+De segunda hasta 420 S.M.G. 315 S.M.G.
 
 e).- Venta de cervezas, vinos y licores al copeo.
 
 Bares, discotecas, centros nocturnos y piano bar:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 40,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 30,000.00
+De lujo hasta 2,100 S.M.G 1,050 S.M.G.
 
-De segunda hasta 20,000.00
+De primera hasta 1,575 S.M.G. 945 S.M.G.
 
-ZONA RURAL
-
-De lujo hasta $ 20,000.00
-
-De primera hasta 18,000.00
-
-De segunda hasta 15,000.00
+De segunda hasta 1,050 S.M.G. 788 S.M.G.
 
 f).- Venta de cervezas en envase abierto.
 
 Cervecerías:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 13,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 10,000.00
+De lujo hasta 683 S.M.G. 630 S.M.G.
 
-De segunda hasta 8,000.00
+De primera hasta 525 S.M.G. 525 S.M.G.
 
-ZONA RURAL
+De segunda hasta 420 S.M.G. 315 S.M.G.
 
-De lujo hasta $ 12,000.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De primera hasta 10,000.00
-
-De segunda hasta 6,000.00
-
-- Por la expedición de patentes en el municipio de Isla Mujeres, por la:
+III.- Por la expedición de patentes en el municipio de Isla Mujeres, por la:
 
 a).- Venta de cervezas exclusivamente con los alimentos.
 
 Loncherías, Marisquerías y Taquerías:
 
-ZONA TURISTICA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 20,000.00
+ZONA TURISTICA COMERCIAL ZONA URBANA
 
-De primera hasta 15,000.00
+De lujo hasta 1,050 S.M.G. 788 S.M.G.
 
-De segunda hasta 10,000.00
+De primera hasta 788 S.M.G. 683 S.M.G.
 
-ZONA URBANA
-
-De lujo hasta $ 15,000.00
-
-De primera hasta 13,000.00
-
-De segunda hasta 8,000.00
+De segunda hasta 525 S.M.G. 420 S.M.G.
 
 b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos.
 
 Restaurantes:
 
-ZONA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 50,000.00
+ZONA COMERCIAL ZONA URBANA
 
-De primera hasta 45,000.00
+De lujo hasta 2,625 S.M.G 2,100 S.M.G.
 
-De segunda hasta 40,000.00
+De primera hasta 2,363 S.M.G. 1,838 S.M.G.
 
-ZONA URBANA
-
-De lujo hasta $ 40,000.00
-
-De primera hasta 35,000.00
-
-De segunda hasta 30,000.00
+De segunda hasta2,100 S. M.G. 1,575 S.M.G.
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
 Autoservicios, minisuper y licorerías:
 
-ZONA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 40,000.00
+ZONA COMERCIAL ZONA URBANA
 
-De primera hasta 35,000.00
+De lujo hasta 2,100 S.M.G. 1,575 S.M.G.
 
-De segunda hasta 30,000.00
+De primera hasta 1,838 S.M.G. 1,313 S.M.G.
 
-ZONA URBANA
-
-De lujo hasta $ 30,000.00
-
-De primera hasta 25,000.00
-
-De segunda hasta 20,000.00
+De segunda hasta 1,575 S.M.G 1,050 S.M.G.
 
 d).- Venta de cervezas en envase cerrado.
 
 Subagencia, depósitos y abarrotes:
 
-ZONA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 40,000.00
+ZONA COMERCIAL ZONA URBANA
 
-De primera hasta 35,000.00
+De lujo hasta 2,100 S.M.G. 1,575 S.M.G.
 
-De segunda hasta 30,000.00
+De primera hasta 1,838 S.M.G. 1,313 S.M.G.
 
-ZONA URBANA
-
-De lujo hasta $ 30,000.00
-
-De primera hasta 25,000.00
-
-De segunda hasta 20,000.00
+De segunda hasta 1,575 S.M.G. 1,050 S.M.G.
 
 e).- Venta de cervezas, vinos y licores al copeo.
 
 Bares, discotecas, centros nocturnos y piano bar:
 
-ZONA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 70,000.00
+ZONA COMERCIAL ZONA URBANA
 
-De primera hasta 65,000.00
+De lujo hasta 3,675 S.M.G. 3,150 S.M,G.
 
-De segunda hasta 60,000.00
+De primera hasta 3,413 S.M.G 2,888 S.M.G.
 
-ZONA URBANA
-
-De lujo hasta $ 60,000.00
-
-De primera hasta 55,000.00
-
-De segunda hasta 50,000.00
+De segunda hasta 3,150 S.M.G 2,625 S.M.G.
 
 f).- Venta de cervezas en envase abierto.
 
 Cervecerías:
 
-ZONA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 40,000.00
+ZONA COMERCIAL ZONA URBANA
 
-De primera hasta 35,000.00
+De lujo hasta 2,100 S.M.G. 1,575 S.M.G.
 
-De segunda hasta 30,000.00
+De primera hasta 1,838 S.M.G. 1,313 S.M.G.
 
-ZONA URBANA
-
-De lujo hasta $ 30,000.00
-
-De primera hasta 25,000.00
-
-De segunda hasta 20,000.00
+De segunda hasta 1,575 S.M.G. 1,050 S.M.G.
 
 IV.- Por la expedición de patentes en los municipios de Benito Juárez, Cozumel y Solidaridad.
 
@@ -2469,121 +2397,85 @@ a).- Venta de cervezas exclusivamente con los alimentos.
 
 Loncherías, Marisquerías y Taquerías:
 
-ZONA TURISTICA
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 40,000.00
+ZONA TURISTICA ZONA COMERCIAL
 
-De primera hasta 35,000.00
+De lujo hasta 2,100 S.M.G. 1,575 S.M.G.
 
-De segunda hasta 30,000.00
+De primera hasta 1,838 S.M.G. 1,313 S.M.G.
 
-ZONA COMERCIAL
-
-De lujo hasta $ 30,000.00
-
-De primera hasta 25,000.00
-
-De segunda hasta 20,000.00
+De segunda hasta 1,575 S.M.G. 1,050 S.M.G.
 
 b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos
 
 Restaurantes:
 
-ZONA TURISTICA
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 60,000.00
+ZONA TURISTICA ZONA COMERCIAL
 
-De primera hasta 55,000.00
+De lujo hasta 3,150 S.M.G. 2,625 S.M.G.
 
-De segunda hasta 50,000.00
+De primera hasta 2,888 S.M.G 2,363 S.M.G.
 
-ZONA COMERCIAL
-
-De lujo hasta $ 50,000.00
-
-De primera hasta 45,000.00
-
-De segunda hasta 40,000.00
+De segunda hasta 2,625 S.M.G. 2,100 S.M. G.
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
 Autoservicios, minisuper y licorerías:
 
-ZONA TURISTICA
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 50,000.00
+ZONA TURISTICA ZONA COMERCIAL
 
-De primera hasta 45,000.00
+De lujo hasta 2,625 S.M.G. 2,363 S.M.G.
 
-De segunda hasta 40,000.00
+De primera hasta 2,363 S.M.G. 2,100 S.M.G.
 
-ZONA COMERCIAL
-
-De lujo hasta $ 45,000.00
-
-De primera hasta 40,000.00
-
-De segunda hasta 35,000.00
+De segunda hasta 2,100 S.M.G. 1,838 S.M.G.
 
 d).- Venta de cervezas en envase cerrado.
 
 Subagencia, depósitos y abarrotes:
 
-ZONA TURISTICA
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 45,000.00
+ZONA TURISTICA ZONA COMERCIAL
 
-De primera hasta 40,000.00
+De lujo hasta 2,363 S.M.G. 2,100 S.M.G.
 
-De segunda hasta 35,000.00
+De primera hasta 2,100 S.M.G. 1,838 S.M.G.
 
-ZONA COMERCIAL
-
-De lujo hasta $ 40,000.00
-
-De primera hasta 35,000.00
-
-De segunda hasta 30,000.00
+De segunda hasta 1,838 S.M.G. 1,575 S.M.G.
 
 e).- Venta de cervezas, vinos y licores al copeo.
 
 Bares, discotecas, centros nocturnos y piano bar:
 
-ZONA TURISTICA
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $80,000.00
+ZONA TURISTICA ZONA COMERCIAL
 
-De primera hasta 75,000.00
+De lujo hasta 4,200 S.M.G. 3,675 S.M.G.
 
-De segunda hasta 70,000.00
+De primera hasta 3,938 S.M.G. 3,413 S.M.G.
 
-ZONA COMERCIAL
-
-De lujo hasta $ 70,000.00
-
-De primera hasta 65,000.00
-
-De segunda hasta 60,000.00
+De segunda hasta 3,675 S.M.G 3,150 S.M.G.
 
 f).- Venta de cervezas en envase abierto
 
 Cervecerías:
 
-ZONA TURISTICA
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 50,000.00
+ZONA TURISTICA ZONA COMERCIAL
 
-De primera hasta 45,000.00
+De lujo hasta 2,625 S.M.G. 2,100 S.M.G.
 
-De segunda hasta 40,000.00
+De primera hasta 2,363 S.M.G. 1,838 S.M.G.
 
-ZONA COMERCIAL
-
-De lujo hasta $ 40,000.00
-
-De primera hasta 35,000.00
-
-De segunda hasta 30,000.00
+De segunda hasta 2,100 S.M.G. 1,575 S.M.G.
 
 V.- Por cada cambio que se solicite para patentes en los municipios de Othón P. Blanco y Felipe Carrillo Puerto.
 
@@ -2591,121 +2483,85 @@ a).- Venta de cervezas exclusivamente con los alimentos.
 
 Loncherías, Marisquerías y Taquerías:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 4,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 3,000.00
+De lujo hasta 210 S.M.G. 158 S.M.G.
 
-De segunda hasta 2,000.00
+De primera hasta 158 S.M.G. 105 S.M.G.
 
-ZONA RURAL
-
-De lujo hasta $ 3,000.00
-
-De primera hasta 2,000.00
-
-De segunda hasta 1,000.00
+De segunda hasta 105 S.M.G. 53 S.M.G.
 
 b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos.
 
 Restaurantes:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 5,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 4,000.00
+De lujo hasta 263 S.M.G. 210 S.M.G.
 
-De segunda hasta 3,000.00
+De primera hasta 210 S.M.G. 158 S.M.G.
 
-ZONA RURAL
-
-De lujo hasta $ 4,000.00
-
-De primera hasta 3,000.00
-
-De segunda hasta 2,000.00
+De segunda hasta 158 S.M.G. 105 S.M.G.
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
 Autoservicios, minisuper y licorerías:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 5,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 4,000.00
+De lujo hasta 263 S.M.G. 210 S.M.G.
 
-De segunda hasta 3,000.00
+De primera hasta 210 S.M. G. 158 S.M.G.
 
-ZONA RURAL
-
-De lujo hasta $ 4,000.00
-
-De primera hasta 3,000.00
-
-De segunda hasta 2,000.00
+De segunda hasta 158 S.M.G. 105 S.M.G.
 
 d).- Venta de cervezas en envase cerrado.
 
 Subagencia, depósitos y abarrotes:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 4,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 3,000.00
+De lujo hasta 210 S.M.G. 158 S.M.G.
 
-De segunda hasta 2,000.00
+De primera hasta 158 S.M.G. 105 S.M.G.
 
-ZONA RURAL
-
-De lujo hasta $ 3,000.00
-
-De primera hasta 2,000.00
-
-De segunda hasta 1,000.00
+De segunda hasta 105 S.M.G. 53 S.M.G.
 
 e).- Venta de cervezas, vinos y licores al copeo.
 
 Bares, discotecas, centros nocturnos y piano bar:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 10,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 8,000.00
+De lujo hasta 525 S.M.G. 420 S.M.G.
 
-De segunda hasta 6,000.00
+De primera hasta 420 S.M.G. 315 S.M.G.
 
-ZONA RURAL
-
-De lujo hasta $ 8,000.00
-
-De primera hasta 6,000.00
-
-De segunda hasta 5,000.00
+De segunda hasta 315 S.M.G. 263 S.M.G.
 
 f).- Venta de cervezas en envase abierto.
 
 Cervecerías:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 7,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 6,000.00
+De lujo hasta 368 S.M.G. 263 S.M.G.
 
-De segunda hasta 5,000.00
+De primera hasta 315 S.M.G. 210 S.M.G.
 
-ZONA RURAL
-
-De lujo hasta $ 5,000.00
-
-De primera hasta 4,000.00
-
-De segunda hasta 3,000.00
+De segunda hasta 263 S.M.G. 158 S.M.G.
 
 VI.- Por cada cambio de patentes en los municipios de José María Morelos y Lázaro Cárdenas por la:
 
@@ -2713,121 +2569,85 @@ a).- Venta de cervezas exclusivamente con alimentos.
 
 Loncherías, Marisquerías y Taquerías:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 4,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 3,000.00
+De lujo hasta 210 S.M.G. 158 S.M.G.
 
-De segunda hasta 2,000.00
+De primera hasta 158 S.M.G. 105 S.M.G.
 
-ZONA RURAL
-
-De lujo hasta $ 3,000.00
-
-De primera hasta 2,000.00
-
-De segunda hasta 1,000.00
+De segunda hasta 105 S.M.G. 53 S.M.G.
 
 b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos.
 
 Restaurantes:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 6,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 5,000.00
+De lujo hasta 315 S.M.G. 237 S.M.G.
 
-De segunda hasta 4,000.00
+De primera hasta 263 S.M.G. 210 S.M.G.
 
-ZONA RURAL
-
-De lujo hasta $ 4,500.00
-
-De primera hasta 4,000.00
-
-De segunda hasta 3,000.00
+De segunda hasta 210 S.M.G. 158 S.M.G.
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
 Autoservicios, minisuper y licorerías:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 5,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 4,000.00
+De lujo hasta 263 S.M.G. 237 S.M.G.
 
-De segunda hasta 3,000.00
+De primera hasta 210 S.M.G. 210 S.M.G.
 
-ZONA RURAL
-
-De lujo hasta $ 4,500.00
-
-De primera hasta 4,000.00
-
-De segunda hasta 3,000.00
+De segunda hasta 158 S.M.G. 158 S.M.G.
 
 d).- Venta de cervezas en envase cerrado.
 
 Subagencia, depósitos y abarrotes:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 4,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera Hasta 3,500.00
+De lujo hasta 210 S.M.G. 158 S.M.G.
 
-De segunda hasta 3,000.00
+De primera hasta 184 S.M.G. 105 S.M.G.
 
-ZONA RURAL
-
-De lujo hasta $ 3,000.00
-
-De primera hasta 2,000.00
-
-De segunda hasta 1,000.00
+De segunda hasta 158 S.M.G. 53 S.M.G.
 
 e).- Venta de cervezas, vinos y licores al copeo.
 
 Bares, discotecas, centros nocturnos y piano bar:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 7,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 6,500.00
+De lujo hasta 368 S.M.G. 342 S.M.G.
 
-De segunda hasta 6,000.00
+De primera hasta 342 S.M.G. 289 S.M,G.
 
-ZONA RURAL
-
-De lujo hasta $ 6,500.00
-
-De primera hasta 5,500.00
-
-De segunda hasta 5,000.00
+De segunda hasta 315 S.M.G. 263 S.M.G.
 
 f).- Venta de cervezas en envase abierto.
 
 Cervecerías:
 
-ZONA URBANA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 6,000.00
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De primera hasta 5,500.00
+De lujo hasta 315 S.M.G. 210 S.M.G.
 
-De segunda hasta 5,000.00
+De primera hasta 289 S.M.G. 158 S.M.G.
 
-ZONA RURAL
-
-De lujo hasta $ 4,000.00
-
-De primera hasta 3,000.00
-
-De segunda hasta 2,000.00
+De segunda hasta 263 S.M.G. 105 S.M.G.
 
 VII.- Por cada cambio de patentes en el municipio de Isla Mujeres por la:
 
@@ -2835,121 +2655,85 @@ a).- Venta de cervezas exclusivamente con los alimentos.
 
 Loncherías, Marisquerías y Taquerías:
 
-ZONA TURISTICA
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 6,000.00
+ZONA TURISTICA ZONA URBANA
 
-De primera hasta 5,000.00
+De lujo hasta 315 S.M.G. 210 S.M.G.
 
-De segunda hasta 4,000.00
+De primera hasta 263 S.M.G. 158 S.M.G.
 
-ZONA URBANA
-
-De lujo hasta $ 4,000.00
-
-De primera hasta 3,000.00
-
-De segunda hasta 2,000.00
+De segunda hasta 210 S.M.G 105 S.M.G.
 
 b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos.
 
 Restaurantes:
 
-ZONA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $10,000.00
+ZONA COMERCIAL ZONA URBANA
 
-De primera hasta 9,000.00
+De lujo hasta 525 S.M.G. 420 S.M.G.
 
-De segunda hasta 8,000.00
+De primera hasta 473 S.M.G. 368 S.M.G.
 
-ZONA URBANA
-
-De lujo hasta $ 8,000.00
-
-De primera hasta 7,000.00
-
-De segunda hasta 6,000.00
+De segunda hasta 420 S.M.G. 315 S.M.G.
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
 Autoservicios, minisuper y licorerías:
 
-ZONA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 8,000.00
+ZONA COMERCIAL ZONA URBANA
 
-De primera hasta 7,000.00
+De lujo hasta 420 S.M.G. 315 S.M.G.
 
-De segunda hasta 6,000.00
+De primera hasta 368 S.M.G. 263 S.M.G.
 
-ZONA URBANA
-
-De lujo hasta $ 6,000.00
-
-De primera hasta 5,000.00
-
-De segunda hasta 4,000.00
+De segunda hasta 315 S.M.G. 210 S.M.G.
 
 d).- Venta de cervezas en envase cerrado.
 
 Subagencia, depósitos y abarrotes:
 
-ZONA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 6,500.00
+ZONA COMERCIAL ZONA URBANA
 
-De primera hasta 6,000.00
+De lujo hasta 342 S.M.G 263 S.M.G.
 
-De segunda hasta 5,000.00
+De primera hasta 315 S.M.G. 210 S.M.G.
 
-ZONA URBANA
-
-De lujo hasta $ 5,000.00
-
-De primera hasta 4,000.00
-
-De segunda hasta 3,000.00
+De segunda hasta 263 S.M.G. 158 S.M.G.
 
 e).- Venta de cervezas, vinos y licores al copeo.
 
 Bares, discotecas, centros nocturnos y piano bar:
 
-ZONA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 20,000.00
+ZONA COMERCIAL ZONA URBANA
 
-De primera hasta 18,000.00
+De lujo hasta 1,050 S.M.G. 840 S.M.G.
 
-De segunda hasta 15,000.00
+De primera hasta 945 S.M.G. 735 S.M.G.
 
-ZONA URBANA
-
-De lujo hasta $ 16,000.00
-
-De primera hasta 14,000.00
-
-De segunda hasta 10,000.00
+De segunda hasta 788 S.M.G. 525 S.M.G.
 
 f).- Venta de cervezas en envase abierto.
 
 Cervecerías:
 
-ZONA COMERCIAL
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 8,000.00
+ZONA COMERCIAL ZONA URBANA
 
-De primera hasta 6,000.00
+De lujo hasta 420 S.M.G. 342 S.M.G.
 
-De segunda hasta 5,000.00
+De primera hasta 315 S.M.G. 315 S.M.G.
 
-ZONA URBANA
-
-De lujo hasta $ 6,500.00
-
-De primera hasta 6,000.00
-
-De segunda hasta 5,500.00
+De segunda hasta 289 S.M.G. 263 S.M.G.
 
 VIII.- Por los cambios de patentes en los municipios de Benito Juárez, Cozumel y Solidaridad por la:
 
@@ -2957,121 +2741,85 @@ a).- Venta de cervezas exclusivamente con los alimentos.
 
 Loncherías, Marisquerías y Taquerías:
 
-ZONA TURISTICA
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 9,000.00
+ZONA TURISTICA ZONA COMERCIAL
 
-De primera hasta 8,000.00
+De lujo hasta 473 S.M.G. 368 S.M.G.
 
-De segunda hasta 7,000.00
+De primera hasta 420 S.M.G. 315 S.M.G.
 
-ZONA COMERCIAL
-
-De lujo hasta $ 7,000.00
-
-De primera hasta 6,000.00
-
-De segunda hasta 5,000.00
+De segunda hasta 368 S.M.G. 263 S.M.G.
 
 b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos.
 
 Restaurantes:
 
-ZONA TURISTICA
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 14,000.00
+ZONA TURISTICA ZONA COMERCIAL
 
-De primera hasta 13,000.00
+De lujo hasta 735 S.M.G. 578 S.M.G.
 
-De segunda hasta 12,000.00
+De primera hasta 683 S.M.G. 525 S.M.G.
 
-ZONA COMERCIAL
-
-De lujo hasta $ 11,000.00
-
-De primera 10,000.00
-
-De segunda hasta 9,000.00
+De segunda hasta 630 S.M.G. 473 S.M.G.
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
 Autoservicios, minisuper y licorerías:
 
-ZONA TURISTICA
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 12,000.00
+ZONA TURISTICA ZONA COMERCIAL
 
-De primera hasta 11,000.00
+De lujo hasta 630 S.M.G. 525 S.M.G.
 
-De segunda hasta 10,000.00
+De primera hasta 578 S.M.G. 473 S.M.G.
 
-ZONA COMERCIAL
-
-De lujo hasta $10,000.00
-
-De primera hasta 9,000.00
-
-De segunda hasta 8,000.00
+De segunda hasta 525 S.M.G. 420 S.M.G.
 
 d).- Venta de cervezas en envase cerrado.
 
 Subagencia, depósitos y abarrotes:
 
-ZONA TURISTICA
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $10,000.00
+ZONA TURISTICA ZONA COMERCIAL
 
-De primera hasta 9,000.00
+De lujo hasta 525 S.M.G. 420 S.M.G.
 
-De segunda hasta 8,000.00
+De primera hasta 473 S.M.G. 368 S.M.G.
 
-ZONA COMERCIAL
-
-De lujo hasta $ 8,000.00
-
-De primera hasta 7,000.00
-
-De segunda hasta 6,000.00
+De segunda hasta 420 S.M.G. 315 S.M.G
 
 e).- Venta de cervezas, vinos y licores al copeo.
 
 Bares, discotecas, centros nocturnos y piano bar:
 
-ZONA TURISTICA
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 27,000.00
+ZONA TURISTICA ZONA COMERCIAL
 
-De primera hasta 25,000.00
+De lujo hasta 1,418 S.M.G. 1,208 S.M.G.
 
-De segunda hasta 23,000.00
+De primera hasta 1,313 S.M.G. 1,103 S.M.G.
 
-ZONA COMERCIAL
-
-De lujo hasta $ 23,000.00
-
-De primera hasta 21,000.00
-
-De segunda hasta 20,000.00
+De segunda hasta 1,208 S.M.G. 1,050 S.M.G.
 
 f).- Venta de cervezas en envase abierto.
 
 Cervecerías:
 
-ZONA TURISTICA
+> <small>(REFORMADA TARIFA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-De lujo hasta $ 14,000,00
+ZONA TURISTICA ZONA COMERCIAL
 
-De primera hasta 13,000.00
+De lujo hasta 735 S.M.G. 630 S.M.G.
 
-De segunda hasta 12,000.00
+De primera hasta 683 S.M.G. 578 S.M.G.
 
-ZONA COMERCIAL
-
-De lujo hasta $ 12,000.00
-
-De primera hasta 11,000.00
-
-De segunda hasta 10,000.00
+De segunda hasta 630 S.M.G. 525 S.M.G.
 
 ### CAPITULO VI. DEL REGISTRO Y CONTROL DE VEHICULOS
 
@@ -3079,9 +2827,13 @@ De segunda hasta 10,000.00
 
 ###### ARTICULO 171.
 
-Las personas físicas o morales que realicen actividades comerciales, industriales, de servicios y de inversión de capitales, salvo disposición expresa en contrario deberán solicitar su inscripción en el padrón estatal de contribuyentes dentro del mes siguiente al día en que se efectúen las situaciones que a continuación se señalan:
+Las personas físicas o morales que realicen actividades comerciales, industriales, de servicios y de inversión de capitales, salvo disposición expresa en contrario, deberán solicitar su inscripción en el Registro Estatal de Contribuyentes dentro del mes siguiente al día en que se efectúen las situaciones que a continuación se señalan:
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 I.- Las personas morales residentes en México, a partir de que se firme su acta constitutiva.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 II.- Las personas físicas, así como las morales residentes en el extranjero, desde que se realicen las situaciones jurídicas o de hecho. U obtengan ingresos derivados de sus actividades.
 
@@ -3111,137 +2863,197 @@ Por la expedición de las licencias de funcionamiento se causará anualmente un 
 
 TARIFA
 
-I.- ACADEMIA DE BAILE: hasta N$ 100.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-II.- ACADEMIA DE CORTE Y CONFECCION: hasta N$ 100.00
+I.- Academia de baile, hasta 6 S.M.G.
 
-III.- AGENCIAS DE GUIAS TURISTICAS: hasta N$ 1,000.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-IV.- ACADEMIAS DE IDIOMAS: hasta N$ 100.00
+II.- Academia de corte y confección, hasta 6 S.M.G.
 
-V.- ACADEMIA DE KARATE, JUDO ETC.: hasta N$ 100.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-VI.- ACADEMIA DE MUSICA: hasta N$ 150.00
+III. Ä (sic) Agencias de guías turísticas, hasta 53 S.M.G.
 
-VII.- AGENCIAS ADUANALES: hasta N$1,000.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-VIII.- AGENCIAS QUE RENTEN BICICLETAS POR UNIDAD:
+IV.- Academia de idiomas, hasta 6 S.M.G.
 
-hasta N$ 50.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-IX.- AGENCIAS QUE RENTEN CALANDRIAS: hasta N$ 100.00
+V.- Academia de karate, judo etc., hasta 6 S.M.G.
 
-X.- AGENCIAS DE CERVEZAS: hasta N$ 1,000.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-XI.- AGENCIAS QUE RENTEN AUTOMOVILES POR UNIDAD:
+VI.- Academia de música, hasta 8 S.M.G.
 
-hasta N$ 250.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-XII.- AGENCIAS QUE RENTEN LANCHAS DEPORTIVAS Y BARCOS POR UNIDAD:
+VII.- Agencias aduanales, hasta 53 S.M.G.
 
-hasta N$ 250.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-XIII.- AGENCIAS QUE RENTEN MOTOCICLETAS POR UNIDAD:
+VIII.- Agencias que renten bicicletas, por unidad, hasta 3 S.M.G.
 
-hasta N$ 50.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-XIV.- AGENCIAS DE LOTERIA NACIONAL: hasta N$ 200.00
+IX.- Agencias que renten calandrias, hasta 6 S.M.G.
 
-XV.- AGENCIAS DE GAS DOMESTICO O INDUSTRIAL EXCEPTO DE ANHIDRIDO CARBONICO: hasta N$ 200.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-XVI.- AGENCIAS FUNERARIAS: hasta N$ 200.00
+X.- Agencias de cervezas, hasta 53 S.M.G.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-XVII.- AGENCIAS DE VEHICULOS: hasta N$ 200.00
+XI.- Agencias que renten automóviles, por unidad, hasta 14 S.M.G.
 
-XVIII.- AGENCIAS DE VIAJES: hasta N$ 1,000.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-XIX.- AGENCIAS DE PRONOSTICOS DEPORTIVOS:
+XII.- Agencias que renten lanchas deportivas y barcos, por unidad, hasta 14 S.M.G.
 
-hasta N$ 200.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-XX.- ARTESANIAS: hasta N$ 200.00
+XIII.- Agencias que renten motocicletas, por unidad, hasta 3 S.M.G.
 
-XXI.- ARTICULOS ELECTRICOS Y NOVEDADES:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-hasta N$ 300.00
+XIV.- Agencias de lotería nacional, hasta 11 S.M.G.
 
-XXII.- ACADEMIA COMERCIAL: hasta N$ 200.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XV.- Agencias de gas domésticos (sic) o industrial, excepto anhídrido carbónico, hasta 11 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XVI.- Agencias funerarias, hasta 11 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XVII.- Agencias de vehículos, hasta 11 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XVIII.- Agencias de viajes, hasta 53 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XIX.- Agencias de pronósticos deportivos, hasta 11 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XX.- Artesanías, hasta 11 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XXI.- Artículos eléctricos y novedades, hasta 16 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XXII.- Academia comercial, hasta 11 S.M.G.
 
 XXIII.- (DEROGADA P.O. 29 DE DICIEMBRE DE 1995)
 
-XXIV.- BODEGAS: hasta N$ 150.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XXIV.- Bodegas, hasta 8 S.M.G.
 
 XXV.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 XXVI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-XXVII.- BIENES RAICES: hasta N$ 200.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-XXVIII.- BONETERIA, MERCERIA Y NOVEDADES:
+XXVII.- Bienes raíces, hasta 11 S.M.G.
 
-hasta N$ 100.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-XXIX.- BILLARES: hasta N$ 150.00
+XXVIII.- Bonetería, mercería y novedades, hasta 6 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XXIX.- Billares, hasta 8 S.M.G.
 
 XXX.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-XXXI.- CONSTRUCTORAS: hasta N$ 1,000.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+XXXI.- Constructoras, hasta 53 S.M.G.
 
-XXXII.- COCINAS ECONOMICAS SIN VENTA DE BEBIDAS ALCOHOLICAS: hasta $ 500.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-XXXIII.- CONGELADORAS Y EMPACADORAS:
+XXXII.- Cocinas económicas sin venta de bebidas alcohólicas, hasta 27 S.M.G.
 
-hasta N$ 500.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-XXXIV.- CARPINTERIAS: hasta N$ 500.00
+XXXIII.- Congeladoras y empacadoras, hasta 27 S.M.G.
 
-XXXV.- CLINICAS Y LABORATORIOS DE ANALISIS CLINICOS:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-hasta N$ 500.00
+XXXIV.- Carpinterías, hasta 27 S.M.G.
 
-XXXVI.- CASA DE HUESPEDES: hasta N$ 300.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XXXV.- Clínicas y laboratorios de análisis químicos, hasta 27 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XXXVI.- Casa de huéspedes, hasta 6 S.M.G.
 
 XXXVII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-XXXVIII.- CARNICERIA: hasta N$ 200.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XXXVIII.- Carnicería, hasta 11 S.M.G.
 
 XXXIX.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-XL.- CINES Y TEATROS: hasta N$ 500.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-XLI.- CAFETERIA: hasta N$ 150.00
+XL.- Cines y teatros, hasta 27 S.M.G.
 
-XLII.- ESTACION DE SERVICIOS (GASOLINERIA):
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-hasta N$ 1.000.00
+XLI.- Cafetería, hasta 8 S.M.G.
 
-XLIII.- ESTANQUILLOS DE REVISTAS, PERIODICOS, ETC.:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-hasta N$ 100.00
+XLII.- Estación de servicios (gasolinerías), hasta 53 S.M.G.
 
-XLIV.- ESTUDIOS FOTOGRAFICOS: hasta N$ 150.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-XLV.- FABRICACION Y VENTA DE PUERTAS, CANCELES, ETC. DE ALUMINIO:
+XLIII.- Estanquillos de revistas, periódicos, etc., hasta 6 S.M.G.
 
-hasta N$ 300.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-XLVI.- FABRICA DE MUEBLES: hasta N$ 500.00
+XLIV.- Estudios fotográficos, hasta 8 S.M.G.
 
-XLVII.- FABRICA DE BLOQUES Y MOSAICOS:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-hasta N$ 500.00
+XLV.- Fabricación y venta de puertas, canceles etc. de aluminio, hasta16 S.M.G.
 
-XLVIII.- FLORERIAS: hasta N$ 200.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-XLIX.- FARMACIAS Y BOTICAS: hasta N$ 200.00
+XLVI.- Fabricación de muebles, hasta 27 S.M.G.
 
-L.- FERRETERIAS: hasta N$ 300.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-LI.- FABRICA DE HIELO: hasta N$ 300.00
+XLVII.- Fábrica de bloques y mosaicos, hasta 27 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XLVIII.- Florerías, hasta 11 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XLIX.- Farmacias y boticas, hasta 11 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+L.- Ferreterías, hasta 16 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+LI.- Fábricas de hielo, hasta 16 S.M.G.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -3249,185 +3061,255 @@ LII.- FRACCIONAMIENTO DE TERRENO;
 
 Sobre el monto total del presupuesto de obras de urbanización por ejecutar en el fraccionamiento o en las zonas que van a desarrollarse... 2%. En este caso los derechos comprenden los gastos de revisión y el estudio de planos y proyectos, así como la urbanización y se cobrarán en efectivo al quedar definidos los proyectos, antes de iniciar las obras.
 
-LIII.- FABRICAS DE AGUAS PURIFICADAS NO GASEOSAS:
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-hasta N$ 250.00
+El fraccionamiento de terreno, cuando sea destinado a la vivienda de interés social y popular se cobrará el 1%, en los mismos términos del párrafo anterior.
 
-LIV.- HOTELES:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-a) De lujo, hasta N$ 2,000.00
+LIII.- Fábricas de aguas purificadas no gaseosas, hasta 14 S.M.G.
 
-b) De primera clase, hasta N$ 1,500.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-c) De segunda clase, hasta N$ 1,000.00
+LIV.-HOTELES:
 
-LV.- IMPRENTAS: hasta N$ 300.00
+a).- De lujo, hasta 105 S.M.G.
 
-LVI.- JOYERIAS: hasta N$ 500.00
+b).- De primera clase, hasta 79 S.M.G.
 
-LVII.- LINEAS DE TRANSPORTE URBANO, POR CADA UNIDAD:
+c).- De segunda clase, hasta 53 S.M.G.
 
-hasta N$ 100,00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-LVIII.- LINEAS DE TRANSPORTE FORANEO: hasta N$ 300.00
+LV.- Imprentas, hasta 16 S.M.G.
 
-LIX.- LINEAS DE TRANSPORTE AEREO: hasta N$ 1,000.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-LX.- LIBRERIAS, PAPELERIAS Y ARTICULOS ESCOLARES:
+LVI.- Joyerías, hasta 27 S.M.G.
 
-hasta N$ 300.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-LXI.- MOLINOS PARA GRANOS: hasta N$ 200.00
+LVII.- Líneas de transporte urbano (por cada unidad), hasta 6 S.M.G.
 
-LXII.- MADERERIAS: hasta N$ 500.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-LXIII.- MUEBLERIAS Y ARTICULOS PARA EL HOGAR:
+LVIII.- Líneas de transporte foráneo, hasta 16 S.M.G.
 
-hasta N$ 500.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-LXIV.- OPTICAS: hasta N$ 300.00
+LIX.- Líneas de transporte aéreo, hasta 53 S.M.G.
 
-LXV.- PESCADERIAS: hasta N$ 300.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-LXVI.- PALETERIAS Y NEVERIAS: hasta N$ 300.00
+LX.- Librerías, papelerías y artículos escolares, hasta 11 S.M.G.
 
-LXVII.- PERFUMES Y COSMETICOS: hasta N$ 500.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-LXVIII.- POLLERIAS: hasta N$ 200.00
+LXI.- Molinos para granos, hasta 27 S.M.G.
 
-LXIX.- RENTA DE EQUIPO DE BUCEO Y PESCA:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-hasta N$ 500.00
+LXII.- Madererías, hasta 16 S.M.G.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-LXX.- RESTAURANTES: sin venta de bebidas alcohólicas
+LXIII.- Mueblerías y artículos para el hogar, hasta 27 S.M.G.
 
-a).- De lujo, hasta $ 1,000.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-b).- De primera clase, hasta 700.00
+LXIV.- Opticas, hasta16 S.M.G.
 
-c).- Cenadurías, hasta 400.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-d).- Fondas, hasta 200.00
+LXV.- Pescaderías, hasta 16 S.M.G.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-LXXI.- REFACCIONARIA: hasta N$ 300.00
+LXVI.- Paleterías y neverías, hasta 16 S.M.G.
 
-LXXII.- ROSTICERIA: hasta N$ 200.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-LXXIII.- RENTADORA DE VAJILLAS, MESAS, SILLAS, ETC.:
+LXVII.- Perfumes y cosméticos, hasta 27 S.M.G.
 
-hasta N$ 500.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-LXXIV.- REFRESQUERIA Y NEVERIA: hasta N$ 300.00
+LXVIII.- Pollerías, hasta 11 S.M.G.
 
-LXXV.- SALONES DE BELLEZA Y PELUQUERIAS:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-hasta N$ 300.00
+LXIX.- Renta de equipos de buceo y pesca, hasta 27 S.M.G.
 
-LXXVI.- SASTRERIAS: hasta N$ 300.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+LXX.- Restaurantes sin venta de bebidas alcohólicas
+
+a).- De lujo, hasta 53 S.M.G.
+
+b).- De primera clase, hasta 37 S.M.G.
+
+c).- Cenadurías, hasta 21 S.M.G.
+
+d).- Fondas, hasta 11 S.M G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+LXXI.- Refaccionaría, hasta 16 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+LXXII.- Rosticería, hasta 11 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+LXXIII.- Rentadora de vajillas, mesas, sillas etc., hasta 27 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+LXXIV.- Refresquería y nevería, hasta 16 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+LXXV.- Salones de belleza y peluquería, hasta 16 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+LXXVI.- Sastrerías, hasta 16 S.M.G.
 
 LXXVII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-LXXVIII.- SALA DE ESTETICA Y BELLEZA: hasta N$ 500.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-LXXIX.- SERVICIO DE LAVADO Y ENGRASADO:
+LXXVIII.- Sala de estética y belleza, hasta 27 S.M.G.
 
-hasta N$ 300.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-LXXX.- TALLER DE HERRERIA: hasta N$ 300.00
+LXXIX.- Servicio de lavado y engrasado, hasta 16 S.M.G.
 
-LXXXI.- TORTILLERIA: hasta N$ 200.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+LXXX.- Taller de herrería, hasta 16 S.M.G.
 
-LXXXII.- TIENDA DE ABARROTES SIN VENTA DE BEBIDAS ALCOHOLICAS: hasta $ 200.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-LXXXIII.- TALLER DE ELECTRICIDAD Y ELECTRONICOS:
+LXXXI.- Tortillería, hasta 11 S.M.G.
 
-hasta N$ 300.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-LXXXIV.- TALLER MECANICO: hasta N$ 300.00
+LXXXII.- Tienda de abarrotes sin venta de bebidas alcohólicas, hasta 11 S.M.G.
 
-LXXXV.- TRANSPORTE DE MATERIALES PARA CONSTRUCCION, POR UNIDAD:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-hasta N$ 150.00
+LXXXIII.- Taller de electricidad y electrónicos, hasta 16 S.M.G.
 
-LXXXVI.- TALLER DE REPARACION DE BICICLETAS Y MOTOS:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-hasta N$ 200.00
+LXXXIV.- Taller mecánico, hasta 16 S.M.G.
 
-LXXXVII.- TALLER DE REPARACION DE RELOJES:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-hasta N$ 200.00
+LXXXV.- Transportes de materiales de construcción, hasta 8 S.M.G.
 
-LXXXVIII.- TALLER DE REFRIGERACION:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-Domestico y automotriz, hasta N$ 400.00
+LXXXVI.- Taller de reparación de bicicletas y motos, por unidad, hasta 11 S.M.G.
 
-LXXXIX.- TALLER DE COSTURA: hasta N$ 400.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-XC.- TIENDA DE ROPA, TELAS, ARTICULOS ELECTRICOS, ARTICULOS PARA REGALOS, NOVEDADES, ETC: hasta N$ 300.00
+LXXXVII.- Taller de reparación de relojes, hasta 11 S.M.G.
 
-XCI.- TIENDAS DE ARTICULOS DE IMPORTACION:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-hasta N$ 500.00
+LXXXVIII.- Taller de refrigeración doméstico y automotriz, hasta 21 S.M.G.
 
-XCII.- TALLER DE HOJALATERIA Y PINTURA: hasta N$ 300.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-XCIII.- TALLER MECANICO AUTOMORIZ (SIC): hasta N$ 300.00
+LXXXIX.- Taller de costura, hasta 21 S.M.G.
 
-XCIV.- TALLER DE ALINEACION Y BALANCEO:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-hasta N$ 400.00
+XC.- Tienda de ropa, telas, artículos eléctricos, artículos para regalos, novedades etc.,
 
-XCV.- TINTORERIAS Y LAVANDERIAS: hasta N$ 200.00
+hasta 16 S.M.G.
 
-XCVI.- VENTA DE MATERIALES PARA CONSTRUCCION:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-hasta N$ 300.00
+XCI.- Tiendas de artículos de importación, hasta 27 S.M.G.
 
-XCVII.- VENTA DE CORTINAS, CORTINEROS, TAPICES, ALFOMBRAS, ETC:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-hasta N$ 300.00
+XCII.- Taller de hojalatería y pintura, hasta 16 S.M.G.
 
-XCVIII.- VENTA DE MUEBLES Y EQUIPOS PARA OFICINA:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-hasta N$ 400.00
+XCIII.- Taller mecánico y automotriz, hasta 16 S.M.G.
 
-XCIX.- VENTA DE ARTICULOS DE PLASTICO: hasta N$ 200.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-C.- VENTA DE SEGUROS: hasta N$200.00
+XCIV.- Taller de alineación y balanceo, hasta 21 S.M.G.
 
-CI.- VENTA DE ARTICULOS DEPORTIVOS: hasta N$ 500.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-CII.- VENTA DE FRUTAS Y VERDURAS: hasta N$200.00
+XCV.- Tintorerías y lavanderías, hasta 11 S.M.G.
 
-CIII.- VENTA DE JUGOS Y LICUADOS: hasta N$ 200.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XCVI.- Venta de materiales para construcción, hasta 16 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XCVII.- Venta de cortinas, cortineros, tapices, alfombras etc., hasta 16 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XCVIII.- Venta de muebles y equipos para oficina, hasta 21 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XCIX.- Venta de artículos de plástico, hasta 11 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+C.- Venta de seguros, hasta 11 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+CI.- Venta de artículos deportivos, hasta 27 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+CII.- Venta de frutas y verduras, hasta 11 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+CIII.- Venta de jugos y licuados, hasta 11 S.M.G.
 
 CIV.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-CV.- VENTA DE DISCOS, CARTUCHOS, CASSETES, ETC.:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-hasta N$ 300.00
+CV.- Venta de discos, cartuchos, cassettes etc., hasta 16 S.M.G.
 
-CVI.- VULCANIZADORAS: hasta N$ 200.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-CVII.- ZAPATERIAS: hasta N$ 200.00
+CVI.- Vulcanizadoras, hasta 11 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+CVII.- Zapaterías, hasta 11 S.M.G.
 
 CVIII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-CIX.- COCTELERIA SIN VENTA DE CERVEZA: hasta N$ 200.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-CX.- RENTADORA DE PELICULAS DE VIDEOS:
+CIX.- Coctelería sin venta de cervezas, hasta 11 S.M.G.
 
-hasta N$ 300.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+CX.- Rentadoras de películas de videos, hasta 16 S.M.G.
 
-CXI.- LOS GIROS QUE NO SE ENCUENTREN ESPECIFICADOS EN LAS FRACCIONES QUE ANTECEDEN, SERAN EQUIPARADOS POR SIMILITUD CON LOS MISMOS EN EL SUPUESTO DE QUE NO SE ENCUENTRE UNO SEMEJANTE SE APLICARA: hasta $ 1,000.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+CXI.- Los giros que no se encuentren especificados en las fracciones que anteceden, serán equiparados por similitud con los mismos; en el supuesto de que no se encuentre uno semejante se aplicará: hasta 53 S.M.G.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -3439,59 +3321,107 @@ TARIFA
 
 I.- Para los establecimientos ubicados en los municipios de Othón P. Blanco y Felipe Carrillo Puerto, por la:
 
-a).- Venta de cervezas exclusivamente con los alimentos, en Loncherías, Marisquerías y Taquerías. Hasta $ 900.00
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos, en Restaurantes. Hasta $200.00
+a).- Venta de cervezas exclusivamente con los alimentos, en loncherías, marisquerías y taquerías, hasta 48 S.M.G.
 
-c).- Venta de cervezas, vinos y licores en envase cerrado, autoservicios, minisuper y licorerías. Hasta $ 900.00
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-d).- Venta de cervezas en envase cerrado, en subagencias, depósitos y abarrotes. Hasta $ 800.00
+b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos en restaurantes, hasta 63 S.M.G.
 
-e).- Venta de cervezas, vinos y licores al copeo, en bares, discotecas, centros nocturnos y piano bar. Hasta $ 1,500.00
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-f).- Venta de cervezas en envase abierto, en cervecerías. Hasta $ 900.00
+c).- Venta de cervezas, vinos y licores en envase cerrado, autoservicios, minisúper y licorerías, hasta 48 S.M.G.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+d).- Venta de cervezas en envase cerrado en subagencias, depósitos y abarrotes, hasta 42 S.M.G.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+e).- Venta de cervezas, vinos y licores al copeo, en bares, discotecas, centros nocturnos y piano bar, hasta 79 S.M.G.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+f).- Venta de cervezas en envase abierto en cervecerías, hasta 48 S.M.G.
 
 II.- Para los establecimientos domiciliados en los municipios de José María Morelos y Lázaro Cárdenas.
 
-a).- Venta de cervezas exclusivamente con los alimentos, en loncherías, marisquerías y taquerías. Hasta $ 900.00
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos, en restaurantes. Hasta $ 1,000.00
+a).- Venta de cervezas exclusivamente con los alimentos, en loncherías, marisquerías y taquerías, hasta 48 S.M.G.
 
-c).- Venta de cervezas, vinos y licores en envase cerrado, en autoservicios, minisuper y licorerías. Hasta $ 900.00
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-d).- Venta de cervezas en envase cerrado, en subagencias, depósitos y abarrotes. Hasta $ 700.00
+b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos en restaurantes, hasta 53 S.M.G.
 
-e).- Venta de cervezas, vinos y licores al copeo, en bares, discotecas, centros nocturnos y piano bar. Hasta $ 1,200.00
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-f).- Venta de cervezas en envase abierto, en cervecerías. Hasta $ 800.00
+c).- Venta de cervezas, vinos y licores en envase cerrado, autoservicios, minisúper y licorerías, hasta 48 S.M.G.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+d).- Venta de cervezas en envase cerrado en subagencias, depósitos y abarrotes, hasta 38 S.M.G.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+e).- Venta de cervezas, vinos y licores al copeo, en bares, discotecas, centros nocturnos y piano bar, hasta 63 S.M.G.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+f).- Venta de cervezas en envase abierto en cervecerías, hasta 42 S.M.G.
 
 III.- Para los establecimientos domiciliados en el municipio de Isla Mujeres, por la:
 
-a).- Venta de cervezas exclusivamente con los alimentos, en loncherías, taquerías y marisquerías. Hasta $ 1,200.00
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos, en restaurantes. Hasta $ 2,400.00
+a).- Venta de cervezas exclusivamente con los alimentos, en loncherías, marisquerías y taquerías, hasta 63 S.M.G.
 
-c).- Venta de cervezas, vinos y licores en envase cerrado, en autoservicios, minisuper y licorerías. Hasta $ 1,500.00
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-d).- Venta de cervezas en envase cerrado, en subagencias, depósitos y abarrotes. Hasta $ 1,000.00
+b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos en restaurantes, hasta126 S.M.G.
 
-e).- Venta de cervezas, vinos y licores al copeo, en bares, discotecas, centros nocturnos y piano bar. Hasta $ 3,400.00
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-f).- Venta de cervezas en envase abierto, en cervecerías. Hasta $ 1,500.00
+c).- Venta de cervezas, vinos y licores en envase cerrado, autoservicios, minisúper y licorerías, hasta 79 S.M.G.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+d).- Venta de cervezas en envase cerrado en subagencias, depósitos y abarrotes, hasta 53 S.M.G.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+e).- Venta de cervezas, vinos y licores al copeo, en bares, discotecas, centros nocturnos y piano bar, hasta 179 S.M.G.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+f).- Venta de cervezas en envase abierto en cervecerías, hasta 79 S.M.G.
 
 IV.- Para los establecimientos domiciliados en los municipios de Benito Juárez, Cozumel y Solidaridad, por la:
 
-a).- Venta de cervezas exclusivamente con los alimentos, en loncherías, marisquerías y taquerías. Hasta $ 1,200.00
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos, en restaurantes. Hasta $3,000.00
+a).- Venta de cervezas exclusivamente con los alimentos, en loncherías, marisquerías y taquerías, hasta 63 S.M.G.
 
-c).- Venta de cervezas, vinos y licores en envase cerrado, en autoservicios, minisuper y licorerías. Hasta $2,100.00
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-d).- Venta de cervezas en envase cerrado, en subagencias, depósitos y abarrotes. Hasta $ 1,000.00
+b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos en restaurantes, hasta 158 S.M.G.
 
-e).- Venta de cervezas, vinos y licores al copeo, bares, discotecas, centros nocturnos y piano bar. Hasta $ 4,000.00
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-f).- Venta de cervezas en envase abierto, en cervecerías. Hasta $2,100.00
+c).- Venta de cervezas, vinos y licores en envase cerrado, autoservicios, minisúper y licorerías, hasta 111 S.M.G.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+d).- Venta de cervezas en envase cerrado en subagencias, depósitos y abarrotes, hasta 53 S.M.G.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+e).- Venta de cervezas, vinos y licores al copeo, en bares, discotecas, centros nocturnos y piano bar, hasta 210 S.M.G.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+f).- Venta de cervezas en envase abierto en cervecerías, hasta 111 S.M.G.
 
 ###### ARTICULO 174.
 
@@ -3741,9 +3671,243 @@ V.- Por día de estancia en el corralón 0.46 veces el S.M.G. vigente en el esta
 
 VI.- Permiso para circular con cristales polarizados por 1 año 4.03 veces el S.M.G. vigente en el estado.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 177.
 
-(DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
+Por el otorgamiento de concesiones para explotar el servicio público de transporte de pasajeros, carga y el especializado en el Estado, a exepción (sic) del urbano de pasajeros en autobuses en ruta establecida que corresponde a los municipios, se causarán y pagarán los derechos con base en la siguiente:
+
+TARIFA
+
+I.- Por el otorgamiento para explotar el servicio público de transporte en los municipios de Benito Juárez y Solidaridad:
+
+a) Servicio público de pasajeros en general:
+
+1.- Autobuses de 36 asientos en adelante, hasta 3,556 S.M.G.
+
+2.- Minibuses hasta 25 asientos, hasta 2,667 S.M.G.
+
+3.-Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 6,733 S.M.G.
+
+4.- Otros vehículos, hasta 3,112 S.M.G.
+
+b) Servicio público de carga:
+
+1.- Vehículos de carga hasta 1,500 kgs., hasta 1,778 S.M.G.
+
+2.- Vehículos de carga mayor de 1,500 hasta 7,000 kgs., hasta 2,135 S.M.G.
+
+3.- Vehículos de carga mayor de 7,000 kgs., hasta 2,489 S.M.G.
+
+c) Servicio público de renta de toda clase de vehículos:
+
+1.- Arrendadoras de automóviles hasta con 50 unidades, hasta 889 S.M.G.
+
+2.- Arrendadoras de automóviles de 51 unidades en adelante 889 S.M.G., y por cada vehículo excedente de 50, hasta 45 S.M.G.
+
+3.- Motocicletas, hasta 445 S.M. G.
+
+4.- Triciclos y bicicletas, hasta 223 S.M.G.
+
+5.- otros vehículos, hasta 223 S.M.G.
+
+d) Servicio público especializado:
+
+1.- Grúa hasta 10,000 kgs., hasta 1,778 S.M.G.
+
+2.- Grúa mayor de 10,000 kgs., hasta 2,667 S.M.G.
+
+3.- Vehículos de arrendamiento para transporte de personal, hasta 4,445 S.M.G.
+
+4.- Vehículos para servicio especial de turismo, hasta 1,334 S.M.G.
+
+5.- Vehículos de arrendamiento para transporte escolar, hasta 2,667 S.M.G.
+
+e) Vehículos para otros servicios que requieren otorgamiento de concesión, hasta 1,335 S.M.G.
+
+II.- Por el otorgamiento para explotar el servicio público de transporte en el municipio de Cozumel:
+
+a) Servicio público de pasajeros en general:
+
+1.- Autobuses de 36 asientos en adelante, hasta 3,778 S.M.G.
+
+2.- Minibuses hasta 25 asientos, hasta 2,889 S.M.G.
+
+3.- Automóviles de alquiler tipo taxis (hasta 5 pasajeros ), hasta 8,977 S.M.G.
+
+4.- Otros vehículos, hasta 3,334 S.M.G.
+
+b) Servicio público de carga:
+
+1.- Vehículos de carga hasta 1,500 kgs., hasta 2,000 S.M.G.
+
+2.- Vehículos de carga mayor de 1,500 hasta 7,000 kgs., hasta 2,223 S.M.G.
+
+3.- Vehículos de carga mayor de 7,000 kgs., hasta 2,667 S.M.G.
+
+c) Servicio público de renta de toda clase de vehículos:
+
+1.- Arrendadoras de automóviles hasta con 50 unidades, hasta 1,112 S.M.G.
+
+2.- Arrendadoras de automóviles de 51 unidades en adelante, hasta1,112 S.M.G. y por cada vehículo excedente de 50, hasta 67 S.M.G.
+
+3.- Motocicletas, hasta 534 S.M.G.
+
+4.- Triciclos y bicicletas, hasta 312 S.M.G.
+
+5.- Otros vehículos, hasta 312 S.M.G.
+
+d) Servicio público especializado:
+
+1.- Grúa hasta 10,000 kgs., hasta 2,000 S.M.G.
+
+2.- Grúa mayor de 10,000 kgs., hasta 2,667 S.M.G.
+
+3.- Vehículos de arrendamiento para transporte de personal, hasta 4,889 S.M.G.
+
+4.-Vehículos para servicio especial de turismo, hasta 1,556 S.M.G.
+
+5.- Vehículos de arrendamiento para transporte escolar, hasta 2,889 S.M.G.
+
+e) Vehículos para otros servicios que requieren otorgamiento de concesión, hasta 1,556 S.M.G
+
+III.- Por el otorgamiento par (sic) explotar el servicio público de transporte en los municipios de Othón P. Blanco e Isla Mujeres:
+
+a) Servicio público de pasajeros en general:
+
+1.- Autobuses de 36 asientos en adelante, hasta 2,845 S.M.G.
+
+2.- Minibuses hasta 25 asientos, hasta 2,134 S.M,G.
+
+3.- Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 4,488 S.M.G.
+
+4.- Otros vehículos, hasta 2,489 S.M.G.
+
+b) Servicio público de carga:
+
+1.- Vehículos de carga hasta 1,500 kgs., hasta 1,423 S.M.G.
+
+2.- Vehículos de carga mayor de 1,500 hasta 7,000 kgs., hasta 1,689 S.M.G.
+
+3.- Vehículos de carga mayor de 7,000 kgs., hasta 2,000 S.M.G.
+
+c) Servicio público de renta de toda clase de vehículos:
+
+1.- Arrendadoras de automóviles hasta con 50 unidades, hasta 712 S.M.G.
+
+2.- Arrendadoras de automóviles de 51 unidades en adelante, 712 S.M.G. y por cada vehículo excedente de 50, hasta 36 S.M.G.
+
+3.- Motocicletas, hasta 356 S.M.G,
+
+4.- Triciclos y bicicletas, hasta 178 S.M.G.
+
+5.- Otros vehículos, hasta 178 S.M.G.
+
+d) Servicio público especializado:
+
+1.- Grúa hasta 10,000 kgs., hasta 1,423 S.M.G.
+
+2.- Grúa mayor de 10,000 kgs., hasta 2,134 S.M.G.
+
+3.- Vehículos de arrendamiento para transporte de personal, hasta 3,551 S.M.G.
+
+4.- Vehículos para servicio especial de turismo, hasta 1,067 S.M.G.
+
+5.- Vehículos de arrendamiento para transporte escolar, hasta 2,134 S.M.G.
+
+e) Vehículos para otros servicios que requieren otorgamiento de concesión, hasta 1,067 S.M.G.
+
+IV.- Por el otorgamiento para explotar el servicio público de transporte en los municipios de Felipe Carrillo Puerto y Lázaro Cárdenas:
+
+a) Servicio público de pasajeros en general:
+
+1.- Autobuses de 36 asientos en adelante, hasta 1,778 S.M.G.
+
+2.- Minibuses hasta 25 asientos, hasta 1,334 S.M.G.
+
+3.- Automóviles de alquiler tipo taxis (hasta 5 pasajeros ), hasta 2,223 S.M.G.
+
+4.- Otros vehículos, hasta 1,556 S.M.G.
+
+b) Servicio público de carga:
+
+1.- Vehículos de carga hasta 1,500 kgs., hasta 889 S.M.G.
+
+2.- Vehículos de carga mayor de 1,500 hasta 7,000 kgs., hasta 1,067 S.M.G.
+
+3.- Vehículos de carga mayor de 7,000 kgs., hasta 1,245 S.M.G.
+
+c) Servicio público de renta de toda clase de vehículos:
+
+1.- Arrendadoras de automóviles hasta con 50 unidades, hasta 445 S.M.G.
+
+2.- Arrendadoras de automóviles de 51 unidades en adelante, 445 S.M.G. y por cada vehículo excedente de 50, hasta 23 S.M.G.
+
+3.- Motocicletas, hasta 223 S.M.G.
+
+4.- Triciclos y bicicletas, hasta 112 S.M.G.
+
+5.- Otros vehículos, hasta 112 S.M.G.
+
+d) Servicio público especializados:
+
+1.- Grúa hasta 10,000 kgs, hasta 889 S.M.G.
+
+2.- Grúa mayor de 10,000 kgs, hasta 1,334 S.M.G.
+
+3.- Vehículos de arrendamiento para transporte de personal, hasta 2,223 S.M.G.
+
+4.- Vehículos para servicio especial de turismo, hasta 667 S.M.G.
+
+5.- Vehículos de arrendamiento para transporte escolar, hasta 1,334 S.M.G.
+
+e) Vehículos para otros servicios que requieren otorgamiento de concesión, hasta 667 S.M.G.
+
+V.- Por el otorgamiento para explotar el servicio público de transporte en el municipio de José María Morelos:
+
+a) Servicio público de pasajeros en general:
+
+1.- Autobuses de 36 asientos en adelante, hasta 2,134 S.M.G.
+
+2.- Minibuses hasta 25 asientos, hasta 1,600 S,M.G.
+
+3.- Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 2,667 S.M.G.
+
+4.- Otros vehículos, hasta 1,867 S.M.G.
+
+b) Servicio público de carga:
+
+1.- Vehículos de carga hasta 1,500 kgs., hasta 1,067 S.M.G.
+
+2.- Vehículos de carga mayor de 1,500 hasta 7,000 kgs., hasta 1,280 S.M.G.
+
+3.- Vehículos de carga mayor de 7,000 kgs., hasta 1,467 S.M.G.
+
+c) Servicio público de renta de toda clase de vehículos:
+
+1.- Arrendadoras de automóviles hasta con 50 unidades, hasta 534 S.M.G.
+
+2.- Arrendadoras de automóviles de 51 unidades en adelante 534 S.M.G., y por cada vehículo excedente de 50, hasta 27 S.M.G.
+
+3.- Motocicletas, hasta 267 S.M.G.
+
+4.-Triciclos y bicicletas, hasta 134 S.M.G.
+
+5.- Otros vehículos, hasta 134 S.M.G.
+
+d) Servicio público especializado:
+
+1.- Grúa hasta 10,000 kgs., hasta 1,067 S.M.G.
+
+2.- Grúa mayor de 10,000 kgs., hasta 1,600 S.M.G.
+
+3.- Vehículos de arrendamiento para transporte de personal, hasta 2,667 S.M.G.
+
+4.- Vehículos para servicio especial de turismo, hasta 800 S.M.G
+
+5.-Vehículos de arrendamiento para transporte escolar, hasta 1,600 S.M.G,
+
+e) Vehículos para otros servicios que requieren otorgamiento de concesión, hasta 800 S.M.G.
 
 ### CAPITULO VII. SERVICIOS CATASTRALES
 
@@ -3803,9 +3967,9 @@ TARIFA
 
 I.- Por la subdivisión de predios:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-a).- Cuando resulte dos lotes 4.60 S.M.G.
+a).- Cuando resulten dos lotes 5.31 S.M.G.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -3813,9 +3977,13 @@ b).- Cuando resulten más de dos lotes, por lote excedente
 
 4.03 S.M.G.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-II.- Por croquis de localización 4.60 S.M.G
+c).- Cuando los bienes inmuebles sean destinados para la vivienda de interés social y popular causarán el 50% de los derechos a que se refieren los incisos a) y b) de esta fracción. 5.31 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+II.- Por croquis de localización 5.31 S.M.G.
 
 III.- Por copias de planos.
 
@@ -3825,15 +3993,15 @@ a).- Copias heliográficas 2.30 S.M.G.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-b).- Copias maduros 4.14 S.M.G.
+b).- Copias maduros 4.14 S.M. G.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-IV.- Por certificado de alineamientos y número oficial, certificados de valor catastral, señalamiento de linderos y constancias de propiedad 2.53 S.M.G.
+IV.- Por certificados de alineamientos y número oficial, certificados de valor catastral, señalamientos de linderos y constancias de propiedad: 2.92 S.M.G.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-V.- Por la expedición de documentos extraviados y número oficial 2.30 S.M.G.
+V.- Por la expedición de documentos extraviados y número oficial 2.92 S.M.G.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -3842,6 +4010,10 @@ VI.- Por la práctica de avalúos que realicen peritos designados por la Direcci
 a).- Hasta $ 100,000.00, 5% sobre el valor que resulte.
 
 b).- De $ 100,000.01 en adelante 6% sobre el valor que resulte.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+c).- Cuando el avalúo se realice a los bienes inmuebles destinados para la vivienda de interés social y popular. 4.5 S.M.G.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -3869,7 +4041,7 @@ Se enterarán a la Dirección de Ingresos de la Secretaría de Hacienda del Esta
 
 ### CAPITULO XII. EXPEDICION DE ESCRITURAS PUBLICAS Y AUTORIZACION DE PROTOCOLOS
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 182.
 
@@ -3971,23 +4143,25 @@ XI.- En cualquier otro servicio no especificado. 0.35 S.M.G.
 
 ###### ARTICULO 185.
 
-Los notarios públicos del Estado o quienes ejerzan sus funciones, pagarán un derecho de expedición de testimonios de instrumentos y escrituras públicas, a razón de 8.05 S.M.G.
+Los notarios públicos del Estado o quienes ejerzan sus funciones, pagarán un derecho conforme a la siguiente:
 
-I.- Por poderes, mandatos y testamentos. 5.75 S.M.G.
+I.- Por expedición de testimonios de instrumentos y escrituras públicas, a razón de 8.05 S.M.G.
 
-II.- Por certificación de firmas. 1.15 S.M.G.
+II.- Por poderes, mandatos y testamentos. 8.08 S.M.G.
 
-III.- Por certificación de documentos. 1.15 S.M.G.
+III.- Por certificación de firmas 1.15 S.M.G.
 
-IV.- Por certificación de otros actos. 1.15 S.M.G.
+IV.- Por certificación de documentos 1.15 S.M.G.
+
+V.- Por certificación de otros actos 1.15 S.M.G.
 
 ###### ARTICULO 186.
 
 Por la búsqueda en el Archivo Notarial:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-I.- Por la búsqueda 1.15 S.M.G.
+I.- Por la búsqueda 5.77 S.M.G.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -4011,9 +4185,9 @@ Por la legalización de firmas y copias certificadas que se expiden de constanci
 
 TARIFA
 
-I.- Por certificados de no adeudo de cooperación
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-para Obras Públicas. 3.45 S.M.G.
+I.- Por certificados de no adeudo de cooperación para Obras Públicas. 4.04 S.M.G.
 
 II.- Por certificados de valor catastral fiscal. 3.45 S.M.G.
 
@@ -4021,27 +4195,29 @@ III.- Por la expedición de certificados de actas que consten en la oficina cent
 
 TARIFA
 
-a).- Por acta de nacimiento 1.15 S.M.G.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-b).- Por acta de matrimonio 1.00 S.M.G.
+TARIFA
 
-c).- Por acta de divorcio 3.80 S.M.G.
+a).- Por acta de nacimiento: 1.5 S.M.G.
 
-d).- Por acta de defunción 1.15 S.M.G.
+b).- Por acta de matrimonio: 1.5 S.M.G.
 
-e).- No especificado. 1.73 S.M.G.
+c.- Por acta de divorcio: 5.0 S.M.G.
 
-f).- Constancia de inexistencia de registro 4.03 S.M.G.
+d).- Por acta de defunción: 1.5 S.M.G.
 
-g).- Corrección de acta y anotación marginal 3.45 S.M.G.
+e).- No especificado: 2.0 S.M.G.
 
-h).- Anotación marginal 0.50 S.M.G.
+f).- Constancia de inexistencia de registro: 4.5 S.M.G.
 
-i).- Autorización de registro extemporáneo 2.30 S.M.G.
+g).- Corrección de acta y anotación marginal: 4.0 S.M.G.
 
-j).- Por la expedición de fotocopias de actos registrados,
+h).- Anotación marginal: 1.0 S.M.G.
 
-certificadas 0.50 S.M.G.
+i).- Autorización de registro extemporáneo: 2.75 S.M.G.
+
+j).- Por la expedición de actos registrados, certificados: 1.0 S.M.G.
 
 IV.- Otras legalizaciones o certificaciones 1.73 S.M.G.
 
@@ -4319,9 +4495,19 @@ b).- Mas de $ 10,000.00 1.15% resultante
 
 Lo anterior sin perjuicio de que si al aplicarse a la cantidad que exceda de lo señalado en el inciso b) el 1.15%, resultare inferior a 9.2 veces el S.M.G. vigente en el estado, se aplicará este último.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-Por la enajenación de vivienda de interés social y popular otorgadas por instituciones tales como INVIQRO, FOVISSSTE, FONHAPO, CORETT, BANOBRAS, ISSFAM, ISSSTE, INFONAVIT y FOVI. de construcción reciente 4.6 S.M.G.
+Por la inscripción de documentos donde conste la enajenación de vivienda de interés social y
+
+popular, siempre y cuando la superficie total de construcción no exceda de 55 metros cuadrados y la superficie del terreno no exceda de 110 metros cuadrados, 4 S.M.G.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+Las adjudicaciones a título de disolución de copropiedad de bienes muebles e inmuebles, se pagará 12 S.M.G.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+Para efectos de esta fracción se consideran transmisión de bienes todos los supuestos considerados en el artículo 15-A del Código Fiscal del Estado.
 
 III.- Por inscripción de la escritura constitutiva del régimen de la propiedad en condominio se aplicará lo dispuesto en la fracción anterior, tomando en cuenta el valor total del inmueble.
 
@@ -4333,11 +4519,9 @@ Tratándose de escrituras de Instituciones de Beneficencia .....5.75 S.M.G.
 
 La inscripción de títulos de propiedad, de bienes o derechos que modifiquen, aclaren o disminuyan al capital y solo sean consecuencia legal de contratos que causaron derechos de registro y que se otorguen por las mismas partes que figuren en la misma escritura, sin aumentar el capital ni transferir los derechos.............................................................. 5.75 S.M.G.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-V.- La inscripción de cualquier modificación a la escritura constitutiva de sociedades civiles, exceptuando el aumento o disminución de capital social 5.75 S.M.G.
-
-Tratándose de instituciones de beneficencia....... 2.88 S.M.G.
+V.- La inscripción de cualquier modificación a la escritura constitutiva de sociedades civiles, excepto la disminución de capital social, 5.75 S.M.G.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -4345,17 +4529,21 @@ VI.- La inscripción de gravámenes sobre bienes inmuebles, sea por contrato, po
 
 Por la cancelación de estos derechos................. 5.75 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-VII.- La inscripción de créditos hipotecarios, refaccionarios y de habilitación o avíos, mutuos y reconocimiento de adeudo con garantía hipotecaria otorgada por instituciones de crédito e instituciones auxiliares 0.2875% sobre el monto del crédito.
+VII.- La inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío, contrato de mutuo y reconocimientos de adeudo con garantía, hipotecaria otorgada por fideicomisos de garantía, instituciones de crédito y organismos auxiliares de crédito, 0.2875% sobre el monto del crédito.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-Por los contratos modificatorios, de reestructuración, reconocimiento de adeudo o por el registro de rectificaciones a inscripciones principales, cuando se refiera a modificaciones del monto del adeudo, crédito u operación que se realiza o cualesquiera otra que constituya renovación del contrato, se pagará por concepto de derechos la cantidad que resulte como diferencia entre la inscripción original y el nuevo contrato 0.2875% sobre el monto del crédito.
+Por la inscripción de contratos modificatorios de reestructuración, reconocimiento de adeudo o rectificaciones a inscripciones principales, cuando se refiera a modificaciones del monto del adeudo, crédito u operación que se realiza o cualesquiera otra que constituya renovación del contrato, se pagará por concepto de derechos la cantidad que resulte de aplicar la tasa del 0.2875% a la diferencia entre la inscripción original y el nuevo contrato. Lo anterior sin perjuicio de que si al aplicarse esta tasa a la cantidad que exceda del crédito original, los derechos resultaren inferioriores (sic) a 9.2 veces el S.M.G. vigente en el Estado se cubrirá este último monto. Cuando no exista diferencia se cubrirá el equivalente a 5.75 S.M.G.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-La inscripción de créditos con garantía hipotecaria destinadas para la vivienda de interés social o popular otorgados por instituciones como INFONAVIT, ISSSTE, FOVISSSTE, FONHAPO, FOVI, BANOBRAS, ISSFAM, CORETT, INVIQROO, cuya construcción sea reciente..... 4.60 S.M.G.
+La inscripción de créditos con garantía hipotecaria destinadas para la vivienda de interés social o popular, cuando la superficie total de construcción no exceda de 55 metros cuadrados, la superficie del terreno no exceda de 110 metros cuadrados, 4 S.M.G.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+Por la inscripción de la dación en pago derivada de un crédito hipotecario para la construcción o adquisición de una vivienda, 11.70 S.M.G.
 
 Por la cancelación de alguno de los conceptos a que se refiere esta fracción, causarán derechos de:
 
@@ -4407,6 +4595,10 @@ b).- De 6 a 50 lotes........................ 8.05 S.M.G.
 
 c).- Por cada lote de los que excedan de 50........... 1.73 S.M.G.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+d).- Cuando los bienes inmuebles que se lotifican sean destinados a la vivienda de interés social y popular, se pagarán el 50% de los derechos de registro a que se refieren los incisos a), b) y c) citados anteriormente.
+
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 La inscripción de fusión de lotes:
@@ -4422,6 +4614,10 @@ b).- De 6 a 50 lotes....................... 8.05 S.M.G.
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 c).- Por cada lote que exceda de 50.............. 1.73 S.M.G.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+d).- Cuando los bienes inmuebles que se fusionan sean destinados a la vivienda de interés social y popular, se pagarán el 50% de los derechos de registro a que se refieren los incisos a), b) y c) citados con anterioridad.
 
 XIV.- El depósito de testamentos ológrafos:
 
@@ -4455,11 +4651,9 @@ XVII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 XVIII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-XIX.- La búsqueda en los índices para la expedición de constancias de no propiedad y propiedad............. 5.75 S.M.G.
-
-La expedición de certificados de libertad o existencia de gravamen.... 5.75 S.M.G.
+XIX.- La búsqueda en los índices para la expedición de constancia de no propiedad y propiedad, por cada nombre buscado 5.75 S.M.G.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -4483,11 +4677,27 @@ a).- De casa-habitación hasta............. 11.50 S.M.G.
 
 b).- De locales comerciales, industriales o de servicios hasta 34.50 S.M.G.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+c).- De arrendamiento financiero 34.50 S.M.G.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+d).- De tiempos compartidos 34.50 S.M.G.
+
 XXIV.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 XXV.- Anotaciones relativas a inscripciones principales.......... 5.75 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XXVI.- La inscripción de fideicomisos de administración causará derechos conforme a la tarifa establecida en la fracción II.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XXVII.- Por la anotación marginal que se realiza respecto a la compraventa con gravamen 5.75 S.M.G.
 
 ###### ARTICULO 202.
 
@@ -4495,11 +4705,23 @@ Para el cobro de los derechos que establece el artículo anterior, se observará
 
 I.- Se tendrá como valor para los efectos de la aplicación de las tasas, en los casos a que se refieren las fracciones II, III, IV, VI, VII, VIII, IX, XII, XV, XVI, XVII, XVIII, del artículo anterior en sus respectivos casos:
 
-a) Tratándose de patrimonio familiar, el de los bienes que lo constituyan.
+a).- Tratándose de patrimonio familiar, el de los bienes que lo constituyan.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-b) Cuando se trate de actos, contratos o resoluciones por los que se transmita el dominio o posesión de inmuebles o derechos reales, será base para la determinación de los derechos a pagar, la cantidad que resulte mayor entre lo que determine el avalúo bancario, actualizado conforme a lo dispuesto por el artículo 22 del Código Fiscal del Estado o avalúo realizado y actualizado por la Comisión Nacional Bancaria y de Valores, el precio pactado o el avalúo catastral, el que resulte mayor. En el caso de las donaciones y transmisión de la propiedad por sucesiones, el monto determinado por el avalúo catastral.
+b).- Para la aplicación de la tasa a que se refiere la fracción II del artículo 201 de esta ley, será base para la determinación de los derechos a pagar, el valor mayor entre el avalúo catastral, el avalúo bancario o de un perito autorizado por la Comisión Nacional Bancaria y de Valores y la cantidad que resulte de actualizar el precio pactado de los bienes aplicando el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes inmediato anterior a aquél en que se otorga el servicio, entre el índice del mes anterior al que se efectuó la operación.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+Las autoridades fiscales estarán facultadas para practicar u ordenar un avalúo, y cuando el valor de dicho avalúo exceda en más de un 10% al valor mayor entre los previstos en el párrafo anterior, se tomará en cuenta el practicado u ordenado por las autoridades. En el caso de donaciones y sucesiones, la base será el valor determinado por el avalúo catastral.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+Los avalúos a que se refiere este inciso, tratándose de los catastrales, deberán estar vigentes conforme a la Ley de Catastro del Estado, y los bancarios y de peritos autorizados tendrán una vigencia no mayor a seis meses.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+Tratándose de vivienda de interés social, será base para la determinación de los derechos a pagar, el precio pactado al momento de adquirir la vivienda, actualizado en los términos señalados anteriormente.
 
 Para los efectos de esta ley se considera:
 
@@ -4511,7 +4733,11 @@ La Vivienda Popular es aquella cuyo valor, al término de su edificación no exc
 
 Se entiende por vivienda reciente aquella que no pasa de seis meses de concluida su construcción.
 
-c) En los contratos de garantía, en los embargos u otros gravámenes, el monto de las obligaciones garantizadas.
+c).- En los contratos de garantía, en los embargos u otros gravámenes, el monto de las obligaciones garantizadas.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+d).- Cuando la base para la determinación de los derechos a pagar esté considerada en moneda extranjera, para la conversión en Moneda Nacional se considerará el tipo de cambio a que se haya adquirido la moneda extranjera de que se trate y no habiendo adquisición, se estará al tipo de cambio que el Banco de México publique en el Diario Oficial de la Federación el día anterior a aquél en que se presta el servicio.
 
 II.- En toda transmisión de bienes o derechos reales que se realicen por contrato o por resolución judicial, cuando en ella queden comprendidos varios bienes, se pagarán sobre el valor de cada uno de ellos. Si en la transmisión se comprenden varios bienes y se realiza por una suma alzada, los interesados determinarán el valor que corresponda a cada uno de dichos bienes, a efecto de que sirva de base para el cobro de los derechos.
 
@@ -4553,9 +4779,9 @@ a) Por cada comerciante individual.......... 5.75 S.M.G.
 
 b) Por cada sociedad mercantil.............. 6.90 S.M.G.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-III.- Inscripción de las escrituras constitutivas de sociedades mercantiles de las relativas a aumento o disminución de su capital social, así como las de sociedades de capital variable o para el caso de las sucursales de sociedades conforme a la fracción II del artículo 201.
+III.- Inscripción de las escrituras constitutivas de sociedades mercantiles y las relativas a aumento o disminución de su capital social, así como las de sociedades de capital variable o para el caso de las sucursales de sociedades 50 S.M.G.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -4799,6 +5025,150 @@ III.- Por la ratificación del acuerdo de incorporación anualmente 50 S.M.G.
 
 IV.- Por la compulsa de documentos originales con las copias de los mismos, necesarios en los casos de incorporación, el importe de 10 S.M.G.
 
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+V.- Reconocimiento de validez oficial de estudios a particulares: preescolar, medio superior, superior y capacitación para el trabajo 200 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+VI.- Autorización a particulares para impartir educación básica y normal 200 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+VII.- Registro para fines censales de particulares que imparten estudios sin reconocimiento de validez oficial. 50 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+VIII.- Rectificación del acuerdo de incorporación por cada ciclo escolar o semestre por alumno. 3 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+IX.- Por ratificación del registro con fines censales y estadísticos a particulares que imparten estudios sin reconocimiento de validez oficial, por alumno 3 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+X.- Exámenes profesionales o de grado:
+
+a).- De tipo superior 2.5 S.M.G.
+
+b).- De tipo medio superior 1.2 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XI.- Exámenes a título de suficiencia:
+
+a).- De educación (básica) .5 S.M.G.
+
+b).- De tipo medio superior y superior por materia. .2 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XII.- Exámenes extraordinarios de tipo medio superior y superior por materia. .3 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XIII.- Examen especial. .3 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XIV.- Otorgamiento de diplomas, título o grado:
+
+a).- De tipo superior. .5 S.M.G.
+
+b).- De tipo medio superior. .2 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XV.- Expedición de duplicados de certificados de estudios: .25 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XVI.- Revalidación de estudios:
+
+a).- De educación básica. .25 S.M.G.
+
+b).- De tipo medio superior y superior, por materia .12 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XVII.- Revisión y convalidación de estudios, por grado escolar: .12 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XVIII.- Equivalencia de estudios de tipo medio superior y superior, por materia .12 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XIX.- Inscripción:
+
+a).- En curso de verano. 1.9 S.M.G.
+
+b).- En curso de regularización. 1.9 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XX.- Cambio de carrera. .95 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XXI.- Registro de colegio de profesionistas. 92 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XXII.- Registro de establecimiento educativo particular autorizado para expedir títulos profesionales o grado académico. 92 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XXIII.- Revalidación de título profesional o grado académico. 18.3 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XXIV.- Registro de título profesional o grado académico. 8.9 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XXV.- Expedición de autorización para constituir colegio de profesionista 8.9 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XXVI.- Enmienda al registro profesional:
+
+a).- En relación con colegios de profesionistas. 8. 9 S. M. G.
+
+b).- En relación con establecimiento educativo. 8.9 S.M.G.
+
+c).- En relación con título profesional o grado académico. 1.7 S.M.G.
+
+d).- Inscripción de asociado a un colegio de profesionistas, que no figure en el registro original. .3 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XXVII.- Expedición de autorización temporal de práctica profesional a persona que carece de título. 3.6 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XXVIII.- Consulta de archivo. 1.7 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XXIX.- Constancia de antecedentes profesionales. 3.6 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XXX.- Compulsa de documentos por hoja. 1 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XXXI.- Legalización de firmas. 1.5 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XXXII.- Por cualquier otra certificación o expedición de constancia distinta de las señaladas en las fracciones anteriores. 1.9 S.M.G
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+XXXIII.- Regularización por omisión de escolaridad de 1 a 5000 S.M.G.
+
 ### CAPITULO III. MULTAS
 
 ### CAPITULO IV. CAUCIONES JUDICIALES
@@ -4907,15 +5277,7 @@ Las cuotas o tarifas aplicables al artículo anterior, serán las que autoricen,
 
 Los productos no especificados en este capítulo se cobrarán conforme a las cuotas que fije la tarifa que expida el Gobierno del Estado, esta tarifa y sus reformas surtirán sus efectos 30 días después de su publicación en el Periódico Oficial del Estado, así como el costo administrativo que origine la impresión o fabricación de formatos, calcomanías y demás valores, cualquiera que sea su tamaño, forma o composición. De acuerdo a la siguiente
 
-TARIFA:
-
-a).- Por reposición de documento extraviado. 2.00 S.M.G.
-
-b).- Por formato de alta y baja de vehículos. 0.50 S.M.G.
-
-c).- Por tarjeta de circulación. 0.0647 S.M.G.
-
-d).- Por formatos en general. 0.0647 S.M.G.
+(VEASE TABLA ANEXA)
 
 ## TITULO V. APROVECHAMIENTOS
 
@@ -4989,15 +5351,15 @@ El Gobierno del Estado percibirá las participaciones establecidas en las leyes 
 
 El Gobierno del Estado percibirá las participaciones establecidas en los convenios que celebren con los Gobiernos Municipales.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ## TITULO VIII. CAUCIONES JUDICIALES
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 231.
 
 Las cauciones judiciales se recaudarán de conformidad con las resoluciones en que se ordene se hagan efectivas.
-
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ## TRANSITORIOS
 
@@ -5158,3 +5520,13 @@ Los contribuyentes del Impuesto al Hospedaje deberán presentar el aviso de insc
 ###### ARTICULO TERCERO.
 
 Quedan derogadas todas las disposiciones anteriores establecidas en esta ley, que contravengan al presente decreto.
+
+P.O. 16 DE DICIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor a partir del día 1º de Enero de 1997, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones anteriormente establecidas en esta Ley, que contravengan a las presentes reformas.
