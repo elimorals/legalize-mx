@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-el-colegio-de-bachilleres-del-estado-de-oaxaca-106
 country: "mx"
 rank: "ley"
 publication_date: "1981-06-27"
-last_updated: "1981-06-27"
+last_updated: "2000-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE CREA EL COLEGIO DE BACHILLERES DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de junio de 1981.
 
@@ -39,21 +39,33 @@ D E C R E T A
 
 "LEY QUE CREA EL COLEGIO DE BACHILLERES DEL ESTADO DE OAXACA".
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+
+### CAPITULO PRIMERO.. DISPOSICIONES PRELIMINARES
 
 ###### ARTICULO 1.
 
 Se crea el "Colegio de Bachilleres del Estado de Oaxaca", COMO ORGANISMO DESCENTRALIZADO DE ENSEÑANZA DE CARACTER ESTATAL, con personalidad jurídica y patrimonio propios, cuyo domicilio será la Ciudad de Oaxaca de Juárez para todos los efectos legales.
 
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+
+Cuando la presente Ley utilice la palabra "COBAO", se entenderá que indistintamente se refiere al Colegio de Bachilleres del Estado de Oaxaca.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+
 ###### ARTICULO 2.
 
-Los objetivos del "Colegio de Bachilleres del Estado de Oaxaca", serán: Impartir, impulsar y promover la educación media a nivel bachillerato, apegándose a lo dispuesto por el Artículo 3o. de la Constitución General de la República, la Ley Federal de Educación y demás ordenamientos vigentes que regulan la materia, y sus reglamentos. Los planes y programas de organización académica de esta Institución serán los mismos del Colegio de Bachilleres. Para alcanzar estos objetivos, tendrá las siguientes atribuciones:
+Los objetivos del "COBAO", serán impartir, impulsar y promover la educación media superior en su modalidad bachillerato, apegándose a lo dispuesto por el artículo 3° de la Constitución General de la República, la Ley Federal de Educación y demás ordenamientos vigentes que regulan la materia y sus reglamentos. Para alcanzar estos objetivos tendrá las siguientes atribuciones:
 
-I.- Promover, establecer, organizar técnica y administrativamente y sostener planteles educativos de enseñanza media a nivel bachillerato, en los lugares de la Entidad que se considere conveniente.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+
+I.- Promover, establecer, organizar técnica y administrativamente y sostener planteles educativos de enseñanza media superior en su modalidad bachillerato, en los lugares de la entidad que se considere conveniente;
 
 II.- Establecer convenios de cooperación y coordinación académica, administrativa y de superación profesional con otras instituciones oficiales, descentralizadas o particulares, de tipo educativo, afines con su objetivo.
 
-III.- Los planes y programas de organización académica serán los mismos que utilice el colegio de bachilleres de la Ciudad de México.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+
+III.- Implementar programas de orientación educativa permanente;
 
 IV.- Establecer procedimientos y técnicas de evaluación educativa.
 
@@ -63,237 +75,303 @@ VI.- Promover y difundir las actividades culturales en todas sus manifestaciones
 
 VII.- Establecer las opciones académicas con las modalidades escolar y extra escolar.
 
-VIII.- Las demás que sean necesarias para el logro de sus objetivos.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
 
-### CAPITULO SEGUNDO. DEL PATRIMONIO DEL COLEGIO DE BACHILLERES DEL ESTADO DE OAXACA
+VIII.- Estimular al personal directivo, docente y administrativo para su superación permanente, procurando la formación profesional y/o técnica en cada nivel; y
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+
+IX.- Las demás que sean necesarias para el logro de sus objetivos.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+
+### CAPITULO SEGUNDO. DEL PATRIMONIO DEL COBAO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
 
 ###### ARTICULO 3.
 
-El Patrimonio del Colegio de Bachilleres del Estado de Oaxaca, estará constituido por:
+El patrimonio del "COBAO", estará constituido por:
 
-I.- Los bienes de todo tipo o naturaleza que expresamente le asignen los Gobiernos Federal y Estatal.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+
+I.- Los bienes de todo tipo o naturaleza que expresamente le asignen los Gobiernos Federal, Estatal y Municipal;
 
 II.- Los ingresos que se obtengan por concepto de las cuotas que deban cobrarse por los servicios educativos prestados, o por derechos en la forma y términos legales.
 
-III.- Los bienes y demás ingresos que adquiera por cualquier título legal, y
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
 
-### CAPITULO TERCERO. DE LOS ORGANOS DE GOBIERNO Y ORGANISMOS AUXILIARES Y DE APOYO DEL COLEGIO DE BACHILLERES DEL ESTADO DE OAXACA
+III.- Los bienes y demás ingresos que adquiera por cualquier título legal y los rendimientos, recuperaciones y demás ingresos que le generen sus operaciones, actividades o eventos que realice.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+
+### CAPITULO TERCERO.. DE LOS ORGANOS DE GOBIERNO Y DE APOYO TECNICO
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
 
 ###### ARTICULO 4.
 
-El "Colegio de Bachilleres del Estado de Oaxaca", tendrá como órganos de autoridad los siguientes:
+El "COBAO", tendrá como órganos de gobierno los siguientes:
 
-I.- La Junta Directiva.
+I.- La Junta Directiva;
 
-II.- El Director General.
+II.- El Director General; y
 
-III.- Los Directores de cada plantel que establezca el mismo colegio.
+III.- Los Directores de cada plantel que establezca el "COBAO".
 
-Y como organismo auxiliar y de apoyo del colegio de bachilleres se integrará un patronato.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
 
 ### CAPITULO CUARTO. DE LA JUNTA DIRECTIVA
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+
 ###### ARTICULO 5.
 
-Los acuerdos de los órganos colegiados del "Colegio de Bachilleres del Estado de Oaxaca", se tomarán por mayoría de votos y el "Quórum" se integrará con la asistencia de la mitad más uno de sus miembros. En caso de empate el Presidente tendrá voto de calidad.
+La autoridad máxima del "COBAO", es la Junta Directiva y estará integrada de la forma siguiente:
 
-Sus actividades las realizarán en sesiones ordinarias mensualmente y en forma extraordinaria cuando la naturaleza del asunto así lo requiera, siendo convocada por el Presidente del mismo órgano colegiado, a través del Secretario respectivo.
+I.- Un Presidente, que será el Gobernador del Estado;
+
+II.- Un Secretario Técnico, que será el Director General del "COBAO"; quien se asistirá de un Secretario Auxiliar, que será nombrado por la Junta Directiva a propuesta de éste, en los términos del artículo 12, fracción X de la Ley de Entidades Paraestatales;
+
+III.- Siete Vocales:
+
+a) El Titular del Instituto Estatal de Educación Pública de Oaxaca;
+
+b) El Representante de la Secretaría de Educación Pública en el Estado;
+
+c) El Titular del Comité Estatal de Planeación para el Desarrollo del Estado de Oaxaca;
+
+d) El Titular del Instituto Oaxaqueño de las Culturas;
+
+e) El Titular del Instituto de la Juventud Oaxaqueña;
+
+f) Un Representante del sector empresarial;
+
+g) Un Representante del sector social; y
+
+IV.- Un Comisario que será el Delegado Contralor adscrito al "COBAO" o el representante de la Contraloría General.
+
+Los suplentes de los integrantes de la Junta Directiva serán los servidores públicos que designe el Titular del Poder Ejecutivo del Estado, con excepción de los representantes de la Secretaría de Educación Pública y de los sectores empresarial y social.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
 
 ###### ARTICULO 6.
 
-La Junta Directiva del "Colegio de Bachilleres del Estado de Oaxaca", es la autoridad máxima del mismo y estará integrada en la forma siguiente:
+Los acuerdos de la Junta Directiva del "COBAO", se tomarán por mayoría de votos y el quórum se integrará con la asistencia de la mitad más uno de sus miembros con derecho a voto, siempre que entre ellos se encuentre el Presidente de la misma o su suplente.
 
-I.- Un Presidente que será el Director General de Cultura y Recreación del Estado.
+La Junta Directiva celebrará sesiones ordinarias cuando menos trimestralmente. Podrán celebrarse sesiones extraordinarias cada vez que el presidente lo estime conveniente o a petición de una tercera parte de los miembros de la misma. Sus integrantes participarán en las sesiones con voz y voto; excepto el Secretario Técnico y el Comisario, quienes tendrán voz pero no voto. En caso de empate, el Presidente tendrá voto de calidad.
 
-II.- Un Secretario, designado y removido libremente por el anterior, cuyas funciones serán las que expresamente se establezca en el reglamento correspondiente.
+Las convocatorias y el orden del día, se comunicarán por escrito con cinco días hábiles de anticipación tratándose de sesiones ordinarias y de un día natural, si se trata de sesiones extraordinarias; indicando la convocatoria en cada caso, lugar, fecha y hora en que se celebrará la sesión, remitiéndose la documentación correspondiente tratándose de sesiones extraordinarias, se indicará el asunto específico que las motiva.
 
-III.- Tres vocales o miembros nombrados por el C. Gobernador del Estado.
-
-IV.- El Delegado General de la Secretaría de Educación Pública en la Entidad.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
 
 ###### ARTICULO 7.
 
-Los vocales o miembros que designe el Gobernador del Estado, durarán en su cargo 4 años, y podrán ser reelectos para un segundo período, debiendo satisfacer los requisitos siguientes:
+La Junta Directiva tendrá las siguientes atribuciones indelegables:
 
-a).- Ser Ciudadano Mexicano.
+I.- Establecer en congruencia con la Ley de Planeación y el Plan Estatal de Desarrollo, las normas y políticas generales que permitan el cumplimiento de los objetivos del "COBAO";
 
-b).- Poseer título profesional a nivel Licenciatura cuando menos, o el equivalente correspondiente.
+II.- Aprobar los planes de estudio, programas y presupuestos del "COBAO", así como sus modificaciones en los términos de la Legislación aplicable;
 
-c).- Tener experiencia académica, y
+III.- Determinar las bases conforme a las cuales se otorgue el reconocimiento de validez a estudios realizados en establecimientos educativos oficiales y particulares que se incorporen al "COBAO" y que impartan el mismo tipo y nivel educativo;
 
-d).- Ser de reconocida solvencia moral.
+IV.- Determinar las cuotas que deban cobrarse por los servicios educativos que preste el "COBAO";
+
+V.- Aprobar la concertación de recursos para el financiamiento del "COBAO", en los términos que prevengan los lineamientos que dicten las autoridades competentes;
+
+VI.- Analizar y aprobar en su caso los informes periódicos que rinda el Director General con la intervención que le corresponda al Comisario; así como los estados financieros y autorizar su publicación en el Periódico Oficial del Gobierno del Estado;
+
+VII.- Analizar y aprobar de conformidad con las leyes aplicables, las políticas y bases a que se sujetarán los acuerdos, convenios y contratos que celebre el "COBAO";
+
+VIII.- Aprobar la constitución de reservas y aplicación de excedentes financieros del "COBAO";
+
+IX.- Conocer y resolver los asuntos que someta a su consideración el Director General;
+
+X.- Fijar los términos de ingresos, permanencia y egreso de los alumnos del "COBAO";
+
+XI.- Acordar la conveniencia de establecer planteles destinados a lograr los objetivos del "COBAO";
+
+XII.- Aprobar la integración del Patrimonio del "COBAO";
+
+XIII.- Aprobar los reglamentos, así como todas aquellas disposiciones destinadas a la organización y funcionamiento técnico, docente y administrativo del "COBAO", que proponga el Director General;
+
+XIV.- Observar las normas y bases para la adquisición, arrendamiento y enajenación de muebles e inmuebles, que se requieran para la prestación de los servicios del "COBAO"; y
+
+XV.- Las demás que determinen las leyes, reglamentos, decretos, acuerdos y disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
 
 ### CAPITULO QUINTO. DEL DIRECTOR GENERAL
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+
 ###### ARTICULO 8.
 
-Corresponde a la Junta Directiva:
+El Director General es autoridad académico-administrativa, ejecutor de los acuerdos de la Junta Directiva. Será designado y removido libremente por el Gobernador del Estado.
 
-I.- Aprobar planes y programas de estudio, así como modalidades y adecuaciones educativas que someta a su consideración el Director General.
-
-II.- Determinar las directrices generales que han de normar el funcionamiento del "Colegio de Bachilleres del Estado de Oaxaca".
-
-III.- Proveer lo necesario para la educación y aplicación de programas y planes de estudio, que al efecto apruebe el Colegio de Bachilleres.
-
-IV.- Determinar las bases conforme a las cuales se otorgue reconocimiento de validez a estudios realizados en establecimientos educativos oficiales o particulares que impartan el mismo tipo y nivel educativo del propio Colegio.
-
-V.- Resolver acerca de la conveniencia de establecer planteles destinados a lograr el objetivo del colegio.
-
-VI.- Autorizar y aprobar el presupuesto anual de ingresos y egresos del colegio y vigilar su ejercicio.
-
-VII.- Aprobar las cuotas que deban cobrarse por los servicios educativos que preste el colegio.
-
-VIII.- Convocar e integrar el patronato del "Colegio de Bachilleres del Estado de Oaxaca" y coordinar sus actividades con el mismo.
-
-IX.- Presentar al patronato sus programas y presupuestos de operación para la atención correspondiente.
-
-X.- Nombrar y remover al Director General.
-
-XI.- Otorgar poderes para pleitos y cobranzas, generales y aquellos con cláusula especial en la forma y términos de la Ley respectiva.
-
-XII.- Designar Auditores.
-
-XIII.- Aprobar los nombramientos que haga el Director General relacionados con los directores de planteles y demás empleados de confianza, así como su remoción por causa justificada.
-
-XIV.- Aprobar el reglamento interior del "Colegio de Bachilleres del Estado de Oaxaca", así como todas aquellas disposiciones destinadas a la organización y funcionamiento técnico, docente y administrativo del colegio, que proponga el Director General.
-
-XV.- Conocer y resolver todos aquellos asuntos que no sean de la competencia de algún otro órgano de autoridad.
-
-XVI.- Cumplir y hacer cumplir el reglamento del propio colegio.
-
-XVII.- Nombrar a los integrantes del patronato del colegio, y
-
-XVIII.- Las demás que establezca esta Ley y su Reglamento.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 9.
 
-El Director General será el órgano ejecutivo del "Colegio de Bachilleres del Estado de Oaxaca" su nombramiento será aprobado por la Junta Directiva quien podrá removerlo cuando lo considere oportuno. Durará en su encargo 4 años y podrá ser reelecto una sola vez.
+El Director General del "COBAO", deberá reunir los siguientes requisitos:
+
+I.- Ser Ciudadano mexicano;
+
+II.- Poseer título profesional a nivel licenciatura;
+
+III.- Tener experiencia académica; y
+
+IV.- Ser de reconocida solvencia moral.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
 
 ###### ARTICULO 10.
 
-El Director General del "Colegio de Bachilleres", deberá reunir los mismos requisitos que se establecen en el Artículo 7 de esta misma Ley.
+El Director General tendrá las siguientes atribuciones:
+
+I.- Cumplir y hacer cumplir los acuerdos de la Junta Directiva;
+
+II.- Administrar y representar legalmente al "COBAO". La representación le otorga las facultades siguientes:
+
+a) Celebrar y otorgar toda clase de actos y documentos inherentes a su objeto;
+
+b) Ejercitar las acciones y oponer las excepciones que procedan para la defensa administrativa y judicial de los derechos del "COBAO";
+
+c) Presentar dentro del ámbito de su competencia, denuncias y formular querellas ante el Ministerio Público y ratificar las mismas; y en su caso, sin perjuicio del patrimonio del "COBAO", otorgar el perdón cuando proceda;
+
+d) Emitir y negociar títulos de crédito conforme a la Ley de Deuda Pública Estatal y Municipal;
+
+e) Otorgar poderes generales y especiales con las facultades que le competan, entre ellas, las que requieran autorización o cláusula especial, previa autorización de la Junta Directiva. Los poderes generales para surtir efectos, frente a terceros, deberán inscribirse conforme a la ley respectiva, así como en el Registro de Entidades Paraestatales de la Administración Pública Estatal; y
+
+f) Sustituir y revocar poderes generales o especiales.
+
+III.- Dirigir el funcionamiento del "COBAO", en todos sus aspectos y ejecutar los programas que los objetivos del mismo requieran;
+
+IV.- Elaborar el anteproyecto anual de ingresos y el presupuesto de egresos del "COBAO" sometiéndolo a la aprobación de la Junta Directiva;
+
+V.- Rendir los informes que la Junta Directiva solicite;
+
+VI.- Formular los programas de organización y administración del "COBAO";
+
+VII.- Establecer los métodos que permitan el óptimo aprovechamiento de los bienes del "COBAO";
+
+VIII.- Establecer los sistemas de control interno necesarios para que el "COBAO", alcancen las metas y objetivos propuestos;
+
+IX.- Establecer los mecanismos de evaluación que señalen el desempeño del "COBAO", y presentarlos a la Junta Directiva por lo menos dos veces al año;
+
+X.- Proporcionar la información y dar acceso a la documentación que le soliciten la Secretaría de Finanzas y de Administración, así como la Contraloría General o el Auditor externo designado por ésta para el cumplimiento de sus funciones; y la que el Congreso del Estado le solicite;
+
+XI.- Presentar trimestralmente a la Junta Directiva el informe de las actividades del "COBAO", incluido el ejercicio de los presupuestos de ingresos y egresos de los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la Dirección con las realizaciones alcanzadas;
+
+XII.- Designar y remover a los Directores de los planteles, a los Coordinadores Regionales y demás personal de confianza, docente y administrativo;
+
+XIII.- Celebrar convenios con personas físicas y morales para lograr los fines del "COBAO"; y
+
+XIV.- Las demás que le señale la Junta Directiva, las leyes, reglamentos, decretos, acuerdos y disposiciones legales aplicables.
+
+El Director General del "COBAO", para el ejercicio de sus funciones, se auxiliará del personal que se requiera y sea autorizado conforme al presupuesto de egresos y demás normatividad aplicable.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
 
 ### CAPITULO SEXTO. DE LOS DIRECTORES DEL PLANTEL
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+
 ###### ARTICULO 11.
 
-Son facultades y obligaciones del Director General:
+Los Directores de los planteles del "COBAO", son los responsables de la dirección, organización, funcionamiento del plantel, al cual se encuentran adscritos; así mismo son responsables de que en el plantel de su adscripción, se apliquen los planes y programas aprobados en los términos de esta ley.
 
-I.- Presentar a la Junta Directiva el proyecto anual de ingresos y egresos del colegio.
-
-II.- Dar cumplimiento a los acuerdos emanados de la Junta Directiva.
-
-III.- Presentar a la Junta Directiva en la última sesión del ejercicio escolar, un informe de las actividades del colegio realizadas durante el año anterior.
-
-IV.- Nombrar y remover a los directores del plantel, funcionarios del colegio, personal de confianza, docente y administrativo del colegio y de los planteles previa autorización de la Junta Directiva.
-
-V.- Designar al Tesorero General del Colegio de Bachilleres del Estado de Oaxaca de la terna propuesta por el Patronato.
-
-VI.- Representar legalmente al "Colegio de Bachilleres del Estado de Oaxaca".
-
-VII.- Cumplir y hacer cumplir el Reglamento del propio Colegio, elaborando previamente el mismo y sometiéndolo a la aprobación de la Junta Directiva, así como sus modificaciones y aplicaciones, y
-
-VIII.- Las demás que le otorgue la presente Ley y su Reglamento, así como aquellas que emanen de la Junta Directiva.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
 
 ###### ARTICULO 12.
 
-Los Directores de los planteles del "Colegio de Bachilleres del Estado de Oaxaca", serán nombrados y removidos libremente por el Director General y son los responsables de la dirección, organización, funcionamiento y aplicación de los planes y programas aprobados en los términos de esta Ley.
+Los Directores de los planteles a que se refiere el artículo que antecede, deberán reunir los requisitos que se establecen en el artículo 9 de la presente Ley.
 
-### CAPITULO SEPTIMO. DEL PATRONATO DEL "COLEGIO DE BACHILLERES DEL ESTADO DE OAXACA"
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+
+### CAPITULO SEPTIMO. DEL CONSEJO TECNICO CONSULTIVO DEL COBAO
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
 
 ###### ARTICULO 13.
 
-Los Directores de los planteles a que se refiere el artículo que antecede, deberán reunir los requisitos que se establecen en el Artículo 7 de esta misma Ley y durará en su encargo 4 años pudiendo ser reelectos por una sola vez.
+El Consejo Técnico Consultivo, es el órgano de asesoría y apoyo del "COBAO", en el aspecto académico.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
 
 ###### ARTICULO 14.
 
-El Patronato tendrá como objetivo coadyuvar en la integración del patrimonio del Colegio mediante:
+El Consejo Técnico Consultivo, se integrará con:
 
-I.- La obtención de ingresos para el sostenimiento del Colegio.
+I.- Los Directores de los planteles del "COBAO"; y
 
-II.- La organización de planes para proporcionar recursos a la misma Institución.
+II.- Los Coordinadores Regionales del "COBAO".
 
-III.- La adquisición de los bienes que se requieran para las actividades del Colegio.
-
-IV.- La administración y acrecentamiento de los bienes adquiridos, y
-
-V.- Las demás actividades que sean necesarias para el cumplimiento de su objetivo.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
 
 ###### ARTICULO 15.
 
-Corresponde al Patronato:
+Corresponde al Consejo Técnico Consultivo:
 
-I.- Presentar a la Junta Directiva, dentro de los 3 primeros meses a partir de la fecha en que concluya el ejercicio presupuestal, los estados financieros con el dictamen del Tesorero General del Colegio.
+I.- Sugerir reformas a los planes y programas de estudio;
 
-II.- Proponer al Director General la designación del Tesorero General del mismo Colegio.
+II.- Analizar los problemas académicos y administrativos de los planteles y proponer las soluciones que estime convenientes;
 
-III.- Nombrar un supervisor de los asuntos financieros del Colegio, y
+III.- Acordar los programas sobre actualización y mejoramiento profesional del personal académico; y
 
-IV.- Ejercer las demás facultades que sean necesarias para el cumplimiento de su objetivo.
+IV.- Las demás facultades que le señale este ordenamiento y su reglamento.
 
-### CAPITULO OCTAVO. DEL CONSEJO TECNICO CONSULTIVO DEL "COLEGIO DE BACHILLERES DEL ESTADO DE OAXACA"
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
+
+### CAPITULO OCTAVO. DEL PERSONAL DOCENTE, ADMINISTRATIVO Y DE CONFIANZA DEL "COBAO"
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
 
 ###### ARTICULO 16.
 
-El Patronato estará integrado por:
+La contratación, remuneración y prestaciones del personal del "COBAO", se hará en la forma y términos que establezca la normatividad aplicable. Los nombramientos del personal docente, serán no definitivos o definitivos. En el primer caso, deberán hacerse para un plazo no mayor de un semestre lectivo prorrogable hasta por otro año más, según las necesidades de los programas educativos, la capacidad y responsabilidad demostrado por el interesado.
 
-I.- Un Presidente.
+Los nombramientos definitivos, se obtendrán mediante concurso de oposición o procedimientos igualmente idóneos, para comprobar la capacidad y eficiencia de los candidatos.
 
-II.- Un Secretario.
-
-III.- Un Tesorero, y
-
-IV.- 3 Vocales.
+(REUBICADO, P.O. 23 DE SEPTIEMBRE DEL 2000)
 
 ###### ARTICULO 17.
 
-Los miembros del Patronato serán de reconocida solvencia moral; se les designará previo acuerdo de la Junta Directiva por tiempo indefinido y desempeñarán su cargo con carácter honorífico.
+El personal de confianza queda sujeto a las cláusulas del contrato respectivo y a las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL 2000)</small>
 
 ###### ARTICULO 18.
 
-El Consejo Técnico Consultivo es el órgano de asesoría y apoyo del "Colegio de Bachilleres del Estado de Oaxaca", en el aspecto académico.
+Serán considerados trabajadores de confianza, el Director General, Directores y Subdirectores de Area, Coordinadores Regionales, Directores de Plantel, los Jefes y Subjefes de Departamento, Jefes de Materia, Supervisores, Almacenistas, Secretarias Particulares, Asesores, Pagadores, así como las Secretarias del Director General y de los Directores de Area y todos aquellos servidores que desempeñen las actividades que señale el artículo 9° de la Ley Federal del Trabajo.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DEL2000)</small>
 
 ###### ARTICULO 19.
 
-El Consejo Técnico Consultivo se integrará con:
-
-I.- Los Directores de los planteles del Colegio.
-
-II.- Un maestro de cada área de conocimiento y uno de cada opción.
+Las relaciones laborales del personal del "COBAO", se sujetarán a lo dispuesto por el apartado "A" del artículo 123 de la Constitución General de la República.
 
 ### CAPITULO NOVENO. DEL PERSONAL DOCENTE, ADMINISTRATIVO Y DE CONFIANZA DEL "COLEGIO DE BACHILLERES DEL ESTADO DE OAXACA"
 
 ###### ARTICULO 20.
 
-Corresponde al Consejo Técnico Consultivo:
-
-I.- Sugerir reformas a los planes y programas de estudio.
-
-II.- Analizar los problemas académicos y administrativos de los planteles y proponer las soluciones que estime convenientes.
-
-III.- Acordar los programas sobre actualización y mejoramiento profesional del personal académico, y
-
-IV.- Las demás facultades que le señale este ordenamiento y su reglamento.
+(DEROGADO, P.O. 23 SEPTIEMBRE DEL 2000)
 
 ###### ARTICULO 21.
 
-El personal docente del Colegio se contratará en la forma y términos que lo establezca el Reglamento de la Institución. Los nombramientos serán provisionales o definitivos. En el primer caso deberán hacerse para un plazo no mayor de un semestre lectivo prorrogable hasta por otro más o según las necesidades de los programas educativos, y según la demostración de capacidad y responsabilidad demostrado por el interesado.
-
-Los nombramientos definitivos se obtendrán mediante concurso de oposición o procedimientos igualmente idóneos para comprobar la capacidad y eficiencia de los candidatos.
-
-Cuando para la realización de los programas de trabajo se requiera personal calificado o aumento de personal académico, no obtenido mediante el concurso correspondiente el Director General podrá designar provisionalmente al personal para la prestación de estos servicios.
+(DEROGADO, P.O. 23 SEPTIEMBRE DEL 2000)
 
 ###### ARTICULO 22.
 
-El Director General hará la contratación y remoción del personal administrativo en los términos que fije el Reglamento del Colegio, y previa autorización de la Junta Directiva.
+(DEROGADO, P.O. 23 SEPTIEMBRE DEL 2000)
 
 ###### ARTICULO 23.
 
-El personal de confianza queda sujeto a las cláusulas del contrato respectivo y a las disposiciones legales aplicables.
+(DEROGADO, P.O. 23 SEPTIEMBRE DEL 2000)
 
 ###### ARTICULO 24.
 
-Serán considerados trabajadores de confianza: el Director General, el Tesorero, los Directores de Planteles, los Jefes y Sub-jefes de Departamento, Supervisores; Almacenistas; Secretarios Particulares; Asesores; Contralores; Pagadores; así como los Secretarios del Colegio y de los Planteles.
+(DEROGADO, P.O. 23 SEPTIEMBRE DEL 2000)
 
 T R A N S I T O R I O.
 
@@ -326,3 +404,11 @@ EL SECRETARIO GENERAL DEL DESPACHO,
 C.P. JESUS MARTINEZ ALVAREZ.
 
 Al C.....
+
+> <small>N. DE E. A CONTINUACION SE TRANCRIBEN LOS ARTICULOS TRANSISTORIOS DE LOS DECRETOS DE REFORMAS A LA PRRESENTE LEY.</small>
+
+P.O. 23 DE SEPTIEMBRE DEL 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
