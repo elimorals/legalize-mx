@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-h-congreso-del-estado-libre-y-7786"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-28"
-last_updated: "1995-04-05"
+last_updated: "1995-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 1995.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 28 de agosto de 1993.
 
@@ -619,6 +619,20 @@ c) Vigilar que los ayuntamientos den cabal cumplimiento como órgano colegiado a
 
 d) Coadyuvar para consolidar un nuevo régimen hacendario que contribuya al desarrollo municipal.
 
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 1995)</small>
+
+XXV. Comisión Permanente de Participación Ciudadana con las siguientes:
+
+A T R I B U C I O N E S
+
+A).- Promover la participación de los ciudadanos y las organizaciones sociales en los programas de beneficio social de los tres niveles de Gobierno.
+
+B).- Coadyuvar junto con las comisiones correspondientes, a la integración los ciudadanos y las Organizaciones Sociales en la elaboración de los programas de beneficio social.
+
+C).- Organizar junto con las comisiones pertinentes, audiencias públicas sobre problemas en la prestación de servicios públicos por parte de los tres niveles de Gobierno y concesionarios.
+
+D).- Concertar acciones desde el ámbito del Poder Legislativo, para fortalecer la participación de los ciudadanos y las organizaciones sociales en la vida institucional del Estado de Tabasco.
+
 ### CAPITULO XI. DE LAS SESIONES
 
 ###### ARTICULO 64.
@@ -1032,5 +1046,9 @@ P.O. 8 DE MARZO DE 1995.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 6° DEL CODIGO CIVIL PARA EL ESTADO DE TABASCO.
 
 P.O. 5 DE ABRIL DE 1995.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 6° DEL CODIGO CIVIL PARA EL ESTADO DE TABASCO.
+
+P.O. 22 DE ABRIL DE 1995.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 6° DEL CODIGO CIVIL PARA EL ESTADO DE TABASCO.
