@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1947-11-14"
+last_updated: "1948-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE NOVIEMBRE DE 1947.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 1948.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -268,9 +268,7 @@ Las penas y medidas de seguridad son:
 
 1.- Prisión.
 
-> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 1944)</small>
-
-2.- Relegación.
+2.- (DEROGADO, D.O.F. 5 DE ENERO DE 1948)
 
 3.- Reclusión de locos, sordomudos, degenerados o toxicómanos.
 
@@ -308,11 +306,11 @@ Y las demás que fijen las leyes.
 
 ### CAPITULO II. Prisión
 
-> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1938)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1948)</small>
 
 ###### ARTICULO 25.
 
-La prisión será de tres días a treinta años y se extinguirá en los lugares o establecimientos que, al efecto, designe el Departamento de Prevención Social.
+La prisión consiste en la privación de la libertad corporal; será de tres días a treinta años, y se extinguirá en las colonias penitenciarias, establecimientos o lugares que al efecto señale el órgano ejecutor de las sanciones penales.
 
 ###### ARTICULO 26.
 
@@ -320,11 +318,9 @@ Los procesados sujetos a prisión preventiva y los reos políticos, serán reclu
 
 ### CAPITULO III. Relegación
 
-> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 1944)</small>
-
 ###### ARTICULO 27.
 
-La relegación en colonias penales se aplicará a los delincuentes declarados judicialmente habituales o cuando expresamente lo determine la ley.
+(DEROGADO, D.O.F. 5 DE ENERO DE 1948)
 
 ### CAPITULO IV. Confinamiento
 
@@ -594,15 +590,13 @@ En caso de acumulación se impondrá la sanción del delito mayor, que podrá au
 
 A los reincidentes se les aplicará la sanción que debería imponérseles por el último delito cometido, aumentándola desde un tercio hasta dos tercios de su duración a juicio del Juez. Si la reincidencia fuera por delitos de la misma especie, el aumento será desde dos tercios hasta otro tanto de la duración de la pena. Cuando resulte una pena mayor que la suma de las correspondientes a la suma del primero y segundo delitos, se aplicará esta suma.
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1944)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1948)</small>
 
 ###### ARTICULO 66.
 
-La sanción de los delincuentes habituales será de relegación, y no podrá bajar de la que se les impondría como simples reincidentes, de acuerdo con lo dispuesto en el artículo anterior.
+La sanción de los delincuentes habituales no podrá bajar de las que se les impondrían como simples reincidentes, de acuerdo con lo dispuesto en el artículo anterior.
 
 ### CAPITULO VI. Substitución y conmutación de sanciones
-
-> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 1944)</small>
 
 ###### ARTICULO 67.
 
@@ -624,19 +618,11 @@ Cuando el juez estime que ni aun con la garantía queda asegurado el interés de
 
 ###### ARTICULO 70.
 
-La sustitución se hará por los jueces y tribunales, al dictar la sentencia definitiva.
-
-> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 1944)</small>
+(DEROGADO, D.O.F. 5 DE ENERO DE 1948)
 
 ###### ARTICULO 71.
 
-La sustitución podrá hacerse en los casos siguientes:
-
-I.- Cuando la sanción que corresponda al reo exceda de dos años de prisión;
-
-II.- Cuando la condena sea por fabricación o circulación de moneda falsa, y
-
-III.- Cuando se trate de reincidente o se esté en el caso de la fracción III del artículo 400.
+(DEROGADO, D.O.F. 5 DE ENERO DE 1948)
 
 ###### ARTICULO 72.
 
@@ -1760,7 +1746,7 @@ II.- El que directa o indirectamente dé u ofrezca dádivas a la persona encarga
 
 ### CAPITULO II. Vagos y malvivientes
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1944)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1948)</small>
 
 ###### ARTICULO 218.
 
@@ -2188,11 +2174,9 @@ III.- Cuando se publiquen noticias falsas, exageradas o tendenciosas o por cualq
 
 ###### ARTICULO 255.
 
-Se aplicará la sanción de seis meses a tres años de relegación a quienes:
+Se aplicará sanción de seis meses a tres años de prisión a quienes no se dediquen a un trabajo honesto sin causa justificada y tengan malos antecedentes.
 
-I.- No se dediquen a un trabajo honesto sin causa justificada, y
-
-II.- Tengan malos antecedentes. Se estimarán como malos antecedentes para los efectos de este artículo: ser identificado como delincuente habitual o peligroso contra la propiedad o explotador de prostitutas, o traficante de drogas prohibidas, toxicómano o ebrio habitual, tahur o mendigo simulador o sin licencia.
+Se estimarán malos antecedentes para los efectos de este artículo: ser identificado como delincuente habitual o peligroso contra la propiedad, o explotador de mujeres o traficante de drogas prohibidas, toxicómano o ebrio habitual, tahur o mendigo simulador o sin licencia.
 
 ###### ARTICULO 256.
 
@@ -3345,6 +3329,16 @@ D.O.F. 14 DE NOVIEMBRE DE 1947.
 ###### ARTICULO UNICO.
 
 Estas reformas entrarán en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación, y desde esa misma fecha quedan derogadas las disposiciones legales que se opongan a las presentes, pero deberán continuar aplicándose para los hechos ejecutados durante su vigencia.
+
+D.O.F. 5 DE ENERO DE 1948.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+En todos los casos en que el Código Penal u otras leyes señalen la pena de relegación, se aplicará la de prisión.
 
 ###### ARTICULO 2o.
 
