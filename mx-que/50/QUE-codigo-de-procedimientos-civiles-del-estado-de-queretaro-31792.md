@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-31792"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1998-07-03"
+last_updated: "1999-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -961,9 +961,17 @@ XI.- Para decidir las diferencias conyugales y los juicios de nulidad de matrimo
 
 XII.- En los juicios de divorcio, el tribunal del domicilio conyugal, y en caso de abandono de hogar, el del domicilio del cónyuge abandonado:
 
-XIII.- Tratándose de juicio de alimentos, el del acreedor o deudor alimentario, a elección del primero;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 1999)</small>
 
-XIV.- En la adopción, el de la residencia del adoptado.
+XIII.- Tratándose de juicio de alimentos, el de acreedor o deudor alimentario, a elección del primero;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 1999)</small>
+
+XIV.- En la adopción, el de la residencia del adoptado; sobre la anulación o revocación de la adopción, el de la residencia del adoptado a momento del otorgamiento de la adopción; respecto de la conversión de la adopción simple a adopción plena, a elección del actor, el lugar de residencia del adoptado al momento de la adopción o donde tenga domicilio el adoptante, o
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 1999)</small>
+
+XV.- En los casos de restitución de menores, el de la residencia del menor hasta antes de su traslado o retención ilícita; en casos de urgencia, el del lugar donde aquel se encontrare.
 
 ###### ARTÍCULO 155.
 
@@ -1457,9 +1465,17 @@ IV.- Depósito o aseguramiento de libros, documentos o papeles sobre los que ver
 
 V.- Arraigo de la persona contra quien deba entablarse la demanda o se haya entablado, cuando hubiere temor de que se ausente u oculte;
 
-VI.- Suspensión de una obra, de la ejecución de un acto o de la celebración de un contrato; y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 1999)</small>
 
-VII.- La inscripción preventiva de la demanda.
+VI.- Suspensión de una obra, de la ejecución de un acto o de la celebración de un contrato;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 1999)</small>
+
+VII.- La inscripción preventiva de la demanda, o
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 1999)</small>
+
+VIII.- La guarda y restitución de menores, provisionalmente en los términos del presente Código.
 
 ###### ARTÍCULO 231.
 
@@ -2647,7 +2663,7 @@ XIII.- Las acciones relativas a servidumbres legales o que consten en títulos p
 
 XIV.- Las rectificaciones y modificaciones de actas del Registro Civil, a que se refiere el artículo 130 del Código Civil.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 3 DE JULIO DE 1998)
+(EN SUSPENSO LA VIGENCIA, P.O. 7 DE MAYO DE 1999)
 
 XV. Las solicitudes de inscripción en el Registro Civil, de los actos que no hubieran sido inscritos dentro de los plazos que el propio código señala para cada uno de ellos
 
@@ -2665,7 +2681,7 @@ En los casos de la Fracción XIV del artículo anterior se oirá al Ministerio P
 
 Si el Director del Registro Civil no contestase la demanda, se tendrá por presuntivamente confesados los hechos en que se funda el pedimento de rectificación o de modificación y luego de recibidas las pruebas y oídos los alegatos de los interesados si los formulasen por escrito dentro de tres días se dictará la resolución correspondiente.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 3 DE JULIO DE 1998)
+(EN SUSPENSO LA VIGENCIA, P.O. 7 DE MAYO DE 1999)
 
 ###### ARTICULO 433.
 
@@ -5423,7 +5439,7 @@ Presentada la cuenta mensual o general de albaceazgo, se mandará poner en la se
 
 ###### ARTÍCULO 879.
 
-Si todos los interesados aprobaren la cuenta, o no la impugnaren, el juez la aprobará. Si alguno o algunos de los interesados no estuvieren conformes, se tramitará el incidente respectivo; pero será indispensable, para que se le dé curso, precisar la objeción y que los que sostengan la misma pretección nombre representante común.
+Si todos los interesados aprobaren la cuenta, o no la impugnaren, el juez la aprobará. Si alguno o algunos de los interesados no estuvieren conformes, se tramitará el incidente respectivo; pero será indispensable, para que se le dé curso, precisar la objeción y que los que sostengan la misma pretección (sic) nombre representante común.
 
 El auto que pruebe o repruebe la cuenta es apelable en el efecto devolutivo.
 
@@ -5747,7 +5763,7 @@ La jurisdicción voluntaria comprende todos los actos en que, por disposición d
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-ARTICULO 922 bis.- A solicitud de parte legítima o de autoridad exhortante, podrá practicarse en esta vía, las notificaciones, recepción de pruebas o diligencias similares necesarias para procesos extranjeros.
+ARTICULO 922 bis.- A solicitud de parte legitima o de autoridad exhortante, podrá practicarse en esta vía, las notificaciones, recepción de pruebas o diligencias similares necesarias para procesos extranjeros.
 
 ###### ARTÍCULO 923.
 
@@ -5971,21 +5987,39 @@ Lo dispuesto en los artículo que preceden se aplicará al gravamen y enajenaci�
 
 El que pretenda adoptar a alguna persona deberá acreditar:
 
-I.- Que es mayor de treinta años pero no de sesenta y que tiene, por lo menos diecisiete años más de edad que la persona que trata de adoptar;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 1999)</small>
+
+I.- Que es mayor de veinticinco años pero no de sesenta y que tiene, por lo menos diecisiete años más de edad que la persona que trata de adoptar;
 
 II.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como si se tratara de hijo propio, según las circunstancias de la persona que trata de adoptarse;
 
-III.- Que la adopción es benéfica para la persona que trata de adoptarse; y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 1999)</small>
 
-IV.- Que el adoptante es persona de buenas costumbres.
+III.- Que la adopción es benéfica para la persona que trata de adoptarse;
 
-En la promoción inicial deberá manifestar el nombre, edad del menor o incapacitado, y el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela de las personas o institución de asistencia social que la hayan acogido.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 1999)</small>
+
+IV.- Que el adoptante es persona de buenas costumbres, y
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 1999)</small>
+
+V.- Que tiene su domicilio en el Estado, a falta de éste, que reside permanentemente en otra entidad federativa y a falta de éste, que esta domiciliado en el extranjero.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
+
+En la promoción inicial deberá manifestar el tipo de adopción que se promueve, el nombre, edad y domicilio del menor o persona con incapacidad que se pretende adoptar; el nombre, edad y domicilio de quienes en su caso ejerzan sobre él la patria potestad o tutela, o de la personas o institución de asistencia social o privada que lo haya acogido y acompañar certificado de buena salud. Los estudios socioeconómicos y sicológicos necesarios para efectuar el trámite de adopción, que deberá realizarse por persona designada por el Juez que conozca del asunto.
 
 ###### ARTÍCULO 955.
 
 Rendidas las justificaciones que se exigen en el artículo anterior, y obtenido el consentimiento de las personas que deben darlo, conforme a los artículos 383 y 384 del Código Civil, el tribunal resolverá dentro del tercer día.
 
 El juez no dictará su resolución sino hasta que los adoptantes hubieren comparecido personalmente a efecto de imponerlos de los deberes que genere la adopción y ratifiquen su intención de adoptar.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 1999)</small>
+
+###### ARTICULO 955 Bis.
+
+Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena, en los términos del articulo 378 Bis del Código Civil, el juez citará a los solicitantes a una audiencia verbal que se celebrará dentro de los ocho días siguientes a la recepción de la solicitud, con la intervención del Ministerio Publico, luego de la cual se resolverá lo conducente en el término de ocho días posteriores a la referida audiencia.
 
 ###### ARTÍCULO 956.
 
@@ -6550,3 +6584,25 @@ Las personas mayores de siete años que por sí o a través de sus representante
 ###### ARTICULO SEGUNDO.
 
 Las demás disposiciones que se opongan a la presente ley y pudieran impedir su aplicación respecto de quienes se acojan a ella en los lapsos a que se refiere su artículo primero, quedarán suspendidas en cuanto a su observancia en relación con ellos, durante esos lapsos.
+
+P.O. 7 DE MAYO DE 1999
+
+LEY QUE REFORMA Y DEROGA DIVERSOS ARTICULOS DEL CODIGO.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO.- Las adopciones que se encuentren en tramite se resolverán de conformidad con las disposiciones vigentes hasta antes de la publicación de la presente Ley.
+
+No obstante, si en las adopciones que actualmente se tramitan hubiere la voluntad del adoptante de obtener la adopción plena, podrá seguirse el procedimiento establecido por la presente Ley.
+
+P.O. 7 DE MAYO DE 1999
+
+LEY QUE DEJA EN SUSPENSO LA VIGENCIA DE LOS ARTICULOS 431, FRACCION XV Y 433 DEL CODIGO.
+
+Artículo primero.- Las personas mayores de siete años, que por sí o a través de sus representantes, al entrar en vigor esta Ley, estén tramitando juicio para el registro de nacimiento, podrán optar por concluir ese procedimiento o acudir ante el Oficial del Registro Civil respectivo, en los términos de lo dispuesto en esta Ley.
+
+Artículo segundo.- Las demás disposiciones que se opongan a la presente Ley y que impidan su aplicación respecto de quienes se acojan a ella en los lapsos a que se refiere su artículo primero, quedarán en suspenso en cuanto su observancia en relación con ellos, durante esos lapsos.
+
+Artículo tercero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo cuarto.- Una vez concluidos los plazos durante los cuales estará vigente la presente Ley, recobrarán su vigencia los artículos dejados en suspenso.
