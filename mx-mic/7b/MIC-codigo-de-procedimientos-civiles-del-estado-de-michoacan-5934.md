@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-del-estado-de-michoacan-5934"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "2003-04-07"
+last_updated: "2004-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2004.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el 30 de julio de 1936.
 
@@ -361,11 +361,11 @@ VIII. Las demás a que dieren ese carácter las leyes.
 
 La excepción dilatoria de falta de formación de inventarios, sólo podrá hacerse valer dentro de los cien días siguientes al del fallecimiento del autor de la sucesión.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 36.
 
-Sólo las excepciones de incompetencia y falta de personalidad o de personería, se decidirán en artículo de previo y especial pronunciamiento. La primera se substanciará en los términos señalados en el capítulo IV del Título Segundo y la segunda en la forma señalada para los incidentes.
+Sólo las excepciones de incompetencia, falta de personalidad, de personería y cosa juzgada, se decidirán en artículo de previo y especial pronunciamiento. La primera se substanciará en los términos señalados en el Capítulo IV del Título Segundo y las tres últimas en la forma señalada para los incidentes.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -395,13 +395,11 @@ Los interesados y sus representantes legítimos podrán comparecer en juicio por
 
 Por los que no puedan comparecer por sí mismos en juicio, comparecerán sus representantes legítimos, o los que deban suplir su incapacidad. Los ausentes o ignorados serán representados como lo previene el Código Civil.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 40.
 
-El tribunal revisará la personalidad de las partes en cualquier momento del proceso, bajo su responsabilidad.
-
-También examinará bajo su responsabilidad la personería de los representantes y mandatarios de las partes, al tiempo de comparecer éstos.
+El tribunal revisará la personalidad de las partes y la personería de sus representantes y mandatarios en cualquier momento del proceso, bajo su responsabilidad.
 
 No será recurrible el auto que después del emplazamiento reconozca la personalidad o la personería, pero éstas podrán impugnarse en forma de incidente que deberá promoverse dentro de los tres días siguientes al de la notificación respectiva. Es apelable el auto que las desconozca.
 
@@ -889,9 +887,13 @@ Para fijar la duración de los términos, los meses se regularán por el número
 
 Cuando este código no señale términos para la práctica de algún acto judicial, o para el ejercicio de algún derecho, se tendrán por señalados los siguientes:
 
-l. Cinco días para interponer el recurso de apelación de sentencia definitiva;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
-II. Tres días para apelar de autos;
+l. Nueve días para interponer el recurso de apelación de sentencia definitiva;
+
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
+
+II. Seis días para apelar de sentencia interlocutoria o auto;
 
 III. Tres días para la celebración de juntas, reconocimiento de firmas, exhibición de documentos, dictamen de peritos; a no ser que por circunstancias especiales creyere justo el juez ampliar el término, lo cual podrá hacer por tres días más;
 
@@ -949,11 +951,21 @@ Los magistrados y los jueces recibirán personalmente las declaraciones y presid
 
 Si el exhorto o despacho dirigido por un juez del Estado, en los casos que expresan los artículos anteriores, no fuere obsequiado, el que lo expidió se dirigirá al Presidente del Supremo Tribunal de Justicia, para que éste lo haga cumplir si se trata de otro juez del Estado, o para que requiera su cumplimiento por medio del tribunal del Estado o de la Entidad a que pertenezca el juez requerido.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 119.
 
-En cualquier estado del pleito pueden los magistrados o los jueces citar a las partes a las juntas que crean convenientes, ya sea para procurar su avenencia, ya para esclarecer algún punto, sin que se suspenda el curso del procedimiento.
+Antes de mandar abrir el juicio ordinario o sumario a prueba, el juez de oficio o a solicitud de cualquiera de las partes, señalará día y hora para la celebración de una audiencia de conciliación, lo que deberá notificarse personalmente a las partes, con tres días de anticipación a la celebración de la audiencia.
+
+Las partes comparecerán personalmente a la audiencia de conciliación, sin mandatarios, abogados patronos o asesores.
+
+Si una de las partes no concurre sin causa justificada, el juez la sancionará con una multa hasta por los montos establecidos en la fracción II del artículo 126 de este Código. Si dejaren de concurrir ambas partes sin justificación, el juez las sancionará de igual manera.
+
+Si asistieran las partes, el juez examinará las cuestiones relativas a la legitimación procesal y luego las exhortará a procurar la conciliación. Si las partes llegan a un convenio, el juez lo aprobará de plano si procede legalmente, elevándolo a sentencia ejecutoria que tendrá la categoría de cosa juzgada.
+
+En caso de desacuerdo entre las partes se abrirá el juicio a prueba.
+
+En cualquier estado del juicio pueden los magistrados o los jueces citar a las partes a las juntas de conciliación que consideren convenientes, para procurar su conciliación o para esclarecer algún punto, sin que se suspenda el curso del procedimiento.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -1689,13 +1701,17 @@ Cuando un juez o magistrado se excuse sin causa legítima cualquiera de las part
 
 ### CAPITULO II. De la recusación
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 217.
 
-Los jueces de primera instancia podrán ser recusados sin expresión de causa, sólo por la parte demandada y por una vez. No procederá la recusación ,cuando en algún distrito judicial únicamente exista un juez de esa categoría con jurisdicción civil o mixta.
+Las partes podrán recusar a los jueces de primera instancia, por una vez sin expresión de causa. No procederá la recusación, cuando en algún distrito judicial únicamente exista un juez de primera instancia con jurisdicción civil o mixta.
 
-Las partes podrán recusar a un magistrado, sin expresión de causa y por una vez en el recurso de apelación, pero lo harán precisamente en el escrito de expresión de agravios y en el de contestación.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
+
+Las partes podrán recusar a un magistrado, sin expresión de causa y por una vez en el recurso de apelación, pero lo harán precisamente dentro de los dos días siguientes a la notificación del auto en el que se les haga saber la llegada de los autos originales o el testimonio de apelación, a la Sala.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
 
 En el recurso de queja, el magistrado que conozca del mismo no podrá ser recusado sin expresión de causa.
 
@@ -1901,19 +1917,23 @@ La sala o juez que haya conocido de la recusación, hará efectiva la pena a que
 
 De la recusación de un magistrado conocerá la sala que siga en número; de la de un juez de primera instancia, la sala que corresponda en turno y, de la de un juez menor, el juez de primera instancia correspondiente, y en los lugares en que hubiere dos o más, el que elija el promovente.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 248.
 
-Propuesta la recusación, el funcionario recusado remitirá inmediatamente el ocurso relativo al que deba conocer de ella conforme al artículo anterior. Este último declarará dentro del tercer día y de plano si es o no legal la causa de la recusación.
-
-Si se declara no ser bastante la causa, se devolverán los autos con testimonio de la resolución al juzgado o sala de origen para que continúe el procedimiento.
+Propuesta la recusación, el funcionario recusado remitirá inmediatamente el ocurso relativo al que deba conocer de ella conforme al artículo anterior, anexando su informe con justificación sobre la materia de la recusación. El que deba conocer de la recusación declarará de plano, dentro de los tres días siguientes, si es o no legal la causa de la recusación.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
+Si se declara no ser bastante la causa, se devolverán los autos con testimonio de la resolución al juzgado o sala de origen para que continúe el procedimiento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 249.
 
-Declarada legal la causa en que se funde la recusación, se recibirá el incidente a prueba si fuere necesario, por un término que no exceda de seis días, concluído el cual, se decidirá al siguiente, si resultó o no probada la causa de la recusación.
+Declarada legal la causa en que se funde la recusación, se recibirá el incidente a prueba, si fuere necesario, por un término que no exceda de seis días. Tanto el recusante como el recusado podrán ofrecer pruebas, pero en su caso deberán hacerlo en el escrito donde se interponga la recusación y en el informe con justificación respectivo. Concluido el término, se decidirá al día siguiente si resultó o no probada la causa de la recusación.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
 En el primer caso, remitirá testimonio de la resolución al juez recusado, si se tratare de un juez de primera instancia o menor, para que éste a su vez remita los autos al juzgado que corresponda; en el tribunal pasará el conocimiento del negocio a la sala que conoció de la recusación. Y en el segundo, seguirá conociendo el funcionario recusado.
 
@@ -2273,125 +2293,111 @@ Constituído el depósito judicial y extendido el certificado a que se refieren 
 
 La sentencia que apruebe la consignación declarará, además, que el riesgo de la cosa depositada es a cargo del acreedor desde la fecha del depósito.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
-### CAPITULO IV. Del depósito de personas como acto prejudicial
+### CAPITULO IV. Separación de personas como acto prejudicial
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 302.
 
-La mujer casada que viviendo al lado del marido intente demandarlo o acusarlo, puede pedir su depósito.
+El cónyuge que intente demandar, denunciar o querellarse contra su cónyuge, puede solicitar su separación al Juez de Primera Instancia.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 303.
 
-El marido que viviendo con su mujer intente demandarla o acusarla, debe pedir previamente su depósito.
+Sólo los jueces de Primera Instancia pueden decretar la separación de que habla el artículo anterior, a no ser que por circunstancias especiales no pueda ocurrirse al juez competente, pues entonces el juez del lugar podrá decretar la separación provisionalmente, remitiendo las diligencias al competente.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 304.
 
-Sólo los jueces de primera instancia pueden decretar los depósitos de que hablan los artículos anteriores a no ser que, por circunstancias especiales, no pueda ocurrirse al juez competente, pues entonces el juez del lugar donde la cónyuge se encuentre, podrá decretar el depósito provisionalmente remitiendo las diligencias al competente y poniendo la persona a su disposición.
+La solicitud puede ser escrita o verbal, en la que se señalarán las causas en que se funda, el domicilio para su habitación, la existencia de hijos menores y las demás circunstancias del caso.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 305.
 
-La solicitud de la mujer puede ser escrita o verbal. Si la urgencia del caso lo amerita, el juez debe proceder con toda rapidez.
+El juez podrá practicar las diligencias que a su juicio sean necesarias antes de dictar la resolución. En el caso de violencia familiar tomará en cuenta los dictámenes, informes y opiniones que hubieren realizado las instituciones públicas o privadas dedicadas a atender asuntos de esta índole.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 306.
 
-Presentada la solicitud se trasladará el juez a la casa del marido y, sin que se halle éste presente, hará comparecer a la mujer para que manifieste si ratifica o no el escrito en que hubiere pedido el depósito, si por escrito se hubiere solicitado. Hecha la ratificación, el juez designará, desde luego, la persona que haya de encargarse del depósito y dispondrá que en el acto se entreguen a la mujer la cama y toda su ropa.
+Presentada la solicitud, el juez sin más trámite, salvo lo dispuesto en el artículo anterior, resolverá sobre su procedencia y si la concediere, dictará las disposiciones pertinentes para que se efectúe materialmente la separación atendiendo a las circunstancias de cada caso en particular.
 
-Si hubiere cuestión sobre cuáles ropas deben entregarse, el juez, sin ulterior recurso y teniendo en cuenta las circunstancias de las personas, determinará las que haya de llevar la interesada.
+Asimismo, atentas las circunstancias del caso, podrá limitarse a disponer la permanencia del cónyuge en el domicilio conyugal, previniendo al otro cónyuge para que se abstenga de concurrir al mismo. El juez podrá sin embargo, dictar otras disposiciones que estime pertinentes, atendiendo a las circunstancias del caso, o variar las disposiciones decretadas, en virtud de causa justa o por acuerdo de los cónyuges ratificado en la presencia judicial.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 307.
 
-Practicado todo lo que queda prevenido en los artículos anteriores, el juez personalmente extraerá a la mujer de la casa del marido y la llevará a casa del depositario.
+El juez podrá variar las disposiciones decretadas cuando exista causa justa que lo amerite o en vista de lo que los cónyuges, de común acuerdo o individualmente le soliciten, si lo estima pertinente según las circunstancias del caso.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 308.
 
-En el mismo acto de la diligencia intimará el juez al marido que no moleste a su mujer ni al depositario, bajo apercibimiento de procederse contra él a lo que hubiere lugar.
+En la resolución se señalará el término de que dispondrá el solicitante para presentar la demanda, denuncia o querella, que podrá ser hasta de quince días hábiles contados a partir del día siguiente de efectuada la separación. A juicio del juez, podrá concederse por una sola vez una prórroga por igual término.
 
-Independientemente de lo anterior, el juez puede dictar las medidas que estime prudentes a efecto de evitar las molestias contra la mujer y depositario.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 309.
 
-La casa donde se deposite a la mujer casada, será en todo caso designada por el juez y debe de ser el depositario persona de notoria honorabilidad y buenas costumbres.
+En la misma resolución ordenará la notificación al otro cónyuge, previniéndole que se abstenga de impedir la separación o causar molestias a su cónyuge, bajo apercibimiento de procederse en su contra en los términos a que hubiere lugar.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+El juez, tomando en cuenta las circunstancias del caso, decretará quién de los cónyuges permanecerá en el domicilio conyugal.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 310.
 
-Si los consortes tuvieren hijos menores de edad, se pondrán éstos al cuidado de la persona que de común acuerdo hubieren designado. En efecto de ese acuerdo, el juez resolverá provisionalmente, debiendo, en todo caso, quedar al cuidado de la madre los hijos menores de siete años.
+El juez determinará la situación de los hijos menores atendiendo a las circunstancias del caso, tomando en cuenta las obligaciones señaladas en los artículos 261 y 269 quáter del Código Civil, las propuestas de los cónyuges, si las hubiere y lo dispuesto en las fracciones V y VI del artículo 241, del Código Civil.
 
-Cualquiera reclamación de los consortes sobre el depósito de los hijos se substanciará y decidirá en juicio sumario.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 311.
 
-Al día siguiente de constituído el depósito, mandará el juez intimar al marido o a la mujer en su caso, apercibiéndolos de que si dentro de diez días no acreditan haber intentado la demanda o la acusación, se levantará el depósito y será restituída la mujer a la casa de su marido.
+La oposición de alguno de los cónyuges sobre la resolución o disposición decretada, se substanciará en juicio sumarísimo.
 
-Esta providencia se notificará en forma legal a la mujer y al marido.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 312.
 
-El término de diez días podrá aumentarse con un día por cada día por cada veinte kilómetros que diste el pueblo en que se constituya el depósito, de aquel en que resida el juez de primera instancia que haya de conocer de la demanda o de la acusación, agregándose otro día si hubiere una fracción que exceda de la mitad de la distancia expresada.
+Si al vencimiento del plazo concedido no se acredita al juez que se ha presentado la demanda, la denuncia o la querella, cesarán los efectos de la separación, quedando obligado el cónyuge a regresar al domicilio conyugal dentro de las veinticuatro horas siguientes.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 313.
 
-Si la mujer que pida el depósito residiere en lugar distinto de aquel en que se halle situado el juzgado, podrá el juez dar comisión para constituir el depósito al de primera instancia o al municipal correspondiente, sin perjuicio de que éstos últimos puedan hacerlo por sí mismos en los casos prevenidos en el artículo 304.
+Los derechos contemplados en el presente Capítulo, también podrán ejercerlos la concubina y el concubinario, cuando tengan un domicilio común con las características del domicilio conyugal a que se refiere el Código Civil.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 314.
 
-Al depositario se dará copia certificada de la providencia en que se le haya nombrado y de la constitución de depósito, para su resguardo.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+Si el juez que decretó la separación no fuere el que deba conocer del negocio principal, remitirá las diligencias practicadas al que fuere competente, quien confirmará, en su caso, la decisión dictada con motivo de la separación, siguiendo el juicio su curso legal.
 
 ###### Artículo 315.
 
-El término señalado para la duración del depósito podrá prorrogarse si se acreditare que por causa no imputable a la mujer, cuando ésta lo solicitó, ha sido imposible intentar la acción contra el marido.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 316.
 
-Las oposiciones sobre el depósito que pueda formularse por la mujer, por el marido o por el depositario, se substanciarán en juicio sumarísimo.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 317.
 
-Si el juez que decretó el depósito no fuere el que deba conocer del negocio principal, remitirá las diligencias practicadas al que fuere competente, quien confirmará el nombramiento de depositario, o hará otro, siguiendo el juicio su curso legal.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 318.
 
-No acreditándose haber intentado la demanda o la acusación dentro del término señalado, levantará el juez el depósito y restituirá a la mujer a la casa del marido.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 319.
 
-En los casos del artículo 303, presentada la solicitud por el marido, el juez decretará el depósito, nombrará el depositario y procederá conforme a las disposiciones y procederá conforme a las disposiciones relativas de este capítulo.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -2547,11 +2553,11 @@ Cuando fueren varios los demandados, el traslado se les correrá personalmente a
 
 Si conocido el domicilio del demandado se ignorase su habitación, o si no se supiere dónde se encuentra, se emplazará por edictos conforme al artículo 82, señalándose para que comparezca (sic) un término prudente que no podrá ser menor de un mes, contado desde la publicación del primer edicto. Si residiere o se encontrare en el extranjero, el juez ampliará el término del emplazamiento a todo el que considere necesario, atentas las distancias y la mayor o menor facilidad de las comunicaciones.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 340.
 
-Los efectos de la presentación de la demanda son: señalar el principio de la instancia y determinar el valor de las prestaciones exigibles.
+Los efectos de la presentación de la demanda son señalar el principio de la instancia, determinar el valor de las prestaciones exigibles e interrumpir la prescripción si no lo está por otros medios.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -2559,7 +2565,7 @@ Los efectos de la presentación de la demanda son: señalar el principio de la i
 
 Los efectos del emplazamiento son:
 
-I. Interrumpir la prescripción, si no lo está por otros medios;
+I. (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 II. Prevenir el juicio a favor del juez que lo hace;
 
@@ -2587,11 +2593,11 @@ La contestación de la demanda se hará por escrito, dentro del término del emp
 
 Si el demandado no ha dispuesto a juicio del juez del tiempo necesario para completar los documentos en que funda sus defensas, el juez le concederá el tiempo que considere necesario, con el apercibimiento de que no se le admitirán dichos documentos, si los presenta fuera de ese término.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 344.
 
-Las excepciones dilatorias de incompetencia y falta de personalidad deberán proponerse precisamente dentro de los primeros tres días del emplazamiento. Las demás excepciones o defensas que se tengan, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación y nunca después, a no ser que fueren supervenientes. En la misma forma se propondrá la reconvención cuando proceda.
+Las excepciones dilatorias de incompetencia y falta de personalidad deberán proponerse precisamente dentro de los primeros tres días del emplazamiento, sin contar en ellos los días adicionales que, en su caso, se hubieren concedido al demandado por razón de la distancia. Las demás excepciones o defensas que se tengan, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación y nunca después, a no ser que fueren supervenientes. En la misma forma se propondrá la reconvención cuando proceda.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -2731,11 +2737,13 @@ Las excepciones supervenientes se harán valer hasta antes de la citación para 
 
 Queda abolida la práctica de oponer excepciones o defensas contradictorias, aun cuando sea con el carácter de subsidiarias, debiendo los jueces desechar éstas de plano.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 365.
 
-Contestada la demanda o dada por contestada en los términos prevenidos en el presente capítulo, se abrirá el juicio a prueba a solicitud de cualquiera de las partes o de oficio por el juez.
+Contestada la demanda o dada por contestada en los términos prevenidos en el presente Capítulo, el juez de oficio o a solicitud de cualquiera de las partes, señalará día y hora para la celebración de una audiencia de conciliación.
+
+En caso de desacuerdo en la audiencia de conciliación, se abrirá el juicio a prueba a solicitud de cualquiera de las partes o de oficio por el juez.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -2901,11 +2909,11 @@ Fuera de los casos de excepción de que hablan los artículos anteriores, sólo 
 
 También podrán admitirse hasta antes de la citación para sentencia y sin que se suspenda el curso del juicio, los documentos que aunque conocidos, no hubieren podido adquirirse con anterioridad, y los que pedidos en tiempo legal no hubieren sido remitidos al juzgado o tribunal, sino hasta después de concluído el término para probar.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1968)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 388.
 
-Las partes sólo podrán objetar los documentos dentro de los tres días siguientes a la apertura del término de prueba, tratándose de los presentados hasta entonces; los exhibidos con posterioridad podrán serlo en igual término, contando desde que surta efectos la notificación del auto que lo haya tenido como prueba. Si se arguyen de falsos se observará lo dispuesto en los artículos 475 y 558.
+Las partes sólo podrán objetar los documentos dentro de los tres días siguientes a la apertura del término de prueba, tratándose de los presentados hasta entonces, siempre que no los hubieren objetado desde antes; los exhibidos con posterioridad podrán serlo en igual término, contando desde que surta efectos la notificación del auto que lo haya tenido como prueba. Si se arguyen de falsos se observará lo dispuesto en los artículos 475 y 558 de este Código.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -2927,11 +2935,11 @@ La citación se hará a más tardar el día anterior a aquél en que deba recibi
 
 Para las diligencias que tengan que practicarse en otro juzgado, fuera del lugar del juicio, podrán las partes nombrar persona que en su representación asista a ellas, haga que se presenten los testigos, si se trata de esa prueba, y acuda a cuanto exija el cumplimiento de las mismas; esa designación se hará constar en el escrito en que se haga la promoción y se insertará en el recado que al efecto se libre. En tal caso el juez o tribunal requerido señalará día y hora en que haya de practicarse la diligencia, citando a la persona o personas designadas, si fueren vecinas de la localidad y estuvieren presentes, o si se hubieren presentado en ella; en caso contrario, la diligencia, si fuere posible, se llevará a efecto sin esa citación, lo mismo que cuando citadas aquéllas no cucurrieren (sic) al juzgado el día y hora fijados.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 392.
 
-Los autos en que se negare la admisión o la práctica de una diligencia de prueba son apelables si lo fuere el negocio principal, y la apelación procederá en ambos efectos, si estos autos se dictaren en juicio sumario, sólo cabe el recurso de revocación. Los en que se conceda, no admiten recurso alguno.
+Los autos en que se negare la admisión o la práctica de una diligencia de prueba son apelables, si lo fuere el negocio principal, procediendo la apelación en el solo efecto devolutivo. Si estos autos se dictaren en juicio sumario, sólo cabe el recurso de revocación. Los autos en que se conceda, no admiten recurso alguno.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -3207,11 +3215,13 @@ La confesión judicial produce efectos en lo que perjudica al que la hace, no en
 
 A nadie se citará para que absuelva posiciones sino después de presentar el pliego que las contenga. Si éste se presenta cerrado, así se conservará en el secreto del juzgado o tribunal, sentándose en la cubierta la razón respectiva, autorizada con la firma del juez y del secretario.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 429.
 
-Al que ha de ser interrogado se le citará a más tardar, el día anterior al que haya de tener lugar la diligencia, conforme a lo dispuesto en el capítulo IV, título primero.
+Al que ha de ser interrogado se le citará, a más tardar, veinticuatro horas antes del momento en que haya de tener lugar la diligencia, conforme a lo dispuesto en el Capítulo IV, Título Primero.
+
+Si la falta de citación oportuna fuere imputable por segunda vez al que debió hacerla, será separado de su cargo.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -3361,7 +3371,9 @@ III. Los documentos auténticos expedidos por funcionarios que desempeñen cargo
 
 IV. Las certificaciones de constancias existentes en los archivos parroquiales y que se refieran a actos pasados antes del establecimiento del Registro Civil, siempre que fueren cotejadas por notario público o quien haga sus veces con arreglo a derecho;
 
-V. Las certificaciones de actas del Estado Civil, expedidas por los encargados del Registro Civil, respecto a constancias existentes en los libros correspondientes;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
+
+V. Las certificaciones de actas del Registro Civil, expedidas por los oficiales del Registro Civil, respecto a constancias existentes en los libros correspondientes;
 
 VI. Las actuaciones judiciales de toda especie;
 
@@ -3787,11 +3799,11 @@ Todos los que tengan conocimiento del hecho o de los hechos que las partes deban
 
 Los testigos serán citados a declarar cuando la parte que ofrezca su testimonio manifieste no poder por sí misma hacer que se presenten.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 511.
 
-A los ancianos de más de sesenta años, a los enfermos y a las mujeres, según las circunstancias, podrá el juez recibirles la declaración en sus casas, en presencia de la otra parte, si asistiere.
+A los testigos de más de setenta años y a los enfermos podrá el juez, según las circunstancias, recibirles la declaración en sus casas en presencia de la otra parte, si asistiere.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -4201,6 +4213,14 @@ El documento que un litigante presente prueba plenamente en su contra en todas s
 
 Los jueces tomarán en consideración, aunque las partes no lo pidan dentro del término probatorio, que se les tengan por admitidos, como prueba, los documentos que hubieren acompañado, la una a la demanda y la otra a su contestación; estimándose para los efectos legales, con el valor probatorio que por sí mismos les correspondan.
 
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
+
+Artículo 568 bis. Se reconoce como prueba la información generada o comunicada que conste en medios electrónicos, ópticos o en cualquier otra tecnología.
+
+Para valorar la fuerza probatoria de la información a que se refiere el párrafo anterior, se estimará primordialmente la fiabilidad del método en que haya sido generada, comunicada, recibida o archivada y, en su caso, si es posible atribuir a las personas obligadas el contenido de la información relativa y ser accesible para su ulterior consulta.
+
+Cuando la ley requiera que un documento sea conservado y presentado en su forma original, ese requisito quedará satisfecho si se acredita que la información generada, comunicada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología, se ha mantenido íntegra e inalterada a partir del momento en que se generó por primera vez en su forma definitiva y ésta pueda ser accesible para su ulterior consulta.
+
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
 ###### Artículo 569.
@@ -4423,17 +4443,15 @@ Respecto de las tachas regirá lo dispuesto en los artículos 465 a 467.
 
 ### CAPITULO XV. De los alegatos y de la citación para sentencia
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1968)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 597.
 
-Concluido el término probatorio, o en su caso el del mandará poner los autos a la vista de las partes, por su orden, primero el actor y después el demandado por cinco días a cada uno, para que aleguen de buena prueba.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+Concluido el término probatorio, o en su caso el del incidente de tachas, el juez de oficio, mandará poner los autos a la vista de las partes para que dentro del término común de tres días, produzcan sus alegatos, y transcurrido el término hayan alegado o no, el juez de oficio mandará citar para sentencia definitiva.
 
 ###### Artículo 598.
 
-Pasado el término a que se refiere el artículo anterior, el juez mandará de oficio citar para sentencia, aun cuando las partes no hayan presentado sus alegatos.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -4467,11 +4485,11 @@ Las sentencias deben ser claras, precisas, absteniéndose los sentenciadores de 
 
 La sentencia se ocupará exclusivamente de las personas, cosas, acciones y excepciones que hayan sido materia del juicio. Si se hubieren opuesto excepciones dilatorias y perentorias, se ocupará primeramente de aquéllas, y en el caso de que alguna o todas fueren procedentes, ya no se ocupará de las perentorias y dejará al actor sus derechos a salvo para que los deduzca en la vía y forma que corresponda, siendo válidas las pruebas rendidas por las partes, sin perjuicio de la calificación que de ellas se haga, si llegare a iniciarse el nuevo juicio. Si se declararen improcedentes las excepciones dilatorias, la sentencia se ocupará de las perentorias.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 603.
 
-Cuando hubiere condena de frutos, intereses, daños o perjuicios, no siendo éstos el objeto principal del juicio, se fijará su importe en cantidad líquida, o por lo menos, se establecerán las bases con arreglo a las cuales deba hacerse la liquidación, la que deberá ajustarse al precepto de los artículos 500 y 501, en los casos en que fuere posible.
+Cuando hubiere condena de frutos, intereses, daños o perjuicios, no siendo éstos el objeto principal del juicio, se fijará su importe en cantidad líquida o, por lo menos, se establecerán las bases con arreglo a las cuales deba hacerse la liquidación, la que deberá ajustarse a lo dispuesto por los artículos 500 y 501, en los casos en que ello fuere posible. Sólo en el caso de no ser posible fijar una cuantificación por no haberse determinado su monto al demandar, sino reclamados de manera genérica y demostrado el derecho a percibirlos, se reservará su cuantificación para la etapa de liquidación de sentencia. De haber sido el objeto principal del juicio y exigido su pago en cantidad líquida, pero no habiéndose acreditado el derecho a percibirlos ni su monto, el obligado será absuelto de la reclamación correspondiente.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -4703,19 +4721,29 @@ No procede conceder término supletorio ni extraordinario de prueba en los negoc
 
 Las pruebas documentales que se presenten fuera de la dilación probatoria, serán admitidas en los términos del artículo 387 y aquellas que se refieran a hechos ocurridos con posterioridad, dándose conocimiento de las mismas a la contraria, por el término de veinticuatro horas, para que pueda alegar lo que estime conveniente.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 629.
 
-En los interdictos de obra u objeto peligrosos; en los casos de la fracción VII del artículo 622, salvo disposición especial de la ley; y en los interdictos para recobrar la posesión de servidumbres legales, o que consten en instrumento público, no se requieren más formalidades que una audiencia a la cual se citará en el auto que admita la demanda. Tendrá lugar dentro del tercer día si se trata de una cuestión familiar o a partir del quinto día, en cualquier otro caso, contados desde el siguiente hábil a aquel en que se haga el emplazamiento. En ella el demandado producirá su contestación, en seguida se recibirán las pruebas que en el mismo acto presenten las partes, y se dictará allí la resolución concisa. Este juicio sumarísimo se hará constar en una sola acta cuando termine en un solo día.
+En los interdictos de obra u objeto peligrosos (sic); en los casos de las fracciones V y VII del artículo 622, salvo disposición especial de la ley; y en los interdictos para recobrar la posesión de servidumbres legales, o que consten en instrumento público, no se requieren más formalidades que una audiencia a la cual se citará en el auto que admita la demanda. Tendrá lugar dentro del tercer día si se trata de una cuestión familiar o a partir del quinto día, en cualquier otro caso, contados desde el siguiente hábil a aquel en que se haga el emplazamiento. En ella el demandado producirá su contestación, en seguida se recibirán las pruebas que en el mismo acto presenten las partes, y se dictará allí la resolución concisa. Este juicio sumarísimo se hará constar en una sola acta cuando termine en un solo día.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
 Si el demandado no tuviera su domicilio en el lugar del juicio ni en el de la ubicación de la cosa, o teniéndolo, no fuere hallado a la primera búsqueda ni esperare para dentro de las dos horas siguientes, se le notificará en el primer caso, por medio de un edicto que se fijará en la Presidencia Municipal del lugar de ubicación de la cosa y en el segundo, por medio de instructivo. En ambos casos, el demandado será representado en todo el procedimiento por el Agente del Ministerio Público de la adscripción, en tanto aquel comparece.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+
 La prueba de confesión sólo será admisible si el absolvente se halla presente en la audiencia.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
 Cualquier incidente que se promueva se decidirá en la misma audiencia sin substanciar artículo.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+
 El juez y los peritos no son recusables, pero si no se excusan en caso de estar impedidos, responderán de los daños y perjuicios que causen con su omisión.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
 No procederá recurso alguno contra el auto que admita la demanda ni respecto de las resoluciones que el juez dicte durante la substanciación del juicio.
 
@@ -4725,23 +4753,23 @@ No procederá recurso alguno contra el auto que admita la demanda ni respecto de
 
 Fuera del caso del artículo anterior, si en la contestación de la demanda se opusieren las excepciones de incompetencia, de falta de personalidad o de personería, se tramitará el incidente en la forma prevista por el artículo 634.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 631.
 
-Una vez contestada la demanda o dada por contestada en los términos prevenidos en el presente Código, se abrirá el juicio a prueba por quince días.
+Una vez contestada la demanda o dada por contestada en los términos prevenidos en el presente Código, el juez de oficio o a solicitud de cualquiera de las partes, señalará día y hora para la celebración de una audiencia de conciliación.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+En caso de desacuerdo en la audiencia de conciliación, se abrirá el juicio a prueba por quince días, a solicitud de cualquiera de las partes o de oficio por el juez.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 632.
 
-Concluido el término probatorio, o en su caso el del incidente de tachas, el juez de oficio mandará poner los autos a la vista de las partes, por cinco días comunes para que aleguen.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+Concluido el término probatorio, o en su caso el del incidente de tachas, el juez de oficio mandará poner los autos a la vista de las partes, por dos días comunes para alegar, y transcurrido el término hayan alegado o no, el juez de oficio mandará citar para sentencia definitiva.
 
 ###### Artículo 633.
 
-Presentados los alegatos o transcurrido el término para hacerlo, previa citación de oficio, se pronunciará sentencia definitiva dentro del término de cinco días.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -4763,9 +4791,13 @@ En los interdictos, si la sentencia declara improcedente la acción, se condenar
 
 Las sentencias que se dicten en los juicios a que se refiere este Título, son apelables en el efecto devolutivo, pero en el caso de alimentos se ejecutarán sin fianza, y las que recaigan en los negocios de que trata la fracción VII del artículo 622 son inapelables.
 
-La apelación se substanciará con sólo el escrito de agravios y de contestación, que las partes, en su orden, presentarán ante el superior dentro de tres días. En seguida, previa citación de oficio, el magistrado pronunciará sentencia definitiva dentro de cinco días.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
-Esta regla se observará sin perjuicio de lo que ordena el artículo 729 de este Código.
+La apelación se substanciará en los términos del Capítulo II, del Título Séptimo de este Código.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
+
+Esta regla se observará sin perjuicio de lo previsto en el artículo 707 de este Código.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5305,17 +5337,27 @@ La interposición del recurso suspende los efectos del auto recurrido.
 
 ### CAPITULO II. De la apelación
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 694.
 
-El recurso de apelación tiene por objeto que el tribunal superior revoque o modifique la resolución del inferior, en los puntos relativos a los agravios expresados.
+El recurso de apelación tiene por objeto que el Tribunal Superior confirme, revoque o modifique la sentencia o el auto dictado en la primera instancia, en los puntos relativos a los agravios expresados.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+No obstante lo dispuesto anteriormente, en los procedimientos relacionados con derechos de menores o incapaces, se suplirá la deficiencia de la queja.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 695.
 
-Pueden apelar: el litigante si creyere haber recibido algún agravio, los terceros que hayan salido al juicio y los demás interesados a quienes perjudique la resolución judicial.
+Pueden apelar:
+
+I. El litigante si creyere haber recibido algún agravio;
+
+II. El vencedor que no obtuvo la restitución de frutos, la indemnización de daños y perjuicios o el pago costas;
+
+III. Los terceros que hayan salido al juicio y los demás interesados a quienes perjudique la resolución judicial; y,
+
+IV. La parte que venció puede adherirse a la apelación interpuesta al notificársele la admisión de ésta, o dentro de los tres días siguientes a esa notificación, expresando los razonamientos tendientes a mejorar las consideraciones vertidas en la resolución de primera instancia. En este caso, la adhesión al recurso sigue la suerte de éste.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5345,17 +5387,19 @@ Si la parte apelada no señala ni aporta las constancias que le corresponden, se
 
 En todo caso, el testimonio contendrá, además, las constancias que el juez estime conducentes.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 700.
 
-Para ejecutar la sentencia o auto en el caso del artículo 730, se otorgará previamente caución que podrá consistir:
+Para ejecutar la sentencia o auto en el caso de apelación admitida solo en el efecto devolutivo, se otorgará previamente caución que podrá consistir:
 
 I. En hipoteca sobre bienes bastantes a juicio del juez, ubicados dentro del territorio del Estado;
 
-II. En depósito de dinero efctivo (sic);
+II. En depósito de dinero en efectivo; y,
 
-III. En fianza en la que deberán renunciarse los beneficios de orden y excusión. La caución otorgada por el actor comprenderá la devolución de la cosa o cosas que deba percibir, sus frutos e intereses y la indemnización de daños y perjuicios, si el fallo se revoca. La otorgada por el demandado comprenderá el pago de lo juzgado y sentenciado en el caso de que la resolución condena a hacer o no hacer. El Ministerio Público no está obligado a prestar la caución a que este artículo se refiere.
+III. En fianza en la que deberán renunciarse los beneficios de orden y excusión.
+
+La caución otorgada por el actor comprenderá la devolución de la cosa o cosas que deba percibir, sus frutos e intereses y la indemnización de daños y perjuicios, si el fallo se revoca. La otorgada por el demandado comprenderá el pago de lo juzgado y sentenciado en el caso de que la resolución condena a hacer o no hacer. El Ministerio Público no está obligado a prestar la caución a que este artículo se refiere.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5375,35 +5419,41 @@ Las sentencias que fueren apelables conforme al artículo anterior, lo serán en
 
 Los autos son apelables cuando lo dispone la ley, si, además lo fuere la sentencia definitiva en el juicio en que se dicten. La apelación será admisible sólo en el efecto devolutivo, salvo en aquellos casos en que se disponga expresamente otra cosa.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 704.
 
-La apelación debe interponerse ante el juez que pronunció la sentencia, ya verbalmente en el acto de notificarse ésta, ya por escrito dentro de cinco días, si la sentencia fuere definitiva o de tres si fuere auto o sentencia interlocutoria. En ambos casos, el apelante señalará, al interponer el recurso, domicilio para recibir notificaciones en la capital del Estado, para que se le haga saber la llegada de los autos o el testimonio, por la sala a quien corresponda por turno conocer el asunto, y se practiquen en él las demás notificaciones personales previstas por la ley. En caso de no cumplir con este requisito todas las notificaciones quedarán hechas por medio de lista al tenor de los artículos 78 y 87.
+La apelación debe interponerse ante el juez que pronunció la sentencia o auto, por escrito, dentro de nueve días, si la sentencia fuere definitiva o dentro de seis si fuere auto o interlocutoria.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
+En el escrito el apelante expresará los agravios que en su concepto le cause la resolución recurrida, expresando con relación a cada agravio, cual es la parte que lo causa, citando el precepto o preceptos legales violados y explicando el concepto por el cual lo fueron; y señalará domicilio para recibir notificaciones en la capital del Estado, para que se le hagan las notificaciones personales previstas por la ley.
+
+El juez, en el auto que pronuncie al escrito de interposición del recurso, expresará si lo admite en ambos efectos o en un solo efecto, dando vista a la contraria para que en el término de tres días conteste lo que a su derecho convenga y señale domicilio para recibir notificaciones en la capital del Estado, para que se le hagan las notificaciones personales previstas por la ley; ordenará se asiente constancia en autos de la interposición del recurso y de la remisión del testimonio de apelación correspondiente al Supremo Tribunal de Justicia, dentro de un plazo de tres días, si fueren autos originales y de cinco si fuere testimonio de apelación.
+
+Será causa de responsabilidad la falta de envío oportuno al Supremo Tribunal de Justicia, de los autos originales o testimonio de apelación respectivo para la substanciación del recurso.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 705.
 
-La parte que obtuvo puede adherirse a la apelación interpuesta al notificársele su admisión, o dentro de las veinticuatro horas siguientes, a la notificación; en este caso, la adhesión al recurso sigue la suerte de éste. La parte que se adhiere, señalará domicilio en la capital del Estado, al hacer valer este derecho, para los efectos indicados en el artículo 704, aplicándose las mismas reglas si omite este requisito.
+Al recibirse en la Sala los autos originales o el testimonio de apelación, en su caso, se notificará personalmente a las partes la llegada de autos, para que dentro de los dos días siguientes a la notificación, de considerarlo conveniente, hagan uso del derecho que les confiere el artículo 217 de este Código.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1997)</small>
+Transcurrido el término, no habiendo hecho uso del derecho, dentro de los tres días siguientes dictará auto en el que decidirá sobre la admisión del recurso, la calificación del grado y la oportuna expresión de agravios y su contestación hechas por y ante el juez, citando en su caso a las partes para oír sentencia, misma que se pronunciará dentro del plazo de diez días si fuere definitiva o de cinco si fuere interlocutoria, contados a partir de la citación para sentencia. Sólo cuando hubiere necesidad de que el magistrado examine documentos voluminosos, podrá disfrutar de ocho días más para pronunciar resolución.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 706.
 
-Interpuesta la apelación en tiempo hábil, y una vez aportadas por el apelante las constancias que deben integrar el testimonio, el juez la admitirá sin substanciación alguna, si procede legalmente. Si así conviniere a sus intereses, la apelada señalará ante el juez, domicilio para oír notificaciones en la capital del Estado, dentro de las cuarenta y ocho horas siguientes a su admisión, apercibida de que, de no hacerlo, todas las notificaciones quedarán hechas por medio de lista, conforme a lo previsto por los artículos 78 y 87; pero si se está en el caso del artículo 86, se observarán las reglas de este precepto.
+Si se declara inadmisible la apelación, se devolverán los autos originales o el testimonio de apelación al juez, para que ejecute la resolución o continúe el procedimiento en su caso; revocada la calificación, se procederá en consecuencia.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 707.
 
-Admitida la apelación en ambos efectos, el juez después de transcurrir cuarenta y ocho horas, remitirá los autos al Supremo Tribunal de Justicia, para que sean turnados a la sala que corresponda.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+La revisión de las sentencias recaídas en los juicios sobre rectificación de actas del estado civil y sobre nulidad de matrimonio por las causas expresadas en los artículos 199, 200, 203, 207 a 209 del Código Civil, abre de oficio la segunda instancia, con intervención del Ministerio Público, independiente al recurso de apelación que pudiera interponer quien tenga derecho, para el efecto de que la Sala examine la legalidad de la sentencia de primera instancia, quedando entre tanto sin ejecutarse aquella.
 
 ###### Artículo 708.
 
-Si la apelación se ha admitido sólo en el efecto devolutivo, se observará lo dispuesto en el artículo 730.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 709.
 
@@ -5417,117 +5467,77 @@ Si la apelación se ha admitido sólo en el efecto devolutivo, se observará lo 
 
 (DEROGADO, P.O. 15 DE JUNIO DE 1981)
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
-
 ###### Artículo 712.
 
-Si el tribunal reside en un lugar distinto de aquel en que se pronunció la sentencia, a los cinco días señalados en el artículo anterior se agregará uno por cada veinte kilómetros de distancia. Si hubiere una fracción que exceda de la mitad, de la distancia indicada, se concederá un día más.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 713.
 
-Cuando se haya admitido la apelación sólo en el efecto devolutivo, y se crea procedente en ambos, el apelante, al ser notificado de que los autos o el testimonio han llegado a la sala respectiva o dentro de los dos días siguientes, promoverá la resolución de este incidente.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 714.
 
-De la solicitud en que este incidente se promueva, se correrá traslado por tres días al colitigante, y pasado este término, se citará para resolución que se pronunciará dentro de otros tres días. Si se declarare admisible el recurso en ambos efectos, se prevendrá al juez de los autos que los remita originales, si no hubieren sido remitidos en virtud de lo expuesto en el artículo 730.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 715.
 
-Si el que obtuvo resolución favorable quiere impugnar la admisión del recurso, porque no lo considera procedente o porque habiéndose concedido en ambos efectos sostenga que solamente deba admitirse en el devolutivo, puede hacerlo dentro de los dos días siguientes al de la notificación del auto en que se haga saber a las partes la llegada de los autos o la presentación del testimonio en su respectivo caso. Este incidente se substanciará en los mismos términos que el anterior.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 716.
 
-Si se declara que la apelación es procedente tal como fue admitida, se impondrá al que promovió el artículo, una multa de diez a veinticinco días de salario mínimo general vigente en el Estado, siguiendo su curso la segunda instancia.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 717.
 
-Notificadas las partes de haberse recibido los autos o el testimonio, y resueltos los incidentes de impugnación del recurso que se hubieren promovido, el apelante expondrá en el término de seis días los agravios que en su concepto le cause la resolución recurrida, expresando con relación a cada agravio, cuál es la parte que lo causa, citando el precepto o preceptos legales violados y explicando el concepto por el cual lo fueron.
-
-Si no se formularen los agravios dentro del término se declarará desierto el recurso.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 718.
 
-Del escrito de expresión de agravios se correrá traslado a la parte contraria por el término de seis días.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 719.
 
-Sólo en la apelación de sentencia se admitirán las pruebas que hubieren sido ofrecidas en primera instancia y no se hubieran podido rendir, a cuyo efecto la (sic) partes deben ofrecerlas precisamente en el escrito de expresión de agravios y en el de contestación.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 720.
 
-El tribunal mandará abrir el juicio a prueba dentro del tercer día de contestados los agravios o de que haya vencido el término correspondiente.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 721.
 
-El término de prueba en la apelación será de veinte días si se trata de sentencia definitiva y de diez días si fuere interlocutoria. El extraordinario será el mismo que fija el artículo 396.
-
-En ninguna apelación se concederá término supletorio de prueba.
-
-(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (F. DE E., P.O. 25 DE FEBRERO DE 1965)
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 722.
 
-En la segunda instancia podrá admitirse la prueba documental en los términos del artículo 387, siempre que se haya ofrecido en tiempo legal.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 723.
 
-Si en la primera instancia se hubiere omitido interrogar un testigo presentado legalmente, podrá ser interrogado en la segunda instancia.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 724.
 
-Lo dispuesto en el artículo anterior se observará también cuando en la primera instancia se haya omitido examinar a un testigo sobre algún punto de los comprendidos en el interrogatorio.
-
-(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (F. DE E., P.O. 25 DE FEBRERO DE 1965)
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 725.
 
-En la segunda instancia no se admitirán excepciones supervenientes.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 726.
 
-Si se opusieren tachas, se observará lo dispuesto en el capítulo respectivo.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 727.
 
-Si transcurrido el término para contestar los agravios no se concediere prueba, se citará de oficio para sentencia, la que se pronunciará dentro de diez días si se tratare de sentencia definitiva o de cinco días en cualquier otro caso.
-
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1968)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 728.
 
-En su caso, concluida la dilación probatoria, se concederá a las partes el término común de cinco días para alegar, y una vez transcurrido, se procederá conforme a la regla del artículo anterior.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 729.
 
-La revisión de las sentencias recaídas en los juicios sobre rectificación de actas del estado civil y sobre nulidad de matrimonio por las causas expresadas en los artículos 199, 200, 203, 207 a 209 del Código Civil, abre de oficio la segunda instancia, con intervención del Ministerio Público y aunque las partes no expresaren agravios ni promovieren pruebas, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando entre tanto sin ejecutarse aquélla.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5563,11 +5573,11 @@ Recibidas las actuaciones en el Supremo Tribunal de Justicia, se turnarán a la 
 
 La falta de informe con justificación, se sancionará con multa de veinticinco a treinta y cinco días de salario mínimo general vigente en el Estado.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 733.
 
-Si la queja no está apoyada en hecho cierto o no estuviere fundada en derecho o hubiere recurso ordinario contra la resolución reclamada, será desechada por la Sala, imponiendo a la parte quejosa y a su abogado solidariamente, una multa de veinticinco a treinta y cinco días de salario mínimo general vigente en el Estado.
+Si la queja no está apoyada en hecho cierto o no estuviere fundada en derecho o hubiere recurso ordinario contra la resolución reclamada, será desechada por la Sala, imponiendo a la parte quejosa y a su abogado solidariamente, una multa de cincuenta a cien días de salario mínimo general vigente en el Estado.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5653,11 +5663,11 @@ En ningún caso la sentencia pronunciada en el juicio de responsabilidad civil a
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 744.
 
-Se tendrán por abandonadas las instancias y caducarán de derecho, si no se promueve su curso por cualquiera de las partes durante trescientos días naturales.
+Se tendrán por abandonadas las instancias y caducarán en derecho, si no se promueve su curso por cualquiera de las partes durante ciento veinte días naturales.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5673,11 +5683,11 @@ No procederá la caducidad de la instancia por el transcurso del término señal
 
 En estos casos se contará dicho término desde que los litigantes hubieren podido instar el curso de los autos.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 747.
 
-La caducidad de la instancia podrá declararse de oficio o a pedimento de parte legítima.
+La caducidad de la instancia es de orden público, irrenunciable y no puede ser materia de convenios entre las partes; operará de pleno derecho y podrá declararse de oficio o a pedimento de parte legítima.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
 
@@ -9479,31 +9489,17 @@ Los tutores o curadores no pueden ser removidos de plano, aun cuando sea a solic
 
 ### CAPITULO III. De la emancipación
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
-
 ###### Artículo 1254.
 
-El que solicite la emancipación en los casos del artículo 572 del Código Civil, elevará solicitud al juez de su domicilio, acompañando los justificantes de:
-
-I. La edad que tenga el menor;
-
-II. Estar el menor en aptitud para el manejo de sus intereses;
-
-III. Observar el incapacitado buena conducta.
-
-Los hechos a que se refieren las dos últimas fracciones podrán acreditarse con información testimonial.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 1255.
 
-El juez oirá en forma de incidente al padre o tutor y al Ministerio Público, y sin más trámite, dictará resolución en la que autorice o niegue la emancipación. De este último auto no cabe recurso alguno, y el que la conceda será apelable en ambos efectos.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 1256.
 
-Las actas en que conste la emancipación, se remitirán en copia certificada al juez del Estado Civil para que las registre.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -9931,9 +9927,9 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 La venta de bienes indivisos pertenecientes a mayores y menores de edad, se hará con sujeción a este capítulo, teniendo en cuenta lo dispuesto por el artículo 501 del Código Civil.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
-### CAPITULO IX. De las informaciones ad-perpetuam
+### CAPITULO IX. De las informaciones ad perpetuam
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -9949,13 +9945,9 @@ III. Cuando se trate de comprobar la posesión de un derecho real.
 
 En los casos de las tres fracciones anteriores, las informaciones se recibirán siempre con citación del Ministerio Público, y en tratándose de la segunda fracción, con citación además del Representante del Fisco del Estado. En el caso de la tercera, con la del propietario y demás interesados. El Ministerio Público, el Fisco del Estado y las personas con cuya citación se reciba la información en su caso, pueden oponerse a ella, tachar a los testigos por circunstancias que afecten su dicho y redargiiir (sic) los documentos exhibidos.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
-
 ###### Artículo 1314.
 
-Si la información fuere de testigos, deberán ser conocidos del juez o del secretario, y en caso de no serlo, deberán presentarse dos que abonen a cada uno de los presentados.
-
-Podrá usarse también de otros medios de prueba conducentes.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2004)
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -9981,7 +9973,9 @@ No tendrá valor alguno la información cuando se hubiere recibido habiendo juic
 
 El propietario que se encuentre en el caso del artículo 2849 del Código Civil, justificará su posesión con cinco testigos de notorio arraigo en el lugar donde esté situado el inmueble que se trate de titular, pudiendo el juez, en caso de duda, exigir las pruebas que estime convenientes.
 
-La información se recibirá con citación de la persona de quien se haya adquirido la posesión, o de sus herederos, si aquélla o éstos fueren conocidos del registrador de la propiedad, de los colindantes y del Ministerio Público.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
+
+La información se recibirá con citación de la persona de quien se haya adquirido la posesión, o de sus herederos, si aquélla o éstos fueren conocidos; del Ministerio Público, del representante del fisco del Estado, del registrador de la propiedad y de los colindantes.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -10005,7 +9999,13 @@ II. El mismo promovente exhibirá con la solicitud, los documentos siguientes:
 
 a). Certificado por el que se haga constar la historia de la cuenta catastral del inmueble objeto de la información y con referencia al antecedente más antiguo que exista en el archivo de la Oficina de rentas respectiva;
 
-b). Certificado de que en el Registro Público de la Propiedad no se inscribe el inmueble objeto de la información a ninguna de las personas que figuren en el certificado de que habla el inciso inmediato anterior;
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
+
+b). Certificado de que en el Registro Público de la Propiedad no se inscribe el inmueble objeto de la información a ninguna de las personas que figuren en el certificado de que habla el inciso inmediato anterior; y,
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
+
+c) Certificado en el que se haga constar que el inmueble materia de la información no es de propiedad ejidal o comunal, tratándose de inmuebles rústicos, expedido por la autoridad agraria competente.
 
 Los certificados anteriores deberán insertarse en el testimonio o copia certificada de la información aprobada a fin de inscribirse en el Registro Público de la Propiedad Raíz y si falta este requisitos, el Registrador se abstendrá de hacer la inscripción.
 
@@ -10169,11 +10169,11 @@ Si no hubiere acuerdo, el juez se abstendrá de hacer declaración alguna en cua
 
 El que trate de reconocer a un hijo natural por el medio establecido en la fracción V del artículo 325 del Código Civil, ocurrirá al juez de primera instancia de su domicilio, quien citará a los interesados a una junta, en la cual el promovente hará la confesión directa y expresa de la paternidad o maternidad. Si el hijo mayor de catorce años o el tutor, en su caso, estuvieren conformes, el juez dará por hecho el reconocimiento.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 1337.
 
-De las diligencias a que se refiere el artículo anterior se levantará el acta correspondiente, la que se archivará después de remitirse testimonio de ella al encargado del Registro Civil, para los efectos del artículo 79 del Código Civil.
+De las diligencias a que se refiere el artículo anterior se levantará el acta correspondiente, la que se archivará después de remitirse testimonio de ella al Oficial del Registro Civil, para los efectos del artículo 79 del Código Civil.
 
 ###### Artículo 1338.
 
@@ -10764,3 +10764,13 @@ Artículo Tercero.- Los procedimientos que sobre adopción se encuentren en trá
 Artículo Cuarto.- Las adopciones realizadas con anterioridad a la entrada en vigor del presente decreto, podrán convertirse en plenas, siguiendo el procedimiento establecido por este decreto.
 
 Artículo Quinto.- El Sistema para el Desarrollo Integral de la Familia Michoacana, expedirá el Reglamento Interno del Consejo Técnico de Adopción, en un término que no excederá de treinta días contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 22 DE SEPTIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos civiles que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, continuarán substanciándose conforme a las disposiciones legales aplicables al momento de su inicio.
