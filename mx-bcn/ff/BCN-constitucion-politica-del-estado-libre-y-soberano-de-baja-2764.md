@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1986-02-10"
+last_updated: "1986-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 1986.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 1986.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -171,17 +171,27 @@ La Ley determinará las fórmulas electorales y los procedimientos que se observ
 
 Los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 17.
 
-Para ser electo diputado propietario o suplente, se requiere:
+Para ser electo Diputado Propietario o Suplente, se requiere:
 
-I.- Ser ciudadano mexicano, por nacimiento, en ejercicio de sus derechos.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+
+I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos e hijo de padres mexicanos por nacimiento.
+
+Aquellos ciudadanos candidatos a Diputados Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con Certificado que expida en su caso, la Secretaría de Relaciones Exteriores del Gobierno Federal, fechado con anterioridad al día en que cumplan 21 años de edad.
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1979)</small>
 
 II.- Tener 21 años cumplidos el día de la elección; y
 
-III.- Ser nativo del Estado con residencia no menor de dos años en el Distrito por el que sea postulado, o vecino del mismo Distrito o población cuando en ella haya dos o más Distritos, por lo menos durante cuatro años anteriores a la elección.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+
+III.- Tener arraigo o vecindad en el Distrito por el que se ha postulado o en la población cuando en ella haya dos o más Distritos, de por lo menos quince años inmediatos anteriores al día de la elección.
+
+El término de arraigo y vecindad no se interrumpe cuando en el ejercicio de un cargo público, se deba residir fuera del Territorio del Estado.
 
 ###### ARTICULO 18.
 
@@ -303,7 +313,7 @@ XXIII.- Dirimir los conflictos que surjan entre el Poder Ejecutivo y los Ayuntam
 
 XXIV.- Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito, en los términos del Artículo 94 de esta Constitución.
 
-Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el Artículo 93 de esta Constitución y fungir, a través de una Comisión de su seno, como órgano de acusación en los juicios políticos que contra éstos se instauren;
+Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el Artículo 93 de esta Constitución y fungir, a través de una Comisión de su seno, como órgano de acusación en los juicios políticos que contra éstos se instauren.
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -319,11 +329,11 @@ XXIX.- Conceder pensiones a los familiares de quienes hayan prestado servicios e
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
-XXX.- Designar entre los vecinos, a propuesta del Gobernador del Estado, los Concejos Municipales en los términos de esta Constitución y las Leyes respectivas;
+XXX.- Designar entre los vecinos, a propuesta del Gobernador del Estado, los Concejos Municipales en los términos de esta Constitución y las Leyes respectivas.
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 1984)</small>
 
-XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Municipios, las Dependencias paraestatales y paramunicipales y sus trabajadores, con base en lo dispuesto en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
+XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Municipios, las Dependencias paraestatales y paramunicipales y sus trabajadores, con base en lo dispuesto en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -447,11 +457,19 @@ El Gobernador del Estado conducirá la Administración Pública Estatal, que ser
 
 Para ser Gobernador del Estado se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento y decendiente (sic) de padres mexicanos por nacimiento;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+
+I.- Ser ciudadano mexicano por nacimiento e hijo de padres mexicanos por nacimiento.
+
+Aquellos ciudadanos candidatos a Gobernador del Estado, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con el Certificado que expida en su caso, la Secretaría de Relaciones Exteriores del Gobierno Federal, fechado con anterioridad al día en que cumplan 21 años de edad.
 
 II.- Tener 35 años cumplidos el día de la elección;
 
-III.- Ser nativo del Estado con residencia no menor de dos años o vecino de él durante cinco años anteriores a la elección;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+
+III.- Tener arraigo o vecindad en el Estado no menos de 20 años inmediatos anteriores al día de la elección.
+
+El término de arraigo y vecindad no se interrumpe cuando en el ejercicio de un cargo público, se deba residir fuera del Territorio del Estado.
 
 IV.- No pertenecer al estado eclesiástico, ni ser ministro de algún culto;
 
@@ -743,7 +761,7 @@ Los Ayuntamientos se compondrán de Munícipes electos por votación popular dir
 
 Los Ayuntamientos estarán formados por un Presidente Municipal y los demás Munícipes que determine la Ley, los que tendrán sus respectivos suplentes.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1986)</small>
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1986)</small>
 
 Los Ayuntamientos de cada uno de los Municipios se integrarán con Regidores electos según el principio de votación mayoritaria relativa en el número que fije la Ley, y hasta con tres Regidores electos según el principio de representación proporcional. Las asignaciones de Regidores electos según el principio de representación proporcional en favor de los Partidos Políticos, se sujetarán a las bases generales siguientes y a lo que en lo particular disponga la Ley:
 
@@ -761,17 +779,23 @@ VI.- Al Partido que satisfaga los requisitos señalados en las Fracciones III y 
 
 La Ley establecerá lo relativo al proceso para la elección de los Ayuntamientos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 79.
 
-Para ser miembro de un Ayuntamiento, con la salvedad de que el Presidente Municipal debe tener 25 años de edad el día de la elección, se requiere:
+Para ser miembro de un Ayuntamiento, con la salvedad de que el Presidente Municipal debe tener 25 años cumplidos el día de la elección, se requiere:
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
-I.- Ser ciudadano mexicano por nacimiento.
+I.- Ser ciudadano mexicano por nacimiento, hijo de padres mexicanos por nacimiento.
 
-II.- Ser nativo del Estado, con residencia no menor de dos años en el Municipio, o vecino de él por más de tres años.
+Aquellos ciudadanos candidatos a Munícipes Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con el Certificado que expida en su caso, la Secretaría de Relaciones Exteriores del Gobierno Federal, fechado con anterioridad al día en que cumplan 21 años de edad.
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+
+II.- Tener arraigo o vecindad en el Municipio no menor de quince años inmediatos anteriores al día de la elección.
+
+El término de arraigo y vecindad no se interrumpe cuando en el ejercicio de un cargo público, se deba residir fuera del territorio del Estado.
 
 III.- No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
@@ -797,7 +821,7 @@ a).- Agua Potable y Alcantarillado.
 
 b).- Alumbrado Público.
 
-c).- Limpia.
+c).- Limpia
 
 d).- Mercados y Centrales de Abasto.
 
@@ -995,7 +1019,7 @@ Las relaciones entre el Estado y sus servidores estarán reguladas por Ley del S
 
 I.- Los trabajadores del Estado que sean de base, no podrán ser cesados sino por causa de incompetencia, mala conducta o de responsabilidad;
 
-II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigiiedad (sic) y antecedentes en el servicio;
+II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigiiedad y antecedentes en el servicio;
 
 III.- Serán preferidos en los empleos del Estado, en igualdad de circunstancias, las personas más necesitadas económicamente;
 
@@ -1300,3 +1324,13 @@ P.O. 10 DE FEBRERO DE 1986.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 1986.
+
+###### ARTICULO PRIMERO.
+
+Los mexicanos por nacimiento descendientes de padres mexicanos por nacimiento, nacidos en el extranjero y que a la fecha de la publicación del presente Decreto en el Periódico Oficial, Organo del Gobierno del Estado, hayan cumplido 20 años o más, se les concede un término de un año a partir de esta misma fecha para que obtengan su Certificado de Nacionalidad Mexicana.
+
+###### ARTICULO SEGUNDO.
+
+Las reformas a que se refiere el presente Decreto, entran en vigor una vez cumplido el procedimiento establecido en el Artículo 112, de la Constitución Política del Estado, y al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
