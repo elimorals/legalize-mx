@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-readaptacion-juvenil-6232"
 country: "mx"
 rank: "ley"
 publication_date: "1958-08-09"
-last_updated: "1969-09-06"
+last_updated: "1970-01-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE READAPTACION JUVENIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL. 6 DE SEPTIEMBRE DE 1969.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1970.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 9 de agosto de 1958.
 
@@ -83,7 +83,9 @@ III.- Las dependencias del Patronato de la Asistencia Social en el Estado y los 
 
 El Consejo Paternal en la capital del Estado se integrará con un abogado que posea adiestramiento en problemas de psicología de la adolescencia, el cual fungirá como presidente del mismo, auxiliado por un médico psiquiatra, un maestro especializado en paidología y un secretario.
 
-En los Municipios cabecera de partido judicial el Consejo Paternal se integrará con la persona que desempeñe el cargo de Presidente de la Junta Municipal de Mejoramiento Moral, Cívico y Material; el Director o Directora de la escuela primaria, según el sexo del infractor y el Médico Municipal. El propio Consejo podrá determinar si el menor debe ser recluído en la Granja Industrial Juvenil de Recuperación o si debe continuar y bajo qué condiciones, en el lugar de su residencia.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1970)</small>
+
+En los Municipios Cabecera de Partido Judicial Y EN AQUELLOS QUE CUENTEN CON MAS DE DIEZ MIL HABITANTES SEGUN EL ULTIMO CENSO DE POBLACION, el Consejo Paternal se integrará con la persona que desempeñe el cargo de Presidente de la Junta Municipal de Mejoramiento Moral, Cívico y Material; el Director o Directora de la escuela Primaria, según el sexo del infractor y el Médico Municipal. El propio Consejo podrá determinar si el menor debe ser recluído en la Granja Industrial Juvenil de Recuperación o si debe continuar y bajo qué condiciones en el lugar de su residencia.
 
 ###### Artículo 8o.
 
@@ -428,3 +430,7 @@ Lic. Alfonso de Alba.
 P.O. 6 DE SEPTIEMBRE DE 1969.
 
 UNICO.- Esta Ley empezará a surtir sus efectos a los 3 días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 1 DE ENERO DE 1970.
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
