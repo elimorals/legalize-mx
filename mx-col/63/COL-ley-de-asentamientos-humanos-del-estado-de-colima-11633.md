@@ -4,7 +4,7 @@ identifier: "COL-ley-de-asentamientos-humanos-del-estado-de-colima-11633"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-07"
-last_updated: "2004-01-24"
+last_updated: "2004-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 1994.
 
@@ -2731,7 +2731,7 @@ a) El polígono con el cuadro de construcción respectivo y la superficie total 
 
 b) Graficación de las curvas de nivel, máximo a cada metro; y
 
-Levantamiento de la vegetación significativa y existente, indicando especies y su tamaño, áreas de restricción a infraestructura e instalaciones especiales, en su caso; cuerpos de agua, escurrimientos y otros elementos naturales significativos, así como su ubicación referida a las urbanizadas, en su caso;
+Levantamiento de la vegetación significativa existente, indicando especies y su tamaño, áreas de restricción a infraestructura e instalaciones especiales, en su caso; cuerpos de agua, escurrimientos y otros elementos naturales significativos, así como su ubicación referida a las urbanizadas, en su caso;
 
 V. Plano de conjunto que contenga el proyecto especificando los usos y destinos de cada predio, indicando la propuesta de las áreas de cesión para destinos, así como la integración con las áreas urbanizadas;
 
@@ -2797,7 +2797,7 @@ VII. En su caso, el dictamen técnico expedido por la Comisión Nacional del Agu
 
 VIII.- La versión abreviada del proyecto de Programa Parcial de Urbanización para los efectos de su publicación, misma que contendrá:
 
-a) La localización;
+a). La localización;
 
 b) Los objetivos generales y específicos;
 
@@ -2851,7 +2851,7 @@ Cuando el Ayuntamiento no cuente con la Comisión Municipal y se requiera la opi
 
 ###### ARTICULO 280.
 
-Tan pronto la Comisión Municipal reciba el expediente respectivo, se convocara a reunión para emitir la resolución, la que se celebrara dentro de las siguientes tres semanas, debiendo su presidente proporcionar a cada uno de los integrantes, cuando menos una semana de anticipación, copia de los proyectos para su revisión. De no llevarse a cabo la reunión en el término previsto, se convocara a otra reunión extraordinaria a celebrarse dentro de la siguiente semana, en la cual la Comisión Municipal deberá emitir su opinión.
+Tan pronto la Comisión Municipal reciba el expediente respectivo, se convocara a reunión para emitir la resolución, la que se celebrara dentro de las siguientes tres semanas, debiendo su presidente proporcionar a cada uno de los integrantes, cuando menos una semana de anticipación, copia de los proyectos para su revisión. De no llevarse a cabo la reunión en el termino previsto, se convocara a otra reunión extraordinaria a celebrarse dentro de la siguiente semana, en la cual la Comisión Municipal deberá emitir su opinión.
 
 ###### ARTICULO 281.
 
@@ -2866,8 +2866,6 @@ Una vez formulado y presentado el proyecto de Programa Parcial de Urbanización 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2004)</small>
 
 El acuerdo del Ayuntamiento mediante el cual se apruebe el Programa parcial de urbanización y su nomenclatura deberá ser notificado al urbanizador.
-
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 283.
 
@@ -2919,7 +2917,7 @@ f) Proyecto de ubicación de contenedores para depósito de desechos sólidos y 
 
 > <small>(REFORMADO, P. O. 24 DE ENERO DE 2004)</small>
 
-g) Rasantes de los ejes de trazo.
+g) Rasantes de los ejes de trazo;
 
 III. Plano de lotificación que contenga:
 
@@ -2929,7 +2927,7 @@ b) Las áreas de cesión para destinos;
 
 c) Medidas de los linderos de los lotes y superficies de cada uno de ellos incluyendo los de cesión, y
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 2004)</small>
 
 IV.- Memoria de cálculo y plano de la red de agua potable, autorizado por la dependencia correspondiente, en el que se indique:
 
@@ -2939,7 +2937,7 @@ b) Tipo de material, diámetro y longitud de tuberías, y
 
 c) Cota de plantilla, cota piezométrica y carga disponible en los cruceros;
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 2004)</small>
 
 V.- Memoria de cálculo y plano de la red de drenaje de aguas residuales y pluviales, autorizado por la dependencia correspondiente en el que se indique:
 
@@ -2951,7 +2949,7 @@ c) Cota de plantilla y cota de terreno en los cruceros y cambios de direcciones,
 
 d) En su caso, localización y diseño de la planta de tratamiento y cárcamos de bombeo;
 
-> <small>(REFORMADA, P. O. 24 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRADO, P. O. 24 DE ENERO DE 2004)</small>
 
 VI.- Memoria de cálculo y plano de electrificación y alumbrado público, autorizado por la dependencia correspondiente, en el que se indique:
 
@@ -2977,7 +2975,7 @@ X. En su caso, la documentación complementaria consistente en:
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2004)</small>
 
-a) La autorización de las dependencias y organismos federales, o sus concesionarios, que operen los diferentes servicios públicos,
+a) La autorización de las dependencias y organismos federales, o sus concesionarios, que operen los diferentes servicios públicos;
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2004)</small>
 
@@ -3134,8 +3132,6 @@ II. La designación del perito o director responsable para la ejecución de las 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
 
 III. El documento que acredite el pago del derecho correspondiente de conformidad a la Ley de Ingresos Municipal.
-
-Recibida la solicitud por la Dependencia Municipal, procederá a expedir de inmediato la licencia o permiso de urbanización.
 
 ###### ARTICULO 303.
 
@@ -3331,7 +3327,7 @@ Para el caso de las promociones de vivienda que cuenten con autorización munici
 
 a) Copia de la autorización del Programa Parcial respectivo;
 
-b) Copia del plano de las etapas de urbanización autorizadas. La aprobación, en su caso, de las modificaciones a las etapas de urbanización propuestas por el promovente, deberá emitirla la Dependencia Municipal en un plazo no mayor a dos semanas a partir de la presentación de la solicitud. En este último caso, se acompañara a la solicitud de incorporación municipal, la copia del plano de etapas de urbanización aprobado finalmente por la Dependencia Municipal;
+b) Copia del plano de las etapas de urbanización autorizadas. La aprobación, en su caso, de las modificaciones a las etapas de urbanización propuestas por el promovente, deberá emitirla la Dependencia Municipal en un plazo no mayor a dos semanas a partir de la presentación de la solicitud. En este ultimo caso, se acompañara a la solicitud de incorporación municipal, la copia del plano de etapas de urbanización aprobado finalmente por la Dependencia Municipal;
 
 c) Relación de lotes o fincas que se pretenden incorporar;
 
@@ -3349,17 +3345,25 @@ El dictamen técnico correspondiente será expedido por el Ayuntamiento, debién
 
 En el caso de que el dictamen técnico no apruebe la totalidad de las obras de urbanización, el urbanizador o promovente deberá corregir a su costa, las anomalías que se desprendan de dicho dictamen, para que posteriormente solicite ante el Ayuntamiento el dictamen definitivo.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 330.
 
-Para el caso de las promociones de vivienda, la incorporación municipal de la urbanización o etapas solicitadas, surtirá efecto solamente mediante la autorización, por parte de la Dependencia Municipal, del dictamen correspondiente, la cual se dará con base en la aprobación otorgada previamente por el Cabildo al Programa Parcial de Urbanización, de acuerdo con el artículo 282 de esta Ley.
+Para el caso de las promociones de vivienda, la incorporación municipal de la urbanización o etapas solicitadas, surtirá efecto solamente mediante el Acuerdo que emita el Cabildo respecto del dictamen correspondiente que le someta a su consideración la Dependencia Municipal.
 
-Autorizada la incorporación, la Dependencia Municipal, dentro de las 48 horas siguientes, entrará mediante oficio al Registro Público de la Propiedad y del Comercio con el fin de que procedan los traslados de dominio, así como a la autoridad catastral correspondiente para que proceda el reavalúo de la zona, en los términos de la legislación catastral.
+La Dependencia Municipal emitirá el dictamen aludido en el párrafo anterior, dentro de los 10 días hábiles siguientes a la presentación de la solicitud hecha por el promotor y se dará con base en la aprobación otorgada previamente por el Cabildo al Programa Parcial de Urbanización, de acuerdo con el artículo 282 de esta Ley.
 
-Dentro de las 48 horas posteriores a la autorización del dictamen, el Ayuntamiento tramitará su publicación en el Periódico Oficial “El Estado de Colima”, cuyo costo deberá ser cubierto por el promotor. El plazo para este trámite no excederá de 15 días hábiles.
+El Cabildo emitirá el Acuerdo que corresponda dentro de los 20 días hábiles siguientes a aquel en que la Dependencia Municipal le haya presentado el dictamen.
 
-Si pasado el plazo a que se refiere el párrafo segundo de este artículo, la Dependencia Municipal no entera al Registro Público de la Propiedad y del Comercio y al Catastro de la incorporación municipal, el promovente podrá acudir directamente y con los mismos efectos a dichas dependencias, a fin de enterarlas y para que procedan a realizar los traslados de dominio y reavalúos de la zona. En dicho caso, ambas dependencias harán saber al Ayuntamiento la negligencia de la Dependencia Municipal, así como que han procedido a dar cumplimiento a al solicitud del promovente.
+Si la Dependencia Municipal no emite el dictamen dentro del plazo establecido en el presente artículo, se le dará por única vez un término improrrogable de 5 días hábiles, para que lo emita y, en caso de persistir en su omisión, se procederá a la destitución del titular de dicha Dependencia por parte del Cabildo, la cual se le notificará personalmente dentro de los 6 días hábiles siguientes al acuerdo de destitución.
+
+Autorizada la incorporación, la Dependencia Municipal, dentro de las 48 horas siguientes, enterará mediante oficio al Registro Público de la Propiedad y del Comercio con el fin de que procedan los traslados de dominio, así como a la autoridad catastral correspondiente para que proceda el reavalúo de la zona, en los términos de la legislación catastral.
+
+En caso de que el Cabildo no emita el Acuerdo que corresponda dentro del plazo establecido en el presente artículo, se procederá en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos.
+
+Dentro de las 48 horas posteriores a la emisión del Acuerdo, el Ayuntamiento tramitará su publicación en el Periódico Oficial "El Estado de Colima", cuyo costo deberá ser cubierto por el promotor.
+
+Si pasado el plazo a que se refiere el párrafo anterior, la Dependencia Municipal no entera al Registro Público de la Propiedad y del Comercio y al Catastro de la incorporación municipal, el promovente podrá acudir directamente y con los mismos efectos a dichas dependencias, a fin de enterarlas y para que procedan a realizar los traslados de dominio y reavalúos de la zona. En dicho caso, ambas dependencias harán saber al Ayuntamiento la negligencia de la Dependencia Municipal, así como que han procedido a dar cumplimiento a la solicitud del promovente.
 
 ###### ARTICULO 331.
 
@@ -3431,7 +3435,7 @@ III. Que se haya constituido la garantía a fin de reponer o corregir las obras 
 
 IV. Que se hayan pagado o garantizado las obligaciones que establezcan a su cargo las leyes hacendarias.
 
-V.- (DEROGADA, P.O. 24 DE ENERO DE 2004)
+V.- (DEROGADA P.O. 24 DE ENERO DE 2004)
 
 ###### ARTICULO 335.
 
@@ -3529,7 +3533,7 @@ De acuerdo a lo dispuesto en el artículo anterior, sólo el Ayuntamiento será 
 
 El urbanizador o promovente podrá solicitar al Ayuntamiento la municipalización de una urbanización, cuando:
 
-I.- Esté acordada la incorporación municipal;
+I.- Este acordada la incorporación municipal;
 
 II.- Se esté pagando el impuesto predial en forma individual por lote o fincas; y
 
@@ -4312,3 +4316,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 24 DE ENERO DE 2004.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima.
+
+P.O. 4 DE DICIEMBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
