@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-22868"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-18"
-last_updated: "2003-10-01"
+last_updated: "2003-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2003.
 
 Ley publicada de la Segunda a Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
 
@@ -4652,9 +4652,9 @@ D.O.F. 26 DE SEPTIEMBRE DE 2003.
 
 PRIMERO.- El presente decreto entrara en vigor el día de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO.- A partir del 1 de abril de 2004, el arancel ad valorem aplicable a la importacion de los productos comprendidos en las fracciones arancelarias 7304.59.01, 7304.59.02, 7304.59.06, 7304.59.07, 7304.59.08 y 7304.59.10, sera de 3.
+SEGUNDO.- A partir del 1 de abril de 2004, el arancel ad valorem aplicable a la importación de los productos comprendidos en las fracciones arancelarias 7304.59.01, 7304.59.02, 7304.59.06, 7304.59.07, 7304.59.08 y 7304.59.10, será de 3.
 
-TERCERO.- El arancel-cupo que se establece en el articulo 2 del presente Decreto estara vigente hasta el 31 de diciembre de 2003.
+TERCERO.- El arancel-cupo que se establece en el artículo 2 del presente Decreto estará vigente hasta el 31 de diciembre de 2003.
 
 D.O.F. 1 DE OCTUBRE DE 2003.
 
@@ -4663,3 +4663,7 @@ PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el
 SEGUNDO.- El arancel establecido en el artículo único de este Decreto para la fracción arancelaria 0804.30.01, estará vigente hasta el 30 de septiembre de 2004. A partir del 1o. de octubre de 2004, el arancel ad-valorem aplicable para la fracción arancelaria, a que se refiere este párrafo, será de 30% y estará vigente hasta el 30 de septiembre de 2005. A partir del 1o. de octubre de 2005, el arancel ad-valorem aplicable para la fracción arancelaria, a que se refiere este párrafo, será de 25% y estará vigente hasta el 30 de septiembre de 2006. A partir del 1o. de octubre de 2006, el arancel ad-valorem aplicable para la fracción arancelaria, a que se refiere este párrafo, será de 20%.
 
 El arancel establecido en el artículo único de este Decreto para la fracción arancelaria 2008.20.01, estará vigente hasta el 30 de septiembre de 2004. A partir del 1o. de octubre de 2004, el arancel ad-valorem aplicable para la fracción arancelaria, a que se refiere este párrafo, será de 40% y estará vigente hasta el 30 de septiembre de 2005. A partir del 1o. de octubre de 2005, el arancel ad-valorem aplicable para la fracción arancelaria, a que se refiere este párrafo, será de 30% y estará vigente hasta el 30 de septiembre de 2006.A partir del 1o. de octubre de 2006, el arancel ad-valorem aplicable para la fracción arancelaria, a que se refiere este párrafo, será de 20%.
+
+D.O.F. 31 DE DICIEMBRE DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
