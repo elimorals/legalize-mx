@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2003-12-30"
+last_updated: "2004-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ABRIL DE 2004.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -9087,6 +9087,18 @@ Las dependencias, entidades públicas y unidades administrativas formularán su 
 
 Las dependencias, entidades públicas, entes autónomos y municipios que reciban recursos por programas de apoyos federales establecidos en un acuerdo o convenio, para la ejecución de dichos programas, deberán prever en el capítulo de gasto correspondiente el ejercicio de los mismos, informando de ello para la integración de la cuenta pública.
 
+> <small>(ADICIONADO, G.G. 6 DE ABRIL DE 2004)</small>
+
+Los servidores públicos recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión de cualquier naturaleza, que será determinada anualmente en los presupuestos que correspondan y ningún servidor público podrá percibir cantidad mayor a la del superior jerárquico.
+
+> <small>(ADICIONADO, G.G. 6 DE ABRIL DE 2004)</small>
+
+Para determinar las remuneraciones de todo tipo de los servidores públicos municipales, los Ayuntamientos tomarán en cuenta elementos tales como: población, monto presupuestal disponible, costo promedio de vida en el municipio y en la entidad, índice inflacionario, grado de marginalidad municipal, productividad en la prestación de servicios públicos y eficiencia en la recaudación de ingresos.
+
+> <small>(ADICIONADO, G.G. 6 DE ABRIL DE 2004)</small>
+
+La asignación de remuneraciones de todo tipo, se fijará en base a los criterios señalados en este artículo y ningún servidor público estará facultado para establecer percepciones, cualquiera que sea su denominación, de manera discrecional.
+
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO CUARTO. DEL CONTROL, INFORMACION Y EVALUACION DEL GASTO PUBLICO
@@ -9693,6 +9705,10 @@ B) Obras concluidas y su costo.
 
 Los principales resultados de la gestión financiera se deberán publicar periódicamente por la Secretaría y por las tesorerías.
 
+> <small>(ADICIONADO, G.G. 6 DE ABRIL DE 2004)</small>
+
+Los Ayuntamientos al aprobar en forma definitiva su presupuesto de egresos, deberán publicar en la "Gaceta Municipal" de manera clara y entendible, todas y cada una de las partidas que lo integran, las remuneraciones de todo tipo aprobadas para los miembros del ayuntamiento y para los servidores públicos en general, incluyendo mandos medios y superiores de la administración municipal, a más tardar el 25 de febrero del año para el cual habrá de aplicar dicho presupuesto.
+
 ### CAPITULO SEGUNDO. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 352.
@@ -10152,3 +10168,13 @@ OCTAVO.- En tanto se expida el Reglamento a que hace referencia el Título Quint
 > <small>(F. DE E., G.G. 4 DE FEBRERO DE 2004)</small>
 
 NOVENO.- Las cuotas y tarifas relativas a los derechos contenidos en el Capítulo Segundo, Título Tercero del Código Financiero del Estado de México y Municipios que se incluyen en este Decreto, únicamente se actualizarán en primero de julio de 2004, con el factor de actualización establecido en la Ley de Ingresos del Estado de México para el ejercicio fiscal 2004, excepto las tarifas contenidas en el artículo 95, a las cuales no se les aplicará actualización alguna.
+
+G.G. 6 DE ABRIL DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al quinto día de su publicación en la "Gaceta del Gobierno".
+
+TERCERO.- Para el caso del presupuesto de egresos correspondiente al ejercicio fiscal 2004, su publicación en la "Gaceta Municipal" se hará a más tardar el día treinta y uno de julio del presente año.
+
+CUARTO.- En lo subsecuente, las administraciones municipales deberán adecuar sus presupuestos para el ejercicio fiscal correspondiente, conforme a las disposiciones del presente decreto.
