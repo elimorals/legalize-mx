@@ -4,7 +4,7 @@ identifier: "JAL-ley-sobre-el-establecimiento-de-fundos-legales-para-los-38395"
 country: "mx"
 rank: "ley"
 publication_date: "1934-12-20"
-last_updated: "1934-12-20"
+last_updated: "2004-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38395&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY SOBRE EL ESTABLECIMIENTO DE FUNDOS LEGALES PARA LOS CAMPESINOS DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, los días jueves 20 y viernes 21 de diciembre de 1934.
 
@@ -71,7 +71,9 @@ La publicación de la solicitud en el Periódico Oficial hará de notificación 
 
 El Ejecutivo, al dictar su resolución expropiatoria, deberá proceder con arreglo a las siguientes bases:
 
-A.- En toda expropiación se calculará una superficie de seiscientos metros cuadrados para cada jefe de familia comprendido en la resolución presidencial y, además, lo necesario para la construcción de calles con la anchura adecuada, plaza, parque público, edificios de servicios públicos y comunales, escuelas, mercado y campo deportivo, mas el número de hectáreas que se considere pertinente reservar para el aumento de la población.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2004)</small>
+
+A.- En toda expropiación se establecerá una superficie suficiente para la construcción de una vivienda de conformidad con la Ley en Materia Urbana para cada jefe de familia, comprendido en la resolución del Ejecutivo y, además lo necesario para la construcción de calles con las medidas adecuadas así como las áreas suficientes para los servicios públicos básicos como escuela, salud, plaza, instalaciones recreativas y deportivas, y áreas verdes, más el área que se considere pertinente reservar para el aumento de la población.
 
 B.- Los terrenos expropiados deberán tener, en lo posible, una forma regular y estar situados cerca de manantial constante de agua potable y de manera tal que las obras de abastecimiento y de saneamiento, puedan hacerse con el menos costo posible, evitando la cercanía de pantanos y otros sitios insalubres.
 
@@ -83,9 +85,11 @@ Tan luego como se expida la resolución expropiatoria se dará al poblado la pos
 
 La fijación del valor de las mejoras se sustanciará en el juicio que corresponda ante el Juez competente a quien ocurrirá el expropiado; pero la tramitación del juicio en nada podrá estorbar la posesión y disfrute del fundo por parte de los beneficiarios.
 
-###### ARTICULO 9º.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2004)</small>
 
-A la resolución expropiatoria se acompañará el plano del fundo, en el cual se señalarán los lotes numerados y los nombres de los jefes de familia a quienes por suerte haya correspondido cada uno. La resolución, que se publicará en el Periódico Oficial, servirá de título de fundo al poblado y a los beneficiarios, en particular, de títulos de sus lotes, siendo tanto éstos, como el fundo, inalienables. Los lotes serán además indivisibles, pudiéndose transmitir sólo por herencia, con la misma indivisibilidad.
+###### ARTICULO 9°.
+
+A la resolución expropiatoria se acompañará el plano del fundo, en el cual se señalarán los lotes numerados y los nombres de los jefes de familia, a quienes por suerte haya correspondido cada uno. La resolución que se publicará en el Periódico Oficial, servirá de título de fundo al poblado y a los beneficiarios en particular, de títulos de sus lotes.
 
 ###### ARTICULO 10°.
 
@@ -154,3 +158,9 @@ Lic. Sebastián Allende.
 El Srio. Gral. de Gobierno,
 
 Lic. Ignacio Jacobo
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE FEBRERO DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación e el Periódico Oficial "El Estado de Jalisco".
