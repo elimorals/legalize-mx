@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1946-03-16"
+last_updated: "1946-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 1946.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -673,7 +673,9 @@ XXI. (DEROGADA, P.O. 6 DE OCTUBRE DE 1928) (F. DE E., 13 DE NOVIEMBRE DE 1928)
 
 XXII. Nombrar y remover libremente al Procurador de Justicia y Agentes del Ministerio Público.
 
-> <small>N. DE E. POR DECRETO No. 143 PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO DE FECHA 29 DE ENERO DE 1946, SE PRORROGA EL TERMINO QUE ESTABLECE LA PRESENTE FRACCION HASTA EL 30 DE ABRIL DE 1946.</small>
+> <small>N. DE E. SE RESTABLECE POR DECRETO No. 175 DE FECHA 27 DE JUNIO DE 1946, PARA QUEDAR COMO ESTABA EN EL DECRETO No. 82 DE FECHA 5 DE JUNIO DE 1945, AMBOS PUBLICADOS EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO DE SINALOA.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1945)</small>
 
 XXIII. Condonar adeudos fiscales a favor del Estado, únicamente por el resto del presente año de 1945, quedando a su arbitrio fijar el monto de la condonación según estudio que al respecto haga en cada caso; comunicando al H. Congreso del Estado las condonaciones que otorgue.
 
@@ -1634,3 +1636,7 @@ UNICO.- El presente decreto surte sus efectos legales a partir de la fecha de su
 P.O. 16 DE MARZO DE 1946.
 
 Unico.- Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el "Periódico Oficial del Gobierno del Estado".
+
+P.O. 27 DE JUNIO DE 1946.
+
+Unico.- El presente Decreto comenzará a surtir sus efectos legales a partir de la fecha de su publicación, en el Periódico Oficial del Gobierno del Estado.
