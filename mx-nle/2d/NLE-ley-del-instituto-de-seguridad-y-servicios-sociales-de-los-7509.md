@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-7509
 country: "mx"
 rank: "ley"
 publication_date: "1993-10-13"
-last_updated: "1993-10-13"
+last_updated: "1993-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 de octubre de 1993.
 
@@ -39,43 +39,63 @@ LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTA
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, de interés social y de observancia obligatoria en el Estado de Nuevo León, y tiene por objeto el establecimiento de un régimen de seguridad social con el propósito de proteger la salud y el bienestar económico de los servidores públicos y sus beneficiarios.
+La presente Ley tiene por objeto el establecimiento de un régimen de seguridad social con el propósito de proteger la salud y el bienestar económico de los servidores públicos, jubilados, pensionados del Estado de Nuevo León y sus beneficiarios.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
 ###### Artículo 2.
 
-La organización y administración de los seguros y prestaciones que esta Ley establece en favor de los servidores públicos y beneficiarios estará a cargo de un organismo público descentralizado con personalidad jurídica, patrimonio y órganos de gobierno propios, denominado Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, con domicilio en la ciudad de Monterrey, capital del Estado.
+La organización y administración de los seguros y prestaciones que esta Ley establece en favor de los servidores públicos, jubilados, pensionistas y beneficiarios, estará a cargo del organismo público descentralizado denominado Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, cuyas siglas son ISSSTELEON, con personalidad jurídica, patrimonio y órganos de gobierno propios y con domicilio en la ciudad de Monterrey, capital del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
 ###### Artículo 3.
 
-Son sujetos de esta Ley, con los derechos y obligaciones que la misma impone:
+Son sujetos de esta Ley, con los derechos que otorga y con las obligaciones que la misma impone:
 
-I.- El Gobierno del Estado de Nuevo León, y sus organismos paraestatales, en los términos de los convenios de incorporación que celebren con el Instituto;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
-II.- Los Ayuntamientos, y sus organismos paraestatales, en los términos de los convenios de incorporación que celebren con el Instituto;
+I.- El Estado de Nuevo León, y sus organismos paraestatales, en los términos de los convenios de incorporación que éstos celebren con el Instituto;
 
-III.- Los servidores públicos que desempeñen sus funciones en los supuestos señalados en las fracciones I y II de este artículo mediante nombramiento o que figuren en lista de raya, cuya remuneración se realice de acuerdo a las respectivas partidas presupuestales;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
-IV.- Los diputados locales que durante su mandato constitucional soliciten su incorporación al régimen de cotización de esta Ley;
+II.- Los Municipios y sus organismos descentralizados en los términos de los convenios de incorporación que celebren con el Instituto;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+III.- Los servidores públicos que laboren al servicio de los sujetos señalados en las fracciones I y II de este artículo mediante nombramiento o que figuren en lista de raya, cuya remuneración se establezca en las respectivas partidas presupuestales;
+
+IV.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1993)
 
 V.- Las personas que conforme a lo previsto en esta Ley adquieran el carácter de pensionistas o jubilados, y
 
 VI.- Los beneficiarios de los servidores públicos, pensionistas y jubilados que se encuentren en los supuestos que esta Ley establece.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE 1993)</small>
+
 ###### Artículo 4.
 
-No se considerarán sujetos de incorporación al régimen que establece esta Ley, los servidores públicos quienes:
+No se considerarán sujetos de incorporación al régimen que establece esta Ley los servidores públicos que:
 
-I.- Presten sus servicios mediante contrato sujeto a la legislación común, o cuya remuneración sea con cargo a la partida de honorarios;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE 1993)</small>
 
-II.- Tengan el carácter de eventuales sujetos a contratos con vigencia inferior a seis meses, en cuyo caso sólo tendrán derecho al seguro establecido en el Título Segundo de esta Ley, debiendo enterar las cuotas respectivas;
+I.- Presten sus servicios por honorarios o mediante contrato sujeto a la legislación común;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE 1993)</small>
+
+II.- Estén sujetos a contratos eventuales con vigencia inferior a seis meses, en cuyo caso sólo tendrán derecho al seguro establecido en el Título Segundo de esta Ley, debiendo enterar las cuotas respectivas;
 
 III.- Presten sus servicios por un tiempo menor a diez horas semana-mes;
 
 IV.- Al ingresar por primera vez al servicio hayan cumplido cincuenta años de edad; y
 
-V.- Por resultado del examen médico practicado por el Instituto se determine su inelegibilidad.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+V.- Por resultado del examen médico practicado por el Instituto se determine su no incorporación.
 
 ###### Artículo 5.
 
@@ -93,19 +113,29 @@ V.- Jubilados, a quienes tengan derecho a una renta mensual vitalicia o a los re
 
 VI.- Beneficiarios, a:
 
-a.- La esposa o, a falta de ésta, la mujer con quien el servidor público, pensionista o jubilado ha vivido como si lo fuera durante los cinco años anteriores o con la que tuviese hijos, siempre que ambos permanezcan libres de matrimonio, debiendo comprobar ésta última, que depende del servidor público, pensionista o jubilado. Si el servidor público, pensionista o jubilado tiene varias concubinas, ninguna de ellas tendrá derecho a recibir seguros y prestaciones por parte del Instituto;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
-b.- Los hijos menores de dieciocho años, de ambos o de uno solo de los cónyuges, que dependan económicamente del servidor público, pensionista o jubilado, siempre que no hayan contraído matrimonio, vivan en concubinato o no tuvieren a su vez hijos;
+a.- La esposa o, a falta de ésta, la mujer con quien el servidor público, pensionista o jubilado ha vivido como si lo fuera durante los cinco años anteriores o con la que tuviese hijos, siempre que ambos permanezcan libres de matrimonio, debiendo comprobar, ésta última, que depende del servidor público, pensionista o jubilado. Si el servidor público, pensionista o jubilado tiene varias concubinas, ninguna de ellas tendrá el carácter de beneficiario;
 
-c.- Los hijos solteros mayores de dieciocho años y hasta la edad de veintidós que, además de cumplir con el requisito establecido en el inciso anterior, demuestren estar cursando estudios de nivel medio superior o superior dentro del territorio nacional, con calificaciones aprobatorias;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+b.- Los hijos del servidor público, pensionista o jubilado, menores de dieciocho años, que dependan económicamente de éstos, siempre que no hayan contraído matrimonio, no vivan en concubinato o no tuvieren a su vez hijos;
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+c.- Los hijos del servidor público, pensionista o jubilado, mayores de dieciocho años y hasta la edad de veinticinco que, además de cumplir con los requisitos establecidos en el inciso anterior, continúen cursando estudios de nivel medio superior o superior;
 
 d.- Los hijos mayores de dieciocho años con incapacidad total permanente, que dependan económicamente del servidor público, pensionista o jubilado;
 
-e.- Los hijos adoptivos que se encuentren en cualquiera de los supuestos previstos en los incisos b, c, y d, cuando el acto de adopción se haya hecho por el servidor público, pensionista o jubilado antes de haber cumplido los cuarenta y cinco años de edad;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+e.- Los hijos adoptivos que se encuentren en cualquiera de los supuestos previstos en los incisos b, c y d cuando el acto de adopción se haya efectuado por el servidor público, pensionista o jubilado de conformidad con lo establecido por las disposiciones civiles vigentes;
 
 f.- El esposo o a falta de éste, el varón con quien la servidora pública, pensionista o jubilada ha vivido como si lo fuera durante los cinco años anteriores, o con el que tuviese hijos, siempre que permanezcan libres de matrimonio, debiendo contar aquél con sesenta años de edad como mínimo o estar incapacitado total y permanentemente para trabajar, así como comprobar que depende económicamente de la servidora pública, pensionista o jubilada, y
 
-g.- Los ascendientes en línea directa, siempre que dependan económicamente del servidor público, pensionista o jubilado
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+g.- Los padres del servidor público, pensionista o jubilado, siempre que vivan en el domicilio de éste, y dependan económicamente de él.
 
 ###### Artículo 6.
 
@@ -113,7 +143,9 @@ Los beneficiarios que se mencionan en el artículo anterior, no podrán ejercer 
 
 I.- Que el servidor público interrumpa su cotización por un período mayor a dos meses, ya sea por el disfrute de una licencia sin goce de sueldo o por sufrir una suspensión temporal de los efectos de su nombramiento, reanudándose el goce de tales derechos en cuanto reinicie el servicio y se regularice el pago de las cuotas y aportaciones al Instituto;
 
-II.- No reunir las condiciones y requisitos que en cada caso se señalan o utilizar datos o documentos falsos para legitimar su derecho, y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+II.- No reunir las condiciones y requisitos que en cada caso se señalan o utilizar datos o documentos falsos para legitimar su derecho.
 
 ###### Artículo 7.
 
@@ -169,13 +201,19 @@ El Instituto podrá realizar las investigaciones y estudios de carácter socioec
 
 Cuando el Instituto presuma que la información o documentación proporcionada son falsas, llevará a cabo la respectiva revisión con audiencia del interesado, para en su caso, proceder en los términos del Título Décimo Primero.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
 ###### Artículo 14.
 
-El Instituto estará obligado a proporcionar, previa certificación del derecho, las prestaciones en dinero de que se trate, dentro de los sesenta días naturales posteriores a aquél en que le sea presentada la solicitud debidamente requisitada y acompañada de los documentos que al efecto se indiquen en el reglamento respectivo.
+El Instituto estará obligado a proporcionar, previa certificación del derecho, las prestaciones en dinero de que se trate, dentro de los treinta días posteriores a aquél en que le sea presentada la solicitud debidamente requisitada y acompañada de los documentos que al efecto se indiquen en el reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
 ###### Artículo 15.
 
-La cuantía de las percepciones o pensiones otorgadas en los términos de los Títulos Tercero y Quinto de esta Ley, se actualizará en el mes de enero de cada año aplicándole el factor que se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes de diciembre del año inmediato anterior, entre el citado índice correspondiente al mes de diciembre del segundo año inmediato anterior a aquél en el que se efectúe el ajuste.
+La cuantía de las pensiones otorgadas en los términos de los Títulos Tercero y Quinto de esta Ley, será dinámica y se incrementará en el mes de enero de cada año de acuerdo al porcentaje de la inflación anual.
+
+La cuantía se incrementará al multiplicarla por el factor que se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes de diciembre del año inmediato anterior, entre el citado índice correspondiente al mes de diciembre del segundo año inmediato anterior a aquél en el que se efectúe el ajuste.
 
 ###### Artículo 16.
 
@@ -201,9 +239,11 @@ Las relaciones de trabajo entre el propio Instituto y su personal se regirán po
 
 ### CAPITULO I. SALARIO BASE DE COTIZACION Y CUOTAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE 1993)</small>
+
 ###### Artículo 20.
 
-Para los efectos de lo dispuesto por esta Ley, el salario base de cotización se integra con los pagos hechos en efectivo por cuota diaria y las gratificaciones, percepciones, alimentación, habitación, primas, comisiones y prestaciones en especie y cualquier otra cantidad o prestación que se entregue al servidor público por sus servicios.
+Para los efectos de lo dispuesto por esta Ley, el salario base de cotización se integra con los pagos hechos en efectivo por cuota diaria y las percepciones, primas, comisiones y cualquier otra cantidad o prestación que se entregue al servidor público por sus servicios.
 
 Se establece como límite superior de cotización el salario base de cotización equivalente a veinticinco veces el salario mínimo general que rige en el Distrito Federal y como límite inferior el salario mínimo general del área geográfica respectiva.
 
@@ -365,9 +405,13 @@ Los servicios médicos que se mencionan en este Título, se impartirán en las u
 
 ### CAPITULO II. PRESTACIONES
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
 ###### Artículo 38.
 
-En caso de enfermedad, los servidores públicos, tendrán derecho a la asistencia médica, clínica, quirúrgica, hospitalaria, farmacéutica y de rehabilitación que sea necesaria desde el inicio de la enfermedad y durante el plazo máximo de cincuenta y dos semanas para la misma enfermedad, de conformidad de lo dispuesto por esta Ley y su reglamento respectivo. En el caso de enfermos ambulantes, cuyo tratamiento médico no les impida trabajar, y en el de pensionistas o jubilados, el tratamiento de una misma enfermedad se continuará hasta su curación.
+En caso de enfermedad, el servidor público tendrá derecho a la asistencia médica, clínica, quirúrgica, hospitalaria, farmacéutica y de rehabilitación que sea necesaria desde el inicio de la enfermedad y durante el plazo máximo de cincuenta y dos semanas consecutivas para la misma enfermedad. Dicho plazo podrá prorrogarse hasta por veintiséis semanas consecutivas más por prescripción del médico tratante. Si al concluír el plazo continúa enfermo, se procederá como corresponda de conformidad con lo establecido en el Artículo 88 y demás relativos del Capítulo I del Título Quinto de la presente Ley.
+
+En el caso de enfermos ambulatorios, cuyo tratamiento médico no les impida trabajar, y en el de pensionistas, jubilados y beneficiarios, el tratamiento médico de una misma enfermedad se continuará mientras lo requieran.
 
 ###### Artículo 39.
 
@@ -375,7 +419,9 @@ La servidora pública, pensionista, jubilada y la esposa del servidor público, 
 
 I.- Asistencia obstétrica en el Instituto o las unidades médicas subrogadas, y
 
-II.- Ayuda para lactancia cuando, según el dictamen médico, exista incapacidad física para amamantar al hijo. Esta ayuda será proporcionada en especie, hasta por un lapso de seis meses posteriores a la fecha del nacimiento y se entregará a la madre o, a falta de ésta, a la persona encargada de alimentarlo.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+II.- Ayuda para lactancia cuando, según el dictamen médico, exista incapacidad física para amamantar al hijo. Esta ayuda será proporcionada en especie, hasta por un lapso de seis meses posteriores a la fecha del nacimiento.
 
 ###### Artículo 40.
 
@@ -479,7 +525,9 @@ Las citadas prestaciones se proporcionarán por el propio Instituto o por las un
 
 En caso de riesgo de trabajo, el servidor público tendrá derecho a las siguientes prestaciones en dinero:
 
-I.- Si el riesgo le incapacita temporalmente para desempeñar sus labores, recibirá el 100% del salario que percibía al presentarse el riesgo. Para determinar dicho salario se restará del monto de las percepciones sobre las que cotizaba, una cantidad igual a la totalidad de las retenciones en la nómina que se le efectuaron o hubiesen tenido qué efectuar, con motivo del pago de contribuciones de carácter federal o local, incluyendo las previstas en esta Ley.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE 1993)</small>
+
+I.- Si el riesgo le incapacita temporalmente para desempeñar sus labores, recibirá el cien por ciento del salario de cotización neto al presentarse el riesgo. Para determinar dicho salario se restará del monto de las percepciones sobre las que cotizaba, una cantidad igual a la totalidad de las retenciones en la nómina que se le efectuaron o hubiesen tenido que efectuar, con motivo del pago de contribuciones de carácter federal o local, incluyendo el cincuenta por ciento de las previstas en esta Ley.
 
 El pago de dicha percepción se hará desde el primer día de incapacidad y será cubierto por las entidades públicas hasta que sea declarado apto para trabajar o bien, hasta que se declare la incapacidad permanente del servidor público.
 
@@ -509,15 +557,21 @@ I.- A la viuda o concubina del servidor público se le otorgará una pensión eq
 
 El importe de esta prestación no podrá ser inferior a la cuantía que le hubiere correspondido por la pensión por causa de muerte, que reciba la viuda, por causas ajenas a riesgos de trabajo.
 
-II.- A cada uno de los huérfanos que lo sean de padre o madre, que se encuentren totalmente incapacitados, se les otorgará una pensión equivalente al veinte por ciento de la que hubiese correspondido al servidor público tratándose de incapacidad permanente total. Esta pensión se extinguirá cuando el huérfano recupere su capacidad para el trabajo.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
-III.- A cada uno de los huérfanos, que lo sean de padre o madre, menores de dieciocho años, se les otorgará una pensión equivalente al veinte por ciento de la que hubiera correspondido al servidor público, tratándose de incapacidad permanente total. Esta pensión se extinguirá cuando el huérfano cumpla dieciocho años.
+II.- A cada uno de los huérfanos, menores de dieciocho años, se les otorgará una pensión equivalente al veinte por ciento de la que hubiese correspondido al servidor público, tratándose de incapacidad permanente total. El goce de esta pensión se ampliará hasta los veinticinco años de edad, cuando se den los supuestos que se señalan en el artículo 5, fracción VI, inciso c) de esta Ley. En caso contrario, se extinguirá al cumplir dieciocho años de edad.
 
-El goce de esta pensión se ampliará a los huérfanos que tengan hasta veintidós años, que no se encuentren trabajando y demuestren estar cursando estudios de nivel medio superior o superior dentro del territorio nacional, con calificaciones aprobatorias.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
-IV.- A falta de las personas señaladas en las fracciones anteriores, se le otorgará a cada uno de los ascendientes en línea directa del servidor público fallecido una pensión equivalente veinte por ciento de la que hubiera correspondido al servidor público tratándose de incapacidad permanente total, siempre y cuando dependan económicamente del mismo.
+III.- A cada uno de los huérfanos que se encuentren totalmente incapacitados, se les otorgará una pensión equivalente al veinte por ciento de la que hubiese correspondido al servidor público, tratándose de incapacidad permanente total. Esta pensión se extinguirá cuando el huérfano recupere su capacidad para el trabajo.
 
-V.- Si la muerte del servidor público es originada por causas ajenas a las que dieron origen a la incapacidad permanente, sea total o parcial, se entregará a los beneficiarios señalados en este artículo y en su orden, el importe de seis mensualidades de la pensión que disfrutaba el fallecido, sin perjuicio de ejercer los demás derechos que la Ley confiera.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+IV.- En el caso de huérfanos de padre y madre, la pensión correspondiente será equivalente al treinta por ciento de la que hubiese correspondido al servidor público, tratándose de incapacidad permanente total.
+
+(REFORMA DA, P.O. 24 DE DICIEMBRE DE 1993)
+
+V.- A falta de las personas señaladas en las fracciones anteriores, se les otorgará a cada uno de los padres que tengan reconocido el carácter de beneficiarios, pensión equivalente al veinte por ciento de la que hubiese correspondido al servidor público tratándose de incapacidad permanente total.
 
 ###### Artículo 53.
 
@@ -603,9 +657,11 @@ El certificado para la jubilación de cada servidor público deberá contener lo
 
 Las cuotas y aportaciones al sistema certificado para jubilación, así como los montos derivados de su actualización e intereses, integrarán el capital constitutivo que servirá de base para determinar las prestaciones que recibirá el servidor público o sus beneficiarios, en los términos del presente Título.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
 ###### Artículo 67.
 
-Los servidores públicos tendrán derecho a que el Instituto les entregue el saldo total de la cuenta de su certificado para la jubilación mediante retiros programados o en forma de renta mensual vitalicia cuando, al momento de su retiro, la suma de sus años cumplidos de edad con sus años de servicio sea igual o mayor a cien. De no cumplirse esta condición, podrán ejercer este derecho al cumplir sesenta y cinco años de edad.
+Los servidores públicos tendrán derecho a que el Instituto les entregue el saldo total de la cuenta de su certificado para la jubilación mediante retiros programados o en forma de renta mensual vitalicia cuando, al momento de su retiro, la suma de sus años cumplidos de edad con sus años de servicio sea igual o mayor a ochenta y ocho tratándose de las mujeres y de noventa y dos tratándose de los hombres. De no cumplirse esta condición, podrán ejercer este derecho al cumplir sesenta y cinco años de edad.
 
 ###### Artículo 68.
 
@@ -617,7 +673,13 @@ Las resoluciones a que se refiere el párrafo anterior deberán emitirse conside
 
 Se entiende por renta mensual vitalicia, la cantidad de recursos derivada del cálculo actuarial que se efectúe a la fecha de retiro del servidor público y que se entregará, a éste de por vida, por concepto de jubilación, o en su caso como pensión, a sus beneficiarios.
 
-La cuantía de la renta mensual vitalicia se actualizará en el mes de enero de cada año aplicándole el factor que se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes de diciembre del año inmediato anterior, entre el citado índice correspondiente al mes de diciembre del segundo año inmediato anterior a aquél en el que se efectúe el ajuste.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+La cuantía de la renta mensual vitalicia será dinámica y se incrementará en el mes de enero de cada año con el mismo aumento porcentual de la inflación anual.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+La cuantía se incrementará al multiplicarla por el factor que se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes de diciembre del año inmediato anterior entre el citado índice correspondiente al mes de diciembre del segundo año inmediato anterior a aquél en el que se efectúe el ajuste.
 
 ###### Artículo 70.
 
@@ -673,11 +735,11 @@ Para los efectos del artículo anterior, el Instituto proporcionará a los inter
 
 Cuando el servidor público desempeñe simultáneamente dos o más empleos sujetos al régimen de cotización del Instituto, deberá darse de baja en ambos para ejercer los derechos que le corresponden conforme a lo establecido en el artículo 67.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
 ###### Artículo 81.
 
-Al jubilado que reingrese a cualquier entidad pública para desempeñar un empleo que implique la incorporación al régimen de cotización de esta Ley, se le suspenderá el pago de su renta vitalicia o retiro programado de recursos.
-
-En el caso del párrafo anterior, las cotizaciones que capte el Instituto durante el reingreso del jubilado se acumularán al capital constitutivo de su cuenta del sistema certificado para jubilación.
+Al jubilado que reingrese a cualquier entidad pública para desempeñar algún empleo que implique la incorporación al régimen de cotización de esta Ley, se le suspenderá el pago de su renta mensual vitalicia o retiro programado de recursos, con excepción de los que reingresen en cualquiera de las condiciones establecidas en las fracciones I, II ó III del artículo 4 de la presente Ley.
 
 ###### Artículo 82.
 
@@ -719,9 +781,11 @@ Para cubrir los gastos de administración de los recursos señalados en este Tí
 
 ### CAPITULO I. PENSION POR INVALIDEZ
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
 ###### Artículo 88.
 
-La pensión por invalidez se otorgará a los servidores públicos de cualquier edad, que se inhabiliten física o mentalmente por causas ajenas al desempeño de su cargo, empleo o comisión, si hubiesen cotizado al Instituto cuando menos durante cinco años. El derecho al pago de esta prestación económica comienza a partir del día siguiente a aquél en que el servidor público cause baja definitiva en el servicio motivada por la inhabilitación. La solicitud deberá hacerse por escrito por el servicio público o su representante legal.
+La pensión por invalidez se otorgará a los servidores públicos de cualquier edad que se inhabiliten física o mentalmente por causas ajenas al desempeño de su trabajo si hubiesen cotizado al Instituto cuando menos durante cinco años. El derecho al pago de esta prestación comenzará a partir del día siguiente en que se dictamine el estado de invalidez.
 
 ###### Artículo 89.
 
@@ -785,7 +849,9 @@ De 5 y hasta 15 años de cotización................... 50%
 
 30 años de cotización en adelante..................... 65%
 
-El monto de la pensión se calculará conforme el promedio del salario base de cotización recibido en el último año inmediato anterior a la fecha en que el servidor público cause baja definitiva del servicio motivada por la inhabilitación.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+El monto de la pensión será calculado tomando como base el salario de cotización neto a la fecha que le sea dictaminado el estado de invalidez. Dicho salario se determinará conforme a lo establecido en el artículo 51, fracción I, párrafo primero.
 
 ### CAPITULO II. PENSION POR CAUSA DE MUERTE
 
@@ -799,9 +865,9 @@ El derecho al pago de esta prestación económica se inicia a partir del día si
 
 El orden para gozar de las pensiones por causa de muerte, será el siguiente:
 
-I.- La esposa supérstite sola, si no hay hijos o en concurrencia con éstos o éstos solos, si son menores de dieciocho años o que no lo sean, pero que están incapacitados total y permanentemente para trabajar o bien, hasta los veintidós años, si permanecen solteros, previa comprobación de que están realizando estudios de tiempo completo de nivel medio superior y superior dentro del territorio nacional y con calificaciones aprobatorias.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
-Cuando los hijos tengan un trabajo remunerado no gozarán de la pensión;
+I.- La esposa supérstite sola o en concurrencia con los hijos si los hay; o estos solos cuando sean menores de dieciocho años de edad y hasta los veinticinco años, siempre y cuando reúnan los requisitos que se señalan en el artículo 5, fracción VI, incisos b), c), d), y e) de esta Ley. También los mayores de dieciocho años solos que estén incapacitados total y permanentemente para trabajar;
 
 II.- A falta de esposa, la concubina sola o en concurrencia con los hijos o éstos solos cuando reúnan las condiciones señaladas en la fracción anterior, siempre que aquélla hubiere tenido hijos con el servidor público o pensionista, o vivido en su compañía durante los cinco años que precedieron a su muerte y ambos hayan permanecido libres de matrimonio durante el concubinato.
 
@@ -811,15 +877,19 @@ III.- El esposo supérstite solo o en concurrencia con hijos o éstos solos cuan
 
 IV.- El concubinario solo o en concurrencia con los hijos o éstos solos cuando reúnan las condiciones señaladas en la fracción I, siempre que aquél reúna los requisitos señalados en las fracciones II y III;
 
-V.- A falta de cónyuge, hijos, concubina o concubinario, la pensión se transferirá a los ascendientes en línea directa del servidor público o pensionista fallecido, pero siempre que hayan dependido económicamente de él durante los cinco años anteriores a su muerte;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+V.- A falta de cónyuge, hijos, concubina o concubinario, la pensión se transferirá a los padres beneficiarios del servidor público o pensionista fallecido;
 
 VI.- Los hijos adoptivos sólo tendrán derecho a la pensión por orfandad, cuando reúnan las condiciones que refieren la fracción I de este Artículo.
 
 Los requisitos y condiciones señalados en las fracciones anteriores serán exigibles a la fecha del fallecimiento del servidor público o pensionista.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
 ###### Artículo 96.
 
-Los beneficiarios señalados en el artículo anterior, del servidor público o pensionista, tendrán derecho a una pensión equivalente a los porcentajes determinados en las fracciones siguientes, tomando como base para el cálculo, el promedio de salario base de cotización o de la pensión, según corresponda, recibidas por el fallecido en el último año inmediato anterior a la fecha en que fallezca.
+Los beneficiarios señalados en el artículo anterior, tratándose del servidor público, tendrán derecho a una pensión equivalente a los porcentajes señalados en las fracciones siguientes, tomando como base para el cálculo la pensión que hubiere correspondido a éste en caso de invalidez; tratándose del pensionista, se tomará como base para el cálculo el importe de la pensión que éste recibía.
 
 Los porcentajes que corresponderán serán los siguientes:
 
@@ -829,11 +899,15 @@ II.- 20% a cada uno de los hijos, si es huérfano únicamente del servidor públ
 
 III.- 30% a cada uno de los hijos, si es huérfano de padre y madre, y
 
-IV.- 20% a cada uno de las ascendientes.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+IV.- 20% a cada uno de los padres beneficiarios.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
 ###### Artículo 97.
 
-El total del importe de las pensiones señaladas en el artículo anterior, no excederá del que correspondería al servidor público o pensionista si hubiese sufrido una incapacidad permanente total. En caso de que la suma de las pensiones exceda dicho monto, se reducirá proporcionalmente cada una de ellas; en este caso, al extinguirse el derecho de alguno de los beneficiarios mencionados, se hará una nueva distribución de las pensiones conforme a dicho artículo.
+El total del importe de las pensiones señaladas en el artículo anterior, no deberá exceder del cien por ciento de la pensión que hubiere correspondido al servidor público en caso de invalidez; tratándose del pensionista, el total del importe de las pensiones señaladas en el artículo anterior, no deberá exceder del cien por ciento del importe de la pensión que éste recibía. En caso de que la suma de las pensiones exceda dicho monto, se reducirá proporcionalmente cada una de ellas; en este caso, al extinguirse el derecho de alguno de los beneficiarios mencionados, se hará una nueva distribución de las pensiones conforme a dicho artículo.
 
 ###### Artículo 98.
 
@@ -855,7 +929,9 @@ Si el hijo pensionado llegare a los dieciocho años y no pudiere mantenerse con 
 
 En tal caso, el hijo estará obligado a someterse a los reconocimientos y tratamientos que prescriba el Instituto, así como a las investigaciones que en cualquier tiempo se ordenen para certificar su estado de invalidez. En caso contrario, se cancelará el disfrute de esta pensión.
 
-Los hijos solteros mayores de dieciocho años hasta la edad de veintidós, física y mentalmente sanos, continuarán percibiendo la pensión concedida en tanto carezcan de trabajo remunerado y cursar con calificaciones aprobatorias estudios de tiempo completo de nivel medio superior y superior en planteles establecidos dentro del territorio nacional.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+Los hijos mayores de dieciocho años hasta la edad de veinticinco continuarán percibiendo la pensión concedida en tanto reúnan los requisitos señalados en el artículo 5, fracción VI incisos c) y d) del presente ordenamiento.
 
 La falta de comprobación de alguno de estos requisitos cuando lo solicite el Instituto, será causa fundada para cancelar el disfrute de la pensión.
 
@@ -961,11 +1037,11 @@ Las entidades públicas estarán obligadas a recabar de los servidores públicos
 
 Los servidores públicos, pensionistas y jubilados, podrán en cualquier tiempo sustituir a los beneficiarios o bien, modificar los porcentajes que hayan asignado a cada uno de ellos, debiendo requisitar otro formato de designación, mismo que enviarán al Instituto para su entrega a la institución de seguros.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
 ###### Artículo 113.
 
-El importe de la prima a pagar por cada servidor público se determinará por las cuotas previstas en el artículo 21 fracción V.
-
-En el caso de los pensionistas y jubilados, el importe de la prima será por el equivalente al 0.7% de la prestación que reciben, misma que se retendrá por el Instituto. Lo dispuesto en este párrafo deberá ser hecho del conocimiento del pensionista o jubilado con anterioridad al ejercicio de la opción a que se refiera el artículo 111.
+El importe de la prima a pagar por cada servidor público se determinará por las cuotas previstas en el artículo 21 fracción IV.
 
 ###### Artículo 114.
 
@@ -1061,15 +1137,19 @@ IV.- El Comité de Vigilancia.
 
 #### SECCION 1. Consejo Directivo
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
 ###### Artículo 123.
 
-El Consejo Directivo se compondrá de nueve miembros: el Secretario de Finanzas y Tesorero General del Estado, el Secretario de Desarrollo Social del Estado, el Secretario del Trabajo del Estado, el Coordinador de Administración del Estado, el Director General del Instituto, dos representantes del Sindicato Nacional de Trabajadores de la Educación, un representante del Sindicato de Trabajadores al Servicio del Estado, y un representante de los organismos paraestatales afiliados.
+El Consejo Directivo se compondrá de once miembros: el Secretario de Finanzas y Tesorero General del Estado, el Secretario de Desarrollo Social del Estado, el Secretario del Trabajo del Estado, el Coordinador de Administración del Estado, el Director General del Instituto, dos representantes del Sindicato Nacional de Trabajadores de la Educación, un representante del Sindicato de Trabajadores al Servicio del Estado, y un representante de los trabajadores de los organismos paraestatales afiliados.
 
 Participarán también en el Consejo Directivo dos representantes uno del Poder Judicial y otro del Poder Legislativo, quienes tendrán voz pero no voto en las decisiones del Consejo.
 
 En el caso de cambio de nombre de alguna de las dependencias representadas en el Consejo Directivo en virtud de cambios en la Ley Orgánica de la Administración Pública del Estado de Nuevo León, la nueva dependencia entrará en su substitución.
 
-La Presidencia del Consejo Directivo corresponderá al Secretario de Finanzas y Tesorero General del Estado. La Secretaría recaerá sobre el Director General del Instituto.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+La Presidencia del Consejo Directivo corresponderá al Secretario de Finanzas y Tesorero General del Estado. La Secretaría recaerá sobre el Director General del Instituto, quien tendrá voz pero no voto en las decisiones del Consejo.
 
 ###### Artículo 124.
 
@@ -1125,9 +1205,21 @@ XIII.- Conferir poderes generales o especiales, de acuerdo con el Director Gener
 
 XIV.- Proponer al Ejecutivo del Estado los proyectos de reformas a esta Ley;
 
-XV.- Establecer las comisiones y subcomisiones de apoyo que estime necesarios para el auxilio en el cumplimiento de sus funciones, mismas que serán definidas por el reglamento respectivo; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
-XVI.- En general, realizar todos aquellos actos y operaciones autorizados por esta Ley y los que fuesen necesarios para la mejor administración y gobierno del Instituto.
+XV.- Establecer las comisiones y subcomisiones de apoyo que estime necesarias para el auxilio en el cumplimiento de sus funciones, mismas que serán definidas por el reglamento respectivo;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+XVI.- Revisar periódicamente el esquema de seguros y prestaciones con base en estudios actuariales-financieros para, en su caso, mejorarlo o fortalecerlo;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+XVII.- Aumentar el monto de los préstamos a corto plazo cuando, previos estudios actuariales y de acuerdo a lo establecido en el artículo 117 de la presente Ley, el estado financiero del fondo correspondiente lo permita; y
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+XVIII.- En general, realizar todos aquellos actos y operaciones autorizados por esta Ley, y los que fuesen necesarios para la mejor administración y gobierno del Instituto.
 
 ###### Artículo 129.
 
@@ -1387,79 +1479,85 @@ PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación
 
 SEGUNDO.- Se abroga la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, contenida en el Decreto Número 62 de fecha 21 de enero de 1983.
 
-Los activos pertenecientes al Instituto que creó la Ley que se abroga pasarán a formar parte del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+Los activos pertenecientes al Instituto que creó la Ley que se abroga pasarán a formar parte del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, referido en el artículo 2 de esta Ley.
 
 TERCERO.- Se dejan sin efecto los acuerdos y convenios celebrados con anterioridad relativos a las materias que regula esta Ley; asimismo, se dejan sin efecto las resoluciones emitidas por el Consejo Directivo del Instituto, en lo que se opongan a la presente Ley.
 
 CUARTO.- Quienes en el momento de entrar en vigor el nuevo ordenamiento estuvieran disfrutando de las prestaciones a que se refieren los Capítulos II y IV del Título Tercero de la Ley que se abroga, continuarán haciéndolo en los términos y condiciones señalados por dicho ordenamiento, así como por los acuerdos que para tal efecto hubiere emitido el Consejo Directivo, a excepción de lo que respecta a la actualización de tales prestaciones, mismas que, a partir del 1o. de enero de 1994, se actualizarán aplicando lo dispuesto en el artículo 15 de esta Ley. Las obligaciones que imponían la Ley que se abroga a los pensionados y jubilados continuarán vigentes.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+También continuarán disfrutando de los beneficios de préstamos especiales, y a corto plazo, el pago de marchas, el seguro de vida y el aguinaldo, en los términos que estas prestaciones se les venían concediendo hasta antes de entrar en vigor la presente Ley.
+
 Los préstamos concedidos en los términos señalados por el Capítulo VI del Título Tercero de la Ley que se abroga, se regirán por las condiciones en las cuales hubiesen sido otorgados hasta su liquidación total.
 
 QUINTO.- Los beneficiarios de los servidores públicos fallecidos y aquéllos que sin tener derecho a pensión hubiesen dejado el servicio por cualquier causa, con anterioridad a la entrada en vigor de la presente Ley, tendrán respectivamente el derecho a percibir las prestaciones a que se refieren los Capítulos III y V del Título Tercero de la Ley que se abroga y serán exigibles los derechos en cuestión en los términos de dicha Ley.
 
-SEXTO.- Los servidores públicos activos que se encontraban sujetos al régimen de cotización previsto en el ordenamiento que se abroga, tendrán el derecho de ejercer las opciones previstas por el artículo 67 de esta Ley cuando, al momento de su retiro, la suma de sus años cumplidos de edad con sus años de servicio sea igual o mayor a noventa, conforme a la siguiente tabla:
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
-años de servicio suma de años de
+SEXTO.- Los servidores públicos que se encontraban sujetos al régimen de cotización previsto en el ordenamiento abrogado, podrán jubilarse a los treinta años de servicio y veintiocho en el caso de la mujer, alcanzando una pensión proporcional a su último salario de cotización neto, conforme a la siguiente tabla:
 
-grupo al entrar en vigor servicio más años
+AÑOS DE AÑOS DE MONTO DE LA
 
-la presente Ley de edad
+SERVICIO SERVICIO PENSION
 
-A 28-29 90
+MUJERES HOMBRES
 
-B 26-27 92
+28 30 85%
 
-C 24-25 94
+29 31 90%
 
-D 22-23 96
+30 32 95%
 
-E 1-21 98
+31 33 100%
 
-De no cumplirse las condiciones anteriores, los servidores públicos podrán ejercer este derecho al cumplir sesenta años de edad.
+Las pensiones que se les otorgue serán actualizadas cada año en los términos del artículo 15 de la presente Ley.
 
-SEPTIMO.- El Instituto expedirá, por cada servidor público activo que se encontraba sujeto al régimen de cotización previsto en el ordenamiento que se abroga, un certificado de reconocimiento de derechos cuyo monto se indicará conforme a lo establecido en el artículo noveno transitorio.
+Los servidores públicos que se encontraban sujetos al régimen de cotización de la Ley abrogada tendrán derecho a una pensión por vejez al cumplir sesenta años de edad y quince años de servicio, consistente en el equivalente al 50% de su último salario de cotización neto percibido. Cuando se rebasen los quince años y se dé el supuesto de edad que aquí se contempla, se aplicará la tabla prevista en el artículo 93 de esta Ley para los efectos del monto de la pensión.
 
-El certificado de reconocimiento de derechos deberá entregarse a los servidores públicos por conducto de las entidades públicas dentro de un plazo de 180 días contados a partir de la vigencia de la presente Ley.
+SEPTIMO.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 1993)
 
-Los servidores públicos que antes de la determinación y recepción de su certificado de reconocimiento de derechos, soliciten el otorgamiento de la prestación a que se refiere el Título Cuarto de esta Ley, una vez cumplida la presentación de la respectiva solicitud debidamente requisitada, percibirán tal prestación a partir de la fecha en que reciban el referido certificado.
+OCTAVO.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 1993)
 
-OCTAVO.- El importe del certificado de reconocimiento de derechos determinado para cada servidor público constituirá el monto de la aportación inicial a su cuenta en el sistema certificado para jubilación a que se refiere el Título Cuarto de esta Ley.
+NOVENO.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 1993)
 
-La aportación inicial se actualizará conforme al artículo 83, y causará intereses conforme al artículo 84, de la presente Ley.
+DECIMO.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 1993)
 
-NOVENO.- Para los efectos de los Capítulos II y V del Título Tercero de la Ley que se abroga, los servidores públicos activos que se encontraban sujetos al régimen de cotización previsto en dicho ordenamiento recibirán por parte del Instituto un certificado de reconocimiento de derechos mediante el cual se reconocerán las expectativas de derechos que se hubiesen generado con motivo de la cotización al Instituto regulado por el ordenamiento que se abroga.
-
-El certificado de reconocimiento de derechos se expresará en dinero y considerará, entre otros factores, la edad del servidor público, sus años de servicio, y su percepción salarial; tomando en cuenta dichos factores hasta la fecha en la cual se abrogó el referido ordenamiento.
-
-El monto del certificado de reconocimiento de derechos se calculará de tal manera que garantice al servidor público una renta mensual vitalicia equivalente a por lo menos el cien por ciento de su percepción salarial actual, proyectada a valor constante a la fecha de su retiro, siempre y cuando se continúen las cuotas y aportaciones correspondientes y se cumpla un mínimo de treinta años de antigüedad.
-
-El monto del certificado de reconocimiento de derechos que se otorgará a cada servidor público, será el que se contenga en la siguiente tabla de factores para el cálculo del certificado de reconocimiento de derechos, de acuerdo con los supuestos en los que se encuentre el servidor público y el rango que en dicha tabla le corresponda a los respectivos supuestos.
-
-(VEASE TABLA ANEXA)
-
-Para la lectura de esta tabla, el servidor público deberá localizar el factor que aparece en el cruce del renglón y la columna donde se localice su edad y años de servicio. Ese factor multiplicado por cada nuevo peso de su salario base cotizable mensual, dará el monto de su certificado de reconocimiento de derechos.
-
-En caso de que el supuesto en que se encuentre el servidor público no corresponda a algún rango específico de la mencionada tabla, el Instituto le determinará en forma específica el monto de su certificado de reconocimiento de derechos, conforme al cálculo actuarial correspondiente.
-
-DECIMO.- Para efectos de los artículos 73 y 118 de esta Ley, el retiro que realice el servidor público no incluirá a su certificado de reconocimiento de derechos ni a sus rendimientos correspondientes como parte del saldo de su cuenta.
-
-DECIMO PRIMERO.- Los servidores públicos activos amparados por los beneficios de la Ley que se abroga, al cumplir treinta años o más de labores los varones y veintiocho las mujeres, si continúan trabajando y percibieren una aportación adicional sobre su salario, ésta se acreditará em (sic) una subcuenta especial que tendrá como características que el trabajador podrá disponer de ella, si así lo desea, anualmente.
+DECIMO PRIMERO.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 1993)
 
 DECIMO SEGUNDO.- El Consejo Directivo integrado en los términos del Título Primero, Capítulo II de la Ley, que se abroga, seguirá ejerciendo las funciones previstas en tal Capítulo, hasta en tanto se ratifican o designan los vocales que integrarán el nuevo Consejo Directivo.
 
 El nuevo Consejo Directivo deberá quedar integrado dentro de los sesenta días siguientes a la entrada en vigor de esta Ley.
 
-DECIMO TERCERO.- Los servidores públicos que, a la entrada en vigor de la presente Ley tengan derecho a la jubilación conforme a la Ley que se abroga y no se haya otorgado la misma, deberán solicitarla dentro del término de un año a partir de la vigencia de la presente ley. En caso de que no lo hicieran, se entenderá que optan por quedar sujetos a los términos, condiciones y beneficios que otorga esta Ley.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+DECIMO TERCERO.- Los servidores públicos que, a la entrada en vigor de la presente Ley tenían derecho a la jubilación conforme a la Ley abrogada, podrán jubilarse en los términos de la misma.
+
+Los servidores públicos sujetos al régimen de cotización de la Ley abrogada que al día 14 de octubre de 1993 habían cumplido veintinueve años de servicio en el caso del hombre y veintisiete en el caso de la mujer, podrán obtener su jubilación en las anteriores condiciones cuando cumplan treinta y veintiocho años de servicio, respectivamente.
+
+Los servidores públicos que se encuentren en los supuestos de los dos párrafos anteriores deberán comunicar su decisión por escrito a más tardar el treinta y uno de diciembre de 1994. Si llegada esa fecha no comunican su decisión, quedan sometidos a la presente Ley.
 
 DECIMO CUARTO.- A los servidores públicos, pensionistas y beneficiarios que se hubiesen constituido en mora de créditos regulados por la Ley que se abroga, tendrán un plazo de seis meses contados a partir de la fecha en que entre en vigor esta Ley, para que cubran el adeudo respectivo. Durante dicho plazo no se generarán intereses.
 
 Una vez transcurrido dicho plazo, quienes se mantengan en mora estarán sujetos a lo señalado en la presente Ley.
 
-DECIMO QUINTO.- Para los efectos de cobertura de las pensiones y jubilaciones vigentes en curso de pago a la entrada en vigor de la presente Ley se creará un fondo de pensiones que se integrará con las aportaciones extraordinarias que efectúe el Gobierno del Estado, cuyo monto y periocidad (sic) se determinará mediante acuerdo celebrado con el Consejo Directivo del Instituto; y también con las aportaciones que realicen los jubilados del 3% mensual del monto de las pensiones que reciban.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+DECIMO QUINTO.- El Gobierno del Estado, mediante partida presupuestal anual previamente autorizada, entregará al Instituto las cantidades suficientes para cubrir las pensiones y jubilaciones en curso de pago a la entrada en vigor de la presente Ley y las correspondientes a los casos previstos en el artículo décimo tercero transitorio de la misma. Igualmente, estas partidas contemplarán las cantidades que se requieran para cumplir con lo previsto en el artículo cuarto transitorio, segundo párrafo, de la presente Ley.
 
 > <small>(F. DE E., P.O. 20 DE OCTUBRE DE 1993)</small>
 
 DECIMO SEXTO.- Los servidores públicos que hayan ingresado al servicio público estatal antes del 23 de enero de 1983, podrán devolver el certificado de reconocimiento de derechos y solicitar su indemnización en los términos del artículo 7 transitorio de la Ley del Servicio Civil del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE 1993)</small>
+
+DECIMO SEPTIMO.- Cuando las proyecciones financieras revelen insuficiencia justificada de los recursos propios del Instituto para el cumplimiento de las obligaciones económicas contraídas con los derechohabientes que ya tenían este carácter al entrar en vigor la presente Ley y sus beneficiarios, previa solicitud del Consejo Directivo, el Gobierno del Estado promoverá la autorización de la partida presupuestal correspondiente para otorgar los recursos financieros requeridos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE 1993)</small>
+
+DECIMO OCTAVO.- En el caso de los servidores públicos sujetos al régimen de cotización de la Ley abrogada y que continúen sujetos al régimen de cotización de la presente, las cuotas y aportaciones previstas en el artículo 21, fracción II y el artículo 25, fracción III, respectivamente, de esta Ley, serán patrimonio del Instituto y se destinarán en su oportunidad para el pago de las pensiones jubilatorias.
 
 Por lo tanto envíese el Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -1474,3 +1572,9 @@ LIC. SOCRATES C. RIZZO GARCIA
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 ING. LEOPOLDO ESPINOSA BENAVIDES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE DICIEMBRE DE 1993.
+
+UNICO:- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
