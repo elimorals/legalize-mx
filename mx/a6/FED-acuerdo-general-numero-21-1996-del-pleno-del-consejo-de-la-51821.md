@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-21-1996-del-pleno-del-consejo-de-la-5182
 country: "mx"
 rank: "acuerdo"
 publication_date: "1996-10-10"
-last_updated: "1996-10-10"
+last_updated: "1998-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51821&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1996-10-02"
 
 ACUERDO GENERAL NUMERO 21/1996, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LOS ELEMENTOS A TOMARSE EN CONSIDERACION PARA ADSCRIBIR A LOS MAGISTRADOS DE CIRCUITO, ELECTOS CON MOTIVO DEL CONCURSO DE OPOSICION INTERNO A QUE SE CONTRAE EL DIVERSO ACUERDO GENERAL 5/1996
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DEL ACUERDO GENERAL NUMERO 25/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 9 DE SEPTIEMBRE DE 1998, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 10 de octubre de 1996.
 
@@ -110,3 +112,19 @@ PRIMERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en e
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 EL LICENCIADO ADOLFO O. ARAGON MENDIA, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General número 21/1996, que establece los elementos a tomarse en consideración para adscribir a los magistrados de Circuito, electos con motivo del concurso de oposición interno a que se contrae el diverso Acuerdo General 5/1996, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de dos de octubre de mil novecientos noventa y seis, por unanimidad de votos de los señores Consejeros: Presidente ministro José Vicente Aguinaco Alemán, Alonso Galván Villagómez, Mario Melgar Adalid, Ricardo Méndez Silva, Alfonso Oñate Laborde y Luis Gilberto Vargas Chávez.- México, Distrito Federal, a cuatro de octubre de mil novecientos noventa y seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 9 DE SEPTIEMBRE DE 1998.
+
+PRIMERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Se abroga el Acuerdo sobre los criterios a los que deberá sujetarse la readscripción de jueces de Distrito y magistrados de Circuito del Poder Judicial de la Federación, del trece de julio de mil novecientos noventa y cinco.
+
+CUARTO.- Se abroga el Acuerdo General Número 21/1996, del Pleno del Consejo de la Judicatura Federal, que establece los elementos a tomarse en consideración para adscribir a los magistrados de Circuito, electos con motivo del concurso de oposición interno a que se contrae el diverso Acuerdo General 5/1996.
+
+QUINTO.- Se abrogan los acuerdos administrativos dictados por el Pleno del Consejo de la Judicatura Federal, que se opongan al presente Acuerdo.
+
+SEXTO.- Los criterios de aplicación para los puntos quinto y sexto del presente Acuerdo, empezarán a aplicarse a partir del tercer concurso interno de oposición para la designación de magistrados de Circuito.
