@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1973-04-25"
+last_updated: "1973-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1973.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -79,7 +79,9 @@ Las Recaudaciones de Rentas serán dotadas de fondos fijos de caja para su admin
 
 13.- Son disposiciones fiscales del Estado:
 
-I.- Las de este Código.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+I.- Las de este Código y sus reglamentos.
 
 II.- Las leyes de ingresos y egresos.
 
@@ -117,31 +119,35 @@ Días hábiles son todos aquellos no mencionados en el párrafo anterior. Horas 
 
 22.- El Ejecutivo del Estado, por conducto del Tesorero General, es la autoridad competente, en el orden administrativo, para interpretar la legislación fiscal, dictar las disposiciones que se requieran para su mejor aplicación, así como para cuidar de su exacta observancia.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
 
-23.- La Tesorería General del Estado podrá determinar estimativamente los ingresos totales de los causantes en los siguientes casos:
+23.- La Tesorería General del Estado podrá determinar estimativamente los ingresos totales del causante en los siguientes casos:
 
-I.- Cuando omitan presentar sus declaraciones;
+I.- Cuando omitan presentar sus declaraciones, se opongan u obstaculicen la iniciación o desarrollo de una visita domiciliaria ordenada por la Tesorería General del Estado o se nieguen a recibir la orden respectiva.
 
-II.- Cuando no lleven o no presenten los libros de Contabilidad, documentación comprobatoria de las operaciones que hubieren efectuado, o no proporcionen los informes que se les soliciten;
+II.- Cuando no lleven o no presenten los libros de contabilidad, documentación comprobatoria de las operaciones que hubieren efectuado, o de los renglones de las declaraciones, o no proporcionen los informes que se les soliciten, o cuando a requerimiento de la Tesorería General del Estado, los causantes no exhiban en su domicilio dichos libros.
 
 III.- Cuando la contabilidad del negocio del causante adolezca de alguno de los siguientes vicios:
 
-a).- Que omita ingresos que excedan del 3% de los señalados;
+a).- Que omita ingresos que excedan del 3% de los declarados.
 
-b).- Que omita o altere el registro de existencias que deben figurar en los inventarios, o registren dichas existencias a precios distintos de los de costo, siempre que en ambos casos el importe exceda del 3% de los ingresos declarados;
+b).- Que omita o altere al registro de existencias que deben figurar en los inventarios, o se registren dichas existencias a precios distintos de los de costo, siempre que en ambos casos el importe exceda del 3% de los ingresos declarados.
 
-c).- Que aparezca con alteraciones;
+c).- Que aparezca con alteraciones.
 
-d).- Que haga constar asientos, cuentas, cantidades o cualquiera otro dato falso o inexacto; o
+d).- Que existan variantes de más de un 10% entre el inventario de las mercancías declaradas o registradas y las existencias reales.
 
-e).- Que omita el registro de facturas compras, cuyo monto exceda del 3% del importe total de las efectuadas en el ejercicio, y
+e).- Que existan asientos falsos en la contabilidad de los causantes.
 
-IV.- Por otras irregularidades en la contabilidad que imposibiliten el conocimiento de las operaciones del causante.
+f).- Que omita el registro de facturación de compras, cuyo monto exceda de 3% del importe total de las efectuadas en el ejercicio.
 
-La determinación estimativa del ingreso procederá independientemente de las sanciones a que haya lugar.
+IV.- Cuando los causantes tengan libros o registros fuera de su contabilidad autorizada, en los cuales hagan anotaciones distintas a las de ésta.
 
-La Tesorería General del Estado estimará los ingresos de los contribuyentes por los medios indirectos de la investigación económica o de cualquier otra clase.
+V.- Por otras irregularidades en la contabilidad que imposibiliten el conocimiento de las operaciones del causante.
+
+La determinación estimativa de los ingresos procederá independientemente de las sanciones a que haya lugar.
+
+La Tesorería General del Estado, estimará los ingresos de los contribuyentes por los medios indirectos de la investigación económica o de cualquier otra clase.
 
 24.- Los interesados directamente en situaciones reales y concretas que planteen consultas sobre la aplicación que a las mismas deba hacerse de las disposiciones fiscales, tendrán derecho a que la Tesorería General del Estado dicte resolución sobre tales consultas. Si no se plantean situaciones reales y concretas la Tesorería se abstendrá de resolver consultas relativas a la interpretación general abstracta e impersonal de las disposiciones fiscales.
 
@@ -255,7 +261,9 @@ VIII.- Con las mismas formalidades indicadas en el inciso anterior, se levantar�
 
 Las demás autoridades fiscales quedan sometidas a la dirección del Tesorero General del Estado.
 
-40.- La Tesorería General del Estado, para el desempeño de sus funciones, tendrá los departamentos y secciones que fije el Reglamento respectivo. Son autoridades fiscales:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+40.- La Tesorería General del Estado, para el desempeño de sus funciones tendrá las direcciones, los departamentos y secciones que fije el reglamento respectivo. Son autoridades fiscales:
 
 I.- La Tesorería General del Estado;
 
@@ -265,7 +273,11 @@ III.- La Junta Central de Catastro;
 
 IV.- Las Juntas Regionales de Catastro;
 
-V.- Los organismos fiscales descentralizados;
+V.- Los organismos fiscales descentralizados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+Todas las autoridades judiciales, administrativas y municipales del Estado, tienen el carácter de auxiliares de las autoridades fiscales, estando obligadas a presentarles el auxilio y cooperación que soliciten, de acuerdo con las disposiciones de este Código y sus reglamentos.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
@@ -499,7 +511,11 @@ III.- Las sociedades cooperativas, de acuerdo con las leyes respectivas, y
 
 IV.- Las demás personas que expresamente señalen las leyes.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
 74.- Los contribuyentes deberán inscribirse en el Padrón Estatal de Causantes. Cuando un mismo causante tenga diversos giros, sucursales, bodegas o dependencias, deberá empadronar cada uno de ellos por separado.
+
+Asimismo deberá empadronarse en cada uno de los padrones especiales que lleva la Tesorería, cuando sea sujeto de varios impuestos.
 
 75.- Para el efecto de su inscripción en el Padrón Estatal de Causantes, los contribuyentes presentarán su solicitud en las formas autorizadas por la Tesorería General del Estado expresando, bajo protesta de decir verdad, los datos e informes que en las mismas se precisen. Darán aviso igualmente de los cambios de domicilio, razón o denominación social, caso en el que exhibirán copia de la escritura en que consten estos datos; del de sus actividades cuando aumenten o disminuyan sus obligaciones fiscales y del traspaso de la negociación, clausura definitiva o cesación de operaciones.
 
@@ -555,25 +571,31 @@ En todo caso los Contadores Públicos al dictaminar los estados financieros de c
 
 La Tesorería General del Estado estará facultada para expedir los instructivos que sean necesarios para el adecuado cumplimiento de las disposiciones de este artículo.
 
-82.- Los Notarios y en general los funcionarios encargados de llevar la fé pública, no podrán autorizar ninguna escritura o documento en que consten actos, contratos, convenios o resoluciones judiciales o administrativas gravadas por este Código o cuyo objeto sean inmuebles ubicados en el Estado de Chihuahua, mientras no se haya hecho el pago de los impuestos que se causen y en general sin comprobar que los otorgantes están al corriente en el pago de todos los impuestos que al Fisco del Estado causen los bienes materia de dichos actos o resoluciones, o que los negocios comerciales o industriales por los cuales haya de autorizarse actos estén al corriente en el pago de los impuestos estatales.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
 
-Los Notarios y en general los funcionarios encargados de la fé pública, dentro de los 30 días hábiles siguientes contados a partir de la fecha en que se firme la escritura, deberán presentar ante la Recaudación de Rentas respectiva nota, con 3 copias, en la que harán constar el número y fecha de la escritura, nombre de los otorgantes, naturaleza del acto, valor de la operación y del avalúo en su caso, ubicación de los bienes inmuebles si fueren materia del acto o resolución y liquidación de los impuestos que se causen a juicio del Notario; de estar exceptuados conforme a la Ley deberán expresarlo así, señalando la causa de la exención y su fundamento legal.
+82.- Los Notarios y en general los funcionarios encargados de llevar la fé pública, no podrán autorizar ninguna escritura o documento en que consten actos, contratos, convenios o resoluciones judiciales o administrativas gravados por este Código o cuyo objeto sean inmuebles ubicados en el Estado de Chihuahua, mientras no se haya hecho el pago de los impuestos que se causen y en general sin comprobar que los otorgantes están al corriente en el pago de todos los impuestos que se causen y en general sin comprobar que los otorgantes están al corriente en el pago de todos los impuestos que al físico del Estado causen los bienes materia de dichos actos o resoluciones, o que los negocios comerciales o industriales por los cuales hayan de autorizarse actos estén al corriente en el pago de los impuestos estatales.
+
+Tampoco podrán ratificar firmas y el contenido de documentos en los cuales consten actos que causen algún gravamen sin comprobar que el mismo ha sido cubierto.
+
+Los Notarios y en general los funcionarios encargados de la fé pública, dentro de los 30 días hábiles siguientes contados a partir de la fecha de la escritura, deberán presentar ante la Recaudación de Rentas respectiva, nota con 3 copias, en la que harán constar el número y fecha de la escritura, nombre de los otorgantes, naturaleza del acto, valor de la operación y del avalúo en su caso, ubicación de los bienes inmuebles si fueren materia del acto o resolución y liquidación de los impuestos que se causen a juicio del Notario; de estar exceptuados conforme a la Ley deberán expresarlo así, señalando la causa de la exención y su fundamento legal.
 
 Las autoridades correspondientes, si el objeto de la operación son bienes inmuebles, harán constar en la nota los datos catastrales relativos y si se encuentran al corriente en el pago de las contribuciones ordinarias y extraordinarias. El original de la nota se devolverá con la certificación de que se cubrió el impuesto conforme a la liquidación formulada bajo la responsabilidad del Notario, facultándolo para la autorización de la escritura.
 
-En los testimonios que expidan, deberán insertar la nota y el comprobante del pago de los impuestos respectivos. Mensualmente deberán remitir a la Recaudación de Rentas en cuya jurisdicción residan, una copia de los testimonios que expidan.
+En los testimonios que expidan, deberán insertar la nota y el comprobante de pago de los impuestos respectivos. Mensualmente deberán remitir a la Recaudación de Rentas en cuya jurisdicción residan, una copia de los testimonios que expidan.
 
 La Tesorería General del Estado formulará modelo de las notas que deben presentar los Notarios.
 
 83.- Los Encargados del Registro Publico de la Propiedad y del Comercio no inscribirán ninguna escritura o documento en que consten actos, resoluciones judiciales o administrativas gravadas por este Código, si no se les comprueba fehacientemente el pago de los impuestos que dichos actos generen y que los interesados están al corriente en el pago de los demás impuestos de que, con respecto al Fisco del Estado, son objeto los bienes materia de aquéllos, que existe prórroga legalmente concedida para su pago, que éste fue garantizado o que están exentos por disposición de la Ley.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
 84.- Los funcionarios y empleados fiscales del Estado y los encargados de llevar la fé pública, están obligados bajo su inmediata responsabilidad personal, a guardar el secreto de los negocios que hayan llegado a su conocimiento en actos de servicio, y les está prohibido explotar y aprovecharse en cualquier forma, sin la autorización expresa y escrita del interesado, de los datos que les hayan sido proporcionados con propósitos fiscales.
 
 Queda terminantemente prohibido a los funcionarios y empleados fiscales proporcionar datos escritos y verbales relativos a la situación de los causantes. Esta información sólo podrá facilitarse a los interesados o a sus representantes legítimos y a las autoridades judiciales o administrativas competentes. Podrá proporcionarse también a los Notarios, a juicio de la autoridad fiscal, si formulan su solicitud por escrito y fundan y motivan suficientemente su petición.
 
-Las obligaciones y responsabilidades de que se ocupa el artículo no se extinguen por la separación del cargo, empleo o comisión.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
 
-85.- Todas las autoridades judiciales, administrativas y municipales del Estado, tienen el carácter de auxiliares de las autoridades fiscales, estando obligadas a prestarles el auxilio y cooperación que soliciten, de acuerdo con las disposiciones de este Código y su Reglamento.
+85.- Las obligaciones y responsabilidades de que se ocupa el artículo anterior no se extinguen por la separación del cargo, empleo o comisión, sino hasta pasado un año contado a partir de la fecha en que ocurra esta circunstancia.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
@@ -945,11 +967,17 @@ II.- Por avalúos practicados por la Tesorería General del Estado, en los casos
 
 III.- Por las resoluciones dictadas por las Juntas Regionales y Central de Catastro.
 
-104.- La base del impuesto se reputará valor fiscal y será la cuarta parte del valor catastral que se fije en los términos del artículo anterior. El impuesto se causará en la siguiente forma:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1973)</small>
 
-I.- Tratándose de predios rústicos se aplicará una cuota de 25 al millar anual sobre el valor fiscal;
+104.- La base del impuesto será el valor catastral. El impuesto se causará en la siguiente forma:
 
-II.- Tratándose de predios urbanos se aplicará una cuota de 30 al millar anual sobre el valor fiscal;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+I.- Tratándose de predios rústicos se aplicará una cuota de 6.25 al millar anual sobre el valor catastral;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+II.- Tratándose de predios urbanos se aplicará una cuota de 7.50 al millar anual sobre el valor catastral;
 
 III.- Tratándose de plantas de beneficio y establecimientos metalúrgicos, la base del impuesto será el valor catastral, incluyendo instalaciones y maquinaria, conforme al avalúo que practique la Tesorería General del Estado. En este caso, se aplicará una cuota de 5 al millar anual sobre el valor catastral.
 
@@ -1437,7 +1465,11 @@ I.- Se hará la clasificación de los diferentes tipos de edificación;
 
 II.- Para cada uno de ellos se fijará el valor unitario por metro cuadrado de construcción, tomando en consideración cada uno de los elementos que lo integran, tales como: materiales albañilería, plomería, herrería, carpintería, muebles fijos, etc. En los casos de edificios de varias plantas se tomarán en cuenta también los sobrecostos de cimentación y estructura.
 
-121.- Para determinar los valores unitarios de los predios rústicos, se deberá atender a los factores siguientes: clase de suelo, calidad, ubicación, vías de comunicación, condiciones hidrológicas, climatología, rendimientos, calidad de pastizales, aguajes existentes, productividad forestal dentro de un ciclo de explotación, valor comercial, su utilización o destino de acuerdo con su superficie, configuración topográfica, etc.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+121.- Para determinar los valores unitarios de los predios rústicos, se deberá atender a los factores siguientes: Clase de suelo, calidad, ubicación, vías de comunicación, condiciones hidrológicas, climatología, rendimiento, productividad forestal dentro de un ciclo de explotación, valor comercial, su utilización o destino de acuerdo con su superficie y su configuración topográfica.
+
+No se tomarán en cuenta para los efectos de este artículo las mejoras tales como presones, pozos y cercos.
 
 122.- Los predios rústicos se clasificarán en:
 
@@ -1475,23 +1507,25 @@ e).- Marginales por incomunicación, con precipitaciones y períodos vegetativos
 
 Todos estos tipos de terreno temporal se subdividen en primera y segunda clase, según su topografía y fertilidad.
 
-V.- TERRENOS PASTALES.- La clasificación de estos predios se hará tomándolos en consideración como una unidad de explotación, sin determinar las diversas calidades de pastizales que lo integran o los terrenos eriazos o cerriles que comprendan, comparando exclusivamente la superficie del predio con el número de cabezas de ganado mayor o menor que en promedio sea capaz de sustentar.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+V.- TERRENOS PASTALES.- Para la clasificación de estos predios no se tomarán en cuenta los factores contenidos en el artículo anterior. Los terrenos pastales serán considerados como una unidad de explotación, sin determinar las diversas calidades de pastizales que lo integran o los terrenos eriazos o cerriles que comprendan, comparando exclusivamente la superficie del predio con el número de cabezas de ganado mayor o menor que en promedio sea capaz de sustentar.
 
 Estos terrenos se clasificarán y valorizarán atendiendo a su capacidad forrajera, tomando en cuenta la superficie necesaria para mantener una cabeza de ganado mayor o cuatro de ganado menor, conforme a la siguiente tabla:
 
-De 1 a 10 hectáreas serán de PRIMERA CLASE;
+Hasta 20.00 hectáreas serán de PRIMERA CLASE;
 
-De 11 a 15 hectáreas serán de SEGUNDA CLASE;
+De 20.01 a 25.00 hectáreas serán de SEGUNDA CLASE;
 
-De 16 a 20 hectáreas serán de TERCERA CLASE;
+De 25.01 a 30.00 hectáreas serán de TERCERA CLASE;
 
-De 21 a 25 hectáreas serán de CUARTA CLASE;
+De 30.01 a 35.00 hectáreas serán de CUARTA CLASE;
 
-De 26 a 30 hectáreas serán de QUINTA CLASE;
+De 35.01 a 40.00 hectáreas serán de QUINTA CLASE,
 
-De 31 a 35 hectáreas serán de SEXTA CLASE;
+De 40.01 a 50.00 hectáreas serán de SEXTA CLASE;
 
-De 36 a 40 hectáreas serán de SEPTIMA CLASE.
+De más de 50.00 hectáreas serán de SÉPTIMA CLASE;
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 1973)</small>
 
@@ -1575,11 +1609,15 @@ X.- Nombre y numero del Notario o autoridad ante quien se celebre el contrato u 
 
 #### SECCION PRIMERA. OBJETO, SUJETO, TASA Y BASE
 
-132.- Es objeto del impuesto que establece este Capítulo la transmisión o adquisición de dominio de bienes inmuebles ubicados en el Estado.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+132.- Es objeto del impuesto que establece este Capítulo la transmisión o adquisición del dominio de bienes inmuebles ubicados en el Estado.
 
 Tratándose de fideicomisos irrevocables se cobrará el impuesto al celebrarse esta operación, con cargo al fideicomitente, en la inteligencia de que al ejecutarse los fines del fideicomiso se reconocerá el pago anterior y por lo tanto no volverá a causarse el impuesto, salvo que la tasa de éste haya aumentado en cuyo caso se cobrará la diferencia entre la tasa anterior y la que esté vigente.
 
 Tratándose de fideicomisos revocables se causará, con cargo al fideicomitente, al otorgarse la escritura de enajenación correspondiente.
+
+En los fideicomisos en garantía sólo se causará el impuesto al transmitirse la propiedad por incumplimiento de la obligación garantizada.
 
 133.- El Impuesto sobre Traslación de Dominio de Bienes Inmuebles se causa:
 
@@ -1675,7 +1713,11 @@ VII.- Enajenaciones de bienes inmuebles que hagan el Gobierno Federal, el Gobier
 
 VIII.- Enajenaciones de bienes inmuebles que hagan las instituciones de beneficencia pública o privada domiciliadas en el Estado.
 
-IX.- En los demás casos exceptuados por leyes especiales.
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+IX.- Las enajenaciones que a título gratuito hagan los particulares a los gobiernos Federal y Estatal, municipio, organismos descentralizados e instituciones de beneficencia pública o privada, domiciliados en el Estado.
+
+X.- En los demás casos exceptuados por leyes especiales.
 
 148.- Tendrán responsabilidad objetiva en el pago del impuesto, los adquirentes de inmuebles cuando los sujetos con responsabilidad directa a que se refieren las fracciones I, III, IV y V del Artículo 133, no paguen el impuesto causado en relación con esos mismos inmuebles o lo cubran en cantidad menor de la que les corresponde, de acuerdo con las disposiciones de este Capítulo. En consecuencia, en cualquier tiempo la Tesorería podrá seguir el procedimiento económico coactivo, para hacer efectivo el adeudo, sobre el inmueble de que se trate.
 
@@ -1819,9 +1861,9 @@ Si los causantes no cumplen con los requisitos que establece el párrafo anterio
 
 #### SECCION QUINTA. CONVENIOS CON LOS CAUSANTES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1973)</small>
 
-184.- Los causantes que obtengan ingresos provenientes de actividades gravadas por este capítulo, podrán cubrir el impuesto a base de cuota fija bimestral siempre que sus ingresos brutos no sean superiores a $300,000.00 (trescientos mil pesos, 00/100) anuales, en las condiciones y con las formalidades siguientes:
+184.- Los causantes que obtengan ingresos provenientes de actividades gravadas por este Capítulo, podrán cubrir el impuesto a base de cuota fija bimestral siempre que sus ingresos brutos no sean superiores a $300.000.00 (Trescientos mil pesos, 00/100) anuales, en las condiciones y con las formalidades siguientes:
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
@@ -1833,9 +1875,9 @@ II.- Las Recaudaciones de Rentas someterán los convenios a la aprobación defin
 
 III.- Los causantes que celebren convenios no estarán obligados a presentar las declaraciones mensuales que este Código previene, ni a llevar los libros de contabilidad, pero estarán sujetos a las demás disposiciones contenidas en este ordenamiento.
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
 
-IV.- Es obligación de los causantes que estén pagando a base de convenio a cuota fija, dar inmediato aviso a la Recaudación de Rentas de su jurisdicción cuando estimen que sus ingresos serán mayores de $150,000.00 (Ciento Cincuenta mil Pesos 00/100) anuales, a fin de que la oficina receptora pueda tomar las medidas fiscales que procedan. Darán también aviso cuando sus ingresos excedan en un 20% a aquellos por los que se fijó la cuota.
+IV.- Es obligación de los causantes que estén pagando a base de convenio a cuota fija, dar inmediato aviso a la Recaudación de Rentas de su jurisdicción cuando estimen que sus ingresos serán mayores de $300,000.00 (Trescientos mil pesos, 00/100) anuales, a fin de que la oficina receptora pueda tomar las medidas fiscales que procedan. Darán también aviso cuando sus ingresos excedan en un 20 % a aquellos por los que se fijó la cuota.
 
 V.- Los convenios celebrados tendrán vigencia hasta el 31 de diciembre del año correspondiente, independientemente de la fecha de su celebración.
 
@@ -2483,9 +2525,9 @@ VI.- A dar aviso inmediato y por escrito a la Recaudación de Rentas respectiva,
 
 304.- Son sujetos de este impuesto las personas que celebren los actos jurídicos que se otorguen en la forma prevista en el artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1973)</small>
 
-305.- El Impuesto se causará de acuerdo con la siguiente Tarifa:
+305.- El impuesto se causará de acuerdo con la siguiente tarifa:
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
@@ -2499,9 +2541,9 @@ II.- Por el aumento, por cualquier causa, del capital social de sociedades civil
 
 III.- Por los actos tendientes a garantizar obligaciones tales como fianzas, hipotecas, etc., sobre el importe de lo garantizado, se pagará $0.75 por cada $100.00 o fracción.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
 
-IV.- El mandato que se haga constar en instrumento público o ratificado ante notario, pagará $10.00 (Diez pesos, 00/100). Tratándose de mandato ratificando ante Notario el entero del impuesto se comprobará con el original del certificado de pago, mismo que deberá adherirse al documento en que conste el poder.
+IV.- El mandato que se haga constar en instrumento público o ratificado ante notario o autoridad judicial, pagará $10.00 (diez pesos, 00/100). En los dos primeros casos en el entero del impuesto se comprobará con el original del certificado de pago, mismo que deberá agregarse al apéndice del protocolo correspondiente, y en el último, a las actuaciones donde conste el poder.
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
@@ -3001,7 +3043,27 @@ III.- 12% sobre el Impuesto a la Ganadería.
 
 Las participaciones a que se refieren las tres fracciones anteriores se otorgarán en proporción al rendimiento de los impuestos respectivos en cada Municipio.
 
-IV.- Por el año de 1973 y 20% a partir del año de 1974, sobre los ingresos de los restantes impuestos estatales. La participación total a que se refiere esta fracción, se distribuirá entre los Municipios de conformidad con los estudios económicos elaborados atendiendo a los siguientes elementos: número de habitantes, importe de su presupuesto de egresos, gasto público municipal por habitante y otras consideraciones. En consecuencia los porcentajes de participación del producto total serán los siguientes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+IV.- 20% sobre las participaciones que al Estado correspondan en el Impuesto Federal sobre Ingresos Mercantiles.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+V.- 33.3% sobre las participaciones que al Estado correspondan en el Impuesto Federal sobre Tenencia o Uso de Automóviles y Camiones.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+VI.- 20% sobre las participaciones que al Estado correspondan en los impuestos a que se refiere la Ley Federal de Impuestos a las industrias de azúcar, alcohol, aguardiente y envasamiento de bebidas alcohólicas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+VII.- 20% sobre las participaciones que al Estado correspondan en el Impuesto al Ingreso Global de las Empresas, Causantes Menores.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+VIII.- 20 % sobre los ingresos de los restantes impuestos estatales.
+
+La Participación total a que se refieren las fracciones V, VI, VII y VIII, se distribuirá entre los Municipios de conformidad con los estudios económicos elaborados atendiendo a los siguientes elementos: número de habitantes, importe de su presupuesto de egresos, gasto público municipal por habitante y otras consideraciones. En consecuencia los porcentajes de participación del producto total serán los siguientes:
 
 Ahumada 0.7%
 
@@ -3009,7 +3071,7 @@ Aldama 0.9%
 
 Allende Valle de 1.4%
 
-Aquilés Serdán 0.6%
+Aquiles Serdán 0.6%
 
 Ascensión 0.6%
 
@@ -3051,7 +3113,7 @@ Galeana 0.6%
 
 General Trías 1.0%
 
-Gómez Farías 1.2%
+Gómez Farías 1,2%
 
 Gran Morelos 0.9%
 
@@ -3063,7 +3125,7 @@ Guadalupe y Calvo 3.6%
 
 Guerrero 4.0%
 
-Hidalgo del Parral 3.3%
+H. del Parral 3.3%
 
 Ignacio Zaragoza 1.4%
 
@@ -3073,7 +3135,7 @@ Jiménez 1.8%
 
 Juárez 5.0%
 
-Julímes 0.9%
+Julimes 0.9%
 
 La Cruz 0.7%
 
@@ -3083,7 +3145,7 @@ Madera 3.8%
 
 Maguarichic 0.7%
 
-Manuel Benavidez 1.0%
+Manuel Benavides 1.0%
 
 Matachic 0.9%
 
@@ -3111,9 +3173,9 @@ Rosales 1.4%
 
 Rosario Valle de 0.9%
 
-San Fco. de Borja 1.0%
+San Francisco de Borja 1.0%
 
-San Fco. del Oro 0.9%
+San Francisco del Oro 0.9%
 
 Santa Bárbara 1.3%
 
@@ -3135,11 +3197,13 @@ Guazapares 1.0%
 
 El Tule 0.7%
 
-San Fco. de Conchos 0.7%
+San Francisco de Conchos 0.7%
 
-Del importe de la participación a que se contrae esta fracción, se destinará por lo menos el 50% a obras públicas. El municipio que no lo hiciere perderá la participación en beneficio de aquellos que cumplan este requisito. La Tesorería General del Estado vigilará el estricto cumplimiento de esta disposición.
+Del importe de la participación a que se contrae esta fracción, se destinará por lo menos el 50% a obras públicas. El Municipio que no lo hiciere perderá la participación en beneficio de aquellos que cumplan este requisito. La Tesorería General del Estado vigilará el estricto cumplimiento de esta disposición.
 
-V.- También participarán los municipios productores o consumidores en los ingresos que en calidad de participaciones señalen las leyes federales al Estado, sobre los impuestos que obtenga la Federación en esta entidad Federativa, en materia de: consumo de cerveza, caza y similares, pesca y buceo, producción de metales y minerales no metálicos, consumo y producción de cemento, explotación forestal, venta y arrendamiento de bosques y terrenos nacionales, energía eléctrica y otros tributos que correspondan a su esfera impositiva y en las que sean partícipes los municipios. La Secretaría de Hacienda y Crédito Público cubrirá directamente a los Municipios las participaciones que les correspondan de conformidad con las leyes federales que normen estas percepciones.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+IX.- También participarán los municipios productores o consumidores en los ingresos que en calidad de participaciones señalen las leyes federales al Estado, sobre los impuestos que obtenga la Federación en esta Entidad Federativa, en materia de: consumo de cerveza, caza y similares pesca y buceo, producción de metales y minerales no metálicos, consumo y producción de cemento, explotación forestal, venta y arrendamiento de bosques y terrenos nacionales, energía eléctrica y otros tributos que correspondan a su esfera impositiva y en las que sean partícipes los Municipios. La Secretaría de Hacienda y Crédito Público cubrirá directamente a los Municipios las participaciones que les correspondan de conformidad con las leyes federales que normen estas percepciones.
 
 317.- Con el objeto de evitar la duplicidad de los impuestos, los municipios no podrán gravar ninguna fuente de riqueza ni actividad comercial o industrial de las contenidas en este Código con la única excepción del impuesto llamado de Licencia Anual al Comercio y la Industria.
 
@@ -3149,7 +3213,9 @@ V.- También participarán los municipios productores o consumidores en los ingr
 
 En ningún procedimiento fiscal se admitirá la gestión de negocios. Los interesados podrán autorizar por escrito, en cada caso, a persona que en su nombre reciba notificaciones, ofrezca y rinda pruebas e interponga recursos dentro del procedimiento administrativo.
 
-319.- Los apoderados y representantes legítimos, deberán acreditar debidamente su personalidad al comparecer ante las autoridades fiscales del Estado.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+319.- Los apoderados y representantes legítimos, deberán acreditar debidamente su personalidad al comparecer ante las autoridades fiscales del Estado. Su omisión faculta a éstas para desechar de plano su instancia.
 
 320.- Las notificaciones de los citatorios, emplazamientos, solicitudes de informes o documentos y las de acuerdos administrativos, destinados a los particulares, se harán:
 
@@ -3255,35 +3321,31 @@ Si es a los sujetos pasivos o responsables solidarios a quienes corresponde fija
 
 333.- El Jefe de la Oficina Recaudadora a la que corresponde el cobro, dictará mandamiento de ejecución, debidamente fundado y motivado, en el que ordenará que se requiera al deudor para que en el acto de la diligencia haga pago de su adeudo y, de no hacerlo, se le embarguen bienes de su propiedad bastantes para cubrirlo, después de lo cual se le prevendrá que dentro del plazo de 5 días siguientes a la fecha del embargo deberá hacer el pago en la caja de la oficina citada, apercibido que de no hacerlo se procederá al remate de los bienes secuestrados, para cubrir con su producto el crédito insoluto, así como los accesorios, gastos y vencimientos futuros en su caso. Si el pago se hiciere en el término indicado no se causarán honorarios por la diligencia de embargo.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
 334.- Los vencimientos que ocurran durante el procedimiento administrativo de ejecución, incluso recargos, gastos de ejecución y cualquiera otros, se harán efectivos juntamente con el crédito inicial, sin necesidad de emplazamiento ni de otras formalidades, salvo las necesarias en su caso, para garantizar el interés fiscal y la formulación de las liquidaciones respectivas.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-Por las diligencias de requerimiento y de embargo se causarán honorarios, a cargo del deudor, a razón del cinco por ciento sobre el monto del crédito principal, por cada una de dichas diligencias, pero en ningún caso podrán ser, en total, ni menores de cinco pesos ni mayores de cuatro mil pesos, aún cuando por la aplicación de dicha tasa sobre el monto del crédito para cuyo cobro se siga el procedimiento económico-coactivo en el que dichos honorarios se causen, resulte una cantidad menor o mayor que las indicadas; por la notificación de crédito fiscal se causarán $5.00 de honorarios.
-
-El importe de los honorarios deberá ingresar a la caja de la oficina recaudadora correspondiente.
-
-Un porcentaje de los ingresos que se obtengan por este concepto, corresponderá al ejecutor que practique las diligencias y la diferencia se distribuirá equitativamente entre el personal de base de las oficinas que intervengan en el procedimiento fiscal, conforme a las reglas y porcentajes que fije el Tesorero General del Estado.
+Por las diligencias de requerimiento y de embargo se causará, por concepto de gastos de ejecución a cargo del deudor, un 5% sobre el monto del crédito fiscal, por cada una de dichas diligencias, pero en ningún caso podrán ser, en total, ni menores de cinco pesos ni mayores de cuatro mil pesos, aún cuando por la aplicación de dicha tasa sobre el monto del crédito para cuyo cobro se siga el procedimiento económico coactivo en el que dichos gastos se causen, resulte una cantidad mayor o menor que las indicadas; por la notificación de un crédito fiscal se causarán cinco pesos por concepto de gastos de ejecución.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
 335.- El requerimiento y, en su caso, el embargo, ordenados en el mandamiento de ejecución, los llevará a cabo el jefe de la oficina recaudadora o la persona que él en el mismo mandamiento designe y que podrá ser alguno de los empleados subalternos de la misma oficina o cualquiera otra persona. Los nombramientos de ejecutores se comunicarán al Tesorero General, quien podrá removerlos se comunicarán al Tesorero General, quien podrá removerlos libremente y designar otros.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
 
-336.- En cumplimiento del mandamiento de ejecución, el Jefe de la Oficina Recaudadora o, en su caso, la persona designada como ejecutor se presentará en el lugar que deba tenerse como domicilio del deudor, de acuerdo con el artículo 323 y si está presente se le notificará el mandamiento de ejecución, requiriéndolo para que haga pago de su adeudo. Si no paga en el acto de la diligencia, se procederá desde luego al embargo de bienes de su propiedad bastantes para cubrir el crédito insoluto.
+336.- En cumplimiento del mandamiento de ejecución, el jefe de la oficina recaudadora o, en su caso, la persona designada como ejecutor se presentará en el lugar que deba tenerse como domicilio del deudor, de acuerdo con el artículo 323 y si está presente se le notificará el mandamiento de ejecución, requiriéndolo para que haga pago de su adeudo. Si no paga en el acto de la diligencia, se procederá desde luego al embargo de bienes de su propiedad bastantes para cubrir el crédito insoluto.
 
 Efectuado el embargo, se prevendrá al deudor que dentro de los cinco días siguientes deberá pagar dicho crédito en la caja de la oficina recaudadora y se le hará el apercibimiento que señala el artículo 333.
 
-Si no encuentra al deudor, el ejecutor le dejará citatorio para que espere al día siguiente, a la hora que le fije. El citatorio se le dejará con algún familiar o con cualquiera otra persona que se encuentre en el lugar en que se practique la diligencia y si no hay ninguna, con el vecino más próximo o con un policía, para que se lo entreguen. Además se fijará copia del citatorio en la puerta del domicilio del deudor.
+Si no encuentra al deudor, el ejecutor le dejará citatorio para que espere al día siguiente, a la hora que le fije. El citatorio se le dejará con algún familiar o con cualquiera otra persona que se encuentre en el lugar en que se practique la diligencia y si no hay ninguna, con el vecino más próximo o con un policía, para que se lo entregue. Además se fijará copia del citatorio en la puerta del domicilio del deudor.
 
 Al día siguiente, a la hora señalada en el citatorio, se presentará nuevamente el ejecutor en el domicilio del deudor y si éste está presente le hará el requerimiento. Si no paga en ese acto, se le embargarán desde luego bienes de su propiedad suficientes para cubrir su adeudo y se le hará la prevención a que se refiere la última parte del párrafo primero de este artículo.
 
-Cuando el deudor, al ser requerido de pago, cubra la totalidad de su adeudo, el ejecutor le extenderá el recibo correspondiente, entregará la cantidad que reciba el mismo día en la oficina recaudadora y dará por concluido el procedimiento dando cuenta con ello, en su caso, al jefe de la oficina recaudadora.
+Cuando el deudor, al ser requerido de pago, cubra la totalidad de su adeudo, el ejecutor extenderá el recibo correspondiente, entregará la cantidad que reciba el mismo día en la oficina recaudadora y dará por cumplido el procedimiento dando cuenta con ello, en su caso, al Jefe de la oficina recaudadora.
 
 Cuando el deudor haga pago de su adeudo en la caja de la oficina recaudadora, se dará por concluído el procedimiento de ejecución y en su caso se ordenará que desde luego se levante el embargo, si se hubiere practicado, y se entreguen los bienes secuestrados.
 
-En los casos de que se ignore el domicilio del deudor o en que éste hubiera fallecido y no tenga representante legal su sucesión, o se ignore quien es o dónde tiene su domicilio, sin perjuicio de que las notificaciones que deban hacérsele se efectúen en los términos que dispone el artículo 320 el requerimiento y, en su caso, el embargo, se entenderá con la autoridad municipal del lugar.
+En los casos en que se ignore el domicilio del deudor; se encuentre fuera del Estado sin haber dejado representante legal acreditado ante las autoridades fiscales correspondientes; o hubiere fallecido y no tenga representante legal su sucesión; o se ignore quien es o donde tenga su domicilio, sin perjuicio de que las notificaciones que deban hacérsele en los términos que dispone el artículo 320, el requerimiento y, en su caso, el embargo, se entenderá con la autoridad municipal del lugar.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
@@ -3623,7 +3685,9 @@ No se exigirá garantía adicional si en el procedimiento administrativo de ejec
 
 397.- La tramitación de los recursos administrativos en materia fiscal se sujetará a las normas siguientes:
 
-I.- Se interpondrán ante el Tesorero General del Estado precisamente por escrito, en el que se expresará: El nombre del recurrente; lugar para ser notificado en la Ciudad de Chihuahua; el acto impugnado; los agravios que éste le cause y el ofrecimiento de las pruebas que pretenda rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido, el interesado tuvo oportunidad razonable de rendir pruebas, sólo se considerarán en el recurso las que hubiere allegado en tal oportunidad y las supervenientes.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+I.- Se interpondrán ante el Tesorero General del Estado precisamente por escrito, en el que se expresarán: El nombre del recurrente; domicilio para ser notificado en el Estado; el acto impugnado; los agravios que éste le cause y el ofrecimiento de las pruebas que pretende rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido, el interesado tuvo oportunidad razonable de rendir pruebas, sólo se considerarán en el recurso las que hubiere allegado en tal oportunidad y las supervenientes.
 
 II.- El escrito será presentado dentro de los quince días siguientes al en que surta efectos la notificación del acto que se impugna. Si el recurrente tiene su domicilio en población distinta del lugar de residencia de la Tesorería General del Estado, podrá enviar su escrito, dentro del mismo término, por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que le haya notificado la resolución. En estos casos, se tendrá como fecha de presentación del escrito respectivo, el del día en que se haga la entrega en la Oficina de Correos o a la autoridad que efectuó la notificación.
 
@@ -3635,7 +3699,9 @@ V.- Si por la naturaleza de las pruebas ofrecidas o porque su recepción dependa
 
 VI.- Para la resolución del recurso, el Tesorero General del Estado pedirá, en su caso, a las autoridades fiscales que hayan intervenido en la formación del acto impugnado los informes que estime pertinentes y en general todos los elementos que sirvieron de base para dictarlo.
 
-VII.- Recibidas las pruebas y los informes se abrirá un período de alegatos hasta de cinco días, dictándose resolución dentro de un término que no excederá de treinta días.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+VII.- Recibidas las pruebas y los informes se abrirá un período de alegatos de 5 días, dictándose resolución dentro de un término que no excederá de 30 días.
 
 VIII.- Los acuerdos que se dicten se notificarán por correo certificado con acuse de recibo o personalmente en la Tesorería si los interesados se presentan. Si no se hubiere señalado domicilio se tendrá por practicada la notificación el día siguiente en que se hubiere dictado el acuerdo.
 
@@ -3759,7 +3825,11 @@ I.- Cuando el demandante desista del juicio.
 
 II.- Cuando durante el juicio apareciere o sobreviniese alguna de las causas de improcedencia a que se refiere el artículo anterior.
 
-III.- En los demás casos en que por disposición legal haya impedimento para emitir resolución en cuanto al fondo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+III.- Cuando, cualquiera que sea el estado del juicio, no se haya efectuado ningún acto procesal durante el término de ciento ochenta días, incluyendo los inhábiles y el demandante no haya promovido en ese mismo lapso.
+
+IV.- En los demás casos en que por disposición legal haya impedimento para emitir resolución en cuanto al fondo.
 
 #### SECCION CUARTA. DEMANDA
 
@@ -4045,7 +4115,9 @@ I.- Las empresas que construyan viviendas para el uso exclusivo de sus trabajado
 
 II.- Las personas físicas que construyan o adquieran viviendas destinadas a su propia habitación, cuyo valor no exceda de los límites señalados en el artículo siguiente, y siempre que el interesado o su familia carezcan de otras fincas urbanas. En el caso de adquisición será indispensable que la vivienda esté recién construida y no haya sido habitada por persona distinta al peticionario;
 
-III.- El Instituto Nacional de la Vivienda, de acuerdo con la Ley que autorizó su creación;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+III.- El Instituto Nacional para el Desarrollo de la Comunidad Rural y de la Vivienda Popular;
 
 IV.- Los derechohabientes de Pensiones Civiles del Estado, de acuerdo con la ley que autorizó su creación.
 
@@ -4095,7 +4167,9 @@ III.- Exención total del Impuesto sobre Instrumentos Públicos y Privados;
 
 IV.- Exención del 50% de los derechos por inscripción en el Registro Público de la Propiedad.
 
-488.- El Instituto Nacional de la Vivienda disfrutará de las siguientes exenciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+488.- El Instituto Nacional para el Desarrollo de la Comunidad Rural y de la Vivienda Popular disfrutará de las siguientes exenciones:
 
 I.- Exención del 75% del Impuesto Predial, respecto de los terrenos o construcciones que formen parte de su patrimonio y estén dedicados al fín para el que fué creado;
 
@@ -4240,3 +4314,7 @@ DECRETO No. 286-73.
 "ARTICULO SEGUNDO.- Mientras se encuentre en vigor el convenio que se aprueba se suspende la aplicación de las disposiciones del Código Fiscal del Estado que en materia del Impuesto sobre el Comercio y la Industria gravan los ingresos por las operaciones previstas en el artículo 202 del Código Fiscal del Estado, sólo en cuanto sean diversos a los autorizados expresa o tácitamente por el artículo 81 de la Ley Federal del Impuesto sobre Ingresos Mercantiles y en el convenio de coordinación que se aprueba, debiendo percibir el Estado de Chihuahua una participación del 45% importe de los ingresos gravables por la citada Ley Federal percibidos dentro de su territorio. A los ingresos gravados por las disposiciones legales estatales, se aplicarán las tasas actualmente en vigor o las que en el futuro se establezcan."
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor en todo el Estado de Chihuahua, a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE DICIEMBRE DE 1973.
+
+ARTICULO TRANSITORIO.- El presente decreto entrará en vigor en todo el Estado de Chihuahua el día 1o. de enero de mil novecientos setenta y cuatro.
