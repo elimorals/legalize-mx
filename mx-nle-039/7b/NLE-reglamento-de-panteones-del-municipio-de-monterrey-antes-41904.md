@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-panteones-del-municipio-de-monterrey-antes-41904"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-27"
-last_updated: "1997-10-27"
+last_updated: "1999-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE PANTEONES DEL MUNICIPIO DE MONTERREY -ANTES REGLAMENTO DE CEMENTERIOS EN EL MUNICIPIO DE MONTERREY- NUEVO LEON
 
-REGLAMENTO DE CEMENTERIOS EN EL MUNICIPIO DE MONTERREY, NUEVO LEON
+REGLAMENTO DE CEMENTERIOS EN EL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 1999.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 27 de octubre de 1997
 
@@ -91,11 +91,21 @@ XVIII.- Restos: Cuerpo humano después de muerto, los restos mortales, relativo 
 
 XIX.- Restos Humanos: Las partes de un cadáver.
 
-XX.- Restos Humanos Cumplidos: Los que resulten de un cadáver al cabo el plazo que señala la temporalidad mínima.
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1999)</small>
+
+XX.- Restos Humanos Cumplidos: Los que resulten de un cadáver o sus partes, después de seis años de ser inhumados para los adultos y cinco años para los menores de quince años de edad al morir.
 
 XXI.- Traslado: La transportación de un cadáver, restos humanos, esqueletos o partes de él o cenizas a cualquier parte de la República o del extranjero, previa autorización de la Secretaría de Desarrollo Social o Autoridad Sanitaria competente.
 
 XXII.- Velatorio: El lugar destinado a la velación de cadáveres.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 1999)</small>
+
+XXIII.- Temporalidad Mínima: Seis años de permanencia de los restos humanos en una fosa.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 1999)</small>
+
+XXIV.- Temporalidad Máxima: Doce años de permanencia de los restos humanos en una fosa.
 
 ## TITULO SEGUNDO. DEL ESTABLECIMIENTO DE LOS CEMENTERIOS
 
@@ -269,9 +279,11 @@ Las cremaciones deberán realizarse dentro del horario comprendido de las 8:00 a
 
 ### CAPÍTULO CUARTO. EXHUMACIONES, REINHUMACIONES Y TRASLADOS
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 24.
 
-Si la exhumación se hace a virtud de haber transcurrido el plazo de seis años los restos serán depositados en el osario común o cremados.
+Si la exhumación se hace a virtud de haber transcurrido el plazo de seis y/o doce años, los restos serán depositados en el osario común o cremados.
 
 ###### ARTÍCULO 25.
 
@@ -303,9 +315,21 @@ El traslado de cadáveres, de sus restos o cenizas, de un cementerio a otro se a
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 29.
 
-En los Cementerios Municipales, el derecho de uso sobre fosas se proporcionará mediante convenio por temporalidad mínima, máxima y a perpetuidad.
+En los cementerios Municipales, el derecho de uso sobre fosas se proporcionará mediante convenio por temporalidad mínima de seis años y máxima de doce años.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE NOVIEMBRE DE 1999)</small>
+
+ARTÍCULO 29 BIS.- Los derechos de uso sobre fosas en los Cementerios Municipales, se extinguirán cuando concurran cualquiera de los siguientes casos:
+
+I.- Transcurridos los primeros seis años, siempre y cuando el titular o custudio desatienda los pagos por el derecho de uso.
+
+II.- Cuando haya transcurrido la temporalidad máxima, establecida en este Reglamento.
+
+III.- Cuando el titular de los derechos de uso, transfiera éstos a terceros sin la aprobación de la Autoridad Municipal.
 
 ###### ARTÍCULO 30.
 
@@ -327,15 +351,27 @@ I.- Cuando hubiere transcurrido el plazo de seis años.
 
 II.- Que esté al corriente en los pagos correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 34.
 
-La Autoridad Municipal, podrá prestar servicio funerario gratuito a las personas de escasos recursos económicos, el cual consistirá en:
+La Autoridad Municipal, podrá prestar servicio funerario gratuito a las personas de escasos recursos económicos, las cuales deberán ser valoradas mediante estudio socioeconómico que emita la institución denominada Desarrollo Integral de la Familia o por alguna Dependencia de asistencia social, y consistirá en:
 
 I.- Ataúd.
 
 II.- Traslado del ataúd al cementerio en vehículo apropiado.
 
-III.- Fosa gratuita bajo régimen de temporalidad mínima.
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1999)</small>
+
+III.- Fosa gratuita bajo régimen de temporalidad mínima, y una vez transcurrida, se exhumarán los restos para ser depositados en el osario común.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE NOVIEMBRE DE 1999)</small>
+
+ARTÍCULO 34 BIS.- En todo Cementerio, los lotes destinados a una fosa o cripta, tendrán como mínimo, las siguientes medidas: 1.20 metros de ancho y 2.50 metros de largo; en los cementerios municipales bajo ningún concepto se aprobarán lotes con medidas diferentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE NOVIEMBRE DE 1999)</small>
+
+ARTÍCULO 34 BIS 1.- Transcurridos los términos a que se refiere el artículo 29 de este Reglamento, la Autoridad Municipal ordenará la exhumación de los restos áridos cumplidos, para ser depositados en el osario común, en espera de que el custodio o titular determine el destino de los mismos.
 
 ###### ARTÍCULO 35.
 
@@ -386,6 +422,10 @@ IV.- Expedir autorización para el establecimiento de Cementerios en casas parti
 V.- Establecer dentro de los límites del Cementerio, locales comerciales, puestos semifijos ni comerciantes ambulantes.
 
 VI.- La introducción de alimentos y bebidas alcohólicas a los Cementerios.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 1999)</small>
+
+VII.- Construir en los cementerios municipales cualquier tipo de obras sobre las fosas asignadas, con una altura superior a un metro del nivel del suelo.
 
 ## TITULO SEXTO. DE LAS AUTORIDADES
 
@@ -453,9 +493,35 @@ Las resoluciones y alcance para dictaminar un beneficio, sanción, condonación 
 
 ### CAPÍTULO PRIMERO. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 46.
 
-La violación a las disposiciones de este reglamento se sancionará con multa de 10 a 200 veces el salario mínimo general diario vigente en el Municipio de Monterrey.
+La violación a las disposiciones de este reglamento se sancionará con:
+
+I.- Amonestación y apercibimiento.
+
+II.- Multa de 10 a 200 veces el salario mínimo general diario vigente en el Municipio de Monterrey.
+
+III.- Clausura temporal o definitiva, que podrá ser total o parcial.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE NOVIEMBRE DE 1999)</small>
+
+ARTÍCULO 46 BIS.- Procede la clausura temporal:
+
+I.- Cuando se quebrante en forma reiterada las disposiciones contenidas en este reglamento, por los titulares o responsables de los panteones y una vez que han sido amonestados y apercibidos.
+
+II.- Cuando dentro de los cementerios se lleven a cabo actos contrarios a la moral y a las buenas costumbres.
+
+III.- Cuando se realicen actos o eventos que pongan en peligro la seguridad de las personas y las cosas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE NOVIEMBRE DE 1999)</small>
+
+ARTÍCULO 46 BIS 1.- Procede la clausura definitiva:
+
+I.- Cuando el cementerio carezca de la licencia municipal
+
+II.- Cuando constituya un grave peligro para la salud pública.
 
 ###### ARTÍCULO 47.
 
@@ -496,3 +562,13 @@ Jesús Hinojosa Tijerina
 Secretario del R. Ayuntamiento
 
 C. Abog Carlos Francisco Cisneros Ramos
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE NOVIEMBRE DE 1999.
+
+PRIMERO.- Las reformas al presente reglamento entrarán en vigor al día siguiente de su publicación en el periódico oficial del Estado, debiéndose difundir además en la Gaceta Municipal.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo establecido en las presentes reformas.
+
+TERCERO.- Los títulos de uso a perpetuidad de los panteones Municipales, expedidos con anterioridad a la vigencia de estas reformas, serán respetados en sus términos, pero no serán objeto de traspaso o cesión, y se darán por terminados al fallecer el titular de los mismos.
