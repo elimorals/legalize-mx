@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ejecucion-de-sanciones-privativas-y-medidas-8402"
 country: "mx"
 rank: "ley"
 publication_date: "1972-11-22"
-last_updated: "1972-11-22"
+last_updated: "1973-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y MEDIDAS RESTRICTIVAS DE LIBERTAD, PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE ENERO DE 1973.
 
 Ley publicada en el Alcance al número 42 del Boletín Oficial del Estado de Sonora, el miércoles 22 de noviembre de 1972.
 
@@ -871,9 +871,11 @@ El Patronato de Liberados del Estado de Sonora brindará asistencia a los libera
 
 T R A N S I T O R I O S
 
+> <small>(REFORMADO, B.O. 3 DE ENERO DE 1973)</small>
+
 ###### ARTICULO PRIMERO.
 
-Esta Ley entrará en vigor en la fecha que fije el Ejecutivo, una vez que esté en condiciones de servicio el Establecimiento Central de Prevención y Readaptación Social que se construye en la capital del Estado; debiendo publicares oportunamente en el Boletín Oficial del Estado.
+Esta ley entrará en vigor el día cinco de enero de mil novecientos setenta y tres, previa su publicación en el Boletín Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
 
@@ -914,3 +916,9 @@ Faustino Félix Serna.
 EL SECRETARIO GRAL. DE GOBIERNO.
 
 Angel López Gutiérrez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 3 DE ENERO DE 1973.
+
+UNICA.- Esta ley entrará en vigor el día cinco de enero de mil novecientos setenta y tres, previa su publicación en el Boletín Oficial del Estado.
