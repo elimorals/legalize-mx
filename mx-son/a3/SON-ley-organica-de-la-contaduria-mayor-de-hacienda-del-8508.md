@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-la-contaduria-mayor-de-hacienda-del-8508"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-03-04"
-last_updated: "1994-04-28"
+last_updated: "1998-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL CONGRESO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE ABRIL DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 9 DE JULIO DE 1998.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 4 de marzo de 1985.
 
@@ -67,13 +67,13 @@ I.- Nombrará y removerá, a propuesta de la Comisión de Vigilancia, al persona
 
 II.- Interpretará, aclarará y resolverá, las consultas que se susciten con motivo de la aplicación de esta Ley.
 
+> <small>(REFORMADO, B.O. 9 DE JULIO DE 1998)</small>
+
 ###### ARTÍCULO 6o.
 
-Para los efectos de esta ley, las cuentas públicas deberán comprender:
+Para los efectos de esta Ley, las cuentas públicas deberán comprender:
 
-I.- La del Gobierno del Estado: los Poderes Legislativo y Judicial, las dependencias directas del Ejecutivo, los organismos descentralizados, fondos, fideicomisos y empresas de participación estatal mayoritarias, Tribunal de lo Contencioso Administrativo y Junta Local de Conciliación y Arbitraje, cuyos presupuestos detallados hayan sido incorporados al Presupuesto de Egresos del Gobierno del Estado.
-
-II.- La de los Ayuntamientos: Las dependencias de la Administración Pública Directa y las entidades paramunicipales.
+I.- La del Gobierno del Estado; los Poderes Legislativo y Judicial; las dependencias directas del Ejecutivo, los organismos descentralizados, fondos, fideicomisos y empresas de participación estatal mayoritarias, Tribunal de lo Contencioso Administrativo y Junta Local de Conciliación y Arbitraje; y
 
 ### CAPITULO II. DE LA CONTADURIA MAYOR DE HACIENDA
 
@@ -109,7 +109,7 @@ VIII.- Solicitar a los auditores externos de las entidades de la Administración
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE ABRIL DE 1994)</small>
 
-IX.- Elaborar y rendir al Congreso, en los términos del artículo 42 de la Constitución Política del Estado, a través de la Comisión de Vigilancia, los informes sobre el resultado de las revisiones de las cuentas públicas del Estado y de los revisiones de las cuentas públicas del Estado y de los Municipios. Estos informes contendrán enunciativamente:
+IX.- Elaborar y rendir al Congreso, en los términos del artículo 42 de la Constitución Política del Estado, a través de la Comisión de Vigilancia, los informes sobre el resultado de las revisiones de las cuentas públicas del Estado y de los revisiones de las cuentas públicas del Estado y de los Municipios. Estos informes contendrán enunciativamente.
 
 a) La calificación acerca de si las cuentas públicas están presentadas de acuerdo con las normas y procedimientos de contabilidad generalmente aceptados.
 
@@ -355,7 +355,7 @@ La Ley entrará en vigor a partir de la fecha de su publicación en el Boletín 
 
 ###### ARTÍCULO SEGUNDO.
 
-Se abrogan la ley que establece con carácter permanente la Oficina de Glosa y reglamenta la organización y funcionamiento y el Reglamento de la Sección Mayor de Glosa; asímismo, se derogan cualesquiera otras disposiciones que se opongan a la presente ley.
+Se abrogan la ley que establece con carácter permanente la Oficina de Glosa y reglamenta la organización y funcionamiento y el Reglamento de la Sección Mayor de Glosa; asimismo, se derogan cualesquiera otras disposiciones que se opongan a la presente ley.
 
 ###### ARTÍCULO TERCERO.
 
@@ -403,4 +403,14 @@ Lic. Carlos Gámez Fimbres.
 
 B.O. 28 DE ABRIL DE 1994.
 
-UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previa aprobación por los Ayuntamientos de Sonora a la iniciativa de Ley que reforma el artículo 42 de la Constitución Política del Estado de Sonora.
+UNICO.- La presente ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previa aprobación por los Ayuntamientos de Sonora a la iniciativa de Ley que reforma el artículo 42 de la Constitución Política del Estado de Sonora.
+
+B.O. 9 DE JULIO DE 1998.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que en lo conducente se opongan a la aplicación y observancia de la presente Ley.
