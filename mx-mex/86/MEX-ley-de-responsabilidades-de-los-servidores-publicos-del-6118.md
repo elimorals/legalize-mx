@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "1994-01-05"
+last_updated: "1995-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE ENERO DE 1995.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -607,11 +607,13 @@ Las resoluciones y acuerdos que emitan los órganos disciplinarios durante el pr
 
 Las resoluciones imponiendo sanciones se inscribirán en un registro que llevará la Secretaría, particularmente las de inhabilitación.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1995)</small>
+
 ###### Artículo 64.
 
-La Secretaría expedirá constancias, que acrediten la no existencia de registro de inhabilitación, que serán exhibidas para los efectos pertinentes, por las personas que sean requeridas para desempeñar un empleo, cargo o comisión en el servicio público.
+Los Poderes Ejecutivo, Legislativo y Judicial, los ayuntamientos, organismos auxiliares y fideicomisos públicos, deberán solicitar por escrito a la Secretaría informes sobre la existencia de registro de inhabilitación de las personas que pretendan desempeñar un empleo, cargo o comisión en el servicio público.
 
-Para tales efectos, los órganos competentes de los Poderes Judicial, Legislativo, y de los Ayuntamientos Municipales remitirán a la Secretaría, las resoluciones por las que se imponga sanción de inhabilitación para su registro correspondiente.
+La contravención a lo dispuesto en el párrafo anterior, será causa de responsabilidad administrativa, y el nombramiento o contrato que se haya realizado quedará sin efectos.
 
 ###### Artículo 65.
 
@@ -976,3 +978,13 @@ TERCERO.- El Tribunal Superior de Justicia y la Legislatura, establecerán los �
 CUARTO.- La Secretaría de la Contraloría del Estado, entregará a las autoridades competentes todas las Manifestaciones de Bienes que haya recibido hasta antes de la entrada en vigor del presente ordenamiento.
 
 QUINTO.- Los asuntos y procesos iniciados con anterioridad a la vigencia de este Decreto, se sujetarán, hasta su conclusión, a las disposiciones que por el mismo se reforman o derogan.
+
+P.O. 11 DE ENERO DE 1995
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la Gaceta del Gobierno.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor el día de su publicación en la Gaceta del Gobierno.
