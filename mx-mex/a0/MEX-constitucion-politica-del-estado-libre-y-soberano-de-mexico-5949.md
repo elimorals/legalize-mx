@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1992-04-21"
+last_updated: "1992-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE ABRIL DE 1992.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE SEPTIEMBRE DE 1992.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -647,7 +647,9 @@ Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cum
 
 Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
 
-(Fecha y firma del Gobernador, del Secretario de Gobierno y Secretario del Ramo.)
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1992)</small>
+
+(Fecha y firma del Gobernador y del Secretario General de Gobierno).
 
 ### CAPITULO TERCERO. DEL PODER EJECUTIVO
 
@@ -913,17 +915,17 @@ V. No ser funcionario civil en ejercicio de autoridad, ni militar en servicio ac
 
 El período constitucional del Gobernador del Estado comenzará el dieciséis de septiembre del año de su renovación.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1992)</small>
 
 ###### Art. 79.
 
-Si por algún motivo no hubiere podido hacerse la elección de Gobernador o publicarse la Declaratoria respectiva, para el día en que deba tener lugar la renovación, o el nuevo Gobernador electo, no se presentare a desempeñar sus funciones, cesará no obstante el saliente, y la Legislatura nombrará Gobernador Interino, supliendo inmediatamente la falta el Secretario de Gobierno o el Presidente del Tribunal Superior de Justicia, la Legislatura enseguida, hará la convocatoria respectiva, para la designación del Gobernador interino.
+Si por algún motivo no hubiere podido hacerse la elección de Gobernador o publicarse la declaratoria respectiva, para el día en que deba tener lugar la renovación, o el nuevo Gobernador electo no se presentare a desempeñar sus funciones, cesará no obstante el saliente y, la Legislatura nombrará Gobernador Interino, supliendo inmediatamente la falta el Secretario General de Gobierno o el Presidente del Tribunal Superior de Justicia, la Legislatura enseguida hará la convocatoria respectiva, para la designación del Gobernador Interino.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1992)</small>
 
 ###### Art. 80.
 
-Las faltas temporales del Gobernador que excedan de 15 días, las cubrirá por ministerio de la Ley el Secretario de Gobierno o, en su caso el Presidente del Tribunal Superior de Justicia.
+Las faltas temporales del Gobernador que excedan de 15 días, las cubrirá por ministerio de la Ley, el Secretario General del Gobierno o, en su caso, el Presidente del Tribunal Superior de Justicia.
 
 ###### Art. 81.
 
@@ -935,11 +937,11 @@ Las faltas temporales del Gobernador que excedan de 15 días, las cubrirá por m
 
 Si la falta del Gobernador fuere absoluta, la Legislatura se constituirá en Colegio Electoral y hará la designación de Gobernador Substituto, quien ejercerá sus funciones hasta terminar el período constitucional de que se trate.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1992)</small>
 
 ###### Art. 83.
 
-Si por cualquier motivo la Legislatura no pudiere hacer el nombramiento a que se refieren los artículos 79 y 82, y hubiere por consiguiente acefalía en el Poder Ejecutivo, el Secretario de Gobierno o, en su caso el Presidente del Tribunal Superior de Justicia se hará cargo del Poder Ejecutivo.
+Si por cualquier motivo la Legislatura no pudiere hacer el nombramiento a que se refieren los artículos 79 y 82, y hubiere por consiguiente acefalía en el Poder Ejecutivo, el Secretario General de Gobierno o, en su caso el Presidente del Tribunal Superior de Justicia, se hará cargo del Poder Ejecutivo.
 
 ###### Art. 84.
 
@@ -1163,11 +1165,11 @@ XIII. Conceder licencias para juegos de azar.
 
 Para el Despacho de los asuntos que la presente Constitución encomienda al Ejecutivo, habrán las Dependencias y Organismos que señale la Ley Orgánica respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 1992)</small>
 
 ###### Art. 92.
 
-Para ser Secretario o Sub-Secretario de Gobierno, se requiere:
+Para ser Secretario General de Gobierno, Secretario del Ramo o Subsecretario, se requiere:
 
 > <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1181,13 +1183,13 @@ II. Ser mayor de treinta años.
 
 (DEROGADO, P.O. 17 DE SEPTIEMBRE DE 1981)
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1992)</small>
 
 ###### Art. 94.
 
-Todas las Leyes, Decretos, Reglamentos, Circulares, Acuerdos, Ordenes y en general los documentos que el Gobernador suscriba en ejercicio de sus funciones constitucionales, deberán ser refrendados por el Secretario de Gobierno y por el Titular del ramo a que el asunto corresponda. Sin este requisito, no surtirán efectos legales.
+Todas las leyes, decretos, reglamentos, circulares, acuerdos, órdenes y en general los documentos que el Gobernador suscriba en ejercicio de sus funciones constitucionales, deberán ser refrendados por el Secretario General de Gobierno. Sin este requisito, no surtirán efectos legales.
 
-El Secretario de Gobierno y los demás Titulares de las Dependencias del Ejecutivo, serán responsables de todas las órdenes y providencias que autoricen con su firma, contra la Constitución y Leyes del Estado.
+El Secretario General de Gobierno y los demás titulares de las dependencias del Ejecutivo, serán responsables de todas las órdenes y providencias que autoricen con su firma, contra la Constitución y leyes del Estado.
 
 ###### Art. 95.
 
@@ -2654,3 +2656,7 @@ P.O. 21 DE ABRIL DE 1992
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Gaceta del Gobierno del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 1992
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
