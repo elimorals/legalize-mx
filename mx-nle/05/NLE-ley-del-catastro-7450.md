@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "1983-12-30"
+last_updated: "1984-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1984.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -145,7 +145,7 @@ Las Bases Generales de Valores para la propiedad urbana, suburbana y la rústica
 
 Excepto en el año que sean objeto de revisión, las Bases Generales por Unidades Tipo a que se refiere el Artículo anterior y los Valores Reales Catastrales de los inmuebles, tendrán un ajuste anual automático del 15% -quince por ciento-, que entrará en vigor el 1o. de enero de cada año, sin necesidad de que los mismos sean notificados a los interesados para tener plena validez. Fuera de este supuesto, las Bases Generales por Unidades Tipo y los Valores Reales Catastrales no podrán ser modificados mientras no sean objeto de revisión, a menos que deban introducirse nuevos valores unitarios o cuando sea indispensable crear una nueva categoría no prevista en la tabla original, ya sea por motivo de la ampliación de zonas urbanas o sub-urbanas, o por cualquier otra causa.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 21.
 
@@ -155,7 +155,7 @@ El avalúo de los predios se hará con estricto apego a las Bases Generales de V
 
 ###### ARTICULO 21o.
 
-El avalúo de los predios se hará con estricto apego a las Bases Generales de Valores por Unidades Tipo. No obstante lo anterior, para los efectos de la aplicación del Impuesto Predial, el valor catastral de los predios en ningún caso podrá ser inferior de $80,000.00 (OCHENTA MIL PESOS). En el Reglamento de esta Ley, se señalará el procedimiento para formular los avalúos.
+El avalúo de los predios se hará con estricto apego a las Bases Generales de Valores por Unidades Tipo. No obstante lo anterior, para los efectos de la aplicación del Impuesto Predial, el valor catastral de los predios en ningún caso podrá ser inferior a $100,000.00 (Cien Mil Pesos). En el Reglamento de esta Ley, se señalará el procedimiento para formular los avalúos.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
@@ -340,3 +340,13 @@ P.O. 30 DE DICIEMBRE DE 1983.
 ###### ARTICULO SEGUNDO
 
 - Se dejan sin efectos todas las disposiciones que se opongan al contenido de este Decreto.
+
+P.O. 31 DE DICIEMBRE DE 1984.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día 1o. de Enero de 1985.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que contraríen o se opongan al contenido de este Decreto.
