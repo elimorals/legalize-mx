@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "1991-12-31"
+last_updated: "1993-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -199,23 +199,17 @@ III.- A solicitar al Ministerio Público su libertad administrativa, en los caso
 
 IV.- A solicitar al Ministerio Público el no ejercicio de la acción penal.
 
-> <small>(F. DE E., 24 DE AGOSTO DE 1989)</small>
+ARTICULO 29 (Derechos del procesado).- Además de los derechos señalados en el artículo 28, el procesado tendrá los siguientes:
 
-ARTICULO 29 (Derechos del procesado).- Además de los derechos señalados en el artículo 28 el procesado tendrá los siguientes:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1993)</small>
 
-I.- Inmediatamente que lo solicite será puesto en libertad provisional bajo caución, que fijará el juzgador, tomando en cuenta sus circunstancias personales y la gravedad del delito que se le impute, siempre que dicho delito, incluyendo sus modalidades, merezca ser sancionado con pena cuyo término medio aritmético no sea mayor de cinco años de prisión, sin más requisito que poner la suma de dinero respectiva, a disposición de la autoridad jurisdiccional, u otorgar otra caución bastante para asegurarla, bajo la responsabilidad del Juzgador en su aceptación.
-
-La caución no excederá de la cantidad equivalente a la percepción durante dos años de salario mínimo general vigente en el lugar en que se cometió el delito.
-
-Sin embargo, la autoridad jurisdiccional, en virtud de la especial gravedad del delito, las particulares circunstancias personales del imputado o de la víctima, mediante resolución motivada, podrá incrementar el monto de la caución hasta la cantidad equivalente a la percepción durante cuatro años del salario mínimo vigente en el lugar en que se cometió el delito.
-
-Si el delito es doloso y representa para su autor un beneficio económico o causa la víctima daño y perjuicio patrimonial, la garantía será cuando menos tres veces mayor al beneficio obtenido o a los daños y perjuicios patrimoniales causados.
-
-Si el delito es preterintencional o culposo, bastará que se garantice la reparación de los daños y perjuicios patrimoniales, y se estará a lo dispuesto en los dos párrafos anteriores;
+I.- Inmediatamente que lo solicite, será puesto en libertad provisional bajo caución, siempre y cuando se garantice el monto estimado de la reparación del daño y las sanciones pecuniarias que en su caso pudieran imponerse al inculpado, siempre que dicho delito sea de los que admiten el beneficio de libertad provisional bajo caución, misma que fijará el juzgador, tomando en cuenta las circunstancias personales del inculpado y la gravedad del delito que se le impute, sin más requisito que poner la suma de dinero respectiva a disposición de la autoridad jurisdiccional u otorgar otra caución bastante para asegurarla, bajo la responsabilidad del juzgador en su aceptación, y (sic)
 
 II.- Se le hará saber en audiencia pública, y dentro de las cuarenta y ocho horas siguientes a su consignación a la justicia, el nombre de su acusador y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, rindiendo en este acto su declaración preparatoria;
 
-III.- Será careado con los testigos que depongan en su contra, los que declararán en su presencia si estuviesen en lugar del proceso, para que pueda hacerles todas las preguntas conducentes a su defensa;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1993)</small>
+
+III.- Siempre que lo solicite, será careado en presencia del juez con quiénes depongan en su contra, para que pueda hacerles todas las preguntas conducentes a su defensa.
 
 IV.- Le serán facilitados todos los datos que solicite para su defensa y que consten en el proceso;
 
@@ -527,7 +521,7 @@ III.- Arresto hasta de treinta y seis horas, y
 
 IV.- Las demás que establezca este Código.
 
-ARTICULO 101 (Imposición de corrección disciplinarias[sic]).- Siempre que se cometa una falta, el secretario del Juzgador deberá dar fe del hecho, antes de imponerse la corrección disciplinaria.
+ARTICULO 101 (Imposición de corrección disciplinarias [sic]).- Siempre que se cometa una falta, el secretario del Juzgador deberá dar fe del hecho, antes de imponerse la corrección disciplinaria.
 
 ARTICULO 102 (Medios de apremio).- El Ministerio Público en las diligencias de preparación del ejercicio de la acción penal y el Juzgador, podrán emplear, para hacer cumplir sus determinaciones, los siguientes medios de apremio:
 
@@ -547,13 +541,33 @@ En vista de lo que exprese el interesado, el funcionario que hubiese impuesto la
 
 ARTICULO 104 (Derecho a no ser privado de la libertad).- Nadie podrá ser privado de su libertad, sino en los casos señalados en la Constitución Política de los Estados Unidos Mexicanos.
 
-ARTICULO 105 (Detención en caso de flagrante delito).- En caso de flagrante delito, cualquier persona podrá detener a los delincuentes, poniéndolos sin demora, a disposición de la autoridad competente.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1993)</small>
 
-Sólo debe entenderse por flagrancia, cuando se sorprende cometiendo un delito o si inmediatamente después de ejecutado éste, el imputado es materialmente perseguido.
+ARTICULO 105 (Detención en caso de flagrante delito).- En los casos de delito flagrante, cualquier persona puede detener al indiciado, poniéndolo sin demora a disposición del Ministerio Público o de la autoridad inmediata, y ésta con la misma prontitud al Ministerio Público. Se considerará que hay delito flagrante cuando el indiciado es detenido en el momento de estarlo cometiendo, o si, inmediatamente después de ejecutado el hecho delictuoso: a) aquél es perseguido materialmente; o, b) alguien lo señala como responsable y se encuentra en su poder el objeto del delito, el instrumento con que aparezca cometido, o huellas o indicios que hagan presumir fundadamente su intervención en la comisión del delito.
 
-ARTICULO 106 (Detención en casos urgentes).- Solamente en casos urgentes, cuando no haya en el lugar ninguna autoridad judicial y tratándose de delitos perseguibles de oficio, podrá la autoridad administrativa, bajo su más estricta responsabilidad, decretar la detención de un individuo, poniéndolo inmediatamente a disposición de la autoridad competente.
+En esos casos el Ministerio Público iniciará desde luego las diligencias de preparación del ejercicio de la acción penal y bajo su responsabilidad, según procediere, decretará la retención del indiciado si el delito es perseguible de oficio.
 
-ARTICULO 107 (Revisión de la detención).- Al recibir el Ministerio Público a cualquier detenido, revisará que la detención fuere justificada conforme a los artículos precedentes; en el caso que si lo sea, deberá de inmediato iniciar el ejercicio de la acción penal. Si fuere injustificadamente la detención, ordenará que el detenido quede en libertad.
+La violación de esta disposición hará penalmente responsable al Agente del Ministerio Público o servidor público que decrete indebidamente la retención y la persona así detenida será puesta en inmediata libertad.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1993)</small>
+
+ARTICULO 106 (Detención en casos urgentes).- En casos urgentes el Ministerio Público podrá, bajo su responsabilidad, ordenar por escrito la detención de una persona, fundando y expresando los indicios que acrediten:
+
+a) Que el indiciado haya intervenido en la comisión de alguno de los delitos señalados como graves en el artículo 121 de este Código;
+
+b) Que exista riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, y
+
+c) Que por razón de la hora, lugar o cualquier otra circunstancia no pueda ocurrir ante autoridad judicial para solicitar la orden de aprehensión.
+
+La violación de esta disposición hará penalmente responsable al Agente del Ministerio Público o servidor público que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
+
+Sólo en casos urgentes y siempre que se trate de alguno de los delitos calificados como graves por este ordenamiento, ante el riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancias, el Ministerio Público podrá, bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1993)</small>
+
+ARTICULO 107 (Revisión de la detención y plazo para poner al indiciado a disposición de la autoridad jurisdiccional).- Al recibir el Ministerio Público a cualquier detenido, en el supuesto a que se refiere el artículo 105, revisará que la detención fuere justificada, en este caso, deberá iniciar de inmediato las diligencias de preparación del ejercicio de la acción penal, pero ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial. Este plazo podrá duplicarse en aquellos casos que la ley prevea como delincuencia organizada. Todo abuso a lo anteriormente dispuesto será sancionado por la ley penal.
+
+En todo caso, al recibir la consignación con detenido, el juzgador revisará la legalidad de las detenciones en los supuestos de los artículos 105 y 106.
 
 ARTICULO 108 (Requisitos de la orden de aprehensión).- El Ministerio Público solicitará y el Juez librará orden de aprehensión contra el imputado, cuando estén reunidos los requisitos que señala el artículo 16 Constitucional.
 
@@ -589,11 +603,9 @@ ARTICULO 118 (Cómputo de la prisión preventiva en sentencia).- En toda pena pr
 
 ### CAPITULO III. LIBERTAD ADMINISTRATIVA
 
-> <small>(REFORMADO P.O. 31 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1993)</small>
 
-ARTICULO 119 (Libertad Administrativa).- Durante las diligencias de preparación del ejercicio de la acción penal, el Ministerio Público está obligado a conceder al indiciado la libertad inmediatamente que éste la solicite, si el delito que se le imputa, incluyendo sus modalidades, no exceda en su penalidad del término medio aritmético de cinco años de prisión.
-
-El Ministerio Público fijará la caución suficiente para garantizar que el detenido no se sustraiga de la acción de la justicia, ni del pago de la reparación de daños y perjuicios que pudieran serle exigidos.
+ARTICULO 119 (Procedencia de la libertad administrativa).- Durante las diligencias de preparación del ejercicio de la acción penal, el Ministerio Público está obligado a conceder al indiciado la libertad administrativa inmediatamente que éste la solicite, si el delito que se le imputa no es de los considerados como graves por la ley y siempre y cuando se garantice el monto estimado de la reparación del daño y de las sanciones pecuniarias que en su caso puedan imponerse al inculpado.
 
 ARTICULO 120 (Obligaciones y consecuencias).- El juez del conocimiento calificará la garantía otorgada, a fin de aceptarla, revocarla o modificarla.
 
@@ -605,21 +617,11 @@ La garantía se cancelará y en su caso se devolverá cuando se resuelva el no e
 
 ### CAPITULO IV. LIBERTAD PROVISIONAL BAJO CAUCION
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO P.O. 16 DE DICIEMBRE DE 1993)</small>
 
-ARTICULO 121 Todo imputado tendrá derecho a ser puesto en libertad provisional bajo caución, si no excede de cinso(sic) años el término medio aritmético de la pena privativa de libertad que corresponda al delito imputado, incluyéndose sus modalidades. En caso de acumulación se atenderá al delito cuya pena sea mayor.
+ARTICULO 121 (Libertad provisional bajo caución).- Todo imputado tendrá derecho a ser puesto en libertad provisional bajo caución, siempre y cuando se garantice el monto estimado de la reparación del daño y de las sanciones pecuniarias que en su caso puedan imponerse al inculpado y no se trate de los delitos que por su gravedad se prohiba expresamente conceder ese beneficio.
 
-En los casos en que la pena del delito imputado, rebase el término medio aritmético de cinco años de prisión, y no se trate de los delitos señalados en este mismo artículo, el Juzgador podrá conceder la libertad condicional bajo caución en resolución razonada, siempre que se cumplan con los siguientes requisitos:
-
-I. Que se haga el pago o se garantice debidamente a juicio del órgano jurisdiccional, la liquidación de daños y perjuicios al o los ofendidos.
-
-II. Que no exista riesgo fundado de que el imputado pueda sustraerse a la acción de la justicia, y
-
-III. Que no se trate de personas que hayan sido consideradas con anterioridad con sentencia ejecutoriada.
-
-No procederá la libertad provisional bajo caución, cuando se trate de los delitos previstos en los artículos 125, 150, 157 , 160 , 161, 162, 163, 182 fracción II, cuando se cometa en cualquiera de las circunstancias señaladas en el artículo 183 fracciones I, III, V y VI.
-
-La Concesión de la libertad provisional bajo caución en los casos en que el delito imputado exceda de cinco años de prisión en su término medio aritmético y a que se refiere el presente artículo, no constituye un derecho del imputado, sino una facultad potestativa del órgano jurisdiccional.
+Para los efectos de los artículos 16 y 20 de la Constitución General de la República, se consideran delitos graves los establecidos en los artículos 125, 126, 127, fracción IX, cuando el delito se cometa en las circunstancias previstas por el artículo 131, 150 excepto cuando se trate del supuesto previsto en el último párrafo, 157, 160, 161, 162, 163, 182, fracción II, cuando se cometa en cualquiera de las circunstancias señaladas en el artículo 183 del Código Penal, 213, en el supuesto establecido en el párrafo quinto, 247, en el caso establecido en el párrafo segundo, 248, párrafo segundo, 249, 250, 251, 252, 254, excepto el caso previsto en el segundo párrafo y 255, con exclusión del tercer párrafo. En estos casos no procederá la libertad provisional bajo caución.
 
 ARTICULO 122 (Otorgamiento de la libertad caucional).- Cuando se solicite la libertad caucional, inmediatamente el Juzgador deberá resolver de plano lo conducente.
 
@@ -635,9 +637,17 @@ III.- El mayor o menor interés que pueda tener el imputado en sustraerse a la a
 
 IV.- Las condiciones económicas del imputado.
 
-ARTICULO 124 (Límites mínimo y máximo de la cuantía de la caución).- La caución no excederá de la cantidad equivalente a la percepción durante dos años del salario mínimo general vigente en el lugar en que se cometió el delito. Sin embargo, la autoridad judicial, en virtud de la especial gravedad del delito, las particulares circunstancias personales del imputado o de la víctima, mediante resolución motivada, podrá incrementar el monto de la caución hasta la cantidad equivalente a la percepción durante cuatro años del salario mínimo vigente en el lugar en que se cometió el delito.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1993)</small>
 
-Si el delito representa para su autor un beneficio económico o causa a la victima daño o perjuicio patrimonial, la garantía será, cuando menos, tres y cuando más cuatro veces mayor al beneficio obtenido o a los daños y perjuicios patrimoniales causados, si el delito es doloso; y tendrá un monto igual al de dichos beneficios o daños y perjuicios, si es preterintencional o culposo.
+ARTICULO 124 (Monto, forma y reducción de la caución).- El monto y forma de la caución deberán ser asequibles para el imputado. A petición del inculpado o su defensor, la autoridad judicial podrá disminuir el monto de la caución, tomando en cuenta las siguientes circunstancias:
+
+a) El tiempo que el procesado lleve privado de su libertad,
+
+b) La disminución acreditada de las consecuencias o efectos del delito, y
+
+c) La imposibilidad económica demostrada para otorgar la caución señalada inicialmente, aún con pagos parciales.
+
+La petición de reducción se tramitará en incidente, que se sustanciará conforme a las reglas señaladas en el artículo 382 de este ordenamiento.
 
 ARTICULO 125 (Naturaleza de la caución).- Cuando se solicite la libertad provisional, el imputado o su defensor podrán elegir la naturaleza de la caución. En todo caso el Juzgador determinará la que considere idónea y suficiente.
 
@@ -1089,7 +1099,7 @@ La querella puede formularse verbalmente o por escrito, observándose para ello 
 
 ARTICULO 221 (Querella de menores).- Cuando el ofendido sea mayor de dieciséis años, podrá querellarse por si mismo. Tratándose de menores de esta edad o de otros incapaces, la querella se presentará por quienes ejerzan la patria potestad o la tutela, y a falta de éstos, por el Ministerio Público.
 
-ARTICULO 222 (Querella por poder).- La querella formulada en representación de personas físicas o morales, se admitirá cuando el apoderado tenga poder especial o poder general con cláusula especial para formular querella, sin que sean necesarios acuerdo o calificación del Consejo de Administración o de la Asamblea de socios o accionistas, poder especial para el caso determinado, ni instrucciones concretas del mandante.
+ARTICULO 222 (Querella por poder).- La querella formulada en representación de personas físicas o morales, se admitirá cuando el apoderado tenga poder especial o poder general con cláusula especial para formular querella, sin que sean necesarias acuerdo o calificación del Consejo de Administración o de la Asamblea de socios o accionistas, poder especial para el caso determinado, ni instrucciones concretas del mandante.
 
 ### CAPITULO I. DE LAS ACTAS MINISTERIALES
 
@@ -1169,7 +1179,7 @@ ARTICULO 237 (Deber para preservar las huellas del delito).- El Ministerio Públ
 
 ARTICULO 238 (Obligación de recoger los instrumentos y objetos del delito).- Los instrumentos del delito, así como las cosas que sean objeto o producto de él, y aquellos en que existan huellas del mismo o pudieren tener relación con éste, serán recogidos por el Ministerio Público o el Juzgador, en su caso, quienes deberán dictar las medidas necesarias para que dichos instrumentos y objetos no se alteren, destruyan o desaparezcan.
 
-De todas las cosas recogidas, se hará un inventario en el que se les describirá de tal manera que en cualquier tiempo puedan ser identificadas.
+De todas las cosas recogidas, se hará un inventario en el que se les describirá de tal manera que en cualquier tiempo puedan ser identificadas..
 
 ARTICULO 239 (Conservación de las cosas recogidas).- Las cosas inventariadas conforme al artículo anterior, se quedarán en el lugar o recipiente adecuado, según su naturaleza, debiéndose tomar las precauciones necesarias para asegurar su conservación e identidad.
 
@@ -1215,7 +1225,7 @@ ARTICULO 248 (Requisitos).- Para ejercer la acción penal el Ministerio Público
 
 ARTICULO 249 (Ejercicio de la acción penal).- Tan pronto como el Ministerio Público determine que en las diligencias de preparación del ejercicio de la acción penal se ha comprobado el cuerpo del delito y por lo menos la probable responsabilidad del indiciado, ejercerá la acción penal, solicitando del órgano jurisdiccional la orden de aprehensión o de comparecencia, según corresponda, de los probables responsables.
 
-ARTICULO 250 (Efectos de la aprehensión).- En los casos en que hubiere alguna persona detenida, se hará la consignación al juzgado que corresponda. Se entenderá que el inculpado queda a disposición del Juzgador, para los efectos constitucionales y legales correspondientes, desde el momento en que el Ministerio Público lo ponga a disposición de aquél en la prisión preventiva o en el centro de salud en el que se encuentre, si el imputado requiere atención médica urgente. El Ministerio Público dejará constancia de que el detenido quedó a disposición de la autoridad judicial y entregará copia de aquélla al encargado del reclusorio o del centro de salud, quien asentará día y hora del recibo.
+ARTICULO 250 (Efectos de la aprehensión).- En los casos en que hubiere alguna persona detenida, se hará la consignación al juzgado que corresponda. Se entenderá que el inculpado queda a disposición del Juzgador, para los efectos constitucionales y legales correspondientes, desde el momento en que el Ministerio Público lo ponga a disposición de aquél en la prisión preventiva o en el centro de salud en que se encuentre, si el imputado requiere atención médica urgente. El Ministerio Público dejará constancia de que el detenido quedó a disposición de la autoridad judicial y entregará copia de aquélla al encargado del reclusorio o del centro de salud, quien asentará día y hora del recibo.
 
 En el pliego de consignación, el Ministerio Público hará expreso señalamiento de los datos reunidos durante las diligencias de preparación del ejercicio de la acción penal que, a su juicio, puedan ser considerados para los efectos previstos en el artículo 20, fracción I de la Constitución, y en los preceptos de este Código referentes a la libertad provisional bajo caución, tanto por lo que toca a la determinación del tipo penal, incluyendo sus modalidades, como por lo que respecta a los elementos que deban tomarse en cuenta para el monto de la garantía.
 
@@ -1283,7 +1293,7 @@ b) Librar orden de comparecencia en todos los demás casos.
 
 ARTICULO 259 (Plazo y objetivo de la declaración preparatoria).- Dentro de las cuarenta y ocho horas siguientes al momento en que el inculpado esté a disposición del juez, éste le hará saber, en audiencia pública, el nombre de su acusador y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, rindiendo en ese acto su declaración preparatoria.
 
-ARTICULO 260 (Nombramiento de defensor).- La declaración preparatoria comenzará por las generales del inculpado, en las que se incluirán también los apodos que tuviere. Acto seguido, el juez le hará saber el derecho que tiene para defenderse, por si o por persona de su confianza, a menos que haya designado defensor durante las diligencias de preparación del ejercicio de la acción penal y éste se encuentre presente. En caso de no tener quien lo defienda se le presentará la lista de los defensores de oficio para que elija el que, o los que le convengan. Si el indiciado no quiere nombrar defensor, después de ser requerido para hacerlo, el juez le nombrará uno de oficio.
+ARTICULO 260 (Nombramiento de defensor).- La declaración preparatoria comenzará por las generales del inculpado, en las que se incluirán también los apodos que tuviere. Acto seguido, el juez le hará saber el derecho que tiene para defenderse, por si o por persona de su confianza, a menos que haya designado defensor durante las diligencias de preparación del ejercicio de la acción penal y éste se encuentre presente. En caso de no tener quien lo defienda, se le presentará la lista de los defensores de oficio para que elija el que, o los que le convengan. Si el indiciado no quiere nombrar defensor, después de ser requerido para hacerlo, el juez le nombrará uno de oficio.
 
 ARTICULO 261 (Libertad bajo caución).- Una vez satisfecho el requisito del artículo anterior, el Juzgador a continuación dará a conocer al inculpado si tiene derecho a gozar de la libertad bajo caución y, en su caso, las condiciones en que puede gozar de ese beneficio.
 
@@ -1749,7 +1759,7 @@ ARTICULO 369 (Acumulación durante la preparación del proceso).- Las disposicio
 
 > <small>(F. DE E., P.O. 24 DE AGOSTO DE 1989)</small>
 
-ARTICULO 370 (Separación de expedientes).- Procederá la separación de expedientes, únicamente, cuando, siguiéndose un proceso, por uno o varios delitos, en contra de varios inculpados, alguno o algunos de ellos renuncien al plazo a que se refiere el artículo 274 de este Código para ser juzgados, en tanto que otro u otros exijan se les respete dicho plazo
+ARTICULO 370 (Separación de expedientes).- Procederá la separación de expedientes, únicamente, cuando, siguiéndose un proceso, por uno o varios delitos, en contra de varios inculpados, alguno o algunos de ellos renuncien al plazo a que se refiere el artículo 274 de este Código para ser juzgados, en tanto que otro u otros exijan se les respete dicho plazo.
 
 # LIBRO QUINTO. PROCEDIMIENTO ESPECIAL
 
@@ -1910,3 +1920,11 @@ La presente ley entrará en vigencia al día siguiente de su publicación en el 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a la presente.
+
+P.O. 16 DE DICIEMBRE DE 1993.
+
+PRIMERO.- La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+> <small>(F. DE E., P.O. 20 DE ENERO DE 1994)</small>
+
+SEGUNDO.- Lo previsto en los artículos 29, fracción I, 119 y 121, en lo que se refiere al beneficio de libertad provisional bajo caución, iniciarán su vigencia a partir del 3 de septiembre de 1994.
