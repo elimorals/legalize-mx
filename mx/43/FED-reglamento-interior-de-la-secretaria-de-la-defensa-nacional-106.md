@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-defensa-nacional-106
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-01"
-last_updated: "1992-09-01"
+last_updated: "1994-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1992-08-30"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA DEFENSA NACIONAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE NOVIEMBRE DE 1994.
 
-Reglamento publicado en el Diario Oficial de la Federación, el martes 1 de septiembre de 1992
+Reglamento publicado en el Diario Oficial de la Federación, el martes 1 de septiembre de 1992.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -143,7 +143,11 @@ XXIX. Dirección General del Registro Federal de Armas de Fuego y Control de Exp
 
 XXX. Dirección General de Fábricas de la Defensa Nacional; y
 
-XXXI.- Organos del Fuero de Guerra.
+> <small>(ADICIONADA, D.O.F. 21 DE NOVIEMBRE DE 1994)</small>
+
+XXXI. Dirección General de Comunicación Social; y
+
+XXXII.- Organos del Fuero de Guerra.
 
 ## TITULO CUARTO. De las Atribuciones y Responsabilidades
 
@@ -817,19 +821,23 @@ Corresponde a la Dirección General de Caballería:
 
 I. Proponer innovaciones de adiestramiento para el personal, ganado y unidades del arma;
 
-II. Controlar técnica y administrativamente al Servicio de Veterinaria y Remonta;
+II. (DEROGADA, D.O.F. 21 DE NOVIEMBRE DE 1994)
 
-III. Intervenir y dictaminar técnicamente en la cría, remonta, adquisición, alta, baja y desecho de ganado caballar, mular y de otras especies, equipo y material veterinario;
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1994)</small>
 
-IV. Elaborar, almacenar, abastecer, evacuar, mantener y controlar el equipo, medicamentos y material diverso de veterinaria y remonta;
+III. Intervenir y dictaminar en coordinación con la Dirección General de Sanidad, la adquisición, alta, baja y desecho de ganado caballar;
 
-V. Formular las estadísticas médico-zootécnicas, así como las cartas epizootiológicas y bramatológicas de la República;
+IV. (DEROGADA, D.O.F. 21 DE NOVIEMBRE DE 1994)
 
-VI. Fomentar la cría de ganado equino e híbrido, seleccionándolo para destinarlo a las unidades, dependencias e instalaciones que cuenten con este tipo de ganado en sus cargos;
+V. (DEROGADA, D.O.F. 21 DE NOVIEMBRE DE 1994)
 
-VII. Proponer la adquisición, cría, selección y explotación de especies domésticas;
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1994)</small>
 
-VIII. Llevar a cabo la inspección sanitaria de los alimentos de origen animal y de los forrajes, estableciendo las raciones específicas para las diferentes especies de animales;
+VI. Seleccionar el ganado equino en coordinación con la Dirección General de Sanidad, para destinarlo a las unidades, dependencias e instalaciones que cuenten con este tipo de semovientes en sus cargos;
+
+VII. (DEROGADA, D.O.F. 21 DE NOVIEMBRE DE 1994)
+
+VIII. (DEROGADA, D.O.F. 21 DE NOVIEMBRE DE 1994)
 
 IX. Proponer programas de visitas de supervisión a las unidades, dependencias e instalaciones que le dependan técnica y administrativamente;
 
@@ -931,9 +939,13 @@ VI. Proponer innovaciones en la organización y funcionamiento de las unidades, 
 
 Corresponde a la Dirección General de Sanidad:
 
-I. Someter a la consideración del Secretario de la Defensa Nacional, programas encaminados a conservar y recuperar la salud del personal del Ejército y Fuerza Aérea mediante acciones de atención medicoquirúrgica integral;
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1994)</small>
 
-II. Proponer innovaciones en los sistemas de evacuación y hospitalización del personal del Ejército y Fuerza Aérea;
+I. Someter a la consideración del Secretario de la Defensa Nacional, programas encaminados a conservar y recuperar la salud del personal del Ejército y Fuerza Aérea mediante acciones de atención medicoquirúrgica integral; y los relacionados con la medicina veterinaria;
+
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1994)</small>
+
+II. Proponer innovaciones en los sistemas de evacuación y hospitalización del personal del Ejército y Fuerza Aérea, así como los relativos a los animales con que se cuente;
 
 III. Expedir certificados de salud, así como dictámenes periciales;
 
@@ -947,11 +959,39 @@ VII. Proponer acciones de asistencia social en asuntos de su competencia;
 
 VIII. Promover actividades relacionadas con la educación para la salud;
 
-IX. Proponer programas tendientes a evitar y combatir la contaminación ambiental;
+> <small>(ADICIONADA, D.O.F. 21 DE NOVIEMBRE DE 1994)</small>
 
-X. Proponer programas de visitas de supervisión a las unidades, dependencias e instalaciones del servicio que le dependan técnica y administrativamente; y
+IX. Controlar técnica y administrativamente al Servicio de Veterinaria y Remonta;
 
-XI. Proponer innovaciones en la organización y funcionamiento de las unidades e instalaciones del servicio.
+> <small>(ADICIONADA, D.O.F. 21 DE NOVIEMBRE DE 1994)</small>
+
+X. Intervenir y dictaminar técnicamente en la cría, remonta, adquisición de ganado caballar, mular y de otras especies, equipo y material veterinario; y en coordinación con la Dirección General de Caballería la adquisición, alta, baja y desecho de ganado caballar;
+
+> <small>(ADICIONADA, D.O.F. 21 DE NOVIEMBRE DE 1994)</small>
+
+XI. Elaborar, almacenar, abastecer, evacuar, mantener y controlar el equipo, medicamentos y material diverso de veterinaria y remonta;
+
+> <small>(ADICIONADA, D.O.F. 21 DE NOVIEMBRE DE 1994)</small>
+
+XII. Formular las estadísticas médico-zootécnicas, así como las cartas epizootiológicas y bromatológicas;
+
+> <small>(ADICIONADA, D.O.F. 21 DE NOVIEMBRE DE 1994)</small>
+
+XIII. Fomentar la cría de ganado equino e híbrido, y en lo referente al ganado caballar su selección en coordinación con la Dirección General de Caballería, para destinarlo a las unidades, dependencias e instalaciones que cuentan con este tipo de semovientes en sus cargos;
+
+> <small>(ADICIONADA, D.O.F. 21 DE NOVIEMBRE DE 1994)</small>
+
+XIV. Proponer la adquisición, cría, selección y explotación de especies domésticas;
+
+> <small>(ADICIONADA, D.O.F. 21 DE NOVIEMBRE DE 1994)</small>
+
+XV. Llevar a cabo la inspección sanitaria de los alimentos de origen animal y otros, estableciendo las raciones específicas de alimentos para las diferentes especies de animales;
+
+XVI. Proponer programas tendientes a evitar y combatir la contaminación ambiental;
+
+XVII. Proponer programas de visitas de supervisión a las unidades, dependencias e instalaciones del servicio que le dependan técnica y administrativamente; y
+
+XVIII. Proponer innovaciones en la organización y funcionamiento de las unidades e instalaciones del servicio.
 
 ### CAPITULO XIV. De la Dirección General de Materiales de Guerra
 
@@ -1189,6 +1229,32 @@ VI. Proponer programas tendientes a evitar y combatir la contaminación ambienta
 
 VII. Realizar visitas de supervisión a los organismos que la constituyen, de conformidad con las directivas del Secretario de la Defensa Nacional.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 21 DE NOVIEMBRE DE 1994)</small>
+
+### CAPITULO XXIV BIS. De la Dirección General de Comunicación Social
+
+> <small>(ADICIONADO, D.O.F. 21 DE NOVIEMBRE DE 1994)</small>
+
+ARTICULO 49 BIS.- Corresponde a la Dirección General de Comunicación Social;
+
+I. Planear, formular, dirigir y coordinar la política de comunicación social y de relaciones públicas de la Secretaría de la Defensa Nacional;
+
+II. Establecer, mantener e incrementar las relaciones públicas con instituciones y representantes de los sectores públicos, social y privado y medios de comunicación ;
+
+III. Canalizar las solicitudes de entrevistas, reportajes especiales e información solicitada por los medios de comunicación al Alto Mando;
+
+IV. Coordinar las conferencias de prensa, visitas individuales o grupales de los medios de comunicación e instalaciones militares, reportajes especiales, entrevistas, transmisión de boletines de prensa y emisión de material informativo a los medios de comunicación;
+
+V. Realizar el análisis de información difundida en los medios de comunicación social;
+
+VI. Gestionar la acreditación de los representantes de los medios de comunicación;
+
+VII. Realizar reportajes, entrevistas y otros géneros periodísticos que contribuyan con la publicación y otros materiales informativos para cubrir las necesidades de comunicación de la Secretaría de la Defensa Nacional;
+
+VIII: Evaluar los efectos y resultados de los objetivos de los servicios de información, difusión y relaciones públicas proporcionadas, a fin de mejorar la organización, sistemas y procedimientos empleados, y
+
+IX. Constituirse en el vocero oficial de la Secretaría de la Defensa Nacional.
+
 ### CAPITULO XXV. De los Organos del Fuero de Guerra
 
 ### CAPITULO UNICO
@@ -1250,3 +1316,11 @@ SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de la Defensa Nacio
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de agosto de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de la Defensa Nacional, Antonio Riviello Bazán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 21 DE NOVIEMBRE DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
