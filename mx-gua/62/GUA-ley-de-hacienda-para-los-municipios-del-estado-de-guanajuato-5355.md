@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "1998-12-22"
+last_updated: "1999-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1999.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -1987,7 +1987,9 @@ Este impuesto se pagará mensualmente a más tardar el día 15 de cada uno de lo
 
 ## TITULO QUINTO. DE LOS DERECHOS
 
-### CAPITULO UNICO. REGLAS GENERALES
+> <small>(REFORMADA SU NUMERACION, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+### CAPITULO PRIMERO. REGLAS GENERALES
 
 ###### ARTICULO 225.
 
@@ -2004,6 +2006,52 @@ La dependencia, funcionario o empleado que preste el servicio por el cual se pag
 ###### ARTICULO 228.
 
 El funcionario o empleado público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto en los artículos anteriores, será solidariamente responsable de su pago, sin perjuicio de las sanciones que en tal caso procedan.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+### CAPITULO SEGUNDO. POR EXPEDICION DE LICENCIAS O PERMISOS PARA EL ESTABLECIMIENTO DE ANUNCIOS
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 228 A.- Son objeto de este derecho, las licencias o permisos que se expidan para la colocación y uso de anuncios, carteles o publicidad en la vía pública o visibles desde la misma; así como la difusión fonética por medios electrónicos que proporcionen información, orientación o identifiquen un servicio profesional, marca, producto o establecimiento, con fines de lucro; las cuales se otorgarán de conformidad con la reglamentación municipal correspondiente.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 228 B.- Están obligados al pago de este derecho las personas físicas o morales, tenedoras o usuarias de anuncios, carteles o publicidad en la vía pública o visibles desde la misma, o bien, que realicen publicidad mediante difusión fonética por medios electrónicos.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 228 C.- La base para el pago de este derecho será determinada:
+
+I.- Por metro cuadrado o fracción, tratándose de anuncios o carteles de pared, o adosados al piso o azotea, así como los fijados en vehículos de servicio público o particular;
+
+II.- Por día, cuando se trate de difusión fonética; y
+
+III.- Por anuncio o por pieza, en los casos de publicidad móvil, temporal o inflable.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 228 D.- Este derecho se causará y pagará de acuerdo con la tarifa que establezca la Ley de Ingresos para los Municipios del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 228 E.- No se causará este derecho en los siguientes casos:
+
+I.- La publicidad que se realice por medio de televisión, radio, periódicos o revistas;
+
+II.- Por anuncios que correspondan a nombres, denominaciones o razones sociales, colocados en las fachadas de las fincas o establecimientos donde se encuentre ubicada la negociación o en vehículos propiedad de la misma;
+
+III.- La publicidad que realicen el Estado y los municipios en funciones de derecho público, los partidos políticos, las instituciones de asistencia o beneficencia públicas, las asociaciones religiosas y las de carácter cultural; y
+
+IV.- Por publicidad que mediante difusión fonética y con elementos de su propiedad, realicen personas físicas comerciantes o prestadoras de servicios, sobre sus actividades o giros.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 228 F.- Las licencias o permisos para el establecimiento de anuncios que tengan vigencia anual, podrán refrendarse pagando los derechos que se causen, de conformidad con lo dispuesto en la Ley de Ingresos para los Municipios del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 228 G.- La (sic) autoridades municipales regularán en sus reglamentos respectivos o mediante disposiciones de carácter general, los requisitos para la obtención de las licencias o permisos para el establecimiento de anuncios, carteles o publicidad; Así como sus características, contenido, dimensiones, espacios en que se fijen o instalen, el procedimiento para su colocación, los materiales, estructuras, soportes, sistemas de iluminación que se utilicen en su construcción y su permanencia.
 
 ### CAPITULO UNICO
 
@@ -2434,3 +2482,9 @@ Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 22 DE DICIEMBRE DE 1998.
 
 Artículo Unico.- El presente Decreto entrará en vigor el primero de enero de 1999 mil novecientos noventa y nueve.
+
+P.O. 28 DE DICIEMBRE DE 1999.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día primero de enero del año 2000 dos mil.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan la presente Decreto.
