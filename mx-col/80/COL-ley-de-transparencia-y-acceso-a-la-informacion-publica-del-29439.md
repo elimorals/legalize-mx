@@ -4,7 +4,7 @@ identifier: "COL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-2943
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-01"
-last_updated: "2003-03-01"
+last_updated: "2004-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 2004.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 1 de marzo de 2003.
 
@@ -245,11 +245,11 @@ Es de aprobarse y se aprueba la Ley de Transparencia y Acceso a la Información 
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1°.
 
-La presente Ley es de orden público, reglamentaria de los artículos 6° de la Constitución Política de los Estados Unidos Mexicanos y 1°, fracción IV, de la Constitución Política del Estado y tiene por objeto garantizar el ejercicio del derecho de toda persona de tener acceso a la información pública en el Estado de Colima.
+La presente Ley es de orden público, reglamentaria de los artículos 6° de la Constitución Política de los Estados Unidos Mexicanos y 1, fracción IV, de la Constitución Política del Estado y tiene por objeto garantizar el ejercicio del derecho de toda persona de tener acceso a la información pública en el Estado de Colima.
 
 ###### ARTICULO 2°.
 
@@ -327,7 +327,7 @@ XI. Interés público: Valoración atribuida a los fines que persigue la consult
 
 XII. Ley: La Ley de Transparencia y Acceso a la Información Pública del Estado de Colima;
 
-XIII. Ley de Responsabilidades: A la Ley Estatal de Responsabilidades de los Servidores Públicos;
+XIII. Ley de Responsabilidades: a la Ley Estatal de Responsabilidades de los Servidores Públicos;
 
 XIV. Persona: Todo ser humano, grupos de individuos o personas morales creadas conforme a la ley; y
 
@@ -433,7 +433,7 @@ En las entidades públicas, así como en las bibliotecas y archivos públicos a 
 
 Las entidades públicas deberán atender las recomendaciones que para el efecto haga la Comisión.
 
-### CAPÍTULO III. DE LA PROMOCIÓN DE UNA CULTURA DE APERTURA A LA INFORMACIÓN
+### CAPÍTULO III. DE LA PROMOCIÓN DE UNA CULTURA DE APERTURA A LA INFORMACION
 
 ###### ARTICULO 17.
 
@@ -465,7 +465,7 @@ III. La información cuya divulgación pueda causar un serio perjuicio a las act
 
 IV. La información que comprometa los procedimientos de investigación penal, salvo los casos de excepción previstos por la Ley;
 
-V. Cuando se trate de información sobre estudios y proyectos cuya divulgación pueda causar daños al interés del Estado o suponga un riesgo para su realización;
+V. Cuando se trate con información sobre estudios y proyectos cuya divulgación pueda causar daños al interés del Estado o suponga un riesgo para su realización;
 
 VI. La que se refiera a servidores públicos que laboren o hayan laborado en el ámbito de la seguridad pública, procuración e impartición de justicia, que por su publicación pudiera poner en peligro su vida, de otros servidores públicos o de terceros;
 
@@ -609,9 +609,11 @@ Las entidades públicas consideradas en la presente Ley, están obligadas a entr
 
 ### CAPÍTULO VI. DE LA COMISIÓN ESTATAL PARA EL ACCESO A LA INFORMACIÓN PÚBLICA
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 35.
 
-Como órgano de autoridad, promoción, difusión e investigación sobre el derecho de acceso a la información pública se crea la Comisión Estatal para el Acceso a la Información Pública como un organismo con autonomía patrimonial, de operación y de decisión.
+Se crea la Comisión Estatal para el Acceso a la Información Pública como autoridad encargada de la promoción, difusión e investigación sobre el derecho de acceso a la información pública con carácter de organismo público descentralizado, con personalidad jurídica y patrimonio propios y autonomía de operación y de decisión.
 
 ###### ARTICULO 36.
 
@@ -635,7 +637,7 @@ V. No ser ni haber sido dirigente de ningún partido o asociación política ni 
 
 VI. No haber sido condenado por delito doloso.
 
-Los comisionados durarán en su encargo un período de siete años, sin posibilidad de reelección. Los comisionados no podrán ser retirados de sus cargos durante el período para el que fueron nombrados, salvo por causa grave que calificará el Congreso. Este cargo es incompatible con cualquier otro empleo o actividad, salvo la docencia y la investigación académica.
+Los comisionados durarán en su encargo un periodo de siete años, sin posibilidad de reelección. Los comisionados no podrán ser retirados de sus cargos durante el período para el que fueron nombrados, salvo por causa grave que calificará el Congreso. Este cargo es incompatible con cualquier otro empleo o actividad, salvo la docencia y la investigación académica.
 
 El presidente será nombrado por los propios comisionados por un período de dos años, pudiendo ser reelecto.
 
@@ -697,7 +699,7 @@ Los solicitantes que se consideren afectados por los actos y resoluciones de las
 
 El plazo para interponer el recurso de inconformidad será de diez días hábiles, contados a partir de la fecha en que surta efectos la notificación de la resolución administrativa impugnada.
 
-El recurso de inconformidad se presentará ante la oficina encargada de liberar la información. En un plazo máximo de cinco días hábiles, dicha oficina deberá rendir al titular de la entidad el Informe Justificado correspondiente.
+El recurso de inconformidad se presentará ante la oficina encargada de liberar la información. En un plazo máximo de cinco días hábiles, dicha oficina deberá rendir al titular de la entidad el informe justificado correspondiente.
 
 El titular de la entidad pública estará obligado a emitir la resolución en un término no mayor de diez días hábiles, contados a partir del día siguiente del vencimiento del plazo a que se refiere el párrafo anterior.
 
@@ -805,11 +807,9 @@ Los miembros de la Comisión Estatal para el Acceso a la Información Pública s
 
 Para la integración inicial de la Comisión y por única vez, los comisionados serán elegidos por cinco, seis y siete años, respectivamente, con el objeto de que al momento de la renovación de los mismos, siempre sea posible contar con una adecuada combinación de experiencia, conocimiento y prestigio personal y profesional.
 
-La Comisión expedirá su Reglamento Interior en un período no mayor a noventa días a partir de su constitución.
+La Comisión expedirá su Reglamento Interior en un periodo no mayor a noventa días a partir de su constitución.
 
-A partir de su toma de posesión, los miembros de la Comisión deberán instrumentar las acciones concernientes a que la presente Ley sea conocida y difundida entre los diversos sectores sociales, así como a concientizar a los ciudadanos y servidores públicos de la
-
-importancia que revisten los derechos de acceso a la información, en una sociedad democrática.
+A partir de su toma de posesión, los miembros de la Comisión deberán instrumentar las acciones concernientes a que la presente Ley sea conocida y difundida entre los diversos sectores sociales, así como a concientizar a los ciudadanos y servidores públicos de la importancia que revisten los derechos de acceso a la información, en una sociedad democrática.
 
 Para lo anterior podrán atraer el concurso de instituciones de educación superior, así como de organismos nacionales e internacionales especializados en el tema.
 
@@ -844,3 +844,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 28 días del mes de febrero del año dos mil tres.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE ENERO DE 2004.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
