@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-expropiacion-del-estado-de-tabasco-8061"
 country: "mx"
 rank: "ley"
 publication_date: "1948-05-29"
-last_updated: "1948-05-29"
+last_updated: "1959-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE EXPROPIACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 1959.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 29 de mayo de 1948.
 
@@ -99,15 +99,25 @@ Corresponde al Poder Ejecutivo del Estado, apreciar la existencia de la necesida
 
 DEL PROCEDIMIENTO ADMINISTRATIVO.
 
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 1959)</small>
+
 ###### Art. 7o.
 
-Cuando para alguno de los fines y por algunas de las causas del artículo 5o., se considere necesario afectar alguno de los bienes de propiedad privada a que se refiere el artículo 4o., el Ejecutivo del Estado ordenará la apertura de expediente administrativo, en cuyo primer acuerdo se expresará cuál de aquellos fines se quiere lograr y a qué bienes habrá de referirse.
+Cuando para alguno de los fines y por algunas de las causas del artículo 5o., se considere necesario afectar alguno de los bienes de propiedad privada a que se refiere el artículo 4o., el Ejecutivo del Estado ordenará la apertura de expediente administrativo, en cuyo primer acuerdo se expresará cuál de aquellos fines se quiere lograr y a que bienes habrá de referirse; y si la urgencia de realizar la expropiación para la satisfacción de la causa de utilidad pública que la motiva lo amerita, bastará que el Ejecutivo tramite el expediente hasta hacer la declaratoria provisional que corresponda, sin necesidad de ceñir su tramitación a lo establecido por los artículos subsecuentes.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 1959)</small>
+
+###### Art. 7o.
+
+bis.- La urgencia de que habla el artículo anterior, quedará al arbitrio del Ejecutivo del Estado, quien tendrá la obligación de exponer razones suficientes que la funden. En estos casos, en la misma declaratoria podrá ordenar la ocupación inmediata de los bienes objeto de la expropiación para realizar los fines que la motivan. Ejecutada aquella, se continuará en lo conducente la tramitación del expediente administrativo, observando lo dispuesto en los artículos siguientes en todo lo que no se opongan a éste y al anterior precepto, dentro de la cual se oirá a los afectados en los términos y para los efectos de los artículos 8 y 9 de esta Ley, procediéndose a dictar la resolución definitiva que corresponda.
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 1959)</small>
 
 ###### Art. 8o.
 
-Dicho expediente puede iniciarse de oficio, o a solicitud de Ayuntamiento o entidad u organismo interesado especialmente; y en él se recogerán instructivamente cuantos datos e informes se estimen convenientes, y entre ellos, la constancia del valor fiscal; para resolver sobre su procedencia en definitiva.
+En todos los demás casos, dicho expediente administrativo puede iniciarse de oficio, o a solicitud de Ayuntamiento o, Entidad u organismo interesado especialmente; y en él se recogerán instructivamente cuantos datos e informes se estimen convenientes, y entre ellos, la constancia del valor fiscal; para resolver sobre su procedencia en definitiva.
 
-También se oirá a los propietarios afectados o a sus representantes, para que, si lo estiman conveniente, expongan por escrito su conformidad u oposición, razonando ésta, y apoyándola en las pruebas que tiendan a demostrar no ser necesaria la afectación de sus bienes en el caso de que se trata, o sobre el aumento de valor de los bienes, posterior a la última calificación fiscal.
+También se oirá a los propietarios afectados o a sus representantes, para que, si lo estiman conveniente, expongan por escrito su conformidad u oposición, razonando ésta, y apoyándola en las primeras que tiendan a demostrar no ser necesaria la afectación de sus bienes en el caso de que se trata, o sobre el aumento de valor de los bienes, posterior a la última calificación fiscal.
 
 A los efectos del párrafo anterior, se citará personalmente a los propietarios o a sus representantes legales que tengan domicilio conocido en el Estado; y a los que no estuvieren en ese caso, por medio de aviso que se publicará en el Periódico Oficial. El término que se les fije para comparecer en el expediente, será de cinco días a los de domicilio conocido, y de diez días a los demás. Este término se contará desde el siguiente hábil al de notificación personal, o en su caso, del de unión del ejemplar del Periódico. Las notificaciones subsiguientes, se harán por lista, y surtirán efecto desde el día siguiente al de su publicación.
 
@@ -287,11 +297,13 @@ Si el propietario rehusare el cobro, o no tuviere domicilio en el Estado las can
 
 DE LAS CONSECUENCIAS DE LA EXPROPIACION.
 
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 1959)</small>
+
 ###### Art. 37.
 
 Si los bienes que hayan sido objeto de una expropiación, limitación de dominio u ocupación temporal, no fueren destinados al fin que la motivó, dentro de los 3 años siguientes y contados desde la orden judicial de ocupación, el propietario afectado podrá reclamar a su vez la reversión del bien de que se trate, o la insubsistencia del acuerdo de limitación del dominio o de ocupación temporal, previa devolución de la indemnización recibida, con deducción o aumento de ese valor, según que la cosa hubiere desmerecido o mejorado la ocupación, a juicio de peritos.
 
-Esta acción se ejercitará ante el mismo Juzgado que hubiere ordenado la ocupación, compareciendo en el mismo expediente, y tramitándose la demanda contra la entidad expropiante, por los del juicio civil sumario.
+Esta acción se ejercitará ante el mismo Juzgado que hubiere ordenado la ocupación, compareciendo en el mismo expediente, y tramitándose la demanda contra la Entidad expropiante, por los del juicio civil sumario.
 
 Dicha acción prescribirá en el término de un año, contando desde el día en que pudo ejercitarse por vencimiento del otro término a que se refiere el párrafo primero de este artículo.
 
@@ -326,3 +338,9 @@ FRANCISCO J. SANTAMARIA.
 El Secretario General de Gobierno.
 
 LIC. JOAQUIN BATES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE ENERO DE 1959.
+
+UNICO.- Las presentes reformas y adiciones a la Ley de Expropiación del Estado, vigente, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
