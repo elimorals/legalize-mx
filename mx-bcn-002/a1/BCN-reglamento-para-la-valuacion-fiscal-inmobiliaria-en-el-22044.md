@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-valuacion-fiscal-inmobiliaria-en-el-22044"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-08-10"
-last_updated: "2001-08-10"
+last_updated: "2001-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA VALUACION FISCAL INMOBILIARIA EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2001.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 10 de agosto de 2001.
 
@@ -394,3 +394,15 @@ La Tesorería Municipal en un plazo 30 (sic) días a partir de la publicación d
 ###### ARTÍCULO CUARTO.
 
 La Tesorería Municipal en un plazo de 30 días a partir de la publicación del presente Reglamento, deberá someter a aprobación del Presidente Municipal los manuales, instructivos, formas y normas técnicas, que sean necesarias para la práctica de los avalúos fiscales a que se refiere el presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2001)</small>
+
+###### ARTÍCULO QUINTO.
+
+Aquellos Valuadores que acrediten haber fungido como tales, ante la Autoridad Fiscal Municipal, o acrediten contar con un mínimo de dos años de práctica valuatoria en el Municipio de Mexicali, y que no cuenten con la especialidad a que se refiere la fracción II del artículo 8 del presente Reglamento, podrán obtener su registro; debiendo acreditar dicha especialidad en un término no mayor a tres años contados a partir de la publicación de la presente reforma; después del término mencionado se les requerirá que cumplan en su totalidad los requisitos del artículo 8. Asimismo, los valuado res que no se encuentren en el supuesto mencionado deberán cumplir con todos los requisitos indicados en el Reglamento.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE OCTUBRE DE 2001.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
