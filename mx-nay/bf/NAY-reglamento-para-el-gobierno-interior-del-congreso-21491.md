@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-el-gobierno-interior-del-congreso-21491"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-30"
-last_updated: "2001-05-30"
+last_updated: "2002-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NAY"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2002.
 
-Reglamento Publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 30 de mayo del 2001.
+Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 30 de mayo del 2001.
 
 DECRETO NÚMERO 8346
 
@@ -571,7 +571,9 @@ A la Diputación Permanente podrá incorporarse con voz, pero sin voto, un repre
 
 La Diputación Permanente funcionará, además, de acuerdo con las siguientes reglas:
 
-I.- Celebrar las reuniones que sean necesarias para el despacho de los asuntos que la Constitución Política y la ley le reservan, debiendo hacerlo cuando menos una vez a la semana. Al efecto, observará las disposiciones de este reglamento;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+I.- Celebrar las reuniones que sean necesarias para el despacho de los asuntos que la Constitución Política del Estado y la ley le reserva, debiendo hacerlo cuando menos una vez al mes. Al efecto, observará las disposiciones de este reglamento;
 
 II.- Tramitar administrativamente los asuntos puestos a su conocimiento y turnar a las comisiones los que correspondan;
 
@@ -2190,3 +2192,9 @@ Carlos Enrique Gacia Cambero.- Rúbrica.
 Dip. Segundo Secretario,
 
 Margarita Basto Paredes.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE DICIEMBRE DE 2002
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
