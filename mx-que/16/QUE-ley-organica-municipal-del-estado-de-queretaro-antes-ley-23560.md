@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2004-10-08"
+last_updated: "2004-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -1399,9 +1399,13 @@ El titular de la dependencia encargada de las finanzas públicas es el responsab
 
 Para la elaboración de la Ley de Ingresos, el Titular de la dependencia encargada de las finanzas públicas presentará al Ayuntamiento, a más tardar el día primero de noviembre, un proyecto de iniciativa de Ley, en el cual hará acopio de la información económica y contable del ejercicio anterior, así como de los factores generales que reflejen la situación económica del municipio y la región.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 108.
 
-A más tardar el 15 de noviembre de cada año, el Ayuntamiento, deberá formular la iniciativa de Ley de Ingresos correspondiente la cual se turnará de inmediato a la Legislatura. El ayuntamiento que incumpla esta disposición será sancionado de conformidad con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
+El Ayuntamiento deberá formular la iniciativa de Ley de Ingresos correspondiente, la cual se turnará a más tardar el 30 de Noviembre a la Legislatura. El Ayuntamiento que incumpla esta disposición será sancionado de conformidad con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
+
+La Legislatura del Estado resolverá lo conducente a más tardar el 15 de diciembre.
 
 ###### ARTICULO 109.
 
@@ -2050,3 +2054,9 @@ P.O. 8 DE OCTUBRE DE 2004.
 PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 SEGUNDO. Se derogan las disposiciones que se opongan a la presente.
+
+P.O. 29 DE OCTUBRE DE 2004.
+
+Artículo Primero.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
