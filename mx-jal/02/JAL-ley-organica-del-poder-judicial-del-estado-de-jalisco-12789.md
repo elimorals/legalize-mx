@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2000-01-18"
+last_updated: "2000-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -1371,7 +1371,9 @@ II. No tener más de sesenta y cinco años de edad, ni menos de veintisiete al d
 
 III. Ser abogado o licenciado en derecho, con título registrado en la Dirección de Profesiones del Estado;
 
-IV. Acreditar cuando menos cinco años de práctica profesional que se contarán desde la fecha de registro del título;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+IV. Acreditar cuando menos cinco años de práctica profesional desde la obtención de la cédula provisional, de conformidad con la Ley de Profesiones del Estado;
 
 V. Aprobar el examen de oposición;
 
@@ -1695,9 +1697,11 @@ Cuando a juicio del Pleno del Consejo General del Poder Judicial, los reglamento
 
 El Pleno del Consejo General del Poder Judicial se integrará con los siete consejeros, pero bastará la presencia de cinco de ellos para funcionar legalmente.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 143.
 
-Las sesiones ordinarias del Pleno del Consejo General serán privadas y se celebrarán en los días y horas que el mismo determine por medio de acuerdos generales.
+Las sesiones ordinarias del Pleno del Consejo General serán privadas, podrán ser públicas cuando así se acuerde por unanimidad y se celebrarán en los días y horas que el mismo Consejo determine, mediante acuerdos generales.
 
 ###### Artículo 144.
 
@@ -2757,7 +2761,7 @@ El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 10 DE ENERO DE 1998.
 
@@ -2768,3 +2772,7 @@ P.O. 18 DE ENERO DE 2000.
 PRIMERO. En concordancia con el artículo cuarto transitorio del Decreto 18214, las Salas del Tribunal funcionarán simultáneamente de manera unitaria para conocer los asuntos iniciados bajo la vigencia de la Ley de Justicia Administrativa y, seguirán funcionando las Salas de manera colegiada, como hasta la fecha se encuentran integradas, única y exclusivamente y hasta en tanto se resuelvan los juicios cuyo trámite hubiese iniciado conforme a las disposiciones de la ley del Procedimiento Administrativo del Estado, antes Ley del Procedimiento Contencioso Administrativo del Estado de Jalisco.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2000.
+
+UNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
