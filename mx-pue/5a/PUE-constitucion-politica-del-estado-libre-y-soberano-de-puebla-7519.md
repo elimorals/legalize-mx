@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "1979-05-04"
+last_updated: "1980-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 1979.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 1980.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -133,7 +133,7 @@ I. Poder ser votados para todos los cargos de elección popular, y nombrados par
 
 II. Reunirse para tratar y discutir los negocios públicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 1974)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 1974)</small>
 
 ###### Artículo 14.
 
@@ -385,21 +385,29 @@ Diez días antes del fijado para la apertura del Congreso, los presuntos diputad
 
 Inmediatamente antes de la declaración, los Diputados propietarios y Suplentes harán la protesta de guardar y hacer guardar la Constitución General y la de esta Entidad Federativa, mirando en todo por el bien de la República y del Estado. La misma protesta harán los Diputados que se presenten después de la instalación.
 
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1980)</small>
+
 ###### Artículo 38.
 
-El Congreso tendrá cada año dos períodos ordinarios de sesiones que comenzarán: el primero, el día quince de enero y terminará el quince de abril y el segundo, el quince de julio y concluirá el quince de septiembre.
+El Congreso tendrá cada año tres períodos ordinarios de sesiones que comenzarán: el primero, el día quince de enero y terminará el quince de marzo; el segundo, el día quince de julio y concluirá el quince de septiembre y el tercero, el día quince de noviembre y fenecerá el treinta y uno de diciembre.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1980)</small>
 
 ###### Artículo 39.
 
-Durante el primer período de sesiones el Congreso se ocupará de los asuntos siguientes:
+Durante el primer Período de Sesiones el Congreso se ocupará de estudiar, discutir y votar las iniciativas de Ley que se presenten y resolver los demás asuntos que le corresponden conforme a esta Constitución.
 
-I. Examinar y calificar las cuentas de recaudación y aplicación de los fondos públicos, correspondientes al año próximo anterior, las cuales serán presentadas por el Ejecutivo en los primeros diez días de las sesiones, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si los gastos están justificados y si hay lugar a exigir alguna responsabilidad.
+En el segundo período, a demás de lo mencionado en el párrafo anterior, se avocará (sic) a examinar y calificar la Cuenta de la Hacienda Publicas (sic) Estatal correspondiente al año inmediato anterior, que le será presentada por el Ejecutivo antes del inicio de este Período: declarando si las cantidades percibidas y gastadas están de acuerdo con las Partidas respectivas de los Presupuestos, aprobados previamente, si los gastos están justificados y si hay lugar a exigir alguna responsabilidad.
 
-II. Estudiar, discutir y votar las iniciativas de Ley que se presenten y resolver los demás asuntos que le corresponden conforme a esta Constitución.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1980)</small>
 
 ###### Artículo 40.
 
-En el segundo período se ocupará el Congreso, de preferencia, en discutir y decretar los presupuestos de ingresos y egresos del Estado y de los Municipios, que le serán presentados: el primero, por el Ejecutivo, y los segundos por los Ayuntamientos respectivos, por conducto del mismo Ejecutivo, quien presentará a la vez las observaciones que tuviere que hacer a los presupuestos formulados por los Ayuntamientos; también se ocupará, en su caso, de lo enunciado en la fracción II del artículo anterior.
+En el tercer período se ocupará el Congreso, de preferencia, en discutir y decretar los presupuestos de ingresos y egresos del Estado y de los Municipios, que le serán presentados, los primeros, por el Ejecutivo, y los segundos por los Ayuntamientos respectivos, por conducto del mismo Ejecutivo, quien presentará a la vez las observaciones que tuviere que hacer a los presupuestos formulados por los Ayuntamientos, también se ocupará, en su caso, de lo enunciado en el párrafo primero del artículo anterior.
+
+Los proyectos de Ingresos y Egresos del Estado, le serán presentados dentro de los términos señalados por la Ley Estatal de Presupuesto, Contabilidad y Gasto Público.
+
+Lo correspondiente a los municipios le serán presentados a más tardar el 19 de noviembre.
 
 ###### Artículo 41.
 
@@ -883,7 +891,9 @@ XII. Convocar al Congreso a sesiones extraordinarias cuando lo juzgue necesario.
 
 XIII. Fijar la interpretación de las leyes de ingresos y de egresos del Estado y de los reglamentos expedidos por el Ejecutivo.
 
-XIV. Presentar al Congreso en los primeros diez días de las sesiones, los Presupuestos de los Ingresos y Egresos del Estado y de los Municipios y las cuentas de recaudación y aplicación de los fondos públicos en el año próximo anterior.
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1980)</small>
+
+XIV. Presentar al Congreso, de acuerdo con lo señalado en los Artículos 39 y 40 de esta Constitución, la cuenta de la Hacienda Pública Estatal correspondiente al año inmediato anterior, así como las Leyes de Ingresos y Presupuestos de Egresos del Estado y Municipios.
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 1977)</small>
 
@@ -1517,11 +1527,11 @@ Palacio del Departamento Ejecutivo. Puebla de Zaragoza, 8 de septiembre de 1917.
 
 P.O. 16 DE SEPTIEMBRE DE 1930.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 17 DE NOVIEMBRE DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 13 DE NOVIEMBRE DE 1936.
 
@@ -1584,5 +1594,9 @@ Este decreto entrará en vigor al día siguiente de su publicación en el Perió
 P.O. 4 DE MAYO DE 1979.
 
 DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN.
+
+Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE SEPTIEMBRE DE 1980.
 
 Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
