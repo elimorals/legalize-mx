@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1959-10-13"
+last_updated: "1971-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE OCTUBRE DE 1959.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE JULIO DE 1971.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -97,7 +97,7 @@ REPUBLICADO, G.O. 31 DE AGOSTO DE 1943.
 
 La presente Ley surtirá efectos a partir de la fecha de su publicación, por Bando Solemne.
 
-G.O. 21 y 23 DE NOVIEMBRE DE 1944.
+G.O. 21 Y 23 DE NOVIEMBRE DE 1944.
 
 I.- Esta Ley entrará en vigor a partir de la fecha en que se dé a conocer al público por Bando Solemne.
 
@@ -227,15 +227,21 @@ El domicilio no dá derechos políticos, pero sí produce obligaciones civiles.
 
 Los domiciliados que no tengan suspensos o perdidos los derechos de ciudadano, están en el deber de cumplir sus respectivas obligaciones, sujetándose, en cuanto al derecho electoral, a lo que disponen los artículos 42, 43, 44 y 45 de esta Constitución.
 
-> <small>(REFORMADO, G.O. 6 DE NOVIEMBRE DE 1956)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE JULIO DE 1971)</small>
 
-###### Artículo 25.
+###### ARTICULO 25.
 
-Son ciudadanos veracruzanos, los varones y mujeres mexicanos por nacimiento o por naturalización, que reunan además las siguientes cualidades:
+Son ciudadanos veracruzanos los mexicanos por nacimiento, o por naturalización, que reúnan las siguientes cualidades:
+
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 1956)</small>
 
 I. Vecindad en el Estado, con un año de residencia, por lo menos, dentro de su territorio;
 
-II. Haber cumplido la edad de 18 años, si son casados; o la de 21, si no lo son; y,
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 1971)</small>
+
+II. Haber cumplido la edad de dieciocho años, independientemente de su estado civil;
+
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 1956)</small>
 
 III. Tener un modo honesto de vivir.
 
@@ -1440,3 +1446,7 @@ G.O. 13 DE OCTUBRE DE 1959.
 ###### ARTICULO UNICO.
 
 Las reformas mencionadas al principio, entrarán en vigor desde la fecha de su publicación, por Bando Solemne, en todas las poblaciones del Estado.
+
+G.O. 1 DE JULIO DE 1971.
+
+UNICO.- Resérvese esta reforma para conocimiento de la próxima XLIX Legislatura del Estado, para los efectos del artículo 130 de la Constitución Política Local.
