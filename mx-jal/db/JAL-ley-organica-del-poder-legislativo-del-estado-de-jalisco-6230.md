@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "2003-03-04"
+last_updated: "2003-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2003.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, PUBLICADA EN EL PERIODICO OFICIAL EL 17 DE JULIO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -35,9 +37,7 @@ DECRETO
 
 Número 8848.- El Congreso del Estado decreta:
 
-(REFORMADA SU DENOMINACION, P.O. 22 DE
-
-DICIEMBRE DE 1994)
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
@@ -2200,3 +2200,19 @@ P.O. 4 DE MARZO DE 2003
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, por el pleno de éste Congreso de Jalisco.
 
 SEGUNDO.- Publíquese el presente decreto en el Periódico Oficial "El Estado de Jalisco", de conformidad a lo que dispone el último párrafo del artículo 33 de la Constitución Política del Estado.
+
+P.O 17 DE JULIO DE 2003.
+
+PRIMERO. Se abroga la Ley Orgánica del Poder Legislativo contenida en el decreto número 8848 de fecha 26 de julio de 1972 y todas las disposiciones que se opongan a la presente ley, con excepción de lo dispuesto por el quinto transitorio.
+
+SEGUNDO. El presente decreto que contiene la Ley Orgánica del Poder Legislativo del Estado de Jalisco, entrará en vigor el día primero de febrero de 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+TERCERO. Los asuntos pendientes de resolver deben ser remitidos a las comisiones que establece esta Ley para continuar su trámite, siguiendo preferentemente el orden siguiente:
+
+(VEASE TABLA, P.O. 17 DE JULIO DE 2003, PAG. 58)
+
+CUARTO. Los asuntos pendientes de resolver deben concluirse de conformidad con lo dispuesto en la presente Ley.
+
+QUINTO. El Congreso del Estado tiene un plazo de noventa días naturales, a partir de la entrada en vigor de la presente ley, para emitir el reglamento de esta ley y el relativo a los órganos administrativos y técnicos auxiliares.
+
+En tanto se expide dicho reglamento seguirán aplicándose las disposiciones vigentes antes de la entrada de vigor de esta ley.
