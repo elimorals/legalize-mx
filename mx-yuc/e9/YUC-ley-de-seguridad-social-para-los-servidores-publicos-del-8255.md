@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-seguridad-social-para-los-servidores-publicos-del-8255"
 country: "mx"
 rank: "ley"
 publication_date: "1976-09-10"
-last_updated: "1979-01-02"
+last_updated: "1981-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "YUC"
 
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE YUCATAN, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DE CARACTER ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE ENERO DE 1979.
-
-> <small>N. DE E. HABIENDOSE INCURRIDO EN ERRATAS Y EN ALGUNAS OMISIONES AL PUBLICARSE EL SUPLEMENTO DEL DIARIO OFICIAL NUMERO 23736, DE FECHA 2 DE ENERO DE 1979, SE REPRODUCE INTEGRO EL EXPRESADO SUPLEMENTO, QUE CONTIENE EL DECRETO NUMERO 250, SOBRE REFORMAS Y ADICIONES A LA LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE YUCATAN, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DE CARACTER ESTATAL.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ENERO DE 1981.
 
 Ley publicada en el Diario Oficial el Viernes 10 de Septiembre de 1976.
 
@@ -337,11 +335,11 @@ Cuando un servidor público con quince o más años de servicios e igual tiempo 
 
 ### CAPITULO QUINTO. Seguro de Fallecimiento
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 22 DE ENERO DE 1981)</small>
 
 ###### Artículo 34.
 
-Se establece un seguro de $30,000.00 por fallecimiento del servidor público o del jubilado, sin perjuicio de las prestaciones a que tengan derecho sus familiares o dependientes económicos en otras Instituciones de carácter sindical, mutualista.
+Se establece un seguro de $100,000.00 por fallecimiento del servidor público o del jubilado; sin perjuicio de las prestaciones a que tengan derecho sus familiares o dependientes económicos en otras Instituciones de carácter sindical, mutualista.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -1052,3 +1050,7 @@ Lic. Gaspar Gómez Chacón.
 D.O. 2 DE ENERO DE 1979.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 22 DE ENERO DE 1981.
+
+UNICO.- Este Decreto entrará en vigor el día veinticinco de enero en curso.
