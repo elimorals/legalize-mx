@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1990-04-06"
+last_updated: "1990-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ABRIL DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE JUNIO DE 1990.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -504,7 +504,7 @@ Las leyes fijarán bases para que se señalen precios máximos a los artículos,
 
 No constituirán monopolios las funciones que el Estado ejerza de manera exclusiva en las áreas estratégicas a las que se refiere este precepto: Acuñación de moneda; correos, telégrafos, radiotelegrafía y la comunicación vía satélite; emisión de billetes por medio de un solo banco, organismo descentralizado del Gobierno Federal; petróleo y los demás hidrocarburos; petroquímica básica; minerales radiactivos y generación de energía nuclear; electricidad; ferrocarriles y las actividades que expresamente señalen las leyes que expida el Congreso de la Unión.
 
-Se exceptúa también lo previsto en la primera parte del primer párrafo de este artículo la prestación del servicio público de banca y de crédito. Este servicio será prestado exclusivamente por el Estado a través de instituciones, en los términos que establezca la correspondiente ley reglamentaria, la que también determinará las garantías que protejan los intereses del público y el funcionamiento de aquellas en apoyo de las políticas de desarrollo nacional. El servicio público de banda (sic) y crédito no será objeto de concesión a particulares.
+> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 27 DE JUNIO DE 1990)</small>
 
 El Estado contará con los organismos y empresas que requiera para el eficaz manejo de las áreas estratégicas a su cargo y en las actividades de carácter prioritario donde, de acuerdo con las leyes, participe por sí o con los sectores social y privado.
 
@@ -2476,7 +2476,9 @@ XXX.- Asimismo serán consideradas de utilidad social, las sociedades cooperativ
 
 XXXI.- La aplicación de las leyes del trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, pero es de la competencia exclusiva de las autoridades federales en los asuntos relativos a:
 
-a) Ramas industriales:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE JUNIO DE 1990)</small>
+
+a) Ramas industriales y servicios:
 
 1.- Textil;
 
@@ -2521,6 +2523,10 @@ a) Ramas industriales:
 20.- Vidriera, exclusivamente por lo que toca a la fabricación de vidrio plano, liso o labrado, o de envases de vidrio; y
 
 21.- Tabacalera, que comprende el beneficio o fabricación de productos de tabaco;
+
+> <small>(ADICIONADO, D.O.F. 27 DE JUNIO DE 1990)</small>
+
+22.- Servicios de banca y crédito.
 
 b) Empresas:
 
@@ -2618,9 +2624,9 @@ XIII.- Los militares, marinos y miembros de los cuerpos de seguridad pública, a
 
 El Estado proporcionará a los miembros en el activo del Ejército, Fuerza Aérea y Armada, las prestaciones a que se refiere el inciso f) de la fracción XI de este Apartado, en términos similares y a través del organismo encargado de la seguridad social de los componentes de dichas instituciones; y
 
-> <small>(ADICIONADA, 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADA, D.O.F. 27 DE JUNIO DE 1990)</small>
 
-XIII bis.- Las instituciones a que se refiere el párrafo quinto del Artículo 28, regirán sus relaciones laborales con sus trabajadores por lo dispuesto en el presente Apartado;
+XIII bis.- Las entidades de la Administración Pública Federal que formen parte del sistema bancario mexicano regirán sus relaciones laborales con sus trabajadores por lo dispuesto en el presente apartado;
 
 > <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
@@ -3803,3 +3809,9 @@ CUARTO.- Los senadores electos por tres años a la LIV Legislatura durarán en s
 QUINTO.- La Comisión Permanente se integra con 37 miembros en los términos del Artículo 78 de esta Constitución a partir del primer receso de la LIV Legislatura al H. Congreso de la Unión.
 
 SEXTO.- En tanto se expida por el Congreso de la Unión la nueva ley reglamentaria en materia electoral, seguirá en vigor el Código Federal Electoral.
+
+D.O.F. 27 DE JUNIO DE 1990.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- En tanto se expiden las nuevas normas aplicables, las instituciones de banca y crédito y las sucursales en México de bancos extranjeros que cuenten con concesión del Gobierno Federal continuarán rigiéndose por las disposiciones legales y reglamentarias vigentes.
