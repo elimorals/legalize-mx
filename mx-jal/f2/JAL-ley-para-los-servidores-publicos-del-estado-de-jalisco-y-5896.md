@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2002-06-27"
+last_updated: "2003-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -205,11 +205,9 @@ IV. En los municipios, los Ayuntamientos representados por el Presidente Municip
 
 V. En los organismos descentralizados y empresas o asociaciones de participación Estatal o Municipal Mayoritaria, quien o quienes desempeñen el cargo de mayor jerarquía, de conformidad con los ordenamientos que los rijan.
 
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
 
-###### Art. 9-A.
-
-Siempre que se vaya a instalar el procedimiento administrativo para imponer alguna sanción a un servidor público, el titular de la dependencia o entidad pública, podrá delegar, al funcionario encargado de recursos humanos, o quien haga sus veces, mediante acuerdo, la facultad de iniciar el procedimiento respectivo, quien una vez desahogado el mismo, remitirá las actuaciones al titular o encargado para que dicte la resolución respectiva.
+Art. 9 A. Siempre que se vaya a instaurar el procedimiento administrativo para imponer alguna sanción a un servidor público, el titular de la dependencia o entidad podrá delegar al funcionario encargado del jurídico, o quien haga sus veces, mediante acuerdo, la facultad de iniciar el procedimiento respectivo, quien una vez desahogado el mismo, remitirá las actuaciones al titular o encargado para que dicte la resolución respectiva.
 
 ###### Art. 10°.
 
@@ -447,13 +445,43 @@ Ningún servidor público de base podrá ser sancionado en su empleo sino por ca
 
 En caso de que la falta pudiese ameritar el cese por su gravedad, se estará a lo dispuesto por el artículo 23 de esta ley.
 
-### CAPITULO I. De la jornada de trabajo
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2003)</small>
+
+### CAPITULO VI. Del trabajo de los menores
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+###### Art. 26 Bis.
+
+El empleo de mayores de catorce años y menores de dieciséis, se sujetará a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, sus leyes reglamentarias y lo previsto por este capítulo.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+###### Art. 26 Bis 1.
+
+Este capítulo, tiene como propósito, proteger la relación laboral de los menores a que se refiere el artículo anterior, por lo que las entidades promoverá (sic) las condiciones que permitan su asistencia a la escuela y que contribuyan a su preparación técnica y profesional; así mismo, velarán por que su desarrollo psíquico y físico no sufra detrimento, evitando asignarle actividades que impliquen esfuerzos desmesurados, que puedan dañar su salud.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+###### Art. 26 Bis 2.
+
+Los menores de dieciséis años, sólo podrán prestar sus servicios en la jornada diurna, la cual no podrá exceder de seis horas. No podrán por ningún motivo trabajar tiempo extraordinario, ni laborar en los días de descanso señalados por la ley.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+###### Art. 26 Bis 3.
+
+Las labores peligrosas o insalubres, son aquellas que, por la naturaleza del trabajo, por las condiciones físicas, químicas o biológicas del medio en que se prestan o por la composición de la materia prima que se utiliza, no puedan realizar los menores de acuerdo a su grado de madurez.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+###### Art. 26 Bis 4.
+
+Las entidades, de acuerdo a su presupuesto, ayudarán a los menores de edad con libros o material escolar para incentivar su formación educativa.
 
 ## TITULO SEGUNDO. De los derechos y obligaciones de los servidores públicos
 
-### CAPITULO II. De los días de descanso
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+### CAPITULO I. De la jornada de trabajo
 
 ###### Art. 27.
 
@@ -491,7 +519,9 @@ Las horas extraordinarias de trabajo a que se refiere el artículo anterior, se 
 
 Cuando así lo disponga la Entidad Pública, los servidores tendrán el deber de desarrollar las actividades cívicas, culturales y deportivas que fueren compatibles con sus aptitudes, edad y condición de salud.
 
-### CAPITULO III. De las vacaciones y licencias
+### CAPITULO II. De los días de descanso
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### Art. 36.
 
@@ -515,9 +545,7 @@ Serán considerados como días de descanso obligatorio, los siguientes: 1 de Ene
 
 Los servidores públicos, que por necesidad del servicio, laboren en sus días de descanso obligatorio, independientemente de su sueldo percibirán un 200% del mismo por el servicio prestado, pero si coincide el día de descanso obligatorio con el día de descanso semanal obligatorio, se pagará un 300% más del sueldo, independientemente de su salario normal por ese día, sin que tales eventos puedan repetirse en más de dos ocasiones en treinta días naturales.
 
-### CAPITULO IV. De los sueldos
-
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+### CAPITULO III. De las vacaciones y licencias
 
 ###### Art. 40.
 
@@ -530,6 +558,10 @@ Cuando un servidor no pudiere hacer uso de las vacaciones en los períodos seña
 ###### Art. 41.
 
 Los días de vacaciones se cobrarán de sueldo íntegro, y la base para el cálculo del pago de los días a que tengan derecho será en proporción al número de días efectivamente trabajados, en el lapso de los seis meses anteriores al nacimiento del derecho.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+Se cubrirá la cantidad equivalente a un 25% sobre el total de los días correspondientes a vacaciones, por concepto de prima vacacional anual. Dicha prima vacacional, se deberá cubrir en forma proporcional al personal que tenga menos de un año de antigüedad.
 
 ###### Art. 42.
 
@@ -561,7 +593,9 @@ III. A los que tengan más de diez años de servicio, hasta 120 días con goce d
 
 Los cómputos deberán hacerse por servicios continuos o cuando, de existir una interrupción en la prestación de dichos servicios ésta no sea mayor de seis meses.
 
-### CAPITULO V. De las obligaciones de los servidores públicos
+### CAPITULO IV. De los sueldos
+
+> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
 ###### Art. 45.
 
@@ -659,9 +693,9 @@ El aguinaldo se cubrirá proporcionalmente tomando en cuenta las faltas de asist
 
 Los servidores públicos que no hayan cumplido un año de labores tendrán derecho a que se les pague esta prestación, en proporción al tiempo efectivamente trabajado.
 
-### CAPITULO I. De las obligaciones de las entidades públicas
+### CAPITULO V. De las obligaciones de los servidores públicos
 
-### CAPITULO II. Del escalafón
+### CAPITULO I. De las obligaciones de las entidades públicas
 
 ###### Art. 55.
 
@@ -701,7 +735,7 @@ XVI. Comunicar por escrito al titular de la Dependencia o Entidad de la que pres
 
 XVII. Abstenerse de ejercer las funciones de un empleo, cargo o comisión, después de concluido el período para el cual se le designó o de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones;
 
-XVIII. Abstenerse el superior jerárquico de disponer o autorizar a un servidor público a no asistir, sin causa justificada, a sus labores por más de quince días continuos o treinta discontínuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio público no lo exijan;
+XVIII. Abstenerse el superior jerárquico de disponer o autorizar a un servidor público a no asistir, sin causa justificada, a sus labores por más de quince días contínuos o treinta discontinuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio público no lo exijan;
 
 XIX. Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la ley le prohíba;
 
@@ -719,7 +753,7 @@ XXIV. Atender con diligencia las instrucciones, requerimientos y resoluciones qu
 
 ## TITULO TERCERO
 
-### CAPITULO III. De la seguridad social
+### CAPITULO II. Del escalafón
 
 ###### Art. 56.
 
@@ -763,7 +797,7 @@ II.- Negar la admisión a un empleo sólo por el hecho de ser mujer, estar embar
 
 III.- Provocar el despido o la renuncia de las mujeres trabajadoras por cualquier causa distinta a las mencionadas en el numeral 22 de este ordenamiento, y las demás leyes aplicables.
 
-### CAPITULO I. De los sindicatos
+### CAPITULO III. De la seguridad social
 
 ###### Art. 57.
 
@@ -809,7 +843,7 @@ II. Dar a conocer a la Comisión, la existencia de vacantes, dentro de los diez 
 
 III. Hacer la proposición de nombramientos definitivos, en favor de la persona que hubiese logrado la más alta calificación para el empleo, en concurso, una vez conocido el fallo de la Comisión Mixta de Escalafón.
 
-### CAPITULO II. De las condiciones generales de trabajo
+### CAPITULO I. De los sindicatos
 
 ###### Art. 63.
 
@@ -839,7 +873,7 @@ Las Entidades Públicas, en caso de muerte del servidor público, pagarán a la 
 
 ## TITULO CUARTO. De la organización colectiva de los servidores públicos y de las condiciones generales de trabajo
 
-### CAPITULO III. De la huelga
+### CAPITULO II. De las condiciones generales de trabajo
 
 ###### Art. 69.
 
@@ -989,7 +1023,7 @@ Las remuneraciones que se paguen a los Directivos y a los empleados de los sindi
 
 Los Sindicatos gozarán de la más amplia libertad para fijar el monto de las cuotas sindicales, pero éstas no podrán ser descontadas a los servidores públicos, cuando excedan del 1% de sus sueldos.
 
-### CAPITULO IV. De las prescripciones
+### CAPITULO III. De la huelga
 
 ###### Art. 89.
 
@@ -1037,9 +1071,7 @@ IV. Un sueldo inferior al mínimo establecido para zona económica de que se tra
 
 V. Un plazo mayor de quince días para el pago de los sueldos y demás prestaciones económicas.
 
-### CAPITULO I. Del tribunal de arbitraje y escalafón
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2002)</small>
+### CAPITULO IV. De las prescripciones
 
 ###### Art. 94.
 
@@ -1107,7 +1139,9 @@ IV. Por sobrevenir el estado previsto por el Art. 29 de la Constitución Políti
 
 V. Por desistimiento.
 
-### CAPITULO II. Del procedimiento
+### CAPITULO I. Del tribunal de arbitraje y escalafón
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2002)</small>
 
 ###### Art. 105.
 
@@ -1185,9 +1219,7 @@ Para los efectos de la prescripción, los meses se regularán por el número de 
 
 ## TITULO QUINTO
 
-### CAPITULO III. Del Procedimiento ante el Tribunal de Arbitraje y Escalafón
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
+### CAPITULO II. Del procedimiento
 
 ###### Art. 112.
 
@@ -1263,7 +1295,9 @@ VI. Invalidar las resoluciones de las comisiones mixtas de escalafón, a instanc
 
 Dicho Tribunal queda exceptuado para conocer y resolver las controversias o conflictos en materia de relaciones de trabajo que se susciten entre los servidores públicos que presten sus servicios en los tribunales y Consejo General del Poder Judicial a que se refiere el primer párrafo del artículo 56 de la Constitución Política del Estado. También queda exceptuado de conocer y resolver las controversias o conflictos de carácter colectivo que abarquen más de una entidad federativa y en que sean parte sindicatos nacionales o federales reconocidos por el Gobierno del Estado.
 
-### CAPITULO IV. Del Procedimiento de Ejecución
+### CAPITULO III. Del Procedimiento ante el Tribunal de Arbitraje y Escalafón
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
 
 ###### Art. 115.
 
@@ -1387,9 +1421,7 @@ IV. En los casos de secretarios y auxiliares de instrucción, el Pleno designar�
 
 > <small>(REFORMADO Y REUBICADO, P.O. 27 DE JUNIO DE 2002)</small>
 
-### CAPITULO I. Disposiciones generales
-
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+### CAPITULO IV. Del Procedimiento de Ejecución
 
 ###### Art. 128.
 
@@ -1481,7 +1513,7 @@ Las resoluciones dictadas por el Tribunal de Arbitraje y Escalafón serán inape
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2002)</small>
 
-### CAPITULO II. De la comisión de evaluación
+### CAPITULO I. Disposiciones generales
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -1551,7 +1583,7 @@ En tanto que no se declare ilegal, inexistente o terminado un conflicto de huelg
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
 
-### CAPITULO III. Del sistema administrativo
+### CAPITULO II. De la comisión de evaluación
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -1633,7 +1665,7 @@ Quienes desempeñen algún puesto del Servicio, tendrán los mismos derechos y o
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
 
-### CAPITULO IV. Del desarrollo y profesionalización
+### CAPITULO III. Del sistema administrativo
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -1737,7 +1769,7 @@ VI. Las demás que le otorgue la presente Ley, el Reglamento Interno y los acuer
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
 
-### CAPITULO V. De la separación y reincorporación
+### CAPITULO IV. Del desarrollo y profesionalización
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -1856,6 +1888,10 @@ Los servidores públicos adscritos al Servicio y que laboren en cualquiera de la
 Cuando un servidor público de base sea promovido para ocupar otra plaza deberá renunciar a la que estuviere desempeñando siempre y cuando la nueva plaza sea de tiempo indefinido, de lo contrario podrá solicitar licencia para separarse de su cargo por el tiempo necesario.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
+
+### CAPITULO V. De la separación y reincorporación
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
 ###### Art. 182.
 
@@ -2072,3 +2108,7 @@ SEXTO.- Para la designación del magistrado y su suplente a que se refiere la fr
 A falta de acuerdo, tanto el magistrado designado por el Gobernador del Estado como el magistrado designado por los trabajadores propondrán, cada uno, dos candidatos de los expedientes remitidos inicialmente, a fin de que, mediante insaculación, sea designado el tercer magistrado y su suplente del Tribunal de Arbitraje y Escalafón a más tardar el 31 de julio de 2002, y entre en funciones el 1º de agosto del mismo año. Levantándose acta circunstanciada de lo anterior por el Secretario de Acuerdos del Tribunal adscrito al Pleno.
 
 SÉPTIMO.- El Secretario de Acuerdos del Tribunal adscrito al Pleno fungirá, durante el mes de julio del año 2002, como magistrado provisional con las facultades y obligaciones que le da la Ley a los demás magistrados.
+
+P.O. 20 DE MARZO DE 2003.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco", en cuanto al artículo 41, este será obligatorio a partir del 1° de enero del 2004.
