@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "1993-12-29"
+last_updated: "1994-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE AGOSTO DE 1994.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -677,7 +677,7 @@ VII.- Autorización para grabar con fines de explotación comercial, material ex
 
 #### SECCION PRIMERA. Pasaportes y Documentos de Identidad y Viaje
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(REFOMADO, D.O.F. 20 DE DICIEMBRE DE 1991)
 
 #### SECCION SEGUNDA. ServiciosConsulares (sic)
 
@@ -1801,8 +1801,6 @@ Por la obtención de marbetes que se adhieran a los envases que contengan bebida
 
 #### SECCION SEGUNDA. Propiedad Industrial
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
 #### SECCION TERCERA. Inversiones Extranjeras
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
@@ -1945,307 +1943,59 @@ Por la prestación de servicios relativos a las visitas para dictaminar sobre la
 
 ###### ARTICULO 63.
 
-Por la solicitud, expedición y conservación de derechos de patente a que se refiere la legislación en materia de propiedad industrial, se pagará el derecho de propiedad industrial, conforme a las siguientes cuotas:
-
-I.- Por el examen de forma de una solicitud de patente.............. $ 1'050,000.00
-
-II.- Por el estudio y reconocimiento de cada derecho de prioridad............... $ 350,000.00
-
-III.- Por publicación anticipada de la solicitud de patente, a petición del interesado... $ 490,000.00
-
-IV.- Por el examen de fondo de la invención................ $ 2'100,000.00
-
-V.- Por la reconsideración interpuesta en contra de una denegación de patente.... $ 1'050,000.00
-
-VI,- Por el cambio del texto o dibujos de una patente concedida:
-
-a).- Para corregir errores imputables al solicitante................. $ 210,000.00
-
-b).- Para limitar la extensión de las reivindicaciones................... $ 210,000.00
-
-VII,- Por la revisión de información faltante o solicitud de prórroga:
-
-a).- Por la revisión de cada reposición de documentación, complementación de información faltante, aclaración o subsanación de omisiones.................. $ 210,000.00
-
-b).- Por solicitud de prórroga............ $ 210,000.00
-
-VIII.- Por la expedición de título............ $ 1'150,000.00
-
-IX.- Por cada anualidad de conservación de derechos de patente:
-
-a).- De la primera hasta la octava............ $ 335,000.00
-
-b).- De la novena a la decimocuarta........... $ 622,000.00
-
-c).- A partir de la decimoquinta.............. $ 935,000.00
-
-X.- Por la inscripción de la transmisión de los derechos que confiere una patente o que puedan derivarse de una solicitud en trámite; por la inscripción o cancelación de inscripción de una licencia contractual de explotación o de su modificación; por el cambio de nombre, denominación o razón social del solicitante o del titular de una patente; por cada uno de los actos enunciados................ $ 840,000.00
-
-XI.- Por la transformación de una solicitud de patente a una de registro de modelo de utilidad o de diseño industrial y viceversa.............. $ 530,000.00
-
-XII.- Por el estudio de una solicitud de licencia obligatoria o de una solicitud de modificación de sus condiciones, cuando ésta sea presentada por la persona que goce de la licencia obligatoria............... $ 1'000,000.00
-
-XIII.- Por el estudio de la solicitud de rehabilitación de patentes caducas por falta de pago oportuno de la anualidad correspondiente................ $ 1'000,000.00
-
-Al dividir un solicitante su solicitud inicial en varias solicitudes de conformidad con la legislación en materia de propiedad industrial deberán pagarse los derechos correspondientes a cada una de éstas.
-
-La obligación del pago de derechos por anualidades para la conservación de derechos de patente es a cargo del titular de la patente y no es transferible.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
 ###### ARTICULO 63-A.
 
-(DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1992)
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1992) (REPUBLICADO, D.O.F. 2 DE AGOSTO DE 1994)
 
 ###### ARTICULO 64.
 
-Por la conservación de derechos de certificados de invención a que se refiere la legislación en materia de propiedad industrial, se pagará el derecho de propiedad industrial, conforme a las siguientes cuotas:
-
-I.- Por cada anualidad de conservación de derechos:
-
-a).- De la cuarta a la séptima................ $ 180,000.00
-
-b).- De la octava a la decimoprimera................ $ 360,000.00
-
-c).- A partir de la decimosegunda............. $ 540,000.00
-
-II.- Por la inscripción de la transmisión de derechos que confiere un certificado de invención o que pueden derivarse de una solicitud en trámite; por la inscripción o cancelación de inscripción de una licencia contractual de explotación o de su modificación; por el cambio de nombre, denominación o razón social del solicitante o del titular de un certificado de invención; por cada uno de los actos enunciados............... $ 420,000.00
-
-III.- Por el estudio de una solicitud de autorización de explotación de un certificado de invención o de una solicitud de modificación de sus condiciones, cuando ésta sea presentada por la persona que goce de la autorización de explotación................ $ 1'000,000.00
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
 ###### ARTICULO 65.
 
-Por la solicitud de registro y conservación de derechos de diseños industriales, a que se refiere la legislación de la materia, se pagará el derecho de propiedad industrial, conforme a las siguientes cuotas:
-
-I.- Por el estudio de una solicitud de registro de dibujo o modelo industrial............ $ 530,000.00
-
-II.- Por el estudio y reconocimiento de cada derecho de prioridad.............. $ 180,000.00
-
-III.- Por la revisión de información faltante o solicitud de prórroga:
-
-a).- Por la revisión de cada reposición de documentación, complementación de información faltante, aclaración o subsanación de omisiones............... $ 105,000.00
-
-b).- Por cada solicitud de prórroga.......... $ 105,000.00
-
-IV.- Por la expedición del título............ $ 240,000.00
-
-V.- Por cada anualidad de conservación de derechos de diseño industrial:
-
-a).- De la primera a la novena........... $ 175,000.00
-
-b).- A partir de la décima.............. $ 310,000.00
-
-VI.- Por la inscripción de la transmisión de los derechos que confiere un registro de diseño industrial o que pueden derivarse de una solicitud en trámite; por la inscripción o cancelación de inscripción de una licencia contractual de explotación o de su modificación; por el cambio de nombre, denominación o razón social del solicitante o del titular de un registro de diseño industrial, por cada uno de los actos enunciados............. $ 600,000.00
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
 ###### ARTICULO 65-A.
 
-Por la solicitud, registro y conservación de derechos de los modelos de utilidad a que se refiere la legislación de la materia, se pagará el derecho de propiedad industrial, conforme a las siguientes cuotas:
-
-I.- Por el estudio de una solicitud de registro de modelo de utilidad............. $ 910,000.00
-
-II.- Por el estudio y reconocimiento de cada derecho de prioridad............. $ 215,000.00
-
-III.- Por la revisión de información faltante o solicitud de prórroga:
-
-a).- Por la revisión de cada reposición de documentación, complementación de información faltante, aclaración o subsanación de omisiones................ $ 120,000.00
-
-b).- Por solicitud de prórroga............. $ 120,000.00
-
-IV.- Por la expedición del título............ $ 250,000.00
-
-V.- Por cada anualidad de conservación de derechos:
-
-a).- De la primera a la tercera.............. $ 250,000.00
-
-b).- De la cuarta a la sexta.............. $ 395,000.00
-
-c).- A partir de la séptima................ $ 645,000.00
-
-VI.- Por la inscripción de la transmisión de derechos que confiere un registro de modelo de utilidad o que pueden derivarse de una solicitud en trámite; por la inscripción o cancelación de inscripción de una licencia contractual de explotación o de su modificación; por el cambio de nombre, denominación o razón social del solicitante o del titular de un registro de modelo de utilidad; por cada uno de los actos enunciados................. $ 720,000.00
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
 ###### ARTICULO 65-B.
 
-Por la solicitud de búsquedas e informes relativos a patentes, modelos de utilidad, certificados de invención y diseños industriales, se pagará el derecho de propiedad industrial conforme a las siguientes cuotas:
-
-I.- Por búsqueda bibliográfica de documentos de patentes:
-
-a).- De patentes nacionales................ $ 100,000.00
-
-b).- De las patentes extranjeras disponibles en acervos................. $ 200,000.00
-
-II.- Por búsqueda técnica de la información contenida en los documentos de patentes relativas a un producto o proceso específico:
-
-a).- De patentes nacionales................ $ 200,000.00
-
-b).- De las patentes extranjeras disponibles en acervos................. $ 400,000.00
-
-> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
-
-III.- Por informe de búsqueda sobre el estado de la técnica en un área tecnológica específica, por cada uno............. N$ 454.00
-
-IV.- Por informe sobre la vigencia de patentes, certificados de invención y registros de modelos de utilidad y diseños industriales nacionales.................. $ 40,000.00
-
-V.- Por servicios de información selectiva y periódica de los documentos de patentes publicados en la Gaceta, por área tecnológica específica:
-
-a).- Por un trimestre.............. $ 400,000.00
-
-b).- Por cuatro trimestres................ $ 1'500,000.00
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
 ###### ARTICULO 66.
 
-Por la solicitud, registro, expedición de título y vigencia de marcas a que se refiere la legislación en materia de propiedad industrial, se pagará el derecho de propiedad industrial, conforme a las siguientes cuotas:
-
-I.- Por el estudio de la solicitud de registro de una marca para aplicarse a:
-
-a).- Un solo producto o servicio de una clase cualquiera............... $ 75,000.00
-
-b).- De dos a diez productos o servicios de una clase............... $ 150,000.00
-
-c).- De más de diez a treinta productos o servicios de una sola clase................ $ 300,000.00
-
-d).- De más de treinta productos o servicios o para todos los productos o servicios de una sola clase................ $ 600,000.00
-
-II.- Por el estudio de la solicitud de registro de una marca colectiva.............. $ 600,000.00
-
-III.- Por el estudio y reconocimiento de cada derecho de prioridad............ $ 350,000.00
-
-IV.- Por el registro y la expedición del título.................. $ 300,000.00
-
-> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
-
-V.- Por la renovación de una marca si se efectúa en su clase o si se efectuó en otra clase, por cada clase............. N$ 1,192.00
-
-VI.- Por la inscripción de la transmisión de los derechos que confiere un registro de marca o que puedan derivarse de una solicitud en trámite; por la inscripción o cancelación de inscripción de una licencia contractual de uso o de su modificación; por el cambio de nombre, denominación o razón social del solicitante o del titular de un registro de marca; por cada uno de los actos enunciados............... $ 75,000.00
-
-VII.- Por el análisis de escritos:
-
-a).- De reposición de documentación, complementación de información faltante, aclaración o subsanación de omisiones............... $ 40,000.00
-
-b).- Complementarios en desahogo a una prevención en relación con impedimentos legales para el otorgamiento de un registro de marca............... $ 40,000.00
-
-VIII.- Por el aviso de marcas vinculadas.............. $ 75,000.00
-
-IX.- Por el estudio de la solicitud de declaración de disolución de liga de marcas....... $ 75,000.00
-
-X.- Por el estudio de la solicitud de inscripción de una franquicia............. $ 75,000.00
-
-XI.- Por el estudio de la solicitud de cancelación parcial del registro de una marca por limitación de los productos o servicios que protege............... $ 75,000.00
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
 ###### ARTICULO 67.
 
-Por la solicitud, inscripción, renovación, licencia y transmisión relativas a denominaciones de origen a que se refiere la legislación en materia de propiedad industrial, se pagará el derecho de propiedad industrial, conforme a las siguientes cuotas:
-
-I.- Por el estudio de la solicitud de declaración general de protección a una denominación de origen o de la solicitud de modificación de una declaración general............... $ 610,000.00
-
-II.- Por la autorización para usar una denominación de origen.............. $ 235,000.00
-
-III.- Por la renovación de la autorización de uso de una denominación de origen.... $ 305,000.00
-
-IV.- Por la inscripción de un permiso otorgado por el usuario autorizado para usar una denominación de origen.................... $ 230,000.00
-
-V.- Por la inscripción de la transmisión de los derechos de usar una denominación de origen o que pueden derivarse de una solicitud en trámite; por el cambio de nombre, denominación o razón social del solicitante o del usuario de la denominación de origen; por cada uno de los actos enunciados............... $ 305,000.00
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
 ###### ARTICULO 68.
 
-Por la solicitud, registro, renovación, licencia y transmisión relativas a avisos comerciales a que se refiere la legislación de la materia, se pagará el derecho de propiedad industrial, conforme a las siguientes cuotas:
-
-I.- Por el estudio de una solicitud de registro de aviso comercial............... $ 75,000.00
-
-II.- Por el registro y expedición del título de aviso comercial................ $ 75,000.00
-
-III.- Por la renovación del registro de aviso comercial................. $ 75,000.00
-
-IV.- Por la inscripción de la transmisión de los derechos que confiere un registro de aviso comercial o que pueden derivarse de una solicitud en trámite; por la inscripción o cancelación de inscripción de una licencia contractual de uso o de su modificación; por el cambio de nombre, denominación o razón social del solicitante o del titular de un registro de aviso comercial; por cada uno de los actos enunciados................. $ 75,000.00
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
 ###### ARTICULO 69.
 
-Por la solicitud, publicación, renovación, licencia y transmisión relativas a nombres comerciales a que se refiere la legislación de la materia, se pagará el derecho de propiedad industrial, conforme a las siguientes cuotas:
-
-I.- Por el estudio de una solicitud de publicación de nombre comercial............ $ 75,000.00
-
-II.- Por la publicación de un nombre comercial................. $ 75,000.00
-
-III.- Por la renovación de los efectos de la publicación.................. $ 75,000.00
-
-IV.- Por la inscripción de la transmisión de los derechos que confiere el uso y publicación de un nombre comercial o que pueden derivarse de una solicitud en trámite; por la inscripción y cancelación de inscripción de una licencia contractual de uso o de su modificación; por el cambio de nombre, denominación o razón social del solicitante o del titular de nombre comercial; por cada uno de los actos enunciados............. $ 40,000.00
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
 ###### ARTICULO 70.
 
-Por otros actos o procedimientos relacionados con la legislación en materia de propiedad industrial, se pagará el derecho de propiedad industrial, conforme a las siguientes cuotas:
-
-I.- Por el estudio y trámite de una solicitud de declaración administrativa de nulidad, caducidad y cancelación.............. $ 385,000.00
-
-II.- Por el informe que se proporcione a personas que lo soliciten por escrito sobre si una marca ha sido registrada o por informes semejantes relativos a avisos y nombres comerciales, por cada uno................. $ 40,000.00
-
-III.- Por la inscripción de la transformación de personas morales o por el cambio de su régimen de capital............... $ 25,000.00
-
-> <small>(REFORMADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-IV.- Por la visita de inspección que se practique por personal autorizado, a petición de parte interesada, para comprobar el cumplimiento de la legislación en materia de propiedad industrial o hechos relacionados con la aplicación de ésta, por cada establecimiento visitado……….. N$ 191.00
-
-V.- Por la investigación de infracciones a la legislación en materia de propiedad industrial, a petición de parte interesada............... $ 155,000.00
-
-VI.- Por la revisión de cada reposición de documentación, complementación de información faltante, aclaración o subsanación de omisiones y por cada solicitud de prórroga..... $ 40,000.00
-
-> <small>(REFORMADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-VII.- Por el cambio de domicilio del titular de un derecho de propiedad industrial, por el cambio de ubicación del establecimiento industrial, comercial o de servicio, por el acreditamiento del nuevo apoderado o mandatario, así como por la toma de nota de otra información que sea proporcionada, por cada uno de los actos mencionados……… N$ 49.00
-
-Si la investigación se practica fuera del Distrito Federal o fuera de la adscripción del servidor público, los gastos de traslado serán por cuenta del solicitante.
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
 ###### ARTICULO 70-A.
 
-Las anualidades por conservación de derechos, a que se refieren los artículos 63, 64, 65 y 65-A de esta Ley, se computarán a partir de la fecha en que se efectúe el pago del derecho por la expedición del título correspondiente. En ningún caso se pagarán derechos por anualidades para la conservación de derechos de patente de la fecha de presentación de la solicitud respectiva de patente, de certificado de invención y de registro de diseño industrial o de modelo de utilidad a la fecha anterior a aquella en que se efectúe el pago del derecho por la expedición del título que corresponda.
-
-La falta de pago oportuno de alguna anualidad por conservación de derechos de una patente, de un certificado de invención, de un registro de modelo de utilidad o de diseño industrial, a que se refieren los artículos 63, 64, 65 y 65-A de esta Ley, producirá su caducidad, a menos que dicho pago se efectúe dentro del plazo de gracia concedido por la legislación de la materia.
-
-Cuando no se paguen los derechos de propiedad industrial a que se refiere esta Sección, previamente a la presentación de la solicitud correspondiente y no se acompañe a ésta el comprobante de pago respectivo, la solicitud será desechada.
-
-No se devolverán los derechos que hayan sido pagados conforme a esta Sección, aun cuando el trámite a que correspondan no llegue a cumplirse por alguna causa imputable al contribuyente o termine en forma adversa a éste.
-
-> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
-
-El pago de la primera anualidad de conservación de derechos a que se refieren los artículos 63, 65 y 65-A de la presente Ley, se efectuará conjuntamente con el pago por la expedición del título establecido en los citados preceptos.
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
 ###### ARTICULO 70-B.
 
-Por la solicitud, inscripción y modificación de la inscripción en el Registro General de Poderes a que se refiere la legislación en la materia de propiedad industrial, se pagará el derecho de propiedad industrial conforme a las siguientes cuotas:
-
-I.- Por el estudio de una solicitud e inscripción en el Registro General de Poderes......... $ 75,000.00
-
-II.- Por cualquier modificación a una inscripción en el Registro General de Poderes........ $ 40,000.00
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
 ###### ARTICULO 70-C.
 
-Cuando la prestación de los servicios a que se refieren los artículos 63, 65, 65-A y 65-B de esta Sección sean solicitados por inventores, por personas físicas que no sean empresarios o comerciantes individuales, por micro o pequeñas industrias, por instituciones de educación superior públicas o privadas, por institutos de investigación científica y tecnológica del sector público, se pagará únicamente el 50% de las cuotas de los derechos que correspondan.
-
-Para efectos de lo dispuesto en el párrafo anterior, se entenderá:
-
-I.- Por micro-industrias a las empresas que ocupen hasta 15 personas y el valor de sus ventas netas anuales no rebasen el equivalente al importe de 110 veces el salario mínimo general elevado al año, correspondiente a la zona geográfica "A".
-
-II.- Por pequeñas industrias a las empresas que ocupen hasta 100 personas y el valor de sus ventas netas anuales no rebase el equivalente al importe de 1115 veces el salario mínimo general elevado al año, correspondiente a la zona geográfica "A".
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
 ###### ARTICULO 70-D.
 
@@ -4027,7 +3777,7 @@ a).- Expedición de placas, cuota mensual por juego........... $ 1,000.00
 
 b).- Reposición, por placa............. 2,500.00
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 IX.- Reposición de placa metálica de identificación para automotor, remolque o semirremolque, por placa............ 5,000.00
 
@@ -6431,11 +6181,11 @@ c) De tipo elemental............ 20.00
 
 Las escuelas de Instituciones de Asistencia Privada y las que impartan exclusivamente enseñanza especial a inválidos (minusválidos) no causarán el derecho a que se refiere esta fracción.
 
-> <small>(REFORMADO, D.O.F. 30 DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
 
 XVI.- Permiso provisional de práctica de locución............ $ 230.00
 
-> <small>(REFORMADO, D.O.F. 30 DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
 
 XVII.- Exámenes de aptitud de locutores:
 
@@ -6445,7 +6195,7 @@ b).- Examen General Extraordinario........... 250.00
 
 c).- Examen Oral Extraordinario por materia........... 75.00
 
-> <small>(REFORMADO, D.O.F. 30 DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
 
 XVIII.- Exámenes de aptitud de cronistas o comentaristas:
 
@@ -6455,7 +6205,7 @@ b).- Examen General Extraordinario........... 500.00
 
 c).- Examen Oral Extraordinario por materia........... 150.00
 
-> <small>(REFORMADO, D.O.F. 30 DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
 
 XIX.- Expedición de certificados de aptitud:
 
@@ -6467,7 +6217,7 @@ a).- De locutor.............. $ 4,300.00
 
 b).- De cronista o comentarista.............. 8,800.00
 
-> <small>(REFORMADO, D.O.F. 30 DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
 
 XX.- Expedición de duplicado de certificados de aptitud:
 
@@ -6483,15 +6233,15 @@ b).- De cronista o comentarista............. 8,800.00
 
 XXI.- Consultas o constancias de archivo............... $ 12,000.00
 
-> <small>(ADICIONADO, D.O.F. 30 DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
 
 XXII.- Cambio de carrera......... $ 200.00
 
-> <small>(ADICIONADO, D.O.F. 30 DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
 
 XXIII.- Dictamen psicopedagógico para cambio de carrera.......... $ 300.00
 
-> <small>(ADICIONADO, D.O.F. 30 DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
 
 XXIV.- Inscripción:
 
@@ -6503,7 +6253,7 @@ b).- En curso de regularización………. 400.00
 
 c).- Cursos de capacitación para el trabajo industrial………… N$ 71.00
 
-> <small>(ADICIONADO, D.O.F. 30 DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
 
 XXV.- Materias libres para alumnos inscritos........... $ 100.00
 
@@ -8755,7 +8505,7 @@ Cuando las personas físicas o morales para el cumplimiento de la obligación le
 
 Las personas físicas o morales que contraten o utilicen los servicios mencionados, serán solidariamente responsables con las empresas que traten aguas residuales, por el pago del derecho.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1970)</small>
 
 ###### ARTICULO 283.
 
@@ -10152,3 +9902,13 @@ PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
 D.O.F. 29 DE DICIEMBRE DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1994.
+
+D.O.F. 2 DE AGOSTO DE 1994.
+
+TRANSITORIOS DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1o. de octubre de 1994, .
+
+SEPTIMO.- Se derogan los artículos 63 a 70-C de la Ley Federal de Derechos.
