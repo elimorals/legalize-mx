@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "1993-11-24"
+last_updated: "1995-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 1995.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1261,7 +1261,7 @@ El que sin excusa legal se niegue a comparecer ante la autoridad o dar una decla
 
 ###### ARTICULO 181.
 
-Se impondrá sanción de uno a dos años de prisión y multa de treinta a cuarenta días salario, al que empleando la fuerza, el amago, la amenaza, o el engaño se oponga a que la autoridad o sus agente ejerzan alguna de sus funciones o resista el cumplimiento de un mandato legítimo cuya ejecución se realice en forma legal.
+Se impondrá sanción de uno a dos años de prisión y multa de treinta a cuarenta días salario, al que empleando la fuerza, el amago, la amenaza, o el engaño se oponga a que la autoridad o sus agentes ejerzan alguna de sus funciones o resista el cumplimiento de un mandato legítimo cuya ejecución se realice en forma legal.
 
 ###### ARTICULO 182.
 
@@ -1479,7 +1479,7 @@ Comete el delito de abandono de funciones públicas el que sin habérsele admiti
 
 ###### ARTICULO 211.
 
-A los responsables de los delitos previstos en este capítulo, se les impondrá una sanción de dos a seis años de prisión y multa de cien a cuatrocientos días de salario y destitución en su caso, e inhabilitación de tres a seis años para desempeñar un empleo, cargo o comisión pública.
+A los responsables de los delitos previstos en este capítulo, se les impondrá una sanción de dos a seis años de prisión y multa de cien a cuatrocientos días de salario y destitución en su caso, e inhabilitación de tres a seis años para desempeñar un empleo, cargo o comisión públicos.
 
 ### CAPITULO I. RESPONSABILIDAD MEDICA, TECNICA Y ADMINISTRATIVA
 
@@ -2589,6 +2589,10 @@ IV.- Que el infante no sea producto de unión matrimonial o concubinato.
 
 Si en el caso a que se refiere el artículo anterior tomare participación un médico, partero o enfermero, además de las sanciones privativas de libertad por homicidio, se le suspenderá de uno a seis años en el ejercicio de su profesión a juicio del juez.
 
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
+
 ###### ARTICULO 356.
 
 Comete el delito de aborto el que priva de la vida al producto de la concepción en cualquier momento de la preñez.
@@ -3179,6 +3183,144 @@ II.- Su cónyuge o parientes colaterales o por consanguinidad hasta el cuarto gr
 
 III.- Los que estén ligados con el acusado por respeto, gratitud, estrecha amistad o afecto íntimo.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 25 DE OCTUBRE DE 1995)</small>
+
+## TITULO VIGESIMO PRIMERO. DELITOS ELECTORALES
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE OCTUBRE DE 1995)</small>
+
+###### ARTICULO 444.
+
+Para los efectos de este Capítulo se entiende por:
+
+I.- Funcionarios electorales, las personas que integran los órganos que cumplen funciones públicas electorales, en los términos de la Legislación Electoral;
+
+II.- Funcionarios partidistas, los dirigentes de los partidos políticos, sus candidatos, así como los ciudadanos a quienes en el curso de los procesos los propios partidos les otorguen representación para actuar en la jornada electoral ante los órganos electorales, en los términos de la Legislación Electoral;
+
+III.- Observador o visitante electoral, toda persona que acredite tal carácter en los términos del Artículo 7 del Código Electoral para el Estado de Tamaulipas;
+
+IV.- Documentos Públicos Electorales, las boletas electorales, actas y certificaciones que expidan los órganos centrales, distritales y municipales del Instituto Estatal Electoral durante el proceso electoral, así como cualquier documental expedida por toda autoridad o persona investida de fe pública que guarde relación directa o indirecta con el proceso electoral estatal.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
+
+###### ARTICULO 445.
+
+Por la comisión de cualquiera de los delitos comprendidos en el presente Capítulo se podrá imponer además de la pena señalada, inhabilitación de uno a cinco años, y en su caso, la destitución del cargo.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
+
+###### ARTICULO 446.
+
+Se impondrán de seis meses a tres años de prisión y multa de diez a cien días salario, a quién:
+
+I.- Vote o pretenda votar a sabiendas de que no cumple con los requisitos señalados en la Legislación Electoral;
+
+II.- Vote más de una vez en una misma elección;
+
+III.- Realice actos de campaña o de propaganda electoral durante el día de la elección o los tres días anteriores a la misma;
+
+IV.- Obstaculice o interfiera el desarrollo normal de las votaciones, del escrutinio, o del cómputo de la casilla o del órgano municipal, distrital o estatal electoral;
+
+V.- Recoja, sin causa prevista por la Ley, credenciales para votar con fotografía de los ciudadanos, con el fin de imposibilitarlos para que ejerzan el derecho al voto;
+
+VI.- Solicite votos por paga, dádiva o promesa de dinero u otra recompensa; o ejerza violencia física o moral sobre el elector para que emita su voto a favor de candidato o partido político determinado, el día de la jornada electoral;
+
+VII.- Introduzca en o sustraiga de las urnas, ilícitamente, una o más boletas electorales; destruya o altere boletas o documentos públicos electorales;
+
+VIII.- Impida, sin causa justificada, la instalación, apertura o cierre de una casilla electoral; o la abra o cierre fuera de los tiempos previstos por el Código Electoral para el Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
+
+###### ARTICULO 447.
+
+Se impondrán hasta setecientos días de multa, a los ministros de cultos religiosos, que por cualquier medio en el desarrollo de actos propios de su ministerio, induzcan al electorado, a votar en favor o en contra de un candidato o partido político, o a la abstención.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
+
+###### ARTICULO 448.
+
+Se impondrá de dos a seis años de prisión y multa de cincuenta a doscientos días de salario, al funcionario electoral que:
+
+I.- Altere en cualquier forma, sustituya, destruya o use indebidamente documentación pública electoral;
+
+II.- Se abstenga de cumplir, sin causa justificada, con sus obligaciones electorales en perjuicio del proceso;
+
+III.- Suspenda el desarrollo normal de la votación sin mediar causa justificada;
+
+IV.- Altere los resultados electorales en cualquier forma, sustraiga o destruya documentos o boletas electorales;
+
+V.- No entregue o impida la entrega oportuna de documentos públicos electorales, sin mediar causa justificada;
+
+VI.- Instale, permita su instalación o clausure dolosamente una casilla fuera de los tiempos y formas previstos por el Código Electoral para el Estado de Tamaulipas, o impida su instalación, sin causa justificada;
+
+VII.- Impida el acceso, permanencia o expulse de la casilla electoral, sin causa justificada, al representante de un partido político determinado o coarte los derechos que el Código Electoral para el estado de Tamaulipas, le otorga;
+
+VIII.- Entregue boletas electorales a quien no exhiba su credencial de elector, o no aparezca inscrito en la lista nominal de electores o ambas circunstancias, salvo las excepciones previstas en la Legislación Electoral;
+
+IX.- Permita o tolere que se introduzcan o sustraigan, ilícitamente, una o más boletas electorales;
+
+X.- Propale dolosamente noticias falsas en relación al desarrollo de la jornada electoral o de los resultados preliminares, parciales o definitivos de la misma.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
+
+###### ARTICULO 449.
+
+Se impondrán de uno a seis años de prisión y multa de cien a doscientos días salario, al funcionario partidista que:
+
+I.- Ejerza violencia física o moral sobre los electores y/o los induzca a votar por un candidato o partido político determinado en el interior de la casilla o en el lugar donde los propios electores se encuentran formados;
+
+II.- Realice actos de campaña o de propaganda electoral durante el día de la elección o los tres días anteriores a la misma;
+
+III.- Sustraiga, destruya, altere o haga uso indebido de documentos públicos electorales;
+
+IV.- Impida el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
+
+V.- Propale dolosamente noticias falsas en relación al desarrollo de la jornada electoral o de los resultados preliminares, parciales o definitivos de la misma;
+
+VI.- Simule un hecho o acto de campaña electoral para imputarlo a otro partido político o candidato distinto al suyo.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
+
+###### ARTICULO 450.
+
+Se impondrán de uno a nueve años de prisión y multa de doscientos a cuatrocientos días salario, al servidor público que:
+
+I.- En ejercicio de sus funciones obligue a sus subordinados a emitir su voto a favor de un candidato o partido político determinado;
+
+II.- En ejercicio de sus funciones condicione la prestación de un servicio público, a la emisión del sufragio a favor de un candidato o partido político determinado;
+
+III.- Destine fondos o bienes públicos al apoyo de un candidato o partido político determinado, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione ese apoyo a través de sus subordinados.
+
+Para los efectos anteriores, se entenderá como horario de labores de los trabajadores de base al servicio del Gobierno del Estado, Municipios y Organismos Descentralizados y Desconcentrados, el señalado en el Reglamento de las Condiciones Generales de Trabajo en el Código Municipal para el Estado, en su caso; y el relativo al de los trabajadores de confianza, extraordinarios, provisional o interino, por obra determinada o de lista de raya, así como el de aquellos que no queden regulados en los ordenamientos legales señalados, el comprendido entre las ocho y las quince treinta horas, de lunes a viernes de cada semana.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
+
+###### ARTICULO 451.
+
+Se impondrá sanción de suspensión de sus derechos políticos hasta por seis años a quienes, habiendo sido electos Diputados locales no se presenten, sin causa justificada a juicio del Congreso del Estado, a desempeñar el cargo dentro del término señalado en el Artículo 37 de la Constitución Política del Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
+
+###### ARTICULO 452.
+
+Se impondrán de uno a cinco años de prisión y multa de cincuenta a trescientos días salario, al observador o visitante electoral que:
+
+I.- Sustituya u obstaculice a las autoridades electorales en el ejercicio de sus funciones e interfiera en el desarrollo de las mismas;
+
+II.- Haga proselitismo de cualquier tipo, o se manifieste en favor o en contra de un candidato o partido político determinado;
+
+III.- Externe cualquier expresión de ofensa, difamación o calumnia, en contra de las instituciones, autoridades electorales, partidos políticos o candidatos; y
+
+IV.- Declare el triunfo de un candidato o partido político determinado.
+
+Igual sanción se impondrá a quien publique o difunda por cualquier medio, durante los 8 días previos a la elección y hasta la hora del cierre oficial de las casillas, resultados de encuestas o sondeos de opinión que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
+
+###### ARTICULO 453.
+
+Los responsables de los delitos contenidos en el presente Capítulo, por haber acordado o preparado su realización en los términos de la fracción I del Artículo 39 de este Código, no podrán gozar del beneficio de la libertad provisional.
+
 ARTICULOS TRANSITORIOS:
 
 ###### ARTICULO PRIMERO
@@ -3234,3 +3376,9 @@ P.O. 24 DE NOVIEMBRE DE 1993.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor veinte días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE OCTUBRE DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
