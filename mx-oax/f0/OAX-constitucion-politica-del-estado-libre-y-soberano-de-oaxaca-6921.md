@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1972-09-30"
+last_updated: "1973-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1973.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -275,13 +275,13 @@ El Poder Legislativo se ejerce por una Asamblea que se denominará Legislatura d
 
 La legislatura se renovará totalmente cada tres años, en los términos que dispone la Ley respectiva y de acuerdo con las bases que establece esta Constitución.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1944)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1973)</small>
 
 ###### ARTICULO 33.
 
-Se elegirá un diputado por cada cien mil habitantes o fracción mayor de cincuenta mil. Por cada diputado propietario se elegirá un suplente.
+Se elegirá un Diputado por cada ciento treinta y cinco mil habitantes o fracción mayor de setenta mil. Por cada diputado propietario se elegirá un suplente.
 
-Los diputados propietarios no podrán ser reelectos para el período inmediato ni con el carácter de suplentes. Los diputados suplentes podrán ser reelectos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio.
+Los Diputados propietarios no podrán ser reelectos para el período inmediato ni con el carácter de suplentes. Los diputados suplentes podrán ser reelectos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio.
 
 > <small>(REFORMADO, 15 DE JULIO DE 1972)</small>
 
@@ -1604,3 +1604,9 @@ UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publ
 P.O. 30 DE SEPTIEMBRE DE 1972.
 
 Unico.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE DICIEMBRE DE 1973.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
