@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-instituto-electoral-de-quintana-roo-25785"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-08-27"
-last_updated: "2002-08-27"
+last_updated: "2003-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002.
 
@@ -269,7 +269,9 @@ XXXV. Aprobar los convenios que firme el Instituto para la coadyuvancia en la or
 
 XXXVI. Aprobar los lineamientos técnicos para la instrumentación del programa de resultados electorales preliminares;
 
-XXXVII. Proponer al Congreso del Estado la demarcación territorial en Distritos Electorales, conforme a lo establecido en la Constitución y en la Ley;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+XXXVII. Establecer la demarcación territorial en distritos electorales, conforme a lo establecido en la Constitución y en particular, a la Ley Electoral;
 
 XXXVIII. Realizar convenios de colaboración con Instituciones de Nivel Medio Superior y Superior; y
 
@@ -321,9 +323,11 @@ Las resoluciones o acuerdos del Consejo General serán aprobados por mayoría de
 
 El Consejo General ordenará la publicación en el Periódico Oficial del Gobierno del Estado de los acuerdos y resoluciones que expresamente se ordenen en la presente Ley, así de como aquellos que se consideren pertinentes.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 21.
 
-El Consejero Presidente y los Consejeros Electorales del Instituto, durarán en su cargo dos procesos electorales ordinarios sucesivos, incluyendo los extraordinarios que se lleven a cabo entre dichos procesos, pudiendo ser reelectos hasta por un proceso más. Cuando haya dos o más elecciones simultáneas, se considerarán como un sólo proceso electoral.
+El Consejero Presidente y los Consejeros Electorales del Instituto, durarán en su encargo seis años y, podrán ser ratificados de manera individual, hasta por un periodo más de tres años, con la misma votación requerida para su nombramiento.
 
 ###### Artículo 22.
 
@@ -387,6 +391,8 @@ XI. Ordenar la publicación en el Periódico Oficial del Gobierno del Estado de 
 
 XII. Las demás que le confieran esta Ley y demás ordenamientos electorales.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 30.
 
 En las ausencias del Consejero Presidente del Consejo General, deberá estarse a lo siguiente:
@@ -395,7 +401,7 @@ I. En las ausencias que no excedan de quince días, será suplido por el Secreta
 
 II. En caso de ausencia definitiva, el Consejo General solicitará a la Legislatura del Estado el nombramiento del Consejero Presidente Sustituto; en caso de que ésta se encuentre en receso, el nombramiento lo hará la Diputación Permanente; y
 
-III. Entre tanto la Legislatura del Estado o la Diputación Permanente, en su caso, no resuelva, seguirá encargado del despacho el Secretario General.
+III. La Legislatura del Estado o la Diputación Permanente, en su caso, hará el nombramiento a que se refiere la fracción anterior en un término no mayor de quince días.
 
 ### Capítulo Tercero. De la Junta General
 
@@ -459,9 +465,11 @@ Para ser Secretario General se requerirán los mismos requisitos que para ser Co
 
 El Secretario General durará en su cargo dos procesos electorales ordinarios sucesivos, incluyendo los extraordinarios que se lleven a cabo entre dichos períodos, pudiendo ser reelecto hasta por un proceso más. Cuando haya dos o más elecciones simultáneas, se considerarán como un sólo proceso electoral.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 38.
 
-El Secretario General será sustituido en sus ausencias temporales por el Director de Jurídico, lo cual será notificado a los Consejeros Electorales.
+El Secretario General será sustituido en sus ausencias no mayores de quince días, por el Director Jurídico. En las ausencias del Secretario General que excedan de este término, el Consejo General del Instituto acordará lo conducente.
 
 ###### Artículo 39.
 
@@ -1418,3 +1426,13 @@ LIC. JOAQUÍN ERNESTO HENDRICKS DÍAZ.
 EL SECRETARIO DE GOBIERNO
 
 VÍCTOR M. ALCERRECA SANCHEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE DICIEMBRE DE 2003.
+
+Artículo Primero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- El Consejero Presidente y los Consejeros Electorales Propietarios y Suplentes del Consejo General del Instituto Electoral de Quintana Roo, así como los Magistrados Numerarios del Tribunal Electoral de Quintana Roo, que fueron electos el 31 de enero de 2003, durarán en su encargo seis años, contados a partir de esa propia fecha.
+
+Artículo Tercero.- Se derogan todas aquellas disposiciones que contravengan a la presente.
