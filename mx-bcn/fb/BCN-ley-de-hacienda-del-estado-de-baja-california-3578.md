@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1978-12-31"
+last_updated: "1979-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1979.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -397,17 +397,15 @@ Los Notarios, Jueces y demás funcionarios del Estado no certificarán las firma
 
 ### CAPITULO III. Impuestos Sobre Actividades Mercantiles e Industriales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 42.
 
-Es objeto del impuesto sobre actividades mercantiles e industriales, el ingreso que se obtenga con motivo de:
+Son objeto del Impuesto sobre Actividades Mercantiles e Industriales, los Ingresos provenientes de actos o actividades que no paguen el Impuesto al Valor Agregado, así como los que se deriven de la enajenación de construcciones a que se refiere el artículo 42 de la Ley del Impuesto Federal mencionado, siempre y cuando éstos sean obtenidos por establecimientos, negociaciones o giros comerciales por los siguientes conceptos:
 
 I.- Enajenación de bienes, promesa de venta y opción de venta;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1977)</small>
-
-II.- Arrendamiento de Bienes Muebles;
+II.- Arrendamiento de bienes muebles;
 
 III.- Prestación de servicios;
 
@@ -1095,25 +1093,29 @@ V.- Cumplir las demás que señalen esta Ley y demás disposiciones fiscales rel
 
 1.- Las operaciones que grava este impuesto no son objeto del de actividades mercantiles e industriales a que se refiere el Capítulo III de esta Ley.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE LA APLICACION DE LOS PRECEPTOS LEGALES QUE ESTABLECE EL SIGUIENTE IMPUESTO ESTATAL, P.O. 31 DE DICIEMBRE DE 1979.</small>
+
 ### CAPITULO VI. Impuesto Sobre Despepite de Algodón
 
-###### ARTICULO 115.
+###### ARTICULO 115.- N.
 
-Es objeto del Impuesto Sobre Despepite de Algodón, el servicio de despepite de algodón que se realice en el Estado.
+DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 116.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 1974)
 
-###### ARTICULO 117.
+###### ARTICULO 117.- N.
 
-Son sujetos de este Impuesto las personas físicas, morales o unidades económicas que presten el servicio de despepite de algodón.
+DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
-###### ARTICULO 118.
+###### ARTICULO 118.- N.
 
-Este Impuesto se causará con base en el volumen de algodón despepitado y se pagará conforme a la cuota que fije la Ley de Ingresos del Estado.
+DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+###### ARTICULO 119.- N.
+
+DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 119.
 
@@ -1121,15 +1123,13 @@ Los causantes de este impuesto deberán pagarlo mensualmente dentro de los días
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
-###### ARTICULO 120.
+###### ARTICULO 120.- N.
 
-Las operaciones que grava este impuesto, no causan el de actividades mercantiles e industriales a que se refiere el Capítulo III de esta Ley.
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1976)</small>
+DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 120
 
-1.- Este impuesto no será repercutible.
+1.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 (SIC)
 
@@ -1165,7 +1165,33 @@ Son retenedores y responsables solidarios del pago de este impuesto, los despepi
 
 El Ejecutivo del Estado fijará el precio oficial para la compra-venta de algodón en sus diversas calidades, cuando no se conozca el precio de la operación o los precios estipulados en el contrato de compraventa no correspondan a los reales del mercado.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE LA APLICACION DE LOS PRECEPTOS LEGALES QUE ESTABLECE EL SIGUIENTE IMPUESTO ESTATAL, P.O. 31 DE DICIEMBRE DE 1979.</small>
+
 ### CAPITULO VIII. Impuesto Sobre Hospedaje
+
+###### ARTICULO 127.- N.
+
+DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+
+###### ARTICULO 128.- N.
+
+DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+
+###### ARTICULO 129.- N.
+
+DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+
+###### ARTICULO 130.- N.
+
+DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+
+###### ARTICULO 131.- N.
+
+DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+
+###### ARTICULO 132.- N.
+
+DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 127.
 
@@ -1217,9 +1243,13 @@ Las personas que presten los servicios a que se refiere el Artículo 127 de esta
 
 ### CAPITULO X. Impuesto Sobre Diversiones y Espectáculos Públicos
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 137.
 
-Es objeto del Impuesto Sobre Diversiones y Espectáculos Públicos el ingreso que se obtenga por la explotación de las siguientes actividades: salas de teatro o de cinematógrafo, circos, luchas, corridas de toros, espectáculos deportivos, apuestas permitidas de todos tipos, agencias de apuestas sobre carreras y frontones, audiencias musicales y exhibiciones de cualquier tipo con cuota de admisión.
+Son objeto del Impuesto sobre Diversiones y Espectáculos Públicos los ingresos que se obtengan provenientes de actos o actividades que no paguen el Impuesto al Valor Agregado, por el boleto de entrada, derivado de la explotación de las siguientes actividades: Salas de Teatros o de Cinematógrafo, Circos, luchas, corridas de toros, espectáculos deportivos, apuestas permitidas de todos tipos, agencias de apuestas sobre carreras y frontones, audiencias musicales y exhibiciones de cualquier tipo con cuota de admisión.
+
+No se consideran objeto del Impuesto los espectáculos públicos prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos.
 
 ###### ARTICULO 138.
 
@@ -1251,17 +1281,15 @@ II.- Formular liquidación que deberá ser firmada por un representante de la em
 
 ### CAPITULO XI. Impuesto Sobre Compraventa y Operaciones Similares
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 144.
 
-Son objeto del Impuesto Sobre Compraventa y Operaciones Similares:
+Son objeto del Impuesto sobre Compra-venta y operaciones similares, los actos civiles siguientes:
 
-I.- Compra de vehículos automotores;
+I.- Compra de vehículos automotores usados.
 
-II.- Venta de bienes muebles, y
-
-III.- Traspasos de establecimientos comerciales e industriales.
+II.- Venta de bienes muebles usados.
 
 ###### ARTICULO 145.
 
@@ -1297,21 +1325,29 @@ Los bienes transmitidos o adquiridos, quedan afectos preferentemente al pago del
 
 Este Impuesto se regulará por las disposiciones que al efecto señala la Ley del Impuesto Sobre Alcoholes y Bebidas Alcohólicas vigentes en el Estado.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE LA APLICACION DEL PRECEPTO LEGAL QUE ESTABLECE EL SIGUIENTE IMPUESTO ESTATAL, P.O. 31 DE DICIEMBRE DE 1979.</small>
+
 ### CAPITULO XIII. Impuesto Sobre Compraventa de Alcohol y Bebidas Alcohólicas
 
-### CAPITULO XIV. Impuesto Sobre Arrendamiento Subarrendamiento de Bienes Inmuebles
+###### ARTICULO 151.- N.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
-
-###### ARTICULO 151.
-
-Este Impuesto se regulará por las disposiciones que al efecto señala la Ley del Impuesto Sobre Alcoholes y Bebidas Alcohólicas vigente en el Estado.
+DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1974)</small>
 
+### CAPITULO XIV. Impuesto Sobre Arrendamiento Subarrendamiento de Bienes Inmuebles
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 151
 
-1.- Es objeto de este impuesto la percepción de ingresos en efectivo o en especie derivados del arrendamiento y subarrendamiento de bienes inmuebles, ubicados dentro del territorio del Estado.
+1.- Son objeto de este Impuesto las percepciones de Ingresos que no paguen el Impuesto al Valor Agregado derivados de la concesión del uso o goce temporal de los siguientes bienes:
+
+I.- El suelo;
+
+II.- Inmuebles destinados ó utilizados exclusivamente para casa habitación;
+
+III.- Fincas dedicadas ó utilizadas sólo a fines agrícolas o ganaderos.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -1389,17 +1425,17 @@ III.- Adoptar las medidas de control que para el correcto pago del impuesto esta
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
 
+###### ARTICULO 151
+
+12.- Este impuesto no es repercutible.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
 ### CAPITULO XV. De los Impuestos Sobre Productos del Trabajo
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 #### SECCION PRIMERA. Del Impuesto Sobre Remuneraciones al Trabajo Personal
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
-
-###### ARTICULO 151
-
-12.- Este impuesto no es repercutible.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
@@ -1431,25 +1467,15 @@ III.- Adoptar las medidas de control que para el correcto pago del impuesto esta
 
 17.- Están obligados a enterar el Impuesto quienes perciban remuneraciones en los términos del Artículo 151-15, cuando quien los pague resida fuera del Estado, sin tener en el mismo agencia, sucursal o representación.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
-
 ###### ARTICULO 151
 
-18.- No causan el Impuesto:
-
-I.- Las personas y organismos en los mismos términos a que se refiere el Artículo 33 del Código Fiscal del Estado.
-
-II.- Las empresas establecidas conforme al Reglamento del Párrafo Tercero, del Art. 31 del Código Aduanero de los Estados Unidos Mexicanos para el Fomento de la Industria Maquiladora, siempre que reúnan los requisitos mínimos de inversión, ocupación de mano de obra y demás que en resoluciones de carácter general establezca la Secretaría de Finanzas y previa declaratoria de esta dependencia en cada caso específico.
+18.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 151
 
 19.- Este Impuesto se enterará en efectivo mensualmente mediante declaración que presentarán los causantes o responsables solidarios según sea el caso, ante la Oficina Receptora de su jurisdicción a más tardar dentro del mes siguiente al en que hagan o reciban los pagos base del gravamen.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
-
-#### SECCION SEGUNDA. Impuestos Sobre Profesiones y Ejercicios Lucrativos
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
@@ -1465,9 +1491,25 @@ III.- Las demás que impongan otras disposiciones fiscales.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
+#### SECCION SEGUNDA. Impuestos Sobre Profesiones y Ejercicios Lucrativos
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 151
 
-21.- Son objeto del Impuesto Sobre Profesiones y Ejercicios Lucrativos, los ingresos que se perciban con motivo del libre ejercicio de una profesión, actividad artística, deportiva o cultural; como agente de instituciones de crédito, seguros o fianzas o mediante el ejercicio de la función notarial, o la explotación de una patente aduanal, dentro del territorio del Estado. Igualmente lo serán los ingresos que obtengan quienes posean título de escuela superior, técnica o universitaria, derivadas de su trabajo personal prestado bajo la dirección y dependencia de un tercero dentro del territorio del Estado, cuando quien realice los pagos no causen el Impuesto Sobre Remuneraciones al Trabajo Personal, conforme a lo establecido en el artículo 151-18. En este caso quienes efectúen los pagos están obligados a retener y enterar el impuesto en los términos del artículo 151-25.
+21.- Son objeto del Impuesto sobre Profesiones y Ejercicios Lucrativos, los ingresos que se perciban con motivo del libre ejercicio de las profesiones y oficios derivados de los siguientes servicios.
+
+I.- El transporte público de personas;
+
+II,- Los de carácter profesional, cuando su prestación requiera título conforme a la Ley de Profesiones del Estado y su Reglamento.
+
+III.- Los prestados por artistas, locutores, toreros, o deportistas, cuando realicen actividades cinematográficas, teatrales, de radiodifusión, de variedades, taurinas o deportivas, y
+
+IV.- Otros que no paguen el Impuesto al Valor Agregado.
+
+Igualmente lo serán los ingresos que obtengan quienes posean título de escuela superior, técnica o universitaria, derivados de su trabajo personal prestado bajo la dirección y dependencia de un tercero dentro del territorio del Estado, cuando quien realice los pagos no cause el Impuesto Sobre Remuneraciones al Trabajo Personal.
+
+En este caso, quienes efectúen los pagos están obligados a retener y enterar el impuesto en los términos del Artículo 151-25.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
@@ -1523,10 +1565,6 @@ V.- Expedir la documentación comprobatoria de sus ingresos, que deberá ser pre
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
-### CAPITULO XVI. Impuesto Sobre Productos de Capitales
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
-
 ###### ARTICULO 151
 
 29.- La Secretaría de Finanzas podrá estimar los ingresos de los sujetos de este Impuesto en los siguientes casos:
@@ -1541,159 +1579,67 @@ Para practicar la estimación a que se refiere la Fracción II de este Artículo
 
 El período a que debe referirse el por ciento, será como mínimo de un bimestre y se presumirá que el causante ha omitido ingresos en la misma proporción durante todo el período revisado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1978)</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE LA APLICACION DE LOS PRECEPTOS LEGALES QUE ESTABLECE EL SIGUIENTE IMPUESTO ESTATAL, P.O. 31 DE DICIEMBRE DE 1979.</small>
+
+### CAPITULO XVI. Impuesto Sobre Productos de Capitales
 
 ###### ARTICULO 151
 
-30.- Son causantes del Impuesto Sobre Productos de Capitales las personas físicas, jurídicas o las unidades económicas que obtengan en el Estado o de fuentes ubicadas en el Estado o de créditos garantizados con bienes ubicados en el Estado, ingresos en efectivo, en crédito o en cualquier otra forma, por concepto de:
-
-I.- Intereses sobre toda clase de préstamos;
-
-II.- Intereses sobre cantidades que se adeuden como precio de operaciones de compra-venta, en los casos que no estén gravados por el Impuesto sobre Actividades Mercantiles e Industriales y el Impuesto Federal sobre Ingresos Mercantiles.
-
-III.- Intereses provenientes del contrato de cuenta corriente, cuando el Ingreso no esté gravado por el Impuesto sobre Actividades Mercantiles e Industriales y el Impuesto Federal sobre Ingresos Mercantiles.
-
-IV.- Descuento de títulos o documentos;
-
-V.- Usufructo de capitales impuesto a rédito;
-
-VI.- Premios, primas, regalías y retribuciones de todas clases provenientes de la explotación de patentes o de marcas comerciales o industriales, uso de moldes, matrices, planos y diagramas;
-
-También se consideran como percepciones de las enumeradas en esta Fracción, las que obtengan los titulares de patentes o marcas mediante la fijación de un sobreprecio a las mercancías amparadas por éstas;
-
-VII.- Constitución de depósitos;
-
-VIII.- Otorgamiento de Fianzas;
-
-IX.- Operaciones o Inversiones de capital cualquiera que sea la denominación que se les dé a los ingresos obtenidos, siempre que éstos no sean objeto de algún otro impuesto del Estado o que no estén expresamente exceptuados por una Ley local aplicable.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+30.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 151
 
-31.- El Impuesto sobre Productos de Capitales, se causa sin deducción alguna, sobre los ingresos que el causante obtenga por los conceptos señalados el Articulo anterior, con las tasas que señale la Ley de Ingresos del Estado.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+31.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 151
 
-32.- Si en el documento en que conste cualquier operación de la cual se obtenga alguno de los ingresos comprendidos en las Fracciones I a V, inclusive VII y IX del Artículo 151-30, no se determina el interés, tipo del descuento ó rédito que percibe el acreedor o se señala uno inferior al 12% anual, o se estipula que el acreedor no percibirá interés, salvo prueba en contrario, las autoridades fiscales podrán estimar el ingreso gravable tomando en consideración los siguientes elementos:
-
-a).- Importe de la operación realizada;
-
-b).- Condiciones económicas de las partes que intervengan en la operación;
-
-c).- Todos los elementos que al efecto puedan recabarse.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+32.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 151
 
-33.- El Impuesto que establece este capítulo es a cargo del arrendador o persona que obtenga a nombre propio los ingresos gravables siendo responsable solidario quien efectúe los pagos a nombre propio, a menos que el acreedor le demuestre haber manifestado la operación en los términos del Artículo siguiente, o el mismo deudor solidario lo ponga en conocimiento de las autoridades fiscales.
-
-Los mandatarios tendrán la obligación de señalar el domicilio del mandante ante la Recaudación de Rentas, cuando efectúen cobros o reciban pagos a nombre de éstos, en el término de 15 días siguientes a la operación,
-
-Quienes los efectúen a través de demandas judiciales, cumplirán con la anterior obligación con el hecho de señalarlo en las mismas.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+33.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 151
 
-34.- Los causantes o los retenedores en su caso, deberán presentar declaración mensual de acuerdo con las formas aprobadas y efectuarán el pago del Impuesto en la Oficina Recaudadora de su jurisdicción, dentro del mes siguiente a aquél en que se hubieren obtenido o pagado lo ingresos gravados.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+34.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 151
 
-35.- Cuando los ingresos gravables pertenezcan a causantes domiciliados fuera del Estado, los deudores están obligados a retener el impuesto causado, descontándolo del pago que hagan al acreedor, y a enterar las cantidades retenidas en la Oficina Recaudadora, en los términos que señala el Artículo anterior.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+35.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 151
 
-36.- El pago del impuesto sobre Productos de Capitales deberá hacerse mientras el crédito o inversión de capital de que derive el ingreso gravable no se extinga.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+36.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 151
 
-37.- No causan el impuesto:
-
-I.- Los intereses que paguen u obtengan las Instituciones de Crédito, de Seguros o de Fianzas, que operen en el país conforme a las Leyes respectivas, siempre que dichos intereses se deriven de operaciones propias del objeto de dichas Instituciones.
-
-II.- Los ingresos gravados por este Impuesto que perciban las entidades públicas y personas comprendidas en el Artículo 33 del Código Fiscal del Estado, en los términos de ese precepto.
-
-III.- Ingresos por intereses en cajas de ahorro de los empleados, derivados de préstamos que se otorguen a ellos mismos.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+37.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 151
 
-38.- Los causantes de este Impuesto tienen las siguientes obligaciones:
-
-I.- Presentar ante las Oficinas Recaudadoras de su jurisdicción, dentro de los 15 días del mes siguiente a la celebración de las operaciones gravadas, una manifestación con los siguientes datos:
-
-a).- Naturaleza de la operación y monto gravado.
-
-b).- Fecha de celebración.
-
-c).- Fecha de vencimiento.
-
-d).- Fecha de las amortizaciones.
-
-e).- Tasa de interés.
-
-f).- Nombre y domicilio de las partes que intervengan en la operación.
-
-II.- Pagar el Impuesto dentro del siguiente a aquél en que se hayan obtenido los ingresos gravables.
-
-III.- Dar aviso a la Oficina Recaudadora de Rentas correspondiente a su domicilio, dentro de los 15 días siguientes a la fecha en que ocurra cualquiera de los siguientes hechos:
-
-a).- De iniciación de operaciones.
-
-d) (sic).- De cambio o baja;
-
-1.- Cambio de denominación o razón social;
-
-2.- Cambio de actividad;
-
-3.- Cambio de domicilio;
-
-4.- Traspaso de la negociación;
-
-5.- Suspensión temporal de actividades, y
-
-6.- Clausura definitiva o cesación de actividades.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+38.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 151
 
-39.- Los Notarios y los Jueces que actúen por receptoría, dentro de los quince días siguientes a la fecha en que se autoricen las escrituras en que consten operaciones, actos, contratos de los que se derive el derecho a percibir ingresos gravables con este Impuesto, o los que modifiquen esas escrituras, o por las que se extingan las obligaciones contraídas en dichas operaciones o contratos, darán aviso de su otorgamiento a la Oficina Recaudadora de su residencia.
-
-Estos funcionarios están obligados a permitir la (sic) vistas a sus protocolos y archivos conexos, ordenadas por la Autoridad Fiscal competente.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+39.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 151
 
-40.- Los Titulares del Registro Público de la Propiedad y del Comercio no inscribirán los títulos, contratos o documentos en que se haga constar operaciones generadoras de ingresos gravables por este impuesto, si no se les acredita previamente, con la copia sellada por la Autoridad Fiscal competente o con otra constancia expedida por ésta, que tales operaciones fueron manifestadas en los términos de la Fracción I del Artículo 151-33.
-
-Los citados funcionarios no podrán cancelar las inscripciones relativas a esos títulos, contratos o documentos, si no se les acredita con los recibos oficiales, respectivos, o con otra constancia expedida por autoridad fiscal competente, que se está al corriente en el pago do este impuesto. En tratándose del deudor o fiado, bastará que compruebe haber manifestado la operación en los términos de la Fracción I del Artículo 151-33.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+40.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 151
 
-41.- Las Autoridades Judiciales tendrán obligación de dar aviso a la Recaudación de Rentas de su adscripción, de las demandas, reconvenciones, transacciones y convenios judiciales, sentencias ejecutoriadas y de cualquier promoción que implique desistimiento de alguna de las partes, si los actos ocurren dentro de un procedimiento seguido en relación con actos o contratos de los que se derive el derecho a obtener ingresos gravables en relación con este Impuesto.
+41.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 ### CAPITULO XVII. Impuesto Adicional para la Educación Media y Superior
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 152.
 
-Son objeto del Impuesto Adicional para la Educación Media y Superior, los Impuestos, derechos y rezagos, de los mismos, que se causan conforme a las Leyes Fiscales del Estado.
+Son objeto del Impuesto Adicional para la Educación Media y Superior, los Impuestos, derechos y rezagos de los mismos, que se causen conforme a las Leyes Fiscales del Estado. No se pagará el Impuesto cuando se originen de aquellos que queden suspendidos en virtud de este Decreto.
 
 ###### ARTICULO 153.
 
@@ -1735,51 +1681,37 @@ VII.- Los causantes del impuesto Federal Sobre Ingresos Mercantiles;
 
 VIII.- El Impuesto Sobre Profesiones y Ejercicios Lucrativos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE LA APLICACION DE LOS PRECEPTOS LEGALES QUE ESTABLECE EL SIGUIENTE IMPUESTO ESTATAL, P.O. 31 DE DICIEMBRE DE 1979.</small>
 
 ### CAPITULO XVIII. Impuesto para la Educación Media y Superior Sobre Adquisición de Bienes y Servicios
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+###### ARTICULO 156
+
+1.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 156
 
-1.- Es objeto de este impuesto la adquisición de bienes y servicios.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+2.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 156
 
-2.- Son sujetos de este impuesto los adquirentes de bienes y servicios.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+3.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 156
 
-3.- La base del impuesto será el 45% del importe del Impuesto Sobre Ingresos Mercantiles que resulte de aplicar la tasa general del 4% y especiales del 5%, 10%, 15% y 30% sobre los ingresos que señala la Ley Federal del Impuesto Sobre Ingresos Mercantiles.
-
-> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1973)</small>
+4.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 156
 
-4.- Este impuesto se causará y pagará conforme a la tasa que señale la Ley de Ingresos del Estado.
-
-> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1973)</small>
+5.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 156
 
-5.- Los causantes de este impuesto deberán pagarlo al momento de liquidar el importe de los bienes y servicios, siendo solidariamente responsables del pago del impuesto y retenedores del mismo, los que vendan los bienes o servicios señalados en el artículo 156-1 del presente capítulo.
-
-> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1973)</small>
+6.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 156
 
-6.- Los retenedores de este impuesto deberán enterarlo en la Recaudación de Rentas del Estado correspondiente dentro de los días del 1o. al 20 del mes siguiente a aquél en que haya sido retenido mediante la presentación de una declaración en las formas aprobadas por la Secretaría de Finanzas del Estado.
-
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1973)</small>
-
-###### ARTICULO 156
-
-7.- No causarán este Impuesto los causantes del Impuesto Sobre Hospedaje.
+7.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
 ## TITULO III. DERECHOS
 
@@ -2028,3 +1960,21 @@ Es obligación de los sujetos y responsables solidarios del Impuesto sobre remun
 ###### ARTICULO QUINTO.
 
 Es obligación de los sujetos y responsables solidarios del Impuesto Sobre Producto de Capitales, el empadronarse en la Oficina de Recaudación de Rentas de su jurisdicción, dentro del mes siguiente a la fecha de su publicación del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 1979.
+
+DECRETO NUMERO 164.
+
+###### ARTICULO UNICO.
+
+Las disposiciones que establece el presente Decreto surtirán sus efectos a partir de la fecha en que entren en vigor la Ley del Impuesto al Valor Agregado y la Ley de Coordinación Fiscal, y durante el período en que el Estado de Baja California se encuentre adherido al sistema Nacional de Coordinación Fiscal en los términis (sic) de estas Leyes Federales.
+
+P.O. 31 DE DICIEMBRE DE 1979.
+
+DECRETO NUMERO 165.
+
+ARTICULO Lo (sic).- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial Organo del Gobierno del Estado de Baja California.
+
+###### ARTICULO 2o.
+
+Se cancelan todas las exenciones otorgadas con base en el artículo 151-18 que se deroga a partir de la vigencia de este Decreto.
