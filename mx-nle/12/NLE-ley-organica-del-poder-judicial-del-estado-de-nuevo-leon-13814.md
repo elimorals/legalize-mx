@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-judicial-del-estado-de-nuevo-leon-13814"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-08"
-last_updated: "2000-10-13"
+last_updated: "2001-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 8 de febrero de 1999.
 
@@ -125,11 +125,11 @@ Para efectos de la presente Ley, el Estado se divide en los Distritos Judiciales
 
 ### CAPÍTULO PRIMERO. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 7.
 
-El Tribunal Superior de Justicia se integrará con diez Magistrados. Las faltas temporales de los Magistrados se suplirán en los términos del artículo 115 de esta Ley.
+El Tribunal Superior de Justicia se integrará con once Magistrados. Las faltas temporales de los Magistrados se suplirán en los términos del Artículo 115 de esta Ley.
 
 ###### ARTÍCULO 8.
 
@@ -1037,9 +1037,9 @@ D) Al resto del personal del Poder Judicial, considerando las recomendaciones de
 
 II. Por el Pleno del Consejo de la Judicatura:
 
-A) A los Consejeros;
+A. A los Consejeros;
 
-B) Al personal adscrito al Consejo o a los órganos que están bajo su encargo.
+B. Al personal adscrito al Consejo o a los órganos que están bajo su encargo.
 
 ###### ARTÍCULO 118.
 
@@ -1436,3 +1436,7 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Sexto.- Se deroga el Artículo Transitorio Segundo de la Ley del Notariado publicado en el Periódico Oficial del Estado en fecha 26 de Diciembre de 1983 y el Artículo 34 fracción VII de la Ley Orgánica del Poder Judicial del Estado.
 
 Artículo Octavo.- Se deroga todo lo que se oponga al presente Decreto.
+
+P.O. 3 DE AGOSTO DE 2001
+
+ÚNICO.- El presente Decreto entrará en vigor al momento de su publicación en el Periódico Oficial del Estado.
