@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1979-09-19"
+last_updated: "1979-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1979.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -247,7 +247,7 @@ Las manifestaciones de alta y los avisos de baja deberán hacerse en las formas 
 
 Cuando en las manifestaciones o avisos no se expresen los datos o no se acompañen los documentos o planos respectivos, la Tesorería General del Estado dará un plazo de quince días para que se corrija la omisión, que se contará a partir de la fecha en que los interesados reciban el requerimiento.
 
-Transcurrido dicho plazo si no se expresan los datos o presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería no tomará en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor, las sanciones que procedan.
+Transcurrido dicho plazo si no se expresan los datos o presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería no tomarán en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor, las sanciones que procedan.
 
 DE LAS OBLIGACIONES DE LOS TERCEROS
 
@@ -1033,11 +1033,15 @@ DE CAPITALES
 
 DEL OBJETO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 111o.
 
 Son objeto de este impuesto, todos los actos, convenios o contratos de carácter civil, que se efectúen o surtan sus efectos entro (sic) del Estado, por los siguientes conceptos:
 
 I.- Enajenación de bienes muebles.
+
+(SUSPENDIDA MIENTRAS SUBSISTA EL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 29 DE DICIEMBRE DE 1979)
 
 II.- Traspaso de negociaciones de cualquier clase.
 
@@ -1046,6 +1050,8 @@ III.- Enajenación o cesión de derechos reales sobre bienes inmuebles.
 IV.- Contratos de permuta sobre bienes muebles.
 
 V.- La adjudicación o dación en pago de bienes muebles.
+
+(SUSPENDIDA MIENTRAS SUBSISTA EL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 29 DE DICIEMBRE DE 1979)
 
 VI.- Las aportaciones en especie que hagan los socios a las sociedades, excepto cuando acrediten que provienen de su actividad mercantil anterior o cuando se trate de bienes inmuebles.
 
@@ -1115,15 +1121,23 @@ I.- Quien celebre con el sujeto directamente obligado al pago del impuesto, cual
 
 II.- Los Notarios o Fedatarios Públicos, cuando intervengan en actos, convenios o contratos que causen este impuesto y no se cercioren o asienten que tuvieron a la vista y dieron fé del pago correspondiente.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
+
+###### ARTICULO 119o Bis.
+
+Se exime del pago de este impuesto los actos, convenios o contratos de carácter civil contemplados en las fracciones I, IV, V y VII del Artículo III (sic), si se causa y se paga por dichos conceptos el Impuesto al Valor Agregado.
+
 ### CAPITULO V. IMPUESTO SOBRE JUEGOS PERMITIDOS Y APARATOS
 
 MECANICOS, ELECTROMECANICOS Y FONOELECTROMECANICOS
 
 DEL OBJETO
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 120o.
 
-Son objeto de este impuesto, los ingresos que se perciban o que se tengan derecho a obtener dentro del territorio del Estado o de fuentes de riqueza ubicadas en el mismo por concepto de:
+Son objeto de este impuesto los ingresos que se perciban o que se tengan derecho a obtener dentro del territorio del Estado o de fuentes de riqueza ubicadas en el mismo, por concepto de:
 
 I.- Intereses simples o capitalizados sobre préstamos en general;
 
@@ -1137,11 +1151,11 @@ IV.- Intereses provenientes de contratos de cuenta corriente;
 
 V.- Descuentos o anticipos sobre títulos o documentos;
 
-> <small>(F. DE E., P.O. 29 DE ENERO DE 1977)</small>
+(SUSPENDIDA MIENTRAS SUBSISTA EL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 29 DE DICIEMBRE DE 1979)
 
 VI.- Usufructo de capitales impuestos a rédito;
 
-> <small>(F. DE E., P.O. 29 DE ENERO DE 1977)</small>
+(SUSPENDIDA MIENTRAS SUBSISTA EL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 29 DE DICIEMBRE DE 1979)
 
 VII.- Premios, primas, regalías y retribuciones de todas clases provenientes de la explotación de patentes de invención o de marcas comerciales o industriales.
 
@@ -1149,7 +1163,9 @@ También se considerarán como percepciones de las enumeradas en el párrafo ant
 
 VIII.- Arrendamiento o subarrendamiento de negociaciones comerciales, industriales o agrícolas. Se entiende por negociaciones un conjunto de bienes organizados en tal forma con fines de lucro en que solo se requiere el elemento humano y los gastos de administración indispensables para que produzca ingresos;
 
-IX.- De cualesquiera otras operaciones o inversiones de capital sin importar el nombre con que se les designe, siempre y cuando no estén gravadas con otro impuesto estatal o con el impuesto federal sobre Ingresos Mercantiles; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1979)</small>
+
+IX.- De cualesquiera otras operaciones o inversiones de capital sin importar el nombre con que se les designe, siempre y cuando no estén gravadas con otro impuesto estatal o con el Impuesto al Valor Agregado; y
 
 X.- Subarrendamiento de bienes inmuebles.
 
@@ -1411,9 +1427,13 @@ IV.- De intereses y percepciones que obtengan las instituciones, organizaciones 
 
 V.- Los dividendos o utilidades que distribuyan las sociedades establecidas en el país.
 
-VI.- De actos o contratos por los cuales se pague el Impuesto federal sobre ingresos mercantiles o algún impuesto local del Estado, establecido en esta o en otras leyes.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1979)</small>
 
-VII.- De intereses y demás percepciones a que se refiere este capítulo cuando quien los paga sea una institución de crédito u organización auxiliar de crédito o una institución de seguros de nacionalidad mexicana y siempre y cuando dichos intereses y percepciones se deriven de operaciones propias del objeto de dichas instituciones; no quedan comprendidos los casos de fideicomiso o cualesquiera otras operaciones de inversión en las que el pago de intereses y percepciones se hagan por conducto de dichas instituciones, si no son a cargo del patrimonio de éstas.
+VI.- De Actos o Contratos por los cuales se pague el impuesto al Valor Agregado o algún impuesto local del Estado, establecido en ésta o en otras leyes.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1979)</small>
+
+VII.- De intereses y demás percepciones a que se refiere este capítulo, cuando quien los paga sea una institución de crédito u organización auxiliar de crédito nacional o extranjera o una institución de seguros de nacionalidad mexicana, y siempre y cuando dichos intereses y percepciones se deriven de operaciones propias objeto de dichas instituciones; no quedan comprendidos los casos de fideicomiso o cualesquiera otras operaciones de inversión en las que el pago de intereses y percepciones se hagan por conducto de dichas instituciones, si no son a cargo del patrimonio de ésta.
 
 VIII.- De intereses que se obtengan sobre los créditos destinados a la agricultura.
 
@@ -1425,7 +1445,7 @@ DEL OBJETO
 
 ###### ARTICULO 140o.
 
-Son objeto de este impuesto, la realización o la explotación de: Rifas, sorteos, loterías de especulación o con fines comerciales, de aparatos mecánicos, electromecánicos o fonoelectromecánicos efectuados dentro del territorio del Estado.
+Son objeto de este impuesto la realización de rifas, sorteos, loterías de especulación o con fines comerciales, salvo que se cause y se pague el Impuesto al Valor Agregado, asimismo, son objeto de este impuesto la explotación de aparatos mecánicos, electromecánicos o fonoelectromecánicos efectuada dentro del territorio del Estado.
 
 DE LOS SUJETOS
 
@@ -1493,7 +1513,9 @@ I.- La venta de ganado, aves y colmenas, realizadas dentro del Estado.
 
 II.- La explotación dentro del Estado de ganado lechero, aves y colmenas.
 
-III.- La entrega de ganado y aves a las empacadoras, o a los rastros, y la matanza hecha por los propios ganaderos y avicultores.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1979)</small>
+
+III.- La entrega de ganado y aves a las empacadoras o a los rastros, y la matanza hecha por los propios ganaderos y avicultores. En esta fracción no se comprende el cobro por prestación de servicios.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
 
@@ -1907,9 +1929,9 @@ Para los efectos de este impuesto se entienden por espectáculos públicos toda 
 
 Para los efectos de este impuesto, se entiende:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1979)</small>
 
-I.- Por espectáculo teatral, las representaciones de dramas, comedias, sainetes, conciertos, ópera, opereta, ballets, zarzuela, revistas y, en general la actuación personal de actores, músicos o artistas ante el público. Están comprendidos en este concepto los espectáculos que se dan en las carpas, circos o variedades, en restaurantes, cabarets y cafés cantantes.
+I.- Por espectáculo teatral, las representaciones de dramas, comedias, sainetes, conciertos, ópera, opereta, ballets, zarzuela, revistas y, en general, la actuación personal de actores, músicos o artistas ante el público. Están comprendidos en este concepto, los espectáculos que se den en las carpas o circos.
 
 II.- Por función cinematográfica la exhibición, habitual u ocasional, de películas de cualquier especie.
 
@@ -2040,6 +2062,12 @@ Las autoridades municipales, deberán dar aviso, con anticipación necesaria, a 
 ###### ARTICULO 201o.
 
 En los casos de infracciones a lo dispuesto por este capítulo, los Jefes de las Oficinas Fiscales deberán levantar el acta correspondiente consignando los hechos, procediendo desde luego a asegurar el interés fiscal. Dicha acta será enviada de inmediato por los propios jefes al Tesorero General del Estado para su revisión, proponiendo la multa a que se haya hecho acreedor el infractor, El Tesorero General del Estado está facultado para aumentar, reducir o confirmar la sanción.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
+
+###### ARTICULO 201o Bis.
+
+Se exime del pago de este impuesto los espectáculos prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos, por causar los mismos el Impuesto al Valor Agregado.
 
 ### CAPITULO XI. IMPUESTO SOBRE HONORARIOS
 
@@ -2225,9 +2253,9 @@ I.- Los ingresos que perciben los artesanos; y
 
 II.- Los ingresos que perciban los agentes de instituciones de crédito, de seguros y de fianzas.
 
-> <small>(ADICIONADA P.O. 28 DE DICIEMBRE DE 1977)</small>
+> <small>(ADICIONADA [REFORMADA] P.O. 28 DE DICIEMBRE DE 1979)</small>
 
-III.- Los técnicos, cuando prestan sus servicios a domicilio y no cuenten con maquinaria, ni tengan taller instalado.
+III.- Los conceptos que comprenda el objeto del mismo, si se causa y se paga el Impuesto al Valor Agregado.
 
 > <small>(ADICIONADO P.O. 28 DE DICIEMBRE DE 1977)</small>
 
@@ -2443,11 +2471,19 @@ Los propietarios y arrendatarios de los locales ocupados por fábricas, almacene
 
 DE LAS EXENCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 244o.
 
-Están exceptuadas de este impuesto los expendios con venta exclusiva de cerveza, pero los propietarios o titulares de los mismos deberán empadronarse en la Oficina Fiscal de su jurisdicción y obtener licencia de funcionamiento en los términos de este capítulo.
+Están exceptuados de este impuesto los expendios con venta exclusiva de cerveza, pero los propietarios o titulares de los mismos deberán empadronarse en la Oficina Fiscal de su jurisdicción y obtener licencia de funcionamiento en los términos de este capítulo.
 
-Asimismo deberán atender las disposiciones de este capitulo y la reglamentación respectiva.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
+
+Asimismo, deberán atender las disposiciones de este capítulo y la reglamentación respectiva.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
+
+Quedan suspendidos los efectos de vigencia derivados de la distribución, la venta de primera mano de alcohol, así como lo relativo a la gravación sobre los expendios de bebidas alcohólicas que se realicen o que estén establecidos dentro del mismo en tanto subsista el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal celebrado por el Estado de Tamaulipas con la Federación.
 
 ### CAPITULO XIV. IMPUESTO PARA LA EDUCACION UNIVERSITARIA
 
@@ -2573,7 +2609,7 @@ Son obligaciones de los sujetos de este impuesto:
 
 I.- Liquidar el impuesto en el momento en que se haga el entero de los conceptos básicos sobre los cuales recae, en las declaraciones que se presenten con motivo del pago de estos, salvo en aquellos casos en que se prevea una forma distinta.
 
-II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días lo. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
+II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días 1o. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
 
 III.- Las demás que este capítulo establece.
 
@@ -2592,6 +2628,12 @@ La retención se hará sobre el monto total de los ingresos que perciban los com
 c).- Los comitentes sobre las remuneraciones que cubran a sus comisionistas domiciliados en el Estado, cuando estos no realicen sus operaciones en establecimientos fijos.
 
 Los retenedores enterarán el impuesto mediante una declaración conforme a lo dispuesto por este capítulo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
+
+###### ARTICULO 257o Bis.
+
+Se derogan los efectos de lo preceptuado por los artículos 252 y 254 en lo relativo a las participaciones en el Impuesto Federal sobre Ingresos Mercantiles, por estar subsistente el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal celebrado por el Estado de Tamaulipas con la Federación y por abrogar la Ley de Coordinación Fiscal al susodicho Impuesto Federal.
 
 ## TITULO II
 
@@ -2671,7 +2713,7 @@ III.- En las emisiones de las cédulas hipotecarias en que se constituya hipotec
 
 IV.- En toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en ella quedan comprendidos varios bienes, se pagará sobre el valor de cada uno de ellos. Si la transmisión comprende varios bienes, y se realiza por una suma alzada, los interesados determinarán el valor que corresponda a cada uno de dichos bienes, a efecto de que sirva de base para el cobro de los derechos, debiendo observarse lo dispuesto en la fracción I de este Artículo.
 
-V.- En las operaciones sobre bienes inmuebles, sujetos a condición suspensiva, resolutoria, reserva de dominio o cualquier otra que deba originar una inscripción complementaria para su perfeccionamiento, se pagará el ……85% de las tasas establecidas en la Fracción II del Artículo 263 y al practicarse la inscripción complementaria se cobrará el ............................................ 15%
+V.- En las operaciones sobre bienes inmuebles, sujetos a condición suspensiva, resolutoria, reserva de dominio o cualquier otra que deba originar una inscripción complementaria para su perfeccionamiento, se pagará el ……85% de las tasas establecidas en la Fracción II del Artículo 263 y al practicarse la inscripción complementaria se cobrará el .................... ......................15%
 
 VI.- Para la aplicación de las tasas de la Fracción II del Artículo 263, en su caso, la nula propiedad y el usufructo, se valuarán en los términos del Impuesto sobre Herencias y Legados, en aquellos casos que el juicio sucesorio se haya iniciado anteriormente a la derogación de la Ley citada y que esté pendiente de resolución o liquidación. De la misma manera se procederá cuando se trate de derechos de uso, rentas vitalicias y otros casos similares.
 
@@ -2743,7 +2785,7 @@ La expedición de Títulos Profesionales, autorización para ejercer la profesi�
 
 TARIFA:
 
-VEASE TABBLA ANEXA
+VEASE TABLA ANEXA
 
 ### CAPITULO IV. SERVICIOS CATASTRALES
 
@@ -2765,7 +2807,7 @@ VEASE TABLA ANEXA:
 
 ###### ARTICULO 272o.
 
-Para el cobro de cuotas, por derechos de inspección de elevadores en el Estado, se aplicará la tarifa contenida en el Artículo 271 adicionándola en un 20%. La inspección incluirá motor e instalación del elevador y se realizará semestralmente.
+Para el cobro de cuotas, por derechos de inspección de elevadores en el Estado, se aplicará la tarifa contenida en el Artículo 271o. adicionándola en un 20%. La inspección incluirá motor e instalación del elevador y se realizará semestralmente.
 
 ###### ARTICULO 273o.
 
@@ -2815,7 +2857,7 @@ Los derechos por las licencias que se otorguen a las personas a que se refiere l
 
 ###### ARTICULO 280o.
 
-Los derechos por concesiones de licencias para prácticas de medicina, obstetricia, enfermería y farmacia, por personas no tituladas, se causarán con la cuota anual de $ 200. 00.
+Los derechos por concesiones de licencias para prácticas de medicina, obstetricia, enfermería y farmacia, por personas no tituladas, se causarán con la cuota anual de .........................................................................................................................$ 200. 00.
 
 ### CAPITULO VII. CONCESIONES, LINCENCIAS Y PLACAS
 
@@ -2857,7 +2899,7 @@ Los propietarios o poseedores de predios que se encuentren dentro del área de b
 
 ###### ARTICULO 287o.
 
-La expedición de pasaporte provisional causará derechos con la cuota de $ 200.00.
+La expedición de pasaporte provisional causará derechos con la cuota de ............................................................................................................................... $ 200.00.
 
 ###### ARTICULO 288o.
 
@@ -2867,7 +2909,7 @@ VEASE TABLA ANEXA
 
 ###### ARTICULO 289o.
 
-Los derechos de cotejo de documento causarán la cuota de....... $ 25.00
+Los derechos de cotejo de documento causarán la cuota de............. $ 25.00
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
 
@@ -2992,3 +3034,13 @@ Continúa en vigor el Decreto 220 publicado en el Periódico Oficial del Estado 
 ###### ARTICULO SEGUNDO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1979
+
+###### ARTICULO PRIMERO.
+
+Continúa en vigor el Decreto No. 220, publicado en el Periódico Oficial del Estado No. 106 del veintinueve de diciembre de mil novecientos setenta y seis, mediante el cual se expidió la Ley de Hacienda vigente en el Estado, así como los demás decretos que con posterioridad le han reformado, en cuanto no se opongan a lo estatuido por el presente decreto.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor previa su publicación en el Periódico Oficial del Estado, el día primero de enero de mil novecientos ochenta.
