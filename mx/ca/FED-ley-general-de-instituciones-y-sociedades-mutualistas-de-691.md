@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1993-12-23"
+last_updated: "1995-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 1995.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -469,9 +469,9 @@ El valor de las acciones deberá ser íntegramente cubierto en efectivo en el ac
 
 Las instituciones podrán emitir acciones sin valor nominal así como preferentes o de voto limitado. En caso de que existan más de una serie de acciones, deberá indicarse expresamente el porcentaje del capital social que podrá corresponder a cada serie.
 
-> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
-El capital pagado de las instituciones de seguros podrá integrarse con una parte representada por acciones de voto limitado hasta por un monto equivalente al veinticinco por ciento del mismo, previa autorización de la Secretaría de Hacienda y Crédito Público.
+El capital social de las instituciones de seguros podrá integrarse con una parte representada por acciones de voto limitado hasta por un monto equivalente al treinta por ciento del capital pagado, previa autorización de la Secretaría de Hacienda y Crédito Público. La adquisición de acciones de voto limitado no estará sujeta a los límites establecidos por el artículo 15 y el numeral 2 de la fracción II de este artículo. Estas acciones no computarán para efecto del límite establecido en el tercer párrafo del numeral 1, fracción II de este artículo.
 
 > <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
@@ -493,17 +493,13 @@ Las pérdidas que registre una sociedad deberán afectar directamente al capital
 
 En ningún momento podrán participar en forma alguna en el capital de estas instituciones, ya sea directamente o a través de interpósita persona, gobiernos o dependencias oficiales extranjeros, ni entidades financieras del exterior, excepto en los casos previstos en el párrafo siguiente.
 
-> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
-
 > <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 I Bis.- En razón del origen de los accionistas que suscriban su capital, las instituciones podrán ser:
 
-a).- De capital total o mayoritariamente mexicano; o
+a). De capital total o mayoritariamente mexicano; o
 
-b).- De capital total o mayoritariamente extranjero, en cuyo caso se les considerará como Filiales de Instituciones Financieras del Exterior.
+b). De capital total o mayoritariamente extranjero, en cuyo caso se les considerará como Filiales de Instituciones Financieras del Exterior.
 
 En todo lo relativo a su organización, las instituciones a que se refiere el inciso a) de esta fracción, se regirán por lo dispuesto en el presente capítulo, en tanto que a las instituciones a que se refiere el inciso b) de la misma, les será aplicable, además de lo dispuesto en este mismo capítulo, con excepción de la fracción II de este artículo, lo que se establece en el Capítulo I Bis del Título Primero de esta Ley.
 
@@ -515,15 +511,21 @@ II.- Tratándose de las instituciones a que se refiere el inciso a) de la fracci
 
 1.- No podrán participar en su capital social pagado, directamente o a través de interpósita persona, instituciones de crédito, sociedades mutualistas de seguros, casas de bolsa, organizaciones auxiliares del crédito, sociedades operadoras de sociedades de inversión, ni casas de cambio.
 
-La Secretaría de Hacienda y Crédito Público, podrá discrecionalmente, autorizar la participación en el capital pagado de estas instituciones de seguros a entidades aseguradoras, reaseguradoras o reafianzadoras del exterior y a personas físicas o morales extranjeras o agrupaciones de las mismas distintas de las excluidas en el párrafo anterior. La autorización que se otorgue a un inversionista extranjero será intransmisible, y la inversión mexicana siempre deberá ser mayoritaria y mantener la facultad de determinar el manejo de la institución y su control efectivo.
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
-A tal efecto, la inversión extranjera deberá hacerse constar en una serie especial de acciones representativas del capital de la sociedad correspondiente, misma que en ningún caso podrá rebasar el 49% del capital de la sociedad.
+Las entidades aseguradoras, reaseguradoras o reafianzadoras del exterior, así como las personas físicas o morales extranjeras distintas de las excluidas en el párrafo anterior, podrán adquirir acciones representativas del capital de estas instituciones de seguros. La inversión mexicana siempre deberá mantener la facultad de determinar el manejo de la institución y su control efectivo.
 
-2.- Ninguna persona física o moral podrá ser propietaria de más del 15% de su capital social, excepto:
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
-a). La Administración Pública Federal;
+A tal efecto, la inversión extranjera deberá hacerse constar en una serie especial de acciones representativas del capital de la sociedad correspondiente, misma que en ningún caso podrá rebasar el cuarenta y nueve por ciento del capital pagado de la sociedad.
 
-b). Las sociedades que sean o puedan llegar a ser propietarias de acciones de una institución de seguros. Estas sociedades estarán sometidas a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas y les será aplicable al igual que a sus accionistas lo dispuesto en esta fracción, en la fracción III de este artículo y en las fracciones III y IV del artículo 139 de esta Ley.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+2.- Ninguna persona física o moral podrá ser propietaria de más del veinte por ciento de su capital pagado, excepto:
+
+a).- La Administración Pública Federal;
+
+b).- Las sociedades que sean o puedan llegar a ser propietarias de acciones de una institución de seguros. Estas sociedades estarán sometidas a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas y les será aplicable al igual que a sus accionistas lo dispuesto en esta fracción, en la fracción III de este artículo y en las fracciones III y IV del artículo 139 de esta Ley.
 
 Las personas que aporten acciones de una o varias instituciones de seguros al capital de una de las sociedades a que se refiere este inciso, podrán mantener la participación que resulte en el capital de la misma, por el valor de las acciones que cada una de ellas aporte.
 
@@ -545,7 +547,11 @@ g). Las sociedades controladoras a que se refiere la Ley para regular las Agrupa
 
 h). Las personas que de manera discrecional, autorice la Secretaría de Hacienda y Crédito Público, con las finalidades de propiciar el desarrollo técnico y de comercialización del seguro; de procurar una adecuada diversificación de riesgos; o de fortalecer la eficiencia y capacidad de retención de primas de las instituciones.
 
-Las personas que en los términos de esta fracción lleguen a ser propietarias de más del quince por ciento del capital pagado de una institución de seguros o de una sociedad de las comprendidas en el inciso b) de esta fracción, deberán obtener certificados de tenencia accionaria de la Comisión Nacional de Seguros y Fianzas, en el que se hará constar el porcentaje correspondiente.
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+i). Las Instituciones Financieras del Exterior, directa o indirectamente, o las Sociedades Controladoras Filiales que adquieran acciones de cualquier serie, conforme a programas aprobados por la Secretaría de Hacienda y Crédito Público, con la finalidad de convertir a la respectiva institución de seguros en una Filial.
+
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -559,9 +565,9 @@ a). Manifestar por escrito el carácter con el que se concurre, sea éste el de 
 
 b). Manifestar por escrito el nombre de la o las personas a quienes pertenezcan las acciones que representen y señalar invariablemente el número de acciones que a cada una corresponda, cuando se asista con el carácter de mandatario, comisionista o cualquier tipo de representante, así como en los demás casos que determine la Comisión Nacional de Seguros y Fianzas;
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
+c). (DEROGADO, D.O.F. 17 DE NOVIEMBRE DE 1995)
 
-c). Exhibir en su caso, el certificado a que se refiere el último párrafo de la fracción anterior.
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
 Los escrutadores estarán obligados a cerciorarse de la observancia de lo dispuesto en esta fracción e informar sobre ello a la asamblea, lo que se hará constar en el acta respectiva.
 
@@ -771,13 +777,17 @@ Se exceptúa de lo dispuesto en el párrafo anterior a las Filiales en cuyo capi
 
 Las solicitudes para organizarse y funcionar como Filiales deberán cumplir, además de lo establecido en la fracción I del artículo 29 de esta Ley, lo que establezcan las reglas a las que se refiere el primer párrafo del artículo 33-B.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 33-G.
 
-El capital social de las Filiales podrá estar representado por dos series de acciones. Cuando menos el cincuenta y uno por ciento del capital social de las Filiales se integrará por acciones de la Serie "E". Las Filiales podrán también emitir acciones de la Serie "M" sin que éstas puedan exceder del cuarenta y nueve por ciento del capital social.
+El capital social de las Filiales estará representado por dos series de acciones. Cuando menos el cincuenta y uno por ciento del capital social de las Filiales se integrará por acciones de la Serie “E”. El cuarenta y nueve por ciento restante del capital social podrá integrarse indistinta o conjuntamente por acciones Serie “E” y “M”.
 
-La totalidad de las acciones Serie "E" de una Filial deberán ser propiedad en todo momento de una Institución Financiera del Exterior, directa o indirectamente, o de una Sociedad Controladora Filial. Las acciones Serie "M" estarán sujetas a lo dispuesto en la fracción II del artículo 29 de la presente ley.
+La totalidad de las acciones Serie “E” de una Filial deberán ser propiedad en todo momento de una Institución Financiera del Exterior, directa o indirectamente, o de una Sociedad Controladora Filial. Las acciones Serie “M” que no sean propiedad de dicha Institución Financiera del Exterior o Sociedad Controladora Filial, estarán sujetas a lo dispuesto en los artículos 15 y 29 fracción II de la presente Ley.
+
+Las acciones deberán pagarse íntegramente en el acto de ser suscritas.
+
+Las Filiales no podrán emitir acciones de voto limitado.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -803,17 +813,25 @@ II.- Cuando el adquirente sea una Institución Financiera del Exterior o una Soc
 
 III.- Cuando el adquirente sea una Filial de la misma operación o ramo deberá fusionarse con la institución de seguros que haya sido adquirida.
 
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+En el otorgamiento de las autorizaciones a que se refiere este artículo, la Secretaría de Hacienda y Crédito Público deberá preservar la preponderancia de la inversión nacional sobre la inversión extranjera.
+
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 33-J.
 
 Las Filiales no podrán establecer sucursales o subsidiarias fuera del territorio nacional.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 33-K.
 
-El consejo de administración de las Filiales estará integrado por lo menos por cinco consejeros, de entre los cuales la mayoría deberá residir en territorio nacional. En su caso, los propietarios de las acciones de la Serie "M" tendrán derecho a nombrar cuando menos un consejero.
+El consejo de administración de las Filiales estará integrado por lo menos por cinco consejeros, de entre los cuales la mayoría deberá residir en territorio nacional. Su nombramiento deberá hacerse en asamblea especial para cada serie de acciones. A las asambleas que se reúnan con ese fin, así como aquéllas que tengan el propósito de designar comisarios por cada serie de acciones, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
+
+Los propietarios de las acciones Serie “M”, en su caso, tendrán derecho a nombrar cuando menos un consejero. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
+
+El presidente del consejo deberá elegirse de entre los propietarios de la Serie “E”, y tendrá voto de calidad en caso de empate. Por los propietarios se nombrarán suplentes, los cuales podrán suplir indistintamente a cualesquiera de los propietarios, en el entendido de que dentro de cada sesión, un suplente sólo podrá representar a un propietario.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -821,11 +839,11 @@ El consejo de administración de las Filiales estará integrado por lo menos por
 
 Los directores generales de las Filiales deberán cumplir con los requisitos previstos en la fracción VII bis-1 del artículo 29 de la presente Ley y residir en territorio nacional.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 33-M.
 
-El órgano de vigilancia de las Filiales estará integrado por lo menos por un comisario de la Serie "E" y, en su caso, por otro de la Serie "M", nombrados por los accionistas de cada una de las series, y sus respectivos suplentes.
+El órgano de vigilancia de las Filiales estará integrado por lo menos por un comisario designado por los accionistas de la Serie “E” y, en su caso, un comisario nombrado por los accionistas de la Serie “M”, y sus respectivos suplentes.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -887,7 +905,7 @@ IX.- Recibir títulos en descuento y redescuento a instituciones y organizacione
 
 X.- Otorgar préstamos o créditos;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 X Bis.- Emitir obligaciones subordinadas que deberán ser obligatoriamente convertibles a capital, hasta por un monto igual al capital pagado de la institución.
 
@@ -3039,6 +3057,10 @@ Para proceder penalmente por los delitos previstos en los artículos 141, 142, 1
 
 Las multas previstas en los artículos 141, 142, 143 y 145 de esta Ley, se impondrán a razón de días de salario. Para calcular su importe se tendrá como base el salario mínimo general vigente en el Distrito Federal al momento de realizarse la conducta sancionada.
 
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas, dictará disposiciones de carácter general para prevenir y detectar en las instituciones y sociedades mutualistas de seguros, actos u operaciones con recursos, derechos o bienes que procedan o representen el producto de un probable delito. Estas disposiciones deberán ser observadas por los empleados y funcionarios de los citados intermediarios. La violación de las mismas será sancionada con multa equivalente del diez hasta el cien por ciento del monto del acto u operación de que se trate, la cual será impuesta por la Comisión Nacional de Seguros y Fianzas a los intermediarios financieros mencionados.
+
 > <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 141.
@@ -3640,3 +3662,23 @@ No obstante lo dispuesto en el artículo 29 fracción II de la Ley General de In
 Las Instituciones Financieras del Exterior que antes de la entrada en vigor del tratado o acuerdo aplicable tengan inversiones en instituciones de seguros, podrán incrementar éstas de conformidad con dicho tratado.
 
 A las inversiones señaladas en los dos párrafos anteriores no les serán aplicables los límites de capital individuales y agregados de conformidad con el tratado o acuerdo internacional aplicable.
+
+D.O.F. 17 DE NOVIEMBRE DE 1995.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
+
+###### ARTICULO QUINTO.
+
+Lo establecido en los artículos segundo y tercero transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley para Regular las Agrupaciones Financieras, Ley de Instituciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley del Mercado de Valores, Ley de Sociedades de Inversión, Ley General de Instituciones y Sociedades Mutualistas de Seguros y Ley Federal de Instituciones de Fianzas, publicado en el Diario Oficial de la Federación el 23 de diciembre de 1993, no es aplicable a las sociedades financieras de objeto limitado, arrendadoras financieras, empresas de factoraje financiero e instituciones de seguros, filiales, que resulten de las adquisiciones que sean autorizadas por la Secretaría de Hacienda y Crédito Público.
+
+###### ARTICULO SEXTO.
+
+Las sociedades financieras de objeto limitado, organizaciones auxiliares del crédito, casas de cambio, instituciones de seguros e instituciones de fianzas, deberán efectuar, en su caso, los actos corporativos necesarios para ajustar sus estatutos a lo dispuesto por el presente Decreto, dentro de un plazo máximo de ciento veinte días contados a partir del inicio de la vigencia del mismo.
+
+...
