@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1996-10-31"
+last_updated: "1996-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -260,6 +260,10 @@ XII. Fijar las cuotas o porcentajes que cubrirán los contribuyentes por cualqui
 XIII. Las demás que le otorguen otras Leyes o disposiciones fiscales.
 
 Independientemente de las atribuciones a que se refiere este artículo, el Tesorero Municipal deberá caucionar su manejo de fondos, dentro de los treinta días siguientes al día en que tome posesión de su cargo, en cualquiera de las formas que señala el Art. 47 de esta ley y por el importe que determinen las Leyes de Ingresos Municipales, debiendo actualizar su caución dentro del mes de enero de cada año. Dicha caución deberá otorgarse en favor del Ayuntamiento y remitirla al Congreso del Estado para su registro y control, dentro del término aludido.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1996)</small>
+
+Los gastos que se originen con motivo del otorgamiento de la caución, serán a cargo del Erario Municipal.
 
 El Tesorero Municipal que no caucione su manejo de fondos, no podrá cobrar sueldos y será destituido de su cargo si no cumple esta obligación dentro de los tres meses siguientes a su nombramiento.
 
@@ -2854,3 +2858,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 31 DE OCTUBRE DE 1996.
 
 ÚNICO.- El presente decreto entrará en vigor ocho días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 5 DE DICIEMBRE DE 1996.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
