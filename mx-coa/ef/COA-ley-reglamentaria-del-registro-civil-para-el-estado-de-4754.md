@@ -4,7 +4,7 @@ identifier: "COA-ley-reglamentaria-del-registro-civil-para-el-estado-de-4754"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "1999-06-25"
+last_updated: "2003-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,13 @@ state: "COA"
 
 LEY REGLAMENTARIA DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1999
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO EL VIERNES 25 DE JULIO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 31 de diciembre de 1975.
+
+LEY REGLAMENTARIA DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA
 
 EL C. OSCAR FLORES TAPIA, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
 
@@ -1124,3 +1128,21 @@ Los ficheros de control y el libro de familia a que refieren los artículos 14 y
 P.O. 25 DE JUNIO DE 1999.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE JULIO DE 2003.
+
+PRIMERO. Esta ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley Reglamentaria del Registro Civil para el Estado de Coahuila, publicada en el Periódico Oficial del Gobierno del Estado número 105, de fecha 31 de diciembre de 1975; y se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. El titular del Ejecutivo dentro del plazo de 90 días hábiles siguientes a la entrada en vigor de esta ley, podrá expedir las adecuaciones que resulten necesarias al Reglamento Interior del Registro Civil, publicado en el Periódico Oficial del Gobierno del Estado número 59, de fecha 23 de julio de 2002, a efecto de que las disposiciones de éste se ajusten al presente Decreto, en caso de ser necesario.
+
+Para tal efecto, el titular de la Dirección del Registro Civil procederá a elaborar un anteproyecto de reformas para someterlo a la consideración del Ejecutivo, por conducto de la Secretaría de Gobierno.
+
+CUARTO. Cuando una ley, reglamento, decreto u otras disposiciones jurídicas o administrativas aludan a la Dirección Estatal del Registro Civil, se entenderá la referencia a la Dirección del Registro Civil prevista en esta ley.
+
+QUINTO. La Dirección del Registro Civil diseñará y elaborará un programa permanente de profesionalización de los oficiales del Registro Civil, con el objeto de garantizar la certeza y seguridad de los actos registrales conforme a derecho.
+
+Este programa deberá implementarse y ejecutarse por la Dirección y deberá comprender todas aquellas acciones para garantizar, con base en los objetivos que resulten necesarios, la actualización de los oficiales del Registro Civil, la mejora en la prestación de los servicios a su cargo y la mayor eficiencia y eficacia en el desempeño de sus funciones.
+
+Corresponderá a la Dirección del Registro Civil establecer los mecanismos para supervisar y evaluar los resultados del programa.
