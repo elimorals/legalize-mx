@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "1991-11-14"
+last_updated: "1992-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO PENAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1992.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
@@ -301,7 +301,7 @@ Los procesados sujetos a prisión preventiva y los reos políticos, serán reclu
 
 El confinamiento consiste en la obligación de residir en lugar determinado y no salir de él. No podrá exceder de cinco años. El órgano ejecutor de sanciones hará la designación del lugar, conciliando las exigencias de la tranquilidad pública con las circunstancias personales del sentenciado. Cuando se trate de delitos políticos, la designación será hecha por el tribunal que dicte la sentencia.
 
-### CAPITULO IV. Prohibición de ir a lugar determinado o de residir en él
+### CAPITULO IV. Prohibición de ir a lugar determinado de residir en él
 
 ###### Artículo 27.
 
@@ -473,7 +473,7 @@ En el segundo caso, si la suspensión no va acompañada de sanción privativa de
 
 La sanción de prisión suspende los derechos políticos y los de tutor, curador, apoderado, defensor, albacea, perito, depositario, interventor judicial o en quiebras, síndico, árbitro y representante de ausente. La suspensión principiará desde que cause ejecutoria la sentencia respectiva y durará todo el tiempo de la condena.
 
-### CAPITULO XI. Publicación especial de sentencia
+### CAPITULO XI. PUBLICACION ESPECIAL DE SENTENCIA
 
 ###### Artículo 51.
 
@@ -577,7 +577,7 @@ En caso de delito continuado, la sanción podrá aumentarse hasta una mitad más
 
 Al reincidente se le aplicará la sanción que corresponda por el último delito cometido, la cual podrá aumentarse hasta un tanto más de su duración, sin que el total, tratándose de prisión, pueda exceder de treinta años.
 
-### CAPITULO VIII. Intervención, Suspensión y Extinción de las Personas Juridícas Colectivas
+### CAPITULO VIII. Intervención, Suspensión y Extinción de las Personas Jurídicas Colectivas
 
 ###### Artículo 66.
 
@@ -705,6 +705,10 @@ Los sentenciados que disfruten de la suspensión condicional de la sanción, que
 
 En el caso de haberse nombrado fiador para el cumplimiento de las obligaciones contraídas en términos del artículo 79, concluirá su obligación al extinguirse la sanción impuesta al acusado.
 
+###### Artículo 80.
+
+Las obligaciones contraídas por el fiador, concluirán seis meses después de transcurridos los tres años a que se refiere el artículo anterior, siempre que el delincuente no diere lugar a nuevo proceso o cuando en éste se pronuncie sentencia absolutoria.
+
 Cuando el fiador tenga motivos fundados para no contituar (sic) desempeñando el cargo, los expondrá al juez a fin de que éste, si los estima justos, prevenga al reo que presente nuevo fiador dentro del plazo que prudentemente deberá fijarle, bajo apercibimiento de que se hará efectiva la sanción si no lo verifica.
 
 En caso de muerte o insolvencia del fiador, el reo está obligado a poner el hecho en conocimiento del juez, para el efecto y bajo el apercibimiento expresado en el párrafo anterior.
@@ -715,7 +719,7 @@ En diligencia formal, el juez hará saber al interesado los casos en que se revo
 
 ### CAPITULO II. Amnistía
 
-## TITULO SEXTO. EXTINCIÓN DE LA ACCIÓN Y DE LAS SANCIONES PENALES
+## TITULO SEXTO. EXTINCION DE LA ACCION Y DE LAS SANCIONES PENALES
 
 ### CAPITULO III. Reconocimiento de la inocencia del sentenciado
 
@@ -1715,7 +1719,9 @@ Si el falsificador hiciere uso de los documentos u objetos falsos que se detalla
 
 Las disposiciones contenidas en este Título, se aplicarán solamente en lo que no estuviere previsto en las leyes especiales o no se opusiere a lo establecido en ellas.
 
-## TITULO DECIMO SEPTIMO. DELITOS DE PELIGRO PARA LA VIDA Y LA SALUD
+## TITULO VIGESIMO. DE LOS DELITOS ELECTORALES Y EN MATERIA DE REGISTRO ESTATAL DE ELECTORES
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 1992)</small>
 
 ###### Artículo 211.
 
@@ -1809,7 +1815,7 @@ TITULO DECIMOSEGUNDO
 
 DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
-VIOLACION A LAS LEYES DE INHUMACIONES Y EXHUMACIONES
+Violación a las Leyes de Inhumaciones y Exhumaciones
 
 ### CAPITULO I. Violación
 
@@ -2265,6 +2271,10 @@ TITULO DECIMOSEPTIMO
 
 DELITOS DE PELIGRO PARA LA VIDA Y LA SALUD
 
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+
 ###### Artículo 292.
 
 Se impondrán prisión de seis meses a tres años y multa de quinientos a tres mil pesos:
@@ -2285,7 +2295,7 @@ Al que omita prestar el auxilio que sea necesario según las circunstancias, a u
 
 ###### Artículo 295.
 
-Los médicos, cirujanos, parteros, enfermeros y demás profesionistas similares y auxiliares que se nieguen a prestar sus servicios a un lesionado o enfermo en caso de notoria urgencia por exigir el pago anticipado de sus servicios, o por cualquier otro motivo injustificado, poniendo en peligro la vida o la salud de dicha persona, serán sancionados con prisión de seis meses a tres años y multa de quinientos a tres mil pesos.
+Los médicos, cirujanos, parteros, enfermeros y demás profesionistas similares y auxiliares que se nieguen a prestar sus servicios, a un lesionado o enfermo en caso de notoria urgencia por exigir el pago anticipado de sus servicios o por cualquier otro motivo injustificado, poniendo en peligro la vida o la salud de dicha persona, serán sancionados con prisión de seis meses a tres años y multa de quinientos a tres mil pesos.
 
 Si de las conductas omisivas a que se refiere este artículo, resultare la muerte de la persona a quien no se atendió, se aplicarán al responsable de dos a ocho años de prisión, multa de dos mil a ocho mil pesos e inhabilitación para el ejercicio profesional de uno a cinco años o definitiva en caso de reincidencia. Si resultaren lesiones, se le aplicarán hasta las dos terceras partes de la sanción que correspondería a éstas.
 
@@ -2325,9 +2335,7 @@ I. Cuando el valor de lo robado no exceda del importe de cien días de salario, 
 
 II. Si el valor de lo robado excede del importe señalado en la fracción anterior, pero no del que se establece en la siguiente, la sanción será de uno a tres años de prisión y multa de diez a treinta días de salario; y,
 
-III. Cuando el valor de lo robado exceda del importe de quinientos días de salario, la sanción será de tres a doce años de prisión y multa de treinta a ciento veinte días de salario.
-
-Para la aplicación de este artículo se considerará como salario, el salario mínimo general vigente en el momento y lugar en que se cometió el delito.
+III. Cuando el valor de lo robado exceda del importe de quinientos días de salario, la sanción será de tres a doce años de prisión y multa de treinta a ciento veinte días de salario. Para la aplicación de este artículo se considerará como salario, el salario mínimo general vigente en el momento y lugar en que se cometió el delito.
 
 ###### Artículo 301.
 
@@ -2643,6 +2651,110 @@ Las violaciones a que se refiere el artículo anterior no producen responsabilid
 
 Cuando los delitos a que se refiere el artículo 336 aparezcan cometidos por una persona jurídica de derecho privado, la sanción de prisión se impondrá al patrón, gerente, director o administrador o encargado que hubiere ordenado los hechos, sin perjuicio de que el juez, si lo estima conveniente, imponga la sanción de suspensión de actividades o disolución de la persona jurídica colectiva, en los términos de los artículos 23, fracción XVI y 70.
 
+> <small>(ADICIONADO CON EL CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 1992)</small>
+
+###### Artículo 339.
+
+Para los efectos de este título se entiende por:
+
+I. Funcionarios electorales, quienes en los términos de la legislación estatal electoral integren los órganos que cumplen funciones públicas electorales;
+
+II. Funcionarios partidistas, los dirigentes de los partidos políticos, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales estatales los propios partidos otorgan representación para actuar en la jornada electoral ante los órganos electorales en los términos de la legislación estatal electoral; y,
+
+III. Documentos públicos electorales, las actas oficiales de instalación de casillas, de los escrutinios y cómputo de las mesas directivas de casilla, las de los cómputos distritales y municipales, y en general, los documentos expedidos en el ejercicio de sus funciones por los órganos de la Comisión Estatal Electoral.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+
+###### Artículo 340.
+
+Por la comisión de cualquiera de los delitos comprendidos en el presente título se podrá imponer además de la pena señalada, la suspensión de derechos políticos de uno a cinco años.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+
+###### Artículo 341.
+
+En la aplicación de las sanciones alternativas a que se refiere el presente título, el juez atenderá primero a las pecuniarias o, motivando su resolución, impondrá la sanción privativa de libertad cuando ello sea ineludible a los fines de justicia, prevención general y prevención especial.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+
+###### Artículo 342.
+
+Se impondrán de diez a cien días multa o prisión de seis meses a dos años, o ambas sanciones a juicio del juez, a quien:
+
+I. Vote a sabiendas de que no cumple con los requisitos de la Ley;
+
+II. Vote más de una vez en una misma elección;
+
+III. Haga proselitismo setenta y dos horas anteriores al día de la jornada electoral, y durante ésta en el interior de las casillas o en el lugar donde se encuentren formados los votantes;
+
+IV. Obstaculice o interfiera el desarrollo normal de las votaciones o del escrutinio; o,
+
+V. Ostente a una agrupación como partido político sin que ésta haya obtenido su registro o hagan aparecer a partidos políticos como coalición, sin que tampoco se hayan registrado en los términos de la ley de la materia.
+
+La misma sanción se aplicará a quienes por cualquier medio inciten a abstenerse de votar o tomen como base de propaganda electoral, determinada religión o exploten el sentimiento religioso.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+
+###### Artículo 343.
+
+Se impondrá de veinte a cien días multa o prisión de tres meses a cinco años, o ambas sanciones, a juicio del juez, al funcionario electoral que:
+
+I. Altere en cualquier forma, sustituya, destruya o haga un uso indebido de documentos relativos al Registro Estatal de Electores;
+
+II. Se abstenga de cumplir sin causa justificada, con sus obligaciones electorales con perjuicio del proceso;
+
+III. Obstruya el desarrollo normal de la votación sin mediar causa justificada;
+
+IV. Altere los resultados electorales, sustraiga o destruya boletas electorales;
+
+V. No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada;
+
+VI. En ejercicio de sus funciones, ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+VII. Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstas por la ley de la materia; y,
+
+VIII. Al que expulse de la casilla electoral sin causa justificada, al representante debidamente acreditado de un partido político.
+
+La misma sanción se aplicará a los Notarios Públicos que sin causa justificada se nieguen a dar fe de los actos en que sea necesaria o posible su intervención, de acuerdo con la Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+
+###### Artículo 344.
+
+Se impondrán de cincuenta a cien días multa o prisión de tres meses a cinco años, o ambas sanciones a juicio del juez, al funcionario partidista que:
+
+I. Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado en el interior de la casilla, o en el lugar donde los propios electores se encuentren formados;
+
+II. Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
+
+III. Sustraiga, destruya, altere o haga un uso indebido de documentos oficiales de índole electoral;
+
+IV. Obstaculice el desarrollo normal de la votación, sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
+
+V. Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto a los resultados oficiales contenidos en las actas de escrutinio y cómputo; o,
+
+VI. Impida con violencia la instalación, apertura o cierre de una casilla fuera de los tiempos previstos por la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+
+###### Artículo 345.
+
+Se impondrán de setenta a doscientos días multa o prisión de tres meses a seis años, o ambas sanciones a juicio del juez, al servidor público que:
+
+I. De cualquier manera impida indebidamente la reunión de una asamblea, una manifestación pública o cualquier otro acto legal de propaganda electoral;
+
+II. Abusando de sus funciones obligue a sus subordinados a emitir sus votos en favor de un partido político o candidato;
+
+III. Condicione la prestación de un servicio público a la emisión del sufragio en favor de un partido político o candidato; o,
+
+IV. Destine fondos o bienes que tenga a su disposición en virtud de su cargo, al apoyo de un partido político o de un candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo correspondiente a sus labores para que éstos presten servicios a un partido político o candidato.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+
+###### Artículo 346.
+
+Se impondrá sanción de suspensión de sus derechos políticos hasta por seis años, a quienes, habiendo sido electos diputados, no se presenten, sin causa justificada a juicio de la Cámara, a desempeñar el cargo dentro del plazo señalado en el primer párrafo del Artículo 30 de la Constitución Política del Estado.
+
 T R A N S I T O R I O S :
 
 PRIMERO.- Este Código comenzará a regir el día 15 de agosto de 1980.
@@ -2698,3 +2810,9 @@ UNICO. El presente Decreto entrará en vigor el día siguiente al de su publicac
 P.O. 14 DE NOVIEMBRE DE 1991.
 
 UNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 1992.
+
+PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
