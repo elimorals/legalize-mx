@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1994-01-10"
+last_updated: "1994-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MARZO DE 1994.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -4535,83 +4535,163 @@ II.- Funcionarios partidistas, los dirigentes de los partidos políticos naciona
 
 III.- Documentos públicos electorales, las actas oficiales de instalación de casillas, de los escrutinios y cómputo de las mesas directivas de casilla, las de los cómputos distritales, y en general, los documentos expedidos en el ejercicio de sus funciones por los órganos del Instituto Federal Electoral.
 
-> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 25 DE MARZO DE 1994)</small>
 
 ###### ARTICULO 402.
 
-Por la comisión de cualquiera de los delitos comprendidos en el presente Capítulo se podrá imponer además de la pena señalada, la suspensión de derechos políticos de uno a cinco años.
+Por la comisión de cualquiera de los delitos comprendidos en el presente Capítulo se podrá imponer además de la pena señalada, la inhabilitación de uno a cinco años, y en su caso, la destitución del cargo.
 
-> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE MARZO DE 1994)</small>
 
 ###### ARTICULO 403.
 
-Se impondrán de diez a cien días multa o prisión de seis meses a dos años, o ambas sanciones a juicio del juez, a quien:
+Se impondrán de diez a cien días multa y prisión de seis meses a tres años, a quien:
+
+> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
 
 I.- Vote a sabiendas de que no cumple con los requisitos de la ley;
 
+> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
+
 II.- Vote más de una vez en una misma elección;
 
-III.- Haga proselitismo el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentran formados los votantes; o
+> <small>(REFORMADA, D.O.F. 25 DE MARZO DE 1994)</small>
 
-IV.- Obstaculice o interfiera el desarrollo normal de las votaciones o del escrutinio.
+III.- Haga proselitismo o presione a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes;
 
-> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 25 DE MARZO DE 1994)</small>
+
+IV.- Obstaculice o interfiera el desarrollo normal de las votaciones del escrutinio, o del cómputo;
+
+> <small>(ADICIONADA, D.O.F. 25 DE MARZO DE 1994)</small>
+
+V.- Recoja sin causa prevista por la ley credenciales de elector de los ciudadanos;
+
+> <small>(ADICIONADA, D.O.F. 25 DE MARZO DE 1994)</small>
+
+VI.- Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
+
+> <small>(ADICIONADA, D.O.F. 25 DE MARZO DE 1994)</small>
+
+VII.- Viole de cualquier manera el secreto del voto;
+
+> <small>(ADICIONADA, D.O.F. 25 DE MARZO DE 1994)</small>
+
+VIII.- Vote o pretenda votar con una credencial de la que no sea titular;
+
+> <small>(ADICIONADA, D.O.F. 25 DE MARZO DE 1994)</small>
+
+IX.- El día de la elección organice la reunión y traslado de votantes con el objeto de llevarlos a votar y de influir en el sentido de su voto;
+
+> <small>(ADICIONADA, D.O.F. 25 DE MARZO DE 1994)</small>
+
+X.- Introduzca en o sustraiga de las urnas ilícitamente una o más boletas electorales; destruya o altere boletas o documentos electorales;
+
+> <small>(ADICIONADA, D.O.F. 25 DE MARZO DE 1994)</small>
+
+XI.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que comprometa el voto mediante amenaza o promesa; o
+
+> <small>(ADICIONADA, D.O.F. 25 DE MARZO DE 1994)</small>
+
+XII.- Impida en forma violenta la instalación de una casilla.
+
+> <small>(REFORMADO, D.O.F. 25 DE MARZO DE 1994)</small>
 
 ###### ARTICULO 404.
 
-Se impondrán hasta 500 días multa, a los ministros de cultos religiosos, que por cualquier medio induzcan al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención, en los edificios destinados al culto o en cualquier otro lugar.
+Se impondrán hasta 500 días multa, a los ministros de cultos religiosos, que por cualquier medio en el desarrollo de actos propios de su ministerio, induzcan al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención.
 
-> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE MARZO DE 1994)</small>
 
 ###### ARTICULO 405.
 
-Se impondrá de veinte a cien días multa o prisión de tres meses a cinco años, o ambas sanciones a juicio del juez, al funcionario electoral que:
+Se impondrá de cincuenta a doscientos días multa y prisión de dos a seis años, al funcionario electoral que:
+
+> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
 
 I.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido de documentos relativos al Registro Federal de Electores;
 
+> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
+
 II.- Se abstenga de cumplir, sin causa justificada, con sus obligaciones electorales con perjuicio del proceso;
+
+> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
 
 III.- Obstruya el desarrollo normal de la votación sin mediar causa justificada;
 
-IV.- Altere los resultados electorales, sustraiga o destruya boletas electorales;
+> <small>(REFORMADA, D.O.F. 25 DE MARZO DE 1994)</small>
+
+IV.- Altere los resultados electorales, sustraiga o destruya boletas o documentos electorales;
+
+> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
 
 V.- No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada; y
 
+> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
+
 VI.- En ejercico (sic) de sus funciones ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
 
-VII.- Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la ley de la materia; y
+> <small>(REFORMADA, D.O.F. 25 DE MARZO DE 1994)</small>
 
-VIII.- Al que expulse de la casilla electoral sin causa justificada a representante de un partido político.
+VII.- Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la ley de la materia, la instale en lugar distinto al legalmente señalado, o impida su instalación;
 
-> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 25 DE MARZO DE 1994)</small>
+
+VIII.- Al que expulse de la casilla electoral sin causa justificada a representante de un partido político o coarte los derechos que la ley le concede;
+
+> <small>(ADICIONADA, D.O.F. 25 DE MARZO DE 1994)</small>
+
+IX.- Conociendo la existencia de condiciones o actividades que atenten contra la libertad y el secreto del voto, no tome las medidas conducentes para que cesen;
+
+> <small>(ADICIONADA, D.O.F. 25 DE MARZO DE 1994)</small>
+
+X.- Permita o tolere a sabiendas que un ciudadano emita su voto cuando no cumple con los requisitos de ley o que se introduzcan en las urnas ilícitamente una o más boletas electorales; o
+
+> <small>(ADICIONADA, D.O.F. 25 DE MARZO DE 1994)</small>
+
+XI.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE MARZO DE 1994)</small>
 
 ###### ARTICULO 406.
 
-Se impondrán de cincuenta a cien días multa o prisión de tres meses a cinco años, o ambas sanciones a juicio del juez, al funcionario partidista que:
+Se impondrán de cien a doscientos días multa y prisión de uno a seis años, al funcionario partidista que:
+
+> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
 
 I.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
 
+> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
+
 II.- Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
+
+> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
 
 III.- Substraiga, destruya, altere o haga un uso indebido de documentos oficiales de índole electoral;
 
+> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
+
 IV.- Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
 
-V.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto a los resultados oficiales contenidos en las actas de escrutinio y cómputo; o
+> <small>(REFORMADA, D.O.F. 25 DE MARZO DE 1994)</small>
+
+V.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados; y
+
+> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
 
 VI.- Impida con violencia la instalación; apertura o cierre de una casilla o la abra o cierre fuera de los tiempos previstos por la Ley en la materia.
 
-> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 25 DE MARZO DE 1994)</small>
 
 ###### ARTICULO 407.
 
-Se impondrán de setenta a doscientos días multa o prisión de tres meses a seis años, o ambas sanciones a juicio del juez, al servidor público que:
+Se impondrán de doscientos a cuatrocientos días multa y prisión de uno a nueve años, al servidor público que:
 
-I.- Abusando de sus funciones obligue a sus subordinados a emitir sus votos en favor de un partido político o candidato;
+I.- Obligue a sus subordinados a emitir sus votos en favor de un partido político o candidato;
 
-II.- Condicione la prestación de un servicio público a la emisión del sufragio en favor de un partido político o candidato; o
+II.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas a la emisión del sufragio en favor de un partido político o candidato; o
 
-III.- Destine fondos o bienes que tenga a su disposición en virtud de su cargo al apoyo de un partido político o de un candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo correspondiente a sus labores para que éstos presten servicios a un partido político o candidato.
+III.- Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo tales como vehículos, inmuebles y equipos, al apoyo de un partido político o de un candidato, sin perjuicio de las penas que pueda corresponder por el delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo correspondiente a sus labores para que éstos presten servicio a un partido político o candidato. En la comisión de este delito no habrá el beneficio de la libertad provisional.
 
 > <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 1990)</small>
 
@@ -4619,13 +4699,17 @@ III.- Destine fondos o bienes que tenga a su disposición en virtud de su cargo 
 
 Se impondrá sanción de suspensión de sus derechos políticos hasta por seis años a quienes, habiendo sido electos diputados o senadores no se presenten, sin causa justificada a juicio de la Cámara respectiva, a desempeñar el cargo dentro del plazo señalado en el primer párrafo del artículo 63 de la Constitución.
 
-> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE MARZO DE 1994)</small>
 
 ###### ARTICULO 409.
 
-Se impondrán de veinte a cien días multa o prisión de tres meses a cinco años, o ambas sanciones a juicio del juez, a quien:
+Se impondrán de veinte a cien días multa y prisión de tres meses a cinco años, a quien:
+
+> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
 
 I.- Proporcione documentos o información falsa al Registro Nacional de Ciudadanos para obtener el documento que acredite la ciudadanía; y
+
+> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 1990)</small>
 
 II.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido del documento que acredita la ciudadanía, que en los términos de la ley de la materia, expida el Registro Nacional de Ciudadanos.
 
@@ -4634,6 +4718,24 @@ II.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido del d
 ###### ARTICULO 410.
 
 La pena a que se refiere el artículo anterior se podrá incrementar en una cuarta parte si las conductas son cometidas por personal del órgano que tenga a su cargo el servicio del Registro Nacional de Ciudadanos conforme a la ley de la materia, o si fuere de nacionalidad extranjera.
+
+> <small>(ADICIONADO, D.O.F. 25 DE MARZO DE 1994)</small>
+
+###### ARTICULO 411.
+
+Se impondrá de setenta a doscientos días multa y prisión de tres a siete años, a quien por cualquier medio participe en la alteración del registro de electores, el Padrón Electoral y los listados nominales o en la expedición ilícita de Credenciales para Votar.
+
+> <small>(ADICIONADO, D.O.F. 25 DE MARZO DE 1994)</small>
+
+###### ARTICULO 412.
+
+Se impondrá prisión de dos a nueve años, al funcionario partidista o a los organizadores de actos de campaña que, a sabiendas aproveche ilícitamente fondos, bienes o servicios en los términos de la fracción III del artículo 407 de este Código. En la comisión de este delito no habrá el beneficio de la libertad provisional.
+
+> <small>(ADICIONADO, D.O.F. 25 DE MARZO DE 1994)</small>
+
+###### ARTICULO 413.
+
+Los responsables de los delitos contenidos en el presente capítulo por haber acordado o preparado su realización en los términos de la fracción I del artículo 13 de este Código no podrán gozar del beneficio de la libertad provisional.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -5118,3 +5220,7 @@ SEGUNDO.- Con relación a los procedimientos que se sigan por delitos contra la 
 TERCERO.- A las personas que hayan cometido un delito, incluidas las procesadas o sentenciadas, con anterioridad a la entrada en vigor del presente decreto, les serán aplicables las disposiciones del Código Penal vigentes en el momento en que se haya cometido, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+D.O.F. 25 DE MARZO DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
