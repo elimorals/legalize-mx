@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1918-01-14"
+last_updated: "1920-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE FEBRERO DE 1920.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -35,11 +35,9 @@ DECRETO NUM. 3
 
 "(SIC) El XXV Congreso Constitucional del Estado Libre y Soberano de Yucatán, en funciones de Constituyente, a nombre y con la autoridad del pueblo yucateco ha tenido a bien expedir la siguiente:
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE YUCATAN
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE YUCATAN.
 
-## TITULO PRELIMINAR.
-
-De los habitantes del Estado.
+## TITULO PRELIMINAR. De los habitantes del Estado
 
 ###### Artículo 1.
 
@@ -397,17 +395,21 @@ Las iniciativas presentadas por el Gobernador del Estado, por el Tribunal Superi
 
 Todo proyecto de Ley o Decreto que fuere desechado en el Congreso, no podrá volver a presentarse en el mismo período de sesiones en que fuere desechado.
 
+> <small>(REFORMADO, D.O. 6 DE FEBRERO DE 1920)</small>
+
 ###### Artículo 38.
 
-Los proyectos de leyes o decretos votados por el Congreso, se remitirán al Ejecutivo, quién, si no tuviere observaciones que hacer, los publicará inmediatamente. Se reputará aprobado por el Ejecutivo todo proyecto no devuelto con observaciones dentro de los diez días útiles siguientes. Si, corriendo este término, el Congreso hubiere cerrado o suspendido sus sesiones, la devolución deberá hacerse, a más tardar, el décimo día en que de nuevo estuviere reunido.
+Los proyectos de leyes o Decretos votados por el Congreso, se remitirán al Ejecutivo, quien, si no tuviere observaciones qué hacer, los publicará inmediatamente.- Se reputará aprobado por el Ejecutivo, todo proyecto no devuelto con observaciones dentro de diez días útiles; a no ser que corriendo este término, el Congreso hubiere cerrado o suspendido sus sesiones, en cuyo caso la devolución deberá hacerse el primer día útil en que el Congreso estuviere reunido.
 
 ###### Artículo 39.
 
 Si el Congreso adoptare las reformas propuestas por el Ejecutivo en sus observaciones, lo comunicará a éste, quien promulgará la Ley o Decreto.
 
+> <small>(REFORMADO, D.O. 6 DE FEBRERO DE 1920)</small>
+
 ###### Artículo 40.
 
-Si el Congreso no aceptare las observaciones del Ejecutivo, se dará al proyecto el trámite de prensa, y en el período de sesiones inmediato, podrá el Congreso resolver definitivamente, comunicando su resolución al Ejecutivo, quien estará obligado a promulgar la Ley o Decreto, en todo caso.
+Si el Congreso no aceptare las observaciones hechas por el Ejecutivo y el proyecto de Ley o Decreto fuere confirmado por el voto de la mayoría de los Diputados presentes en la sesión que de nuevo se discuta, el proyecto será ipso facto Ley o Decreto y volverá al Ejecutivo para su inmediata promulgación, bajo su responsabilidad.
 
 ###### Artículo 41.
 
@@ -821,6 +823,8 @@ El Estado no tiene límites en lo relativo a modificar la propiedad privada en b
 
 ## TITULO UNDECIMO. REFORMA E INVIOLABILIDAD DE LA CONSTITUCION
 
+> <small>(REFORMADO, D.O. 6 DE ENERO DE 1920)</small>
+
 ###### Artículo 97.
 
 Todos los funcionarios y empleados públicos son responsables por los delitos comunes que comentan durante el tiempo de su encargo, y por los delitos en que incurran en el ejercicio de ese mismo encargo. No obstante, a los Diputados, Propietarios y Suplentes en funciones; al Gobernador, al Secretario General, a los Magistrados, no se les puede hacer responsables sin q. (sic) proceda la declaración afirmativa de haber lugar a proceder contra el acusado, tratándose de delitos comunes o de ser éste culpable tratándose de delitos oficiales.
@@ -831,7 +835,7 @@ No gozan de Fuero Constitucional los altos funcionarios del Estado por los delit
 
 ###### Artículo 99.
 
-Si el delito fuere común, el Congreso del Estado, erigido en gran Jurado, declarará, a mayoría absoluta de votos del número total de Diputados, si ha o nó lugar a proceder contra el acusado. En caso negativo no habrá lugar a ningún procedimiento ulterior. En caso afirmativo, el acusado quedará por el mismo hecho separado de su encargo y sujeto a la acción de los Tribunales Comunes.
+Si el delito fuere común, el Congreso del Estado, erigido en gran Jurado, declarará, a mayoría absoluta de votos del número total de Diputados, si ha o no lugar a proceder contra el acusado. En caso negativo no habrá lugar a ningún procedimiento ulterior. En caso afirmativo, el acusado quedará por el mismo hecho separado de su encargo y sujeto a la acción de los Tribunales Comunes.
 
 ###### Artículo 100.
 
@@ -867,7 +871,7 @@ Todos los contratos que el Gobierno o los municipios tengan que celebrar para la
 
 ###### Artículo 108.
 
-La presente Constitución puede ser adicionada y reformada. Para que las adiciones o reformas lleguen a ser parte de la Constitución, se requiere que un Congreso del Estado, por el voto de las tres cuartas partes del número total de Diputados las proponga, y el inmediato, las apruebe por el mismo número de votos.
+La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la Constitución, se requiere que el Congreso del Estado las apruebe por el voto de las dos terceras partes del número total de Diputados.
 
 ###### Artículo 109.
 
@@ -904,3 +908,17 @@ Dado en el Palacio del Poder Legislaivo (sic), en Mérida, a los once días del 
 Por tanto, mando se imprima y publique para su cumplimiento, en Mérida, de Yucatán, a los doce días del mes de enero del año de mil novecientos diez y ocho.
 
 S. ALVARADO. - El Secretario General, ALVARO TORRE DIAZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+D.O. 6 DE ENERO DE 1920.
+
+###### ARTICULO SEGUNDO
+
+- Esta reforma entrará en vigor al día siguiente de su publicación en el "Diario Oficial" del Estado.
+
+D.O. 6 DE FEBRERO DE 1920.
+
+###### ARTICULO SEGUNDO
+
+- Estas reformas entrarán en vigor al día siguiente de su publicación en el DIARIO OFICIAL del Estado.
