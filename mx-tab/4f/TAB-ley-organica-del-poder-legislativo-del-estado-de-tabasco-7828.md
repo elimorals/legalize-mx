@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-7828"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-01-02"
-last_updated: "1998-02-14"
+last_updated: "1998-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 1998.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 2 de enero de 1993.
 
@@ -83,17 +83,17 @@ El Congreso del Estado elaborará, aprobará y ejercerá su presupuesto anual de
 
 El Congreso del Estado tendrá las facultades y atribuciones que le señale la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, esta Ley y disposiciones legales que de ellas emanen.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE MARZO DE 1998)</small>
 
-### CAPITULO II. DE LA COMISION INSTALADORA
+### CAPITULO II. DE LA JUNTA PREPARATORIA
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 10.
 
-El Congreso, en la última sesión del mes de noviembre del Tercer Año de su Ejercicio Constitucional, nombrará de entre sus miembros una Comisión Instaladora de la Legislatura que deba sucederla, los miembros de esta Comisión serán 4 y fungirán el primero como Presidente, el segundo como Vicepresidente, el tercero y cuarto como Secretarios.
+Los presuntos miembros del Congreso que hubiesen sido declarados electos por el organismo electoral correspondiente, tanto por el principio de votación mayoritaria relativa como por el de representación proporcional, convocados por el Presidente de la Mesa Directiva en turno, se reunirán a las 11:00 horas en el Recinto Oficial de la Cámara de Diputados, veinticinco días antes de la instalación de la Legislatura, para constituirse, presente la mayoría, en junta preparatoria, eligiendo para ello de entre sus miembros, una Directiva integrada por un Presidente, dos Secretarios y dos suplentes. Si no se reuniese la mayoría absoluta de los presuntos Diputados, se procederá de conformidad con lo dispuesto por el artículo 21 de la Constitución Política local, integrándose la junta previa en los mismos términos que la junta preparatoria.
 
-El Congreso comunicará al INSTITUTO ELECTORAL DE TABASCO y al TRIBUNAL ELECTORAL DE TABASCO, la designación de la Comisión a la que se refiere este Artículo.
+El Congreso comunicará al Instituto Electoral de Tabasco y al Tribunal Electoral de Tabasco, la designación de la Junta preparatoria a la que se refiere este artículo.
 
 ###### ARTICULO 11.
 
@@ -123,13 +123,23 @@ La Legislatura en Ejercicio, expedirá el Bando solemne para dar a conocer la de
 
 ### CAPITULO III. INSTALACION DE LA LEGISLATURA
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 16.
 
-Para iniciar el Ejercicio constitucional de la nueva Legislatura, los Diputados deberán reunirse el primero de enero del año siguiente al de la elección a las 11.00 horas, en el Recinto Oficial del Congreso del Estado o en el lugar que se designe para tal efecto; existiendo quórum, la Mesa Directiva electa en la última junta preparatoria o en su ausencia por quienes designe la asamblea, hará la declaración de quedar legítimamente instalada.
+Calificadas las Elecciones de la Mayoría de los nuevos Diputados, la Junta Preparatoria convocará a una última sesión y, habiendo quórum, el Presidente rendirá la protesta de ley, y a su vez, se la tomará a los otros Diputados, inmediatamente se elegirá la Mesa Directiva del Congreso, la cual se integrará tal y como lo dispone el artículo 19 de esta Ley.
+
+A continuación el Presidente de la Junta Preparatoria, declarará concluidas las funciones de la misma.
+
+Acto seguido, el Presidente de la Mesa Directiva electa hará la declaración de quedar instalada la Legislatura respectiva y abierto su Primer Período de Sesiones Ordinarias y citará a los miembros de la nueva Legislatura, para la sesión solemne de inicio del Ejercicio Constitucional.
+
+El mismo procedimiento se seguirá en caso de constituirse en junta previa.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 17.
 
-Si no hubiere quórum, los Diputados presentes convocarán a los suplentes para que se presenten de inmediato a desempeñar el cargo provisionalmente, exhortando a los ausentes a que concurran dentro de los 10 días siguientes, con la advertencia de que si no lo hacen, se entenderá que no aceptan el cargo, asumiendo los suplentes sus funciones en forma definitiva; integrado el quórum se instalará la nueva Legislatura.
+Si al iniciarse algún Período de Sesiones no hubiera quórum, la Mesa Directiva o en su caso la Comisión Permanente, convocará a los ausentes a que concurran dentro de los diez días siguientes, con la advertencia de que si no lo hacen, se entenderá que no aceptan el cargo, llamándose a los suplentes, quienes deberán presentarse en un plazo igual y si tampoco lo hiciesen, se declarará vacante el cargo y se convocará a nuevas elecciones si se tratase de Diputados de Mayoría Relativa, en los términos previstos en la fracción XXII del artículo 36 de la Constitución Política del Estado.
 
 El mismo procedimiento se observará cuando instalada la Legislatura, no exista quórum para ejercer sus funciones.
 
@@ -375,7 +385,9 @@ La Gran Comisión es el órgano de Gobierno del Congreso del Estado y tendrá a 
 
 I. Dictaminar, formular opiniones y presentar iniciativas sobre los asuntos concernientes a los Municipios y al Estado, tomando en cuenta las proposiciones de los Diputados;
 
-II. Proponer al Congreso la designación o remoción del Oficial Mayor y del Contador Mayor de Hacienda, y vigilar su funcionamiento;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 1998)</small>
+
+II. Proponer al Congreso la designación o remoción del Oficial Mayor, del Contador Mayor de Hacienda, del Director General del Instituto de Investigaciones Legislativas, y vigilar su funcionamiento;
 
 III. Nombrar y remover libremente a los Directores, Funcionarios y demás empleados del Congreso;
 
@@ -409,19 +421,25 @@ IX. Presidir y coordinar las actividades de la Gran Comisión, vigilando que se 
 
 X. Las demás contenidas en esta Ley, en su Reglamento y las que le asigne la propia Legislatura.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 54.
 
-La Gran Comisión se integrará con:
+La Gran Comisión se integrará:
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 I. Un Presidente, que será el Coordinador de la Fracción Parlamentaria que ostente la mayoría;
 
-II. Un Secretario y dos Vocales; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 1998)</small>
+
+II. Dos Secretarios y dos Vocales; y
 
 III. Un Representante de las demás Fracciones Parlamentarias.
 
-A excepción del Presidente, el Secretario y los Vocales, serán electos por mayoría de votos de los asistentes. Corresponderá a las Fracciones Parlamentarias Minoritarias elegir a su Representante.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 1998)</small>
+
+A excepción del Presidente, los Secretarios y los Vocales serán electos por mayoría de votos de los asistentes. Corresponderá a las Fracciones Parlamentarias Minoritarias elegir a su Representante.
 
 ###### ARTICULO 55.
 
@@ -553,7 +571,19 @@ XXVII. Atención a la Población con Discapacidad;
 
 > <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
-XXVIII. Del Instituto de Investigaciones Legislativas.
+XXVIII. Del Instituto de Investigaciones Legislativas;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 1998)</small>
+
+XXIX. Atención a los Jóvenes;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 1998)</small>
+
+XXX. Atención a la Mujer y Personas de la Tercera Edad;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 1998)</small>
+
+XXXI. De lo Contencioso Administrativo.
 
 ### CAPITULO XI. DE LAS SESIONES
 
@@ -907,41 +937,45 @@ Con relación a este capítulo en lo no previsto en esta Ley y su Reglamento, la
 
 ### CAPITULO XVIII. DE LA ORGANIZACION ADMINISTRATIVA DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 132.
 
-Para su funcionamiento, el Congreso del Estado contará con las dependencias siguientes:
+Para su funcionamiento, el Congreso del Estado contará con los siguientes órganos técnicos y administrativos:
 
-I. Oficialía Mayor;
+I. Contaduría Mayor de Hacienda;
 
-II. Contaduría Mayor de Hacienda; e
+II. Oficialía Mayor;
 
-III. Instituto de Investigaciones Legislativas.
+III. Instituto de Investigaciones Legislativas;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+IV. Dirección de Estudios Legislativos;
+
+V. Dirección de Asuntos Jurídicos;
+
+VI. Dirección de Petición, Gestoría y Quejas;
+
+VII. Dirección de Administración;
+
+VIII. Dirección de Finanzas;
+
+IX. Dirección de Comunicación y Relaciones Públicas;
+
+X. Coordinación de Biblioteca y Videoteca Legislativa;
+
+XI. Coordinación de Seguridad y Operación Logística.
+
+Para su integración, funcionamiento y competencia, estas dependencias se regirán por lo dispuesto en el reglamento interior del Congreso y con apego al presupuesto general de egresos del Poder Legislativo.
 
 ###### ARTICULO 133.
 
-Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, la Oficialía Mayor contará con las siguientes unidades administrativas:
+(DEROGADO, P.O. 4 DE MARZO DE 1998)
 
-I. Dirección de Asuntos Jurídicos;
-
-II. Dirección de Petición, Gestoría y Quejas;
-
-II (SIC). Dirección de Administración;
-
-IV. Dirección de Finanzas;
-
-V. Dirección de Comunicación Social y Relaciones Públicas; y
-
-VI. Coordinación de Biblioteca y Videoteca Legislativa.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 134.
 
-La Contaduría Mayor, contará con las siguientes unidades administrativas:
+La Contaduría Mayor de Hacienda, contará con las siguientes unidades técnicas y administrativas:
 
 I. Subcontaduría Mayor de Hacienda;
 
@@ -953,6 +987,10 @@ IV. Dirección de Control de Nombramientos y Bienes Patrimoniales; y
 
 V. Dirección de Desarrollo Técnico y Sistematización.
 
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 1998)</small>
+
+Con las atribuciones que le señale el Reglamento Interior del H. Congreso del Estado.
+
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 135.
@@ -963,13 +1001,15 @@ I. Dirección General;
 
 II. Consejo Académico; y
 
-III. Dirección de Investigación y Estudios Legislativos.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 1998)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+III. Dirección de Investigaciones Legislativas.
+
+Con las atribuciones que le señale el Reglamento Interior del H. Congreso del Estado.
 
 ###### ARTICULO 136.
 
-Para su integración, funcionamiento y competencia, estas dependencias se regirán por lo dispuesto en el Reglamento Interior del Congreso y con apego al Presupuesto General de Egresos del Poder Legislativo.
+(DEROGADO, P.O. 4 DE MARZO DE 1998)
 
 T R A N S I T O R I O S
 
@@ -1052,3 +1092,9 @@ P.O. 14 DE FEBRERO DE 1998.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 4 DE MARZO DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+SEGUNDO.- Se derogan las disposiciones del Decreto número 203 del 9 de enero de 1997 publicado en el Periódico Oficial del Gobierno del Estado de Tabasco, número 5681 del 15 de febrero de ese mismo año, que se opongan a las del presente Decreto; así como cualquier otra disposición legal contraria al mismo.
