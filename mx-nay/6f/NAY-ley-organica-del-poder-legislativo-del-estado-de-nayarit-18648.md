@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-18648"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-03-08"
-last_updated: "2000-06-03"
+last_updated: "2001-05-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DEL 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2001.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 8 de marzo de 2000.
 
@@ -399,7 +399,11 @@ III.- Impulsar la conformación de acuerdos relacionados con el contenido de las
 
 IV.- Decidir acerca del Proyecto de Presupuesto anual del Congreso y presentarlo al titular del Poder Ejecutivo para su integración en el Proyecto del Presupuesto de Egresos del Estado;
 
-V.- Proponer al Pleno de la Cámara la designación del Secretario General, del Contador Mayor de Hacienda y del Oficial Mayor.
+> <small>(REFORMADA, P.O. 05 DE MAYO DEL 2001)</small>
+
+V.- Proponer al Pleno de la Cámara la designación del Secretario General y del Oficial Mayor.
+
+En el caso de la designación del Auditor General, la Comisión fungirá como coadyuvante de la Comisión de Hacienda, Cuenta Pública y Presupuesto del Congreso del Estado;
 
 VI.- Nombrar y remover a los titulares de las Direcciones, Unidades, Coordinaciones y Departamentos del Congreso, así como al Tesorero;
 
@@ -407,7 +411,9 @@ VII.- Coadyuvar en la realización de las funciones del Congreso;
 
 VIII.- Proponer ante la Asamblea el nombramiento de los integrantes de las Comisiones Ordinarias y Especiales y en su caso a los integrantes de la Diputación Permanente;
 
-IX.- Resolver lo conducente sobre las licencias de los diputados, del Secretario General, Contador Mayor de Hacienda, Oficial Mayor y titulares administrativos a su cargo;
+> <small>(REFORMADA, P.O. 05 DE MAYO DEL 2001)</small>
+
+IX.- Resolver lo conducente sobre las licencias de los diputados, del Secretario General, Oficial Mayor y titulares administrativos a su cargo;
 
 X.- Organizar y coordinar el área de Oficialía de Partes; y
 
@@ -597,9 +603,11 @@ Los grupos parlamentarios dispondrán de locales adecuados, así como de recurso
 
 Los recursos financieros que se asignen a los grupos parlamentarios se otorgarán conforme al calendario aprobado en el presupuesto de egresos del Congreso, mismos que deberán comprobarse.
 
+> <small>(REFORMADA, P.O. 05 DE MAYO DEL 2001)</small>
+
 ###### ARTICULO 70.
 
-Los grupos parlamentarios están obligados a destinar los recursos que se les otorgan exclusivamente para el cumplimiento de sus funciones, y deberán rendir un informe semestral de su aplicación y correcto manejo, exhibiendo la documentación correspondiente a la Contaduría Mayor de Hacienda para los efectos de la revisión de la Cuenta Pública.
+Los Grupos Parlamentarios están obligados a destinar los recursos que se les otorgan exclusivamente para el cumplimiento de sus funciones, y deberán rendir un informe dentro de los veinte días posteriores al trimestre que corresponda, exhibiendo la documentación correspondiente de su aplicación y correcto manejo a la Comisión de Hacienda, Cuenta Pública y Presupuesto, a efecto de integrarse a la Cuenta Pública del Congreso.
 
 ###### ARTICULO 71.
 
@@ -745,9 +753,11 @@ De no encontrarse en funciones la Legislatura, la Diputación Permanente convoca
 
 El Congreso del Estado, para su debido funcionamiento en el cumplimiento de sus atribuciones deberá contar con la estructura técnica y administrativa que se establece en la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 05 DE MAYO DEL 2001)</small>
+
 ###### ARTICULO 86.
 
-El Proceso Legislativo y los Asuntos Jurídicos del Congreso se ejercerán a través de la Secretaría General y su titular se denominará Secretario General. Las atribuciones del Congreso en materia de vigilancia y fiscalización de los caudales públicos se ejercerán con el auxilio de la Contaduría Mayor de Hacienda de acuerdo a lo dispuesto en el Título Noveno de la presente Ley. La Gestión Administrativa interna del Congreso se ejercerá por la Oficialía Mayor, y contará con la siguiente estructura:
+El Proceso Legislativo y los Asuntos Jurídicos del Congreso se ejercerán a través de la Secretaría General y su titular se denominará Secretario General. Las atribuciones del Congreso en materia de vigilancia y fiscalización de los caudales públicos se ejercerán por el Órgano de Fiscalización Superior de acuerdo a lo dispuesto en el Título Noveno de la presente Ley. La Gestión Administrativa Interna del Congreso se ejercerá por la Oficialía Mayor, y contará con la siguiente estructura:
 
 I.- Dirección de Administración;
 
@@ -757,7 +767,9 @@ III.- Departamento de Recursos Humanos; y
 
 IV.- Departamento de Recursos Materiales y Servicios Generales.
 
-La administración y ejercicio de los recursos financieros se ejercerá por conducto de la Tesorería la cual deberá dar cuenta comprobada de su aplicación, dentro de los veinte días del mes siguiente al que corresponda su ejercicio, a la Comisión de Hacienda, Cuenta Pública y Presupuesto.
+> <small>(REFORMADO, P.O. 05 DE MAYO DEL 2001)</small>
+
+La administración y ejercicio de los recursos financieros se ejercerá por conducto de la Tesorería la cual deberá presentar la cuenta pública del Congreso por conducto de la Oficialía Mayor, dentro de los veinte días del trimestre siguiente al que corresponda su ejercicio, a la Comisión de Hacienda, Cuenta Pública y Presupuesto, para los efectos y en los términos que dispone la Ley del Órgano de Fiscalización Superior del Estado.
 
 La gestión social estará a cargo de la Unidad de Gestoría Social, conforme a lo establecido en el Reglamento de Gobierno Interior y del Proceso Legislativo.
 
@@ -889,49 +901,47 @@ La Secretaría General solicitará al Periódico Oficial, Organo de Gobierno del
 
 Las resoluciones que dicte el Congreso en materia de acuerdos, sea que se presenten de manera individual o a través de los Grupos Parlamentarios, deberán sustentarse en el dictamen correspondiente y en su caso, tramitarse conforme lo ordena el Reglamento. La presentación de acuerdos se asentará en actas para su trámite correspondiente, sólo los integrantes de la Legislatura podrán presentar solicitudes de acuerdos legislativos o parlamentarios.
 
-## TITULO NOVENO. CONTADURIA MAYOR DE HACIENDA
+> <small>(REFORMADA SU DENOMINACION, P.O. 05 DE MAYO DEL 2001)</small>
+
+## TITULO NOVENO. DE LA FISCALIZACIÓN
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DEL 2000)</small>
+> <small>(REFORMADO, P.O. 05 DE MAYO DEL 2001)</small>
 
 ###### ARTICULO 103.
 
-La Contaduría Mayor de Hacienda es el Órgano Técnico del Congreso, que tiene a su cargo la revisión de la Cuenta Pública del Gobierno del Estado, de los Ayuntamientos y de los organismos e instituciones que administren fondos o valores públicos, de conformidad con las disposiciones constitucionales y legales que determinen su organización, funcionamiento y atribuciones.
+La facultad fiscalizadora de la legislatura se ejercerá por conducto del Órgano de Fiscalización Superior, que tendrá a su cargo la revisión de la cuenta pública de los sujetos de fiscalización, señalados en el artículo 5° de la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 05 DE MAYO DEL 2001)</small>
 
 ###### ARTICULO 104.
 
-La Contaduría Mayor de Hacienda ejercerá sus funciones con la supervisión de la Comisión de Gobierno Legislativo y la Comisión de Hacienda, Cuenta Pública y Presupuesto.
+A propuesta de la Comisión de Gobierno Legislativo y de la Comisión de Hacienda, Cuenta Pública y Presupuesto, la Legislatura designará, de conformidad al procedimiento señalado por la Ley del Órgano de Fiscalización Superior, al Auditor General, con el voto de las dos terceras partes de los diputados integrantes de la misma.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DEL 2000)</small>
+> <small>(REFORMADO, P.O. 05 DE MAYO DEL 2001)</small>
 
 ###### ARTICULO 105.
 
-La Contaduría Mayor de Hacienda ejercerá sus funciones con la supervisión e intervención de la Comisión de Hacienda, Cuenta Pública y Presupuesto del Congreso. Se integrará por un Contador Mayor, un Subcontador y las unidades administrativas, técnicas, contables y auditoras que expresamente autorice la Legislatura, en base a las disposiciones que ésta expida, contemplándose en el presupuesto la asignación de recursos que sean necesarios para su funcionamiento.
+El Órgano de Fiscalización Superior contará con las unidades administrativas necesarias para el desempeño de sus funciones; el nombramiento y remoción de los titulares de éstas, deberán contar con la aprobación de la Comisión de Hacienda, Cuenta Pública y Presupuesto.
 
-> <small>(F. DE E., P.O. 20 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, P.O. 05 DE MAYO DEL 2001)</small>
 
 ###### ARTICULO 106.
 
-A propuesta de la Comisión de Gobierno Legislativo, la Legislatura designará al Contador Mayor de Hacienda y Subcontador con el voto de la mayoría absoluta de los diputados integrantes de la Legislatura.
+La Comisión de Hacienda, Cuenta Pública y Presupuesto, será el conducto de comunicación entre el Congreso del Estado y el Órgano de Fiscalización Superior y recibirá el informe del resultado de la revisión y fiscalización de las cuentas públicas mediante el dictamen correspondiente, para su turno al Pleno del Congreso.
+
+> <small>(REFORMADO, P.O. 05 DE MAYO DEL 2001)</small>
 
 ###### ARTICULO 107.
 
-El Contador Mayor de Hacienda y Subcontador deberán reunir los siguientes requisitos:
+En los términos de la Ley de la materia, fiscalizará en forma posterior los ingresos, egresos, manejo, custodia y aplicación de fondos y recursos públicos de los sujetos de fiscalización y determinará, en su caso, los daños y perjuicios que afecten las haciendas públicas y el patrimonio de las entidades fiscalizadas, fincando las responsabilidades que procedan conforme a la Ley.
 
-I.- Ser mexicano en pleno ejercicio de sus derechos civiles y políticos, mayor de 30 años al momento de su designación;
-
-II.- Poseer título profesional de alguna de las profesiones compatibles al cargo legalmente registrado;
-
-III.- Contar con experiencia profesional en el ramo;
-
-IV.- No haber desempeñado cargo de dirección partidista, así como no haber ocupado algún cargo de elección popular en los últimos tres años;
-
-V.- Gozar de buena reputación y honorabilidad.
+> <small>(REFORMADO, P.O. 05 DE MAYO DEL 2001)</small>
 
 ###### ARTICULO 108.
 
-El Contador Mayor de Hacienda será el responsable del resguardo y custodia de la documentación en general que reciba la Contaduría, misma que no podrá ser en ningún caso y bajo ninguna circunstancia destruida. Una vez que se cumplan las plazos que marca la Ley y Reglamento respectivo, deberá trasladarse la documentación al Archivo General del Congreso para su reguardo definitivo.
+El Auditor General del Órgano de Fiscalización Superior del Estado, será el responsable del resguardo y custodia de las cuentas públicas mientras sean exigibles, en los términos que dispone la Ley.
 
 ## TITULO DECIMO. OTRAS FACULTADES Y ATRIBUCIONES DEL CONGRESO
 
@@ -968,6 +978,10 @@ La Asamblea o la Diputación Permanente otorgará o negará la ratificación del
 Para profesionalizar y hacer más eficientes los servicios técnicos de apoyo parlamentario y de orden administrativo de la Legislatura, se instituye el Servicio Civil de Carrera.
 
 Para tal propósito, el Congreso contará con una área de capacitación y formación permanente de los servidores públicos del Congreso dependiente de la Secretaría General.
+
+> <small>(ADICIONADO, P.O. 05 DE MAYO DEL 2001)</small>
+
+El Servicio Civil de Carrera del Órgano de Fiscalización Superior del Estado de Nayarit, se regirá conforme las bases establecidas en el estatuto que al efecto apruebe el Congreso.
 
 ###### ARTICULO 114.
 
@@ -1103,7 +1117,7 @@ Los titulares de las Direcciones, Coordinaciones y Departamentos Administrativos
 
 El artículo 63 de esta Ley entrará en vigor a partir del 17 de agosto del año 2002.
 
-DADO en la Sala de Sesiones "Licenciado Benito Juárez" de este Honorable Congreso del Estado Libre y Soberano de Nayarit, en Tepic su Capital, a los veintiocho días del mes de enero del dos mil.
+DADO en la Sala de Sesiones "Licenciado Benito Juárez" de este Honorable Congreso del Estado Libre y Soberano de Nayarit, en Tepic, su Capital a los veintiocho días del mes de enero del dos mil.
 
 Dip. Presidente,
 
@@ -1122,3 +1136,9 @@ MARIA HILARIA DOMINGUEZ ARVIZU.-
 P.O. 3 DE JUNIO DEL 2000
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 05 DE MAYO DEL 2001
+
+###### ARTICULO UNICO.
+
+El presente decreto surtirá sus efectos el día siguiente de su publicación en el Periódico, Oficial Organo de Gobierno del Estado.
