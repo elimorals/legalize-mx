@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2002-07-31"
+last_updated: "2002-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE NOVIEMBRE DE 2002.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -9761,9 +9761,17 @@ II. Reestructurar los créditos adquiridos como deudor directo o responsable sol
 
 III. Construir las garantías y fuentes de pago directa y/o indirectas de las obligaciones contraídas en términos de la fracción I del presente artículo, además de aquellas que se contraigan con el carácter de aval y obligado solidario, en términos de la fracción I del presente artículo.
 
-> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 11 DE NOVIEMBRE DE 2002)</small>
 
-IV. En los casos señalados en las fracciones I y II cuyos plazos de amortización excedan el periodo constitucional para el que fue electo el ayuntamiento, éste deberá contar con el acuerdo de las dos terceras partes de los miembros del ayuntamiento, y justificar plenamente la necesidad que se tiene para excederse del periodo constitucional.
+IV. Afectar como fuente o garantía de pago o ambas, de las obligaciones que contraigan los municipios, incluyendo la emisión de valores representativos de un pasivo a su cargo para su colocación en el Mercado de Valores, sus ingresos derivados de contribuciones, productos, aprovechamientos y accesorios, así como las participaciones derivadas del Sistema Nacional de Coordinación Fiscal.
+
+En la emisión de valores serán aplicables las condiciones y requisitos previstos en los artículos 265-B, 265-C, 265-D y 265-E de este Código.
+
+Las inversiones públicas productivas que se cubrirán con los recursos derivados de la emisión de valores deberán ser publicadas en la Gaceta Municipal o en la Gaceta del Gobierno del Estado, en un plazo no mayor de quince días posteriores a la aprobación de la Legislatura.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 11 DE NOVIEMBRE DE 2002)</small>
+
+V. En los casos señalados en las fracciones I, II y IV cuyos plazos de amortización excedan el período constitucional para el que fue electo el Ayuntamiento, éste deberá contar con el acuerdo de las dos terceras partes de sus miembros y justificar plenamente la necesidad que se tiene para excederse del período constitucional, sometiéndolo a la aprobación de la Legislatura.
 
 ###### Artículo 265.
 
@@ -10770,6 +10778,12 @@ PRIMERO.- El presente decreto entrará en vigor a partir del día de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 G.G. 31 DE JULIO DE 2002.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 11 DE NOVIEMBRE DE 2002.
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
