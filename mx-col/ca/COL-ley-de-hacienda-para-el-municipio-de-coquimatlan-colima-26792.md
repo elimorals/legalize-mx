@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-coquimatlan-colima-26792"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2003-12-31"
+last_updated: "2004-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COQUIMATLAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2004.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1491,53 +1491,53 @@ a) Por la expedición de licencias de funcionamiento, por ejercicio fiscal, por 
 
 Unidades de salario
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
 
-1.- Agencias 500.00 a 750.00
+1.- Agencias 250.00 a 500.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 2.- Bares y centros botaneros 200.00 a 300.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
 
-3.- Birrierias 50.00 a 75.00
+3.- Birrierías 30.00 a 60.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
 
-4.- Cabarets 500.00 a 750.00
+4.- Cabarets 250.00 a 500.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
 
-5.- Casinos y similares 500.00 a 750.00
+5.- Casinos y similares 250.00 a 500.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
 
-6.- Cenadurías 50.00 a 75.00
+6.- Cenadurías 25.00 a 50.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 7.- Centros nocturnos 700.00 a 1000.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
 
-8.- Clubes sociales 200 a 300.00
+8.- Clubes sociales 100.00 a 200.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
 
-9.- Depósito de cerveza 150.00 a 225.00
+9.- Depósito de cerveza 75.00 a 150.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
 
-10.- Depósito de cerveza, vinos y licores 300.00 a 450.00
+10.- Depósito de cerveza, vinos y licores 150.00 a 300.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 11.- Discotecas 500.00 a 750.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
 
-12.- Hoteles y moteles 300.00 a 450.00
+12.- Hoteles y moteles 150.00 a 300.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1551,13 +1551,13 @@ Unidades de salario
 
 15.- Locales para fiesta tipo "C". 100.00 a 150.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
 
-16.- Marisquerías 50.00 a 75.00
+16.- Marisquerías 25.00 a 50.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
 
-17.- Menuderías 50.00 a 75.00
+17.- Menuderías 25.00 a 50.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1583,25 +1583,25 @@ Unidades de salario
 
 23.- Restaurantes-Bar 200.00 a 300.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
 
-24.- Rosticerías 50.00 a 75.00
+24.- Rosticerías 25.00 a 50.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
 
-25.- Taquerías. 50.00 a 75.00
+25.- Taquerías 25.00 a 50.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
 
-26.- Tiendas de abarrotes con venta de cerveza 50.00 a 75.00
+26.- Tiendas de abarrotes con venta de cerveza 30.00 a 60.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
 
-27.- Tienda de autoservicio con venta de cerveza, vinos y licores. 200.00 a 300.00
+27.- Tienda de autoservicio con venta de cerveza, vinos y licores 150.00 a 300.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
 
-28.- Tiendas departamentales 500.00 a 1000
+28.- Tiendas departamentales 250.00 a 500
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1609,9 +1609,9 @@ Unidades de salario
 
 En zona rural, por cada uno:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
 
-1.- Tienda de abarrotes con venta de cerveza y mezcal 30.00
+1.- Tienda de abarrotes con venta de cerveza y mezcal 30.00 A 60.00
 
 2.- Autoservicio 75.00
 
@@ -1621,7 +1621,13 @@ En zona rural, por cada uno:
 
 5.- Salón para fiestas 50.00
 
-6.- Ramadas 60.00
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
+
+6.- Ramadas 30.00 a 60.00
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
+
+7.- Discotecas 250.00 a 500.00
 
 b) Por el refrendo anual de licencias de funcionamiento se pagará el 50 por ciento del costo total por expedición de la licencia correspondiente.
 
@@ -1892,6 +1898,8 @@ f) Por la expedición de permisos para la realización de eventos sociales, por 
 5.- Callejeadas y/o desfiles 0.00
 
 6.- Otros no especificados 1.00 a 7.00
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2006)</small>
 
 Las licencias de funcionamiento de giros distintos a los referidos en el artículo 79 de esta Ley, no causarán el pago de derechos pero deberán obtenerse por los interesados dentro de los treinta días siguientes a la fecha de inicio de operaciones y refrendarse durante los meses de enero y febrero de cada año.
 
@@ -2784,3 +2792,9 @@ P.O. 31 DE DICIEMBRE DE 2003.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día 1° de enero del año 2004, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE ABRIL DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se concede la ampliación del plazo, por única vez, para el pago del refrendo anual de licencias de funcionamiento de establecimientos o locales cuyos giros sean la venta de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, por única vez, hasta el 30 de abril del presente año.
