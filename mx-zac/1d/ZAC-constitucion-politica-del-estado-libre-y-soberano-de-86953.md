@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2002-07-10"
+last_updated: "2002-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2002.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -1107,9 +1107,11 @@ El cargo de Gobernador debe preferirse a cualquier otro de elección popular o d
 
 #### SECCIÓN SEGUNDA. DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 82.
 
-Son facultades y obligaciones del Gobernador del Estado:
+Son facultades y obligaciones del Gobernador del Estado.
 
 I. Cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, y las leyes que de ellas emanen;
 
@@ -1133,7 +1135,9 @@ X. Decretar expropiaciones por causa de utilidad pública en la forma que determ
 
 XI. Nombrar y remover libremente a los servidores de la Administración Pública estatal, en los términos de las leyes reglamentarias;
 
-XII. Nombrar a los Magistrados del Tribunal Superior de Justicia y someter sus nombramientos, licencias y renuncias a la aprobación de la Legislatura;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+XII. Someter a la consideración de la Legislatura ternas para que ésta designe a los Magistrados del Tribunal Superior de Justicia;
 
 XIII. Designar a los fedatarios públicos en los términos de la ley de la materia;
 
@@ -1253,7 +1257,7 @@ El Procurador y sus agentes se someterán estrictamente a las disposiciones de l
 
 ###### Artículo 90.
 
-El ejercicio del Poder Judicial del Estado se deposita en un Tribunal Superior de Justicia, en un Tribunal Estatal Electoral, en Juzgados de primera instancia y municipales.
+El ejercicio del Poder Judicial del Estado se deposita en un Tribunal Superior de Justicia, en un Tribunal Estatal Electoral, en un Tribunal de lo Contencioso Administrativo, en Juzgados de primera instancia y municipales.
 
 Corresponde a los tribunales del Estado la facultad de aplicar las leyes en asuntos del orden común, así como en materia federal cuando las leyes los faculten.
 
@@ -1279,7 +1283,7 @@ Los Magistrados y Jueces no podrán en ningún caso aceptar y desempeñar empleo
 
 #### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2000)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 95.
 
@@ -1329,11 +1333,13 @@ V. No tener parentesco de consanguinidad hasta el tercer grado con los demás Ma
 
 VI. No pertenecer al estado eclesiástico ni ser ministro de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 98.
 
-El Tribunal Superior de Justicia será presidido por un Magistrado que no integrará Sala, designado por el Tribunal en Pleno el primer día hábil del mes de febrero de cada tres años, y podrá ser reelecto, una sola vez.
+El Tribunal Superior de Justicia será presidido por un Magistrado que no integrará Sala, designado por el Tribunal en Pleno el primer día hábil del mes de febrero de cada cuatro años y no podrá ser reelecto para el periodo inmediato.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2000)</small>
 
 La Presidencia del Tribunal Superior es el órgano de representación y administración del Poder Judicial. Las ausencias temporales del titular, serán suplidas por el Magistrado Presidente de Sala de mayor antigüedad. En caso de ausencia definitiva, el Pleno hará nueva designación.
 
@@ -1501,7 +1507,7 @@ Los Jueces municipales tendrán las facultades y obligaciones que les atribuya l
 
 ###### Artículo 112.
 
-El Tribunal de lo Contencioso Administrativo es el organismo que conocerá y resolverá las controversias de carácter administrativo y fiscal que se susciten entre la Administración Pública estatal o municipal y sus organismos descentralizados, estatales, municipales e intermunicipales y los particulares, dotado de plena jurisdicción y autonomía para dictar y ejecutar sus resoluciones.
+El Tribunal de lo Contencioso Administrativo forma parte del Poder Judicial del Estado. Conocerá y resolverá las controversias de carácter administrativo y fiscal que se susciten entre la Administración Pública estatal o municipal e intermunicipal y los particulares, dotado de plena jurisdicción y autonomía para dictar y ejecutar sus resoluciones.
 
 La ley establecerá su organización, funcionamiento, competencia, procedimientos y recursos.
 
@@ -1510,6 +1516,8 @@ La ley establecerá su organización, funcionamiento, competencia, procedimiento
 El Tribunal se integra por un Magistrado propietario y los supernumerarios que se requieran, los cuales serán designados por la Legislatura del Estado y deberán satisfacer los mismos requisitos que se exigen para los Magistrados del Poder Judicial.
 
 #### SECCIÓN PRIMERA. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 114.
 
@@ -2474,5 +2482,19 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 10 DE JULIO DE 2002.
 
 DECRETO No. 95, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 108 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE ZACATECAS.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2002.
+
+DECRETO No. 156, POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 82 Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 98 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- El Magistrado que actualmente se desempeña como Presidente del Tribunal Superior de Justicia, concluye su periodo el 31 de enero de 2004.
+
+P.O. 28 DE DICIEMBRE DE 2002.
+
+DECRETO No. 157, POR EL QUE SE ADICIONA EL PRIMER PÁRRAFO DEL ARTÍCULO 90 Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 112 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE ZACATECAS.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
