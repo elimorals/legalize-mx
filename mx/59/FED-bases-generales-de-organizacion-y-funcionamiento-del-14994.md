@@ -4,7 +4,7 @@ identifier: "FED-bases-generales-de-organizacion-y-funcionamiento-del-14994"
 country: "mx"
 rank: "otro"
 publication_date: "1998-11-26"
-last_updated: "2002-02-19"
+last_updated: "2004-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14994&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-11-12"
 
 BASES GENERALES DE ORGANIZACION Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE SEPTIEMBRE DE 2004.
 
 Bases publicadas en la Primera Sección del Diario Oficial de la Federación, el jueves 26 de noviembre de 1998.
 
@@ -75,13 +75,15 @@ V. Unidad de Supervisión y Control de Defensoría Pública y Asesoría Jurídic
 
 > <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
 
-VI. Unidad de Apoyo Operativo, y
+VI. Unidad de Apoyo Operativo, y (sic)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 19 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
-VII. Delegaciones.
+VII. Delegaciones, y
 
-Las Delegaciones serán consideradas regionales cuando abarquen más de una entidad federativa.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+VIII. Secretariado Técnico.
 
 ### CAPITULO II. De la Junta Directiva
 
@@ -239,13 +241,17 @@ Son funciones de la unidad:
 
 I. Proponer los lineamientos y criterios para la correcta aplicación de la supervisión;
 
-II. Organizar, dirigir y controlar al cuerpo de supervisores;
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+II. Organizar, dirigir, controlar y evaluar el desempeño del cuerpo de supervisores;
 
 > <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
 
 III. Diseñar y operar el programa anual de visitas de supervisión directa, emitiendo los acuerdos que ordenen su realización cuando menos una vez a cada adscripción;
 
-IV. Recabar los informes que resulten de la supervisión directa y proporcionarlos de manera oportuna a las unidades administrativas competentes, para su evaluación;
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+IV. Recabar las actas circunstanciadas y los informes que resulten de la supervisión directa y proporcionarlos de manera oportuna a las unidades administrativas competentes, para su evaluación;
 
 V. Vigilar el cumplimiento de las sugerencias, requerimientos o sanciones que resulten de la función evaluatoria;
 
@@ -293,37 +299,73 @@ IX. Elaborar e integrar la estadística general del Instituto, en forma mensual,
 
 Artículo 13 bis.- Las Delegaciones se establecerán, conforme a las necesidades del servicio, en cada uno de los circuitos judiciales federales del país, identificándose con la denominación de la entidad federativa en que tengan sede. Contarán con un Delegado y el personal profesional y administrativo que determine el presupuesto.
 
-> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
-Artículo 13 ter.- Son atribuciones del Delegado, en su circunscripción territorial:
+En el primer circuito funcionarán la Dirección de Prestación del Servicio de Defensa y la Dirección de Prestación del Servicio de Asesoría Jurídica, adscritas orgánicamente a la Unidad de Defensoría Pública y Evaluación en Materia Penal y a la Unidad de Asesoría Jurídica y Evaluación del Servicio, respectivamente. Contarán con un Director y el personal profesional y administrativo que determine el presupuesto.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+Artículo 13 ter.- Son atribuciones del Delegado y del Director de Prestación del Servicio, en su circunscripción territorial y en la materia de su competencia:
+
+> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
 
 I. Realizar la supervisión documental de defensores y asesores y remitir los diagnósticos, en forma coordinada con el programa anual de visitas de supervisión directa, a la Unidad de Supervisión y Control de Defensoría Pública y Asesoría Jurídica;
 
+> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
+
 II. Designar defensor público o asesor jurídico sustituto o suplente, en los casos de impedimento o faltas temporales, respectivamente;
+
+> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
 
 III. Designar al defensor público o asesor jurídico que corresponda, según la naturaleza del caso, cuando exista requerimiento de un órgano jurisdiccional federal;
 
+> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
+
 IV. Concentrar y enviar a la Dirección General la información estadística requerida;
+
+> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
 
 V. Vigilar que se cumplan los horarios de trabajo señalados y preservar la disciplina de todo el personal;
 
+> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
+
 VI. Programar los períodos vacacionales y remitirlos oportunamente a la Dirección General para su aprobación;
+
+> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
 
 VII. Acordar a cuenta de vacaciones las solicitudes para ausentarse del trabajo con causa justificada, hasta por tres días, comunicándolo a la Unidad de Apoyo Operativo;
 
+> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
+
 VIII. Practicar visitas de trabajo, cuando menos una vez al año, a cada una de las adscripciones de asesores y defensores de su circunscripción;
+
+> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
 
 IX. Llevar el control de libros, archivos, bienes muebles y equipos de cómputo;
 
+> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
+
 X. Efectuar labores de difusión de los servicios que presta el Instituto, y
+
+> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
 
 XI. Cuidar que se cumplan las disposiciones de la Dirección General y resolver, con el conocimiento de ésta, los problemas que se presenten y no admitan demora.
 
-### CAPITULO I. Reglas comunes para los servicios de defensa pública en materia penal y asesoría jurídica
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+### CAPITULO VI. Del Secretariado Técnico
+
+> <small>(ADICIONADO, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+Artículo 13 quater.- El secretariado técnico contará con el personal profesional y administrativo que determine el presupuesto.
+
+> <small>(ADICIONADO, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+Artículo 13 quintus.- Los secretarios técnicos tendrán funciones de apoyo a la Dirección General y a las Unidades Administrativas, en los términos que fijen las disposiciones técnicas y operativas que se expidan conforme al artículo 4o., fracción III.
 
 ## TITULO TERCERO. De los servicios del Instituto Federal de Defensoría Pública
 
-### CAPITULO II. Del servicio de defensa pública en materia penal
+### CAPITULO I. Reglas comunes para los servicios de defensa pública en materia penal y asesoría jurídica
 
 ###### Artículo 14.
 
@@ -337,7 +379,7 @@ El defensor público y el asesor jurídico en el ejercicio de su cargo, deben ob
 
 La defensa pública en materia penal y la asesoría jurídica, son incompatibles con el patrocinio particular.
 
-### CAPITULO III. Del servicio de asesoría jurídica
+### CAPITULO II. Del servicio de defensa pública en materia penal
 
 #### SECCION PRIMERA. Disposiciones generales
 
@@ -348,6 +390,10 @@ El servicio de defensa pública se presta en asuntos del orden federal, en mater
 ###### Artículo 18.
 
 Cuando el inculpado designe a un defensor particular que tenga cédula profesional, sin revocar al defensor público, éste debe excusarse de seguir interviniendo en el asunto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+También deberá excusarse de intervenir cuando, existiendo designación del inculpado en favor de defensor particular, el titular de la agencia investigadora o del órgano jurisdiccional le nombre al defensor público.
 
 ###### Artículo 19.
 
@@ -385,9 +431,13 @@ Además de las obligaciones que establecen las fracciones I, V, VII y IX del art
 
 I. Promover el juicio de amparo contra actos que se realicen en la averiguación previa cuando sea procedente para una defensa adecuada, y contra la orden de aprehensión que se gire en contra de su defendido con motivo de la consignación, allegándose los elementos de juicio pertinentes;
 
-II. Informar de inmediato al delegado de la circunscripción donde se encuentre adscrito y a la Unidad de Defensoría Pública y Evaluación en Materia Penal, respecto de los asuntos en los que interviene y de manera especial su participación en asuntos relevantes, y
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
-III. Mantener estrecha coordinación con el defensor público adscrito al órgano jurisdiccional, que conozca de los asuntos donde se ejercite la acción penal, remitiendo la información necesaria para la continuación del servicio de defensa.
+II. Informar de inmediato al delegado o director de la circunscripción donde se encuentre adscrito y a la Unidad de Defensoría Pública y Evaluación en Materia Penal, respecto de los asuntos en los que interviene y de manera especial su participación en asuntos relevantes, y
+
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+III. Mantener estrecha coordinación con el defensor público adscrito al órgano jurisdiccional que conozca de los asuntos en los que se ejercite la acción penal, especialmente cuando se trate de consignaciones con detenido, remitiendo para tal efecto la documentación necesaria para la continuación del servicio de defensa.
 
 #### SECCION TERCERA. De la defensa pública ante órganos jurisdiccionales
 
@@ -423,7 +473,9 @@ III. Vigilar y realizar las gestiones conducentes, para evitar que se ordene la 
 
 IV. Sin perjuicio de preservar la oralidad del proceso, para efecto de documentar el desempeño de la defensa pública, debe procurar formular por escrito las conclusiones, no obstante que se trate de juicios sumarios; asimismo, durante la audiencia de vista contestar verbalmente los argumentos de acusación que haga valer el representante social federal;
 
-V. Los escritos de conclusiones, deben contener una estructura mínima que analice los hechos, detalle sus elementos relacionándolos con las pruebas, tanto en lo que toca al delito como en lo que corresponde a la responsabilidad; igualmente, han de examinar los datos conducentes a la individualización de la pena, cuando así se determine, refiriéndose específicamente a las reglas que fija la ley penal y expresar las normas, precedentes, tesis de jurisprudencia y doctrina en que se sustente la posición de la defensa;
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+V. Los escritos de conclusiones, deben contener una estructura mínima que analice los hechos, detalle sus elementos relacionándolos con las pruebas, tanto en lo que toca al delito como en lo que corresponde a la responsabilidad; igualmente, han de examinar los datos conducentes a la individualización de la pena, cuando así se determine, refiriéndose específicamente a las reglas que fija la ley penal y expresar las normas, precedentes, tesis de jurisprudencia, tratados internacionales y doctrina en que se sustente la posición de la defensa;
 
 VI. Siempre que el defensor público de primera instancia interponga el recurso de apelación, debe exponer los motivos legales que tuvo para ello, a efecto de que su homólogo en segunda instancia considere dichos razonamientos y esté en aptitud de continuar con la estrategia de defensa, y
 
@@ -441,7 +493,9 @@ III. Omitir señalar que no tiene agravio alguno que hacer valer, salvo que en s
 
 IV. Formular agravios cuando se es recurrente y participar activamente en la audiencia de vista. Asimismo, formular alegatos que contesten los agravios que haga valer el representante social federal, cuando este último sea sólo el recurrente;
 
-V. Los agravios deben formularse preferentemente por escrito, a efecto de documentar la función de defensa y contener una estructura mínima que analice los hechos, detalle sus elementos relacionándolos con las pruebas, tanto en lo que toca al delito como en lo que corresponde a la responsabilidad; igualmente, han de examinar los datos conducentes a la individualización de la pena, cuando así se determine, refiriéndose específicamente a las reglas que fija la ley penal, expresando las normas, precedentes, tesis de jurisprudencia y doctrina en que se sustente la posición de la defensa, y
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+V. Los agravios deben formularse preferentemente por escrito, a efecto de documentar la función de defensa y contener una estructura mínima que analice los hechos, detalle sus elementos relacionándolos con las pruebas, tanto en lo que toca al delito como en lo que corresponde a la responsabilidad; igualmente, han de examinar los datos conducentes a la individualización de la pena, cuando así se determine, refiriéndose específicamente a las reglas que fija la ley penal, expresando las normas, precedentes, tesis de jurisprudencia, tratados internacionales y doctrina en que se sustente la posición de la defensa, y
 
 VI. Procurar el ofrecimiento de pruebas.
 
@@ -451,15 +505,15 @@ VI. Procurar el ofrecimiento de pruebas.
 
 Tanto en los centros de reclusión como en los lugares de arraigo, el defensor público debe realizar dos tipos de visita:
 
-> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
-I. Visita inicial.- Es la que lleva a cabo en forma inmediata, después de aceptar la defensa en ambas instancias y tiene por objeto conocer de manera directa, la versión de su defendido sobre los hechos que se le imputan, y que sirve para acordar o plantear la estrategia de defensa. En dicha visita entrega al inculpado la tarjeta informativa señalada en el capítulo referente a la información documental de estas Bases, y
+I. Visita inicial.- Es la que lleva a cabo en forma inmediata, después de aceptar la defensa en ambas instancias, y tiene por objeto conocer de manera directa la versión de su defendido sobre los hechos que se le imputan, para contar con mayores elementos al plantear la estrategia de defensa. En dicha visita entrega al inculpado la tarjeta informativa señalada en el capítulo referente a la información documental de estas Bases, y
 
 > <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
 
 II. Visita ordinaria.- Es la que realiza durante la tramitación del proceso a cada uno de sus defendidos, dos veces al mes, o cuando menos una si por razones fundadas considera innecesario realizar ambas, con la finalidad de allegarse probanzas que puedan aportarse en defensa de sus representados, preparar el ofrecimiento y desahogo de las mismas, interponer recursos y tomar decisiones junto con el encausado para una adecuada defensa, independientemente de lo previsto por la fracción VIII del artículo 12 de la Ley.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO III. Del servicio de asesoría jurídica
 
 #### SECCION PRIMERA. Disposiciones generales
 
@@ -517,7 +571,13 @@ a) Asuntos en los que sea procedente la reparación del daño a favor de la víc
 
 b) Asuntos en los que sea procedente la devolución de bienes u objetos a favor de la víctima del delito o de sus beneficiarios.
 
-Sólo procede este servicio cuando el procesado no sea patrocinado por un defensor público federal.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+c) Asuntos en los que sea procedente tramitar, ante los órganos investigadores o jurisdiccionales, la devolución de bienes u objetos a favor de terceros.
+
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+Sólo procede este servicio, en los dos primeros incisos, cuando el procesado no sea patrocinado por un defensor público federal.
 
 ###### Artículo 30.
 
@@ -531,9 +591,13 @@ El asesor jurídico debe ser acucioso en el análisis de los expedientes judicia
 
 La prestación de este servicio comprende las modalidades siguientes:
 
-I. Orientación.- Procede cuando el asunto planteado no es de la competencia legal del Instituto, canalizando al solicitante, mediante escrito fundado y motivado, ante la institución que a juicio del asesor deba proporcionarle la atención jurídica, aludiendo, si fuere el caso, a los convenios de colaboración que se hayan suscrito;
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
-II. Asesoría.- Es el dictamen técnico-jurídico que se emite después de analizar las manifestaciones y documentos que aporte el solicitante, y en el que se determina la competencia y viabilidad de la intervención legal y procesal del Instituto en el asunto expuesto, y
+I. Orientación.- Cuando el asunto planteado no es de la competencia legal del Instituto, se orienta al solicitante sobre la naturaleza y particularidades del problema, y se le canaliza mediante oficio fundado y motivado a la institución que a juicio del asesor deba proporcionarle atención jurídica gratuita, invocando, si fuere el caso, los convenios de colaboración que se hubieren suscrito;
+
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+II. Asesoría.- Es el dictamen técnico-jurídico que se emite después de analizar las manifestaciones y documentos que aporte el solicitante, en el que se determina que el caso es de la competencia del Instituto, pero no es viable la intervención legal y procesal por las causas específicas que se indiquen, y
 
 III. Representación.- Consiste en el patrocinio legal que se otorga a la persona que solicita la prestación del servicio, por ser destinatario del mismo conforme a lo dispuesto en la Ley y en estas Bases; en caso de duda deberá practicarse estudio socioeconómico, para determinar si cumple con los requisitos correspondientes. La actuación del asesor jurídico comprende todas las fases procedimentales o instancias judiciales que prevén las leyes respectivas, agotando los recursos legales previstos y la promoción del juicio de amparo si fuere necesario.
 
@@ -545,23 +609,27 @@ III. Representación.- Consiste en el patrocinio legal que se otorga a la person
 
 El procedimiento para prestar el servicio consta de las etapas siguientes:
 
-> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
-I. El solicitante llena un formato, que entrega al asesor jurídico, quien a su vez le proporciona una tarjeta informativa que contiene sus datos, obligaciones y los números telefónicos de las oficinas centrales del Instituto y de la Delegación respectiva, en su caso, para quejas o comentarios, firmando aquél de recibido en el registro correspondiente;
+I. El solicitante requisita el formato que le entrega el asesor jurídico;
 
 II. Enseguida, el asesor jurídico entrevista al solicitante, quien describe en forma detallada el asunto de que se trate, las circunstancias de hecho, documentos y elementos que a su juicio soporten su dicho, y en su caso, acrediten el interés jurídico, determinando el asesor si el asunto planteado, es de la competencia del Instituto, y si no lo es, orienta y canaliza al solicitante a la institución o autoridad que debe atenderlo;
 
 > <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
 
-III. Si el asunto es competencia del Instituto, el asesor jurídico debe analizar las manifestaciones del solicitante, así como los documentos o expedientes aportados, para determinar si es viable representarlo ante la instancia administrativa o judicial que corresponda. Si no es viable la representación del asunto, únicamente se le da al interesado la asesoría pertinente, concluyendo su atención.
+III. Si el asunto es competencia del Instituto, el asesor jurídico debe analizar las manifestaciones del solicitante, así como los documentos o expedientes aportados, para determinar si es viable representarlo ante la instancia administrativa o judicial que corresponda. Si no es viable la representación del asunto, únicamente se le da al interesado la asesoría pertinente, concluyendo su atención;
 
 > <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
 
-IV. Si la representación es viable, el solicitante es destinatario del servicio o del estudio socioeconómico, en los casos que se estime necesario practicarlo, se desprende que reúne los requisitos establecidos por la Ley y por estas Bases para que se le otorgue, se procede a representarlo jurídicamente, durante todas las etapas o instancias que las leyes aplicables contemplen, salvo los casos previstos en la Ley para el retiro del mismo.
+IV. Si la representación es viable, el solicitante es destinatario del servicio o del estudio socioeconómico, en los casos que se estime necesario practicarlo, se desprende que reúne los requisitos establecidos por la Ley y por estas Bases para que se le otorgue, se procede a representarlo jurídicamente, durante todas las etapas o instancias que las leyes aplicables contemplen, salvo los casos previstos en la Ley para el retiro del mismo;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
-En caso de negativa del servicio de representación por razones de competencia, viabilidad o por las condiciones subjetivas del solicitante, siempre que exista inconformidad por parte de éste el Director General resolverá lo que proceda.
+V. Cuando el servicio se otorgue en las modalidades de asesoría o representación, el asesor jurídico proporcionará al solicitante una tarjeta informativa que contiene sus datos, obligaciones y los números telefónicos de las oficinas centrales del Instituto y de la Delegación respectiva, en su caso, para quejas o comentarios, firmando aquél de recibido en el registro correspondiente, y
+
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+En caso de negativa del servicio de representación por razones de competencia, viabilidad o por las condiciones subjetivas del solicitante, siempre que exista inconformidad por parte de éste, el Director General resolverá lo que proceda.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE FEBRERO DE 2002)</small>
 
@@ -601,7 +669,7 @@ El estudio socioeconómico que prevé la Ley, debe implicar una entrevista perso
 
 ## TITULO CUARTO. De la información documental
 
-### CAPITULO II. De los instrumentos de registro y expedientes de control para el servicio de defensa pública en materia penal
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 38.
 
@@ -613,13 +681,15 @@ En su aplicación, se cuenta con elementos de consulta inmediata, que permiten s
 
 La información documental que remite el defensor público y el asesor jurídico, a las delegaciones y áreas centrales del Instituto, debe ser oportuna, veraz y de conformidad con las normas aplicables; su manejo se organiza mediante el envío, recepción, registro, integración y archivo, para su adecuada consulta.
 
-### CAPITULO III. De los instrumentos de registro y expedientes de control para el servicio de asesoría jurídica
+### CAPITULO II. De los instrumentos de registro y expedientes de control para el servicio de defensa pública en materia penal
 
 ###### Artículo 40.
 
 En el servicio de defensa pública en materia penal se utilizan como instrumentos de registro, los siguientes:
 
-I. Libro de gobierno.- En el que se asientan en orden numérico y consecutivo, los datos principales de los asuntos en que interviene;
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+I. Libro de gobierno.- En el que se asientan en orden numérico, consecutivo y por patrocinado, los datos principales de los asuntos en que interviene;
 
 II. Libro de índice de defendidos.- Contiene los datos de los patrocinados, ordenados alfabéticamente por apellidos, lugar donde se encuentran internos cuando sea el caso y el registro de acuse de entrega de las tarjetas informativas;
 
@@ -643,13 +713,15 @@ IV. Acta de visita.- En ella se asienta el contenido de la conversación entre e
 
 V. Promociones.- Escritos en los que el defensor público promueve todo lo relacionado a la defensa ante el Ministerio Público de la Federación, Juzgados de Distrito y Tribunales Unitarios de Circuito de su adscripción, u otras autoridades judiciales o administrativas.
 
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 42.
 
-La entrega o remisión a la dirección o delegación que corresponda de los planteamientos de defensa, notas de acuerdo, actas de entrevista, actas de visita y promociones, se hará el día viernes de cada semana, o el hábil inmediato anterior si aquél no lo fuera; la remesa abarcará todos los documentos relativos a la semana correspondiente.
+La entrega o remisión a la dirección o delegación que corresponda de los planteamientos de defensa, notas de acuerdo, actas de entrevista, actas de visita y promociones, se hará el día viernes de cada semana, o el hábil inmediato anterior si aquél no lo fuera, abarcando todos los documentos relativos a la semana correspondiente.
 
-### CAPITULO IV. Reglas comunes para los expedientes de control de los servicios de defensa pública y asesoría jurídica
+Cuando por la naturaleza extraordinaria del asunto o por otra causa justificada, no sea posible el envío en ese día del planteamiento de defensa a que se refiere la fracción I del artículo 41, el defensor deberá informar indefectiblemente la aceptación del cargo y los datos principales del caso.
+
+### CAPITULO III. De los instrumentos de registro y expedientes de control para el servicio de asesoría jurídica
 
 ###### Artículo 43.
 
@@ -659,7 +731,9 @@ En el servicio de asesoría jurídica se utilizan como instrumentos de registro,
 
 I. Libro de gobierno.- En el cual el asesor jurídico asienta en orden numérico y consecutivo, los datos principales de los asuntos en que interviene, precisando las modalidades del servicio, ya sea orientación, asesoría o representación;
 
-II. Libro de índice de asesorados.- Contiene los datos de los patrocinados, ordenados alfabéticamente por apellidos, así como el acuse de entrega de las tarjetas informativas;
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+II. Libro de índice de asesorados.- Contiene los datos de los usuarios en todas las modalidades del servicio, ordenados alfabéticamente por apellidos, así como el acuse de entrega de las tarjetas informativas en los casos de asesoría y representación;
 
 III. Agenda oficial de actividades.- En ella se anota la fecha y hora de las diligencias, así como las citas de carácter oficial en que deba estar presente;
 
@@ -677,29 +751,43 @@ Los expedientes de control para el servicio de asesoría jurídica se integran c
 
 I. Solicitud del servicio.- Contiene los datos generales del peticionario y describe de manera sucinta el motivo por el cual acude al Instituto;
 
-> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
-II. Reporte inicial.- En el cual el asesor jurídico informa a la dirección o delegación correspondiente sobre las orientaciones, asesorías y casos de representación por urgencia, debiendo contener el nombre del peticionario, número de expediente y el tipo de asunto planteado;
+II. Reporte inicial.- En el cual el asesor jurídico informa a la dirección o delegación correspondiente sobre las orientaciones, asesorías y representaciones, debiendo contener el nombre del peticionario y sus datos generales, así como el tipo de asunto planteado;
 
-> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
-III. Estudio socioeconómico.- En él se analiza la situación social y económica del solicitante del servicio, con el fin de determinar, cuando se estime procedente, si se encuentra en alguno de los supuestos que establece la Ley, para otorgarle representación;
+III. Oficio de canalización.- Se elabora cuando, al proporcionar el servicio en la modalidad de orientación, el asesor jurídico remite al solicitante a la institución que deba darle atención jurídica gratuita;
 
-> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
-IV. Planteamiento de representación.- Se elabora cuando el solicitante es destinatario del servicio, o inmediatamente después de que el estudio socioeconómico determina que reúne los requisitos para que se le proporcione, y contiene los datos para identificarlo, los generales del representado, así como la estrategia de actuación en el mismo;
+IV. Dictamen técnico.- Se emite por el asesor jurídico en la modalidad de asesoría, después de analizar las manifestaciones y documentación que aporte el solicitante, determinando la competencia del Instituto y la inviabilidad del patrocinio legal;
 
-V. Notas de acuerdo.- Contienen una síntesis de los acuerdos o resoluciones emitidos por las autoridades judiciales o administrativas ante las que se promueve y permiten conocer con precisión el estado que guardan los procedimientos o procesos a cargo del asesor jurídico, según sea el caso, y
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
-> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
+V. Planteamiento de representación.- Se elabora cuando el solicitante es destinatario del servicio, o inmediatamente después de que el estudio socioeconómico determina que reúne los requisitos para que se le proporcione, y contiene los datos para identificarlo, los generales del representado, así como la estrategia de actuación en el mismo;
 
-VI. Promociones.- Escritos en los que el asesor jurídico promueve todo lo relacionado a la representación de sus patrocinados ante los órganos jurisdiccionales y autoridades administrativas competentes del fuero federal.
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2002)</small>
+VI. Estudio socioeconómico.- En él se analiza la situación social y económica del solicitante del servicio, con el fin de determinar, cuando se estime procedente, si se encuentra en alguno de los supuestos que establece la Ley, para otorgarle representación;
 
-Todos estos documentos deben entregarse o remitirse a la dirección o delegación que corresponda el día viernes de cada semana, o el hábil inmediato anterior si aquél no lo fuera; la remesa deberá abarcar todos los documentos relativos a la semana correspondiente.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
-### CAPITULO I. Disposiciones generales
+VII. Promociones.- Escritos en los que el asesor jurídico promueve todo lo relacionado a la representación de sus patrocinados ante los órganos jurisdiccionales y autoridades administrativas competentes del fuero federal, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+VIII. Notas de acuerdo.- Contienen una síntesis de los acuerdos o resoluciones emitidos por las autoridades judiciales o administrativas ante las que se promueve y permiten conocer con precisión el estado que guardan los procedimientos o procesos a cargo del asesor jurídico, según sea el caso.
+
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+Todos estos documentos deben entregarse o remitirse a la dirección o delegación que corresponda el día viernes de cada semana, o el hábil inmediato anterior si aquél no lo fuera, abarcando todos los documentos relativos a la semana correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+Cuando por la naturaleza extraordinaria del asunto o por otra causa justificada, no sea posible el envío en ese día del planteamiento de representación a que se refiere la fracción V del artículo 44, el asesor deberá informar indefectiblemente la aceptación del caso y sus datos principales.
+
+### CAPITULO IV. Reglas comunes para los expedientes de control de los servicios de defensa pública y asesoría jurídica
 
 ###### Artículo 45.
 
@@ -715,7 +803,7 @@ Es obligación del defensor público y asesor jurídico, precisar en cada docume
 
 ## TITULO QUINTO. De la supervisión
 
-### CAPITULO II. De la práctica de la visita de supervisión
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 48.
 
@@ -737,17 +825,17 @@ IV. Apoyarse en la consulta de expedientes judiciales, instrumentos de registro 
 
 Existen dos formas de realizar la supervisión, y son las siguientes:
 
-I. Documental.- En la que se inspeccionan los diferentes instrumentos de registro y expedientes de control a cargo del supervisado, de manera permanente.
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2002)</small>
+I. Documental.- En la que se verifica el cumplimiento permanente de las obligaciones administrativas impuestas por la Ley Federal de Defensoría Pública y estas Bases Generales a defensores públicos y asesores jurídicos, en relación a la integración, requisitación y envío de los documentos que forman los expedientes de control.
 
-El delegado o el director correspondiente establece la periodicidad con que el defensor público y el asesor jurídico de su circunscripción, deben remitir los instrumentos de registro y expedientes de control que se consideren pertinentes para su análisis, a efecto de mantener un diagnóstico actualizado de su desempeño; si lo consideran necesario, pueden solicitar esos instrumentos en cualquier momento. El diagnóstico resultante deben remitirlo a la Unidad de Supervisión y Control de Defensoría Pública y Asesoría Jurídica, a fin de que se integre al expediente de supervisión directa para efectos de evaluación, y
+El delegado o director correspondiente debe remitir el diagnóstico resultante, con oportunidad, a la Unidad de Supervisión y Control de Defensoría Pública y Asesoría Jurídica, a fin de que se integre al expediente de supervisión directa para efectos de evaluación, y
 
-II. Directa.- En la que el supervisor se constituye físicamente en la adscripción de defensa o asesoría, con el propósito de conocer la actuación procesal, del servidor público sujeto a supervisión, mediante el análisis de los expedientes judiciales en los que tenga intervención.
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2002)</small>
+II. Directa.- En la que el supervisor se constituye físicamente en la adscripción de defensa o asesoría, con el propósito de conocer la actuación procesal del servidor público sujeto a supervisión, mediante el análisis de los expedientes judiciales o administrativos en los que tenga intervención, así como de los expedientes de control correspondientes e instrumentos de registro.
 
-La supervisión directa se notificará al defensor público o asesor jurídico, cuando menos con cinco días de anticipación, para que fije en lugares visibles el aviso al público de su realización. No será necesaria la notificación cuando sea ordenada por la Dirección General con el carácter de extraordinaria.
+La visita de supervisión directa se notificará al defensor público o asesor jurídico, cuando menos con cinco días de anticipación, para que fije en lugares visibles el aviso al público de su realización. No será necesaria la notificación cuando sea ordenada por la Dirección General con el carácter de extraordinaria.
 
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2002)</small>
 
@@ -773,13 +861,15 @@ IV. Fecha y lugar en que deba practicarse, y
 
 V. Demás instrucciones que fueren necesarias.
 
-### CAPITULO III. Del informe de la visita de supervisión
+### CAPITULO II. De la práctica de la visita de supervisión
 
 ###### Artículo 53.
 
 El supervisor se constituirá en el lugar donde desempeñe sus actividades el servidor público a visitar, realizando lo siguiente:
 
-I. Consultar expedientes judiciales y de control, así como instrumentos de registro a cargo del servidor público, haciendo un análisis comparativo de los mismos;
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+I. Consultar expedientes judiciales o administrativos y de control, así como instrumentos de registro a cargo del servidor público, haciendo un análisis comparativo de los mismos;
 
 II. Verificar la organización administrativa y condiciones de trabajo que existan en la adscripción;
 
@@ -793,9 +883,11 @@ VI. Cuando se trate de una visita de supervisión directa al defensor público a
 
 VII. Realizar la investigación de las quejas que se presenten en contra del servidor público visitado.
 
-Todo lo anterior, se hará constar en acta circunstanciada que al efecto se levante ante dos testigos de asistencia, precisando el desarrollo de la visita, debiendo firmar las personas que intervengan.
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
-### CAPITULO I. Disposiciones generales
+Todo lo anterior se hará constar en acta circunstanciada que al efecto se levante ante dos testigos de asistencia, precisando el desarrollo de la visita, y al finalizar se concederá el uso de la palabra al supervisado para que exprese lo que a sus intereses convenga, debiendo firmar las personas que intervengan.
+
+### CAPITULO III. Del informe de la visita de supervisión
 
 ###### Artículo 54.
 
@@ -829,25 +921,29 @@ La Unidad de Supervisión y Control de Defensoría Pública y Asesoría Jurídic
 
 ## TITULO SEXTO. De la evaluación
 
-### CAPITULO II. De la práctica de la evaluación
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 56.
 
 El objetivo de la evaluación es calificar el desempeño del defensor público y asesor jurídico, para elevar la calidad de los servicios que presta el Instituto, utilizando fundamentalmente para este fin, la información obtenida en la supervisión. Asimismo, es complementaria del servicio civil de carrera.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO II. De la práctica de la evaluación
 
 ###### Artículo 57.
 
 En el ámbito procesal se califican y evalúan, con base en una escala de puntos de cero a cien, los aspectos siguientes:
 
-> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
-I. Eficacia de la estrategia de defensa o de representación, seguida por el defensor público o asesor jurídico, en los asuntos a su cargo, así como la fundamentación, motivación y oportunidad de sus promociones, con un valor hasta de 35 puntos;
+I. Congruencia entre los hechos motivo del caso o problema planteado y la estrategia de defensa del defensor público, la orientación y asesoría otorgadas o la estrategia de representación del asesor jurídico, y en función de ello las pruebas aportadas y los medios de impugnación utilizados, con un valor hasta de 25 puntos;
 
-II. Iniciativa y diligencia demostrada por el servidor público al desarrollar sus funciones, con un valor hasta de 20 puntos;
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
-III. Calidad jurídica en la actuación del servidor público, referente a su acuciosidad, razonamiento técnico-jurídico, lógica jurídica, utilización de jurisprudencia y doctrina, así como el uso correcto del lenguaje jurídico, con un valor hasta de 25 puntos, y
+II. Iniciativa y diligencia demostrada por el servidor público al desempeñar sus funciones, así como la oportunidad de sus promociones y opiniones jurídicas, con un valor hasta de 20 puntos;
+
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+III. Calidad jurídica en la actuación del servicio público, referente a su acuciosidad, razonamiento técnico-jurídico, fundamentación y motivación en sus escritos, utilización de jurisprudencia, tratados internacionales o doctrina cuando proceda, uso correcto del lenguaje jurídico y resultados obtenidos, con un valor hasta de 35 puntos, y
 
 IV. Cumplimiento a lo previsto por estas Bases, respecto de la actuación procesal, con un valor hasta de 20 puntos.
 
@@ -859,19 +955,37 @@ I. Organización interna de la adscripción, con un valor hasta de 20 puntos;
 
 II. Adecuado manejo de los diversos instrumentos de registro, con un valor hasta de 30 puntos, y
 
-III. Correcta integración de los expedientes de control y su oportuna remisión a la delegación correspondiente, con un valor hasta de 50 puntos.
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+III. Correcta integración de los expedientes de control y oportuna remisión de los duplicados respectivos a la delegación o dirección correspondiente, con un valor hasta de 50 puntos.
 
 ###### Artículo 59.
 
 En la evaluación del desempeño del defensor público y asesor jurídico, se siguen los parámetros de calificación siguientes:
 
-I. Sobresaliente.- Cuando obtiene una calificación igual o mayor a 90 puntos;
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
-II. Bueno.- Cuando le resulta una calificación en el rango de 80 a 89 puntos;
+I. Sobresaliente.- Cuando se obtiene calificación de 90.0 puntos o mayor;
 
-III. Regular.- Cuando se le da una calificación en el rango de 70 a 79 puntos, y
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
-IV. Deficiente.- Cuando la calificación obtenida es igual o menor a 69 puntos.
+II. Bueno alto.- Cuando se obtiene calificación de 85.0 a 89.9 puntos;
+
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+III. Bueno.- Cuando se obtiene calificación de 80.0 a 84.9 puntos;
+
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+IV. Regular alto.- Cuando se obtiene calificación de 75.0 a 79.9 puntos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+V. Regular.- Cuando se obtiene calificación de 70.0 a 74.9 puntos, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+VI. Deficiente.- Cuando la calificación es de 69.9 puntos o menor.
 
 Para el cálculo de estas calificaciones, el resultado de la evaluación procesal representa un 70 por ciento y el de la evaluación administrativa un 30 por ciento.
 
@@ -879,7 +993,9 @@ Para el cálculo de estas calificaciones, el resultado de la evaluación procesa
 
 Para la evaluación se consideran además los indicadores que se mencionan a continuación:
 
-I. Cargas de trabajo.- Se establece un parámetro que determina el volumen de trabajo promedio como alto, medio o bajo, de cada defensor público o asesor jurídico;
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+
+I. Cargas de trabajo.- Se establece un parámetro que determina el volumen de trabajo promedio como muy alto, medianamente alto, ligeramente alto, medio superior, medio, medio inferior, bajo y muy bajo;
 
 II. Complejidad.- Se toma en cuenta el grado de dificultad de los asuntos en que se interviene, atendiendo a las materias;
 
@@ -897,9 +1013,7 @@ Cuando se advierta irregularidad o falta grave en el desempeño de la función, 
 
 ## TITULO SEPTIMO. Del servicio civil de carrera
 
-### CAPITULO II. De la promoción
-
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2002)</small>
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 63.
 
@@ -985,7 +1099,9 @@ En el sistema de servicio civil de carrera, la capacitación y estímulos para l
 
 Cuando el defensor público o asesor jurídico incumpla o viole lo dispuesto por la Ley o por las presentes Bases Generales, se aplicarán las sanciones y correcciones disciplinarias que resulten procedentes, de acuerdo a la naturaleza de la responsabilidad administrativa, falta o irregularidad laboral en que incurra.
 
-### CAPITULO UNICO. De la prestación del servicio social
+### CAPITULO II. De la promoción
+
+> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2002)</small>
 
 ###### Artículo 73.
 
@@ -1045,11 +1161,13 @@ A los evaluadores que resulten triunfadores en esos procedimientos, se les otorg
 
 ## TITULO OCTAVO. Del servicio social
 
-### CAPITULO UNICO. Del procedimiento para cubrir las faltas temporales
+### CAPITULO UNICO. De la prestación del servicio social
+
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 76.
 
-La prestación del servicio social en el Instituto, comprende la realización de actividades por parte de estudiantes de la Licenciatura en Derecho, dirigidas a auxiliar las labores del defensor público y asesor jurídico, mediante la aplicación de los conocimientos adquiridos en sus estudios superiores.
+La prestación del servicio social en el Instituto, comprende la realización de actividades por parte de estudiantes de la licenciatura en Derecho o de cualquier otra carrera afín con sus funciones, dirigidas a auxiliar las labores del defensor público y asesor jurídico, así como de las estructuras administrativas, mediante la aplicación de los conocimientos adquiridos en sus estudios superiores.
 
 ###### Artículo 77.
 
@@ -1068,6 +1186,8 @@ IV. Cumplir con el programa de servicio social para el cual se registró.
 Las funciones que realice el prestador de servicio social, tienen el carácter de auxiliares, y en ningún caso puede intervenir en las funciones sustantivas, ni orientar a las personas que reciben los servicios del Instituto, ya que dichas funciones son responsabilidad exclusiva del defensor público o asesor jurídico.
 
 ## TITULO NOVENO. De las suplencias
+
+### CAPITULO UNICO. Del procedimiento para cubrir las faltas temporales
 
 ###### Artículo 79.
 
@@ -1100,3 +1220,7 @@ D.O.F. 19 DE FEBRERO DE 2002.
 PRIMERO.- Las presentes reformas y adiciones a las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública, entrarán en vigor el día primero de abril de dos mil dos.
 
 SEGUNDO.- En tanto se incluye en el presupuesto la categoría de evaluador, el ascenso a la categoría de delegado vía promoción, se realizará mediante procedimiento interno en el que participen los servidores públicos que desempeñen el cargo de supervisor.
+
+D.O.F. 13 DE SEPTIEMBRE DE 2004.
+
+UNICO.- Las presentes reformas y adiciones a las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública, deberán publicarse en el Diario Oficial de la Federación y entrarán en vigor el día 1o. de noviembre de dos mil cuatro.
