@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-una-institucion-publica-descentralizada-con-13566"
 country: "mx"
 rank: "ley"
 publication_date: "1956-05-09"
-last_updated: "1970-12-26"
+last_updated: "1977-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA UNA INSTITUCION PUBLICA DESCENTRALIZADA CON PERSONALIDAD JURIDICA PROPIA Y CON DOMICILIO EN LA CIUDAD DE MONTERREY QUE SE DENOMINARA "SERVICIOS DE AGUA Y DRENAJE DE MONTERREY"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1977.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 9 de mayo de 1956.
 
@@ -139,19 +139,11 @@ Tendrán responsabilidad solidaria en el pago de los adeudos, el co-contratante 
 
 La institución podrá regular el consumo de agua de los usuarios cuando por causa de fuerza mayor el abastecimiento sea insuficiente.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 18o.
 
-Se declaran obligatorios y de utilidad pública los servicios de agua y drenaje. En consecuencia:
-
-a).- Todo predio edificado que dé frente a una vía pública que cuente con instalación para los servicios de agua y drenaje, deberá ser conectado a tales servicios. En caso de que la falta de conexión le sea imputable al propietario o poseedor del predio, éstos tendrán la obligación de pagar las cuotas mínimas señoladas (sic) en las tarifas.
-
-b).- Se procederá a la ocupación de los bienes públicos o privados necesarios para la ejecución de las obras que la prestación de los servicios requiera, en los términos de la Ley de expropiación cuando se trate de bienes privados.
-
-c).- Los notarios y funcionarios encargados de la fe pública y del Registro Público de la Propiedad no autorizarán ni registrarán actos o contratos relativos a predios que deban contar con servicios de agua y drenaje, sin tener la comprobación de que tales servicios existen y que los usuarios se encuentran al corriente en el pago de las cuotas relativas.
-
-d).- La conexión a los servicios de agua y drenaje sólo podrá llevarse a cabo mediante la autorización de la Institución.
-
-La contravención de lo anterior se equipara al delito de robo. Incurrirán en la misma sanción quienes permitan a terceros conexiones no autorizadas en las instalaciones de los servicios propios, o quienes aprovechen los servicios con mengua de las cuotas señaladas.
+Se declaran obligatorios y de utilidad pública los servicios de agua y drenaje. En consecuencia, a).- Todo predio que dé frente a una vía pública que cuente con instalación para los servicios de agua y drenaje, deberá ser conectado a tales servicios. En caso de que la falta de conexión le sea imputable al propietario o poseedor del predio, éstos tendrán la obligación de pagar las cuotas mínimas señaladas en las tarifas. b).- Se procederá a la ocupación de los bienes públicos o privados necesarios para la ejecución de las obras que la prestación de los servicios requiera, en los términos de la Ley de expropiación cuando se trate de bienes privados. c).- Los notarios y funcionarios encargados de la fe pública y del Registro Público de la Propiedad no autorizarán ni registrarán actos o contratos relativos a predios que deban contar con servicios de agua y drenaje, sin tener la comprobación de que tales servicios existen y que los usuarios se encuentran al corriente en el pago de las cuotas relativas. d).- La conexión a los servicios de agua y drenaje sólo podrá llevarse a cabo mediante la autorización de la Institución.- La contravención de lo anterior se equipara al delito de robo. Incurrirán en la misma sanción quienes permitan a terceros conexiones no autorizadas en las instalaciones de los servicios propios, o quienes aprovechen los servicios con mengua de las cuotas señaladas.
 
 TRANSITORIOS:
 
@@ -218,3 +210,13 @@ N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRET
 P.O. 26 DE DICIEMBRE DE 1970.
 
 UNICO:- El presente Decreto entrará en vigor el primero de Enero de mil novecientos setenta y uno.
+
+P.O. 28 DE DICIEMBRE DE 1977.
+
+###### ARTICULO PRIMERO
+
+- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan las disposiciones legislativas que se opongan o contravengan el contenido de esta Ley.
