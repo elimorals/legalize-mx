@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1970-04-09"
+last_updated: "1973-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 1973.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -387,9 +387,11 @@ III. La suspensión que no exceda de un mes.
 
 Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, podrá ésta pedir al juez que la oiga en justicia; y se citará para la audiencia dentro del tercero (sic) día, en la que se resolverá sin más recurso que el de queja.
 
+> <small>(REFORMADO 9 DE AGOSTO DE 1973)</small>
+
 ###### Artículo 64.
 
-Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año, menos el domingo y aquellos que las leyes declaren festivos.
+Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles los que la Ley Orgánica del Poder Judicial del Estado determine.
 
 Se entienden horas hábiles las que median desde la salida a la puesta del sol. En los juicios sumarios sobre alimentos, impedimentos de matrimonio, servidumbres legales, interdictos posesorios, diferencias domésticas y los demás que determinen las leyes, no hay días ni horas inhábiles. En los demás casos, el juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
 
@@ -6458,3 +6460,9 @@ UNICO.- La presente reforma niciará (sic) su vigencia a los quince días de su 
 P.O. 9 DE ABRIL DE 1970.
 
 UNICO.- El presente Decreto comenzará a surtir sus efectos legales correspondientes 3 días después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 9 DE AGOSTO DE 1973.
+
+###### ARTICULO UNICO.
+
+El presente Decreto empezará a surtir sus efectos legales correspondientes, a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
