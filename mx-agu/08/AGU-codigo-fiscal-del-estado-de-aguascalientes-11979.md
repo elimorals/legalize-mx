@@ -4,7 +4,7 @@ identifier: "AGU-codigo-fiscal-del-estado-de-aguascalientes-11979"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1981-12-31"
+last_updated: "1999-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO FISCAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 1999.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Aguascalientes, el jueves 31 de diciembre de 1981.
 
@@ -1937,421 +1937,213 @@ La resolución que resuelva el recurso, deberá notificarse al recurrente y a la
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1999)</small>
+
 ###### ARTICULO 225.
 
-El conocimiento y resolución del juicio de oposición corresponderá al Supremo Tribunal de Justicia del Estado.
+El conocimiento, trámite y resolución del procedimiento contencioso, corresponde al Tribunal de lo Contencioso Administrativo del Estado, en los términos establecidos en la Ley Orgánica del propio Tribunal, así como en la Ley del Procedimiento Contencioso Administrativo del Estado.
 
 ###### ARTICULO 226.
 
-Serán partes en el procedimiento:
-
-I.- El actor.
-
-II.- El demandado. Tendrá ese carácter.
-
-a) La autoridad fiscal que dicte, ordene o ejecute la resolución o tramite el procedimiento impugnado o aquella que legalmente la sustituya.
-
-b) El particular a quien favorezca la resolución cuya nulidad pide la autoridad administrativa.
-
-III.- El tercero que, dentro del procedimiento administrativo aparezca como titular de un derecho incompatible con el que pretenda el actor.
-
-IV.- El Tesorero General del Estado, quien será representado en la forma que señalan las leyes fiscales, aún cuando no sea actor ni demandado.
-
-Podrá apersonarse al juicio como coadyuvante de las autoridades administrativas, quien tenga interés directo en la anulación de una resolución favorable a un particular.
-
-En ningún trámite ante el Supremo Tribunal de Justicia del Estado, se admitirá la gestión de negocios. Las partes podrán autorizar por escrito a personas que a su nombre reciban notificación, hagan promociones de trámite, ofrezcan, rindan pruebas y aleguen.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 227.
 
-Las autoridades que figuren como parte en el juicio de oposición que se tramite ante el Supremo Tribunal de Justicia del Estado, podrán acreditar delegados en las audiencias, para que a su nombre reciban notificaciones, hagan promociones de trámite, ofrezcan y rindan pruebas, aleguen o interpongan recursos.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 228.
 
-El Supremo Tribunal de Justicia del Estado tendrá facultades para ordenar la práctica de cualquier diligencia que tenga relación con los puntos controvertidos.
-
-Para todo lo no previsto por este Código, se aplicará supletoriamente lo dispuesto por el Código de Procedimientos Civiles vigente en el Estado.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 229.
 
-En el juicio de oposición que se tramite ante el Supremo Tribunal de Justicia del Estado, no habrá lugar a condenación en costas, cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan. Los honorarios de los peritos serán pagados por las partes.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 230.
 
-Se establece el juicio de oposición ante el Supremo Tribunal de Justicia del Estado, en los siguientes casos:
-
-a) Contra actos, acuerdos o resoluciones de las autoridades fiscales del Estado, que afecten los intereses de los particulares.
-
-b) Cuando la autoridad demande la nulidad de una resolución favorable a un particular.
-
-En ambos casos, la resolución que se dicte será en el sentido de confirmar, modificar, nulificar o revocar el acto, acuerdo o resolución impugnada.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 231.
 
-El Supremo Tribunal de Justicia del Estado conocerá y resolverá del juicio de oposición que se interponga en contra de las resoluciones que a continuación se indican:
-
-a) Las dictadas por las autoridades fiscales del Estado en las que se determine la existencia de una obligación líquida o se den las bases para su liquidación.
-
-b) Las que nieguen la devolución de un ingreso, de los regulados por las leyes fiscales, indebidamente percibidos por el Estado.
-
-c) Las que impongan multa por infracción a las disposiciones fiscales del Estado.
-
-d) Las dictadas por las autoridades fiscales del Estado que sean favorables a particulares y se intente su modificación.
-
-e) Las que causen un agravio en materia fiscal, distinto al que se refieren las fracciones anteriores.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 232.
 
-Los integrantes del Supremo Tribunal de Justicia del Estado, estarán impedidos para conocer en los siguientes casos:
-
-I.- Si son parientes consanguíneos afines o civiles de alguna de las partes en línea recta sin limitación de grado, dentro del cuarto grado en la colateral por consanguinidad y el segundo de la colateral por afinidad, o de sus patronos o representantes.
-
-II.- Si tienen interés personal en el negocio.
-
-III.- Si han sido patronos o apoderados en el mismo negocio.
-
-IV.- Si han dictado la resolución impugnada o han intervenido con cualquier carácter en la emisión de la misma o en su ejecución.
-
-V.- Si figuran como parte en un juicio similar pendiente de resolución.
-
-VI.- Si tienen amistad o enemistad con alguna de las partes, sus patronos o apoderados.
-
-VII.- Estar en una situación que pueda afectar su imparcialidad en forma análoga o más grave que las mencionadas.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 233.
 
-Los miembros del Supremo Tribunal Superior de Justicia del Estado, tienen el deber de excusarse del conocimiento de algún juicio en el que ocurra alguno de los impedimentos señalados en el artículo anterior, expresando concretamente en qué consiste el impedimento.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 234.
 
-Las partes podrán recusar a los miembros del Supremo Tribunal de Justicia del Estado, cuando estén en alguno de los casos de impedimento que señala el artículo 232 de este Código.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 235.
 
-Puede interponerse la recusación por causa de impedimento en cualquier estado del juicio hasta el momento de empezar la audiencia final a que se refiere este ordenamiento.
-
-Interpuesta la recusación, el Presidente del Supremo Tribunal de Justicia del Estado, antes de dar cuenta al pleno, citará a una audiencia que se celebrará dentro de los tres días siguiente al en que se presente la promoción, recibiendo las pruebas que se ofrezcan y el informe que deba rendir el recusado; la falta de dicho informe establece la presunción de ser cierta la causa de recusación.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 236.
 
-Si se declara fundada la recusación, el Tribunal en pleno designará el magistrado que sustituirá al recusado.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 237.
 
-Los Magistrados del Supremo Tribunal de Justicia del Estado que conozcan de una recusación, son irrecusables para ese solo efecto.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 238.
 
-La resolución del Tribunal en pleno que decida la recusación, es irrevocable si se declara improcedente o no probada la causa de recusación y se impondrá al recusante una multa de $2,000.00.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ### CAPITULO II. De la Improcedencia y Sobreseimiento
 
 ###### ARTICULO 239.
 
-Es improcedente el juicio de oposición ante el Supremo Tribunal de Justicia del Estado:
-
-I.- Contra resoluciones o actos de autoridades distintas de las fiscales.
-
-II.- Contra resoluciones o actos que no afecten los intereses jurídicos del recurrente.
-
-III.- Contra resoluciones o actos que sean materia de otro juicio que se encuentre pendiente de resolución ante el Supremo Tribunal de Justicia del Estado, o que hubiere sido materia de resolución por el mismo Tribunal, siempre que hubiere identidad de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean diversas.
-
-IV.- Contra resoluciones o actos consentidos expresa o tácitamente, entendiéndose por éstos últimos, aquellos contra los que no se interpuso el juicio de oposición dentro del plazo señalado en este Código.
-
-V.- Contra resoluciones o actos administrativos que hayan sido impugnados en un procedimiento judicial.
-
-VI.- Cuando de las constancias de autos apareciere claramente que no existe la resolución o el acto reclamado.
-
-VII.- Contra las resoluciones o actos respecto de los cuales conceda este Código o cualquier otra ley que contenga disposiciones de orden hacendario, algún recurso o medio de defensa ante las autoridades administrativas, o deban ser revisadas de oficio, por cuya virtud puedan ser modificadas, revocadas o nulificadas, aún cuando la parte interesada no la hubiese hecho valer oportunamente. No operará esta causa de improcedencia cuando las disposiciones respectivas declaren expresamente que es optativa la interposición de algún recurso o medio de defensa ante las autoridades administrativas.
-
-VIII.- Contra ordenamientos, que establecen normas o instrucciones de carácter general y abstracto sin haber sido aplicados concretamente al promovente.
-
-IX.- Contra resoluciones administrativas en que se determinen créditos fiscales conexos a otro que haya sido impugnado por medio del recurso administrativo. Para efectos de esta fracción se entiende que hay conexidad, siempre que concurran las causas de acumulación previstas en el artículo 257 de este Código.
-
-X.- En los demás casos en que la improcedencia resulte de alguna disposición de este Código o de las Leyes Fiscales del Estado.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 240.
 
-Procede el sobreseimiento del juicio de oposición:
-
-I.- Cuando el demandante se desista del juicio.
-
-II.- Cuando durante el procedimiento apareciera o sobreviniese alguna de las causas de improcedencia a que se refiere el artículo anterior.
-
-III.- Cuando hayan cesado los efectos del acto o resolución impugnada o la autoridad demandada revoque tal acto o resolución.
-
-IV.- En los demás casos en que por ley haya impedimento para emitir resoluciones en cuanto al fondo.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ### CAPITULO III. De las Notificaciones y los Términos
 
 ###### ARTICULO 241.
 
-Toda resolución debe ser notificada, a más tardar, el segundo día siguiente a aquél en que el expediente haya sido turnado al actuario para ese efecto y se asentará la razón respectiva a continuación de la misma resolución.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 242.
 
-Las notificaciones se harán:
-
-I.- A las autoridades siempre por oficio o por la vía telegráfica en casos urgentes.
-
-II.- Personalmente, en la forma señalada por este Código o por correo certificado, con acuse de recibo, a los particulares, cuando se trate de alguna de las siguientes resoluciones:
-
-a) Que admita o deseche la demanda.
-
-b) Que señale día para la audiencia.
-
-c) La que tenga por contestada la demanda, cuando se impugne una negativa ficta o el actor no conozca los fundamentos de la resolución sino hasta que se conteste la demanda. En este caso, se acompañará copia de la contestación a la resolución que se notifica.
-
-d) La de sobreseimiento y sentencia.
-
-e) La que manda citar a un tercero.
-
-f) El requerimiento de un acto a la parte que deba cumplirlo.
-
-g) En cualquier caso urgente, si así lo ordena el Tribunal.
-
-III.- Fuera de los casos señalados en la fracción anterior, las notificaciones se harán personalmente en el Supremo Tribunal de Justicia a los particulares, si se presentan dentro de las 24 horas siguientes a la en que se haya dictado la resolución y por lista autorizada que se fijará en sitio visible de dicho Tribunal, si no se presentan con oportunidad.
-
-La lista contendrá el nombre de la persona a quien se notifique, el expediente en que la notificación se haga y síntesis de la parte dispositiva de la resolución correspondiente. En los autos, se hará constar la fecha de la lista.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 243.
 
-La notificación surtirá sus efectos el día hábil siguiente al en que se haya hecho la notificación personal o entregado el oficio que contenga copia de la resolución que se notifica, o fijado la lista respectiva.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 244.
 
-Las notificaciones que no fueren hechas en la forma que establecen las disposiciones precedentes, serán nulas. Las partes perjudicadas podrán pedir se declare la nulidad a que se refiere este artículo, antes de notificarse cualquier resolución que ponga fin al negocio dictado en el expediente de que se trate. Declarada la nulidad se repondrá el procedimiento desde el punto en que se incurrió en la violación correspondiente.
-
-Este incidente que se considerará como de previo y especial pronunciamiento, se substanciará en una sola audiencia en la que se recibirán las pruebas de las partes, se oirán sus alegatos que no excederán de media hora por cada uno, pudiendo ser presentados y se dictará la resolución que fuere procedente. Si se declarara la nulidad de la notificación, se impondrá una multa de $500.00 al empleado responsable, quien será destituido de su cargo sin responsabilidad para el Estado en caso de reincidencia.
-
-Las promociones de nulidad notoriamente infundadas, se desecharán de plano.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 245.
 
-El cómputo de los términos se sujetarán a las reglas siguientes:
-
-I.- Empezará a correr desde el día siguiente al en que surta efectos la notificación; será improrrogable y se incluirán en ellos el día del vencimiento.
-
-II.- Se contarán por días naturales, excluyendo los inhábiles y aquellos en que se suspendan las labores del Tribunal.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ### CAPITULO IV. De la Demanda
 
 ###### ARTICULO 246.
 
-El juicio de oposición se interpondrá ante el Supremo Tribunal de Justicia del Estado. El escrito en que se interponga deberá presentarse o enviarse por correo certificado, dentro de los quince días hábiles siguientes al en que, conforme a las disposiciones aplicables, haya surtido efectos la notificación del acto o de la resolución que se impugna. Cuando el interesado haya sido notificado por edicto, el plazo para la interposición del juicio será de treinta días hábiles.
-
-En los casos de negativa ficta el interesado no está obligado a interponer el juicio de oposición dentro del término de quince días, pudiendo presentar la demanda en cualquier tiempo mientras no se dicte la resolución expresa.
-
-La autoridad que conozca del juicio de oposición, determinará de oficio si está correctamente acreditada la personalidad de las partes.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 247.
 
-El escrito con el que se interponga el juicio deberá contener los siguientes elementos:
-
-I.- Nombre y domicilio del actor, acreditando la personalidad del que promueva en su nombre, así como su domicilio para recibir notificaciones.
-
-II.- El nombre y domicilio del particular demandado, cuando el juicio sea promovido por la autoridad fiscal y los del tercer interesado, cuando lo haya.
-
-III.- Autoridad fiscal que emitió el acto impugnado.
-
-IV.- El documento o documentos en los que conste el acto, acuerdo o resolución impugnados.
-
-V.- Hechos y fundamentos legales en que se apoye el juicio.
-
-VI.- Las pruebas que se ofrezcan en el caso de que se ofrezca la prueba pericial, el actor deberá indicar el nombre de los peritos y acompañar, desde luego, los interrogatorios que éstos deban contestar.
-
-Toda promoción deberá ser firmada por quien la formule y sin este requisito, se tendrá por no presentada, a menos que el promovente no pueda o no sepa firmar, casos en los que se aplicará el derecho común.
-
-Ante el Supremo Tribunal de Justicia del Estado no procederá la gestión de negocios. Quien promueva a nombre de otro, deberá acreditar que la representación le fue otorgada, a más tardar, en la fecha de la presentación de la demanda.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 248.
 
-Si el escrito en el que se interponga el juicio fuere obscuro o irregular, o no llenare los requisitos del artículo anterior, el Supremo Tribunal de Justicia del Estado deberá prevenir al actor que lo aclare, corrija o complete, dentro del término de cinco días, de no hacerlo, se desechará de plano.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 249.
 
-El actor tendrá derecho a ampliar la demanda dentro de los cinco días siguientes en que surta efectos el acuerdo recaído a la contestación de la misma, cuando se demande una negativa ficta o cuando el actor no conozca los fundamentos de la resolución impugnada sino hasta que la demanda esté contestada. La ampliación de la demanda incluirá las pruebas que el actor considere necesario aportar.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 250.
 
-Al interponer el juicio de oposición, el promovente deberá garantizar el interés fiscal en cualquiera de las formas que determina este Código, debiendo suspenderse por este hecho la ejecución del acto, acuerdo o resolución impugnados hasta que se notifique la resolución del juicio. Si el promovente no garantiza el interés fiscal en la forma y términos establecidos por este ordenamiento, no se concederá suspensión alguna.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 251.
 
-De acuerdo por lo dispuesto por el artículo 95 de este Código, se presumirán válidos los actos y resoluciones de la autoridad administrativa no impugnadas de manera expresa en la demanda o aquellos respecto de los cuales, aunque impugnados, no se allegaren elementos de prueba bastantes para acreditar su ilegalidad.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ### CAPITULO V. De la Contestación
 
 ###### ARTICULO 252.
 
-Una vez admitida la demanda, el Supremo Tribunal de Justicia del Estado enviará copia simple de la misma a la autoridad señalada como responsable y le solicitará que rinda contestación o informe justificado, dentro del término de quince días hábiles, acompañando las pruebas y demás elementos que hayan servido de base para dictar la resolución recurrida.
-
-Cuando los demandados fueran varios, el término para contestar correrá individualmente.
-
-Si la autoridad señalada como responsable no contestara o no rindiera el informe justificado, se considerarán como ciertos, salvo prueba en contrario, los hechos contenidos en la demanda y se impondrán al funcionario o empleado respectivo una sanción de $1,000.00.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 253.
 
-También se presumirán ciertos, salvo prueba en contrario, los hechos que el actor impute de manera precisa al demandado; cuando no se produzca la contestación dentro del plazo a que alude esta ley. Cuando la contestación no se refiere concretamente a los hechos afirmados por el actor que sean propios del demandado y cuando sin causa justificada el demandado no exhiba la prueba que le haya sido requerida.
-
-Dentro del mismo plazo de quince días, el tercero interesado y el coadyuvante podrá apersonarse en el juicio mediante un escrito respecto al cual será aplicable lo dispuesto en el artículo siguiente.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 254.
 
-El demandado en su contestación expresará:
-
-I.- Las cuestiones de previo y especial pronunciamiento que proponga.
-
-II.- Las consideraciones que a su juicio impidan se emita decisión en cuanto al fondo, o demuestren que no ha nacido o se ha extinguido el derecho en que el actor apoya su demanda.
-
-III.- Se referirá concretamente a cada uno de los hechos que el actor le impute de manera expresa, afirmándolos, negándolos, expresando que los ignora por no ser propios o exponiendo cómo ocurrieron.
-
-IV.- Se referirá a cada uno de los conceptos de anulación hechos valer en la demanda, expresando las razones por las que los considera ineficaces.
-
-V.- Los fundamentos de derecho que considere aplicables para apoyar la validez del acto impugnado.
-
-VI.- Las pruebas que se propongan rendir, las que deberá relacionar con cada uno de los hechos controvertidos. Cuando se trate de pruebas periciales o testimoniales, indicará los nombres de los peritos o de los testigos y acompañará los interrogatorios para el desahogo. Sin el cumplimiento de estos requisitos, no se tendrán por ofrecidas.
-
-Se presentará con la contestación de la demanda el documento o documentos que el demandado ofrezca como pruebas, o indicará el archivo del lugar en que se encuentren para que se mande expedir copia de ellos o se requiera su remisión, cuando ésta sea legalmente posible. El demandado presentará copia de su contestación para cada una de las partes y su omisión dará lugar a que el Tribunal lo requiera para que exhiba las copias necesarias dentro del plazo de cinco días, apercibiéndole de que se tendrá por no contestada la demanda en caso de incumplimiento.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ### CAPITULO VI. De los Incidentes
 
 ###### ARTICULO 255.
 
-En los juicios que se tramiten ante el Supremo Tribunal de Justicia del Estado, sólo se admitirán como incidentes de previo y especial pronunciamiento, los relativos a la acumulación de autos, la nulidad de actuaciones y la recusación por causa de impedimento. Todas las demás cuestiones diversas a las mencionadas, se reservarán para la audiencia.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ### CAPITULO VII. De las Pruebas
 
 ###### ARTICULO 256.
 
-En los juicios que se tramiten ante el Supremo Tribunal de Justicia del Estado, serán admisibles toda clase de pruebas, excepto la de confesión de las autoridades y las que no hayan sido ofrecidas ante la autoridad demandada en el procedimiento administrativo, salvo que en éste no se le hubiere dado al actor la oportunidad razonable de hacerlo. No se considerará comprendida en esta prohibición, la petición de informes a las autoridades fiscales respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 257.
 
-Procede la acumulación, aunque las partes sean diversas y se invoquen distintas violaciones legales, cuando estén pendientes de resolución dos o más juicios iniciados contra el mismo acto o contra varios puntos decisorios de una misma resolución o contra autos que aunque diversos, sean unos antecedentes o consecuencias de los otros. También procederá la acumulación cuando las partes sean las mismas, y se invoquen idénticas violaciones legales.
-
-La acumulación se tramitará de oficio o a petición de parte, ante el Tribunal que conozca del juicio que se haya promovido primero, en una sola audiencia en la que se hará la relación de autos, se oirán los alegatos y se dicte la resolución que corresponda.
-
-Entre tanto se resuelve la acumulación, se suspenderá el procedimiento en los juicios respectivos.
-
-Decretada la acumulación, pasarán todos los autos al magistrado que conozca del asunto que se haya presentado primero.
-
-Cuando no pueda decretarse la acumulación, por haberse cerrado la instrucción en uno de los juicios o por encontrarse en diversas instancias, a petición de parte se decretará la suspensión del procedimiento en el juicio de oposición en trámite. La suspensión subsistirá hasta que se pronuncie la resolución definitiva en el otro negocio.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 258.
 
-El Supremo Tribunal de Justicia del Estado, tendrá facultad para calificar la idoneidad de las pruebas ofrecidas por las partes, respecto de los puntos controvertidos y desechará a aquellas que no tengan relación inmediata y directa con ellos, así como aquellas que sean inconducentes para formular la convicción del juzgador, respecto del contenido de la controversia.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 259.
 
-Cuando se presenten cuestiones de carácter técnico, el Supremo Tribunal de Justicia del Estado de oficio acordará que se rinda prueba pericial.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 260.
 
-La recepción de las pruebas se hará en la audiencia de acuerdo con las siguientes reglas y en lo no previsto se estará a lo dispuesto por el Código de Procedimientos Civiles del Estado:
-
-I.- Las posiciones se articularán precisamente en el acto de la audiencia y no se requerirá segunda citación para tener por confeso al absolvente que no concurra sin causa justificada.
-
-II.- La impugnación de los documentos podrá hacerse desde la contestación de la demanda hasta cinco días antes de la celebración de la audiencia.
-
-III.- La prueba pericial se rendirá en la audiencia. Los peritos dictaminarán por escrito u oralmente. Las partes y el Supremo Tribunal de Justicia del Estado les podrán formular las observaciones y hacerles las preguntas que estimen pertinentes en relación con los puntos sobre los que dictaminen. El Supremo Tribunal de Justicia del Estado podrá designar perito tercero si así lo considera conveniente. Los peritos deben tener título en la ciencia a que pertenece el negocio, sobre el que deberán opinar.
-
-IV.- No será impedimento desempeñar un empleo público para intervenir como testigo.
-
-V.- Para el examen de los testigos, se presentarán interrogatorios escritos, las preguntas tendrán relación directa con los puntos controvertidos y no serán contrarios al derecho o a la moral, deberán ser concebidos en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho.
-
-El Tribunal cuidará que se cumplan estas condiciones, rechazando preguntas que las contraríen.
-
-VI.- La protesta y examen de los testigos se harán en presencia de las partes.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 261.
 
-Las pruebas se desahogarán en el local que tenga para ese efecto el Supremo Tribunal de Justicia del Estado y ante el personal que conozca el juicio.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 262.
 
-La valorización de las pruebas se harán de acuerdo con las disposiciones del Código de Procedimientos Civiles del Estado, con las siguientes variantes:
-
-I.- El valor probatorio de los dictámenes periciales será calificado por el Tribunal según las circunstancias.
-
-II.- Cuando por el enlace de las pruebas rendidas y de las presunciones formadas, el Tribunal adquiera convicción distinta acerca de los hechos materia del litigio, podrá no sujetarse a los preceptos del Código mencionado, pero deberá fundar cuidadosamente esta parte de su sentencia.
-
-III.- El Tribunal podrá invocar los hechos notorios.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ### CAPITULO VIII. De la Audiencia y el Fallo
 
 ###### ARTICULO 263.
 
-Transcurridos diez días contados a partir del día siguiente de aquel en que fenezca el término para presentar la contestación de la demanda, se llevará a cabo la audiencia.
-
-El orden de la audiencia será el siguiente:
-
-I.- Se dará cuenta de las reclamaciones de las partes y de cualquier cuestión incidental, suscitada durante la tramitación del juicio; al efecto, se recibirán las pruebas y se escucharán los alegatos de las partes sobre el particular. Acto continuo, el Supremo Tribunal de Justicia del Estado pronunciará la resolución que proceda, ordenando en su caso, que se practiquen las diligencias omitidas.
-
-II.- Si la resolución de las reclamaciones o de los incidentes no trae como consecuencia el que deba suspenderse la audiencia, se leerán la demanda, la contestación y las demás constancias de autos.
-
-III.- Se estudiarán aún de oficio, los sobreseimientos que procedan, respecto de las cuestiones que impidan se emita una decisión, en cuanto al fondo y se dictará la resolución que corresponda.
-
-IV.- En su caso se recibirán las pruebas que hayan sido ofrecidas en relación a la validez o nulidad de la resolución o procedimiento impugnado.
-
-V.- Se oirán los alegatos del autor, de la parte demandada, del tercer interesado y del coadyuvante, que se pronunciarán en ese orden. Las partes podrán presentar sus alegatos por escrito. Cuando se formulen de palabra, no podrán exceder de quince minutos, para cada una de las partes, en única intervención.
-
-VI.- Las promociones que las partes formulen en las audiencias, así como sus oposiciones contra los acuerdos que en ellas se dicten, se resolverán de plano.
-
-Con excepción de los alegatos, se tomará versión taquigráfica de la audiencia, misma versión que se agregará a los autos, después de revisada, bajo la responsabilidad del Secretario del Supremo Tribunal de Justicia del Estado.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 264.
 
-La audiencia deberá suspenderse cuando no se hayan resuelto los incidentes de previo y especial pronunciamiento. También podrán suspenderse o prorrogarse de oficio o a solicitud de alguna de las partes, cuando exista motivo fundado a juicio del Supremo Tribunal de Justicia del Estado.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 265.
 
-Instruido el proceso y declarados vistos los autos, se dictará sentencia dentro de los quince días siguientes a la celebración de la audiencia.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 266.
 
-Las sentencias del Supremo Tribunal de Justicia del Estado se fundarán en derecho y examinarán todos y cada uno de los puntos controvertidos de la demanda y la contestación; en sus puntos resolutivos expresará con claridad los actos o procedimientos cuya nulidad se declare o cuya validez se reconozca. Causan ejecutoria las sentencias que no admitan recurso.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 267.
 
-Serán causa de anulación, de una resolución o de un procedimiento administrativo por:
-
-I.- Incompetencia del funcionario o empleado que haya dictado la resolución o que haya tramitado el procedimiento impugnado.
-
-II.- Omisión o incumplimiento de las formalidades que legalmente debe revestir la resolución, el acto, acuerdo o el procedimiento impugnado.
-
-III.- Violación de la disposición aplicada, o no haberse aplicado la disposición debida.
-
-IV.- Desvío de poder, tratándose de sanciones.
-
-V.- Las demás que resulten procedentes.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 268.
 
-La sentencia deberá contener:
-
-I.- La fijación clara y precisa del acto, acuerdo o resolución impugnados y la apreciación de las pruebas conducentes para tenerlos o no demostrados.
-
-II.- El examen de todos y cada uno de los puntos controvertidos, de la resolución, la demanda y la contestación.
-
-III.- Los fundamentos legales en que se apoyen para sobreseer el juicio o bien para declarar la legalidad, anulación o revocación del acto o resolución impugnados.
-
-IV.- Los puntos resolutivos concretándose en ellos, con claridad y precisión, los actos, acuerdos, resoluciones o procedimientos cuya nulidad se declare o cuya validez se reconozca.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 269.
 
-Cuando la resolución declare la nulidad del acto impugnado, indicará los términos conforme a los cuales la autoridad fiscal debe dictar nueva resolución.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 270.
 
-El Supremo Tribunal de Justicia del Estado, deberá dictar su resolución en el plazo que no excederá de sesenta días hábiles a partir de la fecha de recepción del escrito de demanda y podrá ampliar el plazo hasta un máximo de quince días hábiles adicionales, siempre que exista motivo fundado para ello.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 271.
 
-Las partes podrán formular excitativa de justicia ante el Supremo Tribunal de Justicia del Estado, en el caso de que no se formulen los proyectos interlocutorios o definitivos dentro de los plazos señalados en este Código.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ###### ARTICULO 272.
 
-Recibida la excitativa de justicia, el Presidente del Supremo Tribunal de Justicia del Estado determinará si se encuentra fundada dicha excitativa, otorgando un plazo que no excederá de cinco días hábiles para que se formule la resolución respectiva.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 1 DE MAYO DE 2000)
 
 ## TRANSITORIOS
 
@@ -2408,3 +2200,15 @@ Lic. Joaquín Cruz Ramírez.
 EL TESORERO GENERAL DEL ESTADO,
 
 C.P. Alfredo de Alba Olavarrieta.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 19 DE SEPTIEMBRE DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los cinco días del mes de enero del año 2000.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
