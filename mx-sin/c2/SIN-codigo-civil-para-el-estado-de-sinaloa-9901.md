@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "2003-08-01"
+last_updated: "2004-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -1157,19 +1157,13 @@ El marido y la mujer, mayores de edad, tienen capacidad para administrar, contra
 
 El marido y la mujer, menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
-
 ###### Artículo 174.
 
-Los cónyuges requieren autorización judicial para contratar entre ellos, excepto cuando el contrato sea el de mandato para pleitos y cobranzas o para actos de administración.
-
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+(DEROGADO, P.O. 23 DE FEBRERO DE 2004)
 
 ###### Artículo 175.
 
-También se requiere autorización judicial para que el cónyuge sea fiador de su consorte o se obligue solidariamente con él, en asuntos que sean de interés exclusivo de éste, salvo cuando se trate de otorgar caución para que el otro obtenga su libertad.
-
-La autorización en los casos a que se refieren éste y los dos atículos (sic) anteriores, no se concederá cuando resulten perjudicados los intereses de la familia o de uno de los cónyuges.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2004)
 
 ###### Artículo 176.
 
@@ -13947,7 +13941,7 @@ II.- Si el trabajo no pudiere ser hecho por otro, su cuota será igual a la del 
 
 III.- Si sólo hubiere un socio industrial y otro capitalista, se dividirán entre sí por partes iguales las ganancias;
 
-IV.- Si son varios los socios industriales y están en el caso de la fracción II, llevarán entre todos la mitad de las ganancias y la dividirán entre sí por convenio, y, a falta de éste, por decisión arbitral.
+IV.- Si son varios los socios industriales y están en el caso de la fracción II, llevarán entre todos la mitad de las ganancias y la dividirán entre sí por convenio, y, a falta de éste, por decisión (sic) arbitral.
 
 ###### Artículo 2615.
 
@@ -15964,6 +15958,12 @@ P.O. 5 DE DICIEMBRE DE 2001.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 1 DE AGOSTO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 23 DE FEBRERO DE 2004.
 
 ###### ARTÍCULO ÚNICO.
 
