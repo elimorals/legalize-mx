@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-tribunal-electoral-del-estado-de-18099"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-08"
-last_updated: "2001-12-19"
+last_updated: "2003-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 8 de noviembre de 2000.
 
@@ -227,6 +227,24 @@ Son atribuciones de los Magistrados propietarios las que señala el artículo 22
 
 En caso de reelección de algún magistrado por el Congreso Estatal, éste conservará el número de ponencia con el que se haya desempeñado.
 
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2003)</small>
+
+ARTÍCULO 21 BIS.- Para los efectos de la fracción IV del artículo 218 del código de la materia, los Magistrados solicitarán al Presidente de este Tribunal, proponga al pleno el nombramiento de Secretarios Instructores y Proyectistas, de acuerdo a las siguientes categorías:
+
+I.- Secretario Instructor “A” y Coordinador;
+
+II.- Secretario Instructor “A” y Notificador;
+
+III.- Secretario Instructor “B” y Notificador;
+
+IV.- Secretario Proyectista A” y Coordinador;
+
+V.- Secretario Proyectista “A” y Notificador;
+
+VI.- Secretario Proyectista “B” y Notificador.
+
+Dichos Secretarios se contratarán de conformidad al presupuesto que se asigne al Tribunal por el Congreso del Estado; en la inteligencia de que únicamente un secretario por ponencia, podrá ocupar la categoría de coordinador.
+
 ###### ARTÍCULO 22.
 
 Cuando se presente la hipótesis prevista en el segundo párrafo del artículo 212 del Código, el Pleno citará al Magistrado suplente que corresponda, para que se avoque al conocimiento del asunto motivo de la excusa.
@@ -293,39 +311,145 @@ Cuando haya cambio de Secretario General se dará a conocer del mismo a los Pode
 
 La Secretaría General formará un expediente por cada servidor público electoral con la siguiente documentación, según el caso: acta de nacimiento, CURP, título profesional y cédula, constancia de estudios correspondientes, Credencial de Elector, licencia para conducir vehículos, copia del nombramiento, licencias que se le concedan, acuerdos sobre sus remociones, quejas en su contra y todos los demás que se relacionen con el desempeño de su cargo.
 
-DE LOS SECRETARIOS INSTRUCTORES, DE LOS SECRETARIOS PROYECTISTAS Y DE LOS NOTIFICADORES
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE ENERO DE 2003)</small>
+
+DE LOS SECRETARIOS INSTRUCTORES, DE LOS SECRETARIOS PROYECTISTAS Y SUS CATEGORÍAS
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2003)</small>
 
 ###### ARTÍCULO 28.
 
-Los Secretarios Instructores y los Secretarios Proyectistas, deberán ser Ciudadanos preferentemente Morelenses, con Título de Licenciado en Derecho legalmente registrado y Cédula Profesional en Pleno ejercicio de sus derechos civiles y políticos.
+Los Secretarios Instructores “A” y Coordinadores, los Secretarios Instructores “A” y Notificadores, los Secretarios Instructores “B” y Notificadores, los Secretarios Proyectistas “A” y Coordinadores, los Secretarios Proyectistas “A” y Notificadores, y los Secretarios Proyectistas “B” y Notificadores, deberán ser Ciudadanos preferentemente Morelenses por nacimiento o residencia, con Título de Licenciado en Derecho legalmente registrado y Cédula Profesional en Pleno ejercicio de sus derechos civiles y políticos.
 
-Los Notificadores deberán reunir los mismos requisitos que los Secretarios Instructores y Proyectistas, a excepción del relativo al Título Profesional, pudiendo ser pasantes de la carrera de Licenciado en Derecho.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2003)</small>
 
 ###### ARTÍCULO 29.
 
-Son atribuciones de los Secretarios Instructores los que establece el Artículo 222 del Código Electoral, y las siguientes:
+Son atribuciones del Secretario Instructor “A” y Coordinador las que establece el Artículo 222 del Código Electoral, y las siguientes:
 
-I. Dar cuenta a los Magistrados Ponentes de los recursos y la correspondencia que les turne la Oficialía de Partes del Tribunal;
+I. Dar cuenta al Magistrado Ponente, de los recursos, promociones, peticiones y la correspondencia que le turne el Secretario General del Tribunal;
 
-II. Dictar los acuerdos que correspondan, los cuales deberán contener para su validez las firmas de los Magistrados de las ponencias, del Secretario Instructor y Secretario General del Tribunal;
+II. Dictar los acuerdos que corresponda, los cuales deberán contener para su validez las firmas del Magistrado de la ponencia, del Secretario Instructor que lo dicte, y del Secretario General del Tribunal;
 
-III. Desahogar las diligencias durante la sustanciación de los recursos y supervisar que se hagan en tiempo y forma las notificaciones correspondientes;
+III. Desahogar las diligencias durante la sustanciación de los recursos;
 
 IV. Cuidar que sean debidamente foliadas y selladas las fojas de los expedientes a su cargo;
 
 V. Asentar en los expedientes las razones y certificaciones que corresponda;
 
-VI. Desempeñar las tareas que les encomienden el Presidente, los Magistrados o el Secretario General, en el ámbito de su respectiva competencia; y
+VI. Desempeñar las tareas que le encomiende el Presidente, el Magistrado de su Ponencia o el Secretario General, en el ámbito de su respectiva competencia;
 
-VII. Las demás que le señale la Constitución, el Código y este Reglamento.
+VII. Coordinar las actividades de los demás Secretarios de la ponencia a la cual se encuentre adscrito, conforme a los lineamientos que le dicte el Magistrado Titular; y
+
+VIII. Las demás que le señale la Constitución, el Código y este Reglamento.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2003)</small>
+
+ARTÍCULO 29 BIS.- Son atribuciones del Secretario Instructor “A” y Notificador las que establece el Artículo 222 del Código Electoral, y las siguientes:
+
+I. Dar cuenta al Magistrado Ponente de los recursos, promociones, peticiones y la correspondencia que le turne el Secretario Coordinador en la Ponencia;
+
+II. Dictar los acuerdos que corresponda, los cuales deberán contener para su validez las firmas del Magistrado de la ponencia, del Secretario Instructor que lo dicte, y del Secretario General del Tribunal;
+
+III. Desahogar las diligencias durante la sustanciación de los recursos;
+
+IV. Cuidar que sean debidamente foliadas y selladas las fojas de los expedientes a su cargo;
+
+V. Asentar en los expedientes las razones y certificaciones que corresponda;
+
+VI. Desempeñar las tareas que le encomiende el Presidente, el Magistrado Ponente, el Secretario General o el Secretario Coordinador, en el ámbito de su respectiva competencia;
+
+VII.- Tener fe pública; respecto de las diligencias y notificaciones que practique en los expedientes de que conozca;
+
+VIII.- Notificar los acuerdos y resoluciones recaídos en los expedientes, que para tal efecto le sean turnados;
+
+IX. Llevar un registro diario de los expedientes o actuaciones que se le entreguen, debiendo recibirlos con su firma;
+
+X. Dar cuenta al Secretario General o al Secretario Coordinador correspondiente, de los pormenores que se presenten en las diligencias;
+
+XI. Practicar las diligencias y notificaciones correspondientes en los lugares designados por las partes y que obren en autos;
+
+XII. Llevar a cabo diligencias de su competencia fuera del Tribunal cuando se hubiere acordado;
+
+XIII. Asentar en el expediente las razones que procedan respecto a las notificaciones que realice;
+
+XIV. Solicitar en su caso, el auxilio de la fuerza pública; y,
+
+XV. Las demás que le señale la Constitución, el Código y este Reglamento.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2003)</small>
+
+ARTÍCULO 29 BIS A.- Son atribuciones del Secretario Instructor “B” y Notificador las que establece el Artículo 222 del Código Electoral, y las siguientes:
+
+I. Dar cuenta al Magistrado Ponente de los recursos, promociones, peticiones y la correspondencia que le turne el Coordinador en la Ponencia;
+
+II. Dictar los acuerdos que corresponda, los cuales deberán contener para su validez las firmas del Magistrado Ponente, del Secretario Instructor que lo dicte, y del Secretario General del Tribunal;
+
+III. Desahogar las diligencias durante la sustanciación de los recursos;
+
+IV. Cuidar que sean debidamente foliadas y selladas las fojas de los expedientes a su cargo;
+
+V. Asentar en los expedientes las razones y certificaciones que corresponda;
+
+VI. Desempeñar las tareas que le encomiende el Presidente, el Magistrado Ponente, el Secretario General o el Secretario Coordinador, en el ámbito de su respectiva competencia;
+
+VII. Tener fe pública; respecto de las diligencias y notificaciones que practiquen en los expedientes de que conozca;
+
+VIII. Notificar los acuerdos y resoluciones recaídos en los expedientes, que para tal efecto le sean turnados;
+
+IX. Llevar un registro diario de los expedientes o actuaciones que se le entreguen, debiendo recibirlos con su firma;
+
+X. Dar cuenta al Secretario General o al Secretario Coordinador correspondiente, de los pormenores que se presenten en las diligencias;
+
+XI. Practicar las diligencias y notificaciones correspondientes en los lugares designados por las partes y que obren en autos;
+
+XII. Llevar a cabo diligencias de su competencia fuera del Tribunal cuando se hubiere acordado;
+
+XIII. Asentar en el expediente las razones que procedan respecto a las notificaciones que realice;
+
+XIV. Solicitar en su caso, el auxilio de la fuerza pública; y,
+
+XV. Las demás que le señale la Constitución, el Código y este Reglamento.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2003)</small>
 
 ###### ARTÍCULO 30.
 
-Los Secretarios Proyectistas tendrán las atribuciones que le confiere el Artículo 223 del Código y las siguientes:
+El Secretario Proyectista “A” y Coordinador, tendrá las atribuciones que le confiere el Artículo 223 del Código y las siguientes:
 
-I. Desempeñar las funciones que les encomienden el Presidente, los Magistrados o el Secretario General en el ámbito de su respectiva competencia;
+I. Dar cuenta al Magistrado Ponente de los recursos, promociones, peticiones y la correspondencia que le turne el Secretario General del Tribunal;
 
-II. Las demás que le señale la Constitución, el Código y este Reglamento.
+II. Desempeñar las funciones que le encomiende el Pleno, el Presidente, el Magistrado Ponente o el Secretario General en el ámbito de su respectiva competencia;
+
+III. Tener fe pública; respecto de las diligencias y notificaciones que practique en los expedientes de que conozca;
+
+IV. Coordinar las actividades de los demás secretarios de la ponencia a la cual se encuentre adscrito, conforme a los lineamientos que le dicte el Magistrado Titular; y
+
+V. Las demás que le señale la Constitución, el Código y este Reglamento.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2003)</small>
+
+ARTÍCULO 30 BIS.- El Secretario Proyectista “A” y Notificador, tendrá las atribuciones que le confiere el Artículo 223 del Código y las siguientes:
+
+I. Desempeñar las funciones que le encomiende el Pleno, el Presidente, el Magistrado Ponente, el Secretario General o el Secretario Coordinador, en el ámbito de su respectiva competencia;
+
+II. Tener fe pública; respecto de las diligencias y notificaciones que practique en los expedientes de que conozca;
+
+III. Notificar los acuerdos y resoluciones recaídos en los expedientes, que para tal efecto le sean turnados;
+
+IV. Llevar un registro diario de los expedientes o actuaciones que se le entreguen, debiendo recibirlos con su firma;
+
+V. Dar cuenta al Secretario General o al Secretario Coordinador correspondiente, de los pormenores que se presenten en las diligencias;
+
+VI. Practicar las diligencias y notificaciones correspondientes en los lugares designados por las partes y que obren en autos;
+
+VII. Llevar a cabo diligencias de su competencia fuera del Tribunal cuando se hubiere acordado;
+
+VIII. Asentar en el expediente las razones que procedan respecto a las notificaciones que realice;
+
+IX. Solicitar en su caso, el auxilio de la fuerza pública; y
+
+X. Las demás que le señale la Constitución, el Código y este Reglamento.
 
 ###### ARTÍCULO 31.
 
@@ -753,13 +877,21 @@ SUSTANCIACIÓN DE RECURSOS
 
 INTEGRACIÓN DE EXPEDIENTES
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2003)</small>
+
 ###### ARTÍCULO 78.
 
-Recibido el recurso o promoción, el Secretario General, lo turnará al Secretario Instructor de la ponencia que corresponda, asignándole el número de toca respectivo. Para el control de los tocas se deberá contar con carátulas impresas que serán aprobadas por el Pleno.
+El turno de los recursos se sorteará uno o más días a la semana, procediéndose a su distribución mediante el sistema de insaculación que proponga el Magistrado Presidente del Tribunal, con asistencia de todos los Magistrados y constancia de la Secretaría General. La distribución, será equitativa.
 
-Agregará a la carátula el escrito inicial del Recurso y demás anexos, procederá a anotar el foliado y sellado del expediente hasta la última actuación.
+Podrá asistir en representación del Magistrado, un Secretario de su ponencia.
 
-Devolverá el expediente concluido al secretario General para su guarda y custodia en el archivo judicial.
+El primer sorteo respetará el orden de recepción de recursos por cada una de las ponencias y se le dará tracto sucesivo.
+
+Una vez realizada la insaculación referida, el Secretario General, asignará el número de toca respectivo, y turnará el recurso y sus anexos a la Ponencia que corresponda, de acuerdo al resultado de la insaculación.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2003)</small>
+
+ARTÍCULO 78 BIS.- Las promociones, peticiones y correspondencia presentadas ante la Oficialía de Partes del Tribunal, serán turnadas por el Secretario General al Secretario Instructor de la Ponencia a que correspondan.
 
 DE LA ADMISIÓN O DESECHAMIENTO DE LOS RECURSOS
 
@@ -955,6 +1087,202 @@ El Tribunal creará las comisiones necesarias, para la consecución de los fines
 
 La estructura, organización y funcionamiento de las comisiones se sujetarán al Reglamento que para el efecto se apruebe.
 
+> <small>(ADICIONADO CON LOS APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 22 DE ENERO DE 2003)</small>
+
+### CAPÍTULO VII. DEL PROCEDIMIENTO PARA DIRIMIR LOS CONFLICTOS Y DIFERENCIAS LABORALES DE LOS SERVIDORES DEL INSTITUTO ESTATAL ELECTORAL Y DEL TRIBUNAL ESTATAL ELECTORAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE ENERO DE 2003)</small>
+
+DE LAS REGLAS GENERALES
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 97.
+
+Las diferencias o conflictos entre el Instituto Estatal Electoral y sus servidores, así como los servidores del Tribunal Estatal Electoral; serán resueltas por el propio Tribunal Electoral de acuerdo a la atribución que le confiere el artículo 208 incisos e) y f) del Código Electoral vigente para el Estado de Morelos.
+
+Para la promoción, sustanciación y resolución del Juicio previsto en este Capítulo, se considerarán hábiles, en cualquier tiempo, todos los días del año, con exclusión de los sábados, domingos y días de descanso obligatorio.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 98.
+
+Para la resolución del presente juicio, siempre y cuando no se contrapongan a lo establecido en el Código Electoral para el Estado de Morelos y el presente Reglamento, se aplicarán en forma supletoria:
+
+I. La Ley del Servicio Civil;
+
+II. La Ley Federal del Trabajo;
+
+III. Las Leyes del Orden Común;
+
+IV. Los Principios Generales del Derecho; y
+
+V. La Equidad.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE ENERO DE 2003)</small>
+
+DEL TRÁMITE, LA SUSTANCIACIÓN Y LA RESOLUCIÓN
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 99.
+
+El servidor del Instituto Estatal Electoral o del Tribunal Estatal Electoral, que hubiese sido sancionado o destituido de su cargo o que considere haber sido afectado en sus derechos y prestaciones laborales, podrá inconformarse mediante demanda que presente ante el Tribunal Estatal Electoral, dentro del término de sesenta días naturales siguientes al que se le notifique la determinación del Instituto Estatal Electoral o del propio Tribunal, según sea el caso; organismos que estarán obligados a notificar al servidor de que se trate, de la determinación correspondiente, en términos del Código Electoral para el Estado de Morelos y del presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 100.
+
+El escrito de demanda por el que se inconforme el servidor, se presentará en original y una copia para la parte demandada, y deberá reunir los requisitos siguientes:
+
+I. Hacer constar el nombre completo del actor;
+
+II. Señalar domicilio para oír y recibir notificaciones, en el lugar del Juicio;
+
+III. Identificar el acto o resolución que se impugna y la autoridad responsable;
+
+IV. Manifestar las consideraciones de hecho y de derecho en que se funda la demanda;
+
+V. Ofrecer las pruebas en el escrito por el que se inconforme y acompañar las documentales; y
+
+VI. Asentar la firma autógrafa del promovente.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 101.
+
+Son partes en el procedimiento:
+
+I. El actor, que será el servidor afectado por el acto o resolución impugnado, que podrá actuar personalmente o por conducto de su representante legal;
+
+II. El Instituto Estatal Electoral; o,
+
+III. El Tribunal Estatal Electoral.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 102.
+
+Los juicios laborales previstos en este capítulo, serán improcedentes en los siguientes casos:
+
+I. Cuando se incumpla con alguno de los requisitos previstos en las fracciones I, III, IV, V, y VI del artículo 100 del presente reglamento;
+
+II. Cuando se pretenda impugnar actos o resoluciones que no afecten el interés jurídico del actor; que se hayan consumado de un modo irreparable; o bien que se hubiesen consentido expresamente, entendiéndose por éstos, las manifestaciones de voluntad que entrañen ese consentimiento.
+
+Cuando se actualice alguno de los supuestos a que se refieren las fracciones anteriores, se desechará de plano la demanda laboral de que se trate.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 103.
+
+Los juicios laborales previstos en este capítulo, serán sobreseídos cuando:
+
+I. El actor se desista expresamente por escrito de la demanda laboral interpuesta, debiendo ratificarlo en la diligencia que para tal efecto se señale;
+
+II. La autoridad responsable, modifique o revoque el acto o resolución en contra de los cuales se presente la demanda laboral, de tal manera que quede totalmente sin materia, antes de que se dicte la resolución o sentencia;
+
+III. Habiendo sido admitida la demanda laboral correspondiente, aparezca o sobrevenga alguna causal de improcedencia en los términos del presente reglamento; y, (sic)
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 104.
+
+Presentado el escrito a que se refiere el artículo 100 de este Reglamento, dentro de los tres días hábiles siguientes al de su admisión se emplazará corriendo traslado con copia de la demanda y según sea el caso:
+
+I. Al Instituto Estatal Electoral, cuando se trate de servidores de cualquier organismo pertenecientes a dicho Instituto;
+
+II. Al Tribunal Estatal Electoral, cuando se trate de servidores o trabajadores del propio Tribunal.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 105.
+
+El Instituto Estatal Electoral o el Tribunal Estatal Electoral, según sea el caso, deberá contestar la demanda dentro de un plazo de quince días hábiles contados a partir del día siguiente del emplazamiento; en caso contrario serán declarados en rebeldía.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE ENERO DE 2003)</small>
+
+DEL PROCEDIMIENTO
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 106.
+
+Una vez transcurrido el plazo a que se refiere el artículo 105, el Magistrado Ponente en turno, con asistencia del Secretario Instructor correspondiente, fijará la fecha para la celebración de la audiencia de conciliación, demanda y su contestación, admisión y desahogo de pruebas y alegatos; dentro de los treinta días hábiles siguientes.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 107.
+
+El Magistrado de la Ponencia en turno deberá excusarse del conocimiento del conflicto, cuando se trate de un actor que haya prestado sus servicios para esa ponencia. En este caso el asunto será del conocimiento de la ponencia que siga en turno.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 108.
+
+En la etapa de conciliación, las partes comparecerán personalmente; interviniendo el Magistrado Ponente, para la celebración de las pláticas y exhortación a las mismas para que procuren llegar a un arreglo conciliatorio.
+
+Si las partes llegan a un acuerdo, se dará por terminado el conflicto. El convenio respectivo, deberá ser aprobado por el Pleno del Tribunal Estatal Electoral y producirá los efectos jurídicos inherentes a una resolución. Si las partes no llegan a un acuerdo, se le tendrá por inconformes, pasando a la etapa de demanda y su contestación, admisión y desahogo de pruebas y alegatos.
+
+De no haber concurrido las partes a la conciliación, se les tendrá por inconformes en todo arreglo y deberán presentarse a la siguiente etapa.
+
+La etapa de demanda, admisión y desahogo de pruebas, y alegatos, se desarrollará conforme a las normas siguientes:
+
+El actor expondrá su demanda, ratificándola y precisando puntos petitorios; expuesta su demanda, la autoridad o autoridades electorales demandadas procederán a ratificar su contestación y ofrecerán las pruebas que consideren pertinentes; las partes podrán objetar las pruebas ofrecidas.
+
+Concluido lo anterior, el Magistrado Electoral, determinará la admisión de las pruebas que estime pertinentes, ordenando el desahogo de las que así lo requieran, fijando fecha para el mismo; desechando aquellas que resulten notoriamente inconducentes o contrarias al derecho o a la moral o que no tengan relación con la litis.
+
+Para el efecto del presente juicio laboral sólo podrán ser ofrecidos los medios de prueba siguientes:
+
+I. Documental pública;
+
+II. Documental privada;
+
+III. Testimonial;
+
+IV. Confesional;
+
+V. Pericial;
+
+VI. Presuncionales, legales y humanas; y, Instrumental (sic) de actuaciones.
+
+VII. Al concluir la audiencia a que se refiere este artículo, se otorgará a las partes un término de cinco días hábiles para formular alegatos por escrito.
+
+Una vez desahogadas las pruebas correspondientes y presentados los alegatos de las partes, se declarará el cierre de la instrucción y se turnará el expediente para los efectos del proyecto de resolución.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 109.
+
+De ofrecerse la prueba confesional a cargo de los integrantes del Consejo Estatal Electoral a que se refieren las fracciones I, II y III del artículo 81 del Código de la materia, o bien de los Magistrados integrantes del Pleno del Tribunal Estatal Electoral, solo será admitida si se trata de hechos propios controvertidos que no hayan sido reconocidos por el Instituto y que estén relacionados con la litis. Su desahogo se hará vía oficio y para ello el oferente de la prueba deberá presentar el pliego de posiciones correspondiente. Una vez calificadas de legales las posiciones, por el Magistrado Electoral, remitirá el pliego al absolvente, para que en término de cinco días hábiles lo conteste por escrito.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 110.
+
+Para la sustanciación y resolución del juicio previsto en el presente Título que se promueva durante los procesos electorales ordinarios, y en su caso, en los procesos de elecciones extraordinarias, el Presidente del Tribunal Estatal Electoral podrá adoptar las medidas que estime pertinentes, a fin de que se atienda prioritariamente la sustanciación y resolución de los Recursos previstos en el Código Electoral para el Estado de Morelos, pudiendo en su caso ordenar la suspensión del procedimiento.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 111.
+
+El Pleno del Tribunal Estatal Electoral resolverá en forma definitiva e inatacable, dentro de los diez días hábiles siguientes a la celebración de la audiencia a que se refiere el artículo 106 de este Reglamento. En su caso, el Pleno podrá sesionar en privado si la índole del conflicto planteado así lo amerita.
+
+La sentencia se notificará a las partes personalmente o por correo certificado si señalaron domicilio para tal efecto, en caso contrario se hará por estrados.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 112.
+
+Una vez notificada la sentencia, las partes podrán solicitar al Tribunal Estatal Electoral, dentro del término de tres días, la aclaración de la misma, para precisar o corregir algún punto.
+
+El Pleno del Tribunal dentro de un plazo igual resolverá lo conducente, pero por ningún motivo podrá modificar el sentido de la sentencia.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 113.
+
+Los efectos de la sentencia del Tribunal podrán ser en el sentido de confirmar, modificar o revocar el acto o resolución impugnados. En el supuesto de que la sentencia ordene dejar sin efectos la destitución del servidor del Instituto Estatal Electoral o del Tribunal Estatal Electoral, según sea el caso, éste podrá negarse a reinstalarlo, pagando la indemnización equivalente a tres meses de salario, más veinte días por cada año trabajado; y demás prestaciones a que tuviere derecho.
+
 T R A N S I T O R I O S (SIC)
 
 ###### ARTÍCULO ÚNICO.
@@ -986,3 +1314,7 @@ RÚBRICAS
 P.O. 19 DE DICIEMBRE DE 2001.
 
 LAS REFORMAS CON ANTELACION CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACION CON LA ENTRADA EN VIGOR DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 7 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MORELOS.
+
+P.O. 22 DE ENERO DE 2003.
+
+ÚNICO.- Las presentes reformas y adiciones al Reglamento Interno del Tribunal Electoral del Estado, entrarán en vigor, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
