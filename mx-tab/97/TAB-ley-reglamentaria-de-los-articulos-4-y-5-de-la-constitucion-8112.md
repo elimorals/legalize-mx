@@ -4,7 +4,7 @@ identifier: "TAB-ley-reglamentaria-de-los-articulos-4-y-5-de-la-constitucion-811
 country: "mx"
 rank: "ley"
 publication_date: "1967-02-25"
-last_updated: "1968-12-25"
+last_updated: "1974-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY REGLAMENTARIA DE LOS ARTICULOS 4o. Y 5o. DE LA CONSTITUCION FEDERAL, RELATIVA AL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 1974.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el 25 de febrero de 1967.
 
@@ -249,23 +249,25 @@ Son facultades y obligaciones de la Dirección General de Profesiones del Estado
 
 Se entiende por ejercicio profesional para los efectos de esta Ley, la realización habitual a título oneroso o gratuito de todo acto, o la prestación de cualquier servicio propio de cada profesión, aunque solo se trate de simple consulta o la ostentación del carácter del profesionista por medio de tarjetas, anuncios, placas, insignias o de cualquier otro modo. No se reputará ejercicio profesional cualquier acto realizado en los casos graves con propósito auxilio inmediato.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE JULIO DE 1974)</small>
+
 ###### Artículo 24.
 
-Para ejercer en el Estado de Tabasco, cualquiera de las profesiones técnico-científicas a que se refieren los artículos 2o. y 3o., se requiere:
+El Ejecutivo del Estado podrá celebrar un convenio de coordinación con el Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, para unificar el registro profesional entre esta Entidad y el Distrito y Territorios Federales, de acuerdo con las siguientes bases:
 
-I.- Ser mexicano por nacimiento o naturalización y estar en pleno goce y ejercicio de sus derechos civiles;
+I.- Instituir un solo servicio de registro de títulos profesionales y grados académicos para la expedición de cédulas personales con efectos de patente para el ejercicio profesional y de identidad en las actividades profesionales;
 
-II.- Poseer título legalmente expedido y debidamente registrado;
+II.- Reconocer para el ejercicio profesional en el Estado, la cédula expedida por la Secretaría de Educación Pública;
 
-III.- Obtener de la Dirección General de Profesiones, patente de ejercicio.
+III.- Intercambiar la información que se requiera; y
+
+IV.- Las demás que tiendan al debido cumplimiento del objeto del convenio.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE JULIO DE 1974)</small>
 
 ###### Artículo 25.
 
-Las autoridades judiciales; las que conozcan de asuntos contencioso-administrativos y Agencias y Delegaciones del Ministerio Público rechazarán la intervención en calidad de patronos o asesores técnicos del o los interesados, de persona que no tenga título profesional registrado.
-
-El mandato para asuntos judiciales o contencioso administrativo, general o especial, podrá otorgarse a cualquier persona; pero en el ejercicio del mismo, el apoderado está obligado a asesorarse de profesionistas en la materia con título debidamente registrado, en los términos de esta Ley.
-
-Se exceptúan los casos de los gestores en asuntos obreros, agrarios y cooperativos y en el caso de amparos en materia penal a que se refieren los artículos 26 y 27 de esta Ley.
+Para los efectos del artículo precedente el archivo del Departamento de Profesiones en esta Entidad, quedará bajo la dependencia, vigilancia y demás efectos, de la Secretaría de Asuntos Jurídicos y Sociales del Gobierno, facultándose para expedir y firmar las constancias necesarias, el C. Director de Asuntos Jurídicos de la propia dependencia.
 
 ###### Artículo 26.
 
@@ -686,3 +688,9 @@ Pag.
 P.O. 25 DE DICIEMBRE DE 1968.
 
 UNICO.- La reforma a que se refiere el presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE JULIO DE 1974.
+
+PRIMERO.- Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Mientras no se dé por terminado el Convenio que celebre el Ejecutivo del Estado con la Secretaría de Educación Pública, quedan derogadas las disposiciones de la Ley de Profesiones del Estado que se opongan al cumplimiento del presente Decreto.
