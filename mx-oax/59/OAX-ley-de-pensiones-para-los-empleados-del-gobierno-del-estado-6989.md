@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pensiones-para-los-empleados-del-gobierno-del-estado-698
 country: "mx"
 rank: "ley"
 publication_date: "1958-06-07"
-last_updated: "1984-01-07"
+last_updated: "1984-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PENSIONES PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1984.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el sábado 7 de junio de 1958.
 
@@ -275,9 +275,11 @@ IV.- Los deudos del trabajador o pensionista que fallezca a causa o consecuencia
 
 Si la muerte del trabajador no constituye riesgo profesional, por ser consecuencia de circunstancias comunes, sus deudos tendrán derecho al 50% de la pensión señalada en la fracción IV del artículo 56.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 36.
 
-Las pensiones se concederán a solicitud del trabajador, de sus deudos con derecho a pensión, de sus representantes legítimos o por determinación de la Oficina de Pensiones.
+Las pensiones se concederán a solicitud del trabajador, de sus deudos con derecho a pensión, de sus representantes legítimos, del Gobierno del Estado, o por determinación de la Oficina de Pensiones.
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
 
@@ -974,3 +976,9 @@ UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publ
 P.O. 7 DE ENERO DE 1984.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ENERO DE 1984.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
