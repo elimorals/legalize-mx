@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1999-04-09"
+last_updated: "1999-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 1999.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1205,11 +1205,19 @@ Lesiones en riña.- Si las lesiones fueren inferidas en riña, se disminuirán h
 
 Lesiones agravadas por razón del parentesco.- Al que dolosamente lesione a su ascendiente o descendiente consanguíneo en línea recta, a su hermano, cónyuge, concubino, concubina, adoptante o adoptado, con conocimiento de ese parentesco o relación, se le impondrá hasta una mitad más de la pena que corresponda a la lesión inferida.
 
-Si las lesiones son inferidas a un menor de dieciséis años o incapaz, sujeto a la patria potestad, tutela o custodia del autor, además de las penas que le correspondan por la lesión producida se privará al delincuente de esa potestad, tutela o custodia.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 1 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 143.
 
 Lesiones calificadas.- Cuando las lesiones sean calificadas, en términos del artículo 147, la pena correspondiente a las lesiones simples se aumentará en dos terceras partes.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1999)</small>
+
+###### Artículo 143
+
+BIS.- Lesiones contra Menores o Incapaces.- Al que dolosamente lesione a una persona menor de edad, incapaz y/o inimputable sujeto a su tutela, custodia, guarda-protección, educación, cuidado o instrucción, se le impondrá una pena de seis meses a dos años de prisión, si las lesiones inferidas son de las que no ponen en peligro la vida, cualquiera que sea el tiempo de su curación.
+
+Si las lesiones inferidas son de las señaladas en el Artículo 139, o de las que ponen en peligro la vida, la pena correspondiente a la lesión inferida aumentará en dos terceras partes, y se privará al agente del derecho de ejercer la patria potestad, la tutela, custodia, guarda-protección, educación, cuidado o instrucción de menores o incapaces y/o inimputables.
 
 ###### Artículo 144.
 
@@ -1224,6 +1232,8 @@ II.- Cuando se causen lesiones culposas, cualquiera que sea su naturaleza con mo
 Lesiones causadas por animal.- De las lesiones que a una persona cause algún animal será responsable el que con esa intención lo azuce, lo suelte o haga esto último por descuido.
 
 ### CAPITULO VIII. DELITOS DE PELIGRO PARA LA VIDA Y LA SALUD DE LAS PERSONAS
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 146.
 
@@ -1309,13 +1319,17 @@ El artículo anterior sólo tendrá aplicación cuando no pueda sancionarse el h
 
 ###### Artículo 157.
 
-Omisión de auxilio.- Al que omita prestar auxilio necesario a quien se encuentre desamparado y en peligro manifiesto en su persona, cuando pudiere hacerlo, según las circunstancias, sin riesgo propio ni de terceros, se le impondrá de seis meses a dos años de prisión y hasta cien días multa.
+Omisión de auxilio.- Al que omita prestar auxilio a un menor expósito o abandonado o incapaz que no pueda valerse por sí mismo, o a quien se encuentre herido, inválido o desamparado y en peligro manifiesto en su persona, cuando según las circunstancias pudiere hacerlo, sin riesgo propio ni de terceros, se le impondrá de seis meses a dos años de prisión y hasta cien días multa.
 
 La misma pena se impondrá a quien no estando en condiciones de prestar el auxilio, no diere aviso inmediato a la autoridad o no solicitare auxilio a quienes pudieren prestarlo.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 158.
 
-Omisión de cuidado.- Al que abandone a una persona incapaz de valerse por sí misma, teniendo la obligación de cuidarla, se le aplicará prisión de uno a tres años.
+Omisión de cuidado.- Al que abandone a una persona incapaz de valerse por sí misma, teniendo la obligación de cuidarla y con ello ponga en situación de peligro su integridad física y moral, se le aplicará prisión de uno a cuatro años, y se le privará del derecho de ejercer la patria potestad o tutela si el agente fuere ascendiente o tutor del ofendido.
+
+Si del abandono resultare algún otro delito, se aplicarán las reglas de la acumulación.
 
 ###### Artículo 159.
 
@@ -1977,11 +1991,13 @@ Tipo y punibilidad.- Al que para obtener un lucro obligue a otro, a realizar u o
 
 ### CAPITULO VII. VIOLENCIA INTRAFAMILIAR
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 242
 
-BIS.- Tipo y punibilidad.- Al que ejerza dolosamente de manera reiterada la fuerza física o moral, así como la omisión grave de cumplir con un deber, en contra de su cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, que habite en la misma casa-habitación, y que con ello quebrante el respeto, la dignidad, tranquilidad, seguridad y concordia intrafamiliar, imposibilitando o haciendo intolerable la convivencia familiar o les provoque trastornos psicoemocionales, se le impondrá de seis meses a seis años de prisión, multa por veinticuatro a trescientos días; sin perjuicio de la sanción que corresponda por la comisión de cualquier otro delito previsto por este Código, aplicándose para ello las reglas de concurso de delitos.
+BIS.- Tipo y punibilidad.- Al que ejerza dolosamente de manera reiterada la fuerza física o moral, así como la omisión grave de cumplir con un deber, en contra de su cónyuge, concubina o concubino, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral o afín hasta el cuarto grado, adoptante o adoptado, que habite en la misma casa-habitación, y que con ello quebrante el respeto, la dignidad, tranquilidad, seguridad y concordia intrafamiliar, imposibilitando o haciendo intolerable la convivencia familiar o les provoque trastornos psicoemocionales, se le impondrá de seis meses a seis años de prisión, multa por veinticuatro a trescientos días; y la privación del ejercicio de la patria potestad; sin perjuicio de la sanción que corresponda por la comisión de cualquier otro delito previsto por este Código aplicándose para ello las reglas de concurso de delitos.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 1998)</small>
 
 Así mismo se le podrá imponer las siguientes medidas de seguridad:
 
@@ -1991,11 +2007,19 @@ b) Otorgar caución de no ofender.
 
 c) Sujeción a tratamiento psicológico especializado.
 
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 1998)</small>
+
 Hay violencia cuando se emplea fuerza física, amenazas u omisión grave, que importen peligro de perder la vida, la honra, la libertad, la salud física o mental.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 1998)</small>
 
 Se quebranta el respeto, la dignidad, tranquilidad, seguridad y concordia intrafamiliar con los actos u omisiones que realice un miembro de la familia ejerciendo de manera reiterada la fuerza física o amenazas, así como la omisión grave, en contra de otro miembro de la misma, y que conforme a la educación, cultura, posición socio-económica en que se desenvuelve la familia imposibilite o haga intolerable la convivencia familiar.
 
-Para los efectos del presente delito, se entenderá por manera reiterada, la conducta de aquel sujeto que registre antecedentes policiales o penales por la comisión de dos o más actos de violencia física o psicológica en contra de otro miembro de la familia que habite en la misma casa.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
+
+Para los efectos de este delito, se entenderá por manera reiterada, la conducta de aquel sujeto que registre antecedentes penales o policiales por la comisión de dos o más actos de violencia física o psicológica en contra de algún miembro de la familia que habite en la misma casa.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 1998)</small>
 
 Este delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz.
 
@@ -2195,9 +2219,25 @@ Tipo y punibilidad del delito de incesto.- A los parientes consanguíneos, sean 
 
 ### CAPITULO I. CORRUPCION DE MENORES E INCAPACES
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
+
 ## TITULO SEGUNDO. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
 
 ### CAPITULO II. LENOCINIO
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
+
+###### Artículo 261
+
+BIS.- Pornografía Infantil.- Al que procure, facilite, induzca, propicie u obligue a menores de edad o incapaces a realizar actos de desnudo corporal con fines lascivos o sexuales, o de exhibirlos de cualquier forma, filmarlos, videograbarlos o fotografiarlos, con o sin ánimo de obtener un lucro, se le aplicará de cinco a doce años de prisión y de mil a dos mil días multa.
+
+Se impondrá la misma pena al que por cualquier medio elabore, reproduzca, venda, arriende, exponga, publicite, transmita, fije, grabe, imprima o distribuya anuncios, impresos, videos, películas o fotografías, con o sin ánimo de lucro, en cuyo contenido aparezcan menores de edad o incapaces realizando actos o desnudos con fines lascivos o sexuales.
+
+Se impondrá prisión de seis a catorce años y de dos mil a ocho mil días multa, a quien por si o a través de terceros, dirija, administre o supervise cualquier tipo de asociación delictuosa con el propósito de que se realicen las conductas previstas en los párrafos anteriores.
+
+En todos los casos previstos en este Artículo se decomisarán los objetos, instrumentos y productos de los delitos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 243.
 
@@ -2355,13 +2395,11 @@ Las mismas penas se aplicarán al que sin tener título o autorización para eje
 
 ###### Artículo 261.
 
-Tipo y punibilidad.- Al que procure o facilite la corrupción de una persona menor de dieciocho años de edad o de quien estuviere de hecho incapacitado por otra causa, mediante actos sexuales, o lo induzca a la práctica de la mendicidad, ebriedad, toxicómana o algún otro vicio, a formar parte de una asociación delictuosa o a cometer cualquier delito, se le aplicará de uno a cinco años de prisión y de veinte a cien días multa.
+Tipo y punibilidad.- Al que procure, facilite, induzca o propicie la corrupción de una persona menor de dieciocho años de edad o de quien estuviere de hecho incapacitado por otra causa, induciéndolo a la ebriedad o a vivir de la caridad pública sin justificación, se le aplicará de uno a cinco años de prisión y de veinte a cien días multa.
 
-Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor o incapaz y debido a ello éstos adquieran los hábitos del alcoholismo, uso de sustancias tóxicas u otros que produzcan efectos similares, se dediquen a la prostitución o a las prácticas homosexuales, o a formar parte de una asociación delictuosa, la pena de prisión será de cinco a diez años y de cien a cuatrocientos días multa.
+Cuando la conducta encaminada a corromper consista en la realización de actos de actos sexuales o a inducirlo a la práctica de la prostitución, uso de drogas señaladas en la Ley General de Salud, formar parte de una asociación delictuosa, o cometer algún delito, la pena será de cinco a diez años de prisión y de cien a cuatrocientos días multa.
 
-Si además de los delitos previstos en este capítulo resultase cometido otro, se aplicarán las reglas de la acumulación.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1999)</small>
 
 ### CAPITULO IV. ABUSO DE AUTORIDAD
 
@@ -2375,13 +2413,13 @@ A los padres o tutores que acepten que los menores sujetos a su patria potestad,
 
 Para los efectos de este precepto, se considerará que es empleado el menor de dieciocho años que preste sus servicios por un salario, por cualquier prestación o gratuitamente.
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 263.
 
-Agravación de la pena.- Las penas previstas en los artículos anteriores se duplicarán, cuando el delincuente sea ascendiente, padrastro o madrastra del menor, además se le privará de todo derecho a los bienes del ofendido y del ejercicio de la patria potestad de todos sus descendientes hasta por cinco años; o cuando el delito se cometa en centros educativos, de recreo, deportivos o en sus inmediaciones.
+Agravación de la pena.- Las penas previstas en los artículos anteriores se duplicarán, cuando el delincuente sea ascendiente, padrastro o madrastra del menor, además se le privará de todo derecho a los bienes del ofendido y del ejercicio de la patria potestad de todos sus descendientes, hasta por cinco años; o cuando el delito se cometa en centros educativos, de recreo, deportivos o en sus inmediaciones.
 
-Si se emplease violencia en la comisión de los delitos previstos en este capítulo, o el agente se valiese de la función pública que desempeñe o ejerza una profesión, oficio o cargo aprovechando los medios o circunstancias que ello le proporciona, la pena se agravará en una mitad más.
+Si se emplease violencia en la comisión de los delitos previstos en este capítulo, o el agente se valiese de la función pública que desempeñe o ejerza una profesión, oficio o cargo y aprovechando los medios o circunstancias que ello le proporciona, la pena se agravará en una mitad más; y se les destituirá del empleo, cargo o comisión pública y se le inhabilitará para ocupar o ejercer otro similar, según sea el caso, o se le suspenderá en el ejercicio de la profesión.
 
 ### CAPITULO VI. COHECHO
 
@@ -2393,27 +2431,31 @@ Inhabilitación.- Los delincuentes de que se trata en este capítulo serán adem
 
 Punibilidad.- El lenocinio se sancionará con prisión de uno a diez años y de cien a quinientos días multa.
 
+Cuando el sujeto pasivo del delito sea menor de edad, incapaz y o inimputable, se sancionará con prisión de siete a doce años y de trescientos a setecientos días multa.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 266.
 
-Tipo.- Comete el delito de lenocinio:
+Tipo.- Comete el delito de Lenocinio:
 
 I.- Toda persona que habitual o accidentalmente explote el cuerpo de otra por medio del comercio carnal, se mantenga de este comercio u obtenga de él un lucro cualquiera;
 
-II.- El que induzca o solicite a una persona para que con otra comercie sexualmente con su cuerpo o le facilite los medios para que se entregue a la prostitución; y
+II.- El que induzca o solicite a una persona para que con otra comercie sexualmente con su cuerpo o le facilite los medios para que entregue a la prostitución;
 
-III.- Al que regentee, administre o sostenga directa o indirectamente prostíbulos, casas de cita o lugares de concurrencia expresamente dedicados a explotar la prostitución u obtenga cualquier beneficio con sus productos.
+III.- Al que regentee, administre o sostenga directa o indirectamente prostíbulos, casas de cita o lugares de concurrencia expresamente dedicados a explotar la prostitución u obtenga cualquier beneficio con sus productos; y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
+IV.- El que promueva, publicite, invite, facilite o propicie por cualquier medio para que una persona o personas tengan relaciones o actos sexuales con menores de edad, incapaces y/o inimputables.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
 
 ### CAPITULO VII. PECULADO
 
 ###### Artículo 267.
 
-Agravación de la pena.- Se aplicará una pena de cinco años a diez años de prisión, y multa de doscientos a quinientos días, cuando el sujeto pasivo del delito sea menor de edad, la misma pena se aplicará también cuando el delito se cometa en centros educativos, de recreo, deportivos o en sus inmediaciones o cuando el delito se cometa al trasladarse el sujeto pasivo directamente de su domicilio a los lugares señalados anteriormente o de estos a aquel, según sea el caso.
+Agravación de la pena.- Cuando el delito se cometa en centros educativos, de recreo, deportivos o en sus inmediaciones o cuando se cometa al trasladarse el sujeto pasivo directamente de su domicilio a los lugares señalados anteriormente o de estos a aquel, según sea el caso, la pena se agravará en una tercera parte más a la que corresponda al delito cometido.
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 1997)</small>
-
-Si se emplease violencia en la comisión del delito previsto en este capítulo, o el agente se valiese de la función pública que desempeñe o ejerza una profesión, oficio o cargo aprovechando los medios o circunstancias que ello le proporciona, la pena se agravará en una mitad más.
+Si se emplease violencia en la comisión del delito previsto en este capítulo, o el agente se valiese de la función pública que desempeñe o ejerza una profesión, oficio o cargo y aproveche los medios o circunstancias que ello le proporciona, la pena se agravará en una mitad más; y se le destituirá del empleo, cargo o comisión pública y se le inhabilitará para ocupar o ejercer otro similar, según sea el caso, o se le suspenderá en el ejercicio de la profesión.
 
 ###### Artículo 268.
 
@@ -3440,3 +3482,7 @@ P.O. 9 DE ABRIL DE 1999.
 PRIMERO.- Las presentes adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para los efectos de dar cumplimiento al artículo 208-quarter, se otorga al Poder Ejecutivo del Estado, un plazo no mayor de treinta días hábiles, a partir de la entrada en vigor del presente, para que remita a este H. Congreso del Estado, Iniciativa de Decreto que adicione en la Ley Orgánica de la Procuraduría General de Justicia, la facultad de expedir constancias de no existencia de reporte o denuncia de robo de vehículo de motor.
+
+P.O. 1 DE OCTUBRE DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
