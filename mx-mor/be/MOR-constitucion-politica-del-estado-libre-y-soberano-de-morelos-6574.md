@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1980-11-26"
+last_updated: "1983-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 1983.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -368,31 +368,25 @@ El Congreso no puede abrir sus Sesiones sin la concurrencia de más de la mitad 
 
 Transcurrido el plazo anterior sin que se hubieren presentado, se llamará al desempeño de la función, a los suplentes respectivos y si tampoco se presentaren dentro de un plazo de diez días, se convocará a elecciones, en los Distrito (sic) de que se trate.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1983)</small>
 
 ###### Artículo 32.
 
-El Congreso tendrá cada año, dos períodos de Sesiones ordinarias. El primero se iniciará el cuatro de mayo y terminará el 31 de agosto. El segundo empezará el 5 de octubre y concluirá el 31 de diciembre.
+El Congreso tendrá cada año, dos Períodos de Sesiones Ordinarias, el primero se iniciará el 17 de abril y terminará el 14 de agosto, el segundo empezará el 5 de octubre y concluirá el 31 de diciembre.
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 1979)</small>
+En el primer período de sesiones el Congreso se ocupará invariablemente del examen, discusión y aprobación de la Cuenta Pública del año anterior, tanto del Estado como de los Municipios. Para este efecto, el Estado o los Municipios, presentarán al Congreso dentro de los primeros quince días del mes de marzo de cada año, la cuenta correspondiente al año anterior.
 
-En el primer período de sesiones el Congreso se ocupará invariablemente del exámen, discusión y aprobación de la cuenta pública del año anterior, tanto del Estado como de los Municipios. Para este efecto, el Estado o los Municipios, presentarán al Congreso dentro de los primeros quince días del mes de marzo de cada año, la cuenta correspondiente al año anterior.
+Para el estudio y aprobación en su caso, los proyectos de Leyes de Ingresos y Presupuesto de Egresos del Estado deberán presentarse a más tardar el día último del mes de octubre de cada año.
 
-En el segundo período se ocupará, preferentemente, del examen discusión y aprobación de los presupuestos de egresos del Estado y de los Municipios, así como de las correspondientes leyes de ingresos, decretando las contribuciones y percepciones necesarias para cubrir aquellos. Para su estudio y aprobación, en su caso, las leyes de ingresos y presupuestos de egresos del Estado y de los Municipios deberán presentarse a más tardar el día último del mes de octubre de cada año.
+El Congreso del Estado podrá citar a los Secretarios de despacho que corresponda, a los Presidentes Municipales, Regidores de Hacienda y Tesoreros en su caso para que informen o expliquen el contenido y alcance de los proyectos de Ley de Ingresos y Presupuestos de Egresos respectivos. Asimismo, cuando pidan ampliación del término de presentación de dichos proyectos expresarán las razones de su solicitud. Cuando se trate de los proyectos de Ley de Ingresos y Presupuesto de Egresos del Estado, la solicitud de ampliación del término de presentación al Congreso la formulará el Jefe del Ejecutivo.
 
-Los Secretarios de Finanzas y de Programación y Presupuesto y los Regidores de Hacienda correspondientes, comparecerán al Congreso a dar cuenta de los mismos.
+Lo anterior se entiende, sin perjuicio de que el Congreso en ambos períodos desarrolle su actividad legislativa general y se ocupe de los demás asuntos que le competen conforme a esta Constitución.
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 1979)</small>
-
-Los plazos de presentación de las leyes de ingresos, presupuestos de egresos y cuentas públicas a que se refiere este Artículo, sólo podrán ampliarse a solicitud del Ejecutivo o de los Presidentes Municipales, por causas plenamente justificadas a juicio del Congreso o de la Comisión Permanente, pero será obligación de los Secretarios de Finanzas y de Programación y Presupuesto o de los Regidores de Hacienda de los Municipios respectivamente, comparecer ante el Congreso, para informar las razones que los motiven.
-
-Lo anterior se entiende, sin perjuicio de que el Congreso, en ambos períodos desarrolle su actividad legislativa general y se ocupe de los demás asuntos que le compete conforme a esta Constitución.
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1983)</small>
 
 ###### Artículo 33.
 
-A la apertura de ambos períodos de sesiones del Congreso concurrirá el Gobernador del Estado. En el primero rendirá informe acerca de la situación que guarden los diversos Ramos de la Administración Pública, excepto el último año de su gestión en que lo hará el día 15 de mayo. El Presidente del Congreso contestará el informe en términos generales.
+A la Apertura de ambos períodos de sesiones del Congreso concurrirá el Gobernador del Estado. El 17 de abril que es la apertura del primer período ordinario de sesiones rendirá informe acerca de la situación que guardan los diversos ramos de la Administración Pública. El Presidente del Congreso contestará el Informe en términos generales.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -1030,9 +1024,7 @@ I.- Ser ciudadano Morelense por nacimiento o ciudadano mexicano por nacimeinto, 
 
 II.- Ser mayor de 25 años de edad y,
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
-
-III.- Tener la preparación necesaria a juicio del Gobernador del Estado, para el desempeño de su cargo.
+(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)III.- Tener la preparación necesaria a juicio del Gobernador del Estado, para el desempeño de su cargo.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -1859,3 +1851,15 @@ Artículo Tercero.- Remítase el presente Decreto al Ejecutivo del Estado, para 
 P.O. 26 DE NOVIEMBRE DE 1980.
 
 UNICO.- Remítase al Ejecutivo del Estado, para los efectos de la fracción XVII del Artículo 70 de la Constitución Política Local.
+
+P.O. 4 DE MAYO DE 1983.
+
+Primero.- Las presentes reformas y adiciones a la Constitución Política del Estado de Morelos, entrarán en vigor el día primero de enero de mil novecientos ochenta y cuatro.
+
+Segundo.- Este año por única vez, el Gobernador Constitucional del Estado rendirá el informe a que se refiere el Artículo 33 Constitucional el día 3 de junio, en lugar del 4 de mayo.
+
+Tercero.- Salvo lo dispuesto en el Artículo primero transitorio, las reformas y adiciones a la Constitución Política del Estado entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Cuarto.- Una vez aprobado el presente Decreto de reformas y adiciones a la Constitución Política del Estado, envíese a los Ayuntamientos para los efectos constitucionales de los Artículos 147 y 148 de la propia Constitución.
+
+Quinto.- Remítase al Ejecutivo del Estado, para los efectos de la Fracción XVII del Artículo 70 de la Constitución Política Local.
