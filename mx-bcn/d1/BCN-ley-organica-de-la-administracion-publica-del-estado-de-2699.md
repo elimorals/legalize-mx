@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "1992-02-29"
+last_updated: "1992-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE FEBRERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 1992.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -143,7 +143,7 @@ II.- Procuraduría General de Justicia;
 
 III.- Secretaría de Finanzas;
 
-IV.- Secretaría de la Contraloría General;
+IV.- (DEROGADA, P.O. 10 DE OCTUBRE DE 1992)
 
 V.- Secretaría de Planeación y Presupuesto;
 
@@ -431,45 +431,7 @@ DE LA COMPETENCIA DE LA SECRETARIA DE LA CONTRALORIA GENERAL.
 
 ###### ARTICULO 25.
 
-A la Secretaría de la Contraloría General corresponde:
-
-I.- Planear, organizar y coordinar el sistema de control y evaluación gubernamental, así como inspeccionar el ejercicio del gasto de la Administración Pública Estatal y su congruencia con los Presupuestos de Egresos;
-
-II.- Expedir las normas que regulen el funcionamiento de los instrumentos y procedimientos de control de la Administración Pública Estatal. La Secretaría de la Contraloría General, discrecionalmente, podrá requerir de las Dependencias competentes, la instrumentación de normas complementarias para el ejercicio de facultades que aseguren el control;
-
-III.- Vigilar el cumplimiento de las normas de control y fiscalización, así como asesorar y apoyar a los órganos de control interno de las Dependencias y Entidades de la Administración Pública del Estado;
-
-IV.- Establecer las bases generales para la realización de auditorías en las Dependencias y Entidades de la Administración Pública del Estado, así como realizar las auditorías que se requieran a las Dependencias y Entidades en sustitución o apoyo de sus propios órganos de control;
-
-V.- Comprobar el cumplimiento, por parte de las Dependencias y Entidades de la Administración Pública Estatal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado de las mismas;
-
-VI.- Realizar, por sí o a solicitud de la Secretaría de Finanzas, Secretaría de Planeación y Presupuesto o de la Coordinadora del Sector correspondiente, auditorías y evaluaciones a las Dependencias y Entidades de la Administración Pública Estatal, con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas;
-
-VII.- Inspeccionar y vigilar directamente o a través de los órganos de control, que las Dependencias y Entidades de la Administración Pública Estatal cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Estatal;
-
-VIII.- Opinar, previamente a su expedición, sobre los proyectos de normas de contabilidad y de control en materia de programación, presupuestación, administración de recursos humanos, materiales y financieros que elabore, así como sobre los proyectos de normas en materia de contratación de deuda y manejo de fondos y valores que formule la Secretaría de Finanzas;
-
-IX.- Designar a los Auditores Externos de las Entidades y normar y controlar su actividad;
-
-X.- Proponer la designación de Comisarios o sus equivalentes en los órganos de vigilancia en los Consejos o Juntas de Gobierno y Administración de las Entidades de la Administración Pública Paraestatal;
-
-XI.- Opinar sobre el nombramiento y en su caso, solicitar la remoción de los Titulares de las áreas de control interno de las Dependencias y Entidades. Tanto en este caso, como en las de las dos Fracciones anteriores, las personas propuestas o designadas deberán reunir los requisitos que establezca la Secretaría de la Contraloría General;
-
-XII.- Dar a conocer oportunamente a la Contaduría Mayor de Hacienda del Congreso del Estado, los programas mínimos de auditoría interna que fije para las Entidades, en cumplimiento del Artículo 33 de la Ley Orgánica de la propia Contaduría Mayor de Hacienda, así como establecer y mantener coordinación, intercambiar información y documentación con la misma, sobre las normas, procedimientos y sistemas de contabilidad y los procedimientos de archivo contable de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público;
-
-XIII.- Informar, anualmente al Titular del Ejecutivo Estatal, sobre el resultado de la evaluación de las Dependencias y Entidades de la Administración Pública Estatal que hayan sido objeto de fiscalización e informar a las Autoridades competentes, si así fuere requerida, el resultado de tales intervenciones;
-
-XIV.- Recibir y registrar las declaraciones patrimoniales que deban presentar los servidores de la Administración Pública Estatal y verificar y practicar las investigaciones que fueren pertinentes de acuerdo con las Leyes y Reglamentos;
-
-XV.- Atender las quejas que presenten los particulares con motivo de Acuerdos, Convenios o Contratos que celebren con las Dependencias y Entidades de la Administración Pública Estatal, de acuerdo con las normas que se emitan;
-
-XVI.- Conocer e investigar los actos, omisiones o conductas de los servidores públicos para constituir responsabilidades administrativas, aplicar las sanciones que correspondan en los términos que las Leyes señalen, y en su caso, hacer las denuncias correspondientes ante el Ministerio Público, prestándole para tal efecto la colaboración que le fuere requerida;
-
-XVII.- Recibir de la Contaduría Mayor de Hacienda del Congreso del Estado, los informes sobre las irregularidades en los procedimientos y sistemas de contabilidad que localice al revisar la Cuenta Pública, para dictar las medidas que correspondan, en coordinación con la Secretaría de Finanzas y con la Secretaría de Planeación y Presupuesto;
-
-XVIII.- Vigilar el cumplimiento de las normas internas de la Secretaría, constituir las responsabilidades administrativas de su personal, aplicándole las sanciones que correspondan y hacer al efecto las denuncias a que hubiere lugar, y
-
-XIX.- Las demás que le encomienden expresamente las Leyes y reglamentos.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 1992)
 
 ### CAPITULO VII
 
@@ -481,7 +443,9 @@ A la Secretaría de Planeación y Presupuesto corresponde la atención y trámit
 
 I.- Orientar a las Dependencias y Entidades del Poder Ejecutivo, para que sus programas y acciones concurran al cumplimiento de los objetivos y metas contenidos en el Plan Estatal de Desarrollo;
 
-II.- Establecer y mantener, en coordinación con la Secretaría de Finanzas, el sistema de presupuesto por programas en las Dependencias y Entidades de la Administración Pública Estatal, así como el ejercicio, seguimiento y evaluación presupuestal;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+II.- Establecer y mantener, en coordinación con la Secretaría de Finanzas, el sistema de presupuesto por programas en las Dependencias y Entidades de la Administración Pública Estatal, así como el seguimiento y evaluación presupuestal;
 
 III.- Coordinar el proceso de elaboración del Anteproyecto de Presupuesto Anual de Egresos y presentarlo a la consideración del Gobernador del Estado;
 
@@ -499,45 +463,117 @@ IX.- Orientar, a solicitud de los Ayuntamientos, en materia de planeación, prog
 
 X.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+XI.- Planear, organizar y coordinar el sistema de control y evaluación gubernamental de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+XII.- Expedir las normas que regulen el funcionamiento de los instrumentos y procedimientos de control de la Administración Pública Estatal, y en su caso requerir de las dependencias competentes, la instrumentación de normas complementarias para el ejercicio de facultades que aseguren el control;
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+XIII.- Vigilar el cumplimiento de las normas de control y fiscalización, así como asesorar y apoyar a los órganos de control interno de las dependencias y entidades de la Administración Pública del Estado;
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+XIV.- Establecer las bases generales para la realización de auditorías en las dependencias y entidades de la Administración Pública del Estado, así como realizar las auditorías que se requieran a las dependencias y entidades en sustitución o apoyo de sus propios órganos de control;
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+XV.- Comprobar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Estatal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado de las mismas;
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+XVI.- Realizar, por sí o a solicitud de la Secretaría de Finanzas, Oficialía Mayor de Gobierno o de la Coordinadora del sector correspondiente, auditorías y evaluaciones a las dependencias y entidades, con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas;
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+XVII.- Inspeccionar y vigilar directamente o a través de los órganos de control que las dependencias y entidades cumplan con las normas y disposiciones en materia de: registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Estatal.
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+XVIII.- Establecer los requisitos para la designación de los comisarios o sus equivalentes en los órganos de vigilancia de los Consejos o Juntas de Gobierno y Administración de las Entidades de la Administración pública paraestatal, y en su caso, solicitar la remoción de éstos;
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+XIX.- Establecer y mantener coordinación, e intercambiar información y documentación con la Contaduría Mayor de Hacienda del Congreso del Estado, sobre las normas, procedimientos y sistemas de contabilidad y sobre los procedimientos de archivo contable de los libros o documentos justificativos y comprobatorios del ingreso y del gasto público.
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+XX.- Recibir y registrar las declaraciones patrimoniales que deban presentar los Servidores de la Administración Pública Estatal y verificar y practicar las investigaciones que fueren pertinentes de acuerdo con la (sic) leyes y reglamentos;
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+XXI.- Atender las quejas que presenten los particulares con motivo de acuerdos, convenios o contratos que celebren con las dependencias y entidades de la Administración Pública Estatal, de acuerdo con las normas que se emitan;
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+XXII.- Conocer e investigar los actos, omisiones o conductas de los Servidores Públicos para constituir responsabilidades administrativas, aplicar las sanciones que correspondan en los términos que las leyes señalen, y en su caso, hacer las denuncias correspondientes ante el Ministerio Público, presentándole para tal efecto la colaboración que le fuere requerida;
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+XXIII.- Recibir de la Contaduría Mayor de Hacienda del Congreso del Estado, los informes sobre las irregularidades en los procedimientos y sistemas de contabilidad que localice al revisar la Cuenta Pública, para dictar las medidas que correspondan, en coordinación con la Secretaría de Finanzas;
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+XXIV.- Las demás que le encomienden expresamente las leyes y reglamentos.
+
 ### CAPITULO VIII
 
 DE LA COMPETENCIA DE LA SECRETARIA DE ASENTAMIENTOS HUMANOS Y OBRAS PUBLICAS.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 1992)</small>
+
 ###### ARTICULO 27.
 
-A la Secretaría de Asentamientos Humanos y Obras Públicas le corresponde la atención y trámite de los siguientes asuntos:
+A la Secretaría de Asentamientos Humanos y Obras Públicas le corresponden la atención y trámite de los siguientes asuntos:
 
-I.- Coordinar la ejecución de los programas referentes a asentamientos humanos, urbanismo, vivienda, obras públicas y ecología, de acuerdo a los objetivos y metas que establezca el Plan Estatal de Desarrollo y el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1992)</small>
 
-II.- Cumplir y hacer cumplir las normas y lineamientos para la constitución y manejo de reservas territoriales y la regulación del suelo urbano previniendo en su caso, las necesidades para vivienda, desarrollo urbano e industria;
+I.- Coordinar la ejecución de los programas referentes a asentamientos humanos, vivienda, obras públicas, de acuerdo a los objetivos y metas que establezca el Plan Estatal de Desarrollo y el Gobernador del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+II.- Cumplir y hacer cumplir las normas y lineamientos para la Constitución de reservas territoriales, previendo en su caso, las necesidades para vivienda, desarrollo urbano e industria;
 
 III.- Elaborar los Anteproyectos de Decretos de Expropiación, ocupación temporal y limitación de dominio en los casos de utilidad pública y promoverlos para su aprobación y posterior promulgación ante la Secretaría General de Gobierno;
 
-IV.- Coordinar los programas de orientación territorial de los centros de población;
+IV.- (DEROGADA, P.O. 10 DE OCTUBRE DE 1992)
 
-V.- Vigilar el cumplimiento de las Disposiciones Legales en materia de construcción y de asentamientos humanos;
+V.- (DEROGADA, P.O. 10 DE OCTUBRE DE 1992)
 
-VI.- Promover el desarrollo urbano de las comunidades y fomentar la organización de sociedades cooperativas de vivienda y de materiales de construcción;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+VI.- Promover el desarrollo urbano de las comunidades rurales y fomentar la organización de sociedades cooperativas de vivienda y de materiales de construcción;
 
 VII.- Promover, de acuerdo a los objetivos del Plan Estatal de Desarrollo, la creación y desarrollo de Fraccionamientos Populares;
 
-VIII.- Diseñar y vigilar la aplicación de normas técnicas para aprobar o, en su caso realizar la construcción de las Obras Públicas que ejecute el Gobierno del Estado por sí o en cooperación con la Federación, los Ayuntamientos o los particulares;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+VIII.- Diseñar y vigilar la aplicación de normas técnicas para la construcción de las obras públicas que ejecute el Gobierno del Estado por sí o en cooperación con la Federación, los Ayuntamientos o los particulares;
 
 IX.- Conservar las plazas, paseos, parques y edificios públicos a cargo del Gobierno del Estado, con excepción de los encomendados expresamente a otras Dependencias u Organos creados para tal fin;
 
-X.- Proponer en el seno del Comité de Planeación para el Desarrollo del Estado, programas de concertación de los sectores social y privado en materia de asentamientos humanos, desarrollo urbano, vivienda y ecología;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1992)</small>
 
-XI.- Organizar y fomentar las investigaciones relacionadas con la vivienda, desarrollo urbano, obras públicas y ecología;
+X.- Promover en el seno del Comité de Planeación para el Desarrollo del Estado, programas de concertación de los sectores social y privado en materia de asentamientos humanos, desarrollo urbano y vivienda;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+XI.- Organizar y fomentar las investigaciones relacionadas con la vivienda, desarrollo urbano y obras públicas;
 
 XII.- Promover programas de producción y suministro de materiales para la vivienda;
 
-XIII.- Auxiliar a las Autoridades Federales en la aplicación de la Ley Federal de Protección al Ambiente.
+XIII.- (DEROGADA, P.O. 10 DE OCTUBRE DE 1992)
 
 XIV.- Cumplir y hacer cumplir la Ley de Obra Pública del Estado;
 
 XV.- Brindar asesoría a los Ayuntamientos para la formulación de los Programas de Desarrollo Urbano Municipal y su Reglamentación respectiva, cuando lo soliciten, y
 
-XVI.- Los demás que determinen expresamente las Leyes y Reglamentos.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+XVI.- Las demás que determinen expresamente las Leyes de la Materia.
 
 ### CAPITULO IX
 
@@ -1120,5 +1156,33 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan lo dispuesto por las presentes reformas.
+
+P.O. 10 DE OCTUBRE DE 1992.
+
+DECRETO NUMERO 149.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las atribuciones que en otras leyes, reglamentos o cualquier otro tipo de disposición jurídica, se otorgan a la Secretaría de la Contraloría General del Estado, serán conferidas a la Secretaría de Planeación y Presupuesto, las que ejercerá con base en lo que dispone el presente ordenamiento.
+
+###### ARTICULO TERCERO.
+
+Los asuntos a cargo de la Secretaría de la Contraloría General del Estado que se encontraren pendientes de resolución al momento de entrar en vigor este decreto, serán despachados por la Secretaría de Planeación y Presupuesto, conforme a las atribuciones asignadas por este mismo ordenamiento.
+
+CUARTO.- Los derechos laborales que pudieran verse afectados por virtud de lo dispuesto en el presente decreto, serán respetados conforme a la Ley del Servicio Civil y demás disposiciones legales vigentes.
+
+QUINTO.- Los bienes y recursos con que cuentan la Secretaría de la Contraloría General del Estado, se destinarán al cumplimiento de las atribuciones que a la Secretaría de Planeación y Presupuesto, señala el presente decreto.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan a lo dispuesto por este decreto.
+
+P.O. 10 DE OCTUBRE DE 1992.
+
+DECRETO NUMERO 157.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano Informativo del Gobierno del Estado.
 
 ## TITULO IV. DE LA SECTORIZACION
