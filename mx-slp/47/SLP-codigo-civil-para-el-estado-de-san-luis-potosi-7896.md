@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "1993-04-30"
+last_updated: "1996-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 1996.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -2311,115 +2311,135 @@ ART. 669.- El Ministerio Público velará por los intereses del ausente, será o
 
 ### CAPITULO UNICO
 
-ART. 670.- Son objeto del patrimonio de la familia:
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
 
-I.- La casa habitación de la familia;
+ART. 670.- Son susceptibles de constituir el patrimonio de la familia:
 
-II.- En algunos casos, una parcela cultivable.
+Los bienes inmuebles, muebles y semovientes, que no rebasen la cuantía contenida en el Artículo 677 de este ordenamiento.
 
 ART. 671.- La constitución del patrimonio de la familia no hace pasar la propiedad de los bienes que a él quedan afectos, del que lo constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho de disfrutar de esos bienes, según lo dispuesto en el artículo siguiente.
 
-ART. 672.- Tienen derecho de habitar la casa y de aprovechar los frutos de la parcela afecta al patrimonio de la familia, el cónyuge del que lo constituye y las personas a quienes tiene obligación de dar alimentos. Ese derecho es intransmisible; pero debe tenerse en cuenta lo dispuesto en el artículo 687.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
+
+ART. 672.- Tienen derecho de habitar la casa y de aprovechar los frutos o beneficios que integran el patrimonio de la familia, además de quien lo constituye, su cónyuge y sus hijos. Tal derecho es intransmisible; sin embargo, se puede estar a la posibilidad prevista en el párrafo segundo del Artículo 687.
 
 ART. 673.- Los beneficiarios de los bienes afectos al patrimonio de la familia serán representados en sus relaciones con tercero, en todo lo que al patrimonio se refiere, por el que lo constituyó, y, en su defecto, por el que nombre la mayoría.
 
 El representante tendrá también la administración de dichos bienes.
 
-ART. 674.- Los bienes afectos al patrimonio de la familia son inalineables (sic) y no estarán sujetos a embargo ni a gravamen alguno.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
 
-ART. 675.- Sólo puede constituírse el patrimonio de la familia con bienes sitos en el municipio en que esté domiciliado el que lo constituya.
+ART. 674.- Los bienes inscritos como patrimonio de la familia son inalienables y no estarán sujetos a embargo ni a gravamen alguno.
 
-ART. 676.- Cada familia sólo puede constituír un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
 
-ART. 677.- El valor máximo de los bienes afectos al patrimonio de la familia será de:
+ART. 675.- La casa habitación protegida por el patrimonio de la familia, necesariamente deberá estar ubicada en el municipio en que esté domiciliado el que lo constituya, no así tratándose de los demás bienes, los que podrán estar en el mismo municipio o en cualquier otro perteneciente a este Estado.
 
-I.- Diez mil pesos para el Municipio de la Capital;
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
 
-II.- Cinco mil pesos para el resto del Estado.
+ART. 676.- La constitución del patrimonio de la familia por alguna de las personas facultadas al efecto en términos de este capítulo, impide a la misma y a las otras, a establecer más de un patrimonio familiar, en esa virtud, los que llegaran a constituirse contraviniendo esta disposición, no producirán efectos legales.
 
-ART. 678.- El miembro de la familia que quiera constituír el patrimonio, lo manifestará por escrito al juez de su domicilio, designando con toda precisión y de manera que puedan ser inscritos en el registro público, los bienes que van a quedar afectados.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
 
-Además, comprobará lo siguiente:
+ART. 677.- El valor máximo permitido en términos de ley, respecto de los bienes que conformen el patrimonio de la familia será el que resulte de multiplicar la cantidad derivada del importe de ciento veinte días de salario mínimo vigente en el Estado por trescientos sesenta y cinco días. El incremento que sobrevenga respecto al valor de los mismos, originado por cualquier causa, no los sustrae del régimen que los salvaguarda, por lo que tal incremento o excedente tampoco será embargable; pero el valor original y su incremento, sí podrán disminuirse para encuadrarse dentro de los límites establecidos por esta ley.
 
-I.- Que es mayor de edad o que está emancipado;
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
 
-II.- Que está domiciliado en el lugar donde se quiere constituír el patrimonio;
+ART. 678.- Para constituir el patrimonio de la familia, el cónyuge o el hijo que quieran hacerlo, deberán satisfacer los siguientes requisitos:
 
-III.- La existencia de la familia a cuyo favor se va a constituír el patrimonio. La comprobación de los vínculos familiares se hará con las copias certificadas del registro civil;
+I.- Plantear por escrito ante juez competente, con jurisdicción en el lugar en que se encuentre la casa habitación o los demás bienes destinados a la constitución del patrimonio de la familia, la intención y voluntad de hacerlo;
 
-IV.- Que son propiedad del constituyente los bienes destinados al patrimonio, y que no reportan gravámenes fuera de las servidumbres;
+II.- Indicar de manera clara y precisa los bienes que pretende afectar, a fin de poder acordarse, oportunamente, su inscripción en el Registro Público de la Propiedad y del Comercio;
 
-V.- Que el valor de los bienes que va a constituír el patrimonio no excede del fijado en el artículo 677.
+III.- Ser mayor de edad o estar emancipado;
+
+IV.- Estar domiciliado en el lugar donde pretende constituir el patrimonio de su intención;
+
+V.- Comprobar la existencia de la familia legítima, a cuyo favor se va a constituir el patrimonio. La acreditación de los vínculos familiares se realizará con las copias o actas certificadas, expedidas por la institución jurídica del Registro Civil;
+
+VI.- Acreditar que los bienes destinados al patrimonio son legítimos del peticionante y que los mismos no reportan gravamen alguno; y
+
+VII.- Que el valor de los bienes destinados a constituir el patrimonio de la familia no exceda del máximo permitido en el Artículo 677. Dicho valor solamente se acreditará mediante avalúo catastral tratándose de inmuebles, en tanto que los bienes muebles serán valuados mediante dictamen pericial.
 
 ART. 679.- Si se llenan la condiciones exigidas en el artículo anterior, el juez, previos los trámites que fije el código de la materia, aprobará la constitución del patrimonio de la familia y mandará que se hagan las inscripciones correspondientes en el registro público.
 
 ART. 680.- Cuando el valor de los bienes afectos al patrimonio de la familia sea inferior al máximum fijado en el artículo 677 podrá ampliarse el patrimonio hasta llegar a ese valor. La ampliación se sujetará al mismo procedimiento que para la constitución fije el código de la materia.
 
-ART. 681.- Cuando haya peligro de que quien tiene obligación de dar alimentos pierda sus bienes por mala administración o porque los esté dilapidando, los acreedores alimentistas y si éstos son incapaces, sus tutores o el Ministerio Público, tienen derecho a exigir judicialmente que se constituya el patrimonio de la familia hasta por los valores fijados en el artículo 677. En la constitución de ese patrimonio se observará en lo conducente, lo dispuesto en los artículos 678 y 679.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
 
-ART. 682.- Con el objeto de favorecer la formación del patrimonio de la familia, se venderán a las personas que tengan capacidad legal para constituírlo y que quieran hacerlo, las propiedades raíces que a continuación se expresan:
+ART. 681.- Cuando haya peligro de que uno de los cónyuges o de los hijos, obligados a dar alimentos, pueda perder sus bienes por mala administración o porque los esté dilapidando, el otro podrá exigir judicialmente que se constituya el patrimonio de la familia hasta por el importe máximo establecido en el Artículo 677.
 
-I.- Los terrenos pertenecientes al Gobierno y Ayuntamientos del Estado, que no estén destinados a un servicio público, ni sean de uso común;
+Por otra parte, tienen derecho a exigir judicialmente su constitución, en los términos señalados con anterioridad, los padres, el cónyuge afectado o los hijos. Si son incapaces, entonces intervendrán sus tutores o el Ministerio Público. En ambos casos, los trámites para constituir el patrimonio de la familia se ajustarán en lo conducente a lo preceptuado en los artículos 678 y 679.
 
-II.- Los terrenos que el Gobierno adquiera por expropiación, de acuerdo con el inciso (c) del párrafo undécimo del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
 
-III.- Los terrenos que el Gobierno adquiera para dedicarlos a la formación del patrimonio de las familias que cuenten con pocos recursos.
+ART. 682.- Con el propósito de favorecer e impulsar la formación del patrimonio de la familia, se enajenará a las personas que tengan capacidad legal para constituirlo y que además quieran hacerlo, las siguientes propiedades:
 
-ART. 683.- El precio de los terrenos a que se refiere la fracción II del artículo anterior se pagará de la manera prevenida en el inciso (d) del párrafo undécimo del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
+I.- Los terrenos pertenecientes al Gobierno y Ayuntamientos del Estado, que no les sean indispensables, ni se encuentren destinados o pretendan afectarse a un servicio público, ni sean de uso común;
 
-En los casos previstos en las fracciones I y III del artículo que precede, la autoridad vendedora fijará la forma y el plazo en que debe pagarse el precio de los bienes vendidos, teniendo en cuenta la capacidad económica del comprador.
+II.- Los lotes o terrenos que el Gobierno adquiera en virtud de expropiación constitucional, cuya causa de utilidad pública sea precisamente, la de darles el destino de favorecer a las familias de escasos recursos económicos; y
 
-ART. 684.- El que desee constituír el patrimonio de la familia con la clase de bienes que menciona el artículo 682, además de cumplir los requisitos exigidos por las fracciones I, II y III del artículo 678, comprobará:
+III.- Las viviendas que el Gobierno, en sus diversos órdenes, construya a través de sus instituciones u organismos, así como de sus planes y programas habitacionales dirigidos a facilitar la formación del patrimonio de las familias más necesitadas.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
+
+ART. 683.- Al fijar el precio de venta de los bienes a que alude el artículo que antecede, la autoridad gubernamental vendedora deberá tomar en cuenta, la capacidad económica del comprador para determinar la forma y plazos de pago.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
+
+ART. 684.- La persona interesada en constituir el patrimonio de la familia con la modalidad de los bienes consignados en el artículo 682, además de satisfacer los requisitos precisados en las fracciones III, IV y V del artículo 678, deberá acreditar:
 
 I.- Que es mexicano;
 
-II.- Su aptitud y la de sus familiares para desempeñar algún oficio, profesión, industria o comercio;
+II.- Su aptitud para desempeñar alguna profesión, oficio, actividad o comercio;
 
-III.- Que él o sus familiares poseen los instrumentos y demás objetos indispensables para ejercer la ocupación a que se dediquen;
+III.- Que posee los instrumentos, herramientas o implementos indispensables para ejercer la actividad a que se dedique;
 
-IV.- El promedio de sus ingresos, a fin de que se pueda calcular, con probabilidades de acierto, la posibilidad de pagar el precio del terreno que se le vende;
+IV.- Su ingreso o el de su familia, si este (sic) se complementan entre sí. Lo anterior, a fin de poder calcular, con probabilidades de acierto, la posibilidad de pagar el precio objeto de la enajenación; y
 
-V.- Que carece de bienes. Si el que tenga interés legítimo demuestra que quien constituyó el patrimonio era propietario de bienes raíces al constituírlo, se declarará nula la constitución del patrimonio.
+V.- Que carece de bienes. Si quien constituyó el patrimonio al momento de hacerlo era propietario de algún bien raíz, dicha constitución se entenderá nula, bastando para que así sea declarada, que quien tenga interés jurídico demuestre lo anterior. Caso en el cual, la autoridad vendedora quedará en completa aptitud de reincorporar nuevamente a su patrimonio, previa declaración judicial, el bien transmitido en tal supuesto.
 
 ART. 685.- La constitución del patrimonio de que trata el artículo 682, se sujetará a la tramitación administrativa que fijen los Reglamentos respectivos. Aprobada la constitución del patrimonio, se cumplirá lo que dispone la parte final del artículo 679.
 
 ART. 686.- La constitución del patrimonio de la familia no puede hacerse en fraude de los derechos de los acreedores.
 
-ART. 687.- Constituido el patrimonio de la familia, ésta tiene obligación de habitar la casa y de cultivar la parcela. La primera autoridad municipal del lugar en que esté constituido el patrimonio puede por justa causa, autorizar para que se dé en arrendamiento o aparcería, hasta por un año.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
 
-ART. 688.- El patrimonio de la familia se extingue:
+ART. 687.- Constituído que sea el patrimonio de la familia, ésta debe de habitar la casa y de aprovechar los bienes restantes que lo conformen.
 
-I.- Cuando todos los beneficiarios cesen de tener derecho de percibir alimentos;
+Del cumplimiento de habitar la casa, según lo dispuesto en el párrafo anterior, puede sustraerse la familia, sin necesidad de declaratoria judicial, si la persona que constituyó el patrimonio y los beneficiarios del mismo, por evidente necesidad o conveniencia, acuerdan darla en arrendamiento. Si al ocurrir lo anterior no hubiere mediado el acuerdo de referencia, el contrato o convenio pactado será nulo. Respecto a los hijos menores o personas incapaces, la responsabilidad de la determinación que se tome recae en los restantes miembros de la familia, salvo que exista persona que por declaración judicial los represente, la que en ese caso habrá de hacerlo.
 
-II.- Cuando sin causa justificada la familia deje de habitar por un año la casa que debe servirle de morada, o de cultivar por su cuenta y por dos años consecutivos la parcela que le esté anexa;
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
 
-III.- Cuando se demuestre que hay gran necesidad o notoria utilidad para la familia, de que el patrimonio quede extinguido;
+ART. 688.- El patrimonio de la familia se extingue, mediante declaración judicial, en los siguientes casos:
 
-IV.- Cuando por causa de utilidad pública se expropien los bienes que lo forman;
+I.- Cuando se demuestre que hay necesidad de la familia de que el patrimonio quede extinguido; y
 
-V.- Cuando tratándose del patrimonio formado con los bienes vendidos por las autoridades mencionadas en el artículo 682, se declare judicialmente nula o rescindida la venta de esos bienes.
+II.- Cuando tratándose del patrimonio formado con los bienes vendidos por las autoridades señaladas en el Artículo 682, se declare judicialmente nula o rescindida su venta, por la actualización del supuesto a que alude la fracción V del propio Artículo 684.
 
-ART. 689.- La declaración de que queda extinguido el patrimonio la hará el juez competente, mediante el procedimiento fijado en el Código respectivo, y la comunicará al Registro Público para que se hagan las cancelaciones correspondientes.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
 
-Cuando el patrimonio se extinga por la causa prevista en la fracción IV del artículo que precede, hecha la expropiación, el patrimonio queda extinguido sin necesidad de declaración judicial, debiendo hacerse en el Registro la cancelación que proceda.
+ART. 689.- Se requiere de declaración judicial para la extinción del patrimonio, la que se comunica al Registro Público de la Propiedad y del Comercio para los efectos correspondientes.
 
-ART. 690.- El precio del patrimonio expropiado y la indemnización proveniente del pago del seguro a consecuencia del siniestro sufrido por los bienes afectos al patrimonio familiar, se depositarán en una casa de comercio de notoria solvencia a fin de dedicarlos a la constitución de un nuevo patrimonio de la familia. Durante un año son inembargables el precio depositado y el importe del seguro.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
 
-Si el dueño de los bienes vendidos no lo constituyere dentro del plazo de seis meses, los miembros de la familia a que se refiere el artículo 672, tienen derecho de exigir judicialmente la constitución del patrimonio familiar.
+ART. 690.- La expropiación que afecte los bienes que conforman el patrimonio de la familia no extingue a éste, sino que para efectos de esta institución jurídica solamente los subroga por el pago proveniente de la indemnización constitucional. Igual acontece, tratándose de pagos derivados del seguro contratado a consecuencia de siniestros. En ambos casos, los pagos correspondientes se efectuarán en favor de su titular y beneficiarios, depositándolos en institución financiera, bajo la providencia de quedar afectos al patrimonio de la familia, lo que los hace desde ese momento inembargables.
 
-Transcurrido un año desde que se hizo el depósito, sin que se hubiere promovido la constitución del patrimonio, la cantidad depositada se entregará al dueño de los bienes.
+Realizados los depósitos de pago mencionados en el párrafo anterior, el tiular (sic) y sus beneficiarios quedan legitimados para decidir libremente, mantenerlos durante el tiempo de su interés en la institución financiera a fin de que durante un año, en el cual son inembargables, les puedan redituar intereses, o bien, sin necesidad de declaratoria judicial, pero teniéndose la conformidad a que se contrae el artículo 687, disponer de los mismos para poder estar en aptitud de adquirir otra casa, si ésta les resultare indispensable de habitar. Sólo hasta el momento en que se disponga de los pagos depositados se entenderá extinguido el patrimonio subrogado, no requiriéndose para entenderlo así, de declaración judicial alguna.
 
-En los casos de suma necesidad o de evidente utilidad, puede el juez autorizar al dueño del depósito, para disponer de él antes de que transcurra el año.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
 
-ART. 691.- Puede disminuírse el patrimonio de la familia:
+ART. 691.- Puede decretarse judicialmente la disminución del patrimonio de la familia, a pedimento de la misma, en los siguientes casos:
 
-I.- Cuando se demuestre que su disminución es de gran necesidad o de notoria utilidad para la familia;
+I.- Cuando se acredite que su disminución evidentemente le es necesaria, o de manifiesto beneficio; y
 
-II.- Cuando el patrimonio familiar, por causas posteriores a su constitución, ha rebasado en más de un ciento por ciento el valor máximo que puede tener conforme al artículo 677.
+II.- Cuando el patrimonio familiar por causa posterior a su constitución, cualquiera que sea ésta, se incremente hasta en un doscientos por ciento más, del valor máximo que debe tener al momento de su inscripción.
 
 ART. 692.- El Ministerio Público será oído en la extinción y en la reducción del patrimonio de la familia.
 
-ART. 693.- Extinguido el patrimonio de la familia, los bienes que lo formaban vuelven al pleno dominio del que lo constituyó o pasan a sus herederos si aquél ha muerto.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
+
+ART. 693.- Extinguido el patrimonio de la familia, los bienes que lo conformaban se reincorporarán al pleno dominio del que lo constituyó, o pasan hasta entonces a los beneficiarios en términos de este capítulo si aquél ha muerto.
 
 ### CAPITULO I. De los Bienes Inmuebles
 
@@ -4995,108 +5015,6 @@ ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la
 
 ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
 
-Representación
-
-ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
-
-ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
-
-ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
-
-Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
-
-Del Consentimiento
-
-ART. 1639.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por la Ley o por convenio la voluntad deba manifestarse expresamente.
-
-ART. 1640.- Toda persona que propone a otra la celebración de un contrato fijándole un plazo para aceptar, queda ligada por su oferta hasta la expiración del plazo.
-
-ART. 1641.- Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono.
-
-ART. 1642.- Cuando la oferta se haga sin fijación de plazo a una persona no presente, el autor de la oferta quedará ligado durante tres días, además del tiempo necesario para la ida y vuelta regular del correo público, o del que se juzgue bastante, no habiendo correo público, según las distancias y la facilidad o dificultad de las comunicaciones.
-
-ART. 1643.- El contrato se forma en el momento en que el proponente reciba la aceptación, estando ligado por su oferta según los artículos precedentes.
-
-ART. 1644.- La oferta se considerará como no hecha si la retira su autor y el destinatario recibe la retractación antes que la oferta. La misma regla se aplica al caso en que se refiere la aceptación.
-
-ART. 1645.- Si al tiempo de la aceptación hubiere fallecido el proponente, sin que el aceptante fuere sabedor de su muerte, quedarán los herederos de aquél obligados a sostener el contrato.
-
-ART. 1646.- El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considerará como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
-
-ART. 1647.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
-
-Vicios del Consentimiento
-
-ART. 1648.- El consentimiento no es válido si ha sido dado por error, arrancando por violencia o sorprendido por dolo.
-
-ART. 1649.- El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo determinante de la voluntad de cualquiera de los que contratan, si en el acto de la celebración se declara ese motivo o si se prueba por las circunstancias del mismo contrato que se celebró éste en el falso supuesto que lo motivó y no por otra causa.
-
-ART. 1650.- El error de cálculo sólo da lugar a que se rectifique.
-
-ART. 1651.- Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir a error o mantener en él a alguno de los contratantes, y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
-
-ART. 1652.- El dolo o mala fe de una de las partes y el dolo que proviene de un tercero, sabiéndolo aquélla, anulan el contrato si ha sido la causa determinante de este acto jurídico.
-
-ART. 1653.- Si ambas partes proceden con dolo, ninguna de ellas puede alegar la nulidad del acto o reclamarse indemnizaciones.
-
-ART. 1654.- Es nulo el contrato celebrado por violencia, ya provenga ésta de alguno de los contratantes, ya de un tercero, interesado o no en el contrato.
-
-ART. 1655.- Hay violencia cuando se emplea fuerza física o amenaza que importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes del contratante, de su cónyuge, de sus ascendientes, de sus descendientes o de sus parientes colaterales dentro del segundo grado.
-
-ART. 1656.- El temor reverencial, esto es, el sólo temor de desagradar a las personas a quienes se debe sumisión y respeto, no basta para viciar el consentimiento.
-
-ART. 1657.- Las consideraciones generales que los contratantes expusieren sobre los provechos y perjuicios que naturalmente pueden resultar de la celebración o no celebración del contrato, y que no importen engaño o amenaza alguna de las partes, no serán tomadas en cuenta al calificar el dolo o la violencia.
-
-ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del dolo o de la violencia.
-
-ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
-
-Del objeto y del motivo o fin de los Contratos
-
-ART. 1660.- Son objeto de los contratos:
-
-I.- La cosa que el obligado debe dar;
-
-II.- El hecho que el obligado debe hacer o no hacer.
-
-ART. 1661.- La cosa objeto del contrato debe: 1o. Existir en la naturaleza. 2o. Ser determinada o determinable en cuanto a su especie. 3o. Estar en el comercio.
-
-ART. 1662.- Las cosas futuras pueden ser objeto de un contrato. Sin embargo, no puede serlo la herencia de una persona viva, aun cuando ésta preste su consentimiento.
-
-ART. 1663.- El hecho positivo o negativo, objeto del contrato, debe ser:
-
-I.- Posible;
-
-II.- Lícito.
-
-ART. 1664.- Es imposible el hecho que no puede existir porque es incompatible con una ley de la naturaleza o con una norma jurídica que debe regirlo necesariamente y que constituye un obstáculo insuperable para su realización.
-
-ART. 1665.- No se considerará imposible el hecho que no pueda ejecutarse por el obligado, pero sí por otra persona en lugar de él.
-
-ART. 1666.- Es ilícito el hecho que es contrario a las leyes de orden público o a las buenas costumbres.
-
-ART. 1667.- El fin o motivo determinante de la voluntad de los que contratan, tampoco debe ser contrario a las leyes de orden público ni a las buenas costumbres.
-
-Forma
-
-ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
-
-ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
-
-ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
-
-Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
-
-División de los Contratos
-
-ART. 1671.- El contrato es unilateral cuando una sola de las partes se obliga hacia la otra sin que ésta le quede obligada.
-
-ART. 1672.- El contrato es bilateral cuando las partes se obligan recíprocamente.
-
-ART. 1673.- Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
-
-ART. 1674.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas desde que se celebra el contrato, de tal suerte que ellas pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la elevación de la ganancia o pérdida, sino hasta que ese acontecimiento se realice.
-
 Cláusulas que pueden contener los Contratos
 
 ART. 1675.- Los contratantes pueden poner las cláusulas que crean convenientes; pero las que se refieren a requisitos esenciales del contrato o sean consecuencia de su naturaleza ordinaria, se tendrán por puestas aunque no se expresen, a no ser que las segundas sean renunciadas en los casos y términos permitidos por la Ley.
@@ -5127,31 +5045,41 @@ ART. 1685.- En el caso del artículo anterior, cada uno de los herederos respond
 
 ART. 1686.- Tratándose de obligaciones indivisibles, se observará lo dispuesto en el artículo 1840.
 
-Interpretación
+Representación
 
-ART. 1687.- Si los términos de un contrato son claros y no dejan duda sobre la intención de los contratantes, se estará al sentido literal de sus cláusulas.
+ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
 
-Si las palabras parecieren contrarias a la intención evidente de los contratantes, prevalecerá ésta sobre aquéllas.
+ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
 
-ART. 1689 (SIC).- Cualquiera que se la generalidad de los términos de un contrato, no deberán entenderse comprendidos en él cosas distintas y casos diferentes de aquellos sobre los que los interesados se propusieron contratar.
+ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
 
-ART. 1689.- Si alguna cláusula de los contratos admitiere diversos sentidos, deberá entenderse en el más adecuado para que produzca efecto.
+Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
 
-ART. 1690.- Las cláusulas de los contratos deben interpretarse las unas por las otras, atribuyendo a las dudosas el sentido que resulte del conjunto de todas.
+Del objeto y del motivo o fin de los Contratos
 
-ART. 1691.- Las palabras que pueden tener distintas aceptaciones serán entendidas en aquélla que sea más conforme a la naturaleza y objeto del contrato.
+ART. 1660.- Son objeto de los contratos:
 
-ART. 1692.- El uso o la costumbre se tendrán en cuenta para interpretar las ambigüedades de los contratos.
+I.- La cosa que el obligado debe dar;
 
-ART. 1693.- Cuando absolutamente fuere imposible resolver las dudas por las reglas establecidas en los artículos precedentes, si aquéllas recaen sobre circunstancias accidentales del contrato, y éste fuere gratuito, se resolverá en favor de la menor transmisión de derechos e intereses; si fuere oneroso se resolverá la duda en favor de la mayor reciprocidad de intereses.
+II.- El hecho que el obligado debe hacer o no hacer.
 
-Si las dudas de cuya resolución se trata en este artículo recayesen sobre el objeto principal del contrato, de suerte que no pueda venirse en conocimiento de cual fue la intención o la voluntad de los contratantes, el contrato será nulo.
+ART. 1661.- La cosa objeto del contrato debe: 1o. Existir en la naturaleza. 2o. Ser determinada o determinable en cuanto a su especie. 3o. Estar en el comercio.
 
-Disposiciones Finales
+ART. 1662.- Las cosas futuras pueden ser objeto de un contrato. Sin embargo, no puede serlo la herencia de una persona viva, aun cuando ésta preste su consentimiento.
 
-ART. 1694.- Los contratos que no están especialmente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
+ART. 1663.- El hecho positivo o negativo, objeto del contrato, debe ser:
 
-ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
+I.- Posible;
+
+II.- Lícito.
+
+ART. 1664.- Es imposible el hecho que no puede existir porque es incompatible con una ley de la naturaleza o con una norma jurídica que debe regirlo necesariamente y que constituye un obstáculo insuperable para su realización.
+
+ART. 1665.- No se considerará imposible el hecho que no pueda ejecutarse por el obligado, pero sí por otra persona en lugar de él.
+
+ART. 1666.- Es ilícito el hecho que es contrario a las leyes de orden público o a las buenas costumbres.
+
+ART. 1667.- El fin o motivo determinante de la voluntad de los que contratan, tampoco debe ser contrario a las leyes de orden público ni a las buenas costumbres.
 
 ### CAPITULO II. De la declaración unilateral de la voluntad
 
@@ -5456,6 +5384,98 @@ PRIMERA PARTE
 De las Obligaciones en General
 
 ## TITULO PRIMERO. Fuentes de las Obligaciones
+
+Vicios del Consentimiento
+
+ART. 1648.- El consentimiento no es válido si ha sido dado por error, arrancando por violencia o sorprendido por dolo.
+
+ART. 1649.- El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo determinante de la voluntad de cualquiera de los que contratan, si en el acto de la celebración se declara ese motivo o si se prueba por las circunstancias del mismo contrato que se celebró éste en el falso supuesto que lo motivó y no por otra causa.
+
+ART. 1650.- El error de cálculo sólo da lugar a que se rectifique.
+
+ART. 1651.- Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir a error o mantener en él a alguno de los contratantes, y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
+
+ART. 1652.- El dolo o mala fe de una de las partes y el dolo que proviene de un tercero, sabiéndolo aquélla, anulan el contrato si ha sido la causa determinante de este acto jurídico.
+
+ART. 1653.- Si ambas partes proceden con dolo, ninguna de ellas puede alegar la nulidad del acto o reclamarse indemnizaciones.
+
+ART. 1654.- Es nulo el contrato celebrado por violencia, ya provenga ésta de alguno de los contratantes, ya de un tercero, interesado o no en el contrato.
+
+ART. 1655.- Hay violencia cuando se emplea fuerza física o amenaza que importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes del contratante, de su cónyuge, de sus ascendientes, de sus descendientes o de sus parientes colaterales dentro del segundo grado.
+
+ART. 1656.- El temor reverencial, esto es, el sólo temor de desagradar a las personas a quienes se debe sumisión y respeto, no basta para viciar el consentimiento.
+
+ART. 1657.- Las consideraciones generales que los contratantes expusieren sobre los provechos y perjuicios que naturalmente pueden resultar de la celebración o no celebración del contrato, y que no importen engaño o amenaza alguna de las partes, no serán tomadas en cuenta al calificar el dolo o la violencia.
+
+ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del dolo o de la violencia.
+
+ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
+
+Disposiciones Finales
+
+ART. 1694.- Los contratos que no están especialmente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
+
+ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
+
+Del Consentimiento
+
+ART. 1639.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por la Ley o por convenio la voluntad deba manifestarse expresamente.
+
+ART. 1640.- Toda persona que propone a otra la celebración de un contrato fijándole un plazo para aceptar, queda ligada por su oferta hasta la expiración del plazo.
+
+ART. 1641.- Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono.
+
+ART. 1642.- Cuando la oferta se haga sin fijación de plazo a una persona no presente, el autor de la oferta quedará ligado durante tres días, además del tiempo necesario para la ida y vuelta regular del correo público, o del que se juzgue bastante, no habiendo correo público, según las distancias y la facilidad o dificultad de las comunicaciones.
+
+ART. 1643.- El contrato se forma en el momento en que el proponente reciba la aceptación, estando ligado por su oferta según los artículos precedentes.
+
+ART. 1644.- La oferta se considerará como no hecha si la retira su autor y el destinatario recibe la retractación antes que la oferta. La misma regla se aplica al caso en que se refiere la aceptación.
+
+ART. 1645.- Si al tiempo de la aceptación hubiere fallecido el proponente, sin que el aceptante fuere sabedor de su muerte, quedarán los herederos de aquél obligados a sostener el contrato.
+
+ART. 1646.- El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considerará como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
+
+ART. 1647.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
+
+Interpretación
+
+ART. 1687.- Si los términos de un contrato son claros y no dejan duda sobre la intención de los contratantes, se estará al sentido literal de sus cláusulas.
+
+Si las palabras parecieren contrarias a la intención evidente de los contratantes, prevalecerá ésta sobre aquéllas.
+
+ART. 1689 (SIC).- Cualquiera que se la generalidad de los términos de un contrato, no deberán entenderse comprendidos en él cosas distintas y casos diferentes de aquellos sobre los que los interesados se propusieron contratar.
+
+ART. 1689.- Si alguna cláusula de los contratos admitiere diversos sentidos, deberá entenderse en el más adecuado para que produzca efecto.
+
+ART. 1690.- Las cláusulas de los contratos deben interpretarse las unas por las otras, atribuyendo a las dudosas el sentido que resulte del conjunto de todas.
+
+ART. 1691.- Las palabras que pueden tener distintas aceptaciones serán entendidas en aquélla que sea más conforme a la naturaleza y objeto del contrato.
+
+ART. 1692.- El uso o la costumbre se tendrán en cuenta para interpretar las ambigüedades de los contratos.
+
+ART. 1693.- Cuando absolutamente fuere imposible resolver las dudas por las reglas establecidas en los artículos precedentes, si aquéllas recaen sobre circunstancias accidentales del contrato, y éste fuere gratuito, se resolverá en favor de la menor transmisión de derechos e intereses; si fuere oneroso se resolverá la duda en favor de la mayor reciprocidad de intereses.
+
+Si las dudas de cuya resolución se trata en este artículo recayesen sobre el objeto principal del contrato, de suerte que no pueda venirse en conocimiento de cual fue la intención o la voluntad de los contratantes, el contrato será nulo.
+
+Forma
+
+ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
+
+ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
+
+ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
+
+Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
+
+División de los Contratos
+
+ART. 1671.- El contrato es unilateral cuando una sola de las partes se obliga hacia la otra sin que ésta le quede obligada.
+
+ART. 1672.- El contrato es bilateral cuando las partes se obligan recíprocamente.
+
+ART. 1673.- Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
+
+ART. 1674.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas desde que se celebra el contrato, de tal suerte que ellas pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la elevación de la ganancia o pérdida, sino hasta que ese acontecimiento se realice.
 
 ### CAPITULO III. De las Obligaciones Conjuntivas y Alternativas
 
@@ -5937,7 +5957,7 @@ ART. 1965.- Si el que enajena, al ser emplazado, manifiesta que no tiene medios 
 
 ART. 1966.- Las mejoras que el que enajenó hubiese hecho antes de la enajenación, se le tomarán a cuenta de lo que debe pagar, siempre que fueren abonadas por el vencedor.
 
-ART. 1967.- Cuando el adquirente sólo fuere privado por la evicción, de una parte de la cosa adquirida, se observarán respecto de éstas las reglas establecidas en este Capítulo, a no ser que el adquirente prefiera al rescisión del contrato.
+ART. 1967.- Cuando el adquirente sólo fuere privado por la evicción, de una parte de la cosa adquirida, se observarán respecto de éstas las reglas establecidas en este Capítulo, a no ser que el adquirente prefiera la rescisión del contrato.
 
 ART. 1968.- También se observará lo dispuesto en el artículo que precede cuando en un solo contrato se hayan enajenado dos o más cosas sin fijar el precio de cada una de ellas, y una sola sufriera la evicción.
 
@@ -8890,3 +8910,15 @@ P.O. 30 DE ABRIL DE 1993.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MAYO DE 1996.
+
+PRIMERO.- Al reformarse los artículos anteriormente precisados, se derogan en consecuencia sus similares, vigentes hasta la entrada en vigor de los contenidos en este Decreto.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente.
+
+TERCERO.- Las personas que tuvieren constituídos los patrimonios de la famliia (sic) conforme a los ordenamientos de ley vigentes, podrán acogerse observando los requisitos establecidos en este Decreto, a los beneficios que el mismo les signifique.
+
+CUARTO.- Asimismo, los trámites que, a la entrada en vigor de esta ley, se encuentren encaminados a la constitución del patrimonio de la familia, podrán continuarse bajo el amparo de las disposiciones aquí establecidas; y
+
+QUINTO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
