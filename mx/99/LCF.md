@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "1995-12-15"
+last_updated: "1996-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 27 de diciembre de 1978.
 
@@ -64,9 +64,9 @@ La recaudación federal participable será la que obtenga la Federación por tod
 
 No se incluirán en la recaudación federal participable, los derechos adicionales o extraordinarios, sobre la extracción de petróleo.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-Tampoco se incluirá en la recaudación federal participable, los incentivos que se establezcan en los convenios de colaboración administrativa ni el impuesto sobre tenencia o uso de vehículos de aquellas entidades que hubieran celebrado convenios de colaboración administrativa en materia de este impuesto, así como la parte de la recaudación correspondiente al impuesto especial sobre producción y servicios en que participen las entidades federativas en los términos del artículo 3o.-A de esta Ley.
+Tampoco se incluirán en la recaudación federal participable, los incentivos que se establezcan en los convenios de colaboración administrativa; ni los impuestos sobre tenencia o uso de vehículos y sobre automóviles nuevos, de aquellas entidades que hubieran celebrado convenios de colaboración administrativa en materia de estos impuestos; la parte de la recaudación correspondiente al impuesto especial sobre producción y servicios en que participen las entidades en los términos del artículo 3o.-A de esta Ley, ni el excedente de los ingresos que obtenga la Federación por aplicar una tasa superior al 15% a los ingresos por la obtención de premios a que se refieren los artículos 130 y 158 de la Ley del Impuesto sobre la Renta.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -100,9 +100,13 @@ También se adicionará al Fondo General un monto equivalente al 80% del impuest
 
 Adicionalmente las entidades participarán en los accesorios de las contribuciones que forman parte de la recaudación federal participable que se señalen en los convenios respectivos. En los productos de la Federación relacionados con bienes o bosques que las leyes definen como nacionales ubicados en el territorio de cada entidad ésta recibirá el 50% de su monto, cuando provenga de venta o arrendamiento de terrenos nacionales o de la explotación de tales terrenos o de bosques nacionales.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-Las entidades federativas que estén adheridas al Sistema Nacional de Coordinación Fiscal y que hubieran celebrado con la Federación convenios de colaboración administrativa en materia del impuesto federal sobre tenencia o uso de vehículos, donde se estipule la obligación de llevar un registro estatal vehicular, recibirán como incentivo el 100% de la recaudación que se obtenga por concepto de este impuesto, del que corresponderá cuando menos el 20% a los municipios de la entidad, que se distribuirá entre ellos en la forma que determine la legislatura respectiva.
+Las entidades que estén adheridas al Sistema Nacional de Coordinación Fiscal y que hubieran celebrado con la Federación convenios de colaboración administrativa en materia del impuesto federal sobre tenencia o uso de vehículos, donde se estipule la obligación de llevar un registro estatal vehicular, recibirán el 100% de la recaudación que se obtenga por concepto de este impuesto, del que corresponderá cuando menos el 20% a los municipios de la entidad, que se distribuirá entre ellos en la forma que determine la legislatura respectiva.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+Asimismo, las citadas entidades adheridas al Sistema Nacional de Coordinación Fiscal podrán celebrar con la Federación convenio de colaboración administrativa en materia del impuesto sobre automóviles nuevos, supuesto en el cual la entidad de que se trate recibirá el 100% de la recaudación que se obtenga por este impuesto, del que corresponderá cuando menos el 20% a los municipios de la entidad, que se distribuirá entre ellos en la forma que determine la legislatura respectiva.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -118,7 +122,7 @@ I.- En la proporción de la recaudación federal participable que a continuació
 
 0.136% de la recaudación federal participable, a aquellos Municipios colindantes con la frontera o los litorales por los que se realicen materialmente la entrada al país o la salida de él de los bienes que se importen o exporten, siempre que la entidad federativa de que se trate celebre convenio con la Federación en materia de vigilancia y control de introducción ilegal al territorio nacional de mercancías de procedencia extranjera y en dichos convenios se establezcan descuentos en las participaciones a que se refiere esta fracción, en los casos en que se detecten mercancías de procedencia extranjera respecto de las cuales no se acredite su legal estancia en el país.
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
 La distribución entre los municipios se realizará mediante la aplicación del coeficiente de participación que se determinará para cada uno de ellos conforme a la siguiente fórmula:
 
@@ -180,9 +184,9 @@ La cantidad que a cada entidad federativa corresponda en la parte del Fondo Gene
 
 (VEASE ARCHIVO ANEXO)
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-Los impuestos asignables a que se refiere este artículo, son los impuestos federales sobre tenencia o uso de vehículos y especial sobre producción y servicios, así como el impuesto local sobre automóviles nuevos.
+Los impuestos asignables a que se refiere este artículo, son los impuestos federales sobre tenencia o uso de vehículos, especial sobre producción y servicios y sobre automóviles nuevos.
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -240,9 +244,9 @@ Las participaciones federales que recibirán los Municipios del total del Fondo 
 
 La Federación entregará las participaciones a los municipios por conducto de los Estados, dentro de los cinco días siguientes a aquel en que el Estado las reciba; el retraso dará lugar al pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones; en caso de incumplimiento la Federación hará la entrega directa a los Municipios descontando la participación del monto que corresponda al Estado, previa opinión de la Comisión Permanente de Funcionarios Fiscales.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-Los municipios recibirán como mínimo el 20% del incentivo que corresponda al Estado en los términos del último párrafo del artículo 2o. de esta Ley.
+Los municipios recibirán como mínimo el 20% de la recaudación que corresponda al Estado en los términos del penúltimo y último párrafos del artículo 2o. de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -644,15 +648,15 @@ La Secretaría de Hacienda y Crédito Público conservará la facultad de fijar 
 
 ###### ARTICULO 15.
 
-La recaudación de los ingresos federales se hará por las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público o por las oficinas autorizadas por las Entidades según se establezca en los convenios o acuerdos respectivos.
+La recaudación de los ingresos federales se hará por las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público o por las oficinas autorizadas por las entidades, según se establezca en los convenios o acuerdos respectivos.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 Cuando la entidad recaude ingresos federales, los concentrará directamente a dicha Secretaría y rendirá cuenta pormenorizada de recaudación. La Secretaría, también directamente, hará el pago a las entidades de las cantidades que les correspondan en el Fondo establecido en el artículo 2o. y pondrá a su disposición la información correspondiente. Se podrá establecer, si existe acuerdo entre las partes interesadas, un procedimiento de compensación permanente.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-Las entidades coordinadas con la Federación en materia de tenencia o uso de vehículos deberán rendir cuenta comprobada por la totalidad de la recaudación que efectúen de este impuesto.
+Las entidades coordinadas con la Federación en materia de tenencia o uso de vehículos o de automóviles nuevos, o en ambos, deberán rendir cuenta comprobada por la totalidad de la recaudación que efectúen de cada uno de estos impuestos.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -702,7 +706,7 @@ Serán facultades de la Reunión Nacional de Funcionarios Fiscales:
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-I.- Aprobar los reglamentos de funcionamiento de la propia Reunión Nacional, de la omisión Permanente de Funcionarios Fiscales, del Instituto para el Desarrollo Técnico de las Haciendas Públicas y de la Junta de Coordinación Fiscal.
+I.- Aprobar los reglamentos de funcionamiento de la propia Reunión Nacional, de la Comisión Permanente de Funcionarios Fiscales, del Instituto para el Desarrollo Técnico de las Haciendas Públicas y de la Junta de Coordinación Fiscal.
 
 II.- Establecer, en su caso, las aportaciones ordinarias y extraordinarias que deban cubrir la Federación y las entidades, para el sostenimiento de los órganos citados en la fracción anterior.
 
@@ -1218,7 +1222,7 @@ AÑO FRACCION I FRACCION II
 
 II.- Durante 1990 el Fondo General de Participaciones se distribuirá conforme a lo siguiente:
 
-a) El 91.62%, conforme a lo previsto en el artículo 3o. de la Ley de Coordinación Fiscal vigente hasta el 31 de diciembre de 1987. El monto a que se refiere la fracción I de dicho artículo será el del Fondo General de Participaciones del año de 1989.
+a) El 91.62%, conforme a lo prevsto en el artículo 3o. de la Ley de Coordinación Fiscal vigente hasta el 31 de diciembre de 1987. El monto a que se refiere la fracción I de dicho artículo será el del Fondo General de Participaciones del año de 1989.
 
 b) El 8.38% restante, en proporción inversa a la participación por habitante que tenga cada entidad en las participaciones a que se refiere el inciso anterior.
 
@@ -1349,6 +1353,28 @@ T r a n s i t o r i o s
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 1996.
 
 Segundo. De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en "nuevos pesos" y su abreviatura "N", a partir del 1o. de enero de 1996 deberán entenderse como "pesos" y su símbolo "$".
+
+D.O.F. 30 DE DICIEMBRE DE 1996.
+
+Disposición Transitoria de la Ley de Coordinación Fiscal
+
+Artículo Décimo Primero.- En relación con las modificaciones a que se refiere el Artículo Décimo que antecede, se estará a lo siguiente:
+
+I.- Se deja sin efecto la reforma al último párrafo del artículo 3o., de la Ley de Coordinación Fiscal, que de conformidad con el Artículo Décimo Tercero, fracción I del Decreto por el que se expiden nuevas leyes fiscales y se modifican otras, publicado en el Diario Oficial de la Federación el 15 de diciembre de 1995, entraría en vigor el 1o. de enero de 1997.
+
+II.- El impuesto asignable correspondiente al impuesto sobre automóviles nuevos a que se refiere el último párrafo del artículo 3o. de la Ley de Coordinación Fiscal, para los años de 1995 y 1996, se determinará conforme a lo siguiente:
+
+a).- Se considerará como base la información mensual que presentan los fabricantes, ensambladores y distribuidores de automóviles nuevos conforme a lo dispuesto por el artículo 13 de la Ley de la materia, vigente hasta el 31 de diciembre de 1996.
+
+b).- A los precios de los automóviles contenidos en la información a que se refiere la fracción anterior, se aplicará la tarifa a que se refiere el artículo 3o. de la Ley del Impuesto sobre Automóviles Nuevos, vigente al mes en que se efectuó la enajenación.
+
+Para las entidades en que se aplique lo dispuesto en la fracción II del artículo 8o. de la Ley del Impuesto sobre Automóviles Nuevos, vigente hasta el 31 de diciembre de 1996, el impuesto asignable para los años de 1995 y 1996 se determinará conforme a este artículo.
+
+III.- El impuesto asignable correspondiente al impuesto sobre automóviles nuevos a que se refiere el último párrafo del artículo 3o. de la Ley de Coordinación Fiscal, para los años de 1997 y 1998, se determinará conforme a lo establecido en la Ley Federal del Impuesto sobre Automóviles Nuevos, sin considerar las reducciones a que se refieren los artículos quinto y sexto transitorios de la citada Ley.
+
+## Transitorio
+
+UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1997.
 
 ###### ARTICULO DECIMO.
 
