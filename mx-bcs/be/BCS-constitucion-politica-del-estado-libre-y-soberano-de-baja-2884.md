@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1989-10-31"
+last_updated: "1990-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE OCTUBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 1990.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -877,11 +877,11 @@ VI.- El Jurado Popular; y
 
 VII.- Los demás funcionarios y auxiliares de la Administración de Justicia.
 
-> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 1984)</small>
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 1990)</small>
 
-90.- El Tribunal Superior de Justicia del Estado se integra por cinco Magistrados Numerarios, nombrados directamente por el Gobernador, con aprobación del Congreso del Estado o de la Comisión Permanente, en su caso, en los términos de esta Constitución.
+90.- El Tribunal Superior de Justicia del Estado, se integra por siete Magistrados Numerarios, nombrados directamente por el Gobernador, con aprobación del Congreso del Estado o de la Comisión Permanente, en su caso, en los términos de esta Constitución.
 
-Para el trámite de las renuncias de los Magistrados del Tribunal se seguirá el mismo procedimiento que para su nombramiento.
+Para el trámite de las renuncias de los Magistrados, se seguirá el mismo procedimiento que para su nombramiento.
 
 > <small>(REFORMADO, B.O. 20 DE FEBRERO DE 1988)</small>
 
@@ -1383,7 +1383,7 @@ El procedimiento a que se refiere el presente Artículo solo podrá iniciarse du
 
 159.- Para proceder penalmente contra los servidores públicos, a que se refiere el párrafo primero del Artículo 158 por la comisión de delitos cometidos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría de votos de sus miembros presentes en Sesión, si ha lugar o no a proceder contra el inculpado, con las siguientes prevenciones:
 
-I.- Si la resolución del Congreso fuese negativa, se suspenderá todo el procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el acusado haya concluido el ejercicio de su encargo, pues dicha resolución no prejuzga los fundamentos de la imputación.
+I.- Si la resolución del Congreso fuere negativa, se suspenderá todo el procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el acusado haya concluido el ejercicio de su encargo, pues dicha resolución no prejuzga los fundamentos de la imputación.
 
 II.- Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes para que actúen conforme a la Ley, separándolo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función.
 
@@ -1663,7 +1663,7 @@ B.O. 16 DE DICIEMBRE DE 1983.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
 
 B.O. 10 DE SEPTIEMBRE DE 1984.
 
@@ -1760,3 +1760,9 @@ B.O. 31 DE OCTUBRE DE 1989.
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL SIGUIENTE DÍA AL DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+B.O. 10 DE MARZO DE 1990.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
