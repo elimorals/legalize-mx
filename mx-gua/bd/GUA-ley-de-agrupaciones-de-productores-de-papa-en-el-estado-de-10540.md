@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-agrupaciones-de-productores-de-papa-en-el-estado-de-1054
 country: "mx"
 rank: "ley"
 publication_date: "1939-08-31"
-last_updated: "1939-08-31"
+last_updated: "1941-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE AGRUPACIONES DE PRODUCTORES DE PAPA EN EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1941.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 31 de agosto de 1939.
 
@@ -219,9 +219,11 @@ De la Venta de Productos y Cuotas.
 
 Del Subsidio.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1941)</small>
+
 ###### ARTICULO 37º.
 
-"Las Agrupaciones Agrícolas reconocidas y registradas conforme al Artículo 2º de esta Ley, gozarán de un subsidio concedido por el Gobierno del Estado, por unidad de artículos manejados que será igual a la contribución que por producción de dichos artículos, fijen las disposiciones fiscales relativas".
+Las agrupaciones agrícolas reconocidas y registradas conforme al Artículo Segundo de esta Ley, gozarán de un subsidio que concede el Gobierno del Estado, equivalente a un 90% del impuesto que por producción de los artículos manejados fije la Ley de Ingresos.
 
 ###### ARTICULO 38º.
 
@@ -298,3 +300,9 @@ Lo tendrá entendido el ciudadano Gobernador Constitucional Interino del Estado 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en el Palacio de los Poderes en Guanajuato, a los 24 veinticuatro días del mes de agosto de 1939 mil novecientos treinta y nueve.- Rafael Rangel.- El Secretario General del Gobierno, Lic. Ernesto Arnoux S.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE ENERO DE 1941.
+
+Este Decreto surtirá efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
