@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-urbano-del-estado-de-chihuahua-11959"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-18"
-last_updated: "2003-11-05"
+last_updated: "2005-01-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 2005.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1505,7 +1505,9 @@ Los fraccionadores, promotores o promoventes tendrán las siguientes obligacione
 
 I.- Cumplir con lo dispuesto en esta Ley, planes o programas de desarrollo urbano y autorizaciones respectivas;
 
-II.- Realizar, dentro del plazo y de acuerdo con las especificaciones que fije la Junta de Aguas y Saneamiento que corresponda, las obras para el suministro de agua y cubrir los derechos de conexión de los servicios de agua, drenaje y alcantarillado del fraccionamiento a los de red general;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2005)</small>
+
+II.- Realizar, dentro del plazo y de acuerdo con las especificaciones que fije la Junta de Aguas y Saneamiento que corresponda, las obras para el suministro de agua potable y agua tratada para riego de áreas verdes de uso común y cubrir los derechos de conexión de los servicios de agua potable, drenaje y alcantarillado del fraccionamiento a los de red general y, en su caso, a la red de agua tratada de uso común;
 
 III.- Ejecutar por su cuenta, en tiempo y especificaciones, las obras de urbanización que le correspondan, de acuerdo con el proyecto definitivo de fraccionamiento que se les haya autorizado y con las especificaciones técnicas establecidas por la Comisión Federal de Electricidad en materia de energía eléctrica;
 
@@ -1520,6 +1522,12 @@ V.- Donar al Ayuntamiento las áreas que se requieran para el equipamiento urban
 VI.- Pagar en tiempo y forma, las cargas fiscales que les correspondan, de acuerdo con lo dispuesto en la legislación fiscal estatal y municipal; y
 
 VII.- Rehacer a su costa, sujetándose al proyecto autorizado, todas las obras de urbanización que haya ejecutado en forma indebida.
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2005)</small>
+
+VIII. Cuando se construyan fraccionamientos de hipo habitacional de interés social, deberán garantizar que el 1% del total de las viviendas a construir, sean adaptables y accesibles para que las personas con algún impedimento para caminar puedan habitar en ellas adecuadamente.
+
+En los fraccionamientos menores a 100 viviendas, el fraccionador estará obligado a construir al menos una vivienda, siempre y cuando exista una solicitud expresa de alguna persona que así lo requiera.
 
 ###### ARTICULO 125.
 
@@ -1541,9 +1549,11 @@ Los Notarios exigirán como requisito indispensable para autorizar cualquiera de
 
 Quienes celebren las operaciones mencionadas en infracción de este Artículo cometerán el ilícito de fraude en perjuicio del Ayuntamiento y del comprador.
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 127.
 
-El fraccionador podrá solicitar la conexión a la red municipal de agua potable cuando se garantice la suficiencia de este servicio, previo dictamen técnico de la Junta de Agua y Saneamiento correspondiente.
+El fraccionador podrá solicitar la conexión a la red municipal de agua potable cuando se garantice la suficiencia de este servicio y en caso de que exista el servicio, a la red de agua tratada para riego de áreas verdes de uso común, previo dictamen técnico de la Junta de Agua y Saneamiento correspondiente.
 
 ###### ARTICULO 128.
 
@@ -1563,25 +1573,49 @@ I.- Urbanización inmediata: es aquella en la que el fraccionador o promovente d
 
 a) Red de agua potable y tomas domiciliarias;
 
-b) Red de alcantarillado y descargas domiciliarias;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE ENERO DE 2005)</small>
 
-c) Red de electrificación;
+b) Red de agua tratada para riego de áreas verdes de uso común;
 
-d) Red de alumbrado público;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
-e) Nomenclatura y señalamiento de tránsito (horizontal y vertical);
+c) Red de alcantarillado y descargas domiciliarias;
 
-f) Guarniciones de concreto;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
-g) Banquetas de concreto o similar, antiderrapante, con pendiente hacia la calle;
+d) Red de electrificación;
 
-h) Pavimento de concreto, asfalto o similar;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
-i) Solución a los escurrimientos pluviales;
+e) Red de alumbrado público;
 
-j) Una toma de agua en áreas verdes por cada cien metros o fracción de frente a vía pública; y
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
-k) Arbolado en parques, jardines y camellones apropiados a la zona de que se trate;
+f) Nomenclatura y señalamiento de tránsito (horizontal y vertical);
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
+
+g) Guarniciones de concreto;
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
+
+h) Banquetas de concreto o similar, antiderrapante, con pendiente hacia la calle;
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
+
+i) Pavimento de concreto, asfalto o similar;
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
+
+j) Solución a los escurrimientos pluviales;
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
+
+k) Una salida de agua tratada para riego de áreas verdes de uso común por cada cien metros de frente; y
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
+
+l) Arbolado en parques, jardines y camellones apropiados a la zona de que se trate;
 
 II.- Urbanización por etapas: es aquella en la que debido a la extensión, características y costo del fraccionamiento, el Ayuntamiento podrá autorizar al fraccionador o promovente la ejecución de las obras de urbanización inmediata y entrega por etapas, de acuerdo a los plazos, requisitos y zonas que se determinen en la autorización respectiva; y
 
@@ -1589,7 +1623,9 @@ III.- Urbanización progresiva: es aquella en la que el fraccionador o promovent
 
 a) Trazo de calles y lotificación;
 
-b) Red de agua potable y tomas domiciliarias o sistema de llaves o tomas públicas;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
+
+b) Red de agua potable y tomas domiciliarias o sistema de llaves o tomas públicas, así como la red de agua tratada para riego de áreas verdes de uso común;
 
 c) Red de alcantarillado y descargas domiciliarias o sistema similar;
 
@@ -1719,19 +1755,33 @@ No se permitirá la existencia de vías públicas dentro de los límites del con
 
 ###### ARTICULO 145.
 
-Todo conjunto urbano en régimen en condominio, deberá satisfacer los siguientes requisitos:
+Todo conjunto urbano, en régimen en condominio, deberá satisfacer los siguientes requisitos:
 
 I.- Red de agua potable y tomas domiciliarias;
 
-II.- Red de alcantarillado y descargas domiciliarias;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE ENERO DE 2005)</small>
 
-III.- Red de electrificación;
+II.- Red de agua tratada para riego de áreas verdes de uso común;
 
-IV.- Red de alumbrado en áreas comunes;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
-V.- Pavimento asfáltico o similar y banquetas en áreas de circulación interna; y
+III. Red de alcantarillado y descargas domiciliarias;
 
-VI.- Tomas de agua en parques y jardines por cada doscientos metros cuadrados o fracción.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
+
+IV.- Red de electrificación;
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
+
+V.- Red de alumbrado en áreas comunes;
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
+
+VI.- Pavimento asfáltico o similar y banquetas en áreas de circulación interna; y
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
+
+VII.- Tomas de agua tratada en parques y jardines de uso común por cada doscientos metros cuadrados o fracción.
 
 ###### ARTICULO 146.
 
@@ -1985,9 +2035,11 @@ Se prohiben las descargas sanitarias a ríos, arroyos o canales sin previo trata
 
 Los derechos de vía de las líneas de alta tensión, previo dictamen de la Comisión Federal de Electricidad, se podrán utilizar como vialidades, viveros y sitios que no impliquen estancia prolongada de personas.
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 174.
 
-Los proyectos de agua potable y alcantarillado se sujetarán a las normas que establezca la Junta de Agua y Saneamiento correspondiente.
+Los proyectos de agua potable, agua tratada y alcantarillado se sujetarán a las normas que establezca la Junta de Agua y Saneamiento correspondiente.
 
 ###### ARTICULO 175.
 
@@ -2201,13 +2253,25 @@ X.- Proyecto de lotificación;
 
 XI.- Proyecto de agua potable firmado y sellado por la Junta de Agua y Saneamiento correspondiente;
 
-XII.- Proyecto de alcantarillado sanitario autorizado debidamente por la Junta de Agua y Saneamiento correspondiente;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE ENERO DE 2005)</small>
 
-XIII.- Proyecto de electrificación firmado y sellado por la Comisión Federal de Electricidad;
+XII.- Proyecto de agua tratada autorizado debidamente por la Junta de Agua y Saneamiento correspondiente;
 
-XIV.- Proyecto de alumbrado público firmado y sellado por la Comisión Federal de Electricidad; y
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2005)</small>
 
-XV.- Proyecto de pavimentación, con curvas de nivel indicando los escurrimientos pluviales.
+XIII. Proyecto de alcantarillado sanitario autorizado debidamente por la Junta de Agua y Saneamiento correspondiente;
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2005)</small>
+
+XIV.- Proyecto de electrificación firmado y sellado por la Comisión Federal de Electricidad;
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2005)</small>
+
+XV.- Proyecto de alumbrado público firmado y sellado por la Comisión Federal de Electricidad; y
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2005)</small>
+
+XVI.- Proyecto de pavimentación, con curvas de nivel indicando los escurrimientos pluviales.
 
 ### Capítulo Quinto. De los Conjuntos Urbanos de Régimen en Condominio
 
@@ -2480,3 +2544,19 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 5 DE NOVIEMBRE DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE ENERO DE 2005.
+
+DECRETO No 93/04 I P.O. QUE REFORMA DIVERSOS ARTICULOS DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE ENERO DE 2005.
+
+DECRETO No. 95/04 I P.O. QUE ADICIONA LA FRACCION IV DEL ARTICULO 174 DE LA LEY DE DESARROLLO URBANO DE CHIHUAHUA
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
