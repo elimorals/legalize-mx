@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-judicial-del-estado-de-guanajuato-10943"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-04-01"
-last_updated: "1997-04-01"
+last_updated: "2001-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DEL 2001.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 1 de abril de 1997.
 
@@ -453,15 +453,11 @@ Los magistrados que integren el Supremo Tribunal de Justicia durarán en su carg
 
 En caso de ser ratificados en su cargo, solamente podrán ser privados del mismo, en los términos del artículo 126 de la Constitución Política Local.
 
+> <small>(REFORMADO, P. O. 3 DE AGOSTO DEL 2001)</small>
+
 ###### Artículo 49.
 
-Para la ratificación de los magistrados se tomarán en consideración los siguientes elementos:
-
-I.- El desempeño que hayan tenido en el ejercicio de su función;
-
-II.- Los resultados de las visitas de inspección; y
-
-III.- No tener notas de demérito por faltas graves.
+Los Magistrados Supernumerarios serán designados siguiendo los procedimientos previstos para los Magistrados Propietarios.
 
 ###### Artículo 50.
 
@@ -513,15 +509,37 @@ VIII.- Disponibilidad presupuestaria y situación del fondo del haber de retiro;
 
 IX.- Otras condiciones que estime el Consejo del Poder Judicial, para cumplir los objetivos del haber de retiro.
 
-### CAPITULO SEPTIMO. DE LOS JUZGADOS DE PARTIDO
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE AGOSTO DEL 2001)</small>
 
-### CAPITULO OCTAVO. DE LOS JUECES DE PARTIDO
+### CAPITULO SEPTIMO. DEL PROCEDIMIENTO PARA RATIFICAR A LOS MAGISTRADOS
 
-### CAPITULO NOVENO. DE LOS JUZGADOS MENORES
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DEL 2001)</small>
 
-### CAPITULO DECIMO. DE LOS JUECES MENORES
+###### Artículo 55-A.
 
-### CAPITULO DECIMO PRIMERO. DE LOS SECRETARIOS
+El Congreso del Estado podrá ratificar, o no, en su cargo a los Magistrados del Supremo Tribunal de Justicia designados en los términos de esta Ley, a propuesta del titular del Poder Ejecutivo o del Consejo del Poder Judicial, según les corresponda.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DEL 2001)</small>
+
+###### Artículo 55-B.
+
+El Gobernador del Estado o el Consejo del Poder Judicial, según corresponda por el turno ejercido en la propuesta de designación del Magistrado, podrán determinar no proponer la ratificación del Magistrado o bien someter en propuesta individual su ratificación a consideración del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DEL 2001)</small>
+
+###### Artículo 55-C.
+
+Ante la no ratificación de un Magistrado deberá formularse la propuesta de designación de un nuevo Magistrado en terna, observando los turnos que marca la Constitución Política Local y las disposiciones de esta Ley.
+
+La ratificación o, en su caso, la determinación de no proponerla, deberá quedar concluida antes de que se cumpla el término del nombramiento del Magistrado de que se trate. Si el proceso relativo no ha concluido, en tanto se llamará a un Supernumerario.
+
+### CAPITULO OCTAVO. DE LOS JUZGADOS DE PARTIDO
+
+### CAPITULO NOVENO. DE LOS JUECES DE PARTIDO
+
+### CAPITULO DECIMO. DE LOS JUZGADOS MENORES
+
+### CAPITULO DECIMO PRIMERO. DE LOS JUECES MENORES
 
 ###### Artículo 56.
 
@@ -555,7 +573,7 @@ III.- Secretarios proyectistas; y
 
 IV.- Actuarios y demás personal de apoyo que determine el Consejo del Poder Judicial.
 
-### CAPITULO DECIMO SEGUNDO. DE LOS ACTUARIOS
+### CAPITULO DECIMO SEGUNDO. DE LOS SECRETARIOS
 
 ###### Artículo 59.
 
@@ -621,7 +639,7 @@ En los partidos judiciales donde sólo exista un juzgado de partido el expedient
 
 Los jueces de partido actuarán con el secretario de acuerdos del juzgado o, en su defecto, con el secretario que habiliten para tal efecto, o a falta de ambos, con dos testigos de asistencia que el propio juez nombrará.
 
-### CAPITULO DECIMO TERCERO. DEL PERSONAL DE APOYO
+### CAPITULO DECIMO TERCERO. DE LOS ACTUARIOS
 
 ###### Artículo 65.
 
@@ -651,7 +669,7 @@ III.- Secretarios proyectistas; y
 
 IV.- Los Actuarios y demás personal de apoyo que determine el Consejo del Poder Judicial.
 
-### CAPITULO PRIMERO. DE LA CARRERA JUDICIAL
+### CAPITULO DECIMO CUARTO. DEL PERSONAL DE APOYO
 
 ###### Artículo 68.
 
@@ -683,7 +701,7 @@ En los municipios donde sólo exista un juez menor, el expediente se enviará al
 
 Será aplicable a los jueces menores, en lo conducente, lo dispuesto en esta Ley para los jueces de partido.
 
-### CAPITULO SEGUNDO. DEL INGRESO Y ASCENSO A LA CARRERA JUDICIAL
+### CAPITULO PRIMERO. DE LA CARRERA JUDICIAL
 
 ###### Artículo 72.
 
@@ -777,7 +795,7 @@ Los secretarios proyectistas tienen la obligación de elaborar los proyectos de 
 
 Los secretarios de acuerdos adscritos a los juzgados penales tienen las obligaciones y atribuciones que establece esta Ley. Asimismo, deberán practicar aseguramientos o cualquiera otra diligencia que deba llevarse a cabo con arreglo a la Ley o determinación judicial y ejecutar, en su caso, las decisiones del juez en cuanto a la entrega de los bienes, objetos o instrumentos del delito que no competa hacerlo a autoridad diversa
 
-### CAPITULO TERCERO. DEL INSTITUTO DE FORMACION DE LOS SERVIDORES
+### CAPITULO SEGUNDO. DEL INGRESO Y ASCENSO A LA CARRERA JUDICIAL
 
 ###### Artículo 81.
 
@@ -821,7 +839,7 @@ V.- La fecha de devolución del expediente.
 
 Los actuarios tendrán fe pública en el desempeño de sus funciones.
 
-### CAPITULO PRIMERO. DE LAS LICENCIAS Y RENUNCIAS
+### CAPITULO TERCERO. DEL INSTITUTO DE FORMACION DE LOS SERVIDORES
 
 ###### Artículo 85.
 
@@ -853,7 +871,7 @@ Los honorarios de los peritos designados por el magistrado o juez, serán cubier
 
 ## TITULO TERCERO
 
-### CAPITULO SEGUNDO. DEL MODO DE SUPLIR LAS FALTAS
+### CAPITULO PRIMERO. DE LAS LICENCIAS Y RENUNCIAS
 
 ###### Artículo 92.
 
@@ -895,7 +913,7 @@ IV.- Un sistema de estímulos y recompensas; y
 
 V.- Un sistema de capacitación y desarrollo de los servidores públicos judiciales, en los términos de esta Ley.
 
-### CAPITULO PRIMERO. DE LA OFICIALIA COMUN DE PARTES
+### CAPITULO SEGUNDO. DEL MODO DE SUPLIR LAS FALTAS
 
 ###### Artículo 96.
 
@@ -1007,7 +1025,7 @@ III.- Un representante de la institución académica que imparta el curso de for
 
 Los jueces, secretarios y actuarios al entrar a ejercer su cargo, protestarán guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política Local y las leyes que de ellas emanen; ante el Presidente del Supremo Tribunal de Justicia.
 
-### CAPITULO SEGUNDO. DE LAS CENTRALES DE ACTUARIOS
+### CAPITULO PRIMERO. DE LA OFICIALIA COMUN DE PARTES
 
 ###### Artículo 107.
 
@@ -1037,7 +1055,7 @@ El instituto llevará a cabo o promoverá cursos continuos de preparación para 
 
 ## TITULO CUARTO
 
-### CAPITULO TERCERO. DEL ARCHIVO DEL PODER JUDICIAL
+### CAPITULO SEGUNDO. DE LAS CENTRALES DE ACTUARIOS
 
 ###### Artículo 111.
 
@@ -1059,7 +1077,7 @@ Concluido el plazo de una licencia que se hubiere concedido, si el interesado no
 
 Las renuncias de los magistrados serán sometidas a la aprobación del Congreso del Estado, por el Titular del Poder Ejecutivo o por el Consejo del Poder Judicial, según corresponda por el origen de la propuesta para su designación.
 
-### CAPITULO UNICO. DE LA CONTRALORIA
+### CAPITULO TERCERO. DEL ARCHIVO DEL PODER JUDICIAL
 
 ###### Artículo 116.
 
@@ -1099,9 +1117,9 @@ IV.- Las de los demás servidores públicos, por quienes designe el Consejo del 
 
 ## TITULO QUINTO
 
-### CAPITULO UNICO. DE LA JURISPRUDENCIA
+### CAPITULO UNICO. DE LA CONTRALORIA
 
-### CAPITULO PRIMERO. DE LA AUTONOMIA PRESUPUESTAL
+### CAPITULO UNICO. DE LA JURISPRUDENCIA
 
 ###### Artículo 119.
 
@@ -1123,7 +1141,7 @@ El oficial tendrá fe pública en todo lo relativo al ejercicio de su cargo.
 
 Los turnos de los diversos asuntos deberán ser hechos conforme al sistema que establezca el Consejo del Poder Judicial.
 
-### CAPITULO SEGUNDO. DEL FONDO AUXILIAR PARA LA IMPARTICION DE JUSTICIA
+### CAPITULO PRIMERO. DE LA AUTONOMIA PRESUPUESTAL
 
 ###### Artículo 124.
 
@@ -1133,7 +1151,7 @@ El Consejo del Poder Judicial designará al titular responsable de la oficina ce
 
 Los actuarios dependerán administrativamente del titular de la oficina central de actuarios, pero estarán sometidos a la autoridad del juez que dicte la resolución que se cumplimente, por lo que a esta se refiere.
 
-### CAPITULO TERCERO. DE LAS BASES PARA LA APLICACION DEL FONDO AUXILIAR
+### CAPITULO SEGUNDO. DEL FONDO AUXILIAR PARA LA IMPARTICION DE JUSTICIA
 
 ###### Artículo 125.
 
@@ -1189,7 +1207,7 @@ El Consejo del Poder Judicial podrá acordar en todo caso las disposiciones que 
 
 ## TITULO SEXTO
 
-### CAPITULO UNICO. DE LA RESPONSABILIDAD
+### CAPITULO TERCERO. DE LAS BASES PARA LA APLICACION DEL FONDO AUXILIAR
 
 ###### Artículo 135.
 
@@ -1211,7 +1229,7 @@ V.- Las demás que determinen las leyes, los reglamentos y acuerdos generales co
 
 ## TITULO SEPTIMO
 
-### CAPITULO UNICO. DEL RECURSO ADMINISTRATIVO DE REVISION
+### CAPITULO UNICO. DE LA RESPONSABILIDAD
 
 ###### Artículo 137.
 
@@ -1241,9 +1259,7 @@ La contradicción de tesis deberá denunciarse por escrito al Pleno del Supremo 
 
 ## TITULO OCTAVO
 
-### CAPITULO UNICO
-
-DE LOS CONFLICTOS LABORALES ENTRE EL PODER JUDICIAL DEL ESTADO Y SUS SERVIDORES.
+### CAPITULO UNICO. DEL RECURSO ADMINISTRATIVO DE REVISION
 
 ###### Artículo 141.
 
@@ -1253,7 +1269,9 @@ El Poder Judicial tiene facultad para manejar en forma autónoma e independiente
 
 El presupuesto del Poder Judicial se ejercerá por el Consejo, el que deberá sujetarse a las disposiciones previstas en la Ley del Presupuesto, Contabilidad y Gasto Público y demás ordenamientos aplicables.
 
-### CAPITULO UNICO. DE LAS EXCITATIVAS DE JUSTICIA
+### CAPITULO UNICO
+
+DE LOS CONFLICTOS LABORALES ENTRE EL PODER JUDICIAL DEL ESTADO Y SUS SERVIDORES.
 
 ###### Artículo 143.
 
@@ -1284,6 +1302,8 @@ Para los efectos de la fracción V del artículo anterior, la sala o juzgado que
 Las sumas o valores depositadas por los particulares, serán reintegradas a los depositantes o beneficiarios, según proceda, mediante orden por escrito de la sala o juzgado ante el que se haya otorgado el depósito en el término máximo de cinco días a partir de la solicitud.
 
 El Pleno del Supremo Tribunal de Justicia informará al Congreso del Estado en la cuenta pública semestral que se presente, sobre el manejo y aplicación del fondo.
+
+### CAPITULO UNICO. DE LAS EXCITATIVAS DE JUSTICIA
 
 ###### Artículo 147.
 
@@ -1562,3 +1582,15 @@ VICENTE FOX QUESADA.
 POR AUSENCIA DEL C. SECRETARIO DE GOBIERNO, CON FUNDAMENTO EN EL ARTICULO 66 DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO, EL C. SUBSECRETARIO DE GOBIERNO Y SERVICIOS A LA COMUNIDAD.
 
 ANTONIO OBREGON PADILLA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE AGOSTO DEL 2001.
+
+Artículo Primero.- Los Magistrados del Supremo Tribunal de Justicia nombrados con anterioridad a la vigencia de esta Ley, podrán ser reelectos. Corresponde al Gobernador del Estado, por el origen del nombramiento de los Magistrados señalados, determinar no proponer su reelección en el cargo o someter en propuesta individual su reelección a consideración del Congreso del Estado, para que éste apruebe o no esa propuesta.
+
+Ante la no reelección de un Magistrado deberá formularse la propuesta de designación de un nuevo Magistrado en terna, observando los turnos alternativos que señala la Constitución Política Local y sujetándose a las disposiciones de esta Ley.
+
+La reelección o, en su caso, la determinación de no proponerla deberá quedar concluida antes de que se cumpla el término del nombramiento del Magistrado de que se trate. Si el proceso relativo no ha concluido, en tanto se llamará a un Supernumerario.
+
+Artículo Segundo.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
