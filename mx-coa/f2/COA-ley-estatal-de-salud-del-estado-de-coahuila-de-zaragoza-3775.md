@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "1993-07-30"
+last_updated: "1998-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -1625,9 +1625,11 @@ Las condiciones y requisitos sanitarios que deban reunir los establecimientos a 
 
 Para los efectos de esta Ley se entiende por prostitución la actividad que realizan las personas utilizando sus funciones sexuales como medio de vida.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1998)</small>
+
 ###### Artículo 212.
 
-Toda persona que se dedique a la prostitución, deberá conocer y utilizar medidas preventivas para evitar el contagio o transmitir enfermedades que se contraigan a través del contacto sexual. Asimismo, se sujetarán a exámenes médicos periódicos y a los demás requisitos que se establezcan en las disposiciones reglamentarias aplicables.
+Toda persona que se dedique a la prostitución, deberá conocer y utilizar medidas preventivas para evitar el contagio y la transmisión de enfermedades a través del contacto sexual. Asimismo, se sujetarán a exámenes médicos y de laboratorio periódicos, con inclusión del VIH. Al igual que a (sic) los demás requisitos que se establezcan en las disposiciones reglamentarias aplicables.
 
 ###### Artículo 213.
 
@@ -2368,3 +2370,11 @@ LIC. FELIPE GONZALEZ RODRIGUEZ
 EL SECRETARIO DE SALUD
 
 DR. RAYMUNDO VERDUZCO ROSAN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE JULIO DE 1998.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor el día siguiente al que se publique en el Periódico Oficial del Estado.
