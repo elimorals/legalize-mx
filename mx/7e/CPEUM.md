@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1935-01-16"
+last_updated: "1935-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE ENERO DE 1935.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 1935.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -824,9 +824,9 @@ VIII.- Para dar bases sobre las cuales el Ejecutivo pueda celebrar empréstitos 
 
 IX.- Para expedir aranceles sobre el comercio extranjero y para impedir que en el comercio de Estado a Estado se establezcan restricciones.
 
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 1934)</small>
+> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 1935)</small>
 
-X.- Para legislar en toda la República sobre Minería, Comercio, Instituciones de Crédito y Energía Eléctrica, para establecer el Banco de Emisión Unico, en los términos del artículo 28 de esta Constitución, y para expedir las leyes del trabajo reglamentarias del artículo 123 de la propia Constitución. La aplicación de las leyes del trabajo corresponde a las autoridades de los estados, en sus respectivas jurisdicciones, excepto cuando se trate de asuntos relativos a la industria textil, ferrocarriles y demás empresas de transporte amparadas por concesión federal, minería e hidrocarburos, los trabajos ejecutados en el mar y en las zonas marítimas, y, por último, las obligaciones que en materia educativa corresponden a los patrones, en la forma y términos que fijen las disposiciones reglamentarias. En el rendimiento de los impuestos que el Congreso Federal establezca sobre energía eléctrica en uso de las facultades que en materia de legislación le concede esta fracción, participaran los Estados y Municipios en la proporción que las autoridades federales y locales respectivas acuerden.
+X.- Para legislar en toda la República sobre Minería, Industria Cinematografica, Comercio, Instituciones de Crédito y Energía Eléctrica, para establecer el Banco de Emisión Unico, en los términos del artículo 28 de esta Constitución, y para expedir las leyes del trabajo reglamentarias del artículo 123 de la propia Constitución. La aplicación de las leyes del trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, excepto cuando se trate de asuntos relativos a la industria textil, ferrocarriles y demás empresas de transporte amparadas por concesión federal, minería e hidrocarburos, los trabajos ejecutados en el mar y en las zonas marítimas, y, por último, las obligaciones que en materia educativa corresponden a los patrones, en la forma y términos que fijen las disposiciones reglamentarias. En el rendimiento de los impuestos que el Congreso Federal establezca sobre energía eléctrica en uso de las facultades que en materia de legislación le concede esta fracción, participarán los Estados y Municipios en la proporción que las autoridades federales y locales respectivas acuerden.
 
 XI.- Para crear y suprimir empleos públicos de la Federación y señalar, aumentar o disminuir sus dotaciones.
 
@@ -1909,3 +1909,7 @@ Las deudas pendientes hasta la fecha en que entre en vigor esta reforma, y que h
 ###### ARTICULO 5o.
 
 Los Estados de Yucatán y Campeche, una vez que entre en vigor esta reforma constitucional, harán entrega a las autoridades de la nueva entidad de los archivos y expedientes que obren en las Oficinas Administrativas y en los Tribunales del lugar.
+
+D.O.F. 18 DE ENERO DE 1935.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
