@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-2-1992-del-tribunal-pleno-de-la-suprema-63067"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1992-06-08"
-last_updated: "1992-06-08"
+last_updated: "1993-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63067&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-02"
 
 ACUERDO No. 2/1992 DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, DE FECHA DOS DE JUNIO DE MIL NOVECIENTOS NOVENTA Y DOS, RELATIVO A LA CREACION DEL CUARTO TRIBUNAL COLEGIADO EN MATERIA PENAL EN EL PRIMER CIRCUITO, CON RESIDENCIA EN LA CIUDAD DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ENERO DE 1993.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 8 de junio de 1992.
 
@@ -47,13 +47,7 @@ ACUERDO:
 
 PRIMERO.- Se crea un nuevo tribunal colegiado, el Cuarto, en materia penal en el Primer Circuito, con residencia en la Ciudad de México, con igual jurisdicción a la de los tres tribunales colegiados en materia penal que funcionan actualmente en dicha ciudad.
 
-SEGUNDO.- Se modifica el punto segundo, fracción I, apartado 1, del Acuerdo 1/1992, de fecha diez de marzo de mil novecientos noventa y dos, emitido por este Tribunal en Pleno, para quedar como sigue:
-
-"SEGUNDO.- ...
-
-1.- Cuatro tribunales colegiados en materia penal, seis tribunales colegiados en materia administrativa, nuevo tribunales colegiados en materia de trabajo y cuatro tribunales unitarios, con residencia en la ciudad de México;
-
-2.- ..."
+SEGUNDO.- (DEROGADO POR TRANSITORIO PRIMERO DEL ACUERDO NUMERO 1/1993 DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 27 DE ENERO DE 1993)
 
 TRANSITORIOS:
 
@@ -70,3 +64,15 @@ LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA S
 > <small>(F. DE E., D.O.F. 8 DE JULIO DE 1992)</small>
 
 CERTIFICA: Que este Acuerdo 2/1992, relativo a la creación del Cuarto Tribunal Colegiado en materia penal en el Primer Circuito, con residencia en la ciudad de México, fue emitido por el Tribunal Pleno en Sesión Privada de dos de junio de mil novecientos noventa y dos, por unanimidad de veinte votos de los señores ministros: Presidente Ulises Schmill Ordóñez, Carlos de Silva Nava, Ignacio Magaña Cárdenas, José Trinidad Lanz Cárdenas, Samuel Alba Leyva, Noé Castañón León, Felipe López Contreras, Luis Fernández Doblado, José Antonio Llanos Duarte, Victoria Adato Green, Santiago Rodríguez Roldán, Ignacio Moisés Cal y Mayor Gutiérrez, Clementina Gil de Lester, Atanasio González Martínez, José Manuel Villagordoa Lozano, Fausta Moreno Flores, Carlos García Vázquez, Mariano Azuela Güitrón, Juan Díaz Romero y Sergio Hugo Chapital Gutiérrez.- México, Distrito Federal, a dos de junio de mil novecientos noventa y dos.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 27 DE ENERO DE 1993.
+
+PRIMERO.- Se derogan los puntos primero, segundo, tercero, cuarto y quinto del acuerdo 1/88 de quince de enero de mil novecientos ochenta y ocho; así como el punto quinto del acuerdo 2/1991 de nueve de abril de mil novecientos noventa y uno; el punto sexto del acuerdo 3/1991 de catorce de agosto de mil novecientos noventa y uno; el punto noveno del acuerdo 1/1992 de diez de marzo de mil novecientos noventa y dos; el punto segundo del acuerdo 2/1992 de dos de junio de mil novecientos noventa y dos; y los puntos sexto y séptimo del acuerdo 4/1992 de tres de noviembre de mil novecientos noventa y dos.
+
+SEGUNDO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+TERCERO.- La comisión de gobierno y administración y los ministros inspectores de los tribunales de circuito y juzgados de Distrito resolverán cualquier cuestión que pudiera suscitarse.
+
+CUARTO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, y hágase del conocimiento de todos los tribunales de circuito y juzgados de Distrito del país, para su cumplimiento.
