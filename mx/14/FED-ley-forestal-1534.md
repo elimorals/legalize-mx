@@ -4,7 +4,7 @@ identifier: "FED-ley-forestal-1534"
 country: "mx"
 rank: "ley"
 publication_date: "1926-04-24"
-last_updated: "1934-04-26"
+last_updated: "1934-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1926-04-05"
 
 LEY FORESTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ABRIL DE 1934.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 1934.
 
 Ley publicada en el Número 45 del Diario Oficial, el sábado 24 de abril de 1926
 
@@ -468,3 +468,73 @@ D.O. 26 DE ABRIL DE 1934.
 ###### ARTICULO TERCERO.
 
 Las reformas antes mencionadas surtirán sus efectos desde el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O. 31 DE DICIEMBRE DE 1934.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO QUE CREA EL DEPARTAMENTO FORESTAL Y DE CAZA Y PESCA Y DETERMINA QUE EL DEPARTAMENTO DE ESTABLECIMIENTOS FABRILES Y APROVISIONAMIENTOS MILITARES PASE A DEPENDER DE LA SECRETARÍA DE GUERRA Y MARINA” QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+###### ARTICULO PRIMERO.
+
+Se crea un Departamento dependiente directamente del Ejecutivo Federal que se denominará Departamento Forestal y de Caza y Pesca.
+
+###### ARTICULO SEGUNDO.
+
+Corresponde al Departamento Forestal y de Caza y Pesca:
+
+I.- La conservación de la riqueza forestal del país: reservas, bosques comunales y (sic);
+
+II.- La reforestación de las zonas de a (sic): viveros, praderas naturales;
+
+III.- La protección y fomento de la caza y pesca nacionales;
+
+IV.- El control y administración de los parques nacionales, bosques y productos vegetales y animales de los terrenos nacionales;
+
+V.- La protección de la fauna y la flora silvestre del país;
+
+VI.- La investigación, educación y propaganda, mediante la utilización de los siguientes servicios:
+
+a).- Escuelas elementales y superiores;
+
+b).- Exploraciones y colecciones científicas;
+
+c).- Estaciones y laboratorios hidro-biológicos y piscícolas;
+
+d).- Institutos biológicos y laboratorios de sueros y vacunas anti-ponzoñosas;
+
+e).- Museos nacionales y locales de Historia Natural, parques zoológicos y serpentarios;
+
+f).- Formación y distribución de colecciones pedagógicas para las escuelas.
+
+###### ARTICULO TERCERO.
+
+El Departamento Forestal y de Caza y Pesca llevará a cabo la inspección y vigilancia necesarias a sus funciones, y realizará, además de las facultades que quedan expresadas en el artículo anterior, todas las que en la materia competían a la Secretaría de Agricultura y Fomento, según las disposiciones legales y reglamentarias vigentes.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE CREA EL DEPARTAMENTO FORESTAL Y DE CAZA Y PESCA Y DETERMINA QUE EL DEPARTAMENTO DE ESTABLECIMIENTOS FABRILES Y APROVISIONAMIENTOS MILITARES PASE A DEPENDER DE LA SECRETARÍA DE GUERRA Y MARINA”.]
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1º de enero de 1935.
+
+###### ARTICULO SEGUNDO.
+
+En la misma fecha la Secretaría de Agricultura y Fomento hará entrega al Departamento Forestal y de Caza y Pesca de la Dirección Forestal y de Caza y Pesca con todos los elementos (documentos, biblioteca, útiles, maquinaria y demás) que actualmente tiene.
+
+###### ARTICULO TERCERO.
+
+En igual fecha el Departamento de Establecimientos Fabriles y Aprovisionamientos Militares, será entregado a la Secretaría de Guerra y Marina con todos los elementos que actualmente tiene (documentos, bibliotecas, útiles, maquinaria y demás implementos.)
+
+###### ARTICULO CUARTO.
+
+El Departamento Forestal y de Caza y Pesca tendrá el personal y gastos que señale el Presupuesto de Egresos de 1935.
+
+###### ARTICULO QUINTO.
+
+Como dependencia de la Secretaría de Guerra y Marina, los Establecimientos Fabriles y Aprovisionamientos Militares, tendrán el personal y gastos que fije la Partida correspondiente del Presupuesto de Egresos de 1935.
+
+###### ARTICULO SEXTO.
+
+Se autoriza al Ejecutivo Federal para que dentro de un término que vencerá el día 31 de agosto de 1935, expida las reformas que sean necesarias a la Ley Forestal de 21 de abril de 1926, debiendo dar cuenta al Congreso del uso que haga de la facultad que le confiere este artículo.
+
+###### ARTICULO SEPTIMO.
+
+Quedan reformadas, en los términos de la presente Ley, la de Secretarías de Estado de 22 de marzo de 1934 y la Ley Forestal de 21 de abril de 1926; se derogan todas las disposiciones legales y reglamentarias que se opongan a la presente.
