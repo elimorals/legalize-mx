@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2004-09-06"
+last_updated: "2004-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -659,9 +659,13 @@ XXXVIII. Los municipios de manera libre decidirán si tienen oficialías mediado
 
 XXXIX.- Expedir el Reglamento de las Oficialías Mediadoras-Conciliadoras Municipales;
 
-> <small>(ADICIONADA, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.G. 1 DE DICIEMBRE DE 2004)</small>
 
-XL. Las demás que le señalen otras disposiciones legales.
+XL.- Convocar a la designación de los Coordinadores Municipales de Derechos Humanos;
+
+> <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2004)</small>
+
+XLI.- Las demás que señalen las leyes y otras disposiciones legales.
 
 ###### Artículo 32.
 
@@ -843,9 +847,7 @@ V. Convocar a sesiones ordinarias y extraordinarias a los integrantes del ayunta
 
 VI. Proponer al ayuntamiento los nombramientos de secretario, tesorero y titulares de las dependencias y organismos auxiliares de la administración pública municipal;
 
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
-
-VI Bis. Proponer al ayuntamiento el nombramiento del Coordinador Municipal de Derechos Humanos, considerando preferentemente para ello, a los integrantes de la Comisión de Planeación para el Desarrollo Municipal y a los integrantes de los Consejos de Participación Ciudadana;
+VI Bis. (DEROGADA, G.G. 1 DE DICIEMBRE DE 2004)
 
 VII. Presidir las comisiones que le asigne la ley o el ayuntamiento;
 
@@ -1805,9 +1807,11 @@ Una vez decretada la municipalización del servicio, si el ayuntamiento carece d
 
 Coordinador Municipal de Derechos Humanos
 
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 1 DE DICIEMBRE DE 2004)</small>
 
-Artículo 147 A.- En cada municipio, el ayuntamiento respectivo designará, por el voto de las dos terceras partes de sus integrantes, a propuesta del Presidente Municipal, un Coordinador Municipal de Derechos Humanos, quien se apoyará en el personal necesario para atender la Coordinación Municipal de Derechos Humanos.
+Artículo 147 A.- En cada municipio, el Ayuntamiento respectivo llevará a cabo una convocatoria abierta a efecto de que se designe al Coordinador Municipal de Derechos Humanos, mismo que durará en su cargo 3 años.
+
+De los aspirantes a Coordinadores Municipales de Derechos Humanos que de dicha convocatoria resultaren, se elegirá una terna por el Comisionado de Derechos Humanos y una vez presentada ésta, el cabildo designará al más apropiado.
 
 > <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
 
@@ -1815,11 +1819,33 @@ Artículo 147 B.- El Coordinador Municipal deberá reunir los siguientes requisi
 
 I. Ser originario del municipio de que se trate o vecino de él, con residencia efectiva en su territorio no menor de tres años;
 
-II. Ser ciudadano mexicano en pleno ejercicio de sus derechos y de reconocida honorabilidad en su municipio; y
+> <small>(REFORMADA, G.G. 1 DE DICIEMBRE DE 2004)</small>
+
+II. Ser ciudadano mexicano en pleno ejercicio de sus derechos y de reconocida honorabilidad en su municipio;
 
 III. No desempeñar ningún empleo o cargo público al momento de asumir sus funciones en la coordinación.
 
-Durante el tiempo de su encargo, el Coordinador no podrá desempeñar otro empleo, cargo o comisión públicos.
+> <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2004)</small>
+
+IV. Tener más de 25 años al momento de su designación;
+
+> <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2004)</small>
+
+V. Contar preferentemente con licenciatura o especialización en el área de Derechos Humanos.
+
+> <small>(REFORMADO, G.G. 1 DE DICIEMBRE DE 2004)</small>
+
+Durante el tiempo de su encargo, el Coordinador no podrá desempeñar otro empleo, cargo o comisión públicos; ni realizar cualquier actividad proselitista.
+
+> <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2004)</small>
+
+Artículo 147 B Bis.- Son causas de separación del Coordinador Municipal de Derechos Humanos:
+
+I. Renuncia;
+
+II. Haber sido condenado por un delito que merezca pena corporal; y
+
+III. Haber estado involucrado en soborno, corrupción, cohecho, así como en cualquier otra conducta ilícita.
 
 > <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
 
@@ -1851,9 +1877,15 @@ XI. Organizar actividades para la población a efecto de promover el fortalecimi
 
 Artículo 147 D.- El Coordinador Municipal de Derechos Humanos, en todo caso, deberá coordinar acciones con la Comisión de Derechos Humanos del Estado de México, específicamente con el Visitador General de la región a la que corresponda el municipio.
 
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
+> <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2004)</small>
 
-Artículo 147 E.- El Coordinador Municipal de Derechos Humanos, rendirá un informe semestral de actividades al ayuntamiento reunido en sesión solemne de cabildo, debiendo remitir copia del mismo al Presidente de la Comisión de Derechos Humanos del Estado de México.
+Artículo 147 D Bis.- Los Coordinadores Municipales de Derechos Humanos ejercerán el presupuesto asignado con sujeción a las políticas de racionalidad, austeridad y disciplina presupuestal, debiendo cumplir con los programas y proyectos definidos por la Comisión de Derechos Humanos.
+
+> <small>(REFORMADO, G.G. 1 DE DICIEMBRE DE 2004)</small>
+
+Artículo 147 E.- El Coordinador Municipal de Derechos Humanos, rendirá un informe semestral de actividades al ayuntamiento reunido en sesión solemne de cabildo debiendo asistir el Comisionado de Derechos Humanos o quien lo represente.
+
+El Coordinador Municipal de Derechos Humanos deberá entregar en dicha reunión el informe respectivo al Comisionado de Derechos Humanos, o en su caso a quien lo represente en la misma.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
@@ -2257,7 +2289,7 @@ PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
 
-G.G. 15 DE FEBRERO DE 1999
+G.G. 15 DE FEBRERO DE 1999.
 
 ###### ARTICULO PRIMERO.
 
@@ -2322,3 +2354,7 @@ PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Para cumplir con lo establecido en los artículos 53 fracciones VIII y IX y 91 fracción XI de la Ley Orgánica Municipal, los actuales Ayuntamientos, tendrán un término de ciento veinte días hábiles a partir del inicio de la vigencia del presente decreto, para iniciar el procedimiento a que se hace referencia, respecto de los inmuebles que se hayan adquirido antes de la publicación del presente decreto.
+
+G.G. 1 DE DICIEMBRE DE 2004.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 8 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MÉXICO.
