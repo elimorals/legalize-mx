@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2001-02-10"
+last_updated: "2001-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2001.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -982,6 +982,10 @@ El término a que se refiere este artículo podrá prorrogarse cuando haya sido 
 209.- Las pretensiones que puedan formularse por la mujer, por el marido, o por el depositario sobre variación del depósito, o cualesquiera otros incidentes a que éste pueda dar lugar, se resolverán de plano, salvo que el juez considere necesario oír a las partes, pues en este caso las citará a una audiencia, para dentro de los tres días siguientes, y en la misma pronunciará su resolución.
 
 210.- Al depositario se dará copia certificada de la constitución del depósito, para su resguardo, aun cuando aquél no la solicitara expresamente.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
+210 Bis.- Los derechos contemplados en el presente capítulo, también podrán ejercerlos la concubina y el concubinario, cuando tengan un domicilio común con las características del domicilio conyugal a que se refiere el Código Civil.
 
 ### CAPITULO IV. De la preparación del juicio arbitral
 
@@ -3841,7 +3845,9 @@ Los casos a que se refiere el párrafo anterior son: el depósito de menores o i
 
 903-1.- Los negocios de la competencia de los Juzgados de lo Familiar que no tengan previsto en el presente Código procedimiento especial para su tramitación, se seguirán conforme al siguiente:
 
-I.- El Juez estará facultado para intervenir de oficio en los asuntos que afectan a la familia, pudiendo decretar al efecto, las medidas adecuadas para su preservación y protección de sus miembros.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
+I.- El juez estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente en cuestiones relacionadas con violencia familiar, decretando las medidas precautorias que tiendan a preservar la familia y proteger a sus miembros.
 
 En estos casos, el Juez deberá exhortar a los interesados para que se avengan, resolviendo sus diferencias mediante convenio, que evite la controversia o dé por terminada la intervención judicial;
 
@@ -3854,6 +3860,10 @@ Podrá acudirse ante el Juez de lo Familiar por escrito o por comparecencia pers
 Tratándose de alimentos, ya sea provisionales o los que se deban por contrato, por testamento o por disposición de la Ley, el Juez fijará a petición del acreedor, sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional mientras se resuelve el juicio.
 
 En caso de sustracción ilegal de menores, el depósito provisional o recuperación deberá sustanciarse conforme a lo previsto por el capítulo IV, del Título Decimotercero de este Código;
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
+Tratándose de violencia familiar prevista en el artículo 300 ter, del Código Civil para nuestro Estado, el juez del conocimiento determinará las medidas procedentes para la protección de los menores y de la parte agredida. Para tal efecto, verificará el contenido de los informes que al respecto hayan sido elaborados por las instituciones públicas o privadas que hubieren intervenido y escuchará al Ministerio Público.
 
 III.- En el auto admisorio se fijará día y hora para la celebración de la audiencia de pruebas y alegatos, la que tendrá lugar dentro de los ocho días siguientes;
 
@@ -4396,3 +4406,9 @@ Decreto No. 798/01 V P.E.
 PRIMERO.- El presente decreto entrará en vigor a los sesenta días siguientes, contados a partir de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las reformas a que se refiere el presente Decreto, no serán aplicables a persona alguna que tenga créditos contratados con anterioridad a su entrada en vigor, ni tratándose de créditos novados o restructurados con anterioridad a la misma.
+
+P.O. 29 DE SEPTIEMBRE DE 2001.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
