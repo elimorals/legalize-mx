@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-861
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-08-27"
-last_updated: "1996-08-27"
+last_updated: "1996-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8619&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-08-26"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 1996.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el martes 27 de agosto de 1996.
 
@@ -897,15 +897,21 @@ Salvo que el Procurador lo determine de otra forma, los servidores públicos de 
 
 PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-Los artículos 2, en lo relativo a las Subprocuradurías de Procedimientos Penales "A", "B" y "C", 26, 29, 30, 31, 32 y 42 de este Reglamento entrarán en vigor el 1o. de enero de 1998.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1996)</small>
 
-SEGUNDO. Se abroga el Reglamento de la Ley Orgánica de la Procuraduría General de la República, publicado en el Diario Oficial de la Federación el 8 de octubre de 1993, excepto el artículo 5o. bis referente a la Subprocuraduría Especial que seguirá con sus funciones hasta en tanto sean terminados los asuntos a su cargo y los artículos 1o., 5o., 14, 16 y 17, en lo relativo a las Subprocuradurías de Averiguaciones Previas y Control de Procesos, Direcciones Generales de Averiguaciones Previas, de Control de Procesos y Jurídica, que continuarán en vigor hasta el 31 de diciembre de 1996; se derogan todas las disposiciones internas que se opongan al presente Reglamento.
+Los artículos 2, en lo relativo a las Subprocuradurías de Procedimientos Penales "A", "B" y "C", 26, 29, 30, 31, 32 y 42 de este Reglamento entrarán en vigor el 1o. de junio de 1997.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1996)</small>
+
+SEGUNDO. Se abroga el Reglamento de la Ley Orgánica de la Procuraduría General de la República, publicado en el Diario Oficial de la Federación el 8 de octubre de 1993, excepto el artículo 5o. bis referente a la Subprocuraduría Especial que seguirá con sus funciones hasta en tanto sean terminados los asuntos a su cargo y los artículos 1o., 5o., 14, 16 y 17, en lo relativo a las Subprocuradurías de Averiguaciones Previas y Control de Procesos, Direcciones Generales de Averiguaciones Previas, de Control de Procesos y Jurídica, que continuarán en vigor hasta el 31 de mayo de 1997; se derogan todas las disposiciones internas que se opongan al presente Reglamento.
 
 TERCERO. En tanto se expidan y entren en vigor los Manuales Generales o Especiales de Organización, Procedimientos o de cualesquiera otras materias, referidos al Ministerio Público de la Federación, Policía Judicial Federal, Servicios Periciales, o de otras funciones de la Procuraduría General de la República, que se ajusten a las disposiciones de este Reglamento, se estará a los que actualmente rigen, en lo que no se oponga al mismo.
 
 CUARTO. Los asuntos que a la entrada en vigor de este Reglamento se estén tramitando en las Subprocuradurías de Averiguaciones Previas y de Control de Procesos, Direcciones Generales de Averiguaciones Previas y de Control de Procesos, Dirección General Jurídica, y las Fiscalías Especiales de Averiguaciones Previas y de Control de Procesos, continuarán a cargo de las mismas hasta que el Procurador los asigne a las áreas correspondientes. Las demás áreas deberán entregar los asuntos a su cargo a aquéllas a las que se les haya atribuido la competencia correspondiente. En lo sucesivo, para toda disposición o procedimiento legal, la Fiscalía Especial para la Atención de Delitos Electorales, se entenderá referido a la Fiscalía Especializada para la Atención de Delitos Electorales.
 
-QUINTO. En tanto entran en vigor los artículos precisados en el transitorio Primero de este reglamento, para todos los efectos legales a que haya lugar, la suplencia del Procurador, en lo relativo a los Subprocuradores de Procedimientos Penales "A" y "B", se entenderá ejercida por los actuales Subprocuradores de Averiguaciones Previas, de Control de Procesos, respectivamente.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1996)</small>
+
+QUINTO. En tanto entran en vigor los artículos precisados en el transitorio primero, para los efectos del artículo 56 de este Reglamento, la suplencia del Procurador se llevará a cabo, en el orden que a continuación se menciona, por los Subprocuradores Jurídicos y de Asuntos Internacionales, de Averiguaciones Previas, de Control de Procesos y de Coordinación General y Desarrollo.
 
 SEXTO. Los recursos humanos, materiales y financieros con que cuenta la Institución, que están adscritos o aplicados a las unidades o áreas específicas que por el presente Reglamento se modifican o desaparecen, se adscribirán o aplicarán discrecionalmente, por el Procurador, a las que por el presente Reglamento se reestructuran o son de nueva creación.
 
@@ -914,3 +920,9 @@ SÉPTIMO. En tanto entran en vigor los artículos 2o., en lo relativo a los Subp
 OCTAVO. En tanto se expide la nueva reglamentación sobre la Carrera del Ministerio Público de la Federación y de la Policía Judicial Federal, las funciones de la Junta de Honor que prevén los reglamentos de Carrera de Agente Ministerio Público de la Federación y de la Policía Judicial Federal las desarrollará el Consejo de Profesionalización y los Comités de Zona en los ámbitos de su competencia.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de agosto de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 27 DE DICIEMBRE DE 1996.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
