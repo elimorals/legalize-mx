@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-tecnologica-de-21379"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-04"
-last_updated: "1999-10-04"
+last_updated: "2001-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE NEZAHUALCOYOTL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2001.
 
 Reglamento publicado en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el lunes 4 de octubre de 1999.
 
@@ -97,7 +97,9 @@ La Universidad estará a cargo de un Rector, que será nombrado y removido por e
 
 Corresponde al Rector, además de lo señalado en la Ley, el ejercicio de las siguientes atribuciones:
 
-I. Organizar, controlar y evaluar el funcionamiento general de la Universidad;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2001)</small>
+
+I. Planear, organizar, dirigir, controlar y evaluar el funcionamiento general de la Universidad;
 
 II. Presentar al Consejo los planes y programas de la Universidad;
 
@@ -115,9 +117,15 @@ VIII. Supervisar el ejercicio de las atribuciones de los titulares de las unidad
 
 IX. Conceder licencias no mayores de quince días al personal de la Universidad;
 
-X. Presidir la Comisión Interna de Modernización y Mejoramiento Integral de la Administración de la Universidad; y
+X. Presidir la Comisión Interna de Modernización y Mejoramiento Integral de la Administración de la Universidad; y (sic)
 
-XI. Las demás que le confieran las disposiciones aplicables y el Consejo.
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2001)</small>
+
+XI. Ejercitar la representación legal de la Universidad de acuerdo con las facultades generales y especiales a las que se refiere el artículo 2408 del Código Civil del Estado de México y sus correlativos con las demás entidades federativas; y
+
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2001)</small>
+
+XII. Las demás que le confieran las disposiciones aplicables y el Consejo.
 
 ###### Artículo 12.
 
@@ -155,6 +163,10 @@ El Rector contará con el número de servidores públicos y unidades administrat
 
 El Secretario Académico tendrá a su cargo la coordinación y supervisión del desarrollo de las actividades de las direcciones de división y de centros, estableciendo una relación permanente entre la Universidad y el sector productivo de bienes y servicios.
 
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2001)</small>
+
+Durará en su cargo cuatro años y podrá ser ratificado por otro periodo igual; será nombrado por el Consejo a propuesta del Rector, y deberá reunir los requisitos que le señala la Ley para este efecto.
+
 ###### Artículo 14.
 
 Corresponde al Secretario Académico:
@@ -186,6 +198,10 @@ XII. Las demás que le señalen otros ordenamientos legales y las que le encomie
 ###### Artículo 15.
 
 Al Secretario de Vinculación Tecnológica Empresarial le corresponde la coordinación y supervisión del desarrollo de las actividades de vinculación entre la Universidad y el sector productivo de bienes y servicios.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2001)</small>
+
+Durará en su cargo cuatro años y podrá ser ratificado por otro periodo igual; será nombrado por el Consejo a propuesta del Rector y deberá reunir los requisitos que le señala la Ley para este efecto.
 
 ###### Artículo 16.
 
@@ -221,7 +237,9 @@ XIII. Las demás que le señalen otros ordenamientos legales y las que le encomi
 
 Corresponde al Abogado General las siguientes atribuciones:
 
-I. Representar a la Universidad en los asuntos judiciales;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2001)</small>
+
+I. Representar a la Universidad en los asuntos judiciales en que sea parte, con las facultades que corresponden a un mandatario general para pleitos y cobranzas;
 
 II. Asesorar jurídicamente al Rector;
 
@@ -247,15 +265,41 @@ XII. Rendir por escrito al Rector los informes diario, mensual y anual de las ac
 
 XIII. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Rector.
 
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2001)</small>
+
+Artículo 17 bis.- Para ser Abogado General se requiere:
+
+I. Ser de nacionalidad mexicana;
+
+II. Poseer título profesional de licenciado en derecho o abogado;
+
+III. Tener cuando menos cinco años de ejercicio profesional y experiencia en la legislación de instituciones de educación superior; y
+
+IV. Gozar de reconocida solvencia moral y prestigio profesional.
+
 ### CAPITULO V. De las Atribuciones Genéricas de los Directores
 
 ###### Artículo 18.
 
 Al frente de cada dirección habrá un titular, quien se auxiliará de los subdirectores, jefes de departamento y de los demás servidores públicos que las necesidades del servicio requiera, de acuerdo a la organización interna aprobada y al presupuesto de egresos respectivo.
 
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2001)</small>
+
+Artículo 18 bis.- Los Directores de División serán nombrados y removidos por el Consejo a propuesta del Rector; durarán en su cargo tres años y podrán ser ratificados por otro periodo igual. Los Directores de División deberán reunir los mismos requisitos que señala la Ley para el cargo de Secretario Académico.
+
+Los Directores de División cesarán en sus funciones por cualquiera de las siguientes causas:
+
+I. Por renuncia;
+
+II. Por término de la duración de su encargo; o
+
+III. Por acuerdo del Consejo, cuando así lo requiera el interés institucional o la buena marcha de la División.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 14 DE MAYO DE 2001)</small>
+
 ###### Artículo 19.
 
-Corresponde a los directores el despacho de los siguientes asuntos:
+Corresponde a los directores de área el despacho de los siguientes asuntos:
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones encomendadas a la dirección a su cargo;
 
@@ -283,13 +327,41 @@ XII. Rendir por escrito al Rector los informes diario, mensual y anual de las ac
 
 XIII. Las demás que les confieran las disposiciones legales aplicables y aquéllas que les encomiende el Rector.
 
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2001)</small>
+
+Artículo 19 bis.- Corresponde a los directores de división el despacho de los siguientes asuntos:
+
+I. Proponer al Secretario Académico, en el ámbito de su competencia, investigaciones tecnológicas tendentes a la solución de problemas del entorno regional, de acuerdo con las políticas y las tendencias internacionales;
+
+II. Coordinarse con el sector productivo de la región, a través de la Secretaría de Vinculación Tecnológica Empresarial, para que los alumnos de la División a su cargo realicen estancias profesionales;
+
+III. Promover la capacitación y actualización de los profesores investigadores de la División a su cargo, de conformidad con la normatividad en la materia;
+
+IV. Atender los asuntos académicos que les sean planteados por la comunidad de la División a su cargo;
+
+V. Proponer al Secretario Académico para su autorización, la realización de programas de estadías;
+
+VI. Proponer al Secretario Académico la participación de la División a su cargo, en programas y actividades internas e interinstitucionales de carácter académico y tecnológico;
+
+VI. Proponer los perfiles de ingreso y egreso de los alumnos de su respectiva División;
+
+VIII. Participar en los órganos colegiados o comisiones, así como en las actividades académicas, tecnológicas y culturales que les encomiende el Secretario Académico;
+
+IX. Promover, en coordinación con la Secretaría de Vinculación Tecnológica Empresarial, actividades de desarrollo microempresarial entre los alumnos de la División a su cargo;
+
+X. Apoyar, en sus respectivos ámbitos de competencia, a la Secretaría de Vinculación Tecnológica Empresarial en los programas de vinculación; y
+
+XI. Las demás que les confieran las disposiciones aplicables y aquellas que les encomiende el Secretario Académico.
+
 ### CAPITULO VI. De las Atribuciones Específicas de las Direcciones Y de la Contraloría Interna
 
 ###### Artículo 20.
 
 Corresponde a la Dirección de División de Administración de Empresas:
 
-I. Desarrollar programas de investigación científica y tecnológica sobre aspectos específicos de los contenidos temáticos que integran la carrera de administración de empresas;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2001)</small>
+
+I. Implementar programas de investigación y desarrollos tecnológicos sobre aspectos específicos de los contenidos temáticos que integran la carrera de administración de empresas;
 
 II. Elaborar y someter a la aprobación del Secretario Académico, el programa operativo de la División de Administración de Empresas, así como los programas de estadías, tutorías y asesorías;
 
@@ -303,9 +375,13 @@ VI. Proponer al Secretario Académico los contenidos temáticos de los programas
 
 VII. Presentar las actualizaciones y mejoras que resulten de los contenidos temáticos, a fin de alcanzar los índices de eficiencia propuestos;
 
-VIII. Supervisar el desarrollo de las actividades del personal docente adscrito a la carrera; así como aplicar exámenes de oposición para ocupar las plazas vacantes en la división;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2001)</small>
 
-IX. Realizar investigaciones científicas y tecnológicas que permitan el avance del conocimiento y fortalezcan la enseñanza;
+VIII. Supervisar el desarrollo de las actividades del personal docente adscrito a la carrera;
+
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2001)</small>
+
+IX. Realizar investigaciones y desarrollos tecnológicos que permitan el avance del conocimiento y fortalezcan la enseñanza;
 
 X. Establecer políticas y lineamientos para la asignación de becas a los estudiantes de la división;
 
@@ -319,7 +395,9 @@ XIII. Las demás que le señalen otros ordenamientos legales y las que le encomi
 
 Corresponde a la Dirección de División de Informática y Computación:
 
-I. Desarrollar programas de investigación científica y tecnológica sobre aspectos específicos de los contenidos temáticos que integran la carrera de informática y computación;
+(REFORMADA, G.G. 14 DE MAYO DE 2001) (F. DE E., G.G. 28 DE MAYO DE 2001)
+
+I. Implementar programas de investigación y desarrollos tecnológicos sobre aspectos específicos de los contenidos temáticos que integran la carrera de informática y computación;
 
 II. Elaborar y someter la aprobación del Secretario Académico, el programa operativo de la División de Informática y Computación, así como los programas de estadías, tutorías y asesorías;
 
@@ -333,9 +411,13 @@ VI. Proponer al Secretario Académico los contenidos temáticos de los programas
 
 VII. Presentar las actualizaciones y mejoras que resulten de los contenidos temáticos, a fin de alcanzar los índices de eficiencia propuestos;
 
-VIII. Supervisar el desarrollo de las actividades del personal docente adscrito a la carrera, así como aplicar exámenes de oposición para ocupar las plazas vacantes de la división;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2001)</small>
 
-IX. Realizar investigaciones científicas y tecnológicas que permitan el avance del conocimiento y fortalezcan la enseñanza;
+VIII. Supervisar el desarrollo de las actividades del personal docente adscrito a la carrera;
+
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2001)</small>
+
+IX. Realizar investigaciones y desarrollos tecnológicos que permitan el avance del conocimiento y fortalezcan la enseñanza;
 
 X. Establecer políticas y lineamientos para la asignación de becas a los estudiantes de la división;
 
@@ -349,7 +431,9 @@ XIII. Las demás que le señalen otros ordenamientos legales y las que le encomi
 
 Corresponde a la Dirección de División de Tecnología Ambiental:
 
-I. Desarrollar programas de investigación científica y tecnológica sobre aspectos específicos de los contenidos temáticos que integran la carrera de tecnología ambiental;
+(REFORMADA, G.G. 14 DE MAYO DE 2001) (F. DE E., G.G. 28 DE MAYO DE 2001)
+
+I. Implementar programas de investigación y desarrollos tecnológicos sobre aspectos específicos de los contenidos temáticos que integran la carrera de tecnología ambiental;
 
 II. Elaborar y someter a la aprobación del Secretario Académico, el programa operativo de la División de Tecnología Ambiental, así como los programas de estadías, tutorías y asesorías;
 
@@ -363,9 +447,13 @@ VI. Proponer al Secretario Académico los contenidos temáticos de los programas
 
 VII. Presentar las actualizaciones y mejoras que resulten de los contenidos temáticos, a fin de alcanzar los índices de eficiencia propuestos;
 
-VIII. Supervisar el desarrollo de las actividades del personal docente adscrito a la carrera, así como aplicar exámenes de oposición para ocupar las plazas vacantes en la división;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2001)</small>
 
-IX. Realizar investigaciones científicas y tecnológicas que permitan el avance del conocimiento y fortalezcan la enseñanza;
+VIII. Supervisar el desarrollo de las actividades del personal docente adscrito a la carrera;
+
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2001)</small>
+
+IX. Realizar investigaciones y desarrollos tecnológicos que permitan el avance del conocimiento y fortalezcan la enseñanza;
 
 X. Establecer políticas y lineamientos para la asignación de becas a los estudiantes de la división;
 
@@ -379,7 +467,9 @@ XIII. Las demás que le señalen otros ordenamientos legales y las que le encomi
 
 Corresponde a la Dirección de División de Comercialización:
 
-l. Desarrollar programas de investigación científica y tecnológica sobre aspectos específicos de los contenidos temáticos que integran la carrera de comercialización;
+(REFORMADA, G.G. 14 DE MAYO DE 2001) (F. DE E., G.G. 28 DE MAYO DE 2001)
+
+I. Implementar programas de investigación y desarrollos tecnológicos sobre aspectos específicos de los contenidos temáticos que integran la carrera de comercialización;
 
 II. Elaborar y someter a la aprobación del Secretario Académico, el programa operativo de la División de Comercialización, así como los programas de estadías, tutorías y asesorías;
 
@@ -393,9 +483,13 @@ VI. Proponer al Secretario Académico los contenidos temáticos de los programas
 
 VII. Presentar las actualizaciones y mejoras que resulten de los contenidos temáticos, a fin de alcanzar los índices de eficiencia propuestos;
 
-VIII. Supervisar el desarrollo de las actividades del personal docente adscrito a la carrera, así como aplicar exámenes de oposición para ocupar las plazas vacantes en la división;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2001)</small>
 
-IX. Realizar investigaciones científicas y tecnológicas que permitan el avance del conocimiento y fortalezcan la enseñanza;
+VIII. Supervisar el desarrollo de las actividades del personal docente adscrito a la carrera;
+
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2001)</small>
+
+IX. Realizar investigaciones y desarrollos tecnológicos que permitan el avance del conocimiento y fortalezcan la enseñanza;
 
 X. Establecer políticas y lineamientos para la asignación de becas a los estudiantes de la división;
 
@@ -409,7 +503,9 @@ XIII. Las demás que le señalen otros ordenamientos legales y las que le encomi
 
 Corresponde a la Dirección de División de Gestión de la Producción:
 
-I. Desarrollar programas de investigación científica y tecnológica sobre aspectos específicos de los contenidos temáticos que integran la carrera de gestión de la producción;
+(REFORMADA, G.G. 14 DE MAYO DE 2001) (F. DE E., G.G. 28 DE MAYO DE 2001)
+
+I. Implementar programas de investigación y desarrollos tecnológicos sobre aspectos específicos de los contenidos temáticos que integran la carrera de gestión de la producción;
 
 II. Elaborar y someter a la aprobación del Secretario Académico, el programa operativo de la División de Gestión de la Producción, así como los programas de estadías, tutorías y asesorías;
 
@@ -423,9 +519,13 @@ VI. Proponer al Secretario Académico los contenidos temáticos de los programas
 
 VII. Presentar las actualizaciones y mejoras que resulten de los contenidos temáticos, a fin de alcanzar los índices de eficiencia propuestos;
 
-VIII. Supervisar el desarrollo de las actividades del personal docente adscrito a la carrera, así como aplicar exámenes de oposición para ocupar las plazas vacantes en la división;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2001)</small>
 
-IX. Realizar investigaciones científicas y tecnológicas que permitan el avance del conocimiento y fortalezcan la enseñanza;
+VIII. Supervisar el desarrollo de las actividades del personal docente adscrito a la carrera;
+
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2001)</small>
+
+IX. Realizar investigaciones y desarrollos tecnológicos que permitan el avance del conocimiento y fortalezcan la enseñanza;
 
 X. Establecer políticas y lineamientos para la asignación de becas a los estudiantes de la división;
 
@@ -439,7 +539,9 @@ XIII. Las demás que le señalen otros ordenamientos legales y las que le encomi
 
 Corresponde a la Dirección de División de Telemática:
 
-l. Desarrollar programas de investigación científica y tecnológica sobre aspectos específicos de los contenidos temáticos que integran la carrera de telemática;
+(REFORMADA, G.G. 14 DE MAYO DE 2001) (F. DE E., G.G. 28 DE MAYO DE 2001)
+
+I. Implementar programas de investigación y desarrollos tecnológicos sobre aspectos específicos de los contenidos temáticos que integran la carrera de telemática;
 
 II. Elaborar y someter a la aprobación del Secretario Académico, el programa operativo de la División de Telemática, así como los programas de estadías, tutorías y asesorías;
 
@@ -453,9 +555,13 @@ VI. Proponer al Secretario Académico los contenidos temáticos de los programas
 
 VII. Presentar las actualizaciones y mejoras que resulten de los contenidos temáticos, a fin de alcanzar los índices de eficiencias propuestos;
 
-VIII. Supervisar el desarrollo de las actividades del personal docente adscrito a la carrera, así como aplicar exámenes de oposición para ocupar las plazas vacantes en la división;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2001)</small>
 
-IX. Realizar investigaciones científicas y tecnológicas que permitan el avance del conocimiento y fortalezcan la enseñanza;
+VIII. Supervisar el desarrollo de las actividades del personal docente adscrito a la carrera;
+
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2001)</small>
+
+IX. Realizar investigaciones y desarrollos tecnológicos que permitan el avance del conocimiento y fortalezcan la enseñanza;
 
 X. Establecer políticas y lineamientos para la asignación de becas a los estudiantes de la división;
 
@@ -471,7 +577,9 @@ Corresponde a la Dirección de Difusión y Extensión Universitaria:
 
 I. Promover, coordinar y evaluar la difusión cultural y extensión de la Universidad, mediante la vinculación interinstitucional con universidades e instituciones diversas;
 
-II. Planear, ejecutar y evaluar los programas de vinculación donde participen las autoridades académicas de la Universidad;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2001)</small>
+
+II. Planear, ejecutar y evaluar los programas de difusión en los que participen las autoridades académicas de la Universidad;
 
 III. Difundir la cultura científica al interior del Organismo y en lo (sic) sectores social y productivo;
 
@@ -489,9 +597,9 @@ IX. Extender a la sociedad la actividad institucional del Organismo, procurando 
 
 X. Integrar, mantener, perfeccionar y administrar adecuadamente la difusión del patrimonio cultural de la Universidad y del acervo artístico con que cuente;
 
-XI. Vincular la docencia con la sociedad, mediante planes y programas encaminados al beneficio de la colectividad;
+XI. (DEROGADA, G.G. 14 DE MAYO DE 2001)
 
-XII. Promover programas tendientes a ofertar los servicios de los egresados dentro del sector productivo;
+XII. (DEROGADA, G.G. 14 DE MAYO DE 2001)
 
 XIII. Proponer al Secretario de Vinculación Tecnológica Empresarial las publicaciones a editar en la Universidad, observando las disposiciones sobre la materia; y
 
@@ -517,7 +625,9 @@ VII. Elaborar los programas anuales de adquisiciones de bienes y servicios, así
 
 VIII. Cumplir con los ordenamientos legales que rijan en materia de adquisiciones, conservación, mantenimiento y reparación de bienes muebles e inmuebles;
 
-IX. Presidir el Comité Ejecutivo de Adquisiciones, con el propósito de que las operaciones se realicen de acuerdo a las disposiciones legales aplicables en la materia;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2001)</small>
+
+IX. Presidir el Comité de Adquisiciones, Arrendamientos de Bienes y Servicios, con el propósito de que las operaciones sobre este particular se realicen de acuerdo a las disposiciones aplicables en la materia;
 
 X. Proveer los materiales de trabajo para el desarrollo de las actividades académicas y administrativas de la Universidad;
 
@@ -603,6 +713,10 @@ SEGUNDO.- Se abroga el Reglamento Interior de la Universidad Tecnológica de Nez
 
 TERCERO.- En tanto se expidan los reglamentos respectivos derivados del presente ordenamiento, todo lo no previsto será resuelto por el Rector, previa autorización del Consejo Directivo.
 
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2001)</small>
+
+CUARTO.- Los términos a los que se refiere el presente Reglamento con relación al período de encargo de los secretarios y directores de división, se contará (sic) a partir de la fecha de expedición de su nombramiento, salvo acuerdo en contrario que proponga el Rector al Consejo Directivo y éste así lo determine.
+
 Aprobado por el Consejo Directivo de la Universidad Tecnológica de Nezahualcóyotl, en Ciudad Nezahualcóyotl, Estado de México a los 3 días del mes de julio de mil novecientos noventa y nueve.
 
 EL CONSEJO DIRECTIVO
@@ -618,3 +732,13 @@ SECRETARIO
 M. EN C. MIGUEL ANGEL VASQUEZ MENDOZA.- RUBRICA.
 
 RECTOR DE LA UNIVERSIDAD TECNOLOGICA DE NEZAHUALCOYOTL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 14 DE MAYO DE 2001.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
