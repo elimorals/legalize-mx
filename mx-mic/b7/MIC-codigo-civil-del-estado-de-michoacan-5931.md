@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1950-09-21"
+last_updated: "1953-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 1950.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 1953.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el jueves 30 de julio de 1936.
 
@@ -315,6 +315,10 @@ La Secretaría de Gobierno por medio de los Agentes del Ministerio Público, cui
 
 El padre dentro de los quince días, y la madre dentro de los cuarenta días siguientes al nacimiento de un hijo, tienen obligación de presentarlo al Juez del Registro Civil de su domicilio, ya sea llevándolo a la Oficina o pasando dicho funcionario a la casa donde se encuentre el infante.
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 1953)</small>
+
+Cuando los padres hubieren fallecido, si se tratare de hijos nacidos de matrimonio, cualquiera de los ascendientes de ambas líneas, podrán presentar al descendiente, a condición de exhibir ante el Juzgado del Registro Civil el acta de matrimonio de los padres de quien se pretende el registro; a falta de ascendientes, el registro se hará por resolución de Juez competente a solicitud del propio interesado con la presentación del acta de matrimonio de sus padres e información testimonial, sobre su posesión de estado de hijo legítimo, en los términos que fije el Código de Procedimientos Civiles. Con relación a los hijos nacidos fuera de matrimonio, el registro solamente se hará por sentencia ejecutoria dictada en juicio sobre investigación de la maternidad o paternidad.
+
 ###### Artículo 60.
 
 En los lugares donde no haya Oficina del Registro Civil el niño será presentado a la persona que ejerza la autoridad municipal, quien dar una constancia que se presentará al Juez que corresponda para que asiente el acta.
@@ -323,9 +327,11 @@ En los lugares donde no haya Oficina del Registro Civil el niño será presentad
 
 Los médicos, cirujanos o matronas que asistan a un parto y el jefe de la casa en que éste se verifique, cuando no sea la paterna, dentro de los tres días siguientes al alumbramiento, darán aviso del nacimiento del infante. El Juez del Estado Civil tomará las medidas necesarias para que se levante el acta respectiva.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1953)</small>
+
 ###### Artículo 62.
 
-Las personas que no cumplan con las obligaciones impuestas por los dos artículos inmediatos anteriores, incurrirán en una multa de uno a cien pesos.
+Las personas que no cumplan con las obligaciones impuestas por los tres artículos inmediatos anteriores, incurrirán en una multa de uno a cien pesos. Se exceptuarán las presentaciones a que se refiere el párrafo segundo del artículo 59.
 
 ###### Artículo 63.
 
@@ -14358,3 +14364,7 @@ P.O. 21 DE SEPTIEMBRE DE 1950.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 1953.
+
+Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
