@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "1997-12-30"
+last_updated: "1999-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,11 +22,11 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MAYO DE 1999.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
-Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- éxico.- Secretaría de Gobernación.
+Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
 El C. Presidente Constitucional de los Estados Unidos Mexicanos, se ha servido dirigirme el siguiente Decreto:
 
@@ -74,9 +74,9 @@ III. Pedir la reparación del daño en los términos especificados en el Código
 
 Corresponde al Ministerio Público:
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 1999)</small>
 
-I. Dirigir a la Policía Judicial en la investigación que ésta haga para comprobar los elementos del tipo ordenándole la práctica de las diligencias que, a su juicio, estime necesarias para cumplir debidamente con su cometido, o practicando él mismo aquellas diligencias;
+I. Dirigir a la Policía Judicial en la investigación que ésta haga para comprobar el cuerpo del delito ordenándole la práctica de las diligencias que, a su juicio, estime necesarias para cumplir debidamente con su cometido, o practicando el mismo aquellas diligencias;
 
 II. Pedir al juez a quien se consigne el asunto la práctica de todas aquellas diligencias que, a su juicio, sean necesarias para comprobar la existencia del delito y de sus modalidades;
 
@@ -128,7 +128,7 @@ En el primer caso del artículo anterior, el Ministerio Público presentará sus
 
 En el segundo caso del artículo 6° el Agente del Ministerio Público presentará al juez de los autos su promoción en la que expresará los hechos y preceptos de derecho en que se funde para pedir la libertad del acusado.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE MAYO DE 1999)</small>
 
 ### CAPITULO II. Competencia
 
@@ -136,7 +136,9 @@ En el segundo caso del artículo 6° el Agente del Ministerio Público presentar
 
 ###### ARTICULO 9º.
 
-En todo proceso penal la víctima o el ofendido por algún delito tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando la requiera y, los demás que señalan las leyes; por lo tanto podrán poner a disposición del Ministerio Público y del juez instructor todos los datos conducentes a acreditar los elementos del tipo penal, la probable y plena responsabilidad del inculpado según el caso, y a justificar la reparación del daño.
+En todo proceso penal la víctima o el ofendido por algún delito tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando la requiera y, los demás que señalan las leyes, por lo tanto podrán poner a disposición del Ministerio Público y del Juez Instructor todos los datos conducentes a acreditar el cuerpo del delito, la probable y plena responsabilidad del inculpado según el caso, y a justificar la reparación del daño.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 El sistema de auxilio a la víctima del delito dependerá de la Procuraduría General de Justicia del Distrito Federal.
 
@@ -286,11 +288,11 @@ Cuando no tenga que dictarse resolución alguna anterior a la sentencia, sí se 
 
 En los tribunales colegiados, ninguna audiencia podrá celebrarse sin la concurrencia de la mayoría de los miembros que los compongan.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 3 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 28.
 
-Todo tribunal o juez, cuando estén comprobados los elementos del tipo penal, dictarán oportunamente las providencias necesarias para restituir al ofendido en sus derechos que estén plenamente justificados.
+Todo Tribunal o Juez, cuando esté comprobado el cuerpo del delito y la probable responsabilidad del inculpado, dictarán oportunamente las providencias necesarias para restituir al ofendido en sus derechos que estén plenamente justificados.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -672,7 +674,7 @@ No podrán los jueces y tribunales modificar ni variar sus sentencias después d
 
 Las resoluciones judiciales no se entenderán consentidas, sino cuando, notificada la parte, conteste expresamente de conformidad o deje pasar el término señalado para interponer el recurso que proceda.
 
-### CAPITULO I. Elementos del tipo, huellas y objetos del delito
+### CAPITULO I. Cuerpo del delito, huellas y objetos del delito
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -756,7 +758,7 @@ A los defensores de oficio, cuando no se les pueda hacer la notificación person
 
 #### SECCION PRIMERA. Disposiciones comunes
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 3 DE MAYO DE 1999)</small>
 
 ### CAPITULO II. Curación de heridos y enfermos
 
@@ -774,13 +776,13 @@ Cuando se encuentren las personas o cosas relacionadas con el delito, se describ
 
 Cuando las circunstancias de la persona o cosa no pudieren apreciarse debidamente sino por peritos, tan luego como se cumpla con lo prevenido en el artículo anterior, el Ministerio Público nombrará dichos peritos, agregando al acta el dictamen correspondiente.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 3 DE MAYO DE 1999)</small>
 
 #### SECCION TERCERA. Instrucción
 
 ###### ARTICULO 97.
 
-Si para la comprobación de los elementos del tipo penal, o de sus circunstancias, tuviere importancia el reconocimiento de un lugar cualquiera, se hará constar en el acta la descripción del mismo, sin omitir detalle alguno que pueda tener valor.
+Si para la comprobación del cuerpo del delito, o de sus circunstancias, tuviere importancia el reconocimiento de un lugar cualquiera, se hará constar en el acta la descripción del mismo, sin omitir detalle alguno que pueda tener valor.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -894,11 +896,13 @@ En caso de muerte, practicarán, además, la autopsia del cadáver.
 
 En todos los casos de robo, se harán constar en la descripción todas aquellas señales que puedan servir para determinar si hubo escalamiento, horadación o fractura, o si se usaron llaves falsas, haciendo cuando fuere necesario, que peritos emitan su opinión sobre estas circunstancias.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 115.
 
-Para integrar los elementos del tipo de violencia familiar, deberán acreditarse las calidades específicas y circunstancias de los sujetos señalados en los artículos 343 bis y 343 ter del Código Penal para el Distrito Federal en materia de fuero común, y para toda la República en materia de fuero federal, además de agregarse a la averiguación previa los dictámenes correspondientes de los peritos en el área de salud física y mental, según lo contemplan los artículos 95, 96 y 121 del presente Código.
+Para comprobar el cuerpo del delito de violencia familiar deberán acreditarse las calidades específicas y circunstancias de los sujetos señalados en los artículos 343 bis y 343 ter del Código Penal para el Distrito Federal, además de agregarse a la averiguación previa los dictámenes correspondientes de los peritos en el área de salud física y mental, según lo contemplan los artículos 95, 96 y 121 del presente Código.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
 Los profesionales que presten sus servicios en las instituciones legalmente constituidas, especializadas en atención de problemas relacionados con la violencia familiar, podrán rendir los informes por escrito que les sean solicitados por las autoridades. Asimismo dichos profesionistas podrán colaborar en calidad de peritos, sujetándose a lo dispuesto en este Código.
 
@@ -916,11 +920,11 @@ Los profesionales que presten sus servicios en las instituciones legalmente cons
 
 En los casos de incendio, la policía judicial dispondrá que los peritos determinen en cuanto fuere posible: el modo, lugar y tiempo en que se efectuó; la calidad de la materia que lo produjo; las circunstancias por las cuales pueda conocerse que haya sido intencional y la posibilidad que haya habido de un peligro, mayor o menor, para la vida de las personas o para la propiedad, así como los perjuicios y daños causados.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 3 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 119.
 
-Si el delito fuere de falsedad o de falsificación de documentos, se hará una minuciosa descripción del instrumento argüido de falso y se depositará en lugar seguro, haciendo que firmen en él, si fuere posible, las personas que depongan respecto a su falsedad; en caso contrario se harán constar los motivos. Al expediente se agregará una copia certificada del documento argüido de falso y otra fotográfica del mismo, cuando sea posible. La comprobación de los elementos del tipo, en los casos de falsedad, se hará como lo dispone el artículo 122 de este código.
+Si el delito fuere de falsedad o de falsificación de documentos, se hará una, minuciosa descripción del instrumento argüido de falso y se depositará en lugar seguro, haciendo que firmen en él, si fuere posible, las personas que depongan respecto a su falsedad; en caso contrario se harán constar los motivos. Al expediente se agregará una copia certificada del documento argüido de falso y otra fotográfica del mismo, cuando sea posible. La comprobación del cuerpo del delito, en los casos de falsedad, se hará como lo dispone el articulo 122 de este Código.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -934,23 +938,17 @@ Cualquier persona que tenga en su poder un instrumento público o privado que se
 
 En todos los delitos en que se requieran conocimientos especiales para su comprobación, se utilizarán, asociadas, las pruebas de inspección ministerial o judicial y de peritos, sin perjuicio de las demás.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 3 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 122.
 
-El Ministerio Público acreditará los elementos del tipo penal del delito de que se trate y la probable responsabilidad del inculpado, como base del ejercicio de la acción; y la autoridad judicial, a su vez, examinará si ambos requisitos están acreditados en autos. Dichos elementos son los siguientes:
+El Ministerio Público acreditará el cuerpo del delito de que se trate y la probable responsabilidad del indiciado, como base del ejercicio de la acción penal; y la autoridad judicial, a su vez, examinará si ambos requisitos están acreditados en autos.
 
-I. La existencia de la correspondiente acción u omisión y de la lesión o, en su caso, el peligro a que ha sido expuesto el bien jurídico protegido;
+El cuerpo del delito se tendrá por comprobado cuando se acredite el conjunto de los elementos objetivos o externos que constituyen la materialidad del hecho que la ley señale como delito.
 
-II. La forma de intervención de los sujetos activos; y
+En los casos en que la ley incorpore en la descripción de la conducta prevista como delito un elemento subjetivo o normativo, como elemento constitutivo esencial, será necesaria la acreditación del mismo para la comprobación del cuerpo del delito.
 
-III. La realización dolosa o culposa de la acción u omisión.
-
-Asimismo, se acreditarán, si el tipo lo requiere: a) las calidades del sujeto activo y del pasivo; b) el resultado y su atribuibilidad a la acción u omisión; c) el objeto material; d) los medios utilizados; e) las circunstancias de lugar, tiempo, modo y ocasión; f) los elementos normativos; g) los elementos subjetivos específicos y h) las demás circunstancias que la ley prevea.
-
-Para resolver sobre la probable responsabilidad del inculpado, la autoridad deberá constatar si no existe acreditada en favor de aquél alguna causa de licitud y que obren datos suficientes para acreditar su probable culpabilidad.
-
-Los elementos del tipo penal de que se trate y la probable responsabilidad se acreditará por cualquier medio probatorio que señale la ley.
+La probable responsabilidad del indiciado, se tendrá por acreditada cuando de los medios comprobatorios existentes se deduzca su obrar doloso o culposo en el delito que se le imputa, y no exista acreditada en su favor alguna causa de exclusión del delito.
 
 ###### ARTICULO 123.
 
@@ -960,11 +958,11 @@ Los elementos del tipo penal de que se trate y la probable responsabilidad se ac
 
 (DEROGADO, D.O.F. 10 DE ENERO DE 1994)
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 3 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 124.
 
-Para la comprobación de los elementos del tipo y la probable o plena responsabilidad del inculpado, en su caso, el Ministerio Público y el juez gozarán de la acción más amplia para emplear los medios de prueba que estimen conducentes, según su criterio, aunque no sean de los que define y detalla la ley, siempre que esos medios no estén reprobados por ésta.
+Para la comprobación del cuerpo del delito y la probable o plena responsabilidad del inculpado, en su caso, el Ministerio Público y el Juez gozarán de la acción mas amplia para emplear los medios de prueba que estimen conducentes, para el esclarecimiento de la verdad histórica, aunque no sean de los que define y detalla la ley, siempre que esos medios no estén reprobados por ésta.
 
 ### CAPITULO III. Aprehensión, detención o comparecencia del inculpado
 
@@ -1016,11 +1014,13 @@ I. Que el Ministerio Público la haya solicitado; y
 
 II. Que se reúnan los requisitos fijados por el artículo 16 de la Constitución Federal.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 133.
 
-En los casos a que se refiere el tercer párrafo del artículo 271 de este código, y en todos aquellos en que el delito no dé lugar a aprehensión, a pedimento del Ministerio Público se librará la orden de comparecencia en contra del inculpado para que rinda su declaración preparatoria, siempre que estén acreditados los elementos del tipo y la probable responsabilidad del inculpado.
+En los casos a que se refiere el tercer párrafo del artículo 271 de este Código, y en todos aquellos en que el delito no dé lugar a aprehensión, a pedimento del Ministerio Público se librará la orden de comparecencia en contra del inculpado para que rinda su declaración preparatoria, siempre que esté acreditado el cuerpo del delito y la probable responsabilidad del inculpado.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 La orden de comparecencia y la de aprehensión se entregarán al Ministerio Público.
 
@@ -2092,9 +2092,9 @@ Cuando la Policía Judicial tenga conocimiento de la comisión de un delito que 
 
 I. El parte de la policía, o en su caso, la denuncia que ante ella se haga, asentando minuciosamente todos los datos proporcionados por uno u otra;
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 1999)</small>
 
-II. Las pruebas que suministren las personas que rindan el parte o hagan la denuncia, así como las que se recojan en el lugar de los hechos, ya sea que se refieran a la existencia de los elementos del tipo o a la probable responsabilidad de sus autores, cómplices o encubridores; y
+II. Las pruebas que suministren las personas que rindan el parte o hagan la denuncia, así como las que se recojan en el lugar de los hechos, ya sea que se refieran al cuerpo del delito o a la probable responsabilidad de sus autores; cómplices o encubridores, y
 
 III. Las medidas que dictaren para completar la investigación.
 
@@ -2174,17 +2174,27 @@ El juez, en su caso, de oficio o a petición de parte, verificará que perdure e
 
 Las diligencias practicadas por el Ministerio Público y por la Policía Judicial, tendrán valor probatorio pleno, siempre que se ajusten a las reglas relativas de este Código.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE MAYO DE 1999)</small>
 
-ARTICULO 286 bis.- Cuando aparezca de la averiguación previa que existe denuncia o querella, que se han reunido los requisitos previos que en su caso exijan la ley y que se han acreditado los elementos del tipo y la probable responsabilidad del indiciado, el Ministerio Público ejercitará la acción penal ante el órgano jurisdiccional que corresponda.
+ARTICULO 286 bis.- Cuando aparezca de la averiguación previa que existe denuncia o querella, que se han reunido los requisitos previos que en su caso exijan la ley y que se ha acreditado la existencia del cuerpo del delito y la probable responsabilidad del indiciado, el Ministerio Público ejercitará la acción penal ante el órgano jurisdiccional que corresponda.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 El juzgado ante el cual se ejercite la acción penal, radicará de inmediato el asunto. Sin más trámite le abrirá expediente en el que se resolverá lo que legalmente corresponda y practicará, sin demora alguna, todas las diligencias que resulten procedentes.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+
 Si la consignación es con detenido deberá inmediatamente ratificar la detención, si ésta fuere constitucional; en caso contrario decretará la libertad con las reservas de ley.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 Si durante el plazo de tres días, contados a partir del en que se haya hecho la consignación sin detenido, el juez no dicta auto de radicación en el asunto, el Ministerio Público podrá recurrir en queja ante la Sala Penal del Tribunal Superior que corresponda.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+
 El juez ordenará o negará la aprehensión, reaprehensión o comparecencia solicitada por el Ministerio Público dentro de los cinco días contados a partir de la fecha en que se haya acordado la radicación.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 Tratándose de consignación sin detenido por delito grave o delincuencia organizada, inmediatamente debe radicarse el asunto, y dentro de las veinticuatro horas siguientes la autoridad resolverá sobre el pedimento de la orden de aprehensión. Si el juez no resuelve oportunamente sobre estos puntos, el Ministerio Público procederá en los términos previstos en el párrafo anterior.
 
@@ -2284,7 +2294,9 @@ I. Se dictará dentro del plazo de setenta y dos horas, a partir de que el indic
 
 II. Que se le haya tomado la declaración preparatoria al inculpado en los términos de ley, o bien, conste en el expediente que se negó a emitirla;
 
-III. Que de lo actuado aparezcan datos suficientes que acrediten los elementos del tipo penal del delito por el cual deba seguirse el proceso;
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 1999)</small>
+
+III. Que de lo actuado aparezcan datos suficientes que acrediten el cuerpo del delito por el cual deba seguirse el proceso;
 
 IV. Que el delito sea sancionado con pena privativa de libertad;
 
@@ -2326,17 +2338,17 @@ El auto de formal prisión y de sujeción al proceso, serán apelables en el efe
 
 Cuando por la naturaleza del delito o de la pena aplicable, el imputado no deba ser internado en prisión preventiva y existan elementos para suponer que podrá sustraerse a la acción de la justicia, el Ministerio Público podrá solicitar al juez fundada y motivadamente o éste disponer de oficio, con audiencia del imputado, el arraigo de éste con las características y por el tiempo que el juzgador señale, sin que en ningún caso pueda exceder del término en que deba resolverse el proceso.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 3 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 302.
 
-El auto de libertad por falta de elementos para procesar se fundará en la falta de pruebas relativas a la existencia de los elementos del tipo o de la probable responsabilidad del consignado; contendrá los requisitos señalados en las fracciones I y VII del artículo 297 de este código, no impedirá que posteriormente, con nuevos datos, se proceda en contra del indiciado.
+El auto de libertad por falta de elementos para procesar se fundará en la falta de pruebas relativas a la existencia del cuerpo del delito o de la probable responsabilidad del consignado; contendrá los requisitos señalados en las fracciones I y VII del artículo 297 de este Código, no impedirá que posteriormente, con nuevos datos, se proceda en contra del indiciado.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 3 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 303.
 
-Cuando el juez deba dictar auto de libertad, porque la ausencia de pruebas de los elementos del tipo o de probable responsabilidad del indiciado dependan de omisiones del Ministerio Público o de agentes de la Policía Judicial, el mismo juez, al dictar su determinación, mencionará expresamente tales omisiones para que se exija a éstos la responsabilidad en que hubieren incurrido.
+Cuando el juez deba dictar auto de libertad, porque la ausencia de pruebas respecto del cuerpo del delito o de la probable responsabilidad del indiciado deriven de omisiones del Ministerio Público o de agentes de la Policía Judicial, el mismo Juez, al dictar su determinación, mencionará expresamente tales omisiones para que se exija a éstos la responsabilidad en que hubieren incurrido.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -2350,9 +2362,9 @@ El auto de libertad por falta de elementos para procesar, es apelable en el efec
 
 El auto de sujeción a proceso deberá contener los requisitos señalados en las fracciones I, II, III, V, VI y VII del artículo 297 de este código, y la sanción sea no privativa de libertad, o bien, alternativa o disyuntiva.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 3 DE MAYO DE 1999)</small>
 
-ARTICULO 304 Bis A.- El auto de formal prisión o el auto de sujeción a proceso se dictarán por el delito que realmente aparezca comprobado, tomando en cuenta sólo los hechos materia de la consignación, y considerando los elementos del tipo y la probable responsabilidad correspondientes aun cuando con ello se modifique la clasificación hecha en promociones o resoluciones anteriores.
+ARTICULO 304 Bis A.- El auto de formal prisión o el auto de sujeción a proceso se dictarán por el delito que realmente aparezca comprobado, tomando en cuenta sólo los hechos materia de la consignación, y considerando el cuerpo del delito y la probable responsabilidad correspondientes aun cuando con ello se modifique la clasificación hecha en promociones o resoluciones anteriores.
 
 ## TITULO TERCERO. Juicio
 
@@ -3922,9 +3934,9 @@ En cualquier estado del proceso en que aparezca que se han desvanecido los funda
 
 En consecuencia la libertad por desvanecimiento de datos, procede en los siguientes casos:
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 1999)</small>
 
-I. Cuando en el curso del proceso se hayan desvanecido, por prueba plena, las que sirvieron para comprobar los elementos del tipo penal; y
+I. Cuando en el curso del proceso se hayan desvanecido, por prueba plena, las que sirvieron para comprobar el cuerpo del delito; y
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -5225,3 +5237,9 @@ SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA
 PRIMERO.- Este Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
 
 ...
+
+G.O. 3 DE MAYO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación para su mayor difusión.
