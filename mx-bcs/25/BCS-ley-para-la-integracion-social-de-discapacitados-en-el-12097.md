@@ -4,7 +4,7 @@ identifier: "BCS-ley-para-la-integracion-social-de-discapacitados-en-el-12097"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-18"
-last_updated: "1996-11-18"
+last_updated: "2002-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY PARA LA INTEGRACION SOCIAL DE DISCAPACITADOS EN EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DE LA LEY DEL INSTITUTO SUDCALIFORNIANO DE ATENCION A PERSONAS CON DISCAPACIDAD, PUBLICADA EN EL B.O. DE 7 DE ENERO DE 2002., EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: DEROGADA.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 18 de noviembre de 1996.
 
@@ -572,3 +574,27 @@ LIC. GUILLERMO MERCADO ROMERO.
 SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RAUL ANTONIO ORTEGA SALGADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 7 DE ENERO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Corresponde al Ejecutivo del Estado el expedir el Reglamento de la presente Ley en los términos señalados para tal efecto en un plazo que no excederá 90 días contados a partir de la vigencia de la presente ley.
+
+###### ARTÍCULO TERCERO.
+
+Las Comisiones y la integración de los grupos de profesionales a los que se refieren los artículos de este ordenamiento legal, entrarán en funciones en un plazo no mayor de 60 días a partir de la publicación del reglamento respectivo de esta Ley. Las normas de organización y funcionamiento de dichas comisiones se establecerán en un ordenamiento propio y se elaborarán en un plazo no mayor de 60 días a partir de su integración.
+
+###### ARTÍCULO CUARTO.
+
+De conformidad con lo establecido por esta Ley, en un plazo que no excederá de dos años contados a partir de su entrada en vigor, se adoptarán paulatinamente las medidas de adecuación necesarias en establecimientos e instituciones públicas, privadas, sociales y de recreación que cuenten con barreras arquitectónicas.
+
+###### ARTÍCULO QUINTO.
+
+Queda derogada en su totalidad la Ley para la Integración Social de Discapacitados en el Estado de Baja California Sur aprobada mediante Decreto número 1099 del H. Congreso del Estado de Baja California Sur y publicada en el Boletín Oficial del Gobierno del Estado con fecha 14 de Noviembre de 1996.
