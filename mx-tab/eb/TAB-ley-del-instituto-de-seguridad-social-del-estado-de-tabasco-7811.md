@@ -1,0 +1,1242 @@
+---
+title: "LEY DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO"
+identifier: "TAB-ley-del-instituto-de-seguridad-social-del-estado-de-tabasco-7811"
+country: "mx"
+rank: "ley"
+publication_date: "1984-08-01"
+last_updated: "1984-08-01"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7811&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-tab"
+scjn_id: "7811"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "4371"
+reform_count: "5"
+scjn_last_update: "2015-12-31"
+issue_date: "1984-07-19"
+state: "TAB"
+---
+# LEY DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
+
+LEY DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Tabasco, el 1 de agosto de 1984.
+
+ENRIQUE GONZALEZ PEDRERO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TABASCO, A SUS HABITANTES SABED:
+
+Que el H. Congreso del Estado se ha servido dirigirme lo siguiente:
+
+La H. Quincuagésima Primera Legislatura del Estado Libre y Soberano de Tabasco, en uso de las facultades que le confiere el artículo 36, fracciones I y XXXIX de la Constitución Política Local, y
+
+...
+
+A (sic) Tenido a bien emitir el siguiente:
+
+DECRETO NUMERO 0269
+
+Artículo Unico: Se aprueba en todas y cada una de sus partes, la LEY DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO, para quedar como sigue:
+
+LEY DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
+
+DISPOSICIONES GENERALES (SIC)
+
+###### ARTICULO 1o.
+
+El Instituto de Seguridad Social del Estado de Tabasco es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tienen por objeto proporcionar seguridad social a los servidores públicos de los Poderes del Estado, Municipios, organismos descentralizados, empresas de participación estatal y en general cualquier clase de organismo público, que lo convengan con el Instituto.
+
+###### ARTICULO 2o.
+
+La aplicación de esta Ley y su Reglamento corresponde al Ejecutivo del Estado por conducto del Instituto, vigilando su cumplimiento a través de las Dependencias que en ella misma se señalan, pudiendo interpretarla a través de disposiciones administrativas de carácter general que deberán ser publicadas en el Periódico Oficial del Estado.
+
+###### ARTICULO 3o.
+
+La prestación y el control de los servicios y beneficios que otorga esta Ley corresponden al Instituto.
+
+###### ARTICULO 4o.
+
+El Instituto realizará los actos Jurídicos de cualquier naturaleza y celebrará convenios y contratos y las gestiones extrajudiciales necesarios para satisfacer su objeto por conducto de la Junta Directiva, pero para la celebración de aquéllos que afecten o comprometan a su patrimonio, deberá obtener autorización del Gobierno del Estado.
+
+###### ARTICULO 5o.
+
+Para la celebración de convenios y contratos que puedan afectar o comprometer al erario del Estado, el Instituto requiere la autorización del Congreso del Estado, que se tramitará por conducto del Titular del Poder Ejecutivo.
+
+###### ARTICULO 6o.
+
+La presente Ley se aplicará:
+
+I.- A los servidores públicos de base o supernumerarios al servicio de los Poderes del Estado, siempre que sus cargos y sueldos estén consignados en el Presupuesto de Egresos respectivo;
+
+II.- A los servidores públicos de los Ayuntamientos, a solicitud expresa de los mismos, siempre que la Junta Directiva del Instituto lo apruebe;
+
+III.- A los servidores públicos de los organismos descentralizados del Estado, empresas de participación estatal y en general cualquier clase de organismo público a solicitud expresa de ellos y sujetos a la aprobación de la Junta Directiva;
+
+IV.- A los familiares beneficiarios del asegurado, jubilado y pensionista que enseguida se mencionan:
+
+a).- La esposa, siempre que no trabaje.
+
+b).- El esposo, si está incapacitado físicamente para trabajar y dependa económicamente de la cónyuge.
+
+c).- La concubina con quien ha vivido cinco o más años o ha procreado hijos, siempre que ambos permanezcan libres de matrimonio.
+
+De los mismos derechos gozará el hombre que viva en concubinato con la asegurada cuando esté totalmente incapacitado para trabajar; en estos casos, deberá acreditarse la dependencia económica total.
+
+d).- Los hijos solteros menores de dieciocho años.
+
+e).- Los hijos solteros, mayores de dieciocho años, hasta la edad de veinticinco años, previa comprobación de que están realizando estudios a nivel superior y que dependan económicamente en forma total del asegurado.
+
+f).- Los hijos mayores de dieciocho años, incapacitados física o mentalmente, que no puedan trabajar para obtener su subsistencia, que vivan en el hogar de los padres y que dependan económicamente en forma total del asegurado.
+
+g).- El padre físicamente incapacitado para trabajar, la madre si no tiene ingresos; en ambos casos deberán vivir en el hogar del asegurado y depender económicamente en forma total del mismo.
+
+Los familiares que se mencionan acreditarán:
+
+1.- Que tienen derecho a la prestación que solicitan en relación con el asegurado o pensionista;
+
+2.- El parentesco y la edad en los términos de la legislación civil, y la dependencia económica mediante informaciones testimoniales; y
+
+3.- Que no tienen derechos propios a las prestaciones otorgadas por esta Ley o por cualquier otra.
+
+###### ARTICULO 7o.
+
+La presente Ley no será aplicable:
+
+I.- A las personas que presten sus servicios en los organismos señalados en el Artículo 6o., mediante contrato sujeto a la Legislación civil común o perciban emolumentos con cargo a las partidas de honorarios, o presten sus servicios eventualmente; y
+
+II.- A todos aquellos cuyos cargos sean de elección popular.
+
+###### ARTICULO 8o.
+
+Las prestaciones que otorga esta Ley son:
+
+I.- JUBILACIONES;
+
+II.- PENSIONES por:
+
+a).- Vejez,
+
+b).- Invalidez,
+
+c).- Causa de muerte,
+
+III.- PRESTACIONES MEDICAS:
+
+a).- De salud,
+
+b).- De maternidad,
+
+c).- Por accidente de trabajo,
+
+d).- Por enfermedad no profesional;
+
+IV.- PRESTACIONES ECONOMICAS:
+
+a).- Préstamos hipotecarios,
+
+b).- Préstamos a corto plazo,
+
+c).- Compra y arrendamiento de inmuebles propiedad del Instituto,
+
+V.- PRESTACIONES SOCIALES:
+
+a).- Seguro de vida,
+
+b).- Seguro de retiro,
+
+c).- Seguro para pago de funerales,
+
+VI.- DEVOLUCION DE APORTACIONES Y GRATIFICACION POR RETIRO; y
+
+VII.- Las demás que señalen esta y otras leyes.
+
+### CAPITULO II. ORGANIZACION DEL INSTITUTO
+
+###### ARTICULO 9o.
+
+La Administración y Control de los servicios del Instituto estará a cargo de:
+
+a).- Una Junta Directiva, que será el órgano supremo del Instituto;
+
+b).- Una Comisión de Vigilancia; y
+
+c).- Una Dirección General.
+
+###### ARTICULO 10.
+
+Los órganos colegiados del Instituto se integrarán en la forma siguiente:
+
+I.- La Junta Directiva por:
+
+a).- El Secretario de Finanzas del Gobierno del Estado, que tendrá el carácter de Presidente de la misma y podrá delegar sus funciones en la persona que al efecto designe;
+
+b).- El Director General; nombrado por el C. Gobernador del Estado;
+
+c).- Un representante de Oficialía Mayor, nombrado por el titular de la misma;
+
+d).- Un representante de la Sección Sindical de los Trabajadores al Servicio de los Poderes, Municipios e Instituciones Descentralizadas del Estado;
+
+e).- Un representante de la Sección en el Estado del Sindicato Nacional de Trabajadores de la Educación; y
+
+f).- Un Secretario nombrado por la Junta a propuesta del Director que fungirá como relator con voz pero sin voto.
+
+II.- La Comisión de Vigilancia lo (sic) formarán:
+
+a).- El Contralor General del Estado que tendrá el carácter de presidente y que podrá nombrar representante, y
+
+b).- Un Secretario nombrado por el Presidente.
+
+###### ARTICULO 11.
+
+Por cada representante de la Junta Directiva se nombrará un suplente que entrará en funciones en ausencia de los titulares, con excepción del Presidente y el Director General.
+
+###### ARTICULO 12.
+
+Los miembros de la Junta Directiva nombrados por los trabajadores durarán tres años en su cargo, podrán ser reelectos o removidos libremente por quienes los designaron.
+
+###### ARTICULO 13.
+
+Los representantes del Gobierno durarán en sus funciones por todo el tiempo que subsista su designación.
+
+###### ARTICULO 14.
+
+Los miembros de la Junta Directiva y el Presidente de la Comisión de Vigilancia no percibirán honorario alguno.
+
+###### ARTICULO 15.
+
+La Junta Directiva celebrará las sesiones que sean necesarias para la buena marcha del Instituto y sus acuerdos se tomarán por mayoría de votos de sus miembros. En caso de empate el Presidente tendrá voto de calidad.
+
+###### ARTICULO 16.
+
+Para que pueda realizarse una sesión será necesaria la presencia cuando menos de 3 de sus miembros, dos de los cuales deberán ser siempre el Presidente de la Junta y el Director General del Instituto.
+
+###### ARTICULO 17.
+
+Todas las resoluciones de la Junta Directiva que afecten los intereses de los derechohabientes, podrán recurrirse ante ella dentro de los 15 días siguientes, para que ésta resuelva en definitiva.
+
+###### ARTICULO 18.
+
+Corresponde a la Junta Directiva:
+
+a).- Aplicar, cumplir y hacer cumplir las disposiciones de esta Ley;
+
+b).- Administrar el Patrimonio del Instituto;
+
+c).- Autorizar las operaciones relativas a inversiones de fondos del Instituto así como todas las necesarias, conforme a esta Ley, para la mejor Administración del mismo; así como revisar y aprobar en su caso los estados financieros con base en el dictamen de la Comisión de Vigilancia;
+
+d).- Conceder las jubilaciones y otorgar pensiones en los términos de esta Ley o revocarlas en su caso;
+
+e).- Formular y aprobar el Reglamento del Instituto;
+
+f).- Conferir poderes generales o especiales a nombre del Instituto, oyendo la opinión del Director;
+
+g).- Discutir y aprobar el Programa Operativo Anual y la captación de ingresos probables;
+
+h).- Promover las iniciativas de reformas a esta Ley;
+
+i).- Solicitar a la Secretaría de Finanzas la práctica de Auditorías sobre las oficinas pagadoras del Estado o Instituciones afiliadas al Instituto, para efecto de verificar cualquier situación de tipo contable relacionada con aquélla;
+
+j).- Conceder licencia al Director y nombrar a la persona que lo supla, por el tiempo que sea necesario; en caso de renuncia o separación del Director, el Gobernador del Estado nombrará a la persona que lo sustituya;
+
+k).- Llevar un libro de actas en que se anoten íntegramente los acuerdos y resoluciones tomados en las sesiones;
+
+l).- Autorizar el funcionamiento de unidades creadas en esta Ley;
+
+m).- Autorizar al Presidente de la Junta para que con el Director firmen las operaciones de crédito concertadas por el Instituto;
+
+n).- Autorizar los créditos hipotecarios una vez integrados los expedientes respectivos; y
+
+ñ).- Resolver cualquier situación no prevista en esta Ley.
+
+###### ARTICULO 19.
+
+La Comisión de Vigilancia revisará los estados contables y financieros del Instituto, turnando a la Junta Directiva y el Dictamen correspondiente y para ello tendrá las facultades necesarias para efectuar en las dependencias del organismo, revisiones, inspecciones, auditorías y todo lo que se requiere, para el cumplimiento de sus funciones.
+
+###### ARTICULO 20.
+
+El Director tendrá las obligaciones y facultades siguientes:
+
+a).- Representar al Instituto en toda gestión judicial, extrajudicial y administrativa conforme a los poderes otorgados por la Junta Directiva; pudiendo sustituirlos en todo o en parte a favor de terceros;
+
+b).- Planear, organizar, dirigir y controlar las operaciones financieras y administrativas del Instituto, informando de las mismas a la Junta Directiva y a la Comisión de Vigilancia;
+
+c).- Ejecutar los acuerdos de la Junta Directiva;
+
+d).- Someter a la decisión de la Junta Directiva todas aquellas cuestiones que sean de la competencia de aquélla;
+
+e).- Formular proyectos de inversión para su revisión y aprobación en su caso, por la Junta Directiva;
+
+f).- Formular el programa operativo anual del Instituto y las estimaciones de ingresos probables;
+
+g).- Nombrar y remover de conformidad con las leyes aplicables en este caso al personal necesario para el funcionamiento del Instituto, haciéndolo del conocimiento de la Junta;
+
+h).- Resolver bajo su directa responsabilidad los asuntos urgentes que sean de la competencia de la Junta Directiva, a reserva de dar cuenta a la misma en la sesión inmediata siguiente;
+
+i).- Estudiar y proponer ante la Junta Directiva el otorgamiento de jubilaciones, pensiones y demás prestaciones reguladas por esta Ley, excepto las prestaciones de salud, de maternidad, préstamos a corto plazo y seguro para pago de funerales, que puede resolver de inmediato la Dirección, observando lo previsto en el inciso anterior;
+
+j).- Conceder licencia al personal de confianza en los términos que señala el Reglamento Interior del Instituto y al de base de acuerdo a la Ley aplicable;
+
+k).- Firmar conjuntamente con el Presidente de la Junta Directiva toda clase de documentación relativa a los actos de traslación de dominio o contratos en general que celebre el Instituto;
+
+l).- Realizar todos los actos y operaciones autorizados por esta Ley o por la Junta Directiva para la mejor administración del Instituto;
+
+m).- Realizar todo lo necesario para que las unidades del Instituto creadas por esta Ley y autorizadas por la Junta estén en funcionamiento;
+
+n).- Formular el calendario oficial del Instituto y autorizar, en casos extraordinarios, la suspensión de labores;
+
+ñ).- Vigilar las labores del personal administrativo, pudiendo imponer las correcciones disciplinarias que sean de su competencia previstas en la Ley de Responsabilidades o en el Reglamento Interior cuando no contradiga a aquélla;
+
+o).- Convocar a sesión a los miembros de la Junta Directiva cuando lo estime necesario para resolver los asuntos del Instituto conforme a la Ley, o por petición de alguno de sus miembros; y
+
+p).- Las demás facultades que sean necesarias para el debido funcionamiento del Instituto, que esta Ley, su Reglamento o la Junta Directiva le impongan.
+
+### CAPITULO III. PATRIMONIO
+
+###### ARTICULO 21.
+
+El patrimonio del Instituto lo constituirán:
+
+a).- Las propiedades, posesiones, derechos y obligaciones que al entrar en vigor esta Ley integran el Patrimonio de la Institución;
+
+b).- Las aportaciones que por Ley le hagan, el Estado, los Ayuntamientos y los Organismos Públicos que se acojan a sus Ordenamientos;
+
+c).- Las aportaciones de los servidores públicos al servicio de los Poderes del Estado, de los Ayuntamientos y de los Organismos Públicos incorporados;
+
+d).- El importe de los créditos e intereses a favor del Instituto;
+
+e).- Los intereses, rentas, plusvalías y demás utilidades que se obtengan de las inversiones y operaciones que conforme a esta Ley haga el Instituto;
+
+f).- El importe de las indemnizaciones, pensiones, caídas, descuentos o intereses que prescriban a favor del Instituto en los términos de la presente Ley;
+
+g).- El producto de las sanciones económicas que hayan sido aplicadas en los términos de este ordenamiento y del Reglamento Interior del Instituto;
+
+h).- Las donaciones, herencias, legados y fideicomisos que se hicieren a favor del Instituto;
+
+i).- Los muebles e inmuebles que las entidades y organismos públicos entreguen para el servicio que establece la presente Ley; y
+
+j).- Las demás percepciones respecto de las cuales el Instituto resultare beneficiario.
+
+###### ARTICULO 22.
+
+Los servidores públicos contribuyentes no adquieren derecho alguno, ni individual ni colectivo, sobre el patrimonio del Instituto, sino sólo a disfrutar de los beneficios que esta Ley concede.
+
+###### ARTICULO 23.
+
+Los bienes inmuebles pertenecientes al Instituto gozarán de las franquicias, prerrogativas y privilegios concedidos a los fondos y bienes del Estado. Dichos bienes así como los actos y contratos que celebre el Instituto, estarán exentos del pago de impuestos y derechos en los casos permitidos por las leyes aplicables.
+
+El Instituto se considerará de acreditada solvencia y no estará obligado a constituir depósitos ni fianzas legales.
+
+###### ARTICULO 24.
+
+Si en cualquier tiempo los recursos del Instituto no bastaren para cumplir las obligaciones a su cargo establecidas en esta Ley, éstas se darán en la proporción que las posibilidades económicas del mismo lo permitan, debiendo cumplirlas en su totalidad cuando se encuentre en condiciones para hacerlo.
+
+### CAPITULO IV. INVERSIONES
+
+###### ARTICULO 25.
+
+La inversión de las reservas del Instituto deberá hacerse en las mejores condiciones de seguridad, rendimiento y liquidez, prefiriéndose en igualdad de circunstancias las que, además garanticen mayor utilidad social.
+
+###### ARTICULO 26.
+
+Las reservas se invertirán preferentemente:
+
+I.- En bonos o títulos emitidos por el Gobierno Federal y del Estado e Instituciones Nacionales de Crédito;
+
+II.- En la adquisición, construcción de inmuebles y en el financiamiento de actividades relativas a los fines propios del Instituto; y
+
+III.- En préstamos hipotecarios y a corto plazo que se regirán conforme a las disposiciones de esta Ley y los Reglamentos respectivos.
+
+###### ARTICULO 27.
+
+Para la elaboración del Plan de Inversiones deberán realizarse los estudios actuariales necesarios que determinen los montos probables, y será la Junta Directiva la que autorice el programa a ejercer.
+
+###### ARTICULO 28.
+
+Todo acto, contrato o documento que indique obligación o derecho inmediato o eventual para el Instituto, deberá ser registrado en su contabilidad.
+
+Los ingresos por cuotas y los egresos por prestaciones y gastos de administración deberán contabilizarse en forma separada por cada concepto.
+
+###### ARTICULO 29.
+
+Las cuentas del Instituto quedarán sujetas a la revisión de la Secretaría de Finanzas, quien le practicará auditoría anual, así como al control, evaluación, auditoría y fiscalización de la Contraloría General del Estado.
+
+### CAPITULO V. APORTACIONES
+
+###### ARTICULO 30.
+
+Para los efectos de la presente Ley, sueldo base será el que se consigne en los presupuestos de egresos del Gobierno del Estado y de los Ayuntamientos y en el caso de los Organismos Públicos, el que se consigne en el contrato respectivo.
+
+###### ARTICULO 31.
+
+Todo servidor público comprendido en el Artículo 6o de este ordenamiento, tiene obligación de aportar al Fondo del Instituto el 8% de su sueldo base, comprendiendo los incrementos retroactivos a que tenga derecho, el que se distribuirá en la forma siguiente:
+
+a).- El 2.0% del sueldo base para prestaciones médicas.
+
+b).- El 0.5% del sueldo base para el seguro de vida.
+
+c).- El 0.5% del sueldo base para el seguro de retiro.
+
+d).- El 5.0% del sueldo base para prestaciones económicas, sociales, pensiones y jubilaciones.
+
+###### ARTICULO 32.
+
+El Estado, los Ayuntamientos y los Organismos Públicos incorporados al Instituto, tienen la obligación de aportar el 12.00 % sobre el sueldo de base de los trabajadores; aportación que se distribuirá en la forma siguiente:
+
+a).- El 7.0% del sueldo base para prestaciones médicas.
+
+b).- El 0.5% del sueldo base para el seguro de vida.
+
+c).- El 4.0% del sueldo base para prestaciones económicas.
+
+d).- El 0.5% del sueldo base para el seguro de retiro.
+
+###### ARTICULO 33.
+
+El fondo constituído con las aportaciones señaladas anteriormente es inembargable.
+
+###### ARTICULO 34.
+
+Cuando el servidor público tenga dos o más sueldos, dentro del organismo contribuyente, su aportación será sobre la suma de sus sueldos base.
+
+###### ARTICULO 35.
+
+Los organismos contribuyentes están obligados a efectuar los descuentos a que se refiere el Artículo 32 de esta Ley y los que acuerde la Junta Directiva del Instituto, por las prestaciones que éste otorgue. Dichos documentos deberán enterarlos al Instituto dentro del término de 5 días hábiles siguientes.
+
+Asimismo estarán obligados a:
+
+a).- Aplicar el porcentaje de aportación del servidor público a los incrementos de sueldo que con carácter retroactivo se liquiden;
+
+b).- Aportar el porcentaje que como Organismo contribuyente le corresponda por los incrementos retroactivos que se otorguen a servidores públicos; y
+
+c).- Proporcionar al Instituto los tabuladores oficiales de sueldos, así como las modificaciones que sufran.
+
+###### ARTICULO 36.
+
+Los encargados de cubrir los sueldos a los sujetos amparados por esta Ley, serán responsables de los actos y omisiones en que incurran en perjuicio de los mismos, independientemente de la responsabilidad civil, penal o administrativa.
+
+###### ARTICULO 37.
+
+La separación por licencia ilimitada sin goce de sueldo, no se computará como tiempo de servicio.
+
+La separación por causas ajenas al Organismo contribuyente se computará como tiempo de servicio, siempre que el servidor público continúe aportando al Fondo y Subsista la relación laboral.
+
+En caso de separación por licencia limitada, no mayor de 3 meses, los servidores públicos deberán seguir cubriendo sus cuotas, para que el tiempo que dure la misma pueda computarse como de servicio, no teniendo obligación el Organismo contribuyentes de aportar el porcentaje que señala el Artículo 32 de esta Ley.
+
+### CAPITULO VI. GENERALIDADES DE LA JUBILACION Y DE LAS PENSIONES POR VEJEZ, INVALIDEZ Y CAUSA DE MUERTE
+
+###### ARTICULO 38.
+
+El derecho a las pensiones de cualquier naturaleza nace cuando el servidor público, o sus familiares derechohabientes se encuentran en los supuestos consignados en esta Ley y satisfacen los requisitos que la misma señala.
+
+###### ARTICULO 39.
+
+El Instituto otorgará pensiones a los asegurados, relevándolos de continuar desempeñando su empleo en razón de edad, tiempo de servicio e incapacidad física o mental.
+
+###### ARTICULO 40.
+
+Las pensiones se tramitarán a solicitud escrita del interesado o por acuerdo expreso de la Junta Directiva, oyéndose siempre al asegurado, en este y se resolverán en un plazo no mayor de 30 días a partir de la fecha en que quede integrado el expediente.
+
+###### ARTICULO 41.
+
+El cómputo de los años de servicio será por tiempo ininterrumpido aún cuando se haya laborado sucesivamente en dos o más de los organismos contribuyentes y toda fracción de más de seis meses en la computación total de servicios se considerará como año completo. Para el cómputo sólo se tomará en consideración uno solo de los empleos desempeñados en el Gobierno del Estado, Ayuntamiento, el Instituto y los Organismos incorporados, aun cuando el trabajador hubiera laborado simultáneamente en varios.
+
+###### ARTICULO 42.
+
+Cuando a un servidor público se le haya otorgado una pensión, y sin disfrutarla continúe laborando, podrá renunciar a ella y obtener otra, de acuerdo a las cuotas aportadas y el tiempo de servicio prestado con posterioridad.
+
+Cuando un pensionista reingrese al servicio activo, no podrá renunciar a la pensión que le hubiere sido concedida para solicitar y obtener otra nueva, salvo el caso de incapacitados que quedaran aptos para el servicio.
+
+###### ARTICULO 43.
+
+Es incompatible con el régimen de esta Ley la percepción de una pensión otorgada en los términos de la misma, con la que concede el Gobierno del Estado, Municipio u Organismo incorporado; o con el desempeño de un cargo, empleo o comisión. Los interesados disfrutarán nuevamente de la pensión cuando desaparezca el impedimento.
+
+###### ARTICULO 44.
+
+El que infrinja la disposición anterior está obligado a devolver las cantidades recibidas indebidamente, en el plazo que le será fijado por el Instituto, que no será menor al tiempo en que las hubiere recibido. Desaparecida la incompatibilidad y reintegradas las cantidades indebidamente recibidas, el pensionista continuará disfrutando de la pensión otorgada; de no hacer el reintegro perderá todo derecho a la misma.
+
+Los pensionistas quedan obligados a dar aviso inmediatamente al Instituto cuando acepten cualquier empleo, cargo o comisión a que se hace referencia y en todo caso se ordenará la suspensión de la pensión otorgada.
+
+###### ARTICULO 45.
+
+En cualquier tiempo el Instituto podrá ordenar la verificación de la autenticidad de los documentos y de los hechos que hayan servido de base para conceder una pensión. Cuando se sospeche de falsedad, con audiencia del interesado se procederá a la revisión y de comprobarse aquélla, de inmediato se ordenará la suspensión del pago y la cancelación de la misma y se denunciarán los hechos a las autoridades competentes para los efectos que procedan.
+
+###### ARTICULO 46.
+
+Para que un servidor público o los beneficiarios de éste, conforme a lo establecido por esta Ley tramiten para sí una pensión derivada, o puedan disfrutar de la pensión otorgada, previamente deberán liquidar todos los adeudos que tuvieren con el Instituto, excepto tratándose de préstamos hipotecarios que se encuentran garantizados con el objeto del gravamen.
+
+###### ARTICULO 47.
+
+Es nula toda enajenación, cesión, o gravamen de las pensiones que esta Ley establece. Las devengadas o futuras serán inembargables y sólo podrán ser afectadas para hacer efectiva la obligación de ministrar alimentos por mandato judicial o para exigir el pago de adeudos al Instituto, con motivo de la aplicación de esta Ley.
+
+###### ARTICULO 48.
+
+Cuando un servidor público tenga derecho simultáneo a dos o más pensiones de las establecidas en esta Ley, el Instituto le concederá la de mayor cuantía.
+
+###### ARTICULO 49.
+
+Para los efectos de pago de las pensiones otorgadas por esta Ley, se tomará el promedio del sueldo base disfrutado en los tres años anteriores a la fecha en que se conceda denominándosele sueldo regulador. Para fijar el valor de las pensiones, se establece la siguiente:
+
+TABLA DE PORCENTAJES
+
+AÑOS DE SERVICIO PORCENTAJE DEL
+
+SUELDO REGULADOR
+
+15 50%
+
+16 52%
+
+17 54%
+
+18 56%
+
+19 58%
+
+20 60%
+
+21 63%
+
+22 66%
+
+23 69%
+
+24 72%
+
+25 75%
+
+26 79%
+
+27 84%
+
+28 89%
+
+29 94%
+
+30 100%
+
+###### ARTICULO 50.
+
+Las pensiones que conceda esta Ley son de carácter móvil, revisándose las mismas cada año, tomando en consideración los aumentos periódicos que se concedan a los servidores públicos y de acuerdo a la capacidad económica del Instituto, con base en los estudios actuariales que se realicen.
+
+###### ARTICULO 51.
+
+Las pensiones se extinguen con la muerte del pensionado y se genera el pago de lo señalado en los artículos 64 y 94 de la presente Ley.
+
+### CAPITULO VII. JUBILACION
+
+###### ARTICULO 52.
+
+Tienen derecho a la jubilación los servidores públicos, con 30 o más años de servicio, siempre que hayan contribuido normalmente a la Dirección de Pensiones Civiles del Estado desde el 1º. de julio de 1960, y continúen aportando al Instituto, en los términos de la Ley, cualquiera que sea su edad.
+
+###### ARTICULO 53.
+
+La jubilación dará derecho al pago de una pensión equivalente al 100 % del sueldo regulador y su percepción será a partir del día siguiente a aquel en que el trabajador hubiese disfrutado del ultimo sueldo por haber causado baja; en ningún caso será inferior al 80 % del salario mínimo de la zona vigente a la fecha referida.
+
+### CAPITULO VIII. PENSION POR VEJEZ
+
+###### ARTICULO 54.
+
+Tienen derecho a pensión por vejez los servidores públicos, que habiendo cumplido 55 años de edad, tengan 15 o más años de servicio, e igual tiempo de contribuir al Instituto.
+
+###### ARTICULO 55.
+
+El monto de la pensión por vejez se otorgará de acuerdo a lo establecido en el Artículo 49 de la presente Ley.
+
+###### ARTICULO 56.
+
+El derecho al pago de esta pensión será a partir del último sueldo cobrado al causarse baja.
+
+### CAPITULO IX. PENSION POR INVALIDEZ
+
+###### ARTICULO 57.
+
+La pensión por invalidez se otorgará a los servidores públicos por pérdida de las facultades físicas y mentales necesarias para el desempeño normal de su cargo o empleo, resultante de accidentes de trabajo o enfermedades profesionales; en estos casos la pensión será el 100% del último sueldo que haya disfrutado el asegurado.
+
+Si la invalidez proviene de otras causas y el asegurado contribuyó por 15 años o más tendrá derecho a pensión por invalidez conforme a esta Tabla:
+
+TABLA DE PORCENTAJES
+
+AÑOS DE SERVICIO PORCENTAJE DEL
+
+ULTIMO SUELDO
+
+15 50%
+
+16 52%
+
+17 54%
+
+18 56%
+
+19 58%
+
+20 60%
+
+21 63%
+
+22 66%
+
+23 69%
+
+24 72%
+
+25 75%
+
+26 79%
+
+27 84%
+
+28 89%
+
+29 94%
+
+30 100%
+
+###### ARTICULO 58.
+
+El Derecho al pago de esta pensión comienza a partir de la fecha en que cause baja por la inhabilitación.
+
+###### ARTICULO 59.
+
+No se considerará esta pensión cuando la invalidez sea:
+
+I.- Consecuencia de un acto intencional o de algún delito cometido por el servidor público;
+
+II.- Anterior a su nombramiento;
+
+III.- Consecuencia de alcoholismo o farmacodependencia.
+
+###### ARTICULO 60.
+
+El otorgamiento de la pensión por invalidez queda sujeto a la satisfacción de los siguientes requisitos:
+
+I.- Solicitud estricta hecha por el servidor público, o su representante legal, ante el Instituto;
+
+II.- Dictamen del médico designado por el Instituto que certifique y compruebe la existencia y grado de incapacidad padecida por el servidor público. Si el solicitante no estuviera de acuerdo con tal dictamen, podrá por sí o a través de su representante, designar a su costa perito médico distinto para que rinda dictamen en la materia; en caso de desacuerdo entre ambos dictámenes, el Instituto designará un tercer perito, preferentemente un especialista, para que elabore nuevo dictamen que resultará obligatorio, definitivo e inapelable por ambas partes.
+
+###### ARTICULO 61.
+
+Los solicitantes de esta pensión y los pensionados por la misma causa, están obligados a someterse a los exámenes, reconocimiento y tratamientos que el Instituto les prescriba y proporcione, y en caso de no hacerlo no se les trasmitará (sic) su solicitud o se les suspenderá el goce de la pensión.
+
+###### ARTICULO 62.
+
+La pensión por invalidez o la tramitación de la misma será suspendida:
+
+I.- Cuando el pensionista o solicitante esté desempeñado cargo o empleo en algunas de las entidades u Organismos incorporados;
+
+II.- Cuando el pensionista o el solicitante se niegue injustificadamente a someterse a las investigaciones que en cualquier tiempo por orden del Instituto se practiquen, o se resista a las medidas preventivas o curativas a que debe sujetarse, salvo que estuviere afectado de sus facultades mentales. El pago de la pensión o la tramitación de la solicitud se reanudará cuando el pensionista acepte y cumpla con las prevenciones dadas, sin que haya lugar a reclamar las prestaciones que dejó de percibir.
+
+###### ARTICULO 63.
+
+La pensión por invalidez será revocada cuando el pensionado recupere su capacidad para el servicio o cuando reponiéndolo en su empleo el Organismo, no acepte el reingreso.
+
+### CAPITULO X. PENSION POR CAUSA DE MUERTE
+
+###### ARTICULO 64.
+
+La pensión por causa de muerte dará origen a las pensiones de viudez, orfandad y pensiones a los ascientes (sic), si la muerte del asegurado no es consecuencia de un delito intencional imputable a los beneficiarios en los términos de las leyes relativas.
+
+###### ARTICULO 65.
+
+El derecho a esta pensión se genera con la muerte del asegurado cualquiera que sea su edad y siempre que hubiere contribuido al Instituto por 15 años o más; así como la de un pensionado por vejez, invalidez, o un jubilado, dará origen a las pensiones de viudez, orfandad y pensión a los ascendientes, en su caso, según lo estipulado en esta Ley. El derecho al pago de esta pensión se iniciará a partir del día de la muerte del asegurado.
+
+###### ARTICULO 66.
+
+Los beneficiarios de esta pensión son:
+
+I.- La esposa supérstite y los hijos menores de dieciocho años;
+
+II.- A falta de la esposa, la concubina del jubilado o pensionado siempre que hubieren vivido juntos 5 años o más, o hibiesen (sic) tenido hijos y ambos hayan estado libres de matrimonio. Si concurren varias concubinas ninguna tendrá derecho a pensión.
+
+III.- El esposo supérstite, siempre que a la muerte de la asegurada, jubilada o pensionada, fuese mayor de 55 años o esté incapacitado para trabajar y hubiese dependido económicamente de ella.
+
+Iguales derechos tendrá el hombre unido en concubinato con la asegurada, que reúna las mismas condiciones señaladas en el párrafo anterior; y
+
+IV.- A falta de las personas a las que se refiere (sic) las tres fracciones anteriores, la pensión por muerte se entregará a los ascendientes en caso de que hubiesen dependido económicamente del asegurado, jubilado o pensionado, durante los cinco años anteriores a su muerte. La cantidad total a que tengan derecho los deudos señalados en cada una de las fracciones anteriores, se dividirá por partes iguales entre ellos. Cuando fuesen varios los beneficiarios de una pensión y algunos de ellos perdiese el derecho, la parte que le corresponda será repartida proporcionalmente entre los restantes. La dependencia económica se comprobará con información testimonial.
+
+###### ARTICULO 67.
+
+El monto de las pensiones se calculará aplicando las siguientes reglas:
+
+I.- Cuando el servidor público fallezca después de quince años de servicio, la pensión será equivalente en el primer año a lo que hubiese correspondido en los términos del Artículo 49 de este Ordenamiento y durante los años sucesivos se disminuirá en un 10% hasta reducirla al cincuenta por ciento de la cifra inicial.
+
+II.- Al fallecer un jubilado o un pensionado por vejez o invalidez, sus deudos en el orden establecido por esta Ley, continuarán percibiendo pensión:
+
+a).- El ochenta por ciento del monto original durante el primer año.
+
+b).- Del segundo año en adelante se irá disminuyendo un 10% y así sucesivamente hasta llegar a la mitad de la pensión original.
+
+###### ARTICULO 68.
+
+Si el hijo pensionado cumpliere 18 años, y no pudiere mantenerse por su propio trabajo debido a una enfermedad permanente, defectos físicos o enfermedad psíquica, el pago de pensión por orfandad se prorrogará por el tiempo que subsista su inhabilitación. En tal caso el hijo pensionado estará obligado a someterse a los reconocimientos y tratamientos que el Instituto le prescriba y le proporcione, y a las investigaciones que en cualquier tiempo éste ordene para los efectos de determinar su estado de invalidez, haciéndose acreedor, en caso contrario a la suspensión de la pensión.
+
+###### ARTICULO 69.
+
+Sólo se pagará la pensión a la viuda o a la concubina mientras no contraida (sic) nupcias o entre en concubinato.
+
+La divorciada no tendrá derecho a la pensión de quien haya sido su cónyuge, a menos que a la muerte del exmarido, éste estuviese pagándole pensión alimenticia por condena judicial y siempre que no exista viuda, hijos, concubina y ascendientes con derecho a la misma; cuando la divorciada disfrute de la pensión en los términos de esta Ley perderá ese derecho si contrae nuevas nupcias, si viviese en concubinato o si no viviese honestamente, previa declaración judicial correspondiente. El importe de la pensión a la divorciada no será mayor de la que hubiese estado disfrutando antes de la muerte del deudor alimentista.
+
+###### ARTICULO 70.
+
+Si un pensionista desaparece de su domicilio por más de un mes sin que se tenga noticia de su paradero, los deudos con derecho a la transmisión de la pensión disfrutarán de la misma con carácter provisional, bastando para ello que se compruebe el parentesco y la desaparición del pensionado, sin que sean necesarias diligencias formales de declaración de ausencia. Si posteriormente y en cualquier tiempo el pensionado se presentase, tendrá derecho el mismo a disfrutar su pensión y a recibir las diferencias entre el importe original de la misma y aquel que hubiese sido entregado a sus familiares. Cuando se compruebe el fallecimiento del pensionado, la transmisión será definitiva.
+
+### CAPITULO XI. PRESTACIONES MEDICAS
+
+###### ARTICULO 71.
+
+El Instituto otorgará como seguro las prestaciones médicas que se establecen en esta Ley, según la modalidad que define la Junta Directiva, de acuerdo con los recursos de que disponga el Instituto. De manera directa a través de las unidades médicas que se establezcan en la Entidad, o las del Gobierno del Estado, de conformidad con las zonas de influencia de los asegurados. De una manera indirecta a través de los convenios de Prestación de Servicios Médicos que celebre con las Instituciones Médicas, Públicas o Privadas establecidas en la Entidad, en la misma forma que la tienen establecida para sus derechohabientes.
+
+###### ARTICULO 72.
+
+Para la hospitalización se requiere el consentimiento expreso del enfermo, o de los familiares y a falta de éstos últimos, de quien lo represente legalmente, a menos que se trate de casos graves y de urgencia o cuando por la naturaleza de la enfermedad se imponga como indispensable esa medida.
+
+###### ARTICULO 73.
+
+Las controversias que se presenten en relación con este capítulo las resolverá a petición de parte, la Junta Directiva.
+
+A).- PROMOCION DE SALUD
+
+###### ARTICULO 74.
+
+El Instituto crea este seguro para promover, mejorar y prolongar la salud del servidor público y su familia.
+
+###### ARTICULO 75.
+
+Las acciones básicas para el logro de estos fines son: normativas y operativas, de coordinación y control de actividades junto con su constante evaluación y el diseño de estrategias para la captación y aprovechamiento de los recursos existentes o necesarios, tanto humanos como materiales.
+
+###### ARTICULO 76.
+
+Estas actividades se llevarán a cabo a través de programas de educación higiénica, de vacunoterapias, de control de enfermedades transmisibles y no transmisibles, de planificación familiar voluntaria y del fomento de la investigación para el mejoramiento de la salud.
+
+B).- SEGURO DE ENFERMEDADES NO PROFESIONALES
+
+###### ARTICULO 77.
+
+En caso de enfermedad no profesional el servidor público, el pensionado y el jubilado, tendrán derecho a las siguientes prestaciones:
+
+I.- Asistencia médica, quirúrgicas, farmacéuticas y hospitalaria, que sean necesarias desde el comienzo de la enfermedad, complicaciones y secuelas de la misma, durante el plazo máximo de cincuenta y dos semanas. En caso de enfermos ambulatorios cuyo tratamiento médico no les impida trabajar se les otorgará por tiempo indefinido. El Instituto no estará obligado a proporcionar servicios de cirugía-cosmética, cosméticos, lentes para corrección de defectos visuales, aparatos de prótesis, de odontología, sordera o de ortopedia.
+
+II.- Asistencia Odontológica, que comprenderá profilaxis bucal y de padecimiento parodentales, labios, paladar, maxilar y dientes afectados de caries que requieren obturaciones de amalgama, resina o cemento de silicato, extracciones y prótesis dentales u óseas cuando el padecimiento sea de origen traumático.
+
+Esta atención no comprenderá tratamientos endodóncicos, ortodóncicos u otras especialidades similares.
+
+III.- Cuando el servidor público resulte incapacitado para el trabajo por causa de enfermedad, tendrá derecho a licencia con goce de sueldo o con medio sueldo, de acuerdo con las disposiciones legales vigentes que reglamenten las relaciones laborales entre el Estado y los Organismos Públicos incorporados por una parte, y sus servidores por la otra. Si al vencer la licencia remunerada continúa la incapacidad, el trabajador tendrá derecho a disfrutar licencia sin goce de sueldo mientras dure la incapacidad, hasta completar con las licencias anteriores y a partir de la fecha en la que se inicio aquélla, el término de un año, no obstante cualquiera disposición en contrario contenida en las expresas leyes reglamentarias, durante la licencia sin goce de sueldo a que acaba de aludirse, el Instituto cubrirá al asegurado un subsidio en dinero equivalente al cincuenta por ciento del sueldo que perciba el trabajador; cuando el enfermo interrumpa el tratamiento o no cumpla con las órdenes médicas recibidas, se le suspenderá el subsidio.
+
+Al principiar la enfermedad y al concederse las licencias respectivas, tanto el asegurado como el Estado, Ayuntamiento u Organismo contribuyente en que labore, deberá dar el aviso correspondiente al Instituto.
+
+###### ARTICULO 78.
+
+También tendrá derecho a los servicios que señalan en las fracciones I y II del artículo anterior los familiares beneficiarios del asegurado, jubilado o pensionado, enumerados en la fracción IV del artículo 6º. de esta Ley.
+
+C).- SEGURO DE MATERNIDAD
+
+###### ARTICULO 79.
+
+La servidora pública, la esposa del asegurado, pensionado, jubilado y en su caso la concubina, como beneficiarios de esta Ley, tendrán derecho a la asistencia obstétrica necesaria a partir del día en que se certifique su estado de embarazo.
+
+###### ARTICULO 80.
+
+A la servidora pública que se le certifique su estado de embarazo, y al señalarse la fecha probable del parto, los organismos contribuyentes deberán concederle licencia por gravidez de tres meses, con goce de sueldo íntegro, la que empezará a contar un mes antes de la fecha probable del parto.
+
+###### ARTICULO 81.
+
+Para que exista el derecho a las prestaciones que se establecen en este seguro será necesario que durante los 6 meses anteriores al parto se hayan mantenido vigentes los derechos de la asegurada, o del asegurado del cual se deriven estas prestaciones.
+
+D).- CONSERVACION DE DERECHOS
+
+###### ARTICULO 82.
+
+El servidor público dado de baja por cese o renuncia, pero que haya prestado sus servicios ininterrumpidos inmediatamente antes de la separación durante un mínimo de seis meses, conservará durante dos meses siguientes a la misma, el derecho a recibir las prestaciones médicas anteriores. Del mismo derecho disfrutarán, en lo que proceda, sus familiares derechohabientes.
+
+E).- SEGURO POR ACCIDENTE DE TRABAJO Y ENFERMEDADES PROFESIONALES
+
+###### ARTICULO 83.
+
+Se establece el seguro por accidentes de trabajo y enfermedades profesionales por las consideradas como tales en la Ley Federal del Trabajo y las prestaciones derivadas de las mismas en favor de los sujetos a que se refiere el artículo 6º. fracción I, II y III de esta Ley. El Instituto se subrogará en la medida y términos de esta Ley en las obligaciones que impongan al Estado, Ayuntamientos y Organismos incorporados, las leyes que regulen las relaciones laborales con sus respectivos trabajadores.
+
+###### ARTICULO 84.
+
+La profesionalidad de los accidentes y enfermedades será calificada técnicamente por el Instituto. El afectado inconforme con la calificación podrá designar un perito técnico o médico para que dictamine a su vez. En caso de desacuerdo entre la calificación del Instituto y el dictamen del perito del afectado, el Instituto le proporcionará una terna preferentemente de especialista de notorio prestigios profesionales (sic) para que entre ellos elija uno, quien resolverá en forma definitiva, en la inteligencia de que el dictamen de éste será inapelable y por tanto obligatorio para ambas partes.
+
+###### ARTICULO 85.
+
+En los casos de accidentes o enfermedad profesional, el servidor público tendrá derecho a las siguientes prestaciones:
+
+I.- Asistencia médica, quirúrgica, farmacéutica, así como aparatos de prótesis, de ordopedia (sic) y hospitalización necesaria hasta por cuarenta y dos semanas; y
+
+II.- Licencia con goce de sueldo cuando el accidente o enfermedades (sic) profesional incapacite al asegurado para desempeñar sus labores. El pago del sueldo se hará desde el primer día de incapacidad y será cubierto en la forma siguiente:
+
+a).- Por el Estado, Ayuntamiento u Organismo incorporado durante los períodos y de acuerdo a las disposiciones que rijan sus relaciones laborales;
+
+b).- Por el Instituto desde el día en que cese la obligación del Estado, Ayuntamiento u Organismo incorporado a que se refiere el inciso anterior y hasta que termine la incapacidad cuando ésta sea temporal, o bien hasta que se declare la incapacidad permanente del asegurado y éste comience a disfrutar de la pensión por invalidez.
+
+Para disfrutar los efectos de la determinación de la incapacidad producida por accidente o enfermedad profesional debe estarse a lo que dispongan las leyes que rijan las relaciones del Estado, Ayuntamiento o de los Organismos incorporados, en su caso, con sus trabajadores. El servidor público será sometido a exámenes periódicos, con intervalos que no excederán de tres meses, cuando la índole de la incapacidad lo amerite, con el fin de apreciar su estado de salud y dictaminar si se encuentra en aptitud de volver al servicio.
+
+En un término que no excederá de un año después de iniciada una incapacidad, deberá declararse si la misma es permanente, en cuyo caso se estará a lo dispuesto en los siguientes artículos.
+
+###### ARTICULO 86.
+
+Al ser declarada una incapacidad parcial permanente, se concederá al incapacitado una pensión por una cantidad que resulte, calculada conforme a la tabla de evaluación de incapacidades aplicables en los términos de las leyes a que se refiere el artículo anterior, y en su defecto a la contenida en la Ley Federal del Trabajo, atendiendo al sueldo básico definido por el artículo 30. El tanto por ciento se fijará entre el máximo y el mínimo que establezcan las tablas de evaluación mencionadas, teniendo en cuenta la edad del servidor público y la importancia de la incapacidad, según que sea el total para el ejercicio de su profesión, oficio o trabajo habitual, aún cuando quede habilitado para dedicarse a otra actividad, o si solamente hubiere disminuido su aptitud para el desempeño de la misma.
+
+###### ARTICULO 87.
+
+Al ser declarada una incapacidad total permanente, debida a una enfermedad profesional o accidente de trabajo, se concederá al incapacitado como pensión el 100% del último sueldo devengado.
+
+###### ARTICULO 88.
+
+Al declararse una incapacidad permanente sea parcial o total, se concederá la pensión respectiva con carácter provisional, por un período de dos años. En el transcurso de este lapso, el Instituto podrá ordenar y, por su parte el afectado tendrá derecho a solicitar, la revisión de la incapacidad con el fin de aumentar, disminuir o revocar la pensión, según el caso. Transcurrido el período anterior la pensión se considerará como definitiva y su revisión sólo podrá hacerse una vez al año, salvo que existieran pruebas de un cambio substancial en las condiciones del incapacitado.
+
+El incapacitado estará obligado en todo tiempo a someterse a los reconocimientos, tratamientos y exámenes médicos que determine el Instituto. De no cumplir con estas prevenciones, se le suspenderá el pago de la pensión, la que se reanudará a partir de que se someta a las indicaciones del Instituto.
+
+###### ARTICULO 89.
+
+Cuando el asegurado fallezca a consecuencia de un riesgo profesional, los beneficiarios recibirán los seguros de vida y para el pago de funerales, así como las pensiones establecidas en la presente Ley.
+
+###### ARTICULO 90.
+
+Cuando un pensionado por incapacidad permanente, sea total o parcial, fallezca, se aplicarán las siguientes reglas:
+
+I.- Si el fallecimiento se produce como consecuencia directa de la incapacidad total permanente, los familiares derechohabientes señalados en esta Ley y en el orden que la misma establece, continuarán percibiendo la pensión íntegra durante el primer año, diez por ciento menos el segundo año e igual deducción en los años sucesivos hasta llegar al cincuenta por ciento de la pensión original;
+
+II.- Si la muerte es originada por causas ajenas a la incapacidad permanente, sea total o parcial, se entregará a los derechohabientes, como única prestación, el importe de tres meses de la cuota disfrutada por el pensionado.
+
+###### ARTICULO 91.
+
+Para los efectos de este seguro el Estado, los Ayuntamientos y los organismos incorporados, deberán dar aviso al Instituto del Accidente del Servidor público dentro de los tres días siguientes. El servidor público, su representante legal o sus familiares derechohabientes, también podrán dar el aviso de referencia, así como el de presunción de la existencia de una enfermedad profesional.
+
+###### ARTICULO 92.
+
+No se considerarán accidentes de trabajo o enfermedades profesionales:
+
+I.- Las que ocurran encontrándose el servidor público en estado de embriaguez o bajo la acción de narcóticos o estupefacientes;
+
+II. Los que provoque intencionalmente el servidor público;
+
+III.- Los que sean resultado de un intento de suicidio, efectos de una riña en que hubiere participado el servidor público o los originados por algún delito cometido por éste, y
+
+IV.- Los que sean debidos a caso fortuito o de fuerza mayor extraños al trabajo u ocurridos fuera del lugar donde aquel se desempeñe.
+
+### CAPITULO XII. PRESTACIONES SOCIALES
+
+A).- SEGURO DE RETIRO
+
+###### ARTICULO 93.
+
+Los servidores públicos que causen baja en el servicio, ya sea por jubilación o por incapacidad total permanente, tendrán derecho al seguro de retiro, pagadero por una sola vez.
+
+Los beneficios de este seguro se otorgarán en los casos siguientes:
+
+a).- El servidor que cause baja definitiva por haber cumplido 30 o más años de servicio e igual tiempo de aportación al Instituto recibirá la suma de $100,000.00.
+
+b).- Al servidor que cause baja definitiva y haya trabajado de 15 a 29 años y con igual tiempo de aportación al Instituto se le entregará el importe del seguro conforme a la siguiente tabla:
+
+AÑOS DE SERVICIO MONTO DEL BENEFICIO
+
+15 $ 40,000.00
+
+16 $ 42,500.00
+
+17 $ 45,000.00
+
+18 $ 47,500.00
+
+19 $ 50,000.00
+
+20 $ 52,500.00
+
+21 $ 55,000.00
+
+22 $ 60,000.00
+
+23 $ 65,000.00
+
+24 $ 70,000.00
+
+25 $ 75,000.00
+
+26 $ 80,000.00
+
+27 $ 85,000.00
+
+28 $ 90,000.00
+
+29 $ 95,000.00
+
+c).- El servidor que cause baja definitiva por incapacidad total permanente originada por accidente de trabajo o por enfermedad profesional en los términos de esta Ley, sin considerar la edad ni el tiempo de servicio, recibirá la suma de $100,000.00.
+
+d).- El servidor que cause baja por invalidez total permanente a consecuencia de enfermedad o accidente por causas ajenas al servicio en los términos de esta Ley, sin considerar su edad, se le otorgará la suma que le corresponda conforme a la tabla del inciso b).
+
+En caso de que algún servidor público, habiendo recibido el importe de este seguro, reingrese al servicio activo, no generará derecho alguno a nuevo pago.
+
+El fallecimiento del servidor público en funciones no genera ningún derecho a favor de sus deudos respecto al seguro de retiro.
+
+B).- SEGURO PARA PAGO DE FUNERALES
+
+###### ARTICULO 94.
+
+Los beneficiarios del asegurado que fallezca tendrán derecho a cobrar el seguro para pago de funerales, conforme a los montos y requisitos que en este artículo se enumeran, los que serán revisables anualmente por la Junta Directiva a fin de adecuarlos a las condiciones económicas existentes en la Entidad:
+
+a).- Hasta la cantidad de $50,000.00 siempre que el asegurado haya prestado servicios por 5 años e igual término de contribución al fondo del Instituto.
+
+b).- Hasta la cantidad de $30,000.00 cuando el asegurado haya prestado servicios por tiempo mayor de 2 años pero menor de 5 e igual lapso de aportación al Instituto.
+
+###### ARTICULO 95.
+
+El seguro para los gastos de funerales serán entregados a los beneficiarios del asegurado o a la persona que le hubiese asistido en su muerte, previa presentación del certificado de defunción y la comprobación de los gastos hechos por esta causa.
+
+###### ARTICULO 96.
+
+No habiendo beneficiarios del servidor público o persona que se hubiese hecho cargo del sepelio, el Instituto se encargará de hacerlo, gozando también de este beneficio los jubilados y pensionados.
+
+C).- SEGURO DE VIDA
+
+###### ARTICULO 97.
+
+El seguro de vida consistirá en el pago a los beneficiarios del asegurado, del equivalente a 300 días de salario mínimo vigente en la fecha del deceso en caso de muerte natural y de 600 días de salario mínimo vigente, si ocurriese por accidente de trabajo o cualquier otra causa violenta, de 720,000.00 por muerte colectiva siempre que la muerte no sea consecuencia de un delito intencional imputable a los beneficiarios en términos de las leyes relativas.
+
+Los pensionados y jubilados podrán acogerse a este beneficio mediante el pago de las aportaciones correspondientes, sin que exista derecho a su devolución.
+
+Serán beneficiarios de esta prestación las personas que señale el asegurado en carta testamentaria conforme a la proporción que él disponga; a falta de esta disposición se estará al orden señalado en el Artículo 6o. fracción IV de esta Ley.
+
+###### ARTICULO 98.
+
+La edad límite para ser beneficiario de este seguro será de 60 años a excepción de los pensionados y jubilados que paguen las aportaciones a que se refiere el artículo anterior.
+
+### CAPITULO XIII. PRESTACIONES ECONOMICAS
+
+###### ARTICULO 99.
+
+Conforme al Plan Anual de Inversiones y a las previsiones administrativas que tome el Instituto, se otorgarán las prestaciones económicas de préstamos a corto plazo, préstamos hipotecarios y de adquisición o arrendamiento de inmuebles propiedad del Instituto, la Junta Directiva determinará anualmente el monto global de la cantidad a otorgarse en estos préstamos de acuerdo con la capacidad financiera del Instituto.
+
+###### ARTICULO 100.
+
+Los préstamos se otorgarán a los servidores públicos que hayan cotizado al Instituto, según las normas de cada préstamo, y a los pensionados y jubilados conforme lo resuelva la Junta Directiva.
+
+###### ARTICULO 101.
+
+Los préstamos se otorgarán de acuerdo a las normas establecidas en esta Ley en la forma y cantidades siguientes:
+
+a).- Préstamos a corto plazo, hasta por 6 meses de sueldo base;
+
+b).- Préstamo hipotecario hasta por la cantidad de $ 500,000.00 sin que el acreditado tenga necesidad de justificar el destino del préstamo.
+
+Este contrato se constituirá en documento privado firmado por el Instituto y el acreditado y será inscrito en el Registro Público de la Propiedad y del Comercio sin que cause el pago de derechos o impuestos al Estado;
+
+c).- Préstamo hipotecario, hasta por 2 millones de pesos, que se proporcionarán en partidas mediante estimaciones y para los fines previstos en esta misma Ley.
+
+###### ARTICULO 102.
+
+Los plazos para la liquidación de los préstamos serán fijados por la Junta Directiva y no excederán de quince años para los hipotecarios y de tres años en los de corto plazo; se liquidarán en amortizaciones quincenales iguales, por conducto de los Organismos contribuyentes.
+
+###### ARTICULO 103.
+
+La cuantía de los préstamos estará en relación a las amortizaciones, ya que éstas no deberán exceder del 50% del sueldo o pensión, excepto cuando se justifiquen otros ingresos fijos, caso en que el Instituto podrá autorizar que los descuentos sean mayores.
+
+###### ARTICULO 104.
+
+Se establecerá un fondo de garantía para la liquidación de los préstamos a corto plazo que resultaren insolutos.
+
+Las aportaciones se harán sin derecho a devolución.
+
+###### ARTICULO 105.
+
+Las prestaciones económicas se autorizarán en el orden progresivo de presentación de la solicitud, cumplidos los requisitos formales.
+
+###### ARTICULO 106.
+
+Los honorarios, impuestos, derechos y demás gastos que se generen en el otorgamiento de las prestaciones económicas serán a cargo del interesado, pero el Instituto podrá financiarlo para este fin.
+
+###### ARTICULO 107.
+
+La Junta Directiva formulará los Reglamentos respectivos y establecerá las modalidades en el otorgamiento de los préstamos, además de lo previsto en esta Ley.
+
+A).- PRESTAMOS A CORTO PLAZO
+
+###### ARTICULO 108.
+
+Los asegurados que hayan contribuido al fondo del Instituto por más de 6 meses podrán obtener préstamos a corto plazo.
+
+###### ARTICULO 109.
+
+Los préstamos se otorgarán conforme al tiempo de servicio por el equivalente al sueldo base de acuerdo a la siguiente.
+
+TABLA DE PRESTAMOS:
+
+TIEMPO DE SERVICIO EQUIVALENTE
+
+AL SUELDO DE
+
+más de 6 meses 1 mes
+
+más de 1 año 2 meses
+
+más de 2 años 3 meses
+
+más de 3 años 4 meses
+
+más de 4 años 5 meses
+
+más de 5 años 6 meses
+
+Los jubilados y pensionados gozarán de estos beneficios conforme a los acuerdos generales de la Junta Directiva.
+
+###### ARTICULO 110.
+
+Los préstamos a corto plazo causarán un interés del 12% anual, calculado sobre el capital.
+
+###### ARTICULO 111.
+
+Cuando el monto del préstamo sea superior al fondo del interesado se exigirá garantía colateral consistente en: Firma personal de otro contribuyente del Instituto a satisfacción de éste, o contribuir al fondo de garantía con el 1% sobre la diferencia entre el monto del préstamo y las aportaciones hechas al Instituto.
+
+Mientras el Fondo de Garantía no tenga suficiente reserva para hacer frente a los adeudos incobrables, será exigida la fianza personal según lo determine la Junta Directiva.
+
+###### ARTICULO 112.
+
+Los adeudos que no fueren cubiertos por los asegurados a su vencimiento, se cargarán al fondo de garantía, siendo exigible el crédito contra el deudor o codeudor, pudiendo el Instituto acudir a los medios legales para hacerlo efectivo, debiendo abonar a dicho fondo las cantidades que se recuperen.
+
+###### ARTICULO 113.
+
+No se concederá nuevo préstamo mientras permanezca insoluto el anterior; solamente podrá renovarse cuando se haya liquidado la tercera parte de dicho préstamo, y siempre que el deudor pague la prima de renovación que por medio de acuerdo fije la Junta Directiva.
+
+###### ARTICULO 114.
+
+Cuando los sujetos de esta Ley dejen de serlo y se les haya otorgado préstamo a corto plazo, el interés del préstamo automáticamente se incrementará al que marca la Comisión Nacional Bancaria sobre saldos insolutos, para este tipo de prestación, haciéndole el ajuste correspondiente en las amortizaciones, quedando obligado a entregarlas directamente al Instituto.
+
+B).- PRESTAMOS HIPOTECARIOS
+
+###### ARTICULO 115.
+
+Los servidores públicos que hayan contribuído por más de un año al fondo del mismo, podrán obtener préstamos con garantía hipotecaria que se destinarán a los siguientes fines:
+
+I.- Adquisición de terrenos en los que deberá construirse la habitación del beneficiado;
+
+II.- Adquisición o construcción de casa habitación para el solicitante beneficiado;
+
+III.- Mejoras o reparaciones de la casa habitación del beneficiado;
+
+IV.- Liquidación de gravámenes que afecten el inmueble.
+
+Cuando el préstamo hipotecario no exceda de $500,000.00 el acreditado no necesita justificar el destino del préstamo y se formalizará en los términos previstos en esta Ley.
+
+Los jubilados y pensionados gozarán de los beneficios que establece este artículo de acuerdo con los lineamientos que dicte la Junta Directiva.
+
+###### ARTICULO 116.
+
+Los préstamos hipotecarios se cubrirán mediante amortizaciones quincenales que incluirán capital e intereses.
+
+###### ARTICULO 117.
+
+Las cantidades que se autoricen no deberán exceder del monto establecido en el Artículo 101, sujetándose a lo señalado en el capítulo de prestaciones económicas y a las disposiciones del Reglamento respectivo.
+
+###### ARTICULO 118.
+
+El préstamo no excederá del 90% del avalúo Bancario solicitado por el Instituto, cuando se trate de adquisición de inmuebles o demás actos relacionados con ellos.
+
+###### ARTICULO 119.
+
+Los préstamos hipotecarios que se otorguen causarán el 13% del interés anual sobre saldos insolutos. El Fondo de garantía será de 1 al millar sobre el capital insoluto y tendrá por objetivo liquidar y cancelar el adeudo en caso de fallecimiento del asegurado, en beneficio de sus familiares o la persona con mayor derecho.
+
+###### ARTICULO 120.
+
+Mientras que permanezca insoluto el préstamo hipotecario otorgado al asegurado, jubilado o pensionado, no se le concederá o ampliará otro crédito y solamente se le otorgará uno nuevo, si ha transcurrido un año de haber liquidado el anterior y lo destina para redimir gravámenes o para ampliaciones, mejoras o reparaciones en el inmueble propiedad del solicitante.
+
+###### ARTICULO 121.
+
+Cuando los sujetos de esta Ley dejen de serlo y se les haya otorgado crédito hipotecario, el interés del préstamo automáticamente se incrementará al que marca la Comisión Nacional Bancaria para este tipo de prestación sobre los saldos insolutos, haciéndosele el ajuste correspondiente en las amortizaciones, quedando obligado a enterarlas directamente al Instituto.
+
+###### ARTICULO 122.
+
+Si por causas económicas graves a juicio del Instituto no pudiere el deudor cubrir los abonos respectivos, previa solicitud podrá concedérsele y con las condiciones que se estipulen, un lapso de espera máxima de seis meses, al término del cual deberá reanudar sus pagos. El adeudo se pagará en el plazo y requisitos que señale la Junta Directiva. Si hubieron aportaciones al fondo de garantía no se devolverán sino que se irán abonando al préstamo.
+
+###### ARTICULO 123.
+
+A la muerte del deudor, el Instituto cancelará a favor de los beneficiarios de aquel, el saldo insoluto, siempre y cuando no haya retraso en sus pagos.
+
+C).- COMPRAVENTA O ARRENDAMIENTO DE INMUEBLES
+
+###### ARTICULO 124.
+
+El Instituto adquirirá o construirá inmuebles para ser vendidos o arrendados, a precios módicos a los beneficiarios de esta Ley, siempre que hayan contribuido por más de un año al Instituto.
+
+La enajenación de dichos inmuebles podrá hacerse por medio de venta a plazos, con garantía hipotecaria o con resera (sic) de dominio, sujetándose tales modalidades al Código Civil del Estado y conforme a las siguientes bases:
+
+I.- El servidor público usará el inmueble sin más formalidades que la firma del contrato respectivo.
+
+II.- El plazo para cubrir el precio del inmueble no excederá de 15 años;
+
+III.- En caso de que el asegurado haya cubierto más del 50% del valor pactado y se viere imposibilitado de continuar cubriendo sus abonos, y el Instituto exigiere el pago del saldo que se adeuda, tendrá derecho a que se le devuelva lo pagado después de haber descontado el valor de los deterioros y los gastos que cause la cancelación del contrato.
+
+El valor de las mejoras que realice el ocupante con autorización del Instituto y previo avalúo se incrementará al valor de la devolución.
+
+IV.- En caso de que el asegurado haya cubierto menos del 50% del valor pactado y se viera imposibilitado de continuar cubriendo sus abonos, el Instituto recuperará el inmueble sin que medie devolución alguna de los abonos y las mejoras se reputarán como pago de arrendamiento de dicho inmueble;
+
+V.- El inmueble podrá ser traspasado a otra persona contribuyente del Instituto, con los mismos derechos y obligaciones estipulados en el contrato respectivo, previo acuerdo de la Junta Directiva y siempre que ambos no tengan adeudos con el Instituto;
+
+VI.- Los honorarios notariales para el otorgamiento de las escrituras, así como el pago de los impuestos y gastos adicionales serán por cuenta exclusiva de los asegurados y podrá aumentarse al importe del préstamo;
+
+VII.- Los pensionistas gozarán de los beneficios de este artículo en los términos que dentro de los lineamientos de esta Ley fije la Junta Directiva por medio de acuerdos generales.
+
+###### ARTICULO 125.
+
+El Instituto estará facultado igualmente para adquirir o urbanizar terrenos, destinados a formar unidades de habitación y servicios sociales en favor de sus afiliados.
+
+###### ARTICULO 126.
+
+Cuando el Instituto construya inmuebles con fondos propios, el plazo para pagar su importe no excederá de quince años, con el interés del 13% anual sobre saldos insolutos.
+
+El interés se aumentará al que marca la Comisión Nacional Bancaria, para este tipo de prestación, sobre los saldos insolutos en los casos que el comprador pierda la calidad de sujeto de esta Ley.
+
+Cuando los inmuebles los construya el Instituto con dinero ajeno, la Junta Directiva, fijará el plazo que estime conveniente para su pago y tasas de interés.
+
+Los pagos parciales mensuales destinados a amortizar capital e interés se descontarán de las percepciones que reciban los compradores a cambio de sus servicios en los organismos contribuyentes o de su pensión.
+
+###### ARTICULO 127.
+
+La Junta Directiva dictará las disposiciones reglamentarias para seleccionar a los presuntos compradores de los inmuebles, siendo indispensable que no tengan propiedades urbanas en la localidad, y el uso sea el que se le destinó desde su construcción.
+
+###### ARTICULO 128.
+
+La violación del artículo anterior, será causa suficiente para dar por vencida anticipadamente la totalidad del adeudo con todas las consecuencias legales de una rescisión. Como excepción se concede que el inmueble sea usufructuado por familiares del beneficiario en el caso de que éste cambie de adscripción y que dicho cambio haya sido motivado por necesidad del servicio.
+
+###### ARTICULO 129.
+
+Los arrendamientos de inmuebles a los beneficiarios de esta Ley se regirán por las disposiciones reglamentarias que dicte la Junta Directiva de Conformidad con el Código Civil del Estado.
+
+###### ARTICULO 130.
+
+Los casos de rescisión de los contratos de arrendamiento y compraventa se resolverán de acuerdo con las reglas del derecho civil en todo lo no previsto en esta Ley.
+
+### CAPITULO XIV. PRESTACIONES SOCIALES
+
+###### ARTICULO 131.
+
+El Instituto, contando con la cooperación y apoyo de los contribuyentes realizará promociones y otorgará prestaciones sociales que tiendan a mejorar el nivel de vida del asegurado y de su familia, mediante una formación social y cultural adecuada y disponiendo de servicios que satisfagan las necesidades de educación, alimentación, vestidos, descanso y esparcimiento.
+
+###### ARTICULO 132.
+
+Para los efectos del Artículo anterior la Junta Directiva aprobará anualmente el programa y presupuesto de actividades para atender las prestaciones y promociones sociales.
+
+###### ARTICULO 133.
+
+La preparación y formación social y cultural de los asegurados y de sus familiares derechohabientes, se realizará mediante cursos de capacitación y extensión educativa, de guarderías y estancias infantiles, excursiones y actividades deportivas.
+
+###### ARTICULO 134.
+
+El Instituto promoverá el establecimiento de almacenes y tiendas de consumo popular para facilitar a los beneficiarios y derechohabientes la adquisición a precios más bajos que en el mercado de artículos de consumo general.
+
+También establecerá salas de velación y proporcionará los servicios complementarios, conforme al Reglamento que expida el Instituto.
+
+### CAPITULO XV. PRESCRIPCIONES
+
+###### ARTICULO 135.
+
+El derecho a la jubilación y a la pensión es imprescriptible.
+
+###### ARTICULO 136.
+
+Las pensiones caídas, las devoluciones de los descuentos, los intereses, las indemnizaciones globales y cualquier prestación con cargo al Instituto que no se reclamen dentro de los tres años siguientes a la fecha en que hubieren sido exigibles, prescribirán a su favor.
+
+###### ARTICULO 137.
+
+Los créditos a favor del Instituto, cualquiera que sea su especie, prescribirán en diez años, a contar de la fecha que el Instituto pueda, conforme a la Ley ejercitar sus derechos.
+
+###### ARTICULO 138.
+
+Las obligaciones que en favor del Instituto señale la presente Ley, a cargo de los Organismos contribuyentes, prescribirán en el plazo de diez años contados a partir de la fecha que sean exigibles. La prescripción se interrumpirá por cualquier gestión de cobro.
+
+### CAPITULO XVI. DEVOLUCION DE APORTACIONES
+
+###### ARTICULO 139.
+
+Cuando el servidor público, que sin tener derecho a pensión por jubilación, vejez e invalidez, se separe definitivamente del servicio o falleciere, se le otorgará una devolución y gratificación de acuerdo a:
+
+a).- El monto total de las aportaciones con que hubiese contribuido de acuerdo al inciso (d) del artículo 31, si tuviese de 1 a 4 años de servicio;
+
+b).- El monto total de las aportaciones que hubiese enterado en los términos del artículo 31 (d), más de 45 días de su último sueldo básico, si tuviese de 5 a 9 años de servicio; y
+
+c).- El monto total de las aportaciones que hubiere enterado conforme al artículo 31 (d), más 90 días de su último sueldo básico, si hubiere permanecido en el servicio de 10 a 14 años.
+
+En caso de fallecimiento, serán acreedores a las anteriores disposiciones sus beneficiarios.
+
+###### ARTICULO 140.
+
+Los sujetos de esta Ley podrán designar por escrito ante el Instituto a las personas beneficiarias que recibirán el reintegro de la cantidad constituida a su favor en el fondo. Si el servidor público no hace designación en caso de fallecimiento o incapacidad total, el Instituto reconocerá como heredero a quien lo acredite conforme a la Ley aplicable.
+
+###### ARTICULO 141.
+
+La devolución se hará a partir de los 30 días siguientes a la fecha de separación o fallecimiento del servidor público. Sin embargo, la cantidad a devolverse podrá ser retenida por el Instituto y aplicada al saldo de pagos pendientes que con él tuviere el beneficiario.
+
+###### ARTICULO 142.
+
+El servidor público suspendido o cesado por imputársele la comisión de algún delito en el desempeño de su cargo, que entrañe responsabilidad con el Estado, Ayuntamiento, Organismo incorporado o el propio Instituto, no tendrá derecho a lo preceptuado por el Artículo 139, hasta que los tribunales dicten el fallo respectivo, si es absolutorio; en caso contrario, sólo se le devolverá el sobrante, si lo hubiere, después de cubrir dicha responsabilidad.
+
+###### ARTICULO 143.
+
+Cuando el Instituto otorgue jubilación o pensión el beneficiario no tendrá derecho a que le sean devueltas las cantidades que se le hayan descontado por el fondo de pensiones durante el tiempo de su empleo.
+
+### CAPITULO XVII. RESPONSABILIDAD Y SANCIONES
+
+###### ARTICULO 144.
+
+Los servidores públicos del Instituto son responsables por el incumplimiento de las obligaciones impuestas en esta Ley en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+
+###### ARTICULO 145.
+
+Los pagadores y encargados de cubrir sueldo que no efectúen los descuentos que procedan en los términos de esta Ley y su Reglamento serán sancionados con una multa equivalente al 5% de las cantidades no descontadas, independientemente de la responsabilidad civil o penal en que incurran sin perjuicio de regularizar la situación en los términos de esta Ley.
+
+###### ARTICULO 146.
+
+Tratándose de servidores públicos de los Poderes del Estado, las sanciones que se impongan y que no sean cubiertas en los términos fijados serán descontadas por la Secretaría de Finanzas a través de los procedimientos de que dispone.
+
+###### ARTICULO 147.
+
+Si se trata de servidores públicos de los municipios o de Organismos públicos incorporados, éstos harán los descuentos correspondientes y los enterarán al Instituto conforme a las modalidades que establezca la Junta Directiva.
+
+###### ARTICULO 148.
+
+A los servidores públicos del Instituto así como a los miembros de la Junta Directiva, independientemente de la Responsabilidad Administrativa conforme a la Ley de la materia, les será exigible también, en los casos correspondientes, la responsabilidad civil y penal en que incurran.
+
+###### ARTICULO 149.
+
+El obtener las prestaciones que esta Ley concede sin tener derecho alguno, mediante simulación, sustitución de persona o por cualquier otro acto que constituya engaño o aprovechamiento del error, será denunciado por el Instituto ante las autoridades competentes para la sanción que las leyes relativas determinen.
+
+### CAPITULO XVIII. DISPOSICIONES COMPLEMENTARIAS
+
+###### ARTICULO 150.
+
+El fondo del Instituto estará destinado exclusivamente al cumplimiento de sus objetivos de seguridad social, por lo que no podrá disponerse de él, en ningún caso, ni por autoridad alguna, aún a título de préstamos reintegrables, si no es por alguna causa de las expresamente señaladas en esta Ley y mediante los procedimientos ordenados en cada caso.
+
+###### ARTICULO 151.
+
+Cuando el Instituto contrate la prestación de servicios con Organismos Públicos o privados, deberá establecerse en los contratos respectivos, la obligación de proporcionarle los informes y estadísticas que solicite, así como el de sujetarse a la supervisión que realice el Instituto.
+
+###### ARTICULO 152.
+
+En todo aquello no previsto en esta Ley se aplicarán supletoriamente las disposiciones de los Códigos Civil y de Procedimientos Civiles del Estado, la Ley Federal del Trabajo, la Legislación aplicable a cada Organismo en cuanto a sus relaciones de trabajo y la Ley de Responsabilidades de los Servidores Públicos.
+
+## TRANSITORIOS
+
+PRIMERO.- Esta Ley entrará en vigor el día primero de enero de 1985.
+
+SEGUNDO.- Se abroga la Ley del Instituto de Seguridad Social del Estado de Tabasco, de fecha 12 de diciembre de 1980, publicada en el suplemento del Periódico Oficial número 3994 del 24 de diciembre del mismo año, así como todas las demás disposiciones legales que se opongan a la presente Ley.
+
+TERCERO.- Todas las prestaciones solicitadas al Instituto y que se encuentren en trámite, se regirán por la presente Ley.
+
+CUARTO.- Dentro de los quince días siguientes a la iniciación de su vigencia, se reestructurará la Junta Directiva del Instituto y se integrará el Consejo de Vigilancia.
+
+QUINTO.- Para los efectos de formar las reservas del fondo para el seguro de retiro, el Instituto recibirá las primas durante seis meses, contados a partir de la vigencia de esta Ley, sin pagar dicho seguro a los beneficiarios sino después de que transcurra ese término y conforme al orden que corresponda.
+
+Dado en el salón de sesiones del Poder Legislativo, en la ciudad de Villahermosa, capital del Estado de Tabasco, a los dos días del mes de julio de mil novecientos ochenta y cuatro.- Lic. Freddy Chablé Torrano, Diputado Presidente, Lic. Oscar A. Priego Gallegos, Diputado Secretario.- Rubricas.
+
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Expedido en el Palacio del Poder Ejecutivo, en la Ciudad de Villahermosa Capital del Estado de Tabasco, a los diecinueve días del mes de julio del año de mil novecientos ochenta y cuatro.
+
+ENRIQUE GONZALEZ PEDRERO
+
+LIC. JOSÉ EDUARDO BELTRAN HERNANDEZ
+
+SECRETARIO DE GOBIERNO
