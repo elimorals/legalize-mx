@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1971-07-03"
+last_updated: "1971-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 1971
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -1505,9 +1505,11 @@ Luego que la sentencia sobre nulidad cause ejecutoria, los hijos varones mayores
 
 Si uno solo de los cónyuges ha procedido de buena fe, quedarán todos los hijos bajo su cuidado, pero siempre, y aun tratándose de divorcio, los hijos e hijas menores de cinco años se mantendrán al cuidado de la madre hasta que cumplan esa edad a menos que la madre se dedicare a la prostitución, al lenocinio, hubiere contraído hábitos de embriaguez, tuviere alguna enfermedad contagiosa o por su conducta ofreciere peligro grave para la salud o la moralidad de los hijos.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1971)</small>
+
 ###### Artículo 273.
 
-Declarada la nulidad del matrimonio se procederá a la división de los bienes comunes y se liquidará la sociedad conyugal si existiere. Los productos repartibles, si los dos cónyuges hubieren procedido de buena fe, se dividirán entre ellos en la forma que corresponda. Si sólo hubiere habido buena fe de parte de uno de los cónyuges, a éste se aplicarán íntegramente esos productos. Si ha habido mala fe de parte de ambos cónyuges, los productos se aplicarán a los hijos.
+Declarada la nulidad del matrimonio se procederá a la división de los bienes comunes y se liquidará la sociedad conyugal si existiere. Los produetos (sic) repartibles, si los dos cónyuges hubieren procedido de buena fe se dividirán entre ellos en la forma que corresponda. Si sólo hubiere habido buena fe de parte de uno de los cónyuges, se estará a lo dispuesto en el artículo 195 de este Código. Si ha habido mala fe de parte de ambos cónyuges, los productos se aplicarán a los hijos.
 
 ###### Artículo 274.
 
@@ -11135,7 +11137,7 @@ Revocada o reducida una donación por inoficiosa, el donatario sólo responderá
 
 ## TITULO QUINTO. Del mutuo
 
-### CAPITULO II. De los derechos y obligaciones del arrendador
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 2259.
 
@@ -11183,7 +11185,7 @@ En el caso de haberse pactado que la restitución se hará cuando pueda o tenga 
 
 No se declararán nulas las deudas contraídas por el menor para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO II. De los derechos y obligaciones del arrendador
 
 ###### Artículo 2268.
 
@@ -14648,3 +14650,7 @@ Artículo Tercero: Esta Ley entrará en vigor a partir de la fecha de su publica
 P.O. 3 DE JULIO DE 1971.
 
 UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JULIO DE 1971.
+
+Unico.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
