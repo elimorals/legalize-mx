@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-14868"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-25"
-last_updated: "1996-12-25"
+last_updated: "2000-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2000.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 25 de diciembre de 1996.
 
@@ -99,9 +99,11 @@ Los Magistrados Supernumerarios no devengarán salario alguno, salvo que cubran 
 
 Los Magistrados del Supremo Tribunal de Justicia serán nombrados en la forma y términos establecidos en la Constitución Política del Estado y para serlo, deberán reunir los requisitos señalados en la misma.
 
-###### ARTICULO 9º.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2000)</small>
 
-El Supremo Tribunal de Justicia funcionará en Pleno y en cuatro Salas.
+###### ARTICULO 9°.
+
+El Supremo Tribunal de Justicia funcionará en Pleno y en cinco Salas.
 
 ###### ARTICULO 10.
 
@@ -221,7 +223,11 @@ XVII. Proponer al Pleno el personal al servicio del Poder Judicial que se haya h
 
 XVIII. Proponer al Pleno los profesionistas necesarios para formular la propuesta que el Supremo Tribunal de Justicia presentará al Congreso del Estado para el nombramiento de Magistrados del Tribunal Electoral; y
 
-XIX. Las demás atribuciones que le confiere la presente Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JULIO DE 2000)</small>
+
+XIX. Designar al Director de la Oficina Central de Actuarios; y
+
+XX. Las demás atribuciones que le confiere la presente Ley.
 
 ### CAPITULO III. De la Secretaría del Supremo Tribunal de Justicia
 
@@ -241,9 +247,11 @@ Al Subsecretario le corresponderá auxiliar al Secretario General y sustituirlo 
 
 ### CAPITULO IV. De las Salas del Tribunal
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JULIO DE 2000)</small>
+
 ###### ARTICULO 21.
 
-El Supremo Tribunal de Justicia contará con cuatro Salas Colegiadas. La Primera y la Segunda conocerán de los asuntos penales; y la Tercera y Cuarta de los asuntos civiles y de los demás que expresamente le faculte la Ley.
+El Supremo Tribunal de Justicia contará con cinco Salas Colegiadas; correspondiendo al Pleno asignar a cada una de ellas los asuntos penales, civiles y familiares de los que deberá conocer. La primera y la segunda conocerán de los asuntos penales; la tercera y cuarta de los asuntos civiles; y la quinta que tendrá el carácter de mixta, conocerá de asuntos civiles y penales.
 
 Cada Sala elegirá a su Presidente que durará un año en su cargo, pudiendo ser reelecto hasta por una sola vez. La elección se hará el día de la instalación del Tribunal y en los años siguientes en el primer día hábil.
 
@@ -733,7 +741,9 @@ X. Guardar bajo su responsabilidad los documentos y expedientes inventariados, m
 
 XI. Practicar las diligencias que le sean encomendadas por el Titular del Juzgado;
 
-XII. Cuidar el buen desempeño de los actuarios y empleados del Juzgado;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2000)</small>
+
+XII. Cuidar el buen desempeño del Juzgado en el orden administrativo y dirigir las actividades laborales conforme a las instrucciones de su Titular.
 
 XIII. Redactar los acuerdos y las actas que el Juez le encomiende; y
 
@@ -757,7 +767,11 @@ III. Inventariar rigurosamente los expedientes que se encuentren en trámite y v
 
 IV. Sellar, foliar y rubricar las actuaciones, oficios y demás documentos que lo requieran; y
 
-V. Las demás que les atribuya la ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JULIO DE 2000)</small>
+
+V. Elaborar diariamente las listas de los acuerdos, las que deberán publicarse en la forma establecida por la ley; y
+
+VI. Las demás que les atribuya la ley.
 
 ### CAPITULO III. De los Secretarios de Estudio y Cuenta
 
@@ -779,17 +793,17 @@ Los Secretarios de Estudio y Cuenta tienen la obligación de elaborar los proyec
 
 Para ser Actuario se requieren los mismos requisitos señalados para ser Secretario de Acuerdos.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2000)</small>
+
 ###### ARTICULO 84.
 
 Son obligaciones y atribuciones de los Actuarios las siguientes:
 
 I. Practicar con estricto apego a la ley las notificaciones y diligencias que les sean ordenadas, dentro del término que les fuere señalado;
 
-II. Elaborar diariamente conforme al turno establecido las listas de los acuerdos, las que deberán publicarse en la forma establecida por la ley;
+II. Devolver los expedientes o actuaciones, previas las anotaciones correspondientes, a más tardar al día siguiente de haber practicado las notificaciones o diligencias ordenadas; y
 
-III. Devolver los expedientes o actuaciones, previas las anotaciones correspondientes, a más tardar al día siguiente de haber practicado las notificaciones o diligencias ordenadas; y
-
-IV. Las demás que en forma expresa les sean encomendadas por las leyes, el Reglamento Interior y por sus superiores.
+III. Las demás que en forma expresa les sean encomendadas por las leyes, el Reglamento Interior y por sus superiores.
 
 ###### ARTICULO 85.
 
@@ -799,9 +813,37 @@ Los Actuarios tendrán fe pública en el desempeño de sus funciones.
 
 En los Juzgados de Primera Instancia donde no haya Actuario, esa función la desempeñará el Secretario de Acuerdos o la persona que el Juez habilite para tal efecto.
 
-### CAPITULO V. Del Personal de Apoyo
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2000)</small>
 
-### CAPITULO UNICO
+### CAPITULO V. De la Oficina Central de Actuarios
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2000)</small>
+
+###### ARTICULO 86 Bis.
+
+Las Oficinas Centrales de Actuarios son dependencias del Supremo Tribunal de Justicia del Estado y serán creadas en los Distritos Judiciales que por el volumen de expedientes civiles, mercantiles y familiares sean necesarias.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2000)</small>
+
+###### ARTICULO 86 Ter.
+
+Al frente de la Oficina Central de Actuarios estará un Director con las siguientes atribuciones:
+
+I. Recibir diariamente las actuaciones que remitan los Juzgados civiles y familiares, para la práctica de las notificaciones y diligencias respectivas;
+
+II. Registrar y distribuir entre los actuarios por orden de recepción e irrestricto respeto de turnos, las cédulas de notificación y los expedientes para ejecución que envíen los Juzgados, para su pronta diligenciación;
+
+III. Tomar las medidas que estime convenientes para lograr, mediante una equitativa distribución del trabajo, la mayor celeridad en la práctica de las diligencias que ordenen los Juzgados, y
+
+IV. Las conferidas por el Reglamento Interior del Poder Judicial del Estado, por los ordenamientos aplicables, por el Presidente y el Pleno del Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2000)</small>
+
+###### ARTICULO 86 Quater.
+
+Los directores de las oficinas centrales serán los jefes inmediatos tanto de los actuarios como del personal adscrito a las mismas, y responsables del buen funcionamiento y orden de las oficinas.
+
+### CAPITULO VI. Del Personal de Apoyo
 
 ###### ARTICULO 87.
 
@@ -813,7 +855,7 @@ Los escribientes y empleados del Tribunal y de los Juzgados, desempeñarán las 
 
 ## TITULO CUARTO. DE LA CARRERA JUDICIAL
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO UNICO
 
 ###### ARTICULO 89.
 
@@ -847,7 +889,9 @@ Las designaciones que deban hacerse en las plazas vacantes de Juez, ya sean defi
 
 La realización y aplicación de los exámenes de aptitud de los servidores judiciales estará a cargo del Instituto de Estudios Judiciales, en los términos de las bases que determine el Pleno.
 
-Los exámenes de aptitud se realizarán a petición del titular del órgano que deba llevar a cabo la correspondiente designación, debiendo preferir a quienes se encuentren en las categorías inmediatas inferiores.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2000)</small>
+
+Los exámenes de aptitud se realizarán a petición del titular del órgano que deba llevar a cabo la correspondiente designación, quien podrá preferir a quienes se encuentren en las categorías inmediatas inferiores, siempre y cuando reúnan el perfil requerido y los conocimientos necesarios.
 
 ###### ARTICULO 93.
 
@@ -885,7 +929,7 @@ III. Dos Jueces designados por el Pleno del Supremo Tribunal de Justicia.
 
 ## TITULO QUINTO. DE LOS PERITOS
 
-### CAPITULO II. De los Peritos Médicos
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 96.
 
@@ -895,7 +939,7 @@ El peritaje de los asuntos que se presenten ante las autoridades judiciales es u
 
 Los servidores judiciales en ningún caso pueden intervenir como peritos.
 
-### CAPITULO I. Del Archivo Judicial
+### CAPITULO II. De los Peritos Médicos
 
 ###### ARTICULO 98.
 
@@ -937,7 +981,7 @@ VI. Las demás que les encomienden las leyes y el Reglamento Interior.
 
 ## TITULO SEXTO. DE LAS UNIDADES DE APOYO TECNICO DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-### CAPITULO II. De la Biblioteca
+### CAPITULO I. Del Archivo Judicial
 
 ###### ARTICULO 102.
 
@@ -979,7 +1023,7 @@ El personal del Archivo Judicial del Estado se integrará por un Director, quien
 
 El Director deberá rendir en forma mensual al Presidente del Supremo Tribunal de Justicia un informe general de las actividades desarrolladas.
 
-### CAPITULO III. De las Oficialías de Partes Común
+### CAPITULO II. De la Biblioteca
 
 ###### ARTICULO 110.
 
@@ -989,7 +1033,7 @@ La Biblioteca del Supremo Tribunal de Justicia estará a cargo de un bibliotecar
 
 La Biblioteca estará al servicio de los funcionarios judiciales y del público en general, pero sólo los primeros podrán extraer de ella los volúmenes que en general necesiten, previo recibo.
 
-### CAPITULO IV. Del Instituto de Estudios Judiciales
+### CAPITULO III. De las Oficialías de Partes Común
 
 ###### ARTICULO 112.
 
@@ -1007,7 +1051,7 @@ El Oficial de Partes, tendrá bajo su responsabilidad el control de registros de
 
 Los turnos de los diversos asuntos, deberán ser hechos conforme al sistema que establezca el Pleno del Tribunal.
 
-### CAPITULO V. De la Oficialía Mayor
+### CAPITULO IV. Del Instituto de Estudios Judiciales
 
 ###### ARTICULO 116.
 
@@ -1031,7 +1075,7 @@ IV. Mejorar las técnicas administrativas en la función jurisdiccional; y
 
 V. Contribuir al desarrollo de la vocación del servicio, así como al ejercicio de los valores y principios éticos inherentes a la función judicial.
 
-### CAPITULO VI. De la Contraloría
+### CAPITULO V. De la Oficialía Mayor
 
 ###### ARTICULO 119.
 
@@ -1045,7 +1089,7 @@ La Oficialía Mayor contará con las áreas de Recursos Humanos, Recursos Materi
 
 El personal de la Oficialía Mayor se integrará por su Titular y el que autorice el Pleno de acuerdo con su presupuesto.
 
-### CAPITULO VII. De la Gaceta Judicial
+### CAPITULO VI. De la Contraloría
 
 ###### ARTICULO 122.
 
@@ -1055,7 +1099,7 @@ La Contraloría del Poder Judicial del Estado es el órgano interno encargado de
 
 La Contraloría se integra con un Contralor y demás personal necesario para el cumplimiento de sus funciones, designado por el Pleno del Supremo Tribunal de Justicia a propuesta de su Presidente.
 
-### CAPITULO I. De los Sujetos
+### CAPITULO VII. De la Gaceta Judicial
 
 ###### ARTICULO 124.
 
@@ -1067,7 +1111,7 @@ El personal de la Gaceta Judicial será designado por el Pleno del Supremo Tribu
 
 ## TITULO SEPTIMO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
-### CAPITULO II. De las Faltas Administrativas
+### CAPITULO I. De los Sujetos
 
 ###### ARTICULO 126.
 
@@ -1077,11 +1121,13 @@ Son sujetos de responsabilidad administrativa los Jueces de Primera Instancia, J
 
 La responsabilidad de los delitos o faltas administrativas de los Magistrados y Jueces del Supremo Tribunal de Justicia, se sujetará a las disposiciones que establezca la Constitución Política del Estado.
 
-### CAPITULO III. De las Sanciones Administrativas
+### CAPITULO II. De las Faltas Administrativas
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2000)</small>
 
 ###### ARTICULO 128.
 
-Son faltas administrativas además de las establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, las que señalan los artículos 129 al 131 de esta Ley.
+Son faltas administrativas además de las establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado y municipios de San Luis Potosí, las que señalan los artículos 129 al 131 Bis de esta ley.
 
 ###### ARTICULO 129.
 
@@ -1121,7 +1167,23 @@ III. No despachar oportunamente los oficios ni llevar a cabo las diligencias que
 
 IV. Las infracciones y omisiones en que incurran en relación con los deberes que les imponen las disposiciones de esta Ley y las demás sustantivas y adjetivas del Estado y los reglamentos respectivos.
 
-### CAPITULO IV. Del Procedimiento Administrativo
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2000)</small>
+
+###### ARTICULO 131 Bis.
+
+Con independencia de las causales antes previstas, los actuarios de los Juzgados de Primera Instancia, incurrirán en faltas administrativas por:
+
+I. No hacer con la debida oportunidad y sin causa justificada las notificaciones personales, ni observar cabalmente las normas jurídicas a las que deben ceñirse durante las diligencias practicadas;
+
+II. Retardar indebida o maliciosamente las notificaciones, emplazamientos, embargos o diligencias de cualquier clase que les fueren encomendadas;
+
+III. Dar preferencia a alguno o algunos de los litigantes con perjuicio de otros, por cualquier causa, en la diligencia de sus asuntos en general;
+
+IV. Hacer notificaciones, citaciones o emplazamientos a las partes, por cédula o instructivo, fuera del lugar designado en autos, o sin cerciorarse cuando proceda, de que el interesado tiene su domicilio en donde se lleva a cabo la diligencia; y
+
+V. Practicar embargos, aseguramiento o retención de bienes, o lanzamiento de personas o corporación que no sea la designada en el auto respectivo, o cuando en el momento de la diligencia o antes de retirarse el personal del juzgado, se le demuestre que esos bienes son ajenos; para comprobar tal hecho, en todo caso, deberán agregar a los autos la documentación que se les presente, a efecto de dar cuenta a quien hubiere ordenado la diligencia.
+
+### CAPITULO III. De las Sanciones Administrativas
 
 ###### ARTICULO 132.
 
@@ -1161,7 +1223,7 @@ La inhabilitación para desempeñar cargo o empleo alguno en el Poder Judicial d
 
 Las sanciones administrativas se impondrán, tomando en cuenta lo que al efecto prevee la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
-### CAPITULO I. De las Sustituciones y Ausencias
+### CAPITULO IV. Del Procedimiento Administrativo
 
 ###### ARTICULO 138.
 
@@ -1205,7 +1267,7 @@ En todo lo relativo al procedimiento no previsto en esta Ley, así como en la ap
 
 ## TITULO OCTAVO. DISPOSICIONES GENERALES
 
-### CAPITULO II. Del Fondo de Apoyo para la Administración de Justicia
+### CAPITULO I. De las Sustituciones y Ausencias
 
 ###### ARTICULO 145.
 
@@ -1228,6 +1290,8 @@ En los juzgados se cubrirán con otros Secretarios, si hubiere dos o más, o en 
 ###### ARTICULO 148.
 
 Los Magistrados, Jueces y demás personal del Poder Judicial tendrán anualmente dos períodos de vacaciones de quince días naturales cada uno, en la forma y tiempo que determine el Pleno del Supremo Tribunal de Justicia.
+
+### CAPITULO II. Del Fondo de Apoyo para la Administración de Justicia
 
 ###### ARTICULO 149.
 
@@ -1269,9 +1333,11 @@ II. Invertir cantidades en la adquisición de títulos o valores de renta fija, 
 
 III. Procurar que los bienes muebles o inmuebles adquiridos con recursos del Fondo satisfagan los fines para los que fueron adquiridos.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2000)</small>
+
 ###### ARTICULO 153.
 
-La Comisión de Presupuesto y Administración presentará mensualmente al Pleno el informe financiero del Fondo de Apoyo para la Administración de Justicia para su análisis y aprobación y enviará una copia del mismo a la Contraloría Interna para su conocimiento.
+El Oficial Mayor por conducto de la Comisión de Presupuesto y Administración, someterá a la aprobación del Pleno los informes financieros que mensualmente deben rendirse al Congreso del Estado, y enviará una copia del mismo a la Contraloría interna para su conocimiento.
 
 ## TRANSITORIOS
 
@@ -1302,3 +1368,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. FERNANDO SILVA NIETO.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE JULIO DE 2000.
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
