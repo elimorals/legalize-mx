@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-planeacion-del-estado-de-chihuahua-4718"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-04"
-last_updated: "1989-01-04"
+last_updated: "2003-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PLANEACION DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2003.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -135,7 +135,9 @@ A) Al Gobernador del Estado le compete:
 
 2.- Aprobar y publicar el Plan Estatal de Desarrollo.
 
-3.- Remitir el Plan Estatal de Desarrollo al Congreso del Estado, para su conocimiento y opinión.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2003)</small>
+
+3.- Remitir el Plan Estatal de Desarrollo al Congreso del Estado, para su examen y opinión.
 
 4.- Convenir con el Ejecutivo Federal, los Ayuntamientos y los Sectores Social y Privado su participación, en el proceso de planeación del desarrollo del Estado de Chihuahua.
 
@@ -456,3 +458,11 @@ LIC. FERNANDO BAEZA MELENDEZ.
 EL PROCURADOR GENERAL DE JUSTICIA ENCARGADO DEL DESPACHO DE LA SECRETARIA DE GOBIERNO POR MINISTERIO DE LEY.
 
 LIC. JOSE R. MILLER HERMOSILLO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE ABRIL DE 2003.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial del Estado.
