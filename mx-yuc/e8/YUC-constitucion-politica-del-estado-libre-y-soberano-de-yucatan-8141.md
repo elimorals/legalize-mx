@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1925-11-19"
+last_updated: "1927-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE NOVIEMBRE DE 1925.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE JUNIO DE 1927.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -301,7 +301,7 @@ XV.- expedir las Leyes sobre Instrucción Pública, que serán uniformes en todo
 
 (D) La Enseñanza Superior y la profesional serán o no gratuitas, según lo determinen las leyes.
 
-XVI.- prorrogar el período de sus sesiones ordinarias por el tiempo que requieran las necesidades del servicio público;
+XVI.- prorrogar el periodo de sus sesiones ordinarias por el tiempo que requieran las necesidades del servicio público;
 
 XVII.- formar su Reglamento interior;
 
@@ -437,7 +437,9 @@ II.- recibir la protesta de Ley a los funcionarios que deban prestarla ante el C
 
 III.- emitir dictámen sobre todos los asuntos que queden sin resolución en los expedientes, a fin de que en el inmediato período de sesiones sigan tratándose;
 
-IV.- resolver sobre las peticiones de licencia de sus propios miembros, de los Magistrados del Tribunal Superior de Justicia y del Contador Mayor, para ausentarse del Territorio del Estado o para separarse temporalmente de sus respectivos encargos;
+> <small>(REFORMADA, D.O. 15 DE JUNIO DE 1927)</small>
+
+IV.- resolver sobre las peticiones de licencia de sus propios miembros, de los Magistrados del Tribunal Superior de Justicia y del Contador Mayor, para ausentarse del Territorio del Estado o para separarse temporalmente de sus respectivos encargos y resolver sobre las renuncias colectivas de miembros de Ayuntamientos y acerca de la desintegración de los mismos, nombrando Concejos Municipales en los términos de la Fracción XLII del Artículo 30 de la presente Constitución;
 
 V.- nombrar Contador Mayor con el carácter de interino, por falta absoluta o temporal del propietario;
 
@@ -1018,6 +1020,10 @@ EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITO
 D.O. 19 DE NOVIEMBRE DE 1925.
 
 Este decreto surtirá sus efectos el mismo día de su publicación en el "Diario Oficial" del Estado.
+
+D.O. 15 DE JUNIO DE 1927.
+
+Este Decreto comenzará a surtir sus efectos legales el mismo día de su publicación en el "Diario Oficial" del Estado.
 
 ###### ARTICULO UNICO.
 
