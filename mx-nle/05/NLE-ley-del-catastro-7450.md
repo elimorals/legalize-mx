@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "2000-12-29"
+last_updated: "2001-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -89,15 +89,11 @@ La Junta Central Catastral se integrará por tres representantes oficiales que d
 
 > <small>(DEROGADO SEGUNDO PARRAFO, P. O. 27 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 5o.
 
-La Junta Central Catastral, tendrá el carácter de permanente y se encargará de fijar los criterios generales aplicables en el Estado en materia de valorización y de revisar los valores que determine la Junta Municipal Catastral en los que exista desacuerdo de los particulares, siendo auxiliada al efecto por la Dirección de Catastro, en los términos de lo dispuesto en el artículo 32 Bis de esta Ley.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
-
-La Dirección de Catastro en coordinación con los Municipios, formulará los proyectos de Bases Generales de Valores por Unidades Tipo, mismos que serán revisados y aprobados en las sesiones de las Juntas Municipales Catastrales.
+La Junta Central Catastral, tendrá el carácter de permanente y se encargará de fijar los criterios generales aplicables en el Estado en materia de valorización y de revisar los valores que determine la Junta Municipal Catastral en los que exista desacuerdo de los particulares.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -105,19 +101,15 @@ La Dirección de Catastro en coordinación con los Municipios, formulará los pr
 
 Las Juntas Municipales Catastrales se integrarán por tres representantes oficiales, que designará el Tesorero Municipal, quienes tendrán el carácter de Presidente, Secretario y Vocal; por un representante de la Cámara de Propietarios de Bienes Raíces en el Estado o de otra Asociación de Propietarios en los lugares en donde dicha Cámara no tenga Delegación, un representante del Instituto Mexicano de Valuación de Nuevo León, A. C. y un representante de la Secretaría de Finanzas y Tesorería General del Estado, los cuales tendrán el carácter de vocales. El Presidente tendrá voto de calidad en caso de empate. Cuando en algún Municipio no haya Asociación de Propietarios, la Tesorería Municipal hará las designaciones de los representantes de los particulares, para cuyo efecto deberán reunir a un número no menor de diez propietarios de predios de los tres tipos que la Ley señala, para que del grupo se designe a las personas que deban representar a los propietarios en las Juntas Municipales Catastrales. Se nombrarán suplentes tanto para los representantes oficiales como para los los (sic) particulares, quienes se encargarán de suplir las faltas temporales o definitivas de los propietarios.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
-En las sesiones de estas Juntas se revisarán los valores que proponga la Dirección de Catastro en coordinación con los Municipios y aprobarán los nuevos valores unitarios de construcción aplicables a la circunscripción territorial de su Municipio, los que podrán equipararse a los de aquellos Municipios que integran la zona catastral correspondiente. Así mismo, revisarán los valores en los que exista desacuerdo de los particulares. Respecto al Acuerdo que al efecto se emita, el particular podrá acudir a la Junta Central Catastral, en los términos de lo dispuesto en el artículo 5o. de esta Ley.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 7o.
 
-Es facultad de las Juntas Municipales Catastrales o en su caso, de la Junta Central Catastral, la revisión y aprobación de los Valores Actuales Reales, así como de las Bases Generales de Valores por Unidades Tipo y de los valores unitarios de construcción, los cuales deberán encontrarse ajustados a los criterios que emita la Junta Central Catastral.
+La Junta Municipal Catastral se encargará de emitir opinión sobre los estudios de valores unitarios del suelo y construcciones realizados o contratados por el Municipio que el Ayuntamiento propondrá al Congreso para su aprobación.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-En los Municipios en donde no exista la integración de las Juntas Municipales, será la Junta Central la que realizará las funciones señaladas en el párrafo anterior.
+En los Municipios en que no esté integrada la Junta Catastral Municipal, la opinión podrá ser solicitada a la Junta Central Catastral.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -125,11 +117,11 @@ En los Municipios en donde no exista la integración de las Juntas Municipales, 
 
 La Dirección de Catastro se compondrá de un Director y de los empleados técnicos y administrativos que designe el Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 9o.
 
-La Dirección de Catastro, en coordinación con los Municipios, tendrá a su cargo la formulación de las Bases Generales de Valores por Unidades Tipo; la realización de los trabajos de limitación de regiones de cada Municipio del Estado, dividiéndolo en zonas urbanas y rústicas; así mismo, la Dirección de Catastro llevará el registro, control y actualización del padrón catastral, utilizando con el apoyo de los Municipios, la fotogrametría u otros métodos técnicos de medición y cálculos masivos a través de los cuales se pueda conocer la ubicación, medidas y colindancias del predio, las construcciones existentes y demás características del mismo, así como los datos de identificación del propietario o poseedor y establecer las normas técnicas para la formación, mejoramiento y conservación de los registros catastrales para el control y valuación en materia inmobiliaria.
+La Dirección de Catastro en coordinación con los Municipios, tendrá a su cargo la realización de los trabajos de limitación de regiones de cada Municipio del Estado, dividiéndolo en zonas urbanas y rústicas; así mismo, la Dirección de Catastro llevará el registro, control y actualización del padrón catastral, utilizando con el apoyo de los Municipios, la fotogrametría u otros métodos técnicos de medición y cálculo individual o masivo, a través de los cuales se pueda conocer la ubicación, medidas y colindancias del predio, las construcciones existentes y demás características del mismo, así como los datos de identificación del propietario o poseedor y establecer las normas técnicas para la formación, mejoramiento y conservación de los registros catastrales para el control y valuación en materia inmobiliaria.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -147,133 +139,275 @@ A la Dirección de Catastro le competerán todas las atribuciones catastrales no
 
 De las Operaciones Catastrales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 12o.
 
-De acuerdo con el Artículo 9o. La Dirección de Catastro en forma conjunta con los Municipios, procederá a la delimitación y levantamiento de los planos de predios rústicos y urbanos, de conformidad a la información proporcionada por el contribuyente o el Municipio que corresponda y formará y mantendrá al día un plano catastral de cada Municipio, así como los planos parciales de los mismos, por regiones o zonas, que sean necesarios para tener un conocimiento de la propiedad raíz, que sirva para la elaboración de las Bases Generales de Valores por Unidades Tipo y para la valorización de predios.
+De acuerdo con el Artículo 9o. la Dirección de Catastro en forma conjunta con los Municipios, procederá a la delimitación y levantamiento de los planos de predios rústicos y urbanos, de conformidad a la información proporcionada por el contribuyente o el Municipio que corresponda y formará y mantendrá al día un plano catastral de cada Municipio, así como los planos parciales de los mismos, por regiones o zonas, que sean necesarios para tener un conocimiento de la propiedad raíz, que sirva para la valorización de predios.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 13o.
 
-En la valorización catastral intervendrán dos series de operaciones: I.- Determinación de las Bases Generales de Valores por Unidades Tipo; y II.- Valorización de los predios en particular. La determinación de las Bases Generales de Valores por Unidades Tipo se hará considerando separadamente la tierra y las construcciones o cualquier otro tipo de mejoras existentes. Tal determinación deberá contener tantas unidades y valores cuantos sean necesarios para obtener, en relación con ello, el avalúo general y equitativo de la propiedad raíz en el Estado.
+La valorización catastral se hará considerando separadamente el suelo y las construcciones o cualquier otro tipo de mejoras existentes.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 14o.
 
-En las zonas urbanas, la unidad de superficie que se tome para el avalúo de la tierra será el metro cuadrado, y en la determinación de los valores de las "unidades tipo", se tendrá en cuenta: I.- El uso o características predominantes de los predios en cada calle y en la zona catastral respectiva; II.- La rentabilidad de los predios en la zona; y III.- Los servicios urbanos de toda índole, y cualquier otro factor determinante del valor de la tierra.
+En las zonas urbanas, la unidad de superficie que se tome para el avalúo de la tierra será el metro cuadrado.
 
-Para este efecto, se entiende como zona urbana, aquella integrada por las propiedades comprendidas dentro del área de una ciudad o congregación, con trazo de calles y cuando menos un servicio público de entre los siguientes: Agua, Drenaje, Alumbrado y Gas, así como las zonas adyacentes o periféricas a un poblado dotado de alguno de los servicios mencionados, que sea susceptible de ser dotado de dichos servicios, partiendo de la infraestructura existente.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 15o.
 
-Para determinar las Bases Generales de Valores por Unidades Tipo en las diferentes clases de construcciones, se seguirán las normas que a continuación se expresan: I.- Se harán clasificaciones por tipos de edificaciones permanentes y provisionales según los materiales empleados, calidad de mano de obra, usos comercial, industrial, residencial y especiales, así como la productividad media por año en cada región catastral; y, II.- Se fijará el valor por metro cuadrado o cúbico de superficie cubierta, en la forma que el Reglamento de esta Ley lo determine.
+La unidad de avalúo que se tome en consideración en las Tablas de valores aplicables a construcciones será por metro cuadrado o metro cúbico.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
-Para efecto de determinar las Bases Generales de Valores por Unidades Tipo aplicables a la construcción, el Estado se dividirá en 5 Zonas Catastrales, en las cuales los valores consignados en las Bases Generales, podrán equiparse para todos los Municipios que se encuentren comprendidos en la Zona respectiva.
+###### Artículo 16o.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+En las zonas rústicas, la unidad de superficie será, en todo caso, por hectárea o por metro cuadrado cuando por su ubicación colinde con la traza de una carretera estatal o federal.
 
-Las Zonas Catastrales a que se refiere el párrafo anterior se integrarán de la siguiente manera:
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
-I.- ZONA 1, que comprende los municipios de Apodaca, General Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina.
-
-II.- ZONA 2, que comprende los municipios de Allende, Anáhuac, Cadereyta Jiménez, García, General Terán, Juárez, Linares, Montemorelos, Sabinas Hidalgo y Santiago.
-
-III.- ZONA 3, que comprende los municipios de Cerralvo, China, Ciénega de Flores, General Bravo, General Zuazua, Hidalgo, Hualahuises, Pesquería y Salinas Victoria.
-
-IV.- ZONA 4, que comprende los municipios de Abasolo, Agualeguas, Bustamante, Carmen, Doctor Coss, Doctor González, General Treviño, Los Aldamas, Los Herreras, Los Ramones, Higueras, Lampazos de Naranjo, Marín, Melchor Ocampo, Mina, Parás, Vallecillo y Villaldama.
-
-V.- ZONA 5, que comprende los municipios de Arramberri, Doctor Arroyo, Galeana, General Zaragoza, Iturbide y Mier, Noriega y Rayones.
+Para estos efectos se entiende como zona rústica, la que no cuente con los elementos necesarios para considerarse urbana.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-###### ARTICULO 16o.
-
-En las zonas rústicas, la determinación de las Bases Generales de Valores por Unidades Tipo se hará sobre una clasificación agronómica de la tierra y de su situación topográfica, teniendo en cuenta además el rendimiento medio anual según el objeto a que se dedique, de acuerdo con lo que al efecto establece el Reglamento. La unidad de superficie será, en todo caso, por hectárea o por metro cuadrado.
-
-Para estos efectos se entiende como zona rústica la que no cuente con los elementos necesarios para considerarse urbana y podrá ser agrícola, ganadera o forestal.
 
 La propiedad rústica para efectos de valuación se dividirá en riego rodado, riego bombeado, temporal de primera, temporal de segunda, agostadero de primera, agostadero de segunda, monte, cerril, cerril inaccesible y erial.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 17o.
 
-El valor catastral se obtendrá al aplicar a cada predio, según sus características, las Bases Generales de Valores por Unidades Tipo, aprobadas en los términos de esta Ley y su Reglamento.
+El valor catastral se obtendrá al aplicar para cada predio la operación aritmética consistente en multiplicar el número de unidades de suelo con las que cuenta el predio, por el valor unitario de suelo que le corresponda de entre los decretados por el Congreso del Estado; adicionado con el producto que resulte de multiplicar las unidades de construcción con las que cuente el predio, por el valor unitario de construcción que le corresponda de entre los decretados por el Congreso.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+Al resultado obtenido, se le deberá aplicar el coeficiente de demérito de valor por profundidad que se señala a continuación.
+
+LIMITE LIMITE COEFICIENTE
+
+INICIAL FINAL
+
+M M
+
+MAYOR DE 0.00 Y HASTA 25.00 1.00
+
+MAYOR DE 25.00 Y HASTA 25.75 0.99
+
+MAYOR DE 25.75 Y HASTA 26.05 0.98
+
+MAYOR DE 26.05 Y HASTA 26.70 0.97
+
+MAYOR DE 26.70 Y HASTA 27.40 0.96
+
+MAYOR DE 27.40 Y HASTA 28.20 0.95
+
+MAYOR DE 28.20 Y HASTA 28.95 0.94
+
+MAYOR DE 28.95 Y HASTA 29.75 0.93
+
+MAYOR DE 29.75 Y HASTA 30.60 0.92
+
+MAYOR DE 30.60 Y HASTA 31.50 0.91
+
+MAYOR DE 31.50 Y HASTA 32.40 0.90
+
+MAYOR DE 32.40 Y HASTA 33.35 0.89
+
+MAYOR DE 33.35 Y HASTA 34.35 0.88
+
+MAYOR DE 34.35 Y HASTA 35.40 0.87
+
+MAYOR DE 35.40 Y HASTA 36.45 0.86
+
+MAYOR DE 36.45 Y HASTA 37.50 0.85
+
+MAYOR DE 37.50 Y HASTA 38.60 0.84
+
+MAYOR DE 38.60 Y HASTA 39.85 0.83
+
+MAYOR DE 39.85 Y HASTA 41.25 0.82
+
+MAYOR DE 41.25 Y HASTA 42.55 0.81
+
+MAYOR DE 42.55 Y HASTA 43.90 0.80
+
+MAYOR DE 43.90 Y HASTA 45.40 0.79
+
+MAYOR DE 45.40 Y HASTA 46.90 0.78
+
+MAYOR DE 46.90 Y HASTA 48.50 0.77
+
+MAYOR DE 48.50 Y HASTA 50.15 0.76
+
+MAYOR DE 50.15 Y HASTA 51.90 0.75
+
+MAYOR DE 51.90 Y HASTA 53.65 0.74
+
+MAYOR DE 53.65 Y HASTA 55.60 0.73
+
+MAYOR DE 55.60 Y HASTA 57.65 0.72
+
+MAYOR DE 57.65 Y HASTA 59.75 0.71
+
+MAYOR DE 59.75 Y HASTA 62.00 0.70
+
+MAYOR DE 62.00 Y HASTA 64.30 0.69
+
+MAYOR DE 64.30 Y HASTA 66.40 0.68
+
+MAYOR DE 66.40 Y HASTA 69.35 0.67
+
+MAYOR DE 69.35 Y HASTA 71.45 0.66
+
+MAYOR DE 71.45 Y HASTA 74.35 0.65
+
+MAYOR DE 74.35 Y HASTA 78.05 0.64
+
+MAYOR DE 78.05 Y HASTA 81.35 0.63
+
+MAYOR DE 81.35 Y HASTA 84.80 0.62
+
+MAYOR DE 84.80 Y HASTA 88.40 0.61
+
+MAYOR DE 88.40 Y HASTA 92.30 0.60
+
+MAYOR DE 92.30 Y HASTA 96.40 0.59
+
+MAYOR DE 96.40 Y HASTA 100.65 0.58
+
+MAYOR DE 100.65 Y HASTA 105.30 0.57
+
+MAYOR DE 105.30 Y HASTA 110.20 0.56
+
+MAYOR DE 110.20 Y HASTA 115.25 0.55
+
+MAYOR DE 115.25 Y HASTA 120.85 0.54
+
+MAYOR DE 120.85 Y HASTA 127.00 0.53
+
+MAYOR DE 127.00 Y HASTA 133.40 0.52
+
+MAYOR DE 133.40 Y HASTA 140.15 0.51
+
+MAYOR DE 140.15 Y HASTA 147.60 0.50
+
+MAYOR DE 147.60 Y HASTA 155.40 0.49
+
+MAYOR DE 155.40 Y HASTA 163.40 0.48
+
+MAYOR DE 163.40 Y HASTA 172.55 0.47
+
+MAYOR DE 172.55 Y HASTA 182.65 0.46
+
+MAYOR DE 182.65 Y HASTA 193.40 0.45
+
+MAYOR DE 193.40 Y HASTA 204.85 0.44
+
+MAYOR DE 204.85 Y HASTA 217.25 0.43
+
+MAYOR DE 217.25 Y HASTA 230.85 0.42
+
+MAYOR DE 230.85 Y HASTA 245.60 0.41
+
+MAYOR DE 245.60 Y HASTA 261.00 0.40
+
+MAYOR DE 261.00 Y HASTA 279.30 0.39
+
+MAYOR DE 279.30 Y HASTA 298.45 0.38
+
+MAYOR DE 298.45 Y HASTA 319.50 0.37
+
+MAYOR DE 319.50 Y HASTA 342.90 0.36
+
+MAYOR DE 342.90 Y HASTA 372.85 0.35
+
+Los coeficientes de mérito de valor por profundidad no serán aplicables cuando la unidad de valuación sea por hectárea.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 18o.
 
-Las Bases Generales de Valores por Unidades Tipo deberán ser del dominio público y estarán a disposición de los interesados en las oficinas de la Dirección de Catastro y en los Municipios correspondientes.
+El valor catastral que resulte de acuerdo con el artículo anterior, es el equiparable al valor de mercado para todos los efectos legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 19o.
 
-Las Bases Generales de Valores por Unidades Tipo podrán ser objeto de revisión total o parcial, cuando las circunstancias económicas o la inflación, lo justifiquen, así como cuando se den los supuestos contenidos en el artículo 22 de esta misma Ley; en la inteligencia de que si ésta no se practica, subsistirán las Bases Generales de Valores existentes.
+Los contribuyentes podrán inconformarse con el valor total del predio que resulte de acuerdo con este Artículo, dentro del plazo de 30 días hábiles, contados a partir del día siguiente de la publicación de los valores emitidos por el Congreso en el Periódico Oficial del Estado o del primer acto de aplicación. Para este efecto, los particulares presentarán escrito ante la autoridad municipal competente para realizar el cobro del Impuesto, por el cual manifiesten los motivos de su inconformidad por los que consideran que el valor determinado no corresponde al valor de mercado de su propiedad, acompañando un avalúo del inmueble emitido por una Institución de Crédito debidamente autorizada o por un Instituto o Consejo de Valuación debidamente autorizado, así como los demás elementos de prueba que consideren necesarios, debiendo remitirse el expediente debidamente integrado a la Junta Municipal Catastral que corresponda, la cual deberá resolver en un término no mayor de 15 días hábiles.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+Si revisado el valor por la Junta Municipal Catastral persiste la inconformidad, será la Junta Central Catastral, en casos de evidente controversia y a instancia del particular, la que determinará el valor que corresponda.
 
-Una vez aprobadas las nuevas Bases Generales de Valores por Unidades Tipo, previamente a su entrada en vigor, deberán notificarse a los interesados en los términos del Código Fiscal del Estado.
+Tratándose de la notificación de los acuerdos que tome la Junta Municipal Catastral o la Junta Central Catastral, éstas se harán por conducto de la Tesorería Municipal que corresponda, o de la Tesorería del Estado, respectivamente y se practicará en la forma que determine el Código Fiscal del Estado y el Reglamento de esta Ley.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+En caso de que no estuviere integrada la Junta Municipal Catastral, será la Junta Central Catastral, la encargada de desahogar el procedimiento previsto en este artículo.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 20o.
 
-Las Bases Generales de Valores por Unidades Tipo y los valores catastrales de los inmuebles, podrán ajustarse conforme a los porcentajes que establezca el Congreso del Estado mediante disposición de vigencia anual, que entrará en vigor el 1° de Enero de cada año, sin necesidad de que los mismos sean notificados a los interesados para tener plena validez. Fuera de este supuesto, las Bases Generales de Valores por Unidades Tipo y los valores catastrales no podrán ser modificados, mientras no sean objeto de revisión, a menos que deban introducirse nuevos valores unitarios o cuando sea indispensable crear una nueva categoría no prevista en la tabla original, ya sea por motivo de ampliación de zonas urbanas o por cualquier otra causa.
+Los Ayuntamientos de los Municipios del Estado, en el ámbito de sus respectivas competencias, deberán formular la propuesta de valores unitarios del suelo y construcciones que someterán al Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+La referida propuesta de valores, deberá presentarse para consideración del Congreso a más tardar durante la segunda quincena del mes de octubre del año de que se trate. Los valores aprobados por el Congreso entrarán en vigor al inicio del ejercicio fiscal del siguiente año y su vigencia será indefinida.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 21o.
 
-En los términos previstos en los artículos 20 y 21 de la Ley del Catastro del Estado, durante el año de 1999 se aplicará un incremento en las Bases Generales de Valores por Unidades Tipo y en los valores catastrales de los predios ubicados en el Estado, de hasta un 17% respecto de los terrenos y construcciones. En ningún caso los valores catastrales podrán rebasar el valor actual real de los inmuebles.
+El territorio de los Municipios del Estado se dividirá en áreas, regiones, manzanas y lotes. Para los efectos de esta Ley se debe entender por:
+
+a) Área Urbana: la superficie de suelo ubicada dentro de los centros de población, que forma parte del conjunto de edificaciones y trazado de calles, y las superficies que aun no estando edificadas han sido objeto de traza vial y urbanización o que cuente al menos con un servicio público de los siguientes: agua potable, drenaje sanitario, drenaje pluvial, alumbrado público y energía eléctrica.
+
+También se considera Área Urbana la adyacente o periférica a un poblado dotado de alguno de los servicios mencionados, que sean susceptibles de ser dotadas de dichos servicios, partiendo de la infraestructura existente.
+
+b) Región Catastral: la circunscripción del territorio municipal determinada con fines de control catastral de inmuebles, la cual está formada por un grupo de colonias o de manzanas.
+
+c) Manzana: el área territorial delimitada por vías públicas o límites naturales o semejantes, la cual está dividida en lotes de terreno.
+
+d) Lote: el bien inmueble conformado por un terreno cuyos linderos forman un perímetro continuo.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 22o.
 
-Los valores de los predios a los que ya se hubiese determinado un valor catastral, podrán ser actualizados cuando en el predio se hagan construcciones, reconstrucciones, ampliaciones, mejoras, se modifique el uso del suelo o mejore la infraestructura de servicios públicos.
+Cuando se modifiquen las características de un predio, se realicen modificaciones de superficie o de construcción o cualquier otro tipo de mejora, el valor catastral se actualizará en los mismos términos, conforme al Decreto de valores unitarios emitido por el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 23o.
 
-Para determinar el valor catastral de los predios de los nuevos fraccionamientos o urbanizaciones, inclusive las sujetas al régimen de propiedad en condominio, la Dirección de Catastro en coordinación con los Municipios, formulará y propondrá, en base al tipo de fraccionamientos, a su ubicación o infraestructura y tratándose de régimen en condominio, de acuerdo a las áreas que resulten, en los términos de la escritura constitutiva de dicho régimen, el valor por unidad tipo en metros cuadrados, mismo que será revisado y aprobado por la Junta Municipal Catastral que corresponda a la Junta Central según sea el caso y que servirá para el cálculo del valor catastral.
+Corresponderá a las Juntas Municipales Catastrales determinar los valores unitarios de suelo y construcciones, conforme a lo dispuesto en el Reglamento de esta Ley, que servirán para la valuación de los predios, cuando se trate de nuevos fraccionamientos, urbanizaciones o desarrollos en regímenes de propiedad en condominio, en este último caso de acuerdo a las áreas que resulten, en los términos de la escritura constitutiva de dicho régimen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+Los valores que de esta forma se determinen deberán conservar la uniformidad con los valores autorizados por el H. Congreso del Estado de áreas adyacentes o predios con características similares.
 
-ARTICULO 23o BIS.- La Junta Municipal o la Junta Central Catastral, en su caso, presentarán los estudios de valores comerciales correspondientes a su circunscripción territorial y vigilarán el comportamiento del mercado para mantener actualizados estos valores, ya que servirán de base para determinar el valor actual real que expide la Secretaría de Finanzas y Tesorería General del Estado, mismo que se utilizará para el cálculo del Impuesto Sobre Adquisición de Inmuebles, así como para las contribuciones en materia de Desarrollo Urbano. Dicho Valor deberá tener como base los elementos para la determinación del Valor Catastral.
+Una vez determinados los valores a que se refiere el párrafo anterior, deberán notificarse a los interesados y entrarán en vigor en el bimestre siguiente al de su aprobación.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+Los particulares interesados podrán solicitar la reconsideración de los valores determinados de acuerdo al párrafo anterior dentro de los 15 días siguientes a su emisión, aplicándose en lo conducente lo dispuesto en el Artículo 19 de esta Ley.
 
-En caso de revisión y/o modificación del valor actual real que realice la Secretaría de Finanzas y Tesorería General del Estado, con motivo de inconformidades, deberá estar presente un representante del Municipio que corresponda para que emita la opinión respectiva.
+Artículo 23o BIS.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2001)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 24o.
 
-Para efectos de la aplicación de la tarifa del Impuesto Predial, prevista en el artículo 21 Bis-8 de la Ley de Hacienda para los Municipios del Estado, por predio baldío se entiende aquel inmueble sin construcciones permanentes, o que tenga una superficie de construcción menor al 20% de la superficie total del predio, ubicado en una zona urbana.
+Para efectos de la aplicación de la tarifa del Impuesto Predial, prevista en el Artículo 21 Bis-8 de la Ley de Hacienda para los Municipios del Estado, por predio baldío se entiende aquel inmueble sin construcciones permanentes techadas, o que tenga una superficie de construcción menor al 20% de la superficie total del predio, ubicado en una zona urbana.
 
-Se excluyen del concepto anterior, los inmuebles utilizados para estacionamientos, jardines de casa habitación en una extensión que no exceda de cinco veces la superficie construida del inmueble, patios de maniobras, calles interiores, áreas de almacenaje equipadas, campos deportivos, centros recreativos o parques y que cuenten con la licencia de uso de suelo correspondiente para la actividad o giro que realicen, en los términos previstos por la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado, dado el uso y destino de la construcción.
+No se considera predio baldío, aquel inmueble utilizado para jardín de casa habitación, incluyendo palapas, asadores, albercas, fuentes, canchas deportivas y accesos interiores; y, que todos estos sean utilizados exclusivamente para uso doméstico, sin fines de lucro. Para efectos de este párrafo se entiende por jardín, aquel terreno en el que por la actividad humana se cultivan flores, árboles de sombra, de adorno y demás plantas de ornato, para uso doméstico, sin fines de lucro.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+Tampoco se consideran predios baldíos aquellos inmuebles utilizados para estacionamientos, patios de maniobras, calles interiores, áreas de almacenaje equipadas, campos deportivos, centros recreativos o parques y que cuenten con la licencia de uso de suelo correspondiente para la actividad o giro mencionados, en los términos previstos por la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado, salvo que se justifique que dicha licencia no es exigible.
 
 ###### ARTICULO 25o.
 
-Se faculta a la Dirección de Catastro para formular y proponer los Valores por Unidades Tipo de los inmuebles ubicados en los Municipios del Estado que no hayan sido objeto de catastración, en los términos de esta Ley, mismos que serán revisados y aprobados por la Junta Municipal Catastral correspondiente o en su caso, por la Junta Central Catastral.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2001)
 
 ### CAPITULO TERCERO
 
 Disposiciones Generales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
 ###### ARTICULO 26o.
 
-Los avalúos practicados con sujeción a la presente Ley y su Reglamento, servirán de base para la determinación del Impuesto Predial en el Estado y no podrán ser modificados para los mismos fines, a menos que se pruebe que su determinación no se hizo conforme a lo previsto en los citados ordenamientos. A falta de manifestación oportuna de los contribuyentes, la Dirección de Catastro procederá a formular los avalúos, sin perjuicio de la sanción que procediere y en caso de que no exista valor autorizado de dicho sector, tales valores serán revisados y aprobados por la Junta Municipal Catastral que corresponda o en su caso, por la Junta Central Catastral.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2001)
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -291,27 +425,11 @@ Las autoridades, dependencias e instituciones que otorguen autorizaciones relati
 
 ARTICULO 28o BIS.- Los organismos y entidades públicos y privados, que realicen actividades relativas a la construcción de obras para el desarrollo urbano y de vivienda, así como los que tengan como finalidades la regularización de la tenencia legal de la tierra, deberán informar por escrito a la Dirección de Catastro la realización de actividades que impliquen un cambio en las características físicas del inmueble, así como en los datos del propietario o poseedor, que obren en el padrón catastral, en un plazo no mayor de 15 días contados a partir de que tengan conocimiento de dichos cambios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 29o.
 
-En caso de traslación de dominio de bienes raíces, los Notarios, Jueces, Corredores Públicos y fedatarios que por disposición legal tengan funciones notariales, deberán dar aviso a la Dirección de Catastro, de las transacciones en que hubieren intervenido. Los avisos se darán dentro del plazo de un mes siguiente a la fecha en que se autorice en forma definitiva la operación, y en los casos en que el Municipio se encuentre obligado a dar el aviso correspondiente, dentro de los cinco días siguientes al en que se autorice la nota de pago del Impuesto Sobre Adquisición de Inmuebles en el Municipio respectivo.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-Previamente al aviso de enajenación, se deberá solicitar ante la Dirección de Catastro, la expedición del certificado de valor actual real que servirá, entre otros efectos fiscales, para el pago de las contribuciones que genere la operación, el cual tendrá una vigencia de tres meses a partir de su fecha de expedición, la cual se interrumpirá al protocolizarse la operación respectiva.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
-
-Las autoridades judiciales que, en el ejercicio de sus funciones, dicten resoluciones que impliquen transmisión de dominio de bienes inmuebles, se encuentran obligadas a dar el aviso respectivo a la Dirección de Catastro, dentro del plazo de un mes, contado a partir del siguiente día al en que cause ejecutoria la resolución respectiva.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
-
-Los avisos a que se refiere este artículo deberán presentarse utilizando las formas oficiales aprobadas por la Secretaría de Finanzas y Tesorería General del Estado.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-En caso de que la traslación de dominio de bienes raíces que haya sido objeto de los avisos a que se refiere este artículo, no se llevare a cabo en los plazos que señalen las disposiciones legales aplicables para dichas operaciones, los Notarios, Jueces, Corredores Públicos y demás fedatarios, deberán presentar a la Dirección de Catastro un aviso de cancelación de la operación de que se trate, dentro de los 10 días siguientes al en que venza el plazo establecido en la Ley de la materia.
+La Dirección del Registro Público de la Propiedad y del Comercio estará obligada a dar aviso a la Dirección de Catastro sobre cada uno de los actos de transmisión de dominio de bienes inmuebles que se registren, así como de los actos de cancelación de tales inscripciones. Los avisos se darán dentro del plazo de un mes siguiente a la fecha de la inscripción o cancelación, y deberán presentarse utilizando las formas oficiales aprobadas por la Secretaría de Finanzas y Tesorería General del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -319,9 +437,7 @@ En caso de que la traslación de dominio de bienes raíces que haya sido objeto 
 
 Las notificaciones a que se refiere la presente Ley, se practicarán en la forma que determine el Código Fiscal del Estado y el Reglamento de esta Ley.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-ARTICULO 30o BIS.- Los avalúos expedidos por la Dirección de Catastro no constituyen resolución administrativa. Para solicitar su modificación, los particulares interesados podrán solicitar la reconsideración de los avalúos, en los términos de lo dispuesto en el artículo 32 Bis de esta Ley, cuando consideren que el valor consignado en ellos no corresponda a la realidad.
+ARTICULO 30 BIS.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2001)
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -337,7 +453,7 @@ Tratándose de predios ya inscritos en el padrón catastral, solo se aceptaran l
 
 De las Infracciones y de las Sanciones.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 21.
 
@@ -359,25 +475,39 @@ Son infractores de la presente Ley: I.- Los propietarios o poseedores de predios
 
 ###### ARTICULO 31o.
 
-Son infractores de la presente Ley: I.- Los propietarios o poseedores de predios que consignen datos falsos en sus declaraciones, avisos, solicitudes, planos, o manifestaciones, con excepción del relativo al valor del predio. II.- Los propietarios o poseedores de los predios que no presenten oportunamente los planos, datos, informes, declaraciones, solicitudes, manifestaciones y cualquier otro documento que señalen las leyes o las convocatorias respectivas, o sean requeridos por las autoridades catastrales, en un plazo no menor a treinta días contados a partir del inicio de los citados eventos. III.- Los propietarios o poseedores de predios que se nieguen a aclarar las dudas que surjan con motivo de sus declaraciones o manifestaciones. IV.- Los funcionarios y empleados públicos o privados a quienes esta Ley impone la obligación de auxiliar a los organismos catastrales para el mejor desempeño de sus funciones, y que no le presten oportuna y eficaz cooperación cuando le sea solicitada. V.- Los funcionarios y empleados de los organismos catastrales que por negligencia o dolo, posibiliten la infracción de esta Ley por los sujetos obligados a cumplirla. VI.- Los Notarios, Jueces, Corredores Públicos y demás fedatarios que por disposición legal tengan funciones notariales, que no presenten oportunamente el aviso de cancelación a que se refiere el artículo 29 de esta Ley.
+Son infractores de la presente Ley:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+I.- Los propietarios o poseedores de predios que consignen datos falsos en sus declaraciones, avisos, solicitudes, planos, o manifestaciones, con excepción del relativo al valor del predio.
+
+II.- Los propietarios o poseedores de los predios que no presenten oportunamente los planos, datos, informes, declaraciones, solicitudes, manifestaciones y cualquier otro documento que señalen las leyes o las convocatorias respectivas, o sean requeridos por las autoridades catastrales, en un plazo no mayor a treinta días contados a partir del inicio de los citados eventos.
+
+III.- Los propietarios o poseedores de predios que se nieguen a aclarar las dudas que surjan con motivo de sus declaraciones o manifestaciones.
+
+IV.- Los funcionarios y empleados públicos o privados a quienes esta Ley impone la obligación de auxiliar a los organismos catastrales para el mejor desempeño de sus funciones, y que no le presten oportuna y eficaz cooperación cuando le sea solicitada.
+
+V.- Los funcionarios y empleados de los organismos catastrales que por negligencia o dolo, posibiliten la infracción de esta Ley por los sujetos obligados a cumplirla.
+
+VI.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2001)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 32o.
 
-Los infractores a que se refiere el artículo anterior serán sancionados como sigue: I.- Si están comprendidos en las fracciones I, III, IV y V, se les aplicará una multa de 3.5 a 6.5 cuotas. II.- Si están comprendidos en los casos de la fracción II, la que resulte mayor entre 3 cuotas o hasta el 100% de las contribuciones omitidas. III.- En los casos de la fracción V, si a juicio del Secretario de Finanzas y Tesorero General del Estado la infracción es grave, además serán destituidos, sin perjuicio de la instancia de responsabilidad, si procediera. IV.- En los casos de la fracción VI, de 15 a 35 cuotas.
+Los infractores a que se refiere el artículo anterior serán sancionados como sigue:
+
+I.- Si están comprendidos en las fracciones I, III, IV y V, se les aplicará una multa de 3.5 a 6.5 cuotas.
+
+II.- Si están comprendidos en los casos de la fracción II, la que resulte mayor entre 3 cuotas o hasta el 100% de las contribuciones omitidas.
+
+III.- Si están comprendidos en las fracciones IV y V, de 20 a 40 cuotas. En caso de que se trate de servidores públicos del Estado, si a juicio del Secretario de Finanzas y Tesorero General del Estado la infracción es grave, además serán destituidos, sin perjuicio de la instancia de responsabilidad, si procediera.
+
+IV.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2001)
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 Para efectos del presente artículo al hacer referencia a cuota, se entenderá por ésta, el equivalente a un salario mínimo general diario vigente en la zona geográfica del Municipio de que se trate.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-ARTICULO 32o BIS.- Los particulares podrán solicitar la reconsideración del valor ante la Junta Municipal.
-
-Los particulares inconformes deberán presentar ante la Junta Municipal, los elementos de prueba que consideren necesarios, así como los que les sean solicitados por la referida Junta Municipal para reconsiderar el valor que al efecto se haya emitido.
-
-Si revisado el valor por la Junta Municipal, persiste la inconformidad, será la Junta Central Catastral en casos de evidente controversia y a instancia del particular, la que determinará el valor que corresponda.
+ARTICULO 32o BIS.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2001)
 
 T R A N S I T O R I O S :
 
@@ -500,6 +630,10 @@ Los Municipios del Area Metropolitana de Monterrey, que no hayan integrado su Ju
 En los términos previstos en los Artículos 20 y 21 de la Ley del Catastro del Estado, durante el año de 1998 se aplicará un incremento en las Bases Generales de Valores por Unidades Tipo y en los valores catastrales de los predios ubicados en el Estado, de hasta un 5% respecto de los terrenos y en las construcciones de un 10%. En ningún caso los valores catastrales podrán rebasar el valor actual real de los inmuebles.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 21o.
+
+En los términos previstos en los artículos 20 y 21 de la Ley del Catastro del Estado, durante el año de 1999 se aplicará un incremento en las Bases Generales de Valores por Unidades Tipo y en los valores catastrales de los predios ubicados en el Estado, de hasta un 17% respecto de los terrenos y construcciones. En ningún caso los valores catastrales podrán rebasar el valor actual real de los inmuebles.
 
 ###### ARTICULO 22o.
 
@@ -631,7 +765,7 @@ Este Decreto entrará en vigor el día 1o. de Enero de 1987.
 
 Se derogan todas las disposiciones que contraríen o se opongan al contenido de este Decreto.
 
-P.O. 30 DE DICIEMBRE DE 1987.
+P. O. 30 DE DICIEMBRE DE 1987.
 
 ###### ARTICULO PRIMERO
 
@@ -700,3 +834,13 @@ Artículo Único.- El presente Decreto entrará en vigor el 1o. de Enero del añ
 P.O. 29 DE DICIEMBRE DE 2000.
 
 Artículo Único.- El presente Decreto entrará en vigor el 1o. de enero del año 2001.
+
+P.O. 27 DE DICIEMBRE DE 2001.
+
+Artículo Primero.- El presente Decreto entrará en vigor el 1° de Enero del año 2002.
+
+Artículo Segundo.- El Reglamento de la Ley del Catastro deberá adecuarse a lo previsto en este Decreto dentro de un plazo que no exceda de tres meses, contados a partir de su entrada en vigor, mientras se realizan dichas adecuaciones continuarán aplicándose las disposiciones del Reglamento vigente, en lo que no se opongan al presente Decreto.
+
+Artículo Tercero.- Las Juntas Municipales Catastrales y la Junta Central Catastral resolverán los asuntos que a la entrada en vigor del presente Decreto, se encuentren pendientes ante las mismas, conforme a las disposiciones anteriores a la vigencia de este Decreto.
+
+Artículo Cuarto.- Cuando en las Leyes estatales se haga referencia al valor actual real, al valor comercial o al valor que deba emitir la Secretaría de Finanzas y Tesorería General del Estado o la Dirección de Catastro, se entenderá para todos los efectos que se hace referencia al Valor Catastral a que se refiere el artículo 17 de esta Ley.
