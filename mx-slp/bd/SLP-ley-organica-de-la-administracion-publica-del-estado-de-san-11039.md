@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2003-09-13"
+last_updated: "2004-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -723,7 +723,9 @@ III. Aplicar los planes y programas de estudio oficiales en las escuelas de educ
 
 IV. Promover la enseñanza técnica, industrial, comercial, deportiva, física y la que se requiera, según las necesidades regionales del Estado;
 
-V. Proponer a la Secretaría de Educación Pública federal, los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación primaria, secundaria, normal y demás para la formación de maestros de educación básica;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2004)</small>
+
+V. Proponer a la Secretaría de Educación Pública federal, los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
 
@@ -1236,3 +1238,9 @@ CUARTO. Todo el personal que labora en la Dirección de (sic) General de Comunic
 QUINTO. Los asuntos que con motivo de la entrada en vigor de este Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado, hasta que las unidades administrativas que los tengan a su cargo se incorporaran a la dependencia que señale el presente Decreto y las demás disposiciones relativas.
 
 SEXTO. El Ejecutivo del Estado deberá expedir los reglamentos interiores de las nuevas secretarías de Desarrollo Urbano, Vivienda y Obras Públicas; de Comunicaciones y Transportes; de Turismo; de Trabajo y Previsión Social; y de Cultura, en un plazo no mayor de tres meses contado a partir de la entrada en vigor de este Decreto, manteniendo entre tanto la observancia de los ya existentes en lo que no se opongan al mismo, cuando así sea posible.
+
+P.O. 12 DE FEBRERO DE 2004.
+
+PRIMERO. Previa su publicación en el Periódico Oficial del Estado, el presente Decreto entrará en vigor el día siguiente al de la publicación, en el mismo órgano informativo oficial, del diverso Decreto por el que se reforman los párrafos primero y cuarto del artículo 10 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
