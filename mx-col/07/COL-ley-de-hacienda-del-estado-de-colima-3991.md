@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "1993-03-13"
+last_updated: "1993-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 1993.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -367,13 +367,13 @@ Garantizarán preferentemente el pago de este impuesto, los bienes muebles, el e
 
 ### CAPITULO III. Servicios Prestados por la Secretaría de Finanzas
 
-### CAPITULO IV. Servicios Prestados en la Secretaría de Desarrollo Urbano y Rural
+### CAPITULO IV. Servicios Prestados por la Secretaría de Desarrollo Urbano
 
-### CAPITULO V. Servicios Prestados en la Secretaría de Educación, Cultura y Deporte
+### CAPITULO V. Servicios Prestados por la Secretaría de Desarrollo Rural
 
 ## TITULO SEGUNDO. DE LOS DERECHOS
 
-### CAPITULO VI. Servicios Prestados en la Secretaría de Salud y Bienestar Social
+### CAPITULO VI. Servicios Prestados por la Secretaría de Educación, Cultura y Deporte
 
 ###### Artículo 42.
 
@@ -401,7 +401,7 @@ Cuando no se llenen los requisitos legales para el otorgamiento del permiso, con
 
 El servidor público que preste algún servicio, en contravención a lo dispuesto en este capítulo, será responsable de su pago, independientemente de las sanciones administrativas y corporales a que se pueda hacer acreedor.
 
-### CAPITULO VII. Servicios Prestados en el Poder Judicial
+### CAPITULO VII. Servicios Prestados por la Secretaría de Salud y Bienestar Social
 
 ###### Artículo 48.
 
@@ -541,25 +541,7 @@ e).- Por cada vehículo exclusivo funerario 16.200
 
 f).- Motocarro o motocicleta de carga, para servicio turístico o para arrendamiento 3.250
 
-IV.- Por dotación de placas de circulación:
-
-a).- Vehículos de servicio particular, incluyendo tarjeta de circulación y calcomanía de placas 11.900
-
-b).- Vehículos de servicio público incluyendo tarjetas de circulación y calcomanía de placas 12.400
-
-c).- Motocicletas, incluyendo tarjetas de circulación 1.600
-
-d).- Placas de demostración 40.500
-
-e).- Renovación anual de tarjeta de circulación y calcomanía de placas o su reposición 1.600
-
-f).- Renovación anual de tarjeta de circulación de motocicletas
-
-o su reposición 0.500
-
-g).-Remolques 9.700
-
-Los derechos consignados en los incisos a), b), c) y e), tratándose de canje por término del período de vigencia, así como los previstos en los incisos f), deberán pagarse durante los meses de enero a marzo.
+IV.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 1993)
 
 V.- Por expedición de constancias, por cada una 1.000
 
@@ -793,7 +775,9 @@ s).- Expedición de certificaciones relativas a constancias del Registro:
 
 t).- Impresión de informes a solicitud del interesado por hoja 1.080
 
-### CAPITULO VIII. Otros Derechos
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+### CAPITULO VIII. Servicios Prestados en el Poder Judicial
 
 ###### Artículo 53.
 
@@ -816,6 +800,30 @@ b).- Por cada hora adicional 0.090
 c).- Pensión mensual de vehículos, por cada uno y por mes calendario adelantado 13.500
 
 d).- Pensión mensual, de motocicletas, por cada una y por mes de calendario adelantado 4.500
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+IV.- Por dotación de placas de circulación:
+
+a).- Vehículos de servicio particular, incluyendo tarjeta de circulación 11.900
+
+b).- Vehículos de servicio público, incluyendo tarjeta de circulación 12.400
+
+c).- Motocicletas, incluyendo tarjeta de circulación
+
+1.- Hasta 200 c.c. 1.600
+
+2.- De mas de 200 c.c. 3.000
+
+d).- Placas de demostración 40.500
+
+e).- Renovación anual de calcomanía fiscal vehícular o su reposición 6.000
+
+f).- Renovación anual de tarjeta de circulación de motocicletas o su reposición 1.000
+
+g).- Remolques 9.700
+
+Los derechos consignados en los incisos a), b), c) y e), tratándose de canje o renovación, por termino del período de vigencia, así como los previstos en el inciso f), deberán pagarse durante los meses enero a marzo.
 
 ###### Artículo 54.
 
@@ -979,7 +987,9 @@ V.- Por derechos de registro y expedición de credencial de perito valuador 15.0
 
 a).- Refrendo anual 10.00
 
-### CAPITULO UNICO
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+### CAPITULO IX. Otros Derechos
 
 ###### Artículo 55.
 
@@ -1087,6 +1097,8 @@ más, por cada condominio o parte en que se integre el condominio 18.000
 
 más, por cada condominio o parte en que se integre el condominio 35.000
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
 ### CAPITULO UNICO
 
 ### CAPITULO UNICO
@@ -1096,6 +1108,8 @@ más, por cada condominio o parte en que se integre el condominio 35.000
 Por los servicios prestados en la Dirección General de Fomento Agropecuario:
 
 I.- Manutención por cada cabeza de ganado recogido en la vía pública, cada día o fracción que permanezca en los lugares públicos destinados a su encierro. 1.000
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO UNICO
 
@@ -1251,6 +1265,8 @@ IV.- Ingreso a zona de bosque 0.045
 
 V.- Educación vial 0.090
 
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
 ### CAPITULO UNICO
 
 ###### Artículo 61.
@@ -1265,13 +1281,7 @@ a).- Popular y medio, por m2 0.032
 
 b).- Residencia, comercial, industrial y otros, por m2 0.054
 
-II.- Por verificación y vigilancia:
-
-a).- Cabarets, centros nocturnos, salones de baile, discotecas y similares, por visita programada, de acuerdo al riesgo y catálogo de giros vigente 16.195
-
-b).- Bares, cantinas, cervecerías, centros botaneros y similares, por visita programada, de acuerdo al riesgo y catálogo de giros vigente 16.195
-
-c).- Hoteles, moteles, departamentos amueblados y similares por visita programada, de acuerdo al riesgo y catálogo de giros vigente 16.195
+II.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 1993)
 
 III.- Programa de "AGUA LIMPIA" en establecimientos:
 
@@ -2085,6 +2095,10 @@ HIPOSPADIAS 10.580 16.430 22.270
 
 17518 VALVAS (sic) POSTE
 
+(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
+
+### CAPITULO UNICO
+
 ### CAPITULO UNICO
 
 ###### Artículo 63.
@@ -2110,6 +2124,8 @@ b).- Por cada hoja más o fracción 1.350
 III.- Registro y diligencia de exhortos 0.720
 
 IV.- Copias certificadas de Sentencia de Divorcio 1.350
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ###### Artículo 64.
 
@@ -2189,7 +2205,9 @@ Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Es
 
 I.- Recargos a razón de 3% mensual sobre saldos insolutos en los casos de prórrogas para el pago de créditos fiscales; en el pago extemporáneo de los mismos, se aplicará la tasa del 4.5% por cada mes o fracción, desde la fecha de su exigibilidad.
 
-II.- Reintegro e indemnizaciones.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+II.- Reintegros e indemnizaciones.
 
 III.- Multas.
 
@@ -2221,7 +2239,11 @@ X.- Administración de impuestos y otros conceptos municipales.
 
 XI.- Aportaciones del Gobiernos (sic) Federal y de terceros para obras y servicios públicos a cargo del Estado, para obras de beneficio social.
 
-XII.- Otros ingresos no especificados.
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+XII.- Los contratistas y destajistas que realicen obras para el Gobierno del Estado, aportarán el 1% sobre el pago de cada una, para obras de beneficio social.
+
+XIII.- Otros ingresos no especificados.
 
 ## TITULO SEPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
 
@@ -2302,3 +2324,7 @@ EL GOBERNADOR CONST. DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL
 P.O. 13 DE MARZO DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 18 DE DICIEMBRE DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
