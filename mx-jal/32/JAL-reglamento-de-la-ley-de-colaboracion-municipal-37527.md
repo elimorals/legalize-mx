@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-colaboracion-municipal-37527"
 country: "mx"
 rank: "reglamento"
 publication_date: "1950-10-24"
-last_updated: "1950-10-24"
+last_updated: "1950-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO DE LA LEY DE COLABORACION MUNICIPAL
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE DICIEMBRE DE 1950 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
-REGLAMENTO DE LA LEY DE COLABORAClON MUNICIPAL
+REGLAMENTO DE LA LEY DE COLABORAClÓN MUNICIPAL
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE DICIEMBRE DE 1950.]
 
 Reglamento publicado en el Periódico Oficial del Estado de Jalisco, el martes 24 de octubre de 1950.
 
@@ -73,7 +73,9 @@ III. Empedrados.
 
 Los interesados podrán concurrir personalmente o bien por medio de Apoderado acreditado con simple carta poder.
 
-13.- Se tendrán por aprobadas las resoluciones de la Junta en todos los aspectos de la pavimentación cuando:
+> <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 1950)</small>
+
+13.- Se tendrán por aprobadas las resoluciones del Consejo en todos los aspectos de la pavimentación cuando:
 
 I. Ningún propietario concurra a la Junta.
 
@@ -83,7 +85,9 @@ III. La mayoría de los que concurran se opongan a cualquiera de los aspectos; p
 
 IV. Habiéndose formulado oposición, no se exhiba oportunamente el escrito de que habla el artículo 15.
 
-14.- Se considerará que hay oposición a las resoluciones de la Junta cuando esta sea expresada por la mayoría de los que concurran a la Junta y esa mayoría represente cuando menos el cincuenta por ciento de los propietarios comprendidos en la zona.
+> <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 1950)</small>
+
+14.- Se considerará que hay oposición a las resoluciones del Consejo cuando esta sea expresada por la mayoría de los que concurran a la Junta y esa mayoría represente cuando menos el cincuenta por ciento de los propietarios comprendidos en la zona.
 
 15.- En el caso previsto en el artículo que antecede, los opositores designarán una comisión formada de tres personas para que en su representación formulen las objeciones.
 
