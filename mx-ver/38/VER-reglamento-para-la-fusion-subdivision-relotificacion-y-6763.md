@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-la-fusion-subdivision-relotificacion-y-6763"
 country: "mx"
 rank: "reglamento"
 publication_date: "1979-03-10"
-last_updated: "1979-03-10"
+last_updated: "1986-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS PARA EL ESTADO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE NOVIEMBRE DE 1986
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el sábado 10 de marzo de 1979.
 
@@ -1563,6 +1563,10 @@ DEL DICTAMEN TECNICO Y LEGAL.- Habiéndose cumplido con los anteriores requisito
 
 DEL CONVENIO NOTARIAL.- El interesado celebrará con el Ejecutivo del Estado, previo pago de los derechos correspondientes, un convenio notarial en base al dictamen técnico y legal, en el que se establecerán las obligaciones a que estará sujeto el fraccionador. Los gastos que resulten de celebrarlo serán pagados por el fraccionador.
 
+> <small>(ADICIONADO, G.O. 25 DE NOVIEMBRE DE 1986)</small>
+
+En este convenio se establecerá la prohibición de subdividir o relotificar los lotes autorizados, así como cambiar o permutar las áreas verdes.
+
 ###### ARTICULO 46.
 
 DE LA AUTORIZACION DE INICIO DE OBRA.- Posterior a la firma del convenio, a juicio de la Dirección se podrá autorizar la iniciación parcial o total de las obras de construcción del fraccionamiento.
@@ -1907,15 +1911,21 @@ V.- Destine parcial o totalmente los bienes de su propiedad, a un uso distinto a
 
 DE LAS MULTAS A LOS PROPIETARIOS.- La Dirección sancionará a los propietarios de las fusiones, subdivisiones, relotificaciones y fraccionamientos de terrenos, con multa en efectivo de 1 a 5 tantos del importe de la licencia correspondiente cuando se estén realizando o se hubieren realizado obras o instalaciones sin haber obtenido previamente la licencia respectiva.
 
+> <small>(REFORMADO PRIMER PARARFO, G.O. 25 DE NOVIEMBRE DE 1986)</small>
+
 ###### ARTICULO 93.
 
-DE LAS MULTAS A LOS PROPIETARIOS.- La Dirección sancionará a los propietarios de las fusiones, subdivisiones, relotificaciones y fraccionamientos de terrenos, con multa de $ 1,000.00 (un mil pesos, 00/100, M.N.) a $ 1,000,000.00 (un millón de pesos, 00/100, M.N.) o el 10% del valor del inmueble cuando:
+DE LAS MULTAS A LOS PROPIETARIOS.- La Dirección sancionará a los propietarios de las fusiones, subdivisiones, relotificaciones y fraccionamientos de terrenos, con multas de $ 1,000.00 (un mil pesos, 00/100 M.N.) a $ 1,000,000.00 (un millón de pesos, 00/100 M.N.) o el 10% del valor del inmueble cuando:
 
 I.- Realice ventas de predios sin haber obtenido licencia de la Dirección;
 
 II.- Habiendo realizado trámites parciales para la obtención de la licencia, hubiese vendido parcial o totalmente fracciones del predio de su propiedad;
 
 III.- Hubiese realizado ventas de fracciones teniendo la autorización correspondiente; pero no hubiese concluido las obras de urbanización.
+
+> <small>(ADICIONADO, G.O. 25 DE NOVIEMBRE DE 1986)</small>
+
+Para las conductas indicadas en las fracciones I y II de este artículo, se aplicará la multa independientemente de la responsabilidad penal en que se hubiere incurrido.
 
 ###### ARTICULO 94.
 
@@ -2018,3 +2028,9 @@ Las solicitudes de autorización para fusión, subdivisión, relotificación y f
 Los lotes de Fundos Legales serán vendidos de acuerdo con lo dispuesto en la Ley para la Venta de Predios Expropiados, en la Ley de Subdivisión de la Propiedad Territorial y en los artículos 19 y 33 parte final y demás relativos del presente Reglamento.
 
 DADO en la residencia del Poder Ejecutivo del Estado, en la ciudad de Xalapa-Enríquez, Veracruz, a los cinco días del mes de marzo de mil novecientos setenta y nueve.- Lic. RAFAEL HERNANDEZ OCHOA.- Rúbrica.- Gobernador Constitucional del Estado.- El Secretario de Gobierno, Lic. EMILIO GOMEZ VIVES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 25 DE NOVIEMBRE DE 1986.
+
+UNICO.- La presente adición entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial".
