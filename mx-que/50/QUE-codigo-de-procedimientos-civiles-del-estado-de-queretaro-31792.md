@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-31792"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "2001-09-21"
+last_updated: "2004-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -689,7 +689,9 @@ II.- El auto que ordena la absolución de posiciones o reconocimiento de documen
 
 III.- La primera resolución que se dicte, cuando se dejare de actuar más de dos meses por cualquier motivo;
 
-IV.- Cuando se estime que se trate de un caso urgente y así se ordene;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2004)</small>
+
+IV.- Cuando se trate de casos graves o urgentes, a juicio del juez, éste podrá ordenar la notificación en el domicilio particular de las partes, si su ubicación se desprende de autos, aún cuando no se haya señalado domicilio procesal;
 
 V.- El requerimiento de un acto a la parte que deba cumplirlo;
 
@@ -701,9 +703,17 @@ VII.- En los demás casos en que la ley lo disponga.
 
 Cuando variare el personal de un tribunal, no se proveerá decreto haciendo saber el cambio, sino que al margen del primer proveído que se dictare, después de ocurrido el cambio, se pondrán completos los nombres y apellidos de los nuevos funcionarios. Sólo que el cambio ocurriere cuando el negocio esté pendiente únicamente de la sentencia, se mandará hacerlo saber a las partes.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 115.
 
-La primera notificación y las demás que tengan el carácter de personales se harán directamente al interesado, o a su representante o procurador, en el domicilio designado; y no encontrándolo el notificador, le dejará cédula en la que hará constar la fecha y la hora en la que entregue, el nombre y apellido del promovente, el juez o tribunal que manda practicar la diligencia, la determinación que manda notificar y el nombre y apellido de la persona quien se entrega, recogiéndole la firma en la razón que se asentará del acto, y si no quisiere o no pudiere firmar, se hará constar esta circunstancia.
+La primera notificación y todas las demás que tengan el carácter de personales, se harán directamente al interesado, a su representante, a su procurador o a su autorizado en autos, en el domicilio designado para tal efecto.
+
+En el acto, el notificador levantará constancia de la diligencia; se identificará ante la persona con quien la entienda, requiriendo a ésta para que a su vez se identifique, asentando los datos correspondientes. Asimismo, hará constar los medios o signos exteriores del inmueble con los que se cerciore y sirvan para acreditar que se acudió al domicilio del buscado, pudiendo solicitar a su interlocutor la exhibición de los documentos que lo acrediten, precisándolos en el acta en caso de su presentación; también anotará las manifestaciones que haga quien reciba la notificación, en cuanto a su relación laboral, de parentesco, de negocios, de habitación o cualquier otra que exista con el interesado.
+
+Al propio tiempo, entregará al interesado o le dejará con quien entienda la diligencia, cédula de notificación en la que hará constar fecha y hora en que la entregue, la clase de procedimiento que se notifique, el nombre y apellido de las partes, el juez o tribunal que la manda practicar, la determinación que se ordena notificar y el nombre, apellido y firma de la persona a la que se entrega la cédula o la razón por la que no puede o no quiso firmar la recepción del documento, adjuntando copia fotostática simple de la determinación notificada. Entregada la cédula, anexará copia al carbón de la misma a la constancia que se levante.
+
+Si la notificación no pudiera realizarse, el notificador expresará las causas o la oposición que hubo para ello, para que el juez, con vista al resultado, imponga las correcciones disciplinarias y medidas de apremio que correspondan.
 
 ###### ARTÍCULO 116.
 
@@ -746,6 +756,10 @@ III.- En todos los demás casos previstos por la ley.
 En los casos de las fracciones I y II los edictos se publicarán por tres veces, de siete en siete días, en uno de los periódicos de mayor circulación en la entidad, haciéndose saber al citado que debe presentarse dentro de un plazo que no bajará de quince ni excederá de sesenta días.
 
 Lo anterior sin perjuicio de que el juez pueda ordenar otras publicaciones cuando lo estime necesario.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE SEPTIEMBRE DE 2004)</small>
+
+No se autorizará el emplazamiento por edictos, si previamente no se comprueba, mediante los informes que rinda el Instituto Federal Electoral y las autoridades estatales y municipales que el juez determine, que de la persona a notificar no se ubicó domicilio en el lugar.
 
 ###### ARTÍCULO 122.
 
@@ -1657,7 +1671,9 @@ En el escrito de contestación, la parte deberá referirse a cada uno de los hec
 
 Si la demanda no es contestada en tiempo, el juez verificará la legalidad del emplazamiento, estudiará las cuestiones de que trata el segundo párrafo del artículo 256 y, en su caso, hará la declaración de rebeldía.
 
-Se presumen ciertos los hechos de la demanda que se dejó de contestar.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2004)</small>
+
+Se presumen ciertos los hechos de la demanda que se dejó de contestar. Sin embargo se tendrá por contestada en sentido negativo cuando se trate de asuntos que afecten cuestiones familiares, el estado civil de las personas y en los casos en que el emplazamiento se hubiere hecho por edictos.
 
 ###### ARTÍCULO 260.
 
@@ -2226,6 +2242,24 @@ II.- Los peritos practicarán unidos la diligencia, pudiendo concurrir los inter
 III.- Los peritos de las partes emitirán inmediatamente su dictamen, siempre que lo permita la naturaleza del asunto; de lo contrario, se les señalará un plazo prudente para que lo rindan.
 
 Cuando discordaren los peritos, dictaminarán el tercero, solo o asociado de los otros.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2004)</small>
+
+ARTÍCULO 354 bis.- Cuando la prueba deba ser desahogada mediante la aplicación de ciencia, arte o profesión que se encuentre legalmente reglamentada, los peritos están obligados a realizar todas las operaciones y experimentos que éstas determinen. En este caso, el dictamen deberá contener:
+
+I.- El planteamiento de los puntos sobre los cuales versará la prueba;
+
+II.- La descripción de las personas, cosas o hechos objeto de la prueba;
+
+III.- La enunciación de los principios en que se fundamente el dictamen que se emita;
+
+IV.- La descripción de tiempo, modo y lugar, de las operaciones o experimentos realizados para la emisión del dictamen;
+
+V.- Las conclusiones obtenidas, fundadas y razonadas en los principios técnicos o científicos que se hubieren realizado.
+
+Si el peritaje no cumple con los requerimientos de las fracciones III y IV, conteniendo únicamente las conclusiones, carecerá de valor probatorio, aún cuando no sea objetado.
+
+Cuando la prueba deba ser desahogada mediante la aplicación de ciencia, arte o profesión que no se encuentre legalmente reglamentada, el dictamen podrá contener únicamente lo previsto en las fracciones I y II, así como las conclusiones obtenidas, debidamente razonadas.
 
 ###### ARTÍCULO 355.
 
@@ -6644,3 +6678,11 @@ PRIMERO.- La presente ley entrará en vigor sesenta días después de su publica
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente ley.
 
 TERCERO.- A partir de la vigencia de la presente ley, las personas que por sí, o a través de sus representantes legales, se encuentren tramitando juicio para obtener el registro de su nacimiento o realizar la rectificación o modificación de actas expedidas por el Registro Civil en los términos de esta ley, podrán optar por concluir ese procedimiento o acudir ante el Oficial del Registro Civil respectivo o ante la Dirección del Registro Civil, en los términos de lo dispuesto por este ordenamiento.
+
+P.O. 10 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.- La presente ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO.- Los procedimientos que se encuentren en trámite, se resolverán de conformidad con las disposiciones legales anteriores a la entrada en vigor de la presente ley.
+
+TERCERO.- Se derogan las disposiciones legales que se opongan a la presente ley.
