@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1997-12-29"
+last_updated: "1998-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -475,9 +475,13 @@ El Impuesto Predial se pagará a una tarifa única especial de 2 cuotas anuales,
 
 I.- Los Predios destinados a planteles escolares no oficiales donde se imparta enseñanza primaria, secundaria o universitaria, autorizada por el Gobierno Federal o Estatal y sometida a su vigilancia, siempre que el inmueble sea propio.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-No quedan comprendidos dentro de este beneficio, los predios destinados a usos distintos de aulas, laboratorios o instalaciones similares de dichos planteles.
+No quedan comprendidos dentro de este beneficio, los predios destinados a usos distintos de aulas, laboratorios o instalaciones similares de dichos planteles educativos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+Para efectos de esta fracción, se entiende por predios destinados a planteles escolares, los que cuenten con la construcción correspondiente y en los mismos se estén realizando las actividades de impartición de enseñanza educativa al momento de la solicitud de la tarifa especial.
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -497,9 +501,9 @@ Si el valor catastral de la vivienda excede de 5,041 cuotas, pero no de 8,490 cu
 
 V.- Los predios Ejidales.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-VI.- Los predios afectados al patrimonio de familia, en los términos del Código Civil del Estado.
+VI.- Los predios afectados al patrimonio de familia, en los términos del Código Civil del Estado, siempre que no sean propietarios o poseedores de otro bien raíz en el Estado.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -537,9 +541,9 @@ e) Jubilados y pensionados con ingresos propios, cuyo monto diario no exceda de 
 
 f) Los predios pertenecientes a los trabajadores al servicio de la Federación, Estado o Municipio.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)(F. DE E., P.O. 18 DE ENERO DE 1999)
 
-Si el valor catastral del predio excede de 6,129 cuotas y no de 12,257 cuotas, se pagará por concepto de Impuesto Predial anual el doble de la tarifa especial.
+Si el valor catastral del predio excede de 6,129 cuotas y no de 12,257 cuotas, se pagará por concepto de impuesto predial anual el doble de la tarifa especial. Si el valor catastral de los predios excede de 12,257 cuotas, cubrirán el doble de la tarifa especial sobre dicha cantidad y el excedente se cubrirá conforme a lo establecido por el artículo 21 Bis-8.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -605,11 +609,11 @@ El pago anticipado del Impuesto Predial no impide el cobro de diferencias que de
 
 Cuando se hayan establecido bases provisionales para determinar el monto del impuesto, al aplicar la base definitiva se cobrarán o compensarán las diferencias que resulten.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 21 Bis 13.
 
-El pago de este impuesto deberá efectuarse en la Oficina Recaudadora Municipal correspondiente.
+El pago de este impuesto deberá efectuarse en la oficina recaudadora municipal correspondiente o en los lugares que la Tesorería Municipal determine.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -647,11 +651,11 @@ Los documentos para pago de Impuesto Predial que expida la Secretaría de Finanz
 
 #### SECCION SEPTIMA. DE LAS MANIFESTACIONES Y AVISOS
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 21 Bis 18.
 
-Las manifestaciones y avisos que los particulares, Notarios Públicos, Jueces y demás fedatarios, deban presentar para efectos de este impuesto, se harán en las formas oficiales y se presentarán expresando todos los datos y acompañando los documentos o planos que se requieran, ante la Secretaría de Finanzas y Tesorería General del Estado.
+Las manifestaciones y avisos que los particulares, notarios públicos, jueces y demás fedatarios, deban presentar para efectos de este impuesto, se harán en las formas oficiales y se presentarán expresando todos los datos y acompañando los documentos o planos que se requieran, ante la Secretaría de Finanzas y Tesorería General del Estado y/o en la Tesorería Municipal correspondiente.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -727,15 +731,15 @@ Están obligados al pago del Impuesto Sobre Adquisición de Inmuebles, las perso
 
 Para los efectos de esta ley, se considera base del impuesto el valor gravable del inmueble, que será el que resulte mayor entre el de operación y el consignado en el certificado de valor actual real, que al efecto expida la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1998) (F. DE E., P.O. 18 DE ENERO DE 1999)
 
 ###### ARTICULO 28 Bis 1.
 
-En la adquisición de viviendas cuyo valor más alto en los términos del Artículo 28 bis-3, fracción I, no exceda de 25 cuotas elevadas al año y siempre que el adquirente sea persona física y no sea propietario o poseedor de otro bien inmueble en el Estado, cubrirá el impuesto aplicando la tasa del 2% al valor del inmueble, después de reducirlo en 15 cuotas elevadas al año.
+En la adquisición de viviendas cuyo valor más alto en los términos del artículo 28 bis-3, fracción I, no exceda de 25 cuotas elevadas al año y siempre que el adquirente sea persona física, cubrirá el impuesto aplicando la tasa del 2% del valor del inmueble, después de reducirlo en 15 cuotas elevadas al año.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-El Impuesto Sobre Adquisición de Inmuebles se cubrirá a una tarifa única especial equivalente a siete cuotas, en los siguientes casos:
+El Impuesto sobre adquisición de inmuebles se cubrirá a una tarifa única especial por cada inmueble equivalente a 7 cuotas, en los siguientes casos:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -745,9 +749,9 @@ I.- En las adquisiciones hechas por instituciones de beneficencia privada, respe
 
 II.- En las adquisiciones hechas por instituciones públicas de enseñanza y establecimientos de enseñanza propiedad de particulares que tengan autorización o reconocimiento de validez oficial de estudios en los términos de la Ley Federal de Educación, por los bienes destinados exclusivamente a sus fines educativos.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-No quedan comprendidos dentro de este tratamiento, los inmuebles distintos de aulas o salones de clase, laboratorios o instalaciones similares de dichos planteles educativos.
+No quedan comprendidos dentro de este beneficio, los predios destinados a usos distintos de aulas, laboratorios o instalaciones similares de dichos planteles educativos. Tratándose de instalaciones deportivas, culturales o de otra índole, no gozarán de este beneficio, en caso de que las mismas sean utilizadas además para la realización de eventos no gratuitos, distintos de los eventos que realice la propia institución educativa con motivo de la práctica de la enseñanza correspondiente.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -765,9 +769,9 @@ V.- En las adquisiciones que hagan las Juntas de Mejoramiento Moral, Cívico y M
 
 VI.- En las adquisiciones que realicen los trabajadores al servicio de la Federación, Estado o Municipio, independientemente que estén o no sindicalizados, siempre y cuando el inmueble objeto del impuesto vaya a destinarse o se destine a vivienda y no posean otro bien raíz en el Estado. En los casos de trabajadores casados bajo el régimen de sociedad conyugal, la exención también operará al 100 %.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-VII.- En las adquisiciones hechas por entes u organismos públicos creados para solucionar el problema de la vivienda y de la tenencia legal de la tierra, así como las personas que resulten directamente beneficiadas con sus programas.
+VII.- En las adquisiciones hechas por entes u organismos públicos creados para solucionar el problema de la vivienda y de la tenencia legal de la tierra, así como las personas que resulten directamente beneficiadas con sus programas, siempre y cuando dichas personas no sean propietarias o poseedoras de otro bien raíz en el Estado y que lo destinen para su habitación.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -789,13 +793,25 @@ XI.- En las adquisiciones de bienes del dominio privado que realicen el Estado, 
 
 XII.- En las adquisiciones de viviendas cuyo valor más alto entre el valor de adquisición y el indicado en el certificado de valor actual real, no exceda de 15 cuotas elevadas al año, siempre que el adquirente sea persona física y no sea propietario o poseedor de otro bien inmueble en el Estado.
 
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998) (F. DE E., P.O. 18 DE ENERO DE 1999)
+
+También se cubrirá la tarifa especial en las adquisiciones de vivienda cuyo valor más alto entre el valor de adquisición y el indicado en el certificado de valor actual real, no exceda de 9,398 cuotas, siempre que el adquirente sea jubilado o pensionado.
+
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 XIII.- En las adquisiciones que se realicen por causa de muerte.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+Cuando uno o más coherederos adquieran porciones mayores a la parte heredada consignada dentro del testamento o de la que le corresponda en los términos de Ley, cubrirán el impuesto sobre la parte excedente en los términos del Artículo 28 Bis.
+
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 XIV.- En las donaciones que se hagan entre ascendientes y descendientes en línea recta, así como en las que se hagan entre el adoptante y el adoptado, entre sus respectivos ascendientes y descendientes en línea recta, y entre éstos y aquéllos. En el caso de que el inmueble forme parte de la sociedad conyugal del ascendiente o del descendiente, la tarifa especial operará respecto de la totalidad de los derechos de la sociedad conyugal relacionados con el inmueble.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+XV.- En las adquisiciones realizadas por asociaciones religiosas, respecto de bienes destinados exclusivamente a sus fines.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -829,9 +845,13 @@ IX.- La cesión de derechos del heredero o legatario, cuando entre los bienes de
 
 X.- Enajenación a través de fideicomiso, en los términos del Código Fiscal del Estado. La transmisión de dominio de un inmueble, en ejecución de un fideicomiso, causará el Impuesto Sobre Adquisición de Inmuebles, salvo cuando ésta se haga en favor del o de los fideicomisarios designados en el acto constitutivo del fideicomiso, o de los adquirientes de los derechos del fideicomisario por cualquier título, siempre que en la constitución o adquisición se haya cubierto el impuesto correspondiente.
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-XI.- Las adquisiciones, derechos o renta a perpetuidad de los lotes en los panteones.
+XI.- En las adquisiciones, derechos o renta a cualquier plazo, de los lotes en los panteones.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+XII.- La realizada a través de la celebración de poderes irrevocables para actos de dominio siempre y cuando el apoderado no lo ejerza en el término de 6 meses.
 
 En las permutas se considerará que se efectúan dos adquisiciones.
 
@@ -856,6 +876,10 @@ I.- Para efectos de este impuesto, se utilizará el salario mínimo general de l
 Los certificados de valor actual real que expida la Secretaría de Finanzas y Tesorería General del Estado, caducarán en un plazo de tres meses, el que se interrumpirá al protocolizarse la adquisición.
 
 El certificado de valor actual real que se utilice para la determinación del impuesto, será el vigente al momento en que se protocolice la escritura, y en los casos en que no se requiera o se cumpla esta formalidad, se aplicará el que esté vigente al momento en que se pague el impuesto.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+El certificado de no propiedad deberá ser expedido dentro de los 30 días anteriores a la fecha de la protocolización de la escritura correspondiente.
 
 II.- Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
 
@@ -885,9 +909,9 @@ Los fedatarios no estarán obligados a enterar el impuesto cuando consignen en e
 
 IV.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1991)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-El enajenante responde solidariamente del impuesto que deba pagar el adquirente, cesando su responsabilidad desde el momento en que compruebe fehacientemente ante la Tesorería Municipal, mediante los elementos de prueba que ésta exija, que ha recibido el pago total del precio pactado en la operación de enajenación y que la falta de escrituración no le es imputable.
+El enajenante responde solidariamente del impuesto que deba pagar el adquirente, cesando su responsabilidad desde el momento en que compruebe fehacientemente ante la Tesorería Municipal, mediante los elementos de prueba que ésta exija, que ha recibido el pago total del precio pactado en la operación de enajenación, siempre y cuando la operación se haya elevado a escritura pública.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
@@ -925,9 +949,11 @@ c) Se realicen los supuestos de enajenación en los términos del Código Fiscal
 
 d) Se protocolice o inscriba el reconocimiento judicial de la prescripción positiva.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-II.- Dentro de los tres meses siguientes a aquél en que se presuma transmitido el dominio o celebrado el contrato prometido, en las adquisiciones previstas en el artículo 28 bis-2, fracciones II y III. Para este efecto, se presume transmitido el dominio o celebrado el contrato prometido cuando venza el plazo fijado en el contrato respectivo, salvo que se compruebe con instrumento público que el contrato fue rescindido.
+II.- Dentro de los tres meses siguientes a aquél en que se presuma transmitido el dominio o celebrado el contrato prometido, en las adquisiciones previstas en el Artículo 28 Bis-2, fracciones II y III. Para este efecto, se presume transmitido el dominio o celebrado el contrato prometido cuando venza el plazo fijado en el contrato respectivo, salvo que se compruebe con instrumento público que el contrato fue rescindido. En caso de que dichas adquisiciones se hagan constar en escritura pública, el impuesto deberá cubrirse dentro de los 30 días siguientes a la fecha de firma de la escritura y en el caso de que ésta llegara a rescindirse, operará lo dispuesto en el Artículo 23 del Código Fiscal del Estado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 Cuando estas operaciones se hayan celebrado respecto de una vivienda o suelo urbanizado, que el adquirente pretenda utilizar como casa-habitación propia y no se posea otro bien raíz en el Estado, tendrá derecho a una prórroga adicional de tres meses para pagar el impuesto generado a su cargo, debiendo en todo caso cubrir los intereses correspondientes al plazo, conforme a la tasa prevista por la Ley de Ingresos de los Municipios del Estado.
 
@@ -939,15 +965,17 @@ III.- Dentro de los treinta días siguientes al momento de efectuarse la cesión
 
 IV.- En los casos no previstos en las fracciones anteriores, dentro del mes siguiente a aquél en que los contratantes firmen la escritura pública correspondiente, y si no están sujetos a esta formalidad, a partir del momento en que se adquiera el dominio conforme a las leyes.
 
-El pago del impuesto no estará sujeto a previa calificación de la autoridad fiscal municipal, quien por sí no pondrá modificar el certificado de valor actual real que haya expedido la Secretaría de Finanzas y Tesorería General del Estado; sin perjuicio de los demás derechos de fiscalización que aquélla conserva.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+La autoridad fiscal municipal por sí no podrá modificar el certificado de valor actual real que haya expedido la Secretaría de Finanzas y Tesorería General del Estado; sin perjuicio de los demás derechos de fiscalización que aquélla conserva.
 
 Cada una de las Tesorerías Municipales de la Entidad podrá, si lo estima conveniente, designar representante ante la Secretaría de Finanzas y Tesorería General del Estado, que se encargue de emitir opinión sobre los valores reales actuales de las diferentes regiones que compongan su circunscripción.
 
 El impuesto se cubrirá en efectivo o mediante cheque certificado ante las oficinas receptoras de las Tesorerías Municipales donde se ubique el bien materia del impuesto o en las instituciones bancarias autorizadas por el Municipio correspondiente, localizadas en la circunscripción territorial del propio Municipio de que se trate. Cuando el pago se efectúe extemporáneamente, no podrá enterarse en instituciones bancarias.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-La Tesorería Municipal recibirá la nota oficial del Impuesto Sobre Adquisición de Inmuebles y devolverá al contribuyente una copia en la que se haga constar su recepción, debiendo aceptarse o rechazarse en un plazo no mayor de diez días hábiles, contados a partir del día siguiente al de su presentación. Transcurrido dicho plazo sin que se notifique el rechazo, la nota se tendrá por aceptada, sin perjuicio de las facultades de fiscalización que conserva la autoridad. Cuando no se haya cumplido con lo estipulado por esta Ley para la presentación de la nota o se requiera al Notario ante el que se tramita la escrituración del inmueble o al contribuyente para que proporcione algún otro elemento necesario para resolver, el término comenzará a correr a partir de que satisfagan tales requisitos. Para tales efectos, al presentar la declaración de Impuesto Sobre Adquisición de Inmuebles, se deberá proporcionar un domicilio dentro del municipio en donde se encuentre el inmueble.
+La Tesorería Municipal recibirá la nota oficial del impuesto sobre adquisición de inmuebles y devolverá al contribuyente una copia en la que se haga constar su recepción, debiendo aceptarse o rechazarse en un plazo no mayor de diez días hábiles, contados a partir del día siguiente al de su presentación. Transcurrido dicho plazo sin que se notifique el rechazo, la nota se tendrá por aceptada, sin perjuicio de las facultades de fiscalización que conserva la autoridad. Una vez aceptada la nota oficial, el municipio dará el aviso correspondiente a la Dirección de Catastro dentro de los 5 días hábiles siguientes a dicho evento, a fin de que se proceda a la actualización del padrón catastral.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1543,17 +1571,17 @@ IV.- Por cabeza de ganado porcino con peso de hasta 100 kilogramos 1 .5 cuotas
 
 V.- Por cabeza de ganado ovicaprino .5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-VI.- Por cabrito $ 7.00
+VI.- Por cabrito .25 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-VII.- Por ave, con excepción de guajolotes $ 1.00
+VII.- Por ave, con excepción de guajolotes .035 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-VIII.- Por guajolote $ 1.50
+VIII.- Por guajolote .053 cuotas
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
 
@@ -1577,21 +1605,21 @@ II.- Por cabeza de ganado mayor con peso de hasta 500 kilogramos 0.75 cuotas
 
 III.- Por cabeza de ganado porcino con más de 100 kilogramos de peso 0.5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-IV.- Por cabeza de ganado porcino con peso de hasta 100 kilogramos $.8.50
+IV.- Por cabeza de ganado porcino con peso de hasta 100 kilogramos .303 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-V.- Por cabeza de ganado ovicaprino $5.75
+V.- Por cabeza de ganado ovicaprino .205 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-VI.- Por cabrito $1.30
+VI.- Por cabrito .046 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-VII.- Por ave $.50
+VII.- Por ave .018 cuotas
 
 Cuando se trate de animales incompletos se causarán los derechos que establece este artículo si la carne que se presenta corresponde a más del 50% del animal. Si es menor se cobrará el 50% de la cuota.
 
@@ -1601,41 +1629,41 @@ Cuando se trate de animales incompletos se causarán los derechos que establece 
 
 Por servicios prestados en materia sanitaria por concepto de control de higiene de carnes frescas o refrigeradas, de ganado o aves:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-I.- Ganado mayor por canal $5.00
+I.- Ganado mayor por canal .178 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-II.- Ganado porcino por canal $3.70
+II.- Ganado porcino por canal .132 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-III.- Ganado ovicaprino por canal $1.50
+III.- Ganado ovicaprino por canal .053 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-IV.- Cabrito, por cada uno $1.00
+IV.- Cabrito, por cada uno .035 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-V.- Aves, por cada una $.35
+V.- Aves, por cada una .012 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-VI.- Guajolotes, por cada uno $1.00
+VI.- Guajolotes, por cada uno .035 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-VII.- Cabeza de res o cerdo $1.00
+VII.- Cabeza de res o cerdo .035 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-VIII.- Asadura, por pieza $.35
+VIII.- Asadura, por pieza .012 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-IX.- Menudo, por pieza $.35
+IX.- Menudo, por pieza .012 cuotas
 
 Cuando se trate de animales incompletos, se causarán los derechos que establece este Artículo si la carne que se presenta corresponde a más de 50% del animal, si es menor se cobrará el 50% de la cuota.
 
@@ -1883,33 +1911,33 @@ Quedan exentos de los Derechos señalados en el Artículo 52 de esta Ley, los en
 
 Por la inscripción de nuevos fraccionamientos o ampliaciones a los ya existentes, que apruebe el Gobierno del Estado, se cubrirán los siguientes derechos por metro cuadrado del área vendible:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-a) Fraccionamientos cuyos lotes tengan una superficie promedio mayor de 250 metros cuadrados $.65
+a) Fraccionamientos cuyos lotes tengan una superficie promedio mayor de 250 metros cuadrados .023 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-b) Fraccionamientos cuyos lotes tengan una superficie promedio entre 150 metros cuadrados y 250 metros cuadrados $.35
+b) Fraccionamientos cuyos lotes tengan una superficie promedio entre 150 metros cuadrados y 250 metros cuadrados .012 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-c) Fraccionamientos cuyos lotes tengan una superficie promedio menor de 150 metros cuadrados $.25
+c) Fraccionamientos cuyos lotes tengan una superficie promedio menor de 150 metros cuadrados .009 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-d) Cementerios ubicados en los Municipios de Guadalupe, Monterrey, San Nicolás de los Garza y San Pedro Garza García $.35
+d) Cementerios ubicados en los municipios de Apodaca, Guadalupe, Monterrey, San Nicolás de los Garza y San Pedro Garza García .012 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-e) Cementerios ubicados en el resto de los Municipios del Estado $.25
+e) Cementerios ubicados en el resto de los municipios del Estado .009 cuotas
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 Estos servicios incluyen la inscripción del plano del fraccionamiento, la aprobación de la nomenclatura de las calles y la asignación del número oficial de cada lote.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-Cuando lo solicite directamente el propietario del predio, la asignación del número oficial se hará al presentarse los planos de construcción para su aprobación ante la autoridad municipal competente, debiendo cubrirse la cantidad de $29.00 por concepto de derechos por este servicio.
+Cuando lo solicite directamente el propietario del predio, la asignación del número oficial se hará al presentarse los planos de construcción para su aprobación ante la autoridad municipal competente, debiendo cubrirse la cantidad de 1.24 cuotas por concepto de derechos por este servicio.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -1943,9 +1971,13 @@ La transmisión del dominio de la superficie cedida no requerirá de escrituraci
 
 Por expedición de certificados, autorizaciones, constancias o registros:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 I.- Por expedición de certificados y constancias, 1 cuota por cada uno.
+
+> <small>(F. DE E., P.O. 18 DE ENERO DE 1999)</small>
+
+Tratándose de constancias de no infracciones, relativas a control vehícular, .25 cuotas.
 
 > <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
 
@@ -2017,11 +2049,27 @@ g) Centros o clubes sociales, con expendio o consumo de cerveza, vinos y licores
 
 h) Centros o clubes sociales, con expendio o consumo de cerveza, vinos y licores, con un área mayor a 200 metros cuadrados de superficie construida, 426 cuotas.
 
-i) Hoteles, 600 cuotas.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-Para la aplicación de los derechos previstos en el artículo anterior, cuando en un establecimiento existan varios giros, se pagarán los derechos correspondientes para cada uno de ellos, con excepción de los hoteles y moteles en los que se cubrirán los derechos por el giro o actividad predominante.
+i) Hoteles con restaurante, en los que se expendan o consuman cervezas, vinos o licores 600 cuotas
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+j) Hoteles con restaurante y bar, en los que se expendan o consuman cervezas, vinos o licores 1000 cuotas
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+k) Hoteles con restaurante, bar y salones para evento, en los que se expendan o consuman cervezas, vinos o licores 1400 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+Para la aplicación de los derechos previstos en el artículo anterior, cuando un establecimiento existan varios giros, se pagarán los derechos correspondientes para cada uno de ellos.
 
 Si algún expendio de bebidas alcohólicas no encuadra específicamente en la clasificación contenida en dichos artículos, se equiparará a la que por sus características le sea más semejante.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+Se entiende por área de exposición al público, la totalidad de piso de venta a que tiene acceso el público, en un determinado establecimiento.
 
 > <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
 
@@ -2115,9 +2163,9 @@ XVII.- Radiolas, sinfonolas, tocadiscos, juegos electrónicos y futbolitos, N$55
 
 XVIII.- Establecimientos en donde existan mesas de billar, N$75.00 por unidad.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-Los derechos previstos en las fracciones I a V, serán aplicables únicamente a los establecimientos que expendan bebidas alcohólicas total o parcialmente a el público en general.
+Los derechos previstos en las fracciones I a V, serán aplicables únicamente a los establecimientos en los que se consuman o expendan bebidas alcohólicas total o parcialmente al público en general.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -2183,11 +2231,27 @@ g) Centros o clubes sociales, con expendio o consumo de cerveza, vinos y licores
 
 h) Centros o clubes sociales, con expendio o consumo de cerveza, vinos y licores, con un área mayor a 200 metros cuadrados de superficie construida, 150 cuotas.
 
-i) Hoteles, 400 cuotas.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-Para la aplicación de los derechos previstos en el artículo anterior, cuando en un establecimiento existan varios giros, se pagarán los derechos correspondientes para cada uno de ellos, con excepción de los hoteles y moteles en los que se cubrirán los derechos por el giro o actividad predominante.
+i) Hoteles con restaurante, en los que se expendan o consuman cervezas, vinos o licores 600 cuotas
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+j) Hoteles con restaurante y bar, en los que se expendan o consuman cervezas, vinos o licores 1000 cuotas
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+k) Hoteles con restaurante, bar y salones para evento, en los que se expendan o consuman cervezas, vinos o licores 1400 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+Para la aplicación de los derechos previstos en el artículo anterior, cuando (sic) un establecimiento existan varios giros, se pagarán los derechos correspondientes para cada uno de ellos.
 
 Si algún expendio de bebidas alcohólicas no encuadra específicamente en la clasificación contenida en dichos artículos, se equiparará a la que por sus características le sea más semejante.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+Se entiende por área de exposición al público, la totalidad de piso de venta a que tiene acceso el público, en un determinado establecimiento.
 
 > <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 27 DE DICIEMBRE DE 1996.</small>
 
@@ -2281,9 +2345,9 @@ XVII.- Radiolas, sinfonolas, tocadiscos, juegos electrónicos y futbolitos, N$35
 
 XVIII.- Establecimientos en donde existan mesas de billar, N$50.00 por unidad.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-Los derechos previstos en las fracciones I a V, serán aplicables, únicamente a los establecimientos que expendan bebidas alcohólicas total o parcialmente a el público en general.
+Los derechos previstos en las fracciones I a V, serán aplicables, únicamente a los establecimientos en los que se consuman o expendan bebidas alcohólicas total o parcialmente al público en general.
 
 ### CAPITULO VI. POR EXPEDICION DE CEDULA DE EMPADRONAMIENTO Y PATENTE MERCANTIL
 
@@ -2333,13 +2397,9 @@ I.- Por servicios de examen médico, de pericia, de verificación de datos propo
 
 Esta autorización sólo se expedirá cuando se obtenga la licencia por primera vez y cuando el conductor sobrepase la edad prevista en el Reglamento de Tránsito.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(DEROGADO TERCER PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-Permisos para manejar sin licencia o transitar sin placas, 2 cuotas.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-Dichos permisos serán provisionales y únicamente se otorgarán en caso de pérdida o robo de la licencia o placa respectivas, previa denuncia del particular ante las autoridades competentes.
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2357,9 +2417,9 @@ II.- Por inspecciones que previenen los Reglamentos a nivel municipal, de N$20.0
 
 III.- Por servicios de inspección sanitaria de animales que se transporten en vehículos de cualquier índole: N$40.00 por cabeza de ganado vacuno, caballar, asnar, mular y porcino, y N$.25 por cabeza de ganado cabrío o lanar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-IV.- Por servicios de revisión de documentación en las operaciones de adquisición de inmuebles, 6 cuotas.
+IV.- Por servicios de revisión de documentación en las operaciones de adquisición de inmuebles, 6 cuotas por cada inmueble.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -2415,13 +2475,13 @@ III.- Por cada novillada, N$550.00.
 
 IV.- Por temporada de atracciones, circos y demás espectáculos públicos, de N$35.00 a N$130.00.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-V.- Por licencia y medio de identificación oficial para anuncios que deberá quedar adherido al mismo, se pagarán por metro cuadrado de exposición $32.00.
+V.- Por licencia y medio de identificación oficial para anuncios que deberá quedar adherido al mismo, se pagarán por metro cuadrado de exposición, 10 cuotas.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-En ningún caso la cantidad a pagar por anuncio será inferior a 8.5 cuotas, ni superior a 30 cuotas. En el caso de anuncios cuya superficie de exposición esté compuesta de elementos electrónicos, el monto máximo será la cantidad de 44.5 cuotas.
+En ningún caso la cantidad a pagar por anuncio será inferior a 10 cuotas, ni superior a 500 cuotas. En el caso de anuncios cuya superficie de exposición esté compuesta de elementos electrónicos, el monto máximo será la cantidad de 750 cuotas.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2433,31 +2493,31 @@ No estarán obligados al pago de este derecho por los anuncios ubicados en el es
 
 Serán responsables solidarios en la causación de este derecho, el sujeto anunciado y el dueño del predio en el que esté ubicada físicamente la estructura o la superficie en que se adhiera o coloque el anuncio.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+Por licencia para la utilización de equipamiento urbano o la vía pública para colocar o adherir anuncios publicitarios o de propaganda de cualquier tipo, que se dé a conocer mediante carteles, pendones y demás medios gráficos, se pagará .4 cuotas por metro cuadrado de exposición por día.
+
 (REUBICADO, P.O. 31 DE DICIEMBRE DE 1986)
 
 ### CAPITULO IX. POR LIMPIEZA DE LOTES BALDIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE JULIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 65.
 
-Los propietarios de predios baldíos ubicados dentro del perímetro del área urbana de una Ciudad, Villa o Congregación, deberán efectuar la limpieza de su inmueble dos veces al año, a más tardar en los meses de Marzo y Septiembre respectivamente. De no ser así, el Municipio podrá efectuar el servicio, debiendo el propietario cubrir el costo que represente al Municipio la prestación de este servicio, conforme a la siguiente tarifa por metro cuadrado:
+Los propietarios de predios baldíos ubicados dentro del perímetro del área urbana de una ciudad, villa o congregación, deberán mantenerlos limpios, desmontados y deshierbados, cuando la altura de la hierba rebase 30 centímetros, debiendo informar a la autoridad de los trabajos realizados. De no ser así, el municipio podrá efectuar el servicio de limpieza, debiendo el propietario cubrir el costo que represente al municipio la prestación de este servicio, conforme a la siguiente tarifa por metro cuadrado:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+a) Predios con superficie hasta 1,000 metros cuadrados .122 cuotas
 
-a) Predios con superficie de hasta 1,000 metros cuadrados $3.00
+b) Por el excedente de 1,000 metros cuadrados, por cada metro cuadrado excedente .110 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+Para los efectos de este artículo deberá entenderse por:
 
-b) Por el excedente de 1,000 metros cuadrados, por cada metro cuadrado excedente $2.70
+Monte.- Cuando existan arbustos de tallo leñoso, cuyo diámetro sea inferior a 5 centímetros.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+Hierba.- Plantas de cualquier tipo con tallo herbáceo.
 
-Para los efectos de este artículo, por predio baldío se entiende aquél que no tiene construcciones permanentes, cuenta con trazado de calles y es susceptible de recibir los servicios públicos de agua y energía eléctrica. Tratándose de predios ubicados en nuevos fraccionamientos, además de los requisitos señalados con anterioridad, para considerarse baldíos deberán encontrarse ocupados más del 50% de los predios del fraccionamiento.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
-
-Una vez transcurridos los meses a que se refiere el primer párrafo de este artículo, el Municipio impondrá y notificará a los omisos una multa equivalente al 50% de los derechos correspondientes, apercibiéndoles que de no dar cumplimiento dentro del mes siguiente, el Municipio podrá iniciar los trabajos respectivos y que, en tal eventualidad deberán cubrir los derechos previstos en este precepto.
+Se entenderá que un lote baldío requiere limpieza, cuando el monte o hierba sobrepasen una altura de 30 centímetros o cuando exista basura, escombro, animales muertos, vehículos u objetos abandonados.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -2469,31 +2529,33 @@ Una vez transcurridos los meses a que se refiere el primer párrafo de este art�
 
 Por el servicio de limpia y recolección de desechos industriales y comerciales que preste el Municipio, se cobrará por cada inmueble ubicado en el Municipio, por mes:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-a) Inmuebles que en promedio generen hasta 25 kilogramos
+a) Inmuebles que en promedio generen hasta 5 kilogramos diarios de basura 1 cuota
 
-diarios de basura 3 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+b) Inmuebles que en promedio generen más de 5 kilogramos y hasta 10 kilogramos diarios de basura 2 cuotas
 
-b) Inmuebles que en promedio generen más de 25 kilogramos y hasta
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-50 kilogramos diarios de basura 6 cuotas
+c) Inmuebles que en promedio generen más de 10 kilogramos y hasta 25 kilogramos diarios de basura 3 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-c) Inmuebles que en promedio generen más de 50 kilogramos y hasta
+d) Inmuebles que en promedio generen más de 25 kilogramos y hasta 50 kilogramos diarios de basura 6 cuotas
 
-100 kilogramos diarios de basura 13 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+e) Inmuebles que en promedio generen más de 50 kilogramos y hasta 100 kilogramos diarios de basura 13 cuotas
 
-d) Inmuebles que en promedio generen más de 100 kilogramos y hasta
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-200 kilogramos diarios de basura 25 cuotas
+f) Inmuebles que en promedio generen más de 100 kilogramos y hasta 200 kilogramos diarios de basura 25 cuotas
 
-e) Inmuebles que en promedio generen más de 200 kilogramos de basura o el equivalente a tres metros cúbicos diarios, el cobro será fijado de común acuerdo entre el Municipio y el particular, en función al costo que represente la prestación del servicio.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+g) Inmuebles que en promedio generen más de 200 kilogramos de basura o el equivalente a tres metros cúbicos diarios, el cobro será fijado de común acuerdo entre el municipio y el particular, en función al costo que represente la prestación del servicio.
 
 Si el servicio se presta solamente hasta tres veces por semana, se pagará el 50% de la cuota.
 
@@ -2503,9 +2565,11 @@ Estarán exentos del pago de esta contribución en los casos de casas-habitació
 
 Las personas físicas o morales obligadas al pago de esta contribución, al inscribirse en la Tesorería Municipal, declararán el volumen promedio diario de basura que generen, pudiendo en su caso solicitar la modificación de la cuota que cubran, debido a un aumento o disminución en el promedio diario de basura que generen. En este caso, la Tesorería Municipal previa comprobación y verificación, modificará la cuota a cargo del particular, con efectos a partir del mes siguiente a aquél en que esto ocurra.
 
-> <small>(DEROGADO PENULTIMO PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
 Este derecho se pagará por mes, dentro de los primeros 15 días naturales del mismo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+En el caso de los contribuyentes mencionados en los incisos a) y b), deberán efectuar el pago en forma anual y anticipada, a más tardar en el mes de marzo.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -2517,11 +2581,11 @@ Este derecho se pagará por mes, dentro de los primeros 15 días naturales del m
 
 Por ocupación de la vía pública:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-I.- Por ocupar la vía pública con sillas, mesas y toda clase de instalaciones fijas o semifijas, se pagarán $0.40 diarios por metro cuadrado completo.
+I.- Por ocupar la vía pública con sillas, mesas y toda clase de instalaciones fijas o semifijas, se pagarán .016 cuotas diarias por metro cuadrado completo.
 
-Otras ocupaciones de la vía pública, se pagarán $2.00 diarios por metro cuadrado completo.
+Otras ocupaciones de la vía pública, se pagarán .081 cuotas diarias por metro cuadrado completo.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2545,9 +2609,9 @@ Se exceptúan de lo anterior, los lugares en donde se encuentren instalados parq
 
 IV.- Por estacionamientos de vehículos en la vía pública, en aquellos lugares donde existen instalados parquímetros, por cada hora o fracción, $2.00.
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-V.- Por ocupar la vía pública los organismos descentralizados del Gobierno Federal, Estatal o Municipal y las personas físicas o morales con toda clase de construcciones o instalaciones permanentes o semipermanentes, pagarán $0.50 mensuales por metro cuadrado o fracción.
+V.- Por ocupar la vía pública los organismos descentralizados del gobierno federal, estatal o municipal y las personas físicas o morales, con toda clase de construcciones o instalaciones permanentes o semipermanentes, pagarán .020 cuotas mensuales por metro cuadrado o fracción.
 
 VI.- No especificados.
 
@@ -2715,9 +2779,9 @@ Las infracciones a la presente Ley, que no estén consignadas en disposiciones e
 
 La morosidad en el pago de cualquier Impuesto, Derecho o Aprovechamiento, causará recargos en los términos fijados por la Ley de Ingresos para los Municipios del Estado, a partir de la fecha en que aquéllos sean exigibles.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-Los recargos no excederán del límite señalado en el Código Fiscal del Estado. Se considera que el pago es espontáneo cuando se realice sin haber mediado gestión de autoridad.
+Los recargos no excederán del limite señalado en el Código Fiscal del Estado. Se considera que el pago es espontaneo cuando se realice sin haber mediado gestión de autoridad. Los créditos fiscales se actualizaran en los términos del Código Fiscal.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
 
@@ -2767,9 +2831,11 @@ Para la aplicación de los derechos previstos en los artículos 58 y 59 de esta 
 
 Si algún expendio de bebidas alcohólicas no encuadra específicamente en la clasificación contenida en dichos artículos, se equiparará a la que por sus características le sea más semejante.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 92.
 
-Queda facultado el C. Presidente Municipal, para directamente o a través del C. Tesorero Municipal, disminuir o aún condonar los recargos y las sanciones que deban imponerse.
+Queda facultado el C. Presidente Municipal para disminuir o aún condonar los recargos y las sanciones que deban imponerse, así como el monto de la actualización que deba aplicarse conforme al Código Fiscal del Estado, informando trimestralmente al Ayuntamiento para su ratificación respecto de cada uno de los subsidios otorgados, mediante reporte escrito que deberá ser debidamente fundado y motivado.
 
 ## TRANSITORIOS
 
@@ -2823,9 +2889,9 @@ a) 6% sobre el valor comercial de los premios en el caso del inciso a) del artí
 
 Tratándose de artículos de propaganda comercial, se pagará el 10% sobre el valor de los artículos rifados.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-El Impuesto se cubrirá en el Municipio en cuya circunscripción territorial se vendan los boletos para la realización de las actividades gravadas.
+El impuesto se cubrirá en el Municipio en cuya circunscripción territorial se vendan los boletos para la realización de las actividades gravadas o se expidan los boletos a título gratuito o condicionados al cumplimiento de algún requisito, entre otros, a la contratación de un servicio, a la adquisición de determinado producto o hasta determinada cantidad de compra, de pago o de depósito.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3138,3 +3204,15 @@ SEGUNDO.- Durante el año de 1998, el Impuesto Sobre Adquisición de Inmuebles s
 Esta tarifa sólo será aplicable siempre y cuando el inmueble se encuentre al corriente en el pago de los impuestos y derechos que le correspondan.
 
 TERCERO.- Los derechos previstos en el artículo 52 bis, fracción V, inciso b), numeral 7, se aplicarán exclusivamente a los trámites urbanísticos que se inicien a partir de la vigencia del presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 1998.
+
+Primero.- El presente Decreto entrará en vigor a partir del 1o. de Enero de 1999.
+
+Segundo.- Durante el año de 1999, el impuesto sobre adquisición de inmuebles se cubrirá a una tarifa especial de 60 cuotas por cada inmueble, en las adquisiciones provenientes de dación en pago o adjudicación judicial o fiduciaria, tratándose de contribuyentes que por disposición legal no pueden conservar la propiedad de dichos bienes, tales como Instituciones Bancarias o Nacionales de Crédito, Organizaciones Auxiliares de Crédito y Casas de Bolsa.
+
+Esta tarifa sólo será aplicable siempre y cuando el inmueble se encuentre al corriente en el pago de los impuestos y derechos que le correspondan, siempre que éstos se cubran a más tardar en el mes siguiente a partir de la fecha de la firma de la escritura correspondiente, conforme al Artículo 28 Bis-4, fracción IV, de esta Ley.
+
+Tercero.- Tratándose de operaciones anteriores a 1994, podrá utilizarse para el cálculo del impuesto sobre adquisición de inmuebles, el certificado de valor actual real vigente, aplicándose la tasa vigente a la fecha de operación, con los recargos y demás accesorios, que se hubieren generado hasta la fecha de pago del impuesto.
+
+Cuarto.- La obligación de dar aviso a la Dirección de Catastro a que se refiere el Artículo 28 Bis-4, quinto párrafo, únicamente se aplicará a los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, Nuevo León.
