@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-justicia-administrativa-y-del-tribunal-de-lo-5160"
 country: "mx"
 rank: "ley"
 publication_date: "1987-07-07"
-last_updated: "1987-09-25"
+last_updated: "1991-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE JUSTICIA ADMINISTRATIVA Y DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 7 de julio de 1987.
 
@@ -921,6 +921,16 @@ Las audiencias de las Salas Regionales serán públicas, exceptuando los casos e
 
 Las atribuciones de los Presidentes de Sala, Secretarios, Actuarios y Secretarios de Compilación y Difusión serán establecidas en el Reglamento Interior del Tribunal.
 
+> <small>(ADICIONADO, CON EL ARTICULO QUE LO INTEGRA, P.O. 26 DE FEBRERO DE 1991)</small>
+
+### CAPITULO V. DE LOS ASESORES Y COMISIONADOS
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
+
+###### ARTICULO 112.
+
+Cuando la Sala Superior o las Salas Regionales conozcan de violaciones a los derechos de los administrados en municipalidades diversas a su sede, pero dentro de su ámbito territorial jurisdiccional enviarán a un Asesor Comisionado para orientar a los posibles quejosos respecto de la aplicación y alcance de esta Ley y, en su caso, recibirán las promociones correspondientes.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -976,3 +986,7 @@ Rúbrica.
 P.O. 25 DE SEPTIEMBRE DE 1987.
 
 UNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE FEBRERO DE 1991.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
