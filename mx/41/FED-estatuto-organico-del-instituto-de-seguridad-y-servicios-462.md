@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "1999-08-23"
+last_updated: "2000-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE AGOSTO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE OCTUBRE DE 2000.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -768,25 +768,35 @@ Los Subdirectores Generales y Coordinadores Generales, se auxiliarán por Subdir
 
 #### SECCION SEGUNDA. DE LAS SUBDIRECCIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 4 DE OCTUBRE DE 2000)</small>
+
 ###### ARTICULO 45.
 
 La Subdirección General Médica tendrá las funciones siguientes:
 
-I.- Planear, organizar, normar, coordinar y controlar los servicios de atención médica, de diagnóstico, preventiva, curativa, quirúrgica, hospitalaria, odontológica, farmacéutica y de rehabilitación que otorga el Instituto, en sus diferentes niveles de atención;
+I.- Planear, organizar, normar, coordinar, controlar y evaluar, con base en las políticas institucionales y sectoriales, el Sistema Institucional de Servicios de Salud para garantizar que el otorgamiento de los seguros, prestaciones y servicios establecidos en la Ley, se efectúen de manera ágil, oportuna y eficaz en beneficio de la población derechohabiente;
 
-II.- Proporcionar atención médica a los derechohabientes del Instituto sujetos al régimen de su Ley y participar en los programas nacionales en materia de salud;
+II.- Establecer las políticas, programas y acciones dirigidas a la población derechohabiente en materia de salud, y definir conjuntamente, las que requieran de la participación coordinada de las unidades administrativas competentes;
 
-III.- Proporcionar los servicios de rehabilitación física y mental a minusválidos derechohabientes del Instituto;
+III.- Formular las políticas, normas, programas, sistemas, manuales y procedimientos, en el ámbito de la salud, a que deben sujetarse las delegaciones y unidades médicas desconcentradas y, en su caso, recabar la autorización de la unidad administrativa competente;
 
-IV.- Elaborar programas de enseñanza y fomentar la investigación científica, en aspectos de atención, conservación y recuperación de la salud;
+IV.- Difundir los programas institucionales; los sectoriales y especiales que determine el Ejecutivo Federal en materia de salud y la normatividad aplicable; asesoras a las delegaciones y unidades médicas desconcentradas sobre su aplicación y ejecución, así como vigilar su cumplimiento;
 
-V.- Vigilar la prestación de los servicios médicos subrogados, para mantener el nivel de calidad institucional;
+V.- Proponer acciones en el ámbito de la salud para la atención preferencial de pensionados, jubilados, discapacitados y grupos vulnerables, así como en materia de medicina del trabajo;
 
-VI.- Elaborar, operar y actualizar el sistema de información médica;
+VI.- Planear, normar, coordinar, aprobar, controlar y evaluar las acciones de formulación y educación médica continua de los recursos humanos para la salud; el cumplimiento e impacto de las acciones de investigación clínica, biomédica, epidemiológica y en servicios de salud que desarrollen las delegaciones y unidades médicas desconcentradas, así como promover el intercambio académico y de servicios con instituciones públicas o privadas;
 
-VII.- Conceder licencias e incapacidades médicas en los términos y condiciones establecidos en la Ley y el Reglamento respectivo; y
+VII.- Elaborar los programas opeativo anual y de avance físico-financiero del presupuesto central del fondo de atención a la salud y promover acciones de mejoramiento, modernización y simplificación administrativa;
 
-VIII.- Las demás que señalen otras disposiciones aplicables.
+VIII.- Desarrollar y coordinar la operación de los sistemas de información de servicios de salud y de vigilancia epidemiológica en el ámbito institucional;
+
+IX.- Determinar las necesidades de obra y equipamiento de las unidades médicas del instituto, así como validar su ejecución y adquisición;
+
+X.- Establecer las políticas en materia de administración y asignación de recursos humanos para la salud;
+
+XI.- Determinar, establecer y gestionar las necesidades de insumos para la salud que requieran las unidades médicas;
+
+XII.- Las demás que señalen otras disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
 
@@ -1709,3 +1719,9 @@ SEGUNDO.- Cuando en este Estatuto se dé una denominación nueva o distinta a al
 TERCERO.- En su oportunidad, inscríbanse las presentes reformas, adiciones y derogaciones en el Registro Público de Organismos Descentralizados.
 
 CUARTO.- En un plazo máximo de sesenta días a partir de la fecha de publicación de las presentes reformas, adiciones y derogaciones, deberán expedirse los manuales de organización y procedimientos correspondientes.
+
+D.O.F. 4 DE OCTUBRE DE 2000.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En su oportunidad, inscríbase la presente reforma en el Registro Público de Organismos Descentralizados.
