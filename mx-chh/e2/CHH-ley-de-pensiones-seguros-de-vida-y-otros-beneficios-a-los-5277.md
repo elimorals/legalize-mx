@@ -1,0 +1,128 @@
+---
+title: "LEY DE PENSIONES, SEGUROS DE VIDA Y OTROS BENEFICIOS A LOS VETERANOS DE LA REVOLUCION MEXICANA"
+identifier: "CHH-ley-de-pensiones-seguros-de-vida-y-otros-beneficios-a-los-5277"
+country: "mx"
+rank: "ley"
+publication_date: "1960-11-19"
+last_updated: "1960-11-19"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5277&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-chh"
+scjn_id: "5277"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "ALCANCE AL No. 93"
+reform_count: "3"
+scjn_last_update: "2017-09-06"
+issue_date: "1960-11-19"
+state: "CHH"
+---
+# LEY DE PENSIONES, SEGUROS DE VIDA Y OTROS BENEFICIOS A LOS VETERANOS DE LA REVOLUCION MEXICANA
+
+LEY DE PENSIONES, SEGUROS DE VIDA Y OTROS BENEFICIOS A LOS VETERANOS DE LA REVOLUCION MEXICANA
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 1960.
+
+TEOFILO BORUNDA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
+
+Que el Honorable Congreso del Estado, se ha servido expedir el siguiente DECRETO:
+
+EL XVI CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, DECRETA:
+
+LEY DE PENSIONES, SEGUROS DE VIDA Y OTROS BENEFICIOS A LOS VETERANOS DE LA REVOLUCION MEXICANA
+
+###### Artículo 1o.
+
+La presente Ley es de observancia general para todas las autoridades y funcionarios integrantes de los Poderes Legislativo, Ejecutivo y Judicial del Estado, obligando igualmente a las Autoridades Municipales.
+
+###### Artículo 2o.
+
+El Gobierno del Estado, en justo reconocimiento a los méritos de los ciudadanos chihuahuenses que tomaron participación activa en la Revolución Mexicana, otorga en su favor las siguientes prestaciones:
+
+I.- Preferencia para ocupar empleos en los Gobiernos del Estado y Municipales, sin perjuicio de su pensión, en caso de tenerla.
+
+Los veteranos burócratas tendrán también prioridad en los ascensos de la unidad donde presten sus servicios.
+
+II.- Pensión vitalicia de $300.00 mensuales.
+
+III.- Servicio médico-quirúrgico gratuito en las instituciones oficiales, incluyendo hospitalización y medicamentos para el veterano y sus familiares consanguíneos en línea recta.
+
+IV.- Seguro de vida por la cantidad de $5,000.00.
+
+VI.- El Estado procurará honrar en vida a los Veteranos de la Revolución, concediéndoles diplomas y condecoraciones en aquellas ocasiones que procedan.
+
+VII.- Se concede un subsidio equivalente al 50% del impuesto predial a favor de los veteranos que tengan casa habitación propia o pequeña propiedad rústica.
+
+VIII.- El Estado, de acuerdo con sus posibilidades económicas, se propone el establecimiento de lugares de descanso y de recuperación para Veteranos, en los sitios más apropiados a juicio de la Comisión Consultiva.
+
+IX.- Los Veteranos de la Revolución tienen derecho profesional, para obtener un lote para el establecimiento de granjas agrícolas o ganaderas, como patrimonio familiar. En las zonas urbanas, también tienen derecho a la obtención de un terreno para edificación de su propia habitación.
+
+El Estado y los Municipios, de acuerdo con sus posibilidades, harán cesión gratuita de tales terrenos sin perjuicio de terceros. Cuando se trate de terrenos de la Nación, el Gobierno del Estado hará las gestiones necesarias ante el Ejecutivo Federal.
+
+X.- Los hijos menores de los veteranos beneficiados por esta Ley, tienen preferencia en igualdad de condiciones, para ser admitidos en los planteles educativos del Estado, oficiales o particulares, y gozarán de becas cuando así lo permitan las posibilidades del Estado o de las instituciones educativas.
+
+###### Artículo 3o.
+
+Para los efectos de esta ley, son Veteranos de la Revolución las personas que comprueben haber presentado servicio a la Revolución Mexicana entre el 19 de noviembre de 1910 y el 5 de febrero de 1917, siempre que tales servicios hayan sido en campaña o en colaboración activa con la misma, y que hayan sido reconocidos como tales por la Secretaría de la Defensa Nacional.
+
+###### Artículo 4o.
+
+Se considerarán ciudadanos chihuahuenses con derecho a los beneficios establecidos por esta Ley, a quienes estando comprendidos en lo que dispone el artículo anterior, reúnan además los siguientes requisitos:
+
+a).- Haber nacido en el territorio del Estado o ser hijos de padres chihuahuenses, aún cuando su actuación revolucionaria se haya desarrollado fuera de esta entidad federativa.
+
+b).- En defecto de lo que establece el inciso anterior, veteranos que sean originarios de otras entidades de la República Mexicana pero que hayan adquirido vecindad en el Estado de Chihuahua mediante un mínimo de veinte años de residencia habitual en su territorio.
+
+c).- Tener y conservar su domicilio permanente dentro del Estado.
+
+d). Tener un modo honesto de vivir y no haber sido condenado por autoridades judiciales en delitos que merezcan sanciones corporales.
+
+###### Artículo 5o.
+
+Con el propósito de coadyuvar en el reconocimiento por parte de la Secretaría de la Defensa Nacional, de aquellos veteranos que tengan derecho a ello, se crea la Comisión Consultiva del Estado.
+
+###### Artículo 6o.
+
+La Comisión a que se refiere el artículo anterior se integrará por tres miembros, dos de los cuales serán Veteranos designados por la Delegación Estatal de la Unificación de Veteranos de la Revolución y el otro, el representante del Gobernador del Estado, que fungirá como Presidente a dicho organismo.
+
+###### Artículo 7o.
+
+La Comisión Consultiva del Estado tendrá las siguientes atribuciones:
+
+a).- Reunir la documentación necesaria para integrar los expedientes que correspondan a Veteranos de la Revolución que todavía no hayan sido reconocidos por la Secretaría de la Defensa Nacional.
+
+b).- Rendir el dictamen que corresponde en cada caso.
+
+c).- Remitir los expedientes y dictámenes relativos a la Secretaría de la Defensa Nacional gestionando ante la misma los reconocimientos que procedan.
+
+d).- Vigilar el cumplimiento de la presente Ley por parte de las autoridades y funcionarios a quienes corresponda su aplicación.
+
+e).- Coadyuvar con dichas autoridades en la interpretación y resolución de los casos dudosos.
+
+###### Artículo 8o.
+
+Las pensiones, pólizas y demás beneficios que se establecen en esta Ley serán pagados con cargo a la partida respectiva que para este efecto deberá establecerse en la Ley de Egresos de cada año.
+
+## TRANSITORIOS.
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Al entrar en vigor este ordenamiento se integrará de inmediato la Comisión Consultiva del Estado.
+
+TERCERO.- Se concede a la Comisión Consultiva un plazo que fenecerá el 31 de diciembre de 1961 para presentar al Ejecutivo del Estado la relación depurada de los veteranos chihuahuenses reconocidos definitivamente por la Secretaría de la Defensa Nacional.
+
+CUARTO.- Las pensiones vitalicias a que se refiere el artículo 2o., Fracción II de la Ley, principiarán a pagarse a partir del 1º. de enero de 1962.
+
+DADO en el Palacio del Poder Legislativo, a los diecinueve días del mes de noviembre de mil novecientos sesenta.
+
+DIPUTADO PRESIDENTE.- PROFR. HECTOR SANCHEZ C.- DIPUTADO SECRETARIO.- ARMANDO GONZALEZ SOTO.- DIPUTADO SECRETARIO.- IGNACIO DUARTE TARIN.
+
+Por lo tanto mando se imprima, publique, circule, y se le dé el debido cumplimiento.
+
+Palacio de Gobierno del Estado.- Chihuahua, 19 de noviembre de 1960.
+
+TEOFILO BORUNDA.- El Srio. Gral. De Gbno., LIC. JOSE LUIS SIQUEIROS.
