@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1993-08-28"
+last_updated: "1994-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 1994.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1893,17 +1893,21 @@ II.- Por falta o incapacidad de los hermanos, a los demás colaterales dentro de
 
 ### CAPITULO V. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DEPOSITADOS EN ESTABLECIMIENTOS DE BENEFICENCIA
 
-469.- La ley coloca a los expósitos bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1994)</small>
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+469.- La ley coloca a los expósitos bajo la tutela de la Procuraduría de la Defensa del Menor y la Familia o Sistema para el Desarrollo Integral de la Familia, en los términos del Código para la Protección y Defensa del Menor; los cuales tendrán las obligaciones, facultades y restricciones establecidas para los demás tutores; sin embargo, no tendrán obligación de otorgar caución para el desempeño de su encargo ni para la administración de los bienes del menor, en su caso.
 
-470.- Los directores de los hospicios y demás casas de beneficencia donde se reciban expósitos, desempeñarán la tutela de éstos, con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento. En este caso no es necesario el discernimiento del cargo.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1994)</small>
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+470.- Los directores de los hospicios y demás casas de beneficencia donde se reciban expósitos, deberán de comunicarlo en los términos que establece el Código para la Protección y Defensa del Menor, para que las instituciones que ese ordenamiento señala se avoquen al desempeño de la tutela de aquellos con arreglo a las leyes.
 
-471.- Los menores incapacitados que se encuentren bajo la patria potestad o la tutela en los términos de este Código y que hayan sido recogidos en hospicios y demás casas de beneficencia pública o privada, quedarán bajo la custodia y guarda de los directores de éstos, teniendo el derecho de asistirlos, educarlos y corregirlos convenientemente. Después de transcurridos seis meses, los que ejerzan la patria potestad o la tutela sólo podrán recuperar la guarda y custodia mediante resolución judicial, en el caso de negativa del establecimiento.
+(REFORMADO, P.O. 2 DE FEBRERO DE 1994) (F. DE E., P.O. 29 DE JULIO DE 2000)
 
-En caso de adopción, independientemente del consentimiento regulado en el artículo 374 de este Código, deberá oírse a los directores o encargados de estos establecimientos.
+471.- Los menores o incapacitados que se encuentran bajo la patria potestad o la tutela en los términos de este Código y que hayan sido recogidos en hospicios y demás casas de beneficencia pública o privada, quedarán bajo la custodia y guarda de los directores de éstos, teniendo el derecho de asistirlos, educarlos y corregirlos convenientemente, de acuerdo a los lineamientos que en efecto dicte la Procuraduría de Defensa del Menor y la Familia o el Sistema para el Desarrollo Integral de la Familia, según corresponda, teniendo estos últimos la representación del menor para todos los efectos legales.
+
+Después de transcurrido seis meses, los que ejerzan la patria potestad o la tutela sólo podrán recuperar la guarda y custodia mediante resolución judicial, en caso de negativa de estas instituciones.
+
+En caso de adopción, independientemente del procedimiento señalado en el Código para la Protección y Defensa del Menor, deberá oírse a los directores o encargado de aquellos establecimientos.
 
 ### CAPITULO VI. DE LA TUTELA DATIVA
 
@@ -9380,3 +9384,13 @@ P.O. 28 DE AGOSTO DE 1993.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE FEBRERO DE 1994.
+
+PRIMERO.- ESTA LEY ENTRARA EN VIGOR A LOS VEINTE DIAS SIGUIENTES DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+
+SEGUNDO.- SE DEROGAN LAS DISPOSICIONES CONTENIDAS EN EL LIBRO SEXTO, TERCERA PARTE DEL CODIGO ADMINISTRATIVO DEL ESTADO.
+
+TERCERO.- LA SUBSTANCIACION DE LOS ASUNTOS QUE SE ENCUENTRAN PENDIENTES EN LOS TRIBUNALES SE SUJETARAN AL PROCEDIMIENTO ANTERIOR HASTA PRONUNCIARSE RESOLUCION.
+
+CUARTO.- SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE CODIGO.
