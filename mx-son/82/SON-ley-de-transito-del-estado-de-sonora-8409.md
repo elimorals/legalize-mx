@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transito-del-estado-de-sonora-8409"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-27"
-last_updated: "1996-12-30"
+last_updated: "2000-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRANSITO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE MAYO DE 2000.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 27 de febrero de 1984.
 
@@ -1195,6 +1195,14 @@ Se prohibe la circulación de vehículos, en la noche, a aquellos que por sus ca
 
 Ninguna persona conducirá un vehículo de motor sin llevar asido firmemente con ambas manos el control de dirección, ni llevará a su izquierda o entre sus brazos ninguna persona o bulto, ni permitirá que otra persona tome el control de dirección o dificulte esta maniobra.
 
+> <small>(ADICIONADO, B.O. 8 DE MAYO DE 2000)</small>
+
+Es obligatorio para todo conductor, así como para sus acompañantes, utilizar el cinturón de seguridad a que se refiere el artículo 69 de esta Ley, cuando el vehículo esté en marcha.
+
+> <small>(ADICIONADO, B.O. 8 DE MAYO DE 2000)</small>
+
+Los menores de 6 años de edad deberán viajar preferentemente en el asiento trasero del vehículo y en un asiento de seguridad para niños, debiendo sujetarlos con el cinturón de seguridad para adultos, siguiendo las instrucciones del fabricante del vehículo y del asiento de seguridad señaladas para ese efecto.
+
 ###### ARTICULO 109.
 
 Queda prohibido a los conductores de vehículos, transitar sobre las rayas longitudinales marcadas en la superficie de rodamiento, que delimiten los carriles de circulación.
@@ -1591,7 +1599,7 @@ III.- Frente a una entrada de vehículos.
 
 IV.- Entre una zona de seguridad y la acera adyacente o a menos de 10.00 metros atrás o adelante de ese lugar.
 
-V.- A menos de 5.00 metros atrás o delante de un hidrante.
+V.- A menos de 5.00 metros atrás o adelante de un hidrante.
 
 VI.- A menos de 5.00 metros de la entrada de una estación de bomberos o en la orilla opuesta a menos de 25.00 metros.
 
@@ -2513,6 +2521,8 @@ e) Por circular cualquier vehículo con el escape abierto, o produciendo por aco
 
 f) Por circular vehículos que excedan en los límites autorizados en el largo, ancho y alto de la unidad, así como transportar carga excediéndose en la altura permitida o que sobresalga la carga por la parte posterior y lateral, sin el señalamiento correspondiente.
 
+Tratándose de los vehículos de transporte de carga pesada que no cuenten con el permiso del departamento de tránsito para circular en las vías de jurisdicción de cualquier municipio, se sancionarán con multa de cien a trescientas veces el salario mínimo general diario vigente en la capital del Estado.
+
 g) Por realizar sin causa justificada una frenada brusca, sin hacer la señal correspondiente, provocando con ello un accidente o connato de él.
 
 h) Por diseminar carga en la vía pública, no cubrirla con lona cuando sea susceptible de esparcirse, o se transporten objetos repugnantes a la vista o al olfato, así como arrojar basura en la vía pública, el conductor o permitir o no advertirlo a sus pasajeros.
@@ -2525,7 +2535,7 @@ k) Por circular los vehículos de servicio público de pasaje:
 
 1.- Sin el número económico en lugar visible y conforme a las dimensiones, color de la unidad e indicaciones que al efecto establezca la Dirección de Transporte del Estado.
 
-2.- Falta de identificación del tipo de servicio que se presta y cuando proceda el nombre de la ruta.
+2.- Falta de identificación del tipo de servicio que presta y cuando proceda el nombre de la ruta.
 
 ###### ARTICULO 236.
 
@@ -2535,7 +2545,9 @@ a) Por no tomar el carril correspondiente para dar vuelta a la izquierda, o cons
 
 b) Cambiar intempestivamente de un carril a otro, cruzando la trayectoria de otro vehículo y provocando ya sea, un accidente, una frenada brusca o la desviación de otro vehículo.
 
-c) Transitar con cualquier clase de vehículos que no reúnan las condiciones mínimas de funcionamiento y los dispositivos que exige esta ley.
+> <small>(REFORMADO, B.O. 8 DE MAYO DE 2000)</small>
+
+c) No utilizar el cinturón de seguridad, contraviniendo lo dispuesto por el artículo 108 de esta Ley y, transitar con cualquier clase de vehículos que no reúnan las condiciones mínimas de funcionamiento y los dispositivos de seguridad exigidos por esta Ley.
 
 d) No guardar la distancia conveniente con el vehículo de adelante.
 
@@ -2750,3 +2762,9 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 ###### ARTICULO SEGUNDO.
 
 Los actuales Jefes y Oficiales Superiores de las Policías de Tránsito Municipales, seguirán en funciones hasta en tanto los ayuntamientos actuales ejerzan las atribuciones que les otorga esta Ley.
+
+B.O. 8 DE MAYO DE 2000.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín oficial del Gobierno del Estado de Sonora.
