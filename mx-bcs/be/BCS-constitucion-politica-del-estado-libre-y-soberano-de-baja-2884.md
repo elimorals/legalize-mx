@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1981-04-30"
+last_updated: "1982-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE ABRIL DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1982.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -320,6 +320,10 @@ IV.- Al reanudarse el período de sesiones ordinarias, presentarán al Congreso 
 #### SECCION III. DE LAS SESIONES
 
 50.- El Congreso del Estado tendrá, durante el año, dos períodos ordinarios de sesiones: el primero, del primero de abril al último de junio, y el segundo, del 15 de septiembre al 15 de diciembre, pero no podrá prolongarse más que hasta el 31 de diciembre del mismo año.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1982)</small>
+
+A convocatoria del Gobernador o de la Diputación Permanente, los Periodos Ordinarios de Sesiones del Congreso del Estado, podrán iniciarse hasta quince días antes de la fecha establecida en el párrafo que precede.
 
 > <small>(REFORMADO, B.O. 30 DE ABRIL DE 1981)</small>
 
@@ -1492,3 +1496,9 @@ B.O. 30 DE ABRIL DE 1981.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE DICIEMBRE DE 1982.
+
+###### ARTICULO UNICO.
+
+EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE B. C. SUR.
