@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-transito-del-estado-de-zacatecas-8266"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-18"
-last_updated: "1992-01-22"
+last_updated: "2004-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE TRANSITO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2004.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 18 de enero de 1989.
 
@@ -116,6 +116,14 @@ El desplazamiento de peatones en las vías públicas de jurisdicción estatal y 
 ###### ARTICULO 11.
 
 Para los efectos de esta ley y su reglamento, se entiende por conductor toda persona física, apta y debidamente autorizada para manejar vehículos.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2004)</small>
+
+Quienes por primera vez soliciten se les expida licencia o permiso de automovilista, chofer, operador o motociclista deberán aprobar los exámenes médicos, de pericia y de conocimientos básicos de esta ley y su reglamento.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2004)</small>
+
+El reglamento de esta ley establecerá los demás requisitos que los interesados deberán cumplir para obtener la licencia o permiso correspondiente.
 
 ###### ARTICULO 12.
 
@@ -438,3 +446,7 @@ P.O. 22 DE ENERO DE 1992.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 1 DE MAYO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
