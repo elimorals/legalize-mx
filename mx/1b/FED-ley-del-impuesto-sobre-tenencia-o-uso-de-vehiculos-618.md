@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-tenencia-o-uso-de-vehiculos-618"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1985-12-31"
+last_updated: "1986-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=618&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1980-12-19"
 
 LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1986.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 30 de diciembre de 1980.
 
@@ -147,9 +147,9 @@ I.- De fabricación nacional o importados iguales a los de fabricación nacional
 
 a).- Por unidad típica se entiende el automóvil que incluye el equipo común.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D. O, 31 DE DICIEMBRE DE 1986)</small>
 
-b).- Por precio de la unidad típica, el que tengan los vehículos al 1o. de enero del año de aplicación de la Ley. Tratándose de vehículos de año modelo anteriores, el precio de la unidad típica será el que resulte de aplicarle a dicho precio el factor correspondiente conforme a la tabla de ajuste que anualmente establezca el Congreso de la Unión.
+b).- Por precio de venta al público del vehículo, el de la unidad típica nueva que tengan al 1o. de enero del año de aplicación de la Ley. Tratándose de vehículos de año modelo anteriores, el precio de la unidad típica nueva será el que resulte de aplicarle a dicho precio el factor correspondiente conforme a la tabla de ajuste que anualmente establezca el Congreso de la Unión.
 
 c).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1985)
 
@@ -187,7 +187,9 @@ Primera.- Los demás vehículos no comprendidos en las categorías anteriores.
 
 B.- Para vehículos destinados al transporte de más de diez pasajeros o efectos:
 
-Categoría "A".- Camiones cualquiera que sea su marca, cuyo peso con capacidad diseñada de carga sea hasta de 8 toneladas, así como vehículos tipo Jeep y Pick up.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+Categoría "A".- Camiones cualquiera que sea su marca, cuyo peso con capacidad diseñada de carga sea hasta de 8 toneladas, así como vehículos Pick Up.
 
 Categoría "B".- Camiones cualquiera que sea su marca, cuyo peso con capacidad diseñada de carga sea mayor de 8 toneladas.
 
@@ -203,7 +205,9 @@ I.- Marca, las denominaciones y distintivos que los fabricantes de automóviles 
 
 II.- Año Modelo, el año de fabricación o ejercicio automotriz comprendido por el período entre el 1o. de noviembre del año anterior y el 31 de octubre del año que transcurra.
 
-III.- Modelo, todas aquellas versiones de 2 o 4 puertas, sedanes, vagonetas, techo duro o convertibles que se deriven de una línea de vehículo.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+III.- Modelo, todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de la que derivan los diversos modelos.
 
 IV.- Línea:
 
@@ -259,11 +263,11 @@ Las oficinas de tránsito de la República Mexicana no autorizarán altas ni cam
 
 En este Capítulo se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor y motocicleta.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 12.
 
-Tratándose de aeronaves, el impuesto será la cantidad que resulte de multiplicar el peso de la aeronave adicionado con la carga máxima de despegue a nivel del mar, expresado en toneladas, por la cantidad que anualmente establezca el Congreso de la Unión. En ningún caso el impuesto excederá de $6.000,000.00.
+Tratándose de aeronaves, el impuesto será la cantidad que resulte de multiplicar el peso de la aeronave adicionado con la carga máxima de despegue a nivel del mar, expresado en toneladas, por la cantidad que anualmente establezca el Congreso de la Unión. En ningún caso el impuesto excederá de $10'000,000.00. Esta última cantidad se incrementará aplicando el factor que anualmente establezca el Congreso de la Unión.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -287,9 +291,9 @@ b).- La cantidad obtenida conforme al inciso anterior se multiplicará por la ca
 
 El factor a que se refiere la fracción III de esta (sic) artículo, se calculará multiplicando la longitud de la eslora en metros, por el cociente obtenido de dividir los caballos de fuerza entre mil.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-Tratándose de las embarcaciones a que se refieren las fracciones I y III de este artículo, el impuesto que resulte no podrá ser inferior a $3,000.00 ni superior a $750,000.00, salvo que tratándose de la fracción III, el factor sea igual o menor a 0.2. Las cantidades a que se refiere este párrafo se incrementarán aplicando el factor que anualmente establezca el Congreso de la Unión.
+Tratándose de las embarcaciones a que se refieren las fracciones I y III de este artículo, el impuesto que resulte no podrá ser inferior a $6,000.00 ni superior a $2'000,000.00, salvo que tratándose de la fracción III, el factor sea igual o mayor a 0.2. Las cantidades a que se refiere este párrafo se incrementarán aplicando el factor que anualmente establezca el Congreso de la Unión.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -322,6 +326,10 @@ VI.- Las embarcaciones dedicadas al transporte mercante o a la pesca comercial.
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 VII.- Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+VIII.- Los de año de fabricación anterior en diez años o más al de aplicación de esta Ley.
 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
 
@@ -758,3 +766,55 @@ III.- Después de aplicar lo dispuesto en el artículo 5o., Apartado A fracción
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1986.
+
+D.O.F. 31 DE DICIEMBRE DE 1986.
+
+Disposiciones con vigencia durante el año de 1987.
+
+###### ARTICULO DECIMO SEGUNDO.
+
+Durante el año de 1987 se aplicarán en materia del impuesto sobre tenencia o uso de vehículos, las siguientes disposiciones:
+
+I.- Para los efectos del cálculo del impuesto, se dan a conocer las siguientes cantidades:
+
+a).- Vehículos a que se refiere el artículo 5o., Apartado A, fracciones II y III de la Ley de la materia .......... $ 17,200.00
+
+b).- Vehículos a que se refiere el artículo 5o., Apartado B, de la Ley de la materia .......... $ 18,300.00
+
+c).- Veleros .......... $ 23,000.00
+
+d).- Embarcaciones .......... $ 103,800.00
+
+e).- Aeronaves .......... $ 664,600.00
+
+f).- Motocicletas.......... $ 144,500.00
+
+II.- El precio de la unidad típica de los vehículos del año modelo de aplicación de la Ley, así como de los años modelos anteriores a que hace referencia el artículo 6o., Apartado A, fracción I, inciso b) de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, será el que resulte de aplicar los siguientes factores:
+
+1987 1.00
+
+1986 2.15
+
+1985 3.51
+
+1984 5.59
+
+1983 10.11
+
+1982 20.10
+
+1981 25.87
+
+1980 33.57
+
+1979 40.29
+
+1978 46.81
+
+III.- Después de aplicar lo dispuesto en el artículo 5o., Apartado A, fracción I de la Ley de la materia para vehículos de año modelo 1986 inclusive, y de año modelo anterior a dicho año, el monto del impuesto que corresponda conforme al citado precepto, se reducirá en un 20%. La reducción a que se refiere esta fracción, es independiente de la que se establece en el penúltimo párrafo del artículo 1o. de la Ley.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1987.
