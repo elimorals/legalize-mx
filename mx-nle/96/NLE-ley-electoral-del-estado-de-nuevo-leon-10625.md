@@ -4,7 +4,7 @@ identifier: "NLE-ley-electoral-del-estado-de-nuevo-leon-10625"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-13"
-last_updated: "1999-07-30"
+last_updated: "2000-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ELECTORAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 13 de diciembre de 1996.
 
@@ -159,13 +159,11 @@ VII. Estar condenado por sentencia que haya causado ejecutoria, a la suspensión
 
 Son elegibles para los cargos de Diputados, Gobernador y para ser miembro de un Ayuntamiento los ciudadanos que reúnan los requisitos contenidos en los artículos 47, 82 y 122 y que no se encuentren contemplados en los supuestos de los artículos 48, 84 y 124 de la Constitución Política del Estado de Nuevo León.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+
 ###### Artículo 10.
 
-Para formar parte de la planilla propuesta para integrar un Ayuntamiento del Area Metropolitana de Monterrey, los ciudadanos que cumplan los requisitos constitucionales, podrán residir en cualquiera de los municipios de Apodaca, General Escobedo, San Pedro Garza García, Guadalupe, Monterrey, San Nicolás de los Garza, Santa Catarina y García.
-
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 1999)</small>
-
-En los municipios que no se encuentren comprendidos en el Área Metropolitana de Monterrey, que sean geográficamente colindantes, será válida la residencia que se tenga en cualesquiera de ellos.
+Para formar parte de la planilla propuesta para integrar un Ayuntamiento, se deberán cumplir los requisitos que establezca la Constitución Política del Estado para ser miembro de dicho cuerpo colegiado.
 
 ### CAPITULO TERCERO. DE LOS OBSERVADORES ELECTORALES
 
@@ -4162,3 +4160,21 @@ C) Las vacantes de los tres Comisionados Ciudadanos propietarios y los dos suple
 D) Concluido el cargo de los dos Comisionados Ciudadanos propietarios a los que se refiere el inciso B de este artículo, se cubrirán las vacantes en los términos del mencionado artículo 70, debiendo cubrir de igual manera, un período de seis años.
 
 Para el cumplimiento de lo establecido en el inciso B de este artículo, el Congreso del Estado, en sesión pública y mediante el sistema de insaculación, designará de entre los Comisionados Ciudadanos Propietarios de la Comisión Estatal Electoral en funciones a quienes habrán de continuar por un período adicional de tres años.
+
+P.O. 13 DE OCTUBRE DE 2000.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los Municipios y el Estado, en los convenios que tengan celebrados a la entrada en vigor de este Decreto, los ajustarán en un período no mayor de sesenta días, a las prescripciones de estas reformas.
+
+Artículo Tercero.- Los Municipios y la Legislatura Local se coordinarán para que antes del ejercicio fiscal del 2002, adopten las medidas conducentes para que los valores unitarios de suelo que sirven de base para las contribuciones sobre la propiedad inmobiliaria sean equiparables a los valores de mercado de dicha propiedad y procederán, en su caso, a realizar las adecuaciones correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+
+Artículo Cuarto.- Los derechos adquiridos por particulares, servidores públicos del Estado y de los Municipios de éste, con anterioridad a la entrada en vigor de este Decreto, serán respetados.
+
+Artículo Quinto.- En tanto se crean o modifican las leyes municipales correspondientes y se establecen los órganos a que se refiere el Artículo 130 de esta Constitución, se continuarán aplicando las leyes existentes. Así mismo, los procedimientos y procesos iniciados con anterioridad, a la fecha de entrada en vigor de este Decreto, se seguirán tramitando conforme a lo dispuesto por las leyes con que se iniciaron.
+
+Artículo Sexto.- Tratándose de funciones y servicios que conforme al presente Decreto sean competencia de los municipios y que a la entrada en vigor del mismo, sean prestados por el Estado, o de manera coordinada con los municipios, éstos podrán asumirlos, previa aprobación del Ayuntamiento. El Estado dispondrá lo necesario para que la función o servicio público de que se trate se transfiera al Municipio de manera ordenada, conforme al programa de transferencia que presente el Gobierno del Estado, en un plazo máximo de 90 días contados a partir de la recepción de la correspondiente solicitud.
+
+En el caso del inciso a) del artículo 132 primera parte, dentro del plazo señalado en el párrafo anterior, el Gobierno del Estado podrá solicitar a la Legislatura, conservar en su ámbito de competencia los servicios a que se refiere el citado inciso, cuando la transferencia de Estado a Municipio afecte, en perjuicio de la población, su prestación. La Legislatura Local resolverá lo conducente.
+
+En tanto se realiza la transferencia a que se refiere el primer párrafo, las funciones y servicios públicos seguirán ejerciéndose o prestándose en los términos y condiciones vigentes.
