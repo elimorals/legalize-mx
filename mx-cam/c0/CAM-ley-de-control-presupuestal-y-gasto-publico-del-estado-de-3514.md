@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-control-presupuestal-y-gasto-publico-del-estado-de-3514"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-13"
-last_updated: "2002-07-03"
+last_updated: "2004-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3514&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE CONTROL PRESUPUESTAL Y GASTO PUBLICO DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 13 de marzo de 1992.
 
@@ -169,9 +169,9 @@ El gasto público estatal se sustentará en las Leyes de Ingresos y de Presupues
 
 Los proyectos de presupuestos de egresos de las dependencias y entidades, de los Poderes Legislativo y Judicial y de los Organismos Públicos Autónomos, serán debidamente integrados por la Secretaría en un sólo documento que conformará la iniciativa de Ley de Presupuesto de Egresos del Estado, la cual se enviará al Congreso del Estado, por conducto del Ejecutivo, para su análisis y, en su caso, aprobación.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2004)</small>
 
-Para efectos de lo anterior, los Poderes Legislativo y Judicial y los Organismos Públicos Autónomos enviarán sus respectivos proyectos de presupuestos de egresos, al Gobernador del Estado, durante el curso del mes de noviembre del año inmediato anterior al en que deban ejercerse.
+Para tales efectos, las dependencias y entidades de la administración pública estatal, los poderes Legislativo y Judicial y los organismos públicos autónomos, enviarán sus respectivos proyectos a la Secretaría a más tardar el 15 de octubre del año inmediato anterior al que deban ejercerse.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -179,11 +179,11 @@ Para efectos de lo anterior, los Poderes Legislativo y Judicial y los Organismos
 
 La Secretaría, al hacer la integración de los proyectos de presupuestos de egresos, cuidará que simultáneamente se defina el tipo o fuente de recursos para su financiamiento y que se ajusten a las previsiones del proyecto de ley de ingresos estatal.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 19.
 
-Para la formulación del proyecto de Ley de Presupuesto de Egresos del Estado, las dependencias y entidades elaborarán sus correspondientes anteproyectos atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público y teniendo como base el Plan Estatal de Desarrollo y los programas que de él se deriven, y los remitirán a la Secretaría de conformidad con las normas, montos y plazos que el Ejecutivo oportunamente establezca y les dé a conocer, por conducto de la propia Secretaría.
+Para la formulación del proyecto de Ley de Presupuesto de Egresos del Estado, las dependencias y entidades elaborarán sus correspondientes anteproyectos atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público y teniendo como base el Plan Estatal de Desarrollo y los programas que de él se deriven, y los remitirán a la Secretaría de conformidad con las normas y montos que el Ejecutivo oportunamente establezca y les dé a conocer, por conducto de la propia Secretaría, en un plazo no mayor al señalado en el artículo 17 de esta ley.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -293,15 +293,17 @@ Sólo se podrán concertar créditos para financiar programas en los presupuesto
 
 A toda proposición de aumento o creación de partidas al proyecto de presupuesto, si con ella se alterare el equilibrio presupuestal, deberá acompañarse la correspondiente iniciativa para el ingreso relativo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 24.
 
-Los proyectos de Leyes de Ingresos y de Presupuesto de Egresos del Estado, deberán ser presentados oportunamente al Gobernador por la Secretaría, a fin de poder ser enviados al Congreso a más tardar en el mes de diciembre del año inmediato anterior al que correspondan.
+Los proyectos de Leyes de Ingresos y de Presupuesto de Egresos del Estado, deberán ser presentados oportunamente al Gobernador por la Secretaría, a fin de poder ser enviados al Congreso a más tardar el día 15 de noviembre del año inmediato anterior al que correspondan. Debiendo comparecer el Secretario del despacho correspondiente o cualquier otro titular de dependencia que la comisión o comisiones del Congreso del Estado requieran, a fin de proporcionar mayor información con motivo del estudio y discusión de las iniciativas de referencia. El Congreso del Estado deberá aprobar las Leyes de Ingresos y de Presupuesto de Egresos del Estado a más tardar el 20 de diciembre del mismo año.
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1999)</small>
+Cuando inicie su encargo en la fecha prevista por el artículo 63 de la Constitución Política del Estado, el Ejecutivo hará llegar las iniciativas de Leyes de Ingresos y de Presupuesto de Egresos a más tardar el día 30 de noviembre del año inmediato anterior al que correspondan.
 
-Si al finalizar un ejercicio fiscal el Congreso, por la causa que fuere, no ha expedido la Ley de Ingresos o la de Presupuesto de Egresos correspondiente al siguiente ejercicio, continuará vigente la ley que rigió el ejercicio fiscal concluido, hasta en tanto quede aprobada la nueva ley.
+Para lo previsto en el párrafo anterior, podrá el Ejecutivo solicitar una prórroga de hasta cinco días naturales para presentar ante la Legislatura las incitativas referidas.
+
+Si al finalizar un ejercicio fiscal el Congreso, por la causa que fuere, no ha expedido la Ley de Ingresos o la Ley de Presupuesto de Egresos correspondiente al siguiente ejercicio, continuará vigente la ley que rigió el ejercicio fiscal concluido, hasta en tanto quede aprobada la nueva ley.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -742,3 +744,9 @@ SEXTO.- Los procedimientos administrativos disciplinarios que se encuentren en t
 SÉPTIMO.- Las menciones que en otras leyes, reglamentos y demás disposiciones de carácter general se hagan de la Ley de Responsabilidades de los Servidores Públicos del Estado de Campeche en lo sucesivo se entenderán como referidas a la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche.
 
 OCTAVO.- El Congreso, el Gobernador, el Tribunal Superior de Justicia, los Ayuntamientos y los Organismos Públicos Autónomos, tienen el plazo de treinta días hábiles, contados a partir del día siguiente a la fecha en que entren en vigor las modificaciones a la Ley Orgánica de los Municipios y a la Ley de Control Presupuestal y Gasto Público, para publicar, en el Periódico Oficial del Estado, los tabuladores de puestos y sueldos de los servidores públicos, de sus respectivas adscripciones, para el ejercicio fiscal 2003.
+
+P.O. 5 DE JULIO DE 2004.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
