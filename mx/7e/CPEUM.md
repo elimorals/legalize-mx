@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1934-12-13"
+last_updated: "1934-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE DICIEMBRE DE 1934.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 1934.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -382,11 +382,13 @@ III.- Alistarse y servir en la Guardia Nacional, conforme a la ley orgánica res
 
 IV.- Contribuir para los gastos públicos, así de la Federación como del Estado y Municipio en que residan, de la manera proporcional y equitativa que dispongan las leyes.
 
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1934)</small>
+
 ###### Art. 32.
 
-Los mexicanos serán preferidos a los extranjeros, en igualdad de circunstancias, para toda clase de concesiones y para todos los empleos, cargos o comisiones del Gobierno en que no sea indispensable la calidad de ciudadano. En tiempo de paz, ningún extranjero podrá servir en el Ejército, ni en las fuerzas de policía o seguridad pública.
+Los mexicanos serán preferidos a los extranjeros en igualdad de circunstancias, para toda clase de concesiones y para todos los empleos, cargos o comisiones del Gobierno en que no sea indispensable la calidad de ciudadano. En tiempo de paz ningún extranjero podrá servir en el Ejército, ni en las fuerzas de policía o seguridad pública.
 
-Para pertenecer a la marina nacional de guerra y desempeñar cualquier cargo o comisión en ella, se requiere ser mexicano por nacimiento. Esta misma calidad será indispensable en capitanes, pilotos, patrones y primeros maquinistas de los buques mercantes mexicanos, debiendo tenerla además, los que compongan las dos terceras partes de la tripulación.
+Para pertenecer a la Marina Nacional de Guerra y desempeñar cualquier cargo o comisión en ella, se requiere ser mexicano por nacimiento. Esta misma calidad será indispensable en capitanes, pilotos, patrones, maquinistas y de una manera general para todo el personal que tripule cualquier embarcación que se ampare con la bandera mercante mexicana. Será también necesaria la calidad de ciudadano mexicano por nacimiento para desempeñar el cargo de Capitán de Puerto y todos los servicios de practicaje, así como las funciones de Agente Aduanal en la República.
 
 ### CAPITULO III.
 
@@ -832,7 +834,9 @@ Los Jueces de Primera Instancia, Menores y Correccionales del Distrito Federal y
 
 La remuneración que los Magistrados y Jueces perciban por sus servicios, no podrá ser disminuída durante su encargo.
 
-Los Magistrados y los Jueces a que se refiere esta base, podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111, o previo el juicio de responsabilidad correspondiente.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1934)</small>
+
+Los Magistrados y los Jueces a que se refiere esta base, durarán en sus encargos seis años, pero podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111 o previo el juicio de responsabilidad correspondiente.
 
 5a.- El Ministerio Público en el Distrito Federal y en los Territorios estará a cargo de un Procurador General, que residirá en la ciudad de México, y del número de agentes que determine la ley, dependiendo dicho funcionario directamente del Presidente de la República, quien lo nombrará y removerá libremente.
 
@@ -1154,11 +1158,11 @@ Los secretarios del Despacho, luego que esté abierto el período de sesiones or
 
 DEL PODER JUDICIAL.
 
-> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1934)</small>
 
 ###### Art. 94.
 
-Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en Tribunales de Circuito y en Juzgados de Distrito, cuyo número y atribuciones fijará la ley. La Suprema Corte de Justicia de la Nación se compondrá de dieciséis Ministros y funcionará en Tribunal Pleno o dividida en tres Salas, de cinco Ministros cada una, en los términos que disponga la ley. Las audiencias del Tribunal Pleno o de las Salas, serán públicas, excepción hecha de los casos en que la moral o el interés público exijan que sean secretas. Las sesiones serán celebradas en la forma y términos que establezca la ley respectiva. La remuneración que perciban por sus servicios los Ministros de la Suprema Corte, los Magistrados de Circuito y los Jueces de Distrito, no podrá ser disminuida durante su encargo. Los Ministros de la Suprema Corte, los Magistrados de Circuito y los Jueces de Distrito, podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111, o previo el juicio de responsabilidad correspondiente.
+Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en Tribunales de Circuito y en juzgados de Distrito, cuyo número y atribuciones fijará la ley. La Suprema Corte de Justicia de la Nación se compondrá de veintiún Ministros y funcionarios en Tribunal Pleno o dividida en cuatro Salas de cinco Ministros cada una, en los términos que disponga la ley. Las audiencias del Tribunal Pleno o de las Salas serán públicas, excepción hecha de los casos en que la moral o el interés público exijan que sean secretas. Las sesiones serán celebradas en la forma y términos que establezca la ley respectiva. La remuneración que perciban por sus servicios los ministros de la Suprema Corte, los magistrados de Circuito y los jueces de Distrito, no podrá ser disminuída durante su encargo. Los ministros de la Suprema Corte, los magistrados de Circuito y los jueces de Distrito, durarán en sus encargos seis años, pero podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111 o previo el juicio de responsabilidad correspondiente.
 
 ###### Art. 95.
 
@@ -1166,9 +1170,13 @@ Para ser electo Ministro de la Suprema Corte de Justicia de la Nación, se neces
 
 I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
 
-II.- Tener treinta y cinco años cumplidos el día de la elección.
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1934)</small>
 
-III.- Poseer título profesional de abogado, expedido por la autoridad o corporación legalmente facultada para ello.
+II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la elección.
+
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1934)</small>
+
+III.- Poseer el día de la elección, con antigüedad mínima de cinco años, título profesional de abogado, expedido por la autoridad o corporación legalmente facultada para ello.
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
@@ -1750,7 +1758,7 @@ Al Ciudadano ..
 
 D.O.F. 8 DE JULIO DE 1921.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
 
 D.O.F. 24 DE NOVIEMBRE DE 1923.
 
@@ -1869,3 +1877,35 @@ Los bienes muebles e inmuebles que estuvieron al servicio de las autoridades civ
 D.O.F. 13 DE DICIEMBRE DE 1934.
 
 UNICO.- Las presentes reformas constitucionales entrarán en vigor el día primero de diciembre del presente año.
+
+D.O.F. 15 DE DICIEMBRE DE 1934.
+
+DECRETO QUE REFORMA EL ULTIMO PARRAFO DE LA BASE 4ª DE LA FRACCION VI DEL ARTICULO 73, EL ARTICULO 94 Y LAS FRACCIONES II Y III DEL ARTICULO 95.
+
+###### ARTICULO PRIMERO.
+
+La presente reforma entrará en vigor el día 15 de diciembre del año en curso.
+
+###### ARTICULO SEGUNDO.
+
+Los ministros de la Suprema Corte de la Nación y los magistrados del Tribunal Superior de Justicia del Distrito y Territorios Federales, actualmente en ejercicio, cesarán en sus encargos el día 31 de diciembre del año en curso.
+
+###### ARTICULO TERCERO.
+
+Los ministros de la Suprema Corte de Justicia y los magistrados del Tribunal Superior de Justicia del Distrito y Territorios Federales que sean designados de acuerdo con la presente reforma, tomarán posesión el día 1º de enero del próximo año de 1935.
+
+###### ARTICULO CUARTO.
+
+La Suprema Corte de Justicia de la Nación designará a los nuevos magistrados de Circuito y jueces de Distrito, dentro de los diez primero días del mes de enero de 1935. Asimismo, el Tribunal Superior de Justicia del Distrito y Territorios Federales designará a los nuevos jueces del fuero común del Distrito y Territorios Federales dentro del mismo plazo.
+
+D.O.F. 15 DE DICIEMBRE DE 1934.
+
+DECRETO QUE REFORMA EL ARTICULO 32.
+
+###### ARTICULO 1o.
+
+Se concede un plazo de seis meses a los agentes aduanales que en la actualidad funcionen sin tener la calidad de ciudadanos mexicanos por nacimiento para que hagan entrega de sus oficinas respectivas.
+
+###### ARTICULO 2o.
+
+Este Decreto entrará en vigor desde la fecha de su publicación en el "Diario Oficial" de la Federación.
