@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-31731"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1993-12-09"
+last_updated: "1993-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1993.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -7047,6 +7047,8 @@ La disposición testamentaria que contenga condición de suceso pasado o present
 
 ### CAPITULO II. DEL TESTAMENTO PUBLICO ABIERTO
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTÍCULO 1377.
 
 El ordinario puede ser:
@@ -7091,9 +7093,11 @@ VI. Los herederos o legatarios; sus descendientes, ascendientes, cónyuges o her
 
 VII. Los que hayan sido condenados por el delito de falsedad.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTÍCULO 1380.
 
-Cuando el testador ignore el idioma del país, concurrirán al acto y firmarán el testamento, además de los testigos y el notario, dos intérpretes nombrados por el mismo testador.
+Cuando el testador ignore el idioma del país, un interprete nombrado por el mismo testador concurrirá al acto y firmará el testamento.
 
 ###### ARTÍCULO 1381.
 
@@ -7135,43 +7139,57 @@ Si los interesados están ausentes o son desconocidos, la noticia se dará al ju
 
 ###### ARTÍCULO 1388.
 
-Testamento público abierto, es el que se otorga ante notario y tres testigos idóneos.
+Testamento público abierto es el que se otorga ante notario, de conformidad con las disposiciones de este Capítulo.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 1389.
 
-El testador expresará de un modo claro y terminante su voluntad al notario y a los testigos. El notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+El testador expresará de modo claro y terminante su voluntad al notario. El notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador y la leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán la escritura el testador, el notorio y, en su caso, los testigos y el intérprete, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTÍCULO 1390.
 
-Si alguno de los testigos no supiere escribir firmará otro de ellos por él, pero cuando menos, deberá constar la firma entera de dos testigos.
+En los casos previstos en los artículos 1391, 1393 y 1394 de este Código, así como cuando el testador o el notario los soliciten, dos testigos deberán concurrir al acto de otorgamiento y firmar el testamento.
+
+Los testigos instrumentales a que se refiere este artículo podrán intervenir, además como testigos de conocimiento.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTÍCULO 1391.
 
-Si el testador no pudiere o no supiere escribir intervendrá otro testigo más, que firme a su ruego.
+Cuando el testador declare que no sabe o no puede firmar el testamento, uno de los testigos firmará a ruego del testador y éste imprimirá su huella digital.
 
 ###### ARTÍCULO 1392.
 
-En el caso de extrema urgencia y no pudiendo ser llamado otro testigo, firmará por el testador uno de los instrumentales, haciéndose constar esta circunstancia.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1993)
 
 ###### ARTÍCULO 1393.
 
 El que fuere enteramente sordo, pero que sepa leer, deberá dar lectura a su testamento, si no supiere o no pudiere hacerlo, dispondrá una persona que lo lea a su nombre.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTÍCULO 1394.
 
-Cuando sea ciego el testador, se dará lectura al testamento dos veces: una por el notario, como está prescrito en el artículo 1389; y otra en igual forma por uno de los testigos u otra persona que el testador designe.
+Cuando el testador sea ciego o no pueda o no sepa leer, se dará lectura al testamento dos veces: una por el notario, como está prescrito en el artículo 1389, y otra, en igual forma, por uno de los testigos u otra persona que el testador designe.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTÍCULO 1395.
 
-Cuando el testador ignore el idioma del país, si puede, escribirá de puño y letra su testamento, que será traducido al español por los dos intérpretes a que se refiere el artículo 1380.- La traducción se transcribirá como testamento en el protocolo respectivo y el original se archivará en el apéndice correspondiente del notario que intervenga en el acto.
+Cuando el testador ignore el idioma del país, si puede, escribirá su testamento, que será traducido al español por el intérprete a que se refiere el artículo 1380. La traducción se transcribirá como testamento en el respectivo protocolo y el original, firmado por el testador, el intérprete y el notario, se archivará en el apéndice correspondiente del notario que intervenga en el acto.
 
-Si el testador no puede o no sabe escribir, uno de los intérpretes escribirá el testamento que dicte aquél, y leído y aprobado por el testador, se traducirá al español por los dos intérpretes que deben concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior.
+Si el testador no puede o no sabe leer, dictará en su idioma el testamento al intérprete. Traducido éste, se procederá como dispone el párrafo primero de este artículo.
 
-Si el testador no puede o no sabe leer, dictará en su idioma el testamento a uno de los intérpretes. Traducido por los dos intérpretes, se procederá como dispone el párrafo primero de este artículo.
+En este caso el intérprete podrá intervenir, además, como testigo de conocimiento.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTÍCULO 1396.
 
-Las formalidades se practicarán acto continuo y el notario dará fe de haberse llenado todas.
+Las formalidades expresadas en este capítulo se practicarán en un sólo acto que comenzará con la lectura del testamento y el notario dará fe de haberse llenado aquéllas.
 
 ###### ARTÍCULO 1397.
 
@@ -14493,6 +14511,8 @@ Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los cr
 
 ### CAPITULO I. DE LAS OFICINAS DEL REGISTRO
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTÍCULO 2879.
 
 Pagados los créditos enumerados en los capítulos que preceden, se pagarán los créditos que consten en documento privado.
@@ -14509,17 +14529,19 @@ EFECTOS LEGALES DEL REGISTRO
 
 ###### ARTÍCULO 2881.
 
-El Ejecutivo del Estado designará las poblaciones en donde deba establecerse la oficina denominada "Registro Público".
+Para efectos del presente Capítulo, el Registro Público de la Propiedad se denominará en los subsecuente como Registro. Las oficinas del Registro se establecerán en las poblaciones que determine el Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTÍCULO 2882.
 
-El reglamento fijará el número de secciones de que se componga el Registro y la sección en que deban inscribirse los títulos que se registren.
+El Registro funcionará conforme al sistema y métodos que determine su reglamento, el cual fijará el número de secciones o divisiones de que se componga la oficina y en donde deban registrarse los títulos susceptibles de inscripción, así como los requisitos necesarios para desempeñar los cargos que requiere el funcionamiento del Registro.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTÍCULO 2883.
 
-El Registro será público. Los encargados de la oficina tienen obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del Registro, y de los documentos relacionados en las inscripciones, que esten archivados. También tienen obligación de expedir copias certificadas de las inscripciones, constancias, planos o cualquier otro documento que obre en los libros o archivos del Registro; así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
+El Registro será público. Los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, que se enteren de los asientos que obren en los folios o libros del Registro y de los documentos relacionados con los mismos que estén archivados. También tienen la obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros y folios del Registro, así como certificaciones de existir o no anotaciones relativas a los bienes señalados o a cargo de ciertas personas.
 
 Tratándose de testamentos ológrafos depositados en el Registro, se observará lo dispuesto en el artículo 1441.
 
@@ -14571,15 +14593,17 @@ Los documentos que conforme a esta ley deben registrarse y no se registren, sól
 
 Los testamentos ológrafos no producirán efecto si no son depositados en el Registro.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTÍCULO 2887.
 
-Los actos ejecutados, los contratos otorgados y las resoluciones judiciales pronunciadas en país extranjero, sólo se inscribirán concurriendo las circunstancias siguientes:
+Los actos ejecutados, los contratos otorgados y las resoluciones judiciales pronunciadas en país extranjero u otra Entidad Federativa, sólo se inscribirán concurriendo las circunstancias siguientes:
 
-I.- Que si los actos o contratos hubiesen sido celebrados o las sentencias pronunciadas en el Estado, habría sido necesaria su inscripción en el Registro.
+I. Que tengan el carácter de inscribibles conforme a las disposiciones de este Código y del reglamento del Registro, y requieren necesariamente de su inscripción en el Estado o País de que se trate;
 
-II.- Que estén debidamente legalizados; y
+II. Que estén debidamente legalizados, y en su caso traducidos por perito oficial, y
 
-III.- Si fueren resoluciones judiciales, que se ordene su ejecución por la autoridad judicial nacional que corresponda.
+III. Si fueran resoluciones judiciales que se ordene su inscripción por la autoridad que corresponda, y tratándose de las sentencias dictadas en el extranjero sólo se registrarán si no están en desacuerdo con las leyes mexicanas y si ordena su ejecución la autoridad judicial competente.
 
 ###### ARTÍCULO 2888.
 
@@ -14591,9 +14615,11 @@ No obstante lo dispuesto en el artículo anterior, los actos o contratos que se 
 
 Lo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando una ley prohibitiva o de interés público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTÍCULO 2890.
 
-El derecho registrado se presume que existe y que pertenece a su titular en la forma expresada por el asiento respectivo. Se presume también que el titular de una inscripción de posesión, tiene la posesión del inmueble inscrito.
+El derecho registrado se presume que existe y que pertenece a su titular en la forma expresada por el asiento respectivo. Se presume también que el titular de una inscripción de dominio o de posesión, tiene la posesión del inmueble inscrito.
 
 No podrá ejercitarse acción contradictoria del dominio del inmueble o derechos reales sobre los mismos o de otros derechos inscritos o anotados a favor de persona o entidad determinada, sin que previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
 
@@ -14653,7 +14679,9 @@ III. El valor de los bienes o derechos a que se refieren las fracciones anterior
 
 IV. Tratándose de hipotecas, la época en que podrá exigirse el pago de capital garantizado, y si causare réditos, la tasa o el monto de estos y la fecha desde que deban correr;
 
-V. Los nombres, edades, domicilios y profesiones de las personas que por sí mismas o por medio de representantes hubieren celebrado el contrato o ejecutado el acto sujeto a inscripción. Las personas morales se designarán por el nombre oficial que lleven, y las sociedades, por su razón social o denominación;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
+
+V. Los nombres, estado civil, régimen conyugal y domicilios de las personas que por sí o por medio de representante hubieren celebrado el contrato o ejecutado el acto sujeto a inscripción. Las personas morales se designarán por el nombre oficial que lleven y las sociedades, por su razón social o denominación;
 
 VI. La naturaleza del acto o contrato;
 
@@ -14673,17 +14701,19 @@ Bajo ningún concepto, el Registrador podrá exigir mayores requisitos, document
 
 El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTÍCULO 2900.
 
-Cuando vaya a otorgarse una escritura en que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes inmuebles o, cualquier derecho real sobre los mismos, o que sin serlo, sea inscribible, el notario o autoridad ante quien vaya a otorgarse podrá a su criterio, o deberá a solicitud de quien pretenda adquirir un derecho, dar al Registro un primer aviso preventivo al solicitarle certificado sobre la existencia de la inscripción en favor del titular registral o sobre los gravámenes que reporte el inmueble o derecho o la libertad de los mismos. Dicho aviso, nombres de los interesados, y el antecedente registral. El registrador con el aviso preventivo y sin cobro de derechos por la anotación, hará inmediatamente el asiento de presentación y asentará al margen de la inscripción correspondiente una anotación de primer aviso preventivo que tendrá vigencia por un plazo de treinta días naturales a partir de la fecha de presentación de la solicitud.
+Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el notario o autoridad ante quien se haga el otorgamiento, deberá solicitar al Registro certificado sobre la existencia e inexistencia de gravámenes en relación con la misma. En dicha solicitud, que se considerará como aviso preventivo, deberá mencionarse la operación y finca de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El registrador, con esta solicitud practicará inmediatamente la nota de presentación en el folio o libro correspondiente, nota que tendrá vigencia por un término de treinta días naturales a partir de la fecha de presentación de la solicitud.
 
-Una vez firmada una escritura que produzca cualesquiera de las consecuencias mencionadas en el párrafo precedente, el notario o autoridad ante quien se otorgó dará el registro, un segundo aviso preventivo sobre la operación de que se trata conteniendo además de los datos mencionados en el párrafo anterior la fecha de la escritura y la de su firma. El registrador con el aviso citado y sin cobro de derecho alguno, hará de inmediato el asiento de presentación de tal aviso preventivo y hará al margen de la inscripción una anotación preventiva del segundo aviso que tendrá vigencia por un plazo de ciento ochenta días naturales a partir de la fecha de su presentación. En los casos en que el segundo aviso preventivo mencionado en este párrafo se dé dentro del plazo de treinta días a que se contrae el párrafo anterior, los preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diere después de este plazo sólo surtirá efecto desde la fecha y hora de su presentación.
+Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, el notario o autoridad ante quien se otorgó dará aviso definitivo al Registro, acerca de la operación de que se trate, dentro de las cuarenta y ocho horas siguientes y contendrá, además de los datos mencionados en el párrafo anterior, la fecha de la escritura y la de su firma. El registrador, con el aviso citado practicará de inmediato la nota de presentación correspondiente, la cual tendrá una vigencia de ciento ochenta días naturales a partir de la fecha de presentación del aviso. Si éste se da dentro del término de treinta días a que se contrae el párrafo anterior, sus efectos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el mismo párrafo; en caso contrario, sólo surtirá efectos desde la fecha y hora en que fue presentado y según el número de entrada que corresponda. No se deberá enviar al Registro más de un aviso preventivo.
 
-Si el testimonio respectivo se presentare al registro dentro de cualquiera de los plazos a que se contraen los dos párrafos anteriores, su inscripción surtirá efectos contra tercero desde la fecha del asiento de presentación del primer aviso preventivo correspondiente si hubiese sido dado, o en caso contrario desde la fecha y hora de presentación del segundo, si el documento se presentare después, su registro sólo surtirá efectos a partir de la fecha de su presentación.
+Si el testimonio respectivo se presentare al Registro dentro de cualquiera de los términos que se señalan en los dos párrafos anteriores, su inscripción surtirá efectos contra terceros desde la fecha de presentación del aviso preventivo y con arreglo a su número de entrada. Si el documento presentare fenecidos los referidos plazos, su registro sólo surtirá efectos desde la fecha y hora de su presentación.
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior, fuere privado, deberán dar exclusivamente el segundo aviso preventivo que menciona este artículo, el notario, el registrador o la autoridad que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes y el mencionado aviso producirá los mismos efectos que el dado por el notario.
+Si el documento en que conste algunas de las operaciones que se mencionan en el párrafo primero de este artículo, fuere privado, deberá dar aviso preventivo, con vigencia por ciento ochenta días, el notario o el juez competente que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo caso el mencionado aviso surtirá los mismos efectos que el dado por los notarios en el caso de los instrumentos públicos. Si el contrato se ratificara ante el registrador, éste deberá practicar de inmediato el aviso preventivo a que este precepto se refiere.
 
-En virtud de lo dispuesto en los párrafos anteriores, los documentos que se presenten para inscripción o anotación en las partidas en que aparezca un aviso preventivo, no se podrán insertar ni serán motivo de anotación alguna, mientras no caduque la vigencia de los plazos señalados, y solamente se anotarán en libros de entradas para el efecto de preservar su prioridad registral.
+En virtud de lo dispuesto en los párrafos anteriores, los documentos que se presenten para inscripción o anotación en las partidas o folios en que aparezca un aviso preventivo, no se podrán insertar ni serán motivo de anotación alguna, mientras no caduque la vigencia de los términos señalados, y solamente se anotarán en el control de entradas para el efecto de preservar su prioridad registral.
 
 ###### ARTÍCULO 2901.
 
@@ -14719,7 +14749,9 @@ Los testigos deberán ser por lo menos tres, de notorio arraigo en el lugar de l
 
 No se recibirá la información sin que previamente se haya dado una amplia publicidad, por medio de la prensa y de avisos fijados en los lugares públicos, a la solicitud del promovente.
 
-Comprobada debidamente la posesión, el juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+
+Comprobada debidamente la posesión, el juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción y tal declaración debidamente protocolizada se tendrá como título de propiedad y será inscrita en el Registro.
 
 ### CAPITULO VI. DE LA EXTINCIÓN DE LAS INSCRIPCIONES
 
@@ -14996,3 +15028,19 @@ SEGUNDO. El Ejecutivo del Estado por conducto de la Dependencia competente impul
 TERCERO. Hasta en tanto exista legislación que modifique el concepto, se entiende por vivienda de interés social aquella cuyo valor no excede de veinte veces el salario mínimo general elevado al año y por vivienda popular aquella cuyo valor no excede de treinta y cinco veces el salario mínimo elevado al año.
 
 CUARTO. Hasta el día 31 de marzo de 1994, los propietarios, poseedores o titulares de derechos de vivienda conceptuadas como de interés social o popular, podrán otorgar por declaración unilateral de voluntad y en escritura pública, disposición para designar beneficiarios en los términos de lo establecido por los artículos 1158, 1378 y 1460 Bis del Código Civil que se adicionan, esta estipulación surtirá los efectos y se ejecutará al tenor de los artículos 904 y 921 Bis que se adicionan del Código de Procedimientos Civiles vigente en el Estado.
+
+P.O. 28 DE DICIEMBRE DE 1993
+
+> <small>(F. DE E., P.O. 6 DE ENERO DE 1994)</small>
+
+PRIMERO. Esta ley entrará en vigor en un plazo de ciento sesenta días a partir de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. Se abroga la Ley Reglamentaria del Registro Público de la Propiedad de fecha 13 de febrero de 1976, publicada en el Periódico Oficial del Gobierno del Estado número 11, del 11 de marzo de 1976.
+
+TERCERO. La Ley Reglamentaria que se abroga se aplicará hasta en tanto se publique el Reglamento correspondiente.
+
+P.O. 28 DE DICIEMBRE DE 1993
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
