@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-expedicion-de-tarjetas-de-identidad-a-981"
 country: "mx"
 rank: "reglamento"
 publication_date: "1946-08-13"
-last_updated: "1946-08-13"
+last_updated: "1947-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=981&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1946-04-06"
 ---
 # REGLAMENTO PARA LA EXPEDICION DE TARJETAS DE IDENTIDAD A MIEMBROS DEL EJERCITO
 
-REGLAMENTO PARA LA EXPEDICION DE TARJETAS DE IDENTIDAD A MIEMBROS DEL EJERCITO
+REGLAMENTO PARA LA EXPEDICIÓN DE TARJETAS DE IDENTIDAD A MIEMBROS DEL EJÉRCITO
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 1947.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 13 de agosto de 1946.
 
@@ -37,9 +37,11 @@ REGLAMENTO PARA LA EXPEDICION DE TARJETAS DE IDENTIDAD A MIEMBROS DEL EJERCITO
 
 ### CAPITULO I
 
-###### ARTICULO 1°.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1947)</small>
 
-Para garantizar la identidad de los miembros del Ejército, la Secretaría de la Defensa Nacional, por conducto de la Oficina de Identificación Militar, expedirá tarjeta de identidad, previos los requisitos establecidos en el presente Reglamento y en el orden de urgencia que la propia Secretaría determine.
+###### ARTÍCULO 1°.
+
+Para garantizar la identidad de los miembros del Ejército, la Secretaría de la Defensa Nacional, por conducto de su Dirección General de Personal, expedirá tarjeta de identidad, previos los requisitos establecidos en el presente Reglamento y en el orden de urgencia que la propia Secretaría determine.
 
 ###### ARTICULO 2°.
 
@@ -55,13 +57,17 @@ La tarjeta de Identidad tendrá validez ante las autoridades de Oficinas Federal
 
 La expedición de tarjetas de identidad será enteramente gratuita; para el efecto, la Secretaría de la Defensa Nacional proveerá a todos los miembros del Ejército, por conducto de la Corporación o Dependencia de su adscripción, de los ejemplares de reverso de tarjetas necesarios.
 
-###### ARTICULO 5°.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1947)</small>
 
-Las tarjetas serán expedidas exclusivamente por la Oficina de Identificación Militar de la Secretaría de la Defensa Nacional y estarán autorizadas con las firmas del C. Oficial Mayor y del Jefe de dicha Oficina de Identificación.
+###### ARTÍCULO 5°.
 
-###### ARTICULO 6°.
+Las tarjetas serán expedidas exclusivamente por la Sección de la Dirección General de Personal que ésta designe para tal objeto, sometiéndolas únicamente para los efectos de revisión a la Oficina de Identificación Militar de la Secretaría de la Defensa Nacional y estarán autorizadas con las firmas del C. Oficial Mayor del Ramo y del Jefe que designe la propia Dirección General de Personal.
 
-Para los efectos de expedición de tarjetas de identidad, los interesados deberán remitir a la Secretaría de la Defensa Nacional, Oficina de Identificación Militar, dos fotografías de las prevenidas en este Reglamento, así como dos ejemplares de reverso de tarjeta (modelo Núm 2), debidamente requisitados.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1947)</small>
+
+###### ARTÍCULO 6°.
+
+Para los efectos de expedición de tarjetas de identidad, los interesados deberán remitir a la Secretaría de la Defensa Nacional, Dirección General de Personal, dos fotografías de las prevenidas en este Reglamento, así como dos ejemplares de reverso de tarjeta (modelo Núm. 2), debidamente requisitados.
 
 ###### ARTICULO 7°.
 
@@ -184,3 +190,11 @@ Las tarjetas de identificación actualmente en vigor, tendrán validez únicamen
 El presente Reglamento comenzará a regir tres días después de su publicación en el "Diario Oficial" de la Federación, quedando derogadas todas las disposiciones que se le opongan.
 
 Y en cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Reglamento en la residencia del Poder Ejecutivo de la Unión, en México, Distrito Federal, a los seis días del mes de abril de mil novecientos cuarenta y seis.- Manuel Ávila Camacho.- Rúbrica.- El Secretario de Estado y del Despacho de la Defensa Nacional, Francisco L. Urquizo.- Rúbrica.- El Secretario de Estado y del Despacho de Gobernación, Primo Villa Michel.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 24 DE ABRIL DE 1947.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el "Diario Oficial" de la Federación, quedando derogadas todas las disposiciones que se le opongan.
