@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "1988-02-11"
+last_updated: "1989-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO PENAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1989.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
@@ -309,9 +309,13 @@ La prohibición de ir a lugar determinado o de residir en él, no podrá exceder
 
 ### CAPITULO V. Multa
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+
 ###### Artículo 28.
 
-La multa consiste en la sanción pecuniaria que se impone al delincuente y se cubre en favor del Estado. Se hará efectiva mediante la aplicación de la facultad económico-coactiva.
+La multa consiste en la sanción económica que se impone al delincuente y se cubre a favor del Fondo Auxiliar para la Administración de Justicia del Estado. Se hará efectiva por conducto de la Dirección del Fondo Auxiliar, tomando su importe de la caución otorgada en autos, o en su caso, por medio del procedimiento económico-coactivo.
+
+Para la aplicación de este Código, respecto a las multas especificadas en días de salario, se considerará como salario, el mínimo general vigente en el momento y lugar en que se cometa el delito.
 
 ###### Artículo 29.
 
@@ -536,6 +540,10 @@ V. Tratándose de delitos cometidos en los servicios de empresas transportadoras
 ###### Artículo 59.
 
 Los delitos de homicidio y lesiones culposos, cometidos con motivo de tránsito de vehículos en agravio de un descendiente, ascendiente, cónyuge, concubino o hermano, no se sancionarán, salvo que el autor hubiese consumado el hecho en estado de ebriedad o bajo el influjo de estupefacientes o sustancias psicotrópicas.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+
+En el caso a que se refiere la primera parte del párrafo anterior, si además resultan ofendidos que no tengan el referido parentesto con el conductor, sólo se perseguirá el delito por querella del lesionado o de los herederos del occiso.
 
 ### CAPITULO V. Exceso en las causas de justificación
 
@@ -1471,7 +1479,7 @@ II. Al que para hacer que un inocente aparezca como reo de un delito, ponga sobr
 
 No se procederá contra el autor de ese delito, sino en virtud de sentencia ejecutoriada o resolución de sobreseimiento dictado por el juez o tribunal que hubiese conocido del delito imputado.
 
-### CAPITULO IV. Usurpación de Funciones o de Profesión
+### CAPITULO IV. Usurpación de Funciones Públicas o de Profesión
 
 ###### Artículo 195.
 
@@ -1695,6 +1703,8 @@ Igual sanción se aplicará al que legalmente las fabrique, distribuya o venda.
 
 ### CAPITULO II. Secuestro
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+
 ###### Artículo 210.
 
 Si el falsificador hiciere uso de los documentos u objetos falsos que se detallan en este Título, la falsificación y el delito que por medio de ella hubiere cometido el delincuente, se sujetarán al concurso del delito.
@@ -1823,9 +1833,11 @@ Las mismas sanciones se aplicarán al particular que empleando violencia física
 
 ### CAPITULO III. Abusos Deshonestos
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+
 ###### Artículo 228.
 
-Se impondrán de cinco a quince años de prisión y multa de cinco mil a treinta mil pesos, si la privación de la libertad de la persona se realiza en alguna de la formas siguientes:
+Se impondrá de seis a veinte años de prisión y multa de treinta a ciento veinte días de salario, si la privación de la libertad de la persona se realiza en alguna de la formas siguientes:
 
 I. Cuando se trate de obtener rescate, o causar daños o perjuicios al secuestrado o a otra persona relacionada con éste;
 
@@ -1839,9 +1851,11 @@ V. Cuando se sustraiga o retenga a un menor de doce años, por un extraño a su 
 
 VI. Cuando se obre en grupo o en banda.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+
 ###### Artículo 229.
 
-Si el secuestrador ponen en libertad a la persona secuestrada, espontáneamente dentro de tres días y sin causar perjuicio grave, se le impondrán prisión de seis meses a un año y multa de quinientos a mil pesos.
+Si el o los secuestradores ponen en libertad a la o las personas secuestradas, espontáneamente dentro de veinticuatro horas y sin causar perjuicio grave, se impondrá prisión de cuatro a ocho años y multa de diez a treinta dias de salario.
 
 ### CAPITULO I. Injurias
 
@@ -1929,9 +1943,7 @@ Cuando en la ejecución del delito de violación intervengan dos ó más persona
 
 ###### Artículo 241.
 
-Se impondrán de tres a siete años de prisión y multa de tres mil a siete mil pesos, a quien abusando del error de una mujer, fingiéndose su marido o concubino, tuviera cópula con ella.
-
-Este delito sólo se perseguirá por querella de la parte ofendida.
+Se impondrán de tres a siete años de prisión y multa de tres mil a siete mil pesos, a quien abusando del error de una mujer, fingiéndose su marido o concubino, tuviera cópula con ella. Este delito sólo se perseguirá por querella de la parte ofendida.
 
 ###### Artículo 242.
 
@@ -1955,15 +1967,19 @@ La reparación del daño comprenderá el pago de alimentos a la mujer y a los hi
 
 ###### Artículo 245.
 
-Al que sin consentimiento de una persona púber o impúber, o con consentimiento de esta última, o en persona que por cualquier causa no pudiere resistir, ejecute en ella o la haga ejecutar un acto erótico, sin el propósito de llegar a la cópula, se le impondrán de seis meses a dos años de prisión y multa de quinientos a dos mil pesos.
+Al que sin consentimiento de una persona púber o impúber, o con consentimiento de esta última, ejecute en ella o la haga ejecutar un acto erótico, sin el propósito de llegar a la cópula, se le impondrán de seis meses a dos años de prisión y multa de tres a veinte días de salario.
 
-Si se hiciere uso de la violencia física o moral, la sanción será de dos a cuatro años de prisión y multa de dos mil a cuatro mil pesos.
+Este delito sólo se sancionará cuando se haya consumado y será perseguible por querella de la parte ofendida o de sus representantes legítimos.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
 
 ### CAPITULO VI. Infanticidio
 
 ###### Artículo 246.
 
-El delito de abusos deshonestos sólo se sancionará cuando se haya consumado y será perseguible por querella de la parte ofendida o de sus representantes legítimos.
+Al que por medio de la violencia física o moral, con motivo de actos eróticos o cualquier otra causa, introduzca por vía anal o vaginal, cualquier elemento o instrumento diferente al miembro viril, o cuando sin emplearse la violencia el ofendido fuere menor de dieciocho años o no estuviere en posibilidades de resistir la conducta delictuosa, se le impondrán de dos a nueve años de prisión y multa de veinte a cien días de salario.
+
+Los hechos a que se refiere este artículo se perseguirán de oficio.
 
 TITULO DECIMOQUINTO
 
@@ -1979,7 +1995,7 @@ Injuria es toda conducta dolosamente dirigida a ofender el honor o el decoro de 
 
 El delito de injurias se sancionará con prisión de tres días a un año o multa de cien a mil pesos.
 
-### CAPITULO I. Tipos de Peligro Efectivo: Disparo de Arma de Fuego y Ataque Peligroso
+### CAPITULO I. Tipos de PeIigro Efectivo: Disparo de Arma de Fuego y Ataque Peligroso
 
 ###### Artículo 249.
 
@@ -2263,7 +2279,7 @@ Al que omita prestar el auxilio que sea necesario según las circunstancias, a u
 
 ###### Artículo 295.
 
-Los médicos, cirujanos, parteros, enfermeros y demás profesionistas similares y auxiliares que se nieguen a prestar sus servicios a un lesionado o enfermo en caso de notoria urgencia por exigir el pago anticipado de sus servicios, o por cualquier otro motivo injustificado, poniendo en peligro la vida o la salud de dicha persona, serán sancionados con prisión de seis meses a tres años y multa de quinientos a tres mil pesos.
+Los médicos, cirujanos, parteros, enfermeros y demás profesionistas similares y auxiliares que se nieguen a prestar sus servicios, a un lesionado o enfermo en caso de notoria urgencia por exigir el pago anticipado de sus servicios o por cualquier otro motivo injustificado, poniendo en peligro la vida o la salud de dicha persona, serán sancionados con prisión de seis meses a tres años y multa de quinientos a tres mil pesos.
 
 Si de las conductas omisivas a que se refiere este artículo, resultare la muerte de la persona a quien no se atendió, se aplicarán al responsable de dos a ocho años de prisión, multa de dos mil a ocho mil pesos e inhabilitación para el ejercicio profesional de uno a cinco años o definitiva en caso de reincidencia. Si resultaren lesiones, se le aplicarán hasta las dos terceras partes de la sanción que correspondería a éstas.
 
@@ -2323,15 +2339,15 @@ En los casos de tentativa de robo, cuando no fuere posible determinar el monto, 
 
 Se considera calificado el delito de robo cuando:
 
-I. Se ejecute con violencia en las personas o en las cosas;
+I. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 1989)
 
 II. El objeto del robo sea un expediente o algún documento de protocolo, oficina o archivo públicos, o documento que contenga obligación, liberación o transmisión de derechos que obre en un expediente judicial;
 
 III. Se comete aprovechando alguna relación de servicio, de trabajo o de hospitalidad;
 
-IV. Se comete en un paraje solitario, en lugar cerrado o en edificio, vivienda, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación no sólo los que estén fijos en la tierra, sino también los movibles, sea cual fuere la materia de que estén construidos.
+IV. (DEROGADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1989)
 
-También se considerará como lugar cerrado las huertas sembradas de frutales que estén cercadas;
+Se comete en huertos sembrados de frutales que están cercados;
 
 V. Se comete aprovechando la falta de vigilancia, el deshorden (sic) o confusión que se produzcan por un incendio, naufragio, inundación, accidentes del tránsito de vehículos o aeronaves u otros siniestros;
 
@@ -2339,9 +2355,19 @@ VI. Se comete por medio de escalamiento o empleo de llaves falsas;
 
 VII. Se ejecute con intervención de tres o más personas; y,
 
-VIII. Recaiga sobre vehículos estacionados en la vía pública, sobre parte de ellos u objetos guardados en su interior.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1989)</small>
 
-En los casos de robo calificado, las sanciones correspondientes al robo simple se aumentarán con prisión hasta cinco años y multa hasta cinco mil pesos.
+VIII. Recaiga sobre parte de vehículos u objetos que se hallen en él, encontrándose aquellos en la vía pública, o en lugar destinado a su guarda o reparación.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+
+En los casos de robo calificado, las sanciones correspondientes al robo simple se aumentarán con prisión hasta de cinco años y multa de diez a treinta días de salario.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+
+Artículo 303 bis.- Sin perjuicio de las sanciones que de acuerdo a los artículos 300 y 302 deban imponerse, se aplicarán de cuatro a diez años de prisión y multa de veinte a ciento veinte días de salario, si el robo se ejecutare con violencia; o por una o varias personas armadas o que utilicen o porten otros objetos peligrosos; a (sic) estando la víctima en un vehículo particular o de transporte público; o se cometa en lugar cerrado o en edificio, vivienda, aposento o cuarto que esté habitado o destinado para habitación, incluyendo en esta denominación no sólo los que estén fijos en la tierra sino también los movibles, sea cual fuere la materia de que estén construidos.
+
+En los mismos términos se sancionará al que se apodere de cualquier vehículo de motor.
 
 ###### Artículo 304.
 
@@ -2627,7 +2653,7 @@ Por tanto, mando se publique y observe.
 
 PALACIO DEL PODER EJECUTIVO.- Morelia, Mich. a 7 de julio de 1980.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS TORRES MANZO.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. AUSENCIO CHAVEZ HERNANDEZ.- Firmados.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.</small>
 
 P.O. 27 DE NOVIEMBRE DE 1980.
 
@@ -2654,3 +2680,7 @@ El presente decretó entrará en vigor el día siguiente al de su publicación e
 ###### ARTICULO SEGUNDO.
 
 Conforme al Artículo 5o. del Código Penal vigente en el Estado, quienes se encuentren sujetos a proceso y resulten beneficiados con estas reformas, podrán solicitar de inmediato la aplicación de los beneficios que legalmente procedan.
+
+P.O. 30 DE NOVIEMBRE DE 1989.
+
+UNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
