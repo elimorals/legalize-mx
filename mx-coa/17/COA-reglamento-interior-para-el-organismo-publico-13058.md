@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-para-el-organismo-publico-13058"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-07-14"
-last_updated: "1999-11-23"
+last_updated: "2004-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13058&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO INTERIOR PARA EL ORGANISMO PUBLICO DESCENTRALIZADO DE LA ADMINISTRACION PUBLICA ESTATAL DENOMINADO "SERVICIOS DE SALUD DE COAHUILA"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR PARA EL ORGANISMO PUBLICO DESCENTRALIZADO DE LA ADMINISTRACION PUBLICA ESTATAL DENOMINADO "SERVICIOS DE SALUD DE COAHUILA", PUBLICADO EN EL P.O. DE 9 DE JULIO DE 2004, SE ABROGA EL PRESENTE REGLAMENTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 14 de julio de 1998.
 
@@ -706,3 +708,11 @@ C.P. MA. DE JESUS SANDOVAL RODRIGUEZ
 P.O. 23 DE NOVIEMBRE DE 1999.
 
 UNICO.- El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE JULIO DE 2004.
+
+Primero.- El presente reglamento entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento Interior para el Organismo Público Descentralizado de la Administración Pública Estatal denominado "Servicios de Salud de Coahuila", publicado en el Periódico Oficial del Gobierno del Estado No. 56, de fecha 14 de julio de 1998.
+
+Tercero.- Se abrogan las reformas al Reglamento Interior para el Organismo Público Descentralizado de la Administración Pública Estatal denominado "Servicios de Salud de Coahuila", publicadas en el Periódico Oficial del Gobierno del Estado No. 94 de fecha 23 de noviembre de 1999.
