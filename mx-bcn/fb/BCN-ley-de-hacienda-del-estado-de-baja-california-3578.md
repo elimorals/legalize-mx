@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1988-12-31"
+last_updated: "1991-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 1991.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1613,6 +1613,66 @@ IV.- Expropiaciones;
 
 V.- Aportaciones extraordinarias de los Entes Públicos.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 1991)</small>
+
+## TITULO IX. EXENCIONES PARA JUBILADOS, PENSIONADOS E INDIGENTES MAYORES DE SESENTA AÑOS
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1991)</small>
+
+###### ARTICULO 172.
+
+Para efectos de esta Ley se consideran jubilados o pensionados, aquellas personas que acrediten la calidad correspondiente a través de la documentación oficial expedida por las Instituciones Públicas de Seguridad Social que a continuación se señalan:
+
+I.- INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS TRABAJADORES DEL ESTADO DE BAJA CALIFORNIA;
+
+II.- INSTITUTO MEXICANO DEL SEGURO SOCIAL;
+
+III.- INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DEL ESTADO;
+
+IV.- INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LAS FUERZAS ARMADAS MEXICANAS, DE PETROLEOS MEXICANOS, DE LA COMISION FEDERAL DE ELECTRICIDAD Y DE FERROCARRILES NACIONALES DE MEXICO;
+
+V.- OTRAS INSTITUCIONES DE SEGURIDAD SOCIAL QUE PRESTEN ESTOS SERVICIOS EN LAS DIVERSAS ENTIDADES FEDERATIVAS DEL PAIS, O A DIVERSAS AGRUPACIONES SINDICALES.
+
+Tratándose de personas indigentes mayores de sesenta años, las que comprueben su edad con acta de nacimiento y la indigencia, previo estudio socioeconómico con vigencia anual que realice el Sistema para el Desarrollo Integral de la Familia en el Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1991)</small>
+
+###### ARTICULO 173.
+
+Las exenciones que este Título otorga a los jubilados y pensionados, corresponde a un 50% del monto del crédito fiscal de las contribuciones estatales reguladas en esta Ley, que a continuación se detallan y, se otorgarán dentro de los lineamientos siguientes:
+
+I. IMPUESTO SOBRE COMPRAVENTA Y OPERACIONES SIMILARES que no excedan de un año de salario mínimo vigente en esta zona;
+
+II. DERECHOS POR LA PRESTACION DEL SERVICIO PUBLICO DE AGUA PARA USO DOMESTICO EN LOS MUNICIPIOS DE MEXICALI, TECATE, TIJUANA Y ENSENADA, únicamente un inmueble de su propiedad o donde habite;
+
+III. DERECHOS DE CONEXION AL SISTEMA DE AGUA POTABLE EN LOS MUNICIPIOS DE MEXICALI, TECATE, TIJUANA Y ENSENADA, el contribuyente deberá ser el propietario o posesionario del inmueble en que habite;
+
+IV. DERECHOS POR SERVICIOS DE CONTROL VEHICULAR:
+
+A.- LICENCIAS PARA CONDUCIR.
+
+B.- PLACAS O CALCAMONIAS (sic), para un solo vehículo de su propiedad.
+
+C.- OTROS SERVICIOS.
+
+V. DERECHOS POR SERVICIOS DE LA DIRECCION DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO; únicamente a los servicios que preste el Registro Público de la Propiedad.
+
+VI.- DERECHOS POR LA LEGALIZACION DE FIRMAS, EXPEDICION DE CERTIFICADOS Y CERTIFICACIONES.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1991)</small>
+
+###### ARTICULO 174.
+
+En el caso de las personas indigentes mayores de sesenta años, respecto a las contribuciones estatales señaladas en el Artículo 173 de esta Ley estarán exentas al 100%.
+
+Para los efectos del Impuesto de Plusvalía se estará a lo dispuesto en el Artículo 9o. de la Ley de Urbanización del Estado de Baja California.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1991)</small>
+
+###### ARTICULO 175.
+
+Los recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito fiscal por infracciones a las disposiciones fiscales, a cargo de jubilados, pensionados e indigentes mayores de 60 años, se causará sobre la cantidad que éstos deban cubrir, según lo estipulado en los Artículos 173 y 174 de esta Ley.
+
 TRANSITORIOS:
 
 ###### ARTICULO PRIMERO.
@@ -1862,3 +1922,7 @@ P.O. 31 DE DICIEMBRE DE 1988.
 ###### ARTICULO UNICO.
 
 Las Reformas y Adiciones a que se refiere el presente Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 31 DE OCTUBRE DE 1991.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
