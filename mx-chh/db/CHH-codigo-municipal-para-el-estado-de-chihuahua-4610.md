@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2000-06-24"
+last_updated: "2000-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2000.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1687,9 +1687,9 @@ a) Como contraprestación, por bienes o servicios recibidos por el Municipio;
 
 b) Por la afectación de derechos de los particulares, motivada por actos de la administración municipal, realizados en ejercicio de su competencia y para satisfacción de necesidades colectivas; y
 
-c) Para ordenar asentamientos humanos irregulares.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2000)</small>
 
-Para el caso de establecimientos de centros industriales, agropecuarios, educativos y de interés social, previa justificación ante los Ayuntamientos y aprobación del Congreso del Estado, podrán enajenarse superficies mayores a las que determina el artículo 113.
+c) Para ordenar asentamientos humanos irregulares. Cuando la solicitud de regularización recaiga sobre inmuebles cuyas superficies superen las señaladas en el Artículo 113 de este ordenamiento, se requerirá autorización previa del Congreso del Estado; el solicitante deberá acreditar que ha tenido la posesión del inmueble por 5 años anteriores a la fecha de la solicitud, además que no se hallen bienes registrados a su nombre o de su cónyuge, sin perjuicio de cumplir con las demás disposiciones legales aplicables.
 
 ###### ARTICULO 112.
 
@@ -1710,6 +1710,10 @@ I.- En poblaciones hasta de tres mil habitantes, mil metros cuadrados;
 II.- En poblaciones de más de tres mil habitantes y hasta de quince mil, quinientos metros cuadrados y;
 
 III.- En poblaciones mayores de quince mil habitantes, doscientos cincuenta metros cuadrados.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2000)</small>
+
+Para el caso de establecimientos de centros industriales, agropecuarios, educativos y de interés social, previa justificación ante los Ayuntamientos y aprobación del Congreso del Estado, podrán enajenarse superficies mayores a las señaladas con anterioridad.
 
 ###### ARTICULO 114.
 
@@ -2757,9 +2761,9 @@ Lo anterior, sin perjuicio de los incrementos acordados por el Ayuntamiento con 
 
 Tercero.- Mientras no se expidan los nuevos reglamentos a que se refiere este Código, continuarán en vigor los que hasta la fecha se hubieran expedido en lo que no contravengan al presente Código.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2000)</small>
 
-Cuarto.- Las Asociaciones Religiosas constituidas de conformidad a lo dispuesto por la ley de la materia, estarán exentas de pagar el Impuesto Predial causado por los bienes inmuebles que se encuentren dentro de su patrimonio y que se destinen a los fines de las Asociaciones, así como el Impuesto de Traslación de Dominio que se genere por los bienes inmuebles de las mismas características que adquieran en el periodo comprendido entre el día 1° de enero de 1999 y el 31 de diciembre del mismo año, ambos impuestos establecidos en el presente Código.
+Cuarto.- Las Asociaciones Religiosas constituidas de conformidad a lo dispuesto por la Ley de la materia, estarán exentas de pagar el Impuesto Predial causado por los bienes inmuebles que se encuentren dentro de su patrimonio y que se destinen a los fines de las Asociaciones, así como el Impuesto de Traslación de Dominio que se genere por los bienes inmuebles de las mismas características, que adquieran en el período comprendido entre el día 1o de junio del 2000 y el 31 de diciembre del mismo año, ambos impuestos establecidos en el presente Código.
 
 Dado en el Salón de Sesiones del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los veintiséis días del mes de Septiembre de mil novecientos noventa y cinco.
 
@@ -2928,5 +2932,17 @@ P.O. 6 DE MAYO DE 2000.
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 24 DE JUNIO DE 2000.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JUNIO DE 2000.
+
+DECRETO No. 512-00 II P.O.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JUNIO DE 2000.
+
+DECRETO No. 521-00 II P.O.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
