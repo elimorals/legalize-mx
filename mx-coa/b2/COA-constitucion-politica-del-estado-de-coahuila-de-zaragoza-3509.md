@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1926-05-05"
+last_updated: "1926-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 1926.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 1926.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -376,7 +376,7 @@ Las sesiones serán públicas; pero cuando se trate de asuntos que exijan reserv
 
 ###### Artículo 55.
 
-El lugar de sesiones del Congreso será el designado por el mismo para la residencia de los Poderes del Estado y no podrá transladarse (sic) a otro punto sin que para ello estén de acuerdo las dos terceras partes de los Diputados presentes.
+El lugar de sesiones del Congreso será el designado por el mismo para la residencia de los Poderes del Estado y no podrá transladarse (sic) a otro punto sin que para ello estén de acuerdo las dos terceras partes de los diputados presentes.
 
 ###### Artículo 56.
 
@@ -748,7 +748,7 @@ VII. Presentar durante los primeros quince días de las sesiones ordinarias del 
 
 VIII. Facilitar al Poder Judicial los auxilios que necesite para el ejercicio de sus funciones.
 
-IX. Proteger la seguridad de las personas, bienes y derechos de los individuos, y al efecto, mantener el orden, paz y tranquilidad públicas en todo el Estado, haciendo respetar las garantías individuales.
+IX. Proteger la seguridad de las personas, bienes y derechos de los individuos, y al efecto, mantener el orden, paz y tranquilidad pública en todo el Estado, haciendo respetar las garantías individuales.
 
 X. Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos, haciendo efectiva la responsabilidad en que ella incurriere.
 
@@ -1000,9 +1000,11 @@ El territorio del Estado se divide en Distritos y Municipalidades conforme se ex
 
 Las Municipalidades conservarán el territorio que actualmente tienen; pero el Congreso podrá modificar su extensión, cuando lo juzgue conveniente, y aumentar o disminuir el número de ellas.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1926)</small>
+
 ###### Artículo 124.
 
-Cada municipio estará administrado por un Ayuntamiento que será nombrado por elección popular directa y se renovará en su totalidad cada dos años; entrando a funcionar el primero de enero, conforme a la ley; no siendo en todo caso menor de cinco el número de munícipes ni mayor de quince y conforme al orden siguiente:- En los municipios que cuenten menos de 3,000 habitantes habrá cinco munícipes, en los de 3,000 a 6,000, siete; en los de 6,000 a 12,000 nueve; en los de 12,000 a 20,000, once; en los de 20,000 a 40,000, trece y en los que pasen de 40,000 quince.
+Cada Municipio estará administrado por un Ayuntamiento que será nombrado por elección popular directa y se renovará en su totalidad cada dos años, entrando a funcionar el 1º de enero conforme a la Ley; no siendo en todo caso menor de tres el número de munícipes, ni mayor de siete, conforme al orden siguiente: En los Municipios que cuenten menos de 5,000 habitantes, habrá Un Presidente Municipal, Un Regidor y Un Síndico; en los de 5,000 a 20,000 habitantes, habrá un Presidente Municipal, Tres Regidores y Un Síndico; y en los que pasen de 20,000 habitantes habrá un Presidente Municipal, Cuatro Regidores y Dos Síndicos.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1918)</small>
 
@@ -1016,9 +1018,11 @@ Será Presidente del Ayuntamiento, aquel de sus miembros que haya sido electo co
 
 Las faltas temporales del Presidente Municipal, serán suplidas por los regidores del Ayuntamiento, según el orden de su nombramiento.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1926)</small>
+
 ###### Artículo 127.
 
-La elección de los síndicos será también popular directa, nombrándose uno por cada cinco, siete o nueve munícipes; dos, por cada once o trece y tres por cada quince.
+La elección de los Síndicos será también popular directa y se nombrarán en la forma señalada en el artículo 124 debiendo nombrarse un Suplente para los Síndicos de aquellos Municipios que no excedan de 20,000 habitantes.
 
 ###### Artículo 128.
 
@@ -1268,7 +1272,7 @@ Se suprime en el Estado el recurso de casación en materia criminal y en asuntos
 
 ### CAPITULO UNICO.
 
-De la Inviolavilidad (sic) y reforma de la Constitución.
+De la Inviolavilidad (sic ) y reforma de la Constitución.
 
 ## TITULO SEPTIMO.
 
@@ -1555,5 +1559,9 @@ P.O. 14 DE MAYO DE 1921.
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 5 DE MAYO DE 1926.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 24 DE JULIO DE 1926.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
