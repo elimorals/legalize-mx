@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-de-fomento-economico-para-el-estado-de-144
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-05-08"
-last_updated: "1999-05-08"
+last_updated: "2004-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY DE FOMENTO ECONOMICO PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2004.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de mayo de 1999.
 
@@ -357,13 +357,17 @@ I. Un Presidente, que será el Presidente Municipal;
 
 II. Un Secretario, que será el del propio Ayuntamiento;
 
-III.- Los siguientes vocales que serán:
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
 
-a).- El tesorero municipal, el director de obras públicas y el titular del COPLADEMUN;
+III.- Los siguientes vocales:
 
-b).- Tres representantes de organizaciones de productores, comerciantes e industriales, en su caso; y
+a).- El Tesorero Municipal y el Director de Desarrollo Urbano, o bien, quienes desempeñen funciones análogas.
 
-c).- Una persona de reconocido prestigio a nivel local que será invitada libremente por el C. Presidente Municipal.
+b).- El Director de Fomento Económico Municipal en los Ayuntamientos que cuenten con él, o en su defecto, por el titular del Comité de Planeación para el Desarrollo Municipal COPLADEMUN, o bien, quien desempeñe funciones análogas.
+
+c).- Cuando menos tres representantes de organizaciones empresariales de productores, comerciantes, servicios e industriales, o del sector privado, en su caso; y
+
+d).- Cuando menos un representante de la sociedad civil que sea de reconocido prestigio a nivel local que será invitado libremente por el Presidente;
 
 IV. Por invitación, podrán asistir las personas o representantes de organizaciones y dependencias que estime conveniente el Presidente del Consejo Municipal. Estos sólo tendrán derecho a voz;
 
@@ -434,3 +438,11 @@ Cualquier modificación a este reglamento, para que tenga validez deberá public
 Dado en la residencia del Poder Ejecutivo del Estado a los siete días del mes de mayo de 1999.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA.- Rúbrica.- EL SECRETARIO DE FOMENTO ECONÓMICO, ING. CARLOS AGUIRRE CEBALLOS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial ''El Estado de Colima''.
