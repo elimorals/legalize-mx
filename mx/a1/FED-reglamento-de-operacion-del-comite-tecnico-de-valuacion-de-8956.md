@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-operacion-del-comite-tecnico-de-valuacion-de-8956
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-10-22"
-last_updated: "1996-10-22"
+last_updated: "2004-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8956&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-10-03"
 
 REGLAMENTO DE OPERACION DEL COMITE TECNICO DE VALUACION DE LA SECRETARIA DE LA REFORMA AGRARIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE OCTUBRE DE 2004.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 22 de octubre de 1996.
 
@@ -79,6 +79,12 @@ VII. Las demás funciones que expresamente le confiera el Titular de la Secretar
 
 El Comité estará integrado por cinco peritos en la materia designados por el Titular de la Secretaría y presidido por uno de ellos, electo por insaculación, que durará un año en el encargo.
 
+> <small>(ADICIONADO, D.O.F. 12 DE OCTUBRE DE 2004)</small>
+
+Artículo 4 BIS.- Para efectos administrativos, los peritos y el personal de apoyo del Comité, dependerán de la Oficialía Mayor.
+
+La Dirección General de Asuntos Jurídicos será la encargada de supervisar la operación del Comité, y estará facultada para establecer prioridades para la realización de avalúos, con la finalidad de atender con oportunidad las obligaciones jurídicas derivadas de ejecutorias de los órganos jurisdiccionales o de acuerdos y programas prioritarios de la Secretaría, en términos de lo que instruya el titular de la misma.
+
 ###### Artículo 5.
 
 El Titular de la Secretaría establecerá el número y especialidad del personal de apoyo con que contará el Comité, con el objeto de auxiliar en la revisión y verificación de los expedientes valuatorios.
@@ -135,9 +141,11 @@ El Comité llevará a cabo una evaluación permanente sobre el desempeño de los
 
 ### CAPITULO CUARTO. DE LA EMISION DE LOS AVALUOS
 
+> <small>(REFORMADO, D.O.F. 12 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 13.
 
-Para la presentación de solicitudes de avalúo, corresponderá a la Secretaría requisitar el formato diseñado exprofeso por el Comité. Dicho formato deberá ir acompañado de una cédula de información donde consten los antecedentes que sean necesarios para efectuar los trabajos periciales. En su caso, la cédula de información incluirá copia del Dictamen Técnico realizado por la Dirección General de Ordenamiento y Regularización que valide los trabajos técnicos de medición y deslinde, además de la calidad de las tierras, así como la constancia sobre la clase y tipo de tierras proporcionada por la Secretaría de Agricultura, Ganadería y Desarrollo Rural. Recibida la documentación, el Comité procederá a analizarla con el objeto de designar al perito valuador.
+En su caso, la cédula de información incluirá copia del Dictamen Técnico realizado por la Dirección General de Ordenamiento y Regularización que valide los trabajos técnicos de medición y deslinde, además de la calidad de las tierras, así como la constancia sobre la clase y tipo de tierras proporcionada por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
 ###### Artículo 14.
 
@@ -217,9 +225,11 @@ El Comité contará con un plazo no mayor a treinta días hábiles para elaborar
 
 En caso de inconformidad con el avalúo emitido, el o los interesados contarán con treinta días hábiles a partir de la notificación para solicitar al Comité la revisión del valor establecido. El Comité, con base en la revisión que se efectúe, emitirá un nuevo dictamen que ratificará o modificará el valor del predio y tendrá el carácter de inapelable.
 
+> <small>(REFORMADO, D.O.F. 12 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 26.
 
-La vigencia de los dictámenes valuatorios no podrá exceder del plazo de seis meses. Cuando el interesado solicite condiciones de pago que excedan la vigencia del avalúo, la Dirección General de Programación, Organización y Presupuesto establecerá criterios para su actualización, garantizando que los montos cobrados sean equivalentes al valor real establecido en la fecha del dictamen de avalúo.
+Cuando el interesado solicite condiciones de pago que excedan la vigencia del avalúo, la Oficialía Mayor establecerá los criterios para su actualización, garantizando que los montos cobrados sean equivalentes al valor real establecido en la fecha del dictamen del avalúo.
 
 ###### Artículo 27.
 
@@ -287,9 +297,11 @@ Los peritos valuadores deberán ser sustituidos cuando se presente alguno de los
 
 Artículo 37 (sic).- Los integrantes del Comité están obligados a guardar secreto profesional de la información que se maneje y no utilizarla en beneficio propio o de intereses ajenos a los de la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 12 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 38.
 
-En el cumplimiento de sus funciones, los integrantes del Comité están sujetos a lo dispuesto por la Ley Federal de Responsabilidades de los Servidores Públicos.
+En el cumplimiento de sus funciones, los integrantes del Comité estarán sujetos a lo dispuesto por la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 
 ## TRANSITORIOS
 
@@ -298,3 +310,9 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Los expedientes que previo a la publicación del presente Reglamento se encuentren pendientes de avalúo, se desahogarán en periodo no mayor a un año.
 
 México, Distrito Federal, a los tres días del mes de octubre de mil novecientos noventa y seis.- El Secretario de la Reforma Agraria, Arturo Warman.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 12 DE OCTUBRE DE 2004.
+
+UNICO: El presente Acuerdo entrará en vigor a partir del día siguiente al que sea publicado en el Diario Oficial de la Federación.
