@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1925-05-20"
+last_updated: "1926-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 1925.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 1926.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -393,7 +393,9 @@ IV.- Convocar al Congreso a sesiones extraordinarias cuando convenga a la salud 
 
 V.- Manifestar su opinión por escrito al Gobernador, en los casos en que éste tenga a bien pedirla.
 
-VI.- Ejercer las facultades a que se refieren los arts. 52, 63 en sus fracciones IV, XV, XXI, XXXVI y XXXVII, 89, 90, 91 y 98 de esta Constitución.
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 1926)</small>
+
+VI.- Ejercer las facultades a que se refieren los artículos 52, 63 en sus Fracciones IV, XXI, XXXVI, 89, 90, 91 y 98 de esta Constitución.
 
 VII.- Nombrar interinamente en caso necesario al Tesorero del Estado.
 
@@ -990,6 +992,10 @@ P.O. 24 DE DICIEMBRE DE 1924.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
 P.O. 20 DE MAYO DE 1925.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+
+P.O. 5 DE MAYO DE 1926.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
