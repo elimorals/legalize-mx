@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1982-02-19"
+last_updated: "1982-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 1982.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -4219,11 +4219,11 @@ Tienen derecho de habitar la casa y de disfrutar los frutos de la parcela afecta
 
 Los beneficiarios de los bienes afectos al Patrimonio de la Familia serán representados en sus relaciones con tercero, en todo lo que al Patrimonio se refiere, por el que lo constituyó, y, en su defecto, por el que nombre la mayoría. El representante tendrá también la administración de dichos bienes.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1982)</small>
 
 ###### Artículo 728.
 
-El valor máximo de los bienes afectos al Patrimonio de la familia será de $ 100,000.00, si se trata de una familia compuesta por sólo dos personas; si el número es mayor, el valor de su patrimonio podrá aumentarse en una décima parte de la cantidad indicada, por cada persona, sin que el máximo pueda exceder de $ 120,000.00.
+El valor máximo de los bienes afectos al patrimonio de familia, conforme al Artículo 725, será la cantidad que resulte de multiplicar por 1825 el importe del salario mínimo general diario vigente en el Estado de Sinaloa, en la época en que se constituya el patrimonio.
 
 ###### Artículo 729.
 
@@ -13765,7 +13765,7 @@ Al concluir el contrato de aparcería, el aparcero que hubiere cumplido fielment
 
 ###### Artículo 2632.
 
-El propietario no tiene derecho de dejar sus tierras ociosas, sino el tiempo que sea necesario para que recobren sus propiedades fertilizantes. En consecuencia, pasada la época que en cada región fije la autoridad municipal, conforme a la naturaleza de los cultivos, si el propietario no las comienza a cultivar por sí o por medio de otros, tiene obligación de darlas en aparcería, conforme a la costumbre del lugar, a quien las solicite y ofrezca las condiciones necesarias de honorabilidad y solvencia.
+El propietario no tiene derecho de dejar sus tierras ociosas, sino el tiempo que sea necesario para que recobren sus propiedades fertilizantes. En consecuencia, pasada la época que en cada región fije la autoridad municipal, conforme a la naturaleza de los cultivos, si el propietario no las comienza a cultivar po sí o por medio de otros, tiene obligación de darlas en aparcería, conforme a la costumbre del lugar, a quien las solicite y ofrezca las condiciones necesarias de honorabilidad y solvencia.
 
 ###### Artículo 2633.
 
@@ -15596,3 +15596,9 @@ P.O. 19 DE FEBRERO DE 1982.
 ###### ARTICULO UNICO.
 
 El presente decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 24 DE FEBRERO DE 1982.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
