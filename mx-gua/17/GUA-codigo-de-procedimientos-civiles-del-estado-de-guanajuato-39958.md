@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1959-08-23"
+last_updated: "1968-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 1959.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1968.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -175,11 +175,13 @@ El tribunal que resuelva la incompetencia declarará de oficio la nulidad.
 
 Competencia por materia.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1958)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1968)</small>
 
 ###### Art. 23.
 
-Los jueces municipales son competentes para conocer exclusivamente de los negocios, valuables en dinero, cuya cuantía no exceda de dos mil pesos, hecha excepción de los casos que interesen al Estado o a una Entidad de Derecho Público.
+Los Jueces Municipales son competentes para conocer exclusivamente de negocios contenciosos de cuantía no mayor de $5,000.00.
+
+En ningún caso podrán conocer de reclamaciones contra la Federación, el Estado o los Municipios.
 
 ###### Art. 24.
 
@@ -1451,11 +1453,11 @@ Cuando el auto contra el cual se haya admitido el recurso de apelación en ambos
 
 En los autos que queden en el tribunal no podrá nunca dictarse resolución alguna que modifique, revoque o en otra forma afecte lo acordado en la resolución apelada, entre tanto que el recurso este pendiente, para lo cual se dejará copia de ella.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1959)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1968)</small>
 
 ###### Art. 243.
 
-Sólo son apelables las sentencias que recaigan en negocios cuyo valor exceda de DOS MIL PESOS y en aquellos cuyo interés no sea susceptible de valuarse en dinero.
+Sólo son apelables las sentencias que recaigan en negocios cuyo valor exceda de $5,000.00 y en aquellos cuyo interés no sea susceptible de valuarse en dinero.
 
 ###### Art. 244.
 
@@ -3291,11 +3293,11 @@ Sucesiones.
 
 Disposiciones generales.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1958)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1968)</small>
 
 ###### Art. 564.
 
-Los jueces municipales son competentes para conocer de toda clase de juicios sucesorios cuyo caudal no exceda de dos mil pesos; de los que excedan de dicha cantidad conocerán los jueces de partido, así como de aquellos en que sea heredero o legatario el Estado o la Beneficencia.
+De todos los juicios sucesorios, cualquiera que sea su cuantía, conocerán los Jueces de Partido. En las sucesiones con capital aparente de menos de $5,000.00 se sujetarán al Capítulo IX, del Título Segundo, del Libro Tercero de este Código.
 
 ###### Art. 565.
 
@@ -4488,3 +4490,13 @@ Segundo.- Este decreto entrará en vigor a partir de la fecha de su publicación
 P.O. 23 DE AGOSTO DE 1959.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE GUANAJUATO.
+
+P.O. 16 DE JUNIO DE 1968.
+
+###### ARTICULO 1o.
+
+La presente reforma entrará en vigor el día 1o. de junio del año en curso.
+
+###### ARTICULO 2o.
+
+La modificación de competencia que esta reformas (sic) establece al artículo 23, no surtirá efectos en los negocios ya iniciados al entrar en vigor, los que continuarán tramitándose conforme a la disposición anterior.
