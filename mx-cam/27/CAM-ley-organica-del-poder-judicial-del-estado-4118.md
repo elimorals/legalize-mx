@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-judicial-del-estado-4118"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-12-04"
-last_updated: "1985-12-02"
+last_updated: "1986-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 1986.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el día jueves 4 de diciembre de 1980.
 
@@ -87,7 +87,9 @@ III.- Los registradores públicos de la propiedad;
 
 IV.- Los peritos médico legistas;
 
-V.- Los intérpretes oficiales y demás peritos en las ramas que les estén encomendadas;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1986)</small>
+
+V.- Los intérpretes oficiales, corredores públicos y demás peritos, en las ramas que les estén encomendadas;
 
 VI.- Los síndicos e interventores de concursos y quiebras;
 
@@ -147,9 +149,13 @@ I.- Los juzgados menores de Campeche, Calkiní, Hecelchakán, Tenabo y Palizada 
 
 II.- El juzgado menor del Carmen, con sede en la ciudad del mismo nombre, solo tendrá jurisdicción sobre las poblaciones comprendidas en el segundo distrito judicial;
 
-III.- El juzgado menor de Escárcega, con sede en la villa de ese nombre, tendrá jurisdicción sobre las poblaciones de Felipe Carrillo Puerto, Pixoyal, La Chiquita, Esperanza, E. Rodríguez, Miguel Colorado, Cinco de Febrero, División del Norte, Haro, Victoria, Ocampo, El Pato, Ballesteros, J. de la Cruz Blanco, Díaz Ordaz, San Isidro, Mamantel, Microondas, Lechugal, 18 de Marzo, Pital, Francisco Villa, Matamoros, Belén y la Libertad, todas ellas pertenecientes al Municipio del Carmen; así como sobre las poblaciones de los Municipios de Hopelchén y Champotón jurisdiccionados al tercer distrito judicial;
+> <small>(REFORMADA P.O. 4 DE OCTUBRE DE 1986)</small>
 
-IV.- El juzgado menor de Candelaria, con sede en la Villa de ese nombre, tendrá jurisdicción sobre las poblaciones del Municipio del Carmen no comprendidas en las fracciones II y III de este artículo; y
+III.- El juzgado menor de Escárcega, con sede en la villa de ese nombre, tendrá jurisdicción sobre las poblaciones que se encuentren comprendidas en la circunscripción de la Sección Municipal de Escárcega, así como sobre las poblaciones de los Municipios de Hopelchén y Champotón incorporadas al tercer distrito judicial;
+
+> <small>(REFORMADA P.O. 4 DE OCTUBRE DE 1986)</small>
+
+IV.- El Juzgado Menor de Candelaria, con sede en la villa de ese nombre, tendrá jurisdicción sobre las poblaciones que se encuentren comprendidas en la circunscripción de la Sección Municipal de Candelaria; y
 
 V.- Los juzgados menores de Champotón y Hopelchén, con sede en las ciudades del mismo nombre, tendrán jurisdicción sobre las poblaciones de sus correspondientes municipios no comprendidos en el tercer distrito judicial.
 
@@ -161,15 +167,17 @@ V.- Los juzgados menores de Champotón y Hopelchén, con sede en las ciudades de
 
 ### CAPITULO PRIMERO. Del Tribunal Superior
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 1985)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1986)</small>
 
 ###### Artículo 13.
 
-El Tribunal Superior de Justicia estará integrado por siete Magistrados numerarios y un supernumerario, quienes serán designados en la forma y términos que previene el Artículo 78 de la Constitución Política del Estado y funcionará en Pleno o en Salas, según lo determine esta ley.
+El Tribunal Superior de Justicia estará integrado por siete magistrados numerarios y uno supernumerario, quienes serán designados en la forma y términos que previene el artículo 78 de la Constitución Política del Estado, y funcionará en Pleno y en Salas según lo determine la Ley.
 
-Uno de los magistrados numerarios será presidente del Tribunal.
+Uno de los magistrados numerarios será Presidente del Tribunal.
 
-El magistrado supernumerario percibirá sueldo igual al que señala el presupuesto a los numerarios.
+El magistrado supernumerario formará parte del Pleno cuando sustituya a un magistrado numerario por ausencia temporal o permanente, o en caso de excusa o recusación para conocer de asuntos concernientes al Pleno.
+
+El magistrado supernumerario percibirá sueldo igual al que señale el presupuesto para los numerarios.
 
 > <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
@@ -273,25 +281,43 @@ XXIX.- Fomentar la enseñanza jurídica y la capacitación de los empleados del 
 
 XXX.- Registrar los títulos profesionales de abogados que reúnan los requisitos que disponga la Ley;
 
-XXXI.- (DEROGADA, P.O. 2 DE DICIEMBRE DE 1985)
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 1986)</small>
 
-XXXII.- Ejercitar las demás atribuciones que le confieran las leyes.
+XXXI.- Crear o suprimir, con carácter temporal o permanente, oficialías de partes para cada órgano jurisdiccional o comunes para varios de ellos, ubicados en el mismo lugar. Las primeras serán particulares y dependerán del titular del órgano jurisdiccional respectivo; las otras serán generales y dependerán directamente de la Oficialía Mayor del Tribunal Superior de Justicia.
+
+La estructura administrativa de las Oficialías Generales de Partes y sus plantas de personal quedarán sujetas a las disposiciones que para el efecto emita el Pleno, de acuerdo con las necesidades del servicio y previsión del presupuesto. Las Oficialías particulares estarán a cargo de la persona o personas que al efecto se designen.
+
+Las Oficialías de partes, en su caso, llevarán a efecto la recepción y certificación de ésta en los escritos que se presenten ante los órganos jurisdiccionales y que la ley encomiende a los secretarios de acuerdos.
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 1986)</small>
+
+XXXII.- Elaborar y aprobar el calendario de labores del Poder Judicial del Estado; y
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1986)</small>
+
+XXXIII.- Ejercitar las demás atribuciones que le confieran las leyes y reglamentos.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1986)</small>
 
 ###### Artículo 19.
 
-Para que funcione el Tribunal en Pleno se necesita la concurrencia de tres magistrados cuando menos y las resoluciones se tomarán por mayoría de votos de los magistrados presentes. En caso de empate, se confiere voto de calidad al Presidente del Tribunal.
+Para que funcione el Pleno del Tribunal se necesita la concurrencia de cuatro magistrados cuando menos y las resoluciones se tomarán por mayoría de votos de los magistrados presentes. En caso de empate, se confiere voto de calidad al Presidente del Tribunal.
 
 ###### Artículo 20.
 
 Las sesiones del Tribunal Pleno podrán ser ordinarias y extraordinarias y, en ambos casos, públicas o secretas. Las sesiones ordinarias se celebrarán el primer día hábil de cada semana y las extraordinarias cuando sea necesario para tratar y resolver asuntos urgentes, previa convocatoria del presidente del mismo, en la que se determinará si son secretas o públicas, a iniciativa propia o a solicitud de dos magistrados cuando menos.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1986)</small>
+
 ###### Artículo 21.
 
-Para la presidencia y Tribunal Pleno se designará un secretario general de acuerdos, un secretario auxiliar, un oficial mayor y el número de empleados que fije el presupuesto de egresos respectivo.
+Para la Presidencia y Tribunal Pleno se designará un secretario general de acuerdos, un secretario auxiliar, un oficial mayor, un actuario y el número de empleados que fije el presupuesto de egresos respectivo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE OCTUBRE DE 1986)</small>
 
 ###### Artículo 22.
 
-Para ser secretario general de acuerdos se requiere:
+Para ser secretario general de acuerdos, secretario auxiliar o actuario del Pleno, se requiere:
 
 I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -365,7 +391,7 @@ XVI.- Formar mensualmente una lista de los exhortos, despachos y diligencias que
 
 XVII.- Cuidar que se integren las hojas de servicios de los funcionarios y empleados del Poder Judicial, haciendo las anotaciones que procedan, incluyendo denuncias, quejas y correcciones disciplinarias impuestas;
 
-XVIII.- Someter a la consideración del Tribunal Pleno el informe anual que deberá rendir al Congreso del Estado y previa aprobación del Pleno, rendir tal informe, conforme a lo previsto en el artículo 87 de la Constitución Política del Estado;
+XVIII.- (DEROGADA, P.O. 4 DE OCTUBRE DE 1986)
 
 XIX.- Dar cuenta al Pleno con las denuncias o quejas presentadas en contra de los magistrados, jueces y demás funcionarios del Poder Judicial;
 
@@ -401,7 +427,9 @@ Los presidentes de sala tendrán las atribuciones siguientes:
 
 I.- Llevar la correspondencia de la sala, autorizándola con su firma;
 
-II.- Distribuir por riguroso turno los negocios, entre los demás miembros de la sala, para su estudio y presentación oportuna del proyecto de resolución, que en cada uno deba dictarse;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1986)</small>
+
+II.- Tramitar todos los asuntos de la competencia de la Sala hasta ponerlos en estado de resolución; y distribuir por riguroso turno los negocios entre los demás miembros de la Sala, para su estudio y presentación oportuna del proyecto de resolución que en cada uno deba dictarse;
 
 III.- Presidir las audiencias de la sala, cuidar del orden y policía de la misma y dirigir los debates;
 
@@ -435,9 +463,11 @@ En los casos de excusa o recusación de un presidente de sala quien lo suplirá 
 
 Los proyectos de resolución, redactados por escrito deberán ser distribuidos para su estudio a los demás magistrados integrantes de la sala, cuando menos con tres días hábiles antes de la sesión.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1986)</small>
+
 ###### Artículo 34.
 
-En las salas se listarán cuando menos con tres días hábiles anteriores a la sesión, por los magistrados ponentes, los negocios que habrán de discutirse en las sesiones ordinarias del tribunal y se irán resolviendo sucesivamente, en el orden en que aparezcan listados.
+En las salas se listarán cuando menos con un día hábil de anticipación a la sesión, por la secretaría de acuerdos, los negocios que habrán de discutirse en la misma, y se irán resolviendo sucesivamente, en el orden en que aparezcan listados.
 
 ###### Artículo 35.
 
@@ -523,11 +553,15 @@ III.- Autorizar las actas, los acuerdos y resoluciones, dar fe de las actuacione
 
 IV.- Cuidar de que se pongan en los expedientes las razones que procedan con relación al acuerdo y ordenar el despacho oportuno de la correspondencia;
 
-V.- Recibir los escritos que se le presenten, asentando al calce la razón del día y hora de la presentación, imprimiendo el sello oficial con la firma de recibido el expediente, expresando el número de anexos. Asimismo, deberá poner razón idéntica en la copia que quede en poder del interesado;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1986)</small>
+
+V.- Recibir, por sí o por conducto de la persona u oficina que al efecto se designare para ello por el Pleno, los escritos que se le presenten, en los que se asentará al calce la razón del día y hora de la presentación, así como el nombre de la persona que la hace, previa identificación de la misma. Igualmente imprimirá en los escritos de referencia el sello oficial y la firma de recibido y hará constar el número de anexos. El mismo procedimiento se aplicará respecto a la copia que quede en poder del interesado;
 
 VI.- Guardar a sus superiores el respeto consiguiente y cumplir las órdenes que le den en el desempeño de sus funciones;
 
-VII.- Guardar bajo su responsabilidad los pliegos, documentos y expedientes que la ley o el presidente del Tribunal, tanto en su carácter de presidente del Pleno o de las salas disponga y entregarlas con las formalidades legales, mientras no se envíen al Archivo Judicial;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1986)</small>
+
+VII.- Guardar bajo su responsabilidad los pliegos, documentos y expedientes que la Ley o los presidentes del Tribunal Superior y de las Salas dispongan, mientras no se envíen al Archivo Judicial;
 
 VIII.- Llevar los libros que prevenga la ley, el reglamento, o en su defecto, el Tribunal Pleno;
 
@@ -549,7 +583,13 @@ IV.- Llevar el control estadístico de los negocios sometidos al conocimiento de
 
 V.- Formular el anteproyecto de presupuesto y vigilar su ejercicio, conforme a los lineamientos que señale el Tribunal en Pleno y el presidente del Tribunal;
 
-VI.- Todas las demás que delegue en él el Presidente del Tribunal.
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 1986)</small>
+
+VI.- Tener bajo su control y vigilancia las delegaciones de la Oficialía Mayor; y
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1986)</small>
+
+VII.- Todas las demás que delegue en él el Presidente del Tribunal Superior.
 
 ###### Artículo 44.
 
@@ -563,9 +603,11 @@ Las resoluciones que dicten el Pleno y las salas del Tribunal serán notificadas
 
 Los actuarios autorizarán con su firma las diligencias y notificaciones, teniendo fe pública en el desempeño de las funciones que se les encomienden.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1986)</small>
+
 ###### Artículo 47.
 
-Las resoluciones del Tribunal en Pleno serán notificadas a las partes por el secretario general de acuerdos del tribunal y, en el caso de que se requiera la intervención de un actuario, el Tribunal en Pleno comisionará al actuario de alguna de las salas para que lleve a cabo la notificación o diligencia respectiva.
+En cada cabecera distrital, excepto en la del primer distrito, el Pleno podrá acordar la instalación de una delegación de la Oficialía Mayor del Tribunal, cuyo jefe tendrá dentro de la circunscripción del distrito respectivo las mismas funciones que esta Ley atribuye al oficial mayor. En el caso se observará lo dispuesto por el artículo 44.
 
 ## TITULO CUARTO. De la Organización de los Juzgados Dependientes del Tribunal Superior
 
@@ -584,6 +626,10 @@ Los jueces civiles, familiares, penales y mixtos de primera instancia, deberán 
 ###### Artículo 50.
 
 Los jueces de primera instancia residirán en la cabecera de su distrito judicial, durarán seis años en el ejercicio de su cargo, a cuyo término, si fueren confirmados serán inamovibles y sólo podrán ser removidos, conforme a lo previsto en el artículo 86 de la Constitución Política del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 1986)</small>
+
+Los jueces de primera instancia deberán permanecer en su sede y no podrán salir de su jurisdicción sin licencia previa del Presidente del Tribunal.
 
 ###### Artículo 51.
 
@@ -721,7 +767,9 @@ III.- Conservar en su poder el sello del juzgado, facilitándolo a los demás em
 
 IV.- Cuidar y vigilar que el archivo del juzgado se arregle en forma técnica y ejercer, bajo su más estricta responsabilidad, la custodia y vigilancia que sea necesaria en la oficina para evitar la pérdida de los expedientes;
 
-V.- Recibir los escritos que se les presenten, asentando al calce la razón del día y hora de la presentación, expresando las fojas que contenga y los documentos que se acompañen. Asimismo, debe poner razón idéntica en la copia, cuando se exhiban, con la firma del que recibe el escrito y el sello del juzgado, para que dicha copia quede en poder el propio interesado para su resguardo;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1986)</small>
+
+V.- Recibir, por sí o por conducto de la persona u oficina que al efecto se designare para ello por el Pleno, los escritos que se le presenten, en los que se asentará al calce la razón del día y hora de la presentación, así como el nombre de la persona que la hace, previa identificación de la misma. Igualmente imprimirá en los escritos de referencia el sello oficial y la firma de recibido y hará constar el número de anexos. El mismo procedimiento se aplicará respecto a la copia que quede en poder del interesado;
 
 VI.- Dar cuenta diariamente a sus jueces, bajo su responsabilidad y dentro de las veinticuatro horas siguientes a la de la presentación, con todos los escritos y promociones en los negocios de la competencia de aquellos, así como de los oficios y demás documentos que se reciban en el juzgado;
 
@@ -807,7 +855,7 @@ Los jueces menores tendrán su sede en las poblaciones que determina el artícul
 
 Para ser juez menor, se requiere reunir los requisitos que exige el artículo 85 de la Constitución Política del Estado.
 
-El Tribunal Superior de Justicia en Pleno, podrá dispensar el requisito del título.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 4 DE OCTUBRE DE 1986)</small>
 
 ###### Artículo 70.
 
@@ -1039,21 +1087,33 @@ Si por defunción, renuncia o incapacidad faltare algún magistrado, el Gobernad
 
 Entretanto se hace la designación, la falta será suplida por el magistrado supernumerario.
 
-> <small>(F. DE E., P.O. 30 DE ENERO DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE OCTUBRE DE 1986)</small>
 
 ###### Artículo 103.
 
-Los jueces de primera instancia o mixtos serán suplidos en las faltas que no excedan de tres meses y dentro de sus propios juzgados por el secretario de acuerdos o el primero si hubiere varios, siempre que el secretario respectivo contare con título profesional de abogado.
+Los jueces de primera instancia serán suplidos en sus faltas que no excedan de tres meses, por el secretario de acuerdos del juzgado, por su orden si hubiere varios, siempre que cuenten con título profesional de licenciado en derecho.
 
 En el caso de que ningún secretario cuente con título profesional de abogado, el Tribunal en Pleno, designará un juez interino que se haga cargo del despacho y entretanto se hace la designación, el secretario dictará los asuntos de mero trámite, sin fallar interlocutoriamente o en forma definitiva, con excepción de los asuntos de naturaleza penal, en que deberá resolver la situación jurídica de los imputados y acordar las solicitudes de libertad bajo caución.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1986)</small>
+
 ###### Artículo 104.
 
-Los jueces menores serán suplidos en sus faltas que no excedan de tres meses y dentro de sus propios juzgados por el secretario de acuerdos.
+Los jueces menores serán suplidos en sus faltas que no excedan de tres meses por el secretario de acuerdos del juzgado, y para el caso se estará en lo dispuesto en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 1986)</small>
 
 ###### Artículo 105.
 
-(DEROGADO, P.O. 2 DE DICIEMBRE DE 1985)
+En sus faltas que no excedan de tres meses:
+
+I.- El Secretario general de acuerdos del Pleno será suplido por el secretario auxiliar del mismo, y en defecto de éste por el actuario del propio Pleno;
+
+II.- El actuario del Pleno será suplido por el secretario auxiliar del mismo, y en defecto de éste por el actuario de Sala que se comisione al efecto;
+
+III.- Los secretarios de acuerdos de las Salas serán suplidos por los secretarios auxiliares de las mismas, si contaren con título profesional, en caso contrario la suplencia será efectuada por los actuarios correspondientes; y
+
+IV.- Los actuarios de las Salas serán suplidos por los secretarios auxiliares de las mismas, si contaren con título profesional, de no ser así los suplirán los secretarios de acuerdos.
 
 ###### Artículo 106.
 
@@ -1097,9 +1157,11 @@ Cuando el presidente de una sala sea recusado o se excuse será substituido en l
 
 Los demás magistrados numerarios integrantes de sala, cuando fueren recusados o se excusasen, serán sustituidos por el magistrado supernumerario.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1986)</small>
+
 ###### Artículo 115.
 
-Cuando dos magistrados que integren una sala se excusaren o fueren recusados pasará el negocio al conocimiento de la otra sala.
+Cuando por cualquier circunstancia quede desintegrada una Sala, el Tribunal Pleno designará al magistrado o magistrados que hagan falta para la integración respectiva.
 
 ###### Artículo 116.
 
@@ -1403,7 +1465,11 @@ III.- Dar preferencia a alguno o algunos de los litigantes, con perjuicio de otr
 
 IV.- Hacer notificaciones, citaciones o emplazamientos a las partes, por cédula o instructivo fuera del lugar designado en autos, o sin cerciorarse cuando proceda, de que el interesado tiene su domicilio en donde se lleva a cabo la diligencia;
 
-V.- Practicar embargos, aseguramientos o retención de bienes o lanzamientos de persona física o moral que no sea la designada en el auto respectivo, o cuando en el momento de la diligencia, se le demuestre que esos bienes son ajenos, para comprobar lo cual, en todo caso, deberá agregar a los autos la documentación que se le presente, a efecto de dar cuenta a quien hubiere ordenado la diligencia.
+V.- Practicar embargos, aseguramientos o retención de bienes o lanzamientos de persona física o moral que no sea la designada en el auto respectivo, o cuando en el momento de la diligencia, se le demuestre que esos bienes son ajenos, para comprobar lo cual, en todo caso, deberá agregar a los autos la documentación que se le presente, a efecto de dar cuenta a quien hubiere ordenado la diligencia;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 1986)</small>
+
+VI.- No concurrir, sin causa justificada, al desempeño de sus labores oficiales, en las horas que determina el Reglamento, o en su defecto, el Tribunal Pleno.
 
 ###### Artículo 160.
 
@@ -1518,3 +1584,9 @@ P.O. 2 DE DICIEMBRE DE 1985.
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legislativas y reglamentarias que se opongan al presente decreto.
+
+P.O. 4 DE OCTUBRE DE 1986.
+
+Artículo Primero.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
