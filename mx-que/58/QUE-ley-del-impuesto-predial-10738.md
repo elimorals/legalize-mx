@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-impuesto-predial-10738"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-31"
-last_updated: "1996-12-31"
+last_updated: "1997-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL IMPUESTO PREDIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: EL 20 DE MARZO DE 1997.
 
 Ley publicada en el Periódico Oficial, el 31 de diciembre de 1986.
 
@@ -131,17 +131,23 @@ En el caso de matrimonio celebrado bajo el régimen de Sociedad Conyugal, los pr
 
 ### CAPITULO II. DE LA BASE Y LA TARIFA
 
-> <small>(REFORMADO, P.O. 31 DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 1997)</small>
 
 ###### ARTÍCULO 11.
 
-La base del Impuesto que establece la Ley será el valor catastral determinado al primero de Enero de cada año previa autorización de los Municipios. Este valor consistirá en el valor comercial, etendiendo éste como el valor que el predio tuviera en el supuesto de que fuera objeto de una libre operación onerosa.
+Será base gravable de este impuesto el valor menor que resulte entre el valor catastral determinado al primero de enero de cada año y el valor comercial.
 
-> <small>(REFORMADO, P.O. 31 DICIEMBRE DE 1992)</small>
+Cuando entre el valor declarado por el contribuyente y el valor catastral exista una diferencia mayor al 10%, se estará a lo dispuesto por la fracción IV del artículo 29 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 1997)</small>
+
+ARTICULO 11 BIS.- Para los efectos de la presente Ley se entenderá por valor catastral aquél que la Dirección de Catastro determine a los inmuebles conforme a la Ley de la materia, y por valor comercial el que tuviera el predio en el supuesto de que fuera objeto de una libre operación onerosa y sea declarado por el contribuyente ante la autoridad municipal en los términos de la presente Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 1997)</small>
 
 ###### ARTÍCULO 12.
 
-En los casos de predios objeto de esta Ley, el valor comercial será declarado por el sujeto del impuesto, o a su elección por perito valuadores; en éste último caso, el propio contribuyente podrá optar porque el avalúo sea practicado por la Autoridad Municipal o quien ella designe, o por cualquier perito valuador autorizado por la Ley.
+En el caso de predios objeto de esta Ley, el valor comercial será declarado por el sujeto del impuesto, o a su elección por perito valuador autorizado por la Ley o por la autoridad competente.
 
 En caso de que el contribuyente opte porque el avalúo sea practicado por perito valuador, se observará lo siguiente:
 
@@ -149,11 +155,15 @@ a) En el mes de enero de año, dará aviso a la autoridad competente sobre la op
 
 b) El avalúo debe ser practicado a más tardar en el mes de Febrero, declarándose el valor resultante dentro del mismo plazo establecido para el pago del Impuesto por el primer bimestre.
 
-c) Si no se practicará el avalúo en el plazo establecido en el inciso anterior, se tendrá al contribuyente por conforme con el valor que la autoridad determine.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 1997)</small>
+
+c) Si no se practicara el avalúo en el plazo establecido en el inciso anterior, se tendrá por no formulada la manifestación respectiva.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 1997)</small>
 
 ###### ARTÍCULO 13.
 
-En caso de que el contribuyente no haga la declaración del valor comercial de su predio ni opte por la práctica del avalúo en los términos del artículo anterior a más tardar en el mes de enero del año que corresponda, se le tendrá por conforme con el valor determinado por la Autoridad.
+En el caso de que el contribuyente no haga la declaración del valor comercial de su predio ni opte por la práctica del avalúo en los términos del artículo anterior a más tardar en el mes de enero del año que corresponda, será base del impuesto el valor catastral.
 
 ###### ARTÍCULO 14.
 
@@ -181,11 +191,11 @@ a)El predio exceda de doscientos metros cuadrados; o
 
 b) Sea titular respecto de mas de un inmueble.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 1997)</small>
 
 ###### ARTÍCULO 18.
 
-Al valor catastral objeto de esta Ley, se aplicará la Tarifa Anual que se indica a continuación.
+A la base del impuesto objeto de esta Ley se aplicará la tarifa anual que se indica a continuación:
 
 I.- Predio Rústico 1.2 AL MILLAR
 
@@ -209,35 +219,15 @@ II.- Cuando se realicen demoliciones o se causen destrucción o daños a las con
 
 En los casos de las Fracciones I y II del Artículo 19 de este ordenamiento, el nuevo valor comercial será declarado por el contribuyente y será aplicable a partir del bimestre en que se concluyan o realicen los hechos de que se trate.
 
-> <small>(REFORMADO, P.O. 31 DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 1997)</small>
 
 ###### ARTÍCULO 21.
 
-Cuando se otorgue autorización para el fraccionamiento de un predio, los términos de los artículos 99, 100, 140, 142, 143, 144, 147 y 148 del código urbano para el Estado de Querétaro se observarán las siguientes disposiciones se observarán para efectos de este Impuesto las siguientes disposiciones:
-
-I.- A partir del bimestre siguiente a la licencia para ejecución de obras, el valor catastral del predio objeto de la autorización se determinará como sigue:
-
-a).- El valor unitario por m2, se obtendrá considerando el las condiciones físicas en las que se encuentre el terreno y se aplicará a la superficie vendible en el momento de la autorización aún cuando no constituya una sola unidad topográfica
-
-b).- El valor así determinado, acusará efecto a partir del próximo bimestre de aquel en que se emita la licencia, y tendrá vigencia por ejercicio fiscal que le corresponda. Dicho valor se realizará en los términos de esta Ley
-
-c).- Las áreas reservadas como donación, no formarán parte del avalúo del predio
-
-d).- Cuando se realiza construcción en los lotes cuya propiedad o posesión vaya a ser transmitida a particulares, al valor determinado, conforme a los incisos anteriores, se sumará al valor de las edificaciones terminadas o en proceso.
-
-e) Obtenido el valor se aplicará la tarifa establecida en el articulo 18.
-
-> <small>(REFORMADO, P.O. 31 DICIEMBRE DE 1992)</small>
+Cuando se otorgue autorización para el fraccionamiento predios o para la constitución del régimen de propiedad en condominio conforme a lo dispuesto por el Código Urbano para el Estado de Querétaro, para obtener su valor catastral se observarán las disposiciones que al efecto establece la Ley de Catastro.
 
 ###### ARTÍCULO 22.
 
-En los casos de predios en los que se realicen construcciones o edificaciones destinadas al régimen de propiedad en condominio, serán aplicables para efectos de este impuesto las siguientes reglas:
-
-I.- Durante el ejercicio fiscal en que se autoriza la Licencia de construcción, el impuesto continuará causándose sobre el valor base vigente en el momento. Dicho valor se actualizará en los términos de esta ley.
-
-II.- A partir del bimestre siguiente en que se terminen las unidades en condominio se determinará el valor según el procedimiento establecido en esta Ley.
-
-III.- Por las unidades cuya propiedad o posesión haya sido transmitida, el impuesto se determinará conforme a las demás disposiciones de esta Ley.
+(DEROGADO, P.O. 20 DE MARZO DE 1997)
 
 ###### ARTÍCULO 23.
 
@@ -299,7 +289,9 @@ Las Autoridades, en relación a este Impuesto tendrán las siguientes facultades
 
 I.- Solicitar de los sujetos del Impuesto, responsables solidarios y terceros, los datos, informes o documentos para verificar el cumplimiento dado a las disposiciones de esta Ley.
 
-II.- Práctica avalúos de predios, referidos al primero de enero de cada año, en los siguientes casos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 1997)</small>
+
+II.- Solicitar la práctica de avalúos de predios, referidos al primero de enero del año fiscal que corresponda, en los siguientes casos:
 
 a).- Cuando el contribuyente lo solicite
 
@@ -309,11 +301,17 @@ c).- De inmuebles no inscritos en el Padrón Predial.
 
 d).- Para verificar el valor declarado por el contribuyente.
 
-III.- Determinar el valor de predios no inscritos, así como las cantidades correspondientes de Impuesto omitido y proceder a su cobro. Esta disposición será aplicable sólo en l caso de que el contribuyente no declare voluntariamente.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 1997)</small>
 
-IV.- Fijar el valor del predio, cuando entre el declarado por el contribuyente y el determinado por avalúo practicado en uso de la facultad de verificación, exista una diferencia mayor al 10%.
+III.- Solicitar la valuación de predios no inscritos, así como determinar las cantidades correspondientes de impuesto omitido y proceder a su cobro. Esta disposición será aplicable sólo en el caso de que el contribuyente no declare voluntariamente.
 
-V.- Fijar estimativamente el valor del predio en los casos que el propietario o poseedor impida el acceso del valuador al inmueble objeto de este impuesto.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 1997)</small>
+
+IV.- Fijar el valor del predio, mediante avalúo practicado en uso de la facultad de verificación.
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 1997)</small>
+
+V.- Fijar estimativamente el valor del predio en los casos que el propietario o poseedor impida el acceso del valuador al inmueble objeto de este impuesto, en el supuesto de la fracción IV de este artículo.
 
 VI.- Requerir el pago de cantidades omitidas por concepto de este Impuesto.
 
@@ -516,3 +514,13 @@ P.O. 31 DE DICIEMBRE DE 1996
 ###### ARTICULO UNICO.
 
 LA PRESENTE LEY ENTRARA EN VIGOR A PARTIR DEL DIA 1o. DE ENERO DE 1997.
+
+P.O. 20 DE MARZO DE 1997
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente ley.
