@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-seguridad-publica-del-municipio-de-cuauhtemoc-274
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-12-21"
-last_updated: "2002-12-21"
+last_updated: "2003-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DE SEGURIDAD PUBLICA DEL MUNICIPIO DE DE CUAUHTEMOC, COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2003.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 21 de diciembre de 2002.
 
@@ -549,7 +549,9 @@ T R A N S I T O R I O S
 
 PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- Se derogan todas las disposiciones reglamentarias o administrativas que se oponan (sic) al presente Reglamento.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
+SEGUNDO.- El presente Reglamento Abroga el Reglamento de Policía y Buen Gobierno del Municipio de Cuauhtémoc, el cual fue aprobado el 13 de Enero de 1996 y Publicado en el Periódico Oficial "El Estado de Colima" en fecha 24 de Febrero de 1996.
 
 El Presidente Municipal dispondrá se publique, circule y observe.
 
@@ -558,3 +560,9 @@ Dado en el Salón de Sesiones de Cabildo del H. Ayuntamiento Constitucional de C
 > <small>(F. DE E., P.O. 22 DE MARZO DE 2003)</small>
 
 Lic. César Ceballos Gómez.- Presidente Municipal.- Rúbrica.- C. Pedro Martínez Rivera.- Sindico.- Rúbrica.- Tec. Teresa Santa Ana Blake.- Regidora.- Rúbrica.- Profra. Ma. de Jesús Fajardo López.- Regidora.- Rúbrica.- Licda. Sandra Y. Ramírez Santillán.- Regidora.- Rúbrica.- C. Alfonso Michel Aguirre.- Regidor.- Rúbrica.- C. Carlos Yáñez Ibarra.- Regidor.- Rúbrica.- C. Luis E. Martínez Ceballos.- Regidor.- Rúbrica.- Dr. Ismael Martínez Ruiz.- Regidor.- Rúbrica.- Lic. Esteban González Rodríguez.- Secretario.- Rúbrica.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE MARZO DE 2003.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
