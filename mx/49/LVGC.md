@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1940-02-19"
+last_updated: "1940-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JUNIO DE 1940.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -402,7 +402,7 @@ V.- El postor en quien se finque el remate, perderá en beneficio de la Nación 
 
 VI.- Desde el momento en que el comprador tome posesión de la vía, con todos sus bienes, aquélla y éstos se regirán por la concesión declarada caduca, la que continuará subsistente para el comprador hasta en tanto se le otorgare nueva concesión;
 
-VII.- Si la concesión declarada caduca comprendiere parte de la vía no construida, el comprador tendrá derecho, dentro del plazo de seis meses contados desde que se otorgue la escritura, para rehusar o aceptar la concesión en cuanto a la parte de vías por concluir; si acepta, constituirá el depósito correspondiente a dicha parte;
+VII.- Si la concesión declarada caduca comprendiere parte de la vía no construida, el comprador tendrá derecho, dentro del plazo de seis meses contados desde que se otorgue la escritura, para rehusar o aceptar la concesión en cuanto a la parte de vías por concluír; si acepta, constituirá el depósito correspondiente a dicha parte;
 
 VIII.- Del precio de la venta se cubrirán, por su orden, las obligaciones de la empresa en favor de sus trabajadores, en los términos de la Ley Federal del Trabajo, los gastos de administración y los créditos hipotecarios, o de otra clase, a cargo de la negociación, que fueren anteriores a la declaración de caducidad y contraídos con motivo de la explotación de la vía. Las subvenciones que el concesionario hubiese recibido y el sobrante, si lo hubiere, quedarán a beneficio de la Nación; y
 
@@ -1020,9 +1020,11 @@ Las empresas de vías generales de comunicación están obligadas igualmente a p
 
 Se prohibe estrictamente a las empresas de vías generales de comunicaciones y medios de transporte, así como a las Oficinas de Correos y Telégrafos, proporcionar a persona alguna o a autoridades distintas de la Secretarías de Comunicaciones, de Hacienda y Crédito Público, de la Economía Nacional y de las Judiciales o del Trabajo competentes, datos relativos a la explotación de dichas empresas, a las mercancías que transporten y sus destinos, y a las correspondencias, postal y telegráfica cuando se trate de los servicios de las oficinas de Correos y Telégrafos, a menos de que la Secretaría de Comunicaciones las autorice expresamente.
 
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 1940)</small>
+
 ###### ARTICULO 123.
 
-Los concesionarios de vías generales de comunicación, contribuirán para los gastos de los servicios de inspección, con la cantidad que se determine en las concesiones respectivas, y cuando en éstas no se haya determinado, será fijada por la Secretaría de Hacienda.
+Los concesionarios de Vías Generales de Comunicación, contribuirán para los gastos de servicio de Inspección, con la cantidad que se determine en las concesiones respectivas y cuando en estas no se haya determinado, será fijada por la Secretaría de Comunicaciones.
 
 ### CAPITULO XI. Reglas generales
 
@@ -2982,9 +2984,11 @@ Las instalaciones de aficionados se autorizarán exclusivamente para iniciarse e
 
 La Secretaría de Comunicaciones dictará las medidas conducentes a fin de evitar interferencias entre las estaciones de radiocomunicación. En caso necesario, suspenderá temporal o definitivamente el servicio de toda estación que impida la buena comunicación de cualquier otra.
 
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 1940)</small>
+
 ###### ARTICULO 408.
 
-La Secretaría de Comunicaciones designará un interventor que ejercerá el debido control y vigilancia en el funcionamiento y explotación en cada radiodifusora comercial, quedando sus emolumentos a cargo del Erario.
+La Secretaría de Comunicaciones designará un interventor que ejercerá el debido control y vigilancia en el funcionamiento y explotación en cada radiodifusora comercial, quedando sus emolumentos a cargo de los concesionarios.
 
 ###### ARTICULO 409.
 
@@ -4083,3 +4087,9 @@ La presente Ley entrará en vigor desde la fecha de su promulgación en el "Diar
 José Escudero Andrade, D. P.- José María Dávila, S. V. P.- Adán Velarde, D. S.- Vicente L. Benéitez, S. S.-Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D. F., a los treinta días del mes de diciembre de mil novecientos treinta y nueve.- Lázaro Cárdenas.- Rúbrica.- El Secretario de Estado y del Despacho de Comunicaciones y Obras Públicas, Melquiades Angulo C.- Rúbrica.-El Jefe del Departamento de la Marina Nacional, Roberto Gómez Maqueo.- Rúbrica.- El Subsecretario de Hacienda y Crédito Público, Encargado del Despacho, Eduardo Villaseñor.- Rúbrica.- Al C. Lic. Ignacio García Téllez, Secretario de Gobernación.- Presente.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 17 DE JUNIO DE 1940.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
