@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1966-01-29"
+last_updated: "1968-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 1966.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 1968.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -371,13 +371,11 @@ Los Diputados que no concurran a una sesión sin causa justificada o sin previo 
 
 El Congreso tendrá cada año dos períodos de sesiones ordinarias: el primero del 16 de septiembre al 31 de diciembre; y el segundo, del 27 de febrero al 30 de abril del año siguiente. Estos períodos serán prorrogables por el tiempo que, según las necesidades del servicio público, acuerde el Congreso.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1964)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1968)</small>
 
 ###### Art. 50.
 
-El día 27 de febrero de cada año, con excepción del que corresponda al año en que tome posesión del cargo, el Gobernador del Estado concurrirá al Congreso y rendirá a la Legislatura un informe acerca de la situación que guarden los diversos ramos de la administración pública.
-
-De la gestión administrativa realizada en los últimos diez meses de cada sexenio, el Gobernador informará al Congreso, el día 20 de noviembre del año respectivo.
+Cada dos años el Gobernador Constitucional del Estado concurrirá ante el Congreso a rendir un informe acerca de la situación que guarden los diversos ramos de la Administración Pública. Este informe se rendirá el día 27 de febrero de cada bienio, a excepción del último año de la gestión administrativa en que deberá informar sobre la labor de la administración pública en los últimos 10 meses del sexenio, señalándose para tal efecto el día 20 de noviembre del año respectivo.
 
 (REUBICADO, P.O. 4 DE MAYO DE 1946)
 
@@ -1586,3 +1584,13 @@ UNICO.- Este Decreto surte sus efectos legales a partir de la fecha de su public
 P.O. 29 DE ENERO DE 1966.
 
 UNICO.- Este Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE FEBRERO DE 1968.
+
+###### ARTICULO PRIMERO.
+
+El informe relativo a la situación de la Administración Pública, por lo que se refiere al período comprendido del 27 de febrero de 1967 a la fecha del presente Decreto, será rendido en el informe del bienio correspondiente a los años de 1967 a 1969, el día 27 de febrero de este último año, y por lo que respecta al período comprendido del 27 de febrero de 1969 al último año del ejercicio constitucional, será rendido el 20 de noviembre de 1970.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto comenzará a surtir sus efectos legales desde la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
