@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-del-tribunal-de-lo-contencioso-5200"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-07-13"
-last_updated: "1994-01-04"
+last_updated: "1994-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 1994.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 13 de julio de 1993.
 
@@ -105,15 +105,53 @@ La Sala Superior designará la Sala Regional que tramite y resuelva los juicios 
 
 La Sala Superior expedirá los manuales administrativos necesarios para el funcionamiento adecuado del Tribunal.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1994)</small>
+
 ###### ARTICULO 16o.
 
-La Sala Superior designará anualmente, de entre sus integrantes, al Magistrado visitador de cada Sala Regional, a fin de vigilar el debido cumplimiento de sus funciones.
+La Sala Superior designará anualmente al Magistrado que fungirá como Visitador de las Salas Regionales, a fin de vigilar, supervisar, evaluar y salvaguardar la lealtad, honradez, legalidad, imparcialidad y eficiencia de sus funciones jurisdiccionales.
 
-Las visitas se realizarán dentro del horario normal de labores y serán ordinarias o extraordinarias. Se practicarán visitas ordinarias cada tres meses, en la fecha que determine el Magistrado Visitador. Se llevarán a cabo visitas extraordinarias cuando así lo acuerde la Sala Superior.
+Los Magistrados Supernumerarios podrán ser comisionados a las Salas Regionales, con objeto de corroborar su administración interna y evaluar el quehacer jurisdiccional, conforme a las reglas y procedimientos previstos en el artículo 17 del presente Reglamento.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1994)</small>
 
 ###### ARTICULO 17o.
 
-Los Magistrados de la Sala Superior, cuando practiquen visitas a las Salas Regionales, deberán hacer constar, en el acta respectiva, el número y especificación de los expedientes revisados, indicando si las resoluciones fueron o no dictadas oportunamente, si las audiencias, notificaciones y otras diligencias se efectuaron o no dentro de los plazos legales, asentará las opiniones y quejas que formulen los profesionales y personal administrativo que integra a la Sala visitada, asimismo tomará notas de las faltas, constancias médicas, permisos, conductas contrarias al servicio, y los demás datos que consideren pertinentes. El informe sobre cada visita, se hará del conocimiento de la Sala Superior.
+Las visitas podrán ser ordinarias o extraordinarias, se practicarán en días hábiles y dentro del horario normal de labores, conforme a las siguientes reglas:
+
+l. Las visitas ordinarias a las Salas Regionales del Tribunal, se llevarán a cabo conforme a la calendarización que determine el visitador, las cuales tendrán la duración que el propio visitador considere conveniente, a fin de percatarse del funcionamiento de la Sala inspeccionada.
+
+II. El Magistrado Visitador comunicará al Presidente del Tribunal y al Magistrado Regional los días y horas de su visita ordinaria, con anticipación de no menos de cinco días naturales a la fecha señalada para su inicio; con igual anticipación el Magistrado Regional fijará aviso de tal visita ordinaria en los estrados de la Sala Regional a visitar, y también se hará en lugares visibles en la entrada de la propia Sala, a fin de que los litigantes, el personal de la Sala, o cualquier otra persona que crea tener interés en la inspección, puedan exponer sus denuncias, todo lo cual tomará debida nota para su informe, agregando los anexos y pruebas que en su caso se le presenten.
+
+III. Si fuera necesario el Magistrado Visitador hará al Magistrado y de más personal jurídico y administrativo de la Sala las recomendaciones que estime pertinentes, para que se mejore el despacho de los asuntos, haciendo particular énfasis en la cortesía, consideración y respeto con que las partes y el público en general deben ser siempre atendidos por el Tribunal de lo Contencioso Administrativo del Estado de Guerrero.
+
+IV. Las visitas extraordinarias se practicarán cuando así lo determine la Sala Superior, para realizar alguna investigación específica, desahogando alguna queja presentada por autoridad o particular, que la propia Sala Superior estime fundada y sea de urgente atención por la especial gravedad de la cuestión planteada, o bien para verificar el mejor funcionamiento de la Sala visitada, cuando se haya realizado alguna recomendación en la práctica de la visita ordinaria.
+
+V. Excepcionalmente, cualquiera de los Magistrados de las Salas Regionales podrán solicitar a la Sala Superior la realización de una visita extraordinaria, expresando por escrito la finalidad de la misma.
+
+VI. Las visitas de inspección a las Salas Regionales se sujetarán al procedimiento siguiente:
+
+a) Se verificará la asistencia del personal a sus labores, durante el período que dure la visita, debiendo revisar el Libro de Gobierno, tarjetas y demás controles que se lleven de los juicios que ante ella se tramitan. Así como faltas, constancias médicas, permisos, conductas contrarias al servicio y demás datos que se consideren pertinentes del personal.
+
+b) A su elección, el Magistrado visitador podrá examinar todos los expedientes de la Sala de que se trate, o examinar únicamente los que él decida, y se cerciorará de que los expedientes en que consten los autos del juicio respectivo se encuentren en orden y debidamente firmados, sellados, rubricados y foliados por el Secretario; se verificará también que los expedientes se inicien con la demanda y sus anexos, contestación y sus anexos, acuerdos de admisión y contestación y demás providencias procedentes, y cuidará que el acta de audiencia se levante correctamente de conformidad con lo dispuesto por el Capítulo X de la Ley de la Materia, asegurándose de que las razones de notificación estén debidamente integrados y que dichas notificaciones y demás diligencias se efectuaron en tiempo y forma, del mismo modo, con apego a la Ley, examinará si en el caso concreto se han observado rigurosamente los términos legales aplicables y se asegurará de que todas las promociones de las partes pendientes de glosarse a los autos, al ser acordadas se agreguen, y se resuelvan sin demora como corresponda.
+
+c) Los expedientes cuyo trámite excedan de un año a partir del auto admisorio de la demanda serán examinados exhaustivamente para determinar si las causas de su rezago son imputables a la Sala visitada o por causas ajenas a ésta. El Magistrado Visitador una vez examinados en su totalidad los expedientes elegidos incluyendo su duplicado, hará constar que los acuerdos y resoluciones han sido dictados en los términos establecidos por la Ley de la Materia. En caso de anomalía cualquiera se exhortará al Magistrado Regional para su debido acatamiento.
+
+d) El Magistrado Visitador pedirá, cuando así lo estime necesario un informe al Magistrado de que se trate, respecto de los asuntos que considere pertinentes, y específicamente, de los cumplimientos de las ejecutorias y sentencias pronunciadas en materia de Amparo, y vigilará que estas sean cumplidas de manera estricta.
+
+e) Hará la exhortación, en su caso para el mejoramiento del despacho de los asuntos a cargo de la Sala visitada.
+
+f) El Magistrado Visitador asistido del Secretario de Acuerdos que él elija de los que formen parte de la Sala Inspeccionada, levantará acta circunstancia del resultado de la visita respectiva en la que deberá constar: fecha en que se efectúe la visita, periodo que comprenda, nombre del Magistrado visitado, relación de asuntos revisados y demás circunstancias que determinen el estado de los asuntos, incluyendo los datos de eficiencia y conducta del personal de la Sala, las recomendaciones que se hayan hecho y las observaciones que los empleados y Magistrados de la Sala visitada formulen; el acta correspondiente será firmada por el Magistrado Visitador, el Magistrado de la Sala visitada y por el Secretario de Acuerdos respectivo, que dará fe de su contenido.
+
+g) También se hará constar en el acta, las necesidades y problemas de la Sala visitada, a fin de que la Sala Superior determine lo procedente. Así como la intervención de interesados cuando hayan concurrido.
+
+h) El acta se levantará con las copias necesarias y se entregará una al Magistrado de la Sala visitada, otra la conservará el Magistrado Visitador, el original y tres copias de dichas actas y sus anexos se entregarán al Presidente del Tribunal, debiendo agregarse una copia al expediente personal del Magistrado visitado y el Presidente del Tribunal dará cuenta con las copias del acta a los Magistrados de la Sala Superior, para acordar lo que proceda, documentos que posteriormente se archivarán en el expediente que de la Sala visitada lleve la Secretaría General de Acuerdos del Tribunal.
+
+i) En todos los casos, el Magistrado Visitador rendirá informe por escrito de su visita al Presidente del Tribunal, a fin de que ponga en conocimiento de la Sala Superior el resultado de dicha visita y para emitir los acuerdos que procedan.
+
+j) Las personas a las que se refiere el artículo 5° de este Reglamento en su primer párrafo, así como aquellas a las que se atribuya alguna irregularidad, podrán solicitar al Magistrado Visitador que, en acta por separado se hagan constar sus quejas, sus defensas u observaciones o lo que a su derecho convenga, señalando como domicilio para oír y recibir notificaciones, haciendo una relación de las pruebas presentadas sobre el particular que deberán agregarse al informe con los anexos exhibidos como lo previene el artículo 5° de este Reglamento.
+
+k) Cuando de la visita de inspección resulte posible responsabilidad administrativa para alguno de los servidores públicos de la Sala de que se trate, el Presidente de la Sala Superior llamará desde luego al presunto responsable para que exponga todo cuanto considere pertinente, dándole oportunidad de aportar pruebas en su defensa sobre la falta que se le atribuya y una vez desahogadas las mismas, determinará lo conducente en términos de la Ley de Responsabilidades de los Servidores Públicos.
 
 ###### ARTICULO 18o.
 
@@ -327,7 +365,7 @@ Lic. María Elena Ramírez Ruiz.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 4 DE ENERO DE 1994.
 
@@ -338,3 +376,9 @@ SEGUNDO.- En un plazo no mayor de treinta días, contados a partir de la vigenci
 TERCERO.- El personal profesional, técnico y administrativo adscrito a la Sala Regional que tenía su residencia en Chilapa de Alvarez, tiene garantizado su empleo, antigüedad y categoría laboral en la nueva sede de Tlapa de Comonfort.
 
 CUARTO.- La Oficialía Mayor del Tribunal de lo Contencioso Administrativo proveerá lo conducente para programar y ejecutar el traslado a Tlapa de Comonfort de expedientes, mobiliario, equipo y personal de la Sala Regional de la Montaña.
+
+P.O. 4 DE NOVIEMBRE DE 1994.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese en la Revista Jurídica, órgano de difusión oficial del Tribunal de lo Contencioso Administrativo.
