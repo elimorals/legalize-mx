@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "2000-04-14"
+last_updated: "2000-05-03"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE MAYO DE 2000.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -183,7 +183,9 @@ VII.- SEPTIMO CIRCUITO:
 
 2.- Un tribunal unitario con residencia en Boca del Río.
 
-3.- Siete juzgados de distrito: dos con sede en la ciudad de Xalapa, tres con residencia en Boca del Río y dos con sede en Tuxpan.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 26/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE MAYO DE 2000)</small>
+
+3.- Ocho juzgados de distrito: dos con sede en la ciudad de Xalapa, cuatro con residencia en Boca del Río y dos con sede en Tuxpan.
 
 VIII.- OCTAVO CIRCUITO:
 
@@ -501,13 +503,13 @@ VII.- SEPTIMO CIRCUITO:
 
 Los Juzgados Primero y Segundo de Distrito en el Estado de Veracruz, con residencia en la ciudad de Xalapa, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Acajete, Acatlán, Actopan, Alpatláhuac, Alto Lucero de Gutiérrez Barrios, Altotonga, Apazapan, Atzalan, Ayahualulco, Banderilla, Calcahualco, Chiconquiaco, Coacoatzintla, Coatepec, Colipa, Comapa, Cosautlán de Carvajal, Coscomatepec, Emiliano Zapata, Huatusco, Ixhuacán de los Reyes, Ixhuatlán del Café, Jalacingo, Jalcomulco, Jilotepec, Juchique de Ferrer, Landero y Coss, Las Minas, Las Vigas de Ramírez, Martínez de la Torre, Miahuatlán, Misantla, Naolinco, Nautla, Perote, Rafael Lucio, Sochiapa, Tatatila, Tenampa, Tenochtitlán, Teocelo, Tepatlaxco, Tepetlán, Tlacotepec de Mejía, Tlacolulan, Tlalnelhuayocan, Tlaltetela, Tlapacoyan, Tonayán, Totutla, Vega de Alatorre, Villa Aldama, Xalapa, Xico, Yecuatla y Zentla.
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL NUMERO 31/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMO DEL ACUERDO GENERAL NUMERO 26/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE MAYO DE 2000)</small>
 
-Los Juzgados Tercero, Cuarto y Quinto de Distrito en el Estado de Veracruz, con residencia en Boca del Río, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Acula, Acultzingo, Alvarado, Amatitlán, Amatlán de los Reyes, Angel R. Cabada, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Boca del Río, Camarón de Tejeda, Camerino Z. Mendoza, Carlos A. Carrillo, Carrillo Puerto, Catemaco, Coetzala, Córdoba, Cosamaloapan, Cotaxtla, Cuichapa, Cuitláhuac, Chacaltianguis, Chocamán, Fortín, Hueyapan de Ocampo, Huiloapan de Cuauhtémoc, Ignacio de la Llave, Isla, Ixhuatlancillo, Ixmatlahuacán, Ixtaczoquitlán, Jamapa, José Azueta, Juan Rodríguez Clara, La Antigua, La Perla, Lerdo de Tejada, Los Reyes, Magdalena, Maltrata, Manlio Fabio Altamirano, Mariano Escobedo, Medellín, Mixtla de Altamirano, Naranjal, Nogales, Omealca, Orizaba, Otatitlán, Paso de Ovejas, Paso del Macho, Playa Vicente, Puente Nacional, Rafael Delgado, Río Blanco, Saltabarranca, San Andrés Tenejapan, San Andrés Tuxtla, Santiago Tuxtla, Soledad Atzompa, Soledad de Doblado, Tehuipango, Tequila, Texhuacán, Tezonapa, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tlaquilpan, Tlilapan, Tomatlán, Tres Valles, Tuxtilla, Ursulo Galván, Veracruz, Xoxocotla, Yanga y Zongolica.
+Los Juzgados Tercero, Cuarto, Quinto y Sexto de Distrito en el Estado de Veracruz, con residencia en Boca del Río, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Acula, Acultzingo, Alvarado, Amatitlán, Amatlán de los Reyes, Angel R. Cabada, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Boca del Río, Camarón de Tejeda, Camerino Z. Mendoza, Carlos A. Carrillo, Carrillo Puerto, Catemaco, Coetzala, Córdoba, Cosamaloapan, Cotaxtla, Cuichapa, Cuitláhuac, Chacaltianguis, Chocamán, Fortín, Hueyapan de Ocampo, Huiloapan de Cuauhtémoc, Ignacio de la Llave, Isla, Ixhuatlancillo, Ixmatlahuacán, Ixtaczoquitlán, Jamapa, José Azueta, Juan Rodríguez Clara, La Antigua, La Perla, Lerdo de Tejada, Los Reyes, Magdalena, Maltrata, Manlio Fabio Altamirano, Mariano Escobedo, Medellín, Mixtla de Altamirano, Naranjal, Nogales, Omealca, Orizaba, Otatitlán, Paso de Ovejas, Paso del Macho, Playa Vicente, Puente Nacional, Rafael Delgado, Río Blanco, Saltabarranca, San Andrés Tenejapan, San Andrés Tuxtla, Santiago Tuxtla, Soledad Atzompa, Soledad de Doblado, Tehuipango, Tequila, Texhuacán, Tezonapa, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tlaquilpan, Tlilapan, Tomatlán, Tres Valles, Tuxtilla, Ursulo Galván, Veracruz, Xoxocotla, Yanga y Zongolica.
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL NUMERO 31/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMO DEL ACUERDO GENERAL NUMERO 26/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE MAYO DE 2000)</small>
 
-Los Juzgados Sexto y Séptimo de Distrito en el Estado de Veracruz, con residencia en la ciudad de Tuxpan, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Amatlán Tuxpan, Benito Juárez, Castillo de Teayo, Cazones de Herrera, Cerro Azul, Citlaltépetl, Coahuitlán, Coatzintla, Coyutla, Coxquihui, Chalma, Chiconamel, Chicontepec, Chinampa de Gorostiza, Chontla, Chumatlán, El Higo, Espinal, Filomeno Mata, Gutiérrez Zamora, Huayacocotla, Ilamatlán, Ixcatepec, Ixhuatlán de Madero, Mecatlán, Ozuluama, Pánuco, Papantla, Platón Sánchez, Poza Rica de Hidalgo, Pueblo Viejo, Tamalín, Tamiahua, Tampico Alto, Tantima, Tancoco, Tantoyuca, Tecolutla, Temapache, Tempoal, Tepetzintla, Texcatepec, Tihuatlán, Tlachichilco, Tuxpan, Zacualpan, Zontecomatlán y Zozocolco de Hidalgo.
+Los Juzgados Séptimo y Octavo de Distrito en el Estado de Veracruz, con residencia en la ciudad de Tuxpan, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Amatlán Tuxpan, Benito Juárez, Castillo de Teayo, Cazones de Herrera, Cerro Azul, Citlaltépetl, Coahuitlán, Coatzintla, Coyutla, Coxquihui, Chalma, Chiconamel, Chicontepec, Chinampa de Gorostiza, Chontla, Chumatlán, El Higo, Espinal, Filomeno Mata, Gutiérrez Zamora, Huayacocotla, Ilamatlán, Ixcatepec, Ixhuatlán de Madero, Mecatlán, Ozuluama, Pánuco, Papantla, Platón Sánchez, Poza Rica de Hidalgo, Pueblo Viejo, Tamalín, Tamiahua, Tampico Alto, Tantima, Tancoco, Tantoyuca, Tecolutla, Temapache, Tempoal, Tepetzintla, Texcatepec, Tihuatlán, Tlachichilco, Tuxpan, Zacualpan, Zontecomatlán y Zozocolco de Hidalgo.
 
 VIII.- OCTAVO CIRCUITO:
 
@@ -527,7 +529,9 @@ X.- DECIMO CIRCUITO:
 
 Los Juzgados Primero, Segundo y Tercero de Distrito en el Estado de Tabasco, con residencia en la ciudad de Villahermosa, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-Los Juzgados Octavo y Noveno de Distrito en el Estado de Veracruz, con residencia en la ciudad de Coatzacoalcos, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
+> <small>(REFORMADO POR EL PUNTO DECIMO PRIMERO DEL ACUERDO GENERAL NUMERO 26/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE MAYO DE 2000)</small>
+
+Los Juzgados Noveno y Décimo de Distrito en el Estado de Veracruz, con residencia en la ciudad de Coatzacoalcos, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
 
 XI.- DECIMO PRIMER CIRCUITO:
 
@@ -990,3 +994,9 @@ PRIMERO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en
 SEGUNDO.- La Dirección General de Recursos Humanos del Consejo de la Judicatura Federal atenderá en términos de ley, la situación laboral del personal adscrito al Tribunal Unitario, así como a la Oficialía de Partes Común, que concluyen funciones y que no fuera reubicado en el nuevo Juzgado de Distrito en el Estado de Veracruz, con residencia en Boca del Río, aprobado en sesión del Pleno del Consejo de la Judicatura Federal de ocho de marzo del año en curso; ni en el Tribunal Unitario del Décimo Circuito, con residencia en Villahermosa, Tabasco, aprobado por el mismo Organo Colegiado en sesión de cinco de abril del presente año.
 
 TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 3 DE MAYO DE 2000.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día dos de mayo del año dos mil.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
