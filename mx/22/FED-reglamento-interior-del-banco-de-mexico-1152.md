@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2001-07-23"
+last_updated: "2001-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE DICIEMBRE DE 2001.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -59,9 +59,11 @@ El Secretario será asistido en sus funciones por un Secretario Adjunto quien pa
 
 La Junta de Gobierno y sus miembros, contarán con los asesores que la propia Junta determine y el Banco los contratará en los términos que ésta establezca. Dichos asesores no quedarán comprendidos en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México, ni tendrán facultades de representación, en términos de los artículos 8o. y 9o., de este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 3o.
 
-Las actas de las sesiones de la Junta, se levantarán y conservarán en los términos acordados por ésta, serán firmadas por los miembros asistentes y por el Secretario, debiéndose conservar un ejemplar de los documentos que hubieran sido relacionados en la sesión correspondiente.
+Las actas de las sesiones de la Junta de Gobierno se conservarán en volúmenes anuales y serán firmadas por quien haya presidido la Junta y por el Secretario, así como por los miembros de la Junta de Gobierno asistentes que quieran hacerlo, debiéndose conservar en un apéndice un ejemplar de los documentos que hubieran sido relacionados en la sesión de que se trate.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE MARZO DE 2001)</small>
 
@@ -133,7 +135,25 @@ Las Direcciones Generales tendrán adscritas las Direcciones que señala el pres
 
 Los Directores y el Contralor se auxiliarán en el cumplimiento de sus funciones de los Gerentes, Cajero Principal, Subgerentes, Superintendentes, Jefes de División, de Departamento, de Oficina, Intendentes y por los demás empleados, previstos en la estructura correspondiente. Asimismo, las Direcciones Generales y las Direcciones podrán tener adscritas unidades de informática conforme a lo que se establezca en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 16 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+La Junta de Gobierno o el Gobernador, en el ámbito de su competencia, podrán constituir comités consultivos integrados por servidores públicos del Banco, que los auxilien en el ejercicio de sus respectivas atribuciones. Lo previsto en este párrafo y los siguientes, no será aplicable a los comités u órganos colegiados que se encuentren previstos en otros ordenamientos o disposiciones.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+Las resoluciones que tomen los comités serán observadas por las unidades administrativas del Banco; en caso de que éstas no las cumplan, serán turnadas a la Junta de Gobierno o al Gobernador para que, en el ámbito de su competencia, decidan sobre su aplicación obligatoria.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+La creación y extinción de los comités deberá hacerse del conocimiento del Contralor. Los grupos de trabajo no requerirán de acuerdo para su constitución y funcionamiento.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+En el supuesto de que la Junta de Gobierno acuerde la creación de un comité, podrá designar a uno de sus miembros para que lo integre, en cuyo caso éste presidirá la sesión, debiendo asistir a ésta para que haya quórum y siendo el único que tendrá la facultad de convocar a sesiones. Dicho miembro carecerá de voto y tendrá derecho de veto.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+
+En el caso de que el Gobernador acuerde la creación de un comité, podrá invitar a sus sesiones a un miembro de la Junta de Gobierno, quien participará únicamente con voz.
 
 ###### ARTICULO 5o.
 
@@ -1120,3 +1140,7 @@ UNICO.- Las presentes reformas, adiciones y derogaciones entrarán en vigor a pa
 D.O.F. 23 DE JULIO DE 2001.
 
 UNICO. La presente adición entrará en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE DICIEMBRE DE 2001.
+
+UNICO.- Las presentes reforma y adición entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
