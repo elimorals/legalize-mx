@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-contaduria-mayor-de-hacienda-11908"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-09-15"
-last_updated: "1994-09-15"
+last_updated: "1995-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial el 15 de septiembre de 1994.
 
@@ -39,109 +39,123 @@ LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
 ###### ARTICULO 1.
 
-Con fundamento a lo que establece la fracción IV del artículo 75 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, este ordenamiento regula las funciones que ejercerá la Contaduría Mayor de Hacienda del Poder Legislativo del Estado de Quintana Roo.
+Las disposiciones de esta ley regulan las funciones que ejercerá la Contaduría Mayor de Hacienda del Poder Legislativo del Estado de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 2.
 
-A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria, en lo conducente, las leyes federales, estatales y municipales, los convenios y acuerdos, así como las demás disposiciones legales que en la materia procedan. En caso de duda en lo relativo a la interpretación de esta Ley, se estará a lo que resuelva la Legislatura del Estado.
+A falta de disposición expresa en la misma, se aplicarán supletoriamente, en lo conducente, las leyes federales, estatales y municipales, los convenios y acuerdos, así como las demás disposiciones legales que en la materia procedan. En caso de duda en lo relativo a la interpretación de esta ley, se estará a lo que resuelva la Legislatura del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 3.
 
-Para efectos de esta Ley, se entiende por:
+Para los efectos de lo dispuesto en esta ley, salvo mención expresa, se entenderá por:
 
-I.- Entidades:
+I.- ENTIDADES: Las dependencias, departamentos y unidades que integran la administración pública centralizada, estatal y municipal, incluidas las instancias que ejercen la función jurisdiccional..
 
-a).- El Poder Legislativo del Estado.
-
-b).- El Poder Judicial del Estado.
-
-c).- EI Poder Ejecutivo del Estado.
-
-d).- La Secretarías de Gobierno, los Departamentos Administrativos y la Procuraduría General de Justicia del Estado.
-
-II.- Organismos:
-
-a).- Las Empresas Paraestatales y Paramunicipales.
-
-b).- Los Organismos Descentralizados de la Administración Pública estatal o municipal
-
-c).- Los demás Organismos e Instituciones que por cualquier razón, administren o manejen fondos o valores del sector público estatal o municipal.
+II.- ORGANISMOS: Los organismos descentralizados de la administración pública estatal o municipal, las empresas paraestatales y paramunicipales, y los fideicomisos públicos.
 
 ###### ARTICULO 4.
 
-Las relaciones de la Contaduría Mayor de Hacienda con la Legislatura del Estado, se efectuarán por conducto de la Comisión de Presupuesto y Cuenta.
+(DEROGADO, P.O. 15 DE NOVIEMBRE DE 1995)
 
 ## TITULO SEGUNDO. DE LA CONTADURIA MAYOR DE HACIENDA
 
 ### CAPITULO PRIMERO. NATURALEZA Y FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
 ###### ARTICULO 5.
 
-La Contaduría Mayor de Hacienda es el órgano técnico dependiente del Poder Legislativo, que tiene a su cargo el control, evaluación y fiscalización superior de los ingresos, presupuestos de egresos del Estado y Municipios; los programas financieros estatales y municipales de una deuda pública; la cuenta pública estatal y municipal; y todo lo relacionado con la actividad financiera del Estado y demás entidades, organismos e instituciones que administren o perciban fondos y valores del sector público estatal y municipal.
+La Contaduría Mayor de Hacienda es el órgano técnico dependiente del Poder Legislativo, que tiene a su cargo la fiscalización, control y evaluación superior de los ingresos, presupuestos de egresos del Estado y Municipios; los programas financieros estatales y municipales de deuda pública; la cuenta pública estatal y municipal; y la determinación de responsabilidades por actos u omisiones de los servidores públicos que entrañen violación a las normas legales en relación con el erario público.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 6.
 
-La Contaduría Mayor de Hacienda revisará y glosará la cuenta mensual de la Secretaría de Finanzas del Gobierno del Estado, Tesorerías Municipales y empresas que con base a subsidio dependan del Gobierno del Estado o de los Municipios; asimismo, revisará la cuenta de cualesquiera otros organismos, que manejen o administren total o parcialmente fondos o valores estatales o municipales. La revisión y glosa que se practique comprenderá no solamente la verificación de la aplicación correcta de las partidas señaladas en los presupuestos de egresos y que los ingresos se recaudaron con base a las Leyes de Hacienda e Ingresos correspondiente, sino que se hará una revisión legal, numérica y contable de todos los movimientos efectuados, para determinar si están debidamente justificados y comprobados. La cuenta pública deberá ser presentada en la forma y términos prescritos en la presente Ley.
+La Contaduría Mayor de Hacienda revisará y glosará la cuenta mensual de la Secretaría de Hacienda del Estado, tesorerías municipales y empresas que con base a subsidio dependan del Estado o Municipios; los programas financieros de deuda pública y la cuenta pública de las entidades y organismos a que se refiere el artículo 3o. de esta ley. La revisión y glosa que se practique comprenderá no solamente la verificación de la aplicación correcta de las partidas señaladas en los presupuestos de egresos y que los ingresos se recaudaron con base a las Leyes de Hacienda e Ingresos correspondiente, sino que se hará una revisión legal, numérica y contable de todos los movimientos efectuados, para determinar si están debidamente justificados y comprobados. La cuenta pública deberá ser presentada en la forma y términos prescritos en esta ley.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 7.
 
 La Contaduría Mayor de Hacienda, en el ejercicio de sus funciones, tendrá las siguientes atribuciones:
 
-I.- Ejercer la fiscalización, control y evaluación de la Cuenta Pública de los órganos de gobierno del Estado de los Municipios y demás entidades y organismos, para verificar que:
+A) EN MATERIA DE FISCALIZACION GUBERNAMENTAL
 
-a).- Realicen sus operaciones, en lo general y en lo particular, con apego a las Leyes de Ingresos, Presupuesto de Egresos, Ley Orgánica del Poder Ejecutivo del Estado, Ley Orgánica Municipal y demás ordenamientos aplicables en la materia.
+I.- Planear, organizar, establecer y coordinar el sistema de control y evaluación gubernamental;
 
-b).- Ejerzan correcta y estrictamente sus Presupuestos conforme a los programas y subprogramas aprobados.
+II.- Evaluar, controlar y fiscalizar los programas de inversión pública, transferidos por el Estado, así como los subsidios de carácter estatal y municipal, cualesquiera que sean sus fines, verificando su aplicación al objeto autorizado.
 
-c).- Ajusten y ejecuten los programas de inversión en los términos y montos aprobados y de conformidad con sus partidas.
+III.- Expedir los criterios que regulen el funcionamiento de los procedimientos e instrumentos de control de la administración pública estatal, y vigilar su debido cumplimiento.
 
-d).- Apliquen los recursos provenientes de financiamientos y préstamos, con la periodicidad y formas establecidas por la ley.
+IV.- Efectuar visitas, inspecciones y auditorías a las entidades y organismos, así como solicitar informes, revisar libros, documentos e inspeccionar bienes muebles e inmuebles para comprobar físicamente si las inversiones y gastos autorizados se han aplicado eficientemente para lograr metas y objetivos de los programas y subprogramas.
 
-II.- Fincar pliegos de observaciones y de responsabilidades, en su caso, con motivo del resultado de la fiscalización, control y evaluación de la Cuenta Pública, como sigue:
+Para cumplir con lo dispuesto en esta fracción, la Contaduría Mayor de Hacienda está facultada para hacer visitas en forma periódica, si así las considera necesarias, a las entidades y organismos señalados en el artículo 3o. de esta Ley.
 
-a).- Se fincará pliego de observación, por los ingresos y gastos, que de acuerdo con las respectivas leyes y decretos, no hayan sido debidamente justificados y comprobados, y se turnarán para su solventación al Gobierno Estatal, Municipal y demás entidades y organismos comprendidos en el artículo 3º. de esta Ley.
+V.- Establecer y mantener coordinación e intercambiar información y documentación con las dependencias del Poder Ejecutivo, con los Ayuntamientos y demás entidades y organismos, a fin de uniformar los criterios, procedimientos y sistemas de contabilidad, y los procedimientos de archivo contable de los libros y documentos justificativos y comprobatorios del ingreso y el gasto público.
 
-b).- Se fincará pliego de responsabilidades por los ingresos y gastos que no hayan sido debidamente justificados y comprobados, para el reembolso de su importe, ante la Oficina de Recaudación correspondiente.
+VI.- Asesorar a la Legislatura del Estado en las funciones relacionadas con la materia, así como emitir opiniones de carácter técnico o realizar estudios, cuando así lo encomiende aquélla.
 
-La Contaduría Mayor de Hacienda informará a la Legislatura del Estado, por conducto de la Comisión de Presupuesto y Cuenta, de los casos en que se hayan fincado responsabilidades.
+VII.- Vigilar la ejecución, avance físico, liquidación y entrega de la deuda pública que correspondan a las entidades y organismos de la administración pública estatal y municipal.
 
-III.- Fiscalizar, controlar y evaluar los subsidios que conceda el Gobierno del Estado y los Municipios, cualesquiera que sean sus fines, así como verificar su aplicación al objeto autorizado.
+VIII.- Fungir como Comisario o su equivalente, ante los órganos de vigilancia, de las entidades y organismos de la administración pública estatal y municipal.
 
-IV.- Efectuar visitas, inspecciones y auditorias a las entidades y organismos, así como solicitar informes, revisar libros, documentos e inspeccionar obras para comprobar físicamente si las inversiones y gastos autorizados se han aplicado eficientemente para lograr metas y objetivos de los programas y subprogramas.
+B) EN MATERIA DE CUENTA PUBLICA
 
-Para cumplir con lo dispuesto en esta fracción la Contaduría Mayor de Hacienda está facultada para hacer visitas en forma periódica, si así las considera necesarias, a las entidades y organismos señalados en el artículo 3o. de esta Ley.
+I.- Ejercer la fiscalización, control y evaluación de la cuenta pública de los órganos de la administración pública del Estado, de los Municipios y demás entidades y organismos, para verificar que:
 
-V.- Solicitar a los auditores externos e internos de las entidades y organismos, copias de los dictámenes o informes de las auditorías practicadas y las aclaraciones, en su caso, que se estimen pertinentes.
+a) Realicen sus operaciones, en lo general y en lo particular, con apego a las Leyes de Ingresos, Presupuesto de Egresos, Ley de Presupuesto, Contabilidad y Gasto Público, Ley Orgánica del Poder Ejecutivo del Estado, Ley Orgánica Municipal y demás ordenamientos aplicables en la materia.
 
-VI.- Elaborar un informe por escrito sobre el resultado de la fiscalización, control y evaluación de la Cuenta Pública, y rendirlo al Congreso del Estado por conducto de la Comisión de Presupuesto y Cuenta, durante el Período de Sesiones que corresponda. En este informe deberá considerarse:
+b) Ejerzan correcta y estrictamente sus presupuestos conforme a los programas y subprogramas aprobados.
 
-a).- Si la Cuenta Pública está presentada de acuerdo a los principios de contabilidad aplicables al sector gubernamental.
+c) Ajusten y ejecuten los programas de inversión en los términos y montos aprobados y de conformidad con sus partidas.
 
-b).- Los resultados de la gestión financiera, la eficiencia operacional y habilidad administrativa y funcional.
+d) Apliquen los recursos provenientes de financiamientos y préstamos con la periodicidad y formas establecidas por la Ley.
 
-c).- Si los órganos del Gobierno del Estado, Municipios y demás entidades y organismos, se ajustaron a lo señalado en las leyes estatales y municipales aplicables en la materia y en los Presupuestos de Egresos autorizados.
+II.- Fincar pliegos de observaciones y de responsabilidades, en su caso, con motivo del resultado de la fiscalización, control y evaluación de la cuenta pública, corno sigue:
 
-Para tal efecto, los Ayuntamientos del Estado deberán remitir a la Contaduría Mayor de Hacienda sus Presupuestos de Egresos aprobados por sus respectivos Cabildos, en los términos de la Ley Orgánica Municipal.
+a) Se fincará pliego de observación, por los ingresos y gastos, que de acuerdo con las respectivas leyes y decretos, no hayan sido debidamente justificados y comprobados, y se turnarán para su solventación a las respectivas entidades y organismos comprendidos en el artículo 3o. de esta Ley.
 
-d).- El análisis de los subsidios, transferencias, apoyos para operación e inversión, erogaciones adicionales y otros conceptos similares, y
+b) Se fincará pliego de responsabilidades por los ingresos y gastos que no hayan sido debidamente justificados y comprobados, para el reembolso de su importe, ante la Oficina de Recaudación correspondiente.
 
-e).- El análisis detallado de las irregularidades y desviaciones presupuestales que hayan advertido en la realización de las actividades mencionadas en este artículo.
+La Contaduría Mayor de Hacienda informará a la Legislatura del Estado, por conducto de la Comisión de Gobierno y Administración, de los casos en que se hayan fincado responsabilidades
 
-VII.- Establecer y mantener coordinación e intercambiar información y documentación con las dependencias del Poder Ejecutivo, con los Ayuntamientos y demás entidades y organismos, a fin de uniformar las normas, procedimientos y sistemas de contabilidad, y los procedimientos de archivo contable de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público.
+III.- Elaborar un informe por escrito sobre el resultado de la fiscalización, control y evaluación de la cuenta pública, y rendirlo al Congreso del Estado por conducto de la Comisión de Presupuesto y Cuenta, durante el período de sesiones que corresponda. En este informe deberá considerarse:
 
-VIII.- Fijar las normas, procedimientos y sistemas internos para la fiscalización, control y evaluación de la Cuenta Pública.
+a) Si la cuenta pública está presentada de acuerdo a los principios de contabilidad aplicables al sector gubernamental.
 
-IX.- Resolver consultas que le hagan las entidades y organismos con relación a la aplicación correcta de las Leyes de Hacienda e Ingreso y Presupuesto de Egresos estatales y municipales.
+b) Los resultados de la gestión financiera, la eficiencia operacional y habilidad administrativa y funcional.
 
-X.- Brindar asesoría para la integración y presentación de la Cuenta Pública.
+c) Si las entidades y organismos se ajustaron a lo señalado en las leyes estatales y municipales aplicables en la materia, y en los presupuestos de egresos autorizados.
 
-XI.- Verificar que los empleados, servidores públicos o personas que manejen fondos o valores, caucionen su manejo mediante fianza o resguardo, toda vez que son responsables de los daños en dinero que causen al erario público o a las instituciones en que presten sus servicios, por hechos u omisiones que les sean imputables por error, imprevisión o negligencia en el desempeño de sus funciones.
+Para tal efecto, los Ayuntamientos del Estado deberán remitir a la Contaduría Mayor de Hacienda, sus presupuestos de egresos aprobados por sus respectivos cabildos, en los términos de la Ley Orgánica Municipal.
 
-XII.- Asesorar a la Legislatura del Estado en las funciones relacionadas con la materia, así como emitir opiniones de carácter técnico o realizar estudios, cuando así lo encomiende aquélla, por conducto de la Comisión de Presupuesto y Cuenta.
+d) El análisis de los subsidios, transferencias, apoyos para operación e inversión, erogaciones adicionales y otros conceptos similares, y
 
-XIII.- Las demás que le correspondan de acuerdo con esta Ley, su Reglamento y demás disposiciones aplicables.
+IV.- Fijar las normas, procedimientos y sistemas internos para la fiscalización, control y evaluación de la cuenta pública.
+
+V.- Brindar asesoría para la integración y presentación de la cuenta pública.
+
+C) EN MATERIA DE RESPONSABILIDAD ADMINISTRATIVA
+
+I.- Comprobar el cumplimiento por parte de las entidades y organismos de la administración pública estatal y municipal, de las obligaciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores propiedad o al cuidado de las autoridades estatales y municipales;
+
+II.- Vigilar e intervenir como órgano rector para que se cumplan los procedimientos y normatividad referente a concursos para la signación de contratos de obra pública, así como en lo relacionado con la adquisición y enajenación de bienes muebles e inmuebles;
+
+III.- Conocer e investigar los actos, omisiones o conductas de los servidores públicos para constituir responsabilidades administrativas y aplicar las sanciones que correspondan. Cuando las responsabilidades entrañen la comisión de delito, se requerirá denunciar los hechos ante la Procuraduría General de Justicia del Estado, previo acuerdo del Pleno de la Legislatura.
+
+IV.- Verificar que los empleados, servidores públicos o personas que manejen fondos o valores, caucionen su manejo mediante fianza o resguardo, toda vez que son responsables de los daños en dinero que causen al erario público o a las instituciones en que presten sus servicios, por hechos u omisiones que les sean imputables por error, imprevisión o negligencia en el desempeño de sus funciones;
+
+V.- Intervenir en el acto de entrega y recepción de las entidades y organismos, y firmar el acta o actas que por tal motivo se levanten.
+
+VI.- Las demás que le correspondan de acuerdo con esta ley, su reglamento y demás disposiciones aplicables.
 
 ###### ARTICULO 8.
 
@@ -153,13 +167,17 @@ II.- Los proyectos de Leyes de Ingresos, pronósticos de ingresos y Presupuestos
 
 III.- Las reformas a las Leyes de Ingresos y decretos de carácter fiscal que rijan a las entidades y organismos;
 
-IV.- La transferencia, ampliación o supresión de partidas en los Presupuestos de Egresos;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
+IV.- La transferencia, ampliación o supresión de partidas en los presupuestos de egresos.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
 
 Las modificaciones, ampliaciones, supresiones o transferencias de partidas presupuestales, sólo podrá hacerse con la autorización previa de la Legislatura del Estado.
 
-El Gobierno del Estado, por conducto de la Secretaría de Finanzas, deberá hacer la solicitud a la Legislatura en la que dará una amplia y detallada justificación.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
 
-Los Ayuntamientos deberán acompañar a su solicitud, acta de autorización del Cabildo en la cual se justifique la modificación, ampliación, supresión o transferencia de partidas.
+Los Ayuntamientos deberán acompañar a su solicitud, acta de autorización del cabildo en la cual se justifique la modificación, ampliación, supresión o transferencia de partidas.
 
 V.- Los financiamientos concertados por las entidades y organismos con terceros; y
 
@@ -167,25 +185,23 @@ VI.- Los actos, convenios y contratos de carácter financiero celebrados o que s
 
 ### CAPITULO SEGUNDO. ESTRUCTURA ORGANICA
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
 ###### ARTICULO 9.
 
-La Contaduría Mayor de Hacienda, estará constituida en su organización por:
+Para el desarrollo de sus funciones, la Contaduría Mayor de Hacienda, estará constituida en su organización, por un Contador Mayor de Hacienda quien será el titular de la misma, y por el personal administrativo necesario que determine el manual de organización y de acuerdo a la disponibilidad presupuestal de la propia Contaduría.
 
-a).- Un Contador Mayor
-
-b).- Un Subcontador Mayor
-
-c).- Jefes de Departamento
-
-d).- EI personal necesario que se determine de acuerdo al manual de organización de la Contaduría Mayor de Hacienda.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 10.
 
-Al frente de la Contaduría Mayor de Hacienda como autoridad ejecutiva, fungirá el Contador Mayor, que será nombrado por la Legislatura del Estado, y quien será auxiliado en sus funciones por un Subcontador.
+EI Contador Mayor de Hacienda, como autoridad ejecutiva, será nombrado y removido por la Legislatura del Estado, a propuesta de la Comisión de Gobierno y Administración.
+
+> <small>(REFORMADO PRIMMER PARRAFO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 11.
 
-Para ser Contador Mayor o Subcontador, se requiere:
+Para ser Contador Mayor de Hacienda, se requiere:
 
 I.- Ser mexicano, mayor de 25 años y en pleno ejercicio de sus derechos.
 
@@ -195,27 +211,33 @@ III.- Tener experiencia y conocimientos, en Contabilidad y Auditoria Gubernament
 
 IV.- Ser de reconocida honorabilidad.
 
-V.- No desempeñar cargo dé elección a la fecha de designación, ni prestar servicios profesionales al sector público, a excepción de docencias, así como tampoco ser Ministro de culto religioso alguno.
+V.- No desempeñar cargo de elección a la fecha de designación, ni prestar servicios profesionales al sector público, a excepción de docencias, así como tampoco ser Ministro de culto religioso alguno.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 12.
 
-En caso de ausencias temporales que no excedan de 30 días, el Contador Mayor será suplido por el Subcontador; si la ausencia fuera mayor, la Contaduría Mayor de Hacienda, dará cuenta a la Legislatura por conducto de la Comisión de Presupuesto y Cuenta, para que resuelva lo procedente.
+En caso de ausencias temporales que no excedan de treinta días, el Contador Mayor será suplido por quien le siga en jerarquía dentro de la propia Contaduría; si la ausencia fuera mayor, se dará cuenta a la Legislatura por conducto de la Comisión de Gobierno y Administración, para que resuelva lo procedente.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 13.
 
-Son causas de remoción del Contador Mayor y Subcontador Mayor:
+Son causas de remoción del Contador Mayor de Hacienda:
 
-I.- Que incurran en falta de probidad y honradez.
+I.- Que incurra en faltas de probidad u honradez;
 
-II.- Que demuestren notoria ineficiencia, o incapacidad profesional; y
+II.- Que demuestre notoria ineficiencia o incapacidad profesional; y
 
-III.- Que se les sujete a proceso por delito intencional.
+III.- Que se encuentre sujeto a proceso por delito intencional.
 
 ### CAPITULO TERCERO. ATRIBUCIONES DEL CONTADOR MAYOR DE HACIENDA Y DEMAS EMPLEADOS DE LA CONTADURIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
 ###### ARTICULO 14.
 
-Son atribuciones del Contador Mayor:
+Son atribuciones del Contador Mayor de Hacienda:
 
 I.- Representar a la Contaduría Mayor de Hacienda.
 
@@ -231,23 +253,35 @@ b).- EI cobro de recargos y perjuicios causados a la Hacienda Pública Estatal o
 
 c).- La ejecución o rescisión de contratos, convenios o actos que afecten los programas, subprogramas y partidas presupuestales.
 
-V.- Ordenar visitas, inspecciones y auditorías a que se refiere el Artículo 7o. Fracción IV de esta Ley. Para la ejecución de las mismas, deberá:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
 
-a).- Seleccionar al personal capacitado y en su caso, contratar los servidos de profesionistas especializados en la materia para el mejor desarrollo de sus funciones, de acuerdo a la disponibilidad presupuestal.
+V.- Ordenar visitas, inspecciones y auditorías a que se refiere el artículo 7o., apartado A), fracción IV de esta ley. Para la ejecución de las mismas, deberá:
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
+a) Seleccionar al personal capacitado, y en su caso, contratar los servicios de profesionales especializados en la materia para el mejor desarrollo de sus funciones, de acuerdo a la disponibilidad presupuestal y previa autorización de la Comisión de Gobierno y Administración.
 
 b).- Fijar las normas, procedimientos y técnicas a que deban sujetarse éstas.
 
 c).- Comisionar expresamente, mediante oficio, al personal que las deba ejecutar.
 
-VI.- Aprobar el nombramiento, promoción; remoción y cese del personal a su cargo.
+VI.- Aprobar el nombramiento, promoción, remoción y cese del personal a su cargo.
 
-VII.- Establecer las bases de coordinación con la Contraloría de Gobierno y otros organismos fiscalizadores, con el fin de fiscalizar, controlar y evaluar al sector público estatal, para evitar duplicidad de estas acciones.
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
+VII.- Establecer las bases de coordinación con los organismos fiscalizadores, con el fin de fiscalizar, controlar y evaluar al sector público estatal y municipal para evitar duplicidad de estas funciones;
 
 VIII.- Elaborar el presupuesto anual de la Contaduría Mayor de Hacienda, y someterlo a la consideración del Congreso del Estado a través de la Comisión de Gobierno y Administración, administrarlo, ejercerlo y dar cuenta de su aplicación mensualmente a dicha comisión e informarle anualmente, dentro de los 30 días siguientes al término del ejercicio, acerca de la aplicación del presupuesto anual.
 
 IX.- Establecer coordinación y colaboración con los órganos de fiscalización superior dependientes de las legislaturas de las demás entidades federativas y de la federación para lograr el mejor cumplimiento de sus respectivas atribuciones, teniendo facultad para celebrar todo tipo de convenios de coordinación en materia de cooperación técnica o fiscalización de subsidios otorgados por el Gobierno Federal al Estado o Municipio, previo acuerdo de la Comisión de Gobierno y Administración de la Legislatura.
 
-X.- Las demás que deriven de esta Ley y su reglamento.
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
+X.- Determinar responsabilidades administrativas e imponer las sanciones que correspondan, por la comisión de actos ilícitos que entrañen violaciones a las disposiciones de esta ley y demás ordenamientos aplicables.
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
+XI.- Las demás que deriven de esta ley y su reglamento.
 
 ###### ARTICULO 15.
 
@@ -265,45 +299,55 @@ Los funcionarios y empleados de la Contaduría Mayor de Hacienda, tienen la obli
 
 La Contaduría Mayor de Hacienda, como dependencia del Poder Legislativo, estará vinculada política y administrativamente a la Comisión de Gobierno y Administración o Gran Comisión, y de acuerdo a su naturaleza como órgano técnico, su relación de dependencia con la Legislatura se establecerá por conducto de la Comisión de Presupuesto y Cuenta.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
 ###### ARTICULO 18.
 
-Para los efectos que señala el artículo anterior estará a cargó de la Comisión de Gobierno y Administración o Gran Comisión:
+Para los efectos que señala el artículo anterior, estará a cargo de la Comisión de Gobierno y Administración o Gran Comisión:
 
-I.- Someter a la consideración de la Legislatura el presupuesto de egresos anual de la Contaduría Mayor; estudiar y aprobar el ejercicio trimestral de dicho presupuesto, y revisar las cuentas anuales y mensuales que presente la Contaduría;
+I.- Someter a la consideración de la Legislatura, el presupuesto de egresos anual de la Contaduría Mayor; estudiar y aprobar el ejercicio trimestral de dicho presupuesto, y revisar las cuentas anuales y mensuales que presente la Contaduría.
 
-II.- Aprobar el manual de organización y someter al Pleno de la Legislatura la expedición o modificación de la Ley Orgánica y del Reglamento Interior de la Contaduría Mayor de Hacienda.
+II.- Aprobar el manual de organización y someter al Pleno de la Legislatura, la expedición o modificación de la Ley Orgánica y del Reglamento Interior de la Contaduría Mayor de Hacienda.
 
 III.- Proponer la terna para el nombramiento del Contador Mayor de Hacienda y, en su caso, proponer su remoción.
 
-IV.- Ordenar en caso necesario la practica de visitas, inspecciones y auditorías adicionales a las contenidas en los programas anuales formulados por la Contaduría Mayor en coordinación con la Comisión de Presupuesto y Cuenta.
+IV.- Ser el conducto de comunicación entre el H. Congreso del Estado y la Contaduría Mayor de Hacienda.
+
+V.- Interpretar esta Ley y el Reglamento Interior de la Contaduría.
+
+VI.- Previo acuerdo del Pleno de la Legislatura, ordenar la práctica de visitas, inspecciones y auditorías adicionales a las contenidas en los programas anuales formulados por la Contaduría Mayor de Hacienda, en coordinación con la Comisión de Presupuesto y Cuenta.
+
+VII.- Presentar denuncias ante la autoridad competente, cuando el Pleno de la Legislatura determine que la responsabilidad en que incurra el servidor entraña la probable comisión de delito.
+
+VIII.- Autorizar al Contador Mayor de Hacienda para la contratación de auditores externos o personal profesional especializado en la materia, para el mejor desarrollo de las funciones a cargo de la Contaduría.
+
+IX.- Las demás atribuciones que establezca esta Ley, el Reglamento de la misma, la Ley Orgánica del Poder Legislativo, y su Reglamento Interior.
 
 ### CAPITULO SEGUNDO. COMISION DE PRESUPUESTO Y CUENTA
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
 ###### ARTICULO 19.
 
-Para los efectos de esta Ley, corresponde a la Comisión de Presupuesto y Cuenta del Congreso del Estado:
+Para los efectos de esta ley, corresponde a la Comisión de Presupuesto y Cuenta:
 
-I.- Recibir del Gobierno del Estado, Ayuntamientos Municipales y demás entidades y organismos a que se refiere el Artículo 3o. de esta Ley, la información y datos que integran la cuenta pública, que le deberán ser turnadas en periodos mensuales y durante los primeros quince días del mes siguiente al que correspondan, acompañados de un inventario por triplicado de los comprobantes que se remitan, para que al recibirse de conformidad les sean devuelta una copia de dicho inventario debidamente firmado por el empleado que reciba la cuenta y con el sello de la Legislatura.
+I.- Recibir de las entidades y organismos a que se refiere el artículo 3o. de esta ley, la información y datos que integran la cuenta pública, que le deberán ser turnadas en períodos mensuales y durante los primeros quince días del mes siguiente al que correspondan, acompañados de un inventario por triplicado de los comprobantes que se remitan, para que al recibirse de conformidad les sean devuelta una copia de dicho inventario debidamente firmado por el empleado que reciba la cuenta y con el sello de la Legislatura.
 
-II.- Enviar a la Contaduría Mayor de Hacienda, la cuenta pública a que se refiere la Fracción anterior, para su fiscalización, control y evaluación.
+II.- Enviar a la Contaduría Mayor de Hacienda, la cuenta pública a que se refiere la fracción anterior, para su fiscalización, control y evaluación.
 
-Esta Comisión, dentro de las facultades que le otorga esta Ley y la Orgánica del Poder Legislativo, podrá determinar el lugar en el que se entregará la Cuenta Pública del Estado y de los Municipios, así como de las demás entidades y organismos a que se refiere el artículo 3o. de esta Ley, pudiendo ser éste, el de la propia Contaduría Mayor de Hacienda.
+III.- Elaborar coordinadamente con la Contaduría Mayor de Hacienda, el programa anual de visitas, inspecciones y auditorías periódicas a las entidades y organismos.
 
-III.- Elaborar coordinadamente con la Contaduría Mayor de Hacienda el programa anual de visitas, inspecciones y auditorías periódicas a las entidades y organismos que señala el artículo 3o.de esta Ley.
-
-IV.- Ser el conducto de comunicación entre el H. Congreso del Estado y la contaduría Mayor de Hacienda, de acuerdo a la naturaleza técnica de ésta.
-
-V.- Interpretar esta Ley y el Reglamento Interior de la Contaduría para efectos administrativos.
-
-VI.- Las demás atribuciones que establezca esta Ley, el reglamento de la misma, el reglamento para el Gobierno Interior del Poder Legislativo del Estado y las demás Leyes aplicables en la materia.
+IV.- Las demás atribuciones que establezca esta ley y las Leyes de Presupuesto, Contabilidad y Gasto Público y Orgánica del Poder Legislativo.
 
 ## TITULO CUARTO
 
 ### CAPITULO PRIMERO. CUENTA PUBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
 ###### ARTICULO 20.
 
-Para los efectos de esta Ley, la Cuenta Pública de los órganos del Gobierno del Estado, los Municipios y demás entidades y organismos a que se refiere el artículo 3o.de la presente Ley, está constituida por:
+Para los efectos de esta ley, la Cuenta Pública de las entidades y organismos a que se refiere el artículo 3o., estará constituida por:
 
 I.- La documentación que se obtenga u origine como resultado de la recaudación de los ingresos comprendidos en la Ley de Ingresos del Estado, así como también la de los municipios.
 
@@ -345,7 +389,7 @@ II.- Determinará el resultado de la gestión financiera.
 
 III.- Verificará que el ingreso derive de la aplicación correcta de la ley de ingresos y demás ordenamientos legales que rijan en la materia.
 
-IV.- Comprobará que el gasto público se ajuste a los presupuestos de egresos, cumpliendo, con los programas y subprogramas aprobados; y
+IV.- Comprobará que el gasto público se ajuste a los presupuestos de egresos, cumpliendo con los programas y subprogramas aprobados; y
 
 V.- Comprenderá el estudio y evaluación del control interno, con el fin de sugerir recomendaciones, cuando así se crean pertinentes.
 
@@ -357,9 +401,11 @@ Si en la fiscalización, control y evaluación aparecieren discrepancias entre l
 
 Las entidades y organismos a que se refiere el artículo 3º. de esta ley, están obligados a proporcionar a la Contaduría Mayor de Hacienda, la información y documentación que les solicite y a permitir la práctica de diligencias a que alude el artículo 19 de esta ley; así como también las personas físicas o morales que reciban subsidios o manejen recursos económicos públicos o hubiesen concertado operaciones que se relacionen con el gasto público.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
 ###### ARTICULO 25.
 
-Si alguna de dichas entidades y organismos a que se refiere el artículo anterior de esta ley, se negare a proporcionar la información solicitada por la Contaduría Mayor de Hacienda o no permitiera el ejercicio de las funciones contenidas en la fracción IV del artículo 7o. de esta ley, la Contaduría aplicará lo conducente en el artículo 39 fracción V de esta ley, e informará de ello al Congreso del Estado, por conducto de la Comisión de Presupuesto y Cuenta, la que podrá conceder una prórroga para ello, que no podrá exceder de 3 meses y que se otorgará una vez acreditadas las razones que funden y motiven su petición.
+Si alguna de las entidades y organismos a que se refiere el artículo anterior, se negare a proporcionar la información solicitada por la Contaduría Mayor de Hacienda o no permitiera el ejercicio de las funciones contenidas en la fracción IV, apartado A), del artículo 7o. de esta ley, la Contaduría actuará conforme a lo dispuesto por el artículo 41 de este propio ordenamiento e informará de ello al Congreso del Estado, por conducto de la Comisión de Presupuesto y Cuenta, la que en su caso, podrá conceder una prórroga que nunca excederá de quince días y que se otorgará una vez acreditadas las razones que funden y motiven su petición.
 
 ###### ARTICULO 26.
 
@@ -411,11 +457,11 @@ IV.- Por deficiencias o irregularidades en que incurran las entidades u organism
 
 V.- Por deficiencias, errores o irregularidades detectadas en el control interno.
 
-VI.- Las demás que se determinen como resultado de la fiscalización, control y evaluación de la actividad financiera, con apego a las leyes y decretos que normen en la materia.
+VI.- Las demás que se determinen cómo resultado de la fiscalización, control y evaluación de la actividad financiera, con apego a las leyes y decretos que normen en la materia.
 
 ###### ARTICULO 33.
 
-La Contaduría Mayor de Hacienda podrá revisar y glosar una cuenta. aún cuando se encuentre pendiente otra anterior, siempre que no sea del mismo funcionario, sin perjuicio de que el nuevo funcionario solvente los pliegos de su antecesor sin responsabilidad para el (sic) él, a su juicio y dentro de sus funciones.
+La Contaduría Mayor de Hacienda podrá revisar y glosar una cuenta. aún cuando se encuentre pendiente otra anterior, siempre que no sea del mismo funcionario, sin perjuicio de que el nuevo funcionario solvente los pliegos de su antecesor sin responsabilidad para él, a su juicio y dentro de sus funciones.
 
 ###### ARTICULO 34.
 
@@ -423,11 +469,13 @@ Las recomendaciones se fundamentarán en las leyes de ingresos en las que se aut
 
 La Contaduría Mayor de Hacienda, está facultada también para hacer las recomendaciones que considere necesarias, con el fin de fortalecer los sistemas de control interno de las entidades y organismos a que se refiere el artículo 3o. de esta ley.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
 ###### ARTICULO 35.
 
-Las entidades y organismos a que se refiere el artículo 3o. de esta ley, dentro de un plazo de 30 días naturales, contados a partir de la fecha en que se reciban los pliegos de observaciones y los oficios de recomendaciones, solventarán las observaciones y atenderán las recomendaciones de la Contaduría Mayor de Hacienda.
+Las entidades y organismos a que se refiere el artículo 3o. de esta ley, dentro de un plazo de treinta días naturales, contados a partir de la fecha en que se reciban los pliegos de observaciones y los oficios de recomendaciones, solventarán las observaciones y atenderán las recomendaciones de la Contaduría Mayor de Hacienda.
 
-EI plazo a que se refiere este artículo podrá ser prorrogado por un término que no exceda de 5 días a solicitud justificada de las entidades y organismos, y siempre que lo acuerde así la Contaduría Mayor de Hacienda.
+En caso de que las solventaciones no sean satisfactorias a juicio de la Contaduría, ésta otorgará a las entidades u organismos que correspondan un nuevo plazo de diez días para su debido cumplimiento; si aún en este término no se cumpliera con lo solicitado, se procederá a exigir el reembolso ante las oficinas recaudadoras respectivas, de las cantidades que en su caso procedan.
 
 ###### ARTICULO 36.
 
@@ -441,9 +489,11 @@ La aprobación de la Cuenta Pública por parte de la Legislatura del Estado, pro
 
 ### CAPITULO SEGUNDO. RESPONSABILIDADES
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
 ###### ARTICULO 38.
 
-Las responsabilidades que por esta ley se finquen tienen por objeto cubrir a la Hacienda Pública del Estado o de los Municipios, el monto de los daños y perjuicios estimables en dinero.
+Las responsabilidades que por esta ley se finquen tienen por objeto cubrir a la Hacienda Pública del Estado o de los Municipios, el monto de los daños y perjuicios estimables en dinero, así como determinar la comisión de actos ilícitos por parte de los servidores públicos de los organismos a que se refiere el artículo 3o. de esta ley y la aplicación de las sanciones que correspondan.
 
 ###### ARTICULO 39.
 
@@ -463,33 +513,81 @@ VI.- Así mismo, incurrirán en responsabilidad, los funcionarios y empleados de
 
 ###### ARTICULO 40.
 
-Incurren en responsabilidades administrativas, aquellos funcionarios o empleados de las entidades y organismos a que se refiere el artículo 3º. de esta ley, que estando obligados a rendir información contable o financiera mensual o anual a la Contaduría Mayor de Hacienda, dejen de hacerlo dentro del término de 10 días hábiles a partir del día siguiente al en que concluya el p1azo fijado por la ley respectiva.
+Incurren en responsabilidades administrativas, aquellos funcionarios o empleados de las entidades y organismos a que se refiere el artículo 3º. de esta ley, que estando obligados a rendir información contable o financiera mensual o anual a la Contaduría Mayor de Hacienda, dejen de hacerlo dentro del término de 10 días hábiles a partir del día siguiente al en que concluya el plazo fijado por la ley respectiva.
 
 Las responsabilidades administrativas se fincarán independientemente de las que procedan conforme a otras leyes y de las sanciones penales previstas en la ley de la materia.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
 ###### ARTICULO 41.
 
-Las entidades y organismos que de acuerdo con el artículo 6 de esta ley, deban presentar a la Contaduría Mayor de Hacienda sus presupuestos de egresos, estimaciones de ingresos y sus cuentas mensuales, no lo hicieren dentro del término que marca la presente Ley, el Contador Mayor informará a la Comisión de Presupuesto y Cuenta que no se ha cumplido con este requisito constitucional y le propondrá se le conceda una prorroga de quince días naturales para la presentación de dicha documentación; si vencido este término no fuere remitida, la Legislatura determinará si se le aplica al servidor público responsable del Gobierno del Estado, Ayuntamientos, así como a los responsables de rendir cuentas de los organismos y demás entidades, una multa que puede ser hasta de 50 salarios mínimos generales vigentes al tiempo de su aplicación, que se hará efectiva en la Secretaría de Finanzas o Tesorería Municipal, según el caso.
+Si las entidades y organismos que de acuerdo con el artículo 7o. deban presentar sus presupuestos de egresos, estimaciones de ingresos y sus cuentas mensuales, no lo hicieren dentro del término que marca esta Ley, el Contador Mayor informará a la Comisión de Presupuesto y Cuenta que no se ha cumplido con este requisito y le propondrá se le conceda una prórroga de quince días naturales para la presentación de dicha documentación; si vencido este término no fuere remitida, la Contaduría Mayor determinará si se le aplica al servidor público responsable, una multa hasta de cien salarios mínimos generales vigente al tiempo de su aplicación, que hará efectiva en la Secretaría de Hacienda del Estado o Tesorería Municipal, según el caso.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 42.
 
-Si del resultado de la fiscalización, control y evaluación de la cuenta pública, se determinan responsabilidades de las que se refiere el artículo 7o. fracción II, inciso b) de esta ley, el Contador Mayor de hacienda emitirá resoluciones y lo hará del conocimiento del H. Congreso del Estado por conducto de la Comisión de Presupuesto y Cuenta. Así mismo, fijará con claridad el monto a cubrir y el plazo para efectuar el entero que proceda ante la oficina de recaudación correspondiente, pudiéndose decretar el embargo precautorio de bienes para garantizar el debido cumplimiento, toda vez que dichas responsabilidades tendrán el carácter de créditos fiscales y se harán efect1vas a través del procedimiento administrativo de ejecución, que se promoverá ante las autoridades fiscales competentes.
+Si del resultado de la fiscalización, control y evaluación de la cuenta pública, se determinaran responsabilidades de las que establece el articulo 7o., fracción II del apartado B), el Contador Mayor de Hacienda emitirá resolución y lo hará del conocimiento del H. Congreso del Estado, por conducto de la Comisión de Gobierno y Administración. Así mismo, fijará con claridad el monto a cubrir y el plazo para efectuar el entero que proceda ante la oficina de recaudación correspondiente, pudiéndose decretar el embargo precautorio de bienes para garantizar su debido cumplimiento, toda vez que dichas responsabilidades tendrán el carácter de créditos fiscales y se harán efectivas a través del procedimiento administrativo de ejecución, que se promoverá ante las autoridades fiscales competentes.
 
-### CAPITULO TERCERO. SANCIONES
+En el caso de que la Contaduría Mayor de Hacienda determine responsabilidad por parte de los servidores públicos, como resultado de la evaluación y auditoría gubernamental practicada de conformidad con el contenido del artículo 7o., apartado A), fracción IV de esta Ley, observará el siguiente procedimiento:
+
+I.- citará a los responsables con una anticipación de cuando menos tres días hábiles, a una audiencia, para que ofrezcan pruebas y aleguen lo que a su derecho convenga, por sí o por medio de un defensor. Las pruebas ofrecidas se desahogarán en un término que no podrá exceder de diez días hábiles.
+
+II.- Sí no obstante haberse citado en tiempo y forma legal al interesado para que comparezca a la audiencia señalada en la fracción anterior, éste no comparece, se le girará citatorio, señalándole nueva fecha y hora para que comparezca, bajo el apercibimiento de que en caso de no hacerlo, se tendrán por consentidos los hechos que en su caso se le imputen y por renunciado su derecho a ofrecer pruebas, procediendo la Contaduría a emitir su resolución con los elementos que tenga a su disposición.
+
+III.- EI día señalado para la audiencia, luego de verificar la personalidad de los comparecientes, se dará lectura al resultado de la evaluación de auditoría practicado por la Contaduría Mayor de Hacienda, y de la responsabilidad encontrada y atribuida al servidor, hecho lo cual se le exhortará a éste para que en términos apegados a la verdad, manifieste lo que a su derecho corresponda, pudiendo expresar los alegatos a su favor, ya sea en forma verbal o por escrito, y ofrecer las pruebas que sean favorables a sus intereses, las cuales le serán admitidas siempre que se relacionen con los hechos que se le imputen y no sean contrarias a la moral ni a derecho, de todo lo cual se levantará un acta que será firmada por los que intervinieron en el acto.
+
+IV.- Con todos los elementos que tenga a su disposición, la Contaduría Mayor de Hacienda emitirá una resolución en la que confirmará si quedó acreditada la responsabilidad en que incurrió el servidor, o bien, si éste demostró la inexistencia de la conducta ilícita que se le atribuye, misma que notificará a la parte interesada dentro de un término de diez días hábiles, a partir de que hayan quedado desahogadas todas las pruebas admitidas, o de celebrada la audiencia, en caso de que aquéllas no se hubieran ofrecido.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
+### CAPITULO TERCERO. CORRECCIONES DISCIPLINARIAS Y SANCIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 43.
 
-La Contaduría Mayor de Hacienda, podrá imponer las siguientes sanciones:
+La Contaduría Mayor de Hacienda, podrá imponer las siguientes:
 
-I.- Económicas, hasta por tres tantos de los beneficios obtenidos indebidamente o de los daños y perjuicios causados a la Hacienda Pública Estatal, Municipal y al patrimonio de las entidades y organismos comprendidos en el artículo 3o. de esta ley.
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
 
-II.- Económicas, hasta por el importe de cien veces del salario diario vigente en el Estado, a quien de alguna forma entorpezca el desempeño de las funciones a cargo de Contaduría.
+A) CORRECCIONES DISCIPLINARIAS:
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
+I.- Apercibimiento privado o público;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
+II.- Amonestación privada o pública.
 
 III.- Suspensión temporal hasta por tres meses o inhabilitación para ocupar otro cargo público a los servidores que presten sus servicios en la Contaduría Mayor de Hacienda cuando por negligencia hayan provocado el entorpecimiento de las funciones de ésta.
 
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
+B) SANCIONES:
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
+I.- Económicas, hasta por tres tantos de los beneficios obtenidos indebidamente o de los daños y perjuicios causados a la Hacienda Pública Estatal o Municipal, y al patrimonio de las entidades y organismos comprendidos en el artículo 3o. de esta ley.
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
+II.- Económicas, hasta por el importe de cien veces del salario mínimo diario vigente en el Estado, a quien de alguna forma entorpezca el desempeño de las funciones a cargo de la Contaduría.
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
+III.- Suspensión temporal hasta por tres meses o inhabilitación para ocupar otro cargo público a los servidores públicos que incurran en responsabilidad debidamente comprobada por la Contaduría, incluso tratándose del propio personal de la Contaduría.
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
+Para la imposición de las sanciones previstas en este artículo, la Contaduría requerirá previa autorización de la Legislatura del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1995)</small>
+
 ###### ARTICULO 44.
 
-En caso de que la responsabilidad entrañe presumiblemente la comisión de delito, se denunciarán los hechos ante la autoridad competente, previo acuerdo de la Legislatura del Estado o de la Diputación Permanente, en su caso.
+En caso de que la responsabilidad entrañe presumiblemente la comisión de delito, se denunciarán los hechos ante la autoridad competente, previo acuerdo del Pleno de la Legislatura o de la Diputación Permanente, en su caso.
 
 ###### ARTICULO 45.
 
@@ -548,3 +646,11 @@ ING. MARIO ERNESTO VILLANUEVA MADRID.
 EL C. SECRETARIO GENERAL DE GOBIERNO.
 
 C. PROFR. RAUL OMAR SANTANA BASTARRACHEA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE NOVIEMBRE DE 1995.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se abrogan al presente Decreto.
