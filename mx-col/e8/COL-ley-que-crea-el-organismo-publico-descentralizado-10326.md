@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-el-organismo-publico-descentralizado-10326"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-20"
-last_updated: "1992-06-27"
+last_updated: "1998-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10326&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COORDINACION DE LOS SERVICIOS EDUCATIVOS DEL ESTADO DE COLIMA"
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE COLIMA EL 27 DE JUNIO DE 1992.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 1998.
 
 Ley publicada en el Número 25 del Periódico Oficial del Estado de Colima, el sábado 20 de junio de 1992.
 
@@ -91,23 +89,21 @@ I.- El Consejo Directivo;
 
 II.- La Dirección General;
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 4o.
 
 El Consejo Directivo estará integrado por:
 
-I.- Un Presidente, que será el Secretario de Educación, Cultura y Deporte del gobierno del Estado;
+I.- Un Presidente, que será el Gobernador del Estado;
 
-II.- Tres Vocales, que serán los representantes de cada una de las siguientes dependencias del Gobierno del Estado:
+II.- Tres Vocales, que serán los Secretarios General de Gobierno y de Finanzas, así como el Oficial Mayor de Gobierno;
 
-a).- La Secretaría General de Gobierno;
-
-b).- La Secretaría de Finanzas;
-
-c).- La Oficialía Mayor.
-
-III.- Un Representante de los Presidentes Municipales, que será acreditado por ellos mismos.
+III.- Dos representantes de los Presidentes Municipales, que serán acreditados por ellos mismos, siendo los representantes, el que obtenga el mayor número de votos y el que le siga en votación; y
 
 IV.- Un Secretario Técnico, que será el Director General de LA COORDINACION.
+
+Cada uno de los miembros del Consejo designará un suplente que los sustituya, en caso en que no les sea posible asistir. El Representante del Gobernador será uno de los tres Vocales, en cuyo caso el Vocal que supla la ausencia del Presidente será sustituido por su suplente.
 
 ###### ARTICULO 5o.
 
@@ -117,9 +113,11 @@ El Consejo Directivo celebrará sesiones ordinarias cuando menos una vez por mes
 
 El Consejo ejercerá las atribuciones a cargo de LA COORDINACION, señaladas en el artículo 2o., fracciones I, V, VI y IX, de esta Ley.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 7o.
 
-La Dirección General estará a cargo de un Director General, quien deberá tener experiencia en el campo educativo y será designado y removido por el Gobernador Constitucional del Estado.
+La Dirección General estará a cargo de un Director General, que será el Secretario de Educación del Gobierno del Estado.
 
 Tendrá el carácter de Secretario Técnico del Consejo Directivo y ejercerá la representación jurídica de LA COORDINACION.
 
@@ -145,17 +143,21 @@ VII.- Las demás que le señale el Consejo Directivo.
 
 LA COORDINACION tendrá la estructura administrativa que determine el Consejo Directivo, mediante el reglamento administrativo correspondiente.
 
-“ARTICULO 10.- La COORDINACION contará con un Consejo Consultivo, que estará integrado por:
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1998)</small>
 
-I.- El Director General, como Presidente;
+###### ARTICULO 10.
 
-II.- Un representante de la Secretaría de Educación, Cultura y Deporte;
+LA COORDINACION contará con un Consejo Consultivo, que estará integrado por:
 
-III.- Dos representantes del Sindicato Nacional de Trabajadores de la Educación; y
+I.- El Director General como Presidente;
 
-IV.- Un representante de la Asociación Estatal de Padres de Familia.
+II.- Un representante de cada una de las Secciones del Sindicato Nacional de Trabajadores de la Educación;
 
-El Consejo será órgano de consulta y participación de LA COORDINACION en las funciones a su cargo. Será convocado por el Presidente en forma ordinaria por lo menos una vez cada dos meses o en forma extraordinaria cuando así se requiera, con un (sic) anticipación mínima de 48 horas.
+III.- Un representante de la Asociación Estatal de Padres de Familia;
+
+IV.- Tres representantes del H. Congreso del Estado, que serán los integrantes de su Comisión de Educación; y
+
+V.- Un representante de cada uno de los Ayuntamientos.
 
 “ARTICULO 11.- Las relaciones laborales entre LA COORDINACION y los trabajadores de base a su servicio, se regirán por el Reglamento de las Condiciones Generales de Trabajo de la Secretaría de Educación Pública, por el Convenio suscrito por el Gobierno Estatal y el Sindicato Nacional de Trabajadores de la Educación y por las disposiciones aplicables de la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado B del artículo 123 Constitucional. En cuanto a las prestaciones de carácter social y económico será aplicable lo establecido en el convenio suscrito entre los gobiernos Federal y Estatal para la ejecución del Acuerdo Nacional para la Modernización de la Educación Básica, así como en el Convenio celebrado entre el Gobierno del Estado y el Sindicato Nacional de Trabajadores de la Educación.
 
@@ -218,3 +220,11 @@ Dado en el Recinto Oficial del Poder Legislativo a los quince días del mes de j
 Por tanto mando se imprima, publique, circule y observe.
 
 Dado en Palacio de Gobierno, a los dieciséis días del mes de junio de 1992.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE DELGADO MAGAÑA.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE MAYO DE 1998.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 50 SE MODIFICAN LOS ARTICULOS 4, 7 Y 10 DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COORDINACION DE LOS SERVICIOS EDUCATIVOS DEL ESTADO DE COLIMA".]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
