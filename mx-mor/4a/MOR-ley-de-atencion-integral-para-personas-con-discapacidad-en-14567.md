@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-atencion-integral-para-personas-con-discapacidad-en-1456
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-11"
-last_updated: "2001-10-03"
+last_updated: "2002-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ATENCION INTEGRAL PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 11 de febrero de 1998.
 
@@ -95,73 +95,35 @@ La aplicación de esta Ley compete a la Secretaría, al Sistema para el desarrol
 
 ### CAPITULO I. DEL CONSEJO COORDINADOR DE ATENCION INTEGRAL PARA PERSONAS CON DISCAPACIDAD
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 5.
 
-Se crea el Consejo Coordinador de Atención Integral para Personas con Discapacidad, como un organismo responsable encargado de proponer a las instituciones encargadas de su aplicación, las acciones, los planes y programas específicos de concertación, planeación y promoción, que garanticen las condiciones favorables para el desarrollo de las personas con discapacidad.
+Se crea el Consejo de Atención Integral para Personas con Discapacidad como un órgano de consulta e instancia de coordinación para las políticas, estrategias y acciones en materia de discapacidad, el cual estará dirigido al cumplimiento de los objetivos que garanticen las condiciones favorables para el desarrollo de las personas con discapacidad.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2001)</small>
-
-Para el cumplimiento de los objetivos del Organismo Coordinador, éste podrá recibir subsidios, subvenciones, aportaciones, bienes y demás ingresos que las dependencias y entidades del Gobierno federal y Estatal o Municipal le otorguen; así como también podrá recibir las aportaciones, donaciones, legados y demás liberalidades de personas físicas o morales que deseen aportar. Para la administración y vigilancia del patrimonio que se integre de las aportaciones antes citadas, se deberá constituir un patronato, mismo que se integrará en los términos que para tal efecto se señale en el reglamento de esta Ley.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2001)</small>
-
-El Consejo sesionará ordinariamente, por lo menos cada tres meses, o extraordinariamente en cualquier tiempo a solicitud del Coordinador del Consejo a falta de éste del secretario técnico.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2001)</small>
-
-Para el desarrollo de la sesión y que no sea previsto en esta Ley y su reglamento se aplicará supletoriamente el Código Civil y Procesal Civil del Estado de Morelos en lo conducente.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 6.
 
 El Consejo estará integrado por:
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2001)</small>
+I.- Un Presidente nombrado por el Ejecutivo del Estado, que durará en el cargo tres años.
 
-I.- Un Coordinador General nombrado por el Ejecutivo del Estado, durará en el cargo tres años, quien podrá ser removido del cargo por causa grave, calificada por el Organismo Coordinador, debiendo recaer el nombramiento de entre una terna propuesta por el propio Organismo Coordinador;
+II.- Un Coordinador general nombrado por el Ejecutivo de Estado que durará en el cargo tres años, quien podrá ser removido del cargo por causa grave calificada por el Organismo, debiendo recaer el nombramiento de entre una terna propuesta por el propio Consejo.
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2001)</small>
+III.- Un Secretario Técnico que durará en el cargo un año electo por el propio Consejo, con posibilidad de reelección, período que no deberá ser mayor al del Coordinador general que será de tres años.
 
-II.- Un Secretario Técnico que durará un año, electo por propio Consejo, con posibilidad de reelección, período que no deberá ser mayor al del Coordinador General, que será de tres años;
+IV.- 8 vocales representantes de las dependencias y entidades de la Administración Pública Estatal, encargadas de dar atención y servicios a las personas con discapacidad; y
 
-III.- 8 vocales representantes de las dependencias y entidades de la Administración Pública Estatal, encargadas de dar atención y servicios públicos a las personas con discapacidad; y,
+V.- 8 vocales representantes de las organizaciones privadas que sobre discapacidad existan en el Estado, quienes en Asamblea Pública convocada por única vez por el Sistema para el Desarrollo Integral de la Familia (DIF ESTATAL), con 15 días de anticipación y publicada en los periódicos de mayor circulación, serán electos por mayoría de los votos de los asambleístas.
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2001)</small>
+Una vez integrado el Consejo, al término de su período será este único responsable de realizar la convocatoria en tiempo y forma para la conformación del siguiente consejo.
 
-IV.- 8 vocales representantes de las organizaciones privadas que sobre discapacidad, existan en el Estado, dos de éstas serán de representación regional, salvo que no existieran o no quisieran participar; representación que tendrá una duración de tres años en el cargo pudiendo ser removidos del mismo, por razón debidamente fundada por el Organismo Coordinador; con la posibilidad de un período de reelección.
+Solo podrán votar la población discapacitada que exista en el Estado previo registro en la Asamblea según las bases de la convocatoria.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+ARTICULO 6 a.- (DEROGADO, P.O. 30 DE ENERO DE 2002)
 
-Para proceder al registro de las organizaciones privadas será requisito indispensable que éstas, en reunión pública y por el voto mayoritario, entendiéndose al equivalente del 50 más uno, designen a las 8 organizaciones privadas que deban ser representantes ante el Consejo, para lo cual se deberán observar las siguientes reglas:
-
-a).- Será previa convocatoria que lance el Sistema para el Desarrollo Integral de la Familia en el Estado, con 15 días de anticipación, publicándose en los periódicos de mayor circulación.
-
-b).- Para que proceda en el registro deberá acreditar jurídicamente la legal constitución de la organización privada con las constancias actualizadas que así lo determinen y que se encuentren conformadas por un mínimo de 20 integrantes.
-
-c).- Deberán además contar al día del registro con una antigüedad mínima de tres años de constituidas legalmente.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2001)</small>
-
-ARTICULO 6 a.- Los integrantes del Consejo tendrán las funciones siguientes:
-
-I.- Asistir a las sesiones;
-
-II.- Proponer los asuntos que deban formar parte de la orden del día;
-
-III.- Revisar, analizar, proponer y, en su caso, votar los asuntos que sean sometidos a consideración del Consejo;
-
-IV.- Integrar, en su caso, los grupos de trabajo que se constituyan para la realización de las tareas específicas;
-
-V.- Representar y hacer cumplir ante las Dependencias, entidades o Instituciones Gubernamentales, los acuerdos adoptados por el Consejo que incidan en el ámbito de competencia de las mismas;
-
-VI.- Recibir de las autoridades a que se refiere esta Ley; incluyendo al DIF, al Coordinador General, y del Secretario Técnico la información administrativa que requiera sobre el cumplimiento de esta Ley;
-
-VII.- Aprobar el programa e informe anual de actividades del Coordinador General del consejo; y
-
-VIII.- Conocer y resolver los demás asuntos que se deriven de esta Ley y su reglamento, así como los que encomiende el propio Consejo.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2001)</small>
-
-ARTICULO 6 b.- El Coordinador General, al igual que los miembros permanentes deberán designar un suplente que los representará, el cual debe acreditarse ante el Secretario Técnico. En caso de falta de Coordinador General, será el Secretario Técnico quien supla su ausencia. Los casos no previstos en la Ley y el reglamento serán resueltos por el propio consejo.
+ARTICULO 6 b.- (DEROGADO, P.O. 30 DE ENERO DE 2002)
 
 ### CAPITULO II. DE LAS ATRIBUCIONES
 
@@ -700,3 +662,7 @@ Artículo Segundo.- El presente Decreto iniciará su vigencia el día siguiente 
 Artículo Tercero.- Para la integración del Consejo Coordinador de Atención Integral para Personas con Discapacidad a que se refiere el artículo 6, para lo cual y a partir de la iniciación de la vigencia de la presente iniciativa, el titular del Poder Ejecutivo cuenta con un período improrrogable de 45 días para que a través del Sistema para el Desarrollo Integral de la Familia en el Estado, convoque a los representantes de la dependencias y entidades de la Administración Pública estatal, y a las organizaciones privadas, para proceder a la nueva integración del Consejo Coordinador de Atención Integral para Personas con Discapacidad.
 
 Artículo Cuarto.- A partir de la iniciación de la vigencia del presente Decreto queda sin efectos el nombramiento de los integrantes del Consejo Coordinador de Atención Integral para Personas con Discapacidad electo al amparo de la Ley de Atención para personas con Discapacidad en el Estado publicada en el Periódico Oficial número 3901 de fecha 11 de febrero de 1998.
+
+P.O. 30 DE ENERO DE 2002.
+
+Artículo Único.- Aprobado que sea el presente Decreto por el Pleno túrnese al Ejecutivo para su publicación e iniciación de vigencia en el Periódico Oficial del Estado denominado "Tierra y Libertad" Órgano de difusión del Estado.
