@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1973-04-30"
+last_updated: "1973-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1973.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -449,7 +449,9 @@ c).- Que el valor de las ventas de mercancías no exceda del 50% del importe tot
 
 d).- Que presenten solicitud a la Secretaría de Finanzas del Estado, acompañada de una relación de los artículos que pretendan vender.
 
-V.- Los ingresos que procedan de la venta de bienes que representen inversiones en activo fijo, salvo cuando esos bienes pertenezcan al género de artículos propios del giro; de la enajenación de partes sociales en las sociedades de personas y de la distribución entre los socios del haber social en los casos de disolución de sociedades.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE JUNIO DE 1973)</small>
+
+V.- Los ingresos que procedan de la venta de bienes que representen inversiones en activo fijo, salvo cuando esos bienes pertenezcan al género de artículos propios del giro; de aportaciones de capital, de la enajenación de partes sociales en las sociedades de personas y de la distribución entre los socios del haber social en los casos de disolución de sociedades.
 
 VI.- Los ingresos provenientes de las operaciones de segunda o ulteriores manos de varilla corrugada.
 
@@ -1290,5 +1292,9 @@ DECRETO NUMERO 85.
 Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 P.O. 30 DE ABRIL DE 1973.
+
+UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 30 DE JUNIO DE 1973.
 
 UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
