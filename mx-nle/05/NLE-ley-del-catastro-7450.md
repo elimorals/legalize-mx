@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "2001-12-27"
+last_updated: "2002-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -87,7 +87,9 @@ e).- Las personas o instituciones privadas cuya colaboración se requiera.
 
 La Junta Central Catastral se integrará por tres representantes oficiales que designará el Secretario de Finanzas y Tesorero General del Estado y que tendrán el carácter de Presidente, Secretario y Vocal, un representante de la Cámara de Propietarios de Bienes Raíces en el Estado, un representante del Instituto Mexicano de Valuación de Nuevo León, A. C., y un representante por parte del Municipio que corresponda, con el carácter de vocales. Se nombrarán suplentes para los integrantes de la Junta Central Catastral, quienes se encargarán de suplir las faltas temporales o definitivas de los propietarios. El Presidente tendrá voto de calidad en caso de empate.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P. O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+El Presidente de la Junta Central Catastral tendrá el carácter de Representante Legal de la misma.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
@@ -101,7 +103,9 @@ La Junta Central Catastral, tendrá el carácter de permanente y se encargará d
 
 Las Juntas Municipales Catastrales se integrarán por tres representantes oficiales, que designará el Tesorero Municipal, quienes tendrán el carácter de Presidente, Secretario y Vocal; por un representante de la Cámara de Propietarios de Bienes Raíces en el Estado o de otra Asociación de Propietarios en los lugares en donde dicha Cámara no tenga Delegación, un representante del Instituto Mexicano de Valuación de Nuevo León, A. C. y un representante de la Secretaría de Finanzas y Tesorería General del Estado, los cuales tendrán el carácter de vocales. El Presidente tendrá voto de calidad en caso de empate. Cuando en algún Municipio no haya Asociación de Propietarios, la Tesorería Municipal hará las designaciones de los representantes de los particulares, para cuyo efecto deberán reunir a un número no menor de diez propietarios de predios de los tres tipos que la Ley señala, para que del grupo se designe a las personas que deban representar a los propietarios en las Juntas Municipales Catastrales. Se nombrarán suplentes tanto para los representantes oficiales como para los los (sic) particulares, quienes se encargarán de suplir las faltas temporales o definitivas de los propietarios.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+El Presidente de la Junta Municipal Catastral tendrá el carácter de Representante Legal de la misma. El funcionamiento de las Juntas Municipales Catastrales del Estado se regulará en los términos del reglamento de la Ley del Catastro.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
@@ -177,19 +181,21 @@ Para estos efectos se entiende como zona rústica, la que no cuente con los elem
 
 La propiedad rústica para efectos de valuación se dividirá en riego rodado, riego bombeado, temporal de primera, temporal de segunda, agostadero de primera, agostadero de segunda, monte, cerril, cerril inaccesible y erial.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 17o.
 
-El valor catastral se obtendrá al aplicar para cada predio la operación aritmética consistente en multiplicar el número de unidades de suelo con las que cuenta el predio, por el valor unitario de suelo que le corresponda de entre los decretados por el Congreso del Estado; adicionado con el producto que resulte de multiplicar las unidades de construcción con las que cuente el predio, por el valor unitario de construcción que le corresponda de entre los decretados por el Congreso.
-
-Al resultado obtenido, se le deberá aplicar el coeficiente de demérito de valor por profundidad que se señala a continuación.
+El valor catastral se obtendrá al aplicar para cada predio la operación aritmética consistente en multiplicar las unidades de construcción con las que cuente el predio, por el valor unitario de construcción que le corresponda de entre los decretados por el Congreso del Estado; adicionado con el producto que resulte de multiplicar el número de unidades de suelo con las que cuenta el predio, por el valor unitario de suelo que le corresponda de entre los decretados por el Congreso del Estado y tratándose de predios con una profundidad mayor a 25 metros, al valor de suelo se le aplicará el coeficiente de demérito por profundidad de terreno que se señala a continuación.
 
 LIMITE LIMITE COEFICIENTE
 
-INICIAL FINAL
+INICIAL FINAL DE DEMERITO
 
-M M
+EN METROS EN METROS POR
+
+CUADRADOS CUADRADOS PROFUNDIDAD
+
+DE TERRENO
 
 MAYOR DE 0.00 Y HASTA 25.00 1.00
 
@@ -323,7 +329,7 @@ MAYOR DE 319.50 Y HASTA 342.90 0.36
 
 MAYOR DE 342.90 Y HASTA 372.85 0.35
 
-Los coeficientes de mérito de valor por profundidad no serán aplicables cuando la unidad de valuación sea por hectárea.
+Los coeficientes de demérito de valor por profundidad no serán aplicables cuando la unidad de valuación sea por hectárea.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
@@ -331,17 +337,27 @@ Los coeficientes de mérito de valor por profundidad no serán aplicables cuando
 
 El valor catastral que resulte de acuerdo con el artículo anterior, es el equiparable al valor de mercado para todos los efectos legales.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 19o.
 
-Los contribuyentes podrán inconformarse con el valor total del predio que resulte de acuerdo con este Artículo, dentro del plazo de 30 días hábiles, contados a partir del día siguiente de la publicación de los valores emitidos por el Congreso en el Periódico Oficial del Estado o del primer acto de aplicación. Para este efecto, los particulares presentarán escrito ante la autoridad municipal competente para realizar el cobro del Impuesto, por el cual manifiesten los motivos de su inconformidad por los que consideran que el valor determinado no corresponde al valor de mercado de su propiedad, acompañando un avalúo del inmueble emitido por una Institución de Crédito debidamente autorizada o por un Instituto o Consejo de Valuación debidamente autorizado, así como los demás elementos de prueba que consideren necesarios, debiendo remitirse el expediente debidamente integrado a la Junta Municipal Catastral que corresponda, la cual deberá resolver en un término no mayor de 15 días hábiles.
+Los contribuyentes podrán inconformarse con el valor total del predio que resulte de acuerdo con este artículo, dentro del plazo de 30 días hábiles, contados a partir del día siguiente de la publicación de los valores emitidos por el Congreso en el Periódico Oficial del Estado o del primer acto de aplicación. Para este efecto, los particulares presentarán escrito ante la Autoridad Municipal competente para realizar el cobro del impuesto, por el cual manifiesten los motivos de su inconformidad por los que consideran que el valor determinado no corresponde al valor de mercado de su propiedad, acompañando un avalúo del inmueble emitido por una Institución de Crédito debidamente autorizada o por un Instituto, Consejo u otra Institución Colegiada de Valuación, debidamente constituidas en la entidad, así como los demás elementos de prueba que consideren necesarios, debiendo remitirse el expediente debidamente integrado a la Junta Municipal Catastral que corresponda, la cual deberá resolver en un término no mayor de 15 días hábiles.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
 Si revisado el valor por la Junta Municipal Catastral persiste la inconformidad, será la Junta Central Catastral, en casos de evidente controversia y a instancia del particular, la que determinará el valor que corresponda.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
+
 Tratándose de la notificación de los acuerdos que tome la Junta Municipal Catastral o la Junta Central Catastral, éstas se harán por conducto de la Tesorería Municipal que corresponda, o de la Tesorería del Estado, respectivamente y se practicará en la forma que determine el Código Fiscal del Estado y el Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
+
 En caso de que no estuviere integrada la Junta Municipal Catastral, será la Junta Central Catastral, la encargada de desahogar el procedimiento previsto en este artículo.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 19 BIS.- Cuando la Tesorería Municipal detecte valores de predios o de manzanas, que sean muy superiores en forma evidente al valor real del mercado, comparados con los demás predios de la misma manzana o con las demás manzanas, podrá solicitar a la Junta Municipal o en su caso, a la Junta Central Catastral, la revisión de los mismos mediante la presentación del estudio de valores que corresponda. Si derivado de lo anterior, la Junta Municipal aprueba un valor distinto inferior al autorizado, el mismo se aplicará provisionalmente para el cobro de los impuestos correspondientes, mientras se solicita la aprobación definitiva, por el Ayuntamiento, al Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
@@ -425,11 +441,13 @@ Las autoridades, dependencias e instituciones que otorguen autorizaciones relati
 
 ARTICULO 28o BIS.- Los organismos y entidades públicos y privados, que realicen actividades relativas a la construcción de obras para el desarrollo urbano y de vivienda, así como los que tengan como finalidades la regularización de la tenencia legal de la tierra, deberán informar por escrito a la Dirección de Catastro la realización de actividades que impliquen un cambio en las características físicas del inmueble, así como en los datos del propietario o poseedor, que obren en el padrón catastral, en un plazo no mayor de 15 días contados a partir de que tengan conocimiento de dichos cambios.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 29o.
 
-La Dirección del Registro Público de la Propiedad y del Comercio estará obligada a dar aviso a la Dirección de Catastro sobre cada uno de los actos de transmisión de dominio de bienes inmuebles que se registren, así como de los actos de cancelación de tales inscripciones. Los avisos se darán dentro del plazo de un mes siguiente a la fecha de la inscripción o cancelación, y deberán presentarse utilizando las formas oficiales aprobadas por la Secretaría de Finanzas y Tesorería General del Estado.
+En caso de trasmisión de propiedad de bienes raíces, la Dirección del Registro Público de la Propiedad y del Comercio, los notarios públicos, jueces y demás fedatarios que por disposición legal tengan funciones notariales, estarán obligados a dar aviso a la Dirección de Catastro sobre cada uno de los actos de transmisión de dominio de bienes inmuebles en que hubieren intervenido, así como de los actos de cancelación en el caso de no llevarse a cabo la operación de trasmisión de dominio.
+
+En el caso de los notarios públicos, jueces y demás fedatarios que por disposición legal tengan funciones notariales, los avisos se darán dentro del plazo de un mes siguiente a la fecha en que se cubra el impuesto sobre adquisición de inmuebles, en el caso de la Dirección de Registro Público de la Propiedad y del Comercio, estos deberán ser presentados en un plazo de un mes siguiente a la fecha de inscripción o cancelación. Los avisos mencionados deberán presentarse utilizando las formas oficiales aprobadas por la Secretaría de Finanzas y Tesorería General del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -445,9 +463,9 @@ ARTICULO 30 BIS 1.- Los propietarios de predios tienen la obligación de manifes
 
 La solicitud de inscripción de un predio en el padrón catastral, sólo procederá en caso de que no se encuentre registrado antecedente o dato alguno sobre dicho predio.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-Tratándose de predios ya inscritos en el padrón catastral, solo se aceptaran los tramites de subdivisión, fusión, relotificación, o cualquier otro trámite que implique la modificación de la superficie ya registrada, siempre y cuando los datos de ubicación, medidas y colindancias coincidan con las que ya se encuentren inscritas; se cuente con la autorización que corresponda, emitida por la autoridad competente o en su caso inscritos en el Registro Publico de la Propiedad y que exista identidad entre el registro existente del propietario o poseedor, con el que se señale en el tramite respectivo.
+Tratándose de predios ya inscritos en el padrón catastral, sólo se aceptarán los trámites de subdivisión, fusión, relotificación, o cualquier otro trámite que implique la modificación de la superficie ya registrada, siempre y cuando los datos de ubicación, medidas y colindancias coincidan con las que ya se encuentren inscritas; se cuente con la autorización que corresponda, emitida por la autoridad competente o en su caso inscritos en el Registro Público de la Propiedad y que exista identidad entre el registro existente del propietario o poseedor, con el que se señale en el trámite respectivo. En el caso de detectarse que el predio objeto de cualquiera de los trámites antes mencionados presente confusión de límites por traslape parcial o total con otro predio, se les notificará por la autoridad competente a los propietarios de ambos, para que actúen conforme a derecho debiendo suspenderse en los términos del presente artículo cualquier trámite en el padrón catastral, hasta en tanto no se aclare o legalice dicha situación.
 
 ### CAPITULO CUARTO
 
@@ -490,6 +508,12 @@ IV.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2001)
 Para efectos del presente artículo al hacer referencia a cuota, se entenderá por ésta, el equivalente a un salario mínimo general diario vigente en la zona geográfica del Municipio de que se trate.
 
 ARTICULO 32o BIS.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2001)
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 33o.
+
+La Dirección de Catastro realizará la justipreciación de rentas a que se refiere la Ley de Administración Financiera en el término de 10 días, conforme a los lineamientos que se señalen en el Reglamento de esta Ley.
 
 T R A N S I T O R I O S :
 
@@ -826,3 +850,7 @@ Artículo Segundo.- El Reglamento de la Ley del Catastro deberá adecuarse a lo 
 Artículo Tercero.- Las Juntas Municipales Catastrales y la Junta Central Catastral resolverán los asuntos que a la entrada en vigor del presente Decreto, se encuentren pendientes ante las mismas, conforme a las disposiciones anteriores a la vigencia de este Decreto.
 
 Artículo Cuarto.- Cuando en las Leyes estatales se haga referencia al valor actual real, al valor comercial o al valor que deba emitir la Secretaría de Finanzas y Tesorería General del Estado o la Dirección de Catastro, se entenderá para todos los efectos que se hace referencia al Valor Catastral a que se refiere el artículo 17 de esta Ley.
+
+P.O. 27 DE DICIEMBRE DE 2002.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día 1° de Enero del año 2003.
