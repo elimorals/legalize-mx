@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-electoral-del-estado-de-16030
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-29"
-last_updated: "2000-02-29"
+last_updated: "2001-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL CONSEJO ELECTORAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2001.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 29 de febrero de 2000.
 
@@ -55,11 +55,15 @@ Son valores que deberán presidir el ejercicio de las potestades a que se refier
 
 Los casos no previstos en el presente reglamento se resolverán por el Pleno, conforme a sus atribuciones legales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ABRIL DE 2001)</small>
+
 ###### ARTÍCULO 4.
 
-Una vez concluido un proceso electoral y hasta un día antes de que se declare el inicio del siguiente son inhábiles los días sábados y domingos, y aquellos que la Ley de Servidores Públicos del Estado de Jalisco y sus Municipios establece como descanso obligatorio.
+Una vez concluido un proceso electoral y hasta un día antes de que se declare el inicio del siguiente son inhábiles los días sábados y domingos, y aquellos que la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios establece como descanso obligatorio.
 
-Así mismo, se considerarán como inhábiles, los días en que tengan vacaciones generales el personal del Consejo, previo acuerdo del Pleno. No son vacaciones generales las que se otorguen en forma escalonada.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2001)</small>
+
+Así mismo, se considerarán como inhábiles, los días en que tengan vacaciones generales el personal del Consejo, previo acuerdo del Pleno. No son vacaciones generales las que (sic) otorguen en forma escalonada.
 
 Las actividades del Organismo electoral en período no electoral se realizarán en las horas hábiles, que son las comprendidas entre las 9:00 nueve y las 15:00 horas.
 
@@ -93,21 +97,29 @@ VII. Dirección de Administración y Finanzas.
 
 VIII. Dirección de Capacitación Electoral.
 
-IX. Dirección de Informática.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2001)</small>
+
+IX. Dirección Jurídica.
 
 X. Dirección de Organización Electoral.
 
-XI. Dirección Jurídica.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2001)</small>
 
-XII. Departamento de Comunicación Social.
+XI. Departamento de Comunicación Social.
 
-XIII. Departamento de Archivo.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2001)</small>
+
+XII. Departamento de Archivo.
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2001)</small>
+
+XIII. Departamento de Informática.
 
 XIV. El Director del Registro Estatal de Electores.
 
 XV. El Secretario del Registro Estatal de Electores.
 
-XVI. Oficiaía (sic) de Partes.
+XVI. Oficialía de Partes.
 
 ### CAPITULO II. DEL PRESIDENTE
 
@@ -125,7 +137,9 @@ IV. Celebrar convenios con instituciones académicas y de educación superior pr
 
 V. Gestionar ante las instancias competentes y a petición de los partidos políticos, la posibilidad de que cada uno contrate a su cargo, la propaganda en medios de comunicación que permita la legislación en la materia.
 
-VI. Designar al personal que se encargará de implementar el programa de elecciones infantiles y juveniles, conforme a las disposiciones presupuetales (sic).
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2001)</small>
+
+VI. Designar al personal que se encargará de implementar el programa de elecciones infantiles y juveniles, conforme a las disposiciones presupuestales.
 
 VII. Las demás que le sean conferidas por la Ley Electoral del Estado y los ordenamientos expedidos por el Pleno.
 
@@ -159,7 +173,9 @@ XI. Informar al Congreso del Estado en caso de faltas absolutas del Presidente.
 
 XII. Registrar los nombramientos de los representantes de los partidos políticos ante el Pleno y en forma supletoria respecto de los que integren las comisiones distritales y municipales electorales, archivando para constancia el oficio que contenga el mismo, expedido por el órgano competente conforme a los estatutos del instituto político.
 
-XIII. Levantar certificación ante la presencia de los solicitantes o promoventes del contenido de los sobres que sean depositiados (sic) en horas y días inhábiles en las oficinas del Consejo, verificando el día y la hora en que fueron presentados.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2001)</small>
+
+XIII. Levantar certificación ante la presencia de los solicitantes o promoventes del contenido de los sobres que sean depositados en horas y días inhábiles en las oficinas del Consejo, verificando al (sic) día y la hora en que fueron presentados.
 
 ###### ARTÍCULO 9.
 
@@ -171,7 +187,9 @@ II. Implementará las acciones necesarias para que los documentos lleguen a la b
 
 III. Será responsable de tramitar la salida de oficios, documentación y correspondencia que se genere en las diversas áreas del Consejo, debiendo llevar un registro.
 
-IV. Conservar y vigilar bajo su responsabilidad, los sellos de recibo y despacho, el foleador (sic) y demás utensilios que se manejen para el cumplimiento de sus obligaciones.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2001)</small>
+
+IV. Conservar y vigilar bajo su responsabilidad, los sellos de recibo y despacho, el foliador y demás utensilios que se manejen para el cumplimiento de sus obligaciones.
 
 V. Ser responsable del funcionamiento del reloj checador.
 
@@ -229,23 +247,7 @@ La Dirección estará a cargo de su titular quien se verá auxiliado por el pers
 
 ###### ARTÍCULO 12.
 
-La Dirección de Informática ejercerá las siguientes funciones:
-
-I. Desarrollar un sistema de captura de resultados preliminares y distribución de la información generada de manera efectiva en los procesos electorales (Programa de Resultados Electorales Preliminares PREP).
-
-II. Diseñar políticas para el uso del equipo de cómputo disponible en el Consejo.
-
-III. Elaborar e implementar los mecanismos que permitan llevar un control del equipo de cómputo del Consejo.
-
-IV. Diseñar y elaborar los reportes que contengan información sobre las distintas etapas del proceso electoral que se pondrán a disposición del Pleno a través de medios impresos, magnéticos, ópticos o informáticos.
-
-V. Elaborar y operar la página de Internet.
-
-VI. Asesorar en la adquisición de equipos de informática.
-
-VII. Las demás que en uso de facultades y atribuciones que les confiere la ley, determine el Presidente o el Secretario Ejecutivo.
-
-Al frente de la Dirección de Informática estará su titular quien contará con el personal técnico y administrativo que establezca el presupuesto de egresos.
+(DEROGADO, P.O. 24 DE ABRIL DE 2001)
 
 ###### ARTÍCULO 13.
 
@@ -257,7 +259,9 @@ II. Formular los proyectos de los diversos actos jurídicos en que intervenga el
 
 III. Dar respuesta a las consultas que sobre derecho electoral le formulen los integrantes del Pleno.
 
-IV. Coadyuvar con el Secretario Ejecutivo en la elaboración de dictamenes.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2001)</small>
+
+IV. Coadyuvar con el Secretario Ejecutivo en la elaboración de dictámenes.
 
 V. Las demás que en uso de facultades y atribuciones que les confiere la ley, el Presidente o el Secretario ejecutivo determinen.
 
@@ -273,7 +277,9 @@ II. Diseñar el material electoral necesario, que el Secretario Ejecutivo deber�
 
 III. Coadyuvar con el Secretario Ejecutivo en la integración de los expedientes con la documentación que se requiera, a fin de que el Pleno realice los cómputos y haga las asignaciones a que se refiere la Ley Electoral.
 
-IV. Colaborar con el Secretario en la elaboración del análisis de cada una de las actas de la jornada electoral e incidentes, para su remisión a la Dirección de Informática a fin de tener un diagnóstico de resultados y de la participación de los funcionarios de casilla y los representantes de partidos políticos.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2001)</small>
+
+IV. Colaborar con el Secretario en la elaboración del análisis de cada una de las actas de la jornada electoral e incidentes, para su remisión al Departamento de Informática a fin de tener un diagnóstico de resultados y de la participación de los funcionarios de casilla y los representantes de partidos políticos.
 
 V. Las demás que en uso de facultades y atribuciones que les confiere la ley, el Presidente o el Secretario Ejecutivo determinen.
 
@@ -287,7 +293,9 @@ El Departamento de Comunicación Social ejercerá las siguientes funciones:
 
 I. Ser un facilitador de la comunicación entre el Consejo y la sociedad.
 
-II. La captación y evaluación en medios de comunicación que sobre el Consejo y los temas que con él se relacionen se conozcan a través de los diferentes medios de comunicación, a efecto de provocar una mejoría en las labores desempeñadas.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2001)</small>
+
+II. La captación y evaluación en medios de comunicación que sobre el Consejo y los temas que con él se relaciones (sic) se conozcan a través de los diferentes medios de comunicación, a efecto de provocar una mejoría en las labores desempeñadas.
 
 III. Difundir los programas del Consejo.
 
@@ -313,7 +321,9 @@ I. Coordinar sus actividades con la Oficialía de Partes y llevar el registro de
 
 II. Guardar y custodiar las actas de las sesiones del Consejo, de los documentos en que consten los acuerdos del Pleno y en general del acervo histórico, documental de la institución, facilitando su consulta previa autorización del Secretario.
 
-III. Auxiliar a la Secretaria en la integración de los expedientes necesarios para el adecuado ejercicio de sus funciones.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2001)</small>
+
+III. Auxiliar a la Secretaría en la integración de los expedientes necesarios para el adecuado ejercicio de sus funciones.
 
 IV. Ordenar y clasificar la documentación a su guarda.
 
@@ -323,15 +333,37 @@ Los principios que rigen la operación del sistema de archivo del Consejo son el
 
 El Departamento estará a cargo de su titular quien será auxiliado por el personal técnico y administrativo que disponga el presupuesto de egresos.
 
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2001)</small>
+
+ARTÍCULO 16 BIS.- El Departamento de Informática ejercerá las siguientes funciones:
+
+I. Desarrollar un sistema de captura de resultados preliminares y distribución de la información generada de manera efectiva en los procesos electorales (Programa de Resultados Electorales Preliminares PREP).
+
+II. Diseñar políticas para el uso del equipo de cómputo disponible en el Consejo.
+
+III. Elaborar e implementar los mecanismos que permitan llevar un control del equipo de cómputo del Consejo.
+
+IV. Diseñar y elaborar los reportes que contengan información sobre las distintas etapas del proceso electoral que se pondrán a disposición del Pleno a través de medios impresos, magnéticos, ópticos o informáticos.
+
+V. Elaborar y operar la página de Internet.
+
+VI. Asesorar en la adquisición de equipos de informática.
+
+VII. Las demás que en uso de facultades y atribuciones que les confiere la ley, determine el Presidente o el Secretario Ejecutivo.
+
+Al frente del Departamento de Informática estará su titular quien contará con el personal técnico y administrativo que establezca el presupuesto de egresos.
+
 ### CAPITULO VI. DE LAS COMISIONES MUNICIPALES Y DISTRITALES ELECTORALES
 
 ###### ARTÍCULO 17.
 
 Las comisiones distritales y municipales como órganos del Consejo Electoral, se integraran conforme lo establece la Ley Electoral del Estado, y contarán con el personal de apoyo administrativo y técnico que se establezca en el presupuesto, debiendo guiar su actuación administrativa conforme a los manuales que se elaboren para tal efecto.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2001)</small>
+
 ###### ARTÍCULO 18.
 
-La instalación de las Comisiones Distritales y las Comisiones municipales que se nombre el Consejo, se realizará ante la presencia del personal autorizado para tales efectos, el que conducirá la sesión de instalación y levantará el acta correspondiente, la que constará por duplicado para su archivo en la comisión y su remisión al Secretario.
+La instalación de las Comisiones Distritales y las Comisiones Municipales Electorales, se realizará ante la presencia del personal autorizado para tales efectos, el que conducirá la sesión de instalación y levantará el acta correspondiente, la que constará por duplicado para su archivo en la comisión y su remisión al Secretario.
 
 ###### ARTÍCULO 19.
 
@@ -403,9 +435,11 @@ Por cada representante propietario observador de resultados preliminares, los pa
 
 Una vez concluido el proceso electoral, declarados firmes los resultados de los comicios electorales, el Presidente ordenará su publicación a través de los medios electrónicos con que cuente el centro de computo, debiendo remitir además tales resultados para su consulta pública, al Archivo General del Estado, a la Biblioteca del Congreso del Estado, así como a la Biblioteca Pública del Estado de Jalisco.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2001)</small>
+
 ###### ARTÍCULO 30.
 
-Los archivos de consulta pública a que refiere el artículo anterior, serán responsables del uso que den a la información que el Consejo les remita.
+Los archivos de consulta pública a que se refiere el artículo anterior, serán responsables del uso que den a la información que el Consejo les remita.
 
 ## TITULO CUARTO. ENVIO DE MATERIAL ELECTORAL Y ACOPIO DE PAQUETES ELECTORALES
 
@@ -415,9 +449,11 @@ Los archivos de consulta pública a que refiere el artículo anterior, serán re
 
 De conformidad con las reglas generales establecidas por el artículo 272 de la Ley, y con la finalidad de cumplir con los plazos electorales previos a la jornada en que se celebren los comicios, el Pleno, acordará las medidas necesarias para el pronto y adecuado envío del material electoral a las Comisiones Distritales Electorales garantizando la salvaguarda del mismo.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2001)</small>
+
 ###### ARTÍCULO 32.
 
-Las Comisiones Distritales Electorales, acordarán las medidas necesarias para el oportuno y adecuado envío del material electoral a las Comisiones Municipales Electorales, garantizando en todo momento la salvaguarda y custodia del mismo.
+Las Comisiones Distritales Electorales, acordarán las mediadas (sic) necesarias para el oportuno y adecuado envío del material electoral a las Comisiones Municipales Electorales, garantizando en todo momento la salvaguarda y custodia del mismo.
 
 ###### ARTÍCULO 33.
 
@@ -452,3 +488,13 @@ CONSEJERO PRESIDENTE
 LIC. JOSE DE JESUS REYNOSO LOZA
 
 SECRETARIO EJECUTIVO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE ABRIL DE 2001.
+
+Único.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado "El Estado de Jalisco"
+
+SE TRANSCRIBE UNICAMENTE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO.- Publíquese en el Periódico Oficial "El Estado de Jalisco".
