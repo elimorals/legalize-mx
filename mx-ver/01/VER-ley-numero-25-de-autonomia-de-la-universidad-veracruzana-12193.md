@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-25-de-autonomia-de-la-universidad-veracruzana-12193"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-30"
-last_updated: "1996-11-30"
+last_updated: "2000-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE AUTONOMIA DE LA UNIVERSIDAD VERACRUZANA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE JUNIO DE 2000.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 30 de noviembre de 1996.
 
@@ -41,17 +41,25 @@ LEY Número 25
 
 DE AUTONOMIA DE LA UNIVERSIDAD VERACRUZANA
 
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2000)</small>
+
 ###### Artículo 1°.
 
-La presente ley otorga la autonomía a la Universidad Veracruzana a efecto de que esté en posibilidad de ejercer y cumplir con lo dispuesto en la fracción XLIV inciso f) del artículo 68 de la Constitución Política del Estado y en la fracción VII del artículo 3° de la Constitución Federal.
+La presente ley es de orden público en el estado de Veracruz-Llave y tiene por objeto garantizar la autonomía de la Universidad Veracruzana, para ejercer y cumplir con lo dispuesto por los párrafos cuarto y quinto del artículo 10 de la Constitución Política del estado y en la fracción VII del artículo 3° de la Constitución Federal.
+
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2000)</small>
 
 ###### Artículo 2°.
 
-El régimen de autonomía universitaria se desenvolverá conforme al orden normativo de la entidad, del que forma parte la Universidad Veracruzana.
+La Universidad Veracruzana es una institución pública y autónoma de educación superior, que tiene la facultad de autogobernarse, expedir su reglamentación, nombrar a sus autoridades, determinar sus planes y programas y fijar los términos de ingreso, promoción y permanencia de su personal académico, conforme a los principios dispuestos por la Constitución Política del estado y que regula la legislación ordinaria.
+
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2000)</small>
 
 ###### Artículo 3°.
 
-La Universidad Veracruzana contará con los recursos económicos necesarios para cumplir sus funciones y alcanzar los fines que le son propios, teniendo como base de sus ingresos los subsidios que aporten en forma concurrente el Gobierno federal y el Gobierno del estado, de conformidad con las normas y convenios que rigen el financiamiento de la educación superior y las disposiciones presupuestales.
+La Universidad Veracruzana administrará libremente su patrimonio, que se integrará con los bienes muebles e inmuebles destinados al cumplimiento de sus fines, así como con las aportaciones estatales que señale anualmente el presupuesto de egresos, las federales, la transmisión de bienes y derechos de personas físicas o morales, nacionales o extranjeras, los recursos generados por los servicios que preste y por los demás que señale su Ley Orgánica.
+
+Los ingresos de la Universidad, los bienes de su propiedad, así como los actos y contratos en que intervenga, no serán sujetos de tributación local o municipal.
 
 ###### Artículo 4°.
 
@@ -183,7 +191,7 @@ III. Cualquier incremento a salarios y prestaciones superiores a los autorizados
 
 SEXTO. Se derogan todas las disposiciones legales que se opongan a la presente ley.
 
-DADA EN EL SALON DE SESIONES DE LA H. LVII LEGISLATURA DEL ESTADO, EN LA CIUDAD DE XALAPA-ENRIQUEZ, VERACRUZ A LOS VEINTIOCHO DIAS DEL MES DE NOVIEMBRE DE MIL NOVECIENTOS NOVENTA Y SEIS.- OMAR MANZUR ASSAD, DIPUTADO PRESIDENTE.- RUBRICA.- BERNARDO CESSA CAMACHO, DIPUTADO SECRETARIO.- RUBRICA"
+DADA EN EL SALON DE SESIONES DE LA H. LVII LEGISLATURA DEL ESTADO, EN LA CIUDAD DE XALAPA-ENRIQUEZ, VERACRUZ A LOS VEINTIOCHO DIAS DEL MES DE NOVIEMBRE DE MIL NOVECIENTOS NOVENTA Y SEIS.- OMAR MANZUR ASSAD, DIPUTADO PRESIDENTE.- RUBRICA.- BERNARDO CESSA CAMACHO, DIPUTADO SECRETARIO.- RUBRICA".
 
 EN CUMPLIMIENTO DE LO DISPUESTO POR LA FRACCION I DEL ARTICULO 87 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE, Y PARA SU DEBIDA PUBLICACION Y OBSERVANCIA, EXPIDO EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO ESTATAL, EN LA CIUDAD DE XALAPA-ENRIQUEZ, VERACRUZ, A LOS VEINTIOCHO DIAS DEL MES DE NOVIEMBRE DE MIL NOVECIENTOS NOVENTA Y SEIS.
 
@@ -194,3 +202,13 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 MIGUEL ANGEL YUNES LINARES
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 28 DE JUNIO DE 2000.
+
+Artículo primero. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a lo previsto por esta ley.
+
+Artículo tercero. Para los efectos del artículo 3° de la presente ley y para el ejercicio presupuestal del año 2000 las aportaciones que otorguen en forma concurrente el Gobierno Federal y el Gobierno del Estado se determinará en el convenio que al efecto se suscriba, en el que precisará los rubros y montos de dichas aportaciones, con la participación de la Universidad Veracruzana y tomando como base el convenio suscrito por dichas autoridades para el ejercicio presupuestal de 1999, conforme a lo dispuesto por la Ley para la Coordinación de la Educación Superior y la Ley de Educación para el estado de Veracruz-Llave.
