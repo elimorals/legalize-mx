@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1967-01-18"
+last_updated: "1967-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 1966.
-
-(REPUBLICADO EN EL PERIODICO OFICIAL: 18 DE ENERO DE 1967)
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 1967.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -388,6 +386,10 @@ XXXIX.- Legislar sobre franquicias a la Industria y otorgar concesiones que no i
 XL.- Elegir la Diputación Permanente.
 
 XLI.- Ejercer las facultades a que se refieren los artículos 23, 24,40, 52, 86 fracción V, y las demás que esta Constitución o las leyes le conceden.
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 1967)</small>
+
+XLII.- Elevar las villas a la categoría de ciudades por iniciativa de aquellas y por conducto del Ejecutivo, tomando en cuenta el número de sus habitantes, sus condiciones económicas, los servicios públicos con que cuente, etc.
 
 ###### Art. 64.
 
@@ -1402,3 +1404,7 @@ SEGUNDO:- Dentro de la segunda quincena del mes de septiembre de mil novecientos
 > <small>(REFORMADO, P.O. 18 DE ENERO DE 1967)</small>
 
 TERCERO:- Las prevenciones contenidas en los artículos 63 Fracción XXII, 66 Fracción VII, 97, 98, 100 Fracción II y 103, reformados, tendrán aplicación por una sola vez por lo que a nombramientos se refiere; y en lo sucesivo, solamente, cuando se presente el caso de faltas absolutas de los funcionarios judiciales por las diversas causas previstas en las propias reformas.
+
+P.O. 3 DE JUNIO DE 1967.
+
+UNICO:- Esta adición surtirá sus efectos el día de su publicación en el Periódico Oficial del Gobierno del Estado.
