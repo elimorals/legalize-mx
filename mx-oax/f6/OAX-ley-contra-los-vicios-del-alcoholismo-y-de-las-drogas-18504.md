@@ -4,7 +4,7 @@ identifier: "OAX-ley-contra-los-vicios-del-alcoholismo-y-de-las-drogas-18504"
 country: "mx"
 rank: "ley"
 publication_date: "1922-07-06"
-last_updated: "1922-07-06"
+last_updated: "1922-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "OAX"
 
 LEY CONTRA LOS VICIOS DEL ALCOHOLISMO Y DE LAS DROGAS HEROICAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 1922.
 
-Ley publicada en el Periódico Oficial del Estado de Oaxaca el jueves 6 de Julio de 1922.
+Ley publicada en el Periódico Oficial del Estado de Oaxaca el 6 de Julio de 1922.
 
 MANUEL GARCIA VIGIL, Gobernador Constitucional del Estado Libre y Soberano de Oaxaca, a sus habitantes, hace saber:
 
@@ -59,9 +59,11 @@ La venta de bebidas alcohólicas solamente podrá hacerse mediante licencia conc
 
 Los expendios de bebidas alcohólicas se clasifican, por razón de la forma en que hagan la venta, en expendios al menudeo y al mayoreo, y por razón del tiempo de la licencia, en fijos y eventuales.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1922)</small>
+
 ###### Artículo 5.
 
-Se designan con el nombre de expendios al menudeo aquellos en los que se hace la venta en copas, vasos, vasijas, botellas sueltas, si se trata de cerveza, o en cualquier otro recipiente abierto, si la libación se hace allí mismo. Y por expendios al mayoreo, aquellos en que la venta se hace en recipientes cerrados o abiertos sin que la libación se haga en el lugar de la venta.
+Se designan con el carácter de expendios al menudeo aquellos en los que se hace la venta en copas, vasos, vasijas, o en cualquier otro recipiente abierto, si la libación se hace allí mismo. Y por expendios al mayoreo aquellos en que la venta se hace en recipientes cerrados o abiertos sin que la libación se haga en el lugar de la venta a menos de que se trate de cerveza.
 
 ###### Artículo 6.
 
@@ -115,7 +117,7 @@ Los Presidentes Municipales no expedirán la licencia si el local destinado a ta
 
 I.- Que esté situado en una fábrica que no sea de bebidas alcohólicas, hacienda de beneficio de metales o hacienda agrícola que dependa de un Municipio;
 
-II.- Que el número que corresponda a la licencia supere al número de planteles de enseñanza oficial, de la localidad; pero si sólamente hubiere uno de éstos, se concederán licencias para la apertura de dos tabernas siempre que pertenezcan a distintos propietarios;
+II.- Que el número que corresponda a la licencia supere al número de planteles de enseñanza oficial, de la localidad; pero si solamente hubiere uno de éstos, se concederán licencias para la apertura de dos tabernas siempre que pertenezcan a distintos propietarios;
 
 III.- Que el local diste menos de cien metros de otra taberna o de un plantel de enseñanza, cuartel de tropa u oficina pública que tenga más de quince empleados.
 
@@ -131,7 +133,9 @@ I.- Nombre, nacionalidad y domicilio del interesado;
 
 II.- Ubicación del local y si solamente se destinará a la venta de bebidas alcohólicas, o ésta se hará simultáneamente con otras mercancías.
 
-Las licencias a que se refiere este artículo sólo se concederán por igual número de tabernas, de manera que en cada localidad no deberá haber mayor número de expendios al mayoreo que al menudeo, a no ser que éstos no hayan llegado al límite que marca la fracción segunda del artículo 16, no comprendiéndose en esta disposición a las fábricas del ramo.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1922)</small>
+
+Las licencias a que se refiere este artículo sólo se concederán por igual número de tabernas, de manera que en cada localidad no deberá haber mayor número de expendios al mayoreo que al menudeo, a no ser que éstos no hayan llegado al límite que marca la fracción II del artículo 16, no comprendiéndose en esta disposición a las fábricas del ramo, ni a los expendios exclusivos de cerveza los cuales podrán ser en número indeterminado.
 
 ### CAPITULO II.
 
@@ -222,6 +226,12 @@ Clase única, de $ 4.50. a $ 15.00.
 III.- EXPENDIOS EVENTUALES AL MAYOREO Y MENUDEO DE BEBIDAS ALCOHOLICAS.
 
 Por cada día, de $ 3.00. a $ 100.00.
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 1922)</small>
+
+IV.- EXPENDIOS DE CERVEZA SOLAMENTE.
+
+Clase única al mes, de $3.00. a $ 300.00.
 
 ###### Artículo 22.
 
@@ -418,3 +428,9 @@ Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpl
 Por tanto mando que se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Palacio de los Poderes del Estado. Oaxaca de Juárez a veintisiete de junio de mil novecientos veintidós.- M. García Vigil.- F. Pérez Gasga, Secretario General del Despacho.- Rúbricas.- Y lo comunico a usted para su conocimientos (sic) y fines consiguientes.- SUFRAGIO EFECTIVO. NO REELECCION. Oaxaca de Juárez 27 de junio de 1922.- E. Pérez Gasga. Al C....
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE NOVIEMBRE DE 1922.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
