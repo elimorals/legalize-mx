@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "1998-03-03"
+last_updated: "1998-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 1998.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -3735,9 +3735,11 @@ VIII. Los que por su falta de ilustración, por su inexperiencia en lo (sic) neg
 
 El que teniendo excusa legítima para ser tutor, acepta el cargo, renuncia por el mismo hecho a la excusa que le concede la ley.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1998)</small>
+
 ###### Art. 663.
 
-El tutor debe proponer sus impedimentos y excusas dentro de los diez días después de sabido el nombramiento, disfrutando de un día más por cada veinte kilómetros que medien entre su domicilio y el lugar de la residencia del juez competente. Si la causa de excusa sobreviene durante el ejercicio de la tutela, el término expresado comenzará a contarse desde que el tutor tenga conocimiento de dicha causa.
+El tutor debe proponer sus impedimentos y excusas dentro de los cinco días después de sabido el nombramiento, disfrutando de un día más por cada cuarenta kilómetros que medien entre sus (sic) domicilio y el lugar de residencia del juez competente. Si la causa de excusa sobreviene durante el ejercicio de la tutela, el término expresado comenzará a contarse desde que el tutor tenga conocimiento de dicha causa.
 
 ###### Art. 664.
 
@@ -16846,5 +16848,9 @@ P.O. 4 DE ENERO DE 1997.
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 3 DE MARZO DE 1998.
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 15 DE AGOSTO DE 1998.
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
