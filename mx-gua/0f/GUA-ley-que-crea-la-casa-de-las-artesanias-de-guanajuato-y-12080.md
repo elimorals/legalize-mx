@@ -4,7 +4,7 @@ identifier: "GUA-ley-que-crea-la-casa-de-las-artesanias-de-guanajuato-y-12080"
 country: "mx"
 rank: "ley"
 publication_date: "1969-05-29"
-last_updated: "1969-05-29"
+last_updated: "2004-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY QUE CREA LA CASA DE LAS ARTESANIAS DE GUANAJUATO Y ESTABLECE BASES PARA SU FUNCIONAMIENTO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO DEL DECRETO NUMERO 112, PUBLICADO EN EL PERIODICO OFICIAL EL 27 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 29 de mayo de 1969.
 
@@ -216,3 +218,9 @@ MANUEL M. MORENO.
 El Secretario General del Gobierno,
 
 Lic. Ernesto Gallardo Sánchez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE DICIEMBRE DE 2004.
+
+Artículo Único.- El presente Decreto entrará en vigor a los 90 noventa días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
