@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-6631"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "1991-07-03"
+last_updated: "1991-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1991.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -3751,17 +3751,113 @@ El entero del impuesto se hará en el momento en que se realicen los pagos objet
 
 Este impuesto no será objeto de reducción, su aplicación se hará sobre la base del crédito principal.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 1991)</small>
+
+### CAPITULO DECIMO QUINTO. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1991)</small>
+
+ARTICULO 384 BIS 1.- Es objeto de este impuesto la tenencia o uso de vehículos automotores cuyos modelos tengan diez o más años de antigüedad y se encuentren registrados ante las autoridades de tránsito competentes en el Estado.
+
+Para los efectos de este impuesto, se considerará como modelo del vehículo el que corresponda al año de fabricación.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1991)</small>
+
+ARTICULO 384 BIS 2.- Son sujetos de este impuesto: las personas físicas, las sociedades mercantiles, las asociaciones o sociedades civiles, las organizaciones, las agrupaciones y demás entidades tenedoras o usuarias de vehículos automotores objeto de este impuesto.
+
+Para los efectos de esta Ley se considera que el tenedor o usuario es el propietario del vehículo.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1991)</small>
+
+ARTICULO 384 BIS 3.- Son responsables solidarios del pago de este impuesto:
+
+I.- Quienes sin haberse cerciorado del pago de este impuesto, adquieran por cualquier título la propiedad, tenencia o uso de vehículos objeto de este gravamen y hasta por el monto del crédito fiscal omitido y sus accesorios;
+
+II.- Quienes reciban en consignación o comisión, para su enajenación, los vehículos objeto de este gravamen, hasta por el monto del impuesto y sus accesorios que se hubiesen dejado de pagar;
+
+III.- Los servidores públicos que en ejercicio de sus funciones autoricen altas, cambio de placas, tarjetas de circulación, cambio o modificaciones de dominio, sin cerciorarse del pago de este impuesto.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1991)</small>
+
+ARTICULO 384 BIS 4.- El impuesto se determinará a través de cuotas y con base en los siguientes supuestos:
+
+I.- En el caso de motocicletas, bicimotos, motonetas, triciclos automotores, automóviles y vehículos destinados al transporte hasta de diez pasajeros, se tomará en cuenta el cilindraje del motor, y les serán aplicables las siguientes cuotas:
+
+CILINDRAJE: CUOTA:
+
+MOTOCICLETAS, BICIMOTOS,
+
+MOTONETAS, TRICICLOS
+
+AUTOMOTORES Y
+
+VEHICULOS DE
+
+HASTA 2 CILINDROS $ 15,000.00
+
+4 20,000.00
+
+6 25,000.00
+
+8 30,000.00
+
+MAS DE 8 35,000.00
+
+II.- En el caso de los vehículos que a continuación se mencionan, se aplicarán las siguientes cuotas:
+
+VEHICULO CUOTA
+
+CAMIONETA 40,000.00
+
+MINIBASES Y MICROBUSES 45,000.00
+
+CAMIONES, AUTOBUSES
+
+INTEGRALES Y OMNIBUSES 50,000.00
+
+VEHÍCULOS CON REMOLQUE O
+
+SEMIREMOLQUE Y TRACTORES
+
+AGRICOLAS TIPO QUINTA RUEDA 55,000.00
+
+GRUAS, REVOLVEDORAS,
+
+VEHÍCULOS CON OTRO
+
+EQUIPO ESPECIAL Y
+
+CUALQUIER OTRO NO
+
+COMPRENDIDO DENTRO
+
+DE LOS ANTERIORES 60,000.00
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1991)</small>
+
+ARTICULO 384 BIS 5.- El impuesto se causará anualmente y se pagará dentro de los tres primeros meses de cada año, mediante declaración que formule el contribuyente u obligado ante las oficinas recaudadoras de la Secretaría de Programación y Finanzas del Estado, a que corresponda su circunscripción; en las formas previamente aprobadas y autorizadas por dicha Secretaría.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1991)</small>
+
+ARTICULO 384 BIS 6.- Los Contribuyentes deberán presentar ante la oficina recaudadora respectiva, copia auténtica del documento con que se acredite la propiedad o posesión de el o los vehículos objeto de este gravamen, junto con la declaración respectiva del impuesto.
+
+La autoridad fiscal queda facultada para exigir cualquier otro documento en donde consten los datos a que se refiere el Artículo 384 Bis-4 de esta Ley, para cerciorarse de la aplicación del tributo y de la cuota que le corresponde.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1991)</small>
+
+ARTICULO 384 BIS 7.- Las autoridades de tránsito en el Estado, no darán trámite a ninguna solicitud de alta, cambio de propietario, ni de tarjetas de circulación, sin que previamente se haya acreditado el pago de este impuesto.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1991)</small>
+
+ARTICULO 384 BIS 8.- Los ingresos que genere este gravamen, estarán afectos a lo dispuesto en el Capítulo Décimo Cuarto de este mismo título, salvo las excepciones que establezca la Ley de Ingresos del Estado.
+
 ### CAPITULO PRIMERO. CONTRIBUCIONES DE COOPERACION PARA OBRAS PUBLICAS
 
 ### CAPITULO SEGUNDO. CONTRIBUCIONES ESPECIALES PARA OBRAS DE PLANIFICACION
 
-### CAPITULO PRIMERO. DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
-
 ## TITULO TERCERO. DE LAS CONTRIBUCIONES ESPECIALES
 
-### CAPITULO SEGUNDO. POR REGISTRO PUBLICO DEL COMERCIO
+### CAPITULO PRIMERO. DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -3843,7 +3939,7 @@ La Dirección de Contribuciones Estatales o la Tesorería Municipal correspondie
 
 D.- (sic) En los casos de fraccionamientos, condominios, conjuntos habitacionales, divisiones y subdivisiones, la cuota de cooperación será de $3,000.00 por cada lote, condominio, departamento, división y subdivisión que acuerde la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales.
 
-### CAPITULO TERCERO. POR REGISTRO DE CONTRATOS DE ARRENDAMIENTO Y OTROS CONTRATOS RELATIVOS A INMUEBLES
+### CAPITULO SEGUNDO. POR REGISTRO PUBLICO DEL COMERCIO
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -4121,7 +4217,7 @@ No habrá exención alguna de las contribuciones especiales que esta Ley estable
 
 ## TITULO CUARTO. DE LOS DERECHOS
 
-### CAPITULO CUARTO. DEL REGISTRO DE TITULOS PROFESIONALES, EXPEDICIÓN DE CEDULAS Y CONEXOS
+### CAPITULO TERCERO. POR REGISTRO DE CONTRATOS DE ARRENDAMIENTO Y OTROS CONTRATOS RELATIVOS A INMUEBLES
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -4269,7 +4365,7 @@ V.- Los contratos y operaciones relacionados con bienes inmuebles que en cumplim
 
 VI.- Los contratos y operaciones que respecto a bienes inmuebles realice el Instituto de Vivienda del Estado de Morelos.
 
-### CAPITULO QUINTO. DE LOS DERECHOS POR SERVICIOS DE CONTROL VEHICULAR
+### CAPITULO CUARTO. DEL REGISTRO DE TITULOS PROFESIONALES, EXPEDICIÓN DE CEDULAS Y CONEXOS
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -4343,9 +4439,9 @@ IV.- En los casos no previstos expresamente, los derechos por servicios que se p
 
 V.- Están exentos del pago de los derechos que establece este capítulo: la Federación, el Gobierno del Estado y sus Municipios, siempre que hayan sido parte en la operación de que se trate.
 
-### CAPITULO SEXTO. POR SERVICIOS DE SALUD
+### CAPITULO QUINTO. DE LOS DERECHOS POR SERVICIOS DE CONTROL VEHICULAR
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 420.
 
@@ -4369,7 +4465,7 @@ II.- Los actos, contratos y convenios no incluidos en la fracción anterior 1
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
 
-### CAPITULO SEPTIMO. POR LEGALIZACION DE FIRMAS, CERTIFICADOS, CERTIFICACIONES Y COPIAS CERTIFICADAS
+### CAPITULO SEXTO. POR SERVICIOS DE SALUD
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -4441,291 +4537,279 @@ Están exentos del pago de derechos, los profesores que ejerzan su actividad, ú
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE FEBRERO DE 1986)</small>
 
-### CAPITULO OCTAVO. POR LOS SERVICIOS CATASTRALES
+### CAPITULO SEPTIMO. POR LEGALIZACION DE FIRMAS, CERTIFICADOS, CERTIFICACIONES Y COPIAS CERTIFICADAS
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 424.
 
-Los servicios de control vehicular se causarán y pagarán conforme a la siguiente:
+Los servicios de control vehicular se causarán y pagarán conforme a la siguiente tarifa.
 
-TARIFA
+DIAS DE SALARIO MINIMO
 
-DIAS DE SALARIO
+I.- LICENCIAS:
 
-I.- Licencias.
+1.- Expedición y re-expedición con vigencia de 5 años:
 
-A).- Por la expedición inicial y reexpedición de licencia de manejo con vigencia de cinco años:
+A).- Para chofer 5
 
-1).- Para chofer 2.5
+B).- Para automovilista 3.5
 
-2).- Para automovilista 2.0
+C).- Motociclista 2
 
-3).- Para motociclista 1.0
+D).- Turista3
 
-4).- Turistas .5
+2.- Resello anual:
 
-B).- Por el resello anual de licencias:
+A).- Para chofer 2
 
-1).- Para choferes 1.5
+B).- Automovilista 1.5
 
-2).- Automovilistas 1.0
+C).- Motociclista 1
 
-3).- Motociclistas .5
+3.- Por la expedición provisional para manejar a menores:
 
-C).- Por la expedición de licencia provisional para manejar a menores:
+A).- Automovilistas 1.5
 
-1).- Automovilista 1.0
+B).- Motociclistas 1
 
-2).- Motociclista .05
+C).- Turista1
 
-3).- Turistas .5
+4.- Seguro de vida y daños a terceros:
 
-II.- Expedición o refrendo de placas, calcomanías y tarjeta de circulación:
+Tarifa de acuerdo con lo que se convenga con la compañía aseguradora.
 
-A).- Auto particular 2.0
+II.- EXPEDICION DE PLACAS, CALCOMANIAS Y TARJETAS DE CIRCULACION:
 
-B).- Camión particular 4.0
+1.- Auto particular 6
 
-C).- Remolques con capacidad hasta
+2.- Camión particular 6
 
-de dos toneladas 2.0
+3.- Remolque con capacidad de más de dos toneladas 11
 
-D).- Remolque con capacidad de más
+4.- Remolque con capacidad de hasta dos toneladas 6
 
-de dos toneladas 4.0
+5.- Demostradoras 15
 
-E).- Demostradoras 2.0
+6.- Transporte escolar 6
 
-F).- Transporte escolar 3.0
+7.- Motociclistas 4
 
-G).- Motocicleta 1.5
+8.- Vehículos servicio público:
 
-H).- Vehículos de servicio público
+A).- Automóvil de servicio público 13
 
-1).- Automóvil de servicio público 3.0
+B).- Combi de servicio público 13
 
-2).- Combi de servicio público 4.0
+C):- Van de servicio público 13
 
-3).- VAM de servicio público 5.0
+D).- Microbús de servicio público 13
 
-4).- Microbús de servicio público 6.0
+E):- Combis de patrimonio comunal 13
 
-I).- Combis de patrimonio comunal 3.0
+F).- Camión materialista 11
 
-J).- Camión materialista 6.0
+G).- Camión de carga en general 11
 
-K).- Camiones de carga en general 6.0
+H).- Camión de pasajeros urbano y Sub-urbanos 13
 
-L).- Camiones de pasajeros urbanos
+I).- Bicicletas1.5
 
-y suburbanos 10.0
+III.- REFRENDO ANUAL DE TARJETAS DE CIRCULACION Y ENGOMADO:
 
-M).- Bicicletas .25
+1.- Auto particular 3
 
-III.- Otros servicios:
+2.- Camión particular 3
 
-A).- Cambio de vehículo de servicio
+3.- Remolque con capacidad hasta de dos toneladas 3
 
-público sin cambio de placas 1.5
+4.- Remolque con capacidad de más (sic) dos toneladas 8
 
-B).- Depósito por falta de baja 1.0
+5.- Demostradoras 11
 
-C).- Baja de placas .5
+6.- Transporte escolar 3
 
-D).- Cambio de propietario de vehículo 1.0
+7.- Motociclistas 3
 
-IV.- Tarjetones para el servicio público de transporte:
+8.- Vehículos de servicio público:
 
-A).- Expedición de tarjetón: todos los
+A).- Autos de servicio público 9
 
-vehículos de servicio público 12.0
+B):- Combi de servicio público 9
 
-B).- Canje anual de tarjetón:
+C).- Van de servicio público 9
 
-1).- Camión materialista 6.0
+D).- Microbús de servicio Público 9
 
-2).- Camión de carga en general 5.0
+E).- Combis de patrimonio comunal 9
 
-3).- Camión materialista y carga
+F).- Camión materialista 8
 
-en general 11.0
+G).- Camión de carga en general 8
 
-4).- Automóvil de servicio público 6.0
+H).- Camión de pasajeros urbanos y Sub- urbanos 9
 
-5) Transporte escolar de empleados,
+I).- Bicicletas1
 
-de turistas, artistas o deportistas 2.0
+IV.- OTROS SERVICIOS:
 
-6).- Autobuses de servicio público 6.0
+1.- Expedición gafete de operador 1
 
-7).- Grúas 4.0
+2.- Baja de placas 4
 
-8).- Combis de servicio público de
+3.- Cambio de vehículo de servicio público 8
 
-pasajeros 6.0
+V.- TARJETONES PARA EL SERVICIO PUBLICO DEL TRANSPORTE:
 
-9).- VAM de servicio público 7.0
+1.- Expedición de tarjetón, todos los vehículos de servicio público12
 
-10) Microbús de servicio público 8.0
+2.- Canje anual de tarjetón:
 
-11).- Duplicado de tarjetón 2.0
+A).- Camión materialista 6
 
-C).- Cesión de derechos:
+B).- Camión de carga en general 5
 
-1.- Camión de carga en general 24.0
+C).- Camión materialista y carga en general 11
 
-2).- Camión materialista 36.0
+D).- Auto de servicio público 6
 
-3).- Automóvil de servicio público 48.0
+E).- Transporte escolar, de empleados, turistas, artistas o deportistas 2
 
-V).- Vehículos:
+F).- Autobuses de servicio público 6
 
-A).- Cambio 3.0
+G).- Grúas 4
 
-B).- Sustituciones
+H).- Combi de servicio público 6
 
-1).- Local o foráneo por 30 días:
+I).- Van de servicio público 7
 
-Primera vez 3.0
+J).- Microbús de servicio público 8
 
-Segunda vez 4.0
+K).- Duplicado de tarjetón 2
 
-Tercera vez 5.0
+3.- Cesión de derechos:
 
-2).- Local por 10 días 2.0
+A).- Camión de carga en general 24
 
-3).- Foránea por 10 días 1.0
+B).- Camión materialista 36
 
-VI.- Servicios de control vehicular de carga, circular sin placas ni tarjeta de circulación y otros:
+C).- Automóvil de servicio público 48
 
-A).- Para camiones de carga con capacidad hasta 1,500 kilogramos:
+VI.- VEHICULOS:
 
-1).- Con un giro 9.0
+1.- Cambio de vehículos particulares 3
 
-2).- Con dos giros 13.0
+2.- Sustituciones:
 
-3).- Con tres giros 21.0
+Primera vez 3
 
-4).- Con cuatro giros 27.0
+Segunda vez 4
 
-5).- Con cinco giros 36.0
+Tercera vez 5
 
-6).- Sin giro para carga por 30 días 6.0
+A).- Local por diez días 2
 
-7).- Sin giro para carga por 15 días 3.0
+B).-Foráneo por tres días 1
 
-B).- Para camiones de carga con capacidad de más de 1,500 kilogramos:
+VII.- SERVICIO DE CONTROL VEHICULAR DE CARGA, CIRCULAR SIN PLACAS NI TARJETA DE CIRCULACION Y OTROS:
 
-1).- Con un giro 17.0
+1.- Expedición para camiones de carga con capacidad hasta de 1500 kgs.:
 
-2).- Con dos giros 26.0
+A).- Con un giro 9
 
-3).- Con tres giros 36.0
+B).- Con dos giros 13
 
-4).- Con cuatro giros 43.0
+C).- Con tres giros 21
 
-5).- Con cinco giros 52.0
+D).- Con cuatro giros 27
 
-C).- Para camiones de carga con conversión:
+E).- Con cinco giros 36
 
-1).- Con un giro 14.0
+F).- Giros para carga con treinta días 6
 
-2) Con dos giros 20.0
+G).- Sin carga por quince días 3
 
-3).- Con tres giros 26.0
+2.- Expedición para camiones con capacidad de más de 1500 kgs.:
 
-4).- Con cuatro giros 32.0
+A).- Con un giro 17
 
-5).- Con cinco giros 40.0
+B).- Con dos giros 26
 
-D).- Servicios de control vehicular para circular sin placas y sin tarjeta de circulación:
+C).- Con tres giros 36
 
-1).- Para automóvil por treinta días 1.5
+D).- Con cuatro giros 43
 
-2).- Para automóvil por quince días 1.0
+E).- Con cinco giros 52
 
-3).- Para camión por treinta días 3.0
+3.- Expedición para camiones de carga con conversión:
 
-4).- Para camión por quince días 2.0
+A).- Con un giro 14
 
-5).- Para camión o auto por tres días .5
+B).- Con dos giros 20
 
-E).- Conversión 2.0
+C).- Con tres giros 26
 
-F).- Para remolque 2.0
+D).- Con cuatro giros 32
 
-G).- Para transporte de caña 1.0
+E).- Con cinco giros 40
 
-VII.- Servicios de control vehicular anual para terminales de línea (sic) de servicio urbano o inter urbano:
+4.- Servicio de control vehicular para circular sin placas y sin tarjeta de circulación:
 
-A).- En Cuernavaca 36.0
+A).- Para automóvil por treinta días 1.5
 
-B).- En Cuautla y Jojutla 36.0
+B).- Para automóvil por quince días 1
 
-C).- En otras poblaciones 12.0
+C).- Para camión por treinta días 3
 
-VIII.- Servicios de control vehicular de ruta:
+D).- Para camión por quince días 2
 
-A).- Por cada autobús urbano y
+E).- Para camión o automóvil por tres días 0.5
 
-suburbano 59.0
+Conversión 2
 
-B).- Por cada camión materialista 40.0
+Para remolques 2
 
-C).- Para camiones de carga en
+Para transporte de caña 1
 
-general 30.0
+VIII.- SERVICIO DE CONTROL VEHICULAR ANUAL PARA TERMINALES DE LINEA DE SERVICIO URBANO E INTER- URBANO:
 
-D).- Para combis del servicio público
+1.- En Cuernavaca 36
 
-con itinerario fijo 69.0
+2.- En Jojutla 36
 
-E).- Para taxis del servicio público sin
+3.- En otras poblaciones 12
 
-itinerario fijo 69.0
+IX.- SERVICIO DE CONTROL VEHICULAR DE RUTA:
 
-F).- Para VAM de servicio público con
+1.- Por cada autobús urbano o sub-urbano 59
 
-itinerario fijo 69.0
+2.- Por cada camión materialista 40
 
-G).- Para microbús de servicio público
+3.- Para camiones de carga en general 30
 
-con itinerario fijo 69.0
+4.- Para combis de servicio público con itinerario fijo 69
 
-IX.- Las multas por infracciones cometidas a la Ley de Tránsito y Transporte o sus Reglamentos, se aplicarán discrecionalmente de acuerdo a lo previsto en los mismos. 1.0 a 300
+5.- Para taxis de servicio público sin itinerario fijo 69
 
-X.- Revisión mecánica:
+6.- Para Van de servicio público sin itinerario fijo 69
 
-Por la revisión semestral de vehículos
+X.- INFRACCIONES:
 
-de carga, particulares y todos los de
+De 1 A 300 días de salario mínimo general.
 
-servicio público 3.0
+XI.- REVISION MECANICA SEMESTRAL 3
 
-XI.- Expedición de:
+XII.- EXPEDICION DE:
 
-A).- Duplicado de tarjeta de circulación
+1.- Duplicado de tarjeta de circulación 2
 
-1.- Del servicio público 2.0
+2.- Certificaciones 1
 
-2.- Autos o camiones particulares
+XIII.- DEPOSITO DE ARRASTRE DE VEHICULOS:
 
-y motos 1.0
+1.- Protección y control de vehículo en depósito pensión diaria 0-5 a 1
 
-B).- Certificaciones 1.0
-
-XII.- Depósito y arrastre de vehículo:
-
-A).- Protección y control de vehículos
-
-en depósito, pensión diaria; .5 a 1.0
-
-B).- Por arrastre de grúas en la vía
-
-pública o de un resguardo de vehículos
-
-a otro 2.0 a 10.0
+2.- Por arrastre de grúas en la vía pública o de un resguardo de vehículos a otros 2 a 10
 
 ###### ARTICULO 425.
 
@@ -4733,7 +4817,7 @@ a otro 2.0 a 10.0
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
 
-### CAPITULO NOVENO. POR APROBACION, AUTORIZACION Y SUPERVISION DE FRACCIONAMIENTOS, CONDOMINIOS Y CONJUNTOS HABITACIONALES
+### CAPITULO OCTAVO. POR LOS SERVICIOS CATASTRALES
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -5141,7 +5225,7 @@ b).- Auxiliar del servicio 1.0 a 2.0.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
 
-### CAPITULO DECIMO. POR SERVICIOS DE ARCHIVO Y NOTARIALES
+### CAPITULO NOVENO. POR APROBACION, AUTORIZACION Y SUPERVISION DE FRACCIONAMIENTOS, CONDOMINIOS Y CONJUNTOS HABITACIONALES
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -5217,7 +5301,7 @@ Los certificados, certificaciones y copias certificadas que expidan las Dependen
 
 Los certificados de insolvencia no causarán los derechos fijados en la tarifa.
 
-### CAPITULO DECIMO PRIMERO. POR DERECHOS DE INSCRIPCION DE AGRUPACIONES
+### CAPITULO DECIMO. POR SERVICIOS DE ARCHIVO Y NOTARIALES
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -5401,7 +5485,9 @@ Los avalúos practicados por la Dirección del Catastro a solicitud de parte int
 
 (DEROGADO, P.O. 3 DE ENERO DE 1990)
 
-### CAPITULO DECIMO SEGUNDO. DE LOS SERVICIOS DE SUPERVISION DE LA SECRETARIA DE LA CONTRALORIA DEL ESTADO
+### CAPITULO DECIMO PRIMERO. POR DERECHOS DE INSCRIPCION DE AGRUPACIONES
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 436.
 
@@ -5473,27 +5559,7 @@ Las cantidades que se paguen como anticipo conforme al Artículo 385 de esta Ley
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
 
-### CAPITULO DECIMO TERCERO. DE LOS SERVICIOS DE POLICIA BANCARIA Y AUXILIAR
-
-> <small>(ADICIONADO, P.O. 3 DE ENERO DE 1990)</small>
-
-ARTICULO 440 A.- Quienes celebren contratos de obra pública y servicios relacionados con la misma, pagarán un derecho de 5 al millar sobre el importe de cada una de las estimaciones de trabajo, por la supervisión que realice la secretaría de la contraloría del estado.
-
-Las dependencias de la Administración Pública Estatal al hacer el pago de las estimaciones de obra, retendrán el importe de este derecho.
-
-> <small>(ADICIONADO, P.O. 3 DE ENERO DE 1990)</small>
-
-ARTICULO 440 B.- Los derechos por servicios de la policía industrial bancaria y auxiliar del Estado, se causarán conforme a la siguiente:
-
-TARIFA
-
-DIAS DE SALARIO
-
-Por un policía en 8 horas de servicio 2.5
-
-Por un policía en 12 horas de servicio 3.25
-
-Por un policía en 24 horas de servicio 7.5
+### CAPITULO DECIMO SEGUNDO. DE LOS SERVICIOS DE SUPERVISION DE LA SECRETARIA DE LA CONTRALORIA DEL ESTADO
 
 ###### ARTICULO 439.
 
@@ -5557,9 +5623,27 @@ o inexistencia de testamento 5
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
 
-### CAPITULO I (SIC)
+### CAPITULO DECIMO TERCERO. DE LOS SERVICIOS DE POLICIA BANCARIA Y AUXILIAR
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 1990)</small>
+
+ARTICULO 440 A.- Quienes celebren contratos de obra pública y servicios relacionados con la misma, pagarán un derecho de 5 al millar sobre el importe de cada una de las estimaciones de trabajo, por la supervisión que realice la secretaría de la contraloría del estado.
+
+Las dependencias de la Administración Pública Estatal al hacer el pago de las estimaciones de obra, retendrán el importe de este derecho.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 1990)</small>
+
+ARTICULO 440 B.- Los derechos por servicios de la policía industrial bancaria y auxiliar del Estado, se causarán conforme a la siguiente:
+
+TARIFA
+
+DIAS DE SALARIO
+
+Por un policía en 8 horas de servicio 2.5
+
+Por un policía en 12 horas de servicio 3.25
+
+Por un policía en 24 horas de servicio 7.5
 
 ###### ARTICULO 440.
 
@@ -5577,7 +5661,9 @@ tenga modificaciones de los estatutos. 5
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
 
-### CAPITULO II (SIC). REDITOS DE CAPITALES IMPUESTOS
+### CAPITULO I (SIC)
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 #### SECCIÓN ÚNICA
 
@@ -5587,17 +5673,15 @@ Las Oficinas Pagadoras de las Dependencias de la Administración Pública Estata
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE ENERO DE 1990)</small>
 
+### CAPITULO II (SIC). REDITOS DE CAPITALES IMPUESTOS
+
 ### CAPITULO III (SIC). PRODUCTOS DE PUBLICACIONES
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
-
-### CAPITULO CUARTO. ALMACENAJE
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ## TITULO QUINTO. DE LOS PRODUCTOS
 
-### CAPITULO UNICO
+### CAPITULO CUARTO. ALMACENAJE
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -5654,6 +5738,10 @@ Los ingresos por productos, derivados del arrendamiento, uso o explotación de b
 ###### ARTICULO 445.
 
 Las utilidades por acciones y participaciones en sociedad o empresas, el rendimiento por otras inversiones en sociedades o empresas, el rendimiento por otras inversiones en créditos y valores, y las recuperaciones e inversiones en acciones, créditos y valores, se considerarán productos en su calidad de ingresos financieros del Estado, y su captación, manejo y administración será llevada a cabo por la secretaría de programación y finanzas, con base en la línea de política económica que dicte el ejecutivo del Estado.
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 446.
 
@@ -5876,3 +5964,17 @@ Sexto.- Las operaciones, contratos o actos jurídicos que se celebren durante el
 Séptimo.- La falta de pago de este Impuesto en la fecha o dentro del plazo fijado en que debió hacerse el pago, originará además, el pago de recargos en concepto de indemnización, al fisco local, por la falta de pago oportuno. Los recargos se calcularán y liquidarán con el mismo procedimiento y tasa que la federación aplique para éstos casos. Para los casos de prórroga se aplicarán también la tasa que para el efecto haya fijado la federación.
 
 Octavo.- Remítase el presente decreto al Titular del Poder Ejecutivo Estatal para los efectos que señalan los artículos 44, 47, y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 26 DE DICIEMBRE DE 1991.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrara en vigor el día primero de enero de mil novecientos noventa y dos.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todos los acuerdos, reglamentos y demás disposiciones que se opongan al presente decreto.
+
+###### ARTICULO TERCERO.
+
+Remítase el presente decreto al Titular del Poder Ejecutivo Estatal para los efectos que señala la Fracción XVII del Artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
