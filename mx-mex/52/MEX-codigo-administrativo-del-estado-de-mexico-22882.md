@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2004-04-30"
+last_updated: "2004-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE AGOSTO DE 2004.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -493,7 +493,81 @@ Para dar curso a la acción popular, basta el señalamiento de los hechos que co
 
 La Secretaría de Administración tendrá a su cargo el sistema de certificación de los medios de identificación que se utilicen.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE AGOSTO DE 2004)</small>
+
+###### Artículo 1.
+
+46.- El Consejo Estatal de Población es un organismo público desconcentrado, que tiene por objeto asegurar la aplicación de la política nacional de población, en los programas de desarrollo económico y social que formulen los órganos de la administración pública estatal y municipal y vincular los objetivos de éstos con los de los programas nacional y estatal de población, en el marco de los sistemas nacional y estatal de planeación democrática; cuya política incide en el volumen, dinámica, estructura por edades y sexo y distribución de la población en el territorio del país, a fin de contribuir al mejoramiento de las condiciones de vida de sus habitantes y al logro de la participación justa y equitativa de hombres y mujeres en los beneficios del desarrollo sostenido y sustentable.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+
+###### Artículo 1.
+
+47.- El Consejo Estatal de Población para el cumplimiento de su objeto tendrá las atribuciones siguientes:
+
+I. Establecer los instrumentos y promover las acciones necesarias para asegurar la adecuada aplicación de las políticas de población nacional y estatal, en los programas de desarrollo económico y social que formulen los órganos de la administración pública estatal y municipal;
+
+II. Establecer mecanismos que permitan vincular los programas y acciones de gobierno estatal y municipal, con los objetivos de los programas nacional y estatal de población;
+
+III. Proponer estrategias y acciones en materia de población a los órganos de la administración pública estatal y municipal, proporcionándoles los escenarios sociodemográficos para la elaboración, ejecución y evaluación de sus programas de gobierno;
+
+IV. Aprobar el Programa Estatal de Población;
+
+V. Coordinar sus acciones con el Consejo Nacional de Población, así como con los consejos de las entidades federativas y de los municipios del Estado;
+
+VI. Promover la creación de los consejos municipales de población;
+
+VII. Celebrar convenios de coordinación en materia de población con organismos de los sectores público, social y privado;
+
+VIII. Expedir su reglamento interior;
+
+IX. Llevar el manejo de datos e indicadores de migración en el Estado;
+
+X. Auxiliar en la aplicación de la política nacional de población, en el marco de los instrumentos de coordinación y concertación establecidos por la legislación federal en la materia.
+
+XI. Proporcionar semestralmente a la Legislatura a través de la Comisión correspondiente los insumos demográficos generados por la Secretaría Técnica;
+
+XII. Las demás que sean necesarias para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+
+###### Artículo 1.
+
+48.- La dirección y administración del Consejo Estatal de Población estará a cargo de la Asamblea General y la Secretaría Técnica.
+
+El Consejo Estatal de Población contará con una Asamblea General que se integrará por un presidente que será el Secretario General de Gobierno, un vicepresidente, un Secretario Técnico, con dieciocho vocales que serán los titulares de las dependencias del Poder Ejecutivo, el Procurador General de Justicia; los directores generales del Sistema para el Desarrollo Integral de la Familia del Estado de México, del Instituto de Información e Investigación Geográfica, Estadística y Catastral y del Instituto de Seguridad Social del Estado de México y Municipios.
+
+El presidente y los vocales podrán ser suplidos por su inmediato inferior, en términos de sus respectivos reglamentos interiores.
+
+La Asamblea General, por conducto de su presidente, podrá invitar a participar a los representantes del Poder Legislativo y de los gobiernos federal y municipales, así como de los sectores social y privado, para la coordinación y colaboración de las actividades que realice el Consejo Estatal de Población.
+
+La Asamblea General y la Secretaría Técnica tendrán las atribuciones que se establezcan en el Reglamento respectivo; asimismo, la Asamblea General estará facultada para crear una comisión de gobierno, así como las comisiones y grupos de trabajo necesarios para el cumplimiento de sus funciones.
+
+El titular de la Secretaría Técnica será designado por el Gobernador del Estado, a propuesta del Presidente de la Asamblea General.
+
+La organización y funcionamiento del Consejo Estatal de Población se regirá por el reglamento interno que expida la Asamblea General.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+
 ### CAPITULO SEGUNDO. De las autoridades
+
+###### Artículo 1.
+
+49.- El Consejo Estatal de Población para el cumplimiento de su objeto contará con:
+
+I. Los bienes con los que actualmente cuenta;
+
+II. Las aportaciones que los gobiernos federal, estatal y municipales le otorguen;
+
+III. Los derechos que tengan sobre los bienes muebles o inmuebles que se le transfieran;
+
+IV. Las aportaciones, donaciones, legados y otros bienes que adquiera por cualquier título legal para el cumplimiento de su objeto;
+
+V. Los ingresos que obtenga por la realización de sus actividades, en cumplimiento de su objeto;
+
+VI. Los rendimientos, recuperaciones y demás ingresos que obtenga por la inversión de sus recursos.
+
+Los ingresos del Consejo Estatal de Población, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a la ejecución de los programas aprobados por la Asamblea General.
 
 ### CAPITULO TERCERO. De la Secretaría de Salud
 
@@ -507,15 +581,17 @@ La Secretaría de Administración tendrá a su cargo el sistema de certificació
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
+## TITULO DECIMO SEGUNDO. Del Consejo Estatal de Población
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+
 ## TITULO PRIMERO. Disposiciones generales
 
 ## TITULO SEGUNDO. De los Institutos Especializados en Materia de Salud del Estado de México
 
-## TITULO TERCERO. De la salubridad general
-
 # LIBRO SEGUNDO. De la salud
 
-## TITULO CUARTO. De la salubridad local
+## TITULO TERCERO. De la salubridad general
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
@@ -689,7 +765,7 @@ XVIII. Coadyuvar con la Secretaría de Salud en la actualización de las estadí
 
 XIX.- Realizar las demás actividades que les correspondan para el cumplimiento de su objeto conforme al presente ordenamiento y otras disposiciones aplicables.
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO CUARTO. De la salubridad local
 
 ###### Artículo 2.
 
@@ -755,7 +831,7 @@ XVI. Programas contra el alcoholismo y tabaquismo;
 
 XVII. Los demás que se establezcan en la Ley General de Salud y otras disposiciones aplicables.
 
-## TITULO SEGUNDO. De la educación
+## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO TERCERO. De la vigilancia
 
@@ -1339,7 +1415,7 @@ Los notarios y cualesquiera otros fedatarios públicos sólo podrán autorizar l
 
 41.- Los ingresos que el Estado y los municipios recauden por concepto de otorgamiento de concesiones, permisos, licencias y en general cualquier autorización en materia de áreas naturales protegidas, conforme a las disposiciones fiscales aplicables, se destinarán a la realización de acciones de conservación de la biodiversidad, dentro de las áreas en las que se generen dichos ingresos.
 
-## TITULO TERCERO. Del ejercicio profesional
+## TITULO SEGUNDO. De la educación
 
 ### CAPITULO QUINTO. De la participación social en la educación
 
@@ -1391,7 +1467,7 @@ La Secretaría gestionará ante las autoridades fiscales correspondientes la pé
 
 # LIBRO TERCERO. De la educación, ejercicio profesional, investigación científica y tecnológica, cultura, deporte, juventud, instalaciones educativas y mérito civil
 
-## TITULO CUARTO. Del Consejo Mexiquense de Ciencia y Tecnología
+## TITULO TERCERO. Del ejercicio profesional
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
@@ -1441,7 +1517,7 @@ La Secretaría de Educación, Cultura y Bienestar Social verificará que los par
 
 Las atribuciones en las materias de ejercicio profesional y mérito civil corresponden a la Secretaría de Educación, Cultura y Bienestar Social, y las relativas a investigación científica y tecnológica al Consejo Mexiquense de Ciencia y Tecnología.
 
-## TITULO QUINTO. Del Instituto Mexiquense de Cultura
+## TITULO CUARTO. Del Consejo Mexiquense de Ciencia y Tecnología
 
 ### CAPITULO TERCERO. De las asociaciones de profesionistas
 
@@ -1631,7 +1707,7 @@ La autorización o el reconocimiento se otorgarán cuando se satisfagan los requ
 
 En los demás casos podrán obtener el reconocimiento de validez oficial de estudios.
 
-## TITULO SEXTO. Del Instituto Mexiquense de Cultura Física y Deporte
+## TITULO QUINTO. Del Instituto Mexiquense de Cultura
 
 ### CAPITULO TERCERO. Del Consejo Consultivo para el desarrollo sustentable del Estado de México
 
@@ -1787,7 +1863,7 @@ El Registro Estatal de Educación será público, no tendrá efectos constitutiv
 
 45.- Las autoridades judiciales deberán comunicar oportunamente a la Secretaría de Educación, Cultura y Bienestar Social las resoluciones que dicten sobre inhabilitación o suspensión en el ejercicio profesional cuando éstas hubiesen causado ejecutoria, con el objeto de que, en su caso, se cancele el registro correspondiente.
 
-## TITULO SEPTIMO. Del Instituto Mexiquense de la Juventud
+## TITULO SEXTO. Del Instituto Mexiquense de Cultura Física y Deporte
 
 ###### Artículo 3.
 
@@ -1851,7 +1927,7 @@ VI. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos 
 
 Los ingresos del Consejo, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por la junta directiva.
 
-## TITULO OCTAVO. Del Comité de Instalaciones Educativas
+## TITULO SEPTIMO. Del Instituto Mexiquense de la Juventud
 
 ###### Artículo 3.
 
@@ -1917,7 +1993,7 @@ VI. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos 
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
 
-## TITULO NOVENO. Del mérito civil
+## TITULO OCTAVO. Del Comité de Instalaciones Educativas
 
 ###### Artículo 3.
 
@@ -1969,7 +2045,7 @@ V. Las utilidades, intereses, dividendos, rendimientos de bienes, derechos y dem
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
 
-## TITULO DECIMO. De las infracciones y sanciones
+## TITULO NOVENO. Del mérito civil
 
 ###### Artículo 3.
 
@@ -2039,7 +2115,7 @@ VI. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos 
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO DECIMO. De las infracciones y sanciones
 
 ###### Artículo 3.
 
@@ -2091,7 +2167,7 @@ V. Los bienes o recursos que reciba por cualquier título legal.
 
 Los ingresos del Comité, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por la junta directiva.
 
-## TITULO SEGUNDO. De la política ambiental y sus instrumentos
+## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO TERCERO. De los programas de ordenamiento ecológico
 
@@ -2189,7 +2265,7 @@ VI. Realizar o favorecer de cualquier forma actividades políticas de tipo parti
 
 VII. Incumplir cualesquiera de los preceptos de este Libro, así como, las demás disposiciones expedidas con fundamento en él.
 
-## TITULO TERCERO. De la conservación ecológica
+## TITULO SEGUNDO. De la política ambiental y sus instrumentos
 
 ###### Artículo 3.
 
@@ -2227,7 +2303,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 # LIBRO CUARTO. De la conservación ecológica y protección al ambiente para el desarrollo sustentable
 
-## TITULO CUARTO. De la protección al ambiente
+## TITULO TERCERO. De la conservación ecológica
 
 ### CAPITULO PRIMERO. De las áreas naturales protegidas
 
@@ -2321,7 +2397,7 @@ V. Las regulaciones de las descargas de aguas residuales de carácter municipal,
 
 8.- La Secretaría de Ecología promoverá ante los ayuntamientos de la entidad la creación de consejos municipales de protección al ambiente, a fin de que les sirvan como órganos de apoyo para el mejor desempeño de sus funciones. Así mismo se fomentará la constitución de comités comunitarios o vecinales con objeto de alentar la participación social en el cuidado, conservación y restauración del ambiente en sus localidades.
 
-## TITULO QUINTO. De los prestadores de servicios ambientales
+## TITULO CUARTO. De la protección al ambiente
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
@@ -2355,7 +2431,7 @@ La prevención y control de la contaminación generada por la prestación de los
 
 El registro será público, no tendrá efectos constitutivos ni surtirá efectos contra terceros.
 
-## TITULO SEXTO. De los proveedores de equipos y servicios de verificación
+## TITULO QUINTO. De los prestadores de servicios ambientales
 
 ###### Artículo 4.
 
@@ -2685,7 +2761,7 @@ II. Las obras o actividades de que se trate estén expresamente previstas en un 
 
 III. Se trate de instalaciones ubicadas en parques industriales previamente autorizados.
 
-## TITULO SEPTIMO. De los verificadores y laboratorios ambientales
+## TITULO SEXTO. De los proveedores de equipos y servicios de verificación
 
 ###### Artículo 4.
 
@@ -2795,7 +2871,7 @@ La Secretaría de Ecología o la autoridad municipal podrán promover ante la au
 
 21.- Quienes suscriban los informes previos, manifestaciones de impacto ambiental y estudios de riesgo serán responsables ante la Secretaría de Ecología. Asimismo, declararán bajo protesta de decir verdad que en ellos se incorporaron las mejores técnicas y metodologías existentes, así como la información y medidas de prevención y mitigación más efectivas.
 
-## TITULO OCTAVO. De la vigilancia
+## TITULO SEPTIMO. De los verificadores y laboratorios ambientales
 
 ###### Artículo 4.
 
@@ -3179,7 +3255,7 @@ IV. Promover el establecimiento de reconocimientos a quienes hayan realizado los
 
 23.- Quienes realicen auditorias ambientales podrán practicar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generen, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger al ambiente.
 
-## TITULO NOVENO. De la Participación Social
+## TITULO OCTAVO. De la vigilancia
 
 ### CAPITULO SEGUNDO. Personas Físicas y Morales con fines ambientalistas
 
@@ -3251,7 +3327,7 @@ En los parques estatales sólo podrá permitirse la realización de actividades 
 
 # LIBRO QUINTO. Del ordenamiento territorial de los asentamientos humanos y del desarrollo urbano de los centros de población
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO NOVENO. De la Participación Social
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
@@ -3517,7 +3593,7 @@ III. La integración, organización y funcionamiento del órgano respectivo de c
 
 IV. Las demás acciones que convengan el Estado y los municipios correspondientes.
 
-## TITULO SEGUNDO. De las conurbaciones y zonas metropolitanas
+## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
@@ -3649,7 +3725,7 @@ II. De consolidación, aplicables a centros de población que sólo requieren de
 
 III. De control, que buscan disminuir o desalentar el ritmo de crecimiento de centros de población en los que la concentración provoca problemas crecientemente agudos de congestión e ineficiencia económica y social, o bien, cuando tales centros de población muestran síntomas de saturación por carecer de suelo apto para su expansión y tener, entre otras, limitaciones en las disponibilidades de agua e infraestructura vial, lo que obliga a restringir su desarrollo preferentemente al interior de la estructura urbana existente, rehabilitando y reconstruyendo sus áreas deterioradas, insalubres o deficientemente aprovechadas.
 
-## TITULO TERCERO. Del sistema estatal de planes de desarrollo urbano y de las regulaciones a la propiedad en los centros de población
+## TITULO SEGUNDO. De las conurbaciones y zonas metropolitanas
 
 ### CAPITULO SEGUNDO. De los conjuntos urbanos
 
@@ -4095,7 +4171,7 @@ XI. Los diferentes tipos de señales deben ser fijados en muros o lugares no aba
 
 XII. Las vías públicas contarán con placas en las que se consigne el nombre y la orientación de la misma, así como con guías en las banquetas para identificar el límite de la guarnición.
 
-## TITULO CUARTO. De las autorizaciones y licencia estatal y municipales
+## TITULO TERCERO. Del sistema estatal de planes de desarrollo urbano y de las regulaciones a la propiedad en los centros de población
 
 ### CAPITULO SEXTO. De la licencia de construcción
 
@@ -4223,7 +4299,7 @@ Cuando así proceda, las licencias de uso del suelo y de construcción se podrá
 
 67.- Tratándose de construcciones mayores de sesenta metros cuadrados o con claros mayores de cuatro metros, la solicitud de la licencia de construcción y sus planos respectivos llevarán la firma del perito responsable de la obra, acompañándose asimismo la constancia de su inscripción en el Registro Estatal de Desarrollo Urbano.
 
-## TITULO QUINTO. Del Registro Estatal de Desarrollo Urbano
+## TITULO CUARTO. De las autorizaciones y licencia estatal y municipales
 
 ### CAPITULO SEPTIMO. De la autorización para la explotación de bancos de materiales para la construcción
 
@@ -4315,7 +4391,7 @@ La sección de peritos del Registro Estatal de Desarrollo Urbano, tendrá por ob
 
 # LIBRO SEXTO. De la protección civil
 
-## TITULO SEXTO. De las medidas de seguridad y sanciones
+## TITULO QUINTO. Del Registro Estatal de Desarrollo Urbano
 
 ### CAPITULO SEGUNDO. De las infracciones y sanciones
 
@@ -4337,7 +4413,7 @@ La sección de peritos del Registro Estatal de Desarrollo Urbano, tendrá por ob
 
 4.- Son autoridades en materia de protección civil, la Secretaría General de Gobierno y los ayuntamientos con las atribuciones que les otorga este Libro.
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO SEXTO. De las medidas de seguridad y sanciones
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
@@ -4613,7 +4689,7 @@ IV. Las personas que se dediquen a prestar servicios de consultoría o capacitac
 
 Las dependencias y organismos de la administración pública estatal y municipal, así como los grupos voluntarios, deberán proporcionar a la Secretaría General de Gobierno los informes que les requiera.
 
-## TITULO SEGUNDO. De los sistemas de protección civil
+## TITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 6.
 
@@ -4629,7 +4705,7 @@ El Registro será público, no tendrá efectos constitutivos, ni surtirá efecto
 
 32.- En caso de riesgo inminente, sin perjuicio de la emisión de la declaratoria de emergencia, la Secretaría General de Gobierno y los municipios dictarán de inmediato las medidas de seguridad conducentes, a fin de proteger la vida de la población y sus bienes, la planta productiva y el ambiente, así como para garantizar el funcionamiento de los servicios esenciales de la comunidad.
 
-## TITULO TERCERO. Del Instituto de Protección Civil del Estado de México
+## TITULO SEGUNDO. De los sistemas de protección civil
 
 ###### Artículo 6.
 
@@ -4647,7 +4723,7 @@ V. El aseguramiento y destrucción de objetos, productos o sustancias;
 
 VI. El aislamiento de áreas afectadas.
 
-## TITULO CUARTO. De los simulacros y señalizaciones
+## TITULO TERCERO. Del Instituto de Protección Civil del Estado de México
 
 ###### Artículo 6.
 
@@ -4691,11 +4767,11 @@ III. Con cinco mil días de salario mínimo general vigente del área geográfic
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
+## TITULO CUARTO. De los simulacros y señalizaciones
+
 ## TITULO QUINTO. De las autorizaciones, registros y dictámenes
 
 ## TITULO SEXTO. De las declaratorias de emergencia y desastre
-
-## TITULO SEPTIMO. Del sistema estatal de información de protección civil y registro estatal de protección civil
 
 ### CAPITULO SEGUNDO. De las medidas de seguridad
 
@@ -4707,7 +4783,7 @@ III. Con cinco mil días de salario mínimo general vigente del área geográfic
 
 # LIBRO SEPTIMO. De las Comunicaciones y Transportes
 
-## TITULO OCTAVO. De la vigilancia
+## TITULO SEPTIMO. Del sistema estatal de información de protección civil y registro estatal de protección civil
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
@@ -4755,7 +4831,7 @@ V. El Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Est
 
 VI. Los municipios, que tendrán a su cargo las facultades relativas a la infraestructura vial local.
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO OCTAVO. De la vigilancia
 
 ### CAPITULO SEGUNDO. De la Junta de Caminos del Estado de México
 
@@ -4909,7 +4985,7 @@ III. Cubrir los daños que ocasionen a la infraestructura vial.
 
 17.- Los municipios tendrán las atribuciones a que se refiere este Título y el Título Cuarto, respecto de la infraestructura de su competencia.
 
-## TITULO SEGUNDO. De la infraestructura vial
+## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO SEGUNDO. De las concesiones, permisos y autorizaciones
 
@@ -5173,7 +5249,7 @@ Las disposiciones reglamentarias aplicables y las secretarías de Comunicaciones
 
 37.- Las secretarías de Comunicaciones y de Transporte, en el ámbito de su respectiva competencia, podrán autorizar y modificar en todo tiempo rutas, tarifas, itinerarios, horarios, frecuencias, así como ordenar el cambio de bases, paraderos y terminales, y señalar la forma de identificación de los vehículos, siempre en atención a la satisfactoria prestación del servicio y a las necesidades públicas.
 
-## TITULO TERCERO. Del transporte
+## TITULO SEGUNDO. De la infraestructura vial
 
 ###### Artículo 7.
 
@@ -5231,7 +5307,7 @@ XVII. Las demás que señalen este Libro y otras disposiciones legales, reglamen
 
 Adicionalmente, los concesionarios deberán respetar las tarifas, rutas, itinerarios, recorridos, horarios y frecuencias autorizados por las secretarías de Comunicaciones o de Transporte; en caso de requerir alguna modificación a los mismos, el concesionario deberá solicitar la autorización previa a dicha dependencia.
 
-## TITULO CUARTO. Disposiciones comunes en materia de infraestructura vial y transporte
+## TITULO TERCERO. Del transporte
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
@@ -5509,7 +5585,7 @@ X. Multa de cuarenta a cien veces el salario mínimo general vigente en el área
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
-## TITULO QUINTO. De las medidas de seguridad, infracciones y sanciones
+## TITULO CUARTO. Disposiciones comunes en materia de infraestructura vial y transporte
 
 ### CAPITULO TERCERO. De las organizaciones de productores
 
@@ -5517,7 +5593,7 @@ X. Multa de cuarenta a cien veces el salario mínimo general vigente en el área
 
 # LIBRO OCTAVO. Del tránsito y estacionamientos de servicio al público
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO QUINTO. De las medidas de seguridad, infracciones y sanciones
 
 ### CAPITULO SEGUNDO. De la comercialización
 
@@ -5537,7 +5613,7 @@ X. Multa de cuarenta a cien veces el salario mínimo general vigente en el área
 
 Corresponde a la Secretaría General de Gobierno ejercer las atribuciones relativas al tránsito en la infraestructura vial primaria, y a los municipios en la infraestructura vial local. Asimismo, compete a los municipios el ejercicio de las atribuciones en materia de estacionamientos de servicio al público.
 
-## TITULO SEGUNDO. Del tránsito
+## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO CUARTO. De la Protectora de Bosques del Estado de México
 
@@ -5709,7 +5785,7 @@ III. Detener la marcha de cualquier vehículo cuando el conductor esté cometien
 
 Los agentes de tránsito del Estado y los municipios están facultados para ejercer las atribuciones a que se refiere este artículo.
 
-## TITULO TERCERO. De los estacionamientos de servicio al público
+## TITULO SEGUNDO. Del tránsito
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
@@ -5751,11 +5827,11 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 22.- Sólo después de haberse cubierto el importe de las multas, traslado y depósito, si los hubiere, se procederá a la entrega de los vehículos.
 
-## TITULO CUARTO. De las infracciones y sanciones
+## TITULO TERCERO. De los estacionamientos de servicio al público
 
 # LIBRO NOVENO. Del fomento y desarrollo agropecuario, acuícola y forestal
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO CUARTO. De las infracciones y sanciones
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
@@ -5785,7 +5861,7 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 Se entiende por productor rural la persona física que directa o indirectamente se dedique a la producción de especies vegetales o animales, o quienes agreguen valor a su producción mediante procesos de transformación y comercialización.
 
-## TITULO SEGUNDO. Del fomento y desarrollo de las actividades agropecuarias, acuícolas y forestales
+## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO CUARTO. Del turismo
 
@@ -6011,7 +6087,7 @@ VI. Los mecanismos de responsabilidad de los productores respecto a la utilizaci
 
 VII. Considerar a quienes no puedan por sí mismos llevar a cabo las inversiones necesarias.
 
-## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Agropecuario, Acuícola y Forestal
+## TITULO SEGUNDO. Del fomento y desarrollo de las actividades agropecuarias, acuícolas y forestales
 
 ###### Artículo 9.
 
@@ -6019,9 +6095,9 @@ VII. Considerar a quienes no puedan por sí mismos llevar a cabo las inversiones
 
 Las dependencias y organismos de la administración pública estatal y municipal, así como las empresas del sector agropecuario que cuenten con el certificado de empresa mexiquense deberán proporcionar a la Secretaría de Desarrollo Agropecuario los informes que les requiera.
 
-## TITULO CUARTO. De las infracciones y sanciones
+## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Agropecuario, Acuícola y Forestal
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPÍTULO PRIMERO. Disposiciones generales
 
 ###### Artículo 9.
 
@@ -6045,7 +6121,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 # LIBRO DECIMO. Del fomento económico
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO CUARTO. De las infracciones y sanciones
 
 ### CAPITULO TERCERO. De la educación regular y especial
 
@@ -6113,7 +6189,7 @@ VII. Que actúen de manera coordinada con el Consejo Consultivo Económico Estat
 
 Para la creación de los consejos consultivos regionales se estará a la regionalización establecida por el Plan de Desarrollo del Estado de México.
 
-## TITULO SEGUNDO. Del fomento empresarial
+## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO SEXTO. De las facilidades urbanísticas y arquitectónicas
 
@@ -6321,7 +6397,7 @@ VII. La información estadística de la zona vinculada al turismo.
 
 Para efectos de este artículo, se entiende por zona de interés turístico aquella parte del territorio del Estado que cuenta con equipamiento, instalaciones, infraestructura, atractivos y que recibe turistas, así como la que presenta características idóneas para realizar actividades turísticas.
 
-## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Económico y Registro Estatal de Desarrollo Económico
+## TITULO SEGUNDO. Del fomento empresarial
 
 ###### Artículo 10.
 
@@ -6351,7 +6427,7 @@ I. Lo solicite el interesado;
 
 II. Por fallecimiento, en caso de persona física, o fusión, liquidación o extinción, tratándose de persona moral.
 
-## TITULO CUARTO. Del otorgamiento de apoyos
+## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Económico y Registro Estatal de Desarrollo Económico
 
 ###### Artículo 10.
 
@@ -6389,7 +6465,7 @@ IV. Participación en los programas de identificación y promoción, nacionales 
 
 V. Promover y facilitar la adquisición de terrenos, en aquellas zonas en las que se pretenda desarrollar las actividades económicas.
 
-## TITULO QUINTO. Del Premio Estatal a la Excelencia Empresarial Mexiquense
+## TITULO CUARTO. Del otorgamiento de apoyos
 
 ###### Artículo 10.
 
@@ -6405,7 +6481,7 @@ IV. Exportación.
 
 # LIBRO DECIMO PRIMERO. De la protección e integración al desarrollo de las personas con capacidades diferentes
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO QUINTO. Del Premio Estatal a la Excelencia Empresarial Mexiquense
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
@@ -6505,7 +6581,7 @@ III. Promover la integración educativa, laboral, recreativa, cultural y deporti
 
 Los ayuntamientos determinarán la estructura y funcionamiento de sus respectivos consejos municipales.
 
-## TITULO SEGUNDO. De la prestación de los servicios a personas con capacidades diferentes
+## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO QUINTO. De la ejecución
 
@@ -6659,17 +6735,13 @@ VI. Gestionar prerrogativas fiscales para las personas con capacidades diferente
 
 La integración al empleo de los trabajadores con capacidades diferentes requerirá de acciones previas de capacitación y rehabilitación profesional.
 
-###### Artículo 11.
+###### Artículo 1129.
 
-29.- Para efectos de este Capítulo, la Secretaría del Trabajo y de la Previsión Social tendrá las atribuciones siguientes:
+Para efectos de este Capítulo, la Secretaría del Trabajo y de la Previsión Social tendrá las atribuciones siguientes:
 
 I. Establecer programas de promoción del empleo de las personas con capacidades diferentes, creando una bolsa de trabajo en la que se concentren listas de aspirantes con sus aptitudes y capacidades;
 
 II. Gestionar el apoyo de los sectores público e industrial para colocar a las personas con capacidades diferentes en puestos vacantes, así como para que las autoridades competentes otorguen a los solicitantes con capacidades diferentes permisos y licencias de funcionamiento comercial en la infraestructura vial y en locales de mercados públicos.
-
-### CAPITULO PRIMERO. Parte general
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6682,6 +6754,10 @@ II. El uso de asientos exclusivos en los diversos medios de transporte público 
 III. Estacionarse en zonas de estacionamiento restringido y ocupar los espacios de uso exclusivo en los estacionamientos de servicio al público que sean destinados para personas con capacidades diferentes, los que deberán estar diseñados y señalizados de acuerdo a requerimientos específicos.
 
 Los concesionarios del servicio de transporte de pasajeros están obligados a prestar el servicio a las personas con capacidades diferentes sin discriminación alguna.
+
+### CAPITULO PRIMERO. Parte general
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6707,10 +6783,6 @@ II. Podrán ser utilizados por cualquier usuario, en tanto no sean requeridos po
 
 Adicionalmente, deberán equipar el cinco por ciento de sus unidades con mecanismos que faciliten el acceso a personas con capacidades diferentes y equipo de apoyo.
 
-### CAPITULO SEGUNDO. De la planeación, programación y sistematización
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
 ###### Artículo 11.
 
 34.- Las personas con capacidades diferentes tendrán los derechos siguientes:
@@ -6721,15 +6793,15 @@ II. Disfrute de los servicios públicos en igualdad de circunstancias.
 
 Para el cumplimiento de lo dispuesto en este artículo, las autoridades competentes incluirán en sus planes de desarrollo urbano o de centros de población, la prestación de facilidades urbanísticas y arquitectónicas para las personas con capacidades diferentes y harán recomendaciones a organismos públicos y empresas privadas.
 
+### CAPITULO SEGUNDO. De la planeación, programación y sistematización
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 11.
 
 35.- Se consideran barreras arquitectónicas todos aquellos obstáculos que dificultan, entorpecen o impiden el libre desplazamiento de las personas con capacidades diferentes en los espacios públicos exteriores o interiores del sector público, social o privado.
 
 Las barreras arquitectónicas que en la infraestructura vial deben ser eliminadas o readecuadas para brindar facilidad de desplazamiento a las personas con capacidades diferentes son: banquetas, coladeras, estacionamientos, escaleras, rampas, teléfonos públicos y tensores para postes.
-
-### CAPITULO TERCERO. De la sistematización
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6737,7 +6809,7 @@ Las barreras arquitectónicas que en la infraestructura vial deben ser eliminada
 
 El Gobierno del Estado, a través de la Secretaría de Educación, Cultura y Bienestar Social, y demás dependencias y organismos auxiliares competentes, apoyarán programas de promoción deportiva y desarrollo socio-cultural que permitan la integración de las personas con capacidades diferentes.
 
-### CAPITULO CUARTO. De las operaciones consolidadas
+### CAPITULO TERCERO. De la sistematización
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6751,9 +6823,17 @@ II. Los servicios podrán ser prestados tanto por las instituciones públicas co
 
 III. La prestación de los servicios procurará la permanencia de las personas con capacidades diferentes en su entorno familiar.
 
+### CAPITULO CUARTO. De las operaciones consolidadas
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 11.
 
 38.- Además de las medidas específicas previstas en este Libro, el Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México otorgará, previo estudio, servicios y prestaciones económicas a las personas con capacidades diferentes que se encuentren en situación de necesidad extrema y carezcan de los recursos indispensables para hacer frente a contingencias resultantes de sus limitaciones físicas. La prestación económica cesará al momento de superarse la contingencia que le dio lugar.
+
+###### Artículo 11.
+
+39.- El Sistema para el Desarrollo Integral de la Familia del Estado de México coordinará un programa estatal para informar, capacitar y adiestrar a las familias y a los terceros, para aumentar su capacidad de estimular y atender el desarrollo de las personas con capacidades diferentes, así como propiciar un entorno familiar adecuado a sus necesidades de rehabilitación con las instituciones del sector salud.
 
 ### CAPITULO QUINTO. De los catálogos
 
@@ -6761,25 +6841,41 @@ III. La prestación de los servicios procurará la permanencia de las personas c
 
 ###### Artículo 11.
 
-39.- El Sistema para el Desarrollo Integral de la Familia del Estado de México coordinará un programa estatal para informar, capacitar y adiestrar a las familias y a los terceros, para aumentar su capacidad de estimular y atender el desarrollo de las personas con capacidades diferentes, así como propiciar un entorno familiar adecuado a sus necesidades de rehabilitación con las instituciones del sector salud.
-
-## TITULO TERCERO. De los derechos y obligaciones de los usuarios y participación de la comunidad
-
-###### Artículo 11.
-
 40.- El Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México promoverá la participación de los medios de comunicación, las organizaciones sociales y privadas, y de atención a personas con capacidades diferentes, así como de la comunidad en general en los programas de difusión para fomentar los hábitos de seguridad, higiene y educación para mejorar la calidad de vida de las personas con capacidades diferentes.
+
+## TITULO SEGUNDO. De la prestación de los servicios a personas con capacidades diferentes
 
 ###### Artículo 11.
 
 41.- Las autoridades sanitarias del Estado y las propias instituciones de salud, establecerán procedimientos de orientación y asesoría para las personas con capacidades diferentes respecto al uso de los servicios que requieran, así como de las prestaciones a su alcance y las condiciones de acceso a las mismas.
 
-## TITULO CUARTO. De los profesionales, técnicos y auxiliares para los servicios de salud y la educación
-
 ###### Artículo 11.
 
 42.- Gobierno del Estado, a través de las Secretarías de Salud y de Educación, Cultura y Bienestar Social, del Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México y de la Universidad Autónoma del Estado de México, impulsará y fomentará la formación, capacitación y actualización de los recursos humanos responsables de la atención de personas con capacidades diferentes, de conformidad con los objetivos y prioridades del Sistema Estatal de Salud y los programas educativos.
 
-## TITULO QUINTO. De las sanciones
+## TITULO TERCERO. De los derechos y obligaciones de los usuarios y participación de la comunidad
+
+###### Artículo 11.
+
+43.- Para los efectos del presente Libro, la autoridad competente aplicará, a petición de parte o de oficio, independientemente de lo preceptuado por otras disposiciones legales, las sanciones siguientes:
+
+I. Multa equivalente de treinta veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quienes ocupen indebidamente los espacios: de estacionamiento preferencial, o bien obstruyan las rampas o accesos para personas con capacidades diferentes y otros con el mismo fin;
+
+II. Multa equivalente de cincuenta a cien veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a los prestadores del servicio público de transporte que nieguen u obstaculicen el uso del servicio, de acuerdo a lo dispuesto por el presente Libro;
+
+III. Multa equivalente de quinientas veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción a:
+
+a) Los empresarios, administradores y organizadores de espectáculos públicos que omitan o ubiquen discriminatoriamente los espacios reservados, así como las facilidades de acceso para personas con capacidades diferentes;
+
+b) Las empresas o constructoras de conjuntos urbanos que no brinden las facilidades arquitectónicas previstas por el presente Libro;
+
+c) Los propietarios de restaurantes y centros comerciales que no brinden las facilidades arquitectónicas previstas en este Libro.
+
+En caso de reincidencia, se podrá duplicar el monto de la multa y proceder a la clausura temporal o definitiva de acuerdo con la gravedad que determine la autoridad. En el caso del inciso a) de la fracción III, la clausura procederá en caso de incurrir el infractor en tres ocasiones en la misma falta.
+
+> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+## TITULO CUARTO. De los profesionales, técnicos y auxiliares para los servicios de salud y la educación
 
 ###### Artículo 11.
 
@@ -8623,6 +8719,8 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 T R A N S I T O R I O S
 
+## TITULO QUINTO. De las sanciones
+
 ###### ARTICULO PRIMERO.
 
 Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
@@ -8822,3 +8920,13 @@ SEPTIMO.- Los Sujetos Obligados deberán elaborar el catálogo de información a
 OCTAVO.- Los particulares podrán presentar solicitudes de acceso a la información pública y corrección de datos personales en términos de la presente Ley, después de un año de la designación de los Consejeros y del Consejero Presidente.
 
 NOVENO.- El Instituto expedirá su reglamento interior dentro de los tres meses siguientes a su integración.
+
+P.O. 11 DE AGOSTO DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- El Consejo Estatal de Población, en la materia de su competencia, expedirá el reglamento interior dentro de los 90 días siguientes a su publicación en el Periódico oficial "Gaceta del Gobierno".-
+
+CUARTO.- En tanto se expida la reglamentación a que refiere el artículo anterior, se aplicarán las disposiciones reglamentarias en vigor que no sean contrarias al presente decreto.
