@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "1946-09-24"
+last_updated: "1961-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 1961.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -14879,7 +14879,9 @@ I.- Los testimonios de escritura pública u otros documentos auténticos;
 
 II.- Las sentencias y providencias judiciales certificadas legalmente;
 
-III.- Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el registrador, la autoridad municipal, un juez de paz o un notario se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por las mencionadas autoridades y llevar el sello de la oficina respectiva.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1961)</small>
+
+III.- Los documentos privados válidos con arreglo a la Ley, para su inscripción en el Registro Público de la Propiedad, deberán contener al calce de los mismos certificación notarial en que, conste la ratificación de los interesados, de ser suyas las firmas y de que el documento contiene la libre voluntad de los mismos. De esta certificación deberán los Notarios extender constancia o toma de razón en el Protocolo a su cargo la que deberá ser firmada por los propios interesados.
 
 ###### Art. 2903.
 
@@ -15112,3 +15114,9 @@ UNICO.- El presente decreto entrará en vigor tres días después de publicado e
 P.O. 24 DE SEPTIEMBRE DE 1946.
 
 UNICO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE AGOSTO DE 1961.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 207 POR EL QUE "ARTICULO UNICO.- ART. 2902".]
+
+UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
