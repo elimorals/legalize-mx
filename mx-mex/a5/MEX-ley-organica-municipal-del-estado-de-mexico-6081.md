@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "1997-09-30"
+last_updated: "1999-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE FEBRERO DE 1999.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1387,7 +1387,59 @@ Los tribunales del Estado serán competentes para conocer de los juicios que se 
 
 Se reconoce acción popular para denunciar ante el ayuntamiento, ante la Contaduría General de Glosa del Poder Legislativo, o ante el Ejecutivo del Estado, la malversación de fondos municipales y cualquier otro hecho presuntamente delictivo en contra de la hacienda municipal.
 
-### CAPITULO QUINTO. De la Planeación
+### CAPITULO CUARTO BIS. De los Comités Ciudadanos de
+
+Control y Vigilancia
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 A.- Los ayuntamientos promoverán la constitución de comités ciudadanos de control y vigilancia, los que serán responsables de supervisar la obra pública estatal y municipal.
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 B.- Los comités ciudadanos de control y vigilancia estarán integrados por tres vecinos de la localidad en la que se construya la obra, serán electos en asamblea general, por los ciudadanos beneficiados por aquélla. El cargo de integrante del comité será honorífico.
+
+No podrán ser integrantes de los comités las personas que sean dirigentes de organizaciones políticas o servidores públicos.
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 C.- Para cada obra estatal o municipal se constituirá un comité ciudadano de control y vigilancia. Sin embargo, en aquellos casos en que las características técnicas o las dimensiones de la obra lo ameriten, podrán integrarse más de uno.
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 D.- Los comités ciudadanos de control y vigilancia tendrán además, las siguientes funciones:
+
+I. Vigilar que la obra pública se realice de acuerdo al expediente técnico y dentro de la normatividad correspondiente;
+
+II. Participar como observador en los procesos o actos administrativos relacionados con la adjudicación o concesión de la ejecución de la obra;
+
+III. Hacer visitas de inspección y llevar registro de sus resultados;
+
+IV. Verificar la calidad con que se realiza la obra pública,
+
+V. Hacer del conocimiento de las autoridades correspondientes las irregularidades que observe durante el desempeño de sus funciones o las quejas que reciba de la ciudadanía, con motivo de las obras objeto de supervisión,
+
+VI. Integrar un archivo con la documentación que se derive de la supervisión de las obras,
+
+VII. Intervenir en los actos de entrega-recepción de las obras y acciones, informando a los vecinos el resultado del desempeño de sus funciones; y
+
+VIII. Promover el adecuado mantenimiento de la obra pública ante las autoridades municipales.
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 E.- Los comités ciudadanos de control y vigilancia deberán apoyarse en las contralorías municipal y estatal y coadyuvar con el órgano de control interno municipal en el desempeño de las funciones a que se refieren las fracciones VII y VIII del artículo 112 de esta ley.
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 F.- Las dependencias y entidades de la administración pública municipal que construyan las obras o realicen las acciones, explicarán a los comités ciudadanos de control y vigilancia, las características físicas y financieras de las obras y les proporcionarán, antes del inicio de la obra, el resumen del expediente técnico respectivo y darles el apoyo, las facilidades y la información necesaria para el desempeño de sus funciones.
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 G.- Las dependencias y entidades señaladas en el artículo anterior harán la entrega-recepción de las obras ante los integrantes de los comités ciudadanos de control y vigilancia y de los vecinos de la localidad beneficiados con la obra.
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 H.- Los comités ciudadanos de control y vigilancia regularán su actividad por los lineamientos que expidan las secretarías de Finanzas y Planeación, de la Contraloría y de la Coordinación General de Apoyo Municipal, cuando las obras se realicen, parcial o totalmente, con recursos del Estado.
 
 ###### Artículo 110.
 
@@ -1439,9 +1491,11 @@ XVII. Las demás que le señalen las disposiciones relativas.
 
 Para ser contralor se requiere cumplir con los requisitos que se exigen para ser tesorero municipal, a excepción de la caución correspondiente.
 
-### CAPITULO SEXTO. De los Organismos Auxiliares y Fideicomisos
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 15 DE FEBRERO DE 1999)</small>
 
-### CAPITULO SEPTIMO. De los Servicios Públicos
+### CAPITULO QUINTO. De la Planeación
+
+### CAPITULO SEXTO. De los Organismos Auxiliares y Fideicomisos
 
 ###### Artículo 114.
 
@@ -1491,7 +1545,7 @@ El Plan de Desarrollo y los programas que de éste se deriven, serán obligatori
 
 Los planes y programas podrán ser modificados o suspendidos siguiendo el mismo procedimiento que para su elaboración, aprobación y publicación, cuando lo demande el interés social o lo requieran las circunstancias de tipo técnico o económico.
 
-### CAPITULO OCTAVO. De los Cuerpos de Seguridad Pública y Tránsito
+### CAPITULO SEPTIMO. De los Servicios Públicos
 
 ###### Artículo 123.
 
@@ -1501,63 +1555,11 @@ Los ayuntamientos están facultados para constituir con cargo a la hacienda púb
 
 Los órganos de control y evaluación gubernamental de los ayuntamientos, serán los responsables de la supervisión y evaluación de la operación de los organismos auxiliares y fideicomisos a que se refiere el presente capítulo.
 
+### CAPITULO OCTAVO. De los Cuerpos de Seguridad Pública y Tránsito
+
 ### CAPITULO NOVENO. Del Sistema de Mérito y Reconocimiento al Servicio
 
 Público Municipal
-
-### CAPITULO DECIMO. Nombramiento, Atribuciones y Obligaciones del
-
-Coordinador Municipal de Derechos Humanos
-
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
-
-Artículo 147 A.- En cada municipio, el ayuntamiento respectivo designará, por el voto de las dos terceras partes de sus integrantes, a propuesta del Presidente Municipal, un Coordinador Municipal de Derechos Humanos, quien se apoyará en el personal necesario para atender la Coordinación Municipal de Derechos Humanos.
-
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
-
-Artículo 147 B.- El Coordinador Municipal deberá reunir los siguientes requisitos:
-
-I. Ser originario del municipio de que se trate o vecino de él, con residencia efectiva en su territorio no menor de tres años;
-
-II. Ser ciudadano mexicano en pleno ejercicio de sus derechos y de reconocida honorabilidad en su municipio; y
-
-III. No desempeñar ningún empleo o cargo público al momento de asumir sus funciones en la coordinación.
-
-Durante el tiempo de su encargo, el Coordinador no podrá desempeñar otro empleo, cargo o comisión públicos.
-
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
-
-Artículo 147 C.- Son atribuciones del Coordinador Municipal de Derechos Humanos:
-
-I. Recibir las quejas de la población y remitirlas a la Comisión de Derechos Humanos del Estado de México, por conducto de sus visitadurías, conforme al Reglamento Interno de ese organismo;
-
-II. Informar a la Comisión de Derechos Humanos del Estado, acerca de presumibles violaciones a los derechos humanos por actos u omisiones de naturaleza administrativa de cualquier autoridad o servidor público que residan en el municipio de su adscripción;
-
-III. Conciliar, con la anuencia de la Comisión, las quejas que por su naturaleza estrictamente administrativa lo permitan;
-
-IV. Llevar el seguimiento de las recomendaciones que el organismo estatal dirija a las autoridades o servidores públicos del ayuntamiento;
-
-V. Vigilar que se elaboren y rindan oportunamente los informes que la Comisión de Derechos Humanos del Estado de México solicite a la autoridad municipal, los cuales deberán contener la firma del servidor público respectivo;
-
-VI. Promover el respeto a los derechos humanos por parte de los servidores públicos del ayuntamiento, por medio de cursos de capacitación y actualización;
-
-VII. Fortalecer la práctica de los derechos humanos con la participación de los organismos no gubernamentales del municipio;
-
-VIII. Asesorar a las personas, en especial a los menores, personas de la tercera edad, indígenas, discapacitados y detenidos o arrestados por autoridades municipales, por la comisión de faltas administrativas, a fin de que les sean respetados sus derechos humanos;
-
-IX. Impulsar la protección de los derechos humanos, promoviendo, según las circunstancias del municipio, las disposiciones legales aplicables;
-
-X. Proponer acuerdos y circulares que orienten a los servidores públicos del ayuntamiento para que, durante el desempeño de sus funciones, actúen con pleno respeto a los derechos humanos; y
-
-XI. Organizar actividades para la población a efecto de promover el fortalecimiento de la cultura de los derechos humanos.
-
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
-
-Artículo 147 D.- El Coordinador Municipal de Derechos Humanos, en todo caso, deberá coordinar acciones con la Comisión de Derechos Humanos del Estado de México, específicamente con el Visitador General de la región a la que corresponda el municipio.
-
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
-
-Artículo 147 E.- El Coordinador Municipal de Derechos Humanos, rendirá un informe semestral de actividades al ayuntamiento reunido en sesión solemne de cabildo, debiendo remitir copia del mismo al Presidente de la Comisión de Derechos Humanos del Estado de México.
 
 ###### Artículo 125.
 
@@ -1697,7 +1699,59 @@ El ayuntamiento emitirá la declaratoria de municipalización, una vez oído a l
 
 Una vez decretada la municipalización del servicio, si el ayuntamiento carece de recursos para prestarlo, podrá concesionarlo en términos de esta Ley.
 
-### CAPITULO PRIMERO. De las Oficialías Conciliadoras y Calificadoras Municipales
+### CAPITULO DECIMO. Nombramiento, Atribuciones y Obligaciones del
+
+Coordinador Municipal de Derechos Humanos
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
+
+Artículo 147 A.- En cada municipio, el ayuntamiento respectivo designará, por el voto de las dos terceras partes de sus integrantes, a propuesta del Presidente Municipal, un Coordinador Municipal de Derechos Humanos, quien se apoyará en el personal necesario para atender la Coordinación Municipal de Derechos Humanos.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
+
+Artículo 147 B.- El Coordinador Municipal deberá reunir los siguientes requisitos:
+
+I. Ser originario del municipio de que se trate o vecino de él, con residencia efectiva en su territorio no menor de tres años;
+
+II. Ser ciudadano mexicano en pleno ejercicio de sus derechos y de reconocida honorabilidad en su municipio; y
+
+III. No desempeñar ningún empleo o cargo público al momento de asumir sus funciones en la coordinación.
+
+Durante el tiempo de su encargo, el Coordinador no podrá desempeñar otro empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
+
+Artículo 147 C.- Son atribuciones del Coordinador Municipal de Derechos Humanos:
+
+I. Recibir las quejas de la población y remitirlas a la Comisión de Derechos Humanos del Estado de México, por conducto de sus visitadurías, conforme al Reglamento Interno de ese organismo;
+
+II. Informar a la Comisión de Derechos Humanos del Estado, acerca de presumibles violaciones a los derechos humanos por actos u omisiones de naturaleza administrativa de cualquier autoridad o servidor público que residan en el municipio de su adscripción;
+
+III. Conciliar, con la anuencia de la Comisión, las quejas que por su naturaleza estrictamente administrativa lo permitan;
+
+IV. Llevar el seguimiento de las recomendaciones que el organismo estatal dirija a las autoridades o servidores públicos del ayuntamiento;
+
+V. Vigilar que se elaboren y rindan oportunamente los informes que la Comisión de Derechos Humanos del Estado de México solicite a la autoridad municipal, los cuales deberán contener la firma del servidor público respectivo;
+
+VI. Promover el respeto a los derechos humanos por parte de los servidores públicos del ayuntamiento, por medio de cursos de capacitación y actualización;
+
+VII. Fortalecer la práctica de los derechos humanos con la participación de los organismos no gubernamentales del municipio;
+
+VIII. Asesorar a las personas, en especial a los menores, personas de la tercera edad, indígenas, discapacitados y detenidos o arrestados por autoridades municipales, por la comisión de faltas administrativas, a fin de que les sean respetados sus derechos humanos;
+
+IX. Impulsar la protección de los derechos humanos, promoviendo, según las circunstancias del municipio, las disposiciones legales aplicables;
+
+X. Proponer acuerdos y circulares que orienten a los servidores públicos del ayuntamiento para que, durante el desempeño de sus funciones, actúen con pleno respeto a los derechos humanos; y
+
+XI. Organizar actividades para la población a efecto de promover el fortalecimiento de la cultura de los derechos humanos.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
+
+Artículo 147 D.- El Coordinador Municipal de Derechos Humanos, en todo caso, deberá coordinar acciones con la Comisión de Derechos Humanos del Estado de México, específicamente con el Visitador General de la región a la que corresponda el municipio.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
+
+Artículo 147 E.- El Coordinador Municipal de Derechos Humanos, rendirá un informe semestral de actividades al ayuntamiento reunido en sesión solemne de cabildo, debiendo remitir copia del mismo al Presidente de la Comisión de Derechos Humanos del Estado de México.
 
 ###### Artículo 142.
 
@@ -1713,9 +1767,7 @@ En el municipio donde residan permanentemente los Poderes del Estado, el mando d
 
 Los cuerpos de seguridad pública, bomberos y tránsito municipales se coordinarán en lo relativo a su organización, función y aspectos técnicos con la Dirección General de Seguridad Pública y Tránsito del Estado.
 
-### CAPITULO SEGUNDO. De los Recursos Administrativos
-
-> <small>(REFORMADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)</small>
+### CAPITULO PRIMERO. De las Oficialías Conciliadoras y Calificadoras Municipales
 
 ###### Artículo 145.
 
@@ -1767,13 +1819,15 @@ VII. Las que el ayuntamiento le asigne.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 1995)</small>
 
-### CAPITULO PRIMERO. Del Bando y los Reglamentos
+### CAPITULO SEGUNDO. De los Recursos Administrativos
 
-### CAPITULO SEGUNDO. De las Sanciones
+> <small>(REFORMADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)</small>
+
+### CAPITULO PRIMERO. Del Bando y los Reglamentos
 
 ## TITULO V. De la Función Conciliadora y Calificadora de los Ayuntamientos
 
-### CAPITULO UNICO. De las Responsabilidades de los Servidores Públicos Municipales
+### CAPITULO SEGUNDO. De las Sanciones
 
 ###### Artículo 148.
 
@@ -1830,6 +1884,8 @@ Para el debido cumplimiento de las atribuciones que en este capítulo se previen
 ###### Artículo 153.
 
 Las faltas temporales de los oficiales conciliadores y calificadores serán cubiertas por el secretario de la propia oficialía o por el servidor público que el ayuntamiento designe, quienes estarán habilitados para actuar en nombre del titular, siempre y cuando cumplan los requisitos de ley.
+
+### CAPITULO UNICO. De las Responsabilidades de los Servidores Públicos Municipales
 
 ###### Artículo 154.
 
@@ -2046,3 +2102,13 @@ G.G. 30 DE SEPTIEMBRE DE 1997.
 PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
+
+G.G. 15 DE FEBRERO DE 1999.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor el día siguiente de su publicación en la "Gaceta del Gobierno".
