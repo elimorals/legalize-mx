@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-4711"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-08-22"
-last_updated: "1992-06-11"
+last_updated: "1994-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 1994.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 22 de agosto de 1991.
 
@@ -341,15 +341,21 @@ DE LAS PENAS
 
 ### CAPITULO II. PRISION
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 28.
 
-La prisión consiste en la privación de la libertad personal, su duración será de tres días a treinta años, y se extinguirá en los establecimientos que señale el órgano ejecutor de sanciones.
+La prisión consiste en la privación de la libertad personal, su duración será de tres días a cincuenta años y se extinguirá en los establecimientos que señale el Organo de Ejecución de Sanciones.
 
 ### CAPITULO III. TRATAMIENTO EN LIBERTAD
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 29.
 
-El tratamiento en libertad de imputables, consiste en la aplicación de las medidas laborales, educativas y curativas, en su caso, autorizadas por la Ley y conducentes a la readaptación social del sentenciado, bajo la orientación y cuidado de la autoridad ejecutora. Su duración no podrá exceder de la correspondiente a la pena de prisión substituida.
+El tratamiento en libertad de imputables, consiste en la aplicación de las medidas laborales, educativas y curativas, en su caso, autorizadas por la Ley y conducentes a la readaptación social del sentenciado, bajo la orientación y cuidado de la autoridad ejecutora, su duración no podrá exceder de la correspondiente a la pena de prisión sustituida.
+
+Este beneficio no se concederá a los sentenciados por los delitos de homicidio calificado, parricidio, secuestro, robo de infante, violación y robo calificado.
 
 ###### ARTICULO 30.
 
@@ -357,9 +363,13 @@ Cuando el sujeto haya sido sentenciado por un delito que obedezca a la inclinaci
 
 ### CAPITULO IV. SEMILIBERTAD
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 31.
 
-La semilibertad implica alternación de períodos de privación de la libertad y de tratamiento en libertad. Se aplicará, según las circunstancias del caso del siguiente modo: Externación durante la semana de trabajo o educativa, con reclusión de fin de semana; salida de fin de semana, con reclusión durante el resto de ésta; o salida diurna, con reclusión nocturna. La duración de la semilibertad no podrá exceder de la correspondiente a la pena de prisión substituida.
+La semilibertad implica alternación de periodos de la privación de la libertad y de tratamiento en libertad. Se aplicará, según las circunstancias del caso del siguiente modo: Externación durante la semana de trabajo o educativa con reclusión de fin de semana, salida de fin de semana, con reclusión durante el resto de éste, o salida diurna con reclusión nocturna. La duración de la semilibertad no podrá exceder de la correspondiente a la pena de prisión sustituida.
+
+Este beneficio no se concederá a los sentenciados por los delitos de homicidio calificado, parricidio, secuestro, robo de infante, previsto en el párrafo 1o. del Artículo 281, violación y robo calificado.
 
 ### CAPITULO V. MULTA
 
@@ -465,11 +475,13 @@ En caso de lesiones y homicidio y a falta de pruebas específicas respecto al da
 
 ### CAPITULO VII. TRABAJOS EN FAVOR DE LA COMUNIDAD
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 48.
 
-El trabajo en favor de la comunidad consiste en la prestación de servicios no remunerados en instituciones públicas educativas o de asistencia social, o en instituciones privadas asistenciales y se desarrollará en forma que no resulte denigrante para el sentenciado, en jornadas de trabajo dentro de los períodos distintos al horario normal de sus labores, sin que exceda de la jornada extraordinaria que determine la Ley Laboral y bajo la orientación y vigilancia de la autoridad ejecutora. Cada día-multa podrá substituirse por una jornada de trabajo en favor de la comunidad.
+El trabajo en favor de la comunidad consiste en la prestación de servicios no remunerados en instituciones públicas, educativas o de asistencia social, o en instituciones privadas asistenciales y se desarrollará en forma que no resulte denigrante para el sentenciado, en jornadas de trabajo dentro de los periodos distintos al horario normal de sus labores, sin que exceda de la jornada extraordinaria que determine la ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora. Cada día-multa podrá substituirse por una jornada de trabajo en favor de la comunidad.
 
-La extensión de la jornada de trabajo será fijada por el Ejecutivo tomando en cuenta las circunstancias del caso.
+La extensión de la jornada de trabajo será fijada por el Ejecutivo tomando en cuenta las circunstancias del caso. Este beneficio no se concederá a los sentenciados por los delitos de homicidio calificado, parricidio, secuestro, robo de infante, previsto en el párrafo primero del Artículo 281, violación y robo calificado.
 
 ### CAPITULO VIII. PUBLICACION DE SENTENCIA CONDENATORIA
 
@@ -817,15 +829,17 @@ Si transcurrido el término de suspensión y el inculpado no ha cometido un nuev
 
 ### CAPITULO IX. REMISION JUDICIAL DE LA PENA
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 91.
 
-El juez, al pronunciar sentencia, podrá recomendar al Ejecutivo la remisión de la pena, si concurren las siguientes circunstancias:
+El Juez al pronunciar sentencia, podrá recomendar al Ejecutivo la remisión de la pena si concurren las siguientes circunstancias:
 
 I.- Que el inculpado haya obrado por motivos excepcionales; y
 
 II.- Que no revele peligrosidad.
 
-La remisión de la pena no exime de la obligación de reparar el daño.
+La remisión de la pena no exime de la obligación de reparar el daño. Este beneficio no se concederá a los sentenciados por los delitos de homicidio calificado, parricidio secuestro, robo de infante, previsto en el primer párrafo del Artículo 281, violación y robo calificado.
 
 ###### ARTICULO 92.
 
@@ -1909,6 +1923,8 @@ Se impndrá (sic) de tres meses a dos años de prisión y de tres a doscientos q
 
 ### CAPITULO IV. ABANDONO DE LOS FAMILIARES
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 232.
 
 Se impondrá de un mes a cuatro años de prisión y de cincuenta a cuatrocientos días-multa, al que estando unido en matrimonio no disuelto ni declarado nulo, contraiga otro matrimonio, con las formalidades legales.
@@ -1927,7 +1943,7 @@ El término para la prescripción de la bigamia, empezará a correr desde que un
 
 ###### ARTICULO 235.
 
-Se impondrá de dos meses a dos años de prisión y de tres a ciento cincuenta días-multa y privación de los derechos de familia, al que sin motivo justificado abandone a sus hijos, a su cónyuge o concubino, sin recursos para atender a sus necesidades de subsistencia.
+Se impondrá de dos a seis años de prisión y de tres a ciento cincuenta días-multa y privación de los derechos de familia al que sin motivo justificado abandone a sus hijos, a su cónyuge o concubina sin recursos para atender sus necesidades de subsistencia.
 
 ###### ARTICULO 236.
 
@@ -2075,9 +2091,11 @@ Se impondrá de dos a diez años de prisión y de cincuenta a quinientos días-m
 
 Para la aplicación de las penas dentro de los mínimos y máximos señalados, se tomará en cuenta quien fué el provocador, así como el grado de provocación.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 258.
 
-Se impondrá de quince a treinta años de prisión al inculpado de homicidio calificado.
+Se impondrá de quince a cincuenta años de prisión al autor de homicidio calificado.
 
 ###### ARTICULO 259.
 
@@ -2115,6 +2133,8 @@ Cuando dos o más personas realicen sobre otra u otras actos idóneos para lesio
 
 ### CAPITULO V. PARRICIDIO
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 264.
 
 Se impondrá de uno a diez años de prisión y de cincuenta a quinientos días-multa, al que preste auxilio o instigue a otro al suicidio.
@@ -2127,9 +2147,9 @@ Se impondrá de diez a quince años de prisión y de cien a quinientos días-mul
 
 ###### ARTICULO 266.
 
-Se impondrá de veinte a treinta años de prisión, al que dolosamente prive de la vida a cualquier ascendiente en línea recta, teniendo conocimiento el inculpado del parentesco.
+Se impondrá de veinte a cincuenta años de prisión al que dolosamente prive de la vida a cualquier ascendiente en línea recta, teniendo conocimiento el inculpado del parentesco.
 
-Se equipara al delito de parricidio y se le impondrá la misma pena al que dolosamente prive de la vida al cónyuge o cualquier descendiente consanguíneo en línea recta sea legítimo o natural, sabiendo el inculpado al (sic) parentesco.
+Se impondrá de veinte a treinta años de prisión al que dolosamente prive de la vida al cónyuge o cualquier descendiente en línea recta, sea legítimo o natural, sabiendo el inculpado del parentesco.
 
 ### CAPITULO VII. ABORTO
 
@@ -2229,6 +2249,8 @@ Se impondrá de uno a seis meses de prisión y de tres a treinta y cinco días-m
 
 ### CAPITULO I. PRIVACION DE LIBERTAD
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 278.
 
 Se impondrá de dos a ocho años de prisión y de tres a trescientos cincuenta días-multa, si de las omisiones a que se refieren los tres artículos anteriores, resultare la muerte. Si resultaren lesiones se impondrá hasta las dos terceras partes de la pena que correspondería a ésta.
@@ -2239,45 +2261,49 @@ DELITOS CONTRA LA LIBERTAD Y SEGURIDAD
 
 ### CAPITULO II. SECUESTRO
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 279.
 
-Se impondrá de tres meses a cuatro años de prisión y de treinta a trescientos días-multa:
+Se impondrá de dos a cuatro años de prisión y de cien a cuatrocientos días-multa:
 
 I.- Al particular que prive a una persona de su libertad;
 
-II.- Al particular que, por cualquier medio obligue a una persona a prestarle trabajos y servicios personales sin la debida retribución o celebre un contrato que ponga en condiciones de servidumbre a otro, o afecte su libertad de cualquier modo; y
+II.- Al particular que por cualquier medio obligue a una persona a prestarle trabajos y servicios personales sin la debida retribución o celebre un contrato que ponga en condiciones de servidumbre a otro o afecte su libertad de cualquier modo; y
 
 III.- Al particular que por medio de la violencia o la coacción impida a una persona ejecutar un acto lícito o la obligue a ejecutar lo que no quiere, sea lícito o ilícito.
 
 ### CAPITULO III. ROBO DE INFANTE
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 280.
 
-Se impondrá de cinco a treinta años de prisión y de cien a quinientos días-multa, al que por cualquier medio prive a otro de la libertad, con el fin de obtener rescate o causar daños o perjuicios al secuestrado o a otra persona relacionada con éste.
+Se impondrá de diez a cincuenta años de prisión y de doscientos a quinientos días-multa, al que por cualquier medio prive a otro de la libertad, con el fin de obtener rescate o causar daños o perjuicios al secuestrado o a otra persona relacionada con éste.
 
-La pena señalada en el párrafo anterior, se atenuará o agravará en los términos de las siguientes fracciones:
+La pena señalada en el párrafo anterior, se atenuará o gravará (sic) en los términos de las siguientes fracciones:
 
-I.- Se impondrá de tres meses a cuatro años de prisión y de treinta a trescientos días-multa, al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cinco días, cuando no le haya causado ningún daño o perjuicio, ni a persona relacionada con éste.
+I.- Se impondrá de tres meses a cinco años de prisión y de treinta a trescientos días multa al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cinco días, cuando no le haya causado ningún daño o perjuicio, ni a personas relacionadas con éste;
 
-II.- Se impondrá de seis meses a seis años de prisión y de cien a cuatrocientos días-multa, al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cinco días, cuando le haya causado lesiones de las previstas en la fracción I del Artículo 246 de este Código.
+II.- Se impondrá de seis meses a ocho años de prisión y de cien a cuatrocientos días-multa, al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cinco días, cuando le haya causado lesiones de las previstas en la fracción I del Artículo 246 de éste Código;
 
-III.- Se impondrá de tres a ocho años de prisión y de ciento cincuenta a quinientos días-multa, al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cinco días, cuando le haya causado lesiones de las previstas en la fracción II del Artículo 246 de este Código o de las que pusieren en peligro la vida.
+III.- Se impondrá de tres a diez años de prisión y de ciento cincuenta a quinientos días-multa al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cinco días, cuando le haya causado lesiones de las previstas en la fracción II del Artículo 246 de este Código o de las que pusieren en peligro la vida;
 
-IV.- Se impondrá de cinco a quince años de prisión y de doscientos a quinientos días-multa, al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cinco días, cuando le haya causado lesiones de las previstas en las fracciones I, II y III del Artículo 249 de este Código o de las que pusieren en peligro la vida.
+IV.- Se impondrá de diez a veinte años de prisión y de doscientos a quinientos días-multa al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cinco días, cuando le haya causado lesiones de las previstas en las fracciones I, II y III del Artículo 249 de este Código o de las que pusieren en peligro la vida; y
 
-V.- Se impondrá de quince a treinta años de prisión y de trescientos a quinientos días-multa, cuando con motivo del secuestro falleciere el secuestrado o persona relacionada con éste.
+V.- Se impondrá de veinte a cincuenta años de prisión y de trescientos a quinientos días-multa cuando con motivo del secuestro falleciere el secuestrado o persona relacionada con éste.
 
-Se equipara al secuestro y se impondrán las penas señaladas en este artículo, al que detenga en calidad de rehén a una persona y amenace con privarla de la vida o con causarle un daño, sea a aquélla o a terceros, para obligar a la Autoridad a realizar o a dejar de realizar un acto de cualquier naturaleza.
+Se equipara al secuestro y se impondrán las penas señaladas en este artículo, al que detenga en calidad de rehén a una persona y amenace con privarla de la vida o con causarle daño, sea a aquella o a terceros, para obligar a la autoridad a realizar o dejar de realizar un acto de cualquier naturaleza.
 
-Siendo el secuestro un delito de los que se persiguen de oficio, la Autoridad tendrá en todos los casos la obligación de intervenir en la investigación de los hechos y persecución del inculpado, tan pronto como tenga conocimiento del ilícito y aún cuando el ofendido o sus familiares se opongan a ello, se impondrá de tres meses a tres años de prisión y de veinte a doscientos días-multa a los servidores públicos que teniendo el deber de hacerlo, no procedan en los términos de esta disposición.
+Siendo el secuestro un delito de los que se persiguen de oficio, la autoridad tendrá en todos los casos la obligación de intervenir en la investigación de los hechos y persecución del inculpado, tan pronto como tenga conocimiento del ilícito y aún cuando el ofendido o sus familiares se opongan a ello, se impondrá de tres meses a tres años de prisión y de veinte a doscientos días-multa a los servidores públicos que teniendo el deber de hacerlo, no procedan en los términos de esta disposición.
 
 ### CAPITULO IV. RAPTO
 
 ###### ARTICULO 281.
 
-Se impondrá de cinco a treinta años de prisión a quien siendo un extraño a su familia se apodere de un menor de doce años de edad. Se impondrá de seis meses a cinco años de prisión, cuando el delito lo cometa un familiar que obre con mala fe y no por móviles afectivos.
+Se impondrá de diez a cincuenta años de prisión a quien siendo un extraño a su familia se apodere de un menor de doce años de edad. Se impondrá de seis meses a cinco años de prisión, cuando el delito lo cometa un familiar que obre con mala fe o por móviles afectivos.
 
-Se impondrá de tres meses a cuatro años de prisión, si el menor es restituído espontáneamente a su familia o a la autoridad dentro de tres días y sin causar perjuicio. Se impondrá de seis meses a seis años de prisión, si se causare perjuicio.
+Se impondrá de tres meses a cuatro años de prisión si el menor es restituido espontáneamente a su familia o a la autoridad dentro de tres días y sin causar perjuicio. Se impondrá de seis meses a seis años de prisión si se causare perjuicio.
 
 ### CAPITULO V. EXTORSION
 
@@ -2297,6 +2323,8 @@ Cuando el rapto se acompañe con otro delito perseguible de oficio, si se proced
 
 ### CAPITULO VI. ASALTO
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 284.
 
 Se impondrá de seis meses a ocho años de prisión y de cien a quinientos días-multa, al que sin derecho obligue a otro a hacer, tolerar o dejar de hacer algo, obteniendo un lucro para sí o para otro.
@@ -2305,11 +2333,11 @@ Se impondrá de seis meses a ocho años de prisión y de cien a quinientos días
 
 ###### ARTICULO 285.
 
-Se impondrá de dos a siete años de prisión y de diez a ciento cincuenta días-multa, independientemente de los grados o medios de violencia empleados, al que en lugar solitario o despoblado haga uso de la violencia sobre una persona o grupo de personas con el propósito de causarles un mal, lograr un beneficio o su asentimiento para cualquier fin.
+Al que en despoblado o en paraje solitario haga uso de la violencia sobre una persona con el propósito de causar un mal, obtener un lucro o de exigir su asentimiento para cualquier fin y cualesquiera que sean los medios y el grado de violencia que se emplee, e independientemente de cualquier hecho delictuoso que resulte cometido, se le castigará con prisión de dos a seis años y de diez a ciento cincuenta días-multa.
 
-Se impondrá de tres a ocho años de prisión y de cuarenta a cuatrocientos días-multa, si el asalto lo realizan dos o más personas.
+Se impondrá de tres a ocho años de prisión y de cuarenta a trescientos días-multa si el asalto lo realizan dos o más personas.
 
-Se impondrá de veinte a treinta años de prisión a los jefes y de quince a treinta años a los demás participantes, si los salteadores atacaren una población.
+La pena será de diez a treinta años de prisión para el que en caminos o carreteras haga uso de la violencia en contra de los ocupantes de un vehículo, ya sea de transporte público o particular. Si los salteadores atacaren una población se aplicarán de veinte a treinta años de prisión a los cabecillas o jefes y de quince a veinte años a los demás.
 
 ### CAPITULO VIII. AMENAZAS
 
@@ -2978,3 +3006,13 @@ Este Decreto entrará en vigor al tercer día siguiente al de su Publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al presente.
+
+P.O. 17 DE JULIO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los tres días de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Todos los procesos y recursos relativos a los delitos especificados en el presente Decreto, que en cualquier instancia estén pendientes de resolución al inicio de la vigencia del mismo, se sujetarán para los efectos de las sanciones privativas de libertad y pecuniarias que se apliquen, a lo que establecían las disposiciones correspondientes antes de la presente reforma y adiciones.
