@@ -4,7 +4,7 @@ identifier: "NLE-decreto-que-crea-el-centro-de-estudios-legislativos-16170"
 country: "mx"
 rank: "decreto"
 publication_date: "1994-10-24"
-last_updated: "1994-10-24"
+last_updated: "2000-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 
 LEY QUE CREA EL CENTRO DE ESTUDIOS LEGISLATIVOS
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO
 
 Ley publicada en el Periódico Oficial, el 24 de octubre de 1994.
+
+N. DE E., LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER LEGISLATIVO, P.O. 16 DE AGOSTO DEL 2000.
 
 Por este ordenamiento se crea el Centro de Estudios Legislativos como órgano desconcentrado del H. Congreso del Estado, cuyo objetivo principal será asesorar y apoyar la función legislativa.
 
@@ -78,3 +80,19 @@ Los recursos financieros y materiales que sean necesarios para el funcionamiento
 T R A N S I T O R I O:
 
 UNICO.- A partir de la fecha que se apruebe el presente Decreto, el Director y el personal que integra la Dirección de Asesores formarán parte del Centro de Estudios Legislativos.
+
+P.O. 16 DE AGOSTO DE 2000.
+
+LEY ORGANICA DEL PODER LEGISLATIVO
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los Diputados que a la presente fecha integran la Gran Comisión pasarán a formar parte de la Comisión de Coordinación y Régimen Interno a partir del inicio de la vigencia del presente Decreto. Así mismo, cuando en una Ley, Reglamento o cualquier otra disposición se haga referencia a la "Gran Comisión" se entenderá que se refieren a la "Comisión de Coordinación y Régimen Interno."
+
+Artículo Tercero .- Se abroga el Decreto N° 347 por el que se Crea el Centro de Estudios Legislativos, publicado en el Periódico Oficial del Estado el 24 de octubre de 1994.
+
+Artículo Cuarto .- La transferencia de unidades administrativas de una dependencia a otra, con motivo de las reformas materia de este Decreto, se realizará incluyendo los recursos humanos, financieros y materiales que la unidad administrativa respectiva haya utilizado para la atención de los asuntos que conoció.
+
+Artículo Quinto.- Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán en términos de la legislación correspondiente.
+
+Artículo Sexto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
