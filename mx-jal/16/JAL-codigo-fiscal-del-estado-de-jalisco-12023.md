@@ -4,7 +4,7 @@ identifier: "JAL-codigo-fiscal-del-estado-de-jalisco-12023"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-16"
-last_updated: "2003-06-12"
+last_updated: "2004-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO FISCAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2004.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 16 de diciembre de 1997.
 
@@ -1415,11 +1415,11 @@ La constitución y la distribución de los fondos a que se refiere el artículo 
 
 I. El fondo de productividad directa, se formará con el 60% de los ingresos que el Estado obtenga efectivamente, proveniente de multas que hayan quedado firmes, impuestas por infracciones a las leyes fiscales, cuando dicha infracción se conozca con motivo del ejercicio de las facultades de comprobación de las autoridades fiscales, a excepción de las multas que tenga otro destino específico.
 
-Este fondo se distribuirá entre los servidores públicos de la Secretaría de Finanzas que intervienen directamente, en el ejercicio de las facultades de comprobación, determinación, notificación y ejecución relativas a las multas que forman el citado fondo;
-
 II. El fondo de productividad indirecta se formará con el 38% de las multas a que se refiere el artículo anterior, a excepción de aquéllas que tengan otro destino específico.
 
-Este fondo se distribuirá entre las autoridades fiscales a que se refiere el artículo 22 de este Código, a excepción de las señaladas en las fracciones V y VIII del propio artículo; asimismo se distribuirá entre los servidores públicos que intervengan indirectamente en la obtención de las multas a que se refiere la fracción anterior;
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2004)</small>
+
+Este fondo se distribuirá entre las autoridades fiscales a que se refiere el artículo 22 de este Código, a excepción de las señaladas en las fracciones I, III, V, VI y VIIII del propio artículo. Asimismo se distribuirá entre los servidores públicos, que intervengan indirectamente en la obtención de las multas a que se refiere la fracción anterior.
 
 III. El fondo complementario se formará con los remanentes que resulten de las cantidades no distribuidas durante el año, provenientes de los fondos previstos por las fracciones anteriores.
 
@@ -2272,3 +2272,9 @@ P.O. 12 DE JUNIO DE 2003.
 PRIMERO.- Este decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- Las disposiciones relativas a la responsabilidad patrimonial del Estado, entrarán en vigor el 1º de Enero del 2004, previa vigencia de la Ley de Responsabilidad Patrimonial del Estado de Jalisco.
+
+P.O. 10 DE FEBRERO DE 2004.
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Las percepciones de las personas que se autorizan en el presente decreto, no deberán contravenir las recomendaciones emitidas por el Comité técnico de Valoración Salarial del Estado y sus Municipios, y el Artículo Noveno Transitorio del diverso que contiene el Presupuesto de Egresos del Estado de Jalisco, para el ejercicio fiscal 2004.
