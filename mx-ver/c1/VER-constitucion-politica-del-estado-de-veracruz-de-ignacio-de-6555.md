@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1997-03-20"
+last_updated: "1997-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MARZO DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE SEPTIEMBRE DE 1997.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -585,11 +585,11 @@ Los Diputados de mayoría relativa y de representación proporcional, como repre
 
 La Legislatura se renovará en su totalidad cada tres años y comenzará a funcionar, en cada trienio, el día 1º de diciembre inmediato posterior a las elecciones.
 
-> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 1997)</small>
 
 ###### Artículo 52.
 
-En cada año tendrá un período de sesiones ordinarias, prorrogables por treinta días, que principiará en la fecha expresada en el artículo precedente y concluirá el 31 de diciembre.
+En cada año tendrá un periodo de sesiones ordinarias, prorrogable por treinta días, que principiará en la fecha expresada en el artículo precedente y concluirá el último día de febrero del año siguiente.
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
@@ -1135,7 +1135,7 @@ II. Ser mayor de 25 años.
 
 III. No haber sido condenado por sentencia ejecutoria, por la comisión de delitos de naturaleza intencional.
 
-Para ocupar el puesto de Secretario General de Gobierno, son necesarios los mismos requisitos que para ser electo Gobernador, siendo indispensable, además, que la persona designada sea titulada en la ciencia del Derecho. El Subsecretario de Gobierno deberá reunir los mismos requisitos que el Secretario General de Gobierno.
+Para ocupar el puesto de Secretario General de Gobierno, son necesarios los mismos requisitos que para ser electo Gobernador, siendo indispensable, además, que la persona designada sea titulada en la ciencia del Derecho. El Subsecretario de Gobierno deberá reunir los mismos requisito que el Secretario General de Gobierno.
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
@@ -2547,6 +2547,16 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en la
 
 Se derogan todas las disposiciones que se opongan a este ordenamiento.
 
+G.O. 12 DE OCTUBRE DE 1993.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial", Órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a las reformas a que se refiere el presente decreto.
+
 G.O. 16 DE DICIEMBRE DE 1993.
 
 ###### ARTICULO PRIMERO.
@@ -2617,13 +2627,13 @@ G.O. 20 DE MARZO DE 1997.
 
 DECRETO No. 57.
 
-###### ARTICULO SEGUNDO.
-
-El Presidente del Tribunal Superior, continuará en funciones y ejercerá las atribuciones que esta Constitución le otorga hasta en tanto se elige al Presidente de acuerdo con lo dispuesto en el artículo décimo tercero transitorio.
-
 ###### ARTICULO PRIMERO.
 
 La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Presidente del Tribunal Superior, continuará en funciones y ejercerá las atribuciones que esta Constitución le otorga hasta en tanto se elige al Presidente de acuerdo con lo dispuesto en el artículo décimo tercero transitorio.
 
 ###### ARTICULO TERCERO.
 
@@ -2774,3 +2784,9 @@ I. En el año electoral de 1997, el financiamiento público ordinario y extraord
 La misma regla se seguirá para calcular y otorgar el financiamiento público que corresponda a los partidos que hubiesen obtenido su registro con fecha posterior a la última elección de Diputados o los que no hubieren alcanzado en la misma el dos por ciento de la votación total emitida en el estado; y,
 
 II. En el año electoral de 1998, se tomará como base para el cálculo del financiamiento público que corresponda a cada partido político el resultado de las elecciones de Ayuntamientos que se celebrarán en el año de 1997.
+
+G.O. 29 DE SEPTIEMBRE DE 1997.
+
+Primero. Esta ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, órgano del Gobierno del Estado.
+
+Segundo. La LVII Legislatura del Estado mantendrá su periodo de sesiones ordinarias entre el 1º de octubre y el 31 de diciembre, prorrogable por treinta días, conforme a la Legislación en vigor al momento de su instalación.
