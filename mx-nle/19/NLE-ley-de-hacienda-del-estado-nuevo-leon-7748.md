@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1999-12-31"
+last_updated: "2000-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -865,7 +865,9 @@ La autoridad recaudadora podrá utilizar como referencia para determinar el valo
 
 El valor comercial determinado conforme a lo anterior, será publicado en el Periódico Oficial del Estado por lo menos una vez cada año.
 
-Los particulares que realicen las operaciones a que se refiere este capítulo, dentro del término a que se refiere el artículo 109, podrán inconformarse con el valor publicado, mediante escrito de inconformidad que presentarán ante la propia Secretaría, acompañando el avalúo y los demás elementos de prueba necesarios, debiendo emitirse la resolución en un término no menor de veinte días, misma que podrá ser impugnada en los términos de la Ley de Justicia Administrativa del Estado.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+Los particulares que realicen las operaciones a que se refiere este capítulo, podrán inconformarse con el valor determinado por la Secretaría de Finanzas y Tesorería General del Estado dentro del plazo de 30 días hábiles, contados a partir del día en que surta efectos la notificación del valor o al en que tenga conocimiento del mismo. Para este efecto, los particulares presentarán escrito ante la propia Secretaría, por el cual manifiesten los motivos de su inconformidad, acompañando los elementos de prueba que estimen necesarios. La Secretaría emitirá su resolución en un plazo no mayor de veinte días, misma que podrá ser impugnada en los términos previstos por la Ley de Justicia Administrativa del Estado.
 
 En el caso de adquisición de vehículos modelo del año de aplicación de la Ley, se tendrá como valor base de este impuesto, el 90% del valor de factura original expedido por el Distribuidor, sin incluir el Impuesto al Valor Agregado.
 
@@ -881,11 +883,11 @@ Para los efectos de este impuesto se considerará, salvo prueba en contrario, qu
 
 Este impuesto se causará, liquidará y pagará, con tasa del 1.8% sobre la base determinada de conformidad con las disposiciones precedentes.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 109.
 
-El pago del Impuesto deberá efectuarse en la Oficina Recaudadora correspondiente o ante la Institución Bancaria autorizada, dentro de los 30 días naturales siguientes a la celebración de la operación.
+El pago del impuesto deberá efectuarse en la oficina recaudadora correspondiente o ante la institución bancaria autorizada, dentro de los treinta días hábiles siguientes a la celebración de la operación salvo en el caso de que dentro del término legal se presente escrito de inconformidad, caso en el cual el plazo a que se refiere este artículo iniciará a partir del día en que surta efecto la notificación de la resolución recaída al escrito de inconformidad.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -1189,9 +1191,9 @@ Es objeto de este Impuesto la realización de pagos en efectivo o en especie por
 
 Para los efectos de este gravamen se consideran remuneraciones al trabajo personal, todas las contraprestaciones, cualquiera que sea el nombre con el que se les designe, ya sea ordinarias o extraordinarias, incluyendo viáticos, gastos de representación, comisiones, premios, gratificaciones, fondo de ahorro, donativos, primas, aguinaldo, tiempo extra, despensas, alimentación y otros conceptos de naturaleza semejante, aún cuando se eroguen en favor de personas que, teniendo su domicilio en Nuevo León, por motivo de su trabajo, presten trabajo personal subordinado fuera del Estado. Son también objeto de este impuesto los pagos realizados a los Directores, Gerentes, Administradores, Comisarios, Miembros del (sic) los Consejos Directivos o de Vigilancia de Sociedades o Asociaciones.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-También son objeto de este impuesto, los pagos que se realicen por concepto de honorarios a personas que presten servicios preponderantemente a un prestatario, siempre que los mismos se lleven a cabo en las instalaciones de este último.
+También son objeto de este impuesto, los pagos que se realicen por concepto de honorarios a personas que presten servicios preponderantemente a un prestatario.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1223,9 +1225,9 @@ El pago del impuesto deberá efectuarse a más tardar el día diecisiete del mes
 
 La obligación de presentar la declaración subsistirá aún cuando no se hayan efectuado erogaciones gravadas, excepto cuando el contribuyente presente el aviso de suspensión respectivo.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-Los contribuyentes que en el año inmediato anterior hayan efectuado pagos mensuales, cuyo monto anual globalizado del impuesto no hubiere excedido de 100 cuotas, podrán realizar el pago del impuesto en forma trimestral a más tardar el día quince de los meses de Abril, Julio, Octubre y Enero.
+Los contribuyentes que en el año inmediato anterior hayan efectuado pagos mensuales, cuyo monto anual globalizado del impuesto no hubiere excedido de 100 cuotas, podrán realizar el pago del impuesto en forma trimestral a más tardar el día diecisiete de los meses de Abril, Julio, Octubre y Enero.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1737,7 +1739,7 @@ IV.- El rompope elaborado con leche, huevo, azúcar y aguardiente o ron.
 
 ###### ARTICULO 217.
 
-Las personas a quienes se impone la obligación de retener o de pagar el impuesto , lo enterarán en efectivo en la Tesorería General o en las Oficinas Recaudadoras en cuya jurisdicción se encuentre su domicilio, haciendo uso de las formas oficialmente aprobadas.
+Las personas a quienes se impone la obligación de retener o de pagar el impuesto, lo enterarán en efectivo en la Tesorería General o en las Oficinas Recaudadoras en cuya jurisdicción se encuentre su domicilio, haciendo uso de las formas oficialmente aprobadas.
 
 Con el fin de probar que el impuesto ha sido enterado, las oficinas citadas entregarán gratuitamente a los sujetos del impuesto el número de marbetes suficientes para adherirlos en las botellas sobre las que ya se cubrió el impuesto.
 
@@ -2005,7 +2007,11 @@ Todas las personas físicas o morales, públicas o privadas, están obligadas al
 
 El importe de las tasas, que para cada derecho señalan los siguientes Capítulos, deberá ser cubierto en las Oficinas Recaudadoras de la jurisdicción donde se preste el servicio.
 
-ARTICULUO (SIC) 263.- La Dependencia, funcionario o empleado que preste el serviico (sic) por el cual se paguen los derechos, procederá a la prestación del mismo, al presentarle el interesado el recibo que acredite su pago. Ningún otro comprobante justificará el pago.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 263.
+
+La Dependencia, funcionario o empleado que preste el servicio por el cual se paguen los derechos, procederá a la prestación del mismo, al presentarle el interesado el recibo o comprobante que acredite su pago.
 
 ARTICULUO (SIC) 264.- En aquellos casos en que, por circunstancias especiales, el Ejecutivo del Estado considere conveniente que el pago del servicio prestado deba hacerse ante la propia Dependencia o funcionario que lo prestó, deberá mediar acuerdo que se publicará en el Periódico Oficial, previamente a la vigencia de la autorización respectiva.
 
@@ -2013,7 +2019,7 @@ ARTICULUO (SIC) 264.- En aquellos casos en que, por circunstancias especiales, e
 
 El funcionario o empleado público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto anteriormente, será responsable de su pago.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ### CAPITULO DECIMO CUARTO. Del Impuesto sobre Expendios de Bebidas Alcohólicas
 
@@ -2169,6 +2175,10 @@ c) Si no se consigna valor alguno o éste es indeterminado, se pagará por hoja 
 
 d) En ningún caso la cantidad a pagar será menor a ….. 3 cuotas
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+Ni mayor a ….. 220 cuotas
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 Cuando una parte del valor sea determinada y la otra no, se cubrirán por la determinada conforme a los incisos a) y b) y por la indeterminada la cuota que señala el inciso c). En los casos de donación sin valor, se procederá a practicar avalúo por la Secretaría de Finanzas y Tesorería General del Estado y, según el valor resultante se aplicará la tarifa correspondiente.
@@ -2279,9 +2289,9 @@ XV.- Por la utilización de sistemas digitalizados:
 
 a) Por búsqueda de antecedentes registrales respecto de condominios, fraccionamientos o programas de regularización …… 8 cuotas
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-b) Expedición de copias de registro de antecedentes, por cada una... .70 cuotas
+b) Expedición de copias de registro de antecedentes, por cada una ….. 0.07 cuotas
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -2303,31 +2313,35 @@ XVIII.- Por la expedición de informes sobre la existencia o inexistencia de Tes
 
 Las inscripciones que se realicen con motivo de aseguramientos o embargos ordenados por las autoridades judiciales federales, la Procuraduría General de la República o las Agencias del Ministerio Público Federales, no generarán pago de los derechos a que se refiere este artículo. Así mismo, no se pagarán los derechos previstos en la fracción IV de este artículo, tratándose de resoluciones judiciales o de Tribunales de Conciliación y Arbitraje, ya sea federales o estatales, que ordenen la cancelación de la inscripción de un embargo trabado sobre bienes o derechos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 272.
 
-Por autorización de apertura de:
+Por autorización de:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
 I.- Protocolos:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-a) Para notarías públicas ubicadas en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, por cada libro autorizado 17.5 cuotas
+a) Para notarías públicas con demarcación notarial en el primer Distrito Registral del Estado, por cada folio autorizado ….. 0.16 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-b) Para notarías públicas ubicadas en los demás municipios, por cada libro autorizado 5.5 cuotas
+b) Para notarías públicas con demarcación notarial en los demás Distritos Registrales del Estado, por cada folio autorizado ….. 0.080 cuotas
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
 II.- Libros de Actas Fuera de Protocolo:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-a) Para notarías públicas ubicadas en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, por cada libro autorizado 17.5 cuotas
+a) Para notarías públicas con demarcación notarial en el primer Distrito Registral del Estado, por cada libro autorizado ….. 17.5 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-b) Para notarías públicas ubicadas en los demás municipios, por cada libro autorizado 5.5 cuotas
+b) Para notarías públicas con demarcación notarial en los demás Distritos Registrales del Estado, por cada libro autorizado ….. 5.5 cuotas
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2341,23 +2355,23 @@ Por autorización de cierre de:
 
 I.- Protocolos:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-a) Para notarías públicas ubicadas en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, por cada libro autorizado ….. 8.5 cuotas
+a) Para notarías públicas con demarcación notarial en el primer Distrito Registral del Estado, por cada folio autorizado ….. 0.10 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-b) Para notarías públicas ubicadas en los demás municipios, por cada libro autorizado ….. 3.5 cuotas
+b) Para notarías públicas con demarcación notarial en los demás Distritos Registrales del Estado, por cada folio autorizado ….. 0.065 cuotas
 
 II.- Libros de Actas Fuera de Protocolo:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-a) Para Notarías Públicas ubicadas en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, por cada libro autorizado ….. 8.5 cuotas
+a) Para notarías públicas con demarcación notarial en el primer Distrito Registral del Estado, por cada libro autorizado ….. 8.5 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-b) Para notarías públicas ubicadas en los demás municipios, por cada libro autorizado ….. 3.5 cuotas
+b) Para notarías públicas con demarcación notarial en los demás Distritos Registrales del Estado, por cada libro autorizado ….. 3.5 cuotas
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2477,43 +2491,63 @@ IV.- Por la expedición de informes sobre la existencia o inexistencia de testam
 
 Por los servicios prestados por la Secretaría de Educación.
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
 I.- Constancias de Estudios:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+1. Educación Básica:
 
-a) Por la legalización de certificados de escuelas técnicas y comerciales...1 cuota
+a) Constancias, Certificaciones o Revalidaciones de Estudios de Primaria
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+y Secundaria, por cada una ….. 1 cuota
 
-b) Por la legalización de certificados o expedición de duplicados de nivel medio superior 2 cuotas
+2. Escuelas Técnicas y Comerciales:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+a) Certificación de escuelas técnicas y comerciales, así como de escuelas técnicas de capacitación para el trabajo, con estudios no mayores de dos años con diploma ….. 1 cuota
 
-c) Por la revalidación y equivalencia de estudios de nivel medio superior y profesional, por materia .5 cuotas
+b) Certificado terminal de escuelas técnicas comerciales con estudios de tres años ….. 2 cuotas
 
-En ningún caso, la cantidad a pagar será inferior a 2.5 cuotas
+3. Nivel Medio Superior:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+a) Legalización de certificados de preparatoria, así como por Registro y legalización de certificaciones de nivel medio superior ….. 2 cuotas
 
-d) Por la legalización e inscripción de certificados de estudios de nivel medio
+b) Equivalencias de estudios, por materia ….. 0.5 cuotas
 
-superior 2 cuotas
+En ningún caso la cantidad a pagar será menor a …… 2.5 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+c) Revalidación de estudios ….. 2.5 cuotas
 
-e) Por la legalización e inscripción de certificados de estudios profesionales 10.5 cuotas
+d) Registro y legalización de actas de examen profesional ….. 5 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+e) Registro y legalización de títulos de técnicos medios y profesionales ….. 6.5 cuotas
 
-f) Por la inscripción y legalización de títulos profesionales 13.5 cuotas
+f) Certificación de estudios de escuelas desaparecidas, así como, por la legalización de certificaciones de escuelas desaparecidas ….. 2 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+g) Constancias sobre liberación de servicio social de escuelas desaparecidas ….. 1 cuota
 
-g) Por la inscripción y legalización de títulos técnicos medios 5 cuotas
+4. Educación Superior:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+a) Legalización de certificados, así como el registro y legalización de certificados y registro y legalización de actas de examen profesional, de nivel superior, por cada trámite ….. 10.5 cuotas
 
-h) Por el trámite para cédula profesional 5 cuotas
+b) Equivalencias de estudios, por materia ….. 0.5 cuotas
+
+En ningún caso la cantidad a pagar será menor a ….. 2.5 cuotas
+
+c) Revalidación de estudios, por materia ….. 0.5 cuotas
+
+En ningún caso la cantidad a pagar será menor a ….. 2.5 cuotas
+
+d) Registro y legalización de títulos profesionales y de técnico superior profesional ….. 13.5 cuotas
+
+e) Registro y legalización de actas de examen profesional, así como de certificados, de técnico superior profesional, por trámite ….. 10.5 cuotas
+
+f) Certificados de estudios, de actas de examen profesional y transcripciones de títulos profesionales, de escuelas desaparecidas, por cada trámite ….. 3 cuotas
+
+g) Constancias de Servicio Social de escuelas desaparecidas ….. 1.5 cuotas
+
+5. Ejercicio Profesional:
+
+a) Trámite de Cédula Profesional, así como Autorización para el ejercicio de especialidad, por cada trámite ….. 5 cuotas
 
 > <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY, P.O. 29 DE JULIO DE 1994</small>
 
@@ -2747,9 +2781,9 @@ d) Por placas de demostración, semestralmente 10.5 cuotas
 
 XIV.- Por reposición de tarjeta de circulación 2 cuotas
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-XV.- Por expedición de licencia de manejar o su reposición:
+XV.- Por expedición de licencia de manejar:
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -2758,6 +2792,14 @@ a) Con vigencia de un año 2.9 cuotas
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 b) Con vigencia de tres años 6 cuotas
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+Por duplicado de licencia de manejar:
+
+a) La expedida con vigencia de un año ….. 1.45 cuotas
+
+b) La expedida con vigencia de tres años ….. 3 cuotas
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -2799,7 +2841,7 @@ La vigencia de las licencias de manejar expirará en el término de un año o de
 
 (REUBICADO [N. DE E. ANTES CAPITULO QUINTO], P.O. 31 DE DICIEMBRE DE 1993)
 
-### CAPITULO SEGUNDO. De los Derechos por Servicios Prestados por la Secretaría del Trabajo
+### CAPITULO SEGUNDO. De los Derechos por Servicios Prestados por la Secretaría de Desarrollo Humano y del Trabajo
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -2945,6 +2987,8 @@ X.- Por expedición de certificaciones relativas a los derechos patrimoniales de
 
 ## TITULO CUARTO. De los Productos
 
+(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], P.O. 31 DE DICIEMBRE DE 1993)
+
 ### CAPITULO SEXTO. De los Derechos por Servicios Prestados por la Secretaría de Desarrollo Urbano y Obras Públicas
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
@@ -2972,8 +3016,6 @@ VII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 VIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
 IX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
-
-(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], P.O. 31 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 278.
 
@@ -3140,6 +3182,18 @@ Con motivo de la modificación al sistema de vigencia de las licencias de conduc
 ###### ARTICULO QUINTO.
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1983).
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO SEXTO.
+
+Tratándose del impuesto Sobre Enajenación de Automóviles, Camiones y Demás Vehículos de Motor generado antes del 1 de Enero del 2000, los adquirentes serán responsables solidarios solamente respecto del pago del Impuesto que se haya causado en las operaciones en las que haya intervenido.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO SEPTIMO.
+
+En caso de que la Secretaría de Desarrollo Urbano y Obras Públicas del Estado realice la prestación de los servicios mencionados en el artículo 276 bis de la Ley de Hacienda del Estado vigente hasta el 31 de Diciembre de 1999, los derechos se causarán y pagarán conforme al citado artículo, no obstante que sean prestados con posterioridad a esa fecha.
 
 Por lo tanto, envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -3446,3 +3500,13 @@ P.O. 31 DE DICIEMBRE DE 1999.
 Artículo Primero.- El presente Decreto entrará en vigor el 1o. de Enero del año 2000.
 
 Artículo Segundo.- Durante el año 2000 no se cubrirán los ingresos previstos en los artículos 281 y 282 de la Ley de Hacienda del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2000.
+
+Artículo Primero.- El presente Decreto entrará en vigor el 1o. de enero del año 2001.
+
+Artículo Segundo.- Durante el año 2001 no se cubrirán los ingresos previstos en los artículos 281 y 282 de la Ley de Hacienda del Estado.
+
+Artículo Tercero.- En caso de que durante el año 2001, se autoricen libros de protocolo, a los que hacen referencia los artículos 272 fracción I y 272 bis, fracción I, de la Ley de Hacienda del Estado vigente hasta el 31 de Diciembre del 2000, los derechos se causarán y pagarán conforme a los citados artículos.
+
+Artículo Cuarto.- Durante el año 2001, los Derechos por Servicios prestados en el Registro Público de la Propiedad y del Comercio se cubrirán a una tarifa especial de 60 cuotas, en la inscripción de documentos en los que se consignen adquisiciones provenientes de dación en pago o adjudicación judicial o fiduciaria, realizadas por contribuyentes que por disposición legal no pueden conservar la propiedad de dichos bienes, tales como Instituciones Bancarias o Nacionales de Crédito, Organizaciones Auxiliares de Crédito y Casas de Bolsa.
