@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2001-09-07"
+last_updated: "2002-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 58 ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ-LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE SEPTIEMBRE DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE FEBRERO DE 2002.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -163,9 +163,9 @@ VI. Secretaría de Comunicaciones
 
 VII. Secretaría de Desarrollo Regional
 
-> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, G.O. 12 DE FEBRERO DE 2002)</small>
 
-VIII. Secretaría de Desarrollo Agropecuario, Forestal y Pesquero
+VIII. Secretaría de Desarrollo Agropecuario, Rural, Forestal Pesca y Alimentación;
 
 > <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
@@ -705,6 +705,8 @@ II. Apoyar los programas de investigación tecnológica industrial y fomentar su
 
 III. Promover, fomentar y, en su caso, participar en la creación de parques, corredores y ciudades industriales en el Estado;
 
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO NÚMERO 269, PUBLICADO EN LA G.O. 12 DE FEBRERO DE 2002, EN TODOS AQUELLOS ORDENAMIENTOS EN QUE APAREZCA EL NOMBRE DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, FORESTAL Y PESQUERO, SE DEBERÁ ENTENDER COMO SECRETARÍA DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL, PESCA Y ALIMENTACIÓN.]</small>
+
 IV. En coordinación con la Secretaría de Desarrollo Agropecuario, Forestal y Pesquero, participar en los programas de desarrollo de la industria piscícola en el Estado;
 
 V. Promover y fomentar en los términos de las leyes de la materia, la inversión, las coinversiones y la instalación de empresas convenientes al Estado de Veracruz, que generen fuentes de empleo;
@@ -877,15 +879,21 @@ XXVIII. Conocer del ejercicio de acción popular, del procedimiento administrati
 
 XXIX. Proponer y apoyar la ejecución de los planes y programas relativos a la reforestación en el Estado, procurando la conservación de las áreas verdes, bosques, parques estatales y zonas recreativas en coordinación con los gobiernos federal y municipales.
 
-De la Secretaría de Desarrollo Agropecuario, Forestal y Pesquero
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 12 DE FEBRERO DE 2002)</small>
+
+De la Secretaría de Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación
+
+> <small>(REFORMADO, G.O. 12 DE FEBRERO DE 2002)</small>
 
 ###### Artículo 29.
 
-La Secretaría de Desarrollo Agropecuario, Forestal y Pesquero, es la dependencia responsable de coordinar la política de desarrollo agrícola, ganadero, forestal y pesquero en la Entidad.
+La Secretaría de Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación es la dependencia responsable de coordinar la política de Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación en la entidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE FEBRERO DE 2002)</small>
 
 ###### Artículo 30.
 
-Son atribuciones del Secretario de Desarrollo Agropecuario, Forestal y Pesquero, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
+Son atribuciones del Secretario de Desarrollo Agropecuario, Rural Forestal, Pesca y Alimentación conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
 
 I. Fomentar la producción agrícola, frutícola, forestal y obras de infraestructura hidráulica, así como apoyar, vigilar y, en su caso, ejecutar los programas que en esta materia deriven del Plan Veracruzano de Desarrollo;
 
@@ -990,6 +998,10 @@ L. Promover y apoyar el desarrollo de la infraestructura pesquera, así como la 
 LI. Fomentar la capacitación y la asistencia técnica de los productores agropecuarios, forestales y pesqueros del Estado, a fin de que éstos incursionen en el avance tecnológico en sistemas de organización propicios para su desarrollo; y
 
 LII. Promover programas tendientes a la integración de actividades económicas para el desarrollo rural del Estado, que permitan la generación de empleos eventuales y permanentes.
+
+> <small>(ADICIONADA, G.O. 12 DE FEBRERO DE 2002)</small>
+
+LIII. Promover programas tendientes a la integración de actividades económicas para el Desarrollo Rural Sustentable del Estado, que permitan la generación de empleos eventuales y permanentes.
 
 De la Secretaría de Salud y Asistencia
 
@@ -1402,3 +1414,17 @@ PRIMERO. Con objeto de adecuar las disposiciones legales en la materia, como con
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El personal, así como los recursos materiales y financieros destinados a las funciones de prevención y readaptación social con que actualmente cuenta la Secretaría de Gobierno, pasarán a la Secretaría de Seguridad Pública.
+
+G.O. 12 DE FEBRERO DE 2002.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 269 QUE REFORMA LOS ARTÍCULOS 9, FRACCIÓN VIII, 29 Y 30; Y ADICIONA EL ARTÍCULO 30 CON UNA FRACCIÓN LIII, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ-LLAVE”.]
+
+Primero. Las presentes reformas entrarán en vigor al día siguientes (sic) de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan a las presentes reformas.
+
+Tercero. En un plazo no mayor de 60 días hábiles, contados a partir de la vigencia de las presentes reformas, se adecuará el Reglamento Interior de la Dependencia así como su organización y demás normatividad.
+
+Cuarto. En tanto no se expidan las normas reglamentarias correspondientes, seguirá siendo aplicable en lo que no se oponga a estas reformas, la normatividad vigente.
+
+Quinto. En todos aquellos ordenamientos en que aparezca el nombre de la Secretaría de Desarrollo Agropecuario, Forestal y Pesquero, se deberá entender como Secretaría de Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación.
