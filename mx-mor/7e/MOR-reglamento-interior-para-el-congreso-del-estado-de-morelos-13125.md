@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-para-el-congreso-del-estado-de-morelos-1312
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-11-04"
-last_updated: "2001-09-26"
+last_updated: "2003-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR PARA EL CONGRESO DEL ESTADO, PUBLICADO EN EL P.O. DE 27 DE AGOSTO DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial "Tierra y Libertad", el 4 de noviembre de 1998.
 
@@ -317,7 +319,7 @@ Las comisiones podrán pedir, por conducto de su presidente, a los archivos y of
 
 Pueden las Comisiones para ilustrar su juicio en el despacho de los negocios que se les encomienden, entrevistarse con servidores públicos de los diferentes niveles de Gobierno.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 41.
 
@@ -367,21 +369,21 @@ Para el despacho de los asuntos que se les encomiende, las comisiones podrán in
 
 ### CAPITULO II. DE LAS SESIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 48.
 
 Las Sesiones del Congreso tendrán el carácter de ordinarias, extraordinarias y solemnes, pudiéndose constituir en permanentes. Todas las sesiones serán públicas, podrán ser secretas cuando lo acuerde la Asamblea. El Congreso durante los períodos ordinarios no podrá suspender sus sesiones por más de una semana.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 49.
 
 Las sesiones comenzarán a la hora en que fueron convocadas y durarán hasta cinco horas, pero por disposición del Pleno podrán ser prorrogadas indefinidamente. Cuando por iniciativa de algún Diputado se solicite se prorrogue la Sesión se someterá su petición a la aprobación de la asamblea.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 50.
 
@@ -683,7 +685,7 @@ ASISTENTE A LAS SESIONES
 
 En la sesión que se celebre el cuarto domingo de septiembre de cada año, el Titular del Poder Ejecutivo del Estado, presentará informe acerca de la situación que guarde la administración pública del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 93.
 
@@ -927,7 +929,7 @@ El Tesorero no podrá efectuar ningún pago que no esté autorizado por el Presi
 
 El anteproyecto de presupuesto del Congreso del Estado será elaborado por la Comisión de Régimen Interno y Concertación Política y deberá ser suficiente para el adecuado desarrollo de sus actividades y el eficaz cumplimiento de sus fines.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 129.
 
@@ -1029,7 +1031,7 @@ DIP. EMMA MARGARITA ALEMÁN OLVERA
 
 RÚBRICAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 16 DE AGOSTO DE 2000.
 
@@ -1054,3 +1056,15 @@ EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL DÍA DE SU EXPEDICIÓN.
 ###### ARTÍCULO SEGUNDO.
 
 REMÍTASE EL PRESENTE DECRETO AL TITULAR DEL PODER EJECUTIVO ESTATAL PARA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL "TIERRA Y LIBERTAD", ÓRGANO DE DIFUSIÓN DEL GOBIERNO DEL ESTADO DE MORELOS.
+
+P.O. 27 DE AGOSTO DE 2003.
+
+Artículo Primero.- El presente reglamento entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
+
+Artículo Segundo.- Se abroga el Reglamento Interior para el Congreso del Estado de Morelos, aprobado el 29 de octubre de 1998 y publicado en el Periódico Oficial "Tierra y Libertad", número 3947 de fecha 4 de noviembre de 1998.
+
+Artículo Tercero.- Para efectos de la aplicación de los artículos 177 fracción III, 179 y 201, en tanto no sea creado el Órgano Superior de Auditoría Gubernamental, realizará las funciones la Contaduría Mayor de Hacienda del Congreso del Estado.
+
+Artículo Cuarto.- Para efecto de su divulgación, publíquese en el Periódico Oficial "Tierra y Libertad", órgano oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+Artículo Quinto.- Los órganos administrativos que por disposición de este Reglamento deban elaborar disposiciones internas, contarán con un plazo de 60 días hábiles, para presentar el proyecto correspondiente a la Conferencia para la Dirección y Programación de los Trabajos Legislativos o Comités, según sea el caso.
