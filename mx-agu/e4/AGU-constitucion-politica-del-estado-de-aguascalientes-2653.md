@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1926-05-02"
+last_updated: "1926-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 1926.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 1926.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -633,6 +633,12 @@ El presente decreto comenzará a surtir sus efectos desde la fecha de su expedic
 
 P.O. 2 DE MAYO DE 1926.
 
-I.- Los actuales ciudadanos Diputados, durarán en su encargo hasta el 15 de septiembre del año de 1928.
+I.- (DEROGADO, P.O. 22 DE JULIO DE 1926)
 
-II.- En dicho año se renovarán totalmente los miembros del H. Congreso, en las elecciones ordinarias que se verifiquen de conformidad con la Ley, debiendo comenzar sus funciones los Diputados electos, el 16 de septiembre y durarán en su cargo, los del número impar, cuatro años y los del número par dos años.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1926)</small>
+
+II.- En el año de 1928 se renovarán totalmente los miembros del H. Congreso, en las elecciones ordinarias que se verifiquen de conformidad con la Ley, debiendo comenzar sus funciones los Diputados Electos el 16 de septiembre del propio año y durarán en su cargo, los de número impar cuatro años y los de número par dos años.
+
+P.O. 22 DE JULIO DE 1926.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
