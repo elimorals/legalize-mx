@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2002-05-15"
+last_updated: "2002-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2002.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1771,6 +1771,32 @@ IV.- El Ministerio Público en todos los casos.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
+C) ADOPCION PLENA
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+D) ADOPCION INTERNACIONAL
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
+
+Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
 B) ADOPCION SIMPLE
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
@@ -1824,32 +1850,6 @@ III.- Si incumple con su deber de proporcionar alimentos al adoptante.
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 383 BIS.- La resolución judicial que revoque la adopción, restituye las cosas al estado que guardaban antes de autorizarse aquélla. La resolución se comunicará al Oficial del Registro Civil respectivo para que cancele el acta relativa.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-C) ADOPCION PLENA
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-D) ADOPCION INTERNACIONAL
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
-
-Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
 
 ## TITULO OCTAVO. DE LA PATRIA POTESTAD
 
@@ -7297,7 +7297,9 @@ DE LAS DIVERSAS ESPECIES DE CONTRATOS
 
 ## TITULO PRIMERO. DE LOS CONTRATOS PREPARATORIOS
 
-LA PROMESA
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE JULIO DE 2002)</small>
+
+### CAPITULO UNICO. DE LA PROMESA
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
 
@@ -7307,9 +7309,13 @@ LA PROMESA
 
 2127.- El contrato de promesa será unilateral cuando sólo una de las partes se obliga a celebrar el contrato; será bilateral, cuando las dos partes se obligan a ello.
 
-2128.- La promesa de contrato sólo da origen a obligaciones de hacer consistentes en celebrar el contrato respectivo de acuerdo con lo ofrecido, salvo lo establecido en los artículos 2130 y 2131 de este Código.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2002)</small>
 
-2129.- Para que la promesa de contratar sea válida debe constar por escrito, limitarse a cierto tiempo y precisarse en ella los elementos constitutivos del contrato definitivo.
+2128.- La promesa de contrato sólo da origen a obligaciones de hacer, consistentes en celebrar el contrato respectivo de acuerdo con lo ofrecido, debiendo observarse lo establecido en los artículos 2130 y 2131 de este Código.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2002)</small>
+
+2129.- Para que la promesa de contratar sea válida debe constar por escrito y limitarse a cierto tiempo. Además, deben precisarse en ella los elementos esenciales del contrato futuro.
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
 
@@ -7318,6 +7324,8 @@ LA PROMESA
 En este caso, el contrato de promesa deberá otorgarse en escritura pública, si el precio del inmueble o derecho real excede del equivalente a quinientas veces el salario mínimo. En caso contrario, bastará un escrito privado debidamente ratificado ante fedatario público.
 
 2131.- Si el promitente o el causahabiente, en caso de promesa inscrita en el Registro Público de la Propiedad, rehusan firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el Juez; salvo el caso de que la celebración del contrato sea legalmente imposible, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
+
+## TITULO SEGUNDO. DE LA COMPRAVENTA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -7366,8 +7374,6 @@ En caso de desavenencia entre los contratantes, dos peritos nombrados uno por ca
 2151.- Son nulas las ventas que produzcan la concentración o acaparamiento, en una o en pocas manos, de artículos de consumo necesario, y que tengan por objeto obtener el alza de los precios de esos artículos.
 
 2152.- Las ventas al menudeo de bebidas embriagantes hechas al fiado en cantinas, no dan derecho para exigir su precio.
-
-## TITULO SEGUNDO. DE LA COMPRAVENTA
 
 ### CAPITULO II. DE LA MATERIA DE LA COMPRAVENTA
 
@@ -7587,6 +7593,20 @@ Cuando los bienes vendidos son de los mencionados en las fracciones I y II del a
 
 2223.- En las enajenaciones judiciales que hayan de verificarse para dividir cosa común, se observará lo dispuesto para la partición entre herederos.
 
+## TITULO TERCERO. DE LA PERMUTA
+
+2224.- La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2133.
+
+2225.- Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dio, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
+
+2226.- El permutante que sufra evicción de la cosa que recibió en cambio, podrá reivindicar la que dio, si se halla aún en poder del otro permutante o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
+
+2227.- Lo dispuesto en el artículo anterior no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame el que sufrió la evicción.
+
+2228.- Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compraventa, en cuanto no se opongan a los artículos anteriores.
+
+## TITULO CUARTO. DE LAS DONACIONES
+
 ### CAPITULO I. DE LAS DONACIONES EN GENERAL
 
 2229.- Donación es un contrato por el que una persona transfiere a otra, gratuitamente, una parte o la totalidad de sus bienes presentes.
@@ -7642,20 +7662,6 @@ Si excede de quinientas veces el salario mínimo, la donación deberá otorgarse
 2251.- Si la donación fuere de todos los bienes, el donatario será responsable de todas las deudas del donante anteriormente contraídas; pero sólo hasta la cantidad concurrente con los bienes donados y siempre que las deudas tengan fecha auténtica.
 
 2252.- Salvo que el donador dispusiere otra cosa, las donaciones que consistan en prestaciones periódicas se extinguen con la muerte del donante.
-
-## TITULO TERCERO. DE LA PERMUTA
-
-2224.- La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2133.
-
-2225.- Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dio, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
-
-2226.- El permutante que sufra evicción de la cosa que recibió en cambio, podrá reivindicar la que dio, si se halla aún en poder del otro permutante o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
-
-2227.- Lo dispuesto en el artículo anterior no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame el que sufrió la evicción.
-
-2228.- Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compraventa, en cuanto no se opongan a los artículos anteriores.
-
-## TITULO CUARTO. DE LAS DONACIONES
 
 ### CAPITULO II. DE LAS PERSONAS QUE PUEDEN RECIBIR DONACIONES
 
@@ -7733,6 +7739,8 @@ II.- Si el donatario rehusa socorrer, según el valor de la donación, al donant
 
 2279.- Revocada o reducida una donación por inoficiosa, el donatario sólo responderá de los frutos desde que fuere demandado.
 
+## TITULO QUINTO. DEL MUTUO
+
 ### CAPITULO I. DEL MUTUO SIMPLE
 
 2280.- El mutuo es un contrato por el cual el mutuante se obliga a transferir la propiedad de una suma de dinero o de otras cosas fungibles al mutuario, quien se obliga a devolver otro tanto de la misma especie y calidad.
@@ -7771,8 +7779,6 @@ II.- La restitución se hará en el domicilio del mutuario, observándose en su 
 
 2288.- No se declararán nulas las deudas contraídas por el menor para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
 
-## TITULO QUINTO. DEL MUTUO
-
 ### CAPITULO II. DEL MUTUO CON INTERES
 
 2289.- Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géneros.
@@ -7794,6 +7800,8 @@ II.- La restitución se hará en el domicilio del mutuario, observándose en su 
 2294.- Si el mutuario debe intereses y abona algunas cantidades, se aplicarán éstas a los vencidos; y lo que de ellas sobre se imputará al capital.
 
 2295.- El recibo del capital dado sin reserva de intereses, establece a favor del deudor la presunción de haberlos pagado.
+
+## TITULO SEXTO. DEL ARRENDAMIENTO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -7836,8 +7844,6 @@ Tratándose de fincas destinadas a habitación no podrá exceder de diez años y
 2309.- Si la trasmisión de la propiedad se hiciere por causa de utilidad pública, el contrato se rescindirá, pero el arrendador y el arrendatario deberán ser indemnizados por el expropiador, conforme a lo que establezca la ley respectiva.
 
 2310.- Los arrendamientos de bienes del Estado, municipales o de establecimientos públicos, estarán sujetos a las disposiciones del derecho administrativo y en lo que no lo estuvieren, a las disposiciones de este Título.
-
-## TITULO SEXTO. DEL ARRENDAMIENTO
 
 ### CAPITULO II. DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDADOR
 
@@ -8155,6 +8161,54 @@ V.- En los demás casos previstos legalmente.
 
 2395.- En los casos de expropiación y de ejecución judicial, se observará lo dispuesto en los artículos 2355, 2356 y 2357.
 
+## TITULO SEPTIMO. DEL COMODATO
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1983)</small>
+
+2396.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible y el otro contrae la obligación de restituirla individualmente.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
+
+El contrato de comodato deberá otorgarse por escrito ante dos testigos. Si tiene por objeto un predio rústico cuyo valor del avalúo o valor catastral exceda de quinientas veces el salario mínimo, el contrato se otorgará en escritura pública.
+
+2397.- Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituidas idénticamente.
+
+2398.- Los tutores, curadores y en general todos los administradores de bienes ajenos, no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
+
+2399.- Sin permiso del comodante no puede el comodatario conceder a un tercero el uso de la cosa entregada en comodato.
+
+2400.- El comodatario adquiere el uso, pero no los frutos y accesiones de la cosa prestada.
+
+2401.- El comodatario está obligado a poner toda diligencia en la conservación de la cosa, y es responsable de todo deterioro que ella sufra por su culpa.
+
+2402.- Si el deterioro es tal que la cosa no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior a ella, abonando su propiedad al comodatario.
+
+2403.- El comodatario responde de la pérdida de la cosa si la emplea en uso diverso o por más tiempo del convenido, aun cuando aquélla sobrevenga por caso fortuito.
+
+2404.- Si la cosa perece por caso fortuito, de que el comodatario haya podido garantizarla empleando la suya propia, o si no pudiendo conservar más que una de las dos, ha preferido la suya, responde de la pérdida de la otra.
+
+2405.- Si la cosa ha sido estimada al prestarla, su pérdida, aun cuando sobrevenga por caso fortuito, es de cuenta del comodatario, quien deberá entregar el precio si no hay convenio expreso en contrario.
+
+2406.- Si la cosa se deteriora por el solo efecto del uso para que fue prestada, y sin culpa del comodatario, no es éste responsable del deterioro.
+
+2407.- El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesiten para el uso y la conservación de la cosa prestada.
+
+2408.- Tampoco tiene derecho el comodatario para retener la cosa a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
+
+2409.- Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
+
+2410.- Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso o plazo, incumbe al comodatario.
+
+2411.- El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
+
+2412.- Si durante el préstamo el comodatario ha tenido que hacer para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, este tendrá obligación de reembolsarlo.
+
+2413.- Cuando la cosa prestada tiene defectos tales que causen perjuicios al que se sirve de ella, el comodante es responsable de éstos, si conocía los defectos y no dio aviso oportuno al comodatario.
+
+2414.- El comodato termina por la muerte del comodatario.
+
+## TITULO OCTAVO. DEL DEPOSITO Y DEL SECUESTRO
+
 ### CAPITULO I. DEL DEPOSITO
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
@@ -8215,54 +8269,6 @@ La responsabilidad de que habla este artículo no excederá de cincuenta veces e
 
 2437.- Las fondas, cafés, casas de baño y otros establecimientos semejantes, no responden de los efectos que introduzcan los parroquianos, a menos que los pongan bajo el cuidado de los empleados del establecimiento.
 
-## TITULO SEPTIMO. DEL COMODATO
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1983)</small>
-
-2396.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible y el otro contrae la obligación de restituirla individualmente.
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
-
-El contrato de comodato deberá otorgarse por escrito ante dos testigos. Si tiene por objeto un predio rústico cuyo valor del avalúo o valor catastral exceda de quinientas veces el salario mínimo, el contrato se otorgará en escritura pública.
-
-2397.- Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituidas idénticamente.
-
-2398.- Los tutores, curadores y en general todos los administradores de bienes ajenos, no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
-
-2399.- Sin permiso del comodante no puede el comodatario conceder a un tercero el uso de la cosa entregada en comodato.
-
-2400.- El comodatario adquiere el uso, pero no los frutos y accesiones de la cosa prestada.
-
-2401.- El comodatario está obligado a poner toda diligencia en la conservación de la cosa, y es responsable de todo deterioro que ella sufra por su culpa.
-
-2402.- Si el deterioro es tal que la cosa no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior a ella, abonando su propiedad al comodatario.
-
-2403.- El comodatario responde de la pérdida de la cosa si la emplea en uso diverso o por más tiempo del convenido, aun cuando aquélla sobrevenga por caso fortuito.
-
-2404.- Si la cosa perece por caso fortuito, de que el comodatario haya podido garantizarla empleando la suya propia, o si no pudiendo conservar más que una de las dos, ha preferido la suya, responde de la pérdida de la otra.
-
-2405.- Si la cosa ha sido estimada al prestarla, su pérdida, aun cuando sobrevenga por caso fortuito, es de cuenta del comodatario, quien deberá entregar el precio si no hay convenio expreso en contrario.
-
-2406.- Si la cosa se deteriora por el solo efecto del uso para que fue prestada, y sin culpa del comodatario, no es éste responsable del deterioro.
-
-2407.- El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesiten para el uso y la conservación de la cosa prestada.
-
-2408.- Tampoco tiene derecho el comodatario para retener la cosa a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
-
-2409.- Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
-
-2410.- Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso o plazo, incumbe al comodatario.
-
-2411.- El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
-
-2412.- Si durante el préstamo el comodatario ha tenido que hacer para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, este tendrá obligación de reembolsarlo.
-
-2413.- Cuando la cosa prestada tiene defectos tales que causen perjuicios al que se sirve de ella, el comodante es responsable de éstos, si conocía los defectos y no dio aviso oportuno al comodatario.
-
-2414.- El comodato termina por la muerte del comodatario.
-
-## TITULO OCTAVO. DEL DEPOSITO Y DEL SECUESTRO
-
 ### CAPITULO II. DEL SECUESTRO
 
 2438.- El secuestro es el depósito de una cosa litigiosa en poder de un tercero, hasta que se decida a quién debe entregarse.
@@ -8278,6 +8284,8 @@ El contrato de comodato deberá otorgarse por escrito ante dos testigos. Si tien
 2443.- Secuestro judicial es el que se constituye por decreto del juez.
 
 2444.- El secuestro judicial se rige por las disposiciones del Código de Procedimientos Civiles, y, en su defecto, por las mismas del secuestro convencional.
+
+## TITULO NOVENO. DEL MANDATO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -8356,8 +8364,6 @@ III.- Cuando en virtud de él haya de ejecutar el mandatario, a nombre del manda
 En este caso, el mandatario es el obligado directamente en favor de la persona con quien ha contratado, como si el asunto fuere personal suyo. Exceptúase el caso en que se trate de cosas propias del mandante.
 
 Lo dispuesto en este artículo se entiende sin perjuicio de las acciones entre el mandante y el mandatario.
-
-## TITULO NOVENO. DEL MANDATO
 
 ### CAPITULO II. DE LAS OBLIGACIONES DE MANDATARIO CON RESPECTO AL MANDANTE
 
@@ -8525,6 +8531,8 @@ En el caso de que el mandato sea irrevocable, puede pactarse también que aún a
 
 2503.- Lo que el mandatario, sabiendo que ha cesado el mandato, hiciere con un tercero que ignora el término de la procuración, no obliga al mandante, fuera del caso previsto en el artículo 2496.
 
+## TITULO DECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
+
 ### CAPITULO I. DE LA PRESTACION DE SERVICIOS PROFESIONALES
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
@@ -8552,8 +8560,6 @@ Las partes tienen libertad para fijar, de común acuerdo, la retribución por lo
 2512.- Siempre que un profesionista, técnico o especialista no pueda continuar prestando sus servicios, deberá avisar oportunamente a quien lo contrató, siendo responsable de los daños y perjuicios que se causen por no dar el aviso con oportunidad. Respecto de los abogados se observará además lo dispuesto en el artículo 2488.
 
 2513.- El que preste servicios profesionales, sólo es responsable, hacia las personas a quienes sirve, por negligencia, impericia o dolo, sin perjuicio de las medidas de defensa social que merezca en caso de infracción antisocial.
-
-## TITULO DECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
 
 ### CAPITULO II. DEL CONTRATO DE OBRAS A PRECIO ALZADO
 
@@ -9711,6 +9717,8 @@ II.- Si los acreedores hubieren hecho novación de la deuda o de cualquier otro 
 
 2885.- Los acreedores que obtuvieren la separación de bienes, no podrán entrar al concurso del heredero, aunque aquéllos no alcancen a cubrir sus créditos.
 
+## TITULO PRIMERO. DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS
+
 ### CAPITULO III. DE ALGUNOS ACREEDORES PREFERENTES SOBRE DETERMINADOS BIENES
 
 2886.- Con el valor de los bienes que se mencionan serán pagados preferentemente:
@@ -9734,8 +9742,6 @@ VIII.- EI crédito que provenga del precio de los bienes vendidos y no pagados, 
 Tratándose de bienes muebles, cesará la preferencia si hubieren sido inmovilizados;
 
 IX.- Los créditos anotados en el Registro de la Propiedad, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencia sobre los bienes anotados y solamente en cuanto a créditos posteriores.
-
-## TITULO PRIMERO. DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS
 
 ### CAPITULO IV. ACREEDORES DE PRIMERA CLASE
 
@@ -9847,6 +9853,8 @@ En el caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio c
 
 2900.- No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, aparecer inscritos a la vez en favor de dos o más personas distintas, a menos que éstas sean copartícipes.
 
+## TITULO SEGUNDO. DEL REGISTRO PUBLICO
+
 ### CAPITULO III. DEL MODO DE HACER EL REGISTRO Y DE LAS PERSONAS QUE TIENEN DERECHO DE PEDIR LA INSCRIPCION
 
 2901.- La inscripción de los títulos en el Registro puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir, o por el Notario que haya autorizado la escritura de que se trate.
@@ -9912,8 +9920,6 @@ III.- Si cometen omisiones al extender las certificaciones mencionadas, salvo si
 2912.- Hecho el registro, serán devueltos los documentos al que los presentó, con nota de quedar registrados en tal fecha y bajo tal número.
 
 2913.- El Código Administrativo establecerá los derechos y obligaciones de los Registradores, así como las fórmulas y demás requisitos que deben llenar las inscripciones.
-
-## TITULO SEGUNDO. DEL REGISTRO PUBLICO
 
 ### CAPITULO IV. DEL REGISTRO DE LAS INFORMACIONES DE DOMINIO
 
@@ -10224,3 +10230,9 @@ P.O. 15 DE MAYO DE 2002.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
 PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JULIO DE 2002.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
