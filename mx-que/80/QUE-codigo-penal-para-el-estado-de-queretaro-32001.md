@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "1992-06-04"
+last_updated: "1992-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO 1992.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987.
 
@@ -825,7 +825,7 @@ VII.- Desempeñar en el plazo que prudentemente se le fije, trabajo lícito;
 
 VIII.- No abusar del consumo de bebidas embriagantes y abstenerse del empleo de estupefacientes; psicotrópicos, substancias volátiles inhalables y cualquier otra que produzca efectos similares, salvo por prescripción médica, y
 
-IX.- Pagar o garantizar la reparación de los daños y perjuicios causados.
+IX.- Pagar lo garantizar a reparación de los daños y perjuicios causados.
 
 ###### ARTICULO 91.
 
@@ -1553,7 +1553,7 @@ Igual sanción se aplicará al que cometa robo de documentos que contengan oblig
 
 ###### ARTICULO 185.
 
-La pena que corresponda al robo simple se reducirá hasta la mitad al que halle en lugar público un bien mostrenco, se apodere de él y no lo entregue a la autoridad que corresponda (sic) dentro del término señalado en el Código Civil.
+La pena que corresponda al robo simple se reducirá hasta la mitad al que halle en lugar público un bien mostrenco, se apodere de él y no lo entregue a la autoridad que correponda (sic) dentro del término señalado en el Código Civil.
 
 No habrá lugar a la disminución a que se refiere este Artículo, si al que se apoderó de la cosa le fuere reclamada por quien tenga derecho a ella y se rehúse a entregarla.
 
@@ -1849,7 +1849,7 @@ VIII.- Declare falsamente el fallecimiento de una persona en el acta respectiva.
 
 ### CAPITULO IV. DELITOS CONTRA LA VIA PUBLICA Y SITIOS DE USO COMUN
 
-ARTICULO 229 BIS.- Al que utilice la vía pública o sitios de uso común, tales como calles, avenidas, andadores públicos, plazas, estacionamientos y otros, independientemente de su denominación, o los bienes destinados a servicio público, para obtener lucro o ventaja económica ofreciendo o enajenando bienes muebles o inmuebles o servicios de cualquier índole, sin la debida autorización de las autoridades competentes, se le impondrá prisión de tres meses a tres años y de 3 a 300 días de multa.
+ARTICULO 229 BIS.- (DEROGADO, P.O. 6 DE AGOSTO DE 1992)
 
 ###### ARTICULO 215.
 
@@ -2449,7 +2449,7 @@ Se impondrán de 6 meses a 6 años de prisión y hasta 30 días multa, al servid
 
 I.- Promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión, o
 
-II.- Indebidamente solicite o promueva alguna resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera de las personas a que se hace referencia en la fracción III del Artículo anterior.
+II.- Indebidamente solicite o promueva alguna resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para si o para cualquiera de las personas a que se hace referencia en la fracción III del Artículo anterior.
 
 ###### ARTICULO 273.
 
@@ -2786,3 +2786,13 @@ Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico
 ###### ARTICULO TERCERO.
 
 No será exigible el requisito de querella incorporado con motivo de las reformas al artículo 207 del Código Penal para el Estado, en los procedimientos ya instaurados o resueltos el día en que entre en vigor esta Ley.
+
+P.O. 6 DE AGOSTO DE 1992
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
