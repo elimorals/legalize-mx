@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-la-comision-de-agua-potable-y-alcantarillado-del-5121"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-29"
-last_updated: "1994-04-29"
+last_updated: "1995-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY DE LA COMISION DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE ACAPULCO, NUMERO 51
 
-LEY DE LA COMISION DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE ACAPULCO, NUMERO 51.
+LEY DE LA COMISION DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE ACAPULCO, NUMERO 51
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 29 de abril de 1994.
 
@@ -69,7 +69,7 @@ Al Artículo 74, en el texto de la fracción XI se le cambió el término "atend
 
 ###### ARTICULO 74.
 
-. . . .
+......
 
 Fracción XI.- los propietarios o poseedores del predio que no reporten oportunamente, dentro de los tres días siguientes a su inicio, alguna fuga de agua localizada en el interior del inmueble.
 
@@ -91,7 +91,7 @@ Al Artículo 30, en el párrafo segundo se estableció un plazo de diez días pa
 
 ###### ARTICULO 30.
 
-.- .
+.....
 
 Cuando el organismo operador no cumpla con la obligación establecida en este precepto, el Ayuntamiento de Acapulco deberá hacer la reparación de que se trate dentro de los diez días naturales siguientes al del término o plazo que corresponde a la Comisión y con cargo a esta última, se impondrá multa al servidor o servidores públicos que incumplan con alguna de las obligaciones establecidas en este Artículo de conformidad con lo dispuesto en la parte final de la fracción I del Artículo 75 de esta Ley.
 
@@ -99,7 +99,7 @@ Al Artículo 51 se le modificaron los textos y contenidos de las fracciones III 
 
 ###### ARTICULO 51.
 
-.- .
+.....
 
 Fracción III.- Toma de agua para uso doméstico popular es la instalación en predios localizados en Colonias populares y zonas suburbanas y rural y cuyos propietarios o poseedores tengan baja capacidad de pago, considerándose como tales a los usuarios cuyo ingreso económico familiar no exceda de cinco veces el salario mínimo diario vigente en Acapulco, Guerrero.
 
@@ -109,7 +109,7 @@ Al Artículo 74, se le modificó el contenido de la fracción XII, facultando al
 
 ###### ARTICULO 74.
 
-.- .
+.....
 
 Fracción XII.- Los que desperdicien el agua, para lo cual el Consejo de Administración señalará los casos concretos en un manual que al efecto expida.
 
@@ -133,11 +133,11 @@ Y por lo que se refiere a la fracción IV, la Comisión consideró de suma impor
 
 ###### ARTICULO 75.
 
-.- .
+.....
 
 Fracción I.- Multas, en el caso de usuarios domésticos se podrán aplicar de uno a treinta días de salario mínimo vigente en el área del Municipio de Acapulco, y de diez a quinientos días de salario mínimo, en los demás casos. Tratándose de servidores públicos que incumplan con lo dispuesto por esta Ley, se aplicará multa de cinco a veinte días de salario mínimo y en caso de reincidencia, suspensión de labores hasta por diez días sin goce de sueldo y separación de su empleo, si la infracción es grave, a juicio de la Comisión.
 
-Fracción IV.- .
+Fracción IV.- .....
 
 Las sanciones previstas en las fracciones II, III y IV de este Artículo no podrán aplicarse cuando se trate de usuarios domésticos o de quienes presten servicios públicos o cuando se ponga en riesgo la salud pública. Las sanciones a que se refiere este Artículo se impondrán sin perjuicio de que la Comisión inicie el cobro ejecutivo de los créditos vencidos. Para determinar las sanciones, la Comisión tomará en consideración la gravedad de la falta, las condiciones económicas del infractor y la reincidencia.
 
@@ -217,11 +217,15 @@ VIII.- Celebrar todo tipo de actos y operaciones lícitos relacionados con su pa
 
 IX.- Coordinar sus acciones con las dependencias y entidades de la Administración Pública Federal y del Estado y concertar con los sectores social y privado, para la planeación y ejecución de programas y planes en materia de agua potable, alcantarillado sanitario y plantas de tratamiento de aguas;
 
-X.- Aprobar las tarifas o cuotas por los servicios públicos de agua potable y alcantarillado, tratamiento, saneamiento y manejo de lodos, así como determinar, notificar, cobrar o gestionar el cobro de las mismas por la prestación de los citados servicios; asimismo, en su caso, aprobar las tarifas a las que se sujetarán las prestaciones al público en la conducción, distribución, suministro o transportación de agua potable que realicen los particulares o empresas concesionarias;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+X.- Proponer a través del Ejecutivo Estatal al H. Congreso del Estado para su aprobación, las tarifas o cuotas por los Servicios de Agua Potable y Alcantarillado, tratamiento de aguas residuales, manejo y disposición de lodos, así como notificar y gestionar el cobro de las mismas por la prestación de los citados servicios; asimismo en su caso, también proponer al Congreso Local las tarifas a que se sujetarán las prestaciones al público de la conducción, distribución, suministro o transportación de agua potable que realizan los particulares o empresas concesionarias;
 
 XI.- Administrar los recursos humanos, materiales y financieros en los términos que señalen las leyes y demás disposiciones administrativas aplicables.
 
-XII.- Vigilar en el ámbito de su competencia la aplicación de esta Ley; la Ley del Sistema Estatal de Agua Potable y Alcantarillado del Estado de Guerrero y las demás leyes y disposiciones administrativas en materia de agua potable, alcantarillado y plantas de tratamiento de agua, y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+XII.- Vigilar en el ámbito de su competencia la aplicación de esta Ley, la Ley del Sistema Estatal de Agua Potable y Alcantarillado del Estado de Guerrero, las Leyes Federal y Estatal del Equilibrio Ecológico y la Protección al Ambiente, la Ley Federal de Derechos en Materia de Aguas, así como la debida observancia de las Normas Oficiales Mexicanas correspondientes y demás disposiciones administrativas en materia de Agua Potable, Alcantarillado Sanitario y plantas de tratamiento, y
 
 XIII.- Las demás atribuciones que señala esta Ley y otras disposiciones legales aplicables.
 
@@ -247,9 +251,11 @@ V.- Los demás bienes y derechos que formen parte de su patrimonio por cualquier
 
 Para los efectos de esta Ley, serán ingresos propios de la Comisión, las cantidades que los usuarios paguen por la prestación de los servicios públicos de agua potable, alcantarillado sanitario y plantas de tratamiento de aguas (potable y residual), así como aquellos que perciba por el pago extemporáneo, multas, otros ingresos por servicios técnico-administrativos y demás accesorios legales. Dichos ingresos se consideran créditos fiscales para efectos de su determinación y cobro.
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 8o.
 
-Los ingresos que la Comisión deba percibir por la prestación de los servicios públicos a su cargo, se determinarán, notificarán y cobrarán conforme a esta Ley, así como por lo que establezca el acuerdo tarifario que expida el Consejo de Administración y demás disposiciones legales y administrativas aplicables.
+Los ingresos que la CAPAMA deba percibir por la prestación de los servicios públicos a su cargo, se determinarán, notificarán y cobrarán conforme a esta Ley, así como por lo que establezca el Decreto Tarifario que expida el Congreso del Estado y demás disposiciones legales y administrativas aplicables.
 
 ### CAPITULO IV. DE LA ADMINISTRACION
 
@@ -263,7 +269,9 @@ El Consejo de Administración se integra con:
 
 I.- El Presidente Municipal de Acapulco de Juárez, Guerrero, quien lo presidirá;
 
-II.- Un Representante de la Secretaría de Planeación, Presupuesto y Desarrollo Urbano del Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+II.- Un representante de la Secretaría de Desarrollo Urbano y Obras Públicas;
 
 III.- Un Representante de la Comisión Nacional del Agua;
 
@@ -327,9 +335,13 @@ V.- Suscribir créditos con instituciones públicas y privadas, previa aprobaci�
 
 VI.- Ejecutar los acuerdos del Consejo de Administración y del C. Presidente Municipal;
 
-VII.- Determinar créditos fiscales por la prestación de los servicios públicos de agua potable y residual; notificarlos a los usuarios y cobrarlos aún por la vía económico-coactiva, en los términos que proceda conforme al Código Fiscal Municipal y demás disposiciones legales y administrativas aplicables;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-VIII.- Ordenar al personal de la Comisión, la práctica de visitas de inspección en inmuebles, locales y establecimientos de cualquier tipo, para verificar el cumplimiento de las obligaciones legales y administrativas en Materia de agua potable y alcantarillado sanitario, así como para aplicar sanciones por infracciones o violaciones a las disposiciones mencionadas;
+VII.- Ordenar al personal de la CAPAMA, la práctica de visitas de inspección en inmuebles locales y establecimientos de cualquier tipo para verificar el cumplimiento de las obligaciones legales administrativas en materia de Agua Potable y Alcantarillado Sanitario, así como para aplicar sanciones por infracciones o violaciones a las disposiciones mencionadas;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+VIII.- Determinar créditos fiscales por la prestación de los servicios públicos de agua potable y residual, notificar a los usuarios y cobrarles por la vía económica-coactiva, en los términos que proceda conforme al Código Fiscal Municipal y demás disposiciones legales y administrativas aplicables;
 
 IX.- Someter al Consejo de Administración los proyectos y programas, presupuestos, informes de actividades, reglamento interior, manuales y todos los asuntos que deba conocer dicho órgano colegiado, de conformidad con esta Ley y demás ordenamientos legales aplicables;
 
@@ -527,61 +539,65 @@ Con el objeto de hacer más racional el consumo de agua, los usuarios deberán u
 
 La Comisión en épocas de escasez de agua en las fuentes de capacitación comprobada o previsible podrán acordar condiciones de restricción en las zonas afectadas y durante el lapso que estime necesario, previo aviso oportuno al usuario a través de los medios de comunicación disponibles. Cuando la escasez de agua sea originada por negligencia o falta de previsión del órgano operador, este fincará las responsabilidades que correspondan a los servidores públicos de la Comisión que hayan causado dicha escasez, igualmente serán responsables los servidores públicos que sin causa justificada se abstengan de atender la reparación de fugas de agua potable del sistema municipal, dentro de las 24 horas siguientes a las del reporte respectivo.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 47.
 
-El Consejo de Administración de la Comisión, aprobará las cuotas y tarifas de los servicios públicos y administrativos a cargo de dicho Organismo; corresponderá al Director General de la Comisión presentar al Consejo, durante el mes de diciembre de cada año el proyecto de cuotas y tarifas que estará en vigor durante el ejercicio fiscal siguiente.
+El Consejo de Administración de la CAPAMA propondrá a través del Ejecutivo Estatal, en el mes de diciembre de cada año, previos los trámites legales, para su análisis y aprobación ante el Congreso del Estado, las cuotas y tarifas de los servicios públicos y administrativos a su cargo, que tendrán vigencia durante el ejercicio fiscal siguiente.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 48.
 
-Las cuotas y tarifas por los servicios públicos y administrativos que presta la Comisión, deberán considerar los costos de operación, de administración, de conservación, de mantenimiento y de mejoramiento del Sistema Municipal de Agua Potable y Alcantarillado y plantas de tratamiento de agua, así como también el servicio de la deuda, la solidez financiera del organismo operador, la clasificación del usuario en función de la capacidad de pago de aquellos, y un porcentaje de recuperación del valor de activos e inversiones.
+Las cuotas y tarifas que por concepto de servicios públicos presta la CAPAMA comprenden los costos de operación, de administración, de conservación, de mantenimiento, el de mejoramiento del Sistema de Agua Potable y Alcantarillado Sanitario y de las plantas de tratamiento de aguas residuales, el pago del servicio de la deuda, la solidez financiera del Organismo; un porcentaje de recuperación del valor de activos e inversiones atendiendo a los tipos de usuarios en función de sus consumos, así como de la calidad y cantidad de las aguas residuales que descarguen a la red de alcantarillado municipal.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 49.
 
-La Comisión deberá revisar y ajustar las cuotas y tarifas mensualmente para su actualización, considerando el índice nacional de precios al consumidor publicado periódicamente por el Banco de México, una vez aprobadas las cuotas o tarifas por el Consejo de Administración, se ordenará su publicación en la Gaceta Municipal del H. Ayuntamiento de Acapulco de Juárez y en el Diario de mayor circulación de la localidad.
+Las cuotas y tarifas aprobadas por el H. Congreso del Estado, se actualizarán en forma progresiva, tomando como referencia el Indice Nacional de Precios al Consumidor, en términos de lo dispuesto por el artículo 20 Bis del Código Fiscal de la Federación.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 50.
 
-Los pagos que deberán cubrir los usuarios por la prestación de los servicios públicos a cargo de la Comisión, se clasifican en:
+Las cuotas que deberán cubrir los usuarios por la prestación de los servicios públicos a cargo de la CAPAMA, se clasificarán de la siguiente manera:
 
-I.- Cuotas:
+A).- Por la instalación de tomas domiciliarias.
 
-a) Por la Instalación de tomas domiciliarias.
+B).- Por la conexión del servicio de agua potable.
 
-b) Por la conexión del servicio de agua potable.
+C).- Por la conexión del servicio de drenaje sanitario.
 
-c) Por conexión al drenaje o alcantarillado sanitario y tratamiento de aguas residuales provenientes de uso doméstico.
+D).- Por la instalación de medidores.
 
-d) Por conexión al drenaje o alcantarillado sanitario y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga se realice por abajo de las concentraciones permisibles conforme a las normas técnicas ecológicas y las condiciones particulares vigentes, en los términos de la legislación de equilibrios y protección del ambiente.
+E).- Por reconexión del servicio.
 
-e) Por conexión al drenaje o alcantarillado sanitario y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga se realice por arriba de las concentraciones permisibles conforme a las normas técnicas ecológicas y las condiciones particulares de descarga vigentes en los términos de la legislación citada.
+F).- Por otros servicios técnicos o administrativos.
 
-f) Por la instalación de medidores, y
+Las cuotas señaladas anteriormente, no consideran el importe de los estudios de factibilidad del aparato medidor, ni el costo de la mano de obra y materiales necesarios para la instalación de la toma u otro servicio.
 
-g) Por otros servicios técnicos o administrativos.
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-II.- Cuotas o tarifas por el servicio público de agua potable y alcantarillado sanitario:
+ARTICULO 50 BIS.- Las tarifas que se aplicarán por el consumo, descarga de aguas residuales y demás servicios, se ajustarán a lo siguiente.
 
-a) Por uso mínimo.
+I.- Tarifas por el servicio público de agua potable de acuerdo a las siguientes categorías:
 
-b) Por uso doméstico popular.
+A).- Por consumo de agua y tipo de toma.
 
-c) Por uso doméstico residencial.
+B).- Tarifa de cuotas mínimas por tipo de toma.
 
-d) Por uso comercial, industrial, de prestación de servicios y otros similares.
+II.- Las tarifas que se aplicarán por el servicio público de alcantarillado y tratamiento de aguas residuales son las siguientes:
 
-e) Para uso público.
+A).- Por uso doméstico popular y doméstico residencial. Pagarán a la CAPAMA, en un sólo concepto, por el uso del alcantarillado y tratamiento de aguas residuales que la CAPAMA administra. Dicho concepto se desglosará en el Decreto Tarifario que emitirá anualmente el Congreso del Estado y su cobro será incluído en los recibos mensuales.
 
-f) Por otros usos.
+B).- Por uso comercial, industrial, de prestación de servicios, otros similares y público.
 
-g) Por servicios de drenaje o alcantarillado y tratamiento de aguas residuales provenientes de uso doméstico.
+1.- Pago del volumen de descarga por el uso del alcantarillado. Los usuarios pagarán a la CAPAMA, por concepto de uso del alcantarillado. Dicho concepto se desglosará en el Decreto Tarifario que emitirá anualmente el Congreso del Estado y su cobro será incluído en los recibos mensuales.
 
-h) Por servicios de drenaje y alcantarillado y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga se realice por abajo de las concentraciones permisibles conforme a las normas técnicas y condiciones particulares de descarga vigentes, en los términos de la Legislación de Equilibrio Ecológico y Protección del Ambiente.
+2.- Por descarga de la carga contaminante. – Adicionalmente, las descargas de aguas residuales deberán de cumplir la Norma Oficial Mexicana correspondiente al giro comercial de la empresa usuaria y de no cumplir tal normatividad, deberán de pagar el excedente de la concentración en Kg. de demanda química de oxígeno y sólidos suspendidos totales de acuerdo a lo que establecerá el Decreto Tarifario expedido anualmente por el Congreso del Estado de Guerrero.
 
-i) Por servicios de drenaje y alcantarillado y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga se efectue por arriba de las concentraciones permisibles conforme a las normas técnicas ecológicas y las condiciones particulares de descarga vigentes en los términos de la legislación mencionada, y
-
-j) Por otros servicios.
-
-Además de las clasificaciones anteriores las cuotas o tarifas serán aplicadas por rango de consumo, incrementándose el cobro conforme aumente el consumo de agua potable.
+En caso de que el usuario se surta de agua de fuente distinta a la de la CAPAMA, deberá presentar a este Organismo una declaración mensual en la que, bajo protesta de decir verdad, manifestará el consumo de agua que haya tenido, el cual se tomará como base para calcular el cobro del servicio de alcantarillado y tratamiento de aguas residuales, aplicando las tarifas de agua potable. Las declaraciones se presentarán, en los formatos que apruebe la CAPAMA, los primeros diez días hábiles de cada mes. La omisión de esta obligación podrá ser requerida por la CAPAMA determinándose estimativamente el monto del cobro tomando el promedio de los tres últimos pagos de este derecho, para su cobro correspondiente.
 
 ###### ARTICULO 51.
 
@@ -607,7 +623,7 @@ La Comisión determinará las colonias populares o residenciales y zonas suburba
 
 ###### ARTICULO 53.
 
-Los Notarios Públicos y Jueces podrán autorizar o certificar los actos translativos (sic) de dominio de bienes inmuebles ubicados en el Municipio de Acapulco, cuando se acredite estar al corriente en el pago de las cuotas o tarifas por los servicios que presta la Comisión.
+Los Notarios Públicos y Jueces podrán autorizar o certificar los actos translativos de dominio de bienes inmuebles ubicados en el Municipio de Acapulco, cuando se acredite estar al corriente en el pago de las cuotas o tarifas por los servicios que presta la Comisión.
 
 ###### ARTICULO 54.
 
@@ -621,9 +637,11 @@ Cuando se encuentre cerrado un predio, giro o establecimiento en el que deba tom
 
 Corresponderá a la Comisión instalar y operar los aparatos medidores, así como verificar su funcionamiento y su retiro cuando haya sufrido daños.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 57.
 
-Los usuarios están obligados a cuidar y proteger los aparatos medidores para prevenir su deterioro, destrucción, robo y manipulaciones indebidas. Los propietarios o poseedores de predios deberán informar a la Comisión, en un plazo máximo de tres días, todo daño, desperfecto o manipulación de los medidores en los casos que sea necesario. El Organismo Operador procederá a la revisión y retiro del medidor, e instalará provisionalmente un medidor sustituto.
+Los usuarios están obligados a cuidar y proteger los aparatos medidores para prevenir su deterioro, destrucción, robo y manipulaciones indebidas. Los propietarios o poseedores de predios deberán de informar por escrito a la CAPAMA, en un plazo máximo de tres días, todo daño, desperfecto o manipulación de los medidores, en los casos que sean necesarios el Organismo Operador procederá a la revisión y retiro del medidor e instalará un medidor sustituto.
 
 ###### ARTICULO 58.
 
@@ -675,13 +693,17 @@ La Comisión estará facultada para impedir, obstruir o cerrar las descargas de 
 
 ### CAPITULO VII. INSPECCION Y VERIFICACION
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 64.
 
-La Comisión estará facultada para realizar visitas de inspección a predios, giros o establecimientos y verificar las instalaciones hidráulicas, para ello, dicho organismo operador contará con el número de inspectores que se requieran, con base en su propio presupuesto.
+La CAPAMA a través del Director y personal que se designe, quedarán facultados para realizar visitas de inspección a predios, giros o establecimientos y verificar las instalaciones hidráulicas. Para ello dicho Organismo Operador contará con el número de inspectores que se requieran con base en su propio presupuesto.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 65.
 
-Las órdenes de visitas de inspección serán emitidas por la Comisión y se efectuarán por personal debidamente autorizado cuyas facultades serán las que expresamente les otorga esta Ley y el Reglamento Interior del Organismo Operador.
+Las órdenes de visitas de inspección serán emitidas por el Director General y se efectuarán por personal debidamente identificado como trabajador de la CAPAMA, cuyas facultades serán las que expresamente les otorga esta Ley y el Reglamento Interior del Organismo Operador.
 
 ###### ARTICULO 66.
 
@@ -982,3 +1004,11 @@ El Secretario General de Gobierno.
 C. LIC. JOSE RUBEN ROBLES CATALAN.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE DICIEMBRE DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
