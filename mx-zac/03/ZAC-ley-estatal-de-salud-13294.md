@@ -4,7 +4,7 @@ identifier: "ZAC-ley-estatal-de-salud-13294"
 country: "mx"
 rank: "ley"
 publication_date: "1985-01-26"
-last_updated: "1994-08-10"
+last_updated: "2001-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 1994.
+N. DE E, DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SALUD DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 30 DE JUNIO DE 2001, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento al Núm. 8 del Periódico Oficial del Estado de Zacatecas, el sábado 26 de enero de 1985.
 
@@ -2594,3 +2596,17 @@ SEGUNSDO.- La Coordinación Estatal de Salud deberá quedar integrada a más tar
 TERCERO.- La Coordinación Estatal de Salud elaborará su propio Reglamento a más tardar a los noventa días de integrada ésta.
 
 CUARTO.- Se deroga el Decreto # 153 de fecha 2 de Octubre de 1987, publicado en el Periódico Oficial # 84 del 21 del mismo mes y año.
+
+P.O. 30 DE JUNIO DE 2001.
+
+PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno Del Estado.
+
+SEGUNDO.- Se abroga la Ley Estatal de Salud, aprobada por Decreto número 164, expedido por la Quincuagésima Primera Legislatura del Estado, publicada en el número 8 del Periódico Oficial, Organo del Gobierno del Estado, correspondiente al día veintiséis de enero de mil novecientos ochenta y cinco.
+
+TERCERO.- El Consejo deberá expedir el Estatuto Orgánico y demás reglamentos derivados de esta ley, en un plazo que no excederá de ciento ochenta días naturales, siguientes a la entrada en vigor de la ley.
+
+En tanto se expiden las disposiciones orgánicas y reglamentarias derivadas de esta ley, seguirán en vigor las que rigen actualmente en lo que no la contravengan, y su referencia a la Ley Estatal de Salud que se abroga, se entiende hecha, en lo aplicable, a la presente ley.
+
+CUARTO.- Continúan en vigor los acuerdos de coordinación para la integración orgánica y la descentralización operativa de los Servicios de Salud del Estado, así como los acuerdos de coordinación con el propósito de descentralizar el ejercicio de las funciones de regulación, control y fomento sanitario en la Entidad, en lo que no se opongan a lo dispuesto por la Ley General de Salud y la presente ley.
+
+QUINTO.- Todas las actas, procedimientos y recursos administrativos relacionados con la materia de esta ley, que se hubieren iniciado bajo la vigencia de la que se abroga se tramitarán y resolverán conforme a las disposiciones de la citada ley.
