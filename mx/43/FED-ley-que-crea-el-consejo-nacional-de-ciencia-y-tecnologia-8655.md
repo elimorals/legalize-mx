@@ -4,7 +4,7 @@ identifier: "FED-ley-que-crea-el-consejo-nacional-de-ciencia-y-tecnologia-8655"
 country: "mx"
 rank: "ley"
 publication_date: "1970-12-29"
-last_updated: "1974-12-31"
+last_updated: "1999-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8655&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1970-12-27"
 
 LEY QUE CREA EL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE MAYO DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación el martes 29 de diciembre de 1970.
 
@@ -39,127 +39,245 @@ LEY QUE CREA EL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
 ### CAPITULO I. Organización y Funciones
 
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 1.
 
-Se crea el Consejo Nacional de Ciencia y Tecnología, como el organismo público descentralizado, con personalidad jurídica y patrimonio propios, asesor y auxiliar del Ejecutivo Federal en la fijación, instrumentación, ejecución y evaluación de la política nacional de ciencia y tecnología.
+El Consejo Nacional de Ciencia y Tecnología es un organismo descentralizado, con personalidad jurídica y patrimonio propios, que goza de autonomía técnica, operativa y administrativa con domicilio en la ciudad de México, Distrito Federal. En esta Ley se le referirá indistintamente como CONACyT o como Consejo Nacional de Ciencia y Tecnología.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 2.
 
-Para el cumplimiento de sus fines, el Consejo Nacional de Ciencia y Tecnología tendrá las siguientes funciones:
+El Consejo Nacional de Ciencia y Tecnología tendrá por objeto:
 
-I.- Fungir como asesor del Ejecutivo Federal en la planeación, programación, coordinación, orientación, sistematización, promoción y encausamiento de las actividades relacionadas con la ciencia y tecnología, sin vinculación al desarrollo nacional y sus relaciones con el exterior.
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 1999)</small>
+
+I.- Coordinar la formulación e integrar el programa especial de ciencia y tecnología, así como procurar su ejecución y participar en su evaluación, en los términos de la Ley de Planeación y de la Ley para el Fomento de la Investigación Científica y Tecnológica;
+
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 1999)</small>
+
+II.- Consolidar la información programática y presupuestal anual de los anteproyectos del programa y presupuesto de la Administración Pública Federal para realizar actividades y apoyar la investigación científica, tecnológica y el desarrollo tecnológico, en colaboración con la Secretaría de Hacienda y Crédito Público y en los términos de la Ley para el Fomento de la Investigación Científica y Tecnológica;
+
+> <small>N. DE E. EN EL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 21 DE MAYO DE 1999, EL LEGISLADOR NO PRECISA SI LA FRACCION SIGUIENTE QUEDA DEROGADA, POR LO QUE SE DEJA A CONSIDERACION DEL USUARIO ESTIMAR SI LA FRACCION EN COMENTO SE ENCUENTRA VIGENTE.</small>
 
 II.- Ser órgano de consulta obligatoria para las dependencias del Ejecutivo Federal, organismos descentralizados y empresas de participación estatal, en materia de inversiones o autorización de recursos a proyectos de investigación científica y tecnológica, educación superior, importación de tecnología, pago de regalías, patentes, normas, especificaciones, control de calidad y en general, en todo lo relacionado para el adecuado cumplimiento de sus fines.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 1999)</small>
 
-III.- Asesorar en su materia a los Gobiernos de los Estados de la Federación y a los Municipios, así como a las personas físicas o morales en las condiciones que en cada caso se pacten.
+III.- Asesorar y auxiliar al Ejecutivo Federal en todo lo referente a los ámbitos de la ciencia y la tecnología y su vinculación con el desarrollo nacional;
+
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 1999)</small>
+
+IV.- Formular y apoyar las acciones tendientes a la generación, difusión y aplicación de los conocimientos científicos y tecnológicos, de conformidad con lo dispuesto en la Ley para el Fomento de la Investigación Científica y Tecnológica y demás ordenamientos aplicables, así como en cumplimiento del Plan Nacional de Desarrollo y del programa correspondiente de ciencia y tecnología;
+
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 1999)</small>
+
+V.- Promover la participación de la comunidad científica y de los sectores público, social y productivo en el desarrollo de programas y proyectos de fomento a la investigación científica y al desarrollo tecnológico, conforme a los principios que establece la Ley para el Fomento de la Investigación Científica y Tecnológica;
+
+> <small>N. DE E. EN EL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 21 DE MAYO DE 1999, EL LEGISLADOR NO PRECISA SI LA FRACCION SIGUIENTE QUEDA DEROGADA, POR LO QUE SE DEJA A CONSIDERACION DEL USUARIO ESTIMAR SI LA FRACCION EN COMENTO SE ENCUENTRA VIGENTE.</small>
 
 IV.- Elaborar programas indicativos de investigación científica y tecnológica, vinculados a los objetivos nacionales de desarrollo económico y social, procurando para ello, la más amplia participación de la comunidad científica, así como la cooperación de entidades gubernamentales, instituciones de educación superior y usuarios de la investigación.
 
+> <small>N. DE E. EN EL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 21 DE MAYO DE 1999, EL LEGISLADOR NO PRECISA SI LA FRACCION SIGUIENTE QUEDA DEROGADA, POR LO QUE SE DEJA A CONSIDERACION DEL USUARIO ESTIMAR SI LA FRACCION EN COMENTO SE ENCUENTRA VIGENTE.</small>
+
 V.- Promover la más amplia intercomunicación y coordinación entre las instituciones de investigación y de enseñanza superior, así como entre ellas, el Estado y los usuarios de la investigación, sin menoscabo, en su caso, de su respectiva autonomía o competencia, para fomentar áreas comunes de investigación y programas interdisciplinarios, eliminar duplicaciones y ayudar a la formación y capacitación de investigadores.
+
+> <small>N. DE E. EN EL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 21 DE MAYO DE 1999, EL LEGISLADOR NO PRECISA SI LA FRACCION SIGUIENTE QUEDA DEROGADA, POR LO QUE SE DEJA A CONSIDERACION DEL USUARIO ESTIMAR SI LA FRACCION EN COMENTO SE ENCUENTRA VIGENTE.</small>
 
 VI.- Fomentar y fortalecer las investigaciones básicas, tecnológicas y aplicadas que se necesiten, y promover las acciones concertadas que se requieran con los institutos del sector público, instituciones académicas, centros de investigación y usuarios de la misma, incluyendo al sector privado.
 
-VII.- Canalizar recursos adicionales hacia las instituciones académicas y centros de investigación, provenientes tanto del Estado como de otras fuentes, para el fomento y realización de investigaciones, con función de programas y proyectos específicos, sin perjuicio de que dichas instituciones y centros sigan manejando e incrementando sus propios fondos.
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 1999)</small>
 
-VIII.- Promover la creación de nuevas instituciones de investigación y proponer la constitución de empresas que empleen tecnologías nacionales para la producción de bienes y servicios.
+VI.- Asesorar en su materia a dependencias y entidades de la Administración Pública Federal, a los Gobiernos de las Entidades Federativas y a los Municipios, así como a las personas físicas o morales que así lo soliciten, en las condiciones que en cada caso se pacten;
 
-IX.- Asesorar a la Secretaría de Educación Pública para el establecimiento de nuevos centros de enseñanza científica o tecnológica sujetos a la legislación federal, así como para la formulación de los planes de estudios de los mismos, y en la revisión de los planes de estudio de los centros existentes.
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 1999)</small>
 
-X.- Asesorar a la Secretaría de Relaciones exteriores en la celebración de convenios internacionales sobre ciencia y tecnología e intervenir en el cumplimiento de los mismos, así como en los organismos o agencias internacionales relacionados con su materia y en los que México participe, en los términos de los convenios respectivos o, en su defecto, conforme a las disposiciones del Ejecutivo Federal.
+VII.- Llevar el Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas, de conformidad con la Ley para el Fomento de la Investigación Científica y Tecnológica;
 
-XI.- Tener conocimiento de la investigación realizada por extranjeros en México y asesorar a las secretarías de Gobernación y de Relaciones Exteriores en esa materia.
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 1999)</small>
 
-XII.- Gestionar ante las autoridades competentes la expedita internación al país de investigadores y profesores extranjeros invitados por cualquier persona física o moral para realizar investigación en México, cuidando que ésta corresponda siempre al interés nacional. Dichas autoridades quedan obligadas en estos casos, a otorgar las facilidades necesarias para hacer expeditos los trámites.
+VIII.- Mantener actualizada la información estadística relativa a la ciencia y la modernización tecnológica;
 
-XIII.- Formular y llevar a cabo un programa nacional controlado de becas, y concederlas directamente, así como intervenir en las que ofrezcan otras instituciones públicas nacionales, o los organismos internacionales y gobiernos extranjeros, en los términos de las convocatorias correspondientes.
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 1999)</small>
+
+IX.- Colaborar con la Secretaría de Educación Pública en la intervención que, conforme a las leyes, corresponde al Ejecutivo Federal en la operación de las entidades de la administración pública paraestatal que sean sectorizados en esa Secretaría y que sean centros de investigación, así como operar el Sistema Nacional de Investigadores;
+
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 1999)</small>
+
+X.- Promover o, en su caso, opinar sobre la creación, transformación, disolución o extinción de centros de investigación del sector público, conforme se establece en la Ley para el Fomento de la Investigación Científica y Tecnológica;
+
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 1999)</small>
+
+XI.- Asesorar a la Secretaría de Educación Pública para el establecimiento de nuevos centros de enseñanza científica o tecnológica;
+
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 1999)</small>
+
+XII.- Canalizar recursos a las instituciones académicas y centros de investigación, para el fomento y realización de investigaciones, en función de programas y proyectos específicos, en los términos de esta Ley y de la Ley para el Fomento de la Investigación Científica y Tecnológica, sin perjuicio de que dichas instituciones y centros sigan manejando e incrementando sus propios fondos;
+
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 1999)</small>
+
+XIII.- Formular y llevar a cabo un programa nacional de becas, y concederlas directamente, así como conocer las que ofrezcan otras instituciones públicas nacionales, o los organismos internacionales y gobiernos extranjeros, en los términos de las convocatorias correspondientes;
+
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 1999)</small>
+
+XIV.- Promover cursos y programas de capacitación, especialización y actualización de conocimientos en ciencia y tecnología;
+
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 1999)</small>
+
+XV.- Promover y fortalecer las publicaciones científicas mexicanas y fomentar la difusión sistemática de los trabajos realizados tanto por los investigadores nacionales como por los extranjeros que residan en el país, mediante la utilización de los medios más adecuados para ello, así como publicar anualmente los avances de la ciencia y la tecnología nacionales, sus aplicaciones específicas y los programas y actividades de los centros públicos de investigación;
+
+> <small>N. DE E. EN EL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 21 DE MAYO DE 1999, EL LEGISLADOR NO PRECISA SI LA FRACCION SIGUIENTE QUEDA DEROGADA, POR LO QUE SE DEJA A CONSIDERACION DEL USUARIO ESTIMAR SI LA FRACCION EN COMENTO SE ENCUENTRA VIGENTE.</small>
 
 XIV.- Actuar como coordinador de la cooperación técnica que se pacte con los organismos internacionales y gobiernos extranjeros, a solicitud de la Secretaría de Relaciones Exteriores.
 
+> <small>N. DE E. EN EL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 21 DE MAYO DE 1999, EL LEGISLADOR NO PRECISA SI LA FRACCION SIGUIENTE QUEDA DEROGADA, POR LO QUE SE DEJA A CONSIDERACION DEL USUARIO ESTIMAR SI LA FRACCION EN COMENTO SE ENCUENTRA VIGENTE.</small>
+
 XV.- Concertar convenios con instituciones extranjeras y con agencias internacionales para el cumplimiento de su objeto, en consulta con la Secretaría de Relaciones Exteriores.
 
-XVI.- Establecer mecanismos de comunicación con el personal o los becarios mexicanos que se encuentren en el extranjero bajo sus auspicios.
+XVI.- (DEROGADA, D.O.F. 21 DE MAYO DE 1999)
 
-XVII.- Fomentar programas de intercambio de profesores, investigadores y técnicos, con otro países.
+XVII.- Fomentar programas de intercambio de profesores, investigadores y técnicos, con otros países.
 
-XVIII.- Promover cursos o sistemas de capacitación, especialización y actualización de conocimientos en ciencia y tecnología.
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 1999)</small>
 
-XIX.- Intervenir ante las autoridades competentes para hacer expedita y oportuna la importación de todos los elementos de trabajo y apoyo que requiera la investigación científica y tecnológica, opinando en cada caso respecto a la justificación de la importación y cuidado que las especificaciones de los bienes importados se ajusten a las necesidades del país y a los programas de investigación. Dichas autoridades están obligadas a otorgar las facilidades necesarias para hacer expeditos los procedimientos.
+XVIII.- Integrar bolsas de trabajo que permitan el mejor y mayor aprovechamiento del conocimiento de los investigadores y tecnólogos;
 
-XX.- Asesorar en todo caso a la autoridad competente en la elaboración de especificaciones y normas de calidad de las materias primas, productos o manufacturas que se produzcan en México o deban importarse, bajo especificaciones y normas de calidad.
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 1999)</small>
 
-XXI.- Propiciar el establecimiento de servicios de mantenimiento de equipos de investigación.
+XIX.- Apoyar la formación y capacitación de recursos humanos orientados a la investigación científica y a la modernización tecnológica, en coordinación con instituciones académicas tanto nacionales como extranjeras;
 
-XXII.- Promover las publicaciones científicas mexicanas y fomentar la difusión sistemática de los trabajos realizados tanto por los investigadores nacionales como por los extranjeros que residan en el país, mediante la utilización de los medios más adecuados para ello, así como publicar periódicamente los avances de la ciencia y la tecnología nacionales, sus aplicaciones específicas y los programas y actividades de los centros de investigación.
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 1999)</small>
+
+XX.- Formular y apoyar, en coordinación con la Secretaría de Relaciones Exteriores, programas específicos para que contribuyan a fortalecer las relaciones de cooperación en el ámbito científico y tecnológico con otros países;
+
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 1999)</small>
+
+XXI.- Asesorar a la Secretaría de Relaciones Exteriores en la celebración de tratados y convenios internacionales en materia de ciencia y tecnología y colaborar en el cumplimiento de los mismos; así como participar en los organismos o agencias internacionales relacionados con su materia y en los que México sea parte;
+
+> <small>N. DE E. EN EL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 21 DE MAYO DE 1999, EL LEGISLADOR NO PRECISA SI LA FRACCION SIGUIENTE QUEDA DEROGADA O SI SE RECORRE EL ORDEN, POR LO QUE SE DEJA A CONSIDERACION DEL USUARIO ESTIMAR SI LA FRACCION EN COMENTO SE ENCUENTRA VIGENTE.</small>
 
 XXIII.- Asesorar concertadamente a los centros académicos de investigación por lo que se refiere a la elaboración de programas, intercambio de profesores e investigadores; otorgamiento de becas; sistemas de información y documentación; servicios de apoyo, como bibliotecas, equipos y laboratorios; y los asuntos conexos a su materia, cuando se lo soliciten.
 
+> <small>N. DE E. EN EL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 21 DE MAYO DE 1999, EL LEGISLADOR NO PRECISA SI LA FRACCION SIGUIENTE QUEDA DEROGADA O SI SE RECORRE EL ORDEN, POR LO QUE SE DEJA A CONSIDERACION DEL USUARIO ESTIMAR SI LA FRACCION EN COMENTO SE ENCUENTRA VIGENTE.</small>
+
 XXIV.- Participar en las comisiones dictaminadoras de los premios nacionales de ciencia y promover el establecimiento de nuevos premios.
 
-XXV.- Integrar bolsas de trabajo que permitan el mejor y mayor aprovechamiento de los investigadores.
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 1999)</small>
 
-XXVI.- Investigar en forma directa exclusivamente sobre la investigación misma, para lo cual deberá, especialmente:
+XXIV. En coordinación con instituciones académicas nacionales y extranjeras fomentar programas de intercambio de profesores, investigadores y técnicos;
 
-a).- Mejorar y actualizar renovadamente el inventario de recursos humanos, materiales y financieros destinados a la investigación científica y tecnológica;
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 1999)</small>
 
-b).- Captar y jerarquizar las necesidades nacionales en ciencia y tecnología, estudiar los problemas que las afecten y sus relaciones con la actividad general del país.
+XXV.- Investigar en forma directa exclusivamente sobre el desarrollo y estado de la ciencia y la tecnología, para lo cual deberá, especialmente:
+
+a).- Realizar y mantener un censo de recursos humanos, materiales y financieros destinados a la investigación científica y tecnológica;
+
+b).- Promover el análisis y el estudio sobre las necesidades nacionales en ciencia y tecnología;
 
 c).- Establecer un servicio nacional de información y documentación científica; y
 
-XXVII.- Las demás funciones que le fijen las leyes y reglamentos, o sean inherentes al cumplimiento de sus fines.
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 1999)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+XXVI.- Realizar las demás actividades inherentes al cumplimiento de su objeto en los términos de esta Ley y de la Ley para el Fomento de la Investigación Científica y Tecnológica.
+
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 3.
 
-El Consejo Nacional de Ciencia y Tecnología estará regido por una Junta Directiva integrada por quince miembros, once permanentes y cuatro temporales.
+El Consejo Nacional de Ciencia y Tecnología contará con los siguientes órganos de administración:
 
-Para el despacho de los asuntos urgentes la Junta delegará facultades específicas en Comisiones Especiales integradas por los miembros que al efecto designe, de los cuales por lo menos tres serán miembros permanentes de la propia Junta.
+I.- Junta Directiva, y
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+II.- Dirección General.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 1999)</small>
+
+###### ARTICULO 3-A.
+
+El Conacyt contará con un Consejo Consultivo Científico y Tecnológico. Este Consejo será un órgano interno de apoyo y asesoría institucional, el cual tendrá las funciones y forma de integración que se establecen en esta Ley y que se precisen en el estatuto orgánico del organismo. Para efectos de la presente ley se le referirá indistintamente como Consejo Consultivo al Consejo Consultivo Científico y Tecnológico.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 1999)</small>
+
+###### ARTICULO 3-B.
+
+La Junta Directiva del Conacyt estará integrada por dieciséis miembros, de los cuales once serán permanentes y cinco serán temporales.
+
+Para el despacho de los asuntos urgentes, la Junta delegará facultades específicas en Comisiones Especiales integradas por los miembros que al efecto designe, de los cuales por lo menos tres serán miembros permanentes de la propia Junta.
+
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 4.
 
-Serán miembros permanentes de la Junta Directiva el Secretario de Educación Pública, quien fungirá como Presidente de la misma; el Secretario de Industria y Comercio, como Vicepresidente; el Secretario de Agricultura y Ganadería; el Secretario de Hacienda y Crédito Público; el Secretario del Patrimonio Nacional; el Secretario de la Presidencia; el Secretario de Relaciones Exteriores; el Secretario de Salubridad y Asistencia; el Rector de la Universidad Nacional Autónoma de México, el Director General del Instituto Politécnico Nacional y el Director General del Consejo Nacional de Ciencia y Tecnología.
+Serán miembros permanentes de la Junta Directiva el Secretario de Educación Pública, quien la presidirá; el Secretario de Comercio y Fomento Industrial; el Secretario de Comunicaciones y Transportes, el Secretario de Agricultura, Ganadería y Desarrollo Rural; el Secretario de Hacienda y Crédito Público; el Secretario de Medio Ambiente, Recursos Naturales y Pesca; el Secretario de Energía; el Secretario de Relaciones Exteriores; el Secretario de Salud; el Rector de la Universidad Nacional Autónoma de México y el Director General del Instituto Politécnico Nacional.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 5.
 
-Serán miembros temporales de la Junta Directiva, por períodos bianuales irrenovables: dos rector o director de universidades o instituto de educación superior de los Estados de la República; y por parte de los usuarios de la investigación, el titular de un organismo del sector paraestatal, y un representante del sector privado.
+Serán miembros temporales de la Junta Directiva, por períodos bianuales irrenovables: un rector o director de una universidad o instituto de educación superior de carácter estatal, un representante del sector productivo y tres miembros del Consejo Consultivo Científico y Tecnológico.
 
-Los miembros permanentes de la Junta Directiva designarán a los miembros temporales de la misma.
+Los miembros permanentes de la Junta Directiva designarán a los miembros temporales de la misma, salvo en el caso de quienes se integren con la representación del Consejo Consultivo, los que serán designados por este último.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 6.
 
-Los quince miembros de la Junta Directiva gozarán de voz y voto en las sesiones de la misma.
+Los dieciséis miembros de la Junta Directiva gozarán de voz y voto en las sesiones de la misma.
 
-Cuando los miembros permanentes y temporales no puedan asistir a las reuniones de la Junta, se harán representar, los Secretarios de Estado, por los Subsecretarios, y los demás por los funcionarios de mayor jerarquía de dichos organismos.
+Cuando los miembros permanentes y temporales no puedan asistir a las reuniones de la Junta, se harán representar, los Secretarios de Estado, por los Subsecretarios, y los demás por los funcionarios de mayor jerarquía de dichos organismos. Los demás integrantes por sus respectivos suplentes.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 7.
 
-Para la validez de los acuerdos de la Junta se requerirá la presencia de cuando menos ocho de sus miembros titulares o suplentes de los cuales cinco deberán ser permanentes.
+Para la validez de los acuerdos de la Junta se requerirá la presencia de cuando menos nueve de sus miembros titulares o suplentes, de los cuales seis deberán ser permanentes.
 
 Los acuerdos se tomarán por mayoría de votos, y el Presidente tendrá voto de calidad.
 
-Para que puedan funcionar válidamente las Comisiones Especiales a que se refiere el segundo párrafo del artículo 3o., de la presente ley, será necesaria la asistencia de cuando menos tres de sus miembros titulares o suplentes.
+Para que puedan funcionar válidamente las Comisiones Especiales a que se refiere el segundo párrafo del artículo 3-B de la presente ley, será necesaria la asistencia de cuando menos tres de sus miembros titulares o suplentes.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 8.
 
-La Junta Directiva en pleno se reunirá tres veces al año en sesión ordinaria, las Comisiones Especiales por su parte celebrarán sesiones ordinarias bimestralmente. Se podrá convocar a reuniones extraordinarias tanto a la Junta Directiva como a las Comisiones especiales, cuando lo juzguen necesario sus Presidentes.
+La Junta Directiva en pleno se reunirá por lo menos cuatro veces al año en sesión ordinaria. Las Comisiones Especiales, por su parte, celebrarán sesiones ordinarias bimestralmente. Se podrá convocar a reuniones extraordinarias tanto a la Junta Directiva como a las Comisiones Especiales, cuando lo juzguen necesario sus Presidentes.
+
+Asistirán a las sesiones de la Junta Directiva el Secretario, el Prosecretario y el Comisario, con voz pero sin voto.
+
+La Junta Directiva del Conacyt invitará a sus reuniones a representantes de instituciones de investigación y docencia y de grupos interesados de los sectores público, social y privado.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 1999)</small>
+
+###### ARTICULO 8-A.
+
+La Junta Directiva tendrá las siguientes facultades indelegables:
+
+I.- Aprobar las reglas de operación de los Fondos CONACyT a que se refiere la Ley para el Fomento de la Investigación Científica y Tecnológica;
+
+II.- Aprobar las reglas internas de funcionamiento del Consejo Consultivo, a propuesta de este último;
+
+III.- Resolver sobre las propuestas para la creación, transformación o extinción de centros de investigación del sector público, cuya coordinación sectorial esté a cargo del Conacyt;
+
+IV.- Aprobar y evaluar los programas y proyectos del Conacyt a propuesta del Director General;
+
+V.- Aprobar la distribución del presupuesto anual definitivo del Conacyt y el programa de inversiones, de acuerdo con el monto total autorizado de su presupuesto;
+
+VI.- Aprobar las adecuaciones presupuestales a los programas del Conacyt, que no impliquen la afectación de su monto total autorizado, recursos de inversión, proyectos financiados con crédito externo, ni el cumplimiento de los objetivos y metas comprometidos;
+
+VII.- Decidir el uso y destino de recursos autogenerados, ya sea dentro del presupuesto de la entidad o canalizando éstos a los Fondos CONACyT;
+
+VIII.- Autorizar la apertura de cuentas de inversión financiera, las que siempre serán de renta fija;
+
+IX.- Aprobar y modificar la estructura básica de la entidad de acuerdo con el monto total autorizado de su presupuesto de servicios personales, así como definir los lineamientos y normas para conformar la estructura ocupacional y salarial, las conversiones de plazas y renivelaciones de puestos y categorías, conforme a las normas generales que expida la Secretaría de Hacienda y Crédito Público; y
+
+X.- Las establecidas por el artículo 58 de la Ley Federal de las Entidades Paraestatales.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 9.
 
-La Junta Directiva representará legalmente al Consejo Nacional de Ciencia y Tecnología en el cumplimiento de su objeto y administrará sus bienes, pudiendo delegar en los funcionarios del Consejo las atribuciones que expresamente determine.
+El Director General representará legalmente al Consejo Nacional de Ciencia y Tecnología en el cumplimiento de su objeto y administrara sus bienes, pudiendo delegar en los funcionarios del Consejo las atribuciones que expresamente determine.
 
 El Director General informará a la Junta Directiva sobre el ejercicio de las facultades que este artículo le concede.
 
@@ -171,7 +289,7 @@ El Director General será designado por el C. Presidente de la República.
 
 ###### ARTICULO 11.
 
-A propuesta del Director General, la Junta Directiva, designará un Secretario General. El Director General nombrará a los demás funcionarios que se requieran para que el Consejo cumpla con su finalidades.
+A propuesta del Director General, la Junta Directiva designará un Secretario General. El Director General nombrará a los demás funcionarios que se requieran para que el Consejo cumpla con sus finalidades.
 
 ###### ARTICULO 12.
 
@@ -184,6 +302,76 @@ Los requisitos que deberán satisfacer, así como las atribuciones y obligacione
 ###### ARTICULO 14.
 
 La Junta Directiva establecerá los órganos internos permanentes o transitorios que estime más conveniente para la realización de sus funciones y el logro de sus fines.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 1999)</small>
+
+###### ARTICULO 14-A.
+
+El Consejo Consultivo auxiliará a la Junta Directiva y al Director General, para lo cual tendrá las siguientes funciones:
+
+I.- Apoyar las actividades del Conacyt y formular sugerencias tendientes a su mejor desempeño;
+
+II.- Contribuir a la obtención de recursos que promuevan el cumplimiento de los objetivos del CONACyT;
+
+III.- Asesorar al Director General en asuntos de carácter científico y técnico que se sometan a su consideración;
+
+IV.- Proponer al Director General la adopción de medidas de orden general tendientes al mejoramiento técnico y operacional del CONACyT;
+
+V.- Formular opiniones y propuestas específicas sobre los programas y presupuestos internos del CONACyT, así como proponer áreas y acciones prioritarias y de gasto que demanden atención y apoyo del CONACyT;
+
+VI.- Conocer los resultados de las evaluaciones a los programas institucionales del CONACyT;
+
+VII.- Evaluar los proyectos y programas institucionales del CONACyT y emitir su opinión y recomendaciones; y
+
+VIII.- Realizar las demás funciones que le confiera el estatuto orgánico o el Director General por acuerdo de la Junta Directiva.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 1999)</small>
+
+###### ARTICULO 14-B.
+
+El Consejo Consultivo Científico y Tecnológico estará integrado por veinticinco miembros titulares, conforme a lo siguiente:
+
+I.- Un investigador designado por la Universidad Nacional Autónoma de México;
+
+II.- Un investigador designado por el Instituto Politécnico Nacional;
+
+III.- Un representante designado por la Academia Mexicana de Ciencias, por invitación del Secretario de Educación Pública;
+
+IV.- Tres representantes designados por el sector productivo, por invitación del Secretario de Educación Pública;
+
+V.- Tres representantes designados por la Asociación Nacional de Universidades e Instituciones de Educación Superior, por invitación del Secretario de Educación Pública;
+
+VI.- Tres representantes de igual número de consejos de ciencia y tecnología de las entidades federativas, por invitación del Secretario de Educación Pública, a propuesta del propio Consejo Consultivo;
+
+VII.- Siete representantes de igual número de centros públicos de investigación, correspondientes a cada uno de los sectores de la Administración Pública Federal que cuenten con ese tipo de centros y que estén representados por su coordinador de sector en la Junta de Gobierno;
+
+VIII.- Un representante del Consejo Consultivo de Ciencias de la Presidencia de la República;
+
+IX.- Un representante de uno de los centros públicos de investigación cuya coordinación corresponda al propio Conacyt;
+
+X.- Tres investigadores jóvenes, no directivos y elegidos a través de una convocatoria pública emitida por la Secretaría de Educación Pública, y
+
+XI.- Un representante de la Asociación Mexicana de Museos y Centros de Ciencia y Tecnología.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 1999)</small>
+
+###### ARTICULO 14-C.
+
+El Consejo Consultivo contará con un Presidente y un Secretario que serán electos de entre sus integrantes.
+
+La integración del Consejo Consultivo, deberá tener una expresión de participación regional, y las personas que lo integren se renovarán por mitad cada tres años, durando como máximo seis años cada uno.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 1999)</small>
+
+###### ARTICULO 14-D.
+
+El Consejo Consultivo sesionará por lo menos cada seis meses. Al efecto contará con el apoyo operativo que se requiera por parte del CONACyT.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 1999)</small>
+
+###### ARTICULO 14-E.
+
+Los cargos de los miembros del Consejo Consultivo serán honoríficos, por lo que en consecuencia no recibirán retribución, emolumento o compensación alguna.
 
 ### CAPITULO II. Patrimonio
 
@@ -219,9 +407,9 @@ El Consejo sólo podrá gravar o enajenar bienes inmuebles de su patrimonio con 
 
 ###### ARTICULO 19.
 
-Las relaciones de trabajo entre el Consejo Nacional de Ciencia y Tecnología y sus trabajadores se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B, del artículo 123 Constitucional.
+Las relaciones de trabajo entre el Consejo Nacional de Ciencia y Tecnología y sus trabajadores se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B, del Artículo 123 Constitucional.
 
-Se consideran trabajadores de confianza a los miembros de la Junta Directiva, al Director General, Secretario General, Directores Adjuntos, Directores, Subdirectores, Secretarios Particulares y Privados, Jefes de Departamento y de Oficina, Asesores y Consultores Técnicos, Contadores, Auditores, Controladores, Pagadores, Investigadores, Profesionales, Supervisores, Técnicos, Pasantes en General, Inspectores, Almacenistas, Vigilantes, Agentes de Adquisiciones y el personal administrativo y de servicios auxiliares presupuestalmente adscrito para la atención directa y personal del Director General, el Secretario General, los directores Adjuntos y los Directores.
+Se consideran trabajadores de confianza a los miembros de la Junta Directiva, al Director General, Secretario General, Directores Adjuntos, Directores, Subdirectores, Secretarios Particulares y Privados, Jefes de Departamento y de Oficina, Asesores y Consultores Técnicos, Contadores, Auditores, Contralores, Pagadores, Investigadores, Profesionales, Supervisores, Técnicos, Pasantes en General, Inspectores, Almacenistas, Vigilantes, Agentes de Adquisiciones y el personal administrativo y de servicios auxiliares presupuestalmente adscrito para la atención directa y personal del Director General, el Secretario General, los Directores Adjuntos y los Directores.
 
 ###### ARTICULO 20.
 
@@ -268,3 +456,17 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 D.O.F. 31 DE DICIEMBRE DE 1974.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 21 DE MAYO DE 1999.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+La Junta Directiva convocará a la integración del Consejo Consultivo dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto. Dentro de los dos meses siguientes a dicho acontecimiento se expedirán las reglas de funcionamiento de dicho Consejo Consultivo, de conformidad con las disposiciones de este mismo Decreto.
+
+###### ARTICULO TERCERO.
+
+La Junta Directiva del Conacyt realizará las modificaciones necesarias al estatuto orgánico en un plazo de noventa días, contados a partir de la entrada en vigor de este Decreto.
