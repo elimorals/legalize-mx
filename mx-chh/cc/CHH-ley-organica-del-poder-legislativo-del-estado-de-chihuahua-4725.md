@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "1999-11-17"
+last_updated: "2000-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2000.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -805,9 +805,13 @@ II.- De Biblioteca, Asuntos Editoriales e Informática.
 
 Los miembros de los comités serán designados por el Pleno a propuesta de la Junta de Coordinación Parlamentaria; se integrarán con tres miembros, tendrán las atribuciones que esta Ley les señala y además funcionarán durante todo el período de la Legislatura. Uno de los integrantes del Comité de Administración representará necesariamente a la primera minoría.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+
 ###### Art. 69.
 
-Para la realización de sus tareas, los comités se reunirán a convocatoria de su presidente cuando menos una vez al mes y deberán presentar al pleno un informe durante los meses de diciembre y junio respectivamente.
+Para la realización de sus tareas, los comités se reunirán a convocatoria de su presidente y secretario cuando menos una vez al mes, siendo aplicable en lo conducente lo establecido en la fracción I del artículo 51 de esta ley.
+
+Además, deberán presentar al Pleno un informe durante los meses de diciembre y junio respectivamente.
 
 > <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
 
@@ -1624,3 +1628,7 @@ P.O. 17 DE NOVIEMBRE DE 1999.
 DECRETO No. 252
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE OCTUBRE DE 2000.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
