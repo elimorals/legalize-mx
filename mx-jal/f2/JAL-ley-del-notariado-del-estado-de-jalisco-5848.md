@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-5848"
 country: "mx"
 rank: "ley"
 publication_date: "1991-10-08"
-last_updated: "2004-05-04"
+last_updated: "2004-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico del Estado de Jalisco, el martes 8 de octubre de 1991.
 
@@ -547,9 +547,7 @@ V. Sus números telefónicos, y
 
 VI. Horario de servicio al público.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1995)</small>
-
-Los notarios adscritos a los municipios de Guadalajara, Tlaquepaque, Tonalá y Zapopan, lo comunicarán a los ayuntamientos de los citados municipios.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 23 DE OCTUBRE DE 2004)</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2002)</small>
 
@@ -2037,11 +2035,13 @@ Las ausencias de los Consejeros propietarios serán cubiertas en el orden establ
 
 Artículo 176 bis. El Consejo de Notarios deberá someter a la autorización de la Secretaría General de Gobierno los reglamentos y reglas de carácter general que expida en función del ejercicio notarial.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 177.
 
-El Consejo de Notarios buscando la mejor representatividad de los notarios, integrará las regiones notariales a que esta Ley se refiere, las cuales serán las siguientes:
+Las regiones notariales a que esta Ley se refiere serán las siguientes:
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2002)</small>
 
 I. Región 0l que comprende los siguientes municipios:
 
@@ -2065,6 +2065,8 @@ I. Región 0l que comprende los siguientes municipios:
 
 115 Villa Guerrero
 
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2002)</small>
+
 II. Región 02 que integra a los municipios:
 
 035 Encarnación de Díaz
@@ -2083,6 +2085,8 @@ II. Región 02 que integra a los municipios:
 
 072 San Diego de Alejandría
 
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2002)</small>
+
 III. Región 03 comprende los siguientes municipios:
 
 005 Amatitán
@@ -2096,6 +2100,8 @@ III. Región 03 comprende los siguientes municipios:
 055 Magdalena
 
 094 Tequila
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2002)</small>
 
 IV. Región 04 que se integra con los siguientes municipios:
 
@@ -2123,6 +2129,8 @@ IV. Región 04 que se integra con los siguientes municipios:
 
 118 Yahualica de González Gallo
 
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2002)</small>
+
 V. Región 05 comprende los siguientes municipios:
 
 003 Ahualulco de Mercado
@@ -2141,6 +2149,8 @@ V. Región 05 comprende los siguientes municipios:
 
 095 Teuchitlán
 
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2004)</small>
+
 VI. Región 06 que comprende los municipios de:
 
 045 Ixtlahuacán del Río
@@ -2154,6 +2164,10 @@ VI. Región 06 que comprende los municipios de:
 101 Tonalá
 
 120 Zapopan
+
+097 Tlajomulco de Zúñiga.
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2004)</small>
 
 VII. Región 07 comprende los siguientes municipios:
 
@@ -2169,11 +2183,11 @@ VII. Región 07 comprende los siguientes municipios:
 
 051 Juanacatlán
 
-097 Tlajomulco de Zúñiga
-
 114 Villa Corona
 
 124 Zapotlanejo
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2002)</small>
 
 VIII. Región 08 comprende los siguientes municipios:
 
@@ -2195,6 +2209,8 @@ VIII. Región 08 comprende los siguientes municipios:
 
 033 Degollado
 
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2002)</small>
+
 IX. Región 09 que comprende los Municipios de:
 
 012 Atenguillo
@@ -2210,6 +2226,8 @@ IX. Región 09 que comprende los Municipios de:
 080 San Sebastián de Oeste
 
 084 Talpa de Allende
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2002)</small>
 
 X. Región 10 que comprende los Municipios de:
 
@@ -2237,6 +2255,8 @@ X. Región 10 que comprende los Municipios de:
 
 110 Unión de Tula
 
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2002)</small>
+
 XI. Región 11 que comprende los Municipios de:
 
 004 Amacueca
@@ -2259,6 +2279,8 @@ XI. Región 11 que comprende los Municipios de:
 
 119 Zacoalco de Torres
 
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2002)</small>
+
 XII. Región 12 que comprende los siguientes municipios:
 
 026 Concepción de Buenos Aires
@@ -2275,6 +2297,8 @@ XII. Región 12 que comprende los siguientes municipios:
 
 112 Valle de Juárez
 
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2002)</small>
+
 XIII. Región 13 que comprende los Municipios de:
 
 020 Cabo Corrientes
@@ -2282,6 +2306,8 @@ XIII. Región 13 que comprende los Municipios de:
 067 Puerto Vallarta
 
 100 Tomatlán
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2002)</small>
 
 XIV. Región 14 que comprende los Municipios de:
 
@@ -2294,6 +2320,8 @@ XIV. Región 14 que comprende los Municipios de:
 043 La Huerta
 
 068 Villa Purificación
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2002)</small>
 
 XV. Región 15 que comprende los Municipios de:
 
@@ -2604,3 +2632,7 @@ P.O. 30 DE DICIEMBRE DE 2003.
 P.O. 4 DE MAYO DE 2004.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 23 DE OCTUBRE DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
