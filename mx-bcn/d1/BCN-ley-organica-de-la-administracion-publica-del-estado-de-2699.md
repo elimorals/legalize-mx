@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2001-06-29"
+last_updated: "2001-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2001.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -163,7 +163,9 @@ IX.- Secretaría de Educación y Bienestar Social;
 
 X.- Secretaría de Salud;
 
-XI.- Secretaría Jurídica y Prevención Social;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2001)</small>
+
+XI.- Secretaría de Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
@@ -361,15 +363,21 @@ III.- Hacer cesar la comisión de los delitos, con la debida eficacia y oportuni
 
 IV.- Proponer al Ejecutivo el nombramiento o la remoción de los Agentes del Ministerio Público, así como el cambio de adscripción de los mismos;
 
-V.- Dirigir y coordinar las actividades de la Policía Judicial del Estado, así como la función de los Cuerpos de Seguridad Pública cuando actúen en auxilio de la Policía Judicial;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2001)</small>
+
+V.- Dirigir y coordinar las actividades de la Policía Ministerial del Estado, la cual estará bajo su mando inmediato;
 
 VI.- Prestar al Poder Judicial el auxilio necesario para el debido cumplimiento de las resoluciones que se dicten en materia penal;
 
 VII.- Coordinar su actuación con las Autoridades Federales en la investigación de los delitos de la competencia de aquéllos;
 
-VIII.- Atender en coordinación con la Secretaría General de Gobierno lo relativo a la estadística y medios de identificación de personas sujetas a proceso de carácter penal;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2001)</small>
 
-IX.- Imponer al personal de la Procuraduría y Agentes del Ministerio Público y de la Policía Judicial, las sanciones disciplinarias que correspondan por faltas cometidas en el desempeño de sus funciones; y
+VIII.- Coordinarse con la Secretaría de Seguridad Pública lo relativo a la Estadística y medios de identificación de personas sujetas a proceso de carácter penal;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2001)</small>
+
+IX.- Imponer al personal de la Procuraduría y Agentes de Ministerio Público y de la Policía Ministerial, las sanciones disciplinarias que correspondan por faltas cometidas en el desempeño de sus funciones, de conformidad a las leyes y reglamentos que correspondan; y
 
 X.- Las otras atribuciones previstas por las Leyes, Reglamentos y demás disposiciones aplicables.
 
@@ -651,7 +659,7 @@ IX.- Desempeñar funciones de asistencia técnica integral para los productores 
 
 X.- Promover y coordinar la ejecución de Programas de Infraestructura Física que contribuyan a incrementar la producción y productividad agropecuaria y forestal, así como la conservación y desarrollo de los recursos naturales de la Entidad;
 
-XI.- Coordinar en el seno del Comité de Planeación para el desarrollo del Estado de Baja California el funcionamiento del Subcomité Agropecuario y Forestal, así como organizar la información estadística del sector, y
+XI.- Coordinar en el seno del Comité de Planeación para el Desarrollo del Estado de Baja California el funcionamiento del Subcomité Agropecuario y Forestal, así como organizar la información estadística del sector, y
 
 XII.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
@@ -885,55 +893,123 @@ IV.- Desarrollar investigaciones de opinión pública, respecto a la imagen gene
 
 V.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ### CAPITULO XIX
 
-DE LA COMPETENCIA DE LA SECRETARIA JURIDICA Y PREVENCION SOCIAL.
+DE LA COMPETENCIA DE LA SECRETARIA DE SEGURIDAD PUBLICA.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 38.
 
-A la Secretaría Jurídica y Prevención Social le corresponde la atención y trámite de los siguientes asuntos:
+A la Secretaría de Seguridad Pública, le corresponde la atención y trámite de los siguientes asuntos:
 
-I.- Vigilar que en los asuntos de orden administrativo que competen al Poder Ejecutivo, se observen los principios de constitucionalidad y legalidad;
+I.- Desarrollar las políticas de seguridad pública en el Estado, así como proponer al Ejecutivo del Estado las acciones de gobierno, normatividad, instrumentos, programas y estrategias para la prevención de los delitos;
 
-II.- Intervenir en las controversias constitucionales en las que el Ejecutivo del Estado sea parte;
+II.- Proponer al Ejecutivo del Estado las medidas que garanticen la congruencia de las políticas de prevención del delito y cultura de la legalidad entre las dependencias de la administración pública estatal;
 
-III.- Representar al Gobernador del Estado, cuando éste así lo acuerde, en las acciones y controversias constitucionales a que se refiere el artículo 105 de la Constitución Federal;
+III.- Integrar y coordinar el Consejo Estatal de Seguridad Pública en los términos de la Ley de Seguridad Pública y Bases de Coordinación para el Estado de Baja California, y los programas de identificación e inventario de recursos humanos y materiales de las corporaciones, públicas y privadas, que brinden servicios de seguridad policial y preventiva en el Estado;
 
-IV.- Prestar consejo jurídico, emitir opinión y resolver las consultas que en materia jurídica le sean planteadas por el Gobernador y por las dependencias y entidades de la Administración Pública Estatal;
+IV.- Proponer en el seno del Consejo Estatal de Seguridad Pública políticas, acciones y estrategias de coordinación en materia de prevención del delito y acciones contra la delincuencia para todo el Estado;
 
-V.- Formular o emitir opinión sobre la constitucionalidad de los proyectos de Ley o Reglamentos que le encomiende el Ejecutivo del Estado;
+V.- Representar al Poder Ejecutivo del Estado, ante el Sistema Nacional de Seguridad Pública;
 
-VI.- Presidir e integrar la Comisión de Estudios Jurídicos, integrada por los responsables de las unidades de asuntos jurídicos de cada dependencia y entidad de la Administración Pública del Estado;
+VI.- Fomentar la participación ciudadana en la formulación de planes y programas de prevención en materia de delitos a través del Consejo Ciudadano de Seguridad Pública del Estado, y por conducto del Sistema Nacional de Seguridad Pública, en los delitos del fuero federal;
 
-VII.- Intervenir con la representación jurídica del Poder Ejecutivo en todos los juicios o negocios en que intervenga como parte, afecten su patrimonio o tenga interés jurídico;
+VII.- Promover y facilitar la participación social para el desarrollo de actividades de vigilancia sobre el ejercicio de sus atribuciones;
 
-VIII.- Participar como coadyuvante en los juicios o negocios en que las dependencias y entidades de la Administración Pública del Estado intervengan con cualquier carácter, en su caso y previo acuerdo con el Titular, ejercer las acciones y excepciones que correspondan para la defensa administrativa y judicial;
+VIII.- Atender de manera expedita las denuncias y quejas ciudadanas con relación al ejercicio de sus atribuciones;
 
-IX.- Organizar y controlar la Oficina Defensora de Oficio;
+IX.- Organizar, dirigir, administrar, supervisar y tener bajo su mando a la Policía Estatal Preventiva, así como garantizar el desempeño honesto de su personal y aplicar su régimen disciplinario;
 
-X.- Intervenir en el trámite de los casos de expropiación;
+X.- Proponer al Ejecutivo del Estado el nombramiento del Director de la Policía Estatal Preventiva;
 
-XI.- Proponer al Gobernador del Estado la creación y en su caso administrar las instituciones que contribuyan al desarrollo de la función tutelar para menores infractores y los Centros de Readaptación Social para adultos;
+XI.- Coordinarse con las dependencias u organismos encargados de adiestrar y capacitar a los cuerpos de seguridad pública del Estado, a fin de participar en la elaboración y diseño de los programas académicos de los aspirantes a Agentes de la Policía Estatal Preventiva y a Custodios del Sistema Estatal Penitenciario, así como organizar, dirigir y administrar el servicio civil de carrera de dichos cuerpos de seguridad;
 
-XII.- Operar y administrar el Sistema Estatal Penitenciario, regular la clasificación e internación de reos; Diseñar y ejecutar los programas de rehabilitación educativa; y promover la creación del patronato de reincorporación e integración social de reos y liberados;
+XII.- Salvaguardar la integridad física y derechos de las personas, prevenir la comisión de delitos del orden común, así como preservar las libertades, el orden y la paz públicos, en el ámbito estatal;
 
-XIII.- Tramitar, por acuerdo del Gobernador, las solicitudes de libertad preparatoria, preliberación y remisión parcial de la pena, traslado de los sentenciados que estén a disposición del Ejecutivo y vigilar la ejecución de las sanciones dictadas por las Autoridades del Poder Judicial;
+XIII.- Implementar las políticas preventivas que tiendan a combatir la comisión de los delitos, con la debida eficacia y oportunidad;
 
-XIV.- Coordinar el Consejo Estatal de Seguridad Pública, y los programas de identificación e inventario de recursos humanos y materiales de las corporaciones, públicas y privadas, que brinden servicios de seguridad policial y preventiva en el Estado y en su red carretera;
+XIV.- Solicitar y recibir de las autoridades federales, estatales y municipales, información a efecto de analizarla y utilizarla en la preservación de la seguridad pública y la prevención de los delitos;
 
-XV.- Participar en la elaboración y diseño de programas Académicos de Administración penitenciaria y capacitación de custodios;
+XV.- Recabar, organizar, seleccionar y analizar información, para la preservación de la seguridad pública y la prevención de los delitos;
 
-> <small>(F. DE E., P.O. 30 DE ENERO DE 1998)</small>
+XVI.- Realizar estudios y análisis para la formulación de planes en contra de la criminalidad, basándose en la información generada en materia de incidencia delictiva, en la investigación de causas que dan origen a los delitos, lugares de comisión, impacto y costos sociales; así como estudiar las acciones contra la criminalidad adoptadas por otras entidades, intercambiando experiencias en esta materia;
 
-XVI.- Fomentar la participación ciudadana, en la realización de programas y acciones tendientes a prevenir la toxicomanía en todos sus tipos; coordinándose con las autoridades cuya intervención establezcan las leyes federales;
+XVII.- Elaborar y difundir estudios multidisciplinarios y estadísticas sobre el fenómeno delictivo en Baja California, así como coordinarse con los distintos estados de la república, para el intercambio de información;
 
-XVII.- Regular y controlar la prestación de servicios de seguridad privada y expedir la anuencia del Ejecutivo necesaria para su establecimiento y operación, y autorizar el equipo y los aditamentos de protección necesarios para su función, y
+XVIII.- Efectuar, con el auxilio de las distintas dependencias del Estado, estudios sobre los actos delictivos no denunciados, e incorporar esta variable en el diseño de las políticas en materia de prevención del delito;
 
-XVIII.- Los demás que determinen expresamente las Leyes y Reglamentos.
+XIX.- Crear programas con el apoyo de otras dependencias del Ejecutivo del Estado, para la prevención del delito, combate a la delincuencia, tratamiento de adicciones y todo tipo de factores que incidan en la delincuencia, promoviendo la participación y concientización ciudadana, así como la promoción de valores;
+
+XX.- Tramitar las autorizaciones correspondientes a los cuerpos de seguridad del Estado, para la portación de armas;
+
+XXI.- Regular, supervisar y controlar la prestación de servicios de seguridad privada y expedir la anuencia o autorización del Ejecutivo del Estado, necesaria para su establecimiento y operación, así como autorizar el equipo y los aditamentos de protección necesarios para su función, conforme al reglamento que para tal efecto se expida;
+
+XXII.- Asistir al Ejecutivo del Estado en la celebración de convenios de colaboración, en el ámbito de su competencia, con autoridades federales, estatales o municipales y del Distrito Federal, así como establecer acuerdos de colaboración con instituciones similares, en los términos de la legislación aplicable;
+
+XXIII.- Ordenar la colaboración, cuando así se requiera, con las autoridades federales, municipales y otras autoridades estatales, en la protección de la integridad física de las personas, la preservación de sus bienes, en situaciones de peligro cuando se vean amenazadas por disturbios u otras situaciones que impliquen violencia o riesgo inminente;
+
+XXIV.- Auxiliar a las autoridades judiciales cuando así lo requieran, para el debido ejercicio de sus funciones;
+
+XXV.- Ejecutar las penas por delitos del orden común, administrar y operar el sistema estatal penitenciario, regular la clasificación e internación de reos; diseñar y ejecutar los programas de rehabilitación educativa; promover la creación del patronato de reincorporación e integración social de reos y liberados, así como organizar y dirigir las actividades de apoyo a liberados;
+
+XXVI.- Tramitar, por acuerdo del Ejecutivo del Estado, las solicitudes de libertad preparatoria, preliberación y remisión parcial de la pena, traslado de los sentenciados que estén a disposición del Ejecutivo y vigilar la ejecución de las sanciones dictadas por las Autoridades del Poder Judicial;
+
+XXVII.- Proponer al Ejecutivo del Estado la creación y en su caso administrar las instituciones que contribuyan al desarrollo de la función tutelar para menores infractores y los Centros de Readaptación Social para Adultos;
+
+XXVIII.- Tramitar por acuerdo del Ejecutivo del Estado, las solicitudes de indulto;
+
+XXIX.- Vigilar que en los asuntos de orden administrativo que competen al Poder Ejecutivo del Estado, se observen los principios de constitucionalidad y legalidad;
+
+XXX.- Asesorar en las controversias constitucionales en las que el Ejecutivo del Estado sea parte;
+
+XXXI.- Asesorar al Ejecutivo del Estado, cuando éste así lo acuerde, en las acciones y controversias constitucionales a que se refiere el artículo 105 de la Constitución Federal;
+
+XXXII.- Asistir jurídicamente al Poder Ejecutivo en todos los juicios o negocios en que intervenga como parte que afecten su patrimonio o tenga interés jurídico;
+
+XXXIII.- Participar como coadyuvante en los juicios o negocios en que las dependencias y entidades de la Administración Pública del Estado intervengan con cualquier carácter, en su caso y previo acuerdo con el Titular, ejercer las acciones y excepciones que correspondan para la defensa administrativa y judicial;
+
+XXXIV.- Prestar asesoría jurídica, emitir opinión y resolver las consultas que en materia jurídica le sean planteadas por el titular del Ejecutivo del Estado y por las dependencias y entidades de la Administración Pública Estatal;
+
+XXXV.- Formular o emitir opinión sobre la constitucionalidad y legalidad de los proyectos de Ley o Reglamentos que le encomiende el Ejecutivo del Estado;
+
+XXXVI.- Presidir e integrar la Comisión de Estudios Jurídicos, integrada por los responsables de las unidades de asuntos jurídicos de cada dependencia y entidad de la Administración Pública del Estado;
+
+XXXVII.- Coordinar los programas de normatividad jurídica, procurando la congruencia de los criterios jurídicos de las dependencias y entidades de la administración pública estatal, interviniendo en la actualización y simplificación del marco normativo;
+
+XXXVIII.- Intervenir en el asesoramiento jurídico de los trámites de expropiación por causa de utilidad pública;
+
+XXXIX.- Dirigir, organizar, administrar y evaluar la Defensoría de Oficio, garantizando su accesibilidad a los gobernados;
+
+XL.- Fomentar la participación ciudadana, en la realización de programas y acciones tendientes a la prevención del delito, coordinándose con las autoridades cuya intervención establezcan las leyes;
+
+XLI.- Fomentar en coordinación con la Secretaría de Salud del Estado, y demás dependencias y entidades del mismo, la participación ciudadana en la realización y operación de programas y acciones tendientes a tratar a personas con algún tipo de adicción;
+
+XLII.- Delegar por acuerdo del Ejecutivo del Estado, las facultades previstas en las fracciones XXX a la XXXIII de este artículo, y
+
+XLIII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
+ARTICULO 38 BIS.- Para ser Titular de la Secretaría de Seguridad Pública, se deberán reunir los requisitos siguientes:
+
+I.- Ser ciudadano mexicano por nacimiento;
+
+II.- Tener cuando menos treinta años de edad;
+
+III.- Poseer el día de la designación con antigüedad mínima de tres años, título profesional de Licenciado en Derecho; expedido por la autoridad o institución legalmente facultada para ello y debidamente registrado ante el Departamento de Profesiones;
+
+IV.- Haber residido en el Estado durante los cinco años anteriores al día de la designación;
+
+V.- Presentar examen de salud y antidoping de una Institución Pública de Salud;
+
+VI.- Presentar examen psicométrico ante la autoridad competente; y,
+
+VII.- Las demás que señalen las Leyes y reglamentos correspondientes.
+
+Para ser Subsecretario de Seguridad Pública, deberá cumplir los requisitos señalados en las fracciones I a la VII del presente artículo.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACION, P.O. 29 DE FEBRERO DE 1992)</small>
 
@@ -1354,3 +1430,9 @@ CUARTO.- Hasta en tanto son reformados para actualizar el nivel de la dependenci
 QUINTO.- En un lapso de sesenta días naturales a partir de la vigencia de este Decreto, deberán modificarse o expedirse los reglamentos correspondientes para dar operatividad a los órganos de la Secretaría del Trabajo.
 
 SEXTO. Durante el ejercicio fiscal del año 2001, la Secretaría del Trabajo y Previsión Social funcionará con la misma estructura con la que ha venido funcionando la Dirección del Trabajo y Previsión Social, hasta en tanto no se hagan las adecuaciones presupuestales correspondientes.
+
+P.O. 31 DE OCTUBRE DE 2001.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se otorgará un plazo de noventa días a partir de la entrada en vigor de las presentes reformas, a efecto de que se elabore el reglamento correspondiente y se adecuen todas aquellas normas jurídicas que impliquen impacto alguno en su contenido.
