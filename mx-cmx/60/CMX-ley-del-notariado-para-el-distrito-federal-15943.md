@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-notariado-para-el-distrito-federal-15943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-28"
-last_updated: "2000-03-28"
+last_updated: "2000-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15943&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-02-14"
 
 LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 28 de marzo de 2000.
 
@@ -78,7 +78,9 @@ IX. "Código Penal": El Código Penal para el Distrito Federal;
 
 X. "Colegio": El Colegio de Notarios del Distrito Federal, A. C.;
 
-XI. "Comisión de Honor y Justicia" o "Comisión": La Comisión de Honor y Justicia del Colegio a través de su Junta de Decanos;
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+
+XI. Comisión de Arbitraje, Legalidad y Justicia: La Comisión de Arbitraje, Legalidad y Justicia del Colegio designada por su Junta de Decanos;
 
 XII. "Comisión de Notariado": Comisión de Notariado de la Asamblea Legislativa del Distrito Federal;
 
@@ -192,17 +194,21 @@ Las autoridades podrán requerir de los notarios la prestación de sus servicios
 
 Los notarios participarán también, con tarifas reducidas y convenidas por el Colegio con las autoridades correspondientes, en programas de fomento a la vivienda y regularización de la tenencia de la propiedad inmueble.
 
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 18.
 
-Las autoridades y organismos de vivienda del Distrito Federal, así como los de la Federación, cuando éstos intervengan en actos que tengan por objeto algún inmueble ubicado en el Distrito Federal, requerirán los servicios únicamente de notarios de esta entidad para el otorgamiento de las escrituras relativas. En todo caso, recibidas las instrucciones correspondientes por el colegio, éste turnará a sus miembros dichos asuntos por estricto orden y con apego a la equidad.
-
-Los instrumentos que se autoricen por notario no designado en cumplimiento al orden estricto a que se refiere el párrafo anterior, serán nulos, en los términos de la fracción II del artículo 162 de esta ley.
+Las dependencias y entidades de la Administración Pública del Distrito Federal que realizan actividades relacionadas con la regularización de la propiedad de inmuebles y el fomento a la vivienda en el Distrito Federal, requerirán los servicios únicamente de notarios de esta entidad federativa para el otorgamiento de las escrituras relativas. Las instrucciones correspondientes serán giradas al colegio el cual las turnará a sus miembros por escrito orden y con apego a la equidad.
 
 Para los efectos de este artículo, los notarios respetarán un estricto orden de insaculación, conforme al siguiente procedimiento:
 
-El titular de la Dirección General Jurídica y de Estudios Legislativos, el titular de la Dirección General de Legalidad y Responsabilidades y el Presidente del Consejo del Colegio, llevarán a cabo la insaculación, depositando en una urna el nombre y número de cada notario de la entidad, en funciones al momento de la insaculación y mantendrán el riguroso orden en que se vayan sorteando. De dicha insaculación se levantará acta pormenorizada que será firmada por las personas mencionadas, debiendo el Consejo, hacerla del conocimiento de todos los miembros del colegio, en un plazo que no excederá de cinco días hábiles siguientes a la fecha de su firma.
+El titular de la Dirección General Jurídica y de Estudios Legislativos, el titular de la Dirección General de Legalidad y Responsabilidades y el Presidente del Consejo del Colegio, llevarán a cabo la insaculación, depositando en una urna el orden en que se vayan sorteando. De dicha insaculación se levantará acta pormenorizada que será firmada por las personas mencionadas, debiendo el Consejo hacerla del conocimiento de todos los miembros del Colegio, en un plazo que no excederá de cinco días hábiles siguientes a la fecha de su firma.
 
 Cada nuevo notario se incorporará intercalado en el orden establecido por insaculación, ocupando el turno inmediato siguiente que tenga lugar en el momento de su inicio de ejercicio profesional.
+
+El colegio informará mensualmente a las autoridades competentes, en los primeros cinco días hábiles de cada mes, los turnos que hubiere hecho durante el mes anterior.
+
+Los notarios dejarán constancia en el texto de cada instrumento, de las instrucciones recibidas.
 
 ###### Artículo 19.
 
@@ -216,9 +222,11 @@ Las autoridades competentes del Gobierno deberán concentrar la información de 
 
 La autoridad competente formará expedientes individuales de quienes soliciten examen de aspirante, de los aspirantes y de los notarios, en los que se concentrarán todos los antecedentes relevantes para la prestación del buen servicio; elementos de calificación de actuación y detección de irregularidades; avisos, quejas, procedimientos y demás documentos relacionados; y de todos aquellos que hayan defraudado, declarado falsamente, suplantado o ejercido indebidamente funciones notariales en el Distrito Federal o que en asuntos relacionados con ellos hayan incurrido en prácticas ilícitas.
 
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 22.
 
-El colegio participará en la conformación y recibirá de parte de las autoridades competentes la información a que se refiere el artículo 20; intercambiará impresiones con dichas autoridades para proveer lo necesario para el mejor servicio notarial. Igualmente el colegio recibirá la información y, en su caso, la documentación a que se refiere el artículo anterior, la cual deberá remitir en copia a la Junta de Decanos para que se provea lo necesario para la mejora del servicio notarial en el Distrito Federal y dé su opinión cuando así lo amerite.
+El colegio participará en la conformación y recibirá de parte de las autoridades competentes la información a que se refiere el artículo 20; intercambiará impresiones con dichas autoridades para proveer lo necesario para el mejor servicio notarial. Igualmente el colegio recibirá la información y, en su caso, la documentación a que se refiere el artículo anterior.
 
 ###### Artículo 23.
 
@@ -260,11 +268,13 @@ Se aplicarán las penas que correspondan al delito de abuso de autoridad al serv
 
 Esta Ley reconoce y protege el principio de libertad de elección de notario, en beneficio de la imparcialidad en la relación con las partes y de la ética de la función notarial.
 
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 30.
 
-El ejercicio de la función notarial y la asesoría jurídica que proporcione el Notario debe ser dada como jurista en actitud de uteralteridad en beneficio de las partes y del orden jurídico justo y equitativo de la Ciudad, y por tanto, incompatible con toda relación de sumisión ante favor, poder o dinero, que afecten su independencia formal o materialmente.
+El ejercicio de la función notarial y la asesoría jurídica que proporciona el notario, debe realizarlos en interés de todas las partes y del orden jurídico justo y equitativo de la ciudad, y por tanto, incompatible con toda relación de sumisión ante favor, poder o dinero, que afecten su independencia formal o materialmente.
 
-Los pactos de cuota litis a resultados judiciales, fuera de los supuestos del arancel, se consideran ilícitos cuando se hagan para pagar honorarios de instrumentos notariales y su comisión comprobada presuntamente implica práctica desleal sancionable para el Notario, quien por principio profesional da fe objetiva sin interés de resultado.
+El notario no deberá aceptar más asuntos que aquellos que pueda atender personalmente en su función autenticadora.
 
 ###### Artículo 31.
 
@@ -446,33 +456,35 @@ b) Los aspirantes a notarios del Distrito Federal; y
 
 c) Los solicitantes de examen de aspirante a notario, los licenciados en Derecho, pasantes o estudiantes de Derecho con la pretensión de adquirir los conocimientos y capacitación para aprobar exámenes, triunfar en oposiciones y ejercer funciones notariales.
 
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 53.
 
 Colaborarán y recibirán aportaciones y beneficios de la carrera notarial:
 
-I. Como aportantes de experiencia para la mejora de la carrera notarial y beneficiarios de servicios;
+I. Como aportantes de experiencia para la mejora de la carrera notarial y beneficiarios de servicios:
 
-II. Los abogados, estudiantes y en general, quienes pretendan recibir formación jurídica, bajo la perspectiva de la imparcialidad preventiva;
+a).- Los abogados, estudiantes y en general, quienes pretendan recibir formación jurídica, bajo la perspectiva de la imparcialidad preventiva;
 
-III. Las Barras y Colegios de Abogados, por el enriquecimiento de visiones complementarias a otros tipos de ejercicio del Derecho, y;
+b).- Las Barras y Colegios de Abogados, por el enriquecimiento de visiones complementarias a otros tipos de ejercicio del derecho;
 
-IV. Otros profesionistas, universitarios y en general los prestatarios.
+c).- Otros profesionistas, universitarios y en general los prestatarios.
 
-V. Como personas cercanas en virtud del valor de su conocimiento, opinión y por experiencias de la imparcialidad, de la contienda jurídica y en virtud de la necesaria complementariedad de actividades:
+II. Como personas cercanas en virtud del valor de su conocimiento, opinión y por experiencias de la imparcialidad, de la contenida jurídica y en virtud de la necesaria complementariedad de actividades:
 
-a) Los miembros del Poder Judicial, y
+a).- Los miembros del Poder Judicial, y
 
-b) Los litigantes y especialistas profesionales del Derecho procesal.
+b).- Los litigantes y especialistas profesionales del derecho procesal.
 
-VI. Como colaboradores en la realización de los fines del régimen de legalidad, los diversos servidores públicos y en especial los relacionados con la función notarial, el Archivo y el Registro;
+III. Como colaboradores en la realización de los fines del régimen de legalidad, los diversos servidores públicos y en especial los relacionados con la función notarial, el Archivo y el Registro.
 
-VII. Como sujetos beneficiarios de la asesoría imparcial y el cuidado proporcional del notario:
+IV. Como sujetos beneficiarios de la asesoría imparcial y el cuidado profesional del notario:
 
-a) Grupos sociales vulnerables, en especial indígenas; emigrantes; personas con discapacidades y los así considerados por las leyes respectivas ;
+a).- Grupos sociales vulnerables, en especial indígenas, emigrantes, personas con discapacidad y los así considerados por las leyes respectivas;
 
-b) Personas que requieran asesoría protectora.
+b).- Personas que requieran asesoría protectora, y
 
-c) En general, toda persona que ejerza el Derecho al servicio notarial en términos del artículo 12 de esta Ley
+c).- En general, toda persona que ejerza el derecho al servicio notarial en términos del artículo 12 de esta Ley.
 
 #### Sección Segunda. De los Exámenes
 
@@ -512,7 +524,9 @@ I. Señalar las fechas, horarios y lugar, relativos al inicio y término del per
 
 II. Precisar el día, hora y lugar en que se practicarán las pruebas teóricas y prácticas;
 
-III. Indicar el número y sede de las notarías vacantes o de nueva creación, y
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+
+III. Indicar el número de las notarias vacantes y de nueva creación, y
 
 IV. Señalar la obligación de pagar previamente, los derechos que determine el Código Financiero del Distrito Federal vigente.
 
@@ -522,7 +536,9 @@ Para obtener la patente de notario, el profesional del Derecho interesado, adem�
 
 I. Acreditar los requisitos de calidad profesional, práctica y honorabilidad.
 
-Los requisitos a que se refiere esta fracción, se presumen acreditados en términos de la información ad perpetuam a que se refiere el artículo 55 de esta Ley, salvo que posteriormente se demuestren hechos concretos que hicieran dudar de dicha cualidad, para lo cual con la opinión de la Junta de Decanos y la determinación de la autoridad competente, podrá ser requerida una complementación del procedimiento de información ad perpetuam;
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+
+Los requisitos a que se refiere esta fracción se presumen acreditados en términos de la información ad perpetuam a que se refiere el artículo 55 de esta Ley, salvo que posteriormente se demuestren hechos concretos que hicieran dudar de dicha cualidad, para lo cual con la opinión del colegio y la determinación de la autoridad competente podrá ser requerida una complementación del procedimiento de información ad perpetuam;
 
 II. Tener patente de aspirante registrada; salvo que la patente no hubiera sido expedida por causas imputables a la autoridad, en cuyo caso bastará acreditar la aprobación del examen con la constancia respectiva que emita el jurado;
 
@@ -546,7 +562,9 @@ a) Un Presidente nombrado por el Jefe de Gobierno, que será un jurista prestigi
 
 b) Un secretario, designado por el Colegio y que será el notario de menor antigüedad y se encargará de levantar el acta circunstanciada, la que será conservada, foliada en forma progresiva y consecutiva en el Libro de Registro de Exámenes de Aspirante o en su caso en el Libro de Registro de Exámenes de Oposición, y
 
-c) Tres vocales, de los cuales uno será notario designado por el Colegio y los otros dos serán designados por la Consejería Jurídica y de Servicios Legales, de entre una lista de quince notarios propuesta por el Colegio, para el examen de que se trate.
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+
+c) Tres vocales, de los cuales uno será notario designado por el colegio y los otros dos vocales serán designados por la Consejería Jurídica y de Servicios Legales, seleccionados de entre una lista que contenga los nombres de dos terceras partes del total de notarios en ejercicio en el Distrito Federal propuesta por el colegio y en su defecto, por excusas o impedimentos, profesores cuya especialización sea en cualquier disciplina relacionada con la función notarial designados por la Escuela o Facultad de Derecho, con sede en el Distrito Federal, a la que las Autoridades Competentes le requieran esa intervención. Si los profesores designados fueren notarios, deberán serlo del Distrito Federal.
 
 Los miembros que integren el Jurado no podrán ser cónyuges o parientes del sustentante, ni titulares de la notaría en que el sustentante haya realizado su práctica o prestado servicios, tengan o hubieren tenido alguna relación laboral, de negocios o amistosa con el sustentante o con familiares de éste.
 
@@ -628,9 +646,11 @@ El Jefe de Gobierno expedirá las patentes a que se refiere el artículo anterio
 
 Las patentes de aspirante y de notario deberán registrarse ante la autoridad competente, en el Registro Público, en el Archivo y en el colegio, previo pago de los derechos que señale el Código Financiero del Distrito Federal vigente. Una vez registrada una patente, uno de sus ejemplares se entregará a la autoridad competente y el otro lo conservará su titular.
 
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 65.
 
-Los notarios y los decanos son inamovibles de su cargo, salvo los casos previstos en esta ley. Asimismo la patente de los aspirantes es definitiva y permanente.
+Los notarios son inamovibles de su cargo, salvo los casos previstos en esta Ley. Asimismo la patente de los aspirantes es definitiva y permanente.
 
 ### CAPÍTULO II. DE LA ACTUACIÓN NOTARIAL
 
@@ -742,9 +762,11 @@ El notario es responsable administrativamente de la conservación y resguardo de
 
 Para integrar el protocolo, el colegio, bajo su responsabilidad, proveerá a cada notario y a costa de éste, de los folios necesarios a que se refiere esta sección, los cuales deberán ir numerados progresivamente. El colegio cuidará que en la fabricación de los folios se tomen las medidas de seguridad más adecuadas. El colegio podrá abstenerse de proveer de folios a un notario, si éste no está al corriente en el pago de las cuotas establecidas por dicho colegio. El colegio informará mensualmente a la autoridad competente de la entrega de folios que efectúe a los notarios, en la forma que para ese efecto determine dicha autoridad.
 
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 83.
 
-Al iniciar la formación de un libro, el notario hará constar la fecha en que se inicia, el número que le corresponda dentro de la serie de los que sucesivamente se hayan abierto en la notaría a su cargo, y la mención de que el libro se formará con los instrumentos autorizados por el notario o por quien legalmente lo substituya en sus funciones de acuerdo con esta ley. La hoja en la que se asiente la razón a que se refiere este artículo no irá foliada y se encuadernará antes del primer folio del libro. El notario asentará su sello y firma y acto continuo dará aviso a la autoridad del inicio indicado con mención del número de folio con que dicho libro se inicia
+Al iniciar la formación de una decena de libros, le notario hará constar la fecha en que se inician, el número que le corresponda dentro de la serie de los que sucesivamente se hayan abierto en la notaría a su cargo, y la mención de que los libros de la misma se formarán con los instrumentos autorizados por el notario o por quien legalmente lo sustituya en sus funciones, de acuerdo con esta ley. La hoja en la que se asiente la razón a que se refiere este artículo no irá foliada y se encuadernará antes del primer folio del libro con el cual se inicia la decena. El notario asentará su sello y firma y acto continuo dará aviso a la autoridad del inicio indicado con mención del número de folio con que dicha decena de libros se inicia.
 
 ###### Artículo 84.
 
@@ -834,9 +856,11 @@ IV. El notario certificará con su sello y firma la o las copias cotejadas, haci
 
 El notario deberá llevar un apéndice de los libros de registro de cotejos, el cual se formará con una copia cotejada de cada uno de los documentos que se ordenarán en forma progresiva de acuerdo a su número de registro. El notario deberá encuadernar el apéndice de los libros de registro de cotejos, procurando que el grosor de cada libro no exceda los siete centímetros.
 
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 99.
 
-Los libros de registro de cotejos y sus apéndices se remitirán al Archivo para su guarda a los cinco años, contados a partir de la fecha de su razón de terminación en términos del artículo 91 o, si el notario respectivo así lo prefiere en términos del artículo 95, enviando, previamente a la finalización del término indicado en este artículo un aviso al Archivo.
+Los libros de registro de cotejos y sus apéndices, se remitirán al Archivo para su guarda al año contado a partir de la fecha de su razón de terminación en términos del artículo 97 fracción II o, si el notario respectivo así lo prefiere al cumplirse ese plazo, dará aviso al Archivo de que los guardará por cuatro años más.
 
 #### Sección Tercera. De las Actuaciones y Documentos Notariales
 
@@ -1196,7 +1220,7 @@ II. Para acompañar informes solicitados por autoridad legalmente facultada para
 
 III. Para remitirlas a la autoridad judicial que ordene dicha expedición.
 
-IV. Para entregar al otorgante que la solicite, la reprodución de alguno o algunos de los documentos que obren en el apéndice.
+IV. Para entregar al otorgante que la solicite, la reprodución (sic) de alguno o algunos de los documentos que obren en el apéndice.
 
 ###### Artículo 155.
 
@@ -1296,15 +1320,17 @@ En los términos de esta ley se consideran asuntos susceptibles de conformación
 
 I. Todos aquellos actos en los que haya o no controversia judicial, los interesados le soliciten haga constar bajo su fe y asesoría los acuerdos, hechos o situaciones de que se trate;
 
-II. Todos aquellos en los que, exista o no controversia judicial, lleguen los interesados voluntariamente a un acuerdo sobre uno o varios puntos del asunto, o sobre su totalidad, y se encuentren conformes en que el notario haga constar bajo su fe y con su asesoría los acuerdos, hechos o situaciones de que se trate, siempre que se haya solicitado su intervención mediante rogación.
+II. Todos aquellos en los que, exista o no controversia judicial, lleguen los interesados voluntariamente a un acuerdo sobre uno o varios puntos del asunto, o sobre su totalidad, y se encuentren conformes en que el notario haga constar bajo su fe y con su asesoría los acuerdos, hechos o situaciones de que se trate, siempre que se haya solicitado su intervención mediante rogación;
 
-En aquellos asuntos que en términos del Código de Procedimientos Civiles conozcan los jueces, el Notario podrá intervenir en tanto no hubiere menores no emancipados o mayores incapacitados. En forma específica, ejemplificativa y no taxativa, en términos de este capítulo y de esta ley:
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
 
-I. En las sucesiones en términos del párrafo anterior y de la sección segunda de este capítulo.
+III. Todos aquellos asuntos que en términos del Código de Procedimientos Civiles conozcan los jueces en vía de jurisdicción voluntaria en los cuales el notario podrá intervenir en tanto no hubiere menores no emancipados o mayores incapacitados. En forma específica, ejemplificativa y no taxativa, en términos de este capítulo y de esta ley:
 
-II. En la celebración y modificación de capitulaciones matrimoniales, disolución y liquidación de sociedad conyugal, y
+a) En las sucesiones en términos del párrafo anterior y de la sección segunda de este capítulo;
 
-III. En las informaciones ad perpetuam, apeos y deslindes y demás diligencias.
+b) En la celebración y modificación de capitulaciones matrimoniales, disolución y liquidación de sociedad conyugal;
+
+c) En las informaciones ad perpetuam, apeos y deslindes y demás diligencias, excepto las informaciones de dominio.
 
 Las autorizaciones y habilitaciones especiales de sujetos a quienes falte capacidad jurídica se regirán por lo dispuesto en el Código Civil y en las demás normas correspondientes.
 
@@ -1704,7 +1730,9 @@ I. Toda persona con derecho a ello, podrá presentar por escrito ante la autorid
 
 II. La autoridad recibirá la queja y la admitirá a trámite si reúne los requisitos referidos en la fracción anterior. Procederá a registrar la queja en el libro de Gobierno que al efecto exista; al abrir el expediente respectivo, ordenará visita de inspección especial y notificará la queja al Notario de que se trate, así como al Colegio, a los que se les correrá traslado del escrito por el que se presentó la queja.
 
-III. Desahogada la visita de inspección especial a que se refiere la fracción anterior, la autoridad citará al quejoso, al Notario contra quien se haya instaurado el procedimiento y al Colegio, a una junta de conciliación, la cual solo podrá diferirse una vez. En esta junta se exhortará al quejoso y al Notario a conciliar sus intereses. Desahogada esta junta la autoridad pasará a recibir las pruebas durante un plazo de diez días hábiles. Serán admitidas todas las pruebas que las partes ofrezcan, con excepción de la confesional, y se observará para su desahogo y rendición lo dispuesto a este respecto por el Código de Procedimientos Civiles. Rendidas las pruebas, se procederá a escuchar los alegatos primero del quejoso, quien para tal efecto podrá hacerse asesorar por abogado o persona de su confianza, luego al Notario, así como la opinión del Colegio. Acto seguido, la autoridad citará a las partes para oír la resolución correspondiente, dentro de los siguientes diez días hábiles.
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+
+III.- Desahogada la visita de inspección especial a que se refiere la fracción anterior, la autoridad citará al quejoso, al notario contra quien se haya instaurado el procedimiento y al colegio, a una junta de conciliación la cual sólo podrá diferirse una vez. En esta junta se exhortará al quejoso y al notario a conciliar sus intereses. Desahogada esta junta y de no haber conciliación, la autoridad pasará a recibir las pruebas documentales durante un plazo de diez días hábiles. Rendidas las pruebas se procederá a escuchar los alegatos del primero del quejoso quien para tal efecto podrá hacerse asesorar por abogado o persona de su confianza, luego al notario, así como la opinión del colegio. Acto seguido, la autoridad citará a las partes para oír la resolución correspondiente dentro de los siguientes veinte días hábiles.
 
 ###### Artículo 231.
 
@@ -2010,7 +2038,13 @@ VIII. La (sic) demás que establezcan las leyes y los estatutos internos del Col
 
 El fondo de garantía de la responsabilidad por el ejercicio de la función notarial, al que se refieren la fracción I del artículo 67 y el artículo 68 de esta Ley, será permanente, y se constituirá con las cuotas a cargo de cada Notario y con los rendimientos de su inversión en valores de renta fija. En ningún caso este fondo tendrá un destino distinto al señalado por esta Ley.
 
-La fianza que el Colegio otorgue se regirá en todo lo no previsto por el Código Civil, con la única excepción de que el Colegio no requiere tener bienes raíces para responder de las obligaciones que garantice. En todo caso, las aportaciones que realicen los Notarios para constituir, mantener e incrementar los fondos de previsión, ayuda y ahorro que establezca el Colegio, quedarán afectas al pago que por responsabilidad realice el propio Colegio, con cargo a la fianza otorgada por este en términos del artículo 67 fracción I de la presente Ley.
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+
+La fianza que el Colegio otorgue se regirá en todo lo no previsto por el Código Civil, con la única excepción de que el Colegio no requiere tener bienes raíces para responder de las obligaciones que garantice.
+
+> <small>(ADICIONADO, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+
+En caso de que con cargo a la fianza a la que se refiere el párrafo anterior, el Colegio tuviere que realizar algún pago por responsabilidad en que hubiere incurrido alguno de sus miembros la parte que a éste corresponda en los fondos de previsión, ayuda y ahorro establecidos por el propio Colegio, se destinará para compensar dicho pago.
 
 ###### Artículo 255.
 
@@ -2028,9 +2062,11 @@ El Decanato del Notariado del Distrito Federal se forma por el grupo de expresid
 
 El Decanato se podrá reunir en todo tiempo sin necesidad de convocatoria formal previa, bastará que estén reunidos la mayoría de sus miembros para que pueda funcionar válidamente y sus resoluciones se tomarán por la mayoría de votos de los presentes. Para el quórum de reuniones sujetas a convocatoria, es necesaria la mayoría simple.
 
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 258.
 
-Para el ejercicio de sus funciones, la Junta de Decanos podrá designar comisiones de todo tipo, incluida la de Honor y Justicia, formadas por uno o más de sus miembros o Notarios en ejercicio, designados al efecto.
+Para el ejercicio de sus funciones la Junta de Decanos podrá designar comisiones de todo tipo, formadas por uno o más de sus miembros o notarios en ejercicio, designados al efecto.
 
 ###### Artículo 259.
 
@@ -2044,7 +2080,9 @@ III. Emitir opiniones respecto de los asuntos de importancia que le sean consult
 
 IV. Tener, por iniciativa propia, derecho de opinión ante el Consejo o la Asamblea, en asuntos generales o particulares de transcendencia para el Colegio;
 
-V. Ser árbitro para la solución de quejas o demandas que los solicitantes del servicio presenten en contra de Notarios, cuando ambos lo convengan, o en su caso designar para ellos árbitros Notarios en ejercicio;
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+
+V. Ser árbitro para la solución de quejas o demandas que los solicitantes del servicio presenten en contra de notarios, cuando ambas partes así lo convengan;
 
 VI. Ser tribunal de arbitraje de ejercicio profesional completo o, en su caso, designar árbitros para ello, los que deberán ser Notarios en ejercicio. Los Notarios, en todo tiempo, podrán voluntariamente someter el ejercicio completo de su función al arbitraje del Decanato. En este caso, la notaría sometida al arbitraje del Decanato exhibirá en lugar visible al público la constancia relativa. Las personas que tengan alguna queja o reclamación contra un Notario podrán libremente elegir si optan acudir a los tribunales correspondientes o al arbitraje conforme a este artículo. Tratándose de quejas a las autoridades, podrán también elegir si someten la cuestión a este arbitraje e, inclusive sometiéndose a él, dar parte a las autoridades competentes, si así es su voluntad;
 
@@ -2054,21 +2092,29 @@ VIII. Hacer recomendaciones en caso de denuncias o quejas respecto de un Notario
 
 IX. Formular al Colegio una propuesta de código deontológico de la profesión notarial o, en su caso, una declaración de los principios relativos que deban guiar su ejercicio y un decálogo sobre estas cuestiones. La formulación o aprobación de dicho código no es condición para el ejercicio de las facultades previstas para el Decanato o sus comisiones.
 
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 260.
 
-El Decanato, para el ejercicio de sus funciones, queda facultado para tener acceso a archivos y documentos de toda clase del Colegio y de los Notarios sujetos a sus procedimientos de Honor y Justicia o de arbitraje.
+El Decanato, para el ejercicio de sus funciones queda facultado para tener acceso a archivos y documentos de toda clase del Colegio y de los notarios que hayan aceptado someterse a sus procedimientos de arbitraje.
+
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 261.
 
-El Decanato designará y removerá a los integrantes de una Comisión de Honor formada por un número impar de sus miembros, quienes deberán ser notarios y designará y removerá al presidente de dicha Comisión.
+El Decanato designará y removerá de entre sus integrantes a una Comisión de Arbitraje, Legalidad y Justicia formada por un número impar de sus miembros en ejercicio y designará y removerá al presidente de dicha Comisión.
+
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 262.
 
-La Comisión de Honor y Justicia deberá, a solicitud de parte o bien cuando lo estime conveniente, investigar la conducta y actuación de un Notario, sea en casos concretos, o en relación con su actuación notarial, para verificar si ésta se desarrolla cumpliendo con todas las disposiciones legales aplicables y con la ética profesional.
+Cuando la Comisión a que se refiere el artículo anterior, en ejercicio de sus funciones constate la existencia de una irregularidad grave fuera del objeto de arbitraje deberá avisar de ello a las autoridades competentes.
+
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 263.
 
-La Comisión de Honor y Justicia citará las veces que sea necesario o conveniente al Notario cuya conducta se investigue, y éste o cualquier otro Notario que al efecto sean citados estarán obligados a concurrir a las citas, salvo causa grave, y a exhibir ante la Comisión de Honor y Justicia la documentación que obre en poder del Notario, quien además podrá, si lo cree conveniente, exhibir toda clase de pruebas instrumentales o de cualquier naturaleza para justificar su actuación.
+El notario que se someta a arbitraje si lo cree conveniente podrá exhibir toda clase de pruebas instrumentales o de cualquier naturaleza para justificar su actuación.
 
 ###### Artículo 264.
 
@@ -2082,9 +2128,11 @@ La resolución que emita la Comisión de Honor y Justicia no generará responsab
 
 El designado al Decanato o a una de sus comisiones estará obligado a aceptar su nombramiento y a desempeñar su encargo con el mayor celo y celeridad posibles.
 
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 267.
 
-La Junta de Decanos podrá emitir, por mayoría de sus miembros, normas procesales o de otro tipo para efectos del cumplimiento de su encargo. Recibirá igualmente las opiniones a que se refiere el artículo 23 de esta Ley.
+La Junta de Decanos podrá emitir, por mayoría de sus miembros, normas procesales o de otro tipo para efectos del cumplimiento de su encargo previsto en el artículo 259.
 
 ## TRANSITORIOS
 
@@ -2135,3 +2183,11 @@ DECIMO TERCERO.- Los notarios que hayan obtenido la patente antes de la entrada 
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a 30 de diciembre de mil novecientos noventa y nueve.- POR LA MESA DIRECTIVA.- DIP. RENE BALDOMERO RODRIGUEZ RUIZ, PRESIDENTE.- DIP. JOSE LUIS BENITEZ GIL, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los catorce días del mes de febrero de dos mil.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.- EL SECRETARIO DE FINANZAS.- ARMANDO LÓPEZ FERNÁNDEZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 14 DE SEPTIEMBRE DE 2000.
+
+PRIMERO.- El presente decreto entrará en vigor un día después de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. La insaculación efectuada por la Dirección General Jurídica en cumplimiento de lo ordenado por el artículo 18 de esta Ley se mantendrá vigente para todos los efectos previstos por este ordenamiento.
