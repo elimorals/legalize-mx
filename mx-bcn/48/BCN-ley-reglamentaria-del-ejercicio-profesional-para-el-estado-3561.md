@@ -4,7 +4,7 @@ identifier: "BCN-ley-reglamentaria-del-ejercicio-profesional-para-el-estado-3561
 country: "mx"
 rank: "ley"
 publication_date: "1957-07-10"
-last_updated: "1957-07-10"
+last_updated: "1965-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY REGLAMENTARIA DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 1965.
 
 Ley publicada en el Segundo Alcance al Periódico Oficial, el miércoles 10 de julio de 1957.
 
@@ -51,51 +51,55 @@ Todas las profesiones que requieren título para ejercerse en el Estado de Baja 
 
 Se entiende por título profesional, el documento expedido por Institución Docente legalmente autorizada, en favor de la persona que ha comprobado haber adquirido los conocimientos necesarios para el ejercicio de alguna de las profesiones que esta Ley reglamenta.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1965)</small>
+
 ###### ARTICULO 3o.
 
 Las profesiones que necesitan título para su ejercicio en el Estado de Baja California, son las siguientes:
 
-Arquitecto
+Arquitecto.
 
-Bacteriólogo
+Bacteriólogo.
 
-Biólogo
+Biológo.
 
-Cirujano Dentista
+Cirujano Dentista.
 
-Contador en sus diversas ramas
+Contadores Públicos.
 
-Corredor
+Corredor.
 
-Enfermera en sus diversas especialidades
+Enfermera en sus diversas especialidades.
 
-Partera
+Partera.
 
-Homeópata
+Homeópata.
 
-Farmacéutico
+Farmacéutico.
 
-Ingeniero en sus diversas ramas
+Ingeniero en sus diversas ramas:
 
 Abogado y Licenciado en Derecho.
 
-Licenciado en Economía
+Licenciado en Economía.
 
-Ciencias Políticas, Diplomacia
+Ciencias Políticas, Diplomacia.
 
-Marino en sus diversas ramas
+Periodismo.
 
-Médico en sus diversas especialidades
+Marino en sus diversas ramas.
 
-Veterinario
+Médico en sus diversas especialidades.
 
-Piloto Aviador
+Veterinario.
 
-Profesor de Educación en sus diversos grados y especialidades
+Piloto Aviador.
 
-Químico en sus diversas ramas y especialidades
+Profesor de Educación en sus diversos grados y especialidades.
 
-Trabajador Social
+Químico en sus diversas ramas y especialidades.
+
+Trabajador Social.
 
 ###### ARTICULO 4o.
 
@@ -144,6 +148,12 @@ LIC. BRAULIO MALDONADO SANDEZ.
 El Srio. Gral. de Gobierno,
 
 LIC. RAFAEL MORENO HENRIQUEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE AGOSTO DE 1965.
+
+UNICO:- Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 ### CAPITULO II.
 
