@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1932-10-27"
+last_updated: "1935-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 1932.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 1935.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -479,13 +479,11 @@ II. Ser abogado con título oficial, y tener cuando menos cinco años de prácti
 
 III. Tener treinta años cumplidos el día de la elección; estar en el pleno ejercicio de sus derechos políticos y civiles, y haber observado una conducta pública notoriamente buena.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 1935)</small>
 
 ###### Art. 42.
 
-Los Magistrados serán electos por el Congreso, constituido en Colegio Electoral por mayoría absoluta de votos y en escrutinio secreto.
-
-Durarán en su encargo cuatro años contados del primero de enero posterior a su elección. A partir del año de 1931 los Magistrados y Jueces de Primera Instancia, sólo podrán ser removidos, o destituidos de su cargo, cuando observen mala conducta, previo el juicio de responsabilidad respectivo o por la pérdida de alguna de las cualidades que para tales cargos les exige la Ley, así como por ineptitud en el desempeño del cargo conferido, que calificará quien hubiere hecho el nombramiento.
+Los magistrados serán electos por el Congreso constituido en Colegio Electoral, por mayoría absoluta de votos, en escrutinio secreto, y durarán en su encargo cuatro años, contados del primero de abril posterior a la elección. Los Magistrados y Jueces de Primera Instancia, que igualmente durarán cuatro años, sólo podrán ser removidos, o destituidos de su cargo, cuando observen mala conducta, previo el juicio de responsabilidad respectivo o por la pérdida de alguna de las cualidades que para tales cargos exige la Ley, así como por ineptitud en el desempeño del cargo conferido, que calificará quien hubiere hecho el nombramiento.
 
 ###### Art. 43.
 
@@ -676,3 +674,9 @@ EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITO
 P.O. 27 DE OCTUBRE DE 1932.
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+
+P.O. 21 DE MARZO DE 1935.
+
+PRIMERO.- Los Magistrados del Supremo Tribunal de Justicia en funciones, así como los Jueces de Primera Instancia, cesarán en su cargo el treinta y uno de marzo del corriente año, entrando a funcionar los electos al día siguiente.
+
+SEGUNDO.- Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
