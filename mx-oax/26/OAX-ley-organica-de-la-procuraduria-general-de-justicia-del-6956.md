@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-procuraduria-general-de-justicia-del-6956"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-12-31"
-last_updated: "1995-07-15"
+last_updated: "1995-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 31 de diciembre de 1983.
 
@@ -77,61 +77,73 @@ II.- Subprocurador de Averiguaciones Previas y Consignaciones.
 
 III.- Subprocurador de Control de Procesos.
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
 
-IV.- Fiscalía Especial para la Atención de Delitos Electorales;
+IV.- Sub'Procuradores Regionales;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
 
-V.- Dirección de Averiguaciones Previas;
+V.- Fiscalía Especial para la Atención de Delitos Electorales;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
 
-VI.- Dirección de Control de Proceso;
+VI.- Director de Averiguaciones Previas y Consignaciones;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
 
-VII.- Dirección Jurídica Consultiva;
+VII.- Director de Control de Procesos;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
 
-VIII.- Dirección de Servicios a la Comunidad y Participación Ciudadana;
+VIII.- Director Jurídico Consultivo;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
 
-IX.- Dirección de Servicios Periciales;
+IX.- Director de Derechos Humanos;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
 
-X.- Dirección de Derechos Humanos;
+X.- Director de Servicios a la Comunidad y Participación Ciudadana;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
 
-XI.- Dirección y Sub'Dirección de la Policía Judicial del Estado.
+XI.- Director de Servicios Periciales;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
 
-XII.- Visitaduría General, Visitadores, Agentes del Ministerio Público Auxiliares;
+XII.- Director de la Policía Judicial;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
 
-XIII.- Delegaciones Regionales, Agentes del Ministerio Público Auxiliares;
+XIII.- Dirección de Organización y Métodos;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
 
-XIV.- Agentes del Ministerio Público del Procurador, Investigadores Adscritos y Fiscales Especiales que requiera la Institución;
+XIV.- Sub'Directores;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
 
-XV.- Cuerpo de Agentes de la Policía Judicial;
+XV.- Visitador General y Visitadores,
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
 
-XVI.- jefes de Departamento y Oficina, así como todo el personal que se requiera para el cabal logro de sus objetivos;
+XVI.- Agentes del Ministerio Público, Auxiliares del Procurador, Auxiliares de Area, Investigadores, Adscritos y Fiscales Especiales que requiera la Institución;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 1995)</small>
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
 
-XVII.- Departamento de Capacitación.
+XVII.- Unidad de Apoyo Administrativo;
+
+(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
+
+XVIII.- Unidad de Informática;
+
+(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
+
+XIX.- Cuerpo de Agentes de la Policía Judicial;
+
+(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
+
+XX.- Jefes de Departamento y Oficina, así como todo el personal que se requiera para el cabal logro de sus objetivos.
 
 ###### ARTICULO 4o.
 
@@ -293,11 +305,11 @@ XXI.- Recibir las manifestaciones de bienes de los funcionarios y empleados del 
 
 XXII.- Dispensar la autopsia en los casos a que se refiere el artículo 33, Tercer Párrafo del Código de Procedimientos Penales del Estado.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 1993)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 23 Bis.
 
-Los Visitadores y las Delegaciones Regionales, son áreas adscritas al Titular de la Institución, dependiendo de él en forma directa.
+Los Subprocuradores, Visitadores, Dirección de Organización y Métodos, la Unidad de Apoyo Administrativo y la Unidad de Informática, son áreas adscritas al Titular de la Institución, dependiendo de él en forma directa.
 
 ###### ARTICULO 24.
 
@@ -329,15 +341,17 @@ XII.- Intervenir en la contratación, desarrollo, capacitación, promoción y ad
 
 XIII.- Las demás que le confieran otras disposiciones o el Procurador.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 1993)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 24 Bis.
 
-Las Direcciones de Averiguaciones Previas, Servicios Periciales y Policía Judicial, son las áreas adscritas a la Sub'Procuraduría de Averiguaciones Previas y por consiguiente, dependen de la misma.
+Las Direcciones de Averiguaciones Previas, y Consignaciones, Servicios Periciales, Servicios a la Comunidad, y Participación Ciudadana y Policía Judicial, estarán adscritas y dependerán de la Subprocuraduría de Averiguaciones Previas.
 
-Las Direcciones de Control de Procesos, Jurídica Consultiva, Derechos Humanos, Servicios a la Comunidad y Participación Ciudadana, estarán adscritas a la Sub'Procuraduría de Control de Procesos.
+Las Direcciones de Control de Procesos, Jurídica Consultiva, Derechos Humanos, estarán adscritas y dependerán de la Subprocuraduría de Control de Procesos.
 
-Igualmente, a cargo de esta última Sub'Procuraduría, estará el Control de las órdenes de aprehensión que libre el Organo Judicial.
+Cada Dirección contará con las Subdirecciones y Departamentos que le sean necesarios para el cumplimiento de sus atribuciones.
+
+Las Subprocuradurías Regionales contarán con las Subdirecciones y Departamentos que le sean necesarios para el cumplimiento de sus atribuciones de acuerdo a lo que disponga el Reglamento.
 
 ###### ARTICULO 25.
 
@@ -453,9 +467,11 @@ c).- Las Autoridades Judiciales del Estado.
 
 En caso de que se solicite el servicio por otra Autoridad o Institución, se prestará cuando lo acuerde el Procurador o los Subprocuradores, sin perjuicio de la atención preferente que deba darse a las Autoridades antes citadas.
 
-### CAPITULO VIII.
+### CAPITULO VII.
 
-DE LOS AGENTES DEL MINISTERIO PUBLICO AUXILIARES DEL PROCURADOR.
+DE LA VISITADURIA.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1993)</small>
 
 ### CAPITULO IV.
 
@@ -517,9 +533,9 @@ Los Cuerpos de Seguridad y demás Autoridades destinadas a mantener la tranquili
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MARZO DE 1993)</small>
 
-### CAPITULO IX.
+### CAPITULO VIII.
 
-DE LOS AGENTES DEL MINISTERIO PUBLICO ADSCRITOS.
+DE LOS AGENTES DEL MINISTERIO PUBLICO AUXILIARES DEL PROCURADOR.
 
 ###### ARTICULO 36.
 
@@ -545,11 +561,9 @@ III.- Dar cuenta al Procurador o a los Subprocuradores, de la visita y sus resul
 
 IV.- Desempeñar las comisiones especiales que el Procurador le encomiende y las demás que le señalen las Leyes.
 
-### CAPITULO X.
+### CAPITULO IX.
 
-DE LOS DELEGADOS REGIONALES.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 1993)</small>
+DE LOS AGENTES DEL MINISTERIO PUBLICO ADSCRITOS.
 
 ###### ARTICULO 38.
 
@@ -567,9 +581,11 @@ c).- Sobre la formulación de conclusiones no acusatorias o contrarias a las con
 
 III.- Intervenir en los demás asuntos en materia penal, civil o familiar que determine el Procurador.
 
-### CAPITULO XI.
+### CAPITULO X.
 
-DEL DEPARTAMENTO DE CAPACITACION.
+DE LOS SUBPROCURADORES REGIONALES.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 39.
 
@@ -615,21 +631,23 @@ Los Agentes del Ministerio Público adscritos a los Juzgados Mixtos de Primera I
 
 Los Agentes del Ministerio Público adscritos al Tribunal Superior de Justicia, tendrán las mismas facultades y atribuciones que los adscritos, compatibles con la naturaleza de sus funciones.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MARZO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO I.
+### CAPITULO XI.
 
-DE LA AVERIGUACION PREVIA.
+DEL DEPARTAMENTO DE CAPACITACION.
 
 ###### ARTICULO 43.
 
-Habrá los Delegados Regionales que requiera la Institución.
+Habrá los Subprocuradores Regionales que requiera la Institución, quienes ejercerán sus funciones en las circunscripciones territoriales que indique el Reglamento o el Acuerdo del Procurador en sus respectivos casos.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 44.
 
-Los Delegados Regionales tendrán las siguientes atribuciones:
+Los Subprocuradores regionales tendrán las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 1993)</small>
 
 I.- En materia de Averiguación Previa:
 
@@ -655,6 +673,8 @@ a) Las consultas sobre el no ejercicio de la acción penal; y,
 
 b) Las resoluciones de libertad y de acumulación.
 
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 1993)</small>
+
 II.- En materia de Proceso Penal:
 
 A) Supervisar y vigilar que los Agentes del Ministerio Publico de su zona:
@@ -667,6 +687,8 @@ c) Formulen correctamente sus conclusiones y si hubiere motivo para elaborar las
 
 d) Impugnen las resoluciones que sean contrarias a las disposiciones legales que rijan en la materia.
 
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 1993)</small>
+
 III.- En materia de Asuntos Civiles:
 
 A) Supervisar y vigilar que los Agentes del Ministerio Público de su zona:
@@ -677,9 +699,15 @@ b) Cumplan con todas y cada una de las disposiciones legales en defensa de los d
 
 c) Cumplan con todas y cada una de las disposiciones que las leyes les atribuyen en los procedimientos civiles.
 
-### CAPITULO II.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-DEL EJERCICIO DE LA ACCION PENAL.
+###### ARTICULO 44 Bis.
+
+En cada Subprocuraduría habrá un Subdirector de cada una de las áreas señaladas en el artículo anterior incluyendo servicios periciales y Policía Judicial, Agentes del Ministerio Público Auxiliares y el personal necesario para el cumplimiento de sus atribuciones.
+
+### CAPITULO I.
+
+DE LA AVERIGUACION PREVIA.
 
 ###### ARTICULO 45.
 
@@ -695,13 +723,13 @@ El objetivo del Departamento de Capacitación será la preparación permanente d
 
 La participación como alumno o profesor en las actividades del Departamento será obligatoria para el personal de la Procuraduría, cuando lo determine el Procurador.
 
+### CAPITULO II.
+
+DEL EJERCICIO DE LA ACCION PENAL.
+
 ### CAPITULO III.
 
 DE LA VIGILANCIA DE LA LEGALIDAD.
-
-### CAPITULO UNICO.
-
-DE LAS CORRECCIONES DISCIPLINARIAS Y DE LOS MEDIOS DE APREMIO.
 
 ## TITULO TERCERO.
 
@@ -709,7 +737,7 @@ FUNCIONES DEL MINISTERIO PUBLICO.
 
 ### CAPITULO UNICO.
 
-DISPOSICIONES GENERALES.
+DE LAS CORRECCIONES DISCIPLINARIAS Y DE LOS MEDIOS DE APREMIO.
 
 ###### ARTICULO 47.
 
@@ -909,6 +937,42 @@ ARTICULO 28 (6) Bis.- Durante las ausencias del Fiscal Especial para la atenció
 
 ARTICULO 28 (7) Bis.- Las autoridades que se mencionan en las fracciones XII, XIII y XIV del artículo 3° de la Ley Orgánica de la Procuraduría General de Justicia del Estado para la atención de Delitos Electorales, serán auxiliares del Fiscal Especial.
 
+(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE. E., P.O. 10 DE AGOSTO DE 1996)
+
+### CAPITULO IV (5) BIS.
+
+DEL DIRECTOR DE ORGANIZACION Y METODOS.
+
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
+
+ARTICULO 28 (8) Bis.- La Dirección de Organización y Métodos de la Procuraduría General de Justicia del Estado, estará a cargo de un Director con las siguientes atribuciones:
+
+I.- Realizar los estudios y análisis relativos a la organización e instrumentación del sistema integrado de programación de la Procuraduría, para la presupuestación de los recursos humanos, financieros y materiales con los que debe contar la Institución y organización de los mismos para su optimización;
+
+II.- Recabar los datos y elementos técnicos necesarios sobre los proyectos de disposiciones, políticas, normas y lineamientos que deban expedir las áreas competentes de la Procuraduría y someterlos a la aprobación del Procurador;
+
+III.- Coordinar sus actividades de Planeación con las diferentes áreas de la Procuraduría;
+
+IV.- Elaborar y actualizar los elementos que deberán aportarse para el Plan Estatal de Desarrollo, estableciendo una plena congruencia e implementariedad con los órganos y organismos relacionados;
+
+V.- Asesorar, proyectar y coordinar la planeación del centro y regiones;
+
+VI.- Establecer las metodologías y lineamientos que deberán seguirse, a fin de asegurar que los planes y programas que se generen, mantengan congruencia en su elaboración y contenido con las normas generales del Sistema Estatal de Planeación;
+
+VII.- Participar en las actividades que en materia de investigación y capacitación para la planeación realicen las dependencias de la Administración Pública Estatal u organismos análogos;
+
+VIII.- Proyectar y calcular las necesidades de recursos para la ejecución de los planes y programas de la Procuraduría;
+
+IX.- Procurar la adecuación de los objetivos y prioridades de la Procuraduría General de Justicia, en el ejercicio de sus atribuciones financieras;
+
+X.- Elaborar programas operativos anuales para su ejecución en materia de seguridad pública y procuración de justicia;
+
+XI.- Considerar el ámbito territorial de las acciones previstas en sus programas, procurando su congruencia con los objetivos y prioridades en materia de seguridad pública y procuración de justicia;
+
+XII.- Proponer a los Jefes de Departamento que le auxiliarán;
+
+XIII.- Las demás que expresamente le encomiende el Procurador.
+
 ### CAPITULO V.
 
 DE LA DIRECCION DE SERVICIOS PERICIALES.
@@ -916,12 +980,6 @@ DE LA DIRECCION DE SERVICIOS PERICIALES.
 ### CAPITULO VI.
 
 DE LA DIRECCION DE LA POLICIA JUDICIAL.
-
-### CAPITULO VII.
-
-DE LA VISITADURIA.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 1993)</small>
 
 ###### ARTICULO 51.
 
@@ -1135,6 +1193,10 @@ Para los efectos del artículo 49 de esta Ley, la persona ofendida por un delito
 
 El Ministerio Público está facultado para conceder el beneficio de la Libertad Provisional Bajo Caución, en los delitos culposos por tránsito de vehículos, en los términos del artículo 272 del Código de Procedimientos Penales del Estado.
 
+### CAPITULO UNICO.
+
+DISPOSICIONES GENERALES.
+
 ###### ARTICULO 93.
 
 El ejercicio de la acción penal, comprende desde la consignación que hace el Ministerio Público ante la Autoridad Judicial competente y su posterior actuación en el proceso, hasta que se dicte sentencia que cause ejecutoria.
@@ -1295,7 +1357,7 @@ EL SECRETARIO GENERAL DE DESPACHO,
 
 C.P. JESUS MARTINEZ ALVAREZ.- Rúbrica.
 
-Al C....
+Al C. ...
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
@@ -1312,3 +1374,7 @@ PRIMERO.- La Unidad Administrativa correspondiente de la Procuraduría General d
 SEGUNDO.- Las denuncias relativas a Delitos Electorales que a la fecha hayan sido presentadas en cualquier oficina o Agencias del Ministerio Público y las averiguaciones previas que se estén tramitando en cualquier parte del Estado de Oaxaca, se remitirán a la Fiscalía Especial, en un término no mayor de setenta y dos horas, a partir de la entrada en vigor del presente decreto. Lo propio se hará con las denuncias que se presenten a partir de esta fecha.
 
 TERCERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1995.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
