@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-266
 country: "mx"
 rank: "codigo"
 publication_date: "1980-09-13"
-last_updated: "1986-09-23"
+last_updated: "1988-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE SEPTIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ABRIL DE 1988.
 
 Código publicado en la Gaceta Oficial de Veracruz-Llave, el sábado 13 de septiembre de 1980.
 
@@ -277,7 +277,9 @@ IX.-Confinamiento;
 
 X.-Prohibición de ir a una circunscripción territorial determinada o de residir en ella;
 
-XI.-Decomiso y aplicación de los instrumentos y objetos del delito;
+> <small>(REFORMADA, G.O. 9 DE ABRIL DE 1988)</small>
+
+XI.-Decomiso de instrumentos, objetos y productos del delito.
 
 XII.- Amonestación; y
 
@@ -471,13 +473,13 @@ Tomando en cuenta las circunstancias del delito y las propias del delincuente y 
 
 ### CAPITULO XII. DECOMISO Y APLICACION DE LOS INSTRUMENTOS Y OBJETOS DEL DELITO
 
-> <small>(REFORMADO, 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
 
 ###### ARTICULO 60.
 
-Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Los objetos de uso lícito se decomisarán al reo según el criterio del Juez, sólo cuando aquél fuere sancionado por delito doloso, con excepción de las armas, los inmuebles utilizados en los casos previstos por los artículos 285 y 286 de este Código y de los bienes obtenidos por enriquecimiento ilícito que serán decomisados en todo caso. Tratándose de armas se les dará el destino dispuesto por la Ley Federal de Armas de Fuego y Explosivos y su Reglamento, o en los ordenamientos que resulten aplicables.
+Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Si son de uso ilícito, se decomisarán los instrumentos o productos cuando el delito sea intencional. Si pertenecen a un tercero, sólo se decomisarán cuando el tercero que los tenga en su poder o los haya adquirido bajo cualquier título, esté en alguno de los supuestos a los que se refiere el artículo 197 de este Código, independientemente de la naturaleza jurídica de dicho tercero propietario o poseedor y de la relación que aquél tenga con el delincuente, en su caso. Las autoridades competentes procederán al inmediato aseguramiento de los bienes que podrían ser materia del decomiso, durante la averiguación o en el proceso. Se actuará en los términos previstos por este párrafo cualquiera que sea la naturaleza de los instrumentos, objetos o productos del delito.
 
-Si dichos objetos pertenecen a otra persona, no se decomisarán conforme a las prevenciones de este artículo, cuando hayan sido empleados sin conocimiento de su dueño.
+Si los instrumentos o cosas decomisadas son sustancias nocivas o peligrosas, se destruirán a juicio de la autoridad que esté conociendo, en los términos previstos por el Código de Procedimientos Penales, pero la autoridad del conocimiento, cuando lo estime conveniente, podrá determinar su conservación para fines de docencia o investigación. Respecto de los instrumentos del delito, o cosas que sean objeto producto de él, la autoridad competente determinará su destino, según su utilidad para beneficio de la administración de justicia.
 
 ###### ARTICULO 61.
 
@@ -823,9 +825,11 @@ Si el ofendido fuere ascendiente, descendiente, cónyuge, concubina o concubinar
 
 Cuando en la comisión de las lesiones intervengan dos o más individuos y no constare quién o quiénes fueron los autores de aquéllas, se les impondrán de un mes hasta las tres cuartas partes del máximo de la sanción que correspondería al delito de lesiones cometidas según su modalidad y multa hasta de ocho mil pesos.
 
+> <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
+
 ###### ARTICULO 119.
 
-Cuando con motivo del tránsito de vehículos se causaren culposamente lesiones de las comprendidas en las fracciones I, II y III del artículo 114, el delito sólo se perseguiría a petición del legitimado, salvo que el conductor se hallare en estado de ebriedad o bajo el influjo de estupefacientes u otras substancias que produzcan efectos similares, así como cuando se diese a la fuga y no auxiliare a la víctima de delito.
+Cuando por culpa y con motivo del tránsito de vehículos se causen lesiones, cualquiera que sea su naturaleza, sólo se procederá a petición del agraviado, de su legítimo representante, o en su caso, del Ministerio Público siempre que el conductor no se hubiese encontrado en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o de cualquier otra sustancia que produzca efectos similares, y no se haya dejado abandonada a la víctima.
 
 ### CAPITULO III. DISPOSICIONES COMUNES AL HOMICIDIO Y LESIONES
 
@@ -985,7 +989,7 @@ V.-Cuando se produzca por tres o más agentes.
 
 ### CAPITULO V. ASALTO
 
-> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
 
 ###### ARTICULO 143.
 
@@ -1009,11 +1013,11 @@ No se procederá contra el raptor, si no por queja de la persona ofendida o de s
 
 ###### ARTICULO 147.
 
-Al que haga uso de la violencia física o moral sobre una persona con el propósito de causar un mal, obtener un lucro o de lograr su asentimiento para cualquier fin, se le sancionará con prisión de seis a diez años y multa hasta de cien mil pesos.
+Al que en lugar desprotegido haga uso de la violencia física o moral sobre una persona, con el propósito de causar un mal, obtener un lucro o de lograr su asentimiento para cualquier fin, se le sancionará con prisión de dos a nueve años y multa hasta de cien veces el salario mínimo.
 
-Si la conducta determinada en el párrafo precedente tiene lugar en cualquier vía de comunicación, vecinal o carretero, se sancionará con prisión de ocho a doce años de prisión y multa hasta de doscientos mil pesos.
+A quienes asalten, haciendo uso de la violencia física o moral, a los habitantes de una comunidad, con el propósito de causar un mal, obtener un lucro o de lograr su asentamiento para cualquier fin, se les sancionará con prisión de diez a treinta años y multa hasta de trescientas veces el salario mínimo.
 
-A quienes asalten un poblado se les sancionará con prisión de diez a treinta años y multa hasta de doscientos mil pesos.
+Si de la violencia resultare la comisión de otro delito, se aplicarán las reglas del concurso.
 
 ### CAPITULO VII. ATAQUES A LA LIBERTAD DE REUNION Y DE
 
@@ -1041,6 +1045,8 @@ Las mismas sanciones se aplicarán al que permanezca en una morada o sus depende
 
 ### CAPITULO I. VIOLACION
 
+> <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
+
 ###### ARTICULO 151.
 
 El que teniendo conocimiento de un secreto, lo revelare, si de ello pudiere resultar daño para alguien, se le impondrán prisión de un mes a un año y multa hasta de dos mil pesos.
@@ -1055,21 +1061,27 @@ Y LA SEGURIDAD SEXUAL
 
 ###### ARTICULO 152.
 
-A quien por medio de la violencia física o moral tenga cópula con una persona, sea cual fuere su sexo, se le impondrán de tres a ocho años de prisión y multa hasta de veinte mil pesos.
+A quien por medio de la violencia física o moral tenga cópula con una persona sea cual fuere su sexo, se le impondrán de seis a ocho años de prisión y multa hasta de doscientas veces el salario mínimo.
 
-Si el violador es tutor o padrastro de la víctima, la sanción de prisión podrá aumentarse hasta en cinco años.
+> <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
 
 ###### ARTICULO 153.
 
-Al que tenga cópula con persona menor de catorce años de edad o que no tenga capacidad de comprender o que por cualquier causa no pueda resistir, se le impondrán de tres a nueve años de prisión y multa hasta de treinta mil pesos.
+Al que tenga cópula con persona menor de catorce años de edad o que no tenga capacidad de comprender o que por cualquier causa no pueda resistir se le impondrán de seis a nueve años de prisión y multa hasta de doscientas veces el salario mínimo.
+
+> <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
 
 ###### ARTICULO 154.
 
-Cuando el violador hubiere cometido el delito utilizando los medios o circunstancias que le proporcionen el cargo o empleos públicos que desempeñe o la profesión que ejerza, será destituido definitivamente del cargo o empleo y suspendido por el término de cinco años en el ejercicio de su profesión, independientemente de las sanciones que conforme a los artículos anteriores le correspondan.
+Cuando la violación sea cometida por dos o más personas, la prisión será de seis a quince años y la multa hasta de trescientas veces el salario mínimo.
+
+> <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
 
 ###### ARTICULO 155.
 
-Cuando la violación sea cometida por dos o más personas, la prisión será de seis a quince años y la multa hasta de cincuenta mil pesos.
+Cuando el delito de violación fuere cometido por un ascendiente contra su descendiente, por éste contra aquél, por el tutor en contra de su pupilo, o por el padrastro de la víctima, además de las sanciones que señalan los artículos que anteceden, la sanción de prisión podrá aumentarse hasta en cinco años. El culpable perderá la patria potestad o la tutela, en su caso, así como el derecho de heredar al ofendido.
+
+Cuando el violador hubiere cometido el delito utilizando los medios o circunstancias que le proporcionen el cargo o empleo públicos que desempeñe o la profesión que ejerza, será destituido definitivamente del cargo o empleo y suspendido por el término de cinco años en el ejercicio de su profesión, independientemente de las sanciones que conforme a los artículos anteriores le correspondan.
 
 ### CAPITULO III. ABUSOS DESHONESTOS
 
@@ -1105,15 +1117,17 @@ El delito de abusos deshonestos será perseguido por querella de parte ofendida 
 
 ###### ARTICULO 160.
 
-Al que profiera una expresión o ejecute una acción para manifestar desprecio a una persona o con el fin de hacerle una ofensa, se le impondrá sanción de un mes a un año de prisión o multa hasta de tres mil pesos.
+(DEROGADO, G.O. 9 DE ABRIL DE 1988)
 
 ###### ARTICULO 161.
 
-Cuando las injurias fueren recíprocas, el juez podrá según las circunstancias, declarar exentas de sanción a las dos partes o a alguna de ellas, o exigirles caución de no ofender.
+(DEROGADO, G.O. 9 DE ABRIL DE 1988)
 
 ### CAPITULO IV. DISPOSICIONES COMUNES PARA LOS
 
 DELITOS CONTRA EL HONOR
+
+> <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
 
 ###### ARTICULO 162.
 
@@ -1149,7 +1163,7 @@ Cuando esté pendiente el proceso que se instruya por el delito imputado, se sus
 
 ###### ARTICULO 167.
 
-No se procederá contra los autores de injurias, difamación o calumnia, sino por querella de los ofendidos o de sus legítimos representantes, salvo que se produzcan con posterioridad al fallecimiento del ofendido, en cuya hipótesis sólo se procederá por querella de sus familiares.
+No se procederá contra los autores de difamación o calumnia, sino por querella de los ofendidos o de sus legítimos representantes, salvo que se produzcan con posterioridad al fallecimiento del ofendido, en cuya hipótesis sólo se procederá por querella de sus familiares o los legítimos representantes de aquél.
 
 ###### ARTICULO 168.
 
@@ -1189,15 +1203,21 @@ Al que se apodere de una cosa total o parcialmente ajena, mueble, sin consentimi
 
 I.- Si el apoderamiento fuere con ánimo de dominio o de lucro, y el valor de lo robado no excediere de cien veces el salario, con prisión de un mes a cinco años y multa hasta de cien veces dicho salario.
 
-Cuando excediere de cien pero no de doscientas veces el salario, la sanción será de tres a siete años de prisión y multa hasta de ciento ochenta veces el salario.
+> <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
 
-Cuando excediere de doscientas veces el salario, la sanción será de cuatro a diez años de prisión y multa hasta de quinientas veces el salario.
+Cuando excediere de cien pero no de quinientas veces el salario, la sanción será de tres a siete años de prisión y multa hasta de doscientas veces el salario.
+
+> <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
+
+Cuando excediere de quinientas veces el salario, la sanción será de cuatro a diez años de prisión y multa hasta de trescientas veces el salario.
 
 Para estimar la cuantía del robo se atenderá únicamente al valor de cambio de la cosa robada Si éste no pudiera determinarse o por su naturaleza no fuera posible fijar su valor o cantidad, se aplicará de un mes a cuatro años de prisión y multa hasta de cien veces el salario.
 
-II.-Si el apoderamiento de la cosa se realizó con ánimo de uso, se impondrán prisión de un mes a siete años y multa hasta de cien veces el salario. Además, el responsable pagará al ofendido como reparación del daño, el doble del alquiler o arrendamiento de la cosa usada.
+> <small>(REFORMADA, G.O. 9 DE ABRIL DE 1988)</small>
 
-III.-Si el apoderamiento fuere con ánimo de dominio o de lucro de un vehículo automotor, con prisión de seis a diez años y multa hasta de doscientas veces el salario.
+II.-Si el apoderamiento de la cosa se realizó con ánimo de uso, se impondrán prisión de un mes a tres años y multa hasta de cincuenta veces el salario. Además el responsable pagará al ofendido como reparación del daño, el doble del alquiler o arrendamiento de la cosa usada.
+
+III.- (DEROGADA, G.O. 9 DE ABRIL DE 1988)
 
 > <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
@@ -1215,33 +1235,59 @@ I.-La sustracción de una cosa mueble, ejecutada por el dueño, si la cosa se ha
 
 II.-El aprovechamiento de energía eléctrica o de algún fluido, sin consentimiento de la persona que legalmente pueda disponer de él.
 
-> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE ABRIL DE 1988)</small>
 
 ###### ARTICULO 176.
 
-Además de las sanciones que correspondan conforme al artículo 173, se aplicarán al responsable de robo:
+Se aplicarán al responsable del robo, además de las sanciones que correspondan conforme al artículo 173, las siguientes:
 
-I.-De tres a cuatro años de prisión, cuando:
+> <small>(REFORMADA, G.O. 9 DE ABRIL DE 1988)</small>
+
+I.-De tres meses a cuatro años de prisión, cuando:
+
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 a).-Lo cometa un dependiente o doméstico contra su patrón o alguno de la familia de éste en cualquier parte;
 
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
 b).-Lo cometa un huésped, comensal o acompañante de éstos.
+
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 c).-Lo realice el dueño o alguno de su familia en la casa del primero, contra sus dependientes o domésticos o contra cualquier otra persona;
 
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
 d).-Lo cometan los dueños o empleados de empresas o establecimientos comerciales, en los lugares en que presten sus servicios al público y en los bienes de los huéspedes o clientes;
+
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 e).-Lo cometan los obreros, artesanos, aprendices o discípulos en la casa, taller o escuela en que habitualmente trabajen o aprendan o en la habitación oficina, bodega u otros lugares a los que tengan libre entrada con el carácter indicado;
 
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
 f).-Se aprovechen las condiciones de confusión que se produzcan por catástrofe o desorden público; y
+
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 g).-Se efectúe por varias personas.
 
-II.-De cinco a diez años de prisión, cuando:
+> <small>(REFORMADA, G.O. 9 DE ABRIL DE 1988)</small>
 
-a).-Se ejecute con violencia física o moral en las personas o en las cosas, o bien se ejerza ésta para proporcionarse la fuga o defender lo robado, y
+II.-De cinco meses a seis años de prisión, cuando:
 
-b).-Se cometa en lugar cerrado, habitado o destinado para habitación o sus dependencias, o en establecimientos comerciales o bodegas.
+> <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
+
+a).-Se efectúe por varias personas;
+
+> <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
+
+b).-Se ejecute con violencia física o moral en las personas o en las cosas, o bien se ejerza ésta para proporcionarse la fuga o defender lo robado; y
+
+> <small>(ADICIONADO, G.O. 9 DE ABRIL DE 1988)</small>
+
+c).-Se cometa en lugar cerrado, habitado o destinado para habitación o sus dependencias.
 
 > <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
@@ -1339,9 +1385,13 @@ Al que engañando a alguien o aprovechándose del error en que éste se encuentr
 
 I.-Si el valor de la cosa no excediere de cien veces el salario, con prisión de uno a cinco años y multa hasta de cien veces dicho salario;
 
-II.-Cuando excediere de cien pero no de doscientas veces el salario, la sanción será de tres a siete años de prisión y multa hasta de ciento ochenta veces el salario, y
+> <small>(REFORMADA, G.O. 9 DE ABRIL DE 1988)</small>
 
-III.-Cuando el valor de la cosa excediere de doscientas veces el salario, la sanción será de cuatro a diez años de prisión y multa hasta de quinientas veces el salario.
+II.-Cuando excediere de cien pero no de quinientas veces el salario, la sanción será de tres a siete años de prisión y multa hasta de ciento ochenta veces el salario, y
+
+> <small>(REFORMADA, G.O. 9 DE ABRIL DE 1988)</small>
+
+III.-Cuando el valor de la cosa excediere de quinientas veces el salario, la sanción será de cuatro a diez años de prisión y multa hasta de quinientas veces el salario.
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
@@ -1407,6 +1457,10 @@ Si el despojo se realiza por dos o más personas, además de las sanciones seña
 
 Cuando la ocupación no se haya ejecutado con violencia y él o los ocupantes voluntariamente restituyan al poseedor en el goce de su derecho, antes de que el Ministerio Público deduzca la acción persecutoria, no se impondrá sanción alguna.
 
+> <small>(ADICIONADO, G.O. 9 DE ABRIL DE 1988)</small>
+
+Cuando el delito de despojo se cometa en el área rural, sin violencia, se trate de delincuentes primarios y se acredite haber reparado el daño a satisfacción del ofendido, la sanción que se imponga será hasta de un mes de prisión o multa hasta de cincuenta días de salario mínimo.
+
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ### CAPITULO XI. DISPOSICIONES COMUNES A LOS DELITOS CONTRA EL PATRIMONIO
@@ -1423,11 +1477,11 @@ Al que por cualquier medio destruya o deteriore una cosa total o parcialmente aj
 
 La prisión podrá aumentarse hasta diez años y la multa hasta quinientas veces el salario, si el daño recae en bienes de valor científico, artístico, cultural o de utilidad pública.
 
-> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
 
 ###### ARTICULO 196.
 
-El delito de daños cometido culposamente sólo se perseguirá a petición del legitimado para hacerlo, más si los daños se ocasionaren con motivo del tránsito de vehículos y el conductor se hallare en estado de ebriedad o bajo el influjo de estupefacientes u otras substancias que produzcan efectos similares, así como cuando aquél se diese a la fuga y no auxiliare a la víctima del delito, se perseguirá de oficio.
+El delito de daños sólo se perseguirá a petición del legitimado para hacerlo, más si los daños se ocasionaren con motivo del tránsito de vehículos y el conductor se hallare en estado de ebriedad o bajo el influjo de estupefacientes u otras substancias que produzcan efectos similares, así como cuando aquél se diese a la fuga y no auxiliare a la víctima del delito, se perseguirá de oficio.
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
@@ -1445,7 +1499,7 @@ I.-Si es con ánimo de dominio o uso de seis meses a cuatro años de prisión y 
 
 II.-Si es con ánimo de lucro con prisión de cuatro a ocho años y multa hasta de doscientas veces el salario; y
 
-III.-Tratándose de un vehículo automotor, o sus partes, o sus accesorios, si es con ánimo de dominio, uso o lucro, de siete a doce años de prisión y multa hasta de trescientas veces el salario.
+III.- (DEROGADA, G.O. 9 DE ABRIL DE 1988)
 
 Se equipara al encubrimiento por receptación, el borrar, modificar o de cualquier forma intervenir, para alterar los números de serie o de motor de un vehículo, o las características de éste, o la documentación con que se ampare o pretendan ampararlo, con fines de dominio, lucro o uso.
 
@@ -1462,6 +1516,10 @@ Para los efectos de este Título, se entiende por salario, el salario mínimo ge
 ###### ARTICULO 199.
 
 Se procederá a instancia del ofendido, cuando, sin darse la violencia física o moral en las personas para la ejecución o fuga, los delitos de robo, abigeato, fraude, administración fraudulenta, despojo o daños, se cometan por un ascendiente contra su descendencia o por éste contra aquél, entre cónyuges, concubinos, entre adoptante y adoptado o por un padrastro contra su hijastro o viceversa. En caso de parentesco por consaguinidad en línea colateral y por afinidad, sólo se requerirá querella cuando se trate de parientes hasta el tercer grado.
+
+> <small>(ADICIONADO, G.O. 9 DE ABRIL DE 1988)</small>
+
+Asimismo, se perseguirá a petición de la parte ofendida el fraude, cuando su monto no exceda del equivalente a quinientas veces el salario mínimo general vigente en el lugar y en el momento en que se cometió el delito y el ofendido sea un solo particular. Si hubiere varios particulares ofendidos, se procederá de oficio, pero el Juez podrá prescindir de la imposición de pena cuando el agente haya reparado los daños y perjuicios causados a los ofendidos y no exista oposición de cualquiera de éstos.
 
 > <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
@@ -2003,6 +2061,10 @@ Se sancionarán con prisión de seis meses a diez años y multa hasta de cien mi
 
 Se aplicará la misma sanción a quien haga figurar como suyos bienes que el servidor público adquiera o haya adquirido en contravención de lo dispuesto en la misma Ley.
 
+> <small>(ADICIONADO, G.O. 9 DE ABRIL DE 1988)</small>
+
+Además de las sanciones establecidas en este artículo, se decomisarán en beneficio del Estado aquellos bienes, cuya procedencia no logre acreditarse de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
 ### CAPITULO XII. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
 > <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
@@ -2195,11 +2257,9 @@ II.-Venda o prometa vender construcciones ubicadas en conjuntos habitacionales.
 
 Estos delitos se perseguirán a querella del particular afectado o de la autoridad facultada para conceder el permiso o la licencia correspondiente, quienes podrán otorgar el perdón judicial, cuando el infractor satisfaga los requisitos de la Ley aplicable y sus reglamentos, acredite la reparación de los daños que pudiera haber causado y pague las multas que se le impongan.
 
-> <small>(ADICIONADO, 23 DE SEPTIEMBRE DE 1986)</small>
-
 ###### ARTICULO 288.
 
-Los Notarios Públicos u otros funcionarios fedatarios que autoricen convenios que contravengan las disposiciones de este Título, serán sancionados con la suspensión definitiva de su cargo. Igual sanción se aplicará a los encargados de los Registrados Públicos de la Propiedad que inscriban documentos relativos en que no conste la autorización para su otorgamiento.
+(DEROGADO, G.O. 9 DE ABRIL DE 1988)
 
 ## ARTICULOS TRANSITORIOS
 
@@ -2240,3 +2300,13 @@ G.O. 23 DE SEPTIEMBRE DE 1986.
 DECRETO NUM. 349 QUE REFORMA EL ARTICULO 60 Y ADICIONA CON UN TITULO XVI EL CODIGO PENAL
 
 Artículo Unico.-La presente Ley entrará en vigor a los quince días posteriores a su publicación en la "Gaceta Oficial" órgano del Gobierno del Estado.
+
+G.O. 9 DE ABRIL DE 1988.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los quince días después de su publicación en la "Gaceta Oficial", órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan los artículos 160, 161, 173, en su fracción III; 197, en su fracción III y 288 y todas las demás disposiciones que se opongan al presente.
