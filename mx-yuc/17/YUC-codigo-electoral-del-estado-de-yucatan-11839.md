@@ -4,7 +4,7 @@ identifier: "YUC-codigo-electoral-del-estado-de-yucatan-11839"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-16"
-last_updated: "2001-08-09"
+last_updated: "2003-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO ELECTORAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE AGOSTO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE JUNIO DE 2003.
 
 Código publicado en el Suplemento al Diario Oficial el 16 de Diciembre de 1994.
 
@@ -57,7 +57,9 @@ Para el desempeño de sus funciones, las autoridades electorales tendrán el apo
 
 La aplicación de las normas de este Código corresponde, en sus respectivos ámbitos de competencia, al Instituto Electoral del Estado y al Tribunal Electoral del Estado.
 
-La interpretación de este Código se hará conforme a los criterios gramatical, sistemático y funcional, con base en lo dispuesto en el último párrafo del artículo 14 de la Constitución General de la República.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+La interpretación de este Código se hará conforme a los criterios gramatical, sistemático y funcional. A falta de disposición expresa, se aplicarán los principios generales del derecho con base en lo dispuesto en el último párrafo del artículo 14 de la Constitución General de la República.
 
 ## TITULO SEGUNDO. DE LA INTEGRACION DE LOS PODERES LEGISLATIVO
 
@@ -75,31 +77,41 @@ El ámbito territorial de los quince distritos electorales uninominales, será d
 
 El Poder Ejecutivo se deposita en un ciudadano que se denomina Gobernador del Estado de Yucatán.
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 6.
 
-Los municipios son la base de la división territorial y de la organización política y administrativa. Los municipios del Estado serán administrados por ayuntamientos de elección popular directa, compuestos por regidores y dentro de los cuales uno será electo con el carácter de Presidente.
+El Municipio Libre es la base de la división territorial y de la organización política y administrativa. Cada Municipio del Estado será Gobernado por un Ayuntamiento de elección popular directa, integrado por Regidores y dentro de los cuales uno será electo con el carácter de Presidente.
 
-El Congreso del Estado, para determinar el número total de regidores de los ayuntamientos, considerados tanto los de mayoría relativa como los de representación proporcional, tomará en cuenta los fenómenos demográficos registrados en el Censo General de Población y Vivienda actualizados, de la manera siguiente:
+El Congreso del Estado, para determinar el número total de Regidores de los ayuntamientos, considerados tanto los electos según el principio de mayoría relativa como los electos según el principio de representación proporcional, tomará en cuenta los fenómenos demográficos registrados en el Censo General de Población y Vivienda actualizados, de la manera siguiente:
 
-I.- Cinco regidores para aquellos municipios que tengan hasta cinco mil habitantes, de los cuales tres serán de mayoría y dos de representación proporcional;
+I.- cinco regidores para aquellos ayuntamientos de los municipios que tengan hasta cinco mil habitantes, de los cuales tres serán electos según el principio de mayoría relativa y dos según el principio de representación proporcional;
 
-II.- Ocho regidores para aquellos municipios que tengan hasta diez mil habitantes, de los cuales cinco serán de mayoría y tres de representación proporcional; y,
+II.- ocho regidores para aquellos ayuntamientos de los municipios que tengan hasta diez mil habitantes, de los cuales cinco serán electos según el principio de mayoría relativa y tres según el principio de representación proporcional; y,
 
-III.- Diez regidores para aquellos municipios que tengan más de diez mil habitantes, de los cuales seis serán de mayoría y cuatro de representación proporcional, con excepción del ayuntamiento del municipio de Mérida que tendrá diez de mayoría y ocho de representación proporcional.
+III.- Diez Regidores para aquellos ayuntamientos de los municipios que tengan más de diez mil habitantes, de los cuales seis serán electos según el principio de mayoría relativa y cuatro según el principio de representación proporcional, con excepción del Ayuntamiento del Municipio de Mérida que se integrará por dieciocho regidores, de los cuales, diez serán electos según el principio de mayoría relativa y ocho según el principio de representación proporcional.
 
 ### CAPITULO SEGUNDO. DE LAS ELECCIONES ORDINARIAS Y EXTRAORDINARIAS
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 7.
 
-Las elecciones ordinarias se celebrarán cada tres años para diputados y regidores y cada seis para Gobernador. Tendrán lugar el cuarto domingo del mes de mayo del año correspondiente a la elección.
+Las elecciones ordinarias se celebrarán cada tres años para diputados y regidores y cada seis para Gobernador. Tendrán lugar el tercer domingo del mes de mayo del año correspondiente a la elección.
 
 ###### Artículo 8.
 
 Cada elección ordinaria será precedida por una convocatoria expedida antes del día quince de febrero del año de la elección por el Gobernador, en ejercicio de la facultad que le otorga la fracción XIII del artículo 55 de la Constitución Política del Estado. La convocatoria será publicada en el Diario Oficial del Gobierno del Estado.
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 9.
 
-Cuando se declare nula una elección o los integrantes de la formula triunfadora resultaren inelegibles, el Congreso del Estado expedirá la convocatoria para la elección extraordinaria dentro de los cuarenta y cinco días siguientes a la declaratoria de nulidad.
+cuando se declare nula una elección, el Congreso del Estado expedirá la convocatoria para la elección extraordinaria correspondiente.
+
+La convocatoria a elecciones extraordinarias deberá emitirse dentro de los cuarenta y cinco días siguientes a aquel en que la resolución que declara la nulidad de una elección, adquiera el carácter de definitiva e inatacable.
+
+Dicha convocatoria, deberá señalar la fecha en que se celebrará la elección y la fecha de la toma de posesión de quienes resulten electos.
 
 ###### Artículo 10.
 
@@ -127,7 +139,9 @@ El voto es universal, libre, secreto, directo, personal e intransferible y expre
 
 Votar en las elecciones constituye un derecho y una obligación del ciudadano yucateco, que se ejerce para integrar los órganos de elección popular del Estado y sus municipios.
 
-Quedan prohibidos los actos que generen presión o coacción a los electores. Las sanciones a la violación de esta disposición queda sujeta a lo establecido en este Código y en el de Defensa Social del Estado.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Quedan prohibidos los actos que generen presión o coacción a los electores. Las sanciones a la violación de esta disposición se sujetarán a lo establecido en este Código y en el Código Penal del Estado de Yucatán.
 
 ###### Artículo 14.
 
@@ -135,11 +149,19 @@ Para el ejercicio del voto, los ciudadanos deberán satisfacer, los siguientes r
 
 I.- Estar inscrito en el Registro Federal de Electores;
 
-II.- Tener la Credencial para Votar con fotografía que expide el citado Registro;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-III.- Figurar en la lista nominal de electores de la sección electoral de su domicilio.
+II.- Tener la Credencial para Votar que expide el citado Registro;
 
-IV.- Estar en pleno goce de sus derechos políticos.
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+III.- Estar inscrito en la lista nominal de electores;
+
+IV.- (DEROGADA, D.O. 30 DE JUNIO DE 2003)
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+En cada distrito electoral uninominal el sufragio se emitirá en la sección electoral que comprenda al domicilio del ciudadano, salvo en los casos de excepción expresamente señalados por este Código.
 
 ###### Artículo 15.
 
@@ -161,85 +183,125 @@ VII.- Por causa de incumplimiento, sin causa justificada, de cualquiera de las o
 
 VIII.- Las demás que señale el presente código.
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 16.
 
-Es derecho de los ciudadanos yucatecos integrarse y pertenecer, libre y voluntariamente, a los partidos políticos.
+Es derecho de los ciudadanos yucatecos afiliarse individualmente y pertenecer, libre y voluntariamente, a los partidos políticos.
 
 ### CAPITULO SEGUNDO. DE LOS OBSERVADORES
 
-###### ARTICULO 17.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
-se autoriza la presencia de observadores electorales.
+###### Artículo 17.
 
-La observación podrá realizarse en todo el Estado.
+En los términos de este Código, se autoriza la presencia de observadores durante el desarrollo de la jornada electoral.
 
-###### ARTICULO 18.
+La observación podrá realizarse en todo el territorio del estado.
 
-La presencia de los observadores deberá realizarse de acuerdo con las bases siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
+
+###### Artículo 18.
+
+La participación de los observadores deberá realizarse de acuerdo con las disposiciones siguientes:
 
 I.- Podrán participar sólo cuando hayan obtenido oportunamente su acreditación ante la autoridad electoral;
 
-> <small>(F. DE E., D.O. 13 DE ENERO DE 1995)</small>
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-II.- Las personas que pretendan actuar como observadores deberán señalar en el escrito de solicitud los datos de identificación personal anexando fotocopia de su Credencial para Votar vigente o del pasaporte en el caso de extranjeros y la manifestación expresa de que se conducirán conforme a los principios de imparcialidad, objetividad, certeza y legalidad, ciñéndose en todo a los preceptos de este Código.
+II.- Las personas que pretendan actuar como observadores deberán señalar en el escrito de solicitud de registro los datos de identificación personal anexando copia simple de su Credencial para Votar o del pasaporte en el caso de extranjeros y la manifestación expresa de que se conducirán conforme a los principios de certeza, legalidad, independencia, imparcialidad y objetividad ciñéndose en todo a los preceptos de este Código;
 
 III.- Los extranjeros podrán desempeñarse como observadores siempre que cuenten con el permiso correspondiente de las autoridades competentes; y
 
-IV.- La acreditación podrá solicitarse en forma personal o a través de la agrupación a la que pertenezca, ante el Comité Técnico Electoral del Instituto Electoral del Estado dentro del plazo que para tal efecto se establezca. El Comité Técnico Electoral dará cuenta de las solicitudes al Consejo Electoral del Estado para su aprobación, misma que deberá resolverse en la siguiente sesión que celebre dicho Consejo.
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-La acreditación que corresponda a las solicitudes aprobadas, se entregará a más tardar treinta días antes de la fecha de las elecciones.
+IV.- La solicitud de registro de observadores podrá presentarse en forma personal o a través de la organización a la que pertenezcan, ante el Comité Técnico Electoral del Instituto Electoral del Estado, a partir del inicio del proceso electoral y hasta el último día del mes de marzo del año de la elección. El Comité Técnico Electoral dará cuenta de las solicitudes al Consejo Electoral del Estado para su aprobación, misma que deberá resolverse en la siguiente sesión ordinaria que celebre dicho Consejo Electoral del Estado. La resolución que se emita al respecto, deberá ser notificada a los solicitantes. El Consejo Electoral del Estado, garantizará este derecho y resolverá cualquier planteamiento que pudiera presentarse por parte de las personas y organizaciones interesadas.
 
-###### ARTICULO 19.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
-Sólo se otorgará la acreditación a quien cumpla los siguientes requisitos:
+Las acreditaciones que correspondan a las solicitudes aprobadas, se pondrán a disposición de los interesados a más tardar treinta días antes de la fecha de las elecciones.
 
-a) No ser ni haber sido miembro de dirigencias nacionales, estatales o municipales de partido político.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
-b) No ser ni haber sido candidato a puesto de elección; y
+###### Artículo 19.
 
-c) Asistir a los cursos de preparación o información que al efecto imparta el Instituto Electoral del Estado.
+Sólo se otorgará la acreditación de observador a quien cumpla los siguientes requisitos:
+
+I.- No ser ni haber sido miembro de dirigencias nacionales, estatales o municipales de agrupación o de partido político alguno en los tres años inmediatos anteriores al de la elección;
+
+II.- No ser ni haber sido candidato a puesto de elección popular en los tres años inmediatos anteriores al de la elección; y
+
+III.- Asistir a los cursos de capacitación, preparación o información que impartan el Instituto Electoral del Estado o las propias organizaciones a las que pertenezcan los observadores bajo los lineamientos y contenidos que dicten las autoridades competentes del Instituto Electoral del Estado, las que podrán supervisar dichos cursos. La falta de supervisión no es imputable a la organización respectiva y no será causa para que se niegue la acreditación.
 
 ###### ARTICULO 20.
 
 Queda prohibido a los observadores:
 
-a) Sustituir u obstaculizar a las autoridades electorales en el ejercicio de sus funciones e interferir en el desarrollo de las mismas;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-b) Hacer proselitismo de cualquier tipo o manifestarse en favor de partido o candidato alguno;
+I.- Sustituir u obstaculizar a las autoridades electorales en el ejercicio de sus funciones e interferir en el desarrollo de las mismas;
 
-c) Externar cualquier expresión de ofensa, difamación o calumnia en contra de las instituciones, autoridades electorales, partidos políticos o candidatos; y,
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-d) Declarar el triunfo de partido político o candidato alguno;
+II.- Hacer proselitismo de cualquier tipo o manifestarse en favor de partido o candidato alguno;
 
-La violación de cualesquiera de estas disposiciones, será sancionada conforme a este Código y al de Defensa Social del Estado de Yucatán.
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-###### ARTICULO 21.
+III.- Externar cualquier expresión de ofensa, difamación o calumnia en contra de las instituciones, autoridades electorales, partidos políticos o candidatos; y,
 
-En los contenidos de la capacitación que los Comités Técnicos Electorales impartan a los funcionarios de las mesas directivas de casilla, debe preverse la explicación relativa a la presencia de los observadores electorales, así como los derechos y obligaciones inherentes a su actuación;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-###### ARTICULO 22.
+IV.- Declarar el triunfo de partido político o candidato alguno;
 
-Los observadores electorales podrán presentarse el día de la jornada electoral con sus acreditaciones y gafetes a las casillas, así como en el local del Consejo Distrital, o municipal en su caso, pudiendo observar los siguientes actos:
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
-a) Instalación de la casilla;
+La violación de cualesquiera de estas disposiciones, será sancionada conforme a este Código y el Código Penal del Estado de Yucatán.
 
-b) Desarrollo de la votación;
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
-c) Escrutinio y cómputo de la votación.
+###### Artículo 21.
 
-d) Fijación de resultados de la votación en el exterior de la casilla;
+En los contenidos de la capacitación que se imparta a los funcionarios de las mesas directivas de casilla, debe preverse la explicación relativa a la presencia de los observadores electorales, así como los derechos y obligaciones inherentes a su actuación.
 
-e) Clausura de la casilla;
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
 
-f) Lectura en voz alta de los resultados en el Consejo Distrital o, en su caso, en el municipal;
+###### Artículo 22.
 
-g) Recepción de escritos de incidencias y protestas; y,
+Los observadores electorales podrán presentarse durante la jornada electoral con sus acreditaciones y gafetes en las casillas, así como en los locales de los Consejos Distritales, o municipales, pudiendo observar los siguientes actos:
 
-###### ARTICULO 23.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
-Solo podrá, en cualquier caso o circunstancia, permanecer en el interior de la casilla un observador electoral.
+I.- Instalación de la casilla;
 
-El Presidente de la casilla vigilará el cumplimiento de este precepto.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+II.- Desarrollo de la votación;
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+III.- Escrutinio y cómputo de la votación en la casilla;
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+IV.- Fijación de resultados de la votación en el exterior de la casilla;
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+V.- Clausura de la casilla;
+
+VI.- (DEROGADA, D.O. 30 DE JUNIO DE 2003)
+
+VII.- (DEROGADA, D.O. 30 DE JUNIO DE 2003)
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+También podrán observar y estar presentes durante la lectura en voz alta de los resultados preliminares en los Consejos Distritales o, en su caso, en los Consejos municipales.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+###### Artículo 23.
+
+Las organizaciones a las que pertenezcan los observadores, dentro de los treinta días siguientes al de la jornada electoral, deberán declarar el origen, monto y aplicación del financiamiento que obtengan para el desarrollo de sus actividades relacionadas directamente con la observación electoral que realicen, mediante informe que presenten al Consejo Electoral del Estado.
 
 ###### ARTICULO 24.
 
@@ -251,187 +313,289 @@ Los observadores podrán presentar, ante la autoridad electoral, informe de sus 
 
 Son obligaciones de los ciudadanos:
 
-> <small>(F. DE E., D.O. 13 DE ENERO DE 1995)</small>
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-I.- Inscribirse en el Registro Federal de Electores y obtener de éste su Credencial vigente para Votar;
+I.- Inscribirse en el Registro Federal de Electores y obtener de éste su Credencial para Votar;
 
 II.- Integrar los órganos electorales, inclusive las mesas directivas de casilla, en los términos de este Código;
 
-III.- Sufragar en la casilla de la sección electoral de su domicilio.
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+III.- Sufragar en la casilla de la sección electoral de su domicilio, salvo en los casos de excepción previstos en este Código; y,
 
 IV.- Desempeñar los cargos para los que sean electos popularmente.
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 26.
 
-Los ciudadanos que sean designados y tengan nombramiento expedido por los órganos electorales para desempeñar una función electoral, no podrán excusarse de su cumplimiento, salvo por causa justificada o de fuerza mayor.
+Los ciudadanos que sean designados y tengan nombramiento expedido por los órganos electorales del Instituto Electoral del Estado para desempeñar una función electoral, no podrán excusarse de su cumplimiento, salvo por causa justificada o de fuerza mayor.
 
-Esas excusas deberán ser acreditadas fehacientemente ante el órgano electoral que los designó. Será considerada como causa justificada para un ciudadano, el haber sido designado representante de un partido político ante los órganos electorales el día de la jornada electoral; y como de fuerza mayor, aquellas que físicamente le impidan el cumplimiento de las obligaciones electorales.
+Esas excusas deberán ser acreditadas fehacientemente ante el órgano electoral que los designó. Será considerada como causa justificada para un ciudadano, el haber sido designado representante de un partido político ante los órganos electorales del Instituto Electoral del Estado o ante las mesas directivas de casilla; y como de fuerza mayor, aquellas que físicamente le impidan el cumplimiento de las obligaciones electorales.
 
 ### CAPITULO CUARTO. DE LOS REQUISITOS DE ELEGIBILIDAD
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 27.
 
-Para ser Gobernador del Estado, diputado local o regidor de los ayuntamientos de la Entidad, se necesita reunir los requisitos que establecen los artículos 46, 22 y 77 de la Constitución Política del Estado, respectivamente, contar con credencial vigente para votar.
+Para ser Gobernador del Estado, Diputado local o Regidor de los ayuntamientos de la Entidad, se necesita reunir los requisitos que establecen los artículos 46, 22 y 77 de la Constitución Política del Estado, respectivamente, contar con Credencial para Votar.
 
 Para el caso del Gobernador del Estado, deberá asimismo observarse lo dispuesto en el numeral 116 de la Constitución General de la República.
 
-## TITULO CUARTO. DE LOS PARTIDOS POLITICOS
+> <small>(REFORMADA SU DENOMINACION, D.O. 30 DE JUNIO DE 2003)</small>
 
-### CAPITULO PRIMERO. DE SU REGISTRO
+## TITULO CUARTO. DE LOS PARTIDOS Y LAS AGRUPACIONES POLITICAS
+
+> <small>(REFORMADA SU DENOMINACION, D.O. 30 DE JUNIO DE 2003)</small>
+
+### CAPITULO PRIMERO. DE LA INSCRIPCION Y REGISTRO
 
 ###### Artículo 28.
 
 Los partidos políticos son entidades de interés público. Tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación popular Estatal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 29.
 
-Para los efectos de este Código, se consideran partidos políticos aquellos que tengan registro nacional ante el Instituto Federal Electoral y los que tengan registro estatal ante el Instituto Electoral del Estado.
+Para los efectos de este Código, se reconocerán como partidos políticos, aquellos que tengan registro como partido político nacional otorgado por el Instituto Federal Electoral y los que tengan registro como partido político estatal otorgado por el Instituto Electoral del Estado.
 
-Para participar en las elecciones estatales y municipales, sin menoscabo de lo dispuesto por el párrafo séptimo del artículo 41 de la Constitución General de la República, los partidos deberán inscribir su registro de partido político nacional ante el Instituto Electoral del Estado durante el mes de septiembre del año previo al de la elección, presentando los siguientes documentos:
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Para participar en las elecciones estatales y municipales, sin menoscabo de lo dispuesto por el párrafo séptimo del artículo 41 de la Constitución General de la República, los partidos políticos nacionales deberán inscribirse ante el Instituto Electoral del Estado, durante el mes de septiembre del año previo al de la elección, presentando los siguientes documentos:
 
 I.- Solicitud de inscripción firmada por su órgano de dirección estatal;
 
 II.- Un ejemplar de su declaración de principios, programa de acción y estatutos;
 
-III.- Copia certificada de su registro nacional; y,
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+III.- Copia certificada de su registro como partido político nacional otorgado por el Instituto Federal Electoral; y,
 
 IV.- Certificación de su órgano de dirección nacional, donde se señalen los nombres de los Titulares de su órgano de representación en el Estado.
 
-Los partidos políticos nacionales que hubieran obtenido su registro ante el Instituto Federal Electoral con fecha posterior al mes de septiembre del año previo al de la elección, podrán registrarse ante el Instituto Electoral del Estado hasta la fecha de publicación de la convocatoria para las elecciones ordinarias, en el Diario Oficial del Gobierno del Estado.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
-> <small>(F. DE E., D.O. 13 DE ENERO DE 1995)</small>
+Para efecto de participar en las elecciones estatales y municipales, los partidos políticos nacionales que hubieran obtenido su registro ante el Instituto Federal Electoral con fecha posterior al mes de septiembre del año previo al de la elección, podrán inscribirse ante el Instituto Electoral del Estado a más tardar el 21 de enero del año de la elección.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Para el goce de los demás derechos y prerrogativas que este Código otorga a los partidos políticos, estos podrán inscribirse ante el Instituto Electoral del Estado en cualquier momento, debiendo acompañar la solicitud de inscripción con la documentación a la que se refieren las fracciones de la I a la IV del presente artículo.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 30.
 
-El Instituto Electoral del Estado, cumplidos los requisitos del artículo anterior, hará el registro en el libro respectivo, asentando la fecha del mismo, la denominación del partido y el emblema que éste adopte. El Instituto Electoral del Estado publicará en el Diario Oficial del Gobierno del Estado los registros efectuados, dentro de los quince días siguientes al vencimiento de los plazos correspondientes estipulados en el artículo que antecede.
+El Instituto Electoral del Estado, cumplidos los requisitos del artículo anterior, hará la inscripción en el libro respectivo, asentando la fecha del mismo, la denominación y emblema del partido político. El Instituto Electoral del Estado publicará en el Diario Oficial del Gobierno del Estado la relación de los partidos políticos nacionales inscritos, junto con los nombres de los titulares de sus órganos de representación en el Estado, dentro de los quince días siguientes al vencimiento de los plazos correspondientes establecidos en el artículo que antecede.
 
 Cuando así lo soliciten, los partidos políticos tendrán derecho a que el Instituto Electoral del Estado les expida la constancia respectiva de su inscripción.
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 31.
 
-Para obtener su registro como partido político estatal, las organizaciones interesadas deberán haber satisfecho los requisitos a que se refieren los artículos del 34 al 38 de este Código, presentando para tal efecto su solicitud por escrito ante el Instituto Electoral del Estado, acompañándola de la siguiente documentación:
+La agrupación política estatal que pretenda constituirse en partido político estatal deberá obtener su registro ante el Instituto Electoral del Estado.
 
-I.- Las actas certificadas o protocolizadas de las asambleas celebradas en cada uno de los municipios y de la asamblea constitutiva a que se refieren las fracciones III y IV del artículo 38 de este Código en las que deberán constar las listas nominales de sus afiliados por Municipio;
+La denominación de "partido político estatal" se reserva, para los efectos de este Código, a las agrupaciones políticas estatales que obtengan su registro como tal.
 
-II.- Un ejemplar de su declaración de principios, programa de acción y estatutos; y,
-
-III.- Los documentos que acrediten a los Titulares de sus órganos de representación.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 32.
 
-Dentro del término de 45 días naturales, contados a partir de la fecha de presentación de la solicitud, el Instituto Electoral del Estado resolverá lo conducente.
+Los partidos políticos estatales sólo podrán participar en las elecciones estatales y municipales cuando hayan obtenido su registro a más tardar el día 30 de septiembre del año inmediato anterior al de la elección.
 
-Cuando proceda se hará el registro en el libro respectivo, asentando el número progresivo que corresponda, la fecha de registro y la denominación del partido político estatal. El registro deberá publicarse en el Diario Oficial del Gobierno del Estado.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 33.
 
-Los partidos políticos estatales solo podrán participar en las elecciones estatales cuando hayan obtenido su registro, por lo menos, con seis meses de anticipación al día de la elección respectiva.
+Para el logro de sus fines, los partidos políticos ajustarán sus actos y conducta a las disposiciones establecidas en el presente Código.
 
-### CAPITULO SEGUNDO. DE LOS PARTIDOS POLITICOS ESTATALES
+El Instituto Electoral del Estado vigilará que las actividades de los partidos políticos se desarrollen con apego a la ley.
+
+> <small>(REFORMADA SU DENOMINACION, D.O. 30 DE JUNIO DE 2003)</small>
+
+### CAPITULO SEGUNDO. DE LOS PARTIDOS POLITICOS Y
+
+AGRUPACIONES POLITICAS ESTATALES
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 34.
 
-Toda organización que pretenda constituirse como partido político estatal, deberá formular una declaración de principios, y en congruencia con ellos, su programa de acción y los estatutos que normen sus actividades.
+Para que una agrupación política estatal pueda ser registrada como partido político estatal, deberá cumplir los siguientes requisitos:
+
+I.- Formular una declaración de principios y, en congruencia con ellos, su programa de acción y los estatutos que normen sus actividades; y
+
+II.- Contar con 250 afiliados por distrito electoral uninominal, en por lo menos 10 de los 15 distritos electorales uninominales del Estado.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 35.
 
-La declaración de principios contendrá, necesariamente:
+Los documentos a los que se refiere la fracción I del artículo anterior se ajustarán a lo siguiente:
 
-I.- La obligación de observar la Constitución General de la República, del Estado y de respetar las leyes e instituciones que de ambas emanen;
+I.- La declaración de principios contendrá, necesariamente:
 
-II.- Las bases ideológicas de carácter político, económico y social que postule;
+a) La obligación de observar la Constitución General de la República, la Constitución del Estado y de respetar las leyes e instituciones que de ambas emanen;
 
-III.- La obligación de no aceptar pacto o acuerdo que lo sujete o subordine a cualquier organización internacional o lo haga depender de entidades o partidos políticos extranjeros; así como de no aceptar apoyo económico, político y propagandístico proveniente de entidades, partidos u organizaciones extranjeras o religiosas; y,
+b) Las bases ideológicas de carácter político, económico y social que postule;
 
-IV.- La obligación de llevar a cabo sus actividades por medios pacíficos y por la vía democrática.
+c) La obligación de no aceptar pacto o acuerdo que lo sujete o subordine a cualquier organización internacional o lo haga depender de entidades o partidos políticos extranjeros; así como no solicitar o, en su caso, rechazar toda clase de apoyo económico, político o propagandístico proveniente de extranjeros o de ministros de los cultos de cualquier religión o secta, así como de las asociaciones y organizaciones religiosas e iglesias y de cualquiera de las personas a las que este Código prohíbe financiar a los partidos políticos; y
+
+d) La obligación de llevar a cabo sus actividades por medios pacíficos y por la vía democrática.
+
+II.- El programa de acción determinará las medidas para:
+
+a) Realizar los postulados y alcanzar los objetivos enunciados en su declaración de principios;
+
+b) Proponer las políticas para resolver los problemas estatales;
+
+c) Formar ideológica y políticamente a sus afiliados infundiendo en ellos el respeto al adversario y a sus derechos en la lucha política; y
+
+d) Preparar la participación activa de sus militantes en los procesos electorales.
+
+III.- Los estatutos establecerán:
+
+a) La denominación del propio partido político estatal, el emblema y el color o colores que lo caractericen y diferencien de otros partidos políticos. La denominación y el emblema estarán exentos de alusiones religiosas o raciales;
+
+b) Los procedimientos para la afiliación individual, libre y pacífica de sus miembros, así como sus derechos y obligaciones. Dentro de los derechos se incluirán el de participar personalmente o por medio de delegados en asambleas y convenciones, y el de poder ser integrante de los órganos directivos;
+
+c) Los procedimientos democráticos para la integración y renovación de sus órganos directivos así como las funciones, facultades y obligaciones de los mismos. Entre sus órganos deberá contar, cuando menos, con una asamblea estatal o equivalente; un comité estatal o equivalente, que sea el representante estatal del partido; Comités o equivalentes en los municipios o distritos electorales uninominales; y un órgano responsable de la administración de su patrimonio y recursos financieros y de la presentación de los informes de ingresos y egresos anuales y de campaña a que se refiere este Código;
+
+d) Las normas para la postulación democrática de sus candidatos;
+
+e) La obligación de presentar una plataforma electoral, para cada elección en que participe, sustentada en su declaración de principios y programa de acción;
+
+f) La obligación de sus candidatos de sostener y difundir la plataforma electoral durante la campaña electoral en que participen; y
+
+g) Las sanciones aplicables a los miembros que infrinjan sus disposiciones internas y los correspondientes medios y procedimientos de defensa.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 36.
 
-El programa de acción determinará las medidas para:
+Para constituir un partido político estatal, la agrupación política estatal interesada notificará ese propósito al Instituto Electoral del Estado entre el 1o. de enero y el 31 de julio del año siguiente al de la elección y le solicitará que le sea asignado un notario público para dar fe de los actos a los que se refiere este artículo.
 
-I.- Alcanzar sus objetivos enunciados en su declaración de principios;
+La agrupación política estatal deberá realizar los siguientes actos previos tendientes a demostrar que se cumplen con los requisitos señalados en el artículo 34 de este Código:
 
-II.- Proponer las políticas para resolver los problemas estatales;
+I.- Celebrar por lo menos en diez distritos electorales uninominales, una asamblea en presencia de un funcionario del Instituto Electoral del Estado designado por el Consejo Electoral del Estado y ante el notario público que se le hubiere asignado, quien certificará:
 
-III.- Ejecutar las acciones relativas a la formación ideológica y política de sus afiliados; y,
+a) El número de afiliados que concurrieron y participaron en la asamblea distrital, que en ningún caso podrá ser menor a 250, de conformidad con lo dispuesto por la fracción II del artículo 34 de este Código; que conocieron y aprobaron la declaración de principios, el programa de acción y los estatutos; y que suscribieron el documento de manifestación formal de afiliación; y
 
-IV.- Preparar la participación activa de sus militantes en los procesos electorales.
+b) Que con las personas mencionadas en la fracción anterior, quedaron formadas las listas de afiliados, con el nombre, los apellidos, su residencia y la clave de la Credencial para Votar.
 
-###### Artículo 37.
-
-Los estatutos establecerán:
-
-I.- Una denominación propia y distinta a los otros partidos registrados, acorde con sus fines y programas políticos, así como el emblema, color o colores que lo caracterice, los que deberán estar exentos de alusiones religiosas o raciales y no contravenir los preceptos de la Constitución General de la República y la del Estado;
-
-II.- Los procedimientos de afiliación y los derechos y obligaciones de sus miembros;
-
-III.- Los procedimientos internos para la renovación de sus dirigentes y la integración de sus órganos, así como sus respectivas funciones, facultades y obligaciones;
-
-IV.- Entre sus órganos deberá contar cuando menos, con los siguientes:
-
-a) Una asamblea estatal;
-
-b) Un comité directivo estatal u órgano equivalente, que tenga la representación del partido en todo el estado; y,
-
-c) Un comité directivo u órgano equivalente en por lo menos 25 municipios del Estado, pudiendo también integrar comités regionales que comprendan varios municipios de la Entidad.
-
-V.- Las sanciones aplicables a nivel estatal, regional, en su caso, y municipal;
-
-VI.- Su domicilio social a nivel estatal, regional, en su caso, y municipal;
-
-VII.- La obligación de presentar una plataforma electoral para cada elección en que participe, congruente con su declaración de principios y programa de acción, misma que sus candidatos sostendrán en la campaña electoral respectiva; y,
-
-VIII.- Las normas para la postulación de sus candidatos.
-
-###### Artículo 38.
-
-Son requisitos para constituirse en partido político estatal, en los términos de este capítulo, los siguientes:
-
-I.- La asociación de 5,000 ciudadanos inscritos en el listado nominal de la Entidad;
-
-II.- Haber efectuado actividades políticas continuas durante un año anterior a la fecha de solicitud de registro.
-
-III.- Haber celebrado una asamblea cuando menos en cinco distritos electorales uninominales de la Entidad, en presencia de un Notario Público designado para tal efecto por el Instituto Electoral del Estado, quien certificará:
-
-a) Que fueron exhibidas las listas nominales de afiliados del distrito respectivo, con las firmas auténticas de los mismos;
-
-> <small>(F. DE E., D.O. 13 DE ENERO DE 1995)</small>
-
-b) Que concurrieron al acto, cuando menos 300 afiliados del distrito de que se trate y que se comprobó, con base en las listas nominales, su identidad, residencia y ocupación exhibiendo cada uno su Credencial vigente para Votar;
-
-c) Que se eligieron los delegados propietarios y suplentes, para la asamblea estatal constitutiva del partido; y,
-
-IV.- Haber celebrado una asamblea estatal constitutiva, ante la presencia de un notario público, quien certificará:
+II.- Celebrar una asamblea estatal constitutiva ante la presencia de un funcionario del Instituto Electoral del Estado designado por el Consejo Electoral del Estado y ante el notario público que se le hubiere asignado, quien certificará:
 
 a) Que asistieron los delegados propietarios o suplentes, elegidos en las asambleas distritales;
 
-b) Que acreditaron por medio de las actas correspondientes, que éstas se celebraron de conformidad con lo prescrito en la fracción III de este artículo;
+b) Que acreditaron por medio de las actas correspondientes, que las asambleas se celebraron de conformidad con lo prescrito en el inciso a) de la fracción I del presente artículo;
 
-> <small>(F. DE E., D.O. 13 DE ENERO DE 1995)</small>
+c) Que se comprobó la identidad y residencia de los delegados a la asamblea estatal, por medio de su Credencial para Votar u otro documento fehaciente;
 
-c) Que comprobó la identidad y residencia de los delegados, por medio de la Credencial vigente para Votar;
+d) Que fueron aprobados su declaración de principios, programa de acción y estatutos; y
 
-d) Que fueron aprobados su declaración de principios, programa de acción y estatutos; y,
+e) Que fue constituido su órgano de dirección estatal.
 
-e) Que fue constituido el Organo de Dirigencia Estatal.
-
-###### Artículo 39.
-
-Los representantes de los organismos que pretendan constituirse en partidos políticos estatales, solicitarán al Instituto Electoral del Estado, que le sea asignado un notario público para dar fe de los actos a que se refiere este capítulo.
-
-###### Artículo 40.
-
-La actuación de los notarios públicos para los efectos de este capítulo, será obligatoria y gratuita. El Consejo de Notarios del Estado designará al fedatario correspondiente para cada uno de los distritos a solicitud del Instituto Electoral del Estado.
+La actuación de los notarios públicos para los efectos del presente artículo, será obligatoria y gratuita. El Consejo de Notarios del Estado designará al fedatario correspondiente a solicitud del Instituto Electoral del Estado.
 
 Los derechos e impuestos que se causen por razón y con motivo de las citadas actuaciones, serán cubiertas por el Instituto Electoral del Estado.
 
 La negativa, sin causa justificada, de los notarios designados por el Consejo de Notarios del Estado, se sancionará con suspensión de un año de sus funciones.
 
+En caso de que la agrupación política estatal interesada no presente su solicitud de registro en el plazo previsto en el artículo 37 del presente Código, dejará de tener efecto la notificación formulada.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+###### Artículo 37.
+
+Una vez realizados los actos relativos al procedimiento de constitución de un partido político estatal, la agrupación política estatal interesada, a más tardar el 31 de julio del año anterior al de la elección, presentará ante el Instituto Electoral del Estado la solicitud de registro, acompañándola con los siguientes documentos:
+
+I.- La declaración de principios, el programa de acción y los estatutos aprobados por sus miembros en los términos del inciso d) de la fracción II del artículo anterior;
+
+II.- Las listas nominales de afiliados por distritos electorales uninominales, a que se refiere el inciso b) de la fracción I del artículo 36 del presente Código; y
+
+III.- Las actas de las asambleas celebradas en distritos electorales uninominales y la de su asamblea estatal constitutiva.
+
+El Consejo Electoral del Estado, al conocer la solicitud de la agrupación política estatal que pretenda su registro como partido político estatal, integrará una comisión de tres Consejeros Ciudadanos para examinar los documentos a que se refieren las fracciones I, II y III del primer párrafo del presente artículo a fin de verificar el cumplimiento de los requisitos y del procedimiento de constitución señalados en este Código. La comisión formulará, en su caso el proyecto de dictamen de registro.
+
+El Consejo Electoral del Estado, con base en el proyecto de dictamen de la comisión y dentro de un plazo que no podrá exceder al 30 de septiembre del año anterior a la elección, resolverá lo conducente.
+
+Cuando proceda, expedirá el certificado correspondiente haciendo constar el registro. En caso de negativa fundamentará las causas que la motivan y lo comunicará a los interesados. La resolución deberá publicarse en el Diario Oficial del Gobierno del Estado y podrá ser recurrida ante el Tribunal Electoral del Estado.
+
+El registro de los partidos políticos estatales, cuando hubiese procedido, surtirá efecto a partir del 1o. de octubre del año anterior al de la elección.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+###### Artículo 38.
+
+Al partido político estatal que no obtenga por lo menos el 1.5% de la votación total emitida para la elección de Diputados locales le será cancelado el registro y perderá todos los derechos y prerrogativas que establece este Código.
+
+El partido político estatal que hubiese perdido su registro no podrá solicitarlo de nueva cuenta, sino hasta después de transcurrido un proceso electoral estatal ordinario.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+###### Artículo 39.
+
+Las agrupaciones políticas estatales son formas de asociación ciudadana que coadyuvan al desarrollo de la vida democrática y de la cultura política, así como a la creación de una opinión pública mejor informada.
+
+Las agrupaciones políticas estatales no podrán utilizar bajo ninguna circunstancia las denominaciones de "partido" o "partido político".
+
+Las agrupaciones políticas estatales sólo podrán participar en procesos electorales estatales y municipales mediante acuerdos de participación con un partido político. No podrán hacerlo con coaliciones. Las candidaturas surgidas de los acuerdos de participación serán registradas por el partido político y serán votadas con la denominación, emblema, color o colores de éste.
+
+El acuerdo de participación a que se refiere el párrafo anterior deberá presentarse para su registro ante el Consejo Electoral del Estado a más tardar el día 14 de febrero del año de la elección.
+
+En la propaganda y campaña electoral, se podrá mencionar a la agrupación participante.
+
+A las agrupaciones políticas estatales les será aplicable en lo conducente, lo dispuesto en el artículo 42, así como lo establecido en las fracciones II y III del artículo 50 de este Código.
+
+Para efecto de la fiscalización del manejo de sus recursos económicos, a las agrupaciones políticas estatales les será aplicable en lo conducente, las disposiciones relacionadas con la fiscalización de los recursos económicos de los partidos políticos establecidas en este Código.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+###### Artículo 40.
+
+Para obtener el registro como agrupación política estatal, quien lo solicite deberá acreditar ante el Instituto Electoral del Estado los siguientes requisitos:
+
+I.- Contar con un mínimo de 1000 asociados en el Estado distribuidos a razón de por lo menos 100 afiliados por distrito electoral uninominal, en por lo menos, 10 de los 15 distritos electorales uninominales de la entidad, además de contar con un órgano directivo de carácter estatal y tener delegaciones en cuando menos 10 distritos electorales; y
+
+II.- Disponer de documentos básicos, así como una denominación distinta a cualquier otra agrupación o partido político.
+
+La asociación interesada presentará durante el mes de enero del año anterior al de la elección, junto con su solicitud de registro, la documentación con la que acredite los requisitos anteriores y los que, en su caso, señale el Consejo Electoral del Estado.
+
+El Consejo Electoral del Estado, dentro del plazo máximo de 60 días naturales contados a partir de la fecha en que conozca de las solicitudes de registro, resolverá lo conducente.
+
+Cuando proceda el registro, el Consejo Electoral del Estado expedirá el certificado respectivo. En caso de negativa, expresará las causas que la motivan y lo comunicará a la asociación interesada. La resolución correspondiente deberá publicarse en el Diario Oficial del Gobierno del Estado.
+
+El registro de las agrupaciones políticas estatales cuando hubiese procedido, surtirá efecto a partir del 1o. de octubre del año anterior al de la elección.
+
+Las agrupaciones políticas estatales con registro, gozarán de financiamiento público para apoyo de sus actividades editoriales, educación y capacitación política, e investigación socioeconómica y política.
+
+Para los efectos del párrafo anterior, se constituirá un fondo consistente en una cantidad equivalente al 2% del monto que anualmente reciben los partidos políticos para el sostenimiento de sus actividades ordinarias permanentes. Este fondo se entregará anualmente a las agrupaciones políticas estatales, en términos de lo previsto en el reglamento que al efecto emita el Consejo Electoral del Estado. Ninguna agrupación política podrá recibir más del 20% del total del fondo constituido para este financiamiento.
+
+Las agrupaciones políticas estatales con registro deberán presentar cada año, un informe del ejercicio de los recursos que reciban por cualquier modalidad. En dicho informe, al que anexarán los comprobantes de sus gastos, se deberá mencionar el monto total, el origen y aplicación de dichos recursos, el que deberá presentarse a más tardar dentro de los 90 días siguientes al último día de diciembre del año del ejercicio que se reporte.
+
+La agrupación política estatal perderá su registro por las siguientes causas:
+
+a) Cuando se haya acordado su disolución por la mayoría de sus miembros;
+
+b) Haberse dado las causas de disolución conforme a sus documentos básicos;
+
+c) Omitir rendir el informe anual del origen y aplicación de sus recursos;
+
+d) Por incumplir de manera grave con las disposiciones contenidas en este Código;
+
+e) Por dejar de cumplir con los requisitos necesarios para obtener el registro; y
+
+f) Las demás que establezca este Código.
+
 ### CAPITULO TERCERO. DE LOS DERECHOS
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 41.
 
-Los partidos políticos inscritos conforme a este Código, tendrán los siguientes derechos:
+Los partidos políticos inscritos o con registro otorgado conforme a este Código, tendrán los siguientes derechos:
 
 I.- Participar en la preparación, desarrollo y vigilancia del proceso electoral, conforme a lo dispuesto en la Constitución General de la República, la particular del Estado y este Código;
 
@@ -453,7 +617,13 @@ IX.- Nombrar representantes ante las mesas directivas de casilla y generales;
 
 X.- Adquirir en propiedad, poseer o administrar bienes para destinarlos al cumplimiento de sus fines; y
 
-XI.- Los demás que les confiera este Código.
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+XI.- Suscribir acuerdos de participación con las agrupaciones políticas estatales; y
+
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+XII.- Los demás que les confiera este Código.
 
 ### CAPITULO CUARTO. DE LAS OBLIGACIONES
 
@@ -495,13 +665,35 @@ XIV.- Abstenerse de utilizar símbolos religiosos, así como expresiones, alusio
 
 XV.- Mantener el número mínimo de miembros afiliados exigidos por esta ley;
 
-XVI.- Destinar los bienes de que dispongan los partidos al cumplimiento de sus fines; y
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-XVII.- Las demás que establezca este Código.
+XVI.- Destinar los bienes de que dispongan al cumplimiento de sus fines y utilizar las prerrogativas así como el financiamiento público exclusivamente para el sostenimiento de sus actividades ordinarias y para sufragar los gastos de campaña;
+
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+XVII.- Informar al Instituto Electoral del Estado sobre el origen monto y aplicación de sus recursos financieros, permitir la práctica de auditorías y otras acciones de fiscalización que ordene el Consejo Electoral del Estado, así como entregar la documentación que le solicite respecto a sus ingresos y egresos la Coordinación de Administración del Comité Técnico Electoral; y
+
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+XVIII.- Las demás que establezca este Código.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Los partidos políticos estatales, una vez iniciado el proceso electoral, en ningún caso podrán hacer modificaciones a su declaración de principios, programas de acción o estatutos.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Los partidos políticos, independientemente de lo establecido en la fracción II del artículo 159 del presente Código y con el objeto de que el acceso al ejercicio del poder público se dé en condiciones de equidad de género, promoverán la igualdad de oportunidades de mujeres y hombres para ser postulados a cualquier cargo de elección popular.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Asimismo, los partidos políticos, promoverán la participación política y la oportunidad de las y los jóvenes menores de 30 años para ser postulados a cualquier cargo de elección popular.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 43.
 
-El incumplimiento de las obligaciones señaladas en este capítulo se sancionará en los términos que establece este Código y el de Defensa Social del Estado.
+El incumplimiento de las obligaciones señaladas en este capítulo se sancionará en los términos que establece este Código y el Código Penal del Estado de Yucatán.
 
 Las sanciones administrativas se aplicarán por el Tribunal Electoral del Estado con independencia de la responsabilidad civil o penal que en su caso pudiera exigirse en los términos de la ley a los partidos políticos, dirigentes y candidatos.
 
@@ -511,67 +703,221 @@ Los partidos políticos podrán solicitar al Instituto Electoral del Estado que 
 
 ### CAPITULO QUINTO. DE LAS PRERROGATIVAS
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 45.
 
 Son prerrogativas de los partidos políticos:
 
-I.- Tener acceso permanente durante los procesos electorales a los medios de comunicación del Gobierno del Estado.
+I.- Tener acceso permanente y en igualdad de condiciones, a los medios de comunicación del Gobierno del Estado en los términos de los artículos 46 al 49 de este Código;
 
-II.- Gozar de la exención de impuestos y derechos que por sus actividades causen al Estado y al Municipio, salvo lo previsto en el artículo 115 fracción IV de la Constitución General de la República; y,
+II.- Tener acceso, a su cargo, a tiempos y espacios en medios de comunicación originados en el Estado y propiedad de particulares, impresos o electrónicos, sean o no concesionados, a los precios preferentes que, dentro de los dos primeros meses del año, logre gestionar el Presidente del Consejo Electoral del Estado, los que serán asignados a cada partido en proporción a la votación que hubieren alcanzado en la última elección de diputados locales;
 
-III.- Participar del financiamiento público en los términos del capítulo respectivo de este título.
+III.- Gozar de la exención de impuestos y derechos que por sus actividades causen al Estado y al Municipio, salvo lo previsto en el artículo 115, fracción IV, de la Constitución General de la República;
 
-### CAPITULO SEXTO. DEL ACCESO A LOS MEDIOS DE COMUNICACION DEL GOBIERNO DEL ESTADO
+IV.- Participar del financiamiento público en los términos del capítulo respectivo de este título; y
+
+V.- Participar del financiamiento según las distintas modalidades en los términos del capítulo respectivo de este título.
+
+> <small>(REFORMADA SU DENOMINACION, D.O. 30 DE JUNIO DE 2003)</small>
+
+### CAPITULO SEXTO. DEL ACCESO A LOS MEDIOS DE COMUNICACION
 
 ###### Artículo 46.
 
 Los partidos políticos, al ejercer esta prerrogativa, deberán difundir sus principios ideológicos, programas de acción y plataformas electorales, correspondiendo a estas últimas, por lo menos, la mitad del tiempo que les fuere otorgado.
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 47.
 
-El Instituto Electoral del Estado, celebrará los convenios con los medios de comunicación del Gobierno del Estado, estableciéndose en dichos convenios las fechas, tiempos, espacios, canales y estaciones que le corresponda a cada partido.
+El Instituto Electoral del Estado, por conducto del Presidente del Consejo Electoral del Estado, celebrará, dentro de los dos primeros meses del año, los convenios con los medios de comunicación del Gobierno del Estado, estableciéndose en dichos convenios las fechas, tiempos, espacios, canales y estaciones que, en igualdad de condiciones, le corresponda a cada partido.
+
+El Consejo Electoral del Estado realizará un sorteo para determinar el orden de presentación de los mensajes de los partidos políticos en los medios de comunicación propiedad del Gobierno del Estado, debiendo dar a conocer la programación respectiva a través de la prensa local. Lo anterior, conforme a los lineamientos que para tal efecto emita el Consejo Electoral del Estado.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 48.
 
-Los partidos políticos deberán presentar ante el Instituto Electoral del Estado, con la debida anticipación, los guiones técnicos para la producción de sus programas, mismos que deberán ajustarse a las posibilidades técnicas del medio de comunicación respectivo.
+Los partidos políticos deberán presentar ante el Instituto Electoral del Estado, con la debida anticipación, los guiones técnicos para la producción de sus programas, mismos que deberán ajustarse a las posibilidades técnicas del medio de comunicación respectivo, y a lo dispuesto en el Artículo 6º de la Constitución General de la República, la Ley Federal de Radio y Televisión y los lineamientos que para tal efecto emita el Consejo Electoral del Estado.
+
+Las áreas técnicas existentes en los medios de comunicación propiedad del Gobierno del Estado brindarán apoyo a los partidos políticos para la producción de los programas y materiales que difundirán a través de los mismos. Al efecto, los partidos deberán presentar, con oportunidad, sus correspondientes guiones técnicos, conforme a lo dispuesto en el párrafo precedente.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 49.
 
-Tratándose de concesionarios o permisionarios de radio y televisión particulares que operen en la Entidad, el Instituto Electoral del Estado deberá celebrar con ellos un convenio para garantizar que las tarifas que se cobre a los partidos políticos, no sean superiores a las de la publicidad comercial.
+Tratándose de concesionarios o permisionarios de radio y televisión particulares que se originen y operen en la Entidad, así como prensa y cualesquiera otros medios de comunicación propiedad de particulares, el Consejo Electoral del Estado, por conducto de su Presidente, deberá celebrar con ellos en forma anual, dentro de los dos primeros meses del año, un convenio para garantizar que las tarifas que se cobren a los partidos políticos, sean equitativas e inferiores a las de la publicidad comercial.
 
-### CAPITULO SEPTIMO. DEL FINANCIAMIENTO PUBLICO
+> <small>(REFORMADA SU DENOMINACION, D.O. 30 DE JUNIO DE 2003)</small>
+
+### CAPITULO SEPTIMO. DEL FINANCIAMIENTO
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 50.
 
-Los partidos políticos con derecho a financiamiento público lo recibirán durante los tres años subsecuentes al de la elección, conforme a las reglas siguientes:
+Las reglas a las que se sujetará el financiamiento de los partidos políticos serán las siguientes:
 
-a) El monto total del financiamiento público, será el resultante de multiplicar medio salario mínimo general diario vigente en la ciudad de Mérida por el número total de los ciudadanos que emitieron su voto en la última elección local de diputados de Mayoría relativa.
+I.- El régimen de financiamiento de los partidos políticos tendrá las siguientes modalidades:
 
-b) Del total del financiamiento, un 40 % se dividirá por igual entre todos los partidos y el 60 % restante, se dividirá en proporción a la votación obtenida por cada partido en la elección local inmediata anterior de diputados de mayoría relativa.
+a) Financiamiento público, que prevalecerá sobre los otros tipos de financiamiento;
 
-c) Cada año se actualizará el monto del total del financiamiento conforme a los incrementos del salario mínimo general vigente en la ciudad de Mérida, en su caso, pero exclusivamente, para el efecto de actualizar el porcentaje anual que del mismo le corresponda a los partidos políticos, sin que pueda aplicarse retroactivamente.
+b) Financiamiento por la militancia;
 
-d) Determinado el financiamiento público que corresponda a cada partido político, el Instituto Electoral del Estado definirá el calendario de ministraciones.
+c) Financiamiento de simpatizantes;
 
-e) Sólo tendrán derecho al financiamiento público los partidos políticos que hayan participado en las elecciones inmediatas anteriores y siempre que obtengan dictamen favorable de sus cuentas, emitido por el Instituto Electoral del Estado.
+d) Autofinanciamiento; y
 
-El Comité Técnico Electoral del Instituto Electoral del Estado es el órgano responsable de la aplicación de estas reglas y de entregar el financiamiento.
+e) Financiamiento por rendimientos financieros, fondos y fideicomisos.
+
+II.- No podrán realizar aportaciones o donativos a los partidos políticos, en dinero o en especie, por sí o por interpósita persona y bajo ninguna circunstancia:
+
+a) Los Poderes Ejecutivo, Legislativo y Judicial de la Federación y de los Estados, y los ayuntamientos, salvo los establecidos en la ley;
+
+b) Las dependencias, entidades u organismos de la Administración Pública Federal, Estatal o Municipal, Centralizados o Paraestatales, y los órganos de gobierno del Distrito Federal;
+
+c) Los partidos políticos, personas físicas o morales extranjeras;
+
+d) Los organismos internacionales de cualquier naturaleza;
+
+e) Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión o secta;
+
+f) Las personas que vivan o trabajen en el extranjero; y
+
+g) Las empresas mexicanas de carácter mercantil.
+
+III.- Los partidos políticos no podrán solicitar créditos provenientes de la banca de desarrollo para el financiamiento de sus actividades. Tampoco podrán recibir aportaciones de personas no identificadas, con excepción de las obtenidas mediante colectas realizadas en mítines o en la vía pública;
+
+IV.- El financiamiento de los partidos políticos que no provenga del erario público, tendrá las siguientes modalidades:
+
+a) El financiamiento general de los partidos políticos para sus campañas que provenga de la militancia estará conformado por las cuotas obligatorias ordinarias y extraordinarias de sus afiliados, por las aportaciones de sus organizaciones sociales y por las cuotas voluntarias y personales que los candidatos aporten exclusivamente para sus campañas conforme a las siguientes reglas:
+
+1. El órgano interno responsable del financiamiento de cada partido deberá expedir recibo de las cuotas o aportaciones recibidas, de los cuales deberá conservar una copia para acreditar el monto ingresado;
+
+2. Cada partido político determinará libremente los montos mínimos y máximos y la periodicidad de las cuotas ordinarias y extraordinarias de sus afiliados, así como las aportaciones de sus organizaciones; y
+
+3. Las cuotas voluntarias y personales que los candidatos aporten exclusivamente para sus campañas tendrán el límite que fije el órgano interno responsable del manejo del financiamiento de cada partido.
+
+b) El financiamiento de simpatizantes estará conformado por las aportaciones o donativos, en dinero o en especie, hechas a los partidos políticos en forma libre y voluntaria por las personas físicas o morales mexicanas con residencia en el país que no estén comprendidas en la fracción II de este artículo. Las aportaciones se deberán sujetar a las siguientes reglas:
+
+1. Cada partido político no podrá recibir anualmente aportaciones en dinero de simpatizantes por una cantidad superior al 10% del total del financiamiento público para actividades ordinarias que corresponda a todos los partidos políticos;
+
+2. De las aportaciones en dinero deberán expedirse recibos foliados por los partidos políticos en los que se harán constar datos de identificación del aportante, salvo que hubieren sido obtenidas mediante colectas realizadas en mítines o en la vía pública, siempre y cuando no impliquen venta de bienes o artículos promocionales. En el caso de colectas, sólo deberá reportarse en el informe correspondiente el monto total obtenido. Las aportaciones en especie se harán constar en un contrato celebrado conforme a las leyes aplicables;
+
+3. Las aportaciones en dinero que realice cada persona física o moral facultada para ello, tendrán un límite anual equivalente al 0.05% del monto total del financiamiento público para el sostenimiento de actividades ordinarias permanentes otorgado a los partidos políticos, en el año que corresponda;
+
+4. Las aportaciones en dinero podrán realizarse en parcialidades y en cualquier tiempo, pero, el monto total aportado durante un año por una persona física o moral, no podrá rebasar según corresponda los límites establecidos en el numeral anterior; y
+
+5. Las aportaciones de bienes muebles o inmuebles deberán destinarse únicamente para el cumplimiento del objeto del partido político que haya sido beneficiado con la aportación.
+
+c) El autofinanciamiento estará constituido por los ingresos que los partidos obtengan de sus actividades promocionales tales como conferencias, espectáculos, juegos y sorteos, eventos culturales, ventas editoriales, de bienes y de propaganda utilitaria así como cualquier otra similar que realicen para allegarse fondos, las que estarán sujetas a las leyes correspondientes a su naturaleza. Para efectos de este Código, el órgano interno responsable del financiamiento de cada partido político reportará los ingresos obtenidos por estas actividades en los informes respectivos; y
+
+d) Para obtener financiamiento por rendimientos financieros los partidos políticos podrán crear fondos o fideicomisos con su patrimonio o con las aportaciones que reciban, adicionalmente a las provenientes de las modalidades del financiamiento señaladas en el presente artículo. El financiamiento por rendimientos financieros se sujetará a las siguientes reglas:
+
+1. A las aportaciones que se realicen, a través de esta modalidad, les serán aplicables las disposiciones contenidas en la fracciones II, III, numeral 3 del inciso b) de la fracción IV, de este artículo y las demás disposiciones aplicables a este Código, así como las leyes correspondientes, atendiendo al tipo de operación realizada;
+
+2. Los fondos y fideicomisos que se constituyan serán manejados a través de las operaciones bancarias y financieras que el órgano responsable del financiamiento de cada partido político considere conveniente, con excepción de la adquisición de acciones bursátiles; y
+
+3. Los rendimientos financieros obtenidos a través de esta modalidad deberán destinarse para el cumplimiento de los objetivos del partido político.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 51.
 
-Los partidos políticos deberán rendir anualmente un informe justificado ante el Instituto Electoral del Estado sobre el empleo de los recursos obtenidos por el financiamiento público, anexando los comprobantes respectivos.
+Apartado A.- Los partidos políticos que hubieran participado en las elecciones ordinarias inmediatas anteriores y hayan obtenido por lo menos, el 1.5% de la votación emitida para la elección de Diputados según el principio de mayoría relativa, tendrán derecho al financiamiento público de sus actividades, independientemente de las demás prerrogativas otorgadas en este Código, conforme a las disposiciones siguientes:
 
-> <small>(F. DE E., D.O. 13 DE ENERO DE 1995)</small>
+I.- Para el sostenimiento de actividades ordinarias permanentes:
 
-El Instituto Electoral del Estado calificará este informe y emitirá un dictamen dentro de los treinta días siguientes a la recepción del mismo.
+a) El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará cada tres años;
+
+b) El monto total del financiamiento público, será el resultante de multiplicar un salario y medio mínimo general diario vigente en la ciudad de Mérida, por el número total de ciudadanos que emitieron su voto en la última elección local de Diputados por el principio de mayoría relativa;
+
+c) De la cantidad total que resulte de acuerdo con lo señalado en el inciso anterior, un 40% se distribuirá entre los partidos políticos en forma igualitaria y el 60% restante, se distribuirá entre los mismos de acuerdo al porcentaje de votos que hubieren obtenido en la elección local inmediata anterior de Diputados por el principio de mayoría relativa;
+
+d) Determinado el financiamiento público para el sostenimiento de sus actividades ordinarias permanentes que corresponda a cada partido político, le será ministrado durante los tres años subsecuentes.
+
+En cada uno de los dos primeros años subsecuentes, les será ministrado el equivalente al 30% del total de financiamiento público que les corresponda y el 40% restante, les será ministrado durante el tercer año;
+
+e) Cada año se actualizará el monto total del financiamiento público conforme a los incrementos del salario mínimo general vigente en la ciudad de Mérida, en su caso, pero exclusivamente, para efecto de actualizar los porcentajes anuales que del mismo le corresponda a los partidos políticos, sin que pueda aplicarse retroactivamente; y
+
+f) Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente.
+
+II.- Financiamiento público para las actividades tendientes a la obtención del voto:
+
+a) En el año de la elección, a cada partido político se le otorgará para gastos de campaña, un monto equivalente al 75% del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año; y
+
+b) El monto para gastos de campaña se otorgará a los partidos políticos en forma adicional al resto de las prerrogativas.
+
+III.- Por actividades específicas como entidades de interés público:
+
+a) La educación y capacitación política, investigación socioeconómica y política, así como las tareas editoriales de los partidos políticos, podrán ser apoyadas mediante el financiamiento público en los términos del reglamento que expida el Consejo Electoral del Estado;
+
+b) El Comité Técnico Electoral no podrá acordar apoyos en cantidad mayor al 75% anual, de los gastos comprobados que por las actividades a que se refiere el inciso a), hayan erogado los partidos políticos en el año inmediato anterior, siempre y cuando se acrediten todos los requisitos que al efecto señale el reglamento que expide el Consejo Electoral del Estado; y
+
+c) Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones conforme al calendario presupuestal que se apruebe anualmente.
+
+Apartado B.- Los partidos políticos que hubieren obtenido su registro con fecha posterior a la última elección, tendrán derecho a que se les otorgue financiamiento público conforme a las siguientes bases:
+
+I.- Se le otorgará a cada partido político el 2% del monto que por financiamiento total les corresponda a los partidos políticos para el sostenimiento de sus actividades ordinarias permanentes a que se refiere este artículo, así como en el año de la elección una cantidad adicional igual para gastos de campaña.
+
+Las cantidades a que se refiere el párrafo anterior serán entregadas por la parte proporcional que corresponda a la anualidad a partir de la fecha en que surta efectos el registro y tomando en cuenta el calendario presupuestal aprobado para el año; y
+
+II.- Se les otorgará el financiamiento público por sus actividades específicas como entidades de interés público.
+
+El Comité Técnico Electoral del Instituto Electoral del Estado es el órgano responsable de la aplicación de las disposiciones contenidas en el presente artículo y de entregar el financiamiento.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 52.
 
-El Instituto Electoral del Estado suspenderá el financiamiento cuando resulte que los recursos no están siendo destinados para la finalidad que se otorgaron, no sin antes conceder garantía de audiencia al partido político afectado para el ejercicio de sus derechos, en un plazo no mayor de quince días contados a partir de la notificación . Una vez hecho lo anterior, en un término de tres días, el Consejo resolverá de manera definitiva si cancela o no el financiamiento a dicho partido por el resto del trienio.
+Los partidos políticos deberán tener un órgano interno encargado de la obtención y administración de sus recursos generales y de campaña, así como de la presentación de los informes a que se refiere este Código. Dicho órgano se constituirá en los términos y con las modalidades y características que cada partido libremente determine.
+
+Los partidos políticos deberán presentar ante el Comité Técnico Electoral del Instituto Electoral del Estado, los informes del origen y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación, atendiendo a las siguientes disposiciones:
+
+I.- Informes anuales:
+
+a) Serán presentados a más tardar dentro de los sesenta días siguientes al último día de diciembre del año del ejercicio que se reporte; y
+
+b) En el informe anual serán reportados los ingresos totales y gastos ordinarios que los partidos políticos hayan realizado durante el ejercicio objeto del informe.
+
+II.- Informes de campaña:
+
+a) Deberán presentarse por los partidos políticos, por cada una de las campañas en las elecciones respectivas, especificando los gastos que el partido político y el candidato hayan realizado en el ámbito territorial correspondiente;
+
+b) Serán presentados a más tardar dentro de los sesenta días siguientes contados a partir del día en que concluya el proceso electoral respectivo.
+
+c) En cada informe será reportado el origen de los recursos que se hayan utilizado para financiar los gastos de propaganda electoral y actividades de campaña.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 53.
 
-Cuando exista duda fundada sobre el uso del financiamiento público, el Instituto Electoral del Estado podrá practicar auditorías a los partidos que gocen de esta prerrogativa.
+El procedimiento para la presentación y revisión de los informes de los partidos se sujetará a las siguientes disposiciones:
+
+I.- La Coordinación de Administración del Comité Técnico Electoral contará con sesenta días para revisar los informes anuales y con ciento veinte días para revisar los informes de campaña presentados por los partidos políticos y, en su caso, por las agrupaciones políticas estatales. Tendrá en todo momento la facultad de solicitar a los órganos responsables del financiamiento de cada partido político y a las agrupaciones políticas estatales, la documentación necesaria para comprobar la veracidad de lo reportado en los informes;
+
+II.- Si durante la revisión de los informes la Coordinación de Administración advierte la existencia de errores u omisiones técnicas, notificará al partido político o a la agrupación política estatal que hubiere incurrido en ellos, para que en un plazo de diez días contados a partir de dicha notificación, presente las aclaraciones o rectificaciones que estime pertinentes;
+
+III.- Al vencimiento del plazo señalado en la fracción I del presente artículo o, en su caso, al concedido para la rectificación de errores u omisiones, la Coordinación de Administración dispondrá de un plazo de veinte días para elaborar un dictamen consolidado y un proyecto de resolución que deberá presentar al Consejo Electoral del Estado dentro de los tres días siguientes a su conclusión;
+
+IV.- El proyecto de dictamen deberá contener por lo menos:
+
+a) El resultado y las conclusiones de la revisión de los informes que hayan presentado los partidos políticos y las agrupaciones políticas estatales;
+
+b) En su caso, la mención de los errores o irregularidades encontradas en los mismos; y
+
+c) El señalamiento de las aclaraciones o rectificaciones que presentaron los partidos políticos y las agrupaciones políticas estatales, después de haberles notificado con ese fin.
+
+V.- El Consejo Electoral del Estado analizará el dictamen y el proyecto de resolución que haya formulado la Coordinación de Administración, resolviendo lo conducente y procediendo a imponer, en su caso, las sanciones correspondientes;
+
+VI.- Los partidos políticos y las agrupaciones políticas estatales, podrán impugnar ante el Tribunal Electoral del Estado el dictamen, y la resolución, que en su caso emita, el Consejo Electoral del Estado, en la forma y términos previstos en este Código; y
+
+VII.- El Consejo Electoral del Estado deberá:
+
+a) Remitir al Tribunal Electoral del Estado, cuando se hubiere interpuesto el recurso, junto con éste, el dictamen de la Coordinación de Administración y la resolución;
+
+b) Acordar los mecanismos que considere convenientes para la difusión pública del dictamen, y en su caso, las sanciones correspondientes.
 
 ### CAPITULO OCTAVO. DE LAS COALICIONES
 
@@ -649,6 +995,26 @@ VII.- La forma en que convengan los integrantes de la coalición para ejercer en
 
 VIII.- La plataforma electoral común que ofrecerá la coalición y el candidato, candidatos o planillas, que deberá publicarse y difundirse durante la campaña respectiva.
 
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+IX.- El señalamiento de las fórmulas que conformarán la coalición;
+
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+X.- El monto de las aportaciones de cada partido coaligado para el desarrollo de las campañas respectivas;
+
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+XI.- La forma de distribución de los votos obtenidos para el efecto de la asignación de prerrogativas;
+
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+XII.- Para el caso de la interposición de los medios de impugnación previstos en el Código de la materia, el señalamiento de quién ostentará la representación de la coalición; y
+
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+XIII.- Constancia de aprobación de la coalición emitida por los órganos de dirección estatal de los partidos políticos coaligados de conformidad con sus estatutos.
+
 ###### Artículo 63.
 
 El convenio de coalición deberá presentarse por escrito para su registro ante el Consejo Electoral del Estado, antes del día en que se inicie los plazos y términos que se señalan en este Código para el registro de candidatos en cada una de las elecciones de que se traten. En el caso de elecciones extraordinarias, se estará al término que para el registro de candidatos señale la convocatoria.
@@ -681,9 +1047,11 @@ El convenio de fusión deberá de presentarse ante el Consejo Estatal Electoral 
 
 El Instituto Electoral del Estado cancelará la inscripción de su registro a los partidos políticos nacionales, solo cuando estos pierdan dicho registro ante el Instituto Federal Electoral.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 69.
 
-El Instituto Electoral del Estado suspenderá la inscripción de su registro a los partidos políticos nacionales y suspenderá o cancelará su registro a los partidos políticos estatales, por las causas siguientes:
+El Instituto Electoral del Estado podrá suspender la inscripción del registro de los partidos políticos nacionales, así como suspender o cancelar la inscripción del registro de los partidos políticos estatales, por las causas siguientes:
 
 I.- Incumplir grave y sistemáticamente las obligaciones que le señale este Código;
 
@@ -698,6 +1066,26 @@ IV.- Acordar que sus diputados electos no se presenten al desempeño de su repre
 V.- No participar en dos procesos electorales consecutivos con candidatos propios o en coalición; y
 
 VI.- Por incumplir con las obligaciones de esta Ley.
+
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+VII.- Por no haber obtenido en la última elección de diputados por el principio de mayoría relativa, por lo menos el 1.5 % de la votación emitida.
+
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+VIII.- Por no haber obtenido en la última elección de diputados por el principio de mayoría relativa, por lo menos el 1.5 % de la votación emitida, si participa coaligado, en términos del convenio celebrado al efecto.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Son causas de suspensión de la inscripción del registro, a los partidos políticos nacionales, las señaladas en las fracciones I, II, III, IV, V y VI del presente artículo.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Son causas de suspensión de la inscripción del registro, a los partidos políticos estatales, las señaladas en las fracciones III y IV del presente artículo.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Son causas de cancelación de la inscripción del registro, a los partidos políticos estatales, las señaladas en las fracciones I, II, V, VI, VII y VIII del presente artículo.
 
 ###### Artículo 70.
 
@@ -751,11 +1139,13 @@ El Instituto Electoral del Estado es un organismo público autónomo, de caráct
 
 Son fines del Instituto Electoral del Estado:
 
-I.- Contribuir al desarrollo de la vida democrática en el Estado;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+I.- Contribuir al desarrollo de la vida democrática;
 
 II.- Fortalecer el régimen de partidos políticos;
 
-III.- Coordinarse, mediante los convenios respectivos, con la Junta Local Ejecutiva del Instituto Federal Electoral en la Entidad;
+III.- (DEROGADA, D.O. 30 DE JUNIO DE 2003)
 
 IV.- Asegurar a los ciudadanos el ejercicio de sus derechos políticos-electorales y vigilar el cumplimiento de sus obligaciones;
 
@@ -763,13 +1153,29 @@ V.- Garantizar la celebración periódica y pacífica de las elecciones para ren
 
 VI.- Velar por la autenticidad y efectividad del sufragio; y,
 
-VII.- Coadyuvar en la promoción y difusión de la cultura política de la ciudadanía yucateca.
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-Todas las actividades del Instituto se regirán por los principios de certeza, legalidad, imparcialidad y objetividad.
+VII.- Llevar a cabo la promoción del voto y coadyuvar a la difusión de la cultura democrática.
+
+Todas las actividades del Instituto Electoral del Estado se regirán por los principios de certeza, legalidad, independencia, imparcialidad y objetividad.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Para el desempeño de sus actividades, el Instituto Electoral del Estado contará con el personal necesario.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 81.
 
-El patrimonio del Instituto se integra con los bienes que se destinen al cumplimiento de su objeto y las partidas que anualmente se le señalen en el Presupuesto de Egresos del Gobierno del Estado.
+El patrimonio del Instituto Electoral del Estado se integra con:
+
+I.- Los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto;
+
+II.- Las partidas que anualmente se le señalen en el Presupuesto de Egresos del Gobierno del Estado;
+
+III.- Los ingresos que reciba por cualquier concepto, derivados de la aplicación de las disposiciones de este Código, y
+
+IV.- Por las cantidades que por concepto de sanción, en los términos de lo establecido por el artículo 368 de este Código, se disminuya del financiamiento a un partido político infractor.
 
 ###### Artículo 82.
 
@@ -787,67 +1193,89 @@ II.- El Comité Técnico Electoral.
 
 ### CAPITULO PRIMERO. DEL CONSEJO ELECTORAL DEL ESTADO
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 84.
 
-El Consejo Electoral del Estado es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar porque los principios de certeza, legalidad, imparcialidad y objetividad determinen todas las actividades del Instituto.
+El Consejo Electoral del Estado es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad y objetividad determinen todas las actividades del Instituto Electoral del Estado.
 
 ###### Artículo 85.
 
 El Consejo Electoral del Estado se integrará de la siguiente manera:
 
-> <small>(REFORMADA, D.O. 12 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-I.- Catorce Consejeros ciudadanos, quienes elegirán de entre ellos mismos, en la primera sesión del Consejo Electoral del Estado, a uno que tendrá el carácter de Presidente, cargo que será rotativo cada quince días.
+I.- Por siete Consejeros ciudadanos, quienes elegirán de entre ellos mismos, en la primera sesión del Consejo Electoral del Estado, a uno que tendrá el carácter de Presidente;
 
-II- Dos consejeros del Poder Legislativo.
+II- (DEROGADA, D.O. 30 DE JUNIO DE 2003)
 
-III.- Un Secretario Técnico; y
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-IV.- Un representante de cada uno de los partidos políticos que participen en la elección;
+III.- Por un Secretario Técnico; y
+
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+IV.- Por un representante de cada uno de los partidos políticos que participen en la elección.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 86.
 
-Los consejeros ciudadanos serán designados por el Congreso del Estado, a más tardar el último día del mes de Septiembre del año previo al de la elección, de acuerdo a las bases siguientes:
+Los consejeros ciudadanos del Consejo Electoral del Estado serán designados por el Congreso del Estado, a más tardar el último día del mes de agosto del año previo al de la elección, de acuerdo con el siguiente procedimiento:
 
-I.- Las organizaciones sociales y los partidos políticos podrán proponer al Congreso del Estado hasta tres candidatos a Consejeros ciudadanos a más tardar el día último del mes de Agosto del año previo al de la elección.
+I.- La Comisión Permanente de Legislación, Puntos Constitucionales Gobernación y Asuntos Electorales del Congreso del Estado, expedirá una convocatoria pública dirigida a las organizaciones sociales, agrupaciones y partidos políticos con la finalidad de allegarse propuestas de candidatos a consejeros ciudadanos del Consejo Electoral del Estado. La convocatoria deberá publicarse a más tardar treinta días antes de la fecha en que debe designarse los consejeros ciudadanos del Consejo Electoral del Estado;
 
-Las organizaciones sociales y los partidos políticos deberán anexar a sus propuestas los documentos que acrediten que sus candidatos reúnen los requisitos exigidos por este Código, para ser Consejeros ciudadanos, así como la carta de aceptación de los mismos.
+II.- Las organizaciones sociales, agrupaciones y partidos políticos, a través de su representante, propondrán, hasta tres candidatos a consejeros ciudadanos del Consejo Electoral del Estado.
 
-Para los efectos de este Código, las organizaciones sociales deberá reunir los siguientes requisitos:
+Las organizaciones sociales, agrupaciones políticas que deseen presentar candidatos deberán reunir y acreditar los siguientes requisitos:
 
-1.- Estar constituidas, registradas o inscritas, según el caso, conforme a la Ley.
+Estar constituidas, registradas o inscritas, según el caso, conforme a la ley, lo que se acreditará con la copia certificada del acta constitutiva;
 
-2.- Tener cuando menos cinco años de haberse conformado.
+a) Tener cuando menos cinco años de haberse conformado, lo que se acreditará con la copia certificada del documento que acredite el registro o inscripción;
 
-3.- No perseguir fines lucrativos ni manifestar o haber manifestado ostensiblemente tendencias partidistas.
+b) No perseguir fines lucrativos;
 
-4.- No estar supeditadas ni vinculadas a ninguna religión; y
+c) No estar supeditadas ni vinculadas a ninguna religión;
 
-5.- Tener como objeto o fin la realización de actividades de carácter cultural, profesional, social o altruista.
+d) Contar con domicilio legal en el Estado; y
 
-II.- Recibidas las propuestas, el Congreso del Estado turnará la totalidad a la Comisión Permanente de Legislación, Puntos Constitucionales, Gobernación y Asuntos Electorales, la cual formulará la lista con los nombres de las personas que reúnan los requisitos de ley.
+e) Copia certificada del documento que acredita la personalidad del representante legal.
 
-> <small>(REFORMADA, D.O. 12 DE MARZO DE 2001)</small>
+Tratándose de los partidos políticos deberán acreditar su inscripción o registro ante el Instituto Electoral del Estado, en los términos del (sic) este Código.
 
-III.- De la lista de las personas nominadas, los diputados en sesión plenaria elegirán en forma secreta y por mayoría de las cuatro quintas partes de los presentes a los catorce consejeros ciudadanos propietarios y catorce consejeros ciudadanos suplentes.
+III.- Las propuestas de candidatos a consejeros ciudadanos del Consejo Electoral del Estado deberán presentarse dentro de los quince días siguientes al de la publicación de la convocatoria en la Oficialía Mayor del Congreso anexando la siguiente documentación:
 
-> <small>(REFORMADA, D.O. 12 DE MARZO DE 2001)</small>
+a) La aceptación por escrito del candidato a ser consejero ciudadano;
 
-IV.- De no haberse logrado la elección de los catorce consejeros ciudadanos propietarios y suplentes, con la mayoría señalada en la fracción que antecede, se procederá a la insaculación de los que falten hasta completar el número de consejeros exigidos por este Código o en su caso, para designar la totalidad de los consejeros.
+b) Original o copia certificada del acta de nacimiento;
+
+c) Original o copia certifcada de la constancia de residencia, si el candidato (sic)
+
+d) propuesto no es originario del Estado;
+
+e) Copia de la credencial para votar;
+
+f) Currículum vitae del candidato.
+
+IV.- La Oficialía Mayor del Congreso turnará inmediatamente a la Comisión de Legislación, Puntos Constitucionales, Gobernación y Asuntos Electorales del Congreso del Estado, las propuestas de candidatos a consejeros ciudadanos del Consejo Electoral del Estado que hubiera recibido junto con la documentación presentada. Una vez vencido el término establecido en la fracción III del presente artículo y dentro de los cinco días siguientes a dicho término, la Comisión formulará una lista con los nombres de los candidatos a consejeros ciudadanos del Consejo Electoral del Estado que reúnan los requisitos de Ley.
+
+Para efecto de lo anterior, la Comisión de Legislación, Puntos Constitucionales, Gobernación y Asuntos Electorales del Congreso del Estado analizará cada una de las propuestas de candidatos a consejeros ciudadanos del Consejo Electoral del Estado, verificando la documentación presentada. Si de la verificación realizada se advierte que se omitió la entrega de algún documento o los presentados no son idóneos para acreditar el cumplimiento de los requisitos que deben reunir las organizaciones sociales, agrupaciones y partidos políticos para los efectos de esta Ley o en su caso, los candidatos para ser consejeros ciudadanos del Consejo Electoral del Estado se notificará dentro de un plazo de veinticuatro horas a la organización social, agrupación o partido político, según el caso, para que dentro de las cuarenta y ocho horas siguientes a la de la notificación, presente la documentación procedente.
+
+La Comisión de Legislación, Puntos Constitucionales, Gobernación y Asuntos Electorales del Congreso del Estado, a más tardar siete días antes de la fecha en que deba designar a los consejeros ciudadanos del Consejo Electoral del Estado, publicará una lista con los nombres de todos los candidatos que fueron propuestos especificando en cada caso, cuales cumplieron con los requisitos establecidos en la presente Ley.
+
+La lista con los nombres de los candidatos a consejeros ciudadanos del Consejo Electoral del Estado que reúnan los requisitos de Ley, será presentada al Pleno del Congreso, a efecto de que entre los candidatos que la integran y mediante el voto de las dos terceras partes de sus miembros, designe a los consejeros ciudadanos del Consejo Electoral del Estado.
+
+V.- De no haberse logrado la designación de los siete consejeros propietarios y suplentes, con la mayoría señalada en la fracción que antecede, se procederá para completar el número de consejeros, a la insaculación de los que falten hasta integrar el número exigido por este Código.
 
 La insaculación se verificará entre la totalidad de las personas nominadas en la lista turnada al Pleno, a excepción de las ya elegidas.
 
-V.- Los consejeros ciudadanos suplentes serán convocados en su caso, para formar parte del Consejo Electoral del Estado, de acuerdo al orden sucesivo que hayan ocupado en la lista de suplencia.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
-> <small>(F. DE E., D.O. 24 DE ENERO DE 1995)</small>
+###### Artículo 87.
 
-VI.- Los Consejeros Ciudadanos Propietarios y Suplentes y el Secretario Técnico del Consejo Electoral del Estado durarán en su cargo, dos procesos electorales ordinarios, pudiendo ser ratificados por el Congreso del Estado para un período más.
+Los Consejeros Ciudadanos propietarios y suplentes del Consejo Electoral del Estado y el Secretario Técnico de dicho órgano electoral, durarán en su encargo seis años y podrán ser ratificados hasta por un período más.
 
-###### ARTICULO 87.
-
-Los Consejeros del Poder Legislativo serán uno de la mayoría y uno de la primera minoría, con sus respectivos suplentes de los mismos partidos, nombrados por el Congreso del Estado a más tardar el último día del mes de Septiembre del año previo al de la elección.
-
-Estos Consejeros participarán en las sesiones de Consejo, con voz pero sin voto.
+Los Consejeros Ciudadanos del Consejo Electoral del Estado que estén en funciones, así como el Secretario Técnico de dicho órgano electoral, recibirán la retribución económica que se establezca en el presupuesto anual del Instituto Electoral del Estado. Dicha retribución para los Consejeros Ciudadanos, durante el año de la elección será equivalente al sueldo que perciban los Magistrados del Tribunal Superior de Justicia del Estado y el 50% del mismo en los años en que no se celebren elecciones. El Presidente del Consejo Electoral del Estado, durante todo el período por el que fue designado, recibirá un sueldo equivalente al que perciban los Magistrados del Tribunal Superior de Justicia.
 
 ###### ARTICULO 88.
 
@@ -857,61 +1285,101 @@ El Secretario Técnico será designado por el Consejo Electoral del Estado a pro
 
 Los partidos políticos acreditarán ante el Consejo Electoral del Estado un representante con su respectivo suplente, quienes actuarán en su caso, con voz pero sin voto.
 
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Los representantes, de los partidos políticos acreditados ante el Consejo Electoral del Estado, recibirán el equivalente a un 25% del sueldo de los Consejeros Ciudadanos, conforme a los lineamientos que al efecto acuerde el Consejo Electoral del Estado.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+De igual manera y de acuerdo a la disponibilidad de espacio en la sede del Consejo Electoral del Estado, a los representantes de los partidos políticos acreditados ante dicho órgano, se les asignarán oficinas y el equipo indispensable para sus funciones de representación, así como personal secretarial cuya remuneración, correrá a cargo del presupuesto del Instituto Electoral del Estado.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+En la formulación anual del Presupuesto del Instituto Electoral del Estado, se atenderá a lo dispuesto en el segundo y tercer párrafo del presente artículo.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+El Comité Técnico Electoral del Instituto Electoral del Estado es el órgano responsable de la aplicación de las disposiciones contenidas en el presente artículo y de entregar la retribución económica a los representantes de los partidos políticos acreditados ante el Consejo Electoral del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 90.
 
-Son requisitos para ser Consejero ciudadano:
+Son requisitos para ser Consejero ciudadano del Consejo Electoral del Estado:
 
 I.- Ser mexicano por nacimiento y ciudadano yucateco en pleno ejercicio de sus derechos políticos y civiles;
 
-II.- Estar inscrito en el Registro Federal de Electores y contar con Credencial vigente para Votar;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+II.- Contar con Credencial para Votar;
 
 III.- Haber residido en la Entidad durante los últimos dos años.
 
 IV.- Poseer el día de la designación, título profesional a nivel de licenciatura o su equivalente, expedido por Institución legalmente facultada para ello;
 
-V.- No haber sido condenado ni estar sujeto a proceso por delito intencional.
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-VI.- No ser ni haber sido candidato a cargo de elección popular.
+V.- No haber sido condenado por delito intencional;
 
-VII.- No desempeñar ni haber desempeñado cargo de dirección en los órganos nacionales, estatales o municipales, de algún partido político.
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+VI.- No ser ni haber sido candidato a cargo de elección popular, durante los tres años previos a la elección;
+
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+VII.- No ser ministros de algún culto religioso, a menos que se separen de su ministerio conforme a lo establecido en la Constitución Federal y la ley de la materia;
+
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+VIII.- No ser militar en servicio activo con mando de fuerzas;
+
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+IX.- No ser titular de alguna de las dependencias de la Administración Pública Estatal o Municipal, a menos que se separe de sus funciones tres años antes de la elección; y
+
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+X.- No ser ni haber sido dirigente en los órganos nacionales, estatales o municipales, de algún partido político, durante los tres años previas al de la elección.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 91.
 
-Son requisitos para ser Secretario Técnico del Consejo Electoral del Estado:
+Para ser Secretario Técnico del Consejo Electoral del Estado se deberán reunir los mismos requisitos que establece el artículo anterior, pero en todo caso, deberá contar con título profesional de Abogado o Licenciado en Derecho.
 
-I.- Ser mexicano por nacimiento y ciudadano yucateco en pleno ejercicio de sus derechos políticos y civiles;
+El cargo de Secretario Técnico del Consejo Electoral del Estado es incompatible con cualquier cargo de dirección en los órganos nacionales, estatales o municipales, de algún partido político.
 
-II.- Estar inscrito en el Registro Federal de Electores y contar con Credencial vigente para Votar.
-
-III.- Contar con título de Abogado o Licenciado en Derecho.
-
-IV.- No haber sido condenado por delito intencional;
-
-V.- No ser ni haber sido candidato a cargo de elección popular; y
-
-VI.- No desempeñar ni haber desempeñado cargos de dirección en los órganos nacionales, estatales o municipales de algún partido político.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 92.
 
-El Consejo Electoral del Estado se instalará y convocará a su primera sesión, dentro de los primeros quince días del mes de octubre del año anterior al de la elección, con el objeto de preparar el proceso electoral. A partir de su instalación y hasta la conclusión del proceso sesionará por lo menos una vez al mes.
+El Consejo Electoral del Estado se reunirá en sesión ordinaria cada tres meses. Su Presidente podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición que le sea formulada por la mayoría de los Consejeros ciudadanos o de los representantes de los partidos políticos, conjunta o indistintamente.
 
-Terminado el proceso, el Consejo Electoral del Estado se reunirá en sesión ordinaria cada seis meses. Su Presidente podrá convocar a sesión extraordinaria cuando lo estime necesario, atendiendo a su reglamento interno.
+Para la preparación del proceso electoral el Consejo Electoral del Estado se reunirá dentro de la segunda semana del mes de octubre del año anterior a aquél en que se celebren las elecciones ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo Electoral del Estado sesionará por lo menos una vez al mes.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 93.
 
-Para que el Consejo Electoral del Estado pueda sesionar es necesaria la presencia de las dos terceras partes de sus integrantes con derecho a voz y voto, entre los que deberá estar el Presidente. Toda resolución se tomará por mayoría de votos.
+Para que el Consejo Electoral del Estado pueda sesionar es necesaria la presencia de cuatro de sus integrantes con derecho a voz y voto, entre los que deberá estar el Presidente. Toda resolución se tomará por mayoría de votos.
 
-De no concurrir las dos terceras partes se citará a otra sesión en fecha posterior, la cual se efectuará con los consejeros que asistan, entre los que deberá estar el Presidente.
+De no concurrir la mayoría a la que se refiere el párrafo anterior, el Presidente convocará a otra sesión en fecha posterior, la cual se efectuará con los Consejeros ciudadanos y demás integrantes que asistan, entre los que deberá estar el Presidente.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 94.
 
-En caso de vacante de los consejeros propietario y suplente del Poder Legislativo, el Presidente del Consejo Electoral del Estado se dirigirá al Congreso a fin de que éste haga la designación correspondiente.
+El Presidente, los Consejeros ciudadanos y el Secretario Técnico del Consejo Electoral del Estado desempeñarán su función con autonomía y probidad. No podrán utilizar en beneficio propio o de terceros, la información confidencial de que dispongan en razón de su cargo, así como divulgarla sin autorización del propio Consejo Electoral del Estado.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 95.
 
-El Consejo Electoral del Estado integrará las comisiones que considere necesarias para el desempeño de sus atribuciones, con el número de miembros que acuerde el propio Consejo.
+El Consejo Electoral del Estado integrará las comisiones que considere necesarias para el desempeño de sus atribuciones, con el número de miembros que para cada caso acuerde, que siempre serán presididas por un Consejero ciudadano.
 
-En todos los asuntos que se les encomienden, las comisiones deberán presentar un proyecto de resolución o de dictamen, con mención de los fundamentos legales y en el que se consideren, cuando sea el caso, las opiniones particulares de los partidos políticos interesados y las pruebas que se hubiesen presentado.
+En todos los asuntos que se les encomienden, las comisiones deberán presentar un informe, proyecto de resolución o de dictamen, según el caso, con mención de los fundamentos legales y en el que se consideren, cuando sea procedente, las opiniones de los representantes de los partidos políticos interesados y las pruebas que se hubiesen presentado.
+
+El Presidente y los Consejeros ciudadanos del Consejo Electoral del Estado, de acuerdo con la disponibilidad presupuestal del Instituto Electoral del Estado, contarán con un cuerpo de asesores con conocimiento en materia político-electoral.
 
 ### CAPITULO SEGUNDO. DE LAS ATRIBUCIONES DEL CONSEJO ELECTORAL DEL ESTADO
 
@@ -929,7 +1397,9 @@ IV.- Establecer los mecanismos de coordinación con la Junta Local Ejecutiva del
 
 V.- Asegurar el cumplimiento de lo acordado en los convenios que celebren el Instituto Electoral del Estado con el Gobierno del Estado, el Instituto Federal Electoral o cualquier organismo público o privado.
 
-VI.- Dictar los acuerdos necesarios para hacer efectivas sus atribuciones y las disposiciones de este Código;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+VI.- Dictar los acuerdos y lineamientos necesarios para hacer efectivas sus atribuciones y las disposiciones de este Código;
 
 VII.- Resolver en los términos de este Código sobre la suspensión o cancelación del registro de los partidos políticos ante el Consejo;
 
@@ -1001,13 +1471,35 @@ XXXVI.- Supletoriamente, por causa de fuerza mayor, realizar los cómputos distr
 
 XXXVII.- Publicar y asegurar la difusión de la relación de los integrantes de las mesas directivas de casilla y su ubicación, así como supletoriamente, asegurarse de que los nombramientos de los funcionarios de casilla sean oportunamente recibidos y aceptados o, en su caso, tomar las medidas pertinentes a fin de que se designen a los funcionarios sustitutos.
 
-XXXVIII.- Todas las demás que le confiere este Código.
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+XXXVIII.- Acordar lo conducente para la implementación del Programa de Resultados Preeliminares de las elecciones celebradas en la entidad, emitiendo en dicho acuerdo lineamientos para su funcionamiento;
+
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+XXXIX.- Vigilar y fiscalizar por sí o a través de la coordinación de administración el origen, monto y aplicación de los recursos, tanto de carácter público como privado que utilicen en general los partidos y agrupaciones políticas evaluando y valorando los informes que a este respecto le presenten, practicando las auditorías y en su caso, imponer las sanciones que correspondan de acuerdo con lo previsto en el presente ordenamiento. De igual forma aplicar las sanciones que en su caso corresponda a quienes infrinjan las disposiciones de este Código;
+
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+XL.- Establecer los lineamientos para el nombramiento de los Consejeros Ciudadanos Distritales y Municipales, conforme a lo establecido en este Código;
+
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+XLI.- Expedir el Estatuto del Servicio Profesional Electoral, así como los reglamentos, necesarios para el buen funcionamiento del Instituto y sus órganos; y
+
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+XLII.- Todas las demás que le confiere este Código.
 
 ###### Artículo 97.
 
 Son facultades del Presidente del Consejo Electoral del Estado, las siguientes:
 
 I.- Representar legalmente al Consejo Electoral del Estado.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+El Presidente del Consejo Electoral del Estado podrá en todo tiempo, delegar en favor de la persona que él designe, la facultad a que se refiere esta fracción.
 
 II.- Convocar y conducir las sesiones del Consejo;
 
@@ -1041,7 +1533,7 @@ VII.- Recibir y sustanciar los recursos de revisión que se interpongan en contr
 
 VIII.- Recibir los recursos de apelación e inconformidad y remitirlos al Tribunal Electoral del Estado, dentro de los plazos establecidos por este Código;
 
-IX.- Proponer al Consejo Electoral del Estado los nombramientos de los secretarios técnicos de los consejos electorales distritales y municipales de la entidad.
+IX.- (DEROGADA, D.O. 30 DE JUNIO DE 2003)
 
 X.- Llevar el libro de registro de los integrantes de los órganos directivos estatales y municipales de los partidos políticos y de sus representantes acreditados ante los órganos del Instituto.
 
@@ -1054,6 +1546,10 @@ XIII.- Llevar el archivo del Consejo;
 XIV.- Firmar junto con el Presidente del Consejo todos los acuerdos y resoluciones que se emitan; y
 
 XV.- Las demás que le confiera este Código.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Para el cumplimiento de las funciones a que se refiere el presente Artículo el Secretario Técnico contará de acuerdo con la disponibilidad presupuestal del Instituto Electoral del Estado, con un cuerpo de asesores.
 
 ### CAPITULO TERCERO. DEL COMITE TECNICO ELECTORAL
 
@@ -1125,9 +1621,11 @@ VIII.- Acordar con el Secretario Técnico los asuntos de su competencia; y
 
 IX.- Las demás que le confiera este Código.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 103.
 
-La Coordinación de Administración tiene las siguientes atribuciones:
+Apartado A.- La Coordinación de Administración tiene las siguientes atribuciones:
 
 I.- Aplicar las políticas, normas y procedimientos para la administración de los recursos financieros y materiales del Instituto;
 
@@ -1142,6 +1640,38 @@ V.- Atender las necesidades administrativas de los órganos del Instituto;
 VI.- Acordar con el Secretario Técnico los asuntos de su competencia; y
 
 VII.- Las demás que le confiera este Código.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Apartado B.- Para la fiscalización del manejo de los recursos de los partidos políticos y las agrupaciones políticas, así como la recepción, revisión y dictamen a que se refieren los artículos 52 y 53 de este Código, la Coordinación de Administración, contará con el apoyo del personal técnico especializado que se le asigne.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Para los efectos del párrafo anterior, la Coordinación de Administración tendrá a su cargo, las siguientes atribuciones:
+
+I.- Elaborar lineamientos con bases técnicas, para la presentación de los informes del origen y monto de los ingresos que los partidos políticos y las agrupaciones políticas estatales reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación;
+
+II.- Elaborar los lineamientos para que los partidos políticos y las agrupaciones políticas estatales lleven el registro de sus ingresos y egresos y de la documentación comprobatoria sobre el manejo de sus recursos;
+
+III.- Vigilar que los recursos que sobre el financiamiento ejerzan los partidos políticos y las agrupaciones políticas estatales, se apliquen estricta e invariablemente para las actividades señaladas en la ley;
+
+IV.- Solicitar a los partidos políticos y a las agrupaciones políticas estatales, cuando lo considere conveniente, rindan informe detallado respecto de sus ingresos y egresos;
+
+V.- Revisar los informes que los partidos políticos y las agrupaciones políticas estatales presenten sobre el origen y destino de sus recursos anuales y de campaña, según corresponda;
+
+VI.- Por acuerdo del Consejo Electoral del Estado, realizar directamente o a través de terceros, auditorías a las finanzas de los partidos políticos y las agrupaciones políticas estatales;
+
+VII.- Realizar por acuerdo del Consejo Electoral del Estado, las visitas de verificación a los partidos políticos y a las agrupaciones políticas con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de sus informes;
+
+VIII.- Presentar al Consejo Electoral del Estado los dictámenes que formulen respecto de las auditorías y verificaciones practicadas;
+
+IX.- Informar al Consejo Electoral del Estado, de las irregularidades en que hubiesen incurrido los partidos políticos y las agrupaciones políticas estatales derivadas del manejo de sus recursos; el incumplimiento a su obligación de informar sobre la aplicación de los mismos y, en su caso, de las sanciones que a su juicio procedan; y
+
+X.- Proporcionar a los partidos políticos y a las agrupaciones políticas estatales, la orientación y asesoría necesarias para el cumplimiento de las obligaciones relacionadas con la fiscalización del financiamiento.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Las quejas sobre el origen y la aplicación de los recursos derivados del financiamiento de los partidos políticos y agrupaciones políticas estatales, deberán ser presentadas ante el Coordinador General del Comité Técnico Electoral, quien las turnará a la Coordinación de Administración, a efecto de que las analice previamente a que rinda su proyecto de dictamen.
 
 ###### Artículo 104.
 
@@ -1229,15 +1759,33 @@ I.- Ser mexicano por nacimiento y ciudadano yucateco en pleno uso de sus derecho
 
 II.- Tener residencia no menor de dos años en el distrito correspondiente, el día de la designación;
 
-III.- Estar inscrito en el Registro Federal de Electores y contar con Credencial vigente para Votar.
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+III.- Contar con Credencial para Votar.
 
 IV.- No haber sido condenado por delito intencional;
 
 V.- Contar con preparación académica equivalente a bachillerato.
 
-VI.- No desempeñar o haber desempeñado cargo de elección popular, ni haber sido postulado como candidato para alguno de ellos en los últimos tres años anteriores a la designación; y
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-VII.- No ser o haber sido dirigente nacional, estatal o municipal de algún partido político.
+VI.- No ser y ni haber sido candidato a cargo de elección popular durante los tres años previos a la elección;
+
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+VII.- No ser ministros de algún culto religioso, a menos que se separen de su ministerio conforme a lo establecido en la Constitución Federal y la ley de la materia;
+
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+VIII.- No ser militar en servicio activo con mando de fuerzas;
+
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+IX.- No ser titular de alguna de las dependencias de la Administración Pública Estatal o Municipal, a menos que se separe de sus funciones tres años antes de la elección; y
+
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+X.- No ser ni haber sido dirigente en los órganos nacionales, estatales o municipales de algún partido político durante los tres años previos a la elección.
 
 ###### Artículo 112.
 
@@ -1267,7 +1815,9 @@ X.- Registrar las fórmulas de candidatos a diputados por el principio de mayor�
 
 XI.- Registrar los nombramientos de los representantes de los partidos ante las mesas directivas de casilla y los representantes generales en los términos de este Código;
 
-XII.- Entregar a los Consejos Municipales electorales dentro de los siete días previos al de la elección, los materiales electorales a que se refiere este Código;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+XII.- Entregar a los Consejos Municipales electorales dentro de los cinco días previos al de la elección, los materiales electorales a que se refiere este Código;
 
 XIII.- Recibir de los funcionarios del Consejo Municipal Electoral los paquetes electorales que contengan la documentación y expedientes relativos a la elección de Gobernador del Estado y diputados;
 
@@ -1357,23 +1907,43 @@ Para que los consejos electorales municipales puedan sesionar es necesaria la pr
 
 Las sesiones tendrán lugar previa notificación por escrito a los consejeros y representantes de los partidos políticos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 120.
 
-Los requisitos para ser Consejero Ciudadano y secretario Técnico de los consejos municipales son:
+Son requisitos para ser Consejero Ciudadano y Secretario Técnico de los consejos municipales:
 
 I.- Ser mexicano por nacimiento y ciudadano yucateco en pleno uso de sus derechos políticos y civiles;
 
 II.- Tener residencia no menor de dos años en el municipio correspondiente, el día de la designación;
 
-III.- Estar inscrito en el Registro Federal de Electores y contar con Credencial vigente para Votar;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+III.- Contar con Credencial para Votar;
 
 IV.- No haber sido condenado por delito intencional;
 
 V.- Contar con preparación académica y conocimientos que le permitan el desempeño de sus funciones;
 
-VI.- No desempeñar o haber desempeñado cargo de elección popular, ni haber sido postulado como candidato para alguno de ellos en los últimos tres años anteriores a la designación;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-VII.- No ser o haber sido dirigente nacional, estatal o municipal de algún partido político.
+VI.- No ser ni haber sido candidato a cargo de elección popular durante los tres años previos a la elección;
+
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+VII.- No ser ministros de algún culto religioso, a menos que se separen de su ministerio conforme a lo establecido en la Constitución Federal y la ley de la materia;
+
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+VIII.- No ser militar en servicio activo con mando de fuerzas;
+
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+IX.- No ser titular de alguna de las dependencias de la Administración Pública Estatal o Municipal, a menos que se separe de sus funciones tres años antes de la elección; y
+
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+X.- No ser ni haber sido dirigente en los órganos nacionales, estatales o municipales de algún partido político durante los tres años previos a la elección.
 
 ###### Artículo 121.
 
@@ -1393,7 +1963,9 @@ VI.- A propuesta del Presidente del Consejo Municipal Electoral, nombrar los asi
 
 Sus funciones serán auxiliar el proceso de capacitación y selección de los integrantes de las mesas directivas de casilla, de comunicación entre éstas y los consejos municipales electorales y las demás que expresamente les ordenen estos últimos.
 
-VII.- Auxiliar, en su caso, en la entrega a los presidentes de las mesas directivas de casilla, de los materiales electorales a que se refiere este Código;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+VII.- Entregar a los presidentes de las mesas directivas de casilla, los materiales electorales a que se refiere este Código;
 
 VIII.- Recibir de los funcionarios de las mesas directivas de casilla los paquetes electorales que contengan la documentación y el expediente relativo a la elección de Gobernador del Estado, diputados y regidores;
 
@@ -1463,9 +2035,11 @@ Las mesas directivas de casilla son los órganos electorales formados por ciudad
 
 Las mesas directivas de casilla tienen a su cargo, durante la jornada electoral, respetar y hacer respetar la libre emisión y efectividad del sufragio, garantizar el secreto del voto y asegurar la autenticidad del escrutinio y cómputo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 125.
 
-Las mesas directivas de casilla se integran con un Presidente, un Secretario, un Escrutador y sus respectivos suplentes, quienes serán designados mediante el método de insaculación.
+las mesas directivas de casilla se integran con un presidente, un secretario, un escrutador y tres suplentes generales, quienes serán designados mediante el método de insaculación.
 
 La Coordinación de Capacitación del Comité Técnico Electoral, tendrá a su cargo la organización de los cursos requeridos para que los ciudadanos designados reciban la capacitación necesaria para el desempeño de sus funciones.
 
@@ -1475,7 +2049,9 @@ Son requisitos para ser integrante de las mesas directivas de casilla:
 
 I.- Estar inscrito en la lista nominal de la sección electoral a que pertenezca la casilla;
 
-II.- Estar inscrito en el Registro Federal de Electores y contar con Credencial vigente para Votar.
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+II.- Contar con credencial para votar.
 
 III.- Estar en ejercicio de sus derechos políticos y civiles;
 
@@ -1507,7 +2083,9 @@ VI.- Las demás que les confiera este Código.
 
 Son atribuciones y obligaciones de los presidentes de las mesas directivas de casilla:
 
-I.- Recibir de los consejos distritales electorales correspondientes la documentación, formas aprobadas, útiles, boletas y elementos necesarios, para el funcionamiento de la casilla, debiendo conservarlos bajo su responsabilidad hasta su instalación;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+I.- Recibir de los consejos distritales o en su caso, de los consejos municipales electorales correspondientes, la documentación, formas aprobadas, útiles, boletas y elementos necesarios, para el funcionamiento de la casilla, debiendo conservarlos bajo su responsabilidad hasta su instalación;
 
 II.- Presidir los trabajos de la Mesa Directiva y vigilar el cumplimiento de las disposiciones de este Código durante la jornada electoral;
 
@@ -1539,7 +2117,7 @@ I.- Llenar las actas que ordena este Código y distribuirlas en los términos de
 
 II.- Contar inmediatamente antes del inicio de la votación y ante los representantes de los partidos políticos presentes, las boletas electorales recibidas y anotar su número en el acta de jornada electoral en el apartado correspondiente a la instalación;
 
-III.- Recibir los escritos de protesta que presenten los representantes de los partidos;
+III.- (DEROGADA, D.O. 30 DE JUNIO DE 2003)
 
 IV.- Inutilizar las boletas sobrantes en la forma que señala este Código;
 
@@ -1599,9 +2177,11 @@ V.- Los delegados de la Administración Pública Federal que se desempeñen en e
 
 VI.- Los secretarios de la Administración Pública Estatal y los Magistrados y Jueces del Poder Judicial del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 135.
 
-Las sesiones de los Consejos del Instituto serán públicas y los concurrentes deberán guardar el debido orden en el lugar donde se celebren. En éstas solo ocuparán lugar en las mesas y podrán deliberar los consejeros y los representantes de los partidos políticos.
+Las sesiones de los Consejos del Instituto serán públicas y los concurrentes deberán guardar el debido orden en el lugar donde se celebren. En éstas solo ocuparán lugar en las mesas y podrán deliberar los consejeros, los representantes de los partidos políticos y el Secretario Técnico.
 
 Los órganos del Instituto expedirán a solicitud de los representantes de los partidos políticos, copias de las actas de las sesiones que celebren.
 
@@ -1653,9 +2233,11 @@ III.- Que para las modificaciones de los distritos se consideren los fenómenos 
 
 Conforme a lo dispuesto por este Código, el Congreso del Estado determinará cuando menos, un año antes de la elección, el número de regidores de mayoría relativa y representación proporcional que integrarán los ayuntamientos del Estado. Considerando los fenómenos demográficos registrados en el Censo General de Población y Vivienda actualizado.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 143.
 
-El proceso electoral se inicia en el mes de Octubre del año previo al de la elección y concluye con la declaración de mayoría y validez de la elección de Gobernador del Estado.
+El proceso electoral se inicia en la segunda semana del mes de octubre del año previo al de la elección y concluye con la declaración de mayoría y validez de la elección de Gobernador del Estado, y en el caso de elecciones intermedias, concluye con la asignación de diputados y regidores según el principio de representación proporcional. En todo caso, la conclusión del proceso electoral será una vez que se hubiera resuelto el último de los medios de impugnación que se hubieren interpuesto o cuando se tenga constancia de que no se presentó ninguno.
 
 El proceso electoral comprende las siguientes etapas:
 
@@ -1667,9 +2249,11 @@ II.- La jornada electoral;
 
 III.- Los resultados y declaraciones de mayoría y validez de las elecciones.
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 144.
 
-La etapa de preparación de la elección se inicia con la sesión de instalación del Consejo Electoral del Estado, celebrada dentro de los primeros quince días del mes de Octubre del año previo al de la elección y concluye al iniciarse la jornada electoral.
+La etapa de preparación de la elección se inicia con la sesión que celebre el Consejo Electoral del Estado, en términos del párrafo segundo del artículo 92 de este Código. Esta etapa concluye al iniciarse la jornada electoral.
 
 ###### Artículo 145.
 
@@ -1703,9 +2287,11 @@ XIII.- La recepción y resolución de los recursos de revisión y apelación; y,
 
 XIV.- Los actos y resoluciones dictados por los órganos electorales relacionados con las actividades y tareas anteriores o con otras que resulten en cumplimiento de sus atribuciones y que se produzcan hasta la víspera de la elección.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 146.
 
-La jornada electoral se inicia a las 7:00 horas del cuarto domingo de mayo con los actos preparatorios y la instalación de la casilla y concluye con la clausura de la casilla.
+La jornada electoral se inicia a las 7:00 horas del tercer domingo de mayo con los actos preparatorios y la instalación de la casilla y concluye con la clausura de la casilla.
 
 Comprende las etapas siguientes:
 
@@ -1735,7 +2321,7 @@ a) La recepción de los paquetes que contengan la documentación y expedientes d
 
 b) Hacer pública la información preliminar de los resultados contenidos en las actas de escrutinio y cómputo de las mesas directivas de casilla;
 
-c) La recepción de los escritos de protesta;
+c) (DEROGADO, D.O. 30 DE JUNIO DE 2003)
 
 d) La realización de los cómputos municipales;
 
@@ -1751,7 +2337,7 @@ a) La recepción de los paquetes que contengan la documentación y expedientes d
 
 b) Hacer pública la información preliminar de los resultados contenidos en las actas de escrutinio y cómputo de las mesas directivas de casilla;
 
-c) La recepción de los escritos de protesta;
+c) (DEROGADO, D.O. 30 DE JUNIO DE 2003)
 
 d) La realización de los cómputos distritales de las elecciones de Gobernador y de diputados de mayoría relativa;
 
@@ -1801,9 +2387,11 @@ La sección electoral es la fracción territorial de los distritos electorales u
 
 En la primera quincena del mes de diciembre del año previo al de la elección, El Comité Técnico Electoral recabará de la Junta Local Ejecutiva del Instituto Federal Electoral la cartografía electoral clasificada por distritos electorales estatales, municipios y secciones; así como el Padrón Electoral de los ciudadanos inscritos hasta el mes de octubre inmediato anterior, clasificado también por distritos electorales estatales, municipios y secciones, para el efecto de que se tomen las previsiones pertinentes sobre el número probable de casillas a instalar.
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 151.
 
-En el período comprendido entre el día primero de noviembre del año previo al de la elección y el día 15 de enero del año de la elección, el Comité Técnico Electoral coadyuvará en la campaña intensa de actualización del catálogo general de electores y del Padrón Electoral que realice el Instituto Federal Electoral.
+El Comité Técnico Electoral coadyuvará en la campaña intensa de actualización del catálogo general de electores y del Padrón Electoral que realice el Instituto Federal Electoral.
 
 ###### Artículo 152.
 
@@ -1843,23 +2431,35 @@ Los partidos políticos recibirán las listas nominales definitivas a más tarda
 
 ### CAPITULO SEGUNDO. DEL PROCEDIMIENTO DE REGISTRO DE CANDIDATOS
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 159.
 
-Corresponde exclusivamente a los partidos políticos el derecho de solicitar ante los órganos electorales correspondientes, el registro de candidatos a cargos de elección popular, conforme a lo siguiente:
+Las disposiciones del presente capítulo regulan el procedimiento de registro de candidatos a cargos de elección popular.
 
-I.- Las candidaturas a diputados a elegir por el principio de mayoría relativa, se registrarán por fórmulas compuestas cada una por un propietario y un suplente;
+I.- El registro de candidatos a cargos de elección popular, se realizará conforme a lo siguiente:
 
-II.- Las candidaturas a diputados a elegirse por el principio de representación proporcional, se registrarán por medio de listas de diez propietarios;
+a) Las candidaturas a diputados a elegirse por el principio de mayoría relativa, se registrarán por fórmulas compuestas cada una por un candidato propietario y un candidato suplente;
 
-III.- Las candidaturas a regidores de ayuntamientos, se registrarán por planillas integradas por candidatos de mayoría y de representación proporcional, propietarios y suplentes; y,
+b) Las candidaturas a diputados a elegirse por el principio de representación proporcional, se registrarán por medio de listas de diez candidatos propietarios;
 
-IV.- Ninguna persona podrá ser registrada como candidato a distintos cargos de elección popular o postulado simultáneamente como candidato de mayoría y de representación proporcional, en el mismo proceso electoral.
+c) Las candidaturas a regidores de ayuntamientos, se registrarán por planillas integradas por candidatos de mayoría relativa y de representación proporcional, propietarios y suplentes; y,
+
+d) Ninguna persona podrá ser registrada como candidato a distintos cargos de elección popular o postulado simultáneamente como candidato de mayoría y representación proporcional, en el mismo proceso electoral.
+
+II.- Con el objeto de que la integración de la representación popular en el Poder Legislativo del Estado se dé en condiciones de equidad de género y para garantizar la igualdad de oportunidades de mujeres y hombres de ser postulados como candidatos a diputados de los partidos políticos, las solicitudes de registro de candidatos a diputados que presenten los partidos políticos se ajustarán a lo siguiente:
+
+a) De la totalidad de solicitudes de registro de candidaturas a diputados que presenten los partidos políticos o las coaliciones, en ningún caso incluirán más del 70% de candidatos propietarios de un mismo género; y,
+
+b) En las listas de candidatos a diputados por el principio de representación proporcional dentro de las tres primeras candidaturas habrá una candidatura de género distinto.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 160.
 
-Para el registro de candidaturas a todo cargo de elección popular, el partido político postulante deberá presentar y obtener el registro de la plataforma electoral que sus candidatos sostendrán en las campañas políticas.
+Para tener derecho a registrar candidatos a todo cargo de elección popular, el partido político postulante deberá presentar y obtener el registro de la plataforma electoral que sus candidatos sostendrán en las campañas políticas.
 
-La plataforma electoral deberá presentarse para su registro ante el Consejo Electoral del Estado durante los diez últimos días del mes de enero del año de la elección. Cuando así lo solicite el partido interesado se le expedirá la constancia del registro respectivo.
+La plataforma electoral deberá presentarse para su registro ante el Consejo Electoral del Estado dentro de los diez últimos días del mes de enero del año de la elección. Cuando así lo solicite el partido interesado se le expedirá la constancia del registro respectivo.
 
 ###### Artículo 161.
 
@@ -1875,39 +2475,51 @@ IV.- Para candidatos a regidores de mayoría y de representación proporcional, 
 
 El Consejo Electoral del Estado dará difusión a la apertura del registro de las candidaturas y a los plazos a los que se refiere el presente capítulo.
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 162.
 
-La solicitud del registro de candidaturas deberá señalar el partido político o coalición que las postulen y los siguientes datos de los candidatos:
+La solicitud de registro de candidaturas se ajustarán a las siguientes disposiciones:
 
-I.- Apellido paterno, apellido materno y nombre completo;
+I.- Deberá señalar los siguientes datos de cada candidato:
 
-II.- Lugar y fecha de nacimiento;
+a) Apellido paterno, apellido materno y nombre completo;
 
-III.- Domicilio y tiempo de residencia en el mismo;
+b) Cargo para el que se postule, especificando en cada caso, si se trata de candidato propietario o suplente; y
 
-IV.- Ocupación;
+c) Partido político o coalición que lo postulen.
 
-> <small>(F. DE E., D.O. 13 DE ENERO DE 1995)</small>
+II.- La solicitud de registro deberá acompañarse con la siguiente documentación de cada candidato:
 
-V.- Clave de la Credencial vigente para Votar;
+a) Carta de declaración de aceptación de la candidatura suscrita por el candidato;
 
-VI.- Cargo para el que se les postula.
+b) Copia simple del acta de nacimiento;
 
-La solicitud deberá acompañarse de la declaración de aceptación de la candidatura, copia del acta de nacimiento y de la Credencial para Votar con fotografía, el certificado de no tener antecedentes penales por delitos dolosos o intencionales y acreditar la residencia respectiva.
+c) Copia simple de la Credencial para Votar;
 
-De igual manera, el partido político postulante deberá manifestar y acreditar por escrito que los candidatos cuyo registro solicita, fueron seleccionados de conformidad con las normas estatutarias del propio partido.
+d) El documento público o privado con el que acrediten la residencia respectiva.
 
-La solicitud del registro de la lista de candidatos a diputados por el principio de representación proporcional, deberá acompañarse, además de los documentos anteriores, de la constancia de registro de la totalidad de los candidatos para diputados por el principio de mayoría relativa.
+Para la acreditación de la residencia, además de los documentos públicos idóneos para ese fin, los candidatos podrán acreditar su residencia, mediante documento privado, suscrito por dos ciudadanos que pertenezcan a la misma sección electoral a la que corresponda la Credencial para Votar del candidato, quienes bajo protesta de decir verdad, manifiesten que dicho candidato, tiene la residencia que para cada caso exige la Constitución Política del Estado de Yucatán. Este documento sólo será válido, cuando se acompañe a él, con las copias simples de las Credenciales para Votar de los ciudadanos que lo suscriben y cuando el candidato de que se trate, tenga Credencial para Votar que corresponda a una sección electoral que pertenezca al Estado de Yucatán.
+
+Los partidos políticos al solicitar el registro de sus candidatos, deberán manifestar por escrito que los candidatos cuyo registro solicita, fueron seleccionados de conformidad con sus respectivas normas estatutarias.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 163.
 
-Recibida la solicitud del registro de candidaturas en la secretaría técnica del órgano que corresponda, se verificará dentro de los dos días siguientes que se cumplió con todos los requisitos señalados en el artículo anterior.
+Una vez recibida la solicitud del registro de candidaturas en la secretaría técnica del órgano electoral que corresponda, se procederá de la manera siguiente:
 
-Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará, en un plazo de veinticuatro horas, al partido político correspondiente, para que dentro de las cuarenta y ocho horas siguientes subsane el o los requisitos omitidos o sustituya la candidatura.
+I.- Se verificará dentro de los dos días siguientes que se cumplió con todos los requisitos señalados en el artículo anterior;
 
-Dentro de los cinco días siguientes al vencimiento de los plazos referidos, el Consejo Electoral del Estado y los consejos distritales y municipales celebrarán una sesión cuyo único objetivo será registrar las candidaturas que procedan.
+II.- Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará, en un plazo de veinticuatro horas, al partido político correspondiente, para que dentro de las cuarenta y ocho horas siguientes a la de la notificación, subsane el o los requisitos omitidos o sustituya la candidatura;
 
-Los consejos distritales y municipales comunicarán al Consejo Electoral del Estado el acuerdo relativo al registro de candidaturas que hayan realizado durante la sesión a que se refiere el párrafo anterior.
+III.- Dentro de los cinco días siguientes al vencimiento de los plazos referidos, el Consejo Electoral del Estado, los consejos distritales y los consejos municipales celebrarán una sesión cuyo único objetivo será registrar las candidaturas que procedan;
+
+IV.- Los consejos distritales y municipales comunicarán al Consejo Electoral del Estado el acuerdo relativo al registro de candidaturas que hubieren realizado;
+
+El plazo previsto en la fracción III del presente artículo, no será aplicable para efecto del registro de las listas de candidatos a diputados por el principio de representación proporcional, en cuyo caso, específicamente para ese objeto, el Consejo Electoral del Estado celebrará una sesión entre el 28 y el 31 de marzo.
+
+En la sesión que celebre en términos de lo establecido en el párrafo anterior, el Consejo Electoral del Estado emitirá una Declaratoria en la que señale el número de registros de candidatos a diputados por el principio de mayoría relativa otorgados a cada partido político. Dicha Declaratoria, en su caso, surtirá efecto de acreditación de lo establecido en el inciso A del párrafo tercero del artículo 21 de la Constitución del Estado.
 
 ###### Artículo 164.
 
@@ -2027,9 +2639,31 @@ Durante los quince días previos a la elección y hasta la hora del cierre ofici
 
 Quien solicite, ordene o publique cualquier encuesta o sondeo de opinión sobre cuestiones electorales, que se realice desde el inicio de las campañas hasta el cierre oficial de las casillas el día de la elección, deberá entregar copia del estudio completo al Presidente del Consejo Electoral del Estado.
 
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Con el objeto de propiciar condiciones de equidad en las campañas electorales, durante los treinta días previos al de las elecciones locales, el Gobernador del Estado, los Presidentes Municipales, así como las autoridades y funcionarios, titulares de las dependencias y entidades de la Administración Pública Estatal y de los Ayuntamientos, respectivamente, deberán suspender las campañas publicitarias de todos aquellos programas y acciones gubernamentales cuya difusión no sea necesaria, o de pública utilidad para su eficaz instrumentación o para el logro de sus objetivos.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Lo anterior, no deberá entenderse aplicable a los programas de asistencia social o ayuda a la comunidad derivados de emergencias sociales o programas de seguridad civil por la eventualidad o presencia de condiciones de riesgo a la población.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Igualmente, dichas autoridades y funcionarios deberán retirar toda propaganda relacionada con campañas de imagen y de difusión de programas y acciones gubernamentales, treinta días antes de las elecciones, con las excepciones señaladas en el párrafo anterior.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Durante las campañas electorales los candidatos se abstendrán de asistir o participar en eventos organizados o realizados por autoridades federales, estatales, municipales o por organismos gubernamentales, en los cuales se ofrezcan o entreguen obras y/o servicios públicos.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+La inobservancia a lo dispuesto en el párrafo anterior, podrá motivar la cancelación del registro del candidato.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 175.
 
-La inobservancia a las disposiciones contenidas en el presente capítulo será sancionada en los términos de este Código y el de Defensa Social del Estado.
+La inobservancia a las disposiciones contenidas en el presente capítulo será sancionada en los términos de este Código y en los del Código Penal del Estado de Yucatán.
 
 ### CAPITULO CUARTO. DE LOS PROCEDIMIENTOS PARA LA UBICACION E
 
@@ -2091,9 +2725,11 @@ La segunda semana de abril del año de la elección, el Comité Técnico Elector
 
 El Consejo Electoral del Estado aprobará en definitiva la lista de los ciudadanos que integrarán las mesas directivas de las casillas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 180.
 
-Aprobada la lista de la ubicación de casillas y realizada la integración de las mesas directivas de las mismas, el Consejo Electoral del Estado las publicará el primer domingo del mes de mayo del año de la elección, numerándolas progresivamente agrupadas en los distritos electorales correspondientes y con los nombres de los funcionarios que las integren.
+Aprobada la lista de la ubicación de casillas y realizada la integración de las mesas directivas de las mismas, el Consejo Electoral del Estado las publicará el cuarto domingo del mes de abril del año de la elección, numerándolas progresivamente agrupadas en los distritos electorales correspondientes y con los nombres de los funcionarios que las integren.
 
 La publicación se hará en todos los periódicos de circulación diaria en el Estado.
 
@@ -2113,47 +2749,69 @@ Cuando vencido el término de tres días después de la publicación ocurran cau
 
 Estos cambios serán comunicados de inmediato al Consejo Electoral del Estado.
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 184.
 
-El tercer domingo del mes de mayo del año de la elección, el Consejo Electoral del Estado publicará la relación definitiva de los lugares señalados para la instalación de las casillas y los nombres de los funcionarios propietarios y suplentes que las integran, cuidando de mantener la modalidad establecida en este capítulo.
+El segundo domingo del mes de mayo del año de la elección, el Consejo Electoral del Estado publicará la relación definitiva de los lugares señalados para la instalación de las casillas y los nombres de los funcionarios propietarios y suplentes que las integran, cuidando de mantener la modalidad establecida en este capítulo.
 
 ### CAPITULO QUINTO. DEL REGISTRO DE REPRESENTANTES DE PARTIDO
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 185.
 
-Los partidos políticos, una vez que hubieran registrado a sus candidatos, fórmulas y planillas, tendrán derecho a nombrar representantes ante las mesas directivas de casilla y representantes generales.
+Los partidos políticos tendrán derecho a nombrar representantes ante las mesas directivas de casilla y representantes generales.
 
 Por cada casilla, los partidos podrán nombrar hasta dos representantes propietarios y hasta dos suplentes, los suplentes únicamente podrán estar en las casillas cuando no estén presentes los propietarios.
 
-En cada uno de los distritos electorales uninominales, los partidos podrán nombrar un representante general propietario por cada diez casillas urbanas y uno por cada cinco rurales con sus respectivos suplentes.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+En cada uno de los distritos electorales uninominales, los partidos políticos podrán nombrar un representante general propietario por cada diez casillas ubicadas en zonas urbanas y uno por cada cinco casillas ubicadas en zonas rurales con sus respectivos suplentes.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Los representantes de los partidos políticos ante las mesas directivas de casilla y generales, podrán firmar sus nombramientos hasta antes de acreditarse en la casilla; asimismo y para efectos de identificación, podrán portar en lugar visible durante todo el día de la jornada electoral un distintivo de hasta 2.5 por 2.5 centímetros, con el emblema del partido político al que representen, el que podrá contener además la leyenda "representante", siempre y cuando se respete la medida antes establecida. En ningún caso el distintivo podrá contener elementos de inducción al voto o alusivos a candidato alguno.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 186.
 
-El registro de los nombramientos de los representantes ante las mesas directivas de casilla y de los representantes generales, se sujetará a las reglas siguientes:
+El registro de los nombramientos de los representantes ante las mesas directivas de casilla y de los representantes generales, se sujetará a las disposiciones siguientes:
 
-I.- Los representantes ante las mesas directivas de casillas serán acreditados en los Consejos Municipales Electorales.
+I.- Los representantes ante las mesas directivas de casillas serán registrados por los Consejos Municipales Electorales;
 
-II.- Los representantes generales serán acreditados en los Consejos Distritales Electorales.
+II.- Los representantes generales serán registrados por los Consejos Distritales Electorales;
 
-III.- A partir del día siguiente al de la primera publicación de las listas de casilla y hasta trece días antes del día de la elección, los partidos políticos deberán registrar a sus representantes de casilla y generales, mediante la documentación y los requisitos establecidos por el Consejo Electoral del Estado;
+III.- A partir del día siguiente al de la primera publicación de las listas de casilla y hasta trece días antes del día de la elección, los partidos políticos podrán solicitar el registro de sus nombramientos de representantes de casilla y generales; y
 
-IV.- Los partidos políticos podrán sustituir a sus representantes hasta con ocho días de anterioridad a la fecha de la elección.
+IV.- Los partidos políticos podrán sustituir a sus representantes hasta con cinco días de anterioridad a la fecha de la elección, devolviendo al recibir el nuevo nombramiento, el original del anterior.
+
+En cualquier caso, el registro de representantes ante las mesas directivas de casillas y generales podrá ser realizado por el Consejo Electoral del Estado.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 187.
 
-El registro a que se refiere el artículo anterior se sujetará a las reglas siguientes:
+La solicitud de registro a que se refiere la fracción III del artículo anterior se sujetará a las reglas siguientes:
 
-I.- Se hará mediante escrito firmado del dirigente de el partido político que haga el nombramiento;
+I.- Se hará mediante escrito firmado por el dirigente o representante del partido político que haga el nombramiento;
 
-II.- El oficio deberá acompañarse con una relación de los nombres de los representantes propietarios y suplentes, en orden numérico de casillas, señalando la clave de la Credencial para Votar de cada uno de ellos;
+II.- El escrito de solicitud deberá acompañarse con una relación de los nombres de los representantes propietarios y suplentes, en orden numérico de casillas y con los nombramientos cuyo registro se solicita;
 
-III.- Las solicitudes de registro que carezcan de algún dato de los representantes ante las mesas directivas de casilla o generales, se devolverán al partido político solicitante para que dentro de los tres días siguientes subsane la omisión; y,
+III.- Recibida la solicitud de registro de nombramientos de representantes de casilla y generales de los partidos políticos, el órgano electoral correspondiente procederá a verificar dentro de los dos días siguientes, que los nombramientos cuyo registro se solicita, cumplen con todos los requisitos. Si de dicha verificación se advierte que en los nombramientos se omitió el cumplimiento de uno o varios requisitos o contienen errores, se notificará en un plazo de veinticuatro horas al partido político correspondiente para que dentro del término de tres días contados a partir del día siguiente al de la notificación, subsane el o los requisitos omitidos o en su caso, realice las correcciones pertinentes.
 
-IV.- De no corregirse las omisiones, no se registrará el nombramiento, vencido el término a que se refiere la fracción anterior.
+Vencido el término a que se refiere el párrafo anterior sin que se subsanen las omisiones o en su caso, se corrijan los errores, no se registrará el nombramiento; y
+
+IV.- Atendiendo a los plazos establecidos en la fracción anterior, el órgano electoral correspondiente realizará el registro de los nombramientos en los casos procedentes y dentro de los dos días siguientes, devolverá a los partidos políticos el original de los nombramientos respectivos, debidamente sellados y firmados por el Presidente y Secretario Técnico del órgano electoral que realizó el registro.
+
+Los Secretarios Técnicos, en todo caso, conservarán un ejemplar en copia simple de cada nombramiento registrado. Para tal efecto, antes de la devolución en original de los nombramientos registrados a la que alude el párrafo anterior, los Secretarios técnicos tomarán las medidas pertinentes para la reproducción en copia simple de cada nombramiento registrado.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 188.
 
-Los nombramientos de los representantes ante las mesas directivas de casilla deberán contener los siguientes datos:
+Los nombramientos de los representantes de los partidos políticos ante las mesas directivas de casilla y representantes generales deberán contener los siguientes datos:
 
 I.- Denominación del partido político;
 
@@ -2161,31 +2819,41 @@ II.- Nombre del representante;
 
 III.- Indicación de su carácter de propietario o suplente;
 
-IV.- Distrito electoral, municipio, número de sección y tipo de casilla en que actuarán;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-V.- Domicilio y teléfono del representante;
+IV.- Distrito electoral, municipio, número y tipo de casilla en que actuarán, con excepción de los nombramientos de representantes generales que no contendrán el número y tipo de casilla;
 
-> <small>(F. DE E., D.O. 13 DE ENERO DE 1995)</small>
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-VI.- Clave de la Credencial vigente para Votar;
+V.- Domicilio del representante;
+
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+VI.- Clave de la Credencial para Votar;
 
 VII.- Firma del representante;
 
 VIII.- Lugar y fecha de expedición; y,
 
-IX.- Firma del dirigente del partido político que haga el nombramiento.
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-Para garantizar a los representantes ante la mesa directiva de casilla el ejercicio de los derechos que les otorga este Código, se imprimirá al reverso del nombramiento el texto de los artículos que correspondan.
+IX.- Firma del representante o del dirigente del partido político que haga el nombramiento.
 
-Para garantizar a los representantes de partido político su debida acreditación ante la mesa directiva de casilla, el Presidente del Consejo Municipal entregará al Presidente de cada mesa, una relación de los representantes que tengan derecho de actuar en la casilla de que se trate.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Para garantizar a los representantes ante las mesas directivas de casilla y a los representantes generales el ejercicio de los derechos que les otorga este Código, se imprimirá al reverso del nombramiento el texto de los artículos que correspondan.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Para garantizar a los representantes de los partidos políticos su debida acreditación ante las mesas directivas de casillas, el Presidente del Consejo Municipal entregará al Presidente de cada mesa, una relación de los representantes que tengan derecho de actuar en la casilla de que se trate.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 189.
 
-Los nombramientos de los representantes generales deberán contener los mismos datos que los nombramientos de los representantes ante las mesas directivas de casilla, con excepción del número de casilla.
+El diseño y formato de los nombramientos de representantes de los partidos políticos ante las mesas directivas de casilla y generales, serán aprobados por el Consejo Electoral del Estado.
 
-De estos nombramientos se formará una lista que deberá entregarse a los presidentes de las mesas directivas de casilla.
-
-Para garantizar a los representantes generales el ejercicio de los derechos que les otorga este Código, se imprimirá al reverso del nombramiento el texto de los artículos que correspondan.
+El Instituto Electoral del Estado, a través del Comité Técnico Electoral, podrá diseñar los instrumentos técnicos necesarios para el procesamiento de datos y demás elementos que se relacionen con la elaboración de los nombramientos de los representantes de los partidos políticos ante las mesas directivas de casilla y generales. En su caso, dichos instrumentos serán proporcionados indistintamente a los partidos políticos que los soliciten.
 
 ###### Artículo 190.
 
@@ -2195,11 +2863,13 @@ I.- Participar en la instalación de la casilla y contribuir al buen desarrollo 
 
 II.- Recibir copia legible de las actas de la jornada electoral y de escrutinio y cómputo elaboradas en la casilla;
 
-III.- Presentar escritos relacionados con incidentes ocurridos durante la votación;
+III.- (DEROGADA, D.O. 30 DE JUNIO DE 2003)
 
-IV.- Presentar al término del escrutinio y cómputo escritos de protesta;
+IV.- (DEROGADA, D.O. 30 DE JUNIO DE 2003)
 
-V.- Acompañar al funcionario de la mesa directiva de casilla designado para hacer entrega de la documentación y el expediente electoral al Consejo Municipal; y,
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+V.- Acompañar al Presidente de la mesa directiva de casilla para hacer entrega de la documentación y el expediente electoral al Consejo Municipal; y,
 
 VI.- Los demás que establezca este Código.
 
@@ -2219,11 +2889,13 @@ IV.- En ningún caso ejercerán o asumirán las funciones de los integrantes de 
 
 V.- No obstaculizarán el desarrollo normal de la votación en las casillas en las que se presenten;
 
-VI.- En todo tiempo podrán presentar escritos de incidentes que se susciten durante el desarrollo de la jornada electoral, pero solo podrán presentar escritos de protesta al término del escrutinio y cómputo cuando el representante de su partido político ante la mesa directiva de casilla no estuviere presente;
+VI.- (DEROGADA, D.O. 30 DE JUNIO DE 2003)
 
 VII.- Sólo podrán solicitar y obtener de las mesas directivas de casilla del distrito para el que fueron nombrados, copias de las actas que se levanten, cuando no hubiere estado presente el representante de su partido político acreditado ante la mesa directiva de casilla; y,
 
-VIII.- Podrán comprobar la presencia de los representantes de su partido político en las mesas y recibir de ellos los informes relativos a su desempeño.
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+VIII.- Podrán comprobar la presencia de los representantes de su partido político en las mesas directivas de casilla y recibir de ellos los informes relativos a su desempeño.
 
 ### CAPITULO SEXTO. DE LA DOCUMENTACION Y DEL MATERIAL ELECTORAL
 
@@ -2239,13 +2911,21 @@ II.- Cargo para el que se postula al candidato o candidatos;
 
 III.- Color o combinación de colores y emblema del partido político o coalición;
 
-IV.- Nombre completo y apellidos del candidato o candidatos;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-V.- En el caso de la elección de diputados de mayoría relativa y representación proporcional, un solo círculo por cada partido político para comprender la fórmula de candidatos y la lista;
+IV.- Nombre completo y apellidos del candidato o candidatos del partido político o coalición;
 
-VI.- En el caso de la elección de regidores de mayoría relativa y de representación proporcional, un solo círculo por cada partido político para comprender la planilla de candidatos;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-VII.- En el caso de la elección de Gobernador del Estado, un solo círculo para cada candidato;
+V.- En el caso de la elección de diputados por los principios de mayoría relativa y representación proporcional, un solo espacio por cada partido político para comprender la fórmula de candidatos y la lista;
+
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+VI.- En el caso de la elección de regidores por los principios de mayoría relativa y de representación proporcional, un solo espacio por cada partido político para comprender la planilla de candidatos;
+
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+VII.- En el caso de la elección de Gobernador del Estado, un solo espacio para cada candidato;
 
 VIII.- Las firmas impresas del Presidente y del Secretario del Consejo Electoral del Estado; y,
 
@@ -2253,15 +2933,31 @@ IX.- Espacio para candidatos, fórmulas o planillas no registradas.
 
 Las boletas para la elección de diputados llevarán impresas las listas de los candidatos que postulen los partidos políticos.
 
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Las boletas estarán adheridas a un talón con folio, del cual serán desprendibles. La información que contendrá este talón será la relativa al distrito electoral o municipio, según el caso, y elección que corresponda. El número de folio será progresivo.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Los colores y emblema de los partidos políticos aparecerán en la boleta en el orden que les corresponde de acuerdo a la antigüedad de su registro.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+En caso de existir coaliciones, el emblema de la coalición o los emblemas de los partidos coaligados y los nombres de los candidatos aparecerán con el mismo tamaño y en un espacio de las mismas dimensiones que aquellos que se destinen en la boleta a los partidos que participan por sí mismos, redistribuyéndose los espacios sobrantes. En todo caso, el emblema de la coalición o los emblemas de los partidos políticos coaligados sólo aparecerán en el lugar de la boleta que señale el convenio de coalición, siempre y cuando corresponda al de cualquiera de los partidos coaligados.
+
 ###### Artículo 193.
 
 En caso de cancelación del registro o sustitución de uno o más candidatos, las boletas que ya estuvieran impresas serán corregidas en la parte relativa o sustituidas por otras, conforme lo acuerde el Consejo Electoral del Estado. Si no fuere posible su corrección o sustitución, o las boletas ya hubiesen sido repartidas a las casillas, los votos contarán para los partidos políticos y los candidatos que estuviesen legalmente registrados ante los consejos correspondientes, al momento de la elección.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 194.
 
-Una vez aprobado el modelo de boleta, el Consejo Electoral del Estado ordenará al Comité Técnico Electoral disponer lo conducente para la impresión de las boletas para la elección, así como la demás documentación autorizada.
+Una vez aprobado el modelo de boleta, el Consejo Electoral del Estado ordenará al Comité Técnico Electoral disponer lo conducente para la impresión de las boletas para la elección, los cuales deberán contener elementos de seguridad inviolables con la finalidad de evitar falsificaciones.
 
-Las boletas deberán obrar en poder del Consejo Electoral del Estado a más tardar veinte días antes del día de la elección.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Las boletas deberán obrar en poder del Consejo Electoral del Estado a más tardar trece días antes del día de la elección.
 
 Para su control se tomarán las medidas siguientes:
 
@@ -2271,13 +2967,15 @@ II.- El Secretario del Consejo levantará acta pormenorizada de la entrega y rec
 
 III.- Los miembros presentes del Consejo acompañarán al Presidente para depositar la documentación recibida, en el lugar previamente asignado dentro de su local, debiendo asegurarlas mediante fajillas selladas y firmadas por los concurrentes. Estos pormenores se asentarán en el acta respectiva;
 
-IV.- Al día siguiente, personal autorizado por el Consejo Electoral del Estado procederá a sellarlas al reverso y agruparlas en razón del número de electores que corresponda a cada una de las casillas a instalar; y
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+IV.- Al día siguiente, personal autorizado por el Consejo Electoral del Estado procederá a agruparlas en razón del número de electores que corresponda a cada una de las casillas a instalar; y
 
 V.- Estas operaciones se realizarán con la presencia de los representantes de los partidos políticos que decidan asistir.
 
-Los representantes de los partidos bajo su más estricta responsabilidad, si así lo desearen, podrán firmar las boletas, levantándose un acta en la que conste el número de boletas que se les dio a firmar, el número de las firmadas y, en su caso, el número de boletas faltantes después de haber realizado el procedimiento de firma.
+> <small>(DEROGADO PENULTIMO PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
 
-La falta de firmas de los representantes en las boletas no impedirá su oportuna distribución.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 195.
 
@@ -2321,7 +3019,9 @@ El Presidente y el Secretario de cada casilla cuidarán las condiciones material
 
 Durante el día de la elección se levantará el acta de la jornada electoral, que contendrá los datos comunes a todas las elecciones y las actas relativas al escrutinio y cómputo de cada una de las elecciones.
 
-El cuarto domingo de mayo del año de la elección, a las 7:00 horas, los ciudadanos Presidente, Secretario y Escrutador de las mesas directivas de casilla nombrados como propietarios, procederán a la instalación de la casilla en presencia de los representantes de partidos políticos que concurran.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+El tercer domingo de mayo del año de la elección, a las 7:00 horas, los ciudadanos Presidente, Secretario y Escrutador de las mesas directivas de casilla nombrados como propietarios, procederán a la instalación de la casilla en presencia de los representantes de partidos políticos que concurran.
 
 Seguidamente se iniciará el levantamiento del acta de la jornada electoral, llenándose y firmándose el apartado correspondiente a la instalación de la casilla.
 
@@ -2353,17 +3053,25 @@ Los miembros de la mesa directiva de la casilla no podrán retirarse sino hasta 
 
 De no instalarse la casilla conforme al artículo anterior, se procederá a lo siguiente:
 
-I.- Si a las 7:15 horas no se hubiera presentado alguno o algunos de los funcionarios propietarios, actuarán en su lugar los respectivos suplentes;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-II.- Si a las 7:30 no se hubiera integrado la mesa directiva conforme a la fracción anterior, pero estuviere el Presidente este designará de entre los funcionarios propietarios y suplentes presentes, a quienes ocuparán los cargos respectivos.
+I.- Si a las 7:15 horas no se hubiera presentado alguno o algunos de los funcionarios propietarios, se suplirán los cargos de la siguiente forma:
 
-III.- Si a las 8:00 horas no se hubiere integrado la mesa directiva de la casilla conforme a la fracción anterior, el Presidente procederá a designar de entre los primeros votantes a quienes ocuparán dichos cargos;
+a) Si estuviere el Presidente, este designará a los funcionarios necesarios para su integración, recorriendo en primer término y en su caso, el orden para ocupar los cargos de los funcionarios ausentes con los propietarios presentes y habilitando a los suplentes presentes para los faltantes, y en ausencia de los funcionarios designados, de entre los electores que se encuentren en la casilla;
 
-IV.- En ausencia del Presidente y de su suplente a las 7:30 horas, los funcionarios presentes podrán elegir de entre ellos a quien fungirá como tal, debiendo notificar inmediatamente al Consejo Municipal
+b) Si no estuviere el Presidente, pero estuviere el Secretario, este asumirá las funciones del Presidente de la casilla y procederá a integrarla en los términos señalados en el inciso anterior;
 
-V.- Si a las 8:00 horas no estuvieren presentes ningún funcionario, el Consejo Municipal, tomará las medidas necesarias.
+c) Si no estuviere el Presidente ni el Secretario, pero estuviere el escrutador, este asumirá las funciones de Presidente y procederá a integrar la casilla de conformidad con lo señalado en el inciso a), y
 
-Los nombramientos que se hagan conforme a este artículo, en ningún caso podrán recaer en los representantes de los partidos políticos.
+d) Si solo estuvieran los suplentes, uno de ellos asumirá las funciones del Presidente, los otros las de Secretario y escrutador, procediendo el primero a instalar la casilla nombrando a los funcionarios necesarios de entre los electores presentes.
+
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+II.- Si a las 8:00 horas no se hubiere integrado la mesa directiva de la casilla conforme a la fracción anterior, el Presidente procederá a designar de entre los primeros votantes a quienes ocuparán dichos cargos;
+
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+III.- Si a las 8:00 horas no estuvieren presentes ningún funcionario propietario o suplente, el Consejo Municipal, tomará las medidas necesarias. Los nombramientos que se hagan conforme a este artículo, en ningún caso podrán recaer en los representantes de los partidos políticos.
 
 ###### Artículo 200.
 
@@ -2379,9 +3087,13 @@ I.- No exista el local indicado en las publicaciones respectivas;
 
 II.- El local se encuentre cerrado o clausurado y no se pueda realizar la instalación;
 
-III.- Se advierta, al momento de la instalación de la casilla, que ésta se pretende realizar en lugar que no reúna los requisitos o esté prohibido por la Ley; y,
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-IV.- Cuando el Consejo Municipal así lo disponga por causa de fuerza mayor o caso fortuito.
+III.- Se advierta, al momento de la instalación de la casilla, que ésta se pretende realizar en lugar prohibido por este Código o que no reúna los requisitos establecidos en el artículo 177 de dicho ordenamiento. En este caso, será necesario que los funcionarios y representantes presentes tomen la determinación de común acuerdo; y
+
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+IV.- Cuando el Consejo Municipal que corresponda así lo disponga por causa de fuerza mayor o caso fortuito y se lo notifique al Presidente de la casilla.
 
 ###### Artículo 202.
 
@@ -2389,21 +3101,25 @@ Para los casos señalados en el artículo anterior la casilla deberá quedar ins
 
 ### CAPITULO SEGUNDO. DE LA VOTACION
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 203.
 
-Una vez llenada y firmada el acta de la jornada electoral en el apartado correspondiente a la instalación, el Presidente de la mesa anunciará el inicio de la votación.
+Una vez llenada y firmada el acta de la jornada electoral en el apartado correspondiente a la instalación, el Presidente de la mesa anunciará el inicio de la votación. En términos de lo dispuesto en el artículo 146 fracción III de este Código, la recepción del sufragio de los ciudadanos, no podrá iniciar antes de las 8:00 horas del día de la jornada electoral.
 
-Iniciada la votación no podrá suspenderse sino por causa de fuerza mayor. En este caso se dará aviso de inmediato al Consejo Municipal.
+Iniciada la votación no podrá suspenderse sino por causa de fuerza mayor. En este caso, corresponde al Presidente dar aviso de inmediato al Consejo Municipal correspondiente a través de un escrito en que se de cuenta de la causa de suspensión de la votación, la hora en que ocurrió y la indicación del número de votantes que al momento habían ejercido su derecho de voto. El escrito de referencia deberá ser firmado por dos testigos, que lo serán preferentemente, los integrantes de la mesa directiva o los representantes de los partidos políticos.
 
-Recibida la comunicación que antecede, el Consejo Distrital o Municipal decidirá si se reanuda la votación, para lo cual tomará las medidas que estime necesarias.
+Recibida la comunicación que antecede, el Consejo Municipal decidirá si se reanuda la votación, para lo cual tomará las medidas que estime necesarias.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 204.
 
-Los electores votarán en el orden en que se presenten ante la mesa directiva de casilla, debiendo exhibir su Credencial para Votar vigente.
+Los electores votarán en el orden en que se presenten ante la mesa directiva de casilla, debiendo exhibir su Credencial para Votar.
 
-> <small>(F. DE E., D.O. 13 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
-Los Presidentes de casilla permitirán emitir su voto a aquellos ciudadanos que estando en la lista nominal de electores correspondientes a su domicilio, su Credencial vigente para Votar contenga errores de seccionamiento.
+Los Presidentes de casilla permitirán emitir su voto a aquellos ciudadanos que estando en la lista nominal de electores correspondiente a su domicilio, su Credencial para Votar contenga errores de seccionamiento.
 
 En el caso referido en el párrafo anterior, los presidentes de casilla, además de identificar a los electores en los términos de este Código, se cerciorarán de su residencia en la sección correspondiente por el medio que estimen más efectivo.
 
@@ -2411,9 +3127,13 @@ En el caso referido en el párrafo anterior, los presidentes de casilla, además
 
 La votación se efectuará en la forma siguiente:
 
-I.- Una vez comprobado que el elector aparece en las listas nominales, el Presidente le entregará las boletas de las elecciones;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-II.- El elector, libremente y en secreto, marcará sus boletas en el círculo o cuadro correspondiente al partido político por el que vota, o anotará el nombre del candidato no registrado por el que desea emitir su voto;
+I.- El elector entregará al Secretario de la mesa directiva de casilla su Credencial para Votar y una vez comprobado que el elector aparece en las listas nominales correspondientes y que el elector hubiere mostrado la yema de su dedo pulgar derecho para comprobar que no ha ejercido su derecho a votar, el Presidente le entregará, las boletas de las elecciones;
+
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+II.- El elector, libremente y en secreto, marcará sus boletas en el espacio correspondiente al partido político o coalición por la que vota.
 
 III.- Aquellos electores que no sepan leer o que se encuentren impedidos físicamente para marcar sus boletas, podrán ser asistidos por una persona de su confianza que les acompañe;
 
@@ -2421,39 +3141,93 @@ IV.- Acto seguido, el elector doblará sus boletas y las depositará en la urna 
 
 V.- El Secretario de la casilla anotará la palabra "votó" en la lista nominal correspondiente y procederá a:
 
-> <small>(F. DE E., D.O. 13 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
-a) Marcar la Credencial vigente para Votar del elector que ha ejercido su derecho de voto;
+a) Marcar la Credencial para Votar del elector que ha ejercido su derecho de voto;
 
 b) Impregnar con líquido indeleble la yema del dedo pulgar derecho del elector; y,
 
-c) Devolver al elector su Credencial para Votar vigente.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+c) Verificar que el líquido indeleble haya secado por completo y acto seguido, devolver al elector su Credencial para Votar.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Con excepción de los representantes generales, los representantes de los partidos políticos o coaliciones, que estén acreditados ante una mesa directiva de casilla que no corresponda a la sección electoral que aparece en su Credencial para Votar, podrán ejercer su derecho a votar en la casilla en la que estén acreditados como representantes, siempre y cuando, la sección electoral a la que corresponda la casilla de que se trate, pertenezca al distrito electoral correspondiente a la residencia o domicilio del representante.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Para efecto de lo establecido en el párrafo anterior, el representante podrá ejercer su derecho a votar tratándose de las elecciones de diputados y Gobernador, pudiendo ejercer ese derecho en la elección de regidores, sólo cuando la casilla de que se trate, esté ubicada en el Municipio al que corresponda la residencia o domicilio del representante.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+En todo caso, para el ejercicio del derecho de voto de los representantes de los partidos políticos ante las mesas directivas, se seguirá el procedimiento señalado en éste y el anterior artículo, anotando el nombre completo y la clave de la Credencial para Votar de los representantes al final de la lista nominal de electores.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Sólo se admitirá que ejerzan su derecho al voto, en los términos establecidos en los tres párrafos anteriores, los representantes de los partidos políticos acreditados ante las mesas directivas de casilla que hubieren estado presentes ininterrumpidamente en la casilla, desde antes del inicio de la votación y hasta antes del cierre de la misma. En todo caso, por cada partido político o coalición, podrán votar, hasta dos de sus representantes acreditados ante la mesa directiva de casilla.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+En términos del convenio que celebren el Instituto Electoral del Estado y el Instituto Federal Electoral en términos del artículo 148 del presente Código, deberá preverse en la elaboración de las listas nominales de electores, el espacio correspondiente para anotar los datos de los representantes de los partidos políticos que ejerzan su derecho de votar, en los términos establecidos en los cuatro párrafos anteriores.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+A los Presidentes de cada mesa directiva de casilla, además de la documentación y material electoral a que se refiere el artículo 195 de este Código, se les entregará, una relación de las secciones electorales comprendidas dentro del distrito electoral uninominal en el que se ubique la casilla donde actuarán el día de la jornada electoral. Dicha relación, será utilizada para cerciorarse, de que los representantes de los partidos políticos ante las mesas directivas de casilla, que en su caso, actúen fuera de la sección electoral a la que corresponda su Credencial para Votar, pertenezcan al distrito electoral uninominal dentro del cual se ubique la casilla y por tanto, se les permita ejercer en la misma, su derecho a votar.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 206.
 
-El Presidente de la casilla recogerá las credenciales para votar que tengan alteración o no pertenezcan al ciudadano, poniendo a disposición de las autoridades a quienes las presenten
+El Presidente de la casilla recogerá las Credenciales para Votar que tengan muestras de alteración o no pertenezcan al ciudadano, poniendo a disposición de las autoridades a quienes las presenten.
 
 El Secretario de la mesa directiva anotará el incidente en el acta respectiva, con mención expresa del nombre del ciudadano o ciudadanos presuntamente responsables.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+En aquellos casos en que algún ciudadano que se presente portando su Credencial para Votar, pero su nombre no aparezca en las listas nominales, no podrán votar y por tanto, no se le entregarán las boletas electorales, salvo en el caso de que exhiba, la sentencia de Tribunal Electoral del Estado competente, que le autorice expresamente el ejercicio de su derecho de voto, en esas circunstancias.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+En todo caso, el secretario de la mesa directiva de la casilla levantará, en los formatos autorizados por el Consejo Electoral del Estado, una relación con los nombres y claves de elector de los ciudadanos que se encuentren comprendidos en el supuesto del párrafo anterior, anotando de igual manera, con base en los datos contenidos en la Credencial para Votar del ciudadano en cuestión, el año en el cual, se haya inscrito al Registro Federal de Electores.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+La relación a que se refiere el párrafo anterior, será firmada por los funcionarios de la mesa directiva de la casilla y los representantes de los partidos políticos que estén acreditados ante las mesas directivas de casilla que así desearen hacerlo. El original de dicha relación, se incluirá en el mismo sobre que contendrá la lista nominal de electores y que formará parte del expediente de la elección de diputados, de conformidad con lo establecido en el artículo 223 del presente Código.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Los consejos distritales, deberán remitir al Consejo Electoral del Estado la totalidad de las relaciones que se elaboren, para lo cual dispondrán de un término máximo de 72 horas, contadas a partir del momento en que finalicen sus sesiones en las que efectúen el o los cómputos distritales, según corresponda.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+El Consejo Electoral del Estado, una vez recibida la totalidad de las relaciones a las que alude el párrafo anterior, las remitirá al Registro Federal de Electores, con el objeto de que éste, en coordinación con los partidos políticos ante los órganos de vigilancia de dicho Registro y el propio Consejo Electoral del Estado, realice la investigación de las causas de todos y cada uno de los casos, a los que se refiere el tercer párrafo del presente artículo.
 
 ###### Artículo 207.
 
 Los miembros de la mesa directiva deberán permanecer en la casilla a lo largo de la votación, pero en ningún caso podrán interferir con la libertad y secreto del voto de los electores.
 
-Además de los miembros de la directiva tendrán acceso a las casillas:
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Además de los miembros de la mesa directiva de casilla tendrán acceso a las casillas:
 
 I.- Los electores que hayan sido admitidos por el Presidente en los términos que fija este Código;
 
 II.- Los representantes de los partidos políticos debidamente acreditados en los términos de este Código;
 
-III.- Los notarios y escribanos públicos, así como los jueces que deban dar fe de cualquier acto relacionado con la integración de la mesa directiva, la instalación de la casilla y, en general, con el desarrollo de la votación, siempre y cuando se hayan identificado ante el Presidente o en su caso ante los funcionarios o representantes en la casilla y precisado la diligencia a realizar, misma que en ningún caso podrá oponerse al secreto de la votación;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+III.- Los notarios y escribanos públicos, así como la autoridad judicial que deban dar fe de cualquier acto relacionado con la integración de la mesa directiva, la instalación de la casilla y, en general, con el desarrollo de la votación, siempre y cuando se hayan identificado ante el Presidente de la mesa directiva y precisando la diligencia a realizar, misma que en ningún caso podrá oponerse al secreto de la votación;
 
 IV.- Los funcionarios del Instituto Electoral del Estado debidamente acreditados; y,
 
-> <small>(F. DE E., D.O. 13 DE ENERO DE 1995)</small>
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-V.- El observador electoral debidamente acreditado en los términos de este Código.
+V.- Los observadores electorales debidamente acreditados en los términos de este Código, siempre y cuando el número de observadores no sea tal que pudiera entorpecer el buen funcionamiento de la casilla.
 
-Los representantes generales permanecerán en las casillas el tiempo necesario para cumplir con sus funciones; no podrán interferir el libre desarrollo de la votación ni pretender asumir las funciones propias de los integrantes de la mesa directiva. El Presidente de ésta podrá conminarlos a que se ajusten a sus funciones y, en su caso, podrá ordenar su retiro cuando el representante coaccione a los electores o en cualquier forma afecte el desarrollo normal de la votación, sin perjuicio de hacerse acreedor a las demás sanciones establecidas en este Código y el de Defensa Social del Estado.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Los representantes generales permanecerán en las casillas el tiempo necesario para cumplir con sus funciones; no podrán interferir el libre desarrollo de la votación ni pretender asumir las funciones propias de los integrantes de la mesa directiva. El Presidente de ésta podrá conminarlos a que se ajusten a sus funciones y, en su caso, podrá ordenar su retiro cuando el representante coaccione a los electores o en cualquier forma afecte el desarrollo normal de la votación, sin perjuicio de hacerse acreedor a las demás sanciones establecidas en este Código y en el Código Penal del Estado.
 
 ###### Artículo 208.
 
@@ -2485,11 +3259,21 @@ Asimismo podrá solicitar, en todo tiempo, el auxilio de las fuerzas de segurida
 
 En estos casos, el Secretario de la casilla hará constar las causas del quebranto del orden y las medidas acordadas por el Presidente en un acta especial, que deberá firmarse por los funcionarios de la casilla y los representantes de los partidos acreditados ante la misma. Si algún funcionario o representante se negare a firmar, el Secretario hará constar la negativa.
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 211.
 
-Los representantes de los partidos políticos podrán presentar al Secretario de la mesa directiva, escritos sobre cualquier incidente que en su concepto constituya una infracción a lo dispuesto por este Código.
+Durante el desarrollo de la jornada electoral, en las casillas deberán observarse las siguientes disposiciones:
 
-El Secretario recibirá tales escritos sin excepción y los incorporará al expediente electoral de la casilla sin que pueda mediar discusión sobre su admisión y firmará copia de recibidos.
+I.- Cuando algún representante de los partidos políticos así lo solicite, en caso de duda, el Presidente le permitirá corroborar los datos que consigne la Credencial para Votar de algún elector y cotejarlos con los del listado nominal, sin que esto retrase o impida el desarrollo de la votación;
+
+II.- Las copias de las actas que se entreguen a los representantes de los Partidos Políticos ante las mesas directivas de casilla deberán de ser legibles, al igual que las firmas contenidas en ellas. Las copias deberán ser entregadas a los representantes de los partidos políticos en el orden en el cual aparezcan en el acta de escrutinio y cómputo de la casilla;
+
+III.- Los representantes de los Partidos Políticos ante las mesas directivas de casilla deberán contar con asientos, así como tener una ubicación en la casilla de manera que puedan observar y vigilar el desarrollo de la elección y no deberán ser obstaculizados en sus funciones por los integrantes de la mesa directiva de casilla; y,
+
+IV.- Los funcionarios de las mesas directivas de casilla no podrán retener los nombramientos de los representantes de los partidos políticos acreditados ante las mismas ni los nombramientos de los representantes generales. Tampoco podrán retener las acreditaciones y/o gafetes de los observadores electorales;
+
+Las sanciones a la violación de esta disposición se sujetarán a lo establecido en este Código.
 
 ###### Artículo 212.
 
@@ -2571,11 +3355,17 @@ VI.- El Secretario anotará en hojas por separado los resultados de cada una de 
 
 Para determinar la validez o nulidad de los votos se observarán las reglas siguientes:
 
-I.- Se contará un voto válido por la marca que haga el elector en un solo círculo o en el cuadro en el que se contenga el emblema de un partido político o coalición;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-II.- Se contará como nulo cualquier voto emitido en forma distinta a la señalada en la fracción anterior; y
+I.- Se contará un voto válido para el partido político o coalición, la marca que haga el elector en un sólo espacio en el que se contenga el emblema de un Partido Político o el de una coalición, de tal modo que a simple vista se desprenda, de manera indubitable, que el elector votó en favor de determinado partido político o coalición;
 
-III.- Los votos emitidos a favor de candidatos no registrados se asentarán en el acta por separado.
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+II.- Se contará como nulo cualquier voto emitido en forma distinta a la señalada, o cuando los espacios que contenga el emblema de un partido político, o el de una coalición o alguno de los emblemas de los partidos coaligados no exista marca alguna; y
+
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+III.- Cuando en la boleta aparezca el emblema de los partidos políticos coaligados, para efecto de la elección por el principio de representación proporcional, si sólo apareciera cruzado uno de los emblemas se asignará el voto al partido correspondiente, sino fuera claro por cual de ellos se manifestó el elector, el voto se asignará al partido político que señala el convenio de coalición correspondiente, siempre y cuando en ambos casos se cumpla con lo dispuesto en la fracción I del presente Artículo.
 
 ###### Artículo 220.
 
@@ -2593,7 +3383,7 @@ III.- El número de votos nulos;
 
 IV.- Una relación de los incidentes ocurridos durante el escrutinio y cómputo, si los hubiere; y,
 
-V.- La relación de escritos de protesta presentados por los representantes de los partidos políticos al término del escrutinio y cómputo.
+V.- (DEROGADA, D.O. 30 DE JUNIO DE 2003)
 
 En ningún caso se sumarán a los votos nulos las boletas sobrantes que fueron inutilizadas.
 
@@ -2601,9 +3391,13 @@ En ningún caso se sumarán a los votos nulos las boletas sobrantes que fueron i
 
 Concluido el escrutinio y cómputo de todas las votaciones se levantarán las actas correspondientes de cada elección, las que deberán firmar, sin excepción, todos los funcionarios y los representantes de los partidos políticos que actuaron en la casilla.
 
-Los representantes de los partidos políticos ante las casillas tendrán derecho a firmar el acta bajo protesta, señalando los motivos de la misma.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
-La negativa de los representantes de partido a firmar esta acta dejará sin materia los escritos de protesta que se presenten.
+Los representantes de los partidos políticos acreditados ante las mesas directivas de casilla tendrán derecho a firmar el acta bajo protesta.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+En todo caso, cuando un representante de partido político firme un acta bajo protesta, señalará las razones que la motiven las cuales, asentará el Secretario de la mesa directiva en el acta correspondiente.
 
 ###### Artículo 223.
 
@@ -2613,17 +3407,31 @@ I.- Un ejemplar del acta de la jornada electoral;
 
 II.- Un ejemplar del acta final de escrutinio y cómputo; y
 
-III.- Los escritos de protesta que se hubieren recibido.
+III.- (DEROGADA, D.O. 30 DE JUNIO DE 2003)
 
-Por cada elección se remitirán en sobres por separado, las boletas sobrantes inutilizadas; las que contengan los votos válidos; y las de los votos nulos.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
-La lista nominal de electores se remitirá en sobre por separado en el expediente de la elección de diputados.
+Para garantizar la inviolabilidad de los expedientes de casilla, se formará por cada elección, un paquete electoral que deberá contener:
 
-Para garantizar la inviolabilidad de la documentación anterior, con el expediente y los sobres de cada una de las elecciones se formará un paquete que contenga las elecciones de regidores, de diputados y de Gobernador, en su caso, en cuya envoltura firmarán los integrantes de la mesa directiva de casilla y los representantes que desearen hacerlo.
+a) El expediente de casilla de la elección correspondiente;
 
-Para el caso de casillas instaladas en municipios en los que incidan dos o más distritos electorales uninominales, con el expediente y los sobres de cada una de las elecciones se formarán dos paquetes; uno que contenga la elección de regidores y otro, la de diputados y de Gobernador, en su caso, en cuyas envolturas firmarán los integrantes de la mesa directiva de casilla y los representantes que desearen hacerlo
+b) Un sobre conteniendo las boletas sobrantes inutilizadas;
 
-La denominación expediente de casilla corresponderá al que se hubiese formado con las actas y los escritos de protesta referidos en este artículo.
+c) Un sobre conteniendo las boletas con los votos válidos; y
+
+d) Un sobre conteniendo las boletas con los votos nulos.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+La lista nominal de electores se remitirá en sobre por separado en el paquete electoral de la elección de diputados.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Cada paquete electoral deberá ser sellado con una cinta especial en la que firmarán los integrantes de la mesa directiva de casilla y los representantes de los partidos políticos que desearen hacerlo.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+La denominación "expediente de casilla" corresponderá al que se hubiese formado con las actas referidas en este artículo.
 
 ###### Artículo 224.
 
@@ -2793,13 +3601,17 @@ El Presidente del Consejo Distrital deberá:
 
 I.- Integrar el expediente del cómputo distrital de la elección de Gobernador del Estado con las correspondientes actas de las casillas, el original del acta de cómputo distrital, copia certificada del acta circunstanciada de la sesión de cómputo y el informe del propio Presidente sobre el desarrollo del proceso electoral; y,
 
-II.- Integrar el expediente del cómputo distrital de la elección de diputados de mayoría relativa con las actas de las casillas, el original del acta de cómputo distrital, copia certificada del acta circunstanciada de la sesión de cómputo y copia del informe del propio Presidente sobre el desarrollo del proceso electoral.
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+II.- Integrar el expediente del cómputo distrital de la elección de diputados de mayoría relativa con las actas de las casillas, el original del acta de cómputo distrital, copia certificada del acta circunstanciada de la sesión de cómputo y copia del informe del propio Presidente sobre el desarrollo del proceso electoral e inmediatamente deberá remitir copias certificadas de los documentos antes mencionados, al Tribunal Electoral del Estado.
 
 ###### Artículo 241.
 
 El Presidente del Consejo Distrital, una vez integrados los expedientes procederá a:
 
-I.- Remitir al Tribunal Electoral del Estado, cuando se hubiere interpuesto el recurso de inconformidad, junto con éste, los escritos de protesta, copia certificada del expediente del cómputo distrital de la elección de Gobernador del Estado, en su caso, y el informe respectivo; y copia certificada del expediente del cómputo distrital y declaración de validez de la elección de diputados de mayoría relativa, en los términos previstos en el Libro Quinto de este Código;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+I.- Remitir al Tribunal Electoral del Estado, cuando se hubiere interpuesto el recurso de inconformidad, copia certificada del expediente del cómputo distrital de la elección de Gobernador del Estado, en su caso, y el informe respectivo; y copia certificada del expediente del cómputo distrital y declaración de validez de la elección de Diputados de mayoría relativa, en los términos previstos en el Libro Quinto de este Código;
 
 II.- Remitir al Consejo Electoral del Estado, el expediente del cómputo distrital de la elección de Gobernador del Estado con las actas originales de las casillas, el original del acta de cómputo distrital y cualquier otra documentación relativa a dicha elección;
 
@@ -2845,11 +3657,17 @@ Los presidentes de los consejos municipales, fijarán en el exterior de sus loca
 
 El presidente del Consejo Municipal, deberá:
 
-I.- Integrar el expediente del cómputo municipal de la elección de regidores de mayoría relativa con las actas de las casillas, el original del acta de cómputo, el acta circunstanciada de la sesión y el informe sobre el desarrollo del proceso electoral;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-II.- Cuando se hubiera interpuesto el recurso de inconformidad en los términos de este Código, junto con éste, remitirá al Tribunal Electoral del Estado el expediente relativo al cómputo municipal con los escritos de protesta y el informe respectivo. En este caso, enviará copias certificadas de los expedientes, de los escritos de protesta, de los recursos y del informe respectivo, al Consejo Electoral del Estado; y,
+I.- Integrar el expediente del cómputo municipal de la elección de regidores de mayoría relativa con las actas de las casillas, el original del acta de cómputo, el acta circunstanciada de la sesión y el informe sobre el desarrollo del proceso electoral e inmediatamente deberá remitir copias certificadas de los documentos antes mencionados, al Tribunal Electoral del Estado;
 
-III.- Una vez cumplido el plazo para la interposición del recurso de inconformidad, sin que ningún partido político lo hubiere presentado, el Presidente del Consejo Municipal, enviará los expedientes de los cómputos municipales al Consejo Electoral del Estado para que éste aplique la fórmula electoral y asigne los regidores electos por el sistema de representación proporcional.
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+II.- Cuando se hubiera interpuesto el recurso de inconformidad en los términos de este Código, remitirá al Tribunal Electoral del Estado el expediente relativo al cómputo municipal y el informe respectivo. En este caso se enviará copias certificadas de los expedientes, de los recursos y del informe respectivo, al Consejo Electoral del Estado; y,
+
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+III.- Una vez cumplido el plazo para la interposición del recurso de inconformidad, sin que ningún partido político lo hubiere presentado, el Presidente del Consejo Municipal, enviará los expedientes de los cómputos municipales al Consejo Electoral del Estado para que éste aplique la fórmula electoral y asigne los Regidores electos por el principio de representación proporcional.
 
 ###### Artículo 249.
 
@@ -2860,6 +3678,10 @@ Los presidentes de los consejos municipales, tomarán las medidas necesarias par
 ###### Artículo 250.
 
 El Consejo Electoral del Estado sesionará a partir de las 8:00 horas del domingo siguiente al día de la elección, para efectuar sucesivamente los cómputos estatales de las elecciones de Gobernador del Estado, en su caso, y de diputados por el sistema de representación proporcional.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Dicha sesión tendrá una duración máxima de 24 horas.
 
 ###### Artículo 251.
 
@@ -2897,7 +3719,9 @@ El Presidente del Consejo Electoral del Estado deberá:
 
 I.- Integrar el expediente del cómputo estatal de la elección de Gobernador del Estado con una copia certificada de las actas de las casillas, los originales de las actas de los cómputos distritales relativos, copia certificada del acta circunstanciada de la sesión de cómputo estatal y el informe que rinda sobre el desarrollo del proceso electoral; y,
 
-II.- Integrar el expediente del cómputo estatal de la elección de diputados por el sistema de representación proporcional con una copia certificada de las actas de las casillas, los originales de las actas de los cómputos distritales relativos, copia certificada del acta circunstanciada de la sesión de cómputo estatal y el informe que rinda sobre el desarrollo del proceso electoral.
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+II.- Integrar el expediente del cómputo estatal de la elección de diputados por el sistema de representación proporcional con una copia certificada de las actas de las casillas, los originales de las actas de los cómputos distritales relativos, copia certificada del acta circunstanciada de la sesión de cómputo estatal y el informe que rinda sobre el desarrollo del proceso electoral e inmediatamente deberá remitir copias certificadas de los documentos antes mencionados, al Tribunal Electoral del Estado.
 
 ###### Artículo 255.
 
@@ -3059,7 +3883,9 @@ III.- Los recursos que se presenten en procesos extraordinarios, en los término
 
 IV.- Los recursos de apelación que se interpongan durante el tiempo que transcurra entre dos procesos electorales ordinarios por actos o resoluciones de los órganos electorales;
 
-V.- La imposición de sanciones administrativas de acuerdo a lo previsto en este ordenamiento.
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+V.- La imposición de sanciones de acuerdo a lo previsto en este ordenamiento.
 
 ###### Artículo 274.
 
@@ -3073,9 +3899,11 @@ Las resoluciones del Tribunal Electoral del Estado recaídas al recurso de apela
 
 ### CAPITULO PRIMERO. DEL PLENO DEL TRIBUNAL
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 276.
 
-El Tribunal Electoral del Estado se integrará por cinco Magistrados Propietarios y sus respectivos suplentes nombrados por el Tribunal Superior de Justicia del Estado.
+El Tribunal Electoral del Estado se integrará por cinco Magistrados Propietarios y sus respectivos suplentes nombrados por el Congreso del Estado.
 
 ###### Artículo 277.
 
@@ -3105,23 +3933,67 @@ VIII.- Determinar la fecha y hora de sus sesiones públicas; y
 
 IX.- Aplicar las sanciones pecuniarias y administrativas previstas en esta Ley.
 
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+X.- Expedir su reglamento interno y los acuerdos generales necesarios para su adecuado funcionamiento.
+
 ###### Artículo 279.
 
 En caso de ausencia temporal o definitiva de algún Magistrado Propietario suplirá o entrará en funciones el Magistrado suplente designado.
 
 ### CAPITULO SEGUNDO. DE LOS MAGISTRADOS
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 280.
 
-Los Magistrados del Tribunal Electoral del Estado serán designados por el método de insaculación directa, por el Tribunal Superior de Justicia del Estado con sujeción al procedimiento siguiente:
+Los Magistrados del Tribunal Electoral del Estado serán designados por el Congreso del Estado, a más tardar el último día del mes de agosto del año previo al de la elección, de acuerdo con el siguiente procedimiento:
 
-I.- Cada partido político u organización social reconocida conforme a este Código, propondrá al Tribunal Superior de Justicia del Estado hasta dos nombres de profesionistas con merecimientos al cargo y que cubran los requisitos señalados en el artículo siguiente;
+I.- La Comisión Permanente de Legislación, Puntos Constitucionales Gobernación y Asuntos Electorales del Congreso del Estado, expedirá una convocatoria pública dirigida a las organizaciones sociales, agrupaciones y partidos políticos con la finalidad de allegarse propuestas de candidatos a Magistrados del Tribunal Electoral del Estado. La convocatoria deberá publicarse a más tardar treinta días antes de la fecha en que debe designarse los Magistrados del Tribunal Electoral del Estado;
 
-II.- Las propuestas a que se refiere la fracción anterior deberán ser presentadas ante el propio Tribunal Superior de Justicia del Estado en el mes de Septiembre del año inmediato anterior al de las elecciones, debiendo acompañarse a las propuestas la documentación con la que acredite que las personas que proponen cumplen los requisitos para ser magistrados del Tribunal Electoral del Estado y la aceptación por escrito del propuesto;
+II.- Las organizaciones sociales, agrupaciones y partidos políticos, a través de su representante, propondrán, hasta tres candidatos a Magistrados del Tribunal Electoral del Estado.
 
-III.- Los Magistrados del Tribunal Electoral del Estado serán designados a más tardar el día 15 de Octubre del año previo al de las elecciones.
+Las organizaciones sociales, agrupaciones políticas que deseen presentar candidatos deberán reunir y acreditar los siguientes requisitos:
 
-Los Magistrados serán nombrados para ejercer sus funciones en dos procesos electorales ordinarios sucesivos.
+a) Estar constituidas, registradas o inscritas, según el caso, conforme a la Ley, lo que se acreditará con la copia certificada del acta constitutiva;
+
+b) Tener cuando menos cinco años de haberse conformado, lo que se acreditará con la copia certificada del documento que acredite el registro o inscripción;
+
+c) No perseguir fines lucrativos;
+
+d) No estar supeditadas ni vinculadas a ninguna religión;
+
+e) Contar con domicilio legal en el Estado; y
+
+f) Copia certificada del documento que acredita la personalidad del representante legal.
+
+Tratándose de los partidos políticos deberán acreditar su inscripción o registro ante el Instituto Electoral del Estado, en los términos de este Código.
+
+III.- Las propuestas de candidatos a Magistrados del Tribunal Electoral del Estado deberán presentarse dentro de los quince días siguientes al de la publicación de la convocatoria en la Oficialía Mayor del Congreso anexando la siguiente documentación:
+
+a) Original o copia certificada del acta de nacimiento;
+
+b) Original o copia certificada de la constancia de residencia, si el candidato propuesto no es originario del Estado;
+
+c) Copia de la credencial para votar;
+
+d) Copia Certificada del Título Profesional;
+
+e) Currículum vitae del candidato.
+
+IV.- La Oficialía Mayor del Congreso turnará inmediatamente a la Comisión de Legislación, Puntos Constitucionales, Gobernación y Asuntos Electorales del Congreso del Estado, las propuestas de candidatos a Magistrados del Tribunal Electoral del Estado que hubiera recibido junto con la documentación presentada. Una vez vencido el término establecido en la fracción III del presente artículo y dentro de los cinco días siguientes a dicho término, la Comisión formulará una lista con los nombres de los candidatos a Magistrados del Tribunal Electoral del Estado.
+
+Para efecto de lo anterior, la Comisión de Legislación, Puntos Constitucionales, Gobernación y Asuntos Electorales del Congreso del Estado analizará cada una de las propuestas de candidatos a Magistrados del Tribunal Electoral del Estado, verificando la documentación presentada. Si de la verificación realizada se advierte que se omitió la entrega de algún documento o los presentados no son idóneos para acreditar el cumplimiento de los requisitos que deben reunir las organizaciones sociales, agrupaciones y partidos políticos para los efectos de esta Ley o en su caso los candidatos para ser Magistrados del Tribunal Electoral del Estado, se notificará dentro de un plazo de veinticuatro horas a la organización social, agrupación o partido político, según el caso, para que dentro de las cuarenta y ocho horas siguientes a la de la notificación, presente la documentación procedente.
+
+La Comisión de Legislación, Puntos Constitucionales, Gobernación y Asuntos Electorales del Congreso del Estado, a más tardar siete días antes de la fecha en que deba designar a los Magistrados del Tribunal Electoral del Estado, publicará una lista con los nombres de todos los candidatos que fueron propuestos especificando en cada caso, cuales cumplieron con los requisitos establecidos en la presente Ley.
+
+La lista con los nombres de los candidatos a Magistrados del Tribunal Electoral del Estado que reúnan los requisitos de Ley, será presentada al Pleno del Congreso, a efecto de que entre los candidatos que la integran y mediante el voto de las dos terceras partes de sus miembros, designe a los Magistrados del Tribunal Electoral del Estado.
+
+V.- De no haberse logrado la designación de los cinco magistrados propietarios y suplentes, con la mayoría señalada en la fracción que antecede, se procederá para completar el número de magistrados, a la insaculación de los que falten hasta integrar el número exigido por este Código.
+
+La insaculación se verificará entre la totalidad de las personas nominadas en la lista turnada al Pleno, a excepción de las ya elegidas.
+
+VI.- Los Magistrados del Tribunal Electoral del Estado propietarios y suplentes durarán en su encargo, seis años. Los Magistrados del Tribunal Electoral del Estado pueden ser ratificados, por el Congreso del Estado, hasta para un período más.
 
 ###### Artículo 281.
 
@@ -3135,17 +4007,31 @@ III.- Tener más de 30 años de edad el día de su designación;
 
 IV.- Poseer el día de la designación con antigüedad mínima de cinco años, título profesional de abogado o licenciado en Derecho;
 
-V.- No haber sido condenado o estar sujeto a proceso por de delito intencional.
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+V.- No haber sido condenado por delito intencional.
 
 VI.- Haber residido en el Estado durante los últimos dos años;
 
-VII.- No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal de algún partido político;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-VIII.- No ser ni haber sido candidato a cargo alguno de elección popular;
+VII.- no ser ni haber sido candidato a cargo de elección popular, durante los tres años previos a la elección;
 
-IX.- No ser ni haber sido ministro de culto religioso alguno, salvo que se haya separado con cinco años de anterioridad al año de la elección; y
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-X.- No ser titular de las dependencias u organismos descentralizados de la administración pública federal, estatal o municipal.
+VIII.- No ser ministros de algún culto religioso, a menos que se separe de su ministerio conforme a lo establecido en la Constitución Federal y la Ley de la materia;
+
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+IX.- No ser militar en servicio activo con mando de fuerzas;
+
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+X.- No ser titular de alguna de las dependencias de la Administración Pública Estatal o Municipal, a menos que se separe de sus funciones tres años antes de la elección; y
+
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+XI.- No ser ni haber sido dirigente en los órganos nacionales, estatales o municipales, de algún partido político, durante los tres años previos al de la elección.
 
 ###### Artículo 282.
 
@@ -3165,23 +4051,27 @@ VI.- Formular voto particular razonado en caso de disentir de un proyecto de res
 
 VII.- Solicitar al Secretario de Acuerdos asentar, en los expedientes en que fueren ponentes, razón o cómputo necesarios, así como las certificaciones y compulsas que se requieran para el mejor trámite de los expedientes.
 
-> <small>(F. DE E., D.O. 13 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 283.
 
-Los Magistrados del Tribunal Electoral del Estado, al entrar a ejercer su encargo, rendirán la protesta de Ley ante el Pleno del Tribunal Superior de Justicia del Estado.
+Los Magistrados del Tribunal Electoral del Estado, al entrar a ejercer su encargo, rendirán la protesta de Ley ante el Congreso del Estado.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 284.
 
-La retribución que reciban los Magistrados será prevista en el Presupuesto de Egresos del Estado.
+Los Magistrados del Tribunal Electoral del Estado en el ejercicio efectivo de sus funciones recibirán durante el año de la elección un sueldo equivalente al que perciban los Magistrados del Tribunal Superior de Justicia del Estado y el 50% del mismo en los años en que no se celebren elecciones. El Presidente del Tribunal Electoral del Estado, durante todo el período por el que fue designado, recibirá un sueldo equivalente al que perciban los Magistrados del Tribunal Superior de Justicia.
 
 ## TITULO TERCERO. DE SU FUNCIONAMIENTO
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 285.
 
-El Tribunal Electoral del Estado se instalará e iniciará sus funciones al día siguiente de que rindan la protesta de Ley ante el Tribunal Superior de Justicia del Estado. El orden del día incluirá la designación del Secretario de Acuerdos.
+El Tribunal Electoral del Estado se instalará e iniciará sus funciones al día siguiente de que rindan la protesta de Ley ante el Congreso del Estado. El orden del día incluirá la designación del Secretario de Acuerdos.
 
 ###### Artículo 286.
 
@@ -3353,15 +4243,17 @@ Y DE LAS FALTAS Y SANCIONES ADMINISTRATIVAS
 
 Las nulidades establecidas en este Título podrán afectar la votación emitida en una casilla y, en consecuencia, los resultados del cómputo de la elección impugnada en un Municipio; o la elección de Gobernador o la fórmula de diputados de mayoría en un distrito electoral; o el cómputo estatal de la elección de Gobernador, o de diputados y regidores por el sistema de representación proporcional.
 
-> <small>(F. DE E., D.O. 13 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 302.
 
-Los efectos de las nulidades decretadas por el Tribunal Electoral del Estado respecto de la votación emitida en una casilla o de una elección en un municipio o distrito electoral se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el recurso de inconformidad.
+Los efectos de las nulidades decretadas por el Tribunal Electoral del Estado respecto de la votación emitida en una o varias casillas o de una elección en un municipio o distrito electoral uninominal se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el recurso de inconformidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 303.
 
-la votación recibida en una casilla será nula cuando se acrediten las siguientes causales:
+La votación recibida en una casilla será nula cuando se acredite cualesquiera de las siguientes causales:
 
 I.- Instalar la casilla, sin causa justificada, en lugar distinto al señalado por el Consejo Municipal correspondiente;
 
@@ -3373,9 +4265,13 @@ IV.- Recibir la votación en fecha distinta a la señalada para la celebración 
 
 V.- La recepción de la votación por personas u órganos distintos a los facultados por este Código;
 
-VI.- Haber mediado dolo o error en la computación de los votos que beneficie a uno de los candidatos, fórmula o planilla y esto sea determinante para el resultado de la votación;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
 
-VII.- Permitir sufragar sin Credencial para Votar o a aquellos cuyo nombre no aparezca en la lista nominal de electores siempre que ello sea determinante para el resultado de la votación;
+VI.- Haber mediado dolo o error en la computación de los votos y siempre que ello sea determinante para el resultado de la votación;
+
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+VII.- Permitir sufragar sin Credencial para Votar o a aquellos cuyo nombre no aparezca en la lista nominal de electores siempre que ello sea determinante para el resultado de la votación, salvo los casos de excepción señalados en este Código;
 
 VIII.- Haber impedido el acceso a los representantes de los partidos políticos o haberlos expulsados (sic) sin causa justificada;
 
@@ -3383,31 +4279,41 @@ IX.- Ejercer violencia física o presión sobre los miembros de la mesa directiv
 
 X.- Se compruebe que se impidió, sin causa justificada, ejercer el derecho de voto a los ciudadanos y esto sea determinante para el resultado de la votación.
 
+> <small>(ADICIONADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+XI.- Existir irregularidades graves, plenamente acreditadas y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo que, en forma evidente, pongan en duda la certeza de la votación y sean determinantes para el resultado de la misma.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 304
 
-Son causas de nulidad de una elección de diputados de mayoría relativa en un distrito electoral, las siguientes:
+Son causas de nulidad de una elección de diputados de mayoría relativa en un distrito electoral uninominal, cualesquiera de las siguientes:
 
-I.- Cuando alguna o algunas de las causas señaladas en el artículo anterior, se acrediten en el 20 % de las casillas;
+I.- Cuando alguna o algunas de las causas señaladas en el artículo anterior, se acrediten en por lo menos el 20 % de las casillas, o
 
-II.- Cuando no se instalen las casillas en un 20 % de las que corresponden al Distrito y consecuentemente la votación no hubiere sido recibida; y,
+II.- Cuando no se instalen las casillas en el 20 % de las secciones electorales que corresponden al Distrito y consecuentemente la votación no hubiere sido recibida, o
 
-III.- Cuando los dos integrantes de la fórmula de candidatos que obtuvieron la mayoría de votos sean inelegibles.
+III.- Cuando los dos integrantes de la fórmula de candidatos que hubieren obtenido constancia de mayoría sean inelegibles.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 305.
 
-Son causas de nulidad de una elección de regidores en un municipio, las siguientes:
+Son causas de nulidad de una elección de regidores en un municipio, cualesquiera de las siguientes:
 
-I.- Cuando alguna o algunas de las causales de nulidad, previstas en el artículo 303, se acrediten en por lo menos el 20 % de las casillas;
+I.- Cuando alguna o algunas de las causales de nulidad, previstas en el artículo 303, se acrediten en por lo menos el 20 % de las casillas, o
 
-II.- Cuando no se instalen las casillas en el 20 % de las que corresponden al municipio y consecuentemente la votación no hubiere sido recibida.
+II.- Cuando no se instalen las casillas en el 20 % de las secciones electorales que corresponden al municipio y consecuentemente la votación no hubiere sido recibida.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 306.
 
-Son causas de nulidad de la elección de Gobernador las siguientes:
+Son causas de nulidad de la elección de Gobernador cualesquiera de las siguientes:
 
-I.- Cuando alguna o algunas de las causales de nulidad establecidas en el artículo 303 de este Código se acrediten en el 20 % de las casillas del Estado; y,
+I.- Cuando alguna o algunas de las causales de nulidad establecidas en el artículo 303 de este Código se acrediten en por lo menos el 20 % de las casillas del Estado, o
 
-II.- Cuando no se instalen las casillas en el 20 % de las que correspondan a la Entidad y consecuentemente la votación no hubiere sido recibida.
+II.- Cuando no se instalen las casillas en el 20 % de las secciones electorales que correspondan a la Entidad y consecuentemente la votación no hubiere sido recibida.
 
 ###### Artículo 307.
 
@@ -3423,21 +4329,31 @@ Los partidos políticos no podrán invocar en su favor, en ningún recurso, caus
 
 Las elecciones cuyos cómputos, constancias de mayoría y validez o de asignación no sean impugnadas en tiempo y forma, se considerarán validas, definitivas e inatacables.
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 310.
 
-Tratándose de la inelegibilidad de candidatos a diputados o regidores de representación proporcional que deban atribuirse a un partido político, tomará el lugar del declarado no elegible el que le sigue en la lista correspondiente del mismo partido.
+Tratándose de la inelegibilidad de candidatos a diputados o regidores por el principio de representación proporcional que deban asignarse a un partido político, tomará el lugar del declarado inelegible el que le sigue en la lista o planilla correspondiente del mismo partido.
 
 ## TITULO SEGUNDO. DEL SISTEMA DE MEDIOS DE IMPUGNACION
 
 ### CAPITULO PRIMERO. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 311.
 
-Durante el proceso electoral, para garantizar la legalidad de los actos, resoluciones y resultados electorales, se establecen los siguientes medios de impugnación:
+Para garantizar la legalidad de los actos, resoluciones y resultados electorales, se establecen los siguientes medios de impugnación:
 
 I.- Recurso de revisión, que los partidos políticos podrán interponer en contra de los actos o resoluciones de los consejos distritales y municipales;
 
-II.- Recurso de apelación, durante la etapa de preparación de la elección, que se podrá interponer por los partidos políticos, para impugnar las resoluciones recaídas a los recursos de revisión y en contra de los actos y resoluciones del Consejo Electoral del Estado;
+> <small>(REFORMADA, D.O. 30 DE JUNIO DE 2003)</small>
+
+II.- Recurso de apelación:
+
+a) Durante la etapa de preparación de la elección, que se podrá interponer por los partidos políticos, para impugnar las resoluciones recaídas a los recursos de revisión y en contra de los actos y resoluciones del Consejo Electoral del Estado;
+
+b) Concluido el proceso electoral contra actos y resoluciones del Consejo Electoral del Estado.
 
 III.- Recurso de inconformidad, que los partidos políticos podrán interponer para impugnar:
 
@@ -3457,31 +4373,11 @@ IV.- Recurso de reconsideración, que los partidos políticos podrán interponer
 
 ###### Artículo 312.
 
-El escrito de protesta por los resultados contenidos en el acta de escrutinio y cómputo de la casilla, es un medio para establecer la existencia de presuntas violaciones durante el día de la jornada electoral y requisito de procedibilidad del recurso de inconformidad.
-
-No se requerirá la presentación del escrito de protesta cuando se impugnen cómputos municipales, distritales o estatales derivados de actos o escrutinios y cómputos nuevos.
-
-Para los efectos de este Código, se considera que existe un escrutinio y cómputo nuevo cuando se de en los casos señalados en las fracciones II y III del artículo 237 de este ordenamiento; o se haga valer la causal de nulidad prevista en la fracción II del artículo 303 del propio Código; o cuando se impugnen por error aritmético o dolo las actas de cómputo estatal de la elección de Gobernador o las de asignación de diputados o regidores por el principio de representación proporcional.
-
-El escrito de protesta deberá contener:
-
-I.- El partido político que lo presenta;
-
-II.- La mesa directiva de casilla ante la que se presenta;
-
-III.- La elección que se protesta;
-
-IV.- La causa por la que se presenta la protesta;
-
-V.- Cuando se presente ante el Consejo correspondiente, se deberá identificar, además, individualmente cada una de las casillas que se impugnan cumpliendo con lo señalado en las fracciones III y IV anteriores; y,
-
-VI.- El nombre, la firma y cargo partidario de quien lo presenta.
+(DEROGADO, D.O. 30 DE JUNIO DE 2003)
 
 ###### Artículo 313.
 
-El escrito de protesta deberá presentarse ante la mesa directiva de casilla al término del escrutinio y cómputo o ante el Consejo correspondiente dentro de las 48 horas siguientes al día de la elección.
-
-De la presentación del escrito de protesta, deberán acusar recibo o razón de recibida una copia del respectivo escrito los funcionarios de la casilla o del Consejo correspondiente ante el que se presentaron.
+(DEROGADO, D.O. 30 DE JUNIO DE 2003)
 
 ###### Artículo 314.
 
@@ -3531,23 +4427,45 @@ Los recursos de revisión, apelación, inconformidad y reconsideración se inter
 
 En ningún caso la interposición de los recursos suspenderá los efectos de los actos o resoluciones impugnados.
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 317.
 
-La autoridad electoral competente que reciba un recurso lo hará de inmediato del conocimiento público mediante cédula que fijará en los estrados.
+La autoridad que reciba un medio de impugnación, en contra de un acto emitido o resolución dictada por ella, bajo su más estricta responsabilidad y de inmediato, deberá:
 
-Dentro de las cuarenta y ocho horas siguientes a la de su fijación, los representantes de los partidos políticos terceros interesados podrán presentar los escritos que consideren pertinentes.
+I.- Por la vía más expedita, dar aviso de su presentación al órgano competente para resolverlo, en los términos del presente Código, precisando en todo caso:
 
-Los escritos a que se refiere el párrafo anterior deberán cumplir los requisitos siguientes:
+a) El nombre del actor;
 
-I.- Hacer constar el nombre del partido político tercero interesado y el domicilio para recibir notificaciones; si el promovente omite señalar domicilio para recibirlas, se practicarán por estrados;
+b) El acto o resolución impugnado; y
 
-II.- Exhibir los documentos que acrediten la personalidad del promovente, cuando no la tenga reconocida ante la autoridad electoral competente;
+c) La fecha y hora exactas de su recepción.
 
-III.- Precisar la razón del interés jurídico en que se fundan y las pretensiones concretas del promovente;
+II.- Hacerlo del conocimiento público de inmediato, mediante cédula que fije en los estrados respectivos o por cualquier otro procedimiento que garantice fehacientemente la publicidad del escrito, el cual deberá permanecer en exhibición durante un plazo de 48 horas contadas a partir de la fijación en estrados.
 
-IV.- Ofrecer las pruebas que junto con el escrito se aportan y solicitar las que deban requerirse, cuando el promovente justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente, no le fueron entregadas; y
+Tratándose del recurso de reconsideración el plazo señalado en el párrafo anterior será de 24 horas.
 
-V.- Hacer constar el nombre y la firma autógrafa del promovente.
+Cuando algún órgano del Instituto Electoral del Estado o el Tribunal Electoral del Estado, reciba un medio de impugnación por el cual se pretenda combatir un acto o resolución que no le es propio, lo remitirá de inmediato, sin trámite adicional alguno, al órgano competente para tramitarlo.
+
+El incumplimiento de las obligaciones a que se refieren los párrafos anteriores, será sancionado en los términos previstos en el presente ordenamiento y en las leyes aplicables.
+
+III.- Dentro del plazo a que se refiere la fracción II de este artículo, los partidos políticos terceros interesados podrán comparecer mediante los escritos que consideren pertinentes, mismos que deberán cumplir los requisitos siguientes:
+
+a) Presentarse ante la autoridad responsable del acto o resolución impugnado;
+
+b) Hacer constar el nombre del partido político tercero interesado;
+
+c) Señalar domicilio para recibir notificaciones;
+
+d) Acompañar el o los documentos que sean necesarios para acreditar la personería del promovente, cuando no la tenga reconocida ante la autoridad competente;
+
+e) Precisar la razón del interés jurídico en que se funden y las pretensiones concretas del promovente;
+
+f) Ofrecer y aportar las pruebas dentro del plazo a que se refiere la fracción II de este artículo; mencionar en su caso, las que se habrán de aportar dentro de dicho plazo; y solicitar las que deban requerirse, cuando el promovente justifique que oportunamente las solicitó por escrito al órgano competente, y no le hubieren sido entregadas; y
+
+g) Hacer constar el nombre y la firma autógrafa del promovente.
+
+IV.- Cuando la controversia verse exclusivamente sobre puntos de derecho, no será necesario cumplir con el requisito previsto en el inciso f) de la fracción III del presente artículo.
 
 ###### Artículo 318.
 
@@ -3563,7 +4481,7 @@ IV.- Los demás escritos de los terceros interesados y de los coadyuvantes;
 
 V.- Un informe circunstanciado sobre el acto o resolución impugnado;
 
-VI.- En caso del recurso de inconformidad, los escritos de protesta que obren en su poder; y,
+VI.- (DEROGADA, D.O. 30 DE JUNIO DE 2003)
 
 VII.- Los demás elementos que se estimen necesarios para la resolución.
 
@@ -3581,6 +4499,10 @@ Las autoridades deberán proporcionar oportunamente los informes o documentos a 
 
 Una vez recibido el recurso de apelación o de inconformidad en el Tribunal Electoral del Estado, será turnado al Magistrado que corresponda, quien tendrá la obligación de revisar que reúna todos los requisitos de procedibilidad señalados en este Título y, particularmente, si el promovente cumplió con los requisitos indicados en el artículo 315.
 
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Si la autoridad responsable, omite enviar el informe circunstanciado a que se refiere la fracción V del artículo 318 de este Código, se le requerirá de inmediato su remisión fijando un plazo de veinticuatro horas para tal efecto, bajo apercibimiento que de no cumplir o no enviar oportunamente dicho informe, se resolverá con los elementos que obren en autos y se tendrán como presuntivamente ciertos los hechos constitutivos de la violación reclamada, salvo prueba en contrario; lo anterior, sin perjuicio de la sanción que deba ser impuesta de conformidad con el presente ordenamiento y las demás leyes aplicables.
+
 ###### Artículo 320.
 
 En los casos en que el promovente haya indicado que presentará pruebas dentro del plazo de interposición del recurso, y éste no haya fenecido o concluido, se reservará la admisión del mismo hasta la presentación de las señaladas o el vencimiento del plazo. Se hará la solicitud de los documentos ofrecidos por el actor cuando se justifique que medió cuando menos cuarenta y ocho horas entre la presentación del escrito a la autoridad omisa y la presentación del recurso, si procediere.
@@ -3589,7 +4511,9 @@ En los casos en que el promovente haya indicado que presentará pruebas dentro d
 
 Si de la revisión que realice el Magistrado ponente encuentra que el recurso encuadra en alguna de las causales de improcedencia a que se refiere el artículo 345 de este Código, o es evidentemente frívolo, someterá desde luego, a la consideración del Pleno del Tribunal el acuerdo para su desechamiento.
 
-Se considera que un recurso es frívolo cuando además de ser improcedente por cualquiera de dichas causales, sea interpuesto por persona carente de legitimación y no exista protesta.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Se considera que un recurso es frívolo cuando además de ser improcedente por cualquiera de dichas causales, sea interpuesto por persona carente de legitimación.
 
 En los casos de recursos evidentemente frívolos, el Pleno del Tribunal podrá imponer una multa al partido político promovente, en los términos del artículo 368.
 
@@ -3709,6 +4633,10 @@ En todos los casos se deberán identificar las impugnaciones que se formulen a l
 
 El recurso de reconsideración deberá interponerse dentro de las cuarenta y ocho horas siguientes en que se hubiera notificado el acto del Tribunal Electoral del Estado, a que se contrae la fracción IV del Artículo 311 de este Código.
 
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+En caso del recurso de reconsideración, el plazo para que los partidos políticos terceros interesados comparezcan mediante los escritos que consideren pertinente, será de 24 horas contadas a partir de la fijación en estrados de dicho recurso.
+
 ### CAPITULO SEXTO. DE LAS NOTIFICACIONES
 
 ###### Artículo 336.
@@ -3743,15 +4671,23 @@ Las resoluciones del Tribunal Electoral del Estado recaídas a los recursos de a
 
 A los órganos electorales cuyo acto o resolución fue impugnado, junto con la notificación le será enviada copia de la resolución.
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 341.
 
-Las resoluciones del Tribunal Electoral del Estado recaídas a los recursos de inconformidad, serán notificadas:
+Las resoluciones recaídas a los recursos de inconformidad y reconsideración, serán notificadas respectivamente:
 
-I.- Al partido político que interpuso el recurso y a los terceros interesados mediante cédula colocada en los estrados del Tribunal a más tardar al día siguiente de que se dicte la resolución; la cédula se acompañará de copia simple de esta última;
+I.- En el caso del recurso de inconformidad:
 
-II.- Al Consejo Electoral del Estado, la notificación se hará mediante oficio, acompañada de copia certificada del expediente de la resolución. Esta documentación se entregará a más tardar dentro de las cuarenta y ocho horas siguientes a la fecha de la resolución, en su respectivo domicilio.
+a) Al partido político que interpuso el recurso y a los terceros interesados mediante cédula colocada en los estrados del Tribunal Electoral del Estado a más tardar al día siguiente de que se dicte la resolución; la cédula se acompañará de copia simple de esta última;
 
-III.- En su caso, a la Oficialía Mayor del Congreso del Estado, la notificación de los recursos de la elección de diputados, para los efectos de instalación, se hará mediante oficio al cual se adjuntará copia certificada de la resolución respectiva, en el término señalado en la fracción anterior.
+b) Al Consejo Electoral del Estado y en su caso, a la Oficialía Mayor del Congreso del Estado, la notificación se hará mediante oficio, acompañada de copia certificada del expediente de la resolución. Esta documentación se entregará a más tardar al día siguiente de que se dicte la resolución, en su respectivo domicilio.
+
+II.- Las resoluciones recaídas a los recursos de reconsideración, serán notificadas:
+
+a) Al partido político que interpuso el recurso y a los terceros interesados mediante cédula colocada en los estrados del Tribunal Electoral del Estado a más tardar al día siguiente de que se dicte la resolución; la cédula se acompañará de copia simple de esta última;
+
+b) Al Consejo Electoral del Estado, al Tribunal Electoral del Estado y en su caso, a la Oficialía Mayor del Congreso del Estado, la notificación se hará mediante oficio, acompañada de copia certificada del expediente de la resolución. Esta documentación se entregará a más tardar al día siguiente de que se dicte la resolución, en su respectivo domicilio.
 
 ###### Artículo 342.
 
@@ -3799,7 +4735,7 @@ III.- Sean interpuestos por quien no tenga legitimación o interés jurídico en
 
 IV.- Sean presentados fuera de los plazos que señala este Código;
 
-V.- No se aporten pruebas en los plazos establecidos en este Código, salvo que se señalen la razones justificadas por las que no obren en poder del promovente. No se requerirá de prueba cuando el recurso verse en forma exclusiva sobre puntos de derecho;
+VI.- (DEROGADA, D.O. 30 DE JUNIO DE 2003)
 
 VI.- No se hayan presentado en tiempo los escritos de protesta o no reúnan los requisitos que señala este Código para que proceda el recurso de inconformidad;
 
@@ -3807,23 +4743,25 @@ VII.- No se señalen agravios o los que se expongan manifiestamente no tengan re
 
 VIII.- Se impugne más de una elección con un mismo recurso.
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 346.
 
-Procede el sobreseimiento de los recursos:
+Procede el sobreseimiento cuando:
 
-I.- Cuando el promovente desista expresamente;
+I.- El promovente se desista expresamente por escrito;
 
-II.- Cuando la autoridad electoral modifique o revoque el acto o la resolución impugnado de tal manera que quede sin materia el recurso; y,
+II.- La autoridad responsable del acto o resolución impugnado lo modifique o revoque, de tal manera que quede totalmente sin materia el medio de impugnación respectivo antes de que se dicte resolución o sentencia; y
 
-III.- Cuando durante el procedimiento aparezca o sobrevenga alguna causal de improcedencia en los términos del artículo que antecede.
+III.- Habiendo sido admitido el medio de impugnación correspondiente, aparezca o sobrevenga alguna causal de improcedencia en los términos del artículo que antecede.
 
 ### CAPITULO NOVENO. DE LA ACUMULACION
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 347.
 
 Podrán acumularse los expedientes de aquellos recursos de revisión o apelación en que se impugne simultáneamente por dos o más partidos políticos el mismo acto o resolución.
-
-El Tribunal Electoral del Estado podrá acumular los expedientes de recursos de inconformidad que a su juicio lo ameriten. Igual facultad tendrá el Tribunal Superior Electoral respecto de los recursos de reconsideración.
 
 Al promoverse el incidente de acumulación el actor señalará la relación que guarde el recurso con otras impugnaciones y si se tratare de aquellas que se promovieron cinco días antes del de la elección.
 
@@ -3835,9 +4773,25 @@ Son objeto de la prueba los hechos controvertibles. No lo será el derecho, los 
 
 El que afirma está obligado a probar. También lo está el que niega, cuando su negación envuelve la afirmación expresa de un hecho.
 
-###### Artículo 349
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
-En materia contencioso electoral sólo podrán ser admitidas pruebas documentales, técnicas cuando por su naturaleza no requieran de perfeccionamiento, presuncionales e instrumental de actuaciones.
+###### Artículo 349.
+
+Para la resolución de los medios de impugnación previstos en este Código, sólo podrán ser ofrecidas y admitidas las pruebas siguientes:
+
+I.- Documentales públicas;
+
+II.- Documentales privadas;
+
+III.- Técnicas;
+
+IV.- Presuncionales legales y humanas; e
+
+V.- Instrumental de actuaciones.
+
+La confesional y la testimonial también podrán ser ofrecidas y admitidas cuando versen sobre declaraciones que consten en acta levantada ante fedatario público que las haya recibido directamente de los declarantes, y siempre que estos últimos queden debidamente identificados y asienten la razón de su dicho.
+
+Los órganos competentes para resolver podrán ordenar el desahogo de reconocimientos o inspecciones judiciales, así como de pruebas periciales, cuando la violación reclamada lo amerite, los plazos permitan su desahogo y se estimen determinantes para que con su perfeccionamiento se pueda modificar, revocar o anular el acto o resolución impugnado.
 
 ###### Artículo 350.
 
@@ -3857,23 +4811,39 @@ Serán documentales privadas todas las demás actas o documentos que aporten las
 
 Se considerarán pruebas técnicas todos aquellos medios de reproducción de imágenes y que tienen por objeto crear convicción en el juzgador acerca de los hechos controvertidos. En estos casos, el aportante deberá señalar concretamente lo que pretende acreditar, identificando plenamente a las personas, los lugares y las circunstancias de modo y tiempo que reproduce la prueba.
 
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 352.
 
-Se entiende por prueba presuncional, además de las que pueda deducir el juzgador de los hechos comprobados, las declaraciones que consten en acta levantada ante el fedatario público que las haya recibido directamente de los declarantes siempre y cuando estos últimos queden debidamente identificados y asienten la razón de su dicho.
+La pericial sólo podrá ser ofrecida y admitida en aquellos medios de impugnación no vinculados al proceso electoral y a sus resultados, siempre y cuando su desahogo sea posible en los plazos legalmente establecidos. Para su ofrecimiento deberán cumplirse los siguientes requisitos:
+
+I.- Ser ofrecida junto con el escrito de impugnación;
+
+II.- Señalarse la materia sobre la que versará la prueba, exhibiendo el cuestionario respectivo con copia para cada una de las partes;
+
+III.- Especificarse lo que pretenda acreditarse con la misma; y
+
+IV.- Señalarse el nombre del perito que se proponga y exhibir su acreditación técnica.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 353.
 
-Los medios de prueba aportados y admitidos serán valorados por los órganos del Instituto y por los Tribunales Electorales, atendiendo a las reglas de la lógica, de la sana crítica y de la experiencia, tomando en cuenta las reglas especiales señaladas en este artículo.
+Los medios de prueba aportados y admitidos serán valorados por el órgano competente para resolver, atendiendo a las reglas de la lógica, de la sana crítica y de la experiencia, tomando en cuenta las disposiciones especiales señaladas en este artículo.
 
 Las documentales públicas tendrán valor probatorio pleno, salvo prueba en contrario, respecto de su autenticidad o de la veracidad de los hechos a que se refieran.
 
-Las documentales privadas, las técnicas, las presuncionales y la instrumental de actuaciones, sólo harán prueba plena cuando a juicio de los órganos del Instituto o de los Tribunales Electorales, los demás elementos que obren en el expediente, los hechos afirmados, la verdad conocida y el recto raciocinio de la relación que guardan entre sí, generen convicción sobre la veracidad de los hechos afirmados.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Las documentales privadas, las técnicas, las presuncionales, la instrumental de actuaciones, la confesional, la testimonial, los reconocimientos o inspecciones judiciales y las periciales, sólo harán prueba plena cuando a juicio del órgano competente para resolver, los demás elementos que obren en el expediente, las afirmaciones de las partes, la verdad conocida y el recto raciocinio de la relación que guardan entre sí, generen convicción sobre la veracidad de los hechos afirmados.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 354.
 
-El promovente aportará con su escrito inicial o dentro del plazo para la interposición de los recursos, las pruebas que obren en su poder.
+El promovente aportará con su escrito inicial o dentro del plazo para la interposición de los medios de impugnación, las pruebas que obren en su poder.
 
-Ninguna prueba aportada fuera de estos plazos será tomada en cuenta al resolver.
+En ningún caso se tomarán en cuenta para resolver las pruebas ofrecidas o aportadas fuera de los plazos legales. La única excepción a esta regla será la de pruebas supervenientes, entendiéndose por tales los medios de convicción surgidos después del plazo legal en que deban aportarse los elementos probatorios, y aquellos existentes desde entonces, pero que el promovente, el compareciente o la autoridad electoral no pudieron ofrecer o aportar por desconocerlos o por existir obstáculos que no estaban a su alcance superar, siempre y cuando se aporten antes del cierre de la instrucción.
 
 ### CAPITULO DECIMO PRIMERO. DE LAS RESOLUCIONES
 
@@ -3885,17 +4855,21 @@ Los recursos de revisión deberán ser resueltos en sesiones públicas por mayor
 
 Los recursos de apelación serán resueltos por mayoría simple de los integrantes del Tribunal Electoral del Estado dentro de los seis días siguientes a aquel en que se admitan.
 
+> <small>(REFORMADO D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 357.
 
 Los recursos de inconformidad serán resueltos por mayoría simple de los integrantes del Tribunal Electoral del Estado, en el orden en que sean listados para cada sesión, en los plazos siguientes:
 
-I.- Los que versen sobre impugnación de la elección de Gobernador, hasta el día anterior al primer día hábil de la tercera semana siguiente a la de la elección; y,
+I.- Los que versen sobre impugnación de la elección de Gobernador, a más tardar siete días después de que conozca el recurso el Tribunal Electoral del Estado; y,
 
-II.- Los que versen sobre impugnación de la elección de diputados y regidores hasta el primer día hábil de la cuarta semana siguiente a la de la elección.
+II.- Los que versen sobre impugnación de la elección de diputados y regidores a más tardar cinco días después de que conozca el recurso el Tribunal Electoral del Estado.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
 
 ###### Artículo 358.
 
-Los recursos de reconsideración serán resueltos por mayoría simple de los integrantes del Tribunal Superior Electoral en el orden que sean listados para cada sesión, en el plazo de siete días contados a partir de la fecha en que se reciba el recurso en el propio Tribunal.
+Los recursos de reconsideración serán resueltos por mayoría simple de los integrantes del Tribunal Superior Electoral en el orden que sean listados para cada sesión, en un plazo máximo de cinco días contados a partir de la fecha en que se reciba el recurso en el propio Tribunal Superior Electoral.
 
 ###### Artículo 359.
 
@@ -4007,27 +4981,43 @@ IV.- Con la suspensión de su registro como partido político; y,
 
 V.- Con la cancelación de su registro como partido político.
 
-Las sanciones a que se refiere el artículo anterior les podrán ser impuestas a los partidos políticos cuando:
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Las sanciones a que se refiere este artículo se podrá imponer a los partidos políticos cuando:
 
 a)Incumplan con las obligaciones señaladas en el artículo 34 y demás disposiciones aplicables en este Código;
 
 b) Incumplan con las resoluciones o acuerdos del Consejo Electoral del Estado, o de los Tribunales Electorales del Estado;
 
-c)No se presenten los informes anuales consignados en la fracción II del artículo 51 de este Código;
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+c) No se presenten los informes anuales consignados en la fracción I, inciso b) del artículo 52 de este Código;
 
 d)Sobrepasen durante una campaña electoral los topes a los gastos señalados en el artículo 167de este Código; y,
 
 e)Incurran en cualquier otra falta de las previstas en este Código.
 
-Cuando la pérdida de registro obedezca a alguna de la causales previstas en el artículo 69, se estará a lo dispuesto en el artículo 72 de este Código.
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+f) Cuando durante las campañas, alguno de sus candidatos, asistan o participen en eventos organizados o realizados por autoridades federales, estatales, municipales o por organismos gubernamentales, en los cuales se ofrezcan o entreguen obras y/o servicios públicos.
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+En el supuesto del inciso anterior, el Instituto Electoral del Estado podrá sancionar tanto al candidato como al partido político, aplicando sanciones graduales, las que se podrán incrementar en la medida de la reincidencia, hasta alcanzar la cancelación del registro.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Cuando la cancelación de registro obedezca a alguna de las causales previstas en el artículo 69, se estará a lo dispuesto en el artículo 72 de este Código.
 
 ###### Artículo 369.
 
 Se impondrá a los medios de comunicación, por violaciones a lo dispuesto en éste Código, una multa de hasta 5 mil salarios mínimos vigentes en la entidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE JUNIO DE 2003)</small>
+
 ###### Artículo 370.
 
-Para los efectos del artículo anterior, el Consejo Electoral del Estado comunicará al Tribunal Electoral del Estado las irregularidades en que haya incurrido un partido político.
+Para los efectos del artículo 368, el Consejo Electoral del Estado comunicará al Tribunal Electoral del Estado las irregularidades en que haya incurrido un partido político.
 
 Recibida la comunicación a que se refiere el párrafo anterior el Tribunal Electoral del Estado emplazará al partido político para que en el plazo de cinco días conteste por escrito lo que a su derecho convenga y aporte las pruebas que considere pertinentes. Sólo se recibirán las pruebas autorizadas por el artículo 349 de este Código y, a juicio del tribunal, la pericial contable. Si el Tribunal pidiere la pericial, ésta será con cargo al partido político.
 
@@ -4041,7 +5031,9 @@ Las resoluciones del Tribunal Electoral del Estado serán definitivas e inatacab
 
 Las multas que fije el Tribunal deberán ser pagadas en la Tesorería del Estado en un plazo improrrogable de quince días contados a partir de la notificación al partido político. En caso de oposición al pago por parte del responsable, se podrá solicitar a la autoridad competente la aplicación del procedimiento de cobro relativo.
 
-Las sanciones previstas en las fracciones de la II a la V del artículo anterior, serán notificadas al Consejo Electoral del Estado para su ejecución.
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2003)</small>
+
+Las sanciones previstas en la (sic) racciones de la II a la V del artículo 368, serán notificadas al Consejo Electoral del Estado para su ejecución.
 
 ###### Artículo 371.
 
@@ -4114,3 +5106,91 @@ SEXTO.- Se deja sin efecto y valor alguno cualquier disposición que contravenga
 D.O. 9 DE AGOSTO DE 2001.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 30 DE JUNIO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los partidos políticos, en un plazo que no podrá exceder del 31 de diciembre de 2003, notificarán al Consejo Electoral del Estado, la integración del órgano interno al que se refiere el artículo 52, del Código Electoral del Estado de Yucatán, reformado conforme al presente Decreto.
+
+Se exceptúan de lo anterior, los partidos políticos nacionales, que podrán inscribirse ante el Instituto Electoral del Estado durante el mes de enero de 2004, en términos del Artículo Décimo Tercero Transitorio del presente Decreto, los que en todo caso, notificarán la integración de dicho órgano interno al momento de inscribirse.
+
+###### ARTÍCULO CUARTO.
+
+Tratándose del financiamiento público que reciban los partidos políticos durante el año 2003, la fiscalización sobre el empleo del mismo, será realizada por el Instituto Electoral del Estado, de conformidad con las disposiciones vigentes del Código Electoral del Estado de Yucatán, hasta antes de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo Electoral del Estado adoptará las medidas necesarias, a efecto de que a partir del mes de enero de 2004, la Coordinación de Administración del Comité Técnico Electoral, cuente con el personal necesario para el ejercicio de sus funciones en materia de fiscalización.
+
+###### ARTÍCULO SEXTO.
+
+La Coordinación de Administración del Comité Técnico Electoral, a más tardar el 31 de diciembre de 2003, deberá tener elaborados los lineamientos a los que se refieren las fracciones I y II del Apartado B del artículo 103, del Código Electoral del Estado de Yucatán, reformado conforme al presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los Consejeros Ciudadanos del Consejo Electoral del Estado, propietarios y suplentes, continuarán en su encargo hasta el día 31 de agosto del año 2006, pudiendo ser ratificados por un período más, en los términos de los artículos 86 y 87, del Código Electoral del Estado de Yucatán, reformado conforme al presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Los Magistrados del Tribunal Electoral del Estado, propietarios y suplentes, continuarán en su encargo, hasta el día 31 de agosto del año 2006, pudiendo ser ratificados por un período más, en los términos del artículo 280 del Código Electoral del Estado de Yucatán, reformado conforme al presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Queda sin efecto el Acuerdo del H. Congreso del Estado de Yucatán, de fecha 15 de agosto del año 2001, publicado en el Diario Oficial del Gobierno del Estado en fecha 16 de agosto del mismo año, por el cual se nombran Consejeros del Poder Legislativo ante el Consejo Electoral del Estado a los Diputados Licenciado Felipe de Jesús Ramírez Burgos y Licenciado en Educación Luis Antonio Hevia Jiménez, como propietarios y Licenciado Robert Gutiérrez Crespo y Médico Veterinario Zootecnista José María Fernández Medina, como suplentes.
+
+###### ARTÍCULO DÉCIMO.
+
+Para las elecciones a Diputados y Regidores, a celebrarse el año de 2004, se aplicarán las disposiciones contenidas en los Decretos 283 y 284, emitidos por el H. Congreso del Estado, y publicados en el Diario Oficial del Gobierno del Estado de fecha 19 de mayo del año 2003.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Las prerrogativas a que tengan derecho los partidos políticos, relacionadas con el acceso a los medios de comunicación, en los términos expresados en los artículos del 45 al 49, del Código Electoral del Estado de Yucatán, reformados conforme al presente Decreto, podrán ser ejercidas a partir del mes de enero del año 2004.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+El Consejo Electoral del Estado, en la elaboración del proyecto de Presupuesto de Egresos del Instituto Electoral del Estado para el año 2004, con motivo de la entrada en vigor del presente Decreto, deberá prever, entre otras erogaciones:
+
+I.- Las que por concepto de retribución económica recibirán, a partir del mes de enero del año 2004, los Consejeros Ciudadanos en funciones, del Consejo Electoral del Estado, en términos de lo dispuesto en el artículo 87 del Código Electoral del Estado de Yucatán, reformado conforme al presente Decreto;
+
+II.- Las que por concepto de retribución económica recibirán, a partir del mes de enero del año 2004, los representantes de los partidos políticos, ante dicho órgano electoral, en términos de lo dispuesto en el artículo 89, del Código Electoral del Estado de Yucatán, reformado conforme al presente Decreto;
+
+III.- Las que por concepto de servicios personales se generen a partir de la contratación del personal técnico especializado asignado a la Coordinación de Administración del Comité Técnico Electoral; y
+
+IV.- Las que se relacionen con las prerrogativas y el financiamiento público a los que tienen derecho los partidos políticos de conformidad con lo establecido en el Código Electoral del Estado de Yucatán, reformado conforme al presente Decreto.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+A la entrada en vigor del presente Decreto, los partidos políticos nacionales que hubieren obtenido su registro ante el Instituto Federal Electoral con posterioridad al mes de septiembre del año 2000, o que teniendo registro vigente, no lo hubieran inscrito durante el mes de septiembre de dicho año, podrán inscribirse ante el Instituto Electoral del Estado durante el mes de enero de 2004, para efecto de que a partir de la fecha de su inscripción, puedan gozar de los derechos y prerrogativas que otorga a los partidos políticos el Código Electoral del Estado de Yucatán.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Los partidos políticos que participaron en las elecciones locales del año 2001, en tanto mantengan vigente su inscripción o su registro ante el Instituto Electoral del Estado, recibirán durante el año 2004, financiamiento público conforme a lo previsto en el Apartado A del artículo 51, del Código Electoral del Estado de Yucatán, reformado conforme al presente Decreto.
+
+Para efecto del párrafo anterior, y específicamente para determinar el monto del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes y para las actividades tendientes a la obtención del voto les corresponderá para el año 2004 a los partidos políticos, y con el objeto de que se consigne dicho monto en el Presupuesto de Egresos del Instituto Electoral del Estado para ese año, el Comité Técnico Electoral, deberá:
+
+I.- Determinar el monto total del financiamiento para el sostenimiento de las actividades ordinarias permanentes de los partidos políticos, multiplicando un salario y medio mínimo general diario vigente en la ciudad de Mérida al mes de septiembre de 2003, por el número total de ciudadanos que emitieron su voto en la elección local de diputados por el principio de mayoría relativa, celebrada en el año 2001;
+
+II.- De la cantidad total que resulte de acuerdo con lo señalado en la fracción anterior, un 40% se distribuirá entre los partidos políticos en forma igualitaria y el 60% restante, se distribuirá entre los mismos de acuerdo al porcentaje de votos que hubieren obtenido en la elección de diputados por el principio de mayoría relativa, celebrada en el año 2001;
+
+III.- Determinado el financiamiento público para el sostenimiento de sus actividades ordinarias permanentes que corresponda a cada partido político, el equivalente al 40% de dicho financiamiento, será el que recibirán durante el año 2004;
+
+IV.- El financiamiento para las actividades tendientes a la obtención del voto, que recibirá cada partido político para el año 2004, será el equivalente al 75% del monto del financiamiento, que para el sostenimiento de sus actividades ordinarias permanentes recibirán los partidos políticos en ese mismo año; y
+
+V.- El financiamiento que se otorgue a los partidos políticos en el año 2004, sustituirá al que hubiere sido calculado conforme a las disposiciones vigentes del Código Electoral del Estado de Yucatán, hasta antes de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+El Presidente del Tribunal Electoral del Estado, al elaborar el proyecto de Presupuesto de Egresos para el año 2004, deberá prever la retribución a que tendrán derecho los Magistrados del Tribunal Electoral del Estado, a partir del mes de enero de 2004, de conformidad con lo expresado en el artículo 284, del Código Electoral del Estado de Yucatán, reformado conforme al presente Decreto.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El Tribunal Electoral del Estado, deberá expedir su reglamento interno, a más tardar el día 30 de septiembre de 2003, y deberá publicarse en el Diario Oficial del Gobierno del Estado de Yucatán.
