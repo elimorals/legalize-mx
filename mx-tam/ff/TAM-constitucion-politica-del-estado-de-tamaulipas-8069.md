@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1977-01-22"
+last_updated: "1977-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 1977.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -231,11 +231,11 @@ El Poder Público se divide para su ejercicio en Legislativo, Ejecutivo y Judici
 
 Los Poderes del Estado residirán en Ciudad Victoria.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 1968)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1977)</small>
 
 ###### Art. 24.
 
-La residencia de los Poderes únicamente podrá cambiarse por resolución del Congreso, aprobada por nueve de sus miembros presentes.
+La residencia de los Poderes únicamente podrá cambiarse por resolución del Congreso, aprobada por doce de sus miembros.
 
 ## TITULO IV. DEL PODER LEGISLATIVO
 
@@ -245,11 +245,11 @@ La residencia de los Poderes únicamente podrá cambiarse por resolución del Co
 
 El ejercicio de las funciones propias del Poder Legislativo, se encomienda a una asamblea que se denominará: "Congreso del Estado libre y soberano de Tamaulipas."
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 1968)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1977)</small>
 
 ###### Art. 26.
 
-El Congreso se compondrá de 11 Diputados Propietarios. Por cada Diputado Propietario se elegirá un Suplente.
+El Congreso se compondrá de catorce Diputados Propietarios. Por cada Diputado Propietario se elegirá un Suplente.
 
 ###### Art. 27.
 
@@ -357,11 +357,11 @@ En caso de que una u otra ocurran después del término establecido a juicio del
 
 Entre tanto se verifique la elección a que se refiere el artículo anterior y si no pudiere integrarse el quórum legal, la Junta de Diputados llamará al Suplente que a su juicio puede concurrir con más prontitud, cesado éste tan luego como se presente otro Diputado que complete el quórum.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 1968)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1977)</small>
 
 ###### Art. 37.
 
-La Legislatura requiere para el ejercicio de sus funciones, la asistencia de 9 Diputados por lo menos. No habiendo la mayoría requerida, los Diputados que asistan, cualquiera que sea su número, deberán reunirse los días señalados por la Ley y compeler a los ausentes a que concurran dentro de los 30 días siguientes, con la advertencia de que, si no lo hacen, ni acreditan debidamente ante el Congreso dentro del mismo término, que fuerza mayor, caso fortuito, u otra causa los imposibilita, se entenderá por ese solo hecho que renuncian al cargo y se convocará a nueva elección. En tanto transcurren los 30 días concedidos a los Diputados Propietarios, serán citados los Suplentes respectivos para integrar el quorum; y si fenece el mencionado término sin obtenerse la comparecencia de los Suplentes, se llamará a éstos con el apercibimiento de declarar vacante el cargo si no concurren dentro de 15 días, convocándose a elecciones para cubrir la vacante.
+La Legislatura requiere para el ejercicio de sus funciones, la asistencia de doce Diputados por lo menos. No habiendo la mayoría referida los Diputados que asistan, cualquiera que sea su número, deberán reunirse en los días señalados por la Ley y compeler a los ausentes a que concurran dentro de los treinta días siguientes con la advertencia de que si no lo hacen ni acreditan debidamente ante el Congreso dentro del mismo término, que fuerza mayor, caso fortuito u otra causa los imposibilita se entenderá por ese sólo hecho que renuncia el cargo y se convocará a nueva elección. Entre tanto transcurren los treinta días concedidos a los Diputados Propietarios, serán citados los Suplentes respectivos para integrar el quórum, y si fenece el mencionado término sin obtenerse la comparecencia de los Suplentes se llamará nuevamente a éstos con el apercibimiento de declarar vacante el cargo si no concurren dentro de quince días, convocándose a elecciones para cubrir la vacante.
 
 ###### Art. 38.
 
@@ -719,11 +719,11 @@ El Reglamento interior del Congreso prescribirá las reglas que deben observarse
 
 Ningún proyecto de ley que fuere desechado podrá volverse a presentar en el mismo período de sesiones.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 1968)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1977)</small>
 
 ###### Art. 68.
 
-Los proyectos e iniciativas, adquirirán el carácter de ley o decreto, cuando sean aprobados por 6 Diputados presentes, y entrarán en vigor en la fecha que determine el Congreso, y en caso contrario, a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+Los proyectos e iniciativas adquirirán el carácter de Ley o Decreto, cuando sean aprobados por ocho de los Diputados presentes y entrarán en vigor en la fecha que determine el Congreso, y en caso contrario a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 ###### Art. 69.
 
@@ -737,11 +737,11 @@ Si al cerrarse el período de sesiones no se hubiere cumplido el término conced
 
 Si el Gobernador hace observaciones a algún proyecto, lo devolverá al Congreso dentro del término fijado, manifestando por escrito las razones que tenga que oponer. El Congreso discutirá por segunda vez el proyecto y el Ejecutivo podrá nombrar el representante que quiera para que asista con voz y sin voto a la discusión.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1977)</small>
 
 ###### Art. 72.
 
-Concluída esta se votará un proyecto de escrutinio secreto y se tendrá por aprobado con el voto de cinco de los Diputados presentes.
+Concluída ésta se votará un proyecto de escrutinio secreto y se tendrá por aprobado con el voto de ocho de los Diputados presentes.
 
 ###### Art. 73.
 
@@ -849,19 +849,19 @@ El Congreso, dentro de los diez primeros días de sus sesiones ordinarias del a�
 
 La elección de Gobernador prefiere a cualquiera otra. Sólo es renunciable este cargo por causa grave, que calificará el Congreso.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1977)</small>
 
 ###### Art. 83.
 
-Si no hubiere habido elección de Gobernador, si se hubiere hecho y publicado para el día cuatro de febrero o el nuevamente electo no sé presentare a tomar posesión de su cargo cesará sin embargo el anterior, y el Poder Ejecutivo se depositará interinamente en el ciudadano que nombre el Congreso o la Diputación Permanente constituídos aquel o esta en su caso en sesión permanente y secreta por cinco del número total de sus miembros si se tratare del Congreso o por mayoría si se tratare de la Diputación Permanente.
+Si no hubiere habido elección de Gobernador, si se hubiere hecho y publicado para el día 4 de febrero o el nuevamente electo no se presentare a tomar posesión de su cargo cesará sin embargo el anterior, y el Poder Ejecutivo se depositará interinamente en el ciudadano que nombre el Congreso o la Diputación Permanente constitucional aquél o ésta, en su caso, en sesión permanente y secreta por doce del número total de sus miembros si se tratare del Congreso o por mayoría si se tratare de la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 1968)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1977)</small>
 
 ###### Art. 84.
 
-En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar a formación de causa ya sea por violación a la presente Constitución o por delito del orden común, o ya por violación a la Constitución Federal y Leyes que de ella emanen, en los casos de la competencia de las Cámaras Federales, si ocurriere la falta dentro de los tres primeros años del período, el Congreso Local, constituído en sesión permanente y secreta nombrará por el voto cuando menos de nueve del número total de sus miembros, un Gobernador Interino que promulgará el Decreto que se expida conforme a la Fracción XLIX del Artículo 58 de esta Constitución. El Congreso convocará a elecciones dentro de los 10 días siguientes a la toma de posesión del Gobernador Interino nombrado. El Gobernador que resulte electo durará todo el tiempo que falte para completar el período. Si los hechos tuvieren lugar dentro de los últimos 3 años del período, no se convocará a nuevas elecciones y la persona designada por el Congreso durará en funciones de Gobernador hasta terminar el período.
+En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar a formación de causa ya sea por violación a la presente Constitución o por delito del orden común, o ya por violación a la Constitución Federal y Leyes que de ella emanen en los casos de la competencia de las Cámaras Federales, si ocurriere la falta dentro de los tres primeros años del período, el Congreso Local, constituído en sesión permanente y secreta, nombrará, por el voto cuando menos de doce del número total de sus miembros, un Gobernador Interino que promulgará el Decreto que se expida conforme a la Fracción XLIX del artículo 58 de esta Constitución.
 
-Si el Congreso está en receso, la Comisión Permanente, por el voto de la mayoría de sus miembros en los términos que se indican, convocará desde luego al mismo Congreso, a sesiones extraordinarias para que éste ratifique o revoque dicho nombramiento, procederá a designar Gobernador Interino para que se haga cargo del Poder Ejecutivo mientras toma posesión el Gobernador Substituto que resulte electo.
+El Congreso convocará a elecciones dentro de los diez días siguientes a la toma de posesión del Gobernador Interino nombrado. El Gobernador que resulte electo durará todo el tiempo que falte para completar el período. Si los hechos tuvieren lugar dentro de los últimos tres años del período, no se convocará a nuevas elecciones y la persona designada por el Congreso durará en funciones de Gobernador hasta terminar el período. Si el Congreso está en receso, la Comisión Permanente, por el voto de la mayoría de sus miembros, en los términos que se indican convocará desde luego al mismo Congreso a sesiones extraordinarias para que éste ratifique o revoque el nombramiento hecho por la Permanente. En caso de que el H. Congreso revoque dicho nombramiento, procederá a designar Gobernador Interino para que se haga cargo del Poder Ejecutivo mientras toma posesión el Gobernador Substituto que resulte electo.
 
 ###### Art. 85.
 
@@ -1477,17 +1477,17 @@ Del fuero de los altos funcionarios.
 
 El Gobernador del Estado, los Diputados al Congreso y los suplentes en ejercicio, son responsables de los delitos de orden común que cometan durante el desempeño del mismo.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 1968)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1977)</small>
 
 ###### Art. 150.
 
-Cuando se acuse de un delito del orden común a alguno de los funcionarios enumerados en el Artículo anterior, el Congreso erigido en Gran Jurado y a votación cuando menos de nueve de los miembros que concurran declarará si ha lugar o no a proceder en contra del acusado. Si la declaración fuese negativa no habrá lugar a ningún procedimiento ulterior; pero tal declaración no será obstáculo para que una vez que el acusado haya dejado de tener fuero, se continúe la averiguación, comenzando entonces la prescripción, pues la resolución del Congreso no prejuzga la culpabilidad o inculpabilidad del acusado. Si la resolución fuere que ha lugar a proceder, el acusado quedará separado de su cargo y a la disposición de la autoridad judicial competente para juzgarlo.
+Cuando se acuse de un delito de orden común a alguno de los funcionarios enumerados en el artículo anterior, el Congreso, erigido en Gran Jurado y a votación cuando menos de doce de los miembros que concurran, declarará si ha lugar o nó a proceder en contra del acusado. Si la declaración fuese negativa no habrá lugar a ningún procedimiento ulterior; pero tal declaración no será obstáculo para que una vez que el acusado haya dejado de tener fuero, se continúe la averiguación, comenzando entonces la prescripción, pues la resolución del Congreso no prejuzga la culpabilidad o inculpabilidad del acusado. Si la resolución fuere que ha lugar a proceder, el acusado quedará separado de su cargo y a la disposición de la autoridad judicial competente para juzgarlo.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 1968)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1977)</small>
 
 ###### Art. 151.
 
-Si fuere el delito de que se acusa al funcionario que goza de fuero, y después de que el Congreso haya declarado por votación cuando menos de nueve de los miembros presentes, que ha lugar a proceder, el acusado quedará separado de su encargo y a la disposición del Supremo Tribunal de Justicia, que es la autoridad competente para juzgarlo.
+Si fuere oficial el delito de que se acusa al funcionario que goza de fuero, y después de que el Congreso haya declarado por votación cuando menos de doce de los miembros presentes que ha lugar a proceder, el acusado quedará separado de su encargo y a la disposición del Supremo Tribunal de Justicia, que es la Autoridad competente para juzgarlo.
 
 ###### Art. 152.
 
@@ -1555,11 +1555,11 @@ En todas las Escuelas de Instrucción Primaria Elemental, Superior y Normal, ser
 
 ### CAPITULO I. De las reformas a la Constitución
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 1968)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1977)</small>
 
 ###### Art. 165.
 
-Esta Constitución podrá ser reformada y adicionada; pero para que las adiciones y reformas lleguen a ser parte de la misma, se requiere que previamente sea tomada en cuenta la Iniciativa de reformas o adición por la declaratoria de la mayoría de los Diputados presentes y que sea aprobada cuando menos por nueve de los miembros del Congreso.
+Esta Constitución podrá ser reformada y adicionada, pero para que las adiciones y reformas lleguen a ser parte de la misma se requiere que previamente sea tomada en cuenta la Iniciativa de reformas o adición por la declaratoria de la mayoría de los Diputados presentes y que sea aprobada cuando menos por doce de los miembros del Congreso.
 
 ### CAPITULO II. De la Inviolabilidad de la Constitución
 
@@ -1966,3 +1966,7 @@ P.O. 22 DE ENERO DE 1977.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La presente modificación a la Constitución Política tendrá vigor por una sola vez, por lo que rendido el Informe y pasadas las fechas que menciona, seguirá en vigor el texto anterior.
+
+P.O. 13 DE AGOSTO DE 1977.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
