@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1992-06-01"
+last_updated: "1993-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 1993.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -915,6 +915,18 @@ El Procurador General de Justicia no podrá desempeñar ningún otro cargo, empl
 
 La Ley Orgánica de la Procuraduría General de Justicia, reglamentará tanto a este órgano como a la Institución del Ministerio Público.
 
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE ENERO DE 1993)</small>
+
+#### SECCION II BIS. DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 1993)</small>
+
+###### Art. 77 Bis.
+
+Para conocer de las quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público del Estado o los Municipios, con excepción de los del Poder Judicial del Estado, violatorios de los derechos humanos, se establece una Comisión Estatal de Protección a los Derechos Humanos, cuya estructura, competencia y funcionamiento se establecerán en la Ley Orgánica respectiva.
+
+Este organismo formulará recomendaciones públicas autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas y no será competente tratándose de asuntos electorales, laborales y jurisdiccionales.
+
 #### SECCION III. DE LA DEFENSORIA DE OFICIO
 
 > <small>(REFORMADO, P.O. 3 DE MAYO DE 1938)</small>
@@ -922,12 +934,6 @@ La Ley Orgánica de la Procuraduría General de Justicia, reglamentará tanto a 
 #### SECCION IV. DE LA HACIENDA PUBLICA
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 1963)</small>
-
-#### SECCION IV BIS. Art. 89 A. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
-
-Art. 89 B. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
-
-Art. 89 C. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
 
 ###### Art. 78.
 
@@ -941,9 +947,11 @@ El personal de la Defensoría de Oficio dependerá directamente del Gobernador d
 
 La Defensoría de Oficio se sujetará a las normas y lineamientos que señale el Reglamento respectivo.
 
-#### SECCION V. DE LA ENSEÑANZA PUBLICA
+#### SECCION IV BIS. Art. 89 A. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+Art. 89 B. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
+
+Art. 89 C. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
 
 ###### Art. 80.
 
@@ -995,13 +1003,13 @@ El Gobernador del Estado no podrá negarse a autorizar el pago de las órdenes l
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE ABRIL DE 1963)</small>
 
+#### SECCION V. DE LA ENSEÑANZA PUBLICA
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+
 #### SECCION I. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
 
 > <small>(REFORMADO, P.O. 22 DE ENERO DE 1990)</small>
-
-#### SECCION II. DE LOS JUECES DE 1ª INSTANCIA Y MENORES
-
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 90.
 
@@ -1031,9 +1039,9 @@ El Poder Judicial se ejercerá en el Estado por el Supremo Tribunal de Justicia,
 
 Los Magistrados y los Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
-#### SECCION III. DEL JURADO DE RESPONSABILIDADES
+#### SECCION II. DE LOS JUECES DE 1ª INSTANCIA Y MENORES
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 94.
 
@@ -1156,6 +1164,10 @@ X. Las demás que le confieran las leyes.
 ###### Art. 105.
 
 El Poder Judicial juzgará en todos los asuntos de su competencia, conforme con la Constitución General de la República, la particular del Estado y las leyes que de una y otra emanen, de preferencia a las leyes secundarias aunque éstas sean posteriores.
+
+#### SECCION III. DEL JURADO DE RESPONSABILIDADES
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
 
 ###### Art. 106.
 
@@ -2446,3 +2458,13 @@ P.O. 1 DE JUNIO DE 1992.
 ###### ARTICULO UNICO.
 
 El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 29 DE ENERO DE 1993.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+El Congreso del Estado dispondrá de un término de 45 (cuarenta y cinco) días siguientes a la entrada en vigor de este Decreto, para expedir la Ley Orgánica respectiva.
