@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2001-10-23"
+last_updated: "2002-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2002.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -147,7 +147,7 @@ VII.- Por separarse del territorio del Estado por un tiempo mayor de un año. En
 
 ### CAPITULO CUARTO. DE LA COMISION PERMANENTE
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 7º
 
@@ -285,7 +285,7 @@ Los derechos de los indígenas que esta Constitución consagra deberán ser prot
 
 ### CAPITULO SEGUNDO. DE LA ORGANIZACION DEL PODER EJECUTIVO
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 14.
 
@@ -341,6 +341,10 @@ Ningún partido tendrá derecho a que le sean reconocidos más de veinticuatro d
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTICULO 17.
 
 Para ser diputado estatal se requiere:
@@ -367,6 +371,10 @@ IV.- Haber residido en el Estado cuando menos cinco años anteriores a dicha ele
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
+### CAPITULO SEGUNDO. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTICULO 18.
 
 No podrán ser electos diputados estatales:
@@ -383,9 +391,9 @@ II.- Los funcionarios que a continuación se indican, si no se separan definitiv
 
 A) El Secretario de Gobierno, los Secretarios de Despacho, los Subsecretarios de Gobierno, el Oficial Mayor de Gobierno, el Procurador y los Subprocuradores Generales de Justicia, el Presidente de la Junta Local de Conciliación y Arbitraje, y los Directores dependientes del Ejecutivo;
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
-B) Los Magistrados del Supremo Tribunal de Justicia del Estado y los Jueces de primera instancia;
+B) Los Magistrados y Consejeros de la Judicatura del Poder Judicial del Estado; y los Jueces de Primera Instancia;
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -399,37 +407,63 @@ D) Los funcionarios federales; y
 
 E) Los militares en servicio activo y quienes tengan mando de la Policía en el Distrito donde se efectúe la elección.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 19.
 
-La preparación, organización, desarrollo y vigilancia de los procesos electorales, es una función estatal que se realiza a través de un organismo público denominado Instituto Estatal Electoral y un Tribunal Electoral del Estado, de cuya integración son corresponsables, el Poder Legislativo y los ciudadanos en los términos que ordene esta Constitución. Ambos con personalidad jurídica y patrimonio propios, con plena autonomía en su funcionamiento e independencia en sus decisiones y con carácter de Permanentes que serán además encargados de la calificación de las elecciones en el ámbito de sus respectivas competencias.
+La preparación, organización, desarrollo y vigilancia de los procesos electorales, son funciones estatales que se realizan a través de un organismo público denominado Instituto Estatal Electoral y un Tribunal Electoral del Poder Judicial del Estado, de cuya integración son corresponsables, el Poder Legislativo y los ciudadanos en los términos que ordene esta Constitución. Ambos contarán con personalidad jurídica y patrimonio propios, con plena autonomía en su funcionamiento e independencia en sus decisiones y cuyo carácter será de permanentes que serán además encargados de la calificación de las elecciones en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
 La certeza, legalidad, independencia, objetividad, imparcialidad, serán principios rectores en el ejercicio de la función electoral.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
+
 El Instituto Estatal Electoral de Chiapas será autoridad en la materia y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos y técnicos. El Consejo General será su órgano máximo de dirección y responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar por que las actividades del instituto se guíen por los principios rectores de la función estatal electoral, se integrará por un Consejero Presidente y ocho Consejeros Electorales con voz y voto, y concurrirán, además, con voz pero sin voto, los representantes de los partidos políticos y un Secretario Ejecutivo. Así mismo habrá seis consejeros electorales suplentes en orden de prelación. La Ley determinará las reglas para la organización y funcionamiento de sus órganos, así como las relaciones de mando entre éstos. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral.
 
-El Tribunal Electoral del Estado de Chiapas será máxima autoridad jurisdiccional en la materia; tendrá competencia y organización para funcionar en pleno y en salas, y sus sesiones serán públicas. Las resoluciones del Tribunal serán emitidas con plenitud de jurisdicción; y sus fallos serán definitivos. Estará integrado por cinco magistrados numerarios, uno de los cuales fungirá como Presidente y por dos Magistrados Supernumerarios que harán las veces de Jueces Instructores.
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
 El Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, así como los Magistrados del Tribunal Electoral serán elegidos por el Congreso del Estado o por la Comisión Permanente, en los recesos de éste, por el voto de las dos terceras partes de sus miembros presentes, de entre las propuestas que formulen las fracciones parlamentarias. Durarán en el cargo siete años, pudiendo ser reelectos para otro período y no podrán tener otro empleo, cargo o comisión, con excepción de aquellos que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia pública, no remunerados. El Secretario Ejecutivo del Instituto será nombrado por el voto de las dos terceras partes del Consejo General a propuesta de su Presidente.
 
-La legislación electoral establecerá los requisitos que deberán reunir para su designación el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, así como los Magistrados del Tribunal Electoral, los que estarán sujetos al régimen de responsabilidades establecido en el Título Noveno de esta Constitución.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
+La legislación electoral establecerá los requisitos que deberán reunir para su designación el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral; la Ley Orgánica del Poder Judicial del Estado, determinará los requisitos que deberán reunir los Magistrados del Tribunal Electoral del Poder Judicial del Estado, los que estarán sujetos al régimen de responsabilidades establecidas en el Título Noveno de esta Constitución.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
 El Instituto Estatal Electoral tendrá a su cargo en forma integral y directa, además de las que determine la legislación electoral, las actividades relativas a la capacitación y educación cívica, los derechos y prerrogativas de las asociaciones y partidos políticos, impresión de materiales electorales, preparación de la jornada electoral, la calificación de las elecciones y entrega de las constancias de mayoría o asignación respectivas en los términos que señale la Ley, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
+
 Los partidos políticos son entidades de interés público; la Ley determinará los fines, derechos, prerrogativas, obligaciones y responsabilidades que con tal carácter les correspondan, así como las formas específicas de su intervención en los procesos electorales estatales. Los partidos políticos nacionales derivado de su participación en las elecciones estatales o municipales gozarán de los mismos derechos y prerrogativas, y tendrán las mismas obligaciones y responsabilidades dispuestos en la ley para los partidos políticos estatales.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
 La Ley Electoral establecerá, de acuerdo con las disponibilidades presupuestales, las reglas y criterios a que se sujetará la determinación y distribución del financiamiento público de los partidos políticos, garantizando que reciban en forma equitativa financiamiento público para su sostenimiento y sus actividades tendientes a la obtención del voto durante los procesos electorales.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
+
 La legislación electoral establecerá las reglas a que se sujetará el financiamiento de los partidos políticos que no provenga del erario público; los criterios para determinar los límites a las erogaciones en sus campañas electorales, los montos máximos que tengan las aportaciones de sus simpatizantes, debiendo garantizar que el financiamiento público prevalezca sobre el de carácter privado; los procedimientos de control y vigilancia del origen, uso y destino de todos los recursos con que cuentan los partidos políticos; y señalará las sanciones por el incumplimiento a las disposiciones expedidas en la materia.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
 La legislación electoral garantizará el acceso permanente de los partidos políticos, en forma equitativa, a los medios de comunicación social, de acuerdo con las formas y términos que establezca la misma.
 
-La ley electoral establecerá un sistema de medios de impugnación, para garantizar que los actos de los organismos electorales, se ajusten invariablemente al principio de legalidad y a lo dispuesto por esta Constitución y en las leyes que de ella emanen. Dicho sistema fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el Principio de Definitividad de las etapas de los procesos electorales. De las impugnaciones conocerán el Instituto Estatal Electoral y el Tribunal Electoral del Estado. En materia electoral la interposición de los medios de impugnación legales no producirán efectos suspensivos sobre la resolución o el acto impugnado.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
+La Legislación Electoral establecerá un sistema de medios de impugnación, para garantizar que los actos de los organismos electorales, se ajusten invariablemente al principio de legalidad y a lo dispuesto por esta Constitución y en las leyes que de ella emanen. Dicho sistema fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales. De las impugnaciones conocerán el Instituto Estatal Electoral y el Tribunal Electoral del Poder Judicial del Estado. En materia electoral la interposición de los medios de impugnación legales no producirán efectos suspensivos sobre la resolución o el acto impugnado.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
 La ley respectiva tipificará los delitos y determinará las faltas y responsabilidades en materia electoral, así como las sanciones que por ellos deban imponerse.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+
+### CAPITULO TERCERO. DEL NOMBRAMIENTO DE LOS FUNCIONARIOS JUDICIALES
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 20.
 
@@ -495,6 +529,10 @@ La infracción de esta disposición será sancionada con la pérdida del cargo d
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
+### CAPITULO CUARTO. DEL CONTROL CONSTITUCIONAL
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTICULO 27.
 
 El derecho de iniciar Leyes o Decretos compete:
@@ -534,6 +572,10 @@ El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Cong
 Tampoco podrá hacerlas al Decreto de Convocatoria a sesiones extraordinarias que expida la Comisión Permanente.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+
+### CAPITULO QUINTO. DEL CONSEJO DE LA JUDICATURA
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 29.
 
@@ -591,9 +633,9 @@ XXI.- Prorrogar el periodo de sesiones ordinarias por el tiempo que lo requieran
 
 XXII.- Nombrar y remover libremente a sus funcionarios y empleados de confianza;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 1994)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
-XXIII.- Otorgar o negar la aprobación de los nombramientos de Magistrados que se someta a su consideración conforme a esta Constitución y las leyes secundarias;
+XXIII.- Otorgar o negar la aprobación de los nombramientos de Magistrados del Poder Judicial del Estado, que se someta a su consideración conforme a esta Constitución y las Leyes secundarias;
 
 XXIV.- Conceder licencia al Gobernador y a los Diputados para separarse de su cargo, en los términos de esta Constitución;
 
@@ -653,9 +695,9 @@ XLV.- Sancionar las licencias mayores de quince días que soliciten los integran
 
 XLVI.- Expedir todas las leyes que sean necesarias con objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los otros Poderes del Estado;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
-XLVII.- Instituir el Tribunal Electoral del Estado, así como el Instituto Estatal Electoral, en los términos de lo dispuesto por esta Constitución y el Código Electoral;
+XLVII.- Instituir al Tribunal Electoral del Poder Judicial del Estado, así como al Instituto Estatal Electoral, en los términos de lo dispuesto por esta Constitución y demás legislación aplicable;
 
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2000)</small>
 
@@ -707,6 +749,8 @@ El Poder Ejecutivo del Estado, aplicará el procedimiento administrativo de ejec
 
 ###### ARTICULO 31.
 
+El día en que deban terminar las sesiones ordinarias, el Congreso mediante votación secreta, nombrará para el tiempo de su receso, una Comisión Permanente, que se integrará de siete diputados propietarios y sus respectivos sustitutos.
+
 Son atribuciones de la Comisión Permanente:
 
 I.- Convocar al Congreso a sesiones extraordinarias conforme al Artículo 23 o a moción del Ejecutivo; pudiendo hacer la convocatoria para lugar distinto a la capital del Estado, en cualquier caso que lo amerite;
@@ -721,7 +765,7 @@ V.- Resolver todos los asuntos concernientes a las elecciones de funcionarios mu
 
 VI.- Conocer de los asuntos relacionados con la hacienda de los municipios y revisar y aprobar sus cuentas;
 
-VII.- Otorgar o negar su aprobación a los nombramientos de Magistrados que sometan a su consideración y en su caso recibirles la protesta;
+VII.- Otorgar o negar la aprobación de los nombramientos de Magistrados del Poder Judicial del Estado que sometan a su consideración y en su caso recibirles la protesta;
 
 VIII.- Nombrar Gobernador Interino o Provisional en los supuestos a que se refiere esta Constitución y recibir su protesta;
 
@@ -775,7 +819,7 @@ VI.- No haber ocupado en el período inmediato anterior el cargo de gobernador p
 
 ## TITULO SEXTO. DEL PODER JUDICIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MARZO DE 1998)</small>
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 36.
 
@@ -907,9 +951,9 @@ XIX.- Presentar al Congreso del Estado, en el último cuatrimestre del año resp
 
 XX.- Facilitar al poder judicial los auxilios que necesite para el ejercicio expedito de sus funciones;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 1994)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
-XXI.- Someter a consideración del Congreso o de la Comisión Permanente, los nombramientos de Magistrados;
+XXI.- Someter a consideración del Congreso o de la Comisión Permanente, los nombramientos de Magistrados del Supremo Tribunal y el respectivo del Tribunal del Servicio Civil del Poder Judicial del Estado;
 
 XXII.- Nombrar y remover libremente a los empleados y funcionarios de la Administración Pública del Estado de Chiapas, respetando en todo caso los derechos que les asistan conforme a la Legislación aplicable;
 
@@ -935,15 +979,25 @@ XXVIII.- Las demás que le confiera expresamente esta Constitución.
 
 ###### ARTICULO 43.
 
-Para el despacho de los asuntos administrativos del Estado, habrá las Secretarías, Dependencias y Entidades que establezca la Ley Orgánica de la Administración Pública del Estado, la que señalará las funciones que a cada una correspondan y los requisitos que deban reunir sus titulares.
+Para el despacho de los asuntos administrativos del Estado, habrá las Secretarías, Dependencias, Consejería Jurídica y Entidades que establezca la Ley Orgánica de la Administración Pública del Estado, la que señalará las funciones que a cada una correspondan y los requisitos que deban reunir sus titulares.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
 Los Secretarios del despacho y los titulares de las dependencias y entidades deberán:
 
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+
 I.- Ser mayores de 30 años al momento de su designación;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
 
 II.- No pertenecer al estado eclesiástico;
 
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+
 III.- No haber cometido delito grave intencional alguno;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
 
 IV.- Satisfacer los demás requisitos que señale la Ley Orgánica de la Administración Pública del Estado.
 
@@ -981,7 +1035,13 @@ El Procurador General de Justicia y demás funcionarios serán responsables de t
 
 La investigación y persecución de los delitos incumbe al ministerio público, el cual se auxiliará con una policía que estará bajo su autoridad y mando inmediato, por lo tanto corresponde al ministerio público solicitar las ordenes de aprehensión de los inculpados, buscar y presentar las pruebas bastantes que acrediten los elementos que integran el cuerpo del delito; así como la probable responsabilidad del indiciado y pedir la aplicación de las penas, asegurar bienes, objetos, instrumentos o productos del delito y solicitar su decomiso; dispondrá de las acciones y procedimientos necesarios para otorgar asesoría y protección a la víctima o al ofendido, cuidando que se satisfaga, en términos de ley, la reparación del daño; en su caso, cuando proceda legalmente determinar el no ejercicio de la acción penal, desistir de ella o promover la libertad del acusado; así mismo, velará porque los juicios se tramiten con apego a la ley para que la justicia sea completa, imparcial, y expedita e intervendrá en todos los asuntos que la Ley determine.
 
-La Ley Orgánica determinará la integración de la institución. El Procurador General de Justicia será el Consejero Jurídico del Ejecutivo e intervendrá por sí o por medio de sus funcionarios o agentes en todos los asuntos en que el Estado sea parte, salvo disposición en contrario.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
+La Ley Orgánica determinará la integración de la Institución. El Procurador General de Justicia intervendrá por sí o por medio de sus funcionarios o agentes en todos los asuntos en que el Estado sea parte, salvo disposición en contrario.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
+La función de Consejero Jurídico del Gobernador del Estado, estará a cargo de la Dependencia del Ejecutivo, que para tal efecto, establezca la ley.
 
 B.- El Congreso del Estado, creará y establecerá mediante Ley, un Organismo Administrativo desconcentrado de protección, respeto y defensa de los derechos humanos. Este Organismo conocerá de quejas en contra de actos, hechos u omisiones de naturaleza administrativa, que provengan de autoridades o servidores públicos que violen los mismos, con excepción de los del Poder Judicial del Estado. Podrá formular recomendaciones publicas autónomas y de ninguna manera obligatorias para las autoridades o servidores involucrados.
 
@@ -995,43 +1055,37 @@ Este Organismo carecerá de competencia para conocer de materias jurisdiccional,
 
 ###### ARTICULO 49.
 
-El ejercicio del Poder Judicial se deposita en el Supremo Tribunal de Justicia del Estado; en los juzgados de primera instancia; en los juzgados de paz y conciliación, que en los municipios con población mayoritariamente indígena en los términos de la legislación orgánica municipal se denominarán Juzgados de Paz y Conciliación Indígenas, y en los Juzgados Municipales.
+Se deposita el ejercicio del Poder Judicial del Estado en un Supremo Tribunal de Justicia; en un Tribunal Electoral, en un Tribunal del Servicio Civil; Juzgados de Primera Instancia; Juzgados de Paz y Conciliación; Juzgados de Paz y Conciliación Indígena y Juzgados Municipales. Las particularidades de su organización y desempeño, serán prevista (sic) por la Ley Orgánica del Poder Judicial y su Reglamento, con base en lo dispuesto en esta Constitución y demás normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+La administración, vigilancia y disciplina del Poder Judicial del Estado, con excepción de la Sala Superior estará a cargo del Consejo de la Judicatura, en los términos que al efecto señale esta Constitución y la Ley Orgánica del Poder Judicial.
 
-El Pleno del Supremo Tribunal de Justicia del Estado, cada año designará a uno de sus miembros como Presidente, pudiendo ser reelecto.
+El Tribunal Electoral del Poder Judicial del Estado será la máxima autoridad jurisdiccional en la materia, tendrá competencia y organización para funcionar en Pleno y Salas, y sus sesiones serán públicas. Las resoluciones del Tribunal serán emitidas con plenitud de jurisdicción y sus fallos serán definitivos. Estará integrado por cinco magistrados numerarios, uno de los cuales fungirá como Presidente y por dos magistrados supernumerarios que harán las veces de Jueces Instructores.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+La administración, vigilancia y disciplina de los recursos presupuestales del Tribunal Electoral del Poder Judicial del Estado, corresponderá en los términos que señale la Ley a una Comisión del Consejo de la Judicatura, que se integrará por el Presidente del Tribunal Electoral, quien la presidirá, un Magistrado Electoral numerario designado por insaculación; y tres miembros del Consejo de la Judicatura. El Tribunal propondrá su presupuesto al Presidente de la Sala Superior del Supremo Tribunal de Justicia, para su inclusión en el proyecto del presupuesto del Poder Judicial del Estado, asimismo el Tribunal expedirá su reglamento interno y los acuerdos generales para su adecuado funcionamiento.
 
-El Supremo Tribunal de Justicia se integrará y funcionará en Pleno o en Salas en los términos de la Ley Orgánica del Poder Judicial del Estado.
+Los Jueces y Magistrados del Poder Judicial contarán con independencia en el ejercicio de sus funciones. Esta Constitución y la Ley Orgánica de la materia establecerán los mecanismos que garanticen dicha independencia, igualmente establecerán las condiciones de ingreso, formación, permanencia y remoción de todo funcionario judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
+El Magistrado Presidente del Supremo Tribunal de Justicia tendrá la representación del Poder Judicial del Estado. Presidirá el Pleno de la Sala Superior y del Consejo de la Judicatura. Deberá informar por escrito a ambas instancias en el mes de diciembre de cada año, sobre el estado que guarda la impartición y administración de justicia y la situación administrativa del Poder Judicial; de igual manera informará por escrito al Congreso del Estado; y ejercerá las demás atribuciones que le confiera esta Constitución y las leyes que de ella emanen.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 50.
 
-El Supremo Tribunal de Justicia del Estado se compondrá del número de Magistrados que determine su Ley orgánica.
+El Supremo Tribunal de Justicia se integrará con el número de magistrados que determine su Ley Orgánica de conformidad con el número de salas que requiera para la eficiente administración e impartición de justicia; funcionará en una Sala Superior y en Salas Regionales Colegiadas y Unitarias, con las atribuciones y facultades señalas en esta Constitución, la Ley Orgánica del Poder Judicial y su respectivo Reglamento.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+Los Magistrados de la Sala Superior del Supremo Tribunal de Justicia serán nombrados por el Congreso del Estado, a propuesta del Titular del Poder Ejecutivo, con la aprobación de las dos terceras partes del total de sus integrantes. Para tal efecto, el Gobernador del Estado someterá una terna por cada uno de ellos a consideración del H. Congreso del Estado para que, previa comparecencia de las personas propuestas, designe a los Magistrados que deban acceder al cargo. La designación se hará dentro de un plazo que no excederá de siete días. Si el Congreso no resuelve dentro de dicho plazo ocupará el cargo de Magistrado la persona que nombre el Gobernador del Estado dentro de los propuestos en la terna.
 
-Los nombramientos de los Magistrados serán hechos por el Gobernador y sometidos a la aprobación del Congreso, quien otorgará o negará su aprobación dentro del término improrrogable de cinco días, si el Congreso no resolviere dentro del precitado término, se tendrán por aprobados los nombramientos.
+Los Magistrados de la Sala Superior durarán en su encargo siete años y no podrán ser designados para un siguiente período.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+La Sala Superior residirá en la Capital del Estado; su jurisdicción y competencia serán las establecidas en esta Constitución y en la Ley Orgánica respectiva; las sesiones del Pleno deberán ser acordadas por unanimidad de sus miembros.
 
-Cuando el Congreso no apruebe esos nombramientos sucesivos respecto de una misma vacante el Gobernador hará un tercer nombramiento, que surtirá sus efectos desde luego con el carácter de provisional, sin perjuicio de ser sometido a la aprobación del Congreso. Si este estuviere en receso el día del tercer nombramiento, deberá dictar su aprobación dentro de los cinco primeros días que sigan al inicio de sus sesiones. Si aprobare el nombramiento y no acordare en nada sobre el particular, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si el Congreso no aprobare el nombramiento, el Magistrado provisional cesará desde luego sus funciones y el Gobernador hará nuevo nombramiento que también someterá a la aprobación del Congreso en los expresados términos.
+El Presidente del Supremo Tribunal de Justicia lo será el Presidente de la Sala Superior quien será elegido por el Pleno de la propia Sala cada tres años en la primera semana del mes de enero, pudiendo ser reelegido una sola vez y, en sus faltas temporales no mayores de treinta días, será sustituido por el Magistrado que él designe; pero si excediere de ese término, la designación del Magistrado Presidente Interino la hará el Pleno.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+La Sala Superior del Supremo Tribunal de Justicia y el Tribunal Electoral elaborarán su propio presupuesto y el Consejo de la Judicatura lo hará para el resto del Poder Judicial del Estado. Los presupuestos elaborados y aprobados serán remitidos por el Consejo de la Judicatura para su inclusión en el proyecto de Presupuesto de Egresos del Estado. La administración de la Sala Superior correponderá a su Presidente.
 
-Cuando ocurriere una vacante definitiva por defunción, renuncia, incapacidad o cualquier otra causa de algún magistrado y el Congreso se encuentre en receso, la Comisión Permanente conocerá el nombramiento respectivo, y dará su aprobación.
+Cuando ocurriere una vacante definitiva de algún Magistrado de la Sala Superior por defunción, renuncia, incapacidad o cualquier otra causa y el Congreso se encuentre en receso, la Comisión permanente de inmediato convocará a un período extraordinario de sesiones para hacer el nombramiento correspondiente. Conocerá de la terna respectiva y resolverá sobre su aprobación.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 1990)</small>
-
-Lo mismo se observará respecto a las faltas temporales por mas de tres meses de los Magistrados.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1987)</small>
-
-Los Magistrados y Jueces que integran el Poder Judicial son absolutamente independientes en el ejercicio de sus funciones. Tal independencia está garantizada por esta Constitución y por la Ley Orgánica respectiva, en la que se establecerán las condiciones para el nombramiento de aquellos, su permanencia en el cargo y las causas de su destitución.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ## TITULO SEPTIMO. DE LOS MUNICIPIOS
 
@@ -1039,111 +1093,145 @@ Los Magistrados y Jueces que integran el Poder Judicial son absolutamente indepe
 
 ###### ARTICULO 51.
 
-Para ser Magistrado del Supremo Tribunal de Justicia del Estado se requiere:
+La Sala Superior sesionará en Pleno; este será el órgano rector de los criterios jurídicos de interpretación de esta Constitución y las leyes que de ella emanen. El Pleno estará integrado por siete Magistrados, pero bastará la presencia de cinco para que pueda sesionar. Son atribuciones del Pleno las siguientes:
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 1992)</small>
+I.- Garantizar la supremacía y control de esta Constitución mediante su interpretación.
 
-I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles; y tener su domicilio en el Estado;
+II.- Erigirse en Tribunal de Sentencia, y conocer de los juicios y procedimientos instaurados a los Servidores Públicos que incurran en los actos u omisiones a que se refiere el Título Noveno de esta Constitución.
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1987)</small>
+III.- Dirimir conflictos de competencia que se susciten entre Salas Regionales o entre los Juzgados, así como los casos de contradicción de tesis de las mismas.
 
-II.- No tener mas de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la designación;
+IV.- Emitir acuerdos generales a fin de lograr una adecuada distribución entre los órganos del Poder Judicial respecto de los asuntos que les compete conocer, para la mejor y mayor prontitud de su despacho.
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1987)</small>
+V.- Conocer de los asuntos en apelación, de oficio o a petición fundada de la correspondiente Sala Colegiada o Unitaria Regional, o del Procurador General de Justicia del Estado, que por su interés o trascendencia así lo ameriten.
 
-III.- Poseer el día del nombramiento, con antigüedad mínima de cinco años, título y cédula profesionales de licenciado en derecho, expedidos por las autoridades legalmente facultadas para ello;
+VI.- Dictar el Reglamento Interior del Poder Judicial con excepción del Tribunal Electoral y Tribunal de Servicio Civil.
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1987)</small>
+VII.- Designar a los miembros del Consejo de la Judicatura que corresponda al Poder Judicial; y
 
-IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de mas de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente su buena fama en el concepto público, habrá inhabilitación para el cargo, cualquiera que haya sido la pena; y
+VIII.- Ejercer las demás facultades que le confieran esta Constitución y la Ley.
 
-V.- (DEROGADA, P.O. 25 DE MARZO DE 1992)
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 52.
 
-El Magistrado Presidente del Supremo Tribunal de Justicia del Estado tendrá la representación del Poder Judicial del Etado, presidirá el Peno e informará por escrito al Congreso del Etado en el mes de diciembre de cada año, sobre el estado que guarda la administración de justicia y las demás atribuciones que establezca la Ley Orgánica del Poder Judicial.
+Los nombramientos de los Magistrados deberán hacerse de manera preferente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la impartición de justicia, o en quienes por su honorabilidad, competencia y profesionalismo en otras ramas de la profesión jurídica, lo ameriten.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MARZO DE 1998)</small>
+Los nombramientos de los Magistrados de las Salas Regionales Colegiadas y Unitarias, los hará el Titular del Poder Ejecutivo tomando en cuenta, en su caso, la opinión que para ese efecto emita el Consejo de la Judicatura, en términos de la Ley Orgánica del Poder Judicial. Dichos nombramientos deberán contar además con la aprobación del Congreso, el que la otorgará o negará de manera razonada dentro del término improrrogable de siete días; si el Congreso no resolviere dentro del precitado término, se tendrán por aprobados los nombramientos.
+
+Cuando el Congreso no apruebe dos nombramientos sucesivos respecto de una misma vacante, el Titular del Poder Ejecutivo hará un tercer nombramiento, que surtirá sus efectos desde luego con el carácter de provisional, sin perjuicio de ser sometido a la aprobación del Congreso. Si este estuviere en receso el día del tercer nombramiento, deberá dictar su resolución dentro de los cinco primeros días que siga al inicio del siguiente período de sesiones. Si aprobara el nombramiento, o no acuerda en nada sobre el particular, el Magistrado nombrado provisionalmente continuará en sus funciones con carácter definitivo. Si el Congreso no aprueba el nombramiento, el Magistrado Provisional cesará desde luego en sus funciones y el Gobernador hará un nuevo nombramiento que también someterá a la aprobación del Congreso en los expresados términos.
+
+Cuando ocurra una vacante definitiva por defunción, renuncia, incapacidad o cualquier otra causa de algún Magistrado de la Sala Regional y el Congreso se encuentre en receso, la Comisión Permanente conocerá del nombramiento respectivo, y dará su aprobación en los mismos términos del párrafo anterior.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 53.
 
-Los Magistrados del Supremo Tribunal de Justicia del Estado y los Jueces de Primera Instancia, durarán en sus funciones seis años, pudiendo ser ratificados.
+Para ser Magistrado del Supremo Tribunal de Justicia se requiere:
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 1998)</small>
+I.- Ser ciudadano chiapaneco, mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos y tener su domicilio en el Estado;
 
-Los Magistrados que fueren ratificados, sólo podrán ser destituidos, previo juicio de responsabilidad, cuando observen mala conducta, sean negligentes en el desempeño de sus labores, dejen de reunir alguno de los requisitos que para el ejercicio del cargo señale la ley, o incurran en alguna de las hipótesis previstas en el Título noveno de esta Constitución y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
+II.- Tener cuando menos treinta y cinco años cumplidos al día de la designación;
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1988)</small>
+III.- Poseer el día del nombramiento, con antigüedad mínima de diez años, título y cédula profesionales de licenciado en derecho, expedidos por autoridad o institución legalmente facultada para ello;
 
-Los Jueces de Primera Instancia que durante seis años consecutivos presten sus servicios en el Poder Judicial del Estado, en forma tal que se hayan distinguido por su diligencia, fundamentación de resoluciones, probidad y honradez en el ejercicio de sus funciones y honorabilidad en su conducta ciudadana, podrán adquirir la inamovilidad y solo serán removidos en los términos del Título Noveno de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, por mala conducta o negligencia en el desempeño de sus labores o por dejar de reunir alguno de los requisitos que señala la Ley para ocupar el cargo.
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite una pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, concusión, cohecho, enriquecimiento ilícito, fraude, falsificación, falsedad en declaración ante la autoridad judicial, difamación, abuso de confianza, contra la salud, u otro que lastime seriamente su buena fama en el concepto público, habrá inhabilitación para el cargo, cualquiera que haya sido la pena; y
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1988)</small>
+V.- No haber sido Secretario de Estado, Procurador General de Justicia del Estado, Senador, Diputado Federal o Estatal, o Presidente Municipal, a menos que se separe del cargo un año antes del día de su nombramiento;
 
-Para alcanzar los beneficios que señala este artículo, se estará a lo dispuesto por la Ley Orgánica del Poder Judicial.
+VI.- Los demás requisitos que señale la Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 54.
 
-El Pleno del Supremo Tribunal de Justicia será el órgano de Gobierno y el rector de criterios jurídicos que normen al Poder Judicial, en los términos de la ley respectiva y le corresponderá:
+La Ley Orgánica del Poder Judicial del Estado establecerá las bases del Sistema Institucional para la selección, formación y actualización de funcionarios, así como para el Desarrrollo de la Carrera Judicial, la cual se regirá por los principios de honestidad, objetividad, imparcialidad, independencia, profesionalismo y excelencia.
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+De igual forma establecerá las bases mínimas para la práctica de las visitas judiciales y la emisión de los dictámenes correspondientes.
 
-I.- Conocer como Tribunal de Sentencia en las causas instruidas contra los funcionarios públicos a que se refiere el artículo 71 por delitos oficiales;
+La Ley garantizará la estabilidad y la independencia de los Magistrados, Jueces y demás funcionarios judiciales en el ejercicio de sus funciones, así como la plena ejecución de sus resoluciones.
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+Ningún funcionario del Poder Judicial podrá aceptar o desempeñar otro empleo o cargo, salvo el de docencia y los honoríficos en asociaciones científicas, artísticas o de beneficencia, siempre y cuando no comprometan su horario o perjudique el óptimo desempeño de su función. La infracción de este artículo será castigada con la pérdida del cargo judicial respectivo.
 
-II.- Conocer en segunda instancia de los asuntos que conforme a la Ley le competan;
+La remuneración de los jueces, magistrados y consejeros de la Judicatura, no podrá ser disminuida durante el tiempo de su gestión.
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
-
-III.- Dirimir conflictos de competencia que se susciten en las salas del Supremo Tribunal de Justicia, así como en los casos de contradicción de tesis de las mismas;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
-
-IV.- Nombrar, remover y sancionar a los Secretarios del Supremo Tribunal de Justicia y demás empleados del Poder Judicial, de conformidads (sic) con las leyes respectivas;
-
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 1998)</small>
-
-V.- Nombrar, remover y sancionar a los Jueces de Primera Instancia, a los de Paz y Conciliación, y a los Municipales;
-
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 1998)</small>
-
-VI.- Determinar los Distritos Judiciales en que se divida el Estado; el número de Salas Regionales, Juzgados de Primera Instancia, Juzgados de Paz y Conciliación, y Juzgados Municipales; la residencia, la jurisdicción territorial y la especialización que por materia les corresponda;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
-
-VII.- Emitir acuerdos generales a fin de lograr, mediante una adecuada distribución entre las Salas de los asuntos que competa conocer al Supremo Tribunal de Justicia, la mayor prontitud de su despacho;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
-
-VIII.- Dictar su Reglamento Interior y administrar el fondo auxiliar de administración de justicia; y
-
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1990)</small>
-
-IX.- Ejercer las demás facultades que le confieren las leyes.
-
-Las Salas tendrán las facultades que establezcan la Ley Orgánica del Poder Judicial y las demás leyes.
-
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 55.
 
-Ningún funcionario de la Administración de Justicia podrá aceptar o desempeñar otro empleo o cargo, salvo los de docencia y los honoríficos en asociaciones científicas, artísticas o de beneficencia. La infracción de este artículo será castigado con la pérdida del cargo Judicial respectivo.
+Los Magistrados de Salas Regionales del Supremo Tribunal de Justicia del Estado, durarán en sus funciones seis años, con posibilidad de ser reelectos en los términos de la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 1998)</small>
+Tanto Jueces como Magistrados tendrán derecho a un haber único a la conclusión ordinaria y definitiva del encargo, mismo que no será menor del equivalente de tres meses del total de su remuneración que tenga asignada al momento de la separación.
+
+Los Magistrados sólo podrán ser destituidos previo procedimiento que demuestre que actuaron dolosa o negligentemente en el desempeño de sus labores, o incurrieron en alguna de las hipótesis previstas en el título noveno de esta Constitución y las demás que señala la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
+
+Los Jueces de Primera Instancia que durante seis años consecutivos presten sus servicios en el Poder Judicial del Estado, en forma tal que se hayan distinguido por su diligencia, probidad, honradez en el ejercicio de sus funciones y honorabilidad en su conducta ciudadana, podrán ser reelectos y sólo serán removidos por las causales y en los términos del Título Noveno de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, por negligencia en el desempeño de sus labores, o por dejar de reunir alguno de los requisitos que señala la Ley para ocupar el cargo.
+
+Los Jueces de Paz y Conciliación, de Paz y Conciliación Indígenas y los Jueces Municipales, serán nombrados por el Consejo de la Judicatura del Estado, a propuesta de los Ayuntamientos respectivos, con base en la normatividad que para tal efecto contemple la Ley Orgánica del Poder Judicial del Estado.
+
+Los Jueces de Primera Instancia y Magistrados, no podrán actuar como representantes de cualquier naturaleza, en los procesos, en los que hubieren intervenido en el ejercicio de sus funciones, ante los órganos del Poder Judicial del Estado, en el año inmediato siguiente al de su separación o retiro del cargo.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 56.
 
-Los Jueces de Paz y Conciliación y los Jueces Municipales, serán nombrados por el Supremo Tribunal de Justicia del Estado, quien tomará en consideración las propuestas de los Ayuntamientos Municipales respectivos, quienes previamente consultarán con la comunidad, cuando éstas satisfagan los requisitos de probidad y capacidad establecidos por el Pleno del Tribunal. En los municipios en que existan Juzgados de Primera Instancia y Juzgados de Paz y Conciliación, estos asumirán la competencia de los Juzgados Municipales.
+La justicia del control constitucional local se erige dentro del Régimen Interior del Estado, como un medio de control para mantener la eficacia y la actualización democrática de esta Constitución, bajo el principio de Supremacía Constitucional.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+El Control Constitucional local tiene por objeto dirimir de manera definitiva e inatacable los conflictos constitucionales que surjan dentro del ámbito interior del Estado, conforme a este artículo, sin perjuicio de lo previsto en los artículos 103, 105 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Para el cumplimiento de las atribuciones del control constitucional local señaladas en las fracciones I y II del artículo 51 de esta Constitución, el Pleno de la Sala Superior del Supremo Tribunal de Justicia en su carácter de Tribunal del Control Constitucional conocerá y resolverá, en los términos que establezca la Ley, con excepción de los electorales, de los medios de control constitucional siguientes:
+
+I.- De las controversias constitucionales que surjan entre:
+
+a).- Dos o más Municipios;
+
+b).- Uno o más Municipios y el Poder Ejecutivo o el Legislativo; y
+
+c).- El Poder Ejecutivo y el Legislativo.
+
+Siempre que las controversias versen sobre disposiciones generales de los poderes Ejecutivo, Legislativo, o de los Municipios, y la resolución del Pleno de la Sala Superior las declare inconstitucionales, éstas tendrán efectos generales si hubieren sido aprobadas por cinco votos de sus miembros y surtirán efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+II.- De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución, y que se ejerciten dentro de los treinta días naturales siguientes a su publicación por:
+
+a) El Gobernador del Estado; o
+
+b) El equivalente al treinta y tres por ciento de los integrantes del Congreso del Estado, en contra de leyes locales o expedidas por el Congreso del Estado.
+
+c) El Procurador General de Justicia del Estado, en contra de leyes de carácter estatal.
+
+d) El equivalente al treinta y tres por ciento de los Ayuntamientos de la entidad.
+
+Las resoluciones dictadas tendrán efectos generales cuando hubieren sido aprobadas por cinco votos de los miembros del pleno de la sala superior, y surtirán efectos a partir de su publicación en el Periódico Oficial del Estado; sin poder aplicarse retroactivamente excepto cuando se trate de asuntos del orden penal y en beneficio del inculpado.
+
+III.- De las acciones por omisión legislativa, cuando se considere que el Congreso no ha resuelto alguna Ley o Decreto y que dicha omisión afecte el debido cumplimiento de esta Constitución, que interponga:
+
+a) El Gobernador del Estado; o
+
+b) Cuando menos la tercera parte de los miembros del Congreso;
+
+c) Cuando menos la tercera parte de los Ayuntamientos.
+
+La resolución que emita el Pleno de la Sala Superior que decrete la existencia de omisión legislativa, surtirá sus efectos a patir de su publicación en el Periódico Oficial del Estado; en dicha resolución se determinará un plazo que comprenda dos períodos ordinarios de sesiones del Congreso del Estado, para que éste resuelva.
+
+IV.- A efecto de dar respuesta fundada y motivada a las cuestiones de inconstitucionalidad formulada por los Magistrados o Jueces del Estado cuando tengan duda sobre la constitucionalidad o aplicación de una Ley local, en el proceso sobre el cual tengan conocimiento, las peticiones deberán ser desahogadas en un plazo no mayor de treinta días.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 57.
 
-El Supremo Tribunal de Justicia del Estado residirá en la Capital del Estado, salvo que sea autorizado por el Congreso para cambiar su residencia; su jurisdicción y competencia se consignarán en la Ley Orgánica respectiva; las sesiones ocasionales del Pleno deberán ser acordadas por unanimidad de sus miembros, cuando se celebren en la residencia de alguna de sus salas regionales o en sedes distintas a la Capital del Estado; estas sesiones no implicarán cambio de residencia del Supremo Tribunal de Justicia del Estado.
+El Consejo de la Judicatura es un órgano del Poder Judicial del Estado, con independencia técnica, encargado de la vigilancia, disciplina y carrera judicial del Supremo Tribunal de Justicia y Juzgados de Primera Instancia, Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígenas y Juzgados Municipales, de igual forma atenderá lo concerniente a la administración de los órganos del Poder Judicial, con la excepción de la Sala Superior. El Consejo de la Judicatura será presidido por el Magistrado que ocupe la presidencia de la Sala Superior y funcionará con un Secretario Ejecutivo, que será designado por el propio Consejo, a propuesta de su Presidente.
+
+Los Consejeros de la Judicatura serán nombrados de la siguiente forma: dos por el Pleno de la Sala Superior, de los cuales uno será seleccionado de entre los magistrados de las Salas Regionales y el otro, de entre los Jueces de Primera Instancia, elegido por votación directa del total de Jueces de Primera Instancia; uno más, nombrado por el Congreso del Estado y otro, nombrado por el titular del Poder Ejecutivo del Estado. Los Consejeros de la Judicatura no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad. Durante su encargo sólo podrán ser removidos en los términos de esta Constitución.
+
+Las particularidades de los nombramientos, así como las del ejercicio de sus funciones, se regulan en la Ley Orgánica del Poder Judicial del Estado y su Reglamento Interno.
+
+Los Consejeros de la Judicatura deberán ser personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de su profesión, durarán tres años en su cargo, y podrán ser designados por un período más; ejercerán su función con independencia e imparcialidad y deberán reunir los requisitos previstos en el Artículo 53 de esta Constitución y quedarán sujetos a las responsabilidades que establece el Título Noveno de esta Constitución, la Ley Orgánica del Poder Judicial y la Ley de Responsabilidades de los Servidores Públicos.
+
+El Consejo de la Judicatura funcionará en pleno o en comisiones; el pleno, emitirá las opiniones que le solicite el Gobernador del Estado sobre el nombramiento o ratificación de los Magistrados Regionales; resolverá sobre el nombramiento, adscripción o remoción de Jueces, Secretarios de Acuerdos y Secretarios Actuarios, así como de los demás funcionarios judiciales; de la misma forma está facultado para establecer los sistemas de selección de los servidores públicos del Poder Judicial y demás asuntos que la Ley determine. Las decisiones del Consejo de la Judicatura podrán ser revocadas por acuerdo de las dos terceras partes del Pleno de la Sala Superior.
+
+El Consejo de la Judicatura tendrá a su cargo la administración de los recursos humanos, materiales y financieros del Poder Judicial, con excepción de la Sala Superior; en el caso del Tribunal Electoral, la Comisión Electoral realizará estas funciones de conformidad con lo establecido por el Artículo 49 de esta Constitución, la vigilancia y disciplina de los órganos jurisdiccionales así como la capacitación y profesionalización del personal. Deberá determinar los Distritos Judiciales en que se divida el Estado, el número de Salas, Juzgados de Primera Instancia, Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígenas, Juzgados Municipales; así como la residencia, la jurisdicción territorial y la especialización que por materia le corresponda.
+
+Además, informará sobre su gestión al Pleno de la Sala Superior, en los términos de la Ley Orgánica; elaborará el Presupuesto del Poder Judicial, con la excepción antes citada; los someterá a la consideración del Pleno de la Sala Superior y una vez aprobado lo remitirá para su inclusión en el Proyecto de Presupuesto de Egresos del Estado.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1161,7 +1249,7 @@ Los Ayuntamientos estarán integrados por:
 
 Un Presidente, un Síndico y tres Regidores Propietarios y sus Suplentes de mayoría relativa en aquellos municipios cuya población no exceda de 7,500 habitantes.
 
-Un Presidente, un Síndico propietario y un suplente; seis Regidores propietarios y tres suplentes de mayoría relativa en aquellos municipios cuya población sea de mas de 7,500 habitantes y no exceda de 100,000 habitantes.
+Un Presidente, un Síndico propietario y un suplente; seis Regidores propietarios y tres suplentes de mayoría relativa en aquellos municipios cuya población sea de más de 7,500 habitantes y no exceda de 100,000 habitantes.
 
 Un Presidente, un Síndico propietario y un Suplente; ocho Regidores propietarios y cuatro suplentes de mayoría relativa en aquellos municipios cuya población sea de más de 100,000 habitantes.
 
@@ -1351,7 +1439,7 @@ Todo empleado de Hacienda que maneje caudales públicos otorgará fianza en los 
 
 ###### ARTICULO 69.
 
-Para los efectos de este Título, tendrán el carácter de servidores públicos, los representantes de elección popular, los miembros del Poder Judicial, los funcionarios, los empleados y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal, paraestatal y municipal, así como del Instituto Estatal Electoral y del Tribunal Electoral del Estado, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de este título, tendrán el carácter de Servidores Públicos, los Representantes de elección Popular, los miembros del Poder Judicial, los funcionarios, los empleados y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, Paraestatal, Municipal, así como del Instituto Estatal Electoral, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -1377,29 +1465,29 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refiere este Artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 71.
 
-Podrán ser sujetos de juicio político el Gobernador del Estado, los Diputados Estatales, los Magistrados del Supremo Tribunal de Justicia, los Magistrados del Tribunal electoral del Estado y los magistrados del Tribunal del Servicio Civil, los Secretarios de Despacho, el Procurador General de Justicia, el Oficial Mayor de Gobierno, el Contralor General de Gobierno, los Vocales Ejecutivos, los Coordinadores Generales, los Presidentes Municipales, el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal y de fideicomisos públicos. Cuando el Gobernador del Estado, los Diputados al Congreso del Estado y los magistrados del Supremo Tribunal de Justicia del Estado, incurran en violaciones graves a la Constitución General de la República y a las leyes que de ella emanen, así como el manejo indebido de fondos y recursos federales, recibida que sea la declaratoria a que se contrae el artículo 110 de esa propia Constitución, el Congreso del Estado como jurado de acusación turnará al Pleno del Supremo Tribunal de Justicia del Estado el que erigido en Tribunal de Sentencia substanciará el procedimiento señalado en este artículo.
+Podrán ser sujetos de Juicio Político el Gobernador del Estado; los Diputados Locales; los Magistrados y los Consejeros de la Judicatura del Poder Judicial del Estado, los Secretarios de Despacho, el Procurador General de Justicia, el Contralor General, los Vocales Ejecutivos, los Coordinadores Generales, los Presidentes Municipales; los Consejeros Electorales del Instituto Estatal Electoral, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal y de fideicomisos públicos. Cuando el Gobernador del Estado, los Diputados al Congresos del Estado, los Magistrados y Consejeros del Poder Judicial, incurran en violaciones graves a la Constitución General de la República y a las Leyes que de ella emanen, así como el manejo indebido de fondos y recursos federales, recibida que sea la declaratoria a que se contrae el artículo 110 de esa propia Constitución, el Congreso del Estado como jurado de acusación turnará a la Sala Superior del Supremo Tribunal de Justicia el que erigido en Tribunal de Sentencia substanciará el Procedimiento señalado en este artículo.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
 Cuando los Servidores Públicos mencionados, así como los Presidentes Municipales incurran en violaciones graves a la Constitución del Estado y a las Leyes de ella emanen, así como en el manejo indebido de fondos y recursos estatales o municipales, se observará el procedimiento establecido en este precepto.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
-Para la aplicación de las sanciones a que se refiere este artículo, el Congreso del Estado erigido en Jurado de Acusación, procederá a la acusación respectiva ante el Pleno del Supremo Tribunal de Justicia del Estado, previa declaración de la mayoría absoluta del numero de los miembros presentes en sesión del mismo, después de haber substanciado el procedimiento respectivo y con la audiencia del inculpado.
+Para la aplicación de las sanciones a que se refiere este artículo, el Congreso del Estado erigido en Jurado de Acusación, procederá a la acusación respectivamente ante la Sala Superior del Supremo Tribunal de Justicia, previa declaración de la mayoría absoluta del número de los miembros presentes en sesión del mismo, después de haber substanciado el procedimiento respectivo y con la audiencia del inculpado.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
-Conociendo de la acusación el Supremo Tribunal de Justicia del Estado erigido en Tribunal de Sentencia, aplicará la sanción correspondiente mediante resolución de las dos terceras partes de los miembros presentes reunidos en Pleno, una vez practicadas las diligencias correspondientes y con audiencia del acusado, de su defensor y de una Comisión del Jurado de acusación integrada por dos Diputados.
+En conocimiento de la acusación, y erigido el Tribunal de Sentencia, la Sala Superior aplicará la sanción correspondiente mediante resolución emitida cuando menos por cinco votos de los miembros presentes reunidos en pleno, una vez practicadas las diligencias correspondientes y con audiencia del acusado, de su defensor y de una comisión del Jurado de acusación integrada por dos diputados.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
 Las sanciones consistirán en la destitución del Servidor Público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2000).
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ## TITULO OCTAVO. DEL PATRIMONIO Y DE LA HACIENDA PUBLICA
 
@@ -1407,11 +1495,11 @@ Las sanciones consistirán en la destitución del Servidor Público y en su inha
 
 ###### ARTICULO 72.
 
-Cuando se trate de actos u omisiones sancionados por la ley penal cometido por el Gobernador del Estado, por los Diputados Estatales, por los Magistrados del Supremo Tribunal de Justicia, del Tribunal Electoral del Estado y del Tribunal del Servicio Civil, por los Secretarios y Subsecretarios de Despacho, por el Procurador General y Subprocuradores de Justicia, el Oficial Mayor de Gobierno, el Contralor General de Gobierno, los Vocales Ejecutivos, los Coordinadores Generales, los Presidentes, Síndicos y Regidores Municipales, el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal y de fideicomisos públicos, el Congreso del Estado o en su caso la Comisión Permanente, erigidos en jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los otros servidores públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese solo hecho, separado de su encargo y sujeto a la acción de los Tribunales del Orden Común; si esta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+Cuando se trate de actos u omisiones sancionados por la Ley penal cometidos por el Gobernador del Estado, por los diputados locales, por los magistrados y Consejeros de la Judicatura del Poder Judicial, por los Secretarios y Subsecretarios de despacho, por el Procurador General y Subprocuradores de Justicia; el Contralor General, los vocales ejecutivos, los coordinadores generales, los Presidentes, Síndicos y Regidores Municipales, el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal y de fideicomisos públicos, el Congreso del Estado o en su caso la Comisión Permanente, erigidos en Jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los otros servidores públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese solo hecho, separado de su encargo y sujeto a la acción de los Tribunales del Orden Común; si esta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
-Cuando el Gobernador del Estado, los Diputados al Congreso del Estado y los Magistrados del Supremo Tribunal de Justicia del Estado incurran en delitos federales, recibida que sea la declaratoria de procedencia a que se contrae el Artículo 111 de la Constitución General de la República, el Congreso del Estado erigido en jurado, por los dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los demás, determinará la procedencia o no de dicha declaración, en caso afirmativo quedará el inculpado separado de su cargo, en tanto esté sujeto a la acción de los Tribunales del orden federal. Si la sentencia fuese condenatoria la separación de su cargo será definitiva. En caso negativo la declaratoria de referencia se desechará de plano, sin perjuicio de que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+Cuando el Gobernador del Estado, los Diputados al Congreso del Estado y los Magistrados y los Consejeros de la Judicatura del Poder Judicial del Estado incurran en delitos federales, recibida que sea la declaratoria de procedencia a que se contrae el artículo 111 de la Constitución General de la República, el Congreso del Estado erigido en jurado, por los dos tercios de los votos de su miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los demás, determinará la procedencia o no de dicha declaración, en caso afirmativo quedará el inculpado separado de su cargo, en tanto esté sujeto a la acción de los Tribunales del Orden Federal. Si la sentencia fuese condenatoria la separación de su cargo será definitiva. En caso negativo la declaratoria de referencia se desechará de plano, sin perjuicio de que la imputación por la comisión de delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
@@ -1425,19 +1513,19 @@ Las sanciones económicas no podrán exceder de tres tantos de los beneficios ob
 
 En demandas del orden civil que se entablen contra cualquier servidor público, no se requerirá declaración de procedencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 73.
 
-De los actos u omisiones en que incurran los servidores públicos en el desempeño de sus empleos, cargos o comisiones, que impliquen responsabilidad administrativa, conocerá el Congreso del Estado como Jurado de Acusación y el Pleno del Supremo Tribunal de Justicia del Estado como Tribunal de Sentencia. El jurado de acusación declarará por mayoría relativa de sus miembros presentes si el encausado es o no culpable, si la declaración fuere de inculpabilidad, el servidor publico, continuará en el ejercicio de su cargo, si fuere la de culpabilidad quedará separado inmediatamente del mismo y se turnará el caso al Supremo Tribunal de Justicia del Estado; este, en Pleno, con audiencia del encausado, de su defensor y de una Comisión del Jurado de acusación integrada por dos diputados estatales resolverá por mayoría de votos lo que proceda de acuerdo con la Ley.
+De los actos u omisiones en que incurran los servidores públicos en el desempeño de sus empleos, cargos o comisiones, que impliquen responsabilidad administrativa, conocerá el Congreso del Estado como Jurado de Acusación y la Sala Superior del Supremo Tribunal de Justicia en Tribunal de Sentencia; el Jurado de Acusación declarará por mayoría relativa de sus miembros presentes si el encausado es o no culpable, si la declaración fuere de inculpabilidad, el Servidor Público continuará en el ejercicio de su cargo, si fuere la de culpabilidad quedará separado inmediatamente del mismo y se turnará el caso a la Sala Superior del Supremo Tribunal de Justicia del Estado en Pleno, con audiencia del encausado, de su defensor y de una Comisión del Jurado de Acusación integrada por dos diputados locales, resolverá por mayoría de votos lo que proceda de acuerdo con la Ley.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
 Las sanciones por responsabilidad administrativa, además de las que señalen las Leyes, serán personales y patrimoniales; las primeras consistirán en la suspensión, destitución e inhabilitación del Servidor Público y las segundas deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones a que se refiere el Artículo 70 fracción III, de esta Constitución, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
-La sentencia correspondiente será emitida antes de un año a partir del momento en que conozca el Supremo Tribunal de Justicia del Estado.
+La sentencia correspondiente será emitida antes de un año a partir del momento en que conozca la Sala Superior del Supremo Tribunal de Justicia del Estado.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
@@ -1491,7 +1579,7 @@ Cuando en un Distrito Judicial no exista Notario Público, los Jueces Civiles o 
 
 ## TITULO NOVENO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 80.
 
@@ -2460,3 +2548,43 @@ Los servidores públicos adscritos a la Contaduría Mayor de Hacienda no serán 
 Una vez creada la Entidad de Fiscalización Superior del Estado, todos los recursos humanos materiales y patrimoniales en general de la contaduría mayor de hacienda pasaran a formar parte de dicha entidad.
 
 CUARTO.- Conforme vayan entrando en vigor las disposiciones a que se refiere el presente decreto, se derogan todas aquellas que se opongan.
+
+P.O. 6 DE NOVIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La actual Presidencia del Poder Judicial del Estado, vigilará la debida integración de la Sala Superior y del Consejo de la Judicatura, y una vez integrados los presidirá hasta en tanto se realice la elección en términos de esta Constitución.
+
+###### ARTICULO TERCERO.
+
+La Sala Superior se integrará con siete magistrados, por esta única ocasión, éstos serán nombrados por el Gobernador del Estado, a propuesta del Presidente del Supremo Tribunal de Justicia, preferentemente de entre aquellos magistrados que integran el Supremo Tribunal Justicia del Estado, con la ratificación del H. Congreso del Estado.
+
+###### ARTICULO CUARTO.
+
+Por esta única ocasión los nombramientos de los Consejeros del Consejo de la Judicatura, se ajustarán a la siguiente temporalidad: el período de los Consejeros correspondientes al Poder Judicial, vencerá el último día de diciembre del año 2004 y el período de los Consejeros designados por el H. Congreso del Estado y por el Ejecutivo Estatal, vencerá el último día de diciembre de 2005. El Congreso y el Ejecutivo deberán designar a sus representantes dentro de los diez días naturales siguientes a la instalación de la Sala Superior del Supremo Tribunal del (sic) Justicia.
+
+El Juez y el Magistrado designados, al término de su cargo podrán incorporarse a la función jurisdiccional que cada uno venía desempeñando.
+
+###### ARTICULO QUINTO.
+
+La Ley Orgánica del Poder Judicial del Estado y la Ley Reglamentaria para el ejercicio de control Constitucional del Estado de Chiapas deberán publicarse dentro de los 90 días siguientes contados a partir del inicio de la vigencia del presente decreto.
+
+###### ARTICULO SEXTO.
+
+Hasta en tanto se integren la Sala Superior y el Consejo de la Judicatura, el Pleno del Supremo Tribunal de Justicia del Estado continuará en el ejercicio de sus funciones.
+
+###### ARTICULO SEPTIMO.
+
+El Ejecutivo dispondrá todo lo necesario para la creación de la Consejería Jurídica, dependencia que estará a su cargo.
+
+###### ARTICULO OCTAVO.
+
+La Ley Orgánica y el Reglamento Interior del H. Congreso deberán adecuarse al presente decreto a más tardar a los treinta días siguientes a partir de la publicación a que se refiere el artículo anterior.
+
+###### ARTICULO NOVENO.
+
+Se derogan las disposiciones legales vigentes contrarias al presente decreto.
