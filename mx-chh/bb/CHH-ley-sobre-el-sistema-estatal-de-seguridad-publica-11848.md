@@ -4,7 +4,7 @@ identifier: "CHH-ley-sobre-el-sistema-estatal-de-seguridad-publica-11848"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-27"
-last_updated: "2004-10-02"
+last_updated: "2005-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2005.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de junio de 1998.
 
@@ -83,11 +83,13 @@ El Estado y los municipios podrán prestar servicios especiales de vigilancia, c
 
 Para los efectos de esta Ley, se entenderá por:
 
-I.- Secretaría: La Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública; y por Secretario, al titular de la misma;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
-II.- Coordinadora: La Coordinadora Estatal de Seguridad Pública; y por Coordinador, a su titular;
+I.- Secretaría: La Secretaría de Seguridad Pública: y por Secretario, al titular de la misma;
 
-III.- Departamento: El Departamento de Gobernación dependiente de la Secretaría de Gobierno; y por Jefe del Departamento, a su titular;
+II.- (DEROGADA, P.O. 19 DE ENERO DE 2005)
+
+III.- (DEROGADA, P.O. 19 DE ENERO DE 2005)
 
 IV.- Procuraduría: La Procuraduría General de Justicia en el Estado, y por Procurador, a su titular, y
 
@@ -177,7 +179,9 @@ Las políticas, lineamientos y acciones de coordinación se llevarán a cabo med
 
 Los cuerpos de seguridad pública en el Estado son:
 
-I.- La Coordinadora Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+I.- Los elementos de la Secretaría de Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
@@ -187,7 +191,9 @@ III.- Los custodios a cargo de los Penales del Estado;
 
 IV.- Los Cuerpos de Seguridad Pública Municipales, con todas sus unidades y agrupamientos;
 
-V.- El Cuerpo Operativo de la Unidad Estatal de Protección Civil, en su caso, con carácter de auxiliar;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+V.- El Cuerpo Operativo de la Coordinación de Protección Civil, en su caso, con carácter de auxiliar;
 
 VI.- Los Cuerpos de Bomberos Municipales, sólo con el carácter de auxiliares;
 
@@ -215,7 +221,9 @@ Queda prohibido que un elemento de seguridad preste simultáneamente su servicio
 
 Los órganos de carácter preventivo en el Estado son:
 
-I.- La Coordinadora Estatal de Seguridad Pública, y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+I.- La Secretaría de Seguridad Pública, y
 
 II.- Los Cuerpos Municipales de Seguridad Pública, cuyos miembros se denominan Policías Municipales, quienes operarán dentro de la circunscripción correspondiente.
 
@@ -223,11 +231,11 @@ II.- Los Cuerpos Municipales de Seguridad Pública, cuyos miembros se denominan 
 
 A los Cuerpos Municipales de Seguridad Pública corresponden aquellas acciones dirigidas a prevenir la comisión de todo tipo de delitos y faltas administrativas, así como mantener el orden, la paz y la tranquilidad pública dentro de la jurisdicción municipal que les corresponda.
 
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### Artículo 16-A.
 
-La Policía Comunitaria es un organismo auxiliar de seguridad pública, cuya dirección estará a cargo de la Coordinadora Estatal de Seguridad Pública, para realizar acciones de vigilancia, ordenamiento vial, auxilio a la población, inspección y, en general, todo cuanto implique prevención de delitos y faltas, así como salvaguardar y mantener la seguridad colectiva.
+La Policía Comunitaria es un organismo auxiliar de seguridad pública, cuya dirección estará a cargo de la Secretaría de Seguridad Pública, para realizar acciones de vigilancia, ordenamiento vial, auxilio a la población, inspección y, en general, todo cuanto implique prevención de delitos y faltas, así como salvaguardar y mantener la seguridad colectiva.
 
 > <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
@@ -259,11 +267,11 @@ Se podrán admitir como miembros de la Policía Comunitaria a jóvenes menores d
 
 Los aspirantes a la Policía Comunitaria, deberán cumplir con el ordenamiento básico, el cual comprenderá, cuando menos, de instrucción en primeros auxilios, control de tráfico, tópicos legales, sistemas de comunicación y procedimientos para-policiales. Para acreditar dicha instrucción, deberá estarse a lo dispuesto por el Reglamento de la Policía Comunitaria.
 
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### Artículo 16-E.
 
-A las personas que hayan cumplido con los requisitos establecidos en los dos artículos anteriores, no se les podrá negar su nombramiento como miembros voluntarios de la Policía Comunitaria; no obstante lo anterior, la Coordinadora Estatal de Seguridad Pública queda facultada, en casos debidamente justificados, para negar o retirar los nombramientos.
+A las personas que hayan cumplido con los requisitos establecidos en los dos artículos anteriores, no se les podrá negar su nombramiento como miembros voluntarios de la Policía Comunitaria; no obstante lo anterior, la Secretaría de Seguridad Pública queda facultada, en casos debidamente justificados, para negar o retirar los nombramientos.
 
 > <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
@@ -271,17 +279,19 @@ A las personas que hayan cumplido con los requisitos establecidos en los dos art
 
 La Policía Comunitaria podrá suscribir convenios con las autoridades y organismos responsables de la seguridad pública para establecer Unidades de la Policía Comunitaria en la jurisdicción territorial correspondiente.
 
-Las unidades de la Policía Comunitaria tendrán en todo momento, la obligación de presentar semestralmente a la Coordinadora Estatal de Seguridad Pública los programas operativos, líneas de acción y estrategias que pretendan llevar a cabo, para su validación y registro.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
+Las unidades de la Policía Comunitaria tendrán en todo momento, la obligación de presentar semestralmente a la Secretaría de Seguridad Pública los programas operativos, líneas de acción y estrategias que pretendan llevar a cabo, para su validación y registro.
 
 Sin perjuicio de lo anterior, la organización, funcionamiento y atribuciones de las unidades, se regirán por lo dispuesto en el Reglamento de la Policía comunitaria.
 
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### Artículo 16-G.
 
-La Policía Comunitaria, directamente o a través de las unidades que se constituyan, realizará acciones de apoyo y auxilio a los Cuerpos de Seguridad Pública en el Estado, en los términos de la presente Ley y sus Reglamentos, así como de los Convenios que para tal efecto se suscriban entre la Coordinadora Estatal de Seguridad Pública y los Ayuntamientos o el Poder Ejecutivo del Estado, según sea el caso.
+La Policía Comunitaria, directamente o a través de las unidades que se constituyan, realizará acciones de apoyo y auxilio a los Cuerpos de Seguridad Pública en el Estado, en los términos de la presente Ley y sus Reglamentos, así como de los Convenios que para tal efecto se suscriban entre la Secretaría de Seguridad Pública y los Ayuntamientos o el Poder Ejecutivo del Estado, según sean el caso.
 
-La Coordinadora Estatal de Seguridad Pública también podrá suscribir Convenios de Colaboración con instituciones, personas físicas o morales, públicas o privadas, para el mejor desempeño de la Policía Comunitaria.
+La Secretaría de Seguridad Pública también podrá suscribir Convenios de Colaboración con instituciones, personas físicas o morales, públicas o privadas, para el mejor desempeño de la Policía Comunitaria.
 
 > <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
@@ -295,7 +305,9 @@ La Policía Comunitaria contará con un Comité Permanente de Consulta por cada 
 
 Los Comités Permanentes de Consulta estarán integrados de la siguiente forma:
 
-I.- Un representante de la Coordinadora Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+I.- Un representante de la Secretaría de Seguridad Pública;
 
 II.- Un representante de las siguientes áreas de la Administración Municipal:
 
@@ -317,7 +329,9 @@ VI.- Un representante de las Asociaciones de Alumnos que deseen formar parte del
 
 VII.- Un representante de las Agrupaciones Sindicales constituidas legalmente;
 
-VIII.- Los representantes de las organizaciones sociales que sean convocadas por la Coordinadora Estatal de Seguridad Pública.
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+VIII.- Los representantes de las organizaciones sociales que sean convocadas por la Secretaría de Seguridad Pública.
 
 Los ayuntamientos podrán optar por la constitución de los Comités Permanentes de Consulta, a que este artículo se refiere, o bien, decidir que las atribuciones que esta Ley concede a los mencionados comités sean ejercidas por los Consejos de Coordinación Municipales, a que se refiere el artículo 20.
 
@@ -337,11 +351,11 @@ Los apoyos o estímulos económicos serán aplicados exclusivamente a las Unidad
 
 Como excepción a lo dispuesto en el párrafo anterior, se podrán otorgar estímulos económicos a los miembros voluntarios integrantes de la Policía Comunitaria por los servicios sobresalientes rendidos a su comunidad, así como los apoyos que se requieran para su capacitación.
 
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### Artículo 16-L.
 
-La Coordinadora del Sistema Estatal de Seguridad Pública destinará una partida económica especial a efecto de mantener, de manera permanente, la Oficina del Sistema Integral de Información, así como el Programa Continuo de Difusión de la Policía Comunitaria.
+La Secretaría de Seguridad Pública destinará una partida económica especial a efecto de mantener, de manera permanente, la Oficina del Sistema Integral de Información, así como el Programa Continuo de Difusión de la Policía Comunitaria.
 
 > <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
@@ -359,17 +373,23 @@ I.- El Consejo Estatal de Seguridad Pública;
 
 II.- El Gobernador del Estado;
 
-III.- El Secretario de Gobierno;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+III.- El Secretario General de Gobierno;
 
 IV.- El Procurador General de Justicia del Estado;
 
-V.- El Coordinador Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+V.- El Secretario de Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 VI.- El Coordinador Operativo y demás miembros de la Policía al mando del ministerio público;
 
-VII.- El Titular y demás elementos de la Corporación de Tránsito en el Estado, y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+VII.- Los Titulares y demás elementos de la Dirección de Vialidad y Protección Civil y de la Dirección de Operación Preventiva de la Secretaría de Seguridad Pública;
 
 VIII.- Las demás que con ese carácter determinen otras disposiciones aplicables.
 
@@ -397,17 +417,25 @@ Se crea el Consejo Estatal de Seguridad Pública el cual estará integrado por:
 
 I.- El Gobernador del Estado, quien lo presidirá;
 
-II.- El Secretario de Gobierno;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+II.- El Secretario General de Gobierno;
 
 III.- El Procurador General de Justicia del Estado;
 
 IV.- Los Presidentes municipales de la Entidad;
 
-V.- El Coordinador Estatal de Seguridad Pública, y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+V.- El Secretario de Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 VI.- El Coordinador Operativo de la Policía al mando del ministerio público;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+VI.- El titular de la Dirección de Operación Preventiva de la Secretaría de Seguridad Pública;
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
@@ -435,9 +463,11 @@ VI.- Proponer al Ejecutivo del Estado para su consideración y en su caso expedi
 
 VII.- Las demás que le señale esta Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 22.
 
-El Consejo Estatal de Seguridad Pública funcionará de acuerdo a los lineamientos que el mismo expida para ese efecto. En todo caso, el Secretario Ejecutivo del Consejo, lo será el titular de la Coordinadora Estatal de Seguridad Pública.
+El Consejo Estatal de Seguridad Pública funcionará de acuerdo a los lineamientos que el mismo expida para ese efecto. En todo caso, el Secretario Ejecutivo del Consejo, lo será el titular de la Secretaría de Seguridad Pública.
 
 ###### Artículo 23.
 
@@ -457,9 +487,13 @@ VI.- Ordenar los estudios y aprobar los planes y programas estatales, regionales
 
 VII.- Prestar al Poder Judicial los auxilios que requieran para el ejercicio de sus funciones y la ejecución de las resoluciones de los Tribunales;
 
-VIII.- Autorizar, a través del Secretario de Gobierno, la prestación de servicios de seguridad a los particulares en los términos de la fracción II del artículo 132 de esta Ley, cuando reúnan los requisitos impuestos por la misma y sus Reglamentos;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
-IX.- Nombrar y remover al Coordinador Estatal de Seguridad Pública y al Subcoordinador Estatal de Seguridad Pública;
+VIII.- Autorizar, a través del Secretario de Seguridad Pública, la prestación de servicios de seguridad a los particulares en los términos de la fracción II del artículo 132 de esta Ley, cuando reúnan los requisitos impuestos por la misma y sus Reglamentos;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+IX.- Nombrar y remover al Secretario de Seguridad Pública;
 
 X.- Proveer en la esfera administrativa a la exacta observancia de las disposiciones de la presente Ley y las demás aplicables; y
 
@@ -535,9 +569,11 @@ VI.- Prestar al Poder Judicial los auxilios que requieran para el ejercicio de s
 
 VII.- Las demás que le asigne esta Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 30.
 
-La Coordinadora Estatal de Seguridad Pública tendrá las siguientes atribuciones:
+La Secretaría de Seguridad Pública tendrá, además de las establecidas en el artículo 35 bis de la Ley Orgánica del Poder Ejecutivo del Estado, para los fines de esta Ley, las siguientes atribuciones:
 
 I.- Someter a la consideración del Consejo Estatal de Seguridad Pública, las políticas, programas y acciones a ejecutar en la materia de disciplina, capacitación, prevención del delito y siniestros, así como proponer lineamientos uniformes y congruentes en materia de Seguridad Pública preventiva, conforme a las disposiciones legales y de acuerdo con las políticas, planes y programas aprobados por el Gobernador del Estado;
 
@@ -557,11 +593,11 @@ VIII.- Promover la formación de personal especializado para el Servicio de Segu
 
 IX.- Las demás que le señale esta Ley y otras disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### Artículo 31.
 
-El Secretario de Gobierno, El Procurador General de Justicia del Estado, el Coordinador Operativo de Policía al mando del ministerio público, el Titular de Tránsito en el Estado, los Directores o encargados de las policías municipales, los Directores o encargados de Tránsito Municipal, los comisarios de policía y en general, todas las dependencias que en esta Ley u otras disposiciones aplicables tengan funciones de Seguridad Pública, tendrán las atribuciones que les señalen las mismas y en general, el carácter de auxiliares de la materia.
+El Secretario General de Gobierno, el Secretario de Seguridad Pública, el Procurador General de Justicia del Estado, el Coordinador Operativo de Policía al mando del Ministerio Público, el Titular de la Dirección de Operación Preventiva de la Secretaría de Seguridad Pública, el Titular de la Dirección de Vialidad y Protección Civil, los Directores o encargados de las policías municipales, los Directores o encargados de Tránsito Municipal, los comisarios de policía y en general, todas las dependencias que en esta Ley u otras disposiciones aplicables tengan funciones de seguridad pública, tendrán las atribuciones que les señalen las mismas y en general, el carácter de auxiliares de la materia.
 
 ### CAPITULO TERCERO. DE LA COORDINACION EN MATERIA DE SEGURIDAD PUBLICA
 
@@ -621,41 +657,29 @@ La coordinación de los Cuerpos de Seguridad Pública del Estado y de los Munici
 
 La coordinación estará sujeta a lo dispuesto en la presente Ley, en los Reglamentos, convenios y acuerdos respectivos.
 
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 19 DE ENERO DE 2005)</small>
+
 #### SECCION SEGUNDA. LA COORDINADORA ESTATAL DE SEGURIDAD PUBLICA
 
 ###### Artículo 40.
 
-La Coordinadora Estatal de Seguridad Pública estará integrada por:
-
-I.- El Coordinador Estatal de Seguridad Pública, quien contará con un Subcoordinador de orientación y enlace, para asesoría en materia de Seguridad Pública a los Municipios y con el personal de apoyo que autorice el Presupuesto de Egresos;
-
-II.- El Subcoordinador Estatal de Seguridad Pública; y
-
-III.- Las Direcciones de Seguridad Pública Municipal.
+(DEROGADO, P.O. 19 DE ENERO DE 2005)
 
 ###### Artículo 41.
 
-El Cuerpo Estatal de Seguridad Pública, para la mejor prestación del servicio, contará con Coordinaciones de Zona, convenientemente distribuidas en el territorio del Estado, pero cuando menos, habrá las siguientes:
-
-I.- Zona Centro;
-
-II.- Zona Norte;
-
-III.- Zona Sur, y
-
-IV.- Zona Occidente.
+(DEROGADO, P.O. 19 DE ENERO DE 2005)
 
 ###### Artículo 42.
 
-En cada una de las Coordinaciones de Zona, estarán adscritos los grupos de la policía del ámbito estatal que se requieran para la adecuada prestación del servicio, que estarán directamente bajo el mando del Coordinador de Zona correspondiente.
+(DEROGADO, P.O. 19 DE ENERO DE 2005)
 
 ###### Artículo 43.
 
-El Gobernador del Estado, por conducto del Secretario de Gobierno, podrá aumentar el número de Coordinaciones de Zona y variar su jurisdicción de acuerdo con las necesidades del servicio.
+(DEROGADO, P.O. 19 DE ENERO DE 2005)
 
 ###### Artículo 44.
 
-Los grupos de policía del ámbito estatal, podrán estar especializados en razón del volumen y naturaleza de los asuntos que les corresponda atender, o a las condiciones en que deban operar.
+(DEROGADO, P.O. 19 DE ENERO DE 2005)
 
 ### CAPITULO CUARTO. DE LOS ORGANOS CONSULTIVOS DE SEGURIDAD PUBLICA
 
@@ -737,7 +761,9 @@ IX.- Participar en operativos policiales en coordinación con otras corporacione
 
 X.- Preservar el secreto en los asuntos que por razón de su función, tengan conocimiento;
 
-XI.- Colaborar con la Academia de Policía del Estado, cuando así se les requiera, como instructores técnicos en la formulación de programas de capacitación y material didáctico, de acuerdo con sus aptitudes;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+XI.- Colaborar con el Instituto de Profesionalización Policial del Estado, cuando así se les requiera, como instructores técnicos en la formulación de programas de capacitación y material didáctico, de acuerdo con sus aptitudes;
 
 XII.- Asistir puntualmente al desempeño del servicio o comisión, durante los horarios fijados por la superioridad, así como a la instrucción que se imparta y a los entrenamientos que se ordenen;
 
@@ -771,7 +797,9 @@ XXV.- Los demás que les señalen esta Ley y otros ordenamientos de la materia.
 
 En ningún caso y por ningún motivo, serán sancionados los integrantes de los Cuerpos de Seguridad Pública que se nieguen a cumplir órdenes manifiestamente ilegales; considerándose como tales las que vulneren el orden jurídico.
 
-En el caso de este artículo, el que reciba la orden deberá inmediatamente manifestar su inconformidad a su superior; si éste insistiere en el cumplimiento de la orden, aquél lo notificará por escrito, o en caso de urgencia por cualquier otro medio al Secretario Ejecutivo del Sistema Estatal, quien a su vez lo turnará al órgano de control interno de cada cuerpo de Seguridad Pública, a fin de que resuelva lo que proceda.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
+En el caso de este artículo, el que reciba la orden deberá inmediatamente manifestar su inconformidad a su superior; si éste insistiere en el cumplimiento de la orden, aquél lo notificará por escrito, o en caso de urgencia por cualquier otro medio al Secretario de Seguridad Pública del Estado, quien a su vez lo turnará al órgano de control interno de cada cuerpo de seguridad pública, a fin de que resuelva lo que proceda.
 
 #### SECCION TERCERA. DE LA PROFESIONALIZACION DE LOS CUERPOS DE SEGURIDAD PUBLICA Y LA FORMACION POLICIAL
 
@@ -815,17 +843,21 @@ Las academias o instituciones equivalentes, encaminarán sus actividades con el 
 
 La academia impartirá gratuitamente cursos básicos, medio y superior de especialización, de actualización y de promoción, para el mejoramiento profesional de los integrantes de los Cuerpos de Seguridad Pública.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 59.
 
-La Secretaría Ejecutiva, a través de las academias de policía del Estado o de sus equivalentes, tramitará y actualizará ante la autoridad educativa competente, el registro de los estudios policiales para obtener reconocimientos y validez oficiales correspondientes.
+La Secretaría de Seguridad Pública a través de las academias de policía del Estado o de sus equivalentes, tramitará y actualizará ante la autoridad educativa competente, el registro de los estudios policiales para obtener reconocimientos y validez oficiales correspondientes.
 
 ###### Artículo 60.
 
 Es obligación de los elementos de los Cuerpos de Seguridad Pública, asistir a la academia de policía correspondiente, a fin de adquirir los conocimientos teóricos y prácticos que permitan su constante actualización.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 61.
 
-En las academias de policía, deberá existir una Comisión Técnica de Profesionalización, la cual se encargará de elaborar, evaluar y someter a la consideración del Consejo Estatal de Seguridad Pública la actualización del Reglamento de Formación Policial, para remitirse en su caso, al Ejecutivo del Estado. La Comisión se integrará, según corresponda, por los titulares de los Cuerpos de Seguridad Pública señalados en los artículos 17 y 18 de esta Ley o sus respectivos representantes; será presidida por el Secretario Ejecutivo del Sistema Estatal o quien éste designe para tal efecto, pudiendo participar en ella los órganos consultivos de Seguridad Pública.
+En las academias de policía, deberá existir una Comisión Técnica de Profesionalización, la cual se encargará de elaborar, evaluar y someter a la consideración del Consejo Estatal de Seguridad Pública la actualización del Reglamento de Formación Policial, para remitirse en su caso, al Ejecutivo del Estado. La Comisión se integrará, según corresponda, por los titulares de los Cuerpos de Seguridad Pública señalados en los artículos 17 y 18 de esta Ley o sus respectivos representantes; será presidida por el Secretario de Seguridad Pública del Estado quien éste designe para tal efecto, pudiendo participar en ella los órganos consultivos de Seguridad Pública.
 
 ###### Artículo 62.
 
@@ -849,29 +881,41 @@ V.- Reunir los perfiles psicosomáticos y educativos necesarios;
 
 VI.- No ser alcohólico o farmacodependiente;
 
-VII.- Haber obtenido para tal efecto, por parte de la Coordinadora Estatal de Seguridad Pública, la constancia que acredite la revisión respectiva en el Registro Estatal Policial y en el Registro Nacional de Personal de Seguridad Pública; y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+VII.- Haber obtenido para tal efecto, por parte de la Secretaría de Seguridad Pública, la constancia que acredite la revisión respectiva en el Registro Estatal Policial y en el Registro Nacional de Personal de Seguridad Pública; y
 
 VIII.- Los demás que determinen las disposiciones aplicables.
 
-En todo caso, los nombramientos para cubrir las plazas vacantes de nueva creación en las corporaciones policiales, sólo podrán otorgarse a egresados de la Academia de Policía del Estado o de una institución similar que cuente con registro de validez oficial de estudio, en los términos del Artículo 121, fracción V, de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
+En todo caso, los nombramientos para cubrir las plazas vacantes de nueva creación en las corporaciones policiales, sólo podrán otorgarse a egresados del Instituto de Profesionalización Policial o de una institución similar que cuente con registro de validez oficial de estudio, en los términos del artículo 121, fracción V, de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### Artículo 64.
 
-En aquellas municipalidades en que no sea posible llevar a cabo la capacitación de la policía preventiva a través de la Academia de Policía del Estado o de una institución similar que cuente con registro de estudios de validez oficial, podrán solicitar este apoyo de la Policía del ámbito estatal, a efecto de llevar a cabo dicha capacitación, en los términos previstos por este ordenamiento.
+En aquellas municipalidades en que no sea posible llevar a cabo la capacitación de la policía preventiva a través del Instituto de Profesionalización Policial o de una institución similar que cuente con registro de estudios de validez oficial, podrán solicitar este apoyo de la policía del ámbito estatal, a efecto de llevar a cabo dicha capacitación, en los términos previstos por este ordenamiento.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### Artículo 65.
 
-La Academia de Policía del Estado podrá establecer las instalaciones que, a juicio del titular del Ejecutivo, se requieran en las diversas regiones del Estado, a efecto de llevar a cabo la capacitación de las policías municipales.
+El Instituto de Profesionalización Policial podrá establecer las instalaciones que, a juicio del titular del Ejecutivo, se requieran en las diversas regiones del Estado, a efecto de llevar a cabo la capacitación de las policías municipales.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### Artículo 66.
 
-La Academia de Policía del Estado estará a cargo de un Director, que será designado y removido libremente por el Gobernador del Estado.
+El Instituto de Profesionalización Policial estará a cargo de un Director, que será designado y removido libremente por el Gobernador del Estado.
 
-El Director de la Academia se auxiliará en el ejercicio de sus funciones, por el personal docente y administrativo autorizado en el Presupuesto de Egresos del Estado.
+El Director del Instituto de Profesionalización Policial se auxiliará en el ejercicio de sus funciones, por el personal docente y administrativo autorizado en el Presupuesto de Egresos del Estado.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### Artículo 67.
 
-La Academia de Policía del Estado tendrá la organización y atribuciones que le señale el Reglamento correspondiente.
+El Instituto de Profesionalización Policial tendrá la organización y atribuciones que le señale el reglamento correspondiente.
 
 #### SECCION CUARTA. DE LA ACTUACION DE LOS CUERPOS DE SEGURIDAD PUBLICA
 
@@ -909,9 +953,13 @@ Las credenciales, deberán contener el número de inscripción en el Registro Es
 
 Las credenciales a que se refieren los artículos anteriores, deberán ser firmadas:
 
-I.- Tratándose del personal del Cuerpo Estatal de Seguridad Pública por el Procurador General de Justicia, y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
-II.- Por lo que hace a los Cuerpos de Seguridad Pública municipales, por el Presidente Municipal respectivo, dando conocimiento para los efectos procedentes al Coordinador de Seguridad Pública del Estado.
+I.- Tratándose del personal del Cuerpo Estatal de Seguridad Pública por el Procurador General de Justicia o por el Secretario de Seguridad Pública, según corresponda;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+II.- Por lo que hace a los Cuerpos de Seguridad Pública municipales, por el Presidente Municipal respectivo, dando conocimiento para los efectos procedentes al Secretario de Seguridad Pública.
 
 Los servidores públicos a que se refiere este artículo, incurrirán en responsabilidad oficial, conforme a las disposiciones aplicables, cuando expidan credenciales a personas que no pertenezcan a las corporaciones policiales que señalan.
 
@@ -1065,11 +1113,11 @@ III.- Al mérito.
 
 Las modalidades, los requisitos y procedimientos para otorgar los reconocimientos a que se refiere el artículo inmediato anterior estarán regulados por el Reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 94.
 
-El Consejo de Honor y Justicia u órgano afín, se integrará por un Presidente, designado por el Gobernador; un Secretario de Supervisión, que será el Procurador General de Justicia; un Secretario de Normatividad, que será el Jefe del Departamento de Gobernación; el Director de la Academia de Policía del Estado como Secretario de Operatividad y un Vocal, representante del Consejo Consultivo Estatal.
-
-Los Consejos de Honor y Justicia municipales se integrarán por un Presidente, designado por el Ayuntamiento; el Secretario de Supervisión, que será el Secretario del Ayuntamiento; el Inspector o Comandante de Policía como Secretario de Normatividad y Operatividad y un Vocal, representante del Consejo Consultivo Municipal respectivo.
+El Consejo de Honor y Justicia u órgano afín, se integrará por un Presidente, designado por el Gobernador; un Secretario de Supervisión, que será el Procurador General de Justicia; un Secretario de Normatividad, que será el Director de Ejecución de Penas y Medidas de Seguridad dependiente de la Secretaría de Seguridad Pública; el Director del Instituto de Profesionalización Policial, como Secretario de Operatividad y un Vocal, representante del Consejo Consultivo Estatal. Los Consejos de Honor y Justicia municipales se integrarán por un Presidente, designado por el Ayuntamiento; el Secretario de Supervisión, que será el Secretario del Ayuntamiento; el Inspector o Comandante de Policía como Secretario de Normatividad y Operatividad y un Vocal, representante del Consejo Consultivo Municipal respectivo.
 
 ###### Artículo 95.
 
@@ -1131,9 +1179,11 @@ El Gobierno del Estado, a través de las dependencias y entidades competentes, a
 
 El Estado y los municipios intercambiarán y sistematizarán la información sobre Seguridad Pública, mediante los instrumentos tecnológicos modernos que permitan el fácil y rápido acceso a los usuarios a que se refiere esta Ley.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 102.
 
-El Estado y los municipios, por conducto de la Secretaría Ejecutiva del Sistema Estatal, suministrarán al Sistema Nacional la información sobre Seguridad Pública del Estado, en los términos de la Ley Federal de la materia.
+El Estado y los municipios, por conducto de la Secretaría de Seguridad Pública, suministrarán al Sistema Nacional la información sobre Seguridad Pública del Estado, en los términos de la Ley Federal de la materia.
 
 ### CAPITULO SEGUNDO. DEL REGISTRO ESTATAL POLICIAL
 
@@ -1143,9 +1193,11 @@ El Registro Estatal Policial tendrá por objeto llevar el registro y control té
 
 Además, quedarán integrados al Registro Policial aquellos aspirantes que hayan sido rechazados y los admitidos que hayan desertado del curso de formación policial; se llevará un control de los elementos suspendidos, destituidos, inhabilitados, consignados y de las renuncias.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 104.
 
-Al frente del Registro Estatal Policial estará un Director, designado por el Gobernador del Estado, y se auxiliará en el ejercicio de sus funciones por el personal que autorice el Presupuesto de Egresos del Estado. Será el responsable de implementar la aportación de los datos necesarios al Registro Nacional del Personal de Seguridad Pública.
+La Secretaría de Seguridad Pública será la encargada del registro estatal policial cuya función será desempeñada por la Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública y se auxiliará en el ejercicio de sus funciones por el personal que autorice el Presupuesto de Egresos del Estado. Será la responsable de implementar la aportación de los datos necesarios al Registro Nacional del Personal de Seguridad Pública.
 
 ###### Artículo 105.
 
@@ -1351,7 +1403,9 @@ Los servicios de Seguridad Privada sólo podrán proporcionarse en la Entidad, u
 
 I.- De la Secretaría de Gobernación, cuando el servicio se vaya a prestar en dos o más entidades de la República;
 
-II.- De la Secretaría de Gobierno del Ejecutivo Estatal, cuando el servicio se vaya a prestar en dos o más municipios del Estado, o
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+II.- La Secretaría de Seguridad Pública, cuando el servicio se vaya a prestar en dos o más municipios del Estado, o
 
 III.- Del Ayuntamiento del Municipio en que se vaya a prestar el servicio, cuando no se encuentren en los supuestos previstos en las dos fracciones anteriores.
 
@@ -1391,7 +1445,9 @@ VII.- Los uniformes, insignias, divisas o equipo que utilicen para la prestació
 
 VIII.- Efectuarán la selección y contratación del personal que intervenga en la prestación y ejecución de los servicios, de conformidad con las disposiciones aplicables. Asimismo, deberán otorgar al personal que contraten en los términos de las disposiciones aplicables, las prestaciones en materia de seguridad social correspondientes;
 
-IX.- Deberán proporcionar capacitación y adiestramiento a los miembros de los Cuerpos de Seguridad Privada, en instituciones de naturaleza similar a la de la Academia de Policía del Estado, que cuenten con reconocimiento oficial de validez de estudios;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+IX.- Deberán proporcionar capacitación y adiestramiento a los miembros de los Cuerpos de Seguridad Privada, en instituciones de naturaleza similar a la del Instituto de Profesionalización Policial dependiente de la Secretaría de Seguridad Pública, que cuenten con reconocimiento oficial de validez de estudios;
 
 X.- Notificarán al Registro Estatal Policial las altas y bajas de su personal, cubriendo los requisitos que para el efecto determinen las disposiciones aplicables;
 
@@ -1415,9 +1471,13 @@ IV.- Imponer las sanciones que correspondan, en los términos del artículo 146 
 
 V.- Las demás que le atribuyan la presente Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 136.
 
-Los particulares que presten los servicios a que se refiere el presente capítulo, diseñarán e instrumentarán programas permanentes de capacitación y adiestramiento para su personal, el que se someterá a la autorización y revisión periódica de la Secretaría de Gobierno. Esta revisión podrá efectuarse cuando menos una vez por semestre.
+Los particulares que presten los servicios a que se refiere el presente capítulo, diseñarán e instrumentarán programas permanentes de capacitación y adiestramiento para su personal, el que se someterá a la autorización y revisión periódica de la Secretaría de Seguridad Pública.
+
+Esta revisión podrá efectuarse cuando menos una vez por semestre.
 
 ###### Artículo 137.
 
@@ -1618,3 +1678,17 @@ El Ejecutivo del Estado deberá formular el Reglamento de la Policía Comunitari
 P.O. 2 DE OCTUBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el correcto desempeño de las atribuciones que se confieren a la Secretaría de Seguridad Pública, el ejecutivo Estatal deberá expedir el ordenamiento jurídico que regule el funcionamiento de dicha secretaría, dentro de los 60 días posteriores a la entrada en vigor de las reformas aprobadas, así como realizar las reformas necesarias al Reglamento Interior de la Secretaría General de Gobierno y al Reglamento de la Penitenciaría del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Cuando en la Ley de Protección Civil del Estado de Chihuahua, se haga referencia a la unidad de Protección Civil, se entenderá citada la Coordinación de Protección Civil.
