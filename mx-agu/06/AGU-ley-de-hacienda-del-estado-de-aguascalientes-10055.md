@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2000-02-21"
+last_updated: "2000-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -32,8 +32,6 @@ RODOLFO LANDEROS GALLEGOS, Gobernador Constitucional del Estado Libre y Soberano
 Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
 
 El H. Congreso del Estado en sesión ordinaria celebrada hoy, y en uso de la facultad que le concede la Fracción II del Artículo 27 de la Constitución Política Local, tuvo a bien expedir la siguiente
-
-> <small>N. DE E. ES DE OBSERVARSE QUE LA LVII LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE AGUASCALIENTES EXPIDIO EL DECRETO No. 72, QUE CONTIENE DIVERSAS REFORMAS Y ADICIONES A LA LEY DE HACIENDA DEL ESTADO, EN CUYO ARTICULO SEGUNDO TRANSITORIO, SE ESTABLECE QUE PARA EFECTOS DE FACILITAR LA DIFUSION DE DICHA REFORMA, HABRA DE PUBLICARSE EL TEXTO INTEGRO Y ACTUALIZADO DE LA PROPIA LEY DE HACIENDA; MOTIVO POR EL CUAL SE TRANSCRIBE EL MISMO, PUBLICADO EN EL P.O. DE 21 DE FEBRERO DE 2000.</small>
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
@@ -49,9 +47,9 @@ LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
 ## TITULO SEGUNDO. De los Derechos
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
-### CAPITULO II. Del Impuesto Sobre Diversiones Públicas
+### CAPITULO II. Del Impuesto Sobre Diversiones y Espectáculos Públicos
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
@@ -73,7 +71,9 @@ c).- Prenda.
 
 d).- Transmisión de los derechos originados por los actos a que se refieren los incisos anteriores.
 
-e).- Construcción, reconstrucción, ampliación o demolición de inmuebles cuando no se cause el Impuesto al Valor Agregado.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
+
+e).- Los Actos o contratos que tengan por objeto la construcción, reconstrucción, ampliación o demolición de inmuebles cuando no se cause el Impuesto al Valor Agregado.
 
 II.- Cualquier otro tipo de acto o contrato, ya sea que represente o no interés pecuniario para los contratantes, si no está gravado por algún otro impuesto del Estado.
 
@@ -205,11 +205,51 @@ En el caso de que las obligaciones estipuladas están sujetas a alguna condició
 
 Los notarios públicos o quienes hagan sus veces, los particulares tratándose de documentos privados u otorgados fuera del Estado o los funcionarios judiciales cuando sea potestativa la protocolización de sus resoluciones, deberán dar aviso a la Secretaría de Finanzas de los actos o contratos en que intervengan, gravados por el impuesto que regula este Capítulo.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 12.
 
-Es objeto del Impuesto sobre Diversiones Públicas, el ingreso que se obtenga por la explotación de las siguientes actividades: Espectáculos en teatros, circos, luchas, espectáculos taurinos, espectáculos deportivos, apuestas permitidas de todos tipos, agencias de apuestas sobre carreras, conciertos musicales y exhibiciones de cualquier tipo con cuota de admisión.
+El objeto de este impuesto, es la percepción de ingresos derivados de la realización o explotación de diversiones y espectáculos públicos de cualquier tipo con cuota de admisión, cuando dichos ingresos no estén gravados por el Impuesto al Valor Agregado.
+
+Para efectos de este impuesto se entiende por:
+
+a) Diversión pública: La realización de eventos abiertos al público, con propósito de esparcimiento, y en los cuales el asistente participa en el desarrollo de los mismos.
+
+b) Espectáculo público: La realización de eventos a los que se asiste con el propósito de esparcimiento y en los cuales el asistente es el espectador.
+
+Los eventos generadores de los ingresos gravados por este impuesto se mencionan de manera enunciativa más no limitativa:
+
+a) Diversiones Públicas:
+
+1. Bailes Públicos
+
+2. Patinaje en pistas
+
+b) Espectáculos
+
+1. Teatrales
+
+2. Circenses
+
+3. Box y Lucha
+
+4. Taurinos
+
+5. Artísticos
+
+6. De rodeos
+
+7. Charreadas
+
+8. De carreras hípicas o de automotores en general
+
+9. Deportivos
+
+10. Conciertos musicales
+
+c) Apuestas permitidas de todos tipos
+
+d) Eventos de cualquier tipo.
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
@@ -223,13 +263,13 @@ Están exentos del pago de este impuesto:
 
 I.- Las Dependencias de la Federación, de los Estados y de los Municipios cuando de conformidad con los actos o contratos que celebren, les correspondería la obligación de pagar este impuesto.
 
-II.- La protocolización de documentos por los cuales ya se hubiese pagado este impuesto.
+II.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2000)
 
-III.- Las protocolizaciones, aclaraciones, ratificaciones, rectificaciones y rescisiones, relacionadas con actos o contratos, exceptuados de este impuesto.
+III.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2000)
 
 IV.- Los contratos y actos mercantiles siempre y cuando se encuentren gravados por el Impuesto al Valor Agregado.
 
-V.- La protocolización de Actas de Asambleas Generales Ordinarias y Extraodinarias de Accionistas.
+V.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2000)
 
 VI.- Los contratos de arrendamiento.
 
@@ -255,33 +295,33 @@ Tratándose de documentos mercantiles cuyo registro no puede ser demorado de acu
 
 ###### ARTICULO 13.
 
-Son sujetos del impuesto las personas físicas o morales que perciban los ingresos a que se refiere el artículo anterior.
+Son sujetos del impuesto las personas físicas o morales que perciban ingresos por la realización o explotación de diversiones y espectáculos públicos.
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 14.
 
-Responden solidariamente del pago del impuesto:
+Son responsables solidarios del pago del impuesto:
 
-I.- Los propietarios o poseedores de establecimientos en los que permanente u ocasionalmente, por cualquier acto o contrato se autorice a personas sujetas de este impuesto para que exploten diversiones públicas, a menos que den aviso de la celebración del contrato.
+I.- Los propietarios o poseedores de establecimientos en los que habitual o eventualmente, por cualquier acto o contrato permitan la realización de diversiones y espectáculos públicos en dichos establecimientos, salvo que den aviso por escrito de la celebración del contrato o del acto correspondiente a la Secretaría de Finanzas del Estado previamente a la realización de los espectáculos y diversiones públicas.
 
-II.- Los funcionarios que tengan a su cargo el otorgamiento de permisos o licencias para la celebración de diversiones, si no dan el aviso a que se refiere el Artículo 21 de esta Ley.
+II.- Los funcionarios que tengan a su cargo el otorgamiento de permisos o licencias para la celebración de diversiones o espectáculos públicos, si no dan el aviso a que se refiere el Artículo 21 de esta Ley.
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 15.
 
-Es base para el pago de este impuesto el monto total de los ingresos obtenidos.
+La base para el pago de este impuesto es el monto total de los ingresos obtenidos con motivo de la venta de boletos para la asistencia a los espectáculos y diversiones públicas.
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 16.
 
-Este impuesto se liquidará de conformidad con las cuotas que al efecto señale la Ley de Ingresos del Estado.
+Este impuesto se liquidará de conformidad con las lasas que al efecto señale la Ley de Ingresos del Estado.
 
-En caso de que en una misma función se presenten dos o más espectáculos, el impuesto se causará con la cuota más alta.
+En caso de que en una misma función se presenten dos o más espectáculos o diversiones, el impuesto se causará con la tasa más alta para cualquiera de los espectáculos o diversiones realizadas.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
 ### CAPITULO III. Del Impuesto Sobre Tenencia o Uso de Vehículos Automotores
 
@@ -289,97 +329,99 @@ En caso de que en una misma función se presenten dos o más espectáculos, el i
 
 #### SECCION PRIMERA. Del objeto
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 17.
 
-El pago de este impuesto deberá realizarse en la Oficina Receptora correspondiente al domicilio del contribuyente o al lugar donde la diversión se realice, dentro de los siguientes plazos:
+El pago de este impuesto deberá realizarse en la Secretaría de Finanzas del Estado o en las instituciones bancarias autorizadas, dentro de los siguientes plazos:
 
-I.- Cuando la explotación de diversiones públicas se realice permanentemente en establecimientos fijos, dentro de los primeros veinte días del mes siguiente al en que se hubiesen percibido los ingresos objeto del gravamen, presentando al efecto una declaración de los ingresos obtenidos, en las formas aprobadas.
+I.- Cuando la explotación de diversiones o espectáculos públicos se efectúe habitualmente: dentro de los primeros veinte días del mes siguiente al en que se hubiesen percibido los ingresos totales del mes objeto del gravamen, presentando al efecto una declaración de los ingresos obtenidos, en las formas aprobadas.
 
-II.- Cuando se trate de contribuyente, eventuales, al terminar cada función, liquidando el impuesto por conducto del interventor que al efecto designe la Secretaría de Finanzas.
+II.- Cuando se trate de contribuyentes eventuales, éste constituirá garantía del interés fiscal en la Secretaría de Finanzas del Estado, por el importe del Impuesto Estatal aplicado al cien por ciento de boletos sellados por la Autoridad Municipal competente. Al concluir los eventos generadores de los ingresos gravados se determinará ante la Secretaría de Finanzas del Estado el saldo a favor del contribuyente, exhibiendo los boletos no vendidos y de cortesía, hecho lo cual se efectuará la devolución que proceda, dándose ingreso al Impuesto causado y expidiéndose el recibo fiscal correspondiente.
 
-En el caso del párrafo anterior, la Secretaría de Finanzas podrá autorizar al contribuyente de que se trate para enterar el impuesto causado, ante la Oficina Receptora que corresponda, al siguiente día hábil de aquel en que se celebre la función o funciones.
+Para efectos de este impuesto se entiende por:
 
-Cuando por cualquier circunstancia, el interventor designado no ocurra a formular la liquidación y en su caso recaudar el impuesto, el contribuyente se encuentra obligado a ejecutar el pago del mismo, el siguiente día hábil a aquel en que ocurra la función o funciones.
+a) Contribuyentes habituales: Aquellas personas físicas o morales que hacen de la explotación de diversiones y espectáculos públicos su ocupación ordinaria.
+
+b) Contribuyentes eventuales: Aquellas personas físicas o morales que realicen o exploten esporádica o accidentalmente espectáculos o diversiones públicas.
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 #### SECCION SEGUNDA. Del Sujeto
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 18.
 
-Los contribuyentes de este impuesto tienen, además las siguientes obligaciones:
+Los contribuyentes habituales tendrán las siguientes obligaciones:
 
-I.- Si explotan habitualmente el espectáculo público en establecimiento fijo:
+I.- Inscribirse en el Padrón Fiscal de la Secretaría de Finanzas del Estado, a más tardar tres días antes al que vayan a dar principio las actividades gravadas.
 
-a).- Registrar en la Secretaría de Finanzas, por conducto de la Oficina Receptora correspondiente, haciendo uso de las formas aprobadas y proporcionando los datos y los documentos que las mismas exijan, a más tardar el día anterior al que vayan a dar principio las actividades gravadas.
+II.- Presentar los avisos de cambio de domicilio o suspensión de actividades, ante la Secretaría de Finanzas del Estado, dentro de los 30 días siguientes a la fecha en que ocurran tales hechos o circunstancias.
 
-b).- Presentar los avisos de cambio de domicilio, suspensión de actividades, traspaso o clausura, ante las mismas autoridades, previamente a la fecha en que ocurran tales hechos o circunstancias.
+III.- Dar aviso por escrito a la Secretaría de Finanzas del Estado de los permisos o autorizaciones que les otorguen las autoridades competentes para la realización de espectáculos o diversiones públicas, a más tardar el día anterior a su realización.
 
-II.- Si la explotación se realiza en forma eventual, o si se realiza permanentemente pero no se cuenta con establecimiento fijo:
+IV.- Amparar la cuota de admisión con boleto o comprobante de entrada. Dicho comprobante debe contener como mínimo preimpreso: el nombre o denominación social, espectáculo o diversión de que se trate, precio y fecha.
 
-a).- Presentar un informe ante la Oficina Receptora que corresponda, que indique el período durante el que se realizará la diversión, a mas tardar el día anterior al en que se inicie.
+V.- A notificar por escrito a la Secretaría de Finanzas del Estado, de cualquier cambio en los precios fijados para los boletos de entrada o en los programas que correspondan a cada función del espectáculo o diversión, a más tardar el mismo día de la celebración de dichos eventos, pero antes de que se lleven a cabo los mismos.
 
-b).- Otorgar garantía a satisfacción de la Secretaría de Finanzas en alguna de las formas previstas en el Código Fiscal del Estado, que no será inferior al impuesto correspondiente a un día de actividades ni superior al que pudiera corresponder a tres días, previamente a la iniciación de actividades.
+VI.- Presentar ante la Secretaría de Finanzas del Estado, para su resello, el boletaje incluyendo los boletos de cortesía que expidan y el programa que corresponda a cada función, cuando menos un día antes de que se verifiquen los espectáculos o diversiones públicas.
 
-c).- Dar el aviso correspondiente en los casos de ampliación del período de explotación, ante la Oficina Receptora de su jurisdicción, a más tardar el último día que comprenda el aviso cuya vigencia se vaya a ampliar.
-
-III.- Presentar ante la Secretaría de Finanzas u Oficina Receptora respectiva, para su resello, el boletaje y el programa que corresponda a cada función, cuando menos un día antes de que se verifiquen los espectáculos.
-
-IV.- No vender boletos en tanto no estén resellados por las autoridades fiscales.
-
-V.- Permitir a los interventores que designe la Secretaría de Finanzas o sus Oficinas Receptoras, la verificación y determinación del pago del impuesto, dándoles las facilidades que requieran para su cumplimiento.
-
-VI.- En general, adoptar las medidas de control que para la correcta determinación de este impuesto, establezca la Secretaría de Finanzas.
-
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
 #### SECCION TERCERA. De la Responsabilidad Solidaria
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 19.
 
-Cuando los sujetos de este impuesto, obligados a otorgar garantía de acuerdo con lo dispuesto en la fracción II inciso b), del artículo anterior, no hubieran cumplido con tal obligación, la Secretaría de Finanzas, podrá suspender el espectáculo hasta en tanto no se garantice el pago del impuesto, para lo cual el interventor que se designe solicitará el auxilio de la fuerza pública.
+Los contribuyentes eventuales deberán cumplir las siguientes obligaciones:
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+I.- Presentar un aviso por escrito ante la Secretaría de Finanzas del Estado, de las autorizaciones o permisos que le sean otorgados por las autoridades competentes para la realización de diversiones o espectáculos públicos que indique el inicio o el período durante el que se realizará la diversión o el espectáculo, a más tardar el día anterior al en que se inicie.
+
+II.- Dar el aviso correspondiente ante la misma autoridad que se señala en la fracción anterior, en los casos de suspensión temporal o definitiva de la diversión o espectáculo público, cuando menos con un día de anticipación.
+
+III.- Dar el aviso por escrito, en los casos de ampliación del período en que se realizarán los espectáculos o diversiones públicas, ante la Secretaría de Finanzas del Estado, a más tardar el último día que comprenda el aviso cuya vigencia se vaya a ampliar.
+
+IV.- Amparar la cuota de admisión con boleto o comprobante de entrada. Dicho comprobante debe contener como mínimo preimpreso: el nombre o denominación social, espectáculo o diversión de que se trate, precio y fecha.
+
+V.- A notificar por escrito a la Secretaría de Finanzas del Estado, de cualquier cambio en los precios fijados para los boletos de entrada o en los programas que correspondan a cada función del espectáculo o diversión, a más tardar el mismo día de la celebración de dichos eventos, pero antes de que se lleven a cabo los mismos.
+
+VI.- Presentar ante la Secretaría de Finanzas del Estado para su resello, el boletaje incluyendo los boletos de cortesía que expidan y el programa que corresponda a cada función, cuando menos un día antes de que se verifiquen los espectáculos o diversiones.
+
+VII.- No vender boletos en tanto no estén reselIados por la autoridad fiscal estatal.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
 #### SECCION CUARTA. De la Base
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 20.
 
-Este impuesto en ningún caso, deberá ser repercutido al espectador.
+Cuando no se cumplan las obligaciones previstas, la autoridad fiscal estatal mediante mandamiento escrito podrá suspender cualquier diversión o espectáculo público, y podrá disponer del uso de la fuerza pública, en caso necesario.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
 #### SECCION QUINTA. Del Pago
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 21.
 
-Las autoridades competentes, al otorgar permisos para la explotación de espectáculos, deberán dar aviso a la Secretaría de Finanzas, o a sus Oficinas Receptoras, de las autorizaciones que otorguen, a más tardar el día anterior al que vaya a realizarse o al principiar la explotación del espectáculo.
+Los funcionarios encargados de dar permiso o licencia para la celebración de cualquier diversión o espectáculo público deberán dar aviso a la Secretaría de Finanzas del Estado de las autorizaciones que otorguen, a más tardar el día hábil anterior al de la realización de los eventos generadores del impuesto.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 22.
 
-Quedan preferentemente afectos a garantizar el pago de este impuesto.
-
-I.- Los bienes inmuebles en que se exploten espectáculos o diversiones públicas, cuando sean propiedad del contribuyente sujeto al gravamen.
-
-II.- El equipo y las instalaciones que se utilicen en la diversión o espectáculo.
+Este impuesto en ningún caso, debe ser repercutido al adquirente del boleto.
 
 > <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 #### SECCION SEXTA. De las Obligaciones de los Contribuyentes
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 23.
 
@@ -395,33 +437,35 @@ III.- Los Partidos Políticos Nacionales con registro, cuando los eventos que se
 
 ###### ARTICULO 24.
 
-Están obligadas al pago de este impuesto las personas físicas y morales que sean usuarias o tenedoras de vehículos automotores que circulen de manera habitual por la circunscripción territorial del Estado de Aguascalientes. Se presumirá lo anterior cuando el propietario, tenedor o usuario, tenga domicilio en el Estado. Se exceptúan del pago de este impuesto los discapacitados, los pensionados y jubilados que así lo acrediten.
+Están obligadas al pago de este impuesto las personas físicas y morales que sean usuarias o tenedoras de vehículos automotores de modelo anterior a los diez últimos ejercicios fiscales, que circulen de manera habitual por la circunscripción territorial del Estado de Aguascalientes. Se presumirá lo anterior cuando el propietario, tenedor o usuario, tenga domicilio en el Estado.
 
-Este Impuesto se causará por ejercicios fiscales los cuales se fijarán por año calendario. El pago del impuesto se efectuará durante los seis primeros meses del ejercicio ante las oficinas autorizadas por la Secretaría de Finanzas del Estado, y en las formas por ella aprobadas.
+Se exceptúan del pago de este impuesto personas con discapacidad, pensionados y jubilados que acrediten su respectiva condición a satisfacción de la Secretaría de Finanzas del Estado.
 
-No estarán obligados al pago de este impuesto los tenedores o usuarios de vehículos automotores que circulen con placas definitivas asignadas por otras Entidades Federativas, que acrediten ante la Secretaría de Finanzas del Estado, que se pagó un gravamen similar por el mismo ejercicio fiscal.
+Este impuesto se causará por ejercicios fiscales los cuales se fijarán por año calendario. El pago del impuesto se efectuará durante los tres primeros meses del ejercicio ante las oficinas autorizadas por la Secretaría de Finanzas del Estado, y en las formas por ella aprobadas.
 
-Para los efectos de esta Ley, la autoridad fiscal presumirá, salvo prueba en contrario, que el tenedor o usuario del vehículo automotor objeto de este impuesto, es quien se encuentra registrado como propietario ante la Secretaría de Finanzas del Estado.
+No estarán obligados al pago de este impuesto los tenedores o usuarios de vehículos automotores que circulen con placas definitivas asignadas por otras Entidades Federativas, que acrediten ante la Secretaría de Finanzas del Estado que se pagó un gravamen similar por el mismo ejercicio fiscal.
+
+Para los efectos de este impuesto, la autoridad fiscal presumirá, salvo prueba en contrario, que el tenedor o usuario del vehículo automotor objeto de este impuesto, es quien se encuentra registrado como propietario ante la Secretaría de Finanzas del Estado.
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 25.
 
-Es objeto de este impuesto, la tenencia o uso de automóviles, motocicletas, ómnibuses, camiones y tractores, a excepción de tractores destinados a actividades agrícolas, que sean de año modelo posterior a diez ejercicios fiscales, a partir del año de su fabricación.
+Es objeto de este impuesto, la tenencia o uso de los siguientes vehículos automotores: automóviles, motocicletas, omnibuses, camiones y tractores, a excepción de tractores destinados a actividades agrícolas, de modelo anterior a los últimos diez ejercicios fiscales.
 
 Para los efectos de este artículo, se consideran:
 
-a) Automóviles: Vehículos destinados para el transporte de hasta diez pasajeros, accionados con motores de combustión interna de 4, 6 y 8 cilindros.
+a) Automóviles: vehículos destinados para el transporte de hasta diez pasajeros accionados con motores de combustión interna de 4, 6 y 8 cilindros;
 
-b) Motocicletas: Vehículos accionados con motores de combustión interna de 1, 2 y 4 cilindros.
+b) Motocicletas: vehículos accionados con motores de combustión interna de 1, 2 y 4 cilindros;
 
-c) Omnibuses: Vehículos destinados para el transporte de más (sic) diez pasajeros, accionados con motores de combustión interna de 4, 6, 8 ó más cilindros.
+c) Omnibuses: vehículos destinados para el transporte de más de diez pasajeros, accionados con motores de combustión interna de 4, 6, 8 ó más cilindros;
 
-d) Camiones: Vehículos destinados para el transporte de bienes o personas y bienes, cuando la Ley de la materia lo permita, accionados con motores de combustión interna de 4, 6, 8 ó más cilindros; y
+d) Camiones: vehículos destinados para el transporte de bienes o personas y bienes cuando la ley de la materia lo permita, accionados con motores de combustión interna de 4,6, 8 ó más cilindros; y
 
-e).- Tractores: Vehículos fabricados para arrastrar remolques enganchados mediante sistemas mecánicos o hidráulicos, accionados por motores de combustión interna de 4, 6, 8 ó más cilindros.
+e) Tractores: vehículos fabricados para arrastrar remolques enganchados mediante sistemas mecánicos o hidráulicos, accionados por motores de combustión interna de 4, 6, 8, ó más cilindros.
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 26.
 
@@ -459,21 +503,19 @@ La Secretaría de Finanzas del Estado estará a cargo del Padrón Vehicular del 
 
 ### CAPITULO IV. Del Impuesto sobre la Prestación de Servicios de Hospedaje
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
 #### SECCION PRIMERA. De los Sujetos
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 30.
 
-Están obligadas al pago del impuesto establecido en esta Ley las personas físicas y morales que dentro del Estado de Aguascalientes, de manera permanente o temporal, presten servicios de albergue u hospedaje en hoteles, moteles, casas de huéspedes o cualquier instalación creada para ese fin, a cambio de una contraprestación en dinero o especie, sin importar la duración de los mismos.
-
-Los ingresos por este impuesto serán destinados para la promoción y difusión de la actividad turística del Estado de Aguascalientes.
+Están obligadas al pago del impuesto establecido en esta Ley las personas físicas y morales que dentro del Estado de Aguascalientes, de manera permanente o temporal, presten servicios de albergue u hospedaje en hoteles, moteles, casas de huéspedes o cualquier instalación creada para ese fin, a cambio de una contraprestación en dinero o en especie, sin importar la duración de los mismos. El 95% de los ingresos por este impuesto serán destinados para la promoción y difusión de la actividad turística del Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION SEGUNDA. Del Objeto
+#### SECCION TERCERA. De la Base
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
@@ -485,7 +527,7 @@ En ningún caso se considerará que dicho impuesto forma parte del ingreso neto 
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION TERCERA. De la Base
+#### SECCION QUINTA. Del Padrón Vehicular del Estado de Aguascalientes
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
@@ -507,9 +549,9 @@ Los contribuyentes de este impuesto efectuarán pagos provisionales bimestrales,
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION QUINTA. Del Padrón Vehicular del Estado de Aguascalientes
+#### SECCION SEGUNDA. Del Objeto
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 34.
 
@@ -567,7 +609,7 @@ b).- Los datos proporcionados por los beneficiarios de los servicios; y
 
 c).- Los Informes proporcionados por las autoridades encargadas de normar la actividad realizada por el contribuyente.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 #### SECCION TERCERA. De la Responsabilidad Solidaria
 
@@ -607,9 +649,9 @@ Es objeto de este impuesto la obtención de ingresos por premios derivados de lo
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION SEGUNDA. Del Sujeto
+#### SECCION CUARTA. De la Base
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 38.
 
@@ -617,7 +659,7 @@ Son sujetos de este impuesto las personas físicas, morales y unidades económic
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION TERCERA. De la Responsabilidad Solidaria
+#### SECCION SEXTA. De las Exenciones
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
@@ -627,9 +669,9 @@ Son solidarios responsables del pago de este impuesto, los organizadores del eve
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION CUARTA. De la Base
+#### SECCION UNICA
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 40.
 
@@ -643,9 +685,9 @@ II.- Tratándose de numerario, el monto efectivamente cobrado por el sujeto de l
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION QUINTA. Del Pago
+#### SECCION UNICA
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 41.
 
@@ -671,9 +713,9 @@ Este impuesto se causa cuando los sujetos cobren premios dentro del territorio d
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION SEXTA. De las Exenciones
+#### SECCION SEGUNDA. Del Sujeto
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 45.
 
@@ -681,7 +723,7 @@ Las infracciones al presente Título se sancionarán de conformidad a lo previst
 
 > <small>(ADICIONADO CON LAS SECCIONES QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION UNICA
+#### SECCION QUINTA. Del Pago
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
@@ -715,9 +757,9 @@ Es sujeto del impuesto el adquirente del vehículo.
 
 > <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION UNICA
+#### SECCION TERCERA. De la Responsabilidad Solidaria
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 49.
 
@@ -731,15 +773,13 @@ III.- Los comisionistas o intermediarios que intervengan en las adquisiciones.
 
 El enajenante está obligado a presentar aviso, en los formatos autorizados por la Secretaría de Finanzas del Estado, dentro de los 15 días siguientes a la fecha de operación.
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2000)</small>
-
 #### SECCION OCTAVA. De la Causación
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 50.
 
-La base la constituyen las tarifas para el Impuesto Sobre Tenencia o uso de Vehículos de Motor, publicadas por la Secretaría de Hacienda y Crédito Público del Gobierno Federal, para el ejercicio fiscal que corresponda.
+La base la constituye el porcentaje determinado en la Ley de Ingresos, respecto de las tarifas para el Impuesto Sobre Tenencia o uso de Vehículos, publicadas por la Secretaría de Hacienda y Crédito Público del Gobierno Federal, que corresponda al ejercicio fiscal en que se efectúe la adquisición.
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
@@ -757,7 +797,7 @@ La adquisición de vehículos no comprendidos en dichas tarifas causarán el imp
 
 El pago de este impuesto se hará en las oficinas recaudadoras de la Secretaría de Finanzas del Estado, en sus delegaciones o instituciones de crédito autorizadas para tal efecto al siguiente día hábil a la adquisición consignado en la factura del vehículo.
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 53.
 
@@ -769,17 +809,19 @@ II.- Los cambios de propietarios por causa de muerte, entre parientes en línea 
 
 III.- Las adquisiciones que realicen la Federación, el Estado y los Municipios, a menos que su actividad no corresponda a funciones de servicio público.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 54.
 
-Los derechos por la prestación de servicios públicos que presten las diversas dependencias del Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento en que provoque por parte del Estado, el gasto que deba ser remunerado por aquél, salvo el caso que la disposición que fije el derecho, señale cosa distinta.
+Los derechos por servicios públicos que presten las diversas Dependencias y Entidades del Gobierno del Estado, se causarán en el momento en que se reciba la prestación del servicio.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 55.
 
-El importe de las tasas que para cada derecho señala la Ley de Ingresos del Estado, deberá ser cubierto en la Receptoría de Rentas de la jurisdicción donde se presta el servicio, o en el lugar que al efecto señale la Secretaría de Finanzas.
+El importe de las tasas que para cada derecho señala la Ley de Ingresos del Estado, deberá ser cubierto en las cajas recaudadoras de la Secretaría de Finanzas de la jurisdicción donde se preste el servicio y las instituciones bancarias autorizadas para ello.
+
+Son sujetos del pago de derechos toda persona física o moral, incluyendo las de la Administración Pública Centralizada y Paraestatal de los Gobiernos Federal, Estatal y Municipal.
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
@@ -805,31 +847,23 @@ El funcionario o empleado público que preste algún servicio por el que se caus
 
 En caso de discrepancia acerca de la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio o el desarrollo de una actividad, la consignación del importe fijado por el órgano recaudador en los términos establecidos por las leyes fiscales, dará lugar a la prestación de dicho servicio o al desarrollo de la actividad.
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2000)</small>
-
 ###### ARTICULO 60.
 
-Las empresas que gocen de franquicias fiscales al amparo de los ordenamientos legales respectivos del Estado, quedarán sujetas a la vigilancia de la Secretaría de Finanzas por el término que duren tales franquicias.
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2000)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 61.
 
-El pago de derechos por servicios de vigilancia a empresas que gocen de franquicias fiscales, deberá hacerse dentro de los primeros veinte días de cada mes, mediante una declaración adjunta a la que los contribuyentes están obligados a presentar en relación con el Impuesto al Valor Agregado.
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2000)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 62.
 
-Si con motivo de la revisión de las declaraciones presentadas por los contribuyentes del derecho al que se refieren los artículos anteriores, se desprende la existencia de error o falsedad en las cantidades manifestadas, la Secretaría de Finanzas lo hará del conocimiento de los interesados pata los efectos del artículo siguiente.
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2000)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 63.
 
-Después de transcurridos dos meses sin que el derecho a que se refiere el artículo anterior, haya sido pagado o si existe incumplimiento a las condiciones de la concesión de la franquicia, el Secretario de Finanzas queda facultado para declarar la nulidad de la franquicia fiscal de que vengan disfrutando las empresas.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2000)
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 64.
 
@@ -861,7 +895,7 @@ X.- Productos diversos.
 
 Para la percepción de estos ingresos se estará a lo dispuesto, según el caso, en la Ley de Ingresos del Estado, en los contratos o concesiones respectivos, o en las escrituras constitutivas o decretos que den nacimiento a los establecimientos o empresas del Estado, y en defecto de ellos, en las disposiciones legales que les sean aplicables.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 66.
 
@@ -917,7 +951,11 @@ II.- Impuestos extraordinarios;
 
 III.- Derechos extraordinarios;
 
-IV.- Expropiaciones.
+IV.- Expropiaciones;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2000)</small>
+
+V. Apoyos extraordinarios del Fondo Federal para zonas de desastre.
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
@@ -929,9 +967,11 @@ I.- Impuestos, derechos y demás ingresos causados en ejercicios fiscales anteri
 
 II.- Saldo del ejercicio fiscal anterior.
 
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2000)</small>
+
 ## TITULO TERCERO. De los Productos
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ## TITULO CUARTO. De los Aprovechamientos
 
@@ -1028,3 +1068,7 @@ Se abroga Ley de Hacienda del Estado publicada en el Periódico Oficial del Esta
 ###### ARTICULO SEGUNDO.
 
 La presente Ley de Hacienda se suspenderá en sus efectos en lo que contravengan a la Ley del Impuesto al Valor Agregado y al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y sus anexos, celebrado entre el Estado de Aguascalientes y la Secretaría de Hacienda y Crédito Público.
+
+P.O. 28 DE DICIEMBRE DE 2000.
+
+UNICO.- La presente reforma entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
