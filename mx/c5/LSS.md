@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2004-01-05"
+last_updated: "2004-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE AGOSTO DE 2004.
 
-Ley publicada en la primera sección del Diario Oficial de la Federación el jueves 21 de diciembre de 1995.
+Ley publicada en la primera sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -2994,7 +2994,9 @@ Los sueldos a que se refiere el párrafo anterior se determinarán considerando 
 
 El Director General del Instituto no podrá recibir percepciones superiores a las de un Secretario del Despacho en la Administración Pública Federal Centralizada.
 
-El Consejo Técnico solamente podrá crear plazas con sujeción a criterios de productividad, eficiencia y calidad de servicio, así como aumento de la recaudación, siempre y cuando cuente con los recursos aprobados en su respectivo presupuesto para la creación de dichas plazas y aquellos indispensables para cubrir el costo de sus repercusiones, incorporando el costo anual del cumplimiento futuro de las obligaciones laborales, de carácter legal o contractual, incluyendo las afectaciones devengadas al Fondo correspondiente. Particularmente se procurará observar lo relativo a los montos que de acuerdo a lo dispuesto en la fracción VIII del artículo 276 de esta Ley deberán considerarse para efectos de incremento, decremento o, en su caso reconstitución del Fondo a que se refiere el artículo 286 K de esta misma Ley.
+> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2004)</small>
+
+El Consejo Técnico solamente podrá crear, sustituir o contratar plazas con sujeción a criterios de productividad, eficiencia y calidad de servicio, así como al aumento de la recaudación, siempre y cuando cuente con los recursos aprobados en su respectivo presupuesto para dicha creación, sustitución o contratación de plazas, y aquellos indispensables para cubrir el costo anual de sus repercusiones. Independientemente de lo anterior, para crear, sustituir o contratar plazas, se deberán depositar en el Fondo a que se refiere el artículo 286 K de esta Ley, los recursos necesarios para cubrir los costos futuros derivados del Régimen de Jubilaciones y Pensiones, a fin de que en todo momento, se encuentre plenamente financiado.
 
 El Instituto tiene la obligación de publicar en el Diario Oficial de la Federación, a más tardar el 30 de junio del ejercicio fiscal correspondiente, el informe analítico de todas (sic) los puestos y plazas, incluyendo temporales, sustitutos, residentes y análogas; los sueldos, prestaciones y estímulos de todo tipo de sus servidores públicos, agrupados por nivel, grado y grupo de mando, y los cambios autorizados a su estructura organizacional por el Consejo Técnico, así como el número, características y remuneraciones totales de la contratación de servicios profesionales por honorarios.
 
@@ -3066,11 +3068,13 @@ IV. Capacitación y desarrollo integral relacionados con las actividades sustant
 
 V. Integridad, responsabilidad y conducta adecuada de este personal.
 
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2004)</small>
 
-Artículo 286 K. El Instituto constituirá y, conforme a los lineamientos que al efecto emita el Consejo Técnico, administrará y manejará un Fondo para hacer frente a las obligaciones laborales que contraiga, ya sea por disposición legal o contractual, para con sus trabajadores, que se denominará Fondo para el Cumplimiento de Obligaciones Laborales de Carácter Legal o Contractual. Al efecto, el Consejo Técnico aprobará las reglas del referido Fondo a propuesta del Director General, quien deberá escuchar previamente la opinión de la Secretaría de Hacienda y Crédito Público. El manejo del Fondo deberá tomar en consideración las políticas y lineamientos que la Administración Pública Federal aplica en dicha materia.
+Artículo 286 K. El Instituto administrará y manejará, conforme a los lineamientos que al efecto emita el Consejo Técnico, un fondo que se denominará Fondo para el Cumplimiento de Obligaciones Laborales de Carácter Legal o Contractual, con objeto de disponer de los recursos necesarios en el momento de la jubilación de sus trabajadores. Al efecto, el Consejo Técnico aprobará las reglas del referido Fondo a propuesta del Director General, quien deberá escuchar previamente la opinión de la Secretaría de Hacienda y Crédito Público. El manejo del Fondo deberá tomar en consideración las políticas y lineamientos que la Administración Pública Federal aplica en dicha materia.
 
-Dicho Fondo deberá registrarse en forma separada en la contabilidad del Instituto estableciendo dentro de él una cuenta especial para las obligaciones correspondientes al Régimen de Jubilaciones y Pensiones de los trabajadores del Instituto. Los recursos que se afecten en dicho Fondo y cuenta especial sólo podrán disponerse para los fines establecidos en este artículo.
+Dicho Fondo deberá registrarse en forma separada en la contabilidad del Instituto estableciendo dentro de él una cuenta especial para el Régimen de Jubilaciones y Pensiones de los trabajadores del Instituto. Los recursos que se afecten en dicho Fondo y cuenta especial sólo podrán disponerse para los fines establecidos en este artículo.
+
+El Instituto, en su carácter de patrón, no podrá destinar a este Fondo, para el financiamiento de la cuenta especial del Régimen de Jubilaciones y Pensiones, recursos provenientes de las cuotas a cargo de los patrones y trabajadores establecidos en la Ley del Seguro Social. Tampoco podrá destinar recursos para dicho fin, de las contribuciones, cuotas y aportaciones, que conforme a la Ley del Seguro Social, son a cargo del Gobierno Federal; ni de las Reservas a que se refiere el artículo 280 de esta Ley o de los productos financieros que de ellas se obtengan.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -3849,3 +3853,11 @@ ARTÍCULOS TRANSITORIOS ARTÍCULO VIGÉSIMO CUARTO TRANSITORIO
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 2004.
 
 Segundo. Los pagos correspondientes a esta reforma se efectuarán a más tardar el 1o. de abril de 2004. Los recursos para dar cumplimiento a lo dispuesto por este Decreto, deberán atenderse con cargo al presupuesto aprobado para dicho efecto por la Cámara de Diputados.
+
+D.O.F. 11 DE AGOSTO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los trabajadores, jubilados y pensionados del propio Instituto, que ostenten cualquiera de esas condiciones hasta antes de la entrada en vigor del presente Decreto, seguirán gozando de los beneficios otorgados por el Régimen de Jubilaciones y Pensiones, y contribuyendo a dicho Régimen en los términos y condiciones en que lo han venido haciendo hasta antes de la entrada en vigor del presente Decreto; sin perjuicio de las modalidades que llegasen a acordar las partes. Para tal efecto, el Instituto aportará las cantidades que correspondan, contenidas en su respectivo presupuesto, en los términos del artículo 276 de la Ley del Seguro Social, con cargo a las cuotas, contribuciones y aportaciones que conforme a dicho ordenamiento, debe recaudar y recibir.
+
+TERCERO.- Con objeto de dar debido cumplimiento a lo establecido en el artículo 277 D de este Decreto, el Instituto llevará a cabo los estudios actuariales correspondientes y los comunicará a la representación de los trabajadores. Asimismo, deberá dar a conocer los resultados de dichos estudios al Congreso de la Unión en el Informe a que se refiere el artículo 273 de la Ley del Seguro Social.
