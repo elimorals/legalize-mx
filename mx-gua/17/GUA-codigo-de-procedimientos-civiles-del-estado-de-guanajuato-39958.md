@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1988-01-05"
+last_updated: "1988-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1988.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -481,7 +481,9 @@ Son correcciones disciplinarias:
 
 I.- Apercibimiento;
 
-II.- Multa que no exceda de cincuenta pesos, y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1988)</small>
+
+II.- Multa del equivalente de 1 a 15 días del salario mínimo general vigente en el momento y lugar que se cometa la falta que amerite corrección. Si el infractor fuese jornalero, obrero o trabajador, la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados, el equivalente a un día de su ingreso;
 
 III.- Suspensión de empleo hasta por quince días.
 
@@ -501,9 +503,9 @@ Los jueces y magistrados podrán ordenar que se subsane toda omisión que notare
 
 Los tribunales, para hacer cumplir sus determinaciones, pueden emplear cualesquiera de los siguientes medios de apremio:
 
-> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 1981)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1988)</small>
 
-I.- Multa hasta por mil pesos, y
+I.- Multa del equivalente de 1 a 30 días de salario mínimo general vigente en el momento y lugar en que se realizó la conducta que motivo el medio de apremio. Si el infractor fuese jornalero, obrero o trabajador, la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados, el equivalente a un día de su ingreso.
 
 II.- El auxilio de la fuerza pública.
 
@@ -4854,3 +4856,9 @@ P.O. 5 DE ENERO DE 1988.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
