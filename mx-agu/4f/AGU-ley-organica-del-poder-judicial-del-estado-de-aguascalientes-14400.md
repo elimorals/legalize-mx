@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "1999-02-14"
+last_updated: "1999-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER JUDICIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 1999.
+> <small>N. DE E. EL ARTICULO SEGUNDO DEL DECRETO DE REFORMAS NUMERO 46, PUBLICADO EN EL P.O. 19 DE SEPTIEMBRE DE 1999, EL LEGISLADOR SEÑALA: "SE ABROGAN LOS ARTICULOS 40 BIS Y 42 BIS DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO", SIN EMBARGO, DICHOS ARTICULOS DENTRO DEL CONTEXTO DE LA LEY SON INEXISTENTES.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 1999.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -43,17 +45,17 @@ LEY ORGANICA DEL PODER JUDICIAL
 
 ### CAPITULO I. De los Tribunales del Estado
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1999)</small>
 
 ###### ARTICULO 1o.
 
-El Poder Judicial del Estado se integra por el Supremo Tribunal de Justicia, el Tribunal Electoral, Juzgados de Primera Instancia, Civiles y Penales, Mixtos de Primera Instancia, Familiares y Mixtos Menores, el Consejo de la Judicatura Estatal, el Instituto de Capacitación y la Contraloría Interna.
+El Poder Judicial del Estado se integra por el Supremo Tribunal de Justicia, el Tribunal Electoral, el Tribunal de lo Contencioso Administrativo, Juzgados de Primera Instancia Civiles y Penales, Mixtos de Primera Instancia, Familiares y Mixtos Menores, el Consejo de la Judicatura Estatal, el Instituto de Capacitación y la Contraloría Interna.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1999)</small>
 
 ###### ARTICULO 2o.
 
-El Supremo Tribunal de Justicia, el Tribunal Electoral y los Jueces ejercerán su jurisdicción respectiva en el lugar, grado y términos que les asigna esta Ley, los Códigos Procesales, la Ley Electoral del Estado y las leyes vigentes.
+El Supremo Tribunal de Justicia, el Tribunal Electoral, el Tribunal de lo Contencioso Administrativo y los Jueces, ejercerán su jurisdicción respectiva en el lugar, grado y términos que les asigna esta Ley, los Códigos Procesales, la Ley Electoral del Estado, la Ley del Procedimiento Administrativo y demás leyes vigentes.
 
 ###### ARTICULO 3o.
 
@@ -149,7 +151,7 @@ IX.- Designar a Magistrados de una Sala para que transitoriamente integren otra 
 
 X.- Conocer los informes del Consejo de la Judicatura Estatal por lo que respecta a las licencias otorgadas a los Jueces y emitir opiniones de los mismos;
 
-XI.- (DEROGADA, P.O. 2 DE ABRIL DE 1995)
+XI.- Conocer de las renuncias de los servidores públicos a que se refiere la fracción que antecede;
 
 XII.- Excitar a los Jueces para que administren pronta y cumplida justicia, de oficio o a moción de las partes interesadas;
 
@@ -1250,3 +1252,13 @@ P.O. 14 DE FEBRERO DE 1999.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+P.O. 19 DE SEPTIEMBRE DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los cinco días del mes de enero del año 2000.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
