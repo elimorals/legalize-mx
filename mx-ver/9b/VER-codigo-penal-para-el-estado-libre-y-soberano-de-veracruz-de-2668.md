@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-266
 country: "mx"
 rank: "codigo"
 publication_date: "1980-09-13"
-last_updated: "1991-07-23"
+last_updated: "1992-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE ABRIL DE 1992.
 
 Código publicado en la Gaceta Oficial de Veracruz-Llave, el sábado 13 de septiembre de 1980.
 
@@ -2489,9 +2489,17 @@ V.-Pida términos para probar lo que notoriamente no puede demostrar o no ha apr
 
 > <small>(ADICIONADO, 23 DE SEPTIEMBRE DE 1986)</small>
 
+### CAPITULO I. DE LOS DELITOS ELECTORALES
+
+> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ## TITULO XVI. DELITOS CONTRA EL DESARROLLO URBANO Y EL DERECHO A LA VIVIENDA
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, 23 DE SEPTIEMBRE DE 1986)</small>
+
+### CAPITULO II. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TITULO
+
+> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 285.
 
@@ -2517,9 +2525,97 @@ II.-Venda o prometa vender construcciones ubicadas en conjuntos habitacionales.
 
 Estos delitos se perseguirán a querella del particular afectado o de la autoridad facultada para conceder el permiso o la licencia correspondiente, quienes podrán otorgar el perdón judicial, cuando el infractor satisfaga los requisitos de la Ley aplicable y sus reglamentos, acredite la reparación de los daños que pudiera haber causado y pague las multas que se le impongan.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 4 DE ABRIL DE 1992)</small>
+
+## TITULO XVII. DELITOS CONTRA LA FUNCION ELECTORAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 288.
 
-(DEROGADO, G.O. 9 DE ABRIL DE 1988)
+Se impondrá de seis meses a dos años de prisión o multa hasta de cien veces el salario mínimo o ambas sanciones, al que:
+
+I.-Vote a sabiendas de que no cumple con los requisitos de la Ley;
+
+II.-Vote más de una vez en una misma elección; u
+
+III.-Obstaculice o interfiera el desarrollo normal de las votaciones o del escrutinio.
+
+> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
+
+###### ARTICULO 289.
+
+Se impondrán de tres meses a cinco años de prisión o multa hasta de cien veces el salario mínimo, o ambas sanciones, al funcionario electoral que:
+
+I.-Altere en cualquier forma, sustituya, destruya o haga un uso indebido de documentos relativos al Registro Federal de Electores;
+
+II.-Se abstenga de cumplir sin causa justificada, con sus obligaciones electorales con perjuicio del proceso;
+
+III.-Obstruya el desarrollo normal de la votación sin mediar causa justificada;
+
+IV.-Altere los resultados electorales sustraiga o destruya boletas electorales;
+
+V.-No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada;
+
+VI.-En el ejercicio de sus funciones, ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+VII.-Instale abra o cierre dolosamente una casilla, fuera de los tiempos y formas previstos por la Ley de la materia; o
+
+VIII.-Expulse de la casilla electoral, sin causa justificada, a representante de un partido político.
+
+> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
+
+###### ARTICULO 290.
+
+Se impondrán de tres meses a cinco años de prisióón (sic) o multa hasta de cien veces el salario mínimo, o ambas sanciones, al funcionario partidista que:
+
+I.-Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+II.-Realice propaganda electoral mientras cumple sus funcionarios (sic) durante la jornada electoral;
+
+III.-sustraiga, destruya, altere o haga uso indebido de documentos oficiales de índole electoral;
+
+IV.-Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
+
+V.-Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto a los resultados oficiales contenidos en las actas de escrutinio y cómputo; o
+
+VI.-Impida con violencia la instalación, apertura o cierre de una casilla o la abra o cierre fuera de los tiempos previstos por la Ley en la materia.
+
+> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
+
+###### ARTICULO 291.
+
+Se impondrán de tres meses a seis años de prisión o multa hasta de doscientas veces el salario mínimo o ambas sanciones, al servidor público que:
+
+I.-Abusando de sus funciones obligue a sus subordinados a emitir sus votos a favor de un partido político o candidato;
+
+II.-Condicione la prestación de un servicio público a la emisión del sufragio a favor de un partido político o candidato; o
+
+III.-Destine fondos o bienes que tenga a su disposición en virtud de su cargo, al apoyo de un partido político o de un candidato sin perjuicio de las penas que puedan corresponder por el delito de peculado o proporcione ese apoyo a través de sus subordinados, usando del tiempo correspondiente a sus labores para que éstos presten servicios a un partido político o candidato.
+
+> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
+
+###### ARTICULO 292.
+
+Se impondrá sanción de suspensión de sus derechos políticos hasta por seis años a quien, habiendo sido electo Diputado no se presente, sin causa justificada a juicio de la Legislatura del Estado a desempeñar el cargo dentro del plazo señalado en el primer párrafo del artículo 56 de la Constitución Política del Estado.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 4 DE ABRIL DE 1992)</small>
+
+###### ARTICULO 293.
+
+Para los efectos de este Título se entiende por:
+
+I.-Funcionarios electorales, quienes en los términos de la legislación estatal electoral integren los órganos que cumplen funciones públicas electorales;
+
+II.-Funcionarios partidistas, los dirigentes de los partidos políticos, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales los propios partidos otorgan presentación para actuar en la jornada electoral ante los órganos electorales, en los términos de la legislación en la materia; y
+
+III.-Documentos públicos electorales las actas oficiales de instalación de casillas, de los escrutinios y cómputo de las mesas directivas de casilla las de los cómputos distritales o municipales, y en general, los documentos expedidos en el ejercicio de sus funciones por los organismos electorales.
+
+> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
+
+###### ARTICULO 294.
+
+Por la comisión de cualquiera de los delitos comprendidos en el presente Título se podrán imponer además de la pena señalada la suspensión de derechos políticos hasta por cinco años.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -2600,3 +2696,13 @@ Esta Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Of
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
+
+G.O. 4 DE ABRIL DE 1992.
+
+###### ARTICULO PRIMERO.
+
+El presente ordenamiento entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a este ordenamiento.
