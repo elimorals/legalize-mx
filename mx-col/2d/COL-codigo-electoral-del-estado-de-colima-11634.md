@@ -4,7 +4,7 @@ identifier: "COL-codigo-electoral-del-estado-de-colima-11634"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-11-09"
-last_updated: "1999-07-10"
+last_updated: "1999-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO ELECTORAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODIDO OFICIAL: 10 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODIDO OFICIAL: 31 DE JULIO DE 1999.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 9 de noviembre de 1996.
 
@@ -267,9 +267,11 @@ Quienes incumplan con lo dispuesto por este artículo, serán sancionados confor
 
 Son elegibles para los cargos de Gobernador y Diputado local, así como Presidente Municipal, Síndico y Regidor de los Ayuntamientos de los Municipios de la entidad, las personas que reúnan los requisitos que señalan la CONSTITUCION, este CODIGO y, en lo conducente, la Ley Orgánica del Municipio Libre.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 14.
 
-Los Consejeros Electorales para ser candidatos a un cargo de elección popular, deberán separarse definitivamente del organismo electoral un año antes de la elección de que se trate.
+Los Consejeros Electorales para ser candidatos a un cargo de elección popular, deberán separarse definitivamente del organismo electoral tres años antes de la elección de que se trate.
 
 ### CAPITULO II. DE LA ELECCION DE GOBERNADOR DEL ESTADO
 
@@ -277,33 +279,19 @@ Los Consejeros Electorales para ser candidatos a un cargo de elección popular, 
 
 En los términos del artículo 50 de la CONSTITUCION, el Poder Ejecutivo se deposita en una persona que se denomina Gobernador del Estado de Colima.
 
-En los términos del artículo 51 de la CONSTITUCION, para ser Gobernador se requiere:
-
-I.- Ser ciudadano colimense por nacimiento y estar en pleno ejercicio de sus derechos;
-
-II.- Tener por lo menos 30 años cumplidos al día de la elección y una residencia inmediata anterior de cinco años ininterrumpidos en el Estado;
-
-III.- Tener una ilustración suficiente para desempeñar este cargo;
-
-IV.- Vivir del producto de un trabajo honesto;
-
-V.- No ser ministro de algún culto, salvo que se haya separado 5 años antes de la elección;
-
-VI.- No haber figurado directa ni indirectamente en alguna asonada, motín o cuartelazo;
-
-VII.- No estar en servicio activo en las fuerzas armadas y de los cuerpos de seguridad pública, a menos que se separe con 90 días de anticipación al día de la elección; y
-
-VIII.- Los Secretarios de la Administración Pública Estatal, el Oficial Mayor, el Procurador General de Justicia, los Magistrados del Supremo Tribunal de Justicia y los Presidentes Municipales, pueden ser electos para desempeñar el cargo de Gobernador del Estado, sólo en el caso de haber cesado como titulares 90 días antes de la fecha de la elección.
-
 ###### ARTICULO 16.
 
 En los términos del artículo 51 de la CONSTITUCION, para ser Gobernador se requiere:
 
-I.- Ser ciudadano colimense por nacimiento y estar en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
 
-II.- Tener por lo menos 30 años cumplidos al día de la elección y una residencia inmediata anterior de cinco años ininterrumpidos en el Estado;
+I.- Ser colimense por nacimiento con una residencia inmediata anterior al día de la elección de 5 años ininterrumpidos en el Estado, o hijo de padre o madre mexicanos y haber residido en el Estado al menos durante 12 años anteriores al día de la elección;
 
-III.- Tener una ilustración suficiente para desempeñar este cargo;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
+
+II.- Tener por lo menos 30 años cumplidos al día de la elección, estar en pleno goce de sus derechos y no poseer otra nacionalidad;
+
+III.- (DEROGADA, P.O. 31 DE JULIO DE 1999)
 
 IV.- Vivir del producto de un trabajo honesto;
 
@@ -321,9 +309,11 @@ La elección del Gobernador será popular y directa, por el principio de mayorí
 
 ### CAPITULO III. DE LA ELECCION DE DIPUTADOS PARA INTEGRAR EL CONGRESO DEL ESTADO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 18.
 
-El Poder Legislativo del Estado se deposita en una asamblea de Diputados denominada CONGRESO, y se integrará con 12 Diputados electos por el principio de mayoría relativa y 8 por el de representación proporcional. Su elección se realizará mediante votación popular y directa.
+El Poder Legislativo del Estado se deposita en una Asamblea de Diputados denominada CONGRESO, y se integrará con 16 Diputados electos por el principio de mayoría relativa y 9 por el de representación proporcional. Su elección se realizará mediante votación popular y directa.
 
 Se entiende por distrito electoral uninominal la demarcación territorial donde se elegirá a un Diputado por el principio de mayoría relativa y por circunscripción electoral plurinominal la extensión territorial del Estado, donde se elegirán los Diputados por el principio de representación proporcional.
 
@@ -333,9 +323,13 @@ Por cada Diputado propietario se elegirá un suplente. La totalidad del CONGRESO
 
 En los términos del artículo 24 de la CONSTITUCION, para ser Diputado se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento, tener una residencia en el Estado no menor de 5 años antes del día de la elección y estar en pleno ejercicio de sus derechos políticos;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
 
-II.- Tener por lo menos 21 años al día de la elección;
+I.- Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos, no poseer otra nacionalidad y tener una residencia en el Estado no menor de 5 años antes del día de la elección;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
+
+II.- Estar inscrito en la lista nominal de electores;
 
 III.- No estar en servicio activo de las fuerzas armadas y de los cuerpos de seguridad pública, cuando menos 90 días antes de la elección;
 
@@ -343,57 +337,83 @@ IV.- No ser Magistrado del Supremo Tribunal de Justicia, Secretario u Oficial Ma
 
 V.- No ser Presidente Municipal en el lugar donde se realicen las elecciones, salvo si se separa de su cargo 90 días antes de la fecha de la elección;
 
-VI.- Tener un modo lícito de vivir y una preparación suficiente para desempeñar este cargo; y
+VI.- (DEROGADA, P.O. 31 DE JULIO DE 1999)
 
-VII.- No ser ministro de algún culto religioso, salvo que se haya separado 5 años antes de la elección;
+VII.- No ser ministro de algún culto religioso, salvo que se haya separado 5 años antes de la elección.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 20.
 
-Para la elección de Diputados por el principio de mayoría relativa, el Estado se dividirá en 12 distritos electorales uninominales, cuya delimitación territorial será la siguiente:
+Para la elección de Diputados por el principio de mayoría relativa, el Estado se dividirá en 16 distritos electorales uninominales, cuya delimitación territorial será la siguiente:
 
-PRIMER DISTRITO.- Ciudad de Colima (Norte).
+PRIMER DISTRITO.- Colima (Nor-Este).
 
-URBANO.- Comprende las secciones electorales números 0001 al 0022, 0025 al 0035, 0041 al 0046, 0051, 0052 y 0053.
+URBANO.- Comprende las secciones electorales números 0001 al 0013, 0015, 0016, 0018 al 0024, 0034 al 0037.
 
-RURAL.- Comprende las secciones electorales números 0077 El Chanal (cabecera), 0078 La Capacha (cabecera), 0079 El Diezmo (cabecera), y 0080 colonia El Porvenir.
+RURAL.- Comprende las secciones electorales números 0077 El Chanal (cabecera), 0078 la Capacha (cabecera), 0079 El Diezmo (cabecera), 0080 Colonia El Porvenir y 0082 Colonia La Estancia Nor-Este (cabecera) y localidad de Cardona.
 
-SEGUNDO DISTRITO.- Ciudad de Colima (Sur).
+SEGUNDO DISTRITO.- Colima (Centro).
 
-URBANO.- Comprende las secciones electorales números 0023 y 0024, 0036 al 0040, 0047 al 0050 y 0054 al 0076.
+URBANO .- Comprende las secciones electorales números 0014, 0017, 0025 al 0033, 0038 al 0041, 0043 al 0048, 0052, 0054, 0055, 0058, 0063 y 0064.
 
-RURAL.- Comprende las secciones electorales números 0081 Lo de Villa (cabecera), 0082 La Estancia (cabecera), 0083 colonia Juana de Asbaje (cabecera), 0084 Piscila (cabecera), 0085 Astillero de Abajo (cabecera), 0086 Los Asmoles (cabecera), 0087 Los Ortices (cabecera), 0088 y 0089 Los Tepames (cabecera), 0090 Tinajas (cabecera) y 0091 Estapilla (cabecera).
+TERCER DISTRITO.- Colima (Sur).
 
-La división de la ciudad de Colima en Norte y Sur, parte del límite Oeste de la ciudad y la calle Profr. Gregorio Torres Quintero en dirección Este, continuando en esta misma dirección por la Av. Francisco I. Madero, hasta la calzada Pedro A. Galván, por la que tomará el rumbo Norte hasta el entronque con la calle Vicente Guerrero, doblando hacia el Este hasta entroncar con la Av. Niños Héroes de Chapultepec hasta el cruce con la Av. Marcelino García Barragán, doblando al Norte y continuando por la misma Avenida hasta el límite Norte de la ciudad.
+URBANO.- Comprende las secciones electorales números 0042, 0049 al 0051, 0053, 0056, 0057, 0059, 0060 al 0062, 0065 al 0076.
 
-TERCER DISTRITO.- Comprende el Municipio de Cuauhtémoc, con las secciones electorales números 0120 al 0137.
+RURAL.- 0081 Lo de Villa, 0083 Colonia Juana de Asbaje (cabecera), 0084 Piscila (cabecera), 0085 Astillero de Abajo (cabecera), 0086 Los Asmoles (cabecera), 0087 Los Ortices (cabecera), 0088, Los Tepames (Norte) 0089 Los Tepames (Sur), 0090 Tinajas (cabecera) y 0091 Estapilla (cabecera).
 
-CUARTO DISTRITO.- Comprende el Municipio de Villa de Alvarez, con las secciones electorales números 0138 al 0169.
+CUARTO DISTRITO.- Comprende el Municipio de Comala, con las secciones electorales números 0092 al 0104.
 
-QUINTO DISTRITO.- Comprende el Municipio de Coquimatlán, con las secciones electorales números 0105 al 0119.
+QUINTO DISTRITO.- Comprende el Municipio de Coquimatlán, con las secciones electorales número 0105 al 0119.
 
-SEXTO DISTRITO.- Comprende el Municipio de Comala, con las secciones electorales números 0092 al 0104.
+SEXTO DISTRITO.- Comprende el Municipio de Cuauhtémoc, con las secciones electorales números 0120 al 0137.
 
-SEPTIMO DISTRITO.- Ciudad de Manzanillo (Este).
+SEPTIMO DISTRITO.- Villa de Alvarez (Nor-Este).
 
-URBANO.- Comprende las secciones electorales números 0207, 0213 al 0215, 0217 al 0221.
+URBANO.- Comprende las secciones electorales números 0138 al 0145, 0147 al 0151, 0158 y 0159.
 
-RURAL.- Comprende las secciones electorales números 0222 Veladero de los Otates (cabecera), 0223 Los Cedros (cabecera), 0224 Canoas (cabecera), 0225 y 0226 Camotlán de Miraflores (cabecera), 0227 Punta de Agua de Chandiablo (cabecera), 0231 Veladero de Camotlán (cabecera), 0232 y 0233 Jalipa (cabecera), 0257 y 0258 Tapeixtles (cabecera), 0259 al 0263 El Colomo (cabecera), 0264 Las Juntas de Abajo (cabecera), 0265 San Buenaventura (cabecera), 0266 y 0267 Venustiano Carranza (cabecera), 0268 y 0269 Campos (cabecera).
+RURAL.- Comprende las secciones electorales números 0166 El Nuevo Naranjal (cabecera) y 0169 El Chivato (cabecera).
 
-OCTAVO DISTRITO.- Ciudad de Manzanillo (Oeste).
+OCTAVO DISTRITO.- Villa de Alvarez (Sur-Oeste).
 
-URBANO.- Comprende las secciones electorales número 0200 al 0206, 0208 al 0212 y 0216.
+URBANO.- Comprende las secciones electorales números 0146, 0152 al 0157, 0160 al 0165.
 
-RURAL.- Comprende las secciones electorales número 0228 El Chavarín (cabecera), 0229 La Culebra (cabecera), 0230 La Central (cabecera), 0234 Miramar (cabecera), 0235 Pedro Nuñez (cabecera), 0236 al 0243 Santiago (cabecera), 0244 al 0249 Salahua (cabecera), 0250 al 0252 Valle de las Garzas (cabecera) y 0253 al 0256 Las Brisas (cabecera).
+RURAL.- Comprende las secciones electorales números 0167 Pueblo Nuevo (cabecera) y 0168 Juluapan (cabecera).
 
-La división de la ciudad y puerto de Manzanillo, parte del límite Oeste de la ciudad (cerro) en línea imaginaria en dirección Este por la calle Colhuas donde dobla al Sur por la Av. México hasta el punto de unión de las calles Nicolas Bravo y Vicente Guerrero, doblando por esta última en dirección Este hasta la Av. Alameda y sigue al Norte por la vía del ferrocarril hasta la Av. Miguel Hidalgo, dando vuelta al Este hasta el límite Sur del sector 5 (cerro), donde dobla al Norte en todos sus accidentes hasta volver a llegar a la Av. Miguel Hidalgo, doblando al Este siguiendo en esta dirección por la carretera a Colima en todos sus accidentes hasta el límite Este de la ciudad.
+NOVENO DISTRITO.- Comprende el Municipio de Armería, con las secciones electorales números 0170 al 0190.
 
-NOVENO DISTRITO.- Comprende el Municipio de Tecomán, con las secciones electorales números 0277 al 0336.
+DECIMO DISTRITO.- Comprende el Municipio de Ixtlahuacán, con las secciones electorales números 0191 al 0199.
 
-DECIMO DISTRITO.- Comprende el Municipio de Armería, con las secciones electorales números 0170 al 0190.
+DECIMO PRIMER DISTRITO.- Manzanillo (Nor-Oeste).
 
-DECIMO PRIMER DISTRITO.- Comprende el Municipio de Minatitlán, con las secciones electorales números 0270 al 0276.
+URBANO.- Comprende las secciones electorales número de la 0234 a la 0249.
 
-DECIMO SEGUNDO DISTRITO.- Comprende el Municipio de Ixtlahuacán, con las secciones electorales números 0191 al 0199.
+RURAL.- Comprende las secciones electorales números 0222 Veladero de los Otates (cabecera), 0223 Los Cedros (cabecera), 0224 Canoas (cabecera), 0225 y 0226 Camotlán de Miraflores (cabecera), 00227 Punta de Agua de Chandiablo (cabecera), 0228 El Chavarín (cabecera), 0229 La Culebra (cabecera), 0230 La Central (cabecera), 0231 Veladero de Camotlán (cabecera), 0232 y 0233 Jalipa (cabecera).
+
+DECIMO SEGUNDO DISTRITO.- Manzanillo (Sur-Este).
+
+URBANO.- Comprende las secciones electorales números 0217 y 0219.
+
+RURAL.- Comprende las secciones electorales números 0250 al 0252 Valle de las Garzas (cabecera), 0253 al 0256 Las Brisas (cabecera), 0257 y 0258 Tapeixtles (cabecera), 0259 al 0263 El Colomo (cabecera), 0264 Las Juntas de Abajo (cabecera), 0265 San Buenaventura (cabecera), 0266 y 0267 Venustiano Carranza (cabecera), 0268 y 0269 Campos (cabecera).
+
+DECIMO TERCER DISTRITO.- Manzanillo (Centro).
+
+URBANO.- Comprende las secciones electorales números 0200 al 0216, 0218, 0220, 0221.
+
+DECIMO CUARTO DISTRITO.- Comprende el Municipio de Minatitlán, con las secciones electorales números 0270 al 0276.
+
+DECIMO QUINTO DISTRITO.- Tecomán (Norte).
+
+URBANO.- Comprende las secciones electorales números 0277 al 0295, 0298 y 0299.
+
+RURAL.- Comprende las secciones electorales números 0317 al 0319 Madrid (cabecera), 0320 Tecolapa (cabecera), 0321 Caleras (cabecera), 0325 Poblado La Estación (cabecera), 0326 Colonia María Esther Zuno de Echeverría (cabecera), 0327 Cofradía de Hidalgo (cabecera).
+
+DECIMO SEXTO DISTRITO.- Tecomán (Sur-Este).
+
+URBANO.- Comprende las secciones electorales números 0296, 0297, 0300 al 0316.
+
+RURAL.- Comprende las secciones electorales números 0322 Adolfo Ruiz Cortines (cabecera), 0323 Colonia Antonio Salazar Salazar (cabecera), 0324 Colonia Bayardo (cabecera), 0328 Colonia L. Moreno (cabecera), 0329 Cofradía de Morelos (cabecera), 0330 El Saucito, 0331 Chanchopa, 0332 San Miguel del Ojo de Agua (cabecera), 0333 Callejones, 0334 al 0336 Cerro de Ortega (cabecera).
 
 > <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 1996)</small>
 
@@ -415,17 +435,25 @@ Todos los funcionarios antes mencionados, cuando tengan el carácter de propieta
 
 En los términos de los artículos 89 de la CONSTITUCION y 21 de la Ley Orgánica del Municipio Libre, para ocupar el cargo de Munícipe, se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
 
-II.- Tener por lo menos 21 años al día de la elección;
+I.- Ser ciudadano mexicano por nacimiento y no poseer otra nacionalidad;
 
-III.- Tener una preparación suficiente para desempeñar el cargo y un modo lícito de vivir;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
 
-IV.- Estar avecindado en el Municipio por un período no menor de 3 años antes del día de la elección;
+II.- Estar inscrito en la lista nominal de electores y en pleno goce de sus derechos;
+
+III.- (DEROGADA, P.O. 31 DE JULIO DE 1999)
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
+
+IV.- Contar con una residencia en el Municipio correspondiente no menor de 3 años antes del día de la elección;
 
 V.- No ser ministro de algún culto, salvo que se haya separado 5 años antes del día de la elección; y
 
-VI.- No ser servidor público de la Federación o del Estado, así como de organismos descentralizados o de participación estatal de los dos órdenes de gobierno, ni estar en servicio activo de las fuerzas armadas y de los cuerpos de seguridad pública, a menos que se separen del cargo noventa días antes de la fecha de la elección.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
+
+VI.- No ser servidor público en ejercicio de la Federación, Estado y Municipios, así como de organismos descentralizados o de participación estatal o municipal a que se refiera la Ley, ni estar en servicio activo de las fuerzas armadas o de los cuerpos de seguridad pública, a menos que se separen del cargo 90 días antes del día de la elección.
 
 ### CAPITULO V. DE LAS ELECCIONES ORDINARIAS Y EXTRAORDINARIAS
 
@@ -495,9 +523,11 @@ Los partidos políticos nacionales podrán participar en las elecciones que regu
 
 Los partidos políticos nacionales que participen en los procesos electorales locales serán normados por las disposiciones del presente CODIGO.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 36.
 
-Para poder participar en las elecciones, los PARTIDOS POLITICOS deberán obtener el registro correspondiente, por lo menos un año antes del día de la jornada electoral.
+Para poder participar en las elecciones, los Partidos Políticos deberán obtener del Consejo General del INSTITUTO el registro estatal o la inscripción de su registro nacional correspondiente, por lo menos un año antes del día de la jornada electoral.
 
 ## TITULO SEGUNDO. DEL OBJETO, CONSTITUCION, REGISTRO, DERECHOS Y OBLIGACIONES
 
@@ -601,6 +631,10 @@ d).- Que la suma de afiliados que se anotaron en las actas de las asambleas muni
 
 El plazo para celebrar las asambleas municipales y estatal constitutiva no excederá de 6 meses, contados a partir de la fecha en que se notifique al INSTITUTO su propósito de constituirse en PARTIDO POLITICO.
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 1999)</small>
+
+El partido que habiendo perdido su registro nacional, obtengan por lo menos el 1.5% de la votación de Diputados Locales por el principio de mayoría relativa, por este sólo hecho obtendrá su registro como Partido Político Estatal, debiendo cumplir con lo dispuesto en este artículo, en un término de un año a partir del día de la elección.
+
 ###### ARTICULO 44.
 
 El INSTITUTO pagará los honorarios y gastos que origine la intervención de los notarios públicos en los actos que menciona el artículo anterior, a condición de que previamente se solicite así al Secretario Ejecutivo de dicho INSTITUTO.
@@ -663,7 +697,9 @@ III.- Ser agente del Ministerio Público federal o local;
 
 IV.- Ser servidor público de mandos superiores de los tres órdenes de gobierno; y
 
-V.- Quien se encuentre sujeto a proceso o haya sido sentenciado por delito doloso.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
+
+V.- Que exista declaratoria o resolución de autoridad competente de que se encuentra en cualquiera de los supuestos del artículo 38 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 49.
 
@@ -689,9 +725,17 @@ IX.- Comunicar al INSTITUTO cualquier modificación a su declaración de princip
 
 X.- Incluir en sus estatutos la obligación para sus militantes de guardar respeto a los ciudadanos, a las instituciones públicas, a los PARTIDOS POLITICOS, a sus candidatos y sus militantes;
 
-XI.- Abstenerse de utilizar símbolos de carácter religioso en su propaganda; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
 
-XII.- Las demás que señale este CODIGO.
+XI.- Abstenerse de utilizar símbolos de carácter religioso en su propaganda;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 1999)</small>
+
+XII.- Registrar hasta el 70% de candidaturas de un mismo género, a cargos de elección popular, por ambos principios.
+
+El incumplimiento a esta obligación, dará lugar a la negativa por parte de la autoridad electoral competente, del registro oficial de las listas de candidatos; y
+
+XIII.- Las demás que señale este CODIGO.
 
 ###### ARTICULO 50.
 
@@ -768,6 +812,10 @@ VI.- En el año de la elección, cada partido recibirá una cantidad igual al mo
 VII.- Los PARTIDOS POLITICOS deberán rendir al CONSEJO GENERAL, en el mes de febrero, un informe anual justificado del empleo del financiamiento recibido en el ejercicio inmediato anterior. Los partidos deberán acompañar al mismo, una copia del acta en la que conste que su comité estatal u órgano equivalente conoció de dicho informe. Una comisión de Consejeros Electorales se encargará de la vigilancia y revisión de los informes de financiamiento de los PARTIDOS POLITICOS, para ser presentados al CONSEJO GENERAL. El CONSEJO GENERAL suspenderá el financiamiento al partido que no cumpla con esta obligación; y
 
 VIII.- Cada partido tendrá derecho a recibir hasta un 15% adicional de la cantidad anual que le corresponda por financiamiento, de conformidad con la fracción V de este artículo, para apoyar las actividades relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, en los términos del reglamento que apruebe el CONSEJO GENERAL. En todo caso, los partidos comprobarán los gastos que eroguen para la realización de las actividades mencionadas.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 1999)</small>
+
+El CONSEJO GENERAL deberá emitir un dictamen técnico sobre la aplicación del financiamiento público de los PARTIDOS POLITICOS, a más tardar 120 días después de recibir el informe a que se refiere la fracción VII de este artículo.
 
 ###### ARTICULO 56.
 
@@ -919,17 +967,25 @@ II.- No participar en dos procesos electorales consecutivos para Gobernador o en
 
 III.- Haber dejado de cumplir con los requisitos exigidos para obtener el registro;
 
-IV.- Haberse fusionado con otro partido o haber sido declarado disuelto por acuerdo de sus miembros, conforme a lo que establezcan los estatutos; y
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 1999)</small>
 
-V.- Incumplir de manera grave y sistemática, a juicio del CONSEJO GENERAL, las obligaciones que señala este CODIGO.
+IV.- Haberse fusionado con otro Partido o haber sido declarado disuelto por acuerdo de sus miembros, conforme a lo que establezcan los estatutos;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 1999)</small>
+
+V.- Incumplir de manera grave y sistemática, a juicio del CONSEJO GENERAL, las obligaciones que señala este CODIGO; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 1999)</small>
+
+VI.- La publicación en el Diario Oficial de la Federación de la resolución que declare la pérdida del registro como Partido Nacional.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 66.
 
 En los casos de pérdida y cancelación de registro o inscripción a que se refiere el artículo anterior, el CONSEJO GENERAL dictará resolución sobre el particular debidamente fundada y motivada, que deberá publicarse en el Periódico Oficial del Estado.
 
-A los partidos nacionales se les cancelará la inscripción de su registro una vez que aparezca la resolución respectiva en el Diario Oficial de la Federación.
-
-Las causas de cancelación de registro a que se refieren las fracciones III y V del artículo anterior, se acordarán oyendo previamente en defensa al interesado, para lo cual deberá ser citado, a fin de que conteste los cargos y presente las pruebas tendientes a su justificación.
+Las causas de cancelación de registro a que se refieren las fracciones III y V del articulo anterior, se acordarán oyendo previamente en defensa al interesado, para lo cual deberá ser citado, a fin de que conteste los cargos y presente las pruebas tendientes a su justificación.
 
 ###### ARTICULO 67.
 
@@ -1671,9 +1727,13 @@ El patrimonio del INSTITUTO se integra con los bienes muebles e inmuebles que se
 
 Son fines del INSTITUTO:
 
-I.- Promover y fomentar el desarrollo de la democracia en la entidad;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
 
-II.- Contribuir al fortalecimiento del régimen de PARTIDOS POLITICOS;
+I.- Preservar, fortalecer, promover y fomentar el desarrollo de la democracia en la Entidad;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
+
+II.- Preservar y fortalecer el régimen de partidos políticos;
 
 III.- Garantizar a los ciudadanos el ejercicio de los derechos político-electorales y vigilar el cumplimiento de sus obligaciones;
 
@@ -1681,7 +1741,9 @@ IV.- Organizar y vigilar la realización periódica y pacífica de las eleccione
 
 V.- Velar por la autenticidad y efectividad del sufragio; y
 
-VI.- Coadyuvar en la promoción y difusión de la cultura político democrática.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
+
+VI.- Coadyuvar en la promoción y difusión de la cultura cívica, política y democrática.
 
 ###### ARTICULO 148.
 
@@ -1709,11 +1771,15 @@ I.- Siete Consejeros Electorales propietarios y 3 suplentes; y
 
 II.- Un representante propietario y suplente por cada uno de los PARTIDOS POLITICOS, con el carácter de Comisionado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 152.
 
-Los Consejeros Electorales serán electos por el CONGRESO en el mes de octubre del año que corresponda. Cada grupo parlamentario tendrá derecho de proponer una lista de hasta 12 candidatos; del total, se elegirán los propietarios y suplentes de manera sucesiva por mayoría calificada de sus miembros presentes. En caso de que no se logre la mayoría calificada en la segunda ronda de votación, el nombramiento de los Consejeros Electorales que no hayan logrado dicha mayoría, se llevará a cabo por insaculación.
+Los Consejeros Electorales serán electos por el CONGRESO en el mes de octubre del año que corresponda. Cada grupo parlamentario tendrá derecho de proponer una lista de hasta nueve candidatos; del total, se elegirán los siete propietarios y los tres suplentes de manera sucesiva por mayoría calificada de los integrantes del CONGRESO. En caso de que no se logre la mayoría calificada en la segunda ronda de votación, el nombramiento de los Consejeros Electorales que no hayan logrado dicha mayoría, se llevará a cabo por insaculación.
 
-Los Consejeros Electorales durarán en su cargo 7 años, estarán sujetos al régimen de responsabilidades establecido en el Título XI de la CONSTITUCION y rendirán la protesta de ley ante el CONGRESO o la Diputación Permanente en su caso.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
+
+Los Consejeros Electorales durarán en su cargo siete años, estarán sujetos al régimen de responsabilidades establecido en el Título XI de la CONSTITUCIÓN y rendirán la protesta de ley ante el CONGRESO.
 
 Los Consejeros tendrán derecho a voz y voto.
 
@@ -1745,19 +1811,31 @@ IX.- No ser ni haber sido titular de una delegación o representación del Gobie
 
 X.- No ser ni haber sido ministro de culto religioso alguno, en los últimos 5 años anteriores a su nombramiento.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 155.
 
-La retribución que reciban los Consejeros Electorales y los demás servidores públicos del INSTITUTO, será la prevista en su presupuesto anual de egresos.
+La retribución que reciban los Consejeros Electorales y los demás servidores públicos del INSTITUTO, será la prevista en su presupuesto anual de egresos aprobado por el CONGRESO.
+
+Siempre que los Consejeros Electorales desempeñen la función de vocales, la retribución mensual que perciban será en salarios mínimos generales vigentes en la zona económica: para el Consejero Presidente, el Secretario Ejecutivo y los Consejeros Electorales, el equivalente a 650, 600 y 500, respectivamente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 156.
 
-Los Consejeros Electorales desempeñarán su función con autonomía y probidad.
+Los Consejeros Electorales desempeñarán su función con eficiencia, autonomía, independencia e imparcialidad.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 1999)</small>
+
+Durante su encargo, los Consejeros que integran el CONSEJO GENERAL, no podrán tener cargo o empleo público de la federación, del Estado, de los municipios o de organismos descentralizados y empresas de participación estatal de cualquiera de los tres ámbitos de gobierno, cuando por ello se perciba sueldo, con excepción de aquellos que desempeñen en forma honorífica en instituciones docentes, científicas, culturales, de investigación, de beneficencia o periodísticas.
 
 En la realización de otras actividades por parte de los Consejeros Electorales, no podrán utilizar, en beneficio propio o de terceros, la información confidencial de que dispongan en razón de su cargo, así como divulgar la mencionada información sin autorización del CONSEJO GENERAL.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 157.
 
-Los Consejeros Electorales no podrán ser candidatos a ningún cargo de elección popular durante el año posterior a la conclusión o de la separación de su cargo.
+Los Consejeros Electorales no podrán ser candidatos a ningún cargo de elección popular durante los tres años posteriores a la conclusión o separación de su cargo.
 
 ###### ARTICULO 158.
 
@@ -1767,7 +1845,9 @@ Los nombramientos de Consejeros Electorales, cuando menos en un 33%, recaerán e
 
 El CONSEJO GENERAL se reunirá en sesión ordinaria cada 3 meses. Su Presidente podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición de la mayoría de los Consejeros Electorales o de la mayoría de los Comisionados de los partidos. Sus sesiones serán públicas.
 
-Para la preparación del proceso electoral, el CONSEJO GENERAL se reunirá dentro de la primera quincena del mes de noviembre del año previo al de las elecciones. A partir de esta fecha y hasta la conclusión del proceso, el CONSEJO GENERAL sesionará por lo menos 2 veces al mes.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
+
+Para la preparación del proceso electoral, el CONSEJO GENERAL se reunirá dentro de la primera quincena del mes de noviembre del año previo al de las elecciones. A partir de esta fecha y hasta la conclusión del proceso el CONSEJO GENERAL sesionará en forma ordinaria por lo menos dos veces al mes.
 
 Para que el CONSEJO GENERAL pueda sesionar, deberán estar presentes la mayoría de los Consejeros, entre los que deberá estar el Presidente.
 
@@ -1775,7 +1855,13 @@ En caso de que no se reúna el quórum establecido en el párrafo anterior, la s
 
 La falta de un Consejero Electoral a 2 sesiones consecutivas sin causa justificada, dará lugar a que se llame al suplente, quien sustituirá la falta por todo el resto del proceso electoral, dejando de percibir el propietario el sueldo correspondiente.
 
-Las resoluciones serán tomadas por mayoría de votos, salvo las que por ley requieran de mayoría calificada. El Presidente del Consejo tendrá voto de calidad en caso de empate.
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 1999)</small>
+
+En caso de renuncia o fallecimiento de un Consejero Electoral, se procederá a designar de entre los suplentes a aquél que habrá de sustituirlo, debiendo ser electo por el voto de las dos terceras partes de los integrantes del CONSEJO GENERAL.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
+
+Las resoluciones serán tomadas por mayoría de votos, salvo las que por ley requieran de las dos terceras partes de los votos de los integrantes del CONSEJO GENERAL.
 
 El Secretario Ejecutivo levantará las actas de las sesiones y tendrá a su cargo el archivo del INSTITUTO.
 
@@ -1871,7 +1957,9 @@ XXVIII.- Aplicar la fórmula electoral, hacer la asignación de Regidores de rep
 
 XXIX.- Substanciar y resolver los recursos cuya resolución le competa en los términos de este CODIGO;
 
-XXX.- Aprobar anualmente el anteproyecto de presupuesto de egresos del INSTITUTO, a propuesta del Presidente;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
+
+XXX.- Aprobar anualmente el proyecto de Presupuesto de Egresos del INSTITUTO a propuesta del presidente y remitirlo al CONGRESO por conducto del Secretario Ejecutivo;
 
 XXXI.- Conocer los informes que las Vocalías rindan por conducto del Secretario Ejecutivo;
 
@@ -1895,7 +1983,9 @@ XL.- Aplicar las sanciones que le competan de acuerdo con este CODIGO;
 
 XLI.- Registrar la plataforma electoral que para cada proceso deben presentar los PARTIDOS POLITICOS en los términos del presente ordenamiento;
 
-XLII.- Contratar personal eventual para apoyar las actividades del INSTITUTO, cuyas responsabilidades y funciones se establecerán en el Estatuto del Servicio Profesional Electoral;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
+
+XLII.- Contratar personal eventual y permanente para apoyar las actividades del INSTITUTO, cuyas responsabilidades y funciones se establecerán en el Estatuto del Servicio Profesional Electoral;
 
 XLIII.- Apoyar la realización de debates públicos, siempre y cuando haya acuerdo entre partidos y candidatos;
 
@@ -1921,9 +2011,13 @@ V.- Vigilar el cumplimiento de los acuerdos del CONSEJO GENERAL;
 
 VI.- Supervisar la instalación de los CONSEJOS MUNICIPALES;
 
-VII.- Someter oportunamente a la consideración del CONSEJO GENERAL el proyecto del presupuesto anual de egresos del INSTITUTO y una vez aprobado, remitirlo al CONGRESO;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
 
-VIII.- Convenir con los Ayuntamientos el apoyo para las actividades de los CONSEJOS MUNICIPALES en sus respectivos ámbitos de competencia; y
+VII.- Someter oportunamente a la consideración del CONSEJO GENERAL el anteproyecto del Presupuesto Anual de Egresos del INSTITUTO;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
+
+VIII.- Establecer convenios anuales con los Ayuntamientos de la entidad, respecto al apoyo para las actividades de los CONSEJOS MUNICIPALES en sus respectivos ámbitos de competencia, previa aprobación del CONSEJO GENERAL; y
 
 IX.- Las demás que le confieran este CODIGO y los Reglamentos del INSTITUTO.
 
@@ -1969,9 +2063,15 @@ VIII.- Llevar el archivo del CONSEJO GENERAL y expedir las certificaciones sobre
 
 IX.- Firmar, junto con el Presidente, todos los acuerdos y resoluciones de carácter general que pronuncie el CONSEJO GENERAL;
 
-X.- Expedir los documentos que acrediten la personalidad de los Consejeros y de los Comisionados de los PARTIDOS POLITICOS; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
 
-XI.- Las demás que le señalen este CODIGO, el CONSEJO GENERAL, el Presidente y los Reglamentos del INSTITUTO.
+X.- Expedir los documentos que acrediten la personalidad de los Consejeros y de los Comisionados de los PARTIDOS POLITICOS;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 1999)</small>
+
+XI.- Remitir al CONGRESO el proyecto de egresos del INSTITUTO aprobado por el CONSEJO GENERAL; y
+
+XII.- Las demás que le señalen este CODIGO, el CONSEJO GENERAL, el Presidente y los Reglamentos del INSTITUTO.
 
 ### CAPITULO IV. DE LAS VOCALIAS
 
@@ -2011,23 +2111,33 @@ En cada una de las cabeceras municipales funcionará un CONSEJO MUNICIPAL. Cada 
 
 I.- Cinco Consejeros Electorales propietarios y 2 suplentes; y
 
-II.- Un representante propietario y suplente por cada uno de los PARTIDOS POLITICOS, con el carácter de Comisionado.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
+
+II.- Un representante propietario y un suplente por cada uno de los PARTIDOS POLITICOS, con el carácter de Comisionado.
 
 ###### ARTICULO 172.
 
 Los CONSEJOS MUNICIPALES se instalarán durante el mes de febrero del año de la elección, iniciando entonces sus sesiones y actividades regulares.
 
-A partir de su instalación y hasta el término del proceso electoral sesionarán por lo menos 2 veces por mes. Concluido el proceso electoral se reunirán cuando sean convocados por sus Presidentes.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
+
+A partir de su instalación y hasta el término del proceso electoral sesionarán en forma ordinaria por lo menos dos veces por mes. Concluido el proceso electoral se reunirán cuando sean convocados por el Presidente del CONSEJO GENERAL del Instituto.
 
 Para que un CONSEJO MUNICIPAL pueda sesionar, deberán estar presentes la mayoría de los Consejeros, entre los que deberá estar el Presidente.
 
 En caso de que no se reúna el quórum establecido en el párrafo anterior, la sesión tendrá lugar dentro de las 24 horas siguientes con los Consejeros que asistan. Si cumplido este plazo no se presentara el Presidente a la sesión, uno de los Consejeros lo sustituirá con carácter de interino y ejercerá la Presidencia del CONSEJO MUNICIPAL mientras persista la ausencia del Presidente, si ésta es temporal, o en caso de ser definitiva, hasta la designación de quien lo sustituya. La falta temporal del Presidente no excederá de 30 días.
 
-La falta de un Consejero Municipal Electoral a 2 sesiones consecutivas sin causa justificada, dará lugar a que se llame al suplente, quien sustituirá la falta por todo el resto del proceso electoral, dejando de percibir el propietario el sueldo correspondiente.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
 
-Las resoluciones serán tomadas por mayoría de votos, salvo las que por ley requieran de mayoría calificada. El Presidente del CONSEJO MUNICIPAL tendrá voto de calidad en caso de empate.
+La falta de un Consejero Electoral Municipal propietario a 2 sesiones consecutivas sin causa justificada, dará lugar a que se llame al suplente, quien lo sustituirá por el resto del periodo para el que fue electo.
 
-El Secretario Ejecutivo levantará las actas de las sesiones y tendrá a su cargo el archivo del INSTITUTO.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
+
+Las resoluciones serán tomadas por mayoría de votos de los integrantes del CONSEJO, salvo las que por ley requieran de mayoría calificada.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
+
+El Secretario Ejecutivo levantará las actas de las sesiones y tendrá a su cargo el archivo del CONSEJO.
 
 ###### ARTICULO 173.
 
@@ -2035,17 +2145,21 @@ Los CONSEJOS MUNICIPALES integrarán las comisiones que consideren necesarias pa
 
 En todos los asuntos que se les encomiende, las comisiones deberán presentar un proyecto de resolución o de dictamen.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 174.
 
-Los Consejeros Electorales Municipales serán electos en el mes de enero del año que corresponda por el CONSEJO GENERAL, sucesivamente y por mayoría calificada de sus miembros presentes, a propuesta de los Consejeros. Cada Consejero tendrá derecho de proponer una lista de hasta 3 candidatos. En caso de que no se logre la mayoría calificada en la segunda ronda de votación, el nombramiento de los Consejeros Electorales Municipales que no hayan logrado dicha mayoría se llevará a cabo por insaculación.
+Los Consejeros Electorales Municipales serán electos en el mes de enero del año que corresponda por el CONSEJO GENERAL, sucesivamente y por mayoría calificada de sus integrantes, a propuesta de los Consejeros. Cada Consejero tendrá derecho a proponer hasta 3 candidatos, por cada CONSEJO MUNICIPAL. En caso de que no se logre la mayoría calificada en la segunda ronda de votación, el nombramiento de los Consejeros Electorales Municipales que no hayan logrado dicha mayoría se llevará a cabo por insaculación.
 
 Los Consejeros Electorales Municipales durarán en su cargo 7 años, estarán sujetos al régimen de responsabilidades establecido en el Título XI de la CONSTITUCION y rendirán la protesta de ley ante el CONSEJO GENERAL.
 
 Los Consejeros tendrán derecho a voz y voto.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 175.
 
-Cada CONSEJO MUNICIPAL contará con un Presidente, que será uno de los Consejeros Electorales Municipales, electo por mayoría calificada de los miembros presentes del CONSEJO GENERAL, a propuesta en terna de su Presidente y un Secretario Ejecutivo, que será también un Consejero Electoral Municipal electo por las dos terceras partes del CONSEJO MUNICIPAL, a propuesta de su Presidente.
+Cada CONSEJO MUNICIPAL contará con un Presidente, que será uno de los Consejeros Electorales Municipales, electo por mayoría calificada de los integrantes del CONSEJO GENERAL, a propuesta en terna de su Presidente y un Secretario Ejecutivo, que será también un Consejero Electoral Municipal electo por las dos terceras partes del CONSEJO MUNICIPAL, a propuesta de su Presidente.
 
 ###### ARTICULO 176.
 
@@ -2061,7 +2175,9 @@ Los CONSEJOS MUNICIPALES tendrán a su cargo las siguientes funciones:
 
 I.- Vigilar la observancia de este CODIGO y de las demás disposiciones relativas;
 
-II.- Cumplir los acuerdos que emita el CONSEJO GENERAL;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
+
+II.- Cumplir los acuerdos y resoluciones que emita el CONSEJO GENERAL;
 
 III.- Intervenir en la organización, desarrollo y vigilancia de la elección de Gobernador, Diputados y Ayuntamientos, en sus respectivos ámbitos;
 
@@ -2081,17 +2197,57 @@ X.- Expedir la declaratoria de validez y la constancia de mayoría a la planilla
 
 XI.- Recibir los recursos que este CODIGO establece en contra de sus resoluciones y remitirlos a la autoridad competente para su resolución;
 
-XII.- Informar una vez al mes por lo menos, durante el proceso electoral, al CONSEJO GENERAL sobre el desarrollo de sus funciones; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
+
+XII.- Informar por escrito una vez al mes por lo menos, durante el proceso electoral, al CONSEJO GENERAL sobre el desarrollo de sus funciones; y
 
 XIII.- Las demás que les confiere este CODIGO.
 
 El Presidente, los Consejeros Electorales y el Secretario Ejecutivo de los CONSEJOS MUNICIPALES, ejercerán, en lo conducente, las atribuciones que para dichos servidores públicos del INSTITUTO establecen los artículos 164, 165 y 166 de este CODIGO.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 179.
 
-La retribución que recibirán el Presidente, los Consejeros Electorales Municipales y el Secretario Ejecutivo, así como los gastos que origine el funcionamiento del CONSEJO MUNICIPAL, serán los previstos en el Presupuesto Anual de Egresos del INSTITUTO.
+La retribución mensual que recibirán el Presidente, el Secretario Ejecutivo y los Consejeros Electorales Municipales, será en salarios mínimos generales vigentes en la zona, de la manera siguiente:
 
-El Presidente del CONSEJO GENERAL y los Ayuntamientos, suscribirán los convenios correspondientes para que los municipios apoyen las actividades de los CONSEJOS MUNICIPALES en sus respectivos ámbitos de competencia. Los apoyos que darán consignados en el presupuesto de egresos de cada Ayuntamiento.
+A).- En período electoral:
+
+I.- Primera región, integrada por los Consejos Municipales de Colima y Manzanillo:
+
+a).- Para el Presidente y el Secretario Ejecutivo, el equivalente a 225 y 150, respectivamente;
+
+b).- Los Consejeros Electorales percibirán, por asistencia a cada Sesión de Consejo o comisión, la dieta equivalente a 12 y hasta 120 salarios mínimos vigentes en la zona, si hubiere más de diez asistencias a sesiones de Consejo o comisiones, durante el mes.
+
+II.- Segunda región, integrada por los Consejos Municipales de Tecomán y Villa de Alvarez:
+
+a).- Para el Presidente y el Secretario Ejecutivo, el equivalente a 175 y 140, respectivamente; y
+
+b).- Los Consejeros Electorales percibirán, por asistencia a cada Sesión de Consejo o comisión, la dieta equivalente a 11 y hasta 110 salarios mínimos vigentes en la zona, si hubiere más de diez asistencias a sesiones de Consejo o comisiones, durante el mes.
+
+III.- Tercera región, integrada por los Consejos Municipales de Comala, Coquimatlán, Cuauhtémoc, Armería, Ixtlahuacán y Minatitlán:
+
+a).- Para el Presidente y el Secretario Ejecutivo, el equivalente a 140 y 110, respectivamente; y
+
+b).- Los Consejeros Electorales percibirán, por asistencia a cada Sesión de Consejo o comisión, la dieta equivalente a 10 y hasta 100 salarios mínimos vigentes en la zona, si hubiere más de diez asistencia a sesiones de Consejo o comisiones, durante el mes.
+
+B).- En período no electoral:
+
+I.- Primera región, integrada por los Consejos Municipales de Colima, Villa de Alvarez, Manzanillo y Tecomán:
+
+a).- Para el Presidente y el Secretario Ejecutivo, el equivalente a 80 y 60, respectivamente; y
+
+b).- Los Consejeros Electorales percibirán, por asistencia a cada Sesión de Consejo o comisión, la dieta equivalente a 10 y hasta 30 salarios mínimos vigentes en la zona, si hubiere más de tres asistencias a sesiones de Consejo o comisiones, durante el mes.
+
+II.- Segunda región, integrada por los Consejos Municipales de Comala, Coquimatlán, Cuauhtémoc, Armería, Ixtlahuacán y Minatitlán:
+
+a).- Para el Presidente y el Secretario Ejecutivo, el equivalente a 65 y 50, respectivamente; y
+
+b).- Los Consejeros Electorales percibirán, por asistencia a cada Sesión de Consejo o comisión, la dieta equivalente a 10 y hasta 30 salarios mínimos vigentes en la zona si hubiere más de tres asistencias a sesiones de Consejo o comisiones, durante el mes.
+
+Las percepciones señaladas anteriormente, así como los gastos que origine el funcionamiento del Consejo Municipal, serán previstos en el Presupuesto Anual de Egresos del INSTITUTO.
+
+El Presidente del INSTITUTO, con la aprobación del CONSEJO GENERAL, suscribirá con los Ayuntamientos, los convenios correspondientes para que los Municipios apoyen las actividades de los CONSEJOS MUNICIPALES en sus respectivos ámbitos de competencia. Los apoyos quedarán consignados en el presupuesto de egresos de cada Ayuntamiento.
 
 ### CAPITULO II. DE LAS MESAS DIRECTIVAS DE CASILLA
 
@@ -3339,6 +3495,8 @@ II.- Sumará los votos que cada PARTIDO POLITICO o coalición haya obtenido en t
 
 III.- Después de realizar lo que dispone la fracción anterior, el CONSEJO GENERAL, procederá a la asignación de Diputados por el principio de representación proporcional.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 301.
 
 La circunscripción electoral comprenderá la totalidad del territorio del Estado y en ella, la votación efectiva será el resultante de deducir de la votación total, las votaciones de los PARTIDOS POLITICOS que no hayan alcanzado el 1.5% de la votación estatal y los votos nulos.
@@ -3347,35 +3505,39 @@ Todo PARTIDO POLITICO que alcance por lo menos el 1.5% de la votación estatal y
 
 Al PARTIDO POLITICO que cumpla con lo dispuesto en el párrafo anterior, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, les serán asignados por el principio de representación proporcional, de acuerdo con su votación, el número de Diputados que le corresponda.
 
-Ningún PARTIDO POLITICO podrá contar con más de 12 Diputados por ambos principios, ni que su número representen (sic) un porcentaje total del CONGRESO que exceda en 10 puntos a su porcentaje de votación. Esta última disposición no se aplicará al PARTIDO POLITICO que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total del CONGRESO que rebase la suma de su porcentaje de votación más 10 puntos.
+Ningún PARTIDO POLITICO podrá contar con más de 15 Diputados por ambos principios, salvo el caso del PARTIDO POLITICO que por sí mismo hubiere obtenido la totalidad de los distritos electorales uninominales, ni que su número representen un porcentaje total del CONGRESO que exceda en 10 puntos a su porcentaje de votación efectiva. Esta disposición no se aplicará al PARTIDO POLITICO que por sus triunfos en distritos uninominales obtenga un porcentaje de diputaciones del total del CONGRESO que rebase la suma de su porcentaje de votación más 10 puntos.
 
-En todo caso, al PARTIDO POLITICO que haya obtenido 11 diputaciones uninominales, por ese sólo hecho le será asignado un diputado plurinominal para completar 12.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 302.
 
-La asignación de los ocho Diputados por el principio de representación proporcional, se efectuará de conformidad con las siguientes reglas:
+La asignación de los nueve Diputados por el principio de representación proporcional, se efectuará de conformidad con las siguientes reglas:
 
-I.- Se determinará si es el caso de aplicar al PARTIDO POLITICO que obtuvo la mayoría de triunfos en los distritos, lo dispuesto en los párrafos cuarto y quinto del artículo anterior y se procederá a asignarle el número de Diputados que se requiera para ajustarlo a dichos límites.
+I. Se determinará si es el caso de aplicar al PARTIDO POLITICO que obtuvo la mayoría de triunfos en los distritos, lo dispuesto en el párrafo cuarto del artículo anterior y se procederá a asignarle el número de Diputados que se requiera para ajustarlo a dichos límites.
 
-Cada Diputado representa, para lo dispuesto en esta fracción, el 5% de la integración del CONGRESO. Si al sumar el porcentaje de votación de un partido más 10 puntos la suma excede en por lo menos 2.5 puntos al mayor múltiplo de 5 contenido en ella, se asignará un Diputado por dicha fracción decimal.
+Cada Diputado representa, para lo dispuesto en esta fracción, el 4% de la integración del CONGRESO. Si al sumar el porcentaje de votación de un partido más 10 puntos la suma excede en por lo menos 2.0 puntos al mayor múltiplo de 4 contenido en ella, se asignará un Diputado por dicha fracción decimal.
 
-II.- Una vez realizada la distribución señalada en la fracción anterior, se procederá a asignar el resto de las curules a los demás PARTIDOS POLITICOS con derecho a ello, con base en los siguientes elementos:
+II.- Una vez realizada la distribución señalada en la fracción anterior, se procederá a asignar el resto de las diputaciones a los demás PARTIDOS POLITICOS con derecho a ello, con base en los siguientes elementos:
 
-1.- Votación de asignación:
+1.- Votación de asignación, que es el resultado de deducir de la votación efectiva, el número de votos obtenidos por los PARTIDOS POLITICOS en los distritos en que triunfaron y los del PARTIDO POLITICO al que se le hubiere aplicado lo dispuesto en la fracción I de este artículo;
 
-a).- Es el resultado de deducir de la votación efectiva, el número de votos obtenidos por los PARTIDOS POLITICOS en los distritos en que triunfaron y los del PARTIDO POLITICO al que se le hubiere aplicado lo dispuesto en la fracción I de este artículo.
+2.- Cociente de asignación, es el resultado de dividir la votación de asignación entre el número de diputaciones por repartir;
 
-2.- Cociente de asignación, que es el resultado de dividir la votación de asignación entre el número de curules por repartir;
+3.- Resto mayor, que es el remanente más alto entre los restos de los votos de cada PARTIDO POLITICO, después de haber participado en la distribución de diputaciones mediante el cociente de asignación. El resto mayor podrá utilizarse si aún hubiesen diputaciones sin distribuir.
 
-3.- Resto mayor, que es el remanente más alto entre los restos de los votos de cada PARTIDO POLITICO, después de haber participado en la distribución de curules mediante el cociente de asignación. El resto mayor podrá utilizarse si aún hubiesen curules sin distribuir.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 303.
 
-Para la asignación de curules se observará el procedimiento siguiente:
+Para la asignación de diputaciones se observará el procedimiento siguiente:
 
-I.- Se asignarán a cada PARTIDO POLITICO tantas curules como número de veces contenga su votación el cociente de asignación;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
 
-II.- Si después de aplicarse el cociente de asignación quedan curules por repartir, éstas se distribuirán por el método del resto mayor siguiendo el orden decreciente de los votos no utilizados por cada uno de los PARTIDOS POLITICOS;
+I.- Se asignarán a cada PARTIDO POLITICO tantas diputaciones como número de veces contenga su votación el cociente de asignación;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1999)</small>
+
+II.- Si después de aplicarse el cociente de asignación quedan diputaciones por repartir, éstas se distribuirán por el método del resto mayor siguiendo el orden decreciente de los votos no utilizados por cada uno de los PARTIDOS POLITICOS; y
 
 III.- Todas las asignaciones seguirán el orden que los candidatos a Diputados plurinominales tengan en las listas respectivas.
 
@@ -4121,7 +4283,9 @@ Son objeto de prueba los hechos controvertidos. No lo será el derecho, los hech
 
 El que afirma está obligado a probar. También lo está el que niega cuando su negación envuelva la afirmación expresa de un hecho.
 
-### CAPITULO I. DE LA IMPOSICION DE SANCIONES POR LA COMISION DE INFRACCIONES ADMINISTRATIVAS
+### CAPITULO II. DE LOS DELITOS ELECTORALES
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 372.
 
@@ -4177,11 +4341,9 @@ El TRIBUNAL sólo podrá declarar la nulidad de la votación recibida en una o v
 
 ## TITULO SEGUNDO. DE LAS INFRACCIONES, SANCIONES ADMINISTRATIVAS Y DELITOS ELECTORALES
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1999)</small>
 
-### CAPITULO II. DE LOS DELITOS ELECTORALES
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1999)</small>
+### CAPITULO I. DE LA IMPOSICION DE SANCIONES POR LA COMISION DE INFRACCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 377.
 
@@ -4265,8 +4427,6 @@ El CONSEJO GENERAL aplicará al PARTIDO POLITICO la sanción económica que le h
 
 Las multas impuestas por infracciones a este CODIGO, contenidas en el presente Título, deberán ser pagadas en la Secretaría Ejecutiva del INSTITUTO, en un plazo improrrogable de 15 días contados a partir su notificación. En caso de que el infractor se oponga al pago se podrá solicitar a la Secretaría de Finanzas del Gobierno del Estado el cobro de la misma, aplicando para ello el procedimiento económico coactivo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1999)</small>
-
 ###### ARTICULO 390.
 
 Se considerará como delito electoral todo acto u omisión doloso que contravenga lo dispuesto por el presente Código y se encuentre previsto en la Ley Penal, ya sea que se cometa antes, durante o después de la jornada electoral.
@@ -4276,6 +4436,8 @@ Se considerará como delito electoral todo acto u omisión doloso que contraveng
 ###### ARTICULO 391.
 
 A los servidores públicos, funcionarios electorales y ciudadanos en general que incurran en algún delito electoral, se les aplicarán las penas establecidas en el capítulo X, denominado "De los Delitos Electorales", del Título Primero, Sección Segunda, del Código Penal para el Estado de Colima. A los servidores públicos, además de las sanciones ya mencionadas, se les podrán aplicar las establecidas por la Ley de Responsabilidades de los Servidores Públicos.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1999)</small>
 
 ## TRANSITORIOS
 
@@ -4324,3 +4486,11 @@ P.O. 10 DE JULIO DE 1999.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+P.O. 31 DE JULIO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para los efectos del artículo 36 de este CODIGO, por esta única ocasión la inscripción del registro de los Partidos Políticos Nacionales podrá hacerse hasta el 31 de octubre de 1999.
+
+TERCERO.- Para que los partidos políticos normalicen y tengan la disponibilidad de financiar las actividades relativas a la educación, capacitación, investigación socioeconómica y política, así como las tareas editoriales, el Consejo General entregará por única vez, en la primera quincena del mes de Septiembre de 1999, dos ministraciones mensuales en una sola emisión, equivalente cada una, al 15% del financiamiento correspondiente, conforme a lo señalado en la fracción VIII del artículo 55 de este Código.
