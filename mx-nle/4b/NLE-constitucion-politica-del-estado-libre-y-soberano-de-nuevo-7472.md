@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1987-10-07"
+last_updated: "1987-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 1987.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -43,11 +43,11 @@ Del Estado en General, Forma de Gobierno,
 
 Nuevoleoneses y Ciudadanos
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 1987)</small>
 
 ###### Art. 28.
 
-El Estado de Nuevo León comprende el territorio de lo que fué provincia del Nuevo Reyno de León, con los límites que marcan los convenios relativos con los Estados vecinos, y continúa dividido en las siguientes municipalidades: Monterrey (Capital del Estado) Abasolo, Agualeguas, Anáhuac, Apodaca, Aramberri, Allende, Bustamante, Cadereyta Jiménez, Carmen, Cerralvo, Ciénega de Flores, China, Dr. Arroyo, Dr. Coss, Dr. González, Galeana, García, Garza García, Gral. Bravo, Gral. Escobedo, Gral. Terán, Gral. Treviño, Gral. Zaragoza, Gral. Zuazua, Guadalupe, Higueras, Iturbide, Juárez, Lampazos de Naranjo, Linares, Los Ramones, Los Aldamas, Los Herreras, Marín, Melchor Ocampo, Mier y Noriega, Mina, Montemorelos, Parás, Pesquería, Rayones, Sabinas Hidalgo, Salinas Victoria, Hidalgo, San Nicolás de los Garzas, Santa Catarina, Santiago, Vallecillo y Villaldama y con las demás Municipalidades que se formen en lo sucesivo.
+El Estado de Nuevo León comprende el territorio de lo que fue provincia del Nuevo Reyno de León, con los límites que marcan los convenios relativos con los Estados vecinos, y continúa dividido en las siguientes Municipalidades: Monterrey (Capital del Estado) Abasolo, Agualeguas, Anáhuac, Apodaca, Aramberri, Allende, Bustamante, Cadereyta Jiménez, Carmen, Cerralvo, Ciénega de Flores, China, Dr. Arroyo, Dr. Coss, Dr. González, Galeana, García, Gral. Bravo, Gral. Escobedo, Gral. Terán, Gral. Treviño, Gral. Zaragoza, Gral. Zuazua, Guadalupe, Higueras, Hualahuises, Iturbide, Juárez, Lampazos de Naranjo, Linares, Los Ramones, Los Aldamas, Los Herreras, Marín, Melchor Ocampo, Mier y Noriega, Mina, Montemorelos, Parás, Pesquería, Rayones, Sabinas Hidalgo, Salinas Victoria, Hidalgo, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina, Santiago, Vallecillo , Villaldama y con las demás municipalidades que se formen en lo sucesivo.
 
 ###### Art. 29.
 
@@ -1139,9 +1139,9 @@ I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos civ
 
 II.- Ser mayor de veintiún años;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 1980)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1987)</small>
 
-III.- Tener residencia de no menos de un año para el día de la elección en el Municipio en que ésta se verifique. En los Municipios de Apodaca, General Escobedo, Garza García, Guadalupe, Monterrey, San Nicolás de los Garza, Santa Catarina y Villa de García, que comprenden el área metropolitana, será válida la que se tenga en cualquiera de éstos;
+III.- Tener residencia de no menos de un año para el día de la elección en el Municipio en que ésta se verifique. En los Municipios de Apodaca, General Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y Villa de García, que comprenden el área metropolitana, será válida la que se tenga en cualquiera de éstos;
 
 IV.- No tener empleo o cargo remunerados en el Municipio en donde se verifique la elección, ya dependan de éste, del Estado o de la Federación, exceptuándose los puestos de Instrucción y Beneficencia;
 
@@ -1974,3 +1974,7 @@ P.O.13 DE ABRIL DE 1987.
 P.O. 7 DE OCTUBRE DE 1987.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE OCTUBRE DE 1987.
+
+UNICO:- El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial del Gobierno del Estado.
