@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-penales-para-el-estado-libre-y-4716"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-01-30"
-last_updated: "1992-01-30"
+last_updated: "1992-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 1992.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de enero de 1992.
 
@@ -265,9 +265,11 @@ Los secretarios de los tribunales y del Ministerio Público, cotejarán las copi
 
 La infracción de las disposiciones contenidas en los artículos 17, 18, 20, 22, 23, 27 y 29 de este código, se sancionará con una corrección disciplinaria, sin perjuicio de consignar el caso al Ministerio Público, cuando pudiere resultar la existencia de un delito.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 31.
 
-Las actuaciones serán nulas cuando carezcan de alguna de las formalidades esenciales que prevenga la ley, de manera que se cause perjuicio a cualquiera de las partes, así como cuando la ley expresamente determine la nulidad. Esta no podrá ser invocada por quien dió lugar a ella. La nulidad de una actuación se reclamará, por la parte que la promueva, en la actuación subsecuente en que ésta deba intervenir, y se sustanciará conforme al procedimiento previsto para los incidentes no especificados. Cuando se resuelva la nulidad del acto serán igualmente nulas las actuaciones posteriores al acto anulado que se deriven precisamente de éste. Las resoluciones que resuelvan sobre la nulidad invocada, serán apelables con efecto devolutivo.
+Las actuaciones serán nulas cuando carezcan de alguna de las formalidades esenciales que prevenga la ley, de manera que se cause perjuicio a cualquiera de las partes, así como cuando la ley expresamente determine la nulidad. Esta no podrá ser invocada por quien dió lugar a ella. Serán nulas también, las actuaciones, en las que el inculpado que no domine o no entienda el idioma castellano, no haya sido asistido por un traductor en los términos que señalan los Artículos 15 y 125 de este ordenamiento. La nulidad de una actuación se reclamará por la parte que la promueva, en la actuación subsecuente en que ésta debe intervenir, y se sustanciará conforme al procedimiento previsto para los incidentes no especificados. Cuando se resuelva la nulidad del acto serán igualmente nulas las actuaciones posteriores al acto anulado que se deriven precisamente de éste. Las resoluciones que resuelvan sobre la nulidad invocada, serán apelables con efecto devolutivo.
 
 ### CAPITULO III. DESPACHO DE LOS ASUNTOS
 
@@ -503,11 +505,15 @@ Los términos se fijarán por días y hora, y salvo los actos a que se refieren 
 
 Con excepción de los altos funcionarios de la Federación o del Estado, toda persona está obligada a presentarse ante los tribunales y ante el Ministerio Público cuando sea citada, a menos que no pueda hacerlo porque padezca alguna enfermedad que se lo impida, o tenga alguna otra imposibilidad física para presentarse.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 73.
 
-Las citaciones podrán hacerse por cédula, por telégrafo, o por mensaje escrito vía telefónica, anotándose en cualquiera de esos casos la constancia respectiva en el expediente.
+Las citaciones podrán hacerse por cédula, por telégrafo, por mensaje escrito, o por vía telefónica, anotándose en cualquiera de esos casos la constancia respectiva en el expediente.
 
-La cédula se asentará en papel oficial y deberá ser sellada por el tribunal o el Ministerio Público que haga la citación.
+La cédula se asentará en papel oficial y deberá ser sellada por el Tribunal o el Ministerio Público que haga la citación.
+
+Cuando se conozca que una persona no hable o no entienda suficientemente el castellano, además la citación le será traducida a su idioma.
 
 ###### ARTICULO 74.
 
@@ -3110,3 +3116,15 @@ Por tanto mando se imprima, publique, circule y comuníquese a quienes correspon
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los doce días del mes de Noviembre de mil novecientos noventa y uno.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JOSE RAMIREZ GAMERO.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. SALVADOR MENDIVIL HERNANDEZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 11 DE JUNIO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor al tercer día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente.
