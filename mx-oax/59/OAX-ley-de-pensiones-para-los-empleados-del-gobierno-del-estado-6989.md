@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pensiones-para-los-empleados-del-gobierno-del-estado-698
 country: "mx"
 rank: "ley"
 publication_date: "1958-06-07"
-last_updated: "1958-06-07"
+last_updated: "1961-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PENSIONES PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1961.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el sábado 7 de junio de 1958.
 
@@ -43,13 +43,17 @@ LEY DE PENSIONES PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA.
 
 BASES GENERALES.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1961)</small>
+
 ###### ARTICULO 1°.
 
-La presente Ley se aplicará a los trabajadores del Gobierno del Estado de Oaxaca, que estén a su servicio en la fecha que entre en vigor, y a los que ingresen en lo sucesivo; así como a los de la Oficina de Pensiones que se crea por medio de este Ordenamiento.
+La presente Ley se aplicará a los trabajadores del Gobierno del Estado de Oaxaca, que estén a su servicio en la fecha que entre en vigor, y a los que ingresen en lo sucesivo; así como a los de la Oficina de Pensiones que se crea por medio de este Ordenamiento. Igualmente se aplicará a los Trabajadores Federalizados de la Educación.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1961)</small>
 
 ###### ARTICULO 2°.
 
-Para los efectos de la presente Ley se entiende por trabajadores: el funcionario, el empleado y el obrero que, mediante la expedición del nombramiento legal correspondiente, preste sus servicios a los Poderes del Estado, siempre y cuando dichos servicios estén remunerados con cargo a partidas de los Presupuestos de Egresos respectivos. Quedan exceptuados quienes presten servicios eventuales cuyos emolumentos se paguen con cargo a partidas globales.
+Para los efectos de la presente Ley se entiende por trabajadores: al funcionario, el empleado y el obrero que, mediante la expedición del nombramiento legal correspondiente preste sus servicios a los Poderes del Estado, siempre y cuando dichos servicios estén remunerados con cargo a partidas de los Presupuestos de Egresos respectivos. También se considerarán como tales los Trabajadores Federalizados al Servicio de la Educación. Quedan exceptuados quienes presten servicios eventuales cuyos emolumentos se paguen con cargo a partidas globales.
 
 ###### ARTICULO 3°.
 
@@ -133,6 +137,10 @@ El Estado considerará en sus Presupuestos de Egresos las partidas para cubrir l
 
 Los trabajadores de Instituciones descentralizadas del Gobierno del Estado, podrán gozar de los beneficios de esta Ley, siempre que se ajusten a sus ordenamientos, y las propias Instituciones descentralizadas entreguen directamente a la Oficina de Pensiones su aportación, que será igual al tres por ciento de la dotación de las partidas presupuestales específicas para los emolumentos de los trabajadores, mas el descuento que a éstos se haga equivalente también al tres por ciento de sus remuneraciones.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1961)</small>
+
+La aportación de 3% correspondiente a los Trabajadores Federalizados al Servicio de la Educación, se descontará de la suma que entrega el Gobierno del Estado al Federal, como cooperación para el pago de sus sueldos.
+
 ###### ARTICULO 16.
 
 Los actos contenciosos y las controversias que se susciten por la aplicación de esta Ley serán de la competencia de los Tribunales del Estado.
@@ -157,9 +165,11 @@ La edad, el parentesco y los demás requisitos que se exigen en esta Ley al trab
 
 DE LAS APORTACIONES.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1961)</small>
+
 ###### ARTICULO 21.
 
-El Gobierno del Estado sumará todas las partidas especificas de sus Presupuestos de Egresos que correspondan a remuneraciones personales; esta suma la dividirá entre el número de días que tenga el año y del cociente así obtenido tomará el tres por ciento. Este resultado será la cuota diaria que el Estado aporte a la Oficina de Pensiones para el fondo, de conformidad con el artículo 5° fracción I de esta Ley. Las entregas se harán el día último de cada quincena, y las que correspondan a días en que se suspendan las labores, se harán el día hábil inmediato siguiente.
+El Gobierno del Estado sumará todas las partidas específicas de sus Presupuestos de Egresos que correspondan a remuneraciones a su personal, mas los sueldos básicos que reciban los Trabajadores Federalizados al Servicio del Estado; esta suma la dividirá entre el número de días que tenga el año y del cociente así obtenido tomará el tres por ciento. Este resultado será la cuota diaria que el Estado aporte a la Oficina de Pensiones para el fondo; de conformidad con el artículo 5o. fracción I de la Ley. Las entregas se harán el día último de cada quincena, y las que correspondan a días en que se suspendan las labores, se harán el día hábil inmediato siguiente.
 
 ###### ARTICULO 22.
 
@@ -537,9 +547,11 @@ Cuando el trabajador falleciere sin que sus deudos tengan derecho a pensión, é
 
 GASTOS DE FUNERAL.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1961)</small>
+
 ###### ARTICULO 74.
 
-Los deudos de los trabajadores que fallezcan en servicio o cuando disfruten de una licencia con goce de sueldo, recibirán la cantidad de un mes completo de sueldo para gastos de funeral. Este beneficio será pagado también a los deudos de los trabajadores que disfruten de una licencia por tiempo determinado concedida dentro de las disposiciones de la Ley del Servicio Civil y a los que se encuentren en los casos a que se refiere el artículo 28 de esta misma Ley.
+Los deudos de los trabajadores que fallezcan en servicio o cuando disfruten de una licencia con goce de sueldo, recibirán la cantidad de dos meses completos de sueldo para gastos de funeral. Este beneficio será pagado también a los deudos de los trabajadores que disfruten de una licencia por tiempo determinado concedida dentro de las disposiciones de la Ley del Servicio Civil.
 
 ###### ARTICULO 75.
 
@@ -823,6 +835,38 @@ Quedan derogadas todas las disposiciones que se opongan a la presente Ley.
 
 Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1961)</small>
+
+###### ARTICULO 9°.
+
+Durante los primeros cinco años de vigencia de la presente reforma, el Estado, a propuesta de la Oficina de Pensiones otorgará las jubilaciones por vejez a los Trabajadores Federalizados de la Educación que tengan 64 años de edad o más, siempre que hayan satisfecho el requisito de años de servicio y cooperado al fondo de pensiones conforme a la siguiente tabla:
+
+Para 64 años o más de edad: 2 años
+
+" 63 " " " " " 3 años
+
+" 62 " " " " " 4 "
+
+" 61 " " " " " 5 "
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1961)</small>
+
+###### ARTICULO 10.
+
+Durante los primeros cinco años de vigencia de la presente reforma el monto de las pensiones que se concedan a los Trabajadores Federalizados de la Educación, será de un 75% de las que correspondan de acuerdo con el articulo 56 de la Ley de Pensiones.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1961)</small>
+
+###### ARTICULO 11.
+
+Se deroga el artículo 28 de la Ley del Servicio Civil en el Estado de Oaxaca, así como todas aquellas disposiciones contenidas en dicho Ordenamiento Legal que se refieren al pago de pensiones o a pagos por gastos de defunción.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1961)</small>
+
+###### ARTICULO 12.
+
+Estas reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
 Lo tendrá entendido el C. Gobernador del Estado y hará que se publique y se cumpla.
 
 DADO EN EL SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Oaxaca de Juárez, a los veintinueve días del mes de mayo de mil novecientos cincuenta y ocho.- LUIS HERNANDEZ VALLADARES, Diputado Presidente.- CONSTANTINO CANSECO CORA, Diputado Secretario. PABLO RAMIREZ PEREZ. Diputado Secretario. Rúbricas.
@@ -836,3 +880,9 @@ Y lo comunico a usted para su conocimiento y fines consiguientes.
 SUFRAGIO EFECTIVO, NO REELECCIÓN.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, a 3 de junio de 1958.- El Secretario General del Despacho, Ing. NORBERTO AGUIRRE.- Rúbrica.
 
 Al C...
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 SEPTIEMBRE DE 1961.
+
+EN RELACION CON LA ENTRADA EN VIGOR DEL DECRETO DE REFORMAS CON ANTELACION CITADO, REMITASE A LOS ARTICULOS TRANSITORIOS 9° A 12 DEL TEXTO ORIGINAL DE LA PRESENTE LEY.
