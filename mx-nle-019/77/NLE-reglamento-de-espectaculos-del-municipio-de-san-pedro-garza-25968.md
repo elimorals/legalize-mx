@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-espectaculos-del-municipio-de-san-pedro-garza-259
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-07-22"
-last_updated: "1991-07-22"
+last_updated: "1994-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE ESPECTACULOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO DE ESPECTACULOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO DE ESPECTÁCULOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 1994.
 
-Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de julio de 1991.
+Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de Julio de 1991.
 
 EL C. ING. MAURICIO FERNANDEZ GARZA, PRESIDENTE MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, A LOS HABITANTES DE ESTE MUNICIPIO, HACE SABER:
 
@@ -235,6 +235,16 @@ IV.- Clausura definitiva; y
 
 V.- Arresto hasta por 36 horas.
 
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1994)</small>
+
+ART. 65 BIS.- En el caso de incumplimiento a los requisitos señalados para la ampliación del horario, y una vez otorgada la misma, según se señala en el artículo 58 de este ordenamiento, se hará el negocio infractor acreedor a las siguientes sanciones:
+
+a) Revocación inmediata de la ampliación concedida;
+
+b) Cancelación definitiva de cualquier clase de solicitud de ampliación de horario; y
+
+c) Multa equivalente a lo que por concepto de refrendo anual paga en la Tesorería Municipal.
+
 ART. 66.- La Autoridad Municipal a quién competa la aplicación de las sanciones, a que se refiere el artículo que antecede, oirá al infractor, en una audiencia que se celebrará dentro del tercer día posterior a aquél en que se le haya dictaminado la infracción. El infractor podrá acompañar los elementos de prueba que estimare pertinentes y la Autoridad sancionadora resolverá en forma inmediata lo que proceda.
 
 ART. 67.- Se entiende como cuota, el equivalente a un día de salario mínimo general vigente para ésta zona económica, y para determinar la sanción, la Autoridad Municipal, tomará en cuenta la naturaleza de la infracción, sus posibilidades económicas, su reincidencia y los perjuicios que causare a los ciudadanos, en donde ejercite su actividad motivo de la sanción impuesta.
@@ -274,3 +284,9 @@ ING. MAURICIO FERNANDEZ G.
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 C.P. JESUS GUZMAN SEPULVEDA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 5 DE AGOSTO DE 1994.
+
+PRIMERO.- Estas reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado y en la Gaceta Municipal.
