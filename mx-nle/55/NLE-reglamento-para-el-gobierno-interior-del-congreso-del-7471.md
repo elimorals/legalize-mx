@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "1994-11-21"
+last_updated: "1994-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1994.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -275,21 +275,29 @@ X.- Además de los expedientes a que se refiere la fracción anterior, la Secret
 
 XI.- Vigilar el trabajo que lleve a cabo el Oficial Mayor del Congreso y previo acuerdo con el Presidente, ordenar lo que proceda.
 
-### CAPITULO IV. DE LA COMISION DE COORDINACION Y GOBIERNO INTERNO
+> <small>(REFORMADA SE DENOMINACION, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+### CAPITULO IV. DE LA GRAN COMISION
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 31.
 
-La Comisión de Coordinación y Gobierno Interno celebrará una Sesión Ordinaria mensual dentro de la primera semana de cada mes, a la que deberán asistir la mayoría de los integrantes. Invariablemente el Presidente dirigirá los trabajos y a falta de éste lo sustituirá el Vice-Presidente.
+La Gran Comisión celebrará una Sesión Ordinaria mensual dentro de la primera semana de cada mes, a la que deberán asistir la mayoría de los integrantes. Invariablemente el Presidente dirigirá los trabajos y a falta de éste lo sustituirá el Vice-Presidente.
 
-Podrán llevarse a cabo Sesiones Extraordinarias de la Comisión de Coordinación y Gobierno Interno por acuerdo de la mayoría de los miembros de la Comisión cuando a su juicio, un asunto lo requiera.
+Podrán llevarse a cabo Sesiones Extraordinarias de la Gran Comisión por acuerdo de la mayoría de los miembros de la Comisión cuando a su juicio, un asunto lo requiera.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 32.
 
-A las sesiones de la Comisión de Coordinación y Gobierno Interno se citará con por lo menos cuarenta y ocho horas de anticipación y se realizarán bajo un orden del día que elaborará la Secretaría y estará sujeta a la aprobación de la mayoría de los asistentes.
+A las sesiones de la Gran Comisión se citará con por lo menos cuarenta y ocho horas de anticipación y se realizarán bajo un orden del día que elaborará la Secretaría y estará sujeta a la aprobación de la mayoría de los asistentes.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 33.
 
-Los Acuerdos de la Comisión de Coordinación y Gobierno Interno deberán estar suscritos por el Presidente y el Secretario de la misma y serán aplicados en el ámbito de las funciones que le señala la Ley Orgánica del Poder Legislativo.
+Los Acuerdos de la Gran Comisión deberán estar suscritos por el Presidente y el Secretario de la misma y serán aplicados en el ámbito de las funciones que le señala la Ley Orgánica del Poder Legislativo.
 
 ###### Artículo 34.
 
@@ -297,13 +305,17 @@ De cada sesión se levantará un acta, la cual una vez aprobada será firmada po
 
 Se llevará un libro de registro en el que se anotarán los acuerdos y las disposiciones de la Comisión, así mismo las actas y resoluciones se integrarán al Archivo del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 35.
 
-Las Iniciativas o Propuestas que la Comisión de Coordinación y Gobierno Interno presente al Pleno deberán estar suscritas por la mayoría de sus miembros.
+Las Iniciativas o Propuestas que la Gran Comisión presente al Pleno deberán estar suscritas por la mayoría de sus miembros.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 36.
 
-La Comisión de Coordinación y Gobierno Interno dispondrá para sus funciones de un lugar adecuado dentro de las instalaciones del Congreso y contará además con el personal necesario.
+La Gran Comisión dispondrá para sus funciones de un lugar adecuado dentro de las instalaciones del Congreso y contará además con el personal necesario.
 
 ## TITULO TERCERO. DE LOS ORGANOS DE TRABAJO
 
@@ -455,7 +467,9 @@ Todo lo relacionado con el conocimiento y difusión de todos los acontecimientos
 
 Todo lo concerniente a los aspectos vinculados con las fuentes, conducción, abasto y tarifas del suministro de agua, así como los programas de tratamiento y aprovechamiento de aguas residuales. Se incluyen también los aspectos relativos al servicio de drenaje pluvial y sanitario.
 
-30) ORGANIZACION INTERNA DE GOBIERNO
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+30) ORGANIZACION INTERNA DE LOS PODERES Y DE LA ADMINISTRACION PUBLICA
 
 Todos los asuntos relacionados con la organización y estructura interna de los Poderes en sus diferentes instancias y niveles de Gobierno.
 
@@ -609,7 +623,9 @@ V.- Elaborar los criterios para otorgar el apoyo a los Grupos Legislativos, a la
 
 VI.- Rendir un informe anual al Pleno de las actividades desarrolladas;
 
-VII.- Para la elaboración de los criterios relacionados con el apoyo a los Grupos Legislativos, el Comité recabará el punto de vista de la Comisión de Coordinación y Gobierno Interno; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+VII.- Para la elaboración de los criterios relacionados con el apoyo a los Grupos Legislativos, el Comité recabará el punto de vista de la Gran Comisión; y
 
 VIII.- Recibir el Proyecto de Informe Anual que el Comité presentará al Pleno, el que será elaborado por el Tesorero del Congreso.
 
@@ -699,13 +715,19 @@ IV.- Cubrir las necesidades del Congreso, efectuando los pagos de acuerdo con lo
 
 V.- Controlar el ejercicio presupuestario mediante el registro contable, de todos los egresos y elaborar los informes correspondientes;
 
-VI.- Informar trimestralmente sobre el estado de origen y aplicación de los recursos a la Comisión de Coordinación y Gobierno Interno, al Comité de Administración y a la Comisión de Vigilancia del Congreso;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-VII.- Efectuar las auditorías que sean necesarias en los Organos Técnicos, Administrativos y de Apoyo, cuando la Comisión de Coordinación y Gobierno Interno o el Comité de Administración lo estimen conveniente;
+VI.- Informar trimestralmente sobre el estado de origen y aplicación de los recursos a la Gran Comisión, al Comité de Administración y a la Comisión de Vigilancia del Congreso;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+VII.- Efectuar las auditorías que sean necesarias en los Organos Técnicos, Administrativos y de Apoyo, cuando la Gran Comisión o el Comité de Administración lo estimen conveniente;
 
 VIII.- Intervenir en todos los contratos que afecten el Presupuesto de Egresos; y
 
-IX.- Las demás que le confieren las disposiciones legales y reglamentarias del Congreso, la Comisión de Coordinación y Gobierno Interno y el Comité de Administración.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+IX.- Las demás que le confieren las disposiciones legales y reglamentarias del Congreso, la Gran Comisión y el Comité de Administración.
 
 La Tesorería del Congreso contará con las unidades administrativas que sean necesarias para el cumplimiento de sus funciones.
 
@@ -743,7 +765,9 @@ VII.- Llevar un registro de los bienes muebles e inmuebles asignados al Congreso
 
 VIII.- Elaborar los programas de capacitación y adiestramiento al personal administrativo; y
 
-IX.- Las demás que le asigne la Ley Orgánica del Poder Legislativo, este reglamento y el Presidente de la Comisión de Coordinación y Gobierno Interno.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+IX.- Las demás que le asigne la Ley Orgánica del Poder Legislativo, este reglamento y el Presidente de la Gran Comisión.
 
 La Dirección de Administración contará con las unidades administrativas que sean necesarias para el cumplimiento de sus funciones.
 
@@ -759,7 +783,9 @@ II.- Asesorar en los proyectos de Ley, Decretos y Acuerdos que sean materia de t
 
 III.- A petición de las Comisiones de Dictamen Legislativo y en coordinación con la Oficialía Mayor y la Dirección de Asesoría revisar los dictámenes que se elaboren;
 
-IV.- Cuando así lo determine la Comisión de Coordinación y Gobierno Interno, representar al Congreso en asuntos civiles, penales, mercantiles, laborales y los demás en que sea parte; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+IV.- Cuando así lo determine la Gran Comisión, representar al Congreso en asuntos civiles, penales, mercantiles, laborales y los demás en que sea parte; y
 
 V.- Las demás que le asignen la Ley Orgánica del Poder Legislativo, este Reglamento y los Titulares de los Organos de Dirección y de Trabajo.
 
@@ -789,7 +815,9 @@ En los términos del Artículo 50 de la Ley Orgánica del Poder Legislativo a la
 
 I.- Informar a los medios de comunicación sobre las actividades del Congreso;
 
-II.- Ser instancia de apoyo al Pleno, la Directiva, la Comisión de Coordinación y Gobierno Interno, las Comisiones y a los Comités en lo que se refiere a la difusión de sus acuerdos, labores y propuestas; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+II.- Ser instancia de apoyo al Pleno, la Directiva, la Gran Comisión, las Comisiones y a los Comités en lo que se refiere a la difusión de sus acuerdos, labores y propuestas; y
 
 III. Las demás que le asignen la Ley Orgánica del Poder Legislativo, este Reglamento y los Titulares de los Organos de Dirección y de Trabajo del Congreso.
 
@@ -811,13 +839,17 @@ V.- Las demás que le asignen la Ley Orgánica del Poder Legislativo, este Regla
 
 La Dirección de Informática contará con las áreas que sean necesarias para el cumplimiento de sus funciones.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 76.
 
-Los Titulares de los Organos Técnico-Administrativos y de Apoyo, rendirán trimestralmente un informe a la Comisión de Coordinación y Gobierno Interno.
+Los Titulares de los Organos Técnico-Administrativos y de Apoyo, rendirán trimestralmente un informe a la Gran Comisión.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 77.
 
-La estructura y funcionamiento de los Organos Técnico-Administrativos y de Apoyo será definida y regulada por el Manual de Organización que expida la Comisión de Coordinación y Gobierno Interno conforme al Presupuesto de Egresos del Congreso del Estado.
+La estructura y funcionamiento de los Organos Técnico-Administrativos y de Apoyo será definida y regulada por el Manual de Organización que expida la Gran Comisión conforme al Presupuesto de Egresos del Congreso del Estado.
 
 ## TITULO QUINTO. DEL PROCESO LEGISLATIVO
 
@@ -1055,7 +1087,9 @@ Bajo la forma de Decreto, el Congreso expedirá las resoluciones que tengan car�
 
 Bajo la denominación de Acuerdo, el Congreso dictará resolución sobre cualquier asunto concreto y específico que sea sometido a su consideración y que no sea Decreto o Ley.
 
-Los Acuerdos Administrativos son las resoluciones del Pleno o de la Comisión de Coordinación y Gobierno Interno sobre asuntos concretos o específicos que solo se comunicarán a los interesados.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+Los Acuerdos Administrativos son las resoluciones del Pleno o de la Gran Comisión sobre asuntos concretos o específicos que solo se comunicarán a los interesados.
 
 ###### Artículo 124.
 
@@ -1362,3 +1396,9 @@ UNICO:- El presente Decreto entrará en vigor el día de su publicación en el P
 P.O. 21 DE NOVIEMBRE DE 1994.
 
 UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1994.
+
+PRIMERO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado.
+
+SEGUNDO:- Cuando en una Ley, Reglamento o cualquier otra disposición este expresado el termino "Comisión de Coordinación y Gobierno Interno", se entenderá que se refiere a la "Gran Comisión".
