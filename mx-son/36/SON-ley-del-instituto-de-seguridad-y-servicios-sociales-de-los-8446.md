@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "1963-12-31"
+last_updated: "1965-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1963.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 13 DE ENERO DE 1965.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -567,19 +567,25 @@ SECCION 2a
 
 JUBILACION
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 13 DE ENERO DE 1965)</small>
+
 ###### Artículo 68.
 
-Tienen derecho a la jubilación los trabajadores con treinta años o más de servicios y quince años de contribución al Instituto como mínimo en los términos de esta ley, cualquiera que sea su edad.
+Tienen derecho a la jubilación los trabajadores con treinta años o más de servicio y quince años de contribución al Instituto como mínimo en los términos de esta Ley, cualquiera que sea su edad.
 
-La jubilación dará derecho al pago de una cantidad equivalente al 100% de sueldo regulador que se define en el artículo 73 y su percepción comenzará a partir del día siguiente a aquel en que el trabajador lo hubiese disfrutado el último sueldo por haber causado baja.
+La jubilación dará derecho al pago de una cantidad equivalente al 100% de su sueldo regulador que se define en el artículo 73 y su percepción comenzará a partir del día siguiente a aquél en que el trabajador hubiese disfrutado el último sueldo por haber causado baja.
+
+"PARA COMPUTAR LOS QUINCE AÑOS DE CONTRIBUCION AL INSTITUTO DEBEN TOMARSE EN CUENTA LAS APORTACIONES HECHAS AL FONDO DE PENSIONES DE LA ANTIGUA DIRECCION GENERAL DE PENSIONES DEL ESTADO".
 
 SECCION 3a
 
 PENSION POR VEJEZ
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 13 DE ENERO DE 1965)</small>
+
 ###### Artículo 69.
 
-Tienen derecho a pensión por vejez, los trabajadores que habiendo cumplido 55 años de edad, tuviesen 15 años de servicios como mínimo e igual tiempo de contribución al Instituto.
+Tienen derecho a pensión por vejez, los trabajadores que habiendo cumplido 55 años de edad, tuviesen 15 años de servicios como mínimo e igual tiempo de contribución al Instituto o A LA ANTIGUA DIRECCION GENERAL DE PENSIONES DEL ESTADO EN LOS TERMINOS DEL ARTICULO PRECEDENTE.
 
 ###### Artículo 70.
 
@@ -1107,9 +1113,11 @@ Los servicios prestados con anterioridad al primero de enero de mil novecientos 
 
 Las prestaciones establecidas en los capítulos 5o. y 6o. se harán efectivas en proporción a las posibilidades financieras del Instituto.
 
-###### Artículo 8o.
+> <small>(REFORMADO, B.O. 13 DE ENERO DE 1965)</small>
 
-Al término del año de 1964 deberá estar formulado un balance actuarial del Instituto, que determinará el monto de sus reservas, la insuficiencia de sus aportaciones y, en general, todos aquellos datos que sean necesarios para precisar el financiamiento correcto del Instituto.
+###### Artículo 8.
+
+Al término del año de 1966 deberá estar formulado un balance actuarial del instituto, que determinará el monto de sus reservas, la suficiencia de la aportaciones y, en general, todos aquellos datos que sean necesarios para precisar el financiamiento correcto del instituto.
 
 ###### Artículo 9o.
 
@@ -1127,9 +1135,15 @@ Las prestaciones establecidas en esta Ley podrán ser ampliadas, a medida que la
 
 A partir de la vigencia del presente Ordenamiento quedan abrogadas la Ley número 112 de 20 de diciembre de 1948 que estableció el "Fondo de Protección Burocrática"; la Número 5 de 14 de noviembre de 1949, que modificó y adicionó la anterior e instituyó la Dirección de Pensiones del Estado y la número 60 de 4 de diciembre de 1950 que aprobó el Reglamento de la Dirección de Pensiones del Estado; así como la número 13, de 14 de marzo de 1962, que estableció un pago adicional del cinco por ciento del sueldo base para los servidores públicos del Gobierno del Estado, por concepto de Asistencia Médica y Medicinas, porcentaje que pasará a formar parte del sueldo y se tomará en cuenta al hacer las deducciones que esta propia ley establece; quedan derogadas asimismo todas las disposiciones de carácter general que se opongan a la presente ley.
 
+> <small>(REFORMADO, B.O. 13 DE ENERO DE 1965)</small>
+
 ###### Artículo 13.
 
-No obstante lo dispuesto en los transitorios que anteceden, quedan subsistentes todos los derechos concedidos por leyes anteriores, en materia de jubilación o pensiones, en cuanto superen a los que establecen esta Ley, en beneficio de cualquier sector de los servidores del Estado".
+En el caso de los maestros el sueldo regulador, que establece el artículo 73 se aplicará siempre que no incluya años anteriores a 1964, fecha en que se inició el plan de nivelación de sueldos con el magisterio federal.
+
+En la misma forma, en tanto los sueldos que perciban los maestros estatales sean inferiores a los recibidos por el magisterio federal y tratándose de maestros no titulados, al jubilarse, el monto de la pensión calculada, como se expresa en el párrafo anterior, se aumentará en uno u otro de los casos que se dejan señalados, en un 40% sobre el sueldo base mayor de que hubiere disfrutado el interesado, siempre que éste hubiese prestado, servicios por lo menos durante 30 años.
+
+El 40% a que se refiere esta disposición, se reducirá en la misma proporción en que sean aumentados los emolumentos de los maestros no titulados, con el fin de lograr la nivelación, de sueldos con el magisterio federal.
 
 Comuníquese al Ejecutivo para su sanción y promulgación.
 
@@ -1166,3 +1180,7 @@ LIC. ENRIQUE FOX ROMERO.
 B.O. 31 DE DICIEMBRE DE 1963.
 
 UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 13 DE ENERO DE 1965.
+
+UNICO.- Esta Ley entrará en vigor a partir del día de su publicación en el Boletín Oficial del Estado.
