@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-municipal-del-estado-de-oaxaca-6934"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-01"
-last_updated: "1996-12-26"
+last_updated: "1997-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 1 de septiembre de 1990.
 
@@ -433,6 +433,14 @@ II La superficie total del predio baldío sin barda o solo cercado que sea sujet
 
 III La periodicidad y forma en que deba prestarse el servicio de recolección de basura en los casos de usuarios que requieren servicios especiales mediante contrato o accidentales.
 
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+IV En el caso de usuarios domésticos, la periodicidad y forma en que se preste el servicio en cada colonia, en el supuesto de que éste se preste con diferentes características en cada zona de la municipalidad.
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+V En el caso de usuarios industriales o prestadores de servicios, la periodicidad, forma y tipo en que se presta el servicio, así como el volumen de basura que se genere.
+
 ###### ARTICULO 48.
 
 El pago de este derecho se efectuará:
@@ -442,6 +450,10 @@ I En los casos de la fracción I del artículo anterior en forma bimestral confo
 II En los casos a que se refiere la fracción II del artículo anterior, dentro de los quince días siguientes a la fecha en que el ayuntamiento concluya la limpieza del predio, conforme a la cuota establecida por metro cuadrado de superficie, en la Ley de Ingresos Municipal.
 
 III En los casos a que se refiere la fracción III del artículo anterior, el pago se hará bimestralmente conforme a los contratos celebrados entre el ayuntamiento y los particulares para tal efecto y de acuerdo a las cuotas establecidas en la Ley de Ingresos Municipal.
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+IV En el supuesto previsto en las fracciones IV y V del artículo anterior, en forma bimestral de conformidad con las tarifas que se establezcan en la Ley de Ingresos.
 
 ### CAPITULO V. RASTRO
 
@@ -1196,3 +1208,9 @@ SEGUNDO.- El presente Decreto entrará en vigor a partir de la fecha de su publi
 P.O. 26 DE DICIEMBRE DE 1996.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE FEBRERO DE 1997.
+
+###### ARTICULO UNICO.
+
+Las presentes adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
