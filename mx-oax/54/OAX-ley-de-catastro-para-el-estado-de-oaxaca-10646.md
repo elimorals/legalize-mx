@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-catastro-para-el-estado-de-oaxaca-10646"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-16"
-last_updated: "1999-12-30"
+last_updated: "2005-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CATASTRO PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 16 de diciembre de 1996.
 
@@ -293,7 +293,9 @@ El Instituto contará con un Consejo Consultivo Catastral, como órgano técnico
 
 I. Un Presidente, que será el titular de la Secretaría de Finanzas.
 
-II. Cuatro Consejeros, que serán los titulares de la Secretaría de Desarrollo urbano, Comunicaciones y Obras Públicas, de la Secretaría de Desarrollo Agropecuario y Forestal, de la Secretaría de Desarrollo Industrial y Comercial y de la Coordinación del Comité Estatal de Planeación para el Desarrollo de Oaxaca.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+II. Cuatro Consejeros, que serán los titulares de la Secretaría de Obras Públicas, de la Secretaría de Desarrollo Rural, de la Secretaría de Economía y de la Coordinación del Comité Estatal de Planeación para el Desarrollo de Oaxaca.
 
 El Consejo Consultivo contará con un Secretario Técnico que será el Director General del Instituto, con derecho a voz, pero sin derecho a voto.
 
@@ -802,3 +804,7 @@ AÑO FACTORES FACTORES
 El factor de distribución que corresponda a cada Municipio será el que resulte de sumar el factor de distribución de participaciones aplicado en 1999 multiplicado por el porcentaje arriba señalado para cada año, más el factor resultante del procedimiento del Artículo 3 de este Decreto multiplicado por el porcentaje arriba señalado.
 
 Para el ejercicio fiscal 2000 el cálculo de los factores del Fondo de Fomento Municipal se hará tomando como base los factores derivados de la recaudación del impuesto predial aplicable para la distribución del Fondo Municipal de Participaciones del ejercicio fiscal 1999.
+
+P.O. 22 DE MARZO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
