@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1995-08-04"
+last_updated: "1995-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 1995.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1959,25 +1959,33 @@ Diligencias ministeriales fuera de la competencia territorial.- El Ministerio P�
 
 Si la denuncia o querella se presenta ante un Agente del Ministerio Público incompetente por razón del territorio o fuero, éste practicará únicamente las diligencias necesarias y remitirá la averiguación al agente a quien corresponda continuarla.
 
-### CAPITULO II. NO EJERCICIO DE LA ACCION PENAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE OCTUBRE DE 1995)</small>
+
+### CAPITULO II. NO EJERCICIO Y DESISTIMIENTO DE LA ACCION PENAL
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1995)</small>
 
 ###### Artículo 262.
 
-No ejercicio de la acción penal.- Cuando en vista de la averiguación previa, el Ministerio Público determine que no es de ejercitarse la acción penal por los hechos que se hubieren denunciado o por los que se hubiere presentado querella, el denunciante, el querellante o el ofendido podrán interponer recurso de revisión dentro del término de diez días contados a partir de la fecha en que se haya hecho saber personalmente al interesado dicha terminación, para que este funcionario proceda en los términos que señala la Ley Orgánica de la Procuraduría General de Justicia del Estado. La decisión de la autoridad investigadora será notificada personalmente al ofendido para los efectos que procedan.
+Resolución de no ejercicio de la acción penal.- Cuando en vista de las pruebas recabadas durante la averiguación previa, el Ministerio Público determine que no debe ejercitarse la acción penal por los hechos que fueron materia de acusación, el denunciante o querellante ofendido podrá interponer el Recurso de Revisión ante el Juez Penal competente, en los diez días siguientes a la fecha en que se le haya hecho saber personalmente al interesado tal determinación mientras no se notifique dicha resolución, no correrá el término para interponer el recurso, pero sí la prescripción de la pretensión punitiva.
+
+Después de ejercitada la acción penal, el ministerio Público puede desistirse de la misma hasta antes de presentar conclusiones, fundando y motivando su petición.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1995)</small>
 
 ###### Artículo 263.
 
-Hipótesis de no ejercicio de la acción penal.- El Ministerio Público no ejercitará acción penal:
+Causales de no ejercicio o desistimiento de la acción penal.- El Ministerio público no ejercitará o, en su caso, no desistirá de la acción penal:
 
-I.- Cuando el Código Penal o las Leyes especiales no tipifiquen la conducta o el hecho imputado como delito;
+I.- Cuando el Código Penal o las leyes especiales no tipifiquen la conducta imputada como delito;
 
-II.- Cuando no se compruebe plenamente el cuerpo del delito;
+II.- Cuando se compruebe plenamente que no existe cuerpo del delito, en los términos del Artículo 255 de este Código;
 
-III.- Cuando no se demuestre que el indiciado tuvo intervención en la conducta o hecho que se le imputan, y sólo por lo que respecta a él;
+III.- Cuando se demuestre que el indiciado no tuvo intervención en el hecho que se le imputa, y sólo por lo que a él respecta;
 
-IV.- Cuando de la averiguación se desprenda plenamente que el inculpado actuó en circunstancias que excluyen el delito;
+IV.- Cuando de la averiguación o del proceso se desprenda plenamente que el inculpado actuó en circunstancias que excluyan su responsabilidad; y
 
-V.- Cuando se haya extinguido la acción penal, en los términos del Código Penal.
+V.- Cuando se haya extinguido la acción penal por cualquiera de las causas previstas en este Código.
 
 ###### Artículo 264.
 
@@ -2171,11 +2179,11 @@ Conclusiones del Ministerio Público.- El Ministerio Público al formular conclu
 
 Una vez formuladas las conclusiones el Ministerio Público sólo podrá modificarlas por causas supervenientes y en beneficio del acusado, hasta antes de que se declare visto el proceso.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1995)</small>
+
 ###### Artículo 288.
 
-Conclusiones no acusatorias contrarias a constancias procesales.- Si el Ministerio Público formula conclusiones inacusatorias, aparte de cumplir con lo dispuesto en el artículo 22 de este Código, junto con ellas presentará por escrito la conformidad del Procurador General de Justicia pidiendo el sobreseimiento del juicio.
-
-Cuando las conclusiones fueren contrarias a las constancias procesales o no cumplieren con lo dispuesto en el artículo anterior, el Juez dará vista con el proceso al Procurador General de Justicia para que dentro de cinco días siguientes al recibo de los autos, confirme, modifique o revoque, devolviendo el expediente y comunicando al Juez su resolución.
+Conclusiones no acusatorias.- El Ministerio Público puede formular conclusiones no acusatorias, después de consultar al Procurador General de Justicia, por cualquiera de las causas previstas en el Artículo 263 de este Código, y si el Juez las considera procedentes, decretará el sobreseimiento de la causa.
 
 ### CAPITULO II. CONCLUSIONES DEL DEFENSOR
 
@@ -2390,6 +2398,10 @@ Forma y plazo de interposición.- La apelación deberá interponerse ante el Juz
 Al notificar al inculpado la sentencia de primera instancia, se la hará saber el plazo que la Ley concede para interponer el recurso de apelación lo cual se asentará en el proceso.
 
 La omisión de este requisito surte el efecto de duplicar el plazo legal para interponer el recurso, y al secretario o actuario que haya incurrido en ello, se le aplicará una corrección disciplinaria por parte del Tribunal que conozca de la apelación.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1995)</small>
+
+Artículo 319 BIS.- Sujetos que pueden Apelar.- Tienen derecho a apelar el Ministerio Público, el inculpado o su defensor, también puede interponer este recurso el ofendido y sus legítimos representantes, cuando hayan sido designados ante el Ministerio Público o ante el Juez de la causa, pero sólo contra el auto de sobreseimiento, las resoluciones que nieguen las medidas de aseguramiento patrimonial o la Sentencia Definitiva, cuando ésta sea condenatoria pero no decrete la reparación del daño o lo haga en cantidad inferior a la solicitada por el Ministerio Público.
 
 ###### Artículo 320.
 
@@ -2611,7 +2623,19 @@ Formulados los alegatos o transcurridos los plazos anteriores, el Tribunal dicta
 
 Ejecución del reconocimiento.- Si se declara fundada la solicitud de reconocimiento de inocencia del sentenciado, se informará de esta resolución al Director de Prevención y Readaptación Social en el Estado, para que sin más trámite ponga en libertad absoluta al sentenciado y haga cesar todos los efectos de la sentencia anulada y ordene, asimismo, la publicación del reconocimiento en el órgano informativo oficial del Estado.
 
-### CAPITULO I. SUBSTANCIACION DE COMPETENCIAS
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE OCTUBRE DE 1995)</small>
+
+### CAPITULO VII. RECURSO DE REVISION
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1995)</small>
+
+###### Artículo 352
+
+BIS.- Procedencia y Trámite Procesal.- El recurso de revisión procede contra las resoluciones del Ministerio Público, que decreten el no ejercicio de la acción penal.
+
+La revisión debe interponerse ante el mismo agente del Ministerio Público, en el término previsto en el Artículo 262 de este Código, exponiendo los motivos de inconformidad, para que éste envíe el escrito y las constancias de la averiguación previa al Juez de la Primera Instancia Penal que corresponda, a fin de que resuelva sobre la legalidad de dicha resolución en un plazo de treinta días, contados desde la fecha en que se radique el recurso.
+
+La resolución que se dicte podrá confirmar el no ejercicio de la acción penal, ordenar que se ejercite cuando aparezcan cubiertos los requisitos del Artículo 258 de este Código, o que continúe la averiguación en los casos de deficiencia probatoria, pero el mismo Juez no podrá conocer del asunto si se acuerda su consignación.
 
 # LIBRO CUARTO. PROCEDIMIENTOS ESPECIALES E INCIDENTES
 
@@ -2663,7 +2687,7 @@ Sobreseimiento por determinación del trastorno mental transitorio.- En cualquie
 
 ## TITULO SEGUNDO. INCIDENTES
 
-### CAPITULO II. SUBSTANCIACION DE IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
+### CAPITULO I. SUBSTANCIACION DE COMPETENCIAS
 
 ###### Artículo 362.
 
@@ -2703,7 +2727,7 @@ Validez de las actuaciones del Juzgador incompetente.- Lo actuado por un Juzgado
 
 Tramitación por separado.- Los incidentes sobre competencia se tramitarán siempre por separado.
 
-### CAPITULO III. ACUMULACION DE EXPEDIENTES
+### CAPITULO II. SUBSTANCIACION DE IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
 
 ###### Artículo 368.
 
@@ -2769,7 +2793,7 @@ Excusas de los Defensores de Oficio.- Los defensores de oficio deben de excusars
 
 Irrecusabilidad y multa.- Son irrecusables los Jueces o Magistrados a quienes toque calificar una recusación o excusa. Contra la sentencia que deseche la recusación, no se dará recurso alguno y el que lo interpuso pagará una multa de hasta quince días, de la que será solidariamente responsable el que hubiere patrocinado al recusante.
 
-### CAPITULO IV. SEPARACION DE EXPEDIENTES
+### CAPITULO III. ACUMULACION DE EXPEDIENTES
 
 ###### Artículo 380.
 
@@ -2833,9 +2857,7 @@ Instrucción condicionada.- Nunca suspenderán los Jueces la instrucción con mo
 
 Acumulación durante la preinstrucción.- Las disposiciones de este capítulo serán aplicables desde la etapa de preinstrucción, siempre y cuando no haya detenido.
 
-### CAPITULO V. INCIDENTE DE REPARACION DE DAÑO EXIGIBLE A TERCEROS
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+### CAPITULO IV. SEPARACION DE EXPEDIENTES
 
 ###### Artículo 392.
 
@@ -2855,7 +2877,9 @@ El auto en que se decrete la separación sólo es apelable en el efecto ejecutiv
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
-### CAPITULO VI. DE LA LIBERTAD POR DESVANECIMIENTO DE DATOS
+### CAPITULO V. INCIDENTE DE REPARACION DE DAÑO EXIGIBLE A TERCEROS
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 394.
 
@@ -2935,7 +2959,7 @@ Efectos de la solidaridad y derecho a repetir.- Cuando el delincuente cubra la r
 
 En aquellos casos en que el tercero repare, en todo o en parte, el daño causado por el delincuente, tendrá derecho a repetir en contra de éste dentro del término de tres años, a partir de que se haya hecho el pago.
 
-### CAPITULO VII. INCIDENTES NO ESPECIFICADOS
+### CAPITULO VI. DE LA LIBERTAD POR DESVANECIMIENTO DE DATOS
 
 ###### Artículo 406.
 
@@ -2961,7 +2985,7 @@ Consulta previa del Ministerio Público cuando proceda.- Cuando en opinión del 
 
 Efectos de la resolución.- En el caso de la fracción segunda del artículo 407, la resolución que concede la libertad tendrá los mismos efectos del auto de libertad por falta de mérito, quedando expedita la acción del Ministerio Público para pedir de nuevo la aprehensión del inculpado, si aparecieren nuevos datos que lo ameriten, así como nueva formal prisión del mismo. Siendo aplicable al caso lo establecido en el artículo 282 de este Código.
 
-### CAPITULO UNICO. DEL INDULTO
+### CAPITULO VII. INCIDENTES NO ESPECIFICADOS
 
 ###### Artículo 411.
 
@@ -3028,6 +3052,8 @@ Vigilancia del confinado.- Luego que cause ejecutoria la sentencia en que se imp
 Internamiento o tratamiento en libertad de inimputables y de quienes tengan el hábito o la necesidad de consumir estupefacientes o psicotrópicos.- En caso en que un Juzgador determine la internación o tratamiento en libertad de un inimputable o de quien tenga el hábito o la necesidad de consumir estupefacientes o psicotrópicos el procedimiento de ejecución estará bajo la supervisión del Departamento de Servicios Coordinados de Prevención y Readaptación Social del Estado, y en los términos del Código Penal en la Entidad.
 
 ## TITULO CUARTO
+
+### CAPITULO UNICO. DEL INDULTO
 
 ###### Artículo 425.
 
@@ -3180,3 +3206,21 @@ P.O. 4 DE AGOSTO DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE OCTUBRE DE 1995.
+
+###### ARTICULO PRIMERO.
+
+Queda derogado el recurso de revisión administrativa contra la resolución que decreta el no ejercicio del a acción penal, descrito en el Artículo 262 del Código de Procedimientos Penales para el Estado de Baja California, antes de su reforma, así como el procedimiento previsto en la Ley Orgánica de la Procuraduría General de Justicia del Estado de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+Aquellos recursos de revisión que previene el artículo 262 del Código de Procedimientos Penales, que han sido promovidos hasta antes de la entrada en vigencia del presente Decreto, se agotarán conforme a lo previsto en el ordenamiento que regía anteriormente.
+
+###### ARTICULO TERCERO.
+
+Deróguese todo aquello que se oponga al contenido del presente Decreto de Reformas.
+
+###### ARTICULO CUARTO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
