@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-tutelar-para-menores-en-el-estado-de-zacatecas-8215"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-04-26"
-last_updated: "1994-05-25"
+last_updated: "1997-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO TUTELAR PARA MENORES EN EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1997.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 26 de abril de 1986.
 
@@ -85,11 +85,11 @@ Todas las personas adultas están obligadas a hacer del conocimiento de los órg
 
 Se considera susceptible de protección la conducta del menor cuando se encuentre en condiciones transitorias o permanentes, derivadas del medio familiar o del entorno social en los que vive, que hagan presumir fundadamente la posibilidad de que sufra daños mentales o emocionales o adquiera alguna propensión a incurrir en actos antisociales.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
 
 ###### ARTICULO 7.
 
-Para los efectos de esta ley se considera menor a la persona que no ha cumplido dieciséis años de edad. Para la aplicación de las normas que prescriben tratamientos específicos, se establece la distinción entre los niños cuya edad es inferior a doce años y los adolescentes que ya han cumplido esta última edad pero no los dieciséis años.
+Para los efectos de esta ley se considera menor a la persona que no ha cumplido dieciocho años de edad. En lo concerniente a la aplicación de las normas que prescriben tratamientos específicos, se establece la distinción entre los niños cuya edad es inferior a doce años y los adolescentes que ya han cumplido esta última edad pero no los dieciocho años.
 
 ### CAPITULO II
 
@@ -241,65 +241,85 @@ DEL PROCEDIMIENTO.
 
 DE LA COMPETENCIA DEL CONSEJO TUTELAR.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
+
 ###### ARTICULO 21.
 
-El Consejo Tutelar para menores en el Estado de Zacatecas, es competente para conocer de las conductas antisociales que cometan los menores de dieciséis años, estimadas delictuosas de acuerdo a la Ley Penal; así como de las conductas de los menores que por su indisciplina se juzguen incorregibles, siempre que medie solicitud de sus padres, tutores o personas bajo cuyo cuidado se encuentren.
+El Consejo Tutelar para Menores en el Estado de Zacatecas, es competente para conocer de las conductas antisociales en que incurran los menores de dieciocho años, y que se estimen delictuosas de acuerdo a la Ley Penal; así como de las conductas de los menores que se determinen como incorregibles, siempre que medie solicitud de sus padres, tutores o personas bajo cuyo cuidado se encuentren.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
 
 ###### ARTICULO 22.
 
-En el Estado de Zacatecas, no se consideran sujetos activos del derecho penal, los menores de dieciséis años, y por ello no contraen responsabilidad penal en la infracción a las leyes respectivas.
+Los menores de dieciocho años no se consideran sujetos activos del derecho penal, y por ello no contraen responsabilidad penal en la infracción a las leyes respectivas.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
 
 ###### ARTICULO 23.
 
-Cuando un menor de dieciséis años cometa una infracción a las leyes penales, reglamentos, circulares y demás disposiciones legales, queda sujeto a la protección del Consejo Tutelar de menores, cuyo objetivo es obtener la readaptación de los sujetos a su jurisdicción.
+Cuando un menor de dieciocho años cometa una infracción a las leyes penales, reglamentos, circulares y demás disposiciones legales, queda sujeto a la protección del Consejo Tutelar de Menores, cuyo objetivo es obtener la readaptación de los infractores puestos bajo su jurisdicción.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
 
 ###### ARTICULO 24.
 
-Cuando en la comisión de un hecho delictuoso, participen menores y mayores de dieciséis años, los primeros sólo podrán declarar como testigos, pero su declaración se les recibirá en su hogar o en la Institución en que se encuentren.
+Cuando en la comisión de un hecho delictuoso, participen menores y mayores de dieciocho años, los primeros sólo podrán declarar como testigos en la respectiva averiguación previa o proceso, pero su declaración se les recibirá en su hogar o en la institución en que se encuentren.
 
 ###### ARTICULO 25.
 
 Tratándose de menores, la actuación del Ministerio Público se limitará a ponerlos a disposición del Consejo Tutelar, adjuntando un informe detallado de los hechos.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
+
 ###### ARTICULO 26.
 
-Los menores de dieciséis años no podrán quedar detenidos en los lugares destinados a los adultos.
+Los menores de dieciocho años no podrán quedar detenidos en los lugares destinados a los adultos.
 
 ###### ARTICULO 27.
 
 La Autoridad que viole esta disposición será denunciada ante el Ministerio Público.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
+
 ###### ARTICULO 28.
 
-Los Jueces y Tribunales ordinarios, una vez demostrado que la persona sujeta a su jurisdicción es menor de dieciséis años, sin demora y cualquiera que sea el estado de las actuaciones la pondrá junto con éstas, a disposición del Consejo Tutelar, en caso contrario incurrirá en responsabilidades.
+Si la persona sujeta a su jurisdicción es menor de dieciocho años, los jueces y tribunales que conozcan del caso, la pondrán a disposición del Consejo Tutelar, sin demora y cualquiera que sea el estado de las actuaciones. De no hacerlo, se incurrirá en responsabilidad.
 
 ###### ARTICULO 29.
 
 Para los efectos de la competencia, la edad de los menores se determinará por el acta de nacimiento o mediante dictamen pericial.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
+
 ###### ARTICULO 30.
 
-En casos urgentes, el Consejo Tutelar conocerá del caso, sin perjuicio de que se declare incompetente, demostrando que sea, que la persona sometida a su jurisdicción es mayor de dieciséis años.
+En los casos urgentes, el Consejo conocerá del caso, sin perjuicio de que se declare incompetente, una vez que se demuestre que la persona sometida a su jurisdicción es mayor de dieciocho años.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
 
 ###### ARTICULO 31.
 
-Si durante el procedimiento el menor cumple dieciséis años, el Consejo continuará conociendo para dictar la resolución que imponga las medidas que el menor requiera.
+Si durante el procedimiento el menor cumple dieciocho años, el Consejo continuará conociendo para dictar la resolución que imponga las medidas conducentes a la rehabilitación de aquél.
 
 ###### ARTICULO 32.
 
 Si durante el tiempo de ejecución de las medidas decretadas por el Consejo, el menor alcanza la mayoría de edad, el Consejo con base en el resultado del tratamiento adoptado, decidirá tratándose medidas de internación el lugar en donde permanecerá.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
+
 ###### ARTICULO 33.
 
-La responsabilidad civil en que incurran los menores de dieciséis años, deberá exigirse ante los Tribunales comunes, en los términos de las leyes aplicables.
+La responsabilidad civil en que incurran los menores de dieciocho años, deberá exigirse ante los tribunales comunes, en los términos de las leyes aplicables.
 
 ### CAPITULO II
 
 DEL TRAMITE.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
+
 ###### ARTICULO 34.
 
-Tan pronto como el Consejo Tutelar tenga conocimiento de las conductas señaladas por esta Ley, atribuidas a menores de dieciséis años, se avocará al conocimiento de las mismas.
+Tan pronto como el Consejo Tutelar tenga conocimiento de las conductas señaladas por esta Ley, atribuidas a menores de dieciocho años, se avocará al conocimiento de las mismas.
 
 ###### ARTICULO 35.
 
@@ -789,7 +809,7 @@ SON FACULTADES DEL PATRONATO:
 
 I.- Coadyuvar al sostenimiento material de la Escuela de Orientación;
 
-II.- Proponer las medidas idóneas para el buen funcionamiento de la Escuela;
+II.- Proponer las medidas idóneas para el buen funcionamiento de la Escuela.
 
 III.- Efectuar las gestiones que se requieran para obtener recursos económicos destinados a aumentar el patrimonio;
 
@@ -866,3 +886,17 @@ LIC. ROBERTO ALMANZA FELIX.
 P.O. 25 DE MAYO DE 1994
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Zacatecas.
+
+P.O. 5 DE JULIO DE 1997
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1º de enero de 1998.
+
+SEGUNDO.- Los menores de dieciocho años que se encuentren a disposición de autoridades del fuero común en prisión preventiva, sentenciados o cumpliendo una sanción privativa de libertad, serán trasladados a los lugares idóneos y puestos a disposición del Consejo Tutelar de Menores, sin demora, el mismo día en que entre en vigor el presente Decreto.
+
+TERCERO.- Para dar cumplimiento a lo dispuesto en el anterior artículo transitorio, la Secretaría General de Gobierno girará instrucciones a la Dirección de Prevención y Readaptación Social para que a partir de la publicación de este decreto, levante y mantenga actualizado el censo de la población interna menor de dieciocho años en los Centros de Rehabilitación Social en la Entidad.
+
+CUARTO.- El censo de la población interna menor de dieciocho años, deberá estar disponible a mas tardar el día en que inicie su vigencia este Decreto y la Secretaría General de Gobierno lo hará del conocimiento de los Jueces del fuero común por conducto del Tribunal Superior de Justicia del Estado. Tal comunicado lo hará extensivo a los Tribunales Federales radicados en la Entidad.
+
+QUINTO.- Las actuaciones practicadas por los órganos ministeriales y jurisdiccionales del fuero común, antes del inicio de vigencia de este Decreto, tendrán validez legal por lo que respecta a procesados, sentenciados o reos menores de dieciocho años, únicamente en lo que sean compatibles con el procedimiento que prevé el Código Tutelar para Menores del Estado de Zacatecas.
+
+SEXTO.- El presupuesto de Egresos del Estado para el ejercicio fiscal de 1998, contemplará las previsiones necesarias para atender los requerimientos del Consejo Tutelar de Menores.
