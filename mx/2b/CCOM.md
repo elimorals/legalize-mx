@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2003-06-13"
+last_updated: "2003-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE AGOSTO DE 2003.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -676,7 +676,7 @@ VII. Las empresas de fábricas y manufacturas;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE AGOSTO DE 1934)</small>
 
-VIII. Las empresas de transportes de personas o cosas, por tierra o por agua; y las empresas de turismo.
+VIII. Las empresas de transportes de personas o cosas, por tierra o por agua; y las empresas de turismo;
 
 IX. Las librerías, y las empresas editoriales y tipográficas;
 
@@ -792,103 +792,331 @@ En el contrato mercantil en que se fijare pena de indemnización contra el que n
 
 DEL COMERCIO ELECTRONICO.
 
-(ADICIONADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-### CAPÍTULO II.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
-De la forma de las sociedades.
+### CAPÍTULO I.
+
+De los Mensajes de Datos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 89.
 
-En los actos de comercio podrán emplearse los medios electrónicos, ópticos o cualquier otra tecnología. Para efecto del presente Código, a la información generada, enviada, recibida, archivada o comunicada a través de dichos medios se le denominará mensaje de datos.
+Las disposiciones de este Título regirán en toda la República Mexicana en asuntos del orden comercial, sin perjuicio de lo dispuesto en los tratados internacionales de los que México sea parte.
 
-(ADICIONADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
+Las actividades reguladas por este Título se someterán en su interpretación y aplicación a los principios de neutralidad tecnológica, autonomía de la voluntad, compatibilidad internacional y equivalencia funcional del Mensaje de Datos en relación con la información documentada en medios no electrónicos y de la Firma Electrónica en relación con la firma autógrafa.
+
+En los actos de comercio y en la formación de los mismos podrán emplearse los medios electrónicos, ópticos o cualquier otra tecnología. Para efecto del presente Código, se deberán tomar en cuenta las siguientes definiciones:
+
+Certificado: Todo Mensaje de Datos u otro registro que confirme el vínculo entre un Firmante y los datos de creación de Firma Electrónica.
+
+Datos de Creación de Firma Electrónica: Son los datos únicos, como códigos o claves criptográficas privadas, que el Firmante genera de manera secreta y utiliza para crear su Firma Electrónica, a fin de lograr el vínculo entre dicha Firma Electrónica y el Firmante.
+
+Destinatario: La persona designada por el Emisor para recibir el Mensaje de Datos, pero que no esté actuando a título de Intermediario con respecto a dicho Mensaje.
+
+Emisor: Toda persona que, al tenor del Mensaje de Datos, haya actuado a nombre propio o en cuyo nombre se haya enviado o generado ese mensaje antes de ser archivado, si éste es el caso, pero que no haya actuado a título de Intermediario.
+
+Firma Electrónica: Los datos en forma electrónica consignados en un Mensaje de Datos, o adjuntados o lógicamente asociados al mismo por cualquier tecnología, que son utilizados para identificar al Firmante en relación con el Mensaje de Datos e indicar que el Firmante aprueba la información contenida en el Mensaje de Datos, y que produce los mismos efectos jurídicos que la firma autógrafa, siendo admisible como prueba en juicio.
+
+Firma Electrónica Avanzada o Fiable: Aquella Firma Electrónica que cumpla con los requisitos contemplados en las fracciones I a IV del artículo 97.
+
+En aquellas disposiciones que se refieran a Firma Digital, se considerará a ésta como una especie de la Firma Electrónica.
+
+Firmante: La persona que posee los datos de la creación de la firma y que actúa en nombre propio o de la persona a la que representa.
+
+Intermediario: En relación con un determinado Mensaje de Datos, se entenderá toda persona que, actuando por cuenta de otra, envíe, reciba o archive dicho Mensaje o preste algún otro servicio con respecto a él.
+
+Mensaje de Datos: La información generada, enviada, recibida o archivada por medios electrónicos, ópticos o cualquier otra tecnología.
+
+Parte que Confía: La persona que, siendo o no el Destinatario, actúa sobre la base de un Certificado o de una Firma Electrónica.
+
+Prestador de Servicios de Certificación: La persona o institución pública que preste servicios relacionados con Firmas Electrónicas y que expide los Certificados, en su caso.
+
+Secretaría: Se entenderá la Secretaría de Economía.
+
+Sistema de Información: Se entenderá todo sistema utilizado para generar, enviar, recibir, archivar o procesar de alguna otra forma Mensajes de Datos.
+
+Titular del Certificado: Se entenderá a la persona a cuyo favor fue expedido el Certificado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
+
+Art. 89 bis. No se negarán efectos jurídicos, validez o fuerza obligatoria a cualquier tipo de información por la sola razón de que esté contenida en un Mensaje de Datos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 90.
 
-Salvo pacto en contrario, se presumirá que el mensaje de datos proviene del emisor si ha sido enviado:
+Se presumirá que un Mensaje de Datos proviene del Emisor si ha sido enviado:
 
-I.- Usando medios de identificación, tales como claves o contraseñas de él, o
+I. Por el propio Emisor;
 
-II.- Por un sistema de información programado por el emisor o en su nombre para que opere automáticamente.
+II. Usando medios de identificación, tales como claves o contraseñas del Emisor o por alguna persona facultada para actuar en nombre del Emisor respecto a ese Mensaje de Datos, o
 
-(ADICIONADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
+III. Por un Sistema de Información programado por el Emisor o en su nombre para que opere automáticamente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
+
+Art. 90 bis. Se presume que un Mensaje de Datos ha sido enviado por el Emisor y, por lo tanto, el Destinatario o la Parte que Confía, en su caso, podrá actuar en consecuencia, cuando:
+
+I. Haya aplicado en forma adecuada el procedimiento acordado previamente con el Emisor, con el fin de establecer que el Mensaje de Datos provenía efectivamente de éste, o
+
+II. El Mensaje de Datos que reciba el Destinatario o la Parte que Confía, resulte de los actos de un Intermediario que le haya dado acceso a algún método utilizado por el Emisor para identificar un Mensaje de Datos como propio.
+
+Lo dispuesto en el presente artículo no se aplicará:
+
+I. A partir del momento en que el Destinatario o la Parte que Confía, haya sido informado por el Emisor de que el Mensaje de Datos no provenía de éste, y haya dispuesto de un plazo razonable para actuar en consecuencia, o
+
+II. A partir del momento en que el Destinatario o la Parte que Confía, tenga conocimiento, o debiere tenerlo, de haber actuado con la debida diligencia o aplicado algún método convenido, que el Mensaje de Datos no provenía del Emisor.
+
+Salvo prueba en contrario y sin perjuicio del uso de cualquier otro método de verificación de la identidad del Emisor, se presumirá que se actuó con la debida diligencia si el método que usó el Destinatario o la Parte que Confía cumple con los requisitos establecidos en este Código para la verificación de la fiabilidad de las Firmas Electrónicas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 91.
 
-El momento de recepción de la información a que se refiere el artículo anterior se determinará como sigue:
+Salvo pacto en contrario entre el Emisor y el Destinatario, el momento de recepción de un Mensaje de Datos se determinará como sigue:
 
-I.- Si el destinatario ha designado un sistema de información para la recepción, ésta tendrá lugar en el momento en que ingrese en dicho sistema, o
+I. Si el Destinatario ha designado un Sistema de Información para la recepción de Mensajes de Datos, ésta tendrá lugar en el momento en que ingrese en dicho Sistema de Información;
 
-II.- De enviarse a un sistema del destinatario que no sea el designado o de no haber un sistema de información designado, en el momento en que el destinatario obtenga dicha información.
+II. De enviarse el Mensaje de Datos a un Sistema de Información del Destinatario que no sea el Sistema de Información designado, o de no haber un Sistema de Información designado, en el momento en que el Destinatario recupere el Mensaje de Datos, o
 
-Para efecto de este Código, se entiende por sistema de información cualquier medio tecnológico utilizado para operar mensajes de datos.
+III. Si el Destinatario no ha designado un Sistema de Información, la recepción tendrá lugar cuando el Mensaje de Datos ingrese a un Sistema de Información del Destinatario.
 
-(ADICIONADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
+Lo dispuesto en este artículo será aplicable aun cuando el Sistema de Información esté ubicado en un lugar distinto de donde se tenga por recibido el Mensaje de Datos conforme al artículo 94.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
+
+Art. 91 bis. Salvo pacto en contrario entre el Emisor y el Destinatario, el Mensaje de Datos se tendrá por expedido cuando ingrese en un Sistema de Información que no esté bajo el control del Emisor o del Intermediario.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 92.
 
-Tratándose de la comunicación de mensajes de datos que requieran de un acuse de recibo para surtir efectos, bien sea por disposición legal o por así requerirlo el emisor, se considerará que el mensaje de datos ha sido enviado, cuando se haya recibido el acuse respectivo.
+En lo referente a acuse de recibo de Mensajes de Datos, se estará a lo siguiente:
 
-Salvo prueba en contrario, se presumirá que se ha recibido el mensaje de datos cuando el emisor reciba el acuse correspondiente.
+I. Si al enviar o antes de enviar un Mensaje de Datos, el Emisor solicita o acuerda con el Destinatario que se acuse recibo del Mensaje de Datos, pero no se ha acordado entre éstos una forma o método determinado para efectuarlo, se podrá acusar recibo mediante:
 
-(ADICIONADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
+a) Toda comunicación del Destinatario, automatizada o no, o
+
+b) Todo acto del Destinatario, que baste para indicar al Emisor que se ha recibido el Mensaje de Datos.
+
+II. Cuando el Emisor haya indicado que los efectos del Mensaje de Datos estarán condicionados a la recepción de un acuse de recibo, se considerará que el Mensaje de Datos no ha sido enviado en tanto que no se haya recibido el acuse de recibo en el plazo fijado por el Emisor o dentro de un plazo razonable atendiendo a la naturaleza del negocio, a partir del momento del envío del Mensaje de Datos;
+
+III. Cuando el Emisor haya solicitado o acordado con el Destinatario que se acuse recibo del Mensaje de Datos, independientemente de la forma o método determinado para efectuarlo, salvo que:
+
+a) El Emisor no haya indicado expresamente que los efectos del Mensaje de Datos estén condicionados a la recepción del acuse de recibo, y
+
+b) No se haya recibido el acuse de recibo en el plazo solicitado o acordado o, en su defecto, dentro de un plazo razonable atendiendo a la naturaleza del negocio.
+
+El Emisor podrá dar aviso al Destinatario de que no ha recibido el acuse de recibo solicitado o acordado y fijar un nuevo plazo razonable para su recepción, contado a partir del momento de este aviso. Cuando el Emisor reciba acuse de recibo del Destinatario, se presumirá que éste ha recibido el Mensaje de Datos correspondiente;
+
+IV. Cuando en el acuse de recibo se indique que el Mensaje de Datos recibido cumple con los requisitos técnicos convenidos o establecidos en ley, se presumirá que ello es así.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 93.
 
-Cuando la ley exija la forma escrita para los contratos y la firma de los documentos relativos, esos supuestos se tendrán por cumplidos tratándose de mensaje de datos siempre que éste sea atribuible a las personas obligadas y accesible para su ulterior consulta.
+Cuando la ley exija la forma escrita para los actos, convenios o contratos, este supuesto se tendrá por cumplido tratándose de Mensaje de Datos, siempre que la información en él contenida se mantenga íntegra y sea accesible para su ulterior consulta, sin importar el formato en el que se encuentre o represente.
 
-En los casos en que la ley establezca como requisito que un acto jurídico deba otorgarse en instrumento ante fedatario público, éste y las partes obligadas podrán, a través de mensajes de datos, expresar los términos exactos en que las partes han decidido obligarse, en cuyo caso el fedatario público, deberá hacer constar en el propio instrumento los elementos a través de los cuales se atribuyen dichos mensajes a las partes y conservar bajo su resguardo una versión íntegra de los mismos para su ulterior consulta, otorgando dicho instrumento de conformidad con la legislación aplicable que lo rige.
+Cuando adicionalmente la ley exija la firma de las partes, dicho requisito se tendrá por cumplido tratándose de Mensaje de Datos, siempre que éste sea atribuible a dichas partes.
 
-(ADICIONADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
+En los casos en que la ley establezca como requisito que un acto jurídico deba otorgarse en instrumento ante fedatario público, éste y las partes obligadas podrán, a través de Mensajes de Datos, expresar los términos exactos en que las partes han decidido obligarse, en cuyo caso el fedatario público deberá hacer constar en el propio instrumento los elementos a través de los cuales se atribuyen dichos mensajes a las partes y conservar bajo su resguardo una versión íntegra de los mismos para su ulterior consulta, otorgando dicho instrumento de conformidad con la legislación aplicable que lo rige.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
+
+Art. 93 bis. Sin perjuicio de lo dispuesto en el artículo 49 de este Código, cuando la ley requiera que la información sea presentada y conservada en su forma original, ese requisito quedará satisfecho respecto a un Mensaje de Datos:
+
+I. Si existe garantía confiable de que se ha conservado la integridad de la información, a partir del momento en que se generó por primera vez en su forma definitiva, como Mensaje de Datos o en alguna otra forma, y
+
+II. De requerirse que la información sea presentada, si dicha información puede ser mostrada a la persona a la que se deba presentar.
+
+Para efectos de este artículo, se considerará que el contenido de un Mensaje de Datos es íntegro, si éste ha permanecido completo e inalterado independientemente de los cambios que hubiere podido sufrir el medio que lo contiene, resultado del proceso de comunicación, archivo o presentación. El grado de confiabilidad requerido será determinado conforme a los fines para los que se generó la información y de todas las circunstancias relevantes del caso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 94.
 
-Salvo pacto en contrario, el mensaje de datos se tendrá por expedido en el lugar donde el emisor tenga su domicilio y por recibido en el lugar donde el destinatario tenga el suyo.
+Salvo pacto en contrario entre el Emisor y el Destinatario, el Mensaje de Datos se tendrá por expedido en el lugar donde el Emisor tenga su establecimiento y por recibido en el lugar donde el Destinatario tenga el suyo. Para los fines del presente artículo:
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)</small>
+I. Si el Emisor o el Destinatario tienen más de un establecimiento, su establecimiento será el que guarde una relación más estrecha con la operación subyacente o, de no haber una operación subyacente, su establecimiento principal, y
+
+II. Si el Emisor o el Destinatario no tienen establecimiento, se tendrá en cuenta su lugar de residencia habitual.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 95.
 
-(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+Conforme al artículo 90, siempre que se entienda que el Mensaje de Datos proviene del Emisor, o que el Destinatario tenga derecho a actuar con arreglo a este supuesto, dicho Destinatario tendrá derecho a considerar que el Mensaje de Datos recibido corresponde al que quería enviar el iniciador, y podrá proceder en consecuencia. El Destinatario no gozará de este derecho si sabía o hubiera sabido, de haber actuado con la debida diligencia, o de haber aplicado algún método previamente acordado, que la transmisión había dado lugar a un error en el Mensaje de Datos recibido.
+
+Se presume que cada Mensaje de Datos recibido es un Mensaje de Datos diferente, salvo que el Destinatario sepa, o debiera saber, de haber actuado con la debida diligencia, o de haber aplicado algún método previamente acordado, que el nuevo Mensaje de Datos era un duplicado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 29 DE AGOSTO DE 2003)</small>
+
+### CAPÍTULO II.
+
+De las Firmas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ### CAPÍTULO III.
 
-De la sociedad en nombre colectivo.
+De los Prestadores de Servicios de Certificación.
 
-### CAPÍTULO IV.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-De la sociedad en comandita simple.
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 96.
 
-(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+Las disposiciones del presente Código serán aplicadas de modo que no excluyan, restrinjan o priven de efecto jurídico cualquier método para crear una Firma Electrónica.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 97.
 
-(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+Cuando la ley requiera o las partes acuerden la existencia de una Firma en relación con un Mensaje de Datos, se entenderá satisfecho dicho requerimiento si se utiliza una Firma Electrónica que resulte apropiada para los fines para los cuales se generó o comunicó ese Mensaje de Datos.
+
+La Firma Electrónica se considerará Avanzada o Fiable si cumple por lo menos los siguientes requisitos:
+
+I. Los Datos de Creación de la Firma, en el contexto en que son utilizados, corresponden exclusivamente al Firmante;
+
+II. Los Datos de Creación de la Firma estaban, en el momento de la firma, bajo el control exclusivo del Firmante;
+
+III. Es posible detectar cualquier alteración de la Firma Electrónica hecha después del momento de la firma, y
+
+IV. Respecto a la integridad de la información de un Mensaje de Datos, es posible detectar cualquier alteración de ésta hecha después del momento de la firma.
+
+Lo dispuesto en el presente artículo se entenderá sin perjuicio de la posibilidad de que cualquier persona demuestre de cualquier otra manera la fiabilidad de una Firma Electrónica; o presente pruebas de que una Firma Electrónica no es fiable.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 98.
 
-(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+Los Prestadores de Servicios de Certificación determinarán y harán del conocimiento de los usuarios si las Firmas Electrónicas Avanzadas o Fiables que les ofrecen cumplen o no los requerimientos dispuestos en las fracciones I a IV del artículo 97.
+
+La determinación que se haga, con arreglo al párrafo anterior, deberá ser compatible con las normas y criterios internacionales reconocidos.
+
+Lo dispuesto en el presente artículo se entenderá sin perjuicio de la aplicación de las normas del derecho internacional privado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 99.
 
-(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+El Firmante deberá:
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)</small>
+I. Cumplir las obligaciones derivadas del uso de la Firma Electrónica;
 
-### CAPÍTULO V.
+II. Actuar con diligencia y establecer los medios razonables para evitar la utilización no autorizada de los Datos de Creación de la Firma;
 
-De la sociedad anónima.
+III. Cuando se emplee un Certificado en relación con una Firma Electrónica, actuar con diligencia razonable para cerciorarse de que todas las declaraciones que haya hecho en relación con el Certificado, con su vigencia, o que hayan sido consignadas en el mismo, son exactas.
+
+El Firmante será responsable de las consecuencias jurídicas que deriven por no cumplir oportunamente las obligaciones previstas en el presente artículo, y
+
+IV. Responder por las obligaciones derivadas del uso no autorizado de su firma, cuando no hubiere obrado con la debida diligencia para impedir su utilización, salvo que el Destinatario conociere de la inseguridad de la Firma Electrónica o no hubiere actuado con la debida diligencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE AGOSTO DE 2003)</small>
+
+### CAPÍTULO IV.
+
+Reconocimiento de Certificados y Firmas Electrónicas Extranjeros.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 100.
 
-(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+Podrán ser Prestadores de Servicios de Certificación, previa acreditación ante la Secretaría:
+
+I. Los notarios públicos y corredores públicos;
+
+II. Las personas morales de carácter privado, y
+
+III. Las instituciones públicas, conforme a las leyes que les son aplicables.
+
+La facultad de expedir Certificados no conlleva fe pública por sí misma, así los notarios y corredores públicos podrán llevar a cabo certificaciones que impliquen o no la fe pública, en documentos en papel, archivos electrónicos, o en cualquier otro medio o sustancia en el que pueda incluirse información.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 101.
 
-(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+Los Prestadores de Servicios de Certificación a los que se refiere la fracción II del artículo anterior, contendrán en su objeto social las actividades siguientes:
+
+I. Verificar la identidad de los usuarios y su vinculación con los medios de identificación electrónica;
+
+II. Comprobar la integridad y suficiencia del Mensaje de Datos del solicitante y verificar la Firma Electrónica de quien realiza la verificación;
+
+III. Llevar a cabo registros de los elementos de identificación de los Firmantes y de aquella información con la que haya verificado el cumplimiento de fiabilidad de las Firmas Electrónicas Avanzadas y emitir el Certificado, y
+
+IV. Cualquier otra actividad no incompatible con las anteriores.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
+
+###### Artículo 102.
+
+Los Prestadores de Servicios de Certificación que hayan obtenido la acreditación de la Secretaría deberán notificar a ésta la iniciación de la prestación de servicios de certificación dentro de los 45 días naturales siguientes al comienzo de dicha actividad.
+
+A) Para que las personas indicadas en el artículo 100 puedan ser Prestadores de Servicios de Certificación, se requiere acreditación de la Secretaría, la cual no podrá ser negada si el solicitante cumple los siguientes requisitos, en el entendido de que la Secretaría podrá requerir a los Prestadores de Servicios de Certificación que comprueben la subsistencia del cumplimento de los mismos:
+
+I. Solicitar a la Secretaría la acreditación como Prestador de Servicios de Certificación;
+
+II. Contar con los elementos humanos, materiales, económicos y tecnológicos requeridos para prestar el servicio, a efecto de garantizar la seguridad de la información y su confidencialidad;
+
+III. Contar con procedimientos definidos y específicos para la tramitación del Certificado, y medidas que garanticen la seriedad de los Certificados emitidos, la conservación y consulta de los registros;
+
+IV. Quienes operen o tengan acceso a los sistemas de certificación de los Prestadores de Servicios de Certificación no podrán haber sido condenados por delito contra el patrimonio de las personas o que haya merecido pena privativa de la libertad, ni que por cualquier motivo hayan sido inhabilitados para el ejercicio de su profesión, para desempeñar un puesto en el servicio público, en el sistema financiero o para ejercer el comercio;
+
+V. Contar con fianza vigente por el monto y condiciones que se determinen en forma general en las reglas generales que al efecto se expidan por la Secretaría;
+
+VI. Establecer por escrito su conformidad para ser sujeto a Auditoría por parte de la Secretaría, y
+
+VII. Registrar su Certificado ante la Secretaría.
+
+B) Si la Secretaría no ha resuelto respecto a la petición del solicitante, para ser acreditado conforme al artículo 100 anterior, dentro de los 45 días siguientes a la presentación de la solicitud, se tendrá por concedida la acreditación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 102.
 
@@ -896,55 +1124,179 @@ De la sociedad anónima.
 
 ###### Art. 103.
 
-(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+Las responsabilidades de las Entidades Prestadoras de Servicios de Certificación deberán estipularse en el contrato con los firmantes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 104.
 
-(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+Los Prestadores de Servicios de Certificación deben cumplir las siguientes obligaciones:
+
+I. Comprobar por sí o por medio de una persona física o moral que actúe en nombre y por cuenta suyos, la identidad de los solicitantes y cualesquiera circunstancias pertinentes para la emisión de los Certificados, utilizando cualquiera de los medios admitidos en derecho, siempre y cuando sean previamente notificados al solicitante;
+
+II. Poner a disposición del Firmante los dispositivos de generación de los Datos de Creación y de verificación de la Firma Electrónica;
+
+III. Informar, antes de la emisión de un Certificado, a la persona que solicite sus servicios, de su precio, de las condiciones precisas para la utilización del Certificado, de sus limitaciones de uso y, en su caso, de la forma en que garantiza su posible responsabilidad;
+
+IV. Mantener un registro de Certificados, en el que quedará constancia de los emitidos y figurarán las circunstancias que afecten a la suspensión, pérdida o terminación de vigencia de sus efectos. A dicho registro podrá accederse por medios electrónicos, ópticos o de cualquier otra tecnología y su contenido público estará a disposición de las personas que lo soliciten, el contenido privado estará a disposición del Destinatario y de las personas que lo soliciten cuando así lo autorice el Firmante, así como en los casos a que se refieran las reglas generales que al efecto establezca la Secretaría;
+
+V. Guardar confidencialidad respecto a la información que haya recibido para la prestación del servicio de certificación;
+
+VI. En el caso de cesar en su actividad, los Prestadores de Servicios de Certificación deberán comunicarlo a la Secretaría a fin de determinar, conforme a lo establecido en las reglas generales expedidas, el destino que se dará a sus registros y archivos;
+
+VII. Asegurar las medidas para evitar la alteración de los Certificados y mantener la confidencialidad de los datos en el proceso de generación de los Datos de Creación de la Firma Electrónica;
+
+VIII. Establecer declaraciones sobre sus normas y prácticas, las cuales harán del conocimiento del usuario y el Destinatario, y
+
+IX. Proporcionar medios de acceso que permitan a la Parte que Confía en el Certificado determinar:
+
+a) La identidad del Prestador de Servicios de Certificación;
+
+b) Que el Firmante nombrado en el Certificado tenía bajo su control el dispositivo y los Datos de Creación de la Firma en el momento en que se expidió el Certificado;
+
+c) Que los Datos de Creación de la Firma eran válidos en la fecha en que se expidió el Certificado;
+
+d) El método utilizado para identificar al Firmante;
+
+e) Cualquier limitación en los fines o el valor respecto de los cuales puedan utilizarse los Datos de Creación de la Firma o el Certificado;
+
+f) Cualquier limitación en cuanto al ámbito o el alcance de la responsabilidad indicada por el Prestador de Servicios de Certificación;
+
+g) Si existe un medio para que el Firmante dé aviso al Prestador de Servicios de Certificación de que los Datos de Creación de la Firma han sido de alguna manera controvertidos, y
+
+h) Si se ofrece un servicio de terminación de vigencia del Certificado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 105.
 
-(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+La Secretaría coordinará y actuará como autoridad Certificadora, y registradora, respecto de los Prestadores de Servicios de Certificación, previstos en este Capítulo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 106.
 
-(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+Para la prestación de servicios de certificación, las instituciones financieras y las empresas que les prestan servicios auxiliares o complementarios relacionados con transferencias de fondos o valores, se sujetarán a las leyes que las regulan, así como a las disposiciones y autorizaciones que emitan las autoridades financieras.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 107.
 
-(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+Serán responsabilidad del Destinatario y de la Parte que Confía, en su caso, las consecuencias jurídicas que entrañe el hecho de que no hayan tomado medidas razonables para:
+
+I. Verificar la fiabilidad de la Firma Electrónica, o
+
+II. Cuando la Firma Electrónica esté sustentada por un Certificado:
+
+a) Verificar, incluso en forma inmediata, la validez, suspensión o revocación del Certificado, y
+
+b) Tener en cuenta cualquier limitación de uso contenida en el Certificado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 108.
 
-(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+Los Certificados, para ser considerados válidos, deberán contener:
+
+I. La indicación de que se expiden como tales;
+
+II. El código de identificación único del Certificado;
+
+III. La identificación del Prestador de Servicios de Certificación que expide el Certificado, razón social, su domicilio, dirección de correo electrónico, en su caso, y los datos de acreditación ante la Secretaría;
+
+IV. Nombre del titular del Certificado;
+
+V. Periodo de vigencia del Certificado;
+
+VI. La fecha y hora de la emisión, suspensión, y renovación del Certificado;
+
+VII. El alcance de las responsabilidades que asume el Prestador de Servicios de Certificación, y
+
+VIII. La referencia de la tecnología empleada para la creación de la Firma Electrónica.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 109.
 
-(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+Un Certificado dejará de surtir efectos para el futuro, en los siguientes casos:
+
+I. Expiración del periodo de vigencia del Certificado, el cual no podrá ser superior a dos años, contados a partir de la fecha en que se hubieren expedido. Antes de que concluya el periodo de vigencia del Certificado podrá el Firmante renovarlo ante el Prestador de Servicios de Certificación;
+
+II. Revocación por el Prestador de Servicios de Certificación, a solicitud del Firmante, o por la persona física o moral representada por éste o por un tercero autorizado;
+
+III. Pérdida o inutilización por daños del dispositivo en el que se contenga dicho Certificado;
+
+IV. Por haberse comprobado que al momento de su expedición, el Certificado no cumplió con los requisitos establecidos en la ley, situación que no afectará los derechos de terceros de buena fe, y
+
+V. Resolución judicial o de autoridad competente que lo ordene.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 110.
 
-(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+El Prestador de Servicios de Certificación que incumpla con las obligaciones que se le imponen en el presente Capítulo, previa garantía de audiencia, y mediante resolución debidamente fundada y motivada, tomando en cuenta la gravedad de la situación y reincidencia, podrá ser sancionado por la Secretaría con suspensión temporal o definitiva de sus funciones. Este procedimiento tendrá lugar conforme a la Ley Federal de Procedimiento Administrativo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 111.
 
-(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+Las sanciones que se señalan en este Capítulo se aplicarán sin perjuicio de la responsabilidad civil o penal y de las penas que correspondan a los delitos en que, en su caso, incurran los infractores.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 112.
 
-(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+Las autoridades competentes harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan conforme a esta Ley. Incluso, en los procedimientos instaurados se podrá solicitar a los órganos competentes la adopción de las medidas cautelares que se estimen necesarias para asegurar la eficacia de la resolución que definitivamente se dicte.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ###### Art. 113.
 
-(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+En el caso de que un Prestador de Servicios de Certificación sea suspendido, inhabilitado o cancelado en su ejercicio, el registro y los Certificados que haya expedido pasarán, para su administración, a otro Prestador de Servicios de Certificación, que para tal efecto señale la Secretaría mediante reglas generales.
 
-### CAPÍTULO VI.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-De las sociedades en comandita por acciones.
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 29 DE AGOSTO DE 2003)</small>
+
+### CAPÍTULO V.
+
+De la sociedad anónima.
 
 ###### Art. 114.
 
-(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+Para determinar si un Certificado o una Firma Electrónica extranjeros producen efectos jurídicos, o en qué medida los producen, no se tomará en consideración cualquiera de los siguientes supuestos:
+
+I. El lugar en que se haya expedido el Certificado o en que se haya creado o utilizado la Firma Electrónica, y
+
+II. El lugar en que se encuentre el establecimiento del Prestador de Servicios de Certificación o del Firmante.
+
+Todo Certificado expedido fuera de la República Mexicana producirá los mismos efectos jurídicos en la misma que un Certificado expedido en la República Mexicana si presenta un grado de fiabilidad equivalente a los contemplados por este Título.
+
+Toda Firma Electrónica creada o utilizada fuera de la República Mexicana producirá los mismos efectos jurídicos en la misma que una Firma Electrónica creada o utilizada en la República Mexicana si presenta un grado de fiabilidad equivalente.
+
+A efectos de determinar si un Certificado o una Firma Electrónica presentan un grado de fiabilidad equivalente para los fines de los dos párrafos anteriores, se tomarán en consideración las normas internacionales reconocidas por México y cualquier otro medio de convicción pertinente.
+
+Cuando, sin perjuicio de lo dispuesto en los párrafos anteriores, las partes acuerden entre sí la utilización de determinados tipos de Firmas Electrónicas y Certificados, se reconocerá que ese acuerdo es suficiente a efectos del reconocimiento transfronterizo, salvo que ese acuerdo no sea válido o eficaz conforme al derecho aplicable.
 
 ###### Art. 115.
 
@@ -1102,8 +1454,6 @@ De las sociedades en comandita por acciones.
 
 (DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)</small>
-
 ###### Art. 154.
 
 (DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
@@ -1142,9 +1492,9 @@ De las sociedades en comandita por acciones.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)</small>
 
-### CAPÍTULO VII.
+### CAPÍTULO VI.
 
-De las sociedades cooperativas.
+De las sociedades en comandita por acciones.
 
 ###### Art. 163.
 
@@ -1400,9 +1750,9 @@ De las sociedades cooperativas.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)</small>
 
-### CAPÍTULO VIII.
+### CAPÍTULO VII.
 
-De la fusión de las sociedades.
+De las sociedades cooperativas.
 
 ###### Art. 226.
 
@@ -1454,9 +1804,9 @@ De la fusión de las sociedades.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 61 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, D.O.F. 30 DE MAYO DE 1933) (REPUBLICADA SU DEROGACION POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
-### CAPÍTULO IX.
+### CAPÍTULO VIII.
 
-De las sociedades extranjeras.
+De la fusión de las sociedades.
 
 ###### Art. 238.
 
@@ -1548,9 +1898,9 @@ De las sociedades extranjeras.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)</small>
 
-### CAPÍTULO X.
+### CAPÍTULO IX.
 
-De las asociaciones.
+De las sociedades extranjeras.
 
 ###### Art. 260.
 
@@ -1574,9 +1924,9 @@ De las asociaciones.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)</small>
 
-### CAPÍTULO XI.
+### CAPÍTULO X.
 
-Disposiciones penales.
+De las asociaciones.
 
 ###### Art. 265.
 
@@ -1592,9 +1942,9 @@ Disposiciones penales.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)</small>
 
-### CAPÍTULO I.
+### CAPÍTULO XI.
 
-De los comisionistas.
+Disposiciones penales.
 
 ###### Art. 268.
 
@@ -1614,9 +1964,9 @@ De los comisionistas.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)</small>
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-De los factores y dependientes.
+De los comisionistas.
 
 ###### Art. 272.
 
@@ -1626,9 +1976,9 @@ De los factores y dependientes.
 
 DE LA COMISIÓN MERCANTIL.
 
-### CAPÍTULO I.
+### CAPÍTULO II.
 
-Del depósito mercantil en general.
+De los factores y dependientes.
 
 ###### Art. 273.
 
@@ -1786,9 +2136,9 @@ La revocación intimada únicamente al comisionista, no puede ser opuesta á ter
 
 Por muerte ó inhabilitación del comisionista se entenderá rescindido el contrato de comisión; pero por muerte ó inhabilitación del comitente no se rescindirá, aunque pueden revocarlo sus representantes.
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-De los almacenes generales de depósito.
+Del depósito mercantil en general.
 
 ###### Art. 309.
 
@@ -1902,9 +2252,9 @@ II. Por malos tratamientos ú ofensas graves, por parte del principal.
 
 DEL DEPÓSITO MERCANTIL.
 
-### CAPÍTULO I.
+### CAPÍTULO II.
 
-Del préstamo mercantil en general.
+De los almacenes generales de depósito.
 
 ###### Art. 332.
 
@@ -1934,7 +2284,7 @@ Cuando los depósitos de numerario se constituyan sin especificación de moneda,
 
 ###### Art. 337.
 
-(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 338.
 
@@ -1944,11 +2294,11 @@ Siempre que con asentimiento del depositante dispusiese el depositario de las co
 
 (DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-De los préstamos con garantía ó títulos de valores públicos.
+Del préstamo mercantil en general.
 
 ###### Art. 340.
 
@@ -1956,7 +2306,7 @@ De los préstamos con garantía ó títulos de valores públicos.
 
 ###### Art. 341.
 
-(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 342.
 
@@ -2026,9 +2376,9 @@ De los préstamos con garantía ó títulos de valores públicos.
 
 DEL PRÉSTAMO MERCANTIL.
 
-### CAPÍTULO I.
+### CAPÍTULO II.
 
-De la compraventa.
+De los préstamos con garantía ó títulos de valores públicos.
 
 ###### Art. 358.
 
@@ -2070,9 +2420,9 @@ Las entregas á cuenta, cuando no resulte expresa su aplicación, se imputarán 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-De las permutas mercantiles.
+De la compraventa.
 
 ###### Art. 365.
 
@@ -2102,9 +2452,9 @@ De las permutas mercantiles.
 
 ## TÍTULO SEXTO.. DE LA COMPRAVENTA Y PERMUTA MERCANTILES, DE LA CESIÓN DE CRÉDITOS COMERCIALES Y DE LA CONSIGNACION MERCANTIL
 
-### CAPÍTULO III.
+### CAPÍTULO II.
 
-De las cesiones de créditos no endosables.
+De las permutas mercantiles.
 
 ###### Art. 371.
 
@@ -2182,19 +2532,19 @@ Mientras que las mercancías vendidas estén en poder del vendedor, aunque sea e
 
 Los depósitos y ventas públicas á que hubiere lugar en la ejecución de las compraventas mercantiles, se harán por la autoridad judicial.
 
-### CAPÍTULO IV
+### CAPÍTULO III.
 
-De la Consignación Mercantil.
-
-> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2000)</small>
+De las cesiones de créditos no endosables.
 
 ###### Art. 388.
 
 Las disposiciones relativas al contrato de compraventa, son aplicables al de permuta mercantil, salva la naturaleza de éste.
 
-### CAPÍTULO I.
+### CAPÍTULO IV
 
-Del contrato de seguros en general.
+De la Consignación Mercantil.
+
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2000)</small>
 
 ###### Art. 389.
 
@@ -2210,9 +2560,9 @@ Salvo pacto en contrario, el cedente de un crédito mercantil responderá tan so
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE JUNIO DE 2000)</small>
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-Del seguro contra incendios.
+Del contrato de seguros en general.
 
 ###### Art. 392.
 
@@ -2278,9 +2628,9 @@ DE LOS CONTRATOS DE SEGUROS.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
 
-### CAPÍTULO III.
+### CAPÍTULO II.
 
-Del seguro sobre la vida.
+Del seguro contra incendios.
 
 ###### Art. 395.
 
@@ -2296,9 +2646,9 @@ Del seguro sobre la vida.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
 
-### CAPÍTULO IV.
+### CAPÍTULO III.
 
-Del seguro de transporte terrestre.
+Del seguro sobre la vida.
 
 ###### Art. 398.
 
@@ -2414,9 +2764,9 @@ Del seguro de transporte terrestre.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
 
-### CAPÍTULO V.
+### CAPÍTULO IV.
 
-De las demás clases de seguros.
+Del seguro de transporte terrestre.
 
 ###### Art. 426.
 
@@ -2484,9 +2834,9 @@ De las demás clases de seguros.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
 
-### CAPÍTULO I.
+### CAPÍTULO V.
 
-De la forma, plazos y vencimientos de las letras de cambio.
+De las demás clases de seguros.
 
 ###### Art. 442.
 
@@ -2514,9 +2864,9 @@ De la forma, plazos y vencimientos de las letras de cambio.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-De la provisión.
+De la forma, plazos y vencimientos de las letras de cambio.
 
 ###### Art. 448.
 
@@ -2530,9 +2880,9 @@ DEL CONTRATO Y LETRAS DE CAMBIO.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO III.
+### CAPÍTULO II.
 
-Del endoso en las letras de cambio.
+De la provisión.
 
 ###### Art. 449.
 
@@ -2616,9 +2966,9 @@ Del endoso en las letras de cambio.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO IV.
+### CAPÍTULO III.
 
-De la presentación de las letras de cambio y su aceptación.
+Del endoso en las letras de cambio.
 
 ###### Art. 469.
 
@@ -2654,9 +3004,9 @@ De la presentación de las letras de cambio y su aceptación.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO V.
+### CAPÍTULO IV.
 
-Del aval.
+De la presentación de las letras de cambio y su aceptación.
 
 ###### Art. 477.
 
@@ -2688,9 +3038,9 @@ Del aval.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO VI.
+### CAPÍTULO V.
 
-Del pago.
+Del aval.
 
 ###### Art. 484.
 
@@ -2742,9 +3092,9 @@ Del pago.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO VII.
+### CAPÍTULO VI.
 
-De los protestos.
+Del pago.
 
 ###### Art. 496.
 
@@ -2760,9 +3110,9 @@ De los protestos.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO VIII.
+### CAPÍTULO VII.
 
-De la intervención en la aceptación y pago.
+De los protestos.
 
 ###### Art. 499.
 
@@ -2810,9 +3160,9 @@ De la intervención en la aceptación y pago.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO IX.
+### CAPÍTULO VIII.
 
-De las acciones que competen al portador de una letra de cambio.
+De la intervención en la aceptación y pago.
 
 ###### Art. 510.
 
@@ -2856,9 +3206,9 @@ De las acciones que competen al portador de una letra de cambio.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO X.
+### CAPÍTULO IX.
 
-Del recambio y resaca.
+De las acciones que competen al portador de una letra de cambio.
 
 ###### Art. 520.
 
@@ -2890,9 +3240,9 @@ Del recambio y resaca.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO I.
+### CAPÍTULO X.
 
-De las libranzas, vales y pagarés.
+Del recambio y resaca.
 
 ###### Art. 527.
 
@@ -2936,9 +3286,9 @@ De las libranzas, vales y pagarés.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-De los cheques.
+De las libranzas, vales y pagarés.
 
 ###### Art. 537.
 
@@ -2980,9 +3330,9 @@ DE LAS LIBRANZAS, VALES, PAGARÉS, CHEQUES Y CARTAS DE CRÉDITO.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO III.
+### CAPÍTULO II.
 
-De las cartas de crédito.
+De los cheques.
 
 ###### Art. 545.
 
@@ -3014,9 +3364,9 @@ De las cartas de crédito.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO I.
+### CAPÍTULO III.
 
-Del contrato mercantil de trasporte terrestre.
+De las cartas de crédito.
 
 ###### Art. 552.
 
@@ -3070,7 +3420,7 @@ Del contrato mercantil de trasporte terrestre.
 
 ### CAPÍTULO I.
 
-De los efectos al portador.
+Del contrato mercantil de trasporte terrestre.
 
 ###### Art. 564.
 
@@ -3124,9 +3474,9 @@ De los efectos al portador.
 
 DE LOS TRASPORTES POR VÍAS TERRESTRES Ó FLUVIALES.
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-Del robo, hurto ó extravío de los documentos de crédito y efectos al portador.
+De los efectos al portador.
 
 ###### Art. 576.
 
@@ -3416,9 +3766,9 @@ DE LOS EFECTOS AL PORTADOR Y DE LA FALSEDAD, ROBO, HURTO Ó EXTRAVÍO DE LOS MIS
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO I.
+### CAPÍTULO II.
 
-De los navieros.
+Del robo, hurto ó extravío de los documentos de crédito y efectos al portador.
 
 ###### Art. 616.
 
@@ -3434,9 +3784,9 @@ De los navieros.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-De los capitanes.
+De los navieros.
 
 ###### Art. 619.
 
@@ -3664,9 +4014,9 @@ DE LOS RIESGOS, DAÑOS Y ACCIDENTES DEL COMERCIO MARÍTIMO.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO III.
+### CAPÍTULO II.
 
-De los oficiales y tripulación del buque.
+De los capitanes.
 
 ###### Art. 666.
 
@@ -3738,9 +4088,9 @@ De los oficiales y tripulación del buque.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO IV.
+### CAPÍTULO III.
 
-De los sobrecargos.
+De los oficiales y tripulación del buque.
 
 ###### Art. 683.
 
@@ -3812,11 +4162,9 @@ De los sobrecargos.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO I.
+### CAPÍTULO IV.
 
-Del contrato de fletamento.
-
-De las formas y efectos del contrato de fletamento.
+De los sobrecargos.
 
 ###### Art. 700.
 
@@ -3916,9 +4264,11 @@ De las formas y efectos del contrato de fletamento.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-De los derechos y obligaciones del fletante.
+Del contrato de fletamento.
+
+De las formas y efectos del contrato de fletamento.
 
 ###### Art. 724.
 
@@ -3940,9 +4290,9 @@ DE LA JUSTIFICACIÓN Y LIQUIDACIÓN DE LAS AVERÍAS.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO III.
+### CAPÍTULO II.
 
-De las obligaciones del fletador.
+De los derechos y obligaciones del fletante.
 
 ###### Art. 727.
 
@@ -4014,9 +4364,9 @@ De las obligaciones del fletador.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO IV.
+### CAPÍTULO III.
 
-De la rescisión total o parcial del contrato del fletamento.
+De las obligaciones del fletador.
 
 ###### Art. 744.
 
@@ -4060,9 +4410,9 @@ De la rescisión total o parcial del contrato del fletamento.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO V.
+### CAPÍTULO IV.
 
-De los pasajeros en los viajes por mar.
+De la rescisión total o parcial del contrato del fletamento.
 
 ###### Art. 754.
 
@@ -4102,9 +4452,9 @@ De los pasajeros en los viajes por mar.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO VI.
+### CAPÍTULO V.
 
-Del conocimiento.
+De los pasajeros en los viajes por mar.
 
 ###### Art. 763.
 
@@ -4128,9 +4478,9 @@ Del conocimiento.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO VII.
+### CAPÍTULO VI.
 
-Del contrato á la gruesa ó préstamo á riesgo marítimo.
+Del conocimiento.
 
 ###### Art. 768.
 
@@ -4186,11 +4536,9 @@ Del contrato á la gruesa ó préstamo á riesgo marítimo.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO VIII.
+### CAPÍTULO VII.
 
-De los seguros marítimos.
-
-De la forma de este contrato.
+Del contrato á la gruesa ó préstamo á riesgo marítimo.
 
 ###### Art. 781.
 
@@ -4246,9 +4594,11 @@ De la forma de este contrato.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO IX.
+### CAPÍTULO VIII.
 
-De las cosas que pueden ser aseguradas y su evaluación.
+De los seguros marítimos.
+
+De la forma de este contrato.
 
 ###### Art. 794.
 
@@ -4324,9 +4674,9 @@ De las cosas que pueden ser aseguradas y su evaluación.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO X.
+### CAPÍTULO IX.
 
-Obligaciones entre el asegurador y asegurado.
+De las cosas que pueden ser aseguradas y su evaluación.
 
 ###### Art. 812.
 
@@ -4354,9 +4704,9 @@ Obligaciones entre el asegurador y asegurado.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO XI.
+### CAPÍTULO X.
 
-De los casos en que se anula, rescinde ó modifica el contrato de seguro.
+Obligaciones entre el asegurador y asegurado.
 
 ###### Art. 818.
 
@@ -4408,9 +4758,9 @@ De los casos en que se anula, rescinde ó modifica el contrato de seguro.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO XII.
+### CAPÍTULO XI.
 
-Del abandono de las cosas aseguradas.
+De los casos en que se anula, rescinde ó modifica el contrato de seguro.
 
 ###### Art. 830.
 
@@ -4518,9 +4868,9 @@ Del abandono de las cosas aseguradas.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO I.
+### CAPÍTULO XII.
 
-De las averías.
+Del abandono de las cosas aseguradas.
 
 ###### Art. 856.
 
@@ -4556,9 +4906,9 @@ De las averías.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-De las arribadas forzosas.
+De las averías.
 
 ###### Art. 864.
 
@@ -4636,9 +4986,9 @@ DE LAS QUIEBRAS.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
-### CAPÍTULO III.
+### CAPÍTULO II.
 
-De los abordajes.
+De las arribadas forzosas.
 
 ###### Art. 881.
 
@@ -4694,9 +5044,9 @@ De los abordajes.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO IV.
+### CAPÍTULO III.
 
-De los naufragios.
+De los abordajes.
 
 ###### Art. 894.
 
@@ -4728,9 +5078,9 @@ De los naufragios.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO I.
+### CAPÍTULO IV.
 
-Disposiciones comunes á toda clase de averías.
+De los naufragios.
 
 ###### Art. 901.
 
@@ -4790,9 +5140,9 @@ Disposiciones comunes á toda clase de averías.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-De la liquidación de las averías gruesas.
+Disposiciones comunes á toda clase de averías.
 
 ###### Art. 915.
 
@@ -4808,7 +5158,7 @@ De la liquidación de las averías gruesas.
 
 ###### Art. 918.
 
-(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)(REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### Art. 919.
 
@@ -4870,9 +5220,9 @@ Art. 1,047. En todos los casos en que el presente Código no establezca para la 
 
 Art. 1,048. La prescripción en materia mercantil correrá contra los menores é incapacitados, quedando á salvo los derechos de éstos para repetir contra sus tutores ó curadores.
 
-### CAPÍTULO III.
+### CAPÍTULO II.
 
-De la liquidación de las averías simples.
+De la liquidación de las averías gruesas.
 
 ###### Art. 921.
 
@@ -4896,9 +5246,9 @@ De la liquidación de las averías simples.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO I.
+### CAPÍTULO III.
 
-Disposiciones generales.
+De la liquidación de las averías simples.
 
 ###### Art. 926.
 
@@ -4974,9 +5324,9 @@ Disposiciones generales.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-De la clasificación de las quiebras.
+Disposiciones generales.
 
 ###### Art. 944.
 
@@ -4990,9 +5340,9 @@ De la clasificación de las quiebras.
 
 DISPOSICIONES GENERALES.
 
-### CAPÍTULO III.
+### CAPÍTULO II.
 
-De los efectos del estado de quiebra.
+De la clasificación de las quiebras.
 
 ###### Art. 945.
 
@@ -5024,9 +5374,9 @@ De los efectos del estado de quiebra.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
-### CAPÍTULO IV.
+### CAPÍTULO III.
 
-De la época de la quiebra.
+De los efectos del estado de quiebra.
 
 ###### Art. 952.
 
@@ -5070,9 +5420,9 @@ De la época de la quiebra.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
-### CAPÍTULO V.
+### CAPÍTULO IV.
 
-Del convenio de los quebrados con sus acreedores.
+De la época de la quiebra.
 
 ###### Art. 962.
 
@@ -5164,9 +5514,9 @@ Del convenio de los quebrados con sus acreedores.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
-### CAPÍTULO VI.
+### CAPÍTULO V.
 
-De la graduación.
+Del convenio de los quebrados con sus acreedores.
 
 ###### Art. 984.
 
@@ -5186,25 +5536,9 @@ De la graduación.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
-### CAPÍTULO VII.
+### CAPÍTULO VI.
 
-De la rehabilitación.
-
-Art. 1,009. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,010. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,011. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,012. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,013. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,014. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,015. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
+De la graduación.
 
 ###### Art. 988.
 
@@ -5248,29 +5582,23 @@ Art. 1,015. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA L
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
-### CAPÍTULO VIII.
+### CAPÍTULO VII.
 
-Disposiciones generales relativas á las quiebras, en las sociedades mercantiles.
+De la rehabilitación.
 
-Art. 1,016. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,009. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,017. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,010. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,018. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,011. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,019. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,012. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,020. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,013. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,021. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,014. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,022. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,023. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,024. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,025. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,015. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
@@ -5299,6 +5627,32 @@ Art. 1,006. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA L
 Art. 1,007. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 Art. 1,008. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
+
+### CAPÍTULO VIII.
+
+Disposiciones generales relativas á las quiebras, en las sociedades mercantiles.
+
+Art. 1,016. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,017. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,018. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,019. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,020. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,021. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,022. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,023. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,024. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,025. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
@@ -5399,70 +5753,6 @@ VIII. Los tribunales podrán ordenar que se subsane toda omisión que notaren en
 Art. 1,055 Bis.- Cuando el crédito tenga garantía real, el acreedor podrá ejercitar sus acciones en juicio ejecutivo mercantil, ordinario, especial, sumario hipotecario o el que corresponda, de acuerdo a esta Ley, a la legislación mercantil o a la legislación civil aplicable, conservando la garantía real y su preferencia en el pago, aun cuando los bienes gravados se señalen para la práctica de la ejecución.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE MAYO DE 1996)</small>
-
-### CAPÍTULO II
-
-De la capacidad y personalidad.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Art. 1,056. Todo el que, conforme a la ley esté en el pleno ejercicio de sus derechos puede comparecer en juicio. Aquellos que no se hallen en el caso anterior, comparecerán a juicio por medio de sus representantes legítimos o los que deban suplir su incapacidad conforme a derecho. Los ausentes e ignorados serán representados como se previene en el Código Civil para el Distrito Federal.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Art. 1,057. El juez examinará de oficio la personalidad de las partes, pero los litigantes podrán impugnar la de su contraria cuando tengan razones para ello, en vía incidental que no suspenderá el procedimiento y la resolución que se dicte será apelable en el efecto devolutivo, sin perjuicio de lo dispuesto por el artículo 1126 de este Código.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Art. 1,058. Por aquel que no estuviere presente en el lugar del juicio ni tenga representante legítimo, podrá comparecer un gestor judicial para promover en el interés del actor o del demandado, y siempre sujetándose a las disposiciones de los artículos 1896 a 1909 del Código Civil para el Distrito Federal, y gozará de los derechos y facultades de un mandatario judicial. Si la ratificación de la gestión se da antes de exhibir la fianza, la exhibición de ésta no será necesaria.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Art. 1,059. El gestor judicial, antes de ser admitido, debe dar fianza que garantizará que el interesado pasará por lo que él haga, y de que pagará lo juzgado y sentenciado. La fianza será calificada por el tribunal bajo su responsabilidad y se otorgará por el gestor judicial, comprometiéndose con el dueño del negocio a pagar los daños, los perjuicios y gastos que se le irroguen a éste por su culpa o negligencia.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Art. 1,060. Existirá litisconsorcio, sea activo o sea pasivo, siempre que dos o más personas ejerciten una misma acción u opongan la misma excepción, para lo cual deberán litigar unidas y bajo una misma representación.
-
-A este efecto, dentro de tres días, nombrarán un mandatario judicial quien tendrá las facultades que en el poder se le concedan, necesarias para la continuación del juicio. En caso de no designar mandatario, podrán elegir de entre ellas mismas un representante común. Si dentro del término señalado, no nombraren mandatario judicial ni hicieren la elección de representante común, o no se pusieren de acuerdo en ella, el juez nombrará al representante común escogiendo a alguno de los que hayan sido propuestos; y si nadie lo hubiere sido, a cualquiera de los interesados.
-
-El representante común que designe el juez tendrá las mismas facultades como si litigara exclusivamente por su propio derecho, excepto las de desistirse, transigir y comprometer en árbitros, el que designen los interesados sólo tendrá estas últimas facultades, si expresamente le fueren concedidas por los litisconsortes.
-
-Cuando exista litisconsorcio de cualquier clase, el mandatario nombrado, o en su caso el representante común, sea el designado por los interesados o por el juez, será el único que puede representar a los que hayan ejercitado la misma acción u opuesto la misma excepción, con exclusión de las demás personas.
-
-El fin del representante común o la designación del mandatario por los que conforman un litisconsorcio es evitar solicitudes múltiples, contrarias o contradictorias, por lo que tales mandatarios y representantes serán inmediata y directamente responsables por negligencia en su actuación y responderán de los daños y perjuicios que causen a sus poderdantes y representados. El mandatario o el representante común podrán actuar por medio de apoderado o mandatario y autorizar personas para oír notificaciones en los términos del Artículo 1069 de este Código.
-
-Art. 1,061. Al primer escrito se acompañarán precisamente:
-
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
-
-I. El poder que acredite la personalidad del que comparece en nombre de otro;
-
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
-
-II. El documento o documentos que acrediten el carácter con que el litigante se presente en juicio en el caso de tener representación legal de alguna persona o corporación o cuando el derecho que reclame provenga de habérsele transmitido por otra persona;
-
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
-
-III. Los documentos en que el actor funde su acción y aquellos en que el demandado funde sus excepciones. Si se tratare del actor, y carezca de algún documento, deberá acreditar en su demanda haber solicitado su expedición con la copia simple sellada por el archivo, protocolo, dependencia o lugar en que se encuentren los originales, para que, a su costa, se les expida certificación de ellos, en la forma que prevenga la ley. Si se tratare del demandado deberá acreditar la solicitud de expedición del documento de que carezca, para lo cual la copia simple sellada por el archivo, protocolo o dependencia, deberá exhibirla con la contestación o dentro de los tres días siguientes al del vencimiento del término para contestar la demanda.
-
-Se entiende que las partes tienen a su disposición los documentos, siempre que legalmente puedan pedir copia autorizada de los originales y exista obligación de expedírselos. Si las partes no tuvieren a su disposición o por cualquier otra causa no pudiesen presentar los documentos en que funden sus acciones o excepciones, lo declararán al juez, bajo protesta de decir verdad, el motivo por el que no pueden presentarlos. En vista a dicha manifestación, el juez, ordenará al responsable de la expedición que el documento se expida a costa del interesado, apercibiéndolo con la imposición de alguna de las medidas de apremio que autoriza la ley.
-
-Salvo disposición legal en contrario o que se trate de pruebas supervenientes, de no cumplirse por las partes con alguno de los requisitos anteriores, no se le recibirán las pruebas documentales que no obren en su poder al presentar la demanda o contestación como tampoco si en esos escritos no se dejan de identificar las documentales, para el efecto de que oportunamente se exijan por el tribunal y sean recibidas;
-
-> <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 1996)</small>
-
-IV. Además de lo señalado en la fracción III, con la demanda y contestación se acompañarán todos los documentos que las partes tengan en su poder y que deban de servir como pruebas de su parte; y, los que presentaren después, con violación de este precepto, no le serán admitidos, salvo que se trate de pruebas supervenientes, y
-
-> <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 1996)</small>
-
-V. Copia simple o fotostática siempre que sean legibles a simple vista, tanto del escrito de demanda como de los demás documentos referidos, incluyendo la de los que se exhiban como prueba según los párrafos precedentes para correr traslado a la contraria.
-
-Lo dispuesto en la fracción anterior, se observará también respecto de los escritos en que se oponga la excepción de compensación o se promueva reconvención o algún incidente.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Art. 1,062. En el caso de que se demuestre haber solicitado al protocolo dependencia o archivo público la expedición del documento y no se expida, el juez ordenará al jefe o director responsable, que lo expida a costa del solicitante dentro del plazo de tres días y le informe al juez con apercibimiento en caso de no hacerlo de imposición de sanción pecuniaria hasta por los importes autorizados por la ley, que se aplicará en beneficio de la parte perjudicada.
 
 ## TÍTULO SEGUNDO
 
@@ -5723,6 +6013,70 @@ Art. 1,413. Las partes, durante el juicio, podrán convenir en que los bienes em
 Art. 1,414.- Cualquier incidente o cuestión que se suscite en los juicios ejecutivos mercantiles, será resuelto por el juez con apoyo en las disposiciones respectivas de este título; y en su defecto, en lo relativo a los incidentes en los juicios ordinarios mercantiles; y a falta de uno u otro, a lo que disponga el Código Federal de Procedimientos Civiles, procurando la mayor equidad entre las partes sin perjuicio para ninguna de ellas.
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE MAYO DE 2000)</small>
+
+### CAPÍTULO II
+
+De la capacidad y personalidad.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,056. Todo el que, conforme a la ley esté en el pleno ejercicio de sus derechos puede comparecer en juicio. Aquellos que no se hallen en el caso anterior, comparecerán a juicio por medio de sus representantes legítimos o los que deban suplir su incapacidad conforme a derecho. Los ausentes e ignorados serán representados como se previene en el Código Civil para el Distrito Federal.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,057. El juez examinará de oficio la personalidad de las partes, pero los litigantes podrán impugnar la de su contraria cuando tengan razones para ello, en vía incidental que no suspenderá el procedimiento y la resolución que se dicte será apelable en el efecto devolutivo, sin perjuicio de lo dispuesto por el artículo 1126 de este Código.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,058. Por aquel que no estuviere presente en el lugar del juicio ni tenga representante legítimo, podrá comparecer un gestor judicial para promover en el interés del actor o del demandado, y siempre sujetándose a las disposiciones de los artículos 1896 a 1909 del Código Civil para el Distrito Federal, y gozará de los derechos y facultades de un mandatario judicial. Si la ratificación de la gestión se da antes de exhibir la fianza, la exhibición de ésta no será necesaria.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,059. El gestor judicial, antes de ser admitido, debe dar fianza que garantizará que el interesado pasará por lo que él haga, y de que pagará lo juzgado y sentenciado. La fianza será calificada por el tribunal bajo su responsabilidad y se otorgará por el gestor judicial, comprometiéndose con el dueño del negocio a pagar los daños, los perjuicios y gastos que se le irroguen a éste por su culpa o negligencia.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,060. Existirá litisconsorcio, sea activo o sea pasivo, siempre que dos o más personas ejerciten una misma acción u opongan la misma excepción, para lo cual deberán litigar unidas y bajo una misma representación.
+
+A este efecto, dentro de tres días, nombrarán un mandatario judicial quien tendrá las facultades que en el poder se le concedan, necesarias para la continuación del juicio. En caso de no designar mandatario, podrán elegir de entre ellas mismas un representante común. Si dentro del término señalado, no nombraren mandatario judicial ni hicieren la elección de representante común, o no se pusieren de acuerdo en ella, el juez nombrará al representante común escogiendo a alguno de los que hayan sido propuestos; y si nadie lo hubiere sido, a cualquiera de los interesados.
+
+El representante común que designe el juez tendrá las mismas facultades como si litigara exclusivamente por su propio derecho, excepto las de desistirse, transigir y comprometer en árbitros, el que designen los interesados sólo tendrá estas últimas facultades, si expresamente le fueren concedidas por los litisconsortes.
+
+Cuando exista litisconsorcio de cualquier clase, el mandatario nombrado, o en su caso el representante común, sea el designado por los interesados o por el juez, será el único que puede representar a los que hayan ejercitado la misma acción u opuesto la misma excepción, con exclusión de las demás personas.
+
+El fin del representante común o la designación del mandatario por los que conforman un litisconsorcio es evitar solicitudes múltiples, contrarias o contradictorias, por lo que tales mandatarios y representantes serán inmediata y directamente responsables por negligencia en su actuación y responderán de los daños y perjuicios que causen a sus poderdantes y representados. El mandatario o el representante común podrán actuar por medio de apoderado o mandatario y autorizar personas para oír notificaciones en los términos del Artículo 1069 de este Código.
+
+Art. 1,061. Al primer escrito se acompañarán precisamente:
+
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
+
+I. El poder que acredite la personalidad del que comparece en nombre de otro;
+
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
+
+II. El documento o documentos que acrediten el carácter con que el litigante se presente en juicio en el caso de tener representación legal de alguna persona o corporación o cuando el derecho que reclame provenga de habérsele transmitido por otra persona;
+
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
+
+III. Los documentos en que el actor funde su acción y aquellos en que el demandado funde sus excepciones. Si se tratare del actor, y carezca de algún documento, deberá acreditar en su demanda haber solicitado su expedición con la copia simple sellada por el archivo, protocolo, dependencia o lugar en que se encuentren los originales, para que, a su costa, se les expida certificación de ellos, en la forma que prevenga la ley. Si se tratare del demandado deberá acreditar la solicitud de expedición del documento de que carezca, para lo cual la copia simple sellada por el archivo, protocolo o dependencia, deberá exhibirla con la contestación o dentro de los tres días siguientes al del vencimiento del término para contestar la demanda.
+
+Se entiende que las partes tienen a su disposición los documentos, siempre que legalmente puedan pedir copia autorizada de los originales y exista obligación de expedírselos. Si las partes no tuvieren a su disposición o por cualquier otra causa no pudiesen presentar los documentos en que funden sus acciones o excepciones, lo declararán al juez, bajo protesta de decir verdad, el motivo por el que no pueden presentarlos. En vista a dicha manifestación, el juez, ordenará al responsable de la expedición que el documento se expida a costa del interesado, apercibiéndolo con la imposición de alguna de las medidas de apremio que autoriza la ley.
+
+Salvo disposición legal en contrario o que se trate de pruebas supervenientes, de no cumplirse por las partes con alguno de los requisitos anteriores, no se le recibirán las pruebas documentales que no obren en su poder al presentar la demanda o contestación como tampoco si en esos escritos no se dejan de identificar las documentales, para el efecto de que oportunamente se exijan por el tribunal y sean recibidas;
+
+> <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 1996)</small>
+
+IV. Además de lo señalado en la fracción III, con la demanda y contestación se acompañarán todos los documentos que las partes tengan en su poder y que deban de servir como pruebas de su parte; y, los que presentaren después, con violación de este precepto, no le serán admitidos, salvo que se trate de pruebas supervenientes, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 1996)</small>
+
+V. Copia simple o fotostática siempre que sean legibles a simple vista, tanto del escrito de demanda como de los demás documentos referidos, incluyendo la de los que se exhiban como prueba según los párrafos precedentes para correr traslado a la contraria.
+
+Lo dispuesto en la fracción anterior, se observará también respecto de los escritos en que se oponga la excepción de compensación o se promueva reconvención o algún incidente.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,062. En el caso de que se demuestre haber solicitado al protocolo dependencia o archivo público la expedición del documento y no se expida, el juez ordenará al jefe o director responsable, que lo expida a costa del solicitante dentro del plazo de tres días y le informe al juez con apercibimiento en caso de no hacerlo de imposición de sanción pecuniaria hasta por los importes autorizados por la ley, que se aplicará en beneficio de la parte perjudicada.
 
 ### CAPÍTULO III.
 
@@ -6104,7 +6458,7 @@ III. El demandado por no interponer dentro del término correspondiente las exce
 
 IV. El que habiendo promovido una competencia, se desiste de ella;
 
-V. El tercer opositor y el que por cualquier motivo viniere al juicio en virtud de un incidente.
+V. El tercer opositor y el que por cualquier motivo viniere al juicio en virtud de un incidente;
 
 > <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -6860,6 +7214,60 @@ Art. 1,246. Los instrumentos auténticos expedidos por las autoridades federales
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 24 DE MAYO DE 1996)</small>
 
+###### Art. 1247.
+
+Las partes sólo podrán objetar los documentos dentro de los tres días siguientes a la apertura del término de prueba, tratándose de los presentados hasta entonces. Los exhibidos con posterioridad podrán ser objetados en igual término, contado desde el día siguiente a aquel en que surta efectos la notificación del auto que ordene su recepción. En ambos casos se hará en forma incidental.
+
+Podrá pedirse el cotejo de firmas y letras, siempre que se niegue o que se pongan en duda la autenticidad de un documento privado o de un documento público que carezca de matriz.
+
+La persona que pida el cotejo designará el documento o documentos indubitables con que deba hacerse, o pedirá al tribunal que cite al interesado para que en su presencia ponga la firma o letras que servirán para el cotejo.
+
+Se considerarán indubitables para el cotejo:
+
+I. Los documentos que las partes reconozcan como tales, de común acuerdo;
+
+II. Los documentos privados cuya letra o firma haya sido reconocida en juicio por aquel a quien se atribuya la dudosa;
+
+III. Los documentos cuya letra o firma haya sido judicialmente declarada propia de aquél a quien se atribuye la dudosa;
+
+IV. El escrito impugnado en la parte en que reconozca la letra como suya aquel a quien perjudique, y
+
+V. Las firmas puestas en actuaciones judiciales en presencia del secretario del tribunal por la parte cuya firma o letra se trata de comprobar.
+
+El juez podrá hacer por sí mismo la comprobación después de oír a los peritos revisores y apreciará el resultado de esta prueba conforme a las reglas de la sana crítica, sin tener que sujetarse al dictamen de aquéllos, y aún puede ordenar que se repita el cotejo por otros peritos.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,248. Para que haga fé en la República los documentos públicos extranjeros deberán presentarse legalizados por las autoridades consulares mexicanas competentes conforme a las leyes aplicabales (sic).
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,249. Los documentos que fueren transmitidos internacionalmente, por conducto oficial, para surtir efectos legales, no requerirán de legalización.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Tampoco requerirán de legalización, los documentos públicos extranjeros, cuando se tenga celebrado tratado o acuerdo interinstitucional con el país de que provengan, y se exima de dicha legalización.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,250. En caso de impugnación de falsedad de un documento, se observará lo dispuesto por las siguientes reglas:
+
+I. La impugnación de falsedad de un documento puede hacerse desde la contestación de la demanda y hasta diez días después de que haya terminado el período de ofrecimiento de pruebas;
+
+II. La parte que redarguye de falso un documento debe indicar específicamente los motivos y las pruebas;
+
+III. Cuando se impugne la autenticidad del documento privado o público sin matriz, deben señalarse los documentos indubitables para el cotejo y promover la prueba pericial correspondiente;
+
+IV. Sin los requisitos anteriores se tiene por no redargüido o impugnado el instrumento;
+
+V. De la impugnación se correrá traslado al colitigante para que en el término de tres días manifieste lo que a su derecho convenga y ofrezca pruebas que se recibirán en audiencia incidental únicamente en lo relativo a la impugnación;
+
+VI. Lo dispuesto en este artículo sólo da competencia al juez para conocer y decidir en lo principal la fuerza probatoria del documento impugnado, sin que pueda hacerse declaración alguna general que afecte al instrumento y sin perjuicio del procedimiento penal a que hubiera lugar, y
+
+VII. Si durante la secuela del procedimiento se tramitare diverso proceso penal sobre la falsedad del documento en cuestión, el tribunal, sin suspender el juicio y según las circunstancias, podrá determinar al dictar sentencia si se reservan los derechos del impugnador para el caso en que penalmente se demuestre la falsedad o bien puede subordinar la eficacia ejecutiva de la sentencia a la prestación de una caución.
+
+Art. 1,251. En el caso de que alguna de las partes sostenga la falsedad de un documento que pueda ser de influencia notoria en el pleito, se observarán las prescripciones relativas del Código de Procedimientos Penales respectivo.
+
 ### CAPÍTULO XV.
 
 De la prueba pericial.
@@ -6967,60 +7375,6 @@ En todos los casos en que el tribunal designe a los peritos, los honorarios de �
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
 Art. 1,258. Las partes tendrán derecho a interrogar al o a los peritos que hayan rendido su dictamen, salvo en los casos de avalúos a que se refiere el artículo 1257, y a que el juez ordene su comparecencia en la audiencia que para tal fin se señale, en la que se interrogará por aquél que la haya solicitado o por todos los colitigantes que la hayan pedido.
-
-###### Art. 1247.
-
-Las partes sólo podrán objetar los documentos dentro de los tres días siguientes a la apertura del término de prueba, tratándose de los presentados hasta entonces. Los exhibidos con posterioridad podrán ser objetados en igual término, contado desde el día siguiente a aquel en que surta efectos la notificación del auto que ordene su recepción. En ambos casos se hará en forma incidental.
-
-Podrá pedirse el cotejo de firmas y letras, siempre que se niegue o que se pongan en duda la autenticidad de un documento privado o de un documento público que carezca de matriz.
-
-La persona que pida el cotejo designará el documento o documentos indubitables con que deba hacerse, o pedirá al tribunal que cite al interesado para que en su presencia ponga la firma o letras que servirán para el cotejo.
-
-Se considerarán indubitables para el cotejo:
-
-I. Los documentos que las partes reconozcan como tales, de común acuerdo;
-
-II. Los documentos privados cuya letra o firma haya sido reconocida en juicio por aquel a quien se atribuya la dudosa;
-
-III. Los documentos cuya letra o firma haya sido judicialmente declarada propia de aquél a quien se atribuye la dudosa;
-
-IV. El escrito impugnado en la parte en que reconozca la letra como suya aquel a quien perjudique, y
-
-V. Las firmas puestas en actuaciones judiciales en presencia del secretario del tribunal por la parte cuya firma o letra se trata de comprobar.
-
-El juez podrá hacer por sí mismo la comprobación después de oír a los peritos revisores y apreciará el resultado de esta prueba conforme a las reglas de la sana crítica, sin tener que sujetarse al dictamen de aquéllos, y aún puede ordenar que se repita el cotejo por otros peritos.
-
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,248. Para que haga fé en la República los documentos públicos extranjeros deberán presentarse legalizados por las autoridades consulares mexicanas competentes conforme a las leyes aplicabales (sic).
-
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,249. Los documentos que fueren transmitidos internacionalmente, por conducto oficial, para surtir efectos legales, no requerirán de legalización.
-
-> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Tampoco requerirán de legalización, los documentos públicos extranjeros, cuando se tenga celebrado tratado o acuerdo interinstitucional con el país de que provengan, y se exima de dicha legalización.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 24 DE MAYO DE 1996)</small>
-
-Art. 1,250. En caso de impugnación de falsedad de un documento, se observará lo dispuesto por las siguientes reglas:
-
-I. La impugnación de falsedad de un documento puede hacerse desde la contestación de la demanda y hasta diez días después de que haya terminado el período de ofrecimiento de pruebas;
-
-II. La parte que redarguye de falso un documento debe indicar específicamente los motivos y las pruebas;
-
-III. Cuando se impugne la autenticidad del documento privado o público sin matriz, deben señalarse los documentos indubitables para el cotejo y promover la prueba pericial correspondiente;
-
-IV. Sin los requisitos anteriores se tiene por no redargüido o impugnado el instrumento;
-
-V. De la impugnación se correrá traslado al colitigante para que en el término de tres días manifieste lo que a su derecho convenga y ofrezca pruebas que se recibirán en audiencia incidental únicamente en lo relativo a la impugnación;
-
-VI. Lo dispuesto en este artículo sólo da competencia al juez para conocer y decidir en lo principal la fuerza probatoria del documento impugnado, sin que pueda hacerse declaración alguna general que afecte al instrumento y sin perjuicio del procedimiento penal a que hubiera lugar, y
-
-VII. Si durante la secuela del procedimiento se tramitare diverso proceso penal sobre la falsedad del documento en cuestión, el tribunal, sin suspender el juicio y según las circunstancias, podrá determinar al dictar sentencia si se reservan los derechos del impugnador para el caso en que penalmente se demuestre la falsedad o bien puede subordinar la eficacia ejecutiva de la sentencia a la prestación de una caución.
-
-Art. 1,251. En el caso de que alguna de las partes sostenga la falsedad de un documento que pueda ser de influencia notoria en el pleito, se observarán las prescripciones relativas del Código de Procedimientos Penales respectivo.
 
 ### CAPÍTULO XVI.
 
@@ -7266,30 +7620,6 @@ Art. 1,319. Si los documentos se presentan después del término de ofrecimiento
 
 Art. 1,320. La calificación de las tachas se hará en la sentencia definitiva.
 
-### CAPÍTULO XXII.
-
-De las sentencias.
-
-Art. 1,321. Las sentencias son definitivas ó interlocutorias.
-
-Art. 1,322. Sentencia definitiva es la que decide el negocio principal.
-
-Art. 1,323. Sentencia interlocutoria es la que decide un incidente, un artículo sobre excepciones dilatorias ó una competencia.
-
-Art. 1,324. Toda sentencia debe ser fundada en ley, y si ni por el sentido natural, ni por el espíritu de ésta, se puede decidir la controversia, se atenderá á los principios generales de derecho, tomando en consideración todas las circunstancias del caso.
-
-Art. 1,325. La sentencia debe ser clara, y al establecer el derecho, debe absolver ó condenar.
-
-Art. 1,326. Cuando el actor no probare su acción, será absuelto el demandado.
-
-Art. 1,327. La sentencia se ocupará exclusivamente de las acciones deducidas y de las excepciones opuestas respectivamente en la demanda y en la contestación.
-
-Art. 1,328. No podrán, bajo ningún pretexto, los jueces ni los tribunales, aplazar, dilatar, omitir ni negar la resolución de las cuestiones que hayan sido discutidas en el pleito.
-
-Art. 1,329. Cuando hayan sido varios los puntos litigiosos, se hará con la debida separación la declaración correspondiente á cada uno de ellos.
-
-Art. 1,330. Cuando hubiere condena de frutos, intereses, daños ó perjuicios, se fijará su importe en cantidad líquida, ó se establecerán por lo menos las bases con arreglo á las cuales deba hacerse la liquidación, cuando no sean el objeto principal del juicio.
-
 ###### Art. 1298-A.
 
 Se reconoce como prueba los mensajes de datos. Para valorar la fuerza probatoria de dichos mensajes, se estimará primordialmente la fiabilidad del método en que haya sido generada, archivada, comunicada o conservada.
@@ -7331,6 +7661,30 @@ Art. 1,304. Un solo testigo hace prueba plena, cuando ambas partes personalmente
 Art. 1,305. Las presunciones legales de que trata el artículo 1,281, hacen prueba plena.
 
 Art. 1,306. Los jueces, según la naturaleza de los hechos, la prueba de ellos, el enlace natural más ó menos necesario que existe entre la verdad conocida y la que se busca, y la aplicación más ó menos exacta que se pueda hacer de los principios consignados en los artículos 1,283 á 1,286, apreciarán en justicia el valor de las presunciones humanas.
+
+### CAPÍTULO XXII.
+
+De las sentencias.
+
+Art. 1,321. Las sentencias son definitivas ó interlocutorias.
+
+Art. 1,322. Sentencia definitiva es la que decide el negocio principal.
+
+Art. 1,323. Sentencia interlocutoria es la que decide un incidente, un artículo sobre excepciones dilatorias ó una competencia.
+
+Art. 1,324. Toda sentencia debe ser fundada en ley, y si ni por el sentido natural, ni por el espíritu de ésta, se puede decidir la controversia, se atenderá á los principios generales de derecho, tomando en consideración todas las circunstancias del caso.
+
+Art. 1,325. La sentencia debe ser clara, y al establecer el derecho, debe absolver ó condenar.
+
+Art. 1,326. Cuando el actor no probare su acción, será absuelto el demandado.
+
+Art. 1,327. La sentencia se ocupará exclusivamente de las acciones deducidas y de las excepciones opuestas respectivamente en la demanda y en la contestación.
+
+Art. 1,328. No podrán, bajo ningún pretexto, los jueces ni los tribunales, aplazar, dilatar, omitir ni negar la resolución de las cuestiones que hayan sido discutidas en el pleito.
+
+Art. 1,329. Cuando hayan sido varios los puntos litigiosos, se hará con la debida separación la declaración correspondiente á cada uno de ellos.
+
+Art. 1,330. Cuando hubiere condena de frutos, intereses, daños ó perjuicios, se fijará su importe en cantidad líquida, ó se establecerán por lo menos las bases con arreglo á las cuales deba hacerse la liquidación, cuando no sean el objeto principal del juicio.
 
 ### CAPÍTULO XXIII.
 
@@ -7632,6 +7986,10 @@ Art. 1,414 Bis 6.- No será necesario agotar el procedimiento a que se refieren 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE MAYO DE 2000)</small>
 
+## TITULO TERCERO BIS. De los procedimientos de ejecución de la prenda sin transmisión de posesión y del fideicomiso de garantía
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE MAYO DE 2000)</small>
+
 ### CAPITULO II. Del procedimiento judicial de ejecución de garantías otorgadas mediante prenda sin transmisión de posesión y fideicomiso de garantía
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
@@ -7672,7 +8030,7 @@ Artículo 1,414 Bis 10.- El demandado podrá oponer las excepciones que a su der
 
 I. Sólo se tendrán por opuestas las excepciones que se acrediten con prueba documental, salvo aquéllas que por su naturaleza requieran del ofrecimiento y desahogo de pruebas distintas a la documental;
 
-II. Si se opone la excepción de falta de personalidad del actor y se declara procedente, el juez concederá un plazo no mayor de diez días para que dicha parte subsane los defectos del documento presentado, si fueran subsanables; igual derecho tendrá el demandado, si se impugna la personalidad de su representante. Si no se subsana la del actor, el juez de inmediato sobreseerá el juicio, y si no se subsana la del demandado, el juicio se seguirá en rebeldía.
+II. Si se opone la excepción de falta de personalidad del actor y se declara procedente, el juez concederá un plazo no mayor de diez días para que dicha parte subsane los defectos del documento presentado, si fueran subsanables; igual derecho tendrá el demandado, si se impugna la personalidad de su representante. Si no se subsana la del actor, el juez de inmediato sobreseerá el juicio, y si no se subsana la del demandado, el juicio se seguirá en rebeldía;
 
 III. Si se oponen excepciones consistentes en que el demandado no haya firmado el documento base de la acción o fundadas en la falsedad del mismo, serán declaradas improcedentes al dictarse la sentencia, cuando quede acreditado que el deudor realizó pagos parciales del crédito a su cargo, o bien, que éste ha mantenido la posesión de los bienes adquiridos con el producto del crédito. Lo anterior, sin perjuicio de que la improcedencia de dichas excepciones resulte de diversa causa;
 
@@ -7765,10 +8123,6 @@ Art. 1,414 Bis 20.- En los procedimientos que se ventilen conforme a lo señalad
 En todo lo no previsto en este Capítulo serán aplicables las disposiciones contenidas en el Título III del Libro V, de este Código.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
-
-## TITULO TERCERO BIS. De los procedimientos de ejecución de la prenda sin transmisión de posesión y del fideicomiso de garantía
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE MAYO DE 2000)</small>
 
 ### CAPÍTULO I.
 
@@ -8150,6 +8504,18 @@ La resolución no será objeto de recurso alguno.
 
 > <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
 
+## TÍTULO CUARTO.
+
+DEL ARBITRAJE COMERCIAL.
+
+> <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
+
+## TITULO CUARTO.
+
+DEL PROCEDIMIENTO ESPECIAL EN LAS QUIEBRAS.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
+
 ### CAPÍTULO IX.
 
 Reconocimiento y ejecución de laudos.
@@ -8257,18 +8623,6 @@ Art. 1,498. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA L
 Art. 1,499. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 Art. 1,500. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-## TÍTULO CUARTO.
-
-DEL ARBITRAJE COMERCIAL.
-
-> <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
-
-## TITULO CUARTO.
-
-DEL PROCEDIMIENTO ESPECIAL EN LAS QUIEBRAS.
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ## TRANSITORIOS.
 
@@ -8607,3 +8961,13 @@ DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CODIGO DE 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Las disposiciones de este Decreto no serán aplicables a los créditos contratados con anterioridad a la fecha de entrada en vigor del mismo, ni aun tratándose de novación o reestructuración de créditos.
+
+D.O.F. 29 DE AGOSTO DE 2003.
+
+PRIMERO. El presente Decreto comenzara su vigencia 90 días después de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Dentro del plazo de 90 días posteriores a la entrada en vigor del presente Decreto, el Ejecutivo emitirá las reglas generales a que se refieren las presentes disposiciones.
+
+TERCERO. En lo que se refiere al artículo 102, dentro de los doce meses siguientes a la entrada en vigor de las reglas generales a que se refiere el artículo anterior, el plazo de 45 días a que se refiere el mismo, será de 90 días.
+
+CUARTO. Por lo que se refiere al artículo 106, el Banco de México, en el ámbito de su competencia, regulará y coordinará a la autoridad registradora central, registradora y certificadora, de las instituciones financieras y de las empresas mencionadas que presten servicios de certificación.
