@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1979-12-31"
+last_updated: "1980-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1980.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -40,9 +40,11 @@ LEY DEL IMPUESTO AL VALOR AGREGADO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
 ###### ARTICULO 1o.
 
-Están obligados al pago del impuesto al valor agregado establecido en esta Ley, las personas físicas, las morales o las unidades económicas que, en territorio nacional, realicen los actos o actividades siguientes:
+Están obligadas al pago del impuesto al valor agregado establecido en esta Ley, las personas físicas y las morales que, en territorio nacional, realicen los actos o actividades siguientes:
 
 I.- Enajenen bienes.
 
@@ -70,23 +72,71 @@ Tratándose de importación, se aplicará la tasa del 6% siempre que los bienes 
 
 En el caso de que la prestación de servicios se realice parcialmente en dichas franjas o zonas, o se trate de servicios de transporte aéreo, telefónicos o de energía eléctrica, independientemente de que se realicen parcial o totalmente en las mismas, el impuesto se calculará aplicando al valor que señala esta Ley, la tasa de 10%.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+###### ARTICULO 2o.-A.
+
+El impuesto se calculará aplicando la tasa del 0% a los valores a que se refiere esta Ley, cuando se realicen los actos o actividades siguientes:
+
+I.- La enajenación de:
+
+a).- Animales y vegetales que no estén industrializados.
+
+b).- Los productos destinados a la alimentación, a excepción de los siguientes:
+
+1.- Bebidas distintas de la leche.
+
+2.- Concentrados, polvos, jarabes, esencias o extractos de sabores, a que se refieren los incisos B y C de la fracción I del artículo 2o. de la Ley del Impuesto Especial sobre Producción y Servicios.
+
+c).- Agua no gaseosa ni compuesta y hielo.
+
+d).- Ixtle, palma y lechuguilla.
+
+e).- Tractores para accionar implementos agrícolas, a excepción de los de oruga; motocultores para superficies reducidas; arados; rastras para desterronar la tierra arada; cultivadoras para esparcir y desyerbar; cosechadoras; aspersoras y espolvoreadoras para rociar o esparcir fertilizantes, plaguicidas, herbicidas y fungicidas; equipo mecánico, eléctrico o hidráulico para riego agrícola; sembradoras, ensiladoras, cortadoras y empacadoras de forraje; desgranadoras; abonadoras y fertilizadoras de terrenos de cultivo; aviones fumigadores; motosierras manuales de cadena, así como embarcaciones para pesca comercial, siempre que se reúnan los requisitos y condiciones que señale el Reglamento.
+
+A la enajenación de la maquinaria y del equipo a que se refiere este inciso, se les aplicará la tasa señalada en este artículo, sólo que se enajenen completos.
+
+f).- Fertilizantes, plaguicidas, herbicidas y fungicidas, siempre que estén destinados para ser utilizados en la agricultura o ganadería.
+
+La enajenación de los alimentos a que se refiere esta fracción, para su consumo en el mismo lugar o establecimiento en que se enajenen, se considerará prestación de servicios sujeta al pago del impuesto establecido en esta Ley.
+
+II.- La prestación de los siguientes servicios independientes:
+
+a).- Los prestados directamente a los agricultores y ganaderos, siempre que sean destinados para actividades agropecuarias, por concepto de perforaciones de pozos, alumbramiento y formación de retenes de agua; suministro de energía eléctrica para usos agrícolas aplicados al bombeo de aguas para riego; desmontes y caminos en el interior de las fincas agropecuarias; preparación de terrenos; riego y fumigación agrícolas; cosecha y recolección; vacunación, desinfección e inseminación de ganado, así como los de captura y extracción de especies marinas y de agua dulce.
+
+b).- Los de molienda o trituración de maíz o de trigo.
+
+c).- Los de pasteurización de leche.
+
+III.- El uso o goce temporal de la maquinaria y equipo a que se refiere el inciso e) de la fracción I de este artículo.
+
+IV.- La exportación de bienes o servicios, en los términos del artículo 29 de esta Ley.
+
+Los actos o actividades a los que se les aplica la tasa del 0%, producirán los mismos efectos legales que aquellos por los que se deba pagar el impuesto conforme a esta Ley.
+
 ###### ARTICULO 3o.
 
 La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados, las instituciones y asociaciones de beneficencia privada, las sociedades cooperativas o cualquiera otra persona, aunque conforme a otras leyes o decretos no causen impuestos federales o estén exentos de ellos, deberán aceptar la traslación a que se refiere el artículo primero y, en su caso, pagar el impuesto al valor agregado y trasladarlo, de acuerdo con los preceptos de esta Ley.
 
 La Federación, el Distrito Federal, los Estados y los Municipios tendrán la obligación de pagar el impuesto únicamente por los actos que realicen que no correspondan a sus funciones de derecho público.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+Para los efectos de este impuesto, se consideran residentes en territorio nacional, además de los señalados en el Código Fiscal de la Federación, las personas físicas o las morales residentes en el extranjero que tengan uno o varios establecimientos en el país, por todos los actos o actividades que en los mismos realicen.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 ###### ARTICULO 4o.
 
-El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los valores señalados en esta Ley las tasas a que se refieren los artículos 1o. ó 2o., según sea el caso. Se entiende por impuesto acreditable un monto equivalente al del impuesto al valor agregado que hubiera sido trasladado al contribuyente y el propio impuesto que él hubiese pagado con motivo de la importación de bienes o servicios, en el mes o en el ejercicio al que corresponda.
+El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los valores señalados en esta Ley las tasas a que se refieren los artículos 1o., 2o. o 2o. A, según sea el caso. Se entiende por impuesto acreditable un monto equivalente al del impuesto al valor agregado que hubiera sido trasladado al contribuyente y el propio impuesto que él hubiese pagado con motivo de la importación de bienes o servicios, en el mes o en el ejercicio al que corresponda.
 
 Para que sea acreditable el impuesto al valor agregado deberán reunirse los siguientes requisitos:
 
-I.- Que corresponda a bienes o servicios estrictamente indispensables para la realización de actos por los que se deba pagar el impuesto establecido en esta Ley o que estén comprendidos en los artículos 13 y 30 de la misma. Para que se consideren estrictamente indispensables la importación, adquisición o uso o goce temporal de automóviles, aeronaves, embarcaciones, casas habitación o de bienes o servicios relacionados con ellos, así como el hospedaje, la alimentación, los donativos, obsequios y atenciones de toda clase, será necesario que las erogaciones respectivas sean deducibles para fines del impuesto sobre la renta.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
-Cuando se esté obligado al pago del impuesto al valor agregado sólo por una parte de las actividades, únicamente se acreditará lo correspondiente a dicha parte. Si ésta no fuese identificable, el acreditamiento procederá únicamente en el por ciento que el valor de los actos por los que sí deba pagarse el impuesto represente en el valor total de los que el contribuyente realice en su ejercicio.
+I.- Que corresponda a bienes o servicios estrictamente indispensables para la realización de actos distintos de la importación, por los que se deba pagar el impuesto establecido en esta Ley o a los que se les aplique la tasa del 0%. Para que se consideren estrictamente indispensables la importación, adquisición o uso o goce temporal de automóviles, aeronaves, embarcaciones, casa habitación o de bienes y servicios relacionados con ellos, así como el hospedaje, la alimentación, los donativos, obsequios y atenciones de toda clase, será necesario que las erogaciones respectivas sean deducibles para fines del impuesto sobre la renta, aun cuando el contribuyente no esté obligado al pago de este último impuesto.
+
+Cuando se esté obligado al pago del impuesto al valor agregado o cuando sea aplicable la tasa del 0% sólo por una parte de las actividades, únicamente se acreditará el impuesto correspondiente a dicha parte. Si ésta no fuese identificable, el acreditamiento procederá únicamente en el por ciento que el valor de los actos por los que sí deba pagarse el impuesto o se aplique la tasa del 0%, represente en el valor total de los que el contribuyente realice en su ejercicio.
 
 II.- Que haya sido trasladado expresamente al contribuyente y conste por separado en documentación que satisfaga los requisitos que establece esta Ley y, en su caso, el Reglamento.
 
@@ -100,29 +150,33 @@ Para acreditar el impuesto al valor agregado en la importación de bienes tangib
 
 El impuesto se calculará por ejercicios fiscales, salvo en los casos señalados en el artículo 33. Dichos ejercicios coincidirán con los del impuesto sobre la renta y, en defecto de ellos o porque el contribuyente no cause este último impuesto, se entenderá que el ejercicio coincide con el año de calendario.
 
-Los contribuyentes efectuarán pagos mensuales a más tardar el día 20 o al siguiente día hábil, si aquél no lo fuera, de cada uno de los meses de ese ejercicio, mediante declaración que presentarán en las oficinas autorizadas. El pago mensual será la diferencia entre el impuesto que corresponda al total de las actividades realizadas en el mes de calendario anterior y las cantidades por las que proceda el acreditamiento.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
-El impuesto del ejercicio, deducidos los pagos mensuales, se pagará mediante declaración que se presentará ante las oficinas autorizadas, dentro de los 3 meses siguientes al cierre del ejercicio. Los contribuyentes del impuesto sobre la renta presentarán además, con la declaración definitiva de este gravamen, un ejemplar de la declaración del impuesto al valor agregado, a que se refiere este párrafo.
+Los contribuyentes efectuarán pagos provisionales mensuales a más tardar el día 20 o al siguiente día hábil, si aquél no lo fuera, de cada uno de los meses de ese ejercicio, mediante declaración que presentarán en las oficinas autorizadas. El pago provisional será la diferencia entre el impuesto que corresponda al total de las actividades realizadas en el mes de calendario anterior, a excepción de las importaciones de bienes tangibles, y las cantidades por las que proceda el acreditamiento.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+El impuesto del ejercicio, deducidos los pagos provisionales mensuales se pagará mediante declaración que se presentará ante las oficinas autorizadas, dentro de los tres meses siguientes al cierre del ejercicio. Los contribuyentes del impuesto sobre la renta presentarán, además, con la declaración definitiva de este gravamen, un ejemplar de la declaración del impuesto al valor agregado, a que se refiere este párrafo.
 
 Tratándose de importación de bienes tangibles el pago se hará como lo establece el artículo 28. Para los efectos de esta Ley son bienes tangibles los que se pueden tocar, pesar o medir; e intangibles los que no tienen al menos una de estas características.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 ###### ARTICULO 6o.
 
-Cuando en la declaración de pago mensual resulte saldo a favor del contribuyente, éste se aplicará contra el impuesto que cause en los meses siguientes hasta agotarse. Los saldos que resulten a favor del contribuyente en la última declaración mensual de su ejercicio no se podrán aplicar en declaraciones posteriores.
+Cuando en la declaración de pago provisional mensual resulte saldo a favor, el contribuyente podrá acreditarlo contra el impuesto a su cargo que le corresponda en los meses siguientes hasta agotarlo o solicitar su devolución, siempre que en este último caso sea sobre el total del saldo a favor. Los saldos que resulten a favor del contribuyente en la última declaración mensual de su ejercicio no se podrán acreditar en declaraciones posteriores.
 
-Si en la declaración del ejercicio el contribuyente tuviera cantidades a su favor, podrá aplicarlas en declaraciones posteriores o solicitar su devolución.
-
-Se podrá solicitar, en su parte correspondiente, la devolución de saldos mensuales pendientes de acreditar, en los casos de exportación, de ejecución de planes de inversión comprobados ante la Secretaría de Hacienda y Crédito Público, de primera enajenación de los bienes comprendidos en la fracción XII, del artículo 9o. de esta Ley y cuando se trate de actos o actividades realizados en las franjas fronterizas y zonas libres que menciona el artículo 2o.
+Si en la declaración del ejercicio el contribuyente tuviera cantidades a su favor, podrá acreditarlas en declaraciones mensuales posteriores o solicitar su devolución total.
 
 Los saldos cuya devolución se solicite no podrán acreditarse en declaraciones posteriores.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 ###### ARTICULO 7o.
 
-El contribuyente que reciba la devolución de bienes enajenados u otorgue descuentos o bonificaciones con motivo de la realización de actos gravados por esta Ley, deducirá en la siguiente o siguientes declaraciones mensuales el monto de dichos conceptos, del valor de los actos o actividades por los que deba pagar el impuesto, siempre que expresamente se haga constar que el impuesto al valor agregado que se hubiera trasladado, se cancela o se restituye, según sea el caso. El contribuyente que reciba el descuento, la bonificación o devuelva los bienes enajenados, disminuirá el impuesto cancelado o restituido de las cantidades acreditables o que tuviere pendientes de acreditamiento.
+El contribuyente que reciba la devolución de bienes enajenados u otorgue descuentos o bonificaciones con motivo de la realización de actos gravados por esta Ley, deducirá en la siguiente o siguientes declaraciones mensuales el monto de dichos conceptos, del valor de los actos o actividades por los que deba pagar el impuesto, siempre que expresamente se haga constar que el impuesto al valor agregado que se hubiere trasladado, se cancela o se restituye, según sea el caso.
+
+El contribuyente que reciba el descuento, la bonificación o devuelva los bienes enajenados, disminuirá el impuesto cancelado o restituido de las cantidades acreditables o que tuviere pendientes de acreditamiento. Si no tuviere impuesto pendiente de acreditar del cual disminuir el impuesto cancelado o restituido, lo pagará al presentar la declaración mensual que corresponda al mes en que reciba el descuento, la bonificación o efectúe la devolución.
 
 ### CAPITULO II. DE LA ENAJENACION
 
@@ -140,6 +194,12 @@ IV.- El fideicomiso que deba considerarse como enajenación de bienes, en los t�
 
 V.- El faltante de bienes en los inventarios de las empresas. Esta presunción admite prueba en contrario.
 
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+VI.- El arrendamiento financiero.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
 ###### ARTICULO 9o.
 
 No se pagará el impuesto en la enajenación de los siguientes bienes:
@@ -148,43 +208,17 @@ I.- El suelo.
 
 II.- Construcciones adheridas al suelo, destinadas o utilizadas para casa habitación. Cuando sólo parte de las construcciones se utilicen o destinen a casa habitación, no se pagará el impuesto por dicha parte. Los hoteles no quedan comprendidos en esta fracción.
 
-III.- Animales y vegetales, que no estén industrializados.
+III.- Libros, periódicos y revistas, así como el derecho para usar o explotar una obra, que realice su autor.
 
-IV.- Carne en estado natural.
+IV.- Bienes muebles usados, a excepción de los enajenados por empresas.
 
-V.- Tortillas, masa, harina y pan, sean de maíz o trigo.
+V .- Billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos o juegos con apuestas y concursos de toda clase, así como los premios respectivos, a que se refiere la Ley del Impuesto sobre la Renta.
 
-VI.- Leche natural y huevo, cualquiera que sea su presentación.
+VI.- Moneda nacional y moneda extranjera, así como las piezas de oro o de plata que hubieran tenido tal carácter y las piezas denominadas "onza troy”.
 
-VII.- Azúcar, mascabado y piloncillo.
+VII.- Partes sociales, documentos pendientes de cobro y títulos de crédito, con excepción de certificados de depósito de bienes cuando por la enajenación de dichos bienes se esté obligado a pagar este impuesto. En la enajenación de documentos pendientes de cobro, no queda comprendida la enajenación del bien que ampare el documento.
 
-VIII.- Sal.
-
-IX.- Agua no gaseosa ni compuesta, excepto hielo.
-
-X.- Ixtle.
-
-XI.- Libros, periódicos y revistas, así como el derecho para usar o explotar una obra, que realice su autor.
-
-XII.- Maquinaria y equipo que únicamente sean susceptibles de ser utilizados en la agricultura o ganadería, así como los fertilizantes. No quedan comprendidos en esta fracción la maquinaria y equipo para industrializar los productos agrícolas y ganaderos.
-
-XIII.- Bienes muebles usados, a excepción de los enajenados por empresas.
-
-XIV.- Billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos y juegos permitidos, así como los premios respectivos siempre que sean objeto de la Ley Federal del Impuesto sobre Loterías, Rifas, Sorteos y Juegos Permitidos.
-
-XV.- Moneda nacional y monedas extranjeras.
-
-XVI.- Partes sociales y títulos de crédito, con excepción de certificados de depósito de bienes cuando por la enajenación de dichos bienes se esté obligado a pagar este impuesto.
-
-XVII.- Los que enajenen instituciones de crédito, que sean de su propiedad. No quedan comprendidos en esta exención la enajenación de construcciones adheridas al suelo que no se destinen o utilicen para casa habitación ni la de bienes recibidos en fideicomiso.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
-
-XVIII.- Los que sin propósito de lucro enajenen en beneficio exclusivo de sus agremiados, miembros o trabajadores, según sea el caso, las tiendas que establezcan los sindicatos obreros, las organizaciones ejidales y comunales que operen en los términos de la Ley de Reforma Agraria, así como las dependencias y organismos públicos que señale la Secretaría de Hacienda y Crédito Público en disposiciones de carácter general.
-
-Para los efectos de las fracciones III y XII de este precepto se considera que se industrializan los productos cuando se modifica su estado, forma o composición.
-
-El consumo de los alimentos a que se refiere este artículo, que se realice en el mismo lugar o establecimiento en que se enajenen, se considerará prestación de servicios sujeta al pago del impuesto establecido en esta Ley.
+VIII.- Los que sin propósito de lucro enajenen en beneficio exclusivo de sus agremiados, miembros o trabajadores, según sea el caso, las tiendas que establezcan los sindicatos obreros, las organizaciones ejidales y comunales que operen en los términos de la Ley de Reforma Agraria, así como las dependencias y organismos públicos que señale la Secretaría de Hacienda y Crédito Público en disposiciones de carácter general.
 
 ###### ARTICULO 10.
 
@@ -198,7 +232,9 @@ Se considera que se efectúa la enajenación de los bienes en el momento en que 
 
 I.- Se envíe el bien al adquirente. A falta de envío, al entregarse materialmente el bien. No se aplicará esta fracción cuando la persona a la que se envíe o entregue el bien, no tenga obligación de recibirlo o de adquirirlo.
 
-II.- Se pague parcial o totalmente el precio.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+II.- Se pague parcial o totalmente el precio, salvo en los casos que esta Ley señale.
 
 III.- Se expida el documento que ampare la enajenación.
 
@@ -208,13 +244,21 @@ III.- Se expida el documento que ampare la enajenación.
 
 Para calcular el impuesto tratándose de enajenaciones se considerará como valor el precio pactado, así como las cantidades que además se carguen o cobren al adquirente por otros impuestos, derechos, intereses normales o moratorios, penas convencionales o cualquier otro concepto. A falta de precio pactado se estará al valor que los bienes tengan en el mercado, o en su defecto al de avalúo.
 
-Las cantidades que se adicionen al precio en los términos del párrafo que antecede, salvo los intereses, cuyo importe y exigibilidad dependan de circunstancias posteriores a la enajenación, darán lugar al pago del impuesto al valor agregado en el mes en que sean exigibles.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+Los intereses moratorios y penas convencionales, darán lugar al pago del impuesto al valor agregado en el mes en que se paguen.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+En las enajenaciones en abonos se podrá diferir el impuesto, en los términos y la forma que señale el Reglamento. Tratándose de arrendamiento financiero, al impuesto que corresponda a la operación, se le aplicará el por ciento que señala la Ley del Impuesto sobre la Renta para determinar el monto original de la inversión y la diferencia será el impuesto que podrá diferirse, en los términos que señale el Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+Tratándose de pagos anticipados que reciba el enajenante de bienes de capital, antes de enviar o entregar materialmente el bien, el impuesto se cubrirá en el momento en que se efectúe cada pago anticipado y sobre el monto del mismo; al enviarse o entregarse el bien, se pagará la diferencia de impuesto que resulte por el total de la operación.
 
 ###### ARTICULO 13.
 
-En la primera enajenación de los bienes a que se refiere la fracción XII del artículo 9o. de esta Ley, se acreditarán o devolverán las cantidades que por impuesto al valor agregado se hubieran trasladado al enajenante o éste hubiese pagado con motivo de importación de bienes o servicios, que correspondan a los bienes por los que se efectúe la primera enajenación. En caso de devolución su monto será el 10% del valor de las enajenaciones hasta agotar el saldo pendiente de acreditar que exista en el mes de que se trate.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1980)
 
 ### CAPITULO III. DE LA PRESTACION DE SERVICIOS
 
@@ -244,23 +288,45 @@ I.- Los prestados directamente por la Federación, Distrito Federal, Estados y M
 
 II.- Los prestados por instituciones públicas de seguridad social.
 
-III.- Los prestados en forma gratuita.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+III.- Los prestados en forma gratuita, excepto cuando los beneficiarios sean los miembros, socios o asociados de la persona moral que preste el servicio.
 
 IV.- Los de enseñanza, que presten los organismos descentralizados y los establecimientos de particulares que tengan autorización o reconocimiento de validez oficial de estudios, en los términos de la Ley Federal de Educación.
 
-V.- El transporte público de personas, excepto cuando requiera de concesión o permiso federal para operar.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
-VI.- Los prestados directamente a los agricultores y ganaderos por concepto de perforación de pozos; alumbramiento y formación de retenes de agua; desmontes y caminos en el interior de las fincas; preparación de terrenos, riego y fumigación agrícola; cosecha y recolección; así como vacunación, desinfección e inseminación artificial de ganado, siempre que sean indispensables para la realización de actividades agrícolas o ganaderas.
+V.- El transporte público terrestre de personas, excepto por ferrocarril, y el que requiera de concesión o permiso federal para operar.
 
-VII.- Los de maquila de harina o masa, de maíz o trigo.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
-VIII.- Los de pasteurización de leche.
+VI.- El transporte marítimo de bienes efectuado por personas no residentes en el país.
+
+VII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1980)
+
+VIII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1980)
 
 IX.- El aseguramiento contra riesgos agropecuarios y los seguros de vida, ya sea que cubran el riesgo de muerte u otorguen rentas vitalicias o pensiones, así como las comisiones de agentes y los reaseguros, que correspondan a los seguros citados.
 
-X.- Los prestados por instituciones de crédito y las comisiones de sus agentes y corresponsales.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
-XI.- Los prestados por bolsas de valores con concesión para operar y por casas de bolsa, así como las comisiones de agentes y corredores de bolsa.
+X.- Por los que deriven intereses y toda otra contraprestación distinta del principal que:
+
+a).- Deriven de operaciones en las que el enajenante, el prestador del servicio o quien conceda el uso o goce temporal de bienes, proporcione financiamiento relacionado con actos o actividades por los que no se esté obligado al pago de este impuesto o a los que se les aplique la tasa del 0%.
+
+b).- Reciban o paguen las instituciones de crédito y las uniones de crédito, en operaciones de financiamiento, para las que requieran de concesión o autorización y por concepto de descuento en documentos pendientes de cobro, así como las comisiones de los agentes y corresponsales de las instituciones de crédito por dichas operaciones.
+
+c).- Reciban las instituciones de fianzas, las de Seguros y las Sociedades mutualistas de seguros, en operaciones de financiamiento.
+
+d) Paguen los trabajadores a sus patrones en operaciones de mutuo, así como los pagados por los derechohabientes a instituciones de seguridad social.
+
+e).- Provengan de cajas de ahorro de los trabajadores, y de fondos de ahorro establecido por las empresas siempre que reúna los requisitos de deducibilidad en los términos de la Ley del Impuesto sobre la Renta.
+
+f).- Deriven de obligaciones emitidas conforme a lo dispuesto en la Ley General de Títulos y Operaciones de Crédito.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+XI.- Los prestados por bolsas de valores con concesión para operar y por casas de bolsa, así como las comisiones de agentes, corredores y promotores de bolsa.
 
 XII.- Los proporcionados a sus miembros como contraprestación normal por sus cuotas y siempre que los servicios que presten sean únicamente los relativos a los fines que les sean propios, tratándose de:
 
@@ -272,7 +338,9 @@ c).- Cámaras de comercio, industria, agricultura, ganadería o pesca, así como
 
 d).- Asociaciones patronales y colegios de profesionales.
 
-e).- Agrupaciones organizadas con fines científicos, políticos, religiosos y culturales.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+e).- Asociaciones o sociedades civiles organizadas con fines científicos, políticos, religiosos y culturales, a excepción de aquellas que proporcionen servicios con instalaciones deportivas cuando el valor de éstas representen más del 50% del total de las instalaciones.
 
 XIII.- Los de espectáculos públicos por el boleto de entrada. No se consideran espectáculos públicos los prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos.
 
@@ -302,11 +370,15 @@ En la prestación de servicios se tendrá obligación de pagar el impuesto en el
 
 Para calcular el impuesto tratándose de prestación de servicios se considerará como valor el total de la contraprestación pactada, así como las cantidades que además se carguen o cobren a quien reciba el servicio por otros impuestos, derechos, viáticos, gastos de toda clase, reembolsos, intereses normales o moratorios, penas convencionales y cualquier otro concepto.
 
-En el caso de mutuo y otras operaciones de financiamiento, se considerará como valor los intereses y toda otra contraprestación distinta del principal que reciba el acreedor.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
-No se pagará el impuesto por los intereses y toda otra contraprestación distinta del principal que reciban o paguen las instituciones de crédito y las uniones de crédito, en operaciones de financiamiento para las que requieran concesión o autorización; ni los que paguen los asegurados en operaciones de seguro de vida.
+Tratándose de personas morales que presten servicios preponderantemente a sus miembros, socios o asociados, los pagos que éstos efectúen, incluyendo aportaciones al capital para absorber pérdidas, se considerarán como valor para efecto del cálculo del impuesto.
 
-Por los intereses derivados de préstamos que los trabajadores cubran a sus patrones, no se pagará el impuesto a que esta Ley se refiere.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+En el caso de mutuo y otras operaciones de financiamiento, se considerará como valor los intereses y toda otra contraprestación distinta del principal que reciba al acreedor.
+
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 ### CAPITULO IV. DEL USO O GOCE TEMPORAL DE BIENES
 
@@ -326,7 +398,7 @@ II.- Inmuebles destinados o utilizados exclusivamente para casa-habitación. Si 
 
 III.- Fincas dedicadas o utilizadas sólo a fines agrícolas o ganaderos.
 
-IV.- Maquinaria y equipo que únicamente sean susceptibles de ser utilizados en la agricultura o ganadería. No quedan comprendidos en esta fracción la maquinaria y equipo para industrializar los productos agrícolas o ganaderos.
+IV.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1980)
 
 V.- Libros, periódicos y revistas.
 
@@ -350,7 +422,9 @@ Para calcular el impuesto en el caso de uso o goce temporal de bienes, se consid
 
 Para los efectos de esta Ley, se considera importación de bienes o de servicios:
 
-I.- La introducción al país de bienes extranjeros.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+I.- La introducción al país de bienes.
 
 II.- La adquisición por personas residentes en el país de bienes intangibles enajenados por personas no residentes en él.
 
@@ -368,7 +442,13 @@ I.- Las que, en los términos de la legislación aduanera, no lleguen a consumar
 
 II.- Las de equipajes y menajes de casa a que se refiere el Código Aduanero.
 
-III.- Las de bienes cuya enajenación en el país no dé lugar al pago del impuesto al valor agregado. No quedan comprendidos en esta fracción los bienes muebles usados.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+III.- Las de bienes cuya enajenación en el país y la de servicios por cuya prestación en territorio nacional, no den lugar al pago del impuesto al valor agregado o se les aplique la tasa del 0%. No quedan comprendidos en esta fracción los bienes muebles usados.
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+IV.- Las de bienes donados por residentes en el extranjero a la Federación, entidades federativas, municipios o a cualquier otra persona que mediante reglas de carácter general autorice la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 26.
 
@@ -396,15 +476,21 @@ Para calcular el impuesto al valor agregado tratándose de importación de biene
 
 El valor que se tomará en cuenta tratándose de importación de bienes o servicios a que se refieren las fracciones II a V del artículo 24 será el que les correspondería en esta Ley por enajenación de bienes, uso o goce de bienes o prestación de servicios, en territorio nacional, según sea el caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 ###### ARTICULO 28.
 
-Tratándose de la importación de bienes tangibles, el pago se hará conjuntamente con el del impuesto general de importación, inclusive cuando el pago del segundo se difiera en virtud de encontrarse los bienes en depósito fiscal en los almacenes generales de depósito, sin que contra dicho pago se acepte acreditamiento o compensación. El impuesto al valor agregado pagado al importar bienes dará lugar a acreditamiento en los términos y con los requisitos del artículo 4o. de esta Ley.
+Tratándose de la importación de bienes tangibles, el pago tendrá el carácter de provisional y se hará conjuntamente con el del impuesto general de importación, inclusive cuando el pago del segundo se difiera en virtud de encontrarse los bienes en depósito fiscal en los almacenes generales de depósito, sin que contra dicho pago se acepte el acreditamiento o compensación.
 
-No podrán retirarse mercancías de la aduana o recinto fiscal o fiscalizado sin que previamente quede hecho el pago que corresponda conforme a esta Ley.
+Cuando se trate de bienes por los que no se esté obligado al pago del impuesto general de importación, los contribuyentes efectuarán el pago del impuesto que esta Ley establece, mediante declaración que presentarán ante la aduana correspondiente.
+
+El impuesto al valor agregado pagado al importar bienes dará lugar a acreditamiento en los términos y con los requisitos del artículo 4o. de esta Ley.
+
+No podrán retirarse mercancías de la aduana o recinto fiscal o fiscalizado, sin que previamente quede hecho el pago que corresponde conforme a esta Ley.
 
 ### CAPITULO VII. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 ###### ARTICULO 29.
 
@@ -422,9 +508,27 @@ III.- El uso o goce temporal, en el extranjero, de bienes intangibles proporcion
 
 IV.- El aprovechamiento en el extranjero de servicios prestados por residentes en el país, por concepto de:
 
-a).- Asistencia técnica.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+a).- Asistencia técnica, servicios técnicos relacionados con ésta e informaciones relativas a experiencias industriales, comerciales o científicas.
 
 b).- Operaciones de maquila para exportación en los términos del Reglamento del párrafo tercero del artículo 321 del Código Aduanero de los Estados Unidos Mexicanos para la industria maquiladora.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+c).- Publicidad.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+d).- Comisiones y mediaciones.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+e).- Seguros y reaseguros, así como afianzamientos y reafianzamientos.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+f).- Operaciones de financiamiento.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -438,9 +542,7 @@ VI.- La transportación aérea de personas, prestada por residentes en el país,
 
 El exportador de bienes o servicios, en los casos mencionados en el artículo anterior, podrá elegir entre el acreditamiento o la devolución de las cantidades a que se refiere el artículo 4o., que correspondan a los bienes o servicios exportados, incluso cuando se trate de los supuestos previstos en los artículos 9o. y 15 de esta Ley. También procederá el acreditamiento o la devolución cuando las empresas residentes en el país exporten bienes tangibles para enajenarlos o para conceder su uso o goce en el extranjero.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
-
-La devolución se hará por el 10% del valor de los bienes o servicios exportados hasta agotar el saldo pendiente de acreditar que exista en el mes de que se trate.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -458,23 +560,47 @@ Cuando se exporten bienes intangibles o se otorgue su uso o goce temporal en el 
 
 ###### ARTICULO 32.
 
-Los obligados al pago de este impuesto tienen, además de las obligaciones señaladas en otros artículos de esta Ley, las siguientes:
+Los obligados al pago de este impuesto y las personas que realicen los actos y actividades a que se refiere el artículo 2o.-A tienen, además de las obligaciones señaladas en otros artículos de esta Ley, las siguientes:
 
-I.- Llevar los libros de contabilidad y registros que señale el Reglamento y efectuar, conforme al mismo, la separación de las operaciones por las que deba pagarse el impuesto, de aquéllas por las cuales esta Ley libera de pago, así como aquéllas por las que proceda acreditamiento de las que no den lugar a este derecho.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+I.- Llevar los libros de contabilidad y registros que señale el Reglamento y efectuar, conforme al mismo, la separación de los actos o actividades de las operaciones por los que deba pagarse el impuesto por las distintas tasas, de aquellos por los cuales esta Ley libera de pago.
 
 II.- Realizar, tratándose de comisionistas, la separación en su contabilidad y registros de las operaciones que lleven a cabo por cuenta propia de las que efectúen por cuenta del comitente.
 
 III.- Expedir documentos que comprueben el valor de la contraprestación pactada, señalando en los mismos, expresamente y por separado, el impuesto al valor agregado que se traslada a quien adquiera los bienes, los use o goce temporalmente, o reciba los servicios. Dichos documentos deberán entregarse o enviarse a quien efectúa o deba efectuar la contraprestación, dentro de los 15 días naturales siguientes a aquél en el que realicen los supuestos señalados en los artículos 11, 17 y 22 de esta Ley.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
-IV.- Presentar en las oficinas autorizadas las declaraciones señaladas en esta Ley, aun cuando por alguno de los meses o por el ejercicio no hayan realizado actos o actividades por los que se deba pagar el impuesto o habiéndolos realizado no resulte cantidad a pagar, en tanto no presenten los avisos correspondientes conforme al Reglamento del Registro Federal de Causantes. Si un contribuyente tuviera varios establecimientos, presentará por todos ellos una sola declaración, mensual o del ejercicio, según se trate, en las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente. Lo dispuesto en este párrafo no es aplicable a los casos señalados en los artículos 28 y 33 de esta Ley.
+La Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general, podrá establecer que se incluya en el valor de la contraprestación pactada el monto del impuesto al valor agregado, cuando se trate de actos o actividades que por su monto o por tratarse de determinadas ramas de actividades, considere conveniente otorgar estas facilidades.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+En todo caso, los contribuyentes estarán obligados a trasladar el impuesto en forma expresa y por separado en la documentación a que se refiere esta fracción, cuando el adquirente, el prestatario del servicio o quien use o goce temporalmente el bien, así lo solicite.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+IV.- Presentar en las oficinas autorizadas las declaraciones señaladas en esta ley. Si un contribuyente tuviera varios establecimientos, presentará por todos ellos una sola declaración, mensual o del ejercicio, según se trate, en las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente. Lo dispuesto en esta fracción no es aplicable a los casos señalados en los artículos 28 y 33 de esta Ley.
 
 Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el país, con cuya intervención éstas efectúen actividades por las que deba pagarse impuesto conforme a esta Ley, están obligados a formular a nombre de sus representadas las declaraciones correspondientes y pagar el impuesto respectivo, por el que tendrán responsabilidad solidaria.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+Los contribuyentes dedicados a la agricultura, ganadería o pesca, comercial, por cuyas actividades únicamente sea aplicable la tasa del 0%, podrán optar por quedar liberados de las obligaciones establecidas en las fracciones I, II y IV, de este artículo y en ese caso, no tendrán derecho a devolución.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+Los contribuyentes que tengan en copropiedad una negociación, designarán representante común previo aviso de tal designación ante las autoridades fiscales, y será éste quien a nombre de los copropietarios cumpla con las obligaciones establecidas en esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+En el caso de que los ingresos deriven de actos o actividades que realice una sucesión, el representante legal de la misma pagará el impuesto presentando declaraciones mensuales y del ejercicio, por cuenta de los herederos o legatarios.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
 ###### ARTICULO 33.
 
-Cuando se enajene un bien o se preste un servicio en forma accidental, por los que deba pagar impuesto en los términos de esta Ley, el contribuyente lo pagará mediante declaración que presentará en las oficinas autorizadas, dentro de los 15 días hábiles siguientes a aquél en el que obtenga la contraprestación. En esta caso no formulará declaración anual ni mensual ni llevará contabilidad; pero deberá expedir los documentos que señala la fracción III del artículo anterior y conservar la documentación correspondiente durante 5 años.
+Cuando se enajene un bien o se preste un servicio en forma accidental, por los que deba pagar impuesto en los términos de esta Ley, el contribuyente lo pagará mediante declaración que presentará en las oficinas autorizadas, dentro de los 15 días hábiles siguientes a aquél en el que obtenga la contraprestación, sin que contra dicho pago se acepte acreditamiento. En las importaciones ocasionales el pago se hará como lo establece el artículo 28 de esta Ley. En estos casos no formulará declaración anual ni mensual ni llevará contabilidad; pero deberá expedir los documentos que señala la fracción III del artículo anterior y conservar la documentación correspondiente durante 5 años.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -486,17 +612,23 @@ Cuando la contraprestación que reciba el contribuyente no sea en dinero, sino t
 
 En las permutas y pagos en especie, el impuesto al valor agregado se deberá pagar por cada bien cuya propiedad se trasmita, o cuyo uso o goce temporal se proporcione, o por cada servicio que se preste.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
 ###### ARTICULO 35.
 
-Las personas físicas que enajenen bienes o presten servicios, cuando sean causantes menores conforme a la Ley del Impuesto sobre la Renta, pagarán el impuesto al valor agregado en los términos de esta Ley, salvo que las autoridades fiscales les estimen el valor de sus actividades por las que se deba pagar impuesto. En este último caso, se observarán las siguientes disposiciones:
+Las personas físicas que enajenen bienes o presten servicios, cuando sean contribuyentes menores conforme a la Ley del Impuesto sobre la Renta pagarán el impuesto al valor agregado en los términos de esta Ley, salvo que las autoridades fiscales les estimen el valor de sus actividades por las que se deba pagar impuesto. En este último caso, se observarán las siguientes disposiciones:
 
 I.- Las personas mencionadas llevarán los registros simplificados de sus operaciones que determine la Secretaría de Hacienda y Crédito Público.
 
-II.- Dichas personas no tendrán obligación de calcular ni de declarar mensualmente el monto de las contraprestaciones que correspondan a sus actividades por las que deban pagar el impuesto. Las autoridades fiscales estimarán el monto mensual citado sobre el cual aplicarán el 10% o el 6% señalados en los artículos 1o. y 2o., de esta Ley, respectivamente.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+II.- Dichas personas no tendrán obligación de calcular ni declarar mensualmente el monto de las contraprestaciones que correspondan a sus actividades por las que deban pagar el impuesto. Las autoridades fiscales estimarán el monto mensual citado sobre el cual aplicarán el 10%, el 6% o el 0% señalados en los artículos 1o., 2o. y 2o.-A de esta Ley, respectivamente.
 
 III.- Del impuesto mensual resultante, el contribuyente podrá deducir el impuesto al valor agregado que le hubieran trasladado, siempre que tenga en su poder la documentación que reúna los requisitos de esta Ley y de su Reglamento, que ampare sus adquisiciones uso o goce temporal de bienes y servicios recibidos. La diferencia resultante será la cantidad que el contribuyente deberá pagar a las oficinas autorizadas, a más tardar el día 15 de cada mes o al día siguiente hábil si aquél no lo fuera.
 
-IV.- La estimación hecha por las autoridades fiscales se mantendrá indefinidamente hasta que las propias autoridades formulen una nueva.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+IV.- La estimación hecha por las autoridades fiscales se mantendrá indefinidamente hasta que las propias autoridades formulen una nueva. A partir del primer pago provisional que corresponda a cada año de calendario, la estimación se incrementará en la cantidad que resulte de aplicarle el factor que en su caso señale anualmente el Congreso de la Unión.
 
 V.- Cuando de las comprobaciones que lleven a cabo las autoridades fiscales aparezca que el total de las contraprestaciones reales por las que el contribuyente deba pagar el impuesto al valor agregado es superior en más de un 20% a la última estimación practicada, se rectificará ésta y se cobrarán las diferencias que procedan más los recargos de Ley, salvo que el contribuyente solicite espontáneamente a las autoridades fiscales la rectificación de la estimación.
 
@@ -518,11 +650,13 @@ Importe de compras efectuadas; inventarios de mercancías, de maquinaria y equip
 
 Cuando se omita la presentación de una o más declaraciones para el pago del impuesto establecido en esta Ley, transcurridos 10 días a partir del siguiente a aquél en el que se haya vencido el plazo en el cual el contribuyente debió presentarlas, las autoridades fiscales podrán hacerle efectivo un impuesto igual al que se hubiera pagado con cualquiera de las seis últimas declaraciones mensuales o con la anual, según corresponda, con las modificaciones que, en su caso, hubiese tenido con motivo del ejercicio de las facultades de comprobación de las autoridades fiscales. Este impuesto podrá ser rectificado por las autoridades fiscales. Los contribuyentes continuarán obligados a presentar las declaraciones omitidas, caso en el que el impuesto pagado se deducirá del que resulte de dicha declaración, que podrá ser objeto de comprobación. Las facultades de las autoridades fiscales establecidas en este artículo, se ejercitarán sin perjuicio de las demás que confieren las leyes a dichas autoridades.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
 ###### ARTICULO 39.
 
-Las autoridades fiscales podrán determinar estimativamente el valor de las actividades por las que se debe pagar impuesto al valor agregado, en los casos a que se refieren las fracciones I a IV del artículo 32 de la Ley del Impuesto sobre la Renta. Para estos efectos, calcularán las contraprestaciones totales recibidas por el contribuyente en el ejercicio de que se trate, utilizando los datos de su contabilidad y documentación o tomarán como base los contenidos en la declaración del impuesto sobre la renta correspondiente al mismo ejercicio o a uno anterior, con las modificaciones que en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación; o bien, estimarán el valor por los medios indirectos de la investigación económica o de cualquier otra clase.
+Las autoridades fiscales podrán determinar presuntivamente el valor de las actividades por las que se debe pagar impuesto al valor agregado, en los casos a que se refiere las fracciones I a IV del artículo 61 de la Ley del Impuesto sobre la Renta. Para estos efectos, calcularán las contraprestaciones totales recibidas por el contribuyente en el ejercicio de que se trate, utilizando los datos de su contabilidad y documentación o tomarán como base los contenidos en la declaración del impuesto sobre la renta correspondiente al mismo ejercicio o a uno anterior, con las modificaciones que, en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación; o bien, determinarán presuntivamente el valor por los medios indirectos de la investigación económica o de cualquiera otra clase.
 
-Al importe de la determinación estimativa se aplicará la tasa del impuesto que corresponda conforme a esta Ley y el resultado se reducirá con las cantidades acreditables que compruebe.
+Al importe de la determinación presuntiva se aplicará la tasa del impuesto que corresponda conforme a esta Ley y el resultado se reducirá con las cantidades acreditables que compruebe.
 
 ###### ARTICULO 40.
 
@@ -544,13 +678,21 @@ La Secretaría de Hacienda y Crédito Público celebrará convenio con los Estad
 
 I.- Los actos o actividades por los que deba pagarse el impuesto al valor agregado o sobre las prestaciones o contraprestaciones que deriven de los mismos, ni sobre la producción de bienes cuando por su enajenación deba pagarse dicho impuesto.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
-II.- La enajenación de bienes o prestación de servicios cuando una u otras se exporten o sean de los señalados en el artículo 13 de esta Ley.
+II.- La enajenación de bienes o prestación de servicios cuando una u otra se exporten o sean de los señalados en el artículo 2o-A de esta Ley.
 
-III.- Los bienes que integran el activo o sobre el capital de las empresas.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
-IV.- Los intereses pagados a instituciones de crédito o a bancos del extranjero.
+III.- Los bienes que integren el activo o sobre la utilidad o el capital de las empresas.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+IV.- Intereses, los títulos de crédito y los productos o rendimientos derivados de su propiedad o enajenación.
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+V.- El uso o goce temporal de casa habitación.
 
 Tampoco mantendrán impuestos locales o municipales de carácter adicional sobre las participaciones en gravámenes federales que les correspondan.
 
@@ -685,3 +827,39 @@ ARTICULO TRIGESIMO TERCERO.- El Distrito Federal y los Estados que se adhieran a
 I.- Embarcaciones, maquinaria y equipo que úni-únicamente (sic) sean susceptibles de ser utilizados en la explotación pesquera.
 
 II.- Alimentos balanceados para animales y las materias primas necesarias para producirlos, productos de medicina veterinaria, así como insecticidas, herbicidas y fungicidas.
+
+D.O.F. 30 DE DICIEMBRE DE 1980.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor en toda la República, el día 1o. de enero de 1981.
+
+###### ARTICULO SEGUNDO.
+
+Al entrar en vigor la presente Ley, quedarán derogadas las disposiciones siguientes:
+
+l.- Los artículos 16 y 17 de la Ley que Reforma y Adiciona Diversas Leyes que Rigen Impuestos Federales y Establece Vigencia Propia para Disposiciones Consignadas en Anteriores Leyes de Ingresos de la Federación de fecha 28 de diciembre de 1966, publicada en el "Diario Oficial" de la Federación el día 31 del mismo mes y año, que establecieron los impuestos sobre las Erogaciones por Remuneración al Trabajo Personal Prestado bajo la Dirección y Dependencia de un Patrón y sobre Compraventa de Primera Mano de Cacao que se produzca en territorio nacional, respectivamente.
+
+ll.- Decreto de 20 de junio de 1945 que establece un impuesto sobre compraventa de primera mano de ixtle de lechuguilla y palma que se produzca en territorio nacional, publicado en el "Diario Oficial" de la Federación de 29 del mismo mes y año.
+
+###### ARTICULO CUARTO.
+
+Los contribuyentes que al 1o. de enero de 1981 se encuentren inscritos en el Registro Federal de Causantes, no estarán obligados a inscribirse nuevamente y deberán utilizar la clave que les haya sido asignada por la Secretaría de Hacienda y Crédito Público. Se podrá seguir utilizando formas, avisos y constancias que hagan referencia al número de Registro Federal de Causantes en vez de a la clave del Registro Federal de Contribuyentes.
+
+Las disposiciones fiscales que mencionen el Registro Federal de Causantes, se considerarán referidas al Registro Federal de Contribuyentes.
+
+###### ARTICULO SEPTIMO.
+
+Para los efectos de la fracción l inciso b), subinciso 2 del Artículo 2o.-A de la Ley del Impuesto al Valor Agregado, durante 1981 se estará a lo señalado por la Ley del Impuesto sobre Compraventa de Primera Mano de Aguas Envasadas y Refrescos.
+
+###### ARTICULO OCTAVO.
+
+Los contribuyentes que queden comprendidos en el artículo 35 de la Ley del Impuesto al Valor Agregado, continuarán pagando durante el año de 1981, la misma cuota que les hubieren fijado o les fijen las autoridades fiscales, la cual se considerará equivalente a la diferencia entre el monto del impuesto establecido en este ordenamiento y las cantidades, que de acuerdo con el mismo pudieren ser acreditadas.
+
+Tratándose de contribuyentes menores que realicen actos o actividades a los que se les aplique la tasa del 0%, la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, establecerá los casos en que podrán acreditar el impuesto que resulte de aplicar las tasas de dicha Ley al monto de las contraprestaciones por las que se deba pagar el impuesto al valor agregado, el monto trasladado a dichos contribuyentes en documentación que reúna los requisitos fiscales, así como la forma en que deberán cumplir con las obligaciones señaladas en los artículos 35 y 36 de la misma Ley.
+
+###### ARTICULO DECIMO PRIMERO.
+
+Los contribuyentes que durante 1981 realicen actividades agropecuarias como ejidatarios, comuneros, colonos o pequeños propietarios en superficies equivalentes a 20 hectáreas de riego teórico en los términos de la Ley Federal de Reforma Agraria, podrán tener derecho a la devolución del Impuesto al Valor Agregado aun cuando no lleven los libros de contabilidad que señale el Reglamento de la Ley de la materia. El trámite de devolución deberá ajustarse a los requisitos que señale la Secretaría de Hacienda y Crédito Público en reglas de carácter general.
