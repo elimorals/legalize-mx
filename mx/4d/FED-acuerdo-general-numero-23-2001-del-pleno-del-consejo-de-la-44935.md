@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2001-12-13"
+last_updated: "2002-06-12"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2002.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -119,7 +119,9 @@ I.- PRIMER CIRCUITO:
 
 II.- SEGUNDO CIRCUITO:
 
-1.- Diez tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, cuatro en materia civil y uno en materia de trabajo, todos con residencia en Toluca.
+> <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 27/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2002)</small>
+
+1.- Diez tribunales colegiados especializados: dos en materia penal, uno en materia administrativa, cuatro en materia civil y uno en materia de trabajo, con residencia en Toluca y dos tribunales colegiados en materia administrativa, con residencia en Naucalpan de Juárez.
 
 2.- Tres tribunales unitarios: dos con sede en Toluca y uno con residencia en Ciudad Nezahualcóyotl.
 
@@ -147,9 +149,9 @@ IV.- CUARTO CIRCUITO:
 
 2.- Dos tribunales unitarios con residencia en Monterrey.
 
-> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 87/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 26/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2002)</small>
 
-3.- Nueve juzgados de distrito en el Estado de Nuevo León, con sede en Monterrey.
+3.- Diez juzgados de Distrito en el Estado de Nuevo León, con sede en Monterrey.
 
 V.- QUINTO CIRCUITO:
 
@@ -297,9 +299,9 @@ XIX.- DECIMONOVENO CIRCUITO:
 
 2.- Cuatro tribunales unitarios: uno con sede en Ciudad Victoria, uno con residencia en Matamoros, uno con sede en Reynosa y uno con residencia en Nuevo Laredo.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 52/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 26/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2002)</small>
 
-3.- Doce juzgados de distrito en el Estado de Tamaulipas: dos con residencia en Ciudad Victoria; tres con sede en Nuevo Laredo; dos con residencia en Matamoros; tres con sede en Reynosa; y dos con residencia en Tampico.
+3.- Once juzgados de Distrito en el Estado de Tamaulipas: dos con sede en Ciudad Victoria, dos con residencia en Nuevo Laredo, dos con sede en Matamoros, tres con residencia en Reynosa y dos con sede en Tampico.
 
 XX.- VIGESIMO CIRCUITO:
 
@@ -379,7 +381,17 @@ TERCERO.- La jurisdicción territorial de los tribunales colegiados y unitarios 
 
 I.- PRIMER CIRCUITO: Distrito Federal.
 
-II.- SEGUNDO CIRCUITO: Respecto de los tribunales colegiados es el Estado de México.
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 27/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2002)</small>
+
+II.- SEGUNDO CIRCUITO: Respecto de los tribunales colegiados en materia penal, en materia civil y en materia de trabajo, es el Estado de México.
+
+> <small>(ADICIONADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 27/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2002)</small>
+
+La del Primer Tribunal Colegiado en Materia Administrativa con residencia en Toluca, será igual a la establecida para los juzgados de Distrito en el Estado de México, con sede en dicha ciudad.
+
+> <small>(ADICIONADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 27/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2002)</small>
+
+Por lo que hace al Segundo y Tercer Tribunales Colegiados en Materia Administrativa con residencia en Naucalpan de Juárez, será la misma que la establecida para los juzgados de Distrito en el Estado de México, con residencia en la citada ciudad y en Ciudad Nezahualcóyotl.
 
 Por lo que toca a los tribunales unitarios con residencia en Toluca, su jurisdicción territorial será el Estado de México, con la excepción señalada en el párrafo siguiente.
 
@@ -888,3 +900,21 @@ ACUERDO 90/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL P
 PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 12 DE JUNIO DE 2002.
+
+ACUERDO 26/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NUMERO 3, APARTADOS IV Y XIX.
+
+PRIMERO.- Este acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos atenderán la situación laboral del personal adscrito al Juzgado Decimoprimero de Distrito en el Estado de Tamaulipas, con residencia en Nuevo Laredo, en los términos establecidos en el Dictamen por el que se autorizó su traslado a Monterrey, Nuevo León.
+
+D.O.F. 12 DE JUNIO DE 2002.
+
+ACUERDO 27/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NUMERO 1, APARTADOS II Y PUNTO TERCERO APARTADO II.
+
+PRIMERO.- Este acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
