@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1975-10-24"
+last_updated: "1976-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE OCTUBRE DE 1975.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE ENERO DE 1976.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -437,9 +437,9 @@ XXXII.- determinar según las necesidades locales, el número máximo de Ministr
 
 XXXIII.- erigirse en Jurado de Acusación para los altos funcionarios de que tratan los artículos 97 y 98;
 
-> <small>(REFORMADA, D.O.28 DE ENERO DE 1970)</small>
+> <small>(REFORMADA, D.O.27 DE ENERO DE 1976)</small>
 
-XXXIV.- Citar al Director General de Gobernación para que informe cuando se discuta una Ley o se estudie un negocio que se relacione con el Ejecutivo;
+XXXIV.- Citar al Secretario de Gobierno para que informe cuando se discuta una Ley o se estudie un negocio que se relacione con el Ejecutivo;
 
 XXXV.- expedir las bases generales de Policía y Buen Gobierno, a las que deberán sujetarse los Ayuntamientos en la formación de los Reglamentos respectivos;
 
@@ -621,9 +621,9 @@ V.- no ser Ministro de ningún culto;
 
 VI.- no estar en servicio activo, en caso de pertenecer al Ejército o Guardia Nacional, noventa días antes de la elección;
 
-> <small>(REFORMADA, D.O.28 DE ENERO DE 1970)</small>
+> <small>(REFORMADA, D.O.27 DE ENERO DE 1976)</small>
 
-VII.- no ser Director General de alguna de las dependencias del Ejecutivo, a menos que se separe de su puesto noventa días antes de la elección.
+VII.- no ser Secretario de Gobierno, de Asuntos Educativos y Sociales, Oficial Mayor, ni Director o Jefe de alguna de las dependencias del Ejecutivo, a menos que se separe de su puesto noventa días antes de la elección.
 
 VIII.- no estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 48.
 
@@ -645,15 +645,15 @@ El Gobernador Constitucional del Estado, entrará en funciones el día primero d
 
 El Gobernador, al tomar posesión de su encargo, prestará ante el Congreso o ante la Diputación Permanente, en los recesos de aquél, la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, y las Leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado, y si así no lo hiciere, que la Nación y el Estado me lo demanden".
 
-> <small>(REFORMADO, D.O.28 DE ENERO DE 1970)</small>
+> <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
 
 ###### Artículo 50.
 
-Si al comenzar un período constitucional no se presentare el Gobernador Electo, o la elección no estuviere hecha y declarada el día primero de febrero, cesará, sin embargo, el Gobernador cuyo período hubiese concluido y se encargará desde luego del Poder Ejecutivo, con el carácter de Interino el ciudadano que designe el Congreso. Si éste no estuviere reunido, se encargará del despacho provisionalmente el Director General de Gobernación, entre tanto el Congreso designa al Gobernador Interino y convoca a las elecciones en los términos del artículo 52.
+Si al comenzar un período constitucional no se presentare el Gobernador Electo, o la elección no estuviere hecha y declarada el día primero de febrero, cesará, sin embargo, el Gobernador cuyo período hubiere concluido y se encargará desde luego del Poder Ejecutivo, con el carácter de Interino el ciudadano que designe el Congreso. Si éste no estuviere reunido, se encargará del despacho provisionalmente el Secretario de Gobierno, entre tanto el Congreso designa al Gobernador Interino y convoca a las elecciones en los términos del artículo 52.
 
-Si la ausencia del Gobernador Electo se debiere a fuerza, coacción o cualquiera otra causa que le impidan materialmente llenar sus funciones, deberá comprobarse este hecho y, en tal caso, el Gobernador Interino deberá entregarle el Gobierno al legalmente electo.
+Si la ausencia del Gobernador Electo se debiere a fuerza, coacción, o cualquiera otra causa que le impidan materialmente llenar sus funciones, deberá comprobarse este hecho y en tal caso, el Gobernador Interino deberá entregarle el Gobierno al legalmente electo.
 
-> <small>(REFORMADO, D.O.28 DE ENERO DE 1970)</small>
+> <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
 
 ###### Artículo 51.
 
@@ -661,7 +661,7 @@ En las faltas absolutas y en las temporales del Gobernador, el Congreso por mayo
 
 Si al ocurrir dichas faltas del Gobernador, estuviere en funciones la Comisión Permanente, ésta procederá en los términos de la fracción VIII del artículo 43.
 
-Cuando la falta sea temporal, y no exceda de sesenta días, el Director General de Gobernación se encargará del Despacho del Poder Ejecutivo.
+Cuando la falta sea temporal, y no exceda de sesenta días, el Secretario de Gobierno atenderá el Despacho del Poder Ejecutivo.
 
 > <small>(REFORMADO, D.O. 22 DE ENERO DE 1955)</small>
 
@@ -675,17 +675,17 @@ Si la falta del Gobernador fuere absoluta y faltaren tres años o más para term
 
 Nunca podrá ser electo para el periodo inmediato siguiente el ciudadano que bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del periodo.
 
-> <small>(REFORMADO, D.O.28 DE ENERO DE 1970)</small>
+> <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
 
 ###### Artículo 54.
 
-Siempre que ocurra una falta absoluta del Gobernador y mientras se reúne el Congreso y designa Gobernador Interino, se hará cargo del despacho del Poder Ejecutivo el Director General de Gobernación; por falta absoluta o temporal de este funcionario, en los casos en que conforme a la primera parte de esta disposición legal, deba asumir el Ejecutivo del Estado, se encargará de éste el Director General de Administración. En uno u otro caso, el encargado del Poder Ejecutivo hará entrega al Gobernador nombrado por el Congreso inmediatamente que se presente a recibirlo.
+Siempre que ocurra una falta absoluta del Gobernador y mientras se reúne el Congreso y designa Gobernador Interino, se hará cargo del Despacho del Poder Ejecutivo el Secretario de Gobierno; por falta absoluta o temporal de este funcionario, en los casos en que conforme a la primera parte de esta disposición legal, deba asumir el Ejecutivo del Estado, se encargará de éste el Secretario de Asuntos Educativos y Sociales; y a falta de éste, el Oficial Mayor. En cualquiera de estos casos el encargado del Poder Ejecutivo hará entrega al Gobernador nombrado por el Congreso inmediatamente que se presente a recibirlo.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
 ### CAPITULO IV. De la Organización del Poder Ejecutivo
 
-> <small>(REFORMADO, D.O.28 DE ENERO DE 1970)</small>
+> <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
 
 ###### Artículo 55.
 
@@ -695,17 +695,17 @@ I.- publicar y hacer cumplir las Leyes federales;
 
 II.- promulgar, publicar y ejecutar las Leyes que expida el Congreso del Estado, proveyendo en la esfera administrativa, a su exacta observancia;
 
-> <small>(REFORMADA, D.O.28 DE ENERO DE 1970)</small>
+> <small>(REFORMADA, D.O.27 DE ENERO DE 1976)</small>
 
-III.- nombrar y remover libremente a los Directores Generales, al Procurador General de Justicia y a todos los demás funcionarios y empleados del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las leyes;
+III.- nombrar y remover libremente al Secretario de Gobierno, al Secretario de Asuntos Educativos y Sociales, al Oficial Mayor, Directores, Procurador General de Justicia y a todos los demás funcionarios y empleados del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las leyes;
 
 IV.- disponer de la Guardia Nacional y de la fuerza pública del Municipio en donde residiere habitual o transitoriamente;
 
 V.- disponer de la fuerza pública de los otros municipios para la defensa del Estado y para conservar la tranquilidad y el orden público cuando éste se alterare;
 
-> <small>(REFORMADA, D.O.28 DE ENERO DE 1970)</small>
+> <small>(REFORMADA, D.O.27 DE ENERO DE 1976)</small>
 
-VI.- nombrar en unión del Director General de Asuntos Jurídicos uno o más apoderados para asuntos Judiciales, dentro o fuera del Estado;
+VI.- nombrar en unión del Director de Asuntos Jurídicos uno o más apoderados para asuntos judiciales, dentro o fuera del Estado;
 
 VII.- pedir al Congreso la prórroga de sus sesiones ordinarias, cuando lo juzgue necesario para el servicio público;
 
@@ -731,9 +731,9 @@ XVI.- suspender los acuerdos de los Ayuntamientos cuando fueren contrarios a la 
 
 XVII.- practicar visitas oficiales, cuando lo crea conveniente, a los municipios del Estado;
 
-> <small>(REFORMADA, D.O.28 DE ENERO DE 1970)</small>
+> <small>(REFORMADA, D.O.27 DE ENERO DE 1976)</small>
 
-XVIII.- concurrir al Congreso cuando lo juzgue conveniente para sostener alguna iniciativa presentada por el Ejecutivo o enviar en su representación al Director General del Ramo correspondiente, para el mismo objeto;
+XVIII.- concurrir al Congreso cuando lo juzgue conveniente para sostener alguna iniciativa presentada por el Ejecutivo o enviar en su representación al Funcionario del Ramo correspondiente, para el mismo objeto;
 
 XIX.- conceder licencias a los empleados de su nombramiento;
 
@@ -743,9 +743,9 @@ XX.- pedir la protección de los Poderes de la Unión en caso de sublevación o 
 
 XXI.- conceder primas y subsidios a los que establezcan en el Estado, industrias y cultivos nuevos, necesarios o ampliados;
 
-> <small>(ADICIONADA, D.O. 20 DE AGOSTO DE 1964)</small>
+> <small>(REFORMADA, D.O.27 DE ENERO DE 1976)</small>
 
-XXI.- las demás que le confiere esta Constitución.
+XXII.- las demás que le confieren esta Constitución y otras leyes.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -753,9 +753,9 @@ XXI.- las demás que le confiere esta Constitución.
 
 No puede el Gobernador:
 
-> <small>(REFORMADA, D.O.28 DE ENERO DE 1970)</small>
+> <small>(REFORMADA, D.O.27 DE ENERO DE 1976)</small>
 
-I.- renunciar su cargo, ni ausentarse del territorio del Estado, ni separarse del ejercicio de sus funciones por más de sesenta días, sin causa grave calificada por el Congreso. El Director General de Gobernación suplirá al Gobernador en las separaciones o ausencias que no excedan de sesenta días;
+I.- renunciar su cargo, ni ausentarse del territorio del Estado o separarse del ejercicio de sus funciones por más de sesenta días, sin causa grave calificada por el Congreso. El Secretario de Gobierno atenderá el despacho del Ejecutivo en las separaciones o ausencias del Gobernador que no excedan de sesenta días;
 
 II.- imponer contribuciones;
 
@@ -773,43 +773,37 @@ VII.- permitir o tolerar que se establezcan en el Estado casas de juegos ilícit
 
 ###### Artículo 57.
 
-Para el despacho de los asuntos encomendados al Poder Ejecutivo del Estado, habrá un Director General de Gobernación, un Director General de Administración y todos los demás Directores Generales que establezca la Ley Orgánica del Poder Ejecutivo del Estado, la cual señalará las atribuciones de cada Dirección.
+Para el despacho de los asuntos encomendados al Poder Ejecutivo del Estado, habrá un Secretario de Gobierno, un Secretario de Asuntos Educativos y Sociales, un Oficial Mayor, Directores y Jefes de Departamento que establezca la Ley Orgánica del Poder Ejecutivo del Estado, la cual señalará las atribuciones de cada uno de ellos.
 
-> <small>(REFORMADO, D.O.28 DE ENERO DE 1970)</small>
+> <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
 
 ###### Artículo 58.
 
-Para ser Director General al servicio del Poder Ejecutivo se requiere:
+Para ser Secretario de Gobierno, de Asuntos Educativos y Sociales, Oficial Mayor u ocupar alguna de las Direcciones al Servicio del Poder Ejecutivo del Estado, se requiere ser ciudadano mexicano en ejercicio de sus derechos.
 
-I.- ser ciudadano mexicano, en ejercicio de sus derechos, nativo del Estado o con residencia en el mismo no menor de cinco años inmediatos anteriores al día del nombramiento. La vecindad no se pierde por desempeñar comisiones especiales procedentes del Gobierno del Estado o de las Instituciones dependientes de éste; tampoco se pierde por desempeñar los cargos de Diputado o Senador al Congreso de la Unión; y
-
-II.- no ser Ministro de culto alguno.
-
-> <small>(REFORMADO, D.O.28 DE ENERO DE 1970)</small>
+> <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
 
 ###### Artículo 59.
 
-El Director General de Gobernación tiene la obligación de concurrir al Congreso a rendir el informe a que se refiere la Fracción XXXIV del Artículo 30 de esta Constitución, cuantas veces fuere necesario para el caso.
+El Secretario de Gobierno tiene la obligación de concurrir al Congreso a rendir el informe a que se refiere la fracción XXXIV del artículo 30 de esta Constitución, cuantas veces fuere necesario para el caso.
 
-> <small>(REFORMADO, D.O.28 DE ENERO DE 1970)</small>
+> <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
 
 ###### Artículo 60.
 
-Todas las disposiciones del Gobernador del Estado deberán ir firmadas por el Director General respectivo o por quien lo supla. Sin este requisito no serán obedecidas.
+Todas las disposiciones del Gobernador del Estado deberán ir firmadas por éste y por el Titular de la Dependencia a la que conciernan o por quien supla a éste. Sin este requisito no serán válidas.
 
-Las comunicaciones de trámite o cortesía, podrán ser firmadas únicamente por el funcionario que corresponda.
-
-> <small>(REFORMADO, D.O.28 DE ENERO DE 1970)</small>
+> <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
 
 ###### Artículo 61.
 
-Los Directores Generales y los Jefes de los servicios descentralizados en su caso, serán responsables de las disposiciones que autoricen con infracción de la Constitución General, de la Local y de las Leyes. Esta responsabilidad es sin perjuicio de la que resulte contra el Gobernador.
+Los Secretarios, el Oficial Mayor, los Directores, los Jefes de Departamento y de los servicios descentralizados en su caso, serán responsables de las disposiciones que autoricen con infracción de la Constitución General, de la Local y de las Leyes. Esta responsabilidad es sin perjuicio de la que resulte contra el Gobernador.
 
-> <small>(REFORMADO, D.O.28 DE ENERO DE 1970)</small>
+> <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
 
 ###### Artículo 62.
 
-Las faltas del Director General de Gobernación serán suplidas por el Director General de Administración, con las mismas responsabilidades que aquél.
+Las faltas del Secretario de Gobierno serán suplidas por el Secretario de Asuntos Educativos y Sociales, y las de éste, por el Oficial Mayor, con las mismas responsabilidades de los sustituidos.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -937,7 +931,7 @@ VI.- vigilar y promover cuanto se relacione con la buena marcha de la Administra
 
 ## TITULO NOVENO. De las responsabilidades de los Funcionarios Públicos del Estado
 
-> <small>(REFORMADO, D.O.28 DE ENERO DE 1970)</small>
+> <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
 
 ###### Artículo 76.
 
@@ -1121,7 +1115,7 @@ El Estado procurará reducir las contribuciones a su más simple expresión, a f
 
 ###### Artículo 97.
 
-Todos los funcionarios y empleados públicos son responsables por los delitos comunes que comentan durante el tiempo de su encargo, y por los delitos en que incurran en el ejercicio de ese mismo encargo. No obstante, a los Diputados Propietarios y Suplentes en funciones, al Gobernador, al Director General de Gobernación y a los Magistrados, no se les puede hacer responsables sin que proceda la declaración afirmativa de haber lugar a proceder contra el acusado, tratándose de delitos comunes, o de ser éste culpable tratándose de delitos oficiales.
+Todos los funcionarios y empleados públicos son responsables por los delitos comunes que comentan durante el tiempo de su encargo, y por los delitos oficiales en que incurran en el ejercicio de ese mismo encargo. No obstante, a los Diputados Propietarios y Suplentes en funciones, al Gobernador, al Secretario de Gobierno y a los Magistrados, no se les puede hacer responsables sin que preceda la declaración afirmativa del H. Congreso Local en el sentido de que hubiere lugar a proceder contra el acusado, tratándose de delitos comunes, o de ser éste culpable tratándose de delitos oficiales.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1171,11 +1165,11 @@ Ningún pago podrá hacerse sin que esté comprendido en el Presupuesto, o deter
 
 Todo funcionario o empleado público del Estado o de los municipios, sin excepción alguna, antes de tomar posesión de su encargo, prestará ante quien corresponda protesta de cumplir las obligaciones que contrae, guardando y haciendo guardar sin reserva alguna, la Constitución General de la República, así como la del Estado y las Leyes que de ellas emanen, usándose la forma prevista en el artículo 67 de esta Constitución.
 
-> <small>(REFORMADO, D.O.28 DE ENERO DE 1970)</small>
+> <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
 
 ###### Artículo 106.
 
-La responsabilidad del Gobernador, Director General de Gobernación y demás funcionarios superiores de la administración pública, no excusa la de los subalternos que obedezcan órdenes de aquéllos dirigidas a suspender o retardar las elecciones populares, la instalación del Congreso o el libre ejercicio de las funciones de éste.
+La responsabilidad del Gobernador, Secretario de Gobierno y demás funcionarios superiores de la administración pública, no excusa la de los subalternos que obedezcan órdenes de aquéllos dirigidas a suspender o retardar las elecciones populares, la instalación del Congreso o el libre ejercicio de las funciones de éste.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1492,6 +1486,10 @@ D.O. 24 DE OCTUBRE DE 1975.
 PRIMERO.- Para los efectos del debido cumplimiento de las normas constitucionales que se modifican en este Decreto, los componentes actuales de este Congreso y de los Ayuntamientos del Estado, cesarán en el ejercicio de sus funciones, el día treinta y uno de diciembre del año en curso, como establecieron en su oportunidad las propias disposiciones.
 
 SEGUNDO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 27 DE ENERO DE 1976.
+
+UNICO.- Este Decreto entrará en vigor el día primero de febrero del año en curso.
 
 ###### ARTICULO PRIMERO.
 
