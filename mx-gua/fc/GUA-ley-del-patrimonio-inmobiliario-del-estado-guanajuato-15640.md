@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-patrimonio-inmobiliario-del-estado-guanajuato-15640"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-24"
-last_updated: "2002-12-24"
+last_updated: "2004-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL PATRIMONIO INMOBILIARIO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2004.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 24 de diciembre de 1999.
 
@@ -53,7 +53,9 @@ II.- Proteger el patrimonio inmobiliario del Estado, regulando su uso en forma r
 
 III.- Regular los actos de dominio sobre los bienes inmuebles del Estado;
 
-IV.- Regular la concesión y asignación de los bienes inmuebles del dominio público; y
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
+
+IV.- Regular la asignación de los bienes inmuebles del dominio público; y
 
 V.- Regular el registro, catálogo, inventario y control de los bienes inmuebles del Estado.
 
@@ -63,17 +65,21 @@ Para los efectos de la presente Ley, se entenderá por:
 
 I.- Patrimonio inmobiliario.- El conjunto de bienes inmuebles del dominio del Estado, incluyendo los que se encuentran a disposición de las entidades de la administración pública paraestatal y de los organismos autónomos por Ley;
 
-II.- Enajenación o Acto de dominio.- Toda disposición o transmisión de un bien inmueble del dominio privado del Estado, bien sea un acto traslativo de propiedad o traslativo de uso o de cualquier derecho sobre el mismo;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
+
+II.- Enajenación o acto de dominio.- Todo acto traslativo de propiedad de un inmueble del dominio privado del Estado;
 
 III.- Desafectación.- Desincorporar del dominio público, en los casos que la Ley lo permita, un bien inmueble del Estado que hubiere sido destinado para los fines del servicio público o uso común;
 
-IV.- Concesión.- Acto administrativo discrecional, por medio del cual el Ejecutivo del Estado, otorga a los particulares el derecho de usar, explotar o aprovechar un bien inmueble del dominio público del Estado;
+IV.- (DEROGADA, P.O. 13 DE AGOSTO DE 2004)
 
 V.- Asignación.- Acto administrativo discrecional, por medio del cual el Ejecutivo del Estado, otorga a las dependencias y entidades de la administración pública municipal el derecho de usar, explotar o aprovechar un bien inmueble del dominio público del Estado;
 
 VI.- Destino.- Acto administrativo, por medio del cual el Ejecutivo del Estado acuerda que un bien inmueble del dominio público o privado del Estado sea utilizado por los otros poderes del Estado, así como por las dependencias y entidades de la administración pública estatal y los organismos autónomos por Ley;
 
-VII.- Rescate.- Acto administrativo mediante el cual el Estado, recobra el pleno dominio de los bienes inmuebles del dominio público otorgados en concesión, por causa de utilidad pública;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
+
+VII.- Rescate.- Acto administrativo mediante el cual el Estado, por causa de utilidad pública, recupera el pleno dominio de los bienes inmuebles del dominio público otorgados en asignación;
 
 VIII.- Dependencias.- Las secretarías que señala la Ley Orgánica del Poder Ejecutivo del Estado y la Procuraduría General de Justicia; así como las unidades administrativas de los Poderes Legislativo y Judicial;
 
@@ -85,9 +91,13 @@ X.- Organismos Autónomos por Ley.- Aquéllos que por disposición legal tienen 
 
 Los bienes que integran el patrimonio inmobiliario del Estado se clasifican en:
 
-I.- Bienes del dominio público; y
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
 
-II.- Bienes del dominio privado.
+I.- Bienes inmuebles del dominio público; y
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
+
+II.- Bienes inmuebles del dominio privado.
 
 ###### Artículo 4º.
 
@@ -113,11 +123,17 @@ V.- Realizar las gestiones para que el gobierno federal enajene al Estado los bi
 
 VI.- Enajenar a título gratuito u oneroso los bienes inmuebles del dominio privado, en los términos y bajo las condiciones establecidas en esta Ley o en otras disposiciones legales aplicables;
 
-VII.- Destinar los bienes inmuebles disponibles para satisfacer las necesidades de los otros poderes, delegándoles su administración y conservación, así como a las dependencias o entidades de la administración pública estatal;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
 
-VIII.- Otorgar o negar concesiones o asignaciones para el uso, explotación o aprovechamiento de los bienes inmuebles del dominio público del Estado;
+VII.- Destinar los bienes inmuebles disponibles para satisfacer las necesidades de los otros poderes, otorgándoles el uso, aprovechamiento, administración y conservación, así como a las dependencias o entidades de la Administración Pública Estatal y Organismos Autónomos por Ley;
 
-IX.- Organizar y mantener actualizado el Padrón de la Propiedad Inmobiliaria del Estado por conducto de la Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
+
+VIII.- Otorgar o negar asignaciones para el uso, explotación o aprovechamiento de los bienes inmuebles del dominio público del Estado;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
+
+IX.- Organizar y mantener actualizado el Padrón de la Propiedad Inmobiliaria del Estado por conducto de la Secretaría de Finanzas y Administración;
 
 X.- Ejercer, por sí o por conducto de la persona o Dependencia que determine, las acciones procedentes sobre los bienes inmuebles del dominio del Estado;
 
@@ -155,25 +171,31 @@ En todo lo relativo a la valoración de las pruebas, la autoridad se sujetará a
 
 Todo acto de dominio o enajenación de bienes del dominio del Estado que se realice en contravención de lo dispuesto por la presente Ley, será nulo e implicará responsabilidad del servidor público que lo lleve a cabo o promueva.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 11.
 
-Las autoridades judiciales están obligadas a comunicar al Ejecutivo del Estado, por conducto del Titular de la Secretaría de Planeación y Finanzas, el inicio de cualquier juicio o procedimiento sobre bienes inmuebles que se presuman del dominio del Estado.
+Las autoridades judiciales están obligadas a comunicar al Ejecutivo del Estado, por conducto del Titular de la Secretaría de Finanzas y Administración, el inicio de cualquier juicio o procedimiento sobre bienes inmuebles que se presuman del dominio del Estado.
 
 ###### Artículo 12.
 
-Cuando las personas que pretendan adquirir por cualquier título u obtener una concesión de un bien inmueble del dominio público o privado del Estado sean extranjeras, se deberán observar las disposiciones relativas de la Ley de Inversión Extranjera.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2004)
 
 ## TITULO SEGUNDO. DE LOS BIENES INMUEBLES
 
-### CAPITULO PRIMERO. BIENES DEL DOMINIO PUBLICO DEL ESTADO
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE AGOSTO DE 2004)</small>
+
+### CAPITULO PRIMERO. BIENES INMUEBLES DEL DOMINIO PUBLICO DEL ESTADO
 
 ###### Artículo 13.
 
 Los bienes inmuebles del dominio público son todos aquéllos que le pertenecen al Estado, que de forma directa o indirecta están afectos a una colectividad y que no son susceptibles de posesión o propiedad particular.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 14.
 
-Los bienes del dominio público del Estado son:
+Los bienes inmuebles del dominio público del Estado son:
 
 I.- Los de uso común;
 
@@ -193,11 +215,13 @@ VIII.- Las pinturas, murales, esculturas y cualquier obra artística incorporada
 
 IX.- Los demás que por disposición de otros ordenamientos legales formen parte del dominio público estatal.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 15.
 
-Los bienes inmuebles del dominio público son inalienables, imprescriptibles, inembargables y no están sujetos a ninguna acción reivindicatoria o de posesión. Sólo podrán ejercerse actos de dominio sobre ellos previa desafectación y autorización del Congreso del Estado.
+Los bienes inmuebles del dominio público son inalienables, imprescriptibles, inembargables y no están sujetos a ninguna acción reivindicatoria o de posesión.
 
-Los derechos de uso, explotación y aprovechamiento sobre los bienes inmuebles de dominio público, sólo se adquirirán por medio de la concesión o asignación otorgada en los términos de esta Ley.
+Los derechos de uso, explotación y aprovechamiento sobre los bienes inmuebles de dominio público, sólo se adquirirán por medio de asignación otorgada en los términos de esta Ley, o bien, mediante concesión en términos de la Ley de Concesiones de Servicios e Infraestructura Pública para el Estado de Guanajuato.
 
 ###### Artículo 16.
 
@@ -265,11 +289,11 @@ VII.- Las servidumbres que se constituyan o adhieran a los bienes inmuebles del 
 
 Los bienes inmuebles del dominio privado del Estado son imprescriptibles, inembargables y alienables.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 23.
 
 El Ejecutivo del Estado destinará los bienes inmuebles del dominio privado del Estado, prioritariamente para cumplir sus fines y objetivos.
-
-Los bienes inmuebles del dominio privado, previa autorización del Congreso del Estado, podrán ser objeto de las acciones reguladas por esta Ley.
 
 ## TITULO TERCERO. DE LAS ACCIONES SOBRE EL PATRIMONIO INMOBILIARIO ESTATAL
 
@@ -375,11 +399,35 @@ II.- Verificar que la dependencia o entidad de la administración pública munic
 
 III.- Establecer las bases y condiciones, en el acuerdo correspondiente a que se sujetará la asignación.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 46.
 
-La asignación se regirá, en lo conducente, por las disposiciones previstas en el capítulo anterior relativas a las concesiones de los bienes inmuebles del dominio público.
+Son obligaciones de los asignatarios:
 
-Tratándose del rescate de los bienes inmuebles del dominio público asignados, no procederá la indemnización a los asignatarios.
+I.- Usar, explotar o aprovechar el bien inmueble del dominio público, sujetándose a lo dispuesto por esta Ley y por el Acuerdo de asignación;
+
+II.- Iniciar el uso, explotación o aprovechamiento del bien inmueble del dominio público en el plazo establecido en el Acuerdo de asignación;
+
+III.- Conservar las características esenciales del bien inmueble del dominio público; y
+
+IV.- Las demás que acuerde el Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+Artículo 46 A.- Son causas de extinción de la asignación:
+
+I.- El cumplimiento del plazo establecido en el acuerdo de asignación que expida el Ejecutivo del Estado;
+
+II.- El incumplimiento de la finalidad para la cual se asignó el bien inmueble;
+
+III.- El rescate; y
+
+IV.- Cualquier otra prevista en el Acuerdo de asignación.
+
+El Ejecutivo del Estado podrá rescatar por causa de utilidad pública el bien inmueble del dominio público objeto de la asignación. En este supuesto no procederá la indemnización a las asignaciones.
+
+La extinción de la asignación hará que los bienes inmuebles materia de la misma, regresen de pleno derecho al patrimonio del Estado, con todas sus accesiones y edificaciones.
 
 ### CAPITULO CUARTO. ENAJENACION DE LOS BIENES INMUEBLES DEL DOMINIO PRIVADO
 
@@ -403,13 +451,25 @@ II.- Permuta con los gobiernos federal o municipal o con particulares;
 
 III.- Venta, cuando el producto de la misma represente un incremento al patrimonio del Estado o, en su caso, se realice en favor de personas físicas o morales que requieran disponer de dichos inmuebles para la creación, fomento o conservación de una empresa que beneficie a la colectividad;
 
-IV.- Donación en favor de los municipios, para que destinen los inmuebles a la prestación de servicios públicos de su competencia, o bien, en fines educativos o de asistencia social; y
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
 
-V.- Donación o comodato en favor de asociaciones o instituciones privadas que realicen actividades de interés social y que no persigan fines de lucro.
+IV.- Donación en favor de los municipios u organismos autónomos por Ley, para que destinen los inmuebles a la prestación de servicios públicos de su competencia, o bien, en fines educativos o de asistencia social; y
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
+
+V.- Donación en favor de asociaciones o instituciones privadas que realicen actividades de interés social, o bien cuando requieran el bien inmueble para la realización de actividades que propicien el desarrollo del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+En ningún caso, el bien inmueble materia de la donación será destinado a fines de especulación comercial.
 
 ###### Artículo 50.
 
 En los casos de donación a que se refiere el artículo anterior, el decreto correspondiente que emita el Congreso del Estado fijará el plazo máximo dentro del cual deberá iniciarse la utilización del bien inmueble en el objeto solicitado, en su defecto, se entenderá que el plazo es de dos años.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+El Congreso del Estado verificará por conducto del Órgano de Fiscalización Superior, el cumplimiento de los plazos, fines y destinos a que esté sujeta la donación del bien inmueble, a efecto de recomendar al Ejecutivo del Estado, proceda a realizar las acciones tendientes a la reversión del inmueble, en los términos de la presente Ley.
 
 ###### Artículo 51.
 
@@ -461,27 +521,35 @@ En el caso de permuta de bienes inmuebles estatales por otros bienes de diversa 
 
 Los actos o contratos que tengan relación con los bienes inmuebles propiedad del Estado, que para su validez requieran la intervención de Notario Público, serán pasados ante la fe del que designe el Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 59.
 
-El Congreso del Estado, por conducto de la Contaduría Mayor de Hacienda, establecerá un programa de seguimiento de los actos jurídicos autorizados sobre los bienes inmuebles del dominio del Estado, como un mecanismo de apoyo a la función de fiscalización.
+El Congreso del Estado por conducto del Órgano de Fiscalización Superior establecerá un programa de seguimiento de los actos jurídicos autorizados sobre los bienes inmuebles del dominio del Estado, como un mecanismo de apoyo a la función de fiscalización.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 60.
 
-El Ejecutivo del Estado estará facultado para retener los bienes inmuebles que posea por cualquier Título pero cuando se trate de recuperar la posesión provisional o definitiva, o bien, de reivindicar los inmuebles de dominio privado, así como de obtener el cumplimiento, la rescisión o la nulidad de los contratos celebrados respecto de dichos bienes, deberá ejercer, por conducto de la Dependencia que corresponda y ante los tribunales competentes, las acciones conducentes.
+El Ejecutivo del Estado estará facultado para retener los bienes inmuebles que posea por cualquier Título, pero cuando se trate de recuperar la posesión provisional o definitiva, o bien, de reivindicar los inmuebles de dominio privado, así como de obtener el cumplimiento, la rescisión o la nulidad de los contratos celebrados respecto de dichos bienes, deberá ejercerse por conducto del ente público que por cualquier título tenga la posesión o propiedad del bien inmueble del Estado, las acciones conducentes ante los tribunales competentes.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 61.
 
-Los bienes inmuebles que se encuentren destinados a los organismos autónomos por Ley, o bien, las entidades de la administración pública estatal, deberán sujetarse a las disposiciones del presente capítulo, para realizar cualquier acto de dominio sobre los mismos.
+Los organismos autónomos por Ley y las entidades de la Administración Pública Estatal, deberán sujetarse a las disposiciones del presente capítulo para realizar cualquier acto de dominio sobre los mismos inmuebles que les sean destinados.
 
 ## TITULO CUARTO. DEL PADRON DE BIENES INMUEBLES
 
 ### CAPITULO UNICO. PADRON DE LA PROPIEDAD INMOBILIARIA ESTATAL
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 62.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Finanzas, deberá llevar el Padrón de la Propiedad Inmobiliaria Estatal con la finalidad de tener un control interno de la propiedad inmobiliaria del Estado.
+El Ejecutivo del Estado por conducto de la Secretaría de Finanzas y Administración, deberá llevar el Padrón de la Propiedad Inmobiliaria Estatal con la finalidad de tener un control interno de la propiedad inmobiliaria del Estado.
 
-La Secretaría de Planeación y Finanzas deberá organizar el Padrón de la Propiedad Inmobiliaria Estatal, estableciendo los bienes inmuebles que tiene cada Poder en administración, así como los que tiene a su cargo cada dependencia, entidad u organismo autónomo por Ley.
+La Secretaría de Finanzas y Administración deberá organizar el Padrón de la Propiedad Inmobiliaria Estatal, estableciendo los bienes inmuebles que tiene cada Poder en administración, así como los que tiene a su cargo cada dependencia, entidad u organismo autónomo por Ley.
 
 ###### Artículo 63.
 
@@ -503,17 +571,23 @@ VI.- Los demás títulos que se equiparen a los anteriores.
 
 Además de la inscripción en el Padrón de la Propiedad Inmobiliaria Estatal, los títulos de los actos o contratos a que se refiere el artículo anterior, se inscribirán en el Registro Público de la Propiedad, que corresponda al lugar de ubicación de los bienes inmuebles de que se trate.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 65.
 
-Los encargados del Registro Público de la Propiedad, que inscriban actos o contratos sobre bienes inmuebles de propiedad estatal, enviarán a la Secretaría de Planeación y Finanzas, copia de la inscripción del documento presentado.
+Los encargados del Registro Público de la Propiedad, que inscriban actos o contratos sobre bienes inmuebles de propiedad estatal, enviarán a la Secretaría de Finanzas y Administración, copia certificada de la inscripción del documento presentado.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 66.
 
-Los Poderes Legislativo y Judicial y los organismos autónomos por Ley, llevarán sus propios padrones, de los bienes inmuebles que tengan a su servicio y remitirán una copia de los mismos a la Secretaría de Planeación y Finanzas, para efecto de su registro en el Padrón de la Propiedad Inmobiliaria Estatal.
+Los Poderes Legislativo y Judicial y los organismos autónomos por Ley, llevarán sus propios padrones, de los bienes inmuebles que tengan a su servicio y remitirán una copia de los mismos a la Secretaría de Finanzas y Administración, para efecto de su registro en el Padrón de la Propiedad Inmobiliaria Estatal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 67.
 
-Como parte integrante de la Cuenta Pública Estatal, la Secretaría de Planeación y Finanzas deberá remitir al Congreso del Estado, lo siguiente:
+Como parte integrante de la Cuenta Pública Estatal, la Secretaría de Finanzas y Administración deberá remitir al Congreso del Estado, lo siguiente:
 
 I.- Con el concentrado anual de la Cuenta Pública Estatal, el Padrón de la Propiedad Inmobiliaria Estatal actualizado; y
 
@@ -548,3 +622,7 @@ Artículo Primero.- La presente Ley entrará en vigor el cuarto día siguiente a
 Artículo Segundo.- El Titular del Poder Ejecutivo del Estado deberá emitir el Reglamento de esta Ley dentro de los noventa días naturales siguientes a la entrada en vigor de la misma.
 
 Artículo Tercero.- Se deroga el Capítulo Segundo, del Título Tercero, que contiene los artículos del 27 al 43 de la Ley del Patrimonio Inmobiliario del Estado.
+
+P.O. 13 DE AGOSTO DE 2004.
+
+Artículo Único.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
