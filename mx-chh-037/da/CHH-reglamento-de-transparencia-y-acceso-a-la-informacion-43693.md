@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-transparencia-y-acceso-a-la-informacion-43693"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-27"
-last_updated: "2004-03-27"
+last_updated: "2005-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43693&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE JUAREZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 27 de marzo de 2004.
 
@@ -617,15 +617,19 @@ VII. Ejecutar los acuerdos del Comité;
 
 VIII. Las demás que le confiera el Comité u otras disposiciones legales.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 25.
 
-El Comité de Transparencia sesionará por lo menos dos veces al mes. Las sesiones serán válidas con la asistencia de la mayoría de sus miembros quienes tendrán voz y voto y sus resoluciones se tomarán por mayoría de votos de los presentes y en caso de empate, el Presidente del Comité tendrá el voto de calidad.
+El Comité de Transparencia sesionará por menos dos veces al mes.
 
-De no haber quórum legal, se concederá una espera de 30 minutos, una vez trascurridos, se sesionará con un mínimo del treinta por ciento de los integrantes del Comité y sus resoluciones serán válidas.
+Las sesiones serán válidas con la asistencia de la mayoría de los miembros quienes tendrán voz y voto y sus resoluciones se tomarán por mayoría de votos de los presente y en caso de empate, el Presidente del Comité tendrá el voto de calidad.
 
-Las convocatorias a las sesiones serán emitidas por el Presidente del Comité, las que deberán notificarse por el Coordinador Técnico a los interesados por lo menos con veinticuatro horas de anticipación; se harán por escrito, indicando fecha, hora y orden del día en la que se llevará a cabo la sesión.
+De no haber quórum legal, se concederá una espera de 10 (diez) minutos y una vez transcurridos, se sesionará con un mínimo de treinta por ciento de los integrantes del Comité y sus resoluciones serán válidas.
 
-La sesión en la que se lleve a cabo la elección del Presidente del Comité, se realizará con las asistencias mínimas de las dos terceras partes de sus miembros, y se elegirá por mayoría de votos de los miembros asistentes.
+Las convocatorias a las sesiones serán emitidas por el Presidente del Comité, las que deberán notificarse por el Coordinador Técnico a los interesados por lo menos con veinticuatro horas de anticipación; se harán por escrito, indicando fecha, hora y orden de día en la que se llevará a cabo la sesión.
+
+La sesión en la que se lleve a cabo la elección del Presidente del Comité, se realizará con la asistencia mínima de las dos terceras partes de sus miembros, y se elegirá por mayoría de votos de los miembros asistentes.
 
 ### Capítulo IV. Centro de Información Municipal
 
@@ -866,3 +870,9 @@ DOY FE
 SUFRAGIO EFECTIVO: NO REELECCIÓN.
 
 LIC. ANTONIO SUÁREZ ESTRADA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE FEBRERO DE 2005.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
