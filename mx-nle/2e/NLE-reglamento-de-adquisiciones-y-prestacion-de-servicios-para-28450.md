@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-y-prestacion-de-servicios-para-2845
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-03"
-last_updated: "2003-01-03"
+last_updated: "2003-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE ADQUISICIONES Y PRESTACIÓN DE SERVICIOS PARA EL MUNICIPIO DE GRAL. ZUAZUA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2003.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el viernes 3 de enero de 2003.
 
@@ -103,29 +103,37 @@ V.- Emitir opinión respecto a la adjudicación de los pedidos y contratos;
 
 Todas las adquisiciones que realice el Municipio y los organismos del sector municipal, así como los servicios que se requieran deberán sujetarse a as (sic) siguientes reglas:
 
-Cuotas
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2003)</small>
 
-Por asignación directa hasta 1.500
+Por asignación directa hasta 1,500 cuotas
 
-Mediante concurso por invitación
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2003)</small>
 
-A cuando menos 3 proveedores
+Asignación directa mediante cotización
 
-Cuando su monto no exceda de hasta 6,000
+por escrito cuando menos a tres
 
-Mediante convocatorio (sic) publica
+proveedores cuando el monto de la
 
-Que se publicara en el Periódico
+adquisición no exceda de 6,000 cuotas
 
-Oficial del Estado por lo menos
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2003)</small>
 
-En uno de los diarios de mayo (sic)
+licitación publica que se publicará
 
-Circulación en el Estado de 6,001 en adelante
+en el Periódico Oficial del Estado
 
-*Se entiende por cuota el equivalente al salario mínimo vigente en el área geográfica correspondiente al Municipio.
+o por lo menos en uno de los Diarios
 
-A las cantidades anteriores se les sumara el Impuesto al Valor Agregado (IVA)
+de mayor circulación en el Estado de 6,001 en adelante
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2003)</small>
+
+Se entiende por cuota el equivalente al salario mínimo vigente en el área geográfica correspondiente al municipio.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2003)</small>
+
+A las cantidades anteriores se le sumara el impuesto al valor agregado (IVA).
 
 ###### ARTICULO 9.
 
@@ -272,3 +280,11 @@ PRESIDENTE MUNICIPAL
 LIC. MARCELINO GONZALEZ MARTINEZ
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE MARZO DE 2003.
+
+## [N. DE E. TRANSITORIO DE LA "MODIFICACIÓN AL ARTÍCULO 8 DEL REGLAMENTO DE ADQUISICIONES".]
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
