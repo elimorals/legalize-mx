@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-40706"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-16"
-last_updated: "2004-07-16"
+last_updated: "2004-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PUBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 16 de julio de 2004.
 
@@ -1301,6 +1301,10 @@ Artículo Séptimo.- En tanto se realizan las adecuaciones legales dispuestas po
 
 Artículo Octavo.- Dentro de los treinta días siguientes a la entrada en vigor del presente Reglamento, las Dependencias Municipales correspondientes iniciaran los trabajos para la realización del Plan Maestro de Vialidad y Transporte para el Municipio de Ensenada, el cual será el eje rector para el mejoramiento en la prestación de este tipo de servicio.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+Artículo Noveno.- En tanto se lleve a cabo el Plan Maestro de Vialidad y Transporte al que obliga el artículo 22 de la Ley General de Transporte del Estado de Baja California, y que el Artículo 9, fracción IV del Reglamento de Transporte Público del Municipio de Ensenada, contempla como facultades para realizarlo a la Dirección de Transporte Municipal, el Ayuntamiento podrá dictar las medidas necesarias a fin de garantizar la eficiencia y regularidad en la prestación del servicio de transporte publico en todas sus modalidades, en beneficio de los ciudadanos ensenadenses, dichas medidas puede ser: el otorgamiento, revalidación o prorroga de permisos, concesiones o rutas de servicio o bien cualesquier otro acto que a juicio del Ayuntamiento sea necesario para cumplir con la población ensenadense, de otorgarles un mejor servicio de transporte público.
+
 DADO EN LA SALA DE SESIONES DE LA CASA MUNICIPAL DE LA CIUDAD DE ENSENADA, BAJA CALIFORNIA A LOS VEINTICINCO DIAS DEL MES DE JUNIO DE 2004.
 
 DR. JORGE ANTONIO CATALAN SOSA.
@@ -1310,6 +1314,12 @@ PRESIDENTE MUNICIPAL DE ENSENADA, B.C.
 LIC. GUILLERMO BERNARDO ISLAS LEON.
 
 SECRETARIO FEDATARIO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE DICIEMBRE DE 2004.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
 
 ###### Artículo 22.
 
