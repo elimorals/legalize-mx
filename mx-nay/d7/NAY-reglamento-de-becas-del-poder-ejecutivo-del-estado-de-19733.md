@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-becas-del-poder-ejecutivo-del-estado-de-19733"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-06"
-last_updated: "2000-12-06"
+last_updated: "2001-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE BECAS DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2001.
 
 Reglamento publicado en la Sexta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 6 de diciembre de 2000.
 
@@ -101,21 +101,21 @@ Los casos no previstos en el presente Reglamento serán resueltos por el Consejo
 
 CLASIFICACIÓN, VIGENCIA Y MONTO
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2001)</small>
+
 ###### ARTÍCULO 7.
 
 Las Becas económicas se clasifican en:
 
-I.- Becas nivel primaria.
+I.- Preescolar;
 
-II.- Becas nivel secundarla.
+II.- Becas nivel primaria;
 
-III.- Becas nivel medio superior.
+III.- Becas nivel secundaria;
 
-IV.- Becas nivel superior.
+IV.- Becas, culturales, docentes, artísticas, de investigación científica y deportiva, y
 
-V.- Becas, culturales, docentes, artísticas, de investigación científica y deportiva.
-
-VI.- Las que por acuerdo de la Presidenta del Consejo se otorguen a quienes promuevan el desarrollo integral de la entidad y aquellas que se otorguen a becarios de postgrado.
+V.- Las que por acuerdo de la Presidencia del Consejo se otorguen a quienes promuevan el desarrollo integral de la entidad.
 
 ###### ARTÍCULO 8.
 
@@ -155,17 +155,25 @@ VI.- Becas deportivas, docentes, culturales, artísticas y de investigación cie
 
 VII.- Becas de postgrado.
 
-### CAPÍTULO QUINTO. REQUISITOS PARA EL OTORGAMIENTO DE BECAS
+> <small>(ADICIONADA [N. DE E. REFORMADA] SU DENOMINACION, P.O. 14 DE FEBRERO DE 2001)</small>
+
+### CAPÍTULO QUINTO. REQUISITOS PARA EL OTORGAMIENTO DE BECAS CONVENIO Y BECAS ECONÓMICAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2001)</small>
 
 ###### ARTÍCULO 12.
 
-Para el otorgamiento de becas, se deberán cumplir los siguientes requisitos:
+Para el otorgamiento de becas convenio, se deberán cumplir los siguientes requisitos:
 
 I.- Presentar la solicitud al Departamento de Becas, en el formato especial que el propio Departamento entregue al solicitante.
 
-II.- Comprobación de la necesidad económica mediante un estudio socioeconómico elaborado por el Departamento de Becas, el cual deberá contener el aval de la Dirección de la Escuela y/o del Presidente de la Sociedad de Padres de Familia del propio plantel.
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2001)</small>
 
-III.- Comprobar mediante documentos expedidos por los planteles educativos haber obtenido un promedio mínimo general de 9.0 o su equivalente de los niveles de preescolar, primaria, secundaria y de 8.0 o su equivalente en los demás niveles que haya cursado el becario y no tener asignaturas reprobadas.
+II.- Comprobación de la necesidad económica mediante un estudio socioeconómico elaborado por el Departamento de Becas.
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2001)</small>
+
+III.- En los distintos niveles el becario deberá comprobar haber aprobado el ciclo escolar correspondiente sin adeudo de materias, y haber obtenido 9.0 o su equivalente.
 
 IV.- Presentar original y copia de la constancia de inscripción para el siguiente ciclo escolar de acuerdo al plan de estudios correspondiente a cada nivel.
 
@@ -174,6 +182,18 @@ V.- Original y copia del aeta de nacimiento.
 VI.- Comprobante de domicilio del solicitante.
 
 VII.- Dos fotografías tamaño infantil del becarlo y una fotografía tamaño Infantil de cualquiera de los padres o tutor.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2001)</small>
+
+ARTÍCULO 12 BIS.- Para el otorgamiento de becas económicas, se deberán cumplir los siguientes requisitos:
+
+I.- Presentar la solicitud al Departamento de Becas, en el formato especial que el propio Departamento entregue al solicitante;
+
+II.- Comprobación de la necesidad económica mediante un estudio socioeconómico elaborado por el Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit (DIF);
+
+III.- El becario deberá comprobar mediante copia de la boleta de calificaciones o certificado haber aprobado el ciclo escolar inmediato anterior, y
+
+IV.- El becario podrá en su caso entregar una fotografía tamaño infantil y otra Igual de cualquiera de sus padres o tutor.
 
 ###### ARTÍCULO 13.
 
@@ -245,25 +265,13 @@ IX.- expedir una credencial de identificación al becario.
 
 X.- Concertar los apoyos en el ámbito de su competencia, con las dependencias gubernamentales y demás organizaciones nacionales y extranjeras.
 
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE FEBRERO DE 2001)</small>
+
 ### CAPÍTULO NOVENO. REQUISITOS PARA EL PAGO DE BECAS
 
 ###### ARTÍCULO 20.
 
-Para el pago de Becas se deberán cumplir los siguientes requisitos:
-
-I.- Promedio mínimo general de 9.0 o su equivalente de los niveles de preescolar, primaria y secundaria y de 8.0 o su equivalente en los demás niveles.
-
-II.- No tener asignaturas reprobadas.
-
-III.- Las calificaciones deben ser correspondientes a la más reciente evaluación escolar.
-
-IV.- Presentar original y copla de la boleta de calificaciones, con sello y firma originales del director de la Institución educativa donde se esté inscrito.
-
-V.- Constancia original de la institución educativa donde se esté inscrito, especificando que no se tiene un apoyo similar al que otorga el Gobierno del Estado de Nayarit.
-
-VI.- Llenar el formato con los datos generales del becario.
-
-VII.- En el caso de las becas deportivas, artísticas y culturales se deben presentar constancias que comprueben que se estudia o se estudió la educación básica obligatoria que comprende primaria y secundaria.
+(DEROGADO, P.O. 14 DE FEBRERO DE 2001)
 
 T R A N S I T O R I O S
 
@@ -296,3 +304,9 @@ SECRETARIO DE FINANZAS
 PROFR. ALFREDO REYES CERVANTES
 
 SECRETARIO DE EDUCACIÓN Y CULTURA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE FEBRERO DE 2001.
+
+ÚNICO.- El presente Decreto Administrativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Órgano de Gobierno del Estado.
