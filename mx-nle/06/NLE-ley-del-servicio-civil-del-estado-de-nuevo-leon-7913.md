@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "1993-10-13"
+last_updated: "1993-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -859,9 +859,13 @@ El trabajador que dé por terminados los efectos de su nombramiento en las condi
 
 Los trabajadores sujetos al régimen de cotización de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado promulgada el día 22 de enero de 1983, que continúen laborando después de haber cumplido treinta años de antigüedad en el servicio y veintiocho años, en el caso de las mujeres, se harán acreedores anualmente a un bono cuyo valor será equivalente al cinco por ciento de su salario base de cotización.
 
-Este beneficio se entregará en forma sucesiva, por cada año de antigüedad hasta un máximo del valor que representa el cincuenta por ciento de su salario.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
-El trabajador podrá recibir en efectivo el importe de dicho bono anual o solicitar se le acredite en una subcuenta especial que para el efecto le lleve el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado dentro del sistema de certificado para la jubilación.
+Este beneficio se entregará en forma sucesiva y acumulativa, por cada año de antigüedad hasta un máximo del valor que represente el 50% de su salario.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+No se tendrá este derecho si el Servidor Público hace uso de la opción que en su favor establece el Artículo Décimo Tercero Transitorio de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León.
 
 Lo tendrá entendido el C. Gobernador Constitucional del Estado, mandándolo imprimir, publicar y circular a quienes corresponda.
 
@@ -918,3 +922,7 @@ P. O. 13 DE OCTUBRE DE 1993.
 ###### ARTICULO UNICO
 
 EL PRESENTE DECRETO ENTRARA EN VIGOR AL SIGUIENTE DIA DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+
+P.O. 24 DE DICIEMBRE DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
