@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1953-04-01"
+last_updated: "1953-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1953.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -134,6 +134,10 @@ Este decreto entrará en vigor a partir de la fecha de su publicación en el Per
 P.O. 1 DE ABRIL DE 1953.
 
 Este Decreto entrará en vigor a los diez días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JULIO DE 1953.
+
+Las anteriores reformas y adiciones entrarán en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
 
 ## TITULO II. DEL PODER PUBLICO Y DE LA FORMA DE GOBIERNO
 
@@ -739,9 +743,9 @@ VI. Acordar por sí o a propuesta del Ejecutivo el cambio de los Jueces de Prime
 
 VII.- Conceder licencias hasta por tres meses a los Jueces de Primera Instancia.
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1948)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE JULIO DE 1953)</small>
 
-VIII. Formular las ternas que deben de enviarse al Gobernador del Estado para el nombramiento de Jueces de Primera Instancia, y a que se refiere la fracción XIV del artículo 53 de la propia Constitución; y formar su Reglamento Interior.
+VIII. Formular las ternas que deben de enviarse a las Asambleas Municipales para designar Jueces Conciliadores y nombrar y remover a los empleados de dichos Juzgados. Formular las ternas que deban de enviarse al Gobernador del Estado para el nombramiento de Jueces de Primera Instancia, a que se refiere la Fracción XIV del Artículo 53 de la propia Constitución; y formar su reglamento interior.
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1930)</small>
 
@@ -851,15 +855,17 @@ VIII. Designar de entre sus miembros y en la forma que establezca la ley, a los 
 
 IX. Calificar la elección de los Municipios y del Presidente Municipal.
 
-X. Admitir o desechar la renuncia que hicieren los Munícipes, los Jueces Conciliadores o el Presidente Municipal.
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1953)</small>
+
+X. Admitir o desechar la renuncia que hicieren los Munícipes o el Presidente Municipal.
 
 > <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 1946)</small>
 
 XI. Nombrar y remover libremente al Oficial Mayor y demás Empleados de la Asamblea.
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 1946)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1953)</small>
 
-XII. Conceder licencia a los Munícipes, Presidentes Municipales, Jueces Conciliadores y Auxiliares, así como al Oficial Mayor y demás Empleados de la Asamblea.
+XII. Conceder licencia a los Munícipes, Presidentes Municipales y Jueces Auxiliares, así como al Oficial Mayor y demás empleados de la Asamblea.
 
 XIII. Formar su reglamento interior.
 
