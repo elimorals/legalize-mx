@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2003-12-19"
+last_updated: "2004-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2004.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -147,7 +147,7 @@ VII.- Por separarse del territorio del Estado por un tiempo mayor de un año. En
 
 ### CAPITULO CUARTO. DE LA COMISION PERMANENTE
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 7º
 
@@ -515,11 +515,11 @@ También incurrirán en responsabilidad, que la misma Ley sancionara, los partid
 
 Los Diputados que no concurran a una sesión sin causa justificada, o sin el permiso del Presidente del Congreso, no tendrán derecho a la dieta correspondiente.
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 22.
 
-El Congreso del Estado deberá quedar instalado el día 16 de noviembre del año de la elección, debiendo iniciar su primer período ordinario de sesiones ese mismo día de ese mismo mes, terminando el 18 de febrero y el segundo período ordinario iniciará el 18 de mayo, terminando el 18 de agosto, en los cuales se ocupará del estudio, discusión y votación de las iniciativas de ley que se le presenten y demás asuntos que le correspondan conforme a esta Constitución.
+El Congreso del Estado deberá quedar instalado el día 16 de noviembre del año de la elección, debiendo iniciar su primer período ordinario de sesiones ese mismo día de ese mismo mes, terminando el 15 de febrero y el segundo período ordinario iniciará el 15 de mayo, terminando el 15 de agosto, en los cuales se ocupará del estudio, discusión y votación de las iniciativas de ley que se le presenten y demás asuntos que le correspondan conforme a esta Constitución.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -559,7 +559,7 @@ La infracción de esta disposición será sancionada con la pérdida del cargo d
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
-### CAPITULO CUARTO. DEL CONTROL CONSTITUCIONAL
+### CAPITULO QUINTO. DEL CONSEJO DE LA JUDICATURA
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
@@ -603,7 +603,7 @@ Tampoco podrá hacerlas al Decreto de Convocatoria a sesiones extraordinarias qu
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
-### CAPITULO QUINTO. DEL CONSEJO DE LA JUDICATURA
+### CAPITULO CUARTO. DEL CONTROL CONSTITUCIONAL
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
@@ -623,7 +623,7 @@ IV.- Legislar en materia económica, educativa, indígena, cultural, electoral e
 
 V.- Formular y en su caso aprobar los planes globales y sectoriales de desarrollo del Estado de Chiapas;
 
-VI.- Auxiliar a la Federación en materia de culto religioso, de conformidad con la legislación aplicable y determinar según las necesidades locales, el numero máximo de ministros de los cultos;
+VI.- Auxiliar a la Federación en materia de culto religioso, de conformidad con la legislación aplicable y determinar según las necesidades locales, el número máximo de ministros de los cultos;
 
 VII.- Conceder al Ejecutivo por un tiempo limitado y con la aprobación de las dos terceras partes de los Diputados presentes, las Facultades Extraordinarias que necesite en caso de invasión, alteración o peligro públicos, o requerirlo así la Administración General del Estado. El Ejecutivo deberá dar cuenta del uso que haga de las facultades conferidas, en el siguiente periodo ordinario de sesiones;
 
@@ -633,7 +633,7 @@ IX.- Legislar sobre el establecimiento de instituciones para el tratamiento de l
 
 X.- Legislar en todo lo relativo al fundo legal de los Municipios y al reparto de predios disponibles a los ciudadanos chiapanecos que más lo necesiten;
 
-XI.- Dictar leyes encaminadas a combatir el alcoholismo en cumplimiento de lo dispuesto en el Articulo 117 infine de la Constitución Federal;
+XI.- Dictar leyes encaminadas a combatir el alcoholismo en cumplimiento de lo dispuesto en el Artículo 117 infine de la Constitución Federal;
 
 XII.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos y fijar las contribuciones con que haya de ser cubierto, en vista de los proyectos que el Ejecutivo presente. Al aprobar el Presupuesto de Egresos no podrá dejar de señalar la retribución que corresponda a un empleo establecido por la Ley, y en caso de que por cualquier circunstancia se omita fijar la remuneración, se entenderá señalada la que hubiere tenido el Presupuesto anterior o en la Ley que estableció el empleo;
 
@@ -671,7 +671,7 @@ XXIV.- Conceder licencia al Gobernador y a los Diputados para separarse de su ca
 
 XXV.- Constituirse en Colegio Electoral para elegir al ciudadano que deba sustituir al Gobernador Constitucional, ya sea con el carácter de provisional, de interino o de sustituto, en los términos de los Artículos 38 y 39 de esta Constitución;
 
-XXVI.- Autorizar al Ejecutivo para que celebre arreglos sobre los limites del Estado y sancionar en su caso dichos arreglos, previamente a que sean sometidos a la aprobación del Congreso de la Unión;
+XXVI.- Autorizar al Ejecutivo para que celebre arreglos sobre los límites del Estado y sancionar en su caso dichos arreglos, previamente a que sean sometidos a la aprobación del Congreso de la Unión;
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -709,7 +709,7 @@ XXXVII.- Recibir del Gobernador, Diputados y Magistrados la protesta a que se re
 
 XXXVIII.- (DEROGADA, P.O. 29 DE ABRIL DE 1995)
 
-XXXIX.- Suspender hasta por tres meses previa garantía de audiencia, a los miembros de los Ayuntamientos por si o a petición del Ejecutivo cuando sea indispensable hacerlo para la practica de alguna averiguación, y en su caso, separarlos del cargo previa formación de causa, cuando abusen de sus facultades;
+XXXIX.- Suspender hasta por tres meses previa garantía de audiencia, a los miembros de los Ayuntamientos por si o a petición del Ejecutivo cuando sea indispensable hacerlo para la práctica de alguna averiguación, y en su caso, separarlos del cargo previa formación de causa, cuando abusen de sus facultades;
 
 XL.- Conocer, como Jurado de acusación, de los procedimientos que por delitos oficiales se inicien contra los funcionarios a que se refiere esta constitución;
 
@@ -765,7 +765,7 @@ Para ser Titular del Órgano de Fiscalización Superior del Congreso del Estado,
 
 Durante el ejercicio de su encargo, no podrá formar parte de un Partido Político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados, en asociaciones científicas, docentes, artísticas o de beneficencia.
 
-Los Poderes del Estado y los sujetos de fiscalización, facilitarán los auxilios que requiera el Organo de Fiscalización Superior del Congreso del Estado, para el ejercicio de sus funciones.
+Los Poderes del Estado y los sujetos de fiscalización, facilitarán los auxilios que requiera el Órgano de Fiscalización Superior del Congreso del Estado, para el ejercicio de sus funciones.
 
 El Poder Ejecutivo del Estado, aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias que se establezcan en los términos de la fracción IV del presente artículo.
 
@@ -773,29 +773,53 @@ El Poder Ejecutivo del Estado, aplicará el procedimiento administrativo de ejec
 
 ###### ARTICULO 31.
 
-El día en que deban terminar las sesiones ordinarias, el Congreso mediante votación secreta, nombrará para el tiempo de su receso, una Comisión Permanente, que se integrará de siete diputados propietarios y sus respectivos sustitutos.
+El día de la clausura del periodo ordinario de sesiones del Congreso del Estado, el Presidente de la Mesa Directiva declarará instalada la Comisión Permanente, comunicándolo así a quienes corresponda.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 Son atribuciones de la Comisión Permanente:
 
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
 I.- Convocar al Congreso a sesiones extraordinarias conforme al Artículo 23 o a moción del Ejecutivo; pudiendo hacer la convocatoria para lugar distinto a la capital del Estado, en cualquier caso que lo amerite;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 II.- Convocar al Congreso a sesiones extraordinarias, en el caso de delitos oficiales del orden común cometidos por los funcionarios del Estado, a que se refiere el Artículo 72;
 
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
 III.- Llamar a los diputados suplentes de la propia Comisión, cuando por muerte, renuncia, inhabilitación o licencia por más de 15 días falte alguno de los propietarios;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 IV.- Dictaminar los asuntos que se le presenten en tiempo de sus funciones y los que queden pendientes al clausurarse el período ordinario. Cuando se trate de asuntos de la competencia del Congreso, se reservarán los dictámenes para que sean discutidos por éste;
 
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
 V.- Resolver todos los asuntos concernientes a las elecciones de funcionarios municipales;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 VI.- Conocer de los asuntos relacionados con la hacienda de los municipios y revisar y aprobar sus cuentas;
 
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
 VII.- Otorgar o negar la aprobación de los nombramientos de Magistrados del Poder Judicial del Estado que sometan a su consideración y en su caso recibirles la protesta;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 VIII.- Nombrar Gobernador Interino o Provisional en los supuestos a que se refiere esta Constitución y recibir su protesta;
 
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
 IX.- Conceder licencia por más de treinta días al Gobernador del Estado;
 
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
 X.- Recibir, en su caso, la protesta de Gobernador Interino o Provisional;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 XI.- Revisar y aprobar los avances financieros de la cuenta pública que envíe el Ejecutivo del Estado; y las demás que le asigne la presente Constitución.
 
@@ -971,7 +995,7 @@ El ejercicio en el que proceda la renovación sexenal del Poder Ejecutivo, la cu
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2001)</small>
 
-XIX.- Presentar al Congreso del Estado, en el ultimo cuatrimestre del año respectivo, el presupuesto de egresos del año siguiente; en el caso de que la presentación en el cuatrimestre mencionado no corresponda con el período ordinario de sesiones, se convocará al Congreso, a sesión extraordinaria;
+XIX.- Presentar al Congreso del Estado, en el último cuatrimestre del año respectivo, el presupuesto de egresos del año siguiente; en el caso de que la presentación en el cuatrimestre mencionado no corresponda con el período ordinario de sesiones, se convocará al Congreso, a sesión extraordinaria;
 
 XX.- Facilitar al poder judicial los auxilios que necesite para el ejercicio expedito de sus funciones;
 
@@ -1101,15 +1125,17 @@ Los Magistrados de la Sala Superior del Supremo Tribunal de Justicia serán nomb
 
 Los Magistrados de la Sala Superior durarán en su encargo siete años y no podrán ser designados para un siguiente período.
 
-La Sala Superior residirá en la Capital del Estado; su jurisdicción y competencia serán las establecidas en esta Constitución y en la Ley Orgánica respectiva; las sesiones del Pleno deberán ser acordadas por unanimidad de sus miembros.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+
+La Sala Superior residirá en la Capital del Estado; su jurisdicción y competencia serán las establecidas en esta Constitución y en la Ley Orgánica respectiva; las sesiones ordinarias del Pleno deberán ser acordadas por unanimidad de sus miembros.
 
 El Presidente del Supremo Tribunal de Justicia lo será el Presidente de la Sala Superior quien será elegido por el Pleno de la propia Sala cada tres años en la primera semana del mes de enero, pudiendo ser reelegido una sola vez y, en sus faltas temporales no mayores de treinta días, será sustituido por el Magistrado que él designe; pero si excediere de ese término, la designación del Magistrado Presidente Interino la hará el Pleno.
 
-La Sala Superior del Supremo Tribunal de Justicia y el Tribunal Electoral elaborarán su propio presupuesto y el Consejo de la Judicatura lo hará para el resto del Poder Judicial del Estado. Los presupuestos elaborados y aprobados serán remitidos por el Consejo de la Judicatura para su inclusión en el proyecto de Presupuesto de Egresos del Estado. La administración de la Sala Superior corresponderá a su Presidente.
+La Sala Superior del Supremo Tribunal de Justicia y el Tribunal Electoral elaborarán su propio presupuesto y el Consejo de la Judicatura lo hará para el resto del Poder Judicial del Estado. Los presupuestos elaborados y aprobados serán remitidos por el Consejo de la Judicatura para su inclusión en el proyecto de Presupuesto de Egresos del Estado. La administración de la Sala Superior correponderá a su Presidente.
 
 Cuando ocurriere una vacante definitiva de algún Magistrado de la Sala Superior por defunción, renuncia, incapacidad o cualquier otra causa y el Congreso se encuentre en receso, la Comisión permanente de inmediato convocará a un período extraordinario de sesiones para hacer el nombramiento correspondiente. Conocerá de la terna respectiva y resolverá sobre su aprobación.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
 ## TITULO SEPTIMO. DE LOS MUNICIPIOS
 
@@ -1117,7 +1143,9 @@ Cuando ocurriere una vacante definitiva de algún Magistrado de la Sala Superior
 
 ###### ARTICULO 51.
 
-La Sala Superior sesionará en Pleno; este será el órgano rector de los criterios jurídicos de interpretación de esta Constitución y las leyes que de ella emanen. El Pleno estará integrado por siete Magistrados, pero bastará la presencia de cinco para que pueda sesionar. Son atribuciones del Pleno las siguientes:
+La Sala Superior sesionará en Pleno o en Salas. Actuando en Pleno será el órgano rector de los criterios jurídicos de interpretación de esta Constitución y las leyes que de ella emanen. El Pleno estará integrado por siete Magistrados, pero bastará la presencia de cinco para que pueda sesionar. Sus atribuciones son las siguientes:
+
+En Pleno:
 
 I.- Garantizar la supremacía y control de esta Constitución mediante su interpretación.
 
@@ -1127,13 +1155,19 @@ III.- Dirimir conflictos de competencia que se susciten entre Salas Regionales o
 
 IV.- Emitir acuerdos generales a fin de lograr una adecuada distribución entre los órganos del Poder Judicial respecto de los asuntos que les compete conocer, para la mejor y mayor prontitud de su despacho.
 
-V.- Conocer de los asuntos en apelación, de oficio o a petición fundada de la correspondiente Sala Colegiada o Unitaria Regional, o del Procurador General de Justicia del Estado, que por su interés o trascendencia así lo ameriten.
+V.- Dictar el Reglamento Interior del Poder Judicial con excepción del Tribunal Electoral y Tribunal del Servicio Civil;
 
-VI.- Dictar el Reglamento Interior del Poder Judicial con excepción del Tribunal Electoral y Tribunal de Servicio Civil.
+VI.- Designar a los miembros del Consejo de la Judicatura que corresponda al Poder Judicial, y
 
-VII.- Designar a los miembros del Consejo de la Judicatura que corresponda al Poder Judicial; y
+VII.- Ejercer las demás facultades que le confieran esta Constitución y la Ley.
 
-VIII.- Ejercer las demás facultades que le confieran esta Constitución y la Ley.
+En Salas:
+
+VIII.- Conocer de los asuntos en apelación, de oficio o a petición fundada de la correspondiente Sala Colegiada o Unitaria Regional, o del Procurador General de Justicia del Estado, que por su interés o trascendencia así lo ameriten;
+
+IX.- Resolver de oficio o a petición fundada de parte los juicios de nulidad que conforme a la Ley de Justicia Administrativa se tramiten en las Salas;
+
+X.- Conocer a petición de la Sala Superior de los juicios administrativos radicados en las Salas Regionales por resoluciones que pronuncien las autoridades de las dependencias y entidades del Poder Ejecutivo Estatal o Municipal, en funciones administrativas o fiscales.
 
 > <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
@@ -1239,7 +1273,7 @@ La resolución que emita el Pleno de la Sala Superior que decrete la existencia 
 
 IV.- A efecto de dar respuesta fundada y motivada a las cuestiones de inconstitucionalidad formulada por los Magistrados o Jueces del Estado cuando tengan duda sobre la constitucionalidad o aplicación de una Ley local, en el proceso sobre el cual tengan conocimiento, las peticiones deberán ser desahogadas en un plazo no mayor de treinta días.
 
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 ###### ARTICULO 57.
 
@@ -1257,7 +1291,7 @@ El Consejo de la Judicatura tendrá a su cargo la administración de los recurso
 
 Además, informará sobre su gestión al Pleno de la Sala Superior, en los términos de la Ley Orgánica; elaborará el Presupuesto del Poder Judicial, con la excepción antes citada; los someterá a la consideración del Pleno de la Sala Superior y una vez aprobado lo remitirá para su inclusión en el Proyecto de Presupuesto de Egresos del Estado.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 58.
 
@@ -1415,11 +1449,11 @@ En ningún caso podrán hacerse incorporaciones o segregaciones de un municipio 
 
 El patrimonio y la Hacienda del Estado se componen de los bienes del mismo, de los mostrencos abandonados o vacantes que estén dentro de su territorio; de las herencias y donativos; de los creditos que obtenga a su favor, de las rentas que deba percibir, de los ingresos decretados por el Congreso, de las participaciones federales y de los que por cualquier otro título obtenga.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 65.
 
-El Gobernador, de acuerdo con la naturaleza de las funciones ejecutivas que le correspondan, tiene facultad y obligación de cuidar los fondos públicos, tal como se previene en el Artículo 42 fracción IV de esta Constitución. Para ese fin y como dependencia del Ejecutivo, la Secretaría de Hacienda del Estado tiene a su cargo el despacho de esos asuntos, en los términos previstos en la Ley Orgánica de la Administración Pública del Estado.
+El Gobernador, de acuerdo con la naturaleza de las funciones ejecutivas que le correspondan, tiene facultad y obligación de cuidar los fondos públicos, tal como se previene en el Artículo 42 fracción IV de esta Constitución. Para ese fin y como dependencia del Ejecutivo, contará con un organismo que tendrá a su cargo el despacho de esos asuntos, en los términos previstos en la Ley Orgánica de la Administración Pública del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2000)</small>
 
@@ -1443,11 +1477,11 @@ Las partidas presupuestales, o las que asignen cualquier cantidad para gastos ex
 
 El funcionario que realice erogaciones que no estén previstas en las leyes correspondientes, incurrirá en responsabilidad oficial y responderá con su patrimonio de las erogaciones realizadas.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 67.
 
-Para la glosa de las cuentas de Hacienda del Estado y de los Municipios habrá un Organo de Fiscalización Superior que dependerá del Congreso del Estado y en sus recesos de la Comisión Permanente a través de su Comisión de Vigilancia.
+Para la glosa de las cuentas de Hacienda del Estado y de los Municipios habrá un Órgano de Fiscalización Superior que dependerá del Congreso del Estado y en sus recesos de la Comisión Permanente a través de la Comisión de Vigilancia.
 
 Para el desempeño de sus funciones podrá contar con elementos necesarios que requiera.
 
@@ -2559,7 +2593,7 @@ P.O. 23 DE OCTUBRE DE 2001.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- La entidad de Fiscalización Superior del Estado iniciará sus funciones a partir de su Constitución. Para tal efecto el H. Congreso del Estado deberá expedir la ley a que se refiere la fracción XVIII del artículo 29 de esta Constitución, a más tardar el 10 de noviembre del año en curso.
+SEGUNDO.- La entidad de Fiscalización Superior del Estado iniciará sus funciones a partir de su Constitución. Para tal efecto el H. Congreso del Estado deberá expedir la ley a que se refiere la fracción XVIII del artículo 29 de esta Constitución, a mas tardar el 10 de noviembre del año en curso.
 
 TERCERO.- En tanto la entidad de Fiscalización Superior del Estado no empiece a ejercer las atribuciones a que se refiere este decreto, la Contaduría Mayor de Hacienda continuará ejerciendo las atribuciones que actualmente tiene de conformidad con el texto constitucional local y su ley orgánica, antes de la entrada en vigor del presente decreto.
 
@@ -2613,7 +2647,7 @@ P.O. 17 DE AGOSTO DE 2003.
 
 Primero.- El presente Decreto de reformas a la Constitución iniciará su vigencia al siguiente día a su publicación en el Periódico Oficial del Estado.
 
-Segundo.- Tan luego como se obtenga la aprobación de la mayoría de los Ayuntamientos, el Congreso del Estado expedirá la Ley Órgánica del Congreso y la Ley del Organo de Fiscalización Superior.
+Segundo.- Tan luego como se obtenga la aprobación de la mayoría de los Ayuntamientos, el Congreso del Estado expedirá la Ley Orgánica del Congreso y la Ley del Órgano de Fiscalización Superior.
 
 Tercero.- En tanto se crea la Nueva Ley de Fiscalización Superior del Estado, la actual Entidad de Fiscalización Superior continuará ejerciendo las atribuciones conforme a la ley que actualmente le rige.
 
@@ -2636,3 +2670,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se contrapongan al presente dec
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE NOVIEMBRE DE 2004.
+
+PRIMERO.- La reforma del artículo 22 de la Constitución Política del Estado Libre y Soberano de Chiapas entrará en vigor el día 15 de noviembre de 2004.
+
+SEGUNDO.- La reforma del primer párrafo del artículo 31, y de los artículos 50, 51, 65 y 67 de la Constitución Política del Estado Libre y Soberano de Chiapas entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chiapas.
