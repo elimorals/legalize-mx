@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1975-06-20"
+last_updated: "1976-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 1976.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -8643,15 +8643,15 @@ En los contratos civiles cada uno se obliga en la manera y términos que aparezc
 
 Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1976)</small>
+
 ###### ARTICULO 1721.
 
 Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
 
 Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 1974)</small>
-
-Los contratos hasta por un valor de cien mil pesos, por venta, hipoteca, préstamo, arrendamiento o cualquier otro, que celebre el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Gobierno y Municipios del Estado, con sus propios asegurados o pensionistas, podrán otorgarse en documento privado, sin los requisitos de testigos y ratificación de firma.
+Los contratos, hasta por un valor de ciento cincuenta mil pesos, por venta, hipoteca, préstamo, arrendamiento o cualquier otro, que celebre el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Gobierno y Municipios del Estado, con sus propios asegurados o pensionistas, podrán otorgarse en documento privado, sin los requisitos de testigos y ratificación de firma.
 
 DIVISION DE LOS CONTRATOS
 
@@ -14676,5 +14676,9 @@ Este Decreto entrará en vigor el día siguiente de su publicación en el Perió
 Los CC. Presidentes Municipales autorizarán, cuando lo juzguen oportuno, a los respectivos Oficiales del Registro Civil de su jurisdicción, para que implanten el sistema de Micro-filmación.
 
 P.O. 20 DE JUNIO DE 1975.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 20 DE OCTUBRE DE 1976.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
