@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1975-10-24"
+last_updated: "1977-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 1977.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -979,9 +979,11 @@ En las contiendas sobre propiedad o posesión de un inmueble, la competencia se 
 
 De las cuestiones sobre estado o capacidad de las personas, sea cual fuere el interés pecuniario que de ellas dimanare, conocerán los jueces de primera instancia.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1977)</small>
+
 ###### Artículo 158.
 
-En la reconvención, es juez competente el que lo sea para conocer de la demanda principal, aunque el valor de aquella sea inferior a la cuantía de su competencia, pero si dicha reconvención fuere por más de cien pesos y estuviere conociendo un juez menor, pasará el conocimiento del caso al juez de primera instancia correspondiente.
+En la reconvención, es Juez competente el que lo sea para conocer de la demanda principal, aunque el valor de aquélla sea inferior a la cuantía de su competencia; pero si dicha reconvención fuere por más de dos mil quinientos pesos y estuviere conociendo un Juez Menor, pasará el conocimiento del caso al Juez de Primera Instancia correspondiente.
 
 ###### Artículo 159.
 
@@ -6123,7 +6125,7 @@ Los gastos de apeo se harán a prorrata por el que lo promueva y los propietario
 
 ### CAPITULO UNICO.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 1959)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1977)</small>
 
 ###### Artículo 996.
 
@@ -6153,7 +6155,7 @@ Del Procedimiento en los Negocios de la Competencia de los Jueces Menores.
 
 ###### Artículo 998.
 
-Los Jueces Menores en los negocios de su competencia o sean aquellos cuyo interés no exceda de $500.00 en las Cabeceras de los Distritos Judiciales y de $200.00 en el resto, procederán con sujeción a las disposiciones especiales de este título y, en lo no previsto, observarán las reglas generales y disposiciones de este Código, para el juicio ordinario.
+Los jueces menores en los negocios de su competencia o sean aquellos cuyo interés no exceda de dos mil quinientos pesos, procederán, con sujeción a las disposiciones especiales de este título y, en lo no previsto, observarán las reglas generales y disposiciones de este Código, para el juicio ordinario.
 
 ###### Artículo 999.
 
@@ -6161,9 +6163,11 @@ Para estimar el interés del negocio se atenderá a lo que el actor demande. Los
 
 Cuando se trata de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se trate de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este artículo.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1977)</small>
+
 ###### Artículo 1000.
 
-No obstante lo que se dispone en el artículo anterior, si el Juez en cualquier estado del juicio encuentra que éste no es de su competencia, por exceder su interés de cien pesos o en razón de corresponder su conocimiento a Juez de distinta jurisdicción o de otro fuero, suspenderá de plano el procedimiento y remitirá lo actuado al Juez correspondiente.
+No obstante lo que se dispone en el Artículo anterior, si el juez en cualquier estado del juicio encuentra que éste no es de su competencia, por exceder su interés de dos mil quinientos pesos o en razón de corresponder su conocimiento a Juez de distinta jurisdicción o de otro fuero, suspenderá de plano el procedimiento y remitirá lo actuado al Juez correspondiente.
 
 ###### Artículo 1001.
 
@@ -6239,9 +6243,11 @@ Todas las acciones y excepciones o defensas se harán valer en el acto mismo de 
 
 Antes de pronunciar el fallo el Juez exhortará de nuevo a las partes a una composición amigable y si logra la avenencia, dará por terminado el juicio observando en lo conducente lo que dispone el artículo 1009.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1977)</small>
+
 ###### Artículo 1014.
 
-Si a la hora señalada para la celebración de la audiencia a que se refieren los artículos 1004 y 1008 no estuviere presente el actor y si el demandado, se impondrá a aquel una multa de uno a diez pesos, que se aplicará al reo por vía de indemnización y sin que se justifique haberse hecho el pago no se citará de nuevo para el juicio.
+Si a la hora señalada para la celebración de la audiencia a que se refieren los Artículos 1004 y 1008 no estuviere presente el actor y sí el demandado, se impondrá a aquél una multa de veinticinco a doscientos cincuenta pesos, que se aplicará al reo por vía de indemnización y sin que se justifique haberse hecho el pago no se citará de nuevo para el juicio.
 
 ###### Artículo 1015.
 
@@ -6524,3 +6530,15 @@ P.O. 24 DE OCTUBRE DE 1975.
 ###### ARTICULO UNICO.
 
 El presente Decreto empezará a surtir sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 7 DE MARZO DE 1977.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor a los treinta días de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Los Juzgados de Primera Instancia seguirán conociendo de los negocios de cuantía hasta de dos mil quinientos pesos, que ante ellos se hayan iniciado con anterioridad a la vigencia del presente decreto, hasta su total conclusión, incluyéndose el procedimiento de ejecución.
+
+Los negocios a que se refiere el párrafo que antecede, serán considerados como de primera instancia hasta su total conclusión, aún cuando ya esté vigente la presente reforma.
