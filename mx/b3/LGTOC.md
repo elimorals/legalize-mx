@@ -4,7 +4,7 @@ identifier: "LGTOC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1932-08-27"
-last_updated: "1990-12-26"
+last_updated: "1996-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2348&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGTOC"
 
 LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MAYO DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 27 de agosto de 1932.
 
@@ -254,6 +254,8 @@ El endoso puede hacerse en blanco, con la sola firma del endosante. En este caso
 
 El endoso al portador produce los efectos del endoso en blanco.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 Tratándose de acciones, bonos de fundador, obligaciones, certificados de depósito, certificados de participación y cheques, el endoso siempre será a favor de persona determinada; el endoso en blanco o al portador no producirá efecto alguno. Lo previsto en este párrafo no será aplicable a los cheques expedidos por cantidades hasta de cinco millones de pesos.
@@ -477,6 +479,8 @@ El depósito nada prejuzga acerca de las defensas y excepciones personales que p
 Constituido el depósito sin la reserva mencionada antes, el Juez transferirá el título al signatario depositante, en cuanto concluya el plazo fijado por la fracción I del artículo 45, y mandará entregar la cantidad depositada al que resulte con derecho a ella en los procedimientos de cancelación y oposición.
 
 Si el depósito se hiciere con reservas, el Juez lo pondrá a disposición del Juzgado que conozca del juicio a que alude el artículo 54, para que quede a las resultas del mismo, a menos que dichas reservas no se refieran a la parte que haya obtenido en su favor la cancelación o devolución del título. En este último caso, se procederá como en el previsto en el párrafo anterior.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 63.
 
@@ -1274,6 +1278,8 @@ El cheque será siempre pagadero a la vista. Cualquiera inserción en contrario 
 
 El cheque puede ser nominativo o al portador.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 El cheque expedido por cantidades superiores a cinco millones de pesos, siempre deberá ser nominativo. Dicha cantidad, así como la establecida por el artículo 32 de esta Ley, se actualizará el 1o. de enero de cada año en los términos del artículo 17-A del Código Fiscal de la Federación, por el período transcurrido desde el mes de diciembre del penúltimo año hasta el mes de diciembre del último año inmediato anterior a aquél en que se actualiza.
@@ -1465,6 +1471,8 @@ Las acciones contra el que expida o ponga en circulación los cheques de viajero
 Las sociedades anónimas pueden emitir obligaciones que representen la participación individual de sus tenedores en un crédito colectivo constituido a cargo de la sociedad emisora.
 
 Las obligaciones serán bienes muebles aun cuando estén garantizadas con hipoteca.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
@@ -2732,9 +2740,13 @@ El fideicomitente puede designar varios fideicomisarios para que reciban simult�
 
 Cuando sean dos o más los fideicomisarios y deba consultarse su voluntad, en cuanto no esté previsto en la constitución del fideicomiso, las decisiones se tomarán a mayoría de votos computados por representaciones y no por personas. En caso de empate, decidirá el Juez de Primera Instancia del lugar del domicilio del fiduciario.
 
-> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
-Es nulo el fideicomiso que se constituye en favor del fiduciario.
+Es nulo el fideicomiso que se constituye en favor del fiduciario, salvo lo dispuesto en el párrafo siguiente, y en las demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+La institución fiduciaria podrá ser fideicomisaria en los fideicomisos en que, al constituirse, se transmita la propiedad de los bienes fideicomitidos y que tengan por fin servir como instrumento de pago de obligaciones incumplidas, en el caso de créditos otorgados por la propia institución para la realización de actividades empresariales. En este supuesto, las partes deberán designar de común acuerdo a una institución fiduciaria sustituta para el caso que surgiere un conflicto de intereses entre las mismas.
 
 ###### ARTICULO 349.
 
@@ -2784,7 +2796,7 @@ III.- Si se tratare de cosa corpórea o de títulos al portador, desde que esté
 
 ###### ARTICULO 355.
 
-El fideicomisario tendrá, además de los derechos que se le concedan por virtud del acto constitutivo del fideicomiso, el de exigir su cumplimiento a la institución fiduciaria; el de atacar la validez de los actos que ésta cometa en su perjuicio, de mala fe o en exceso de las facultades que por virtud del acto constitutivo o de la ley le corresponda, y cuando ello sea procedente, el de reivindicar los bienes que a consecuencia de esos actos hayan salido del patrimonio objeto del fideicomiso.
+El fideicomisario tendrá, además de los derechos que se le concedan por virtud del acto constitutivo del fideicomiso, el de exigir su cumplimiento a la institución fiduciaria; el de atacar la validez de los actos que ésta cometa en su perjuicio, de mala fe o en exceso de las facultades que por virtud del acto constitutivo o de la ley le correspondan, y cuando ello sea procedente, el de reivindicar los bienes que a consecuencia de esos actos hayan salido del patrimonio objeto del fideicomiso.
 
 Cuando no exista fideicomisario determinado o cuando éste sea incapaz, los derechos a que se refiere el párrafo anterior, corresponderán al que ejerza la patria potestad, al tutor o al Ministerio Público, según el caso.
 
@@ -3011,5 +3023,15 @@ D.O.F. 31 DE DICIEMBRE DE 1951.
 ## TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991, excepción hecha de lo dispuesto por el Artículo Vigésimo Quinto que iniciará su vigencia al día siguiente de la publicación de esta Ley en el Diario Oficial de la Federación.
+
+...
+
+D.O.F. 24 DE MAYO DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+...
+
+TERCERO.- La reforma prevista en el artículo cuarto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y será aplicable a fideicomisos que se celebren con posterioridad a dicha entrada en vigor, y sin que estos fideicomisos puedan ser instrumentos para novar créditos contraídos con anterioridad a la entrada en vigor de este decreto.
 
 ...
