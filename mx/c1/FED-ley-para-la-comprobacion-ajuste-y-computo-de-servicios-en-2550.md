@@ -4,7 +4,7 @@ identifier: "FED-ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-2550"
 country: "mx"
 rank: "ley"
 publication_date: "1943-12-31"
-last_updated: "1943-12-31"
+last_updated: "1944-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2550&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1943-11-29"
 
 LEY PARA LA COMPROBACION, AJUSTE Y COMPUTO DE SERVICIOS EN EL EJERCITO NACIONAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE DICIEMBRE DE 1944.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 31 de diciembre de 1943.
 
@@ -71,9 +71,15 @@ El tiempo de servicios se contará a los militares desde el día en que hayan in
 
 Cuando algún documento que compruebe el ingreso al Ejército, precise el mes, pero no la fecha exacta, se tomará como base el 15 del propio mes, fijándose éste como de alta, a menos que haya otro dato que permita fijar otra fecha anterior.
 
+> <small>(REFORMADO, D.O.F. 2 DE DICIEMBRE DE 1944)</small>
+
 ###### ARTICULO 10.
 
-La antigüedad para los miembros del Ejército, se contará desde la fecha que se fije en el nombramiento o patente respectivos, teniéndose en cuenta las deducciones que procedan de acuerdo con lo dispuesto en la presente ley.
+La antigüedad en el empleo para los miembros del Ejército, se contará desde la fecha que se fija en el nombramiento o patente respectivos, teniéndose en cuenta las deducciones que procedan, de acuerdo con lo dispuesto en la presente ley.
+
+Los jefes y oficiales, sargentos y cabos que pasen de un escalafón a otro, tendrán en su empleo la antigüedad de la nueva patente o nombramiento, que en todos los casos se les expedirá, debiéndose cancelar, en todo caso, la patente del arma o servicio de procedencia.
+
+Cuando el cambio se efectúe no por solicitud del interesado, sino por disposición expresa del Presidente de la República o del Secretario de la Defensa Nacional de acuerdo con las disposiciones legales, y tomando en consideración las exigencias del servicio, la nueva patente se expedirá con la antigüedad que tenían en el empleo y arma o servicio anteriores.
 
 ###### ARTICULO 11.
 
@@ -402,3 +408,11 @@ La presente ley surtirá efectos a partir de la fecha de su publicación en el D
 Se derogan todas las disposiciones legales que se opongan a lo expresamente determinado en esta ley.
 
 Y en cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su publicación y observancia, expido la presente ley en la ciudad de México, Distrito Federal, a los veintinueve días del mes de noviembre de mil novecientos cuarenta y tres.- Manuel Avila Camacho.- Rúbrica.- El Secretario de Estado y del Despacho de la Defensa Nacional, Lázaro Cárdenas.- Rúbrica.- El Secretario de Estado y del Despacho de Gobernación, Miguel Alemán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 2 DE DICIEMBRE DE 1944.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial" de la Federación, quedando derogadas todas las disposiciones que se le opongan.
