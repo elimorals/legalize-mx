@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1949-06-29"
+last_updated: "1952-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE JUNIO DE 1949.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE ABRIL DE 1952.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -1063,11 +1063,13 @@ Para ser Defensor de Oficio se requieren los mismos requisitos que para ser Agen
 
 El Poder Judicial se deposita, para su ejercicio, en un Supremo Tribunal de Justicia y en los Jueces de Primera Instancia, Locales y Menores.
 
-> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
+> <small>(REFORMADO, B.O. 5 DE ABRIL DE 1952)</small>
 
 ###### Artículo 113.
 
-El Supremo Tribunal de Justicia del Estado, se compondrá de tres Magistrados Propietarios y seis Suplentes, electos cada cuatro años por el Congreso del Estado, pudiendo ser reelectos. Habrá también Magistrados insaculados, cuyo nombramiento se hará en la forma que indique la Ley Orgánica respectiva.
+El Supremo Tribunal de Justicia se compondrá de cinco Magistrados Propietarios y ocho Suplentes, electos cada cuatro años por el Congreso del Estado, pudiendo ser reelectos. Los que fueren electos en el curso del período desempeñarán sus funciones hasta la conclusión del mismo.
+
+Habrá también Magistrados Insaculados, cuyo nombramiento se hará en la forma que lo indica la Ley Orgánica respectiva.
 
 > <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 1932)</small>
 
@@ -1101,13 +1103,17 @@ El cargo de Magistrado solamente es renunciable por causa grave calificada por e
 
 Los Magistrados Propietarios y Suplentes, rendirán la protesta de Ley ante el Congreso del Estado o ante la Diputación Permanente, y los insaculados ante el Presidente del Supremo Tribunal.
 
+> <small>(REFORMADO, B.O. 5 DE ABRIL DE 1952)</small>
+
 ###### Artículo 117.
 
-El Supremo Tribunal de Justicia funcionará en Salas Unitarias, que se distinguirán por los ordinales, Primera, Segunda y Tercera y en Sala Colegiada, que se integrará por los tres Magistrados que estén sirviendo aquellas.
+El Supremo Tribunal del Justicia funcionará, conforme a las prescripciones de la Ley Orgánica respectiva, en Sala Colegiada que se integrará por los cinco Magistrados, y en Salas Unitarias que se distinguirán por la numeración ordinal, Primera, Segunda, Tercera, Cuarta y Quinta.
+
+> <small>(REFORMADO, B.O. 5 DE ABRIL DE 1952)</small>
 
 ###### Artículo 118.
 
-El Supremo Tribunal tendrá un Presidente, y lo será por turno, el Magistrado de cada Sala, comenzando con la Primera, en la forma que establezca la Ley.
+El Supremo Tribunal de Justicia tendrá un Presidente, y lo será el Magistrado electo cada año por mayoría de votos de sus miembros.
 
 > <small>(REFORMADO, B.O. 20 DE ABRIL DE 1949)</small>
 
@@ -1214,6 +1220,10 @@ El Estado quedará dividido para su Gobierno en Municipios y Comisarías.
 ###### Artículo 129.
 
 Cada Municipio será administrado por un Ayuntamiento nombrado en elección popular directa. No habrá autoridad ninguna intermediaria entre el Ayuntamiento y el Ejecutivo del Estado. El número de Concejales que integre los Ayuntamientos será determinado por la Ley Orgánica relativa, debiendo en todo caso no ser menor de tres.
+
+> <small>(ADICIONADO, B.O. 5 DE ABRIL DE 1952)</small>
+
+En las elecciones municipales participarán las mujeres en igualdad de condiciones que los hombres, con el derecho de votar y ser votadas.
 
 ###### Artículo 130.
 
@@ -1644,6 +1654,20 @@ Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el
 B.O. 29 DE JUNIO DE 1949.
 
 Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 5 DE ABRIL DE 1952.
+
+LEY No. 121, QUE ADICIONA EL ARTICULO 129 DE LA CONSTITUCION.
+
+Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 5 DE ABRIL DE 1952.
+
+LEY No. 122, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+
+Primero.- Tan luego como entre en vigor la presente Ley, el Congreso del Estado hará la elección de los dos nuevos Magistrados que en la misma se establecen, correspondientes a las Salas Cuarta y Quinta.
+
+Segundo.- Esta Ley empezará a regir desde el día de su publicación en el Boletín Oficial del Estado.
 
 ###### ARTÍCULO ÚNICO.
 
