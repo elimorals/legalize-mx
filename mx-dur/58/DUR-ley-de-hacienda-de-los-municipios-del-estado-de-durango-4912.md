@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-de-los-municipios-del-estado-de-durango-4912"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-06"
-last_updated: "1992-12-24"
+last_updated: "1993-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1993.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 6 de marzo de 1988.
 
@@ -181,9 +181,11 @@ c).- En aquéllos cuyas posesiones sean provisionales o respecto a las cuales ya
 
 d).- En aquéllos cuyas posesiones sean provisionales o respecto de los cuales ya se hubiesen ejecutado las Resoluciones Presidenciales respectivas dedicados a la explotación de bosques madereros, pagarán el 5% (cinco por ciento) sobre el valor de su producción comercializada.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1993)</small>
+
 ###### ARTICULO 13.
 
-Las bases para el cobro del Impuesto Predial que establecen las Fracciones I y II del Artículo 12, de esta Ley, se aplicarán conforme a cuotas porcentuales por metro cuadrado para el terreno de los predios urbanos, cuotas porcentuales por hectárea para los predios rurales y cuota porcentual por metro cuadrado para las construcciones de los diferentes tipos, tomando como base para la determinación de dicho porcentaje una cantidad igual a la señalada para el salario mínimo diario vigente, de conformidad con las siguientes reglas y clasificaciones:
+Las bases para el cobro del Impuesto Predial que establecen las fracciones I y II del Artículo 12 de esta Ley, se aplicarán conforme a una tasa del 2.0 al millar del valor catastral de los predios urbanos y construcciones; tratándose de predios rústicos y construcciones, la tasa será de 1 al millar del valor catastral en todo el Estado, de conformidad con las siguientes reglas y clasificaciones:
 
 I.- Terreno de los Predios Urbanos:
 
@@ -191,39 +193,23 @@ a).- Todas las poblaciones del Estado serán clasificadas por la Dirección Gene
 
 b).- Como segunda fase, la Dirección General de Catastro establecerá en cada población del Estado, el número que sea necesario de Zonas Económicas Catastrales, tomando en cuenta para realizar esta clasificación, entre los más importantes, los siguientes factores o elementos; la ubicación de la zona con respecto a la Población y a los centros cívicos, comerciales o industriales; los servicios públicos directos con los que cuenta la zona, así como la eficiencia de los mismos, tales como agua potable, energía eléctrica, alumbrado público, drenaje y alcantarillado pavimento, banquetas y guarniciones, servicio de limpia y vigilancia, los servicios públicos indirectos de la zona, tales como transportes, escuelas, mercados, hospitales e clínicas jardines y campos deportivos públicos; el régimen de propiedad, o sea, si cuentan con título o con asentamientos irregulares; el uso o destino predominante de los predios de la zona; y, las características socio-económicas de los habitantes de la misma;
 
-c).- Con base en la anterior clasificación, la Dirección General de Catastro enviará a los Municipios del Estado el estudio respectivo, para que éstos citen a una Junta Municipal, la cual estará integrada por el Presidente Municipal y cuando menos cuatro miembros de los Sectores más representativos del Municipio correspondiente, para que dicha Junta estudie el proyecto presentado por la Dirección de Catastro y con base en el asigne una cuota porcentual por metro cuadrado de terreno para cada Zona Económica Catastral de sus poblaciones, cuotas que pondrá a consideración del H. Congreso del Estado, el cual estudiará y resolverá sobre ellas en definitiva.
+II.- TERRENO DE LOS PREDIOS RURALES.
 
-II.- Terreno de los predios rurales:
+a).- Para efectos de la asignación del valor catastral por hectáreas de los predios rurales, la Dirección General de Catastro realizará los estudios adecuados y clasificará los terrenos atendiendo a sus características, tales como Topografía, clasificación de la tierra, profundidad, erosión, pedrigosidad, clima, disponibilidad de agua, inundación, salinidad y/o sodicidad, calidad en la tierra, distancias a las vías de comunicación y a los centros urbanos y de consumo infraestructura disponible, características actuales de producción o explotación de recursos; y, de manera fundamental, el uso potencial del terreno de la región.
 
-a).- Para efectos de la asignación de la Cuota Porcentual por hectárea de los Predios Rurales, la Dirección de Catastro realizará los Estudios adecuados y clasificará los terrenos atendiendo a sus características, tales como; Topografía, clasificación de la tierra, profundidad, erosión, pedregosidad, clima, disponibilidad de agua, inundación salinidad y/o sodicidad, calidad en la tierra, distancia a las vías de comunicación y a los centros urbanos o de consumo, infraestructura disponible, características actuales de producción o explotación de recursos; y, de manera fundamental, el uso potencial del terreno de la región;
+III.- CONSTRUCCIONES EN EL ESTADO.
 
-b).- Con base en la anterior clasificación la Dirección General de Catastro elaborará un estudio que presentará a los Municipios, para que éstos mediante una Junta Municipal de las mismas características mencionadas en el inciso c) de la Fracción I de este artículo apruebe las cuotas porcentuales que serán asignadas por Hectárea para el terreno y que pondrá a consideración del H. Congreso del Estado, el cual las estudiará y resolverá en definitiva.
+a).- Para efectos de la determinación del valor catastral por metro cuadrado, de las construcciones aplicables a todo el Estado, la Dirección General de Catastro realizará los estudios adecuados y clasificará las construcciones en dos grandes grupos: las antiguas y modernas, tomando como base la distinción entre ambas y el haber sido construídas aproximadamente durante la década de los años treinta, en que cambiaron los elementos constructivos y el uso de concreto. A su vez, dentro de estos dos grandes grupos las construcciones se clasificarán por su tipo en función de los elementos constructivos y materiales usados en ellas incluyendo su durabilidad, su calidad, su capacidad térmica y demás características; para lo cual se tomarán en cuenta cuatro grandes rubros: La estructura (cimientos, muros y columnas, entre pisos y techos). Los acabados: (pintura, lambrines, pisos y fachada). Las Instalaciones: (eléctrica, hidráulica, sanitaria y especiales) y las complementarias: (herrería, carpintería, vidriería, cerrajería, muebles sanitarios y en cocina); de donde resultarán las clasificaciones por tipos adecuados para las construcciones habitacionales. Además se clasificarán por separado los tipos de construcción aplicables a los tejabanes y construcciones industriales; existiendo una última clasificación: Las construcciones especiales, que son aquellas cuyas características, elementos constructivos, instalaciones y demás factores de la construcción difieren de la mayoría.
 
-III.- Construcciones en el Estado:
+IV.- Los estudios, clasificación y asignación de valores catastrales aplicables al terreno y construcciones de los predios, estarán basadas en el mayor acopio de datos que sea posible, con el objeto de fijar con criterios objetivos y estables, tomando en cuenta la situación económica del Estado y sus habitantes, el costo de instalación y mantenimiento de los servicios públicos; el porcentaje de aumento de los salarios de los habitantes de la entidad; los precios de venta de terrenos, materiales de construcción; y en general de todos los elementos que puedan inferir en los referidos valores catastrales basados en las posibilidades y en el principio de equidad para los contribuyentes.
 
-a).- Para efectos de la asignación de la Cuota Porcentual por metro cuadrado, de las construcciones aplicables a todo el Estado, la Dirección General de Catastro realizará los estudios adecuados y clasificará las construcciones en dos grandes grupos, Las Antiguas y Modernas tomando como base de distinción entre ambas, el haber sido construídas aproximadamente durante la década de los años treinta, en que cambiaron los elementos constructivos y el uso del concreto. A su vez, dentro de estos dos grandes grupos las construcciones se clasificarán por su Tipo en función de los elementos constructivos y materiales usados en ellas, incluyendo su durabilidad su calidad, su capacidad térmica y demás características; para lo cual se tomarán en cuenta cuatro grandes rubros: la estructura (cimientos, muros y columnas, entre pisos y techos) los acabados (pintura, lambrines, pisos y fachada); las instalaciones (eléctrica, hidráulica, sanitaria y especiales); y los complementos (herrería, carpintería, vidriería, cerrajería, muebles sanitarios y de cocina); de donde resultarán las clasificaciones por Tipos adecuados para las construcciones habitacionales. Además se clasificarán por separado los Tipos de Construcción aplicables a los Tejabanes y construcciones Industriales; existiendo una última clasificación: las construcciones Especiales que son aquellas cuyas características, elementos constructivos, instalaciones y demás factores de la construcción, difieren de la mayoría;
+V.- La mencionada tasa del 2.0 al millar para el pago del Impuesto Predial del terreno y construcciones urbanas, así como la tasa del uno al millar en el caso de predios rústicos y construcciones, será revisada previa solicitud del Ayuntamiento respectivo, mediante estudios de la Dirección General de Catastro, con base en los elementos que establece la fracción anterior.
 
-b).- Con base en la anterior clasificación, la Dirección General de Catastro enviará los estudios respectivos al Municipio que corresponda, para la realización de una Junta Municipal, la cual estará constituída por el Presidente Municipal del municipio que corresponda y cuando menos cuatro miembros de los sectores más representativos del Estado y de los Colegios o Asociaciones de Profesionistas y Técnicos en la materia existentes en el Municipio y un representante de la Dirección General de Catastro, Junta que aprobará una cuota porcentual por metro cuadrado de construcción según su tipo, las que pondrá a consideración del Congreso del Estado, el cual las estudiará y resolverá sobre ellas en definitiva.
-
-IV.- Los Estudios, clasificación y asignación de cuotas porcentuales aplicables al terreno y construcciones de los predios, estarán basados en el mayor acopio de datos que sea posible con el objeto de fijarlas con criterios objetivos y estables, tomando en cuanta (sic) la situación económica del Estado y sus habitantes, el costo de instalación, operación y mantenimiento de los servicios públicos; el porcentaje de aumento de los salarios de los habitantes en la entidad; los precios de venta de terrenos, materiales de construcción; y en general de todos los elementos que puedan inferir en la aplicación de las referidas cuotas, basadas en las posibilidades y en el principio de equidad para los contribuyentes.
-
-V.- Las mencionadas cuotas porcentuales para el pago de terrenos y construcciones serán revisados previa solicitud del Ayuntamiento respectivo, mediante estudios de la Dirección General de Catastro con base en los elementos que establece la fracción anterior, y en caso de que no hubiese habido modificaciones en las características de terreno y construcciones de las poblaciones o de las zonas económicas catastrales, o tipo de construcción, el estudio establecerá un porcentaje de aumento para cada grupo poblacional, el cual estará basado en los factores económicos vigentes al momento de la realización del mismo, tales como el costo de los artículos, el porcentaje de inflación general del país y del Estado, y los demás elementos que considere adecuado, estudio que pondrá a consideración de la Junta Municipal que corresponda para los efectos legales conducentes.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1993)</small>
 
 ###### ARTICULO 14.
 
-Una vez publicadas en el Decreto correspondiente del ejercicio fiscal de que se trate, las cuotas porcentuales anuales aplicables al terreno y a las construcciones de los predios, según las clasificaciones que establece el artículo anterior, el impuesto predial anual que pagará el sujeto pasivo por su predio, será la cantidad resultante de la suma de:
-
-I.- En los predios urbanos:
-
-a).- La base del Impuesto por el terreno, o sea la superficie total en metros cuadrados del mismo, multiplicado por la Cuota Porcentual Anual aplicable a la Zona Económica Catastral del Grupo Poblacional donde se encuentre ubicado;
-
-b).- Más; la base del Impuesto por construcciones, o sea la superficie total de las mismas en metros cuadrados, multiplicada por la cuota porcentual anual aplicable al Tipo de Construcción del predio. En caso de haber varios tipos de construcción en el predio, cada Tipo se multiplicará por el número de metros cuadrados que tenga y la suma de todos dará su Cuota Porcentual Anual.
-
-II.- En Predios Rurales:
-
-a).- La base del Impuesto por terreno, o sea la superficie total, en hectáreas del mismo, multiplicada por la cuota porcentual anual aplicable a su clasificación.
-
-b).- Más la base del Impuesto por construcciones, o sea la superficie total de las mismas en metros cuadrados, multiplicada por la Cuota Porcentual Anual aplicable al Tipo de Construcción de éstas.
+El Impuesto Predial anual que pagará el sujeto pasivo tanto en predios urbanos como en rurales, será en suma el resultado de aplicar la tasa establecida del 2.0 al millar, y del uno al millar, del valor catastral del terreno y de la construcción si la hubiere, en forma respectiva.
 
 ###### ARTICULO 15.
 
@@ -241,187 +227,49 @@ GRUPO POBLACIONAL 5.- Que comprende los municipios de Canelas, Coneto de Comonfo
 
 ###### ARTICULO 16.
 
-Grupo Poblacional 1. Las cuotas porcentuales por metro cuadrado de terreno aplicables a cada una de las zonas económicas catastrales, serán las siguientes:
-
-ZONA I 0.00056
-
-ZONA II 0.00146
-
-ZONA III 0.00280
-
-ZONA IV 0.00320
-
-ZONA V 0.00420
-
-ZONA VI 0.00520
-
-ZONA VII 0.00880
-
-ZONA VIII 0.01200
-
-ZONA IX 0.00700
-
-ZONA X 0.01400
-
-ZONA XI 0.03000
-
-ZONA XII 0.04400
-
-ZONA XIII 0.00300
+(DEROGADO, P.O. 3 DE ENERO DE 1993)
 
 ###### ARTICULO 17.
 
-Grupo Poblacional 2. Las cuotas porcentuales por metro cuadrado de terreno aplicables a cada una de las zonas económicas catastrales, serán las siguientes:
-
-ZONA I 0.00050
-
-ZONA II 0.00132
-
-ZONA III 0.00250
-
-ZONA VI 0.00460
-
-ZONA VIII 0.01080
-
-ZONA IX 0.00630
-
-ZONA XI 0.01200
-
-ZONA XIII 0.00200
+(DEROGADO, P.O. 3 DE ENERO DE 1993)
 
 ###### ARTICULO 18.
 
-Grupo Poblacional 3. Las cuotas porcentuales por metro cuadrado de terreno aplicables a cada una de las zonas económicas catastrales, serán las siguientes:
-
-ZONA I 0.00045
-
-ZONA II 0.00117
-
-ZONA III 0.00224
-
-ZONA VII 0.00250
-
-ZONA VIII 0.00280
-
-ZONA XI 0.00300
-
-ZONA XII 0.00180
+(DEROGADO, P.O. 3 DE ENERO DE 1993)
 
 ###### ARTICULO 19.
 
-Grupo Poblacional 4. Las cuotas porcentuales por metro cuadrado de terreno aplicables a cada una de las zonas económicas catastrales, serán las siguientes:
-
-ZONA I 0.00039
-
-ZONA II 0.00103
-
-ZONA III 0.00196
-
-ZONA VIII 0.00200
-
-ZONA XI 0.00250
+(DEROGADO, P.O. 3 DE ENERO DE 1993)
 
 ###### ARTICULO 20.
 
-Grupo Poblacional 5. Las cuotas porcentuales por metro cuadrado de terreno aplicables a cada una de las zonas económicas catastrales, serán las siguientes:
-
-ZONA l 0.00033
-
-ZONA II 0.00088
-
-ZONA III 0.00168
-
-ZONA VIII 0.00180
-
-ZONA XI 0.00200
+(DEROGADO, P.O. 3 DE ENERO DE 1993)
 
 ###### ARTICULO 21.
 
-Las cuotas porcentuales se aplicarán únicamente en las cabeceras municipales, para el resto de las poblaciones municipales se aplica solamente la cuota porcentual de las zonas económicas catastrales 1 y 2.
+(DEROGADO, P.O. 3 DE ENERO DE 1993)
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1993)</small>
 
 ###### ARTICULO 22.
 
-La Cuota Porcentual Anual del Impuesta Predial que corresponda pagar por los predios urbanos, podrá sufrir modificaciones resultado de la aplicación de los siguientes deméritos e incrementos:
+El Impuesto Predial que corresponda pagar por los predios urbanos, podrá sufrir modificaciones, resultados de la aplicación de los siguientes deméritos e incrementos:
 
-I.- Demérito del terreno:
+I.- DEMERITO DEL TERRENO:
 
-a).- Cuando el acceso al predio sea por medio de un callejón de uso peatonal únicamente o mediante servidumbre de paso de otro predio; la cuota porcentual anual correspondiente por el terreno, se demeritará en un 15% (quince por ciento); y
+a).- Cuando el acceso al predio sea por medio de un callejón de uso peatonal únicamente o mediante servidumbre de paso de otro predio; el Impuesto Predial Anual correspondiente por el terreno se demeritará en un quince por ciento (15%); y
 
-b).- Cuando el frente del predio esté ubicado sobre una calle que permita el paso de un sólo vehículo, no teniendo otra entrada, la cuota porcentual anual correspondiente para el terreno, se demeritará en un 10% (diez por ciento).
+b).- Cuando el frente del predio esté ubicado en una calle que permita el paso de un sólo vehículo no teniendo otra entrada, el Impuesto Predial correspondiente del terreno, se demeritará en un diez por ciento (10%).
 
-II.- Incrementos del terreno:
+II.- INCREMENTOS DEL TERRENO: Cuando un predio se encuentre baldío o sin construcciones permanentes, dentro de una población de más de veinte mil habitantes, el Impuesto Predial Anual correspondiente por el terreno, se incrementará:
 
-Cuando un predio se encuentre baldío o sin construcciones permanentes, dentro de una población de más de veinte mil habitantes, la Cuota Porcentual Anual correspondiente por el terreno se incrementará:
+a).- Cuando se trate de terrenos baldíos bardeados, en un diez por ciento (10%) adicional por el primer año; y en un cinco por ciento (5%) anual adicional por cada año que continúe sin construirse hasta un máximo del cincuenta por ciento (50%) del Impuesto Predial que le corresponda; y
 
-a).- Cuando se trate de terrenos baldíos bardeados, en un 10% (diez por ciento) adicional por el primer año y un 5% (cinco por ciento) anual adicional, por cada año que continúe sin construirse, hasta un máximo del 50% (cincuenta por ciento) de la Cuota Porcentual que le corresponda;
+b).- Cuando se trate de terrenos baldíos sin barda, en un veinte por ciento (20%) adicional por el primer año; y en un diez por ciento (10%) anual adicional, por cada año que continúe sin construírse hasta un máximo del cincuenta por ciento (50%) del Impuesto Predial que le corresponda.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1990)</small>
+###### ARTICULO 23o.
 
-b).- Cuando se trate de terrenos baldíos sin barda en un 50% (cincuenta por ciento) adicional por el primer año y en 10% (diez por ciento) anual adicional por cada año que continúe sin construirse, hasta un máximo de 100% (cien por ciento) de la cuota porcentual que le corresponda.
-
-Este gravamen a los predios baldíos es aplicable al predio y no al sujeto pasivo del mismo, por lo que, aún cuando cambiase de propietario éste tendrá la obligación de pagar el incremento acumulado del predio.
-
-###### ARTICULO 23.
-
-Las cuotas porcentuales por metro cuadrado de construcción para los municipios del Estado de Durango, serán las siguientes.
-
-TIPO DE CONSTRUCCION
-
-MODERNO LUJO 0.0320
-
-MODERNO DE CALIDAD 0.0200
-
-MODERNO MEDIANO 0.0160
-
-MODERNO ECONOMICO 0.0128
-
-MODERNO CORRIENTE, 0.0056
-
-MODERNO MUY CÓRRIENTE 0.0016
-
-ANTIGUO DE CALIDAD 0.0080
-
-ANTIGUO COMBINADO 0.0072
-
-ANTIGUO MEDIANO 0.0040
-
-ANTIGUO ECONOMICO 0.0028
-
-ANTIGUO CORRIENTE 0.0016
-
-ANTIGUO MUY CORRIENTE 0.0008
-
-INDUSTRIAL PESADO 0.0120
-
-INDUSTRIAL MEDIANO 0.0072
-
-INDUSTRIAL LIGERO 0.0048
-
-TEJABANES DE PRIMERA 0.0024
-
-TEJABANES DE SEGUNDA 0.0008
-
-III (sic).- Deméritos de las construcciones:
-
-Las Construcciones serán objeto de demérito sobre la cuota porcentual que les corresponda, atendiendo al estado de conservación de las mismas, de conformidad con la siguiente tabla:
-
-BUENO Demérito de un 15%
-
-(quince porciento)
-
-REGULAR Demérito de un 25%
-
-(veinticinco porciento)
-
-MALO Demérito de un 40%
-
-(cuarenta por ciento)
-
-RUINOSO Demérito de un 60%
-
-(sesenta por ciento)
-
-La clasificación del estado de conservación de las construcciones, será realizada para cada predio en lo particular, por la Dirección General de Catastro teniendo la obligación el sujeto pasivo del Impuesto de manifestar a esta Dirección, de las reparaciones u obras que realice en el predio y que modifiquen el estado de conservación del mismo.
+(DEROGADO, P.O. 3 DE ENERO DE 1993)
 
 ###### ARTICULO 24.
 
@@ -489,11 +337,11 @@ La Dirección General de Catastro determinará el estado de conservación de las
 
 La división de predios deberá ser manifestado a la Dirección General de Catastro, por el enajenante y los adquirientes, dentro de un plazo de quince días hábiles siguientes a aquél en que se realice la misma.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1993)</small>
+
 ###### ARTICULO 29.
 
-Las cuotas porcentuales del impuesto que se determinen con motivo de división de predios, entrarán en vigor a partir del bimestre siguiente a la fecha de autorización preventiva de la escritura pública o de la fecha del contrato privado traslativo de dominio, en su caso, en que se hubiera hecho constar el acto o contrato que motive la división.
-
-La Dirección General de Catastro del Estado empadronará cada uno de los predios que hubieren resultado de la división de otro.
+El Impuesto Predial que se determine con motivo de división de predios, entrará en vigor a partir del bimestre siguiente a la fecha de autorización preventiva de la escritura pública o de la fecha del contrato privado traslativo de dominio, en su caso, en que hubiera hecho constar el acto o contrato que motive la división. La Dirección General de Catastro del Estado, empadronará cada uno de los predios que hubieren resultado de la división de otro.
 
 ###### ARTICULO 30.
 
@@ -503,11 +351,11 @@ La nueva base del impuesto entrará en vigor a partir del bimestre siguiente a l
 
 La Dirección General de Catastro del Estado empadronará como uno solo, los predios fusionados.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1993)</small>
+
 ###### ARTICULO 31.
 
-La terminación de las nuevas construcciones permanentes deberá ser manifestada por sus propietarios a la Dirección General de Catastro del Estado. Estas manifestaciones deberán hacerse dentro de los quince días hábiles siguientes o la fecha de terminación de las obras o a la fecha en que sean ocupadas sin estar todavía terminadas.
-
-La cuota porcentual del impuesto que resulte de la suma de las cuotas porcentuales asignadas a las construcciones, mas la cuota porcentual que corresponde por el terreno entrará en vigor al bimestre siguiente al de la fecha de terminación u ocupación de las construcciones.
+La terminación de las nuevas construcciones permanentes, deberá ser manifestado por sus propietarios a la Dirección General de Catastro del Estado. Estas manifestaciones deberán hacerse dentro de los quince días hábiles siguientes a la fecha de terminación de las obras, o a la fecha en que sean ocupadas sin estar todavía terminadas.
 
 ###### ARTICULO 32.
 
@@ -517,19 +365,21 @@ El valor catastral que se fije a los predios, se aplicará como base para los ef
 
 La valuación catastral se hará separadamente para la tierra y para las construcciones permanentes. La suma de los valores resultantes será el valor catastral del predio.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1993)</small>
+
 ###### ARTICULO 34.
 
-La cuota porcentual del impuesto predial que debe pagar un predio, entrará en vigor por los bimestres que falten por vencerse en el ejercicio fiscal correspondiente a partir del siguiente bimestre a la fecha en que ocurrió el hecho o la circunstancia que dió lugar a su empadronamiento conforme a las disposiciones de esta Ley, sin embargo, tratándose de predios que, de acuerdo con las disposiciones legales anteriores vengan pagando el impuesto con una base diferente a la que establece este capítulo y que hayan tenido cambios que debieron haberse manifestado, la cuota que se les asigne se pondrá en vigor a partir del siguiente bimestre a la fecha de su notificación.
-
-En los casos en que la Dirección General de Catastro descubra que los datos del predio, tanto por terrenos como por construcciones, así como sus respectivas clasificaciones no corresponden a la realidad física del mismo, y éstas se modifiquen dando origen a la asignación correcta de las cuotas porcentuales que les corresponde pagar por terreno o construcción, según su superficie y clasificación, la cuota porcentual anual del impuesto predial aplicable al predio se ajustará y en caso de que el propietario o poseedor ya hubiese cubierto su impuesto predial anual correspondiente a dicho predio, podrán cobrársele las diferencias que resulten de la nueva asignación de cuotas.
+El Impuesto Predial que debe pagar un predio entrará en vigor por Ios bimestres que falten por vencerse en el ejercicio fiscal correspondiente a partir del siguiente bimestre a la fecha en que ocurrió el hecho o la circunstancia que dió lugar a su empadronamiento conforme a las disposiciones de esta Ley, sin embargo, tratándose de predios que de acuerdo con las disposiciones legales anteriores, vengan pagando el impuesto con una base diferente a la que establece este Capítulo y que hayan tenido cambios que debieron haberse manifestado, el Impuesto Predial que se le asigne, se pondrá en vigor a partir del siguiente bimestre a la fecha de su notificación. En los casos en que la Dirección General de Catastro del Estado, descubra que los datos del predio, tanto por terrenos o por construcciones así como sus respectivas clasificaciones no correspondan a la realidad física del mismo y éstas se modifiquen dando origen a la asignación correcta del Impuesto Predial que le corresponda pagar por terreno o construcción, según su superficie y clasificación, el Impuesto Predial Anual aplicable al predio se ajustará; y en el caso de que el propietario o poseedor ya hubiese cubierto su Impuesto Predial anual correspondiente a dicho predio, podrán cobrársele las diferencias que resulten del nuevo Impuesto Predial que le corresponda.
 
 ###### ARTICULO 35.
 
 Tratándose de terrenos destinados a cementerios, no se considerará división la entrega de lotes pero dedicarse o sepulturas, pero en estos casos el impuesto se causará sobre la superficie que no hubiere sido enajenada para el fin mencionado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ENERO DE 1993)</small>
+
 ###### ARTICULO 36.
 
-Cuando por cualquier causa las construcciones permanentes de un predio deban ser desocupadas o demolidas para determinar la cuota porcentual del impuesto se seguirán las siguientes reglas:
+Cuando por cualquier causa una construcción sea demolida, la Dirección General de Catastro del Estado, deberá formular el nuevo avalúo catastral a solicitud del propietario del predio de que se trate.
 
 I.- Si cualquier autoridad ordena la desocupación total:
 
@@ -543,25 +393,11 @@ d).- Una vez que la Secretaría de Desarrollo Urbano y Obras Públicas del Estad
 
 e).- En los casos en que cualquier autoridad hubiese ordenado la demolición total de las construcciones y se hubiera llevado a cabo la edificación de nuevas construcciones permanentes, los sujetos pasivos del impuesto estarán obligados a presentar la manifestación que señala el Artículo 31 de esta Ley, fijándose la nueva cuota porcentual del gravamen de acuerdo con lo dispuesto en el segundo párrafo de dicho Artículo.
 
-II.- Si cualquier autoridad ordena la desocupación o demolición;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1993)</small>
 
-a).- El Impuesto se causará sobre la base del terreno, vigente en la fecha en que se hubiese ordenado la desocupación parcial, más la base que se asigne a las construcciones aprovechables y respecto de las cuales no se hubiera ordenado su desocupación;
+II.- Señalar el valor catastral que corresponda a cada lote.
 
-b).- Para que se efectué el cambio de la base gravable conforme al inciso anterior, el sujeto del Impuesto deberá presentar a la Dirección General de Catastro del Estado, una solicitud escrita a la que deberá acompañarse una copia de la orden para la desocupación o demolición parcial de las construcciones;
-
-c).- La nueva cuota porcentual del Impuesto Predial entrará en vigor a partir del bimestre siguiente o aquél en que se hubiese llevado a cabo la desocupación o demolición parcial de las construcciones y continuará vigente por todo el tiempo que las mismas se encuentren parcialmente desocupadas por orden de la autoridad;
-
-d).- Una vez que la Secretaría de Desarrollo Urbano y Obras Públicas del Estado haya autorizado que vuelvan a ocuparse las construcciones, se volverá a poner en vigor la base gravable vigente en la fecha en que se ordenó la desocupación, siempre que no se hayan ejecutado nuevas construcciones, o reconstrucciones de los ya existentes, pues en ese caso se procederá en los términos del inciso siguientes (sic);
-
-e).- En los casos en que cualquier autoridad hubiese ordenado la demolición parcial de las construcciones y posteriormente se hubiera llevado a cabo la edificación de una nueva construcción permanente, los sujetos pasivos del Impuesto estarán obligados a presentar la manifestación que señala el artículo 31 de esta Ley. La nueva base del gravamen se obtendrá sumando la cuota porcentual del terreno y las construcciones aprovechables que se hubiesen señalado conforme al inciso a) de esta Fracción y la base que se asigne a la nueva construcción de acuerdo con el Segundo Párrafo del mencionado Articulo.
-
-III.- Si las construcciones son domolidas (sic) voluntariamente por su propietario o poseedor, se procederá en los siguientes términos:
-
-a).- Cuando la demolición sea total el impuesto se causará exclusivamente sobre la base gravable del terreno. Si la demolición es parcial, a la base del terreno se agregará la que se asigne a lo quede de la construcción.
-
-b).- La nueva cuota porcentual del Impuesto predial entrará en vigor a partir del bimestre siguiente a la fecha en que se hubiere terminado la demolición.
-
-Para los efectos de este Artículo la Dirección de Obras Públicas del Municipio correspondiente avisará de la demolición a la Dirección General de Catastro. Este aviso se hará por escrito y dentro de los quince días siguientes a la fecha en que se hubiese terminado la demolición. El propietario o poseedor del predio también estará obligado a dar aviso dentro del mismo plazo.
+III.- (DEROGADA, P.O. 3 DE ENERO DE 1993)
 
 ###### ARTICULO 37.
 
@@ -615,25 +451,23 @@ En casos de fraccionamientos que se ejecuten, total o parcialmente, sin autoriza
 
 ###### ARTICULO 46.
 
-Para los efectos del pago del Impuesto predial rústico, la Dirección General de Catastro, clasificó los predios rústicos existentes en los Municipios del Estado de Durango, de acuerdo con las bases que fija el inciso. a) de la Fracción II, del artículo 13 de esta Ley, realizando la clasificación por cada municipio de acuerdo a las siguientes tablas, en las cuales se incluye la cuota porcentual por hectárea correspondiente.
+(DEROGADO, P.O. 3 DE ENERO DE 1993)
 
-(VÉASE TABLA 1)
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1993)</small>
 
 ###### ARTICULO 47.
 
-La cuota porcentual del Impuesto predial es anual de acuerdo con lo dispuesto en el Artículo 13 de esta Ley.
-
-El importe del impuesto predial resultante de la suma de la base gravable del terreno más la base gravable de las construcciones, cuya suma será el impuesto anual que cubrirá el predio por concepto de impuesto predial, podrá dividirse en seis partes que se pagarán bimestralmente, en los meses de enero, marzo, mayo, julio, septiembre y noviembre. Sin embargo los pagos podrán hacerse por anualidad anticipada. En este caso, dichos pagos se harán, a mas tardar, el último día hábil del mes de enero y tendrán derecho a una bonificación del 10% (diez por ciento) de la cuota anual que le corresponda pagar al contribuyente.
-
-El pago por anualidad anticipada del Impuesto predial no impide el cobro de diferencias que deba hacerse por el Municipio, por cambio de las bases gravables.
+El Impuesto Predial es anual de acuerdo con lo dispuesto en el Artículo 13 de esta Ley. El importe del Impuesto Predial resultante de aplicar el 2.0 al millar del valor catastral del terrno (sic) urbano y de la construcción, así como del uno al millar en el caso de los predios rústicos y construcciones, será el impuesto anual que cubrirá el predio por concepto de Impuesto Predial; y podrá dividirse en seis partes que se pagarán bimestralmente en los meses de: Enero, Marzo, Mayo, Julio, Septiembre y Noviembre; sin embargo, los pagos podrán hacerse por anualidad anticipada, en este caso dichos pagos se harán durante los meses de enero, Febrero y Marzo del año que corresponda pagar al contribuyente; en estos casos tendrán derecho a una bonificación del quince por ciento (15%), del diez por ciento (10%); y cinco por ciento (5%) respectivamente. El pago por anualidad anticipada del Impuesto Predial no impide el cobro de diferencias que deban hacerse por el Municipio por cambios de bases gravables.
 
 ###### ARTICULO 48.
 
-Por lo que respecta a las construcciones especiales según las características de construcción y materiales usados en ellas, se les podrá asignar una cuota porcentual anual por metro cuadrado de construcción entre el 0.03 y 0.08, tomando como base una cantidad igual a la señalada para el salario mínimo diario vigente.
+(DEROGADO, P.O. 3 DE ENERO DE 1993)
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1993)</small>
 
 ###### ARTICULO 49.
 
-El Impuesto predial mínimo anual para predios rústicos y urbanos en el Estado será la cuota porcentual de 0.25, tomando como base una cantidad igual a la señalada para el salario mínimo diario vigente.
+El Impuesto Predial mínimo anual para los predios rústicos o urbanos en su caso, en el Estado, será de tres días de salario mínimo general diario vigente.
 
 ###### ARTICULO 50.
 
@@ -699,91 +533,11 @@ Las comunicaciones a que se refiere el Artículo anterior se harán por escrito 
 
 Los sujetos del Impuesto estarán obligados a manifestar a la Oficina Recaudadora correspondiente, los cambios de su domicilio, dentro de los quince días hábiles siguientes a aquél en que se efectúen, si no lo hicieren se tendrá como domicilio, para los efectos de este Capítulo el que hubieran señalado anteriormente, o, en su defecto el predio mismo.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1993)</small>
+
 ###### ARTICULO 62.
 
-Para los efectos de esta Ley la Dirección General de Catastro tendrá dos Delegaciones en el Estado las cuales abarcarán los siguientes Municipios:
-
-DELEGACION MUNICIPIOS:
-
-Durango
-
-Guadalupe Victoria
-
-DURANGO Pánuco de Coronado
-
-Canatlán
-
-DELEGACION MUNICIPIO
-
-Mezquital
-
-Nombre de Dios
-
-DURANGO Poanas
-
-Vicente Guerrero
-
-Súchil
-
-Pueblo Nuevo
-
-Cuencamé
-
-Santa Clara
-
-Simón Bolívar
-
-San Juan de Guadalupe
-
-Nazas
-
-San Pedro del Gallo
-
-San Luis del Cordero
-
-Peñón Blanco
-
-Santiago Papasquiaro
-
-Tepehuanes
-
-Guanaceví
-
-San Bernardo
-
-Tamazula
-
-Canelas
-
-Topia
-
-Otaez
-
-San Dimas
-
-Rodeo
-
-Ocampo
-
-Hidalgo
-
-Indé
-
-Santa Ma. del Oro
-
-San Juan del Río
-
-Coneto de Comonfort
-
-GOMEZ PALACIO Gómez Palacio
-
-Lerdo
-
-Mapimí
-
-Tlahualilo
-
-La Dirección General de Catastro podrá (sic) a solicitud de los Ayuntamientos, modificar estas zonas catastrales o crear nuevas zonas en el caso de que así lo estimare necesario.
+Para los efectos de esta Ley, la Dirección General de Catastro del Estado, tendrá sus oficinas centrales en la Ciudad de Victoria de Durango, Dgo.; y una Delegación Regional en la Ciudad de Gómez Palacio, Dgo., la cual abarcará los Municipios de: Gómez Palacio, Lerdo, Mapimí y Tlahualilo.
 
 ### CAPITULO II
 
@@ -843,15 +597,17 @@ V.- El fideicomitente en los casos de los párrafos segundo y tercero del Artíc
 
 En estos casos las declaraciones y pagos del impuesto los hará el fiduciario por cuenta del fideicomitente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ENERO DE 1993)</small>
 
 ###### ARTICULO 66.
 
-La base gravable del Impuesto sobre Traslación de Dominio de Bienes Inmuebles, será:
+La base gravable del Impuesto sobre traslación de dominio de bienes inmuebles será:
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 1992)</small>
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1993)</small>
 
-I.- El valor del inmueble conforme a la tabla de valores catastrales para construcción y terreno que anualmente establezca la Dirección General de Catastro en el Estado, o el valor de operación, el que resulte mayor de estos, con una reducción en la base gravable de doce (12) veces el salario mínimo general en el Estado de Durango elevado al año;
+I.- El valor del inmueble conforme a la tabla de valores catastrales para construcción y terreno que anualmente establezca la Dirección General de Catastro en el Estado, o el valor de operación, el que resulte mayor de éstos, con una reducción en la base gravable de ocho (8) veces el salario mínimo general en el Estado de Durango, elevado al año para operaciones que incluyan terreno y construcción.
+
+En operaciones de terreno exclusivamente se aplicará una reducción de cuatro (4) veces el salario mínimo general en el Estado de Durango elevado al año;
 
 II.- Tratándose de contratos por los que se transmite la nuda propiedad, el valor mayor que resulte de conformidad con las reglas de la fracción I de este Artículo. En estos casos al transmitirse la nuda propiedad se causará el 75% del importe del impuesto que así resulte y al transmitirse el usufructo el 25% restante de dicho importe;
 
@@ -953,9 +709,13 @@ El Registro Público de la Propiedad no inscribirá ningún acto, contrato o doc
 
 En los casos de nuda propiedad, el Registro Público de la Propiedad no podrá cancelar la inscripción del desmembramiento de la propiedad ni inscribir el derecho consolidado si no se le comprueba previamente que se pagó la diferencia del impuesto que resulte entre lo cubierto por la transmisión de la nuda propiedad y el impuesto calculado sobre la traslación íntegra del dominio.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1993)</small>
+
 ###### ARTICULO 76.
 
-Para los efectos del impuesto de traslación de dominio la Dirección General de Catastro, establecerá anualmente valores catastrales para predios urbanos por zona económica catastral, valores para predios rústicos en cada Municipio y valores para las construcciones existentes en el Estado.
+Para los efectos del Impuesto Traslativo de dominio, la Dirección General de Catastro del Estado establecerá anualmente valores catastrales para los predios urbanos y rústicos, así como para las construcciones existentes en el Estado.
+
+Cada municipio celebrará con la Dirección General de Catastro del Estado un Convenio de Colaboración en Materia de Administración Tributaria Municipal e Implementación de un Catastro Integral en los primeros cuarenta y cinco días de cambio de administración municipal, para los efectos de la asistencia técnica y administrativa otorgada por la Dirección General de Catastro del Estado. Estos Convenios serán autorizados por el Honorable Cabildo de cada Ayuntamiento y señalarán el apoyo que cada municipio brindará a la Dirección General de Catastro del Estado, en apoyo a su asesoría y gastos administrativos.
 
 ### CAPITULO III
 
@@ -1841,25 +1601,15 @@ El servicio de limpia en los Municipios del Estado, estará a cargo de las Autor
 
 ###### ARTICULO 140.
 
-Causan al derecho por servicio de limpia, los propietarios o poseedores de los predios edificados o no edificados, ubicados dentro de los perímetros urbanos correspondientes a cada municipio.
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1992)</small>
+(DEROGADO, P.O. 3 DE ENERO DE 1993)
 
 ###### ARTICULO 141.
 
-El derecho por el servicio de limpia se pagará a razón de 2 al millar anual sobre el valor fiscal tratándose de predios urbanos y dentro de los primeros días de cada año. En caso de valores fiscales superiores a $500,000.00 (QUINIENTOS MIL PESOS) el pago podrá hacerse por bimestre dentro de los primeros quince días de los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre.
-
-En el caso de negativa, previa notificación por escrito a los propietarios de los predios baldíos y como medida de salud y seguridad, el municipio se vea obligado a realizar la limpieza de lotes baldíos, los propietarios pagarán dicho servicio de acuerdo a la tarifa siguiente:
-
-0.05 salarios mínimos por metro cuadrado el predio objeto de limpia y
-
-1.5 salarios mínimos por metro cúbico de basura acarreado para su disposición.
-
-El pago del (sic) de derechos establecidos en el párrafo anterior deberá realizarse, dentro de los quince (15) días siguientes a la fecha de su notificación de conformidad a la forma que define el Código Fiscal Municipal.
+(DEROGADO, P.O. 3 DE ENERO DE 1993)
 
 ###### ARTICULO 142.
 
-No causarán el derecho por servicio de limpia los predios propiedad de la Federación, Estado o Municipios, siempre y cuando estén destinados a un servicio público.
+(DEROGADO, P.O. 3 DE ENERO DE 1993)
 
 ### CAPITULO VIII
 
@@ -3334,3 +3084,27 @@ P.O. 24 DE DICIEMBRE DE 1992.
 DECRETO No. 75.
 
 UNICO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ENERO DE 1993.
+
+DECRETO No. 76.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el periódico oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 3 DE ENERO DE 1993.
+
+DECRETO No. 77.
+
+###### ARTICULO PRIMERO
+
+- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del estado.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan todas las disposiciones legales que se opongan a la presente.
