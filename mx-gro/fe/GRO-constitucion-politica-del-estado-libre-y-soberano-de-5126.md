@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1986-10-03"
+last_updated: "1987-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1987.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -591,7 +591,7 @@ La Ley Orgánica del Poder Legislativo señalará las formalidades con que deber
 
 El Congreso podrá reunirse para realizar sesiones extraordinarias, cuando sea convocado para ese objeto por la Comisión Permanente, por sí o a solicitud del Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 1986)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 1987)</small>
 
 ## TITULO QUINTO. DE LA ESTRUCTURA POLITICA DEL ESTADO DE GUERRERO
 
@@ -603,7 +603,7 @@ El Congreso podrá reunirse para realizar sesiones extraordinarias, cuando sea c
 
 ###### ARTICULO 43.
 
-Dentro de los cinco primeros días del mes de abril de cada año se reunirá el Congreso en sesión pública y solemne ante la cual el gobernador del Estado rendirá un informe escrito pormenorizado del estado que guarde la administración pública de la entidad.
+Dentro de los cinco primeros días del mes de abril de cada año, se reunirá el Congreso en sesión pública y solemne ante la cual el Gobernador del Estado, rendirá un informe escrito pormenorizado del estado que guarda la administración pública de la entidad, con excepción del último año del período constitucional que será entre el 16 y 20 del mes de marzo del año respectivo.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -683,7 +683,9 @@ b).- Que la elección hubiere sido declarada nula.
 
 c).- Cuando, sin causa justificada, no concurrieren los miembros necesarios para su instalación.
 
-XXII.- Erigirse en Colegio Electoral con el objeto de calificar las elecciones de Gobernador, declarando electo a quien haya obtenido la mayoría de sufragios.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1987)</small>
+
+XXII.- Erigirse el 27 de enero del año correspondiente, en Colegio Electoral con el objeto de calificar las elecciones de Gobernador, declarando electo a quien haya obtenido la mayoría de sufragios.
 
 XXIII.- Discutir y aprobar en su caso, en el improrrogable término de diez días a partir de que son recibidos los nombramientos de Magistrados del Tribunal Superior de Justicia hechos por el Gobernador.
 
@@ -1003,9 +1005,9 @@ VI.- Vetar por una sola vez en el término improrrogable de diez días hábiles,
 
 VII.- Presentar al Congreso a más tardar el día quince de diciembre de cada año para su discusión y aprobación en su caso, los proyectos de Ley de Ingresos y del Presupuesto de egresos para el ejercicio fiscal siguiente.
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 1985)</small>
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1987)</small>
 
-VIII.- Rendir dentro de los cinco primeros días del mes de abril de cada año ante el Congreso, el informe de labores de la Administración Pública a su cargo, con excepción del último año del período constitucional que lo rendirá el veintiocho de febrero del año respectivo.
+VIII.- Rendir dentro de los cinco primeros días del mes de abril de cada año ante el Congreso, el informe de labores de la Administración Pública a su cargo, con excepción del último año del período constitucional, que se rendirá entre el 16 y 20 del mes de marzo del año respectivo.
 
 IX.- Nombrar y remover libremente a los funcionarios y a los empleados del Poder Ejecutivo, cuyo nombramiento o causa de remoción no estén determinados en otra forma por esta Constitución o por las Leyes correspondientes.
 
@@ -2198,3 +2200,7 @@ P.O. 3 DE OCTUBRE DE 1986.
 PRIMERO.- Para dar cumplimiento a lo dispuesto por la fracción III del artículo 125 Constitucional remítase el presente Decreto de Reformas a los Ayuntamientos de la Entidad, para que manifiesten si aprueban las Reformas en mención.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE ENERO DE 1987.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
