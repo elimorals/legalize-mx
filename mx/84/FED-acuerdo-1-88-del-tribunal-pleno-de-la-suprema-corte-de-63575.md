@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-1-88-del-tribunal-pleno-de-la-suprema-corte-de-63575"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1988-01-15"
-last_updated: "1991-09-17"
+last_updated: "1992-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63575&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-01-15"
 
 ACUERDO No. 1/88, DEL TRIBUNAL EN PLENO DEL DIA QUINCE DE ENERO DE MIL NOVECIENTOS OCHENTA Y OCHO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE SEPTIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE MARZO DE 1992.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 15 de enero de 1988.
 
@@ -53,9 +53,9 @@ Por lo tanto, con apoyo en el párrafo quinto del artículo 94 de la Constituci�
 
 ACUERDO:
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], POR EL PUNTO QUINTO DEL ACUERDO NUMERO 2/1991 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 24 DE ABRIL DE 1991)</small>
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO NUMERO 1/1992 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 16 DE MARZO DE 1992)</small>
 
-PRIMERO.- El territorio de la República se divide en veintiún Circuitos.
+PRIMERO.- El territorio de la República se divide en veintitrés Circuitos.
 
 > <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO NUMERO 2/1991 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 24 DE ABRIL DE 1991)</small>
 
@@ -63,7 +63,9 @@ SEGUNDO.- Cada uno de los Circuitos a que se refiere el punto Primero comprender
 
 I.- PRIMER CIRCUITO:
 
-1.- Tres tribunales colegiados en materia penal, seis tribunales colegiados en materia administrativa, siete tribunales colegiados en materia civil, ocho tribunales colegiados en materia de trabajo, y tres tribunales, unitarios, con residencia en la ciudad de México;
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO NUMERO 1/1992 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 16 DE MARZO DE 1992)</small>
+
+1.- Tres tribunales colegiados en materia penal, seis tribunales colegiados en materia administrativa, nueve tribunales colegiados en materia civil, nueve tribunales colegiados en materia de trabajo y cuatro tribunales unitarios, con residencia en la ciudad de México;
 
 2.- Treinta juzgados de Distrito en el Distrito Federal, con residencia en la ciudad de México.
 
@@ -87,9 +89,13 @@ III.- TERCER CIRCUITO:
 
 1.- Dos tribunales colegiados en materia penal, dos tribunales colegiados en materia administrativa, tres tribunales colegiados en materia civil, un tribunal colegiado en materia de trabajo y tres tribunales unitarios, con residencia en la ciudad de Guadalajara, Jalisco;
 
-2.- Doce juzgados de Distrito en el estado de Jalisco, con residencia en la ciudad de Guadalajara;
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO NUMERO 1/1992 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 16 DE MARZO DE 1992)</small>
 
-3.- Juzgado de Distrito en el estado de Colima, con residencia en la ciudad de Colima.
+2.- Catorce juzgados de Distrito en el estado de Jalisco, con residencia en la ciudad de Guadalajara;
+
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO NUMERO 1/1992 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 16 DE MARZO DE 1992)</small>
+
+3.- Juzgados Primero y Segundo de Distrito en el estado de Colima, con residencia en la ciudad de Colima.
 
 IV.- CUARTO CIRCUITO:
 
@@ -117,9 +123,13 @@ VI.- SEXTO CIRCUITO:
 
 VII.- SEPTIMO CIRCUITO:
 
-1.- Dos tribunales colegiados y un tribunal unitario, con residencia en la ciudad de Veracruz, Veracruz;
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO NUMERO 1/1992 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 16 DE MARZO DE 1992)</small>
 
-2.- Dos tribunales colegiados con residencia en la ciudad de Xalapa, Veracruz;
+1.- Dos tribunales colegiados en materia administrativa y de trabajo, y dos tribunales unitarios, con residencia en la ciudad de Veracruz, Veracruz;
+
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO NUMERO 1/1992 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 16 DE MARZO DE 1992)</small>
+
+2.- Un tribunal colegiado en materia penal y un tribunal colegiado en materia civil, con residencia en la ciudad de Xalapa, Veracruz;
 
 3.- Juzgado Primero de Distrito en el estado de Veracruz, con residencia en la ciudad de Xalapa;
 
@@ -153,7 +163,9 @@ IX.- NOVENO CIRCUITO:
 
 X.- DECIMO CIRCUITO:
 
-1.- Un tribunal colegiado y un tribunal unitario, con residencia en la ciudad de Villahermosa, Tabasco;
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO NUMERO 1/1992 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 16 DE MARZO DE 1992)</small>
+
+1.- Dos tribunales colegiados y un tribunal unitario, con residencia en la ciudad de Villahermosa, Tabasco;
 
 2.- Juzgados Primero, Segundo y Tercero de Distrito en el Estado de Tabasco, con residencia en la ciudad de Villahermosa;
 
@@ -179,7 +191,9 @@ XII.- DECIMO SEGUNDO CIRCUITO:
 
 5.- Juzgado de Distrito en el estado de Baja California Sur, con residencia en la ciudad de La Paz;
 
-6.- Juzgados de Distrito en el Estado de Nayarit, con residencia en la ciudad de Tepic.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO NUMERO 1/1992 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 16 DE MARZO DE 1992)</small>
+
+6.- Juzgados Primero y Segundo de Distrito en el estado de Nayarit, con residencia en la ciudad de Tepic.
 
 XIII.- DECIMO TERCER CIRCUITO:
 
@@ -187,7 +201,9 @@ XIII.- DECIMO TERCER CIRCUITO:
 
 2.- Juzgados Primero, Segundo, Tercero, Cuarto y Quinto de Distrito en el estado de Oaxaca, con residencia en la ciudad de Oaxaca;
 
-3.- Juzgado Sexto de Distrito en el estado de Oaxaca, con residencia en la ciudad de Salina Cruz.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO NUMERO 1/1992 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 16 DE MARZO DE 1992)</small>
+
+3.- Juzgados Sexto y Séptimo de Distrito en el estado de Oaxaca, con residencia en la ciudad de Salina Cruz.
 
 XIV.- DECIMO CUARTO CIRCUITO:
 
@@ -233,13 +249,21 @@ XVIII.- DECIMO OCTAVO CIRCUITO:
 
 XIX.- DECIMO NOVENO CIRCUITO:
 
-1.- Dos tribunales colegiados y dos tribunales unitarios, con residencia en Ciudad Victoria, Tamaulipas;
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO NUMERO 1/1992 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 16 DE MARZO DE 1992)</small>
 
-2.- Juzgado Primero de Distrito en el estado de Tamaulipas, con residencia en Ciudad Victoria;
+1.- Dos tribunales colegiados y un tribunal unitario, con residencia en Ciudad Victoria, Tamaulipas;
 
-3.- Juzgados Segundo y Tercero de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Nuevo Laredo;
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO NUMERO 1/1992 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 16 DE MARZO DE 1992)</small>
 
-4.- Juzgados Cuarto y Quinto de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Matamoros;
+2.- Un tribunal unitario con residencia en la ciudad de Nuevo Laredo, Tamaulipas;
+
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO NUMERO 1/1992 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 16 DE MARZO DE 1992)</small>
+
+3.- Un tribunal unitario con residencia en la ciudad de Matamoros, Tamaulipas;
+
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO NUMERO 1/1992 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 16 DE MARZO DE 1992)</small>
+
+4.- Un tribunal unitario con residencia en Ciudad Reynosa, Tamaulipas;
 
 5.- Juzgados Sexto y Séptimo de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Reynosa;
 
@@ -270,6 +294,16 @@ XXII.- VIGESIMO SEGUNDO CIRCUITO:
 2.- Juzgado Primero y Segundo de Distrito en el estado de Querétaro, con residencia en la ciudad de Querétaro;
 
 3.- Juzgados Primero y Segundo de Distrito en el estado de Hidalgo, con residencia en la ciudad de Pachuca.
+
+> <small>(ADICIONADO POR EL PUNTO NOVENO DEL ACUERDO NUMERO 1/1992 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 16 DE MARZO DE 1992)</small>
+
+XXIII.- VIGESIMO TERCER CIRCUITO:
+
+1.- Un tribunal colegiado y un tribunal unitario, con residencia en la ciudad de Zacatecas, Zacatecas;
+
+2.- Juzgados Primero y Segundo de Distrito en el estado de Zacatecas, con residencia en la ciudad de Zacatecas;
+
+3.- Juzgado de Distrito en el estado de Aguascalientes, con residencia en la ciudad de Aguascalientes.
 
 > <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO NUMERO 2/1991 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 24 DE ABRIL DE 1991)</small>
 
@@ -361,7 +395,9 @@ XXIII.- Los Juzgados Quinto y Sexto de Distrito en el estado de Sinaloa, con res
 
 XXIV.- Los Juzgados Primero Segundo, Tercero, Cuarto y Quinto de Distrito en el Estado de Oaxaca, con residencia en la ciudad de Oaxaca, ejercerán jurisdicción en el territorio del Estado, excepto en los municipios del Distrito de Tehuantepec: 1.- Guevea de Humboldt, 2.- Magdalena Tequisitlán, 3.- Magdalena Tlacotepec, 4.- Salina Cruz, 5.- San Blas Atempa, 6.- San Mateo del Mar, 7.- San Miguel Tenango, 8.- San Pedro Comitancillo, 9.- San Pedro Huamelula, 10.- San Pedro Huilotepec, 11.- Santa María Guienagati, 12.- Santa María Jalapa del Marquez, 13.- Santa María Mixtequilla, 14.- Santa María Totolapilla, 15.- Santiago Astata, 16.- Santiago Lachiguiri, 17.- Santiago Laollaga, 18.- Santo Domingo Chihuitán, 19.- Santo Domingo Tehuantepec; del Distrito de Juchitán, 20.- Asunción Ixtaltepec, 21.- Ciudad Ixtepec, 22.- Chahuites, 23.- El Barrio de la Soledad, 24.- El Espinal, 25.- Juchitán de Zaragoza, 26.- Matías Romero, 27.- Reforma de Pineda, 28.- San Dionisio del Mar, 29.- San Francisco del Mar, 30.- San Francisco Ixhuatán, 31.- San Juan Guichicovi, 32.- San Miguel Chimalapa, 33.- San Pedro Tapanatepec, 34.- Santa María Chimalapa, 35.- Santa María Petapa, 36.- Santa María Xadani, 37.- Santiago Miltepec, 38.- Santo Domingo Ingenio, 39.- Santo Domingo Petapa, 40.- Santo Domingo Zanatepec, 41.- Unión Hidalgo; y del Distrito de Tuxtepec; 42.- Acatlán de Pérez Figueroa, 43.- Ayotzintepec, 44.- Cosolapa, 45.- Loma Bonita, 46.- Nuevo Soyaltepec, 47.- San Felipe Jalapa de Díaz, 48.- San Felipe Usila, 49.- San José Chiltepec, 50.- San José Independencia 51.- San Juan Bautista Tuxtepec, 52.- San Juan Bautista Valle Nacional, 53.- San Lucas Ojitlán, 54.- San Pedro Ixcatlán, 55.- Santa María Jacatepec;
 
-XXV.- El Juzgado Sexto de Distrito en el Estado de Oaxaca, con residencia en la ciudad de Salina Cruz, ejercerá jurisdicción en los municipios mencionados en la fracción XXIV;
+> <small>(REFORMADA POR EL PUNTO DECIMO DEL ACUERDO NUMERO 1/1992 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 16 DE MARZO DE 1992)</small>
+
+XXV.- Los Juzgados Sexto y Séptimo de Distrito en el estado de Oaxaca, con residencia en la ciudad de Salina Cruz, ejercerán jurisdicción en los municipios mencionados en la fracción XXIV;
 
 XXVI.- Los Juzgados Primero y Segundo de Distrito en el estado de Baja California, con residencia en la ciudad de Mexicali, ejercerán jurisdicción en municipio de ese mismo nombre, del estado de Baja California, y en el de San Luis Río Colorado y la Comisaría Luis B. Sánchez, del estado de Sonora;
 
@@ -397,9 +433,9 @@ XL.- Los Juzgados Segundo y Tercero de Distrito en el estado de Guerrero, con re
 
 CUARTO.- Los treinta juzgados de Distrito con residencia en el Distrito Federal serán especializados: doce en materia penal, diez en materia administrativa, seis en materia civil y dos en materia de trabajo.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], POR EL PUNTO QUINTO DEL ACUERDO NUMERO 2/1991 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 24 DE ABRIL DE 1991)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMO DEL ACUERDO NUMERO 1/1992 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 16 DE MARZO DE 1992)</small>
 
-QUINTO.- Los doce juzgados de Distrito en el estado de Jalisco serán especializados: siete en materia penal, tres en materia administrativa y dos en materia civil.
+QUINTO.- Los catorce juzgados de Distrito en el estado de Jalisco serán especializados: nueve en materia penal, tres en materia administrativa y dos en materia civil.
 
 SEXTO.- El Juzgado de Distrito en Materia Agraria en el Distrito Federal pasa a ser el Juzgado Décimo de Distrito en Materia Administrativa en el Distrito Federal, conservando los expedientes que en él se encuentren, y entrará al turno correspondiente de los Juzgados de Distrito en materia administrativa en el Distrito Federal, a partir del dieciocho de enero de mil novecientos ochenta y ocho.
 
@@ -578,3 +614,13 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su publicación en el Diario
 SEGUNDO.- La Comisión de Gobierno y Administración y los ministros inspectores de los tribunales de Circuito y los Juzgados de Distrito comprendidos en este acuerdo, resolverán cualquier cuestión que pudiera suscitarse.
 
 TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación, y hágase del conocimiento de los correspondientes tribunales colegiados y unitario del Séptimo Circuito, y de los juzgados de Distrito en dicho Circuito, para su conocimiento.
+
+D.O.F. 16 DE MARZO DE 1992.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Los nuevos tribunales colegiados y unitarios de Circuito y juzgados de Distrito iniciarán su funcionamiento en las fechas que, de conformidad con las circunstancias específicas de cada caso, determine la Comisión de Gobierno y Administración.
+
+TERCERO.- La Comisión de Gobierno y Administración y los ministros inspectores de los tribunales de Circuito y de los juzgados de Distrito comprendidos en este acuerdo, resolverán cualquier cuestión que pudiera suscitarse.
+
+CUARTO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, y hágase del conocimiento de todos los tribunales de Circuito y juzgados de Distrito del país, para su cumplimiento.
