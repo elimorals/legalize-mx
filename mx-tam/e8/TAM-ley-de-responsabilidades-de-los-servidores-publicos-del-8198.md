@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-de-los-servidores-publicos-del-8198"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-03"
-last_updated: "2000-04-19"
+last_updated: "2002-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2002.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 3 de marzo de 1984.
 
@@ -83,7 +83,9 @@ I.- El Congreso del Estado;
 
 II.- El Supremo Tribunal de Justicia del Estado;
 
-III.- La Dirección General de la Contraloría;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2002)</small>
+
+III.- La Contraloría Gubernamental;
 
 IV.- La Procuraduría General de Justicia;
 
@@ -389,9 +391,11 @@ SUJETOS DE RESPONSABILIDADES Y OBLIGACIONES DEL SERVIDOR PUBLICO.
 
 Incurren en responsabilidad administrativa los servidores públicos a que se refiere el Artículo 2o. de ésta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 47.
 
-Todo servidor público tendrá las siguientes obligaciones para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el desempeño de su empleo, cargo o comisión, y cuyo incumplimiento dará lugar al procedimiento y a las sanciones que corresponda, según la naturaleza de la infracción en que se incurra, y sin perjuicio de sus derechos laborales:
+Todo servidor público tendrá las siguientes obligaciones para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficacia que deben ser observadas en el desempeño de su empleo, cargo o comisión, y cuyo incumplimiento dará lugar al procedimiento y a las sanciones que correspondan, según la naturaleza de la infracción en que se incurra, y sin perjuicio de sus derechos laborales:
 
 I.- Cumplir con la máxima diligencia, el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de un empleo, cargo o comisión;
 
@@ -431,21 +435,27 @@ Cuando al ingresar el servidor público a la función de que se trate, ya se enc
 
 XVIII.- Presentar con oportunidad y veracidad la declaración de situación patrimonial, en los términos que señala la Ley;
 
-XIX.- Atender con diligencia las instrucciones, requeridas y resoluciones que reciba de su superior jerárquico en relación con las solicitudes que haga la Dirección General de la Contraloría Estatal, conforme a la competencia de ésta;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2002)</small>
+
+XIX.- Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de su superior jerárquico en relación con las solicitudes que haga la Contraloría Gubernamental, conforme a la competencia de ésta.
 
 XX.- Informar al superior jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este Artículo, y en los términos de las normas que al efecto se expidan.
 
-Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Dirección General de la Contraloría Estatal, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite la comunicación a la Contraloría, el subalterno podrá practicarla directamente informando a su superior acerca de éste acto.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
+
+Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Contraloría Gubernamental, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subordinado interesado. Si el superior jerárquico omite la comunicación a la Contraloría, el subordinado podrá practicarla directamente informando a su superior acerca de este acto;
 
 XXI.- Cumplir con cualquiera disposición jurídica relacionada con el servicio público; y
 
 XXII.- Las demás que le impongan las leyes y reglamentos.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 48.
 
-Para los efectos de ésta Ley, se entenderá por Dirección, a la Dirección General de la Contraloría Estatal.
+Para los efectos de esta Ley, por Contraloría se entenderá la dependencia de la administración pública del Estado denominada Contraloría Gubernamental.
 
-Para los mismos efectos, se entenderá por superior jerárquico al titular de cada dependencia y en el caso de los organismos descentralizados, al Secretario o Director General del sector correspondiente, el cual aplicará las sanciones cuya imposición se hará a través de la Contraloría interna de su dependencia.
+Para los mismos efectos se entenderá por superior jerárquico al titular de cada dependencia y, en el caso de las entidades de la administración pública del Estado, al Secretario o Director General del sector correspondiente, el cual aplicará las sanciones cuya imposición se hará a través del órgano de control interno de su dependencia.
 
 ### CAPITULO II
 
@@ -455,11 +465,15 @@ SANCIONES ADMINISTRATIVAS Y PROCEDIMIENTOS PARA APLICARLAS.
 
 En las dependencias y entidades de la Administración Pública, se establecerán unidades especificas, a las que el público tenga fácil acceso, para que cualquier interesado pueda presentar quejas y denuncias, por incumplimiento de las obligaciones de los servidores públicos, con las que se iniciará, en su caso, el procedimiento disciplinario correspondiente.
 
-La Dirección establecerá las normas y procedimientos para que las instancias del público sean atendidas y resueltas con eficiencia.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
+
+La Contraloría Gubernamental establecerá las normas y procedimientos para que las instancias del público sean atendidas y resueltas con eficiencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 50.
 
-La Dirección, el superior jerárquico y todos los servidores públicos tienen la obligación de respetar y hacer respetar el derecho a la formulación de las quejas y denuncias a las que se refiere el artículo anterior y de evitar que con motivo de éstas se causen molestias indebidas al quejoso.
+La Contraloría Gubernamental, el superior jerárquico y todos los servidores públicos tienen la obligación de respetar y hacer respetar el derecho a la formulación de las quejas y denuncias a las que se refiere el artículo anterior y de evitar que con motivo de éstas se causen molestias indebidas al quejoso.
 
 Incurren en responsabilidad el servidor público que por sí o por interpósita persona, utilizando cualquier medio, inhiba al quejoso para evitar la formulación o presentación de quejas y denuncias, o que con motivo de ello realice cualquier conducta injusta u omita una justa y debida, que lesione los intereses de quienes las formulen o presenten.
 
@@ -467,9 +481,11 @@ Incurren en responsabilidad el servidor público que por sí o por interpósita 
 
 En el caso de los servidores del Poder Judicial, el Supremo Tribunal de Justicia establecerá los órganos y sistemas para identificar, investigar y determinar las responsabilidades derivadas del incumplimiento de las obligaciones establecidas en el Artículo 47, así como para aplicar las sanciones establecidas en el presente capítulo, en los términos de la Ley Orgánica del Poder Judicial. Lo propio hará el Congreso local, conforme a la legislación respectiva; y por lo que se refiere a los Ayuntamientos se estará a lo dispuesto en el Código Municipal.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 52.
 
-Los servidores públicos de la Dirección que incurran en responsabilidad por incumplimiento de las obligaciones establecidas en el Artículo 47 serán sancionadas conforme al presente capítulo por la Contraloría interna de la propia Dirección. El titular de esta Contraloría será designado por el Gobernador del Estado y sólo será responsable administrativamente ante él y los acuerdos que le impongan sanciones serán refrendados en los términos del Artículo 95 de la Constitución Política local.
+Los servidores públicos de la Contraloría Gubernamental que incurran en responsabilidad por incumplimiento de las obligaciones establecidas en el artículo 47 serán sancionados conforme al presente capítulo por el órgano interno de control de la propia Contraloría. El titular de dicho órgano será designado por el Gobernador del Estado y sólo será responsable administrativamente ante él y los acuerdos que le impongan sanciones serán refrendados en los términos del artículo 95 de la Constitución Política del Estado.
 
 ###### ARTICULO 53.
 
@@ -513,9 +529,11 @@ En caso de aplicación de sanciones económicas por beneficios obtenidos y daño
 
 Por salario mínimo se entenderá el que rija en la Capital del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 56.
 
-Para la aplicación de las sanciones a que hace referencia el Artículo 53 se observarán las siguientes reglas:
+Para la aplicación de las sanciones que hace referencia el artículo 53 se observarán las siguientes reglas:
 
 I.- El apercibimiento, la amonestación y la suspensión del empleo, cargo o comisión por un período no menor de tres días ni mayor de tres meses, serán aplicables por el superior jerárquico;
 
@@ -523,11 +541,15 @@ II.- La destitución del empleo, cargo o comisión de los servidores públicos, 
 
 III.- La suspensión del empleo, cargo o comisión durante el período al que se refiere la fracción I y la destitución de los servidores públicos de confianza, se aplicarán por el superior jerárquico;
 
-IV.- La Dirección promoverá los procedimientos a que hacen referencia las fracciones II y III, demandando la destitución del servidor público responsable o procediendo a la suspensión de éste, cuando el superior jerárquico no lo haga. En este caso, la Dirección desahogará el procedimiento y exhibirá las constancias respectivas al superior jerárquico;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2002)</small>
+
+IV.- La Contraloría promoverá los procedimientos a que hacen referencia las fracciones II y III, demandando la destitución del servidor público responsable o procediendo a la suspensión de éste, cuando el superior jerárquico no lo haga. En este caso, la propia Contraloría desahogará el procedimiento y exhibirá las constancias respectivas al superior jerárquico;
 
 V.- La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público será aplicable por resolución jurisdiccional, que dictará el órgano que corresponda según las leyes aplicables; y
 
-VI.- Las sanciones económicas serán aplicadas por el superior jerárquico cuando no excedan de un monto equivalente a cien veces el salario mínimo diario vigente en la capital del Estado, y por la Dirección cuando sean superiores a esta cantidad.
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2002)</small>
+
+VI.- Las sanciones económicas serán aplicadas por el superior jerárquico cuando no excedan de un monto equivalente a cien veces el salario mínimo diario vigente en la capital del Estado, y por la Contraloría cuando sean superiores a esa cantidad.
 
 ###### ARTICULO 57.
 
@@ -537,35 +559,51 @@ La Contraloría interna de la dependencia determinará si existe o no responsabi
 
 En lo que respecta a las entidades, la denuncia a que se refiere el primer párrafo de este artículo, será recibida por las Contralorías Internas de la Secretaría o de la Dirección General del Sector correspondiente.
 
-El superior jerárquico enviará a la Dirección, copia de las denuncias cuando se trate de infracciones graves o cuando, en su concepto y habida cuenta de la naturaleza de los hechos denunciados, la Dirección deba conocer el caso o participar en las investigaciones.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
+
+El superior jerárquico enviará a la Contraloría Gubernamental copia de las denuncias cuando se trate de infracciones graves o cuando, en su concepto y habida cuenta de la naturaleza de los hechos denunciados, dicha dependencia deba conocer el caso o participar en las investigaciones.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 58.
 
-La Dirección aplicará las sanciones correspondientes a los contralores internos de las dependencias cuando estos incurran en actos u omisiones que impliquen responsabilidad administrativa.
+La Contraloría Gubernamental aplicará las sanciones correspondientes a los contralores internos de las dependencias, cuando éstos incurran en actos u omisiones que impliquen responsabilidad administrativa.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 59.
 
-Incurrirán en responsabilidad administrativa, los servidores públicos de las contralorías internas que se abstengan injustificadamente de sancionar a los infractores o que, al hacerlo, no se ajusten a lo previsto por esta Ley. La Dirección informará de ello al titular de la dependencia y aplicará las sanciones correspondientes.
+Incurrirán en responsabilidad administrativa los servidores públicos de las contralorías internas que se abstengan injustificadamente de sancionar a los infractores o que, al hacerlo, no se ajusten a lo previsto por esta ley. La Contraloría Gubernamental informará de ello al titular de la dependencia y aplicará las sanciones correspondientes.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 60.
 
-La Contraloría interna de cada dependencia por acuerdo de su titular será competente para imponer sanciones disciplinarias, excepto las económicas cuyo monto sea superior a cien veces el salario mínimo diario en la capital del Estado, las que están reservadas exclusivamente a la Dirección, que comunicará los resultados del procedimiento al titular de la dependencia o entidad. En este último caso, la Contraloría interna, previo informe al superior jerárquico, turnará el asunto a la Dirección.
+La Contraloría Interna de cada dependencia será competente a imponer sanciones disciplinarias, excepto las económicas cuyo monto sea superior a cien veces de salario mínimo diario en la capital del Estado, las cuales están reservadas exclusivamente a la Contraloría Gubernamental, misma que comunicará los resultados del procedimiento al titular de la dependencia o entidad. En este último caso, el órgano de control interno de que se trate, previo informe al superior jerárquico, turnará el asunto a dicha dependencia de la administración pública del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 61.
 
-Si la Contraloría Interna de la dependencia tuviera conocimiento de hechos que impliquen responsabilidad penal, dará vista de ellos a la Dirección y a la autoridad competente para conocer el ilícito, previa comunicación al titular de la dependencia respectiva.
+Si el órgano de control interno de la dependencia tuviera conocimiento de hechos que impliquen responsabilidad penal, dará vista de ellos a la Contraloría Gubernamental y a la autoridad competente para conocer el ilícito, previa comunicación al titular de la dependencia respectiva.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 62.
 
-Si de las investigaciones y auditorías que realice la Dirección apareciera la responsabilidad de los servidores públicos, informará al titular y a la Contraloría interna de la dependencia correspondiente, para que proceda esta última a la investigación y sanción disciplinaria por dicha responsabilidad, si fuera de su competencia. Si se trata de responsabilidades mayores cuyo conocimiento solo compete a la Dirección, ésta se abocará directamente al asunto, informando de ello al titular de la dependencia y a la Contraloría Interna de la misma para que participe o coadyuve en el procedimiento de determinación de responsabilidades.
+Si de las investigaciones y auditorías que realice la Contraloría Gubernamental apareciera responsabilidad de los servidores públicos, ésta informará al titular y al órgano de control interno de la dependencia correspondiente, para que esta última proceda a la investigación y sanción disciplinaria por dicha responsabilidad, si fuera de su competencia. Si se trata de responsabilidades mayores cuyo conocimiento sólo compete a la propia Contraloría Gubernamental, ésta se abocará directamente al asunto, informando de ello al titular de la dependencia y al órgano de control interno de la misma para que participe o coadyuve en el procedimiento de determinación de responsabilidades.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 63.
 
-La dependencia y la Dirección en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el salario mínimo diario vigente en la capital del Estado.
+En los ámbitos de sus respectivas competencias, la dependencia y la Contraloría Gubernamental, podrán abstenerse de sancionar al infractor por una sola vez, cuando lo estimen pertinente y mediante la justificación de la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, el daño causado no exceda de cien veces al salario mínimo diario vigente en la capital del Estado y lo ameriten los antecedentes y circunstancias del infractor.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 64.
 
-La Dirección impondrá las sanciones administrativas a que se refiere este capítulo mediante el siguiente procedimiento:
+La Contraloría Gubernamental impondrá las sanciones administrativas a que se refiere este capítulo mediante el siguiente procedimiento:
 
 I.- Citará al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que se verificará dicha audiencia y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga, por sí o por medio de un defensor.
 
@@ -573,13 +611,19 @@ También asistirá a la audiencia el representante de la dependencia que para ta
 
 Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles.
 
-II- Al concluir la audiencia o dentro de los tres días hábiles siguientes, la Dirección resolverá sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes y notificará la resolución dentro de las veinticuatro horas siguientes al interesado, o a su jefe inmediato, al representante designado por la dependencia y al superior jerárquico;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2002)</small>
 
-III.- Si en la audiencia la Dirección encontrará que no cuenta con los elementos suficientes para resolver o advierta elementos que impliquen nueva responsabilidad administrativa a cargo del presunto responsable o de otras personas, podrá disponer la práctica de investigaciones y citar para otra u otras audiencias; y
+II.- Al concluir la audiencia o dentro de los tres días hábiles siguientes, la Contraloría resolverá sobre la inexistencia de responsabilidad o la imposición de las sanciones correspondientes al infractor, y notificará la resolución dentro de las veinticuatro horas siguientes al interesado o a su jefe inmediato, al representante designado por la dependencia y al superior jerárquico;
 
-IV.- En cualquier momento, previa o posteriormente al citatorio al que se refiere la fracción I del presente artículo, la Dirección podrá determinar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, previo acuerdo con el superior jerárquico respectivo, si a su juicio así conviene para la conducción o continuación de las investigaciones. La suspensión temporal no prejuzga sobre la responsabilidad que se impute. La determinación de la Dirección hará constar expresamente esta salvedad.
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2002)</small>
 
-La suspensión temporal a que se refiere el párrafo anterior, hará cesar provisionalmente los efectos del nombramiento, cargo o comisión y regirá desde el momento en que sea notificada al interesado o éste quede enterado de la resolución por cualquier medio. La suspensión cesará cuando así lo resuelva la Dirección, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo en relación con la presunta responsabilidad de los servidores públicos.
+III.- Si en la audiencia la Contraloría encuentra que no cuenta con los elementos suficientes para resolver o advierte elementos que impliquen nueva responsabilidad administrativa a cargo del presunto responsable o de otras personas, podrá disponer la práctica de investigaciones y citar para otra u otras audiencias; y
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2002)</small>
+
+IV.- En cualquier momento, previa o posteriormente al citatorio al que se refiere la fracción I del presente artículo, la Contraloría podrá determinar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, previo acuerdo con el superior jerárquico respectivo, si a su juicio así conviene para la conducción o continuación de las investigaciones. La suspensión temporal no prejuzga sobre la responsabilidad que se impute. La determinación de la Contraloría Gubernamental hará constar expresamente esa salvedad.
+
+La suspensión temporal a que se refiere el párrafo anterior hará cesar provisionalmente los efectos del nombramiento, cargo o comisión y regirá desde el momento en que sea notificada al interesado o éste quede enterado de la resolución por cualquier medio. La suspensión cesará cuando así lo resuelva la propia Contraloría, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo en relación con la presunta responsabilidad de los servidores públicos.
 
 Si los servidores públicos suspendidos temporalmente no resultaren responsables de la falta que se les imputa, serán restituidos en el goce de sus derechos y se les cubrirán las percepciones que debieron percibir durante el tiempo en que se hallaron suspendidos.
 
@@ -597,13 +641,17 @@ Se levantará acta circunstanciada de todas las diligencias que se practiquen, q
 
 El titular de la dependencia o entidad podrá designar un representante que participe en las diligencias. Se dará vista de todas las actuaciones a la dependencia o entidad en la que el presunto responsable presta sus servicios.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 68.
 
-Las resoluciones y acuerdos de la Dirección y de las dependencias durante el procedimiento al que se refiere éste capítulo, constarán por escrito, y se asentarán en el registro respectivo, que comprenderá las acciones correspondientes a los procedimientos disciplinarios y a las sanciones impuestas, entre ellas, en todo caso, las de inhabilitación.
+Las resoluciones y acuerdos de la Contraloría Gubernamental y de las dependencias durante el procedimiento al que se refiere este capítulo se harán constar por escrito, y se asentarán en el registro respectivo, que comprenderá las acciones correspondientes a los procedimientos disciplinarios y a las sanciones impuestas, entre ellas, en todo caso, las de inhabilitación.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 69.
 
-La Dirección expedirá constancias que acrediten la no existencia de registro de inhabilitación, que serán exhibidas, para los efectos pertinentes, por las personas que sean requeridas para desempeñar un empleo, cargo o comisión en el servicio público.
+La Contraloría Gubernamental expedirá constancias que acrediten la no existencia de registro de inhabilitación para su exhibición, para los efectos pertinentes, por las personas que sean requeridas para desempeñar un empleo, cargo o comisión en el servicio público.
 
 ###### ARTICULO 70.
 
@@ -639,9 +687,11 @@ B).- Que la ejecución de la resolución recurrida produzca daños o perjuicios 
 
 C).- Que la suspensión no traiga como consecuencia la consumación o continuación de actos u omisiones que impliquen perjuicio al interés social o al servicio público.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 73.
 
-El servidor público afectado por las resoluciones administrativas de la Dirección, podrá optar entre interponer ante la misma el recurso de revocación o impugnarlas directamente ante el Tribunal Fiscal del Estado.
+El servidor público afectado por las resoluciones administrativas de la Contraloría Gubernamental podrá optar entre interponer ante la misma el recurso de revocación o impugnarlas directamente ante el Tribunal Fiscal del Estado.
 
 ###### ARTICULO 74.
 
@@ -659,9 +709,11 @@ Las sanciones económicas que se impongan constituirán créditos fiscales a fav
 
 Si el servidor público presunto responsable confesare su responsabilidad por el incumplimiento de las obligaciones a que hace referencia la presente Ley, se procederá de inmediato a dictar resolución, a no ser que quien conoce del procedimiento disponga la recepción de pruebas para acreditar la veracidad de la confesión. En caso de que se acepte la plena validez probatoria de la confesión, se impondrá al interesado dos tercios de la sanción aplicable, si es de naturaleza económica, pero en lo que respecta a indemnización, ésta en todo caso deberá ser suficiente para cubrir los daños y perjuicios causados, y siempre deberá restituirse cualquier bien o producto que se hubiese percibido con motivo de la infracción. Quedará a juicio de quien resuelve disponer o no la suspensión, separación o inhabilitación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 77.
 
-Para el cumplimiento de las atribuciones que le confiere ésta Ley, la Dirección podrá emplear los siguientes medios de apremio:
+Para el cumplimiento de las atribuciones que le confiere esta ley, la Contraloría Gubernamental podrá emplear los siguientes medios de apremio:
 
 I.- Sanción económica de hasta veinte veces el salario mínimo diario vigente en Ciudad Victoria;
 
@@ -687,15 +739,29 @@ II.- En los demás casos, preiscribirán (sic) en tres años.
 
 REGISTRO DEL PATRIMONIO DE LOS SERVIDORES PUBLICOS.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 79.
 
-La Dirección llevará el registro de la situación patrimonial de los servidores públicos de conformidad con ésta ley y demás disposiciones aplicables.
+El registro de la situación patrimonial de los servidores públicos se llevará de conformidad con esta Ley y demás disposiciones aplicables y, según la competencia, estará a cargo de:
+
+I.- La Gran Comisión del Congreso;
+
+II.- La Dirección de Contraloría del Supremo Tribunal de Justicia, en términos de la fracción V del artículo 131 de la Ley Orgánica del Poder Judicial del Estado;
+
+III.- La Contraloría Gubernamental para los servidores públicos adscritos a la esfera del Ejecutivo del Estado y de los Ayuntamientos; y
+
+IV.- El Ejecutivo del Estado, en tratándose de los servidores públicos de confianza de la Contraloría Gubernamental.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 80.
 
-Tienen la obligación de presentar declaración anual de situación patrimonial ante la Dirección, bajo protesta de decir verdad:
+Tienen obligación de presentar declaraciones inicial, actual y final de situación patrimonial, bajo protesta de decir verdad:
 
-I.- En el Congreso del Estado: Diputados, Oficial Mayor y Contador Mayor de Glosa;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2002)</small>
+
+I.- En el Congreso del Estado: Diputados, Oficial Mayor y Auditor Superior del Estado;
 
 II.- En el Poder Judicial del Estado: Magistrados, Jueces, Secretarios de Acuerdos, Relatores y Actuarios;
 
@@ -709,37 +775,53 @@ VI.- En la Procuraduría General de Justicia del Estado: Procurador, Subprocurad
 
 VII.- En los Tribunales Administrativos y del Trabajo, Magistrados, miembros de las Juntas y Tribunales de Arbitraje, así como sus Secretarios;
 
-VIII.- En la Dirección General de la Contraloría Estatal: Todos los servidores públicos de confianza, pero el registro de la situación patrimonial de estos servidores se hará ante el Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2002)</small>
 
-Asimismo, deberán presentar la declaración de la que se trata en este precepto, los demás servidores públicos que determinen el Director General de la Contraloría y el Procurador General de Justicia, mediante disposiciones generales debidamente motivadas y fundadas, previo acuerdo con el Ejecutivo del Estado.
+VIII.- En la Contraloría Gubernamental: Todos los servidores públicos de confianza.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
+
+Asimismo, deberán presentar las declaraciones referidas en este precepto los demás servidores públicos que acuerde el Ejecutivo del Estado en el ámbito de su competencia por conducto de la Contraloría Gubernamental o a la Procuraduría General de Justicia, mediante disposiciones generales motivadas y fundadas.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 81.
 
-La declaración de situación patrimonial deberá presentarse dentro de los sesenta días naturales siguientes a la toma de posesión y dentro de los treinta días naturales siguientes a la conclusión del encargo, así como en el mes de febrero de cada año.
+La declaración inicial de situación patrimonial deberá presentarse dentro de los sesenta días naturales siguientes a la toma de posesión y la declaración final dentro de los treinta días siguientes a la conclusión del encargo; la declaración anual de situación patrimonial se presentará, a más tardar, en el mes de febrero de cada año.
 
-Si en el plazo de sesenta días a que se hace referencia no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efecto el nombramiento respectivo previa declaración de la Dirección.
+Sin en el plazo de sesenta días a que se hace referencia no se hubiere presentado la declaración inicial sin causa justificada, quedará sin efecto el nombramiento respectivo, previa declaración del órgano a cargo de llevar el registro correspondiente.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 82.
 
-La Dirección expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
+La Contraloría Gubernamental expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar las declaraciones de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2002)</small>
+
+Estas atribuciones serán ejercidas por la Gran Comisión en tratándose de la materia de su competencia.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 83.
 
-En la declaración inicial y final de situación patrimonial se manifestarán los bienes inmuebles, con fecha y valor de adquisición.
+En las declaraciones inicial y final de situación patrimonial se manifestarán los bienes inmuebles con fecha y valor de adquisición.
 
-En las declaraciones anuales se manifestarán sólo las modificaciones al patrimonio, con fecha y valor de adquisición. En todo caso, se indicará el medio por el cual se obtuvo el bien.
+En las declaraciones anuales se manifestarán las modificaciones al patrimonio, con fecha y valor de las adquisiciones realizadas; en todo caso se indicará el medio por el cual el bien ingresó al patrimonio del servidor público.
 
-Tratándose de bienes muebles, la Dirección decidirá mediante acuerdo general, las características que deba tener la declaración.
+Tratándose de bienes inmuebles, la Contraloría Gubernamental o la Gran Comisión del Congreso, según corresponda, decidirán las características que deberá tener la declaración.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 84.
 
-Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, la Dirección, previo acuerdo del Ejecutivo debidamente refrendado, podrá ordenar, fundando y motivando su acuerdo, la practica de visitas de inspección y auditoria. Cuando estos actos requieran orden de autoridad judicial, la Dirección hará ante ésta la solicitud correspondiente.
+En el ámbito de su competencia y cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor públicos (sic), previo acuerdo del Ejecutivo debidamente refrendado, la Contraloría Gubernamental podrá disponer mediante acuerdo fundado y motivado la práctica de visita de inspección y auditoría. Cuando estos actos requieran orden de autoridad judicial, dicha dependencia hará ante ésta la solicitud correspondiente.
 
-Previamente a la inspección o al inicio de la auditoria se dará cuenta al servidor público de los hechos que motivan estas actuaciones y se le presentarán las actas en que aquellos consten, para que exponga lo que en derecho le convenga.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 85.
 
-El servidor público a quien se practique visita de inspección o auditoria, podrá interponer inconformidad ante la Dirección contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cinco días siguientes a la conclusión de aquéllas, en el que se expresará los motivos de inconformidad y ofrecerá las pruebas que considere necesario acompañar o rendir dentro de los treinta días siguientes a la presentación del recurso.
+El servidor público a quien se practique visita de inspección o auditoría, podrá interponer inconformidad ante la Contraloría Gubernamental contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cinco días siguientes a la conclusión de aquellas, en el que expresará los motivos de inconformidad y ofrecerá las pruebas que considere necesario acompañar o rendir dentro de los treinta días siguientes a la presentación del recurso.
 
 Todas las actas que se levanten con motivo de la visita deberán ir firmadas por el servidor público y los testigos que para tal efecto designe. Si el servidor público o los testigos se negaren a firmar, el visitador lo hará constar, sin que estas circunstancias afecten el valor probatorio que, en su caso, posea el documento.
 
@@ -761,13 +843,17 @@ En ningún caso se podrán recibir de dichas personas títulos-valor, bienes inm
 
 Se castigará como cohecho las conductas de los servidores públicos que violen lo dispuesto en éste artículo, y serán sancionados en términos de la legislación penal.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 89.
 
-Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se mencionan en el artículo anterior y cuyo monto sea superior al que en él se establece o sean de lo estrictamente prohibidos, deberán informar de ello a las autoridades que la Dirección determine, a fin de ponerlos a su disposición. La autoridad correspondiente llevará un registro de dichos bienes.
+Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se mencionan en el artículo anterior y cuyo monto sea superior al que en él se establece o sean de los estrictamente prohibidos, deberán informar de ello a las autoridades que la Contraloría Gubernamental o, en su caso, la Gran Comisión del Congreso, determinen, a fin de ponerlos a disposición. La autoridad competente llevará un registro de dichos bienes.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 90.
 
-La Dirección hará al Ministerio Público en su caso, declaratoria de que el funcionario sujeto a la investigación respectiva, en los términos de la presente Ley, no justificó la procedencia lícita del incremento sustancial de su patrimonio, de los bienes adquiridos o de aquellos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo.
+La Contraloría Gubernamental hará al Ministerio Público la declaratoria, en su caso, de que el funcionario sujeto a la investigación respectiva en los términos de la presente ley, no justificó la procedencia lícita del incremento sustancial de su patrimonio, de los bienes adquiridos o de aquellos sobre los que se conduce como dueño, durante el tiempo de su encargo o por motivos del mismo.
 
 ## TRANSITORIOS
 
@@ -818,3 +904,11 @@ P.O. 19 DE ABRIL DE 2000
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE FEBRERO DE 2002
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan a los preceptos de este Decreto.
+
+Artículo Tercero.- La presentación de la declaración inicial de situación patrimonial de los Diputados a la LVIII Legislatura del Estado y de sus funcionarios se hará ante la Gran Comisión dentro del plazo previsto por la Ley de Responsabilidades de los Servidores Públicos del Estado. En el supuesto de que ya se hubiere realizado ante la Contraloría Gubernamental, esta dependencia la remitirá a la Gran Comisión dentro de los siete días siguientes a la entrada en vigor del presente Decreto.
