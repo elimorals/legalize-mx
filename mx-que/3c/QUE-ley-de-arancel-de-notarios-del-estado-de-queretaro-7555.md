@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-arancel-de-notarios-del-estado-de-queretaro-7555"
 country: "mx"
 rank: "ley"
 publication_date: "1991-02-28"
-last_updated: "1991-02-28"
+last_updated: "1996-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE ARANCEL DE NOTARIOS DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY QUE MODIFICA, REFORMA Y ADICIONA LA LEY DEL NOTARIADO PARA EL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 1996, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 28 de febrero de 1991.
 
@@ -666,3 +668,17 @@ LIC. MARIANO PALACIOS ALCOCER.
 El C. Secretario de Gobierno.
 
 LIC. JOSE MARIA HERNANDEZ SOLIS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 1996
+
+PRIMERO. Esta ley entrará en vigor el día 1o. primero de Febrero de 1997 mil novecientos noventa y siete.
+
+SEGUNDO. El tomo que se encuentren (sic) en uso a la entrada en vigor de la presente Ley, deberán concluirse hasta completar los cinco volúmenes que correspondan, para continuar inmediatamente después el orden progresivo, en los términos del artículo 39 de la misma.
+
+TERCERO. Hasta en tanto el Ejecutivo expida el Arancel para el Cobro de Honorarios de los Notarios, en términos del artículo 5 párrafo primero de la presente Ley, continuará aplicándose la Ley del Arancel de Notarios del Estado de Querétaro, publicada en el Periódico Oficial "La Sombra de Arteaga" número 9 de fecha 28 de febrero de 1991.
+
+CUARTO.- A partir de que entre en vigor el Arancel para el Cobro de Honorarios de los Notarios que expida el Ejecutivo en términos del artículo 5 párrafo primero de la presente Ley, se abrogará la Ley de Arancel de Notarios del Estado de Querétaro, publicada en el Periódico Oficial "La Sombra de Arteaga" número 9 de fecha 28 de febrero de 1991.
+
+QUINTO.- Se derogan todas las demás disposiciones que se opongan a esta Ley.
