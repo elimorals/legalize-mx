@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1940-12-28"
+last_updated: "1942-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1940.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 1942.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -117,11 +117,11 @@ Las funciones que competen al Poder Legislativo se ejercen por una Cámara que s
 
 De los Diputados y de la Instalacion y Funciones del Congreso.
 
-(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1942)</small>
 
 ###### Artículo 22.
 
-El Congreso se compondrá de siete Diputados electos popular y directamente cada dos años. Al efecto el Estado se dividirá en siete Distritos Electorales, correspondiendo un Diputado Propietario y un Suplente por cada Distrito.
+El Congreso se compondrá de siete Diputados electos popular y directamente cada tres años. Al efecto el Estado se dividirá en siete Distritos Electorales, correspondiendo un Diputado Propietario y un Suplente por cada Distrito.
 
 (REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -133,9 +133,9 @@ Los ciudadanos que hayan desempeñado el cargo de Diputado Propietario por más 
 
 Para ser Diputado se requiere:
 
-(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1942)</small>
 
-I.- Ser ciudadano colimense por nacimiento y con una residencia de cinco años antes del día de la elección.
+I.- Ser ciudadano mexicano por nacimiento y tener una residencia en el Estado no menor de cinco años antes del día de la elección.
 
 (REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -153,9 +153,9 @@ IV.- No ser Secretario General de Gobierno, Magistrado del Supremo Tribunal de J
 
 V.- No ser Presidente Municipal en el lugar donde hayan de celebrarse las elecciones, salvo si renunciare el cargo noventa días antes de verificarse el acto democrático.
 
-(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1942)</small>
 
-VI.- Vivir del producto de un trabajo honesto, sea éste manual, industrial o profesional.
+VI.- Vivir del producto de un trabajo honesto, sea éste manual o intelectual y tener una preparación suficiente para desempeñar este cargo.
 
 ###### Artículo 25.
 
@@ -835,9 +835,9 @@ El Procurador General durará en su encargo dos años.
 
 La Administración Municipal se ejerce:
 
-(REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1942)</small>
 
-I.- Por los Ayuntamientos que residirán en las Cabeceras de los Municipios, sus miembros serán electos popular y directamente y durarán en el ejercicio de su cargo dos años; por cada Munícipe Propietario se elegirá un Suplente no pudiendo ser nuevamente electos en ningún tiempo los Ciudadanos que hayan desempeñado el cargo de Presidente Municipal por más de un año.
+I.- Por los Ayuntamientos que residirán en las Cabeceras de los Municipios y cuyos miembros serán electos popular y directamente cada tres años. Por cada Munícipe Propietario se elegirá un Suplente, no pudiendo ser nuevamente electos en ningún tiempo los ciudadanos que hayan desempeñado el cargo de Presidente Municipal por más de un año.
 
 II.- Por las Juntas Municipales que residirán en los pueblos, estarán integradas por tres miembros que serán nombrados por el Ayuntamiento respectivo y tendrán los requisitos que marca el artículo 89. Por cada miembro de la Junta Municipal se nombrará un suplente.
 
@@ -851,9 +851,11 @@ III.- Por los Comisarios Municipales que residirán en las Rancherías. Los Comi
 
 Las Juntas Municipales y los Comisarios durarán en su encargo dos años.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1942)</small>
+
 ###### Artículo 89.
 
-Para ser miembro de un Ayuntamiento, se necesita ser ciudadano Colimense, vecino del lugar, mayor de edad y tener modo honesto de vivir y los demás requisitos que establezca la ley relativa; no pudiendo recaer este cargo en los empleados del Gobierno General, ni en los demás funcionarios públicos de la Federación o del Estado, que estén en ejercicio.
+Para ser miembro de un Ayuntamiento se necesita ser ciudadano mexicano por nacimiento, tener una residencia en el Estado no menor de cinco años antes del día de la elección, ser mayor de edad, tener un modo honesto de vivir, tener una preparación suficiente para desempeñar este cargo y llenar los demás requisitos que establezca la Ley relativa. El cargo de miembro de un Ayuntamiento no puede recaer en los Empleados del Gobierno ni en los demás funcionarios Públicos de la Federación o del Estado, que estén en ejercicio.
 
 ###### Artículo 90.
 
@@ -1476,6 +1478,12 @@ P.O. 28 DE DICIEMBRE DE 1940.
 ###### Artículo 2º.
 
 Las presentes reformas entrarán en vigor el día primero de enero de 1941.
+
+P.O. 27 DE JUNIO DE 1942.
+
+###### Artículo 2º.
+
+Las presentes reformas entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Bolima" (sic).
 
 ###### Artículo 2.
 
