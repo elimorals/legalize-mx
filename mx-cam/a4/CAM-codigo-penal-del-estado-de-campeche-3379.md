@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-3379"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-08"
-last_updated: "1996-12-07"
+last_updated: "1999-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO PENAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 8 de enero de 1974.
 
@@ -1507,6 +1507,16 @@ II.- Al que publique por cualquier medio, ejecute o haga ejecutar por otro, exhi
 
 III.- Al que de modo escandaloso invite a otro al comercio carnal.
 
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 1999)</small>
+
+Art. 175 BIS.- Se aplicarán de cinco a diez años de prisión y mil días de multa al que fabrique, reproduzca, distribuya o comercialice películas, videos, revistas o cualquier otro material pornográfico utilizando a menores de edad. La misma pena se impondrá al o a los que con material pornográfico induzcan al menor a la prostitución, consumo de drogas prohibidas, ebriedad, vagancia o mendicidad.
+
+Si como consecuencia de los actos pornográficos mencionados en el párrafo anterior se induce al menor a la práctica habitual de la prostitución, drogadicción, alcoholismo, vagancia o mendicidad, la pena se duplicará.
+
+También se duplicará la pena prevista en este artículo cuando el responsable tenga parentesco de consanguinidad, afinidad o civil con la persona ofendida o cuando el agente ejerciere autoridad sobre el pasivo o fuere su tutor o maestro o cometiere el delito valiéndose de un cargo o servicio públicos o ejerza una profesión y utilice los medios o circunstancias que éstos le proporcionen, o sea ministro de algún culto religioso.
+
+Los responsables de que trata este artículo perderán la patria potestad si la ejercieran, o la tutela, o la guarda y custodia, así como el derecho de heredar a la persona ofendida; los que ejercieren profesión u oficio quedarán suspendidos en ellos por el término de dos hasta cinco años y el funcionario o servidor público serán destituidos de su cargo o empleo, e inhabilitados hasta por cinco años para desempeñar otro similar.
+
 ### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
@@ -1687,7 +1697,7 @@ Iguales sanciones se impondrán a las personas que acepten los nombramientos, co
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
-### CAPITULO VIII. INTIMIDACION
+### CAPITULO VII. PECULADO Y CONCUSION
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
@@ -1699,7 +1709,7 @@ Al que cometa el delito de coalición de servidores públicos se le impondrán d
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
-### CAPITULO VII. PECULADO Y CONCUSION
+### CAPITULO VIII. INTIMIDACION
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
@@ -3499,6 +3509,10 @@ Si los encubridores fuesen representantes legales de empresas pesqueras, congela
 
 Los jueces, teniendo en cuenta la naturaleza de la acción, las circunstancias personales del acusado y las demás que consigna el artículo 49, podrán imponer en los casos de encubrimiento a que se refieren las fracciones III, IV y V del artículo 376, en lugar de las sanciones establecidas en dicho artículo, hasta las dos terceras partes de la que correspondería al autor del delito; debiendo hacer constar especialmente en la sentencia las razones en que se funda para señalar la sanción que autoriza este artículo.
 
+(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 1991) (F. DE E., P.O. 7 DE ENERO DE 1991)
+
+TITULO VIGESIMOSEPTIMO
+
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 1991)</small>
 
 ###### Art. 379.
@@ -3594,10 +3608,6 @@ III.- Destine fondos o bienes que tenga a su disposición en virtud de su cargo 
 ###### Art. 386.
 
 Se impondrá sanción de suspensión de sus derechos políticos por un año a quienes, habiendo sido electos diputados o presidente, regidor o síndico de un Ayuntamiento o Junta Municipal o comisario municipal, no se presenten, sin causa justificada a juicio del Congreso, a desempeñar el cargo dentro del plazo señalado por la ley.
-
-(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 1991) (F. DE E., P.O. 7 DE ENERO DE 1991)
-
-TITULO VIGESIMOSEPTIMO
 
 ## ARTICULOS TRANSITORIOS
 
@@ -3696,3 +3706,9 @@ P.O. 7 DE DICIEMBRE DE 1996.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan, en lo que se opongan al contenido del presente decreto, todas las disposiciones legales y reglamentarias que conforman el marco jurídico propio de esta Entidad Federativa.
+
+P.O. 14 DE ABRIL DE 1999.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
