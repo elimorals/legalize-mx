@@ -4,7 +4,7 @@ identifier: "FED-ley-del-servicio-de-tesoreria-de-la-federacion-1761"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1995-11-17"
+last_updated: "1998-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1761&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1985-12-19"
 
 LEY DEL SERVICIO DE TESORERIA DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MAYO DE 1998.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 31 de diciembre de 1985.
 
@@ -127,6 +127,24 @@ Los actos u omisiones de que tenga conocimiento la Tesorería, que impliquen inc
 
 Cuando las infracciones a esta Ley impliquen actos delictuosos, previstos en el Código Penal para el Distrito Federal en materia de fuero común y para toda la República en materia de fuero federal, la Tesorería y en su caso la autoridad que haya efectuado las diligencias de investigación y auditorías señaladas en el párrafo anterior, informarán a la autoridad administrativa competente de la Secretaría de los presuntos hechos delictuosos, para su denuncia o querella ante quien deba conocer del ilícito.
 
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 14
+
+Bis.- La Tesorería estará facultada para celebrar las operaciones y prestar los servicios a que se refiere la presente Ley, mediante la utilización de documentos escritos con la correspondiente firma autógrafa del servidor público competente, o bien, a través de equipos o sistemas automatizados, para lo cual, en sustitución de la firma autógrafa, se emplearán medios de identificación electrónica.
+
+Para la utilización de los equipos o sistemas automatizados a los que alude el párrafo anterior, la Tesorería dará a conocer a las dependencias y entidades de la administración pública federal como mínimo lo siguiente:
+
+I.- Las operaciones y servicios cuya prestación se establezca;
+
+II.- Los medios de identificación del usuario y las responsabilidades correspondientes a su uso, y
+
+III.- Los medios por los que se haga constar la creación, establecimiento, transmisión, modificación o extinción de derechos y obligaciones inherentes a las operaciones y servicios de que se trate.
+
+El uso de los medios de identificación que se establezca conforme a lo previsto en esta Ley, en sustitución de la firma autógrafa, producirá los mismos efectos que las leyes otorgan a los documentos correspondientes y, en consecuencia, tendrán el mismo valor probatorio.
+
+La Tesorería será responsable de llevar un estricto control de los medios de identificación electrónica que autorice, así como de cuidar la seguridad y protección de los equipos o sistemas automatizados y, en su caso, de la confidencialidad de la información en ellos contenida.
+
 ## TITULO SEGUNDO. De la Recaudación
 
 ### CAPITULO I. Disposiciones Generales
@@ -205,19 +223,29 @@ Transcurrido el plazo de calendario sin que se hayan retirado por su legítimo p
 
 A fin de asegurar la recaudación de toda clase de créditos a favor del Gobierno Federal, la Secretaría, por conducto de la Tesorería o de los auxiliares legalmente facultados para ello, podrá aceptar la dación de bienes o servicios en pago total o parcial de créditos, cuando sea la única forma que tenga el deudor para cumplir con la obligación a su cargo y éstos sean de fácil realización o venta, o resulten aprovechables en los servicios públicos federales, a juicio de la propia Tesorería o de los auxiliares de referencia.
 
-La aceptación o negativa de la solicitud de dación en pago, será facultad discrecional de la Tesorería o de sus auxiliares y no podrá ser impugnada en recurso administrativo, ni en juicio de nulidad ante el Tribunal Fiscal de la Federación.
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 1998)</small>
 
-> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+La aceptación o negativa de la solicitud de dación en pago será facultad discrecional de la Tesorería o de sus auxiliares, debiendo resolverse en un término que no excederá de treinta días hábiles contados a partir de que esté debidamente integrado el expediente y no podrá ser impugnada en recurso administrativo, ni en juicio de nulidad ante el Tribunal Fiscal de la Federación. En caso de que de en dicho término no se emita la resolución correspondiente, se tendrá por negada la solicitud.
+
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 26.
 
-Las daciones en pago de bienes muebles o inmuebles a que se refiere el artículo anterior, se recibirán al valor del avalúo emitido, según corresponda, por institución de crédito, por la Comisión de Avalúos de Bienes Nacionales, por corredor público o por perito autorizado.
+Las daciones en pago de bienes muebles o inmuebles a que se refiere el artículo anterior, se aceptarán al valor del avalúo emitido, según corresponda, por institución de crédito, por la Comisión de Avalúos de Bienes Nacionales, por corredor público o por perito autorizado.
 
-Tratándose de servicios, en la notificación de la aceptación de la dación en pago, la Tesorería determinará el valor y los demás términos y condiciones en que éstos se reciban. Dicho valor no podrá ser superior al de mercado en el momento de la aceptación.
+Tratándose de servicios, la Tesorería determinará los términos, las condiciones, y el monto hasta por el cual podrá aceptarse el ofrecimiento del deudor de pagar el crédito mediante la dación en pago de servicios.
 
-Aceptada la dación en pago se suspenderán provisionalmente todos los actos tendientes al cobro del crédito respectivo.
+La aceptación de bienes o servicios a que se refiere el presente artículo, suspenderá provisionalmente todos los actos tendientes al cobro del crédito respectivo, así como la actualización de su principal y accesorios. De no formalizarse la dación en pago, en los términos del artículo 27 de esta Ley, quedará sin efectos la suspensión del cobro del crédito, debiendo actualizarse las cantidades desde la fecha en que debió hacerse el pago y hasta que el mismo se efectúe, conforme a las disposiciones fiscales.
 
-De no formalizarse la dación en pago, en los términos del artículo siguiente, quedará sin efectos la suspensión del cobro del crédito, debiendo actualizarse las cantidades desde la fecha en que debió hacerse el pago y hasta que el mismo se efectúe, conforme a las disposiciones fiscales.
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 26
+
+Bis.- Una vez aceptado el ofrecimiento de la dación en pago de servicios, el deudor deberá promover y buscar que le sea adjudicada la contratación de los servicios que ofrece en dación en pago ante las dependencias o entidades de la administración pública federal en estricto apego a las previsiones contenidas en la Ley de Adquisiciones y Obras Públicas. La dependencia o entidad que contrate dichos servicios, lo deberá comunicar por escrito a la Tesorería o sus auxiliares, de acuerdo con los procedimientos que para el efecto disponga la Tesorería. Dicho escrito deberá contener la autorización para que se lleve a cabo la afectación presupuestal correspondiente.
+
+La prestación de los servicios ofrecidos en dación en pago se deberá realizar en un plazo máximo de 18 meses contados a partir de la fecha de aceptación a que se refiere el primer párrafo de este artículo. En el supuesto de que el deudor no preste los servicios a las dependencias o entidades en el plazo y condiciones establecidos, quedará sin efectos la suspensión del cobro del crédito, debiendo actualizarse el saldo remanente desde la fecha en que debió hacerse el pago y hasta que el mismo se efectúe, conforme a las disposiciones fiscales.
+
+Las dependencias o entidades que aprovechen los servicios sujetos a las previsiones de este artículo, deberán informar periódicamente a la Tesorería o sus auxiliares de la contratación y el cumplimiento total o parcial de los mismos.
 
 > <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
@@ -231,15 +259,19 @@ II.- Tratándose de bienes muebles, a la fecha de firma del acta de entrega de l
 
 Cualquier gasto que resulte de la entrega del bien que corresponda, correrá por cuenta del deudor, y
 
-III.- Tratándose de servicios, en la fecha de su aceptación por la Tesorería o sus auxiliares, sujeta a la condición de que se cumplan todos los términos y condiciones establecidos. En caso de cumplimiento parcial, se extinguirá proporcionalmente el crédito siempre y cuando hayan sido aprovechados o resulten aprovechables para el Gobierno Federal.
+> <small>(REFORMADA, D.O.F. 29 DE MAYO DE 1998)</small>
 
-> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+III.- Tratándose de servicios, en la fecha en que éstos fueron efectivamente prestados. Al efecto, las dependencias o entidades de la administración pública federal deberán manifestar a la Tesorería o sus auxiliares que los servicios fueron aprovechados por las mismas.
+
+En caso de cumplimiento parcial se extinguirá proporcionalmente el crédito respectivo.
+
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 28.
 
-Los bienes y servicios recibidos en dación en pago, quedarán en custodia y administración de la Tesorería o de sus auxiliares correspondientes, a partir de que ésta se formalice. La propia Tesorería tendrá plenas facultades para proceder a su venta, o bien, tratándose de bienes muebles o de servicios, para determinar su destino de conformidad con lo establecido en el Reglamento de esta Ley, debiendo tramitar la afectación correspondiente en el Presupuesto de Egresos de la Federación.
+Los bienes recibidos en dación en pago quedarán en custodia y administración de la Tesorería o de sus auxiliares correspondientes a partir de que ésta se formalice. La propia Tesorería tendrá plenas facultades para proceder a su enajenación, o bien, tratándose de bienes muebles, también podrá determinar su destino dentro de la Administración Pública Federal, en los plazos que establece esta Ley, debiendo tramitar, en su caso, la afectación presupuestaria correspondiente.
 
-Para los efectos del párrafo anterior, la Tesorería, directamente o por conducto de sus auxiliares, podrá enajenar por medio de licitación pública o subasta, los bienes recibidos para el pago de créditos a favor del Fisco Federal, siempre que el precio no sea en cantidad menor al del valor en que fueron recibidos, con adición de los gastos de administración y venta generados, excepto cuando el valor del avalúo actualizado sea menor, en cuyo caso éste será el precio mínimo de venta.
+Para los efectos del párrafo anterior y conforme a lo dispuesto por el Título Noveno de esta Ley, la Tesorería directamente o por conducto de sus auxiliares, podrá enajenar por medio de licitación pública, subasta, remate o adjudicación directa, los bienes recibidos para el pago de créditos a favor del fisco federal, siempre que el precio no sea en cantidad menor al del valor en que fueron recibidos, con adición de los gastos de administración o venta generados, excepto cuando el valor del avalúo actualizado sea menor, en cuyo caso este será el precio mínimo de venta.
 
 > <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
@@ -483,11 +515,21 @@ La dependencia del Gobierno Federal que tenga a su cargo el fincamiento de respo
 
 La reclamación se integrará con los siguientes documentos: pliego de responsabilidades; constancia fehaciente de notificación personal de dicho pliego al responsable, en la forma que prescribe el Código Fiscal de la Federación; informe oficial de que el crédito permanece insoluto total o parcialmente, así como de que no ha sido cancelado, impugnado o se esté recibiendo su pago en parcialidades y, en su caso, del embargo precautorio de bienes del responsable, practicado conforme a las disposiciones legales.
 
-Cumplidos los requisitos anteriores, la Tesorería, dentro de los treinta días siguientes, cubrirá supletoriamente el Erario Federal, con cargo al Fondo, el importe insoluto del crédito por responsabilidades, de acuerdo a las disponibilidades financieras del Fondo.
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+Cumplidos los requisitos anteriores, la Tesorería, dentro de los treinta días siguientes, cubrirá supletoriamente a la dependencia que haya sufrido los daños y perjuicios, con cargo al Fondo, el importe insoluto del crédito por responsabilidades de acuerdo a las disponibilidades financieras del Fondo.
 
 > <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 Cuando no se satisfaga alguno de los requisitos, la Tesorería en forma motivada y fundada devolverá la documentación para que se subsanen las omisiones, sin perjuicio de que la dependencia respectiva dé cuenta a la Secretaría de Contraloría y Desarrollo Administrativo.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 65
+
+Bis.- La dependencia del Gobierno Federal a la cual esté adscrito el servidor público que presuntamente haya ocasionado perjuicios al Gobierno Federal, previo al fincamiento de responsabilidades por la dependencia facultada para ello, podrá solicitar a la Tesorería la reposición de los recursos para cubrir el importe de las mismas, la cual lo cubrirá de inmediato con cargo a su cuenta corriente y con carácter temporal, hasta en tanto se finque responsabilidad y la correspondiente resolución quede firme, en los términos del Reglamento de esta Ley.
+
+En caso de que se determine que no existe responsabilidad alguna, la dependencia correspondiente deberá devolver a la Tesorería los recursos a los que alude el párrafo anterior, de conformidad con el Reglamento de esta Ley.
 
 ###### ARTICULO 66.
 
@@ -514,6 +556,10 @@ II.- Devolución de descuentos indebidos o en exceso que se hubieren aplicado al
 III.- Gastos y honorarios erogados en el procedimiento de cobro, cuando los créditos respectivos hayan resultado incobrables; y
 
 IV.- Gastos de administración en inversión del Fondo en valores de fácil e inmediata realización.
+
+> <small>(ADICIONADA, D.O.F. 29 DE MAYO DE 1998)</small>
+
+V.- Contratación de seguros o garantías con instituciones de seguros o de fianzas autorizadas, que caucionen el manejo de los servidores públicos del Gobierno Federal que desempeñen las funciones de recaudación, manejo, custodia o administración de fondos, valores y bienes de la propiedad o al cuidado del mismo, así como de los que intervengan en la determinación, autorización y contratación de créditos en favor o a cargo del propio Gobierno, en los términos del Reglamento de esta Ley.
 
 ###### ARTICULO 70.
 
@@ -861,6 +907,330 @@ Asimismo, cuando el acto de vigilancia lo amerite, el Tesorero queda facultado p
 
 Los servidores públicos de la Tesorería y los auxiliares a quienes se encomienden las diligencias relacionadas con la vigilancia y el personal administrativo que conozca de las mismas, deberá guardar reserva acerca de los informes y datos que reciban, recaben, rindan o lleguen a su conocimiento con tal motivo. Esta obligación subsistirá aun cuando el funcionario o empleado se separe del servicio.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE MAYO DE 1998)</small>
+
+## TITULO NOVENO. Del Procedimiento de Venta de los Bienes Puestos a Disposición de la Tesorería o de sus Auxiliares
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE MAYO DE 1998)</small>
+
+### CAPITULO I. Disposiciones Generales
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 110.
+
+La Tesorería o sus auxiliares podrán vender los bienes puestos a su disposición una vez que se hayan cubierto los requisitos correspondientes, de acuerdo a cualquiera de los procedimientos previstos en esta Ley y en su Reglamento, siempre que el precio no sea en cantidad menor al del valor en que fueron recibidos, con adición de los gastos de administración o venta generados, excepto cuando el valor del avalúo actualizado sea menor, en cuyo caso éste será el precio mínimo de venta.
+
+El precio base de venta de los bienes será determinado mediante avalúo que realice la Comisión de Avalúos de Bienes Nacionales, instituciones de crédito autorizadas, corredor público o perito autorizado.
+
+La Tesorería estará facultada para mantener en reserva el precio base de venta hasta el acto de presentación de ofertas, en aquellos casos en que se considere que dicha reserva coadyuvará a estimular la competitividad entre los interesados y a maximizar el precio de venta.
+
+Salvo las excepciones previstas en esta Ley o en el Código Fiscal de la Federación, para el caso de remate, no se podrá proceder a la venta de los bienes por debajo del precio base de venta.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 111.
+
+La Tesorería y sus auxiliares podrán enajenar los bienes puestos a su disposición a través de los siguientes procedimientos:
+
+I.- Licitación Pública;
+
+II.- Subasta;
+
+III.- Remate, y
+
+IV.- Adjudicación directa.
+
+El procedimiento de remate se sujetará a las disposiciones previstas para el mismo en el Código Fiscal de la Federación.
+
+La Tesorería y, en su caso, sus auxiliares, podrán encomendar la enajenación de los bienes a empresas o instituciones especializadas en la promoción y venta de los mismos, cuando de los elementos de juicio con que al efecto cuente, estime que la intervención de las empresas aludidas, permita eficientar el procedimiento de enajenación, así como aumentar las alternativas de compradores potenciales y maximizar los precios.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 112.
+
+La venta de los bienes se realizará preferentemente a través del procedimiento de licitación pública, salvo que a juicio de la Tesorería no sea el procedimiento idóneo para garantizar las mejores condiciones en cuanto a precio y oportunidad, caso en el cual podrá optarse por alguno de los otros mecanismos previstos en el artículo anterior.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 113.
+
+Los bienes sólo podrán enajenarse mediante adjudicación directa, previo dictamen de la Tesorería, que deberá obrar por escrito, en los siguientes casos:
+
+I.- Se trate de bienes de fácil descomposición o deterioro, o de materiales inflamables, siempre que en la localidad no se puedan guardar o depositar en lugares apropiados para su conservación;
+
+II.- Se trate de bienes cuya conservación resulte incosteable para la Tesorería o sus auxiliares;
+
+III.- El valor de los bienes sea menor al equivalente de seis meses del salario mínimo general vigente del Distrito Federal, o
+
+IV.- Se trate de bienes que habiendo salido a remate en primera almoneda o licitados públicamente en dos ocasiones, no se hubieran presentado postores.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 114.
+
+La convocatoria de enajenación de bienes se publicará en el Diario Oficial de la Federación, así como en un diario de circulación nacional o en uno de la entidad federativa en donde se encuentren ubicados los bienes objeto de venta.
+
+En caso de que el valor de los bienes no exceda del equivalente a cien veces el salario mínimo general vigente correspondiente al Distrito Federal elevado al año, bastará con la publicación de la convocatoria en el Diario Oficial de la Federación.
+
+Cuando el valor de los bienes no sea superior a treinta veces el referido salario elevado al año, no se requerirá de publicación alguna, para lo cual sólo se fijará la convocatoria en sitio predeterminado y visible al público en general dentro de las oficinas de la Tesorería o de sus auxiliares, sin perjuicio de considerarse algunos otros lugares públicos.
+
+En adición a las publicaciones mencionadas, la Tesorería o sus auxiliares podrán enviar las convocatorias correspondientes por otros medios, incluyendo electrónicos o documentales, a las personas que estime como posibles interesados.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 115.
+
+Las convocatorias a las que alude el artículo anterior deberán contener cuando menos:
+
+I.- La indicación del convocante, ya sea la Tesorería o, en su caso, la especificación del auxiliar del que se trate;
+
+II.- La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases o demás requisitos para participar en el procedimiento de venta y, en su caso, su costo y forma de pago;
+
+III.- La descripción general del bien o bienes objeto de la venta;
+
+IV.- Las condiciones de pago requeridas;
+
+V.- Los criterios generales conforme a los cuales se adjudicará el bien;
+
+VI.- La información general sobre la garantía de seriedad de las ofertas de compra;
+
+VII.- Plazo, lugar, fecha y hora en la que podrá realizarse el registro de los interesados en el caso de licitación pública o subasta;
+
+VIII.- La fecha límite para la presentación de las ofertas, y
+
+IX.- La fecha, hora y lugar, o en su caso plazo para la celebración del acto de fallo.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 116.
+
+La Tesorería o sus auxiliares deberán proporcionar a todos los interesados igual acceso a la información relacionada con la enajenación del bien del que se trate.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 117.
+
+Estarán impedidas para participar en los procedimientos de enajenación regulados por esta Ley, las personas que se encuentren en los supuestos siguientes:
+
+I.- Las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
+
+II.- Las que no hubieren cumplido sus obligaciones contractuales respecto de las materias de esta Ley, por causas imputables a ellas;
+
+III.- Aquéllas que hubieren proporcionado información que resulte falsa o que hayan actuado con dolo o mala fe, en algún proceso realizado por la Administración Pública Federal para la adjudicación de un bien;
+
+IV.- Aquéllas que hubieren participado en procedimientos similares con el Gobierno Federal, se encuentren en situación de atraso en el pago de los bienes por causas imputables a ellos mismos;
+
+V.- Aquéllas a las que se les declare en estado de quiebra o en concurso de acreedores;
+
+VI.- Los terceros a los que se les encomiende la enajenación de los bienes, y
+
+VII.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de ley.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 118.
+
+Cualquier acto que se realice en contra de lo dispuesto en este Título será nulo de pleno derecho.
+
+Los servidores públicos que participen en la realización de los mismos serán responsables por la inobservancia de las disposiciones establecidas en el presente Título en términos de la Ley Federal de Responsabilidades de los Servidores Públicos sin perjuicio de la responsabilidad penal que corresponda conforme a las leyes.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 119.
+
+El bien se adjudicará a la persona que ofrezca las mejores condiciones de precio de compra, tomando en cuenta los términos económicos o de oportunidad, siempre que reúna los requisitos solicitados en el procedimiento de enajenación.
+
+La Tesorería o sus auxiliares emitirán el fallo en el que hará constar el análisis de las ofertas de compra admitidas y se hará mención de las desechadas.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 120.
+
+En las ventas de la Tesorería o de sus auxiliares, deberá pactarse preferentemente el pago en una sola exhibición, salvo causa justificada y, en este caso, se establecerán los correspondientes intereses en condiciones de mercado.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 121.
+
+La Tesorería o sus auxiliares podrán establecer penas convencionales a cargo del adjudicatario por atraso en sus obligaciones de pago.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 122.
+
+La Tesorería o sus auxiliares se abstendrán de formalizar alguna enajenación, cuando de la información proporcionada por autoridad competente se tengan elementos para presumir que los recursos con los que se pagará el bien correspondiente, no tienen un origen lícito.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 123.
+
+La Tesorería o sus auxiliares procederán a declarar desierta una licitación pública o subasta o, en su caso, una o varias partidas de bienes de las mismas, según corresponda, cuando las posturas presentadas no reúnan los requisitos señalados por la convocante o, en su caso, los precios ofrecidos no fueren aceptables.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 124.
+
+El pago deberá realizarse en el plazo de cinco días hábiles contados a
+
+partir del día del fallo.
+
+La entrega y recepción física de los bienes muebles deberá realizarse dentro de los cinco días hábiles posteriores a la fecha en que se cubra la totalidad de su importe.
+
+Se dará posesión de los bienes inmuebles en la fecha en que sea cubierta la totalidad del pago de los mismos.
+
+La escrituración correspondiente no podrá exceder de un plazo superior a cuarenta y cinco días hábiles contados a partir del día siguiente de la fecha de adjudicación.
+
+En caso de que la entrega recepción de los bienes no se efectúe por causas imputables al comprador, éste asumirá cualquier tipo de riesgo inherente a los mismos, salvo que obedezca a negligencia o culpa del personal de la Tesorería o de sus auxiliares.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 125.
+
+Los bienes objeto de enajenación deberán pasar a la propiedad del adquirente libres de todo gravamen.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 126.
+
+El producto que se obtenga de la enajenación de los bienes conforme a lo dispuesto en este Título, ingresará a la Tesorería de la Federación.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE MAYO DE 1998)</small>
+
+### CAPITULO II. De la Licitación Pública
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 127.
+
+La convocatoria establecerá, en su caso, el costo y la forma de pago de las bases, mismo que será fijado en atención a la recuperación de las erogaciones por publicación de la convocatoria y de los documentos que al efecto se entreguen. Los interesados podrán revisar las bases previo al pago de las mismas.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 128.
+
+El plazo para la presentación y apertura de las ofertas de compra no podrá ser inferior a diez días hábiles contados a partir de la fecha de publicación de la convocatoria de la licitación.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 129.
+
+Las bases estarán a disposición de los interesados a partir de la fecha de publicación de la convocatoria hasta cinco días naturales previos al acto de presentación o apertura de ofertas de compra y contendrán como mínimo lo siguiente:
+
+I.- La referencia exacta de la convocatoria a la cual corresponden las mismas;
+
+II.- Descripción detallada del bien objeto de la venta y si se trata de inmuebles, la mención de sus linderos, colindancias y ubicación de los mismos;
+
+III.- La fecha, lugar y hora para mostrar fotografías, catálogos, planos, o para realizar visita al lugar donde se encuentren los bienes, la cual se realizará mediante solicitud por escrito;
+
+IV.- Los documentos por lo cuales el interesado acreditará su personalidad jurídica;
+
+V.- El lugar, fecha y hora de celebración de la junta de aclaraciones, misma que deberá realizarse por lo menos con cinco días hábiles previos a la fecha de presentación o apertura de ofertas de compra. Además, la indicación de que será optativa la asistencia a las reuniones que, en su caso, se realicen;
+
+VI.- Instrucciones para elaborar y entregar o presentar ofertas de compra, haciendo mención de que dichas ofertas deberán ser en firme;
+
+VII.- La fecha, hora y lugar para la presentación, entrega y apertura de ofertas de compra;
+
+VIII.- El plazo y monto para la entrega de la garantía de seriedad de las ofertas de compra, así como la modalidad de la misma;
+
+IX.- Los criterios claros y detallados para la adjudicación del bien;
+
+X.- Las condiciones de pago;
+
+XI.- Las penas convencionales por incumplimiento de obligaciones derivadas de la adjudicación, así como por atraso en el pago del bien;
+
+XII.- Forma y términos para la formalización de la operación y entrega física del bien. En el caso de inmuebles, los gastos, incluyendo los de escrituración e impuestos que se causen serán por cuenta y responsabilidad absoluta del adquirente;
+
+XIII.- El señalamiento de las causas de descalificación de la licitación;
+
+XIV.- Las causas por las que se podrá declarar desierta la licitación, y
+
+XV.- Cualquier otra que de acuerdo a la naturaleza del bien y su condición de venta señale la Tesorería o sus auxiliares.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 130.
+
+Por razones justificadas y siempre que no se tenga por objeto limitar el número de licitantes o favorecerlos, la Tesorería y sus auxiliares podrán modificar las bases de la licitación hasta cinco días naturales antes de la fecha de presentación de las ofertas y su publicidad deberá realizarse en los mismos términos y circunstancias que en la convocatoria, salvo que se den a conocer en la junta de aclaraciones o deriven de la misma, para lo cual deberá entregarse a todos los licitantes una copia del acta en la que se dé cuenta de las modificaciones.
+
+Las modificaciones a que se refiere el párrafo anterior, no podrán consistir en la sustitución o variación sustancial de los bienes, o en la adición de otros distintos.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 131.
+
+Los interesados que cumplan con los requisitos señalados en la convocatoria y en las bases tendrán derecho a entregar o presentar sus ofertas de compra.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 132.
+
+Quienes participen en las licitaciones, deberán garantizar en efectivo o en valores gubernamentales según se disponga en la convocatoria o en las bases, en favor de la Tesorería de la Federación, la seriedad de las ofertas de compra y el cumplimiento de las obligaciones que se deriven de los contratos de compraventa.
+
+La Tesorería o sus auxiliares convocantes retendrán el importe de las garantías que se hubieren presentado hasta que se emita el fallo. A partir de esa fecha procederán a la devolución del importe correspondiente a cada uno de los interesados, salvo la de aquél a quien se hubiere adjudicado el bien, cuyo importe continuará como garantía del cumplimiento de su obligación y podrá aplicarse como parte del precio de venta.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 133.
+
+El acto de presentación y apertura de ofertas de compra, en el que podrán participar los licitantes que hayan cubierto el costo de las bases y sus requisitos, se llevará a cabo conforme a lo siguiente:
+
+I.- Los licitantes entregarán sus ofertas de compra en sobre cerrado en forma inviolable, y se procederá a dar lectura en voz alta de las ofertas presentadas por cada uno de los interesados, informándose de aquéllas que en su caso, se desechen por no cumplir los requisitos establecidos y las causas que motiven tal determinación;
+
+II.- La convocante procederá al análisis de las ofertas presentadas, con pleno apego a lo dispuesto por el artículo 119 y con base en criterios de imparcialidad y honradez;
+
+III.- Los participantes rubricarán todas las ofertas presentadas. En caso de que la apertura de todas las ofertas de compra no se realice en la misma fecha, los sobres que las contengan serán firmados por los licitantes y los servidores públicos de la Tesorería o de sus auxiliares y quedarán en custodia de la convocante, y en todo caso deberá continuar la apertura de los sobres el día hábil siguiente;
+
+IV.- En caso de que el fallo de la licitación no se realice en la misma fecha del acto de presentación y apertura de las ofertas de compra, la Tesorería o sus auxiliares, señalarán, según sea el caso, la fecha, lugar y hora en que se celebrará la junta pública en la que se dará a conocer el fallo de la licitación, el que deberá quedar comprendido dentro de los 10 días hábiles siguientes, contados a partir de la fecha de conclusión del acto de apertura de ofertas de compra;
+
+V.- En junta pública se dará a conocer el fallo de la licitación, a la que libremente podrán asistir los licitantes que hubieran participado en las etapas de presentación y apertura de ofertas de compra. En sustitución de esta junta, la Tesorería o sus auxiliares podrán optar por comunicar por escrito el fallo de la licitación a cada uno de los licitantes;
+
+VI.- En el mismo acto de fallo o adjunta a la comunicación referida en la fracción anterior, la Tesorería o sus auxiliares, proporcionarán por escrito a los licitantes, la información acerca de las razones por las cuales su propuesta, en su caso, no fue elegida, y
+
+VII.- La Tesorería o sus auxiliares levantarán acta, que deberá ser firmada por los licitantes, en la que se dejará constancia de la participación de los licitantes, del monto de sus ofertas de compra, de las ofertas aceptadas o desechadas, de las razones por las que en su caso fueron desechadas, del precio base de venta, del nombre del ganador por cada bien, del importe obtenido por cada venta, así como de aquellos aspectos que en su caso sean relevantes y dignos de consignar en dicha acta.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 134.
+
+En caso de empate en el procedimiento de licitación pública se procederá a celebrar en ese acto una subasta a viva voz, misma que buscará estimular la competencia entre los empatados, considerándose como precio base de venta el del empate. En este supuesto el bien se adjudicará al licitante que ofrezca el mayor precio.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 135.
+
+El adjudicatario perderá en favor de la Tesorería o sus auxiliares, la garantía que hubiere otorgado si, por causas imputables a él, la operación no se formaliza dentro del plazo a que se refiere el artículo 124, quedando la Tesorería o sus auxiliares en posibilidad de adjudicar el contrato al participante que haya presentado la segunda proposición solvente más alta que no hubiere sido descalificada, y así sucesivamente en caso de que este último no acepte la adjudicación, siempre que su postura sea mayor o igual al precio base de venta fijado.
+
+En el supuesto de que la falta de formalidad de la adjudicación sea imputable a la Tesorería o a sus auxiliares, el licitante ganador podrá solicitar que le sean reembolsados los gastos no recuperables en que hubiera incurrido, derivados del proceso de licitación pública, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la licitación de que se trate.
+
+El atraso de la Tesorería o de sus auxiliares en la formalización de los contratos provenientes de la adjudicación, prorrogará en igual plazo la fecha de cumplimiento de las obligaciones asumidas por ambas partes.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE MAYO DE 1998)</small>
+
+### CAPITULO III. De la Subasta
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 136.
+
+La junta de postores en la que se adjudicarán los bienes subastados a los mejores ofertantes, se desarrollará en los siguientes términos:
+
+I.- Un servidor público de la Tesorería o sus auxiliares, dependiendo del bien de que se trate, mostrará físicamente el bien objeto de subasta siempre que la naturaleza del mismo lo permita;
+
+II.- Los interesados podrán mejorar sus ofertas durante la celebración de la subasta, para lo cual deberán manifestarlo expresamente, a través de los medios que la convocante haya autorizado, en presencia del resto de los participantes y del encargado de la subasta, quien tendrá la obligación de asentar tales situaciones al igual que todo lo que ocurra en la subasta, en el acta que al efecto lleve a cabo;
+
+III.- Los subastantes contarán con intervalos de tiempo que se darán a conocer en forma previa al inicio del acto, los que servirán para ir mejorando la última postura manifestada, y
+
+IV.- El bien se adjudicará a la oferta que ofrezca las mejores condiciones de precio y oportunidad para la Tesorería y sus auxiliares.
+
+En las bases de la subasta se deberá prever en el apartado de instrucciones para presentar ofertas de compra, la modalidad que se empleará para la misma, así como a las reglas a las que estará sujeta.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+###### ARTICULO 137.
+
+Sin perjuicio de la aplicación de las disposiciones previstas en el Capítulo Primero del Presente Título, le serán aplicables a la subasta, en lo que no contravengan a su regulación específica, las disposiciones que correspondan a la licitación pública.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -906,3 +1276,13 @@ SEPTIMO.- Se abroga la Ley sobre el Servicio de Vigilancia de Fondos y Valores d
 OCTAVO.- Las disposiciones del Reglamento de la Ley sobre el Servicio de Vigilancia de Fondos y Valores de la Federación, continuarán vigentes en tanto no se reforme, en lo conducente, el Reglamento de la Ley del Servicio de Tesorería de la Federación.
 
 NOVENO.- Lo dispuesto por los artículos 25, 26, 27 y 28 de la Ley del Servicio de Tesorería de la Federación, se aplicará a las solicitudes de dación de bienes o servicios en pago que se presenten a partir de la fecha de inicio de la vigencia de este Decreto.
+
+D.O.F. 29 DE MAYO DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- Los procedimientos de enajenación de los bienes puestos a disposición de la Tesorería de la Federación o de sus auxiliares que se hayan iniciado con antelación a la entrada en vigor del presente decreto, continuarán su tramitación conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+CUARTO.- La realización de las operaciones y prestación de los servicios de tesorería a través de los equipos y sistemas automatizados, a que se refiere el artículo 14-Bis del presente ordenamiento estará sujeto a la disponibilidad técnica y operativa de las Dependencias y Entidades de la Administración Pública Federal, para la implementación y manejo de los sistemas.
