@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1996-11-30"
+last_updated: "1997-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 1996.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 1997.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -59,11 +59,11 @@ La porción del territorio nacional que corresponda al Estado, es la que ha sido
 
 La base de la división territorial y de la organización política y administrativa del Estado, es el Municipio Libre.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 4.
 
-El territorio del Estado comprende los Municipios de Calkiní, Campeche, Carmen, Champotón, Hecelchakán, Hopelchén, Palizada, Tenabo y Escárcega, más el litoral que corresponde a las salinas denominadas del Real, la Herradura y Las Desconocidas, islas adyacentes sobre las que ejerce jurisdicción y cuanto de hecho y por derecho le pertenece a la Entidad, sin perjuicio de las divisiones que, para su régimen judicial, fiscal y electoral determinen las leyes.
+El territorio del Estado comprende los Municipios que a continuación se expresan: Calakmul, Calkiní, Campeche, Carmen, Champotón, Escárcega, Hecelchakán, Hopelchén, Palizada y Tenabo, más el litoral que corresponde a las salinas denominadas Del Real, La Herradura y Las Desconocidas, Islas adyacentes sobre las que ejerce jurisdicción y cuanto de hecho y por derecho le pertenece a la Entidad, sin perjuicio de las divisiones que para su régimen judicial, fiscal y electoral determinen las leyes secundarias respectivas.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -775,7 +775,7 @@ XXXIII.- Nombrar, a propuesta del Gobernador, una Junta Municipal compuesta de t
 
 XXXIV.- Por acuerdo de las dos terceras partes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna causa grave prevista por la Ley, siempre y cuando sus miembros hayan tenido oportunidad para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
-> <small>(ADICIONADA, P.P. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 XXXV.- Las demás que le asignen esta Constitución y la General de la República.
 
@@ -1239,21 +1239,21 @@ Los magistrados del Tribunal Superior de Justicia, los jueces de primera instanc
 
 Las personas que hayan ocupado el cargo de magistrado del Tribunal Superior de Justicia, de jueces de primera instancia, electorales o menores, no podrán dentro de los dos años siguientes a la fecha de su retiro actuar como patronos, abogados o representantes en cualquier proceso, del que hubieren conocido previamente, ante los órganos del Poder Judicial del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 84.
 
 Los Jueces de Primera Instancia, deberán cubrir los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 II.- Poseer título profesional de abogado expedido por autoridad o corporación legalmente facultada para ello, y
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 III.- Gozar de buena reputación.
 
@@ -1773,7 +1773,7 @@ Unico. La presente reforma regirá en todo el territorio del Estado a partir del
 
 P.O. 29 DE NOVIEMBRE DE 1930.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 21 DE MARZO DE 1931.
 
@@ -2046,3 +2046,7 @@ Tercero.- Por esta única ocasión, mientras se legisla y reglamenta todo lo con
 Cuarto.- También por esta única ocasión, los Consejeros Electorales, los Magistrados de la Sala Administrativa del Tribunal Superior de Justicia y los Jueces Electorales serán electos por el voto de las tres cuartas partes de los diputados presentes en la correspondiente sesión del Congreso del Estado.
 
 Quinto.- Las facultades regulares que, en materia de geografía electoral en el aspecto de redistritación, al Instituto Electoral del Estado le confiere la fracción III del artículo 24 que se reforma, cobrarán vigencia a partir del 1º de enero de 1998.
+
+P.O. 21 DE FEBRERO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
