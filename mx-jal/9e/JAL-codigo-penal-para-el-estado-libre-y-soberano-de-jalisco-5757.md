@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2003-06-12"
+last_updated: "2003-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -343,8 +343,6 @@ La multa que se impusiere como sanción es independiente de la reparación del d
 
 Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella, la autoridad judicial podrá sustituirla, total o parcialmente por prestación de jornadas de trabajo en favor de la comunidad; cada jornada de trabajo saldará un día multa.
 
-> <small>N. DE E. LOS ANTERIORES PÁRRAFOS TERCERO, CUARTO Y QUINTO PASARON A FORMAR PARTE DEL ARTÍCULO 39 TER.</small>
-
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 Este tipo de sanción se aplicará solamente cuando el tipo penal lo señale expresamente y además, en aquellos en que la multa sea consecuencia de conmutación.
@@ -522,6 +520,14 @@ En el caso en que el sujeto activo del delito sea delincuente primario y tenga, 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 Cuando por haber sufrido el sujeto activo consecuencias graves en su persona o su precario estado de salud, fuere notoriamente innecesaria e irracional la imposición de una pena privativa de libertad, el juez de oficio o a petición de parte motivando su resolución, podrá prescindir de ella o sustituirla por una medida de seguridad, para lo cual se apoyará siempre en dictámenes de peritos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Cuando se cometa un delito en contra de algún miembro de la familia, el Juez podrá imponer el tratamiento previsto por el delito de Violencia Intrafamiliar, independientemente de las penas relativas al delito.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+El tratamiento previsto en el párrafo anterior, también podrá aplicarse como medida precautoria por el Ministerio Público.
 
 ###### Art. 42.
 
@@ -1317,7 +1323,7 @@ La misma sanción sufrirá el que, a través de la coacción física o moral, ob
 
 ### CAPITULO II. Ejercicio indebido y abandono del servicio público
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 1989)</small>
+((REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 1989)
 
 ###### Art. 131.
 
@@ -1717,7 +1723,7 @@ Si excede del monto a que se refiere el párrafo anterior, se impondrá al respo
 
 ### CAPITULO I. De la Violencia Intrafamiliar
 
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 151.
 
@@ -1860,6 +1866,18 @@ Si el monto del beneficio obtenido excede del señalado en el párrafo anterior,
 ### CAPITULO VIII. Abandono de familiares
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2003)</small>
+
+###### Artículo 176 Ter.
+
+Comete el delito de violencia intrafamiliar quien reiteradamente infiera maltrato en contra de uno a (sic) varios miembros de su familia, tales como cónyuge, pariente consanguíneo hasta cuarto grado, pariente afín hasta cuarto grado, concubina o concubinario, adoptante o adoptado.
+
+El maltrato a que se refiere el párrafo anterior es la sucesión de actos u omisiones que causen un deterioro a la integridad física, o psicológica, o que afecte la libertad sexual de alguna de las víctimas, independientemente de que se cometa o no otro delito.
+
+Al responsable de este delito se le impondrán de tres meses a tres años de prisión, y a juicio del juez, además, las penas conjuntas o separadas de, la pérdida de la custodia que tenga respecto de la víctima y la prohibición de ir a lugar determinado o de residir en él.
+
+Cuando no se trate de reincidentes de violencia intrafamiliar ni sujetos que pudieren poner en peligro la integridad de los miembros de la familia, la pena de prisión podrá ser conmutada a juicio del juzgador por tratamiento psicológico, el que en ningún caso excederá del tiempo impuesto en la pena de prisión.
+
+Se equipara a violencia intrafamiliar el maltrato reiterado que se infiera en contra del tutor, curador, pupilo, o en contra de quien habite en el domicilio del agresor o en contra de la persona a quien el agresor le deba dar cuidado o protección. Al responsable de este delito se le impondrá la pena señalada en el párrafo tercero de este artículo.
 
 ## TITULO DECIMO SEGUNDO. DELITOS CONTRA EL ORDEN DE LA FAMILIA
 
@@ -3981,9 +3999,7 @@ Se impondrá pena de uno a tres años de prisión y multa de doscientos a dos mi
 
 ###### Art. 293.
 
-Se impondrá pena de un año a nueve años de prisión y multa por el equivalente de cien a tres mil días de
-
-salario mínimo general vigente, al que ilícitamente realice actividades de exploración, extracción y procesamiento de minerales y sustancias geológicas que constituyan depósitos de naturaleza cuyo control no esté reservado a la Federación, siempre y cuando se genere un daño grave o irreversible en el ecosistema.
+Se impondrá pena de un año a nueve años de prisión y multa por el equivalente de cien a tres mil días de salario mínimo general vigente, al que ilícitamente realice actividades de exploración, extracción y procesamiento de minerales y sustancias geológicas que constituyan depósitos de naturaleza cuyo control no esté reservado a la Federación, siempre y cuando se genere un daño grave o irreversible en el ecosistema.
 
 Para efectos de este Título, un daño ambiental se considerará irreversible cuando con las tecnologías y conocimientos disponibles, no fuere posible recuperar el ambiente para volverlo al estado anterior al hecho punible.
 
@@ -4242,3 +4258,7 @@ P.O. 12 DE JUNIO DE 2003.
 PRIMERO.- Este decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- Las disposiciones relativas a la responsabilidad patrimonial del Estado, entrarán en vigor el 1º de Enero del 2004, previa vigencia de la Ley de Responsabilidad Patrimonial del Estado de Jalisco.
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
