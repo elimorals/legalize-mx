@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "2000-03-24"
+last_updated: "2000-03-29"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MARZO DE 2000.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -119,7 +119,9 @@ I.- PRIMER CIRCUITO:
 
 1.- Cuarenta y dos tribunales colegiados especializados: seis en materia penal, once en materia administrativa, trece en materia civil y doce en materia de trabajo; y, seis tribunales unitarios especializados: cuatro en materia penal y dos en materias civil y administrativa, todos con residencia en el Distrito Federal.
 
-2.- Treinta y cuatro juzgados de distrito especializados: doce en materia penal, diez en materia administrativa, diez en materia civil y dos en materia de trabajo, todos con sede en el Distrito Federal.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL NUMERO 23/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MARZO DE 2000)</small>
+
+2.- Treinta y seis juzgados de distrito especializados: doce en materia penal, diez en materia administrativa, doce en materia civil y dos en materia de trabajo, todos con sede en el Distrito Federal.
 
 II.- SEGUNDO CIRCUITO:
 
@@ -161,9 +163,9 @@ V.- QUINTO CIRCUITO:
 
 VI.- SEXTO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO UNDECIMO DEL ACUERDO GENERAL NUMERO 8/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE MARZO DE 1999)</small>
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 20/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MARZO DE 2000)</small>
 
-1.- Seis tribunales colegiados especializados: uno en materia penal, uno en materia administrativa, tres en materia civil y uno en materia de trabajo; y, un tribunal unitario, todos con residencia en la ciudad de Puebla.
+1.- Siete tribunales colegiados especializados: dos en materia penal, uno en materia administrativa, tres en materia civil y uno en materia de trabajo; y, un tribunal unitario, con residencia en la ciudad de Puebla.
 
 2.- Seis juzgados de distrito con sede en la ciudad de Puebla.
 
@@ -383,7 +385,7 @@ XI.- DECIMO PRIMER CIRCUITO: Estado de Michoacán.
 
 > <small>(REFORMADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 22/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 1999)</small>
 
-XII.- DECIMO SEGUNDO CIRCUITO: Estados de Baja California Sur y Sinaloa
+XII.- DECIMO SEGUNDO CIRCUITO: Estados de Baja California Sur y Sinaloa.
 
 XIII.- DECIMO TERCER CIRCUITO: Estado de Oaxaca.
 
@@ -449,7 +451,9 @@ CUARTO.- La jurisdicción territorial de los juzgados de distrito es la siguient
 
 I.- PRIMER CIRCUITO:
 
-Los treinta y cuatro juzgados de distrito con residencia en el Distrito Federal ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquél.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL NUMERO 23/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MARZO DE 2000)</small>
+
+Los treinta y seis juzgados de distrito con residencia en el Distrito Federal ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquél.
 
 II.- SEGUNDO CIRCUITO:
 
@@ -952,3 +956,27 @@ ACUERDO GENERAL NUMERO 15/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 PRIMERO.- Este Acuerdo entrará en vigor el día veintinueve de marzo de dos mil.
 
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 24 DE MARZO DE 2000.
+
+ACUERDO GENERAL NUMERO 16/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día veintinueve de marzo de dos mil.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 29 DE MARZO DE 2000.
+
+ACUERDO GENERAL NUMERO 20/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día diecisiete de abril de dos mil.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 29 DE MARZO DE 2000.
+
+ACUERDO GENERAL NUMERO 23/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día veintinueve de marzo de dos mil.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
