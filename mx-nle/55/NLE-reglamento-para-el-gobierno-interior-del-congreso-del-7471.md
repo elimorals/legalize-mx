@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "1997-12-22"
+last_updated: "1998-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 1998.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -245,11 +245,15 @@ Las faltas del Primer Secretario serán cubiertas por el Segundo, y a falta de e
 
 Al presentarse un titular preferente en el orden cesará en sus funciones el sustituto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 1998)</small>
+
 ###### Artículo 30.
 
-Son obligaciones de los Secretarios por su orden:
+Son obligaciones de los secretarios por su orden:
 
-I.- Formular el registro de asistencia y pasar lista de los integrantes del Congreso, en cada sesión;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 1998)</small>
+
+I.- Formular el registro de asistencia y pasar lista de los integrantes del Congreso, en cada sesión. El listado correspondiente se ordenará alfabéticamente de acuerdo con los apellidos de las y los integrantes del Poder Legislativo;
 
 II.- Formular las actas de cada sesión y firmarlas con el Presidente una vez que hayan sido aprobadas, pasándolas a la Oficialía Mayor para su archivo;
 
@@ -715,7 +719,7 @@ V.- Elaborar los criterios para otorgar el apoyo a los Grupos Legislativos, a la
 
 VI.- Rendir un informe anual al Pleno de las actividades desarrolladas;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 VII.- Para la elaboración de los criterios relacionados con el apoyo a los Grupos Legislativos, el Comité recabará el punto de vista de la Gran Comisión; y
 
@@ -1526,3 +1530,7 @@ P.O. 24 DE OCTUBRE DE 1997.
 P.O. 22 DE DICIEMBRE DE 1997.
 
 ÚNICO:- El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE ENERO DE 1998.
+
+ÚNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
