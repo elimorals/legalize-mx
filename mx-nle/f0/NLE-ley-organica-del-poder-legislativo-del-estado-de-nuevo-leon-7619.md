@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "1998-09-16"
+last_updated: "1999-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -279,11 +279,13 @@ En esta Sesión se harán los honores a nuestra Enseña Patria y se entonará el
 
 ### CAPITULO I. DE LOS GRUPOS LEGISLATIVOS
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
+
 ###### Artículo 40.
 
-Los Diputados que pertenezcan a un mismo Partido Político, podrán constituirse en Grupos Legislativos para actuar en forma orgánica y coordinada en todos los trabajos del Congreso.
+Los Diputados que pertenezcan a un mismo Partido Político se constituirán en un Grupo Legislativo para actuar en forma orgánica y coordinada en todos los trabajos del Congreso.
 
-En ningún caso un mismo Diputado podrá pertenecer a dos Grupos Legislativos.
+Los Diputados no podrán pertenecer a dos o mas Grupos Legislativos, los que pertenezcan a un mismo partido, en ningún caso pueden constituir uno o más Grupos Legislativos separados.
 
 ###### Artículo 41.
 
@@ -311,15 +313,17 @@ Los Grupos Legislativos en la segunda sesión del Primer Período Ordinario de S
 
 Los Coordinadores de los Grupos Legislativos realizarán tareas de coordinación y concertación con los Organos de Dirección y de Trabajo de la Legislatura.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE ABRIL DE 1999)</small>
+
 ###### Artículo 46.
 
-En cualquier momento los integrantes de la Legislatura podrán formar nuevos Grupos Legislativos bajo las condiciones siguientes:
+Los integrantes de la Legislatura podrán formar nuevos Grupos Legislativos bajo las siguientes condiciones:
 
 I.- Cuando un Partido Político cambie de denominación;
 
 II.- Cuando se disuelva un Grupo Legislativo; y
 
-III.- Cuando dos o más diputados se separen de su grupo.
+III.- (DEROGADA, P.O. 9 DE ABRIL DE 1999)
 
 ###### Artículo 47.
 
@@ -485,35 +489,39 @@ I.- Las Comisiones; y
 
 II.- Los Comités.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
+
 ###### Artículo 66.
 
-El Pleno del Congreso para la resolución de los asuntos que le fueren turnados funcionará con las Comisiones siguientes:
+El Pleno del Congreso para la resolución de los asuntos que le fueren turnados funcionará con las siguientes Comisiones:
 
-I.- Permanentes;
+I.- Comisiones Permanentes:
 
-II.- Temporales; y
+a) Comisiones de Dictamen Legislativo; y
 
-III.- Especiales.
+b) Comisión de Vigilancia de la Contaduría Mayor de Hacienda.
 
-Son Comisiones Permanentes: Las de Dictamen Legislativo y la de Vigilancia de la Contaduría Mayor de Hacienda.
+II.- Comisiones Temporales:
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1997)</small>
+a) Comisiones Jurisdiccionales;
 
-Son Comisiones Temporales: Las Jurisdiccionales.
+III.- Comisiones Especiales:
 
-Son Comisiones Especiales: Las que designe el Pleno para la resolución de un asunto específico.
+a) Las que designe el Pleno del Congreso para la resolución de un asunto específico.
+
+Ningún Diputado presidirá, a la vez, dos o más de las Comisiones señaladas en la fracción I del presente artículo, ni tampoco una de estas Comisiones y uno de los Comités establecidos en el Artículo 77 de esta Ley.
+
+Cada Diputado formará parte de hasta cuatro Comisiones de Dictamen Legislativo.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
 
 ###### Artículo 67.
 
-Las Comisiones para Dictamen legislativo se integrarán pluralmente por nueve Diputados, que serán electos o ratificados en la quinta sesión de cada Primer Período Ordinario de año constitucional, durante los tres años de la Legislatura y se integrarán con un Presidente, un Vice-Presidente, un Secretario y seis Vocales.
+Las Comisiones de Dictamen Legislativo se integrarán pluralmente por once Diputados: un Presidente, un Vice-Presidente, un Secretario y ocho Vocales, electos o ratificados por el Pleno del Congreso en la quinta sesión del Primer Período Ordinario de Sesiones de cada Año de Ejercicio Constitucional.
 
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 1997)</small>
+En el caso de la Comisión de Derechos de las Mujeres, el cargo de Presidente, invariablemente, será anual y se asignará de manera rotativa entre los Grupos Legislativos constituidos en el Congreso.
 
-La Presidencia de la Comisión de Derechos de las Mujeres será rotativa entre los diversos Grupos Legislativos constituidos, por lo que este cargo invariablemente se renovará en la quinta sesión de cada Primer Período Ordinario de ejercicio constitucional.
-
-Todas las Comisiones de dictamen legislativo se integrarán en proporción al número de diputados de cada Grupo Legislativo.
-
-Un mismo Diputado no podrá ser a la vez, Presidente de dos o más comisiones de dictamen legislativo.
+Las Comisiones de Dictamen Legislativo se integrarán en proporción al número de diputados de cada Grupo Legislativo.
 
 ###### Artículo 68.
 
@@ -525,65 +533,37 @@ La Comisión de Vigilancia de la Contaduría Mayor de Hacienda se integrará por
 
 Las Comisiones Jurisdiccionales funcionarán en los términos previstos en la Constitución y las Leyes cuando así lo acuerde la Asamblea; conocerán específicamente de los hechos que las hayan motivado su integración.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
 
 ###### Artículo 70.
 
 Son Comisiones Permanentes de Dictamen Legislativo las siguientes:
 
-I.- Gobernación
+I.- Gobernación y Organización Interna de los Poderes;
 
-II.- Legislación y Puntos Constitucionales
+II.- Legislación y Puntos Constitucionales;
 
-III.- Justicia
+III.- Justicia y Seguridad Pública;
 
-IV.- Organización Interna de los Poderes
+IV.- Desarrollo Humano;
 
-V.- Seguridad Pública y Protección Civil
+V.- Derechos de las Mujeres;
 
-VI.- Derechos Humanos
+VI.- Educación, Cultura y Deporte;
 
-VII.- Participación Ciudadana
+VII.- Ecología;
 
-VIII.- Familia
+VIII.- Desarrollo Urbano y Transporte;
 
-IX.- Derechos de las Mujeres
+IX.- Fomento Económico
 
-X.- Educación, Cultura y Deporte
+X.- Hacienda del Estado;
 
-XI.- Salud Pública y Asistencia Social
+XI.- Primera de Hacienda y Desarrollo Municipal;
 
-XII.- Asentamientos Humanos, Desarrollo Urbano y Obras Públicas
+XII.- Segunda de Hacienda y desarrollo Municipal; y
 
-XIII.- Ecología
-
-XIV.- Comunicaciones y Transporte
-
-XV.- Desarrollo Económico
-
-XVI.- Fomento Agrícola, Forestal y Ganadero
-
-XVII.- Trabajo y Seguridad Social
-
-XVIII.- Hacienda del Estado
-
-XIX.- Primera de Hacienda Municipal
-
-XX.- Segunda de Hacienda Municipal
-
-XXI.- Tercera de Hacienda Municipal
-
-XXII.- Cuarta de Hacienda Municipal
-
-XXIII.- Quinta de Hacienda Municipal
-
-XXIV.- Sexta de Hacienda Municipal
-
-XXV.- Séptima de Hacienda Municipal
-
-XXVI.- Información y Peticiones
-
-El Pleno mediante Iniciativa de Reforma a esta Ley podrá ampliar o suprimir las Comisiones de Dictamen Legislativo.
+XIII.- Tercera de Hacienda y Desarrollo Municipal.
 
 ###### Artículo 71.
 
@@ -774,3 +754,17 @@ P.O. 16 DE SEPTIEMBRE DE 1998.
 ###### ARTÍCULO ÚNICO
 
 El Presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE ABRIL DE 1999.
+
+Primero.- El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Las veintiséis Comisiones de Dictamen Legislativo integradas actualmente, en virtud de lo dispuesto en los artículos 70 de la Ley Orgánica del Poder Legislativo del Estado y 39 del Reglamento para el Gobierno Interior del Congreso del Estado vigentes en la presente fecha, continuarán funcionando transitoriamente hasta la aprobación por parte del Pleno del Congreso de los integrantes de las trece Comisiones de Dictamen Legislativo establecidas mediante el presente Decreto.
+
+Tercero.- En la quinta sesión del Primer Período Ordinario de Sesiones del Tercer Año de Ejercicio Constitucional se elegirá o se ratificará a los integrantes de las Comisiones de Dictamen Legislativo, en los términos del artículo 67 de la Ley Orgánica del Poder Legislativo.
+
+Cuarto.- La Ciudadana Diputada que al entrar en vigencia el presente decreto presida la Comisión de Derechos de las Mujeres, continuará con este cargo hasta la quinta sesión del Primer Período Ordinario de Sesiones, del Tercer Año de Ejercicio Constitucional de la LXVIII Legislatura, en que el Pleno del Congreso designe otro Presidente para dicha Comisión.
+
+Quinto.- Los expedientes de los asuntos que obren en las actuales Comisiones de Dictamen Legislativo y cuya resolución por parte del Pleno del Congreso no se dé antes del día en que inicie la vigencia del presente Decreto, serán recibidos por la Oficialía Mayor que los entregará a la brevedad posible al Presidente de la Comisión que corresponda, de acuerdo a las competencias de las Comisiones que se establecen en el presente Decreto. El Oficial Mayor notificará por escrito a los Diputados integrantes de la LXVIII Legislatura sobre la asignación realizada en los términos de este artículo.
+
+Sexto.- Se deroga cualquier disposición contraria a lo establecido en el presente decreto.
