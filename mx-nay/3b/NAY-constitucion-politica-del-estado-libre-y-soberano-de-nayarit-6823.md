@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1926-04-11"
+last_updated: "1929-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 1926.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 1929.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -795,9 +795,13 @@ El Supremo Tribunal de Justicia del Estado, constará de tres Magistrados Propie
 
 Los Magistrados del Supremo Tribunal de Justicia en el Estado, serán electos por el Congreso del mismo, constituido en Colegio Electoral, debiendo concurrir por lo menos a la sesión en que deba hacerse la elección, las dos terceras partes del número total de sus miembros y siendo indispensable que el electo obtenga mayoría absoluta de votos. La elección se hará en escrutinio secreto y la misma Legislatura designará al Presidente del Tribunal.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1929)</small>
+
 ###### Art. 84.
 
-Los Magistrados del Supremo Tribunal de Justicia, serán electos forzosamente dentro de los quince días siguientes al de la instalación del Congreso Constitucional, y durarán en sus funciones cuatro años, pudiendo ser reelectos. Durante el Periodo de su encargo no podrán ser removidos sin previo juicio de responsabilidad, en el que se pronuncie sentencia condenatoria ejecutoriada.
+Los Magistrados del Supremo Tribunal de Justicia, serán electos dentro de los sesenta días siguientes al de la instalación del Congreso Constitucional, y durarán en sus funciones cuatro años, pudiendo ser reelectos.
+
+Durante el período de su encargo no podrán ser removidos sin previo juicio de responsabilidad en el que se pronuncie sentencia condenatoria ejecutoriada.
 
 ###### Art. 85.
 
@@ -1113,7 +1117,7 @@ DIPUTADO POR EL 14º DISTRITO ELECTORAL.
 
 Pablo Retes, Z., Vice-Presidente, Diputado por el Primer Distrito Electoral.- Marcos Esmerio, Diputado por el Segundo Distrito Electoral.- M.L. Urbina, Diputado por el Tercer Distrito Electoral.- Francisco Amézquita, Diputado por el Cuarto Distrito Electoral.- F. R. Pérez, Diputado por el Quinto Distrito Electoral.- Manuel Guzmán, Diputado Suplente por el Sexto Distrito Electoral.- Fidencio Estrada, Diputado por el Séptimo Distrito Electoral.- José María Ledón, Diputado por el Octavo Distrito Electoral.- J. Aguiar Béjar, Diputado Suplente por el Décimo Distrito Electoral.- Francisco N. Arroyo, Diputado por el Décimosegundo Distrito Electoral.- Antonio de P. Monroy, Diputado por el Décimotercero Distrito Electoral.- Mig. C. Madrigal, Diputado por el Décimoquinto Distrito Electoral.- F. R. Corona, Primer Secretario, Diputado por el Noveno Distrito Electoral.- Alfredo Robles, Segundo Secretario, Diputado por el Décimo Primero Distrito Electoral.
 
-Por lo tanto mando se imprima, publique por Bando Solemne, circule y se le dé el más exacto cumplimiento.
+Por lo tanto mando se imprima, publique por Bando Solemne, circule y sé le dé el más exacto cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo en Tepic, Nay., a los cinco días del mes de febrero de mil novecientos diez y ocho.
 
@@ -1166,3 +1170,7 @@ El presente Decreto empezará a surtir sus efectos a partir de la fecha de su pr
 P.O. 11 DE ABRIL DE 1926
 
 El presente Decreto empezará a surtir sus efectos legales a partir de la fecha de su promulgación.
+
+P.O. 12 DE DICIEMBRE DE 1929
+
+El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
