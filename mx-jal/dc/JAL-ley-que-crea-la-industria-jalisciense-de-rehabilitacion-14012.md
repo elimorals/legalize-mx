@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-crea-la-industria-jalisciense-de-rehabilitacion-14012"
 country: "mx"
 rank: "ley"
 publication_date: "1981-05-07"
-last_updated: "1981-05-07"
+last_updated: "2003-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE CREA LA INDUSTRIA JALISCIENSE DE REHABILITACION SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 7 de mayo de 1981.
 
@@ -39,11 +39,15 @@ Número 10614. El Congreso del Estado Decreta:
 
 Ley que crea la Industria Jalisciense de Rehabilitación Social.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 1°.
 
-Se crea como organismo público descentralizado con personalidad jurídica y patrimonio propios la "Industria Jalisciense de Rehabilitación Social", que tendrá a su cargo la creación, control y administración de las Industrias que se constituyan en todos lo (sic) Reclusorios Preventivos y Centros de Readaptación Social del Estado, de adultos, hombres o mujeres, así como la organización del trabajo que en ellas se desempeñe por los internos, al igual que la capacitación para el mismo, el cual tendrá como objetivos principales la superación personal del interno con base al trabajo, como parte de los sistemas de readaptación social, así como lograr la autosuficiencia económica de dichos establecimientos.
+Se crea como organismo público descentralizado con personalidad jurídica y patrimonio propios la "Industria Jalisciense de Rehabilitación Social", que tendrá a su cargo la creación, control y administración de las industrias que se constituyan en todos lo reclusorios preventivos y centros de readaptación social del Estado, de adultos, hombres o mujeres, así como la organización del trabajo que en ellas se desempeñe por los internos y la comercialización de los productos resultantes.
 
-Para el cumplimiento de sus fines, en los términos de esta Ley, tendrá a su cargo la administración de los bienes que integren el patrimonio-afectación que se establece en la misma, comprendiendo todas las industrias, empresas, propiedades y demás ingresos que constituyan la fuente de sus recursos económicos.
+El trabajo penitenciario tendrá como objetivos principales contribuir en los sistemas de readaptación y rehabilitación de los internos a través de la capacitación laboral, así como el mejoramiento de los establecimientos.
+
+Para el cumplimiento de sus fines, en los términos de esta ley, tendrá a su cargo la administración de los bienes que integren el patrimonio-afectación que se establece en la misma, comprendiendo todas las industrias, empresas, propiedades y demás ingresos que constituyan la fuente de sus recursos económicos.
 
 ###### Artículo 2°.
 
@@ -63,17 +67,39 @@ f) Expedir su Reglamento Interior.
 
 g) Capacitar al personal administrativo y de vigilancia, a efecto de lograr el óptimo tratamiento del interno en el desempeño de su trabajo.
 
-h) Determinar y acondicionar los lugares en donde deban laborar los internos, en los términos de lo dispuesto por el Art. 123 de la Constitución General de la República y sus Leyes Reglamentarias, tomando en cuenta las recomendaciones que para el caso hagan los Consejos Técnicos de las Instituciones o el Departamento de Servicios Coordinados de Prevención y Readaptación Social, de conformidad a la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-i) Asignar a los internos el trabajo que considere más conveniente con base en los estudios previamente realizados por el Departamento de Servicios Coordinados de Prevención y Readaptación Social del Estado de Jalisco, de los que se desprenda la vocación, aptitudes, deseos y capacitación laboral del delincuente, así como las posibilidades del reclusorio.
+h) Determinar y acondicionar los lugares en donde deban laborar los internos, en los términos de lo dispuesto por el artículo 123 de la Constitución General de la República y sus leyes reglamentarias, tomando en cuenta las recomendaciones que para el caso hagan los consejos técnicos de las instituciones o la Dirección General de Prevención y Readaptación Social, de conformidad a la Ley de Ejecución de Penas del Estado de Jalisco.
 
-j) Al organizar el trabajo en los reclusorios previo estudio de las características de la economía local, especialmente del mercado a fin de favorecer la correspondencia entre las demandas de éste y la producción penitenciaria, con vistas a la autosuficiencia económica del establecimiento.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+i) Asignar a los internos el trabajo que considere más conveniente con base en los estudios previamente realizados por la Dirección General de Prevención y Readaptación Social, de los que se desprenda la vocación, aptitudes, deseos y capacitación laboral del delincuente, así como las posibilidades del reclusorio.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+j) Organizar el trabajo en los reclusorios previo estudio de las características de la economía y mercado local, a fin de favorecer la correspondencia entre las demandas de éste y la producción penitenciaria, con vistas a la autosuficiencia económica del establecimiento. Otorgando prioridad a aquellas que correspondan a la satisfacción de insumos útiles para el Gobierno del Estado y los municipios.
 
 k) Favorecer el desarrollo de todas las medidas de tratamiento compatibles con el régimen establecido en esta Ley, los convenios y con las circunstancias de la localidad y de los internos.
 
-l) Planificar el trabajo de las Instituciones Penales conforme a las directrices marcadas por la Constitución General de la República, las Normas Mínimas sobre Readaptación Social de Sentenciados, las recomendaciones de la Organización de las Naciones Unidas, las Leyes Penales, las Sentencias de los Tribunales, la Ley Orgánica del Poder Ejecutivo del Estado, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado de Jalisco y el Reglamento del Departamento de Servicios Coordinados de Prevención y Readaptación Social.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-m) Coordinarse con el Departamento de Servicios Coordinados de Prevención y Readaptación Social en el Estado, para que, en los términos de la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad, los internos, cuando les sea asignado un puesto de trabajo y estén en posibilidades físicas de desempeñarlo, paguen su sostenimiento con cargo a la percepción que reciban como resultado del trabajo que desempeñen, de aucerdo (sic) con la distribución que señale el Art. 41 del Decreto No. 9999 de este H. Congreso.
+l) Planificar el trabajo de las instituciones penales conforme a las directrices marcadas por la Constitución General de la República, las normas mínimas sobre readaptación social de sentenciados, las recomendaciones de la Organización de las Naciones Unidas, las leyes penales, las sentencias de los tribunales, la Ley Orgánica del Poder Ejecutivo del Estado, la Ley de Ejecución de Penas del Estado de Jalisco y el Reglamento de la Dirección General de Prevención y Readaptación Social.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+m) Coordinarse con la Dirección General de Prevención y Readaptación Social, para que, en los términos de la Ley de Ejecución de Penas del Estado de Jalisco, los internos, cuando les sea asignado un puesto de trabajo y contribuyan a su sostenimiento.
+
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003) (F. DE E., P.O. 24 DE FEBRERO DE 2004)
+
+n) Coordinarse con las direcciones y áreas responsables de vigilar el seguimiento al tratamiento institucional para la rehabilitación y readaptación de los internos con el fin de diseñar programas que permitan mejorar el proceso de readaptación de los internos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+ñ) Ejecutar el Plan Estratégico del Trabajo Penitenciario que garantice la viabilidad de los proyectos industriales, semi-industriales, y agrícolas, en cada uno de los centros penitenciarios y su crecimiento; con la finalidad de satisfacer las necesidades de ocupación de los internos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+o) Promover y coordinar la comercialización de artículos de la Industria Jalisciense de Rehabilitación Social, así como administrar y dirigir los puntos de venta directa o la concesión de los productos para su venta.
 
 ###### Artículo 3º.
 
@@ -83,9 +109,11 @@ La Industria Jalisciense de Rehabilitación Social vigilará que los trabajos qu
 
 Los empleados y trabajadores de la Industria Jalisciense de Rehabilitación Social, que no tengan la condición de reclusos, tendrán el carácter de empleados públicos y sus relaciones se regirán por la Ley de Servidores Públicos del Estado.
 
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003) (F. DE E., P.O. 24 DE FEBRERO DE 2004)
+
 ###### Artículo 5°.
 
-Ningún interno podrá desempeñar funciones de autoridad. Solo a los internos de la Institución abierta, en Régimen de autogobierno, se podrá otorgar mando.
+Ningún interno podrá desempeñar funciones de autoridad. Sólo a los internos de la institución abierta, se podrá otorgar mando o dirección, siempre que las condiciones del trabajo lo requieran y no signifique un trastorno en el orden y equilibrio de las relaciones al interior del centro.
 
 ###### Artículo 6°.
 
@@ -95,21 +123,33 @@ El trabajo que se encomiende a los internos se apoyará en los estudios vocacion
 
 El trabajo es obligatorio para todos los sentenciados de acuerdo con su aptitud física y mental y de conformidad con su personalidad, ya que constituye uno de los medios primordiales para obtener la readaptación social de los internos.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+El Gobierno del Estado deberá proveer a través de la Industria Jalisciense de Rehabilitación Social o por medio de la autoridad penitenciaria correspondiente la capacitación y elementos para el adecuado desempeño del trabajo penitenciario.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 8°.
 
-Solamente la Industria Jalisciense de Rehabilitación Social, podrá administrar y organizar el trabajo tanto en los Centros de Readaptación Social como en los Reclusorios Preventivos del Estado conforme a la presente Ley, quedando estrictamente prohibidas las concesiones a particulares para la explotación de industrias o empresas ubicadas en dichos establecimientos.
+La Industria Jalisciense de Rehabilitación Social, podrá administrar y organizar el trabajo tanto en los centros de readaptación social como en los reclusorios preventivos del Estado conforme a la presente ley.
+
+El Ejecutivo del Estado podrá otorgar concesiones a favor de particulares y deberán cumplir con los requisitos que determine la Ley de Ejecución de Penas y los demás ordenamientos aplicables.
 
 ###### Artículo 9°.
 
 La Industria Jalisciense de Rehabilitación Social establecerá los medios adecuados para proporcionar a los internos trabajadores la capacitación y adiestramiento para el trabajo de acuerdo con los sistemas, métodos y procedimientos que establezca la Ley Reglamentaria de la Fracción XIII del Art. 123 de la Constitución General de la República.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 10°.
 
-El trabajo obligatorio, cuya asignación se hará tomando en cuenta los deseos, la vocación, las aptitudes y el grado de instrucción y culturación de los internos, tiene por finalidad, a más de ser un medio de rehabilitación, facilitarles la adquisición de los conocimientos que puedan serles útiles para lograr su total readaptación social.
+El trabajo penitenciario, cuya asignación se hará tomando en cuenta los deseos, la vocación, las aptitudes y el grado de instrucción y aculturación de los internos, tiene por finalidad, a demás (sic) de ser un medio de rehabilitación, facilitarles la adquisición de los conocimientos que puedan serles útiles para lograr su total readaptación social.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
-En el Reglamento de esta Ley se determinará de manera precisa el tiempo que deberán durar las jornadas de trabajo; los salarios, sus condiciones y las formas de pago, lo que deberá sujetarse a las prescripciones del Art. 123 de la Constitución General de los Estados Unidos Mexicanos y sus Leyes Reglamentarias, así como a los programas de tratamiento técnico fijados por la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad, y de acuerdo a los lineamientos establecidos en los respectivos Reglamentos Interiores de cada Reclusorio.
+En el reglamento de esta ley se determinará de manera precisa el tiempo que deberán durar las jornadas de trabajo; los salarios, sus condiciones y las formas de pago, lo que deberá sujetarse a las prescripciones del artículo 123 de la Constitución General de los Estados Unidos Mexicanos y sus leyes reglamentarias, el mecanismo para el estudio y aprobación de las concesiones, la organización de las Direcciones, así como a los programas de tratamiento técnico fijados por la Ley de Ejecución de Penas, y de acuerdo a los lineamientos establecidos en los respectivos reglamentos interiores de cada reclusorio.
 
 ###### Artículo 12.
 
@@ -139,9 +179,19 @@ La Industria Jalisciense de Rehabilitación Social armonizará hasta donde sea p
 
 La Industria Jalisciense de Rehabilitación Social deberá operar directamente y nunca por interpósita persona, los talleres de las Instituciones Penales. En todo caso favorecerá el desenvolvimiento de los talleres con el auxilio de la Dirección del establecimiento.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 19.
 
-Las áreas de trabajo no productivas, tales como limpieza, jardín, cocina, lavandería, así como aquellos productos que provengan de la labor terapia efectuada en los Centros Escolares o en otros sectores de tratamiento diverso, seguirán bajo el control de la administración de cada Institución a través del Departamento de Servicios Coordinados de Prevención y Readaptación Social.
+Las áreas de trabajo no productivas, tales como limpieza, jardín, cocina, lavandería, así como aquellos productos que provengan de la labor terapia efectuada en los centros escolares o en otros sectores de tratamiento diverso, seguirán bajo el control de la administración de cada institución a través de la Dirección General de Readaptación Social.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Artículo 19 bis. Las utilidades que resulten de la comercialización y venta de los productos de la Industria Jalisciense serán distribuidos de la siguiente manera: cincuenta por ciento para la capitalización de la propia Industria, treinta por ciento para el mejoramiento de los centros penitenciarios, y veinte por ciento para los internos que formen parte de las líneas de producción de las cuales se obtuvo la utilidad.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Artículo 19 ter. Los insumos y consumibles del Gobierno del Estado que sean producidos por la Industria Jalisciense de Rehabilitación Social serán por adjudicación directa para su adquisición, excepto los que sean de las concesiones los cuales serán ofertados, previa convocatoria a licitación pública.
 
 ### CAPITULO II (SIC). De los Organos de Gobierno de la Industria Jalisciense de
 
@@ -149,21 +199,27 @@ Rehabilitación Social
 
 Del Consejo de Administración
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 20.
 
-El Consejo de Administración será el Organo Supremo de la Industria Jalisciense de Rehabilitación Social y estará integrado por:
+El Consejo de Administración será el órgano supremo de la Industria Jalisciense de Rehabilitación Social y estará integrado por los siguientes titulares o representantes que para el efecto nombren:
 
-a) El Gobernador Constitucional del Estado o su representante, quien fungirá como Presidente del Consejo.
+a) El Gobernador Constitucional del Estado quien fungirá como Presidente del Consejo;
 
-b) El Jefe del Departamento de Servicios Coordinados de Prevención y Readaptación Social o su representante.
+b) El Secretario de Seguridad Pública, Prevención y Readaptación Social del Estado;
 
-c) El Tesorero General del Estado, o su representante quien fungirá como Tesorero del Consejo.
+c) El Secretario de Administración del Estado;
 
-d) Los Directores de cada una de las Instituciones Penitenciarias en donde esté operando la Industria Jalisciense de Rehabilitación Social, o sus Representantes.
+d) El Secretario de Finanzas del Estado;
 
-El Consejo de Administración podrá invitar a representantes de los Sectores productivos de la Entidad, para que concurran a las Sesiones que celebre el Consejo, quienes podrán participar con voz, pero sin voto.
+e) El Secretario de Promoción Económica;
 
-Por cada Miembro Propietario habrá un Suplente designado por cada uno de los integrantes del Consejo.
+f) El Director General de Prevención y Readaptación Social.
+
+> <small>(F. DE E., P.O. 24 DE FEBRERO DE 2004)</small>
+
+Por cada miembro propietario habrá un suplente designado por cada uno de los integrantes del Consejo.
 
 ###### Artículo 21.
 
@@ -207,7 +263,9 @@ VI. Reglamentar el funcionamiento de los órganos administradores de las diversa
 
 VII. Disponer sin más limitaciones que las que las Leyes establezcan, de las Industrias, Empresas y Bienes Muebles; así como de los bienes que se adquieran en el futuro por cualquier titulo, a fin de realizar plena y eficazmente las funciones propieas (sic) de la Industria Jalisciense de Rehabilitación Social.
 
-VIII. Nombrar y remover la planta de empleados y directores o gerentes que sean necesarios para la administración y cumplimiento de los fines de la Industria Jalisciense de Rehabilitación Social.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+VIII. Nombrar a propuesta del Director General y remover la planta de empleados y directores o gerentes que sean necesarios para la administración y cumplimiento de los fines de la Industria Jalisciense de Rehabilitación Social;
 
 IX. Discutir y aprobar en su caso los presupuestos de Ingresos y Egresos que elabore el Presidente del Consejo.
 
@@ -237,6 +295,14 @@ XXI. Estimular y proporcionar a los sentenciados, en lo posible, los medios nece
 
 XXII. Decidir sobre la forma de administración del trabajo de los reclusos de los Centros Penitenciarios y de Readaptación Social del Estado de Jalisco, en que funcione la Industria Jalisciense de Rehabilitación Social, a efecto de lograr el óptimo tratamiento del interno en el desempeño de su trabajo.
 
+(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2003) (F. DE E., P.O. 24 DE FEBRERO DE 2004)
+
+XXIII. Promover a través de estrategias de difusión la comercialización de los productos de la Industria Jalisciense de Rehabilitación social; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+XXIV. Elaborar y Revisar el Plan Estratégico del Trabajo Penitenciario.
+
 ###### Artículo 28.
 
 Serán facultades del Presidente del Consejo de Administración:
@@ -251,9 +317,11 @@ IV. Someter a la consideración del Consejo de Administración los presupuestos 
 
 V. Los demás que le confiera la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 29.
 
-El Director General que será el Primer Ejecutivo de la Industria Jalisciense de Rehabilitación Social, tendrá las siguientes facultades y obligaciones:
+El Director General de la Industria Jalisciense de Rehabilitación Social, tendrá las siguientes facultades y obligaciones:
 
 I. Ejecutar los acuerdos que emanen del Consejo de Administración, dictando las medidas necesarias para su cumplimiento.
 
@@ -275,9 +343,15 @@ IX. Representar a la Industria ante las Autoridades Administrativas, Judiciales 
 
 X. Proponer al Consejo de Administración las medidas que considere más convenientes a efecto de que el trabajo desmpeñado (sic) por los internos tienda a obtener su reintegración a la Sociedad; al igual que el mayor rendimiento de las fuentes patrimoniales de la Industria Jalisciense de Rehabilitación Social con objeto de que cada Institución alcance independencia económica.
 
-XI. Formular el Reglamento Interior de la Industria Jalisciense de Rehabilitación Social y someterlo a la consideración del Consejo de Administración, el que deberá ser conforme a las disposiciones reglamentarias de las Instituciones de tratamiento y de prevención.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-XII. Las demás que le confiera la presente Ley.
+XI. Formular el Reglamento Interior de la Industria Jalisciense de Rehabilitación Social y someterlo a la consideración del Consejo de Administración, el que deberá ser conforme a las disposiciones reglamentarias de las Instituciones de tratamiento y de prevención;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+XII. Proponer el nombramiento de los titulares de las Direcciones, gerentes y empleados de la Industria Jalisciense de Rehabilitación Social; y
+
+XIII. Las demás que le confiera la presente Ley.
 
 ###### Artículo 30.
 
@@ -308,6 +382,66 @@ XI. Supervisar la organización del trabajo y autorizar con acuerdo del Director
 ###### Artículo 31.
 
 Son facultades del Tesorero Registrar los contratos que se celebren, los bienes que se adquieran, las obligaciones que se contraigan y todo aquello que implique la vigilancia del patrimonio y su correcta administración.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Artículo 31 bis. La Industria Jalisciense de Rehabilitación Social contará con un órgano denominado Consejo Consultivo para la Industria Jalisciense de Rehabilitación Social, que tendrá las siguientes facultades:
+
+I. Ser un órgano de consulta, análisis y opinión en materia de industrialización, comercialización y mercado;
+
+II. Realizar estudios relacionados con Industria Jalisciense de Rehabilitación Social, a fin de proponer soluciones y estrategias para garantizar la sustentabilidad y desarrollo de la Industria Jalisciense de Rehabilitación Social;
+
+III. Proponer nuevas líneas de producción y estrategias de comercialización de los productos de la Industria Jalisciense de Rehabilitación Social;
+
+IV. Colaborar en el desarrollo y creación de talleres de producción, centros de capacitación y puntos de comercialización de la Industria Jalisciense de Rehabilitación Social;
+
+V. Colaborar en la creación y manejo de una bolsa de trabajo que beneficie a aquellos individuos que han cumplido su etapa (sic) rehabilitación y readaptación;
+
+VI. Coordinar los esfuerzos y fungir como enlace entre la Industria Jalisciense de Rehabilitación Social y el sector privado;
+
+VII. Diseñar y aplicar cursos de capacitación para los internos en cada una de las áreas de producción;
+
+VIII. Evaluar los planes de industrialización y comercialización que desarrolla la propia Industria Jalisciense de Rehabilitación Social, y proponer cambios o correcciones a los mismos;
+
+IX. Presentar esquemas de organización y evaluación del sistema de trabajo en el que se desarrollan los internos;
+
+X. Supervisar el desarrollo de producción y comercialización;
+
+XI. Analizar el desempeño de la Industria Jalisciense de Rehabilitación en lo correspondiente a la producción, comercialización y administración;
+
+XII. Advertir de riesgos económicos y de producción a los que se enfrente la Industria; y
+
+XIII. Representar de manera comercial a la Industria Jalisciense ante el sector privado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Artículo 31 ter. El Consejo Consultivo para la Industria Jalisciense de Rehabilitación Social estará integrado por los titulares o representantes que para el efecto nombren:
+
+a) Un presidente que será el titular del Poder Ejecutivo del Estado;
+
+b) El Secretario de Seguridad Pública, Prevención y Readaptación Social del Estado;
+
+c) El Secretario de Administración del Estado;
+
+d) El Secretario de Finanzas del Estado;
+
+e) El Secretario de Promoción Económica;
+
+> <small>(F. DE E., P.O. 24 DE FEBRERO DE 2004)</small>
+
+f) El Secretario del Trabajo y Previsión Social;
+
+g) El Secretario de Desarrollo Humano;
+
+h) El Director General de Prevención y Readaptación Social;
+
+i) Los directores de cada una de las instituciones penitenciarias en donde esté operando la Industria Jalisciense de Rehabilitación Social;
+
+j) Dos representantes del Consejo Ciudadano de Seguridad Pública, Prevención y Readaptación Social;
+
+k) Dos representantes de las cámaras de industriales de la entidad, y
+
+l) Dos representantes de la Cámara Nacional de Comercio de Guadalajara.
 
 ### CAPITULO III. Patrimonio de la Industria Jalisciense de Rehabilitación Social
 
@@ -348,3 +482,9 @@ Lic. Flavio Romero de Velasco
 EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Alfonso de Alba Martín
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
