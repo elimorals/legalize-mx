@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1950-10-07"
+last_updated: "1950-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 1950.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 1950.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -555,7 +555,7 @@ XXXVI. Convocar a elecciones extraordinarias de Diputados y Ayuntamientos en los
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-XXXVII.- Recibir la protesta constitucional a los Diputados, al Gobernador, a sus substitutos, a los Magistrados de Supremo Tribunal de Justicia y a todos los empleados de su nombramiento que conforme las leyes no deban otorgar la protesta de otro modo.
+XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador, a sus substitutos, a los Magistrados de Supremo Tribunal de Justicia y a todos los empleados de su nombramiento que conforme las leyes no deban otorgar la protesta de otro modo.
 
 XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosperidad en general.
 
@@ -589,7 +589,7 @@ L. Conocer y resolver sobre la renuncia que presenten los Magistrados del Suprem
 
 LI. (DEROGADA, P.O. 7 DE DICIEMBRE DE 1946)
 
-LII.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
+LII. (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
 
 LIII. Crear nuevas Municipalidades dentro de las existentes, variar sus límites y suprimir alguna o algunas de ellas.
 
@@ -804,6 +804,10 @@ VI.- Los que estén sujetos a un proceso criminal por delito que merezca pena co
 ###### Art. 80.
 
 El día cinco de febrero inmediato a la elección entrará el C. Gobernador a ejercer sus funciones por seis años y nunca podrá volver a desempeñar ese cargo ni por nueva elección ni con el carácter de provisional o interino.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1950)</small>
+
+Art 81.- El Congreso, dentro del mes de noviembre correspondiente a la elcción (sic), procederá erigido en Colegio Electoral, a hacer, conforme a la Ley respectiva, el escrutinio de los votos emitidos en la elección y hará la declaración del ciudadano que resulte electo para Gobernador, por medio de un Decreto.
 
 ###### Art. 81.
 
@@ -1736,3 +1740,9 @@ UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su 
 P.O. 7 DE OCTUBRE DE 1950.
 
 UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE NOVIEMBRE DE 1950.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto iniciará su vigencia partir de la fecha de su publicación en el Periódico Oficial del Estado.
