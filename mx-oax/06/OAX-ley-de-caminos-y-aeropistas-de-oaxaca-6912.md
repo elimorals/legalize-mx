@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-caminos-y-aeropistas-de-oaxaca-6912"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-27"
-last_updated: "1989-05-27"
+last_updated: "2005-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CAMINOS Y AEROPISTAS DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de mayo de 1989.
 
@@ -95,43 +95,73 @@ El Gobierno de "Caminos y Aeropistas de Oaxaca", estará a cargo de:
 
 I.- El Consejo de Administración; y
 
-II.- El Director.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2005)</small>
+
+II.- El Director General.
 
 ###### ARTICULO 6°.
 
 El Consejo de Administración, es la Autoridad Suprema de "Caminos y Aeropistas de Oaxaca", y estará integrado en forma honorífica por:
 
-I.- Un Presidente Propietario con su respectivo Suplente;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2005)</small>
 
-II.- Un Secretario Técnico; y
+I.- Un Presidente, que será el titular del Poder Ejecutivo;
 
-III.- Vocales.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2005)</small>
+
+II.- Un Secretario Técnico, que será el Director General de Caminos y Aeropistas de Oaxaca; y
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2005)</small>
+
+III.- Cuatro Vocales, que serán los titulares de las siguientes dependencias del Poder Ejecutivo:
+
+a) Comité Estatal de Planeación para el Desarrollo de Oaxaca;
+
+b) Secretaría de Finanzas;
+
+c) Secretaría de Economía; y
+
+d) Secretaría de Desarrollo Rural.
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2005)</small>
+
+IV. Un Comisario, que será el Delegado Contralor o el representante que designe la Secretaría de la Contraloría.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 7°.
 
-El Presidente del Consejo de Administración será el Gobernador del Estado y como Suplente, el Titular de la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas del Gobierno del Estado en su calidad de Coordinador Sectorial.
+El Presidente del Consejo de Administración será el Gobernador del Estado y como Suplente, el Titular de la Secretaría de Obras Públicas del Gobierno del Estado en su calidad de Coordinador Sectorial.
+
+Los demás miembros propietarios del Consejo de Administración tendrán un suplente, quien será designado por el titular del Poder Ejecutivo. El cargo de suplente es indelegable.
+
+En ningún caso podrán ser miembros del Consejo de Administración:
+
+a). Los Cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de los miembros del Consejo de Administración o con el Director General.
+
+b). Las personas que tengan litigios pendientes con el Organismo;
+
+c). Las personas sentenciadas por delitos patrimoniales, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público; y
+
+d) Los Diputados del Congreso del Estado, en términos del artículo 38 de la Constitución Local.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 8°.
 
-El Secretario Técnico que será el Director del Organismo, convocará a Sesiones a los miembros del Consejo de Administración, debiendo elaborar la Orden del Día, así como levantar las actas respectivas.
+El Secretario Técnico del Consejo de Administración, convocará a sesiones a los miembros del mismo, debiendo elaborar la orden del día, así como levantar las actas respectivas.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 9°.
 
-Los Vocales del Consejo de Administración, serán:
+El Consejo de Administración sesionará en forma ordinaria cuando menos trimestralmente y en forma extraordinaria cada vez que el Presidente lo estime necesario o a petición de una tercera parte del total de los integrantes del Consejo. Los miembros del Consejo de Administración participarán en las sesiones con voz y voto, a excepción del Secretario Técnico y del Comisario, quienes tendrán voz pero no voto.
 
-I.- Los Titulares o Representantes debidamente acreditados de las siguientes dependencias del Gobierno del Estado:
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2005)</small>
 
-a).- Secretaría de Planeación;
+###### ARTICULO 10.
 
-b).- Secretaría de Finanzas;
-
-c).- Secretaría de Desarrollo Económico y Social; y
-
-d).- Secretaría de Desarrollo Rural.
-
-###### ARTICULO 10°.
-
-El Consejo de Administración celebrará al menos una sesión bimestral con el carácter de ordinaria y las extraordinarias que se requieran, de conformidad con el Reglamento respectivo.
+La convocatoria para las sesiones, el orden del día y la documentación relativa a las mismas, se comunicarán por escrito con cinco días hábiles de anticipación, tratándose de sesión ordinaria y de un día natural, si se trata de sesión extraordinaria, indicando en cada caso, lugar, fecha y hora en que se celebrará la sesión; las convocatorias expresarán además el asunto que las motiva.
 
 ###### ARTICULO 11.
 
@@ -147,13 +177,43 @@ II.- Conocer, analizar, evaluar y en su caso, aprobar los proyectos anuales de t
 
 III.- Examinar y autorizar en su caso, los proyectos de presupuestos de Ingresos y Egresos del Organismo, así como sus modificaciones;
 
-IV.- Examinar y aprobar en su caso, la información financiera e informe de actividades, que al efecto deberá formular y presentar el Director;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2005)</small>
+
+IV.- Examinar y aprobar en su caso, la información financiera e informe de actividades, que al efecto deberá formular y presentar el Director General;
 
 V.- Autorizar los nombramientos, sueldos, salarios y demás prestaciones que deberán cubrirse al personal tanto de base como de confianza;
 
-VI.- Conocer y resolver los asuntos y propuestas que se sometan a su consideración; y
+> <small>(REFORMADA P.O. 2 DE ABRIL DE 2005)</small>
 
-VII.- Las demás que determine esta Ley, su Reglamento y otras disposiciones legales aplicables.
+VI.- Conocer y resolver los asuntos y propuestas que se sometan a su consideración;
+
+> <small>(REFORMADA P.O. 2 DE ABRIL DE 2005)</small>
+
+VII.- Establecer en congruencia con la Ley de Planeación y Plan Estatal del Desarrollo, las políticas generales y definir las prioridades a las que deberá sujetarse la Entidad;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2005)</small>
+
+VIII.- Aprobar de acuerdo con las leyes aplicables las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que debe celebrar el Organismo con terceros en obras públicas, adquisiciones, arrendamiento y prestación de servicios relacionados con bienes muebles;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2005)</small>
+
+IX.- Autorizar la creación interna de comisiones y grupos de trabajo para alcanzar los objetivos del Organismo;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2005)</small>
+
+X.- Autorizar la creación de Comités y Subcomités Técnicos especializados, los cuales estarán integrados por personal del Organismo;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2005)</small>
+
+XI.- Observar las normas y bases para la adquisición, arrendamiento y enajenación de bienes muebles e inmuebles que el Organismo requiera, para la prestación de sus servicios, con sujeción a las disposiciones legales respectivas;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2005)</small>
+
+XII.- Analizar y aprobar en su caso, los informes periódicos que rinda el Director General; y
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2005)</small>
+
+XIII.- Las demás facultades que le otorguen otras disposiciones legales aplicables.
 
 ###### ARTICULO 13.
 
@@ -177,13 +237,17 @@ IV.- Coadyuvar en apoyo de Caminos y Aeropistas de Oaxaca, dentro de sus respect
 
 V.- Las demás que le concede esta Ley, el Reglamento Interior de Caminos y Aeropistas de Oaxaca, y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 16.
 
-El Director será nombrado y removido por el Consejo de Administración, a propuesta del Gobernador del Estado, y tendrá las siguientes facultades y obligaciones:
+El Director General tendrá las siguientes facultades y obligaciones:
 
 I.- Cumplir y hacer cumplir los acuerdos y disposiciones del Consejo de Administración, así como asistir a todas las sesiones del mismo, con voz pero sin voto;
 
-II.- Elaborar y someter a la consideración del Consejo, proyectos de programas de inversión y de trabajo del Organismo;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2005)</small>
+
+II.- Elaborar y someter a la consideración del Consejo, proyectos de programas de inversión y de trabajo del Organismo; así como los presupuestos del Organismo;
 
 III.- Presentar oportunamente al Consejo de Administración, los informes de actividades de inversión tanto financieros como de avance físico de obras;
 
@@ -199,13 +263,67 @@ VIII.- Ser el Titular de las relaciones laborales del Organismo;
 
 IX.- Gestionar ante la Federación, Estado y Municipios, el suministro de las aportaciones económicas y materiales que por Ley o convenios le corresponda;
 
-X.- Intervenir en nombre de Caminos y Aeropistas de Oaxaca, en los juicios de Amparo en que sea parte este Organismo; y
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2005)</small>
 
-XI.- Las demás que le confiere la presente Ley, su Reglamento, el Reglamento Interior de Caminos y Aeropistas de Oaxaca, el Consejo de Administración y demás disposiciones legales aplicables.
+X.- Intervenir en los juicios en que el Organismo sea parte, ejercitando las acciones y oponiendo excepciones, pudiendo hacer en caso de que proceda, por medio de apoderado;
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2005)</small>
+
+XI.- Formular los programas de organización y administración;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2005)</small>
+
+XII.- Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles del Organismo;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2005)</small>
+
+XIII.- Tomar las medidas pertinentes a fin de que las funciones del Organismo, se realicen de manera articulada, congruente y eficaz;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2005)</small>
+
+XIV.- Establecer los sistemas de control internos necesarios para alcanzar las metas u objetivos propuestos;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2005)</small>
+
+XV. Presentar trimestralmente al Consejo de Administración, el informe del desempeño de las actividades del Organismo, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2005)</small>
+
+XVI. Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia, con que se desempeñe el Organismo y presentar al Consejo de Administración por lo menos dos veces al año, la evaluación de gestión con detalle que previamente se acuerde con dicho Consejo;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2005)</small>
+
+XVII. Proporcionar la información y dar acceso a la documentación que le soliciten las Secretarías de Finanzas y de Administración, así como la Secretaría de la Contraloría o el auditor externo, para el cumplimiento de sus funciones y la que el Congreso del Estado le solicite;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2005)</small>
+
+XVIII. Presentar, dentro del ámbito de su competencia, denuncias y formular querellas ante el Ministerio Público y ratificar las mismas en su caso, sin perjuicio del patrimonio del Organismo, otorgar el perdón cuando proceda.
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2005)</small>
+
+XIX. Otorgar los poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula espacial, previa autorización del Consejo de Administración. Los poderes generales deberán inscribirse conforme a la ley respectiva, así como en el Registro de Entidades Paraestatales de la Administración Pública Estatal; y
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2005)</small>
+
+XX.- Las demás que le confieran otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 17.
 
-Para el mejor desempeño de las atribuciones conferidas al Director, contará con el auxilio de los jefes de Area, Departamentos u Oficinas, Secciones, Residentes y Asesores que sean necesarios y que establezcan las disposiciones reglamentarias respectivas.
+Para el mejor desempeño de las atribuciones conferidas al Director General, contará con el auxilio de los Directores de Area, Jefes de Unidad, Jefes de Departamentos u Oficinas, residentes y asesores que señale el manual de organización.
+
+Para auxiliar y suplir en las ausencias temporales al Director General del Organismo, habrá un Subdirector General, quien tendrá en las ausencias todas las facultades del Director General y en cuanto a las funciones de auxilio, las que le señale expresamente el Reglamento Interno de la Entidad.
+
+El Director General y el Subdirector General serán designados por el Titular del Ejecutivo Estatal y deberán cumplir los requisitos del artículo 83 de la Constitución Política del Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 17 Bis.
+
+La Dirección General contará con el apoyo de un Consejo Consultivo, integrado por personas especialistas, con experiencia en materia de construcción de caminos, carreteras, puentes vehiculares y aeropistas; pudiendo ser profesionistas, académicos, representante de instituciones educativas, de investigación, representante de organizaciones sociales, servidores públicos adscritos a dependencias o Entidades Federales y Estatales, quien serán designados por el Titular del Poder Ejecutivo del Estado, a propuesta el Director General.
+
+Ser miembro del Consejo Consultivo tendrá carácter honorífico.
 
 ### CAPITULO IV. Disposiciones Generales
 
@@ -213,9 +331,11 @@ Para el mejor desempeño de las atribuciones conferidas al Director, contará co
 
 Las relaciones laborales entre Caminos y Aeropistas de Oaxaca, se regirán por la Ley del Servicio Civil para lo Empleados del Gobierno del Estado de Oaxaca, considerándose como trabajadores de confianza al Director, los Jefes de Areas o Departamentos, Oficina, Sección, Residentes, Asesores y demás personal que efectúe labores de inspección, vigilancia, dirección o fiscalización.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 19.
 
-La Dirección de Contraloría Interna, en el ejercicio de sus facultades que le otorga la Ley Orgánica del Poder Ejecutivo del Estado, podrá verificar en cualquier tiempo la aplicación de los recursos asignados al Organismo.
+La Secretaría de la Contraloría, ejercer las facultades que le otorgan las leyes respectivas en lo que corresponde a la verificación, inspección fiscalización y responsabilidades de los servidores públicos del Organismo.
 
 T R A N S I T O R I O S
 
@@ -252,3 +372,11 @@ Oaxaca de Juárez, Oax., a 1° de marzo de 1989.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ILDEFONSO ZORRILLA CUEVAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 2 DE ABRIL DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
