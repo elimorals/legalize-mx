@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-coordinacion-fiscal-del-estado-de-sinaloa-6461"
 country: "mx"
 rank: "ley"
 publication_date: "1990-01-15"
-last_updated: "1996-08-12"
+last_updated: "1996-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el lunes 15 de enero de 1990.
 
@@ -61,11 +61,11 @@ V.- Constituir los organismos en materia de coordinación fiscal.
 
 En cumplimiento a lo dispuesto por los Artículos 2o., 2o.-A y 6o. de la Ley de Coordinación Fiscal Federal en vigor, la Legislatura del Estado, mediante las presentes disposiciones, establece los plazos, montos y bases aplicables para la distribución de las participaciones federales que corresponde a los Municipios en el Fondo Municipal de Participaciones.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 3.
 
-El fondo municipal de participaciones se integrará con el 20% de los recursos que perciba el Estado procedentes del Fondo General de Participaciones, de la participación de la recaudación del Impuesto Especial sobre Producción y Servicios en Bebidas Alcohólicas y Tabacos Labrados así como de la recaudación del Impuesto Sobre Tenencia o uso de Vehículos y por el 100% del Fondo de Fomento Municipal en los términos de la Ley de Coordinación Fiscal Federal.
+El Fondo Municipal de Participaciones se integrará con el 20% de los recursos que perciba el Estado procedentes del Fondo General de Participaciones, de la participación de la recaudación del Impuesto Especial sobre Producción y Servicios en Bebidas Alcohólicas y Tabacos Labrados así como la recaudación del Impuesto Sobre Tenencia o Uso de Vehículos y el Impuesto Sobre Automóviles Nuevos y por el 100% del Fondo de Fomento Municipal en los términos de la Ley de Coordinación Fiscal Federal.
 
 ###### ARTICULO 4.
 
@@ -75,7 +75,9 @@ I.- 60% en proporción al número de habitantes de cada Municipio en relación a
 
 El número de habitantes de cada Municipio se tomará de la última información oficial que hubiere dado a conocer el Instituto Nacional de Estadística, Geografía e Informática.
 
-II.- 20% en proporción a los ingresos propios, excluidos los derivados del Impuesto Predial, que haya tenido cada uno de los Municipios con respecto al de todos ellos, durante el año inmediato anterior.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+II.- 20% en proporción a los ingresos propios que haya tenido cada uno de los municipios con respecto al de todos ellos, durante el año inmediato anterior.
 
 III.- 15% en partes iguales a cada Municipio.
 
@@ -290,3 +292,11 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE REFORMAS QUE SE RELACIONAN CON LA 
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE DICIEMBRE DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día primero de enero de 1997.
