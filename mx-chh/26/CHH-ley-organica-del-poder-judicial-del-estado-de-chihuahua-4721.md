@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "1993-09-01"
+last_updated: "1994-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -43,9 +43,11 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
 Esta Ley reglamenta la estructura y funcionamiento del Poder Judicial del Estado de Chihuahua.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 2.
 
-La potestad de aplicar las leyes del fuero común en materia civil y penal en el territorio del Estado corresponde exclusivamente al Poder Judicial; también le corresponde el ejercicio de la función jurisdiccional en todas aquellas cosas en que la ley expresamente lo faculte. En el desempeño de tal actividad, gozará de plena autonomía e independencia en su régimen interior.
+En el fuero común y dentro del territorio del Estado, la potestad de aplicar las leyes en materia civil, incluída la familiar, y en materia penal corresponde al Poder Judicial, que además estará facultado para resolver las controversias que señala la Constitución Política del Estado.
 
 ###### ARTICULO 3.
 
@@ -71,13 +73,17 @@ Los Tribunales del Estado estarán expeditos para administrar justicia pronta y 
 
 El Ejecutivo del Estado, las Dependencias a su cargo y las Autoridades Municipales facilitarán al Poder Judicial los auxilios que demande para ejercer de manera plena sus funciones.
 
+(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994) (F. DE E., P.O. 4 DE FEBRERO DE 1995)
+
 ###### ARTICULO 7.
 
 No podrán desempeñar cargo o empleo alguno en el Poder Judicial:
 
-I.- Los ministros de los cultos ni las personas ligadas a agrupaciones religiosas por juramento o protesta; y
+I.- Los que tengan incapacidad para ejercer las actividades que se les pudieran encomendar. Y
 
-II.- Los que tengan una incapacidad que no les permita el desempeño de la actividad para la cual fueren designados.
+> <small>(F. DE E., P.O. 4 DE FEBRERO DE 1995)</small>
+
+II.- Los ministros de cultos, salvo lo establecido en el artículo 14 de la Ley de Asociaciones Religiosas y Culto Público.
 
 ###### ARTICULO 8.
 
@@ -91,7 +97,9 @@ Las autoridades judiciales rechazarán la intervención de las personas que care
 
 Las autoridades judiciales podrán imponer por vía de corrección disciplinaria, multa hasta de veinte veces el salario mínimo, a los litigantes o a cualquier persona cuando en sus promociones o peticiones sean irrespetuosos para con ellas o sus colitigantes. Tratándose de jornaleros u obreros, la multa no podrá exceder de su jornal o salario de un día de trabajo.
 
-Cuando se declare improcedente o no probada una causa de recusación interpuesta en contra de los funcionarios judiciales, las autoridades que conozcan de ellas con arreglo a la ley, impondrán al recusante y a su abogado, si está demostrada su intervención, una multa hasta de cincuenta veces el salario mínimo vigente.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+Cuando la recusación interpuesta contra funcionarios judiciales se declare improcedente o no probada, se impondrá al recusante multa de veinte a cincuenta veces el salario mínimo vigente en el lugar en que se ventile el juicio, al momento en que se imponga la sanción. Los abogados que patrocinen al litigante serán responsables solidarios del pago de la sanción impuesta a su cliente.
 
 ###### ARTICULO 11.
 
@@ -123,25 +131,25 @@ II.- Empleados de Confianza; o
 
 III.- Empleados de Base.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 16.
 
 Son funcionarios:
 
-I.- Los magistrados del Supremo Tribunal;
+I.- Los magistrados;
 
-II.- Los Jueces del Estado;
+II.- Los jueces;
 
 III.- El Secretario General;
 
-IV.- El Oficial Mayor;
+IV.- El Oficial Mayor del Supremo Tribunal;
 
-V.- Los Secretarios del Supremo Tribunal y los Juzgados;
+V.- Los Secretarios del Supremo Tribunal y de los Juzgados;
 
-VI.- Los Notificadores del Supremo Tribunal y los Juzgados;
+VI.- Los notificadores. Y
 
-VII.- El Jefe de la Defensoría de Oficio; y
-
-VIII.- El Encargado del Departamento del Fondo Auxiliar para la Administración de Justicia.
+VII.- Los que tengan a su cargo la dirección o coordinación de las dependencias a que alude el artículo 42 de esta Ley.
 
 ###### ARTICULO 17.
 
@@ -195,11 +203,11 @@ Hecha afirmativa la protesta, serán amonestados de la siguiente forma:
 
 "Si así no lo hiciereis, que la Nación y el Estado os lo demanden."
 
+(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994) (F. DE E., P.O. 4 DE FEBRERO DE 1995)
+
 ###### ARTICULO 23.
 
-Todos los cargos y empleos del ramo judicial son de admisión y desempeño enteramente libre, pudiendo los nombrados tanto excusarse de aceptarlos, como de renunciarlos ante la autoridad que haya hecho la designación. En este último caso, la autoridad deberá resolver y hacer saber al renunciante la aceptación de la renuncia en un plazo de tres días, debiendo mientras tanto, continuar en el ejercicio de su encargo.
-
-Dentro de igual término deberá hacerse saber a la autoridad que hizo el nombramiento, la aceptación del cargo o empleo, de lo contrario se tendrán por no aceptados.
+Todos los empleos del ramo judicial son de aceptación y desempeño voluntarios. Las personas nombradas para ejercerlos podrán excusarse o renunciar. La autoridad correspondiente, en tres días, debe aceptar la renuncia y hacer saber su decisión al interesado, quien mientras tanto seguirá en el ejercicio del cargo.
 
 ###### ARTICULO 24.
 
@@ -259,35 +267,37 @@ La falsedad del contenido de la declaración o la omisión de presentarla en los
 
 ### CAPITULO II. DEL PROCEDIMIENTO PARA SELECCION DE PERSONAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 33.
 
-En la designación de los funcionarios y empleados del Poder Judicial, se tomarán en cuenta la eficiencia, honradez, responsabilidad, disciplina y en su caso, la antigüedad en el desempeño de sus cargos o empleos. Tendrán preferencia, en igualdad de circunstancias, quienes ya forman parte del Poder Judicial.
+Para la designación de funcionarios y empleados del Poder Judicial se tomarán en cuenta: la eficiencia, honradez, responsabilidad, disciplina y antigüedad en el desempeño de cargos afines. Tendrán preferencia, en igualdad de condiciones, quienes hayan servido en él y quienes hayan aprobado los cursos correspondientes del Centro de Formación y Actualización Judicial.
 
 Los Magistrados no podrán proponer y los Jueces nombrar, como funcionarios o empleados de las oficinas de su adscripción, a personas con las que tengan parentesco por consanguinidad hasta el cuarto grado o por afinidad hasta el segundo.
 
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 34.
 
-Las vacantes de Jueces de Primera Instancia y Defensores de Oficio, se cubrirán mediante concurso de méritos.
+Las vacantes de jueces de primera instancia se cubrirán mediante concurso de méritos.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 35.
 
-El concurso de méritos a que se refiere el precepto anterior, se sujetará a las siguientes bases:
+El concurso de méritos se sujetará a las siguientes reglas:
 
-I.- Será convocado con un mes de anticipación; y
+I.- Será convocado, previo acuerdo del Pleno, por el Secretario General y lo llevará a cabo una comisión designada por aquél;
 
-II.- Se decidirá por el Pleno o la comisión que éste designe para el efecto, tomando en cuenta:
+II.- Se invitará a las asociaciones de abogados del distrito judicial donde se suscitó la vacante;
 
-a).- La experiencia del sustentante en el ejercicio de la profesión, así como su responsabilidad y honestidad;
+III.- El Pleno, previo dictamen de la Comisión, decidirá quien deberá ser designado como titular del juzgado, para lo que deberá tomar en cuenta:
 
-b).- Los cargos que hubiera desempeñado en la Administración Pública, especialmente en la Judicatura;
+a).- La honradez, la responsabilidad, y la experiencia profesional de los concursantes, especialmente la que hubieran obtenido en cargos judiciales y en la administración pública;
 
-c).- Los antecedentes académicos; y
+b).- Los cursos aprobados en el Centro de Formación y Capacitación Judicial, así como sus demás antecedentes académicos, Y
 
-d).- La capacidad y aptitud demostradas en el examen teórico-práctico que al efecto se practique.
-
-A los exámenes respectivos, se invitará a los representantes de las Asociaciones de Abogados correspondientes.
+c).- La capacidad y aptitud demostrada en los exámenes que se les hubieran aplicado.
 
 ###### ARTICULO 36.
 
@@ -331,7 +341,9 @@ XI.- MANUEL OJINAGA, integrado por los Municipios de Coyame, Manuel Benavides y 
 
 XII.- MINA, integrado por el Municipio de Guadalupe y Calvo, con cabecera en la Villa de Guadalupe y Calvo;
 
-XIII.- MORELOS, integrado por los Municipios de Aldama, Aquiles Serdán, Chihuahua, Doctor Belisario Domínguez, General Trías, Gran Morelos, Riva Palacio y Satevó, con cabecera en la ciudad de Chihuahua; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+XIII.- MORELOS, integrado por los Municipios de Aldama, Aquiles Serdán, Chihuahua, Doctor Belisario Domínguez, Gran Morelos, Riva Palacio, Santa Isabel y Satevó, con cabecera en la ciudad de Chihuahua;
 
 XIV.- RAYON, integrado por los Municipios de Maguarichi, Moris, Ocampo y Uruáchi, con cabecera en el Mineral de Ocampo.
 
@@ -341,53 +353,93 @@ En cuanto a la extensión y límites de los Municipios y las Secciones Municipal
 
 ### CAPITULO I. DE LA ORGANIZACION Y FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 38.
 
-El Supremo Tribunal de Justicia funcionará en Acuerdo Pleno o en Salas Unitarias de Apelación.
+El Supremo Tribunal de Justicia estará integrado cuando menos por nueve magistrados numerarios y hasta por tres supernumerarios y funcionará en pleno o mediante salas unitarias que podrán ser centrales o regionales. Su asiento estará en la Ciudad de Chihuahua y ejercerá jurisdicción en todo el Estado, salvo las salas regionales que residirán en la población que determine el Pleno y tendrán la competencia territorial que éste les asigne.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 39.
 
-El Supremo Tribunal de Justicia residirá en la ciudad de Chihuahua, ejercerá jurisdicción en todo el territorio del Estado y se integrará cuando menos de nueve Magistrados, quienes serán designados en la forma que establece la Constitución Política del Estado.
+Si se creara una nueva sala o hubiere ausencia absoluta de absoluta de algún magistrado, el Supremo Tribunal de Justicia convocará a concurso de méritos para la integración de terna, que se someterá al Congreso, para la elección del magistrado que deba cubrir la plaza. El procedimiento para ese efecto será conforme a las siguientes directivas:
+
+I.- La convocatoria será publicada en el Periódico Oficial y, cuando menos, en los dos diarios de mayor circulación del Estado, las veces que el Pleno considere adecuadas;
+
+II.- El Jurado de elección de la terna estará compuesto por dos representantes del Poder Judicial, designados mediante insaculación, y dos del Gobernador del Estado;
+
+III.- El Jurado será presidido por el representante del Poder Judicial que fuere de más edad, quien tendrá voto de calidad en caso de empate;
+
+IV.- El Jurado para tomar su determinación considerará los antecedentes administrativos, profesionales y académicos de los concursantes, así como los resultados de las entrevistas que tuviera con ellos y de los exámenes que les hubiera aplicado. Además, en igualdad de circunstancias, preferirá a los jueces de primera instancia y a los secretarios de salas que hubieren prestado sus servicios al Poder Judicial del Estado con eficiencia y probidad, así como a quienes se hubieran distinguido por su honorabilidad y competencia en otras ramas de la profesión jurídica;
+
+V.- Definida la terna, el Jurado la comunicará directamente al Congreso del Estado o a su Diputación Permanente.
 
 ###### ARTICULO 40.
 
 En caso de que la ley otorgue alguna facultad al Supremo Tribunal de Justicia y no precise a quien corresponde su ejercicio, se entenderá conferida al Pleno.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 41.
 
-No podrán reunirse en el Tribunal dos o más Magistrados que sean parientes entre sí por consanguinidad del cuarto grado o por afinidad en el segundo.
+No podrán fungir como magistrados quienes sean entre sí cónyuges, parientes consanguíneos dentro del cuarto grado y por afinidad en el segundo.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 42.
 
-Funcionarán dentro del Supremo Tribunal de Justicia, de acuerdo con esta Ley y su Reglamento:
+Funcionarán bajo la dependencia del Presidente del Supremo Tribunal de acuerdo a esta ley y a sus reglamentos:
 
 I.- El Archivo General;
 
-II.- La Biblioteca;
+II.- Las bibliotecas judiciales;
 
-III.- El Cuerpo de Defensores de Oficio;
+III.- Las defensorías de Oficio;
 
-IV.- Las Oficialías de Turnos que acuerde el Pleno;
+> <small>(F. DE E., P.O. 4 DE FEBRERO DE 1995)</small>
 
-V.- Los Departamentos de Estudios Sicológicos y Socioeconómicos que determine el Pleno; y
+IV.- Los Departamentos de Estudios Psicológicos y Socioeconómicos;
 
-VI.- El Departamento del Fondo Auxiliar para la Administración de Justicia.
+> <small>(F. DE E., P.O. 4 DE FEBRERO DE 1995)</small>
 
-Las anteriores Dependencias Administrativas estarán bajo la dirección de la persona que esta Ley determine y la vigilancia del Presidente del Supremo Tribunal, quien ejercerá dicha atribución directamente o por conducto del Secretario General.
+V.- El Fondo Auxiliar para la Administración de Justicia;
+
+VI.- Las oficialías de turno comunes a varios tribunales;
+
+VII.- Las oficinas centrales de notificadores y ministros ejecutores;
+
+> <small>(F. DE E., P.O. 4 DE FEBRERO DE 1995)</small>
+
+VIII.- Los Departamentos de Informática;
+
+> <small>(F. DE E., P.O. 4 DE FEBRERO DE 1995)</small>
+
+IX.- Los Departamentos de Fotocopiado;
+
+X.- El Centro de Formación y Actualización Judicial. Y
+
+XI.- Las demás dependencias necesarias para la buena marcha de la administración de justicia que fueran instituídas por el Pleno.
 
 ### CAPITULO II. DEL TRIBUNAL PLENO
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 43.
 
-Constituyen el Pleno del Supremo Tribunal de Justicia, el Presidente y los Magistrados en ejercicio. A sus sesiones podrán asistir el Procurador General de Justicia del Estado, quién tendrá voz pero no voto en las decisiones.
+Integran el Pleno del Supremo Tribunal: el Presidente y los magistrados que estén al frente de las salas, ya fueren centrales o regionales.
+
+El Procurador General de Justicia del Estado podrá asistir a las sesiones plenarias y tendrá voz, pero no voto.
 
 ###### ARTICULO 44.
 
 Los Acuerdos Plenos se celebrarán cuando lo disponga el Reglamento de esta Ley o lo determine el Presidente, quien estará obligado a convocarlo siempre que lo soliciten por escrito un Magistrado o el Procurador General de Justicia, expresando el objeto de la sesión, el que deberá ser de la competencia del Pleno.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 45.
 
-Para la celebración del Acuerdo Pleno se requiere la concurrencia de más de la mitad de los Magistrados en funciones, no siendo indispensable la concurrencia del Procurador General de Justicia. Si todos los Magistrados no hubieren sido citados tratándose de Acuerdo Pleno Extraordinario, éste será nulo. La citación se hará en los términos que fije el Reglamento. Al Acuerdo Pleno asistirá también el Secretario General del Tribunal, quien tomará nota y dará fe de los asuntos tratados y resueltos en la sesión.
+Para la validez de los acuerdos del Pleno se requiere la concurrencia de más de la mitad de los magistrados en funciones. En casos de extrema urgencia sólo se convocará a los magistrados de las salas centrales y su decisión mayoritaria será suficiente para la licitud de esos acuerdos. A los titulares de las salas regionales se les comunicarán de inmediato las decisiones que se hubieren tomado.
 
 ###### ARTICULO 46.
 
@@ -407,103 +459,95 @@ Una vez aprobadas por el Pleno las actas de sus sesiones, serán autorizadas por
 
 Ningún Magistrado de los presentes en la sesión podrá abstenerse de votar ni retirarse de ella sin la autorización del Pleno. Si con el retiro autorizado de uno o varios Magistrados se afecta el quórum legal, se suspenderá la sesión para reiniciarla el día que el Presidente señale.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 50.
 
-Son facultades del Tribunal Pleno:
+Son facultades del Pleno:
 
-I.- Ejercer las atribuciones que le otorga la Constitución Política del Estado;
+I.- Elegir, entre los magistrados numerarios, al Presidente del Supremo Tribunal y a los titulares de las salas;
 
-II.- Declarar lo que corresponda en los casos en que juzgue que es atacada la soberanía del Estado con los exhortos o ejecutorias que se reciban de las Entidades de la Federación o del extranjero;
+II.- Crear y suprimir las salas del Supremo Tribunal y establecer el ramo en que deban actuar. Si se trata de salas regionales señalará el territorio de su jurisdicción y el lugar de su residencia;
 
-III.- Elegir Presidente del Supremo Tribunal de entre los Magistrados que lo integran;
+III.- Adscribir interinamente a una sala a alguno de los magistrados supernumerarios, cuando hubiere ausencia absoluta de su titular, y, si la ausencia fuere temporal, o accidental por más de cinco días, nombrar, entre ellos, magistrado sustituto. Además señalará otras tareas que deberán desarrollar los magistrados supernumerarios;
 
-IV.- Adscribir a los Magistrados a las Salas de Apelación;
+IV.- Convocar a concurso de méritos, en los términos del artículo 103 de la Constitución Política del Estado, para la integración de la terna que se presentará al Congreso para la elección de magistrados y designar a los representantes del Poder Judicial que deberán formar parte del jurado;
 
-V.- Dictar las medidas que estime convenientes para que la administración de justicia sea expedita, pronta y cumplida y que se observe la disciplina y puntualidad debidas en el ejercicio de tal función;
+V.- Convocar a concurso de méritos para la designación de jueces de primera instancia y hacer el nombramiento correspondiente. Declarar, a solicitud del interesado, cuando alguno de esos jueces ha devenido inamovible;
 
-VI.- Distribuir el trabajo de alguna de las Salas del Tribunal que estuviere recargada en su despacho a otra que no se encontrare en ese caso, aun cuando no sean del mismo ramo;
+VI.- Designar, mediante insaculación, los magistrados numerarios que deban integrar el Tribunal Estatal de Elecciones del Estado y, por votación, a los magistrados supernumerarios que deban cubrir su ausencia;
 
-VII.- Designar alguna Sala o Juzgado para que tramite y ponga en estado de resolución los asuntos que el Pleno estime deban ser tratados de esa manera, presentando el proyecto respectivo;
+VII.- Encomendar el trámite y dictamen de algún asunto cuya resolución corresponda al Pleno a algún magistrado supernumerario o a alguna de las salas o juzgados;
 
-VIII.- Imponer correcciones disciplinarias y conocer de las quejas que se presenten en contra del Presidente y los Magistrados del Tribunal;
+VIII.- Asignar el trabajo de alguna de las salas que estuviere recargada en su despacho a otra u otras, aún cuando no fueren del mismo ramo;
 
-IX.- Conocer de las reclamaciones que, en los términos de esta Ley, se formulen contra providencias o acuerdos del Presidente del Tribunal;
+IX.- Crear y suprimir juzgados, señalar las poblaciones donde deben residir y cambiar su ubicación;
 
-X.- Modificar o revocar a pedimento de alguno de los Magistrados, los acuerdos tomados en sesiones anteriores;
+X.- Nombrar, cesar o cambiar de adscripción a jueces, secretarios y notificadores, así como a funcionarios y empleados del tribunal;
 
-XI.- Conocer y resolver de las recusaciones contra Magistrados;
+XI.- Ordenar visitas de inspección a salas, juzgados y demás dependencias del Supremo Tribunal así como a los locales de internación de procesados;
 
-XII.- Conceder licencias a funcionarios y empleados para separarse de sus cargos o empleos por más de diez días y hasta por el término que señala la Constitución del Estado, con excepción de los Magistrados;
+XII.- Crear y suprimir secretarías auxiliares del Supremo Tribunal y las demás dependencias necesarias para su eficaz administración;
 
-XIII.- Dirimir las cuestiones de competencia que se susciten entre las Salas de Apelación y las que pudieran plantearse entre éstos y los Jueces de Primera Instancia;
+XIII.- Aumentar temporalmente el número de funcionarios o empleados del Poder Judicial, cuando así lo requiera las necesidades de trabajo;
 
-XIV.- Expedir disposiciones reglamentarias de la presente Ley;
+XIV.- Aprobar los nombramientos que hicieran los jueces de los secretarios del juzgado;
 
-XV Crear o suprimir Salas o Juzgados cuando sea necesario para la adecuada impartición de justicia. En todos estos casos, el acuerdo relativo se publicará por una sola vez en el Periódico Oficial del Estado;
+XV.- Conceder licencias a funcionarios y empleados para separarse de sus cargos, salvo que esta atribución corresponda a otras instancias del Poder Judicial o de la administración pública;
 
-XVI.- Decidir los juicios de oposición a que se refieren los Códigos Fiscal y Municipal del Estado;
+XVI.- Resolver, siempre que no sea competencia de otro órgano de autoridad, las controversias que se suscitaren entre los Poderes Legislativo y el Ejecutivo del Estado;
 
-XVII.- Nombrar, remover o cambiar la adscripción de los Jueces del Estado;
+XVII.- Resolver las controversias entre los ayuntamientos y entre éstos con el Legislativo o con el Ejecutivo del Estado;
 
-XVIII.- Nombrar, remover y cambiar libremente la adscripción de los funcionarios y empleados del Supremo Tribunal de Justicia;
+XVIII.- Conocer de las quejas planteadas contra los órganos de autoridad por violación de alguno de los derechos de los gobernados establecidos en los artículos 6, 7 y 8 de la Constitución del Estado;
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 1989)</small>
+> <small>(F. DE E., P.O. 4 DE FEBRERO DE 1995)</small>
 
-XIX.- Nombrar, remover y cambiar libremente la adscripción de los notificadores de los Juzgados del Estado;
+XIX.- Dirimir las cuestiones de competencia entre las salas y entre éstas y los juzgados;
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 1989)</small>
+> <small>(F. DE E., P.O. 4 DE FEBRERO DE 1995)</small>
 
-XX.- Aprobar los nombramientos que de Secretarios de Acuerdos y proyectistas hagan los Jueces del Estado;
+XX.- Conocer y resolver las recusaciones hechas valer respecto a los magistrados;
 
-XXI.- Disponer porque lo considere conveniente para el mejor servicio público, el cambio de ubicación de los Juzgados del Estado;
+XXI.- Conocer de las quejas contra el Presidente del Tribunal, magistrados y jueces. En su caso, imponer las correcciones disciplinarias que correspondan;
 
-XXII.- Designar el jurado que ha de calificar los méritos de los aspirantes a cubrir los puestos que conforme a esta Ley deban ser concursados;
+XXII.- Revocar, modificar o confirmar las providencias provisionales que hubiere tomado el Presidente del Tribunal;
 
-XXIII.- Hacer la declaración, a petición del interesado, cuando un Juez de Primera Instancia ha adquirido inamovilidad;
+XXIII.- Revocar o modificar a petición de alguno de los magistrados, los acuerdos adoptados en sesiones anteriores;
 
-XXIV.- Ordenar la práctica de visitas para cerciorarse de la conducta de los Magistrados, Jueces y Encargados de las Dependencias del Supremo Tribunal, así como a los establecimientos carcelarios o correccionales del Estado;
+XXIV.- Autorizar el cambio de radicación de los procesos penales, a petición del inculpado o de la Procuraduría General de Justicia, si mediare alguna razón concreta y grave que lo justifique;
 
-XXV.- Crear Secretarías Generales Auxiliares cuando la atención de los asuntos así lo requiera y reglamentar su funcionamiento;
+XXV.- Resolver las contradicciones de criterios jurisdiccionales que se manifestaren entre las salas del Tribunal;
 
-XXVI.- Autorizar el cambio de residencia de los presos y del lugar de radicación de sus procesos en las hipótesis siguientes:
+XXVI.- Iniciar ante el Congreso leyes y decretos en materia civil, incluida la familiar, penal, procesal y de organización de tribunales;
 
-a).- Cuando así lo solicite el procesado. En este caso, el Pleno, previa vista que dé al Procurador General de Justicia e informe que recabe del Juez sobre el estado del proceso, resolverá lo pertinente tomando en cuenta que no se perjudique el interés público; y
+XXVII.- Interpretar, con efectos vinculatorios para los tribunales del Estado, las disposiciones de esta Ley, de sus reglamentos y de las leyes a que se refiere la fracción anterior;
 
-b).- Cuando así lo solicite el Procurador General de Justicia del Estado, siempre que el delito imputado al procesado sea grave o el establecimiento carcelario donde se encuentre recluido no presente las seguridades debidas y pueda favorecer su evasión.
+XXVIII.- Aprobar los reglamentos interiores, incluídos todos los que fueren necesarios para proveer a la observancia de esta Ley;
 
-En ambos casos los Jueces residentes en el lugar del cambio, serán competentes para conocer de los procesos respectivos;
+XXIX.- Formular el Proyecto de Presupuesto Anual de Egresos del Poder Judicial del Estado y ejercer el que fuere aprobado;
 
-XXVII.- Autorizar el cambio de radicación de los procesos a Juzgado competente del lugar diverso a donde se encuentren radicados, cuando lo solicite el procesado que esté disfrutando de libertad bajo caución o se le haya dictado auto de sujeción a proceso. De la petición se dará vista al Procurador General de Justicia;
+XXX.- Autorizar las erogaciones extraordinarias que deban realizarse para una mejor impartición de justicia y mayor eficacia de la administración del Supremo Tribunal;
 
-XXVIII.- Aumentar temporalmente el número de funcionarios o empleados del Supremo Tribunal, sus Dependencias Administrativas o de los Juzgados, cuando así lo requieran las necesidades de trabajo;
+XXXI.- Revisar y, en su caso, aprobar la cuenta de gastos del Poder Judicial;
 
-XXIX.- Revisar y en su caso aprobar, el proyecto de Presupuesto Anual que se someta a su consideración por el Presidente;
+XXXII.- Fijar las vacaciones del personal del Poder judicial y los días en que no habrá actuaciones judiciales;
 
-XXX.- Autorizar las erogaciones extraordinarias que tengan que realizarse para la mejor administración de justicia o el servicio público que prestan las Dependencias Administrativas del Tribunal;
+XXXIII.- Conceder estímulos y recompensas a los servidores del Poder Judicial;
 
-XXXI.- Revisar y en su caso aprobar, la cuenta de gastos del Poder Judicial;
+XXXIV.- Organizar instituciones para mejorar el nivel profesional de los funcionarios y empleados del Poder Judicial y editar publicaciones para difundir las actividades forenses y la cultura jurídica;
 
-XXXII.- Aprobar, cuando lo estime necesario, los honorarios que deban cubrirse a peritos;
+XXXV.- Crear bibliotecas jurídicas en las cabeceras de los distritos judiciales;
 
-XXXIII.- Crear las Dependencias Administrativas del Supremo Tribunal que sean necesarias para la buena marcha de la administración de justicia, así como establecer su reglamentación;
+XXXVI.- Realizar actividades de conmemoración y de reconocimiento de personas y hechos relacionados con el Poder Judicial;
 
-XXXIV.- Ejercer todas las atribuciones que la ley confiera en relación al fondo Auxiliar para la Administración de Justicia;
+XXXVII.- Dictar las medidas pertinentes para que la administración de justicia sea expedita, pronta y cumplida así como para que se observen puntualidad y disciplina en el ejercicio de la misma. Y
 
-XXXV.- Fijar los períodos de vacaciones que deban disfrutar los funcionarios y empleados del Poder Judicial, tomando las providencias necesarias en materia penal;
+XXXVIII.- Las demás atribuciones que estuvieren expresamente establecidas en la Constitución Política del Estado o derivaren de ésta, así como las conferidas por las leyes.
 
-XXXVI.- Establecer cursos académicos para mejorar el nivel técnico y funcional de los funcionarios y empleados del Poder Judicial, designando las comisiones para tal efecto;
+> <small>(F. DE E., P.O. 4 DE FEBRERO DE 1995)</small>
 
-XXXVII.- Conceder estímulos y recompensas a los miembros del Poder Judicial;
-
-XXXVIII.- Organizar actos conmemorativos o reconocimientos en relación a personas, Instituciones, fechas o hechos relativos al Poder Judicial, estableciendo las bases y el procedimiento para ello;
-
-XXXIX.- Ordenar las publicaciones que estime pertinentes para dar a conocer las actividades del poder judicial o las que sean de interés general para el Foro;
-
-XL.- Emitir opiniones interpretativas, con efectos vinculatorios para los demás Tribunales del Estado, de las disposiciones de esta Ley Orgánica y su Reglamento;
-
-XLI.- Tomar las determinaciones necesarias para la organización y control del servicio de fotocopiado que en el Estado presta el Supremo Tribunal; y
-
-XLII.- Las demás que le confieran las leyes.
+Sin perjuicio de darles mayor difusión, se publicarán en el Periódico Oficial del Estado las decisiones relacionadas con las facultades señaladas en las fracciones I, II, III, IV, V, VI, IX, XXV, XXVII, XXVIII, XXXI y XXXII de este Artículo.
 
 ### CAPITULO III. DEL PRESIDENTE
 
@@ -515,25 +559,31 @@ El Presidente del Supremo Tribunal de Justicia lo será también del Tribunal Pl
 
 La renuncia al cargo de Presidente no implica al de Magistrado.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 53.
 
-Las ausencias del Presidente que no excedan de diez días, se cubrirán por su orden por los otros Magistrados, empezando por los de las Salas Civiles y continuando con los de las Penales. El Magistrado que sustituya al Presidente, continuará encargado del despacho de su Sala. Tratándose de ausencias de hasta cinco días, bastará el aviso del Presidente a quien deba sustituirlo; si excede de ese término pero no de diez, deberá obtener autorización por escrito del Tribunal Pleno.
+Las ausencias del Presidente del Supremo Tribunal menores a veinte días se cubrirán, por su orden, por los magistrados penales y, a falta de éstos, por los civiles. Si exceden de ese lapso pero no de treinta días, el Presidente designará al magistrado que deba sustituirlo. En un caso y en otro el sustituto continuará en el despacho de la sala de que fuere titular. Si las ausencias fueran por más tiempo, el Pleno eligirá (sic) entre sus miembros a quien ejerza la Presidencia.
 
-Si las ausencias del Presidente exceden de diez días pero no de treinta, éste designará quien deba sustituirlo en su encargo. Si exceden de treinta días, el Pleno lo elegirá de entre sus miembros por el término de la ausencia.
-
-Tratándose de ausencias absolutas, el Pleno en sesión extraordinaria fijada para ese único objeto, elegirá Presidente de entre sus miembros para concluir el período que reste. La sesión se celebrará de acuerdo con el procedimiento que este Capítulo establece para la elección de Presidente y estará presidido por el Magistrado que conforme a esta Ley supla sus ausencias accidentales, quien continuará hasta en tanto tome posesión de su cargo quien resulte electo Presidente.
+Si se trata de faltas de asistencia menores de cinco días, bastará que el Presidente dé aviso a quien deba sustituirlo, si excedieran ese lapso deberá mediar autorización del Pleno.
 
 ###### ARTICULO 54.
 
 Cuando el Presidente se inhiba del trámite de un asunto de su competencia, conocerá de éste el Magistrado que conforme a la ley deba suplirlo en sus ausencias accidentales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 55.
 
-Son atribuciones del Presidente del Supremo Tribunal de Justicia las siguientes:
+Son atribuciones del Presidente del Supremo Tribunal:
 
-I.- Representar al Supremo Tribunal en los actos oficiales. Podrá designar a los Magistrados o una comisión de ellos para tal efecto por razones especiales;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-II.- Presidir las sesiones del Pleno con voto de calidad;
+I.- Representar al Poder Judicial del Estado y, en particular, al Supremo Tribunal de Justicia en actos jurídicos y ceremoniales. Podrá delegar su representación, si así lo considera conveniente, en uno o más magistrados;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+II.- Convocar, presidir y dirigir los debates del Pleno y votar los acuerdos que se tomen, teniendo voto de calidad en caso de empate;
 
 III.- Distribuir por riguroso turno, los asuntos de la competencia de las Salas;
 
@@ -549,7 +599,9 @@ VIII.- Proveer lo necesario para que los acuerdos tomados por el Pleno sean ejec
 
 IX.- Afectar las partidas del Presupuesto con autorización del Pleno;
 
-X.- Someter a la consideración del Pleno el proyecto de Presupuesto de Egresos del Poder Judicial;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+X.- Someter oportunamente a consideración del Pleno el anteproyecto de Presupuesto Anual de Egresos del Poder Judicial y una vez aprobado comunicarlo, antes del treinta de octubre, al Gobernador del Estado para los efectos establecidos por el artículo 166 de la Constitución Política del Estado;
 
 XI.- Proveer de manera provisional los asuntos que sean de la competencia del Pleno y en su oportunidad, dar cuenta al mismo para su resolución definitiva;
 
@@ -559,7 +611,9 @@ XIII.- Recibir la protesta de los Jueces de Primera Instancia del Estado, así c
 
 XIV.- Encomendar a los Jueces del Estado, conforme a su ramo, la práctica de diligencias en asuntos de su competencia o del Pleno;
 
-XV.- Recibir reclamaciones sobre demoras, excesos o faltas en el despacho de los negocios por las Salas, Juzgados y Dependencias Administrativas. Previo informe del funcionario o Encargado respectivo dictará, si las fallas fueren leves, las providencias oportunas para su corrección y si fueren graves o constituyen una infracción de las consignadas en las leyes penales, además de dictar las providencias necesarias para que el mal no continúe, consignará el caso a quien corresponda. Si lo estima necesario, ordenará al Juez que envíe el asunto en consulta;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+XV.- Tramitar las quejas presentadas por faltas oficiales de los magistrados, jueces, funcionarios y empleados de la Presidencia y, en su caso, imponer las sanciones correspondientes. Además tomará las providencias oportunas para hacer cesar las irregularidades que se reclamen;
 
 XVI.- Practicar visitas administrativas a las Salas, Juzgados, establecimientos carcelarios, casas correccionales y demás dependencias de los diferentes Distritos Judiciales, dando cuenta al Pleno de las irregularidades que advierta, pudiendo dictar, en su caso, las medidas inmediatas que sean necesarias para la corrección de aquéllas;
 
@@ -657,7 +711,9 @@ X.- Encomendar a los Jueces del Estado conforme a su ramo, la práctica de dilig
 
 XI.- Proveer en la esfera administrativa todo lo necesario para el buen despacho de la oficina;
 
-XII.- Constituirse, los de las Salas Civiles, por riguroso turno, en instructores en los juicios de oposición, hasta poner el asunto en estado de resolución, presentando al Pleno el proyecto correspondiente; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+XII.- Otorgar licencia al personal de la Sala hasta por diez días, comunicando su concesión a la Secretaría General del Tribunal;
 
 XIII.- Ejercer las demás atribuciones que les señalen las leyes.
 
@@ -679,17 +735,23 @@ El Tribunal de Alzada al pronunciar sus resoluciones de segunda instancia sancio
 
 ### CAPITULO V. DE LAS AUSENCIAS DE LOS MAGISTRADOS
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 66.
 
-Los magistrados podrán ausentarse del despacho hasta por cinco días con aviso al Presidente del Tribunal. Si la ausencia excede de cinco pero no de diez días, deberán obtener autorización por escrito del Tribunal Pleno. La omisión del aviso oportuno será motivo de responsabilidad del Magistrado.
+Los magistrados podrán ausentarse del despacho hasta por cinco días, con sólo dar aviso al Presidente. Si su ausencia excede de ese plazo, deberán obtener autorización del Pleno.
+
+(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994) (F. DE E., P.O. 4 DE FEBRERO DE 1995)
 
 ###### ARTICULO 67.
 
-En los casos de ausencias accidentales de los Magistrados, el Secretario de Acuerdos adscrito a la Sala respectiva quedará a cargo de ella para el despacho de los asuntos sin llegar a dictar sentencia definitiva, actuando con aquel que deba suplirlo en sus ausencias de acuerdo con esta Ley, el que asumirá todas sus funciones.
+En el caso de ausencia accidental, que no exceda de cinco días hábiles de los Magistrados, el Secretario de Acuerdos adscrito a la Sala respectiva quedará a cargo de ella para el despacho de los asuntos sin llegar a dictar sentencia definitiva actuando con aquél que deba suplirlo en sus ausencias de acuerdo con esta Ley el que asumirá todas sus funciones.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 68.
 
-Las ausencias temporales o absolutas de los Magistrados serán suplidas en los términos que señale la Constitución Política del Estado. En todo caso, las ausencias serán cubiertas como lo señala el artículo anterior, hasta que tome posesión de su cargo aquél que hubiere sido designado como Magistrado para suplirlas.
+La ausencia absoluta, temporal o accidental que exceda de cinco días hábiles, de los Magistrados Numerarios será cubierta interinamente por los Supernumerarios, hasta que tome posesión quién fuera designado como Magistrado, en el caso de ausencia absoluta o se reintegre a su cargo el Magistrado ausente.
 
 ### CAPITULO VI. DEL SECRETARIO GENERAL
 
@@ -973,9 +1035,11 @@ En los Archivos de los Juzgados y las Dependencias del Supremo Tribunal, se depo
 
 ### CAPITULO X. DE LA BIBLIOTECA
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 98.
 
-La Biblioteca del Supremo Tribunal de Justicia estará bajo la vigilancia del Presidente y del Secretario General y el cuidado de un Encargado, contando además con el número de empleados que determine el Pleno y admita el Presupuesto. El Encargado de la Biblioteca deberá ser especializado en el área y los emolumentos que percibirá por sus servicios serán los mismos que el Presupuesto de Egresos señale a los Secretarios de Juzgado de Primera Instancia de la ciudad de Chihuahua.
+La Biblioteca Central del Supremo Tribunal de Justicia estará bajo la vigilancia del Presidente y del Secretario General y al cuidado de un encargado, con especialización en el área. Los emolumentos que éste perciba serán equivalentes a los de un secretario de juzgado de primera instancia de la Ciudad de Chihuahua.
 
 ###### ARTICULO 99.
 
@@ -1395,7 +1459,11 @@ III.- Sufragar aquellos gastos que el Pleno estime necesarios y convenientes par
 
 ### CAPITULO I. DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ### CAPITULO II. DE LOS JUZGADOS MENORES
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ### CAPITULO III. DE LOS JUZGADOS DE PAZ
 
@@ -1403,13 +1471,13 @@ III.- Sufragar aquellos gastos que el Pleno estime necesarios y convenientes par
 
 ### CAPITULO IV. DISPOSICIONES COMUNES A LOS JUZGADOS DEL ESTADO
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 146.
 
-Los Juzgados de Primera Instancia pueden ser de lo Civil, de lo Penal, de lo Familiar o Mixtos, ejercerán jurisdicción en todo el Distrito Judicial de su adscripción y se instalarán en la cabecera del mismo.
+Los juzgados de primera instancia podrán ser de los ramos civil, familiar o penal, tendrán jurisdicción en todo el distrito y residirán en su cabecera, salvo determinación del Pleno en sentido diverso. Cuando sólo haya un juzgado de primera instancia tendrá jurisdicción mixta y si hubiere dos, uno será del ramo civil y otro del penal. Cuando haya dos o más del mismo ramo se les denominará en forma ordinal.
 
-En los Distritos en que haya solamente un Juzgado, su jurisdicción será mixta, conociendo del ramo civil, familiar y penal. Donde haya dos, uno será del ramo civil y el otro del ramo penal. En el caso de que haya dos o más Juzgados del mismo ramo, se les designará en forma ordinal.
-
-Si en un Distrito no existieren Juzgados de lo Familiar, conocerán de esa materia los Civiles o los Mixtos. Si donde se encuentran instalados los Juzgados de Primera Instancia no hubieran Juzgados Menores o de Paz, aquéllos tendrán competencia para conocer de los asuntos que a éstos correspondan.
+Los jueces civiles de primera instancia conocerán de los asuntos de lo familiar, donde no hubiere juzgados del ramo. Si en algún municipio no hay juzgados menores ni de paz los asuntos de su competencia corresponderán a los jueces de primera instancia, según su ramo.
 
 ###### ARTICULO 147.
 
@@ -1423,15 +1491,17 @@ Los Jueces de Primera Instancia serán nombrados por el Pleno en la forma y tér
 
 En asuntos de su competencia y cuando su mejor despacho lo requiera, podrán los Jueces de Primera Instancia trasladarse del lugar de su residencia a otro punto de su Distrito, previa autorización del Presidente del Supremo Tribunal o cuando éste o el Pleno así lo dispongan. En casos de urgencia que se presenten en asuntos del ramo penal o del familiar y que el Juez calificará bajo su más estrecha responsabilidad, podrá disponer el traslado inmediato del personal del Juzgado del lugar de su ubicación a otro punto de su Distrito, previo aviso al Presidente del Tribunal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MAYO DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 150.
 
-Corresponde a los Jueces de Primera Instancia, según sea el caso:
+Corresponde a los jueces de primera instancia de acuerdo a su ramo:
 
 I.- Conocer de los asuntos civiles, familiares o, penales que no estén expresamente encomendados a otra autoridad judicial y los que en forma explícita les señalen las leyes;
 
-II.- Revisar, los Jueces Penales, de oficio, los autos de formal prisión dictados por los Jueces Menores de su jurisdicción, cuando éstos hubieren practicado en su auxilio las primeras diligencias de un proceso a fin de corregir, si existieran, deficiencias de forma y ajustarlos a lo dispuesto por el artículo 19 de la Constitución Federal;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+II.- Revisar de oficio el auto de definición de la situación jurídica de los inculpados, en las causas que hubieren iniciado en su auxilio jueces de menor jerarquía, con el fin de corregir las deficiencias formales de que pudiera adolecer y con el de reponer el procedimiento, si mediare algún vicio procesal que así lo ameritara;
 
 III.- Calificar las excusas y recusaciones de sus Secretarios, las excusas de sus Notificadores, así como las recusaciones de los Jueces Menores de sus Distritos en los asuntos de su ramo, siguiendo en su caso el turno respectivo;
 
@@ -1439,7 +1509,9 @@ IV.- Dirimir los conflictos de competencia que se susciten entre los Jueces Meno
 
 V.- Imponer las correcciones disciplinarias que les autoricen las leyes;
 
-VI.- Remitir al Presidente del Tribunal, dentro de los cinco primeros días del mes, una noticia del movimiento de negocios habidos en el Juzgado durante el mes inmediato anterior, especificando la naturaleza de las resoluciones pronunciadas y el estado que guarden los asuntos de los que conocen;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+VI.- Otorgar licencias hasta por diez días al personal del juzgado y comunicar su concesión a la Secretaría General del Tribunal;
 
 VII.- Asesorar a los Jueces Menores y, en su caso, a los de Paz de sus respectivos Distritos en asuntos de su ramo;
 
@@ -1454,6 +1526,8 @@ X.- Vigilar y controlar a todos los funcionarios y empleados adscritos a su Juzg
 XI.- Resolver las quejas que se presenten en contra de los funcionarios y empleados en los casos que la ley determine su intervención;
 
 XII.- Tomar la protesta de ley a los Jueces Menores de su Distrito. En caso de que haya varios de Primera Instancia, la tomará el de más baja asignación que conozca de la materia civil;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 XIII.- Autorizar a sus Secretarios para que realicen las diligencias que a ellos les correspondan, cuando el despacho de los asuntos del Juzgado así lo requiera; y
 
@@ -1505,11 +1579,13 @@ III.- Si hubiere varios Jueces de Primera Instancia del mismo ramo, asesorarán 
 
 IV.- Si el Juez asesor es lego, podrá excusarse de asesorar pasando el negocio al Juez Letrado que corresponda de acuerdo con las disposiciones anteriores.
 
-### CAPITULO I. DE LAS FALTAS OFICIALES
+### CAPITULO I
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 157.
 
-Los Juzgados Menores ejercerán jurisdicción en el Municipio de su adscripción y se instalarán en la cabecera del mismo.
+Los juzgados menores ejercerán jurisdicción en el municipio correspondiente y se instalarán en su cabecera, salvo determinación del Pleno en sentido diverso.
 
 ###### ARTICULO 158.
 
@@ -1519,15 +1595,13 @@ El Pleno del Supremo Tribunal de Justicia señalará los Municipios en los que h
 
 Los Jueces Menores rendirán la protesta de ley ante el Juez de Primera Instancia de su adscripción.
 
+(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994) (F. DE E., P.O. 4 DE FEBRERO DE 1995)
+
 ###### ARTICULO 160.
 
-Para ser Juez Menor se requiere:
+Para ser Juez Menor o de Paz se requiere ser chihuahuense, mayor de veinticinco años, sin antecedentes penales por delitos dolosos y de probidad notoria e intachable. No podrán desempeñar esos cargos los Ministros de cultos religiosos, salvo lo establecido en el Artículo 14 de la Ley de Asociaciones Religiosas y Culto Público.
 
-I.- Ser mayor de veinticinco años;
-
-II.- Poseer el día del nombramiento, con antigüedad mínima de un año, título profesional de Licenciado en Derecho expedido por autoridad legalmente facultada para ello. Este requisito se dispensará si en el lugar de residencia del Juzgado no hubiere personas con ese título o habiéndolas, no acepten desempeñar el puesto; y
-
-III.- Cumplir con lo preceptuado por la fracción III del artículo 111 de la Constitución Política del Estado.
+Para ser juez menor se exigirá además ser pasante o licenciado en derecho, salvo que en el lugar de residencia del juzgado no hubiere personas que tengan esa preparación o las que la tuvieren no aceptaren o no pudieren desempeñar el cargo.
 
 ###### ARTICULO 161.
 
@@ -1537,21 +1611,27 @@ En caso de ausencia absoluta de los Jueces Menores, el Pleno del Tribunal hará 
 
 En caso de excusa o recusación de un Juez Menor, conocerá del negocio el Menor del Municipio más cercano, aplicándose para esto último las reglas fijadas para los Jueces de Primera Instancia. Al separarse el Juez inhibido de sus funciones por más de noventa días o definitivamente, volverá el asunto al Juzgado de su origen.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 163.
 
-Corresponde a los Jueces Menores:
+Corresponde a los jueces menores:
 
-I.- Conocer de los negocios civiles cuya cuantía exceda de diez pero no de cien veces el salario mínimo vigente en la ciudad de Chihuahua al momento de iniciarse el procedimiento. En los lugares donde no hubiere Juez de Paz, no regirá el límite inferior;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+I.- Conocer de juicios civiles cuya cuantía supere cien pero no quinientas veces el salario mínimo, al momento de iniciar el procedimiento. En lugares donde no hubiere jueces de paz no valdrá el límite inferior;
 
 II.- Conocer de los negocios civiles que versen sobre arrendamiento o cualquier otra prestación periódica, cuyo importe anual se encuentre dentro del límite establecido en la fracción anterior;
 
 III.- Conocer de las providencias que sean competencia de los Jueces de Primera Instancia en los lugares donde no existan éstos y la ley así lo autorice;
 
-IV.- Conocer de los juicios que se instruyan con motivo de alguno de los delitos siguientes:
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+IV.- Conocer de los procedimientos penales que se instruyan por alguno de los siguientes delitos:
 
 a).- Desobediencia y resistencia de particulares;
 
-b).- Oposición a que se ejecute alguna obra o trabajos públicos;
+b).- Oposición a obra o trabajos públicos;
 
 c).- Quebrantamiento de sellos;
 
@@ -1559,27 +1639,29 @@ d).- Quebrantamiento de sanciones;
 
 e).- Ultrajes a la moral pública;
 
-f).- Lesiones que no pongan en peligro la vida, no tarden en sanar más de quince días y no dejen consecuencias médico legales;
+f).- Lesiones que no pongan en peligro la vida y no dejen consecuencias médicos (sic) legales;
 
 g).- Incumplimiento de las obligaciones de asistencia familiar;
 
-h).- Omisión de cuidado;
+h).- Omisión de cuidado o de auxilio a personas en peligro o a lesionados;
 
-i).- Omisión de auxilio a personas en peligro;
+i).- Disparo de arma de fuego y ataque peligroso;
 
-j).- Omisión de auxilios a lesionados;
+j).- Coacción y amenazas;
 
-k).- Disparo de arma de fuego y ataque peligroso;
+k).- Adulterio;
 
-l).- Coacción o amenazas;
+l).- Estupro;
 
-m).- Allanamiento de morada;
+m).- Abusos sexuales, salvo que merecieren penalidad agravada;
 
-n).- Robo, fraude, abuso de confianza y daños, por valor hasta de cien veces el salario mínimo;
+n).- Robo, fraude, abuso de confianza y administración fraudulenta, si su monto fuere inferior a quinientas veces el salario mínimo, al momento de la comisión del delito;
 
-o).- Encubrimiento por favorecimiento o receptación, cuando el delito que haya sido objeto de él sea de su competencia; y
+ñ).- Daños intencionales, si su monto fuere inferior a quinientas veces el salario mínimo, al momento de la comisión del delito, y daños por imprudencia, cualquiera que fuere su cuantía;
 
-p).- De todos aquellos delitos que tengan pena alternativa o sólo pecuniaria;
+o).- Encubrimiento por favorecimiento o receptación, si el delito principal es de los reservados a su jurisdicción. Y
+
+p).- De los delitos que tengan pena alternativa o sólo pecuniaria.
 
 V.- Practicar, cuando haya detenido, las primeras diligencias en los procesos por delitos de la competencia de los Jueces de Primera Instancia, donde no los hubiere, hasta resolver la situación jurídica;
 
@@ -1591,7 +1673,9 @@ VIII.- Resolver las quejas interpuestas en contra de sus subalternos en los caso
 
 IX.- Vigilar y controlar al personal subalterno de su Juzgado;
 
-X.- Remitir al Presidente del Tribunal, una noticia mensual del movimiento del Juzgado, en los mismos términos en que esta Ley señala para los Jueces de Primera Instancia;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+X.- Conceder licencias al personal del juzgado hasta por diez días, y comunicar su otorgamiento a la Secretaría General del Tribunal;
 
 XI.- Practicar las diligencias que les encomienden sus superiores;
 
@@ -1605,7 +1689,7 @@ XV.- Tomar la protesta de ley a los Jueces de Paz de su adscripción; y
 
 XVI.- Conocer de los demás asuntos que les faculten las leyes.
 
-### CAPITULO II. DEL PROCEDIMIENTO DE QUEJA PARA SANCIONAR LAS FALTAS OFICIALES
+### CAPITULO II
 
 ###### ARTICULO 164.
 
@@ -1619,11 +1703,15 @@ El Pleno del Supremo Tribunal de Justicia designará los lugares en que habrá J
 
 Los Juzgados de Paz se integrarán con un Juez, quien rendirá la protesta de ley ante el Juez Menor de la cabecera del Municipio de su adscripción. Los Jueces de Paz actuarán indistintamente con Secretario o con Testigos de Asistencia.
 
+(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1994) (F. DE E., P.O. 4 DE FEBRERO DE 1995)
+
 ###### ARTICULO 167.
 
-Corresponde conocer a los Jueces de Paz:
+Corresponde conocer a los jueces de paz:
 
-I.- De los negocios civiles cuya cuantía no exceda de diez veces el salario mínimo vigente en la ciudad de Chihuahua al momento de iniciarse el procedimiento;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+I.- De los negocios civiles cuya cuantía no exceda de cien veces el salario mínimo, al iniciar el procedimiento;
 
 II.- De los negocios civiles que versen sobre arrendamiento o cualquier otra prestación periódica cuyo importe anual no sobrepase la cantidad mencionada en la fracción anterior;
 
@@ -1633,7 +1721,9 @@ IV.- Calificar las excusas y recusaciones de sus Secretarios si los hay;
 
 V.- Imponer correcciones disciplinarias en los casos que lo determine la ley; y
 
-VI.- Los demás asuntos en que deban intervenir conforme a la ley.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+VI.- De la concesión de licencias al personal del juzgado hasta por diez días, cuyo otorgamiento comunicará a la Secretaría General del Tribunal.
 
 ###### ARTICULO 168.
 
@@ -1641,7 +1731,9 @@ Cuando un Juez de Paz se inhiba del conocimiento de un asunto, pasará al Juez d
 
 ###### ARTICULO 169.
 
-Cada Juzgado del Estado se integrará con un Juez y un Secretario que será de acuerdos y con los demás Secretarios, Notificadores, funcionarios y personal subalterno que autorice el Presupuesto.
+Cada juzgado se integrará por un juez, los secretarios de acuerdos y auxiliares, funcionarios y personal de confianza y de base que autorice el presupuesto.
+
+Los notificadores y ministros ejecutores se considerarán parte del personal del juzgado si no dependieren de alguna de las oficinas centrales.
 
 ###### ARTICULO 170.
 
@@ -1649,11 +1741,13 @@ En los Juzgados del Estado, el Juez será el jefe de oficina en el orden adminis
 
 Los Jueces proveerán en la esfera administrativa, todas las medidas necesarias para la buena marcha de la oficina a su cargo.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 171.
 
-Los Jueces del Estado deberán remitir, al Presidente del Tribunal, una noticia estadística anual, dentro de los primeros cinco días del mes de julio, informando del movimiento de negocios habidos durante el año inmediato anterior, especificando la naturaleza de las resoluciones pronunciadas y el estado que guarden los asuntos de los que conocen.
+Los jueces deberán remitir a la Presidencia del Supremo Tribunal una noticia estadística anual y otra mensual sobre el movimiento de negocios habido en el juzgado. La primera la enviarán dentro de los primeros cinco días de julio y la segunda en los primeros cinco días de cada mes.
 
-A los Jueces que no cumplan con la obligación a que alude este artículo, el Presidente del Tribunal podrá imponerles multa de hasta veinte veces el salario mínimo por vía de corrección disciplinaria.
+La omisión de esos deberes será sancionada con multa hasta de veinte veces el salario mínimo por el Presidente del Tribunal.
 
 ###### ARTICULO 172.
 
@@ -1761,29 +1855,39 @@ III.- Pedir el auxilio de la fuerza pública cuando fuere necesario para cumplir
 
 ## TITULO SEXTO. DE LA INAMOVILIDAD JUDICIAL
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 182.
 
-La inamovilidad es condición reservada para los Magistrados del Supremo Tribunal de Justicia y los Jueces de Primera Instancia del Estado y significa que sólo podrán ser removidos de sus cargos por las causas de responsabilidad que determine la Constitución Política del Estado, la Ley de Responsabilidades de los Servidores Públicos o esta Ley Orgánica.
+La inamovilidad es condición reservada a los magistrados y a los jueces de primera instancia por lo que no podrán ser destituidos sino por responsabilidad derivada de hechos ilícitos graves, previo procedimiento que se siga en su contra. Tampoco serán rebajados de la categoría salarial que tuvieren.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 183.
 
-La inamovilidad judicial es intransferible e inherente al cargo, se extingue con la renuncia o destitución y no constituye una condición laboral especial, mayor sueldo o prestaciones, ni el disfrute de privilegio o prerrogativa alguna.
+La inamovilidad sólo se extingue por destitución, renuncia o jubilación.
 
-El uso de una licencia para separarse temporalmente del cargo, no suspende ni extingue la inamovilidad adquirida.
+La concesión de licencia temporal no la suspende.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 184.
 
-Los Magistrados del Supremo Tribunal de Justicia y los Jueces de Primera Instancia del Estado durarán en su encargo tres años, al término de los cuales si los primeros fueren reelectos por el Congreso del Estado y los segundos ratificados por las dos terceras partes del número total de los Magistrados del Supremo Tribunal, serán inamovibles.
+Los magistrados del Supremo Tribunal de Justicia y los jueces de primera instancia serán nombrados por tres años y devendrán inamovibles si, al término de su encargo, los primeros son ratificados por el Congreso y los segundos por las dos terceras partes de los magistrados integrantes del Pleno.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 185.
 
-Los magistrados inamovibles no podrán ser cambiados de la Oficina de su Adscripción sin su consentimiento expreso.
+Se precisa el consentimiento de los magistrados inamovibles para ser adscritos a sala diversa de la que ocupan.
+
+Sólo el Congreso podrá separarlos de su cargo, mediante declaración de proceder en su contra por la probable responsabilidad que pudieran tener en algún delito o a consecuencia de sanción impuesta con motivo de haber sido sometidos a juicio político.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 186.
 
-A los Magistrados y Jueces que hayan adquirido inamovilidad, podrán aplicárseles libremente por la autoridad competente, las correcciones disciplinarias que esta Ley contempla, con excepción de la suspensión temporal o definitiva del cargo, pues en estos casos, tratándose de Magistrados, el Pleno, por el conducto debido, dará a conocer los hechos al Congreso del Estado para que proceda en los términos de la Constitución Política del Estado; tratándose de Jueces, la separación temporal del cargo como corrección disciplinaria podrán imponerla el Presidente o el Pleno del Tribunal indistintamente, pero en el caso de la remoción definitiva, requerirá que así lo acuerde el Pleno. Contra esta última resolución, no cabrá recurso alguno.
+Unicamente el Pleno del Supremo Tribunal de Justicia será el que imponga a los jueces inamovibles correcciones disciplinarias de separación temporal del cargo o de cesación definitiva de sus funciones.
 
 ## TITULO SEPTIMO. DE LAS VACACIONES, AUSENCIAS, LICENCIAS Y RENUNCIAS DE LOS FUNCIONARIOS Y EMPLEADOS DEL PODER JUDICIAL
 
@@ -1793,37 +1897,37 @@ Los funcionarios y empleados del Poder Judicial disfrutarán anualmente de veint
 
 También podrán concederse licencias a los funcionarios y empleados del Poder Judicial siempre y cuando hayan desempeñado un cargo o empleo por un mínimo de doce meses continuos, anteriores a la solicitud.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 188.
 
-Las ausencias de los funcionarios y empleados del Poder Judicial pueden ser absolutas, temporales o accidentales. Son absolutas las provenientes de muerte, renuncia o destitución; temporales las que sin ser absolutas exceden de diez días y accidentales las que no excedan de ese término. En cada caso, la ley determinará la forma en que se han de cubrir dichas ausencias.
+Las ausencias de los funcionarios y empleados pueden ser:
 
-Para computar el período de las ausencias y las licencias se tomarán en cuenta los días naturales.
+I.- Absolutas, si provienen de muerte, renuncia, destitución, jubilación o pensión;
+
+II.- Temporales, las que tuvieren causas diversas a las anteriores y excedieren de diez días naturales, o de veinte en el caso de los magistrados. Y
+
+III.- Accidentales, las que no excedan de esos plazos.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 189.
 
-En el plazo de un año, podrán concederse licencias que en su conjunto no excederán de diez días, con goce de sueldo, siempre que haya causa bastante a juicio de quien deba concederlas, en la forma siguiente:
+Las licencias con goce de sueldo sólo podrán concederse si mediare causa bastante y no excederán, en un año, de veinte días si se trata de magistrados y de diez días en cualquier otro caso. Salvo las situaciones previstas en otro ordenamiento legal.
 
-I.- A los Magistrados cuando pasen de cinco días, por el Tribunal Pleno;
-
-II.- A los Jueces del Estado, Secretario General, Oficial Mayor, Secretarios Adscritos a la Presidencia, Defensores de Oficio, Encargados y empleados del Archivo, Oficialías de Turnos, Biblioteca y Departamentos de Estudios Sicológicos y Socioeconómicos, por el Presidente del Tribunal;
-
-III.- A los Secretarios y empleados de las Salas, por el Magistrado de su adscripción con aviso al Secretario General;
-
-IV.- A los Secretarios de Acuerdos, Proyectistas, Notificadores y empleados de los Juzgados, por los Jueces de su adscripción, con aviso al Secretario General; y
-
-V.- En todos los demás casos, por el Presidente del Supremo Tribunal.
-
-A juicio del superior, las ausencias ocasionales de los funcionarios o empleados se tomarán en cuenta para el término máximo de las licencias a que esta disposición alude.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 190.
 
-En todos los casos en que las licencias excedan de diez días y no se trate de Magistrados, serán acordados por el Pleno, ante quien deberá formularse la solicitud con una anticipación mínima de diez días.
+El Pleno otorgará licencia por períodos mayores a los previstos en el artículo anterior al funcionario o empleado que sufriere enfermedad que le impida en forma absoluta el desempeño del cargo, según dictamen de médico autorizado por la Dirección de Pensiones Civiles del Estado.
 
-Las licencias por más de diez días con goce de sueldo, únicamente podrán concederse por causa de enfermedad, la que se justificará a satisfacción del Pleno. La enfermedad que motive la licencia ha de ser de las que impidan al funcionario o empleado desempeñar su cargo o empleo o de aquellas otras que, aunque no lo impidan, exijan para su curación que suspendan sus labores.
+El Presidente del Tribunal, por sí o a instancia del Pleno, podrá solicitar la opinión de otros facultativos para verificar la veracidad del informe.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 191.
 
-Ninguna licencia se concederá por tiempo indefinido ni podrá exceder del término que señale la Constitución Política del Estado para los miembros del Poder Judicial, salvo el caso de enfermedad debidamente justificada.
+Las licencias sin goce de sueldo no deberán otorgarse por más de seis meses.
 
 ###### ARTICULO 192.
 
@@ -1841,49 +1945,75 @@ La misma regla que señala el párrafo anterior, se seguirá para el caso de las
 
 ## TITULO OCTAVO. DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS Y EMPLEADOS DEL PODER JUDICIAL Y DEL PROCEDIMIENTO PARA SANCIONAR SUS FALTAS
 
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1994) (F. DE E., P.O. 4 DE FEBRERO DE 1995)
+
 ###### ARTICULO 195.
 
-Los funcionarios y empleados del Poder Judicial serán responsables de las faltas oficiales en que incurran.
+Los funcionarios y empleados del Poder Judicial serán responsables de las faltas oficiales en que incurran, independientemente de la responsabilidad penal o patrimonial que les pudiera resultar.
 
 ###### ARTICULO 196.
 
 Son faltas oficiales:
 
-I.- El abandono del cargo o empleo;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-II.- Actuar reiteradamente con ineficiencia e indisciplina en el ejercicio del cargo o empleo;
+I.- Abandonar el cargo o empleo;
 
-III.- Tratándose de Jueces inamovibles, la sensible baja en la calidad, eficiencia y disciplina que muestren en el desempeño del cargo;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+II.- Actuar reiteradamente con ineficiencia e indisciplina en su ejercicio;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+III.- Disminuir, los jueces que hubieren obtenido inamovilidad, la calidad y eficiencia de sus labores;
 
 IV.- Solicitar o recibir dádivas, agasajos, préstamos, obsequios u obtener cualquier clase de percepciones provenientes, directa o indirectamente, de alguna de las partes o de sus representantes, en negocio sometido a su conocimiento o en el que hayan de intervenir conforme a la ley;
 
-V.- Revelar los asuntos reservados de que se tenga conocimiento con motivo del ejercicio del cargo o empleo, causando con ello perjuicio económico o moral a alguna persona;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-VI.- Desobedecer sistemática o injustificadamente las ordenes que reciban de sus superiores;
+V.- Revelar datos sobre los que deba guardar reserva con motivo de la función;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+VI.- Desobedecer órdenes de sus superiores;
 
 VII.- Incurrir en faltas de probidad y honradez en el desempeño del cargo o empleo;
 
-VIII.- Realizar actos de violencia, amagos o malos tratamientos contra los superiores o compañeros o contra los familiares de unos u otros, dentro o fuera de las horas de servicio;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-IX.- Ocasionar daños o destruir intencionalmente o por descuido o negligencia edificios, obras, documentos, maquinaria y demás propiedad del Estado o comprometer con su imprudencia, la seguridad de éstos;
+VIII.- Realizar actos de violencia contra los demás servidores públicos con motivo de circunstancias relacionadas con el servicio;
 
-X.- Embriagarse habitualmente, hacer uso indebido de estupefacientes, practicar juegos prohibidos o presentarse al desempeño de las labores bajo el influjo del alcohol, sustancias tóxicas, narcóticos o drogas enervantes;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-XI.- No presentarse, sin causa justificada, al desempeño de la función o empleo, al expirar una licencia;
+IX.- Dañar intencionalmente o por descuido bienes del Estado o incurrir en imprudencia grave que pudiera comprometerlos;
 
-XII.- Faltar por más de tres días, sin causa justificada, dentro de un período de treinta días naturales;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-XIII.- Obtener o tratar de obtener por el desempeño de su cargo o empleo, beneficios adicionales a las prestaciones que reciban con cargo al Erario Público;
+X.- Presentarse de manera reiterada al desempeño de sus labores bajo el influjo de alcohol, tóxicos, narcóticos o enervantes;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+XI.- No presentarse al desempeño de su función o empleo al expirar su licencia, sin causa justificada;
+
+XII.- Faltar por más de tres días, sin causa justificada, dentro de un período de treinta días naturales.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+XIII.- Intervenir indebidamente como gestores en procedimientos judiciales o administrativos;
 
 XIV.- Desempeñar algún otro empleo, cargo o comisión oficial o particular, que la ley prohiba;
 
-XV.- Obtener copias o testimonios de constancias o documentos que obren en los expedientes, si no es por orden superior o lo autoriza expresamente la ley;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+XV.- Obtener copias o documentos de expedientes, si no mediare autorización;
 
 XVI.- Ocuparse de negocios extraños al desempeño de sus cargos o empleos durante las horas de despacho;
 
 XVII.- Demorar indebidamente el despacho de los negocios, ya sea por falta de cumplimiento de las obligaciones que imponen las leyes o de las que se deriven de las órdenes que con arreglo a las mismas reciban de sus superiores;
 
-XVIII.- Faltar sin causa justificada a sus respectivas oficinas, llegar tarde a ellas, no permanecer en el despacho durante el tiempo establecido por la ley o por el Pleno como horario de oficina o cerrar el despacho de su oficina, limitando indebidamente las horas de trabajo;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+XVIII.- No cumplir, de manera reiterada, con el horario de servicio;
 
 XIX.- Autorizar a un subordinado a no asistir a sus labores sin causa justificada u otorgarle indebidamente permisos, licencias, comisiones con goce parcial o total de sueldo, sin que lo requiera la prestación del servicio;
 
@@ -1891,7 +2021,9 @@ XX.- Extraer o permitir que se extraigan, en los casos en que la ley no lo autor
 
 XXI.- No atender con la debida corrección y diligencia a los litigantes y al público en general;
 
-XXII.- Observar conducta inmoral, dentro o fuera de las horas de trabajo;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+XXII.- Observar conducta inmoral durante el desempeño de su cargo;
 
 XXIII.- No informar a su superior jerárquico o al titular de su oficina, de todo acto u omisión de los funcionarios y empleados sujetos a su dirección y que puedan implicar inobservancias de las obligaciones propias del cargo o empleo;
 
@@ -1899,7 +2031,11 @@ XXIV.- Expedir con conocimiento de causa, nombramiento en favor de quien se encu
 
 XXV.- Dar tratos preferenciales a algunas personas con perjuicio de otras, sea cual fuere el motivo para ello; y
 
-XXVI.- Las demás infracciones u omisiones en que incurran respecto de los deberes que les imponen las disposiciones legales relativas.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+XXVI.- Las demás infracciones a los deberes impuestos por la ley o sus reglamentos;
+
+La autoridad que deba corregir la falta determinará la gravedad de la misma, de acuerdo con las circunstancias que mediaren en cada caso concreto.
 
 Las faltas contempladas de las fracciones I a la XIII son graves y su comisión ameritará el cese inmediato y definitivo del infractor en su cargo o empleo, sin responsabilidad para el Estado. La gravedad de las contempladas en el resto de la (sic) fracciones, será calificada por la autoridad para la aplicación de las correcciones disciplinarias que correspondan.
 
@@ -1933,13 +2069,29 @@ V.- La reincidencia; y
 
 VI.- Las demás circunstancias que se deriven del caso concreto.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 199.
 
-Las correcciones disciplinarias podrán imponerse de plano al percatarse la autoridad de las faltas cometidas por sus subalternos o a través del procedimiento de queja respectivo.
+Las faltas oficiales de los funcionarios y empleados del Poder Judicial se investigarán de oficio o a petición de parte y serán sancionadas:
+
+I.- Por el Pleno, las imputables a los magistrados. En este caso el Presidente del Supremo Tribunal desahogará el trámite relativo hasta dejar el asunto en estado de resolución y, si la queja fuera contra él, el procedimiento estará a cargo de quien deba sustituirlo;
+
+II.- Por el Presidente del Supremo Tribunal, las que se atribuyan a los jueces de primera instancia, funcionarios y empleados que dependan de la Presidencia, así como a los demás de servidores públicos que no estuvieren señalados de manera expresa en este artículo;
+
+III.- Por el magistrado, las atribuidas a los funcionarios y empleados de la sala correspondiente;
+
+IV.- Por el juez de primera instancia las atribuidas a los jueces menores o de paz del distrito judicial correspondiente. En caso de haber varios jueces la facultad de corrección corresponderá al juez de la materia con menor número de asignación;
+
+V.- Por los jueces las faltas atribuidas a los funcionarios y empleados del juzgado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 200.
 
-Cuando se imponga de oficio una corrección disciplinaria y el afectado no sea conforme, podrá ocurrir por escrito y alegando motivo fundado, dentro de los tres días siguientes al en que tenga conocimiento de la sanción, en revisión ante el Pleno del Tribunal, el cual, recabando los datos necesarios, resolverá en definitiva sobre la reclamación. Si la sanción la decretó el Pleno, el medio de impugnación será la reconsideración ante dicha autoridad.
+El funcionario o empleado a quien se hubiere impuesto alguna corrección disciplinaria podrá solicitar su revisión ante el Pleno, por escrito que presentará dentro de los tres días siguientes a la fecha en que quedó notificado. Si la sanción la decretó el Pleno, éste conocerá del recurso.
+
+La autoridad revisora recabará si lo juzga pertinente mayor información y su resolución será inimpugnable.
 
 ###### ARTICULO 201.
 
@@ -1949,37 +2101,43 @@ Los Encargados de las Dependencias Administrativas del Supremo Tribunal, podrán
 
 Siempre que el Pleno, los Magistrados, Jueces o Encargados de la Dependencias Administrativas del Supremo Tribunal, impongan correcciones disciplinarias, enviarán la constancia relativa e informe por escrito al Secretario General del Tribunal para que la comunicación se agregue al expediente del funcionario o empleado y, en su caso, se haga efectiva la sanción impuesta.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 203.
 
-La sentencia ejecutoriada que condene a un funcionario o empleado por la comisión de un delito intencional con motivo del ejercicio de su cargo o empleo, determinará su cese definitivo. Si la responsabilidad aun no ha sido dictaminada, podrá a juicio del Tribunal Pleno, suspenderlos por todo el tiempo que dure el procedimiento respectivo.
+El Pleno determinará si procede la suspensión en su cargo del servidor público que resulte procesado penalmente y decidirá si la sentencia condenatoria firme por delito ajeno a sus funciones amerita la cesación de su empleo.
 
-Tratándose de delitos cometidos fuera del desempeño del cargo o empleo que puedan dañar seriamente la reputación o confianza que el funcionario o empleado requiera para el ejercicio de aquéllos, se aplicará, en lo conducente, lo dispuesto en el párrafo anterior.
-
-El Pleno determinará si la comisión de delitos imprudenciales o la privación de la libertad del funcionario o empleado por cualquier causa, es motivo de suspensión de los efectos de su nombramiento.
+> <small>(DEROGADO, P.O. 28 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 204.
 
 El procedimiento de queja para sancionar las faltas oficiales se iniciará a petición de parte.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 205.
 
-Las quejas por faltas cometidas por los Magistrados del Supremo Tribunal de Justicia serán resueltas por el Presidente o el Tribunal Pleno, presentándose ante el primero, quien las tramitará hasta dejar el asunto en estado de resolución.
+Cuando el Presidente del Supremo Tribunal de Justicia instruya el procedimiento disciplinario podrá ordenar la separación provisional del cargo del servidor público a quien se atribuya una falta grave, si así conviene para el desarrollo de la indagación. Una vez tomada tal determinación la comunicará de inmediato al Pleno quien decidirá si debe ratificarse.
+
+Cuando otro funcionario sea el que lleve ese trámite sólo con la autorización del Presidente del Tribunal podrá adoptar la medida apuntada, que quedará sujeta finalmente a la revisión del Pleno.
+
+(F DE E., P.O. 4 DE FEBRERO DE 1995)
+
+Si se levanta la suspensión al servidor público sometido a investigación, o no resulta responsable, se le restituirá en sus funciones y recibirá las percepciones económicas que le correspondan.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 206.
 
-Las quejas por faltas de los funcionarios o empleados que a continuación se mencionan, serán presentadas y se corregirán:
+Las quejas de las personas afectadas, o de quienes las representen, en las que soliciten la imposición de alguna corrección disciplinaria contra un servidor público, se diligenciarán conforme a las siguientes reglas:
 
-I.- Las de los Jueces de Primera Instancia, por el Presidente del Tribunal. En caso de que a juicio de éste, la falta amerite el cese definitivo del infractor en sus funciones, dará cuenta al Pleno para que resuelva lo que sea procedente;
+I.- Deberán formularse por escrito en el que el promovente relate, bajo protesta de decir verdad, los hechos que la motivaren;
 
-II.- Las de los Jueces Menores y de Paz, por el Juez de Primera Instancia del Distrito Judicial correspondiente. En los Distritos que haya más de uno, el procedimiento se seguirá ante el Juez de la materia con menor número de asignación. Tratándose de la suspensión defintiva (sic) en el cargo, el Juez que conozca del asunto dará cuenta al Pleno para que se resuelva lo procedente;
+II.- Se desecharán las que sean de manifiesta improcedencia;
 
-III.- Las del Secretario General, Secretarios del Tribunal adscritos a la Presidencia y empleados de esta Dependencia o de la Secretaría General, por el Presidente del Supremo Tribunal;
+III.- Si el funcionario a quien se planteó la queja estima que se trata de un caso en que fácilmente pueden hacerse cesar las irregularidades reclamadas, recabará informe por la vía mas rápida y sugerirá a su subordinado tomar las medidas necesarias para ello. Si así fuere, dará por concluido el procedimiento y, si lo estima oportuno, se concretará a llamarle la atención verbalmente;
 
-IV.- Las de los Secretarios y empleados adscritos a las Salas, por el Magistrado de la adscripción;
-
-V.- Las de los Secretarios de Acuerdos, Proyectistas, Notificadores y empleados adscritos a los Juzgados del Estado, por el Juez de la adscripción; y
-
-VI.- En todos los demás casos no previstos en las fracciones anteriores, por el Presidente del Tribunal.
+IV.- En caso contrario, formará expediente y solicitará del órgano de autoridad contra quien se planteó la queja un informe que deberá rendir en diez días. En seguida se recibirán las pruebas ofrecidas en los escritos iniciales y las que el funcionario instructor considere oportunas. Luego, a la mayor brevedad, se emitirá la resolución, misma que será irrecurrible.
 
 ###### ARTICULO 207.
 
@@ -1987,19 +2145,11 @@ Cuando simultáneamente se hagan valer reclamaciones en contra de dos o más per
 
 ###### ARTICULO 208.
 
-Recibida la queja por le funcionario que deba tramitarla, formará expediente pidiendo el informe a la autoridad o persona contra quien se interpone, la cual deberá rendirlo dentro de un plazo que no excederá de diez días a partir de la fecha en que reciba la notificación; en caso de que no se rinda en el plazo indicado, se tendrán por ciertos los hechos de la queja y se procederá a aplicar la corrección disciplinaria correspondiente.
-
-Recibido el informe, si el caso lo amerita, se abrirá una dilación probatoria que no excederá de quince días comunes a las partes.
-
-Serán partes en el procedimiento el funcionario, empleado o persona en contra de quien se elevó la queja y el promovente de la misma. Las partes deberán, cuando el caso lo amerite, ofrecer desde sus escritos iniciales, las pruebas que pretendan desahogar. Si el quejoso omite tal ofrecimiento, se declarará la queja sin materia. Concluída la dilación probatoria, dentro de los ocho días siguientes se resolverá lo procedente.
-
-En la notificación de las resoluciones, el desahogo de pruebas y su calificación, se aplicará lo que disponga el Código de Procedimientos Civiles.
-
-Contra las resoluciones tomadas en el procedimiento de queja y las que pongan fin al mismo, no cabrá recurso alguno.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1994)
 
 ###### ARTICULO 209.
 
-En cualquier momento, antes o después de la iniciación del procedimiento disciplinario, se podrá acordar la suspensión temporal del presunto infractor en su cargo, empleo o comisión, si así conviniere para el desarrollo de la investigación y resolución respectivos. La suspensión temporal no prejuzga sobre la determinación final que se tome. Si la persona en contra de quien se interpuso la queja no resulta responsable de la falta, será restituída en el goce de sus derechos y se le cubrirán las percepciones que debió recibir durante el término de la suspensión.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1994)
 
 ###### ARTICULO 210.
 
@@ -2080,3 +2230,35 @@ P.O. 1 DE SEPTIEMBRE DE 1993.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Todos los negocios judiciales radicados dentro del Distrito Judicial Jiménez que se hayan surtido de la competencia anterior continuarán su curso hasta su fin.
+
+P.O. 28 DE DICIEMBRE DE 1994.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las reglas de competencia judicial establecidas en este Decreto se aplicarán a los procedimientos que se promueven a partir de la fecha a que alude el precepto anterior.
+
+> <small>(F. DE E., P.O. 4 DE FEBRERO DE 1995)</small>
+
+TERCERO.- En tanto se instituye una ley de organización y procedimientos del Tribunal de lo Contencioso Administrativo, las salas civiles del Supremo Tribunal de Justicia se constituirán por turno, en instructoras de los juicios de oposición, planteados ante éste. Les corresponderá poner el asunto en estado de resolución y el Pleno será quien dicte sentencia.
+
+> <small>(F. DE E., P.O. 4 DE FEBRERO DE 1995)</small>
+
+CUARTO.- Mientras no se expida una ley que regule la jurisdicción del Supremo Tribunal para dirimir las controversias constitucionales señaladas en las fracciones XIII y XIV del Artículo 109 de la Constitución Política del Estado se normarán por las siguientes bases:
+
+I.- La instrucción del procedimiento estará a cargo del Presidente del Supremo Tribunal.
+
+II.- Los escritos de demanda y contestación se ajustarán en lo dispuesto por el Código de Procedimientos Civiles del Estado para el juicio ordinario, con la salvedad de que en ellos se ofrecerán las pruebas que deban recibirse.
+
+III.- La asunción de las pruebas se concentrará, en lo posible, en una audiencia.
+
+IV.- Recibidas las probanzas, o si la cuestión versare tan sólo sobre un punto de derecho, se pondrán los autos a disposición de las partes, por cinco días comunes, para que produzcan sus alegatos.
+
+V.- Concluido el plazo, el Presidente formulará dictamen que someterá a consideración del Pleno.
+
+VI.- Las determinaciones del instructor y del Pleno serán irrecurribles.
+
+VII.- Se aplicarán supletoriamente los preceptos del Código de Procedimientos Civiles.
+
+QUINTO.- Hasta en tanto se nombran y entran en funciones los Magistrados Supernumerarios, la ausencia absoluta, temporal o accidental de los Magistrados Numerarios, se cubrirá en los términos de esta ley, antes de su reforma.
+
+SEXTO.- Quedan derogadas las disposiciones que se opongan a las del presente Decreto.
