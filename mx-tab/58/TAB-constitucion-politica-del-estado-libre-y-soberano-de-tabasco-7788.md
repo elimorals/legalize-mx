@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1941-05-06"
+last_updated: "1942-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 1941.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 1942.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -231,7 +231,7 @@ Los Diputados gozan de fuero desde el día en que hubieren sido declarados elect
 
 ###### Art. 37.
 
-El Congreso se renovará en su totalidad cada dos años, comenzando a funcionar el 16 de septiembre posterior a las elecciones.
+El Congreso se renovará en su totalidad cada tres años, comenzando a funcionar el 16 de septiembre posterior a las elecciones.
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 1923)</small>
 
@@ -256,6 +256,8 @@ La Cámara no puede funcionar en ningún caso sin la asistencia por lo menos de 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 1923)</small>
 
 ### CAPITULO II.. INSTALACION Y PERIODOS DE SESIONES DEL CONGRESO
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1942)</small>
 
 ###### Art. 41.
 
@@ -523,7 +525,7 @@ Los Diputados que acepten la renuncia del Gobernador Constitucional sin llenarse
 
 ###### Art. 67.
 
-Durante los recesos del Congreso funcionará una Comisión Permanente compuesta de tres Diputados con el carácter de Propietarios y dos con el de Suplentes, que cubrirán las faltas de los primeros.
+Durante los recesos del Congreso funcionará una Comisión Permanente compuesta de cinco Diputados con el carácter de Propietarios y dos con el carácter de Suplentes, que cubrirán las faltas de los primeros.
 
 ### CAPITULO IV.
 
@@ -569,7 +571,7 @@ La elección de Gobernador será directa, en los términos que disponga la ley r
 
 COMISION PERMANENTE Y SUS ATRIBUCIONES.
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1942)</small>
 
 ###### Art. 72.
 
@@ -1334,3 +1336,7 @@ UNICO.- Este Decreto surte sus efectos legales desde la fecha de su promulgació
 P.O. 6 DE MAYO DE 1941.
 
 UNICO.- Este Decreto comienza a surtir sus efectos legales desde la fecha de su publicación en el "Periódico Oficial".
+
+P.O. 5 DE DICIEMBRE DE 1942.
+
+UNICO.- Esta Ley comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
