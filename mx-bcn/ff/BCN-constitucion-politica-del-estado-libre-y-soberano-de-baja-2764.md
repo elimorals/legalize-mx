@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1997-05-09"
+last_updated: "1997-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 1997.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -765,6 +765,8 @@ El Secretario de Gobierno no podrá desempeñar otro puesto o empleo público o 
 
 ### CAPITULO III.. DEL MINISTERIO PUBLICO Y DE LA DEFENSORIA DE OFICIO
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 54.
 
 Las faltas del Secretario de Gobierno, serán suplidas por el Oficial Mayor del Gobierno del Estado.
@@ -793,27 +795,13 @@ Las audiencias serán públicas, excepto aquellas que la moral o el interés col
 
 Las Corporaciones Policíacas, están obligadas a garantizar la plena ejecución de las resoluciones judiciales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 57.
 
-El Poder Judicial del Estado se ejercerá por el Tribunal Superior de Justicia, Juzgados de Primera Instancia, Juzgados de Paz, Jurados y un Consejo de la Judicatura Local, denominado Consejo de la Judicatura del Estado de Baja California.
+El Poder Judicial del Estado, se ejercerá por el Tribunal Superior de Justicia, Juzgados de Primera Instancia, Juzgados de Paz, Jurados y Consejo de la Judicatura Local, denominado Consejo de la Judicatura del Estado de Baja California.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1989)</small>
-
-Para garantizar su independencia económica contará con Presupuesto propio, el que administrará y ejercerá, en los términos que fijen las Leyes respectivas. Este no podrá ser inferior al aprobado por el Congreso para el Ejercicio Anual anterior y alcanzará por lo menos, el 2% del total del Presupuesto de Egresos para el Ejercicio correspondiente a las Dependencias del Gobierno del Estado. El Congreso podrá reducir, por causa justificada y fundada, el porcentaje indicado.
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1989)</small>
-
-Las partidas extraordinarias y de emergencia que se determinen como tales, no se tomarán en cuenta para fijar el porcentaje a que se refiere este Artículo.
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
-
-Contará igualmente, con los recursos que se señalen para el Fondo de Administración de Justicia en las leyes respectivas, administrado por el Consejo de la Judicatura del Estado.
-
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
-
-La remuneración de los Magistrados del Tribunal Superior de Justicia, Jueces de Primera Instancia, Jueces de Paz, Jurados y Consejeros de la Judicatura del Estado, no podrán ser disminuida durante el tiempo de su gestión.
+La remuneración de los Magistrados del Tribunal Superior de Justicia, Jueces de Primera Instancia, Jueces de Paz, Jurados y Consejeros de la Judicatura del Estado, no podrá ser disminuida durante el tiempo de su gestión.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1989)</small>
 
@@ -939,7 +927,7 @@ Los Consejeros de la Judicatura, Magistrados, Jueces y demás Funcionarios del P
 
 ###### ARTICULO 69.
 
-El Ministerio Público es la Institución encargada de velar por la exacta observación de las Leyes en los casos en que tenga intervención, conforme a su Ley Orgánica rsepectiva (sic). A ese fin, deberá ejercitar las acciones que correspondan contra los infractores de esas leyes; hacer efectivos los derechos concedidos al Estado y representar a éste ante los tribunales.
+El Ministerio Público es la Institución encargada de la investigación y persecución de los delitos, el cual se auxiliará con una policía que estará bajo su autoridad y mando inmediato. También le corresponde el velar por la exacta observancia de las leyes en los casos en que tenga intervención conforme a su Ley Orgánica respectiva. A ese fin, deberá ejercitar las acciones que correspondan contra los infractores de esas leyes; hacer efectivos los derechos concedidos al Estado y representar a éste ante los tribunales. Asimismo compete a esta institución proteger los intereses de los menores e incapaces, como también los derechos individuales y sociales, en los términos que señalen las leyes aplicables.
 
 ###### ARTICULO 70.
 
@@ -1137,7 +1125,7 @@ Son facultades y obligaciones de los Ayuntamientos:
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
-I.- Remitir al Congreso para su revisión y aprobación, cada año, las cuentas del anterior;
+I.- Remitir al Congreso para su revisión y aprobación, cada año, las cuentas del anterior.
 
 II.- Cuidar de la eficacia de los servicios públicos de su jurisdicción.
 
@@ -1185,9 +1173,17 @@ Pertenecen al Estado, además de los bienes de dominio público, de las contribu
 
 El Congreso expedirá la Ley de Hacienda que establecerá las bases para la fijación de los impuestos, derechos y participaciones y la manera de hacerlos efectivos, y que regule la organización de las oficinas recaudadoras.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 90.
 
-El Presupuesto formará siempre un sólo cuerpo distribuido en partidas, según los conceptos de erogación y serán obligatoriamente incluidos, en él, los gastos y las dotaciones necesarias para atender los servicios públicos.
+El presupuesto formará siempre un sólo cuerpo distribuido en partidas, según los conceptos de erogación y serán obligatoriamente incluidos en él los gastos y las dotaciones necesarias para atender los servicios públicos.
+
+Para garantizar su independencia económica, los Poderes Legislativo y Judicial, contarán con Presupuesto propio, el que administrarán y ejercerán en los términos que se fijen las Leyes respectivas. Estos no podrán ser inferiores a los aprobados por el Congreso para el ejercicio anual anterior y alcanzarán por lo menos el 1.5% y 2.5%, para cada uno de los Poderes respectivamente, del Total del Presupuesto de Egresos para el ejercicio correspondiente a las dependencias del Gobierno del Estado, sin considerar para estos efectos las aportaciones de la Federación para programas especiales ni los financiamientos de terceros. El Congreso podrá modificar, por causa justificada y fundada, los porcentajes indicados.
+
+Las partidas extraordinarias y de emergencia que se determinen como tales, no se tomarán en cuenta para fijar los porcentajes citados en este párrafo.
+
+El Poder Judicial contará y administrará igualmente, con los recursos que se señalan para el Fondo de Administración de Justicia en las Leyes respectivas, administrado por el Consejo de la Judicatura del Estado.
 
 ## TITULO OCTAVO
 
@@ -1768,3 +1764,21 @@ Aprobada la Iniciativa por esta H. Asamblea envíese la misma a los Ayuntamiento
 ###### ARTICULO SEGUNDO.
 
 Agotado el trámite señalado por el Artículo 112 de la Constitución Estatal, la presente Reforma de Adición al Artículo 97 entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE OCTUBRE DE 1997.
+
+DECRETO No. 95
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 3 DE OCTUBRE DE 1997.
+
+DECRETO No. 104
+
+###### ARTICULO PRIMERO.
+
+Aprobada que sea esta iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+Agotado el trámite y pronunciada la declaratoria señalada por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, las presentes reformas entrarán en vigor, el día siguiente de su publicación en el Periódico Oficial del Estado.
