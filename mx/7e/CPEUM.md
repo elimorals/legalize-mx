@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1967-10-25"
+last_updated: "1969-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE OCTUBRE DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1969.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -462,13 +462,13 @@ Los extranjeros no podrán de ninguna manera inmiscuirse en los asuntos polític
 
 DE LOS CIUDADANOS MEXICANOS.
 
-> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 1953)</small>
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1969)</small>
 
 ###### Art. 34.
 
-Son ciudadanos de la República los varones y las mujeres que, teniendo la calidad de mexicanos, reúnan, además, los siguientes requisitos:
+Son ciudadanos de la República los varones y mujeres que, teniendo la calidad de mexicanos, reúnan, además, los siguientes requisitos:
 
-I.- Haber cumplido 18 años, siendo casados, o 21 si no lo son, y
+I.- Haber cumplido 18 años, y
 
 II.- Tener un modo honesto de vivir.
 
@@ -590,7 +590,7 @@ VI.- El espacio situado sobre el territorio nacional, con la extensión y modali
 
 ###### Art. 43.
 
-Las partes integrantes de la Federación son los Estados de Aguascalientes, Baja California, Campeche, Coahuila, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, Zacatecas, Distrito Federal y Territorios de la Baja California Sur y de Quintana Roo.
+Las partes integrantes de la Federación son los Estados de Aguascalientes , Baja California, Campeche, Coahuila, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, Zacatecas, Distrito Federal y Territorios de la Baja California Sur y de Quintana Roo.
 
 ###### Art. 44.
 
@@ -2622,7 +2622,7 @@ En los juicios de amparo a que se refiere la fracción V del artículo 107 y que
 
 ###### ARTICULO 6o.
 
-En los casos en que, en los Juzgados de Distrito, se hubiera pronunciado el fallo de primera instancia y contra él se hubiere interpuesto en tiempo el recurso de revisión, la sentencia será revisable por el tribual que tendría competencia para conocer del amparo directo, según las presentes reformas.
+En los casos en que, en los Juzgados de Distrito, se hubiera pronunciado el fallo de primera instancia y contra él se hubiera interpuesto en tiempo el recurso de revisión, la sentencia será revisable por el tribunal que tendría competencia para conocer del amparo directo, según las presentes reformas.
 
 ###### ARTICULO 7o.
 
@@ -2631,3 +2631,7 @@ En los asuntos en trámite ante los Juzgados de Distrito, los Tribunales Colegia
 ###### ARTICULO 8o.
 
 Se faculta a la Suprema Corte de Justicia de la Nación para dictar las medidas necesarias para la efectividad e inmediato cumplimiento de las presentes reformas.
+
+D.O.F. 22 DE DICIEMBRE DE 1969.
+
+UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial" de la Federación.
