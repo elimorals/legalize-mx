@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "1973-05-09"
+last_updated: "1974-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 9 DE MAYO DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE ABRIL DE 1974.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -477,9 +477,11 @@ En ningún caso habrá lugar a la devolución de las aportaciones que los acredi
 
 Si por haber sido cesado el trabajador o por otras causas graves a juicio del Instituto, no pudiere cubrir los abonos provenientes del préstamo hipotecario o del contrato de venta con garantía hipotecaria o con reserva del dominio, podrá concedérsele, previa solicitud y con las condiciones que se estipulen, un lapso de espera de seis meses al termino de los cuales deberá reanudar sus pagos. El adeudo del lapso de espera lo pagará en el plazo y demás requisitos que señale la Junta Directiva.
 
+> <small>(REFORMADO, B.O. 17 DE ABRIL DE 1974)</small>
+
 ###### Artículo 50.
 
-Las casas adquiridas o construidas por los trabajadores con fondos suministrados por el Instituto, quedarán exentas por diez años, a partir de la fecha de su adquisición o construcción, de todos los impuestos estatales y municipales. Esta franquicia quedará insubsistente, si los inmuebles fueren enajenados por los contribuyentes o destinados a otros fines, inclusive arrendamiento. Gozarán también de exención de impuestos estatales y municipales, los contratos de venta, hipoteca, arrendamiento, préstamos y cualesquier otros que celebre el Instituto.
+Las casas adquiridas o construidas por los trabajadores con fondos suministrados por el Instituto, quedarán exentas de todos los impuestos estatales y municipales, a excepción del impuesto predial.- Gozarán también de exención de impuestos estatales y municipales los contratos de venta, hipoteca, arrendamiento, préstamo y cualquier otro que celebre el Instituto.
 
 ### CAPITULO SEXTO. DE LOS PRESTAMOS A CORTO PLAZO
 
@@ -1346,3 +1348,9 @@ B.O. 9 DE MAYO DE 1973.
 ###### ARTICULO UNICO.
 
 Esta Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 17 DE ABRIL DE 1974.
+
+PRIMERO.- Las personas que hubieren presentado sus avisos de terminación de obra durante la vigencia de la Ley que se abroga y preceptos derogados tendrán derechos a las franquicias en los términos consagrados por aquellas disposiciones.
+
+SEGUNDO.- Esta Ley entrará en vigor tres días después de la fecha de su publicación en el Boletín Oficial del Estado.
