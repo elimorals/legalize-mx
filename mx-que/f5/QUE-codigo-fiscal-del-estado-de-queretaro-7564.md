@@ -4,7 +4,7 @@ identifier: "QUE-codigo-fiscal-del-estado-de-queretaro-7564"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-31"
-last_updated: "1988-12-29"
+last_updated: "1991-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO FISCAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EL PERIÓDICO OFICIAL: EL 29 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EL PERIÓDICO OFICIAL: EL 31 DE DICIEMBRE DE 1991.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 31 de diciembre de 1987.
 
@@ -577,9 +577,11 @@ Las resoluciones favorables a los particulares no podrán ser revocadas o nulifi
 
 La cancelación de los créditos fiscales se sujetará a las normas establecidas por este Código y que se dicten por conducto de la Secretaría de Finanzas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 63.
 
-Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado para el pago de las mismas por las Leyes Fiscales del Estado, su pago extemporáneo dará lugar al cobro de recargos, de acuerdo con la tasa que fije anualmente la Ley de Ingresos. El monto de los mismos se calculará por cada mes o fracción que transcurra sin hacerse el pago, sin que en ningún caso pueda exceder del 500% del importe de los Créditos Fiscales de que se trate.
+Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado para el pago de las mismas por las Leyes Fiscales del Estado, su pago extemporáneo dará lugar al cobro de recargos, de acuerdo a la tasa que fije anualmente la Ley de Ingresos. El monto de los mismos se calculará por cada mes o fracción de mes que transcurra sin hacerse el pago. No excederá el equivalente a un año de recargos, cuando el pago se efectúe en forma espontánea.
 
 La falta de pago total o parcial de un Crédito Fiscal o el pago de tales gravámenes realizado fuera de los plazos señalados por la Leyes Fiscales, cuando la omisión sea descubierta por las autoridades Fiscales o medie requerimiento, excitativa o cualquier otra gestión efectuada por las mismas, dará lugar a la aplicación de las sanciones procedentes.
 
@@ -1585,11 +1587,11 @@ III.- Por la de remate, enajenación fuera de remate o adjudicación al fisco es
 
 Cuando en los casos de las fracciones anteriores el 10% del crédito sea inferior a una vez el salario mínimo general diario de la zona económica, se cobrará esta cantidad en vez del 10% del crédito.
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a un salario mínimo general de la zona económica elevado al año.
+En ningún caso los gastos de ejecución por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a un salario mínimo general de la zona económica elevado al año.
 
 Asimismo, se pagarán por concepto de gastos de ejecución las erogaciones extraordinarias en que se incurra con motivo del procedimiento administrativo de ejecución, las que únicamente comprenderán los gastos de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos que correspondan, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores.
 
-Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de oposición al procedimiento administrativo de ejecución.
+Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación de oposición al procedimiento administrativo de ejecución.
 
 Los ingresos recaudados por concepto de gastos de ejecución, se destinarán a las autoridades fiscales estatales, para los fines que ellas dispongan de acuerdo a los programas establecidos.
 
@@ -1988,3 +1990,13 @@ La presente ley entrará en vigor a partir del 1º. de enero de 1989.
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y reglamentarias que se opongan a la presente.
+
+P.O. 31 DE DICIEMBRE DE 1991
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor en todo el Estado, el día 1o. de enero de 1992.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a la presente.
