@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-regula-el-regimen-de-propiedad-en-condominio-en-el-2465
 country: "mx"
 rank: "ley"
 publication_date: "2002-04-11"
-last_updated: "2002-04-11"
+last_updated: "2002-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE REGULA EL REGIMEN DE PROPIEDAD EN CONDOMINIO EN EL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 10 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Gaceta del Gobierno, el 11 de abril de 2002.
 
@@ -37,7 +37,9 @@ LA H. "LIV" LEGISLATURA DEL ESTADO DE MEXICO
 
 DECRETA:
 
-LEY QUE REGULA EL REGIMEN DE PROPIEDAD EN CONDOMINIO EN EL ESTADO DE MEXICO
+LEY QUE REGULA EL REGIMEN DE PROPIEDAD EN
+
+CONDOMINIO EN EL ESTADO DE MEXICO
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -541,9 +543,35 @@ II. Laudo que resuelva la controversia;
 
 III. Acuerdo de las partes mediante convenio ajustado a la legislación civil vigente, el cual tendrá aparejada ejecución.
 
+> <small>(ADICIONADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
+
+IV.- Convenio celebrado vía mediación Judicial, o ante las Mesas Calificadoras y Conciliadoras Municipales.
+
 ###### Artículo 58.
 
 Terminada la instrucción del procedimiento, la mesa de arbitraje dictará el laudo que resuelva la controversia. En caso de que alguna de las partes o ambas consideren que el laudo no es claro en alguno de sus contenidos, solicitarán a la mesa, dentro de los tres días siguientes de la notificación, se aclare o corrija. La interpretación que emita la mesa de arbitraje formará parte del laudo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 10 DE DICIEMBRE DE 2002)</small>
+
+## TITULO TERCERO. DE LA MEDIACION Y CONCILIACION
+
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 59.
+
+Las Oficialías Conciliadoras y Calificadoras Municipales del Ayuntamiento hasta antes de emitir sus laudos, podrán remitir a las partes al Centro de Mediación y Conciliación del Poder Judicial, con el intento de que se avengan, previo el consentimiento de estas que conste de manera fehaciente.
+
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 60.
+
+La Mediación y conciliación tiene el carácter de voluntarias y suspenden el procedimiento de arbitraje previsto en el título segundo de la presente ley hasta por sesenta días hábiles.
+
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 61.
+
+Los convenios suscritos en vía de mediación o conciliación, gozarán de las características que la misma ley les envista.
 
 ## TRANSITORIOS
 
@@ -572,3 +600,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 10 DE DICIEMBRE DE 2002.
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
