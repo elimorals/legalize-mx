@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1971-10-22"
+last_updated: "1972-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE OCTUBRE DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE FEBRERO DE 1972.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -652,29 +652,39 @@ DE LA ELECCION E INSTALACION DEL CONGRESO.
 
 La Cámara de Diputados se compondrá de representantes de la Nación, electos en su totalidad cada tres años, por los ciudadanos mexicanos.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1960)</small>
+> <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 1972)</small>
 
 ###### Art. 52.
 
-Se elegirá un diputado propietario por cada doscientos mil habitantes o por una fracción que pase de cien mil, teniendo en cuenta el Censo General del Distrito Federal y el de cada Estado y Territorio; pero en ningún caso la representación de un Estado será menor de dos diputados y la de un Territorio cuya población fuese menor de la fijada en este artículo, será de un diputado propietario.
+Se eligirá un diputado propietario por cada doscientos cincuenta mil habitantes o por una fracción que pase de ciento veinticinco mil, teniendo en cuenta el censo general del Distrito Federal y el de cada Estado y Territorio; pero en ningún caso la representación de un Estado será menor de dos diputados, y la de un Territorio, cuya población fuese menor de la fijada en este artículo, será de un diputado propietario.
 
 ###### Art. 53.
 
 Por cada diputado propietario, se elegirá un suplente.
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 1963)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE FEBRERO DE 1972)</small>
 
 ###### Art. 54.
 
-La elección de diputados será directa, con sujeción a lo dispuesto en el artículo 52 y se complementará, además, con diputados de partido, apegándose, en ambos casos, a lo que disponga la ley electoral y, en el segundo, a las reglas siguientes:
+La elección de diputados será directa, con sujeción a lo dispuesto en el artículo 52 y se complementará, además, con diputados de partido, apegándose, en ambos casos, a lo que disponga la Ley Electoral y, en el segundo, a las reglas siguientes:
 
-I.- Todo Partido Político Nacional, al obtener el dos y medio por ciento de la votación total en el país en la elección respectiva, tendrá derecho a que se acrediten, de sus candidatos, a cinco diputados, y a uno más, hasta veinte como máximo, por cada medio por ciento más de los votos emitidos;
+> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 1972)</small>
 
-II.- Si logra la mayoría en veinte o más distritos electorales, no tendrá derecho a que sean reconocidos diputados de partido, pero si triunfa en menor número, siempre que logre el dos y medio por ciento mencionado en la fracción anterior, tendrá derecho a que sean acreditados hasta veinte diputados, sumando los electos directamente y los que obtuvieron el triunfo por razón de porcentaje;
+I.- Todo Partido Político Nacional al obtener el uno y medio por ciento de la votación total en el país, en la elección de diputados respectiva, tendrá derecho a que se acrediten, de sus candidatos, a cinco diputados, y a uno más hasta veinticinco como máximo, por cada medio por ciento más de los votos obtenidos;
 
-III.- Estos serán acreditados por riguroso orden, de acuerdo con el porcentaje de sufragios que hayan logrado en relación a los demás candidatos del mismo partido, en todo el país;
+> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 1972)</small>
+
+II.- Si logra la mayoría en veinticinco o más distritos electorales, no tendrá derecho a que le sean acreditados diputados de partido, pero si triunfa en menor numero, siempre que llene los requisitos señalados en la fracción anterior, tendrá derecho a que le sean reconocidos hasta veinticinco diputados, sumando los electos por mayoría y por razón de porcentaje;
+
+> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 1972)</small>
+
+III.- Los diputados de partido serán acreditados por riguroso orden, de acuerdo con el número decreciente de sufragios que hayan logrado en relación a los demás candidatos del mismo partido en todo el país;
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 1963)</small>
 
 IV.- Solamente podrán acreditar diputados en los términos de este artículo, los Partidos Políticos Nacionales que hubieran obtenido su registro conforme a la Ley Electoral Federal, por lo menos con un año de anterioridad al día de la elección; y
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 1963)</small>
 
 V.- Los diputados de mayoría y los de partido, siendo representantes de la nación como lo establece el artículo 51, tendrán la misma categoría e iguales derechos y obligaciones.
 
@@ -684,7 +694,9 @@ Para ser diputado se requieren los siguientes requisitos:
 
 I.- Ser ciudadano mexicano, por nacimiento, en el ejercicio de sus derechos.
 
-II.- Tener veinticinco años cumplidos el día de la elección.
+> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 1972)</small>
+
+II.- Tener veintiún años cumplidos el día de la elección.
 
 III.- Ser originario del Estado o Territorio en que se haga la elección, o vecino de él con residencia efectiva de más de seis meses anteriores a la fecha de ella. La vecindad no se pierde por ausencia en el desempeño de cargos públicos de elección popular.
 
@@ -718,11 +730,11 @@ La Legislatura de cada Estado declarará electo al que hubiese obtenido la mayor
 
 Por cada senador propietario se elegirá un suplente.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+> <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 1972)</small>
 
 ###### Art. 58.
 
-Para ser Senador se requieren los mismos requisitos que para ser Diputado, excepto el de la edad, que será la de treinta y cinco años cumplidos el día de la elección.
+Para ser senador se requieren los mismos requisitos que para ser diputado, excepto el de la edad, que será de treinta años cumplidos el día de la elección.
 
 > <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
 
@@ -1858,7 +1870,13 @@ X.- El salario deberá pagarse precisamente en moneda de curso legal, no siendo 
 
 XI.- Cuando por circunstancias extraordinarias deban aumentarse las horas de jornada, se abonará como salario por el tiempo excedente, un ciento por ciento más de lo fijado para las horas normales. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias, ni de tres veces consecutivas. Los hombres menores de diez y seis años y las mujeres de cualquiera edad, no serán admitidos en esta clase de trabajos.
 
-XII.- En toda negociación agrícola, industrial, minera o cualquiera otra clase de trabajo, los patronos estarán obligados a proporcionar a los trabajadores, habitaciones cómodas e higiénicas, por las que podrán cobrar rentas que no excederán del medio por ciento mensual del valor catastral de las fincas. Igualmente deberán establecer escuelas, enfermerías y demás servicios necesarios a la comunidad. Si las negociaciones estuvieren situadas dentro de las poblaciones, y ocuparen un número de trabajadores mayor de cien, tendrán la primera de las obligaciones mencionadas.
+> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 1972)</small>
+
+XII.- Toda empresa agrícola, industrial, minera o de cualquier otra clase de trabajo, estará obligada, según lo determinen las leyes reglamentarias a proporcionar a los trabajadores habitaciones cómodas e higiénicas. Esta obligación se cumplirá mediante las aportaciones que las empresas hagan a un fondo nacional de la vivienda a fin de constituir depósitos en favor de sus trabajadores y establecer un sistema de financiamiento que permita otorgar a éstos crédito barato y suficiente para que adquieran en propiedad tales habitaciones.
+
+Se considera de utilidad social la expedición de una ley para la creación de un organismo integrado por representantes del Gobierno Federal, de los trabajadores y de los patrones, que administre los recursos del fondo nacional de la vivienda. Dicha ley regulará las formas y procedimientos conforme a los cuales los trabajadores podrán adquirir en propiedad las habitaciones antes mencionadas.
+
+Las negociaciones a que se refiere el párrafo primero de esta fracción, situadas fuera de las poblaciones, están obligadas a establecer escuelas, enfermerías y demás servicios necesarios a la comunidad.
 
 XIII.- Además, en estos mismos centros de trabajo, cuando su población exceda de doscientos habitantes, deberá reservarse un espacio de terreno que no será menor de cinco mil metros cuadrados, para el establecimiento de mercados públicos, instalación de edificios destinados a los servicios municipales y centros recreativos. Queda prohibido en todo centro de trabajo el establecimiento de expendios de bebidas embriagantes y de casas de juego de azar.
 
@@ -2671,3 +2689,15 @@ UNICO.- La presente reforma entrará en vigor cinco días después de su publica
 D.O.F. 22 DE OCTUBRE DE 1971.
 
 UNICO.- La presente reforma entrará en vigor el mismo día que entre en vigor la Ley Federal Reglamentaria a que la misma se refiere.
+
+D.O.F. 14 DE FEBRERO DE 1972.
+
+DECRETO QUE REFORMA Y ADICIONA LOS ARTICULOS 52, 54 FRACCIONES I, II Y III; 55 FRACCION II Y 58.
+
+TRANSITORIO.- Las presentes reformas y adiciones entrarán en vigor cinco días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 14 DE FEBRERO DE 1972.
+
+DECRETO QUE REFORMA LA FRACCION XII DEL APARTADO A DEL ARTICULO 123.
+
+UNICO.- La presente reforma entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
