@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-2994"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-04-20"
-last_updated: "1998-06-19"
+last_updated: "1999-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE JUNIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE ABRIL DE 1999.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 20 de abril de 1996.
 
@@ -98,6 +98,12 @@ V. El de Los Cabos, con la extensión territorial del Municipio del mismo nombre
 ## TITULO TERCERO. DE LA ORGANIZACION DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
 ### CAPITULO PRIMERO. DEL TRIBUNAL SUPERIOR DE JUSTICIA
+
+> <small>(REFORMADO, B.O. 6 DE ABRIL DE 1999)</small>
+
+###### ARTICULO 5.
+
+El Tribunal Superior de Justicia tendrá su residencia en la capital del Estado y solo podrá cambiarla cuando así lo decrete el H. Congreso del Estado; estará constituido por siete Magistrados que durarán en su encargo seis años.
 
 ###### ARTICULO 6o.
 
@@ -221,9 +227,11 @@ Las actas que se levanten de los acuerdos y resoluciones del Pleno, deberán fir
 
 ### CAPITULO TERCERO. DEL PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
+> <small>(REFORMADO, B.O. 6 DE ABRIL DE 1999)</small>
+
 ###### ARTICULO 14.
 
-El Presidente del Tribunal Superior de Justicia será electo por mayoría de votos en escrutinio secreto en la primera Sesión Plenaria, que estará presidida por el Magistrado de más edad, celebrada durante el mes de abril de cada tres años, y no podrá ser reelecto para el periodo inmediato. El Presidente no integrará Sala.
+El Presidente del Tribunal Superior de Justicia será electo por mayoría de votos en escrutinio secreto en la primera Sesión Plenaria celebrada durante el mes de abril de cada tres años y estará presidida por el Magistrado de más edad, pudiendo ser reelecto para el periodo inmediato. El Presidente no integrará sala.
 
 ###### ARTICULO 15.
 
@@ -1731,7 +1739,7 @@ Las ausencias absolutas de los Jueces serán suplidas en la forma prevista por e
 
 Las ausencias absolutas de los Secretarios del Tribunal y de los Juzgados, así como de los demás Servidores Públicos del Poder Judicial, serán cubiertas por nuevos nombramientos, y entre tanto se proceda a ello, se suplirán en la forma prevista para las ausencias temporales.
 
-### CAPITULO SEGUNDO. DE SU INTEGRACION
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
 
@@ -1739,13 +1747,15 @@ Las ausencias absolutas de los Secretarios del Tribunal y de los Juzgados, así 
 
 En el Poder Judicial del Estado se gozará de los períodos de vacaciones que fije el Pleno del Tribunal Superior de Justicia.
 
+> <small>(REFORMADO, B.O. 6 DE ABRIL DE 1999)</small>
+
 ###### ARTICULO 179.
 
-Los Magistrados podrán obtener licencia con o sin goce de sueldo hasta por tres meses, solicitándola al Congreso del Estado o a la Diputación permanente, de acuerdo con la fracción VI del artículo 66, de la Constitución Política del Estado.
+Los Magistrados podrán obtener licencias, con o sin goce de sueldo, hasta por tres meses, solicitándola por conducto del Gobernador al Congreso del Estado conforme a la fracción XXI, del artículo 64, de la Constitución Política del Estado.
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+### CAPITULO SEGUNDO. DE SU INTEGRACION
 
 > <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
 
@@ -2029,10 +2039,6 @@ En tanto se expida la Ley Arancelaria de los Abogados, seguirá rigiendo el Tít
 
 En tanto no se cree la jurisdicción Contenciosa Administrativa en el Estado, y cuando la Ley así lo disponga, el Tribunal Superior de Justicia en Pleno designará a los Magistrados que deberán integrar la Sala para conocer y resolver de los recursos en materia administrativa en los cuales el Estado fuere parte.
 
-###### ARTICULO 5o.
-
-El Tribunal Superior de Justicia tendrá su residencia en la capital del Estado y sólo podrá cambiarla cuando así lo decrete el Honorable Congreso del Estado; estará constituido por siete Magistrados numerarios que durarán en su encargo seis años, pudiendo ser reelectos, y si lo fueren sólo podrán ser removidos de sus puestos en los términos que determinen la Constitución Política del Estado de Baja California Sur y las Leyes respectivas.
-
 ###### ARTICULO 6o.
 
 Dentro de un plazo que no exceda a los noventa días siguientes a la entrada en vigor de la presente Ley, el Tribunal Superior de Justicia expedirá el Reglamento de la misma.
@@ -2078,3 +2084,9 @@ QUINTO.- Para el proceso electoral ordinario 1998-1999, los Consejeros Electoral
 SEXTO.- El Convenio que se haya celebrado con el organismo electoral federal, con anterioridad a la entrada en vigor del presente Decreto, para la utilización del catálogo general de electores, padrón electoral, listado nominal y credencial con fotografía para votar, así como los demás datos, seccionamientos y todos los elementos necesarios para el desarrollo de los procesos electorales del Estado, tendrá plena validez, hasta en tanto no se otorgue otro convenio con el mismo objeto.
 
 SEPTIMO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 6 DE ABRIL DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
