@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-del-despacho-del-20012"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-02-26"
-last_updated: "2001-02-26"
+last_updated: "2004-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DEL DESPACHO DEL GOBERNADOR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE REGLAMENTO HA SIDO ABROGADO POR EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DEL DESPACHO DEL GOBERNADOR, PUBLICADO EN EL PERIODICO OFICIAL EL 15 DE MAYO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 MANUEL ANGEL NUÑEZ SOTO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, en ejercicio de las facultades que me confieren los Artículos 71, fracción II, de la Constitución Política del Estado; 5, 17, 19, 21 y 26 Bis de la Ley Orgánica de la Administración Pública del Estado, he tenido a bien expedir el siguiente:
 
@@ -346,3 +348,9 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Las Unidades Administrativas que por efecto del presente Reglamento tengan competencia en asuntos que anteriormente correspondían a otras unidades, se harán cargo de los mismos a partir de la entrada en vigor de este ordenamiento, por lo cual deberá hacerse la transferencia de los recursos humanos, financieros, materiales, archivos e inventarios correspondientes.
 
 Dado en la residencia del Poder Ejecutivo del Estado, en la Ciudad de Pachuca de Soto, Hidalgo, a los siete días del mes de febrero del año dos mil uno.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO:</small>
+
+P.O. 15 DE MAYO DE 2004.
+
+TRANSITORIO PRIMERO.- EL PRESENTE REGLAMENTO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO, DEROGANDO EL REGLAMENTO ANTERIOR.
