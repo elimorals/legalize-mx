@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2003-08-19"
+last_updated: "2003-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE AGOSTO DEL 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE OCTUBRE DE 2003.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -249,7 +249,7 @@ XV. Las demás que les señale la Constitución, la ley y el reglamento.
 
 ###### Artículo 30.
 
-(DEROGADO, G.G. 12 DE SEPTIEMBRE DE 2000)
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2000)
 
 ###### Artículo 31.
 
@@ -519,7 +519,7 @@ Artículo 67 BIS-10.- Los diputados que no se inscriban o dejen de pertenecer a 
 
 La Diputación Permanente funcionará durante los recesos de la Legislatura, representándola en los términos previstos por la Constitución, la ley y otras disposiciones legales.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DEL 2002)</small>
+> <small>(ADICIONADO, G.G. 11 DE DICIEMBRE DEL 2002)</small>
 
 Durante los recesos las Comisiones de Dictamen y Comités funcionarán cuando el Presidente de la Diputación Permanente les turne para su estudio una iniciativa o asunto.
 
@@ -563,7 +563,7 @@ VIII. Las demás que le confieran la Constitución, la ley y otros ordenamientos
 
 Cuando la Legislatura se encuentre en período extraordinario, la Diputación Permanente seguirá conociendo y despachando los asuntos de su competencia, si éstos no fueron incluidos en la convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DEL 2002)</small>
+> <small>(REFORMADO, G.G. 11 DE DICIEMBRE DEL 2002)</small>
 
 ###### Artículo 57.
 
@@ -731,7 +731,7 @@ II. Las que les encomiende la Gran Comisión o su presidente.
 
 ### CAPITULO UNICO. DE LAS BASES PARA SU ORGANIZACIÓN Y FUNCIONAMIENTO
 
-> <small>(REFORMADO, G.G. 9 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 1999)</small>
 
 ###### Artículo 68.
 
@@ -743,55 +743,59 @@ La Legislatura para el ejercicio de sus funciones, contará con comisiones legis
 
 A más tardar, en la tercera sesión del primer período de sesiones ordinarias, a propuesta de la Gran Comisión y mediante votación económica, la Asamblea aprobará para todo el ejercicio constitucional, la integración de las comisiones legislativas siguientes:
 
-· Gobernación y Puntos Constitucionales
+- Gobernación y Puntos Constitucionales
 
-· Legislación y Administración Municipal
+- Legislación y Administración Municipal
 
-· Procuración y Administración de Justicia
+- Procuración y Administración de Justicia
 
-· Planificación y Finanzas Públicas
+- Planificación y Finanzas Públicas
 
-· Trabajo, Previsión y Seguridad Social
+- Trabajo, Previsión y Seguridad Social
 
-· Educación, Cultura, Ciencia y Tecnología
+- Educación, Cultura, Ciencia y Tecnología
 
-· Desarrollo Urbano
+- Desarrollo Urbano
 
-· Planificación Demográfica
+- Planificación Demográfica
 
-· Desarrollo Agropecuario y Forestal
+- Desarrollo Agropecuario y Forestal
 
-· Protección Ambiental
+- Protección Ambiental
 
-· Desarrollo Económico, Industrial, Comercial y Minero
+- Desarrollo Económico, Industrial, Comercial y Minero
 
-· Comunicaciones y Transportes
+- Comunicaciones y Transportes
 
-· Derechos Humanos
+- Derechos Humanos
 
-· Salud, Asistencia y Bienestar Social
+- Salud, Asistencia y Bienestar Social
 
-· Seguridad Pública y Tránsito
+- Seguridad Pública y Tránsito
 
-· Asuntos Electorales
+- Asuntos Electorales
 
-· Patrimonio Estatal y Municipal
+- Patrimonio Estatal y Municipal
 
-· Desarrollo Turístico y Artesanal
+- Desarrollo Turístico y Artesanal
 
-· Asuntos Metropolitanos
+- Asuntos Metropolitanos
 
-· Inspección de la Contaduría General de Glosa
+- Inspección de la Contaduría General de Glosa
 
-· Asuntos Indígenas
+- Asuntos Indígenas
 
-· Protección Civil
+- Protección Civil
 
-· Para la Protección e Integración al Desarrollo de las Personas con Discapacidad
+- Para la Protección e Integración al Desarrollo de las Personas con Discapacidad
 
-· Seguimiento de Programas de Apoyo Social del Estado y Municipios del Estado de México
+- Seguimiento de Programas de Apoyo Social del Estado y Municipios del Estado de México
 
-· De Límites Territoriales del Estado de México y sus Municipios
+- De Límites Territoriales del Estado de México y sus Municipios
+
+> <small>(ADICIONADO, G.G. 23 DE OCTUBRE DE 2003)</small>
+
+- Equidad y Género
 
 La Asamblea podrá determinar la creación de otras comisiones legislativas, así como fijar el número de sus integrantes, de acuerdo con las necesidades institucionales de la Legislatura.
 
@@ -837,8 +841,6 @@ Las comisiones jurisdiccionales serán las siguientes:
 
 Su integración, atribuciones y funcionamiento se regirán por lo previsto en la ley y en las disposiciones legales relativas.
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
 ###### Artículo 76.
 
 Son Comités Permanentes de la Legislatura, los siguientes:
@@ -849,7 +851,7 @@ Son Comités Permanentes de la Legislatura, los siguientes:
 
 - Estudios Legislativos;
 
-- De la Mujer;
+- (DEROGADO QUINTO PARRAFO, G.G. 23 DE OCTUBRE DE 2003)
 
 - De la Juventud y el Deporte;
 
@@ -885,7 +887,7 @@ Las iniciativas de ley o decreto, o cualquier otra propuesta dictaminada como no
 
 Las iniciativas de ley o decreto deberán cubrir los siguientes requisitos:
 
-> <small>(REFORMADA, G.G. 19 DE AGOSTO DEL 2003)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DEL 2003)</small>
 
 I. Presentarse por escrito, firmadas por él o sus autores y serán entregadas a la Secretaría de Asuntos Parlamentarios, a la Secretaría de la Legislatura o de la Diputación Permanente, la Presidencia de la Gran Comisión, o a quien esté legitimado para ello;
 
@@ -965,19 +967,19 @@ Para el ejercicio de sus funciones, la Legislatura contará con las Dependencias
 
 I. Contaduría General de Glosa;
 
-> <small>(REFORMADA, G.G. 19 DE AGOSTO DEL 2003)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DEL 2003)</small>
 
 II. Secretaría de Asuntos Parlamentarios;
 
 III. Contraloría;
 
-> <small>(REFORMADA, G.G. 19 DE AGOSTO DEL 2003)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DEL 2003)</small>
 
 IV. Secretaría de Administración y Finanzas;
 
 V. Dirección General de Comunicación Social;
 
-> <small>(ADICIONADA, G.G. 19 DE AGOSTO DEL 2003)</small>
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DEL 2003)</small>
 
 VI. Instituto de Estudios Legislativos.
 
@@ -1174,3 +1176,11 @@ TERCERO.- Cuando se haga referencia en un ordenamiento legal a la Oficialía May
 CUARTO.- El Oficial Mayor y el Director General de Administración desempeñarán, el cargo de Secretario de Asuntos Parlamentarios y Secretario de Administración y Finanzas, respectivamente, de manera provisional, adecuando su denominación.
 
 QUINTO.- La convocatoria para nombrar Secretarios Técnicos de las comisiones y de los comités de la "LV" Legislatura será publicada el jueves veintiocho de agosto del dos mil tres.
+
+G.G. 23 DE OCTUBRE DE 2003.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor el día siguiente al de su publicación.
+
+TERCERO.- A más tardar quince días después de la fecha de inicio de vigencia de este decreto, la Gran Comisión propondrá la integración de la Comisión Legislativa de Equidad y Género en sustitución del Comité Permanente de la Mujer, procurando preservar su actual conformación.
