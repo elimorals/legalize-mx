@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1993-del-tribunal-pleno-de-la-suprema-63013"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1993-01-27"
-last_updated: "1998-06-05"
+last_updated: "1998-06-26"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63013&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1993-01-13"
 
 ACUERDO No. 1/1993, DEL TRIBUNAL EN PLENO DEL DIA TRECE DE ENERO DE MIL NOVECIENTOS NOVENTA Y TRES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 26 DE JUNIO DE 1998, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: SIN EFECTO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 27 de enero de 1993.
 
@@ -743,7 +745,7 @@ SEGUNDO.- Se modifica el Acuerdo 1/1993 del Pleno de la Suprema Corte de Justici
 
 TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
 
-CUARTO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 D.O.F. 13 DE FEBRERO DE 1998.
 
@@ -803,4 +805,16 @@ SEGUNDO.- Se modifica el Acuerdo 1/1993 del Pleno de la Suprema Corte de Justici
 
 TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
 
-CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+CUARTO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 26 DE JUNIO DE 1998.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día primero de julio de mil novecientos noventa y ocho.
+
+SEGUNDO.- Quedan sin efecto los Acuerdos 1/1993 y 1/1994 de fechas trece de enero de mil novecientos noventa y tres y primero de febrero de mil novecientos noventa y cuatro, respectivamente, del Pleno de la Suprema Corte de Justicia de la Nación. Asimismo, quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+TERCERO.- Los Acuerdos Generales que dicte el Consejo de la Judicatura Federal con posterioridad al inicio de la vigencia del presente Acuerdo y que se refieran a la determinación del número y límites territoriales de los circuitos, así como respecto al número, límites territoriales y especialización por materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito, se integrarán a este Acuerdo General para efectos de su actualización.
+
+CUARTO.- Las modificaciones a la circunscripción territorial de los municipios que realicen los Estados de la República en el ámbito de sus respectivas competencias y que cambien la distribución contenida en el presente Acuerdo General, serán analizadas por el Consejo de la Judicatura Federal y, en su caso, las variaciones relativas a que haya lugar se efectuarán en Acuerdos Generales que se integren al propio Acuerdo.
+
+QUINTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
