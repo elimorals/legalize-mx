@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1988-08-10"
+last_updated: "1988-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE AGOSTO DE 1988.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE SEPTIEMBRE DE 1988.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -325,11 +325,17 @@ El Congreso califica irrevocablemente la elección de sus miembros y resuelve la
 
 El Congreso no puede abrir sus sesiones ni ejercer su cargo sin la concurrencia de más de la mitad del número total de sus miembros; pero los presentes deberán reunirse el día señalado por la Ley y compeler a los ausentes a que concurran bajo las penas que la misma Ley designe, y, en su caso, llamar a los respectivos suplentes a fin de que funcionen mientras se presentan los propietarios.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 9 DE SEPTIEMBRE DE 1988)</small>
 
 ###### Artículo 27.
 
-El Congreso tendrá cada año dos períodos de sesiones ordinarias prorrogables por el tiempo que, según las necesidades del servicio público, acuerde el Congreso. El primero comenzará el día primero de enero y terminará el treinta y uno de marzo; y el segundo comenzará el día primero de julio y concluirá el treinta de septiembre.
+El Congreso tendrá cada año tres períodos de sesiones ordinarias. El primero a partir del 5 de enero; el segundo a partir del 16 de mayo; y el tercero a partir del 16 de octubre.
+
+Cada periodo de sesiones ordinarias durará el tiempo que sea necesario para tratar todos los asuntos que se le presenten pero el primero no podrá prolongarse más que hasta el 28 de febrero, el segundo hasta el 15 de julio y el tercero hasta el 31 de diciembre del año que corresponda.
+
+En sus periodos de sesiones ordinarias el Congreso se ocupará del estudio, discusión y votación de las iniciativas de la ley que se le presenten y de la resolución de los demás asuntos que le correspondan conforme a esta Constitución.
+
+En cada periodo de sesiones ordinarias el Congreso se ocupará de manera preferente de los asuntos que señale su Ley Orgánica.
 
 > <small>(REFORMADO, D.O.18 DE ENERO DE 1973)</small>
 
@@ -441,9 +447,7 @@ d) la educación secundaria que imparta el Estado será gratuita; y
 
 e) la educación preparatoria y la profesional, serán o no gratuitas, según lo determinen las Leyes;
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
-
-XVI.- prorrogar el periodo de sus sesiones ordinarias por el tiempo que requieran las necesidades del servicio público;
+XVI.- (DEROGADA, D.O. 9 DE SEPTIEMBRE DE 1988)
 
 > <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
 
@@ -595,11 +599,11 @@ Los Diputados que acepten la renuncia del Gobernador, sin llenarse los requisito
 
 No puede el Congreso conceder dispensa de Ley a ninguna persona o corporación, ni tampoco dispensa o revalidación de los estudios que determinen las Leyes sobre Instrucción Pública para efecto de obtener Título Profesional.
 
-> <small>(REFORMADO, D.O.23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O. 9 DE SEPTIEMBRE DE 1988)</small>
 
 ###### Artículo 34.
 
-El Contador Mayor de Hacienda enviará al Congreso con la periodicidad y oportunidad que éste le fije las cuentas a que se contrae la fracción VI del artículo 30 de esta Constitución, en cualesquiera de los periodos ordinarios o extraordinarias a que dicha fracción se refiere, no pudiendo en caso alguno exceder del término de seis meses las cuentas que corresponda examinar.
+El Contador Mayor de Hacienda enviará al Congreso con la periodicidad y oportunidad que éste le fije, las cuentas a las que se refiere la fracción VI del artículo 30 de esta Constitución; no podrá, el Congreso, dejar de examinar dichas cuentas durante los seis meses posteriores a la conclusión del ejercicio de que se trate.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -861,7 +865,7 @@ V.- disponer de la fuerza pública de los otros municipios para la defensa del E
 
 VI.- nombrar uno o más apoderados para asuntos judiciales, dentro o fuera del Estado;
 
-VII.- pedir al Congreso la prórroga de sus sesiones ordinarias, cuando lo juzgue necesario para el servicio público;
+VII.- (DEROGADA, D.O. 9 DE SEPTIEMBRE DE 1988)
 
 VIII.- pedir a la Diputación Permanente que convoque al Congreso a sesiones extraordinarias. En este caso, a la apertura de sesiones deberá concurrir para exponer las razones o causas que hicieron necesaria su convocación, y el asunto o asuntos que ameriten una resolución perentoria;
 
@@ -1812,3 +1816,9 @@ UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación e
 D.O. 10 DE AGOSTO DE 1988.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 9 DE SEPTIEMBRE DE 1988.
+
+PRIMERO.- Los Diputados que se elijan a la LII Legislatura del Congreso del Estado, durarán en funciones del primero de enero de 1991 hasta el cuatro de enero de 1994.
+
+SEGUNDO.- Este decreto entrará en vigor el primero de enero de 1989.
