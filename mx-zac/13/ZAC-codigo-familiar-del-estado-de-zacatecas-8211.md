@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "1994-05-25"
+last_updated: "1996-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1996.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -2701,7 +2701,7 @@ XII. El que padezca enfermedad crónica contagiosa;
 
 XIII. Los tahúres de profesión;
 
-XIV. Los demás a quienes lo prohiba la Ley.
+XIV. Los demás a quienes lo prohíba la Ley.
 
 ###### ARTICULO 464.
 
@@ -3811,6 +3811,16 @@ También puede constituirse por bienes fungibles, valores, o acciones, cuando de
 
 La constitución del patrimonio de familia, no hace pasar la propiedad de los bienes que a él quedan afectos, del que lo constituye a los miembros de la familia beneficiaria, salvo que se pactare expresamente lo contrario. Tales bienes deben satisfacer las necesidades económicas de los acreedores alimentistas, mientras tengan este carácter. En caso de muerte del constituyente, continuará la masa de bienes sirviendo para la satisfacción de esta primordial necesidad de subsistencia, salvo las expresas disposiciones señaladas en el derecho sucesorio, llegado el caso en que se liquide el patrimonio total del de cujus.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
+###### ARTICULO 684 Bis.
+
+Los bienes a que se refiere la fracción III del artículo que antecede, integrarán el patrimonio de familia aún sin necesidad de constituirse como tal en los términos de ley; por lo cual quedan protegidos con las características que señala el artículo 691.
+
+Para que lo anterior surta efectos, deberá levantarse un inventario de los bienes, ratificarse e inscribirse en el Registro Público de la Propiedad y del Comercio.
+
+El solicitante deberá reunir los requisitos a que se refiere el artículo 685 de este Código, exceptuando la fracción V.
+
 ###### ARTICULO 685.
 
 El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al Juez de su domicilio, designando con toda precisión y de manera que puedan ser inscritos en el Registro Público de la Propiedad, los bienes que van a quedar afectos.
@@ -3887,9 +3897,13 @@ Sólo puede constituirse el patrimonio de familia con bienes sitos en el lugar d
 
 Cada familia sólo puede constituir un patrimonio.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
 ###### ARTICULO 694.
 
-El valor máximo de los bienes afectados al patrimonio de familia será la cantidad que resulte de multiplicar por tres mil seiscientos cincuenta días, el importe del salario mínimo general vigente en el lugar y en la época en que se constituya el patrimonio. El que será susceptible de incremento periódicamente en la medida en que se aumente el salario mínimo.
+El valor máximo de los bienes afectados al patrimonio de familia será la cantidad que resulte de multiplicar por ciento cincuenta el salario mínimo general más alto vigente en la entidad, elevado al año, en la fecha en que se constituya el patrimonio, el que será susceptible de incremento periódico, en la medida en que se aumente el salario mínimo general.
+
+Para determinar el valor de los bienes que constituyan el patrimonio de familia se atenderá a lo dispuesto en el artículo 451 del Código de Procedimientos Civiles.
 
 ###### ARTICULO 695.
 
@@ -4203,6 +4217,8 @@ Dado en el Despacho del Poder Ejecutivo del Estado a los cinco días del mes de 
 
 P.O. 15 DE JULIO DE 1992.
 
+.
+
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
@@ -4214,3 +4230,9 @@ Las declaraciones de incapacidad o de nombramiento de tutor que actualmente se e
 P.O. 25 DE MAYO DE 1994.
 
 UNICO.- Las presentes reformas entrarán en vigor a partir de sesenta días naturales contados desde el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Zacatecas.
+
+P.O. 14 DE SEPTIEMBRE DE 1996.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+SEGUNDO.- Los juicios de competencia local o concurrente que se hayan iniciado con anterioridad a la fecha de inicio de vigencia del presente Decreto se regirán por las normas vigentes a la fecha de su inicio.
