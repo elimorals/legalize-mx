@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-6146"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1982-08-02"
-last_updated: "1985-12-30"
+last_updated: "1986-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 1986.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 2 de agosto de 1982.
 
@@ -119,7 +119,7 @@ Los magistrados supernumerarios serán llamados para que integren el Pleno, en l
 
 ###### ARTICULO 7o.
 
-Las sesiones del Pleno serán públicas y tendrán el carácter de ordinarias o extraordinarias. Las ordinarias se celebrarán cuando menos una vez a la semana, en los términos que fije el Reglamento Interior del Supremo Tribunal, y las extraordinarias, cuando lo juzgue necesario el Presidente o lo pidan por lo menos siete de los magistrados en funciones. Por cada sesión se levantará un acta que firmarán el Presidente, los demás magistrados que hubiesen ocurrido a ella, y el secretario.
+Las sesiones del Pleno serán públicas y tendrán el carácter de ordinarias o extraordinarias. Las ordinarias se celebrarán cuando menos una vez a la semana, en los términos que fije el Reglamento Interior del Supremo Tribunal, y las extraordinarias, cuando lo juzgue necesario el Presidente o lo pidan por lo menos siete de los magistrados en funciones. Por cada sesión se levantará un acta que firmarán el Presidente, los demás magistrados que hubiesen concurrido a ella, y el secretario.
 
 Podrán celebrarse sesiones privadas cuando se dé alguno de los presupuestos de las extraordinarias.
 
@@ -379,7 +379,7 @@ III. De las cuestiones de competencia, acumulación, excusas y recusaciones con 
 
 IV. De las quejas que por incumplimiento de exhortos en materia penal se formulen contra los jueces de primera instancia.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+((REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)
 
 ###### ARTICULO 22.
 
@@ -613,13 +613,17 @@ XXIII. DISTRITO DE ZITACUARO, con Jurisdicción en los municipios de Angangueo, 
 
 ### CAPITULO II. DISTRIBUCION Y COMPETENCIA DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
+> <small>(REFORMADO, PRIMER PARRAFO, P.O. 10 DE ABRIL DE 1986)</small>
+
 ###### ARTICULO 27.
 
-En el Distrito de Morelia habrá tres juzgados de primera instancia de lo civil, dos de lo familiar y cuatro de lo penal; en los de Apatzingán, Uruapan y Zamora, dos de lo civil y dos de lo penal. Los juzgados de lo civil de estos últimos tres distritos conocerán, indistintamente, de asuntos de lo civil y de lo familiar.
+En el Distrito de Morelia, habrá cinco juzgados de primera instancia de lo civil, dos de lo familiar y seis de lo penal; en el de Uruapan, dos de lo civil y tres de lo penal; en los de Apatzingán y Zamora, dos de lo civil y dos de lo penal. Los juzgados de lo civil de estos últimos tres Distritos, conocerá, indistintamente, de asuntos de lo civil y de lo familiar.
 
 Los juzgados de lo penal de los distritos de Morelia, Apatzingán, Uruapan y Zamora, tendrán la competencia y las atribuciones que les confieran las leyes.
 
-En los distritos de La Piedad, Lázaro Cárdenas y Zitácuaro, habrá dos juzgados de primera instancia, y, en los demás distritos judiciales, habrá por lo menos uno. Estos juzgados conocerán, indistintamente, de asuntos de lo civil, de lo familiar y de lo penal.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 1986)</small>
+
+En el Distrito de Lázaro Cárdenas, habrá tres juzgados de primera instancia, en los de Hidalgo, La Piedad, Los Reyes, Pátzcuaro, Tacámbaro y Zitácuaro, habrá dos juzgados de primera instancia, y en los demás Distritos Judiciales, habrá por lo menos uno. Estos juzgados conocerán, indistintamente, de asuntos de lo civil, de lo familiar y de lo penal.
 
 Cuando en un mismo distrito judicial existan dos o más juzgados de primera instancia, éstos serán designados por número ordinal, empezando por el "Primero"; pero en donde los haya para conocer por materias, llevarán numeración independiente.
 
@@ -1526,3 +1530,21 @@ Se faculta al Pleno del Supremo Tribunal para que en cualquier tiempo distribuya
 ###### ARTÍCULO DECIMO.
 
 Las facultades y obligaciones señaladas por las leyes a los Magistrados de las Salas Unitarias, en cuanto al trámite y resolución de los asuntos, se entenderán reservadas a los presidentes de las Salas Colegiadas o a éstas, según el caso.
+
+P.O. 10 DE ABRIL DE 1986.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Supremo Tribunal de Justicia, fijara oportunamente la fecha en que empezarán a funcionar los otros dos juzgados de primera instancia de lo civil y los otros dos de lo penal en el Distrito de Morelia; uno más de lo penal en el Distrito de Uruapan y un mixto más en los Distritos de Hidalgo, Lázaro Cárdenas, Los Reyes, Pátzcuaro y Tacámbaro; mientras que empiecen a funcionar los nuevos juzgados, los asuntos seguirán tramitándose y resolviéndose en los que actualmente radican.
+
+###### ARTICULO TERCERO.
+
+El Supremo Tribunal de Justicia, determinará la denominación de los Juzgados de nueva creación observando lo dispuesto por el párrafo cuarto del artículo 27 de la Ley Orgánica del Poder Judicial del Estado, y dictará las reglas conforme a las cuales se distribuirán, en los Distritos donde se crean los nuevos juzgados, los asuntos que obren en los juzgados ya existentes.
+
+###### ARTICULO CUARTO.
+
+Los acuerdos que dicte el Supremo Tribunal de Justicia en aplicación de este decreto, serán publicados en el Periódico Oficial del Estado.
