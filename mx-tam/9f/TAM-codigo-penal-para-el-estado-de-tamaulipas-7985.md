@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "1997-02-15"
+last_updated: "1999-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -2937,11 +2937,11 @@ Al responsable del apoderamiento o destrucción de expedientes o cualquier pieza
 
 Cuando el apoderamiento se cometa en despoblado recayendo sobre algún instrumento de labranza, maquinaria, del alambre, postes, materiales, materias primas, fruto recolectado o pendiente de recolectar, la pena se agravará hasta en una mitad más de la señalada en el artículo 402 fracciones I, II y III, según el valor de lo robado.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 1993)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 410.
 
-El apoderamiento de uno o más semovientes, además de lo dispuesto en las fracciones I, II y III del Artículo 402, se sancionará con prisión de uno a doce años si se realiza sobre una o más cabezas de ganado asnal, mular, caballar o vacuno y hasta siete años, cuando se trate de una o más cabezas de ganado caprino, ovino o porcino.
+El apoderamiento de uno o más semovientes, además de lo dispuesto en las fracciones I, II y III del Artículo 402, se sancionará con prisión de tres a doce años si se realiza sobre una o más cabezas de ganado asnal, mular, caballar, o vacuno, y hasta siete años, cuando se trate de una o más cabezas de ganado caprino, ovino o porcino.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 1993)</small>
 
@@ -3253,7 +3253,7 @@ VII.- Haga proselitismo o presiones objetivamente a los electores el día de la 
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
-VIII.- Introduzca en o sustraiga de las urnas ilícitamente una o más boletas electorales, o se apodere, destruya o altere boletas, documentos o materiales electorales, o impida de cualquier forma su traslado o entrega a los órganos competentes;
+VIII. Introduzca en o sustraiga de las urnas ilícitamente una o más boletas electorales, o se apodere, destruya o altere boletas, documentos o materiales electorales, o impida de cualquier forma su traslado o entrega a los órganos competentes;
 
 > <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
@@ -3478,3 +3478,9 @@ P.O. 15 DE FEBRERO DE 1997.
 ###### ARTICULO UNICO.
 
 El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ENERO DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
