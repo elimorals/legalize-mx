@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1980-12-29"
+last_updated: "1981-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1981.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -231,11 +231,27 @@ III.- Los núcleos de población ejidal o comunal y los ejidatarios o comuneros,
 
 IV.- Los adquirentes de plantas de Beneficio y Establecimientos Metalúrgicos; y
 
-V.- Los empleados de la Tesorería General del Estado que dolosamente expidan certificados de no adeudo del Impuesto Predial.
+V.- Los empleados de la Tesorería General del Estado que dolosamente expidan certificados de no adeudo del Impuesto Predial;
 
-> <small>(REFORMADA, B.O. 27 DE JULIO DE 1977)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
-VI.- Los adquirentes de productos ejidales o comunales y los intermediarios entre adquirentes productores de los mismos. En lo conducente les son aplicables las disposiciones del artículo 159 de ley.
+VI.- Los adquirentes de productos ejidales o comunales y los intermediarios entre adquirentes y productores de los mismos están obligados:
+
+a).- A empadronarse en la oficina exactora de su Jurisdicción.
+
+b).- A cerciorarse, al recibir el producto, de que se ha pagado el Impuesto y, de no acreditarse ello, a recaudarlo expidiendo el recibo de acuerdo con las normas establecidas; y;
+
+c).- a presentar a la oficina exactora de su jurisdicción, dentro de los días 1o. al 20 de cada mes, una manifestación por cuadruplicado de los productos recibidos durante el mes anterior, enterando el importe del impuesto recaudado.
+
+Esta manifestación deberá contener los siguientes datos:
+
+1).- Fecha en que se recibieron los productos gravados.
+
+2).- Nombre del propietario del producto.
+
+3).- Cantidad de kilogramos del producto recibido.
+
+4).- Nombre y ubicación de los predios ejidales o comunales del que procedan, con expresión del Municipio en el que estén ubicados.
 
 ###### Artículo 14.
 
@@ -371,13 +387,17 @@ El valor catastral será definitivo cuando se efectúe el avalúo de los predios
 
 El valor catastral definitivo de los predios deberá actualizarse, en los siguientes casos:
 
-I.- Cuando el avalúo del predio tenga una antigüedad de más de dos años;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1981)</small>
+
+I.- Cuando el avalúo del predio tenga una antigüedad de más de un año;
 
 II.- Cuando en el predio se hagan construcciones, reconstrucciones o ampliaciones de las construcciones ya existentes;
 
 III.- Cuando la totalidad del predio o parte del predio sea objeto de traslado de dominio, salvo que el avalúo vigente tenga una antigüedad de un año o menos en la fecha del traslado de dominio;
 
-IV.- Cuando el predio aumente de valor con motivo de algún fraccionamiento próximo que se lleve a cabo, así como la apertura o ampliación de calles, la construcción de jardines o edificios públicos, aunque el avalúo vigente tenga una antigüedad de menos de dos años;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1981)</small>
+
+IV.- Cuando el predio aumente de valor con motivo de algún fraccionamiento próximo que se lleve a cabo, así como la apertura o ampliación de calles, la construcción de jardines o edificios públicos, aunque el avalúo vigente tenga una antigüedad de menos de un año;
 
 V.- Cuando se realicen obras o mejoras determinantes en la situación de productividad del predio, tales como obras de irrigación nuevas vías de comunicación que faciliten el transporte de los productos a los centros de consumo;
 
@@ -457,31 +477,49 @@ Un extracto del avalúo y la liquidación del Impuesto se notificará a los inte
 
 Cuando por cualquier razón, las construcciones permanentes de un predio deber ser desocupadas o demolidas, para determinar la cuota del Impuesto se seguirán las reglas siguientes:
 
-I.- Si la Dirección de Comunicaciones y Obras Públicas del Estado ordena la desocupación total:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+
+I.- Si la Secretaría de Desarrollo Urbano y Rural ordena la desocupación total:
 
 a).- Se cambiará la base vigente en la fecha en que se hubiera ordenado la desocupación, para lo cual se deducirá de dicha base el valor de las construcciones;
 
-b).- Para que se efectúe el cambio de la base gravable conforme al inciso anterior, el sujeto de Impuesto deberá presentar a la Tesorería General del Estado una solicitud por escrito a la que deberá acompañarse una copia de la orden dada por aquella Dirección para la desocupación total del edificio. Dicha solicitud se presentará dentro de los quince días siguientes ala (sic) fecha de la desocupación;
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+
+b).- Para que se efectúe el cambio de la base gravable conforme al inciso anterior, el sujeto del Impuesto deberá presentar a la Tesorería General del Estado una solicitud por escrito a la que deberá acompañarse una copia de la orden dada por aquella Secretaría para la desocupación total del edificio.
+
+Dicha solicitud se presentará dentro de los quince días siguientes a la fecha de la desocupación;
 
 c).- La nueva cuota del Impuesto predial entrará en vigor a partir del trimestre siguiente a la fecha de la desocupación del inmueble y continuará vigente por todo el tiempo que el edificio se encuentre totalmente desocupado por orden de dicha dependencia.
 
-d).- Una vez que la Dirección de Comunicaciones y Obras Públicas del Estado haya autorizado que vuelva a ocuparse el edificio, se volverá a poner en vigor la base gravable vigente en la fecha en que se ordenó la desocupación, siempre que no hayan ejecutado nuevas construcciones o reconstrucciones de construcciones ya existentes, pues en ese caso se procederá en los términos del inciso siguiente; y
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
-e).- En los casos en que la Dirección de Comunicaciones y Obras Públicas del Estado ordene la demolición total del edificio y se lleve a cabo la edificación de nuevas construcciones permanentes, los sujetos del Impuesto estarán obligados a presentar la manifestación que señala el artículo 30, fijándose la nueva cuota del gravamen de acuerdo con lo dispuesto en el artículo 31;
+d).- Una vez que la Secretaría de Desarrollo Urbano y Rural haya autorizado que vuelva a ocuparse el edificio, se devolverá a poner en vigor la base gravable, vigente en la fecha en que se ordenó la desocupación, siempre que no hayan ejecutado nuevas construcciones o reconstrucciones de construcciones ya existentes, pues en ese caso se procederá en los términos del inciso siguiente; y
 
-II.- Si la Dirección de Comunicaciones y Obras Públicas del Estado ordena la desocupación parcial:
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
-a).- El Impuesto se causará sobre el último valor catastral del terreno, vigente en la fecha en que la citada Dirección hubiese ordenado la desocupación parcial, más el valor que la Dirección de Catastro asigne a las construcciones aprovechables y respecto de las cuales no se hubiera ordenado su desocupación;
+e).- En los casos en que la Secretaría de Desarrollo Urbano y Rural ordene la demolición total del edificio y se lleve a cabo la edificación de nuevas construcciones permanentes, los sujetos del impuesto estarán obligados a presentar la manifestación que señala el Artículo 30, fijándose la nueva cuota del gravamen de acuerdo con lo dispuesto en el Artículo 31;
 
-b).- Para que se efectúe el cambio de la base gravable conforme al inciso anterior, el sujeto del Impuesto deberá presentar a la Tesorería General del Estado una solicitud por escrito a la que deberá acompañar copia de la orden de la Dirección de Comunicaciones y Obras Públicas del Estado para la desocupación parcial del edificio;
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+
+II.- Si la Secretaría de Desarrollo Urbano y Rural ordena la desocupación parcial:
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+
+a).- El Impuesto se causará sobre la base determinada conforme al último valora catastral del terreno, vigente en el fecha en que la citada Secretaría hubiese ordenado la desocupación parcial, más el valor que la Dirección de Catastro asigne a las construcciones aprovechables y respecto de las cuales no se hubiera ordenado su desocupación;
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+
+b).- Para que se efectúe el cambio de la base gravable conforme al inciso anterior, el sujeto del impuesto deberá presentar a la Tesorería General del Estado, una solicitud por escrito a la que deberá acompañar copia de la orden de la secretaría de Desarrollo Urbano y Rural para la desocupación parcial del edificio;
 
 c).- La nueva cuota del impuesto predial entrará en vigor a partir del primer trimestre siguiente a la fecha de la desocupación del inmueble y continuará vigente por todo el tiempo que el edificio se encuentre parcialmente desocupado por orden de dicha dependencia;
 
-d).- Una vez que la Dirección de Comunicaciones y Obras Públicas del Estado haya autorizado que vuelva a ocuparse el edificio, se volverá a poner en vigor l (sic) base gravable vigente en la fecha en que se ordenó la desocupación, siempre que no se hayan ejecutado nuevas construcciones o reconstrucciones de construcciones ya existentes, pues en ese caso se procederá en los términos del inciso siguiente; y
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
-> <small>(REFORMADO, B.O. 4 DE JUNIO DE 1977)</small>
+d).- Una vez que la Secretaría de Desarrollo Urbano y Rural haya autorizado que vuelva a ocuparse el edificio, se volverá a poner en vigor la base gravable vigente en la fecha en que se ordenó la desocupación, siempre que nose (sic) hayan ejecutando nuevas construcciones o reconstrucciones de construcciones ya existentes, pues en ese caso, se procederá en los términos del inciso siguiente; y
 
-e).- En los casos en que la Dirección General de Obras Públicas del Estado hubiere ordenado la demolición parcial del edificio y posteriormente si hubiera llevado a cabo la edificación de una nueva construcción permanente, los sujetos del impuesto estarán obligados a presentar la manifestación que señala el artículo 30.- La nueva base gravable se obtendrá sumando el valor catastral del terreno y las construcciones aprovechables que se hubiesen señalado conforme al inciso a) de esta fracción, el valor que se asigne a la nueva construcción de acuerdo con el artículo 31;
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+
+e).- En los casos en que la Secretaría de Desarrollo Urbano y Rural hubiere ordenado la demolición parcial del edificio y posteriormente se hubiera llevado a cabo la edificación de una nueva construcción permanente, los sujetos del impuesto estarán obligados a presentar la manifestación que señala el Artículo 30. La nueva base gravable se obtendrá sumando el valor catastral del terreno y las construcciones aprovechables que se hubiesen señalado conforme al inciso a) de esta fracción, al valor que se asigne a la nueva construcción de acuerdo al artículo 31;
 
 III.- Si el inmueble es demolido voluntariamente por su propietario, se procederá en los siguientes términos:
 
@@ -493,33 +531,45 @@ Para los efectos de este artículo, el propietario del predio estará obligado a
 
 #### Sección Sexta. Fraccionamientos
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### Artículo 37.
 
-La Dirección de Comunicaciones y Obras Públicas del Estado deberá enviar a la Tesorería General del Estado, copia de las solicitudes para fraccionar terrenos que le sean formuladas por personas físicas o morales, dentro de los diez días siguientes a su recepción, a fin de que proceda al deslinde catastral correspondiente, previo el pago de los derechos correspondientes, así como para que ésta comunique a aquélla las observaciones u objeciones que considere pertinentes, dentro de un plazo que no excederá de un mes.
+La Secretaría de Desarrollo Urbano y Rural, deberá enviar a la Tesorería General del Estado, copia de las solicitudes para fraccionar terrenos que le sean formuladas por personas físicas o morales, dentro de los diez días siguientes a su recepción, a fin de que proceda al deslinde correspondiente, previo el pago de los derechos respectivos, así como para que ésta comunique a aquélla las observaciones y objeciones que considera pertinentes, dentro de un plazo que no excederá de un mes.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 38.
 
-Efectuado el deslinde catastral y una vez que la Dirección de Comunicaciones y Obras Públicas apruebe el plano del fraccionamiento, enviará copia del mismo a la Tesorería General del Estado.
+Efectuado el deslinde y una vez que la Secretaría de Desarrollo Urbano y Rural apruebe el plano de fraccionamiento, enviará copia del mismo a la Tesorería General del Estado.
 
 ###### Artículo 39.
 
 En el plano aprobado se deberán delimitar las superficies lotificadas y las destinadas a calles, avenidas, plazas, parques, jardines, escuelas y mercados, así como la superficies que el fraccionador done al Estado de Sonora para Servicios Públicos.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### Artículo 40.
 
-Dentro de los quince días siguientes a aquel en que la Tesorería General del Estado reciba la documentación a que se refieren los artículos anteriores, señalará la clave catastral a cada uno de los lotes de terreno que constituyan el fraccionamiento.
+Dentro de los quince días siguientes a aquél en que la Tesorería General del Estado reciba copias del plano a escala del predio que se pretenda fraccionar, señalará la clave catastral a cada uno de los lotes de terreno que constituyan el fraccionamiento, misma que servirá de base para la identificación de las operaciones que posteriormente se realicen.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 41.
 
-La Dirección de Comunicaciones y Obras Públicas y el fraccionador deberán comunicar por escrito, a la Tesorería General del Estado, cualquier modificación que se autorice a los planos aprobados. Esta comunicación se hará dentro de los quince días siguientes a la fecha en que se hubiesen autorizado las modificaciones y deberá acompañarse un ejemplar del plano en que estas aparezcan señaladas, para que la Tesorería proceda en los términos de las disposiciones de este capítulo.
+La Secretaría de Desarrollo Urbano y Rural y el Fraccionador, deberán comunicar por escrito a la Tesorería General del Estado, cualquier modificación que se autorice a los planos aprobados. Esta comunicación se hará dentro de los quince días siguientes a la fecha en que se hubiesen autorizado las modificaciones y deberá acompañarse un ejemplar del plano en que éstas aparezcan señaladas, para que la Tesorería proceda en los términos de las disposiciones de este Capítulo.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 42.
 
-Una vez que el convenio para la autorización del fraccionamiento sea elevado a escritura pública, que el fraccionador pague los derechos de supervisión de las obras de urbanización, otorgue las garantías estipuladas para la ejecución de esas obras y cumpla con las demás obligaciones a su cargo establecidas en el convenio, la Dirección de Comunicaciones y Obras Públicas del Estado autorizará, por escrito, la enajenación de los lotes correspondientes, debiendo enviar, dentro de un plazo que no excederá de diez días, copia de dicho documento a la Tesorería General del Estado.
+Una vez que el convenio para la autorización del fraccionamiento sea elevado a escritura pública, que el fraccionador pague los derechos de supervisión de las obras de urbanización, otorgue las garantías estipuladas para la ejecución de estas obras y cumpla con las demás obligaciones a su cargo establecidas en el Convenio, la Secretaría de Desarrollo Urbano y Rural, autorizará por escrito la enajenación de los lotes correspondientes, debiendo enviar dentro de un plazo que no excederá de diez días, copia de dicho documento a la Tesorería General del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 43.
 
-La Dirección de Comunicaciones y Obras Públicas del Estado dará aviso a la Tesorería General del Estado, de la terminación de las obras de urbanización del fraccionamiento de que se trate, dentro de los quince días siguientes.
+La Secretaría de Desarrollo Urbano y Rural dará aviso a la Tesorería General del Estado de la terminación de las obras de urbanización del fraccionamiento de que se trate, dentro de los quince días siguientes:
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1977)</small>
 
@@ -653,13 +703,15 @@ En consecuencia, el procedimiento de ejecución fiscal que establece el Titulo Q
 
 No quedan comprendidas en esta disposición las multas que se impongan por la comisión de infracciones al presente capítulo, pues dichas sanciones se consideran personales para todos los efectos legales.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### Artículo 55.
 
-Se prohibe a los notarios públicos autorizar, en forma definitiva, escrituras en que hagan constar contratos o resoluciones judiciales o administrativas, cuyo objeto sean predios ubicados en el Estado de Sonora, mientras no les sea exhibido certificado de no adeudo del Impuesto predial y de multas, en su caso, respecto de dichos predios, expedido por la Tesorería General del Estado. Sin embargo, si por causas no imputables al enajenante, la propia Tesorería no hubiese empadronado el predio comprendiendo el terreno y las construcciones, en su caso, el Tesorero General del Estado podrá facultar a los notarios para que otorguen dicha autorización definitiva, sin que les sea exhibido el certificado de no adeudo a que se refiere este artículo. Si el terreno estuviera empadronado, pero no las construcciones por causas imputables a la Tesorería, los notarios públicos podrán autorizar en forma definitiva las escrituras respectivas si se les exhibe el certificado de no adeudo del impuesto Predial y de multas, en los términos de este artículo respecto de dichos terrenos. En este caso, si las construcciones ya hubieren sido terminadas, los interesados exhibirán el aviso de terminación de construcción al notario y éste deberá mencionar en las declaraciones del traslado de dominio, la fecha de presentación y el número con el que quedó registrado el aviso en la oficialía de partes. Lo dispuesto en este artículo sólo surtirá efectos en relación con el impuesto predial y las multas que se apliquen por violaciones al presente capítulo.
+Se prohibe a los Notarios Públicos autorizar en forma definitiva, escritura en que hagan constar contratos o resoluciones judiciales o administrativas, cuyo objeto sean predios ubicados en el Estado de Sonora, mientras no les sea exhibida la constancia sobre los mismos de estar al corriente en el pago del Impuesto Predial, para lo cual se les deberá presentar la última boleta o recibo de pago correspondiente al trimestre de que se trate, expedido por la Tesorería General del Estado. Sin embargo, si el terreno estuviera empadronado, pero no las construcciones por causas imputables a la Tesorería, los Notarios Públicos podrán autorizar en forma definitiva las escrituras respectivas si se les exhibe la última boleta o recibo de pago del Impuesto Predial, en los términos de este artículo respecto de dicho terreno. En este caso, si las construcciones ya hubieren sido terminadas, los interesados exhibirán el aviso de terminación de construcción al Notario y éste deberá mencionar en las declaraciones del traslado de dominio, la fecha de presentación y el número con el que quedó registrado el aviso en la Oficialía de Partes. Lo dispuesto en este artículo sólo surtirá efectos en relación con el Impuesto Predial y las multas que se apliquen por violaciones al presente Capítulo.
 
-No obstante esto, los notarios no otorgarán autorizaciones definitivas de escrituras, cuando el predio de lo que se trate reporte adeudos por conceptos distintos del Impuesto predial, pues entonces se aplicará la disposición relativa del artículo de ésta Ley.
+No obstante esto, los notarios no otorgarán autorizaciones definitivas de escrituras, cuando el predio de que se trate reporte adeudos por conceptos distintos del Impuesto Predial, pues entonces se aplicará la disposición relativa del Artículo (sic) de esta Ley.
 
-Los certificados de no adeudo y las autorizaciones que se expidan a los notarios, tendrán vigencia enel (sic) trimestre en que hubiesen sido expedidos.
+Los Certificados de No Adeudo y las autorizaciones que se expidan a los Notarios, tendrán vigencia en el trimestre en que hubiesen sido expedidos.
 
 ###### Artículo 56.
 
@@ -695,13 +747,17 @@ Las manifestaciones que exige este capítulo, respecto de contratos de promesa d
 
 Los notarios públicos que autoricen dichas escrituras tendrán obligación de manifestar también esos contratos, resoluciones o actos a la Tesorería General del Estado, dentro del mismo término que establece el párrafo anterior, pudiendo emplear para este efecto la manifestación que formulen en relación con el impuesto sobre Traslación de Dominio de Bienes Inmuebles que establece el Capítulo Quinto de esta Ley.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### Artículo 62.
 
-La Dirección de Comunicaciones y Obras Públicas del Estado y las Autoridades Municipales del Estado tendrán la obligación de proporcionar a la Tesorería General del Estado una relación de los permisos de construcción otorgados así como comunicar las fechas de terminación de construcciones permanentes, de reconstrucciones o ampliaciones de construcciones permanentes o las fechas en que estas se ocupen o aprovechen en cualquier forma, sin estar terminadas, dentro de los quince días posteriores a la terminación del mes que corresponda.
+La Secretaría de Desarrollo Urbano y Rural y las Autoridades Municipales del Estado, tendrán la obligación de proporcionar a la Tesorería General del Estado, una relación de los permisos de construcción otorgados, así como comunicar las fechas de terminación de construcciones, reconstrucciones o ampliaciones permanentes o las fechas en que éstas se ocupen o aprovechen en cualquier forma, sin estar terminadas, dentro de los quince días posteriores a la terminación del mes que corresponda.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 63.
 
-Las comunicaciones a que se refiere el artículo anterior se harán por escrito dentro de los quince días siguientes a la fecha en que la Dirección de Comunicaciones y Obras Públicas del Estado reciba las manifestaciones de terminación o de ocupación de las construcciones, reconstrucciones o ampliaciones que deban presentar los constructores, de acuerdo con las disposiciones legales y reglamentarias relativas.
+Las comunicaciones a que se refiere el Artículo anterior, se harán por escrito dentro de los quince días a la fecha en que la Secretaría de Desarrollo Urbano y Rural reciba las manifestaciones de terminación o de ocupación de las construcciones, reconstrucciones o ampliaciones que deban presentar los constructores, de acuerdo con las disposiciones legales y reglamentos relativas.
 
 ###### Artículo 64.
 
@@ -1885,9 +1941,11 @@ IX.- Cada uno de los permutantes, en la transmisión de bienes por permuta;
 
 X.- El usufructuario, en el usufructo.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### Artículo 187.
 
-En tratándose de la fracción I, II y IV del artículo anterior, la exención que gocen en el pago del impuesto uno de los sujetos, no beneficia al otro.
+En tratándose de las fracciones I y VII del Artículo anterior, la exención que goce en el pago del impuesto uno de los sujetos, no beneficia al otro.
 
 ###### Artículo 188.
 
@@ -3229,7 +3287,9 @@ b).- Revalidación de marcas 25.00
 
 III.- Por clasificación de carnes, a cargo de los engordadores, se cobrará por cada kilo de carne en canal $0.13.
 
-La administración del rastro o plantas empacadoras en que se sacrifique el ganado, actuará como retenedora de estos derechos, exigiendo su pago antes de permitir la salida de carne de su establecimiento, excepto tratándose de miembros de la Unión de Engordadores, la que será responsable solidaria y por lo tanto obligada a retener y enterar dicha transportación. Estos derechos sólo se causarán por el sacrificio de ganado procedente de corrales de engorda y praderas irrigadas y deberán enterarse por los retenedores dentro de los 15 primeros días del mes siguiente a la prestación del servicio.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+
+La administración del rastro o planta empacadora en que se sacrifique el ganado, actuará como retenedora de estos derechos, exigiendo su pago antes de permitir la salida de carne de su establecimiento. Estos derechos sólo se causarán por el sacrificio de ganado procedente de corrales de engorda y praderas irrigadas y deberán enterarse por los retenedores, dentro de los quince primeros días del mes siguiente a la prestación del servicio.
 
 ### Capítulo Noveno. Servicios por Registro de Automóviles, Licencias para Manejar y Resellos
 
@@ -3263,7 +3323,7 @@ del punto anterior, por cada prórroga 200.00
 
 ### Capítulo Décimo. Derechos por Servicios en materia de Autotransportes y Otros
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 309.
 
@@ -3339,9 +3399,9 @@ e).- Para construcciones con valor de $200.000.01
 
 en adelante 500.00
 
-4.- Por expedición de permisos de caza 300.00
+4.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1981)
 
-5.- Por expedición de permisos para portar armas 500.00
+5.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1981)
 
 6.- (DEROGADO, B.O. 29 DE DICIEMBRE DE 1980)
 
@@ -3439,6 +3499,14 @@ Estado, de $200.00 a 1,000.00
 
 No se causará ningún derecho por la exhumación de cadáveres cuando ésta sea decretada por Autoridad competente, en un proceso penal.
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+
+19.- Por asignación de clave catastral a lotes
+
+de terreno de fraccionamientos, se pagará
+
+por cada uno 20.00
+
 ### Capítulo Décimo Segundo. Inspección Sanitaria
 
 ###### Artículo 311.
@@ -3469,7 +3537,7 @@ a los avisos anteriores, por cada palabra 1.50
 
 Las placas tipo único para todos los vehículos, se clasifican en los siguientes grupos y serán bianuales, aplicándose por su expedición, canje o transferencia, las tarifas que siguen conforme a sus especificaciones:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
 1.- DE TRANSPORTE PRIVADO: Que deberán
 
@@ -3479,13 +3547,13 @@ para uso particular. Estas placas solicitadas
 
 durante el primer año del bienio, causaran
 
-una cuota de $320.00
+una cuota de $360.00
 
 Cuando se soliciten durante el segundo año del
 
-bienio 160.00
+bienio 180.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
 2.- DE SERVICIO PUBLICO LOCAL: Que deberán
 
@@ -3495,11 +3563,11 @@ se utilicen para prestar servicio de transporte de
 
 personas o cosas dentro del Estado. Cuando
 
-soliciten dentro del primer año del bienio 250.00
+soliciten dentro del primer año del bienio 275.00
 
 Cuando se soliciten dentro del segundo año del
 
-bienio 125.00
+bienio 150.00
 
 3.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1977)
 
@@ -3535,17 +3603,17 @@ Los derechos por expedición de licencias para conducir, así como resellos de l
 
 1.- LICENCIAS:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
 a).- De automovilistas de acuerdo a su vigencia, como sigue:
 
-2 años $300.00
+2 años $400.00
 
-3 años $400.00
+3 años $600.00
 
-4 años $500.00
+4 años $800.00
 
-5 años $600.00
+5 años $1,000.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -3607,9 +3675,11 @@ automóviles o camiones 50.00
 
 motocicletas 25.00
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### Artículo 318.
 
-Requieren licencia de chofer, las personas que habitualmente y mediante retribución, manejen vehículos de combustión interna, en los términos a que se refiere el Artículo 48 fracción II de la Ley número 59 de Tránsito y Autotransporte para el Estado de Sonora.
+La expedición, resello o revalidación de las licencias a que se refiere el artículo 316 de esta Ley se autorizará previo el cumplimiento de los requisitos establecidos en la Ley de Tránsito y Autotransportes para el Estado de Sonora.
 
 ###### Artículo 319.
 
@@ -3619,123 +3689,121 @@ A las reposiciones de licencias se les aplicará el mismo importe de los derecho
 
 ###### Artículo 320.
 
-Los servicios de la Dirección de Autotransportes en el Estado que presten a los particulares, causarán el pago de derechos conforme a las especificaciones y tarifas siguientes:
+Los servicios que el Comité de Consulta y Vigilancia del Servicio Público de Autotransporte en el Estado preste a los particulares, causarán el pago de derechos conforme a las especificaciones y taifas siguientes:
 
-1.- Por el otorgamiento de concesión estatal
+1.- Para la expedición de permiso que ampare
 
-para el servicio público de autotransportes
+la explotación de concesión de servicio público
 
-en la modalidad de pasaje, por unidad $10,000.00
+de jurisdicción estatal por unidad:
 
-2.- Por el otorgamiento de concesión estatal
+a).- Pasaje de: 25,000.00 a 50,000.00
 
-para el servicio público de autotransportes
+b).- Carga de: 10,000.00 " 25,000.00
 
-en la modalidad de carga, por unidad $5,000.00
+2.- Por revisión anual de los permisos que amparen
 
-3.- Por el otorgamiento de concesión estatal
+la explotación de concesiones de servicio público
 
-para el servicio público de autotransportes en la
+de transporte de jurisdicción estatal por unidad:
 
-modalidad de mixto (carga liviana y pasajeros),
+a).- Pasaje 1,500.00
 
-por unidad $12,000.00
+b).- Carga 500.00
 
-4.- Por revisión anual de las concesiones del servicio
+3.- Por la expedición de permiso temporal para
 
-público de autotransportes en las tres modalidades:
+la explotación del servicio público de transporte
 
-a).- Pasaje, por unidad $1,500.00
+de Jurisdicción Estatal por unidad:
 
-b).- Carga, por unidad $500.00
+a).- Pasaje de: 2,000.00 a 5,000.00
 
-c).- Mixto, por unidad $2,000.00
+b).- Carga de: 2,000.00 " 5,000.00
 
-5.- Por la expedición de permisos temporales para la
+4.- Por autorización de vehículos de emergencia
 
-explotación del servicio público de Autotransportes:
+para los concesionarios de servicio público de
 
-a).- Pasaje, por unidad $2,000.00
+transporte de jurisdicción estatal por unidad:
 
-b).- Carga, por unidad $2,000.00
+a).- Pasaje 3,000.00
 
-c).- Mixto, por unidad $2,000.00
+b).- Carga 3,000.00
 
-6.- Por autorización de vehículos de emergencia
+5.- Por autorización de alta y baja de unidades
 
-para los concesionarios:
+concesionadas por unidad:
 
-a).- Pasaje, por unidad $1,000.00
+a).- Pasaje 1,000.00
 
-b).- Carga, por unidad $1,000.00
+b).- Carga 1,000.00
 
-c).- Mixto, por unidad $1,000.00
+6.- Por estudios que realice el Departamento
 
-7.- Por autorización de Altas y Bajas de unidades
+Técnico, adscrito al Comité, a solicitud de
 
-concesionadas en las tres modalidades, por unidad $750.00
+particulares para determinar las necesidades
 
-8.- Por estudios que realice el Departamento Técnico
+de servicio público de transporte de jurisdicción Estatal:
 
-a solicitud de particulares para determinar las
+a).- Pasaje de 30,000.00 a 50,000.00
 
-necesidades del servicio público de Autotransportes
+b) Carga de 30,000.00 " 50,000.00
 
-en las tres modalidades $20,000.00
+7.- Por la expedición de permisos con motivo de
 
-9.- En las ampliaciones de ruta en las tres modalidades:
+ampliación de ruta o radios de jurisdicción en las
 
-I.- Pasaje
+concesiones de Servicio Público de Transporte
 
-a).- Que exceda del 50% de kilometraje que tenga
+de jurisdicción Estatal:
 
-autorizado en la concesión, por unidad $10,000.00
+I.- Pasaje:
 
-b).- Que sea menos del 50% del kilometraje
+a).- Que exceda del 50% del kilometraje que tenga
 
-autorizado en la concesión, por unidad $5,000.00
+autorizado en la concesión, por unidad de 20,000.00 " 25,000.00
 
-II.- Carga
+b).- Que no exceda del 50% del kilometraje que
 
-a).- Que exceda del 50% del radio de acción
+tenga autorizado en la concesión, por unidad
 
-autorizado en la concesión $5,000.00
+de 10,000.00 " 12,500.00
 
-b).- Que sea menos del 50% del radio de acción
+II.- Carga:
 
-autorizado en la concesión, por unidad $2,500.00
+a) Que exceda del 50% del radio de acción
 
-III.- Mixto
+autorizado en la concesión, por unidad
 
-a).- Que exceda del 50% del kilometraje autorizado
+de 10,000.00 " 12,500.00
 
-en la concesión, por unidad $12,000.00
+b).- Que no exceda del 50% del radio de acción
 
-b).- Que sea menos del 50% del kilometraje autorizado
+autorizado en la concesión, por unidad
 
-en la concesión, por unidad $6,000.00
+de 5,000.00 " 6,250.00
 
-10.- Por autorización de permisos particulares de
+8.- Por expedición de permisos que amparen el
 
-Autotransportes por unidad:
+Servicio Particular de Transporte sean de
 
-a).- Personas físicas $3,000.00
+Jurisdicción Estatal, por unidad:
 
-b).- Personas morales, por unidad $5,000.00
+I.- Personas físicas:
 
-11.- Por revisión de permisos particulares, por unidad:
+a).- Vehículo hasta de una tonelada de capacidad $1,000.00
 
-a).- Personas físicas $1,000.00
+b).- Vehículos con capacidad mayor de una tonelada 3,000.00
 
-b).- Personas morales $1,000.00
+II.- Personas morales: 5,000.00
 
-12.- Por autorización y explotación a centrales y
+9.- Por estudios técnicos y socioeconómicos a solicitud
 
-terminales camioneras $25,000.00
+de concesionarios, que realice el Departamento Técnico,
 
-13.- Por estudio y autorización en su caso de aumento
-
-de tarifas para vehículos concesionados $7,500.00
+adscrito al Comité para la modificación de Tarifas 50,000.00
 
 ### Capítulo Unico
 
@@ -4298,3 +4366,9 @@ PRIMERO: Esta Ley entrará en vigor en todo el Estado, el día 1o. de Enero de 1
 SEGUNDO: A partir de la fecha en que entren en vigor las reformas, supresiones y ediciones a que esta ley se refiere, quedan sin efecto, las disposiciones administrativas, resoluciones, consultas, interposiciones, autorizaciones o permisos de carácter general a que se hubieren otorgado a título particular, que contravengan o se opongan a lo preceptuado en dichas reformas, supresiones o adiciones.
 
 TERCERO: Los impuestos, derechos y contribuciones, causados conforme a las disposiciones vigentes con anterioridad a la fecha en que entre en vigor la presente Ley, deberán ser pagados en el monto, forma y plazos establecidos en dichas disposiciones.
+
+B.O. 31 DE DICIEMBRE DE 1981.
+
+PRIMERO: Esta Ley entrará en vigor, el día 1o. de Enero de 1982, previa publicación en el Boletín Oficial del Estado.
+
+SEGUNDO: A partir de la fecha en que entren en vigor las reformas, supresiones y adiciones a que esta Ley se refiere, quedan sin efecto las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieren otorgado a título particular, que contravengan o se opongan a los preceptuados (sic) en dichas reformas o adiciones.
