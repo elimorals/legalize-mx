@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1919-06-25"
+last_updated: "1926-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 1919.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 1926.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -323,7 +323,13 @@ No podrán ser electos para el período inmediato los Ciudadanos que hayan desem
 
 En las faltas absolutas del Gobernador, se procederá a nueva elección y el que resulte electo tomará posesión de su cargo luego que se haga la declaratoria correspondiente.
 
-En las faltas temporales y en las absolutas, mientras se verifica la elección y se presenta el nuevamente electo, entrará en ejercicio del Poder Ejecutivo, interinamente, el C. Diputado a quien designe el Congreso por mayoría absoluta de votos, en escrutinio secreto, y obrando como Colegio Electoral. Si la falta absoluta del Gobernador ocurriere en el último año del período constitucional, no se convocará a elecciones extraordinarias, sino que la persona que desempeñare el Poder Ejecutivo, por designación de la Legislatura, seguirá encargado de él hasta que concluya dicho período.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1926)</small>
+
+En las faltas temporales y en las absolutas, mientras se verifica la elección en su caso y se presenta el nuevo electo, entrará en ejercicio del Poder Ejecutivo interinamente, la persona a quien designe el Congreso por mayoría absoluta de votos, en escrutinio secreto y obrando como Colegio Electoral.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 1926)</small>
+
+Si la falta absoluta del Gobernador, ocurriera en el último año del período Constitucional, no se convocará a elecciones extraordinarias, sino que, el que desempeñare el Poder Ejecutivo, seguirá encargado de él hasta que concluya dicho período.
 
 ### CAPITULO PRIMERO.
 
@@ -610,3 +616,9 @@ Sancionada en Aguascalientes, capital del Estado del mismo nombre, a los seis d�
 P.O. 25 DE JUNIO DE 1919.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 15 DE ENERO DE 1926.
+
+###### Artículo 2°.
+
+El presente decreto comenzará a surtir sus efectos desde la fecha de su expedición.
