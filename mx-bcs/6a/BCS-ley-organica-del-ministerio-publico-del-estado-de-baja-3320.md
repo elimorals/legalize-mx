@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-ministerio-publico-del-estado-de-baja-3320"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1984-12-20"
+last_updated: "1991-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 1991.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1976.
 
@@ -125,13 +125,21 @@ III. Los Agentes del Ministerio Público Auxiliares, Adscritos a la Procuradurí
 
 IV. Un Director de Averiguaciones Previas y de Control de procesos; Agente del Ministerio Público.
 
-V. Los Agentes del Ministerio Público investigadores y adscritos a los Juzgados y al Tribunal Superior de Justicia.
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1991)</small>
 
-VI. Un Director de servicios periciales.
+V. Un Subdirector de Averiguaciones Previas.
 
-VII. Un Director de la Policía Judicial.
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1991)</small>
 
-VIII. Los Jefes de Oficina y demás personal que señale el Presupuesto.
+VI. Un Subdirector de Control de Procesos.
+
+VII. Los Agentes del Ministerio Público investigadores y adscritos a los Juzgados y al Tribunal Superior de Justicia.
+
+VIII. Un Director de servicios periciales.
+
+IX. Un Director de la Policía Judicial.
+
+X. Los Jefes de Oficina y demás personal que señale el Presupuesto.
 
 ###### ARTICULO 10o.
 
@@ -487,11 +495,13 @@ VIII. Cumplir con las demás comisiones que les señale el Procurador.
 
 ### CAPITULO CUARTO. DE LA DIRECCION DE AVERIGUACIONES PREVIAS Y DE CONTROL DE PROCESO
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 38.
 
-La Dirección de Averiguaciones Previas y de Control de Procesos estará a cargo de un Director Agente del Ministerio Público que será designado por el Procurador General de Justicia.
+La Dirección de Averiguaciones Previas y de Control de Procesos estará a cargo de un Director Agente del Ministerio Público que será designado por el Procurador General de Justicia y tendrá las facultades y obligaciones siguientes:
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
 
 Podrá contar con un Subdirector que el Procurador General de Justicia designe, quien ejercerá las atribuciones del Director por acuerdo del mismo, con el número de Agencias Investigadoras del Ministerio Público en todo el Estado que sean necesarias para el servicio de sus funciones, conforme lo autorice el Presupuesto de Egresos y tendrá las facultades y obligaciones siguientes:
 
@@ -526,6 +536,48 @@ X. Desahogar las consultas que formulen los Agentes del Ministerio Público, ads
 XI. En general, atender y orientar al público, especialmente a las víctimas de los delitos, a cerca de sus derechos y obligaciones en los negocios judiciales en que intervengan en los Tribunales del Fuero Común del Estado.
 
 XII. Las demás que le atribuyan las Leyes, los Reglamentos, el Procurador General de Justicia del Estado y el Subprocurador.
+
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 1991)</small>
+
+ARTICULO 38 A.- La Dirección de Averiguaciones Previas y Control de Procesos, para el desempeño de funciones contará con dos subdirecciones, de Averiguaciones Previas y Control de Procesos respectivamente; y, estará a cargo de un Subdirector por cada una de las dependencias señaladas, nombrados por el Procurador de Justicia con el número de agencias investigadoras y adscritas al Ministerio Público en todo el Estado que sean necesarias para el servicio de sus funciones conforme lo autorice el presupuesto de egresos.
+
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 1991)</small>
+
+ARTICULO 38 B.- Son facultades y obligaciones del Subdirector de Averiguaciones Previas:
+
+I. Suplir en sus funciones al Director, en los casos previstos en esta Ley.
+
+II. Cumplir, por acuerdo del Director, con las funciones que a éste le confieren las fracciones I, II, III, IV, V, VI, VII, y VIII del artículo 38 de la presente Ley.
+
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 1991)</small>
+
+ARTICULO 38 C.- Son facultades y obligaciones del Subdirector de Control de Procesos:
+
+I. Suplir en sus funciones al Director en los casos previstos en la Ley.
+
+II. Llevar, con las constancias que se estimen necesarias un control de procesos que se sigan en los Juzgados del Fuero Común en todo el Estado con motivo de las averiguaciones previas consignadas.
+
+III. Supervisar las funciones que desempeñen los Agentes del Ministerio Público adscritos a los Juzgados y al Tribunal Superior de Justicia del Estado.
+
+IV. Practicar las visitas que sus superiores le encomienden a las agencias del Ministerio Público adscritas a los Juzgados y al Tribunal Superior de Justicia del Estado, rindiendo un informe pormenorizado del resultado de las visitas y proponiendo las medidas que a su juicio deban tomarse en cada caso.
+
+V. Para el efecto de cumplir con sus facultades y obligaciones, en la Subdirección se llevará un libro de registro de expedientes en el que se asiente cada uno de los procesos que se tramiten en las Agencias del Ministerio Público adscritas los Juzgados Penales y al Tribunal Superior de Justicia del Estado, que contendrá cuando menos los datos de la averiguación previa que dio inicio al proceso así como la evolución que este reporte y las observaciones que fueren pertinentes.
+
+VI. Desahogar las consultas que formulen los Agentes del Ministerio Público adscritos a los Tribunales del Fuero Común.
+
+VII. En general, atender y orientar al público especialmente, a las víctimas de los delitos, acerca de sus derechos y obligaciones en los asuntos judiciales en que intervengan en los Tribunales del Fuero Común del Estado.
+
+VIII. Previo acuerdo del Director, vigilar e intervenir en todos los negocios de la competencia de los Tribunales del Fuero Común en el Estado, siempre que en estos, conforme a la ley deba ser oído el Ministerio Público o intervenir en los mismos, ya como actor, demandado o tercer opositor o con cualquier otro carácter que le concedan las Leyes.
+
+IX. Previo acuerdo del Director, someter a la consideración del funcionario que corresponda, los dictámenes formulados por los Agentes del Ministerio Público adscritos a los Tribunales del Fuero Común, en los casos siguientes:
+
+a).- Cuando se consulte sobre el desistimiento de la acción penal.
+
+b).- Cuando se formulen conclusiones de no acusación.
+
+c).- Cuando al formularse conclusiones no se comprenda algún delito que resulte probado durante la instrucción o si fueren contrarias a las constancias procesales, o si en ella no se cumpliere con los requisitos que establezca la Ley procesal.
+
+X. Las demás que le atribuyan las Leyes, los Reglamentos, el Procurador General de Justicia y Subprocurador.
 
 > <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
 
@@ -725,7 +777,7 @@ Los Agentes del Ministerio Público que soliciten instrucciones del Procurador o
 
 ###### ARTICULO 57.
 
-Los agentes del Ministerio Público al formular sus conclusiones ante los Tribunales, harán una exposición metódica y suscinta (sic) de los hechos conducentes, citarán las leyes, jurisprudencia y doctrina aplicable, y en vista de ello, emitirán su juicio en proposiciones claras, precisas y concretas.
+Los agentes del Ministerio Público al formular sus conclusiones ante los Tribunales, harán una exposición metódica y suscinta (sic)de los hechos conducentes, citarán las leyes, jurisprudencia y doctrina aplicable, y en vista de ello, emitirán su juicio en proposiciones claras, precisas y concretas.
 
 ###### ARTICULO 58.
 
@@ -822,3 +874,9 @@ B.O. 20 DE DICIEMBRE DE 1984.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE JUNIO DE 1991.
+
+###### ARTICULO UNICO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
