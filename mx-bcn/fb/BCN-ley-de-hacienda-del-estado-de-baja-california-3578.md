@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1976-01-31"
+last_updated: "1976-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 1976.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -627,9 +627,11 @@ Son obligaciones de los causantes:
 
 I.- Llevar cuando menos los registros contables simplificados en la forma que para tal efecto disponen los preceptos fiscales federales respectivos.
 
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 1976)</small>
+
 II.- Los asientos correspondientes a las operaciones efectuadas, deberán registrarse en los libros legalmente autorizados, dentro de los sesenta días siguientes a la fecha en que hayan sido realizadas, designando las circunstancias y carácter de cada operación y el resultado que produzca a su cargo o descargo.
 
-Los ingresos obtenidos de las operaciones antes mencionadas, deberán ser registrados dentro de los días 1o. al 15 del mes siguiente al que se haya percibido.
+Los ingresos obtenidos de las operaciones antes mencionadas, deberán ser registrados dentro de los días 1o. al 20 del mes siguiente al que se hayan percibido.
 
 III.- Conservar la documentación y demás elementos contables y comprobatorios en el domicilio señalado en la solicitud de empadronamiento;
 
@@ -1704,3 +1706,7 @@ P.O. 31 DE ENERO DE 1976.
 DECRETO NUMERO 108.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE MAYO DE 1976.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
