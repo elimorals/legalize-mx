@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-29-2000-del-pleno-del-consejo-de-la-5545
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-05-26"
-last_updated: "2000-05-26"
+last_updated: "2001-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55457&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-05-17"
 
 ACUERDO GENERAL NUMERO 29/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL TURNO DE LOS ASUNTOS QUE SE REMITAN A LOS TRIBUNALES COLEGIADOS DE CIRCUITO DEL PODER JUDICIAL DE LA FEDERACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL 14/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 14 DE MARZO DE 2001, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de mayo de 2000.
 
@@ -80,3 +82,15 @@ SEGUNDO.- Se derogan los Acuerdos Generales números 3/1996 y 15/1999, emitidos 
 TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, y comuníquese a los Tribunales de Circuito y Juzgados de Distrito del Poder Judicial de la Federación para su cumplimiento.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General número 29/2000, del Pleno del Consejo de la Judicatura Federal que regula el turno de los asuntos que se remitan a los Tribunales Colegiados de Circuito del Poder Judicial de la Federación, fue aprobado por el propio Pleno, en sesión de diecisiete de mayo de dos mil, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas y José Guadalupe Torres Morales.- México, Distrito Federal, a dieciocho de mayo de dos mil.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 14 DE MARZO DE 2001.
+
+PRIMERO.- El presente Acuerdo entrará en vigor treinta días después de su aprobación.
+
+SEGUNDO.- Se abroga el Acuerdo General 29/2000, del Pleno del Consejo de la Judicatura Federal.
+
+TERCERO.- Queda subsistente el Acuerdo General 74/2000, del Pleno del Consejo de la Judicatura Federal, en razón de la problemática que existe en los Juzgados de Distrito en Materia Administrativa en el Distrito Federal.
+
+CUARTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
