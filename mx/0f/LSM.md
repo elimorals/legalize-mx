@@ -4,7 +4,7 @@ identifier: "LSM"
 country: "mx"
 rank: "ley"
 publication_date: "1940-09-11"
-last_updated: "1944-08-18"
+last_updated: "1944-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2573&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSM"
 
 LEY DEL SERVICIO MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE AGOSTO DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE OCTUBRE DE 1944.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 11 de septiembre de 1940.
 
@@ -360,9 +360,13 @@ En tiempo de paz, los reservistas convocados para maniobras o ejercicios que no 
 
 Las penas de arresto, retención o prisión impuestas con arreglo a esta Ley, no serán conmutables, aun cuando proceda dicha conmutación de acuerdo con la legislación penal federal o local.
 
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1944)</small>
+
 ###### ARTICULO 63.
 
-En general, los juicios penales que conforme a lo prevenido en esta Ley deban seguirse, serán de la competencia de los tribunales federales siempre que se trate de faltas o delitos cometidos, bien por los sorteados antes de su incorporación o por las personas civiles que intervengan en actos u omisiones relacionados con esta Ley y su Reglamento. Serán de la competencia de los tribunales militares, siempre que las faltas o delitos sean cometidos a partir del momento de la incorporación, en los términos del artículo 13 constitucional.
+En general, los juicios penales que conforme a lo prevenido en esta ley deban seguirse, serán de la competencia de los Tribunales Federales, siempre que se trate de delitos cometidos, por los individuos de edad militar, antes del sorteo, o por las personas civiles que intervengan en actos u omisiones relacionados con esta ley y su reglamento. Serán de la competencia de los Tribunales Militares, siempre que las faltas o delitos sean cometidos por conscriptos a partir del momento de la insaculación, en los términos del artículo 13 constitucional.
+
+Los militares que por su encargo o comisión intervengan en la insaculación, sorteo y reclutamiento de conscriptos, excluyen de la inscripción, del sorteo o a conseguir una excepción injustificada, aplacen su enlistamiento, los sustituyan por personas distintas o que de cualquiera otra manera violen la presente ley y su reglamento, serán castigados como reos del delito de infracción de deberes militares previsto en el artículo 382 del Código de Justicia Militar.
 
 ###### ARTICULO 64.
 
@@ -419,3 +423,13 @@ D.O.F. 18 DE AGOSTO DE 1944.
 ###### ARTICULO UNICO.
 
 Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE OCTUBRE DE 1944.
+
+###### ARTICULO 1o.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO 2o.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
