@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2003-07-24"
+last_updated: "2003-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2003.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -2153,11 +2153,13 @@ b) Para ocupar zonas para estacionamiento exclusivo en las vías públicas, cuan
 
 Por revalidación anual 3 salarios mínimos
 
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2003)</small>
 
-c) Para establecer el Servicio al Público de Estacionamiento de Vehículos en Propiedad Privada (Estacionamientos Públicos) de acuerdo con el Reglamento de la Ley de Tránsito y Transporte. 40 salarios mínimos
+c) Para establecer el servicio al público de estacionamiento de vehículos en inmuebles particulares, de conformidad con la Ley de Tránsito y Transporte y su Reglamento:
 
-Por revalidación anual 15 salarios mínimos
+400 salarios mínimos
+
+Por revalidación anual 150 salarios mínimos
 
 > <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
 
@@ -2169,13 +2171,21 @@ Por un día 2 salarios mínimos
 
 e) Particular, para circular vehículos nuevos sin placas, ni tarjeta de circulación por 15 días. 3 salarios mínimos
 
-f) Para establecer escuelas para la enseñanza del manejo de vehículos: 100 salarios mínimos
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE AGOSTO DE 2003)</small>
+
+f) Para establecer escuelas de enseñanza para conducir vehículos: 200 salarios mínimos
 
 Por revalidación anual 50 salarios mínimos
 
 VIII. Por servicios de Transporte Público.
 
-a) Expedición de Tarjeta Anual de Identificación de Operador de Transporte Público de Pasajeros. 4 salarios mínimos
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2003)</small>
+
+a) Expedición de Tarjeta Anual de Identificación de Operador de Transporte Público de Pasajeros.
+
+Por un año 10 salarios mínimos
+
+Por dos años 18 salarios mínimos
 
 b) Reposición de la Tarjeta Anual de Identificación de Operador de Transporte Público de Pasajeros. 2 salarios mínimos
 
@@ -2199,23 +2209,35 @@ c) Por la utilización de grúas oficiales para el retiro de vehículos accident
 
 d) Por la utilización de servicio oficial de depósito y custodia de vehículos accidentados, infraccionados o por orden judicial. Por día: 0.50 salario mínimo
 
-> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2003)</small>
 
-X. Por el otorgamiento de una concesión o permisos en trámite para prestar el Servicio Público de Transporte en las diferentes modalidades previstas en el artículo 177 del Reglamento de la Ley de Tránsito y Transporte.
+X. Por el otorgamiento de una concesión o permisos en trámite para prestar el Servicio Público de Transporte en las diferentes modalidades previstas en la Ley de Tránsito y Transporte y su Reglamento:
 
-a) Taxi, Colectivo y Rural Mixto. 250 salarios mínimos
+a) Taxi y colectivo: 1000 salarios mínimos
 
-b) Urbano, Suburbano y Foráneo. 280 salarios mínimos
+b) Urbano, Suburbano y Foráneo. 1250 salarios mínimos
 
-c) Carga, Escolar, Exclusivo de Turismo y Transporte de Personal de Empresas. 155 salarios mínimos
+c) Carga, Escolar, Exclusivo de Turismo, Recreativo y Transporte de Personal de Empresas:
+
+750 salarios mínimos
+
+d) Carga especializada en modalidad de grúa:
+
+Tipo “A” 750 salarios mínimos
+
+Tipo “B” 500 salarios mínimos
+
+Tipo “C” 300 salarios mínimos
+
+e) Rural Mixto carga-pasaje: 500 salarios mínimos
 
 > <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
 
 XI. Por la transferencia por fallecimiento del titular de una concesión para prestar el Servicio Público de Transporte en la modalidad de Taxi, Colectivo, Rural Mixto, Urbano, Suburbano, Foráneo, Carga, Escolar, Exclusivo de Turismo o Transporte de Personal de Empresas. 50 salarios mínimos
 
-> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE AGOSTO DE 2003)</small>
 
-XII. Por la autorización para prestar el servicio de depósito y custodia de vehículos, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte: 200 salarios mínimos
+XII. Por la autorización para prestar el servicio de depósito y custodia de vehículos, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte: 500 salarios mínimos
 
 Revalidación anual. 150 salarios mínimos
 
@@ -3007,11 +3029,27 @@ III. Por concepto de recepción, evaluación y autorización del proyecto de sis
 
 IV. Verificación vehicular de emisión de contaminación atmosférica:
 
-a) Por verificación de vehículos con motor a gasolina, incluyendo motocicletas: 1.5 salarios mínimos
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2003)</small>
 
-b) Por verificación a vehículos con motor a diesel: 3 salarios mínimos
+a) Por verificación de vehículos con motor a gasolina, gas licuado de petróleo o gas natural incluyendo motocicletas: 3 salarios mínimos
+
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2003)</small>
+
+b) Por verificación a vehículos con motor a diesel: 4 salarios mínimos
+
+> <small>(ADICIONADO, G.O. 8 DE AGOSTO DE 2003)</small>
+
+c) Por verificación extemporánea en ambos casos: 8 salarios mínimos
 
 V. Verificación industrial de emisiones de contaminación atmosférica. Por concepto de recepción, evaluación y otorgamiento de licencia ambiental de funcionamiento: 60 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 8 DE AGOSTO DE 2003)</small>
+
+VI. Por el otorgamiento de una concesión para prestar el servicio de verificación vehicular, atendiendo a lo establecido en la Ley Estatal de Protección Ambiental:
+
+Por concesión para operar centro verificador para todo tipo de vehículo automotor: 1,240 salarios mínimos
+
+Por refrendo anual: 250 salarios mínimos.
 
 ###### Artículo 148.
 
@@ -3307,7 +3345,15 @@ Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Es
 
 I. Venta de bienes muebles e inmuebles propiedad del estado destinados a un fin de interés público;
 
-II. Venta de engomados de verificación vehicular;
+> <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2003)</small>
+
+II. Venta de engomados de verificación vehicular, a razón de:
+
+a) 1.5 salarios mínimos para vehículos a gasolina, gas licuado de petróleo o gas natural, incluyendo motocicletas;
+
+b) 2 salarios mínimos para vehículos a diesel; y
+
+c) 6 salarios mínimos para extemporáneos en ambos casos.
 
 III. Reintegros e indemnizaciones;
 
@@ -4637,7 +4683,7 @@ La Contraloría dictará las medidas administrativas y aplicará las sanciones q
 
 ###### Artículo 308.
 
-Los servidores públicos serán responsables de cualquier daño o perjuicio estimable en dinero que sufra la Hacienda Pública y el patrimonio del Estado por actos u omisiones que les sean imputables; o bien por incumplimiento o inobservancia de obligaciones derivadas de este Código y demás aplicables, inherentes a su cargo o relacionados con su función o actuación.
+Los servidores públicos serán responsables de cualquier daño o perjuicio estimable en dinero que sufra la Hacienda Pública y el patrimonio del Estado por actos u omisiones que les sean imputables; o bien por incumplimiento o inobservancia de obligaciones derivadas de este Código y demás aplicables. inherentes a su cargo o relacionados con su función o actuación.
 
 Las responsabilidades se atribuirán, en primer término, a las personas que directamente hayan ejecutado los actos o incurran en las omisiones que las originaron y, subsidiariamente, a los servidores públicos que por la índole de sus funciones, hayan omitido la revisión o autorizado tales actos.
 
@@ -5116,3 +5162,11 @@ G.O. 24 DE JULIO DE 2003.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 8 DE AGOSTO DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. En la aplicación de lo dispuesto por el artículo 147, fracción VI, del Código Financiero para el Estado de Veracruz de Ignacio de la Llave, los propietarios de los centros de verificación que operaban con anterioridad a la entrada en vigor del presente Decreto pagarán únicamente el cincuenta por ciento de los derechos que correspondan por concesión para operar centro verificador para todo tipo de vehículo automotor, mediante la exhibición de los documentos probatorios respectivos ante las Secretarías de Desarrollo Regional y de Finanzas y Planeación del Gobierno del Estado.
