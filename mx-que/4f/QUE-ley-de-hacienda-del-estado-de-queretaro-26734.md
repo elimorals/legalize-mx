@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-26734"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2002-11-13"
+last_updated: "2003-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre del 2002.
 
@@ -1519,31 +1519,31 @@ Por dictamen técnico sobre avance de obra de urbanización, venta provisional d
 
 Por el dictamen técnico de la autorización definitiva y recepción de fraccionamientos por el H. Ayuntamiento, se pagará:
 
-(VEASE TABLA ANEXA)
+(VEASE ARCHIVO ANEXO)
 
 ###### Artículo 115.
 
 Por el dictamen técnico para la renovación de fraccionamientos, se pagará:
 
-(VEASE TABLA ANEXA)
+(VEASE ARCHIVO ANEXO)
 
 ###### Artículo 116.
 
 Por la relotificación de fraccionamientos, se pagará:
 
-(VEASE TABLA ANEXA)
+(VEASE ARCHIVO ANEXO)
 
 ###### Artículo 117.
 
 Por los ajustes de medidas de los fraccionamientos, se pagará:
 
-(VEASE TABLA ANEXA)
+(VEASE ARCHIVO ANEXO)
 
 ###### Artículo 118.
 
 Por otros conceptos con respecto a fraccionamientos, se pagará:
 
-(VEASE TABLA ANEXA)
+(VEASE ARCHIVO ANEXO)
 
 Los servicios de supervisión de fraccionamientos causará el 1.5% del costo de las obras de urbanización. Tratándose de fraccionamientos de interés social o popular se exceptuarán de dicho cobro las partidas de electrificación, agua potable, alcantarillado y drenaje.
 
@@ -1551,7 +1551,7 @@ Los servicios de supervisión de fraccionamientos causará el 1.5% del costo de 
 
 Por los siguientes conceptos con relación a condominios, se pagará:
 
-(VEASE TABLA ANEXA)
+(VEASE ARCHIVO ANEXO)
 
 Los servicios de supervisión de condominios causarán el 1.5% del costo de las obras de urbanización. Tratándose de condominios de interés social o popular se exceptuarán de dicho cobro las partidas de electrificación, agua potable, alcantarillado y drenaje.
 
@@ -1565,7 +1565,45 @@ I. Por la expedición de copias:
 
 II. Por la expedición de copias heliográficas y/o bond de planos simples con información de cabeceras municipales se cobrará a razón de lo indicado en la tabla siguiente:
 
-(VEASE TABLA ANEXA)
+Municipio VSMGZ
+
+Amealco 3
+
+Pinal de Amoles 3
+
+Arroyo Seco 3
+
+Cadereyta 5
+
+Colón 3
+
+Corregidora 10
+
+Ezequiel Montes 5
+
+Huimilpan 3
+
+Jalpan 7
+
+Landa de Matamoros 3
+
+El Marqués 5
+
+Pedro Escobedo 3
+
+Peñamiller 3
+
+Querétaro 10
+
+San Joaquín 3
+
+San Juan del Río 7
+
+Tequisquiapan 7
+
+Tolimán 3
+
+Del Estado 10
 
 En material especial utilizado en los servicios mencionados en el presente artículo, se cobrará de acuerdo a la cotización en el mercado, más el 25%.
 
@@ -2195,6 +2233,12 @@ Tratándose de desarrollos habitacionales de tipo de interés social o popular, 
 
 Para los efectos de la presente Ley, tratándose de operaciones celebradas respecto de bienes inmuebles, el destino de los mismos deberá especificarse en la escritura pública correspondiente. En caso contrario, no les resultarán aplicables las disposiciones de vigencia anual para el ejercicio fiscal 2003.
 
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2003)</small>
+
+###### ARTICULO VIGÉSIMO SEXTO.
+
+Para los efectos del Artículo 54 de la Ley de Hacienda del Estado de Querétaro, durante el ejercicio fiscal del año 2003, los derechos por el refrendo de la licencia para el almacenaje, venta, porteo y consumo de bebidas alcohólicas causarán 77% de los derechos establecidos en esa disposición cuando el pago se realice durante el mes de julio y 82% cuando el pago se realice en agosto.
+
 ASÍ LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE.
 
 DADO EN EL SALÓN "CONSTITUYENTES DE 1916-1917", RECINTO OFICIAL DEL PODER LEGISLATIVO, A LOS VEINTICUATRO DIAS DEL MES DE OCTUBRE DEL AÑO DOS MIL DOS.
@@ -2240,3 +2284,15 @@ LIC. BERNARDO GARCÍA CAMINO
 SECRETARIO DE GOBIERNO
 
 Rúbrica
+
+N. DE. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 27 DE JUNIO DE 2003
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigora (sic) partir del 1 de julio del 2003 y una vez que haya sido publicada en el periódico oficial de (sic) Gobierno del Estado "La sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Aquellos poseedores de licencias para el almacenaje, venta, porteo y consumo de bebidas alcohólicas que haya realizado el pago de los derechos de refrendo correspondientes al ejercicio fiscal 2003 en una fecha anterior a la de la vigencia de esta Ley, podrán solicitar por escrito durante los meses de julio y agosto a la Secretaria de Planeación y Finanzas el reintegro del 23% de la cantidad pagada. Dicha Secretaría determinará las normas y procedimiento para tal efecto.
