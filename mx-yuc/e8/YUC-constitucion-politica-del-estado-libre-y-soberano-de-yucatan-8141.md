@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1932-08-08"
+last_updated: "1932-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE AGOSTO DE 1932.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE AGOSTO DE 1932.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -441,7 +441,7 @@ Durante los recesos del H. Congreso funcionará una Diputación Permanente compu
 
 Las atribuciones de la Comisión Permanente, son las siguientes:
 
-I.- acordar por sí sola, cuando a su juicio lo exijan el bien o la seguridad del Estado, o a petición del Ejecutivo, la convocación del Congreso a sesiones extraordinarias, señalando el objeto u objetos de esas sesiones, y no pudiendo el Congreso ocuparse de más asuntos que aquéllos para los que fué convocado;
+I.- acordar por sí sola, cuando a su juicio lo exijan el bien o la seguridad del Estado, o a petición del Ejecutivo, la convocación del Congreso a sesiones extraordinarias, señalando el objeto u objetos de esas sesiones, y no pudiendo el Congreso ocuparse de más asuntos que aquéllos para los que fuá convocado;
 
 II.- recibir la protesta de Ley a los funcionarios que deban prestarla ante el Congreso;
 
@@ -463,7 +463,7 @@ IX.- las demás que le confiere esta Constitución.
 
 ### CAPITULO TERCERO. RESTRICCIONES A LAS FACULTADES DEL GOBERNADOR
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE NOVIEMBRE DE 1921)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 20 DE AGOSTO DE 1932)</small>
 
 ## TITULO QUINTO. DEL PODER EJECUTIVO
 
@@ -597,7 +597,7 @@ XXI.- las demás que le confiere esta Constitución.
 
 ###### Artículo 56.
 
-No puede el Gobernador:
+No puede el Gobernador del Estado:
 
 (NUEVAMENTE EN VIGOR POR DEROGACION DE DECRETO 359, D.O. 31 DE JULIO DE 1925)
 
@@ -613,7 +613,7 @@ V.- mezclarse en las causas pendientes, ni disponer durante el juicio de las per
 
 VI.- remitir deudas, mandando hacer cortes de cuenta respecto de los deudores del Estado, para dejar insolutos los créditos de la Hacienda Pública;
 
-> <small>(REFORMADA, D.O. 8 DE AGOSTO DE 1932)</small>
+(REFORMADA, D.O. 8 DE AGOSTO DE 1932) (REPUBLICADA, D.O. 20 DE AGOSTO DE 1932)
 
 VII.- Permitir (sic) o tolerar que se establezcan en el Estado casas de juego ilícitos, o espectáculos inmorales.
 
@@ -821,7 +821,7 @@ Todos los hombres nacen iguales, y por tanto, tienen derecho a participar igualm
 
 Corresponde al Estado, por medio de Leyes Agrarias, evitar el acaparamiento de la tierra. Corresponde igualmente al Estado cuidar de que el obrero goce de los derechos y garantías que le otorga el artículo ciento veinte y tres de la Constitución Federal.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO No. 500, PUBLICADO EN EL D.O. EL 8 DE AGOSTO DE 1932, SE ABROGA EL DECRETO No. 238 DE 5 DE ABRIL DE 1921; QUEDANDO VIGENTE EL PRESENTE ARTICULO EN LOS TERMINOS EN QUE APARECE EN EL ARTICULO 1o. DEL DECRETO No. 81 DE 23 DE FEBRERO DE 1921.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO No. 500, PUBLICADO EN EL D.O. DE 8 DE AGOSTO DE 1932, SE ABROGA EL DECRETO No. 238 DE 5 DE ABRIL DE 1921; QUEDANDO VIGENTE EL PRESENTE ARTICULO EN LOS TERMINOS EN QUE APARECE EN EL ARTICULO 1o. DEL DECRETO No. 81 DE 23 DE FEBRERO DE 1921. (REPUBLICADO, D.O. 20 DE AGOSTO DE 1932)</small>
 
 > <small>(REFORMADO, D.O. 24 DE FEBRERO DE 1921)</small>
 
@@ -1070,6 +1070,10 @@ D.O. 30 DE MARZO DE 1932.
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
 
 D.O. 8 DE AGOSTO DE 1932.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
+
+D.O. 20 DE AGOSTO DE 1932.
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
 
