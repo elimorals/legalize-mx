@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "1947-12-07"
+last_updated: "1948-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 1948.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -833,7 +833,7 @@ Sólo puede celebrar esponsales el hombre que ha cumplido dieciséis años y la 
 
 ###### Artículo 138.
 
-Cuando los prometidos son menores de edad, los esponsales producen efectos jurídicos si no han consentido en ellos sus representantes legales.
+Cuando los prometidos son menores de edad, los esponsales no producen efectos jurídicos si no han consentido en ellos sus representantes legales.
 
 ###### Artículo 139.
 
@@ -1489,7 +1489,7 @@ La acción de nulidad proveniente del atentado contra la vida de alguno de los c
 
 ###### Artículo 267.
 
-El miedo y la violencia serán causa de nulidad del matrimonio si concurren las circunstancias siguientes:
+EI miedo y la violencia serán causa de nulidad del matrimonio si concurren las circunstancias siguientes:
 
 I.- Que uno u otra importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
 
@@ -1521,7 +1521,7 @@ No se admitirá demanda de nulidad por falta de solemnidades en el acta de matri
 
 ###### Artículo 273.
 
-El derecho para demandar la nulidad del matrimonio corresponde a quienes la ley lo conceda expresamente, y no es trasmisible por herencia ni de cualquiera otra manera. Sin embargo, los herederos podrán continuar la demanda de nulidad entablada por aquel a quien heredan.
+EI derecho para demandar la nulidad del matrimonio corresponde a quienes la ley lo conceda expresamente, y no es trasmisible por herencia ni de cualquiera otra manera. Sin embargo, los herederos podrán continuar la demanda de nulidad entablada por aquel a quien heredan.
 
 ###### Artículo 274.
 
@@ -1537,7 +1537,7 @@ Los cónyuges no pueden celebrar transacción ni compromiso en árbitros, acerca
 
 ###### Artículo 277.
 
-El matrimonio contraído de buena fe, aunque sea declarado nulo, produce todos sus efectos civiles en favor de los cónyuges mientras dure; y en todo tiempo, en favor de los hijos nacidos antes de la celebración del matrimonio, durante él y trescientos días después de la declaración de nulidad, si no se hubieren separado los consortes, o desde su separación en caso contrario.
+EI matrimonio contraído de buena fe, aunque sea declarado nulo, produce todos sus efectos civiles en favor de los cónyuges mientras dure; y en todo tiempo, en favor de los hijos nacidos antes de la celebración del matrimonio, durante él y trescientos días después de la declaración de nulidad, si no se hubieren separado los consortes, o desde su separación en caso contrario.
 
 ###### Artículo 278.
 
@@ -1571,7 +1571,7 @@ Declarada la nulidad del matrimonio, se observarán respecto de las donaciones a
 
 I.- Las hechas por un tercero a los cónyuges, podrán ser revocadas;
 
-II.- Las que hizo el cónyuge inocente al culpable quedarán sin efecto las cosas que fueron objeto de ellas se devolverán al donante con todos sus productos;
+II.- Las que hizo el cónyuge inocente al culpable quedarán sin efecto y las cosas que fueron objeto de ellas se devolverán al donante con todos sus productos;
 
 III.- Las hechas al inocente por el cónyuge que obró de mala fe quedarán subsistentes;
 
@@ -1693,7 +1693,7 @@ Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán
 
 ###### Artículo 299.
 
-El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 289, podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el juez, con consentimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
+El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 289, podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el juez, con conocimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
 
 ###### Artículo 300.
 
@@ -1747,7 +1747,7 @@ El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas l
 
 ###### Artículo 308.
 
-El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+EI cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
 
 ###### Artículo 309.
 
@@ -1863,11 +1863,11 @@ Los alimentos comprenden la comida, el vestido, la habitación y la asistencia e
 
 ###### Artículo 331.
 
-El obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al juez, según las circunstancias, fijar la manera de ministrar los alimentos.
+EI obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al juez, según las circunstancias, fijar la manera de ministrar los alimentos.
 
 ###### Artículo 332.
 
-El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
+EI deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
 
 ###### Artículo 333.
 
@@ -1875,7 +1875,7 @@ Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a
 
 ###### Artículo 334.
 
-Si fueren varios los que deben dar alimentos y todos tuvieren posibilidades para hacerlo, el juez repartirá el importe entre ellos, en proporción a sus haberes.
+Si fueren varios los que deben dar los alimentos y todos tuvieren posibilidades para hacerlo, el juez repartirá el importe entre ellos, en proporción a sus haberes.
 
 ###### Artículo 335.
 
@@ -1893,7 +1893,7 @@ I.- El acreedor alimentario;
 
 II.- El ascendiente que le tenga bajo su patria potestad;
 
-III.- El tutor;
+III.- EI tutor;
 
 IV.- Los hermanos y demás parientes colaterales dentro del cuarto grado;
 
@@ -1975,7 +1975,7 @@ Contra esta presunción no se admite otra prueba que la de haber sido físicamen
 
 ###### Artículo 350.
 
-El marido no podrá desconocer a los hijos, alegando adulterio de la madre, aunque ésta declare que no son hijos de su esposo, a no ser que el nacimiento se le haya ocultado, o que demuestre que durante los diez meses que precedieron al nacimiento no tuvo acceso carnal con su esposa.
+EI marido no podrá desconocer a los hijos, alegando adulterio de la madre, aunque ésta declare que no son hijos de su esposo, a no ser que el nacimiento se le haya ocultado, o que demuestre que durante los diez meses que precedieron al nacimiento no tuvo acceso carnal con su esposa.
 
 ###### Artículo 351.
 
@@ -2023,11 +2023,11 @@ II.- Se presume que el hijo es del segundo marido si nace después de ciento och
 
 El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar plenamente la imposibilidad física de que el hijo sea del marido a quien se atribuye;
 
-III.- El hijo se presume nacido fuera de matrimonio si nace antes de ciento ochenta días de la celebración del segundo matrimonio y después de trescientos días de la disolución del primero.
+III.- EI hijo se presume nacido fuera de matrimonio si nace antes de ciento ochenta días de la celebración del segundo matrimonio y después de trescientos días de la disolución del primero.
 
 ###### Artículo 359.
 
-El desconocimiento de un hijo, de parte del marido o de sus herederos, se hará por demanda en forma ante el juez competente. Todo desconocimiento practicado de otra manera es nulo.
+EI desconocimiento de un hijo, de parte del marido o de sus herederos, se hará por demanda en forma ante el juez competente. Todo desconocimiento practicado de otra manera es nulo.
 
 ###### Artículo 360.
 
@@ -2125,7 +2125,7 @@ DE LA ADOPCION.
 
 ###### Artículo 378.
 
-El matrimonio subsecuente de los padres hace que se tengan como nacidos de matrimonio a los hijos habidos antes de su celebración.
+EI matrimonio subsecuente de los padres hace que se tengan como nacidos de matrimonio a los hijos habidos antes de su celebración.
 
 ###### Artículo 379.
 
@@ -2161,7 +2161,7 @@ Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matri
 
 ###### Artículo 386.
 
-El menor de edad podrá reconocer a sus hijos, sin el consentimiento de sus padres o tutores; pero tal reconocimiento no producirá efectos mientras no sea ratificado por el Ministerio Público, quien deberá emitir su dictamen dentro de los sesenta días siguientes.
+EI menor de edad podrá reconocer a sus hijos, sin el consentimiento de sus padres o tutores; pero tal reconocimiento no producirá efectos mientras no sea ratificado por el Ministerio Público, quien deberá emitir su dictamen dentro de los sesenta días siguientes.
 
 El Oficial del Registro Civil ante quien se haga un reconocimiento por un menor de edad, deberá hacerlo saber al Ministerio Público dentro de los ocho días siguientes, bajo la pena de cinco a cincuenta pesos de multa; incurriendo en igual pena el Agente del Ministerio Público que, habiendo recibido el aviso o teniendo conocimiento del caso por cualquier otro medio no exprese su conformidad o inconformidad con conocimiento de causa, para lo cual podrá tomar los informes y datos necesarios por sí o por medio del Juez.
 
@@ -2185,15 +2185,15 @@ Los padres pueden reconocer a su hijo conjunta o separadamente.
 
 ###### Artículo 390.
 
-El reconocimiento no produce efectos legales sino respecto del que lo hace.
+EI reconocimiento no produce efectos legales sino respecto del que lo hace.
 
 ###### Artículo 391.
 
-El reconocimiento no es revocable por el que lo hizo, y si se ha hecho en testamento, cuando éste se revoque, no se tiene por revocado el reconocimiento.
+EI reconocimiento no es revocable por el que lo hizo, y si se ha hecho en testamento, cuando éste se revoque, no se tiene por revocado el reconocimiento.
 
 ###### Artículo 392.
 
-El reconocimiento puede ser contradicho por un tercero interesado. El heredero que resulte perjudicado puede contradecir el reconocimiento dentro del año siguiente a la muerte del que lo hizo.
+EI reconocimiento puede ser contradicho por un tercero interesado. El heredero que resulte perjudicado puede contradecir el reconocimiento dentro del año siguiente a la muerte del que lo hizo.
 
 ###### Artículo 393.
 
@@ -2215,7 +2215,7 @@ Cuando el padre o la madre reconozcan separadamente a un hijo, no podrán revela
 
 ###### Artículo 395.
 
-El Oficial del Registro Civil, el juez de Primera Instancia en su caso, y el notario que consientan en la violación del artículo que precede, serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro, por un término que no baje de dos ni exceda de cinco años.
+EI Oficial del Registro Civil, el juez de Primera Instancia en su caso, y el notario que consientan en la violación del artículo que precede, serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro, por un término que no baje de dos ni exceda de cinco años.
 
 ###### Artículo 396.
 
@@ -2223,11 +2223,11 @@ Cualquiera de los padres podrá reconocer al hijo natural nacido antes del matri
 
 ###### Artículo 397.
 
-El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya desconocido, y por sentencia ejecutoria se haya declarado que no es hijo suyo.
+EI hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya desconocido, y por sentencia ejecutoria se haya declarado que no es hijo suyo.
 
 ###### Artículo 398.
 
-El hijo mayor de edad no puede ser reconocido sin su consentimiento, ni el menor sin el de su tutor si lo tiene, o el del tutor que el juez le nombrará especialmente para el caso.
+EI hijo mayor de edad no puede ser reconocido sin su consentimiento, ni el menor sin el de su tutor si lo tiene, o el del tutor que el juez le nombrará especialmente para el caso.
 
 ###### Artículo 399.
 
@@ -2287,7 +2287,7 @@ No obstante lo dispuesto en la parte final del artículo anterior, el hijo podr�
 
 ###### Artículo 410.
 
-El hecho de dar alimentos no constituye por sí sólo prueba, ni aún presunción, de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
+EI hecho de dar alimentos no constituye por sí sólo prueba, ni aún presunción, de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
 
 ###### Artículo 411.
 
@@ -2485,7 +2485,7 @@ Las autoridades, en caso necesario, auxiliarán a esas personas, haciendo uso de
 
 ###### Artículo 447.
 
-El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de irracional disenso, resolverá el juez.
+EI que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de irracional disenso, resolverá el juez.
 
 ### CAPITULO I.
 
@@ -14297,6 +14297,10 @@ Todo hecho o convenio entre las partes, que pueda modificar o destruir la eficac
 
 El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en la forma que para la constitución de la hipoteca previene el artículo 2793, se dé conocimiento al deudor y sea inscrita en el Registro.
 
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 1948)</small>
+
+Pero si la hipoteca se ha constituído para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituída para garantizar obligaciones al portador, se transmitirá por la simple entrega del título, sin ningún otro requisito.
+
 ###### Artículo 2802.
 
 La hipoteca generalmente durará por todo el tiempo que subsista la obligación que garantice y cuando ésta no tuviere término para su vencimiento, la hipoteca no podrá durar más de diez años.
@@ -15086,3 +15090,9 @@ Aguascalientes, Ags., 3 de marzo de 1947.
 Al C. Gobernador Constitucional del Estado.- Presente.
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno del Estado.- Aguascalientes, a los 19 días del mes de abril de 1947.- Ing. J. Jesús M. Rodríguez.- El Secretario General de Gobierno.- Lic. Juan de Luna Loera.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 17 DE OCTUBRE DE 1948.
+
+UNICO.- Este decreto es especial y de acuerdo con el párrafo 2o. del Artículo 26 de la Constitución Política Local, surte sus efectos desde la fecha de su expedición.
