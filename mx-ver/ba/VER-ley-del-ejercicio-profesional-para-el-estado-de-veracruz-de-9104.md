@@ -4,7 +4,7 @@ identifier: "VER-ley-del-ejercicio-profesional-para-el-estado-de-veracruz-de-910
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-24"
-last_updated: "2003-03-18"
+last_updated: "2003-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 24 de diciembre de 1963.
 
@@ -107,7 +107,13 @@ Licenciado en Biología;
 
 Técnico Dentista;
 
-Técnico de Laboratorio; y
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+
+Técnico de Laboratorio;
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+
+Técnico en Seguridad Pública; y
 
 Las demás profesiones establecidas o que hayan sido comprendidas por Leyes Federales o de los Estados.
 
@@ -630,3 +636,9 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 26 DE DICIEMBRE DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
