@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1987-01-14"
+last_updated: "1991-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -243,7 +243,7 @@ N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE
 
 ###### ARTICULO 16o.
 
-Cuando sean personas distintas el propietario del predio y el de sus mejoras y construcciones, la cuenta de los impuestos sobre uno y otras estarán a cargo del propietario del predio y a su nombre se expedirán los recibos correspondientes.
+Cuando sean personas distintas el propietario del predio y el de sus mejoras y construcciones, la cuenta de los impuestos sobre uno y otras estará a cargo del propietario del predio y a su nombre se expedirán los recibos correspondientes.
 
 N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
@@ -301,7 +301,7 @@ N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE
 
 Cuando en las manifestaciones o avisos no se expresen los datos o no se acompañen los documentos o planos respectivos, la Tesorería General del Estado dará un plazo de quince días para que se corrija la omisión, que se contará a partir de la fecha en que los interesados reciban el requerimiento.
 
-Transcurrido dicho plazo si no se expresan los datos o presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería no tomarán en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor, las sanciones que procedan.
+Transcurrido dicho plazo si no se expresan los datos o presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería no tomará en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor, las sanciones que procedan.
 
 DE LAS OBLIGACIONES DE LOS TERCEROS
 
@@ -339,7 +339,7 @@ N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE
 
 ###### ARTICULO 29o.
 
-Las comunicaciones a que se refiere el artículo anterior, se hará por escrito dentro de los quince días siguientes a la fecha en que la Dirección General de Obras y Servicios Públicos o demás autoridades citadas reciban las manifestaciones de terminación o de ocupación de las construcciones o ampliaciones que deben presentar los constructores.
+Las comunicaciones a que se refiere el artículo anterior, se harán por escrito dentro de los quince días siguientes a la fecha en que la Dirección General de Obras y Servicios Públicos o demás autoridades citadas reciban las manifestaciones de terminación o de ocupación de las construcciones o ampliaciones que deben presentar los constructores.
 
 DE LAS EXENCIONES
 
@@ -1275,6 +1275,10 @@ El pago del impuesto deberá ser efectuado a más tardar el día siguiente hábi
 
 En los casos en que los actos gravados se deriven de convenios o contratos, el impuesto se pagará a más tardar al día siguiente hábil de su fecha, independientemente del momento en que surta sus efectos.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+Tratándose de contribuyentes o retenedores habituales, efectuarán el pago a más tardar el día 15 del mes siguiente, por las operaciones correspondientes al mes inmediato anterior por el que causaron el impuesto o estuvieron obligados a retener.
+
 ###### ARTICULO 117o.
 
 Los bienes y negociaciones de los cuales se deriven ingresos gravados por este impuesto, responderán por el pago de éste.
@@ -1285,11 +1289,17 @@ DE LAS OBLIGACIONES
 
 Los sujetos de este impuesto tendrán las siguientes obligaciones:
 
-I.- Presentar una declaración en la Oficina Fiscal del Estado de su jurisdicción, que contenga cuando menos los siguientes datos: nombre y domicilio de las partes que intervengan en el acto, convenio o contrato objeto de este impuesto; descripción de los bienes, actos, convenios o contratos, importe total de la operación e impuesto a pagar.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-II.- Presentar junto con la declaración la documentación o contratos que justifiquen el pago del impuesto.
+I.- Presentar declaración en la Oficina Fiscal del Estado de su jurisdicción, junto con la documentación o contratos objeto de este impuesto.
 
-III.- Permitir y facilitar al personal oficial el acceso e inspección que se requiera para comprobar los datos o información presentada por el causante.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+II.- Conservar a disposición de las autoridades fiscales y exhibir cuando se le solicite, la documentación comprobatoria de las operaciones realizadas y del pago del impuesto.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+III.- Permitir y facilitar a las autoridades fiscales, el acceso e inspección que se requiera para comprobar los datos o información presentada.
 
 OBLIGACIONES DE LOS TERCEROS
 
@@ -1301,11 +1311,17 @@ I.- Quien celebre con el sujeto directamente obligado al pago del impuesto, cual
 
 II.- Los Notarios o Fedatarios Públicos, cuando intervengan en actos, convenios o contratos que causen este impuesto y no se cercioren o asienten que tuvieron a la vista y dieron fé del pago correspondiente.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-###### ARTICULO 119o Bis.
+Los responsables solidarios estarán obligados a retener y enterar el impuesto, en los siguientes casos:
 
-Se exime del pago de este impuesto los actos, convenios o contratos de carácter civil contemplados en las fracciones I, IV, V y VII del Artículo III (sic), si se causa y se paga por dichos conceptos el Impuesto al Valor Agregado.
+a).- El enajenante, cedente, u otorgante resida fuera del Estado.
+
+b).- Cuando el adquirente, cesionario o beneficiario, no se cerciore del pago del impuesto.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+ARTICULO 119 BIS.- Se exime del pago de este impuesto los actos, convenios o contratos de carácter civil contemplados en las fracciones I, V y VII del Artículo 111o, si se causa y se paga por dichos conceptos el Impuesto al Valor Agregado.
 
 ### CAPITULO IV. IMPUESTO SOBRE PRODUCTOS DE INVERSION
 
@@ -1621,69 +1637,75 @@ VIII.- De intereses que se obtengan sobre los créditos destinados a la agricult
 
 IX.- La participación de los trabajadores con las utilidades de las empresas.
 
-### CAPITULO V. IMPUESTO SOBRE JUEGOS PERMITIDOS Y APARATOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-MECANICOS, ELECTROMECANICOS Y FONOELECTROMECANICOS
+### CAPITULO V. IMPUESTO SOBRE JUEGOS PERMITIDOS
 
 DEL OBJETO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-###### ARTICULO 140o.
+###### ARTICULO 140.
 
-Son objeto de este impuesto, la realización de rifas, sorteos, loterías de especulación o con fines comerciales, apuestas y concursos de toda clase, salvo que se cause y se pague el impuesto al valor agregado; así mismo, son objeto de este impuesto la explotación de aparatos mecánicos, electromecánicos o fonoelectromecánicos ejecutada dentro del territorio del Estado.
+Son objeto de este impuesto la realización de rifas, sorteos, loterías de especulación o con fines comerciales, apuestas y concursos de toda clase salvo que por los mismos que cause y se pague el Impuesto al Valor Agregado.
 
 DE LOS SUJETOS
 
-###### ARTICULO 141o.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-Son sujetos de este impuesto, las personas físicas o morales que habitual o accidentalmente realicen o exploten las actividades gravados conforme el artículo anterior.
+###### ARTICULO 141.
+
+Son objeto de este impuesto, las personas físicas o morales que realicen o exploten las actividades señaladas en el Artículo anterior.
 
 DE LA TARIFA
 
-###### ARTICULO 142o.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-VEASE TABLA ANEXA
+###### ARTICULO 142.
+
+El impuesto se causa con la tasa del 10%:
+
+a).- Sobre el valor comercial de los premios, tratándose de rifas, sorteos, loterías de especulación o con fines de propaganda.
+
+b).- Sobre el importe de las apuestas y concursos de toda clase.
 
 DEL PAGO
 
-###### ARTICULO 143o.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-Este impuesto deberá pagarse dentro de los primeros quince días de cada mes, en la Oficina Fiscal del Estado del lugar en que funcione el aparato.
+###### ARTICULO 143.
 
-Cuando la explotación se efectúe por períodos menores a un mes, la cuota a que se refiere el artículo anterior se causará por el mes completo,
+Este impuesto deberá pagarse dentro de los primeros quince días de cada mes, en la Oficina fiscal del Estado de su jurisdicción.
 
-Cuando se trate de actividades eventuales o accidentales el pago del impuesto deberá hacerse el día siguiente hábil al en que se realice el mismo.
+Cuando se trate de actividades eventuales o accidentales el pago del impuesto deberá hacerse el día siguiente hábil al que se realice.
 
-###### ARTICULO 144o.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-Los aparatos cuya explotación genera este impuesto, responderán preferentemente al pago del mismo.
+###### ARTICULO 144.
 
-Si los propietarios de los mencionados aparatos son personas distintas del sujeto del impuesto, serán solidariamente responsables de su pago.
+Son obligaciones de los sujetos de este impuesto:
+
+I.- A solicitar su inscripción en la Oficina Fiscal de su jurisdicción, utilizando al efecto las formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo. La Tesorería General del Estado podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades grabadas con este impuesto.
+
+II.- Presentar los avisos para comunicar a la Oficina Fiscal cualquier cambio en datos contenidos en su solicitud de inscripción, en los términos del Código Fiscal del Estado.
+
+III.- Presentar declaraciones ante la Oficina Fiscal de su jurisdicción.
+
+IV.- Presentar ante la Oficina Fiscal de su jurisdicción, la documentación o comprobante que amparen la actividad gravada, con anterioridad al inicio de la promoción de la misma.
+
+V.- Permitir y facilitar la inspección y vigilancia por parte de las autoridades fiscales competentes.
+
+VI.- Garantizar el interés fiscal por el importe estimado de los impuestos que se deba causar. Para este efecto el Jefe de la Oficina Fiscal fijará, bajo su responsabilidad, el importe de la garantía.
+
+Tratándose de sujetos eventuales, no estarán obligados a lo dispuesto en la fracción I de este Artículo.
 
 DE LAS OBLIGACIONES
 
-###### ARTICULO 145o.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-Son obligaciones de los causantes de este impuesto.
+###### ARTICULO 145.
 
-I.- Presentar una manifestación a la Tesorería General del Estado, por conducto de la Oficina Fiscal respectiva, dentro de los diez días anteriores a la fecha en que se pretenda instalar el aparato para su explotación, en las formas aprobadas al efecto, proporcionando los siguientes datos:
-
-a).- Nombre y domicilio de la persona que vaya a explotarlo.
-
-b).- Nombre y domicilio del propietario del aparato, si es persona distinta del explotador;
-
-c).- Marca y número de la fábrica;
-
-d) Lugar en que funcionará; y
-
-e).- fecha en que se iniciará la explotación; y
-
-II.- Manifestar por escrito ante las mismas autoridades y dentro del plazo establecido en la fracción anterior la suspensión de la explotación, baja del aparato o cambio de domicilio, lo que deberán comprobar debidamente a juicio de tales autoridades.
-
-Tratándose de causantes que eventualmente exploten los aparatos a que se refiere este capítulo, los plazos para el cumplimiento de estas obligaciones, se reducen a dos días anteriores.
-
-Igualmente deben garantizar a satisfacción de la Tesorería General del Estado por conducto de la Oficina Fiscal correspondiente, el pago de este impuesto.
+En los casos de incumplimiento de las obligaciones establecidas en este Capítulo a los sujetos, las autoridades fiscales estarán facultadas para embargar precautoriamente bienes suficientes que garanticen el interés fiscal del Estado.
 
 (SUSPENDIDO, POR EL ANEXO 4 AL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 5 DE NOVIEMBRE DE 1980)
 
@@ -2197,6 +2219,16 @@ DE LOS SUJETOS
 
 Son sujetos de este impuesto las personas físicas o morales que habitual u ocasionalmente organicen o administren espectáculos públicos.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 188.
+
+El impuesto se causa con la tasa del 8 por ciento sobre el precio de entrada al espectáculo.
+
+Para este efecto, los pases se considerarán que tienen el mismo valor que las autorizaciones o boletos de admisión, en cada caso.
+
+DEL PAGO
+
 ###### ARTICULO 188o.
 
 VEASE TABLA ANEXA
@@ -2233,43 +2265,55 @@ Cuando las empresas de espectáculos públicos expidan pases o autorizaciones pa
 
 En los casos en que legalmente proceda la devolución de la totalidad o de una parte del importe de las entradas a un espectáculo o diversión, no se causará el impuesto sobre las cantidades devueltas.
 
-###### ARTICULO 194o.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-Se faculta el Ejecutivo del Estado a través de la Tesorería General, para celebrar convenios para el pago de impuesto sobre espectáculos públicos, sobre cuota fija, en los casos de causantes habituales del mismo, siempre y cuando dichos convenios se ajusten a las siguientes reglas:
+###### ARTICULO 194.
+
+Se faculta al Ejecutivo del Estado a través de la Tesorería General, para celebrar convenios para el pago de impuestos sobre espectáculos públicos, sobre cuota fija, en los casos de sujetos habituales del mismo, siempre y cuando dichos convenios se ajusten a las siguientes reglas:
 
 a).- Que se celebren únicamente por un ejercicio fiscal.
 
 b).- Que la cuota mensual que se señale en los citados convenios no sea inferior al importe promedio del impuesto causado, en los meses del año fiscal anterior, por la misma empresa y por el mismo espectáculo.
 
-c).- Que las cuotas a que se refiere el inciso anterior, sean cubiertas por mensualidades adelantadas, dentro de los primeros quince días del mes corriente.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+c).- Que las cuotas a que se refiere el inciso anterior, sean cubiertas por anualidades adelantadas, dentro de los primeros quince días del mes de enero. En este caso quedan relevados de la obligación establecida en el Artículo 189 fracción I de esta Ley.
 
 d).- Que cualquier riesgo de suspensión del espectáculo sujeto a convenio, corra a cargo de la empresa, sin poder alegar en su favor, para suspender el pago de las cuotas fijadas por impuestos, el caso fortuito de causa de fuerza mayor, o cualquier otro motivo de excepción.
 
 e).- Sólo podrán celebrarse convenios de cuota fija, con aquellas empresas que hubieren efectuado funciones del mismo espectáculo, cuando menos durante un año anterior.
 
-Los causantes que celebren convenios con el Estado, para el pago del impuesto al tenor de lo preceptuado anteriormente, quedarán exceptuados de las obligaciones que señala el Artículo 189o.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-###### ARTICULO 195o.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-Los causantes habituales u ocasionales no podrán iniciar la función en su espectáculo si no han pagado el impuesto correspondiente a la función anterior. La Tesorería General del Estado o la Oficina Fiscal, están facultadas para suspender la función y para clausurar el local donde se celebre el espectáculo, en los casos en que no se pague el impuesto.
+###### ARTICULO 195.
+
+Los sujetos habituales u ocasionales no podrán iniciar la función en su espectáculo si no han pagado el impuesto correspondiente a la función anterior. La Tesorería General del Estado o la Oficina Fiscal, están facultadas para suspender la función y para clausurar el local donde se celebre el espectáculo, en los casos en que no se pague el impuesto.
 
 La clausura se realizará sellando las puertas de acceso al local en que se celebre el espectáculo y tendrá el carácter de provisional. La clausura sólo se levantará cuando se pague el impuesto insoluto, más los recargos, multas y accesorios causados.
 
-> <small>(F. DE E., P.O. 29 DE ENERO DE 1977)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-Los causantes habituales que celebren convenios de acuerdo con lo previsto en el presente capítulo, están sujetos a las sanciones que señalan los párrafos anteriores de éste artículo, si no cubren oportunamente sus cuotas fijadas.
+Los sujetos habituales que celebren Convenios de acuerdo con lo previsto en el presente Capítulo están sujetos a las sanciones que señalan los párrafos anteriores de este Artículo, si no cubren oportunamente sus cuotas fijadas.
 
 DE LAS OBLIGACIONES
 
-###### ARTICULO 196o.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-Los causantes habituales del impuesto están obligados:
+###### ARTICULO 196.
 
-I.- A presentar la solicitud de empadronamiento del espectáculo, a más tardar tres días antes de la primera función. No se cobrarán derechos de licencia ni por otro concepto, por la solicitud de empadronamiento y la cédula respectiva que se expida.
+Los sujetos habituales del impuesto están obligados:
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+I.- A solicitar su inscripción en la Oficina Fiscal de su jurisdicción, utilizando al efecto las formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo. La Tesorería General del Estado podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realiza actividades gravadas con este impuesto.
 
 II.- A entregar en la Oficina Fiscal de su jurisdicción un ejemplar de sus programas, cuando menos el día hábil anterior de la celebración de la función.
 
-III.- A no variar los precios fijados en los programas que hayan entregado a la Oficina Fiscal de su jurisdicción, de acuerdo con lo dispuesto en la fracción anterior, sin que de ello den aviso a la propia Oficina por lo menos tres horas hábiles antes de aquella en que deba dar principio la función.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+III.- A notificar por escrito, a más tardar el mismo día del espectáculo, a la Oficina Fiscal de su jurisdicción, de cualquier cambio en los precios fijados en los programas a que se refiere la fracción anterior.
 
 IV.- A expedir boletos y comprobantes de entrada individuales, en los que se exprese el nombre de la empresa, la clase de espectáculo, el precio de entrada y el importe del impuesto. Dichos boletos o comprobantes deberán estar numerados progresivamente.
 
@@ -2277,7 +2321,9 @@ V.- A presentar, para que sean sellados los boletos o comprobantes de entrada, i
 
 VI.- A permitir y facilitar la intervención, inspección y vigilancia de los ingresos del espectáculo, por las autoridades fiscales competentes.
 
-VII.- A dar aviso a la Oficina Fiscal de la jurisdicción en los casos de cambio de domicilio, cambio del espectáculo, traspaso, traslado, cambio de nombres o razón social y de clausura, a más tardar el día hábil siguiente a la fecha en que se realicen los hechos. En los casos de traspaso, de traslado, de cambio de nombre o de razón social, deberán solicitarse nuevo empadronamiento conforme a la fracción I de este artículo.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+VII.- A presentar en la Oficina Fiscal de la jurisdicción, los avisos relacionados con la modificación a los datos contenidos en la solicitud de inscripción, en los términos que establece el Código Fiscal del Estado.
 
 ###### ARTICULO 197o.
 
@@ -2285,7 +2331,9 @@ Las personas que ocasionalmente organicen o administren un espectáculo público
 
 I.- A dar aviso, a la Oficina Fiscal de la jurisdicción de la celebración de cada función, a más tardar el día hábil anterior a aquel en que deba realizarse el espectáculo. En los casos en que el espectáculo vaya a tener funciones sucesivas, bastará el aviso que deberá darse a más tardar el día hábil anterior a la fecha en que deba celebrarse la primera función.
 
-II.- A otorgar ante la Oficina Fiscal del Estado donde hayan presentado el aviso, a más tardar el día hábil anterior a la fecha en que se realice la función, garantía suficiente del interés fiscal, que deberá comprender el importe estimado de los impuestos que deba causar el espectáculo. Para este efecto, el jefe de la Oficina Fiscal fijará estimativamente, bajo su responsabilidad, el importe de la garantía y resolverá su admisión.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+II.- A otorgar ante la Oficina Fiscal del Estado donde se haya presentado el aviso, a más tardar el día hábil anterior a la fecha en que se realice la función, garantía suficiente del interés fiscal, en los términos del Código Fiscal del Estado, que deberá comprender el importe estimado de los impuestos que deba causar el espectáculo. Para este efecto, el Jefe de la Oficina Fiscal fijará, bajo su responsabilidad, el importe de la garantía y resolverá su admisión.
 
 III.- A expedir boletos o comprobantes de entrada individuales, en los que se expresará el nombre de la empresa, la clase de espectáculo, el precio de entrada y el importe del impuesto. Dichos boletos o comprobantes deberán estar numerados progresivamente y deberán expedirse, a más tardar el día anterior a la fecha en que deba realizarse la primera función.
 
@@ -2293,7 +2341,9 @@ IV.- A presentar, para que sean sellados, los boletos o comprobantes de entrada 
 
 V.- A dar aviso a la Oficina Fiscal de la jurisdicción, de la clausura de su espectáculo, cuando éste se celebre en funciones sucesivas. Dicho aviso se presentará a más tardar el día hábil anterior a la fecha en que se clausure el espectáculo.
 
-VI.- A cumplir con las obligaciones que establecen las fracciones VI y VII del artículo anterior.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+VI.- A cumplir con la obligación que establece la fracción VI del Artículo anterior.
 
 ###### ARTICULO 198o.
 
@@ -2305,19 +2355,21 @@ DE LAS OBLIGACIONES DE LOS TERCEROS
 
 Tienen responsabilidad solidaria para el pago del impuesto, las personas que prestan gratuitamente o arrienden los locales o inmuebles en donde se lleven a acabo espectáculos públicos.
 
-###### ARTICULO 200o.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-Las autoridades municipales, deberán dar aviso, con anticipación necesaria, a la Oficina de su jurisdicción, de los permisos que otorgue para la celebración de espectáculos y diversiones públicas.
+###### ARTICULO 200.
 
-###### ARTICULO 201o.
+Las autoridades municipales, deberán dar aviso, a la Oficina Fiscal de su jurisdicción, de los permisos que otorgue para la celebración de espectáculos y diversiones públicas, por lo menos un día antes de la celebración del mismo.
 
-En los casos de infracciones a lo dispuesto por este capítulo, los Jefes de las Oficinas Fiscales deberán levantar el acta correspondiente consignando los hechos, procediendo desde luego a asegurar el interés fiscal. Dicha acta será enviada de inmediato por los propios jefes al Tesorero General del Estado para su revisión, proponiendo la multa a que se haya hecho acreedor el infractor, El Tesorero General del Estado está facultado para aumentar, reducir o confirmar la sanción.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
+###### ARTICULO 201.
 
-###### ARTICULO 201o Bis.
+En los casos de incumplimiento de las obligaciones establecidas en este Capítulo a los sujetos o responsables solidarios, las autoridades fiscales estarán facultadas para embargar precautoriamente bienes suficientes que garanticen el interés fiscal, de acuerdo a lo dispuesto en el Código Fiscal del Estado.
 
-Se exime del pago de este impuesto los espectáculos prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos, por causar los mismos el Impuesto al Valor Agregado.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+ARTICULO 201 BIS.- Se exime del pago de este impuesto los espectáculos por los que se cause y se pague el Impuesto al Valor Agregado.
 
 (SUSPENDIDO, POR EL ANEXO 4 AL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 5 DE NOVIEMBRE DE 1980)
 
@@ -2457,9 +2509,11 @@ La Tesorería General podrá estimar la base de los sujetos de este impuesto, en
 
 I.- Cuando no se presenten las declaraciones, no lleven los libros o registros o no expidan la documentación comprobatoria a que están obligados por las disposiciones federales o las establecidas en este capítulo.
 
-II.- Cuando por los informes que se obtengan, se ponga de manifiesto la percepción de un promedio de ingresos superior cuando menos en un diez por ciento, al declarado por el causante.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-Para practicar las estimaciones a que se refiere este artículo, se tendrá en cuenta las actividades realizadas por el causante, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse.
+II.- Cuando por los informes o documentación que se dispongan se conozca la obtención de un ingreso promedio superior al declarado en un diez por ciento, cuando menos.
+
+Para practicar las estimaciones, se tendrá en cuenta las actividades realizadas, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse. Se aplicará en lo conducente lo dispuesto en el Código Fiscal del Estado.
 
 DE LA TASA
 
@@ -2471,17 +2525,19 @@ Este impuesto se causará con la tasa del 2% sobre la base a que se refieren los
 
 DEL PAGO
 
-###### ARTICULO 216o.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-El pago de impuestos se hará bimestralmente dentro de los 20 primeros días de los meses de enero, marzo, mayo, julio, septiembre y noviembre, haciendo uso de las formas aprobadas por la Tesorería General del Estado.
+###### ARTICULO 216.
 
-> <small>(REFORMADO P.O. 28 DE DICIEMBRE DE 1977)</small>
+El pago del impuesto se hará mensualmente a más tardar el día 15 del mes siguiente al en que se realizaron las actividades objeto de este impuesto, haciendo uso de las formas aprobadas por la Tesorería General del Estado.
 
-###### ARTICULO 217o.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-Quienes hagan pagos a causante eventuales de este impuesto, deberán retenerlo y enterarlo a la Oficina Recaudadora correspondiente, dentro de los quince días siguientes al en que se cause, siendo en todo caso solidariamente responsable del pago del mismo.
+###### ARTICULO 217.
 
-La misma obligación tendrán quienes en forma habitual o accidental efectúen pagos a deportistas, profesionistas, artistas, técnicos y en general a personas que ejerzan su actividad sin estar subordinado a un patrón, cuando éstos residan fuera del Estado o en el extranjero.
+Quienes hagan pagos a contribuyentes eventuales de este impuesto, deberán retenerlo y entregarlo a la Oficina Fiscal correspondiente, dentro de los quince días siguientes al en que se cause, siendo en todo caso solidariamente responsable del pago del mismo.
+
+La misma obligación tendrán quienes en forma habitual o accidental efectúen pagos a personas que ejerzan sus actividades sin estar subordinados a un patrón, cuando éstos residan fuera del Estado o en el extranjero.
 
 OBLIGACIONES DE LOS CAUSANTES
 
@@ -2489,17 +2545,13 @@ OBLIGACIONES DE LOS CAUSANTES
 
 Los sujetos de este impuesto están obligados a:
 
-I.- Empadronarse en la Tesorería General por conducto de la Oficina Fiscal de su jurisdicción, dentro de los diez días hábiles siguientes a aquél en que se inicien sus actividades, utilizando al efecto las formas oficiales, las cuales deberán contener cuando menos los siguientes datos:
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-a).- Nombre y domicilio del causante;
+I.- A solicitar su inscripción en la Oficina Fiscal de su jurisdicción, utilizando al efecto las formas aprobadas. La Tesorería General del Estado podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto.
 
-b) Profesión o actividad que ejerza;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-c) Lugar donde se encuentre ubicado el despacho, oficina o consultorio profesional;
-
-d).- Fecha de iniciación de actividades;
-
-II.- Dar aviso a la Tesorería General por conducto de la Oficina Fiscal correspondiente, en los casos de cambio de domicilio, así como en los de suspensión o cambio de actividad gravada, dentro del mismo plazo señalado en la fracción anterior, contado a partir de la fecha en que ocurra el cambio.
+II.- Presentar declaraciones en la Oficina Fiscal del Estado de su jurisdicción, utilizando las formas aprobadas para el efecto. La obligación de presentar declaraciones subsistirá aun cuando no se hayan obtenido ingresos gravados.
 
 III.- Proporcionar a las autoridades fiscales los datos e informes que les sean solicitados dentro del plazo que para ello se fije.
 
@@ -2509,9 +2561,11 @@ V.- Llevar libros o registros y expedir la documentación comprobatoria tanto de
 
 DE LAS OBLIGACIONES DE LOS TERCEROS
 
-###### ARTICULO 219o.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-Los retenedores de este impuesto, y en general quienes hagan pagos a los causantes del mismo, tienen la obligación de proporcionar los datos y documentos que les sean solicitados por las autoridades fiscales del Estado, para verificar el correcto pago de este gravámen.
+###### ARTICULO 219.
+
+Los retenedores de este impuesto y en general quienes hagan pagos a los sujetos del mismo, tienen la obligación de proporcionar los datos y documentos que les sean solicitados por las autoridades fiscales del Estado, para verificar el correcto pago de este gravamen.
 
 DE LAS EXENCIONES
 
@@ -2519,17 +2573,17 @@ DE LAS EXENCIONES
 
 Están exentos del pago de este impuesto:
 
-I.- Los ingresos que perciben los artesanos; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+I.- Los ingresos que perciben los artesanos.
 
 II.- Los ingresos que perciban los agentes de instituciones de crédito, de seguros y de fianzas.
 
-> <small>(ADICIONADA [REFORMADA] P.O. 28 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-III.- Los conceptos que comprenda el objeto del mismo, si se causa y se paga el Impuesto al Valor Agregado.
+III.- Los ingresos a que se refiere este Capítulo, cuando por ellos se cause y se pague el Impuesto al Valor Agregado.
 
-> <small>(ADICIONADO P.O. 28 DE DICIEMBRE DE 1977)</small>
-
-Las personas a que se refiere este artículo deberán gestionar y obtener de la Tesorería General del Estado en forma expresa la autorización de la exención.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
 ### CAPITULO XII. IMPUESTO SOBRE PRODUCCION, DISTRIBUCION Y VENTA
 
@@ -2539,219 +2593,113 @@ DEL OBJETO
 
 ###### ARTICULO 221o.
 
-Son objeto de este impuesto, la producción, distribución, la venta de primera mano de alcohol, que se realice dentro del Estado, así como los expendios de bebidas alcohólicas establecidos dentro del mismo.
-
-La producción, transformación y envase de bebidas alcohólicas, así como la producción y consumo de cerveza en la entidad, se sujetaran en cuanto a impuestos a las disposiciones de las leyes federales aplicables y a los convenios respectivos en vigor celebrados entre los Gobiernos Federal y del Estado.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 222o.
 
-Para efectos de este impuesto se consideran:
-
-I.- Como alcohol la solución acuosa de etanol con las impurezas que la acompañan, con graduación mayor de 55° G.L. a una temperatura de 15° C.
-
-II.- Como alcohol desnaturalizado el que resulta después de adicionarle las sustancias prescritas en las fórmulas de desnaturalización autorizadas.
-
-III.- Se consideran bebidas alcohólicas los líquidos potables que a la temperatura de 15° C. tengan una graduación alcohólica comprendida entre 3° y 55° G.L., así como los concentrados alcohólicos de graduación superior a la indicada que, con cualquier denominación se ponga en circulación en calidad de artículo para consumo como bebidas, aunque se indique en las etiquetas o por otros medios que deberán consumirse diluidos o combinados con otros líquidos.
-
-Se excluyen del anterior concepto la cerveza y el aguamiel.
-
-IV.- Expendio de bebidas alcohólicas, los establecimientos que vendan al público al menudeo o mayoreo bebidas alcohólicas sea en botella cerrada o al copeo. Quedan comprendidos dentro de estos: Los Cabarets, Clubes Nocturnos, Cantinas, Hoteles, Hospederías, Casas de Huéspedes, Restaurantes, Fondas, Cafés, Clubes Deportivos o Recreativos, Casinos, Círculos Sociales, Ferias, Romerías, Kermeses, Salones de Baile, Tiendas de Abarrotes y cualesquiera otros establecimientos similares.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 223o.
 
-Para los efectos de este impuesto, los establecimientos que elaboran alcohol o expendan bebidas alcohólicas, se clasifican como sigue:
-
-a).- Productores, los que elaboren los productos gravados.
-
-b).- Envasadores, los que reciban bebidas alcohólicas a granel o en barricas para incorporarlos en recipientes pequeños para su distribución.
-
-c).- Almacenistas o Distribuidores, los que realicen operaciones gravadas al mayoreo.
-
-d).- Cantinas, los que vendan al copeo, aún cuando también realicen operaciones gravadas al mayoreo.
-
-e).- Cabaret, los establecimientos que vedan al copeo y tengan pista de baile.
-
-f).- Clubes nocturnos, los establecimientos que venden al copeo, que presenten variedad, tengan o no pista de baile.
-
-Se entenderá por ventas al mayoreo aquellas que se realicen en cajas y que contengan cuando menos diez botellas. Por ventas al menudeo, las que se realicen en botellas cerradas sueltas y siempre que no excedan de nueve.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 DE LOS SUJETOS
 
 ###### ARTICULO 224o.
 
-Son sujetos de este impuesto las personas físicas o morales que habitual o accidentalmente elaboren, distribuyan o vendan alcohol o expendan bebidas alcohólicas o realicen las operaciones gravadas conforme lo establecido por este capítulo.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 DE LA BASE
 
 ###### ARTICULO 225o.
 
-La base del impuesto será:
-
-I.- Para la producción, distribución y venta de alcohol, los litros producidos, distribuidos o vendidos;
-
-> <small>(F. DE E., P.O. 29 DE ENERO DE 1977)</small>
-
-II.- Para los expendios de bebidas alcohólicas, la clasificación por categorías que se haga de estos.
-
-Para clasificarlos se atenderá a la actividad a que se dedican, si presentan variedad, y tienen pista de baile, capital en giro, monto de los ingresos, monto de las compras, monto de sus gastos, tipo de instalaciones, población o zona en que se encuentren establecidos y número de trabajadores a su servicio.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 226o.
 
-VEASE TABLA ANEXA
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 DEL PAGO
 
 ###### ARTICULO 227o.
 
-El pago del impuesto se hará de acuerdo con lo siguiente:
-
-I.- Los fabricantes de alcohol deberán hacer el pago dentro de los primeros veinte días del mes siguiente al de la producción. Para este efecto presentarán una declaración en la Oficina Fiscal de su jurisdicción, en la que consignarán entre otros datos los litros elaborados;
-
-II.- Los distribuidores y vendedores de alcohol deberán hacer el pago dentro de los primeros veinte días del mes siguiente al de la distribución o la venta. Para este efecto presentarán una declaración en la Oficina Fiscal de su jurisdicción;
-
-III.- Los expendios de bebidas alcohólicas pagarán el impuesto por bimestres adelantados de acuerdo con la categoría que se les asigne, dentro de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
-
-La falta de licencia, permiso o empadronamiento, no exime del pago del impuesto derivado de las operaciones gravadas realizadas, independientemente de las sanciones a que se haga acreedor.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 228o.
 
-Los inmuebles, maquinaria, vehículos, enseres, materia prima, productos elaborados y demás bienes propiedad del causante que estén destinados a la fabricación o enajenación de los productos gravados con este impuesto, responderán preferentemente de su pago.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 DISPOSICIONES COMUNES
 
 ###### ARTICULO 229o.
 
-La venta de bebidas alcohólicas requiere el otorgamiento de licencia expedida por el Gobierno del Estado por conducto de la Tesorería General, la que podrá negar la expedición de licencias, revocarlas o cancelar las expedidas y negar autorizaciones de traslado o traspaso por ser actos de naturaleza discrecional y por lo mismo revocables cuando lo requieran el orden público o el interés general a juicio de la Tesorería.
-
-Podrá asimismo ordenar la clausura de establecimientos en que se expendan dichas bebidas cuando a juicio de la propia Tesorería se ofenda la moral pública o cuando por su número constituyen un peligro a la salud o en cualquier forma infringieran las leyes o afectaren a la colectividad o los intereses sociales.
-
-La Tesorería General del Estado procederá a la clausura de los establecimientos cuando no estén amparados por licencia vigente que corresponda al domicilio del giro y al mismo causante.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 230o.
 
-A los expendedores de bebidas alcohólicas al copeo, establecidos en el Estado, se prohibe la venta de bebidas alcohólicas a granel.
-
-Para los efectos de este impuesto, se presume que dichos expendedores realizan ventas de bebidas alcohólicas a granel cuando las posean en envases, abiertos o cerrados cuya capacidad sea mayor de cinco litros.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 231o.
 
-Unicamente en los expendios autorizados por el Gobierno del Estado, para expender bebidas alcohólicas al copeo, se podrán tener éstas en botellas o envases abiertos, que deberán ser los mismos de origen, quedando prohibida en consecuencia, la práctica de llenar o rellenar o envasar, con bebidas alcohólicas provenientes de otras botellas o envases.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 232o.
 
-Los fabricantes, envasadores, rectificadores, ampliadores y mezcladores, no podrán establecer expendios de bebidas alcohólicas al copeo, en el mismo local o dependencia de sus fábricas, almacenes o bodegas. La Tesorería General del Estado negará el registro de tales expendios.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 233o.
 
-Las personas que soliciten licencias para vender cerveza deberán hacerlo dentro de los quince días inmediatos anteriores a la fecha de iniciación de operaciones. Las licencias se extenderán para el año del calendario que corresponde a la fecha de su expedición y las solicitudes de renovación se presentarán durante los primeros quince días del mes de enero de cada anualidad. La Tesorería del Estado concederá las licencias si los solicitantes reúnen los requisitos que señalen las leyes y reglamentos aplicables.
-
-Los derechos por expedición y renovación de licencias para la venta de cerveza se causarán conforme a la tarifa respectiva establecida en la Tarifa General de Derechos por Servicios Públicos en el Estado en vigor.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 234o.
 
-Las solicitudes de empadronamiento, manifestaciones y avisos, se formularán usando formas oficiales aprobadas. En todo caso, se anexarán los documentos requeridos en las formas.
-
-Cuando la solicitud de empadronamiento se presente omitiendo los requisitos que la misma exija, se concederá al solicitante un plazo de diez días para que subsane las omisiones. Si transcurrido este plazo no se corrigen las deficiencias, la Tesorería General del Estado, clausurará el establecimiento. Igualmente se procederá a la clausura cuando por otras causas fundadas se niegue el empadronamiento.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 235o.
 
-La Tesorería General del Estado, expedirá las cédulas de empadronamiento dentro de los treinta días siguientes al recibo de la solicitud, o dentro del mismo término notificará al causante la negativa de empadronamiento, la cédula y la clasificación, solo tendrán efectos fiscales. En ningún caso prejuzgarán sobre la licencia de funcionamiento.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 236o.
 
-Para los efectos de este capítulo, se consideran clandestinos, los establecimientos que funcionen después de haberse vencido los plazos fijados por el registro, su refrendo o modificación, sin que se hubiere cumplido con dichos requisitos. También se consideran clandestinos, los establecimientos que funcionen en forma distinta a la en que se encuentren registrados o fuera del horario autorizado.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 237o.
 
-La Tesorería General del Estado negará el empadronamiento en los casos siguientes:
-
-I.- Cuando la solicitud no se formule en las formas aprobadas por la propia Tesorería y cuando no se expresen los datos requeridos o no se acompañen los documentos que correspondan.
-
-II.- Cuando no se acompañe a la solicitud inicial de empadronamiento o a la de cambio de objeto o de giro, el comprobante de pago de los derechos de licencia correspondiente y,
-
-III.- En los demás casos que este capítulo establece.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 238o.
 
-Cuando se ordene la clausura definitiva de un expendio de bebidas alcohólicas, se procederá a la cancelación de la licencia de funcionamiento del giro clausurado.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 239o.
 
-La Tesorería General del Estado es la única autoridad competente para ordenar la clausura de los establecimientos de los causantes. Las clausuras procederán además de los casos previstos en este capitulo, en los siguientes:
-
-I.- De establecimientos clandestinos.
-
-II.- De falta de pago del impuesto.
-
-III.- De falta de pago del Impuesto omitido.
-
-IV.- De falta de pago de sanciones impuestas. Para este caso la clausura solo podrá practicarse quince días después de haberse girado al causante el aviso respectivo.
-
-V.- De reincidencia en la comisión de infracciones que hayan traído como consecuencia la omisión del impuesto, aún cuando el impuesto haya sido pagado después de descubierta la infracción. Se entiende también por reincidencia la presentación de dos o más manifestaciones falsas o inexactas en el término de un año natural.
-
-VI.- De negativa del empadronamiento por la Tesorería General del Estado.
-
-VII.- De resistencia del causante a las visitas de inspección. Hay resistencia cuando el causante se opone a la práctica de la visita de inspección que ordene la Tesorería General del Estado o cuando no se proporcionen los libros, documentos y elementos para la práctica de la visita. Se considera también que hay resistencia cuando el causante impida la práctica de la visita por simple pasividad.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 OBLIGACIONES DE LOS CAUSANTES
 
 ###### ARTICULO 240o.
 
-Los sujetos de este impuesto tienen las siguientes obligaciones:
-
-I.- Solicitar permiso a la Tesorería General del Estado por conducto del Departamento de Alcoholes, para dedicarse a la elaboración, distribución y venta de alcohol, así como para el establecimiento de expendios de bebidas alcohólicas. Este permiso es personal y sólo es válido para el periodo y lugar que se refiera. En esa virtud deberá renovarse en el mes de enero de cada año.
-
-II.- Registrarse con quince días de anticipación a la iniciación de operaciones o de las actividades gravadas en la Oficina Fiscal de su jurisdicción. Si son vanos los establecimientos deberán inscribirse por separado cada uno de ellos en la Oficina Fiscal de su jurisdicción.
-
-III.- Dar aviso a la Oficina Fiscal en que sé encuentren registrados a más tardar el día en que ocurran los siguientes eventos: cambio de nombre o razón social, cambio de domicilio, traspaso y clausura. En los tres primeros casos deberá solicitarse nuevo permiso.
-
-En los casos de clausura deberán acompañar el permiso de funcionamiento y la cédula de empadronamiento del negocio.
-
-IV.- Tener en lugar visible del establecimiento, el permiso de funcionamiento expedido por la Tesorería General del Estado y la cédula de empadronamiento respectiva.
-
-V.- Permitir la práctica de visitas de inspección, así como los actos de vigilancia que estime pertinentes la autoridad; facilitar y proporcionar los datos o informes y documentos que la misma solicite.
-
-VI.- Las demás que establece este capítulo.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 DE LAS OBLIGACIONES DE LOS TERCEROS
 
 ###### ARTICULO 241o.
 
-Las personas físicas o morales que habitual o accidentalmente porteen o transporten productos gravados por este capitulo, tendrán las siguientes obligaciones:
-
-I.- Obtener anualmente de la Tesorería General del Estado permiso para transportar productos gravados.
-
-II.- Garantizar en cualquiera de las formas previstos por el Código Fiscal a satisfacción de la Tesorería General del Estado, el correcto desempeño de sus actividades.
-
-III.- Transportar los productos gravados cuando estén debidamente amparados por la documentación comprobatoria correspondiente.
-
-IV.- Registrar ante el Departamento de Alcoholes, los vehículos destinados al transporte de los productos gravados, fijando en un lugar visible de los mismos el número de registro, y el nombre del porteador.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 242o.
 
-Las personas que adquieren negociaciones que realicen actividades gravadas con este impuesto, son solidariamente responsables del pago de los créditos adeudados por dichas negociaciones.
-
-> <small>(REFORMADO P.O. 28 DE DICIEMBRE DE 1977)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 243o.
 
-Los propietarios y arrendatarios de los locales ocupados por fábricas, almacenes, bodegas, oficinas y expendios de alcohol o de bebidas alcohólicas, darán aviso a la Tesorería General del Estado, de los contratos de arrendamiento o subarrendamiento que celebren, dentro de los 30 días siguientes a la fecha del contrato.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 DE LAS EXENCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1979)</small>
-
 ###### ARTICULO 244o.
 
-Están exceptuados de este impuesto los expendios con venta exclusiva de cerveza, pero los propietarios o titulares de los mismos deberán empadronarse en la Oficina Fiscal de su jurisdicción y obtener licencia de funcionamiento en los términos de este capítulo.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
-
-Asimismo, deberán atender las disposiciones de este capítulo y la reglamentación respectiva.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
-
-Quedan suspendidos los efectos de vigencia derivados de la distribución, la venta de primera mano de alcohol, así como lo relativo a la gravación sobre los expendios de bebidas alcohólicas que se realicen o que estén establecidos dentro del mismo en tanto subsista el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal celebrado por el Estado de Tamaulipas con la Federación.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 ### CAPITULO XIII. IMPUESTO SOBRE NOMINAS
 
@@ -2775,39 +2723,49 @@ DE LA BASE
 
 Es base de este impuesto, el monto total de los pagos por concepto de remuneración al trabajo personal.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+ARTICULO 247 BIS.- La Tesorería General del Estado podrá determinar presuntivamente la base de este impuesto, cuando se omita presentar alguna declaración y cuando se omita consignar en el importe declarado para el pago de este impuesto a más de un trabajador o éste sea inferior a un 10% de la cantidad que debe declarar.
+
+Para este efecto la Tesorería General del Estado presumirá como base del impuesto:
+
+a).- El número de trabajadores y las erogaciones correspondientes a los mismos, declarados para los efectos del Instituto Mexicano del Seguro Social o del Instituto para el Fondo Nacional de la Vivienda de los Trabajadores.
+
+b).- La que resulte de considerar, por cada trabajador a su servicio, el importe de cuatro veces el salario mínimo diario del área geográfica correspondiente al domicilio del contribuyente, multiplicado por el número de días de cada uno de los meses sujeto a revisión.
+
 DE LA TASA
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 248o.
 
-Este impuesto se causará con la tasa del 2 % sobre la base a que se refiere el articulo anterior.
+Este impuesto se causará con la tasa del 2% sobre la base a que se refiere el Artículo 247.
 
 DEL PAGO
 
-###### ARTICULO 249o.
+> <small>(REFORMADO PRIMER PARRAFO P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-El pago del impuesto deberá efectuarse, dentro de los quince primeros días del mes siguiente a aquel al que corresponde dicho pago, presentándose al efecto una declaración en la Oficina Recaudadora correspondiente, en las formas oficialmente aprobadas.
+###### ARTICULO 249.
 
-> <small>(ADICIONADO P.O. 28 DE DICIEMBRE DE 1977)</small>
+El impuesto deberá pagarse mensualmente, a más tardar el día quince del mes siguiente a aquel al que corresponde el pago, presentándose al efecto declaración en la Oficina Fiscal de su jurisdicción, en las formas aprobadas.
 
-Tratándose de personas comprendidas en el capítulo XI de esta ley, que tengan empleados a su servicio, el pago deberá hacerse dentro de los primeros 20 días de los meses de enero, mayo, julio, septiembre y noviembre, presentándose una declaración en la Oficina Recaudadora, correspondiente en las formas oficialmnte (sic) aprobadas.
-
-La obligación de presentar la declaración subsistirá aún cuando no se hayan efectuado erogaciones gravadas.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
 DE LAS OBLIGACIONES DE LOS CAUSANTES
 
-###### ARTICULO 250o.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-Son obligaciones de los causantes de este impuesto:
+###### ARTICULO 250.
 
-I.- Empadronarse ante la Tesorería General, por conducto de la Oficina Recaudadora de su jurisdicción, dentro de los diez días siguientes al de iniciación de sus actividades, haciendo uso de las formas que al efecto apruebe la mencionada Tesorería;
+Son obligaciones de los sujetos de este impuesto:
 
-II.- Presentar ante las mismas autoridades y dentro del plazo que señala la fracción anterior, los avisos de cambio y nombre, razón social, traslado, traspaso o suspensión de actividades;
+I.- Solicitar su inscripción en la Oficina Fiscal de su jurisdicción, utilizando al efecto las formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo. La Tesorería General del Estado podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto. Las sucursales u otras dependencias de la matriz deberán inscribirse por separado.
 
-III.- Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
+II.- Presentar ante las mismas autoridades, los avisos de cambio de datos contenidos en su solicitud de inscripción en los términos del Código Fiscal del Estado.
 
-IV.- Las sucursales, bodegas, agencias, u otras dependencias de la matriz, deberán empadronarse por separado.
+III.- Presenatr (sic) declaraciones, así como los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
+
+IV.- Cuando los sujetos operen con varios establecimientos, podrán optar por acumular la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el Estado, para lo cual presentarán aviso en la Oficina Fiscal ante la cual dejará de presentar declaraciones.
 
 DE LAS EXENCIONES
 
@@ -2830,6 +2788,18 @@ e).- Pagos por primas de antiguedad;
 f).- Pagos por gastos funerarios;
 
 g) - Gastos de representación y viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto sobre la Renta.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+h) Las aportaciones de seguridad social.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+i).- El ahorro, cuando se integre por depósito de cantidad igual del trabajador y de la empresa, y las cantidades otorgadas por el patrón para fines sociales y sindicales.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+j).- La alimentación y la habitación cuando no se proporcione gratuitamente al trabajador, así como las despensas.
 
 II.- Las Erogaciones que efectúen:
 
@@ -2883,7 +2853,7 @@ Son obligaciones de los sujetos de este impuesto:
 
 I.- Liquidar el impuesto en el momento en que se haga el entero de los conceptos básicos sobre los cuales recae, en las declaraciones que se presenten con motivo del pago de estos, salvo en aquellos casos en que se prevea una forma distinta.
 
-II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días lo. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
+II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días 1o. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
 
 III.- Las demás que este capítulo establece.
 
@@ -2909,15 +2879,53 @@ Los retenedores enterarán el impuesto mediante una declaración conforme a lo d
 
 Se derogan los efectos de lo preceptuado por los artículos 252 y 254 en lo relativo a las participaciones en el Impuesto Federal sobre Ingresos Mercantiles, por estar subsistente el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal celebrado por el Estado de Tamaulipas con la Federación y por abrogar la Ley de Coordinación Fiscal al susodicho Impuesto Federal.
 
-## TITULO II. TARIFA GENERAL DE DERECHOS POR SERVICIOS
+## TITULO II
 
-PUBLICOS EN EL ESTADO.
+TARIFA GENERAL DE DERECHOS POR SERVICIOS PUBLICOS EN EL ESTADO.
 
 ### CAPITULO I. SERVICIOS GENERALES
 
-###### ARTICULO 258o.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 258.
+
+Los derechos por servicios no previstos ni exceptuados expresamente por este Título II, se determinarán por asimilación aplicando las cuotas o tasas que correspondan a los casos con los que tengan semejanza.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+ARTICULO 258 A.-
 
 VEASE TABLA ANEXA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+ARTICULO 258 B.- Cuando en este Título II o en los Decretos que lo reformen se haga referencia a salarios mínimos como sistema para determinar las contribuciones que correspondan, deberá entenderse el salario mínimo diario vigente en la Capital del Estado. Así mismo, las modificaciones a los salarios mínimos generales que afecten las cantidades o la fijación de las contribuciones, se aplicarán al mes siguiente al en que entren en vigor. Por lo mismo, el anterior salario mínimo continuará su vigencia el mes posterior al que ocurra su modificación.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+ARTICULO 258 C.- Salvo lo dispuesto en el Artículo siguiente, el pago de los derechos deberá hacerse previamente a la prestación de los servicios, en la Oficina Fiscal de la jurisdicción dentro de los plazos que se establezcan para el efecto. En los casos de obligaciones a cumplirse por años de calendario, deberán hacerse, a falta de disposición expresa, en el mes de enero de cada año. La Tesorería General del Estado publicará en su caso los plazos en que se prestará el servicio y el término en que deberá efectuarse el pago respectivo.
+
+Los funcionarios y empleados del Gobierno del Estado, se abstendrán de actuar o, en su caso, de entregar documentos o constancias relativas hasta en tanto el usuario presente el comprobante de pago respectivo. El funcionario o empleado que no cumpliere con esta disposición, tendrá responsabilidad solidaria con el contribuyente para el pago del importe de los derechos y sanciones que se causaren, independientemente de las penas que correspondan.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+ARTICULO 258 D.- En los casos en que no se efectúe previamente a la prestación del servicio el pago de los derechos, en virtud de no poderse determinar la base de los mismos, dicho pago se hará el mismo día en que sean determinables los derechos. La falta de pago oportuno de los derechos establecidos en el presente Título II, causarán recargos de conformidad con lo establecido por el Artículo 22 del Código Fiscal del Estado, independientemente de la aplicación de las sanciones que señalen las Leyes respectivas.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+ARTICULO 258 E.- El cobro de los derechos establecidos en el presente Título II, dará lugar, en su caso, al ejercicio de la facultad económico-coactiva la cual se ejercitará por conducto de la Tesorería General del Estado o la Oficina dependiente de la misma en cuya jurisdicción hubiera sido prestado el servicio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+ARTICULO 258 F.- Los derechos por concepto de certificaciones, cotejo, búsqueda y copia de documentos, legalización y ratificación de firmas, resoluciones y opiniones administrativas, por funcionarios y empleados del Gobierno del Estado, se causarán conforme a la siguiente:
+
+TARIFA:
+
+I.- Búsqueda de documentos, certificación o copia certificada el 60% de un día de salario mínimo.
+
+1.- (sic).- Legalización o ratificación de firmas, por cada firma el 60% de un día de salario mínimo.
+
+III.- Resoluciones u opiniones administrativas, sobre documentos, operaciones o trámites y regularizaciones 60% de un día de salario mínimo.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -2945,7 +2953,45 @@ SERVICIO DE REGISTRO.
 
 ###### ARTICULO 261o.
 
-VEASE TABLA ANEXA
+Los derechos por actos del Registro Civil se causarán conforme a la siguiente
+
+TARIFA:
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+I.- Inscripciones.
+
+1.- Inscripción de hechos relativos al nacimiento, reconocimiento de hijos, adopciones y defunción, 10 % de un día de salario mínimo.
+
+2.- Inscripción de actas de matrimonio, dos días de salario mínimo.
+
+3.- Inscripción de actas de divorcio:
+
+a).- Expedidas en el país, dos días de salario mínimo.
+
+b).- Expedidas fuera del país, cuatro días de salario mínimo.
+
+Cuando los servicios del oficial se presten a solicitud del interesado en horas o días inhábiles o en lugar distinto a la sede de la oficialía, su inscripción causará una cuota igual al importe de ocho días de salario mínimo.
+
+II.- REGULARIZACIONES Y CANCELACIONES.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+a).- El registro de actos celebrados en el extranjero causarán los derechos establecidos en la presente tarifa, según los actos de que se trate.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+b).- La inscripción de las resoluciones judiciales de cancelación o rectificación de actas del estado civil causarán la cuota igual al 50 % del importe de un día de salario mínimo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+c).- La corrección de errores en inscripciones causará la cuota igual al 50 % del importe de un día de salario mínimo..
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+III.- CERTIFICACIONES
+
+Las certificaciones de constancias que obren en los libros del Rregistro Civil causarán la cuota de 50 % del importe de un día de salario mínimo.
 
 ###### ARTICULO 262o.
 
@@ -2953,9 +2999,113 @@ En los derechos que se causen por matrimonios a domicilio, los Oficiales del Reg
 
 #### SECCION SEGUNDA. DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
-###### ARTICULO 263o.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-VEASE TABLA ANEXA
+###### ARTICULO 263.
+
+Los servicios que se prestan en el Registro Público de la Propiedad causarán derechos conforme a la siguiente
+
+TARIFA:
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+I.- La inscripción o registro de títulos, ya se trate de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier otra clase por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, o de contratos no mercantiles de enajenación de bienes muebles o inmuebles, sobre el valor 8 al millar.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+II.- Por la calificación de todo documento que se devuelva sin cumplimentar por carencia u omisión de requisitos, impedimento legal o a petición del interesado, cada vez que se presente, el importe de un día de salario mínimo.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+III.- La inscripción de la escritura constitutiva, cualquier modificación a la misma, aumento de capital social de sociedades civiles o asociaciones civiles sobre el capital, 4 al millar, sino se consigna el monto del capital social con el importe de diez días de salario mínimo.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+IV.- La inscripción de poderes o de revocación, públicos y privados no mercantiles o la sustitución de los mismos, con el equivalente a dos días del salario mínimo.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+V.- La inscripción o anotación de embargos, servidumbres, fianzas o de gravámenes o limitaciones a la propiedad y a la posesión de bienes inmuebles y muebles, como consecuencia de contratos, resolución judicial o disposición testamentaria, 4 al millar.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+VI.- La inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío otorgados por instituciones de crédito, de seguros o de fianzas, sobre el importe de la operación, 4 al millar.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+VII.- La inscripción de la constitución del patrimonio familiar y de las informaciones ad-perpetuam, con el importe de un día de salario mínimo.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+VIII.- La inscripción de testamentos y de constancias relativas a actuaciones en juicios sucesorios, independientemente de los derechos por depósito de la inscripción de transmisiones a que haya lugar, con el importe de un día de salario mínimo.
+
+IX.- La inscripción de la condición de resolutoria sobre bienes muebles en los casos de venta, de pacto de reserva de dominio, de la prenda en general, de la prenda de frutos pendientes de bienes raíces y de la prenda de títulos de créditos, el 75 % de las cuotas que establece la fracción I de este artículo y al practicarse la inscripción complementaria se cobrará el 25 % restante.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+X.- La inscripción de fraccionamientos de terrenos causarán derechos de inscripción como sigue:
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+a).- Lote urbano un días (sic) de salario mínimo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+b).- Lote rústico 50% de un día de salario mínimo.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+XI.- El depósito de testamentos y expedición de constancias respectivas, por cada uno cuatro días de salario mínimo.
+
+XII.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 1985)
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+XIII.- La cancelación del registro de cada sociedad civil o asociación civil por extinción de las mismas con el importe de tres días de salario mínimo.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+XIV.- La cancelación de las inscripciones en los casos a que se refieren las fracciones V y VII, con el importe de tres días de salario mínimo.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+XV.- La cancelación de las inscripciones relativas a los casos comprendidos en la fracción IX, con el importe de tres días de salario mínimo.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+XVI.- Búsqueda de documentos, certificación o copia certificada de los mismos o de protocolos 50% de un día de salario mínimo por hoja; certificado de libertad de gravamen y de no propiedad con el importe de un día de salario mínimo.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+
+XVII.- Inscripción en el Archivo General de Notarías a cargo del Registro de la Propiedad:
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+a).- Por el registro de la patente notarial, noventa días de salario mínimo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+b).- Por el registro de la firma y sello del notario, cuatro días de salario mínimo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+c).- Por el registro de la patente de aspirantes a Notarios Públicos, dos días de salario mínimo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+d).- Por su autorización de cada libro del protocolo notarial, tres días de salario mínimo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+e).- Por la conservación de cada libro y sus anexos (apéndice) del protocolo notarial, 50 % de un día de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+El importe de los derechos señalados en las fracciones I, III, V, VI y IX de este Artículo, en ningún caso serán inferiores al equivalente de un día de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+Cuando los servicios se presten a través de Telefax o cualquier otro medio de comunicación, se cobrará adicionalmente cinco días de salario mínimo por hoja.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -2967,7 +3117,9 @@ Para la determinación y cobro de los derechos que establece el artículo anteri
 
 I.- Se tendrá como valor para los efectos de la aplicación de las tasas en los casos relativos a la enajenación de los bienes inmuebles, aquel que sirva de base para el cálculo del impuesto sobre adquisición de bienes inmuebles sin deducción alguna.
 
-II.- En los contratos de arrendamiento servirá de base para determinar los derechos, la suma del alquiler pactado y de todas las demás prestaciones adicionales que estuvieren a cargo del arrendatario. Los contratos del subarrendamiento causarán los mismos derechos que los de arrendamiento.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+II.- En los contratos de arrendamiento servirá de base para determinar los derechos, la suma del alquiler pactado como máximo en un año y de todas las demás prestaciones adicionales que estuvieren a cargo del arrendatario. Los contratos del subarrendamiento causarán los mismos derechos que los de arrendamiento.
 
 III.- En las emisiones de las cédulas hipotecarias en que se constituya hipoteca en favor de una institución de crédito, por las condiciones, cuotas, derechos y otros conceptos que no puedan determinarse al momento de realizarse la operación, se pagará por la inscripción que se haga de dicha hipoteca independientemente de la que se constituya a favor de los tenedores de las cédulas, la cual causará la cuota correspondiente por cantidad indeterminada.
 
@@ -2995,7 +3147,23 @@ IX.- En los casos en que los servicios que preste el Registro Público de la Pro
 
 No se causarán los derechos a que se refieren los Artículos 263 y 266, en los siguientes casos:
 
-I.- Las inscripciones relativas a bienes inmuebles o derechos reales, pertenecientes a la Nación, al Gobierno del Estado, a los Municipios; cuando dichas Entidades las soliciten.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+I.- Las inscripciones relativas a bienes inmuebles o derechos reales, pertenecientes a la Nación, al Gobierno del Estado y sus organismos descentralizados, y los Municipios; así mismo los adquiridos por los organismos para ser destinados a satisfacer necesidades de vivienda en cumplimiento de su objeto que a continuación se indican:
+
+a).- Instituto Tamaulipeco de la Vivienda y Urbanización;
+
+b).- Sistema para la Integración de la Población al Desarrollo Urbano de Tamaulipas;
+
+c).- Fideicomiso Fondo Nacional de Habitaciones Populares;
+
+d).- Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
+
+e).- Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado;
+
+f).- Unidad de Previsión y Seguridad Social del Estado de Tamaulipas; y,
+
+g).- Comisión para la Regularización de la Tenencia de la Tierra.
 
 II.- Las certificaciones o informes que soliciten el Gobierno Federal, el del Estado o los Municipios, cuando el pago de los derechos no correspondan a particulares.
 
@@ -3003,9 +3171,15 @@ III.- Los informes que soliciten por causas penales o para juicios de amparo.
 
 IV.- Las fundaciones de beneficencia privada no causarán derechos por la inscripción de la escritura constitutiva y las de las modificaciones a la misma.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-V.- Las inscripciones relativas a bienes inmuebles o derechos reales, contratos de mutuo, adquiridos con fondos suministrados con el carácter de préstamos por el FOVISSSTE, INFONAVIT y la Oficina de Previsión Social y Pensiones del Estado.
+V.- Las inscripciones relativas a bienes inmuebles o derechos reales, contratos de mutuo, adquiridos con fondos suministrados en el carácter de prestamos por el Instituto Tamaulipeco de la Vivienda y Urbanización; Sistema para la Integración de la Población al Desarrollo Urbano de Tamaulipas; Fideicomiso Fondo Nacional de Habitaciones Populares; Instituto del Fondo Nacional de la Vivienda para los Trabajadores; Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado; Unidad de Previsión y Seguridad Social del Estado de Tamaulipas, Comisión para la Regularización de la Tenencia de la Tierra, y con financiamiento concedido por los patrones a sus trabajadores.
+
+La exención señalada en esta fracción se aplicará si se cumplen los requisitos siguientes:
+
+a).- Que el adquirente no posea otra propiedad.
+
+b).- Tratándose de terrenos, que éstos no excedan de 250 M2 y cuando incluyan casa habitación ésta no exceda de 100 M2 de construcción.
 
 #### SECCION TERCERA. DEL REGISTRO PUBLICO DE COMERCIO
 
@@ -3037,7 +3211,9 @@ VI.- En los casos no previstos expresamente en el Artículo anterior, los derech
 
 No se causarán los derechos a los que se refiere el Artículo 266o.
 
-a).- En los casos comprendidos en las fracciones II y III del Artículo 265o.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+a).- En los casos comprendidas (sic) en el Artículo 265.
 
 b).- Las inscripciones de las Sociedades Cooperativas Escolares, dependientes de la Secretaría de Educación Pública y que estén bajo su vigilancia o la del Estado.
 
@@ -3073,9 +3249,123 @@ AUTORIZACIONES Y PATENTES
 
 ### CAPITULO IV. SERVICIOS CATASTRALES
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
 ###### ARTICULO 275o.
 
-VEASE TABLA ANEXA
+Los servicios que se presten por el Departamento de Catastro y demás autoridades catastrales causarán derechos conforme a la siguiente:
+
+T A R I F A :
+
+I.- REGISTROS CATASTRALES.
+
+1.- Revisión, cálculo y registro sobre planos de fraccionamientos o lotificaciones, por metro cuadrado.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+a).- Urbanos en general, 0.50% de un día de salario mínimo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+b).- Urbanos, Viviendas Populares, 0.25% de un día de salario mínimo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+c).- Campestres o industriales 0.25% de un día de salario mínimo.
+
+2.- Revisión, cálculo, aprobación y registro sobre planos de predios:
+
+a).- Urbanos y suburbanos, sobre el valor catastral, 1 al millar.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+b).- Rústicos cuyo valor no exceda de cinco días de salario mínimo, 2.5% de un día de salario mínimo.
+
+c).- Rústicos, cuyo valor catastral sea superior a $50,000.00, pagarán la cuota de l inciso anterior y sobre el excedente hasta la cantidad de $ 50,000.00 pagarán el 2.5%.
+
+d).- Rústicos, cuyo valor catastral sea superior a $ 5,000.00 pagarán los porcentajes de los incisos anteriores por los primeros $ 50,000.00 y sobre el excedente 1.5%
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+II.- CERTIFICACIONES CATASTRALES.
+
+a).- La certificación de Registro sobre planos de predios proporcionados por los contribuyentes 50%, un día de salario mínimo.
+
+b).- La certificación de valores catastrales, de superficies catastrales, de nombre del propietario, poseedor o detentador de un predio, de colindancias y dimensiones, de inexistencia de registro a nombre del solicitante y en general de manifiestos o datos de los mismos que obren en los archivos de la Tesorería General del Estado, 50% de un día de salario mínimo.
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 1983)</small>
+
+III.- AVALUOS.
+
+Sobre el valor de los mismos 2 al millar
+
+IV.- SERVICIOS TOPOGRAFICOS.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+1.- Deslinde de predios urbanos, por metro cuadrado, el 1% de un día de salario mínimo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+2.- Deslinde de predios suburbanos y rústicos, por hectárea:
+
+a).- Terrenos planos desmontados 10% de un día de salario mínimo.
+
+b).- Terrenos planos con monte 20% de un día de salario mínimo.
+
+c).- Terrenos con accidentes topográficos desmontados 30% de un día de salario mínimo.
+
+d).- Terrenos con accidentes topográficos con monte 40% de un día de salario mínimo.
+
+e).- Terrenos accidentados 50% de un día de salario mínimo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+3.- Para los dos incisos anteriores, cualquiera que sea la superficie del predio, el importe de los derechos no podrá ser inferior a cinco días de salario mínimo.
+
+4.- Dibujo de planos topográficos urbanos, escalas hasta 1:500:
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+a).- Tamaño del plano hasta de 30 x 30 centímetros cinco días de salario mínimo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+b).- Sobre el excedente del tamaño anterior, por decímetro cuadrado o fracción 5 al millar de un día de salario mínimo.
+
+5.- Dibujo de planos topográficos suburbanos y rústicos, escalas mayor a 1:500:
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+a).- Polígono de hasta seis vértices cinco días de salario mínimo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+b).- Por cada vértice adicional 20 al millar de un día de salario mínimo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+c).- Planos que excedan de 50 x 50 centímetros sobre los incisos anteriores, causarán derechos por cada decímetro cuadrado adicional o fracción, 10 al millar de un día de salario mínimo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+6.- Croquis de localización, tamaño oficio, un día de salario mínimo.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+V.- SERVICIOS DE COPIADO.
+
+1.- Copias heliográficas de planos que obren en los archivos de la Tesorería General del Estado.
+
+a).- Hasta de 30 x 30 centímetros dos días de salario mínimo.
+
+b).- En tamaños mayores, por cada decímetro cuadrado adicional o fracción, 1 al millar de un día de salario mínimo.
+
+2.- Copias fotostáticas de planos o manifiestos que obren en los archivos de la Tesorería General del Estado, hasta tamaño oficio, 20% de un día de salario mínimo.
+
+No se causarán los derechos establecidos en este Artículo en los casos comprendidos en las fracciones I y V del Artículo 265.
+
+VI.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 1991
 
 ### CAPITULO V. SERVICIOS SANITARIOS
 
@@ -3161,31 +3451,67 @@ Los propietarios o poseedores de predios que se encuentren dentro del área de b
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 294o.
 
-VEASE TABLA ANEXA
+El servicio por publicaciones en el Periódico Oficial del Estado causará derechos conforme a la siguiente
+
+T A R I F A :
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+I.- PRECIO DEL PERIODICO OFICIAL.
+
+1.- Ejemplar del día 30% de un día de salario mínimo.
+
+2.- Ejemplar atrasado, 60% de un día de salario mínimo.
+
+3.- Ejemplar extraordinario o con anexo hasta 20 páginas 60% de un día de salario mínimo, de 21 a 50 páginas dos días de salario mínimo y con más de 50 páginas cinco días de salario mínimo.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+II.- PUBLICACIONES.
+
+1.- Avisos judiciales, edictos, convocatorias, requerimientos, autorizaciones, 0.4% de un día de salario mínimo por palabra, por cada publicación.
+
+2.- Por plana cuarenta días de salario mínimo por cada publicación.
+
+3.- Balances y documentos similares, una publicación, por plana o fracción $ 1,000.00
+
+III.- Los pagos de los derechos que se señalan en este artículo serán por adelantado y se efectuarán en las Oficinas Fiscales del Estado, remitiendo los comprobantes de pago a la Dirección del Periódico, adjuntándolos a los originales que van a publicarse.
 
 ###### ARTICULO 295o.
 
-Los derechos por servicios no previstos ni exceptuados expresamente por este Título II, se determinarán por asimilación aplicando las cuotas o tasas que correspondan a los casos que tengan semejanza.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 296o.
 
-Salvo lo dispuesto en el artículo siguiente, el pago de los derechos deberá hacerse previamente a la prestación de servicios, en la Oficina Fiscal de la jurisdicción, dentro de los plazos que se establezcan para el efecto. Los funcionarios y empleados del Gobierno del Estado, se abstendrán de actuar o, en su caso, de entregar documentos o constancias relativas hasta en tanto el usuario presente el comprobante de pago respectivo. El funcionario o empleado que no cumpliere con esta disposición, tendrá responsabilidad solidaria con el causante para el pago del importe de los derechos y sanciones que se causaren.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 297o.
 
-En los casos en que no se efectúe previamente a la prestación del servicio el pago de los derechos, en virtud de no poderse determinar la base de los mismos, dicho pago se hará el mismo día en que sean determinables los derechos. La falta de pago oportuno de los derechos establecidos en el presente Titulo II, causará un recargo del doble de la tasa establecida por la Ley de Ingresos del Estado, por cada mes y fracción de retraso, independientemente de la aplicación de las sanciones que señalan las leyes respectivas.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 298o.
 
-El cobro de los Derechos establecidos en el presente Titulo II, dará lugar, en su caso, al ejercicio de la facultad económica co-activa la cual se ejercitará por conducto de la Tesorería General del Estado o la Oficina Fiscal dependiente de la misma en cuya jurisdicción hubiere sido prestado el servicio.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 299º.
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 300.
+
+El trámite y estudio de las solicitudes de subsidios fiscales para Impuestos Estatales causarán derechos por la cantidad de 6 días de salario mínimo que deberá enterarse previamente al otorgamiento del subsidio.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 301.
+
+El Ejecutivo por conducto de la Tesorería hará efectivo el cobro de las formas valoradas cuyo precio se determinará tomando en cuenta el costo de las mismas o el que rija en el mercado.
 
 ## TRANSITORIOS
 
@@ -3346,3 +3672,9 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publica
 P.O. 14 DE ENERO DE 1987
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 1991
+
+PRIMERO.- El presente Decreto entrará en vigor el 1 de enero de 1992.
+
+SEGUNDO.- Para los efectos del Artículo 258 B al inicio de la vigencia del presente Decreto se entenderá como salario mínimo aplicable el vigente al 31 de diciembre de 1991.
