@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-aparceria-para-el-estado-de-durango-4973"
 country: "mx"
 rank: "ley"
 publication_date: "1934-10-04"
-last_updated: "1946-03-28"
+last_updated: "2002-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4973&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE APARCERIA PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 1946
+> <small>N. DE E. EL PRESENTE REGLAMENTO HA SIDO ABROGADO POR EL DECRETO NO. 168, PUBLICADO EN EL PERIODICO OFICIAL EL 22 DE DICIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el 4 de Octubre de 1934.
 
@@ -224,3 +226,7 @@ Dado en el Palacio del Poder Ejecutivo a los veintiseis días del mes de septiem
 P.O. 28 DE MARZO DE 1946.
 
 UNICO.- El Presente Decreto surte sus efectos a partir de la fecha de su publicación en el "Periódico Oficial" del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
