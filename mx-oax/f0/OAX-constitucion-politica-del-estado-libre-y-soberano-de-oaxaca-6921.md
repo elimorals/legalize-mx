@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1984-01-21"
+last_updated: "1984-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 1984.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -1363,9 +1363,21 @@ El requisito de la edad a los funcionarios a quienes se exige la de treinta y ci
 
 Nunca podrán desempeñar a la vez por un solo individuo dos o más empleos o cargos públicos del Estado y de los Municipios, por lo que se disfrute sueldo, honorarios, gratificación o cualquiera otra ministración de dinero, con excepción de los relativos a los ramos de educación y beneficencia públicas.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE NOVIEMBRE DE 1984)</small>
+
 ###### ARTICULO 160.
 
-Ningún pago podrá hacerse que no esté comprendido en el Presupuesto respectivo o determinado por la ley.
+Ningún pago podrá hacerse que no esté comprendido en el Presupuesto respectivo o determinado por la Ley.
+
+Los recursos económicos de que disponga el Gobierno Estatal y los Municipios, así como sus respectivas Administraciones Públicas Paraestatales, se administrarán con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados.
+
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicio de cualquier naturaleza y la contratación de obra que realicen se adjudicarán o llevarán a cabo a través de licitaciones mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, o por Administración directa en los términos de la Ley respectiva.
+
+Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las Leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
+
+El manejo de recursos económicos Estatales y Municipales se sujetarán a las bases de este artículo.
+
+Los Servidores Públicos serán responsables del cumplimiento de ésta en los términos de la Ley Reglamentaria respectiva.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
@@ -1898,3 +1910,7 @@ Las reformas Constitucionales a que se refiere el presente Decreto, entrarán en
 P.O. 21 DE ENERO DE 1984.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 1984.
+
+UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
