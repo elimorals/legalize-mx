@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-penales-para-el-estado-de-sinaloa-6532
 country: "mx"
 rank: "codigo"
 publication_date: "1986-09-26"
-last_updated: "2000-04-12"
+last_updated: "2000-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2000.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el viernes 26 de septiembre de 1986.
 
@@ -3263,11 +3263,37 @@ IV.- Que no se trate de alguno de los delitos señalados como graves en el artí
 
 La caución a que se refiere la fracción III y las garantías a que se refieren las fracciones I y II podrán consistir en lo que señala el artículo 498 de este Código.
 
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE JULIO DE 2000)</small>
 
 ###### ARTICULO 492 Bis.
 
-En casos de delitos no graves, a solicitud del Ministerio Público, el Juez podrá negar la libertad provisional bajo caución, cuando el inculpado haya sido condenado con anterioridad, por algún delito calificado como grave por la ley o, cuando el Ministerio Público aporte elementos al Juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
+En caso de delitos no graves, a solicitud del Ministerio Público, el Juez podrá negar la libertad provisional bajo caución, cuando el inculpado haya sido condenado con anterioridad, por algún delito calificado como grave por la ley o, cuando el Ministerio Público aporte elementos al Juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
+
+Por conducta precedente o circunstancias y características del delito cometido, según corresponda, se entenderán, cuando:
+
+I.- El inculpado sea reincidente por delito doloso, en términos de lo dispuesto por el Código Penal para el Estado;
+
+II.- El inculpado cometa el nuevo delito encontrándose bajo el beneficio de la suspensión de la ejecución de la pena o substitución de ésta, otorgada en juicio instaurado por delito doloso;
+
+III.- Se trate de delitos cometido con violencia, física o moral, en asociación delictuosa o pandilla;
+
+IV.- El inculpado haya cometido el delito bajo el influjo de estupefacientes o sustancias psicotrópicas;
+
+V.- El inculpado esté sujeto a otro u otros procesos penales anteriores, en los cuales se le haya dictado auto de formal prisión por el mismo género de delitos;
+
+VI.- El inculpado se haya sustraído a la acción de la justicia y esté sujeto a un proceso penal por delito doloso;
+
+VII.- El inculpado se haya sustraído con anterioridad a la acción de la justicia, impidiendo con ello la continuidad del proceso penal correspondiente;
+
+VIII.- El Ministerio Público aporte cualquier otro elemento probatorio de que el inculpado se sustraerá a la acción de la justicia, si la libertad provisional le es otorgada, o
+
+IX.- Exista el riesgo fundado de que el inculpado cometa un delito doloso contra la víctima o el ofendido, alguno de los testigos que depongan en su contra o servidores públicos que intervengan en el procedimiento, o algún tercero, si la libertad provisional le es otorgada.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2000)</small>
+
+###### ARTICULO 492 Ter.
+
+El juez podrá en todo caso revocar la libertad provisional concedida al inculpado, cuando durante el proceso lo solicite incidentalmente el Ministerio Público, acreditando la existencia de cualesquiera de las causas que señala el artículo anterior.
 
 ###### ARTICULO 493.
 
@@ -3748,3 +3774,9 @@ El presente decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las referencias que en otras disposiciones jurídicas se hagan a la Policía Judicial, se entenderán hechas a la Policía Ministerial.
+
+P.O. 14 DE JULIO DE 2000.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
