@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1978-11-15"
+last_updated: "1979-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1979.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -889,43 +889,29 @@ ART. 88.- Cuando de las investigaciones que realice la Secretaría de Finanzas d
 
 ### CAPITULO II. Impuesto Estatal sobre Ingresos Mercantiles
 
-ART. 89.- El Impuesto Estatal sobre Ingresos Mercantiles grava, en los términos del Artículo 81 de la Ley Federal del Impuesto sobre Ingresos Mercantiles y en base al Convenio de Coordinación respectivo celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, los ingresos siguientes:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 89.- Son objeto de este Impuesto los ingresos que se obtengan en el Estado de Sinaloa, por los conceptos siguientes:
 
 I.- Los obtenidos en los establecimientos que se enumeran a continuación por las operaciones propias de su ramo:
 
-a).- Molinos productores de masa de nixtamal, molinos maquileros de nixtamal, expendio de masa de maíz, tortillerías y molinos maquileros de harina de maíz;
+a).- Molinos productores de masa de nixtamal, expendios de masa de maíz, tortillerías y molinos maquileros de harina o masa de maíz;
 
 b).- Fábricas y expendios de pan;
 
 c).- Carnicerías;
 
-d).- Pescaderías y expendios de mariscos;
+d).- Pescaderías y expendios de mariscos; ventas de segunda o ulteriores manos de:
 
 e).- Verdulerías y fruterías;
 
-f).- Carbonerías;
+f).- Molinos de trigo y de arroz;
 
-g).- Sombrererías, exclusivamente cuando vendan sombreros de palma, y huaracherías;
+g).- Lecherías y plantas pasteurizadoras.
 
-h).- Molinos de trigo y de arroz;
+II.- Los obtenidos en operaciones de:
 
-i).- Lecherías y plantas pasteurizadoras;
-
-j).- Los ingresos obtenidos en los establecimientos comúnmente denominados tendejones, estanquillos o misceláneas, que reúnan los requisitos siguientes:
-
-1.- Que estén atendidos directamente por el propietario;
-
-2.- Que su activo no exceda de $ 20,000.00, ni sus ventas anuales de $ 60,000.00;
-
-3.- Que preferentemente enajenen productos alimenticios;
-
-4.- Que las ventas se efectúen directamente al consumidor.
-
-k).- Los ingresos obtenidos en los cafés, fondas, loncherías y cocinas económicas que su activo no exceda de $ 20,000.00 ni sus ventas anuales de $ 60,000.00.
-
-II.- Los obtenidos en operaciones de ventas de segunda o ulteriores manos de:
-
-a).- Maís (sic), arroz, frijol, trigo, milo-maíz, garbanzo, café y cacahuate, así como otras semillas que se utilicen en la alimentación humana siempre que no se modifique su forma, estado o composición;
+a).- Maíz, Arroz, Frijol, trigo, milo maíz, garbanzo, café y cacahuate, así como otras semillas que se utilicen en la alimentación humana; siempre que no se modifique su forma, estado o composición;
 
 b).- Pescado y mariscos en estado natural, frescos, refrigerados o congelados, siempre que no se consuman en el establecimiento que los expende;
 
@@ -933,61 +919,51 @@ c).- Aves de corral y huevos;
 
 d).- Legumbres, frutas, verduras y productos hortícolas en general, en estado natural;
 
-e).- Ganado porcino, caprino, lanar y vacuno con excepción de los toros o novillos de lidia;
+e).- Ganado porcino, caprino, lanar, vacuno, equino y asnal;
 
 f).- Azúcar y sal;
 
-g).- Carbón vegetal, petróleo diáfano y tractolina;
-
-h).- Gas industrial y el destinado a uso doméstico, con excepción de los ingresos obtenidos por personas o empresas que funcionen al amparo de concesión federal;
-
-i).- Productos agrícolas que se empleen como materia prima en la elaboración de alimentos para animales.
+g).- Productos agrícolas que se empleen como materia prima en la elaboración de alimentos para animales.
 
 III.- Los obtenidos en operaciones de venta de:
 
 a).- Carnes en estado natural;
 
-b).- Hielo con excepción del anhídrico carbónico;
+b).- Mascabado y piloncillo;
 
-c).- Mascabado y piloncillo;
+c).- Transporte de personas o cosas por empresas que no sean de concesión federal;
 
-d).- Transporte de personas o cosas por Empresas que no sean de concesión federal;
+d).- Leche natural, pasteurizada, condensada, evaporada, deshidratada, rehidratada o enlatada;
 
-e).- Leche natural, pasteurizada, condensada, evaporada, deshidratada, rehidratada o enlatada;
+e).- Tortillas, nixtamal, masa de nixtamal, harina de maíz, pan, galletas y pastel;
 
-f).- Subproductos industriales que se empleen como materia prima en la elaboración de alimentos para animales;
+f).- Maquinaria y equipo que únicamente sean susceptibles de ser utilizados en la agricultura, ganadería y pesca. No quedan comprendidos en este inciso, la maquinaria y equipo para industrializar los productos agrícolas, ganaderos y pesqueros;
 
-g).- Tortillas, masa de nixtamal, harina de maíz, pan, galletas de tipo corriente y pastas alimenticias, excepto pastel.
+g).- Semillas para siembra;
 
-IV.- Los ingresos procedentes de diversiones y espectáculos públicos;
+h).- Fertilizantes, fungicidas, insecticidas o herbicidas, siempre que sean utilizados en la agricultura o ganadería;
 
-V.- Los ingresos obtenidos por puestos ubicados en la vía pública o en los mercados públicos que reúnan los siguientes requisitos:
+i).- Libros, periódicos y revistas;
 
-a).- Que causen los derechos municipales de mercados;
+j).- Alimentos balanceados para animales y las materias primas necesarias para producirlos;
 
-b).- Que no enajenen bebidas que contengan alcohol, excepto cerveza en envase cerrado;
+k).- Productos de medicina veterinaria;
 
-c).- Que su activo en mercancías no exceda de $ 20,000.00, teniendo en cuenta las existencias en el puesto y las guardadas en el domicilio del propietario o en las bodegas o en cualquier otro local.
+l).- Gas para uso doméstico y carbón vegetal.
 
-VI.- Los ingresos que obtengan los vendedores ambulantes, siempre que satisfagan los siguientes requisitos:
+IV.- Los procedentes de espectáculos públicos, por el boleto de entrada.
 
-a).- Que las mercancías que enajenen sean de su propiedad;
+Se exceptúan de lo dispuesto en esta fracción, los ingresos que procedan de servicios prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos.
 
-b).- Que efectúen las ventas directamente al consumidor;
+V.- Aguas purificadas, destiladas o potables no gaseosas ni compuestas;
 
-c).- Que su activo, formado por el valor de las mercancías, muebles y enseres no exceda de $ 10,000.00;
-
-d).- Que no utilicen para sus operaciones vahículos (sic) de motor.
-
-VII.- Aguas purificadas, destiladas o potables no gaseosas ni compuestas;
-
-VIII.- Los provenientes de actividades mercantiles, así como los obtenidos en operaciones de compraventa con bienes inmuebles cuando las partes o una de ellas sean comerciantes, efectuadas o que surtan sus efectos en el territorio del Estado, por los ingresos exentos o que no causen el Impuesto Federal sobre Ingresos Mercantiles.
-
-Se exceptúan de lo dispuesto en esta fracción los ingresos derivados de la fabricación, emsamble (sic), introducción o venta de primera mano de Alfombras, tapetes y Tapices, y de artículos electrónicos, Discos, Cintas, Aspiradoras y Pulidoras, siempre que el Estado de Sinaloa reciba participación en el rendimiento de los impuestos federales respectivos.
+VI.- Los provenientes de otros actos o actividades por los que no deba pagarse el Impuesto al Valor Agregado.
 
 ART. 90.- El impuesto se causará y pagará a razón del 1.8% sobre el monto total de los ingresos gravados que se obtengan dentro del territorio del Estado.
 
-ART. 91.- Son sujetos del impuesto las personas físicas o morales que habitualmente obtengan ingresos por los conceptos especificados en el Artículo 89 de este Capítulo.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 91.- Son sujetos del Impuesto las personas físicas o morales que obtengan ingresos por los conceptos especificados en el Artículo 89 de este Capítulo.
 
 También son sujetos del impuesto, las personas físicas o morales que realicen operaciones gravadas dentro del territorio del Estado de Sinaloa con la intervención de comisionistas, agentes, consignatarios o distribuidores domiciliados en el Estado. Los comisionistas, agentes, consignatarios, representantes, corredores o distribuidores, son solidariamente responsables del pago del impuesto a cargo de sus representados por todas las operaciones en que intervengan.
 
@@ -999,11 +975,39 @@ El impuesto se causa sobre el ingreso total de las operaciones gravadas por este
 
 Se exceptúan de lo dispuesto en el párrafo anterior los ingresos por concepto de intereses ordinarios o moratorios obtenidos por empresas fraccionadoras de terrenos, empresas inmobiliarias o cualquier otro tipo de empresas que se dediquen a la compra-venta y administración de bienes inmuebles, los cuales quedarán gravados en el Capítulo correspondiente de esta Ley.
 
-Para la determinación del ingreso gravado por este Capítulo se sujetará a lo que disponen los Artículos 21, 24, 25, y 26 de la Ley Federal del Impuesto sobre Ingresos Mercantiles.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
-ART. 93.- Los causantes presentarán declaración mensual de acuerdo con las formas aprobadas por la Secretaría de Finanzas del Estado y efectuarán el pago del Impuesto en la Oficina Recaudadora de su jurisdicción, dentro de los primeros veinte días del mes siguiente de aquel en que se hubieren obtenido los ingresos gravados. La declaración mensual deberá presentarse aún en el caso de que no perciban ingresos gravados, expresando el motivo de ello. Salvo prueba en lo contrario se presume que el ingreso mensual gravable no puede ser menor de $ 2,500.00.
+Para la determinación del ingreso gravado por este impuesto, así como para los efectos de las deducciones y rectificaciones correspondientes, se sujetará a lo siguiente:
 
-Los comitentes domiciliados fuera del Estado que realicen operaciones gravadas dentro del mismo, efectuarán el pago del impuesto en la oficina recaudadora en donde estén registrados sus comisionistas.
+I.- No se considerarán ingresos gravables:
+
+a).- Los reembolsos de pago hechos a terceros por concepto de gastos por seguro, acarreos, fletes, empaques, envolturas, envases exteriores, impuestos, derechos y otros semejantes que haga el vendedor con motivo del envío de las mercancías, siempre que éstos se agreguen al comprador, sin que se altere su monto y siempre que los importes se expresen específicamente en las facturas o notas de venta que se expidan. No se aplicará lo dispuesto en este inciso cuando el precio se pacte libre de gastos para el comprador.
+
+Se considerarán ingresos gravables los derivados de la enajenación de empaques, envolturas y envases que sean necesarios para la enajenación o venta de mercancías al detalle;
+
+b).- Los descuentos y bonificaciones hechos por el vendedor al comprador;
+
+c).- Los que se reintegren con motivo de la devolución de mercancías, en los casos en que las enajenaciones se rescindan total o parcialmente.
+
+II.- Los causantes que, como consecuencia de las operaciones que realicen, registren en sus libros autorizados, asientos que comprueben aumentos o disminuciones de los ingresos declarados, y, consecuentemente, afecten el monto del impuesto pagado, podrán hacer el aumento a su cargo o la disminución a su favor del impuesto rectificado en la declaración mensual siguiente al mes en que efectivamente hayan registrado dichos asientos.
+
+También podrán hacer rectificaciones cuando descubran errores en las declaraciones presentadas que motiven una diferencia de más o de menos en el impuesto pagado, siempre que las hagan en la declaración mensual siguiente a aquélla que se rectifique.
+
+Cumpliéndose con los requisitos establecidos no se cubrirán recargos ni se impondrán sanciones por los impuestos omitidos declarados;
+
+III.- Cuando los causantes no hayan hecho uso de las prerrogativas que las concede la fracción anterior, si al finalizar su ejercicio fiscal determinan diferencias de impuesto pagadas tanto de más como de menos, podrán hacer las compensaciones correspondientes y si de ellas resulta diferencia a su cargo la cubrirán mediante declaración complementaria, con los recargos de ley, dentro de los tres meses siguientes al cierre del ejercicio; si por el contrario la diferencia fuere a su favor podrán solicitar su devolución.
+
+Fuera del Plazo señalado en el párrafo anterior, no podrán hacerse las compensaciones de que se trata y en este caso los causantes deberán pagar las omisiones y recargos y pedir por separado la devolución del impuesto cubierto en exceso;
+
+IV.- Los causantes por iniciativa propia no podrán hacer las rectificaciones a que se refieren las fracciones anteriores, cuando se descubra falsedad en los asientos de su contabilidad, cuando la omisión del impuesto haya sido descubierta de antemano por alguna autoridad, funcionario o empleado, cuando la haya precedido denuncia, cuando con anterioridad se haya iniciado una auditoría al responsable o presunto responsable, o haya sido requerido de pago de alguna prestación fiscal derivada de este impuesto.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 93.- Los causantes presentarán declaración mensual de acuerdo con las formas aprobadas por la Secretaría de Finanzas del Estado y efectuarán el pago del impuesto en la oficina recaudadora de su jurisdicción, dentro de los primeros veinte días del mes siguiente de aquel en que se hubieren obtenido los ingresos gravados. La declaración mensual deberá presentarse aún en el caso de que no se perciban ingresos gravados, expresando el motivo de ello.
+
+Tratándose de ingresos obtenidos en forma accidental por los que deba pagarse este impuesto, el causante lo cubrirá mediante declaración que presentará en la oficina recaudadora de su jurisdicción dentro de los diez días hábiles siguientes.
+
+Los comitentes domiciliados fuera del Estado, que realicen operaciones gravadas dentro del mismo, efectuarán el pago del impuesto en la oficina recaudadora donde estén registrados sus comisionistas.
 
 ART. 94.- Los causantes del impuesto tienen las siguientes obligaciones:
 
@@ -1027,75 +1031,87 @@ ART. 95.- En caso de falta de presentación de las declaraciones mensuales de in
 
 Cuando el causante que haya sido requerido para presentar la declaración o declaraciones omitidas, no cumpla con esta prevención en el término que señala este Artículo, la Oficina Recaudadora procederá a formular una liquidación provisional del impuesto correspondiente, tomando como base el ingreso más alto declarado durante los tres últimos pagos y si en el término de 15 días no presenta su declaración, la liquidación provisional se considerará como formulada por el causante, para efectos de seguir el procedimiento de ejecución, sin perjuicio de la facultad de revisión de la Secretaría de Finanzas.
 
-ART. 96.- Las autoridades hacendarias del Estado podrán celebrar los convenios de coordinación necesarios con la Federación, de conformidad con la Ley Federal del Impuesto sobre Ingresos Mercantiles, y en especial con base en el Artículo 15 de la mencionada Ley Federal.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 96.- Las obligaciones a que se refiere el Artículo 94 de esta Ley, no son aplicables a los causantes que obtengan ingresos en forma accidental, salvo la que se refiere a conservar la documentación comprobatoria de los ingresos percibidos por el término de cinco años, señalada en la fracción IV de dicho Artículo.
 
 ### CAPITULO III. Impuesto sobre Producto de Capitales
 
-ART. 97.- Son causantes de este impuesto, las personas físicas o jurídicas que obtengan en el Estado o de fuentes de riqueza ubicadas en él o de créditos garantizados con bienes ubicados en el territorio, ingresos por concepto de:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 97.- Son causantes de este impuesto, las personas físicas o jurídicas que obtengan en el Estado o de fuentes de riqueza ubicadas en él, o de créditos garantizados con bienes ubicados en su territorio, ingresos por los conceptos siguientes, siempre que el ingreso gravado no se derive de actos o actividades por los que deba pagarse el Impuesto al Valor Agregado:
 
 I.- Intereses simples o capitalizados sobre préstamos en general;
 
-II.- Intereses sobre cantidades que se adeuden como precio en contratos de compraventa a plazos, compraventa con reserva de dominio o de promesa de compraventa, cuando el ingreso esté exento o no cause el Impuesto Federal sobre Ingresos Mercantiles;
+II.- Intereses sobre cantidades que se adeuden como precio en contratos de compraventa a plazos, compraventa con reserva de dominio o de promesa de compraventa.
 
 III.- Intereses sobre cantidades anticipadas a cuenta de precio de toda clase de bienes o derechos;
 
-IV.- Intereses provenientes del contrato de cuenta corriente cuando el ingreso esté exento o no cause el Impuesto Federal sobre Ingresos Mercantiles;
+IV.- Intereses provenientes del contrato de cuenta corriente;
 
 V.- Descuentos o anticipos sobre títulos o documentos;
 
-VI.- Usufructo de capitales impuestos a rédito o pensiones por censo consignativo o enfitéutico o anticresis;
+VI.- Usufructos de capitales impuestos a rédito;
 
-VII.- Premios, primas, regalías y retribuciones de toda clase provenientes de la explotación de patentes de invención y de marcas comerciales o industriales.
+VII.- Arrendamiento de negociaciones agrícolas o ganaderas aún cuando se arrienden separadamente el inmueble y los bienes que constituyan la negociación;
 
-VIII.- Arrendamiento de negociaciones agrícolas o ganaderas aún cuando se arrienden separadamente el inmueble y los bienes que constituyan la negociación;
+VIII.- Los réditos o intereses por préstamos prendarios otorgados por montepíos o casas de empeño;
 
-IX.- Subarrendamiento de bienes inmuebles, por la diferencia entre el precio del subarrendamiento y el arrendamiento;
+IX.- Arrendamiento o subarrendamiento de los siguientes bienes inmuebles:
 
-X.- Utilidades obtenidas por los montepíos o casa de empeño, en los remates de prendas. Los réditos o intereses por préstamos, ventas a plazo y otras operaciones de estos giros, quedan comprendidos en las respectivas fracciones de este Artículo;
+a).- El suelo;
 
-XI.- Operaciones e inversiones de capital, cualquiera que sea la denominación que se le dé a los ingresos obtenidos siempre que éstos no sean objeto de algún otro impuesto del Estado o que no estén expresamente exceptuados por una Ley Local o Federal aplicable;
+b).- Fincas dedicadas o utilizadas solo a fines agrícolas o ganaderos;
 
-XII.- Arrendamientos de bienes inmuebles, cuando el importe del arrendamiento de cada unidad, departamento o local, exceda de $ 300.00 mensuales si se trata de arrendamiento con fines distintos del uso habitacional, o cuando dicho importe exceda al equivalente mensual del 50% del salario mínimo general vigente en la zona económica respectiva del Estado, en caso de que el inmueble se arriende con fines habitacionales y siempre que el ingreso esté exento o no cause el Impuesto Federal sobre Ingresos Mercantiles.
+c).- Inmuebles destinados o utilizados exclusivamente para casa-habitación;
 
-ART. 98.- El impuesto se causa, sin deducción alguna, sobre los ingresos que el acreedor perciba por los conceptos señalados en el Artículo anterior, con arreglo de las siguientes:
+En el caso de arrendamiento de los inmuebles a que se refiere este inciso, el impuesto sólo se causará cuando el monto total de los ingresos mensuales que perciba el causante, exceda al equivalente mensual del 50% del salario mínimo general vigente en la zona económica respectiva del Estado.
 
-T A R I F A S
+Si un inmueble tuviere varios destinos o usos, el impuesto sólo se pagará por la parte destinada o utilizada para casa-habitación.
 
-TARIFA A.- Aplicable a los ingresos gravables comprendidos en las fracciones I, II, III, IV, V y VI del Artículo 97 cuando el interés, tipo de descuento o rédito anual sea:
+Lo dispuesto en este inciso no es aplicable a los inmuebles o parte de ellos que se proporcionen amueblados o se destinen o utilicen como hoteles o casas de hospedaje. No se considerará amueblada la casa habitación cuando se proporcione con muebles de cocina, de baño o para guardar ropa o los integrados a la construcción, así como aquéllos que determine la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general;
 
-Hasta del 12% 11.2% sobre el ingreso gravable
+X.- Operaciones e inversiones de capital, cualquiera que sea la denominación que se le dé a los ingresos obtenidos, siempre que éstos no sean objeto de algún otro impuesto del Estado o que no estén expresamente exceptuados por una Ley local o federal aplicable.
 
-Hasta del 15% 14.0 % " " "
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
-Hasta del 18% 16.8% " " "
+ART. 98.- El impuesto se causa, sin deducción alguna, sobre los ingresos que el acreedor perciba por los conceptos señalados en el artículo anterior, con arreglo a la siguiente:
 
-Mayor del 18% 21.0% " " "
+T A R I F A
 
-TARIFA B.- Aplicable a los ingresos gravables comprendidos en las fracciones VII, VIII, IX, X, y XII del Artículo 97:
+I.- En el caso de los ingresos gravables comprendidos en las fracciones I, II, III, IV, V y VI del Artículo 97, se aplicarán los siguientes porcientos:
 
-Sobre el ingreso gravable 11.2%
+Interés, Tasa
 
-TARIFA C.- Aplicable a los ingresos gravables comprendidos en la fracción XI del Artículo 97:
+tipo de descuento Aplicable
 
-Sobre la utilidad gravable, determinada deduciendo del precio de venta de las prendas el importe del préstamo de los réditos insolutos 25.2%
+o rédito anual
 
-TARIFA D.- Se aplicará el 38% de la Tarifa A de este Artículo:
+Hasta del 12% 11.2%
 
-A los ingresos producidos por créditos concedidos a una empresa o sociedad mercantil establecida en el Estaso (sic) de Sinaloa, para aplicación específica al desarrollo de sus fines;
+Hasta del 15% 14.0%
 
-TARIFA E.- Aplicable a los ingresos gravables a que se refiere la fracción XII del Artículo 97:
+Hasta del 18% 16.8%
 
-Si se trata de arrendamiento de bienes inmuebles con fines habitacionales, sobre el ingreso gravable:
+Mayor del 18% 21.0%
 
-Hasta $ 3,000.00 2.0%
+II.- En el caso de los ingresos gravables comprendidos en las fracciones VII, VIII y X del Artículo 97, se aplicará una tasa del 11.2%
 
-De $ 3,000.01
+III.- En el caso de los ingresos gravables comprendidos en la fracción IX del Artículo 97, se aplicarán los siguientes porcientos:
 
-el (sic) adelante 2.5%
+a).- Si se trata de arrendamiento de los inmuebles a que se refieren los incisos a) y b) de dicha fracción, sobre el ingreso gravable 3.5%
 
-Si se trata de arrendamiento de bienes inmuebles destinados a fines distintos del uso habitacional, sobre el ingreso gravable 3.5%.
+b).- Si se trata de arrendamiento de los inmuebles a que se refiere el inciso c) de dicha Fracción, sobre el ingreso gravable:
 
-ART. 99.- Si en el documento en que conste cualquier operación de la cual se obtenga alguno de los ingresos comprendidos en las fracciones I a IV inclusive y XII del Artículo 97, no se determina el interés, tipo de descuento o rédito que percibe el acreedor o se señala uno inferior al 12% anual, o se estipula que el acreedor no percibirá interés, se considerará para el sólo efecto de este impuesto que el ingreso gravable es el resultado de aplicar una tasa del 12% anual, salvo prueba en contrario a satisfacción de la Secretaría de Finanzas del Estado.
+I.- Hasta $ 3,000.00 2.0%
+
+II.- De $ 3,000.01 en adelante 2.5%
+
+c).- Si se trata de subarrendamiento, el impuesto se cubrirá sobre la base de la diferencia entre el precio del subarrendamiento y el del arrendamiento, aplicándose una tasa de 11.2%
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 99.- Si los ingresos gravables a que se refiere la fracción I del artículo anterior, se derivan de créditos concedidos a una empresa o sociedad mercantil establecida en el Estado de Sinaloa y son destinados en forma específica al desarrollo o ampliación de sus actividades, se aplicará únicamente el 38% de las tasas de impuesto previstas por dicha Fracción.
 
 ART. 100.- El impuesto que establece este Capítulo es a cargo del acreedor o persona que reciba los ingresos gravables, y no surte efectos fiscales cualquiera estipulación o convenio en sentido contrario.
 
@@ -1111,7 +1127,9 @@ b).- Dentro de los quince días siguientes a la fecha de celebración del contra
 
 II.- Si se trata de arrendamiento de inmuebles rústicos, el impuesto deberá cubrirse a más tardar dentro de los quince días siguientes a la fecha de celebración del contrato, mediante la presentación de una sola declaración anual, en las formas oficiales aprobadas, que deberá acompañarse de una copia del contrato respectivo.
 
-ART. 103.- Cuando los ingresos gravables pertenezcan a causantes domiciliados fuera del Estado, los deudores están obligados a retener el impuesto causado, descontándolo del pago que hagan al acreedor, y a enterar las cantidades retenidas en la Oficina Recaudadora correspondiente a su domicilio, en los términos que señalan dos Artículos inmediatos anteriores.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 103.- Cuando los ingresos gravables pertenezcan a causantes domiciliados fuera del Estado, los deudores están obligados a retener el impuesto causado, descontándolo del pago que hagan al acreedor, y a enterar las cantidades retenidas en la Oficina Recaudadora correspondiente a su domicilio, en los términos que señalan los artículos inmediatos anteriores.
 
 ART. 104.- El deudor que no dé cumplimiento a la obligación de retener el impuesto en los términos del artículo anterior, responderá solidariamente de su pago y será sancionado como infractor.
 
@@ -1125,11 +1143,17 @@ II.- Los ingresos de instituciones de beneficencia pública o privada del Estado
 
 III.- Los productos de capitales que se destinen al ramo de Educación en el Estado;
 
-IV.- Los intereses de las ventas a plazo y los intereses moratorios cuando formen parte de los ingresos gravados por el Impuesto Federal sobre Ingresos Mercantiles, mientras esté vigente el Convenio de Coordinación Fiscal celebrado entre el Gobierno del Estado y la Secretaría de Hacienda y Crédito Público;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
-V.- Los intereses de los bonos en la Deuda Pública Mexicana, si los tenedores están exceptuados del pago de impuestos locales por alguna Ley Federal o Local;
+IV.- Los intereses por ventas a plazo y los intereses moratorios cuando se deriven de actos o actividades por los que deba pagarse el Impuesto al Valor Agregado, mientras esté vigente el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público.
 
-VI.- Los intereses que paguen u obtengan las instituciones de crédito, de seguros o de fianzas, que operen en el país conforme a las leyes respectivas, siempre que dichos intereses se deriven de operaciones propias del objeto de dichas instituciones.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+V.- Los intereses de los bonos de la deuda pública mexicana, si los tenedores están exceptuados del pago de impuestos locales por alguna Ley Federal o Local;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+VI.- Los intereses que paguen u obtengan las instituciones u organizaciones auxiliares de crédito, nacionales o del extranjero, así como las instituciones de seguros o de fianzas, siempre que dichos intereses se deriven de operaciones propias del objeto de dichas instituciones.
 
 La disposición contenida en el párrafo anterior se refiere exclusivamente a los casos en que los intereses y percepciones sean pagados u obtenidos por dichas instituciones afectando sus respectivos patrimonios, en su carácter de deudores o de acreedores, pero de ninguna manera comprenden los casos de fideicomisos o cualesquiera otras operaciones en las que intervengan dichas instituciones invirtiendo capitales propiedad de terceras, aún cuando el pago de estos intereses y percepciones se haga por conducto de las mismas instituciones. En estos casos las manifestaciones y avisos a que se refiere el Artículo 107 de esta Ley, deberán ser hechos por las propias instituciones.
 
@@ -1349,6 +1373,274 @@ Zempoasúchitl 22.37 " "
 
 23.- Productos no especificados sobre el valor en plaza 3.0 %
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+HORTALIZAS Y FRUTAS Cuota
+
+DE PRIMERA por Bulto
+
+24.- Berenjena
+
+Jaba Alambrada 1 Bushel 0.55
+
+Jaba Alambrada Aserrada 0.59
+
+25.- Calabaza
+
+Caja de Madera Aserrada 0.79
+
+Jaba de Madera Alambrada
+
+1 1/9 Bushel 0.94
+
+26.- Chile Bell Pepper
+
+Caja de Cartón de 30 Lbs. 1.34
+
+Caja de Madera Alambrada
+
+1 Bushel 1.10
+
+Caja de Madera Aserrada 1.57
+
+Jaba Alambrada de Madera
+
+1 Bushel 1.43
+
+Otros Envases no especificados 0.78
+
+Caja de Cartón Encerada 1.05
+
+27.- Chile fresno
+
+Jaba Alambrada 1 Bushel 1.57
+
+Cartón Standard Tomatero 0.77
+
+28.- Chile Caribe
+
+Jaba Alambrada 1 Bushel 1.49
+
+Caja Standard Tomatera 0.86
+
+29.- Chile Anaheim
+
+Jaba Alambrada 1 Bushel 1.39
+
+30.- Chile Serrano
+
+Jaba Alambrada 1 Bushel 0.94
+
+Jaba Chilera 0.81
+
+31.- Chile Jalapeño
+
+Jaba Alambrada 1 bushel 1.62
+
+32.- Chile Morrón
+
+Jaba Alambrada 1 1/9 Bushel 1.57
+
+33.- Chile Cubanello
+
+Jaba Alambrada 1 Bushel 1.36
+
+34.- Chile Húngaro
+
+Jaba Alambrada 1 Bushel 1.43
+
+35.- Chile Pasilla
+
+Jaba Alambrada 1 Bushel 0.99
+
+36.- Chile Pimiento Rojo
+
+Jaba Alambrada 1 Bushel 1.18
+
+37.- Chícharo
+
+Canasta chicharera 1 Bushel 0.74
+
+Jaba Alambrada 1 1/9 Bushel 0.78
+
+Caja Madera 0.39
+
+Jaba Alambrada 1 Bushel 0.61
+
+38.- Ejote
+
+Jaba Alambrada 1 Bushel 1.51
+
+Caja Madera Alambrada Std. 1.55
+
+Jaba Madera Alambrada 1.55
+
+Jaba Alambrada 1 1/9 Bushel 1.53
+
+39.- Melón
+
+Jaba Alambrada Standard 0.74
+
+Jaba Melonera Jumbo 0.87
+
+Jaba Melonera Pony 0.43
+
+Caja Tomatera 0.27
+
+Jaba de Madera Aserrada 0.39
+
+40.- Nappa
+
+Jaba Madera Grande 2.01
+
+Jaba Madera Mediana 0.91
+
+Jaba Madera Chica 0.54
+
+41.- Pepino
+
+Jaba Alambrada 1 Bushel 1.13
+
+Cartón de 24 piezas 0.45
+
+Cartón de 36 piezas 0.88
+
+Caja Madera Standard 1.17
+
+Pickle Jaba Alambrada
+
+1 1/9 Bushel 0.74
+
+42.- Tomate Verde
+
+Caja de Cartón de 40 Lbs. 0.98
+
+Caja de Cartón de 30 Lbs 0.74
+
+43.- Tomate Maduro
+
+Envase de 3 tandas 1.00
+
+Envase de 2 tandas 0.80
+
+Envase de 30 Lbs. 1.00
+
+44.- Tomate Roma
+
+Caja de Cartón y Madera 0.62
+
+45.- Tomate Cherry
+
+Caja de Cartón y Madera 0.47
+
+Caja de Cartón o Madera 0.53
+
+46.- Tomatillo
+
+Envase no especificado 0.57
+
+47.- Otras Hortalizas
+
+Tonelada 35.93
+
+48.- Mango
+
+Caja de Cartón y Madera 0.36
+
+49.- Toronja
+
+Envase no especificado 0.43
+
+50.- Jicama
+
+Envase no especificado 0.51
+
+51.- Repollo
+
+Envase no especificado 0.53
+
+52.- Nabo
+
+Envase no especificado 0.27
+
+53.- Col
+
+Caja de Madera 0.26
+
+54.- Papaya
+
+Tonelada 37.57
+
+55.- Aguacate
+
+Tonelada 52.92
+
+Envase no especificado 0.63
+
+56.- Naranja
+
+Tonelada 14.92
+
+57.- Sandía
+
+Tonelada 9.35
+
+58.- Otras Frutas
+
+Tonelada 35.93
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+HORTALIZAS Y FRUTAS Cuota
+
+DE SEGUNDA p/TON.
+
+59.- Aguacate 47.37
+
+60.- Berenjena 17.76
+
+61.- Calabaza 14.92
+
+62.- Cebolla 17.76
+
+63.- Chícharo 17.76
+
+64.- Chile Fresco 17.11
+
+65.- Chile Seco 76.97
+
+66.- Ejote 14.92
+
+67.- Elote 17.76
+
+68.- Lechuga 14.92
+
+69.- Limón 35.53
+
+70.- Mango 26.05
+
+71.- Melón 14.92
+
+72.- Naranja 23.68
+
+73.- Papa 29.61
+
+74.- Papaya 29.61
+
+75.- Pepino 14.92
+
+76.- Repollo 14.92
+
+77.- Sandía 14.92
+
+78.- Tomate 29.43
+
+79.- Toronja 17.76
+
+80.- Otras Hortalizas 15.39
+
+81.- Otras frutas 23.68
+
 ART. 135.- El impuesto se pagará en la Oficina Recaudadora a cuya jurisdicción corresponda el lugar de procedencia de los productos agrícolas que lo generen, o en las Oficinas que la Secretaría de Finanzas del Estado designe para el efecto.
 
 ART. 136.- El impuesto deberá pagarse al salir los productos de la finca de origen o al efectuarse la primera venta. En caso de que los productos agrícolas se destinen para uso dentro de la propia finca o sean almacenados dentro de ésta, el impuesto deberá cubrirse en un plazo máximo de 30 días después de haberse efectuado la cosecha.
@@ -1373,31 +1665,47 @@ ART. 138.- Los compradores de productos agrícolas, los intermediarios o mediado
 
 Impuesto sobre Traslación de Dominio, Promesa de Compra-Venta y Sobre el Contrato de Mandato.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
 ART. 139.- Son objeto de este impuesto:
 
-I.- Las operaciones de traslación o adquisición de dominio que se realicen en el Estado, o en relación con bienes muebles o inmuebles ubicados en él, por cualquier título, inclusive por cesión de derechos, dación en pago y donación, con las salvedades que establece el artículo 141 de esta Ley.
+I.- Las operaciones de traslación o adquisición de dominio que se realicen el Estado, o en relación con bienes muebles o inmuebles ubicados en él, por cualquier título, inclusive por cesión de derechos dación en pago y donación, con las salvedades que establece el Artículo 141 de esta Ley.
 
-Para los efectos de este impuesto, la adjudicación de bienes en pago a la que se haga en remate a postor, la cesión onerosa de derechos reales o personales y la dación en pago, se equiparán a la compraventa. También se equiparán a la compraventa el acto constitutivo de fideicomiso, cuando se afecte un bien inmueble y la cesión de derechos de fideicomitente o fideicomisario derivados de ese tipo de fideicomiso;
+Para los efectos de este impuesto, la adjudicación de bienes en pago o la que se haga en remate a postor, la cesión onerosa de derechos reales o personales y la dación en pago, así como la protocolización de diligencias de información ad-perpétuam promovidas para acreditar la posesión de bienes inmuebles, se equipararán a la compraventa. También se equiparan a la compraventa el acto constitutivo de fideicomiso, cuando se afecte un bien inmueble y la cesión de derechos de fideicomitante o fideicomisario derivados de ese tipo de fideicomiso;
 
-II.- La promesa de compraventa de bienes muebles o inmuebles ubicados en el Estado y;
+II.- La promesa de compraventa de bienes muebles o inmuebles ubicados en el Estado.
 
-III.- El contrato de mandato.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
-ART. 140.- Causan el impuesto previsto en este Capítulo:
+ART. 140.- Causan el Impuesto sobre Traslación de Dominio previsto por la Fracción I del Artículo anterior:
 
-I.- Las traslaciones de dominio realizadas por personas físicas o morales, que no constituyan su actividad habitual y por las que no se cause el Impuesto Federal sobre Ingresos Mercantiles;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+I.- Las transmisiones de dominio por las que no se cause el Impuesto al Valor Agregado;
 
 II.- Las aportaciones de bienes inmuebles que hagan los socios o accionistas en favor de sociedades inmobiliarias, de empresas fraccionadoras de terrenos o de cualquier otro tipo de empresas que se dediquen a la compraventa o administración de bienes inmuebles;
 
-III.- La adquisición de bienes muebles o inmuebles efectuada por instituciones de crédito y organizaciones auxiliares;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+III.- La adquisición de bienes inmuebles efectuada por instituciones u organizaciones auxiliares de crédito e instituciones de seguros;
 
 IV.- El acto constitutivo de fideicomiso cuando se afecte un bien inmueble y la cesión de derechos de fideicomitente o de fideicomisario derivados de este tipo de fideicomiso.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+V.- La adquisición de la propiedad de bienes inmuebles por virtud de prescripción positiva, remate judicial o administrativo;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+VI.- La adquisición de la posesión de bienes inmuebles por la promoción, en vía de jurisdicción voluntaria y ante autoridad judicial competente de diligencias de información ad-perpetuam. En estos casos, al adquirirse la propiedad por virtud de prescripción positiva, no se causará el impuesto cuando éste previamente haya sido pagado por el causante con motivo de la información ad-perpetuam.
 
 ART. 141.- No causan el impuesto:
 
 I.- Las transmisiones de dominio por herencia o legado;
 
-II.- Las trasmisiones de dominio para la constitución o modificación de la sociedad conyugal, siempre que la adquisición no la haga un tercero;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+II.- Las trasmisiones de dominio por constitución, modificación, disolución o liquidación de la sociedad conyugal, siempre que la adquisición no la haga un tercero;
 
 III.- Las aportaciones de bienes que hagan los socios al constituir las sociedades o aumentar el capital de éstas, y la restitución de los mismos bienes a los aportantes al reducirse el capital social o disolverse la sociedad; si al liquidarse una sociedad corresponden a un socio bienes distintos de los que aportó, o los mismos bienes aportados pero con un aumento de su valor motivado por mejoras hechas por la sociedad o por terceros, se causará el impuesto sobre el excedente del valor aportado.
 
@@ -1416,6 +1724,10 @@ VIII.- La concesión o transmisión de servidumbre, derechos de uso o habitació
 IX.- Los actos constitutivos de fideicomiso de administración, de garantía o testamentario;
 
 X.- Las demás transmisiones que deban quedar exceptuadas de acuerdo con el Artículo 38 de esta Ley.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+XI.- La transmisión de bienes muebles usados enajenados por empresas.
 
 ART. 142.- El impuesto sobre traslación de Dominio se causará conforme a la siguiente:
 
@@ -1485,7 +1797,9 @@ ART. 143.- El avalúo comercial a que se refiere la Fracción II del Artículo a
 
 I.- El valor que se fije al inmueble deberá referirse a la fecha en que se lleve a cabo la operación, se celebre el acto, o se otorgue el contrato o escritura traslativos de dominio;
 
-II.- Dicho avalúo comercial tendrá vigencia por seis meses a partir de su fecha. Por los (sic) tanto, cuando el inmueble sea objeto de otra transmisión dentro de los seis meses siguientes a la fecha de la inmediata anterior, no habrá necesidad de nuevo avalúo, a menos de que el inmueble haya sido objeto de ampliación, reconstrucción o fusión;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+II.- Dicho avalúo comercial tendrá vigencia por seis meses a partir de su fecha. Por lo tanto, cuando el inmueble sea objeto de otra transmisión dentro de los seis meses siguiente a la fecha en que se hubiere practicado el avalúo, no habrá necesidad de nuevo avalúo, a menos de que el inmueble haya sido objeto de ampliación, reconstrucción o fusión;
 
 III.- El avalúo comercial deberá comprender tanto el valor del terreno como el de las construcciones y demás accesorios, aún cuando se traslade el dominio únicamente del terreno o bien solamente de las construcciones o accesorios, salvo que se pruebe que el adquirente contruyó (sic) con fondos propios las construcciones o que las adquirió con anterioridad, habiendo cubierto el impuesto respectivo.
 
@@ -1549,25 +1863,19 @@ e).- Medio de transporte utilizado y especificación de la unidad en que se haya
 
 ART. 151.- Si se omite la presentación de los documentos a que se refiere el artículo 150, las autoridades fiscales los suplirán de oficio y procederán a determinar y notificar el crédito fiscal. En el caso de que éste no fuere pagado en el término de ocho días, se hará efectivo mediante el procedimiento administrativo de ejecución.
 
-ART. 152.- La promesa de compraventa causará el impuesto a razón del 1% aplicable sobre el precio de la cosa objeto de la operación, siguiéndose las demás reglas relativas a la naturaleza de los bienes de que se trate.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
-Es sujeto de este impuesto el promitente comprador, respondiendo solidariamente de su pago el promitente vendedor.
+ART. 152.- La promesa de compraventa causará el impuesto a razón del 1% aplicable sobre el precio de la cosa objeto de la operación, siguiéndose las demás reglas relativas a la naturaleza de los bienes de que se trate. En los casos en que no se fije precio a la operación, el impuesto se cubrirá sobre el valor determinado por peritos, si se trata de bienes muebles, o sobre el valor catastral, si se trata de bienes inmuebles.
 
-Tratándose de contratos de promesa de compraventa celebrados por empresas fraccionadoras de terrenos, empresas inmobiliarias o cualquier otro tipo de empresas que se dediquen a la compraventa y administración de bienes inmuebles, el impuesto a que se refiere este Artículo deberá ser retenido por dichas empresas debiendo enterarlo ante la Oficina Recaudadora correspondiente a su domicilio a más tardar dentro de los primeros quince días del mes siguiente de aquél en que se hubieren celebrado los contratos, mediante la presentación de una declaración mensual en la que se indique la fecha de celebración de cada contrato, el nombre del promitente comprador y el importe de la operación.
+El traspaso o cesión de los derechos que sean el objeto de un contrato de promesa, causará el impuesto correspondiente en los términos de este artículo.
 
-ART. 153.- El contrato de mandato causará un impuesto conforme a la siguiente tarifa:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
-I.- El poder general causará una cuota de $ 200.00;
+ART. 153.- Es sujeto del Impuesto sobre Promesa de Compraventa el promitente comprador, respondiendo solidariamente de su pago el promitente vendedor.
 
-II.- El poder especial causará una cuota de $ 150.00.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
-Las cuotas precedentes se aplicarán independientemente del número de mandantes o mandatarios que figuren en cada contrato.
-
-El impuesto a que se refiere este Artículo es a cargo del mandatario, respondiendo solidariamente de su pago el mandante.
-
-El impuesto deberá cubrirse en la Oficina Recaudadora correspondiente al domicilio del mandatario, a más tardar dentro de cinco días siguientes a la fecha de celebración del contrato.
-
-ART. 154.- Las cartas poder no causarán el impuesto establecido para el contrato de mandato.
+ART. 154.- Tratándose de contratos de promesa de compraventa celebrados por empresas fraccionadoras de terrenos, empresas inmobiliarias o cualquier otro tipo de empresas que se dediquen a la compraventa y administración de bienes inmuebles, el impuesto a que se refiere el Artículo 152 de esta Ley deberá ser retenido por dichas empresas debiendo enterarlo ante la Oficina Recaudadora correspondiente a su domicilio a más tardar dentro de los primeros quince días del mes siguiente de aquél en que se hubieren celebrado los contratos, mediante la presentación de una declaración mensual en la que se indique la fecha de celebración de cada contrato, el nombre del promitente comprador y el importe de la operación.
 
 ART. 155.- Los Notarios y Jueces que actúen por receptoría em (sic) territorio del Estado fijarán bajo su responsabilidad la cuota de las escrituras que otorguen ante su fé, y en una nota consignarán la liquidación del impuesto respectivo. Dichos funcionarios no autorizarán las escrituras en que consignen actos gravados con los impuestos de este Capítulo sin que previamente se les compruebe su pago.
 
@@ -1707,61 +2015,39 @@ Sobre el impuesto previsto en el (sic) este Capítulo no se causará impuesto ad
 
 ### CAPITULO X. Impuesto sobre Profesiones y Oficios
 
-ART. 167.- Son objeto del impuesto a que se refiere este Capítulo, los ingresos en efectivo o en especie que se perciban en el ejercicio libre de una profesión, arte, oficio o actividad técnica, deportiva o cultural; como agente de instituciones de crédito, seguros o fianzas; mediante la explotación de una patente aduanal; o en cualquier otra forma no comprendida en este Artículo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
-ART. 168.- Son sujetos del impuesto a que se refiere este Capítulo, las personas físicas que perciban ingresos por el ejercicio libre de una profesión, arte, oficio, o actividad técnica, deportiva o cultural; como agente de instituciones de crédito, seguros o fianzas, mediante la explotación de una patente aduanal; o en cualquier otra forma no comprenda en este Artículo.
+ART. 167.- Son objeto de este impuesto los ingresos que se perciban por la prestación en forma independiente, de los siguientes servicios:
 
-Cuando las personas a que se refiere el párrafo anterior, operen organizadas en agrupaciones profesionales, asociación o sociedad de carácter civil serán dichas personas físicas los sujetos del Impuesto sobre Profesiones y Oficios, por la participación o retiros parciales que les corresponda en los ingresos de la organización.
+I.- Los de carácter profesional, cuando su prestación requiera título conforme a las leyes o cuando el servicio profesional sea de los señalados en las listas que al efecto publique la Secretaría de Hacienda y Crédito Público, siempre que sean prestados por personas físicas, organizaciones profesionales, asociaciones o sociedades civiles;
 
-ART. 169.- Los sujetos de este impuesto podrán realizar las siguientes deducciones por los gastos estrictamente indispensables para el ejercicio, la profesión, arte, oficio o actividad técnica de que se trate, siempre que no excedan del total de ingresos que perciban.
+II.- Los prestados por artistas, locutores, toreros o deportistas, cuando realicen actividades cinematográficas, teatrales, de radiodifusión, de variedades, taurinas o deportivas;
 
-I.- El importe de los siguientes porcientos mensuales, sobre el valor en libros, a la fecha:
+III.- Los prestados por agentes de seguros, por las comisiones que perciban por el aseguramiento contra riesgos agropecuarios y por seguros de vida, así como por los reaseguros respectivos;
 
-a).- 0.416% para amortización de activos intangibles y de gastos y cargos diferidos;
+IV.- Los prestados por agentes y corresponsales de instituciones de crédito, por las comisiones que perciban en el ejercicio de su actividad;
 
-b).- 0.25% para depreciación de edificios y construcciones;
+V.- Los prestados por agentes y corredores de bolsa, que se encuentren al servicio de bolsas de valores con concesión para operar y de casas de bolsa, por las comisiones que perciban en el ejercicio de su actividad;
 
-c).- 0.833% para depreciación de inversiones en maquinaria, equipo y bienes, muebles no comprendidos en el inciso siguiente;
+VI.- Los prestados por autores, a que se refiere la Ley Federal de Derechos de Autor.
 
-d).- 1.66% para depreciación de automóviles y otros equipos de transporte.
+En el caso de que el servicio se preste a través de una agrupación profesional de carácter civil, se considera como ingreso la participación o retiros parciales que cada persona física obtenga de los ingresos de la agrupación después de efectuadas por éstas las deducciones que autoriza esta Ley. En estos casos será la propia agrupación la que presente las declaraciones mensuales y efectúe por cuenta de los profesionales el pago del impuesto, lleve los libros y expida los recibos. Si la asociación o sociedad no cumple con las obligaciones, los socios o asociados deberán cumplir con las mismas.
 
-Los porcientos anteriores serán fijos y constantes, pero se podrán modificar cuando se hubieren aplicado coeficientes menores de los señalados en este precepto, previa autorización de la Secretaría de Finanzas, siempre y cuando no exceda de los porcientos que establece este Capítulo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
-II.- Las deducciones anteriores deberán reunir los siguientes requisitos;
+ART. 168.- Son sujetos del impuesto las personas físicas que obtengan los ingresos gravados a que se refiere el artículo anterior, por la prestación de sus servicios en el territorio del Estado de Sinaloa.
 
-a).- Que sean los estrictamente indispensables para las actividades del causante, consecuencia normal de las mismas, y estén en proporción con sus operaciones;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
-b).- Que se cumplan las obligaciones establecidas en esta Ley, en materia de retención y entero de impuestos a cargo de terceros o que, en su caso, se recaben de éstos los documentos en que conste el pago de dichos impuestos;
+ART. 169.- Los sujetos de este impuesto podrán deducir de sus ingresos brutos mensuales, los gastos e inversiones necesarios para su obtención, que en lo conducente y en forma proporcional a un mes, autoriza la Ley del Impuesto sobre la Renta a los causantes que obtengan "ingresos por honorarios y en general por la prestación de un servicio personal independiente", siempre y cuando se reúnan los requisitos y se cumpla con las disposiciones que para cada deducción en particular establece dicha Ley Federal y su Reglamento. Se exceptúa de lo dispuesto en este artículo, la deducción por concepto del salario mínimo general que autoriza la Ley Federal mencionada.
 
-c).- Que cuando los pagos cuya deducción se pretenda, se efectúen a personas obligadas a inscribirse en el Registro Federal de Causantes, se proporcione el número respectivo del Registro;
-
-d).- Que el importe de rentas se refiera exclusivamente al local destinado al ejercicio de su actividad. La Secretaría de Finanzas estará facultada para ordenar la práctica del avalúo del inmueble por la Dirección General de Catastro y, en este caso solo se admitirá como renta deducible, la que corresponda a un rendimiento bruto hasta del 1% mensual sobre el valor del avalúo. En el caso de donativos, los realmente erogados en efectivo, en cheque girado contra la cuenta del causante o en otros bienes que no sean títulos de crédito, destinados a obras o servicios públicos o instituciones asistenciales o de beneficencia y establecimientos de enseñanza, exentos conforme a las disposiciones fiscales federales;
-
-e).- Que las compras de materias primas, materiales, o los pagos de servicios se comprueben por medio de facturas, recibos o documentos que tengan las características señaladas en la Ley Impuesto sobre Renta o en su Reglamento. Tratándose de compras de importación, solo serán deducibles cuando se compruebe que se pagaron los impuestos respectivos;
-
-f).- Serán deducibles únicamente la depreciación y los gastos incurridos en un solo automóvil, cuando al causante le sea estrictamente indispensable para el ejercicio de su actividad. Tratándose de agrupaciones profesionales, asociaciones o sociedades de carácter civil, será deducible la depreciación y gastos incurridos en un solo automóvil por cada socio al cual le sea estrictamente indispensable para el ejercicio de su actividad y aquéllos que para los fines de la actividad puedan emplear para sus auxiliares, siempre que estos últimos se hayan adquirido a nombre de la agrupación profesional, asociación o sociedad de carácter civil y forme parte de su patrimonio. Cuando el asociado tuviere ingresos propios, obtenidos en forma independiente, solo podrá deducirlos a través de aquéllas. En ningún caso la base para la depreciación excederá de la cantidad máxima del precio de los automóviles que causen la tasa especial del 15% del Impuesto Federal sobre Ingresos Mercantiles;
-
-g).- Que las erogaciones relativas aparezcan registradas en la contabilidad y se disponga de la documentación comprobatoria conexa.
-
-III.- No serán deducibles las siguientes erogaciones:
-
-a).- Los obsequios, atenciones y otros gastos de naturaleza análoga;
-
-b).- La depreciación de inversiones y de gastos incurridos en casas habitación casas de recreo, aviones y embarcaciones y otros de naturaleza análoga, ya sea que formen parte del activo fijo o que estén arrendados o en posesión de ellos por cualquier otro acto traslativo de uso.
-
-Previa solicitud justificada del contribuyente, la Secretaría de Finanzas podrá autorizar la deducibilidad de estas partidas, cuando estén directamente relacionadas con su actividad;
-
-c).- Los viáticos y gastos de representación cualquiera que sea el nombre con que se les designe, con excepción de los de hospedaje, alimentación, transporte, arrendamiento de automóviles y pago de Kilometraje, siempre que los mismos sean aplicados fuera de una faja de 50 Km. que circunde al establecimiento del causante y además éste demuestre tener relación de negocios en el lugar de que se trate, así como que las personas a favor de las cuales se realice la erogación tengan relación de trabajo con el mismo, bajo su dirección y dependencia o le estén prestando servicios profesionales conforme a contrato escrito;
-
-d).- Los gastos erogados con motivo de viajes al extranjero;
-
-e).- Los gastos que provengan de sanciones, indemnizaciones por daños y perjuicios, intereses moratorios, recargos o penas convencionales;
-
-f).- Los demás que no sean deducibles conforme a las disposiciones de esta Ley y a la Ley Federal del Impuesto sobre la renta y a su Reglamento.
+Las deducciones a que se refiere este artículo estarán sujetas a comprobación por parte de la autoridad fiscal.
 
 ART. 170.- Las personas a que se refiere este Capítulo, deberán llevar un libro de ingresos y egresos y un registro de sus inversiones amortizables o depreciables, que deberán reunir los siguientes requisitos:
 
-I.- Las inversiones amortizables o depreciables señaladas en la fracción I, del Artículo 169, deben registrarse con los siguientes datos Descripción que identifique los bienes; año de adquisición; costo original y, en su caso, depreciaciones o amortizaciones acumuladas y saldos por redimir de los referidos bienes;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+I.- Las inversiones amortizables o depreciables deben registrarse con los siguientes datos: Descripción que identifique los bienes; año de adquisición; costo original y, en su caso, depreciaciones o amortizaciones acumuladas y saldos por redimir de los referidos bienes;
 
 II.- Asimismo, estos causantes podrán llevar en un solo libro el registro de ingresos y egresos y el de las inversiones amortizables o depreciables, el cual será autorizado por la Secretaría de Finanzas. Este libro o libros en su caso, podrán ser los mismos que haya autorizado la Secretaría de Hacienda y Crédito Público, y no tendrán que revalidarse periódicamente y en ellos se podrán registrar las operaciones relativas a varios años, hasta concluirlos. Los causantes que lo deseen, podrán llevar su contabilidad mediante el uso de los libros que estimen convenientes, en cuyo caso deberán estar autorizados por lo menos el Diario y el Mayor, por la Secretaría de Finanzas, pudiendo ser los mismos que autorice la Secretaría de Hacienda y Crédito Público.
 
@@ -1777,7 +2063,13 @@ El registro de inversiones amortizables y depreciables, contendrá por los (sic)
 
 Los causantes que solo perciban ingresos como miembros de agrupaciones profesionales, asociaciones o sociedades civiles no están obligados a llevar en lo personal los registros a que se refiere este Artículo.
 
-ART. 171.- Los causantes a que se refiere este Capítulo, podrán optar por deducir de sus ingresos burtos (sic) mensuales, el 20% por ciento de deducción global no sujeta a comprobación, previa autorización anual de la Secretaría de Finanzas a solicitud del causante.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 171.- Los causantes que no deseen presentar comprobación relativa a las deducciones a que se refiere el Artículo 169 de esta Ley, en substitución de las mismas, podrán optar por deducir de sus ingresos brutos mensuales, el 20% de deducción global no sujeto a comprobación.
+
+Los causantes que ejerzan la opción a que se refiere el párrafo anterior, cumplirán con el pago mensual del impuesto siguiendo de manera uniforme con este procedimiento, hasta en tanto no den aviso a la Secretaría de Finanzas que dejarán de ejercer dicha opción.
+
+Los sujetos que realicen actividades cinematográficas, teatrales, de radiodifusión, de variedades, taurinas o deportivas, así como quienes obtengan en forma esporádica ingresos de los señalados en este Capítulo tendrán derecho a deducir únicamente el 20% de los ingresos brutos que perciban, no pudiendo hacer las deducciones a que se refiere el Artículo 169 de esta Ley.
 
 ART. 172.- La Secretaría de Finanzas podrán (sic) estimar los ingresos brutos de los sujetos a que se refiere este Capítulo en los siguientes caos (sic):
 
@@ -1839,6 +2131,26 @@ Cuando se trate de iniciación de operaciones, de cambio de domicilio, de suspen
 
 La falta de presentación oportuna de la declaración mencionada en el párrafo anterior, dará lugar a que la autoridad fiscal imponga las sanciones previstas en esta Ley.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 173 Bis- Quienes hagan pagos a causantes eventuales de este impuesto, o a causantes domiciliados permanentemente fuera del Estado que presten sus servicios dentro del territorio del mismo, estarán obligados a presentar a nombre del causante las manifestaciones que correspondan, a retener y enterar el impuesto causado ante la oficina recaudadora correspondiente a su domicilio, dentro de los diez días siguientes a la fecha en que se hagan los pagos, siendo solidariamente responsables del pago del impuesto. En estos casos el impuesto se cubrirá de acuerdo con la tarifa del artículo anterior, deduciendo de los ingresos totales percibidos por el contribuyente únicamente el 20% de deducción global a que se refiere el Artículo 171 de esta Ley. Estos contribuyentes quedan relevados de la obligación de llevar libros y registros.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 173 Bis 1.- Los causantes que habitualmente obtengan los ingresos gravados a que se refiere este Capítulo, podrán cubrir el impuesto a base de cuota fija, en las condiciones y con las formalidades siguientes:
+
+I.- Los causantes que opten por el pago del impuesto a cuota fija, lo solicitarán por escrito a la Sub-Secretaría de Ingresos de la Secretaría de Finanzas del Estado, ya sea directamente o por conducto de la oficina recaudadora correspondiente a su domicilio, manifestando, bajo su estricta responsabilidad y bajo protesta de decir verdad, el ingreso mensual bruto que hubieren obtenido en cada uno de los meses del año inmediato anterior.
+
+Los causantes que inicien operaciones dentro del mismo año en que hagan su solicitud, solo podrán presentar ésta después de los 30 días siguientes a la fecha de iniciación de sus operaciones, manifestando el ingreso mensual bruto que hubieren obtenido en el mes o meses inmediatos anteriores;
+
+II.- La Sub-Secretaría de Ingresos fijará la cuota que corresponda, aplicando la Tarifa del Artículo 173 de esta Ley sobre la base del promedio de ingreso bruto mensual manifestado por el causante, menos el 20% de deducción global a que se refiere el Artículo 171 de esta misma Ley;
+
+III.- La cuota asignada podrá cubrirse por períodos bimestrales, dentro de los primeros diez días del mes siguiente a cada bimestre, o por bimestres adelantados;
+
+IV.- Los causantes que tributen a base de cuota fija, no estarán obligados a presentar declaraciones mensuales ni a llevar los libros o registros que previene este Capítulo, pero sí estarán sujetos a las demás disposiciones contenidas en esta Ley;
+
+V.- La cuota asignada tendrá vigencia hasta el 31 de Diciembre de cada año independientemente de la fecha de su asignación o notificación.
+
 ### CAPITULO XI. Impuesto sobre Plantas de Beneficio y Establecimientos Metalúrgicos
 
 ART. 174.- Son causantes de este impuesto las personas o empresas propietarias de las plantas de beneficio o establecimientos metalúrgicos establecidas en el Estado.
@@ -1875,6 +2187,10 @@ ART. 180.- Si los causantes omiten presentar sus declaraciones dentro de los pla
 
 Se practicarán nuevos avalúos de las fincas y bienes de las plantas de beneficio y establecimientos metalúrgicos por la aplicación supletoria de la Ley de Catastro vigente.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 180 Bis.- El Impuesto contenido en este Capítulo no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+
 ### CAPITULO XII. Impuesto sobre Adquisición de Alcohol
 
 ART. 181.- Es objeto de este impuesto la adquisición de alcohol que se realice por primera vez dentro del territorio del Estado de Sinaloa.
@@ -1903,7 +2219,9 @@ El libro especial de registro de adquisición y movimiento de alcohol, las factu
 
 ART. 187.- Serán aplicables en lo previsto en este Capítulo las disposiciones contenidas en la Legislación Fiscal Federal vigente sobre alcohol, en lo que se opongan a la presente Ley.
 
-ART. 188.- El impuesto que se establece en este Capítulo, no se causará mientras se mantenga en vigor el Convenio celebrado el día 2 de enero de 1945 entre la Secretaría de Hacienda y Crédito Público, la Secretaría de la Economía Nacional, la Sociedad Nacional de Productores de Alcohol, S. de R.L., de I.P. y C.V. y el Estado de Sinaloa.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 188.- El impuesto contenido en este Capítulo no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
 ### CAPITULO XIII. Impuesto sobre Enajenación de Alcohol
 
@@ -1938,6 +2256,10 @@ IV.- A expedir notas en cada operación de venta que realicen, en las que se har
 ART. 195.- Las autoridades fiscales quedan facultadas para ordenar la inspección de libros, documentos y existencias de los sujetos del impuesto a que se refiere este Capítulo, así como la inspección de locales, bienes muebles o inmuebles en que exista o se presuma que exista alcohol, debiendo cumplir las formalidades previstas en esta Ley.
 
 ART. 196.- Son supletorias de este Capítulo las disposiciones fiscales federales vigentes sobre alcohol, en lo que no se oponga a la presente Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 196 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
 ### CAPITULO XIV. Impuesto sobre Elaboración y Adquisición de Bebidas Alcohólicas
 
@@ -2055,7 +2377,9 @@ ART. 215.- Los causantes no podrán establecer expendios de bebidas alchólicas 
 
 ART. 216.- Las autoridades fiscales quedan facultadas para ordenar la inspección de libros, documentos y existencias de los sujetos del impuesto a que se refiere este Capítulo así como la inspección de locales, bienes muebles e inmuebles, en que exista o se presuma que existan bebidas alcohólicas, debiéndose cumplir las formalidades previstas en esta Ley.
 
-ART. 217.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio celebrado entre el Gobierno Federal y el Gobierno del Estado de Sinaloa con efectos a partir del 1ro. de enero de 1974, mediante el cual el estado de Sinaloa percibirá participación sobre el rendimiento de los impuestos federales que gravan la producción de aguardiente y el envasamiento de bebidas alcohólicas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 217.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
 ### CAPITULO XV. Impuesto sobre Almacenes y Espendios (sic) de Bebidas Alcohólicas
 
@@ -2155,6 +2479,10 @@ ART. 230.- La Secretaría de Finanzas del Estado, por conducto de la Sub-Secreta
 
 ART. 231.- El causante de este impuesto pagará la cuota mensual que se le haya asignado de conformidad con este Capítulo, por meses adelantados, dentro de los primeros diez días del mes a que corresponda, en las Oficinas Recaudadoras de su jurisdicción.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 231 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+
 ### CAPITULO XVI. Impuesto sobre Juegos Permitidos
 
 ART. 232.- Es objeto de este impuesto la explotación de los juegos permitidos que se mencionan en este Capítulo.
@@ -2233,6 +2561,10 @@ b).- De cambio o baja;
 
 6.- Clausura definitiva o cesación de actividades.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 239 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+
 ### CAPITULO XVII. Impuesto sobre Primera Venta de Gasolina, Grasas Lubricantes y demás Derivados del Petróleo
 
 ART. 240.- Con fundamento en el Artículo 21 de la Ley Federal del Impuesto sobre Consumo de Gasolina, reformado por Decreto del 28 de Diciembre de 1953, se establece un impuesto sobre los ingresos obtenidos por las operaciones de primera venta de gasolina, grasas, lubricantes y demás derivados del petróleo que se efectúen en el Estado.
@@ -2260,6 +2592,10 @@ IV.- Las declaraciones que alude la fracción II se remitirán de inmediato por 
 V.- Cuando un causante no presente oportunamente sus declaraciones, la Oficina Recaudadora respectiva, lo pondrá inmediatamente en conocimiento de la Secretaría de Finanzas del Estado para que ésta las supla con los datos o informes que pueda obtener o estimar y se exija el pago del impuesto omitido por conducto de la respectiva Oficina Recaudadora.
 
 ART. 246.- En el caso de que se celebre y entre en vigor alguno de los arreglos a que se refiere el Artículo 244, los causantes que no queden comprendidos en el mismo, por no ser distribuidores o agentes de Petróleos Mexicanos, sino personas que introduzcan por su cuenta gasolina, grasas, lubricantes y demás derivados del petróleo, al territorio del Estado y que efectúen en éste la venta de los citados productos, pagarán el impuesto, siendo aplicables las normas que establece el Artículo anterior.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 246 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
@@ -3441,7 +3777,9 @@ e).- Sobre Producción de Mieles Incristalizables;
 
 f).- Sobre Producción Agrícola;
 
-g).- Sobre Traslación de Dominio, Promesa de Compraventa y sobre el Contrato de Mandato;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+g).- Sobre Traslación de Dominio y Promesa de Compraventa;
 
 h).- Sobre Profesiones y Oficios;
 
@@ -3479,11 +3817,17 @@ e).- Registro Público de la Propiedad y del Comercio, con excepción de los der
 
 f).- Servicio Sanitario, con excepción de los derechos por este concepto aplicables a expendios, agencias y depósitos de cerveza.
 
-ART. 368.- En el rendimiento del Impuesto sobre Primera Venta de Gasolina, Grasas, lubricantes y demás derivados del Petróleo, así como en el ingreso que se recaude por concepto del Impuesto sobre Ingresos por Venta de Primera Mano de Hortalizas y Fruta, la Universidad Autónoma de Sinaloa tendrá una participación de 0.070922% y de 5.5%, respectivamente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 368.- En el rendimiento del Impuesto sobre Primera Venta de Gasolina, Grasas, Lubricantes y demás derivados del Petróleo, la Universidad Autónoma de Sinaloa tendrá una participación de 0.070922.
 
 ART. 369.- La tasa adicional del 10% y demás participaciones que correspondan a la Universidad Autónoma de Sinaloa en los términos de los dos artículos precedentes, también se aplicarán a los "Rezagos" derivados de impuestos y derechos que los originen.
 
 ART. 370.- El gravamen a que se refiere este Capítulo se pagará al cubrirse el impuesto o derecho que lo motiva, y su producto se entregará quincenalmente a la Universidad Autónoma de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 370 Bis.- Mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en lo conducente, las disposiciones fiscales contenidas en los incisos i), j), k), l), y II) de la fracción I del Artículo 367, de este Capítulo.
 
 ### CAPITULO II. Adicional Municipal
 
@@ -3499,7 +3843,9 @@ IV.- Impuesto sobre Miles Incristalizables;
 
 V.- Impuesto sobre Producción Agrícola;
 
-VI.- Impuesto sobre Traslación de Dominio, Promesa de Compraventa y sobre el Contrato de Mandato;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+VI.- Impuesto sobre Traslación de Dominio y Promesa de Compraventa;
 
 VII.- Impuesto sobre Profesiones y Oficios;
 
@@ -3525,7 +3871,9 @@ II.- Un 10% del impuesto aplicable a predios rústicos ejidales utilizados con f
 
 ART. 373.- Del rendimiento del Impuesto sobre Primera Venta de Gasolina, Grasas, Lubricantes y demás derivados del Petróleo, los Municipios del Estado participarán en proporción de 0.283688% del ingreso que se recaude por concepto de dicho impuesto. El Ejecutivo del Estado, con arreglo a datos objetivos fijarán un índice de consumo de gasolina, grasas, lubricantes y demás derivados del petróleo, en cada municipio.
 
-ART. 374.- Del ingreso que se recaude en cada jurisdicción municipal por concepto del Impuesto sobre Ingresos por Venta de Primera Mano de Hortalizas y Fruta, los Municipios del Estado tendrán una participación del 13% en el rendimiento de dicho impuesto.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 374.- Las participaciones que correspondan a los Municipios del Estado en el rendimiento de impuestos federales, se cubrirán en los términos de la Ley de Coordinación Fiscal y del Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal respectivo, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público.
 
 ART. 375.- Del ingreso que se recaude en cada jurisdicción municipal por concepto de los derechos por el Registro de Fierros, Marcas, Tatuales (sic), Aretes, y señales de los Ganaderos, a que se refiere la Fracción I de la Tarifa del Artículo 309 de ésta Ley, los municipios del Estado participarán en un 50% de las cuotas establecidas exclusivamente en dicha fracción.
 
@@ -3539,11 +3887,17 @@ ART. 377.- Cuando un impuesto del Estado sea condonado totalmente y en forma gen
 
 ART. 378.- La recaudación del gravamen adicional municipal y demás participaciones municipales en impuestos estatales, estará a cargo de las Oficinas Recaudadoras de Rentas del Estado y será entregada a las respectivas Tesorerías Municipales, con comprobación correspondiente, mediante liquidación mensual formulada por la Secretaría de Finanzas del Estado.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 378 Bis.- Mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en los conducente, las disposiciones fiscales contenidas en las fracciones VIII, IX, X, XI y XII del Artículo 371, así como en el Artículo 373, de este Capítulo.
+
 ### CAPITULO XVIII. Impuesto a la Industria Congeladora de Mariscos
 
 ART. 247.- Es objeto de este impuesto la congelación de pescados y mariscos.
 
-ART. 248.- Son causantes de este impuesto las personas físicas o jurídicas que se dediquen a la explotación de empresas congeladoras de pescados y mariscos, independientemente de que el producto que se procese sea o no propiedad de quienes efectúen dicha explotación. En este último caso, el propietario del producto responderá solidariamente del pago del impuesto.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 248.- Son sujetos de este impuesto las personas físicas o jurídicas que se dediquen a la explotación de empresas congeladoras de pescados y mariscos, cuando el producto que se congele sea propiedad de quienes efectúen dicha explotación.
 
 ART. 249.- Este impuesto se causará al efectuarse la congelación de los pescados y mariscos objeto de la misma, y al peso neto de los productos procesados, se les aplicará la siguiente:
 
@@ -3621,7 +3975,9 @@ III.- No especificados.
 
 ART. 259.- Es objeto de este impuesto la producción industrial de algodón en pluma.
 
-ART. 260.- Son causantes del impuesto las personas físicas o jurídicas que realicen el o los procesos industriales mediante los cuales se produce el algodón en pluma, independientemente de que el producto elaborado sea o no propiedad de quienes efectúen dicho proceso o procesos de elaboración. En este último caso, el propietario del producto responderá solidariamente del pago del impuesto.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 260.- Son causantes del impuesto las personas físicas o jurídicas que realicen él o los procesos industriales mediante los cuales se produce el algodón en pluma, cuando el producto elaborado sea propiedad de quienes efectúen dicho proceso o procesos de elaboración.
 
 ART. 261.- El impuesto se causará con una cuota de $82.00 por tonelada de algodón en pluma producido.
 
@@ -3687,7 +4043,9 @@ III.- Previo el procedimiento legal, aplicará y ejecutará las sanciones proced
 
 ### CAPITULO UNICO
 
-ART. 391.- El Secretario de Finanzas o el Sub-Secretario de Ingresos impondrán las sanciones administrativas por infracción a las disposiciones fiscales y enviará a las oficinas recaudadoras correspondientes los proveídos que dicte, para su notificación y ejecución.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 391.- El Secretario de Finanzas, el Sub-Secretario de Ingresos, los Jefes de Oficinas Recaudadoras y demás autoridades fiscales, impondrán las sanciones administrativas por infracción a las disposiciones fiscales.
 
 ART. 392.- La aplicación de las sanciones administrativas que procedan, se harán sin perjuicio de que se exija el pago de las prestaciones fiscales respectivas, de recargos en su caso, y de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
 
@@ -4359,7 +4717,9 @@ Cuando se haya iniciado juicio ante el Tribunal Fiscal, será improcedente la so
 
 ART. 265.- Es objeto de este impuesto el arroz palay que entre a proceso industrial para producir arroces morenos, blancos o cualquier otro producto derivado.
 
-ART. 266.- Son causantes del impuesto las personas físicas o jurídicas que realicen el o los procesos industriales de transformación del arroz palay, independientemente de que el producto elaborado sea o no propiedad de quienes efectúen dicho proceso de elaboración. En este último caso, el propietario del producto responderá solidariamente del pago del impuesto.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 266.- Son causantes del impuesto las personas físicas o jurídicas que realicen él o los procesos industriales de transformación de arroz palay, cuando el producto elaborado sea propiedad de quienes efectúen dicho proceso de elaboración.
 
 ART. 267.- En (sic) impuesto se causará con una cuota de $ 67.00 por tonelada de arroz palay que entre a proceso de elaboración.
 
@@ -4391,33 +4751,17 @@ ART. 270.- No se causará el Impuesto Estatal sobre Ingresos Mercantiles por la 
 
 ### CAPITULO XXII. Impuesto sobre Ingresos por Venta de Primera Mano de Hortalizas y Fruta
 
-ART. 271.- Son objeto de este impuesto los ingresos que se obtengan por la venta de primera mano de hortalizas y fruta no industrializada, que se cosechen o produzcan en el Estado de Sinaloa.
+ART. 271.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
 
-ART. 272.- Para los efectos de este impuesto, se considera como ingreso toda percepción en efectivo, en bienes, en servicios, en valores, en títulos de crédito, en crédito en libros o en cualquier otra forma que se obtenga como resultado de las operaciones gravadas por este Capítulo.
+ART. 272.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
 
-ART. 273.- Son causantes de este impuesto las personas físicas o morales que realicen la venta de primera mano de hortalizas y fruta producidas en el Estado de Sinaloa, siendo solidariamente responsables de su pago los adquirentes, intermediarios o mediadores, comisionistas y transportistas, así como las personas físicas y morales que por cualquier motivo o concepto funjan como intermediarios o mediadores entre productores o compradores.
+ART. 273.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
 
-ART. 274.- El impuesto se causará a razón del 1.8% sobre el monto total de los ingresos gravables. A este gravamen no le será aplicable impuesto adicional alguno.
+ART. 274.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
 
-Para los efectos de la aplicación de este impuesto, se considerará como ingreso gravable el importe total que obtenga el productor por la venta de sus productos.
+ART. 275.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
 
-El impuesto se causa por el ingreso total de las operaciones gravadas en el momento en que éstas se realicen, aún cuando sean a plazo o a crédito, y sólo serán deducibles los gastos realizados después del empaque, para la comercialización del producto.
-
-Para efecto de facilitar la determinación de la base gravable por este impuesto, las autoridades fiscales podrán celebrar convenios con los organismos agrícolas que operan legalmente en el Estado, sobre precios promedios de los productos hortícolas y frutales. Los causantes que se acojan a dichos convenios quedarán liberados de presentar declaraciones y de cumplir con las demás prevenciones a que se refieren los Artículos 275 y 276 de este Capítulo.
-
-ART. 275.- El impuesto deberá cubrirse en la Oficina Recaudadora de la jurisdicción del causante, dentro de los primeros diez días del mes siguiente de aquél en que se hubieren obtenido los ingresos gravados, mediante la presentación de una declaración de los ingresos obtenidos mensualmente, en las formas aprobadas por la Secretaría de Finanzas del Estado.
-
-ART. 276.- Los causantes de este impuesto, independientemente del pago del mismo, tienen las siguientes obligaciones:
-
-I.- Empadronarse en la Secretaría de Finanzas del Estado, o a través de la Oficina Recaudadora de su jurisdicción, en un plazo no mayor de 10 días siguientes a la fecha de iniciación de operaciones, utilizando para ello las formas aprobadas por la Secretaría de Finanzas del Estado;
-
-II.- Presentar a la Secretaría de Finanzas del Estado los avisos de iniciación de siembras, debiendo suscribir, bajo protesta de decir verdad, todos los documentos y declaraciones a que e refiere este Capítulo;
-
-III.- Conservar por el término de cinco años, los recibos, facturas, declaraciones y demás documentos con que se compruebe que los impuestos causados fueron debidamente cubiertos conforme a las disposiciones de este Capítulo;
-
-IV.- Llevar un libro de embarque y otro de ingresos, previamente autorizados por la Secretaría de Finanzas del Estado, en donde deberán asentarse los datos que dichos libros exigen. Tanto los embarques como los ingresos deberán quedar registrados dentro de un plazo que no excederá de 30 días;
-
-V.- Proporcionar a las autoridades fiscales los datos e informes que les soliciten dentro de los plazos que al efecto se fijen, así como recibir las visitas de inspección y proporcionar a los auditores e inspectores fiscales, los libros, datos, informes, documentos y demás registros que dichas autoridades les soliciten para el desempeño de sus funciones.
+ART. 276.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
 
 ### CAPITULO XXIII. Impuesto sobre Producción o Sacrificio de Ganado
 
@@ -4800,3 +5144,11 @@ Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacá
 Por lo tanto, mando se imprima, publique, circule y se le de el debido cumplimiento.
 
 Es dado en el Palacio del Poder Ejecutivo, de la ciudad de Culiacán de Rosales, Sinaloa, México, a los nueve días del mes de Noviembre de mil novecientos setenta y ocho. El Gobernador Constitucional del Estado ALFONSO G. CALDERÓN (Rúbrica); El Secretario General de Gobierno LIC. MARCO ANTONIO ARROYO CAMBERO (Rubrica); El Secretario de Finanzas del Estado C. P. ROBERTO WONG LEAL (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+
+P.O. 31 DE DICIEMBRE DE 1979.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del día 1o. de Enero de 1980.
