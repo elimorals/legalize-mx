@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-responsabilidades-de-los-servidores-publicos-del-6355"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-27"
-last_updated: "1991-03-04"
+last_updated: "1996-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 04 DE MARZO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 1996.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 27 de septiembre de 1984.
 
@@ -595,15 +595,19 @@ La Contraloría General y la Oficialía Mayor, de los Poderes Legislativo y Judi
 
 Tienen obligación de presentar declaración anual de situación patrimonial ante la Contraloría General, ante la Oficialía Mayor de los Poderes Legislativo y Judicial, la Contaduría General de Glosa, según el caso, bajo protesta de decir verdad:
 
-I. En el Poder Legislativo: Los Diputados, el Oficial Mayor, el Tesorero, el Contador General de Glosa y los Visitadores;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 1996)</small>
+
+I. En el Poder Legislativo: los Diputados, el Oficial Mayor, el Tesorero, el Contador General de Glosa, los Visitadores, los Subsecretarios, los Directores y los Jefes de Departamento, o sus equivalentes; así como todos aquéllos servidores del propio Poder Legislativo que manejen recursos económicos;
 
 II. En el Poder Ejecutivo: El Gobernador, los titulares de las dependencias de la administración que establece la Ley Orgánica de la Administración Pública, y de ahí hasta el nivel de jefes de departamentos o su equivalente;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 1986)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 1996)</small>
 
-III. En la Administración Pública Paraestatal, los Directores Generales, Gerentes, Subdirectores, Subgerentes y Servidores Públicos equivalentes en los organismos descentralizados, empresas de participación estatal y sociedades, asociaciones asimiladas a éstas y fideicomisos públicos;
+III. En la Administración Pública Paraestatal, los Directores Generales, Gerentes, Subdirectores, Subgerentes y de ahí hasta en nivel de Jefes de Departamento, o sus equivalentes; y servidores públicos de los mismos niveles en los organismos descentralizados, empresas de participación estatal y sociedades, asociaciones asimiladas a éstas y fideicomisos públicos;
 
-IV. En el Poder Judicial: Los Magistrados del Supremo Tribunal de Justicia, Jueces, Secretarios y Actuarios de cualquier categoría o designación;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 1996)</small>
+
+IV. En el Poder Judicial: Los Magistrados del Supremo Tribunal de Justicia, Jueces, Secretarios y Actuarios de cualquier categoría o designación, así como el Oficial Mayor, Subsecretarios, Directores, Jefes de Departamento, y cualesquier otro funcionario judicial que maneje recursos económicos;
 
 > <small>(REFORMADA, P.O. 21 DE JULIO DE 1986)</small>
 
@@ -716,3 +720,7 @@ P.O. 04 DE MARZO DE 1991.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente.
+
+P.O. 11 DE NOVIEMBRE DE 1996.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
