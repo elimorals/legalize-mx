@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1983-12-28"
+last_updated: "1984-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 1984.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -443,9 +443,9 @@ XL.- Elegir la Diputación Permanente.
 
 XLI.- Formular las leyes que reglamenten los Artículos de esta Constitución, interpretando fielmente su contenido
 
-> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 1967)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1984)</small>
 
-XLII.- Elevar las villas a la categoría de ciudades por iniciativa de aquellas y por conducto del Ejecutivo, tomando en cuenta el número de sus habitantes, sus condiciones económicas, los servicios públicos con que cuente, etc.
+XLII.- Elevar las Villas a la categoría de Ciudades por iniciativa de aquéllas y por conducto del Ejecutivo, tomando en cuenta el número de sus habitantes, sus condiciones económicas y los servicios públicos con que cuenta.
 
 > <small>(ADICIONADA, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -671,7 +671,9 @@ V.- Disponer la inversión de los caudales públicos del Estado en los distintos
 
 VI.- Ejercer la superior inspección, no sólo de la Hacienda Pública del Estado, sino de todos los fondos Municipales; y velar por su recaudación, custodia, administración e inversión. Esta inspección se hará de acuerdo con las leyes del Municipio Libre.
 
-VII.- Imponer multas que no excedan de doscientos pesos, o arresto hasta por quince días; a los que desobedecieren sus órdenes o le faltaren al respeto debido, en los términos del art. 25.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1984)</small>
+
+VII.- Imponer multas que no excedan del importe de un jornal o salario de un día o arresto hasta por 36 horas, a los que desobedecieren sus órdenes o le faltaren al respeto debido en los términos del Artículo 25 de esta Constitución.
 
 VIII.- Conceder a los menores, con arreglo a las leyes, habilitación de edad para casarse.
 
@@ -739,7 +741,9 @@ I.- Ausentarse del Estado por más de treinta días sin autorización para hacer
 
 Cuando el Gobernador se ausentare del Estado, por un término mayor de cinco días y menor de treinta, deberá dar aviso al Congreso o a la Diputación Permanente, en el receso de aquél.
 
-Para salir fuera de la República necesita en todo caso, para hacerlo, autorización del Congreso o de la Diputación Permanente.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1984)</small>
+
+Para salir de la República necesita en todo caso, autorización del Congreso o de la Diputación Permanente.
 
 II.- Impedir o embarazar con pretexto alguno las elecciones populares ni la reunión y deliberación del Congreso.
 
@@ -991,11 +995,11 @@ Se concede acción popula (sic) para denunciar ante el Congreso los delitos comu
 
 ## TITULO VIII.. De los Municipios
 
-REFORMADO, P.O. 28 DE ABRIL DE 1954)
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1984)</small>
 
 ###### Art. 118.
 
-Los Municipios que integran el Estado son independientes entre sí, Cada uno de ellos será administrado por un Ayuntamiento de elección popular directa. Entre los Ayuntamientos y los Poderes del Estado no habrá ninguna Autoridad intermedia.
+Los municipios que integran el Estado son independientes entre sí. Cada uno de ellos será administrado por un Ayuntamiento de elección popular directa. Entre los Ayuntamientos y los Poderes del Estado no habrá ninguna autoridad intermedia.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -1291,7 +1295,7 @@ El C. Ministro Fiscal continuará ejerciendo las funciones que le encomiendan la
 
 ###### Art. 5o.
 
-El actual período constitucional comenzará a contarse: para el Gobernador y los Magistrados del Superior Tribunal de Justicia, desde el cuatro de octubre de mil novecientos quince, hasta el cuatro de octubre de mil novecientos diecinueve; para los Diputados, desde el veinte de junio del presente año hasta el quince de septiembre de mil novecientos diecinueve; y para los Jueces de Letras, desde igual fecha que los últimamente citados hasta el cuatro de octubre de mil novecientos diecinueve.
+El actual período constitucional comenzará a contarse: para el Gobernador y los Magistrados del Superior Tribunal de Justicia, desde el cuatro de Octubre de mil novecientos quince, hasta el cuatro de octubre de mil novecientos diecinueve; para los Diputados, desde el veinte de junio del presente año hasta el quince de septiembre de mil novecientos diecinueve; y para los Jueces de Letras, desde igual fecha que los últimamente citados hasta el cuatro de octubre de mil novecientos diecinueve.
 
 ###### Art. 6o.
 
@@ -1814,3 +1818,7 @@ DECRETO QUE REFORMA Y ADICIONA LOS ARTICULOS 30,63, FRACCIONES VI Y XLIII, 85 FR
 ###### ARTICULO TERCERO
 
 - Las contribuciones locales y las participaciones a que se refiere expresamente el Artículo 119 y que no estuvieren comprendidas en la presente Ley de Ingresos, se percibirán por los Municipios a partir del primero de enero de 1984.
+
+P.O. 29 DE OCTUBRE DE 1984.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
