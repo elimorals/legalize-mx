@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2000-12-19"
+last_updated: "2001-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2001.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -507,11 +507,11 @@ En los mismos términos se informará al Supremo Tribunal de Justicia del Estado
 
 Los ayuntamientos, al mandar su iniciativa, designarán con el mismo propósito su orador si lo juzgan conveniente, el cual señalará domicilio en la población donde residan los poderes del Estado, para comunicarle el día en que aquella se discuta.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2001)</small>
 
 ###### Art. 30.
 
-Desechada una iniciativa, sólo podrá volver a presentarse una vez transcurridos seis meses.
+Toda iniciativa que haya sido desechada por el Pleno mediante el dictamen respectivo, solo podrá volver a presentarse con ese carácter, una vez transcurridos seis meses a partir de la fecha de la sesión en que se le desechó, salvo que haya un replanteamiento del asunto con elementos que comprendan inobjetablemente propuesta distinta a la inicial.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
@@ -2242,3 +2242,9 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 TERCERO.- Las disposiciones contenidas en los artículos Primero y Segundo del presente decreto, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 CUARTO.- Envíese copia certificada del presente proyecto del dictamen de decreto a los 124 ayuntamientos del Estado, con el diario de debates, en el que conste las discusiones que hubiere provocado, para que con fundamento en lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
+
+P.O. 15 DE MARZO DE 2001.
+
+PRIMERO: Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamientos del Estado, con el diario de debates, en el que consten las discusiones que hubiere provocado, para que con fundamento en lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
+
+SEGUNDO: El presente decreto que contiene la reforma de los artículos 30 de la Constitución Política del Estado y 91 de la Ley Orgánica del Poder Legislativo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
