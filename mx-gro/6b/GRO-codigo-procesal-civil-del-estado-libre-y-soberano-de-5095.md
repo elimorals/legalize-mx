@@ -4,7 +4,7 @@ identifier: "GRO-codigo-procesal-civil-del-estado-libre-y-soberano-de-5095"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-26"
-last_updated: "1995-01-27"
+last_updated: "1998-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PROCESAL CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 364
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1998.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 26 de marzo de 1993.
 
@@ -5019,7 +5019,9 @@ Vía procedente. Los juicios sobre reivindicación se ventilarán en la vía ord
 
 ## TITULO CUARTO. JUICIOS EJECUTIVOS
 
-### CAPITULO II. JUICIO HIPOTECARIO
+### CAPITULO II. JUICIO ESPECIAL HIPOTECARIO
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1998)</small>
 
 ###### Artículo 595.
 
@@ -5077,43 +5079,55 @@ Contenido de la orden de ejecución. Presentada la demanda, acompañada del tít
 
 Sentencia de remate. Agotado el procedimiento, la sentencia debe decidir los derechos controvertidos. De resultar probada la acción la sentencia decretará que ha lugar a hacer trance y remate de los bienes embargados y con el producto pago al acreedor.
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1998)</small>
+
 ###### Artículo 601.
 
-Posibilidad del acreedor hipotecario de escoger la vía para su reclamación. Si el crédito que se cobra está garantizado con hipoteca, el acreedor podrá intentar el juicio hipotecario, el ejecutivo o el ordinario.
+Posibilidad del acreedor hipotecario de escoger la vía para su reclamación. Si el crédito que se cobra está garantizado con hipoteca, el acreedor podrá intentar el Juicio Especial Hipotecario, el Ejecutivo o el Ordinario.
 
 ###### Artículo 602.
 
 Derecho del deudor de consignar el importe de la deuda a resultas del juicio. Cuando el deudor consignare la cantidad reclamada para evitar los gastos y molestias del embargo reservándose el derecho de oponerse, se suspenderá el embargo, y la cantidad se depositará conforme a la ley; si la cantidad consignada no fuere suficiente para cubrir la deuda principal y las costas, se practicará el embargo por lo que falte.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE ENERO DE 1998)</small>
+
 ### CAPITULO III. JUICIO ESPECIAL DE DESAHUCIO
 
 ###### Artículo 603.
 
-Objeto del juicio hipotecario. Se tramitarán en juicio hipotecario las demandas que tengan por objeto exigir el pago o la prelación de un crédito garantizado con hipoteca.
+Del Juicio Especial Hipotecario. Es un procedimiento especial que tiene por objeto la constitución, ampliación, división y extinción de una hipoteca, así como su cancelación, o bien el pago o prelación del crédito que la hipoteca garantice.
+
+Para que el juicio que tenga por objeto el pago o prelación de un crédito hipotecario se siga según las reglas del presente Capítulo, es requisito indispensable que la garantía conste en escritura debidamente registrada y que el plazo del pago se haya cumplido o que deba anticiparse conforme a lo previsto en los artículos 1805 y 2757 del Código Civil.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1998)</small>
 
 ###### Artículo 604.
 
-Reglas de procedencia del juicio hipotecario. Para que proceda el juicio hipotecario, deberán reunirse los siguientes requisitos:
+Requisitos de procedencia del Juicio Especial Hipotecario. Para que proceda el Juicio Especial Hipotecario, deberán reunirse los siguientes requisitos:
 
-I. Que el crédito conste en escritura pública debidamente registrada; y
+I. Que el Crédito conste en escritura pública debidamente inscrita en el Registro Público de la Propiedad, del Comercio y Crédito Agrícola del Estado;
 
-II. Que sea de plazo cumplido; o que deba anticiparse conforme al contrato de hipoteca o a la ley.
+II. Que sea de plazo cumplido o por que hubiere incurrido en incumplimiento del contrato alguna de las partes;
+
+III.- Que el escrito de demanda satisfaga los requisitos del artículo 232 de este Código, y sea presentada ante el Juez de la ubicación del bien inmueble dado en garantía; si fueren varios bienes y estuvieren en lugares distintos, quedará a elección del actor, o bien, ante el que se hubiere sometido expresamente en el contrato.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1998)</small>
 
 ###### Artículo 605.
 
-Contenido del auto de ejecución. Presentado el escrito de demanda acompañado del documento respectivo, el juzgador, si encuentra que se reúnen los requisitos fijados por el artículo anterior, dictará auto dando entrada a la demanda y admitiendo la vía hipotecaria. Este auto deberá contener lo siguiente:
+Contenido del auto de ejecución. Presentada la demanda, si se satisfacen los requisitos del artículo anterior, el Juez dentro de las 48 horas siguientes admitirá a trámite y ordenará:
 
-I. Mandamiento en forma para la expedición, y registro de la cédula hipotecaria;
+I. La expedición e inscripción de la cédula hipotecaria en el Registro Público de la Propiedad, del Comercio y Crédito Agrícola del Estado;
 
-II. Orden para que a partir de la fecha en que se entregue al demandado la cédula hipotecaria, quede la finca en depósito judicial, junto con todos sus frutos y todos los objetos que con arreglo a la escritura, y conforme al Código Civil deban considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo al expediente, siempre que lo pida el acreedor;
+II. Que a partir de la fecha en que se entregue al demandado la cédula hipotecaria, quede la finca en depósito judicial, junto con todos sus frutos y todos los objetos que conforme a la Ley y al contrato respectivo, deban considerarse como parte integrante de la misma, de los que, a petición del actor se formará inventario para ser agregado al expediente;
 
-III. Orden para que en su caso el demandado contraiga la obligación de depositario judicial de la finca hipotecada y de sus frutos o, si no acepta, se haga el nombramiento y designación de depositario en el acto de la diligencia;
+III. Que el demandado contraiga la obligación de depositario judicial, y si no acepta en el acto de la diligencia, el actor designará al que estime conveniente;
 
-IV. Orden de que se proceda al avalúo de la finca hipotecada;
+IV. Si la diligencia no se entendiere directamente con el deudor, éste deberá dentro de los tres días siguientes, manifestar si acepta o no la responsabilidad de depositario, entendiéndose que no la acepta si no hace esta manifestación y en este caso, el actor podrá pedir que se le entregue la tenencia material de la finca;
 
-V. Ordenar que se corra traslado de la demanda al demandado para que la conteste dentro del plazo de nueve días; y
+V. Que se corra traslado al demandado, para que dentro del término de nueve días de contestación a la demanda, y en su caso, oponga las excepciones que tuviere; y
 
-VI. Si en el título con que se ejercita una acción hipotecaria se advierte que hay otros acreedores hipotecarios anteriores, en el mismo auto, el juzgador mandará notificarles la cédula hipotecaria para que usen de sus derechos conforme a la ley.
+VI. Si en el título con base en cual se ejercita una acción hipotecaria se advierte que hay otros acreedores hipotecarios anteriores, el Juez mandará notificarles la existencia del juicio para que manifiesten lo que a su derecho corresponda.
 
 ###### Artículo 606.
 
@@ -5123,37 +5137,59 @@ Se expedirá cédula hipotecaria por duplicado para el efecto de que se envíen 
 
 ###### Artículo 607.
 
-Aseguramiento de la finca hipotecada. Desde el día en que se haga entrega de la cédula hipotecaria contrae el demandado la obligación de depositario judicial de la finca hipotecada, de sus frutos y todos los demás bienes que con arreglo a la escritura y conforme al Código Civil deban considerarse como inmovilizados y formando parte de la misma.
-
-El demandado que no quiera aceptar la responsabilidad de depositario, entregará desde luego la tenencia material de la finca al actor o al depositario que éste nombre.
-
-El actor tendrá derecho de nombrar depositario cuando el demandado no quiera aceptar dicha responsabilidad. Quienquiera que sea el depositario deberá rendir una cuenta mensual de su administración en la forma prevista para el embargo de inmuebles y sus rentas sin que pueda el depositario ser eximido de esta obligación por convenio contenido en el contrato de hipoteca.
+(DEROGADO, P.O. 6 DE ENERO DE 1998)
 
 ###### Artículo 608.
 
-Reglas para la ejecución del auto inicial. La ejecución del auto que admita la demanda en la vía hipotecaria, se llevará a cabo mediante la expedición inmediata de la cédula hipotecaria, y su envío a la Dirección del Registro Público de la Propiedad para su inscripción, y la diligencia de emplazamiento al demandado.
+(DEROGADO, P.O. 6 DE ENERO DE 1998)
 
-En la diligencia se requerirá al demandado para que exprese si acepta o no la responsabilidad de depositario. Si la diligencia no se entendiera directamente con el demandado, deberá dentro de los cinco días siguientes al traslado, manifestar si acepta o no la responsabilidad de depositario, entendiéndose que la acepta si no hace esta manifestación dentro del término expresado, si no la acepta, el actor podrá pedir que se le entregue la tenencia material de la finca, o nombrar depositario bajo su responsabilidad. En la misma diligencia emplazará al demandado.
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1998)</small>
 
 ###### Artículo 609.
 
-Reglas para el avalúo de la finca hipotecada. El avalúo de la finca hipotecada se practicará conforme a las reglas para el de inmuebles en la ejecución forzosa; pero podrá iniciarse desde que se notifique al demandado la demanda.
+Oposición del demandado y apertura del juicio contradictorio. En el juicio especial hipotecario el deudor podrá oponer las excepciones de pago, de contrato no cumplido, novación, nulidad, de quita o de espera, si constan en documento auténtico; la de incompetencia, litispendencia, conexidad o de cosa juzgada, las tres últimas si se exhiben las copias selladas de la demanda, o, tratándose de litispendencia y conexidad, de las cédulas de emplazamiento del juicio primeramente promovido; en el caso de la cosa juzgada se deberá acompañar como prueba, copia debidamente certificada de la sentencia definitiva.
 
-No será válido el convenio sobre el avalúo, cuando el precio que se fije antes de exigirse la deuda, y el convenio posterior no puede perjudicar los derechos de tercero.
+La personalidad de los promoventes se analizará de oficio por el juez. Las excepciones opuestas en ningún caso suspenderán el procedimiento y se resolverán de plano en la audiencia de ley.
 
-Los acreedores hipotecarios anteriores deberán ser citados y tendrán derecho de nombrar en su caso, un perito y de intervenir en el avalúo de la finca hipotecada.
+Si el demandado se allanare a la demanda y solicitare término de gracia para el pago o cumplimiento de lo reclamado, el Juez dará vista al actor para que, dentro de tres días manifieste lo que a su derecho convenga, debiendo el Juez resolver de acuerdo a tales proposiciones de las partes. El término de gracia no podrá exceder de tres meses en ningún caso.
 
-Los acreedores que aparezcan en el certificado del Registro Público de la Propiedad, que se pida para el remate judicial, con gravámenes anteriores al registro de la cédula hipotecaria, tendrán derecho de intervenir en el avalúo.
+No encontrándose en el supuesto del párrafo que antecede, el Juez bajo su más estricta responsabilidad, revisará escrupulosamente la contestación a la demanda y desechará de plano las excepciones diferentes a las que se autoriza. Si se oponen excepciones de las antes especificadas, dará vista con las mismas a la parte actora para que manifieste lo que a su derecho convenga por el término de tres días. En ese mismo acto, se señalará fecha y hora para la celebración de la audiencia, la que deberá verificarse dentro de los 20 días siguientes.
+
+Tanto en la demanda como en la contestación de la misma, las partes tienen la obligación de ser precisas, indicando en los hechos si sucedieron ante testigos, citando los nombres y apellidos de éstos y presentando todos los documentos relacionados con dichos hechos. En los mismos escritos, las partes deben ofrecer todas las pruebas relacionándolas con los hechos que pretendan probar. El juzgador resolverá sobre la admisión o desechamiento de pruebas, según proceda, en el auto que recaiga de las promociones en que se ofrezcan; no se admitirán las contrarias a derecho, la moral o sobre hechos imposibles o notoriamente inverosímiles, o no se hallan relacionado con los mismos.
+
+La preparación de las pruebas quedará a cargo de la parte oferente, por lo que en el acto de la audiencia, deberá presentar testigos, peritos y demás pruebas que le hayan sido admitidas, y solamente en caso de que demuestre fehacientemente al Juez la imposibilidad de preparar el desahogo de alguna de las pruebas que le fueron admitidas, éste bajo su estricta responsabilidad, auxiliará al oferente expidiendo los oficios y citaciones que correspondan a efecto de preparar las pruebas que deberán desahogarse en la audiencia de ley.
+
+Si llamado a un testigo, perito o solicitado un documento que haya sido admitido como prueba, no se desahogan éstas a más tardar en la audiencia, se declarará desierta la prueba ofrecida por causa imputable al oferente.
+
+El Juez deberá de estar presente en la audiencia, la que se iniciará resolviendo las excepciones que hubiere, recibirá las pruebas admitidas y que se encuentren preparadas, y se declararán desiertas las que no lo estuvieren, por lo que la audiencia no se suspenderá ni habrá diferimientos de ésta en ningún caso.
+
+Desahogadas las pruebas, las partes podrán alegar verbalmente, sin que su intervención exceda de diez minutos por cada una, y el Juez procederá a citar para sentencia definitiva.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1998)</small>
 
 ###### Artículo 610.
 
-Oposición del demandado y apertura del juicio contradictorio. En los juicios hipotecarios, la apertura del juicio contradictorio quedará a iniciativa del demandado.
+Sentencia de remate. Agotado el procedimiento con el desahogo de las pruebas o concluido que sea el plazo para ello, el juzgador dictará la sentencia correspondiente dentro del termino de cinco días, la que podrá ser apelable únicamente en el efecto devolutivo.
 
-El procedimiento contradictorio se abre mediante la oposición del demandado haciendo valer excepciones dentro del plazo fijado para el emplazamiento. Contestada la demanda haciendo valer excepciones, se seguirá el juicio con sujeción al procedimiento ordinario.
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1998)</small>
 
 ###### Artículo 611.
 
-Sentencia de remate. Agotado el procedimiento, si resulta probada la acción, al decidir los derechos controvertidos, la sentencia decretará el remate de los bienes hipotecados.
+Para el remate, se procederá de la forma siguiente:
+
+I. Cada parte tendrá derecho de exhibir, dentro de los cinco días siguientes a que sea ejecutable la sentencia, avalúo de la finca hipotecada, practicado por un corredor público, una institución de crédito o por perito valuador legalmente autorizado, los cuales en ningún caso podrán tener el carácter de parte o de interesado en el juicio;
+
+II. En el caso de que alguna de las partes deje de exhibir el avalúo dentro del plazo señalado en la fracción anterior, se entenderá su conformidad con el que haya exhibido su contraria;
+
+III. En el supuesto de que ninguna de las partes exhiba el avalúo dentro del plazo señalado en la fracción I de este artículo, cualquiera de ellas lo podrá presentar posteriormente, considerándose como base para el remate el primero en tiempo;
+
+IV. Si las dos partes exhibieren los avalúos en el plazo a que se refiere la fracción I de este artículo y los valores determinados de cada uno de ellos no coincidieren, se tomará como base para el remate, el promedio de ambos avalúos; siempre y cuando no exista un treinta por ciento de diferencia entre el más bajo y el más alto, en cuyo caso el Juez ordenará se practique nuevo avalúo por el corredor público, la institución bancaria o el perito valuador legalmente autorizado que al efecto designe;
+
+V. La vigencia del valor que se obtenga por los avalúos será de seis meses para que se lleve a cabo la primera almoneda de remate. Si entre éstas y las subsecuentes mediara un término mayor se deberán actualizar los valores;
+
+VI. Obtenido el valor del avalúo, según el caso que corresponda de acuerdo a las fracciones anteriores, se procederá a rematar la finca en los términos del Título IV, del Libro Tercero de este ordenamiento, y
+
+VII. El auto aprobatorio del remate y las demás resoluciones que se dicten en esta vía especial hipotecaria podrán ser apeladas sólo en efecto devolutivo y en ningún caso podrá suspenderse el procedimiento.
 
 ### CAPITULO I. REGLAS GENERALES
 
@@ -6672,3 +6708,15 @@ Rúbrica.
 P.O. 27 DE ENERO DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 6 DE ENERO DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los tres días siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTICULO SEGUNDO.
+
+Todos los créditos con garantía hipotecaria contraídos con anterioridad a la entrada en vigor del presente Decreto, se regirán conforme a las normas civiles y procesales civiles vigentes al momento de la contratación de los mismos.
+
+Lo dispuesto en el párrafo anterior también se observará tratándose de las reestructuraciones, renegociaciones o nuevos convenios de deuda o crédito que tengan como antecedente un crédito hipotecario, que se efectúen con posterioridad a la entrada en vigor del presente Decreto.
