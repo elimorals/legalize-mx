@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-tribunal-de-lo-contencioso-administrativo-del-848"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-19"
-last_updated: "1999-12-14"
+last_updated: "2000-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=848&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1995-12-14"
 
 LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE AGOSTO DE 2000.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 19 de diciembre de 1995.
 
@@ -48,11 +48,11 @@ El Tribunal de lo Contencioso Administrativo del Distrito Federal, es un Tribuna
 
 ### CAPITULO II. De la Integración del Tribunal
 
-> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.O. 17 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 2o.
 
-El Tribunal de lo Contencioso Administrativo del Distrito Federal se compondrá de una Sala Superior, integrada por siete Magistrados y tres Salas Ordinarias de tres Magistrados cada una. Cuando las necesidades del servicio lo requieran, por acuerdo de la Sala Superior, se formarán Salas Auxiliares, cada una integrada por tres Magistrados. La Sala Superior acordará la sede de las Salas Ordinaria (sic) y de las Auxiliares.
+El Tribunal de lo Administrativo se compondrá de una Sala Superior integrada por siete Magistrados, y por tres Salas Ordinarias de tres Magistrados cada una, de las cuales una tendrá como competencia exclusiva la materia de uso de suelo. Cuando las necesidades del servicio lo requieran, a juicio de la Sala Superior, se formarán Salas Auxiliares integradas por tres Magistrados cada una. La Sala Superior determinará la sede de las Salas Ordinarias y de las Auxiliares.
 
 > <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 1999)</small>
 
@@ -328,6 +328,10 @@ El particular podrá optar por esta vía o acudir ante la instancia judicial com
 
 XII.- De los demás que expresamente señalen ésta u otras leyes.
 
+> <small>(ADICIONADO, G.O. 17 DE AGOSTO DE 2000)</small>
+
+La excepción a las competencias antes descritas será la Sala que de conformidad al artículo 2 de la presente Ley, su competencia sea exclusivamente la materia de uso de suelo.
+
 ###### ARTICULO 24.
 
 Las atribuciones de carácter administrativo de los Presidentes de Sala Ordinaria o Auxiliar, Magistrados, Secretarios, Actuarios, Asesores y Defensores Jurídicos, se establecerán en el Reglamento Interior del Tribunal.
@@ -401,6 +405,10 @@ E) La persona física o moral a quien favorezca la resolución cuya nulidad pida
 F) Las autoridades de la administración pública Centralizada, Desconcentrada y Descentralizada del Distrito Federal.
 
 III.- El tercero perjudicado o sea cualquier persona cuyos intereses puedan verse afectados por las resoluciones del Tribunal o que tenga un interés legítimo contrapuesto a las pretensiones del demandante.
+
+> <small>(ADICIONADO, G.O. 17 DE AGOSTO DE 2000)</small>
+
+En los juicios de nulidad que versen sobre la materia de uso de suelo, utilización de la vía pública y giros mercantiles, los Comités Vecinales tendrán invariablemente el carácter de terceros perjudicados, por lo que deberán ser notificados dentro de las veinticuatro horas siguientes a la presentación del escrito inicial del juicio de que se trate, respecto a la Colonia, Barrio, Pueblo o Unidad Habitacional que corresponda, a fin de que interpongan los medios de prueba y de defensa que procedan.
 
 ###### ARTICULO 34.
 
@@ -590,21 +598,25 @@ El Magistrado Instructor examinará el expediente y si encontrare acreditada deb
 
 ### CAPITULO VI. De la Suspensión
 
+> <small>(REFORMADO, G.O. 17 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 58.
 
-La suspensión de la ejecución de los actos que se impugnan, sólo podrá ser acordada por el Presidente de la Sala que conozca del asunto, haciéndolo del conocimiento inmediato de las autoridades demandadas para su cumplimiento.
+La suspensión de la ejecución de los actos que se impugnan, sólo podrá ser acordada por el Presidente de la Sala que conozca del asunto, haciéndolo del conocimiento inmediato de las autoridades demandadas para su cumplimiento, previa verificación de la existencia y autenticidad del acto que se impugna y consulta ciudadana de aquéllos vecinos a los que afecte de algún modo la suspensión. Dicha consulta ciudadana se celebrará de conformidad con los lineamientos establecidos por el Título Tercero Capítulo IV, de la Ley de Participación Ciudadana del Distrito Federal, en lo que corresponda.
+
+> <small>(REFORMADO, G.O. 17 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 59.
 
-La suspensión podrá solicitarla el actor en cualquier etapa del juicio y tendrá por efecto evitar que se ejecute la resolución impugnada. Sólo podrá ser concedida por el Presidente de la Sala a petición del Magistrado Instructor a quien le haya sido solicitada por el actor dentro del término de 24 horas siguientes a la petición.
+La suspensión podrá solicitarla el actor en cualquier etapa del juicio y tendrá por efecto evitar que se ejecute la resolución impugnada. Sólo podrá ser concedida por el Presidente de la Sala a petición del Magistrado Instructor a quien le haya sido solicitada por el actor dentro del término de veinticuatro horas siguientes a la verificación de la existencia y autenticidad del acto que se impugna y, en su caso, a la consulta ciudadana a que se refiere el artículo anterior.
 
-Cuando los actos que se impugnan hubieren sido ejecutados y afecten a los demandantes impidiéndoles el ejercicio de su única actividad de subsistencia o el acceso a su domicilio particular, el Presidente de la Sala podrá dictar las medidas cautelares que estime pertinentes para preservar dicho medio de subsistencia.
+Cuando los actos que se impugnan hubieren sido ejecutados y afecten a los demandantes impidiéndoles el ejercicio de su única actividad de subsistencia o el acceso a su domicilio particular, el Presidente de la Sala podrá dictar las medidas cautelares que estime pertinentes para preservar dicho medio de subsistencia, siempre y cuando dicha actividad constituya su único medio de subsistencia, lo cual debe ser comprobado fehacientemente.
 
 Excepcionalmente, bajo su más estricta responsabilidad el Presidente de la Sala podrá acordar la suspensión con efectos restitutorios, en cualquiera de las fases del procedimiento hasta antes de la sentencia respectiva.
 
 No se otorgará la suspensión si es en perjuicio del interés social, si se contravinieren disposiciones de orden público o se dejare sin materia el juicio.
 
-La suspensión podrá ser revocada por el Presidente de la Sala en cualquier etapa del juicio, si varían las condiciones por las cuales se otorgó.
+La suspensión podrá ser revocada por el Presidente de la sala en cualquier etapa del juicio, si varían las condiciones por las cuales se otorgó.
 
 ###### ARTICULO 60.
 
@@ -634,9 +646,13 @@ Cuando con la suspensión pueda afectarse derechos de terceros no estimables en 
 
 La suspensión otorgada conforme al artículo anterior quedará sin efecto si el tercero da, a su vez, caución bastante para restituir las cosas al estado que guardaban antes de la violación y pagar los daños y perjuicios que sobrevengan al actor, en el caso de que éste obtenga sentencia favorable.
 
-Para que surta efecto la caución que ofrezca el tercero, conforme al párrafo anterior, deberá cubrir previamente el costo de la que hubiese otorgado el actor.
+> <small>(REFORMADO, G.O. 17 DE AGOSTO DE 2000)</small>
 
-Contra los actos que concedan o nieguen la suspensión o contra el señalamiento de fianzas y contra fianzas procede el recurso de reclamación ante la Sala del conocimiento.
+Se exceptúa del pago de la caución antes mencionada, aquellos supuestos en los cuales la suspensión afecte el interés social.
+
+> <small>(REFORMADO, G.O. 17 DE AGOSTO DE 2000)</small>
+
+Contra los actos que concedan o nieguen la suspensión o contra el señalamiento de fianzas y contra fianzas procede el recurso de reclamación ante la sala del conocimiento.
 
 ###### ARTICULO 63.
 
@@ -937,3 +953,21 @@ TERCERO.- Los magistrados integrantes de la Sala Superior que actualmente se enc
 CUARTO.- La Sala Superior, dentro del plazo de novena días naturales siguientes a la entrada en vigor del presente decreto, hará las adecuaciones correspondientes en el Reglamento Interior del Tribunal de lo Contencioso Administrativo del Distrito Federal.
 
 QUINTO.- Publíquese en el Diario Oficial de la Federación, para su mayor difusión.
+
+G.O. 17 DE AGOSTO DE 2000.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTICULO SEGUNDO.
+
+Publíquese en el Diario Oficial de la Federación para su mayor difusión.
+
+###### ARTICULO TERCERO.
+
+La Sala cuya competencia exclusiva sea en materia de uso del suelo, como lo establece el artículo 2 del presente decreto, habrá de iniciar funciones una vez que la Sala Superior disponga lo necesario para ello, en tanto las Salas del Tribunal de lo Administrativo, seguirán funcionando en la forma como lo han hecho, hasta la entrada en vigor de este decreto.
+
+###### ARTICULO CUARTO.
+
+Las adecuaciones al reglamento de la presente Ley, deberán expedirse dentro de los 90 días siguientes a la fecha en que entre en vigor este decreto.
