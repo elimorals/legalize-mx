@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-sistema-para-el-desarrollo-integral-179
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-06-23"
-last_updated: "2000-06-23"
+last_updated: "2005-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2005.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 23 de junio de 2000.
 
@@ -75,6 +75,14 @@ SUBDIRECCIÓN DE ASISTENCIA Y REHABILITACIÓN
 
 - Departamento de Ecología de la Salud
 
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 21 DE ENERO DE 2005)</small>
+
+- Coordinación General de Casa de Ángeles/CRl
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 21 DE ENERO DE 2005)</small>
+
+- Departamento de Casa de la Niñez Poblana
+
 SUBDIRECCIÓN DE ASISTENCIA JURÍDICA SOCIAL
 
 - Departamento de Procuraduría de la Defensa del Menor, la Mujer y la Familia
@@ -122,6 +130,10 @@ SUBDIRECCIÓN DE MODELOS DE ATENCIÓN ASISTENCIAL
 - Departamento de Diseño de Modelos
 
 - Departamento de Vinculación
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 21 DE ENERO DE 2005)</small>
+
+- Unidad de Participación Ciudadana y Voluntariado
 
 CONSEJO TÉCNICO DE ADOPCIONES
 
@@ -793,11 +805,53 @@ XVIII. Permanecer coordinado con la Subdirección de Delegaciones para ejecutar 
 
 XIX. Las demás que le asignen el Subdirector de Asistencia y Rehabilitación o el Director General.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE ENERO DE 2005)</small>
+
+### CAPÍTULO XVI BIS. DE LA COORDINACIÓN GENERAL DE CASA DE ÁNGELES/CRI
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2005)</small>
+
+###### Artículo 28 Bis.
+
+La Coordinación General de Casa de Ángeles/CRI, dependerá del Subdirector de Asistencia y Rehabilitación y su titular además de las atribuciones a que se refiere el artículo 24 del presente Reglamento, tendrá las siguientes:
+
+I.- Aplicar las políticas, programas y disposiciones normativas y operativas que en materia sanitaria y metrología resulten inherentes al albergue de menores y que se encuentren en el ámbito de su competencia;
+
+II.- Proporcionar servicios asistenciales de rehabilitación y albergue a menores con discapacidad que se encuentren bajo tutela o custodia del Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, así como a menores de escasos recursos que así lo requieran;
+
+III.- Brindar consulta de rehabilitación a distancia, a través del programa de Teleconsulta del Organismo;
+
+IV.- Coordinar los estudios e investigaciones que practiquen las áreas administrativas de su adscripción y que estén relacionados con los servicios de rehabilitación infantil que en el albergue se prestan;
+
+V.- Analizar, en el ámbito de su competencia, los diagnósticos médico asistenciales que practique a los menores albergados en Casa de Ángeles; y
+
+VI.- Las demás que le asigne el Director General, su superior jerárquico y la demás normatividad aplicable.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE ENERO DE 2005)</small>
+
+### CAPÍTULO XVI TER. DEL DEPARTAMENTO DE CASA DE LA NIÑEZ POBLANA
+
+> <small>(ADICIONADO, P.O 21 DE ENERO DE 2005)</small>
+
+###### Artículo 28 Ter.
+
+El Departamento de Casa de la Niñez Poblana dependerá del Subdirector de Asistencia y Rehabilitación y su titular además de las atribuciones a que se refiere el artículo 24 del presente Reglamento, tendrá las siguientes:
+
+I.- Aplicar las políticas, programas y disposiciones normativas y operativas que en materia sanitaria y metrología, resulten inherentes al albergue de menores y que se encuentren en el ámbito de su competencia;
+
+II.- Supervisar las actividades que realice el personal del área administrativa a su cargo, para brindar servicios de salud, educación y alimentación, así como actividades lúdicas y talleres a los menores albergados en Casa de la Niñez Poblana;
+
+III.- Coadyuvar con el Departamento de Procuraduría de la Defensa del Menor, la Mujer y la Familia, para la canalización de menores bajo tutela o custodia del Organismo, a otras casas de asistencia;
+
+IV.- Brindar albergue temporal a los sujetos de asistencia social, previa aprobación de los requisitos administrativos que al efecto emita la Junta Directiva;
+
+V.- Coordinar los estudios e investigaciones que practiquen las áreas administrativas de su adscripción y que estén relacionados con los servicios que en el albergue se prestan;
+
+VI.- Analizar, en el ámbito de su competencia, los diagnósticos médico asistenciales que practique a los menores albergados en Casa de la Niñez Poblana; y
+
+VII.- Las demás que le asigne el Director General, su superior jerárquico y la demás normatividad aplicable.
+
 ### CAPÍTULO XVII. DEL DEPARTAMENTO DE LA PROCURADURÍA DE LA DEFENSA DEL MENOR, LA MUJER Y LA FAMILIA
-
-### CAPÍTULO XVIII. DEL DEPARTAMENTO DE ADOPCIONES Y REPRESENTACIÓN LEGAL
-
-### CAPÍTULO XIX. DEL DEPARTAMENTO CONSULTIVO Y DICTAMEN NORMATIVO
 
 ###### Artículo 29.
 
@@ -831,7 +885,7 @@ XIII. Determinar con el Consejo Técnico de Adopciones las actividades que confo
 
 XIV. Las demás atribuciones que le asigne el Subdirector de Asistencia Jurídica Social o el Director General.
 
-### CAPÍTULO XX. DE LA CLÍNICA DEL MALTRATO
+### CAPÍTULO XVIII. DEL DEPARTAMENTO DE ADOPCIONES Y REPRESENTACIÓN LEGAL
 
 ###### Artículo 30.
 
@@ -863,7 +917,7 @@ XII. Cuidar, actualizar y compilar los documentos normativos legales, reglamenta
 
 XIII. Las demás que le asigne el Subdirector de Asistencia Jurídica Social o el Director General.
 
-### CAPÍTULO XXI. DEL DEPARTAMENTO DE ORIENTACIÓN Y EVALUACIÓN DE PROGRAMAS ALIMENTARIOS
+### CAPÍTULO XIX. DEL DEPARTAMENTO CONSULTIVO Y DICTAMEN NORMATIVO
 
 ###### Artículo 31.
 
@@ -885,7 +939,7 @@ VI. Las demás que le asigne el Subdirector de Asistencia Jurídica Social o el 
 
 Las actividades sobre análisis y dictamen de documentos serán conforme a la variable de su dificultad, importancia, especial asunto y, en su caso, en atención a los medios para su realización.
 
-### CAPÍTULO XXII. DEL DEPARTAMENTO DE DISTRIBUCIÓN Y CONTROL DE PROGRAMAS ALIMENTARIOS
+### CAPÍTULO XX. DE LA CLÍNICA DEL MALTRATO
 
 ###### Artículo 33.
 
@@ -913,7 +967,7 @@ X. Coadyuvar con las autoridades judiciales, ministeriales, administrativas y as
 
 XI. Las demás atribuciones que le asigne el Subdirector de Asistencia Jurídica Social o el Director General.
 
-### CAPÍTULO XXIII. DEL DEPARTAMENTO DE ATENCIÓN AL PROGRAMA DESAYUNOS CALIENTES
+### CAPÍTULO XXI. DEL DEPARTAMENTO DE ORIENTACIÓN Y EVALUACIÓN DE PROGRAMAS ALIMENTARIOS
 
 ###### Artículo 34.
 
@@ -935,7 +989,7 @@ VII. Elaborar programas de capacitación para mejorar las actividades de asisten
 
 VIII. Las demás que le señalen el Titular de la Subdirección de Asistencia Alimentaria o el Director General.
 
-### CAPÍTULO XXIV. DEL DEPARTAMENTO DE ENLACE Y GESTIÓN
+### CAPÍTULO XXII. DEL DEPARTAMENTO DE DISTRIBUCIÓN Y CONTROL DE PROGRAMAS ALIMENTARIOS
 
 ###### Artículo 35.
 
@@ -961,7 +1015,7 @@ IX. Administrar con eficiencia el equipo de oficina y material suministrado, pro
 
 X. Las demás que le señalen el Titular de la Subdirección de Asistencia Alimentaria o el Director General.
 
-### CAPÍTULO XXV. DEL DEPARTAMENTO DE COORDINACIÓN Y ACCIÓN COMUNITARIA
+### CAPÍTULO XXIII. DEL DEPARTAMENTO DE ATENCIÓN AL PROGRAMA DESAYUNOS CALIENTES
 
 ###### Artículo 36.
 
@@ -985,7 +1039,7 @@ VIII. Coordinarse con la Subdirección de Delegaciones para resolver las solicit
 
 IX. Las demás que le asigne el Subdirector de Asistencia Alimentaria o el Director General.
 
-### CAPÍTULO XXVI. DEL DEPARTAMENTO DE RECURSOS HUMANOS
+### CAPÍTULO XXIV. DEL DEPARTAMENTO DE ENLACE Y GESTIÓN
 
 ###### Artículo 37.
 
@@ -1011,7 +1065,7 @@ IX. Cuidar el cumplimiento de las obligaciones convenidas entre los Sistemas Mun
 
 X. Las demás que le indiquen el Subdirector de Delegaciones o el Director General.
 
-### CAPÍTULO XXVII. DEL DEPARTAMENTO DE RECURSOS MATERIALES Y SERVICIOS
+### CAPÍTULO XXV. DEL DEPARTAMENTO DE COORDINACIÓN Y ACCIÓN COMUNITARIA
 
 ###### Artículo 38.
 
@@ -1037,7 +1091,7 @@ IX. Coordinar la entrega de donativos extraordinarios para el mejoramiento de la
 
 X. Las demás que le asigne el Subdirector de Delegaciones o el Director General.
 
-### CAPÍTULO XXVIII. DEL DEPARTAMENTO DE RECURSOS FINANCIEROS
+### CAPÍTULO XXVI. DEL DEPARTAMENTO DE RECURSOS HUMANOS
 
 ###### Artículo 39.
 
@@ -1073,7 +1127,7 @@ XIV. Cumplir y vigilar la observancia estricta de las leyes, relativas a las con
 
 XV. Las demás que le asignen el Subdirector Administrativo o el Director General.
 
-### CAPÍTULO XXIX. DEL DEPARTAMENTO DE DESARROLLO ADMINISTRATIVO
+### CAPÍTULO XXVII. DEL DEPARTAMENTO DE RECURSOS MATERIALES Y SERVICIOS
 
 ###### Artículo 40.
 
@@ -1105,7 +1159,7 @@ XII. Administrar los almacenes, talleres, adquisición y suministro de bienes y 
 
 XIII. Las demás que le asignen el Subdirector Administrativo o el Director General.
 
-### CAPÍTULO XXX. DEL DEPARTAMENTO DE PLANEACIÓN
+### CAPÍTULO XXVIII. DEL DEPARTAMENTO DE RECURSOS FINANCIEROS
 
 ###### Artículo 41.
 
@@ -1135,7 +1189,7 @@ XI. Elaborar e informar periódicamente al superior inmediato acerca de las oper
 
 XII. Las demás que le asignen el Subdirector Administrativo o el Director General.
 
-### CAPÍTULO XXXI. DEL DEPARTAMENTO DE INFORMÁTICA
+### CAPÍTULO XXIX. DEL DEPARTAMENTO DE DESARROLLO ADMINISTRATIVO
 
 ###### Artículo 42.
 
@@ -1163,7 +1217,7 @@ X. Brindar capacitación técnica al personal de las diferentes Unidades Adminis
 
 XI. Las demás que le indique el Subdirector de la Unidad de Desarrollo Administrativo, Planeación e Informática o el Director General.
 
-### CAPÍTULO XXXII. DEL DEPARTAMENTO DE DISEÑO DE MODELOS
+### CAPÍTULO XXX. DEL DEPARTAMENTO DE PLANEACIÓN
 
 ###### Artículo 43.
 
@@ -1193,7 +1247,7 @@ XI. Acudir a las Delegaciones Regionales del Sistema a realizar trabajos de supe
 
 XII. Las demás que le confiera el Subdirector de la Unidad de Desarrollo Administrativo, Planeación e Informática o el Director General.
 
-### CAPÍTULO XXXIII. DEL DEPARTAMENTO DE VINCULACIÓN
+### CAPÍTULO XXXI. DEL DEPARTAMENTO DE INFORMÁTICA
 
 ###### Artículo 44.
 
@@ -1219,7 +1273,7 @@ IX. Proporcionar sin dilación alguna y en casos extraordinarios, servicios de i
 
 X. Las demás que le indiquen el Subdirector de Desarrollo Administrativo, Planeación e Informática o el Director General.
 
-### CAPÍTULO XXXIV. DE LAS DELEGACIONES REGIONALES
+### CAPÍTULO XXXII. DEL DEPARTAMENTO DE DISEÑO DE MODELOS
 
 ###### Artículo 45.
 
@@ -1239,7 +1293,7 @@ VI. Realizar estudios de análisis y evaluación de los modelos de atención asi
 
 VII. Las demás que le indiquen el Subdirector de Modelos de Atención Asistencial o el Director General.
 
-### CAPÍTULO XXXV. DEL CONSEJO TÉCNICO DE ADOPCIONES
+### CAPÍTULO XXXIII. DEL DEPARTAMENTO DE VINCULACIÓN
 
 ###### Artículo 46.
 
@@ -1271,7 +1325,27 @@ XII. Llevar a cabo tareas de intercambio de información, capacitación y tecnol
 
 XIII. Las demás que le asigne el Subdirector de Modelos de Atención Asistencial o el Director General.
 
-### CAPÍTULO XXXVI. DE LAS SUPLENCIAS
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE ENERO DE 2005)</small>
+
+### CAPÍTULO XXXIII BIS. DE LA UNIDAD DE PARTICIPACIÓN CIUDADANA Y VOLUNTARIADO
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2005)</small>
+
+###### Artículo 46 Bis.
+
+La Unidad de Participación Ciudadana y Voluntariado, dependerá del Subdirector de Modelos de Atención Asistencial y su titular, además de las atribuciones a que se refiere el artículo 24 del presente Reglamento, tendrá las siguientes:
+
+I.- Coordinar, en el ámbito de su competencia, las acciones que desempeñan los voluntariados y los grupos de participación ciudadana en el Estado, dirigidas a beneficiar a sujetos de asistencia social;
+
+II.- Realizar la promoción de actividades de recaudación de fondos en que colaboren los grupos de participación ciudadana y voluntariados a favor de los grupos marginados y desprotegidos de la sociedad, en la esfera de su competencia;
+
+III.- Asesorar a los grupos de participación ciudadana y voluntariados en el Estado, en la realización de las acciones encaminadas a beneficiar a sujetos de asistencia social;
+
+IV.- Presentar propuestas a su superior jerárquico inmediato para la implementación de programas, en los que con la colaboración de grupos de participación ciudadana y voluntariados en el Estado, se obtenga un mayor beneficio para los sujetos de asistencia social; y
+
+V.- Las demás que le asigne el Director General, su superior jerárquico y la demás normatividad aplicable.
+
+### CAPÍTULO XXXIV. DE LAS DELEGACIONES REGIONALES
 
 ###### Artículo 47.
 
@@ -1317,13 +1391,49 @@ XVII. Coordinarse con los Sistemas Municipales para el Desarrollo Integral de la
 
 XVIII. Las demás que les asigne el inmediato superior o el Director General.
 
+### CAPÍTULO XXXV. DEL CONSEJO TÉCNICO DE ADOPCIONES
+
 ###### Artículo 49.
 
 El Consejo Técnico de Adopciones es un cuerpo colegiado, coadyuvante de la asistencia social que tiene como objetivo vigilar y decidir sobre la tutela legítima de los menores sujetos de la asistencia, así como proteger y cuidar de sus derechos conforme a las leyes o acuerdos internacionales.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2005)</small>
+
 ###### ARTÍCULO 50.
 
-El Consejo Técnico de Adopciones estará integrado por: El Director General del Organismo, quien lo presidirá; el Subdirector de Asistencia Jurídica Social, quien actuará como Secretario Técnico; y como consejeros el Subdirector de Asistencia y Rehabilitación, el Jefe del Departamento de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, el Jefe del Departamento de Adopción y Representación legal, la Coordinadora de la Casa de la Familia Poblana, un médico pediatra y un psiquiatra.
+El Consejo Técnico de Adopciones está integrado por:
+
+I.- El Presidente, que será el Director General del Sistema;
+
+II.- El Secretario Técnico, que será el Subdirector de Asistencia Jurídica y Social;
+
+III.- Los Consejeros, que serán:
+
+a) El Subdirector de Asistencia y Rehabilitación;
+
+b) El Jefe del Departamento de Procuraduría de la Defensa del Menor, la Mujer y la Familia;
+
+c) El Jefe del Departamento de Adopciones y Representación Legal;
+
+d) El Coordinador General de Casa de Ángeles/CRl;
+
+e) El Titular del Departamento de Casa de la Niñez Poblana;
+
+f) Un Médico Pediatra de este Organismo; y
+
+g) Un Psiquiatra de este Organismo.
+
+IV.- Los asesores que serán:
+
+a) El Presidente del Honorable Tribunal Superior de Justicia en el Estado;
+
+b) El Titular de la Procuraduría General de Justicia en el Estado.
+
+Los integrantes del Consejo Técnico de Adopciones señalados en las fracciones I, II y III del presente artículo, contarán con derecho a voz y voto, en caso de empate, el Presidente tendrá voto de calidad.
+
+Los integrantes del Consejo Técnico de Adopciones señalados en los incisos de la fracción IV, contarán únicamente con derecho a voz y no a voto.
+
+A través del Presidente, podrá invitarse a participar en las sesiones del Consejo Técnico de Adopciones a no más de cuatro especialistas en las disciplinas que integran el Consejo, quienes contarán con derecho a voz pero no a voto.
 
 ###### Artículo 51.
 
@@ -1334,6 +1444,8 @@ El Consejo Técnico de Adopciones ordinariamente sesionará una vez al mes, y en
 Los acuerdos del Consejo Técnico de Adopciones serán válidos por el voto mayoritario de los concurrentes, teniendo voto de calidad el Director General.
 
 Habrá mayoría en las sesiones del Consejo Técnico de Adopciones, cuando concurran la mitad más uno de sus integrantes, los cuales extraordinariamente podrán ser suplidos por la persona que ellos designen a excepción del Director General quien siempre presidirá.
+
+### CAPÍTULO XXXVI. DE LAS SUPLENCIAS
 
 ###### Artículo 53.
 
@@ -1362,3 +1474,15 @@ Se derogan todos los acuerdos, decretos, circulares, instructivos y demás dispo
 Si la Junta Directiva determinare el cambio de funciones o de adscripción de alguna Unidad Administrativa a otra, pasará a la Unidad que le designe con el personal administrativo, documentos, mobiliario, equipo y todas las obligaciones inherentes.
 
 Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los cinco días del mes de junio del año dos mil.- El Gobernador Constitucional del Estado. LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS ALBERTO JULIÁN Y NÁCER.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 21 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Acuerdo.
