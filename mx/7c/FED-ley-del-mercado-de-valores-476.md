@@ -4,7 +4,7 @@ identifier: "FED-ley-del-mercado-de-valores-476"
 country: "mx"
 rank: "ley"
 publication_date: "1975-01-02"
-last_updated: "1995-04-28"
+last_updated: "1995-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=476&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 1995.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 2 de enero de 1975.
 
@@ -37,8 +37,6 @@ DECRETO:
 El Congreso de los Estados Unidos Mexicanos decreta:
 
 LEY DEL MERCADO DE VALORES
-
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL PRIMER PARRAFO DEL ARTICULO QUINTO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, SE DEBERA ENTENDER QUE LAS REFERENCIAS QUE OTRAS LEYES REGLAMENTOS O DISPOSICIONES HAGAN RESPECTO DE LA COMISION NACIONAL BANCARIA O DE LA COMISION NACIONAL DE VALORES, SE ENTENDERA QUE SE HACEN RESPECTO A LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995.</small>
 
 ### CAPITULO PRIMERO. Disposiciones Preliminares
 
@@ -1296,7 +1294,7 @@ Las bolsas de valores también podrán, previa autorización de la Comisión Nac
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-Tratándose de valores emitidos o garantizados por instituciones u organizaciones auxiliares del crédito o instituciones de seguros y fianzas, la Comisión Nacional de Valores deberá oír previamente a la Comisión Nacional Bancaria o a la Comisión Nacional de Seguros y Fianzas, según corresponda, para resolver sobre las suspensiones o cancelaciones a que se refiere este artículo.
+Tratándose de valores emitidos o garantizados por instituciones u organizaciones auxiliares del crédito o instituciones de seguros y fianzas, la Comisión Nacional de Valores deberá oír previamente a la Comisión Nacional Bancaria y de Valores o a la Comisión Nacional de Seguros y Fianzas, según corresponda, para resolver sobre las suspensiones o cancelaciones a que se refiere este artículo.
 
 > <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
@@ -1463,8 +1461,6 @@ XXII.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIO
 ###### ARTICULO 46.
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
-
-> <small>N. DE E. DE ACUERDO A LO PREVISTO POR EL TERCER PARRAFO DEL ARTICULO QUINTO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, LAS REFERENCIAS PREVISTAS EN ESTE ARTICULO A LAS FRACCIONES VII Y VIII DEL ARTICULO 41 DEL MISMO ORDENAMIENTO, SE ENTENDERAN HECHAS A LAS FRACCIONES XV Y XVII DEL ARTICULO 4 DE LA PRESENTE LEY, D.O.F. 28 DE ABRIL DE 1995.</small>
 
 ###### ARTICULO 47.
 
@@ -1677,6 +1673,10 @@ Los delitos previstos en los artículos 52, 52 Bis, 52 Bis 1 y 52 Bis 2, solamen
 Las multas previstas en los artículos 52, 52 Bis y 52 Bis 1 de esta Ley, se impondrán a razón de días de salario mínimo general vigente en el Distrito Federal en la fecha en que se realice la conducta sancionada.
 
 Lo dispuesto en los artículos citados en el primer párrafo, no excluye la imposición de las sanciones que conforme a otras leyes fueren aplicables.
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Valores, dictará disposiciones de carácter general para prevenir y detectar en las casas de bolsa y especialistas bursátiles, actos u operaciones con recursos, derechos o bienes que procedan o representen el producto de un probable delito. Estas disposiciones deberán ser observadas por los empleados y funcionarios de los citados intermediarios. La violación de las mismas será sancionada con multa equivalente del diez hasta el cien por ciento del monto del acto u operación de que se trate, la cual será impuesta por la Comisión Nacional Bancaria y de Valores a los intermediarios financieros mencionados.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -3031,3 +3031,9 @@ Las referencias que otras leyes, reglamentos o disposiciones hagan respecto de l
 Asimismo, cualquier referencia a los titulares o demás servidores públicos de la Comisión Nacional Bancaria o de la Comisión Nacional de Valores, se entenderá hecha al Presidente y demás servidores públicos de la Comisión Nacional Bancaria y de Valores.
 
 Las referencias previstas en el artículo 47 de la Ley del Mercado de Valores a las fracciones VII y VIII del artículo 41 del mismo ordenamiento, se entenderán hechas a las fracciones XV y XVII del artículo 4 de la presente Ley, respectivamente. A su vez, la referencia contenida en el artículo 40 de la Ley de Sociedades de Inversión a la fracción IV del artículo 45 de la Ley del Mercado de Valores, se entenderá hecha a la fracción III del artículo 16 de esta Ley.
+
+D.O.F. 17 DE NOVIEMBRE DE 1995.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
