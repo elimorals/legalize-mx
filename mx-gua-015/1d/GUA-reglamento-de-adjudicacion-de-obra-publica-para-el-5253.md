@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-adjudicacion-de-obra-publica-para-el-5253"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-08-11"
-last_updated: "2000-01-21"
+last_updated: "2004-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 REGLAMENTO DE ADJUDICACION DE OBRA PUBLICA EN EL MUNICIPIO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2004.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 11 de agosto de 1995.
 
@@ -205,7 +205,9 @@ I. Se deberá hacer invitación formal a contratistas, sean personas físicas o 
 
 II. Los contratistas deberán presentar su oferta por escrito, previo análisis de la información técnica necesaria que se les proporcionará para la elaboración del presupuesto y calendario de trabajo;
 
-III. En este procedimiento se requerirá enviar y recibir respuesta positiva de cuando menos tres contratistas, excepto cuando el importe del presupuesto base sea menor al 39% del monto máximo y límite señalado anualmente por el Congreso del Estado, atendiendo las disposiciones del artículo 64 de la Ley de Obra Pública para el Estado y los Municípios de Guanajuato, ocasión esta última donde bastará la aceptación positiva y presentación de propuesta económica por un solo contratista, considerando que tal forma es la más adecuada para cubrir los necesarios requerimientos de economía, eficiencia y eficacia, con objeto de ejercer con oportunidad y agilidad los recursos destinados a satisfacer los programas de obra pública del municipio, en acciones de bajo monto, conforme al espíritu de la Ley antes citada y;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2004)</small>
+
+III. Para los efectos de asignación de Obra Pública sea directa o por invitación restringida se estará a lo establecido por el Decreto que actualmente expida la Legislatura Local respecto a los montos máximos y límites para la ejecución de Obra Pública Municipal del año que corresponda.
 
 IV. Una vez entregadas las propuestas, estas serán analizadas comparativamente por el Presidente Municipal y el Director de Obras Públicas Municipales, a fin de adjudicar la Obra a quien garantice los principios de precio, calidad, financiamiento, oportunidad y puntualidad, asesorándose con el Tesorero Municipal de ser necesario.
 
@@ -304,3 +306,7 @@ El presente acuerdo entrará en vigor al cuarto día de su publicación en el pe
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan los artículos relacionados con las modificaciones del presente acuerdo, para quedar vigentes en los términos aquí expresados.
+
+P.O. 6 DE JULIO DE 2004.
+
+UNICO.- El presente acuerdo surtirá sus efectos al cuarto día siguiente al de su Publicación en el Periódico Oficial del Gobierno del Estado.
