@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1982-01-01"
+last_updated: "1982-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 1982.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -5523,6 +5523,10 @@ IV.- Que la adopción es benéfica para la persona que trata de adoptarse;
 
 V.- Que es el adoptante de buenas costumbres.
 
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 1982)</small>
+
+VI.- Que alguna Institución Médica, Pública o Privada, o dos médicos particulares autorizados, le hayan expedido un certificado de salud o constancia de exámen médico.
+
 En la promoción inicial deberá manifestarse el nombre y edad del menor o incapacitado, y el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela o de las personas o instituciones de beneficencia que lo hayan acogido.
 
 ###### Artículo 936.
@@ -6040,3 +6044,7 @@ P.O. 1º. DE ENERO DE 1982.
 ###### ARTICULO TERCERO
 
 - Para los efectos del Artículo 957 con que se adiciona el Libro Quinto del Código de Procedimientos Civiles, todos aquellos negocios a que se refiere dicho precepto y que actualmente se encuentran tramitándose en Primera Instancia sin que se haya dictado la sentencia, deberán remitirse a la Sala de lo Familiar una vez que se haya concluído el período probatorio respectivo, a fin de que ésta pronuncie la resolución que corresponda.
+
+P.O. 23 DE JUNIO DE 1982.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
