@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-penales-para-el-estado-de-2595"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-04-12"
-last_updated: "1995-04-02"
+last_updated: "1999-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 1999.
 
 Código publicado en el Suplemento al Número 15, del Periódico Oficial del Estado de Aguascalientes, el 12 de abril de 1992.
 
@@ -123,9 +123,9 @@ VI.- Asegurar y restituir al ofendido en sus derechos en términos del Artículo
 
 VII.- Determinar la reserva o el ejercicio de la acción penal;
 
-> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 1999)</small>
 
-VIII.- Acordar y notificar al ofendido o víctima el no ejercicio de la acción penal y, en su caso, resolver sobre la inconformidad que aquéllos formulen;
+VIII.- Acordar y notificar personalmente al ofendido o víctima el no ejercicio de la acción penal;
 
 > <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 1994)</small>
 
@@ -1154,6 +1154,24 @@ V.- Los demás que señalen las leyes.
 En virtud de lo anterior, podrán proporcionar al Ministerio Público o a la autoridad judicial, directamente o por medio de aquél, todos los datos o elementos de prueba con que cuenten, que conduzcan a acreditar los elementos del tipo penal que corresponda y a establecer la probable o plena responsabilidad del inculpado, según el caso, y la procedencia y monto de la reparación del daño.
 
 En todo caso, la autoridad judicial, de oficio, mandará citar a la víctima o al ofendido por el delito para que comparezca por sí o por su representante designado en el procedimiento, a manifestar en éste lo que a su derecho convenga respecto a lo previsto en este artículo.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1999)</small>
+
+###### ARTICULO 156-A.
+
+Procede el recurso de revisión en contra de la resolución dictada por el Ministerio Público en la que se determine el no ejercicio de la acción penal.
+
+El recurso de revisión deberá ser presentado por el denunciante, el querellante o el ofendido ante el juzgado de primera instancia en materia penal en turno, dentro del término de cinco días hábiles contados a partir de la notificación de la resolución.
+
+El recurso se presentará por escrito y deberá contener el nombre y firma del denunciante, querellante u ofendido, domicilio que señale para oír notificaciones, datos de identificación de la averiguación previa, número, adscripción y nombre del Agente del Ministerio Público que conoció de la averiguación; y la exposición de los agravios y motivos por los cuales se considera que es improcedente la resolución. De no reunir el escrito en donde se interponga el recurso todos los requisitos antes mencionados, se desechará de plano.
+
+El Juez que conozca el recurso deberá requerir al Procurador de Justicia, para que en un término de tres días hábiles remita a la autoridad revisora el expediente que contenga la averiguación previa, a fin de que ésta última en un término de diez días hábiles contados a partir del día en que reciba el expediente resuelva lo procedente.
+
+La resolución al recurso deberá estar debidamente fundada y motivada, señalando claramente si se comprobaron o no los datos que acreditan los elementos del tipo y la probable o no responsabilidad del inculpado.
+
+La resolución deberá notificarse al promovente en el domicilio señalado para oír notificaciones.
+
+Si la autoridad revisora resuelve que es procedente ejercitar la acción penal, en la propia resolución se ordenará al Procurador de Justicia que cumpla con la misma, ejercitando la acción penal correspondiente en un término que no deberá de exceder de cinco días a partir de que se le notifique la resolución.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 7 DE AGOSTO DE 1994)</small>
 
@@ -2947,7 +2965,9 @@ XIII.- Ser heredero, legatario, donatario o fiador de alguno de los interesados,
 
 XIV.- Ser el cónyuge o alguno de los hijos del servidor público, acreedor, deudor o fiador de alguno de los interesados;
 
-XV.- Haber sido magistrado o juez en el mismo asunto, en otra instancia; y
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 1999)</small>
+
+XV.- Haber sido Magistrado o Juez en el mismo asunto, en otra instancia o haber conocido del recurso de revisión que establece este Código; y
 
 XVI.- Haber sido Agente del Ministerio Público, perito, testigo, apoderado, patrono o defensor en el asunto de que se trate, o haber gestionado o recomendado anteriormente el asunto en favor o en contra de alguno de los interesados.
 
@@ -3664,3 +3684,9 @@ Los trabajadores al servicio de los Gobiernos del Estado, los Municipios, y Orga
 ###### ARTICULO DECIMO PRIMERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE FEBRERO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
