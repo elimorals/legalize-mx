@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fomento-al-turismo-5140"
 country: "mx"
 rank: "ley"
 publication_date: "1987-08-17"
-last_updated: "1991-03-15"
+last_updated: "2004-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE FOMENTO AL TURISMO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el lunes 17 de agosto de 1987.
 
@@ -425,73 +425,33 @@ El Gobierno del Estado invitará a los prestadores de servicios turísticos a fo
 
 El Gobierno del Estado podrá instituir premios y reconocimientos para honrar y estimular a personas físicas o morales que contribuyan o hayan contribuido de manera sobresaliente al desarrollo turístico.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P. O. 11 DE JULIO DE 1989)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE GUERRERO, P.O. 24 DE FEBRERO DE 2004)</small>
 
 ### CAPITULO QUINTO. DEL FONDO DE CREDITO Y GARANTIA A MICRO-EMPRESAS Y PEQUEÑAS EMPRESAS TURISTICAS
 
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 1989)</small>
-
 ###### ARTICULO 43.
 
-El Gobierno del Estado con sujeción al Programa de Fomento al Turismo y a los presupuestos de egresos así como a las leyes aplicables, promoverá la rehabilitación, renovación y ampliación de hoteles y restaurantes, y de establecimientos de servicios turísticos que tengan el carácter de micro-empresas y pequeñas empresas.
-
-Especialmente se otorgarán los anteriores beneficios a las Empresas del Sector Social, proporcionándoles créditos y asesoría para la creación y desarrollo de infraestructura turística en dicha área.
-
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 1989)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE GUERRERO, P.O. 24 DE FEBRERO DE 2004)
 
 ###### ARTICULO 44.
 
-Para los efectos del artículo anterior se crea el Fondo de Garantía y Crédito a Micro-Empresas y Pequeñas Empresas Turísticas, como fondo financiero.
-
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 1989)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE GUERRERO, P.O. 24 DE FEBRERO DE 2004)
 
 ###### ARTICULO 45.
 
-El Fondo de Garantía y Crédito a Micro-Empresas y Pequeñas Empresas Turísticas tendrá los siguientes fines:
-
-I.- Obtener financiamientos de instituciones públicas;
-
-II.- Otorgar créditos a micro-empresas y pequeñas empresas turísticas con sujeción a las reglas de operación de créditos y a las prioridades que la Secretaría de Fomento Turístico y el Comité Técnico establezcan;
-
-III.- Garantizar los créditos que obtengan de instituciones públicas las micro-empresas y pequeñas empresas públicas conforme a las reglas y prioridades que con tal propósito se establezcan;
-
-IV.- Proporcionar asistencia técnica y administrativa a las micro-empresas y pequeñas empresas turísticas para la obtención de financiamientos; y
-
-V.- Las demás que sean afines a las anteriores.
-
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 1989)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE GUERRERO, P.O. 24 DE FEBRERO DE 2004)
 
 ###### ARTICULO 46.
 
-El Fondo se manejará por un Comité Técnico que estará integrado por el Secretario de Fomento Turístico, quien lo presidirá; el Secretario de Finanzas; el Secretario de Planeación y Presupuesto; el Secretario de Desarrollo Económico y Trabajo; la Secretaría de la Mujer; el Vocal Ejecutivo de la Comisión Mixta para la Gestión de los Servicios Públicos del Acapulco Dorado; el Vocal Ejecutivo de la Comisión Mixta para la Gestión de los Servicios Públicos del Acapulco Tradicional; y el Director General del Instituto para el Desarrollo de las Empresas del Sector Social.
-
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 1989)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE GUERRERO, P.O. 24 DE FEBRERO DE 2004)
 
 ###### ARTICULO 47.
 
-El Comité Técnico del Fondo tendrá las siguientes facultades:
-
-I.- Aprobar el programa anual de financiamientos;
-
-II.- Aprobar el plan de labores y el presupuesto anuales;
-
-III.- Aprobar el informe de actividades y los estados financieros anuales;
-
-IV.- Aprobar la obtención de financiamientos;
-
-V.- Aprobar el otorgamiento de créditos;
-
-VI.- Autorizar las reglas de operación de créditos, y las reglas para el otorgamiento de garantías;
-
-VII.- Autorizar los apoyos que a cargo del Fondo podrán otorgarse a las empresas susceptibles de financiamiento; y
-
-VIII.- Las demás que sean necesarias para el ejercicio de las anteriores.
-
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 1989)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE GUERRERO, P.O. 24 DE FEBRERO DE 2004)
 
 ###### ARTICULO 48.
 
-El Poder Ejecutivo podrá invitar a representantes de instituciones públicas que otorguen financiamientos al Fondo, así como de representantes de las agrupaciones de micro-empresas y pequeñas empresas turísticas a que participen en el Comité Técnico del Fondo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE GUERRERO, P.O. 24 DE FEBRERO DE 2004)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P. O. 15 DE MARZO DE 1991)</small>
 
@@ -588,3 +548,19 @@ P. O. 15 DE MARZO DE 1991.
 ###### ARTICULO UNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 24 DE FEBRERO DE 2004.
+
+Primero.- La presente Ley entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se deroga el Capítulo V de la Ley de Fomento al Turismo de fecha 14 de agosto de 1987, publicada en el Periódico Oficial del Gobierno del Estado de fecha 17 de agosto de 1987.
+
+Tercero.- Se abroga el Decreto por el que se crea el Consejo Consultivo Turístico del Estado de Guerrero, de fecha 23 de marzo del 2000 y publicado el 4 de abril del mismo año 2000, así como el Decreto Modificatorio, publicado ene l Periódico Oficial del Gobierno del Estado del 30 de junio del 2000.
+
+Cuarto.- La Secretaría de Fomento Turístico proveerá lo conducente a efecto de que se lleven a cabo las modificaciones al Contrato de Fideicomiso que rige la operación del centro Internacional Acapulco, y además , presida el Comité Técnico del mismo, en un plazo máximo de ciento ochenta días, a partir de que entre en vigor la presente Ley.
+
+Quinto.- Las secretarías de Finanzas y Administración y de Fomento Turístico, con la participación de la Contraloría General del Estado, realizarán, en el ámbito de sus respectivas competencias, las gestiones para constituir el Fideicomiso del Consejo Estatal de Fomento y Promoción Turística, dentro de los noventa días siguientes a la entrada en vigor de la presente Ley.
+
+Sexto.- Cuando alguna unidad administrativa se reubique, conforme a esta Ley, la transferencia se hará incluyendo los recursos materiales y financieros que tales unidades hayan venido usando para la atención de sus asuntos, así como el personal a su servicio, tutelado por la Ley de Trabajo de los Servidores Públicos del Estado de Guerrero Número 248, sin perjuicio de sus derechos adquiridos, con la intervención de la Secretaría de Finanzas y Administración y la Contraloría General del Estado.
+
+Séptimo.- La Secretaría de Fomento Turístico dentro de los noventa días siguientes a la entrada en vigencia de la presente Ley, expediría el Reglamento respectivo.
