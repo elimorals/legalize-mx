@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-13577"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-03"
-last_updated: "2000-12-07"
+last_updated: "2001-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2001.
 
 Ley publicada en el Periódico Oficial, el 3 de febrero de 1999.
 
@@ -53,11 +53,13 @@ El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien ten
 
 Para el despacho de los asuntos que competen al Ejecutivo del Estado, éste contará con las dependencias y entidades que señale la Constitución Política del Estado, la presente Ley, los decretos respectivos y las demás disposiciones jurídicas vigentes.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 4o.
 
-El Gobernador del Estado podrá crear, agrupar, fusionar y suprimir, por decreto, las dependencias o entidades que estime necesarias para el mejor despacho de los asuntos públicos, conforme al Presupuesto de Egresos, así como nombrar y remover libremente a los servidores públicos y empleados de confianza.
+El Gobernador del Estado podrá crear, agrupar, fusionar y suprimir, por Decreto, las dependencias o entidades que estime necesarias para el mejor despacho de los asuntos públicos, así como nombrar y remover libremente a los servidores públicos y empleados de confianza.
 
-Si la creación de tales dependencias y entidades requiere asignaciones de recursos públicos, éstos deberán ser autorizados por el Congreso del Estado.
+Si la creación de tales dependencias o entidades requiere asignación de recursos públicos diversos a los contenidos en el Presupuesto de Egresos del Estado, éstos deberán ser autorizados por el Congreso del Estado.
 
 ###### ARTICULO 5o.
 
@@ -211,11 +213,13 @@ XVI. Participar con la dependencia correspondiente, en la realización de progra
 
 XVII. Coordinar y vigilar las Juntas de Mejoramiento Moral, Cívico y Material;
 
-XVIII. Dirigir la edición, publicación y operación del Periódico Oficio del Gobierno del Estado y mantener un archivo actualizado de los mismos;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2001)</small>
 
-XIX. Ordenar la publicación en el Periódico Oficial, de las leyes y decretos que expida el Poder Legislativo, los decretos del Ejecutivo y demás disposiciones legales;
+XVIII. Editar, publicar y operar el Periódico Oficial del Estado y mantener un archivo actualizado del mismo en el Archivo General del Estado;
 
-Ejecutar los actos de expropiación, de ocupación temporal y de limitación de dominio por causa de utilidad pública, de conformidad con la legislación aplicable;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2001)</small>
+
+XIX. Publicar, en el Periódico Oficial del Estado, las Leyes y Decretos que expida el Poder Legislativo, los Decretos del Ejecutivo y demás disposiciones legales;
 
 XX. Ejecutar los actos de expropiación, de ocupación temporal y de limitación de dominio por causa de utilidad pública, de conformidad con la legislación aplicable;
 
@@ -407,7 +411,9 @@ X.- Administrar, controlar y vigilar bienes propiedad del Gobierno del Estado;
 
 XI.- Intervenir en los términos de las leyes de la materia, en la celebración de contratos de compra-venta, seguros, fianzas, comodato, donación y demás , en los que se afecta el patrimonio del Gobierno del Estado;
 
-XII.- Imprimir y difundir las publicaciones oficiales, siguiendo los lineamientos que establezca la Secretaría General de Gobierno en relación al Periódico Oficial del Estado y mantener un archivo actualizado de las mismas, en el Archivo General del Estado;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2001)</small>
+
+XII.- Imprimir y difundir las publicaciones oficiales, y mantener un archivo actualizado de las mismas en el Archivo General del Estado;
 
 XIII.- Administrar el Archivo General del Estado;
 
@@ -825,7 +831,7 @@ XXXIV. Establecer y operar los mecanismos de seguimiento y evaluación de los pr
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
 
-XXXV.- Coordinar como cabeza de sector, las actividades de las entidades estatales denominadas: Desarrollo Urbano del Puerto Industrial de Altamira, S.A. de C.V. y Canal Intracostero de Tamaulipas, S.A. de C.V.; y,
+XXXV.- Coordinar como cabeza de sector, las actividades de las entidades estatales denominadas: Desarrollo Urbano del Puerto Industrial de Altamira, S. A. de C.V. y Canal Intracostero de Tamaulipas, S.A. de C.V.; y,
 
 XXXVI. Los demás que con relación al ramo le encomiende el Titular del Ejecutivo del Estado.
 
@@ -925,25 +931,59 @@ XXIII.- Los demás que, con relación al ramo, le encomiende el Titular del Ejec
 
 ### CAPITULO CUARTO. DE LAS ENTIDADES PARAESTATALES DEL PODER EJECUTIVO
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 30.
 
-Son entidades los organismos descentralizados; empresas de participación estatal y demás comisiones, comités, patronatos, juntas, fondos y fideicomisos que funcionen en el Estado, creados por Decreto del Congreso o en su caso por el Ejecutivo Estatal, cualquiera que sea la forma o estructura legal que adopten y constituyen órganos auxiliares de la Administración Pública, los cuales serán coordinados por los titulares de las Secretarias cuyas respectivas competencias comprendan las funciones de la entidad correspondiente; en caso de duda sobre la dependencia que deba coordinar una entidad, resolverá el Titular del Ejecutivo;
+Constituyen órganos auxiliares de la administración pública las entidades creadas como organismos descentralizados, las empresas de participación estatal mayoritaria, o fideicomisos públicos.
+
+Los organismos públicos descentralizados podrán ser creados por Decreto, del Congreso o del Ejecutivo local. Las empresas y fideicomisos se constituirán en los términos que fijen las leyes aplicables; previo a ello, el Congreso o el Ejecutivo, según sea el caso, expedirán el Decreto, por el que se autorice y se fijen las bases de su conformación. Dichos Decretos deberán contener, por lo menos, los siguientes requisitos: denominación, domicilio legal, objeto de creación, aportaciones y fuentes de recursos para integrar su patrimonio y, en su caso, la forma en que habrá de incrementarse, designación o integración de su órgano de gobierno, las facultades y obligaciones del Director General, órganos de vigilancia, así como sus facultades, régimen laboral a que se sujetarán las relaciones de trabajo, y la forma y términos de su extinción y liquidación.
+
+Las entidades se agruparán en sectores definidos y serán coordinadas por el titular de la dependencia cuya competencia comprenda las funciones de la entidad correspondiente.
+
+Las relaciones de las entidades con el Ejecutivo, se llevarán a cabo a través de la dependencia coordinadora. En caso de duda sobre la dependencia que deba coordinar una entidad, resolverá el titular del Ejecutivo.
+
+La extinción y liquidación de una entidad, se realizará mediante un acto de la misma naturaleza del que la creó, previa opinión de la dependencia coordinadora del sector al que pertenezca.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 31.
 
-El Gobernador podrá crear organismos descentralizados; y podrá ordenar la creación, fusión o liquidación de empresas de participación estatal mayoritarias o dispondrá la constitución y liquidación, en su caso, de fideicomisos públicos para la atención del objeto que expresamente les encomienden. Asimismo, podrá crear, constituir o establecer juntas, patronatos, comités y comisiones;
+Los organismos descentralizados tendrán como objeto la prestación de un servicio público, la explotación de bienes o recursos propiedad del Gobierno del Estado, en general, la colaboración operativa con el Gobierno del Estado mediante la realización de acciones de interés general o beneficio colectivo. Atendiendo a su objeto de creación, podrán denominarse comisiones, comités, institutos, patronatos, juntas o fondos.
+
+Los organismos descentralizados gozarán de personalidad jurídica y patrimonio propio constituido total o parcialmente con cualquier aportación del Gobierno del Estado.
+
+La máxima autoridad de los organismos descentralizados, estará a cargo de un órgano colegiado en el que deberán intervenir representantes de la administración pública centralizada.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 32.
 
-Los organismos descentralizados gozarán de personalidad jurídica y patrimonio propios y podrán ser creados para apoyar operativamente al Ejecutivo en el ejercicio de sus funciones;
+Las empresas de participación estatal mayoritaria tendrán por objeto la satisfacción de necesidades colectivas a través de la producción de bienes o servicios de naturaleza económica, a fin de promover el desarrollo del Estado, y obtener recursos que contribuyan al erario público.
+
+Se considerarán empresas de participación estatal mayoritaria, cuando además de tener la finalidad señalada en el párrafo anterior, el Gobierno del Estado o alguna de sus entidades considerados conjunta o separadamente, intervengan en alguno de los siguientes modos:
+
+I.- Sean propietarios mayoritarios de capital social;
+
+II.- En la constitución de su capital se hagan figurar acciones de serie especial que sólo puedan ser suscritas por el Gobierno Estatal o sus dependencias;
+
+III.- En su estatuto se reserve la facultad de nombrar al administrador único o a la mayoría de los miembros de consejo de administración; o
+
+IV.- Conserve el derecho de vetar las decisiones de los órganos de dirección de la sociedad.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 33.
 
-Las entidades de la administración paraestatal se agruparán en sectores definidos; y sus relaciones con el Ejecutivo, en cumplimiento a las disposiciones generales aplicables, se realizarán a través de la dependencia que en cada caso se designe como coordinador del sector correspondiente; y,
+Los fideicomisos públicos, son los constituidos por el Ejecutivo local con recursos del Gobierno de Estado, con el objeto de auxiliarlo en la realización de actividades prioritarias, de interés público o beneficio colectivo de su competencia.
+
+Los fideicomisos públicos podrán contar con estructura análoga a la de las otras entidades, y regirán sus actividades por Comités Técnicos. El Ejecutivo del Estado a través de la Secretaría de Finanzas, será invariablemente el fideicomitente y en los documentos contractuales que los creen y regulen, deberán quedar, precisados los derechos y obligaciones que corresponda ejercer al fiduciario sobre el patrimonio fideicomitido, sus limitaciones, así como las facultades y derechos que el fideicomitente se reserve.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 34.
 
-Las entidades de la administración paraestatal deberán proporcionar al coordinador del sector correspondiente, la información que se requiera de sus operaciones.
+El control y vigilancia de las entidades estará a cargo de comisarios designados por la Contraloría Gubernamental, previo acuerdo con el Gobernador del Estado y su función, podrá ser temporal o permanente. Las atribuciones del Comisario deberán determinarse en el Decreto que cree o autorice la creación de la entidad y en el cumplimiento de su encargo estará obligado a observar la demás normatividad correspondiente.
 
 ### CAPITULO QUINTO. DE LOS TRIBUNALES ADMINISTRATIVOS
 
@@ -1024,3 +1064,9 @@ Cuando se haga referencia a alguna dependencia o entidad cuyas funciones estén 
 ###### ARTICULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE OCTUBRE DE 2001
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el siguiente día de su publicación en el Periódico Oficial del Estado.
