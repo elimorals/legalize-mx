@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-funcionamiento-de-peluquerias-y-salas-de-371
 country: "mx"
 rank: "reglamento"
 publication_date: "1962-11-20"
-last_updated: "1962-11-20"
+last_updated: "1996-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "BCN"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE PELUQUERIAS Y SALAS DE BELLEZA PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO PUBLICADO EN EL P.O. DE 11 DE OCTUBRE DE 1996 DEL H. XV AYUNTAMIENTO DE MEXICALI, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el martes 20 de noviembre de 1962.
 
@@ -178,3 +180,9 @@ Secretario,
 GREGORIO LOPEZ HERNANDEZ.
 
 (Firmado).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE OCTUBRE DE 1996.
+
+UNICO.- EL PRESENTE ACUERDO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL, ORGANO DEL GOBIERNO DEL ESTADO.
