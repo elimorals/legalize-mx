@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1987-09-12"
+last_updated: "1987-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 1987.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -4757,7 +4757,7 @@ XI.- Al que sin llenar los requisitos establecidos por este Código, use para un
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
 
-XII.- Ilícitamente obtenga la inscripción o cancelación de un tercero en el Registro Nacional o Estatal de Electores;;
+XII.- Ilícitamente obtenga la inscripción o cancelación de un tercero en el Registro Nacional o Estatal de Electores;
 
 XIII.- Instale ilegalmente una casilla o usurpe funciones electorales.
 
@@ -7755,225 +7755,129 @@ SALUBRIDAD Y ASISTENCIA
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
+> <small>(DEROGADO CON EL TITULO, CAPITULO Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)</small>
+
 # LIBRO SEGUNDO
 
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)</small>
+
 ## TITULO UNICO. DE LA ASISTENCIA PUBLICA
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1091.
 
-Se establece el Patronato de la Asistencia Social en el Estado de Chihuahua con personalidad jurídica propia y capacidad para realizar todos los actos necesarios para el desempeño de sus funciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1092.
 
-El Patronato de la Asistencia Social del Estado tendrá por objeto:
-
-I.- La fundación y mantenimiento de hospitales, salas de maternidad, comedores públicos, casas hogar y, en general, de centros o unidades de asistencia médico social;
-
-II.- La realización de toda clase de actividades de asistencia social dentro de las normas y procedimientos fijados en este Código y sus reglamentos;
-
-III.- La organización o vigilancia de festivales, colectas y, en general, actos encaminados a recaudar fondos para la asistencia social; y
-
-IV.- Todo lo demás que las leyes y reglamentos le señalen.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1093.
 
-El referido Patronato radicará en la Capital del Estado y estará integrado por cinco miembros propietarios y cinco suplentes que serán nombrados por el Gobernador del Estado y durarán en su encargo seis años.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1094.
 
-Los miembros del Patronato deberán reunir las siguientes condiciones:
-
-I.- Ser ciudadanos chihuahuenses;
-
-II.- Tener dieciocho años cumplidos;
-
-III.- Ser de reconocida honorabilidad; y
-
-IV.- No ser miembro de ningún culto ni estar ligados por juramento o promesa a instituciones religiosas.
-
-El Ejecutivo procurará que el Patronato quede integrado por personas bien relacionadas y pertenecientes a diferentes sectores de actividad económico-social.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1095.
 
-El Patronato nombrará y removerá con aprobación del Ejecutivo a los empleados de su dependencia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1096.
 
-Las autoridades locales darán al Patronato las más amplias facilidades para el mejor desempeño de sus funciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1097.
 
-El Patronato puede solicitar a los Servicios de Salud Pública la asesoría de peritos en materia de administración de hospitales para realizar visitas de inspección a los que estén considerados como asistenciales, quienes emitirán su opinión sobre los cambios que deban realizarse y que tiendan a mejorar la calidad de los servicios y a conservar su patrimonio evitando la mala aplicación de los fondos que se manejen.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1098.
 
-Podrán constituirse delegaciones del Patronato que actúen en poblaciones o lugares fuera de la Capital del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1099.
 
-Los miembros del Patronato y los empleados de su dependencia serán considerados como funcionarios o empleados para los efectos de las responsabilidades civiles o criminales en que incurran.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1100.
 
-Forman el patrimonio de la Asistencia Social:
-
-I.- Los legados o donativos que para la asistencia en general o para determinado establecimiento hagan las autoridades, corporaciones o particulares;
-
-II.- El subsidio que el Gobierno del Estado asigne en su presupuesto;
-
-III.- El subsidio con que los Municipios del Estado contribuyan;
-
-IV.- Los impuestos que se consignen por la ley a fines de asistencia;
-
-V.- Las multas que se impongan por la autoridad, siempre que estén destinadas a fines de asistencia; y
-
-VI.- Los demás bienes que adquiera con arreglo a las leyes y que no estén comprendidos en las fracciones anteriores.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1101.
 
-Los actos, acuerdos o contratos en virtud de los cuales se distraigan de su objeto los fondos de la asistencia social, serán nulos y de ningún valor, y las personas que como funcionarios o particulares intervengan directa o indirectamente en semejantes operaciones serán personal y solidariamente responsables con sus bienes propios, del reintegro de los bienes que faltaren, sin perjuicio de la responsabilidad criminal en que incurran por la defraudación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1102.
 
-Son facultades y obligaciones del Patronato de la Asistencia Social del Estado:
-
-I.- La conservación, administración y manejo cuidadoso de los bienes y caudales que forman su patrimonio, así como promover la fundación y fomento de establecimientos de beneficencia pública;
-
-II.- La vigilancia y control administrativo de los centros de asistencia pública, practicando las visitas que se estimen conveniente por uno o varios de sus miembros, a fin de constatar el manejo de los fondos que reciban para garantizar su correcta inversión, quedando además facultado el Patronato para exigir a los directores de estos establecimientos todos los comprobantes relativos a los movimientos contables, ordenando que se practiquen auditorías cuando se estime necesario;
-
-III.- Opinar acerca de las consultas y rendir los informes que solicite el Ejecutivo del Estado;
-
-IV.- Cuidar que se cumpla fiel y exactamente el fin social a que cada establecimiento haya sido dedicado;
-
-V.- Dictaminar cuando una institución deba cambiar de objeto por otro que sea semejante o adaptable a las nuevas necesidades;
-
-VI.- Dictaminar en los casos en que adquiera la Asistencia Social bienes por testamento, intestado o por otro concepto, si éstos pueden dedicarse a un establecimiento de asistencia pública;
-
-VII.- Dictaminar, de acuerdo con las necesidades sociales y las condiciones económicas de la Asistencia, sobre la clausura de un establecimiento;
-
-VIII.- Nombrar al Presidente y Tesorero del Patronato, cuyos nombramientos deberán recaer en algunos de su miembros;
-
-IX.- La discusión y aprobación de los presupuestos de ingresos y egresos de la Asistencia que someta a su consideración el Presidente del Patronato;
-
-X.- La aprobación de contratos de ministración de equipos, abastos, materiales de construcción, instrumentos y útiles de cirugía, medicinas y demás necesarios en cada establecimiento;
-
-XI.- La discusión y aprobación de los proyectos de reglamentos que presente a su consideración el Presidente del Patronato;
-
-XII.- Definir la misión social de cada uno de los establecimientos;
-
-XIII.- Rendir al Ejecutivo del Estado, por conducto de la Tesorería General, cuenta mensual, trimestral o semestral del movimiento de caudales habido durante el período correspondiente, para que el propio Ejecutivo pueda cumplir con la obligación impuesta a su cargo por el artículo 64, fracción VII de la Constitución Política del Estado; y
-
-XIV.- Proporcionar todos los datos, informes y comprobantes que el Ejecutivo solicite directamente o por conducto de los inspectores a que se refiere la fracción XII del artículo 31 de este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1103.
 
-Las decisiones del Patronato se tomaran por mayoría de votos y en caso de empate, el Presidente tendrá voto de calidad. Para que los acuerdos del Patronato sean válidos se necesita cuando menos, la asistencia de tres de sus miembros.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1104.
 
-Son atribuciones del Presidente:
-
-I.- Presidir las sesiones del Patronato de la Asistencia Social del Estado;
-
-II.- Acordar con los directores y administradores de los establecimientos;
-
-III.- Someter al Patronato los asuntos que le corresponda resolver;
-
-IV.- Informar mensualmente al Patronato sobre el estado que guardan los establecimientos y acerca de la situación general de la Asistencia;
-
-V.- Firmar los contratos aprobados por el Patronato;
-
-VI.- Autorizar en unión del Secretario las actas de las juntas;
-
-VII.- Fijar las normas generales para decidir sobre el ingreso de personas en las diferentes instituciones, las que deberán incorporarse a los reglamentos respectivos;
-
-VIII.- Cubrir las órdenes de pago que legalmente se expidan en unión de otro de los miembros del Patronato, quienes firmarán en forma mancomunada;
-
-IX.- Autorizar los gastos que requieran los servicios que tiene a su cargo la Asistencia;
-
-X.- Aprobar los pedidos que se hagan por los establecimientos y tengan carácter de extraordinarios; y
-
-XI.- Someter al Ejecutivo del Estado, previa aceptación del Patronato, el proyecto de los presupuestos de ingresos y egresos, para que el mismo Ejecutivo los someta a la aprobación del Congreso del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1105.
 
-El Patronato tendrá un Secretario que será nombrado y removido por el Patronato mismo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1106.
 
-Son obligaciones del Secretario:
-
-I.- Dar cuenta en las sesiones más próximas, de los escritos y documentos que se reciban para el Patronato;
-
-II.- Levantar y autorizar en unión del Presidente las actas de las sesiones del Patronato;
-
-III.- Proveer lo necesario para que se cumplan los acuerdos del Patronato y del Presidente;
-
-IV.- Todas las demás que le fijen este Código y el reglamento correspondiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1107.
 
-Son facultades y obligaciones del Tesorero supervisar y orientar al Administrador del Patronato en lo concerniente a:
-
-I.- La recaudación y custodia de los bienes, caudales y documentos que constituyan el patrimonio de la Asistencia;
-
-II.- La formulación de las cuentas de ingresos y egresos de la misma Asistencia;
-
-III.- La atención del despacho de todos los asuntos concernientes al manejo de fondos, vigilancia de la actuación de los Directores, Administradores y demás empleados que intervengan en el manejo o distribución de fondos en los diversos establecimientos y campañas asistenciales.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1108.
 
-Los directores de los establecimientos tendrán a su cargo la dirección y responsabilidad técnica y administrativa de los servicios y dictarán las medidas que crean necesarias para el mejor desempeño de las obligaciones de los empleados encargados de ellos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1109.
 
-Los administradores serán auxiliares de los directores y tendrá a su cargo el manejo de todos los servicios y el cuidado de la disciplina y orden de los establecimientos. Serán los encargados de cumplir las órdenes que dicte el Patronato, así como las disposiciones de carácter técnico o administrativo que dicte el director del establecimiento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1110.
 
-Los administradores y directores rendirán un informe mensual al Patronato sobre sus labores y cada año una memoria general sobre ellos, indicando las reformas que crean necesarias.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1111.
 
-Las delegaciones de la Asistencia Social tienen por objeto el fomento y la vigilancia de los establecimientos de asistencia pública en las cabeceras de Municipalidad respectivas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1112.
 
-Las delegaciones se integrarán por tres personas de las cuales dos serán nombradas por el Ejecutivo a propuesta del Patronato y una por el Ayuntamiento respectivo, debiendo reunir las condiciones que para los miembros del Patronato exige el artículo 1094 de este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1113.
 
-Las delegaciones desempeñarán en las Municipalidades del Estado las mismas funciones que este Código encomienda al Patronato de la Asistencia Social del Estado; tendrán las mismas obligaciones y derechos que el Patronato, al cual estarán supeditadas y serán directamente responsables de la marcha administrativa de los centros asistenciales establecidos en su jurisdicción.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1114.
 
-Son causas de responsabilidad de los miembros del Patronato, Secretario y miembros de las delegaciones, así como del personal de la Asistencia Social:
-
-I.- Faltar sin causa justificada a las sesiones;
-
-II.- Demorar indebidamente, por más de quince días los dictámenes o informes sobre los asuntos que se les turnen para su estudio;
-
-III.- Aceptar o exigir de cualquier persona regalos o retribuciones, en efectivo o en especie; por ejercer las funciones de su cargo, o por faltar al cumplimiento de sus obligaciones; y
-
-IV.- Faltar al cumplimiento de las demás obligaciones que les impongan este Código o los reglamentos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1115.
 
-Las responsabilidades que se mencionan en el artículo anterior se harán efectivas en la vía administrativa y las castigará disciplinariamente el Ejecutivo del Estado, salvo el caso de que constituyan una infracción antisocial, pues en este evento serán consignadas a las autoridades competentes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1116.
 
-Los establecimientos de asistencia son para satisfacer necesidades reales y lo harán gratuitamente sólo para los verdaderos indigentes. Los que no lo fueren absolutamente, serán auxiliados en los establecimientos pagando las cuotas de recuperación que señale la institución, por medio de su departamento de Trabajo Social. El Patronato o la delegación correspondiente, tiene facultades para verificar que las exenciones o las cuotas de recuperación estén determinadas de acuerdo a un criterio humanitario y de servicio social.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1117.
 
-Para el régimen interior de los establecimientos, tendrá cada uno de ellos un reglamento que será formulado por el Director y aprobado por el Patronato.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 1118.
 
-Los miembros del Patronato, el Secretario y los miembros de las delegaciones, en atención a los servicios que presten, percibirán la remuneración mensual que fijen los presupuestos de la institución.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 # LIBRO TERCERO. DE LA BENEFICENCIA PRIVADA
 
@@ -10599,11 +10503,11 @@ IX.- Las demás que les otorguen las disposiciones legales relativas.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10729,9 +10633,13 @@ IV.- La duración.
 
 Los predios de las zonas incluidas en los artículos 1495 y 1500 de este Título, se podrán utilizar en forma compatible con su destino o uso previsto, hasta la fecha señalada en que deberán aplicarse dichos predios a los usos y destinos que la autoridad haya determinado.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+DECIMA PRIMERA PARTE
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+#### SECCION QUINTA. DE LA VIVIENDA
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10747,9 +10655,7 @@ En todo lo relativo a la estructura vial y sistema de transporte en el Estado, s
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1504.
 
@@ -10845,9 +10751,9 @@ También se considerarán ilegales la fusión, subdivisión, relotificación y f
 
 En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de Desarrollo Urbano podrá intervenir en coordinación con aquél en la administración de los fraccionamientos, subdivisiones, relotificaciones o fusiones o en las operaciones celebradas con estos motivos.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 1984)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10899,7 +10805,9 @@ Una vez determinados los jefes de familia beneficiados y cubierto el precio, la 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1521.
 
@@ -10941,7 +10849,7 @@ V.- La dotación de servicios públicos como: agua, drenaje, electricidad, recol
 
 Para la construcción de viviendas deberá mediar solicitud del interesado ante el ayuntamiento que satisfaga los requisitos previstos por este Título, el Código Municipal y demás disposiciones aplicables. Los fondos de vivienda y demás organismos e instituciones del sector público, al igual que los particulares están obligados al cumplimiento de las normas legales y reglamentarias que regulen esta materia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 #### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
 
@@ -10987,7 +10895,7 @@ En el caso de que los propietarios o poseedores no cumplan con las obligaciones 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11039,13 +10947,9 @@ V.- Medios para la satisfacción de la demanda; y
 
 VI.- Régimen financiero para la ejecución de la obra.
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-DECIMA PRIMERA PARTE
-
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
-
-### CAPITULO VII. DE LAS CONURBACIONES
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11061,9 +10965,9 @@ Se consideran afectos al patrimonio cultural del Estado: los edificios, monument
 
 Para la conservación del patrimonio a que se refiere el artículo anterior, el plan estatal y los reglamentos de este Título, considerarán las medidas y disposiciones que impiden el menoscabo o la degradación de dicho patrimonio, estableciendo disposiciones que reduzcan el empleo de idiomas, giros y modismos extranjeros, y que excluyan la adopción de estilos arquitectónicos, deformantes de los valores tradicionales de la ciudad.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+### CAPITULO VII. DE LAS CONURBACIONES
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -12980,3 +12884,17 @@ DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 PRIMERO:- Este Decreto entrará en vigor veinte días después de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se deroga la Tercera Parte, Libro Primero, Gobernación, Título Unico, del Registro Civil, Capítulos del I al VI, artículos del 228 al 270 del Código Administrativo del Estado.
+
+P.O. 16 DE SEPTIEMBRE DE 1987.
+
+LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTICULO PRIMERO.
+
+ESTA LEY ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+###### ARTICULO SEGUNDO.
+
+SE DEROGA EL LIBRO SEGUNDO, TÍTULO UNICO, DE LA ASISTENCIA PÚBLICA, CAPÍTULO UNICO, DEL PATRONATO, ARTÍCULOS DEL 1091 AL 1118 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO Y LA FRACCIÓN XIII DEL ARTÍCULO 29 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA.
