@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-sistema-de-seguridad-publica-11919"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-16"
-last_updated: "1996-12-16"
+last_updated: "2005-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11919&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DEL SISTEMA DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE QUINTANA ROO, PUBLICADA EN EL PERIODICO OFICIAL EL 28 DE MARZO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial el 16 de diciembre de 1996.
 
@@ -610,3 +612,27 @@ ING. MARIO E. VILLANUEVA MADRID.
 EL C. SECRETARIO GENERAL DE GOBIERNO.
 
 DR. HECTOR ESQUILIANO SOLIS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 28 DE MARZO DE 2005.
+
+PRIMERO.- Publíquese la presente Ley en el Período Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO.- Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+TERCERO.- Se abroga la Ley del Sistema Estatal de Seguridad Pública del Estado de Quintana Roo, publicada en el Periódico Oficial del Gobierno del Estado, con fecha 16 de Diciembre de 1996, asimismo el Instituto de Profesionalización de la Seguridad Pública del Estado de Quintana Roo, pasará a ser un órgano desconcentrado de la Secretaría de Seguridad Pública, para tal efecto, continuarán siendo aplicables las disposiciones legales establecidas en el Decreto 189, publicado en el Periódico Oficial del Gobierno del Estado en fecha 15 de Febrero de 1999, en todo lo que no se oponga al presente Decreto.
+
+CUARTO.- Se derogan las disposiciones de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, así como todas aquellas disposiciones legales que se opongan a la presente Ley.
+
+QUINTO.- La instalación del Consejo Estatal de Seguridad Pública, a que se refiere el Artículo 40 de esta Ley, se llevará a cabo en un plazo máximo de 30 días naturales, contados a partir del día siguiente de la entrada en vigor de la presente Ley, en dicha instalación se designará, a propuesta del Presidente del Consejo, al Secretario Ejecutivo del Sistema Estatal de Seguridad Pública.
+
+SEXTO.- La instalación de los Consejos Municipales, a que se refiere al Artículo 72 de esta Ley, se llevará a cabo en un plazo máximo de 30 días naturales, contados a partir del día siguiente de la entrada en vigor de la presente Ley.
+
+SÉPTIMO.- El Ejecutivo del Estado expedirá las disposiciones reglamentarias de la presente Ley dentro de los ciento ochenta días naturales siguientes a su publicación, entre tanto, seguirán vigentes los reglamentos aplicables a los Cuerpos de Seguridad Pública, en los que no se opongan a esta Ley.
+
+OCTAVO.- Las personas prestadoras de servicios de seguridad privada en el territorio del Estado de Quintana Roo, que no cuenten con la autorización respectiva, gozarán de un plazo hasta de treinta días naturales improrrogables, contados a partir de la entrada en vigor de esta Ley, para solicitar y obtener la autorización respectiva.
+
+NOVENO.- Los procedimientos para determinar responsabilidades, iniciados con anterioridad a la vigencia de la presente Ley, se terminarán conforme a las disposiciones legales que los motivaron.
+
+DÉCIMO.- Los reglamentos que al efecto se expidan deberán considerar dentro de sus disposiciones, los lineamientos necesarios para que las Autoridades en materia de seguridad pública instrumenten acciones dirigidas a la protección ciudadana.
