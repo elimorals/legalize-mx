@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-16056"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-02-29"
-last_updated: "2001-03-20"
+last_updated: "2004-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de febrero de 2000.
 
@@ -535,9 +535,11 @@ XVIII. Celebrar los convenios o contratos que fueren necesarios en la materia de
 
 XIX. Los demás que expresamente le atribuyan las leyes y reglamentos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 28.
 
-La Secretaría de Desarrollo Social es la dependencia encargada de formular, coordinar, ejecutar y evaluar los programas federales y estatales para el desarrollo social, las acciones de infraestructura que incidan en la vivienda popular en el Estado y lo referente a la regularización de la tenencia de la tierra; es además la encargada de coordinar las acciones de vinculación con organismos de la sociedad civil para el desarrollo de las comunidades; será también la responsable de proyectar y coordinar acciones de vinculación y capacitación para el fomento del empleo; le compete el despacho de los siguientes asuntos:
+La Secretaría de Desarrollo Social es la dependencia encargada de formular, coordinar, ejecutar y evaluar los programas federales y estatales para el desarrollo social, las acciones de mejoramiento que incidan en la vivienda en el Estado y lo referente a la regularización de la tenencia de la tierra; es además la encargada de coordinar las acciones de vinculación con organismos de la sociedad civil para el desarrollo de las comunidades; será también la responsable de proyectar y coordinar acciones de vinculación y capacitación para el fomento del empleo; le compete el despacho de los siguientes asuntos:
 
 I. Formular, conducir y evaluar la política general de desarrollo social del Estado, en coordinación con las dependencias federales y municipales correspondientes, con la participación de los sectores social y privado;
 
@@ -579,13 +581,19 @@ XIX. Realizar, en los diferentes municipios de la entidad, programas con la part
 
 XX. Promover las políticas y estrategias en materia de desarrollo social en los municipios, de acuerdo con los recursos y características económicas, sociales y culturales de las diversas regiones del Estado;
 
-XXI. Promover, fomentar y fortalecer, dentro de su competencia, la organización formal de grupos y sectores sociales a través de comisiones orientadas a estudiar y plantear soluciones alternativas para la vivienda;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2004)</small>
 
-XXII. Formular, promover, concertar y ejecutar programas de construcción y mejoramiento de vivienda, sobre todo los que beneficien a los sectores más necesitados;
+XXI. Promover, fomentar y fortalecer, dentro de su competencia, la organización formal de grupos y sectores sociales a través de comisiones orientadas a estudiar y plantear soluciones alternativas para el desarrollo social en la entidad;
 
-XXIII. Promover y fomentar la organización de sociedades constructoras de vivienda y de materiales de construcción en las comunidades, en coordinación con las dependencias correspondientes;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2004)</small>
 
-XXIV. Someter a decisión del Gobernador del Estado los estudios de expropiación de inmuebles por causa de utilidad pública en aspectos de vivienda;
+XXII. Formular, promover, concertar y ejecutar programas de mejoramiento de la vivienda, que beneficien a los sectores más necesitados;
+
+XXIII. (DEROGADA, P.O. 15 DE JUNIO DE 2004)
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2004)</small>
+
+XXIV. Someter a la decisión del Gobernador del Estado los estudios de expropiación de inmuebles por causa de utilidad pública en aspectos para la regularización de la tenencia de la tierra, conforme a las disposiciones aplicables;
 
 XXV. Dar cumplimiento a los ordenamientos que facultan al Gobierno del Estado para regularizar la tenencia de la tierra;
 
@@ -595,7 +603,13 @@ XXVII. Atender y apoyar a las instituciones públicas de beneficencia, así como
 
 XXVIII. Coordinar una política integral de promoción del empleo, que contemple la capacitación para el trabajo y la vinculación con el sector productivo, en coordinación con la autoridad federal correspondiente; y
 
-XXIX. Los demás que le encomienden expresamente las leyes y reglamentos.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2004)</small>
+
+XXIX. Realizar, en coordinación con los municipios de la entidad, acciones para la infraestructura urbana como son de electrificación, alumbrado público y de nomenclatura; de infraestructura vial en colonias densamente pobladas y de imagen urbana y demás que incidan en beneficio de los habitantes de colonias populares.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2004)</small>
+
+XXX. Los demás que le encomienden expresamente las leyes y reglamentos.
 
 ###### ARTICULO 29.
 
@@ -1014,3 +1028,9 @@ Dentro del plazo de un año contado a partir de la entrada en vigor de este decr
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas las disposiciones en contrario.
+
+P.O. 15 DE JUNIO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las previstas en este decreto.
