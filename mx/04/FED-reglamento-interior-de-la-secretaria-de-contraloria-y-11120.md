@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-contraloria-y-11120"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-07-16"
-last_updated: "2001-07-16"
+last_updated: "2001-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-07-12"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE CONTRALORIA Y DESARROLLO ADMINISTRATIVO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE NOVIEMBRE DE 2001.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el lunes 16 de julio de 2001.
 
@@ -39,9 +39,13 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE CONTRALORÍA Y DESARROLLO ADMINISTRATIV
 
 La Secretaría de Contraloría y Desarrollo Administrativo como dependencia del Poder Ejecutivo Federal, tiene a su cargo el desempeño de las atribuciones y facultades que le encomiendan la Ley Orgánica de la Administración Pública Federal; la Ley Federal de Responsabilidades de los Servidores Públicos; la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; la Ley de Obras Públicas y Servicios Relacionados con las Mismas; la Ley General de Bienes Nacionales y otras leyes, reglamentos, decretos, acuerdos y órdenes del Presidente de la República.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 2.
 
 Al frente de la Secretaría de Contraloría y Desarrollo Administrativo estará el Secretario del Despacho, quien para el desahogo de los asuntos de su competencia se auxiliará de las unidades administrativas, el órgano desconcentrado y los servidores públicos siguientes:
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
 A. Unidades Administrativas:
 
@@ -49,17 +53,17 @@ I. Subsecretaría de Control y Auditoría de la Gestión Pública;
 
 II. Subsecretaría de Atención Ciudadana y Normatividad;
 
-III. Oficialía Mayor;
+III. Subsecretaría de Desarrollo y Simplificación Administrativa;
 
-IV. Secretaría Ejecutiva de la Comisión Intersecretarial para la Transparencia y el Combate a la Corrupción en la Administración Pública Federal;
+IV. Oficialía Mayor;
 
-V. Coordinación General de Órganos de Vigilancia y Control;
+V. Secretaría Ejecutiva de la Comisión Intersecretarial para la Transparencia y el Combate a la Corrupción en la Administración Pública Federal;
 
-VI. Unidad de Asuntos Jurídicos;
+VI. Coordinación General de Órganos de Vigilancia y Control;
 
-VII. Unidad de Servicios Electrónicos Gubernamentales;
+VII. Unidad de Asuntos Jurídicos;
 
-VIII. Unidad de Desarrollo Administrativo;
+VIII. Unidad de Servicios Electrónicos Gubernamentales;
 
 IX. Unidad de Vinculación para la Transparencia;
 
@@ -97,43 +101,59 @@ XVI. Dirección General de Responsabilidades y Situación Patrimonial;
 
 XVI.1 Dirección General Adjunta de Responsabilidades;
 
-XVI.1.1 Dirección de Verificación, y
+XVI.1.1 Dirección de Responsabilidades;
 
-XVI.1.2 Dirección de Responsabilidades;
+XVI.2 Dirección General Adjunta de Verificación;
 
-XVI.2 Dirección General Adjunta de Evolución Patrimonial;
+XVI.2.1 Dirección de Verificación;
 
-XVI.2.1 Dirección de Evolución Patrimonial "A", y
+XVI.3 Dirección General Adjunta de Registro y Evolución Patrimonial;
 
-XVI.2.2 Dirección de Evolución Patrimonial "B";
-
-XVI.3 Dirección General Adjunta de Registro Patrimonial;
-
-XVI.3.1 Dirección de Registro Patrimonial, y
+XVI.3.1 Dirección de Registro Patrimonial;
 
 XVI.3.2 Dirección de Procedimientos de Registro Patrimonial;
 
+XVI.3.3 Dirección de Evolución Patrimonial "A", y
+
+XVI.3.4 Dirección de Evolución Patrimonial "B";
+
 XVII. Dirección General de Inconformidades;
 
-XVIII. Dirección General de Programación y Presupuesto;
+XVIII. Dirección General de Simplificación Regulatoria;
 
-XIX. Dirección General de Modernización Administrativa y Procesos;
+XIX. Dirección General de Eficiencia Administrativa;
 
-XX. Dirección General de Administración;
+XX. Dirección General de Análisis de Estructuras y Profesionalización del Servicio Público;
 
-XXI. Dirección General de Informática, y
+XXI. Dirección General de Programación y Presupuesto;
 
-XXII. Coordinación de Visitadurías de Atención Ciudadana, Responsabilidades e Inconformidades;
+XXII. Dirección General de Modernización Administrativa y Procesos;
+
+XXIII. Dirección General de Administración;
+
+XXIV. Dirección General de Informática, y
+
+XXV. Coordinación de Visitadurías de Atención Ciudadana, Responsabilidades e Inconformidades;
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
 B. Órgano Administrativo Desconcentrado:
 
 I. Comisión de Avalúos de Bienes Nacionales;
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
 C. Coordinadores de Sector de los Órganos de Vigilancia y Control;
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
 D. Delegados y Comisarios Públicos;
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
 E. Titulares de Órganos Internos de Control y de sus respectivas áreas de auditoría, quejas y responsabilidades, y
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
 F. Supervisores Regionales.
 
@@ -205,7 +225,9 @@ XXIII. Establecer y presidir las comisiones internas que sean necesarias para el
 
 XXIV. Resolver las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento y sobre los casos no previstos en el mismo;
 
-XXV. Designar al servidor público encargado provisionalmente del despacho de los asuntos en tanto se designa al servidor público correspondiente, en el caso de las vacantes de los Subsecretarios y del Oficial Mayor, y
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+XXV. Designar al servidor público encargado provisionalmente del despacho de los asuntos en tanto se designa al servidor público correspondiente, en el caso de las vacantes de los Subsecretarios, del Oficial Mayor y del Contralor Interno, y
 
 XXVI. Las demás que con tal carácter le atribuyan expresamente las disposiciones legales y reglamentarias o le encomiende el Presidente de la República.
 
@@ -353,9 +375,7 @@ II. Formular, revisar y someter a la consideración del Titular del Ramo, los an
 
 III. Representar legalmente al Secretario en los procedimientos administrativos y jurisdiccionales en que se requiera su intervención;
 
-IV. Asesorar jurídicamente a las unidades administrativas de la Secretaría y a sus órganos
-
-desconcentrados, actuar como órgano de consulta y realizar los estudios e investigaciones jurídicos que requiera el desarrollo de las atribuciones de la Secretaría;
+IV. Asesorar jurídicamente a las unidades administrativas de la Secretaría y a sus órganos desconcentrados, actuar como órgano de consulta y realizar los estudios e investigaciones jurídicos que requiera el desarrollo de las atribuciones de la Secretaría;
 
 V. Compilar y promover la difusión de las normas jurídicas relacionadas con las funciones de la Secretaría;
 
@@ -403,35 +423,7 @@ X. Las demás que le atribuya expresamente el Titular de la Secretaría. La Unid
 
 ###### ARTÍCULO 13.
 
-La Unidad de Desarrollo Administrativo tendrá las siguientes atribuciones:
-
-I. Participar con las dependencias y entidades de la Administración Pública Federal y las unidades administrativas competentes de la Secretaría, en la formulación y ejecución de los programas a cargo de la Secretaría que deriven del Plan Nacional de Desarrollo;
-
-II. Proponer a la superioridad los lineamientos que deberán observar las dependencias y entidades de la Administración Pública Federal en materia de desarrollo administrativo integral, a fin de que los recursos humanos, patrimoniales y los procedimientos técnicos de la misma sean aprovechados y aplicados con criterios de eficiencia, buscando en todo momento la eficacia, descentralización y simplificación administrativa;
-
-III. Integrar con la participación de las demás unidades administrativas competentes de la Secretaría, la opinión sobre los proyectos de normas que elabore la Secretaría de Hacienda y Crédito Público sobre administración de recursos humanos, de conformidad con lo dispuesto por la fracción IX del artículo 37 de la Ley Orgánica de la Administración Pública Federal, y colaborar con ésta en el desarrollo de herramientas metodológicas en dicha materia;
-
-IV. Autorizar, conjuntamente con la Secretaría de Hacienda y Crédito Público en el ámbito de sus respectivas competencias, las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Federal y sus modificaciones, así como registrar dichas estructuras y operar el sistema de información correspondiente;
-
-V. Realizar, con la participación de otras áreas de la Secretaría y en coordinación con las dependencias y entidades de la Administración Pública Federal, estudios y programas para el mejoramiento de la gestión gubernamental, la simplificación y automatización de trámites y procesos, y la descentralización y desconcentración de funciones;
-
-VI. Diseñar y promover la adopción de medidas y programas que conduzcan al incremento permanente de la productividad en dependencias y entidades y estimulen la capacitación y la vocación de servicio de los servidores públicos, a efecto de que sean aprovechadas y aplicadas con criterios de eficiencia, buscando en todo momento la eficacia;
-
-VII. Establecer con la participación de otras unidades administrativas de la Secretaría y las dependencias y entidades de la Administración Pública Federal que correspondan, los criterios para formular los programas de incentivos al cumplimiento de objetivos, por parte de los servidores públicos. Cuando dichos incentivos impliquen afectaciones al presupuesto, éstos se determinarán conforme a las políticas y normas que establezca la Secretaría de Hacienda y Crédito Público;
-
-VIII. Prestar asesoría en materia de desarrollo administrativo a las dependencias y entidades de la Administración Pública Federal;
-
-IX. Diseñar, coordinar y supervisar el Sistema de Evaluación del Desarrollo Administrativo de la Administración Pública Federal, a fin de coadyuvar al cumplimiento del o los programas competencia de la Secretaría que deriven del Plan Nacional de Desarrollo con la participación de otras áreas administrativas de la Secretaría, y en coordinación con las dependencias y entidades de la Administración Pública Federal, estableciendo metas y objetivos de servicio de las unidades administrativas de las propias dependencias y entidades, y evaluando su cumplimiento;
-
-X. Determinar los métodos y modelos para la evaluación del desempeño en los servicios que prestan a la ciudadanía las dependencias y entidades;
-
-XI. Realizar por cuenta propia o a través de terceros, estudios de medición de resultados de los objetivos de las dependencias y entidades de la Administración Pública Federal, así como del desempeño de sus unidades administrativas, con base en los parámetros previamente especificados y concertados;
-
-XII. Dar seguimiento a los programas de desarrollo administrativo de la Administración Pública Federal, así como captar y difundir en coordinación con la Unidad de Vinculación para la Transparencia, los resultados del proceso de desarrollo administrativo de las dependencias y entidades;
-
-XIII. Coordinar conjuntamente con la Secretaría de Hacienda y Crédito Público, el mejoramiento y simplificación de las disposiciones jurídico administrativas que regulan la operación interna de la Administración Pública Federal, y
-
-XIV. Las demás que le atribuya expresamente el Titular de la Secretaría.
+(DEROGADO, D.O.F. 29 DE NOVIEMBRE DE 2001)
 
 ###### ARTÍCULO 14.
 
@@ -461,45 +453,75 @@ X. Las demás que le atribuya expresamente el Titular de la Secretaría.
 
 La Unidad de Control y Evaluación de la Gestión Pública tendrá las siguientes atribuciones:
 
-I. Diseñar, organizar y coordinar la implantación del sistema de control y evaluación de la gestión gubernamental, para dar seguimiento y evaluar el ejercicio del gasto público federal y el cumplimiento de los planes, programas, metas y proyectos de inversión de las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal, así como de la Procuraduría General de la República;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+I. Establecer, organizar y coordinar el sistema de control y evaluación de la gestión gubernamental, para dar seguimiento y evaluar el ejercicio del gasto público federal y el cumplimiento de los planes, programas, metas y proyectos de inversión de las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal, así como de la Procuraduría General de la República;
 
 II. Establecer sistemas de seguimiento y evaluación de la observancia de las disposiciones legales, reglamentarias y administrativas aplicables en materia de planeación, programación y presupuesto; administración de recursos humanos, financieros y materiales, y de adquisición de bienes, contratación de servicios y de obras públicas, con la participación que corresponda a otras unidades de la Secretaría;
 
-III. Proponer a la superioridad para efectos de lo dispuesto en la fracción anterior, la emisión de normas de carácter general, lineamientos y políticas que rijan el funcionamiento del sistema integral de control y evaluación de la gestión gubernamental en las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal, así como en la Procuraduría General de la República;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-IV. Integrar los informes del Sistema de Información Directiva que deben elaborarse periódicamente para el Secretario y presentarse al Ejecutivo Federal conteniendo la evaluación de la gestión de las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal, así como de la Procuraduría General de la República;
+III. Proponer a la superioridad para efectos de lo dispuesto en la fracción anterior, la emisión de normas de carácter general, lineamientos y políticas que rijan el funcionamiento del sistema de control y evaluación de la gestión gubernamental en las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal, así como en la Procuraduría General de la República;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+IV. Operar el Sistema de Información Directiva, incorporando la información relevante y estratégica que generen las unidades administrativas competentes de la Secretaría, en los documentos que periódicamente se presentan al Titular de la Secretaría y a la Presidencia de la República, conteniendo la evaluación de la gestión de las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal, así como de la Procuraduría General de la República;
 
 V. Ser el conducto de la Secretaría para coordinar, en materia de control y evaluación, las relaciones entre el Ejecutivo Federal y las entidades paraestatales;
 
-VI. Coordinar, con la participación de otras unidades de la Secretaría, la formulación de los programas anuales de control y auditoría de los órganos internos de control de las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal, así como de la Procuraduría General de la República, estableciendo mecanismos de seguimiento y evaluación periódica;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-VII. Fundamentar las opiniones que la Secretaría deba rendir de acuerdo a lo dispuesto en el artículo 5, fracciones XVII y XVIII de este Reglamento, así como elaborar la propuesta correspondiente, con la participación que les corresponda a otras unidades administrativas de la Secretaría y sus órganos desconcentrados;
+VI. Coordinar, con la participación de otras unidades administrativas de la Secretaría, la formulación de los programas anuales de control y auditoría de los órganos internos de control de las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y de la Procuraduría General de la República, así como autorizar y registrar dichos programas y establecer los mecanismos de control y evaluación para su adecuado funcionamiento;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+VII. Fundamentar las opiniones que la Secretaría deba rendir de acuerdo a lo dispuesto en el artículo 5, fracciones XVII y XVIII de este Reglamento, así como elaborar la propuesta correspondiente, con la participación que les corresponda a otras unidades administrativas de la Secretaría y a sus órganos desconcentrados, en lo relativo a los proyectos de normas de contabilidad y de control en materia de programación y presupuestación, de recursos financieros, contratación de deuda y manejo de fondos y valores que formule la Secretaría de Hacienda y Crédito Público;
 
 VIII. Proponer a la superioridad, con la participación de las demás unidades administrativas competentes de la Secretaría, las normas de carácter general para el mejor control y fiscalización de la gestión de las dependencias y entidades de la Administración Pública Federal, y de la Procuraduría General de la República, y comunicar lo conducente a la Coordinación General de Órganos de Vigilancia y Control;
 
-IX. Participar con la Coordinación General de Órganos de Vigilancia y Control, y con otras unidades administrativas involucradas de la Secretaría, en la definición de los perfiles profesionales y evaluación de los candidatos a titulares de los órganos internos de control en las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal, y en la Procuraduría General de la República, así como los de las áreas de auditoría, quejas y responsabilidades de dichos órganos;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+IX. Participar con la Coordinación General de Órganos de Vigilancia y Control, y con otras unidades administrativas involucradas de la Secretaría, en la definición de los perfiles profesionales y evaluación de los candidatos a titulares de los órganos internos de control en las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal, y en la Procuraduría General de la República, así como los de las áreas de auditoría interna y de auditoría de control y evaluación, quejas y responsabilidades de dichos órganos;
 
 X. Establecer comunicación permanente con la Coordinación General de Órganos de Vigilancia y Control, con el objeto de definir los reportes que deberán rendir a la Unidad, los delegados y comisarios públicos sobre los resultados de la gestión pública de las dependencias y entidades y de la Procuraduría General de la República;
 
-XI. Integrar los informes consolidados de control y evaluación de la gestión pública;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+XI. Integrar los informes consolidados de los resultados de auditoría, control y evaluación de la gestión pública, con base en los reportes que rindan a la Unidad las unidades administrativas competentes de la Secretaría;
 
 XII. Con base en los informes de los órganos internos de control de las dependencias, órganos desconcentrados y entidades, así como de la Procuraduría General de la República, llevar el control, seguimiento y evaluación, mediante el sistema de información periódica, de la atención de las observaciones que realicen los diversos órganos de vigilancia, control y fiscalización del Ejecutivo Federal y del Poder Legislativo, así como de los auditores externos designados;
 
-XIII. Proporcionar a los delegados y comisarios públicos de la Secretaría, a las unidades administrativas de la propia Secretaría y a los titulares de los órganos internos de control en las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal, y en la Procuraduría General de la República, el apoyo, los informes, asesoría y capacitación que necesiten en materia de control, fiscalización, seguimiento y evaluación de la gestión pública;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+XIII. Proporcionar a los delegados y comisarios públicos de la Secretaría, a las unidades administrativas de ésta y a los órganos internos de control en las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y en la Procuraduría General de la República, el apoyo, los informes, asesoría y capacitación que necesiten en materia de control, fiscalización, seguimiento y evaluación de la gestión pública;
 
 XIV. Coordinar con las demás unidades administrativas de la Secretaría, los procedimientos que permitan proporcionar la información y prestar la colaboración que deba ofrecerle a la Auditoría Superior de la Federación de la Cámara de Diputados, de conformidad con los lineamientos y políticas que establezca la superioridad;
 
-XV. Participar directamente en las sesiones ordinarias y extraordinarias de los Comités de Control y Auditoría (COCOAS) y Comités de Control Interno (COCOIS) en las dependencias, órganos desconcentrados y entidades paraestatales de la Administración Pública Federal, así como en la Procuraduría General de la República, y
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-XVI. Las demás que le atribuya expresamente el Titular de la Secretaría.
+XV. Participar directamente en las sesiones ordinarias y extraordinarias de los Comités de Control y Auditoría (COCOAS) y Comités de Control Interno (COCOIS) en las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal, así como en la Procuraduría General de la República;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+XVI. Coordinar, con la participación de las unidades administrativas competentes de la Secretaría, la integración de las opiniones sobre los asuntos a tratar en el seno de la Comisión Intersecretarial de Gasto Financiamiento y establecer el mecanismo para su seguimiento;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+XVII. Participar, en coordinación con las demás unidades administrativas competentes de la Secretaría, en los proyectos y programas que soliciten las Oficinas y Comisiones de la Presidencia de la República y, en su caso, diseñar y operar los mecanismos de control y seguimiento a que haya lugar, y
+
+XVIII. Las demás que le atribuya expresamente el Titular de la Secretaría.
 
 ###### ARTÍCULO 16.
 
 La Unidad de Auditoría Gubernamental tendrá las siguientes atribuciones:
 
-I. Proponer a la superioridad las bases para la realización de auditorías de tipo contable, financiero, legal, operacional y de cualquier otra naturaleza, fijando los programas generales de dichas auditorías;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-II. Realizar en forma directa, por iniciativa de la propia Secretaría, de la Secretaría de Hacienda y Crédito Público o de las coordinadoras sectoriales correspondientes, las auditorías en las dependencias y entidades de la Administración Pública Federal y en la Procuraduría General de la República, a fin de promover la eficacia en su gestión, propiciar la consecución de los objetivos contenidos en sus programas, y a efecto de:
+I. Proponer al Secretario un programa anual de auditorías y visitas de inspección a las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y a la Procuraduría General de la República;
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+II. Ordenar y realizar en forma directa, por iniciativa de la propia Secretaría, de la Secretaría de Hacienda y Crédito Público o de las coordinadoras sectoriales correspondientes, las auditorías en las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y en la Procuraduría General de la República, a fin de promover la eficacia en su gestión, propiciar la consecución de los objetivos contenidos en sus programas, y a efecto de:
 
 1. Verificar que sus actos, tanto sustantivos como de apoyo administrativo, se ajusten a lo establecido en las disposiciones legales aplicables en el despacho de sus respectivas competencias;
 
@@ -519,63 +541,103 @@ III. Inspeccionar y vigilar que los órganos internos de control cumplan con las
 
 3. Verificar que los informes y/o documentos de auditoría se elaboren conforme a la metodología y técnica aplicables;
 
-IV. Analizar el contenido de los informes derivados de la práctica de auditorías a las dependencias y entidades de la Administración Pública Federal, así como a la Procuraduría General de la República y conforme a sus resultados, proponer a las autoridades competentes las acciones que sean pertinentes;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+IV. Analizar el contenido de los informes derivados de la práctica de auditorías a las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal, así como a la Procuraduría General de la República y conforme a sus resultados, proponer a las autoridades competentes las acciones que sean pertinentes;
 
 V. Dar vista de las investigaciones y auditorías que se hubieren practicado, y remitir los expedientes y constancias relativos si de las mismas se detectan presuntas responsabilidades de los servidores públicos a los órganos internos de control de las dependencias y entidades de la Administración Pública Federal y de la Procuraduría General de la República y, en su caso, a la Dirección General de Responsabilidades y Situación Patrimonial, para la imposición y aplicación de sanciones en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos y demás disposiciones legales aplicables.
 
 Hacer del conocimiento del área jurídica de la Secretaría, o del titular del órgano interno de control en la dependencia o entidad respectiva, o en la Procuraduría General de la República, los hechos de que tengan conocimiento y que puedan ser constitutivos de delitos imputables a los servidores públicos para los efectos a que hubiere lugar;
 
-VI. Designar a los auditores externos de las entidades paraestatales, así como controlar y evaluar su actuación;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-VII. Efectuar a solicitud de la Dirección General de Operación Regional y Contraloría Social, auditorías a fondos federales en programas coordinados con estados y municipios, a cuyo efecto podrá auxiliarse de los servicios técnicos que en esta materia prestan personas físicas o morales independientes;
+VI. Designar, conforme a los procedimientos de selección correspondientes, a los auditores externos, así como controlar y evaluar su actuación;
+
+VII. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2001)
 
 VIII. Proponer a la superioridad los sistemas y procedimientos a que deba sujetarse la vigilancia de fondos y valores del Gobierno Federal, así como evaluar sus resultados;
 
-IX. Coordinar acciones con la Unidad de Control y Evaluación de la Gestión Pública y la Coordinación General de Órganos de Vigilancia y Control, a efecto de que los órganos internos de control de las dependencias y entidades y de la Procuraduría General de la República coadyuven en la realización de auditorías específicas;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-X. Captar los avisos sobre los resultados de la supervisión relativa a la impresión, envío, custodia y destrucción de valores, así como la acuñación de moneda, para los efectos legales a que hubiere lugar;
+IX. Coordinar acciones con la Unidad de Control y Evaluación de la Gestión Pública y la Coordinación General de Órganos de Vigilancia y Control, a efecto de que los órganos internos de control de las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y de la Procuraduría General de la República coadyuven en la realización de auditorías específicas;
 
-XI. Autorizar los Programas Anuales de Auditorías y el Programa Anual de Capacitación del Personal de Auditores de la Unidad;
+X. (DEROGADOA, D.O.F. 29 DE NOVIEMBRE DE 2001)
 
-XII. Expedir las certificaciones que se requieran de cualquier documentación derivada de las investigaciones y auditorías que realice, que obren en los archivos de la dependencia, órgano desconcentrado o entidad de la Administración Pública Federal o de la Procuraduría General de la República objeto de la investigación o auditoría, y
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-XIII. Las demás que le atribuya expresamente el Titular de la Secretaría, así como las que competen a sus unidades administrativas subalternas.
+XI. Autorizar el Programa Anual de Capacitación del Personal de Auditores de la Unidad;
 
-El jefe de grupo del personal comisionado a cada auditoría, adscrito a la Unidad de Auditoría Gubernamental, y responsable de efectuar las investigaciones y auditorías, tendrá la atribución a que se refiere la fracción XII de este artículo con referencia a los asuntos que le sean encomendados.
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+XII. Expedir las certificaciones que se requieran de cualquier documentación a la que tenga acceso con motivo de la práctica de las investigaciones y auditorías que realice y que obren en los archivos de la dependencia, órgano desconcentrado o entidad de la Administración Pública Federal correspondiente, o de la Procuraduría General de la República;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+XIII. Requerir cuando lo estime conveniente para el cumplimiento de sus atribuciones, información y documentación a las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal, a la Procuraduría General de la República y a los órganos internos de control, así como solicitar los datos e informes que requiera a proveedores y contratistas, en los términos de las disposiciones legales aplicables, y
+
+XIV. Las demás que le atribuya expresamente el Titular de la Secretaría, así como las que competen a sus unidades administrativas subalternas.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+El jefe de grupo del personal comisionado a cada auditoría, adscrito a la Unidad de Auditoría Gubernamental, y responsable de efectuar las investigaciones y auditorías, tendrá las atribuciones a que se refieren las fracciones XII y XIII de este artículo con referencia a los asuntos que le sean encomendados.
 
 ###### ARTÍCULO 17.
 
 La Dirección General Adjunta de Auditorías Directas tendrá las siguientes atribuciones:
 
-I. Elaborar y presentar a consideración del Titular de la Unidad de Auditoría Gubernamental, las propuestas de bases para la realización de auditorías de tipo contable, financiero, legal, operacional y de cualquier otra naturaleza, así como de los programas generales de dichas auditorías;
+I. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2001)
 
-II. Ordenar la práctica de auditorías a las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y a la Procuraduría General de la República, así como a la Dirección General de Vigilancia de Fondos y Valores de la Secretaría de Hacienda y Crédito Público, y comisionar al personal que habrá de realizarlas, con el fin de comprobar el cumplimiento de las disposiciones legales y normativas aplicables;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+II. Ordenar la práctica de auditorías a las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y a la Procuraduría General de la República, y comisionar al personal que habrá de realizarlas, con el fin de comprobar el cumplimiento de las disposiciones legales y normativas aplicables;
 
 III. Revisar y, en su caso, autorizar los informes de resultados de las auditorías que lleve a cabo, así como presentarlos al Titular de la Unidad de Auditoría Gubernamental, a fin de que se emitan las recomendaciones procedentes o se turnen a las autoridades competentes cuando se deriven presuntas responsabilidades de servidores públicos;
 
-IV. Dar seguimiento a las observaciones determinadas en las auditorías practicadas a las dependencias, órganos desconcentrados y entidades y a la Procuraduría General de la República, hasta su total solventación;
+IV. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2001)
 
-V. Elaborar y evaluar el Programa Anual de Auditorías de la Unidad de Auditoría Gubernamental e informar a ésta sobre los avances del mismo, así como de las actividades que desempeñan las unidades administrativas de la propia Unidad;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-VI. Diseñar y coordinar el Programa Anual de Capacitación del Personal de Auditores de la Unidad de Auditoría Gubernamental;
+V. Elaborar e integrar el Programa Anual de Auditorías de la Unidad de Auditoría Gubernamental e informar a ésta sobre los avances del mismo, así como de las actividades que desempeñan las unidades administrativas de la propia Unidad;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+VI. Integrar y coordinar el Programa Anual de Capacitación del Personal de Auditores de la Unidad de Auditoría Gubernamental;
 
 VII. Establecer los criterios y formatos para la integración de información estadística, así como proporcionar los resultados y evaluaciones de las actividades de la Unidad de Auditoría Gubernamental que solicite su titular, la Oficialía Mayor o la Contraloría Interna;
 
 VIII. Emitir los dictámenes técnicos y contables que le soliciten la Unidad de Asuntos Jurídicos y la Dirección General de Responsabilidades y Situación Patrimonial;
 
-IX. Expedir las certificaciones que se requieran de cualquier documentación derivada de las investigaciones y auditorías que realice, que obren en los archivos de la dependencia, órgano desconcentrado o entidad de la Administración Pública Federal o de la Procuraduría General de la República objeto de la investigación o auditoría, y
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-X. Las demás que le atribuya expresamente el Titular de la Secretaría.
+IX. Expedir, previo cotejo, copias certificadas de los documentos que obren en sus archivos.
 
-El jefe de grupo del personal comisionado a cada auditoría, adscrito a la Dirección General Adjunta de Auditorías Directas, y responsable de efectuar las investigaciones y auditorías, tendrá la atribución a que se refiere la fracción IX de este artículo con referencia a los asuntos que le sean encomendados.
+De igual forma, expedir las certificaciones que se requieran de cualquier documentación a la que tenga acceso con motivo de la práctica de las investigaciones y auditorías que realice y que obren en los archivos de la dependencia, órgano desconcentrado o entidad de la Administración Pública Federal correspondiente, o de la Procuraduría General de la República;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+X. Colaborar con la Dirección General Adjunta de Auditorías Especiales, en la formulación de los programas, guías e instructivos que establezcan las disposiciones legales y administrativas aplicables para la planeación, programación, inicio, desarrollo y conclusión de las auditorías;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+XI. Requerir cuando lo estime conveniente para el cumplimiento de sus funciones, información y documentación a las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal, a la Procuraduría General de la República y a los órganos internos de control, así como solicitar los datos e informes que requiera a proveedores y contratistas, en los términos de las disposiciones legales aplicables, y
+
+XII. Las demás que le atribuya expresamente el Titular de la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+El jefe de grupo del personal comisionado a cada auditoría, adscrito a la Dirección General Adjunta de Auditorías Directas, y responsable de efectuar las investigaciones y auditorías, tendrá las atribuciones a que se refieren las fracciones IX, segundo párrafo y XI de este artículo con referencia a los asuntos que le sean encomendados.
 
 ###### ARTÍCULO 18.
 
 La Dirección General Adjunta de Auditorías Especiales tendrá las siguientes atribuciones:
 
-I. Elaborar propuestas para la integración del Programa Anual de Auditorías Especiales;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-II. Ordenar la práctica de auditorías a las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y a la Procuraduría General de la República, así como a la Dirección General de Vigilancia de Fondos y Valores de la Secretaría de Hacienda y Crédito Público, y comisionar al personal que habrá de realizarlas, con el fin de comprobar el cumplimiento de las disposiciones legales y normativas aplicables. Asimismo, verificar en los órganos internos de control y de manera selectiva que:
+I. Proponer auditorías para integrar el Programa Anual de Auditorías de la Unidad de Auditoría Gubernamental;
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+II. Ordenar la práctica de auditorías a las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y a la Procuraduría General de la República, y comisionar al personal que habrá de realizarlas, con el fin de comprobar el cumplimiento de las disposiciones legales y normativas aplicables. Asimismo, verificar en los órganos internos de control y de manera selectiva que:
 
 1. Las auditorías que realicen, se efectúen con cuidado y diligencia razonable;
 
@@ -585,7 +647,9 @@ II. Ordenar la práctica de auditorías a las dependencias, órganos desconcentr
 
 III. Revisar y, en su caso, autorizar los informes de resultados de las auditorías que lleve a cabo, así como presentarlos a la Unidad de Auditoría Gubernamental, a fin de que se emitan las recomendaciones procedentes o se turnen a las autoridades competentes cuando se deriven presuntas responsabilidades de servidores públicos;
 
-IV. Dar seguimiento a las observaciones determinadas de las auditorías practicadas a las dependencias, órganos desconcentrados y entidades y a la Procuraduría General de la República, hasta su total solventación;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+IV. Dar seguimiento a las observaciones determinadas en las visitas realizadas a los órganos internos de control practicadas a las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y a la Procuraduría General de la República, hasta su total solventación;
 
 V. Formular, en coordinación con las unidades administrativas competentes de la Secretaría, los programas, guías e instructivos que establezcan las disposiciones legales y administrativas aplicables, para la planeación, programación, inicio, desarrollo y conclusión de todos los tipos de auditoría;
 
@@ -593,19 +657,35 @@ VI. Llevar el control de los asuntos de la Unidad de Auditoría Gubernamental y 
 
 VII. Emitir, en el ámbito de su competencia, los dictámenes técnicos y contables que le soliciten la Unidad de Asuntos Jurídicos y la Dirección General de Responsabilidades y Situación Patrimonial;
 
-VIII. Expedir las certificaciones que se requieran de cualquier documentación derivada de las investigaciones y auditorías que realice, que obren en los archivos de la dependencia, órgano desconcentrado o entidad de la Administración Pública Federal o de la Procuraduría General de la República objeto de la investigación o auditoría, y
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-IX. Las demás que le atribuya expresamente el Titular de la Secretaría.
+VIII. Expedir, previo cotejo, copias certificadas de los documentos que obren en sus archivos.
 
-El jefe de grupo del personal comisionado a cada auditoría, adscrito a la Dirección General Adjunta de Auditorías Especiales, y responsable de efectuar las investigaciones y auditorías, tendrá la atribución a que se refiere la fracción VIII de este artículo con referencia a los asuntos que le sean encomendados.
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+De igual forma, expedir las certificaciones que se requieran de cualquier documentación a la que tenga acceso con motivo de la práctica de las investigaciones y auditorías que realice y que obren en los archivos de la dependencia, órgano desconcentrado o entidad de la Administración Pública Federal correspondiente, o de la Procuraduría General de la República;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+IX. Requerir cuando lo estime conveniente para el cumplimiento de sus funciones, información y documentación a las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal, a la Procuraduría General de la República y a los órganos internos de control, así como solicitar los datos e informes que requiera a proveedores y contratistas, en los términos de las disposiciones legales aplicables, y
+
+X. Las demás que le atribuya expresamente el Titular de la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+El jefe de grupo del personal comisionado a cada auditoría, adscrito a la Dirección General Adjunta de Auditorías Especiales, y responsable de efectuar las investigaciones y auditorías, tendrá las atribuciones a que se refieren las fracciones VIII, segundo párrafo y IX de este artículo con referencia a los asuntos que le sean encomendados.
 
 ###### ARTÍCULO 19.
 
 La Dirección General Adjunta de Auditorías a Adquisiciones, Fondos y Valores tendrá las siguientes atribuciones:
 
-I. Elaborar propuestas para la integración del Programa Anual de Auditorías a Adquisiciones, Fondos y Valores;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-II. Ordenar la práctica de auditorías a las dependencias, órganos desconcentrados y entidades y a la Procuraduría General de la República, así como a la Dirección General de Vigilancia de Fondos y Valores de la Secretaría de Hacienda y Crédito Público, y comisionar al personal que habrá de realizarlas, con el fin de comprobar el cumplimiento de las disposiciones legales y normativas aplicables;
+I. Proponer auditorías de adquisiciones, fondos y valores, para integrarse en el Programa Anual de Auditorías de la Unidad de Auditoría Gubernamental;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+II. Ordenar la práctica de auditorías a las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y a la Procuraduría General de la República, y comisionar al personal que habrá de realizarlas, con el fin de comprobar el cumplimiento de las disposiciones legales y normativas aplicables;
 
 III. Colaborar con la Dirección General Adjunta de Auditorías Especiales, en la formulación de los programas, guías e instructivos que establezcan las disposiciones legales y administrativas aplicables, para la planeación, programación, inicio, desarrollo y conclusión de las auditorías a adquisiciones y fondos y valores;
 
@@ -613,61 +693,103 @@ IV. Emitir, en el ámbito de su competencia, los dictámenes técnicos y contabl
 
 V. Elaborar y presentar a la consideración del Titular de la Unidad de Auditoría Gubernamental, las propuestas de sistemas y procedimientos a que deba sujetarse la vigilancia de fondos y valores del Gobierno Federal;
 
-VI. Evaluar los resultados de las revisiones que practica la Unidad de Vigilancia de Fondos y Valores de la Secretaría de Hacienda y Crédito Público;
+VI. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2001)
 
-VII. Expedir las certificaciones que se requieran de cualquier documentación derivada de las investigaciones y auditorías que realice, que obren en los archivos de la dependencia, órgano desconcentrado o entidad de la Administración Pública Federal o de la Procuraduría General de la República objeto de la investigación o auditoría, y
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-VIII. Las demás que le atribuya expresamente el Titular de la Secretaría.
+VII. Expedir, previo cotejo, copias certificadas de los documentos que obren en sus archivos.
 
-El jefe de grupo del personal comisionado a cada auditoría, adscrito a la Dirección General Adjunta de Auditorías a Adquisiciones, Fondos y Valores, y responsable de efectuar las investigaciones y auditorías, tendrá la atribución a que se refiere la fracción VII de este artículo con referencia a los asuntos que le sean encomendados.
+De igual forma, expedir las certificaciones que se requieran de cualquier documentación a la que tenga acceso con motivo de la práctica de las investigaciones y auditorías que realice y que obren en los archivos de la dependencia, órgano desconcentrado o entidad de la Administración Pública Federal correspondiente, o de la Procuraduría General de la República;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+VIII. Requerir cuando lo estime conveniente para el cumplimiento de sus funciones, información y documentación a las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal, a la Procuraduría General de la República y a los órganos internos de control, así como solicitar los datos e informes que requiera a proveedores y contratistas, en los términos de las disposiciones legales aplicables, y
+
+IX. Las demás que le atribuya expresamente el Titular de la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+El jefe de grupo del personal comisionado a cada auditoría, adscrito a la Dirección General Adjunta de Auditorías a Adquisiciones, Fondos y Valores, y responsable de efectuar las investigaciones y auditorías, tendrá las atribuciones a que se refieren las fracciones VII, segundo párrafo y VIII de este artículo con referencia a los asuntos que le sean encomendados.
 
 ###### ARTÍCULO 20.
 
 La Dirección General Adjunta de Auditorías a Obra Pública tendrá las siguientes atribuciones:
 
-I. Elaborar propuestas para la integración del Programa Anual de Auditorías a Obra Pública;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-II. Ordenar la práctica de auditorías a las dependencias, órganos desconcentrados y entidades y a la Procuraduría General de la República, así como a la Dirección General de Vigilancia de Fondos y Valores de la Secretaría de Hacienda y Crédito Público, y comisionar al personal que habrá de realizarlas, con el fin de comprobar el cumplimiento de las disposiciones legales y normativas aplicables;
+I. Elaborar propuestas de auditorías de obra pública, para integrarse en el Programa Anual de Auditorías de la Unidad de Auditoría Gubernamental;
 
-III. Colaborar con la Dirección General Adjunta de Auditorías Especiales, en la formulación de los programas, guías e instructivos que establezcan las disposiciones legales y administrativas aplicables, para la planeación, programación, inicio, desarrollo y conclusión de las auditorías especiales;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+II. Ordenar la práctica de auditorías a las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y a la Procuraduría General de la República, y comisionar al personal que habrá de realizarlas, con el fin de comprobar el cumplimiento de las disposiciones legales y normativas aplicables;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+III. Colaborar con la Dirección General Adjunta de Auditorías Especiales, en la formulación de los programas, guías e instructivos que establezcan las disposiciones legales y administrativas aplicables para la planeación, programación, inicio, desarrollo y conclusión de las auditorías de obra pública;
 
 IV. Emitir, en el ámbito de su competencia, los dictámenes técnicos y contables que le soliciten la Unidad de Asuntos Jurídicos y la Dirección General de Responsabilidades y Situación Patrimonial;
 
-V. Expedir las certificaciones que se requieran de cualquier documentación derivada de las investigaciones y auditorías que realice, que obren en los archivos de la dependencia, órgano desconcentrado o entidad de la Administración Pública Federal o de la Procuraduría General de la República objeto de la investigación o auditoría, y
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-VI. Las demás que le atribuya expresamente el Titular de la Secretaría.
+V. Expedir, previo cotejo, copias certificadas de los documentos que obren en sus archivos.
 
-El jefe de grupo del personal comisionado a cada auditoría, adscrito a la Dirección General Adjunta de Auditorías a Obra Pública, y responsable de efectuar las investigaciones y auditorías, tendrá la atribución a que se refiere la fracción V de este artículo con referencia a los asuntos que le sean encomendados.
+De igual forma, expedir las certificaciones que se requieran de cualquier documentación a la que tenga acceso con motivo de la práctica de las investigaciones y auditorías que realice y que obren en los archivos de la dependencia, órgano desconcentrado o entidad de la Administración Pública Federal correspondiente, o de la Procuraduría General de la República;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+VI. Requerir cuando lo estime conveniente para el cumplimiento de sus funciones, información y documentación a las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal, a la Procuraduría General de la República y a los órganos internos de control, así como solicitar los datos e informes que requiera a proveedores y contratistas, en los términos de las disposiciones legales aplicables, y
+
+VII. Las demás que le atribuya expresamente el Titular de la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+El jefe de grupo del personal comisionado a cada auditoría, adscrito a la Dirección General Adjunta de Auditorías a Obra Pública, y responsable de efectuar las investigaciones y auditorías, tendrá las atribuciones a que se refieren las fracciones V, segundo párrafo y VI de este artículo con referencia a los asuntos que le sean encomendados.
 
 ###### ARTÍCULO 21.
 
 La Dirección General Adjunta de Auditorías Externas y Específicas tendrá las siguientes atribuciones:
 
-I. Elaborar propuestas para la integración del Programa Anual de Auditorías Externas;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-II. Proponer a la Unidad de Auditoría Gubernamental el nombramiento de los auditores externos de las entidades paraestatales, así como establecer las normas para su designación;
+I. Elaborar propuestas de auditorías externas, para la integración del Programa Anual de Auditorías de la Unidad de Auditoría Gubernamental;
 
-III. Definir los criterios y lineamientos técnicos para controlar y evaluar la actuación de los auditores externos de las entidades paraestatales, así como determinar los objetivos que deberán alcanzar en la realización de las auditorías externas que practiquen;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-IV. Revisar y, en su caso, autorizar los informes de resultados de las auditorías externas practicadas, así como presentarlos a la Unidad de Auditoría Gubernamental, a fin de que se emitan las recomendaciones procedentes o se turnen a las autoridades competentes cuando se deriven presuntas responsabilidades de servidores públicos;
+II. Proponer a la Unidad de Auditoría Gubernamental los auditores externos que se sometan a los procedimientos de elección para efectos de la designación correspondiente;
 
-V. Dar seguimiento a las observaciones derivadas de las auditorías externas practicadas a las dependencias, órganos desconcentrados y entidades y a la Procuraduría General de la República, hasta su total solventación;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-VI. Expedir las certificaciones que se requieran de cualquier documentación derivada de las investigaciones y auditorías que realice, que obren en los archivos de la dependencia, órgano desconcentrado o entidad de la Administración Pública Federal o de la Procuraduría General de la República objeto de la investigación o auditoría;
+III. Definir los criterios y lineamientos técnicos para controlar y evaluar la actuación de los auditores externos;
 
-VII. Ordenar la práctica de auditorías a las dependencias, órganos desconcentrados y entidades y a la Procuraduría General de la República, así como a la Dirección General de Vigilancia de Fondos y Valores de la Secretaría de Hacienda y Crédito Público, y comisionar al personal que habrá de realizarlas, con el fin de comprobar el cumplimiento de las disposiciones legales y normativas aplicables. Asimismo, verificar en los órganos internos de control y de manera selectiva que:
+IV. (DEROGADO, D.O.F. 29 DE NOVIEMBRE DE 2001)
 
-1. Las auditorías que realicen, se efectúen con cuidado y diligencia razonable;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-2. La documentación que sustente las auditorías sea idónea y suficiente, y
+V. Controlar el seguimiento a las observaciones determinadas en las auditorías externas practicadas;
 
-3. Verificar que los informes y/o documentos de auditoría se elaboren conforme a la metodología y técnica aplicables;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+VI. Expedir, previo cotejo, copias certificadas de los documentos que obren en sus archivos.
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+De igual forma, expedir las certificaciones que se requieran de cualquier documentación a la que tenga acceso con motivo de la práctica de las investigaciones y auditorías que realice y que obren en los archivos de la dependencia, órgano desconcentrado o entidad de la Administración Pública Federal correspondiente, o de la Procuraduría General de la República;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+VII. Ordenar la práctica de auditorías a las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y a la Procuraduría General de la República, y comisionar al personal que habrá de realizarlas, con el fin de comprobar el cumplimiento de las disposiciones legales y normativas aplicables;
 
 VIII. Revisar y, en su caso, autorizar los informes de resultados de las auditorías que lleve a cabo, así como presentarlos al Titular de la Unidad de Auditoría Gubernamental, a fin de que se emitan las recomendaciones procedentes o se turnen a las autoridades competentes cuando se deriven presuntas responsabilidades de servidores públicos;
 
-IX. Dar seguimiento a las observaciones determinadas de las auditorías practicadas a las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y a la Procuraduría General de la República, hasta su total solventación, y
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-X. Las demás que le atribuya expresamente el Titular de la Secretaría. El jefe de grupo del personal comisionado a cada auditoría, adscrito a la Dirección General Adjunta de Auditorías Externas y Específicas, y responsable de efectuar las investigaciones y auditorías, tendrá la atribución a que se refiere la fracción VI de este artículo con referencia a los asuntos que le sean encomendados.
+IX. Requerir cuando lo estime conveniente para el cumplimiento de sus funciones, información y documentación a las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal, a la Procuraduría General de la República y a los órganos internos de control, así como solicitar los datos e informes que requiera a proveedores y contratistas, en los términos de las disposiciones legales aplicables, y
+
+X. Las demás que le atribuya expresamente el Titular de la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+El jefe de grupo del personal comisionado a cada auditoría, adscrito a la Dirección General Adjunta de Auditorías Externas y Específicas, y responsable de efectuar las investigaciones y auditorías, tendrá las atribuciones a que se refieren las fracciones VI, segundo párrafo y IX de este artículo con referencia a los asuntos que le sean encomendados.
 
 ###### ARTÍCULO 22.
 
@@ -907,7 +1029,9 @@ IX. Promover, asesorar y dar seguimiento a programas de corresponsabilidad entre
 
 X. Implementar mecanismos e instancias de participación ciudadana con el propósito de establecer procesos de facilitación para la presentación de quejas y denuncias, así como lograr acuerdos y compromisos concretos con sectores de la sociedad tendientes a reducir los niveles de corrupción y propiciar una mayor transparencia en la actividad de la Administración Pública Federal, y
 
-XI. Las demás que le atribuya expresamente el Titular de la Secretaría.
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+XI. Las demás que le atribuya expresamente el Titular de la Secretaría, así como las que competan a las unidades administrativas a su cargo.
 
 ###### ARTÍCULO 32.
 
@@ -919,7 +1043,9 @@ II. Llevar el registro y el análisis de la situación patrimonial de los servid
 
 III. Proponer a la superioridad, con la opinión de las unidades administrativas de la Secretaría, las normas y formatos bajo los cuales deberán declararse dichas situaciones patrimoniales, así como los manuales e instructivos correspondientes;
 
-IV. Practicar las investigaciones y ordenar las auditorías que de acuerdo con la Ley Federal de Responsabilidades de los Servidores Públicos procedan, en relación con la situación patrimonial de los servidores públicos, así como imponer las sanciones que corresponda, en los términos de la ley, cuando por ese motivo se determine que el servidor público incurrió en responsabilidad administrativa;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+IV. Ordenar y llevar a cabo las investigaciones, visitas de inspección y auditorías que de acuerdo con la Ley Federal de Responsabilidades de los Servidores Públicos procedan, en relación con la situación patrimonial de los servidores públicos, así como imponer las sanciones que corresponda, en los términos de la referida Ley, cuando por ese motivo se determine que el servidor público incurrió en responsabilidad administrativa;
 
 V. Recibir y resolver las inconformidades de los servidores públicos respecto de las visitas o auditorías que se les practiquen en relación con su situación patrimonial;
 
@@ -931,7 +1057,9 @@ VIII. Practicar de oficio o por denuncia debidamente fundamentada, las investiga
 
 IX. Turnar a los órganos internos de control de las dependencias, órganos desconcentrados y entidades, así como de la Procuraduría General de la República, los expedientes relativos a las investigaciones y auditorías que se hubieren practicado, cuando de las mismas se derivaren responsabilidades en las que aquéllos deban imponer sanciones disciplinarias en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos;
 
-X. Imponer las sanciones que competan a la Secretaría, de acuerdo a lo dispuesto en la Ley Federal de Responsabilidades de los Servidores Públicos y demás disposiciones aplicables, cuando de las quejas y denuncias a que se refiere la fracción I de este artículo, se determinen responsabilidades administrativas, y en su caso, llevar a cabo las acciones que procedan conforme a dicha Ley a fin de garantizar el cobro de las sanciones económicas que se impongan a los servidores públicos con motivo de la infracción cometida;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+X. Imponer las sanciones que competan a la Secretaría, de acuerdo a lo dispuesto en la Ley Federal de Responsabilidades de los Servidores Públicos y demás disposiciones aplicables, cuando de las quejas y denuncias a que se refiere la fracción I de este artículo, se determinen responsabilidades administrativas, y en su caso, llevar a cabo las acciones que procedan conforme a dicha Ley a fin de garantizar el cobro de las sanciones económicas que llegaren a imponerse a los servidores públicos con motivo de la infracción cometida;
 
 XI. Calificar los pliegos preventivos de responsabilidades que formulen las dependencias y entidades y la Procuraduría General de la República, en los términos de la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, así como la Tesorería de la Federación, conforme a lo dispuesto por la Ley del Servicio de Tesorería de la Federación, que determine el Secretario, fincando cuando proceda los pliegos de responsabilidades a que hubiere lugar;
 
@@ -943,51 +1071,29 @@ XIV. Proponer a la superioridad la celebración de bases y convenios de coordina
 
 XV. Implantar los sistemas que se requieran para el control de los asuntos de su competencia y el fortalecimiento de los enlaces institucionales para el intercambio y suministro de información, y
 
-XVI. Las demás que le atribuya expresamente el Titular de la Secretaría, así como las que competen a sus unidades administrativas a su cargo.
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+XVI. Las demás que le atribuya expresamente el Titular de la Secretaría, así como las que competen a las unidades administrativas a su cargo.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 33.
 
 La Dirección General Adjunta de Responsabilidades tendrá las siguientes atribuciones:
 
-I. Ordenar de oficio, por denuncia o queja debidamente fundada, o en virtud de irregularidades derivadas de auditorías, la práctica de investigaciones y auditorías, respecto de la conducta de servidores públicos que pudieran implicar inobservancia de las obligaciones previstas por la Ley Federal de Responsabilidades de los Servidores Públicos, conforme a lo dispuesto por el artículo 62 de dicho ordenamiento; así como, en su caso, visitas de inspección, investigaciones o auditorías derivadas del análisis de la situación patrimonial de los servidores públicos a fin de verificar la evolución de su patrimonio, en los términos del artículo 84 del propio ordenamiento;
+I. Citar, en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos, al presunto responsable a la audiencia a que se refiere el artículo 64 de dicho ordenamiento legal;
 
-II. Citar, en los términos de la Ley de la materia al presunto responsable dentro de los procedimientos de investigación, inspección o auditoría a que se refiere la fracción anterior, para que manifieste lo que a su derecho convenga;
+II. Ordenar la práctica de investigaciones y citar a otra u otras audiencias cuando no se cuente con elementos suficientes para proponer la resolución respectiva, así como acordar el cierre de instrucción del procedimiento;
 
-III. Proponer se turne al órgano interno de control en la dependencia, órgano desconcentrado o entidad de la Administración Pública Federal o en la Procuraduría General de la República, los expedientes relativos a las investigaciones y auditorías que se hubieren practicado cuando los asuntos correspondientes sean de la competencia de éstos;
+III. Determinar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, si a su juicio así conviene para la conducción o continuación de las investigaciones en los términos del artículo 64 de la Ley Federal de Responsabilidades de los Servidores Públicos;
 
-IV. Emitir, cuando así proceda, el acuerdo mediante el cual se dé por concluida la investigación, inspección o auditoría a que se refieren los artículos 62 y 84 de la Ley de la materia, por falta de elementos;
+IV. Revisar el proyecto de resolución en el procedimiento administrativo de responsabilidades y someterlo a la consideración del Director General de Responsabilidades y Situación Patrimonial, así como proponer a éste la realización de las acciones que procedan conforme a la Ley de la materia, a fin de garantizar el cobro de las sanciones económicas que llegaren a imponerse a los servidores públicos con motivo de la infracción cometida, y
 
-V. Citar, en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos, al presunto responsable a la audiencia a que se refiere el artículo 64 de dicho ordenamiento legal;
+V. Las demás que le atribuya expresamente el Titular de la Secretaría, así como las que competen a las unidades administrativas a su cargo.
 
-VI. Disponer la práctica de investigaciones y citar a otra u otras audiencias cuando no se cuente con elementos suficientes para proponer la resolución respectiva, así como acordar el cierre de instrucción del procedimiento;
-
-VII. Determinar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, si a su juicio así conviene para la conducción o continuación de las investigaciones en los términos del artículo 64 de la Ley Federal de Responsabilidades de los Servidores Públicos;
-
-VIII. Revisar el proyecto de resolución en el procedimiento administrativo de responsabilidades y someterlo a la consideración del Director General de Responsabilidades y Situación Patrimonial, así como proponer a éste la realización de las acciones que procedan conforme a la Ley de la materia, a fin de garantizar el cobro de las sanciones económicas que se impongan a los servidores públicos con motivo de la infracción cometida, y
-
-IX. Las demás que le atribuya expresamente el Titular de la Secretaría, así como las que competen a sus unidades administrativas a su cargo.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 34.
-
-La Dirección de Verificación tendrá las siguientes atribuciones:
-
-I. Recibir las quejas o denuncias que le sean turnadas, en contra de servidores públicos, así como las captadas en los diferentes medios de información o bien, derivadas de visitas de inspección, auditorías o análisis de declaraciones de situación patrimonial, por presuntas violaciones a lo dispuesto por la Ley Federal de Responsabilidades de los Servidores Públicos;
-
-II. Citar al denunciante o al quejoso para la ratificación de la denuncia o la queja presentada en contra de servidores públicos por presuntas violaciones a lo dispuesto por la Ley Federal de Responsabilidades de los Servidores Públicos, así como analizar y verificar la veracidad de dicha queja o denuncia;
-
-III. Llevar a cabo las investigaciones y auditorías respecto de la conducta de servidores públicos, conforme a lo previsto por el artículo 62 de la Ley Federal de Responsabilidades de los Servidores Públicos, así como solicitar información y documentación a las dependencias, órganos desconcentrados y entidades y a la Procuraduría General de la República, relacionadas con los hechos objeto de la investigación;
-
-IV. Practicar, en su caso, visitas de inspección, investigaciones y auditorías relacionadas con presuntas irregularidades derivadas del seguimiento de la situación patrimonial de los servidores públicos, en los términos del artículo 84 de la Ley de la materia;
-
-V. Levantar y suscribir el acta relativa a la comparecencia o comparecencias que hagan, en su caso, los presuntos responsables, dentro de los procedimientos de investigación, inspección y auditoría a que se refieren los artículos 62 y 84 de la Ley Federal de Responsabilidades de los Servidores Públicos, así como emitir los acuerdos y llevar a cabo, con el auxilio del personal adscrito a la propia Dirección, las actuaciones y diligencias que requiera la instrucción de dichos procedimientos, con excepción de aquellos que sean competencia de la Dirección General Adjunta de Responsabilidades;
-
-VI. Turnar los expedientes a la Dirección de Responsabilidades cuando de las investigaciones realizadas se presuma que el servidor público de que se trate incurrió en responsabilidad administrativa;
-
-VII. Conocer de las inconformidades que presenten los servidores públicos con respecto de las visitas o auditorías que se les practiquen en relación con su situación patrimonial y proponer la resolución que proceda, y
-
-VIII. Las demás que le atribuya expresamente el Titular de la Secretaría.
-
-###### ARTÍCULO 35.
 
 La Dirección de Responsabilidades tendrá las siguientes atribuciones:
 
@@ -1001,43 +1107,51 @@ IV. Analizar los expedientes respectivos y proponer el proyecto de resolución q
 
 V. Las demás que le atribuya expresamente el Titular de la Secretaría.
 
-Los Directores de Área adscritos a la Dirección de Responsabilidades, con referencia a los asuntos que les sean encomendados, tendrán igualmente las atribuciones a que se refiere este artículo.
+Los Directores de Área coordinados por la Dirección de Responsabilidades, con referencia a los asuntos que les sean encomendados, tendrán igualmente las atribuciones a que se refiere este artículo.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTÍCULO 35.
+
+La Dirección General Adjunta de Verificación tendrá las siguientes atribuciones:
+
+I. Ordenar de oficio, por denuncia o queja debidamente fundada, o en virtud de irregularidades derivadas de auditorías, la práctica de investigaciones y auditorías, respecto de la conducta de servidores públicos que pudieran implicar inobservancia de las obligaciones previstas por la Ley Federal de Responsabilidades de los Servidores Públicos, conforme a lo dispuesto por el artículo 62 de dicho ordenamiento; así como, en su caso, visitas de inspección, investigaciones o auditorías derivadas del análisis de la situación patrimonial de los servidores públicos a fin de verificar la evolución de su patrimonio, en los términos del artículo 84 de la propia Ley;
+
+II. Citar, en los términos de la Ley de la materia al presunto responsable dentro de los procedimientos de investigación, inspección o auditoría a que se refiere la fracción anterior, para que manifieste lo que a su derecho convenga;
+
+III. Proponer se turne al órgano interno de control en la dependencia, órgano desconcentrado o entidad de la Administración Pública Federal o en la Procuraduría General de la República, los expedientes relativos a las investigaciones y auditorías que se hubieren practicado cuando los asuntos correspondientes sean de la competencia de éstos;
+
+IV. Emitir, cuando así proceda, el acuerdo mediante el cual se dé por concluida la investigación, inspección o auditoría a que se refieren los artículos 62 y 84 de la Ley de la materia, por falta de elementos, y
+
+V. Las demás que le atribuya expresamente el Titular de la Secretaría, así como las que competen a las unidades administrativas a su cargo.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 36.
 
-La Dirección General Adjunta de Evolución Patrimonial tendrá las siguientes atribuciones:
+La Dirección de Verificación tendrá las siguientes atribuciones:
 
-I. Ordenar el análisis de las declaraciones de situación patrimonial que presenten los servidores públicos en los términos de la Ley de la materia; así como solicitar cualquier tipo de información tanto de los servidores públicos, como de sus cónyuges, concubinarios y dependientes económicos directos, información que deberá ser proporcionada por los propios servidores públicos y por las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y la Procuraduría General de la República;
+I. Recibir las quejas o denuncias que le sean turnadas, en contra de servidores públicos, así como las captadas en los diferentes medios de información o bien, derivadas de visitas de inspección, auditorías o análisis de declaraciones de situación patrimonial, por presuntas violaciones a lo dispuesto por la Ley Federal de Responsabilidades de los Servidores Públicos;
 
-II. Solicitar a la Dirección General Adjunta de Responsabilidades, en su caso, la práctica de visitas de inspección y auditorías relacionadas con el seguimiento de la situación patrimonial de los servidores públicos, en los términos de los artículos 79, 84 y demás relativos de la Ley Federal de Responsabilidades de los Servidores Públicos;
+II. Citar cuando lo estime necesario al denunciante o al quejoso para la ratificación de la denuncia o la queja presentada en contra de servidores públicos por presuntas violaciones a lo dispuesto por la Ley Federal de Responsabilidades de los Servidores Públicos, así como analizar y verificar la veracidad de dicha queja o denuncia;
 
-III. Coordinar con la Dirección General Adjunta de Responsabilidades la práctica de visitas de inspección, investigación o auditorías relacionadas con presuntas irregularidades derivadas del seguimiento de la situación patrimonial de los servidores públicos, a fin de verificar la evolución de su patrimonio en los términos del artículo 84 de la Ley de la materia;
+III. Llevar a cabo las investigaciones y auditorías respecto de la conducta de servidores públicos, conforme a lo previsto por el artículo 62 de la Ley Federal de Responsabilidades de los Servidores Públicos, así como solicitar información y documentación a las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y a la Procuraduría General de la República, relacionadas con los hechos objeto de la investigación;
 
-IV. Integrar, en coordinación con la Dirección General Adjunta de Responsabilidades, el expediente y demás constancias que se requieran para los efectos previstos en el artículo 90 de la Ley Federal de Responsabilidades de los Servidores Públicos;
+IV. Practicar, en su caso, visitas de inspección, investigaciones y auditorías relacionadas con presuntas irregularidades derivadas del seguimiento de la situación patrimonial de los servidores públicos, en los términos del artículo 84 de la Ley de la materia;
 
-V. Remitir a la Dirección General Adjunta de Responsabilidades los expedientes y constancias cuando se detecten presuntas responsabilidades a cargo de los servidores públicos;
+V. Levantar y suscribir el acta relativa a la comparecencia o comparecencias que hagan, en su caso, los presuntos responsables, dentro de los procedimientos de investigación, inspección y auditoría a que se refieren los artículos 62 y 84 de la Ley Federal de Responsabilidades de los Servidores Públicos, así como emitir los acuerdos y llevar a cabo, con el auxilio del personal adscrito a la propia Dirección, las actuaciones y diligencias que requiera la instrucción de dichos procedimientos, con excepción de aquellos que sean competencia de la Dirección General Adjunta de Responsabilidades;
 
-VI. Coadyuvar en la instrumentación de los proyectos de bases, convenios o acuerdos de coordinación que en materia de responsabilidades pretenda celebrar la Secretaría con las dependencias, órganos desconcentrados y entidades y la Procuraduría General de la República, así como con los gobiernos de los estados, con la participación que corresponda a los municipios involucrados, y
+VI. Turnar los expedientes a la Dirección de Responsabilidades cuando de las investigaciones realizadas se presuma que el servidor público de que se trate incurrió en responsabilidad administrativa;
 
-VII. Las demás que le atribuya expresamente el Titular de la Secretaría, así como las que competen a sus unidades administrativas a su cargo.
+VII. Conocer de las inconformidades que presenten los servidores públicos con respecto de las visitas o auditorías que se les practiquen en relación con su situación patrimonial y proponer la resolución que proceda, y
+
+VIII. Las demás que le atribuya expresamente el Titular de la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 37.
 
-Las Direcciones de Evolución Patrimonial "A" y "B", con referencia a los asuntos que les sean encomendados, tendrán las siguientes atribuciones:
-
-I. Analizar las declaraciones de situación patrimonial que presenten los servidores públicos en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos;
-
-II. Verificar los datos manifestados en las declaraciones de situación patrimonial de los servidores públicos y analizar la información recabada por la Dirección de Verificación en la práctica de visitas de inspección y auditorías a que se refiere el artículo 84 de la Ley de la materia;
-
-III. Coadyuvar con la Dirección de Verificación en el análisis contable-financiero de las justificaciones que, en su caso, haya presentado el servidor público de que se trate en el procedimiento a que se refiere el artículo 84 de la Ley Federal de Responsabilidades de los Servidores Públicos;
-
-IV. Informar al Director General Adjunto de Evolución Patrimonial sobre las presuntas irregularidades en que haya incurrido el servidor público con respecto a su situación patrimonial, y
-
-V. Las demás que les atribuya expresamente el Titular de la Secretaría.
-
-###### ARTÍCULO 38.
-
-La Dirección General Adjunta de Registro Patrimonial tendrá las siguientes atribuciones:
+La Dirección General Adjunta de Registro y Evolución Patrimonial tendrá las siguientes atribuciones:
 
 I. Coordinar, vigilar, supervisar y controlar la recepción, registro y resguardo de las declaraciones de situación patrimonial de los servidores públicos de la Administración Pública Federal; verificar el cumplimiento por parte de éstos de la obligación de presentar declaración de situación patrimonial; emitir la declaración que corresponda cuando el servidor público no cumpla con dicha obligación en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos, y llevar el padrón de servidores públicos obligados a presentar declaración de situación patrimonial;
 
@@ -1045,7 +1159,7 @@ II. Ordenar de oficio, por denuncia o queja debidamente fundada, la instauració
 
 III. Revisar los proyectos de resolución en el procedimiento administrativo correspondiente y someterlos a la consideración del Director General de Responsabilidades y Situación Patrimonial, así como aquellos que instruyan las unidades administrativas a su cargo;
 
-IV. Recabar, integrar y analizar la información de sanciones impuestas que remitan las dependencias y entidades; la Procuraduría General de la República, y otras autoridades, para efectos de la integración y actualización del Registro de Servidores Públicos Sancionados;
+IV. Recabar, integrar y analizar la información de sanciones impuestas que remitan las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal; la Procuraduría General de la República, y otras autoridades, para efectos de la integración y actualización del Registro de Servidores Públicos Sancionados;
 
 V. Proponer a la Dirección General de Responsabilidades y Situación Patrimonial las normas y contenido de los formatos bajo los cuales deberán declarar su situación patrimonial los servidores públicos, así como el establecimiento de programas preventivos en la materia;
 
@@ -1059,11 +1173,25 @@ IX. Llevar, controlar, coordinar, vigilar y supervisar el Registro de Servidores
 
 X. Verificar el cumplimiento y en su caso, promover la celebración o actualización de los convenios con las entidades federativas en materia de inhabilitación y llevar a cabo acciones para promover el intercambio de información en esa materia con los gobiernos estatales y en su caso municipales, o con los Poderes judiciales y legislativos federales o locales;
 
-XI. Coordinar el funcionamiento, resguardo y custodia del archivo de la documentación que comprenden los Registros relativos a los servidores públicos y a los bienes a que se refiere la Ley Federal de Responsabilidades de los Servidores Públicos, y ordenar las medidas para su actualización y depuración, y
+XI. Coordinar el funcionamiento, resguardo y custodia del archivo de la documentación que comprenden los registros relativos a los servidores públicos y a los bienes a que se refiere la Ley Federal de Responsabilidades de los Servidores Públicos, y ordenar las medidas para su actualización y depuración;
 
-XII. Las demás que le confiera la normatividad aplicable.
+XII. Ordenar el análisis de las declaraciones de situación patrimonial que presenten los servidores públicos en los términos de la Ley de la materia; así como solicitar cualquier tipo de información tanto de los servidores públicos, como de sus cónyuges, concubinarios y dependientes económicos directos, información que deberá ser proporcionada por los propios servidores públicos y por las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y la Procuraduría General de la República;
 
-###### ARTÍCULO 39.
+XIII. Solicitar a la Dirección General Adjunta de Verificación, en su caso, la práctica de visitas de inspección y auditorías relacionadas con el seguimiento de la situación patrimonial de los servidores públicos, en los términos de los artículos 79, 84 y demás relativos de la Ley Federal de Responsabilidades de los Servidores Públicos;
+
+XIV. Coordinar con la Dirección General Adjunta de Verificación la práctica de visitas de inspección, investigación o auditorías relacionadas con presuntas irregularidades derivadas del seguimiento de la situación patrimonial de los servidores públicos, a fin de verificar la evolución de su patrimonio en los términos del artículo 84 de la Ley de la materia;
+
+XV. Integrar, en coordinación con las Direcciones Generales Adjuntas de Verificación y de Responsabilidades, el expediente y demás constancias que se requieran para los efectos previstos en el artículo 90 de la Ley Federal de Responsabilidades de los Servidores Públicos;
+
+XVI. Remitir a la Dirección General Adjunta de Verificación o a la Dirección General Adjunta de Responsabilidades, los expedientes y constancias cuando se detecten presuntas responsabilidades a cargo de los servidores públicos;
+
+XVII. Coadyuvar en la instrumentación de los proyectos de bases, convenios o acuerdos de coordinación que en materia de responsabilidades pretenda celebrar la Secretaría con las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y la Procuraduría General de la República, así como con los gobiernos de los estados, con la participación que corresponda a los municipios involucrados, y
+
+XVIII. Las demás que le atribuya expresamente el Titular de la Secretaría, así como las que competen a las unidades administrativas a su cargo.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTÍCULO 38.
 
 La Dirección de Registro Patrimonial tendrá las siguientes atribuciones:
 
@@ -1071,27 +1199,45 @@ I. Coordinar la recepción, revisión, resguardo y registro de las declaraciones
 
 II. Realizar el análisis de los puestos, cargos o comisiones cuyos titulares deben ser sujetos de la obligación de presentar declaración de situación patrimonial;
 
-III. Revisar la información asentada en las declaraciones de situación patrimonial y en su caso, solicitar al servidor público de que se trate, las aclaraciones conducentes;
+III. Revisar la información asentada en las declaraciones de situación patrimonial y en su caso, solicitar al servidor público de que se trate las aclaraciones conducentes;
 
 IV. Brindar la asesoría que requieran los servidores públicos sobre la presentación y llenado de la declaración de situación patrimonial;
 
-V. Operar y mantener actualizado el Registro de los Servidores Públicos Sancionados, así como el padrón de los servidores públicos obligados a presentar declaración de situación patrimonial, y
+V. Operar y mantener actualizado el padrón de los servidores públicos obligados a presentar declaración de situación patrimonial, y
 
-VI. Las demás que le confiera la normatividad aplicable.
+VI. Las demás que le confiera el Titular de la Secretaría.
 
-###### ARTÍCULO 40.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTÍCULO 39.
 
 La Dirección de Procedimientos de Registro Patrimonial tendrá las siguientes atribuciones:
 
 I. Verificar el cumplimiento de la obligación de presentar declaración de situación patrimonial y en su caso, instruir el procedimiento administrativo previsto en el artículo 64 de la Ley Federal de Responsabilidades de los Servidores Públicos, citando y otorgando la garantía de audiencia a quienes hubieren incumplido y formular el proyecto de resolución que al efecto recaiga;
 
-II. Llevar el control y seguimiento de los convenios celebrados por la Secretaría con las entidades federativas en materia de inhabilitación de los servidores públicos, y registrar a los servidores públicos sancionados por la Administración Pública Federal y los inhabilitados por los gobiernos estatales y municipales, así como por los Poderes judiciales y legislativos federales o locales;
+II. Llevar el control y seguimiento de los convenios celebrados por la Secretaría con las entidades federativas en materia de inhabilitación de los servidores públicos, y operar y mantener actualizado el registro de servidores públicos sancionados por la Administración Pública Federal y de los inhabilitados por los gobiernos estatales y municipales, así como por los Poderes judiciales y legislativos federales o locales;
 
 III. Llevar el registro y acusar recibo de los obsequios, donativos o beneficios a que se refiere el artículo 89 de la Ley Federal de Responsabilidades de los Servidores Públicos y en su caso, levantar las actas que consignen las características de dichos bienes;
 
 IV. Elaborar las constancias de inhabilitación o de no inhabilitación y las de antecedentes sancionatorios, y
 
-V. Las demás que le confiera la normatividad aplicable.
+V. Las demás que le confiera el Titular de la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTÍCULO 40.
+
+Las Direcciones de Evolución Patrimonial "A" y "B", con referencia a los asuntos que les sean encomendados, tendrán las siguientes atribuciones:
+
+I. Analizar las declaraciones de situación patrimonial que presenten los servidores públicos en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos;
+
+II. Verificar los datos manifestados en las declaraciones de situación patrimonial de los servidores públicos y analizar la información recabada por la Dirección de Verificación en la práctica de visitas de inspección y auditorías a que se refiere el artículo 84 de la Ley de la materia;
+
+III. Coadyuvar con la Dirección de Verificación en el análisis contable-financiero de las justificaciones que, en su caso, haya presentado el servidor público de que se trate en el procedimiento a que se refiere el artículo 84 de la Ley Federal de Responsabilidades de los Servidores Públicos;
+
+IV. Informar al Director General Adjunto de Registro y Evolución Patrimonial sobre las presuntas irregularidades en que haya incurrido el servidor público con respecto a su situación patrimonial, y
+
+V. Las demás que les atribuya expresamente el Titular de la Secretaría.
 
 ###### ARTÍCULO 41.
 
@@ -1120,6 +1266,70 @@ VI. Asesorar, apoyar, supervisar, controlar y dar seguimiento a las actividades 
 VII. Proponer a la superioridad los criterios y lineamientos tendientes a agilizar y perfeccionar la sustanciación de inconformidades, y realizar los estudios que para este propósito se requieran y, en su caso, coadyuven al desarrollo de las actividades que en esta materia competen a los órganos internos de control de las dependencias y entidades y de la Procuraduría General de la República, y
 
 VIII. Las demás que le atribuya expresamente el Titular de la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+ARTÍCULO 41 BIS.- La Dirección General de Simplificación Regulatoria tendrá las siguientes atribuciones:
+
+I. Promover y coordinar la participación de las dependencias y entidades de la Administración Pública Federal y de la Procuraduría General de la República en el mejoramiento de la normatividad interna que rige su funcionamiento, así como dar seguimiento a las acciones correspondientes y evaluar y difundir sus resultados;
+
+II. Diseñar y operar un sistema de control normativo al interior de la Administración Pública Federal, en el ámbito de la competencia de la Secretaría;
+
+III. Elaborar los proyectos de lineamientos para el diseño y operación de programas de mejoramiento de la normatividad interna de la Administración Pública Federal;
+
+IV. Opinar previamente a su expedición, en coordinación con las unidades administrativas competentes de la Secretaría, las normas que regulen los instrumentos y procedimientos de control de la Administración Pública Federal, competencia de la propia Secretaría;
+
+V. Fundamentar las opiniones que la Secretaría deba rendir de acuerdo con lo dispuesto en el artículo 5, fracción XVII de este Reglamento, en lo relativo a los proyectos de normas en materia de administración de recursos humanos y materiales y sus repercusiones presupuestales que formule la Secretaría de Hacienda y Crédito Público; asimismo elaborar la propuesta respectiva, con la participación que corresponda a otras unidades administrativas de la Secretaría, de las dependencias y entidades de la Administración Pública Federal y de la Procuraduría General de la República;
+
+VI. Participar con las demás unidades administrativas competentes de la Secretaría en la integración de la opinión sobre los proyectos de normas que elabore la Secretaría de Hacienda y Crédito Público, de conformidad con lo dispuesto por la fracción IX del artículo 37 de la Ley Orgánica de la Administración Pública Federal, distintas a las señaladas en la fracción anterior;
+
+VII. Realizar o encomendar investigaciones, estudios y análisis a fin de promover y coadyuvar al mejoramiento de la normatividad que rige el funcionamiento de la Administración Pública Federal, de conformidad con lo dispuesto por la fracción VI del artículo 37 de la Ley Orgánica de la Administración Pública Federal;
+
+VIII. Opinar previamente a su expedición, en coordinación con las unidades administrativas competentes de la Secretaría, las normas y procedimientos de carácter general en materia de adquisiciones, arrendamientos, bienes muebles, prestación de servicios de cualquier naturaleza, obras públicas y servicios relacionados con las mismas;
+
+IX. Participar conjuntamente con la Secretaría de Hacienda y Crédito Público, en el mejoramiento y simplificación de las disposiciones jurídico administrativas relacionadas con la operación interna de la Administración Pública Federal, que en materia de ejercicio y control presupuestal y de recursos humanos emita dicha Dependencia, y
+
+X. Las demás que le atribuya expresamente el Titular de la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+ARTÍCULO 41 TER.- La Dirección General de Eficiencia Administrativa tendrá las siguientes atribuciones:
+
+I. Elaborar los proyectos de lineamientos que deberán observar las dependencias y entidades de la Administración Pública Federal y la Procuraduría General de la República en materia de desarrollo administrativo integral, y promover la realización de programas para el mejoramiento de la gestión administrativa, la simplificación y automatización de trámites y procesos, y la descentralización y desconcentración de funciones, así como darles seguimiento y evaluar y difundir sus resultados;
+
+II. Elaborar los proyectos de disposiciones administrativas que deban observar las dependencias y entidades de la Administración Pública Federal y la Procuraduría General de la República para que los recursos humanos y los procedimientos técnicos de éstas sean aprovechados y aplicados con eficiencia y eficacia, así como propiciar la descentralización, desconcentración y simplificación administrativa;
+
+III. Realizar o encomendar las investigaciones, estudios y análisis para el mejoramiento de la gestión gubernamental sobre desarrollo administrativo integral en la Administración Pública Federal y en la Procuraduría General de la República, de conformidad con lo dispuesto por la fracción VI del artículo 37 de la Ley Orgánica de la Administración Pública Federal;
+
+IV. Diseñar y promover en la Administración Pública Federal y en la Procuraduría General de la República la implantación del modelo de gestión gubernamental en materia de desarrollo administrativo integral orientado a la mejora de resultados;
+
+V. Prestar asesoría y consultoría en materia de desarrollo administrativo e innovación a las dependencias y entidades de la Administración Pública Federal y a la Procuraduría General de la República, a fin de coadyuvar al logro de resultados que impacte en el funcionamiento de las mismas;
+
+VI. Participar, en las materias de su competencia, con las unidades administrativas de la Secretaría y con las dependencias y entidades de la Administración Pública Federal y la Procuraduría General de la República, en la formulación y ejecución de los programas a cargo de la Secretaría que deriven del Plan Nacional de Desarrollo, y
+
+VII. Las demás que le atribuya expresamente el Titular de la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+ARTÍCULO 41 QUARTER.- La Dirección General de Análisis de Estructuras y Profesionalización del Servicio Público tendrá las siguientes atribuciones:
+
+I. Autorizar, conjuntamente con la Secretaría de Hacienda y Crédito Público en el ámbito de sus respectivas competencias, las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Federal y de la Procuraduría General de la República, y sus modificaciones, así como registrar dichas estructuras y operar el sistema de información correspondiente;
+
+II. Promover acciones tendientes a evitar la duplicidad de funciones y estructuras en las dependencias y entidades de la Administración Pública Federal y en la Procuraduría General de la República;
+
+III. Elaborar los proyectos de normas y lineamientos que en el ámbito de sus atribuciones, la Secretaría elabore conjuntamente con la de Hacienda y Crédito Público en materia de administración de personal, de conformidad con lo dispuesto por las fracciones IX y XVIII del artículo 37 de la Ley Orgánica de la Administración Pública Federal, y colaborar con dicha Dependencia en el desarrollo de herramientas metodológicas en la materia. Asimismo, opinar sobre las normas y lineamientos que elabore la propia Secretaría de Hacienda y Crédito Público en dicha materia;
+
+IV. Diseñar y promover la adopción de medidas y programas que conduzcan al incremento permanente de la productividad en las dependencias y entidades de la Administración Pública Federal y en la Procuraduría General de la República;
+
+V. Promover en la Administración Pública Federal y en la Procuraduría General de la República acciones que estimulen la capacitación, la vocación de servicio, la adopción de valores cívicos y éticos y la profesionalización de los servidores públicos;
+
+VI. Promover la celebración de convenios o la contratación de servicios con instituciones educativas o de capacitación para facilitar la transferencia de conocimientos en materia de desarrollo administrativo integral;
+
+VII. Elaborar, conjuntamente con la Secretaría de Hacienda y Crédito Público, los proyectos de disposiciones jurídico administrativas para incorporar un sistema de servicio profesional de carrera en la Administración Pública Federal y en la Procuraduría General de la República;
+
+VIII. Establecer con la participación de otras unidades administrativas de la Secretaría, las dependencias y entidades de la Administración Pública Federal que correspondan, y la Procuraduría General de la República, los criterios para formular los programas de incentivos al cumplimiento de objetivos por parte de los servidores públicos. Cuando dichos incentivos impliquen afectaciones al presupuesto, éstos se determinarán conforme a las políticas y normas que establezca la Secretaría de Hacienda y Crédito Público, y
+
+IX. Las demás que le atribuya expresamente el Titular de la Secretaría.
 
 ###### ARTÍCULO 42.
 
@@ -1173,9 +1383,13 @@ II. Tramitar los nombramientos, cambios de adscripción y las bajas de personal 
 
 III. Aplicar los sistemas de estímulos y recompensas que determine la ley, y elaborar los programas para la realización de las actividades sociales, culturales y recreativas que organice la Secretaría para el personal;
 
-IV. Proporcionar los servicios de apoyo administrativo en materia de personal, servicios generales, conservación y mantenimiento de bienes muebles e inmuebles, adquisiciones y suministros;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-V. Operar los procedimientos relativos a las adquisiciones, contratación de servicios, abastecimiento de los recursos materiales y de los servicios generales que requiera la Secretaría, conforme a la normatividad vigente;
+IV. Proporcionar los servicios de apoyo administrativo en materia de personal, servicios generales, archivo, conservación y mantenimiento de bienes muebles e inmuebles, adquisiciones y suministros;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+V. Operar los procedimientos relativos a las adquisiciones, obras públicas, contratación de servicios, abastecimiento de los recursos materiales y de los servicios generales que requiera la Secretaría, conforme a la normatividad vigente;
 
 VI. Administrar los almacenes de la Secretaría por medio de un sistema de control de inventarios y realizar la distribución de bienes e insumos, de acuerdo con las disponibilidades existentes;
 
@@ -1215,7 +1429,9 @@ X. Las demás que le atribuya expresamente el Titular de la Secretaría.
 
 La Coordinación de Visitadurías de Atención Ciudadana, Responsabilidades e Inconformidades tendrá las siguientes atribuciones:
 
-I. Realizar visitas de inspección para constatar la debida atención de las quejas, denuncias y peticiones de la ciudadanía, así como en materia de responsabilidades administrativas y de inconformidades en los órganos internos de control de las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y de la Procuraduría General de la República; así como la actuación de quienes tengan a su cargo dichas atribuciones y actividades;
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+I. Realizar visitas de inspección para constatar la debida atención de las quejas, denuncias y peticiones de la ciudadanía, así como en materia de responsabilidades administrativas y de inconformidades en los órganos internos de control de las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y de la Procuraduría General de la República; así como la debida actuación de quienes tengan a su cargo dichas atribuciones y actividades;
 
 Dichas visitas tendrán, entre otros, los siguientes propósitos:
 
@@ -1303,7 +1519,9 @@ II. Los comisarios públicos serán propietarios y suplentes, y representarán a
 
 III. Los titulares de los órganos internos de control tendrán, en el ámbito de la dependencia y de sus órganos desconcentrados, o entidad de la Administración Pública Federal en la que sean designados o de la Procuraduría General de la República, las siguientes facultades:
 
-1. Recibir quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos y darles seguimiento; investigar y fincar las responsabilidades a que hubiere lugar e imponer las sanciones aplicables en los términos de ley, con excepción de las que deba conocer la Dirección General de Responsabilidades y Situación Patrimonial, y en su caso, llevar a cabo las acciones conducentes a fin de garantizar el cobro de las sanciones económicas que se impongan a los servidores públicos con motivo de la infracción cometida.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+1. Recibir quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos y darles seguimiento; investigar y fincar las responsabilidades a que hubiere lugar e imponer las sanciones aplicables en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos, con excepción de las que conozca la Dirección General de Responsabilidades y Situación Patrimonial; determinar la suspensión temporal del presunto responsable de su empleo, cargo o comisión, si a su juicio así conviene para la conducción o continuación de las investigaciones, de acuerdo a lo establecido en la propia Ley, y en su caso, llevar a cabo las acciones que procedan conforme a la ley de la materia, a fin de garantizar el cobro de las sanciones económicas que llegaren a imponerse a los servidores públicos con motivo de la infracción cometida.
 
 Calificar los pliegos preventivos de responsabilidades que formulen las dependencias, órganos desconcentrados y entidades y la Procuraduría General de la República, en los términos de la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, así como la Tesorería de la Federación, conforme a lo dispuesto por la Ley del Servicio de Tesorería de la Federación, fincando cuando proceda los pliegos de responsabilidades a que hubiere lugar, salvo los que sean competencia de la Dirección General mencionada;
 
@@ -1313,7 +1531,9 @@ Calificar los pliegos preventivos de responsabilidades que formulen las dependen
 
 4. Implementar el sistema integral de control gubernamental y coadyuvar a su debido funcionamiento; proponer las normas y lineamientos que al efecto se requieran, y vigilar el cumplimiento de las normas de control que expida la Secretaría, así como aquéllas que regulan el funcionamiento de la dependencia o entidad correspondiente o de la Procuraduría General de la República;
 
-5. Programar y realizar auditorías, investigaciones, inspecciones o visitas de cualquier tipo; informar periódicamente a la Secretaría sobre el resultado de las acciones de control que hayan realizado y proporcionar a ésta la ayuda necesaria para el adecuado ejercicio de sus atribuciones, así como apoyar, verificar y evaluar las acciones en materia de desarrollo administrativo;
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+5. Programar, ordenar y realizar auditorías, investigaciones, inspecciones o visitas de cualquier tipo; informar periódicamente a la Secretaría sobre el resultado de las acciones de control que hayan realizado y proporcionar a ésta la ayuda necesaria para el adecuado ejercicio de sus atribuciones, así como apoyar, verificar y evaluar las acciones en materia de desarrollo administrativo;
 
 6. Emitir, cuando proceda, la autorización a que se refiere la fracción XXIII del artículo 47 de la Ley Federal de Responsabilidades de los Servidores Públicos, en el ámbito de la dependencia o entidad de que se trate, o de la Procuraduría General de la República;
 
@@ -1333,9 +1553,13 @@ IV. Los titulares de las áreas de responsabilidades, auditoría y quejas de los
 
 a) Los titulares de las áreas de Responsabilidades:
 
-1. Citar al presunto responsable e iniciar e instruir el procedimiento de investigación a fin de determinar las responsabilidades a que hubiere lugar, e imponer en su caso las sanciones de conformidad con lo previsto en la Ley de la materia;
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-2. Llevar los registros de los asuntos de su competencia;
+1. Citar al presunto responsable e iniciar e instruir el procedimiento de investigación a fin de determinar las responsabilidades a que hubiere lugar, e imponer en su caso las sanciones aplicables en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos, y determinar la suspensión temporal del presunto responsable de su empleo, cargo o comisión, si a su juicio así conviene para la conducción o continuación de las investigaciones, de conformidad con lo previsto en la referida Ley;
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+2. Llevar los registros de los asuntos de su competencia y expedir las certificaciones de los documentos que obren en sus archivos;
 
 3. Dictar las resoluciones en los recursos de revocación interpuestos por los servidores públicos respecto de la imposición de sanciones administrativas, así como realizar la defensa jurídica de las resoluciones que emitan ante las diversas instancias jurisdiccionales, representando al Titular de la Secretaría;
 
@@ -1343,7 +1567,9 @@ a) Los titulares de las áreas de Responsabilidades:
 
 5. Auxiliar al titular del órgano interno de control en la formulación de requerimientos, información y demás actos necesarios para la atención de los asuntos en materia de responsabilidades, así como solicitar a las unidades administrativas la información requerida para el cumplimiento de sus funciones, y
 
-6. Las demás que les atribuya expresamente el Titular de la Secretaría.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+6. Las demás que les atribuya expresamente el Secretario y el titular del órgano interno de control correspondiente;
 
 b) Los titulares de las áreas de Auditoría:
 
@@ -1355,9 +1581,21 @@ A. De Auditoría Interna:
 
 3. Requerir a las unidades administrativas de la dependencia, órgano desconcentrado, entidad o de la Procuraduría General de la República la información, documentación y su colaboración para el cumplimiento de sus funciones y atribuciones;
 
-4. Proponer al titular del órgano interno de control las intervenciones que en la materia se deban incorporar al Programa Anual de Control y Auditoría, y
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-5. Las demás que les atribuya expresamente el Titular de la Secretaría;
+4. Proponer al titular del órgano interno de control las intervenciones que en la materia se deban incorporar al Programa Anual de Control y Auditoría;
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+5. Auxiliar al titular del órgano interno de control en la formulación de requerimientos, información y demás actos necesarios para la atención de los asuntos en la materia, así como solicitar a las unidades administrativas la información requerida para el cumplimiento de sus funciones;
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+6. Llevar los registros de los asuntos de su competencia y expedir las certificaciones de los documentos que obren en sus archivos, y
+
+> <small>(ADICIONADO D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+7. Las demás que les atribuya expresamente el Secretario y el titular del órgano interno de control correspondiente;
 
 B. De Auditoría de Control y Evaluación:
 
@@ -1371,9 +1609,25 @@ B. De Auditoría de Control y Evaluación:
 
 5. En coordinación con las unidades administrativas competentes de la Secretaría, promover en el ámbito de la dependencia, órgano desconcentrado o entidad, o en el de la Procuraduría General de la República el establecimiento de pronunciamientos de carácter ético, así como de programas orientados a la transparencia, el combate a la corrupción y a la impunidad, así como la simplificación, el incremento de la productividad y el mejoramiento administrativo;
 
-6. Proponer al titular del órgano interno de control las intervenciones que en materia de evaluación de control se deban integrar al Programa Anual de Control y Auditoría, y
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-7. Las demás que les atribuya expresamente el Titular de la Secretaría;
+6. Proponer al titular del órgano interno de control las intervenciones que en materia de evaluación y de control se deban integrar al Programa Anual de Control y Auditoría;
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+7. Auxiliar al titular del órgano interno de control en la formulación de requerimientos, información y demás actos necesarios para la atención de los asuntos en la materia, así como solicitar a las unidades administrativas la información requerida para el cumplimiento de sus funciones;
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+8. Llevar los registros de los asuntos de su competencia y expedir las certificaciones de los documentos que obren en sus archivos, y
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+9. Las demás que les atribuya expresamente el Secretario y el titular del órgano interno de control correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+Corresponden al titular del área de Auditoría las atribuciones señaladas en los apartados A y B del inciso b) de esta fracción IV, cuando dichas atribuciones recaigan en un mismo servidor público;
 
 c) Los titulares de las áreas de Quejas:
 
@@ -1383,15 +1637,41 @@ c) Los titulares de las áreas de Quejas:
 
 3. Conocer previamente a la presentación de una inconformidad, de las irregularidades que a juicio de los interesados se hayan cometido en los procedimientos de adjudicación de adquisiciones y servicios, así como de las obras públicas que lleven a cabo con la finalidad de que las mismas se corrijan cuando así proceda;
 
-4. Auxiliar al titular del órgano interno de control en la formulación de requerimientos, información y demás actos necesarios para la atención de los asuntos en la materia, así como solicitar a las unidades administrativas la información requerida para el cumplimiento de sus funciones, y
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-5. Las demás que les atribuya expresamente el Titular de la Secretaría.
+4. Auxiliar al titular del órgano interno de control en la formulación de requerimientos, información y demás actos necesarios para la atención de los asuntos en la materia, así como solicitar a las unidades administrativas la información requerida para el cumplimiento de sus funciones;
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+5. Llevar los registros de los asuntos de su competencia y expedir las certificaciones de los documentos que obren en sus archivos, y
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+6. Las demás que les atribuya expresamente el Secretario y el titular del órgano interno de control correspondiente.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
 Para la atención de los asuntos y la sustanciación de los procedimientos a su cargo, los titulares de los órganos internos de control, así como los de las áreas de auditoría, quejas y responsabilidades se auxiliarán del personal adscrito a los propios órganos internos de control.
 
-El incumplimiento de las obligaciones previstas para el personal mencionado en último término del párrafo anterior, dará lugar al fincamiento de responsabilidades administrativas de conformidad con las disposiciones aplicables.
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-La función de delegado, comisario y titular del órgano interno de control, podrá concentrarse en cualquiera de sus modalidades en un mismo servidor público, que será en este caso, el titular del órgano interno de control, de acuerdo a las necesidades de la Secretaría, y
+Para la instrucción y sustanciación de los procedimientos a que se refiere el párrafo anterior, incluidas la citación, celebración de audiencia de ley, admisión y desahogo de pruebas y demás diligencias pertinentes, el órgano interno de control de la Procuraduría General de la República, contará específicamente con Direcciones de Responsabilidades "A" y "B", Subdirecciones de Responsabilidades "A" y "B", Jefes de Departamento de Proyectos y Jefes de Departamento de Instrucción, adscritos a dicho órgano, según el turno que determine el titular del propio órgano interno de control o el titular del área de responsabilidades del mismo.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+El incumplimiento de las obligaciones previstas para el personal adscrito a los órganos internos de control mencionado en los dos párrafos anteriores, dará lugar al fincamiento de responsabilidades administrativas de conformidad con las disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+La función de delegado, comisario y titular del órgano interno de control, podrá concentrarse en cualquiera de sus modalidades en un mismo servidor público, que será en este caso, el titular del órgano interno de control, de acuerdo a las necesidades de la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+La función de titular de área de responsabilidades, auditoría y quejas podrá concentrarse en un mismo servidor público, teniendo las facultades propias de cada una de las áreas para efectos del ejercicio de las atribuciones que les confiere este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+El Secretario podrá encargar el despacho de los asuntos de un órgano interno de control en una entidad paraestatal, al titular del órgano interno de control en la dependencia a la cual esté sectorizada aquélla, o al titular del órgano interno de control en otra entidad paraestatal del mismo sector. En su caso, los titulares de las áreas de responsabilidades, quejas y auditoría del órgano interno de control en la entidad paraestatal correspondiente reportarán directamente al encargado del despacho respectivo, y
 
 V. Los supervisores regionales a que se refiere el artículo 2 de este Reglamento ejercerán en la circunscripción territorial que determine el Titular de la Secretaría las atribuciones referidas en la fracción II del artículo 31, así como las siguientes:
 
@@ -1495,11 +1775,23 @@ Durante las ausencias de los titulares de las áreas de responsabilidades, audit
 
 Las ausencias de los supervisores regionales serán suplidas por los supervisores regionales adjuntos, y éstos, por el especialista en atención ciudadana que designe el supervisor regional.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+En el caso de las vacantes de los titulares de los órganos internos de control, en tanto el Titular de la Secretaría designa al servidor público correspondiente fungirá con ese carácter el titular del área de auditoría o el de quejas, en ese orden.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
 En el caso de las vacantes del titular del área de responsabilidades en los órganos internos de control, en tanto el Titular de la Secretaría designa al servidor público correspondiente, fungirá con ese carácter el titular del área de quejas o en su caso, el del área de auditoría, en ese orden.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+
+En el caso de las vacantes de los titulares de las áreas de auditoría y de quejas en los órganos internos de control, en tanto el Titular de la Secretaría designa al servidor público correspondiente fungirá con ese carácter el titular del área de responsabilidades.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 55.
 
-Durante las ausencias del Secretario Ejecutivo de la Comisión Intersecretarial para la Transparencia y el Combate a la Corrupción, del Coordinador General de los Órganos de Vigilancia y Control, de los Titulares de Unidad, Directores Generales, Directores Generales Adjuntos, Directores de Área, Subdirectores y Jefes de Departamento, éstos serán sustituidos por los servidores públicos de la jerarquía inmediata inferior que designen los correspondientes Secretario Ejecutivo de la Comisión Intersecretarial para la Transparencia y el Combate a la Corrupción, Coordinador General de los Órganos de Vigilancia y Control, Titulares de Unidad, Directores Generales, Directores Generales Adjuntos, Directores de Área, Subdirectores y Jefes de Departamento. Las ausencias del Coordinador de Visitadurías de Atención Ciudadana, Responsabilidades e Inconformidades serán suplidas por el servidor público de la jerarquía inmediata inferior que designe el propio Coordinador de Visitadurías de Atención Ciudadana, Responsabilidades e Inconformidades.
+Durante las ausencias del Secretario Ejecutivo de la Comisión Intersecretarial para la Transparencia y el Combate a la Corrupción en la Administración Pública Federal, del Coordinador General de Órganos de Vigilancia y Control, de los Titulares de Unidad, Directores Generales, Directores Generales Adjuntos, Directores de Área, Subdirectores y Jefes de Departamento, éstos serán sustituidos por los servidores públicos de la jerarquía inmediata inferior que designen los correspondientes Secretario Ejecutivo de la Comisión Intersecretarial para la Transparencia y el Combate a la Corrupción en la Administración Pública Federal, Coordinador General de Órganos de Vigilancia y Control, Titulares de Unidad, Directores Generales, Directores Generales Adjuntos, Directores de Área, Subdirectores y Jefes de Departamento. Las ausencias del Coordinador de Visitadurías de Atención Ciudadana, Responsabilidades e Inconformidades serán suplidas por el servidor público de la jerarquía inmediata inferior que designe el propio Coordinador de Visitadurías de Atención Ciudadana, Responsabilidades e Inconformidades.
 
 ## TRANSITORIOS
 
@@ -1514,3 +1806,13 @@ CUARTO.- Las menciones que en las leyes, reglamentos y demás disposiciones jur�
 QUINTO.- Las menciones que en los reglamentos interiores o estatutos orgánicos de las dependencias y entidades de la Administración Pública Federal y de la Procuraduría General de la República se hagan de los artículos 26, fracciones III y IV y 33 del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo, se entenderán referidos a los artículos 47, fracciones III y IV y 54, respectivamente, del presente Reglamento Interior.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de julio de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Contraloría y Desarrollo Administrativo, Francisco Javier Barrio Terrazas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 29 DE NOVIEMBRE DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+TERCERO.- Los asuntos pendientes al entrar en vigor este Decreto, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas a las que se les haya atribuido la competencia en el presente ordenamiento.
