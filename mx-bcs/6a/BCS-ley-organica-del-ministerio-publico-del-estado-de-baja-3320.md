@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-ministerio-publico-del-estado-de-baja-3320"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1997-08-10"
+last_updated: "1998-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE AGOSTO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MAYO DE 1998.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1976.
 
@@ -137,9 +137,13 @@ IX. Los Agentes del Ministerio Público Investigadores y Adscritos a los Juzgado
 
 X. Los Agentes del Ministerio Público adscritos al Procurador General de Justicia.
 
-XI. Los Agentes Auxiliares del Ministerio Público; y
+XI. Los Agentes Auxiliares del Ministerio Público; y (sic)
 
-XII. Los Subdirectores, Jefes de Departamento, Jefes de Oficina y demás personal que señale el presupuesto.
+> <small>(ADICIONADA, B.O. 10 DE MAYO DE 1998)</small>
+
+XII. Los Secretarios de Acuerdos; y
+
+XIII. Los Subdirectores, Jefes de Departamento, Jefes de Oficina y demás personal que señale el presupuesto.
 
 ###### ARTICULO 10o.
 
@@ -183,9 +187,11 @@ V. No haber sido condenado por delitos intencionales.
 
 Oyendo la opinión del Gobernador del Estado, el Procurador General de Justicia, hará las designaciones y remociones, de los servidores públicos de la Procuraduría, para todos los efectos legales que correspondan, sin perjuicio de las disposiciones aplicables en materia de los trabajadores al servicio del Estado.
 
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 16.
 
-Los nombramientos se obtendrán previo concurso de méritos u oposición entre los aspirantes, a quienes se requerirá examen de admisión, que practicará la Institución.
+Los nombramientos se obtendrán previo concurso de oposición y méritos entre los aspirantes, que practicará el Instituto Interdisciplinario de Ciencias Penales, órgano desconcentrado de la Procuraduría General de Justicia.
 
 > <small>(REFORMADO, B.O. 20 DE MAYO DE 1992)</small>
 
@@ -199,23 +205,41 @@ En caso de notoria y grave responsabilidad, podrá el Procurador General de Just
 
 El Procurador tiene facultad para cambiar discrecionalmente la adscripción de todo el personal de confianza.
 
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 19.
 
 Los Agentes del Ministerio Público deberán reunir los siguientes requisitos:
 
-I. Ser ciudadano mexicano por nacimiento preferentemente sudcaliforniano, mayor de veintiún años y en pleno ejercicio de sus derechos.
+I. Ser mexicano por nacimiento con residencia efectiva en el Estado, no menor de dos años al día de su designación y en pleno ejercicio de sus derechos.
 
-II. Acreditar haber observado buena conducta y no haber sido sentenciado como responsable por delitos intencionales.
+II. Tener 25 años cumplidos el día de la designación.
 
-III. Ser Licenciado en Derecho, con título legalmente expedido.
+III. Ser Licenciado en Derecho, con título y cédula profesional legalmente expedidos y una experiencia profesional mínima de dos años.
 
-El Procurador podrá dispensar el requisito del título a los Agentes del Ministerio Público, cuando las necesidades del servicio así lo requieran.
+IV. Acreditar haber observado buena conducta y no haber sido sentenciado como responsable por delitos intencionales.
+
+V. Haber aprobado los exámenes de verificación de que no es adicto a ningún estupefaciente o alcoholismo; y
+
+VI. Someterse a los procedimientos de formación inicial que establezca la Procuraduría, a través del Instituto Interdisciplinario de Ciencias Penales.
 
 > <small>(REFORMADO, B.O. 20 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 20.
 
 Los Agentes adscritos al Procurador además de reunir los requisitos señalados en el artículo anterior, deberán tener cuando menos dos años de ejercicio profesional.
+
+> <small>(ADICIONADO, B.O. 10 DE MAYO DE 1998)</small>
+
+ARTICULO 20 BIS.- Para ser Secretario de Acuerdos, se requiere:
+
+I. Ser mexicano por nacimiento, con residencia efectiva en el Estado, no menor de dos años al día de su designación y en pleno ejercicio de sus derechos.
+
+II. Tener 21 años cumplidos el día de la designación.
+
+III. Ser Licenciado o Pasante en Derecho; y
+
+IV. Cumplir los demás requisitos establecidos en las fracciones IV, V y VI del Artículo 19 de esta Ley.
 
 ###### ARTICULO 21.
 
@@ -239,17 +263,25 @@ II. Acreditar haber concluido la enseñanza secundaria.
 
 III. Acreditar haber observado buena conducta y no haber sido sentenciado como responsable por delitos intencionales.
 
-> <small>(REFORMADA, B.O. 10 DE JULIO DE 1981)</small>
+> <small>(REFORMADA, B.O. 10 DE MAYO DE 1998)</small>
 
-IV. Aprobar los exámenes de ingreso que se practiquen.
+IV. Presentar cartilla liberada del Servicio Militar Nacional.
 
-> <small>(REFORMADA, B.O. 10 DE JULIO DE 1981)</small>
+> <small>(REFORMADA, B.O. 10 DE MAYO DE 1998)</small>
 
-V. Participar y aprobar los cursos que imparte la Institución.
+V. Haber aprobado los exámenes psicométricos y de aptitud que se le practiquen.
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
+> <small>(ADICIONADA, B.O. 10 DE MAYO DE 1998)</small>
 
-Estos requisitos deberán acreditarse ante el Procurador General de Justicia.
+VI. Haber aprobado los exámenes de verificación de que no es adicto a ningún estupefaciente o alcoholismo; y
+
+> <small>(ADICIONADA, B.O. 10 DE MAYO DE 1998)</small>
+
+VII. Participar y aprobar los cursos que imparta la Institución.
+
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 1998)</small>
+
+Estos requisitos deberán acreditarse ante el Procurador General de Justicia, quien deberá cerciorarse de los antecedentes del aspirante en el Registro Nacional policiaco del Sistema Nacional de Seguridad Pública.
 
 > <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
 
@@ -675,7 +707,9 @@ Son facultades y obligaciones de los Agentes Investigadores del Ministerio Públ
 
 I. Practicar las averiguaciones previas correspondientes al Estado;
 
-II. Practicar las primeras diligencias que tiendan a la comprobación del cuerpo del delito y la responsabilidad de los indiciados en los términos del Código de Procedimientos de la Materia, debiendo estar acompañados en todas las diligencias que practique por dos testigos de asistencia que darán fé de ellas.
+> <small>(REFORMADA, B.O. 10 DE MAYO DE 1998)</small>
+
+II. Practicar las primeras diligencias, que tiendan a la comprobación del cuerpo del delito y la responsabilidad de los indiciados en los términos del Código de Procedimientos de la materia, debiendo estar acompañados en todas las diligencias que practiquen de su secretario o de dos testigos de asistencia que darán fe de ellas.
 
 III. Aprehender al infractor y a sus cómplices, en los casos a que se refiere el Artículo 16 de la Constitución General de la República.
 
@@ -685,9 +719,13 @@ V. Dictar las resoluciones procedentes, los acuerdos de reserva, suspensión, in
 
 VI. Las demás que se atribuyan las Leyes, los reglamentos y el Procurador General de Justicia del Estado.
 
-> <small>(ADICIONADO, B.O. 20 DE MAYO DE 1992)</small>
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 1998)</small>
 
-ARTICULO 39 BIS.- Los Agentes Auxiliares del Ministerio Público, tendrán las mismas facultades y obligaciones de los Agentes del Ministerio Público, cuando los suplan en sus faltas temporales; pero actuarán bajo la Dirección de aquellos cuando actúen como auxiliares.
+ARTICULO 39 A.- Los Agentes Auxiliares del Ministerio Público, tendrán las mismas facultades y obligaciones de los Agentes del Ministerio Público, cuando los suplan en sus faltas temporales; pero actuarán bajo la Dirección de aquellos cuando actúen como auxiliares.
+
+> <small>(ADICIONADO, B.O. 10 DE MAYO DE 1998)</small>
+
+ARTICULO 39 B.- Los Secretarios de Acuerdos, además de las funciones que expresamente les confiera el Reglamento Interior de la Procuraduría General de Justicia, tendrán las de autorizar con su firma las actas, diligencias, autos y toda clase de resoluciones que se expidan, asienten o dicten por el Agente del Ministerio Público Investigador o adscrito, acompañando a éste en todas las diligencias que practique.
 
 ### CAPITULO SEXTO. JEFATURA DE SERVICIOS PERICIALES
 
@@ -996,3 +1034,13 @@ B.O. 10 DE AGOSTO DE 1997.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a lo establecido en este Decreto.
+
+B.O. 10 DE MAYO DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se concede un plazo de 120 días naturales contados a partir de la entrada en vigor del presente Decreto, para que los CC. Agentes del Ministerio Público que carezcan de título de Licenciado en Derecho legalmente expedido, acrediten lo conducente.
