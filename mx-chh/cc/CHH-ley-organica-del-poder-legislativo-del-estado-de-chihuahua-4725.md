@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2002-11-09"
+last_updated: "2002-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2002.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -1147,15 +1147,19 @@ Cuando las circunstancias lo permitan, el orden del día deberá entregarse a lo
 
 El derecho de iniciar leyes y decretos corresponde a los miembros del Congreso y a los órganos señalados en el artículo 68 de la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+
 ###### Art. 98.
 
-Las iniciativas de ley o decreto contendrán la exposición de motivos que las fundamenten y el articulado que propongan.
+Las iniciativas de ley, de decreto o de punto de acuerdo contendrán la exposición de motivos que las fundamenten y el articulado que propongan.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 ###### Art. 99.
 
-Ninguna iniciativa se someterá a la consideración del Congrego (sic), sin que antes haya sido examinada y dictaminada por la comisión o comisiones correspondientes.
+Ninguna iniciativa se someterá a la consideración del Congreso o en su caso de la Diputación Permanente, sin que antes haya sido examinada y dictaminada por la Comisión o Comisiones correspondientes.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1999)</small>
 
 Se exceptúan de lo anterior las iniciativas presentadas como punto de acuerdo y que versen sobre situaciones de carácter urgente que deban atenderse de manera inmediata, a juicio de la Diputación Permanente o del pleno del Congreso, pudiendo emitirse la resolución respectiva sin necesidad de turnar el planteamiento a alguna comisión legislativa.
 
@@ -1732,3 +1736,13 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 P.O. 9 DE NOVIEMBRE DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado, y hecho que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
