@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1995-02-27"
+last_updated: "1997-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE FEBRERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE NOVIEMBRE DE 1997.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -125,7 +125,7 @@ Los órganos electorales dispondrán del personal calificado necesario para pres
 
 ###### Artículo 12.
 
-Los partidos políticos son entidades de interés público que tienen como fin promover la vida democracia, contribuir a la integración de la representación popular, y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público de acuerdo con los programas, principios e ideas que postulan. Su participación en los procesos electorales estará garantizada y determinada por la ley.
+Los partidos políticos son entidades de interés público que tienen como fin promover la vida democracia, contribuir a la integración de la representación popular y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público de acuerdo con los programas, principios e ideas que postulan. Su participación en los procesos electorales estará garantizada y determinada por la ley.
 
 Para el cumplimiento de todos sus fines, los partidos gozarán de las prerrogativas cuyo otorgamiento se hará en la forma que la ley determine.
 
@@ -586,6 +586,10 @@ Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cum
 Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
 
 (Fecha y rúbricas del Gobernador y del Secretario General de Gobierno)
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 1997)</small>
+
+(La exposición de motivos que originó su expedición y el dictamen legislativo correspondiente).
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -2178,3 +2182,13 @@ DÉCIMO TERCERO.- En tanto se expide la Ley Reglamentaria del artículo 77 fracc
 DÉCIMO CUARTO.- En tanto se expide la Ley Reglamentaria del artículo 61 fracciones XXV y XXVI de esta Constitución, seguirá en vigor la actual Ley Reglamentaria del artículo 70 fracciones III y IV de la Constitución que se reforma.
 
 DÉCIMO QUINTO.- Los actos y procedimientos que con base en las disposiciones de la Constitución que se reforma, se encuentren en trámite concluirán de conformidad con ésta.
+
+P.O. 27 DE NOVIEMBRE DE 1997
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en la "Gaceta del Gobierno"
+
+###### ARTÍCULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno"
