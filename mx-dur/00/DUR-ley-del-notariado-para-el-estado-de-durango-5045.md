@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-notariado-para-el-estado-de-durango-5045"
 country: "mx"
 rank: "ley"
 publication_date: "1974-06-20"
-last_updated: "1985-11-28"
+last_updated: "1990-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5045&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 1990.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de junio de 1974.
 
@@ -181,9 +181,11 @@ Entre uno y otro de los instrumentos de un mismo volumen, no habrá más espacio
 
 Si por algún motivo quedare algún espacio en blanco, será inutilizado este espacio por el notario, por medio de líneas cruzadas.
 
+> <small>(REFORMADO. P.O. 19 DE AGOSTO DE 1990)</small>
+
 ###### ARTICULO 19.
 
-El notario, cuando calcule que ya no puede dar cabida a otro instrumento más, en cualesquiera de los libros en uso, cerrará todos los libros que esté utilizando, poniendo razón de clausura, en un término no mayor de treinta días, a partir de la fecha de la última escritura, expresando en la razón del número de fojas utilizadas, el número de instrumentos autorizados en el libro y el lugar y hora en que se cierra, así como los instrumentos que no pasaron y los que quedan pendientes de autorización; enumerando aquéllos y expresando el motivo de estar pendientes éstos. Inmediatamente después de que ponga esta razón autorizada con su firma y sello, enviará los libros a la Dirección General de Notarías, si reside en el mismo lugar que ésta, ó al encargado del Registro Público de la Propiedad de su domicilio en caso contrario; quienes en el mismo libro asentarán certificación de ser cierta la razón que cierra cada libro, autorizada con la firma y sello correspondientes, y devolverán los libros al notario, inutilizando por medio de líneas cruzadas las hojas en blanco que hayan sobrado.
+El Notario, cuando calcule que ya no puede dar cabida a otro instrumento más en cualquiera de los libros en uso, cerrará todos los libros que esté utilizando y al día hábil siguiente a aquél en que concluya el término de sesenta días hábiles siguientes a la fecha de asiento de la última Escritura asentará a razón de clausura en la que expresará el número de fojas utilizadas, el número de instrumentos autorizados en el libro y el lugar en que se cierra, así como los instrumentos que no pasaron y los que quedan pendientes de autorización; enumerando aquellos y expresando el motivo de estar pendientes éstos. Inmediatamente enviará los libros a la Dirección General de Notarías, si reside en el mismo lugar que ésta, ó al encargado del Registro Público de la Propiedad de su domicilio en caso contrario; quienes en el mismo libro asentarán certificación de ser cierta la razón que cierra cada libro, autorizada con la firma y sello correspondientes, y devolverán los libros al Notario, inutilizando por medio de líneas cruzadas las hojas en blanco que hayan sobrado.
 
 ###### ARTICULO 20.
 
@@ -1170,3 +1172,9 @@ UNICO.- El presente Decreto surtirá sus efectos quince días después de su pub
 P.O. 28 DE NOVIEMBRE DE 1985.
 
 UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE AGOSTO DE 1990.
+
+PRIMERO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Notarios Públicos del Estado de Durango, darán cumplimiento a lo ordenado en el Artículo 19 reformado de esta Ley, en todos aquellos libros de su protocolo concluídos con posterioridad al día dos de Enero de mil novecientos ochenta y dos, concediéndoseles el término de tres meses contando a partir de la publicación de este Decreto para acreditar ante la Dirección General de Notarías del Estado el cumplimiento de este precepto, hecho lo cual el C. Director General de Notarías del Estado, procederá a certificar la razón de clausura de que se trata en los casos en que proceda.
