@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "1997-01-03"
+last_updated: "1997-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1997.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -369,7 +369,7 @@ a).- Manifestar por escrito el carácter con el que se concurre, sea éste el de
 
 b).- Manifestar por escrito el nombre de la o las personas a quienes pertenezcan las acciones que representen y señalar invariablemente el número de acciones que a cada una corresponda, cuando se asista con el carácter de mandatario, comisionista o cualquier tipo de representante, así como en los demás casos que determine la Comisión Nacional de Seguros y Fianzas, y.
 
-c.- (DEROGADO, D.O.F. 17 DE NOVIEMBRE DE 1995)
+c).- (DEROGADO, D.O.F. 17 DE NOVIEMBRE DE 1995)
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -2457,9 +2457,21 @@ Para proceder penalmente por los delitos previstos en los artículos 112 bis, 11
 
 Tratándose de los delitos a que se refiere el artículo 112 Bis-4 de esta Ley, las instituciones de fianzas podrán también presentar directamente denuncia penal ante las autoridades competentes.
 
-> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas, dictará disposiciones de carácter general para prevenir y detectar en las instituciones de fianzas, actos u operaciones con recursos, derechos o bienes que procedan o representen el producto de un probable delito. Estas disposiciones deberán ser observadas por los empleados y funcionarios de los citados intermediarios. La violación de las mismas será sancionada con multa equivalente del diez hasta el cien por ciento del monto del acto u operación de que se trate, la cual será impuesta por la Comisión Nacional de Seguros y Fianzas a los intermediarios financieros mencionados.
+La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas, dictará disposiciones de carácter general que tengan como finalidad establecer medidas y procedimientos para prevenir y detectar en las instituciones de fianzas, actos u operaciones, que puedan ubicarse en los supuestos del artículo 400 bis del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, incluyendo la obligación de presentar a esa Secretaría, por conducto de la citada Comisión, reportes sobre las operaciones y actividades que realicen sus contratantes, fiados, beneficiarios y otros usuarios, por los montos y en los supuestos, que en dichas disposiciones de carácter general se establezcan.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+Dichas disposiciones deberán considerar entre otros aspectos, criterios para la adecuada identificación de los clientes y usuarios de las operaciones y servicios de las mencionadas instituciones, que consideren sus condiciones específicas, actividad económica o profesional, los montos, frecuencia, tipos y naturaleza de las operaciones e instrumentos monetarios con que las realicen y su relación con las actividades de los clientes o usuarios; las plazas en que operen y las prácticas comerciales y afianzadoras que priven en las mismas; la debida y oportuna capacitación de su personal; y medidas específicas de seguridad en el manejo de las operaciones de las propias instituciones afianzadoras.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+Las disposiciones de carácter general señaladas en el párrafo anterior y las obligaciones previstas en ellas, deberán ser observadas por los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de las citadas empresas; la violación de las mismas será sancionada por la Comisión Nacional de Seguros y Fianzas con multa equivalente del diez al cien por ciento del acto u operación de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+Tanto los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional de Seguros y Fianzas, como los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de las instituciones a que se refiere este artículo, deberán abstenerse de dar noticia o información de las operaciones previstas en el mismo a personas, dependencias o entidades, distintas de las autoridades competentes expresamente señaladas. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -3298,3 +3310,9 @@ TERCERO.- Para efectos del registro diario a que se refiere el artículo 63 de l
 CUARTO.- Los procedimientos derivados de reclamaciones contra una institución de fianzas que se hubieren iniciado, continuarán su trámite en los términos de las disposiciones que se encontraban vigentes al momento de la presentación de tales reclamaciones.
 
 QUINTO.- A las personas que hubieren cometido infracciones o delitos, con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las sanciones vigentes al momento en que se hubieren realizado dichas conductas.
+
+D.O.F. 7 DE MAYO DE 1997.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las disposiciones de carácter general que la Secretaría de Hacienda y Crédito Público haya emitido bajo la vigencia de los artículos que se reforman en este decreto, continuarán vigentes hasta en tanto no sean modificadas, abrogadas o derogadas por la misma dependencia.
