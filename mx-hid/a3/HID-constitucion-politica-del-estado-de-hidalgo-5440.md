@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1975-09-15"
+last_updated: "1976-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 1976.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -105,9 +105,9 @@ P.O. 1 DE JUNIO DE 1937.
 
 El Territorio del Estado, es el expresado en el Supremo Decreto de Erección del 16 de enero de 1869, y se integra con los 84 municipios que a continuación se enumeran:
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1973)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1976)</small>
 
-1. Acatlán, 2. Acaxochitlán, 3. Actopan, 4. Agua Blanca, 5. Ajacuba, 6.Alfajayucan, 7. Almoloya, 8. Apan, 9. Atitalaquia, 10. Atlapexco, 11. Atotonilco el Grande, 12. Atotonilco de Tula, 13. Calnali, 14. Cardonal, 15; Cuautepec, 16. Chapantongo, 17. Chapulhuacán, 18. Chilcuautla, 19. El Arenal, 20. Eloxochitlán, 21. Emiliano Zapata, 22. Epazoyucán, 23. Francisco I. Madero, 24. Huasca de Ocampo, 25. Huautla, 26. Huazalingo, 27. Huehuetla, 28. Huejutla, 29. Huichapan, 30. Ixmiquilpan, 31. Jacala, 32. Jaltocán, 33. Juárez Hidalgo, 34. La Misión, 35. Lolotla, 36. Metepec, 37. Metzquititlán, 38. Metztitlán, 39. Mineral del Chico, 40. Mineral del Monte, 41. Mineral de la Reforma, 42. Mixquiahuala, 43. Molango, 44. Nicolás Flores, 45. Nopala de Villagrán, 46. Omitlán de Juárez, 47. Orizatlán, 48. Pacula, 49. Pachuca, 50. Pisaflores, 51. Progreso, 52. San Agustín Tlaxiaca, 53. San Bartolo Tutotepec, 54. San Salvador, 55. Santiago de Anaya, 56. Santiago Tulantepec, 57. Singuilucan, 58. Tasquillo, 59. Tecozautla, 60. Tenango de Doria, 61. Tepeapulco, 62. Tepehuacán de Guerrero, 63. Tepeji de Ocampo, 64. Tepetitlán, 65. Tetepango, 66. Tezontepec de Aldama, 67. Tianguistengo, 68. Tizayuca, 69. Tlahuelilpan, 70. Tlahuiltepa, 71. Tlanalapa, 72. Tlanchinol, 73. Tlaxcoapan, 74. Tolcayuca, 75. Tula de Allende, 76. Tulancingo, 77. Villa de Tezontepec, 78. Xochiatipan, 79. Xochicoatlán, 80. Yahualica, 81. Zacualtipán, 82. Zapotlán de Juárez, 83. Zempoala, 84. Zimapán.
+1. Acatlán, 2. Acaxochitlán, 3. Actopan, 4. Agua Blanca, 5. Ajacuba, 6.Alfajayucan, 7. Almoloya, 8. Apan, 9. Atitalaquia, 10. Atlapexco, 11. Atotonilco el Grande, 12. Atotonilco de Tula, 13. Calnali, 14. Cardonal, 15; Cuautepec, 16. Chapantongo, 17. Chapulhuacán, 18. Chilcuautla, 19. El Arenal, 20. Eloxochitlán, 21. Emiliano Zapata, 22. Epazoyucán, 23. Francisco I. Madero, 24. Huasca de Ocampo, 25. Huautla, 26. Huazalingo, 27. Huehuetla, 28. Huejutla, 29. Huichapan, 30. Ixmiquilpan, 31. Jacala, 32. Jaltocán, 33. Juárez Hidalgo, 34. La Misión, 35. Lolotla, 36. Metepec, 37. Metzquititlán, 38. Metztitlán, 39. Mineral del Chico, 40. Mineral del Monte, 41. Mineral de la Reforma, 42. Mixquiahuala, 43. Molango, 44. Nicolás Flores, 45. Nopala de Villagrán, 46. Omitlán de Juárez, 47. Orizatlán, 48. Pacula, 49. Pachuca, 50. Pisaflores, 51. Progreso, 52. San Agustín Tlaxiaca, 53. San Bartolo Tutotepec, 54. San Salvador, 55. Santiago de Anaya, 56. Santiago Tulantepec, 57. Singuilucan, 58. Tasquillo, 59. Tecozautla, 60. Tenango de Doria, 61. Tepeapulco, 62. Tepehuacán de Guerrero, 63. Tepeji del Río de Ocampo, 64. Tepetitlán, 65. Tetepango, 66. Tezontepec de Aldama, 67. Tianguistengo, 68. Tizayuca, 69. Tlahuelilpan, 70. Tlahuiltepa, 71. Tlanalapa, 72. Tlanchinol, 73. Tlaxcoapan, 74. Tolcayuca, 75. Tula de Allende, 76. Tulancingo, 77. Villa de Tezontepec, 78. Xochiatipan, 79. Xochicoatlán, 80. Yahualica, 81. Zacualtipán, 82. Zapotlán de Juárez, 83. Zempoala, 84. Zimapán.
 
 ## TITULO II. DEL PODER PUBLICO Y DE LA FORMA DE GOBIERNO
 
@@ -1176,6 +1176,10 @@ Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el 
 P.O. 15 DE SEPTIEMBRE DE 1975.
 
 Unico.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JUNIO DE 1976.
+
+Este Decreto entrará en vigor el día 3 de junio (sic) próximo.
 
 ###### Artículo 3o.
 
