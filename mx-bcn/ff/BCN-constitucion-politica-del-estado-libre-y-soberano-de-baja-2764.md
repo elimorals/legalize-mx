@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2002-10-18"
+last_updated: "2002-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2002.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -677,6 +677,14 @@ Todo proyecto de ley al que no hubiere hecho observaciones el Ejecutivo dentro d
 
 Los proyectos de ley que hubieren sido objetados por el Ejecutivo, conforme a esta Constitución, y que hayan sido ratificados por el Congreso, deberán ser promulgados en un término que no exceda de cinco días, a contar de la fecha en que hayan sido remitidos nuevamente al Ejecutivo.
 
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2002)</small>
+
+Las leyes, ordenamientos y disposiciones de observancia general que hayan sido aprobados por el Congreso del Estado y sancionadas por el Ejecutivo deberán ser publicados en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2002)</small>
+
+Si los reglamentos, circulares y demás disposiciones de observancia general, no fijan el día en que deben comenzar a observarse, serán obligatorias tres días después de su publicación en el Periódico Oficial del Estado.
+
 > <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 Las leyes que expida el Congreso del Estado, excepto las de índole tributario o fiscal, podrán ser sometidas a Referéndum, conforme lo disponga la Ley.
@@ -1181,7 +1189,7 @@ El Tribunal de Justicia Electoral, por conducto de su Presidente, presentará su
 
 El Tribunal expedirá su Reglamento Interno y las disposiciones administrativas para su adecuado funcionamiento.
 
-### CAPITULO V.. DEL PATRIMONIO Y LA HACIENDA PUBLICA MUNICIPAL
+### CAPITULO IV.. DE LAS ATRIBUCIONES, FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -1231,7 +1239,7 @@ La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y d
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-### CAPITULO IV.. DE LAS ATRIBUCIONES, FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
+### CAPITULO V.. DEL PATRIMONIO Y LA HACIENDA PUBLICA MUNICIPAL
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -2458,3 +2466,7 @@ P.O. 18 DE OCTUBRE DE 2002.
 PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
 
 SEGUNDO.- Córrase el trámite que señala el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, a los Municipios de esta entidad para que emitan su opinión en los términos de ley.
+
+P.O. 1 DE NOVIEMBRE DE 2002.
+
+UNICO: Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
