@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2004-12-03"
+last_updated: "2004-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -1127,7 +1127,9 @@ VIII.- Administrar los recursos materiales de la Administración Pública Munici
 
 IX.- Adquirir y suministrar los bienes y servicios que se requieran para el funcionamiento de las dependencias;
 
-X.- Conducir los procesos de convocatoria pública y licitación de obras, servicios y adquisiciones que se requieran, y celebrar los contratos respectivos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+X.- Conducir los procesos de convocatoria pública y licitación de servicios y adquisiciones que se requieran, y celebrar los contratos respectivos, de conformidad con lo dispuesto por el marco jurídico aplicable;
 
 XI.- Recibir de las dependencias los bienes muebles que dejen de ser útiles, y tramitar su baja en los inventarios y la contabilidad;
 
@@ -1203,7 +1205,9 @@ VIII.- Celebrar contratos de arrendamiento de bienes inmuebles, para el uso de �
 
 IX.- Salvaguardar el uso público de los edificios que estén bajo la responsabilidad de las dependencias;
 
-X.- Efectuar las licitaciones y adjudicaciones de contratos de obra pública municipal;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+X.- Participar en las licitaciones y adjudicaciones de contratos de obra pública municipal, de conformidad con lo dispuesto por el marco jurídico aplicable.
 
 XI.- Realizar la contratación de los servicios necesarios para el funcionamiento y mantenimiento adecuado de los edificios a su cargo, dando seguimiento a las cuentas que se generen;
 
@@ -1281,7 +1285,9 @@ I.- Elaborar, integrar, revisar y autorizar los expedientes relativos al ejercic
 
 II.- Analizar y validar anteproyectos de obras públicas municipales;
 
-III.- Integrar toda la documentación que se genera de cada proceso, a fin de contar con el historial de cada obra, desde el análisis de su viabilidad hasta su adjudicación, cumpliendo con la normatividad aplicable;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+III.- Participar en los procesos de licitación de obra pública municipal, de conformidad con lo dispuestos por el marco jurídico aplicable;
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2004)</small>
 
@@ -2696,3 +2702,7 @@ P.O. 1 DE OCTUBRE DE 2004.
 P.O. 3 DE DICIEMBRE DE 2004.
 
 ÚNICO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+
+P.O. 10 DE DICIEMBRE DE 2004.
+
+Único.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
