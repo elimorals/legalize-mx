@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-proteccion-del-patrimonio-cultural-del-estado-de-7687"
 country: "mx"
 rank: "ley"
 publication_date: "1991-01-24"
-last_updated: "1991-01-24"
+last_updated: "2003-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE PROTECCION DEL PATRIMONIO CULTURAL DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Querétaro, el jueves 24 de enero de 1991.
 
@@ -173,33 +173,11 @@ V. Elaborar el Reglamento para las obras que se realicen dentro de las Zonas de 
 
 ###### ARTICULO 20.
 
-La Junta Estatal de Protección del Patrimonio Cultural del Estado de Querétaro, es un organismo descentralizado por razón de servicio, dependiente del Ejecutivo del Estado, y estará integrada por un representante de los siguientes organismos:
-
-Secretaría de Cultura y Bienestar Social.
-
-Secretaría de Desarrollo Urbano, Obras Públicas y Ecología del Estado.
-
-Coordinación de Planeación del Estado.
-
-El Presidente Municipal del Ayuntamiento correspondiente.
-
-Un representante de la Asociación de Cronistas Municipales del Estado.
-
-Un representante de alguna institución cultural o educativa, designado por el Ejecutivo.
-
-Un representante del Colegio de Arquitectos del Estado.
-
-Que deberán tener conocimientos sobre restauración y conservación de monumentos, uno de ellos será el Presidente de la Junta.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2003)
 
 ###### ARTICULO 21.
 
-La Junta radicará en la Capital del Estado y tendrá las más amplias facultades y facilidades consultivas y específicamente las siguientes atribuciones:
-
-I. Promover conjuntamente con las autoridades correspondientes la elaboración de Catálogos y Registro de Monumentos. Así como el Reglamento Municipal correspondiente.
-
-II. Promover las Declaratorias de Zonas de Monumentos ante el Ejecutivo Estatal o las Autoridades competentes.
-
-III. Tener conocimiento y en su caso presentar asesoría en lo referente a proyectos y ejecución de obras que realicen dependencias Estatales o Municipales para modificaciones o demoliciones de obras de ornato, imagen urbana y fachadas de edificios públicos.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2003)
 
 ### CAPITULO V. DEL REGISTRO
 
@@ -350,3 +328,11 @@ LIC. MARIANO PALACIOS ALCOCER
 EL SECRETARIO DE GOBIERNO
 
 LIC. JOSE MARIA HERNANDEZ SOLIS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2003.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
