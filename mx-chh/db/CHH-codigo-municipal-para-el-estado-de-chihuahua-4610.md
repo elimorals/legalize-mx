@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2002-08-10"
+last_updated: "2002-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2002.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -35,7 +35,7 @@ DECRETO:
 
 DECRETO NO. 850/95 XVIII P.E.
 
-LA QUINCUAGESIMA SEPTIMA H. LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, REUNIDA EN SU DECIMO OCTAVO PERIODO EXTRAORDINARIO DE SESIONES, DENTRO DEL TERCER AÑO DE EJERCICIO CONSTITUCIONAL
+LA QUINCUAGESIMASEPTIMA H. LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, REUNIDA EN SU DECIMO OCTAVO PERIODO EXTRAORDINARIO DE SESIONES, DENTRO DEL TERCER AÑO DE EJERCICIO CONSTITUCIONAL
 
 DECRETA:
 
@@ -263,7 +263,9 @@ LIII.- PRAXEDIS G. GUERRERO; con cabecera en el pueblo del mismo nombre y la sec
 
 LIV.- RIVA PALACIO; con cabecera en el pueblo de San Andrés y la sección municipal de Sainapuchi;
 
-LV.- ROSALES; con cabecera en el pueblo de Santa Cruz de Rosales y la sección municipal de San Pedro de Conchos;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2002)</small>
+
+LV.- ROSALES, con cabecera en el pueblo de Santa Cruz de Rosales y las secciones municipales de San Pedro de Conchos y Barranco Blanco;
 
 LVI.- ROSARIO; con cabecera en el pueblo denominado Valle del Rosario y las secciones municipales de Juan Mendoza, San Javier, San Nicolás del Cañón y Valle de Olivos;
 
@@ -2857,7 +2859,7 @@ La suspensión, podrá ser solicitada en cualquier tiempo ante la autoridad ejec
 
 La tramitación de los recursos administrativos, en contra de actos de las autoridades municipales, se sujeta al procedimiento siguiente:
 
-I.- Se interpondrá por sí o por representante legalmente investido ante el Secretario Municipal, por escrito expresando: El nombre del recurrente; domicilio para ser notificado en la cabecera del Municipio; señalamiento del acto impugnado; los agravios que el mismo le causa y el ofrecimiento de las pruebas que pretenda rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido el interesado tuvo oportunidad razonable de rendir pruebas, sólo serán admisibles las que hubiere ofrecido y no se hubieran desahogado por causas no imputables a él y las supervenientes;
+I.- Se interpondrá por sí o por representante legalmente investido ante el Secretario Municipal, por escrito expresando: El nombre del recurrente; domicilio para ser notificado en la cabecera del Municipio; señalamiento del acto impugnado; los agravios que el mismo le causa y el ofrecimiento de las pruebas que pretenda rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido el interesado tuvo oportunidad razonable de rendir pruebas, sólo serán admisibles las que hubiere ofrecido y no se hubieren desahogado por causas no imputables a él y las supervenientes;
 
 II.- El escrito deberá presentarse dentro de los quince días siguientes, al en que surta efectos la notificación del acto que se impugna. No será admisible la interposición de recursos por medio del correo;
 
@@ -3244,3 +3246,9 @@ P.O. 10 DE AGOSTO DE 2002.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor sesenta días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE AGOSTO DE 2002.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para la elección de la Junta Municipal en la Sección Municipal de Barranco Blanco, se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, en lo conducente, debiéndose llevar a cabo la elección dentro de los 180 días siguientes a la entrada en vigor del presente decreto.
