@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-6631"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "1990-01-03"
+last_updated: "1991-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1991.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -2377,67 +2377,113 @@ Los miembros de los Consejos de Administración, Comisarios, Representantes Gene
 
 Los adquirentes o usufructuarios, por cualquier título de establecimiento en los cuales de (sic) perciban ingresos gravados por este impuesto tienen esponsabilidad (sic) solidaria de los créditos insolutos.
 
-### CAPITULO TERCERO. DEL IMPUESTO SOBRE TRASLACION DE DOMINIO
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
 
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+### CAPITULO TERCERO. IMPUESTO SOBRE ADQUISICION DE INMUEBLES
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 260.
 
-Es objeto de este impuesto la traslación de dominio de Bienes Muwbles (sic) e Inmuebles que no contravengan las disposiciones de la Ley Federal de Impuesto al Valor Agregado y que estén comprendidas en las siguientes fracciones:
+Están obligados al pago del Impuesto Sobre Adquisición de Inmuebles establecido en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en el suelo y las construcciones adheridas a él, ubicados en el Estado de Morelos, así como los derechos relacionados con los mismos a que esta Ley se refiere. El impuesto se calculará aplicando la tasa del dos por ciento al valor del inmueble.
 
-I.- La enajenación de Bienes y la compra venta con reserva de dominio;
-
-II.- La promesa de enajenación de Bienes;
-
-III.- La adjudicación de bienes en pago;
-
-IV.- La adquisición de bienes por prescripción;
-
-V.- La adjudicación de bienes por remate o postor o fuera de subasta;
-
-VI.- La aportación de bienes inmuebles que se haga a Sociedad Mercantil, Asociación o Sociedad Civil; y a la fusión;
-
-VII.- La adjudicación o dación en pago de bienes inmuebles por liquidación de una Sociedad Mercantil, Asociación o Sociedad Civil;
-
-VIII.- La donación de bienes;
-
-IX.- La cesión de derechos reales o personales;
-
-X.- El acto constitutivo de fideicomiso cuando se afecte un bien inmueble o más de uno; y
-
-XI.- La Cesión, transmisión o aportación de derechos de fideicomitente o de fideicomisario, cuando en el fideicomiso el objeto del mismo sean bienes inmuebles o derechos reales;
-
-XII.- Cualquier otro acto que conlleve la transmisión de los derechos o propiedad, cualquiera que sea la denominación con que se le designe.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 261.
 
-En las Fracciones I, II, III, IV, V, VIII, IX y XII del Artículo anterior queda comprendido todo lo concerniente a bienes muebles e inmuebles.
+Para los efectos de éste capítulo, se entiende por adquisición la que derive de:
+
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación de toda clase que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges;
+
+II.- La compraventa en la que el vendedor se reserve la propiedad, aún cuando la transferencia de ésta opere con posterioridad;
+
+III.- La promesa de adquirir, cuando el futuro comprador entre en posesión de los bienes o el futuro vendedor reciba el precio de la venta o parte de él, antes de que se celebre el contrato prometido o cuando se pacte alguna de estas circunstancias;
+
+IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden, respectivamente;
+
+V.- Fusión de Sociedades;
+
+VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones, sociedades civiles o mercantiles;
+
+VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal;
+
+VIII.- Prescripción positiva e información de dominio judicial o administrativa;
+
+IX.- La cesión de derechos del heredero, legatario o copropietario en la parte relativa y en proporción a los inmuebles.
+
+Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuada después de la declaratoria de herederos y legatarios;
+
+X.- Enajenación a través de Fideicomiso entendiéndose por enajenación la que se realiza en los siguientes casos:
+
+A).- En el acto en que el Fideicomitente designa o se obliga a designar Fideicomisario diverso de él, y siempre que no tenga derecho a readquirir del fiduciario los bienes;
+
+B).- En el acto en que el fideicomitente pierda el derecho a readquirir los bines del fiduciario, si se hubiera reservado el derecho;
+
+XI.- La cesión de los derechos que se tengan sobre los bienes afectos al fideicomiso, en cualesquiera de los siguientes momentos:
+
+A).- En el acto en el que el fideicomisario designado ceda sus derechos o dé instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos se considerará que el fideicomisario adquiere los bines en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones;
+
+B).- En el acto en que el fideicomitente ceda sus derechos, si entre éstos se incluye el de que los bienes se transmitan a sus (sic) favor;
+
+XII.- La división de la copropiedad y la división o disolución de la sociedad conyugal, por parte que se adquiera en demasía del por ciento que le correspondía al copropietario o cónyuge;
+
+XIII.- La celebración del contrato de permuta, en cuyo caso se considerará que efectúan dos adquisiciones.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 262.
 
-El impuesto se causa en el momento en que se realicen las operaciones gravadas, aun cuando sean a plazo o a crédito, sin incluir el sobreprecio, los intereses o cualquier otra prestación que lo aumente, lo cual queda gravado con otras disposiciones fiscales.
+El valor del inmueble que se considerará para los efectos del artículo doscientos sesenta de esta Ley, será el que resulte más alto de entre el valor o precio de adquisición, el valor catastral y el valor que resulte del avalúo practicado por persona o institución autorizada.
+
+En la determinación del valor del Inmueble, se incluirá el valor de las construcciones que en sus (sic) caso tenga, independientemente de los derechos que sobre éstas tengan terceras personas.
+
+Cuando no se pacte precio, el impuesto se calculará con base en el avalúo que practique persona autorizada por la Secretaría de Hacienda y Crédito Público. En la constitución, adquisición o extinción del Usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio o valor que se hubiese pactado, sino el del avalúo a que se refiere éste párrafo.
+
+Para los fines de esta ley, se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del cincuenta por ciento del valor de la propiedad.
+
+El Gobierno del Estado, a través de la Secretaría de Programación y Finanzas o de quien haga sus veces, establecerá las reglas de carácter general para la práctica de avalúos. Para los efectos de este impuesto, los avalúos que se emitan tendrán una vigencia de seis meses contados a partir de la fecha en que se realicen. No producirán efectos fiscales los avalúos que no reúnan los requisitos a que se refiere este artículo.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 263.
 
-Son sujetos del impuesto:
+El Estado, por conducto de las autoridades fiscales, se reserva el derecho de revisar los avalúos que emitan para la celebración de las operaciones que grava esta Ley. En consecuencia, las autoridades fiscales quedan facultadas para practicar u ordenar se practique avalúo sobre el o los inmuebles materia de las operaciones debiendo referirlo a la fecha de adquisición. Este nuevo avalúo deberá ser tomado en cuenta por la autoridad fiscal y prevalecerá sobre los avalúos y anteriores y aún sobre el precio pactado, en el supuesto:
 
-I.- Las partes en la enajenación, promesa de enajenación de bienes, compra-venta con reserva de dominio, cualquiera que sea la determinación con que se le designe;
+Cuando el valor resultante de dicho acto de fiscalización exceda en más de un diez por ciento de aquel o aquellos que hayan servido originalmente para determinar la base gravable de este impuesto. En este supuesto, la autoridad fiscal con base en el nuevo avalúo, procederá a determinar las diferencias de impuesto que resulten.
 
-II.- El adjudicatario, en la adjudicación o dación en pago;
+Cuando por el avalúo practicado, ordenado o tomado en consideración por las autoridades fiscales, resulten diferencias de impuesto, los fedatarios no serán responsables solidarios por las mismas.
 
-III.- El adquirente, en la prescripción;
-
-IV.- El donatario, en la donación;
-
-V.- El cesionario, en la cesión;
-
-VI.- El fideicomitente y el fideicomisario, en la construcción del fideicomiso; y
-
-VII.- El aportador, en la aportación.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 264.
 
-En tratándose del Artículo anterior, la exención que gocen en el pago del impuesto uno de los sujetos, no beneficia al otro.
+El pago del Impuesto deberá hacerse mediante declaración, en las formas que para el efecto apruebe la Secretaría de Programación y Finanzas, las cuales se presentarán dentro de los quince días hábiles siguientes, a aquel en que se realicen cualesquiera de los supuestos que a continuación se señalan:
+
+I.- Cuando se constituya o adquiera el usufructo o nuda propiedad. En el caso de usufructo temporal, cuando este extinga;
+
+II.- A la adjudicación de los bienes de la sucesión o a los tres años de la muerte del autor de la misma si transcurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como al cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se cause por el cesionario o por el adquirente;
+
+III.- Tratándose de adquisiciones efectuadas a través de fideicomiso, cuando se realicen los supuestos de enajenación en los términos de las fracciones X y XI del artículo doscientos sesenta y uno de esta Ley;
+
+IV.- Tratándose de resoluciones judiciales sobre prescripción positiva o negativa, o resoluciones judiciales o administrativas de adjudicación por remate, al momento de la protocolización o de la inscripción, si la protocolización, en términos de la ley aplicable, no es indispensable;
+
+V.- En los contratos de compraventa, aún en los que el enajenante se reserve el dominio, así como los de promesa de compraventa, cuando se celebre el contrato respectivo;
+
+VI.- En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura o se inscriban en el Registro Público para poder surtir efectos ante terceros en los términos del derecho común; y si no están sujetos a esta formalidad, al adquiriente el dominio conforme a las leyes aplicables.
+
+El contribuyente podrá pagar el impuesto por anticipado.
+
+A la declaración a que se refiere este artículo deberá acompañarse la documentación que en la misma se señale.
+
+Tratándose de enajenaciones a plazos, la autoridad fiscal queda facultada para fijar las reglas que permitan el pago del impuesto en parcialidades.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
+
+ARTICULO 2654 (SIC).- En las adquisiciones que se hagan constar en escritura pública, los notarios, corredores y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad lo que harán constar en la escritura y lo enterarán mediante declaración en la oficina autorizada que corresponda a la ubicación del inmueble.
+
+En los demás casos, los contribuyentes pagarán el impuesto mediante declaración ante la oficina autorizada que corresponda a la ubicación del inmueble.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 265.
 
@@ -2449,111 +2495,75 @@ II.- Para los bienes inmuebles: El valor que resulte mayor entre el avalúo que 
 
 ###### ARTICULO 266.
 
-El impuesto se causará conforme a la siguiente:
+Se presentará declaración por todas las adquisiciones aún cuando no haya impuesto a enterar, incluso en tratándose de fideicomisos con inmuebles, en los que el fedatario considere que no se causa el impuesto en los términos de este artículo.
 
-TARIFA
+Los fedatarios no estarán obligados a enterar el impuesto, cuando consignen en escritura pública operaciones por las que ya se hubiere pagado el impuesto y acompañen a su declaración copia de aquella con la que se efectuó dicho pago.
 
-I.- De bienes inmuebles urbanos y Muebles.
-
-De Hasta Tasa.
-
-$100.00 $ 500,000.00 3%
-
-$500,000.00 (sic) En adelante 5%
-
-En tratándose de enajenación de bienes, inmuebles, según lo define el Artículo 260 de esta Ley, para las operaciones que se realicen con lotes de fraccionamientos debidamente autorizados por Autoridad competente, por el primer acto jurídico traslativo de dominio, se aplicará la siguiente:
-
-TARIFA
-
-DE HASTA TASA
-
-$1,000.00 a $ 500,000.00 10%
-
-500,000.00 (sic) en adelante 11%
-
-El porcentaje del 10% se canalizará como sigue: 7% como impuesto para Capromor y el 3% restante como impuesto traslativo de dominio de primera mano.
-
-El 11% se canalizará de la siguiente manera: 6% como impuesto será para Capromor y el 5% restante como impuesto de traslación de dominio.
-
-Por cuanto a los porcentajes antes señalados, se determina que los remanentes se enterarán en cinco pagos iguales, el primero de ellos a los treinta días naturales de la firma del Contrato de Compraventa y los otros en meses subsecuentes.
-
-Sobre el Crédito Comercial del establecimiento traspasado según lo estime la Secretaría de Finanzas.- Ad-Valorem 4%
-
-II.- Inmuebles Rústico 15 al millar.
-
-III.- Cuando se trate de adquisiciones por prescripción:
-
-a).- Si se sigue el procedimiento judicial 5%
-
-b).- Si se sigue el procedimiento administrativo de acuerdo con la Ley de Regularización de la Pequeña Propiedad Rural. 1.5%
-
-IV.- En los casos a que se refiere (sic) las Fracciones X y XI del Artículo 260, se seguirán las reglas siguientes:
-
-a).- Cuando los bienes inmuebles deban enajenarse al fideicomisario sin transmitirse en propiedad al fiduciario, se depositará en la Secretaría de Finanzas del Estado el monto del impuesto que correspondería al valor de los inmuebles al constituirse el fideicomiso al ser transmitidos al fideicomisario se causará el impuesto sobre el valor que tengan en esa fecha, procediéndose a pagar o devolver la diferencia que resulte.
-
-b).- Cuando los inmuebles sean transmitidos en propiedad al fiduciario, el impuesto se causará al constituirse el fideicomiso sobre el valor que tengan en esa fecha.
-
-c).- La transmisión de derechos que haga un fideicomitente a otro fideicomitente a un fideicomisario a otro fideicomisario causará el impuesto sobre la base del valor de los inmuebles al efectuarse cada transmisión, la cual se tendrá por realizada, sin que se admita prueba en contrario, en los casos de sustitución de los fideicomitentes o fideicomisarios.
-
-d).- Cuando se trate de sucesiones y el fideicomiso afecte derecho (sic) hereditarios sobre bienes inmuebles para su transmisión al fideicomisario que no sea heredero, se aplicará lo dispuesto en las fracciones I o II según el caso.
-
-El impuesto mínimo que se causará por la traslación de un predio urbano o suburbano será de $2,500.00 y por la traslación de un predio rústico, será de $1,250.00.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 267.
 
-Son responsables solidarios en el pago del impuesto:
+Las obligaciones a cargo del contribuyente, derivadas de este impuesto y sus accesorios, se extinguen en el plazo de cinco años contados a partir del día siguiente de aquel en el que el Estado tenga conocimiento por conducto de sus dependencias fiscales, o a partir de que se cumplan los supuestos del artículo 264 de esta Ley.
 
-I.- Los contratantes que este Capítulo no señale como sujetos pasivos, y que hayan tenido relación directa con los actos que grava éste capítulo;
-
-II.- Los Notarios, Corredores Públicos, Jueces y demás Fedatarios que por disposición legal tengan funciones notariales, cuando autoricen los actos o contratos sin que se encuentre cubierta la prestación fiscal respectiva; y
-
-III.- Los funcionarios públicos o empleados de la federación del Estado o de sus Municipios, por los gravámenes omitidos en escritos presentados ante ellos, donde consten actos, contratos o documentos que aludan a operaciones gravadas por este impuesto si no los consignan a la Secretaría de Finanzas dentro de los treinta días naturales siguientes a la presentación.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 268.
 
-No causarán este impuesto:
+Son sujetos del Impuesto.
 
-I.- Los ingresos, operaciones o actividades gravadas con otro impuesto establecido en esta Ley;
+I.- El adquiriente de el o los bienes inmuebles, a través de cualesquiera de las figuras jurídicas señaladas en el artículo 261 de esta Ley;
 
-II.- La adjudicación de bienes por disolución de la sociedad conyugal;
+II.- Son obligados solidarios: El enajenante, cedente, donante, promitente vendedor, el aportante del inmueble en su caso, el deudor en el caso de daciones en pago, el administrador, liquidador o interventor, el usufructuario, el nudo propietario, las sucesiones por conducto de su albacea, el copropietario, y el cónyuge que por virtud de división o disolución sus derechos decrezcao (sic) o se extingan, los permutantes, así como la fiduciaria, en el caso de fideicomisos, y el fedatario, éste último en el caso de que no entere el impuesto.
 
-III.- La transmisión de partes sociales y de títulos de créditos en general;
-
-IV.- La participación de la copropiedad, siempre que las partes adjudicadas no excedan de las porciones que pro-indiviso correspondían a los sujetos;
-
-V.- Cuando se trate de la transmisión de derechos reales sobre inmuebles, distintos del de dominio o del de copropiedad;
-
-VI.- Los actos o contratos traslativos de dominio realizados por el Instituto de Seguridad y Servicios Sociales del Estado de Morelos (ISSSEMOR) y de Casa Propia para el Morelense (CAPROMOR) siempre y cuando intervengan como promitente comprador;
-
-VII.- Los actos constitutivos de fideicomiso de administración o garantía.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 269.
 
-El impuesto deberá pagarse en la Oficina Recaudadora del lugar de la ubicación de los bienes.
+Cuando la adquisición de los bienes inmuebles se produzca por resoluciones de autoridades no ubicadas en el Estado de Morelos, el pago del Impuesto se hará dentro de los Treinta Días Naturales siguientes a la fecha en que se haya formalizado la adquisición ante fedatario.
 
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+Cuando dicha adquisición opere en virtud de actos o contratos celebrados fuera del territorio de la República Mexicana, o bien a través de resoluciones dictadas por autoridades extranjeras, el impuesto deberá ser cubierto dentro del plazo de noventa días hábiles, contados a partir de la fecha en que surtan sus efectos en la República Mexicana.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 270.
 
-El pago del impuesto se hará dentro de los quinde (sic) días hábiles siguientes a la operación, para los efectos de este Artículo se considerará realizada la operación en los casos de informaciones testimoniales de dominio quince días naturales después de ser notificada la resolución correspondiente.
+No se pagará el impuesto establecido en este capítulo, en las adquisiciones de inmuebles que hagan la Federación, el Distrito Federal, los Estados y los Municipios, para formar parte de los bienes de dominio público, así como las que hagan los partidos políticos nacionales, siempre y cuando dichos inmuebles se destinen para el ejercicio de sus funciones específicas.
+
+Tampoco se pagará el impuesto en las adquisiciones de Inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 271.
 
-Los Notarios o Jueces que actúen por Receptoría, exigirán la comprobación del pago del impuesto antes de autorizar las Escrituras en que conste la operación así como la Autoridad que lo expidió.
+No causarán este impuesto:
+
+I.- La adjudicación de bienes por disolución de la sociedad conyugal, siempre que no acrezca el por ciento que originalmente les correspondía a los cónyuges;
+
+II.- La participación o división de la copropiedad, siempre que las partes adjudicadas no excedan de las porciones que pro-indiviso correspondía a cada uno de los copropietarios;
+
+III.- Los actos o contratos traslativos de dominio en los que intervenga el Instituto de Vivienda en el Estado de Morelos como adquiriente, por lo que a él se refiere;
+
+IV.- Los actos constitutivos de fideicomiso de administración o garantía.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 272.
 
-Cuando el acto, contrato o promesa obre en documento privado al hacerse el pago del impuesto se presentará un tanto del contrato a la Oficina Recaudadora.
+Los fedatarios no podrán autorizar definitivamente las escrituras en que consten los actos que grava esta ley, hasta en tanto no le sea devuelta, por la autoridad competente, la declaración en la que se manifestó la operación o se realizó el pago del impuesto a que este capítulo se refiere, según el caso.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 273.
 
-El Encargado del Registro Público de la Propiedad no registrará la operación de Traslación de Dominio si no se le comprueba el pago del impuesto.
+El encargado del Registro Público de la Propiedad no registrará la operación traslativa de dominio si no se le exhibe el documento que contenga la declaración de este impuesto, debidamente sellado por la autoridad fiscal respectiva.
 
 ARTICULO 273 BIS.- Cuando las operaciones se celebren fuera del Estado, sobre los bienes situados dentro de sus límites, el impuesto se pagará antes de ratificarse el contrato ante Notario si debe llenarse este requisito o en caso contrario antes de inscribir la Escritura o Contrato en el Registro Público. Si el contrato o promesa no debe ser registrado, el impuesto se pagará dentro de los treinta días siguientes a la celebración de la operación.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 274.
 
-Por la promesa de enajenación de bienes que establecen las fracciones II y XII del Artículo 260, del impuesto se liquidará una sola vez, siempre y cuando la Escritura definitiva se otorgue precisamente a la persona del promitente comprador original. Toda cesión de derechos posterior se equipara a una nueva operación de traslación de dominio y causará el impuesto a que este capítulo se refiere.
+En los casos en que se hubiere pagado el Impuesto Federal Sobre Adquisición de Bienes Inmuebles, por la celebración de contratos de promesa de compraventa o contratos privados de compraventa, al elevarse a escritura pública no se causará el impuesto a que se refiere este capítulo.
 
 ### CAPITULO CUARTO. DEL IMPUESTO SOBRE PRODUCTOS O RENDIMIENTOS DE CAPITAL Y OTROS INGRESOS
 
@@ -5848,3 +5858,21 @@ El presente decreto entrará en vigor el 1° de enero de 1990.
 ###### ARTICULO SEXTO.
 
 Túrnese al Ejecutivo del Estado para los efectos constitucionales a que haya lugar.
+
+P.O. 3 DE JULIO DE 1991.
+
+Primero.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" Organo del Gobierno del Estado Libre y Soberano de Morelos.
+
+Segundo.- Al inicio de la vigencia de este decreto, y hasta la conclusión del ejercicio fiscal de 1991, se aplicará la tasa del ocho por ciento; durante los ejercicios fiscales de 1992 y 1993, se aplicarán las tasas del seis y cuatro por ciento, respectivamente, en lugar de la tasa establecida en el artículo 260 del Impuesto sobre Adquisición de Inmuebles a que este decreto se refiere, debiéndose aplicar ésta última a partir del primero de enero de 1994.
+
+Tercero.- Quedan exceptuadas de los dispuesto por el artículo transitorio anterios (sic), las operaciones que tangan (sic) por objeto la adquisición de viviendas de interés social a través de mutuo, siempre que éste lo otorgue Institución Bancaria o la Administración Pública en cualesquiera de sus tres esferas de competencia, federal, estatal o municipal, a las que se aplicarán permanentemente la tasa del dos por ciento que prevé el artículo 260 de la Ley General de Hacienda del Estado, materia de la presente reforma, desde que inicie su vigencia en este decreto.
+
+Cuarto.- Se derogan todos los acuerdos, reglamentos, circulares y demás disposiciones que se opongan al presente decreto.
+
+Quinto.- Las operaciones, contratos o actos jurídicos que se celebren durante el período anual de vigencia de cualesquiera de las tasas impositivas previstas en el artículo 2º. Transitorio del presente decreto, deberán liquidarse en los términos de éstas, aún cuando su entero se efectúe con posterioridad a su vigencia.
+
+Sexto.- Las operaciones, contratos o actos jurídicos que se celebren durante el período anual de vigencia de cualesquiera de las tasas impositivas previstas en el artículo 2o. transitorio del presente decreto, deberán liquidarse en los términos de éstas, aún cuando su entero se efectúe con posterioridad a su vigencia.
+
+Séptimo.- La falta de pago de este Impuesto en la fecha o dentro del plazo fijado en que debió hacerse el pago, originará además, el pago de recargos en concepto de indemnización, al fisco local, por la falta de pago oportuno. Los recargos se calcularán y liquidarán con el mismo procedimiento y tasa que la federación aplique para éstos casos. Para los casos de prórroga se aplicarán también la tasa que para el efecto haya fijado la federación.
+
+Octavo.- Remítase el presente decreto al Titular del Poder Ejecutivo Estatal para los efectos que señalan los artículos 44, 47, y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
