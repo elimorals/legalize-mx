@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1940-03-09"
+last_updated: "1940-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 1940.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 1940.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -227,9 +227,9 @@ Para ser Diputado se requiere:
 
 I. Ser mexicano por nacimiento y ciudadano sinaloense también por nacimiento, en ejercicio pleno de sus derechos cívicos.
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 1939)</small>
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 1940)</small>
 
-II. Ser nativo del Distrito Electoral que lo elija, o avecindado en él cuando menos cinco años antes de la fecha de la elección.
+II. Ser nativo del Distrito Electoral que lo elija, o avecindado en él cuando menos seis meses antes de la fecha de la elección.
 
 III. Ser mayor de veinticinco años en la fecha de la elección.
 
@@ -279,7 +279,7 @@ Ningún Diputado podrá ser procesado por delitos comunes u oficiales, sin que p
 
 ###### Art. 35.
 
-Los Diputados propietarios, durante el período de su encargo y los Suplentes, cuando estuvieren en ejercicio, no podrán desempeñar, ni aun aceptar, ni en propiedad ni en suplencia, ninguna otra comisión o empleo de la Federación, del Estado o de los Municipios, por los que se disfrute sueldo o se reciban subsidios, sin licencia previa de la Cámara, pero entonces cesarán en sus funciones representativas, mientras dure la nueva ocupación. La infracción de este precepto será castigada, previo juicio de responsabilidad, con la pérdida del carácter de Diputado. Se exceptúan de las disposiciones de este artículo, los servicios prestados a las instituciones docentes o debeneficencia.
+Los Diputados propietarios, durante el período de su encargo y los Suplentes, cuando estuvieren en ejercicio, no podrán desempeñar, ni aun aceptar, ni en propiedad ni en suplencia, ninguna otra comisión o empleo de la Federación, del Estado o de los Municipios, por los que se disfrute sueldo o se reciban subsidios, sin licencia previa de la Cámara, pero entonces cesarán en sus funciones representativas, mientras dure la nueva ocupación. La infracción de este precepto será castigada, previo juicio de responsabilidad, con la pérdida del carácter de Diputado. Se exceptúan de las disposiciones de este artículo, los servicios prestados a las instituciones docentes o de beneficencia.
 
 > <small>N. DE E. SE DEJA SIN EFECTO EL DECRETO No. 187 DE FECHA 29 DE JULIO DE 1937, POR DECRETO No. 413 DE FECHA 19 DE JULIO DE 1938, AMBOS PUBLICADOS EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO DE SINALOA.</small>
 
@@ -1560,5 +1560,9 @@ P.O. 13 DE FEBRERO DE 1940.
 Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 9 DE MARZO DE 1940.
+
+Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MARZO DE 1940.
 
 Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
