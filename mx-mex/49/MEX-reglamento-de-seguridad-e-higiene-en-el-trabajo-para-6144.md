@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-seguridad-e-higiene-en-el-trabajo-para-6144"
 country: "mx"
 rank: "reglamento"
 publication_date: "1986-07-31"
-last_updated: "1986-07-31"
+last_updated: "1999-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO DE SEGURIDAD E HIGIENE EN EL TRABAJO PARA SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE SEGURIDAD E HIGIENE EN EL TRABAJO PARA LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 9 DE AGOSTO DE 1999, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 31 de julio de 1986.
 
@@ -440,3 +442,19 @@ EL SECRETARIO DE ADMINISTRACION.
 Ing. Alfonso Martínez Baca D.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 9 DE AGOSTO DE 1999.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente reglamento en la "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente reglamento entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+###### ARTICULO TERCERO.
+
+Se abroga el Reglamento de Seguridad e Higiene en el Trabajo para Servidores Públicos del Estado de México publicado en la "Gaceta del Gobierno" el 31 de julio de 1986 y demás disposiciones que se opongan al presente reglamento.
