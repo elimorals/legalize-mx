@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-agua-potable-y-alcantarillado-del-estado-de-baja-3210"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-31"
-last_updated: "1985-10-10"
+last_updated: "1988-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE OCTUBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1988.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 31 de diciembre de 1980.
 
@@ -735,21 +735,27 @@ Los adeudos a cargo de los usuarios de los servicios que presten los Organismos 
 
 SANCIONES.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 83.
 
-Para propiciar la utilización y usos adecuados del agua potable e impedir su desperdicio se tipifican las infracciones y se establecen las sanciones siguientes:
+Para propiciar la utilización y uso adecuado del agua potable e impedir su desperdicio, se tipifican las infracciones y se establecen las sanciones siguientes:
 
 I.- A los que debiendo surtirse de agua potable del servicio público y conectarse al sistema de alcantarillado, no cumplan con la obligación de solicitar la toma de agua correspondiente dentro de los plazos que fijan los artículos 228 y 289 o impidan la instalación de la misma, se les sancionará con una multa igual a dos tantos de los derechos de conexión.
 
 II.- En ningún caso podrá una finca abastecer a otra aún cuando sean del mismo propietario y no obstante que el consumo se registre por el aparato medidor.
 
-Se impondrán multas de $ 250.00 a $ 5,000.00 a los que en cualquier forma practiquen o manden practicar derivaciones transitorias o permanentes y proporcionen servicio de agua a título gratuito y oneroso a propietarios, poseedores y ocupantes de predios, giros o establecimientos que estén obligados a surtirse de agua del servicio público conforme a las disposiciones de esta Ley.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+Se impondrán multas equivalentes al importe de uno a treinta días de salario mínimo general vigente en el Municipio, a los que en cualquier forma practiquen o manden practicar derivaciones transitorias o permanentes y proporcionen servicio de agua a título gratuito y oneroso a propietarios, poseedores y ocupantes de predios, giros o establecimientos que estén obligados a surtirse de agua del servicio público conforme a las disposiciones de esta Ley.
 
 La multa se hará efectiva sin perjuicio de que se cobre la tarifa correspondiente a partir de la fecha que hubiere tenido lugar la derivación; si no fuere posible precisar la fecha, se cobrará a partir del día en que se hubiere conectado la toma al predio autorizado.
 
 III.- Los trabajos de instalación de tomas domiciliarias y conexiones de alcantarillado sólo podrán ser ejecutados por el personal autorizado por el Organismo Administrados (sic) del Sistema de Agua Potable y Alcantarillado.
 
-Se impondrá multa de $ 250.00 a $ 25,000.00 en los siguientes casos:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+Se impondrá multa equivalente al importe de uno a ciento sesenta días de salario mínimo general vigente en el Municipio, en los siguientes casos:
 
 a).- A los que practiquen o manden practicar instalaciones, reinstalaciones o conexiones de alcantarillado a la red de servicio público sin previa autorización del Organismo Administrador del Sistema.
 
@@ -773,11 +779,17 @@ j).- A los que impidan a los empleados autorizados del Organismo Operador del Si
 
 IV.- Se prohibe la instalación de mecanismos acoplados a la tubería de agua potable para succionarla.
 
-La infracción se sancionará con de $ 250.00 a $ 5,000.00 aún cuando no ocasione deficiencias en el servicio o desperfectos en las instalaciones.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
-V.- Al ocupante del predio en cuyo frente se localice alguna fuga de agua que le sea imputable se sancionará con multa de $ 100.00 a $ 1,000.00.
+La infracción se sancionará con multa equivalente al importe de uno a treinta días de salario mínimo general vigente en el Municipio, aún cuando no ocasione deficiencias en el servicio o desperfectos en las instalaciones.
 
-VI.- Se impondrá multa de $ 500.00 a $ 25,000.00 y suspensión hasta de tres meses o destitución del cargo:
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+V.- Al ocupante del predio en cuyo frente se localice alguna fuga de agua que le sea imputable, se sancionará con multa equivalente al importe de cinco a veinte días de salario mínimo general vigente en el Municipio.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+VI.- Se impondrá multa equivalente al importe de tres a ciento sesenta días de salario mínimo vigente en el Municipio y suspensión hasta de tres meses o destitución del cargo:
 
 a).- A los funcionarios o empleados que concedan licencias para construcciones, sin que se les presente el comprobante oficial de haber quedado instalada la toma de agua en el predio en que haya de construirse.
 
@@ -786,6 +798,10 @@ b).- A los Notarios que autoricen contratos relativos a bienes inmuebles, contra
 c).- A los funcionarios o empleados que inscriban en el Registro Público de la Propiedad algún contrato de los mencionados en el Artículo 94 sin que se cumpla con la condición que establece.
 
 d).- A los funcionarios o empleados que autoricen el traspaso o traslado de giros mercantiles o industriales, sin que se cumpla con lo que preceptúa el artículo 95.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+e).- A los funcionarios o empleados del Organismo u Operador del Sistema de Agua Potable y Alcantarillado, que por su negligencia no actúen con el debido comedimiento en la reparación de desperfectos en el Sistema que ocasiona el desperdicio de agua potable o el derrame de aguas negras.
 
 Cuando no se cumpla con las obligaciones señaladas en el artículo 9o. Fracción III podrá ordenarse las suspensión de las construcciones hasta que se instale la toma correspondiente.
 
@@ -968,3 +984,11 @@ B.O. 10 DE OCTUBRE DE 1985.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+B.O. 31 DE DICIEMBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente 1o. de Enero de 1989.
