@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-municipal-del-estado-de-tabasco-7808"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "1993-03-17"
+last_updated: "1995-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 1993.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 1992.
 
@@ -32,8 +32,6 @@ LIC. MANUEL GURRIA ORDOÑEZ, GOBERNADOR SUSTITUTO DEL ESTADO LIBRE Y SOBERANO DE
 Que el H. Congreso del Estado se ha servido dirigirme lo siguiente:
 
 La H. Quincuagésima Cuarta Legislatura del Estado Libre y Soberano de Tabasco, en uso de las facultades que le confiere el Artículo 36 Fracciones I y VII de la Constitución Política Local, y
-
-C O N S I D E R A N D O...
 
 Ha tenido a bien emitir el siguiente:
 
@@ -125,7 +123,9 @@ IV.- El Director de Finanzas o Tesorero Municipal;
 
 V.- Los Recaudadores Municipales; y
 
-VI.- Las demás personas o corporaciones a las que otras disposiciones fiscales confieran atribuciones en materia hacendaria, que dependan de la Dirección de Finanzas o Tesorería Municipal.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+VI.- El jefe del Departamento de Ejecución Fiscal.
 
 ###### Artículo 9.
 
@@ -269,7 +269,7 @@ Sujeto deudor de un Crédito Fiscal, es la persona física o moral que está obl
 
 Si dos o más personas, están obligadas directamente al pago de un mismo Crédito Fiscal, tendrán la calidad de codeudores con responsabilidad solidaria.
 
-Esta regla se observara también en los casos de comunidad o copropiedad de bienes y en aquéllos en que se posea en común un bien determinado, cuando la propiedad o posesión sea la causa generadora del crédito.
+Esta regla se observará también en los casos de comunidad o copropiedad de bienes y en aquéllos en que se posea en común un bien determinado, cuando la propiedad o posesión sea la causa generadora del crédito.
 
 ###### Artículo 26.
 
@@ -719,9 +719,9 @@ Los ayuntamientos o Concejos Municipales podrán mejorar los sistemas de recauda
 
 La base del Impuesto Predial es el Valor Fiscal del Predio.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE MARZO DE 1993)</small>
+> <small>(ADICIONADO [ N. DE E. REFORMADO], P.O. 17 DE MARZO DE 1993)</small>
 
-El Valor Fiscal será el que resulte de multiplicar el valor catastral del predio por el porcentaje fiscal correspondiente a la zona catastral respectiva. El porcentaje fiscal no será inferior al 20%.
+El valor fiscal será el que resulte de multiplicar el valor catastral del predio por el porcentaje fiscal correspondiente a la zona catastral respectiva. El porcentaje fiscal no será inferior al 20%.
 
 Los Cabildos o Concejos Municipales podrán determinar Porcentajes Fiscales por zona catastral que deberán ser aprobados por el Congreso del Estado. Estos Porcentajes Fiscales dependerán del nivel económico, de la disponibilidad de infraestructura, y de los servicios existentes en cada zona catastral.
 
@@ -745,17 +745,35 @@ Cuando se hayan establecido bases provisionales para determinar el monto de este
 
 El Impuesto Predial se determinará aplicando sobre el valor fiscal de cada predio una tasa anual conforme a los siguientes valores:
 
-VALOR FISCAL DEL PREDIO: TASA ANUAL:
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-Hasta N$ 20,000.00 0.7 %
+VALOR FISCAL DEL PREDIO
 
-Más de N$ 20,000.00 hasta N$ 40,000.00 0.8 %
+LIMITE LIMITE CUOTA PORCIENTO
 
-Más de N$ 40,000.00 hasta N$ 80,000.00 0.9 %
+INFERIOR SUPERIOR FIJA PARA
 
-Más de N$ 80,000.00 hasta N$ 150,000.00 1.0 %
+APLICARSE
 
-Más de N$ 150,000.00 1.1 %
+SOBRE EL
+
+EXCEDENTE
+
+DEL LIMITE
+
+INFERIOR
+
+N$ N$ N$ %
+
+0.00 10,000.00 0.00 0.7
+
+10,001.00 30,000.00 70.00 0.8
+
+30,001.00 50,000.00 230.00 0.9
+
+50,001.00 70,000.00 410.00 1.0
+
+70,001.00 EN ADELANTE 610.00 1.1
 
 ###### Artículo 95.
 
@@ -909,29 +927,31 @@ III.- En las adquisiciones que realicen los Estados Extranjeros en caso de recip
 
 #### SECCION TERCERA. BASE Y TASA
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
 ###### Artículo 110.
 
-La base gravable del impuesto será el valor del inmueble después de reducirlo en 3 veces el salario mínimo general, elevado al año, de la zona económica que corresponda al lugar en donde se encuentre ubicado el inmueble. El impuesto se calculará aplicando a dicha base la tasa que establece el Artículo Quinto Transitorio de esta Ley.
-
-Tratándose de viviendas de interés social y popular, la base gravable del impuesto a que se refiere el párrafo anterior será el valor del inmueble después de reducirlo en 12 veces el salario mínimo general vigente, elevado al año en el Estado.
-
-Será base de este impuesto:
+La base gravable será:
 
 I.- El precio o valor del inmueble señalado en el acto traslativo de dominio y sus accesorios independientemente del nombre con que se designe;
 
-II.- El valor del inmueble determinado mediante avalúo que practique la institución autorizada; y
+II.- El valor del inmueble determinado mediante el avalúo que practique perito valuador autorizado;
 
 III.- El Valor Catastral.
 
-En caso de existir diferencia entre el valor catastral, el avalúo, el contractual o el comercial la base para el pago del impuesto será el mayor de tales valores.
+Tratándose de viviendas de interés social y popular, la base gravable del impuesto a que se refiere el párrafo anterior, será el valor del inmueble después de reducirlo en 12 veces el salario mínimo general vigente, elevado al año en el Estado.
 
-El valor del inmueble será de ajuste conforme al número de años transcurridos entre la fecha de adquisición y la fecha en que hubiere sido exigible el pago del impuesto, para lo cual se aplicará a dicho valor el que anualmente establezca el Congreso de la Unión.
+El impuesto se calculará aplicando a la base gravable la tasa que establece el artículo quinto transitorio de esta ley.
 
-Cuando por motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
+En caso de existir diferencia entre el valor catastral, el avalúo, el contractual o el comercial, la base para el pago del impuesto será el mayor de tales valores.
 
-Cuando no se pacte precio, el impuesto se calculará con base en el avalúo que practique persona autorizada por la Dirección de Finanzas o Tesorería Municipal. En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remates, no se tomará en cuenta el precio que se hubiere pactado, sino el avalúo a que se refiere este párrafo.
+El valor del inmueble será de ajuste conforme al número de años transcurridos entre la fecha de adquisición y la fecha en que no hubiere sido exigible el pago del impuesto, para lo cual, se aplicará a dicho valor el que anualmente establezca el Congreso de la Unión.
 
-Para los fines de este impuesto se considera que el usufructo y nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
+Cuando por motivo de la adquisición, el adquiriente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
+
+Cuando no se pacte precio, el impuesto se calculará con base al avalúo que practique persona autorizada por la Dirección de Finanzas o Tesorería Municipal. En la constitución, adquisición o extinción del usufructo de la nuda propiedad y en la adquisición de bienes en remates, no se tomará en cuenta el precio que se hubiere pactado, sino el avalúo a que se refiere este párrafo.
+
+Para los fines de este impuesto se considera que el usufructo o nuda propiedad tiene un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
 ###### Artículo 111.
 
@@ -1395,17 +1415,85 @@ La tarifa se determinará en función del número de horas laborados por el cuer
 
 El pago se deberá efectuar, en la Dirección de Finanzas o Tesorería Municipal, previamente a la prestación del servicio, si éste es esporádico. En el caso de servicio permanente, se debe efectuar dentro de los cinco días siguientes al mes en que se prestó el servicio.
 
-### CAPITULO I. DEL ARRENDAMIENTO Y DE LA EXPLOTACION DE BIENES DEL MUNICIPIO
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+### CAPITULO IX. DE LAS AUTORIZACIONES PARA LA COLOCACION DE ANUNCIOS Y CARTELES O LA REALIZACION DE PUBLICIDAD
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+###### Artículo 146 Bis.
+
+Para toda clase de anuncios y carteles o cualquier tipo de publicidad, que realicen empresas dedicadas al arrendamiento de espacios publicitarios en cualquier forma, excepto las que se realicen por medio de televisión, radio, periódicos y revistas, se necesita licencia, permiso o autorización, por los que se pagarán los derechos conforme a la tarifa siguiente:
+
+I.- Anuncios:
+
+I.1.- Pintados o adosados a fachadas, muros o marquesinas por M2, por día 0.02 días de salario mínimo general vigente;
+
+I.2- En azoteas:
+
+A) No luminosos por M2, por día 0.02 días de salario mínimo general vigente;
+
+B) Luminosos:
+
+I.- Eléctricos por M2, por día 0.02 días de salario mínimo general vigente;
+
+II.- Gas neón por M2, por día 0.02 días de salario mínimo general vigente;
+
+III.- Fluorescentes por M2, por día 0.02 días de salario mínimo general vigente;
+
+IV.- Electrónicos por M2, por día 0.03 días de salario mínimo general vigente;
+
+I.3.- En terrenos o predios sin edificar:
+
+A) No luminosos por M2, por día 0.02 días de salario mínimo general vigente;
+
+B) Luminosos:
+
+I.- Eléctricos por M2, por día 0.02 días de salario mínimo general vigente;
+
+II.- Gas neón por M2, por día 0.02 días de salario mínimo general vigente;
+
+III.- Fluorescentes por M2, por día 0.02 días de salario mínimo general vigente;
+
+I.4.- Móviles no sonoros (vehículos del servicio público) M2, por día 0.02 días de salario mínimo general vigente;
+
+I.5.- Eventuales y transitorios M2, por día 0.02 días de salario mínimo general vigente;
+
+II.- Publicidad y carteles:
+
+II.1.- En cine por día 0.2 días de salario mínimo general vigente;
+
+II.2.- Autoparlantes o sonoros:
+
+A) Fijos por día 0.2 días de salario mínimo general vigente;
+
+B) Móvil por día 0.2 días de salario mínimo general vigente;
+
+II.3.- En carteles, maderas, mantas, manteados, plásticos, etc. por M2, por día 0.02 días de salario mínimo general vigente;
+
+II.4.- Volantes por día 0.2 días de salario mínimo general vigente.
+
+Estos pagos se harán en la Dirección de Finanzas o Tesorería Municipal, dentro de los primeros cinco días hábiles de cada mes.
+
+Los pagos a que se refiere este artículo serán cubiertos por las empresas dedicadas al arrendamiento de espacios publicitarios cuyos productos, servicios o actividades sean objeto de anuncios, carteles o publicidad.
+
+Serán responsables solidarios los propietarios de los predios, fincas o construcciones en donde se fijen los anuncios o carteles en los que se lleve a cabo la publicidad.
+
+También serán responsables solidarios las personas físicas o morales que fijen los anuncios que lleven a cabo la publicidad.
+
+Si en la fijación de anuncios o en la realización de la publicidad se utiliza la vía pública se deberán cubrir los derechos correspondientes.
+
+Estarán exentos del pago de estos derechos los anuncios o carteles o cualquier otro tipo de publicidad, que realicen las entidades gubernamentales en sus funciones de derecho público; los partidos políticos; las instituciones de asistencia o beneficencia públicas y las de carácter cultural, así como las personas físicas o jurídicas que para su funcionamiento o profesión necesitan identificarse.
 
 ## TITULO V. PRODUCTOS
 
-### CAPITULO II. DE LAS PUBLICACIONES
+### CAPITULO I. DEL ARRENDAMIENTO Y DE LA EXPLOTACION DE BIENES DEL MUNICIPIO
 
 ###### Artículo 147.
 
 El arrendamiento o explotación de bienes muebles e inmuebles municipales, sólo podrá efectuarse por acuerdo del Presidente o Concejo Municipal. La renta o el interés, no podrá ser inferior a los que en el comercio corresponda.
 
-### CAPITULO III. DE LOS PRODUCTOS FINANCIEROS
+### CAPITULO II. DE LAS PUBLICACIONES
 
 ###### Artículo 148.
 
@@ -1435,7 +1523,7 @@ VII.- Por cualquier otra publicación no especificada,
 
 por cada inserción: 7 d.s.m.g.v.
 
-### CAPITULO I. DE LOS REINTEGROS
+### CAPITULO III. DE LOS PRODUCTOS FINANCIEROS
 
 ###### Artículo 149.
 
@@ -1443,37 +1531,37 @@ Son productos financieros aquellos ingresos derivados de operaciones financieras
 
 ## TITULO VI. APROVECHAMIENTOS
 
-### CAPITULO II. DE LOS DONATIVOS
+### CAPITULO I. DE LOS REINTEGROS
 
 ###### Artículo 150.
 
 Son reintegros, las cantidades que paguen los particulares a título de indemnización por daños causados en bienes del Municipio y por servicios que puedan proporcionarles las motoconformadoras, revolvedoras, tractores y otro tipo de maquinaria o vehículos municipales, así como el valor material sobrante de las obras que el Municipio venda a los particulares. Asimismo las devoluciones que se efectúen por cualquier concepto.
 
-### CAPITULO III. DE LAS COOPERACIONES
+### CAPITULO II. DE LOS DONATIVOS
 
 ###### Artículo 151.
 
 Son donativos las aportaciones que entreguen los particulares, empresas o sociedades para beneficio social o cultural o en provecho del erario Municipal.
 
-### CAPITULO IV. DE LAS MULTAS
+### CAPITULO III. DE LAS COOPERACIONES
 
 ###### Artículo 152.
 
 Son Cooperaciones las aportaciones que sean entregadas al Municipio para la realización de alguna Obra de beneficio colectivo, sea deportivo, cultural o material.
 
-### CAPITULO V. DE LOS RECARGOS Y GASTOS DE EJECUCION
+### CAPITULO IV. DE LAS MULTAS
 
 ###### Artículo 153.
 
 Las diversas multas por infracciones al Bando de Policía y Buen Gobierno, a los Reglamentos Municipales, así como las infracciones que señala la presente Ley, deberán ser cubiertas a la Dirección de Finanzas o Tesorería Municipal.
 
-### CAPITULO VI. DE LOS REZAGOS
+### CAPITULO V. DE LOS RECARGOS Y GASTOS DE EJECUCION
 
 ###### Artículo 154.
 
 Se aplicarán con base en el Artículo 31 de esta Ley y en los términos del Reglamento para el cobro y aplicación de gastos de ejecución y pago de honorarios por notificación de crédito.
 
-### CAPITULO VII. DE LAS INDEMNIZACIONES Y REMATES
+### CAPITULO VI. DE LOS REZAGOS
 
 ###### Artículo 155.
 
@@ -1482,6 +1570,8 @@ Constituyen ingresos por rezagos, todos aquellos que dejaron de obtenerse en añ
 ###### Artículo 156.
 
 Asimismo, son aprovechamientos en los términos de esta Ley, las indemnizaciones y remates que se constituyen en favor del Municipio.
+
+### CAPITULO VII. DE LAS INDEMNIZACIONES Y REMATES
 
 ## TITULO VII. PARTICIPACIONES
 
@@ -1518,3 +1608,9 @@ SECRETARIO DE GOBIERNO.
 P.O. 17 DE MARZO DE 1993.
 
 UNICO: El presente Decreto surtirá sus efectos legales a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1995.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
