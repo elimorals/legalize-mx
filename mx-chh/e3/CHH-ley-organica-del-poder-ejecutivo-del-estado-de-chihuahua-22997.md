@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "1996-07-31"
+last_updated: "1998-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 1998.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -83,7 +83,11 @@ I.- Organismos descentralizados;
 
 II.- Empresas de participación estatal; y
 
-III.- Fideicomisos.
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 1998)</small>
+
+III.- Empresas de propiedad del Estado; y,
+
+IV.- Fideicomisos.
 
 ###### ARTICULO 4o.
 
@@ -593,13 +597,15 @@ VI.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 ### CAPITULO UNICO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
 
 ### CAPITULO III. UNIDADES DE APOYO Y ASESORIA ADSCRITAS DIRECTAMENTE AL EJECUTIVO
 
 ###### ARTICULO 37.
 
-Las instituciones con personalidad jurídica, competencia y patrimonio propios que hayan sido creadas por el Ejecutivo o por le Congreso o que en lo sucesivo sean constituidas por éste de acuerdo a lo previsto por el artículo 64, fracción XLI, de la Constitución Política del Estado, cualquiera que sea la forma o estructura legal que adopten, serán consideradas como organismos descentralizados de la Administración Pública Paraestatal.
+Las instituciones con personalidad jurídica, competencia y patrimonio propios, que sean creadas por el Congreso del Estado, a iniciativa del Ejecutivo, en los términos del artículo 64 fracción XLI de la Constitución Política del Estado, cualquiera que sea la forma o estructura legal que adopten, serán considerados como organismos descentralizados de la administración pública paraestatal.
+
+Los decretos correspondientes establecerán la estructura orgánica y las funciones que se les asignen, así como la obligación del Ejecutivo del Estado de acompañar sus estados financieros a la cuenta pública anual.
 
 ###### ARTICULO 38.
 
@@ -611,6 +617,14 @@ II.- Que en la constitución de su capital se hagan figurar acciones de serie es
 
 III.- Que al Gobierno del Estado corresponda la facultad de nombrar a la mayoría de los miembros del consejo de administración, junta directiva u órgano de gobierno; designar al presidente, al director, al gerente; o cuando tenga facultades para vetar los acuerdos de la asamblea general de accionistas, del consejo de administración o de la junta directiva u órgano de gobierno equivalente.
 
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 1998)</small>
+
+La vigilancia de la participación estatal estará a cargo de los comisarios públicos designados por la Contraloría del Estado, previa opinión no vinculante del titular de la dependencia coordinadora de sector.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 1998)</small>
+
+ARTICULO 38 BIS.- Las empresas de propiedad estatal son personas morales de derecho público, con patrimonio propio, creadas por el Congreso del Estado en los términos del artículo 64 fracción XLI de la Constitución Política del Estado, y cuyo objeto sea la realización de una actividad preponderantemente económica y de interés público que se considere prioritaria para el desarrollo del Estado. La vigilancia de la aportación estatal que se destine a la integración de su patrimonio, así como de los excedentes financieros que origine su operación, estará a cargo de los comisarios públicos que designe la Contraloría del Estado, previa opinión no vinculante del titular de la dependencia coordinadora de sector.
+
 ###### ARTICULO 39.
 
 Se asimilan a las empresas de participación estatal mayoritaria, las sociedades civiles, así como las asociaciones civiles en las que la mayoría de sus asociados o socios sean dependencias o entidades de las mencionadas en la fracción I del artículo anterior, o alguno o varios de ellos se obliguen a realizar o realicen las aportaciones económicas preponderantes.
@@ -619,13 +633,17 @@ Se asimilan a las empresas de participación estatal mayoritaria, las sociedades
 
 Para los efectos de esta Ley serán empresas de participación estatal minoritaria, las sociedades en las que uno o más organismos descentralizados u otras empresas de participación estatal mayoritaria consideradas conjunta o separadamente, posean acciones o partes del capital que representen menos del 50% y hasta el 25% de aquél.
 
-La vigilancia de la participación estatal estará a cargo de un Comisario designado por el titular de la dependencia encargado de la coordinación del sector correspondiente.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
+
+La vigilancia de la participación estatal estará a cargo de un comisario público designado por la Contraloría del Estado, previa opinión no vinculante del titular de la dependencia coordinadora de sector.
 
 Las relaciones de las empresas de participación estatal minoritaria con la administración pública centralizada o paraestatal, serán las que determine la ley.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 41.
 
-Los fideicomisos a que se refiere esta ley, serán los establecidos por la administración pública centralizada, así como los que se creen con recursos de las entidades a que alude el Artículo 3o. de este propio ordenamiento. La Dirección General de Finanzas fungirá como fideicomitente único de la administración pública centralizada, en los fideicomisos que ésta constituya.
+Los fideicomisos a que se refiere esta ley serán aquellos cuya creación autorice el Congreso de acuerdo a lo dispuesto en el artículo 64 fracción XLI de la Constitución Política del Estado. En los instrumentos relativos a la formalización del fideicomiso deberá indicarse el decreto del Congreso del Estado que lo autoriza. La Dirección General de Finanzas y Administración fungirá como fideicomitente único de la administración pública centralizada. Las entidades a que se refiere el artículo 3º. de esta ley fungirá como fideicomitentes en los fideicomisos en que dichas entidades aporten recursos para la constitución del patrimonio fideicomitido.
 
 ###### ARTICULO 42.
 
@@ -634,6 +652,10 @@ El Gobernador del Estado está facultado para determinar agrupamientos de entida
 ###### ARTICULO 43.
 
 Corresponderá a la dependencia encargada de la coordinación del sector a que se refiere el artículo anterior, supervisar la programación, coordinación y evaluación de la operación de las entidades de la administración pública paraestatal que determine el Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 1998)</small>
+
+La supervisión del sistema de control de las entidades paraestatales estará a cargo de la Contraloría del Estado, en los términos que disponga la Ley de las Entidades Paraestatales del Estado de Chihuahua y demás disposiciones aplicables.
 
 ###### ARTICULO 44.
 
@@ -818,3 +840,19 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 31 DE JULIO DE 1996.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE ENERO DE 1998.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+###### ARTICULO SEXTO.
+
+La Dirección General de Finanzas y Administración deberá organizar en un plazo de treinta días hábiles contados a partir de la entrada en vigor de este Decreto, el Registro Público de Organismos Descentralizados.
