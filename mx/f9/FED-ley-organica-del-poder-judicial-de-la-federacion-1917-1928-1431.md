@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-1917-1928-1431
 country: "mx"
 rank: "ley_organica"
 publication_date: "1917-11-23"
-last_updated: "1917-11-23"
+last_updated: "1920-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1431&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1917-11-02"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE OCTUBRE DE 1920.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 23, el sábado 24, el lunes 26, el martes 27 y el miércoles 28 de noviembre de 1917.
 
@@ -69,9 +69,11 @@ Las resoluciones se tomarán por mayoría absoluta de votos de los Ministros pre
 
 La Suprema Corte de Justicia tendrá un Presidente, que durará en su cargo un año, podrá ser reelecto y tendrá las atribuciones que le confiere la Ley.
 
+> <small>(REFORMADO, D.O. 12 DE OCTUBRE DE 1920)</small>
+
 ###### Artículo 5o.
 
-La Suprema Corte de Justicia tendrá un Secretario de Acuerdos y tres auxiliares, cuatro Oficiales Mayores, dos Actuarios y un redactor del Semanario Judicial de la Federación y Compilador de leyes vigentes, debiendo todos ser ciudadanos mexicanos por nacimiento, en ejercicio de sus derechos, abogados con título expedido por autoridad o corporación legítimamente facultada para otorgarlo, mayores de edad y de buena conducta. Tendrá asimismo los empleados subalternos que determine la ley.
+La Suprema Corte de Justicia tendrá un Secretario de Acuerdos y tres auxiliares y un redactor del semanario Judicial de la Federación y Compilador de Leyes vigentes, que deberán ser ciudadanos mexicanos por nacimiento en ejercicio de sus derechos, abogados con título expedido por autoridad o corporación legalmente autorizada para otorgarlos, mayores de edad y de buena conducta; tendrá asimismo, cuatro Oficiales Mayores, dos actuarios que deberán reunir los mismos requisitos con excepción del título de abogado, pues podrán ser abogados o notarios con títulos legalmente expedidos. La Corte tendrá además los empleados subalternos que determine la ley.
 
 ###### Artículo 6o.
 
@@ -181,9 +183,11 @@ VII.- Ejercer las atribuciones económicas que le asigna el reglamento interior 
 
 Los Tribunales de Circuito se compondrán de un Magistrado, un Secretario, dos Actuarios y los demás empleados subalternos que designe la ley.
 
+> <small>(REFORMADO, D.O. 12 DE OCTUBRE DE 1920)</small>
+
 ###### Artículo 15o.
 
-Para ser Magistrado de Circuito, se necesita: ser mexicano por nacimiento, en pleno uso de sus derechos; mayor de edad; abogado con título oficial expedido por autoridad o corporación legítimamente facultada para ello; tener cinco años cuando menos de ejercicio de la profesión; y ser de buena conducta. Para ser Secretario y Actuario, se necesitan las mismas condiciones con excepción del número de años de ejercicio de la profesión; pero la Suprema Corte podrá dispensar el requisito del título profesional respecto de los Actuarios, en los casos en que se dificulte hallar personas tituladas para esos empleos. Los Magistrados de Circuito serán nombrados por la Suprema Corte de Justicia; los Secretarios, Actuarios y demás empleados, por el Magistrado de Circuito correspondiente.
+Para ser Magistrado de Circuito, se necesita: ser mexicano por nacimiento, en pleno uso de sus derechos, mayor de edad, abogado con título oficial expedido por autoridad o corporación legalmente facultada para ello, tener cinco años cuando menos de ejercicio de la profesión y ser de buena conducta. Para ser secretario se necesitan las mismas condiciones con excepción del número de años de ejercicio de la profesión. Para ser actuario se necesitan los mismos requisitos con excepción del título de abogado, pues podrán también ser actuarios los notarios con título oficial legalmente expedido. Los Magistrados de Circuito serán nombrados por la Suprema Corte de Justicia; los secretarios y actuarios y demás empleados, por los Magistrados de Circuito correspondientes. La Suprema Corte podrá dispensar el requisito del título profesional de notario o abogado respecto a los actuarios, en los casos en que se dificulte hallar personas tituladas para esos empleos.
 
 ###### Artículo 16o.
 
@@ -215,11 +219,17 @@ El Territorio de la República se divide en nueve Circuitos, con la jurisdicció
 
 El personal de cada uno de los Juzgados de Distrito se compondrá de un Juez, un Secretario, uno o dos Actuarios, y los demás empleados subalternos que determine la Ley.
 
+> <small>(REFORMADO, D.O. 12 DE OCTUBRE DE 1920)</small>
+
 ###### Artículo 21o.
 
-Para ser Juez de Distrito, se necesita: ser ciudadano mexicano por nacimiento, en ejercicio de sus derechos; mayor de edad; abogado con título expedido por autoridad o corporación legalmente facultada para el efecto; tener dos años cuando menos de ejercicio de la profesión y ser de buena conducta.
+Para ser Juez de Distrito se necesita: ser ciudadano mexicano por nacimiento, en ejercicio de sus derechos, mayor de edad, abogado con título expedido por autoridad o corporación legalmente facultada, tener dos años cuando menos de ejercicio de la profesión y ser de buena conducta.
 
-El Secretario y los Actuarios deberán tener los mismos requisitos que el Juez, con excepción del tiempo de ejercicio profesional, pero la Suprema Corte podrá dispensar el requisito del título, respecto de los Actuarios, en los casos en que se dificulte hallar personas tituladas para esos empleos.
+El secretario deberá tener los mismos requisitos que el Juez, con excepción del número de años de ejercicio profesional.
+
+El actuario deberá tener los mismos requisitos que los Secretarios, con excepción del título de abogado, pudiendo también ser actuarios los notarios con título oficial legalmente expedido.
+
+La Suprema Corte podrá dispensar los requisitos del título, respecto de los actuarios, en los casos en que se dificulte hallar personas tituladas para esos empleos.
 
 ###### Artículo 22o.
 
@@ -538,3 +548,9 @@ Lo que me honro en comunicar a usted, para su publicación y demás efectos.
 CONSTITUCION Y REFORMAS.— México, noviembre
 
 2 de 1917.— AGUIRRE BERLANGA.— Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 12 DE OCTUBRE DE 1920.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO REFORMANDO LOS ARTÍCULOS 5, 15 Y 21, DE LA LEY DE ORGANIZACIÓN DE LOS TRIBUNALES FEDERALES, DE 21 DE NOVIEMBRE DE 1917"; NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2º. DEL CÓDIGO CIVIL DEL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA VIGENTE.]
