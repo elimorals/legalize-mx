@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-35-2004-del-pleno-del-consejo-de-la-58913"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-05-21"
-last_updated: "2004-05-21"
+last_updated: "2004-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58913&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-05-19"
 
 ACUERDO GENERAL 35/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACION, RESIDENCIA, COMPETENCIA, JURISDICCION TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL TERCER TRIBUNAL COLEGIADO EN MATERIA PENAL DEL SEGUNDO CIRCUITO, CON RESIDENCIA EN TOLUCA, ESTADO DE MEXICO; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DE LA MATERIA, CIRCUITO Y SEDE INDICADOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JULIO DE 2004.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 17 de mayo de 2004.
 
@@ -55,6 +55,8 @@ Su domicilio será el ubicado en avenida Nicolás San Juan 104, colonia Ex Ranch
 
 TERCERO.- Los actuales Tribunales Colegiados del Segundo Circuito, conservarán la denominación, competencia, sede y jurisdicción territorial que tienen asignadas.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/8/2004, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 9 DE JULIO DE 2004, SE PRORROGA EL PLAZO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL PRIMER Y SEGUNDO TRIBUNALES COLEGIADOS EN MATERIA PENAL DEL SEGUNDO CIRCUITO, CON RESIDENCIA EN TOLUCA, ESTADO DE MEXICO, POR EL LAPSO DE TREINTA DIAS, DEL 1 DE JULIO AL 15 DE AGOSTO DE 2004.</small>
+
 CUARTO.- Desde la fecha señalada en el punto segundo precedente, la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia Penal del Segundo Circuito, con sede en Toluca, Estado de México, lo será también del nuevo órgano jurisdiccional.
 
 Los nuevos asuntos que se presenten en la mencionada oficina de correspondencia común en días y horas hábiles, del uno al treinta de junio de dos mil cuatro, se remitirán, conforme al sistema computarizado que se utiliza para esos efectos, al Tercer Tribunal Colegiado en Materia Penal del Segundo Circuito, con residencia en Toluca, Estado de México, con excepción de aquellos asuntos que tengan relación con los que se encuentran en los Tribunales Colegiados Primero y Segundo de la materia, circuito y sede aludidos, en cuyo caso se turnarán a los respectivos órganos jurisdiccionales, con el propósito de aprovechar el conocimiento previo y evitar el pronunciamiento de resoluciones contradictorias, conforme a lo dispuesto en el Acuerdo General 23/2002, del Pleno del Consejo de la Judicatura Federal.
@@ -80,3 +82,11 @@ PRIMERO.- Este acuerdo entrará en vigor el uno de junio de dos mil cuatro.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 35/2004, del Pleno del Consejo de la Judicatura Federal, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento del Tercer Tribunal Colegiado en Materia Penal del Segundo Circuito, con residencia en Toluca, Estado de México; así como a las reglas de turno, sistema de recepción y distribución de asuntos entre los Tribunales Colegiados de la materia, circuito y sede indicados, fue aprobado por el Pleno del propio consejo, en sesión de diecinueve de mayo de dos mil cuatro, por unanimidad de votos de los señores consejeros: presidente Ministro Mariano Azuela Güitrón, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D'Hers, Jaime Manuel Marroquín Zaleta, Miguel A. Quirós Pérez y Sergio A. Valls Hernández.-México, Distrito Federal, a diecinueve de mayo de dos mil cuatro.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 9 DE JULIO DE 2004.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
