@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-09-23"
-last_updated: "2001-07-20"
+last_updated: "2001-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DEL 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DEL 2001.
 
 Ley publicada en el Periódico Oficial "La Sombra de Arteaga" el día 23 de septiembre de 1997.
 
@@ -91,6 +91,10 @@ Ningún Diputado podrá acreditarse o actuar en representación de otro Poder Es
 
 Durante el ejercicio Constitucional de la H. Legislatura, los Diputados tienen la obligación de asistir a las sesiones de la misma y en su caso a las de la Comisión Permanente y de las Comisiones a que pertenezcan. El incumplimiento a esta obligación puede provocar la deducción de la dieta en parte proporcional al número de faltas que se lleven a cabo en un mes o en un periodo, según el caso.
 
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DEL 2001)</small>
+
+Cuando las faltas sean justificadas a juicio de la Mesa Directiva o en su defecto la Comisión Permanente, no procederá deducción alguna; en caso de inconformidad de dos o más diputados, resolverá el Pleno.
+
 ###### ARTICULO 10.
 
 Los Diputados en ejercicio percibirán retribuciones con cargo al presupuesto de la H. Legislatura, a las que se denominarán dietas. Siempre será adecuada a su alta responsabilidad y se fijará de acuerdo a los criterios que establezca la propia H. Legislatura.
@@ -104,6 +108,14 @@ En el supuesto del párrafo anterior el reglamento establecerá la garantía de 
 Cuando por alguna circunstancia un Diputado propietario deba ser sustituido, de manera inmediata, el Presidente de la Mesa Directiva o, en su caso, de la Comisión Permanente, llamará al suplente respectivo para que se presente en la sesión inmediata siguiente y rinda la protesta de Ley.
 
 Cuando se trate de la falta de propietario y de su respectivo suplente, dentro de los dos primeros años del ejercicio de la H. Legislatura, se convocará a elecciones de acuerdo a los procedimientos y al sistema electoral por el que hayan sido electos.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DEL 2001)</small>
+
+ARTICULO 11 BIS.- En el caso de enfermedad que impida al Diputado el desempeño de sus funciones, a petición de éste o en su defecto del Coordinador de su fracción Parlamentaria; o de cualquier Diputado, anexando el certificado médico correspondiente, la Mesa Directiva, o en su caso la Comisión Permanente llamará al suplente respectivo.
+
+En este caso, la Comisión de Administración propondrá al Pleno la manera de atender las necesidades de sustento del Diputado enfermo y su familia, así como los gastos de atención médica y medicinas que se requieran. Dichas erogaciones no podrán exceder al periodo constitucional para que el dicho Diputado fue electo.
+
+En caso de fallecimiento de un diputado, la Comisión de Administración dispondrá las medidas pertinentes para el pago de gastos originados por el deceso y una ministración especial a la familia, equivalente a seis meses de los ingresos ordinarios del Diputado, con cargo al Presupuesto de la Legislatura.
 
 ###### ARTICULO 12.
 
@@ -1358,3 +1370,7 @@ La presente Ley entrará en vigencia a partir de su publicación en el Periódic
 P.O. 20 DE JULIO DEL 2001
 
 UNICO .- La presente Ley entrará en vigor a partir de su aprobación.
+
+P.O. 17 DE AGOSTO DEL 2001
+
+UNICO .- La presente Ley entrará en vigencia a partir de su aprobación por el Pleno de la LIII Legislatura del Estado de Querétaro.
