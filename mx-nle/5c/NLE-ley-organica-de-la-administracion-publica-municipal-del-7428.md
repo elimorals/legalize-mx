@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-municipal-del-7428"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-01-28"
-last_updated: "1996-12-30"
+last_updated: "1997-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 OCTUBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de enero de 1991.
 
@@ -399,11 +399,15 @@ III.- Solemnes.- Son aquellas que se revisten de un ceremonial especial.
 
 Las sesiones ordinarias y extraordinarias deben celebrarse en el recinto oficial del Ayuntamiento en Palacio Municipal, y las solemnes, en el recinto que para tal efecto acuerde el propio Ayuntamiento, mediante declaratoria oficial. En casos especiales y previo acuerdo podrán también celebrarse en otro lugar abierto o cerrado que previamente sea declarado por el propio Ayuntamiento, como lugar oficial para la celebración de la sesión.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 34.
 
-Las sesiones de Ayuntamiento serán públicas salvo en los siguientes casos:
+Las Sesiones de Ayuntamiento serán públicas salvo en los siguientes casos:
 
-I.- Cuando por la naturaleza de los asuntos a tratar, sea, a juicio del Ayuntamiento, conveniente la presencia exclusiva de sus miembros.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 1997)</small>
+
+I.- Cuando se ventilen cuestiones de responsabilidad de los miembros de Ayuntamiento o de los Servidores Públicos de las dependencias u organismos descentralizados del Municipio.
 
 II.- Cuando los asistentes invitados no guarden el orden debido, por lo cual la sesión continuará únicamente con los miembros de Ayuntamiento.
 
@@ -1448,3 +1452,7 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 30 DE DICIEMBRE DE 1996.
 
 UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE OCTUBRE DE 1997.
+
+PRIMERO: El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
