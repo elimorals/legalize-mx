@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "1999-07-23"
+last_updated: "2000-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2000.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -836,6 +836,14 @@ XIV.- Para los efectos de la fracción I de este artículo, los contribuyentes d
 XV.- Las autoridades fiscales, de los Ayuntamientos del Estado tendrán la obligación de resolver la aprobación del avalúo presentado respecto de la adquisición o transmisión en el término de siete días naturales. En caso de que las autoridades fiscales no resuelvan en ese plazo se recibirá para los efectos del impuesto que se señala el avalúo de referencia, pudiendo revisarse posteriormente.
 
 XVI.- Los Peritos valuadores deberán presentar ante la Recaudación de Rentas Municipal del Ayuntamiento que corresponda la documentación oficial que los acredite como legalmente autorizados por la comisión Nacional Bancaria y de Seguros en los términos de su legislación y en base igualmente a los lineamientos establecidos por el Código de Comercio y el Reglamento de Corredores, para expedir los avalúos. En caso de que no se presenten a acreditar su autorización se rechazarán los avalúos practicados.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DEL 2000)</small>
+
+ARTICULO 75 BIS C.- Se establece el Impuesto para el Fomento Deportivo y Educacional, para aquellos causantes de impuestos, derechos y rezagos de créditos fiscales municipales.
+
+Este impuesto se causará sobre el monto de los impuestos, derechos y rezagos a cargo del contribuyente y deberá cubrirse al momento del entero de éstos en la Recaudación de Rentas correspondiente, conforme a la tasa que se fije en las Leyes de Ingresos Municipales.
+
+Los ingresos que de este impuesto se recaben, serán destinados exclusivamente a la construcción de áreas o unidades deportivas, a su mantenimiento y a programas deportivos y educacionales.
 
 > <small>(REFORMADO, P.O. 20 DE MAYO DE 1955)</small>
 
@@ -2268,3 +2276,7 @@ A las operaciones de escisión de sociedades celebradas con anterioridad a la en
 ###### ARTICULO TERCERO.
 
 El impuesto pagado con anterioridad a la vigencia del presente Decreto, no da derecho a su devolución.
+
+P.O. 21 DE ENERO DEL 2000.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
