@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-consejo-estatal-de-adopciones-10937"
 country: "mx"
 rank: "ley"
 publication_date: "1996-02-09"
-last_updated: "1997-06-18"
+last_updated: "2004-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10937&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL CONSEJO ESTATAL DE ADOPCIONES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 9 de febrero de 1996.
 
@@ -47,9 +47,11 @@ El Consejo Estatal de Adopciones tendrá las siguientes atribuciones:
 
 I.- Unificar todos los programas de adopción que se apliquen en el Estado, con el fin de lograr la uniformidad de los mismos en las instituciones públicas y privadas que los lleven;
 
-II.- Emitir opinión respecto de las adopciones que se tramiten en la Entidad en los casos previstos por la fracción VIII del artículo 390 del Código Civil del Estado;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2004)</small>
 
-III.- Dar seguimiento hasta por dos años a cada menor entregado en adopción en el Estado, así como aquéllos en que instituciones públicas de otras entidades les soliciten;
+II.- Emitir opinión respecto a los organismos, personas físicas o personas morales de derecho privado a que se refiere la Ley de Beneficencia Privada para el Estado, en el Artículo 87 fracción I inciso l);
+
+III.- (DEROGADA, P.O. 28 DE ABRIL DE 2004)
 
 IV.- Coordinarse con las autoridades competentes a fin de cumplir con su objetivo general y las funciones propias del Consejo;
 
@@ -59,9 +61,17 @@ VI.- Llevar un registro de sus miembros;
 
 VII.- Instituir y mantener actualizado un padrón de instituciones que tengan en custodia menores que puedan ser sujetos de adopción;
 
-VIII.- Elaborar su Reglamento Interno; y
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2004)</small>
 
-IX.- Las demás que le confiera ésta y otras leyes.
+VIII.- Determinar las instituciones públicas y privadas competentes para realizar la evaluación psicológica y socioeconómica para la adopción;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2004)</small>
+
+IX.- Elaborar su Reglamento Interno; y
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
+
+X.- Las demás que le confiera ésta y otras leyes.
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 1997)</small>
 
@@ -89,7 +99,9 @@ IX.- Los representantes de la (sic) instituciones públicas y privadas que cuent
 
 X.- Los representantes de las asociaciones civiles constituidas por adoptantes o adoptados, o ambos, cuyo objeto social sea promover y proteger la institución de adopción, así como asesorar, orientar y brindar apoyo a sus integrantes, a quienes se encuentren en proceso de adopción, y a las instituciones públicas y privadas que tengan fines similares o que se vinculen a ellas.
 
-Los representantes de las instituciones y asociaciones privadas a que se refieren las Fracciones IX y X de este Artículo podrán ser hasta cinco, y serán elegidos por los demás integrantes del Consejo, conforme al procedimiento regulado en su Reglamento Interior.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
+
+Los representantes de las instituciones y asociaciones privadas a que se refieren las fracciones IX y X de este Artículo serán determinados por la asamblea plenaria por mayoría de votos.
 
 Cada integrante propietario del Consejo designará a su suplente, informándolo, por escrito al Presidente Ejecutivo, observándose la misma formalidad en caso de substitución. Los integrantes del Consejo desempeñarán sus funciones en forma honorífica.
 
@@ -107,19 +119,17 @@ De cada sesión el Secretario Técnico del Consejo levantará un acta en la que 
 
 A propuesta del Presidente Ejecutivo del Consejo, cuando así se estime conveniente, se podrá invitar con voz, pero sin derecho a votar, a instituciones o especialistas en las disciplinas que interesen al Consejo.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
+
 ###### Artículo 7o.
 
-La opinión que emita el Consejo prevista en el artículo 2o. Fracción II de esta ley, deberá apoyarla en los datos contenidos en el expediente del o los solicitantes de la adopción.
+Para la certificación de las instituciones públicas y privadas referidas en el Artículo 2º, fracción VIII, de esta Ley, se estudiarán y verificarán los programas de adopción utilizados por éstas.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### Artículo 8o.
 
-El Consejo dará seguimiento al menor cuya adopción haya sido autorizada por el juez, conforme a lo siguiente:
-
-I.- Tratándose de menores cuyos adoptantes tengan su domicilio en el Estado, el seguimiento se dará durante un plazo máximo de un año, el cual podrá prolongarse por un año más, cuando el Consejo lo juzgue conveniente en atención al interés superior del menor;
-
-II.- Cuando el domicilio de los adoptantes se encuentre fuera del Estado, pero en el país, el seguimiento a los menores adoptados se hará con el apoyo de los Sistemas Nacional, Estatales o Municipales para el Desarrollo Integral de la Familia durante el plazo que se señala en la fracción anterior; y
-
-III.- En los demás casos, el Consejo dará seguimiento a la adopción por el mismo plazo señalado en las fracciones anteriores, para lo cual se coordinará con las autoridades competentes.
+El Consejo determinará en sesión plenaria, cuáles son las instituciones públicas y privadas competentes para realizar las evaluaciones referidas en el Artículo 390 fracción V del Código Civil para el Estado de Nuevo León.
 
 ###### Artículo 9o.
 
@@ -127,7 +137,7 @@ El Consejo por conducto de su Presidente Ejecutivo, rendirá al Ejecutivo Estata
 
 ###### Artículo 10.
 
-Las instituciones señaladas en la fracción VII del artículo 2o. de esta ley, darán las facilidades necesarias al Consejo para el cumplimiento de la atribución que se menciona en la misma.
+Las. instituciones señaladas en la fracción VII del artículo 2o. de esta ley, darán las facilidades necesarias al Consejo para el cumplimiento de la atribución que se menciona en la misma.
 
 > <small>(ADICIONADO, P.O. 22 DE ENERO DE 1997)</small>
 
@@ -190,3 +200,11 @@ En relación a las adiciones que se mencionan en el artículo quinto de este Dec
 P.O. 18 DE JUNIO DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE ABRIL DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los procedimientos regulados por las disposiciones que son reformadas a través del presente Decreto y que se encuentren en trámite al entrar en vigor el mismo, se regirán por lo dispuesto por la legislación conforme a la cual se iniciaron.
+
+Las partes, en los procedimientos referidos en el párrafo anterior, podrán optar por los beneficios derivados de las mencionadas reformas.
