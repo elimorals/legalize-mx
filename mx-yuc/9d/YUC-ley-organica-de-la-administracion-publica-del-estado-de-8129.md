@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-la-administracion-publica-del-estado-de-8129"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-03-10"
-last_updated: "1995-12-16"
+last_updated: "1996-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 10 de marzo de 1988.
 
@@ -271,9 +271,13 @@ XIV.- Conducir la Organización y funcionamiento de la Defensoría Legal, del Re
 
 XV.- Ordenar, vigilar y coordinar el cumplimiento de las disposiciones en materia de jurados, legalizaciones de firmas y exhortos judiciales;
 
-XVI.- Conducir las relaciones del Ejecutivo con la Comisión Agraria Mixta, la Junta Local de Conciliación y Arbitraje y el Tribunal de lo Contencioso Administrativo;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
 
-XVII.- Coordinar la administración y vigilar el debido funcionamiento del Consejo Estatal de Población y el Centro Estatal de Estudios Municipales;
+XVI.- Conducir las relaciones del Ejecutivo con la Junta Local de Conciliación y Arbitraje y el Tribunal de lo Contencioso Administrativo;
+
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+XVII.- Coordinar la administración y vigilar el debido funcionamiento del Consejo Estatal de Población;
 
 XVIII.- Expedir por acuerdo del Gobernador las licencias, concesiones y permisos que no estén asignados específicamente a otras dependencias del Ejecutivo;
 
@@ -293,21 +297,39 @@ XXV.- Llevar el control y archivo de los convenios que celebre el Ejecutivo del 
 
 XXVI.- Administrar el Archivo General del Estado.
 
-XXVII.- Las demás que le confieren la Ley y los reglamentos y los que el Gobernador le asigne.
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1995)</small>
+XXVII.- Formular, normar y coordinar las políticas tendientes a la promoción y la participación de la mujer y la etnia maya de Yucatán en los diversos aspectos de sus desarrollos;
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+XXVIII.- Establecer la coordinación con el Gobierno Federal y los municipios en materia de seguridad pública y vigilar el cumplimiento de los convenios que celebre el Estado con los otros dos órdenes de Gobierno; y
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+XXIX.- Los demás que le encomienden otras disposiciones legales.
+
+> <small>(REFORMADA SU DENOMINACION, D.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 33.
 
-A la Secretaría de Hacienda y Planeación del Estado le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Hacienda y Planeación le corresponde el despacho de los siguientes asuntos:
 
-I.- Organizar y operar el sistema de tributación para recaudar y administrar los impuestos, derechos, productos, aprovechamientos, y demás ingresos, que tenga derecho a percibir el Estado, así como las contribuciones federales, en los términos de la Ley de Coordinación Fiscal y los convenios relativos;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
 
-II.- Ordenar y practicar visitas domiciliarias de inspección para verificar el cumplimiento de las obligaciones fiscales contenidas en las disposiciones legales de la materia;
+I.- Cobrar y administrar los impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos y demás ingresos que el Estado tenga derecho a percibir en los términos de las leyes fiscales aplicables, así como las contribuciones y demás ingresos federales en términos de la Ley de Coordinación Fiscal y de los convenios relativos;
 
-III.- Imponer las sanciones que correspondan a los infractores de las obligaciones fiscales, previstas en las disposiciones legales Federales y del Estado cuya aplicación le competa;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
 
-IV.- Ejercer la facultad económico coactiva para hacer efectivos los créditos fiscales;
+II.- Verificar y comprobar mediante inspecciones, revisiones, visitas domiciliarias y requerimientos, el debido cumplimiento de las obligaciones fiscales contenidas en las disposiciones legales de la materia, así como las federales en términos de la Ley de Coordinación Fiscal y los convenios celebrados o que se celebren.
+
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+III.- Determinar y liquidar las contribuciones, aprovechamientos y sus accesorios y demás conceptos establecidos en la Ley de Ingresos del Estado, y en materia federal de acuerdo con lo dispuesto por la Ley de Coordinación Fiscal y los convenios de colaboración administrativa celebrados entre la Federación y el Estado. Asimismo, imponer las sanciones previstas en las disposiciones estatales y federales cuya aplicación le competa.
+
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+IV.- Ejercer la facultad económico coactiva para hacer efectivos los créditos fiscales que el Estado tenga derecho a percibir, así como realizar los procedimientos correspondientes para asegurar el interés fiscal;
 
 V.- Administrar las participaciones de las contribuciones Federales que le correspondan al Estado, los recursos del Convenio de Desarrollo Social y los apoyos extraordinarios que otorgue la Federación, en los términos de las normas aplicables y los convenios relativos;
 
@@ -317,7 +339,9 @@ VII.- Llevar y mantener actualizados los padrones fiscales, administrar el Catas
 
 VIII.- Informar públicamente sobre el manejo de la Hacienda Pública y el Ejercicio del Presupuesto;
 
-IX.- Representar el interés del Estado en las controversias fiscales para hacer efectivas sus facultades tributarias;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+IX.- Tramitar y resolver los recursos administrativos en la esfera de su competencia, y la que derive del ejercicio de las facultades conferidas en los convenios de colaboración administrativa celebrados, e igualmente representar al Estado en los juicios que se ventile ante cualquier Tribunal cuando tenga interés la Hacienda Pública del Estado.
 
 X.- Formular los Proyectos de Leyes y de otras Normas Fiscales y elaborar las iniciativas de Ley de Ingresos y del Presupuesto de Egresos del Estado;
 
@@ -369,7 +393,13 @@ XXXIII.- Fijar los lineamientos que se deben seguir en la elaboración de la doc
 
 XXXIV.- Establecer los sistemas de evaluación física y financiera, del seguimiento, control y registro de la información que los programas concertados en el desarrollo social y en la aplicación del gasto de la federalización educativa; y
 
-XXXV.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+XXXV.- Notificar los actos, acuerdos o resoluciones que emitan con motivo del ejercicio de sus facultades tributarias y de las que le otorguen los convenios de colaboración administrativa, así como llevar a cabo las encomendadas por otras autoridades con motivo de acuerdos o convenios celebrados entre la Federación y el Estado y de éste con los municipios.
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+XXXV.- Las demás que expresamente le atribuyan las leyes y reglamentos, así como la Ley de Coordinación Fiscal y los convenios de colaboración administrativa celebrados o que se celebren.
 
 > <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1995)</small>
 
@@ -455,63 +485,65 @@ XIX.- Integrar y regular por sí o mediante la entidad creada para tal efecto, e
 
 XX.- Las demás que le señalen las leyes y reglamentos respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 19 DE JUNIO DE 1989)</small>
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1996)</small>
 
-###### ARTICULO 36.
+ARTICULO 36 A.- Corresponde a la Secretaría de Ecología el despacho de los siguientes asuntos:
 
-Corresponde a la Secretaría de Desarrollo Urbano, Obras Públicas y Vivienda, el despacho de los siguientes asuntos:
+I.- Aplicar en los asuntos de su competencia, la Ley de Protección al Ambiente del Estado de Yucatán;
 
-I.- Realizar directamente o a través de terceros, y vigilar en su caso, las obras públicas que emprenda el Gobierno del Estado, formulando los estudios, proyectos y presupuestos de las mismas y en los casos que proceda mediante la coordinación con las dependencias Federales y Municipales;
+II.- Formular el programa sectorial de mediano plazo en materia ecológica;
 
-II.- Construir, reconstruir y conservar los bienes inmuebles de la propiedad del Estado;
+III.- Vigilar que la preservación ecológica constituya una línea conductora de la programación del desarrollo urbano y regional;
 
-III.- Construir y conservar las carreteras, caminos vecinales y demás vías de comunicación de jurisdicción estatal;
+IV.- Promover incentivos para las empresas que inviertan en la introducción, actualización y difusión de infraestructura y tecnologías que contribuyan a la preservación del medio ambiente y al desarrollo sustentable;
 
-IV.- Promover y vigilar el desarrollo urbanístico de los centros de población del Estado;
+V.- Participar en la promoción de programas de ecoturismo en las áreas naturales protegidas del Estado;
 
-V.- Coordinar la elaboración, revisión y ejecución del Plan Estatal de Desarrollo Urbano y los programas que de él emanen, así como participar en la evaluación de sus resultados de conformidad con lo que señale el Sistema Estatal de Control y Evaluación;
+VI.- Fomentar la protección y conservación de los ecosistemas, recursos naturales, bienes y servicios ambientales, con el fin de propiciar su aprovechamiento y desarrollo sustentable;
 
-VI.- Autorizar y vigilar el cumplimiento de las disposiciones en materia de fraccionamientos;
+VII.- Promover el restablecimiento de nuestros recursos forestales y su explotación racional, mediante una actividad empresarial regulada ecológicamente;
 
-VII.- Programar las acciones e inversiones públicas que en materia de Desarrollo Urbano se ejecuten en la entidad acordes con los planes establecidos;
+VIII.- Evaluar y dictaminar el impacto ambiental de proyectos de desarrollo que le deberán solicitar los sectores público, social y privado; dictaminar los casos de riesgo ambiental; y proponer y participar en los programas para la prevención de accidentes con incidencia ecológica;
 
-VIII.- Vigilar el cumplimiento y aplicación de las disposiciones legales en materia de desarrollo Urbano a que deba sujetarse el sector público, así como el privado y el social;
+IX.- Fomentar e inculcar la cultura ecológica, el respeto al medio ambiente y la convivencia en armonía, a través de los medios de comunicación y promover la inclusión, en los programas de los distintos niveles educativos, el conocimiento de los medios para preservar nuestro medio ambiente y el aprecio a su valor para la vida humana;
 
-> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1995)</small>
+X.- Evaluar la calidad del ambiente, establecer y promover el sistema de información ambiental, que incluirá los sistemas de monitoreo atmosférico, de suelo y de cuerpos de agua de jurisdicción estatal, y realizar los inventarios de recursos naturales y de población de fauna silvestre y marina, con la cooperación de las autoridades municipales, las instituciones de investigación, educación superior y las dependencias y entidades que correspondan;
 
-IX.- Expedir, en coordinación con la Secretaría Hacienda y Planeación, las bases y normas a que deban sujetarse los concursos para la ejecución de obras que realice el Gobierno del Estado; señalar las adjudicaciones que procedan en cumplimiento con lo dispuesto por el Artículo 107 de la Constitución Política del Estado; intervenir en la celebración de contratos y vigilar el cumplimiento de éstos.
+XI.- Estudiar, proyectar y conservar, con la participación de los usuarios y la que corresponda a otras dependencias y entidades públicas, las obras de riego, desecación, drenaje, defensa y mejoramiento de terrenos y las de pequeña irrigación, de acuerdo con los programas formulados y que competa al Ejecutivo Estatal;
 
-X.- Coordinar y asesorar técnicamente a los Ayuntamientos, cuando éstos lo soliciten en la programación o realización de obras públicas en sus respectivas jurisdicciones, así como en la introducción, conservación, de servicios públicos y en general todo lo relacionado con el desarrollo Urbano;
+XII.- Vigilar el cumplimiento estricto de las normas de protección, restauración y conservación del medio ambiente;
 
-XI.- Vigilar el cumplimiento y aplicación de las disposiciones legales en materia de construcción y asentamientos humanos;
+XIII.- Coordinarse con las dependencias de la Administración Pública Federal competentes, en el establecimiento y levantamiento de vedas forestales, de caza y pesca, de conformidad con la legislación aplicable, el calendario cinegético y el de aves canoras y de ornato;
 
-XII.- Evaluar los resultados de la programación y actualizar los planes de desarrollo urbano con base en aquéllos, atendiendo las sugerencias que al respecto formule la Secretaría de la Contraloría General del Estado;
+XIV.- Propiciar la conservación y ampliación de las reservas ecológicas;
 
-XIII.- Elaborar y actualizar los avalúos de los bienes inmuebles del Gobierno del Estado.
+XV.- Intervenir, en el procedimiento de autorización de dotación de agua y de tratamientos de desechos líquidos a las localidades, parques industriales, centros comerciales y empresas que realicen actividades que la requieran;
 
-XIV.- Formular y proponer los lineamientos de la Políticas de asentamientos humanos y urbanísticos;
+XVI.- Proponer al Ejecutivo Estatal el establecimiento de áreas naturales protegidas;
 
-XV.- (DEROGADA, D.O. 19 DE JUNIO DE 1989)
+XVII.- Administrar áreas naturales protegidas cuando le corresponda al Gobierno del Estado, y supervisar las labores de conservación, protección y vigilancia de dichas áreas cuando su administración concierna a municipios o personas físicas o morales;
 
-XVI.- (DEROGADA, D.O. 19 DE JUNIO DE 1989)
+XVIII.- Coadyuvar con las autoridades competentes en la aplicación de las disposiciones sobre internación, tránsito o salida por el territorio estatal de especies de la flora y fauna silvestres, procedentes o destinadas al extranjero, y promover ante la autoridad competente el establecimiento de medidas de regulación o restricción a su importación o exportación, cuando se requiera para su conservación o aprovechamiento;
 
-XVII.- Formular y proponer los lineamientos de la Política General de Vivienda del Estado;
+XIX.- Vigilar el cumplimiento, con la participación que corresponda a otras autoridades, de las normas oficiales mexicanas aplicables a la preservación y restauración de la calidad del medio ambiente, a los ecosistemas naturales y al aprovechamiento sustentable de los recursos naturales y de la flora y fauna silvestre, terrestre y acuática, y a la eliminación de excretas y basura; y
 
-XVIII.- Actualizar y evaluar el Programa de Vivienda Estatal;
+XX.- Los demás que le atribuyan otras disposiciones legales.
 
-XIX.- Integrar y regular por sí o mediante la entidad creada para tal efecto, el Sistema Estatal de Reservas Territoriales para el Desarrollo Urbano; y
-
-XX.- Las demás que le señalen las leyes y reglamentos respectivos.
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 37.
 
 Corresponde a la Secretaría de Salud el despacho de los siguientes asuntos:
 
-I.- Promover, planear, desarrollar, coordinar y vigilar las acciones de salud y asistencia social, en todos los tipos y niveles que se den en el Estado, en los términos de la legislación correspondiente y conforme a los convenios respectivos cuando los hubiere;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+I.- Planear, normar y controlar los servicios de atención médica, salud pública, asistencia social y regulación sanitaria que correspondan al Sistema Nacional de Salud en el Estado;
 
 II.- Representar al Gobierno del Estado ante toda clase de organismos asistenciales y de salubridad;
 
-III.- Organizar y administrar servicios sanitarios generales en todo el Estado;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+III.- Organizar y administrar servicios sanitarios generales en todo el Estado, y vigilar que se cumpla la regulación legal vigente;
 
 IV.- Impartir asistencia médica y social a la maternidad y a la infancia y vigilar la que se imparta por instituciones públicas o privadas;
 
@@ -637,51 +669,61 @@ XVI.- Las demás que le asignen las disposiciones legales aplicables.
 
 La Procuraduría General de Justicia tendrá las facultades y obligaciones que específicamente le confieren la Constitución Política del Estado, la Ley Orgánica del Ministerio Público y las demás disposiciones legales relativas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 27 DE NOVIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 41.
 
-A la Secretaría De Desarrollo Rural le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Rural le corresponde el despacho de los siguientes asuntos:
 
-I.- Coordinar las relaciones entre el Ejecutivo del Estado y las Instituciones que manejen el cultivo de henequén, el crédito de la actividad henequenera y la industrialización del agave;
+I.- Planear, fomentar y organizar las actividades agropecuarias, forestales y agroindustriales y asesorar técnicamente a los productores;
 
-II.- Colaborar con las entidades que tengan a su cargo diversos aspectos de la producción y elaboración de henequén para mayor eficacia en los resultados de las operaciones;
+II.- Conducir y evaluar las acciones de desarrollo rural, para elevar el nivel de vida de las familias campesinas, en coordinación con los organismos públicos y privados interesados;
 
-III.- Planear, fomentar, organizar y asesorar técnicamente las actividades agrícola, ganadera, apícola, avícola y forestal, en todos sus aspectos, coordinándose para este objeto con las dependencias federales que operen en la entidad con los mismos fines;
+III.- Dirigir, dar seguimiento y controlar la ejecución de los programas de fomento de promoción del desarrollo agropecuario, forestal y agroindustrial, así como promover la creación de empleos en el medio rural e impulsar el incremento de la productividad y la rentabilidad de las actividades económicas del campo;
 
-IV.- Dirigir, coordinar y controlar la ejecución de los programas de fomento y promoción para el desarrollo agropecuario y forestal;
+IV.- Promover la inversión de los sectores público, social y privado en proyectos para el desarrollo agropecuario, forestal y agroindustrial, y para crear y apoyar empresas que asocien a los inversionistas con los productores;
 
-V.- Ejercer por delegación del Ejecutivo del Estado, las atribuciones y funciones que en materia agropecuaria y forestal, contengan los convenios firmados entre el Poder Ejecutivo y la Administración Pública Federal;
+V.- Ejercer las atribuciones y funciones, derivadas de los convenios celebrados con la Administración Pública Federal, y los Municipios, en materia agropecuaria, forestal y agroindustrial, así como darles debido cumplimiento;
 
-VI.- Celebrar por delegación del Ejecutivo, convenios con los Ayuntamientos para el fomento del desarrollo agropecuario y forestal;
+VI.- Obtener, procesar y difundir la información estadística y geográfica sobre las actividades del sector rural;
 
-VII.- Servir de órgano de consulta y asesoría agrícola, ganadera y forestal;
+VII.- Realizar en coordinación con las autoridades municipales y las organizaciones de productores, las campañas para prevenir y combatir plagas, siniestros y enfermedades que afecten a las especies vegetales y animales en el Estado; vigilar el cumplimiento de las normas oficiales en la materia y establecer medidas cuarentenarias;
 
-VIII.- Fomentar en el Estado el desarrollo agrícola, ganadero y forestal;
+VIII.- Promover y apoyar la organización económica de los productores y de las agrupaciones existentes, para que tengan acceso a créditos, seguros, innovaciones tecnológicas, canales de comercialización adecuados y mejores sistemas de administración;
 
-IX.- Promover y apoyar a las organizaciones de productores agrícolas, henequeneros, ganaderos y forestales para que tengan acceso a crédito, seguros, innovaciones tecnológicas, canales de comercialización adecuados y mejores sistemas de administración; conservar los cultivos tradicionales económicamente rentables y abrir nuevas explotaciones agrícolas, con el fin de atender la demanda de mercado local y construir un renglón de agricultura comercial orientada a la exportación;
+IX.- Apoyar y conservar los cultivos tradicionales con potencial productivo y orientar la explotación agrícola hacia la productividad y competitividad, de manera que atienda las demandas local, nacional e internacional;
 
-X.- Auxiliar a las autoridades federales y estatales en las campañas de sanidad fitopecuarias;
+X.- Fomentar y apoyar las investigaciones científicas en materia agropecuaria, en colaboración con las instituciones de investigación y educación superior;
 
-XI.- Realizar directamente o en coordinación con los Ayuntamientos, campañas permanentes para prevenir y combatir plagas, siniestros y enfermedades que atacan a las especies vegetales y animales en el Estado;
+XI.- Conducir, promover y coordinar los programas de asistencia técnica y capacitación de los productores;
 
-XII.- Vigilar la preservación de los recursos naturales y agropecuarios y desarrollar su potencial productivo;
+XII.- Programar, apoyar y realizar las obras de infraestructura para impulsar el desarrollo agropecuario, en sus aspectos productivo, y de industrialización y comercialización;
 
-XIII.- Fomentar la enseñanza agropecuaria mediante la creación de escuelas, campos experimentales y centros de enseñanza superior, en coordinación con la Secretaría de Educación;
+XIII.- Promover la participación organizada de los productores y la conservación, operación y mejoramiento de las obras de infraestructura rural;
 
-XIV.- Fomentar y apoyar los programas de investigación y enseñanza agropecuaria y forestal, así como divulgar las técnicas que mejoren la producción en dichos campos;
+XIV.- Impulsar la asociación y la organización de productores para realizar actividades que propicien el desarrollo del Estado;
 
-XV.- Proponer y apoyar la realización de obras de infraestructura rural, que promueva el desarrollo agropecuario; y
+XV.- Integrar los diversos directorios y padrones de productores, y llevar y actualizar los registros ganaderos de marcas, fierros y señales, así como de laboratorios, rastros y empacadoras;
 
-XVI.- Las demás que le atribuyen expresamente las leyes y reglamentos respectivos.
+XVI.- Integrar un banco de proyectos y oportunidades de inversión en el sector agropecuario;
 
-> <small>(REFORMADO, D.O. 27 DE NOVIEMBRE DE 1989)</small>
+XVII.- Realizar y coordinar estudios económicos y sociales del medio rural, tendientes a identificar los medios y procedimientos para abatir y superar sus rezagos;
+
+XVIII.- Vigilar la preservación de los recursos naturales y desarrollar sus potenciales productivos de manera sustentable;
+
+XIX.- Organizar congresos, ferias y concursos agrícolas, ganaderos y artesanales que se desarrollen en el medio rural, y
+
+XX.- Los demás que expresamente le atribuyan otras disposiciones legales.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 42.
 
-Corresponde a la Secretaría de Desarrollo Industrial y Comercial, el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Industrial y Comercial le corresponde el despacho de los siguientes asuntos:
 
-I.- Proponer las políticas y programas relativos al fomento y desarrollo de las actividades que realizan los sectores industrial, pesquero, de comercio y abasto y artesanal en la Entidad;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+I.- Proponer y llevar a cabo las políticas y programas relativos al fomento y desarrollo de las actividades industriales, comerciales y de abasto, pesqueras y turísticas;
 
 II.- Promover todas y cada una de las áreas mencionadas en la fracción anterior, para crear nuevas unidades productivas y fomentar el crecimiento de las ya existentes;
 
@@ -711,7 +753,29 @@ XIV.- Promover la organización de las sociedades de producción, en las áreas 
 
 XV.- Promover la adecuada vigilancia, control y demás acciones en coordinación con las dependencias concurrentes, en las áreas de industria, comercio y pesca; y
 
-XVI.- Las demás que le atribuyan expresamente las leyes y reglamentos respectivos.
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+XVI.- Dar cumplimiento a los convenios que en la materia celebre el Estado con la Federación y los Municipios;
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+XVII.- Promover ante las autoridades correspondientes la conservación, reconstrucción o restauración de edificios, preservación de monumentos en sitios de valor histórico, arquitectónico o turístico;
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+XVIII.- Asesorar a las instituciones públicas y privadas en materia turística cuando lo soliciten;
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+XIX.- Promover ante el Instituto Nacional de Antropología e Historia la delimitación de zonas arqueológicas en el Estado, así como la investigación, estudio, restauración y aprovechamiento turístico de estas riquezas;
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+XX.- Proponer al Ejecutivo la declaración de zonas turísticas en el Estado y elaborar los reglamentos correspondientes; y
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+XXI.- Las demás que le atribuyen expresamente las leyes y reglamentos respectivos.
 
 > <small>(ADICIONADO, D.O. 6 DE JULIO DE 1990)</small>
 
@@ -731,59 +795,17 @@ V.- Concertar la colaboración de asociaciones e instituciones de beneficencia, 
 
 VI.- Promover la coordinación con las dependencias afines de los gobiernos federal y estatal, en materia de seguridad, orden público, tránsito y vialidad; y
 
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+VII.- Participar en el Consejo Estatal de Seguridad Pública dentro del ámbito de su competencia; y
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
 VII.- Las demás que le señalen las leyes o reglamentos respectivos.
 
 ###### ARTICULO 44.
 
-Corresponde al Departamento de Desarrollo Turístico atender los siguientes asuntos:
-
-I.- Planear, promover, fomentar e impulsar el Turismo en el Estado, en forma directa y en coordinación con otras dependencias del Gobierno Federal, Estatal o Municipal, e iniciativa privada;
-
-II.- Ejecutar los convenios que en la materia celebre el Estado con la Federación y los Municipios;
-
-III.- Proponer planes de construcción, expansión y mejoramiento con la iniciativa privada, promoviendo centros y unidades turísticas en el Estado;
-
-IV.- Vigilar que los establecimientos de prestación de servicios turísticos, tales como hoteles, casas de huéspedes, restaurantes, balnearios y demás similares, observen estrictamente las normas, tarifas y demás disposiciones aplicables a dichos servicios, en coordinación con las dependencias concurrentes en el área;
-
-V.- Promover ante las autoridades correspondientes la conservación, reconstrucción o restauración de edificios, preservación de monumentos en sitios de valor histórico, arquitectónico o turístico;
-
-VI.- Elaborar planes para la promoción del turismo con organismos nacionales que realizan actividades culturales, deportivas y sociales, canalizándolas al Estado.
-
-VII.- Participar en congresos, seminarios y otros eventos sobre desarrollo turístico y artesanal, así como en la celebración de exposiciones y ferias locales o nacionales;
-
-VIII.- Asesorar a las instituciones Públicas y Privadas en materia Turística cuando lo soliciten;
-
-> <small>(F. DE E., D.O. 16 DE MARZO DE 1988)</small>
-
-XIX.- Intervenir en la autorización de tarifas y precios a los prestadores de servicios turísticos en el Estado;
-
-X.- Diseñar, difundir y orientar a través de los medios apropiados la publicidad para la promoción turística del estado;
-
-XI.- Promover ante el Instituto Nacional de Antropología e Historia la delimitación de zonas arqueológicas en el estado, así como la investigación, estudio, restauración y aprovechamiento turístico de estas riquezas;
-
-XII.- Proponer al Ejecutivo la declaración de zonas turísticas en el Estado y elaborar los reglamentos correspondientes;
-
-XIII.- Promover y gestionar ante los organismos correspondientes la obtención de créditos para construcción, expansión y mejoramiento de centros y unidades turísticas en el Estado;
-
-> <small>(F. DE E., D.O. 16 DE MARZO DE 1988)</small>
-
-XIV.- Otorgar permisos y concesiones de acuerdo con la legislación vigente para la explotación y establecimiento de centros, zonas y lugares turísticos, así como negocios, guías y ayudas turísticas;
-
-XV.- Elaborar los estudios y programas de inversión turística;
-
-XVI.- Promover la creación de empresas con capital mixto para el desarrollo de unidades turísticas en el Estado, en zonas predeterminadas que cuenten con recursos naturales para tal fin;
-
-XVII.- Proporcionar información y orientación al turismo nacional y extranjero, promoviendo los sitios de interés histórico y cultural del Estado;
-
-XVIII.- Establecer y mantener relaciones con organizaciones turísticas de otras entidades federativas e internacionales con fines de promoción, difusión y cooperación técnicas;
-
-XIX.- Promover la capacitación de los prestadores de Servicios Turísticos;
-
-XX.- Organizar y vigilar la adecuada prestación de los servicios de información, ayuda y protección al turista;
-
-XXI.- Coordinar las ediciones sobre información y difusión turística que realice el Estado y auxiliar a los organismos públicos y privados que lo soliciten en la preparación de materiales y difusión turística; y
-
-XXII.- Las demás que le atribuyen las Leyes y Reglamentos vigentes en el Estado.
+(DEROGADO, D.O. 19 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 45.
 
@@ -1002,3 +1024,9 @@ Para efectos presupuestales y administrativos, éstos iniciarán su vigencia a p
 ###### ARTICULO SEPTIMO.
 
 Las menciones contenidas en otras Leyes y Reglamentos y en general cualquier disposición respecto a las Secretarías que se reforman en virtud de este Decreto se entenderán referidas a las Dependencias que respectivamente absorban estas funciones.
+
+D.O. 19 DE DICIEMBRE DE 1996.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
