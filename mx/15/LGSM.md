@@ -4,7 +4,7 @@ identifier: "LGSM"
 country: "mx"
 rank: "ley_general"
 publication_date: "1934-08-04"
-last_updated: "1943-02-02"
+last_updated: "1949-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=578&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSM"
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE FEBRERO DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE FEBRERO DE 1949.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el sábado 4 de agosto de 1934.
 
@@ -444,11 +444,13 @@ Cada socio no tendrá más de una parte social. Cuando un socio haga una nueva a
 
 Las partes sociales son indivisibles. No obstante, podrá establecerse en el contrato de sociedad, el derecho de división y el de cesión parcial, respetándose las reglas contenidas en los artículos 61, 62, 65 y 66 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 12 DE FEBRERO DE 1949)</small>
+
 ###### ARTICULO 70.
 
 Cuando así lo establezca el contrato social, los socios, además de sus obligaciones generales, tendrán la de hacer aportaciones suplementarias en proporción a sus primitivas aportaciones.
 
-También podrá pactarse en el contrato social que los socios estén obligados a efectuar prestaciones accesorias, y en tal caso deberá indicarse el contenido, la duración y la modalidad de estas prestaciones, la compensación que les corresponda y las sanciones contra los socios que no las cumplan.
+Queda prohibido pactar en el contrato social prestaciones accesorias consistentes en trabajo o servicio personal de los socios.
 
 ###### ARTICULO 71.
 
@@ -1671,3 +1673,7 @@ D.O.F. 2 DE FEBRERO DE 1943.
 ###### ARTICULO UNICO.
 
 La presente ley entrará en vigor a los noventa días de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 12 DE FEBRERO DE 1949.
+
+Este Decreto entrará en vigor a los tres días de su publicación en el "Diario Oficial" de la Federación.
