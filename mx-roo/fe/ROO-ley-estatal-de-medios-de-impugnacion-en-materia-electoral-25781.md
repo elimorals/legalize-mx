@@ -4,7 +4,7 @@ identifier: "ROO-ley-estatal-de-medios-de-impugnacion-en-materia-electoral-25781
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-27"
-last_updated: "2002-08-27"
+last_updated: "2003-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ESTATAL DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002
 
@@ -275,9 +275,13 @@ Durante el tiempo que transcurra entre la conclusión de un proceso electoral y 
 
 Para los efectos del párrafo anterior, se entiende por días hábiles, todos los del año, con excepción de los sábados y domingos y aquellos que sean considerados como inhábiles por los organismos electorales, en términos de la ley respectiva; y por horas hábiles, las comprendidas de las 9:00 a las 21:00 horas.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2003)</small>
+
 ###### Artículo 25.
 
-Los medios de impugnación previstos en esta Ley, deberán promoverse dentro de los tres días siguientes, contados a partir de aquel en que se tenga conocimiento o se hubiese notificado el acto o resolución que se impugne, de conformidad con las disposiciones del presente ordenamiento.
+Los medios de impugnación previstos en esta Ley, deberán promoverse dentro de los tres días siguientes, contados a partir de que se tenga conocimiento o se hubiese notificado el acto o resolución que se impugne, de conformidad con las disposiciones del presente ordenamiento.
+
+En el caso de actos o resoluciones de los Consejos Distritales y Juntas Distritales Ejecutivas, el recurso de revocación deberá de interponerse dentro de las cuarenta y ocho horas siguientes, contadas a partir de que se tenga conocimiento o se hubiese notificado el acto o resolución a combatir.
 
 ### Capítulo Séptimo. De la Interposición y sus Efectos
 
@@ -369,15 +373,17 @@ IV. El ciudadano agraviado fallezca o sea suspendido o privado de sus derechos p
 
 ### Capítulo Noveno. De las Reglas de Trámite
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2003)</small>
+
 ###### Artículo 33.
 
 El órgano electoral que reciba un medio de impugnación, en contra de uno de sus actos o resoluciones, de inmediato y bajo su más estricta responsabilidad, deberá:
 
-I. Remitir por la vía más expedita, a la Secretaría Ejecutiva del Instituto o al Tribunal, según sea el caso, copia del escrito por el que se promueva el medio de impugnación, precisando fecha y hora de su presentación;
+I. Remitir por la vía más expedita, a la Secretaría General del Instituto o al Tribunal, según sea el caso, copia del escrito por el que se promueva el medio de impugnación, precisando fecha y hora de su presentación;
 
-II. Hacerlo del conocimiento público, dentro de las veinticuatro horas siguientes a su recepción, mediante cédula que se fijará en los estrados en la que deberá constar el día y hora de su publicación; y
+II. Hacerlo del conocimiento público, inmediatamente a su recepción, mediante cédula que se fijará en los estrados en la que deberá constar el día y hora de su publicación; y
 
-III. La cédula a que se refiere la fracción anterior, deberá publicarse durante el plazo de cuarenta y ocho horas.
+III. La cédula a que se refiere la fracción anterior, deberá publicarse durante el plazo de veinticuatro horas.
 
 ###### Artículo 34.
 
@@ -399,27 +405,29 @@ VII. Hacer constar el nombre y la firma autógrafa del promovente.
 
 Cuando se incumpla con cualquiera de los requisitos previstos en las fracciones I, V y VII, se tendrá por no presentado el escrito respectivo.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2003)</small>
+
 ###### Artículo 35.
 
-Dentro de las veinticuatro horas siguientes al vencimiento del plazo de fijación a que se refiere la fracción III del Artículo 33 de este ordenamiento, el órgano responsable del acto o resolución impugnada que reciba un medio de impugnación, deberá remitir a la Secretaría General del Instituto o al Tribunal, según corresponda, lo siguiente:
+Inmediatamente al vencimiento del plazo de fijación a que se refiere la fracción III del artículo 33 de este ordenamiento, el órgano responsable del acto o resolución impugnada que reciba un medio de impugnación, deberá remitir a la Secretaría General del Instituto o Tribunal, según corresponda, lo siguiente:
 
 I. El escrito original mediante el cual se interpone, las pruebas y demás documentos que se hayan acompañado al mismo;
 
 II. Copia certificada del documento en que conste el acto o resolución impugnada;
 
-III. En su caso, los escritos de los terceros interesados y coadyuvantes, las pruebas y demás documentación que se haya acompañado a los mismos;
+III. En su caso, los escritos de los terceros interesados y coadyuvantes, las pruebas y demás documentación que se haya acompañando (sic) a los mismos;
 
 IV. Tratándose del juicio de nulidad, copia certificada del expediente completo con todas las actas relativas al cómputo de la elección o asignación impugnada, así como las hojas de incidentes y escritos de protesta que obren en su poder;
 
 V. Un informe circunstanciado, que por lo menos deberá contener:
 
-A)Los motivos y fundamentos jurídicos que considere pertinentes para sostener la legalidad del acto o resolución que se impugna.
+A) Los motivos y fundamentos jurídicos que considere pertinentes para sostener la legalidad del acto o resolución que se impugna.
 
-B)El reconocimiento o no, de la personalidad del promovente ante dicho órgano.
+B) El reconocimiento o no, de la personalidad del promovente ante dicho órgano.
 
-C)La firma autógrafa del funcionario que lo rinde.
+C) La firma autógrafa del funcionario que lo rinde.
 
-D)Los demás elementos que se estimen necesarios para la resolución del medio de impugnación.
+D) Los demás elementos que se estimen necesarios para la resolución del medio de impugnación.
 
 ### Capítulo Décimo. De la Sustanciación ante el Tribunal
 
@@ -617,6 +625,8 @@ V. En todos los casos el funcionario responsable de la notificación deberá ase
 
 Los acuerdos o resoluciones dictados en la sustanciación de los medios de impugnación, se notificarán por estrados, con excepción de los requerimientos que deberán hacerse por oficio, por vía telegráfica o por fax, según se señale en el propio acuerdo o resolución.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2003)</small>
+
 ###### Artículo 61.
 
 Las sentencias o resoluciones que pongan fin a los medios de impugnación previstos en el presente ordenamiento, serán notificadas de la siguiente manera:
@@ -625,9 +635,11 @@ I. Al actor personalmente, cuando hubiese señalado domicilio en la Ciudad de Ch
 
 II. Al órgano responsable del acto o resolución impugnada, por oficio; y
 
-III. A los terceros interesados y coadyuvantes, personalmente cuando hubiesen señalado domicilio en la capital del Estado, o por estrados cuando no lo señalen.
+III. A los terceros interesados y coadyuvantes, personalmente cuando hubiesen señalado domicilio en la Capital del Estado, o por estrados cuando no lo señalen.
 
 Las notificaciones a que se refiere este Artículo, se harán dentro de las veinticuatro horas siguientes de haberse dictado la sentencia o resolución que se notifica.
+
+Lo anterior, con excepción de los casos en que se trate de sentencias o resoluciones dictadas con motivo de la interposición de recursos de revocación en contra de actos o resoluciones de los Consejos Distritales o Juntas Distritales Ejecutivas, en este caso, las notificaciones a que se refiere este Artículo, se harán inmediatamente y sin dilación alguna.
 
 ###### Artículo 62.
 
@@ -679,19 +691,25 @@ Los recursos de revocación a que se refiere el primer párrafo del artículo 67
 
 El órgano electoral desconcentrado o la Contraloría Interna del Instituto o del Tribunal que reciba un recurso de revocación, procederá en términos de los Artículos 33, 34 y 35 de esta Ley.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2003)</small>
+
 ###### Artículo 71.
 
-Si el órgano electoral desconcentrado o la Contraloría Interna del Instituto o del Tribunal incumplen con alguna de las obligaciones previstas en los artículos señalados en el numeral que antecede, la Secretaría General los requerirá de inmediato para que en un plazo no mayor de veinticuatro horas, remitan las constancias y documentos que hayan omitido enviar o que en su caso, se consideren fundamentales para la resolución del recurso.
+Si el órgano electoral desconcentrado o la Contraloría Interna del Instituto o del Tribunal incumplen con alguna de las obligaciones previstas en los artículos señalados en el numeral que antecede, la Secretaría General los requerirá de inmediato para que sin dilación alguna remitan las constancias y documentos que haya omitido enviar o que en su caso, se consideran fundamentales para la resolución del recurso.
 
 Ante la negativa se tendrán como presuntivamente ciertos los hechos constitutivos de la violación reclamada, salvo prueba en contrario. En todo caso se resolverá con los elementos que obren en autos.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2003)</small>
 
 ###### Artículo 72.
 
 Una vez que la Secretaría General del Instituto haya integrado el expediente del recurso de revocación, lo remitirá a la Dirección Jurídica del Instituto para que ésta elabore un proyecto de resolución que someterá a su consideración, dentro de un plazo de tres días contados a partir de la recepción del recurso; en el caso del Tribunal, una vez integrado el expediente del recurso se sujetará al procedimiento señalado en el artículo 36 de la presente Ley, pero resolverá en un plazo no mayor de tres días.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2003)</small>
+
 ###### Artículo 73.
 
-La Secretaría General del Instituto, por conducto del Consejero Presidente, remitirá el proyecto al Consejo General para que lo resuelva dentro de los ocho días siguientes a la recepción del proyecto de resolución, pudiendo aprobarse por unanimidad o mayoría de votos de los miembros presentes en el pleno de ese órgano.
+La Secretaría General del Instituto, por conducto del Consejero Presidente, remitirá el proyecto al Consejo General para que lo resuelva dentro de los tres días siguientes a la recepción del proyecto de resolución, pudiendo aprobarse por unanimidad o mayoría de votos de los miembros presentes en el pleno de ese órgano.
 
 ###### Artículo 74.
 
@@ -938,3 +956,15 @@ LIC. JOAQUÍN ERNESTO HENDRICKS DÍAZ
 EL SECRETARIO DE GOBIERNO
 
 VICTOR M. ALCERRECA SANCHEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE OCTUBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan a la presente.
