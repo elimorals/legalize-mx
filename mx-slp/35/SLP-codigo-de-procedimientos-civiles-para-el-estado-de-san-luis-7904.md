@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "1995-01-27"
+last_updated: "1996-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1996.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -1427,11 +1427,13 @@ ART. 349.- Si el perito nombrado por una parte no rinde su dictamen, sin causa j
 
 Si el perito de que se trata no rinde su dictamen dentro del término que se fijó, pero sí antes de que se haya hecho el nuevo nombramiento, sólo se le aplicará la multa señalada en el párrafo precedente.
 
-ART. 350.- El nombramiento de perito que haga el juez, deberá recaer en alguno de los servidores públicos, quienes quedan obligados a aceptar el cargo, que sólo es renunciable por causas graves a juicio del juez, y a rendir su dictamen dentro del término que se le señale.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1996)</small>
 
-ART. 351.- A instancia de cualquiera de las partes, o para mejor proveer, el juez podrá pedir informe a la Academia, Colegio o Corporación Oficial que corresponda, cuando el dictamen pericial exija operaciones o conocimientos científicos especiales.
+ART. 350.- El nombramiento del perito que haga el juez deberá recaer en alguno de los peritos inscritos en el Registro Estatal de Peritos, quienes quedan obligados a aceptar el cargo, que sólo es renunciable por causas graves a juicio del juez y a rendir su dictamen dentro del término que se le señale.
 
-En este caso el informe se unirá a los autos, y producirá sus efectos aunque se reciba o expida después de transcurrido el término de prueba.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1996)</small>
+
+ART. 351.- Los peritos deberán estar inscritos en el Registro Estatal de Peritos y contar con registro legalmente expedido para fungir como tales.
 
 #### Sección V. Del Reconocimiento o Inspección Judicial
 
@@ -2933,11 +2935,13 @@ ART. 761.- Si el testamento fuere ológrafo, luego que lo reciba el encargado de
 
 ART. 762.- Ante el tribunal competente se procederá, con respecto al testamento público cerrado, al privado o al ológrafo, como está dispuesto para esas clases de testamentos otorgados en el país.
 
-#### Sección XVI. Disposiciones relativas a Juicios Sucesorios cuyo interés sea menor de $1,000.00
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 1997)</small>
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1972)</small>
+#### Sección XVI. Disposiciones relativas a juicios sucesorios cuyo interés sea menor a quinientos dos días de salario mínimo diario vigente en la zona económica de que se trate
 
-ART. 763.- Los juicios sucesorios, cuya cuantía sea menor de $10,000.00 diez mil pesos, se promoverán ante los Jueces de Primera Instancia, y ante los Jueces Menores en los lugares donde éstos existan, si la cuantía es inferior a $5,000.00 cinco mil pesos. En ambos casos la tramitación se sujetará a las prescripciones establecidas en la Sección XVI, Capítulo VI de este Código.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1996)</small>
+
+ART. 763.- Los juicios sucesorios, cuya cuantía sea menor de quinientos dos días de salario mínimo diario vigente en la zona económica de que se trate, se promoverán ante los Jueces de Primera Instancia, y ante los Jueces Menores en los lugares donde éstos existan, si la cuantía es inferior a ciento ochenta y dos días de salario mínimo diario vigente en la zona económica de que se trate. En ambos casos la tramitación se sujetará a las prescripciones establecidas en la Sección XVI, Capítulo VI de este Código.
 
 ART. 764.- El juez, en vista de la solicitud del denunciante, tendrá por radicada la sucesión, pedirá informe a la Tesorería del Estado o Municipal, en sus respectivos casos, sobre el valor fiscal de los bienes denunciados; mandará que se convoque a las personas que se crean con derecho a la herencia, por medio de publicaciones en la puerta del juzgado, que se harán tres veces durante treinta días, para que se presenten a deducir sus derechos dentro de otros treinta y rindan las pruebas de su parentesco con el autor de la herencia.
 
@@ -4173,13 +4177,13 @@ VI.- Efectuada la venta, se entregarán los bienes al adquiriente, luego que exh
 
 VII.- En todo lo demás se observarán, en lo conducente, las disposiciones de este Capítulo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE JULIO DE 1990)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 1997)</small>
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1996)</small>
 
-ART. 1096.- Los Jueces de Primera Instancia, en los negocios en materia civil, cuya cuantía sea hasta de diez días de salario mínimo vigente en la región y los menores cuya cuantía no exceda de cinco días de salario mínimo vigente en la región, procederán conforme a las disposiciones especiales de este Título y en lo no previsto, observarán las reglas generales y disposiciones de este Código.
+ART. 1096.- Los Jueces de Primera Instancia en los negocios en materia civil, cuya cuantía sea hasta de ciento ochenta y dos días de salario mínimo diario vigente en la zona económica de que se trate y los Jueces Menores cuya cuantía no exceda de esa cantidad de días de salario mínimo diario vigente en la zona económica de que se trate, procederán conforme a las disposiciones especiales de ese título y en lo no previsto, observarán las reglas generales y disposiciones de este Código.
 
 ART. 1097.- Cuando el juez, en cualquier estado del negocio, encuentre que no debe seguirse procedimiento especial por exceder de los límites que se fijan en el artículo anterior, continuará el procedimiento en la forma del juicio respectivo.
 
@@ -4211,7 +4215,9 @@ ART. 1105.- El día y hora señalados para la celebración de la audiencia a que
 
 El juez podrá conceder el uso de la palabra hasta por dos veces a cada una de las partes y si se formula reconvención, se le concederá precisamente al actor para que la conteste sujetándose a las disposiciones de este artículo.
 
-ART. 1106.- Si la reconvención es por una cantidad mayor de quinientos pesos, se suspenderá el procedimiento especial y continuará el juicio en la forma que corresponda.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1996)</small>
+
+ART. 1106.- Si la reconvención es por una cantidad mayor de ciento ochenta y dos días de salario mínimo diario vigente en la zona económica de que se trate se suspenderá el procedimiento especial y continuará el juicio en la forma que corresponda.
 
 ART. 1107.- Todas las acciones y excepciones o defensas, se harán valer en el acto mismo de la audiencia, sin substanciar artículos o incidentes de previo y especial pronunciamiento. Si de lo que expongan las partes resultare demostrada la procedencia de alguna excepción dilatoria, el juez lo declarará así desde luego y dará por terminada la audiencia.
 
@@ -4415,7 +4421,7 @@ Cuando haya necesidad de diferirla se continuará en las primeras horas hábiles
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
 
-## TITULO DECIMO QUINTO. Del Procedimiento en los Negocios cuya cuantía sea hasta de cinco días de salario mínimo vigente en la región
+## TITULO DECIMO QUINTO. Del procedimiento en los negocios cuya cuantía sea hasta de ciento ochenta días de salario mínimo diario vigente en la zona económica de que se trate
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
 
@@ -4578,5 +4584,9 @@ P.O. 17 DE ENERO DE 1992.
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 27 DE ENERO DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JUNIO DE 1996.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
