@@ -1,0 +1,796 @@
+---
+title: "LEY DE HACIENDA DEL MUNICIPIO DE EL LLANO, AGUASCALIENTES"
+identifier: "AGU-ley-de-hacienda-del-municipio-de-el-llano-aguascalientes-29024"
+country: "mx"
+rank: "ley"
+publication_date: "1994-07-03"
+last_updated: "1994-07-03"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29024&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-agu"
+scjn_id: "29024"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "SUPLEMENTO AL No. 27 SECC. II"
+reform_count: "3"
+scjn_last_update: "2010-08-23"
+issue_date: "1994-06-28"
+municipality: "El Llano"
+municipality_inegi: "01010"
+state: "AGU"
+---
+# LEY DE HACIENDA DEL MUNICIPIO DE EL LLANO, AGUASCALIENTES
+
+LEY DE HACIENDA DEL MUNICIPIO DE EL LLANO, AGS.
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Suplemento de la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 3 de julio de 1994.
+
+OTTO GRANADOS ROLDAN, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
+
+Que por el H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedir el siguiente Decreto:
+
+"NUMERO 107
+
+La H. LV Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27 fracción I, 32 y 35 de la Constitución Política Local, en nombre del Pueblo, decreta:
+
+LEY DE HACIENDA DEL MUNICIPIO DE EL LLANO, AGS.
+
+## TITULO PRIMERO. DE LOS IMPUESTOS
+
+### CAPITULO I. Del Impuesto a la Propiedad Raíz
+
+#### SECCION PRIMERA. Del Objeto
+
+###### ARTICULO 1º.
+
+Es objeto de este impuesto, según el caso, la propiedad, la copropiedad, la posesión y el usufructo de predios, así como las construcciones edificadas sobre los mismos.
+
+#### SECCION SEGUNDA. De los Sujetos
+
+###### ARTICULO 2º.
+
+Son sujetos de este impuesto:
+
+I.- Los propietarios, copropietarios y condóminos de predios;
+
+II.- Los titulares de certificados de participación inmobiliaria o de cualquier otro título similar;
+
+III.- Los fideicomitentes, y los fideicomisarios, según sea el caso;
+
+IV.- Los titulares de los derechos agrarios sobre la propiedad ejidal o comunal, de conformidad con lo establecido en la Ley Federal de (sic) Reforma Agraria;
+
+V.- Quienes tengan la posesión a título de dueño o útil de predios;
+
+VI.- Los poseedores que por cualquier título tengan la concesión, uso y goce de predios del dominio del Estado, de sus Municipios o de la Federación;
+
+VII.- Los poseedores de bienes vacantes, mientras los detenten;
+
+VIII.- Los usufructuarios; y
+
+IX.- Los propietarios de predios donde se ubiquen plantas de beneficio, establecimientos mineros y metalúrgicos, en términos de la legislación federal de la materia.
+
+#### SECCION TERCERA. De la Responsabilidad Solidaria
+
+###### ARTICULO 3º.
+
+Son solidarios responsables del pago del impuesto a la propiedad raíz:
+
+I.- Los promitentes vendedores, quienes vendan con reserva de dominio o sujeto a condición;
+
+II.- Los nudos propietarios;
+
+III.- Los fiduciarios respecto de los bienes sujetos a fideicomiso;
+
+IV.- Los concesionarios o quienes no siendo propietarios, tengan la explotación de las plantas de beneficio de los establecimientos mineros metalúrgicos;
+
+V.- Los adquirentes de predios en relación al impuesto y sus accesorios insolutos a la fecha de la adquisición; en todo caso los predios quedarán preferentemente afectos al pago del impuesto y sus accesorios, independientemente de quien detente la propiedad o posesión de los mismos; y
+
+VI.- Los funcionarios y empleados públicos que autoricen algún acto jurídico o den trámite a algún documento, sin que esté al corriente en el pago de este impuesto y sus accesorios, independientemente de las sanciones en su contra.
+
+#### SECCION CUARTA. De las Exenciones
+
+###### ARTICULO 4o.
+
+Quedan exceptuados del pago de este impuesto:
+
+I.- Los bienes de dominio público de la Federación, de los Estados y de los Municipios.
+
+Para que proceda la exención señalada en esta fracción, deberá comprobarse que su constitución o funcionamiento se apegue estrictamente a lo establecido en las leyes respectivas y los servicios asistenciales sean prestados gratuitamente al público en general, sin ninguna distinción.
+
+#### SECCION QUINTA. De la Base
+
+###### ARTICULO 5o.
+
+La base de este impuesto es el valor catastral de los predios o de las construcciones en su caso.
+
+En cuanto a los predios o construcciones que no tengan valores catastrales, servirá de base el valor con que se encuentren fiscalmente empadronados o el valor de operación del traslado de dominio que se registre, aún tratándose de ventas con reserva de dominio, si éste es mayor que aquéllos.
+
+###### ARTICULO 6o.
+
+La base del impuesto se cambiará:
+
+I.- Cuando se realice alguna de las causas que establece la Ley de Catastro del Estado para practicar nuevo avalúo;
+
+II.- Cuando por cualquier circunstancia el predio sufra demérito superior al 25% del valor catastral o registrado;
+
+III.- Cuando por cualquier circunstancia la base con que esté tributando un predio sea inferior al valor que le correspondería en una libre transacción comercial; y
+
+IV.- Cuando con motivo de la aplicación de las tablas de valores vigentes, se practique un avalúo que se acerque más al valor comercial.
+
+###### ARTICULO 7o.
+
+Cuando no sea posible determinar el valor catastral aplicable al inmueble, la Tesorería Municipal con apoyo en los elementos de que disponga, determinará el valor que sirva de base, el que deberá ser lo más apegado posible a su valor comercial; el valor así determinado surtirá los efectos de valor catastral.
+
+###### ARTICULO 8o.
+
+La nueva base surtirá efectos:
+
+I.- A partir del bimestre siguiente a aquel en que se produzca el hecho, acto o contrato que le dé origen;
+
+II.- A partir del bimestre siguiente al en que se notifique el nuevo avalúo, cuando éste sea efectuado por haber transcurrido el plazo de 2 y 4 años según se trate de predios urbanos o rústicos; y
+
+III.- Por cualquiera de las circunstancias a que se refiere la Ley de Catastro del Estado.
+
+#### SECCION SEXTA. De las Cuotas y Tasas
+
+###### ARTICULO 9o.
+
+Este impuesto se causará y pagará conforme a las cuotas y tasas que fije la Ley de Ingresos Municipal.
+
+#### SECCION SEPTIMA. Del Pago del Impuesto
+
+###### ARTICULO 10.
+
+El pago del impuesto a la propiedad raíz se efectuará a más tardar el último día hábil de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
+
+Los pagos pueden hacerse por anticipado sin perjuicio del cobro de diferencias en caso de que se modifique la base gravable.
+
+Tratándose de ejidos y comunidades agrarias, el pago del impuesto podrá efectuarse dentro del plazo general a que se refiere el párrafo primero de este artículo o bien por anualidades vencidas durante el mes de enero del año siguiente al en que corresponda el pago.
+
+#### SECCION OCTAVA. De las Definiciones
+
+###### ARTICULO 11.
+
+Para los efectos de este impuesto se estará a las definiciones que sobre diversos conceptos previene la Ley de Catastro del Estado.
+
+#### SECCION NOVENA. De la Liquidación
+
+###### ARTICULO 12.
+
+La Tesorería Municipal deberá determinar el monto del impuesto, de conformidad con las respectivas bases, tasas o cuotas que al efecto establezca la Ley de Ingresos Municipal.
+
+###### ARTICULO 13.
+
+Tratándose de cementerios, el impuesto a pagar durante el año, se liquidará sobre el valor catastral de la parte que no hubiese sido enajenada, e mes de enero del ejercicio de que se trate. A este efecto, durante el primer mes de cada año, los sujetos del impuesto manifestarán la superficie que hubieren vendido el año anterior.
+
+###### ARTICULO 14.
+
+En los casos de excedencia o de predios no empadronados de construcciones, reconstrucciones o de ampliaciones no manifestadas, la liquidación comprenderá 5 años anteriores a la fecha de su descubrimiento por cualquier causa o motivo, salvo que el contribuyente pruebe que tales hechos u omisiones datan de fecha anterior.
+
+También se impondrá al propietario o poseedor del inmueble una multa de 5% tomando en cuenta el valor catastral definitivo.
+
+En caso de que la excedencia no rebase el 10% de la superficie total del inmueble, no se cobrará la multa a que se refiere el párrafo anterior.
+
+#### SECCION DECIMA. De las Obligaciones de los Contribuyentes
+
+###### ARTICULO 15.
+
+Para los efectos de esta Ley, los sujetos de este impuesto están obligados a presentar los avisos correspondientes, dentro de los 45 días naturales siguientes al en que se celebren o se realicen, según el caso, los contratos, permisos, hechos o actos siguientes:
+
+I.- De compraventa, venta con reserva de dominio, promesa de venta o cualquier otro traslativo de dominio de bienes inmuebles;
+
+II.- De construcción, reconstrucción, ampliación, modificación, demolición de construcciones ya existentes; y
+
+III.- De fusión, subdivisión y fraccionamiento de predios.
+
+Se tendrá por cumplida esta obligación, respecto de la fracción I, con la presentación de los avisos exigidos por esta Ley, para el pago del impuesto sobre adquisición de inmuebles; y para las fracciones II y III, con los avisos que señala la Ley de Catastro del Estado.
+
+###### ARTICULO 16.
+
+Los sujetos del impuesto deberán manifestar a la Tesorería Municipal la ubicación del predio, sus cambios de domicilio dentro de los quince días siguientes a aquel en que se efectúen, sin no lo hicieren, se tendrá como domicilio para todos los efectos legales el que hubieren señalado anteriormente o, en su defecto, el predio mismo.
+
+###### ARTICULO 17.
+
+Las autoridades judiciales o administrativas previamente al remate de inmuebles, recabarán de la Tesorería Municipal un informe sobre los créditos fiscales que con motivo de tal inmueble se hayan originado hasta la fecha de la subasta.
+
+Si de tal informe apareciere algún crédito fiscal insoluto, la autoridad retendrá del producto del remate la cantidad suficiente a cubrirlo, remitiéndolo inmediatamente a la Tesorería Municipal para que ésta extienda y envíe el recibo correspondiente, que será entregado al adquirente del inmueble.
+
+###### ARTICULO 18.
+
+Cuando en las manifestaciones o avisos exigidos no se expresen los datos o no se acompañen los documentos o planos también requeridos, las autoridades fiscales darán un plazo de quince días para que se corrija la omisión, que se contará a partir de la fecha en que los interesados reciban el requerimiento.
+
+Si transcurrido dicho plazo no se expresan los datos o no se presentan los documentos o planos requeridos, la Tesorería Municipal no tomará en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor las sanciones que procedan.
+
+### CAPITULO II. Del Impuesto sobre Adquisición de Inmuebles
+
+#### SECCION PRIMERA. Del Objeto
+
+Es objeto de este impuesto
+
+###### ARTICULO 19.
+
+Es objeto de este impuesto:
+
+I.- Todo acto por el que se transmita la propiedad de bienes inmuebles, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges;
+
+II.- La venta hecha con reserva de dominio o sujeta a condición de bienes inmuebles y los actos o contratos que impliquen la entrega de la posesión, como un acto previo a la traslación de dominio;
+
+III.- La transmisión de los derechos derivados de las operaciones, actos o contratos a que se refiere la fracción anterior;
+
+IV.- La constitución y transmisión del usufructo;
+
+V.- La traslación o promesa de cesión de derecho fiduciario y de participación inmobiliaria;
+
+VI.- La transmisión de la propiedad realizada en procedimientos judiciales o administrativos;
+
+VII.- Los actos constitutivos de fideicomiso, así como los actos de ejecución de los mismos que afecten derechos reales o posesorios sobre bienes inmuebles;
+
+VIII.- La división o liquidación de la copropiedad y la disolución de la sociedad conyugal por la parte que se adquiere en demasía de porciento que le correspondería al copropietario o cónyuge;
+
+IX.- La readquisición de la propiedad de bienes inmuebles, a consecuencia de la revocación o rescisión voluntaria del contrato traslativo de dominio;
+
+X.- La permuta de bienes inmuebles en la cual se considerará que se efectúan dos adquisiciones;
+
+XI.- La cesión de derechos de bienes inmuebles;
+
+XII.- La transmisión de lotes a perpetuidad en los panteones;
+
+XIII.- La cesión y transmisión de derechos de heredero, legatario o copropietario, en la parte relativa y en proporción a los inmuebles.
+
+Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuada después de la declaratoria de herederos o legatarios.
+
+XIV.- Fusión de sociedades;
+
+XV.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles;
+
+XVI.- La celebración de contratos de arrendamiento financiero y la cesión de derechos del arrendatario financiero. En las permutas se considera que se efectúan dos adquisiciones; y
+
+XVII.- Cualquier otro acto o contrato por el que se transmitan bienes inmuebles o derechos sobre los mismos.
+
+###### ARTICULO 20.
+
+En la transmisión de bienes y derechos que por rescisión del contrato vuelvan éstos al enajenante dentro de los sesenta días naturales siguientes al otorgamiento del contrato, no se cobrará el impuesto.
+
+#### SECCION SEGUNDA. De los Sujetos
+
+###### ARTICULO 21.
+
+Son sujetos de este impuesto las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, por cualquiera de las figuras enumeradas en el Artículo 19 de esta Ley.
+
+#### SECCION TERCERA. De la Responsabilidad Solidaria
+
+###### ARTICULO 22.
+
+Son responsables solidarios:
+
+I.- Quienes transmitan o adquieran, según el caso, los bienes y derechos a que se refiere este impuesto; y
+
+II.- Los funcionarios y empleados públicos, notarios y corredores que expidan testimonio o den trámite a algún documento en que se consignen actos, convenios, contratos u operaciones objeto de este impuesto, sin que éste se encuentre cubierto, independientemente de las sanciones por las infracciones en que se hubiere incurrido.
+
+#### SECCION CUARTA. De la Base
+
+###### ARTICULO 23.
+
+Será base de este impuesto:
+
+I.- Tratándose de bienes inmuebles:
+
+A).- El valor que resulte más alto de entre:
+
+1.- El consignado en avalúo bancario, que no podrá tener una antigüedad mayor de seis meses a partir de la fecha en que se practique.
+
+2.- El de la operación.
+
+3.- El catastral con que fiscalmente se encuentre empadronado el predio.
+
+Si la Tesorería Municipal advierte que los avalúos bancarios son notoriamente inferiores a los valores que rijan en el mercado, practicará avalúo en los términos de la Ley de Catastro del Estado, mismo que servirá de base para el pago del impuesto.
+
+El impuesto se calculará aplicando la tasa que establece la Ley de Ingresos al valor del inmueble fijado en los términos de este artículo, después de reducirlo en 10 veces al año, de la zona económica en que se encuentre ubicado el inmueble.
+
+Tratándose de predios sin construir se reducirá en 5 veces el salario mínimo general elevado al año, de la zona económica en que se encuentre ubicado el predio.
+
+Cuando formen parte del inmueble, departamentos habitacionales, la reducción se hará por cada uno de ellos; lo dispuesto en este párrafo no es aplicable a hoteles.
+
+###### ARTICULO 24.
+
+La reducción a que se refiere el artículo anterior se realizará tomando en cuenta lo siguiente:
+
+I.- Se considerará como un solo inmueble los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios, únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiere adquirido con anterioridad, para que se ajuste el monto de la reducción y pagará en su caso, las diferencias de este impuesto que corresponda. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte;
+
+II.- Cuando se adquiere parte de la propiedad o de los derechos a que se refiere el Artículo 20 de esta Ley, la reducción se hará en la proporción que corresponda a dicha parte;
+
+III.- Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos; y
+
+IV.- No se considerarán departamentos habitacionales los que por sus características originales, se destinen a servicios domésticos, o guarda de vehículos, aún cuando se utilicen para otros fines.
+
+#### SECCION QUINTA. De la Tasa
+
+###### ARTICULO 25.
+
+Este impuesto se liquidará y recaudará de conformidad con lo que al efecto señale la Ley de Ingresos del Municipio.
+
+#### SECCION SEXTA. Del Pago
+
+###### ARTICULO 26.
+
+El pago de este impuesto se hará dentro del plazo de treinta días, contados a partir de la fecha en que se hubiere celebrado el acto o contrato; protocolizado las diligencias, o causado ejecutoria la resolución por virtud de la cual se adjudiquen los bienes. Si la operación se efectúa fuera del Estado, el plazo para el pago del impuesto será de sesenta días.
+
+###### ARTICULO 27.
+
+El fideicomiso de bienes inmuebles se equipara para los efectos de pago de este impuesto, al de un transmisión patrimonial.
+
+###### ARTICULO 28.
+
+Los bienes materia del hecho, acto o contrato gravado con este impuesto, quedarán preferentemente afectos al pago del mismo.
+
+#### SECCION SEPTIMA. De las Obligaciones de los Contribuyentes
+
+###### ARTICULO 29.
+
+Tratándose de las partes que intervengan en la adquisición de bienes inmuebles, que hayan celebrado contrato de promesa de venta, venta con reserva de dominio o sujeta a condición, será necesario que acrediten el pago del impuesto sobre adquisición de inmuebles.
+
+###### ARTICULO 30.
+
+Para enajenar cualquier bien inmueble o transmitir algún derecho real, el contribuyente deberá demostrar mediante certificado expedido por las autoridades fiscales correspondientes, que el inmueble objeto de la operación, está al corriente en el pago del impuesto predial.
+
+###### ARTICULO 31.
+
+Las personas físicas o morales cuya actividad sea la venta de inmuebles, tendrán, las siguientes obligaciones:
+
+I.- Presentar para su autorización, ante la Tesorería Municipal, los contratos debidamente prenumerados;
+
+II.- Conservar copia de los contratos, facturas y recibos de cobranza que originen las ventas;
+
+III.- Llevar un registro por cada operación que consigne como mínimo los siguientes datos:
+
+A).- Nombre del comprador.
+
+B).- Domicilio.
+
+C).- Número de contrato.
+
+D).- Manzana y lote.
+
+E).- Monto total de la operación de importe de cada una de las mensualidades.
+
+F).- Fecha y número del recibo de abono.
+
+G).- Saldo por amortizar, incluyendo capital e interés determinado mensualmente.
+
+IV.- Deberá formular una declaración mensual para el pago de este impuesto, en las formas aprobadas, dentro de los primeros quince días siguientes al mes en que se realizaron las operaciones. Estas declaraciones deberán presentarse en la Tesorería Municipal, adjuntando para el efecto copia de los contratos celebrados.
+
+La Tesorería Municipal al recibir el pago del impuesto a que se refiere este Capítulo, deberá entregar al contribuyente un recibo por cada predio, que contendrá el número de cuenta predial, la clave catastral, número de manzana, superficie e importe de la operación.
+
+Los fraccionadores que cumplan con lo establecido en la fracción anterior, dejarán de ser solidarios responsables del pago del impuesto predial, de los inmuebles por ellos enajenados.
+
+#### SECCION OCTAVA. De las Obligaciones de Terceros
+
+###### ARTICULO 32.
+
+Para los efectos del Artículo 26, los notarios públicos o quienes hagan sus veces y los funcionarios públicos, deberán dar aviso a la Tesorería Municipal de los actos o contratos en que intervengan y que resulten gravados con este impuesto.
+
+Los particulares tendrán la misma obligación, tratándose de escrituras otorgadas fuera del Estado.
+
+###### ARTICULO 33.
+
+Los avisos a que se refiere el artículo anterior, se harán en las formas aprobadas por la Tesorería Municipal, debiendo proporcionar los datos que las mismas indiquen.
+
+Tratándose de operaciones sobre inmuebles se acompañarán: el plano catastral con superficie, medidas y colindancias actualizadas, el avalúo bancario correspondiente y el certificado que acredite que el inmueble se encuentra al corriente del pago de sus obligaciones fiscales.
+
+El deslinde catastral a que se refiere el párrafo anterior, tendrá vigencia por un año natural, contado a partir de la fecha de expedición. Estos documentos deberán contener los datos actualizados hasta el mes en que los jueces y notarios autoricen la escritura, actos o contratos.
+
+Para el caso que transcurrido un término de diez días hábiles, contados a partir de la presentación de la solicitud para la práctica del deslinde catastral, no se hubiere expedido éste, el contribuyente interesado podrá presentar tal documento practicado por terceros bajo su responsabilidad.
+
+###### ARTICULO 34.
+
+Los peritos valuadores comisionados por la institución de crédito a fin de valorizar inmuebles o derechos reales, deberán presentar sus dictámenes de avalúo a la Dirección de Catastro del Estado para fines de revisión y aprobación en su caso.
+
+Los peritos están obligados a presentar precisamente anexos al avalúo a que se refiere el párrafo anterior, los siguientes documentos:
+
+A).- Si se trata de predios sin construcción, un plano que exprese superficie, medidas y colindancias.
+
+B).- Si se tratare de predios en los cuales existieran construcciones inconclusas o terminadas, deberán acompañar además plano descriptivo de las mismas.
+
+###### ARTICULO 35.
+
+El notario que al formalizar un negocio traslativo de dominio, lo hiciere sin exigir que el avalúo lleve la aprobación de la Dirección de Catastro del Estado, incurrirá en responsabilidad solidaria con quien resulte responsable de la omisión.
+
+###### ARTICULO 36.
+
+Los avisos deberán presentarse ante la Tesorería Municipal dentro de los 30 días siguientes a la fecha del documento en que haga constar el acto o contrato.
+
+Cuando en los avisos o manifestaciones no se acompañe la documentación requerida las autoridades fiscales concederán un término de quince días para que se corrija la omisión que se contará a partir de la fecha en que los interesados reciban el requerimiento.
+
+Si transcurrido dicho término no se presenta la documentación requerida, se tendrá por no presentadas dichas manifestaciones o avisos, sin perjuicio de imponer al infractor las sanciones que procedan.
+
+###### ARTICULO 37.
+
+Los notarios o quienes hagan sus veces, los registradores y las autoridades competentes, no expedirán testimonio, ni registrarán o darán trámite a actos o contratos en que intervengan o documentos que se les presenten, si no se les comprueba el pago de este impuesto.
+
+En todo caso, el margen de la matriz y en los testimonios deberán (sic) asentarse la constancia de pago o la de que éste no se causa.
+
+#### SECCION NOVENA. De las Exenciones
+
+###### ARTICULO 38.
+
+Se exceptúan del pago de este impuesto:
+
+I.- Las adquisiciones de bienes que hagan la Federación, el Distrito Federal, los Estados o los Municipios para formar parte del dominio público; y
+
+II.- Las adquisiciones de inmuebles que realicen las asociaciones religiosas constituidas en los términos de la Ley de la materia, siempre y cuando la adquisición se realice antes del 31 de diciembre de 1994.
+
+### CAPITULO III. Del Impuesto sobre Incremento de Valor y Mejora Específica de la Propiedad
+
+###### ARTICULO 39.
+
+Es objeto de este impuesto el incremento del valor y mejoría de la propiedad inmobiliaria, por obras de mejoramiento.
+
+#### SECCION SEGUNDA. De los Sujetos
+
+###### ARTICULO 40.
+
+Son sujetos de este impuesto los propietarios o poseedores de los predios o construcciones beneficiados en la ejecución de las obras de mejoramiento realizadas por el Municipio.
+
+#### SECCION TERCERA. De las Exenciones
+
+###### ARTICULO 41.
+
+Quedan exceptuados del pago de este impuesto, las dependencias de la Federación, del Estado y los Municipios.
+
+#### SECCION CUARTA. De la Base
+
+###### ARTICULO 42.
+
+Es base de este impuesto el valor del beneficio obtenido en proporción a la obra realizada, determinado de conformidad con la Ley de la materia.
+
+#### SECCION QUINTA. Del Pago
+
+###### ARTICULO 43.
+
+Este impuesto se causará y pagará de conformidad con lo que al efecto señale la Ley de Ingresos del Municipio.
+
+### CAPITULO IV. Del Impuesto sobre Diversiones y Espectáculos Públicos
+
+#### SECCION PRIMERA. Del Objeto
+
+###### ARTICULO 44.
+
+Es objeto de este impuesto la explotación de:
+
+I.- Diversiones:
+
+A).- Aparatos electromecánicos no musicales.
+
+B).- Aparatos para marcar el peso que funcionen a base de moneda.
+
+C).- Aparatos fonoelectromecánicos.
+
+D).- Látigo, montaña rusa, ola giratoria y casa de cristal.
+
+E).- Caballitos, volantines, rueda de la fortuna, tiro sport, aparato de la risa y aparato de fuerza mandárrea (sic).
+
+II.- Espectáculos:
+
+A).- Cines, circos, comedias, dramas, revistas, variedades, conciertos, conferencias, exhibiciones, charreadas, jaripeos, quermeses y bailes.
+
+B).- Box, lucha libre, béisbol, básquetbol, fútbol, carreras de automóviles, bicicletas y deportes similares.
+
+C).- Becerradas y corridas bufas.
+
+D).- Novilladas y corridas formales.
+
+E).- Acróbatas e ilusionistas.
+
+F).- Exhibición de animales, fantoches, títeres y enanos.
+
+G).- Carpas de óptica, títeres y animales.
+
+H).- Revistas y variedades.
+
+I).- Propaganda con equipo de sonido.
+
+#### SECCION SEGUNDA. De los Sujetos
+
+###### ARTICULO 45.
+
+Son sujetos de este impuesto las personas físicas o morales que realicen cualquier actividad enumerada en el artículo anterior.
+
+#### SECCION TERCERA. De la Responsabilidad Solidaria
+
+###### ARTICULO 46.
+
+Responden solidariamente del pago del impuesto:
+
+I.- Los propietarios o poseedores de establecimientos en los que permanente y ocasionalmente, por cualquier acto o contrato se autorice a personas sujetas de este impuesto para que exploten diversiones y espectáculos públicos, a menos que den aviso de la celebración del contrato; y
+
+II.- Los funcionarios que tengan a su cargo el otorgamiento de permisos o licencias para la celebración de diversiones, si no dan aviso a que se refiere el Artículo 53 de esta Ley.
+
+#### SECCION CUARTA. De la Base
+
+###### ARTICULO 47.
+
+Es base para el pago de este impuesto el aparato instalado o el monto total de los ingresos obtenidos.
+
+#### SECCION QUINTA. Del Pago
+
+###### ARTICULO 48.
+
+Este impuesto se liquidará de conformidad con las tasas o cuotas que al efecto señale la Ley de Ingresos del Municipio.
+
+En caso de que en una misma función se presenten dos o más espectáculos, el impuesto se causará con la cuota más alta.
+
+###### ARTICULO 49.
+
+El pago de este impuesto deberá realizarse en la Tesorería Municipal, dentro de los siguientes plazos:
+
+I.- Cuando la explotación de diversiones y espectáculos públicos se realice permanentemente en establecimientos fijos, dentro de los primeros veinte días del mes siguiente al en que se hubiesen percibido los ingresos objeto del gravamen, presentado al efecto una declaración de los ingresos obtenidos en las formas aprobadas; y
+
+II.- Cuando se trate de contribuyentes eventuales, al terminar cada función liquidando el impuesto por conducto del interventor que al efecto designe la Tesorería Municipal.
+
+En el caso del párrafo anterior, la Tesorería Municipal podrá autorizar al contribuyente de que se trate, para enterar el impuesto causado ante la Tesorería Municipal, al siguiente día hábil de aquél en que se celebre la función o funciones.
+
+Cuando por cualquier circunstancia el interventor designado no ocurra a formular la liquidación y en su caso recaudar el impuesto, el contribuyente se encuentra obligado a ejecutar el pago del mismo, el siguiente día hábil a aquél en que ocurra la función o funciones.
+
+#### SECCION SEXTA. De las Obligaciones de los Contribuyentes
+
+###### ARTICULO 50.
+
+Los contribuyentes de este impuesto tienen, además las siguientes obligaciones:
+
+I.- Si la explotación se realiza en forma eventual, o si se realiza permanentemente pero no se cuenta con establecimiento fijo:
+
+A).- Presentar un informe ante la Tesorería Municipal, que indique el período durante el cual se realizará la diversión, a más tardar el día anterior a aquel en que se inicie.
+
+B).- Otorgar garantía a satisfacción de la Tesorería Municipal en alguna de las formas previstas en el Código Fiscal del Estado, que no será inferior al impuesto correspondiente a un día de actividades ni superior al que pudiera corresponder a tres días, previamente a la iniciación de actividades.
+
+C).- Dar el aviso correspondiente en los casos de ampliación del período de explotación, ante la Tesorería Municipal, a más tardar el último día que comprenda el aviso cuya vigencia se vaya a ampliar.
+
+II.- Presentar ante la Tesorería Municipal, para su resello, el boletaje y el programa que corresponda a cada función, cuando menos un día antes de que se verifiquen los espectáculos;
+
+III.- No vender boletos en tanto no estén resellados por las autoridades fiscales;
+
+IV.- Permitir a los interventores que designe la Tesorería Municipal, la verificación y determinación del pago del impuesto, dándoles las facilidades que requieran para su cumplimiento; y
+
+V.- En general adoptar las medidas de control que para la correcta determinación de este impuesto establezca la Tesorería Municipal.
+
+###### ARTICULO 51.
+
+Cuando los sujetos de este impuesto, obligados a otorgar garantía de acuerdo con lo dispuesto en la fracción I, inciso b) del artículo anterior, no hubieran cumplido con tal obligación, la Tesorería Municipal podrá suspender el espectáculo hasta en tanto no se garantice el pago del impuesto, para lo cual el interventor que se designe solicitará el auxilio de la fuerza pública.
+
+###### ARTICULO 52.
+
+Este impuesto en ningún caso deberá ser repercutido al espectador.
+
+###### ARTICULO 53.
+
+Las autoridades competentes, al otorgar permisos para la explotación de espectáculos, deberán dar aviso a la Tesorería Municipal de las autorizaciones que se otorguen, a más tardar el día anterior al en que se vaya a realizar o a principiar la explotación del espectáculo.
+
+###### ARTICULO 54.
+
+Quedan preferentemente afectos al pago de este impuesto:
+
+I.- Los bienes inmuebles en que se exploten espectáculos o diversiones públicas cuando sean propiedad del contribuyente sujeto al gravamen; y
+
+II.- El equipo y las instalaciones que se utilicen en la diversión o espectáculo.
+
+### CAPITULO V. Del Impuesto sobre Juegos Permitidos
+
+#### SECCION PRIMERA. Del Objeto
+
+###### ARTICULO 55.
+
+Es objeto de este impuesto:
+
+I.- La explotación comercial de los juegos de salón tales como billares, dominó y otros juegos distintos de los enumerados y no prohibidos; y
+
+II.- La celebración de sorteos, rifas y loterías.
+
+#### SECCION SEGUNDA. Del Sujeto
+
+###### ARTICULO 56.
+
+Son sujetos de este impuesto, las personas físicas o morales que realicen cualquier actividad enumerada en el artículo anterior.
+
+#### SECCION TERCERA. De la Responsabilidad Solidaria
+
+###### ARTICULO 57.
+
+Los propietarios de los inmuebles donde se autorice la explotación de juegos permitidos, son solidariamente responsables de los créditos fiscales que cause dicha explotación, por lo que deberán exigir a los empresarios que exhiban la autorización municipal y en su caso el comprobante de garantía que el Tesorero Municipal les expida cuando lo estime conveniente.
+
+#### SECCION CUARTA. De la Base
+
+###### ARTICULO 58.
+
+Este impuesto se causará y pagará conforme a las bases señaladas en la Ley de Ingresos Municipal.
+
+#### SECCION QUINTA. Del Pago
+
+###### ARTICULO 59.
+
+Los impuestos a que se refiere el Artículo 55 fracción II se pagarán en la Tesorería Municipal, cuando menos cinco días antes de la fecha en que deba celebrarse el sorteo, rifa o lotería.
+
+En el caso de que celebrada la actividad gravada, no se haya cubierto el crédito fiscal en los términos de este artículo, el Tesorero Municipal podrá ordenar la retención de los permisos, declarándolos como garantía del pago del crédito fiscal, sin perjuicio de que se aplique el procedimiento económico coactivo.
+
+###### ARTICULO 60.
+
+Los impuestos a que se refiere la fracción I del Artículo 55 de esta Ley, deberán liquidarlos por adelantado dentro de los primeros cinco días de cada mes, si su actividad estuviera autorizada con carácter de permanente, Si se trata de actividades eventuales o por un término menor de 30 días, deberá pagarse por adelantado en proporción a la cuota que corresponda pagar, la que en ningún caso será inferior al de treinta días.
+
+### CAPITULO VI. Del Impuesto sobre Ornato
+
+#### SECCION PRIMERA. Del Objeto
+
+###### ARTICULO 61.
+
+Son objeto de este impuesto, los escombros, materiales de construcción y demás obstáculos en la vía pública.
+
+#### SECCION SEGUNDA. Del Sujeto
+
+###### ARTICULO 62.
+
+Son sujetos de este impuesto las personas físicas o morales que obstruyan las vías públicas con escombros, materiales de construcción o demás obstáculos.
+
+#### SECCION TERCERA. De las Exenciones
+
+###### ARTICULO 63.
+
+Quedan exentos de pago del impuesto las dependencias de la Federación, del Estado y de los Municipios, cuando se trate de obras de beneficio común.
+
+#### SECCION CUARTA. De la Base
+
+###### ARTICULO 64.
+
+Este impuesto se causará y pagará conforme a las bases señaladas en la Ley de Ingresos Municipal.
+
+#### SECCION QUINTA. Del Pago
+
+###### ARTICULO 65.
+
+Este impuesto se causará y pagará de conformidad con lo que al efecto señale la Ley de Ingresos Municipal.
+
+## TITULO SEGUNDO. DE LOS DERECHOS
+
+#### SECCION UNICA
+
+###### ARTICULO 66.
+
+Los derechos por la prestación de servicios públicos que presten las diversas dependencias municipales, se causarán en el momento que el particular reciba la prestación del servicio o en el momento en que se provoque por parte del Municipio, el gasto que deba ser remunerado por aquél, salvo el caso que la disposición que fije el Derecho señale cosa distinta.
+
+###### ARTICULO 67.
+
+El importe de las tasas que para cada derecho señala la Ley de Ingresos Municipal, deberá ser cubierto en la Tesorería Municipal.
+
+###### ARTICULO 68.
+
+La dependencia, funcionario o empleado que preste el servicio por el cual se paguen los derechos, procederá a la realización del mismo, al presentarle el interesado el recibo que acredite su pago ante la Tesorería Municipal.
+
+###### ARTICULO 69.
+
+El funcionario o empleado público que preste algún servicio por el que se cause un derecho en contravención a lo dispuesto en los artículos anteriores, será solidariamente responsable de su pago, sin perjuicio de las sanciones que procedan y destitución de su cargo sin responsabilidad para el Municipio.
+
+###### ARTICULO 70.
+
+En caso de discrepancia acerca de la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio o del desarrollo de una actividad, la consignación del importe fijado por el órgano recaudador en los términos establecidos por las leyes fiscales, dará lugar a la prestación de dicho servicio, o al desarrollo de la actividad.
+
+###### ARTICULO 71.
+
+Son sujetos de este derecho las personas físicas o morales, que cuenten con la toma de agua autorizada de acuerdo a la Ley de Ingresos del Municipio. Son sujetos también quien no teniendo toma de agua, obtengan este líquido a través de alguna derivación de otro predio y las personas que viviendo en forma independiente en un mismo predio, se surtan de la misma toma o de la misma derivación, pagarán su cuota fija correspondiente en la Tesorería Municipal.
+
+## TITULO TERCERO. DE LOS PRODUCTOS
+
+#### SECCION UNICA
+
+###### ARTICULO 72.
+
+Quedan comprendidos dentro de esta clasificación los ingresos que obtiene el Fisco Municipal por concepto de:
+
+I.- Venta, explotación y arrendamiento de bienes del Municipio de acuerdo con los convenios o contratos que se celebren en cada caso; y
+
+II.- Productos no especificados.
+
+###### ARTICULO 73.
+
+Para la percepción de estos ingresos se estará a lo dispuesto, según el caso, en la Ley de Ingresos del Municipio, en los contratos o concesiones respectivos, o en las escrituras constitutivas o decretos que den nacimiento a os establecimientos o empresas del Municipio, y en defecto de ellos en las disposiciones legales que les sean aplicables.
+
+## TITULO CUARTO. DE LOS APROVECHAMIENTOS
+
+#### SECCION UNICA
+
+###### ARTICULO 74.
+
+Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Municipio, por concepto de:
+
+I.- Pie mostrenco;
+
+II.- Rezagos;
+
+III.- Por gastos de ejecución;
+
+IV.- Recargos;
+
+V.- Garantías;
+
+VI.- Multas;
+
+VII.- Donaciones;
+
+VIII.- Aprovechamientos no especificados.
+
+## TITULO QUINTO. PARTICIPACIONES
+
+#### SECCION UNICA
+
+###### ARTICULO 75.
+
+Lo constituyen los ingresos provenientes de:
+
+I.- Participaciones Federales al Municipio;
+
+II.- Participaciones Estatales al Municipio;
+
+III.- Otras participaciones.
+
+## TITULO SEXTO. INGRESOS EXTRAORDINARIOS
+
+#### SECCION UNICA
+
+###### ARTICULO 76.
+
+Son ingresos extraordinarios aquéllos que la Hacienda Pública Municipal percibe, cuando circunstancias especiales coloquen al propio Municipio frente a necesidades imprevistas que lo obliguen a efectuar erogaciones no presupuestadas.
+
+###### ARTICULO 77.
+
+Los ingresos a que se refiere el artículo anterior, serán los siguientes:
+
+I.- Empréstitos;
+
+II.- Impuestos extraordinarios;
+
+III.- Derechos extraordinarios;
+
+IV.- Expropiaciones.
+
+## TITULO SEPTIMO. DE OTROS INGRESOS
+
+#### SECCION UNICA
+
+###### ARTICULO 78.
+
+Lo constituyen los ingresos provenientes de:
+
+I.- Impuestos, derechos y demás ingresos causados en ejercicios fiscales anteriores, pendientes de liquidación y/o pago.
+
+## TRANSITORIOS
+
+PRIMERO.- La presente Ley de Hacienda se suspenderá en sus efectos en lo que contravenga a la Ley del Impuesto al Valor Agregado y al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y sus Anexos, celebrado entre el Estado de Aguascalientes y la Secretaría de Hacienda y Crédito Público.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Al Ejecutivo para su sanción.
+
+Dado en el salón de sesiones del H. Congreso del Estado, a los trece días del mes de junio de mil novecientos noventa y cuatro.- D.P. Ing. Fernando González Chávez.- D.S., J. Jesús Murillo Adame.- D.S., Humberto Castorena Tulles.- Rúbricas".
+
+Y tenemos el honor de comunicarlo a usted para su conocimiento y efectos legales consiguientes, reiterándole las seguridades de nuestra consideración distinguida.
+
+SUFRAGIO EFECTIVO. NO REELECCION.
+
+DIPUTADO PRESIDENTE,
+
+Ing. Fernando González Chávez.
+
+DIPUTADO SECRETARIO,
+
+Humberto Castorena Tulles.
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Aguascalientes, Ags., 28 de junio de 1994.
+
+Otto G ranados Roldán.
+
+EL SECRETARIO GENERAL DE GOBIERNO,
+
+Lic. Efrén González Cuellar.
