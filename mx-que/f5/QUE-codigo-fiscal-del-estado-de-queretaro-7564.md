@@ -4,7 +4,7 @@ identifier: "QUE-codigo-fiscal-del-estado-de-queretaro-7564"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-31"
-last_updated: "1991-12-31"
+last_updated: "1992-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO FISCAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EL PERIÓDICO OFICIAL: EL 31 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EL PERIÓDICO OFICIAL: EL 31 DE DICIEMBRE DE 1992.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 31 de diciembre de 1987.
 
@@ -1317,7 +1317,13 @@ Las notificaciones practicadas en los términos de los párrafos anteriores, se 
 
 B).- Por edicto que se publique dos veces, de siete en siete días en el Periódico Oficial "La Sombra de Arteaga", del Gobierno del Estado y en uno de los periódicos de mayor circulación, cuando el contribuyente a notificar se le haya declarado ausente por autoridad judicial, se ignore su domicilio en la entidad, se encuentre en el extranjero sin haber dejado representante legal o hubiere fallecido y no se conozca al albacea de la sucesión.
 
-C).- En los demás caos, por medio de oficio o telegrama.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+III.- Por estrados, en los casos que señalen las Leyes Fiscales y éste Código. En este caso, la notificación se hará fijando el documento que se pretende notificar durante cinco días en sitio visible de la oficina que haga la notificación debiendo dejar constancia de este hecho en el expediente respectivo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+A).- En los demás caos, por medio de oficio o telegrama.
 
 ###### ARTICULO 115.
 
@@ -1336,6 +1342,10 @@ B).- Al día siguiente hábil a aquél en que se entregue si lo hiciere un funci
 IV.- Las que se hagan por edictos desde el día siguiente hábil al de la última publicación.
 
 V.- A partir de la fecha en que el interesado o su representante se manifiesten conocedores de la resolución o acuerdo respectivo, si lo hacen con anterioridad a la fecha en que la notificación debe surtir efectos, de acuerdo con las fracciones anteriores.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VI.- Las que se practiquen por estrados, a partir del sexto día hábil siguiente a aquel en que se hubiere fijado la notificación.
 
 ###### ARTICULO 116.
 
@@ -2000,3 +2010,17 @@ La presente ley entrará en vigor en todo el Estado, el día 1o. de enero de 199
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a la presente.
+
+P.O. 31 DE DICIEMBRE DE 1992
+
+PRIMERO.- Sólo y exclusivamente para el ejercicio fiscal del año de 1993, se concede un estímulo fiscal consistente en una reducción del cincuenta por ciento al monto total del Impuesto de Traslado de Dominio, en favor del primer adquirente de los inmuebles, que acredite: a). Mediante la Licencia de Construcción, que fueron construidos para destinarlos exprofeso a vivienda para arrendamiento; b). Con declaración expresa, bajo protesta decir verdad, que tendrán solamente ese destino; c). Que el inmueble puede clasificarse como vivienda de interés social o popular, entendiéndose por éstos, aquellos cuyos valores totales, no excedan para el primer caso, de quince veces el salario mínimo general vigente elevado al año, y para el segundo, de veinticinco veces el salario mínimo elevado al año.
+
+SEGUNDO.- Sólo y exclusivamente para el ejercicio fiscal del año de 1993, se concede un estímulo fiscal consistente en una reducción del cincuenta por ciento al monto total del Impuesto de Traslado de Dominio, en favor del primer adquirente de inmuebles que puedan clasificarse como vivienda de interés social o popular, entendiéndose por éstos, aquellos cuyos valores totales, no excedan para el primer caso, de quince veces el salario mínimo general vigente elevado al año, y para el segundo, de veinticinco veces el salario mínimo elevado al año.
+
+TERCERO.- En cualquier momento, la autoridad quedará facultada para cerciorarse, por cualquier medio, que se está cumpliendo puntualmente con el destino o valores de los inmuebles, si no fuere así, podrá proceder al cobro de las diferencias sobre el Impuesto, más los recargos y las anexidades en los términos de Ley.
+
+CUARTO.- Durante el primer semestre del año 1993, el plazo al que se refiere la reforma al artículo 107 fracción V de la Ley General de Hacienda de los Municipios del Estado e Querétaro, será de quince días. Durante el segundo semestre de dicho año, será de siete días para los predios urbanos y quince días para los predios rústicos.
+
+QUINTO.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+SEXTO.- Esta Ley comenzará su vigencia a partir del 1º. de enero de 1993.
