@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-415"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-27"
-last_updated: "1994-07-22"
+last_updated: "1998-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=415&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 27 de diciembre de 1983.
 
@@ -1772,7 +1772,9 @@ Por cada miembro propietario de la Junta Directiva, se nombrará un suplente, el
 
 Para ser miembro de la Junta Directiva se requiere:
 
-I. Ser ciudadano mexicano por nacimiento y en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+I. Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II. No estar desempeñando cargo alguno de elección popular; y
 
@@ -1912,7 +1914,9 @@ La Comisión Ejecutiva del Fondo de la Vivienda estará integrada por nueve miem
 
 Los Vocales de la Comisión Ejecutiva no podrán ser miembros de la Junta Directiva. Igualmente será incompatible esta designación con el cargo sindical de Secretario General de la Sección que corresponda al Fondo.
 
-Para ocupar el cargo de vocal se requiere ser mexicano por nacimiento, de reconocida honorabilidad y experiencia técnica y administrativa.
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
+Para ocupar el cargo de vocal se requiere ser mexicano por nacimiento que no adquiera otra nacionalidad, estar en pleno goce y ejercicio de sus derechos civiles y políticos, y ser de reconocida honorabilidad y experiencia técnica y administrativa.
 
 ###### Artículo 167.
 
@@ -2281,3 +2285,7 @@ SEPTIMO.- Dentro de los cuarenta días siguientes a la fecha en que la Junta de 
 OCTAVO.- La Secretaría de Hacienda y Crédito Público dispondrá del término de ciento ochenta días a partir de la vigencia de este decreto, para que en el orden administrativo establezca lo necesario para el funcionamiento de la Comisión Nacional del Sistema de Ahorro para el Retiro debiendo proveer los recursos humanos, materiales y presupuestales que se requieran. El Capítulo V "De la Protección de los Intereses de los Trabajadores Cuentahabientes" de la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro, entrará en vigor a los doscientos setenta días de la entrada en vigor de este decreto.
 
 NOVENO.- El Reglamento Interior de la Comisión, deberá expedirse en un plazo no mayor de ciento ochenta días, contado a partir del día en que quede legalmente instalada la Junta de Gobierno y deberá ser publicado en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE ENERO DE 1998.
+
+ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
