@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-31731"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1997-05-29"
+last_updated: "1998-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1998.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -507,11 +507,11 @@ Las declaraciones del nacimiento, se harán presentando al infante ante el Ofici
 
 Tienen obligación de declarar el nacimiento, los padres del menor o cualquiera de ellos, dentro de los ciento ochenta días siguientes a la fecha en que hubiese ocurrido. A su vez, el Oficial del Registro Civil deberá hacer la inscripción correspondiente.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 14 DE NOVIEMBRE DE 1996)
+(EN SUSPENSO LA VIGENCIA, P.O. 3 DE JULIO DE 1998)
 
 Transcurrido el lapso a que se refiere el párrafo anterior y tratándose de menores hasta de siete años, que acrediten mediante constancia expedida por la autoridad municipal y otros documentos conducentes, ser vecinos del territorio de la jurisdicción Oficial, haber nacido en territorio nacional y no estar registrado, se procederá a su inscripción.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 14 DE NOVIEMBRE DE 1996)
+(EN SUSPENSO LA VIGENCIA, P.O. 3 DE JULIO DE 1998)
 
 Fuera de los supuestos consignados en el párrafo anterior, el registro de nacimiento, se tramitará y ordenará, en la forma en que disponga el Código de Procedimientos Civiles.
 
@@ -865,7 +865,7 @@ VI. El Ministerio Público.
 
 La aclaración de las actas del estado civil de las personas, procede cuando en ellas existan errores macanográficos u ortográficos o de ambas especies que no afecten los datos esenciales de las mismas. Se tramitarán administrativamente ante la Dirección del Registro Civil, quien resolverá de plano, ordenando en su caso la aclaración respectiva que se comunicará lo mismo a la Oficialía correspondiente, como a la Dirección General del Registro Nacional de Población, para que se anoten en sus archivos.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 14 DE NOVIEMBRE DE 1996)
+(EN SUSPENSO LA VIGENCIA, P.O. 3 DE JULIO DE 1998)
 
 ###### ARTÍCULO 133.
 
@@ -15222,3 +15222,13 @@ Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 3 DE JULIO DE 1998
+
+###### ARTICULO PRIMERO.
+
+Las personas mayores de siete años que por sí o a través de sus representantes al entrar en vigor esta Ley, estén tramitando juicio de registro de nacimiento, podrán optar por concluir ese procedimiento judicial o acudir ante el Oficial del Registro Civil respectivo, en los términos de lo dispuesto en este ordenamiento jurídico.
+
+###### ARTICULO SEGUNDO.
+
+Las demás disposiciones que se opongan a la presente ley y pudieran impedir su aplicación respecto de quienes se acojan a ella en los lapsos a que se refiere su artículo primero, quedarán suspendidas en cuanto a su observancia en relación con ellos, durante esos lapsos.
