@@ -4,7 +4,7 @@ identifier: "LSAR"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-23"
-last_updated: "1999-01-18"
+last_updated: "1999-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2613&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSAR"
 
 LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 1999.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de mayo de 1996.
 
@@ -178,7 +178,7 @@ X. Nombrar y remover a los Vicepresidentes, su Secretario y al suplente de éste
 
 XI. Aprobar la estructura y organización de la Comisión, así como el establecimiento o supresión de las Delegaciones de la misma, así como aprobar el proyecto de Reglamento de esta Ley y el proyecto de Reglamento Interior, determinando las atribuciones que correspondan a cada unidad administrativa; y
 
-Xll. Resolver sobre otros asuntos que el Presidente de la Comisión someta a su consideración.
+XII. Resolver sobre otros asuntos que el Presidente de la Comisión someta a su consideración.
 
 Las facultades que le otorga la presente ley a la Junta de Gobierno son indelegables, con excepción de las comprendidas en las fracciones lI, III y VII, que podrán delegarse en el Presidente de la Comisión, mediante acuerdo publicado en el Diario Oficial de la Federación.
 
@@ -534,7 +534,7 @@ En ningún caso, las administradoras podrán cobrar comisiones por entregar los 
 
 Las administradoras tendrán prohibido, salvo lo dispuesto por esta ley:
 
-I. Emitir obligaciones;
+l. Emitir obligaciones;
 
 II. Gravar de cualquier forma su patrimonio;
 
@@ -688,7 +688,7 @@ La elección de administrador por los trabajadores, implica su aceptación expre
 
 Las sociedades de inversión tendrán prohibido lo siguiente:
 
-. Emitir obligaciones;
+I. Emitir obligaciones;
 
 II. Recibir depósitos de dinero;
 
@@ -732,7 +732,7 @@ Los consejos de administración de las administradoras y de las sociedades de in
 
 Para ser consejero independiente o contralor normativo, se deberá cumplir, cuando menos, con los siguientes requisitos:
 
-I. Ser persona de reconocido prestigio en materia financiera, económica, jurídica o de seguridad social y experiencia profesional previa en la materia de cuando menos cinco años;
+l. Ser persona de reconocido prestigio en materia financiera, económica, jurídica o de seguridad social y experiencia profesional previa en la materia de cuando menos cinco años;
 
 II. Acreditar ante la Comisión solvencia moral, así como capacidad técnica y administrativa;
 
@@ -908,7 +908,7 @@ XI. El cambio de la nacionalidad del concesionario;
 
 XII. Ceder, hipotecar, gravar, transferir o enajenar las concesiones o los derechos en ellas conferidos, así como a otros particulares, nacionales o extranjeros;
 
-XIII. Suspender, en forma total, la prestación de los servicios sin autorización de la Secretaría de Hacienda y Crédito Público, salvo en caso fortuito o de fuerza mayor;
+XIlI. Suspender, en forma total, la prestación de los servicios sin autorización de la Secretaría de Hacienda y Crédito Público, salvo en caso fortuito o de fuerza mayor;
 
 XIV. Prestar servicios distintos a los señalados en la concesión respectiva;
 
@@ -1142,7 +1142,7 @@ XI. Determinar los días en que las sociedades de inversión y las administrador
 
 XII. Vigilar el debido cumplimiento de lo establecido por cada sociedad de inversión en sus prospectos de información a los trabajadores; y
 
-XIII. Ejercer las demás facultades que, en materia de supervisión, se atribuyen a la Comisión en la presente ley.
+XIII. Ejercer las demás facultades que, en materia de supervisión, se atribuyen a la misión en la presente ley.
 
 ###### ARTICULO 91.
 
@@ -1322,43 +1322,83 @@ En el caso de que se confirme la resolución recurrida, la multa impuesta se act
 
 ### CAPITULO VII. De los Delitos
 
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 103.
 
-Serán sancionadas con prisión de dos a diez años y multa de doscientos a doce mil días de salario, las personas que sin estar autorizadas o gozar de concesión para operar como administradoras, sociedades de inversión o empresas operadoras, realicen actos de los reservados a éstas por la presente ley.
+Serán sancionados con prisión de tres a quince años y multa de doscientos a doce mil días de salario, las personas físicas o consejeros, administradores o funcionarios de personas morales que sin estar autorizados a gozar de concesión para operar como administradoras, sociedades de inversión o empresas operadoras, realicen actos de los reservados a éstas por la presente ley.
+
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 104.
 
-Serán sancionados con prisión de dos a diez años y multa de cinco mil a veinte mil días de salario, los empleados y funcionarios de las instituciones de crédito que participen en la operación de los sistemas de ahorro para el retiro, así como los miembros del consejo de administración y las personas que desempeñen funciones directivas, empleos, cargos o comisiones en administradoras, sociedades de inversión o empresas operadoras, que intencionalmente dispongan u ordenen la disposición de los fondos, valores o documentos que manejen de los trabajadores con motivo de su objeto, aplicándolos a fines distintos de los contratados, y a los establecidos en la ley.
+Serán sancionados con prisión de tres a quince años y multa de cinco mil a veinte mil días de salario, los empleados y funcionarios de las instituciones de crédito, que participen en la operación de los sistemas de ahorro para el retiro, así como los miembros del consejo de administración y las personas que desempeñen funciones directivas, empleos, cargos o comisiones en administradoras, sociedades de inversión o empresas operadoras, que intencionalmente dispongan u ordenen la disposición de los fondos, valores o documentos que manejen de los trabajadores con motivo de su objeto, aplicándolos a fines distintos de los contratados, y a los establecidos en la ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 105.
 
-Serán sancionados con prisión de dos a diez años y multa de dos mil a veinte mil días de salario, los miembros del consejo de administración, directivos, empleados, apoderados para celebrar operaciones con el público, comisarios o auditores externos de administradoras, sociedades de inversión o empresas operadoras:
+Serán sancionados con prisión de dos a quince años y multa de dos mil a veinte mil días de salario, los miembros del consejo de administración, directivos, funcionarios, empleados, apoderados para celebrar operaciones con el público, comisarios o auditores externos de administradoras, sociedades de inversión o empresas operadoras:
 
 I. Que dolosamente omitan registrar las operaciones efectuadas por la administradora, sociedad de inversión o empresa operadora de que se trate, o que falsifiquen, simulen, alteren o permitan que se alteren los registros para ocultar la verdadera naturaleza de las operaciones realizadas, afectando la composición de activos, pasivos, cuentas de orden o resultados; y
 
 II. Que intencionalmente inscriban u ordenen que se inscriban datos falsos en la contabilidad de la sociedad de que se trate, o que proporcionen o permitan que se incluyan datos falsos en los documentos o informes que deban proporcionar a la Comisión o que ésta les requiera.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 106.
 
-Serán sancionados con prisión de seis meses a cinco años y multa de dos a tres veces el beneficio obtenido o la pérdida evitada, los miembros del consejo de administración, las personas que desempeñen funciones directivas, empleos, cargos o comisiones en las administradoras o sociedades de inversión:
+Serán sancionados con prisión de tres a quince años y multa de dos a tres veces el beneficio obtenido o la pérdida evitada, los miembros del consejo de administración, las personas que desempeñen funciones directivas, empleos, cargos o comisiones en las administraciones o sociedades de inversión:
 
 I. Que a sabiendas, en prospectos de información al público o por cualquier otra vía, mediante difusión de información falsa relativa a una sociedad emisora, obtengan un lucro indebido o que se evite una pérdida, directamente o por interpósita persona, a través de la adquisición y/o enajenación de los valores, títulos de crédito o documentos emitidos por la propia sociedad; y
 
-Il. Que mediante el uso indebido de información privilegiada, proveniente de una sociedad emisora, obtengan un lucro indebido o se eviten una pérdida, directamente o por interpósita persona, a través de la adquisición y/o enajenación de los valores, títulos de crédito o documentos emitidos por la propia sociedad, siempre que se produzca una variación igual o mayor al diez por ciento entre los precios de compra o de venta de las operaciones efectuadas, antes de que la información privilegiada sea hecha del conocimiento del público, y el precio de mercado de los valores, títulos de crédito o documentos emitidos por la sociedad de que se trate.
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+II. Que mediante el uso indebido de información privilegiada proveniente de una sociedad emisora, obtengan un lucro indebido o se eviten una pérdida, directamente o por interpósita persona, a través de la adquisición y/o enajenación de los valores, títulos de crédito o documentos emitidos por la propia sociedad, antes de que la información privilegiada sea hecha del conocimiento del público con respecto al precio de mercado de los valores, títulos de crédito o documentos emitidos por la sociedad de que se trate.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 107.
 
-Serán sancionados con prisión de tres a seis años los miembros de la Junta de Gobierno y del Comité Consultivo y de Vigilancia, que revelen información confidencial a la que tengan acceso en razón de su cargo.
+Serán sancionados con prisión de tres a nueve años los miembros de la junta de gobierno y del comité consultivo de vigilancia, que revelen información confidencial a la que tengan acceso en razón de su cargo.
 
-En el caso de que por la comisión del delito se obtenga un lucro indebido, directamente, por interpósita persona o a favor de un tercero, el responsable será sancionado con prisión de cinco a nueve años.
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+En caso de que por la comisión del delito se obtenga un lucro indebido, directamente, por interpósita persona o a favor de un tercero, el responsable será sancionado con prisión de cinco a quince años.
 
 A los miembros de la Junta de Gobierno y del Comité Consultivo y de Vigilancia, que tengan el carácter de servidor público, les serán aplicables las penas previstas en el presente artículo aumentadas en un cincuenta por ciento.
 
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+ARTICULO 107 bis.- Serán sancionados los servidores públicos de la Comisión Nacional del Sistema de Ahorro para el Retiro, con la pena establecida para los delitos correspondientes más una mitad, según se trate de los delitos previstos en los artículos 103 a 107 de esta ley, cuando:
+
+a) Oculten al conocimiento de sus superiores hechos que probablemente puedan constituir delito;
+
+b) Permitan que los funcionarios o empleados de las instituciones reguladas por esta ley, alteren o modifiquen registros con el propósito de ocultar hechos que probablemente puedan constituir delito;
+
+c) Obtengan o pretendan obtener un beneficio a cambio de abstenerse de informar a sus superiores hechos que probablemente puedan constituir delito;
+
+d) Ordenen o inciten a sus inferiores a alterar informes con el fin de ocultar hechos que probablemente puedan constituir delito, o
+
+e) Incite u ordene no presentar la petición correspondiente, a quien esté facultado para ello.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+ARTICULO 107 bis 1.- Se sancionará con prisión de tres a quince años al miembro del consejo de administración, funcionario o empleado de las instituciones reguladas por esta ley, que por sí o por interpósita persona, dé u ofrezca dinero o cualquier otra cosa a un servidor público de la Comisión Nacional del Sistema de Ahorro para el Retiro, para que haga u omita un determinado acto relacionado con sus funciones.
+
+Igual sanción se impondrá al servidor público de la Comisión Nacional del Sistema de Ahorro para el Retiro, que por sí o por interpósita persona solicite para sí o para otro, dinero o cualquier otra cosa, para hacer o dejar de hacer algún acto relacionado con sus funciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 108.
 
-Los delitos previstos en este capítulo solamente se perseguirán a petición de la Secretaría de Hacienda y Crédito Público, previa opinión de la Comisión. Cuando se presuma la existencia de algún delito, el Presidente de la Comisión deberá informar de inmediato a la Procuraduría Fiscal de la Federación.
+Los delitos previstos en esta ley se perseguirán a petición de la Secretaría de Hacienda y Crédito Público, previa opinión de la Comisión Nacional del Sistema de Ahorro para el Retiro, por las instituciones ofendidas reguladas por esta ley, o de quien tenga interés jurídico. Cuando se presuma la existencia de algún delito, el Presidente de la Comisión deberá informar de inmediato a la Procuraduría Fiscal de la Federación.
 
 Lo dispuesto en el presente capítulo, no excluye la imposición de las sanciones que conforme a otras leyes fueren aplicables, así como la reparación del daño que se hubiere causado.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+ARTICULO 108 bis.- La acción penal en los delitos previstos en esta ley, perseguibles por petición de la Secretaría de Hacienda y Crédito Público, por las instituciones ofendidas reguladas por esta ley, o de quien tenga interés jurídico, prescribirá en tres años contados a partir del día en que la Secretaría o las instituciones, tengan conocimiento del delito y del delincuente, y si no tienen ese conocimiento, en cinco años que se computarán a partir de la fecha de la comisión del delito. En los demás casos, se estará a las reglas del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
 
 ### CAPITULO VIlI. Del Procedimiento de Conciliación y Arbitraje
 
@@ -1539,3 +1579,9 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO.- La presente Ley entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan los artículos 119 y 120 de la Ley de Instituciones de Crédito; 102 y 103 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 87 y 88 de la Ley del Mercado de Valores; 45 de la Ley de Sociedades de Inversión; la fracción XI del artículo 108 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros; la fracción XII del artículo 5o., 109 y 110 de la Ley de los Sistemas de Ahorro para el Retiro, y la fracción X del artículo 4o. de la Ley de la Comisión Nacional Bancaria y de Valores, así como las demás disposiciones que se opongan a la presente Ley.
+
+D.O.F. 17 DE MAYO DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
