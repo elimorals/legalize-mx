@@ -4,7 +4,7 @@ identifier: "COA-ley-del-patrimonio-cultural-del-estado-de-coahuila-de-3731"
 country: "mx"
 rank: "ley"
 publication_date: "1989-04-14"
-last_updated: "1989-04-14"
+last_updated: "1996-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 14 de abril de 1989.
 
@@ -45,6 +45,20 @@ Esta Ley regirá todo lo relativo al patrimonio cultural del Estado de Coahuila.
 
 Constituye el objeto de esta Ley, la protección, conservación, restauración, recuperación y enriquecimiento del patrimonio cultural de la Entidad.
 
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 1996)</small>
+
+ARTICULO 2° BIS.- Para los efectos de esta ley, se entenderá por:
+
+I.- Conservación: la acción de preservar el buen estado de los bienes muebles e inmuebles del patrimonio cultural del Estado;
+
+II.- La(s) Dirección(es): la(s) Dirección(es) de Desarrollo Urbano Municipal(es) o su(s) equivalente(s);
+
+III.- La(s) Junta(s): La(s) Junta(s) de Protección y Conservación del Patrimonio Cultural del Estado;
+
+IV.- Recuperación: el conjunto de acciones tendientes a rescatar el estilo original de un inmueble del patrimonio cultural del Estado; y
+
+V.- Restauración: el conjunto de operaciones tendientes a reparar un bien cultural o mantener un sitio o monumento histórico o artístico en estado de servicio, conforme a sus características históricas, constructivas y estéticas.
+
 ###### ARTICULO 3o.
 
 El patrimonio cultural del Estado está constituido por bienes históricos y artísticos, por zonas protegidas y valores culturales.
@@ -53,29 +67,43 @@ El patrimonio cultural del Estado está constituido por bienes históricos y art
 
 Para los efectos del artículo anterior se entiende por:
 
-I.- Bienes históricos: Todos los bienes muebles e inmuebles que se encuentran vinculados a la historia social, política, económica, cultural y religiosa del Estado, o que hayan adquirido con el tiempo valor cultural, así como aquellos relacionados con la vida de un personaje de la historia del Estado.
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 1996)</small>
 
-II.- Bienes artístico (sic). Los muebles e inmuebles que posean valores estéticos permanentes, y las obras y archivos literarios y musicales, cuya importancia o valor sean de interés para el arte en el Estado.
+I.- Bienes Históricos: Los bienes muebles e inmuebles que se encuentran vinculados a la historia social, política, económica, cultural y religiosa del Estado que hayan adquirido valor cultural y aquellos relacionados con un hecho o personaje histórico;
 
-III.- Zonas protegidas: Las áreas territoriales que sea interés del Estado proteger jurídicamente por su significado histórico, artístico, típico, pintoresco o de belleza natural, para evitar, detener o reparar el deterioro causado por agentes naturales o por el hombre.
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 1996)</small>
 
-LAS ZONAS PROTEGIDAS SON:
+II.- Bienes Artísticos. Los bienes muebles e inmuebles que posean valores estéticos, que son importantes conservar tales como:
 
-A). Zona histórica: Area que se encuentra vinculada históricamente a la vida social, política, económica o cultural del Estado;
+a). Las obras plásticas o artesanales;
 
-B). Centro Histórico: Area que se limita a espacios urbanos e inmuebles históricos relevantes;
+b). Los archivos y documentos literarios y musicales de interés para el Estado;
 
-C). Zona típica: Las ciudades, villas, pueblos o partes de ellos, que por haber conservado en gran proporción la forma y la unidad de su trazo urbano y edificaciones, reflejan claramente épocas pasadas, costumbres y tradiciones;
+c). Los inmuebles que por su diseño, ornamentación o características constructivas marquen una etapa o estilo en la arquitectura regional;
 
-D). Zonas pintorescas: Las localidades que por las peculiaridades de su trazo, edificaciones, jardines, sus tradiciones, costumbres y otros factores, ofrecen aspectos bellos o agradables; y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 1996)</small>
 
-E). Zona de belleza natural: Los sitios o las regiones que por sus características constituyen por sí mismos conjuntos estéticos o plásticos de atracción para el público.
+III.- Bienes Científicos: Todo documento, expediente, archivo, colección, bibliotecas y en general todo bien inmueble, que tenga relación con la investigación tecnológica y científica;
 
-IV.- Valores culturales: Los elementos ideológicos e intelectuales que tengan interés para el Estado, desde el punto de vista de la tradición, las costumbres, la ciencia, la técnica o cualquier otro, que por sus características deba ser adscrito al patrimonio cultural.
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 1996)</small>
+
+IV.- Zonas Protegidas: Las áreas territoriales que sea interés del Estado proteger jurídicamente por su significado histórico, artístico, típico, pintoresco o de belleza natural, para evitar, detener o reparar el deterioro causado por agentes naturales o por el hombre. También serán consideradas como tales las siguientes:
+
+a). Sitio Histórico: conjunto de inmuebles o espacio urbano o natural que se encuentra vinculado históricamente a la vida social, política, religioso, económica o cultural del Estado;
+
+b). Conjunto Histórico: ciudades, villas, pueblos, centros urbanos, barrios o parte de ellos que por haber conservado en gran proporción la forma, las edificaciones y la unidad de su traza urbana refleja claramente épocas pasadas, costumbres y tradiciones;
+
+c). Zona Típica: localidades que por las peculiaridades de su traza, edificaciones, espacios abiertos, su relación con el entorno natural, además de sus tradiciones y costumbres, ofrecen una imagen agradable y de interés;
+
+d). Zonas de Atracción Natural: sitios y regiones que por sus características naturales, topográficas, hidrológicas, flora y fauna constituyen por sí mismos, conjuntos de atracción pública o de interés científico;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 1996)</small>
+
+V.- Valores Culturales: Los elementos ideológicos e intelectuales que tengan interés para el Estado, desde el punto de vista de la tradición, las costumbres, la ciencia, la técnica o cualquier otro, que por sus características deban ser adscritos al patrimonio cultural.
 
 ###### ARTICULO 5o.
 
-Quedan excluidos del régimen de esta Ley los bienes propiedad de la Nación y los bienes y zonas que hayan sido objeto de una declaratoria por parte del Presidente de la República, en términos de la Ley Federal sobre Monumentos y Zonas Arqueológicos (sic), Artísticos e Históricos.
+Quedan excluidos del régimen de esta Ley los bienes propiedad de la Nación y los bienes y zonas que hayan sido objeto de una declaratoria por parte del Presidente de la República, en términos de la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticos e Históricos.
 
 ###### ARTICULO 6o.
 
@@ -99,15 +127,25 @@ La aplicación de esta Ley corresponde a:
 
 I.- El Gobernador del Estado;
 
-II.- La Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 1996)</small>
 
-III.- La Dirección General de Educación Pública;
+II.- La Secretaría de Gobierno;
 
-IV.- La Dirección General de Planificación, Urbanismo y Obras Públicas;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 1996)</small>
+
+III.- La Secretaría de Educación Pública del Estado;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 1996)</small>
+
+IV.- La Secretaría de Desarrollo Social del Estado;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 1996)</small>
 
 V.- Los Ayuntamientos;
 
-VI.- Las Juntas de Protección y Conservación; y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 1996)</small>
+
+VI.- Las Juntas; y
 
 VII.- Las demás autoridades estatales y municipales en lo que respecta a sus competencias.
 
@@ -117,49 +155,73 @@ Son órganos de apoyo para la aplicación de esta Ley:
 
 I.- Los Patronatos Locales Prodefensa del Patrimonio Cultural;
 
-II.- Los Comités Técnicos de Protección; y
+II.- (DEROGADA, P.O. 23 DE FEBRERO DE 1996)
 
 III.- Los demás a los que las disposiciones jurídicas les den ese carácter.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
+
 ###### ARTICULO 10.
 
-Las autoridades encargadas de la aplicación de esta Ley deberán procurar la asesoría y apoyo profesional de los institutos nacionales y dependencias federales o del estado que por razón de su competencia en la materia, puedan brindarla.
+Las autoridades encargadas de la aplicación de esta ley procurararán (sic) la asesoría y apoyo profesional de los institutos nacionales y dependencias federales o del Estado que por razón de su competencia en la materia, puedan brindarla. Así como la de empresas especializadas en la materia, tanto nacionales como extranjeras.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
 
 ###### ARTICULO 11.
 
-La Secretaría General de Gobierno será la encargada de tramitar los expedientes y de formular los proyectos de decreto que deba dictar el Gobernador en aplicación de esta Ley.
+La Secretaría de Gobierno será la encargada de tramitar los expedientes y formular los proyectos de decreto que deba dictar el Gobernador en aplicación de esta ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 1996)</small>
 
 ###### ARTICULO 12.
 
-El Sector Educativo, las Juntas de Protección y Conservación y los Institutos Culturales de la Entidad, en coordinación con las autoridades estatales y municipales y los particulares, realizarán campañas permanentes para fomentar y difundir el conocimiento, respeto y enriquecimiento del patrimonio cultural.
+El sector educativo, las Juntas y los institutos culturales de la entidad, en coordinación con las autoridades estatales y municipales y los particulares, realizarán campañas permanentes para fomentar y difundir el conocimiento, respeto y enriquecimiento del patrimonio cultural.
 
 Los Ayuntamientos promoverán la formación de asociaciones civiles y juntas vecinales, así como la organización de representantes de los sectores más significativos de la población, como órganos auxiliares para impedir el deterioro o destrucción del patrimonio y promover su enriquecimiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 1996)</small>
+
 ###### ARTICULO 13.
 
-La Dirección General de Educación Pública cuidará de que el pueblo tenga acceso al disfrute de los bienes culturales del Estado que puedan ser objeto de exposiciones o que se encuentren en museos, bibliotecas o cualquier establecimiento público.
+La Secretaría de Educación Pública del Estado cuidará de que la población en general tenga acceso al disfrute de los bienes culturales del Estado que puedan ser objeto de exposiciones o que se encuentren en museos, bibliotecas o cualquier establecimiento público.
 
 Así mismo, instituirá dentro del sistema educativo los cursos que sean necesarios para dar a conocer a las nuevas generaciones los valores culturales y despertar en ellas el amor por dichos valores.
 
 ### CAPITULO III. JUNTAS DE PROTECCION Y CONSERVACION
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
+
 ###### ARTICULO 14.
 
-Las Juntas de Protección y Conservación del Patrimonio Cultural, son organismos de interés público, creados en los Municipios por acuerdo del Gobernador, para la promoción, tramitación y cumplimiento según el caso, de las declaraciones de adscripción de bienes a dicho patrimonio y de zonas protegidas, que deban quedar sujetos al régimen de esta Ley.
+Las Juntas son organismos de interés público, creados en los municipios por acuerdo del Gobernador, para la promoción, tramitación y cumplimiento según el caso, de las declaraciones de adscripción de bienes a dicho patrimonio y de zonas protegidas, que deban quedar sujetos al régimen de esta ley.
 
-Las juntas estarán integradas por tres vocales que serán nombrados por los Ayuntamientos respectivos a propuesta en terna por el titular del Ejecutivo. Uno de ellos, será Presidente.
+Las Juntas estarán integradas por:
 
-Los integrantes de las Juntas deberán ser personas entendidas en urbanismo, arquitectura, arte e historia.
+I.- Un Presidente, que será designado por el Gobernador del Estado a propuesta del Ayuntamiento correspondiente;
+
+II.- Cuando menos, diez vocales quienes representarán a:
+
+a).- Las delegaciones de las dependencias y entidades federales cuya función se relacione con la materia objeto de la presente ley, previa invitación del Gobernador del Estado;
+
+b).- Las dependencias y entidades de la Administración Pública Estatal y Municipal, cuyas atribuciones se relacionen con el objeto materia de esta ley; y
+
+c).- Las organizaciones, Cámaras, colonos y miembros de la comunidad, previa convocatoria del Presidente Municipal respectivo.
+
+Los integrantes de la Junta deberán ser personas cuyo desarrollo personal o profesional les haya permitido tener contacto con alguna de las especialidades de urbanismo, arquitectura, arte o historia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 1996)</small>
 
 ###### ARTICULO 15.
 
-El Gobernador podrá crear Juntas de Protección y Conservación en los Municipios, aún antes de que se inicie un expediente de declaratoria de adscripción o de protección, ya sea de oficio o a petición de parte, pero al emitir una declaratoria de zona protegida siempre deberá designar una Junta que se haga cargo de su ejecución, sin perjuicio de que pueda encomendar a una misma Junta el cumplimiento de dos o más declaratorias.
+El Gobernador podrá crear Juntas en los municipios, aún antes de que se inicie un expediente de declaratoria de adscripción o de protección, ya sea de oficio o a petición de parte, pero al emitir una declaratoria de zona protegida siempre deberá designar una Junta que se haga cargo de su ejecución, sin perjuicio de que pueda encomendar a una misma Junta el cumplimiento de dos o más declaratorias.
 
 Las Juntas deberán residir en la cabecera de su Municipio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 1996)</small>
+
 ###### ARTICULO 16.
 
-Las Juntas de Protección y Conservación que tengan a su cargo el cumplimiento de una declaratoria de adscripción de inmuebles o zona protegida, tendrán las facultades y obligaciones siguientes, con las modalidades que se señalen expresamente en el decreto respectivo y en el Reglamento de la declaratoria que expida el Ayuntamiento con aprobación del Gobernador:
+Las Juntas que tengan a su cargo el cumplimiento de una declaratoria de adscripción de inmuebles o zona protegida, tendrán las facultades siguientes, con las modalidades que se señalen expresamente en el decreto respectivo y en el Reglamento de la declaratoria que expida el Ayuntamiento con aprobación del Congreso:
 
 I.- Dictar las disposiciones necesarias para la protección de la arquitectura en general, y en particular de los edificios, calles, plazas, jardines y elementos de ornato y servicio público, etc., que por su valor artístico o histórico, por su carácter, su tradición o por cualquier otra circunstancia deban conservarse;
 
@@ -171,7 +233,9 @@ IV.- Ordenar la suspensión de las obras que no reúnan las condiciones requerid
 
 V.- Tener conocimiento y emitir opinión en lo referente a las autorizaciones que concedan otras autoridades estatales o municipales para el establecimiento de giros en las zonas declaradas protegidas tales como cantinas, talleres, industrias u otras que puedan lesionarlas;
 
-VI.- Declarar cuando obras en proyecto o realizadas colindantes o vecinas a las zonas protegidas, afecten a éstas negativamente por su cercanía o su ubicación, recabando un peritaje debidamente fundado y motivado del Comité Técnico de Protección;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 1996)</small>
+
+VI.- Declarar cuando obras en proyecto o realizadas colindantes o vecinas a los bienes inmuebles históricos o artísticos y a las zonas protegidas, afecten a éstas negativamente por su cercanía o su ubicación, recabando un peritaje debidamente fundamentado por el personal técnico adscrito a las Juntas;
 
 VII.- Tener conocimiento y emitir opinión acerca de los proyectos que los organismos públicos u otras entidades presenten para la construcción, modificación o demolición de obras de ornato y fachadas de los edificios públicos;
 
@@ -187,29 +251,49 @@ XII.- Las demás que les atribuyan las disposiciones legales.
 
 ###### ARTICULO 17.
 
-Las Juntas tendrán el personal técnico calificado que sean (sic) necesario, para proporcionar ayuda a los propietarios o poseedores de los predios incluidos en la declaratoria de bienes adscritos al patrimonio cultural o dentro de la zona protegida.
+Las Juntas tendrán el personal técnico calificado que sean necesario, para proporcionar ayuda a los propietarios o poseedores de los predios incluidos en la declaratoria de bienes adscritos al patrimonio cultural o dentro de la zona protegida.
 
-El personal técnico de cada Junta estará a cargo de un Director designado por la Junta respectiva.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
+
+La emisión de dictámenes y formulación de proyectos encomendados por la Junta al personal técnico de la misma, serán sobre los siguientes aspectos:
+
+I.- Expedición de declaratorias de adscripción o de zonas protegidas;
+
+II.- La necesidad de remoción total o parcial de monumentos adscritos al patrimonio cultural o que se encuentren en zonas protegidas;
+
+III.- La ejecución de obras o trabajos en los monumentos o zonas a que se refiere la fracción anterior;
+
+IV.- La expropiación, así como la ocupación o aseguramiento temporal, parcial o total o la imposición de alguna modalidad al uso o aprovechamiento de un bien que deba quedar adscrito al patrimonial cultural o que se encuentre en una zona protegida;
+
+V.- La elaboración de normas técnicas en los asuntos de su competencia; y
+
+VI.- Los demás que le encomiende la Junta correspondiente;
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
 
 ###### ARTICULO 18.
 
-Las autoridades estatales y municipales negarán permisos para realizar obras en los bienes adscritos al patrimonio cultural o en los que se encuentren dentro de las zonas protegidas, sin la previa autorización de la Junta correspondiente.
+Para conceder permisos para la realización de obras en los bienes adscritos al patrimonio cultural, las autoridades municipales y estatales, deberán solicitar el dictamen previo expedido por la Junta correspondiente.
 
 ###### ARTICULO 19.
 
 Las Juntas resolverán las inconformidades que se presenten en contra de sus determinaciones.
 
-Las resoluciones de las inconformidades serán revisables a petición de parte, por la Secretaría General de Gobierno.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
+
+Las resoluciones de las inconformidades serán revisables a petición de parte, por la Dirección.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
 
 ###### ARTICULO 20.
 
-Cuando las órdenes de las Juntas no sean acatadas en el término prudente que para el efecto se haya concedido, éstas darán cuenta al Ayuntamiento para que haga cumplir a los renuentes y en su caso aplique las sanciones que correspondan.
+Cuando las órdenes de las Juntas no sean acatadas en el término prudente que para el efecto se haya concedido, éstas darán cuenta a la Dirección para que haga cumplir a los renuentes y en su caso aplique las sanciones que correspondan.
 
 ### CAPITULO IV. PATRONATOS LOCALES DE PROTECCION
 
 ###### ARTICULO 21.
 
-Los Patronatos Pro-Defensa (sic) del Patrimonio Cultural son órganos de apoyo para las autoridades que deban aplicar esta Ley. Su Carácter es honorario y tendrán funciones de promoción, en todo lo relativo a la conservación, protección, restauración, recuperación y enriquecimiento del Patrimonio Cultural del Estado.
+Los Patronatos Pro-Defensa del Patrimonio Cultural son órganos de apoyo para las autoridades que deban aplicar esta Ley. Su Carácter es honorario y tendrán funciones de promoción, en todo lo relativo a la conservación, protección, restauración, recuperación y enriquecimiento del Patrimonio Cultural del Estado.
 
 Los integrantes de los Patronatos serán designados por el Gobernador, como una distinción del Gobierno del Estado, en reconocimiento a sus méritos personales y a su interés en la cultura de la Entidad.
 
@@ -217,27 +301,17 @@ Los integrantes de los Patronatos serán designados por el Gobernador, como una 
 
 Los Patronatos Prodefensa del Patrimonio Cultural se organizarán y funcionarán conforme a los estatutos que formulen sus propios integrantes.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE FEBRERO DE 1996)</small>
+
 ### CAPITULO V. COMITES TECNICOS DE PROTECCION
 
 ###### ARTICULO 23.
 
-Los Comités Técnicos de Protección serán órganos de asesoría de las Juntas de Protección y Conservación de los Patronatos Locales de Protección y deberán emitir los dictámenes y formular los proyectos que aquellos les encomienden sobre:
-
-I.- Expedición de declaratorias de adscripción o de zonas protegidas;
-
-II.- La necesidad de remoción total o parcial de monumentos adscritos al patrimonio cultural o que se encuentren en zona protegida;
-
-III.- La ejecución de obras o trabajos en los monumentos o zonas a que se refiere la fracción anterior;
-
-IV.- La expropiación, ocupación o aseguramiento temporal, parcial o total o la imposición de alguna modalidad al uso o aprovechamiento de un bien que deba quedar adscrito al patrimonio cultural o que se encuentre en una zona protegida;
-
-V.- La elaboración de normas técnicas en los asuntos de competencia; y
-
-VI.- Los demás que le encomienden las disposiciones legales.
+(DEROGADO, P.O. 23 DE FEBRERO DE 1996)
 
 ###### ARTICULO 24.
 
-Podrá haber un Comité Técnico de Protección en cada una de las cabeceras de los Municipios, integrados cuando menos por seis personas designadas por el Gobernador, entendidas en urbanismo, arte, historia, arquitectura y en conservación y restauración de monumentos.
+(DEROGADO, P.O. 23 DE FEBRERO DE 1996)
 
 ### CAPITULO VI. ADSCRIPCION DE BIENES AL PATRIMONIO CULTURAL
 
@@ -255,11 +329,15 @@ Los bienes muebles e inmuebles declarados adscritos al patrimonio cultural, esta
 
 ###### ARTICULO 27.
 
-La adscripción al patrimonio cultural del estado, de un bien propiedad de los organismos públicos descentralizados, de las empresas paraestatales o paramunicipales y de las personas físicas o morales privadas, producirá los siguientes efectos:
+La adscripción al patrimonio cultural del Estado, de un bien propiedad de los organismos públicos descentralizados, de las empresas paraestatales o paramunicipales y de las personas físicas o morales privadas, producirá los siguientes efectos:
 
-I.- Sólo podrá ser gravado u objeto de actos de traslación de dominio, previo aviso por escrito a la Dirección General de Educación Pública del Estado y a la Junta de Protección y Conservación;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 1996)</small>
 
-II.- Sólo podrá ser restaurado, adaptado o modificado, en cualquier forma, previa autorización escrita por la Junta de Protección y Conservación a la que corresponda o en su defecto de la Dirección General de Planificación, Urbanismo y Obras Públicas, quienes la expedirán siempre que se respete su estructura y peculiaridad de su valor histórico, artístico y científico; y
+I.- Sólo podrá ser gravado u objeto de actos de traslación de dominio, previo aviso por escrito a la Secretaría de Educación Pública del Estado, a la Secretaría de Desarrollo Social del Estado y a la Junta que corresponda;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 1996)</small>
+
+II.- Sólo podrá ser restaurado, adaptado o modificado, en cualquier forma, previa autorización escrita por la Junta correspondiente o en su defecto de la Dirección, quienes la expedirán siempre que se respete su estructura y peculiaridad de su valor histórico, artístico y científico; y
 
 III.- Deberá ser inscrito en el registro y catálogo de los bienes adscritos al patrimonio cultural.
 
@@ -275,19 +353,25 @@ El destino o cambio de destino de inmuebles propiedad del Estado adscritos al pa
 
 Los propietarios o poseedores de bienes adscritos al patrimonio cultural están obligados a cubrir los gastos de los trabajos de restauración, conservación y consolidación que ordene la autoridad.
 
-El Estado tomará por su cuenta esos trabajos cuando su propietario esté imposibilitado económicamente y sean inaplazables.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
+
+El municipio tomará por su cuenta esos trabajos cuando su propietario esté imposibilitado económicamente y sean inaplazables.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
 
 ###### ARTICULO 31.
 
-Corresponde a la Junta de Protección y Conservación o en su defecto a la Dirección de Planificación, Urbanismo y Obras Públicas, vigilar y cuidar que la conservación, restauración, adaptación o modificación de un bien adscrito al patrimonio cultural, se ejecute de acuerdo con lo ordenado o autorizado.
+Corresponde a la Junta o, en su defecto, a la Dirección, vigilar y cuidar que la conservación, restauración, adaptación o modificación de un bien adscrito al patrimonio cultural, se ejecute de acuerdo con lo ordenado o autorizado.
 
 ###### ARTICULO 32.
 
 El Titular del Ejecutivo, mediante decreto y previa opinión de la Junta que corresponda, podrá excluir o retirar bienes de la adscripción al patrimonio cultural del Estado, a solicitud de parte o de oficio, cuando hubiere razón fundada para ello.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 1996)</small>
+
 ###### ARTICULO 33.
 
-Cuando en un bien adscrito al patrimonio cultural se ejecuten obras sin autorización o se viole lo ordenado o autorizado, la Junta o en su caso, la Dirección de Planificación, Urbanismo y Obras Públicas, ordenarán su suspensión y la demolición de lo hecho y, si fuere necesario, la restauración o reconstrucción del bien, en los siguientes supuestos:
+Cuando en un bien adscrito al patrimonio cultural se ejecuten obras sin autorización o se viole lo ordenado o autorizado, la Junta o, en su caso, la Dirección ordenarán su suspensión y la demolición de lo hecho y, si fuere necesario, la restauración o reconstrucción del bien, en los siguientes supuestos:
 
 I.- Si la obra realizada modifica o destruye la autenticidad del contenido histórico y artístico; y
 
@@ -303,11 +387,13 @@ En los casos del artículo anterior, serán solidaria y mancomunadamente respons
 
 ### CAPITULO VII. REPRODUCCIONES
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
+
 ###### ARTICULO 35.
 
-La reproducción de bienes adscritos al patrimonio cultural requiere el consentimiento por escrito del propietario y de la dependencia de la Dirección General de Educación Pública del Estado respectiva.
+La reproducción de bienes adscritos al patrimonio cultural requiere el consentimiento por escrito del propietario y de la Secretaría de Educación Pública del Estado.
 
-Toda reproducción deberá llevar inscrita en forma indeleble la siguiente leyenda: "Reproducción autorizada por la Dirección General de Educación Pública del Estado de Coahuila".
+Toda reproducción deberá llevar inscrita en forma indeleble la siguiente leyenda: "Reproducción autorizada por la Secretaría de Educación Pública del Estado de Coahuila".
 
 ###### ARTICULO 36.
 
@@ -321,15 +407,19 @@ Los medios que se empleen en la reproducción serán aquellos que no dañen, des
 
 Las instituciones oficiales tendrán preferencia en la reproducción de bienes culturales.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
+
 ###### ARTICULO 39.
 
-Toda reproducción de bien cultural se hará previo juicio del Comité Técnico de Protección, que decida sobre la conveniencia o inconveniencia de la copia, sobre el valor científico del original y sobre el medio a emplear.
+Toda reproducción de bien cultural se hará previo dictamen del personal técnico de la Junta respectiva, que decida sobre la conveniencia o inconveniencia de la copia, sobre el valor científico del original y sobre el medio a emplear.
 
 ### CAPITULO VIII. INTERCAMBIO
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
+
 ###### ARTICULO 40.
 
-Los bienes que hayan sido motivo de declaratoria de adscripción, solamente podrán salir del territorio del Estado por corto plazo y con fines de intercambio cultural, mediante autorización expresa del Gobernador y previo informe de la Junta de Protección y Conservación apoyado por opinión del Comité Técnico de Protección.
+Los bienes que hayan sido motivo de declaratoria de adscripción, solamente podrán salir del territorio del Estado por corto plazo y con fines de intercambio cultural, mediante autorización expresa del Gobernador del Estado y previo informe de la Junta correspondiente.
 
 ###### ARTICULO 41.
 
@@ -367,11 +457,15 @@ La declaratoria de incorporación de una zona protegida al patrimonio cultural d
 
 Con la salvedad de las atribuciones que expresamente se conceden a las autoridades que deban aplicar esta Ley, respecto de las zonas protegidas, los Municipios conservarán las facultades que les están reservadas en las demás disposiciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 1996)</small>
+
 ###### ARTICULO 47.
 
-En las zonas protegidas a que se refiere esta ley, no podrán levantarse construcciones o instalaciones permanentes o temporales, fijar anuncios o aditamentos o ejecutar obras de cualquier clase, sin previa autorización de la Junta de Protección y Conservación respectiva.
+En las zonas protegidas a que se refiere esta ley, no podrán levantarse construcciones o instalaciones permanentes o temporales, fijar anuncios o aditamentos o ejecutar obras de cualquier clase, sin previa autorización de la Junta respectiva.
 
-Dicha Junta sólo otorgará la autorización, si las obras no afectan el valor artístico, histórico o tradicional de esas zonas; su belleza, la de los conjuntos estéticos o plásticos de atracción al público y siempre que no se impida su adecuada visibilidad.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
+
+Las juntas sólo otorgarán la autorización, si las obras no afectan el valor histórico o tradicional de esas zonas; su belleza, la de los conjuntos estéticos o plásticos de atracción al público y siempre que no se impida su adecuada visibilidad.
 
 Será nula de pleno derecho, la autorización que se conceda en contravención a lo dispuesto en este artículo.
 
@@ -389,15 +483,17 @@ Los propietarios o poseedores de inmuebles ubicados dentro de las zonas protegid
 
 ###### ARTICULO 51.
 
-En las autorizaciones que la Junta conceda para hacer nuevas construcciones o modificar las ya existentes, invariablemente fijará un plazo máximo para la ejecución de las obras, así como las especificaciones y detalles a que habrán de ajustarse las mismas. Si al concluir dicho plazo las obras no hubieren sido terminadas el propietario podrá solicitar una prórroga, misma que será concedida únicamente cuando los trabajos se hayan apegado a las especificaciones y detalles establecidos.
+En las autorizaciones que la Junta conceda para hacer nuevas construcciones o modificar las ya existentes, invariablemente fijará un plazo máximo para la ejecución de las obras, así como las especificaciones y detalles a que habrán de ajustarse las mismas. Si al concluir dicho plazo las obras no hubieren sido terminadas, el propietario podrá solicitar una prórroga, misma que será concedida únicamente cuando los trabajos se hayan apegado a las especificaciones y detalles establecidos.
 
 ###### ARTICULO 52.
 
 No se podrá hacer en los monumentos un uso indecoroso o indigno de su importancia, ni podrán ser utilizados para fines que perjudiquen o menoscaben sus méritos.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
+
 ###### ARTICULO 53.
 
-El acceso a los monumentos y fincas que se encuentren dentro de las zonas protegidas, se permitirá al personal de la Junta, previa identificación y contando con la anuencia del propietario o poseedor.
+Se permitirá el acceso al personal de la Junta, a los monumentos y fincas que se encuentren dentro de las zonas protegidas, previa identificación y contando con la anuencia del propietario o poseedor.
 
 ###### ARTICULO 54.
 
@@ -419,11 +515,13 @@ Las personas físicas o morales, deberán inscribir en el Registro del Patrimoni
 
 La inscripción en los registros se hará de oficio o a petición de parte interesada. Para proceder a la inscripción de oficio, deberá previamente notificarse en forma personal al interesado. En caso de ignorarse su nombre y domicilio, surtirá efectos de notificación personal la publicación de ésta en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
+
 ###### ARTICULO 58.
 
-El interesado podrá oponerse a la inscripción de un bien en los registros y ofrecer pruebas en el término de quince días, contados a partir de la fecha de notificación. La Dirección del Registro Público de la Propiedad recibirá las pruebas y formulará el dictamen correspondiente, dentro de los treinta días siguientes a la oposición.
+El interesado podrá oponerse a la inscripción de un bien en los registros y ofrecer pruebas en el término de quince días, contado a partir de la fecha de notificación. El Registro Público de la Propiedad recibirá las pruebas y formulará el dictamen correspondiente, dentro de los treinta días siguientes a la oposición.
 
-El dictamen de la Dirección será turnado a la Secretaría General de Gobierno, para que dentro del término de treinta días resuelva lo conducente.
+El dictamen del Registro Público de la Propiedad será turnado a la Secretaría de Gobierno, para que dentro del término de treinta días resuelva lo conducente.
 
 ###### ARTICULO 59.
 
@@ -433,27 +531,35 @@ La certificación de autenticidad se expedirá a través del procedimiento que e
 
 ###### ARTICULO 60.
 
-Los actos traslativos de dominio sobre inmuebles adscritos al Patrimonio Cultural, deberán constar en escritura pública. Quien transmita el dominio, deberá manifestar, bajo protesta de decir la verdad, si el bien materia de la operación es bien cultural.
+Los actos traslativos de dominio sobre inmuebles adscritos al Patrimonio Cultural, deberán constar en escritura pública. Quien transmita el dominio, deberá manifestar, bajo protesta de decir verdad, si el bien materia de la operación es bien cultural.
 
-Los notarios públicos mencionarán la declaratoria del bien, si la hubiere, y dará aviso a la Dirección del Registro Público de la operación celebrada en un plazo de treinta días.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
+
+Los notarios públicos mencionarán la declaratoria del bien, si los hubiere, y dará aviso al Registro Público de la Propiedad de la operación celebrada en un plazo de treinta días.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
 
 ###### ARTICULO 61.
 
-Las partes que intervengan en actos traslativos de dominio de bienes muebles adscritos al patrimonio cultural, deberán dar aviso de su celebración, dentro de los treinta días siguientes, a la Dirección del Registro Público de la Propiedad.
+Las partes que intervengan en actos traslativos de dominio de bienes muebles adscritos al patrimonio cultural, deberán dar aviso de su celebración dentro de los treinta días siguientes al Registro Público de la Propiedad.
 
 ###### ARTICULO 62.
 
 Son aplicables en lo conducente a la inscripción de declaratorias de zonas protegidas, las disposiciones de este capítulo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 1996)</small>
+
 ###### ARTICULO 63.
 
-La Dirección General de Educación Pública del Estado o la Junta de Protección y Conservación, correspondiente, en su caso, formularán los inventarios y catálogos de los bienes adscritos al patrimonio cultural o que se encuentren dentro de zona protegida.
+La Secretaría de Educación Pública del Estado y la Junta correspondiente formularán los inventarios o catálogos de los bienes adscritos al patrimonio cultural o que se encuentren dentro de zona protegida.
 
 Para este efecto los encargados de los Registros Públicos de la Propiedad, deben enviarle de inmediato copias de los asientos registrales a que se refiere el artículo 55 de esta Ley.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
+
 ###### ARTICULO 64.
 
-Deberán anexarse a las declaratorias de adscripción de bienes culturales o de zonas protegidas, los inventarios y catálogos, respectivos, de los cuales la Dirección General de Educación Pública llevará un registro.
+Deberán anexarse a las declaratorias de adscripción de bienes culturales o de zonas protegidas los inventarios y catálogos respectivos, de los cuales la Secretaría de Educación Pública del Estado y la Junta respectiva llevarán registro.
 
 ### CAPITULO XI. VALORES CULTURALES
 
@@ -465,23 +571,31 @@ La declaración de bienes culturales se hará mediante decreto del Ejecutivo del
 
 La protección de los valores culturales a que se refiere esta Ley, comprende las acciones de investigar, rescatar, actualizar, preservar y difundir su conocimiento, tanto por las autoridades y órganos de apoyo, como por los particulares interesados.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
+
 ###### ARTICULO 67.
 
-Las acciones a que se refiere el artículo anterior, estarán a cargo de la Dirección General de Educación Pública del Estado, de los órganos de apoyo y de los particulares interesados, y su finalidad será considerar los valores culturales del Estado como factor de integración de sus habitantes y expansión de la propia civilización.
+Las acciones a que se refiere el artículo anterior estarán a cargo de la Secretaría de Educación Pública del Estado, de los órganos de apoyo y de los particulares interesados, y su finalidad será considerar los valores culturales del Estado como factor de integración de sus habitantes y expansión de la propia civilización.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
 
 ###### ARTICULO 68.
 
-La Dirección General de Educación Pública del Estado, elaborará un catálogo que contenga la descripción de las tradiciones, costumbres, trajes típicos o cualquier otra manifestación, que por sus características merezca ser adscrita al Patrimonio Cultural.
+La Secretaría de Educación Pública del Estado elaborará un catálogo que contenga la descripción de las tradiciones, costumbres, trajes típicos o cualquier otra manifestación, que por sus características merezca ser adscrita al patrimonio cultural.
 
 ### CAPITULO XII. SANCIONES
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
+
 ###### ARTICULO 69.
 
-La imposición de sanciones administrativas compete al Ayuntamiento respectivo, con independencia de las que en su caso determine la autoridad judicial.
+La imposición de sanciones administrativas compete al Ayuntamiento, a través de la Dirección respectiva, con independencia de las que en su caso determine la autoridad judicial.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
 
 ###### ARTICULO 70.
 
-Las faltas administrativas se sancionarán con multa de diez a cien días de salario mínimo general vigente en el Estado, sin perjuicio de ordenar que el infractor cumpla con la obligación que es a su cargo conforme a la Ley y su reglamento.
+Las faltas administrativas se sancionarán con multa de cincuenta a mil días de salario mínimo general vigente en el Estado, sin perjuicio de ordenar que el infractor cumpla con las obligaciones que es a su cargo conforme a la ley y su reglamento.
 
 ###### ARTICULO 71.
 
@@ -497,25 +611,33 @@ IV.- El incumplimiento de disposiciones administrativas dadas por autoridades co
 
 V.- Toda contravención a esta Ley y su reglamento, que no esté considerado como delito.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
+
 ###### ARTICULO 72.
 
-Se impondrá prisión de dos a cinco años y multa de diez a cien días de salario mínimo general vigente en el Estado, al que en contra de la prohibición de la Ley o de la autoridad a quien corresponda, dada por escrito y notificada personalmente al interesado, realice u ordene trabajos de construcción de cualquier índole, incluso de restauración, que cause daño en un bien adscrito al Patrimonio Cultural.
+Se impondrá prisión de dos a cinco años y multa de cien a mil días de salario mínimo general vigente en el estado, al que en contra de la prohibición de la ley o de la autoridad a quien corresponda, dada por escrito y notificada personalmente al interesado, realice u ordene trabajos de construcción de cualquier índole, incluso de restauración, que cause daño en un bien adscrito al patrimonio cultural.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
 
 ###### ARTICULO 73.
 
-Se impondrá prisión de uno a siete años y multa de cinco a cincuenta días de salario mínimo general vigente en el Estado, al que exporte o transmita a extranjeros no residentes en el país, bienes adscritos al Patrimonio Cultural del Estado.
+Se impondrá prisión de uno a siete años y multa de cincuenta a quinientos días de salario mínimo general vigente en el Estado, al que exporte o transmita a extranjeros no residentes en el país, bienes adscritos al patrimonio cultural del Estado.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
 
 ###### ARTICULO 74.
 
-Independientemente de las sanciones previstas en el Código Penal, se impondrá prisión de seis meses a seis años y multa de cinco a cincuenta días de salario mínimo general vigente en el Estado, al que destruya un bien adscrito al Patrimonio Cultural.
+Independientemente de las sanciones previstas en el Código Penal, se impondrá prisión de seis meses a seis años y multa de cincuenta a quinientos días de salario mínimo general vigente en el Estado, al que destruya un bien adscrito al patrimonio cultural.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
 
 ###### ARTICULO 75.
 
-Se impondrá prisión de seis meses a seis años y multa de cinco a cincuenta días de salario mínimo general vigente en el Estado, al que se apodere de un bien mueble o inmueble ajeno, inscrito en el Registro o Catálogo de Bienes Adscritos al Patrimonio Cultural, sin perjuicio de las sanciones que les sean aplicables por los delitos que le resulten conforme al Código Penal.
+Se impondrá prisión de seis meses a seis años y multa de cincuenta a quinientos días de salario mínimo general vigente en el Estado, al que se apodere de un bien mueble o inmueble ajeno, inscrito en el registro o catálogo de bienes adscritos al patrimonio cultural, sin perjuicio de las sanciones que les sean aplicables por los delitos que le resulten conforme al Código Penal.
 
 ###### ARTICULO 76.
 
-A los reincidentes en los delitos tipificados en esta Ley se les aumentará la sanción desde dos tercios hasta otro tanto de la duración de la pena. La sanción para quienes resulten delincuentes habituales, se aumentará de uno a dos tantos de la que corresponda al delito mayor.
+A los reincidentes en los delitos tipificados en esta Ley, se les aumentará la sanción desde dos tercios hasta otro tanto de la duración de la pena. La sanción para quienes resulten delincuentes habituales, se aumentará de uno a dos tantos de la que corresponda al delito mayor.
 
 Para resolver sobre la reincidencia y habitualidad se estará a los principios del Código Penal del Estado.
 
@@ -529,19 +651,27 @@ Corresponde a la Procuraduría General de Justicia del Estado, el ejercicio de l
 
 El Ministerio Público podrá ordenar al iniciarse una averiguación previa o durante su substanciación, o solicitarlo al juez del proceso, el aseguramiento de los bienes adscritos al Patrimonio Cultural del Estado, que sean objeto o efecto de los delitos previstos en esta Ley.
 
-Los bienes asegurados se entregarán para su custodia a la Junta de Protección y Conservación, si la hay, o a la Dirección de Planificación Urbanismo y Obras Públicas, en su caso.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
+
+Los bienes asegurados se entregarán para su custodia a la Junta, si la hay, o a la Dirección, en su caso.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
 
 ###### ARTICULO 79.
 
-Cuando un giro se establezca sin contar con la autorización correspondiente, prevista en la presente Ley, la Junta procederá a dar parte a las autoridades competentes, para que obre en consecuencia.
+Cuando un giro se establezca sin contar con la autorización correspondiente, prevista en la presente ley, la Junta procederá a dar parte a la Dirección, para que obre en consecuencia.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
 
 ###### ARTICULO 80.
 
-Todas las sanciones pecuniarias que imponga el Municipio a los infractores de esta Ley por faltas administrativas se fijarán por "cuotas", entendiendo por tales el equivalente a un día de salario mínimo vigente en la Capital del Estado en el momento de la sanción.
+Todas las sanciones pecuniarias que imponga el municipio a los infractores de esta ley por faltas administrativas se fijarán por cuotas, entendiendo por tales el equivalente a diez días de salario mínimo vigente en el Estado en el momento de la sanción.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
 
 ###### ARTICULO 81.
 
-Cuando la sanción prevista por esta Ley consista en la obligación de realizar trabajos de retiro, demolición, restitución o modificación de construcciones, será la propia Junta quien vigile y supervise los mencionados trabajos; en caso de que el infractor no acate la resolución respectiva, será el Municipio quien lo realice a costa de aquél.
+Cuando la sanción prevista por esta ley consista en la obligación de realizar trabajos de retiro, demolición, restitución o modificación de construcciones, será la propia Junta quien vigile y supervise los mencionados trabajos; en caso de que el infractor no acate la resolución respectiva, será la Dirección quien lo realice a costa de aquél.
 
 ###### ARTICULO 82.
 
@@ -565,11 +695,15 @@ Ing. Miguel Angel Faz Escareño. (Rúbrica)
 
 DIPUTADO SECRETARIO:
 
-Profra. y Lic. Ma. Antonieta Navarrete Ramos. (Rúbrica)
+Profra. y Lic. Ma. Antonieta Navarrete Ramos
+
+(Rúbrica)
 
 DIPUTADO SECRETARIO:
 
-Profr. Federico Borjón de los Santos. (Rúbrica)
+Profr. Federico Borjón de los Santos.
+
+(Rúbrica)
 
 IMPRIMASE, COMUNIQUESE Y OBSERVESE
 
@@ -582,3 +716,11 @@ LIC. ELISEO MENDOZA BERRUETO. (Rúbrica)
 EL SECRETARIO DEL EJECUTIVO DEL ESTADO
 
 LIC. JOSE FUENTES GARCIA. (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE FEBRERO DE 1996.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
