@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2003-08-29"
+last_updated: "2003-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2003.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1285,13 +1285,13 @@ Lesiones agravadas por razón del parentesco.- Al que dolosamente lesione a su a
 
 Lesiones calificadas.- Cuando las lesiones sean calificadas, en términos del artículo 147, la pena correspondiente a las lesiones simples se aumentará en dos terceras partes.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1999)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
 ###### Artículo 143
 
-BIS.- Lesiones contra Menores o Incapaces.- Al que dolosamente lesione a una persona menor de edad, incapaz y/o inimputable sujeto a su tutela, custodia, guarda-protección, educación, cuidado o instrucción, se le impondrá una pena de seis meses a dos años de prisión, si las lesiones inferidas son de las que no ponen en peligro la vida, cualquiera que sea el tiempo de su curación.
+BIS.- Lesiones contra menores, incapaces o adultos mayores.- Al que dolosamente lesione a una persona menor de edad, incapaz y/o inimputable sujeto a tutela, custodia, guarda-protección, educación, cuidado o instrucción, se le impondrá una pena de seis meses a dos años de prisión, si las lesiones inferidas son de las que no ponen en peligro la vida, cualquiera que sea el tiempo de su curación.
 
-Si las lesiones inferidas son de las señaladas en el Artículo 139, o de las que ponen en peligro la vida, la pena correspondiente a la lesión inferida aumentará en dos terceras partes, y se privará al agente del derecho de ejercer la patria potestad, la tutela, custodia, guarda-protección, educación, cuidado o instrucción de menores o incapaces y/o inimputables.
+Si las lesiones a que se refiere el párrafo anterior son inferidas a una persona menor de doce años o de sesenta años o más de edad, se impondrá una pena de dos a cinco años de prisión y hasta ciento cincuenta días multa. Si las lesiones inferidas son de las señaladas en el artículo 139, o de las que ponen en peligro la vida, la pena correspondiente a la lesión inferida aumentará en dos terceras partes, y se privará al agente del derecho de ejercer la patria potestad, la tutela, custodia, guarda-protección, educación, cuidado o instrucción de menores, adultos mayores e incapaces y/o inimputables.
 
 ###### Artículo 144.
 
@@ -2679,7 +2679,7 @@ A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a o
 
 ###### Artículo 278.
 
-Tipo y punibilidad.- Se impondrá de tres meses a dos años de prisión y hasta cincuenta días multa, a quienes para hacer uso de un derecho, o pretextando su ejercicio o para evitar el cumplimiento de una Ley, se reúnan tumultuariamente y perturben el orden público con empleo de violencia en las personas o sobre las cosas, o amenacen a la autoridad para intimidarla u obligarla a tomar alguna determinación.
+Tipo y punibilidad.- Se impondrá de tres meses a dos años de prisión y hasta cincuenta días multa, a quienes para hacer uso de un derecho, o pretextando su ejercicio o para evitar el cumplimiento de una Ley, se reunan tumultuariamente y perturben el orden público con empleo de violencia en las personas o sobre las cosas, o amenacen a la autoridad para intimidarla u obligarla a tomar alguna determinación.
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de motín, se les aplicará la sanción de uno a tres años de prisión y hasta cien días multa.
 
@@ -3726,3 +3726,7 @@ UNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su pub
 P.O. 29 DE AGOSTO DE 2003.
 
 UNICO: La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 14 DE NOVIEMBRE DE 2003.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
