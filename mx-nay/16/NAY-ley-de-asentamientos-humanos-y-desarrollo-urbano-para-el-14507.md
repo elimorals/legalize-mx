@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-asentamientos-humanos-y-desarrollo-urbano-para-el-14507"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-19"
-last_updated: "1999-05-19"
+last_updated: "2001-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 2001.
 
 Ley publicada en la Tercera Sección del Periódico Oficial, el miércoles 19 de mayo de 1999.
 
@@ -1025,9 +1025,11 @@ Concluido el proceso de audiencias, la Secretaría elaborará, en un plazo que n
 
 Transcurrido el plazo anterior, la Secretaría, con la opinión de la Comisión Estatal, remitirá el Proyecto de Plan que se trate al Congreso del Estado para su aprobación definitiva, y en su caso, publicación en el Periódico Oficial, Organo del Gobierno de la Entidad, y su inscripción en el Registro Público de la Propiedad.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2001)</small>
+
 ###### ARTÍCULO 51.
 
-Los Planes Municipales de Desarrollo Urbano, los de Centros de Población y los que de estos se deriven serán elaborados, aprobados, ejecutados, controlados y evaluados por los Ayuntamientos correspondientes, atendiendo la opinión del Consejo Consultivo Municipal de Desarrollo Urbano respectivo, y en su caso, de las autoridades competentes de los gobiernos del Estado y de la Federación. El Ayuntamiento aprobará formalmente el respectivo plan en sesión de cabildo y lo someterá con todos sus antecedentes a la aprobación definitiva de la Legislatura Local.
+Los Planes Municipales de Desarrollo Urbano, los de Centros de Población y los que de éstos se deriven serán elaborados, aprobados, ejecutados, controlados y evaluados por los Ayuntamientos correspondientes, atendiendo la opinión del Consejo Consultivo Municipal de Desarrollo Urbano respectivo, y en su caso, las observaciones técnicas de las autoridades competentes de los gobiernos del Estado y la Federación. El Ayuntamiento aprobará formalmente el respectivo plan en sesión de cabildo y lo someterá con todos sus antecedentes a la aprobación definitiva de la Legislatura, con excepción de los programas parciales de desarrollo, que bastará la aprobación de Cabildo, para su publicación e inscripción, remitiendo la copia respectiva al Congreso para su conocimiento.
 
 ###### ARTÍCULO 52
 
@@ -1049,9 +1051,11 @@ VII. Terminado o ajustado el Proyecto, el Presidente Municipal lo remitirá a la
 
 VIII. Recabado el dictamen de congruencia o los comentarios y recomendaciones de la Secretaría, se procederá a revisar el Proyecto para considerar las opiniones recibidas si las hubiere, hecho lo cual se turnará al Presidente Municipal para los efectos internos de dictaminación correspondiente, mismo que será presentado en Sesión de Cabildo para su aprobación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ABRIL DE 2001)</small>
+
 ###### ARTÍCULO 53.
 
-Los Planes Municipales de Desarrollo Urbano, de Centro de Población y sus derivados, una vez aprobados por el Cabildo, serán enviados por el Presidente Municipal al Congreso del Estado, para que dentro de un plazo razonable ordene su publicación e inscripción en el Registro Público de la Propiedad y surtan oportunamente sus efectos de Ley.
+Los Planes Municipales de Desarrollo Urbano, de Centro de Población y sus derivados, una vez aprobados por el Cabildo, serán enviados por el Presidente Municipal al Congreso del Estado, para que dentro de un plazo razonable ordene su publicación e inscripción en el Registro Público de la Propiedad y surtan oportunamente sus efectos de Ley; con excepción de los programas parciales de desarrollo, que bastará la aprobación de Cabildo, para su publicación e inscripción, remitiendo copia al Congreso para su conocimiento.
 
 La documentación que se remita al Congreso comprenderá:
 
@@ -3226,3 +3230,9 @@ Rigoberto Ochoa Zaragoza
 El Secretario General de Gobierno
 
 Lic. Sigfrido De la Torre Miramontes
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE ABRIL DE 2001
+
+Artículo Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
