@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "2004-06-05"
+last_updated: "2004-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -275,11 +275,11 @@ XIV. Contraloría del Estado, y
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-XV. Secretaría del Trabajo y Previsión Social; y
+XV. Secretaría del Trabajo y Previsión Social;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-XVI. Secretaría de Desarrollo Humano;
+XVI. Secretaría de Desarrollo Humano; y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], 29 DE DICIEMBRE DE 2001)</small>
 
@@ -483,7 +483,7 @@ XXV. Efectuar el inventario, valuación y actualización respecto de los inmuebl
 
 XXVI. Intervenir en la enajenación y adquisición de bienes del Estado;
 
-XXVII . Presentar denuncias y formular querellas ante el Ministerio Público a través de la Procuraduría Fiscal;
+XXVII. Presentar denuncias y formular querellas ante el Ministerio Público a través de la Procuraduría Fiscal;
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -513,13 +513,17 @@ XXXIII. Vigilar, en coordinación con la Secretaría de Administración, las apl
 
 XXXIV. Formular estudios sobre apoyos presupuestales y de descentralización de fondos a los municipios del Estado, de acuerdo a sus planes de desarrollo;
 
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1993)</small>
+(REFORMADA, P.O. 26 DE AGOSTO DE 2004) (F. DE E., P.O. 16 DE DICIEMBRE DE 2004)
 
-XXXV. Coadyuvar con el Secretariado Técnico del Gobernador, en el control de los presupuestos de programas y descentralizados de la Federación al Gobierno del Estado, a través del Convenio Unico de Desarrollo o instrumento similar; y
+XXXV. Coadyuvar con el Secretario Técnico del Gobernador, en el control de los presupuestos de programas descentralizados de la Federación al Gobierno del Estado, a través del Convenio Único de Desarrollo o instrumento similar;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+(REFORMADA, P.O. 26 DE AGOSTO DE 2004) (F. DE E., P.O. 16 DE DICIEMBRE DE 2004)
 
-XXXVI. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
+XXXVI. Vigilar que en el proyecto de Presupuesto de Egresos del Estado que se ponga a consideración del Congreso del Estado no se realice la incorporación, bajo ninguna circunstancia, de bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración que deben recibir legalmente los servidores públicos, cualquiera que sea su denominación, de conformidad con la normatividad aplicable; y
+
+(ADICIONADA, P.O. 26 DE AGOSTO DE 2004) (F. DE E., P.O. 16 DE DICIEMBRE DE 2004)
+
+XXXVII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 1992)</small>
 
@@ -1794,3 +1798,9 @@ Noveno.- El Ejecutivo del Estado expedirá el Reglamento Interno de la Secretar�
 P.O. 5 DE JUNIO DE 2004.
 
 ÚNICO.- Las reformas y adiciones contenidas en el presente, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 26 DE AGOSTO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a la entrada en vigor del decreto número 20514 que contiene reformas al artículo 111 de la Constitución Política del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- El Comité Técnico de Transparencia y Valoración Salarial, deberá reunirse de forma inmediata a fin de aprobar su reglamento interno. El reglamento deberá ser aprobado dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
