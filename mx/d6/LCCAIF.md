@@ -4,7 +4,7 @@ identifier: "LCCAIF"
 country: "mx"
 rank: "ley"
 publication_date: "1960-12-31"
-last_updated: "1993-07-16"
+last_updated: "1997-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=460&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCCAIF"
 
 LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DE LA ASOCIACION INTERNACIONAL DE FOMENTO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1997.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de diciembre de 1960.
 
@@ -159,6 +159,12 @@ D.O.F. 26 DE JULIO DE 1990.
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 16 DE JULIO DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE MAYO DE 1997.
 
 ###### ARTICULO UNICO.
 
