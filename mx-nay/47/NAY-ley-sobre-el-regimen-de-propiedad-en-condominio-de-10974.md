@@ -4,7 +4,7 @@ identifier: "NAY-ley-sobre-el-regimen-de-propiedad-en-condominio-de-10974"
 country: "mx"
 rank: "ley"
 publication_date: "1985-04-27"
-last_updated: "1985-04-27"
+last_updated: "2002-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE REGULA EL REGIMEN DE PROPIEDAD EN CONDOMINIO DE BIENES INMUEBLES PARA EL ESTADO DE NAYARIT, PUBLICADO EN EL PERIODICO OFICIAL EL 12 DE JULIO DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley Publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit el Sábado 27 de Abril de 1985.
 
@@ -61,7 +63,7 @@ Para la constitución del régimen de la propiedad en condominio, el propietario
 
 I.- La constancia de haber obtenido declaración de la Dirección de Obras Publicas Municipales, en el sentido de ser realizable el proyecto del condominio, en virtud de ajustarse a las disposiciones legales sobre desarrollo y planificación urbana y prestación de servicios públicos, así como de los permisos de construcción y salubridad que requiera este tipo de obras;
 
-II.- La situación, dimensiones y linderos del terreno que corresponda al condominio de que se trátate, con especificación precisa de su separación del resto del área; si está ubicado dentro de un conjunto o unidad habitacional. Así mismo, cuando se trate de construcciones vastas, los límites de los edificios o de las alas o secciones que de por sÍ deban constituir condominios independientes, en virtud de que la ubicación y número de copropiedades origine la separación de los condominios en grupos distintos;
+II.- La situación, dimensiones y linderos del terreno que corresponda al condominio de que se trátate, con especificación precisa de su separación del resto del área; si está ubicado dentro de un conjunto o unidad habitacional. Así mismo, cuando se trate de construcciones vastas, los límites de los edificios o de las alas o secciones que de por si deban constituir condominios independientes, en virtud de que la ubicación y número de copropiedades origine la separación de los condominios en grupos distintos;
 
 III.- La descripción general de las construcciones y de la calidad de los materiales empleados o que vayan a emplearse;
 
@@ -155,7 +157,7 @@ Cada condómino podrá servirse de los bienes comunes, disfrutar de los servicio
 
 El condómino de un departamento, vivienda, casa, o local, puede usar y disponer de él, con las limitaciones y prohibiciones que establece esta Ley, la escritura constitutiva y el Reglamento del Condominio; pero no podrán ser objeto de venta o arrendamiento, parte de los mismos, tales como piezas o recámaras y cuartos de servicios, con excepción de los lugares destinados al estacionamiento de vehículos, que podrán ser arrendados a otro condominio.
 
-El condominio, su arrendatario o cualquier otro cesionario del uso tienen las mismas obligaciones ante los demás condóminos y arreglarán entre sÍ; en que caso el usuario tendrá la representación del condómino en las asambleas, en todo caso, el condómino es solidario de las obligaciones contraídas por el usuario. Ambos harán oportunamente las notificaciones del caso al administrador, para los efectos que procedan.
+El condominio, su arrendatario o cualquier otro cesionario del uso tienen las mismas obligaciones ante los demás condóminos y arreglarán entre si; en que caso el usuario tendrá la representación del condómino en las asambleas, en todo caso, el condómino es solidario de las obligaciones contraídas por el usuario. Ambos harán oportunamente las notificaciones del caso al administrador, para los efectos que procedan.
 
 ###### ARTICULO 16.
 
@@ -227,7 +229,7 @@ III.- Si el departamento, vivienda, casa o local, se enajenare con infracción a
 
 ###### ARTICULO 26.
 
-La asamblea de condóminos es el órgano supremo del condominio. Las asambleas podrán ser de grupo de condóminos o generales. Serán de grupo de condóminos las convocadas para resolver casos como los previstos en el artículo 33., las demás serán generales. Para unas y otras las siguientes prevenciones:
+La asamblea de condóminos es el órgano supremo del condominio. Las asambleas podrán ser de grupo de condóminos o generales. Serán de grupo de condóminos las convocadas para resolver casos como los previstos en el artículo 33º., las demás serán generales. Para unas y otras las siguientes prevenciones:
 
 I.- Las generales deberán celebrarse cuando menos una vez por año y las de grupo cuantas veces sean necesario, de acuerdo con esta Ley y el Reglamento del Condominio;
 
@@ -289,7 +291,7 @@ Los condominios serán administrados por la persona física o moral que designe 
 
 El administrador del Condominio tendrá las siguientes facultades y obligaciones:
 
-I.- Llevar debidamente autorizados por la Secretaría del Ayuntamiento del Municipio donde se encuentre ubicado el condominio. Un libro de actas de las asambleas y un libro de registro de los acreedores que manifiesten, dentro del primer mes de constituidos los créditos o en el de enero de cada año, su decisión de concurrir a las asambleas. En este registro se anotarán la conformidad de acreedor y deudor, sobre los saldos pendientes de cubrirse y en caso de discrepancia o renuncia del deudor a expresar su voluntad, se asentarán los saldos que determine el Comité de Vigilancia. Indicándose la proporción correspondiente al acreedor y al deudor, respecto a los votos atribuidos al departamento, vivienda, casa o local de que se trate. Para los efectos de votación previstos en esta fracción, estas inscripciones solo tendrán validez por el trimestre en que se practiquen de los cuales el administrador expedirá constancia al acreedor interesado;
+I.- Llevar debidamente autorizados por la Secretaría del Ayuntamiento del Municipio donde se encuentre ubicado el condominio. Un libro de actas de las asambleas y un libro de registro de los acreedores que manifiesten, dentro del primer mes de constituidos los créditos o en el de enero de cada año, su decisión de concurrir a las asambleas. En este registro se anotarán la conformidad de acreedor y deudor, sobre los saldos pendientes de cubrirse y en caso de discrepancia o renuncia del deudor a expresar su voluntad, se asentarán los saldos que determine el Comité de Vigilancia. Indicándose la proporción correspondiente al acreedor y al deudor, respecto a los votos atribuidos al departamento, vivienda, casa o local de que se trate. Para los efectos de votación previstos en esta fracción, estas inscripciones solo tendrán validez pro el trimestre en que se practiquen de los cuales el administrador expedirá constancia al acreedor interesado;
 
 II.- Cuidar y vigilar los bienes del condominio y los servicios comunes, promoviendo la integración, organización y desarrollo de la comunidad. Entre los servicios comunes están comprendidos los que a su vez sean comunes con otros condóminos o con vecinos de casas unifamiliares, cuando estén ubicados dentro de un conjunto o unidad urbana habitacional, o constituyen edificios, alas, o secciones de una construcción vasta;
 
@@ -519,7 +521,7 @@ TRANSITORIOS:
 
 PRIMERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 
-SEGUINDO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 D A D O En la Sala de Sesiones "Benito Juárez", del H. Congreso del Estado Libre y Soberano de Nayarit, en Tepic, su Capital, a los veintiséis días del mes de Abril de mil novecientos ochenta y cinco.
 
@@ -542,3 +544,19 @@ EMILIO M. GONZALEZ.- Rúbrica.
 El Subsecretario General de Gobierno en funciones de Secretario General de Gobierno P.M.D.L.
 
 LIC. RAFAEL PEREZ CARDENAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 12 DE JULIO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Sobre el Régimen de Propiedad en Condominio de Inmuebles del Estado de Nayarit, contenida en el Decreto Número 6900, publicado en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el 27 de abril de 1985.
+
+###### ARTÍCULO TERCERO.
+
+A los condominios constituidos hasta la fecha de entrada en vigor de la presente Ley y que no cumplan con los requisitos establecidos en la misma, se les concede un término de seis meses a partir de esta fecha para que se regularicen.
