@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-afiliacion-vigencia-de-derechos-y-cobranza-170"
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-11-19"
-last_updated: "1990-11-19"
+last_updated: "2000-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1990-11-15"
 
 REGLAMENTO DE AFILIACION, VIGENCIA DE DERECHOS Y COBRANZA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION, EL 31 DE JULIO DE 2000.
 
 Reglamento publicado en el Diario Oficial de Federación, el lunes 19 de noviembre de 1990.
 
@@ -233,7 +233,9 @@ IV. De los hijos estudiantes, de 18 y hasta 25 años, copia certificada del acta
 
 V. De los hijos, esposo o concubinario incapacitados física o psíquicamente, copia certificada del acta de nacimiento, copia certificada del acta de matrimonio, copia certificada del acta de nacimiento del hijo procreado con la asegurada o pensionista directa respectivamente o información testimonial en los términos de la fracción II de este artículo. En todos los casos, certificado médico expedido por el Instituto o por otro órgano legalmente facultado; y acreditar la dependencia económica del esposo o concubinario;
 
-VI. Del esposo o concubinario mayor de 55 años, copia certificada del acta de nacimiento, copia certificada del acta de matrimonio, copia certificada del acta de nacimiento del hijo procreado con la asegurada o pensionista directa respectivamente o información testimonial en los términos de la fracción II de este artículo; y
+> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2000)</small>
+
+VI. Para los efectos del artículo 24 de la Ley del ISSSTE, del esposo, copia certificada del acta de matrimonio, del concubinario, copia certificada del acta de nacimiento del hijo procreado con la asegurada o pensionista directa, o en su caso, original de la información testimonial que acredite su estado civil y que el tiempo que ha durado dicha unión libre sea de 5 años como mínimo; y
 
 VII. De los ascendientes, es decir, padres, abuelos, bisabuelos, copia certificada del acta de nacimiento del asegurado o pensionista directo, y que además se acredite la dependencia económica con el asegurado o pensionista directo.
 
@@ -458,3 +460,9 @@ SEGUNDO.- Se abrogan las disposiciones administrativas que haya expedido la Junt
 Para los efectos procedentes se da a conocer lo anterior, en relación con lo dispuesto por el artículo 163 fracción I de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
 México, D. F. a 15 de noviembre de 1990.- El Director General, Lic. Emilio Lozoya Thalmann.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 31 DE JULIO DE 2000.
+
+UNICO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
