@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1950-01-23"
+last_updated: "1951-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1950.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 1951.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -1022,25 +1022,19 @@ Los concesionarios de Vías Generales de Comunicación, contribuirán para los g
 
 ### CAPITULO XI. Reglas generales
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1946)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 124.
 
-Los servicios que se presten en relación con las vías generales de comunicación y medios de transporte, tales como maniobras de carga, descarga, alijo, almacenaje, transbordo, estiba, desestiba, checadura, acarreo, etc., se considerarán como servicios públicos conexos con dichas vías generales de comunicación y, en consecuencia, será necesario obtener permiso de la Secretaría de Comunicaciones y Obras Públicas para realizarlos.
+Las maniobras de carga, descarga, estiba, desestiba, alijo, acarreo, almacenaje y transbordo que se ejecuten en las zonas federales, se considerarán como actividades conexas con las vías generales de comunicación. En consecuencia, para realizarlas se requerirá permiso de la Secretaría de Comunicaciones y Obras Públicas.
 
-Las agrupaciones que presten estos servicios, cualquiera que sea el tipo de organización que adopten, quedarán sujetos a la jurisdicción de la propia Secretaría por lo que se refiere a tarifas, clasificaciones de efectos, responsabilidades por demoras, pérdidas, mermas, averías y, en general, para todo lo relativo a sus relaciones con el público. Sus tarifas y reglamentos de servicio, podrán ser revisados, modificados, adicionados o cancelados de acuerdo con lo que sobre el particular determine la Secretaría, y previo los estudios que para el efecto se lleven a cabo. Las empresas permisionarias tendrán obligación de mandar un informe anual de acuerdo con lo prevenido en el artículo 120 quedando sujetos igualmente, a la inspección a que se refiere el Capítulo X del Libro Primero de esta Ley.
+Los titulares de los permisos para la ejecución de maniobras de servicio público quedarán sujetos a la jurisdicción de la propia Secretaría en lo que se refiere a la clasificación de efectos, responsabilidades por demora, pérdidas, mermas y averías y, en general, para todo lo relativo a sus relaciones con el público. Quedarán sujetos, asimismo, a las disposiciones sobre tarifas y demás aplicables del libro primero de esta ley.
 
-La suspensión ilegal de los servicios de maniobras y la resistencia de los maniobristas para reanudarlos cuando así lo ordene la Secretaría de Comunicaciones, previa investigación, serán causa para que se cancele el permiso otorgado a la organización de que se trate y se autorice a otra u otras organizaciones para prestar los servicios de maniobras en el lugar en que opere la agrupación mencionada.
+La Secretaría de Comunicaciones y Obras Públicas expedirá los permisos a que se refiere el párrafo anterior, preferentemente a empresas individuales o colectivas constituídas por agentes aduanales, comisionistas, agentes consignatarios, armadores, agentes navieros o grupos de trabajadores, cualquiera que sea el tipo de organización legal que adopten.
 
-Si las agrupaciones de trabajadores que ejecuten los servicios mencionados en el presente artículo, celebran contratos de trabajo en los términos establecidos por la Ley Federal de Trabajo, consignarán en ellos, bajo pena de nulidad de toda cláusula contraria, cuotas, condiciones iguales a las que se fijen las tarifas autorizadas por la Secretaría de Comunicaciones y Obras Públicas. En las indicadas cuotas quedarán incluídas las prestaciones adicionales, como pago de séptimo día, vacaciones y demás puntos de acuerdo con la citada Ley.
+Las relaciones entre los permisionarios del servicio público de maniobras con sus trabajadores se regirán, en su caso, por las disposiciones de la Ley Federal del Trabajo.
 
-Las cuotas por servicios prestados en horas extraordinarias también serán fijadas por la Secretaría de Comunicaciones dentro de la tarifa respectiva.
-
-El reglamento de este artículo determinará la extensión de las maniobras que amparen las cuotas de tarifa, la forma de mejorar los sistemas de trabajo que se adopten, las horas en que deben realizarse los servicios de acuerdo con las autoridades marítimas del lugar y, en general, todas las disposiciones que tiendan a la mejor prestación de éstos.
-
-Las relaciones entre las empresas y sus trabajadores respecto al servicio público de maniobras, se regirán por las disposiciones de la Ley Federal del Trabajo.
-
-Se considerarán también como conexos con las vías generales de comunicación y sujetos, en consecuencia, a las disposiciones de este artículo, los servicios que se presten al público por empresas individuales o colectivas que, sin contar con vehículos propios, se encarguen habitualmente del transporte de artículos de cualquiera naturaleza, haciendo uso de dichas vías generales de comunicación.
+Los permisos para la ejecución de maniobras de servicio particular se otorgarán a quienes pretendan mover sus propias mercancías o efectos. Las relaciones de estos permisionarios en las agrupaciones o con los trabajadores que ejecuten las labores a que se refiere este artículo, se regirán por la Ley Federal de Trabajo. La Secretaría de Comunicaciones y Obras Públicas antes de expedir estos permisos deberá oír a las agrupaciones o trabajadores que pudiera resultar afectados.
 
 ###### ARTICULO 125.
 
@@ -3698,667 +3692,1003 @@ II.- Cuando por cualquier motivo no pueda efectuarse el desembarque de los pasaj
 
 Las estaciones de barcos nacionales y extranjeros fondeados en puertos mexicanos en donde no opere alguna instalación de la Red Nacional, podrán dar servicio comunicándose con dicha Red o con otros barcos que estén navegando o fondeados en costas mexicanas; pero el servicio internacional lo expedirán invariablemente por conducto de las estaciones nacionales.
 
-# LIBRO SEXTO. Comunicaciones postales
+> <small>(REFORMADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 1951)</small>
 
-### CAPITULO I. Del correo en general
+# LIBRO SEXTO. Comunicaciones Postales
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1951)</small>
+
+## TITULO PRIMERO. Correo en General
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+
+### CAPITULO I. Definición. Inviolabilidad de la correspondencia. Monopolio
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 421.
 
-El correo tiene como función el transporte y distribución de las correspondencias, así como el desempeño de los demás servicios autorizados por la presente Ley y los Reglamentos respectivos.
+El Correo es un servicio público federal encargado del recibo, transporte y entrega de la correspondencia, así como del desempeño de los demás servicios autorizados por la ley.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 422.
 
-Se designan con el nombre de correspondencias todos los objetos que transporte el correo y se clasifican como de primera, segunda, tercera, cuarta y quinta clases. La denominación y clasificación de correspondencias del servicio internacional estará sujeta a las disposiciones de los convenios internacionales.
+La correspondencia de primera clase que bajo cubierta circule por correo, está libre de todo registro.
+
+La infracción de esta disposición es un delito penado por la ley.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 423.
 
-Se comprenden en la primera clase:
+Queda prohibido a los funcionarios y empleados de la Secretaría de Comunicaciones y Obras Públicas proporcionar informes acerca de las personas que mantienen correspondencia por correo, así como los nombres y domicilios de los arrendatarios de las cajas de apartado.
 
-I.- Las cartas, las tarjetas cartas, las tarjetas postales, los impresos que por su texto substituyan una correspondencia epistolar y, en general, toda clase de escritos en todo o en parte, cuyo texto tenga carácter actual y personal, ya sea que circulen en sobres o envolturas, abiertos o cerrados.
-
-II.- Toda clase de escritos en clave o por medio de signos convencionales;
-
-III.- Las monedas, joyas, piedras y metales preciosas (sic), billetes de banco, de lotería o rifas, los cheques al portador, acciones que no sean nominativas, cupones de dividendos, timbres postales cancelados o no, y, en general, toda clase de documentos representativos de un valor al portador, y
-
-IV.- Cualquier otro envío que circule bajo cubierta o envoltura cerrada, con las excepciones que el reglamento determine.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 424.
 
-Se comprenden en la segunda clase las publicaciones periódicas que llenen los requisitos siguientes:
+No se viola el sigilo postal a que se refiere el artículo anterior, en los casos siguientes:
 
-I.- Editarse en fechas determinadas con intervalos no mayores de dos meses;
+I.- Cuando los informes se rindan en acatamiento de una orden judicial o del ministerio público, dictada por escrito.
 
-II.- Llevarse un título, la fecha de la publicación, el número progresivo correspondiente, domicilio legal y nombre del responsable;
+II.- A rendir los datos estadísticos que deban proporcionarse de acuerdo con la ley.
 
-III.- Tratar asuntos de información, ciencias y artes, industrias, religión, política, beneficencia y, en general, todos aquellos de interés público y de carácter cultural;
+III.- Cuando los informes se proporcionen a los remitentes o destinatarios, de acuerdo con los derechos que la ley les concede.
 
-IV.- Estar redactadas en términos exentos en lo absoluto de lenguaje procaz, palabras, frases, ilustraciones, signos, etc., que ultrajen las buenas costumbres o constituyan faltas a la moral;
-
-V.- Tener un despacho abierto al público, en que se atiendan todos los asuntos relativos a la publicación;
-
-VI.- No tener en su texto más de sesenta por ciento de anuncios y reclamos;
-
-VII.- Cuando existan dos o más publicaciones de igual título, que se editen en el mismo lugar y reúnan las condiciones que se expresan en este artículo, tendrán derecho al registro como artículo de segundo (sic) clase, la que obtenga la propiedad literaria del título, no debiendo, en este caso, registrarse otra de igual nombre en la misma Oficina de Correos.
-
-VIII.- El registro de una publicación que reúna las condiciones del presente artículo sólo podrá efectuarse en la Oficina de Correos establecida en el lugar en que se edite; sin embargo, las publicaciones ya registradas podrán aceptarse en cualesquiera otras oficinas del país, con las franquicias concedidas a esta clase de correspondencias, previa solicitud de los agentes de la publicación, acompañada de la autorización de editor, y
-
-IX.- Las publicaciones que se editen en el extranjero y que reúnan los requisitos establecidos en este precepto podrán ser registradas como artículo de segunda clase en cualesquiera de las administraciones de correos y telégrafos del país, siempre que los interesados presenten la autorización debidamente legalizada del editor que los acredite como agentes de la publicación.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 425.
 
-Los alcances o suplementos a las publicaciones periódicas, para que se comprendan en la segunda clase, deberán llenar los requisitos del artículo anterior y, además, llevar el título número y fecha de la publicación a que correspondan.
+El Poder Ejecutivo Federal ejerce el monopolio constitucional para recibir, transportar y entregar la correspondencia de primera clase a que se refiere el artículo 428 en sus fracciones I y II de esta Ley; en consecuencia ninguna persona física o moral podrá prestar ese servicio al público.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 426.
 
-Se comprenden en la tercera clase:
+No se viola el monopolio en los casos siguientes:
 
-I.- Las publicaciones periódicas que no llenen los requisitos de la segunda clase o que, llenándolos, no sean depositados por el editor o agente:
+I.- Cuando se reciba y transporte la correspondencia de primera clase entre lugares en que no haya servicio de conducción postal, para depositarla en la oficina de correos inmediata al lugar de su origen.
 
-II.- Las publicaciones sin tiro periódico, libros impresos o manuscritos originales y pruebas de imprenta, con o sin correcciones, planos y cartas geográficas, tarjetas postales ilustradas, fotografías, tarjetas postales ilustradas, sin texto actual y personal, tarjetas de felicitación o condolencias manuscritas, cuyo texto no exceda de cinco palabras y que no constituyan clave o signos que las conviertan en carácter epistolar, colectas y trabajos caligráficos y escolares, papeles de música, impresos o manuscritos, tarjetas postales en blanco franqueadas, cuando cada una lleve previamente escrita o impresa la dirección de otro destinatario;
+II.- Cuando una persona física o moral envíe su correspondencia de primera clase utilizando sus propios vehículos y empleados; pero sin transportar correspondencia de otras personas.
 
-III.- Circulares impresas, grabadas, litografiadas o reproducidas por cualquier procedimiento mecánico, y
+III.- Cuando se conduzcan exhortos y toda clase de documentos judiciales.
 
-IV.- Papeles de negocios en general, que no tengan carácter actual y personal, según se detallen en el reglamento respectivo.
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
-### CAPITULO II. Clasificación de las correspondencias
+## TITULO SEGUNDO. Correspondencia
+
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+
+### CAPITULO II. Definición y clasificación de la correspondencia
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 427.
 
-Se comprenden en la cuarta clase las muestras que no puedan ser aprovechadas para su venta.
+Son correspondencias todos los objetos que se depositan en el correo para su transporte y entrega. Por su naturaleza, la correspondencia es de primera, segunda, tercera, cuarta o quinta clases; por su tratamiento es ordinaria o registrada, y por su destino, es inferior o internacional.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 428.
 
-Se comprenden en la quinta clase los envíos que contengan mercancías.
+Constituyen la correspondencia de primera clase:
+
+I.- Las cartas, recados, pedidos, recordatorios de cuentas, informes y memoranda, ya sea que circulen en sobre o envoltura abiertos o cerrados, así como tarjetas cartas, tarjetas postales y correogramas.
+
+II.- Los escritos en clave o en signos convencionales.
+
+III.- Las monedas, billetes de banco, joyas, piedras y metales preciosos, estampillas fiscales y postales sin cancelar y éstas últimas aun canceladas, y toda clase de documentos o valores al portador.
+
+IV.- Todo envío que circule bajo sobre o envoltura cerrados con las excepciones que el reglamento de esta ley determina para algunas correspondencias de la tercera a la quinta clases.
+
+V.- Los impresos por cualquier procedimiento, cuyo texto en todo o en parte revele un asunto de carácter particular entre remitentes y destinatarios.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 429.
 
-Se denominarán envíos mixtos, los que contengan correspondencias de diversas clases de las enumeradas en los artículos anteriores.
+Constituyen la correspondencia de segunda clase, las publicaciones periódicas que hayan obtenido la autorización de la Dirección General de Correos por haber satisfecho los requisitos que establece el reglamento, de esta ley.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 430.
 
-Son correspondencias ordinarias aquellas de las cuales no se lleven registro; son registradas, las que se tramitan desde su depósito hasta su entrega, mediante registros especiales para cada pieza.
+Para que los alcances y suplementos de las publicaciones periódicas se comprendan en la segunda clase, deberán reunir los requisitos que establece el reglamento.
+
+Los suplementos sólo se admitirán con tal clasificación cuando se depositen con la publicación de que formen parte.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 431.
 
-En los casos de extravío o pérdida de correspondencias ordinarias, no se pagará indemnización a los interesados.
+Constituyen la correspondencia de tercera clase:
+
+I.- Las publicaciones periódicas que no llenen los requisitos de la segunda clase.
+
+II.- Las publicaciones sin tiro periódico, libros y folletos impresos o manuscritos originales y pruebas de imprenta; planos y cartas geográficas, fotográficas, películas fotográficas y cinematográficas usadas, reveladas o no; tarjetas ilustradas sin texto o que teniéndolo no transmitan en todo o en parte un asunto de carácter particular; esquelas, tarjetas de visita o felicitación; boletas escolares o electorales, música grabada, papeles de música impresos o manuscritos, tarjetas postales en blanco y franqueadas cuando cada una lleve escrita o impresa la dirección de otro destinatario.
+
+Se permite agregar a las esquelas y tarjetas de visita impresas, hasta cinco palabras de cortesía.
+
+III.- Circulares impresas por cualquier procedimiento.
+
+IV.- Papeles de negocios.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 432.
 
-Queda prohibida la circulación por el Correo:
+Constituyen la correspondencia de cuarta clase las muestras de producto no destinadas a la venta.
 
-I.- De las correspondencias abiertas que por su texto, forma, mecanismo o aplicación, sean contrarias a la Ley, a la moral, o las buenas costumbres;
-
-II.- De las materias corrosivas, inflamables, explosivas o cualesquiera otras que puedan dañar a los empleados o a las correspondencias;
-
-III.- De los objetos de fácil descomposición o que exhalen mal olor;
-
-IV.- De las correspondencias que tengan por objeto o puedan ser utilizadas en la comisión de fraudes o de cualquier otro delito;
-
-V.- De los narcóticos y de toda clase de drogas enervantes, cuando no se compruebe plenamente que están destinados de manera exclusiva a fines medicinales;
-
-VI.- De las monedas, joyas, billetes de banco y piedras y metales preciosos, timbres postales sin cancelar y toda clase de documentos o valores al portador, cuando no se remitan con el carácter de seguros postales;
-
-VII.- De las correspondencias que sean ofensivas o denigrantes para la Nación;
-
-VIII.- De los billetes y anuncios de loterías extranjeras, y
-
-IX.- De los animales, excepto los casos que señalen las disposiciones reglamentarias. Los reglamentos respectivos determinarán el tratamiento que deba darse a estas correspondencias en el caso de que sean depositadas en las Oficinas Postales, pudiéndose llegar hasta la retención, enajenación o destrucción de las mismas.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 433.
 
-Todos los envíos que se depositen en el Correo estarán debidamente franqueados conforme a la tarifa correspondiente y llevarán una dirección clara y precisa en forma tal que no se dificulte su curso ni la entrega al destinatario.
+Constituyen la correspondencia de quinta clase los envíos que contengan mercancías.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 434.
 
-El franqueo deberá cubrirse por medio de timbres postales o sellos de máquinas de franquear, excepto el de las correspondencias de segunda clase, que se pagará en efectivo.
+En caso de que los remitentes o destinatarios no estén conformes con la clasificación que de sus correspondencias hagan las oficinas de correos, la Dirección General resolverá en definitiva.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 435.
 
-Las emisiones de timbres postales se cambiarán cuando lo juzgue conveniente el Ejecutivo de la Unión, el cual podrá además, acordar emisiones extraordinarias o bien el resello de los que estén en vigor, cuando se establezcan nuevos servicios postales, o para conmemorar algún suceso histórico o de trascendencia nacional.
+Podrán aceptarse envíos mixtos, que son aquellos que contienen correspondencia de varias clases.
 
-La Dirección General de Correos y Telégrafos, de acuerdo con los reglamentos respectivos, fijará el monto y demás condiciones que deberán reunir las emisiones de timbres postales, así como los requisitos para retirar y substituir las emisiones existentes.
+En ningún caso las correspondencias de segunda clase formarán parte de estos envíos.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 436.
 
-Tratándose de correspondencias de tercera clase, excepcionalmente, se cubrirá el franqueo en efectivo, en los casos que expresamente determine así el Reglamento.
+En correspondencia ordinaria la que se maneja comúnmente, sin llevar un control especial por cada pieza.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 437.
 
-Para los efectos de esta Ley, se considerarán como no franqueadas las correspondencias que carezcan en los absoluto de timbres o sellos de máquinas de franquear; y respecto de los envíos de segunda clase, cuando no se acredite haber cubierto el importe del franqueo con la constancia que debe otorgar la oficina de depósito.
+Correspondencia registrada es aquella por la que se otorga recibo por cada pieza, tanto en su depósito, como en su transmisión y entrega.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 438.
 
-Se considerarán como insuficientemente franqueadas las correspondencias por las que sólo se hubiere cubierto el franqueo parcialmente.
+Correspondencia interior es aquella que se deposita y entrega dentro de los límites del Territorio Nacional.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 439.
 
-No se dará curso a las correspondencias no franqueadas, pero si por error fueren despachadas, continuarán hasta su destino, cobrándose al destinatario el doble del porte que corresponda al efectuarse la entrega.
+Correspondencia internacional es la que procede de otros países o se destina a ellos.
 
-Tratándose de las correspondencias insuficientemente franqueadas, que carezcan del nombre y dirección del remitente, se les dará curso, cobrándose al destinatario el doble del porte faltante, al hacerse la entrega. Si son del servicio aéreo, deberán tener cubierto, cuando menos, el 75% del porte.
+Esta correspondencia queda sujeta a los convenios internacionales.
 
-### CAPITULO III. De los objetos prohibidos
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+
+### CAPITULO III. Correspondencia irregular
+
+Ojetos (sic) prohibidos
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 440.
 
-Se entienden por derechos postales los pagos que independientemente del franqueo, propiamente dicho, deben hacerse al Correo, por los servicios especiales que desempeñe. Esta Ley reconoce los siguientes:
+Se entiende por correspondencia irregular para los efectos de esta Ley:
 
-I.- Entrega inmediata;
+I.- La no franqueada.
 
-II.- Correspondencia registrada;
+Es correspondencia no franqueada aquella que carezca de estampillas, de marcas de máquinas de franquear, autorizadas por la Dirección General de Correos, o de las anotaciones que indiquen que el pago de los derechos se hizo en efectivo.
 
-III.- Servicio aéreo;
+No se considera en esta disposición la correspondencia con derechos por cobrar.
 
-IV.- Acuse de recibo;
+II.- La insuficientemente franqueada.
 
-V.- Reembolso;
+Es correspondencia insuficientemente franqueada aquella en la que se hubieren cubierto parcialmente los derechos.
 
-VI.- Seguro postal;
+La correspondencia ordinaria no franqueada y la insuficientemente franqueada, serán cursadas excepcionalmente, cobrándose el destinatario el doble del importe de los derechos o de la cantidad faltante de los mismos al hacerse la entrega.
 
-VII.- Entrega de bultos a domicilio;
+III.- La que carezca en lo absoluto de dirección.
 
-VIII.- Almacenaje de bultos postales;
+IV.- La que tenga dirección insuficiente, errónea, ilegible o incomprensible.
 
-IX.- Premio por vales postales;
+V.- La que tenga un empaque inadecuado al contenido.
 
-X.- Premio por giros postales;
+VI.- La que exceda de los límites de peso o dimensiones reglamentarias.
 
-XI.- Rentas de cajas de apartados;
-
-XII.- Tarjetas de identidad;
-
-XIII.- Aviso de pago de giros;
-
-XIV.- Reexpedición de bultos;
-
-XV.- Contestación por cobrar de propaganda comercial, y
-
-XVI.- Los que se refieran a nuevos servicios que en lo futuro se establezcan.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 441.
 
-Queda prohibido la celebración de igualas para el franqueo de las correspondencias.
+Queda prohibida la circulación por correo de la siguiente correspondencia:
+
+I.- La cerrada que en su envoltura y la abierta que por su texto, forma, mecanismo o aplicación sea contraria a la ley, a la moral o a las buenas costumbres.
+
+II.- La que contenga materias corrosivas, inflamables, explosivas o cualesquiera otras que puedan causar daños.
+
+III.- La que contenga objeto de fácil descomposición o exhalen mal olor.
+
+IV.- La que presumiblemente pueda ser utilizada en la comisión de un delito.
+
+V.- La que sea ofensiva o denigrante para la Nación.
+
+VI.- La que contenga billetes o anuncios de loterías extranjeras y, en general, de juegos prohibidos.
+
+VII.- La que contenga animales vivos con las excepciones que señale el reglamento.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 442.
 
-Las correspondencias que bajo cubierta cerrada circulen por el Correo, están libres de todo registro. La violación de esta garantía es un delito que se castigará de acuerdo con las penas que establecen esta Ley y el Código Penal.
+Cuando se advierta en el momento de la recepción, que los objetos que se pretenda depositar son de los que pudieran constituir correspondencia de circulación prohibida, se procederá conforme a las disposiciones aplicables a la materia.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 443.
 
-El Ejecutivo Federal ejerce el monopolio constitucional para conducir las correspondencias de primera clase a que se refieren las fracciones I y II del artículo 423; en consecuencia, ninguna empresa, corporación o individuo podrá desempeñar ese servicio.
+La correspondencia de circulación prohibida enumerada en el artículo 441 deberá ser puesta a disposición de la autoridad competente, decomisada, enajenada, destruída o donada, en los términos del reglamento.
 
-### CAPITULO IV. Del franqueo y derechos postales
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+
+### CAPITULO IV. Correspondencia que por la índole de su contenido se sujeta a requisitos especiales
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 444.
 
-No se viola el monopolio en los casos siguientes:
+La correspondencia que contenga objetos de los que a continuación se enumeran se sujetará a los requisitos siguientes:
 
-I.- En la conducción de cartas particulares para ponerlas en la Oficina de Correos inmediata al lugar de su origen;
+I.- Las monedas, billetes de banco, joyas, piedras y metales preciosos, estampillas fiscales y postales, sin cancelar; estas últimas aun canceladas, cuando sean depositadas por particulares y toda clase de documentos o valores al portador se aceptarán, solamente con el carácter de seguro postal.
 
-II.- En la remisión que haga alguna sociedad o individuo de su correspondencia, por medio de propios o de expresos, no debiendo llevar éstos a la vez correspondencias pertenecientes a otros remitentes;
+II.- En la aceptación de objetos cuya circulación esté regulada por alguna ley o reglamento, deberán satisfacerse los requisitos y condiciones señalados en esos ordenamientos.
 
-III.- En la conducción de exhortos y toda clase de documentos judiciales;
+III.- Cuando los objetos a que se refiere el artículo 441 de esta Ley y la fracción II de éste, constituyan cuerpo de delito, bastará orden escrita de autoridad judicial o del Ministerio Público para que se transporten por correo.
 
-IV.- En la conducción de conocimientos de embarque, facturas, cartas de porte, documentos aduaneros o consulares que amparen y acompañen mercancías;
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
 
-V.- En las cartas de recomendación, presentación o cualesquiera otras de índole semejante que conduzca el mismo interesado para su propio servicio o utilidad;
+### CAPITULO V. Transporte de la correspondencia
 
-VI.- En la correspondencia que las empresas de toda clase de medios de transporte sostengan con sus empleados, exclusivamente en asuntos relativos a su servicio, siempre que la conducción se haga utilizando el material y personal de la propia empresa, y
-
-VII.- En la conducción de correspondencias entre dos puntos en que no haya servicio de Correos.
-
-### CAPITULO V. Inviolabilidad de la correspondencia
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 445.
 
-Disfrutarán de franquicia postal:
+Cuando el correo no haga por sí mismo el transporte de la correspondencia, la Dirección General de Correos lo contratará en los términos que fija el reglamento de esta Ley.
 
-I.- La correspondencia oficial de las distintas dependencias de los Poderes Legislativo, Ejecutivo y Judicial de la Federación;
-
-II.- La correspondencia oficial de los Poderes Legislativo, Ejecutivo y Judicial de los Gobiernos de los Estados y de los Municipios y sus dependencias, cuando esté dirigida a oficinas federales;
-
-III.- Las correspondencias que se refieran a la Estadística y Censos Nacionales;
-
-IV.- Las del Registro Civil;
-
-V.- Las de las Universidades Obreras de la República;
-
-VI.- Las que dirijan los médicos a las autoridades sanitarias dando aviso de enfermos contagiosos, y
-
-VII.- Las publicaciones periódicas que reúnan los requisitos especiales que fije el Reglamento.
-
-> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 1941)</small>
-
-VIII.- La correspondencia particular del Presidente de la República, Secretarios y Subsecretarios de Estado, Jefes de Departamentos Autónomos y Director General de Correos y Telégrafos.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 446.
 
-La franquicia a que se refiere el artículo anterior se hará extensiva al derecho de correspondencias registradas exclusivamente para las que por su importancia lo requieran.
+Los contratistas, aun cuando sean extranjeros, estarán sujetos a la jurisdicción de los tribunales de la República, y nunca podrán alegar respecto de sus contratos de conducción de correspondencia o de los asuntos relacionados con éstos, derecho alguno de extranjería, bajo cualquier forma que sea, y sólo tendrán los mismos derechos y medios de hacerlos valer, que los que las leyes de la República conceden a los mexicanos.
 
-Los exhortos o actuaciones en el juicio de amparo que remitan las autoridades, disfrutarán, además de los servicios de entrega inmediata, acuse de recibo y correo aéreo.
-
-La franquicia a que se contrae el artículo anterior no podrá hacerse extensiva a los demás derechos postales a que se refiere el artículo 440 de esta Ley, salvo para los servicios postal y telegráfico que disfrutan de la exención del pago de todos los derechos postales.
-
-Disfrutarán de franquicia postal las correspondencias del servicio internacional, en los casos en que así lo determinen expresamente las convenciones y tratados internacionales.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 447.
 
-El Ejecutivo de la Unión, por conducto de la Secretaría de Comunicaciones, podrá conceder franquicias postales a instituciones culturales y científicas.
+Para el transporte de la correspondencia el correo utilizará la vía que estime más conveniente y podrá optar por las rutas aéreas o de superficie excepto cuando se señalen en el sobre o envoltura las elegidas por el remitente.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 448.
 
-El Ejecutivo de la Unión fijará las tarifas de porte y derechos postales de acuerdo con la clase y naturaleza de las correspondencias y demás condiciones del servicio. Las tarifas para el servicio internacional se sujetarán a las disposiciones de los tratados y convenciones respectivas.
+Las autoridades dentro de sus facultales (sic) están obligadas a:
+
+I.- Prestar garantías y auxilio a los empleados conductores o contratistas del servicio postal.
+
+II.- Facilitar el transporte de corespondencias (sic), evitando que se interrumpa o retarde su conducción.
+
+III.- Investigar y proceder en aquellos casos en que se presuma que la pérdida o extravío de la correspondencia se debe a la comisión de un delito.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 449.
 
-Los remitentes de envíos confiados al correo, tendrán los siguientes derechos:
+Cuando alguna autoridad ordene la detención de empleados, contratistas o conductores de correspondencia en servicio, proveerá lo necesario para que los envíos postales continúen su curso.
 
-I.- Obtener su devolución cuando aún permanezcan en las Oficinas Postales;
-
-II.- Que se reexpidan a distinto lugar de su primitivo destino;
-
-III.- Que sean entregados a diverso destinatario de aquel a quien estén dirigidos, y
-
-IV.- Determinar la forma de entrega de sus envíos dentro de las señaladas dentro del reglamento respectivo.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 450.
 
-Los remitentes se considerarán propietarios de los envíos postales, mientras estos no salgan del poder del Correo.
+Los conductores de correspondencia, y los medios de transporte que utilicen para su conducción tendrán preferencia en el tránsito de las calles, caminos, vados, puentes, etc., a no ser que se trate del cuerpo de bomberos, ambulancias de la policía o de instituciones de beneficencia.
+
+La preferencia a que se refiere el párrafo anterior se tendrá también para el empleo de los medios que se utilicen para cruzar las corrientes flotables y navegables; los lagos, lagunas y esteros.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 451.
 
-Los destinatarios de los envíos postales tendrán los mismos derechos que establecen las fracciones II y IV del artículo anterior, para los remitentes, cuando éstos no hayan formulado alguna solicitud en contrario.
+Las empresas de transporte que conduzcan correspondencias, están obligadas, en los casos de accidente a sus vehículos, a que los envíos continúen su curso, si no tiene órdenes en contrario de la Dirección General de Correos.
 
-### CAPITULO VI. Del monopolio
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+
+### CAPITULO VI. Entrega de la correspondencia
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 452.
 
-La reexpedición de envíos de quinta clase, causará un derecho equivalente a un nuevo porte, de acuerdo con la tarifa que esté en vigor. Las reexpediciones de los demás envíos no causarán ese derecho, excepto en los casos en que así lo determine el reglamento.
+La entrega de la correspondencia se hará:
+
+I.- A domicilio.
+
+II.- En ventanilla.
+
+III.- En cajas de apartado en los términos previstos en el capítulo XVII de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 453.
 
-Las devoluciones de los envíos de primera a quinta clases, no causarán nuevo porte.
+La correspondencia ordinaria se entregará en la dirección que indiquen los sobres o envolturas, aun cuando no expresen destinatario.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 454.
 
-Las correspondencias registradas deberán ser entregadas a los destinatarios o remitentes, en su caso, o bien a quien ellos autoricen expresamente. Tratándose de las ordinarias, se entregarán en la dirección que indique el sobre o envoltura, aun cuando no se exprese el nombre del destinatario, cesando desde ese momento toda responsabilidad para el Correo, salvo los casos previstos en los artículos relativos de esta Ley.
+En los lugares donde no haya oficina postal el correo entregará la correspondencia ordinaria a las autoridades municipales, quienes están obligadas a hacer llegar a los destinatarios. También podrán ejecutar este servicio las personas o instituciones que habiéndolo solicitado haya obtenido la autorización de la Dirección General de Correos.
+
+Las autoridades municipales y las personas e instituciones a que se refiere el párrafo anterior, están obligadas a devolver a las oficinas de correos, de las que hubieren recibido la correspondencia, las piezas que no puedan ser entregadas a los destinatarios en un plazo de quince días.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 455.
 
-Las correspondencias dirigidas a una compañía o sociedad, se entregarán a cualquiera de los socios o representantes debidamente autorizados de la misma.
+La correspondencia ordinaria dirigida a personas que residan en hoteles, casas de huéspedes, fábricas y otros establecimientos de índole semejante, se entregará por conducto del administrador o encargado de los mismos, quien estará obligado a devolver a la oficina de correos respectiva al cumplir un plazo de diez días, las piezas que no fueren recogidas por los destinatarios.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 456.
 
-En el caso de disolución de una sociedad, las correspondencias se entregarán al encargado de la liquidación.
+La correspondencia ordinaria dirigida a personas residentes en cuarteles, campos militares u otros semejantes, se entregará por conducto de los jefes del detall (sic) o de personas autorizadas por escrito por dichos jefes a menos que el interesado haga solicitud en contrario, a la oficina de correos respectiva.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 457.
 
-En los casos de quiebra o liquidación judicial, las correspondencias dirigidas al fallido, se entregarán al juez que conozca de ellas o al síndico, previa orden escrita de la misma autoridad judicial.
+La correspondencia registrada deberá entregarse a los destinatarios, a los remitentes en su caso, o a las personas que unos u otros autoricen por escrito, a no ser que la ley señale expresamente otro conducto para su entrega.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 458.
 
-Las correspondencias ordinarias dirigidas a personas recluídas en establecimientos penales, de beneficencia, o de otra índole semejante, se entregarán por conducto y bajo la responsabilidad de los administradores de esos establecimientos a menos que el interesado haga solicitud en contrario, a la Oficina de Correos respectiva.
+La correspondencia dirigida a las oficinas públicas se entregará a sus jefes o a la persona que designen por escrito.
 
-Las correspondencias registradas a que se refiere este artículo, deberán entregarse personalmente a los destinatarios, o a sus apoderados legales, pero en el caso de que no fuere posible se devolverán al remitente.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 459.
 
-Las correspondencias dirigidas a los dementes, idiotas, imbéciles o sordomudos, se entregarán a los tutores legítimos de los mismos, de acuerdo con lo que a este respecto establece el Código Civil; pero si los destinatarios estuvieren recluídos en algún establecimiento de beneficencia, la entrega se hará al administrador del mismo, bajo su responsabilidad.
+La correspondencia dirigida a personas recluidas en establecimientos penales, de beneficencia o de índole semejante, se entregará por conducto de los administradores de esos establecimientos y bajo la responsabilidad de los mismos, a menos que el interesado haya (sic) solicitud en contrario, a la oficina de correos respectiva.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 460.
 
-Las correspondencias dirigidas a alguna oficina pública, se entregarán al jefe de ella, o a la persona que éste designe por escrito.
+En caso de que dos o más personas aleguen tener derecho a una misma correspondencia y presenten un principio de prueba en que funden su reclamación, se suspenderá la entrega hasta que la autoridad competente decida la controversia.
+
+En cualquier estado de la controversia, quedan a salvo los derechos de los remitentes sobre su correspondencia.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 461.
 
-Las correspondencias dirigidas a los menores de edad, se entregarán indistintamente a los propios destinatarios o a quien ejerza sobre ellos la patria potestad.
+La correspondencia dirigida a una persona, pero al cuidado de otra, se entregará indistintamente a cualquiera de ellas.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 462.
 
-Las correspondencias dirigidas a personas que residan en hoteles, casas de huéspedes, fábricas y otros establecimientos similares, se entregarán por conducto del administrador o encargado de los mismos, quien estará obligado a devolverlas a la Oficina de Correos respectiva, cuando no fueren recibidas por los destinatarios en un plazo de ocho días.
+La correspondencia dirigida a personas que hubieran fallecido, podrá entregarse al albacea, o devolverse al remitente.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 463.
 
-En los lugares en que no haya oficinas de Correos la entrega y recibo de las correspondencias se hará por las autoridades locales o por las personas o instituciones que especialmente autorice la Dirección General de Correos y Telégrafos.
+La correspondencia dirigida a una asociación, sociedad o institución, se entregará a su representante legítimo.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 464.
 
-Si habiendo dos o más personas de un mismo nombre y apellido, alguna de ellas abriere o recibiere correspondencias que no le pertenezcan, estará obligada a devolverlas con la anotación correspondiente en el sobre o envoltura, a la Oficina de Correos, y esta las hará llegar a poder del verdadero destinatario con las explicaciones del caso.
+En caso de disolución de una sociedad, asociación o institución, su correspondencia se entregará a liquidador; y en los de quiebra o liquidación judicial notificada a la oficina de correos, a la autoridad judicial que conozca de ellas o al síndico.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 465.
 
-En caso de que a la vez ocurran dos o más personas a una Oficina de Correos, alegando tener derecho a la entrega de una misma correspondencia, se suspenderá dicha entrega hasta que se decida la controversia por la autoridad competente.
+Cuando lo ordene por escrito una autoridad judicial, la correspondencia podrá retenerse, entregarse a persona diversa de la destinataria o a la propia autoridad.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 466.
 
-Si alguna autoridad judicial decretare que se suspenda la entrega de determinada correspondencia o que se le entregue a ella misma, o a otra persona distinta de aquella a quien sea dirigida, y esa resolución se comunicare por escrito y para su cumplimiento a la Oficina de Correos y Telégrafos respectiva, ésta obedecerá la orden bajo la responsabilidad del juez que la haya dictado.
+La correspondencia dirigida a los menores de edad se entregará indistintamente a los propios destinatarios o a quien ejerza sobre ellos la patria potestad.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 467.
 
-Las correspondencias ordinarias y registradas permanecerán a disposición de los interesados durante los plazos que fije el reglamento respectivo.
+Cuando por error la entrega de la correspondencia se efectúe a persona diversa de la destinataria quien la reciba está obligada a devolverla desde luego a la oficina de correos. Si hubiere abierto la pieza, anotará al reverso del sobre o envoltura, bajo su firma, la razón que explique el hecho.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 468.
 
-Las correspondencias que dentro de los plazos que determinen los reglamentos, no pudieren ser entregadas a los destinatarios o remitentes, se enviarán a la Dirección General de Correos y Telégrafos con el carácter de rezagos. Dichas correspondencias estarán sujetas a ser vendidas, rematadas, destruidas, o a ser objeto de cualquier acto de disposición por parte del correo, en los términos de las disposiciones reglamentarias.
+La correspondencia permanecerá en las oficinas de correos a disposición de los interesados durante los plazos que indique el reglamento de esta ley.
 
-### CAPITULO VII. Franquicia postal
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+
+### CAPITULO VII. Rezago
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 469.
 
-De las correspondencias caídas en rezagos que contengan valores o documentos de importancia, se formarán listas que serán publicadas por las administraciones del Ramo, por el plazo que fije el reglamento, y cumplido este requisito se procederá en los términos del artículo anterior.
+La correspondencia que dentro de los plazos señalados en el reglamento no sea entregada a los destinatarios o devuelta a los remitentes, cae en rezago.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 470.
 
-Se entienden por envíos irregulares para los efectos de esta ley:
+La correspondencia caída en rezago permanecerá en la Dirección General de Correos a disposición de los remitentes o destinatarios, durante dos meses la ordinaria y seis la registrada, contados desde la fecha de su depósito.
 
-I.- Las correspondencias no franqueadas;
+Concluídos los plazos antes señalados, la Dirección General de Correos podrá enajenarla o disponer de ella en cualquier otra forma.
 
-II.- Las que carezcan en la (sic) absoluto de dirección;
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
-III.- Las que tengan dirección insuficiente, errónea o incomprensible;
+## TITULO TERCERO. Servicios
 
-IV.- Las que no tengan un empaque adecuado al contenido;
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
 
-V.- Los envíos que contengan correspondencias de uno o más remitentes para diversos destinatarios o las de diversos remitentes para el mismo destinatario, cuando no estén franqueadas separadamente con el porte que corresponda a cada pieza, y
+### CAPITULO VIII. Servicio ordinario
 
-VI.- Los que se despachan en sobres con ventanilla transparente cuando no se reúnan las condiciones que determine el reglamento.
-
-Las correspondencias a que se refiere este artículo, recibirán el tratamiento que determine el reglamento.
-
-### CAPITULO VIII. De las tarifas postales
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 471.
 
-El servicio de correspondencias registradas, consiste en la conducción de los envíos que circulen por Correo mediante registros especiales para cada pieza, estando obligadas las oficinas postales a otorgar al remitente una constancia del depósito y a recabar la firma del destinatario para comprobar su entrega.
+El servicio ordinario consiste en el recibo, transporte y entrega de correspondencia de la cual no se lleva control escrito por cada pieza.
 
-### CAPITULO IX. Del depósito, cambio de dirección, reexpedición, entrega y devolución de los envíos
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+
+### CAPITULO IX. Servicio de registro
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 472.
 
-Los remitentes de correspondencias registradas, además de los derechos que esta ley concede a los de correspondencias ordinarias, tendrán el de recibir por cada pieza registrada que se extravíe, siempre que la pérdida no sea originada por casos fortuitos o de fuerza mayor, una indemnización de cinco pesos por las de primera clase, y de dos pesos por las de tercera o cuarta clases. Tratándose de los envíos de quinta clase, la indemnización será por el valor real de la pérdida, pero sin que pueda, en ningún caso, excederse de la cantidad de diez pesos.
+El Servicio de registro consiste en el manejo documentado de cada pieza, desde su recibo hasta su entrega.
+
+Se aceptará en este servicio la correspondencia de primera, tercera, cuarta y quinta clases.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 473.
 
-Cesará toda responsabilidad para el Correo respecto de las correspondencias perjudicadas:
+Cesará toda responsabilidad para la Dirección General de Correos respecto de la correspondencia registrada.
 
-I.- Cuando se hayan entregado a las personas que tengan derecho a recibirlas;
+I.- Cuando se haya entregado a las personas que tengan derecho a recibirla.
 
-II.- Por haberse dispuesto de las piezas en rezagos, vencidos los plazos reglamentarios, sin haber sido reclamadas o cuando haya transcurrido un año a partir de la fecha del depósito, sin que se haya hecho reclamación;
+II.- Por haber transcurrido seis meses, a partir de la fecha del depósito, sin que se haya hecho reclamación.
 
-III.- Por haber transcurrido seis meses, contados desde la fecha en que se hubiere decretado y notificado, conforme al reglamento, la indemnización a que se refiere el artículo anterior, sin que el interesado haya ocurrido a cobrar su importe, y
+III.- Por haber transcurrido tres meses, contados desde la fecha en que se hubiere notificado la indemnización procedente, sin que el interesado haya ocurrido a cobrar su importe.
 
-IV.- Por pérdidas de las correspondencias certificadas ocasionadas por caso fortuito o fuerza mayor, salvo o dispuesto especialmente para seguros postales.
+IV.- Por pérdida debida a caso fortuito o de fuerza mayor.
 
-### CAPITULO X. Rezagos
+V.- Por el pago de la indemnización.
+
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+
+### CAPITULO X. Servicio de reembolso
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 474.
 
-En los casos de extravío de correspondencias registradas, exentas de franqueo, no habrá lugar a la indemnización de que trata el artículo 472 de esta ley.
+El servicio de reembolso consiste en la conducción de un envío para entregarse al destinatario, previo pago en las condiciones que fije el reglamento, de la cantidad que señale el remitente.
+
+Se aceptará en este servicio la correspondencia registrada de primera, tercera y quinta clases.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 475.
 
-El servicio de entrega inmediata consiste en la preferencia que para su despacho y entrega se concede a las correspondencias que se depositen con tal carácter.
+La cantidad máxima por la que puede aceptarse un envío con reembolso será de cinco mil pesos; en casos especiales podrá aceptarse por mayor cantidad.
 
-Todos los envíos de esta índole quedarán sujetos a las disposiciones que rijan en el servicio a que correspondan, con la única excepción de la preferencia y rapidez en su trámite y entrega.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 476.
 
-La conducción de correspondencias por la vía aérea, se sujetará a las disposiciones generales siguientes:
+Cesará toda responsabilidad para la Dirección General de Correos respecto de la correspondencia con reembolso:
 
-I.- La entrega de las correspondencias del servicio aéreo se efectuará en el primer reparto siguiente a su llegada a la Oficina destinataria, salvo las que hayan cubierto el servicio de entrega inmediata, que deberán distribuirse con la preferencia y celeridad establecidas para este último servicio;
+I.- Por la entrega de los envíos a los destinatarios o sus representantes a cambio de giro postal correspondiente a favor del remitente.
 
-II.- Las reexpediciones, devoluciones y envíos a rezagos, se efectuarán por los medios de conducción ordinarios, salvo el caso de que los interesados hubieren cubierto previamente el porte aéreo que corresponda al nuevo recorrido, y
+II.- Por su devolución al remitente.
 
-III.- Las demás que establezcan los reglamentos.
+III.- Por el pago al remitente del giro que cubra su valor o por la prescripción de dicho giro.
+
+IV.- Por haber transcurrido seis meses a partir de la fecha del depósito, sin que se haya hecho la debida reclamación.
+
+V.- Por haber transcurrido tres meses, contados desde la fecha en que se hubiere notificado la indemnización procedente, sin que el interesado haya ocurrido a cobrar su importe.
+
+VI.- Por pérdida debida a caso fortuito o de fuerza mayor.
+
+VII.- Por el pago de la indemnización.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 477.
 
-El Correo no asume responsabilidad ninguna para con los remitentes de las correspondencias del servicio aéreo cuando por casos fortuitos o fuerza mayor se suspendan o retarden los vuelos.
+Los remitentes de correspondencia con reembolso podrán modificar y aun cancelar la cantidad que las oficinas de correos deban cobrar a los destinatatarios.
 
-### CAPITULO XI. De los envíos irregulares
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+
+### CAPITULO XI. Servicio postal
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 478.
 
-El servicio de reembolsos consiste en la conducción de un envío que sólo podrá entregarse al destinatario, previo pago que éste haga, por medio de giros postales o telegráficos o vales postales a favor del remitente, del valor que éste hubiere señalado a la pieza en el momento de su depósito.
+El servicio postal de seguro consiste en la obligación que contrae la Dirección General de Correos de responder aun en los casos fortuitos o de fuerza mayor por la pérdida de los envíos o por faltantes o avería de su contenido, hasta por la cantidad en que se hubieren asegurado.
+
+Se aceptará en este servicio la correspondencia registrada de primera, tercera, cuarta y quinta clases.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 479.
 
-Además de los derechos que esta Ley y sus Reglamentos conceden a los remitentes de toda clase de correspondencias, tratándose de envíos gravados con reembolso, tendrán los que en seguida se señalan:
+La cantidad máxima por la que pueden asegurarse los envíos será de cinco mil pesos.
 
-I.- Modificar el importe del reembolso primitivamente señalado o retirarlo en absoluto, siempre que el envío no se hubiere entregado al destinatario; pero sin que en estos casos el Ramo asuma más responsabilidad que la que señala la parte final del artículo 478, y
+La admisión de piezas aseguradas por mayor cantidad sólo podrá efectuarse con autorización de la Dirección General de Correos.
 
-II.- Percibir una indemnización por el extravío de un reembolso cuando no sea motivado por caso fortuito o de fuerza mayor, cuya indemnización se fijará de acuerdo con el valor del objeto perdido, aunque el monto de la indemnización no podrá exceder de veinte pesos, salvo en los casos en que el envío se hubiere depositado con el carácter de seguro postal.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 480.
 
-La entrega de los envíos sujetos a reembolso deberá hacerse, precisamente, a cambio del giro o vale postal respectivo, quedando prohibido en lo absoluto, a los empleados de Correos aceptar dinero en efectivo, pagarés, libranzas, cheques o cualquier otro documento.
+La correspondencia asegurada que se reexpida a solicitud de los remitentes o destinatarios, deberá cubrir nuevamente el derecho de seguro.
+
+Cuando el destinatario sea quien solicite la reexpedición, no podrá modificar la cantidad en que el remitente haya asegurado la pieza.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 481.
 
-El servicio de seguros postales consiste en la obligación que contrae el Correo de responder aun en los casos fortuitos o de fuerza mayor, por deterioro, merma o pérdida parcial, o bien por el valor íntegro de la pieza que se la (sic) haya confiado para su conducción, en los términos del reglamento respectivo.
+Los remitentes de piezas postales aseguradas están obligados:
 
-En ningún caso las indemnizaciones que se paguen excederán de la cantidad en que se asegure el envío.
+I.- A declarar con exactitud el contenido y valor real de sus envíos, pudiendo fijar el valor del seguro en cantidad menor, excepto cuando se remitan los objetos de que trata el Artículo 444 en su fracción I.
+
+II.- A presentar abiertos sus envíos en el momento del depósito, con excepción de aquellos casos en que el reglamento autorice otra forma de presentación.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 482.
 
-Los remitentes de seguros postales están obligados:
+Cesará la responsabilidad de la Dirección General de Correos respecto de la correspondencia asegurada:
 
-I.- A declarar con exactitud el contenido y valor real de sus envíos; sin embargo, es facultativo para los interesados fijar el valor del seguro en cantidad menor en los casos del seguro parcial o limitado, y
+I.- Por la entrega de los envíos a satisfacción de la persona legalmente capacitada para recibirlos.
 
-II.- A presentar sus envíos abiertos cuando se trate de billetes de banco, moneda y toda clase de valores al portador.
+II.- Por el transcurso del plazo de seis meses, sin que se hubiere presentado reclamación.
 
-### CAPITULO XII. Servicio de correspondencias certificadas
+III.- Por haber transcurrido tres meses, contados desde la fecha en que se hubiere notificado la indemnización procedente, sin que el interesado haya ocurrido a cobrar su importe.
+
+IV.- Por el pago de la indemnización.
+
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+
+### CAPITULO XII. Servicio de acuse de recibo de piezas registradas
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 483.
 
-Las reclamaciones por deterioro o pérdida parcial o total de los seguros postales, deberán presentarse por los remitentes dentro del plazo de un año, contado desde la fecha del depósito del envío.
+El servicio de acuse de recibo consiste en recabar en una tarjeta especial la firma del destinatario de un envío registrado, y en entregar esa tarjeta al remitente como constancia de la entrega.
 
-### CAPITULO XIII. Del servicio de entrega inmediata
+Este servicio podrá solicitarse en el momento del depósito de la pieza o dentro de los treinta días siguientes.
+
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+
+### CAPITULO XIII. Servicio de correspondencia con derechos por cobrar
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 484.
 
-En casos excepcionales y a juicio de la Dirección General de Correos y Telégrafos, se concederán a los destinatarios el pago del seguro en substitución del remitente.
+El servicio de correspondencia con derechos por cobrar consiste en la aceptación de sobres o tarjetas, sin franquear, que el permisionario proporciona a sus corresponsables. Esta facilidad podrá ampliarse a cualquier otro envío de primera clase ordinario o registrado. El permisionario pagará los derechos correspondientes al recibir las piezas a su consignación.
 
-### CAPITULO XIV. Del servicio postal aéreo
+El uso del servicio requerirá autorización que conforme al reglamento, otorgará la Dirección General de Correos.
+
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+
+### CAPITULO XIV. Servicio de entrega inmediata
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 485.
 
-Cesará la responsabilidad del Correo respecto de los seguros postales:
+El servicio de entrega inmediata consiste en la preferencia en el despacho y entrega de la correspondencia.
 
-I.- Por la entrega de los envíos a persona legalmente capacitada para recibirlos;
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
 
-II.- Por el transcurso del plazo a que se refiere el artículo 483 sin que se hubiere presentado reclamación alguna;
+### CAPITULO XV. Servicio de correogramas
 
-III.- Si los interesados no se presentan a cobrar la indemnización una vez transcurrido el plazo de seis meses, contados desde la fecha en que se hubiere decretado y notificado, en los términos del reglamento, y
-
-IV.- Por el pago de la indemnización correspondiente.
-
-### CAPITULO XV. Del servicio de reembolsos
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 486.
 
-Los fondos del servicio postal de ahorros sólo podrán ser destinados al pago de los depósitos que se hagan y prestaciones inherentes al mismo servicio.
+El servicio de correogramas consiste en la conducción por la vía postal más rápida, de mensaje escrito en carta-sobre de emisión oficial con las preferencias, además, del servicio de entrega inmediata.
 
-### CAPITULO XVI. Servicio de seguros postales
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+
+### CAPITULO XVI. Servicio de almacenaje
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 487.
 
-Por todo depósito de dos pesos o mayor cantidad que se haga, se abonará, a contar del día primero del mes siguiente, a su fecha, el interés que fije el Ejecutivo Federal, siempre que dicho depósito no se retire antes de tres meses, contados desde el día en que comience a devengar intereses.
+El servicio de almacenaje consiste en la conservación y guarda de la correspondencia de tercera y quinta clases que el público deposita. Este servicio regirá en los términos que fije el reglamento de esta Ley.
 
-En ningún caso se abonarán intereses por cantidades mayores de dos mil pesos.
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
 
-### CAPITULO XVII. Servicio postal de ahorros
+### CAPITULO XVII. Servicio de cajas de apartado
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 488.
 
-Los ahorros menores de dos pesos se harán por medio de timbres especiales que se adherirán en tarjetas que las oficinas de correos y telégrafos proporcionarán gratuitamente.
+El servicio de cajas de apartado consiste en el alquiler de casillas en que se coloca la correspondencia dirigida a las personas que tenga derecho a recibirla en ellas.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 489.
 
-Los menores de edad podrán obtener certificados de ahorros, sin la intervención de sus padres o tutores, pero no los podrán hacer efectivos sin esa intervención, salvo cuando hayan cumplido dieciséis años de edad.
+Las cajas de apartado se darán por contrato escrito, en los términos que señale el reglamento de esta Ley.
+
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
 
 ### CAPITULO XVIII. Servicio de giros postales
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+
 ###### ARTICULO 490.
 
-Las oficinas de correos y telégrafos no podrán abrir cuentas de ahorro a instituciones o firmas comerciales.
+El servicio de giros postales consiste en la situación de dinero por medio de libramientos a favor de beneficiario determinado.
+
+Estos libramientos pueden endosarse por una sola vez.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 491.
 
-La Dirección General de Correos y Telégrafos administrará el servicio postal de ahorros.
+En casos de extravío o pérdida de giros postales podrá expedirse un duplicado y hasta un triplicado los cuales surtirán los mismos efectos del original. El reglamento de esta Ley, determinará los requisitos que deban llenarse para su expedición.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 492.
 
-Los giros postales para su validez, deberán llevar una numeración progresiva, expresar el nombre de la Oficina expedidora, la fecha de expedición, nombre del beneficiario, valor del giro expresado con número y letra y oficina que deba verificar el pago. Dichos giros estarán autorizados con la firma autógrafa del jefe de la oficina, expedidora y llevarán el sello fechador de la misma oficina y no deberán contener alteraciones.
+Las personas que otorguen conocimiento para identificar como beneficiario de un giro postal a quien no lo sea, están obligadas a reintegrar a la oficina de correos respectiva, la cantidad que por ese medio llegue a cobrarse indebidamente.
+
+En caso de rehusarse a pagar, se procederá a denunciar el hecho a la autoridad competente.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 493.
 
-En los casos de extravío de giros postales, el remitente tendrá derecho a que se le expida un duplicado, y en casos excepcionales hasta un triplicado, conforme al reglamento, que surtirán los mismos efectos legales que el original.
+La cantidad máxima por la que podrá expedirse un giro postal será de cinco mil pesos; sólo en casos especiales pueden expedirse por mayor cantidad, conforme lo determine el reglamento.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 494.
 
-Las personas que otorguen conocimientos para el cobro de un giro postal en favor de quien no fuere el verdadero beneficiario, estarán obligadas a reintegrar al correo el importe del giro cobrado indebidamente, sin perjuicio de las penas en que pueden incurrir en el caso de delito.
+Se suspenderá el pago de un giro postal o se efectuará a persona distinta de la beneficiaria, cuando lo ordene por escrito una autoridad judicial.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 495.
 
-El derecho al cobro de los giros postales prescribe en un plazo de tres años contados desde la fecha de su expedición.
+El derecho para cobrar un giro postal prescribe después de dos años contados desde la fecha de su expedición, a no ser que este plazo se interrumpa por la reclamación del interesado o porque el giro esté sujeto a litigio.
 
-### CAPITULO XIX. Servicios de vales postales
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+
+### CAPITULO XIX. Servicio de aviso de pago de giros
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 496.
 
-Los giros postales circulares no se expedirán por cantidades menores de cien pesos, ni mayores de cinco mil, y serán pagaderos parcial o totalmente en cualquier Administración de Correos y Telégrafos autorizada para desempeñar el servicio de giros postales.
+El servicio de aviso de pago de giros consiste en otorgar al solicitante una constancia del pago del libramiento.
 
-### CAPITULO XX. Tarjetas de identidad
+Este servicio podrá solicitarse en el momento de la expedición del giro o dentro de los treinta días siguientes.
+
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+
+### CAPITULO XX. Servicio de vales postales
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 497.
 
-En los casos de extravío de un giro postal circular, podrá expedirse un duplicado, pero sólo con orden expresa de la Dirección de Correos y Telégrafos y hasta que ésta haya obtenido datos precisos acerca de las cantidades cobradas a cuenta de dicho giro.
+El servicio de vales postales consiste en la situación de dinero por medio de libramientos a favor de beneficiario determinado y con las denominaciones que fija el reglamento de esta Ley.
+
+Estos libramientos no son endosables.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 498.
 
-Los beneficiarios de giros postales circulares, estarán obligados a otorgar recibo por las cantidades que se les paguen a cuenta y a entregar el giro y la tarjeta de identificación correspondiente a la Oficina que les haga efectivo el saldo.
+El cobro de vales postales extraviados o perdidos se hará mediante recibo que otorgue el interesado.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 499.
 
-Los vales postales serán de valor fijo, según lo determine el reglamento respectivo.
+Las personas que otorguen conocimiento para identificar como beneficiario de un vale postal a quien no lo sea, están obligadas a reintegrar a la oficina de correos respectiva, la cantidad que por ese medio llegue a cobrarse indebidamente.
+
+En caso de rehusarse a pagar, se procederá a denunciar el hecho a la autoridad competente.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 500.
 
-Los vales postales contendrán los siguientes datos:
+Se suspenderá el pago de un vale postal o se efectuará a persona distinta de la beneficiaria, cuando lo ordene por escrito una autoridad judicial.
 
-I.- Nombre de la oficina que los expida, fecha de expedición, nombre del beneficiario, oficina a cargo de la cual se soliciten y firma del jefe de la oficina expedidora.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 501.
 
-Los vales postales no serán endosables.
+El derecho para cobrar un vale postal precribe (sic) después de dos años contados desde la fecha de su expedición, a no ser que este plazo se interrumpa por la reclamación del interesado, o porque el vale esté sujeto a litigio.
 
-En caso de extravío podrán expedirse duplicados por las oficinas de origen en la forma que prescriba el reglamento respectivo.
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
 
-### CAPITULO XXI. Cheques postales para viajeros
+### CAPITULO XXI. Servicio postal de ahorro
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 502.
 
-El importe de los vales postales podrá reintegrarse al remitente previo recibo extendido al reverso del vale original o de su duplicado.
+El servicio postal de ahorro consiste en recibir del público depósitos que devengan intereses, los cuales pueden ser retirados por los cuentahabientes en los términos y condiciones que fijan esta Ley y el reglamento respectivo.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 503.
 
-El derecho al cobro de vales postales prescribe en tres años, contados desde la fecha de su expedición.
+Las cuentas de ahorro solamente se abrirán con depósito de cinco pesos o mayor cantidad.
+
+El interés será fijado por el reglamento y se abonará en la cuenta del depositante. En ningún caso se abonarán los intereses sobre saldos inferiores a cinco pesos ni mayores de cuarenta mil.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 504.
 
-Las tarjetas de identidad se expedirán conforme a los modelos de la Convención Postal Universal.
+Los abonos a la cuenta podrán hacerse en estampillas postales de ahorro y en efectivo. En el primer caso, los abonos no podrán ser inferiores a cinco pesos y en el segundo a cincuenta centavos.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 505.
 
-Las tarjetas de identidad podrán expedirse por todas las Administraciones de Correos y Telégrafos. La vigencia de las tarjetas, así como el precio y demás condiciones de las mismas, estarán de acuerdo con las determinaciones de la Convención Postal Universal.
+La Dirección General de Correos queda autorizada en los términos de esta Ley y del reglamento para recibir depósitos de ahorro en cada cuenta hasta por cuarenta mil pesos, de los cuales el cuentahabiente puede disponer parcialmente, a la vista, siempre que la cantidad retirable en esa forma y en una sola vez no exceda de la suma de quinientos pesos, o del treinta por ciento del saldo, y de que hayan transcurrido, por lo menos, quince días del último retiro a la vista cuando éste haya sido superior a cien pesos, y por lo menos siete días, cuando el retiro no haya excedido de esa suma.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 506.
 
-Los cheques postales para viajeros sin libramientos nominativos, endosables, con valor de cinco, diez, veinte, cincuenta y cien pesos.
+No se abrirá cuenta de ahorros a las sociedades, asociaciones o instituciones.
 
-Estos cheques estarán autorizados con la firma autógrafa de los jefes de las Oficinas de Correos y Telégrafos que los expidan y serán pagados a la vista y sin previo aviso en cualquiera de las Oficinas que la Dirección de Correos y Telégrafos haya autorizado para el desempeño del servicio de giros postales.
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
 
-### CAPITULO XXII. Contestación por cobrar de propaganda comercial
+### CAPITULO XXII. Servicio postal de identificación
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 507.
 
-Los cheques postales para viajeros se expedirán en cantidades ilimitadas, dentro de los valores que fija el artículo anterior, y causarán el premio que señale el Ejecutivo de la Unión.
+El servicio postal de identificación consiste en la expedición de una tarjeta a nombre de una persona física determinada, en que se acredita que la firma y demás datos ostentados en ella, corresponden a dicha persona.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 508.
 
-Prescribe el cobro de los cheques para viajeros, en un plazo de tres años contados desde la fecha de su expedición.
+La vigencia de las tarjetas postales de identificación será de tres años, a partir de la fecha de su expedición.
 
-### CAPITULO XXIII. Servicios de correogramas y entregas extrarrápidas a domicilio
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+
+### CAPITULO XXIII. Nuevos servicios
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 509.
 
-En los casos de robo o extravío de cheques postales para viajeros, no se expedirán duplicados, pero su importe será reintegrado a quien justifique tener derecho a ello, de acuerdo con las leyes respectivas.
+El Ejecutivo de la Unión queda facultado para establecer nuevos servicios postales.
 
-### CAPITULO XXIV. De la conducción de correspondencias
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1951)</small>
+
+## TITULO CUARTO. Derecho de los Remitentes y Destinatarios
+
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+
+### CAPITULO XXIV. Derecho de los remitentes
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 510.
 
-El servicio a que se refiere este capítulo, se usará previa autorización de la Dirección de Correos y Telégrafos para enviar dentro de la propaganda comercial impresa sobres o tarjetas para la contestación, sin que dichos sobres o tarjetas lleven los timbres de franqueo.
+Los remitentes de correspondencias tienen los siguientes derechos:
 
-Los timbres correspondientes serán cubiertos por el mismo remitente de la propaganda en el momento que le sean entregadas las respuestas de sus clientes.
+I.- Obtener la devolución de sus envíos.
 
-Las cuotas y demás disposiciones de este servicio las fijará el reglamento respectivo.
+II.- Obtener que se reexpidan sus envíos a distinto lugar de su primitivo destino.
+
+III.- Cambiar de destinatario.
+
+IV.- Modificar las condiciones de entrega de sus envíos.
+
+V.- Ampliar o reducir el plazo de conservación para la entrega de sus envíos en los términos que fija el Reglamento.
+
+VI.- Obtener informes sobre sus envíos:
+
+VII.- Percibir las indemnizaciones siguientes:
+
+a).- Tratándose de seguros postales.
+
+Por pérdida: el importe total en que se hubiere asegurado la pieza.
+
+Por faltante: el importe de lo que faltare.
+
+Por avería: el importe del daño causado.
+
+b).- Tratándose de reembolsos.
+
+Por pérdida, siempre que no se deba a caso fortuito o de fuerza mayor: hasta treinta pesos.
+
+c).- Tratándose de registrados.
+
+Por perdida siempre que no se deba a caso fortuito o de fuerza mayor: hasta quince pesos.
+
+VIII.- Tratándose de correspondencia ordinaria, registrada de tercera clase con cuota reducida, y registrada de cualquier clase con franquicia, la Dirección General de Correos no asume ninguna responsabilidad.
+
+IX.- Los demás que les concedan esta Ley y su reglamento.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 511.
 
-El servicio a que se refiere este capítulo consiste en entregar con extraordinaria celeridad, mensajes y toda clase de objetos que pueda transportar el Correo conforme a la presente ley.
+Los remitentes se considerarán propietarios de sus envíos, mientras éstos permanezcan en poder del correo.
 
-Este servicio será desempeñado por personal contratado para el efecto en los términos que establezca el reglamento respectivo.
+(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
 
-### CAPITULO XXV. Disposiciones generales
+### CAPITULO XXV. Derecho de los destinatarios
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 512.
 
-La conducción de correspondencias se hará de acuerdo con lo que establezcan las prescripciones reglamentarias respectivas, observándose respecto a la celebración de contratos, las normas que establece este capítulo.
+Los destinatarios de correspondencias tienen los siguientes derechos:
 
-### CAPITULO UNICO
+I.- Obtener que sus envíos se reexpidan a distinto lugar de su primitivo destino.
+
+II.- Elegir entre la vía aérea o de superficie para la reexpedición de sus envíos.
+
+III.- Elegir el medio de entrega entre los enumerados por el artículo 452 de esta Ley.
+
+IV.- Ampliar el plazo de conservación de los envíos dentro de los límites fijados por el reglamento, cuando el remitente no haya dado órdenes en contrario.
+
+V.- Obtener informes sobre los envíos a su consignación.
+
+VI.- Percibir las indemnizaciones a que se refiere el artículo 510 fracción VII, cuando el remitente haya renunciado a ellas.
+
+VII.- Los demás que les concedan esta Ley de (sic) sus reglamentos.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1951)</small>
+
+## TITULO QUINTO. Tasas
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1951)</small>
+
+### CAPITULO XXVI. Derechos
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 513.
 
-Los contratos para el transporte de correspondencias se otorgarán en documento privado, sea cual fuere el valor de la remuneración que se estipule, pero la duración de los mismos no será menor de un año ni mayor de cuatro.
+Por la prestación de servicios que enumera esta Ley se pagarán previamente los derechos que señale la tarifa.
+
+Los pagos que excepcionalmente hayan de hacerse con posterioridad, estarán sujetos a lo prevenido por el reglamento.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 514.
 
-Los contratos se adjudicarán en favor del solicitante que mejores condiciones ofrezca y preste mayores garantías, prefiriéndose en igualdad de condiciones al que ya hubiere sido contratista, si cumplió fielmente durante la vigencia de su contrato con los compromisos que contrajo.
+El franqueo de la correspondencia se cubrirá:
+
+I.- En estampillas postales.
+
+II.- Con marcas de máquinas franqueadoras autorizadas por la Dirección General de Correos.
+
+III.- En efectivo.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1951)</small>
+
+### CAPITULO XXVII. Franquicia
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 515.
 
-Los contratistas, aun cuando sean extranjeros, estarán sujetos a la jurisdicción de los Tribunales de la República, y nunca podrán alegar, respecto de sus contratos, de conducción de correspondencias o de los asuntos relacionados con éstos, derecho alguno de extranjería, bajo cualquiera forma que sea, y sólo tendrán los mismos derechos y medios de hacerlos valer, que los que las leyes de la República concedan a los mexicanos.
+Disfrutará de franquicia postal la correspondencia que en seguida se enumera:
+
+I.- La Oficial de los Poderes Legislativo, Ejecutivo y Judicial de la Federación.
+
+II.- La particular del Presidente de la República, Secretarios y Subsecretarios de Estado, Jefes de los Departamentos Autónomos y Director General de Correos.
+
+III.- La oficial de los Poderes Legislativo, Ejecutivo y Judicial de los gobiernos de los Estados y la de los municipios, cuando esté dirigida a oficinas federales.
+
+IV.- La que se refiere a la Estadística y Censos Nacionales.
+
+V.- La oficial del Registro Civil.
+
+VI.- La que dirijan los médicos a las autoridades sanitarias dando aviso de enfermos contagiosos.
+
+VII.- Las publicaciones periódicas que reunan los requisitos que fije el reglamento.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 516.
 
-Queda terminantemente prohibido, bajo pena de nulidad, ceder en todo o en parte, los derechos y obligaciones de un contrato para el transporte de correspondencias sin consentimiento expreso de la Secretaría de Comunicaciones.
+La franquicia postal que concede el artículo anterior, se contrae únicamente al derecho del servicio ordinario por vías de superficie.
+
+Dicha franquicia sólo se hará extensiva al derecho de registro, cuando así lo requiera la importancia de la correspondencia comprendida de las fracciones I a VI de dicho artículo.
+
+Los exhortos a las actuaciones que remitan las autoridades en juicio de amparos podrán cursarse por la vía aérea cuando sea necesario, y gozar de franquicia por los derechos postales de los servicios de entrega inmediata y acuse de recibo.
+
+La correspondencia del servicio internacional disfrutará de franquicia en los casos que así lo determinen expresamente los convenios y tratados internacionales.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 517.
 
-El cumplimiento de los contratos a que se refiere este capítulo deberá garantizarse por medio de fianzas o depósitos en efectivo, en los términos del artículo 17 de esta ley.
+El Ejecutivo de la Unión, por conducto de la Secretaría de Comunicaciones y Obras Públicas, podrá conceder franquicia para usar el servicio ordinario por vías de superficie, a instituciones culturales y científicas.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1951)</small>
+
+### CAPITULO XXVIII. Emisión de estampillas. Maquinas franqueadoras
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 518.
 
-Los empleados del Ramo de Correos y Telégrafos, no podrán ser contratistas de Correos ni representantes o agentes de éstos, bajo pena de destitución.
+Las emisiones de estampillas postales se harán, retirarán, sustituirán o resellarán por decreto del Presidente de la República. El decreto contendrá las características de las estampillas y las condiciones que deban cumplirse para la vigencia, retiro o caducidad. El Presidente de la República podrá también decretar emisiones extraordinarias para conmemorar algún suceso histeórico (sic) de trascendencia nacional o internacional; en el decreto respectivo se fijará el monto.
+
+La Dirección General de Correos aportará para la formulación de los decretos, todos los datos y elementos a su disposición.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 519.
 
-Todas las autoridades están obligadas a prestar auxilio dentro de la esfera de sus atribuciones, a los empleados, conductores o contratistas del servicio postal que lo solicitaren, para facilitar el transporte de correspondencias, evitar que se interrumpa o retarde el servicio por cualquier causa, averiguar las pérdidas o extravíos que las correspondencias sufrieren y proteger a dichos servicios en caso de delito, procediendo de acuerdo con sus facultades contra las personas que aparezcan como responsables.
+Para la introducción al país, así como para la fabricación, venta o uso de maquinas franqueadoras se requerirá permiso previo de la Secretaría de Comunicaciones y Obras Públicas, por conducto de la Dirección General de Correos.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1951)</small>
+
+### CAPITULO XXIX. Tarifa
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 520.
 
-Para llevar a efecto la detención de empleados contratistas o conductores postales que conduzcan correspondencias, es necesario que la autoridad encargada de la detención provea la forma en que las correspondencias confiadas al detenido continúen su curso con la mayor rapidez y seguridad posible, hasta la Oficina de Correos más próxima.
+El Ejecutivo de la Unión fijará la tarifa de derechos postales de acuerdo con las (sic) clase y naturaleza de las correspondencias y demás condiciones del servicio.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 521.
 
-Los conductores de correspondencias postales y telegráficas y los medios de que hagan uso para el transporte de las mismas, tendrán preferencia en el tránsito de las calles, caminos, vados, puentes, etcétera, respecto de cualquier otro viajero y sus vehículos, con excepción de los que pertenezcan al Cuerpo de Bomberos, Ambulancias de la Policía o Instituciones de Beneficencia.
+La tarifa para las correspondencias y servicios internacionales se sujetará a las disposiciones de los tratados y convenios respectivos.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 522.
 
-Además de los servicios a que se refiere la presente ley, el Correo desempeñará todos los nuevos servicios que el Ejecutivo de la Unión estime conveniente establecer.
+La Secretaría de Comunicaciones y Obras Públicas hará la conversión de las cuotas que establezcan los convenios internacionales a moneda nacional, tomando como base los tipos oficiales. Cuando así lo determinen dichos convenios, aplicará la tarifa interna.
 
 # LIBRO SEPTIMO. Sanciones
+
+### CAPITULO UNICO
 
 ###### ARTICULO 523.
 
@@ -4658,7 +4988,7 @@ Se suspenderán hasta por seis meses las licencias del personal técnico aeroná
 
 La Secretaría de Comunicaciones revocará las licencias del personal aeronáutico cuando a su juicio y por contumacia, así lo merezcan.
 
-(REFORMADO, D.O.F. 23 DE ENERO DE 1950)(F. DE E., D.O.F. 11 DE MAYO DE 1950)
+(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
 
 ###### ARTICULO 565.
 
@@ -4822,9 +5152,9 @@ Los permisionarios y trabajadores que en la fecha de publicación de esta Ley es
 
 Se concede un plazo de seis meses a partir de la publicación de esta Ley, para que las personas o empresas que estén obligadas a ello, soliciten de la Secretaría de Comunicaciones las concesiones o permisos a que se refiere el artículo 9º fracción V de la presente Ley.
 
-###### ARTICULO 3o.
+###### ARTICULO 3º.
 
-Las empresas de comunicaciones marítimas que exploten servicio público de pasajeros y carga en la fecha de la publicación de esta Ley, están obligadas a presentar a la Secretaría de Comunicaciones, para su revisión, las tarifas respectivas dentro de un plazo que no excederá de tres meses, contados a partir de la fecha misma de su publicación.
+Los permisos para maniobras de servicio particular que se hayan otorgado con anterioridad, continuarán en vigor; pero sus titulares deberán solicitar a la Secretaría de Comunicaciones y Obras Públicas, la regularización de los mismos permisos, dentro de un plazo de noventa días.
 
 ###### ARTICULO 4o.
 
@@ -5015,3 +5345,25 @@ El Ejecutivo de la Unión expedirá los reglamentos derivados de esta Ley, debie
 ###### ARTICULO 7.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+D.O.F. 5 DE ENERO DE 1951.
+
+DECRETO QUE REFORMA EL ARTICULO 124 DE LA LEY DE VIAS GENERALES DE COMUNICACION.
+
+###### ARTICULO 1º.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO 2º.
+
+Las organizaciones de trabajadores maniobristas que actualmente están prestando el servicio público de maniobras, continuarán desempeñando ese servicio en las mismas condiciones en que han venido haciéndolo, hasta en tanto se constituyan en sus respectivas localidades las empresas de maniobras con arreglo a este decreto, para lo cual se concede un término de noventa días, contados a partir de la fecha de la vigencia del mismo. Si a la expiración de este término no se hubieren constituído las empresas mencionadas, las organizaciones de trabajadores maniobristas titulares de los permisos respectivos en las localidades donde esto acontezca, deberán continuar prestando el servicio.
+
+###### ARTICULO 4º.
+
+Se deroga el decreto de 31 de diciembre de 1945 publicado en el "Diario Oficial" de 14 de marzo de 1946, que modificó el artículo 124 de la Ley de Vías Generales de Comunicación.
+
+D.O.F. 5 DE ENERO DE 1951.
+
+DECRETO QUE MODIFICA EL LIBRO SEXTO DE LA LEY DE VIAS GENERALES DE COMUNICACION DE 31 (SIC) DE DICIEMBRE DE 1939.
+
+UNICO.- El presente decreto entrará en vigor 15 días después de su publicación en el "Diario Oficial" de la Federación.
