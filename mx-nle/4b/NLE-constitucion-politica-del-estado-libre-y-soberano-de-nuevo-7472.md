@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1976-09-29"
+last_updated: "1978-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1978
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -289,25 +289,23 @@ Los Diputados gozan de una libertad absoluta para hablar; en consecuencia, son i
 
 Los Diputados Suplentes entrarán en funciones en caso de falta absoluta de los Propietarios respectivos, y también en caso de falta temporal, cuando sean llamados por el Congreso en los términos que disponga el Reglamento del mismo.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1968)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1978)</small>
 
 ###### Art. 55.
 
-La Legislatura tendrá cada año dos períodos de sesiones ordinarias. El primero se abrirá el 16 de septiembre y terminará el 15 de diciembre y será prorrogable por un mes. El segundo comenzará el día 1o. de marzo y terminará el día último de abril siendo también prorrogable por un mes.
+La Legislatura tendrá cada año dos Períodos de Sesiones Ordinarias. El primero se abrirá el 16 de septiembre y terminará el 15 de diciembre y podrá ser prorrogado hasta por un mes. El segundo comenzará el día primero de mayo y terminará el día último de junio, pudiendo también ser prorrogable por un mes.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1973)</small>
-
-En el año de la elección para la renovación del Titular del Poder Ejecutivo, el Congreso abrirá un periodo ordinario de sesiones del 1o. de julio al 10 de agosto, para atender primordialmente la calificación de la elección de Gobernador del Estado y tomarle: el 1o. de agosto, en sesión solemne la protesta de ley a quien resulte electo, este periodo será prorrogable hasta por quince días.
+En el año de la elección para la renovación del Titular del Poder Ejecutivo, el Segundo Período Ordinario de Sesiones comprenderá del 1o. de mayo al 10 de agosto, para atender primordialmente, durante el lapso adicional, a la calificación de la elección de Gobernador del Estado y tomarle el primero de agosto, en Sesión Solemne, la protesta de Ley a quien resulte electo. Este Período será prorrogable hasta por quince días.
 
 ###### Art. 56.
 
 Tanto para la instalación del Congreso como para la apertura de sesiones se necesita la presencia de la mayoría de los Diputados. Cuando por cualquiera circunstancia el período de sesiones ordinarias no comenzare el 16 de Septiembre, el Congreso, al reunirse, podrá permanecer en ejercicio, según el estado de los negocios, todos los tres meses de sesiones ordinarias, o concluir éstas cuando lo crea conveniente.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1968)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1978)</small>
 
 ###### Art. 57.
 
-A la apertura del período de sesiones ordinarias que se inicie el 1o. de marzo asistirá el Gobernador y el Tribunal Superior de Justicia. El primero rendirá un informe en el que manifieste la situación que guarda el Estado. El Presidente del Congreso contestará en términos generales.
+Durante la segunda decena del mes de junio, en el Segundo Período de Sesiones, se reservará una Sesión Solemne para el día y hora que señale el Congreso a propuesta del Ejecutivo, a la que deberá asistir el propio Gobernador del Estado y el Tribunal Superior de Justicia. En dicha sesión, el primero presentará un Informe por escrito en el que manifieste la situación y perspectivas generales del Estado y la Administración Pública. El Presidente del Congreso contestará en términos generales.
 
 ###### Art. 58.
 
@@ -1580,3 +1578,9 @@ DECRETO NÚMERO 7
 ###### ARTICULO SEGUNDO
 
 - Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE AGOSTO DE 1978.
+
+1o.- El Informe de Gobierno correspondiente al lapso que se inició el primero de marzo de 1978, comprenderá quince meses y medio aproximadamente, por razón de las presentes reformas constitucionales.
+
+2o.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
