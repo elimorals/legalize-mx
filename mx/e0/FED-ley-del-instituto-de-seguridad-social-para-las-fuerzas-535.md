@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-de-seguridad-social-para-las-fuerzas-535"
 country: "mx"
 rank: "ley"
 publication_date: "1976-06-29"
-last_updated: "1981-01-05"
+last_updated: "1981-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=535&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSFAM"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 1981.
 
 Ley publicada en el Diario Oficial de la Federación el martes 29 de junio de 1976.
 
@@ -342,7 +342,9 @@ IV. Los Soldados y Cabos que no sean reenganchados y pasen a la reserva.
 
 Los haberes de retiro, pensiones y compensaciones se cubrirán con cargo al Erario Federal.
 
-Cada seis años, cuando menos, se hará una revisión de la cuantía de los haberes de retiro y de las pensiones militares para mejorarlos en caso de aumento en el costo de la vida, de acuerdo con los índices elaborados por el Banco de México y teniendo en cuenta las posibilidades presupuestales.
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 1981)</small>
+
+La cuantía de loshaberes (sic) de retiro y de las pensiones, tal como la estén percibiendo los beneficiarios, se incrementará al mismo tiempo y en igual proporción en que aumenten los haberes de los militares en activo.
 
 ###### ARTICULO 22.
 
@@ -3033,3 +3035,7 @@ D.O.F. 5 DE ENERO DE 1981.
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
 SEGUNDO.- Se derogan el segundo párrafo del Artículo 152 y la fracción III del Artículo 229, de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas, así como las disposiciones que se opongan a este decreto.
+
+D.O.F. 27 DE NOVIEMBRE DE 1981.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
