@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-la-ley-organica-del-poder-judicial-del-estado-120
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-03-31"
-last_updated: "2003-01-15"
+last_updated: "2004-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2004.
 
 Reglamento publicado en el Folleto Anexo al No. 26 del Periódico Oficial del Estado de Chihuahua, el sábado 31 de marzo de 1990.
 
@@ -667,9 +667,11 @@ X.- Cumplir y hacer que los secretarios y empleados del juzgado cumplan con toda
 
 XI.- Todas las demás que se deriven del ejercicio de las facultades que le otorgue la ley y las que expresamente se les señale.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE AGOSTO DE 2004)</small>
+
 ###### ARTICULO 82.
 
-El Secretario de Acuerdos será el jefe administrativo de la oficina; dirigirá las labores de ella de conformidad con las facultades que le otorgue la ley, y las instrucciones y determinaciones del Juez. Tendrá las siguientes obligaciones:
+El Secretario de Acuerdos será el jefe administrativo de las oficina (sic); dirigirá las labores de ella de conformidad con las facultades que le otorgue la ley, y las instrucciones y determinaciones del Juez. Tendrá las siguientes obligaciones:
 
 I.- Distribuir entre los empleados las labores del juzgado, del modo más conveniente para el mejor y pronto despacho;
 
@@ -681,9 +683,25 @@ IV.- Sustituir al Juez en sus ausencias en los términos señalados por la ley;
 
 V.- Actuar con el carácter de Notificador y Ministro Ejecutor, cuando en el juzgado no hubiere persona que ejerza estas funciones, o habiéndola, se encuentre impedida, o cuando el Juez, en vista a las necesidades del despacho, así lo determine. El Secretario cuidará de practicar estas diligencias en horas que no perjudiquen las labores del despacho, sin más excepción que los casos urgentes a juicio del Juez;
 
-VI.- Asentar en los escritos que reciba, el día y hora de su presentación, las fojas que contengan y los documentos que se acompañen; asimismo, asentará razón igual en la copia cuando se exhiba, que deberá firmar y sellar para resguardo del promovente. El secretario cuando las labores así lo requieran y el interesado no se oponga, podrá encomendar su recepción a los empleados del juzgado, quienes cumplirán con los requisitos anteriores. Si en el juzgado existiere sello de recibido, éste sustituirá la constancia a que alude esta fracción, pero en todos los casos, se asentará la firma de la persona que reciba el escrito y en la copia que presente el promovente;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2004)</small>
 
-VII.- Dar cuenta al Juez bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a su presentación de todos los escritos y promociones de los interesados, así como de los oficios y demás documentos que se reciban en el juzgado;
+VI.- Asentar en los escritos que reciba, el día y la hora de su presentación, las fojas que contengan y los documentos que se acompañen.
+
+El secretario, cuando las labores del Juzgado así lo requieran, podrá encomendar su recepción a los empleados del juzgado, quienes cumplirán con los requisitos anteriores.
+
+Si en el juzgado existiere el sello de recibido, éste sustituirá la constancia a que alude esta fracción, pero en todos los casos, se asentará en el escrito, el nombre y firma de la persona que lo reciba.
+
+Cuando se trate de promociones de término, éstas podrán presentarse el día en que aquel concluya, fuera del horario de labores de los tribunales, en el domicilio del Secretario o persona autorizada para ello por el Juez respectivo, o en su caso, depositándolas en buzón que se instale en lugar de fácil acceso del edificio que ocupe la sala o juzgado al que aquellas se dirijan.
+
+En tales promociones se asentará constancia del reloj marcador con el que para ese efecto cuente dicho buzón, distribuyéndose cada promoción, el día hábil siguiente, a donde corresponda, asentándose, al calce del sello de recibido, la firma de la persona autorizada para ello, en los términos del párrafo anterior.
+
+Para tales efectos, el Oficial de Turnos procederá a recabar del buzón los escritos que hubieren sido presentados, procediendo a su captura digital y envío a la oficina correspondiente.
+
+Esta regla no es aplicable al caso que establece el artículo 832 del Código de Procedimientos Civiles respecto a la presentación del escrito de expresión de agravios cuando el apelante resida en lugar diverso al de la residencia del tribunal de apelación.
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2004)</small>
+
+VII.- Dentro de las veinticuatro horas siguientes a su recepción, y bajo su mas estricta responsabilidad, dar cuenta al Juez de todos los oficios, escritos, documentos y promociones recibidas en el Juzgado;
 
 VIII.- Guardar en el secreto del juzgado los valores, pliegos, escritos o documentos que la ley señale;
 
@@ -728,6 +746,44 @@ XXII.- Conservar en su poder los sellos del juzgado;
 XXIII.- Realizar las labores que siendo compatibles con su función, le encomiende el Juez; y
 
 XXIV.- Desempeñar las demás funciones que determine la ley con oportunidad y rapidez.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+
+ARTICULO 82 A.- En cada oficialía de turnos, según lo requiera el volumen de trabajo, se designará un encargado que auxiliado por el personal que se requiera y autorice el presupuesto, realice la recepción y captura de la documentación que se reciba para ser enviada a los tribunales del Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+
+ARTICULO 82 B.- El encargado deberá cerciorarse que la documentación presentada se encuentra dirigida correctamente a los órganos jurisdiccionales del Poder Judicial del Estado a los que presta servicio, recibiéndolos junto con las copias y anexos, imprimiendo el sello respectivo que contendrá fecha y hora de presentación y asentando el número de copias y anexos, registrándola a continuación.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+
+ARTÍCULO 82 C.- La documentación recibida en las oficialías de turno se registrará de manera consecutiva a su fecha y hora de recepción en sistema computarizado, del que se obtendrá la impresión por triplicado de la boleta de turno, las cuales serán selladas y firmadas por la persona que haya recibido el documento: un ejemplar se entregará al interesado, otro al órgano jurisdiccional al que se turne el asunto y el último se conservará por la Oficialía para consulta, inspección y archivo.
+
+El sistema computarizado generará una base de datos de cada uno de los documentos que se reciban y el destino que se le dió, la boleta de turno contendrá los siguientes datos:
+
+a).- Fecha y hora de presentación;
+
+b).- Número de registro consecutivo que corresponda a su recepción;
+
+c).- Nombre del actor, representante o apoderado;
+
+d).- Nombre del demandado, representante o apoderado;
+
+e).- Tipo de juicio;
+
+f).- Materia;
+
+g).- En su caso número del expediente;
+
+h).- Organo jurisdiccional al que se turna el documento;
+
+i).- Número de copias y anexos que se reciben;
+
+En caso de interrupción de la captura por sistema computarizado, se procederá a la consignación de los datos correspondientes en un libro que especialmente se lleve al efecto.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+
+ARTICULO 82 D.- La oficialía de turnos proporcionará oportunamente a los interesados, a partir de la presentación de los documentos respectivos, información relativa al turno del asunto y el número de registro que le fue asignado, así como la fecha en que se envió al órgano jurisdiccional correspondiente.
 
 ###### ARTICULO 83.
 
@@ -1223,21 +1279,127 @@ En todo caso deberá consignarse por escrito el contrato que se celebre para la 
 
 Cuando se trate de la realización de obra pública, el Pleno por conducto de su Presidente celebrará convenio con el Poder Ejecutivo para que la Secretaría de Obras Públicas auxilie al Poder Judicial en la ejecución de la obra, ajustándose para ello a lo que al respecto previene la Ley de Obra Pública del Estado.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE ENERO DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE AGOSTO DE 2004)</small>
 
-## TITULO UNDECIMO. DE LAS REFORMAS A ESTE REGLAMENTO
+## TITULO UNDECIMO. DEL SERVICIO DE CONSULTA REMOTA
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 124], P.O. 15 DE ENERO DE 2003)
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE AGOSTO DE 2004)</small>
+
+DEL SERVICIO
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE AGOSTO DE 2004)</small>
 
 ###### ARTICULO 134.
 
-Las reformas a este reglamento serán aprobadas por el Pleno del Supremo Tribunal. El acuerdo relativo se publicará por una sola vez en el Periódico Oficial del Estado, señalándose con precisión la fecha de su entrada en vigor.
+El Poder Judicial del Estado, a través del Departamento de Informática del Supremo Tribunal de Justicia, proporcionará a quien lo solicite y satisfaga los requisitos que este Reglamento establece, un servicio de Consulta Remota por medios informáticos a través de la Red (Internet) por medio del cual los usuarios estarán en aptitud de consultar el contenido de los diversos expedientes que se tramitan en los tribunales del Poder Judicial del Estado.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 125], P.O. 15 DE ENERO DE 2003)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE AGOSTO DE 2004)</small>
 
 ###### ARTICULO 135.
 
-Sólo los magistrados podrán proponer al Pleno iniciativas de reforma a este Reglamento. Se presentarán al Presidente por escrito, razonando sus fundamentos e incluyendo el texto de reforma propuesto. El Presidente dará cuenta al Pleno en el Acuerdo siguiente a la fecha de su recepción.
+El servicio para los usuarios contratantes estará disponible 24 horas al día los 365 días del año con excepción de aquellos días que sean precisos para realizar el mantenimiento preventivo y/o correctivo de los equipos dedicados a la prestación de dicho servicio que sean propiedad del Poder Judicial; y en los casos en que por causas de fuerza mayor o caso fortuito se deje de prestar el servicio.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+
+###### ARTICULO 136.
+
+El usuario tendrá acceso al servicio de manera constante dentro del horario establecido en el apartado anterior, pero su permanencia en el sistema no podrá exceder una hora continua. Una vez rebasado este tiempo, el usuario será desconectado automáticamente, sin perjuicio que de acuerdo a sus necesidades, se conecte nuevamente.
+
+El servicio se inhabilitará durante el resto del día cuando se reitere por dos veces consecutivas el uso de claves no autorizadas.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+
+###### ARTICULO 137.
+
+El servicio se prestará en aquellas ciudades en que exista el servicio adecuado de Internet.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+
+###### ARTICULO 138.
+
+El servicio prestado costará $300.00 mensuales, pagaderos por adelantado dentro de los tres primeros días hábiles del mes del servicio.
+
+La falta de pago de las cuotas en el término correspondiente traerá como consecuencia la interrupción del servicio que podrá reanudarse una vez que el usuario pague las cuotas correspondientes
+
+Las cuotas pagadas por la prestación del servicio en ningún caso serán reembolsables, aun cuando el servicio no se haya utilizado o se haya utilizado parcialmente.
+
+Si el usuario desea dar por terminado el servicio, deberá enviar aviso por escrito al Departamento de Informática del Tribunal, cinco días hábiles antes de la terminación del mes, para evitarse pagar la cuota correspondiente al mes siguiente.
+
+La información que se proporcione a través de éste servicio es de carácter puramente informativo y carecerá de validez legal ante tribunales y/o terceras personas. El uso de la información obtenida será en todo momento de la exclusiva responsabilidad del usuario;
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE AGOSTO DE 2004)</small>
+
+DE LOS USUARIOS
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+
+###### ARTICULO 139.
+
+Usuario es toda persona física que celebre contrato con el Poder Judicial para obtener el servicio mencionado en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+
+###### ARTICULO 140.
+
+El Usuario tendrá las siguientes obligaciones y responsabilidades:
+
+a).- Contar con el equipo y software necesarios para tener acceso al sistema, el cual deberá satisfacer las especificaciones y requerimientos mínimos necesarios que se recomienden en el contrato respectivo.
+
+b).- Eximirse de realizar cualquier actividad con la que pretenda solucionar cualquier falla en el servicio.
+
+c).- Usar en forma debida y lícita su número de cuenta y contraseña (password), ya que estas son personales, únicas e intransferibles. Está prohibido compartir o ceder su clave de acceso a terceras personas para cualquier fin.
+
+d).- Eximirse de utilizar el servicio para transmitir cualquier documento que vaya en contra de las disposiciones legales o material protegido por la ley de derechos de autor.
+
+e).- No podrá transferir, reproducir, publicar, explotar o distribuir total o parcialmente y con cualquier fin, la información obtenida a través del sistema, sin el consentimiento del autor, licenciatario o titular del derecho patrimonial, así como por autorización previa y por escrito del Tribunal.
+
+f).- Notificar en forma fehaciente, dentro de las 48 horas siguientes a que ocurra el suceso, la revocación que su cliente le haya hecho para consultar un expediente.
+
+La omisión en el cumplimiento de esta obligación traerá como consecuencia la suspensión total y permanente del servicio al usuario;
+
+g).- Notificar cualquier cambio en la información de su cuenta proporcionada en el contrato respectivo.
+
+h).- Eximirse de utilizar cualquier medio mecánico o electrónico para evitar ser desconectado automáticamente;
+
+i).- Pagar dentro de los tres primeros días hábiles de cada mes la cuota acordada en el contrato respectivo. Cuando el servicio se contrate después del tercer día hábil del mes, se hará el ajuste del pago de la cuota por los días que resten de transcurrir de ese mes, a fin de que el servicio se contrate por meses completos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE AGOSTO DE 2004)</small>
+
+DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+
+###### ARTICULO 141.
+
+Todas las cuestiones que surjan en la aplicación del presente Reglamento y disposiciones relativas, se resolverá (sic) por el Presidente del Tribunal, después de oír a los interesados y recabar la información que estime necesaria.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+
+###### ARTICULO 142.
+
+El costo del servicio prestado será revisado periódicamente por el Pleno a fin de ajustarlo a los factores de inflación.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+
+###### ARTICULO 143.
+
+La (sic) modificaciones que se hagan a los términos de los contratos que se celebren con base en estas disposiciones, serán notificados a los usuarios indistintamente por medio de la página Web del Poder Judicial o del correo electrónico que el suscriptor proporcione.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. REFORMADO], P.O. 11 DE AGOSTO DE 2004)</small>
+
+### CAPITULO UNDECIMO PRIMERO (SIC). DE LAS REFORMAS A ESTE REGLAMENTO
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 11 DE AGOSTO DE 2004)</small>
+
+###### ARTICULO 144.
+
+Las reformas a este Reglamento serán aprobadas por el Pleno del Supremo Tribunal. El acuerdo relativo se publicará por una sola vez en el Periódico Oficial del Estado, señalándose con precisión la fecha de su entrada en vigor.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 11 DE AGOSTO DE 2004)</small>
+
+###### ARTICULO 145.
+
+Sólo los Magistrados podrán proponer al Pleno iniciativas de reforma a este Reglamento. Se presentarán al Presidente por escrito, razonando sus fundamentos e incluyendo el texto de reforma propuesto. El Presidente dará cuenta al Pleno en el Acuerdo siguiente a la fecha de su recepción.
 
 El Pleno acordará lo que estime pertinente a fin de estudiar y resolver adecuadamente la iniciativa planteada.
 
@@ -1280,3 +1442,15 @@ P.O. 15 DE ENERO DE 2003.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO NO. 16 POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 27 Y 82 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO".]
 
 TRANSITORIO UNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE AGOSTO DE 2004.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO NO. 40, TOMADO POR EL H. PLENO, MEDIANTE EL CUAL SE REFORMÓ EL ARTÍCULO 82 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO".]
+
+TRANSITORIO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE AGOSTO DE 2004.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO NO. 41 TOMADO POR EL H. PLENO, MEDIANTE EL CUAL SE REFORMÓ EL ARTÍCULO 134 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, PARA AGREGARLE UN TÍTULO UNDÉCIMO PRIMERO Y MODIFICAR EL CONTENIDO DEL TÍTULO UNDÉCIMO".]
+
+TRANSITORIO ÚNICO: Las presente (sic) modificaciones al Reglamento de la Ley Orgánica entrarán en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado, y los Contratos celebrados para la prestación de la consulta remota hasta esa fecha, se ajustarán a sus términos.
