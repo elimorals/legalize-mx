@@ -4,7 +4,7 @@ identifier: "FED-ley-de-fiscalizacion-superior-de-la-federacion-18419"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2000-12-29"
+last_updated: "2000-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18419&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2000-12-27"
 
 LEY DE FISCALIZACION SUPERIOR DE LA FEDERACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
 
-Ley publicada en el Diario Oficial de la Federación, el viernes 29 de diciembre de 2000.
+Ley publicada en el Diario Oficial de la Federación el viernes 29 de diciembre de 2000.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -471,9 +471,11 @@ La Auditoría Superior de la Federación podrá abstenerse de sancionar al infra
 
 ### Capítulo IV. Del Recurso de Reconsideración
 
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 59.
 
-Las sanciones y demás resoluciones que emita la Auditoría Superior de la Federación conforme a esta Ley, podrán ser impugnadas por el servidor público o por los particulares, personas físicas o morales, ante la propia Auditoría Superior de la Federación, mediante el recurso de reconsideración o bien, mediante juicio de nulidad ante el Tribunal Fiscal de la Federación. El recurso de reconsideración se interpondrá dentro de los 15 días siguientes a la fecha en que surta efectos la notificación del pliego o resolución recurrida.
+Las sanciones y demás resoluciones que emita la Auditoría Superior de la Federación conforme a esta Ley, podrán ser impugnadas por el servidor público o por los particulares, personas físicas o morales, ante la propia Auditoría Superior de la Federación, mediante el recurso de reconsideración o bien, mediante juicio de nulidad ante el Tribunal Federal de Justicia Fiscal y Administrativa. El recurso de reconsideración se interpondrá dentro de los 15 días siguientes a la fecha en que surta efectos la notificación del pliego o resolución recurrida.
 
 ###### Artículo 60.
 
@@ -535,7 +537,7 @@ V. Citar, por conducto de su Mesa Directiva, al Auditor Superior de la Federaci�
 
 VI. Conocer el proyecto de presupuesto anual de la Auditoría Superior de la Federación, así como el informe anual de su ejercicio, y turnarlo a la Junta de Coordinación Política de la Cámara para los efectos legales conducentes;
 
-VII. Evaluar si la Auditoría Superior de la Federación cumple con las funciones que conforme a la Constitución y esta Ley le corresponden y proveer, lo necesario para garantizar su autonomía técnica y de gestión.
+VII. Evaluar si la Auditoría Superior de la Federación cumple con las funciones que conforme a la Constitución y esta Ley le corresponden y proveer, lo necesario para garantizar su autonomía técnica y de gestión;
 
 VIII. Presentar a la Cámara la propuesta de los candidatos a ocupar el cargo de Auditor Superior de la Federación, así como la solicitud de su remoción, en términos de lo dispuesto por el tercer párrafo del artículo 79 constitucional;
 
@@ -880,3 +882,11 @@ SEPTIMO.- Los asuntos que se encuentren en trámite o en proceso en la Contadur�
 México, D.F., a 20 de diciembre de 2000.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Ricardo Francisco García Cervantes, Presidente.- Sen. Yolanda González Hernández, Secretario.- Dip. Manuel Medellín Milán, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de diciembre de dos mil.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 31 DE DICIEMBRE DE 2000.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
