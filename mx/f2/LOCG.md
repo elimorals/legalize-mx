@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2000-10-09"
+last_updated: "2001-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 3 de septiembre de 1999.
 
@@ -568,7 +568,9 @@ c) Impulsar y realizar los estudios que versen sobre disposiciones normativas, r
 
 3. La Comisión del Distrito Federal tiene a su cargo tareas de dictamen legislativo y de información para el ejercicio de las atribuciones de la Cámara previstas en el apartado A del artículo 122 constitucional.
 
-4. La Comisión de Vigilancia de la Contaduría Mayor de Hacienda realiza las tareas que le marcan la Constitución y la correspondiente ley reglamentaria.
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2001)</small>
+
+4. La Comisión de Vigilancia de la Auditoría Superior de la Federación realiza las tareas que le marca la Constitución y la correspondiente ley reglamentaria.
 
 5. La Comisión Jurisdiccional se integrará por un mínimo de 12 diputados y un máximo de 16, a efecto de que entre ellos se designen a los que habrán de conformar, cuando así se requiera, la sección instructora encargada de las funciones a que se refiere la ley reglamentaria del Título Cuarto de la Constitución en materia de responsabilidades de los servidores públicos.
 
@@ -1799,3 +1801,7 @@ D.O.F. 9 DE OCTUBRE DE 2000.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE DICIEMBRE DE 2001.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
