@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-instituto-tecnologico-del-estado-de-sonora-122
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-10-02"
-last_updated: "1987-07-13"
+last_updated: "2003-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 1987.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE OCTUBRE DE 2003.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el sábado 2 de octubre de 1976.
 
@@ -171,9 +171,11 @@ El Consejo sesionará válidamente en primera convocatoria, con la asistencia de
 
 Sin embargo, para tratar los asuntos que señalan las fracciones I y IV del artículo 9o será necesaria la asistencia de cuando menos dos terceras partes de sus miembros y las decisiones se tomarán por una mayoría de votos que represente la mitad más uno del total de miembros del Consejo. En todos los casos, el Rector tendrá voto de calidad.
 
+> <small>(REFORMADO, B.O. 22 DE OCTUBRE DE 2003)</small>
+
 ###### ARTICULO 15.
 
-El Rector será representante legal del Instituto, Presidente del Consejo Directivo y ejecutor de sus acuerdos. Durará en sus funciones cuatro años y podrá ser reelecto.
+El Rector será representante legal del Instituto, Presidente del Consejo Directivo y ejecutor de sus acuerdos. Durará en sus funciones cuatro años y podrá ser reelecto por un periodo más.
 
 ###### ARTICULO 16.
 
@@ -458,3 +460,21 @@ B.O. 13 DE JULIO DE 1987.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 22 DE OCTUBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a las del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La rectoría que inició funciones en el año 1999, ejercerá su encargo hasta el término para el cual fue electa.
+
+###### ARTÍCULO CUARTO.
+
+Si al entrar en vigor el presente Decreto, una persona se encuentra desempeñando el cargo de Rector después de haberlo ejercido por más de dos periodos, convocará y realizará la elección que corresponda en los términos de la Ley dentro de un plazo no mayor de sesenta días naturales, sin que pueda participar en dicho proceso, ni aquél que llegare a ocupar el cargo de Rector provisionalmente.
