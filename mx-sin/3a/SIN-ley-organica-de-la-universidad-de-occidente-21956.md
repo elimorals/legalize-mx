@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-universidad-de-occidente-21956"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-08-10"
-last_updated: "2001-08-10"
+last_updated: "2003-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DE LA UNIVERSIDAD DE OCCIDENTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 10 de agosto de 2001.
 
@@ -141,13 +141,23 @@ II. El Consejo Académico Universitario;
 
 III. El Rector;
 
-IV. Los Coordinadores Generales de las Unidades;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2003)</small>
+
+IV. Los Directores de las Unidades;
 
 V. Los Consejos Técnicos de las Unidades;
 
-VI. Los Directores de Institutos; y,
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2003)</small>
 
-VII. Los Jefes de los Departamentos Académicos.
+VI. Los Directores de Institutos;
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2003)</small>
+
+VII. Los Jefes de los Departamentos Académicos; y,
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2003)</small>
+
+VIII. Los demás que con tal carácter apruebe el Consejo Académico Universitario y se establezcan en el Estatuto Orgánico.
 
 #### SECCIÓN I. DE LA JUNTA DIRECTIVA
 
@@ -179,7 +189,9 @@ La Junta Directiva tendrá las siguientes atribuciones:
 
 I. Elegir, resolver sobre su renuncia y remover al Rector por causa justificada, así como resolver en los casos de ausencia del titular, cuando exceda de dos meses;
 
-II. Designar a los Coordinadores Generales de Unidad, con base en las ternas que le presente el Rector; resolver sobre sus renuncias y removerlos por causa justificada;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2003)</small>
+
+II. Designar a los Directores de las Unidades, con base en las ternas que le presente el Rector; resolver sobre sus renuncias y removerlos por causa justificada;
 
 III. Designar al Auditor Externo;
 
@@ -213,7 +225,9 @@ I. El Rector, quien será su presidente;
 
 II. Un representante de la Junta Directiva;
 
-III. Los Coordinadores Generales de las Unidades;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2003)</small>
+
+III. Los Directores de las Unidades;
 
 IV. Los Directores de Institutos;
 
@@ -221,7 +235,9 @@ V. Los Jefes de los Departamentos Académicos; y,
 
 VI. Dos representantes del personal académico y dos de los alumnos de cada Unidad electos de entre los Departamentos Académicos que la integran.
 
-El Secretario General de la Universidad fungirá como Secretario del Consejo, en el cual tendrá voz pero no voto.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2003)</small>
+
+El Vicerrector Académico fungirá como Secretario del Consejo, en el cual tendrá voz pero no voto.
 
 ###### Artículo 17.
 
@@ -233,7 +249,9 @@ II. Aprobar, a propuesta del Rector, el calendario escolar;
 
 III. Expedir normas y disposiciones reglamentarias de aplicación general para la adecuada regulación de las actividades universitarias;
 
-IV. Establecer, a propuesta del Rector, Unidades, Departamentos Académicos e Institutos de Investigación;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2003)</small>
+
+IV. Establecer, a propuesta del Rector, Unidades, Divisiones, Departamentos Académicos e Institutos de Investigación;
 
 V. Aprobar, a propuesta del Rector, los programas de créditos educativos para estudiantes y profesores;
 
@@ -267,9 +285,11 @@ En ambos casos se requerirá para sesionar válidamente en primera convocatoria 
 
 El Rector será el representante legal de la Universidad, durará en su cargo tres años y sólo podrá ser electo para otro periodo igual.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2003)</small>
+
 ###### Artículo 22.
 
-El Rector será sustituido en sus ausencias temporales no mayores de dos meses por el Secretario General de la Universidad.
+El Rector será sustituido en sus ausencias temporales no mayores de dos meses por el Vicerrector Académico.
 
 ###### Artículo 23.
 
@@ -293,7 +313,9 @@ V. Haberse distinguido en su especialidad y gozar de reconocimiento general como
 
 El Rector tendrá las facultades y obligaciones siguientes:
 
-I. Representar legalmente a la Universidad de Occidente con el carácter de apoderado general con todas las facultades generales y especiales que requieran cláusula especial conforme a la Ley, para ejercer actos de administración y dominio; para pleitos y cobranzas; para otorgar y suscribir títulos de crédito; para celebrar en forma mancomunada con el Presidente de la Junta Directiva de la Universidad, a propuesta del Consejo Académico Universitario y con aprobación de la Junta Directiva, contratos traslativos de dominio de los bienes inmuebles destinados al patrimonio de la Universidad, así como para celebrar los contratos por los cuales se graven dichos bienes y las operaciones de crédito necesarias para su financiamiento. Igualmente tendrá facultades para formular querellas y denuncias en los casos de delitos, así como otorgar el perdón extintivo de la acción penal y para promover y desistirse del juicio de amparo. Podrá substituir, reservándose su ejercicio, el mandato en todo o en parte, para lo cual podrá otorgar, sustituir o revocar poderes dando cuenta a la Junta Directiva y al Consejo Académico Universitario del uso del mandato conferido;
+(REFORMADA, P.O. 15 DE AGOSTO DE 2003) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2007)
+
+I. Representar legalmente a la Universidad de Occidente, para lo cual podrá otorgar, sustituir o revocar poderes dando cuenta a la Junta Directiva y al Consejo Académico Universitario;
 
 II. Conducir las labores generales de planeación de la Universidad;
 
@@ -303,9 +325,13 @@ IV. Ejecutar los acuerdos y resoluciones que emanen del Consejo Académico Unive
 
 V. Convocar y presidir las sesiones del Consejo Académico Universitario;
 
-VI. Proponer ante la Junta Directiva las ternas para la designación de los Coordinadores Generales de las Unidades;
+(REFORMADA, P.O. 15 DE AGOSTO DE 2003) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2007)
 
-VII. Designar y remover libremente al Secretario General, al Abogado General, a los Directores de Institutos, al Secretario de Administración y Finanzas, al Contralor Interno y a los titulares de las dependencias administrativas;
+VI. Proponer ante la Junta Directiva las ternas para la designación de los Directores de las Unidades;
+
+(REFORMADA, P.O. 15 DE AGOSTO DE 2003) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2007)
+
+VII. Designar y remover libremente a los Vicerrectores, a los Directores de Instituto, al Director de Asuntos Jurídicos, al Contralor Interno y a los titulares de las dependencias administrativas;
 
 VIII. Proponer ante el Consejo Académico Universitario la integración de las comisiones universitarias permanentes y transitorias;
 
@@ -329,7 +355,9 @@ XVII. Conceder licencias o permisos o autorizar las condiciones en que deban oto
 
 XVIII. Presentar ante el Consejo Académico Universitario un informe anual que reseñe las actividades de la Universidad realizadas durante el año anterior, el cual incluirá los planes y programas académicos, administrativos y financieros que se encuentren en proceso de ejecución;
 
-XIX. Firmar en unión del Secretario General las constancias, certificados, diplomas, títulos y grados académicos que se otorguen;
+(REFORMADA, P.O. 15 DE AGOSTO DE 2003) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2007)
+
+XIX. Firmar en unión del Vicerrector Académico las constancias, certificados, diplomas, títulos y grados académicos que se otorguen;
 
 XX. Vetar en forma razonada, los acuerdos dictados por el Consejo Académico Universitario o los Consejos Técnicos de las Unidades;
 
@@ -341,25 +369,35 @@ XXIII. Promover lo necesario para la buena marcha de las actividades académicas
 
 XXIV. Las demás que le señalen el Estatuto Orgánico y otras normas y disposiciones reglamentarias de la Universidad.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2003)</small>
+
 ###### Artículo 26.
 
-La conducción de las actividades operativas generales de la Universidad corresponderá al Secretario General.
+La planeación, conducción y evaluación de las áreas operativas generales de la Universidad, así como la formulación de propuestas de normas con base en las políticas institucionales corresponderá a los Vicerrectores.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 27.
 
-Para ser Secretario General se exigirán los mismos requisitos que para ser Rector, con excepción de la edad que será de treinta años y la escolaridad que deberá ser al menos de licenciatura.
+Para ser Vicerrector Académico se exigirán los mismos requisitos que para ser Rector. Igualmente, para los demás Vicerrectores, con excepción de la edad, que será de 30 años y la escolaridad que deberá ser al menos de licenciatura.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 28.
 
-La representación de la Universidad en asuntos judiciales corresponderá al Abogado General.
+La representación de la Universidad en asuntos judiciales corresponderá al Director de Asuntos Jurídicos.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 29.
 
-Los Coordinadores Generales de las Unidades tendrán a su cuidado la atención de éstas y la coordinación de las actividades académicas y administrativas internas. Durarán en su cargo tres años y sólo podrán ser designados para otro periodo igual.
+Los Directores de las Unidades tendrán a su cuidado la atención de éstas y la coordinación y operación de los programas, proyectos y procesos académicos acordes a las políticas y normas institucionales. Durarán en su cargo tres años y sólo podrán ser designados para otro periodo igual.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 30.
 
-Para ser Coordinador General de Unidad se exigirán los mismos requisitos que para ser Rector, con excepción de la edad que será de treinta años y la escolaridad que deberá ser al menos de licenciatura.
+Para ser Director de Unidad se exigirán los mismos requisitos que para ser Rector, con excepción de la edad que será de 30 años y la escolaridad que deberá ser al menos de licenciatura.
 
 ###### Artículo 31.
 
@@ -373,19 +411,25 @@ Para ser Director de Instituto se exigirán los mismos requisitos que para ser R
 
 Para ser Jefe de Departamento Académico se exigirán los mismos requisitos que para ser Rector, con excepción de la edad que será de veintiocho años y la escolaridad que deberá ser al menos de licenciatura.
 
-Los Jefes de Departamento Académico serán designados y removidos libremente por los Coordinadores Generales de la Unidad respectiva y tendrán las facultades y obligaciones que se señalen en el Estatuto Orgánico y otras normas y disposiciones reglamentarias de la Universidad.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2003)</small>
+
+Los Jefes de Departamento Académico serán designados y removidos libremente por el Director de la Unidad respectiva, tendrán las facultades y obligaciones que se señalen en el Estatuto Orgánico y otras normas y disposiciones reglamentarias de la Universidad.
 
 ###### Artículo 34.
 
 En cada Unidad habrá un Consejo Técnico que estará integrado por:
 
-I. El Coordinador General de la Unidad quien será su presidente;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2003)</small>
+
+I. El Director de la Unidad quien será su presidente;
 
 II. Los Jefes de los Departamentos Académicos de la Unidad; y,
 
 III. Dos representantes del personal académico y dos de los alumnos de la respectiva Unidad, electos de entre los Departamentos Académicos que la integran.
 
-El Secretario Académico quien fungirá como Secretario del Consejo Técnico, en el cual tendrá voz pero no voto. Será designado y removido libremente por el Coordinador General de la Unidad respectiva.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2003)</small>
+
+El Subdirector Académico quien fungirá como Secretario del Consejo Técnico, en el cual tendrá voz pero no voto. Será designado y removido libremente por el Director de la Unidad respectiva.
 
 ###### Artículo 35.
 
@@ -421,9 +465,11 @@ Este personal, para la defensa de sus intereses, gozará del derecho de formar p
 
 Lo dispuesto en el segundo párrafo de este artículo, no es aplicable a los titulares de los órganos de la Universidad y funcionarios universitarios, que serán considerados personal de confianza para los efectos a que haya lugar.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2003)</small>
+
 ###### Artículo 41.
 
-Para los efectos del artículo anterior serán considerados trabajadores de confianza los siguientes cargos y puestos: Rector, Coordinadores Generales de las Unidades, Directores de Institutos, Jefes de Departamento Académico, Secretario General, Abogado General, Secretario de Administración y Finanzas, Contralor Interno, Coordinadores Generales de Dependencia, directores administrativos, jefes y subjefes de departamento administrativo, jefes de sección, delegados, asistentes, asesores técnicos, supervisores, visitadores, inspectores, coordinadores, investigadores científicos, abogados, contadores, auditores, cajeros, pagadores, choferes y secretarias de los titulares de los órganos y funcionarios universitarios, auxiliares de compras, almacenistas, secretarios particulares y auxiliares, consultores y demás personal que desempeñe funciones de coordinación, dirección, inspección, vigilancia y fiscalización, independientemente de la denominación del puesto, cuando tengan carácter general y los que se relacionen con trabajos personales de los titulares, de conformidad con lo dispuesto por el artículo 71 de la Ley de los Trabajadores al Servicio del Estado de Sinaloa.
+Para los efectos del artículo anterior serán considerados trabajadores de confianza los siguientes cargos y puestos: Rector,Vicerrectores, Directores de las Unidades, Directores de Instituto, Subdirectores, Jefes de Departamento Académico, Director de Asuntos Jurídicos, Contralor Interno, Coordinadores, Directores Administrativos, Jefes y Subjefes de Departamento Administrativo, Jefes de sección, delegados, asistentes, asesores técnicos, supervisores, visitadores, inspectores, investigadores científicos, abogados, contadores, auditores, cajeros, pagadores, chóferes y secretarias de los titulares de los órganos y funcionarios universitarios, auxiliares de compras, almacenistas, secretarios particulares y auxiliares, consultores y demás personal que desempeñe funciones de coordinación, dirección, inspección, vigilancia y fiscalización, independientemente de la denominación del puesto, cuando tengan carácter general y los que se relacionen con trabajos personales de los titulares, de conformidad con lo dispuesto por el artículo 71 de la Ley de los Trabajadores al Servicio del Estado de Sinaloa.
 
 ###### Artículo 42.
 
@@ -506,3 +552,13 @@ Gonzalo M. Armienta Calderón.
 El Secretario de Educación Pública y Cultura
 
 J. Antonio Malacón Díaz.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE AGOSTO DE 2003.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo. A partir de la vigencia de las reformas a la presente Ley se crean: la Vicerrectoría de Administración y Finanzas, la Vicerrectoría Académica y la Vicerrectoría de Operación institucional; las Coordinaciones Generales de las Unidades se convierten en Direcciones de Unidad y el Abogado General se convierte en Director de Asuntos Jurídicos. Sus facultades y obligaciones se establecerán en el Estatuto Orgánico.
+
+Artículo Tercero. En cuanto no se opongan a las reformas aprobadas a la presente Ley, continuarán vigentes los reglamentos expedidos por el Consejo Académico Universitario.
