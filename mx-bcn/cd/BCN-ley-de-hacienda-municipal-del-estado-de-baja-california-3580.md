@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "1958-10-31"
+last_updated: "1958-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 1958.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1958.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -363,13 +363,13 @@ Sólo cuando estén abiertas al público las oficinas fiscales se efectuarán ac
 
 Es obligación de los causantes señalar en los avisos, manifestaciones, o precedimiento (sic) que inicien, domicilio, ubicado dentro de la jurisdicción de la oficina a que se dirijan, para que se les hagan las notificaciones correspondientes y se practiquen las diligencias que sean necesarias, y mientras no cumplan con esta obligación las notificaciones y diligencias se harán en el local de la oficina.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1955)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1958)</small>
 
 ###### ARTICULO 57.
 
-Ninguna actividad mercantil o industrial podrá ejercerse habitualmente sin licencia de la Presidencia Municipal y el permiso, en su caso, que señalen los reglamentos respectivos.
+Se establece un impuesto sobre actividades mercantiles e industriales. Son causantes del mismo las personas físicas o jurídicas que obtengan ingresos provenientes de estas actividades y que no sean sujetos pasivos de tributación estatal en esta materia conforme a la Ley de Ingresos del Estado.
 
-Los permisos o licencias para el establecimiento de cafés cantantes o cabarets, cantinas, casa de juego u otras actividades que puedan quedar clasificadas dentro del Inciso IV del Artículo 71 de la Ley de Hacienda del Estado serán expedidas y revalidadas exclusivamente por el Gobernador del Estado conforme al reglamento respectivo, debiendo cubrir los derechos correspondientes conforme a las cuotas y tarifas que establecen la Leyes de Ingresos Municipales.
+Ninguna actividad mercantil o industrial podrá ejercerse habitualmente sin licencia de la Presidencia Municipal y el permiso en su caso, que señalen los reglamentos respectivos. También se requiere obtener placa de registro en el Padrón Municipal. Los permisos o licencias para el establecimiento de cafés cantantes o cabarets, cantinas, casas de juego u otras actividades que puedan quedar clasificadas dentro del Inciso IV del Artículo 71 de la Ley de Hacienda del Estado, serán expedidas y revalidadas exclusivamente por el Gobernador del Estado conforme al Reglamento respectivo, debiendo cubrir los derechos correspondientes de acuerdo con las cuotas y tarifas que establecen las Leyes de Ingresos Municipales.
 
 ###### ARTICULO 58.
 
@@ -439,19 +439,25 @@ Tomando en cuenta los datos contenidos en la manifestación, las autoridades fis
 
 Cuando los causantes no presenten manifestaciones, las autoridades suplirán de oficio los datos citados.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1958)</small>
+
 ###### ARTICULO 66.
 
-Son causantes del impuesto sobre las diversiones, espectáculos públicos y juegos permitidos, las personas físicas o morales que exploten los siguientes giros o actividades; billares, boliches, agencias de lotería o loterías que no dependen de instituciones u organismos de beneficencia pública, bailes públicos, bailes de carácter privado pero con cuota de admisión, ferias, kermeses, rifas, tómbolas, aparatos mecánicos y jaripeos.
+Son causantes del impuesto sobre diversiones, espectáculos públicos y juegos permitidos las personas físicas o morales que exploten las actividades de esta naturaleza que no se encuentren gravadas en la Ley de Hacienda del Estado.
+
+La venta de boletos y los ingresos serán supervisados por un interventor que designarán las Autoridades Municipales.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1958)</small>
 
 ###### ARTICULO 67.
 
-La venta de boletos y los ingresos en los casos del artículo anterior, serán supervisados por un interventor que designarán las autoridades fiscales.
+Se establece el impuesto sobre sacrificio de ganado. Son causantes del mismo las personas físicas o jurídicas que sacrifiquen ganado bovino, suino (sic), ovicaprino y equino para venta, preparación o consumo de la carne. El sacrificio deberá hacerse en los rastros públicos o en los lugares autorizados por los Ayuntamientos.
 
-> <small>(ADICIONADO, P.O. 10 DE ENERO DE 1956)</small>
+Toda la carne destinada a la venta y consumo en los Municipios deberá ser inspeccionada por las Autoridades Municipales, a fin de que se compruebe que se ha cubierto el impuesto a que se refiere este artículo y que reúne los requisitos sanitarios establecidos por las Leyes y Reglamentos aplicables.
 
-###### ARTICULO 67 Bis.
+Ningún rastro o sitio autorizado sacrificará ganado sin que previamente se compruebe el pago del impuesto correspondiente.
 
-Se establece el impuesto sobre arrendamiento de inmuebles en la forma y términos que se fijan en la Ley de Ingresos correspondiente.
+ARTICULO 67 BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1958)
 
 ###### ARTICULO 68.
 
@@ -515,13 +521,37 @@ La obligación de cubrir los derechos que establece este artículo nace desde el
 
 Los permisos para la operación en horas extraordinarias de cafés cantantes o cabarets o cantinas, sólo podrán ser concedidos por el Gobernador del Estado en los términos de la Ley de Hacienda Estatal y reglamento correspondiente.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1955)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1958)</small>
 
 ###### ARTICULO 77.
 
 Todas las licencias, permisos, placas, tarjetas y constancias de empadronamiento expedidas por el Municipio estarán sujetas a revalidación anual mediante el pago de los derechos correspondientes.
 
 Los derechos sobre expedición y revalidación de licencias y permisos para la operación en horas extraordinarias a que se refieren los artículos 62 y 76 de esta Ley, serán recaudados por las Oficinas Recaudadoras del Gobierno Municipal al realizar tales actos de otorgamiento, el Estado.
+
+Además de los previstos en esta Ley, se requiere permiso fiscal, mediante el pago de los derechos correspondientes, en los siguientes casos:
+
+I.- Explotación de aparatos de sonido ambulante para propaganda comercial.
+
+II.- Aparatos mecánicos o electromecánicos para venta de mercancías.
+
+III.- Básculas para uso público.
+
+IV.- Agentes de hotel.
+
+V.- Billeteros.
+
+VI.- Boleros.
+
+VII.- Cargadores.
+
+VIII.- Músicos ambulantes.
+
+IX.- Comisionistas.
+
+X.- Estacionamiento o guarda de vehículos.
+
+XI.- Construcción, reconstrucción, ampliación y translación de casas.
 
 ###### ARTICULO 78.
 
@@ -1618,3 +1648,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 31 DE OCTUBRE DE 1958.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 31 DE DICIEMBRE DE 1958.
+
+El presente Decreto entrará en vigor el día primero de enero de mil novecientos cincuenta y nueve.
