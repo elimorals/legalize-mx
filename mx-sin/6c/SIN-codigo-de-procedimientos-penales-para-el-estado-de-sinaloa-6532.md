@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-penales-para-el-estado-de-sinaloa-6532
 country: "mx"
 rank: "codigo"
 publication_date: "1986-09-26"
-last_updated: "2004-01-02"
+last_updated: "2004-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2004.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el viernes 26 de septiembre de 1986.
 
@@ -135,7 +135,9 @@ En la preparación de la acción penal, el Ministerio Público podrá solicitar 
 
 En todo el procedimiento penal, la víctima o el ofendido por algún delito tendrá derecho a:
 
-I.- Recibir asesoría jurídica y ser informado cuando lo solicite, del desarrollo de la averiguación previa o del proceso;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2004)</small>
+
+I.- Recibir asesoría jurídica y ser informado cuando lo solicite, del desarrollo de la averiguación previa o del proceso. Las personas indígenas que no hablen español tendrán derecho a ser asistidas por un defensor y un traductor que hable su lengua;
 
 II.- Coadyuvar con el Ministerio Público;
 
@@ -149,7 +151,7 @@ V.- Los demás que señalen las leyes.
 
 La asistencia jurídica será proveída por el Estado, por conducto de la Procuraduría de Justicia, en forma oportuna, competente y gratuita, a partir del inicio de la averiguación previa y hasta que cause ejecutoria la sentencia que afecte sus intereses.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 09 DE JULIO DE 1999)</small>
 
 En cuanto a la fracción II, la víctima o el ofendido, podrán proporcionar al Ministerio Público o al juzgador, directamente o por medio de aquél, todos los datos o elementos de prueba que conduzcan a acreditar el cuerpo del delito, a comprobar la existencia del delito, y a establecer la probable o plena responsabilidad del indiciado, según el caso, y la procedencia y monto de la reparación del daño.
 
@@ -1375,11 +1377,17 @@ I.- Proveer auto de radicación y notificar al Ministerio Público y, en su caso
 
 II.- Examinar si se encuentran reunidos los requisitos de procedibilidad de la acción penal ejercitada;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2004)</small>
 
-III.- Expedir, si procede, las órdenes de aprehensión o comparecencia solicitadas por el Ministerio Público; en un término improrrogable de cinco días, contados a partir del día siguiente al en que se reciba el oficio de consignación y las constancias de la averiguación previa correspondiente, excepto cuando el expediente excediere de quinientas hojas, en cuyo caso, por cada cien de exceso se aumentará un día más de plazo señalado; y
+III.- Expedir, si procede, las órdenes de aprehensión o comparecencia solicitadas por el Ministerio Público; en un término improrrogable de cinco días, contados a partir del día siguiente al en que se reciba el oficio de consignación y las constancias de la averiguación previa correspondiente, excepto cuando el expediente excediere de quinientas hojas, en cuyo caso, por cada cien de exceso se aumentará un día más de plazo señalado;
 
-IV.- Tomar la declaración preparatoria al inculpado, en términos de la Constitución General de la República y de este Código.
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2004)</small>
+
+IV.- Tomar la declaración preparatoria al inculpado, en términos de la Constitución General de la República y de este Código; y
+
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2004)</small>
+
+V.- Al momento de tomarle la declaración a una persona indígena, que no hable español, ésta no podrá realizarse sin que se encuentre acompañada de un traductor que la auxilie.
 
 > <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1994)</small>
 
@@ -1729,11 +1737,15 @@ Siempre que los peritos nombrados discordaren entre sí, el Juez los citará a u
 
 Si los peritos no se pusieren de acuerdo, el juez nombrará un tercero en discordia.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2004)</small>
 
 ###### ARTICULO 233.
 
-Los peritos deberán tener título oficial en la ciencia o arte a que se refiere el punto sobre el cual deba dictaminarse, si la profesión o artes están legalmente reglamentadas; en caso contrario se nombrarán peritos prácticos. Cuando el inculpado pertenezca a un grupo étnico indígena, podrán ser peritos prácticos, personas que pertenezcan a dicho grupo étnico indígena.
+Los peritos deberán tener título oficial en la ciencia o arte a que se refiere el punto sobre el cual deba dictaminarse, si la profesión o arte están legalmente reglamentadas; en caso contrario se nombrarán peritos prácticos.
+
+Cuando el inculpado pertenezca a un grupo indígena, podrán ser peritos prácticos, personas que pertenezcan a dicho grupo indígena.
+
+Para el caso anterior, la persona elegida como perito práctico deberá de ser reconocida por tener mayor experiencia en el ramo que se tratare, y deberá distinguirse por su honradez y alto sentido de ecuanimidad comprobado en su grupo indígena.
 
 ###### ARTICULO 234.
 
@@ -1971,11 +1983,15 @@ No podrá dejarse de examinar a los testigos presentes, cuya declaración solici
 
 Podrá examinarse a los ausentes en la forma prevenida por este Código, sin que esto demore la marcha de la averiguación o de la instrucción, o impida que una u otra se dé por terminada cuando se hayan reunido los elementos necesarios.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2004)</small>
+
 ###### ARTICULO 274.
 
-Toda persona, cualquiera que sea su edad, sexo condición social o antecedentes, deberá ser examinada como testigo, siempre que pueda proporcionar algún dato para la averiguación del delito y delincuente, y se estime necesario su examen.
+Toda persona, cualquiera que sea su edad, sexo, condición social o antecedentes, deberá ser examinada como testigo, siempre que pueda proporcionar algún dato para la averiguación del delito y del delincuente, y se estime necesario su examen.
 
 El valor probatorio de su testimonio se calificará en la sentencia.
+
+En caso de que la persona fuere de un grupo indígena, que no hable español, un traductor deberá de acompañarla durante el momento de ser examinada.
 
 ###### ARTICULO 275.
 
@@ -1985,7 +2001,7 @@ Si estas personas tuvieren voluntad de declarar, se les recibirá su declaració
 
 ###### ARTICULO 276.
 
-No puede oponerse tacha a los testigos, pero de oficio a petición de porte el Juez hará constar en el proceso todas las circunstancias que influyan en el valor probatorio de los testimonios.
+No puede oponerse tacha a los testigos, pero de oficio a petición de parte el Juez hará constar en el proceso todas las circunstancias que influyan en el valor probatorio de los testimonios.
 
 ###### ARTICULO 277.
 
@@ -3839,7 +3855,7 @@ DECRETO No. 118
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-P. O. 9 DE AGOSTO DE 2002.
+P.O. 9 DE AGOSTO DE 2002.
 
 DECRETO No. 154
 
@@ -3874,3 +3890,9 @@ DECRETO No. 453.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 4 de enero de 2004, previa publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 23 DE AGOSTO DE 2004.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
