@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-expropiacion-de-bienes-muebles-e-inmuebles-de-6096"
 country: "mx"
 rank: "ley"
 publication_date: "1923-05-16"
-last_updated: "1923-05-16"
+last_updated: "1943-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EXPROPIACION DE BIENES MUEBLES E INMUEBLES DE PROPIEDAD PRIVADA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 1943.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el miércoles 16 de mayo de 1923.
 
@@ -39,9 +39,25 @@ Número 2241.- El Congreso del Estado Decreta:
 
 Pueden ser objeto de expropiación los bienes muebles o inmuebles de propiedad privada que se encuentren en el territorio del Estado y los derechos sobre los mismos bienes.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1943)</small>
+
 ###### Art. 2.
 
-Hay utilidad pública cuando la expropiación tiene por objeto proporcionar al Estado o a alguna de sus poblaciones usos o mejoras de beneficio común, como la apertura, alineamiento y ampliación de calles, calzadas y caminos en el Estado, fundos, etc.
+Hay utilidad pública en las expropiaciones de bienes que se destinen a:
+
+I. El establecimiento, explotación o conservación de un servicio público.
+
+II. La apertura, alineamiento o ampliación de calles, calzadas y caminos.
+
+III. La construcción de hospitales, escuelas parques, jardines, campos deportivos de uso público, hospicios, asilos, cementerios, rastros, teatros de propiedad pública, fundos, fraccionamientos o urbanizaciones destinados a construir casas para obreros, obras de irrigación para aprovechamiento de aguas del Estado o de particulares, canales, edificios públicos.
+
+IV. La creación o mejoramiento de centros de población.
+
+V. La defensa, conservación desarrollo o aprovechamiento de elementos naturales susceptibles de explotación.
+
+VI. La creación, fomento o conservación de empresas para beneficio de la colectividad.
+
+VII. Los demás casos previstos por Leyes especiales.
 
 ###### Art. 3.
 
@@ -174,3 +190,11 @@ José G. Zuno.
 El Subsecretario, E. del D.
 
 A. González.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE DICIEMBRE DE 1943.
+
+PRIMERO. Los procedimientos de expropiación que actualmente se encuentran instaurados pero sin tener la resolución correspondiente, se iniciarán de nuevo observándose las disposiciones contenidas en el precepto anterior.
+
+SEGUNDO. Esta Ley surtirá sus efectos a partir del día siguiente de su publicación en el Periódico Oficial.
