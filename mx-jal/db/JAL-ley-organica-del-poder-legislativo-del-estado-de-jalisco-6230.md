@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "2000-10-31"
+last_updated: "2000-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -1555,7 +1555,7 @@ Los empleos de la Secretaría del Congreso serán desempeñados por las personas
 
 Corresponde a la Comisión de Administración y a la Secretaría del Congreso, el control y la vigilancia de los empleados de la Secretaría, así como la proposición de las sanciones a que se hagan acreedores, por faltas en su desempeño.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994 SECCION II)</small>
 
 ###### Artículo 145.
 
@@ -1563,17 +1563,17 @@ Son funciones específicas de la Oficialía Mayor:
 
 I. Formular las actas de las sesiones y presentarlas para revisión a los Diputados Secretarios;
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1998 SECCION IV)</small>
 
 II. Coordinar, previo acuerdo con la Presidencia y con el Titular de la Comisión de Administración, las labores de los empleados; así como con el previo acuerdo de la Comisión de Responsabilidades, coordinar todo lo relativo a las declaraciones de situación patrimonial;
 
 III. Actuar como Jefe de Personal, asumiendo la responsabilidad de los trabajos encomendados a éste;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 1977)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 1977 SECCION III)</small>
 
 IV. Cuidar de que se cumplimenten los acuerdos del Congreso o de la Presidencia, en su caso, que no requieran el desempeño de los secretarios o de los integrantes de las Comisiones;
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1998 SECCION IV)</small>
 
 V. Dar cuenta a la Asamblea de las faltas cometidas por los empleados con motivo o en el desempeño de sus funciones, por conducto del diputados integrantes de la Comisión de Administración, para que aquélla acuerde lo conducente;
 
@@ -1583,39 +1583,51 @@ VI. Llevar al corriente los libros de Leyes y de Decretos, así como las version
 
 VII. Cuidar el archivo, de acuerdo con las disposiciones que dicte la Presidencia de la Comisión de Biblioteca, Archivo y Editorial;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1994 SECCION II)</small>
 
 VIII. Asistir a las sesiones, colaborar con la Presidencia para el desarrollo de la misma y ejecutar las instrucciones que esta dicte;
 
-> <small>(ADICIONADA, P.O. 8 DE JULIO DE 1993)</small>
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 1993. SECCION II)</small>
 
 IX. Recibir y extender el acuse correspondiente, de las declaraciones de situación patrimonial que en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, se presenten ante el Congreso de la Entidad, así como coordinar, supervisar y substanciar lo relativo al registro, control y verificación de las declaraciones de situación patrimonial a través de la Dirección respectiva; así como citar y requerir en los términos de Ley a quienes no cumplan con dicha obligación; y
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1994 SECCION II)</small>
 
 X. Asistir a los diputados, para el correcto desarrollo del proceso legislativo;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+Una vez turnadas las iniciativas a las comisiones que correspondan para su estudio y dictamen, la Oficialía Mayor distribuirá a los diputados copia de la iniciativa-proyecto de decreto propuesto por el autor, a más tardar dentro de las siguientes 48 horas.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+Cuando se trate de las iniciativas de ley de ingresos y presupuesto de egresos no se observará el párrafo anterior, pero estarán a disposición de todos los Diputados en la Oficialía Mayor, para que quien tenga interés y lo solicite, pueda obtener una copia de las mismas.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+
+La Oficialía Mayor será responsable de integrar a la red electrónica del congreso las iniciativas completas las que podrán ser sólo consultadas, y en su caso, impresas por los legisladores.
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1994 SECCION II)</small>
 
 XI. Elaborar programas de trabajo administrativo de acuerdo con las disposiciones aprobadas por la Asamblea;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1994 SECCION II)</small>
 
 XII. Coordinar, supervisar y evaluar el trabajo de las diversas direcciones y demás dependencias o unidades administrativas;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1994 SECCION II)</small>
 
 XIII. Formar el inventario pormenorizado de los bienes inmuebles, muebles y enseres del Congreso y sus dependencias y cuidar de la conservación de los mismos;
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1998 SECCION IV)</small>
 
 XIV. Ejecutar las instrucciones de las comisiones de Biblioteca, Archivo y Editorial y de la Comisión de Administración, para realizar obras editoriales del Congreso y administrar la librería;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1994 SECCION II)</small>
 
 XV. Por acuerdo de la Asamblea, certificar los documentos del archivo del Congreso; y
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1994 SECCION II)</small>
 
 XVI. Las demás que le confieran la presente ley y su reglamento.
 
@@ -2126,5 +2138,9 @@ P.O. 5 DE OCTUBRE DE 2000
 UNICO.- Este decreto entrará en vigor el día 22 de mayo del 2001 previa su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 31 DE OCTUBRE DE 2000
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE DICIEMBRE DE 2000
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
