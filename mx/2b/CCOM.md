@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "1981-01-23"
+last_updated: "1983-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 1983.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -342,9 +342,9 @@ Tampoco podrá decretarse, a instancia de parte, la comunicación, entrega o rec
 
 ###### Art. 44.
 
-Fuera de los casos prefijados en el artículo anterior, sólo podrá decretarse la exhibición de los libros, registros y documentos de los comerciantes, a instancia de parte o de oficio, cuando la persona a quien pertenezcan tenga interés o responsabilidad en el asunto en que proceda la exhibición.
+Fuera de los casos prefijados en el artículo anterior, sólo podrá decretarse la exhibición de los libros registros y documentos de los comerciantes, a instancia de parte o de oficio, cuando la persona a quien pertenezcan tenga interés o responsabilidad en el asunto en que proceda la exhibición.
 
-El reconocimiento se hará en el lugar en que habitualmente se guarden o conserven los libros registros o documentos, o en el que de común acuerdo fijen las partes, en presencia del comerciante o de la persona que comisione y se contraerá exclusivamente a los puntos que tengan relación directa con la acción deducida comprendiendo en ellos aún los que sean extraños a la cuenta especial del que ha solicitado el reconocimiento.
+El reconocimiento se hará en el lugar en que habitualmente se guarden o conserven los libros, registros o documentos, o en el que de común acuerdo fijen las partes, en presencia del comerciante o de la persona que comisione y se contraerá exclusivamente a los puntos que tengan relación directa con la acción deducida comprendiendo en ellos aún los que sean extraños a la cuenta especial del que ha solicitado el reconocimiento.
 
 ###### Art. 45.
 
@@ -3132,7 +3132,7 @@ Las cartas de porte ó billetes en los casos de trasporte de viajeros por ferroc
 
 ###### Art. 587.
 
-En los transportes que se verifiquen por ferrocarriles ú otras empresas sujetas á tarifas ó plazos reglamentarios, bastará que las cartas de porte ó declaraciones de expedición facilitadas por el cargador se refieran en cuanto al precio, plazos y condiciones especiales del transporte, á las tarifas y reglamentos cuya aplicación solicite; y si no determinare tarifas, deberá el porteador aplicar el precio de las que resulten más baratas, con las condiciones que á ellas sean inherentes, consignando siempre su expresión ó referencia en la carta de porte que entregue al cargador.
+En los transportes que se verifiquen por ferrocarriles u otras empresas sujetas á tarifas o plazos reglamentarios, bastará que las cartas de porte o declaraciones de expedición facilitadas por el cargador se refieran en cuanto al precio, plazos y condiciones especiales del transporte, á las tarifas y reglamentos cuya aplicación solicite; y si no determinare tarifas, deberá el porteador aplicar el precio de las que resulten más baratas, con las condiciones que á ellas sean inherentes, consignando siempre su expresión o referencia en la carta de porte que entregue al cargador.
 
 ###### Art. 588.
 
@@ -5746,7 +5746,7 @@ XII. Si fuere pariente por consanguinidad ó afinidad del abogado ó procurador 
 
 Art. 1,133. Las causas de impedimento no pueden ser dispensadas por voluntad de los interesados: las de sola recusación sí pueden serlo
 
-Art. 1,134. En cada negocio, cada parte podrá recusar sin causa, únicamente á un magistrado á un juez de primera instancia, menor ó de paz, á un secretario y á un asesor.
+Art. 1,134. (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
 
 Art. 1,135. Las recusaciones con causa podrán proponerse libremente en cualquier estado del pleito.
 
@@ -5806,7 +5806,9 @@ Art. 1,146.- Los tribunales y los jueces harán constar la hora en que se pronun
 
 Art. 1,147. La recusación suspende la jurisdicción del funcionario, entretanto se califica y decide.
 
-Art. 1,148. Una vez interpuesta la recusación con causa, las partes no podrán alzarla en ningún tiempo. Las recusaciones sin causa pueden alzarse libremente antes de ser admitidas.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+Art. 1,148. Una vez interpuesta la recusación las partes no podrán alzarla en ningún tiempo.
 
 Art. 1,149. Los magistrados, jueces, asesores y secretarios podrán excusarse por las mismas causas por las que pueden ser recusados.
 
@@ -7043,3 +7045,15 @@ El presente Decreto entrará en vigor a los treinta días de su publicación en 
 D.O.F. 23 DE ENERO DE 1981.
 
 ARTICULO TRANSITORIO.- El presente decreto entrará en vigor el día primero de enero de 1981.
+
+D.O.F. 27 DE DICIEMBRE DE 1983.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTICULO PRIMERO.
+
+El presente ordenamiento entrará en vigor el día 1o. de octubre de 1984.
+
+###### ARTICULO SEGUNDO.
+
+La tramitación de los juicios iniciados antes de la fecha prevista para la entrada en vigor de este Decreto se regirá por las disposiciones que se modifican o derogan mediante dicho ordenamiento.
