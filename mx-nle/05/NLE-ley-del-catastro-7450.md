@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "1988-12-30"
+last_updated: "1989-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1989.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -117,11 +117,11 @@ La Dirección de Catastro se compondrá de un Director y de los empleados técni
 
 La Dirección de Catastro tendrá a su cargo la formulación de proyectos de Bases Generales por Unidades Tipo y la realización de trabajos de limitación de regiones y planificación de cada Municipio del Estado, dividiéndolo en zonas urbanas, suburbanas y rústicas.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 10o.
 
-Los Departamentos de Catastro Local y Foráneo estarán integrados individualmente por un jefe y por los demás funcionarios y empleados que designe el Ejecutivo del Estado.
+Los Departamentos de la Dirección de Catastro estarán integrados individualmente por un jefe y por los demás funcionarios y empleados que designe el Ejecutivo del Estado.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -139,9 +139,11 @@ De las Operaciones Catastrales.
 
 De acuerdo con el Artículo 9o. la Dirección de Catastro procederá al deslinde y levantamiento de los planos de predios rústicos, urbanos y sub-urbanos, y formará y mantendrá al día un plano catastral de cada Municipio, así como los planos parciales de los mismos, por regiones o zonas, que sean necesarios para tener un conocimiento de la propiedad raíz, que sirva para la elaboración de las Bases Generales de Valores por Unidades Tipo y para la valorización de los predios.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 13o.
 
-En la valorización predial intervendrán dos series de operaciones: I.- Determinación de las Bases Generales de Valores por Unidades Tipo; y II.- Valorización de los predios en particular. La determinación de las Bases Generales de Valores por Unidades Tipo se hará considerando separadamente la tierra y las construcciones existentes. Tal determinación deberá contener tantas unidades y valores cuantos sean necesarios para obtener, en relación con ello, el avalúo general y equitativo de la propiedad raíz en el Estado.
+En la valorización catastral intervendrán dos series de operaciones: I.- Determinación de las Bases Generales de Valores por Unidades Tipo; y II.- Valorización de los predios en particular. La determinación de las Bases Generales de Valores por Unidades Tipo se hará considerando separadamente la tierra y las construcciones o cualquier otro tipo de mejoras existentes. Tal determinación deberá contener tantas unidades y valores cuantos sean necesarios para obtener, en relación con ello, el avalúo general y equitativo de la propiedad raíz en el Estado.
 
 ###### ARTICULO 14o.
 
@@ -173,11 +175,11 @@ V.- ZONA 5, que comprende los municipios de Arramberri, Doctor Arroyo, Galeana, 
 
 En las zonas rústicas, la determinación de las Bases Generales de Valores Tipo se hará sobre una clasificación agronómica de la tierra y de su situación topográfica teniendo en cuenta además el rendimiento medio anual según el objeto a que se dedique, de acuerdo con lo que al efecto establece el Reglamento. La unidad de superficie será, en todo caso, de una hectárea.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 17o.
 
-El valor de la tierra y el de las mejoras que ésta contenga, será determinado con base en la estimación técnica de su valor real, y dicho valor será el "valor real catastral".
+El valor de la tierra y el de las mejoras que ésta contenga, será determinado con base en la estimación técnica de su valor real, y dicho valor será el "valor catastral".
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -185,19 +187,23 @@ El valor de la tierra y el de las mejoras que ésta contenga, será determinado 
 
 Las Bases Generales de Valores por Unidades Tipo deberán ser del dominio público mediante exhibición de las mismas en los estrados del Palacio de Gobierno y en las Delegaciones de Finanzas Estatales de los Municipios respectivos.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 19o.
 
-Las Bases Generales de Valores para la propiedad urbana, suburbana y la rústica, tendrán una vigencia de cinco años, contados a partir de la fecha en que dichas Bases hayan sido objeto de revisión. Pasado dicho plazo de vigencia, las Bases Generales de Valores podrán volver a ser objeto de revisión; en la inteligencia de que si ésta no se practica, subsistirán las Bases Generales de Valores existentes.
+Las Bases Generales de Valores por Unidades Tipo podrán ser objeto de revisión total o parcial, cuando las circunstancia económicas lo justifiquen; en la inteligencia de que si ésta no se practica, subsistirán las Bases Generales de Valores existentes.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+Una vez aprobadas las nuevas Bases Generales de Valores por Unidades Tipo, para que se consideren notificadas a los contribuyentes, bastará con que, previamente a su entrada en vigor, se publiquen por tres veces en el Periódico Oficial del Estado.
 
-###### ARTICULO 20o.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
-Excepto en el año en que sean objeto de revisión, las Bases Generales de Valores por Unidades Tipo a que se refiere el artículo anterior y los Valores Reales Catastrales de los Inmuebles, se ajustarán conforme al porcentaje que se establezca mediante disposición de vigencia anual, que entrará en vigor el 1o. de Enero de cada año, sin necesidad de que los mismos sean notificados a los interesados para tener plena validez. Fuera de este supuesto, las Bases Generales de Valores por Unidades Tipo y los Valores Reales Catastrales no podrán ser modificados mientras no sean objeto de revisión, a menos que deban introducirse nuevos valores unitarios o cuando sea indispensable crear una nueva categoría no prevista en la tabla original, ya sea por motivo de ampliación de zonas urbanas o sub-urbanas, o por cualquier otra causa.
+###### ARTICULO 20o
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+Las Bases Generales de Valores por Unidades Tipo y los Valores catastrales de los inmuebles, podrán ajustarse conforme al porcentaje que establezca el Congreso del Estado mediante disposición de vigencia anual, que entrará en vigor el 1º de Enero de cada año, sin necesidad de que los mismos sean notificados a los interesados para tener plena validez. Fuera de este supuesto, las Bases Generales de Valores por Unidades Tipo y los valores catastrales no podrán ser modificados mientras no sean objeto de revisión, a menos que deba introducirse nuevos valores unitarios o cuando sea indispensable crear una nueva categoría no prevista en la tabla original, ya sea por motivo de ampliación de zonas urbanas o sub-urbanas, o por cualquier otra causa.
+
+El ajuste anual no será aplicable a los Valores por Unidades Tipo que hayan sido objeto de revisión conforme al artículo anterior, en el año en que entre en vigor la modificación que se les efectúe con motivo de esa revisión.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 21.
 
@@ -205,21 +211,15 @@ El avalúo de los predios se hará con estricto apego a las Bases Generales de V
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
-###### ARTICULO 21o.
+###### ARTICULO 21o
 
-El avalúo de los predios se hará con estricto apego a las Bases Generales de Valores por Unidades Tipo. No obstante lo anterior, para los efectos de la aplicación del Impuesto Predial, el valor catastral de los predios en ningún caso podrá ser inferior a $800,000.00. En el Reglamento de esta Ley se señalará el procedimiento para formular los avalúos.
+El avalúo de los predios se hará con estricto apego a las Bases Generales de Valores por Unidades Tipo. No obstante lo anterior, para efectos de la aplicación del impuesto predial, el valor catastral de los predios en ningún caso podrá ser inferior a $6'000,000.00. En el Reglamento de esta Ley se señalará el procedimiento para formular los avalúos.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 22o.
 
-Los valores de los predios a los que ya se hubiese determinado un valor catastral, podrán ser actualizados en los siguientes casos.
-
-I.- Cuando en el predio se hagan construcciones, reconstrucciones o ampliaciones.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-II.- Cuando al expedirse el certificado de valor real, para los efectos del Impuesto Municipal sobre Adquisición de Inmuebles, se aprecien adiciones a su valor.
+Los valores de los predios a los que ya se hubiese determinado un valor catastral, podrán ser actualizados cuando en el predio se hagan construcciones, reconstrucciones, ampliaciones o mejoras, o se modifique el uso del suelo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -227,19 +227,21 @@ II.- Cuando al expedirse el certificado de valor real, para los efectos del Impu
 
 Para determinar el valor catastral de los predios de los nuevos fraccionamientos o urbanizaciones, la Dirección de Catastro auxiliada por la Junta Central Catastral, hará que tal valor coincida con el valor de los predios del fraccionamiento ya urbanizado.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
-Sin embargo, por un plazo de tres años, para predios ubicados en zonas habitacionales y de cinco años, para predios ubicados en zonas comerciales, los nuevos fraccionadores pagarán el Impuesto Predial sobre el valor que los predios tenían antes de ser urbanizados.
+Sin embargo, por un plazo de dos años, los nuevo fraccionadores pagarán el Impuesto Predial sobre el valor que los predios tenían antes de ser urbanizados, o antes de ser urbanizados, o antes de concluir dicho plazo, si se enajena o se celebra un contrato de promesa de venta o de venta con reserva de dominio, o se realiza alguna construcción.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
-En los fraccionamientos o nuevas urbanizaciones, se considerarán baldíos para efectos de la aplicación de la tasa prevista en la Ley de Hacienda para los Municipios del Estado, aquéllos lotes que no hubieren pasado en propiedad a otras personas, en un plazo de tres años contados a partir de la fecha de aprobación de la venta de lotes del fraccionamiento por la autoridad Estatal respectiva, siempre que dichos predios carezcan de construcciones permanentes y su superficie exceda de 300 metros cuadrados.
+En los fraccionamientos o nuevas urbanizaciones, se considerarán baldíos para efectos de la aplicación de la tasa prevista en la Ley de Hacienda para los Municipios del Estado, aquellos lotes que no hubieren pasado en propiedad a otras personas, en un plazo de dos años contados a partir de la fecha de aprobación de la venta de los lotes del fraccionamiento por la autoridad Estatal respectiva, siempre que dichos predios carezcan de construcciones permanentes.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 24o.
 
-Las personas físicas que adquieran lotes de terrenos urbanos en zonas habitacionales de los fraccionamientos o nuevas urbanizaciones, pagarán la tasa establecida por el Artículo 21 bis-7 inciso d) de la Ley de Hacienda para los Municipios del Estado para terrenos baldíos, cuando transcurridos cinco años de la fecha de adquisición de los predios no hayan edificado construcciones permanentes en los mismos.
+Las personas físicas que adquieran lotes de terrenos urbanos en zonas habitacionales de los fraccionamientos o nueva urbanizaciones, pagarán la tasa establecida por el Artículo 21 bis-8 de la Ley de Hacienda para los Municipios del Estado para terrenos baldíos, cuando transcurridos cinco años de la fecha de la primera adquisición de los predios, no hayan edificado construcciones permanentes en los mismos.
+
+Para efectos de la aplicación de la tarifa del Impuesto Predial prevista en la Ley de Hacienda para los Municipios del Estado, por predio baldío se entiende aquel inmueble sin construcciones permanentes, ubicado en zona urbana, comprendida ésta dentro del área de la ciudad, villa o congregación, con trazo de calles y cuando menos uno de los servicios públicos de agua, drenaje, alumbrado, gas o energía eléctrica.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -257,19 +259,25 @@ Disposiciones Generales.
 
 Los avalúos practicados con sujeción a la presente Ley y su Reglamento, servirán de base para todos los fines fiscales en relación con la propiedad raíz en el Estado y no podrán ser alterados para los mismos fines, a menos que se pruebe que su determinación se hizo con violación a la presente Ley y su Reglamento. A falta de manifestación oportuna, los avalúos se harán de oficio por la Dirección de Catastro, sin perjuicio de la sanción que procediere.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 27o.
 
-Los bienes pertenecientes a la Nación, al Gobierno del Estado, a los Municipios, a las Instituciones de Beneficencia Pública, a particulares pero destinados a un servicio público gratuito autorizado por el Estado o Municipios, los pertenecientes a Gobiernos Extranjeros que estén destinados a usos oficiales de los mismos, así como los bienes que disfruten de exención total o parcial del impuesto predial, serán no obstante las circunstancias anteriores, valorizados de acuerdo con la presente Ley y su Reglamento, clasificándolos en Sección Especial que se denominará "PREDIOS CONCESIONADOS".
+Los bienes del dominio público pertenecientes a la Federación, al Estado o a los Municipios, aun y cuando disfruten de exención total del Impuesto Predial, serán valorizados de acuerdo con la presente Ley y su Reglamento.
 
 ###### ARTICULO 28o.
 
 (DEROGADO, P.O. 28 DE DICIEMBRE DE 1974)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 29o.
 
-En caso de traslación de dominio de bienes raíces, los Notarios y demás Autoridades facultadas para dar fe pública de la enajenación de dichos bienes, deberán dar aviso a la Dirección de Catastro, de las transacciones en que hubieren intervenido. Los avisos se darán dentro del plazo que fije el Reglamento.
+En caso de traslación de dominio de bienes raíces, los Notarios, Jueces, Corredores Públicos y fedatarios que por disposición legal tengan funciones notariales, deberán dar aviso a la Dirección de Catastro, de las transacciones en que hubieren intervenido. Los avisos se darán dentro del plazo de un mes siguiente a la fecha en que se autorice en forma definitiva la operación.
+
+Las autoridades judiciales que, en el ejercicio de sus funciones, dicten resoluciones que impliquen transmisión de dominio de bienes inmuebles, se encuentran obligadas a dar el aviso respectivo a la Dirección de Catastro, dentro del plazo de un mes, contado a partir del siguiente día al en que cause ejecutoria la resolución respectiva.
+
+Los avisos a que se refiere este artículo deberán presentarse utilizando las formas oficiales aprobadas por la Secretaría de Finanzas y Tesorería General del Estado.
 
 ###### ARTICULO 30o.
 
@@ -279,6 +287,14 @@ Las notificaciones a que se refiere la presente Ley, se practicarán en la forma
 
 De las Infracciones y de las Sanciones.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 31.
+
+Son infractores de la presente Ley: I.- Los propietarios o poseedores de predios que consignen datos falsos en sus declaraciones o manifestaciones, con excepción del relativo al valor del predio. II.- Los propietarios o poseedores de los predios que no presenten oportunamente los planos, datos, informes, declaraciones, manifestaciones y cualquier otro documento que señalen las leyes o las convocatorias respectivas, o no sean requeridos por las autoridades catastrales. III.- Los propietarios o poseedores de predios que se nieguen aclarar las dudas que surjan con motivo de sus declaraciones o manifestaciones. IV.- Los funcionarios y empleados públicos o privados a quienes esta Ley impone la obligación de auxiliar a los organismos catastrales para el mejor desempeño de sus funciones, y que no le presten oportuna y eficaz cooperación cuando les sea solicitada. V.- Los funcionarios y empleados de los organismos catastrales que por negligencia o dolo, posibiliten la infracción de esta Ley por los sujetos obligados a cumplirla.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 31o.
 
 Son infractores de la presente Ley: I.- Los propietarios o poseedores de predios que consignen datos falsos en sus declaraciones o manifestaciones, con excepción del relativo al valor del predio. II.- Los propietarios o poseedores de predios que no presenten las declaraciones o manifestaciones dentro de los plazos que fijen las convocatorias respectivas. III.- Los propietarios o poseedores de predios que se nieguen a aclarar las dudas que surjan con motivo de sus declaraciones o manifestaciones. IV.- Los funcionarios y empleados públicos o privados a quienes esta Ley impone la obligación de auxiliar a los organismos catastrales para el mejor desempeño de sus funciones, y que no le presten oportuna y eficaz cooperación cuando les sea solicitada. V.- Los funcionarios y empleados de los organismos catastrales que por negligencia o dolo, posibiliten la infracción de esta Ley por los sujetos obligados a cumplirla.
@@ -287,7 +303,7 @@ Son infractores de la presente Ley: I.- Los propietarios o poseedores de predios
 
 ###### ARTICULO 32o.
 
-Los infractores a que se refiere el artículo anterior serán sancionados como sigue: I.- Si están comprendidos en las fracciones I, II, III y IV, se les aplicará una multa de quinientos a cinco mil pesos por cada infracción a juicio del secretario de Finanzas y Tesorero General del Estado. II.- Si están comprendidos en los casos de la fracción V, se les aplicará una multa de quinientos a cinco mil pesos a juicio del Secretario de Finanzas y Tesorero General del Estado, y si en opinión de este funcionario la infracción es grave, además serán destituidos, sin perjuicio en todo caso de la instancia de responsabilidad, si procediera.
+Los infractores a que se refiere el artículo anterior serán sancionados como sigue: I.- Si están comprendidas en las fracciones I, III, IV y V se les aplicará una multa de cinco a veinte mil pesos, por cada infracción, a juicio del Secretario de Finanzas y Tesorero General del Estado. II.- Si están comprendidos en los casos de la fracción II, la que resulte mayor entre $10,000.00 o hasta el 100% de las contribuciones omitidas. III.- En los casos de la fracción V, si a juicio del Secretario de Finanzas y Tesorero General del Estado la infracción es grave, además serán destituidos, sin perjuicio de la instancia de responsabilidad, si procediera.
 
 T R A N S I T O R I O S :
 
@@ -344,6 +360,12 @@ Con motivo de la reforma del artículo 15 de la Ley del Catastro, a partir del 1
 ###### ARTICULO 10o.
 
 Conforme a lo dispuesto por el artículo 20 de la Ley del Catastro, durante el año de 1989 se aplicará un incremento a las Bases Generales de los Valores por Unidades Tipo y a los Valores Reales Catastrales, en un 100% respecto de los terrenos y en un 150% respecto de las construcciones.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 11o.
+
+Conforme a lo dispuesto por el artículo 20 de la Ley del Catastro, durante el año de 1990 se aplicará un incremento a las Bases Generales de Valores por Unidades Tipo y a los valores catastrales, en un 100 % respecto de los terrenos y en lo que respecta a las construcciones, en un 300 % tratándose de industrias y comercios y en un 200 % tratándose de casas-habitación y cualquier otro tipo de mejoras.
 
 Lo tendrá entendido el C. Gobernador Constitucional del Estado, mandándolo imprimir, publicar y circular a quienes corresponda.
 
@@ -476,3 +498,7 @@ P.O. 30 DE DICIEMBRE DE 1987.
 P.O. 30 DE DICIEMBRE DE 1988.
 
 UNICO.- El presente Decreto entrará en vigor el día 1º de Enero de 1989.
+
+P.O. 29 DE DICIEMBRE DE 1989.
+
+UNICO.- La presente Ley entrará en vigor el día 1° de Enero de 1990.
