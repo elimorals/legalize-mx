@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2002-05-22"
+last_updated: "2002-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2002.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -283,9 +283,9 @@ LXIII.- SAUCILLO; con cabecera en la ciudad del mismo nombre y las secciones mun
 
 LXIV.- TEMOSACHI, con cabecera en el pueblo del mismo nombre y las secciones municipales de Babícora de Conoachi, Cocomórachi, Tosanachi, Tutuaca, Yepachi y Yepómera;
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 1996)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2002)</small>
 
-LXV.- URIQUE, con cabecera en la villa del mismo nombre y las Secciones Municipales de Cerocahui, Cuiteco, Guagueyvo, Colonia Bahuérachi, San Rafael y Cieneguita Lluvia de Oro;
+LXV.- URIQUE, con cabecera en el pueblo del mismo nombre y las secciones municipales de Cerocahui, Cuiteco, Guagueyvo, Colonia Bahuérachi, San Rafael, Cieneguita Lluvia de Oro, Tubares y Bahuichivo;
 
 LXVI.- URUACHI; con cabecera en el pueblo del mismo nombre y als (sic) secciones municipales de Batopilillas y El Rebaje; y
 
@@ -2275,7 +2275,9 @@ Toda estipulación privada, relativa al pago del impuesto, que se oponga a lo di
 
 La autoridad municipal está obligada a proporcionar al contribuyente, información relativa al impuesto predial respecto a cualquier predio.
 
-### CAPITULO V. CONTRIBUCION ESPECIAL SOBRE PAVIMENTACION
+### CAPITULO IV-BIS. TASA ADICIONAL PARA LOS IMPUESTOS PREDIAL Y SOBRE TRASLACION DE DOMINIO DE BIENES INMUEBLES
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2002)</small>
 
 #### SECCION I. OBJETO, SUJETO, BASE Y TASA
 
@@ -2349,11 +2351,11 @@ Para los efectos de este impuesto, se considera que el usufructo y la nuda propi
 
 Los avalúos a que se refieren los párrafos anteriores deberán comprender el terreno y las construcciones aun cuando se adquiera únicamente el terreno o las construcciones, salvo que se pruebe que el adquirente edificó con recursos propios las construcciones o que las adquirió con anterioridad habiendo cubierto el impuesto respectivo.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 159.
 
-La tasa del impuesto es del dos por ciento sobre la base gravable, sin que en ningún caso pueda incrementarse con impuestos adicionales o contribuciones especiales. Tratándose de acciones de vivienda nueva de interés social o popular, la tasa será la que se determine en las leyes de ingresos.
+La tasa del impuesto es del dos por ciento sobre la base gravable. Tratándose de acciones de vivienda nueva de interés social o popular, la tasa será la que se determine en las leyes de ingresos.
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
@@ -2449,9 +2451,21 @@ Cuando, se trate de actos, otorgados o celebrados fuera del territorio de la Rep
 
 Los plazos que establecen los artículos anteriores, se interrumpirán únicamente por consulta formulada por escrito a la Tesorería Municipal cuando exista duda sobre la procedencia del impuesto o por inconformidad con el avalúo practicado. Los plazos continuarán corriendo a partir de la fecha en que se notifique al causante la resolución.
 
-### CAPITULO VI. DERECHOS
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 25 DE MAYO DE 2002)</small>
 
-### CAPITULO UNICO
+### CAPITULO V. CONTRIBUCION ESPECIAL SOBRE PAVIMENTACION
+
+###### ARTICULO 165 Bis.
+
+Los Contribuyentes de los impuestos Predial y Sobre traslación de Dominio de Bienes Inmuebles, establecidos respectivamente en los Capítulos III y IV de este Título, pagarán una tasa adicional del 4% aplicable al monto que deberán enterar por dichos impuestos.
+
+La tasa adicional se pagará en la misma forma y términos en que deban pagarse los impuestos mencionados y su rendimiento se destinará al sostenimiento de la Universidad Autónoma de Chihuahua y de la Universidad Autónoma de Ciudad Juárez, por partes iguales.
+
+Una vez recaudados los ingresos por este concepto, las autoridades municipales concentrarán los mismos, a más tardar el día quince del mes siguiente a su recaudación, en la Secretaría de Finanzas y Administración del Gobierno del Estado, dependencia que a su vez los transferirá a dichas universidades, en la proporción mencionada, a más tardar el día último del mismo mes.
+
+En caso de que cualquiera de los días antes indicados sea inhábil, la concentración o la transferencia se efectuará el día hábil inmediato siguiente.
+
+### CAPITULO VI. DERECHOS
 
 ###### ARTICULO 166.
 
@@ -2469,7 +2483,7 @@ IV.- El pago del valor del pavimento que corresponda a los propietarios de finca
 
 Los Notarios no autorizarán, ni los registradores inscribirán actos o contratos, que impliquen transmisión o desmembración del dominio, constitución de servidumbres o garantías reales, en relación con inmuebles afectos al pago del tributo regulado en el artículo anterior, si no se les comprueba previamente que están al corriente en el pago del mismo.
 
-### CAPITULO I. DEL PROCEDIMIENTO ADMINISTRATIVO
+### CAPITULO UNICO
 
 ###### ARTICULO 168.
 
@@ -2575,7 +2589,7 @@ Son objeto de éste derecho, los servicios que preste el Departamento de Bombero
 
 ## TITULO PRIMERO. DE LAS FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
 
-### CAPITULO II. MEDIOS DE IMPUGNACION DE LOS ACTOS ADMINISTRATIVOS
+### CAPITULO I. DEL PROCEDIMIENTO ADMINISTRATIVO
 
 ###### ARTICULO 179.
 
@@ -2767,7 +2781,7 @@ IV.- Que las instalaciones y equipo se encuentren en condiciones para la prestac
 
 ## TITULO SEGUNDO. DEFENSA JURIDICA DE LOS PARTICULARES
 
-### CAPITULO III. DE LAS SANCIONES
+### CAPITULO II. MEDIOS DE IMPUGNACION DE LOS ACTOS ADMINISTRATIVOS
 
 ###### ARTICULO 195.
 
@@ -2786,6 +2800,8 @@ V.- Expresados los alegatos o concluido el término correspondiente, el Ayuntami
 ###### ARTICULO 196.
 
 A las notificaciones y términos a que alude este título se aplicarán en lo conducente, las disposiciones del Código Fiscal del Estado.
+
+### CAPITULO III. DE LAS SANCIONES
 
 ###### ARTICULO 197.
 
@@ -3168,3 +3184,27 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Para la elección de la Junta Municipal en la Sección Municipal de Samachique, se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, en lo conducente; y deberá llevarse a cabo la elección dentro de los 180 días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 25 DE MAYO DE 2002.
+
+DECRETO No. 171/01 I P.O.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año 2003.
+
+###### ARTÍCULO SEGUNDO.
+
+Los municipios recaudarán los ingresos provenientes de la tasa adicional a que se refiere el Artículo Primero del presente Decreto, a partir de la entrada en vigor del mismo.
+
+P.O. 25 DE MAYO DE 2002.
+
+DECRETO No. 248/02 II P.O.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para las elecciones de las Juntas Municipales en las Secciones Municipales de Tubares y Bahuichivo, se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, en lo conducente y deberán llevarse a cabo las elecciones dentro de los 180 días siguientes a la entrada en vigor del presente decreto.
