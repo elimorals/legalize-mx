@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-social-para-los-servidores-publicos-del-6340"
 country: "mx"
 rank: "ley"
 publication_date: "1969-08-23"
-last_updated: "1969-08-23"
+last_updated: "1974-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS COORDINADOS Y DESCENTRALIZADOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JULIO DE 1974.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el sábado 23 de agosto de 1969.
 
@@ -55,17 +55,19 @@ Son sujetos de esta Ley, con las obligaciones y derechos que impone:
 
 I.- El Gobierno del Estado de México, los HH. Ayuntamientos de sus Municipios y las Instituciones y Organismos Públicos Coordinados y Descentralizados de carácter estatal, siempre que estos últimos no estén afectos a un Régimen distinto de Seguridad Social. En la presente Ley se les denomina "Entidades Públicas".
 
-II.- Los servidores en ejercicio de las Entidades Públicas amparados con nombramiento de vigencia indefinida. Por lo tanto, quedan comprendidos los de base, de confianza y los supernumerarios. En el Articulado de esta Ley se les llamará “Servidores Públicos”, quedan excluidos los trabajadores a la lista de raya, los objetos a contrato civil o laboral, y los que desempeñen actividades eventuales o de emergencia. También se excluye a los que en su primer ingreso al servicio público hayan alcanzado cincuenta años de edad.
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 1974)</small>
+
+II.- Las personas que mediante nombramiento por escrito de las Entidades Públicas desempeñen un servicio y los funcionarios de elección popular, unas y otros remunerados en los respectivos presupuestos de Egresos. En esta Ley se les llamará servidores públicos. Quedan excluídos los trabajadores a lista de raya, los sujetos a contrato civil o laboral y los que desempeñen actividades eventuales o emergentes. También se excluye a los que en su primer ingreso al servicio público hayan alcanzado cincuenta años de edad.
 
 III.- Las personas que de conformidad con esta Ley adquieran el carácter de jubilados y pensionados. Y
 
 IV.- Los familiares o dependientes económicos de los servidores públicos y de los jubilados.
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 1974)</small>
+
 ###### Artículo 3.
 
-La observancia de esta Ley es obligatoria para las Entidades Públicas, así como para sus servidores. Por lo que hace a los HH. Ayuntamientos y a los Organismos Coordinados y Descentralizados y sus trabajadores.
-
-Se requerirá de convenio previo formalizado con el Instituto.
+La observancia de esta Ley es obligatoria para las Entidades Públicas y los servidores públicos. En casos especiales podrá el ISSEMYM, celebrar convenios con las Entidades Públicas para prestar parcial o totalmente los servicios de seguridad social consignados en esta Ley, respecto de trabajadores no sujetos a la misma. Asimismo, el propio Instituto podrá contratar o subrogar los servicios con otras Instituciones o personas, cuando esté en imposibilidad de prestarlos directamente.
 
 ### CAPITULO SEGUNDO. De la Institución, de su Patrimonio y de las
 
@@ -129,9 +131,11 @@ Cuando las aportaciones ordinarias que establece esta Ley en favor del Instituto
 
 Las aportaciones de las Entidades Públicas tienen el carácter de obligatorias. Y por consiguiente, deberán consignarse en la Partida o Partidas que correspondan a sus respectivos Presupuestos de Egresos. En el caso de que se incurra en omisión, se entenderá que las aportaciones de que se trata fueron oportunamente Presupuestadas, y su ejercicio se hará a cargo de las partidas generales de gastos.
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 1974)</small>
+
 ###### Artículo 13.
 
-Las aportaciones económicas a cargo de los servidores públicos se remitirán regular y periódicamente al Instituto por las personas físicas y encargadas oficialmente de cubrir las percepciones, jubilaciones y sueldos de los servidores públicos. La remisión se hará dentro de los cinco primeros días hábiles de cada mes.
+Las aportaciones económicas a cargo da las Entidades Públicas y de sus servidores públicos deberán remitirse al Instituto dentro de los cinco primeros días hábiles de cada mes.
 
 ###### Artículo 14.
 
@@ -159,9 +163,11 @@ Por conducto de su Departamento Médico el Instituto impartirá los Servicios y 
 
 El sostenimiento económico del Departamento Médico y de sus servicios y ministraciones se cubrirá con los ingresos que se obtengan de las aportaciones ordinarias específicas que se precisan en las fracciones II y III del artículo 6, de acuerdo con las asignaciones presupuestales que señale el Instituto.
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 1974)</small>
+
 ###### Artículo 20.
 
-Para la organización y administración del Departamento Médico se constituye una Comisión Mixta presidida por el Director del Instituto, e integrada por sendos Representantes del Ejecutivo del Estado y de cada uno de los Sindicatos de Servidores Públicos reconocidos. El Representante del Ejecutivo deberá ser médico titulado. La Comisión será autónoma en sus acuerdos, actos y funciones. Pero su autoridad y jerarquía estará supeditada a la del Consejo Directivo del Instituto representado para estos efectos por el Director.
+Para la organización y administración del Departamento Médico se constituye una Comisión Administrativa Mixta, presidida por el Director del Instituto, e integrada por sendos representantes del Ejecutivo del Estado y de cada uno de los dos Sindicatos de servidores públicos reconocidos por el Gobierno del Estado de México. El representante del Ejecutivo deberá ser médico titulado. La autoridad, la jerarquía y las funciones de la Comisión estarán supeditadas a las del Consejo Directivo.
 
 ###### Artículo 21.
 
@@ -237,9 +243,11 @@ Para su tramitación deberá presentarse la correspondiente solicitud. La Direcc
 
 Del importe del Seguro se deducirán los adeudos quirografarios en favor del Instituto y a cargo del asegurado.
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 1974)</small>
+
 ###### Artículo 33.
 
-Si el servidor público que hubiere hecho efectivo el Seguro por Cesantía o Separación reingresa al servicio, tendrá derecho para los efectos de esta Ley a que se le acredite la antigüedad que hubiere alcanzado anteriormente, siempre que reintegre al Instituto el importe del Seguro cobrado, más el 6% anual de intereses por el tiempo comprendido entre las fechas en que hizo efectivo el Seguro y la de su reingreso. El Consejo tiene facultad para conceder un préstamo especial al interesado, destinado a cubrir la cantidad que deba reintegrar.
+Si el servidor público, que hubiere hecho efectivo el seguro de cesantía o separación, reingresa al servicio antes de diez años de la fecha de su separación, tendrá derecho, para los efectos de esta Ley, a que se acrediten los años de servicios comprendidos en aquel seguro, siempre que pague al Instituto el importe del seguro cobrado, más el interés del 9% anual, por el período comprendido entre las fechas en que hizo efectivo el seguro y la de su reingreso. El Consejo podrá conceder un préstamo especial para este caso.
 
 ###### Artículo 34.
 
@@ -249,13 +257,17 @@ En este caso deberá manifestar su reserva por escrito, antes del término de pr
 
 ### CAPITULO QUINTO. Seguro de Fallecimiento
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 1974)</small>
+
 ###### Artículo 35.
 
-Se establece un Seguro de quince mil pesos por fallecimiento del servidor público y del exservidor público jubilado. El Consejo Directivo revisará la cuota antes señalada cuando menos cada dos años, a efecto de aumentarla cuando así lo permitan las condiciones económicas de la Institución.
+Se establece el seguro de $18,500.00 por fallecimiento del servidor público o del jubilado, que se sujetará a la movilidad prevista en el Artículo 63 de esta Ley.
+
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 1974)</small>
 
 ###### Artículo 36.
 
-Tendrán derecho a recibir este Seguro los familiares o dependientes económicos del fallecido. En primer lugar se tendrá en consideración la designación de beneficiarios consignada en la carta testamentaria. En su defecto, se cubrirá en el orden que establece el artículo 95.
+Tendrán derecho a recibir este seguro los familiares o dependientes económicos del fallecido, en el orden y la cuantía con que aparezcan consignados como beneficiarios en la Carta Testamentaria. Para efectos de esta disposición solamente se aplicará el Artículo 95 cuando no exista la Carta Testamentaria.
 
 ###### Artículo 37.
 
@@ -445,9 +457,11 @@ a).- Si la pensión se le había concedido por jubilación o inhabilitación a c
 
 b).- Si la pensión la disfrutaba por inhabilitación por causas ajenas al servicio: la última del jubilado con deducción de un veinte por ciento. Esta pensión solo se pagará durante los seis meses siguientes al fallecimiento.
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 1974)</small>
+
 ###### Artículo 63.
 
-Las pensiones que concede la presente Ley son de carácter móvil. La movilidad será consecuente y proporcionalmente directa al total de los aumentos periódicos de las remuneraciones que se concedan en lo futuro a los servidores públicos. Los aumentos de las pensiones surtirán efectos a partir de la fecha en que haya entrado en vigor el aumento de las remuneraciones.
+Las jubilaciones y pensiones que se paguen conforme a esta Ley serán de carácter móvil. La movilidad consistirá en aumentar su cuota diaria por el mismo tanto por ciento que el Gobierno del Estado de México otorgue como aumentos generales a las percepciones computables de la mayoría de sus servidores públicos, surtiendo efectos a partir de la fecha en que entre en vigor dicho aumento. No operará la movilidad consignada en este artículo para las jubilaciones y pensiones con importe diario igual o mayor que la percepción a que se refiere el párrafo sexto del Artículo 66 de esta Ley y las jubilaciones o pensiones con cuota diaria de salario mínimo general la movilidad se sujetará únicamente a lo dispuesto por el Artículo 67 de este propio Ordenamiento.
 
 ###### Artículo 64.
 
@@ -487,17 +501,23 @@ En percepciones por cátedra, o de puestos no escalafonarios se promediarán las
 
 Si la remuneración del servidor público es variable, a base de honorarios o sujeta a tasas proporcionales, se tomarán (sic) el promedio de sus percepciones durante el último año de servicios.
 
-La cuota diaria de la jubilación o pensión que se conceda conforma a esta Ley, en ningún caso será mayor que la que corresponda a la percepción vigente asignada al servidor público de la más alta jerarquía administrativa, de cualesquiera de las Entidades Públicas.
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 1974)</small>
+
+La cuota diaria de la jubilación o pensión que se conceda conforme a esta Ley, en ningún caso será mayor que la percepción presupuestal asignada al Secretario General de Gobierno del Poder Ejecutivo del Estado.
 
 En los casos en que un servidor público hubiera cubierto al Instituto sus aportaciones ordinarias sobre una cantidad mayor a la que deba de tomarse como último sueldo en los términos del párrafo anterior, tendrá derecho a la devolución de las cantidades excedentes. Los sujetos de esta Ley y el Instituto cuidarán que las aportaciones futuras no rebasen los topes antes señalados.
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 1974)</small>
+
 ###### Artículo 67.
 
-La cuota diaria de las pensiones que se conceden en esta Ley en ningún caso será inferior al salió mínimo vigente en el lugar donde habitualmente hubiera laborado el servidor público durante los últimos seis meses.
+La cuota diaria única o la suma de las cuotas diarias parciales de una jubilación o pensión que se conceda o pague conforme a esta Ley, en ningún caso será inferior al salario mínimo legal general vigente en el lugar en donde hubiere laborado el servidor público durante los últimos seis meses de servicio de sus percepciones computables.
+
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 1974)</small>
 
 ###### Artículo 68.
 
-La inhabilitación se reputará como causa o consecuencia del servicio en los casos en que el accidente o la enfermedad tengan las características de profesionales que consignan la Ley Federal del Trabajo y el Estatuto Jurídico de los Trabajadores al Servicio de los Poderes del Estado y de los Municipios; así como los demás casos en los que exista jurisprudencia de la H. Suprema Corte de Justicia de la Nación reconociendo la profesionalidad del riesgo.
+La inhabilitación o el fallecimiento se reputará como causa o consecuencia del servicio, cuando tenga las características de profesionales que consigna la Ley Federal del Trabajo; así como los demás casos en los que exista jurisprudencia al respecto;
 
 ###### Artículo 69.
 
@@ -527,9 +547,11 @@ La jubilación no es renunciable; y aceptada por el servidor público, carecerá
 
 Aceptada la jubilación, el servidor público queda obligado a separarse definitivamente del puesto o cargo que desempeñaba y que dió origen a su jubilación.
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 1974)</small>
+
 ###### Artículo 75.
 
-El importe de la pensión que se conceda a dos más (sic) personas se dividirá a prorrata entre los interesados. Si fallece una de ellas la parte de la pensión de que disfrutaba será en beneficio proporcional de los demás co-partícipes. Si una de estas personas pierde sus derechos, la parte que le corresponda en la pensión quedará a beneficio del Patrimonio.
+Cuando existan varias personas que tengan derecho a una pensión la cuota diaria se dividirá en partes iguales. Al fallecer o perder sus derechos una o varias de aquellas personas; la parte o las partes de la pensión quedarán a beneficio del patrimonio del Instituto. Se mantendrá íntegra la cuota diaria total de la pensión, si entre los partícipes con derechos vigentes se encuentra el cónyuge supérstite o la concubina reconocida legalmente.
 
 ###### Artículo 76.
 
@@ -625,17 +647,25 @@ Toda licencia por un mes o más de tiempo sin goce de sueldo interrumpirá el di
 
 Para los efectos de este Ordenamiento se considerarán como familiares o dependientes económico del servidor público o del jubilado:
 
-I.- El cónyuge, los hijos menores de veintiún años, o ambos cuando coexistan; y siempre que no vivan en concubinato, o que los menores no hayan contraído matrimonio. El viudo sólo tendrá derecho a pensión si tiene más de sesenta años de edad, y justifica su imposibilidad física o mental para trabajar.
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 1974)</small>
+
+I.- El cónyuge, los hijos menores de ventiún (sic) años o ambos cuando coexistan, siempre que no vivan en concubinato, o que los menores no hayan contraído matrimonio. Seguirán siendo sujetos de la Ley los hijos incapacitados física o mentalmente, a juicio del Consejo Directivo y mediante comprobación con dictamen médico.
 
 II.- La concubina, a falta de cónyuge, siempre que el servidor público libre de matrimonio le hubiere dado el tratamiento de esposa cuando menos durante los últimos cinco años. En el caso de que existan varias concubinas, ninguna de ellas generará derechos.
 
-III.- Cuando no existan las personas enumeradas en las dos fracciones anteriores, los ascendientes directos. En su defecto, la persona o personas dependientes económicas del servidor público o del ex-servidor público jubilado. Se tendrán en cuenta las taxativas que señala la fracción I de este artículo.
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 1974)</small>
+
+III.- Cuando no existan el cónyuge, la concubina con derechos o los hijos, los ascendientes directos en primer grado si dependen económicamente del servidor público o del jubilado.
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 1974)</small>
+
+IV.- Si no existen las personas enumeradas en las fracciones anteriores, los dependientes económicos del servidor público o del jubilado, con las taxativas mencionadas en este artículo.
+
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 1974)</small>
 
 ###### Artículo 96.
 
-La dependencia económica se probará ante el Consejo Directivo del Instituto. Deberá acreditarse que fue continua y no menor a los últimos cinco años.
-
-Los ascendientes sólo deberán acreditar su dependencia económica.
+La dependencia económica se justificará con información testimonial ante la autoridad judicial competente y con estudio socio-económico realizado por el Instituto. Para la concubina y las personas no comprendidas como ascendientes directos en primer grado, la dependencia económica debeacreditarse (sic) que fue contínua y no menor a los cinco últimos años de la fecha en que se ejerzan los derechos.
 
 ###### Artículo 97.
 
@@ -661,11 +691,11 @@ La edad, las relaciones familiares y los demás requisitos que se exijan para ac
 
 Las jubilaciones y pensiones vencidas, el importe de los seguros y cualquiera prestación en dinero a cargo del Patrimonio, que no se reclame dentro de los tres años siguientes a la fecha en que resulten exigibles, prescribirán en su favor. El derecho a la jubilación o pensión no prescribe.
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 1974)</small>
+
 ###### Artículo 102.
 
-Los créditos hipotecarios a favor del Instituto provenientes de contratos de compra-venta de casas y de préstamos hipotecarios, se extinguirán automáticamente a la muerte del deudor. A este efecto, se creará un fondo especial en la forma y términos que señale el Reglamento que dicte el Consejo Directivo para responder a esta obligación. Este fondo se constituirá con las primas correspondientes a cargo de los deudores.
-
-El reconocimiento de la extinción del crédito se hará ante Notario Público. En su caso, el Instituto deberá extender la escritura de propiedad del inmueble a favor de la persona o personas que para este efecto haya designado el servidor público. A falta de esta designación el documento notarial se extenderá en favor de la persona o personas con mejor derechos, siguiendo el orden que señala el artículo 95 de esta Ley.
+Los créditos a favor del Instituto provenientes de contratos de compraventa de casas y de préstamos hipotecarios, se extinguirán automáticamente a la muerte del deudor. A este efecto, se creará un fondo especial en la forma y términos que señale el Reglamento que dicte el Consejo Directivo para responder a esta obligación. Este fondo se constituirá con las primas correspondientes a cargo de los deudores. El reconocimiento de la extinción del crédito se hará ante notario público.
 
 CAPITULO ONCE
 
@@ -783,6 +813,10 @@ El Fondo Social Permanente de … $90.000,000.00 a que se refiere la fracción I
 
 Para tener derecho a las jubilaciones o pensiones, en lo que se refiere al requisito de aportaciones, bastará que pruebe que se ha contribuido al Patrimonio del Instituto normal e íntegramente, a partir del día diecisiete de junio de mil novecientos cincuenta y uno, si en el cómputo de servicios se considera tiempo anterior a esta fecha. La misma disposición será aplicable en el caso del derecho a pensión por fallecimiento por causas ajenas al servicio.
 
+> <small>(ADICIONADO, G.G. 27 DE JULIO DE 1974)</small>
+
+Si las aportaciones no se pueden computar a partir de la fecha anterior, porque el servidor público no estuvo en servicio en ese día, entonces por cada año de aportaciones efectivas se computará un año de servicio desempeñado anteriormente a la fecha que se menciona.
+
 ###### Artículo 5.
 
 Los servidores públicos que hayan desempeñado servicios de los comprendidos en la fracción II del artículo 2 de esta Ley y por los que la Dirección de Pensiones no recibió oportuna y regularmente las aportaciones a que se refería su propio Ordenamiento, y deseen que el tiempo de aquellos servicios se les compute para los efectos de esta Ley, deberán previamente pagar por su cuenta las aportaciones omitidas, considerándose también las correspondientes a las Entidades Públicas, y con excepción de las correspondientes al Seguro de Servicios Médicos. Deberán cubrir además un interés del medio por ciento mensual sobre saldos a partir de sus respectivos vencimientos.
@@ -799,9 +833,11 @@ En un plazo de seis meses a partir de la fecha de vigencia de esta Ley, el Conse
 
 El personal de la Dirección de Pensiones del Estado de México y del Departamento Médico, a que se refiere el artículo 2 Transitorio, se tiene por confirmado en sus respectivos cargos y con reconocimiento de su antigüedad en sus servicios.
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 1974)</small>
+
 ###### Artículo 9.
 
-Los deudores de la Dirección de Pensiones por operaciones de venta de casas y préstamos hipotecarios o quirografarios cuyo importe no esté liquidado al entrar en vigor esta Ley, quedan obligados a sujetarse a las disposiciones del artículo 52.
+Los deudores de la Dirección de Pensiones por operaciones de venta de casas y préstamos hipotecarios cuyo importe no esté liquidado al entrar en vigor esta Ley, quedan obligados a sujetarse a las disposiciones del Artículo 102.
 
 ###### Artículo 10.
 
@@ -819,6 +855,12 @@ Las solicitudes de pensión que tenga en trámite la Dirección de Pensiones al 
 
 Esta Ley entrará en vigor el primero de septiembre de mil novecientos sesenta y nueve, con excepción de la disposición a que se refiere la fracción II del artículo 59, la que empezará a aplicarse el primero de enero de mil novecientos setenta.
 
+> <small>(ADICIONADO, G.G. 27 DE JULIO DE 1974)</small>
+
+###### Artículo 14.
+
+Las personas que durante el período del 26 de abril de 1956 al 31 de diciembre de 1968 prestaron sus servicios según el abrogado Código de Protección a la Infancia para el Estado de México, podrán acogerse por dicho tiempo a lo dispuesto por el Artículo 5o. Transitorio.
+
 LO TENDRÁ ENTENDIDO EL GOBERNADOR DEL ESTADO, HACIENDO QUE SE PUBLIQUE Y SE CUMPLA.
 
 Dado en el Palacio del Poder Legislativo, en Toluca de Lerdo, a los quince días del mes de agosto de mil novecientos sesenta y nueve.- Diputado Presidente, Lic. René Sánchez Vértiz.- Diputado Secretario, José Martínez Martínez.- Diputado Secretario, Fermín Alfaro Cadena.- Rúbricas.
@@ -834,3 +876,13 @@ Lic. JUAN FERNANDEZ ALBARRAN
 El Secretario General de Gobierno,
 
 Lic. GUSTAVO A. BARRERA GRAF
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 27 DE JULIO DE 1974.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 121 EXPEDIDO POR LA XLV LEGISLATURA DEL ESTADO.- SE REFORMAN LOS ARTÍCULOS 2o., EN SUS FRACCIÓN II, 3o., 13, 20, 33, 35, 36, 63, 66 EN SU SEXTO PÁRRAFO, 67, 68, 75, 95 EN SUS FRACCIONES I Y III, 96, 102 Y 9o., DE LOS TRANSITORIOS; SE ADICIONA FRACCIÓN IV AL ARTÍCULO 95, UN PÁRRAFO AL 4 DE LOS TRANSITORIOS Y ARTÍCULO 14 A LOS TRANSITORIOS DE LA LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS COORDINADOS Y DESCENTRALIZADOS".]
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
