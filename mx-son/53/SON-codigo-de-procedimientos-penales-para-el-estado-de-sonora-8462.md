@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-penales-para-el-estado-de-sonora-8462"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-17"
-last_updated: "1992-05-11"
+last_updated: "1994-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE MAYO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE MARZO DE 1994.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 17 de agosto de 1949.
 
@@ -365,9 +365,11 @@ Cuando cambiare el personal de un tribunal, no se proveerá auto alguno, haciend
 
 Cuando no tenga que dictarse resolución alguna anterior a la sentencia, sí se hará saber, en auto especialmente dictado, el cambio de personal.
 
+> <small>(REFORMADO, B.O. 24 DE MARZO DE 1994)</small>
+
 ###### ARTICULO 43.
 
-Cuando esté plenamente comprobado en autos el delito de que se trata, el funcionario que conozca del asunto dictará las providencias necesarias, a solicitud del ofendido, para restituirlo en el goce de sus derechos, siempre que estén legalmente justificados. Si se tratare de cosas, únicamente podrán retenerse, esté o no comprobado el cuerpo del delito, cuando a juicio de quien practique las diligencias, la retención fuere necesaria para el éxito de la averiguación.
+Cuando estén plenamente comprobados en autos los elementos del tipo penal del delito de que se trate, el Ministerio Público durante la averiguación previa, o el juzgador en cualquier período del procedimiento judicial, dictará las providencias necesarias, a solicitud del ofendido, para restituirlo en el goce de sus derechos, siempre que estén legalmente justificados. Si se tratare de cosas, únicamente podrán retenerse, estén o no comprobados los elementos del tipo penal, cuando a juicio de quien practique las diligencias, la retención fuere necesaria para el éxito de la averiguación.
 
 ###### ARTICULO 44.
 
@@ -1037,6 +1039,10 @@ II.- Cuando se acredite plenamente que el inculpado no tuvo participación en la
 
 III.- Cuando aun pudiendo ser delictivos la conducta o los hechos de que se trate, resulte imposible la prueba de su existencia por obstáculo material insuperable;
 
+> <small>(ADICIONADA, B.O. 24 DE MARZO DE 1994)</small>
+
+III BIS.- Cuando se esté en alguno de los casos a que se refiere la fracción III, del artículo 67 del Código Penal;
+
 IV.- Cuando la acción penal se haya extinguido legalmente, en los términos del Código Penal; y
 
 V.- Cuando de las diligencias practicadas, se desprenda plenamente que el inculpado actuó en circunstancias que excluyen la responsabilidad penal.
@@ -1313,7 +1319,7 @@ En todo caso de comprobación del cuerpo del delito tendrá valor probatorio ple
 
 Los instrumentos del delito y las cosas objeto o efecto de él, así como aquéllos en que existan huellas del mismo o pudieran tener relación con éste, serán asegurados, ya sea recogiéndolos, poniéndolos en secuestro judicial o simplemente al cuidado y bajo la responsabilidad de alguna persona, para que no se alteren, destruyan o desaparezcan. Tratándose de delitos culposos, ocasionados con motivo de tránsito de vehículos, éstos podrán asegurarse por el Ministerio Público, en cuyo caso se entregarán en depósito a su conductor o quien se le estime como propietario, quienes deberán presentarlos ante la autoridad competente cuando ésta lo solicite. En caso de que los depositarios no presenten los vehículos cuando así lo ordene la autoridad, ésta utilizará los medios de apremio previstos en este Código; si a pesar de loa anterior no se logra lo ordenado, se procederá en contra del depositario en los términos del artículo 153 del Código Penal.
 
-De todas las cosas aseguradas, se hará un inventario, en el que se le describirá de tal manera, que en cualquier tiempo pueden ser identificadas.
+De todas las cosas aseguradas, se hará un inventario, en el que se les describirá de tal manera, que en cualquier tiempo puedan ser identificadas.
 
 ###### ARTICULO 175.
 
@@ -3261,29 +3267,37 @@ Cuando el reo se encuentre compurgando la sanción en el establecimiento corresp
 
 En el caso a que se refiere el artículo 57 del Código Penal, cualquiera que sea la sanción impuesta en la sentencia, excepto aquella que requiera rehabilitación, si no se ha compurgado, el citado tribunal resolverá, en la forma que previene el primer párrafo de este artículo, que cesen los efectos que produzca la sentencia.
 
-### CAPITULO VII. Rehabilitación
+### CAPITULO VI BIS. Indulto necesario o reconocimiento de Inocencia
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE MARZO DE 1994)</small>
 
 ###### ARTICULO 522.
 
-El indulto puede ser por gracia o necesario.
+(DEROGADO, B.O. 24 DE MARZO DE 1994)
 
 ###### ARTICULO 523.
 
-El indulto por gracia se concederá a reos no políticos tomando en cuenta la gravedad del delito cometido; las circunstancias personales del sentenciado; el monto de la pena impuesta y el tiempo de reclusión sufrido, que nunca será menor de una tercera parte de la sanción impuesta en sentencia irrevocable. En este caso, el interesado ocurrirá al Congreso Local con su instancia y justificante respectivo.
-
-El Congreso, conciliando los intereses de la sociedad con los del sentenciado y su familia, resolverá concediendo el indulto si se encuentran méritos suficientes y si está legalmente acreditado que el reo ha compurgado cuando menos una tercia parte de la sanción impuesta en sentencia irrevocable.
+(DEROGADO, B.O. 24 DE MARZO DE 1994)
 
 ###### ARTICULO 524.
 
 (DEROGADO, B.O. 1 DE FEBRERO DE 1975)
 
+> <small>(REFORMADO, B.O. 24 DE MARZO DE 1994)</small>
+
 ###### ARTICULO 525.
 
-Tratándose de delitos políticos, el Ejecutivo del Estado en vista de las circunstancias a que se refiere la primera parte del artículo 523, concederá el indulto solicitado.
+El solicitante del indulto, en el supuesto del artículo 93, del Código Penal para el Estado de Sonora, ocurrirá al Ejecutivo Estatal con su petición, por conducto de la Secretaria de Gobierno, debiendo acompañar la documentación que acredite el cumplimiento de los requisitos que se señalan en dicho precepto.
+
+El Ejecutivo Estatal, con base en la documentación relativa, si así conviniere a la tranquilidad y seguridad pública, concederá el indulto sin condición alguna, o con las que estime necesarias.
+
+> <small>(ADICIONADO, B.O. 24 DE MARZO DE 1994)</small>
+
+### CAPITULO VII. Rehabilitación
 
 ###### ARTICULO 526.
 
-El indulto es necesario cuando se basa en algunos de los motivos siguientes:
+El indulto necesario o reconocimiento de inocencia del sentenciado se basará en alguno de los motivos siguientes:
 
 I.- Cuando la sentencia se funde exclusivamente en pruebas que posteriormente se declaren falsas;
 
@@ -3293,39 +3307,49 @@ III.- Cuando condenada una persona por homicidio de otra que hubiere desaparecid
 
 IV.- Cuando dos reos hayan sido condenados por el mismo delito y se demuestre la imposibilidad de que los dos lo hubieren cometido;
 
-V.- Cuando el reo hubiere sido condenado por los mismos hechos en dos juicios distintos. En este caso el indulto procederá respecto de la segunda sentencia; y
+> <small>(REFORMADA, B.O. 24 DE MARZO DE 1994)</small>
 
-VI.- En el caso a que se refiere el artículo 57 del Código Penal.
+V.- Cuando el sentenciado hubiese sido condenado por los mismos hechos en juicios diversos. En este caso prevalecerá la sentencia más benigna;
+
+VI.- (DEROGADA, B.O. 24 DE MARZO DE 1994)
+
+> <small>(REFORMADO, B.O. 24 DE MARZO DE 1994)</small>
 
 ###### ARTICULO 527.
 
-El sentenciado que se crea con derecho a obtener el indulto necesario, ocurrirá al presidente del Supremo Tribunal de Justicia del Estado por escrito en el que expondrá la causa en que funda su petición, acompañando las pruebas correspondientes o protestando exhibirlas oportunamente. Sólo será admitida la prueba documental, salvo que se trate del caso a que se refiere la fracción III del artículo anterior.
+El sentenciado que se crea con derecho a obtener el indulto necesario o reconocimiento de su inocencia, ocurrirá al presidente del Supremo Tribunal de Justicia del Estado, por escrito, en el que expondrá las causas en que funda su petición, acompañando las pruebas correspondientes o protestando exhibirlas oportunamente. Solo será admitida la prueba documental, salvo que se trate del caso a que se refiere la fracción III del artículo anterior.
 
-Al hacer su solicitud el sentenciado, podrá nombrar defensor para que lo patrocine.
+Al hacer su solicitud, el sentenciado podrá nombrar defensor para que lo patrocine.
 
 ###### ARTICULO 528.
 
 Recibida la solicitud se pedirá inmediatamente el proceso o procesos al tribunal en que se encontraren; y cuando conforme al artículo 527 se haya protestado exhibir las pruebas, se señalará un término prudente para recibirlas.
 
+> <small>(REFORMADO, B.O. 24 DE MARZO DE 1994)</small>
+
 ###### ARTICULO 529.
 
-Recibido el proceso y, en su caso, las pruebas del promovente, se pondrá el expediente a la vista del Ministerio Público para que pida lo que a su representación convenga, por el término de tres días.
+Recibido el proceso y, en su caso, las pruebas del promovente, se pondrá el expediente a la vista del Ministerio Público, por el término de 15 días, para que exprese lo que a su representación convenga.
 
-Contestada la vista por el Ministerio Público, se oirá al reo y a su defensor para que dentro del término de tres días formulen sus alegatos por escrito.
+> <small>(REFORMADO, B.O. 24 DE MARZO DE 1994)</small>
 
 ###### ARTICULO 530.
 
-Transcurridos los términos a que se refiere el artículo anterior, se fallará el asunto declarando fundada o no la solicitud, dentro de los cinco días siguientes.
+Transcurridos los términos a que se refiere el artículo anterior, se fallará el asunto declarado fundada o no la solicitud, dentro de los 10 días hábiles siguientes.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE MARZO DE 1994)</small>
 
 ###### ARTICULO 531.
 
-Si se declara fundada la solicitud de indulto, se remitirá original el expediente al Congreso del Estado, para que sin más trámite otorgue el indulto, procediéndose en su caso como dispone el artículo 537.
+Si se declara fundada la solicitud de indulto necesario o reconocimiento de inocencia, se remitirá el expediente original al Ejecutivo Estatal, por conducto de la Secretaria de Gobierno, para que, sin más trámite, reconozca la inocencia del sentenciado.
 
 En caso contrario, el Supremo Tribunal de Justicia mandará archivar el expediente, haciéndolo saber a las partes.
 
+> <small>(REFORMADO, B.O. 24 DE MARZO DE 1994)</small>
+
 ###### ARTICULO 532.
 
-Todas las resoluciones en que se conceda un indulto se publicarán el Boletín Oficial del Estado y se comunicarán al tribunal que hubiere dictado la sentencia para que haga la correspondiente anotación en el proceso.
+Todas las resoluciones en que se reconozca la inocencia de un sentenciado, se publicarán en el Boletín Oficial del Gobierno del Estado y se comunicarán al Tribunal que hubiere dictado la sentencia, para que haga las anotaciones respectivas.
 
 ###### ARTICULO 533.
 
@@ -3478,5 +3502,15 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 No serán aplicables las modificaciones contenidas en esta Ley, a las actuaciones y diligencias penales practicadas antes del inicio de su vigencia.
 
 ###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a la presente ley.
+
+B.O. 24 DE MARZO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+La presente ley, previa su publicación en el Boletín Oficial del Gobierno del Estado, entrará en vigor el día 1o. de mayo de 1994.
+
+###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente ley.
