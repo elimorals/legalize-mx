@@ -4,7 +4,7 @@ identifier: "MOR-codigo-electoral-para-el-estado-de-morelos-10583"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-11-28"
-last_updated: "1999-10-02"
+last_updated: "2000-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10583&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO ELECTORAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el jueves 28 de noviembre de 1996.
 
@@ -117,9 +117,9 @@ El sufragio es un derecho y una obligación del ciudadano. El voto es universal,
 
 Los ciudadanos morelenses tendrán los siguientes derechos político-electorales:
 
-I.- Votar en las elecciones populares y participar en los procesos de plebiscito y referéndum que se convoquen.
+I.- Votar en las elecciones populares y participar en los procesos de plebiscito y referéndum que se convoquen;
 
-II.- Ser votado para todos los cargos de elección popular de conformidad con las disposiciones legales.
+II.- Ser votado para todos los cargos de elección popular de conformidad con las disposiciones legales;
 
 III.- Asociarse individual y libremente en organizaciones políticas.
 
@@ -341,25 +341,23 @@ Décimo Octavo Distrito: Jonacatepec, que comprende los Municipios de Axochiapan
 
 Para la elección de Diputados, además de los dieciocho Distritos Electorales Uninominales, existirá una circunscripción plurinominal, constituida por toda la Entidad, en la que serán electos doce Diputados según el principio de representación proporcional, a través del Sistema de Lista Estatal, integrada por hasta doce candidatos propietarios y sus respectivos suplentes por cada Partido Político contendiente.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 22.
 
-La asignación de Diputados de representación proporcional se sujetará a las bases siguientes:
+La asignación de diputados de representación proporcional se sujetará a las bases siguientes:
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+I.- Para los efectos del cálculo de los diputados electos por el principio de representación proporcional, se entiende por votación total emitida la suma de los votos depositados en las urnas, y por votación estatal efectiva la que resulte de deducir de la votación total emitida, los votos a favor de los partidos políticos que no hayan obtenido el 3% de la votación, los votos nulos y los de candidatos no registrados;
 
-I.- Tendrán derecho a participar en la asignación de Diputados, según el principio de representación proporcional, los Partidos Políticos que acrediten la postulación de candidatos de mayoría relativa, en cuando menos doce distritos electorales y alcance, el tres por ciento o más del total de la votación emitida en el Estado;
+II.- Ningún partido político podrá contar con más de 18 diputados electos por ambos principios;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+III.- Para la designación de diputados de representación proporcional, se procederá a la aplicación de una fórmula de proporcionalidad pura, bajo el principio de cociente natural y resto mayor;
 
-II.- Para asignar Diputaciones de representación proporcional se estará a los (sic) siguiente:
+IV.- El cociente natural es el resultado de dividir la votación estatal efectiva entre el total de diputados integrantes del Congreso;
 
-1.- De la votación total emitida se sumará el porcentaje obtenido por dichos Partidos Políticos y se dividirá entre el número total de diputaciones pendientes de asignar, el resultado que se obtenga será el cociente de distribución electoral.
+V.- De la votación estatal efectiva que obtenga cada partido político, se deducirán los votos que resulten de multiplicar el cociente natural por el número de distritos de mayoría obtenidos por cada partido político, con el remanente de votos que resulte a cada partido, se procederá la distribución de diputaciones por representación proporcional, asignado (sic) tantas diputaciones como número de cociente naturales (sic) obtenga cada partido; y
 
-2.- Si después de efectuar la asignación prevista en el párrafo anterior, quedaren Diputaciones por repartir, se asignarán a los Partidos Políticos que tengan, en el orden decreciente, el remanente mayor, al dividir el porcentaje de su votación entre el cociente natural.
-
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
-
-III.- Ningún partido podrá tener más de dieciocho Diputaciones sumados ambos principios.
+VI.- Si después de la asignación dispuesta en el párrafo anterior hubiese diputaciones por repartir, estas se asignarán en función al resto mayor de votos, entendiendo por éste el remanente más entre los restos de las votaciones de cada partido político.
 
 DE LA ELECCION DE LOS AYUNTAMIENTOS
 
@@ -631,6 +629,12 @@ Una vez registrado el convenio de coalición, el Instituto Estatal Electoral ord
 
 Si una vez registrada la coalición no cumple con el registro de las fórmulas de candidatos dentro de los plazos señalados para tal efecto en el presente Código, la coalición y el registro de fórmulas de candidatos quedarán automáticamente sin efecto.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+ARTICULO 50 bis.- Para presentar candidatos a Gobernador del Estado, a Presidentes Municipales y Diputados por el principio de Mayoría Relativa, dos o más partidos políticos, sin mediar coalición pueden postular al mismo candidato, para ello es indispensable el consentimiento del propio candidato y de los Partidos Políticos, que lo postulen.
+
+Los votos se computarán a favor de cada Partido Político que los haya obtenido y se sumarán a favor del candidato común.
+
 ###### ARTICULO 51.
 
 Para efectos de la fusión, los Partidos Políticos que así lo convengan, establecerán las características del nuevo Partido, o en su defecto la indicación de cual de los Partidos conservará su personalidad jurídica y vigencia de su registro, así como los Partidos que quedan fusionados.
@@ -689,11 +693,21 @@ Para la pérdida del registro motivado por la hipótesis prevista en la fracció
 
 La pérdida de registro de un Partido Político no tendrá efectos en relación con los triunfos que sus candidatos hayan obtenido en las elecciones.
 
-### CAPITULO I. DE LOS DERECHOS
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+### CAPITULO VI. DE LOS PROCESOS DE SELECCION INTERNA DE LOS PARTIDOS POLITICOS
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 58 bis.- Los partidos políticos con registro en el Estado, podrán solicitar el auxilio y colaboración del Instituto Estatal Electoral, para instrumentar sus procesos de selección interna, tanto para candidatos de elección popular, como para cargos de dirigencia partidista.
+
+El convenio que se celebre entre el Instituto Estatal electoral y el Partido o Partidos solicitantes determinará el modo, tiempo y recursos materiales humanos y financieros que en su caso se requieran, sin considerar la infraestructura del propio instituto que en ningún momento percibirá lucro alguno. Para el cumplimiento de esta función, el Instituto Estatal Electoral considerará en su presupuesto una partida específica.
+
+Durante el año de la elección, el Instituto Estatal Electoral coadyuvará a esta función, hasta 15 días antes del inicio del registro de candidatos, y después de 60 días posteriores al día de la jornada electoral.
 
 ## TITULO QUINTO. DE LOS DERECHOS, OBLIGACIONES Y PRERROGATIVAS DE LAS ORGANIZACIONES POLITICAS
 
-### CAPITULO II. DE LAS OBLIGACIONES Y RESPONSABILIDADES
+### CAPITULO I. DE LOS DERECHOS
 
 ###### ARTICULO 59.
 
@@ -717,9 +731,15 @@ H).- Establecer relaciones con organizaciones y Partidos Políticos extranjeros 
 
 I).- Recibir del Instituto Estatal Electoral su constancia de registro;
 
-J).- Los demás que se deriven de este Código.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO III. DE LAS PRERROGATIVAS
+J) Solicitar el auxilio y colaboración del Instituto Estatal Electoral para llevar a cabo sus procesos de selección interna.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+K) Los demás que se deriven de este Código.
+
+### CAPITULO II. DE LAS OBLIGACIONES Y RESPONSABILIDADES
 
 ###### ARTICULO 60.
 
@@ -757,7 +777,7 @@ El incumplimiento de las obligaciones señaladas en este Código, se sancionará
 
 Los dirigentes, representantes y afiliados de los Partidos Políticos, son responsables civil y penalmente de los actos que realicen en el ejercicio de sus funciones.
 
-### CAPITULO IV. DEL FINANCIAMIENTO
+### CAPITULO III. DE LAS PRERROGATIVAS
 
 ###### ARTICULO 63.
 
@@ -825,7 +845,7 @@ El Instituto Estatal Electoral organizará a través de la Comisión Medios de C
 
 Será derecho exclusivo de los Partidos Políticos contratar tiempos en radio y televisión para difundir sus mensajes, principios ideológicos, programas de acción y plataformas electorales; encaminados a la obtención del voto.
 
-### CAPITULO V. DE LA PROPAGANDA ELECTORAL
+### CAPITULO IV. DEL FINANCIAMIENTO
 
 ###### ARTICULO 68.
 
@@ -834,6 +854,10 @@ El régimen de financiamiento de los Partidos Políticos tendrá las siguientes 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 a) Financiamiento público, que prevalecerá sobre el de origen privado;
+
+(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE AGOSTO DE 2001)
+
+Los partidos políticos registrados ante el Instituto Electoral recibirán durante su actuación y durante la actividad electoral, el financiamiento público en efectivo o en especie. El monto total de financiamiento público será el que resulte de multiplicar el total de ciudadanos inscritos en el padrón electoral por el equivalente a un día de salario mínimo vigente de la zona económica a la que corresponda el estado, de conformidad con la disponibilidad presupuestal del Gobierno Estatal en el ejercicio fiscal de que se trate para ese año;
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
@@ -875,9 +899,9 @@ Cada Partido Político podrá recibir previa comprobación, el importe que resul
 
 El financiamiento público, en efectivo o en especie, que reciban los Partidos Políticos con cargo al Presupuesto de Egresos del Gobierno del Estado, deberá repartirse conforme a las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
-I.- El veinticinco por ciento de la cantidad total se distribuirá en forma igualitaria entre todos los partidos políticos registrados y el setenta y cinco por ciento restante se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de Diputados de mayoría relativa inmediata anterior;
+I.- El 10% de la cantidad total se distribuirá en forma igualitaria entre todos los partidos políticos registrados. El 40% de cantidad total se distribuirá para aquellos partidos que hayan obtenido más del 3% de la votación de diputados de mayoría relativa, el cual se distribuirá en forma igualitaria, y el 50% restante de la cantidad total se distribuirá en proporción a los votos que hubieren obtenido en la elección de diputados de mayoría relativa inmediata anterior, de la cual quedarán excluidos aquello (sic) partidos que no hayan obtenido más del 3%;
 
 (REFORMADA, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
 
@@ -898,6 +922,10 @@ V.- El Consejo Estatal Electoral aprobará el calendario presupuestal conforme a
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 VI.- El financiamiento público, en efectivo o en especie, otorgado a cada Partido Político para sus actividades ordinarias le será entregado al representante legalmente acreditado del Partido de que se trate.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+Del financiamiento público, los partidos políticos destinarán el 25% para actividades de capacitación y desarrollo democrático, el 25% para actividades de información y difusión política y el 50% restante para actividad de fortalecimiento de su organización política, misma que serán sujetas de comprobación ante el Instituto Electoral; de no cumplirse esta disposición el Partido Político será sancionado en el ejercicio de gasto siguiente descontándole porcentaje de prerrogativa que no destinó a estas actividades sustantivas.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
@@ -959,7 +987,7 @@ f) El Consejo Estatal Electoral publicará en el Periódico Oficial del Estado "
 
 Las quejas sobre el origen y la aplicación de los recursos derivados del financiamiento de los Partidos Políticos, deberán ser presentadas ante el Secretario Ejecutivo del Instituto Estatal Electoral, quien las turnará al despacho, a efecto de que las analice previamente a que rinda su dictamen.
 
-### CAPITULO I. DEL INSTITUTO ESTATAL ELECTORAL
+### CAPITULO V. DE LA PROPAGANDA ELECTORAL
 
 ###### ARTICULO 73.
 
@@ -987,6 +1015,12 @@ VI.- Se prohibe a las empresas comerciales de bailes populares y eventos similar
 
 Los Partidos Políticos que infrinjan las disposiciones contenidas en este artículo, podrán ser denunciados ante el Consejo Estatal Electoral; el Consejero Presidente concederá un plazo de 48 horas para que el Partido Político de que se trate borre o quite, según sea el caso, la propaganda que hubiere fijado en contravención a este artículo; de no hacerlo, se pedirá a la autoridad municipal que lo haga, pero el costo que ello implique se duplicará y le será deducido del financiamiento público que le corresponda, entregándose el monto al Ayuntamiento que sufragó el gasto.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+ARTICULO 73 bis.- Durante el año en que se efectúen las elecciones en la entidad, los gobiernos estatal y municipales, no podrán durante los noventa días previos al día en que se efectúe la elección, publicitar las obras que realice o haya realizado, así como los programas implementados, con excepción de los programas y acciones de protección civil, y de prevención y atención de desastres naturales.
+
+La contravención a las disposiciones arriba señaladas, por parte de las autoridades estatales o municipales, será considerada como ataque a las libertades electorales y se estará a lo dispuesto en los artículos 134, 136 y 137 de la Constitución Política del Estado, sin perjuicio de las responsabilidades penales a que diere lugar.
+
 ###### ARTICULO 74.
 
 El día de la elección y los tres que le precedan, no se permitirá la celebración de mítines, reuniones públicas ni cualquier otro acto de propaganda político-electoral.
@@ -997,7 +1031,7 @@ En los lugares señalados para la ubicación de las casillas no habrá ninguna p
 
 ## TITULO SEXTO. DE LOS ORGANOS ELECTORALES
 
-### CAPITULO II. DE LAS SESIONES DEL CONSEJO ESTATAL ELECTORAL
+### CAPITULO I. DEL INSTITUTO ESTATAL ELECTORAL
 
 ###### ARTICULO 76.
 
@@ -1032,6 +1066,10 @@ VII.- En su caso, celebrar convenios con las Autoridades Electorales de la Feder
 > <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 VIII.- Garantizar la transparencia de los procesos de plebiscito y el referéndum de acuerdo a lo establecido en la Constitución Política del Estado, el presente Código y la ley de la materia.
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+IX.- Coadyuvar con los partidos políticos en sus procesos de selección interna para cargos directivos o de elección popular.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
@@ -1129,7 +1167,7 @@ El Consejero Presidente y los Consejeros Electorales propietarios durarán en su
 
 Durante el tiempo de su encargo, no podrán desempeñar ningún otro empleo, cargo o comisión de la Federación, del Estado, de los Municipios o de los particulares; excepto las actividades docentes, científicas, culturales, de investigación o de beneficencia, en tanto no impidan el ejercicio expedito de sus funciones. La infracción de esta disposición será castigada con la pérdida del cargo.
 
-### CAPITULO III. DEL CONSEJERO PRESIDENTE
+### CAPITULO II. DE LAS SESIONES DEL CONSEJO ESTATAL ELECTORAL
 
 ###### ARTICULO 86.
 
@@ -1305,7 +1343,7 @@ XXXVI.- La remoción del Secretario Ejecutivo y de los Directores Ejecutivos, s�
 
 XXXVII.- Las demás que le confiere este Código y las disposiciones legales relativas.
 
-### CAPITULO IV. DE LOS CONSEJEROS ELECTORALES
+### CAPITULO III. DEL CONSEJERO PRESIDENTE
 
 ###### ARTICULO 91.
 
@@ -1369,7 +1407,7 @@ XIII.- Las demás que señale este ordenamiento o el Consejo Estatal Electoral l
 
 La retribución que perciban los miembros del Consejo Estatal Electoral será la prevista en el Presupuesto de Egresos del Gobierno del Estado.
 
-### CAPITULO V. DEL SECRETARIO EJECUTIVO
+### CAPITULO IV. DE LOS CONSEJEROS ELECTORALES
 
 ###### ARTICULO 93.
 
@@ -1391,7 +1429,7 @@ V.- Desempeñar las funciones que le encomiende el Consejo Estatal Electoral; y
 
 VI.- Las demás que señalen este Ordenamiento y el Reglamento Interior del Instituto Estatal Electoral.
 
-### CAPITULO VI. DE LAS DIRECCIONES EJECUTIVAS
+### CAPITULO V. DEL SECRETARIO EJECUTIVO
 
 ###### ARTICULO 94
 
@@ -1521,7 +1559,7 @@ XXXVI.- Informar a los distintos Órganos y Direcciones del Instituto sobre los 
 
 XXXVII.- Las demás que señale este Código, le asigne el consejero presidente o el Consejo Estatal Electoral.
 
-### CAPITULO VII. DE LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES
+### CAPITULO VI. DE LAS DIRECCIONES EJECUTIVAS
 
 ###### ARTICULO 97.
 
@@ -1669,7 +1707,7 @@ XV.- Elaborar y proponer al Consejo Estatal Electoral, a través de la Secretar�
 
 XVI.- Las demás que le confiera este Código, el Consejero Presidente o el Consejo Estatal Electoral.
 
-### CAPITULO VIII. ATRIBUCIONES DE LOS PRESIDENTES Y SECRETARIOS DE LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES
+### CAPITULO VII. DE LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES
 
 ###### ARTICULO 103.
 
@@ -1777,7 +1815,7 @@ IX.- Asumir las atribuciones de los Consejos Distritales, en aquellos Municipios
 
 X.- Las demás que este ordenamiento les confiere o le asigne el Consejo Estatal Electoral.
 
-### CAPITULO IX. DE LAS MESAS DIRECTIVAS DE CASILLA
+### CAPITULO VIII. ATRIBUCIONES DE LOS PRESIDENTES Y SECRETARIOS DE LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES
 
 ###### ARTICULO 111.
 
@@ -1835,7 +1873,7 @@ VI.- Firmar junto con el Presidente, los acuerdos y resoluciones del propio Cons
 
 VII.- Las demás que le señale este Código.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO IX. DE LAS MESAS DIRECTIVAS DE CASILLA
 
 ###### ARTICULO 114.
 
@@ -1963,7 +2001,7 @@ Los Consejeros Distritales y Municipales Electorales percibirán la remuneració
 
 ## TITULO SEPTIMO. DE LAS ETAPAS DEL PROCESO ELECTORAL
 
-### CAPITULO II. DEL REGISTRO DE CANDIDATOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 127.
 
@@ -1991,7 +2029,7 @@ La etapa de resultados, declaraciones de validez y calificación de las eleccion
 
 En los procesos electorales al concluir cualquiera de sus etapas o de alguno de los actos o actividades trascendentes de los órganos electorales, el Consejero Presidente del Consejo Estatal Electoral, podrá difundir su realización y conclusión por los medios que estime pertinentes. La publicidad en ningún caso será obligatoria, ni interrumpe o afecta, por su omisión o ejecución, la validez, eficacia y continuidad de las actividades, actos o resoluciones de los órganos electorales.
 
-### CAPITULO III. DE LAS CAMPAÑAS ELECTORALES
+### CAPITULO II. DEL REGISTRO DE CANDIDATOS
 
 ###### ARTICULO 129.
 
@@ -2055,6 +2093,10 @@ La expedición de los documentos será gratuita. Las Autoridades competentes dar
 
 Los Organismos Electorales recibirán las solicitudes de registro y verificarán que se anexe la documentación a que se refiere este artículo, procediendo a inscribirlas en caso de que las mismas y los Candidatos reúnan los requisitos establecidos en la Constitución Política del Estado y en este Código.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+Durante el mismo proceso electoral, no podrán ser registrados como candidatos a un cargo de elección popular, quienes en los procesos de selección interna de otro partido político hubieren perdido su nominación, en ese mismo proceso electoral.
+
 ###### ARTICULO 135.
 
 Cada Partido Político o coalición registrará un sólo color o combinación de colores para todas las candidaturas que sostenga.
@@ -2069,7 +2111,7 @@ Para efectos de su difusión, el Consejo Estatal Electoral enviará para su publ
 
 En ningún caso, la falta de publicación afectará la validez y eficacia de los registros aprobados por el Consejo Estatal Electoral.
 
-### CAPITULO IV. DE LA INTEGRACION Y UBICACION DE LAS MESAS DIRECTIVAS DE CASILLA
+### CAPITULO III. DE LAS CAMPAÑAS ELECTORALES
 
 ###### ARTICULO 138.
 
@@ -2213,7 +2255,7 @@ El aviso se hará con 48 horas de anticipación a la verificación del acto, ent
 
 Cualquier infracción a las disposiciones contenidas en el presente Código, será sancionada en los términos del mismo.
 
-### CAPITULO V. DEL REGISTRO DE REPRESENTANTES
+### CAPITULO IV. DE LA INTEGRACION Y UBICACION DE LAS MESAS DIRECTIVAS DE CASILLA
 
 ###### ARTICULO 153.
 
@@ -2305,7 +2347,7 @@ Dentro de dicho periodo deberá notificarse personalmente a los integrantes de l
 
 Si después de la tercera publicación ocurren causas supervinientes fundadas, el Consejo Estatal Electoral podrá hacer los cambios que se requieran y tratándose de la ubicación de las casillas, mandará fijar avisos en los lugares excluidos, indicando la nueva ubicación.
 
-### CAPITULO UNICO
+### CAPITULO V. DEL REGISTRO DE REPRESENTANTES
 
 ###### ARTICULO 160.
 
@@ -2377,9 +2419,7 @@ El Consejo Municipal, conservará la copia del nombramiento y devolverá el orig
 
 ## TITULO OCTAVO. DE LA DOCUMENTACION Y MATERIAL ELECTORAL
 
-### CAPITULO I. DE LA INSTALACION Y APERTURA DE CASILLAS
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 1999)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 164.
 
@@ -2467,7 +2507,7 @@ El Presidente y Secretario de cada Mesa Directiva de Casilla cuidarán las condi
 
 ## TITULO NOVENO. DE LA JORNADA ELECTORAL
 
-### CAPITULO II. DE LA VOTACION Y CIERRE DE CASILLAS
+### CAPITULO I. DE LA INSTALACION Y APERTURA DE CASILLAS
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
@@ -2525,7 +2565,9 @@ V.- El Consejo Municipal Electoral fundadamente así lo disponga y lo notifique 
 
 Cuando haya cambio de casilla por las causas descritas, deberá reubicarse la casilla dentro de la misma sección y en el lugar adecuado más próximo, debiendo dejar aviso de la nueva ubicación en el exterior del lugar original.
 
-### CAPITULO III. DEL ESCRUTINIO Y COMPUTO
+### CAPITULO II. DE LA VOTACION Y CIERRE DE CASILLAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 175.
 
@@ -2645,7 +2687,7 @@ II.- Incidentes registrados durante la votación.
 
 La falta de firma de los representantes de los Partidos Políticos no afecta en forma alguna la validez y eficacia del acta de cierre.
 
-### CAPITULO IV. DE LA CLAUSURA DE LA CASILLA Y DE LA REMISION DEL PAQUETE ELECTORAL
+### CAPITULO III. DEL ESCRUTINIO Y COMPUTO
 
 ###### ARTICULO 186.
 
@@ -2739,7 +2781,7 @@ Las listas nominal y adicional de electores se incluirán en el paquete de la el
 
 El Presidente de la Mesa Directiva de la Casilla entregará un ejemplar de cada una de las actas a los representantes de los Partidos Políticos y el original la insertará en el paquete electoral que entregará al Consejo Electoral que corresponda.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO IV. DE LA CLAUSURA DE LA CASILLA Y DE LA REMISION DEL PAQUETE ELECTORAL
 
 ###### ARTICULO 197.
 
@@ -2753,7 +2795,7 @@ III.- Los representantes de los Partidos acreditados ante la casilla podrán aco
 
 ## TITULO DECIMO. DE LOS ACTOS POSTERIORES A LA JORNADA ELECTORAL Y LOS RESULTADOS ELECTORALES
 
-### CAPITULO II. DEL COMPUTO Y EL RESULTADO ELECTORAL
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 198.
 
@@ -2777,7 +2819,7 @@ IV.- El Consejero Presidente correspondiente, previa autorización de los Consej
 
 V.- El Consejero Presidente, bajo su responsabilidad, y para efectos de la salvaguarda de los paquetes electorales, dispondrá que sean selladas las puertas o el acceso al lugar en que fueren depositados, en presencia de los representantes de los Partidos Políticos que deseen asistir a este acto.
 
-### CAPITULO I. DEL TRIBUNAL ESTATAL ELECTORAL
+### CAPITULO II. DEL COMPUTO Y EL RESULTADO ELECTORAL
 
 ###### ARTICULO 200.
 
@@ -2843,9 +2885,7 @@ En el caso de la elección de Gobernador, el Congreso del Estado al recibir la d
 
 ## TITULO DECIMO PRIMERO. DE LA JUSTICIA ELECTORAL
 
-### CAPITULO II. DE SU INTEGRACION E INSTALACION
-
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+### CAPITULO I. DEL TRIBUNAL ESTATAL ELECTORAL
 
 ###### ARTICULO 208.
 
@@ -2855,7 +2895,9 @@ El Tribunal Estatal Electoral, es el órgano publico autónomo, que en términos
 
 El Tribunal es competente para conocer y resolver de manera definitiva y firme las impugnaciones que se presenten en las distintas etapas del proceso electoral, así como en los tiempos no electorales, en las formas y términos que determine este Código.
 
-### CAPITULO III. DE SU ORGANIZACION Y FUNCIONAMIENTO
+### CAPITULO II. DE SU INTEGRACION E INSTALACION
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 209.
 
@@ -2893,9 +2935,7 @@ Durante el proceso electoral el Tribunal se instalará e iniciará sus funciones
 
 En tiempo no electoral el Tribunal Estatal entrará en receso y se instalará conforme lo determine su Reglamento Interno.
 
-### CAPITULO IV. DE LA ADMINISTRACION DE SUS RECURSOS
-
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+### CAPITULO III. DE SU ORGANIZACION Y FUNCIONAMIENTO
 
 ###### ARTICULO 214.
 
@@ -3049,7 +3089,7 @@ II.- Formular los proyectos de resolución que someterán a la consideración de
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-### CAPITULO I. DE LOS RECURSOS
+### CAPITULO IV. DE LA ADMINISTRACION DE SUS RECURSOS
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
@@ -3067,9 +3107,9 @@ La fiscalización de los recursos del Tribunal Estatal Electoral, estará a carg
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-### CAPITULO II. DE LA COMPETENCIA
+### CAPITULO I. DE LOS RECURSOS
 
-(REFORMADO, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 226.
 
@@ -3117,9 +3157,9 @@ Los motivos para interponer este recurso en los casos señalados por las fraccio
 
 (REUBICADO Y REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)
 
-### CAPITULO III. REQUISITOS DE PROCEDIBILIDAD
+### CAPITULO II. DE LA COMPETENCIA
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+(REFORMADO, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 228.
 
@@ -3133,7 +3173,7 @@ El Tribunal Estatal Electoral será competente para conocer de los recursos de a
 
 (REUBICADO Y REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)
 
-### CAPITULO IV. DE LAS PARTES
+### CAPITULO III. REQUISITOS DE PROCEDIBILIDAD
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
@@ -3159,7 +3199,7 @@ El escrito de protesta no será requisito de procedibilidad para interponer el r
 
 (REUBICADO Y REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)
 
-### CAPITULO V. DE LA LEGITIMACION Y PERSONERIA
+### CAPITULO IV. DE LAS PARTES
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
@@ -3179,7 +3219,7 @@ Los candidatos cuya elección esté controvertida, podrán participar como coady
 
 (REUBICADO Y REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)
 
-### CAPITULO VI. DE LAS NOTIFICACIONES
+### CAPITULO V. DE LA LEGITIMACION Y PERSONERIA
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
@@ -3207,9 +3247,9 @@ III.- Los que estén autorizados para representarlos mediante mandato otorgado e
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-### CAPITULO VII. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
+### CAPITULO VI. DE LAS NOTIFICACIONES
 
-(REFORMADO, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 234.
 
@@ -3251,9 +3291,9 @@ El recurso de inconformidad deberá interponerse dentro del término de cuatro d
 
 (REUBICADO Y REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)
 
-### CAPITULO VIII. DE LA ACUMULACION
+### CAPITULO VII. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+(REFORMADO, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 237.
 
@@ -3457,7 +3497,7 @@ En casos extraordinarios, el Tribunal podrá ordenar que se realice alguna dilig
 
 (REUBICADO Y REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)
 
-### CAPITULO IX. DE LAS PRUEBAS
+### CAPITULO VIII. DE LA ACUMULACION
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
@@ -3505,7 +3545,7 @@ II.- Cuando durante el procedimiento aparezca o sobrevenga alguna causal de impr
 
 (REUBICADO Y REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)
 
-### CAPITULO X. DE LAS RESOLUCIONES
+### CAPITULO IX. DE LAS PRUEBAS
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
@@ -3517,7 +3557,7 @@ También podrán acumularse los expedientes de recursos interpuestos por un mism
 
 (REUBICADO Y REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)
 
-### CAPITULO I. DE LOS CASOS DE NULIDAD
+### CAPITULO X. DE LAS RESOLUCIONES
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
@@ -3577,7 +3617,7 @@ La prueba procede sobre los hechos controvertibles. No lo serán controvertibles
 
 > <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-### CAPITULO II. DE LOS EFECTOS DE LA DECLARACION DE NULIDAD
+### CAPITULO I. DE LOS CASOS DE NULIDAD
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
@@ -3657,7 +3697,9 @@ Los recursos de inconformidad que se presenten en contra de los cómputos distri
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-### CAPITULO UNICO. DE LA IMPOSICION DE SANCIONES POR LA COMISION DE INFRACCIONES ADMINISTRATIVAS
+### CAPITULO II. DE LOS EFECTOS DE LA DECLARACION DE NULIDAD
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 265.
 
@@ -3714,6 +3756,8 @@ II.- No se instalen las casillas en el veinte por ciento de las secciones de la 
 III.- Los dos integrantes de una fórmula de candidatos electos por el principio de mayoría relativa no reúnan los requisitos de elegibilidad a que se refiere este Código.
 
 > <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+### CAPITULO UNICO. DE LA IMPOSICION DE SANCIONES POR LA COMISION DE INFRACCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 269.
 
@@ -4598,3 +4642,13 @@ PRIMERO.- Túrnese el presente decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
 
 TERCERO.- Todos los reglamentos a los que alude el presente Código; deberán elaborarse en un período no mayor a 60 días por una Comisión que estará integrada por dos Consejeros Electorales y en la que deberán participar los representantes de los Partidos Políticos.
+
+P.O. 13 DE SEPTIEMBRE DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo de Estado, para los efectos constitucionales correspondientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el primero de enero de 2001, debiéndose publicar en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
