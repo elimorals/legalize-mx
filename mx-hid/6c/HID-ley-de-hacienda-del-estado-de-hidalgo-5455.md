@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-5455"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-29"
-last_updated: "1995-12-29"
+last_updated: "1996-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 29 de diciembre de 1990.
 
@@ -51,11 +51,11 @@ LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
 Los ingresos del Estado que se establezcan en la Ley de Ingresos, se regulan por las disposiciones que esta Ley señale, y en lo que no esté previsto, por las disposiciones del Código Fiscal y por la legislación común de este Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 2.
 
-La Hacienda Pública del Estado, para el cumplimiento de las funciones que le atribuyen el orden jurídico, percibirá cada año; los impuestos, derechos, productos, aprovechamientos, ingresos extraordinarios y participaciones federales que establezca esta Ley, las demás respectivas y los convenios que se hayan suscrito o que se suscriban para tales efectos.
+La Hacienda Pública del Estado, para el cumplimiento de las funciones que le atribuye el orden jurídico, percibirá los impuestos, derechos, productos, aprovechamientos, ingresos extraordinarios y participaciones federales que establezca esta Ley, la Ley de Ingresos del Estado y las demás respectivas, así como, los convenios que se hayan suscrito o que se suscriban para tales efectos.
 
 ## TITULO SEGUNDO. DE LOS IMPUESTOS
 
@@ -919,53 +919,49 @@ DE LAS DEPENDENCIAS DE LA SECRETARIA DE OBRAS PUBLICAS.
 
 Los Derechos por la prestación de los servicios del Estado, a través de la Dirección General de Gobierno, se causarán y pagarán de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I.- Por la certificación de legalidad de firmas de las autoridades Estatales, Municipales y Educativas en documentos originales o copias certificadas. N$ 6.00
+I.- Por la certificación de legalidad de firmas de las autoridades Estatales, Municipales y Educativas en documentos originales o copias certificadas. $ 7.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I.- Por la certificación de legalidad de firmas de las autoridades Estatales, Municipales y Educativas en documentos originales o copias certificadas. N$ 6.00
+II.- Por legalización en exhortos, en juicios mercantiles y ejecutivos civiles, si el monto no excede de $ 1,000.00 $ 8.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II.- Por legalización en exhortos, en juicios mercantiles y ejecutivos civiles, si el monto no excede de N$ 1,000.00 N$ 7.00
+III.- Si el monto es superior a la cantidad señalada en la fracción anterior, por cada $ 500.00 se cobrará $ 3.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III.- Si el monto es superior a la cantidad señalada en la fracción anterior, por cada N$ 500.00 se cobrará N$ 3.00
+IV.- Si el monto es superior a la cantidad señalada en la fracción anterior, por cada $ 500,000 más, se cobrará $ 14.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV.- Si el monto es superior a la cantidad señalada en la fracción anterior, por cada $ 500,000 más, se cobrará N$ 12.00
+V.- Por la certificación de firmas para efectos de trámites de pasaportes de menores. $ 18.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-V.- Por la certificación de firmas para efectos de trámites de pasaportes de menores. N$ 16.00
-
-VI. (DEROGADA, P.O. 29 DE DIDICEMBRE DE 1995)
+VI.- (DEROGADA, P.O. 29 DE DIDICEMBRE DE 1995)
 
 VII.- Por emisión de opinión favorable del Ejecutivo del Estado, para uso, consumo y almacenamiento de explosivos y sus artificios, se pagarán los derechos en la forma siguiente:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a)Opinión para Paraestatales, Proveedores y Macroindustrias. N$ 300.00
+a)Opinión para Paraestatales, Proveedores y Macroindustrias. 345.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b). Opinión para mediana industria. N$ 150.00
+b). Opinión para mediana industria. $ 173.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-c). Opinión para macroindustria y Empresas Ejidales. N$ 100.00
+c). Opinión para macroindustria y Empresas Ejidales. $ 115.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-d). Opinión para el uso de explosivos por una sola vez en obras pequeñas de carácter municipal. N$ 50.00
+d). Opinión para el uso de explosivos por una sola vez en obras pequeñas de carácter municipal. $ 58.00
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VIII. Por la inscripción de la apostilla para certificar la autenticidad de la firma, la calidad en que el signatario del documento haya actuado y, en su caso, la identidad del sello o timbre del documento.
+VIII. Por la inscripción de la apostilla para certificar la autenticidad de la firma, la calidad en que el signatario del documento haya actuado y, en su caso, la identidad del sello o timbre del documento. $50.00
 
 ###### ARTICULO 71.
 
@@ -973,29 +969,27 @@ Los Derechos por la prestación de los servicios del Registro Público de la Pro
 
 I.- Por la inscripción de documentos relativos a la propiedad o posesión originaria de bienes inmuebles:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a). Accesión de terrenos rústicos. N$ 10.00
+a). Accesión de terrenos rústicos. $ 12.00
 
-b). Accesión de construcciones, pagarán sobre el valor catastral o de avalúo.
-
-8.5 al millar.
+b). Accesión de construcciones, pagarán sobre el valor catastral o de avalúo. 8.5 al millar.
 
 c). Informaciones posesorias. 4.0 al millar.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II.- Por inscripción del apeo o deslinde N$15.00
+II.- Por inscripción del apeo o deslinde $17.00
 
 III.- Por inscripción de aportaciones de bienes inmuebles, se pagará sobre el valor catastral o de avalúo. 8.5 al millar
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV.- Por la inscripción de propiedad en régimen de condominio, se pagará por cada departamento, despacho, vivienda o cualquier otro tipo. N$ 40.00
+IV.- Por la inscripción de propiedad en régimen de condominio, se pagará por cada departamento, despacho, vivienda o cualquier otro tipo. $ 46.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-V.- Por la inscripción de la disolución de la sociedad conyugal en lo referente a bienes inmuebles. N$ 50.00
+V.- Por la inscripción de la disolución de la sociedad conyugal en lo referente a bienes inmuebles. $ 58.00
 
 VI.- Por la inscripción de los contratos de compra venta, donación, cesión de derechos, transmisión de dominio en ejecución de fideicomiso, permuta, usucapión, adjudicaciones judiciales y por herencia así como todas las operaciones que impliquen transmisión de propiedad, pagarán sobre el valor catastral o avalúo bancario. 8.5 al millar
 
@@ -1003,35 +997,37 @@ VII.- Por la inscripción de resoluciones de información ad'perpetuam, se pagar
 
 8.5 al millar
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VIII. Por la inscripción de inmatriculación, se pagará por predio. N$ 30.00
+VIII.- Por la inscripción de inmatriculación, se pagará por predio. $ 35.00
 
 IX.- Por la inscripción de actos, contratos o convenios por los que se fraccione, lotifique o se sub-divida un predio, se pagará de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a). Cuando se trate de predios ubicados en las zonas urbanas residenciales, campestres o industriales, por lote. N$ 75.00
+a). Cuando se trate de predios ubicados en las zonas urbanas residenciales, campestres o industriales, por lote. $ 86.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b). En las demás zonas, por lote N$ 30.00
+b). En las demás zonas, por lote $ 35.00
 
-X.- Por la inscripción de contratos de compra venta a plazos con reserva de dominio se pagará sobre el valor catastral o de avalúo. 6.0 al millar
+X.- Por la inscripción de contratos de compra venta a plazos con reserva de dominio se pagará sobre el valor catastral o de avalúo.
 
 La cancelación de la reserva de dominio, se pagará al 50% del valor de la inscripción principal.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+6.0 al millar
 
-XI.- Por la inscripción de fusión de predios, se pagará por cada uno. N$ 25.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+XI.- Por la inscripción de fusión de predios, se pagará por cada uno. $ 29.00
 
 XII.- Por la inscripción de división de copropiedad, se pagará sobre el valor catastral de cada uno de los inmuebles. 4.0 al millar
 
 XIII.- Cuando el valor inserto en el acto que se trate de inscribir sea, mayor que el valor catastral o de avalúo, se atenderá al primero para fijar el monto de los derechos que deberán cubrirse, salvo las excepciones previstas en las fracciones anteriores.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-XIV. Otros actos inscribibles. N$ 30.00
+XIV.- Otros actos inscribibles. $ 35.00
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1039,9 +1035,9 @@ XIV. Otros actos inscribibles. N$ 30.00
 
 Los derechos generados ante el Registro Publico de la Propiedad y del Comercio, por concepto de inscripciones o autorizaciones relativas a las limitaciones o gravámenes de la propiedad y posesión originaria de inmuebles, como son: arrendamiento, mutuo con garantía hipotecaria, contratos de ocupación, constitución o substitución de garantías reales, cesión de garantías u obligaciones reales, cédula hipotecaria del juicio sumario hipotecario, comodato, contratos de crédito refaccionario y de habilitación o avío celebrados entre particulares, convenios judiciales, dación de pago, cumplimiento de condiciones suspensivas o resolutorias a que se haya sujetado la transmisión de la propiedad, demandas y resoluciones judiciales que limiten el derecho de propiedad; posesión, embargos judiciales, fideicomisos de afectación o administración en garantía en el que el o los fideicomitentes se reserven expresamente la propiedad, fianzas, habitación, prendas sobre créditos, prenda de frutos pendientes, uso, usufructo, servidumbre, reestructuración de créditos cuando exista novación de contrato, se causarán y pagarán cuando se determine el valor del acto inscribible o anotable: 4.5 al millar.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I.- Cuando en el acto inscribible o anotable no se determina el valor N$ 30.00
+I.- Cuando en el acto inscribible o anotable no se determina el valor $ 35.00
 
 II. Las cancelaciones de las inscripciones o anotaciones a que se refiere este artículo, pagarán el 50% del valor de la inscripción.
 
@@ -1055,51 +1051,51 @@ Para los efectos de la fracción anterior, se entiende como viviendas de interé
 
 Los derechos por las inscripciones de documentos o actos que sean necesarios como acto previo para la inscripción de Títulos traslativos de dominio, se causarán y pagarán de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Por cualquier clase de testamento N$ 30.00
+I.- Por cualquier clase de testamento $ 35.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II.- Por la Designación, Aceptación, Disernimiento del cargo de albacea, declaraciones y reconocimiento de herederos en un sólo documento N$ 30.00
+II.- Por la Designación, Aceptación, Disernimiento del cargo de albacea, declaraciones y reconocimiento de herederos en un sólo documento $ 35.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III.- Cuando estos actos se inscriben en documentos separados, se pagará por cada uno. N$ 15.00
+III.- Cuando estos actos se inscriben en documentos separados, se pagará por cada uno. $ 17.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV.- Por sustitución del cargo de albacea. N$ 15.00
+IV.- Por sustitución del cargo de albacea. $ 17.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-V.- Por repudio de herencia N$ 30.00
+V.- Por repudio de herencia $ 35.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VI.- Por autorización para vender o gravar bienes de menores o incapaces. N$ 10.00
+VI.- Por autorización para vender o gravar bienes de menores o incapaces. $ 12.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VII.- Por poderes civiles y substituciones N$ 15.00
+VII.- Por poderes civiles y substituciones $ 17.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VIII.- Por la inscripción de la Sociedad Conyugal N$ 50.00
+VIII.- Por la inscripción de la Sociedad Conyugal $ 58.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IX.- Por el depósito de testamento ológrafo. N$ 30.00
+IX.- Por el depósito de testamento ológrafo. $ 35.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-X.- Por autos de ejecución. N$ 12.00
+X.- Por autos de ejecución. $ 14.00
 
-XI.- Por constitución del patrimonio familiar. 2.0 al millar
+XI. Por constitución del patrimonio familiar. 2.0 al millar
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-XII. Otros actos inscribibles. N$ 15.00
+XII.- Otros actos inscribibles. $ 17.00
 
 ###### ARTICULO 74.
 
@@ -1107,121 +1103,125 @@ Los derechos generados por la inscripción de actos relativos a bienes muebles, 
 
 I.- Por la inscripción de contratos o actos que trasmitan la propiedad de bienes muebles, como las operaciones traslativas de dominio sujetas a condiciones resolutorias, adjudicaciones, aportaciones, compra-venta con reserva de dominio, se pagará cuando se determine el valor. 8.5 al millar
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II.- En los casos de la fracción anterior cuando no se tengan determinado el valor, pagarán N$ 50.00
+II.- En los casos de la fracción anterior cuando no se tengan determinado el valor, pagarán
+
+$ 58.00
 
 III.- Por inscripción de operaciones que limiten o graven bienes muebles como son: el alquiler, cesión de crédito y obligaciones, embargos, prenda, resoluciones o convenios judiciales y usufructo se pagará, cuando se determine el valor de operación inscribible. 4.0 al millar
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV.- Cuando en los casos de la fracción anterior no se determine el valor de la operación, se pagará N$ 30.00
+IV.- Cuando en los casos de la fracción anterior no se determine el valor de la operación, se pagará $ 35.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-V.- Por la ratificación de firmas N$ 30.00
+V.- Por la ratificación de firmas $ 35.00
 
 VI.- Por cancelación de cualquiera de los actos contenidos en este artículo, se pagará el 50% del valor de la inscripción.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VII.- Por otros actos inscribibles. N$ 20.00
+VII. Por otros actos inscribibles. $ 23.00
 
 ###### ARTICULO 75.
 
 Los derechos generados por la inscripción de documentos o actos relativos a personas morales, se causarán y pagarán de la siguiente manera:
 
-I. - Por la inscripción de escrituras constitutivas de personas morales o aumento de capital, pagarán:
+I.- Por la inscripción de escrituras constitutivas de personas morales o aumento de capital, pagarán:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+
+a) Hasta $ 5,000.00 4.0 al millar
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-a) Hasta N$ 5,000.00 4.0 al millar
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
-b) De N$ 5,000.00 en adelante 3.5 al millar
+b) De $ 5,000.00 en adelante 3.5 al millar
 
 c). En las sociedades de capital variable, se tomará como base el capital suscrito.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 II.- En los casos de la fracción anterior, cuando no exista valor determinado, pagarán
 
-N$ 50.00
+$ 58.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III.- La inscripción de la disolución de personas morales N$ 50.00
+III.- La inscripción de la disolución de personas morales $ 58.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV.- La inscripción de la liquidación de personas morales N$ 50.00
+IV. - La inscripción de la liquidación de personas morales $ 58.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-V.- La disolución y liquidación cuando conste en un solo documento. N$ 60.00
+V.- La disolución y liquidación cuando conste en un solo documento. $ 69.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VI.- La inscripción de actas de asamblea de socios o de junta de administradores. N$ 40.00
+VI.- La inscripción de actas de asamblea de socios o de junta de administradores. $ 46.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VII.- La inscripción de cualquier modificación al acta constitutiva, siempre que no se refiera a un aumento de capital social. N$ 30.00
+VII.- La inscripción de cualquier modificación al acta constitutiva, siempre que no se refiera a un aumento de capital social. $ 35.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VIII.- La inscripción de otorgamiento, sustitución o renovación de poderes, por cada apoderado.
-
-N$ 50.00
+VIII.- La inscripción de otorgamiento, sustitución o renovación de poderes, por cada apoderado. $ 58.00
 
 IX.- Por la inscripción de emisión de obligaciones, acciones, cédula y certificados de participación, pagarán sobre el importe de la emisión 2.0 al millar
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-X.- Por la inscripción de revocación o renuncia de poderes N$ 20.00
+X.- Por la inscripción de revocación o renuncia de poderes $ 23.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-XI.- Por la inscripción de cualquier otro Título registrable conforme a la Ley N$ 30.00
+XI.- Por la inscripción de cualquier otro Título registrable conforme a la Ley $ 35.00
 
-XII.- Por la fusión de sociedades, sobre el capital inscrito de las sociedades fusionadas. 3.0 al millar.
+XII.- Por la fusión de sociedades, sobre el capital inscrito de las sociedades fusionadas.
+
+3.0 al millar.
 
 ###### ARTICULO 76.
 
 Los derechos generados por la inscripción de actos o contratos mercantiles, se causarán y pagarán de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I.- Por corresponsalía. N$ 15.00
+I.- Por corresponsalía. $ 17.00
 
-II.- Por créditos refaccionarios y de habilitación o avío, pagarán sobre su valor. 3.5 al millar
+II.- Por créditos refaccionarios y de habilitación o avío, pagarán sobre su valor.
+
+3.5 al millar
 
 III.- Por créditos hipotecario, pagará sobre su valor 4.5 al millar
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV.- Por asociación en participación N$ 30.00
+IV.- Por asociación en participación $ 35.00
 
 V.- Por la ratificación de firmas de los contratos comprendidos en este artículo, pagarán de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a) Hasta N$ 15,000.00 N$ 30.00
+a) Hasta $ 15,000.00 $ 35.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b) De N$ 15,000.00 en adelante N$ 40.00
+b) De $ 15,000.00 en adelante $ 46.00
 
-VI. Por la cancelación de los actos o contratos señalados en este artículo pagarán el 50% del valor de la inscripción.
+VI.- Por la cancelación de los actos o contratos señalados en este artículo pagarán el 50% del valor de la inscripción.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VII.- Por la cancelación de créditos otorgados por las Instituciones de Crédito. N$ 50.00
+VII.- Por la cancelación de créditos otorgados por las Instituciones de Crédito. $ 58.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VIII.- Por la inscripción de rectificaciones relativas a inscripciones principales cuando se refieran a: Modificaciones de plazo de intereses, garantía, datos equivocados o cualesquiera otras que no constituyan novación del contrato, se pagará N$ 30.00
+VIII.- Por la inscripción de rectificaciones relativas a inscripciones principales cuando se refieran a: Modificaciones de plazo de intereses, garantía, datos equivocados o cualesquiera otras que no constituyan novación del contrato, se pagará $ 35.00
 
 ###### ARTICULO 77.
 
@@ -1229,13 +1229,13 @@ Los derechos generados por la inscripción y anotaciones de resoluciones judicia
 
 I.- Por las providencias precautorias 4.5 al millar
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II.- Por la suspensión de pagos. N$ 30.00
+II.- Por la suspensión de pagos. $ 35.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III.- Por la declaración de quiebras N$ 30.00
+III.- Por la declaración de quiebras $ 35.00
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -1247,61 +1247,65 @@ Los derechos que se causen por la inscripciones o anotaciones que no modifiquen 
 
 Los derechos generados por la expedición de certificaciones y copias certificadas, se causarán y pagarán de la siguiente manera:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I.- Por la expedición de certificados de no inscripción. N$ 15.00
+I.- Por la expedición de certificados de no inscripción. $ 17.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II.- Por la expedición de certificados de inscripción para los efectos de los artículos 1231 y 1232 del Código Civil N$ 15.00
+II.- Por la expedición de certificados de inscripción para los efectos de los artículos 1231 y 1232 del Código Civil $ 17.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III.- Por la expedición de certificados de no propiedad N$ 10.00
+III.- Por la expedición de certificados de no propiedad $ 12.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV.- Por la expedición de certificados de libertad o existencia de gravámenes N$ 20.00
+IV.- Por la expedición de certificados de libertad o existencia de gravámenes $ 23.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a) De más de veinte años se aumentará, por cada año excedente. N$ 2.00
+a) De más de veinte años se aumentará, por cada año excedente. $ 2.00
 
 V.- Por la expedición de copias certificadas
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-a) Por la primera hoja N$ 5.00
+a) Por la primera hoja $ 10.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b) Por cada hoja siguiente N$ 3.00
+b) Por cada hoja siguiente $ 5.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VI.- Por certificados de Única propiedad N$ 20.00
+VI.- Por certificados de Única propiedad $ 23.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VII.- Por informes sobre inscripciones de testamento, a solicitud de jueces civiles y familiares, así como particulares N$ 20.00
+VII.- Por informes sobre inscripciones de testamento, a solicitud de jueces civiles y familiares, así como particulares $ 23.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VIII.- Por búsqueda de antecedentes registrales omitidos o equivocados en el documento, siempre que no sea causa imputable al Registro Público de la Propiedad y del Comercio. N$ 30.00
+VIII.- Por búsqueda de antecedentes registrales omitidos o equivocados en el documento, siempre que no sea causa imputable al Registro Público de la Propiedad y del Comercio. $ 35.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 80.
 
-Si por cualquier causa el documento se devuelve sin inscripción, siempre que no sea causa imputable al Registro Público de la Propiedad y del Comercio, se pagará…………………………………………………………………………N$ 20.00
+Si por cualquier causa el documento se devuelve sin inscripción,
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+siempre que no sea causa imputable al Registro Público de la Propiedad y del
+
+Comercio, se pagará…………………………………………………………………………$ 23.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 81.
 
 Por cotejo de documentos no autentificados que deben
 
-destinarse al apéndice, por cada hoja……………………………………………………. N$ 4.00
+destinarse al apéndice, por cada hoja……………………………………………………. $ 5.00
 
 ###### ARTICULO 82.
 
@@ -1373,45 +1377,45 @@ Para el pago de los derechos, el encargado del registro enviará a la administra
 
 Los derechos por la prestación de los servicios del Estado, a través de la Dirección del Registro Familiar, se causarán y pagarán de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I.- Por la expedición de copia certificada de acta N$ 7.00
+I.- Por la expedición de copia certificada de acta $ 8.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II.- Por la expedición de copia certificada de acta urgente N$ 12.00
+II.- Por la expedición de copia certificada de acta urgente $ 14.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III.- Por constancia de inexistencia de Registro en libro N$ 7.00
+III.- Por constancia de inexistencia de Registro en libro $ 8.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV.- Por copia fotostática de constancias en libro N$ 6.00
+IV.- Por copia fotostática de constancias en libro $ 7.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-V.- Por el procedimiento administrativo de corrección de actas. N$ 75.00
+V.- Por el procedimiento administrativo de corrección de actas. $ 86.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VI.- Por inscripción de resolución administrativas N$ 20.00
+VI.- Por inscripción de resolución administrativas $ 23.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VII.- Por inscripción de sentencia y juicio de rectificación, nulidad o reposición de actas. N$ 33.00
+VII.- Por inscripción de sentencia y juicio de rectificación, nulidad o reposición de actas. $ 38.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VIII.- Por inscripción de anotación de reconocimientos y adopción N$ 29.00
+VIII.- Por inscripción de anotación de reconocimientos y adopción $ 33.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IX.- Por la inscripción de capitulaciones matrimoniales N$ 8.00
+IX.- Por la inscripción de capitulaciones matrimoniales $ 9.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-X.- Por inscripción de sentencia de divorcio. N$ 33.00
+X.- Por inscripción de sentencia de divorcio. $ 38.00
 
 ###### ARTICULO 90.
 
@@ -1423,81 +1427,83 @@ II.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1994)
 
 III. De las Licencias para conducir.
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+A) Expedición de Licencia de Chofer $ 58.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+B) Expedición de Licencia de Automovilista $ 35.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+C) Expedición de Licencia de Motociclista $ 23.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+D) Canje de Licencia de Chofer $ 35.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+E) Canje de Licencia de Automovilista $ 23.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+F) Canje de Licencia de Motociclista $ 17.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+G) Expedición de duplicado de Licencias de Chofer, Automovilista y Motociclista… $ 35.00
+
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-A) Expedición de Licencia de Chofer N$ 50.00
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-B) Expedición de Licencia de Automovilista N$ 30.00
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
-
-C) Expedición de Licencia de Motociclista N$ 20.00
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-D) Canje de Licencia de Chofer N$ 30.00
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-E) Canje de Licencia de Automovilista N$ 20.00
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-F) Canje de Licencia de Motociclista N$ 15.00
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-G) Expedición de duplicado de Licencias de Chofer, Automovilista y Motociclista…N$ 30.00
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-H) El canje extemporáneo de licencias pagará recargos conforme a lo dispuesto por el artículo 3º de la Ley de Ingresos del Estado.
+H) El canje extemporáneo de licencias pagará recargos conforme a lo dispuesto por el artículo 3ª de la Ley de Ingresos del Estado.
 
 I).(DEROGADA, P.O. 31 DE DICIEMBRE DE 1993)
 
 IV. Del arrastre y Pensión de vehículos.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-A) Arrastre de grúa dentro del límite urbano N$ 30.00
+A) Arrastre de grúa dentro del límite urbano $ 35.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-B) Arrastre de grúa en carreteras Estatales, pagarán por kilómetro N$ 6.00
+B) Arrastre de grúa en carreteras Estatales, pagarán por kilómetro $ 7.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-C) Pensión diaria en el corralón de tránsito N$ 6.00
+C) Pensión diaria en el corralón de tránsito $ 7.00
 
 V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1994)
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VI. De los Permisos
+VI. De los permisos provisionales
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+A).(DEROGADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-A) Permiso provisional para circular sin placas N$ 50.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-B) Permiso provisional para conducir sin licencia N$ 50.00
+B). Permiso provisional para conducir sin licencia $ 58.00
 
 Los permisos a que se refieren los incisos de esta fracción serán hasta por 30 días.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+C). Permisos provisionales de carga $150.00
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 VII. De la Consulta del Archivo.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-A) Por la expedición de copias fotostáticas, por cada hoja N$ 3.00
+A) Por la expedición de copias fotostáticas, por cada hoja $ 4.00
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-B) Por la certificación de copias, por documento N$ 6.00
+B) Por la certificación de copias, por documento $ 8.00
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1507,77 +1513,121 @@ Articulo 90 bis.- Los derechos por la prestación de los servicios del Estado, a
 
 I. Por el otorgamiento de concesiones para el transporte público de pasajeros en servicio de colectivos de ruta, urbanos o foráneos, se pagarán de acuerdo a la siguiente zonificación de municipios del Estado:
 
-A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregon, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipan, Huejutla, Tecozautla, y Apan..................................................................$1, 500.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlan, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlan, San Agustín Metzquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocan, San Felipe Orizatlan, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán.......................$1, 200.00
+A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregon, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipan, Huejutla, Tecozautla, y Apan..................................................................$1, 725.00
 
-C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores....................$1, 000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlan, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlan, San Agustín Metzquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocan, San Felipe Orizatlan, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán.......................$1, 380.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores....................$1, 150.00
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 II. Por el otorgamiento de concesiones para el transporte público de pasajeros en servicio individual de taxi o sitio, se pagarán de acuerdo a la siguiente zonificación de municipios del estado:
 
-A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan....................................................................$1, 500.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán....................... $1, 200.00
+A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan....................................................................$1, 725.00
 
-C) Eloxochitlan, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores.....................$ 800.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán....................... $1, 380.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+C) Eloxochitlan, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores.....................$ 920.00
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 III. Por el otorgamiento de concesiones para el transporte público de pasajeros en servicio especializado, se pagarán de acuerdo a la siguiente zonificación de municipios del Estado:
 
-A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán De Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla, y Apan...................................................................$1, 200.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán........................$1, 000.00
+A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán De Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla, y Apan...................................................................$1, 380.00
 
-C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores......................$ 800.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán........................$1, 150.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores......................$ 920.00
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 IV. Por el otorgamiento de concesiones para el transporte público de bienes en servicio de carga en general, se pagarán de acuerdo a la siguiente zonificación de municipios del Estado:
 
-A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan..................................................................$1, 200.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán.... ......................$1,000.00
+A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan..................................................................$1, 380.00
 
-C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores......................$ 800.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán.... ......................$1,150.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores......................$ 920.00
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 V. Por el otorgamiento de concesiones para el transporte público de bienes en servicio de materiales para construcción, se pagarán de acuerdo a la siguiente zonificación de municipios del Estado:
 
-A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan..................................................................$1, 300.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán......................................................................................................$1, 000.00
+A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan..................................................................$1, 495.00
 
-C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores......................$ 800.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán......................................................................................................$1, 150.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores......................$ 920.00
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 VI. Por el otorgamiento de concesiones para el transporte público de bienes en servicio de arrastre, se pagarán de acuerdo a la siguiente zonificación de municipios del Estado:
 
-A) Pachuca, Atotonilco El Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan....................................................................$1, 200.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán.....................................................................................................................$ 900.00
+A) Pachuca, Atotonilco El Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan....................................................................$1, 380.00
 
-C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores....................$ 700.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán.....................................................................................................................$ 1035.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores....................$ 805.00
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 VII. Por el otorgamiento de concesiones para el transporte publico de bienes en servicio especializado, se pagaran de acuerdo a la siguiente zonificación de municipios del Estado:
 
-A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlan de Juárez, Tulancingo, Acatlan, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregon, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipan, Huejutla, Tecozautla y Apan....................... .................. ...........................$1, 300.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlan, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlan, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlan, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlan, San Agustín Mezquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocan, San Felipe Orizatlan, Tlanchinol, Huichapan, Jacala, Nopala y Zimapan........................$1, 000.00
+A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlan de Juárez, Tulancingo, Acatlan, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregon, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipan, Huejutla, Tecozautla y Apan....................... .................. ...........................$1, 380.00
 
-C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores.......................$ 800.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlan, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlan, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlan, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlan, San Agustín Mezquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocan, San Felipe Orizatlan, Tlanchinol, Huichapan, Jacala, Nopala y Zimapan........................$1, 150.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores.......................$ 920.00
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 VIII Por las ampliaciones de ruta, hasta 5 kilómetros.
 
-A) Por cada kilómetro......................................$200.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+A) Por cada kilómetro......................................$230.00
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1595,279 +1645,195 @@ A) De las concesiones a que hace referencia las fracciones I, II, III, IV, V, VI
 
 B) De las concesiones a que hacen referencia las fracciones I, II, III, IV, V, VI, VII, que se hagan extemporáneas se aplicará lo establecido en el articulo 3o. de la Ley de Ingresos del Estado.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-XI. Las modificaciones que se realicen en cualquier tipo de concesiones señaladas en este articulo, pagarán N$ 300.00
+XI. Las modificaciones que se realicen en cualquier tipo de concesiones señaladas en este articulo, pagarán $ 345.00
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 XII. Los registros por regularización de transporte publico de pasajeros, de los municipios de: Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlan de Juárez, Tulancingo, Acatlan, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregon, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipan, Huejutla, Tecozautla y Apan. Podrán ser mixtos y especiales, y se pagaran de acuerdo a la siguiente manera:
 
-A) Colectivos de ruta urbanos o foráneo...............$ 500.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-B) Individual taxi o sitio...........................................$ 500.00
+A) Colectivos de ruta urbanos o foráneo...............$ 575.00
 
-C) Especializado.....................................................$ 500.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+B) Individual taxi o sitio...........................................$ 575.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+C) Especializado.....................................................$ 575.00
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 XIII. Los registros por regularización de transporte publico de pasajeros de los municipios de: Epazoyucan, Mineral Del Chico, Mineral del Monte, Omitlan, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlan, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlan, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlan, San Agustín Mezquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocan, San Felipe Orizatlan, Tlanchinol, Huichapan, Jacala, Nopala y Zimapan. Podrán ser mixtos y especiales, y se pagarán de acuerdo a la siguiente manera:
 
-A) Colectivos de ruta urbanos o foráneo..................$ 400.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-B) Individual taxi o sitio............................................ $ 400.00
+A) Colectivos de ruta urbanos o foráneo..................$ 460.00
 
-C) Especializado......................................................$ 400.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+B) Individual taxi o sitio............................................ $ 460.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+C) Especializado......................................................$ 460.00
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 XIV. Los registros por regularización de transporte publico de pasajeros, de los municipios de: Eloxochitlan, Juárez Hidalgo, Tepehuacan de Guerrero, Xochicoatlan, Huazalingo, Xochiatipan, Yahualica, Chapulhuacan, La Misión, Pacula y Pisa Flores. Podrán ser mixtos y especiales, y se pagarán de acuerdo a la siguiente manera:
 
-A) Colectivos de ruta urbanos o foráneos................$ 300.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-B) Individual, taxi o sitio............................................$ 300.00
+A) Colectivos de ruta urbanos o foráneos................$ 345.00
 
-C) Especializado.................................................... $ 300.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+B) Individual, taxi o sitio............................................$ 345.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+C) Especializado.................................................... $ 345.00
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 XV. Los registros por regularización de transporte publico de bienes, de los municipios de: Pachuca, Atotonilco El Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlan de Juárez, Tulancingo, Acatlan, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregon, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipan, Huejutla, Tecozautla, y Apan. Podrán ser mixtos y especiales, y se pagarán de acuerdo a la siguiente manera:
 
-A) Carga en general.....................................................$ 500.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-B) Materiales para construcción...................................$ 500.00
+A) Carga en general.....................................................$ 575.00
 
-C) Arrastre...................................................................$ 500.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-D) Especializado...........................................................$ 500.00
+B) Materiales para construcción...................................$ 575.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+C) Arrastre...................................................................$ 575.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+D) Especializado...........................................................$ 575.00
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 XVI Los registros por regularización de transporte publico de bienes, de los municipios de: Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlan, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlan, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlan, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlan, San Agustín Mezquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocan, San Felipe Orizatlan, Tlanchinol, Huichapan, Jacala, Nopala y Zimapan. Podrán ser mixtos y especiales, y se pagarán de acuerdo a la siguiente manera:
 
-A) Carga en general.................................................$ 400.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-B) Materiales para construcción............................. $ 400.00
+A) Carga en general.................................................$ 460.00
 
-C) Arrastre............................................................... $ 400.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-D) Especializado.......................................................$ 400.00
+B) Materiales para construcción............................. $ 460.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+C) Arrastre............................................................... $ 460.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+D) Especializado.......................................................$ 460.00
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 XVII. Los registros por regularización de transporte publico de bienes, de los municipios de: Eloxochitlan, Juárez Hidalgo, Tepehuacan de Guerrero, Xochicoatlan, Huazalingo, Xochiatipan, Yahualica, Chapulhuacan, La Misión, Pacula y Pisaflores. Podrán ser mixtos y especiales, y se pagarán de acuerdo a la siguiente manera:
 
-A) Carga en general..................................................$ 300.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-B) Materiales para construcción..............................$ 300.00
+A) Carga en general..................................................$ 345.00
 
-C) Arrastre...............................................................$ 300.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-D) Especializado..................................................... $ 300.00
+B) Materiales para construcción..............................$ 345.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+C) Arrastre...............................................................$ 345.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+D) Especializado..................................................... $ 345.00
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 XVIII. Por copia de documentos existentes en esta dirección:
 
-A) Por copias certificadas (primer hoja)....................$ 8.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-B) Por las siguientes copias certificadas..................$ 4.00
+A) Por copias certificadas (primer hoja)....................$ 10.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+B) Por las siguientes copias certificadas..................$ 5.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 C) Por copias simples (no certificadas).....................$ 3.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-XIX Sustitución de vehículos que presten el servicio establecido en este articulo, y ;.....$300.00
+XIX Sustitución de vehículos que presten el servicio establecido en este articulo, y ;.....$345.00
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 XX. Por el cambio de modalidad que se realicen a las concesiones a que hacen referencia las fracciones I a VII de este articulo se causaran y pagaran derechos en un 80% de acuerdo a las tarifas establecidas en los incisos de dichas fracciones, según sea el caso.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+XXI. Por la reposición de la concesión del servicio público de transporte en cualquiera de sus modalidades................................$ 250.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 91.
 
-Los derechos por la prestación de los servicios del Estado, a través de la Dirección General de Asuntos Jurídicos se causarán y pagarán de la siguiente forma:
+Los derechos por la prestación de los servicios del Estado, a través de la Coordinación General Jurídica, se causarán y pagarán de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Por derecho a examen para obtener la Constancia de aspirante a Fiat de Notario N$ 75.00
+I. Por derecho a examen para obtener la Constancia
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+de aspirante a Fiat de Notario $ 86.00
 
-II. Por derecho a examen de oposición para obtener el Fiat de Notario N$ 100.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. Por expedición de copias certificadas de diversas constancias que obren en los protocolos del Archivo General de Notarias:
+II. Por derecho a examen de oposición para obtener el Fiat de Notario $ 115.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-A) Por las primeras dos hojas N$ 10.00
+III. Por informe de aviso de testamento $ 50.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-B) Por cada hoja excedente N$ 3.00
+A) Por las primeras dos hojas $ 10.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV. Por expedición de constancias de inscripción o de no inscripción de testamentos N$ 20.00
+B)Por cada hoja excedente $ 5.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 91 BIS.- Los derechos por la prestación de los servicios del Estado, a través de la Dirección del Trabajo, se causarán y pagarán de la siguiente forma:
+IV. Por la expedición de copias certificadas de escrituras existentes en el Archivo General de Notarias:
 
-I. Por inspección de calderas, calentadores y aparatos a presión o vacío.
+A) Por la primera hoja $ 10.00
 
-1.- de 1 a 5 c.v. _____________ n$ 2.00
+B) Por cada hoja excedente $ 4.00
 
-2.- de 6 a 10 c.v. _____________ n$ 3.00
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-3.- de 11 a 15 c.v. _____________ n$ 3.00
+V. Por la búsqueda y expedición de testimonios existentes en el Archivo General de Notarias:
 
-4.- de 16 a 20 c.v. _____________ n$ 4.00
+A)Por la primera hoja $ 30.00
 
-5.- de 21 a 25 c.v. _____________ n$ 4.00
+B)Por cada hoja excedente $ 9.00
 
-6.- de 26 a 30 c.v. _____________ n$ 5.00
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-7.- de 31 a 35 c.v. _____________ n$ 6.00
+VI. Por expedición de constancias de inscripción o de no inscripción de testamentos..$24.00
 
-8.- de 36 a 40 c.v. _____________ n$ 7.00
-
-9.- de 41 a 45 c.v. _____________ n$ 7.00
-
-10.- de 46 a 50 c.v. _____________ n$ 8.00
-
-11.- de 51 a 55 c.v. _____________ n$ 8.00
-
-12.- de 56 a 60 c.v. _____________ n$ 9.00
-
-13.- de 61 a 65 c.v. _____________ n$ 9.00
-
-14.- de 66 a 70 c.v. _____________ n$ 10.00
-
-15.- de 71 a 85 c.v. _____________ n$ 10.00
-
-16.- de 86 a 100 c.v. _____________ n$ 10.00
-
-17.- de 101 a 125 c.v. _____________ n$ 11.00
-
-18.- de 126 a 150 c.v. _____________ n$ 12.00
-
-19.- de 151 a 175 c.v. _____________ n$ 12.00
-
-20.- de 176 a 200 c.v. _____________ n$ 13.00
-
-21.- de 201 c.v. en adelante, se pagaran por los primeros 200 c.v., la cuota anterior y por cada c.v. excedente.______________________ n$ 3.00
-
-II. Por la inspección de instalaciones de equipo de energía mecánica eléctrica.
-
-1.- hasta 10 hp ____________ n$ 2.00
-
-2.- de 10.25 a 20 hp ____________ n$ 3.00
-
-3.- de 20.25 a 30 hp ____________ n$ 3.00
-
-4.- de 30.25 a 75 hp ____________ n$ 4.00
-
-5.- de 75.25 a 100 hp ____________ n$ 4.00
-
-6.- de 100.25 a 125 hp ____________ n$ 5.00
-
-7.- de 125 a 150 hp ____________ n$ 5.00
-
-8.- de 150.25 a 175 hp ____________ n$ 6.00
-
-9.- de 175.25 a 200 hp ____________ n$ 6.00
-
-10.- de 200.25 a 225 hp ____________ n$ 7.00
-
-11.- de 225.25 a 250 hp ____________ n$ 7.00
-
-12.- de 250.25 a 275 hp ____________ n$ 8.00
-
-13.- de 275.25 a 300 hp ____________ n$ 8.00
-
-14.- de 300.25 a 325 hp ____________ n$ 9.00
-
-15.- de 325.25 a 350 hp ____________ n$ 9.00
-
-16.- de 350.25 a 375 hp ____________ n$ 10.00
-
-17.- de 375.25 a 400 hp ____________ n$ 10.00
-
-18.- de 400.25 a 425 hp ____________ n$ 11.00
-
-19.- de 425.25 a 450 hp ____________ n$ 11.00
-
-20.- de 450.25 a 475 hp ____________ n$ 12.00
-
-21.- de 475.25 a 500 hp ____________ n$ 12.00
-
-22.- de 500.25 a 525 hp ____________ n$ 13.00
-
-23.- de 525.25 a 550 hp ____________ n$ 13.00
-
-24.- de 550.25 a 575 hp ____________ n$ 14.00
-
-25.- de 575.25 a 600 hp ____________ n$ 14.00
-
-26.- de 600.25 a 625 hp ____________ n$ 15.00
-
-27.- de 625.25 a 650 hp ____________ n$ 15.00
-
-28.- de 650.25 a 675 hp ____________ n$ 16.00
-
-29.- de 675.25 a 700 hp ____________ n$ 16.00
-
-30.- de 700.25 a 725 hp ____________ n$ 17.00
-
-31.- de 725.25 a 750 hp ____________ n$ 17.00
-
-32.- de 750.25 a 775 hp ____________ n$ 18.00
-
-33.- de 775.25 a 800 hp ____________ n$ 18.00
-
-34.- de 800.25 a 825 hp ____________ n$ 19.00
-
-35.- de 825.25 a 850 hp ____________ n$ 19.00
-
-36.- de 850.25 a 875 hp ____________ n$ 20.00
-
-37.- de 875.25 a 900 hp ____________ n$ 20.00
-
-38.- de 900.25 a 925 hp ____________ n$ 21.00
-
-39.- de 925.25 a 950 hp ____________ n$ 21.00
-
-40.- de 950.25 a 975 hp ____________ n$ 22.00
-
-41.- de 975.25 a 1000 hp ____________ n$ 22.00
-
-42.- De 1000.25 en adelante, se pagara por los primeros 1000 hp. la cuota anterior y por cada hp de fracción excedente. n$ 3.00
-
-III. Por examen y registro para obtener licencias de jefe de planta, de operador y fogonero.
-
-a) jefe de planta:
-
-1.- Examen ______________________________ n$ 3.00
-
-2.- Registro ______________________________ n$ 2.00
-
-b) operadores:
-
-1.- Examen ______________________________ n$ 3.00
-
-2.- registro ______________________________ n$ 2.00
-
-c) fogonero o encargado de generadores:
-
-1.- Examen ______________________________ n$ 3.00
-
-2.- registro ______________________________ n$ 2.00
-
-IV. Por la autorización de los registros de las comisiones de
-
-seguridad de maquinaria, de recipientes sujetos a presión,
-
-de generadores de vapor y otros similares. n$ 3.00
+ARTICULO 91 BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1996)
 
 ### CAPITULO IV. DE LAS DEPENDENCIAS DE LA UNIDAD DE LA CONTRALORIA
 
@@ -1877,91 +1843,125 @@ Los derechos por la prestación de los servicios del Estado, a través de la Dir
 
 I. Por la expedición de copias certificadas:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-A) Por la primera hoja N$ 8.00
+A) Por la primera hoja $ 10.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-B) Por cada hoja excedente N$ 4.00
+B) Por cada hoja excedente $ 5.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Por certificaciones N$ 10.00
+II. Por certificaciones $ 12.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III. Por la expedición de formas aprobadas N$ 5.00
+III. Por la expedición de formas aprobadas $ 6.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IV. Por la expedición de constancias de no adeudo de Impuestos o créditos fiscales estatales N$ 10.00
+IV. Por la expedición de constancias de no adeudo de Impuestos o créditos fiscales estatales $ 12.00
 
 V. Por la expedición de copias certificadas de la orden de visita, de las actas parciales o de las acta finales de auditoría:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-A) Por la primera hoja N$ 10.00
+A) Por la primera hoja $ 10.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-B) Por cada hoja excedente N$ 4.00
+B) Por cada hoja excedente $ 5.00
 
 VI. Por la expedición de copias certificadas de cualquier otro documento que contenga el expediente de auditoria:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-A) Por la primera hoja N$ 10.00
+A) Por la primera hoja $ 10.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-B) Por cada hoja excedente N$ 4.00
+B) Por cada hoja excedente $ 5.00
 
 VII. Por la expedición de copias certificadas de cualquier otro documento que se encuentre en los archivos de esta Dirección General.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-A) Por la primera hoja N$ 10.00
+A) Por la primera hoja $ 10.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-B) Por cada hoja excedente N$ 4.00
+B) Por cada hoja excedente $ 4.00
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 VIII. De los vehículos particulares:
 
-A) alta y canje de placas. N$ 50.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b) Reposición del registro anual de control vehicular. N$ 35.00
+A) alta y canje de placas. $ 65.00
 
-c) bajas. N$ 20.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-d) Reposición de tarjetas de circulación. N$ 20.00
+b) Reposición del registro anual de control vehicular. $ 42.00
 
-e) placas de remolque. N$ 30.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-f) placas de demostración. N$ 200.00
+c) bajas. $ 24.00
 
-g) Expedición del registro anual de control vehicular. N$ 35.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-h) El canje extemporáneo de placas y engomado, dará lugar al cobro de intereses moratorios conforme a lo dispuesto por la Ley de Ingresos del Estado.
+d) Reposición de tarjetas de circulación. $ 24.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+e) placas de remolque. $ 65.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+f) Permiso anual para el uso de placas de demostración. $ 240.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+g) Expedición del registro anual de control vehicular. $ 42.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+h) Permiso provisional para circular sin placas $ 60.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+I) Expedición de placas para vehículo antiguo $ 42.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+J) El canje extemporáneo de placas y engomado, dará lugar al cobro de intereses moratorios conforme a lo dispuesto por la Ley de Ingresos del Estado.
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 IX. De los vehículos de servicio publico:
 
-A) Alta y canje de placas N$ 80.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b) Reposición del registro anual de control vehicular. N$ 40.00
+A) Alta y canje de placas $ 100.00
 
-c) bajas. N$ 25.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-d) cambio de unidad. N$ 40.00
+b) Reposición del registro anual de control vehicular. $ 50.00
 
-e) Reposición de tarjeta de circulación. N$ 25.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-f) Expedición del registro anual de control vehicular. N$ 40.00
+c) bajas. $ 30.00
+
+d) (DEROGADA, P.O. 31 DE DICIEMBRE DE 1996)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+e) Reposición de tarjeta de circulación. $ 30.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+f) Expedición del registro anual de control vehicular. $ 50.00
 
 g) el canje extemporáneo de placas, dará lugar al cobro de intereses moratorios conforme a lo dispuesto por la Ley de Ingresos del Estado.
 
@@ -1973,19 +1973,23 @@ A) Tratándose de altas y bajas de vehículos particulares y del servicio public
 
 b) La expedición del registro anual del control vehicular, para los vehículos particulares y del servicio publico, se pagaran durante los meses de enero, febrero y marzo de cada año.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+XI.- Por las consultas realizadas a otros Estados o a dependencias privadas o públicas, que se realicen con el fin de obtener información le legalización de vehículos extranjeros, de pagos de impuesto federales realizados en otros Estados o de verificación documental..........$ 30.00
+
 ###### ARTICULO 93.
 
 Los derechos por la prestación de los servicios del Estado a través de la Procuraduría Fiscal, se causarán y pagarán de la siguiente forma:
 
 I. Por la expedición de copias certificadas de cualquier documento contenido en les expedientes que se encuentran en los archivos de esta Oficina.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-A) Por la primera hoja N$ 10.00
+A) Por la primera hoja $ 10.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-B) Por cada hoja excedente N$ 4.00
+B) Por cada hoja excedente $ 5.00
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -1997,25 +2001,25 @@ DESARROLLO REGIONAL
 
 Articulo 96 bis.- Los derechos por la prestación de los servicios del estado, a través de la Dirección General de Conservación de Carreteras Estatales, se causarán y pagarán de la siguiente forma:
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-I.-Por la autorización para la construcción de accesos que afecten el derecho de vía en carreteras y puentes estatales incluyendo la supervisión de obra;..........................$2, 000.00
+I.-Por la autorización para la construcción de accesos que afecten el derecho de vía en carreteras y puentes estatales incluyendo la supervisión de obra;..........................$2, 300.00
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-II.-Por la autorización para la construcción de obras de paradores, que afecten el derecho de vía en carreteras y puentes estatales incluyendo la supervisión de obra;................... $ 300.00
+II.-Por la autorización para la construcción de obras de paradores, que afecten el derecho de vía en carreteras y puentes estatales incluyendo la supervisión de obra;................... $ 345.00
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-III.-Por cruzamiento de carretera; ....................................................................$ 300.00
+III.-Por cruzamiento de carretera; ....................................................................$ 345.00
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-IV.-Por instalación marginal, y;.................................. ................ .......................$2,000.00
+IV.-Por instalación marginal, y;.................................. ................ .......................$2,300.00
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-V.-Por adosamiento en puentes.................... ................. ................ .................$ 300.00
+V.-Por adosamiento en puentes.................... ................. ................ .................$ 345.00
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -2023,27 +2027,27 @@ V.-Por adosamiento en puentes.................... ................. ............
 
 Los derechos por la prestación de los servicios del Estado, a través de la Dirección General de Desarrollo Urbano, se causarán y pagarán de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 I. por el dictamen de uso del suelo para uso habitacional
 
-comercial y de servicios, por predio N$ 60.00
+comercial y de servicios, por predio $ 69.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. por el dictamen de uso de suelo industrial, por predio. N$ 150.00
+II. por el dictamen de uso de suelo industrial, por predio. $ 173.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 III. por el dictamen de uso de suelo para subdivisiones,
 
-por predio N$ 150.00
+por predio $ 173.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 IV. por el dictamen de uso del suelo para fraccionamientos,
 
-por predio. N$ 200.00
+por predio. $ 230.00
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -2053,7 +2057,7 @@ V. el dictamen a que se refieren las fracciones anteriores, tendrá vigencia de 
 
 VI. por fusión de predios SIN COSTO
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 VII. La autorización para venta y escrituración en régimen
 
@@ -2061,7 +2065,7 @@ de propiedad en condominio, pagara tomando como base
 
 una zona de las áreas de propiedad exclusiva y común,
 
-por metro cuadrado. N$ 6.00
+por metro cuadrado. $ 7.00
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -2075,113 +2079,133 @@ IX Las regularizaciones, causaran y pagaran las cuotas establecidas en la fracci
 
 X. Por las relotificaciones en subdivisiones o fraccionamientos, se cobrara el 30% de la cuota señalada en las fracciones VIII y IX;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 XI. Por el registro para ejercer como director responsable
 
 de obra en materia de construcción, planificación urbanística y
 
-régimen de propiedad en condominio. N$ 60.00
+régimen de propiedad en condominio. $ 69.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-XII. Por el registro de perito valuador. N$ 60.00
+XII. Por el registro de perito valuador. $ 69.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-XIII. Por el refrendo anual del director responsable de obra. N$ 50.00
+XIII. Por el refrendo anual del director responsable de obra. $ 58.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-XIV. Por el refrendo anual de perito valuador. N$ 50.00
+XIV. Por el refrendo anual de perito valuador. $ 58.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 XV. Copias de contacto (foto area vert) formato 23x23 cms.,
 
-peso sencillo color blanco y negro, por pieza. N$ 20.00
+peso sencillo color blanco y negro, por pieza. $ 23.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 XVI. Amplificación en papel plástico o película 1.00x1.00m.,
 
-por metro cuadrado N$ 190.00
+por metro cuadrado $ 219.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 XVII. Hojas de mosaico (fotografías) en papel peso doble tamaño
 
-50x60 cms. por pieza. N$ 250.00
+50x60 cms. por pieza. $ 288.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 XVIII. Croquis de colocación de puntos topográficos, copia xerox,
 
-por pieza. N$ 35.00
+por pieza. $ 40.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-XIX. Copia de plano manzanero, Heliográfica N$ 40.00
+XIX. Copia de plano manzanero, Heliográfica $ 46.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 XX. La inscripción de predios y examen de los planos en las
 
-casas de fraccionamientos urbanizados por cada manzana. N$ 150.00
+casas de fraccionamientos urbanizados por cada manzana. $ 173.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-XXI. En caso de fraccionamiento, para verificar la poligonal del terreno. _______ N$ 85.00
+XXI. En caso de fraccionamiento, para verificar la poligonal del terreno. _______ $ 98.00
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 XXII. Levantamiento topográfico, incluye plano y cuadro de construcción hasta:
 
-a) de 0 hasta 5,000 m2. _____________________ N$ 120.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b) de 5001 hasta 10,000 m2. _________________ N$ 350.00
+a) de 0 hasta 5,000 m2. _____________________ $ 138.00
 
-c) hasta 2 has. ___________________________ N$ 250.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-d) de 2 a 5 has. ___________________________ N$ 50.00
+b) de 5001 hasta 10,000 m2. _________________ $ 403.00
 
-e) de 5 a 10 has. __________________________ N$ 100.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-f) de 10 a 20 has. _________________________ N$ 90.00
+c) hasta 2 has. ___________________________ $ 288.00
 
-g) de 20 a 50 has. _________________________ N$ 70.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-h) de 50 a 100 has. ________________________ N$ 40.00
+d) de 2 a 5 has. ___________________________ $ 58.00
 
-i) de mas de 100 has. ______________________ N$ 35.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+e) de 5 a 10 has. __________________________ $ 115.00
 
-XXIII. El certificado o certificación del valor catastral. ___________ N$ 25.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+f) de 10 a 20 has. _________________________ $ 104.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+g) de 20 a 50 has. _________________________ $ 81.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+h) de 50 a 100 has. ________________________ $ 46.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+i) de mas de 100 has. ______________________ $ 40.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+XXIII. El certificado o certificación del valor catastral. ___________ $ 29.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 XXIV. El certificado o certificación de la ubicación del predio en
 
-fraccionamiento autorizado N$ 100.00
+fraccionamiento autorizado $ 115.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 XXV. Aprobación, registro de planos y otorgamiento de
 
-claves catastrales por m2. N$ 1.00
+claves catastrales por m2. $ 1.00
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 XXVI. La practica de avalúos realizados por peritos designados por la Dirección de Catastro a solicitud del interesado, se cobrara de acuerdo a la siguiente tarifa:
 
-a) Por los primeros n$ 5,000. _______________ N$ 35.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-b) Por el excedente de n$ 5,000. _____________ 1.0 al millar
+a) Por los primeros $ 5,000. _______________ $ 40.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+b) Por el excedente de $ 5,000. _____________ 1.0 al millar
 
-XXVII. Todos los demás datos de catastro y desarrollo urbano, causaran y pagaran un derecho de N$ 35.00 por cada hoja carta que se expida;
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
+
+XXVII. Todos los demás de catastro y desarrollo urbano, causaran y pagaran un derecho de $ 40.00 por cada hoja carta que se expida;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -2191,17 +2215,21 @@ XXVIII. Los documentos que la Dirección General de Desarrollo Urbano, expida a 
 
 XXIX. Por la expedición de copias certificadas de cualquier documento que obre en el archivo de la Secretaría:
 
-a) Por la primera hoja. ____________________ n$ 5.00
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-b) Por cada hoja adicional. _________________ n$ 4.00
+a) Por la primera hoja. ____________________ $ 10.00
+
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
+
+b) Por cada hoja adicional. _________________ $ 5.00
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 XXX. Todas las personas físicas o morales que construyan viviendas de interés social y popular cuyo costo no rebase los 186 salarios mínimos elevados al mes, de la zona económica donde se ubiquen podrán solicitar subsidio en el pago de los derechos previstos en este articulo, ante la Secretaria de Finanzas y Administración para su análisis y resolución correspondiente, y;
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-XXXI. Restitución fotogrametrica esc. 1: 1,000 con vuelo actualizado "1990" de 54 hectáreas con curvas de nivel a un metro en heliografica formato 90 x 60 cms., por pieza.......... $ 1, 000.00
+XXXI. Restitución fotogrametrica esc. 1: 1,000 con vuelo actualizado "1990" de 54 hectáreas con curvas de nivel a un metro en heliografica formato 90 x 60 cms., por pieza........................... $ 1, 150.00
 
 ###### ARTICULO 95.
 
@@ -2217,31 +2245,31 @@ DE LAS DEPENDENCIAS DE LA SECRETARIA DE DESARROLLO SOCIAL.
 
 Los derechos por la prestación de los servicios del Estado, a través de la Dirección General de Responsabilidades y Situación Patrimonial, se causarán y pagarán de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-I.- Por la inscripción en el registro de proveedores N$ 200.00
+I.- Por la inscripción en el registro de proveedores $ 230.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-II. Por la inscripción en el padrón de contratistas N$ 200.00
+II. Por la inscripción en el padrón de contratistas $ 230.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-III. Por el refrendo anual al Padrón de contratistas N$ 200.00
+III. Por el refrendo anual al Padrón de contratistas $ 230.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-IV. Por la expedición de Constancia de No Inhabilitación, para desempeñar cargo público N$5.00
+IV. Por la expedición de Constancia de No Inhabilitación, para desempeñar cargo público $6.00
 
 V. Por la expedición de copias certificadas de cualquier documento existente en los archivos de esta Dirección General:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-A) Por la primera hoja N$ 5.00
+A) Por la primera hoja $ 10.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-B) Por cada hoja excedente N$ 4.00
+B) Por cada hoja excedente $ 5.00
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -2309,7 +2337,7 @@ Los recursos que recauden deberán ser ingresados a la Secretaria de Finanzas y 
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 99.
 
@@ -2327,59 +2355,67 @@ V. Por la venta de impresiones;
 
 VI. Los productos por conceptos diversos de los señalados en este artículo, pagarán de acuerdo con los contratos celebrados al respecto o en los términos de las concesiones respectivas y de conformidad con las Leyes o Disposiciones aplicables.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
 VII. Las publicaciones en el Periódico Oficial del Estado, se pagarán de acuerdo a la siguiente tarifa:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-A) Por publicación de avisos y documentos que deben hacerse
+A)Por publicación de avisos y documentos que deben hacerse
 
-por disposición de la Ley, se pagarán por palabra N$ 6.00
+por disposición de la Ley, se pagarán por palabra $ 6.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-B) Por las publicaciones en el Periódico Oficial, hasta media plana N$ 30.00
+B)Por las publicaciones en el Periódico Oficial, hasta media plana $ 31.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-C) Por la publicación en el Periódico Oficial, hasta una plana N$ 50.00
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+C)Por la publicación en el Periódico Oficial, hasta una plana $ 52.00
 
 VIII. La venta del Periódico Oficial de Estado, se pagará de acuerdo a la siguiente tarifa:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-A) Por la suscripción durante un año N$ 350.00
+A)Por la suscripción durante un año $ 390.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-B) Por la suscripción durante seis meses N$ 180.00
+B)Por la suscripción durante seis meses $ 190.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-C) Por la suscripción durante tres meses N$ 100.00
+C) Por la suscripción durante tres meses $ 105.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-D) Por la suscripción durante un mes N$ 35.00
+D)Por la suscripción durante un mes $43.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-E) El costo de un ejemplar de la fecha N$ 7.00
+E) El costo de un ejemplar de la fecha $ 6.80
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-F) El costo de un ejemplar atrasado hasta un año N$ 10.00
+F) El costo de un ejemplar atrasado hasta un año $ 10.50
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-G) El costo de un ejemplar del año inmediato anterior N$ 12.00
+G)El costo de un ejemplar del año inmediato anterior $ 12.50
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-H) Por cada año atrasado, se pagará el costo mas N$ 1.00
+H)Por cada año atrasado, se pagará el costo mas $ 2.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+IX.- Por la expedición de copias del Periódico Oficial del Estado:
+
+A) Por cada hoja simple $ 10.00
+
+B) Por cada hoja excedente $ 5.00
+
+C) Por las primeras cinco hojas certificadas $ 28.00
+
+D) Por cada hoja excedente $ 10.00
 
 ## TITULO V. DE LOS APROVECHAMIENTOS
 
@@ -2395,7 +2431,9 @@ II. Los Recargos.
 
 III. Los reintegros por responsabilidad oficial.
 
-IV. Las cauciones y fianzas cuya pérdida se declare por resolución firme a favor del Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+IV. Las cauciones y fianzas cuya pérdida se declare firme a favor del Estado, por resolución judicial o administrativa.
 
 V. Los intereses.
 
@@ -2411,7 +2449,7 @@ IX. Las Indemnizaciones.
 
 ###### ARTICULO 101.
 
-Las participaciones por Ingresos Federales, se percibirán de acuerdo a lo dispuesto de la Ley Federal de la materia, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y el Convenio de Colaboración Administrativa en materia Fiscal Federal y sus anexos. Las cuales ingresarán íntegramente a la Secretaria de Finanzas y Administración.
+Las participaciones por Ingresos Federales, se percibirán de acuerdo a lo dispuesto en la Ley de Coordinación Fiscal Federal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos. Las cuales ingresarán íntegramente a la Secretaria de Finanzas y Administración
 
 ## TITULO VII. DE LOS INGRESOS EXTRAORDINARIOS
 
@@ -2445,7 +2483,7 @@ Los contratistas y destajistas que realicen obras para el Gobierno del Estado, a
 
 ###### ARTICULO PRIMERO.
 
-Previo a su publicación en el Periódico Oficial del Gobierno del Estado, la presente Ley entrará en vigor el día primero de enero de 1991.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO SEGUNDO.
 
@@ -2516,3 +2554,9 @@ PRIMERO.- Dentro del presente ordenamiento legal, en todas las cantidades que se
 SEGUNDO.- El presente decreto entrará en vigor el día 1° de Enero de 1996, previa publicación en el Periódico Oficial del Estado.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 1996.
+
+PRIMERO.- El presente decreto entrará en vigor el día 1° de enero de 1997, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
