@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1965-02-23"
+last_updated: "1966-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE FEBRERO DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1966.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -972,9 +972,9 @@ XXIII.- Para formar su reglamento interior, y tomar las providencias necesarias 
 
 XXIV.- Para expedir la ley orgánica de la Contaduría Mayor.
 
-> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1934)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 13 DE ENERO DE 1966)</small>
 
-XXV.- Para establecer, organizar y sostener en toda la República escuelas rurales, elementales, superiores, secundarias y profesionales; de investigación científica, de bellas artes y de enseñanza técnica; escuelas prácticas de agricultura y de minería, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura general de los habitantes de la Nación y legislar en todo lo que se refiere a dichas instituciones; así como para dictar las leyes encaminadas a distribuir convenientemente entre la Federación, los Estados y los Municipios el ejercicio de la función educativa y las aportaciones económicas correspondientes a ese servicio público, buscando unificar y coordinar la educación en toda la República. Los títulos que se expidan por los establecimientos de que se trata, surtirán sus efectos en toda la República.
+XXV.- Para establecer, organizar y sostener en toda la República escuelas rurales, elementales, superiores, secundarias y profesionales; de investigación científica, de bellas artes y de enseñanza técnica; escuelas prácticas de agricultura y de minería, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura general de los habitantes de la nación y legislar en todo lo que se refiere a dichas instituciones; para legislar sobre monumentos arqueológicos, artísticos e históricos, cuya conservación sea de interés nacional; así como para dictar las leyes encaminadas a distribuir convenientemente entre la Federación, los Estados y los Municipios el ejercicio de la función educativa y las aportaciones económicas correspondientes a ese servicio público, buscando unificar y coordinar la educación en toda la República. Los títulos que se expidan por los establecimientos de que se trata surtirán sus efectos en toda la República.
 
 > <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 1933)</small>
 
@@ -2515,3 +2515,7 @@ ARTICULO UNICO TRANSITORIO.- Las presentes adiciones y reformas entrarán en vig
 D.O.F. 23 DE FEBRERO DE 1965.
 
 Las presentes reformas y adiciones entrarán en vigor cinco días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 13 DE ENERO DE 1966.
+
+TRANSITORIO.- La presente adición entrará en vigor a partir de los cinco días de su publicación en el "Diario Oficial" de la Federación.
