@@ -4,7 +4,7 @@ identifier: "LFISAN"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-30"
-last_updated: "1997-12-29"
+last_updated: "2003-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9238&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFISAN"
 
 LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 1996.
 
@@ -50,11 +50,11 @@ I.- Enajenen automóviles nuevos de producción nacional. Se entiende por autom�
 
 II.- Importen en definitiva al país automóviles. Los automóviles a que se refiere esta fracción son los que corresponden al año modelo posterior al de aplicación de la Ley, al año modelo en que se efectúe la importación, o a los 10 años modelo inmediato anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 2o.
 
-El impuesto para automóviles nuevos se calculará aplicando la tarifa o tasa establecida en el artículo 3o. de esta Ley, según corresponda, al precio de enajenación del automóvil al consumidor por el fabricante, ensamblador o sus distribuidores autorizados, incluyendo el equipo opcional, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones.
+El impuesto para automóviles nuevos se calculará aplicando la tarifa o tasa establecida en el artículo 3o. de esta Ley, según corresponda, al precio de enajenación del automóvil al consumidor por el fabricante, ensamblador, distribuidores autorizados o comerciantes en el ramo de vehículos, incluyendo el equipo opcional, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -64,13 +64,15 @@ Tratándose de automóviles blindados, excepto camiones, la tarifa antes mencion
 
 No formará parte del precio a que se refiere este artículo, el impuesto al valor agregado que se cause por tal enajenación.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
-En el caso de automóviles de importación definitiva, incluyendo los destinados a permanecer definitivamente en la franja fronteriza norte del país y en los Estados de Baja California, Baja California Sur y la región parcial del Estado de Sonora, el impuesto se calculará aplicando la tarifa establecida en esta Ley, al precio de enajenación a que se refiere el párrafo anterior, adicionado con el impuesto general de importación y con el monto de las contribuciones que se tengan que pagar con motivo de la importación, a excepción del impuesto al valor agregado.
+En el caso de automóviles de importación definitiva, incluyendo los destinados a permanecer definitivamente en la franja fronteriza norte del país y en los Estados de Baja California, Baja California Sur y la región parcial del Estado de Sonora, el impuesto se calculará aplicando la tarifa establecida en esta Ley, al precio de enajenación a que se refiere el primer párrafo de este artículo, adicionado con el impuesto general de importación y con el monto de las contribuciones que se tengan que pagar con motivo de la importación, a excepción del impuesto al valor agregado.
 
 El valor a que se refiere el párrafo anterior, se aplicará aun en el caso de que por el automóvil de que se trate no se deba pagar el citado impuesto general de importación.
 
-Tratándose de automóviles por cuya importación se pague el impuesto general de importación a una tasa menor a la general vigente, el impuesto a que se refiere esta Ley será el que se determine conforme a lo previsto en el segundo párrafo de este artículo, considerando el impuesto general de importación que se hubiere tenido que pagar de haberse aplicado la tasa general referida.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
+Tratándose de automóviles por cuya importación se pague el impuesto general de importación a una tasa menor a la general vigente, el impuesto a que se refiere esta Ley será el que se determine conforme a lo previsto en el cuarto párrafo de este artículo, considerando el impuesto general de importación que se hubiere tenido que pagar de haberse aplicado la tasa general referida.
 
 En el caso de vehículos a que se refiere la fracción II del artículo 3o. de esta Ley, el impuesto se calculará aplicando la tasa señalada en esa fracción al precio de enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o importador.
 
@@ -112,7 +114,9 @@ $ $ $ %
 
 Si el precio del automóvil es superior a $207,373.49, se reducirá del monto del impuesto determinado, la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y $207,373.49.
 
-Las cantidades que correspondan a cada uno de los tramos de la tarifa de este artículo, así como las contenidas en el párrafo que antecede, se actualizarán en los meses de enero, mayo y septiembre de cada año, con el factor de actualización correspondiente al periodo comprendido desde el quinto mes inmediato anterior hasta el último mes inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación dentro de los tres primeros días de enero, mayo y septiembre de cada año.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
+Las cantidades que correspondan a cada uno de los tramos de la tarifa de este artículo, así como las contenidas en el párrafo que antecede, se actualizarán en el mes de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de noviembre del penúltimo año hasta el mes de noviembre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación durante el mes de diciembre de cada año.
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -140,11 +144,17 @@ b).- Franja fronteriza norte del país, a la comprendida entre la línea divisor
 
 c).- Región parcial del Estado de Sonora, a la comprendida en los siguientes límites: al norte, la línea divisoria internacional desde el cauce del Río Colorado hasta el punto situado en esa línea a 10 kilómetros al oeste de Sonoita, de ese punto, una línea recta hasta llegar al este de Puerto Peñasco; de ahí, siguiendo el cauce de ese Río, hacia el norte hasta encontrar la línea divisoria internacional.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
+d) Comerciantes en el ramo de vehículos, a las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 6o.
 
-Para los efectos de esta Ley, se entiende por enajenación, además de lo señalado en el Código Fiscal de la Federación, la incorporación del automóvil al activo fijo de las empresas fabricantes, ensambladoras o importadoras de automóviles e inclusive al de los distribuidores autorizados, o los que tengan para su venta por más de un año, excepto cuando se trate de automóviles por los que ya se hubiera pagado el impuesto a que esta Ley se refiere. En estos casos, el impuesto se calculará en los términos del artículo 2o. de esta Ley, según proceda.
+Para los efectos de esta Ley, se entiende por enajenación, además de lo señalado en el Código Fiscal de la Federación, la incorporación del automóvil al activo fijo de las empresas fabricantes, ensambladoras o importadoras de automóviles e inclusive al de los distribuidores autorizados y comerciantes en el ramo de vehículos, o los que tengan para su venta por más de un año, excepto cuando se trate de automóviles por los que ya se hubiera pagado el impuesto a que esta Ley se refiere. En estos casos, el impuesto se calculará en los términos del artículo 2o. de esta Ley, según proceda.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 Se entiende que los automóviles se incorporan al activo fijo de las empresas cuando se utilicen para el desarrollo de las actividades del contribuyente.
 
@@ -180,9 +190,11 @@ III.- Se expida el comprobante de la enajenación.
 
 IV.- Al incorporarse al activo fijo o al transcurrir el plazo de un año a que se refiere el primer párrafo del artículo 6o. de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 10.
 
-Tratándose de automóviles importados en definitiva por personas distintas al fabricante, al ensamblador, a sus distribuidores autorizados o a importadores de automóviles que cuenten con registro ante la Secretaría de Comercio y Fomento Industrial como empresa comercial para importar autos usados, el impuesto a que se refiere esta Ley, deberá pagarse en la aduana mediante declaración, conjuntamente con el impuesto general de importación, inclusive cuando el pago del segundo se difiera en virtud de encontrarse los automóviles en depósito fiscal en almacenes generales de depósito. No podrán retirarse los automóviles de la aduana, recinto fiscal o fiscalizado, sin que previamente se haya realizado el pago que corresponda conforme a esta Ley.
+Tratándose de automóviles importados en definitiva por personas distintas al fabricante, al ensamblador, a sus distribuidores autorizados o a los comerciantes en el ramo de vehículos, el impuesto a que se refiere esta Ley, deberá pagarse en la aduana mediante declaración, conjuntamente con el impuesto general de importación, inclusive cuando el pago del segundo se difiera en virtud de encontrarse los automóviles en depósito fiscal en almacenes generales de depósito. No podrán retirarse los automóviles de la aduana, recinto fiscal o fiscalizado, sin que previamente se haya realizado el pago que corresponda conforme a esta Ley.
 
 ###### ARTICULO 11.
 
@@ -239,3 +251,9 @@ D.O.F. 29 DE DICIEMBRE DE 1997.
 ## TRANSITORIO
 
 ÚNICO.- La presente Ley entrará en vigor el día 1o. de enero de 1998.
+
+D.O.F. 31 DE DICIEMBRE DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1 de enero de 2004.
+
+SEGUNDO. Para los efectos de lo dispuesto en el artículo 2-C de la Ley del Impuesto al Valor Agregado, los pagos correspondientes a los meses de enero, febrero, marzo y abril del 2004, se pagarán durante el mes de mayo de dicho año.
