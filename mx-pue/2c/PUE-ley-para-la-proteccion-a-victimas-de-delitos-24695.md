@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-a-victimas-de-delitos-24695"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-04"
-last_updated: "1996-06-04"
+last_updated: "1998-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24695&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PROTECCION A VICTIMAS DE DELITOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 1998.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 4 de junio de 1996.
 
@@ -95,9 +95,11 @@ El Sistema para el Desarrollo Integral de la Familia, los organismos públicos d
 
 ### CAPITULO TERCERO. DE LOS RECURSOS Y SU APLICACION
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1998)</small>
+
 ###### ARTICULO 7o.
 
-Para la correcta aplicación de esta Ley, habrá de constituirse un Fondo, con los recursos provenientes del pago de las multas que impongan el Presidente, el Pleno, las Salas y los Jueces del Tribunal Superior de Justicia del Estado, así como de las multas inherentes a las conmutaciones de sanciones de prisión, correspondiendo a la Secretaría de Finanzas la constitución de este fondo, el que pondrá a disposición de la Procuraduría General de Justicia, para los efectos de otorgar la protección a que se refiere esta Ley.
+Para la correcta aplicación de esta Ley, habrá de constituirse un Fondo, con los recursos provenientes del pago de las multas que impongan los Tribunales del Estado en materia de Defensa Social, así como de las multas inherentes a la conmutación de sanciones de prisión, correspondiendo a la Secretaría de Finanzas la constitución de este Fondo, el que pondrá a disposición de la Procuraduría General de Justicia, para los efectos de otorgar la protección a que se refiere esta Ley y deducir los derechos que deriven de su operación.
 
 ###### ARTICULO 8o.
 
@@ -169,25 +171,27 @@ V.- No tengan el carácter de beneficiarios de algún seguro que cubra los benef
 
 Los Agentes del Ministerio Público al iniciar una averiguación previa, obligatoriamente darán a conocer a las víctimas y a sus familiares, los beneficios que esta Ley otorga y los requerirá para que manifiesten si solicitan o no tal protección, dejando constancia de dichas actuaciones en la indagatoria correspondiente.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1998)</small>
+
 ###### ARTICULO 19.
 
-De solicitarse la protección, el Agente del Ministerio Público procederá de inmediato a comunicarlo a la Dirección de Participación Social, la que se avocará a obtener la información conducente para determinar si se encuentran reunidos los demás requisitos para otorgar la protección a que se refiere esta Ley.
-
-La resolución correspondiente deberá emitirse sin demora a partir de la notificación a la Dirección de Participación Social.
+De solicitarse la protección, el Agente del Ministerio Público procederá de inmediato a comunicarlo a la Dirección de Participación Social, la que se abocará a obtener la información conducente, en términos de esta Ley y su Reglamento, para determinar si se encuentran reunidos los requisitos para otorgar la protección a que se refiere esta Ley. La resolución correspondiente deberá emitirse sin demora por el Titular de la Dirección de Participación Social, a partir de que haya sido notificado.
 
 ###### ARTICULO 20.
 
 Cuando se otorgue la protección estipulada a la víctima de delito, el Estado se subrogará por Ministerio de la propia Ley en sus derechos a la reparación del daño, por el costo total de la protección otorgada, en contra del obligado a la reparación del daño o de la aseguradora en su caso.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1998)</small>
+
 ###### ARTICULO 21.
 
-En caso de que se determine que la conducta no sea delictiva y se hayan realizado erogaciones, el Estado podrá deducir sus derechos por conducto del Defensor de Oficio, pero si tuviere carácter delictual, sus derechos serán tutelados por el Ministerio Público en el proceso correspondiente.
+En caso de que se determine que la conducta no sea delictuosa y se hayan realizado erogaciones por parte del Fondo, la Procuraduría General de Justicia deducirá los derechos del Estado como subrogado legal, por conducto de la Dirección Jurídica; pero si tuviere carácter delictivo, esos derechos serán tutelados por el Ministerio Público en el proceso correspondiente.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1998)</small>
 
 ###### ARTICULO 22.
 
-La Dirección de Participación Social, informará a los interesados, de ser el caso, el derecho que les corresponde para deducir la acción respectiva por vía diferente a la penal y la posibilidad de ser asistidos por el Defensor de Oficio, dejando constancia de tal informe en el expediente correspondiente.
-
-Tanto la Procuraduría General de Justicia como la Defensoría de Oficio se brindarán mutuamente la información oportuna y pormenorizada respecto de los fondos dispuestos, así como de los procedimientos seguidos para hacer efectivos los derechos del Estado como subrogatorio en lo que se refiere a la reparación del daño.
+Si se determina legalmente que la conducta no fue delictiva, la Dirección de Participación Social informará a los interesados, de ser el caso, el derecho que les corresponde para deducir la acción respectiva por vía civil y la posibilidad de ser asistidos por un Defensor Social, dejando constancia de tal informe en el expediente respectivo.
 
 ###### ARTICULO 23.
 
@@ -207,7 +211,7 @@ Es obligación del sentenciado acreditar ante la Dirección de Participación So
 
 ###### ARTICULO 26.
 
-Respecto de las multas a que se refieren los artículos 289 del Código Civil; 79 y 104 del Código de Procedimientos Civiles del Estado, la Secretaría de Finanzas considerará como orden de pago la copia autorizada del auto o resolución judicial correspondiente.
+(DEROGADO, P.O. 15 DE JULIO DE 1998)
 
 ###### ARTICULO 27.
 
@@ -250,3 +254,15 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Heroica Ciudad de Puebla de Zaragoza a los catorce días del mes de marzo de mil novecientos noventa y seis.- WILLEBALDO GARCIA DE LA CADENA ROMERO.- Diputado Presidente.- Rúbrica.- JOSE MARIA SOLANA RIVERO.- Diputado Secretario.- Rúbrica.- SAUL CORONEL AGUIRRE.- Diputado Secretario.- Rúbrica.
 
 POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SUS EFECTOS, DADO EN EL PALACIO DEL PODER EJECUTIVO, EN LA HEROICA CIUDAD DE PUEBLA DE ZARAGOZA, A LOS VEINTE DIAS DEL MES DE MARZO DE MIL NOVECIENTOS NOVENTA Y SEIS.- El Gobernador Constitucional del Estado.- LICENCIADO MANUEL BARTLETT DIAZ.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO P. MARIN TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE JULIO DE 1998.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
