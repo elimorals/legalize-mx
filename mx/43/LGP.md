@@ -4,7 +4,7 @@ identifier: "LGP"
 country: "mx"
 rank: "ley_general"
 publication_date: "1974-01-07"
-last_updated: "1996-11-08"
+last_updated: "1999-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGP"
 
 LEY GENERAL DE POBLACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 7 de enero de 1974.
 
@@ -174,13 +174,17 @@ La Secretaría de Gobernación vigilará en relación con el servicio migratorio
 
 Los mexicanos para ingresar al país comprobarán su nacionalidad, satisfarán (sic) el examen médico cuando se estime necesario y proporcionarán los informes estadísticos que se les requieran. En caso de tener un mal contagioso, las autoridades de Migración expeditarán los trámites cuando dichos nacionales deban ser internados para ser atendidos en el lugar que las autoridades sanitarias determinen.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1999)</small>
+
 ###### ARTICULO 16.
 
-El servicio de migración tiene prioridad, con excepción del de sanidad, para inspeccionar la entrada o salida de personas en cualquier forma que lo hagan, ya sea en transportes nacionales o extranjeros, marítimos, aéreos o terrestres, en las costas, puertos, fronteras y aeropuertos de la República.
+El personal de los servicios de migración dependientes de la Secretaría de Gobernación y la Policía Federal Preventiva tienen prioridad, con excepción del servicio de sanidad, para inspeccionar la entrada o salida de personas en cualquier forma que lo hagan, ya sea en transportes nacionales o extranjeros, marítimos, aéreos o terrestres, en las costas, puertos, fronteras y aeropuertos de la República.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 17.
 
-Todo lo relativo a la vigilancia e inspección de personas en tránsito por aire, tierra y mar, cuando tenga carácter internacional queda a cargo del servicio de migración, con excepción de las funciones de sanidad.
+Con excepción de los servicios de sanidad, todo lo relativo a inspección dentro del territorio del país, de personas en tránsito por aire, mar y tierra, cuando tenga carácter internacional, queda a cargo de la Policía Federal Preventiva.
 
 ###### ARTICULO 18.
 
@@ -406,7 +410,7 @@ VI.- TECNICO.- Para realizar investigación aplicada dentro de la producción o 
 
 VII.- FAMILIARES.- Para vivir bajo la dependencia económica del cónyuge o de un pariente consanguíneo, inmigrante, inmigrado o mexicano en línea recta sin límite de grado o transversal hasta el segundo.
 
-> <small>(REFORMADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F 8 DE NOVIEMBRE DE 1996)</small>
 
 Los inmigrantes familiares podrán ser autorizados por la Secretaría de Gobernación para realizar las actividades que establezca el Reglamento.
 
@@ -1064,13 +1068,13 @@ A quien a sabiendas proporcione los medios, se preste o sirva para llevar a cabo
 
 Se aumentarán hasta en una mitad las penas previstas en los párrafos precedentes, cuando las conductas descritas se realicen respecto de menores de edad; o en condiciones o por medios que pongan en peligro la salud, la integridad o la vida de los indocumentados; o bien cuando el autor del delito sea servidor público.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 (REUBICADO [N. DE E. ANTES ARTICULO 119], D.O.F. 22 DE JULIO DE 1992)
 
 ###### ARTICULO 139.
 
 Al funcionario judicial o administrativo que dé trámite al divorcio o nulidad de matrimonio de los extranjeros sin que se acompañe la certificación expedida por la Secretaría de Gobernación de su legal residencia en el país y de que sus condiciones y calidad migratoria les permite realizar tal acto, o con aplicación de otras leyes distintas de las señaladas en el artículo 50 de la Ley de Nacionalidad y Naturalización, se le impondrá la destitución de empleo y prisión hasta de seis meses o multa hasta de diez mil pesos o ambas, a juicio del juez, quedando desde luego separado de sus funciones al dictarse el auto de sujeción a proceso.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
 
@@ -1154,21 +1158,33 @@ La autoridad migratoria contará con un plazo de hasta noventa días naturales p
 
 ### CAPITULO X. Del procedimiento de verificación y vigilancia
 
-> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 151.
 
-Fuera de los puntos fijos de revisión establecidos conforme a las disposiciones de esta Ley, la autoridad migratoria podrá llevar a cabo las siguientes diligencias:
+Fuera de los puntos fijos de revisión establecidos conforme a las disposiciones de esta Ley, la Secretaría de Gobernación, a través del personal de los servicios de migración y de la Policía Federal Preventiva, podrá llevar a cabo las siguientes diligencias:
+
+> <small>(ADICIONADA, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
 
 I.- Visitas de verificación;
 
+> <small>(ADICIONADA, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
 II.- Comparecencia del extranjero ante la autoridad migratoria;
+
+> <small>(ADICIONADA, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
 
 III.- Recepción y desahogo de denuncias y testimonios;
 
+> <small>(ADICIONADA, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
 IV.- Solicitud de informes;
 
+> <small>(ADICIONADA, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
 V.- Revisión migratoria en rutas o puntos provisionales distintos a los establecidos, y
+
+> <small>(ADICIONADA, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
 
 VI.- Obtención de los demás elementos de convicción necesarios para la aplicación de esta Ley, su Reglamento y demás disposiciones administrativas procedentes.
 
@@ -1325,3 +1341,19 @@ CUARTO.- En el establecimiento del Registro Nacional de Ciudadanos se utilizará
 D.O.F. 8 DE NOVIEMBRE DE 1996.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE ENERO DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
+
+SEGUNDO.- La organización de la Policía Federal Preventiva durará un máximo de sesenta días contados a partir de la entrada en vigor del presente Decreto, lapso en el que no ejercerá las atribuciones conferidas por este Decreto, las cuales corresponderán a las policías administrativas que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal, la Ley General de Población, la Ley de Vías Generales de Comunicación y los demás ordenamientos reformados por este Decreto.
+
+CUARTO.- Los derechos de los miembros de las policías administrativas de Migración, Fiscal Federal y Federal de Caminos, serán respetados conforme a las disposiciones legales aplicables.
+
+QUINTO.- Las menciones a la Policía de Migración y a la Policía Federal de Caminos que aparezcan en otros ordenamientos, se entenderán referidas a la Policía Federal Preventiva.
+
+Las menciones a la Policía Fiscal Federal que aparezcan en cualquier ordenamiento legal, se entenderán referidas a la Unidad de Apoyo para la Inspección Fiscal y Aduanera.
+
+SÉPTIMO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
