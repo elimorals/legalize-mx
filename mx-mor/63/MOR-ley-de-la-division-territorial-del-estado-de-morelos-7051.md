@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-division-territorial-del-estado-de-morelos-7051"
 country: "mx"
 rank: "ley"
 publication_date: "1932-12-18"
-last_updated: "1938-12-25"
+last_updated: "1939-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DIVISIÓN TERRITORIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 1938.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 1939.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el domingo 18 de diciembre de 1932.
 
@@ -103,9 +103,11 @@ Corresponden a la jurisdicción del Municipio de Jonacatepec, los siguientes cen
 
 Corresponden a la jurisdicción del Municipio de Mazatepec, los siguientes centros de población: Mazatepec, Cabecera del Municipio, Vista Alegre y Cuauchichinola.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1939)</small>
+
 ###### Art. 17.
 
-Corresponden a la jurisdicción del Municipio de Miacatlán, los siguientes centros de población: Coatetelco, La Mina, Miacatlán Cabecera del Municipio, Palo Grande, Palpan y Tlajotla.
+Corresponden a la jurisdicción del Municipio de Miacatlán, los siguientes centros de población: Coatetelco, El Rodeo, La Mina, Miacatlán, cabecera del Municipio, Palo Grande, Palpam y Tlajotla.
 
 > <small>N. DE E. REFORMADO POR DECRETO NÚMERO 203, PUBLICADO EN EL P.O. DE 31 DE ENERO DE 1937.</small>
 
@@ -224,3 +226,7 @@ UNICO.- Remítase al Ejecutivo del Estado para los efectos de la fracción I del
 P.O. 25 DE DICIEMBRE DE 1938.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 7 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MORELOS.
+
+P.O. 16 DE JULIO DE 1939.
+
+UNICO.- Remítase al Ejecutivo del Estado, para los efectos de la fracción I del artículo 71 de la Constitución Política Local, a fin de que este Decreto empiece a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
