@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-congreso-del-estado-de-morelos-13127"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-11-12"
-last_updated: "1999-06-23"
+last_updated: "2000-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13127&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2000.
 
 Ley publicada en el Periódico Oficial, el día 12 de Noviembre de 1997.
 
@@ -116,6 +116,8 @@ Podrá cambiar su residencia en los términos del artículo 22 de la Constituci�
 ###### ARTICULO 8.
 
 El Recinto Oficial gozará de inmunidad y en consecuencia es inviolable. Los elementos pertenecientes a cualquier fuerza publica tendrán acceso solo con la autorización del Presidente del Congreso. En caso de autorización, dicho cuerpo estará bajo el mando de éste.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### ARTÍCULO 9.
 
@@ -491,9 +493,11 @@ b) Los diputados cuyo partido político no integren grupo parlamentario y estén
 
 Por cada diputado con representación en esta comisión habrá un suplente.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### ARTÍCULO 34.
 
-La Comisión se conformará por un Presidente, un Secretario y los Vocales a que haya lugar; mismos que serán designados por sus integrantes, quienes determinarán el tiempo de duración para cada cargo.
+La Comisión se conformará por un Presidente, un Secretario y los Vocales a que haya lugar; mismos que serán designados por sus integrantes, quienes durarán en el cargo seis meses, presidiendo la Comisión de manera rotativa entre los diferentes grupos parlamentarios; pasando este tiempo el Presidente pasará a ser Vocal y el Vocal ocupará la Secretaria de dicha Comisión.
 
 ###### ARTICULO 35.
 
@@ -511,7 +515,9 @@ Los acuerdos y resoluciones de la Comisión se tomarán por la mayoría de sus i
 
 La Comisión de Régimen Interno y Concertación Política tendrá las siguientes atribuciones:
 
-a).- Dictaminar los asuntos referentes a la aprobación de los nombramientos o designaciones de Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo, y de cualquier otro funcionario que la ley confiera al Congreso.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+a).- Dictaminar los asuntos referentes a la aprobación de los nombramientos o designación del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo, de los Ciudadanos Integrantes del Consejo de Participación Ciudadana, los ciudadanos para integrar el Consejo Estatal del Instituto Electoral, y de cualquier otro funcionario que la Ley confiera al órgano de Gobierno del Congreso;
 
 b) Los que se refieran al otorgamiento de Permisos y Licencias al Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Estatal Electoral y demás servidores públicos que señala la ley.
 
@@ -523,19 +529,33 @@ e) Recibir de las dependencias del Congreso sus propuestas de presupuesto para l
 
 f) Proponer al pleno del Congreso a los integrantes de las Comisiones Permanentes y Especiales, y en su caso, nombrar a quienes los sustituyan cuando así proceda.
 
-g) Proponer al pleno la designación o remoción del Oficial Mayor, Contador Mayor de Hacienda y Tesorero del Congreso del Estado.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-h).- Al Designar al Director General del Instituto de Investigaciones Legislativas, al Secretario Técnico de la propia Comisión y al Director del área de Comunicación Social del Congreso del Estado.
+g) Proponer al pleno la designación del Contador Mayor de Hacienda, Oficial Mayor, Tesorero y Director del Instituto de Investigaciones Legislativas del Congreso del Estado. Para el caso del Contador Mayor de Hacienda, será propuesto por el Grupo Parlamentario que ocupe el segundo lugar en el número de Legisladores; para el caso del Oficial Mayor será propuesto por el Grupo Parlamentario que ocupe el Tercer lugar en el número de Legisladores; para el caso del Tesorero será propuesto por el Grupo Parlamentario con mayor número de Legisladores en el Congreso; para el caso del Director del Instituto de Investigaciones Legislativas será propuesto por consenso de los integrantes de la Comisión de Régimen Interno y Concertación Política;
 
-i).- Desempeñar las funciones que la Ley de Responsabilidad de los Servidores Públicos del Estado de Morelos le atribuye a la Comisión Política del Congreso.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+h).- Designar al Secretario Técnico de la propia Comisión y al Director del área de Comunicación Social del Congreso del Estado;
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+i).- Desempeñar las funciones que la Ley de Responsabilidad de los Servidores Públicos del Estado de Morelos le atribuye a la Comisión Política del Congreso y recibir la declaración de bienes patrimoniales del Gobernador del Estado y de los diversos servidores públicos del Poder Ejecutivo al inicio y al término de su gestión;
 
 j).- Suscribir acuerdos relativos a los asuntos que se desahoguen en el Congreso.
 
-k).- Presentar al pleno de la Comisión los nombramientos de consejeros propietarios y suplentes que formarán parte del Consejo Estatal Electoral del Instituto Estatal Electoral, propuestos por cada uno de los grupos parlamentarios para que representen al poder legislativo.
+k).- (DEROGADO, P.O. 16 DE AGOSTO DE 2000)
 
-l).- Coadyuvar con la mesa directiva a organizar y conducir los trabajos del Congreso.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-j).- (sic) Las demás que le confiera el Pleno, esta Ley y sus disposiciones reglamentarias y no sean competencia de otra comisión.
+l).- Dictaminar sobre la terna de ciudadanos que envíe el Gobernador del Estado para designar al Procurador General de Justicia;
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+m).- Coadyuvar con la Mesa Directiva a organizar y conducir los trabajos del Congreso;
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+n).- Las demás que le confiera el Pleno, esta Ley y sus disposiciones reglamentarias y no sean competencia de otra comisión.
 
 ### CAPITULO V. DE LAS COMISIONES LEGISLATIVAS
 
@@ -553,11 +573,11 @@ Se denominarán comisiones ordinarias, las que se constituyan con carácter defi
 
 Las comisiones especiales serán aquellas que se establezcan de manera transitoria, funcionaran en términos de las facultades que el Congreso les otorgue y conocerán específicamente de los hechos que hayan motivado su conformación.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### ARTÍCULO 41.
 
-Las Comisiones se integrarán de manera plural por tres diputados de los diferentes grupos parlamentarios, uno fungirá como Presidente, otro como Secretario y el tercero como Vocal, los que serán electos por el pleno del Congreso, en la tercera sesión del inicio de la legislatura, a propuesta de la comisión de Régimen Interno y Concertación Política.
-
-Los Grupos Parlamentarios tendrán derecho a presidir un número de Comisiones proporcionalmente al número de sus integrantes.
+Las Comisiones se integrarán de manera plural por tres diputados de los diferentes grupos parlamentarios, uno fungirá como Presidente, otro como Secretario y el tercero como Vocal; la Presidencia de la Comisión de Hacienda, Presupuesto y Cuenta Pública será a propuesta del grupo parlamentario que ocupe el segundo lugar en número de Diputados; la Presidencia de la Comisión de Puntos Constitucionales y Legislación será a propuesta del grupo parlamentario que ocupe el tercer lugar en número de Diputados; el resto de las Comisiones será a propuesta de la Comisión de Régimen Interno y Concertación Política, debiendo quedar constituidas en la tercera sesión del inicio de la Legislatura.
 
 ###### ARTICULO 42.
 
@@ -577,9 +597,13 @@ d) Solicitar, al pleno, la comparecencia de algún funcionario público ante la 
 
 e) Las que les confiera el pleno, esta ley y su reglamento.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### ARTÍCULO 44.
 
 Las Comisiones procurarán tomar sus decisiones por mayoría de votos de sus miembros. Cuando alguno de los miembros de una Comisión disienta del Dictamen aprobado, podrá expresar su parecer por escrito, emitiendo un voto particular dirigido al Presidente de la Comisión a fin de que se someta a consideración de la Asamblea junto con el dictamen de la mayoría.
+
+Asimismo, designarán por mayoría de votos al Secretario Técnico de la Comisión.
 
 ###### ARTICULO 45.
 
@@ -813,6 +837,8 @@ c) Coadyuvar con las políticas y programas educativos sobre ecología y preserv
 
 ### CAPITULO I. DE LOS GRUPOS Y FRACCIONES PARLAMENTARIOS
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ## TITULO QUINTO. DE LA DIPUTACION PERMANENTE
 
 ### CAPITULO I. DE LOS ORGANOS ADMINISTRATIVOS DEL CONGRESO
@@ -829,13 +855,13 @@ El Presidente de la Diputación Permanente convocará a todos los Diputados a Ju
 
 ###### ARTÍCULO 62.
 
-Los Grupos Parlamentarios son las formas de organización que adoptarán los diputados para realizar tareas específicas, coadyuvar al mejor desarrollo del proceso legislativo, expresar las corrientes políticas y de opinión presentes en el Congreso y para facilitar la participación de los diputados en las tareas legislativas. Bastarán dos diputados que actúen bajo la dirección de un mismo partido para integrar un Grupo Parlamentario.
+Los Grupos Parlamentarios son las formas de organización que adoptarán los diputados para realizar tareas específicas, coadyuvar al mejor desarrollo del proceso legislativo, expresar las corrientes políticas y de opinión presentes en el Congreso y para facilitar la participación de los diputados en las tareas legislativas, y estarán formados cuando menos por dos diputados.
 
-Los diputados que no integren un Grupo serán considerados Fracción Parlamentaria del Partido Político al que pertenezcan.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### ARTÍCULO 63.
 
-Los diputados electos bajo las siglas de un mismo partido podrán constituir un solo Grupo Parlamentario. Cuando uno o más diputados de un mismo partido no acrediten la constitución de un grupo, o cuando alguno deje de pertenecer a uno existente, sin integrarse a otro, serán considerados como diputados sin partido. Debiéndose guardar hacia ellos las consideraciones que a todos los legisladores se les otorga para desempeñar sus funciones de representación popular.
+Los diputados electos bajo las siglas de un mismo partido podrán constituir un solo Grupo Parlamentario. Cuando uno o más diputados de un mismo partido dejen de pertenecer a uno existente, sin integrarse a otro, serán considerados como diputados sin partido. Debiéndose guardar hacia ellos las consideraciones que a todos los legisladores se les otorga para desempeñar sus funciones de representación popular.
 
 ###### ARTICULO 64.
 
@@ -845,9 +871,17 @@ Los Grupos Parlamentarios se tendrán por constituidos, cuando presenten ante la
 
 Cualquier modificación a la estructura original de los grupos Parlamentarios, deberá hacerse del conocimiento de la Mesa Directiva, quien dará cuenta de ello al pleno.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### ARTÍCULO 66.
 
-Los Grupos y Fracciones Parlamentarios dispondrán de recursos económicos, apoyo técnico y locales adecuados para el eficaz cumplimiento de sus funciones.
+Los recursos económicos de que dispondrán los Grupos Parlamentarios del Congreso, serán del 10% del total del presupuesto anual del Poder Legislativo, mismos que se asignarán mensualmente de la siguiente forma:
+
+A) 60% en forma igualitaria a todos los grupos parlamentarios;
+
+B) 40% en relación al número de curules obtenidos en el Congreso.
+
+Los recursos humanos de asesoría y apoyo técnico y administrativo se asignarán de manera proporcional a cada grupo parlamentario. Los espacios físicos se asignarán de acuerdo al número de diputados con los que cuente cada grupo parlamentario o fracción en el Congreso.
 
 ## TITULO SEPTIMO. DE LA ADMINISTRACION DEL CONGRESO
 
@@ -893,7 +927,9 @@ Son atribuciones del Oficial Mayor:
 
 a) Auxiliar a la mesa directiva de la legislatura y de la diputación permanente en las funciones que les competen en términos de ley.
 
-b) Coordinar las adquisiciones, servicios y suministros de las diversas dependencias del Congreso.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+b) Programar y ejecutar las adquisiciones, servicios y suministros de las diversas dependencias del Congreso;
 
 c) Atender al desarrollo del personal administrativo y las relaciones laborales con los trabajadores del poder Legislativo.
 
@@ -901,9 +937,49 @@ d) Mantener actualizados los sistemas administrativos que sirvan de base para la
 
 e) Vigilar la oportuna entrega de los citatorios para las sesiones, a los diputados.
 
-f) La impresión, publicación y distribución del Semanario de los Debates.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-g) Las demás que esta ley y su reglamento le confieran.
+f)La impresión, publicación y distribución del Semanario de los Debates y de los documentos que requiera su difusión y publicación por el Congreso del Estado;
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+g)Formular los programas anuales de naturaleza administrativa y financiera, incorporando los proyectos de las Comisiones, autorizados por la Comisión de Régimen Interno y Concertación Política;
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+h)Dirigir los trabajos y supervisar su cumplimiento en los servicios administrativos y financieros, debiendo informar trimestralmente a la Comisión de Régimen Interno y Concertación Política de su programación y cumplimiento;
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+i)Autorizar la plantilla del personal del Congreso y sus movimientos, así como el tabulador de sueldos;
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+j)Preparar y desarrollar los trabajos del Pleno para cada Sesión, registrando y dando seguimiento a las iniciativas de ley o decreto, distribuyendo al Pleno los documentos sujetos a conocimiento;
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+k)Apoyar a los Secretarios, durante las sesiones, para verificar el quórum, cómputo y registro de las votaciones, información y estadística de las actividades y resoluciones que adopte el Pleno;
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+l)Preparar los elementos necesarios para celebrar la sesión de instalación de cada nueva Legislatura, en los términos previstos en esta Ley;
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+m) Administrar los servicios del archivo, que comprende los de formación, clasificación y custodia de expedientes del Pleno y las Comisiones; y desahogo de las consultas y apoyo documental a los órganos de la Cámara y a los Legisladores;
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+n)Administrar y proporcionar servicio de bibliotecas, que comprende los de acervo de libros, hemeroteca, videoteca, multimedia, museografía e informática parlamentaria;
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+o)Proporcionar servicios de registro biográfico, protocolo, ceremonial y relaciones públicas; y
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+p)Las demás que esta Ley, su Reglamento y el Pleno del Congreso le confieran.
 
 ###### ARTICULO 73.
 
@@ -913,7 +989,9 @@ El Tesorero depende de la Comisión de Régimen Interno y Concertación Polític
 
 Son obligaciones del Tesorero:
 
-a) Pagar las remuneraciones de los diputados y sueldos de los empleados del Congreso del Estado.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+a)Pagar las remuneraciones de los diputados y otorgar los recursos a los grupos o fracciones parlamentarios del Congreso;
 
 b) Presentar mensualmente a la Comisión de Régimen Interno y de Concertación Política un corte de caja mensual de la Tesorería.
 
@@ -923,7 +1001,13 @@ d) Otorgar fianza suficiente para caucionar la administración de los fondos del
 
 e) Facilitar a la Comisión de Vigilancia la información y documentación necesaria para el desempeño de sus funciones.
 
-f) Las demás que la presente ley y su reglamento le señalen.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+f)Pagar los sueldos y salarios a los trabajadores y empleados del Congreso del Estado;
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+g)Las demás que la presente Ley y su reglamento señalen.
 
 ###### ARTÍCULO 75.
 
@@ -1040,3 +1124,17 @@ DECRETO No. 666
 PRIMERO.- Aprobado que sea el presente Decreto, entrará en vigor al día siguiente de su aprobación por el Congreso del Estado de Morelos.
 
 SEGUNDO.- Túrnese al Titular del Poder Ejecutivo del Estado, para los efectos legales correspondientes.
+
+P.O. 16 DE AGOSTO DE 2000.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su aprobación.
+
+###### ARTICULO SEGUNDO.
+
+La disposición contenida en el artículo 66 de este Decreto, iniciará su vigencia el primer día de enero del año 2001.
+
+###### ARTICULO TERCERO.
+
+Para efectos de su divulgación, publíquese en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado Libre y Soberano de Morelos.
