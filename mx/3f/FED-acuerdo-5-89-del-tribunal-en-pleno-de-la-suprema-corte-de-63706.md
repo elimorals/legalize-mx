@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-5-89-del-tribunal-en-pleno-de-la-suprema-corte-de-63706
 country: "mx"
 rank: "acuerdo"
 publication_date: "1989-07-24"
-last_updated: "1989-07-24"
+last_updated: "1990-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63706&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1989-07-04"
 
 ACUERDO No. 5/89, DEL TRIBUNAL EN PLENO DEL DIA CUATRO DE JULIO DE MIL NOVECIENTOS OCHENTA Y NUEVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MARZO DE 1990.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 24 de julio de 1989.
 
@@ -280,6 +280,10 @@ Segunda Inspectoría General
 5. Juzgado Quinto de Distrito en el estado de México, con residencia en Tlalnepantla.
 
 6. Juzgado Sexto de Distrito en el estado de México, con residencia en Ciudad Nezahualcóyotl.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO NUMERO 2/90 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 12 DE MARZO DE 1990)</small>
+
+7. Juzgado Séptimo de Distrito en el estado de México, con residencia en Ciudad Nezahualcóyotl.
 
 Tercera Inspectoría General
 
@@ -634,3 +638,11 @@ LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA S
 Que este acuerdo número 5/89, que reglamenta las Inspectorías, fue aprobado por el Tribunal Pleno en la sesión privada celebrada el martes cuatro de julio de mil novecientos ochenta y nueve, por unanimidad de veinte votos de los señores ministros: Presidente Carlos del Río Rodríguez, Carlos de Silva Nava, Ignacio Magaña Cárdenas, Samuel Alba Leyva, Mariano Azuela Güitrón, Salvador Rocha Díaz, Noé Castañón León, Felipe López Contreras, Luis Fernández Doblado, Francisco H. Pavón Vasconcelos, Victoria Adato Green, Santiago Rodríguez Roldán, José Martínez Delgado, Jorge Carpizo Mac Gregor, Atanasio González Martínez, José Manuel Villagordoa Lozano, Fausta Moreno Flores, Sergio Hugo Chapital Gutiérrez, Juan Díaz Romero y Ulises Schmill Ordóñez. México, Distrito Federal, a cinco de julio de mil novecientos ochenta y nueve.- Rúbrica.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta fotocopia constante de dieciocho fojas útiles concuerda fiel y exactamente con su original que obra en el cuaderno de las actas relativas a las sesiones del Pleno de este alto Tribunal, y se certifica a fin de dar cumplimiento a lo ordenado en el punto primero transitorio del acuerdo correspondiente. México, Distrito Federal, a cinco de julio de mil novecientos ochenta y nueve.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 12 DE MARZO DE 1990.
+
+PRIMERO.- Publíquese este acuerdo en el Diario oficial de la Federación y en los órganos del Semanario Judicial de la Federación.
+
+SEGUNDO.- Este acuerdo entrará en vigor el día de su aprobación.
