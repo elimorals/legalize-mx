@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "2000-12-22"
+last_updated: "2002-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -1967,9 +1967,7 @@ Los contribuyentes a que se refiere el artículo anterior están obligados a oto
 
 ### CAPITULO VIII (SIC). DEL FONDO PARA SEGURIDAD PUBLICA
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
-
-ARTICULO 219 BIS.- De los ingresos provenientes de la recaudación de los impuestos sobre juegos y apuestas permitidas, sobre diversiones y espectáculos públicos y sobre rifas, sorteos, loterías y concursos que establece esta Ley; se destinará el porcentaje que determine la Ley de Ingresos para los Municipios del Estado de Guanajuato, a la constitución del Fondo para Seguridad Pública Municipal.
+ARTICULO 219 BIS.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO [N. DE E. ANTES CAPITULO OCTAVO], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -2508,3 +2506,7 @@ P.O. 22 DE DICIEMBRE DE 2000.
 Artículo Primero.- El presente Decreto entrará en vigor el primero de enero del año 2001, previa publicación en el periódico oficial del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2002.
+
+Artículo Único.- El presente decreto entrará en vigor el día 1º primero de enero del año 2003.
