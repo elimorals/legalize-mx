@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2003-03-18"
+last_updated: "2004-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE FEBRERO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -219,9 +219,13 @@ Al frente de cada dependencia habrá un titular que, para el despacho de los asu
 
 Cada dependencia contará, además con una unidad administrativa subordinada directamente al titular de la misma y que será responsable de la presupuestación, programación y ejercicio del presupuesto a su cargo, en los términos de las disposiciones aplicables.
 
-> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
 
-Los titulares de las unidades administrativas a que refiere este artículo, deberán contar con título profesional en las licenciaturas en Derecho, Contaduría Pública, Administración o Economía, expedido por autoridad o institución legalmente facultada para ello, cumpliendo los demás requisitos que establezca la legislación aplicable.
+En el caso de la Secretaría de Finanzas y Planeación, las funciones que corresponden a la unidad administrativa se desarrollarán conforme a la distribución de competencias que establezca su reglamento interior.
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+Los titulares de las unidades administrativas a que se refiere este artículo deberán contar con título profesional en las licenciaturas en Derecho, Contaduría Pública, Administración o Economía, expedido por autoridad o institución legalmente facultada para ello, cumpliendo los demás requisitos que establezca la legislación aplicable.
 
 ###### Artículo 11.
 
@@ -1403,7 +1407,17 @@ La dependencia coordinadora del sector al que corresponda la empresa, en lo que 
 
 Son fideicomisos públicos las entidades creadas por ley o decreto del Congreso, o por decreto del titular del Ejecutivo, que se constituyan con recursos de la Administración Pública Estatal y se organicen, de acuerdo a su normatividad interior, con el propósito de auxiliar al Ejecutivo en la realización de actividades prioritarias de interés público.
 
-Los comités técnicos y los Directores Generales de los fideicomisos públicos se ajustarán, en cuanto a su organización, funcionamiento y atribuciones, a las disposiciones que el presente capítulo establece para los Órganos de Gobierno y para los Directores Generales en cuanto sea compatible a su naturaleza.
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+Los Fideicomisos contarán con un Comité Técnico que será presidido por el Titular de la dependencia coordinadora de sector y contará con un representante de la Secretaría de Finanzas y Planeación, quien tendrá voz y voto. Asimismo, los que lo requieran, se auxiliarán de una estructura administrativa para el cumplimiento de sus objetivos, sujeta a las disposiciones legales aplicables y a los lineamientos que al efecto expidan la Secretaría de Finanzas y Planeación y la Contraloría General.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+###### Artículo 54 Bis.
+
+Los Fideicomisos públicos se ajustarán, en cuanto a su organización, funcionamiento y atribuciones, a las disposiciones que el presente capítulo establece para los Órganos de Gobierno, a las disposiciones normativas que emitan la Secretaría de Finanzas y Planeación y la Contraloría General, así como a los términos previstos en el propio contrato de constitución del fideicomiso.
+
+El cargo de miembro del Comité Técnico será estrictamente personal y sólo podrá desempeñarse por medio de representantes, de conformidad con las disposiciones reglamentarias aplicables a la dependencia o entidad que representen.
 
 ###### Artículo 55.
 
@@ -1429,6 +1443,10 @@ VIII. La determinación de su estructura administrativa.
 
 Las instituciones fiduciarias, a través del delegado fiduciario general, dentro de los seis meses siguientes a la constitución o modificación de los fideicomisos, deberán someter a la consideración de la dependencia encargada de la coordinación del sector al que pertenezcan, los proyectos de estructura administrativa o las modificaciones que se requieran.
 
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+La estructura administrativa de aquellos Fideicomisos que la requieran, deberá ser aprobada conjuntamente por la Secretaría de Finanzas y Planeación y la Contraloría General del Estado, a propuesta de la coordinadora de sector.
+
 ###### Artículo 57.
 
 La institución fiduciaria tendrá las obligaciones siguientes:
@@ -1440,6 +1458,14 @@ II. Informar al fideicomitente y al Comité Técnico acerca de la ejecución de 
 III. Presentar al fideicomitente y al Comité Técnico la información contable requerida para precisar la situación financiera del fideicomiso; y
 
 IV. Cumplir con los demás requerimientos que, de común acuerdo con el fideicomitente y el Comité Técnico, se fijen.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+###### Artículo 57 Bis.
+
+Los fideicomisos deberán proporcionar a la Secretaría de Finanzas y Planeación y a la Contraloría General, la información y datos que se les soliciten, así como la que les requiera su coordinadora de sector.
+
+Para el cumplimiento de lo anteriormente establecido, la Secretaría de Finanzas y Planeación conjuntamente con la coordinadora de sector, y la Contraloría, harán compatibles los requerimientos de información que se demanden a los fideicomisos, racionalizando los flujos de información.
 
 ### CAPÍTULO IV. DE LA TRANSMISIÓN Y CONTINUIDAD DE LOS ASUNTOS DE LA ADMINISTRACIÓN PÚBLICA
 
@@ -1590,3 +1616,13 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 2 DE FEBRERO DE 2004.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 828 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, DEL CÓDIGO FINANCIERO Y DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Los procedimientos de rescisión de contratos de obra pública iniciados en fecha anterior a la entrada en vigor de este decreto deberán sustanciarse y concluirse conforme a las bases que los sustentaron.
+
+Tercero. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
