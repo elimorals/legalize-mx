@@ -4,7 +4,7 @@ identifier: "SIN-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-6495"
 country: "mx"
 rank: "ley"
 publication_date: "1991-07-12"
-last_updated: "1991-07-12"
+last_updated: "1993-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1993.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 12 de julio de 1991.
 
@@ -115,7 +115,7 @@ XVII.- FLORA SILVESTRE: Las especies vegetales terrestres, así como los hongos,
 
 XVIII.- IMPACTO AMBIENTAL: Modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
 
-XIX.- LEY: Ley del Equilibrio Ecológico y, la Protección al Ambiente de Sinaloa;
+XIX.- LEY: Ley del Equilibrio Ecológico y la Protección al Ambiente de Sinaloa;
 
 XX.- LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
@@ -147,11 +147,17 @@ XXXIII.- RESIDUOS SOLIDOS NO PELIGROSOS: Aquellos residuos de origen industrial,
 
 XXXIV.- RESTAURACION: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
-XXXV.- SECRETARIA: A la Secretaría de Planeación y Desarrollo, del Gobierno del Estado;
+(REFORMADA, P.O. 4 DE AGOSTO DE 1993) (F. DE E., 29 DE ABRIL DE 1994)
+
+XXXV.- SECRETARIA: A la Secretaría de Desarrollo Social del Gobierno del Estado.
+
+(ADICIONADA, P.O. 4 DE AGOSTO DE 1993) (F. DE E., 29 DE ABRIL DE 1994)
+
+XXXV Bis.- SEDESOL: A la Dependencia del Ejecutivo Federal denominada Secretaría de Desarrollo Social.
 
 XXXVI.- SISTEMAS DE DRENAJE Y ALCANTARILLADO URBANO O MUNICIPAL: Conjunto de dispositivos o instalaciones que tienen como propósito recolectar y conducir aguas residuales urbanas o municipales, incluyendo las pluviales;
 
-XXXVII.- TRATAMIENTO DE AGUAS RESIDUALES: Proceso a que se somenten (sic ) las aguas residuales con el objeto de disminuir o eliminar los contaminantes que se les hayan incorporado, y
+XXXVII.- TRATAMIENTO DE AGUAS RESIDUALES: Proceso a que se somenten (sic) las aguas residuales con el objeto de disminuir o eliminar los contaminantes que se les hayan incorporado, y
 
 XXXVIII.- VOCACION NATURAL: condiciones que presenta un ecosistema para sostener una o varias actividades sin que produzcan desequilibrios ecológicos.
 
@@ -221,7 +227,9 @@ IX.- Prevenir y controlar la contaminación de la atmósfera, generadas en zonas
 
 X.- Establecer las medidas para hacer efectiva la prohibición de emisiones contaminantes que rebasen los niveles máximos permisibles por ruido, vibraciones, energía térmica, lumínica y olores perjudiciales al equilibrio ecológico o al ambiente, en zonas o por fuentes emisoras de Jurisdicción Estatal;
 
-XI.- Regular y autorizar el aprovechamiento racional de las aguas de jurisdicción del Estado;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+XI.- Regular el aprovechamiento racional y la prevención y el control de la contaminación de las aguas de jurisdicción del Estado.
 
 XII.- Programar el Ordenamiento Ecológico Estatal, en coordinación con los Municipios en los ámbitos de sus respectivas competencias;
 
@@ -239,13 +247,17 @@ XVIII.- Delegar en las autoridades municipales las atribuciones que esta Ley oto
 
 XIX.- Las demás que conforme a esta Ley y otros ordenamientos aplicables le correspondan.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
+
 ###### ARTICULO 6.
 
-Corresponde a los Municipios:
+Corresponde a los municipios de conformidad a lo establecido en el artículo 149 de esta Ley, lo siguiente:
 
 I.- Formular y conducir la Política Municipal de Ecología;
 
-II.- Aplicar en sus respectivas circunscripciones territoriales, esta Ley, las normas técnicas y criterios ecológicos que expida la Federación y vigilar su observancia;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+II.- Aplicar en sus respectivas circunscripciones territoriales, esta Ley, su Reglamento, las normas técnicas y criterios ecológicos que expida la Federación y el Estado, así como vigilar su observancia;
 
 III.- Preservar y restaurar el equilibrio ecológico y la protección al ambiente, en sus respectivas circunscripciones territoriales, salvo cuando se trate de asuntos de competencia expresa y exclusiva del Estado o de la Federación;
 
@@ -275,7 +287,7 @@ XV.- Proteger la imagen de los centros de población, en sus respectivas circuns
 
 XVI.- Concertar con los sectores social y privado, para la realización de acciones en las materias de su competencia conforme a esta Ley;
 
-XVII.- Aplicar las sanciones administrativas por violaciones a la presente Ley y sus Reglamentos, en las materias de su competencia; y
+XVII.- Aplicar las sanciones administrativas por violaciones a la presente Ley y sus Reglamentos, en las materias de su competencia, y
 
 XVIII.- Las demás que conforme a esta Ley les correspondan.
 
@@ -299,11 +311,13 @@ El Ejecutivo Estatal procurará que en los acuerdos de coordinación y/o conveni
 
 ### CAPITULO IV. DEL CONSEJO ESTATAL DE CONSULTORIA ECOLOGICA Y LAS COMISIONES MUNICIPALES DE ECOLOGIA
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
 ###### ARTICULO 10.
 
-Se crea como órgano permanente del Ejecutivo, el Consejo Estatal de Consultoría Ecológica que fungirá además, como un órgano de participación ciudadana y como instancia para promover la concertación con la sociedad.
+Se crea como órgano permanente del Ejecutivo, dependiente de la Secretaría de Desarrollo Social, el Consejo Estatal de Consultoría Ecológica que fungirá además, como órgano de participación ciudadana y como instancia para promover la concertación con la sociedad.
 
-Corresponderá al Consejo Estatal de Consultoría Ecológica identificar las acciones para preservar y restaurar el equilibrio ecológico y la protección al ambiente en la entidad, proponer prioridades y programas para su atención, así como impulsar la participación en estas tareas, de los sectores público, social y privado y de la comunidad en general.
+Corresponderá al Consejo Estatal de Consultoría Ecológica, identificar las acciones y programas que se consideren prioritarias para preservar y restaurar el equilibrio ecológico y la protección al ambiente en la Entidad y proponerlos ante la Secretaría para su evaluación y aprobación en su caso; así como impulsar la participación en estas tareas de los sectores público, social, privado y de la comunidad en general.
 
 ###### ARTICULO 11.
 
@@ -311,23 +325,57 @@ El Consejo Estatal de Consultoría Ecológica, es un organismo descentralizado d
 
 A).- El Gobernador del Estado;
 
-B).- Tres vocales que serán nombrados por el Ejecutivo de la Entidad;
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
-C).- El Secretario de Planeación y Desarrollo;
+B).- Un Director General y tres vocales que serán nombrados por el Ejecutivo del Estado;
 
-D).- Un representante de la Comisión Estatal de Desarrollo de Centros Poblados;
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
-E).- El Delegado de la Secretaría de Agricultura y Recursos Hidráulicos en el Estado;
+C).- El Secretario General de Gobierno;
 
-F).- El Delegado de la Secretaría de la Reforma Agraria;
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
-G).- Un representante de la Universidad Autónoma de Sinaloa, un representante de la Universidad de Occidente, un representante del Instituto Tecnológico de Culiacán, quienes serán nombrados por los rectores o directores, en su caso;
+D).- El Secretario de Desarrollo Social;
 
-H).- Un Director General que será nombrado por el Ejecutivo del Estado;
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
-I).- El Delegado de la Secretaría de Desarrollo Urbano y Ecología; y
+E).- El Secretario de Educación Pública y Cultura;
 
-J).- El Presidente de la Comisión de Ecología del Congreso del Estado.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+F).- El Secretario de Vialidad y Transportes;
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+G).- El Subsecretario de Ecología;
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+H).- Un representante del Consejo Estatal de Desarrollo Urbano y Preservación del Patrimonio Cultural;
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+I).- El Presidente de la Comisión de Ecología del H. Congreso del Estado de Sinaloa;
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+J).- El Delegado de la Sedesol en el Estado de Sinaloa;
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+K).- El Delegado de la Secretaría de Agricultura y Recursos Hidráulicos en el Estado;
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+L).- El Delegado de la Secretaría de la Reforma Agraria;
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+M).- Un representante de la Universidad Autónoma de Sinaloa, un representante de la Universidad de Occidente, un representante del Instituto Tecnológico de Culiacán, quienes serán nombrados por los rectores o directores en su caso;
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+N).- Representantes de la (sic) organizaciones sociales, productivas, instituciones de Educación, clubes de servicio y demás agrupaciones legalmente constituidas que soliciten su participación.
 
 Todos con derecho a voz y voto. Los titulares podrán nombrar un representante.
 
@@ -338,6 +386,10 @@ Los Municipios serán invitados a participar en el Consejo Estatal de Consultor�
 El funcionamiento del Consejo Estatal de Consultoría Ecológica se sujetará al Reglamento Interior que la misma emita en un plazo que no excederá de 90 días contados a partir de su formal instalación, mismo que entrará en vigencia al día siguiente de su publicación, en el periódico oficial del Estado de Sinaloa.
 
 El Consejo Estatal de Consultoría Ecológica, por conducto de su Director General, presentará al Gobernador un informe anual detallado de la situación general en materia de equilibrio ecológico y protección al ambiente en la Entidad.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+El Consejo Estatal de Consultoría Ecológica se reunirá cuantas veces sea convocado por su Presidente o quien supla su ausencia, o cuando exista alguna contingencia ecológica que lo amerite. Cualquiera de los integrantes del Consejo podrán solicitar la reunión del pleno, cuando exista razón fundada que lo amerite.
 
 ###### ARTICULO 12.
 
@@ -475,9 +527,9 @@ El Ordenamiento Ecológico Estatal se llevará a cabo a través de:
 
 I.- El Programa de Ordenamiento Ecológico Estatal;
 
-II.- Los Programas de Ordenamiento Ecológico Regionales;
+II.- Los Programas de ordenamiento Ecológico Regionales;
 
-III.- Los Programas de ordenamiento Ecológico Especiales o prioritarios;
+III.- Los Programas de Ordenamiento Ecológico Especiales o prioritarios;
 
 IV.- Los Programas de Ordenamiento Ecológico Municipales o de los centros de población; y
 
@@ -727,9 +779,11 @@ III.- Otorgarse la autorización de manera condicionada a la modificación del p
 
 La Secretaría vigilará durante la realización y operación de las obras o actividades autorizadas, el cumplimiento de las medidas de mitigación o condicionantes, en los términos de la resolución correspondiente, o los requerimientos que deban observarse.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
 ###### ARTICULO 46.
 
-Los Gobiernos del Estado y de los Municipios, podrán solicitar asistencia técnica al Gobierno Federal para la evaluación de la manifestación de impacto ambiental o en su caso, del estudio de riesgo, tratándose de las obras o actividades de su competencia.
+El Gobierno del Estado y los de los municipios, podrán solicitar asistencia técnica al Gobierno Federal para la evaluación de la manifestación de impacto ambiental o en su caso, del estudio de riesgo, tratándose de las obras o actividades de su competencia.
 
 ###### ARTICULO 47.
 
@@ -751,17 +805,21 @@ La Secretaría con la participación de la Secretaría de Educación y Cultura d
 
 El Gobierno del Estado y los Municipios fomentarán investigaciones científicas y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento racional de los recursos naturales y proteger los ecosistemas, específicamente los de la Entidad para tal efecto, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
+
 ###### ARTICULO 51.
 
-La Secretaría del Trabajo promoverá el desarrollo de la capacitación y adiestramiento en y para el trabajo en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico, con arreglo a lo que establece esta Ley y de conformidad con los sistemas, métodos y procedimientos que prevee la legislación especial.
+La Secretaría General de Gobierno, a través de la Dirección del Trabajo y Previsión Social, promoverá el desarrollo de la capacitación y adiestramiento en y para el trabajo en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico, con arreglo a lo que establece esta Ley y de conformidad con los sistemas, métodos y procedimientos que prevé la legislación especial.
 
 Asimismo, propiciará la incorporación de contenidos ecológicos en los programas de las comisiones mixtas de seguridad e higiene.
 
 #### SECCION VI. DE LA INFORMACION Y VIGILANCIA AMBIENTAL
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
 ###### ARTICULO 52.
 
-El Gobierno del Estado, mantendrá un sistema permanente de información y vigilancia sobre los ecosistemas y su equilibrio en el territorio de la Entidad; para lo cual, podrá coordinar sus acciones con los municipios. Asimismo, establecerá sistemas de evaluación de las acciones que emprenda. Participará, previo acuerdo de coordinación que se establezca en la operación del sistema permanente de la operación y vigilancia que al respecto opere la Federación.
+El Gobierno del Estado, a través de la Secretaría, mantendrá un sistema permanente de información y vigilancia sobre los ecosistemas y su equilibrio en el territorio de la Entidad; para lo cual, podrá coordinar sus acciones con los municipios. Asimismo, establecerá sistemas de evaluación de las acciones que emprenda. Participará, previo acuerdo de coordinación que se establezca en la operación del sistema permanente de vigilancia que al respecto opere la Federación.
 
 ###### ARTICULO 53.
 
@@ -809,15 +867,17 @@ III.- Las que determinen otros ordenamientos locales.
 
 En el establecimiento, administración y desarrollo de las áreas naturales protegidas a que se refiere el artículo anterior, participarán sus habitantes de conformidad con los convenios de concertación que al efecto se celebren, con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección de los ecosistemas.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
 ###### ARTICULO 58.
 
-Los parques son aquellas áreas naturales protegidas de uso público, localizados en los centros de población, para mantener un equilibrio entre las construcciones, equipamientos e instalaciones y los elementos de la naturaleza, de manera que se propicie un ambiente sano, el esparcimiento de la población, la belleza natural, y los valores artísticos, históricos y de significación en la localidad.
+Los parques urbanos son aquellas áreas, de uso público, constituidas por el Gobierno del Estado y los municipios en los centros de población para obtener y preservar el equilibrio en los ecosistemas urbanos, entre las construcciones, equipamientos e instalaciones respectivos y los elementos de la naturaleza, de manera que se propicie un ambiente sano, el esparcimiento de la población y valores artísticos, históricos y de belleza natural que se signifiquen en la localidad.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 59.
 
-Las zonas sujetas a conservación ecológica, son aquellas áreas naturales protegidas localizadas en zonas circunvecinas a los asentamientos humanos, en las que existe uno o mas ecosistemas en buen estado de conservación, destinadas a preservar los elementos naturales indispensables al equilibrio ecológico y al bienestar general.
-
-Las zonas sujetas a conservación ecológica, tendrán la denominación que determine la declaratoria correspondiente. En ningún caso se podrán emplear aquellas denominaciones que se aplican a las categorías de las áreas naturales protegidas reservadas a la Federación.
+Las zonas sujetas a conservación ecológica son aquellas áreas en las que existen uno o más ecosistemas en buen estado de conservación, destinadas a preservar los elementos naturales indispensables al equilibrio ecológico y al bienestar general, no importando la distancia a que se encuentren de un centro de población.
 
 ### CAPITULO II
 
@@ -883,9 +943,11 @@ III.- Realizar actividades cinegéticas o explotación y aprovechamiento de espe
 
 IV.- En general, ejecutar acciones que contravengan lo dispuesto por la declaratoria.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
 ###### ARTICULO 69.
 
-Las áreas naturales protegidas que establezca el Ejecutivo del Estado, podrán comprender, de manera parcial o total, predios sujetos a la condición de inafectables a que se refiere el Artículo 249 de la Ley Federal de la Reforma Agraria, en los casos que ahí se preveen.
+Las áreas naturales protegidas que establezca el Ejecutivo del Estado, podrán comprender, de manera parcial o total, los predios señalados en el artículo 119 de la Ley Agraria.
 
 ###### ARTICULO 70.
 
@@ -993,7 +1055,9 @@ XI.- Tomarán las medidas preventivas necesarias, para evitar contingencias ambi
 
 XII.- Establecerán y operarán, sistemas de monitoreo de la calidad del aire, y mantendrán actualizado el registro de sus resultados, y
 
-XIII.- Elaborarán los informes sobre el estado del medio ambiente en la Entidad o Municipio correspondiente, que proporcionarán a la Secretaría de Desarrollo Urbano y Ecología, en los términos de los acuerdos de coordinación que al efecto se celebren.
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+XIII.- Elaborarán los informes sobre el estado del medio ambiente en la Entidad o Municipio correspondiente, que proporcionarán a la SEDESOL, en los términos de los acuerdos de coordinación que al efecto se celebren.
 
 ###### ARTICULO 82.
 
@@ -1163,9 +1227,11 @@ II.- Interferencia en los procesos de depuración de las aguas, y
 
 III.- Trastornos, impedimentos o alteraciones en los aprovechamientos de las aguas o en el funcionamiento adecuado y en la capacidad de los sistemas hidrológicos, así como de los sistemas de drenaje y alcantarillado de los centros de población.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
 ###### ARTICULO 105.
 
-Todas las descargas de aguas residuales en cuerpos de agua de jurisdicción estatal, o en los sistemas de drenaje y alcantarillado de los centros de población, con excepción de las aguas residuales domésticas, deberán satisfacer las normas técnicas ecológicas que para tal efecto expida el Estado y la Federación, y en su caso, las condiciones particulares de descarga que determine la Secretaría y la Secretaría de Desarrollo Urbano y Ecología en el caso del Artículo 119 fracción I inciso F) de la Ley General o las autoridades municipales.
+Todas las descargas de aguas residuales en cuerpos de agua de jurisdicción estatal, o en los sistemas de drenaje y alcantarillado de los centros de población, con excepción de las aguas residuales domésticas, deberán satisfacer las normas técnicas ecológicas que para tal efecto expida el Estado y la Federación, y en su caso, las condiciones particulares de descarga que determine la Secretaría y la SEDESOL en el caso del artículo 119 fracción I inciso F) de la Ley General o las autoridades municipales.
 
 ###### ARTICULO 106.
 
@@ -1217,13 +1283,17 @@ III.- Las alteraciones en el suelo que modifiquen su aprovechamiento, uso o expl
 
 IV.- Los riesgos y problemas de salud.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
 ###### ARTICULO 112.
 
-Los Municipios autorizarán, con arreglo a las normas técnicas ecológicas que para tal efecto expida la Secretaría y la Secretaría de Desarrollo Urbano y Ecología, el funcionamiento de los sistemas de manejo de los residuos sólidos no peligrosos.
+Los municipios autorizarán, con arreglo a las normas técnicas ecológicas que para tal efecto expida la Secretaría y la SEDESOL, el funcionamiento de los sistemas de manejo de los residuos sólidos no peligrosos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 113.
 
-Los Municipios podrán solicitar a la Secretaría y a la Secretaría de Desarrollo Urbano y Ecología, la asesoría para:
+Los municipios podrán solicitar a la Secretaría y a la SEDESOL, la asesoría para:
 
 I.- La implantación y mejoramiento de sistemas de manejo de residuos sólidos no peligrosos, y
 
@@ -1646,3 +1716,11 @@ Lic. Juan Burgos Pinto
 EL SECRETARIO DE PLANEACION Y DESARROLLO
 
 Lic. José de Jesús Canobbio Lugo
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE AGOSTO DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
