@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-notariado-del-estado-de-yucatan-8247"
 country: "mx"
 rank: "ley"
 publication_date: "1977-07-04"
-last_updated: "1981-06-01"
+last_updated: "1985-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8247&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL NOTARIADO DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE JUNIO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE SEPTIEMBRE DE 1985.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 4 de julio de 1977.
 
@@ -881,11 +881,11 @@ Cuando como resultado de la visita a que se refieren los artículos anteriores, 
 
 ### CAPITULO XIII. De los Escribanos
 
-> <small>(REFORMADO, D.O. 1 DE JUNIO DE 1981)</small>
+(REFORMADO, D.O. 27 DE SEPTIEMBRE DE 1985) (F. DE E., D.O. 15 DE OCTUBRE DE 1985)
 
 ###### Artículo 164.
 
-Los Escribanos serán nombrados por el Ejecutivo del Estado y durarán tres años en el ejercicio de sus funciones. Los nombramientos serán hechos durante el mes de diciembre del año que corresponda para el efecto de que entren en funciones el día primero de enero del año siguiente. Para ser Escribano se requieren los mismos requisitos señalados en las fracciones I, III, IV y V del artículo 12 de esta Ley, exhibir constancia de la autoridad municipal de estar domiciliado en el lugar en que ejercerán y además haber aprobado los estudios secundarios completos. Estos requisitos deberán ser comprobados ante el Ejecutivo del Estado.
+Los escribanos serán nombrados por el Ejecutivo del Estado y durarán tres años en el ejercicio de sus funciones. Los nombramientos serán hechos durante el mes de diciembre del año que corresponda para el efecto de que entren en funciones el día primero de enero del año siguiente. Para ser Escribano se requieren los mismos requisitos señalados en las fracciones I, III, IV y V del artículo 12 de esta Ley, exhibir constancia de la autoridad municipal de estar domiciliado en el lugar en que ejercerán; además haber aprobado los estudios de bachillerato o equivalentes, prefiriéndose a los Abogados y estudiantes de la Facultad de Jurisprudencia y presentar, en todo caso, un examen, previo curso de capacitación que deberá implementar el Director del Archivo Notarial con Sinodales designados por el Ejecutivo del Estado, ante quien se comprobarán todos los requisitos antes señalados.
 
 ###### Artículo 165.
 
@@ -905,7 +905,7 @@ Cuando no se hicieren con la debida oportunidad los nombramientos, los Escribano
 
 ###### Artículo 167.
 
-Los ciudadanos que hubiesen sido designados para desempeñar las funciones públicas a que este capítulo se refiere, deberán fijar en lugar visible del exterior de sus domicilios, una placa con la denominación de "Escribano Público", debiendo retirarla al cesar en sus funciones, así como entregar su sello al Jefe del Archivo Notarial del Estado, si no lo hicieren incurrirán en responsabilidad civil o penal, según el caso.
+Los ciudadanos que hubiesen sido designados para desempeñar las funciones públicas a que este capítulo se refiere, deberán fijar en lugar visible del exterior de sus domicilios, una placa con la denominación de "Escribano Público", debiendo retirarla al cesar en sus funciones., así como entregar su sello al Jefe del Archivo Notarial del Estado, si no lo hicieren incurrirán en responsabilidad civil o penal, según el caso.
 
 ###### Artículo 168.
 
@@ -919,11 +919,11 @@ Los Escribanos Públicos usarán un sello circular, de treinta y cinco milímetr
 
 Del Ejercicio de las Funciones de los Escribanos.
 
-> <small>(REFORMADO, D.O. 1 DE JUNIO DE 1981)</small>
+(REFORMADO, D.O. 27 DE SEPTIEMBRE DE 1985) (F. DE E., D. O. 2 DE OCTUBRE DE 1985)
 
 ###### Artículo 170.
 
-Los Escribanos gozarán de igual fe pública que los Notarios cuando se trate de dar autenticidad a cualesquiera actos o contratos cuya cuantía o interés no exceda de quince mil pesos, o cuando así lo prevengan las leyes. Para los efectos de este artículo, se tomará en cuenta el avalúo bancario en operaciones traslativas de dominio y el avalúo catastral, en cualesquiera otros casos.
+Los Escribanos gozarán de igual fe pública que los Notarios cuando se trate de dar autenticidad a cualesquiera actos o contratos cuya cuantía o interés no exceda de cien mil pesos, o cuando así lo prevengan las leyes. Para los efectos de este artículo se tomará en cuenta el avalúo bancario en operaciones traslativas de dominio y el avalúo catastral, en cualesquiera otros casos.
 
 ###### Artículo 171.
 
@@ -967,11 +967,13 @@ Todos los documentos autentificados por los Escribanos Públicos serán numerado
 
 > <small>(ADICIONADO, D.O. 1 DE JUNIO DE 1981)</small>
 
-De cada uno de los documentos que autoricen el Escribano Público, dentro de los cinco días hábiles siguientes a su otorgamiento y sin perjuicio de lo dispuesto en el artículo 176 de la presente Ley, dará un aviso, por triplicado al Archivo Notarial del Estado que contendrá: el número de la escritura o documento, fecha de la misma, clase de contrato, objeto y nombre de los contratantes. De dicho aviso el Archivo Notarial del Estado devolverá dos copias selladas al Escribano, para que sean acumuladas respectivamente a la escritura o documento original y el ejemplar a que se refiere el artículo 176, antes citado sin cuyo requisito el Registro no lo admitirá, en los casos que conforme a la Ley deban inscribirse.
+De cada uno de los documentos que autorice el Escribano Público, dentro de los cinco días hábiles siguientes a su otorgamiento y sin perjuicio de lo dispuesto en el artículo 176 de la presente Ley, dará un aviso, por triplicado al Archivo Notarial del Estado que contendrá: el número de la escritura o documento, fecha de la misma, clase de contrato, objeto y nombre de los contratantes. De dicho aviso el Archivo Notarial del Estado devolverá dos copias selladas al Escribano, para que sean acumuladas respectivamente a la escritura o documento original y el ejemplar a que se refiere el artículo 176, antes citado sin cuyo requisito el Registro no lo admitirá, en los casos que conforme a la Ley deban inscribirse.
+
+> <small>(REFORMADO, D.O. 27 DE SEPTIEMBRE DE 1985)</small>
 
 ###### Artículo 176.
 
-De cada uno de los documentos que autoricen, reservarán un tanto que debidamente firmado por los interesados y autorizado por el propio Escribano, enviarán dentro de los treinta días hábiles siguientes, al Archivo Notarial.
+De cada uno de los documentos que autoricen, reservarán un tanto que debidamente firmado por los interesados y autorizado por el propio Escribano, enviarán dentro de los treinta días hábiles siguientes, al Archivo Notarial, si no cumpliere con esta obligación será requerido por escrito para que cumpla dentro del plazo de quince días y de no hacerlo se hará acreedor a la multa establecida en la fracción II del artículo 182 de esta Ley y el Director del Archivo Notarial informará al Ejecutivo del Estado para que éste resuelva lo conducente.
 
 ###### Artículo 177.
 
@@ -999,15 +1001,21 @@ Los Notarios y los Escribanos serán responsables de los daños y perjuicios que
 
 La responsabilidad penal o civil en que incurran los Notarios y los Escribanos será exigible ante las autoridades competentes.
 
+> <small>(REFORMADO, D.O. 27 DE SEPTIEMBRE DE 1985)</small>
+
 ###### Artículo 182.
 
 Las infracciones legales que no constituyan delito, serán sancionadas por el Ejecutivo con alguna de las correcciones disciplinarias siguientes, teniendo en cuenta las circunstancias de cada caso:
 
 I.- Apercibimiento.
 
-II.- Multa de cien a mil pesos.
+II.- Multa de Mil a Diez Mil Pesos.
 
 III.- Suspensión en el ejercicio de sus funciones por el término que el Ejecutivo estime conveniente, según la gravedad de la infracción.
+
+> <small>(F. DE E., D.O. 15 DE OCTUBRE DE 1985)</small>
+
+IV.- Cese definitivo para los Escribanos, sin perjuicio de lo dispuesto en el artículo anterior.
 
 ###### Artículo 183.
 
@@ -1056,3 +1064,13 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 ###### ARTICULO SEGUNDO.
 
 Los Escribanos Públicos que entraron en funciones el presente año durarán en su cargo hasta el 31 de diciembre de 1983.
+
+D.O. 27 DE SEPTIEMBRE DE 1985.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Escribanos Públicos que estén desempeñando cumplidamente su cargo, tendrán derecho a recibir el curso de capacitación y presentar el examen a que se refiere el Artículo 164 de esta Ley, aún sin contar con el grado de escolaridad requerido.
