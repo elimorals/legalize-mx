@@ -4,7 +4,7 @@ identifier: "HID-codigo-civil-para-el-estado-de-hidalgo-40095"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-08"
-last_updated: "1983-07-01"
+last_updated: "1983-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO CIVIL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1983.
 
 Código publicado en el Apéndice al Número 38 del Periódico Oficial del Estado de Hidalgo, el 8 de octubre de 1940.
 
@@ -3889,11 +3889,11 @@ De la Emancipación.
 
 El matrimonio del menor produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1983)</small>
+
 ###### Art. 717.
 
-Los mayores de dieciocho años que estén sujetos a patria potestad o a tutela, tienen derecho a que se les emancipe, si demuestran su buena conducta y su aptitud para el manejo de sus intereses.
-
-Los padres o tutores pueden emancipar a sus hijos y pupilos que se encuentren en las condiciones mencionadas en el párrafo anterior, siempre que éstos consientan en su emancipación.
+Los mayores de 16 años que estén sujetos a patria potestad o a tutela, tienen derecho a que se les emancipe, si demuestran su buena conducta y su aptitud para el manejo de sus intereses. Los Padres o tutores pueden emancipar a sus hijos o pupilos, que se encuentren en las condiciones mencionadas en el párrafo anterior, siempre que éstos consistan (sic) en su emancipación.
 
 ###### Art. 718.
 
@@ -15814,5 +15814,9 @@ SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 1 DE JULIO DE 1983.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Periódico Oficial" del Gobierno del Estado.
+
+P.O. 8 DE AGOSTO DE 1983.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Periódico Oficial" del Gobierno del Estado.
