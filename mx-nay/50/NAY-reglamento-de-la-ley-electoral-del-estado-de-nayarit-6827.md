@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-la-ley-electoral-del-estado-de-nayarit-6827"
 country: "mx"
 rank: "reglamento"
 publication_date: "1981-03-14"
-last_updated: "1984-01-25"
+last_updated: "1984-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE LA LEY ELECTORAL DEL ESTADO DE NAYARIT.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 1984.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 1984.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nayarit, el sábado 14 de marzo de 1981.
 
@@ -233,15 +233,25 @@ SECCION A
 
 DEL REGISTRO DE CANDIDATOS.
 
-ART. 43.- Las solicitudes de registro de candidatos a Gobernador del Estado y para Diputados de Representación Proporcional, se presentarán ante la Comisión Electoral del Estado, suscritas por los Titulares de los Organismos Directivos de los Partidos Políticos.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 1984)</small>
 
-ART. 44.- Las solicitudes de registro de candidatos a Diputados de Mayoría Relativa, se presentarán ante los Comités Distritales Electorales, suscritas por los Titulares de los Órganos Directivos de los Partidos Políticos.
+ART. 43.- Las solicitudes de Registro de Candidatos a Gobernador del Estado, Diputados de Minoría y Regidores de Representación Proporcional, se presentarán ante la Comisión Electoral del Estado, suscritas por los titulares de los Organismos Directivos de los Partidos Políticos.
 
-ART. 45.- Las solicitudes de registro de las planillas de Regidores y Síndico, se presentarán ante el Comité Municipal de la Jurisdicción respectiva, suscrita por los Titulares de los Órganos Directivos de los Partidos Políticos.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 1984)</small>
 
-ART. 46.- La Comisión Electoral del Estado, concurre con los Comités Distritales y Municipales Electorales, en la facultad del Registro de los candidatos a Diputados de Mayoría Relativa, Regidores y Síndico que postulen los Partidos Políticos, en el caso de que dichos organismos, nieguen el Registro de candidatos u omitan el acuerdo respectivo.
+ART. 44.- La solicitud de Registro de Candidatos a Diputados de Mayoría se presentarán (sic) ante los Comités Distritales Electorales, suscritas por los titulares de los Organos Directivos de los Partidos Políticos.
 
-ART. 47.- Cuando los Partidos Políticos acudan ante la Comisión Electoral del Estado, para el registro de sus candidatos a Gobernador del Estado y Diputados de Representación Proporcional, éste Organismo, dentro de las veinticuatro horas siguientes a la fecha del registro, lo comunicará por la vía más rápida a los Comités Distritales y Municipales Electorales, anexando los datos contenidos en el registro; y éstos, dentro de igual plazo y forma, comunicarán a la Comisión Electoral del Estado, los datos de los registros de candidatos que hayan efectuado.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 1984)</small>
+
+ART. 45.- Las solicitudes de Registro de las Planillas de Presidente Municipal, Regidores y Síndico, se presentarán ante el Comité Municipal de la Jurisdicción respectiva, suscrita por los titulares de los Organos Directivos de los Partidos Políticos.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 1984)</small>
+
+ART. 46.- La Comisión Electoral del Estado, concurre con los Comités Distritales y Municipales Electorales en la Facultad del registro de los Candidatos a Diputados de mayoría, Presidente Municipal, Regidores; y Sindico que postulen los Partidos Políticos, en el caso de que dichos organismos, nieguen el Registro de Candidatos u omitan el acuerdo respectivo.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 1984)</small>
+
+ART. 47.- Cuando los Partidos Políticos acudan ante la Comisión Electoral del Estado para el Registro de sus Candidatos a Gobernador del Estado, Diputados de Minoría y Regidores de Representación Proporcional, este Organismo, dentro de las veinticuatro horas siguientes a la fecha del registro lo comunicará por la vía más rapida a los Comités Distritales y Municipales Electorales, anexando los datos contenidos en el Registro; y estos, dentro de igual plazo y forma, comunicarán a la Comisión Electoral del Estado, los datos de los Registros de Candidatos que hayan efectuado.
 
 SECCION B.
 
@@ -339,9 +349,9 @@ En la sesión de cómputo, si al abrirse un paquete apareciere escrito de protes
 
 III QUEJA.
 
-ART. 62.- El recurso de queja procede contra los resultados consignados en el acta de cómputo Municipal y Distrital de la elección de Regidores y Síndico y Diputados electos por Mayoría Relativa y las constancias de mayoría expedidas por los propios Comités y tiene por objeto hacer valer las causales de nulidad consignadas en el artículo 177 de la Ley.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 1984)</small>
 
-También procede contra los resultados de las actas de cómputo distrital, de la elección de diputados por representación proporcional.
+ART. 62.- El recurso de queja procede contra los resultados consignados en el Acta de Cómputo Municipal y Distrital de la Elección de Presidente Municipal, Regidores y Síndico y Diputados electos por Mayoría y las constancias de Mayoría expedidas por los propios Comités; y tiene por objeto hacer valer las causales de nulidad consignadas en el artículo 177 de la Ley.
 
 ART. 63.- Cuando el recurso de queja se interponga al final de la sesión de cómputo municipal, el secretario del Comité anexará el original del escrito al paquete electoral, devolverá al interesado su copia sellada y firmada y remitirá una copia a la Comisión Electoral del Estado, así corno al Comité Distrital respectivo.
 
@@ -422,3 +432,7 @@ P.O. 25 DE ENERO DE 1984.
 ###### ARTICULO UNICO.
 
 El presente reglamento iniciará su vigencia el día siguiente de su publicación en el periódico Oficial, organo del Gobierno del Estado.
+
+P.O. 17 DE MARZO DE 1984.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NAYARIT.
