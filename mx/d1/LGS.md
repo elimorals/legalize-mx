@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2004-06-02"
+last_updated: "2004-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE NOVIEMBRE DE 2004.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -758,11 +758,11 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPITULO V. Atención Materno-Infantil
 
+### CAPITULO VII. Salud Mental
+
 ### CAPITULO VI. Servicios de Planificación Familiar
 
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
-
-### CAPITULO VII. Salud Mental
 
 ###### ARTICULO 61.
 
@@ -816,7 +816,7 @@ En materia de higiene escolar, corresponde a las autoridades sanitarias establec
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias y educativas competentes.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -888,6 +888,8 @@ La Secretaría de Salud coordinará las actividades de las dependencias y entida
 
 La Secretaría de Salud prestará, a través del Consejo Nacional de Población, el asesoramiento que para la elaboración de programas educativos en materia de planificación familiar y educación sexual le requiera el sistema educativo nacional.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+
 ### CAPITULO II. De los Beneficios de la Protección Social en Salud
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
@@ -948,7 +950,7 @@ Con la finalidad de fortalecer el mantenimiento y desarrollo de infraestructura 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
+### CAPITULO I. Disposiciones Generales
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1027,8 +1029,6 @@ A estos efectos, se establecerá la coordinación necesaria entre las autoridade
 Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
 
 A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
-
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ## TITULO TERCERO BIS. De la Protección Social en Salud
 
@@ -1258,7 +1258,7 @@ Con el objeto de favorecer el uso responsable de los servicios de salud, el Cons
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
+### CAPITULO X. Causas de Suspensión y Cancelación al Sistema de Protección Social en Salud
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1276,7 +1276,7 @@ No se considerarán elegibles para la participación en los recursos del fondo q
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO X. Causas de Suspensión y Cancelación al Sistema de Protección Social en Salud
+### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1408,8 +1408,6 @@ X. Hacer uso responsable de los servicios de salud, y
 
 XI. Proporcionar de manera fidedigna la información necesaria para documentar su incorporación al Sistema de Protección Social en Salud y para la definición del monto a pagar por concepto de cuota familiar.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
-
 ### CAPITULO III. Formación, Capacitación y Actualización del Personal
 
 ###### ARTICULO 77 Bis 39.
@@ -1441,6 +1439,8 @@ En la aplicación de este artículo la Secretaría de Salud tomará como base la
 ###### ARTICULO 77 Bis 41.
 
 En los casos en que se materialicen los supuestos a que se refiere este Capítulo, los interesados conservarán los beneficios del Sistema de Protección Social en Salud hasta por un plazo de sesenta días naturales a partir de la fecha de la suspensión o cancelación. Habiendo transcurrido este plazo, podrán acceder a los servicios de salud disponibles en los términos y condiciones que establece esta Ley.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO UNICO
 
@@ -4382,6 +4382,10 @@ Sólo en caso de que la pérdida de la vida del donante esté relacionada con la
 
 El Centro Nacional de Trasplantes hará constar el mérito y altruismo del donador y de su familia, mediante la expedición del testimonio correspondiente que los reconozca como benefactores de la sociedad.
 
+> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2004)</small>
+
+De igual forma el Centro Nacional de Trasplantes se encargará de expedir el documento oficial mediante el cual se manifieste el consentimiento expreso de todas aquellas personas cuya voluntad sea donar sus órganos, después de su muerte para que éstos sean utilizados en trasplantes.
+
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ### CAPITULO V. Prescripción
@@ -4430,7 +4434,15 @@ IV. Recibir información completa sobre los riesgos de la operación y las conse
 
 V. Haber otorgado su consentimiento en forma expresa, en términos del artículo 322 de esta Ley, y
 
-VI. Tener parentesco por consanguinidad, por afinidad o civil o ser cónyuge, concubina o concubinario del receptor. Cuando se trate del trasplante de médula ósea no será necesario este requisito.
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2004)</small>
+
+VI.- Los trasplantes se realizarán, de preferencia, entre personas que tengan parentesco por consanguinidad, civil o de afinidad. Sin embargo, cuando no exista un donador relacionado por algún tipo de parentesco, será posible realizar una donación, siempre y cuando se cumpla con los siguientes requisitos:
+
+a) Obtener resolución favorable del Comité de Trasplantes de la institución hospitalaria, donde se vaya a realizar el trasplante, previa evaluación médica, clínica y psicológica;
+
+b) El interesado en donar deberá otorgar su consentimiento expreso ante Notario Público y en ejercicio del derecho que le concede la presente Ley, manifestando que ha recibido información completa sobre el procedimiento por médicos autorizados, así como precisar que el consentimiento es altruista, libre, consciente y sin que medie remuneración alguna. El consentimiento del donante para los trasplantes entre vivos podrá ser revocable en cualquier momento previo al trasplante, y
+
+c) Haber cumplido todos los requisitos legales y procedimientos establecidos por la Secretaría, para comprobar que no se está lucrando con esta práctica.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -5594,19 +5606,19 @@ Al que saque o pretenda sacar del territorio nacional derivados de la sangre hum
 
 Si el responsable es un profesional, técnico o auxiliar de las disciplinas para la salud, a la pena anterior se añadirá suspensión en el ejercicio de su profesión u oficio hasta por cuatro años.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 461.
 
-Al que saque o pretenda sacar del territorio nacional, órganos, tejidos y sus componentes de seres humanos vivos o cadáveres, sin permiso de la Secretaría de Salud, se le impondrá prisión de uno a ocho años y multa por el equivalente de diez a ciento veinticinco días de salario mínimo general vigente en la zona económica de que se trate.
+Al que saque o pretenda sacar del territorio nacional, órganos, tejidos y sus componentes de seres humanos vivos o de cadáveres, sin permiso de la Secretaría de Salud, se le impondrá prisión de cuatro a quince años y multa por el equivalente de trescientos a setecientos días de salario mínimo general vigente en la zona económica de que se trate.
 
-Si el responsable fuere un profesional, técnico o auxiliar de las disciplinas para la salud, a la pena anterior se añadirá suspensión en el ejercicio de su profesión u oficio hasta por cuatro años.
+Si el responsable es un profesional, técnico o auxiliar de las disciplinas para la salud, a la pena anterior se añadirá suspensión en el ejercicio de su profesión u oficio hasta por siete años.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 462.
 
-Se impondrán de cuatro a diez años de prisión y multa por el equivalente de cuatro mil a diez mil días de salario mínimo general vigente en la zona económica de que se trate:
+Se impondrán de seis a diecisiete años de prisión y multa por el equivalente de ocho mil a diecisiete mil días de salario mínimo general vigente en la zona económica de que se trate:
 
 > <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
@@ -5620,23 +5632,17 @@ II.- Al que comercie o realice actos de simulación jurídica que tengan por obj
 
 III.- Al que trasplante un órgano o tejido sin atender las preferencias y el orden establecido en las listas de espera a que se refiere el artículo 336 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2004)</small>
 
-Si intervinieran profesionales, técnicos o auxiliares de las disciplinas para la salud, se les aplicará, además suspensión de uno a tres años en el ejercicio profesional, técnico o auxiliar y hasta cinco años más, en caso de reincidencia.
+En el caso de la fracción III, se aplicarán al responsable, además de otras penas, de cinco a diez años de prisión. Si intervinieran profesionales, técnicos o auxiliares de las disciplinas para la salud, se les aplicará, además suspensión de cinco a ocho años en el ejercicio profesional, técnico o auxiliar y hasta seis años más, en caso de reincidencia.
 
-> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
-
-ARTICULO 462 bis.- Al responsable o empleado de un establecimiento donde ocurra un deceso o de locales destinados al depósito de cadáveres, que permita alguno de los actos a que se refieren las fracciones I, II y III del artículo anterior o no procure impedirlos por los medios lícitos que tenga a su alcance, se le impondrá de tres a ocho años de prisión y multa por el equivalente de cuatro mil a diez mil días de salario mínimo general vigente en la zona económica de que se trate.
-
-> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-Si intervinieran profesionales, técnicos o auxiliares de las disciplinas para la salud, se les aplicará, además, suspensión de uno a tres años en el ejercicio profesional, técnico o auxiliar y hasta cinco años más en caso de reincidencia.
+> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 462 Bis.
 
-Al responsable o empleado de un establecimiento donde ocurra un deceso o de locales destinados al depósito de cadáveres, que permita alguno de los actos a que se refieren las fracciones I y II del artículo anterior o no procure impedirlos por los medios lícitos que tenga a su alcance, se le impondrá de tres a ocho años de prisión y multa por el equivalente de veinte a ciento cincuenta días de salario mínimo general vigente en la zona económica de que se trate.
+Al responsable o empleado de un establecimiento donde ocurra un deceso o de locales destinados al depósito de cadáveres, que permita alguno de los actos a que se refieren las fracciones I, II y III del artículo anterior o no procure impedirlos por los medios lícitos que tenga a su alcance, se le impondrá de cuatro a nueve años de prisión y multa por el equivalente de cinco mil a doce mil días de salario mínimo general vigente en la zona económica de que se trate.
 
-Si intervinieran profesionales, técnicos o auxiliares de las disciplinas para la salud, se les aplicará, además, suspensión de uno a tres años en el ejercicio profesional, técnico o auxiliar y hasta cinco años más en caso de reincidencia.
+Si intervinieran profesionales, técnicos o auxiliares de las disciplinas para la salud, se les aplicará, además, suspensión de dos a cuatro años en el ejercicio profesional, técnico o auxiliar y hasta cinco años más en caso de reincidencia.
 
 ###### ARTICULO 463.
 
@@ -5895,3 +5901,9 @@ Segundo.- Las disposiciones reglamentarias contrarias a este Decreto quedarán s
 D.O.F. 2 DE JUNIO DE 2004.
 
 UNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE NOVIEMBRE DE 2004.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, sólo en cuanto a los Artículos 333, 461, 462 y 462 Bis de la Ley General de Salud.
+
+Segundo. A los treinta días de su publicación en cuanto al Artículo 329 de la Ley General de Salud, el Centro Nacional de Trasplantes deberá presentar a la Secretaría de Salud la propuesta del documento mediante el cual se manifestará el consentimiento expreso de todas aquellas personas cuya voluntad sea donar sus órganos después de su muerte para que éstos sean utilizados en trasplantes.
