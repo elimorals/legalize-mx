@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1975-12-27"
+last_updated: "1976-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1976.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -107,7 +107,9 @@ Son causantes especiales, sin importar el monto de su ingreso, quienes exploten,
 
 I.- Cabarets, centros nocturnos, lugares públicos de reunión con o sin variedad artística, donde se expenden bebidas alcohólicas al copeo.
 
-II.- Bares, cantinas, loncherías y taquerías con venta de cerveza, que no reúnan las características de los establecimientos señalados en las fracciones XXVIII Y XXIX del Artículo 18 de la Ley Federal de Impuestos sobre Ingresos Mercantiles.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1976)</small>
+
+II.- Bares, cantinas, loncherías y taquerías, que reúnan las características de los establecimientos señalados en las fracciones XXVIII Y XXIX del Artículo 18 de la Ley Federal de Impuestos Sobre Ingresos Mercantiles.
 
 III.- Sinfonolas, radiolas, tocadiscos, y en general aparatos electromecánicos reproductores o transmisores de sonido, imágenes, efectos o juegos.
 
@@ -213,7 +215,9 @@ En el caso de iniciación de operaciones, el impuesto será fijado con base en u
 
 TASA ESPECIALES.- Los causantes especiales pagarán el impuesto en la forma siguiente.
 
-a) Los comprendidos en la Fracción (1) pagarán de $ 2,000.00 a $ 10,000.00 mensuales.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1976)</small>
+
+a) Los comprendidos en la Fracción (I) pagarán mensualmente el 1% sobre el monto total de los ingresos que perciban por la enajenación de bebidas alcohólicas.
 
 b) Los comprendidos en la Fracción (II) pagarán una cuota mensual de $ 100.00 A $ 5,000.00.
 
@@ -257,7 +261,9 @@ Cuando en las mismas instalaciones se tengan en explotación conjunta aves produ
 
 g) Los comprendidos en la Fracción VII liquidarán bimestralmente la cantidad de $0.50 por cada pollo que se tenga en engorda en las referidas granjas o fincas avícolas. Dichos pagos se harán por bimestres anticipados los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre, de cada año.
 
-Para fijar las cuotas anteriores, el Tesorero Municipal tomará en consideración, el capital invertido en los negocios, el volumen de las operaciones, el sector en que se encuentren ubicados y su categoría.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
+
+Para fijar las cuotas señaladas en los incisos b), c), d), y e), el Tesorero Municipal tomará en consideración el capital invertido en los negocios, el volúmen de sus operaciones, el sector en que se encuentren ubicados y su categoría.
 
 ###### ARTICULO 18.
 
@@ -1116,3 +1122,13 @@ P.O. 27 DE DICIEMBRE DE 1975.
 ###### ARTICULO SEGUNDO
 
 - Se derogan las disposiciones que se opongan al fiel y exacto cumplimiento de esta Ley.
+
+P.O. 29 DE DICIEMBRE DE 1976.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor el día 1o. de Enero de 1977.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al fiel y exacto cumplimiento de esta Ley.
