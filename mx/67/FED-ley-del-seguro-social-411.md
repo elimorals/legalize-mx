@@ -4,7 +4,7 @@ identifier: "FED-ley-del-seguro-social-411"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-12"
-last_updated: "1992-06-29"
+last_updated: "1993-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JULIO DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 12 de marzo de 1973.
 
@@ -79,6 +79,10 @@ Con fundamento en la solidaridad social, el régimen del Seguro Social, además 
 ###### ARTICULO 9o.
 
 Los asegurados y sus beneficiarios, para recibir o, en su caso, seguir disfrutando de las prestaciones que esta Ley otorga, deberán cumplir con los requisitos establecidos en la misma o en sus reglamentos.
+
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 1993)</small>
+
+ARTICULO 9o bis.- Las disposiciones fiscales de esta Ley que establecen cargas a los particulares y las que señalan excepciones a las mismas, así como las que fijan las infracciones y sanciones, son de aplicación estricta. Se considera que establecen carga las normas que se refieran a sujeto, objeto, base de cotización y tasa.
 
 > <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
@@ -188,7 +192,9 @@ I.- Registrarse e inscribir a sus trabajadores en el Instituto Mexicano del Segu
 
 II.- Llevar registros, tales como nóminas y listas de raya en las que se asiente invariablemente el número de días trabajados y los salarios percibidos por sus trabajadores, además de otros datos que exija la presente Ley y sus reglamentos. Es obligatorio conservar estos registros durante los cinco años siguientes al de su fecha;
 
-III.- Enterar al Instituto Mexicano del Seguro Social el importe de las cuotas obreropatronales;
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1993)</small>
+
+III.- Determinar las cuotas obrero patronales a su cargo y enterar su importe al Instituto Mexicano del Seguro Social;
 
 IV.- Proporcionar al Instituto los elementos necesarios para precisar la existencia, naturaleza y cuantía de las obligaciones a su cargo establecidas por esta Ley, decretos y reglamentos respectivos;
 
@@ -205,6 +211,16 @@ VI.- Cumplir con las demás disposiciones de esta Ley y sus reglamentos.
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
 
 Las disposiciones contenidas en las fracciones I, II, III, y V bis, no son aplicables en los casos de construcción, ampliación o reparación de casas habitación, cuando los trabajos se realicen en forma personal por el propietario, o bien, por cooperación comunitaria, debiéndose comprobar este hecho a satisfacción del Instituto.
+
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 1993)</small>
+
+Cuando el patrón lleve su contabilidad mediante el sistema de registro electrónico, la información a que se refieren las fracciones I y II, podrá proporcionarse en dispositivos magnéticos procesados en los términos que señale el Instituto.
+
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 1993)</small>
+
+ARTICULO 19 A.- Los patrones de trescientos trabajadores o más, que en los términos del Código Fiscal de la Federación estén obligados a dictaminar por contador público autorizado sus estados financieros, para efectos del Seguro Social deberán presentar al Instituto copia con firma autógrafa del informe sobre la situación fiscal del contribuyente, con los anexos referentes a las contribuciones por concepto de cuotas obrero patronales de conformidad con lo dispuesto en el Reglamento del referido Código Fiscal.
+
+Cualquier otro patrón podrá optar por dictaminar por contador público autorizado sus aportaciones al Instituto Mexicano del Seguro Social en términos del reglamento respectivo.
 
 ###### ARTICULO 20.
 
@@ -268,29 +284,39 @@ Las disposiciones de esta Ley, que se refieren a los patrones y a los trabajador
 
 ### CAPITULO I (SIC). De las Bases de Cotización y de las Cuotas
 
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 32.
 
-Para los efectos de esta Ley el salario base de cotización se integra con los pagos hechos en efectivo por cuota diaria, y las gratificaciones, percepciones, alimentación, habitación, primas, comisiones, prestaciones en especie y cualquier otra cantidad o prestación que se entregue al trabajador por sus servicios; no se tomarán en cuenta, dada su naturaleza, los siguientes conceptos:
+Para los efectos de esta Ley, el salario base de cotización se integra con los pagos hechos, en efectivo por cuota diaria, y las gratificaciones, percepciones, alimentación, habitación, primas, comisiones, prestaciones en especie y cualquier otra cantidad o prestación que se entregue al trabajador por sus servicios.
 
-a) Los instrumentos de trabajo, tales como herramientas, ropa y otros similares;
+No se tomarán en cuenta para la integración del salario base de cotización, dada su naturaleza, los siguientes conceptos:
 
-b) El ahorro cuando se integre por un depósito de cantidad semanaria o mensual igual del trabajador y de la empresa; y las cantidades otorgadas por el patrón para fines sociales o sindicales;
+l.- Los instrumentos de trabajo tales como herramientas, ropa y otros similares;
 
-c) Las aportaciones al Instituto del Fondo Nacional de la Vivienda para los Trabajadores y las participaciones en las utilidades de las empresas;
+II.- El ahorro, cuando se integre por un depósito de cantidad semanaria, quincenal o mensual igual del trabajador y de la empresa; sí se constituye en forma diversa o puede el trabajador retirarlo más de dos veces al año, integrará salario, tampoco se tomarán en cuenta las cantidades otorgadas por el patrón para fines sociales de carácter sindical;
 
-d) La alimentación y la habitación cuando no se proporcionen gratuitamente al trabajador, así como las despensas;
+III.- Las aportaciones adiciónales que el patrón convenga otorgar a favor de sus trabajadores por concepto de cuotas del seguro de retiro;
 
-e) Los premios por asistencia; y
+IV.- Las aportaciones al Instituto del Fondo Nacional de la Vivienda para los Trabajadores y las participaciones en las utilidades de la empresa;
 
-f) Los pagos por tiempo extraordinario, salvo cuando este tipo de servicios esté pactado en forma de tiempo fijo.
+V.- La alimentación y la habitación cuando se entreguen en forma onerosa a trabajadores; se entiende que son onerosas estas prestaciones cuando representen cada una de ellas, como mínimo, el 20% del salario mínimo general diario que rija en el Distrito Federal;
 
-> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+VI.- Las despensas en especie o en dinero siempre y cuando su importe no rebase el 40% del salario mínimo general diario vigente en el Distrito Federal;
+
+VII.- Los premios por asistencia y puntualidad, siempre que el importe de cada uno de estos conceptos no rebase al 10% del salario base de cotización;
+
+VIII.- Las cantidades aportadas para fines sociales, considerándose como tales las entregadas para constituir fondos de algún plan de pensiones establecido por el patrón o derivado de contratación colectiva. Los planes de pensiones serán sólo los que reúnan los requisitos que establezca la Secretaría de Hacienda y Crédito Público.
+
+Para que los conceptos mencionados en este precepto se excluyan como integrantes del salario base de cotización, deberán estar debidamente registrados en la contabilidad del patrón.
+
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 33.
 
-Los asegurados se inscribirán con el salario base de cotización que perciban en el momento de su afiliación, estableciéndose como límite superior el equivalente a diez veces el salario mínimo general que rija en el Distrito Federal, excepto para el ramo de retiro, y como límite inferior el salario mínimo regional respectivo, salvo lo dispuesto en la fracción III del artículo 35.
+Los asegurados se inscribirán con el salario base de cotización que perciban en el momento de su afiliación, estableciéndose como límite superior el equivalente a veinticinco veces el salario mínimo general que rija en el Distrito Federal y como límite inferior el salario mínimo general del área geográfica respectiva, salvo lo dispuesto en la fracción III del Artículo 35.
 
-Tratándose del seguro de retiro, el límite superior será el equivalente a veinticinco veces el salario mínimo general que rija en el Distrito Federal.
+Tratándose de seguros de invalidez, vejez, cesantía en edad avanzada y muerte, el límite superior será el equivalente a 10 veces el salario mínimo general vigente en el Distrito Federal.
 
 ###### ARTICULO 34.
 
@@ -334,9 +360,9 @@ II.- En los casos de las fracciones II y III del artículo 36, se seguirán las 
 
 III.- En el caso de ausencias de trabajadores comprendidos en la fracción III del artículo 35, cualquiera que sea la naturaleza del salario que perciban, el reglamento determinará lo procedente conforme al criterio sustentado en las bases anteriores; y
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE 1974)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1993)</small>
 
-IV.- Tratándose de ausencias amparadas por incapacidades médicas expedidas por el Instituto no se cubrirán en ningún caso las cuotas obrero patronales y dichos períodos se considerarán como cotizados para todos los efectos legales en favor del trabajador.
+IV.- Tratándose de ausencias amparadas por incapacidades médicas expedidas por el Instituto, no será obligatorio cubrir las cuotas obrero patronales excepto por lo que se refiere al seguro de retiro y dichos periodos se considerarán como cotizados para todos los efectos legales en favor del trabajador.
 
 ###### ARTICULO 38.
 
@@ -380,37 +406,41 @@ Corresponde al patrón pagar íntegramente la cuota señalada para los trabajado
 
 En tanto el patrón no presente al Instituto el aviso de baja del trabajador, subsistirá su obligación de cubrir las cuotas obreropatronales respectivas; sin embargo, si se comprueba que dicho trabajador fue inscrito por otro patrón, el Instituto devolverá al patrón omiso, a su solicitud, el importe de las cuotas obreropatronales pagadas en exceso.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 44.
 
-El patrón al efectuar el pago de salarios a sus trabajadores, podrá retener las cuotas que a éstos les corresponde cubrir.
+El patrón al efectuar el pago de salarios a sus trabajadores, deberá retener las cuotas que a éstos les corresponde cubrir.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
 
 Cuando no lo haga en tiempo oportuno, sólo podrá descontar al trabajador cuatro cotizaciones semanales acumuladas, quedando las restantes a su cargo.
 
-El patrón tendrá el carácter de retenedor de las cuotas que descuente a sus trabajadores y deberá enterarlas al Instituto en los términos señalados por esta Ley y sus reglamentos.
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+El patrón tendrá el carácter de retenedor de las cuotas que descuente a sus trabajadores y deberá determinar y enterar el (sic) Instituto las cuotas obrero patronales, en los términos señalados por esta Ley y sus Reglamentos.
+
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 45.
 
-El pago de las cuotas obrero patronales será por bimestres vencidos, a más tardar el día diecisiete de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año.
+El pago de las cuotas obrero patronales será por bimestres vencidos, a más tardar el día quince de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año.
 
-> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+En el ramo del seguro de retiro se cubrirán los días diecisiete de los meses antes indicados.
 
-Los patrones y demás sujetos obligados, efectuarán enteros provisionales a cuenta de las cuotas bimestrales a más tardar el día diecisiete de cada uno de los meses de febrero, abril, junio, agosto, octubre y diciembre de cada año. El entero provisional de que se trate, será equivalente al cincuenta por ciento del monto de las cuotas obrero patronales correspondientes al bimestre inmediato anterior. Respecto de las cuotas relativas al seguro de retiro no se tendrán que efectuar enteros provisionales.
+Los patrones y demás sujetos obligados, efectuarán enteros provisionales a cuenta de las cuotas bimestrales a más tardar el día quince de cada uno de los meses de febrero, abril, junio, agosto, octubre y diciembre de cada año. El entero provisional de que se trate, será el equivalente al cincuenta por ciento del monto de las cuotas obrero patronales correspondiente al bimestre inmediato anterior. Respecto de las cuotas relativas al seguro de retiro no se tendrán que efectuar enteros provisionales.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+Tratándose de iniciación de actividades, la obligación de efectuar el entero de pagos provisionales se diferirá al bimestre siguiente a aquél dentro del cual se haya dado dicho supuesto. Los capitales constitutivos tienen el carácter de definitivos al momento de notificarse y deben pagarse al Instituto, en un término no mayor de quince días, contados a partir de aquél en que se haga la notificación de los mismos.
 
-Tratándose de iniciación de actividades, la obligación de efectuar el entero de pagos provisionales se diferirá al bimestre siguiente a aquél dentro del cual se haya dado dicho supuesto. Los capitales constitutivos deberán pagarse al Instituto en un término no mayor de quince días contados a partir de aquel día en que se haya hecho la notificación del monto de los mismos.
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 46.
 
-Cuando no se enteren las cuotas, los enteros provisionales o los capitales constitutivos dentro del plazo señalado en las disposiciones respectivas, el patrón cubrirá a partir de la fecha en que los créditos se hicieren exigibles, los recargos moratorios correspondientes en los términos del Código Fiscal de la Federación, sin perjuicio de las sanciones que procedan.
+Cuando no se enteren las cuotas, los enteros provisionales o los capitales constitutivos dentro del plazo señalado en las disposiciones respectivas, el patrón cubrirá a partir de la fecha en que los créditos se hicieren exigibles, la actualización y los recargos correspondientes en los términos del Código Fiscal de la Federación, sin perjuicio de las sanciones que procedan.
 
-El Instituto podrá conceder prórroga para el pago de los créditos derivados de cuotas o de capitales constitutivos. Durante los plazos concedidos se causarán recargos conforme a lo establecido para este supuesto en el propio Código Fiscal de la Federación.
+En el caso de que el patrón o sujeto obligado no cubra oportunamente el importe de las cuotas obrero patronales o lo haga en forma incorrecta, el Instituto podrá determinarlas y fijarlas en cantidad liquida, con base en los datos con que cuente o con apoyo en los hechos que conozca con motivo del ejercicio de las facultades de comprobación de que goza como autoridad fiscal, o bien a través de los expedientes o documentos proporcionados por otras autoridades fiscales.
+
+El Instituto a solicitud de los patrones podrá conceder prórroga para el pago de los créditos derivados de cuotas, actualización, capitales constitutivos y recargos. Durante el plazo concedido se causarán recargos sobre el saldo insoluto actualizado en los términos que establece el Código Fiscal de la Federación. Esta prórroga no será aplicable para el seguro de retiro.
 
 ###### ARTICULO 47.
 
@@ -538,49 +568,21 @@ Las prestaciones a que se refiere el artículo anterior se concederán de confor
 
 El asegurado que sufra un riesgo de trabajo tiene derecho a las siguientes prestaciones en dinero:
 
-I.- Si lo incapacita para trabajar recibirá mientras dure la inhabilitación, el cien por ciento de su salario, sin que pueda exceder del máximo del grupo en el que estuviese inscrito. Los asegurados del grupo "W" recibirán un subsidio igual al salario en que coticen.
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1993)</small>
 
-El goce de este subsidio se otorgará al asegurado entre tanto no se declare que se encuentra capacitado para trabajar o bien se declare la incapacidad permanente parcial o total, en los términos del reglamento respectivo;
+I.- Si lo incapacita para trabajar recibirá mientras dure la inhabilitación, el cien por ciento del salario en que estuviese cotizando en el momento de ocurrir el riesgo.
 
-II.- Al ser declarada la incapacidad permanente total del asegurado, éste recibirá una pensión mensual de acuerdo con la siguiente tabla:
+El goce de este subsidio se otorgará al asegurado entretanto no se declare que se encuentra capacitado para trabajar, o bien se declare la incapacidad permanente parcial o total, lo cual deberá realizarse dentro del término de cincuenta y dos semanas que dure la atención médica como consecuencia del accidente, sin perjuicio de que una vez determinada la incapacidad que corresponda, continúe su atención o rehabilitación conforme a lo dispuesto por el artículo 68 de la presente Ley. De no determinarse la incapacidad parcial o total continuará recibiendo el subsidio;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1993)</small>
 
-Salario
+II.- Al ser declarada la incapacidad permanente total del asegurado, éste recibirá una pensión mensual equivalente al setenta por ciento del salario en que estuviere cotizando. En el caso de enfermedades de trabajo se tomar el promedio de las cincuenta y dos últimas semanas de cotización, o las que tuviere si su aseguramiento fuese por un tiempo menor;
 
-Diario Pensión
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1993)</small>
 
-Grupo Más de Promedio Hasta Mensual
+III.- Si la incapacidad declarada es permanente parcial, el asegurado recibirá una pensión calculada conforme a la tabla de valuación de incapacidad contenida en la Ley Federal del Trabajo, tomando como base el monto de la pensión que correspondería a la incapacidad permanente total. El tanto por ciento de la incapacidad se fijaré entre el máximo y el mínimo establecidos en dicha tabla teniendo en cuenta la edad del trabajador, la importancia de la incapacidad, si ésta es absoluta para el ejercicio de su profesión aun cuando quede habilitado para dedicarse a otra, o que simplemente hayan disminuido sus aptitudes para el desempeño de la misma o para ejercer actividades remuneradas semejantes a su profesión u oficio.
 
-M $-.- $45.00 $50.00 $1 080.00
-
-N 50.00 60.00 70.00 1 440.00
-
-O 70.00 75.00 80.00 1 800.00
-
-P 80.00 90.00 100.00 2 025.00
-
-R 100.00 115.00 130.00 2 587.50
-
-S 130.00 150.00 170.00 3 375.00
-
-T 170.00 195.00 220.00 4 095.00
-
-U 220.00 250.00 280.00 5 250.00
-
-W 280.00 -.- -.- -.-
-
-Los trabajadores inscritos en el grupo "W" tendrán derecho a recibir una pensión mensual equivalente al setenta por ciento del salario en que estuvieren cotizando. En el caso de enfermedades de trabajo se tomará el promedio de las cincuenta y dos últimas semanas de cotización, o las que tuviere si su aseguramiento fuese por un tiempo menor.
-
-Los trabajadores incorporados al sistema de porcentaje sobre el salario conforme al artículo 47 de esta Ley, percibirán pensión equivalente, en los siguientes términos:
-
-El ochenta por ciento del salario cuando éste sea hasta de $80.00 diarios, el setenta y cinco por ciento cuando alcance hasta $170.00 diarios y el setenta por ciento para salarios superiores a esta última cantidad;
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
-
-III.- Sí la incapacidad declarada es permanente parcial, el asegurado recibirá una pensión calculada conforme a la tabla de valuación de incapacidad contenida en la Ley Federal del Trabajo, tomando como base el monto de la pensión que correspondería a la incapacidad permanente total. El tanto por ciento de la incapacidad se fijará entre el máximo y el mínimo establecidos en dicha tabla; teniendo en cuenta la edad del trabajador, la importancia de la incapacidad, si ésta es absoluta para el ejercicio de su profesión aun cuando quede habilitado para dedicarse a otra, o que simplemente hayan disminuido sus aptitudes para el desempeño de la misma o para ejercer actividades remuneradas semejantes a su profesión u oficio.
-
-Si la valuación definitiva de la incapacidad fuese de hasta el 15%, se pagará al asegurado, en sustitución de la pensión, una indemnización global equivalente a cinco anualidades de la pensión que le hubiese correspondido.
+Si la valuación definitiva de la incapacidad fuese de hasta el 25%, se pagará al asegurado, en sustitución de la pensión, una Indemnización global equivalente a cinco anualidades de la pensión que le hubiese correspondido. Dicha Indemnización será optativa para el trabajador cuando la valuación definitiva de la Incapacidad exceda del 25% sin rebasar el 50%; y
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -700,297 +702,303 @@ Las prestaciones del Seguro de Riesgos de Trabajo, inclusive los capitales const
 
 Las cuotas que por el seguro de riesgos de trabajo deban pagar los patrones, se determinarán en relación con la cuantía del salario base de cotización, y con los riesgos inherentes a la actividad de la negociación de que se trate, en los términos que establezca el reglamento relativo.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 79.
 
-Para los efectos de la fijación de las primas a cubrir por el seguro de riesgos de trabajo, las empresas serán clasificadas y agrupadas de acuerdo con su actividad, en clases, cuyos grados de riesgo se señalan para cada una de las clases que a continuación también se relacionan:
+Para los efectos de la fijación de las primas a cubrir por el seguro de riesgos de trabajo, las empresas serán clasificadas y agrupadas de acuerdo con su actividad, en clases, cuyos grados de riesgo se señalan para cada una de las clases que a continuación también se relacionan
 
-GRADO PRODUCTO DE PRIMAS EN POR CIENTO SOBRE EL
+PRODUCTO DE
 
-DE LOS ÍNDICES SALARIO BASE DE COTIZACIÓN
+LOS INDICES DE
 
-RIESGO DE FRECUENCIA
+GRADO FRECUENCIA Y Primas en por cientos
 
-Y GRAVEDAD POR INFERIORES GRADO SUPERI
+DE GRAVEDAD INFERIORES GRADO SUPERIORES
 
-UN MILLÓN AL MEDIO MEDIO ORES AL
-
-MEDIO
-
-% % -
+RIESGO POR UN MILLON AL MEDIO MEDIO AL MEDIO
 
 CLASE I
 
-1 454 0.0875
+1 454 0.34785
 
-2 770 0.1750
+2 770 0.44570
 
-3 1 086 0.2625
+3 1086 0.54355
 
-4 1 368 0.3500
+4 1368 0.64140
 
-5 1 757 0.4375
+5 1757 0.73925
 
 CLASE II
 
-4 1 368 0.3500
+4 1368 0.64140
 
-5 1 757 0.4375
+5 1757 0.73925
 
-6 2 146 0.5250
+6 2146 0.83710
 
-7 2 535 0.6125
+7 2535 0.93495
 
-8 2 924 0.7000
+8 2924 1.03280
 
-9 3 302 0.7875
+9 3302 1.13065
 
-10 3 667 0.8750
+10 3667 1.22850
 
-11 4 032 0.9625
+11 4032 1.32635
 
-12 4 397 1.0500
+12 4397 1.42420
 
-13 4 762 1.1375
+13 4762 1.52205
 
-14 5 127 1.2250
+14 5127 1.61990
 
 CLASE III
 
-11 4 032 0.9625
+11 4032 1.32635
 
-12 4 397 1.0500
+12 4307 1.42420
 
-13 4 762 1.1375
+13 4762 1.54205
 
-14 5 127 1.2250
+14 5127 1.61990
 
-15 5 676 1.3125
+15 5676 1.71775
 
-16 6 073 1.4000
+16 6073 1.81560
 
-17 6 470 1.4875
+17 6470 1.91345
 
-18 6 867 1.5750
+18 6867 2.01130
 
-19 7 264 1.6625
+19 7264 2.10915
 
-20 7 661 1.7500
+20 7661 2.20700
 
-21 8 058 1.8375
+21 8058 2.30485
 
-22 8 455 1.9250
+22 8455 2.40270
 
-23 8 852 2.0125
+23 8852 2.50055
 
-24 9 226 2.100
+24 9226 2.59840
 
-25 9 583 2.1875
+25 9583 2.69625
 
-26 9 940 2.2750
+26 9940 2.79410
 
-27 10 297 2.3625
+27 10297 2.89195
 
-28 10 654 2.4500
+28 10654 2.98980
 
-29 11 011 2.5375
+29 11011 3.08765
 
-30 11 368 2.6250
+30 11368 3.18550
 
-31 11 725 2.7125
+31 11725 3.28335
 
-32 12 082 2.8000
+32 12082 3.38120
 
-33 12 439 2.8875
+33 12439 3.47905
 
-34 12 796 2.9750
+34 12796 3.57690
 
-35 13 153 3.0625
+35 13153 3.67475
 
-36 13 510 3.1500
+36 13510 3.77260
 
-37 13 867 3.2375
+37 13867 3.87045
 
 CLASE IV
 
-30 11 368 2,6250
+30 11368 3.18550
 
-31 11 725 2.7125
+31 11725 3.28335
 
-32 12 082 2.8000
+32 12082 3.38120
 
-33 12 439 2.8875
+33 12439 3.47905
 
-34 12 796 2.9750
+34 12796 3.57690
 
-35 13 153 3.0625
+35 13153 3.67475
 
-36 13 510 3.1500
+36 13510 3.77260
 
-37 13 867 3.2375
+37 13867 3.87045
 
-38 14 204 3.3250
+38 14204 3.96830
 
-39 14 540 3.4125
+39 14540 4.06615
 
-40 14 876 3.5000
+40 14876 4.16400
 
-41 15 212 3.5875
+41 15212 4.26185
 
-42 15 548 3.6750
+42 15548 4.35970
 
-43 15 884 3.7625
+43 15884 4.45755
 
-44 16 220 3.8500
+44 16220 4.55540
 
-45 16 552 3.9375
+45 16552 4.65325
 
-46 16 940 4.0250
+46 16940 4.75110
 
-47 17 328 4.1125
+47 17328 4.84895
 
-48 17 716 4.2000
+48 17716 4.94680
 
-49 18 104 4.2875
+49 18104 5.04465
 
-50 18 207 4.3750
+50 18207 5.14250
 
-51 18 565 4.4625
+51 18565 5.24035
 
-52 18 923 4.5500
+52 18923 5.33820
 
-53 19 281 4.6375
+53 19281 5.43605
 
-54 19 639 4.7250
+54 19639 5.53390
 
-55 19 997 4.8125
+55 19997 5.63175
 
-56 20 355 4.9000
+56 20355 5.72960
 
-57 20 713 4.9875
+57 20713 5.82745
 
-58 21 071 5.0750
+58 21071 5.92530
 
-59 21 429 5.1625
+59 21429 6.02315
 
-60 21 787 5.2500
+60 21787 6.12100
 
 CLASE V
 
-50 18 207 4.3750
+50 18207 5.14250
 
-51 18 565 4.4625
+51 18565 5.24035
 
-52 18 923 4.5500
+52 18923 5.33820
 
-53 19 281 4.6375
+53 19281 5.43605
 
-54 19 639 4.7250
+54 19639 5.53390
 
-55 19 997 4.8125
+55 19997 5.63175
 
-56 20 355 4.9000
+56 20355 5.72960
 
-57 20 713 4.9875
+57 20713 5.82745
 
-58 21 071 5.0750
+58 21071 5.92530
 
-59 21 429 5.1625
+59 21429 6.02315
 
-60 21 787 5.2500
+60 21787 6.12100
 
-61 22 145 5.3375
+61 22145 6.21885
 
-62 22 503 5 4250
+62 22503 6.31670
 
-63 22 861 5.5125
+63 22861 6.41455
 
-64 23 219 5.6000
+64 23219 6 51240
 
-65 23 577 5.6875
+65 23577 6.61025
 
-66 23 935 5.7750
+66 23935 6.70810
 
-67 24 293 5.8625
+67 24293 6.80595
 
-68 24 659 5.9500
+68 24659 6.90380
 
-69 25 009 6.0375
+69 25009 7.00165
 
-70 25 367 6.1250
+70 25367 7.09950
 
-71 25 725 6.2125
+71 25725 7.19735
 
-72 26 083 6.3000
+72 26083 7.29520
 
-73 26 441 6.3875
+73 26441 7.39305
 
-74 26 799 6.4750
+74 26799 7.49090
 
-75 26 810 6.5625
+75 26810 7.58875
 
-76 26 870 6.6500
+76 26870 7.68660
 
-77 27 278 6.7375
+77 27278 7.78445
 
-78 27 686 6.8250
+78 27686 7.88230
 
-79 28 094 6.9125
+79 28094 7.98015
 
-80 28 502 7.0000
+80 28502 8.07800
 
-81 28 910 7.0875
+81 28910 8.17585
 
-82 29 318 7.1750
+82 29318 8.27370
 
-83 29 726 7.2625
+83 29726 8.37155
 
-84 30 134 7.3500
+84 30134 8.46940
 
-85 30 542 7.4375
+85 30542 8.56725
 
-86 30 950 7.5250
+86 30950 8.66510
 
-87 31 358 7.6125
+87 31358 8.76295
 
-88 31 766 7.7000
+88 31766 8.86080
 
-89 32 174 7.7875
+89 32174 8.95865
 
-90 32 582 7.8750
+90 32582 9.05650
 
-91 32 990 7.9625
+91 32990 9.15435
 
-92 33 398 8.0500
+92 33398 9.25220
 
-93 33 806 8.1375
+93 33806 9.35005
 
-94 34 214 8.2250
+94 34214 9.44790
 
-95 34 622 8.3125
+95 34622 9.54575
 
-96 35 030 8.4000
+96 35030 9.64360
 
-97 35 438 8.4875
+97 35438 9.74145
 
-98 35 846 8.5750
+98 35846 9.83930
 
-99 36 254 8.6625
+99 36254 9.93715
 
-100 36 662 8.7500
+100 36682 10.03500
+
+El Consejo Técnico del Instituto Mexicano del Seguro Social promoverá ante las instancias competentes, cada tres años, la revisión de la tabla anterior, para propiciar que se mantenga o restituya, en su caso, el equilibrio financiero de este ramo de seguro.
 
 Al inscribirse por primera vez en el Instituto o al cambiar de clase por modificación en sus actividades, las empresas invariablemente serán colocadas en el grado medio de la clase que les corresponda y con apego a dicho grado pagarán la prima del seguro de riesgos de trabajo.
 
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 80.
+
+Las empresas tendrán la obligación de revisar anualmente el grado de riesgo conforme al cual estén cubriendo sus primas, para determinar de acuerdo con sus índices de siniestralidad, por el periodo y dentro del plazo que señale el Reglamento, si permanecen en el mismo grado de riesgo, se disminuye o se aumenta.
 
 El grado de riesgo conforme al cual estén cubriendo sus primas las empresas, podrá ser modificado disminuyéndolo o aumentándolo. Estas modificaciones no podrán exceder los límites determinados para los grados máximo y mínimo de la clase a que corresponda la empresa.
 
-La disminución o aumento procederá cuando el promedio del producto del índice de frecuencia por el de gravedad, de los riesgos realizados y terminados en la empresa en el lapso que fije el reglamento, sea inferior o superior al correspondiente al grado de riesgo en que la empresa se encuentre cotizando.
+El Instituto tendrá la facultad de validar o corregir la determinación y en caso de omisión de las empresas, impondrá la sanción y emitirá el dictamen que corresponda, de conformidad con esta Ley y el Reglamento de la materia.
+
+La disminución o aumento procederá cuando el índice de siniestralidad de los riesgos de trabajo terminados durante el lapso que fije el Reglamento, con independencia de la fecha en que éstos hubieren ocurrido, sea inferior o superior al correspondiente al grado de riesgo en que la empresa se encuentre cotizando.
+
+El índice de siniestralidad se determinará conforme al Reglamento de la materia.
 
 ###### ARTICULO 81.
 
-Los índices de frecuencia y de gravedad mencionados en el artículo anterior se fijarán en el reglamento.
+(DEROGADO, D.O.F. 20 DE JULIO DE 1993)
 
 ###### ARTICULO 82.
 
@@ -1004,9 +1012,13 @@ Cada tres años el Consejo Técnico promoverá la revisión de las clases y grad
 
 Los cambios de una actividad empresarial, de una clase a otra, se harán siempre a través de disposición del Ejecutivo Federal, ajustándose a las siguientes reglas:
 
-I.- Cuando el producto del índice de frecuencia por el de gravedad de la totalidad de las empresas comprendidas en una actividad exceda durante cada uno de los tres últimos años el grado máximo de la clase en que se encuentre, dicha actividad pasará a la clase superior.
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1993)</small>
 
-II.- Cuando el producto del índice de frecuencia por el de gravedad de la totalidad de las empresas comprendidas en una actividad, sea inferior durante cada uno de los tres últimos años, al grado mínimo de la clase en la que se encuentre, dicha actividad pasará a la clase inferior inmediata.
+I.- Cuando el índice de siniestralidad de todas y cada una de las empresas comprendidas en una actividad exceda durante cada uno de los tres últimos años el grado máximo de la clase en que se encuentre, dicha actividad pasará a la clase superior;
+
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1993)</small>
+
+II.- Cuando el índice de siniestralidad de todas y cada una de las empresas comprendidas en una actividad, sea inferior durante cada uno de los tres últimos años, al grado mínimo de la clase en la que se encuentre, dicha actividad pasará a la clase inferior inmediata.
 
 Estas reglas no operarán en el caso de las actividades que se encuentren en la clase más alta o en la más baja según se trate de ascenso o de disminución respectivamente.
 
@@ -1302,11 +1314,13 @@ Cuando fallezca un pensionado o un asegurado que tenga reconocidas cuando menos 
 
 Los recursos necesarios para cubrir las prestaciones y los gastos administrativos del seguro de Enfermedades y maternidad, se obtendrán de las cuotas que estén obligados a cubrir los patrones y los trabajadores o demás sujetos y de la contribución que corresponda al Estado.
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 114.
 
-A los patrones y a los trabajadores les corresponde cubrir para el seguro de enfermedades y maternidad, las cuotas de 8.40% y 3.00% sobre el salario diario base de cotización, respectivamente.
+A los patrones y a los trabajadores les corresponde cubrir para el seguro de enfermedades y maternidad, las cuotas del 8.750% y 3.125% sobre el salario diario base de cotización, respectivamente.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
 Los ingresos por concepto de pensiones quedan exentos del pago de cuotas.
 
@@ -1330,9 +1344,11 @@ Por lo que respecta a los sujetos de aseguramiento comprendidos en el artículo 
 
 #### SECCION QUINTA. De la Conservación de Derechos
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 118.
 
-El asegurado que quede privado de trabajo remunerado, pero que haya cubierto inmediatamente antes de tal privación, un mínimo de ocho cotizaciones semanales ininterrumpidas, conservará durante las ocho semanas posteriores a la desocupación, el derecho a recibir las prestaciones correspondientes al seguro de Enfermedades y maternidad en los términos del presente capítulo. Del mismo derecho disfrutarán sus beneficiarios.
+El asegurado que quede privado de trabajo remunerado, pero que haya cubierto inmediatamente antes de tal privación, un mínimo de ocho cotizaciones semanales ininterrumpidas, conservará durante las ocho semanas posteriores a la desocupación, el derecho a recibir exclusivamente la asistencia médica, de maternidad, quirúrgica, farmacéutica y hospitalaria que sea necesaria. Del mismo derecho disfrutarán sus beneficiarios.
 
 Los trabajadores que se encuentren en estado de huelga, recibirán las prestaciones médicas durante el tiempo que dure aquél.
 
@@ -1358,7 +1374,9 @@ Los riesgos protegidos en este capítulo son la invalidez, la vejez, la cesantí
 
 El otorgamiento de las prestaciones establecidas en este capítulo requiere del cumplimiento de períodos de espera, medidos en semanas de cotización reconocidas por el Instituto, según se señala en las disposiciones relativas a cada uno de los riesgos amparados.
 
-Para los efectos de este artículo, se considerarán como semanas de cotización las que se encuentren amparadas por certificados de incapacidad.
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1993)</small>
+
+Para los efectos de este artículo, se considerarán como semanas de cotización las que se encuentren amparadas por certificado de incapacidad, excepto por lo que se refiere al seguro de retiro.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
 
@@ -1394,13 +1412,11 @@ Igualmente, esta disposición es aplicable, tratándose de pensiones por riesgos
 
 #### SECCION SEGUNDA. Del Seguro de Invalidez
 
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 128.
 
-Para los efectos de esta Ley existe invalidez cuando se reúnan las siguientes condiciones:
-
-I.- Que el asegurado se halle imposibilitado para procurarse, mediante un trabajo proporcionado a su capacidad, formación profesional y ocupación anterior, una remuneración superior al cincuenta por ciento de la remuneración habitual que en la misma región reciba un trabajador sano, de semejantes capacidad, categoría y formación profesional;
-
-II.- Que sea derivada de una enfermedad o accidente no profesionales, o por defectos o agotamiento físico o mental, o bien cuando padezca una afección o se encuentre en un estado de naturaleza permanente que le impida trabajar.
+Para los efectos de esta Ley existe Invalidez cuando el asegurado se halle imposibilitado para procurarse, mediante un trabajo, una remuneración superior al cincuenta por ciento de su remuneración habitual percibida durante el último año de trabajo y que esa imposibilidad derive de una enfermedad o accidente no profesionales.
 
 ###### ARTICULO 129.
 
@@ -1624,9 +1640,11 @@ Si no existieren viuda, huérfanos ni concubina con derecho a pensión, ésta se
 
 #### SECCION SEXTA. De la Ayuda para Gastos de Matrimonio
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 160.
 
-Tiene derecho a recibir una ayuda para gastos de matrimonio, el asegurado que cumpla los siguientes requisitos:
+Tiene derecho a recibir una ayuda para gastos de matrimonio equivalente a treinta días de salario mínimo general que rija en el Distrito Federal, el asegurado que cumpla los siguientes requisitos:
 
 I.- Que tenga acreditado un mínimo de ciento cincuenta semanas de cotización en el ramo de Invalidez, vejez, cesantía en edad avanzada y muerte, en la fecha de celebración de matrimonio;
 
@@ -1636,17 +1654,21 @@ III.- Que la cónyuge no haya sido registrada con anterioridad en el Instituto c
 
 Esta ayuda se otorgará por una sola vez y el asegurado no tendrá derecho a recibirla por posteriores matrimonios.
 
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 161.
 
-La cuantía de la ayuda para gastos de matrimonio que otorgue el Instituto al asegurado, será igual al veinticinco por ciento de la anualidad de la pensión de invalidez a que tuviere derecho el contrayente en la fecha de la celebración, sin que pueda exceder de la cantidad de $ 6,000.00. La cuantía mínima establecida para la pensión de invalidez en el artículo 168 no surtirá efectos para fines del cálculo de la cuantía de esta ayuda.
+El asegurado que deje de pertenecer al seguro obligatorio conservará sus derechos a la ayuda para gastos de matrimonio, si lo contrae dentro de noventa días hábiles contados a partir de la fecha de su baja.
+
+El asegurado que suministre datos falsos en relación a su estado civil, pierde todo derecho a la ayuda para gastos de matrimonio.
 
 ###### ARTICULO 162.
 
-El asegurado que haya dejado de pertenecer al seguro obligatorio conservará sus derechos a la ayuda para gastos de matrimonio, si lo contrae dentro de noventa días hábiles contados a partir de la fecha de su baja.
+(DEROGADO, D.O.F. 20 DE JULIO DE 1993)
 
 ###### ARTICULO 163.
 
-El asegurado que suministre al Instituto datos falsos en relación a su estado civil, pierde todo derecho a la ayuda para gastos de matrimonio.
+(DEROGADO, D.O.F. 20 DE JULIO DE 1993)
 
 #### SECCION SEPTIMA. De las Asignaciones Familiares y Ayuda Asistencial
 
@@ -1894,11 +1916,11 @@ Del Régimen Financiero
 
 Los recursos necesario para cubrir las prestaciones y los gastos administrativos del seguro de invalidez, de vejez de cesantía en edad avanzada y por muerte, así como para la constitución de las reservas técnicas, se obtendrán de las cuotas que están obligados a cubrir las (sic) patrones, los trabajadores y demás sujetos y de la contribución que corresponda al Estado.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 177.
 
-A los patrones y a los trabajadores les corresponde cubrir, para los seguros a que se refiere este capítulo, las cuotas del 5.6 por ciento y 2 por ciento sobre el salario base de cotización, respectivamente.
+A los patrones y a los trabajadores les corresponde cubrir, para los seguros a que se refiere este capítulo, las cuotas del 5 950 por ciento y 2.125 por ciento sobre el salario base de cotización, respectivamente.
 
 > <small>(REFORMADO, D.O.F. 2 DE MAYO DE 1986)</small>
 
@@ -2002,13 +2024,13 @@ El comité técnico del sistema de ahorro para el retiro determinará la comisi�
 
 La Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México, y mediante la expedición de disposiciones de carácter general, podrá autorizar formas y términos distintos a los establecidos para el entero y la comprobación de las cuotas del seguro de retiro.
 
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 183-G.
 
-El trabajador podrá notificar a la Secretaría de Hacienda y Crédito Público, el incumplimiento de las obligaciones a cargo de los patrones establecidas en este Capítulo.
+El trabajador podrá notificar a la Secretaría de Hacienda y Crédito Público o al Instituto Mexicano del Seguro Social, el incumplimiento de las obligaciones a cargo de los patrones, establecidas en este capítulo y al respecto, ambas autoridades, indistintamente, tendrán la facultad de practicar inspecciones domiciliarias y, en su caso, la de determinar créditos y las bases de su liquidación, así como la actualización y recargos que se generen, en los términos de los artículos 19 fracción V, 240 fracciones XIV y XVIII, y demás relativos de esta Ley.
 
-> <small>(F. DE E., D.O.F. 12 DE MARZO DE 1992)</small>
+(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992) (F. DE E., D.O.F. 12 DE MARZO DE 1992)
 
 Los trabajadores titulares de las cuentas del sistema de ahorro para el retiro y, en su caso sus beneficiarios, podrán, a su elección, presentar directamente o a través de sus representantes sindicales, sus reclamaciones contra las instituciones de crédito ante la Comisión Nacional Bancaria o hacer valer sus derechos en la forma que establecen las leyes. El procedimiento de conciliación a que se refiere este párrafo se sujetará a lo dispuesto en los artículos 119 y 120 de la Ley de Instituciones de Crédito.
 
@@ -2318,6 +2340,14 @@ Los patrones personas físicas con trabajadores a su servicio cotizarán en un g
 
 Cuando el patrón asegurado deje de cubrir las cuotas correspondientes a dos bimestres consecutivos se suspenderá el otorgamiento de las prestaciones relativas, independientemente de instaurar el procedimiento administrativo de ejecución, a efecto de satisfacer el interés público de que continúe dentro del Régimen del Seguro Social.
 
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 1993)</small>
+
+ARTICULO 218 bis.- La incorporación voluntaria al régimen obligatorio termina por:
+
+I. Declaración expresa firmada por el patrón asegurado; y
+
+II. Dejar de pagar las cuotas durante tres bimestres consecutivos.
+
 #### SECCION SEXTA. De otras Incorporaciones Voluntarias
 
 ###### ARTICULO 219.
@@ -2504,9 +2534,15 @@ XVIII.- Ordenar y practicar inspecciones domiciliarias con el personal que al ef
 
 XIX.- Ordenar y practicar las investigaciones correspondientes en los casos de sustitución patronal y emitir los dictámenes respectivos;
 
-XX.- Establecer coordinación con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, para el cumplimiento de sus objetivos; y
+XX.- Establecer coordinación con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, para el cumplimiento de sus objetivos; y (sic)
 
-XXI.- Las demás que le otorguen esta Ley, sus reglamentos y cualesquier otra disposición aplicable.
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1993)</small>
+
+XXI.- Revisar los dictámenes formulados por contadores públicos sobre el cumplimiento de las disposiciones contenidas en esta Ley y sus Reglamentos; y
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 1993)</small>
+
+XXII.- Las demás que le otorguen esta Ley, sus Reglamentos y cualquier otra disposición aplicable.
 
 ###### ARTICULO 241.
 
@@ -2618,6 +2654,10 @@ El Consejo Técnico tendrá las atribuciones siguientes:
 
 I.- Decidir sobre las inversiones de los fondos del Instituto, con sujeción a lo previsto en esta Ley y sus reglamentos, excepto los provenientes del seguro de retiro;
 
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 1993)</small>
+
+I bis.- Vigilar y promover el equilibrio financiero de todos los ramos de aseguramiento comprendidos en esta Ley;
+
 II.- Resolver sobre las operaciones del Instituto, exceptuando aquellas que por su importancia ameriten acuerdo expreso de la Asamblea General, de conformidad con lo que al respecto determinen esta Ley y el reglamento;
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
@@ -2690,7 +2730,11 @@ I.- Presidir las sesiones de la Asamblea General y del Consejo Técnico;
 
 II.- Ejecutar los acuerdos del propio Consejo;
 
-III.- Representar al Instituto Mexicano del Seguro Social ante toda clase de autoridades, organismos y personas, con la suma de facultades generales y especiales que requiera la Ley, inclusive para substituir o delegar dicha representación;
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1993)</small>
+
+III.- Representar al Instituto Mexicano del Seguro Social, como organismo fiscal autónomo, ante todas las autoridades con la suma de facultades generales y especiales que requiera la Ley, así como representar legalmente al Instituto como persona moral con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas, actos de administración y de dominio, y las especiales que requieran cláusula especial conforme al Código Civil para el Distrito Federal.
+
+El Director General podrá delegar la representación, incluyendo la facultad expresa para conciliar ante las Juntas de Conciliación y Arbitraje;
 
 IV.- Presentar anualmente al Consejo el informe de actividades, así como el programa de labores y el presupuesto de ingresos y egresos para el siguiente período;
 
@@ -2852,7 +2896,9 @@ Las inversiones en acciones y valores emitidas por sociedades mexicanas deberán
 
 Por excepción podrá invertirse en acciones de sociedades cuyo objeto tenga íntima relación con los fines del Instituto, sin sujetarse a los requisitos señalados en el párrafo anterior, caso en el cual se requerirá aprobación unánime del Consejo Técnico y que los consejeros del sector estatal tengan autorización por escrito del Presidente de la República paro votar afirmativamente en el caso concreto.
 
-## TITULO SEXTO. De los Procedimientos y de la Prescripción
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE JULIO DE 1993)</small>
+
+## TITULO SEXTO. De los Procedimientos, de la caducidad y prescripción
 
 ### CAPITULO I. Generalidades
 
@@ -2924,7 +2970,9 @@ Las resoluciones, acuerdos o liquidaciones del Instituto que no hubiesen sido im
 
 Las controversias entre los asegurados o sus beneficiarios y el Instituto, sobre las prestaciones que esta Ley otorga, podrán ventilarse ante la Junta Federal de Conciliación y Arbitraje, sin necesidad de agotar previamente el recurso de inconformidad que establece el artículo anterior
 
-### CAPITULO III. De la Prescripción
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE JULIO DE 1993)</small>
+
+### CAPITULO III. De la Caducidad y Prescripción
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
 
@@ -2932,7 +2980,9 @@ Las controversias entre los asegurados o sus beneficiarios y el Instituto, sobre
 
 El derecho del Instituto a fijar en cantidad líquida los créditos a su favor se extingue en el término de cinco años no sujeto a interrupción, contado a partir de la fecha de la presentación por el patrón o por cualquier otro sujeto obligado en términos de esta Ley, del aviso o liquidación o de aquella en que el propio Instituto tenga conocimiento del hecho generador de la obligación.
 
-El plazo señalado en este artículo sólo se suspenderá cuando se interponga el recurso de inconformidad o juicio.
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1993)</small>
+
+El plazo de caducidad señalado en este artículo sólo se suspenderá cuando se interponga el recurso de inconformidad o juicio.
 
 ###### ARTICULO 277.
 
@@ -2940,9 +2990,11 @@ La obligación de enterar las cuotas vencidas y los capitales constitutivos, pre
 
 La prescripción se regirá en cuanto a su consumación e interrupción, por las disposiciones aplicables del Código Fiscal de la Federación.
 
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 278.
 
-Las cuotas enteradas sin justificación legal serán devueltas por el Instituto sin causar intereses, cuando sean reclamadas dentro de los cinco años siguientes a la fecha del entero correspondiente. El Instituto podrá descontar el costo de las prestaciones que hubiera otorgado.
+Las cuotas enteradas sin justificación legal serán devueltas por el Instituto sin causar intereses en ningún caso, siempre y cuando sean reclamadas dentro de los cinco años siguientes a la fecha del entero correspondiente, excepto las provenientes del seguro de retiro; por lo que se refiere a estas últimas, se estará a lo previsto en las disposiciones legales y reglamentarias respectivas. Tratándose de las otras ramas de aseguramiento, el Instituto podrá descontar el costo de las prestaciones que hubiere otorgado.
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
@@ -2964,9 +3016,11 @@ II. En seis meses, la ayuda para gastos de matrimonio, contados a partir de la f
 
 Los subsidios por incapacidad para trabajar derivada de un riesgo de trabajo, prescriben en dos años a partir del día en que se hubiere generado el derecho a su percepción.
 
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 280.
 
-Es inextinguible el derecho al otorgamiento de una pensión, ayuda asistencial o asignación familiar.
+Es inextinguible el derecho al otorgamiento de una pensión, ayuda asistencial o asignación familiar, siempre y cuando el asegurado satisfaga todos y cada uno de los requisitos establecidos en la presente Ley para gozar de las prestaciones correspondientes. En el supuesto de que antes de cumplir con los requisitos relativos a número de cotizaciones o edad se termine la relación laboral, el asegurado no habrá adquirido el derecho a recibir la pensión; sin perjuicio de lo anterior, para la conservación y reconocimiento de sus derechos se aplicará lo dispuesto en los artículos 182 o 183 de esta Ley, según sea el caso.
 
 (ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992) (F. DE E., D.O.F. 12 DE MARZO DE 1992)
 
@@ -2986,11 +3040,11 @@ El Director General del Instituto, los consejeros, los funcionarios y empleados,
 
 Las personas que desempeñen algún cargo en el Instituto aún en comisión por tiempo limitado, quedarán sujetas a lo dispuesto por los artículos 210 a 224 del Código Penal para el Distrito Federal en sus respectivos casos, salvo las que se encuentren comprendidas en el artículo 111 de la Ley de Responsabilidades de los funcionarios y Empleados de la Federación.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 283.
 
-Los actos u omisiones que en perjuicio de sus trabajadores o del Instituto realicen los patrones y demás sujetos obligados en los términos de esta Ley, se sancionarán con multa de tres hasta trescientas cincuenta veces el importe del salario mínimo general que rija en el Distrito Federal. Estas sanciones serán impuestas por la Secretaría del Trabajo y Previsión Social, en los términos del reglamento correspondiente.
+Los actos u omisiones que en perjuicio de sus trabajadores o del Instituto realicen los patrones y demás sujetos obligados en los términos de esta Ley, se sancionarán con multa de tres hasta trescientas cincuenta veces el importe del salario mínimo general que rija en el Distrito Federal. Estas sanciones serán impuestas por el Instituto Mexicano del Seguro Social, de conformidad con el Reglamento de la materia.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
 
@@ -3389,3 +3443,67 @@ Primero. El presente decreto entrará en vigor el día 1o. de enero de 1993.
 Segundo. Durante el período comprendido entre el 1o. de junio y el 31 de diciembre de 1992, la pensión de invalidez, vejez, o cesantía en edad avanzada, incluyendo las asignaciones familiares y ayudas asistenciales que en su caso corresponda, no podrá ser inferior al ochenta y cinco por ciento del salario mínimo general que rija para el Distrito Federal.
 
 Tercero. Por única vez y en el presente año, podrá utilizar el Instituto Mexicano del Seguro Social los activos financieros señalados en el artículo 264 de la Ley del Seguro Social, que sean indispensables para financiar los incrementos a que se refiere el transitorio anterior.
+
+D.O.F. 20 DE JULIO DE 1993.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero.- Las disposiciones de este Decreto que se refieren a dictamen de estados financieros por contador público autorizado, entrarán en vigor a partir del 1o de enero de 1994, con el objeto de permitir a la contaduría pública organizada a los patrones o sujetos obligados y al propio Instituto, establecer y consolidar su infraestructura para cumplir con las mismas.
+
+Para los efectos del artículo 19 A los patrones no obligados a dictaminar sus Estados Financieros que lo hagan de manera voluntaria, gozarán exclusivamente por lo que se refiere a sus obligaciones con el Seguro Social, de los siguientes beneficios:
+
+l.- Durante el año de 1994, no serán sujetos de visita domiciliaria durante el ejercicio dictaminado ni por los tres inmediatos anteriores al mismo, excepto cuando al revisar el dictamen se encuentren irregularidades en su formulación.
+
+II.- Durante 1995, los patrones mencionados, no serán objeto de visita domiciliaria durante el ejercicio dictaminado ni por los dos años anteriores al mismo, excepto cuando al revisar el dictamen se encuentren irregularidades en su contenido.
+
+III.- Durante 1996, estos mismos patrones no serán objeto de visita domiciliaria durante el ejercicio dictaminado ni por el inmediato anterior.
+
+IV.- Durante 1997, las facultades de revisión a través de visita domiciliaria podrán ejercerse por los cinco ejercicios anteriores, incluido el dictaminado.
+
+Los sujetos a que se refiere esta disposición podrán pagar, sin que medie autorización, las diferencias determinadas en el dictamen, hasta en doce mensualidades, previa garantía del interés fiscal, debiendo actualizarse el saldo insoluto y cubrir los recargos causados e intereses por el plazo concedido, en los términos y condiciones señalados en el Código Fiscal de la Federación.
+
+Los beneficios que otorga esta disposición, no son aplicables por lo que respecta al Seguro de Retiro.
+
+Cuarto.- Para los efectos del artículo 33, que se reforma por este Decreto, el límite superior para los seguros de riesgos de trabajo, enfermedades y maternidad y guarderías, entrará en vigor de manera gradual, de la siguiente forma:
+
+I. A partir de la vigencia del presente Decreto, se aumentará dicho límite de 10 a 18 veces el salario mínimo general que rija en el Distrito Federal.
+
+II. A partir del 1o. de enero de 1994, se incrementará el salario base de cotización de 18 a 25 veces el salario mínimo general que rija en el Distrito Federal.
+
+Por lo que se refiere al seguro de retiro, el límite superior equivalente a 25 veces el salario mínimo que rija en el Distrito Federal se aplica desde el 1o. de mayo de 1992 en que entró en vigor el Decreto que reforma y adiciona diversas disposiciones de la Ley del Seguro Social y de la Ley del Impuesto Sobre la Renta publicado en Diario Oficial de la Federación de fecha 24 de febrero del mismo año.
+
+Quinto.- Para los efectos del artículo 80 de la Ley, que se reforma por este Decreto, y de conformidad con lo dispuesto por el Reglamento de la materia, las empresas deberán autodeterminar por primera vez su grado de riesgo, tomando en consideración el índice de siniestralidad que se actualice en el periodo que correrá del 1o. de enero al 31 de diciembre de 1994, con vigencia a partir del segundo bimestre de cotización del año de 1995.
+
+Sexto.- La reforma del artículo 118 de este ordenamiento, no tendrá aplicación para aquellas personas que al entrar en vigor dicha disposición, se encuentren dadas de baja y dentro del periodo de conservación de derechos.
+
+La reforma a la fracción II del artículo 196 de este ordenamiento, sólo tendrá aplicación respecto de los asegurados que ingresen por primera vez al régimen obligatorio al entrar en vigor la misma, no así para los inscritos con antelación.
+
+Séptimo.- En apoyo a los patrones para que cumplan con la obligación de autodeterminarse para el pago de cuotas obrero patronales, el Instituto continuará emitiendo las liquidaciones de la siguiente manera:
+
+Número de Ultimo bimestre de emisió (sic)
+
+trabajadores Instituto Mexicano
+
+por patrón del Seguro Social
+
+Más de cincuenta 1o. de 1994
+
+De diez y hasta cincuenta 4o. de 1994
+
+Menos de diez 1o. de 1995
+
+Octavo.- Se reforma el Artículo Segundo Transitorio del Decreto por el que se Reforman, Adicionan, y Derogan Diversos Articulos de la Ley del Seguro Social, publicado en el Diario Oficial de la Federación del día 27 de diciembre de 1990, para quedar como sigue:
+
+"Segundo.- Las reformas al artículo 177 de la Ley entrarán en vigor el 1o. de enero de 1996.
+
+Durante los años de 1994 a 1995, a los patrones y a los trabajadores les corresponderá cubrir, para los seguros a que se refiere el Capitulo V del Título Segundo de la Ley, las cuotas sobre él salario base de cotización que a continuación se indican:
+
+Año Patrones Trabajadores
+
+1994 5.670 2.025
+
+1995 5.810 2.075
+
+La cuantía de la contribución del Estado para los referidos seguros será igual al resultado de aplicar el porcentaje indicado en el artículo 178 de la Ley, al total de las cuotas patronales conforme al presente artículo.
