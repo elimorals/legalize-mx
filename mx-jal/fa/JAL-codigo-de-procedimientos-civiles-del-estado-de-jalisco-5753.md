@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "1995-12-02"
+last_updated: "1997-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1997.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -4890,7 +4890,7 @@ Las tercerías deberán promoverse ante el Juez que conozca del negocio principa
 
 ###### ARTICULO 599.
 
-Las tercerías coadyuvantes pueden oponerse en cualquier juicio, sea cual fuere la acción que en él se ejercite y cualquiera que sea el estado en que éste se encuentre, con tal de que aún no se hubiera pronunciado sentencia que cause ejecutoria.
+Las tercerías coadyuvantes pueden oponerse en cualquier juicio, sea cual fuere la acción que en el se ejercite y cualquiera que sea el estado en que éste se encuentre, con tal de que aún no se hubiera pronunciado sentencia que cause ejecutoria.
 
 ###### ARTICULO 600.
 
@@ -5456,11 +5456,11 @@ IV.- En caso de muerte del usufructuario;
 
 V.- En caso de muerte del comodatario o cuando así lo solicite el comodante si no está determinado el uso o plazo del préstamo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 684.
 
-Para que surta efectos de oposición del arrendador a la continuación de la ocupación del inmueble por el arrendatario, la demanda en que se ejercite la acción de terminación de contrato por tiempo definido, deberá presentarse dentro de los treinta días naturales siguientes al vencimiento del mismo.
+Para que surta efectos de oposición del arrendador a la continuación de la ocupación del inmueble por el arrendatario, la demanda en que se ejercite la acción de terminación de contrato por tiempo definido deberá presentarse dentro de los treinta días naturales siguientes al vencimiento del mismo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -8315,3 +8315,7 @@ CUARTO.- Las normas de esta iniciativa que aluden al Consejo de Familias, se ent
 P.O. 2 DE DICIEMBRE DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 4 DE ENERO DE 1997.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
