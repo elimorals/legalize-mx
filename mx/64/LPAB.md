@@ -4,7 +4,7 @@ identifier: "LPAB"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-19"
-last_updated: "2000-12-31"
+last_updated: "2001-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13012&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPAB"
 
 LEY DE PROTECCION AL AHORRO BANCARIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2001.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 19 de enero de 1999.
 
@@ -444,9 +444,19 @@ En la enajenación de acciones representativas del capital de las Instituciones,
 
 Cuando se trate de la enajenación de Bienes que, por sus características específicas, no sea posible la recuperación a valor de avalúo, debido a las condiciones imperantes en el mercado, la Junta de Gobierno podrá autorizar la enajenación a precio inferior. Esto, si a su juicio, es la manera de obtener las mejores condiciones de recuperación, una vez consideradas las circunstancias financieras prevalecientes.
 
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 64 Bis.
+
+La Junta de Gobierno podrá autorizar la enajenación de los Bienes que hayan sido declarados monumentos nacionales artísticos o históricos conforme a la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, en los términos del artículo anterior, así como otorgar en donación o el uso a título gratuito de los mismos a favor de organismos autónomos señalados en la Constitución Política de los Estados Unidos Mexicanos, de dependencias o entidades de la Administración Pública Federal o de la administración pública de cualquier entidad federativa. Para el caso de donación, sólo podrá realizarse a la Secretaría de Educación Pública.
+
+En los términos de la fracción XXI, artículo 38 de la Ley Orgánica de la Administración Pública Federal, la Secretaría de Educación Pública cuidará que estos Bienes sean exhibidos para el público en general.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JUNIO DE 2001)</small>
+
 ###### Artículo 65.
 
-Una vez hechas las enajenaciones de referencia, el Instituto deberá remitir un informe detallado a las Secretarías de Hacienda y Crédito Público, y de la Contraloría y Desarrollo Administrativo, en un plazo máximo de treinta días hábiles, posterior a su formalización.
+Una vez hechas las enajenaciones, el otorgamiento del uso a título gratuito o las donaciones a que se refieren los artículos anteriores, el Instituto deberá remitir un informe detallado a las Secretarías de Hacienda y Crédito Público y de Contraloría y Desarrollo Administrativo, así como a la Cámara de Diputados a través de su Comisión de Cultura, en un plazo máximo de treinta días hábiles posteriores a su formalización.
 
 Asimismo, el órgano de control interno del Instituto hará un seguimiento puntual de dichas operaciones, y las áreas operativas formularán la memoria circunstanciada de cada una de ellas.
 
@@ -895,3 +905,7 @@ D.O.F. 31 DE DICIEMBRE DE 2000.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
+
+D.O.F. 1 DE JUNIO DE 2001.
+
+Unico.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
