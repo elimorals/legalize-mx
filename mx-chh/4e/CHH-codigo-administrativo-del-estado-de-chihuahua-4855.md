@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1980-11-26"
+last_updated: "1981-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 1981.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -861,7 +861,9 @@ También serán considerados como empleados de confianza, en todas las Dependenc
 
 Son funcionarios y empleados de confianza del Poder Legislativo: el Oficial Mayor y el Contador General de Hacienda.
 
-Son funcionarios y empleados de confianza del Poder Judicial: el Secretario General del Supremo Tribunal de Justicia y los Secretarios de las Salas de Apelación y de los Juzgados; los Visitadores Judiciales, los Jueces de Primera Instancia, Menores y de Paz, los Jefes de Defensorías de Oficio y los Ministros Ejecutores.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
+Son funcionarios y empleados de confianza del Poder Judicial: el Secretario General del Supremo Tribunal de Justicia y los Secretarios de las Salas de Apelación y de los Juzgados; los Visitadores Judiciales, los Jueces de Primera Instancia o de lo Familiar, Menores y de Paz, los Jefes de Defensorías de Oficio y los Ministros Ejecutores.
 
 Son funcionarios y empleados de confianza de los organismos descentralizados los que se determinan conforme a sus propias disposiciones normativas.
 
@@ -1999,7 +2001,7 @@ Las actas del Registro Civil sólo se asentarán en los libros a que se refiere 
 
 ###### ARTICULO 232.
 
-Si al terminar el año en curso quedaren en los libros hojas en blanco, seguirá actuándose en las restantes una vez que se haya asentado la razón correspondiente sobre el número de actas levantadas en el año concluido.
+Si al terminar el año en curso quedaren en los libros hojas en blanco, seguirá actuándose en las restantes una vez que se haya asentado la razón correspondiente sobre el número de actas levantadas en el año conluido.
 
 ###### ARTICULO 233.
 
@@ -2121,7 +2123,7 @@ II.- A disponer del uso de la fuerza pública para obligar a los mismos interesa
 
 ###### ARTICULO 253.
 
-No se expresará en el acta correspondiente que el hijo es adulterino, en el caso a que se refiere el artículo 62 del Código Civil, aunque tal circunstancia resulte comprobada de la declaración de los interesados.
+(DEROGADO, P.O. 30 DE MAYO DE 1981)
 
 ###### ARTICULO 254.
 
@@ -2137,15 +2139,19 @@ En toda acta de nacimiento se asentará la huella digital del pulgar de la mano 
 
 ### CAPITULO III. DE LAS ACTAS DE RECONOCIMIENTO DE HIJOS NATURALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 1981)</small>
+
 ###### ARTICULO 257.
 
-El que trate de reconocer a un hijo natural cuyo nacimiento hubiere sido ya registrado en virtud de presentación hecha por persona extraña, ocurrirá a la autoridad judicial competente, quien citará a los interesados y al Ministerio Público a una junta, en la cual el promovente hará la confesión directa y expresa de la paternidad o maternidad, y si el hijo mayor de catorce años o el tutor, en su caso, estuvieren conformes, el juez dará por hecho el reconocimiento. En caso contrario, suspenderá todo procedimiento y dejará a salvo los derechos de los interesados para que se resuelva la cuestión relativa a la paternidad o maternidad en el juicio contradictorio correspondiente.
+El que trate de reconocer a un hijo cuyo nacimiento hubiere sido ya registrado en virtud de presentación hecha por persona extraña, ocurrirá a la autoridad judicial competente, quien citará a los interesados y al Ministerio Público a una junta, en la cual el promovente hará la confesión directa y expresa de la paternidad o maternidad, y si el hijo mayor de catorce años o el tutor, en su caso, estuvieren conformes, el juez dará por hecho el reconocimiento. En caso contrario, suspenderá todo procedimiento y dejará a salvo los derechos de los interesados para que se resuelva la cuestión relativa a la paternidad o maternidad en el juicio contradictorio correspondiente.
 
 De las diligencias a que se refiere la primera parte de este artículo, se remitirá testimonio de lo conducente al Encargado del Registro Civil para que levante el acta respectiva.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+
 ###### ARTICULO 258.
 
-Cuando el hijo natural no haya sido registrado y se deseare su reconocimiento por alguno de los padres, el interesado ocurrirá a la autoridad judicial competente y previos los requisitos establecidos en el artículo anterior, se concederá el reconocimiento y se hará el registro omitido en la forma ordenada en el mismo precepto, sin perjuicio de que el Encargado del Registro Civil imponga la multa correspondiente.
+Cuando el hijo no haya sido registrado y se deseare su reconocimiento por alguno de los padres, el interesado ocurrirá a la autoridad judicial competente y previos los requisitos establecidos en el artículo anterior, se concederá el reconocimiento y se hará el registro omitido en la forma ordenada en el mismo precepto, sin perjuicio de que el Encargado del Registro Civil imponga la multa correspondiente.
 
 ### CAPITULO IV. DE LAS ACTAS DE MATRIMONIO Y DIVORCIO
 
@@ -10553,9 +10559,9 @@ VI.- Fundar y mantener organismos coordinados, establecimientos públicos descen
 
 ## TITULO SEGUNDO
 
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1453.
 
@@ -10625,9 +10631,9 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1460.
 
@@ -10999,7 +11005,7 @@ VIII.- Las demás que les otorgue el presente título y las disposiciones legale
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11143,7 +11149,7 @@ En todo lo relativo a la estructura vial y sistema de transporte en el Estado, s
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11241,11 +11247,9 @@ También se considerarán ilegales la fusión, subdivisión, relotificación y f
 
 En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de Desarrollo Urbano podrá intervenir en coordinación con aquél en la administración de los fraccionamientos, subdivisiones, relotificaciones o fusiones o en las operaciones celebradas con estos motivos.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1515.
 
@@ -11285,9 +11289,9 @@ II.- A la introducción de los servicios públicos.
 
 Una vez determinados los jefes de familia beneficiados, la presidencia municipal otorgará los títulos de propiedad correspondientes, los que deberán inscribirse en el Registro Público de la Propiedad respectivo sin causar derechos al fisco del Estado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11331,9 +11335,15 @@ V.- La dotación de servicios públicos como: agua, drenaje, electricidad, recol
 
 Para la construcción de viviendas deberá mediar solicitud del interesado ante el ayuntamiento que satisfaga los requisitos previstos por este Título, el Código Municipal y demás disposiciones aplicables. Los fondos de vivienda y demás organismos e instituciones del sector público, al igual que los particulares están obligados al cumplimiento de las normas legales y reglamentarias que regulen esta materia.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+(REUBICADA, P.O. 5 DE FEBRERO DE 1977)
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+DECIMA PRIMERA PARTE
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1525.
 
@@ -11373,9 +11383,9 @@ Los propietarios y poseedores de los predios incluidos en los programas de mejor
 
 En el caso de que los propietarios o poseedores no cumplan con las obligaciones o convenios indicados por los dos artículos anteriores, el Ejecutivo del Estado podrá proceder a la expropiación por causa de utilidad pública.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS MUNICIPALES
+#### SECCION QUINTA. DE LA VIVIENDA
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11445,7 +11455,7 @@ Se consideran afectos al patrimonio cultural del Estado: los edificios, monument
 
 Para la conservación del patrimonio a que se refiere el artículo anterior, el plan estatal y los reglamentos de este Título, considerarán las medidas y disposiciones que impiden el menoscabo o la degradación de dicho patrimonio, estableciendo disposiciones que reduzcan el empleo de idiomas, giros y modismos extranjeros, y que excluyan la adopción de estilos arquitectónicos, deformantes de los valores tradicionales de la ciudad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO I. DE LAS COMPETENCIAS
 
@@ -11499,7 +11509,7 @@ Se atenderá el crecimiento de los centros de población mediante la determinaci
 
 A partir de la publicación de los planes de desarrollo urbano prevista en el artículo 1480, las áreas y predios en ellos comprendidos quedarán sujetos a las normas de la misma.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO II. DE LOS PROCEDIMIENTOS
 
@@ -11547,11 +11557,7 @@ Cuando el Gobernador del Estado haya hecho una declaratoria de conurbación, dis
 
 Las declaratorias de conurbación para que surtan sus efectos serán publicadas por una sola vez en el Periódico Oficial del Estado y en dos periódicos de mayor circulación en la localidad que corresponda, debiendo inscribirse en la Oficina del Registro Público de la Propiedad respectiva.
 
-(REUBICADA, P.O. 5 DE FEBRERO DE 1977)
-
-DECIMA PRIMERA PARTE
-
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 # LIBRO UNICO. DE LAS RESPONSABILIDADES Y SANCIONES
 
@@ -12636,3 +12642,9 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente d
 P.O. 26 DE NOVIEMBRE DE 1980.
 
 ARTICULO TRANSITORIO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de la Entidad.
+
+P.O. 30 DE MAYO DE 1981.
+
+PRIMERO.- Este Decreto entrará en vigor en toda la Entidad veinte días después de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Para los efectos del artículo 56-Bis de la Ley Orgánica del Poder Judicial del Estado, los Juzgados de Primera Instancia seguirán conociendo, hasta su conclusión, de las controversias del orden familiar conforme al procedimiento iniciado, siempre que en las mismas se haya practicado el emplazamiento al demandado o demandados. En caso contrario, remitirán los expedientes respectivos al Juez de lo Familiar que corresponda, para su tramitación conforme a las disposiciones del presente Decreto.
