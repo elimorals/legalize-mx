@@ -4,7 +4,7 @@ identifier: "FED-ley-general-del-deporte-16321"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-06-08"
-last_updated: "2000-06-08"
+last_updated: "2003-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16321&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-06-06"
 
 LEY GENERAL DEL DEPORTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY GENERAL DE CULTURA FISICA Y DEPORTE, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 24 DE FEBRERO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 8 de junio de 2000.
 
@@ -532,3 +534,35 @@ QUINTO.- Todos los procedimientos y recursos administrativos relacionados con la
 México, D.F., a 28 de abril de 2000.- Sen. Dionisio Pérez Jácome, Vicepresidente en funciones.- Dip. Francisco José Paoli Bolio, Presidente.- Sen. Raúl Juárez Valencia, Secretario.- Dip. Marta Laura Carranza Aguayo, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los seis días del mes de junio de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 24 DE FEBRERO DE 2003.
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley General del Deporte, publicada en el Diario Oficial de la Federación el ocho de junio de dos mil, así como, el Decreto de creación de la Comisión Nacional del Deporte publicado en el Diario Oficial de la Federación el trece de diciembre de mil novecientos ochenta y ocho y se derogan las demás disposiciones legales que se opongan a la presente Ley.
+
+Tercero. El Reglamento de la presente Ley, deberá expedirse dentro de un plazo no mayor a 180 días siguientes a la fecha en que ésta entre en vigor.
+
+Cuarto. En tanto se expiden las disposiciones reglamentarias de esta Ley, seguirán en vigor las que han regido hasta ahora, en lo que no la contravengan. Las referencias legales o reglamentarias a la Ley General del Deporte, se entienden hechas en lo aplicable a la presente Ley.
+
+Quinto. Todos los procedimientos y recursos administrativos relacionados con las materias de esta Ley, que se hubiesen iniciado bajo la vigencia de la Ley General del Deporte, se tramitarán y resolverán conforme a las disposiciones de la Ley que se abroga.
+
+Sexto. Las federaciones deportivas mexicanas que estén reconocidas y afiliadas a la CODEME que a la fecha de entrada en vigor de la presente Ley se encuentren debidamente constituidas conforme a las leyes mexicanas serán reconocidas automáticamente como Asociaciones Deportivas Nacionales.
+
+Las Federaciones a que se refiere el párrafo anterior deberán en un plazo no mayor de 120 días, acreditar que cumplen con lo dispuesto por el Capítulo II, del Título Segundo de la presente Ley.
+
+Igualmente, una vez publicado el Reglamento a que se refiere el artículo Tercero Transitorio, las federaciones deberán cumplir en el mismo término previsto en el párrafo anterior con los requisitos y trámites que para integrarse al SINADE se les requiera.
+
+Séptimo. Los bienes muebles e inmuebles, así como los recursos financieros con los que opera actualmente el órgano administrativo desconcentrado denominado Comisión Nacional del Deporte, con las autorizaciones que tramite la SEP ante las autoridades competentes, serán la aportación del Gobierno Federal para la constitución del organismo público descentralizado denominado Comisión Nacional de Cultura Física y Deporte.
+
+Los gastos que se generen, en su caso, con motivo de la transformación de órgano administrativo desconcentrado a organismo público descentralizado, se cubrirán con cargo a los recursos de que disponga el órgano desconcentrado Comisión Nacional del Deporte o a los recursos asignados en el presupuesto de la SEP.
+
+Octavo. El organismo público descentralizado Comisión Nacional de Cultura Física y Deporte se subrogará en los derechos y obligaciones que haya contraído el Gobierno Federal a través de la SEP, con motivo del ejercicio de las funciones del órgano desconcentrado Comisión Nacional del Deporte.
+
+Los derechos de los trabajadores serán respetados conforme a la Ley.
+
+Noveno. La Junta de Gobierno del organismo público descentralizado Comisión Nacional de Cultura Física y Deporte sesionará dentro de los 60 días siguientes a la entrada en vigor de esta Ley. En dicha sesión se deberá aprobar el estatuto orgánico del mismo.
+
+Décimo. Se exhorta al Ejecutivo Federal para que en lo conducente modifique los artículos 2o., inciso C, fracción I, y 47, fracción I, del Reglamento Interior de la SEP, correspondientes al órgano administrativo descentralizado Comisión Nacional del Deporte, publicado en el Diario Oficial de la Federación, el 23 de junio de 1999.
