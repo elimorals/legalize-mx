@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "2000-05-30"
+last_updated: "2000-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -548,6 +548,10 @@ XXXIII. Control Legislativo.
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1992)</small>
 
 En el trabajo de las Comisiones, podrán intervenir los Diputados que no formen parte de las mismas, quienes podrán participar únicamente con voz.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+Dentro de los siete días que sigan a la fecha en que sea recibida por la Comisión una iniciativa turnada por el Pleno, proveniente de Diputado o de Iniciativa Popular, el Presidente de la misma convocará cuando menos una vez y por escrito con acuse de recibo, al ponente o al representante común, según sea el caso, para que si lo consideran necesario, concurran a sesión de trabajo en la que se les escuche e interrogue sobre cuestiones relativas a su iniciativa.
 
 Además de las Comisiones citadas, el Congreso podrá designar otras, también de carácter permanente, mediante el acuerdo de las dos terceras partes de los integrantes de la Legislatura, que tendrán las facultades que expresamente les señale el acuerdo que las creó.
 
@@ -2074,3 +2078,7 @@ P.O. 30 DE MAYO DE 2000
 PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamientos del Estado, con el diario de debates, en el que consten las discusiones que hubiere provocado, para que con fundamento a lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
 
 SEGUNDO.- El presente decreto que contiene la reforma de los artículos 25 de la Constitución Política del Estado y 58 de la Ley Orgánica del Poder Legislativo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2000
+
+UNICO.- Este decreto entrará en vigor el 28 de noviembre del año 2000 previa su publicación en el Periódico Oficial "El Estado de Jalisco".
