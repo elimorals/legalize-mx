@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1979-12-31"
+last_updated: "1980-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MARZO DE 1980.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -777,11 +777,13 @@ e).- Huevo, en operaciones subsecuentes a las de primera mano;
 
 f).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 1980)</small>
 
-g).- Tortillas, masa, harina y pan, sean de maíz o trigo. En tratándose de harina de trigo sólo se gravarán operaciones de segunda o ulteriores manos;
+g).- Tortillas, masa, harina, pan, galletas y pastel, sean de maíz o trigo, así como nixtamal. En tratándose de harina de trigo sólo se gravarán operaciones de segunda o ulteriores manos;
 
-h).- Leche natural, condensada, evaporada, deshidratada o enlatada;
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 1980)</small>
+
+h).- Leche natural, pasteurizada, homogeneizada, condensada, evaporada, deshidratada, rehidratada, enlatada o en polvo;
 
 i).- Carbón vegetal;
 
@@ -795,9 +797,9 @@ l).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1977)
 
 ll).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 1980)</small>
 
-m).- Animales, siempre que no estén gravados con impuestos estatales sobre la producción, explotación o venta de primera mano, alimentos balanceados para éstos, incluyendo las materias primas necesarias para producirlos, y productos de medicina veterinaria;
+m).- Animales, siempre que no estén gravados con impuestos estatales sobre la producción, explotación o venta de primera mano;
 
 IV.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
@@ -811,7 +813,7 @@ Son ingresos gravados en los términos de la Fracción II del artículo 69 de é
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-I.- Los obtenidos por la maquila de harina o masa, de maíz o trigo y los de pasteurización de leche
+I.- Los obtenidos por la maquila de harina o masa, de maíz o trigo y los de pasteurización de leche.
 
 II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
@@ -1793,13 +1795,13 @@ V.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
 VI.- La transmisión de la propiedad de bienes inmuebles que se haga a sociedad mercantil, asociación o sociedad civil, así como en los casos de fusión de sociedades;
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 1980)</small>
 
-VII.- Dación en pago de bienes inmuebles;
+VII.- La adjudicación o dación en pago de bienes inmuebles por liquidación de una sociedad mercantil, asociación o sociedad civil;
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 1980)</small>
 
-VIII.- La donación de bienes muebles e inmuebles, salvo cuando el donativo no sea deducible para los fines del Impuesto sobre la Renta;
+VIII.- La donación de bienes muebles e inmuebles. En tratándose de bienes muebles, únicamente se gravará cuando el donativo no sea deducible para los fines del Impuesto sobre la Renta;
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -1808,6 +1810,14 @@ IX.- La cesión de derechos reales o personales, únicamente cuando se realicen 
 X.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
 
 XI.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
+
+> <small>(ADICIONADA, B.O. 31 DE MARZO DE 1980)</small>
+
+XII.- La adjudicación de bienes inmuebles en pago, y por remate a postor o fuera de subasta;
+
+> <small>(ADICIONADA, B.O. 31 DE MARZO DE 1980)</small>
+
+XIII.- El acto constitutivo de fideicomiso, cuando se afecte un bien inmueble o más de uno y la cesión, transmisión o aportación de derechos de fideicomitente o de fideicomisario, cuando en el fideicomiso el objeto del mismo sean bienes inmuebles.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -1825,9 +1835,9 @@ Son sujetos de este impuesto:
 
 I.- Las partes en la enajenación o promesa de enajenación de bienes;
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 1980)</small>
 
-II.- El acreedor en la dación en pago;
+II.- El adjudicatario en la adjudicación o dación en pago;
 
 III.- El adquirente, en la prescripción;
 
@@ -1837,7 +1847,13 @@ V.- El cesionario, en la cesión;
 
 VI.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
-VII.- El aportador en la aportación.
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 1980)</small>
+
+VII.- Quien transmita la propiedad en los casos de transmisión de bienes inmuebles;
+
+> <small>(ADICIONADA, B.O. 31 DE MARZO DE 1980)</small>
+
+VIII.- El fideicomitente y el fideicomisario, en la constitución del fideicomiso.
 
 ###### Artículo 187.
 
@@ -1902,6 +1918,14 @@ VI.- Cuando se trate de la trasmisión de derechos reales sobre inmuebles, disti
 VII.- Los contratos traslativos de dominio que realicen las instituciones de beneficencia privada, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, El Instituto Promotor de la Vivienda Popular en el Estado de Sonora, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado al Servicio de la Federación y el Instituto Nacional del Desarrollo de la Comunidad, siempre y cuando los bienes a que se refieran se apliquen efectivamente al cumplimiento de los fines propios de dichas instituciones; y
 
 VIII.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
+
+> <small>(ADICIONADA, B.O. 31 DE MARZO DE 1980)</small>
+
+IX.- La adjudicación de bienes por sucesión, así como por disolución de la Sociedad conyugal o legal;
+
+> <small>(ADICIONADA, B.O. 31 DE MARZO DE 1980)</small>
+
+X.- Los actos constitutivos de fideicomiso de administración, de garantía o testamentario.
 
 ###### Artículo 192.
 
@@ -2016,6 +2040,22 @@ Las quitas o remisiones de adeudos que comprendan la totalidad o parte de los in
 ###### Artículo 205.
 
 (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
+
+> <small>(ADICIONADO, B.O. 31 DE MARZO DE 1980)</small>
+
+###### Artículo 205 Bis.
+
+En los casos de adjudicación de bienes en el pago de créditos que incluyan ingresos por algunos de los conceptos a que se refiere este título, se observarán las reglas siguientes:
+
+I.- Si la adjudicación se hace al acreedor o a un tercero, previo los trámites judiciales respectivos, se considerará que aquél percibió la totalidad de los intereses vencidos hasta la fecha de la adjudicación y el impuesto se cobrará sobre el monto total de ellos, siempre que el valor del bien adjudicado alcance a cubrir la suerte principal y los réditos devengados;
+
+II.- Si en el caso de la fracción anterior el bien adjudicado sólo bastare para cubrir el importe principal del adeudo, no se causará el impuesto cuando el acreedor declare en el acto de la adjudicación no reservarse derechos contra el deudor.
+
+III.- Si en el caso de la fracción I el valor del bien adjudicado alcanza para cubrir el monto de la suerte principal y una parte de los intereses, sólo sobre el monto de éstos, que resulte cubierto, se causará el impuesto si el acreedor no se reserva ningunos derechos (sic) contra el deudor, pues si se lo reserva se causará también el impuesto sobre los intereses no cubiertos, cuando obtenga el pago de los mismos;
+
+IV.- Si en el caso de las fracciones II y III, el bien adjudicado no cubre el monto total de los intereses, conforme al valor que a los bienes se haya dado en la adjudicación, la Tesorería General del Estado tendrá facultad para mandar valuar dichos bienes, a fin de conocer el monto real de las percepciones obtenidas y, de acuerdo con ellas, hacer el cobro del impuesto correspondiente; y
+
+V.- Si la adjudicación al acreedor se hiciere por convenio, deberá considerarse en todo caso, que percibió la totalidad de los intereses, causándose el impuesto sobre los mismos.
 
 ###### Artículo 206.
 
@@ -2933,11 +2973,11 @@ III.- Lo señalado en la fracción III, a los Comités locales de Caminos Vecina
 
 IV.- Lo señalado en la fracción IV, a la Unión Ganadera Regional de Sonora.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 1980)</small>
 
 ###### Artículo 295.
 
-Para la realización del Programa de Carreteras Estatales que desarrollará el Gobierno del Estado, por cabeza de ganado que salga del predio o se sacrifique, $50, 00.
+Para la realización del Programa de Carreteras Estatales que desarrollará el Gobierno del Estado, por cabeza de ganado vacuno que se movilice fuera de su lugar de origen o se sacrifique dentro del Estado, la cantidad de $50.00, de acuerdo al Convenio celebrado por el Gobierno del Estado y la Unión Ganadera Regional de Sonora, que fenece el 12 de septiembre de 1985.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -3081,13 +3121,15 @@ Tratándose de abarrotes y supermercados
 
 pagarán de $1,000.00 a $10,000.00
 
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 1980)</small>
+
 XVI.- Por la expedición de licencias eventuales
 
-para la venta y consumo de bebidas de alto y
+para la venta y consumo de bebidas de alto y bajo
 
-bajo contenido alcohólico, se pagará previamente
+contenido alcohólico, se pagará por día,
 
-a su otorgamiento, de $200.00 a $10,000.00
+previamente a su otorgamiento de $200.00 a $10,000.00.
 
 ###### Artículo 303.
 
@@ -3213,7 +3255,7 @@ cuando se trate de estudiantes, sin adicionales $30.00
 
 ###### Artículo 310.
 
-Los derechos por estos servicios se cobrarán conforme a las siguientes cuotas:
+Los dereArtículo 310.- Los derechos por estos servicios se cobrarán conforme a las siguientes cuotas:
 
 1.- Por registro de documentos que mencionen un
 
@@ -3590,6 +3632,24 @@ de tarifas para vehículos concesionados 7,500.00
 14.- Otros de $1,000.00 a $10,000.00
 
 ### Capítulo Unico
+
+###### Artículo 321.
+
+Los derechos por los servicios que presta el Registro Público de la Propiedad y del Comercio se cobrarán conforme a las siguientes cuotas:
+
+1.- Por examen de todo título o documento,
+
+sea éste público o privado que se presente
+
+al Registro para su inscripción se efectúe ésta
+
+o no, por las primeras dos hojas se cobrarán $50.00
+
+Por lo que exceda de éstas, por cada una $10.00
+
+Sin que esta cuota sea mayor de $150.00
+
+> <small>(REFORMADO, B.O. 3 DE FEBRERO DE 1979)</small>
 
 ###### Artículo 321.
 
@@ -4128,3 +4188,7 @@ PRIMERO: Esta Ley entrará en vigor, el día 1o. de Enero de 1980, previa public
 SEGUNDO: A partir de la fecha en que entren en vigor las reformas, supresiones y adiciones a que esta Ley se refiere, quedan sin efecto las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a los preceptuados (sic) en dichos reformas o adiciones.
 
 TERCERO: Los impuestos, derechos, contribuciones causados conforme a las disposiciones vigentes con anterioridad a la fecha en que entre en vigor la presente Ley, deberán ser pagados en el monto, forma y plazos establecidos en dichas disposiciones.
+
+B.O. 31 DE MARZO DE 1980.
+
+UNICO.- Esta ley entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Estado.
