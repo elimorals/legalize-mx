@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2000-12-24"
+last_updated: "2003-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2003.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -487,11 +487,15 @@ XXVII. Proyectar las normas y, en su caso, celebrar los contratos o convenios re
 
 XXVIII. Los demás que le señalen las leyes y reglamentos vigentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 2003)</small>
+
 ###### ARTICULO 32.
 
-La Secretaría de Desarrollo Económico, es la dependencia responsable de dirigir la planeación, programación y evaluación de las actividades de la administración pública estatal, relacionadas con el fomento y desarrollo de las actividades empresariales en el Estado.
+La Secretaría de Desarrollo Económico, es la dependencia responsable de dirigir la planeación, programación y evaluación de las actividades de la administración pública estatal, relacionadas con el fomento y desarrollo de las actividades empresariales, turísticas y cinematográficas en el Estado.
 
-La Secretaría tiene como objetivo fundamental el fomento, la regulación y promoción del desarrollo industrial, minero, comercial y de servicios del Estado, a fin de generar empleos, incrementar la exportación de productos manufacturados, y elevar la competitividad de las empresas duranguenses. Le corresponde el despacho de los siguientes asuntos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 2003)</small>
+
+La Secretaría tiene como objeto fundamental el fomento, la regulación y promoción del desarrollo industrial, minero, comercial, turístico, cinematográfico y de servicios del Estado, a fin de generar empleos, incrementar la exportación de productos manufacturados y elevar la competitividad de las empresas duranguenses, le corresponde el despacho de los siguientes asuntos:
 
 I. Impulsar el desarrollo económico sostenido, sustentable, armónico y equilibrado de las diferentes regiones y las ramas productivas de la entidad;
 
@@ -1009,7 +1013,7 @@ VI. Dirección de Asuntos Jurídicos;
 
 VII. Comité de Planeación para el Desarrollo del Estado;
 
-VIII. Dirección de Turismo y Cinematografía;
+VIII. (DEROGADA, P.O. 30 DE OCTUBRE DE 2003)
 
 IX. Dirección de Comunicación Social;
 
@@ -1019,9 +1023,11 @@ XI. Jefatura de Ayudantes; y
 
 XII. Las demás que determine el Titular del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2003)</small>
+
 ###### ARTICULO 40.
 
-Los órganos adscritos a que se hace referencia en el artículo que antecede, tendrán las atribuciones que mediante acuerdo les asigne el Gobernador del Estado, a excepción de los artículos referentes al Comité de Planeación para el Desarrollo del Estado de la Dirección de Turismo y Cinematografía, de la presente ley;
+Los órganos adscritos a que se hace referencia en el artículo que antecede, tendrán las atribuciones o modificaciones que mediante acuerdo les asigne el Gobernador del Estado, quien podrá cambiarlos de adscripción, o suprimirlos, mediante el decreto correspondiente, que se publicará en el Periódico Oficial del Gobierno del Estado, a excepción de los artículos que se refieren al Comité de Planeación para el Desarrollo del Estado.
 
 ###### ARTICULO 41.
 
@@ -1209,39 +1215,7 @@ El patrimonio del Comité, se integrará con las aportaciones de recursos físic
 
 ###### ARTICULO 52.
 
-La Dirección de Turismo y Cinematografía vigilará el cumplimiento de las disposiciones legales contenidas en la Ley de Turismo y Cinematografía del Estado Libre y Soberano de Durango, procurando desde luego el mejor aprovechamiento de los recursos turísticos y cinematográficos del Estado, ya sea directamente u otorgando las concesiones necesarias para tal fin.
-
-Para el cumplimiento de sus objetivos, a la Dirección de Turismo y Cinematografía le corresponde el despacho de los siguientes asuntos:
-
-I. Impulsar el desarrollo turístico y el fomento de la industria audiovisual de forma sostenida, sustentable, armónico y equilibrado en las diferentes regiones de la Entidad;
-
-II. Desarrollar, realizar y evaluar, de acuerdo a los lineamientos del titular del Ejecutivo del Estado, las acciones de fomento al turismo y la industria audiovisual, en congruencia con las prioridades incluidas en el Plan Estatal de Desarrollo;
-
-III. Procurar para el Estado una mejor posición en el contexto nacional e internacional en cuanto a turismo se refiere, propiciando el fortalecimiento de las ventajas comparativas y competitivas de la Entidad;
-
-IV. Favorecer el desarrollo de infraestructura turística en la Entidad, a efecto de contar con mayores activos para la promoción del turismo, básicamente en áreas de potencial vocación;
-
-V. Con el propósito de conservar áreas de atractivo histórico cultural y turístico, colaborar con la Secretaria de Comunicaciones y Obras Publicas en la formulación del Plan Estatal de Desarrollo Urbano y los planes directores de Desarrollo Urbano de los municipios, procurando se respeten e incentiven las características físicas de sitios específicos de atracción turística;
-
-VI. Promover y fomentar la inversión de capital privado, para la creación y establecimiento de áreas susceptibles de promoción turística y proponer al titular del Ejecutivo del Estado, los reglamentos de operación, venta o donación de terrenos para esta actividad;
-
-VII. Promover la instalación de empresas turísticas y de prestadores de servicios relacionados con la actividad, entre inversionista (sic) nacionales y extranjeros, para apoyar el desarrollo del sector y la política estatal de creación de empleos;
-
-VIII. Promover y dar seguimiento a una cartera de proyectos de inversión en el sector turístico, y apoyar a las empresas que planteen los proyectos, con las gestiones de incentivos a que haya lugar, para la pronta ejecución y desarrollo de sus planes;
-
-IX. Concertar convenios de participación con los gobiernos Federal y Municipales, así como con particulares, organismos o instituciones que convengan al Estado, para la colaboración, asistencia técnica, promoción y desarrollo de infraestructuras del sector turístico, previo acuerdo del titular del Poder Ejecutivo del Estado;
-
-X. Representar al titular del Poder Ejecutivo del Estado en los comités técnicos de los fideicomisos del impuesto sobre hospedaje, y del fondo de promoción turística, así como dirigir, orientar, coordinar y controlar cualquier otro instrumento financiero que se constituya para fomentar la promoción y desarrollo del sector turístico, a través de los órganos administrativos correspondientes;
-
-XI. Participar en la planeación y programación de las obras de inversión, tendientes a promover la explotación racional de los recursos turísticos del Estado; así como formular, ejecutar y evaluar los proyectos productivos para el desarrollo integral de las comunidades con alto potencial turístico;
-
-XII. Servir como órgano de consulta y asesoría para el establecimiento de negociaciones de la rama turística, ya sea que su capital provenga del sector privado o se trate de ayuntamientos o sector social que lo solicite, apoyando en la planeación de proyectos productivos o elaboración de estudios para proyectos de inversión;
-
-XIII. Elaborar el material de promocion institucional y generar las campañas publicitarias, para difundirse personalmente o a través de los medios de comunicación, para destacar la información del estado y sus potencialidades para el turismo y el desarrollo de la industria audiovisual;
-
-XIV. Establecer sistemas de información turística que permitan visualizar de manera general indicadores en diversas áreas de la actividad turística. Específicamente, operara el Sistema de Información Turística Estatal ( S.I.T.E.);
-
-XV. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2003)
 
 ## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
@@ -1528,3 +1502,19 @@ POR TANTO MANDO SE IMPRIMA, PUBLIQUE, CIRCULE Y COMUNÍQUESE A QUIENES CORRESPON
 DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS CATORCE DIAS DEL MES DE DICIEMBRE DEL DOS MIL.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. ANGEL SERGIO GUERRERO MIER.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE MIGUEL CASTRO CARRILLO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE OCTUBRE DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor, tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Quedan sin efecto todas las disposiciones que se opongan al presente decreto.
+
+###### ARTICULO TERCERO.
+
+La Secretaría de Desarrollo Económico, en cuanto cobre vigencia este decreto, tomará las medidas necesarias para cumplimentarlo.
