@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-9735"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-18"
-last_updated: "1996-12-25"
+last_updated: "1998-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 18 de diciembre de 1993.
 
@@ -185,6 +185,18 @@ b).- Multas impuestas por las autoridades municipales.
 
 VII.- Financiamientos que son los créditos que obtienen los Municipios en los términos de la legislación vigente.
 
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 1998)</small>
+
+VIII.- Aportaciones y Reasignaciones de Recursos Federales.
+
+a).- Aportaciones Federales que les corresponden conforme a lo dispuesto en la Ley Federal de Coordinación Fiscal.
+
+b).- Reasignaciones del gasto derivadas del Presupuesto de Egresos de la Federación que se determinen por convenios o acuerdos.
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 1998)</small>
+
+IX.- Otros ingresos que conforme a las disposiciones legales, convenios y acuerdos les correspondan.
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 12.
@@ -226,3 +238,9 @@ Para los efectos de lo dispuesto en el artículo 145 primer párrafo de la Ley d
 ###### ARTICULO TERCERO.
 
 Para los efectos de lo dispuesto en el inciso a) de la fracción I del artículo 146 de la Ley de Hacienda del Estado, los sujetos que realicen actividades objeto del impuesto, podrán solicitar su inscripción a más tardar el día 17 de marzo de 1997, sin la aplicación de sanciones.
+
+P.O. 21 DE NOVIEMBRE DE 1998
+
+###### Artículo UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
