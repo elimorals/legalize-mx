@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-contaduria-general-del-congreso-del-4564"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "1999-12-25"
+last_updated: "2000-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DE LA CONTADURIA GENERAL DEL CONGRESO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2000.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -49,9 +49,11 @@ LEY ORGANICA DE LA CONTADURIA GENERAL DEL CONGRESO DEL ESTADO DE CHIHUAHUA
 
 Esta ley establece las bases de organización y funcionamiento de la Contaduría General, como órgano técnico dependiente y auxiliar del Congreso del Estado, respecto de las facultades que le confiere la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 2.
 
-La Contaduría General estará bajo la dependencia del Congreso del Estado, a través de la Comisión de Vigilancia.
+La Contaduría General del Congreso es el órgano encargado de realizar el examen técnico contable de la Cuenta Pública del Gobierno del Estado y sus Municipios. La Contaduría General depende del Congreso del Estado a través de la Comisión de Vigilancia.
 
 ###### ARTICULO 3.
 
@@ -103,7 +105,9 @@ VI.- Practicar auditorias, visitas e inspecciones a fin de comprobar que la proy
 
 VII.- Solicitar de las empresas o profesionistas que auditen o asesoren en cualquier área a las entidades señaladas en el presente ordenamiento, copia de los informes, dictámenes, auditorías o asesorías por ellos realizados, así como las aclaraciones que se estimen pertinentes.
 
-VIII.- Coordinarse con los ayuntamientos a fin de uniformar las normas, procedimientos, métodos y sistemas de contabilidad y de archivo de los libros, documentos, sistemas y registros computarizados, justificativos y comprobatorios del ingreso, gasto y situación patrimonial.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2000)</small>
+
+VIII.- Coordinarse con las entidades que se mencionan en el artículo 3 de este ordenamiento a fin de uniformar las normas, procedimientos, métodos y sistemas de contabilidad y de archivo de los libros, documentos, sistemas y registros computarizados, justificativos y comprobatorios del ingreso, gasto y situación patrimonial.
 
 IX.- Solicitar datos, informes o documentos de los servidores públicos, de particulares o empresas privadas o públicas que de alguna forma hayan participado en las operaciones que se revisan, a fin de hacer las confrontaciones necesarias que conduzcan al esclarecimiento de los hechos.
 
@@ -157,39 +161,65 @@ V.- No prestar servicios profesionales a las entidades de la Administración Pú
 
 VI.- No ser ministro de culto religioso alguno.
 
-> <small>(F. DE E., P.O. 9 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 10.
 
-El Contador General tendrá las siguientes facultades:
+El Contador General del Congreso y el resto del personal adscrito a la Contaduría General, sustentarán su actuación atendiendo criterios de profesionalismo, discrecionalidad eficiencia, imparcialidad y honradez.
+
+Son facultades del Contador General, las siguientes:
+
+> <small>(F. DE E., P.O. 9 DE AGOSTO DE 1995)</small>
 
 I.- Representar a la Contaduría General del Congreso ante toda clase de autoridades, entidades, personas físicas o morales; y ejecutar las atribuciones que esta ley y demás disposiciones le encomienden a la Contaduría General;
 
+> <small>(F. DE E., P.O. 9 DE AGOSTO DE 1995)</small>
+
 II.- Elaborar el anteproyecto de presupuesto anual de la Contaduría General, el cual será remitido a la Oficialía Mayor;
+
+> <small>(F. DE E., P.O. 9 DE AGOSTO DE 1995)</small>
 
 III.- Ejercer el presupuesto de la Contaduría General y dar cuenta comprobada de su aplicación, dentro de los quince primeros días del mes siguiente al que corresponda su ejercicio, a la Oficialía Mayor;
 
+> <small>(F. DE E., P.O. 9 DE AGOSTO DE 1995)</small>
+
 IV.- Formular y ejecutar los programas de trabajo de la Contaduría General;
+
+> <small>(F. DE E., P.O. 9 DE AGOSTO DE 1995)</small>
 
 V.- Formular los pliegos de observaciones que procedan;
 
+> <small>(F. DE E., P.O. 9 DE AGOSTO DE 1995)</small>
+
 VI.- Fijar las normas a las que deberán sujetarse las visitas, inspecciones, auditorías o revisiones;
+
+> <small>(F. DE E., P.O. 9 DE AGOSTO DE 1995)</small>
 
 VII.- Nombrar y remover al personal de la Contaduría General, y expedir las credenciales de identificación del mismo, las que serán signadas por el Presidente del Congreso;
 
+> <small>(F. DE E., P.O. 9 DE AGOSTO DE 1995)</small>
+
 VIII.- Expedir y certificar las copias de documentos que obren en los archivos de la Contaduría General, previa solicitud fundada y motivada que por escrito presente la autoridad;
+
+> <small>(F. DE E., P.O. 9 DE AGOSTO DE 1995)</small>
 
 IX.- Recibir escritos en que se le den a conocer hechos que pudieran implicar irregularidades en el manejo de fondos públicos, y hacerlo del conocimiento de la Comisión de Vigilancia;
 
+> <small>(F. DE E., P.O. 9 DE AGOSTO DE 1995)</small>
+
 X.- Promover el fincamiento de las responsabilidades a que aluden los artículos 19 y 20 de este ordenamiento;
+
+> <small>(F. DE E., P.O. 9 DE AGOSTO DE 1995)</small>
 
 XI.- Las demás que deriven de esta ley, y de otros ordenamientos aplicables.
 
 ### CAPITULO CUARTO. DE LAS CUENTAS PUBLICAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 11.
 
-La Cuenta Pública es el documento integral, mediante el cual el Gobierno del Estado y los Ayuntamientos, tienen la obligación constitucional de someter a la consideración del Congreso del Estado, los resultados de la actividad financiera desarrollada en forma trimestral y anual para el Gobierno del Estado y anualmente para los Ayuntamientos; conformándose la misma por las cuentas de Ingresos, Egresos, Patrimonio y Deuda Pública, mismas que se integran por la siguiente documentación:
+La Cuenta Pública es el documento integral, mediante el cual el Ejecutivo Estatal y los Ayuntamientos, tienen la obligación constitucional de someter a la consideración del Congreso del Estado, los resultados de la actividad financiera desarrollada en forma trimestral y anual para el Gobierno del Estado y anualmente para los Ayuntamientos; conformándose la misma por las cuentas de Ingresos, Egresos, Patrimonio y Deuda Pública, mismas que se integran por la siguiente documentación:
 
 I.- Los estados contables y financieros y demás información que muestre la incidencia de las operaciones en las inversiones, obligaciones y en su patrimonio, siendo los siguientes:
 
@@ -340,3 +370,7 @@ P.O. 25 DE DICIEMBRE DE 1999.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE NOVIEMBRE DE 2000.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
