@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1981-12-30"
+last_updated: "1982-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1982.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -135,81 +135,79 @@ TASA MENORES.- Los causantes menores pagarán impuestos, a cuota fija, de $75.00
 
 TASA MAYORES.- Los causantes mayores pagarán el impuesto, de acuerdo con la siguiente tarifa:
 
-INGRESOS TOTALES IMPUESTO FIJO MENSUAL
+INGRESOS TOTALES ANUALES: IMPUESTO FIJO MENSUAL A PAGAR:
 
-ANUALES: A PAGAR:
+1.- De $ 150,000.01 a $ 250,000.00 $ 330.00
 
-1.- De $150,000.01 a $250,000.00 $330.00
+2.- " $ 250,000.01 " " 390,000.00 $ 360.00
 
-2.- " $250,000.01 " "390,000.00 $360.00
+3.- " $ 390,000.01 " " 420,000.00 $ 395.00
 
-3.- " $390,000.01 " "420,000.00 $395.00
+4.- " $ 420,000.01 " " 520,000.00 $ 430.00
 
-4.- " $420,000.01 " "520,000.00 $430.00
+5.- " $ 520.000.01 " " 630,000.00 $ 475.00
 
-5.- " $520.000.01 " "630,000.00 $475.00
+6.- " $ 630.000.01 " " 760,000.00 $ 520.00
 
-6.- " $630.000.01 " "760,000.00 $520.00
+7.- " $ 760.000.01 " " 930.000.00 $ 570.00
 
-7.- " $760.000.01 " "930.000.00 $570.00
+8.- " $ 930,000.01 " " 1'100,000.00 $ 620.00
 
-8.- " $930,000.01 " "1'100,000.00 $620.00
+9.- " $ 1'100,000.01 " " 1'300,000.00 $ 660.00
 
-9.- " $1'100,000.01 " "1'300,000.00 $660.00
+10.- " $ 1'300,000.01 " " 1 '600,000.00 $ 690.00
 
-10.- " $1'300,000.01 " "1 '600,000.00 $690.00
+11.- " $ 1'600,000.01 " " 2'000,000.00 $ 745.00
 
-11.- " $1'600,000.01 " "2'000,000.00 $745.00
+12.- " $ 2'000,000.01 " " 2'400,000.00 $ 800.00
 
-12.- " $2'000,000.01 " "2'400,000.00 $800.00
+13.- " $ 2'400,000.01 " " 2'900,000.00 $ 870.00
 
-13.- " $2'400,000.01 " "2'900,000.00 $870.00
+14.- " $ 2'900,000.01 " " 3'500,000.00 $ 935.00
 
-14.- " $2'900,000.01 " "3'500,000.00 $935.00
+15.- " $ 3'500,000.01 " " 4'300,000.00 $ 1,005.00
 
-15.- " $3'500,000.01 " "4'300,000.00 $1,005.00
+16.- " $ 4'300,000.01 " " 5'200,000.00 $ 1,080.00
 
-16.- " $4'300,000.01 " "5'200,000.00 $1,080.00
+17.- " $ 5'200,000.01 " " 6'300,000.00 $ 1,170.00
 
-17.- " $5'200,000.01 " "6'300,000.00 $1,170.00
+18.- " $ 6'300,000.01 " " 7'500,000.00 $ 1,260.00
 
-18.- " $6'300,000.01 " "7'500,000.00 $1,260.00
+19.- " $ 7'500,000.01 " " 9'200,000.00 $ 1,375.00
 
-19.- " $7'500,000.01 " "9'200,000.00 $1,375.00
+20.- " $ 9'200,000.01 " " 11'000,000.00 $ 1,510.00
 
-20.- " $9'200,000.01 " "11'000,000.00 $1,510.00
+21.- " $ 11'000,000.01 " " 13'000,000.00 $ 1,650.00
 
-21.- " $11'000,000.01 " "13'000,000.00 $1,650.00
+22.- " $ 13'000,000.01 " " 16'000,000.00 $ 1,855.00
 
-22.- " $13'000,000.01 " "16'000,000.00 $1,855.00
+23.- " $ 16'000,000.01 " " 20'000,000.00 $ 2,060.00
 
-23.- " $16'000,000.01 " "20'000,000.00 $2,060.00
+24.- " $ 20'000,000.01 " " 24'000,000.00 $ 2,475.00
 
-24.- " $20'000,000.01 " "24'000,000.00 $2,475.00
+25.- " $ 24'000,000.01 " " 30'000,000.00 $ 2,925.00
 
-25.- " $24'000,000.01 " "30'000,000.00 $2,925.00
+26.- " $ 30'000,000.01 " " 38'000,000.00 $ 3,300.00
 
-26.- " $30'000,000.01 " "38'000,000.00 $3,300.00
+27.- " $ 38'000,000.01 " " 50'000,000.00 $ 3,900.00
 
-27.- " $38'000,000.01 " "50'000,000.00 $3,900.00
+28.- " $ 50'000,000.01 " " 60'000,000.00 $ 4,500.00
 
-28.- " $50'000,000.01 " "60'000,000.00 $4,500.00
+29.- " $ 60'000,000.01 " " 75'000,000.00 $ 5,100.00
 
-29.- " $60'000,000.01 " "75'000,000.00 $5,100.00
+30.- " $ 75'000,000.01 " " 100'000,000.00 $ 6,300.00
 
-30.- " $75'000,000.01 " "100'000,000.00 $6,300.00
+31.- " $ 100'000,000.01 " " 145'000,000.00 $ 8,700.00
 
-31.- " $100'000,000.01 " "145'000,000.00 $8,700.00
+32.- " $ 145'000,000.01 " " 195'000,000.00 $ 11,250.00
 
-32.- " $145'000,000.01 " "195'000,000.00 $11,250.00
+33.- " $ 195'000,000.01 " " 300'000,000.00 $ 17,250.00
 
-33.- " $195'000,000.01 " "300'000,000.00 $17,250.00
+34.- " $ 300,000,000.01 " " 450'000,000.00 $ 24,750.00
 
-34.- " $300,000,000.01 " "450'000,000.00 $24,750.00
+35.- " $ 450,000,000.01 " " 675'000,000.00 $ 30,750.00
 
-35.- " $450,000,000.01 " "675'000,000.00 $30,750.00
-
-36.- " $675'000,000.01 o más $36,000.00
+36.- " $ 675'000,000.01 o más $ 36,000.00
 
 La base, para aplicar la tabla anterior, será el ingreso total obtenido por los causantes en el año inmediato anterior. Para este efecto, los causantes deberán presentar, en el mes de enero de cada año, manifestación anual de ingresos en las formas aprobadas por las Tesorerías Municipales, acompañando original y copia fotostática de la tarjeta-pago del Impuesto Federal sobre Ingresos Mercantiles.
 
@@ -475,7 +473,9 @@ XII.- En las adquisiciones de construcciones realizadas por promotores de vivien
 
 XIII.- En las adquisiciones que se realicen por causa de muerte.
 
-XIV.- En las donaciones que se hagan entre ascendientes y descendientes en línea recta.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+
+XIV.- En las donaciones que se hagan entre ascendientes y descendientes en línea recta, así como en las que se hagan entre el adoptante y el adoptado, entre sus respectivos ascendientes y descendientes en línea recta, y entre éstos y aquéllos.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -483,7 +483,9 @@ XIV.- En las donaciones que se hagan entre ascendientes y descendientes en líne
 
 Para efectos de este impuesto se entiende por adquisición, la que se derive de:
 
-I.- Todo acto por el que se trasmita la propiedad, incluyendo la donación que no se haga entre ascendientes y descendientes en línea recta y la aportación a toda clase de asociaciones o sociedades.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+
+I.- Todo acto por el que se trasmita la propiedad, incluyendo la donación que no se haga en los términos del Artículo 28 Bis I Fracción XIV, y la aportación a toda clase de asociaciones y sociedades.
 
 II.- La compra–venta en la que el vendedor se reserve la propiedad, aún cuando la transferencia de ésta opere con posterioridad.
 
@@ -875,29 +877,29 @@ La Tesorería Municipal formulará y notificará oportunamente al causante, la l
 
 RASTRO.- En los Municipios de Monterrey, Allende, Guadalupe, Apodaca, Cadereyta, Escobedo, Garza García, Linares, Montemorelos, Sabinas Hidalgo, Santa Catarina, San Nicolás de los Garza y Santiago, en materia de rastro, se aplicarán las cuotas siguientes, incluyendo servicios de corrales, uso de maquinaria, edificios y refrigeración:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-I.- Por cabeza de ganado mayor, $100.00
+I.- Por cabeza de ganado mayor $150.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-II.- Por cabeza de ganado porcino, $60.00
+II.- Por cabeza de ganado porcino. $80.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-III.- Por cabeza de ganado ovicaprino, $10.00
+III.- Por cabeza de ganado ovicaprino. $15.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-IV.- Por cabrito, $8.00
+IV.- Por cabrito. $10.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-V.- Por ave, con excepción de guajolotes, $2.00
+V.- Por ave, con excepción de guajolotes. $3.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-VI.- Por guajolote, $6.00
+VI.- Por guajolote. $8.00
 
 En los demás Municipios del Estado se pagará el 50% (cincuenta por ciento) de las cuotas anteriores.
 
@@ -905,23 +907,41 @@ En los demás Municipios del Estado se pagará el 50% (cincuenta por ciento) de 
 
 INSPECCION SANITARIA.- Por servicios prestados por inspección sanitaria y resello de carnes frescas o refrigeradas, de ganado o aves:
 
-I.- Ganado mayor por canal, $25.00.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-II.- Ganado porcino por canal, $15.00.
+I.- Ganado mayor por canal. $50.00
 
-III.- Ganado ovi-caprino por canal, $8.00.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-IV.- Cabrito, cada uno, $5.00
+II.- Ganado porcino por canal. $30.00
 
-V.- Aves, cada una, $1.00.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-VI.- Guajolotes, cada uno, $5.00.
+III.- Ganado ovicaprino por canal. $15.00
 
-VII.- Cabeza de res o cerdo, $5.00.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-VIII.- Asadura: $2.00 por pieza.
+IV.- Cabrito, por cada uno. $10.00
 
-IX.- Menudo: $2.00 por pieza.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+
+V.- Aves, cada una. $2.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+
+VI.- Guajolotes, cada uno. $10.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+
+VII.- Cabeza de res o cerdo. $10.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+
+VIII.- Asadura, por pieza. $3.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+
+IX.- Menudo, por pieza. $3.00
 
 Cuando se trate de animales incompletos, se causarán los derechos que establece este Artículo si la carne que se presenta corresponde a más de 50% del animal, si es menor se cobrará el 50% de la cuota.
 
@@ -935,59 +955,59 @@ Servicios Prestados por las oficinas de Obras Públicas o Departamentos competen
 
 I.- Alineamiento de lotes, que no excedan de 10 -diez- metros de frente a la vía pública, en terrenos ubicados en las cabeceras de los Municipios, se pagarán:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-a) En el perímetro urbano del primer cuadro, $250.00
+a) En el perímetro urbano del primer cuadro. $300.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-b) En zonas industriales, $ 300.00
+b) En zonas industriales. $350.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-c) En zonas residenciales de primera, $250.00
+c) En zonas residenciales de Primera. $300.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-d) En zonas residenciales de segunda, $150.00
+d) En zonas residenciales de Segunda. $200.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-e) En zonas residenciales de tercera, $120.00
+e) En zonas residenciales de Tercera. $150.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-f) En zonas residenciales de cuarta, $70.00
+f) En zonas residenciales de Cuarta. $100.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-El excedente de 10–diez metros, se pagarán a razón de $8.00 metro lineal. La categoría de las zonas residenciales será designada por la Oficina competente, para nuevos fraccionamientos; quedando a juicio del Departamento competente la clasificación de las zonas residenciales que no hayan sido clasificadas.
+El excedente de 10-diez metros, se pagará a razón de $10.00 metro lineal. La categoría de las zonas residenciales será designada por la Oficina competente, para nuevos fraccionamientos; quedando a juicio del Departamento competente la clasificación de las zonas residenciales que no hayan sido clasificadas.
 
 Los límites del primer cuadro serán los mismos que señala el Reglamento de Tránsito en vigor.
 
 II.- Autorización de demoliciones de fincas, el metro cuadrado de cada una de sus plantas:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-TIPO ´´A´´ construcciones con estructuras de concreto $8.00 metro.
+TIPO ''A'' construcciones con estructuras de concreto $10.00 metro.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-TIPO ´´B´´ Construcciones con estructuras de acero, madera y techo de lámina o madera y construcciones con techos de terrado, $ 5.00 metro.
+TIPO ''B'' construcciones con estructuras de acero, madera y techo de lámina o madera y construcciones con techos de terrado, $8.00 metro.
 
 III.- Inspecciones y aprobaciones de planos de construcción se cobrará por cada metro cuadrado, en cada una de sus plantas:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-a) PRIMERA CATEGORIA:- Comprende edificios destinados a hoteles, salas de reunión, oficinas, negocios comerciales y residencias que tengan de dos o más de las siguientes características. Estructura de concreto reforzado o de acero, muros de ladrillo o similar, lambrín de azulejo, muros interiores con pintura o recubrimiento, pisos de granito, o de mejor calidad y preparación para clima artificial, $ 15.00 metro cuadrado.
+a) PRIMERA CATEGORIA:- Comprende edificios destinados a hoteles, salas de reunión, oficinas, negocios comerciales y residencias que tengan de dos o más de las siguientes características. Estructura de concreto reforzado o de acero, muros de ladrillo o similar, lambrín de azulejo, muros interiores con pintura o recubrimiento, pisos de granito o de mejor calidad y preparación para clima artificial, $20.00 metro cuadrado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-b) SEGUNDA CATEGORIA:- comprende construcciones comerciales o casas habitación, con muros de mampostería, pisos de mosaico de pasta de granito, estucado interior, así como construcciones industriales o bodegas con estructuras de concreto: $10.00 el metro cuadrado.
+b) SEGUNDA CATEGORIA:- Comprende construcciones comerciales o casas-habitación, con muros de mampostería, pisos de mosaico de pasta de granito, estucado interior, así como construcciones industriales o bodegas con estructuras de concreto, $15.00 el metro cuadrado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-c) TERCERA CATEGORIA:- Comprende casa-habitación, edificios o conjuntos multifamiliares, considerados dentro de la categoría denominada de interés social, así como los edificios industriales, comerciales y bodegas con estructura de acero o madera y techo de lámina, igualmente las construcciones con cubierta de concreto tipo cascarón, $8.00 el metro cuadrado.
+c) TERCERA CATEGORIA:- Comprende casa-habitación, edificios o conjuntos multifamiliares, considerados dentro de la categoría denominada de interés social, así como los edificios industriales, comerciales y bodegas con estructura de acero o madera y techo de lámina, igualmente las construcciones con cubierta de concreto tipo cascarón $10.00 el metro cuadrado.
 
 d) CUARTA CATEGORIA:- Exenta, que comprende: construcciones de viviendas o cobertizos de madera de tipo provisional.
 
@@ -1023,23 +1043,23 @@ IV.- Quedan exentos de los Derechos señalados en el Artículo 52 de esta Ley, l
 
 Por registro de nuevos fraccionamientos que apruebe el Gobierno del Estado, se cubrirán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-I.- Por registro de planos de lotificación, por lote $60.00.
+I.- Por registro de planos de lotificación, por lote $80.00.
 
 II.- Por construcción de fraccionamientos:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-a) Fraccionamientos de primera categoría, por metro cuadrado del predio vendible, $5.00.
+a) Fraccionamientos de primera categoría, por metro cuadrado del predio vendible, $6.00.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-b) Fraccionamiento de segunda categoría, o sea aquellos cuya finalidad sea la construcción de viviendas de interés social de acuerdo con las normas que establece la Ley de Instituciones de Crédito y Organizaciones Auxiliares y la Comisión Nacional Bancaria, mediante programas de vivienda que realicen organismos oficiales o particulares, por metro cuadrado de predio vendible, $2.00
+b) Fraccionamiento de segunda categoría, o sea aquellos cuya finalidad sea la construcción de viviendas de interés social de acuerdo con las normas que establece la Ley de Instituciones de Crédito y Organizaciones Auxiliares y la Comisión Nacional Bancaria, mediante programas de vivienda que realicen organismos oficiales o particulares, por metro cuadrado de predio vendible, $2.50.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-c) Fraccionamientos de tercera categoría por metro cuadrado del predio vendible, $1.00
+c) Fraccionamientos de tercera categoría por metro cuadrado del predio vendible, $1.50.
 
 III.- Ceder el 15% de la superficie urbanizada o fraccionada al municipio para escuelas parques u otros usos de interés social, sin que se pierdan las finalidades recreativas o educativas perseguidas, cuya ubicación se determinará por la autoridad competente del Gobierno del Estado. En dicha superficie no se computará la asignación a calles.
 
@@ -1053,19 +1073,19 @@ b) Autorizar que la cesión del 15% de la superficie urbanizada o fraccionada, s
 
 Por registro de nuevos fraccionamientos de inmuebles para cementerios, que apruebe el organismo estatal competente, se cubrirán al Municipio los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-I.- Por aprobación de planos de lotificación, por lote, $40.00.
+I.- Por aprobación de planos de lotificación, por lote, $50.00.
 
 II.- Por construcción.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-a) Cementerios de primera categoría, por metro cuadrado del predio vendible, $3.00
+a) Cementerios de primera categoría, por metro cuadrado del predio vendible, $3.50.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-b) Cementerios de segunda categoría, por metro cuadrado del predio vendible, $1.00
+b) Cementerios de segunda categoría, por metro cuadrado del predio vendible, $1.50.
 
 III.- Ceder al Municipio el 15% de la superficie destinada a reposos, jardines, lagos, y andadores, excepto calles, en terrenos urbanizados que puedan destinarse a escuelas, jardines u otros usos de interés social dentro del perímetro del Municipio, cuya ubicación se determinará por la Autoridad Estatal competente.
 
@@ -1081,17 +1101,27 @@ A solicitud del fraccionador, la Autoridad competente del Estado, oyendo la opin
 
 Por expedición de certificados, autorizaciones, constancias o registros:
 
-I.- Por registro de profesionales como peritos responsables, $3,000.00.
+I.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1982)
 
-II.- Por expedición de certificado, $250.00 por cada uno, con excepción de los relacionados con la educación.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-III.- Por expedición de certificados sobre la situación fiscal de causantes inscritos o que hayan estado registrados en la Tesorería Municipal, cuando la solicite el interesado, de $50.00 a $250.00.
+II.- Por expedición de certificado, $300.00 por cada uno con excepción de los relacionados con la educación.
 
-IV.- Por registro de plomeros, $100.00.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-V.- Por autorización de libros, $1.00 por hoja.
+III.- Por expedición de certificados sobre la situación fiscal de causantes inscritos o que hayan estado registrados en la Tesorería Municipal, cuando la solicite el interesado, de $75.00 a $300.00.
 
-VI.- Por otras autorizaciones y registros, de $100.00 a $500.00.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+
+IV.- Por registro de plomeros, $150.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+
+V.- Por autorización de libros, $2.00 por hoja.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+
+VI.- Por otras autorizaciones y registros, de $150.00 a $600.00.
 
 ### CAPITULO VII. POR REVISION, INSPECCION Y SERVICIOS
 
@@ -1101,49 +1131,49 @@ VI.- Por otras autorizaciones y registros, de $100.00 a $500.00.
 
 Por inscripción al inicio de las actividades que se señalan:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística, de $4,000.00 a $20,000.00
+I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística, de $5,000.00 a $25,000.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-II.- Casas de asignación, de citas, prostíbulos, hoteles de paso y establecimientos similares, de $8,000.00 a $40.000.00
+II.- Casa de asignación, de citas, prostíbulos, hoteles de paso y establecimientos similares, de $10,000.00 a $50,000.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-III.- Establecimientos en que se vendan vinos de mesa y bebidas alcohólicas en botella cerrada, incluyendo mayoristas, de $750.00 a $3,500.00
+III.- Establecimientos en que se vendan vinos de mesa y bebidas alcohólicas en botella cerrada, incluyendo mayoristas, de $1,000.00 a $4,000.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-IV.- Cantinas, bares, restaurantes-bares y establecimientos similares, de $1,500.00 a $6,500.00
+IV.- Cantinas, bares, restaurantes-bares y establecimientos similares, de $2,000.00 a $8,000.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-V.- Carnicerías, pescaderías, expendios de mariscos, aves y otros animales, destinados al consumo humano, de $75.00 a $650.00
+V.- Carnicerías, pescaderías, expendios de mariscos, aves y otros animales, destinados al consumo humano, de $100.00 a $750.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-VI.- Molinos de Nixtamal, de $50.00 a $130.00
+VI.- Molinos de nixtamal, de $50.00 a $150.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-VII.- Tortillerías, de $80.00 a $260.00
+VII.- Tortillerías, de $100.00 a $300.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-VIII.- Peluquerías y salones de belleza, de $30.00 a $650.00
+VIII.- Peluquerías y salones de belleza, de $50.00 a $700.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-IX.- Salas de Cine, de $650.00 a $1,300.00.
+IX.- Salas de cine, de $800.00 a $1,500.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-X.- Terrazas de cine, de $130.00 a $650.00
+X.- Terrazas de cine de $150.00 a $750.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-XI.- Radiolas, sinfonolas y tocadiscos, $350.00 por unidad.
+XI.- Radiolas, sinfonolas y tocadiscos, $400.00 por unidad.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
 
@@ -1151,49 +1181,49 @@ XI.- Radiolas, sinfonolas y tocadiscos, $350.00 por unidad.
 
 Por refrendo anual de la licencia, autorización, permiso o concesión, se cobrarán:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística, de $3,000.00 a $15,000.00
+I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística, de $4,000.00 a $20,000.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-II.- Casas de asignación, de citas, prostíbulos, hoteles de paso y establecimientos similares, de $6,000.00 a $30,000.00
+II.- Casas de asignación, de citas, prostíbulos, hoteles de paso y establecimientos similares, de $7500,00 a $40,000.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-III.- Cantinas, bares, restaurantes-bares y establecimientos similares, de $1,000.00 a $5,000.00
+III.- Cantinas, bares, restaurantes-bares y establecimientos similares, de $2,000.00 a $8,000.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-IV.- Establecimientos en que se vendan vinos de mesa y bebidas alcohólicas en botella cerrada, incluyendo mayoristas, de $750.00 a $3,000.00
+IV.- Establecimientos en que se vendan vinos de mesa y bebidas alcohólicas en botella cerrada, incluyendo mayoristas, de $1,000.00 a $4,000.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-V.- Carnicerías, pescaderías, expendios de mariscos, aves o cabritos, de $35.00 a $400.00
+V.- Carnicerías, pescaderías, expendios de mariscos, aves o cabritos, de $50.00 a $500.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-VI.- Molinos de nixtamal, de $50.00 a $350.00
+VI.- Molinos de nixtamal, de $50.00 a $400.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-VII.- Tortillerías, de $25.00 a $100.00
+VII.- Tortillerías, de $50.00 a $200.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-VIII.- Peluquerías y Salones de Belleza, de $50.00 a $350.00
+VIII.- Peluquerías y salones de belleza, de $100.00 a $500.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-IX.- Salas de Cine, de $1,000.00 a $3,000.00
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
-
-X.- Terrazas de cine, de $400.00 a $1,000.00
+IX.- Salas de cine, de $1,500.00 a $4,000.00.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-XI.- Radiolas, sinfonolas y tocadiscos, $300.00 por unidad.
+X.- Terrazas de cine, de $500.00 a $1,500.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+XI.- Radiolas, sinfonolas y tocadiscos, de $350.00 por unidad.
 
 ### CAPITULO VIII. POR EXPEDICION DE LICENCIAS
 
@@ -1235,27 +1265,27 @@ Por revisión, inspección y servicios, que se indican a continuación, se fijan
 
 I.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1980)
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-II.- Por revisión y trámite de documentos correspondientes a la Alta o Baja de vehículos de motor, se cubrirá un derecho de $70.00
+II.- Por revisión y trámite de documentos correspondientes a la Alta o Baja de vehículos de motor, se cubrirá un derecho de $90.00.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-III.- Por servicios de los Departamento de Tránsito y Médico Municipales, para la expedición de licencias de manejo $130.00 por bienio.
+III.- Por servicios de los Departamentos de Tránsito y Médico Municipales, para la expedición de licencias de manejo $150.00 por bienio.
 
 Si el servicio se presta al primer año del bienio, se pagará el bienio completo; si la expedición se hace el segundo año, se pagará únicamente el 50% de la cuota.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-IV.- Por inscripciones que previene el Reglamento de Previsión y Seguridad Social, las cuotas serán fijadas por el Departamento de Obras Públicas Municipales, de $70.00 a $400.00 excepto por la inspección de polvorines, en que la cuota será de $1,300.00
+IV.- Por inscripciones que previene el Reglamento de Previsión y Seguridad Social, las cuotas serán fijadas por el Departamento de Obras Públicas Municipales, de $80.00 a $500.00 excepto por la inspección de polvorines, en que la cuota será de $1,500.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-V.- Por servicios de inspección sanitaria de animales que se transporten en vehículos de cualquier índole, $8.00 por cabeza de ganado vacuno, caballar, asnal, mular, y porcino; y, $3.00 por cabeza de ganado cabrío o lanar
+V.- Por servicios de inspección sanitaria de animales que se transporten en vehículos de cualquier índole, $10.00 por cabeza de ganado vacuno, caballar, asnal, mular, y porcino; y, $4.00 por cabeza de ganado cabrío o lanar.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-VI.- Por servicios que presten los Departamentos de Tránsito, Médicos, de Sanidad Municipal y otros, la cuota que fije el C. Presidente Municipal, según la naturaleza del servicio de que se trate, de $50.00 a $700.00 en forma general.
+VI.- Por servicios que presten los Departamentos de Tránsito, Médicos, de Sanidad Municipal y otros, la cuota que fije el C. Presidente Municipal, según la naturaleza del servicio de que se trate, de $70.00 a $800.00 en forma general.
 
 ###### ARTICULO 63.
 
@@ -1267,21 +1297,21 @@ Los derechos por revisión, inspección y demás servicios que preste la Autorid
 
 Por la expedición de licencias se cobrará:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-I.- Para bailes, tertulias, cancioneros, variedades en casinos, clubes, restaurantes, centros sociales, terrazas, en lugares abiertos o cerrados, en que se cobre derecho de admisión o se expida boletaje para la entrada, de $50.00 a $700.00 por cada ocasión que se celebren.
+I.- Para bailes, tertulias, cancioneros, variedades en casinos, clubes, restaurantes, centros sociales, terrazas, en lugares abiertos o cerrados, en que se cobre derecho de admisión o se expida boletaje para la entrada, de $100.00 a $800.00 por cada ocasión que se celebren.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-II.- Por cada corrida de toros, $1,500.00
+II.- Por cada corrida de toros, $3,000.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-III.- Por cada novillada, $300.00
+III.- Por cada novillada, $500.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-IV.- Por temporada de atracciones, circos y demás espectáculos públicos de $300.00 a $1,500.00.
+IV.- Por temporada de atracciones, circos y demás espectáculos públicos de $400.00 a $2,000.00.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -1431,7 +1461,21 @@ Los causantes que inicien sus actividades sin haber solicitado y obtenido, en su
 
 Las infracciones a la presente Ley, que no estén consignadas en disposiciones especiales, se sancionarán en los términos del Código Fiscal del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+
+ARTICULOS 84. - La morosidad en el pago de cualquier Impuesto, Derecho o Producto, causará recargos en los términos fijados por la Ley de Ingresos para los Municipios del Estado, a partir de la fecha en que aquéllos sean exigibles.
+
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+Los recargos no excederán del importe del crédito fiscal de que se trate.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+Se considera que el pago es espontáneo, cuando se realice sin haber mediado gestión de autoridad, o cuando se efectúe dentro de los diez días siguientes a la fecha de su exigibilidad, aún cuando exista requerimiento por parte de las autoridades.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+Si un pago no es espontáneo, además de los recargos mencionados se aplicará al causante la sanción que corresponda, en los términos del Código Fiscal del Estado.
 
 ###### ARTICULO 84.
 
@@ -1640,3 +1684,13 @@ P.O. 30 DE DICIEMBRE DE 1981.
 ###### ARTICULO SEGUNDO
 
 - Se derogan las leyes resoluciones y disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 1982.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día 1o. de enero de 1983.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las Leyes, Resoluciones y Disposiciones que se opongan al Presente Decreto.
