@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2003-06-25"
+last_updated: "2003-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 2003.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -363,6 +363,58 @@ N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL
 > <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2003)</small>
 
 IX.- Las demás que le correspondan conforme a la fracción XVI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2003)</small>
+
+###### ARTICULO 17 Bis.
+
+La Secretaría de Salud ejercerá las atribuciones de regulación, control y fomento sanitarios que conforme a la presente Ley, a la Ley Orgánica de la Administración Pública Federal, y los demás ordenamientos aplicables le corresponden a dicha dependencia en las materias a que se refiere el artículo 3o. de esta Ley en sus fracciones I, en lo relativo al control y vigilancia de los establecimientos de salud a los que se refieren los artículos 34 y 35 de esta Ley: XIII, XIV, XXII, XXIII, XXIV, XXV, XXVI, ésta salvo por lo que se refiere a cadáveres y XXVII, esta última salvo por lo que se refiere a personas, a través de un órgano desconcentrado que se denominará Comisión Federal para la Protección contra Riesgos Sanitarios.
+
+Para efectos de lo dispuesto en el párrafo anterior compete a la Comisión Federal para la Protección contra Riesgos Sanitarios:
+
+I. Efectuar la evaluación de riesgos a la salud en las materias de su competencia, así como identificar y evaluar los riesgos para la salud humana que generen los sitios en donde se manejen residuos peligrosos;
+
+II. Proponer al Secretario de Salud la política nacional de protección contra riesgos sanitarios así como su instrumentación en materia de: establecimientos de salud; medicamentos y otros insumos para la salud; disposición de órganos, tejidos, células de seres humanos y sus componentes; alimentos y bebidas, productos de perfumería, belleza y aseo; tabaco, plaguicidas, nutrientes vegetales, sustancias tóxicas o peligrosas para la salud; productos biotecnológicos, suplementos alimenticios, materias primas y aditivos que intervengan en la elaboración de los productos anteriores; así como de prevención y control de los efectos nocivos de los factores ambientales en la salud del hombre, salud ocupacional y saneamiento básico;
+
+III. Elaborar y expedir las normas oficiales mexicanas relativas a los productos, actividades, servicios y establecimientos materia de su competencia, salvo en las materias a que se refieren las fracciones I y XXVI del artículo 3o. de esta Ley;
+
+IV. Evaluar, expedir o revocar las autorizaciones que en las materias de su competencia se requieran, así como aquellos actos de autoridad que para la regulación, el control y el fomento sanitario se establecen o deriven de esta Ley, sus reglamentos, las normas oficiales mexicanas y los demás ordenamientos aplicables;
+
+V. Expedir certificados oficiales de condición sanitaria de procesos, productos, métodos, instalaciones, servicios o actividades relacionadas con las materias de su competencia;
+
+VI. Ejercer el control y vigilancia sanitarios de los productos señalados en la fracción II de este artículo, de las actividades relacionadas con los primeros, de su importación y exportación, así como de los establecimientos destinados al proceso de dichos productos y los establecimientos de salud;
+
+VII. Ejercer el control y vigilancia sanitarios de la publicidad de las actividades, productos y servicios a los que se refiere esta Ley y sus reglamentos;
+
+VIII. Ejercer el control y la vigilancia sanitarios de las donaciones y trasplantes de órganos y tejidos y células de seres humanos, salvo a lo dispuesto por los artículos 329, 332, 338 y 339 de esta Ley;
+
+IX. Ejercer las atribuciones que esta Ley y sus reglamentos le confieren a la Secretaría de Salud en materia de sanidad internacional, con excepción de lo relativo a personas;
+
+X. Imponer sanciones y aplicar medidas de seguridad en el ámbito de su competencia;
+
+XI. Ejercer las atribuciones que la presente Ley, la Ley Orgánica de la Administración Pública Federal, y los demás ordenamientos aplicables le confieren a la Secretaría de Salud en materia de efectos del ambiente en la salud, salud ocupacional, residuos peligrosos, saneamiento básico y accidentes que involucren sustancias tóxicas, peligrosas o radiaciones;
+
+XII. Participar, en coordinación con las unidades administrativas competentes de la Secretaría de Salud, en la instrumentación de las acciones de prevención y control de enfermedades, así como de vigilancia epidemiológica, especialmente cuando éstas se relacionen con los riesgos sanitarios derivados de los productos, actividades o establecimientos materia de su competencia, y
+
+XIII. Las demás facultades que otras disposiciones legales le confieren a la Secretaría de Salud en las materias que conforme a lo dispuesto en este artículo sean competencia de la Comisión.
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2003)</small>
+
+###### ARTICULO 17 Bis 1.
+
+El órgano desconcentrado a que se refiere el artículo 17 bis tendrá, únicamente, autonomía administrativa, técnica y operativa y su presupuesto estará constituido por:
+
+I. Las asignaciones que establezca la Ley de Ingresos y el Presupuesto de Egresos de la Federación, y
+
+II. Los recursos financieros que le sean asignados, así como aquellos que, en lo sucesivo, se destinen a su servicio.
+
+Los ingresos que la Comisión Federal para la Protección contra Riesgos Sanitarios obtenga por concepto de donativos nacionales e internacionales, rescate de seguros y otros ingresos de carácter excepcional podrán ser recuperados por dicha Comisión y destinados a su gasto de operación conforme a lo que establezca el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2003)</small>
+
+###### ARTICULO 17 Bis 2.
+
+Al frente de la Comisión Federal para la Protección contra Riesgos Sanitarios estará un Comisionado Federal el cual será nombrado por el Presidente de la República, a propuesta del Secretario de Salud; siendo la Secretaría de Salud a quien corresponderá la supervisión de este órgano desconcentrado.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -718,11 +770,11 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPITULO V. Atención Materno-Infantil
 
+### CAPITULO VII. Salud Mental
+
 ### CAPITULO VI. Servicios de Planificación Familiar
 
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
-
-### CAPITULO VII. Salud Mental
 
 ###### ARTICULO 61.
 
@@ -776,7 +828,7 @@ En materia de higiene escolar, corresponde a las autoridades sanitarias establec
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias y educativas competentes.
 
-### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
+### CAPITULO I. Disposiciones Generales
 
 N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
@@ -854,6 +906,10 @@ La Secretaría de Salud coordinará las actividades de las dependencias y entida
 
 La Secretaría de Salud prestará, a través del Consejo Nacional de Población, el asesoramiento que para la elaboración de programas educativos en materia de planificación familiar y educación sexual le requiera el sistema educativo nacional.
 
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+
 ### CAPITULO II. De los Beneficios de la Protección Social en Salud
 
 N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
@@ -924,7 +980,7 @@ N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
 
 N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
@@ -1012,17 +1068,13 @@ Los padres, tutores o quienes ejerzan la patria potestad de menores, los respons
 
 A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
-
 ## TITULO TERCERO BIS. De la Protección Social en Salud
 
 N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
+### CAPITULO V. De las Cuotas Familiares
 
 N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
@@ -1122,7 +1174,7 @@ N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO V. De las Cuotas Familiares
+### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
 
 N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
@@ -1202,7 +1254,7 @@ N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO VII. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
+### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
 
 N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
@@ -1316,7 +1368,7 @@ N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
+### CAPITULO VII. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
 
 N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
@@ -1355,10 +1407,6 @@ Cuando las autoridades estatales que en el ejercicio de sus atribuciones de cont
 Por su parte, cuando el órgano de fiscalización de un Congreso Local detecte que los recursos federales señalados no se han destinado a los fines establecidos en esta Ley, deberá hacerlo del conocimiento inmediato de la Auditoría Superior de la Federación.
 
 Las responsabilidades administrativas, civiles y penales que deriven de afectaciones a la Hacienda Pública Federal, a las aportaciones estatales y del núcleo familiar en que, en su caso, incurran las autoridades locales exclusivamente por motivo de la desviación de los recursos para fines distintos a los previstos en esta Ley, serán sancionadas en los términos de la legislación federal, por las autoridades federales, en tanto que en los demás casos dichas responsabilidades serán sancionadas y aplicadas por las autoridades locales con base en sus propias leyes.
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO I. Profesionales, Técnicos y Auxiliares
 
@@ -1463,6 +1511,10 @@ IX. Cuidar las instalaciones de los establecimientos de salud y colaborar en su 
 X. Hacer uso responsable de los servicios de salud, y
 
 XI. Proporcionar de manera fidedigna la información necesaria para documentar su incorporación al Sistema de Protección Social en Salud y para la definición del monto a pagar por concepto de cuota familiar.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO III. Formación, Capacitación y Actualización del Personal
 
@@ -1842,7 +1894,7 @@ III.- Normar el establecimiento, operación y evaluación de servicios de nutric
 
 > <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
 
-IV. Normar el valor nutritivo y características de la alimentación en establecimientos de servicios colectivos y en alimentos y bebidas no alcohólicas;
+IV.- Normar el valor nutritivo y características de la alimentación en establecimientos de servicios colectivos y en alimentos y bebidas no alcohólicas;
 
 V.- Promover investigaciones químicas, biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición que prevalecen en la población y establecer las necesidades mínimas de nutrimentos, para el mantenimiento de las buenas condiciones de salud de la población;
 
@@ -2540,9 +2592,7 @@ En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará l
 
 La coordinación en la adopción de medidas en los ámbitos federal y local se llevará a cabo a través de los acuerdos de coordinación que celebre la Secretaría de Salud con los gobiernos de las entidades federativas.
 
-### CAPITULO XII. Plaguicidas, nutrientes vegetales y
-
-substancias tóxicas o peligrosas
+### CAPITULO XII. Plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -2582,7 +2632,7 @@ El ejercicio del control sanitario será aplicable al:
 
 > <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
-l.- Proceso, importación y exportación de alimentos, bebidas no alcohólicas, bebidas alcohólicas, productos de perfumería, belleza y aseo, tabaco, así como de las materias primas y, en su caso, aditivos que intervengan en su elaboración;
+I.- Proceso, importación y exportación de alimentos, bebidas no alcohólicas, bebidas alcohólicas, productos de perfumería, belleza y aseo, tabaco, así como de las materias primas y, en su caso, aditivos que intervengan en su elaboración;
 
 > <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
@@ -2932,7 +2982,7 @@ II.- Medicamentos que requieren para su adquisición receta médica que deberá 
 
 > <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
-III.- Medicamentos que solamente pueden adquirirse con receta médica que se podrá surtir hasta tres veces, la cual debe sellarse y registrarse cada vez en los libros de control que al efecto se lleven. Esta prescripción se deberá retener por el establecimiento que la surta en la tercera ocasión; el médico tratante determinará, el número de presentaciones del mismo producto y contenido de las mismas que se puedan adquirir en cada ocasión.
+III.- Medicamentos que solamente pueden adquirirse con receta médica que se podrá surtir hasta tres veces, la cual debe sellarse y registrarse cada vez en los libros de control que al efecto se lleven. Esta prescripción se deberá retener por el establecimiento que la surta en la tercera ocasión; el médico tratante determinará, el número de presentaciones del mismo producto y contenido de las mismas que se puedan adquirir en cada ocasión;
 
 Se podrá otorgar por prescripción médica, en casos excepcionales, autorización a los pacientes para adquirir anticonvulsivos directamente en los laboratorios correspondientes, cuando se requieran en cantidad superior a la que se pueda surtir en las farmacias;
 
@@ -3916,9 +3966,7 @@ Las etiquetas de los envases de los plaguicidas, nutrientes vegetales y substanc
 
 El control sanitario de las substancias a que se refiere el artículo 278, se ajustará a lo establecido en esta ley y demás disposiciones aplicables, de acuerdo con el riesgo que representen directa o indirectamente para la salud humana.
 
-(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN,
-
-D.O.F. 7 DE MAYO DE 1997)
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ### CAPITULO III. Certificados
 
@@ -4252,7 +4300,9 @@ Donación, trasplantes y pérdida de la vida
 
 Compete a la Secretaría de Salud:
 
-I. El control sanitario de las donaciones y trasplantes de órganos, tejidos y células de seres humanos, por conducto del órgano desconcentrado centro nacional de trasplantes, y
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2003)</small>
+
+I. El control sanitario de las donaciones y trasplantes de órganos, tejidos y células de seres humanos, por conducto del órgano desconcentrado denominado Comisión Federal para la Protección contra Riesgos Sanitarios, y
 
 II. La regulación y el control sanitario sobre cadáveres.
 
@@ -4524,7 +4574,7 @@ El Centro Nacional de Trasplantes, cuya integración y funcionamiento quedará e
 
 Los centros estatales proporcionarán al Registro Nacional de Trasplantes la información correspondiente a su entidad, y su actualización, en los términos de los acuerdos de coordinación respectivos.
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2003)</small>
 
 ### CAPITULO VI. Delitos
 
@@ -4532,7 +4582,7 @@ Los centros estatales proporcionarán al Registro Nacional de Trasplantes la inf
 
 ###### ARTICULO 340.
 
-El control sanitario de la disposición de sangre lo ejercerá la Secretaría de Salud a través del Centro Nacional de la Transfusión Sanguínea.
+El control sanitario de la disposición de sangre lo ejercerá la Secretaría de Salud a través de la Comisión Federal para la Protección contra Riesgos Sanitarios.
 
 > <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -4878,13 +4928,11 @@ X.- Las modificaciones a las instalaciones de establecimientos que manejan subst
 
 Los permisos a que se refiere este artículo sólo podrán ser expedidos por la Secretaría de Salud, con excepción de los casos previstos en las fracciones II y V en lo relativo al embalsamamiento.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 376.
 
 Requieren registro sanitario los medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan; equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos y de curación y productos higiénicos; así como los plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas. El registro sólo podrá ser otorgado por la Secretaría de Salud y será por tiempo indeterminado, sin perjuicio de lo establecido en el artículo 378 de esta ley.
-
-> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 376 Bis.
 
@@ -4895,6 +4943,8 @@ El registro sanitario a que se refiere el artículo anterior se sujetará a los 
 I.- En el caso de medicamentos, estupefacientes y psicotrópicos, la clave de registro será única, no pudiendo aplicarse la misma a dos productos que se diferencien ya sea en su denominación genérica o distintiva o en su formulación. Por otra parte, el titular de un registro, no podrá serlo de dos registros que ostenten el mismo principio activo, forma farmacéutica o formulación, salvo cuando uno de éstos se destine al mercado de genéricos. En los casos de fusión de establecimientos se podrán mantener, en forma temporal, dos registros, y
 
 II.- En el caso de los productos que cita la fracción II del artículo 194, podrá aceptarse un mismo número de registro para líneas de producción del mismo fabricante, a juicio de la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 377.
 
@@ -5510,7 +5560,7 @@ En el escrito se precisará el nombre y domicilio de quien promueva, los hechos 
 
 Al escrito deberán acompañarse los siguientes documentos:
 
-I. - Los que acrediten la personalidad del promovente, siempre que no sea el directamente afectado y cuando dicha personalidad no hubiera sido reconocida con anterioridad por las autoridades sanitarias correspondientes, en la instancia o expediente que concluyó con la resolución impugnada;
+I.- Los que acrediten la personalidad del promovente, siempre que no sea el directamente afectado y cuando dicha personalidad no hubiera sido reconocida con anterioridad por las autoridades sanitarias correspondientes, en la instancia o expediente que concluyó con la resolución impugnada;
 
 II.- Los documentos que el recurrente ofrezca como pruebas y que tengan relación inmediata y directa con la resolución o acto impugnado, y
 
@@ -5648,7 +5698,7 @@ I.- Al que ilícitamente obtenga, conserve, utilice, prepare o suministre órgan
 
 II.- Al que comercie o realice actos de simulación jurídica que tengan por objeto la intermediación onerosa de órganos, tejidos incluyendo la sangre, cadáveres, fetos o restos de seres humanos, y
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 26 DE MAYO DE 2000)</small>
 
 III.- Al que trasplante un órgano o tejido sin atender las preferencias y el orden establecido en las listas de espera a que se refiere el artículo 336 de esta Ley.
 
@@ -5911,3 +5961,9 @@ Tercero. Una vez que las autoridades modifiquen las disposiciones reglamentarias
 D.O.F. 25 DE JUNIO DE 2003.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE JUNIO DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La organización y distribución de atribuciones de la Comisión Federal para la Protección contra Riesgos Sanitarios se establecerán en el Reglamento que, para tal efecto, expida el Presidente de la República. Hasta en tanto no se expida este Reglamento, continuarán en vigor las disposiciones del Decreto que crea la Comisión Federal para la Protección contra Riesgos Sanitarios, en lo que no se opongan a lo dispuesto por este ordenamiento.
