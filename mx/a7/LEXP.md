@@ -4,7 +4,7 @@ identifier: "LEXP"
 country: "mx"
 rank: "ley"
 publication_date: "1936-11-25"
-last_updated: "1936-11-25"
+last_updated: "1949-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=366&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEXP"
 
 LEY DE EXPROPIACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1949.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 25 de noviembre de 1936.
 
@@ -46,7 +46,9 @@ I.- El establecimiento, explotación o conservación de un servicio público;
 
 II.- La apertura, ampliación o alineamiento de calles, la construcción de calzadas, puentes, caminos y túneles para facilitar el tránsito urbano y suburbano;
 
-III.- El embellecimiento, ampliación y saneamiento de las poblaciones y puertos, la construcción de hospitales, escuelas, parques, jardines, campos deportivos o de aterrizaje y de cualquiera otra obra destinada a prestar servicios de beneficio colectivo;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE DICIEMBRE DE 1949)</small>
+
+III.- El embellecimiento, ampliación y saneamiento de las poblaciones y puertos, la construcción de hospitales, escuelas, parques, jardines, campos deportivos o de aterrizaje, construcciones de oficinas para el Gobierno Federal y de cualquier obra destinada a prestar servicios de beneficio colectivo;
 
 IV.- La conservación de los lugares de belleza panorámica, de las antigüedades y objetos de arte, de los edificios y monumentos arqueológicos o históricos, y de las cosas que se consideran como características notables de nuestra cultura nacional;
 
@@ -155,3 +157,9 @@ N. DE E.: EL DECRETO DE PROMULGACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN R
 Donaciano Carreón, D.P.- Federico Idar, S.P.- J. Gómez Esparza, D.S.- Julián Garza Tijerina, S.S.- Rúbricas.
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, promulgo el presente decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, a los veintitrés días del mes de noviembre de mil novecientos treinta y seis.- Lázaro Cárdenas.- Rúbrica.- El Secretario de Estado y del Despacho de Gobernación, Silvestre Guerrero.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 30 DE DICIEMBRE DE 1949.
+
+UNICO.- La presente Ley entrará en vigor a los 3 días después de su publicación en el "Diario Oficial" de la Federación.
