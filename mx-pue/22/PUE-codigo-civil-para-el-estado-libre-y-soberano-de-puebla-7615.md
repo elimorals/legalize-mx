@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "1985-08-09"
+last_updated: "1989-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 1989.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -4803,9 +4803,13 @@ El Registro del Estado Civil es la Institución de carácter público y de inter
 
 La Institución a que se refiere el artículo anterior, estará a cargo de la Dirección del Registro del Estado Civil, de la que dependerán el Archivo Estatal y los Juzgados del ramo, cuyo número y demarcación determinará el Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 1989)</small>
+
 ###### Artículo 830.
 
-El Director del Registro Civil será necesariamente abogado recibido, y se procurará que también sean abogados recibidos, los Jueces del Registro del Estado Civil.
+El Director del Registro del Estado Civil será abogado, procurándose que también lo sean los Jueces del Registro del Estado Civil.
+
+El Secretario de Gobernación habilitará a una persona para sustituir al Juez del Registro Civil, cuando por cualquier circunstancia el titular no desempeñe su función. Este suplente no podrá ser el Director del Registro Civil.
 
 ###### Artículo 831.
 
@@ -4881,13 +4885,17 @@ La falsificación de las actas y la inserción en ellas de circunstancias o decl
 
 Los apuntes dados por los interesados y los documentos que presenten, se anotarán, poniéndoles el número del acta y el sello del Juzgado, y se reunirán y depositarán en el Archivo del mismo, formándose con ellos el apéndice correspondiente.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 1989)</small>
+
 ###### Artículo 848.
 
-Cualquiera persona puede solicitar copia certificada de las actas del Registro Civil, así como de los apuntes y documentos de que habla el artículo anterior y el Director, los Encargados del Archivo y los Jueces del Registro del Estado Civil están obligados a expedirlas.
+Cualquier persona puede solicitar copia o extractos certificados de las actas del estado civil, así como de los apuntes y documentos de que habla el artículo anterior y el Director, el Encargado del Archivo y los Jueces del Registro del Estado Civil están obligados a expedirlos.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 1989)</small>
 
 ###### Artículo 849.
 
-Las copias certificadas de las actas harán plena fe en juicio y fuera de él.
+Las copias y los extractos certificados de las actas, harán plena fe en juicio y fuera de él.
 
 ###### Artículo 850.
 
@@ -5005,15 +5013,15 @@ Cuando se trate de parto múltiple, se levantará una acta por cada uno de los n
 
 Si al dar aviso de un nacimiento, se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de defunción.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 1989)</small>
+
 ###### Artículo 875.
 
 Si el nacimiento no se registra dentro de los plazos establecidos en los artículos 856 y 872, se aplicarán las siguientes disposiciones:
 
-I.- Antes que el menor cumpla siete años de edad, el Juez del Registro del Estado Civil, autorizará la inscripción de su nacimiento, e impondrá a quien declare éste, una multa hasta por el importe de un día de salario mínimo.
+I.- Antes que el menor cumpla dieciocho años de edad, el Juez del Registro Estado Civil, autorizará la inscripción de su nacimiento, e impondrá a quien declare éste una multa hasta por el importe de dos días de salario mínimo.
 
-II.- El registro de nacimiento de una persona que tenga más de siete años de edad, sólo podrá ser autorizado por el Juez del Registro del Estado Civil, cuando lo ordene una sentencia ejecutoriada de un Juez de lo Familiar.
-
-III.- En el acta de nacimiento levantada en el caso de la fracción anterior, no podrá hacerse al mismo tiempo el reconocimiento de hijo, aplicándose entonces lo dispuesto por los artículos 876 a 880.
+II.- El registro de nacimiento de una persona que tenga más de 18 años de edad, sólo podrá ser autorizada por el Juez del Registro Civil, cuando lo ordene una sentencia ejecutoriada de un Juez competente.
 
 #### Sección Quinta.- Actas de Tutela
 
@@ -13881,7 +13889,7 @@ Cuando la obra se contrató por honorarios que se estimen en un tanto por ciento
 
 I.- Si se rescinde el contrato por voluntad del empresario, éste tiene derecho de cobrar los honorarios de la porción concluida de la obra;
 
-II.- Si el contrato se rescinde por voluntad del dueño, éste debe pagar al empresario, además de los honorarios a que se refiere la fracción anterior, el cincuenta por ciento de los honorarios que hubiere devengado si continuara la obra;
+II.- Si el contrato se rescinde por voluntad del dueño, éste debe pagar al empresario, además de lo honorarios a que se refiere la fracción anterior, el cincuenta por ciento de los honorarios que hubiere devengado si continuara la obra;
 
 III.- El empresario, al rescindirse el contrato, deberá probar el costo de los materiales, el empleo de éstos en la obra y el importe de los gastos hechos;
 
@@ -15007,7 +15015,7 @@ Si son varios los fiadores de un deudor por una sola deuda, se aplicarán las si
 
 I.- Cuando no haya convenio en contrario, responderá cada uno de ellos por la totalidad de la deuda;
 
-II.- Si sólo uno de los fiadores es demandado, podrá llamar al juicio a los demás para que se defiendan juntamente y en la proporción debida, o de igual manera estén a la (sic) resultas del mismo.
+II.- Si sólo uno de los fiadores es demandado, podrá llamar al juicio a los demás para que se defiendan juntamente y en la proporción debida, o de igual manera estén a la resultas del mismo.
 
 ###### Artículo 2771.
 
@@ -16187,7 +16195,7 @@ Concurriendo diversos acreedores de la misma clase y orden, serán pagados segú
 
 ###### Artículo 2969.
 
-Los gastos judiciales hechos por un acreedor en lo particular, serán pagados en el orden en que deba serlo el crédito que los haya causado.
+Los gastos judiciales hecho por un acreedor en lo particular, serán pagados en el orden en que deba serlo el crédito que los haya causado.
 
 ###### Artículo 2970.
 
@@ -17601,7 +17609,7 @@ Sección Decimocuarta.- Legado para contraer matrimonio
 
 Si se lega alguna cantidad para cuando se tome estado, se entiende legada para contraer matrimonio y puede dejarse a alguno el usufructo total o parcial de uno o varios bienes o una pensión o prestación periódica por el tiempo que permanezca viudo o soltero.
 
-Sección Decimoquinta.- Legados alternativos
+Sección Décimoquinta.- Legados alternativos
 
 ###### Artículo 3217.
 
@@ -17627,7 +17635,7 @@ El Juez, a petición de parte hará elección, si en el término que él señale
 
 La elección hecha legalmente es irrevocable.
 
-Sección Decimosexta.- Legados de Usufructo, y servidumbre
+Sección Décimosexta.- Legados de Usufructo, y servidumbre
 
 ###### Artículo 3223.
 
@@ -19282,3 +19290,7 @@ Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Pal
 P.O. 9 DE AGOSTO DE 1985.
 
 TRANSITORIO UNICO.- El presente Decreto empezará a surtir sus efectos a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JULIO DE 1989.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
