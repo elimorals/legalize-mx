@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2000-06-26"
+last_updated: "2000-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -913,11 +913,11 @@ XIII.- En la acción de alimentos, el Juez del domicilio del acreedor.
 
 XIV.- En los juicios especiales sobre pérdida de la patria potestad, el juez del domicilio de la Institución Pública de Asistencia Social que haya acogido al menor.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 1981)</small>
 
 ###### Artículo 112.
 
-Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demanda el actor por concepto de suerte principal.
+Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demanda el actor. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda, aún cuando se reclamen en ella.
 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
 
@@ -6055,6 +6055,22 @@ Siempre que haya oposición de algún aspirante a la herencia o de cpualquier (s
 
 Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un intestado, éste podrá seguirse tramitando con intervención de un Notario, de acuerdo con lo que se establece en este Capítulo. Esto se hará cuando no hubiere controversia alguna.
 
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DEL 2000)</small>
+
+###### Artículo 885 Bis.
+
+Para la titulación notarial de la adquisición por los legatarios instituidos en testamento público simplificado se observará lo siguiente:
+
+I.- Los legatarios o sus representantes exhibirán al notario la copia certificada del acta de defunción del testador y testimonio del testamento público simplificado.
+
+II.- El notario dará a conocer, por medio de una publicación en un periódico de los de mayor circulación en el Estado, que ante él se está tramitando la titulación notarial de la adquisición derivada del testamento público simplificado, el nombre del testador y de los legatarios, y en su caso su parentesco.
+
+III.- El notario recabará del Archivo General de Notarías y del Registro Público de la Propiedad que en su caso corresponda, las constancias relativas a la existencia o inexistencia de testamento y de testamento público simplificado. En el caso de que el testamento público simplificado presentado sea el último otorgado, el notario podrá continuar con los trámites relativos, siempre que no existiere oposición.
+
+IV.- De ser procedente, el notario redactará el instrumento en el que se relacionarán los documentos exhibidos, las constancias a que se refiere la fracción anterior, los demás documentos del caso y la conformidad expresa de los legatarios de aceptar el legado, documento que se inscribirá en el Registro Público de la Propiedad. En su caso se podrá hacer la repudiación expresa.
+
+V.- En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar a su vez un testamento público simplificado en los términos del artículo 1446 bis del código civil del Estado.
+
 ### CAPITULO XII
 
 DEL TESTAMENTO MILITAR.
@@ -7323,7 +7339,7 @@ P.O. 24 DE AGOSTO DE 1977.
 
 PRIMERO.- Las presentes reformas entrarán en vigor el día primero de diciembre del presente año.
 
-SEGUNDO.- Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
+SEGUNDO.-Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
 
 a).- Cada juzgado formulará el inventario de los citados asuntos.
 
@@ -7536,3 +7552,7 @@ P.O. 3 DE ENERO DEL 2000.
 P.O. 26 DE JUNIO DEL 2000.
 
 Único.- El presente Decreto iniciará su vigencia al día siguiente a aquél en que surta efectos la reforma presentada el 21 de febrero del año 2000 a los artículos 3 fracciones II, III y IX; 5, 7, 26 fracción III; 28 fracciones II y III; 33, 35 fracción V; 49, 50, 51 fracción III; 52, 91, 115 fracción III y último párrafo; 125, 129, 130 párrafo tercero; 131 fracciones I a IV; 136, fracciones XII y XIII, 142, 145, 146 y 150 de la Ley Orgánica del Poder Judicial del Estado de Nuevo León.
+
+P.O. 13 DE OCTUBRE DEL 2000.
+
+ÚNICO: El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
