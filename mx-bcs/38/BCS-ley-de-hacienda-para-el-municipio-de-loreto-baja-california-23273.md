@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-loreto-baja-california-232
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2002-07-10"
+last_updated: "2002-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LORETO, BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -137,7 +137,7 @@ En ningún caso el impuesto predial anual será inferior a un día salario míni
 
 ###### Artículo 12.
 
-El Impuesto sobre la Propiedad Ejidal se ajustará a las disposiciones relativas de la Ley Agraria, sin que su monto pueda excederse el 5% de su producción anual.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2002)
 
 ###### Artículo 13.
 
@@ -147,9 +147,19 @@ El Impuesto sobre las plantas de beneficio y establecimientos metalúrgicos de c
 
 El Impuesto Predial sobre la propiedad urbana se causará:
 
-a). A razón de 6.5 al millar sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación; en este caso no se aplicará el segundo párrafo del inciso c) de este artículo.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
-b). A razón de 13 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
+a). A razón de 3.75 al millar sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación; en este caso no se aplicará el segundo párrafo del inciso c) de este artículo.
+
+En lo que corresponde al área de Nopoló se aplicará una tasa a razón del 6.5 al millar anual.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+b). A razón del 6.5 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
+
+En lo que corresponde al área de Nopoló se aplicará una tasa a razón del 13 al millar anual.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
 c). A razón de 26 al millar sobre el valor catastral de los predios no edificados o baldíos, incrementándose anualmente en un 2.6 al millar hasta en tanto no sea construida una edificación. La tasa no excederá de 52 al millar.
 
@@ -905,6 +915,10 @@ III. Expedición de copias certificadas de constancias existentes en los archivo
 
 IV. Búsqueda de documentos del archivo Municipal, cuando no se precisen los datos y fechas del acto…2 días salario mínimo.
 
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+V. Por el refrendo anual de marca y señal…1 día de salario mínimo.
+
 ###### Artículo 68.
 
 No se causarán los derechos a que se refiere el Artículo anterior, la expedición de certificaciones y de copias certificadas solicitadas de oficio por la Autoridad de la Federación, del Estado y de los Municipio (sic).
@@ -983,13 +997,29 @@ Los derechos relativos al uso de maquinaria, matanza, inspección sanitaria, tra
 
 T A R I F A :
 
-I. Ganado vacuno y equino, por cada uno…3 días salario mínimo.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
-II. Ganado porcino, por cada uno…2 días salario mínimo.
+###### Artículo 76.
 
-III. Ganado caprino y lanar, por cada uno…1.5 días salario mínimo.
+El derecho relativo a la utilización de mesa de matanza Municipal, serán pagados conforme a la siguiente
 
-IV. Aves y otros…8% salario mínimo.
+T A R I F A :
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+I. Ganado vacuno y equino, porcino, lanar y asnal por cada uno…1 día salario mínimo.
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+II. Ganado caprino, por cada uno…50% de un salario mínimo.
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+III. Si se sacrifican entre una y cincuenta cabezas…10% de un salario mínimo por cabeza.
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+IV. Si se sacrifican de cincuenta cabezas en adelante…5% salario mínimo por cada cabeza.
 
 V. Por uso de frigorífico por canal, diario …50% día salario mínimo a partir del segundo día.
 
@@ -1341,6 +1371,36 @@ Ultramarinos...1.00
 
 Restaurant bar y/o bar con pista para baile y/o espectáculos...2.00
 
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+IV.- Por tarifas de horas extras de establecimientos con venta y consumo de bebidas alcohólicas se causará de la siguiente manera:
+
+Hoteles y moteles por cada establecimiento…1 s.m.
+
+Supermercado con venta de licor y cerveza…1 s.m.
+
+Abarrotes con venta de cerveza…1 s.m.
+
+Agencias…1 s.m.
+
+Sub-agencias…1 s.m.
+
+Depositos….1 s.m.
+
+Cantinas…1 s.m.
+
+Ultramarinos…1 s.m.
+
+Restaurant bar…1 s.m.
+
+Bar y/o discoteca…1 s.m.
+
+Restaurante bar con pista para baile y/o espectaculos…1 s.m.
+
+Cabarets…5 s.m.
+
+Centros nocturnos…5 s.m.
+
 ###### Artículo 110.
 
 Los derechos por la expedición de licencia de giros comerciales a que se refiere el Artículo anterior se pagarán previamente al otorgamiento de las mismas, sin que ello implique la autorización para el funcionamiento del giro, entre tanto no se (sic) expedida la licencia correspondiente.
@@ -1381,11 +1441,13 @@ e). Los establecimientos que no reúnan los requisitos contemplados de la Secret
 
 Objeto. Para efectos de este derecho, se entiende por anuncio en la vía pública a todo medio de publicidad que proporcione información, orientación e identifique un servicio profesional, marca, producto, o establecimientos con fines de bienes o servicios.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ### CAPITULO DECIMO. PARTICIPACIONES
 
 ###### Artículo 115.
 
-Sujeto. Son sujetos de este derechos (sic) las personas físicas o morales tenedoras o usuarias de anuncios, carteles o publicidad, en la vía pública o visible desde la vía pública, requerirán de licencias, permisos o autorización para su instalación y uso de conformidad con la reglamentación Municipal correspondiente.
+Sujeto. Son sujetos de este derecho las personas físicas o morales tenedoras o usuarias de anuncios, carteles o publicidad, en la vía pública, los cuales requerirán de licencias, permisos o autorización para su instalación y uso de conformidad con la reglamentación Municipal correspondiente.
 
 ### CAPITULO DECIMO SEGUNDO (SIC). FONDOS DE APORTACIONES FEDERALES
 
@@ -1393,15 +1455,19 @@ Sujeto. Son sujetos de este derechos (sic) las personas físicas o morales tened
 
 Responsable solidario. Serán responsable (sic) solidarios los propietarios de los inmuebles, predios o fincas en donde se finquen los anuncios o se lleve a cabo la publicidad.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ### CAPITULO DECIMO TERCERO. INGRESOS EXTRAORDINARIOS
 
 ###### Artículo 117.
 
-Base. La base del pago de estos derechos será 10% diario del salario mínimo general del Estado de Baja California Sur por metro cuadrado.
+Base. La base del pago de estos derechos será 10% diario del salario mínimo general del Estado de Baja California Sur, por metro cuadrado pagadero anual.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 118.
 
-Los anuncios semifijos o eventuales pagarán este derecho al equivalente a un salario mínimo diario por metro cuadrado.
+Los anuncios semifijos o eventuales y de eventos con venta de bebida con contenido alcohólico causarán un día de salario mínimo general vigente en la entidad por día ocupado en la vía pública de igual manera los comercios que utilicen la vía pública para exhibir mercancías causarán tres salarios mínimos pagaderos anualmente.
 
 ### CAPITULO DECIMO CUARTO. REDUCCIONES PARA PENSIONADOS, JUBILADOS Y PERSONAS CON DISCAPACIDAD
 
@@ -1886,3 +1952,13 @@ Los ayuntamientos de la entidad contarán con noventa días naturales par (sic) 
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor, a partir de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
