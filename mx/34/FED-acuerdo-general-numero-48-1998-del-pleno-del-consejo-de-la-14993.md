@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-48-1998-del-pleno-del-consejo-de-la-1499
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-03-23"
-last_updated: "2000-03-29"
+last_updated: "2000-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14993&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-09"
 
 ACUERDO GENERAL NUMERO 48/1998, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MARZO DE 2000.
+ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JULIO DE 2000.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 23 de marzo de 1999.
 
@@ -943,7 +943,9 @@ De las Secretarías Ejecutivas en lo Particular
 
 ###### Artículo 79.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL ACUERDO GENERAL 5/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE FEBRERO DE 2000)
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL ACUERDO GENERAL
+
+5/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE FEBRERO DE 2000)
 
 ###### Artículo 80.
 
@@ -1623,9 +1625,11 @@ El examen del sustentante elegido y su resultado serán entregados por el Instit
 
 Los titulares de los órganos jurisdiccionales, con objeto de no afectar el funcionamiento del órgano, podrán nombrar de manera provisional, hasta por dos meses improrrogables, a los secretarios o actuarios de tribunal de Circuito o juzgado de Distrito, en las ausencias de los funcionarios públicos titulares, o para ocupar una plaza de adscripción temporal, en tanto se lleve el procedimiento para la práctica de los exámenes y se obtenga la autorización para el nombramiento respectivo por parte de la Comisión de Carrera Judicial. Las personas así nombradas deberán reunir los requisitos legales establecidos para el puesto y podrán presentar el examen de aptitud correspondiente.
 
+> <small>(REFORMADO POR EL ACUERDO GENERAL 5/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE JULIO DE 2000)</small>
+
 ###### Artículo 144.
 
-Los titulares de los tribunales de Circuito y de los juzgados de Distrito en donde existan vacantes, podrán remitir a la Secretaría Ejecutiva del Pleno y Carrera Judicial las propuestas de nombramiento de actuarios y de secretarios, sin necesidad de someter a los aspirantes a exámenes de aptitud, cuando éstos hayan sido designados para desempeñar el mismo cargo por virtud de un examen anterior, siempre y cuando no hayan interrumpido el desempeño de la función por más de seis meses.
+Los titulares de los tribunales de Circuito y de los juzgados de Distrito en donde existan vacantes, podrán remitir a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos las propuestas de nombramiento de actuarios y de secretarios, sin necesidad de someter a los aspirantes a exámenes de aptitud, cuando éstos hayan sido designados para desempeñar el mismo cargo u otro de mayor jerarquía por virtud de un examen anterior, siempre y cuando no hayan interrumpido el desempeño de la función por más de dos años.
 
 ###### Artículo 145.
 
@@ -2231,9 +2235,11 @@ Las comisiones de los servidores públicos deberán estar debidamente fundadas y
 
 Los periodos vacacionales a que se refiere el artículo 160 de la Ley deberán disfrutarse por los magistrados de tribunales colegiados de Circuito, durante la segunda quincena de los meses de julio y diciembre de cada año.
 
+> <small>(REFORMADO POR EL ACUERDO GENERAL 37/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE JULIO DE 2000)</small>
+
 ###### Artículo 267.
 
-Los magistrados de Circuito de tribunales unitarios y los jueces de Distrito podrán gozar de los periodos vacacionales a que se refiere el artículo 160 de la Ley, en el primer periodo vacacional de quince días, a partir del primer día hábil del mes de julio al último día hábil de la primera quincena del mes de agosto y, el segundo, a partir del primer día hábil del mes de diciembre al último día hábil de la primera quincena del mes de enero del año siguiente.
+Los magistrados de Circuito de tribunales unitarios y los jueces de Distrito podrán gozar de los periodos vacacionales a que se refiere el artículo 160 de la Ley, en el primer periodo vacacional de quince días, a partir del primer día hábil del mes de julio al último día hábil de la primera quincena del mes de agosto y, el segundo, a partir del primer día hábil del mes de diciembre al último día hábil de la primera quincena del mes de enero del año siguiente. La Comisión de Carrera Judicial previo análisis de las solicitudes presentadas, podrá autorizar el disfrute de las vacaciones fuera de los periodos señalados, siempre y cuando existan causas excepcionales y justificadas.
 
 > <small>(REFORMADO POR EL ACUERDO GENERAL 3/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE FEBRERO DE 2000)</small>
 
@@ -2428,6 +2434,22 @@ CUARTO.- Se derogan, en lo conducente, los Acuerdos y Circulares emitidos por el
 QUINTO.- Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 D.O.F. 29 DE MARZO DE 2000.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 6 DE JULIO DE 2000.
+
+ACUERDO GENERAL 36/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTICULO 144.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 6 DE JULIO DE 2000.
+
+ACUERDO GENERAL 37/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTICULO 267.
 
 PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
 
