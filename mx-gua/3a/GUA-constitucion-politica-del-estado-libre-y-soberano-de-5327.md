@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1977-07-28"
+last_updated: "1978-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 1978.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -315,6 +315,10 @@ El Estado de Guanajuato forma parte integrante de los Estados Unidos Mexicanos, 
 
 El Gobernador, los Diputados a la Legislatura y los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, serán electos popularmente, por votación directa, secreta y mayoritaria relativa, de conformidad con lo dispuesto en la Ley Electoral del Estado.
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 1978)</small>
+
+El Congreso del Estado y los Ayuntamientos se complementarán, respectivamente, con Diputados y Regidores electos según el principio de representación proporcional, en la forma y términos que establece esta Constitución y la Ley de la materia.
+
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
 ###### ARTICULO 37.
@@ -339,6 +343,18 @@ Los Jurados serán electos por los Ayuntamientos, de conformidad a lo establecid
 
 Las elecciones serán enteramente libres, y todas las autoridades deben vigilar y proteger la libre emisión del voto. Basta reunir los requisitos legales, para elegir y ser electo.
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 1978)</small>
+
+Los partidos políticos tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal, y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto y directo.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 1978)</small>
+
+Los partidos políticos son entidades de interés público. La Ley determinará las formas específicas de su intervención en el proceso electoral.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 1978)</small>
+
+Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
+
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
 ### CAPITULO I. GENERALIDADES
@@ -347,7 +363,7 @@ Las elecciones serán enteramente libres, y todas las autoridades deben vigilar 
 
 #### SECCION PRIMERA. DE LA ELECCION E INSTALACION DE LA LEGISLATURA
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1978)</small>
 
 ###### ARTICULO 41.
 
@@ -405,9 +421,29 @@ Jamás podrán reunirse dos o más de estos Poderes en una persona o corporació
 
 ###### ARTICULO 50.
 
-La Legislatura de Guanajuato se compondrá de representantes populares, denominados Diputados, electos cada tres años mediante votación directa, secreta uninominal, por mayoría relativa, en número igual de distritos en que se divida, el Estado, apegándose a lo dispuesto por la Ley Electoral. Por cada Diputado Propietario se elegirá un Suplente.
+La Legislatura de Guanajuato se compondrá de 18 representantes populares denominados Diputados, electos cada tres años mediante votación directa, secreta, uninominal, por mayoría relativa, en número igual de Distritos al en que se divida, el Estado, conforme a lo dispuesto por la Ley Reglamentaria. Por cada Diputado propietario se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+Podrá haber, además, hasta 6 Diputados de minorías que serán electos según el principio de representación proporcional, mediante el sistema de listas, votadas en una circunscripción plurinominal que corresponderá a la totalidad del territorio del Estado.
+
+La elección de los Diputados de minorías, según el principio de proporcionalidad y el sistema de listas, deberá sujetarse a lo que en particular disponga la Ley Electoral, de conformidad con las siguientes bases:
+
+I.- Para obtener la inscripción de sus listas, el partido político que lo solicite, deberá acreditar que tiene su registro definitivo y que participa con candidatos a Diputados por mayoría relativa en por lo menos seis de los Distritos uninominales;
+
+II.- Tendrá derecho a que le sean atribuídos Diputados electos según el principio de proporcionalidad, todo aquel partido que:
+
+a).- No haya obtenido 3 o más constancias de mayoría;
+
+b).- Que alcance, por lo menos, el 1.5% de la votación emitida para el total de las listas;
+
+III.- Al partido que se encuentre dentro de los supuestos señalados en las fracciones I y II de este artículo, le serán asignados por el principio de proporcionalidad hasta 3 Diputados de su lista, de acuerdo al porcentaje de votos obtenidos en la circunscripción.
+
+La Ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, se seguirá el orden que tuviesen los candidatos en las listas correspondientes;
+
+IV.- En caso de que dos o más partidos con derecho a participar en la distribución por listas, obtuviesen en su conjunto 6 o más constancias de mayoría, sólo será objeto de distribución el 50% de las curules que deban asignarse por el principio de proporcionalidad.
+
+V.- Los Diputados de mayoría y los de minoría, siendo representantes del pueblo, tendrán la misma categoría e iguales derechos y obligaciones.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1978)</small>
 
 #### SECCION SEGUNDA. DE LOS PERIODOS DE SESIONES
 
@@ -415,7 +451,7 @@ La Legislatura de Guanajuato se compondrá de representantes populares, denomina
 
 ###### ARTICULO 51.
 
-Cada presunta Legislatura calificará las elecciones de sus miembros y resolverá las dudas que hubiere sobre ellas. Su resolución será definitiva e inatacable.
+Cada presunta Legislatura calificará las elecciones de sus miembros a través de un Colegio Electoral, que se integrará con los 5 presuntos Diputados que, de acuerdo con los registros de la Comisión Local Electoral, hubieren obtenido el mayor número de votos, y por 2 presuntos Diputados que hubiesen resultado electos en la circunscripción plurinominal, con las votaciones más elevadas.
 
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
@@ -460,6 +496,10 @@ Los Diputados a la Legislatura del Estado, no podrán ser reelectos para el per�
 ###### ARTICULO 55.
 
 Los diputados son inviolables por las opiniones que emitan en el desempeño de su cargo, y jamás podrán ser reconvenidos ni juzgados por ellas.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 1978)</small>
+
+El Presidente de la Legislatura velará por el respeto al fuero constitucional de los miembros de la misma y por la inviolabilidad del recinto donde reúnan a sesiones.
 
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
@@ -1143,6 +1183,16 @@ El Gobierno Interior Municipal y el manejo y administración de los intereses de
 
 Cada Municipio será administrado por un Ayuntamiento de elección popular directa, electo por planilla mediante la emisión del voto libre, secreto, y por mayoría relativa de los ciudadanos guanajuatenses, con residencia en la Cabecera de la circunscripción territorial respectiva, conforme a lo dispuesto por la Ley Electoral del Estado.
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 1978)</small>
+
+En la capital del Estado y en los municipios cuya población sea de 200,000 o más habitantes, los Ayuntamientos serán electos de acuerdo con las fórmulas que establezca la Ley de la materia, de conformidad a las siguientes bases:
+
+I.- Al partido político cuya planilla hubiere obtenido mayor número de votos tendrá derecho a que se le acrediten a quienes encabecen la lista como Presidente Municipal y Síndicos del Ayuntamiento, respectivamente;
+
+II.- Las regidurías que integran el Cabildo, se dividirán entre la votación total emitida para todas las planillas presentadas por los partidos políticos contendientes, a fin de obtener un cociente electoral.
+
+La Ley Reglamentaria determinará los procedimientos que se observarán en la asignación de los Regidores de representación proporcional.
+
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
 ###### ARTICULO 114.
@@ -1748,3 +1798,9 @@ P.O. 28 DE JULIO DE 1977.
 ###### ARTICULO UNICO.
 
 Este Decreto surtirá efectos efectos (sic) a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE JUNIO DE 1978.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor a los 3 días de su publicación en el Periódico Oficial del Gobierno del Estado.
