@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-establece-el-patronato-de-rehabilitacion-a-18660"
 country: "mx"
 rank: "ley"
 publication_date: "1971-02-22"
-last_updated: "1971-02-22"
+last_updated: "1979-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "YUC"
 
 LEY QUE ESTABLECE EL PATRONATO DE REHABILITACIÓN A INFRACTORES DEL CÓDIGO DE DEFENSA SOCIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE NOVIEMBRE DE 1979.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 22 de febrero de 1971.
 
-Licenciado Renán Solís Avilés, Director General de Gobernación, Encargado del Despacho del Poder Ejecutivo del Estado Libre y Soberano de Yucatán, a sus habitantes hago saber:
+Licenciado Renán Solés Avilés, Director General de Gobernación, Encargado del Despacho del Poder Ejecutivo del Estado Libre y Soberano de Yucatán, a sus habitantes hago saber:
 
 Que el XLV Congreso Constitucional del Estado Libre y Soberano de Yucatán, decreta la siguiente
 
@@ -35,55 +35,61 @@ LEY QUE ESTABLECE EL PATRONATO DE REHABILITACION A INFRACTORES DEL CODIGO DE DEF
 
 ### CAPÍTULO PRIMERO
 
+> <small>(REFORMADO, D.O. 16 DE NOVIEMBRE DE 1979)</small>
+
 ###### ARTICULO PRIMERO.
 
-Se crea el Patronato de Rehabilitación a Infractores del Código de Defensa Social que se organizará en los términos de la presente Ley, a fin de realizar las siguientes funciones:
+Se crea el Patronato de Rehabilitación a Infractores del Código de Defensa Social, que se organizará en los términos de la presente Ley, a fin de realizar las siguientes funciones:
 
-I.- Proporcionar asistencia moral, económica jurídica y social a las personas libertadas que por sentencia ejecutoriada hayan sido objeto de sanción privativa de la libertad con objeto de lograr su reincorporación a la sociedad.
+I.- Proporcionar asesoría técnica y asistencia económica en las áreas laboral, educativa, social, recreativa y deportiva a los internos de los Centros de Rehabilitación Social del Estado, en colaboración con los Consejos Técnicos Multidisciplinarios respectivos.
 
-II.- Observar a las personas libertadas, directamente o bien con la colaboración de las personas o instituciones que estimare pertinente para orientar su conducta e impartirles la protección moral que requieran.
+II.- Coordinar su acción con las de los Consejos Técnicos Multidisciplinarios del Estado en las etapas del tratamiento progresivo técnico que correspondan a la preliberación, reducción de sanción corporal, libertad condicional y libertad preparatoria de los internos, así como en el período postliberatorio de los exinternos, para su efectiva reintegración a la sociedad.
 
-III.- Investigar y estudiar, especialmente las causas que tuvieron para cometer el o los delitos que motivaron las distintas sentencias ejecutorias, tanto para prevenir que se cometan nuevos delitos como para proponer las medidas pertinentes para evitar la reincidencia.
-
-IV.- Visitar los penales del Estado con el objeto de establecer la correlación entre los tratamientos Institucionales y los post-institucionales, es decir entre aquéllos que se verifican dentro de los penales, preparando a los reos para su próxima libertad y los que el Patronato llevará a cabo en personas recién salidas de cárceles y prisiones de suerte que establezca continuidad en el esfuerzo, preparación oportuna y utilidad práctica en los resultados.
-
-V.- El Patronato queda facultado para crear, organizar y administrar albergues, talleres, centros de adiestramiento laboral y cualesquiera otros establecimientos destinados a proporcionar asistencia a los liberados.
-
-Igualmente el Patronato dará a conocer por los medios adecuados sus fines y actividades a los interesados y a las autoridades, instituciones y particulares para obtener su apoyo y cooperación.
+> <small>(REFORMADO, D.O. 16 DE NOVIEMBRE DE 1979)</small>
 
 ###### ARTICULO SEGUNDO.
 
-Los medios que el Patronato empleará para el cumplimiento de sus funciones serán:
+Los medios que el Patronato empleará para el cumplimiento de sus fines son:
 
-I.- Servicio de colocaciones gratuitas.
+I.- Colaborar con las autoridades de los Centros de Rehabilitación Social del Estado mediante las siguientes acciones:
 
-II.- Asistencia económica cuando el caso lo amerite.
+a). El adiestramiento y capacitación laboral de los internos.
 
-III.- Capacitación y adiestramiento profesional y técnico.
+b). La organización de talleres y fuentes de trabajo.
 
-IV.- Asistencia jurídica.
+c). La comercialización de los productos elaborados en el establecimiento.
 
-V.- El establecimiento de talleres y pequeñas industrias en qué dar ocupación al ex-recluso.
+d). La realización de actividades culturales, deportivas y recreativas.
 
-VI.- La organización de reos liberados en cooperativas de producción o su inclusión en cooperativas organizadas por la Dirección General de Artesanías.
+e). La ejecución de los programas tendientes a la integración familiar y social.
 
-VII.- Mantener relaciones e intercambiar experiencias con instituciones afines.
+II.- Crear una Bolsa de Trabajo gratuita.
 
-VIII.- Los demás que se estimen pertinentes.
+III.- Promover cursos de actualización y perfeccionamiento de conocimientos técnicos y profesionales.
+
+IV.- Establecer, organizar y administrar albergues, talleres y pequeñas industrias.
+
+V.- Organizar a los exinternos en cooperativas de producción o incluirlos en las cooperativas existentes.
+
+VI.- Mantener relaciones e intercambiar experiencias con Instituciones afines.
 
 ###### ARTICULO TERCERO.
 
 Para los efectos de las disposiciones anteriores el Patronato procurará la asistencia técnica y la ayuda material de las dependencias gubernamentales, de las instituciones públicas o privadas y de los particulares.
 
+> <small>(REFORMADO, D.O. 16 DE NOVIEMBRE DE 1979)</small>
+
 ###### ARTICULO CUARTO.
 
-El Patronato atenderá los problemas de los sentenciados y ex-reclusos del fuero común en el Estado.
+El Patronato coadyuvará en la rehabilitación social de los internos y exinternos, de los fueros Común y Federal que estén o hayan estado sujetos a medidas privativas de libertad en el Estado de Yucatán.
 
 ### CAPITULO SEGUNDO. ORGANIZACION Y FUNCIONAMIENTO
 
+> <small>(REFORMADO, D.O. 16 DE NOVIEMBRE DE 1979)</small>
+
 ###### ARTICULO QUINTO.
 
-El Patronato se integrará con cinco miembros que desempeñarán los cargos siguientes:
+El Patronato se integrará con quince miembros que desempeñarán los cargos siguientes:
 
 I.- Presidente.
 
@@ -91,9 +97,9 @@ II.- Secretario.
 
 III.- Tesorero.
 
-IV.- Dos Vocales
+IV.- 12 Vocales
 
-Los cuales serán nombrados y removidos libremente por el C. Gobernador Constitucional del Estado.
+Los integrantes del Patronato serán nombrados y removidos libremente por el Gobernador Constitucional del Estado.
 
 ###### ARTICULO SEXTO.
 
@@ -101,7 +107,7 @@ Podrán ser admitidos por el Patronato con el carácter de Vocales, con voz pero
 
 ###### ARTICULO SEPTIMO.
 
-El Patronato, directamente o mediante Representantes, después de visitar e inspeccionar cárceles y penitenciarías del Estado, centros de Rehabilitación de menores infractores, visitas exclusivamente limitadas al régimen de trabajo de dichos establecimientos, podrán elevar a las autoridades competentes las sugestiones que estimen convenientes para lograr una adecuada capacitación y adiestramiento de los reclusos en actividades honestas y productivas que les permitan reintegrarse, una vez liberados, al seno de la sociedad como elementos útiles a la misma.
+(DEROGADO, D.O. 16 DE NOVIEMBRE DE 1979)
 
 ###### ARTICULO OCTAVO.
 
@@ -163,7 +169,7 @@ X.- Vigilar la buena marcha de las secciones y comisiones impartiendo a estas la
 
 XI.- Autorizar con su firma las requisiciones de las distintas dependencias del Patronato.
 
-XII.- Estudiar la procedencia de las ayudas económicas que promueva la sección de emergencias para someterlas por conducto del Presidente del Patronato, a la aprobación del Patronato.
+XII.- (DEROGADA, D.O. 16 DE NOVIEMBRE DE 1979)
 
 XIII.- Atender todos los asuntos relacionados con el manejo de personal y
 
@@ -183,33 +189,35 @@ V.- Proporcionar con la periodicidad que fija el Presupuesto de Egresos las cant
 
 VI.- Llevar bajo su responsabilidad los libros de la tesorería.
 
+> <small>(REFORMADO, D.O. 16 DE NOVIEMBRE DE 1979)</small>
+
 ARTICULO DECIMOCUARTO.- Para el mejor desempeño de las funciones encomendadas al Patronato, éste contará con las siguientes secciones:
 
-I.- Sección Técnica.
+I.- Sección Laboral.
 
-II.- Sección de Trabajo.
+II.- Sección Educativa.
 
-III.- Sección de Medidas de Emergencia.
+III.- Sección Social.
 
-IV.- Sección Administrativa.
+IV.- Sección Recreativa y Deportiva.
 
 ARTICULO DECIMOQUINTO.- Asimismo, el Patronato contará con una Comisión de Relaciones Públicas y las demás que fueren necesarias.
 
 ARTICULO DECIMOSEXTO.- Cada una de las Secciones y Comisiones contará con el personal necesario para su funcionamiento, que será nombrado por el Presidente del Patronato.
 
-ARTICULO DECIMOSEPTIMO.- Las Secciones y Comisiones son los órganos informativos y ejecutivos del Patronato y funcionarán de acuerdo con los instructivos aprobados por el mismo.
+> <small>(REFORMADO, D.O. 16 DE NOVIEMBRE DE 1979)</small>
 
-ARTICULO DECIMOCTAVO.- La Sección Técnica tendrá a su cargo investigaciones, estudios y dictámenes previos de los casos que se le presenten, así como la observación evolutiva de la conducta de las personas a su cuidado.
+ARTICULO DECIMOSEPTIMO.- Las Secciones y Comisiones son los órganos ejecutivos del Patronato y desempeñarán las funciones inherentes a su área, de conformidad con los objetivos señalados en la presente Ley.
 
-ARTICULO DECIMONOVENO.- La Sección de Trabajo tendrá a su cargo los aspectos de adiestramiento y capacitación, el estudio y promoción de fuentes de ocupación y la bolsa de trabajo.
+ARTICULO DECIMOCTAVO.- (DEROGADO, D.O. 16 DE NOVIEMBRE DE 1979)
+
+ARTICULO DECIMONOVENO.- (DEROGADO, D.O. 16 DE NOVIEMBRE DE 1979)
 
 ###### ARTICULO VIGESIMO.
 
-La Sección de Medidas de Emergencia proporcionará a los liberados en los casos urgentes, la ayuda moral, económica, jurídica, médica y social requerida.
+(DEROGADO, D.O. 16 DE NOVIEMBRE DE 1979)
 
-ARTICULO VIGESIMOPRIMERO.- La Sección Administrativa tendrá a su cargo fundamentalmente las funciones de cuenta y administración.
-
-La propia Sección formulará semestralmente un estado que manifieste el movimiento de fondos y su aplicación, para darle en su oportunidad la publicidad que acuerde el Patronato.
+ARTICULO VIGESIMOPRIMERO.- (DEROGADO, D.O. 16 DE NOVIEMBRE DE 1979)
 
 ARTICULO VIGESIMOSEGUNDO.- La Comisión de Relaciones Públicas funcionará bajo la responsabilidad del Presidente del Patronato que se encargará de dar a conocer, por los medios adecuados, los fines y actividades del Patronato a los interesados y a las autoridades, instituciones y particulares para obtener su apoyo y cooperación.
 
@@ -219,7 +227,7 @@ ARTICULO VIGESIMOTERCERO.- El Patronato manejará su Patrimonio por conducto de 
 
 ARTICULO VIGESIMOCUARTO.- El Patronato gozará de Personalidad Jurídica, pero para disponer de los bienes inmuebles que adquiera, se requerirá autorización expresa del Congreso del Estado, siendo nulo el acto que realice sin llenar este requisito.
 
-ARTICULO VIGESIMOQUINTO.- El Patronato dependerá de la Dirección General de Asuntos Jurídicos del Ejecutivo del Estado.
+ARTICULO VIGESIMOQUINTO.- (DEROGADO, D.O. 16 DE NOVIEMBRE DE 1979)
 
 ## TRANSITORIO
 
@@ -242,3 +250,9 @@ CARLOS CAPETILLO CAMPOS.
 El Director General de Asuntos Jurídicos,
 
 Lic. RAUL HEREDIA CARRILLO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 16 DE NOVIEMBRE DE 1979.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
