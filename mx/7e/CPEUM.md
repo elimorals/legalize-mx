@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1981-04-22"
+last_updated: "1982-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE ABRIL DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 1982.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -433,6 +433,10 @@ En consecuencia, la ley castigará severamente, y las autoridades perseguirán c
 No constituyen monopolios las asociaciones de trabajadores formadas para proteger sus propios intereses.
 
 Tampoco constituyen monopolios las asociaciones o sociedades cooperativas de productores para que, en defensa de sus intereses o del interés general, vendan directamente en los mercados extranjeros los productos nacionales o industriales que sean la principal fuente de riqueza de la región en que se produzcan, y que no sean artículos de primera necesidad, siempre que dichas asociaciones estén bajo la vigilancia o amparo del Gobierno Federal o de los Estados, y previa autorización que al efecto se obtenga de las legislaturas respectivas en cada caso. Las mismas legislaturas por sí o a propuesta del Ejecutivo, podrán derogar, cuando las necesidades públicas así lo exijan, las autorizaciones concedidas para la formación de las asociaciones de que se trata.
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1982)</small>
+
+Se exceptúa también de lo previsto en la primera parte del primer párrafo de este Artículo la prestación del servicio público de banca y crédito. Este servicio será prestado exclusivamente por el Estado a través de instituciones, en los términos que establezca la correspondiente ley reglamentaria, la que también determinará las garantías que protejan los intereses del público y el funcionamiento de aquéllas en apoyo de las políticas de desarrollo nacional. El servicio público de banca y crédito no será objeto de concesión a particulares.
 
 > <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 1981)</small>
 
@@ -1028,9 +1032,9 @@ VIII.- Para dar bases sobre las cuales el Ejecutivo pueda celebrar empréstitos 
 
 IX.- Para impedir que en el comercio de Estado a Estado se establezcan restricciones.
 
-> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 1975)</small>
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1982)</small>
 
-X.- Para legislar en toda la República sobre hidrocarburos, minería, industria cinematográfica, comercio, juegos con apuestas y sorteos, instituciones de crédito, energía eléctrica y nuclear, para establecer el Banco de Emisión Unico en los términos del artículo 28 y para expedir las leyes del trabajo reglamentarias del artículo 123.
+X.- Para legislar en toda la República sobre hidrocarburos, minería, industria cinematográfica, comercio, juegos con apuestas y sorteos, servicios de banca y crédito, energía eléctrica y nuclear, para establecer el Banco de Emisión Unico en los términos del Artículo 28 y para expedir las leyes del trabajo reglamentario del Artículo 123.
 
 XI.- Para crear y suprimir empleos públicos de la Federación y señalar, aumentar o disminuir sus dotaciones.
 
@@ -1062,7 +1066,9 @@ XVI.- Para dictar leyes sobre nacionalidad, condición jurídica de los extranje
 
 XVII.- Para dictar leyes sobre vías generales de comunicación, y sobre postas y correos, para expedir leyes sobre el uso y aprovechamiento de las aguas de jurisdicción federal.
 
-XVIII.- Para establecer casas de moneda, fijar las condiciones que esta debe tener, determinar el valor de la extranjera, y adoptar un sistema general de pesas y medidas.
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1982)</small>
+
+XVIII.- Para establecer casas de moneda, fijar las condiciones que ésta deba tener, dictar reglas para determinar el valor relativo de la moneda extranjera y adoptar un sistema general de pesas y medidas.
 
 XIX.- Para fijar las reglas a que debe sujetarse la ocupación y enajenación de terrenos baldíos y el precio de estos.
 
@@ -1150,7 +1156,9 @@ III.- Nombrar a los Jefes y demás empleados de esa oficina.
 
 IV.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos de la Federación y el del Departamento del Distrito Federal, discutiendo primero las contribuciones que, a su juicio, deben decretarse para cubrirlos; así como revisar la Cuenta Pública del año anterior.
 
-El Ejecutivo Federal hará llegar a la Cámara las correspondientes iniciativas de leyes de ingresos y los proyectos de presupuesto a más tardar el día último del mes de noviembre, debiendo comparecer el Secretario del Despacho correspondiente a dar cuenta de los mismos.
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1982)</small>
+
+El Ejecutivo Federal hará llegar a la Cámara las correspondientes iniciativas de leyes de ingresos y los proyectos de presupuesto a más tardar el día 15 del mes de noviembre o hasta el 15 de diciembre cuando inicie su encargo en la fecha prevista por el Artículo 83, debiendo comparecer el Secretario del Despacho correspondiente a dar cuenta de los mismos.
 
 No podrá haber otras partidas secretas, fuera de las que se consideren necesarias con ese carácter, en el mismo presupuesto; las que emplearán los secretarios por acuerdo escrito del Presidente de la República.
 
@@ -2256,6 +2264,10 @@ XIII.- Los militares, marinos y miembros de los cuerpos de seguridad pública, a
 
 El Estado proporcionará a los miembros en el activo del Ejército, Fuerza Aérea y Armada, las prestaciones a que se refiere el inciso f) de la fracción XI de este Apartado, en términos similares y a través del organismo encargado de la seguridad social de los componentes de dichas instituciones; y
 
+> <small>(ADICIONADA, 17 DE NOVIEMBRE DE 1982)</small>
+
+XIII bis.- Las instituciones a que se refiere el párrafo quinto del Artículo 28, regirán sus relaciones laborales con sus trabajadores por lo dispuesto en el presente Apartado;
+
 > <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
 XIV.- La ley determinará los cargos que serán considerados de confianza. Las personas que los desempeñen disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social.
@@ -3223,3 +3235,23 @@ D.O.F. 22 DE ABRIL DE 1981.
 ###### ARTICULO UNICO.
 
 Esta reforma entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 17 DE NOVIEMBRE DE 1982.
+
+DECRETO QUE ADICIONA UN PARRAFO QUINTO AL ARTICULO 28, MODIFICA LA FRACCION X Y XVIII DEL ARTICULO 73, Y ADICIONA LA FRACCION XIII BIS DEL APARTADO B DEL ARTICULO 123.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+En tanto se establecen por la Ley reglamentaria del párrafo quinto del Artículo 28 Constitucional las modalidades a que se sujetarán, mantienen su actual situación jurídica, el Banco Nacional del Ejército, Fuerza Aérea y Armada, S. A., el Banco Obrero, S. A., las sucursales en México de bancos extranjeros que cuentan con concesión del Gobierno Federal y las Organizaciones Auxiliares de Crédito.
+
+D.O.F. 17 DE NOVIEMBRE DE 1982.
+
+DECRETO QUE REFORMA EL PARRAFO SEGUNDO DE LA FRACCION IV DEL ARTICULO 74.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
