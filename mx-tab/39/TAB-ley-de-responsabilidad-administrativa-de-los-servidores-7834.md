@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-responsabilidad-administrativa-de-los-servidores-7834"
 country: "mx"
 rank: "ley"
 publication_date: "1983-07-13"
-last_updated: "1983-07-13"
+last_updated: "1993-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7834&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS QUE REGLAMENTA EL TITULO SEPTIMO DE LA LEY FUNDAMENTAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 13 de julio de 1983.
 
@@ -59,7 +59,9 @@ IV.- Las autoridades competentes y los procedimientos para aplicar dichas sancio
 
 V.- Las autoridades competentes y los procedimientos para declarar la procedencia del procesamiento penal de los servidores públicos que gozan de fuero.
 
-VI.- El registro penal de los servidores públicos.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
+
+VI.- El registro Patrimonial de los Servidores Públicos.
 
 ART. 2.- Son sujetos de esta Ley, los servidores Públicos mencionados en el párrafo primero del artículo 66 Constitucional y en el párrafo del artículo 68 y todas aquellas personas que manejen p (sic) apliquen recursos económicos de carácter público.
 
@@ -75,7 +77,9 @@ IV.- Las dependencias del Ejecutivo Estatal, y
 
 V.- Los demás organismos Jurisdiccionales y Administrativos que determinen las Leyes.
 
-ART. 4.- Los procedimientos para la aplicación de las sanciones a que se refiere el artículo 67 y 68 Constitucional se desarrollarán autónomamente según su naturaleza y por la vía procesal que corresponda, debiendo las autoridades a que alude el artículo anterior turna (sic) las denuncias a quien deba conocer de ellas, no podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 1993)</small>
+
+ART. 4.- Cuando los actos u omisiones materia de las acusaciones queden comprendidas en más de uno de los casos sujetos a sanción y previstos en los Artículos 67 y 68 de la Constitución Política del Estado, los procedimientos respectivos se desarrollarán en forma autónoma e independiente según su naturaleza y por la vía procesal que corresponda, debiendo las autoridades a que alude el artículo anterior, turnar las denuncias a quien deba conocer de ellas. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
 
 ## TITULO SEGUNDO. PROCEDIMIENTOS ANTE EL CONGRESO DEL ESTADO EN MATERIA DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA
 
@@ -267,7 +271,9 @@ ART. 45.- En todas las cuestiones relativas al procedimiento no previsto en esta
 
 ART. 46.- Incurren en responsabilidad administrativa los servidores públicos a que se refiere el artículo 2o. de esta Ley.
 
-ART. 47.- Todo servidor público tendrá las siguientes obligaciones, para (sic) salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el desempeño de su empleo cargo o comisión y cuyo incumplimiento dará lugar al procedimiento y a las sanciones que correspondan, según la naturaleza de la infracción en que se incurra:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MAYO DE 1993)</small>
+
+ART. 47.- Todo servidor público tendrá las siguientes obligaciones, para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el desempeño de su empleo, cargo o comisión y cuyo incumplimiento dará lugar al procedimiento y a las sanciones que correspondan, sin perjuicio de sus derechos laborales:
 
 I.- Cumplir con la máxima diligencia el servicio que le sea encomendado y abstenerse de cualquieracto (sic) u omisión que cause la suspención (sic) o deficiencia de dicho servicio o implique abuso o ejercicio indebido de un empleo, cargo o comisión;
 
@@ -283,7 +289,9 @@ VI.- Observar en la dirección de sus inferiores jerárquicos las debidas reglas
 
 VII.- Observar respeto y subordinación legítimas con respeto a sus superiores jerárquicos inmediatos o mediatos, cumpliendo las disposiciones que estos dicten en el ejercicio de sus atribuciones;
 
-VIII.- Comunicar por escrito al Titular de la dependencia o organismo en los que preste sus servicios, el incumplimiento de las obligaciones establecidas en este artículo, o las dudas fundadas que le suscite la procedencia de las órdenes que reciba;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
+
+VIII.- Comunicar por escrito al Titular de la Dependencia o Entidad en la que preste sus servicios, el incumplimiento de las obligaciones establecidas en este Artículo, o las dudas fundadas que le suscite la procedencia de las órdenes que reciba;
 
 IX.- Abstenerse de ejercer las funciones de un empleo, cargo o comisión después de concluído el período para el cual se le designó o de haber cesado por cualquier otra causa en el ejercicio de sus funciones;
 
@@ -307,11 +315,19 @@ XVIII.- Presentar con oportunidad y veracidad la declaración de situación patr
 
 XIX.- Atender con la máxima diligencia las instrucciones, requerimientos o resoluciones que reciban de la Contraloría General, conforme a la competencia de ésta;
 
-XX.- Informar al Superior Jerárquico de toda conducta de los servidores públicos bajo su dirección que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este artículo y en los términos de las normas que al efecto se expidan;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
+
+XX.- Supervisar que los servidores públicos sujetos a su dirección cumplan con las disposiciones de este Artículo y denunciar por escrito, ante el supervisor jerárquico o a la Contraloría Interna si la hubiere, o a la Dirección o Departamento Jurídico en su caso, los actos u omisiones que en el ejercicio de sus funciones llegare a advertir respecto de cualquier servidor público que pueda ser causa de responsabilidad administrativa, en los términos de esta Ley y de las normas que al respecto se expidan;
 
 XXI.- Abstenerse de cualquier conducta que implique incumplimiento de cualquier dispocisión (sic) jurídica relacionada con el servicio público; y
 
-XXII.- Las demás que le impongan otras leyes o reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 1993)</small>
+
+XXII.- Abstenerse en el ejercicio de sus funciones o con motivo de ellas de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y a contratación de obra pública, con quien desempeñe un empleo, cargo o comisión, en el servicio público, o bien con las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Contraloría a propuesta razonada, conforme a las disposiciones legales aplicables, del Titular de la Dependencia o Entidad de que se trate. Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE MAYO DE 1993)</small>
+
+XXIII.- Las demás que le impongan otras Leyes o Reglamentos.
 
 Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Contraloría General, el Superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del interesado. Si el superior jerárquico omite la comunicación a la Contraloría General el subalterno podrá practicarla directamente informando a su superior a cerca de este acto.
 
@@ -351,7 +367,17 @@ V.- Sanciones Económicas; y
 
 VI.- Inhabilitación temporal para desempeñar empleo, cargo o comisión en el servicio público.
 
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, será de seis meses a tres años si el monto de aquellos no excede de 100 veces el Salario Mínimo Mensual vigente en el Estado, y de tres a Diez años si excede de dicho límite.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 1993)</small>
+
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, será de un año hasta diez años si el monto de aquéllos no excede de doscientas veces el salario mínimo mensual vigente en el Estado, y de diez a veinte años si excede de dicho límite. Este último plazo de inhabilitación también será aplicable por conductas graves de los servidores públicos.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 1993)</small>
+
+Para que una persona que hubiere sido inhabilitada en los términos de la presente Ley por un plazo de diez años, pueda volver a desempeñar un empleo, cargo o comisión en el servicio público una vez transcurrido el plazo de la inhabilitación impuesta, se requerirá que el Titular de la Dependencia o Entidad a la que pretende ingresar, dé aviso a la Contraloría, en forma razonada y justificada de tal circunstancia.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 1993)</small>
+
+La contravención a lo dispuesto por el párrafo que antecede, será causa de responsabilidad administrativa en los términos de esta Ley, quedando sin efecto el nombramiento o contrato que en su caso se haya realizado.
 
 ART. 54.- Las sanciones administrativas se impondrán tomando en cuenta los siguientes elementos:
 
@@ -389,9 +415,13 @@ III.- La suspensión del empleo, cargo o comisión durante al período al que se
 
 IV.- La Contraloría promoverá los procedimientos a que se hacen referencia las fracciones II y III, demandando la destitución del servidor público responsable o procediendo a la suspensión de éste cuando el superior jerárquico no lo haga; en este caso, la Contraloría desahogará el procedimiento y exhibirá las constancias respectivas al Superior Jerárquico.
 
-V.- La inhabilitación para desempeñar un empleo, cargo o comisión en el ejercicio público será aplicable por resolución que dictará el órgano que corresponda según las Leyes aplicables.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
 
-VI.- Las sanciones económicas serán aplicables por el superior jerárquico cuando no exceda de un monto equivalente a 100 veces el salario mínimo diario vigente mensual en el Estado y por la contraloría cuando sean superiores a esta Cantidad.
+V.- La inhabilitación para desempeñar un empleo, cargo o comisión en el ejercicio público será aplicable por resolución que dicte la autoridad competente; y
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
+
+VI.- Las sanciones económicas serán aplicables por el superior jerárquico cuando el monto del lucro obtenido o del daño o perjuicio causado, no exceda de cien veces el salario mínimo mensual vigente en el Estado; y por la Contraloría, cuando sean superiores a dicho monto.
 
 ART. 57.- Todo servidor público deberá denunciar por escrito a la Contraloría interna de su dependencia los hechos que, a su juicio, sean causa de responsabilidad administrativa imputables a servidores públicos sujetos a su dirección.
 
@@ -403,7 +433,9 @@ ART. 58.- La Contraloría aplicará las sanciones correspondientes a los Contral
 
 ART. 59.- Incurrirán en responsabilidad administrativa los servidores públicos de las Contralorías internas que se abstengan injustificadamente de sancionar a los infractores o que, al hacerlo no se ajusten a lo previsto por esta Ley, la Contraloría informará de ello al titular de la dependencia y aplicará las sanciones correspondientes.
 
-ART. 60.- La Contraloría interna de cada dependencia será competente para imponer sanciones disciplinarias, excepto las económicas cuyo monto sea superior a cien veces el salario mínimo diario vigente en el Estado, las que están reservadas exclusivamente a la Contraloría, que comunicará los resultados del procedimiento al Titular de la Dependencia en este último caso, la Contraloría interna, previo informe al superior jerárquico, turnará el asunto a la Contraloría.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 1993)</small>
+
+ART. 60.- La Contraloría Interna si la hubiere, la Dirección o Departamento Jurídico en su caso, de cada Dependencia o Entidad, será competente para imponer, por acuerdo del superior jerárquico, sanciones disciplinarias, excepto las económicas cuyo monto sea superior a doscientas veces al salario mínimo mensual vigente en el Estado, las que están reservadas exclusivamente a la Contraloría, que comunicará los resultados del procedimiento al Titular de la Dependencia o entidad. En estos casos, la Contraloría Interna, Dirección o Departamento Jurídico en su caso, previo informe al superior jerárquico, turnará el asunto a la Contraloría.
 
 ART. 61.- Si la Contraloría Interna de la Dependencia tuviera conocimiento de hechos que impliquen responsabilidad penal, dará vista de ellos a la Contraloría y a la autoridad competente para conocer del ilícito.
 
@@ -419,7 +451,9 @@ también asistirá a la Audiencia el representante de la Dependencia (sic) para 
 
 Entre la fecha de la citación y de la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles.
 
-II.- Al concluir la audiencia o dentro de los tres días hábiles siguientes, la Contraloría resolverá sobre la existencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes, y notificará la resolución al interesado dentro de las veinticuatro horas siguientes al interesado, a su jefe inmediato, al representante designado por la dependencia y al Superior Jerárquico.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
+
+II.- Desahogadas las pruebas, si las hubiere, la Contraloría resolverá dentro de los treinta días hábiles siguientes, sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes, y notificará la resolución al interesado dentro de los cinco días hábiles siguientes, a su jefe inmediato, al representante designado por la Dependencia o Entidad y al superior jerárquico;
 
 III.- Si en la Audiencia la Contraloría encontrara que no cuenta con elementos suficientes para resolver o advierta elementos quee (sic) impliquen nueva responsabilidad administrativa a cargo del presunto responsable o de otras personas, podrá disponer la práctica dee (sic) investigaciones y citar para otra u otras audiencias; y
 
@@ -453,7 +487,9 @@ II.- La autoridad acordará sobre la admisibilidad del recurso y de las pruebas 
 
 Las pruebas admitidas se desahogarán en un plazo de cinco días hábiles, que a solicitud del servidor público o de la autoridad, podrá ampliarse, una sola vez por cinco días más; y
 
-III.- Concluido el período probatorio, el superior jerárquico emitirá resolución en el acto o dentro de los tres días hábiles siguientes, notificando al interesado.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
+
+III.- Desahogadas las pruebas si las hubiere, la autoridad emitirá resolución dentro de los treinta días hábiles siguientes, notificándolo al interesado en un plazo no mayor de setenta y dos horas.
 
 ART. 72.- La interposición del recurso suspenderá la ejecución de la resolución recurrida, si lo solicita el promovente, conforme a estas reglas:
 
@@ -489,9 +525,19 @@ Si existe resistencia al mandamiento de legítima autoridad, se estará a lo que
 
 ART. 78.- Las facultades del Superior Jerárquico y de la Contraloría para imponer las sanciones que esta Ley prevé se sujetarán a lo siguiente:
 
-I.- Prescribirán en tres meses si el beneficio obtenido o el daño causado por el infractor no excede de diez veces el salario mínimo diario vigente en el Estado, o si la responsabilidad no fuese estimable en dinero. El plazo de prescripción se contará a partir del día siguiente a aquel en que se hubiera incurrido en la responsabilidad o a partir del momento en que hubiere cesado, si fue de carácter continuo; y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
+
+I.- Prescribirán en un año, si el beneficio obtenido o el daño causado por el infractor no excede de diez veces al salario mínimo vigente en el Estado, o si la responsabilidad no fuese estimable en dinero;
 
 II.- En los demás casos prescribirán en tres años.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 1993)</small>
+
+El plazo de prescripción se contará a partir del día siguiente en que se hubiese incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fuere de carácter continuo.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 1993)</small>
+
+En todos los casos, la prescripción a la que alude este precepto, se interrumpirá al iniciarse el procedimiento administrativo previsto por el Artículo 64 de esta Ley.
 
 ## TITULO CUARTO
 
@@ -499,23 +545,41 @@ II.- En los demás casos prescribirán en tres años.
 
 ART. 79.- La Contraloría llevará el registro de la situación patrimonial de los servidores públicos de conformidad con esta Ley y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 1993)</small>
+
+Los servidores públicos del Poder Legislativo del Estado, se regirán por las disposiciones de su Ley Orgánica.
+
 ART. 80.- Tienen la obligación de presentar declaración anual de situación patrimonial ante la Contraloría, bajo protesta de decir verdad:
 
-I.- En la Cámara de Diputados: Diputados, Oficial Mayor, Contador Mayor de Hacienda y Tesorero;
+I.- (DEROGADA, P.O. 8 DE MAYO DE 1993);
 
-II.- En el Poder Ejecutivo, todos los funcionarios, desde el nivel de Jefes de Departamento hasta el de Gobernador del Estado, además de lo previsto en las Fracciones IV y VI;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
 
-III.- En la Administración Pública Paraestatal: Directores Generales, Gerentes Generales, Subdirectores Generales, Subgerentes Generales, Directores, Gerentes, Subdirectores y Servidores Públicos equivalente de los órganos descentralizados, empresas de participación mayoritaria, sociedades, asociaciones asimiladas y Fideicomisos Públicos;
+II.- En el Poder Ejecutivo, todos los funcionarios, desde el nivel de Jefes de Departamento hasta el de Gobernador del Estado, además de los previstos en las Fracciones IV y VI;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
+
+III.- En la Administración Pública Paraestatal: Directores Generales, Gerentes Generales, Subdirectores Generales, Subgerentes Generales, Directores, Gerentes, Subdirectores y Servidores Públicos, equivalente de los órganos descentralizados, empresas de participación mayoritaria, sociedades, asociaciones asimiladas y fideicomisos públicos;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
 
 IV.- En la Procuraduría General de Justicia: Todos los servidores desde el nivel mencionado en la Fracción II hasta el Procurador General de Justicia, incluyendo a Agentes del Ministerio Público y Agentes de la Policía Judicial;
 
-V.- En el Poder Judicial del Estado: Magistrados, Jueces, Secretarios Judiciales de cualquier categoría o designación y actuarios judiciales;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
 
-VI.- En la Contraloría General: Todos los servidores públicos de confianza;
+V.- En el Poder Judicial del Estado: Magistrados, Jueces, Secretarios Judiciales de cualquier categoría o designación y Actuarios Judiciales;
 
-VII.- En los Ayuntamientos: Todos los servidores desde el nivel de jefes de oficina o departamentos hasta Regidores, Síndicos de Hacienda y Presidente Municipal.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
 
-Asimismo deberán presentar las declaraciones de las que se trata en este precepto los demás regidores públicos que determinen el Titular de la Contraloría General y el Procurador General de Justicia mediante disposiciones debidamente motivadas y fundadas.
+VI.- En la Contraloría General: todos los servidores públicos de confianza;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 1993)</small>
+
+VII.- En los Ayuntamientos o Concejos Municipales: todos los servidores desde el nivel de Jefes de Oficina o Departamentos hasta Regidores, Síndicos de Hacienda y Presidentes Municipales, o en su caso, Concejeros Municipales.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 1993)</small>
+
+Asimismo deberán presentar las declaraciones de que se trata en este precepto, los demás servidores públicos que determinen el Titular de la Contraloría General y el Procurador General de Justicia, mediante disposiciones debidamente motivadas y fundadas.
 
 ART. 81.- La declaración de situación patrimonial deberá presentar en los siguientes plazos:
 
@@ -526,6 +590,10 @@ II.- Dentro de los treinta días naturales siguientes a la conclusión del encar
 III.- Durante el mes de mayo de cada año deberá presentarse la declaración de situación patrimonial, acompañada de una copia de la declaración anual presentada por personas físicas para los efectos de la Ley del impuesto sobre la renta salvo que en ese mismo año se hubiese presentado la declaración a que se refiere la Fracción I.
 
 Si transcurrido el plazo a que se hace referencia la fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efecto el nombramiento respectivo previa declaración de la Contraloría. Lo mismo ocurrirá cuando se omita la declaración contemplada en la Fracción III.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 1993)</small>
+
+Para el caso de omisión sin causa justificada, en la presentación de la declaración a que alude la Fracción II, se inhabilitará al infractor por un año.
 
 ART. 82.- La Contraloría expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
 
@@ -594,3 +662,9 @@ ENRIQUE GONZALEZ PEDRERO.
 LIC. JOSE EDUARDO BELTRAN HERNANDEZ.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE MAYO DE 1993.
+
+UNICO: El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
