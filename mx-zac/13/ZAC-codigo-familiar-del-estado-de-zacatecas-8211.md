@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2003-02-19"
+last_updated: "2004-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2004.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -704,6 +704,10 @@ La acción a que se refiere el artículo que precede, prescribe dentro de un añ
 ###### ARTICULO 106.
 
 Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce, el Juez de lo Familiar de la residencia de los interesados puede conceder dispensas de edad, por causas graves y justificadas.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2004)</small>
+
+También es requisito para contraer matrimonio, la asistencia previa de los interesados a las pláticas de orientación prematrimonial con perspectiva de género, que llegare a implementar la correspondiente autoridad municipal.
 
 ###### ARTICULO 107.
 
@@ -4350,3 +4354,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE ABRIL DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
