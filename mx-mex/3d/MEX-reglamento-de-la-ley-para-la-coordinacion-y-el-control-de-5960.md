@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-para-la-coordinacion-y-el-control-de-5960"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-10-08"
-last_updated: "1984-10-08"
+last_updated: "1996-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE LA LEY PARA LA COORDINACION Y EL CONTROL DE LOS ORGANISMOS AUXILIARES Y FIDEICOMISOS DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE ABRIL DE 1996.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 8 de octubre de 1984.
 
@@ -63,17 +63,21 @@ DEL CONTROL Y VIGILANCIA POR PARTE DE LAS DEPENDENCIAS DE COORDINACION GLOBAL Y 
 
 DEL CONTROL Y VIGILANCIA POR PARTE DE LAS DEPENDENCIAS DE COORDINACION GLOBAL.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1996)</small>
+
 ###### ARTICULO 5º.
 
-Las Dependencias de Coordinación Global, Secretarías de Finanzas, Planeación y Administración, son responsables de emitir las disposiciones administrativas en el ámbito de sus atribuciones y de controlar y evaluar su cumplimiento por parte de los Organismos Auxiliares y Fideicomisos.
+Las Dependencias de Coordinación Global, Secretarías de Finanzas y Planeación, de Administración y de la Contraloría, son responsables de emitir las disposiciones administrativas en el ámbito de sus atribuciones y de controlar y evaluar su cumplimiento por parte de los organismos auxiliares y fideicomisos.
 
 ###### ARTICULO 6º.
 
 Las Dependencias de Coordinación Global ejercerán las atribuciones que les señala la Ley Orgánica de la Administración Pública del Estado, la Ley, el presente Reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ABRIL DE 1996)</small>
+
 ###### ARTICULO 7º.
 
-En el ejercicio de sus atribuciones, compete a la Secretaría de Finanzas:
+En el ejercicio de sus atribuciones, compete a la Secretaría de Finanzas y Planeación:
 
 I. Diseñar e implantar sistemas para la contratación de créditos y para la vigilancia de su utilización.
 
@@ -87,81 +91,99 @@ V. Diseñar e instrumentar mecanismos administrativos que permitan vincular los 
 
 VI. Diseñar y aplicar la metodología para la formulación de la política de ingresos y vigilar su cumplimiento
 
-VII. Las demás que le señalen los ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 1996)</small>
+
+VII. Llevar un registro de los organismos auxiliares y fideicomisos.
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 1996)</small>
+
+VIII. Autorizar los registros contables incluso los aprobados por dependencias federales y vigilar que los mismos se lleven de acuerdo a los ordenamientos legales.
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 1996)</small>
+
+IX. Vigilar que los sistemas de contabilidad se apeguen a los principios de contabilidad generalmente aceptados.
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 1996)</small>
+
+X. Requerir la información financiera consolidada necesaria para la preparación de la cuenta pública, de conformidad con los lineamientos que se determinen.
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 1996)</small>
+
+XI. Emitir disposiciones para la elaboración, presentación y ejercicio del presupuesto anual; y
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 1996)</small>
+
+XII. Las demás que le señalen los ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1996)</small>
 
 ###### ARTICULO 8º.
 
-En el ejercicio de sus atribuciones compete a la Secretaría de Planeación:
+En el ejercicio de sus atribuciones, compete a la Secretaría de Administración:
 
-I. Llevar el registro de los Organismos Auxiliares y Fideicomisos a que se refiere la Ley.
+I.- Revisar y autorizar su proyecto de reglamento interior, antes de ser aprobado por el órgano de gobierno respectivo;
 
-II. Autorizar los libros y registros contables, excepto los autorizados directamente por Dependencias Federales y vigilar, en todos los casos, que los mismos se lleven acorde a los ordenamientos vigentes.
+II.- Modificar y aprobar sus manuales de organización, conforme a la guía y a los lineamientos que emita la secretaría, así como dictaminar las solicitudes de cambios de estructura organizativa;
 
-III. Vigilar que los sistemas de contabilidad se apeguen a la observancia de los principios de contabilidad generalmente aceptados.
+III.- Dictar las políticas y determinar los objetivos y técnicas específicas para la elaboración de los manuales de procedimientos, las guías de información y servicios al público y organizar los archivos, centros de documentación y unidades de microfilmación;
 
-IV. Recibir y analizar la información y estados financieros de los Organismos Auxiliares y Fideicomisos, y los informes y dictámenes que emitan los auditores externos en los términos del contrato de prestación de servicios de auditoría externa enterando en todo caso al Gobernador del Estado y al Titular de la Dependencia Coordinadora de Sector los resultados.
+IV.- Expedir los manuales de estándares y metodología para el desarrollo de sistemas de cómputo;
 
-V. Requerir la información financiera consolidada necesaria para la preparación de la cuenta pública, de conformidad con los lineamientos que se determinen.
+V.- Consolidar los planes de trabajo de informática y de sistemas automatizados para el mejor aprovechamiento de los recursos, determinar los que deban llevarse a cabo y evaluar sus avances y resultados, indicando las modificaciones que procedan;
 
-VI. Emitir disposiciones para la elaboración, presentación y ejercicio del presupuesto anual y vigilar su cumplimiento.
+VI.- Opinar sobre las solicitudes de adquisición de equipo de informática o contratación de servicios técnicos de cómputo y acordar lo que se integre a los planes generales y sectoriales en la materia;
 
-VII. Vigilar la aplicación de sus erogaciones en los proyectos y ejecución de obras públicas tanto estatales como de coordinación con Dependencias Federales.
+VII.- Dictar lineamientos para la selección, contratación y capacitación de personal;
 
-VIII. Vigilar que los Organismos que operen fondos federales se sujeten a las disposiciones que en la materia establezca la Federación.
+VIII.- Consolidar los programas anuales de adquisiciones y proponer las compras y contratos que deban realizarse de manera consolidada con el sector central;
 
-IX. Vigilar que los Planes y Programas se ajusten a la planeación global del Ejecutivo del Estado y a los Programas Sectoriales y Específicos que al efecto emita, en un todo de acuerdo a la Ley de Planeación Estatal y al Plan Estatal de Desarrollo.
+IX.- Opinar sobre las solicitudes de adquisición de bienes muebles e inmuebles y acordar las que procedan, sugiriendo en su caso, alternativas para satisfacer los requerimientos
 
-X. Establecer y difundir, mediante la publicación de normas estatales, los pronunciamientos y resoluciones sobre sistemas de control interno y evaluación a que estarán sujetas las actividades de los Organismos Auxiliares y Fideicomisos, sin perjuicio de lo que sobre sistemas y procedimientos establezca la Secretaría de Administración, y vigilar su cumplimiento.
+X.- Comprobar que la enajenación de bienes muebles e inmuebles se efectúe en los términos establecidos por la ley de la materia y en el dictamen del Comité Ejecutivo de Adquisiciones, Enajenaciones, Arrendamientos, Mantenimientos y Almacenes;
 
-XI. Practicar auditorías y evaluaciones y emitir el dictamen o informe correspondiente.
+XI.- Verificar que las adquisiciones de inmuebles se realicen en los términos de las disposiciones legales y que se acate lo dispuesto en el dictamen del Comité Ejecutivo de Adquisiciones, Enajenaciones, Arrendamientos, Mantenimientos y Almacenes;
 
-XII. Contratar a los auditores externos y fijar normas conforme a las cuales dichos auditores deberán presentar los informes que les solicite la propia Secretaría.
+Xll.- Emitir normas para la realización y actualización valorada de los inventarios de bienes muebles e inmuebles;
 
-XIII. Las demás que le señalen los ordenamientos jurídicos aplicables.
+XIII.- Dictar lineamientos sobre el control de almacenes;
+
+XIV.- Verificar que en los organismos auxiliares y fideicomisos se cumpla con lo dispuesto en la legislación laboral y demás ordenamientos aplicables;
+
+XV.- Vigilar que en los organismos auxiliares y fideicomisos se cumplan las condiciones generales de trabajo de acuerdo con la legislación laboral;
+
+XVI.- Cuidar que los convenios con los sindicatos de servidores públicos se realicen dentro de los lineamientos emitidos por el Ejecutivo del Estado;
+
+XVII.- Dictar las disposiciones que normen la remuneración y las prestaciones que correspondan a los servidores públicos;
+
+XVIII.- Emitir las guías técnicas para la formulación de los catálogos de puestos y reglamentos de escalafón, vigilando el cumplimiento de las normas que regulen el servicio civil de los servidores públicos, por medio de la supervisión del funcionamiento de las comisiones mixtas de capacitación y escalafón; y
+
+XIX.- Las demás que le señalen los ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1996)</small>
 
 ###### ARTICULO 9º.
 
-En el ejercicio de sus atribuciones compete a la Secretaría de Administración:
+En el ejercicio de sus atribuciones, compete a la Secretaría de la Contraloría:
 
-I. Solicitar, revisar y en su caso, modificar y autorizar su Proyecto de Reglamento Interior, antes de ser aprobado en definitiva por el Organo de Gobierno respectivo.
+I.- Vigilar el cumplimiento de las disposiciones aplicables a la presentación y ejercicio del presupuesto anual;
 
-II. Solicitar, revisar y en su caso, modificar y aprobar sus Manuales de Organización, los cuales deberán formularse conforme a la guía y los lineamientos que para el efecto emita la propia Secretaría, así como dictaminar sobre la procedencia de solicitudes de cambios de estructura organizativa.
+II.- Recibir y analizar la información de los estados financieros de los organismos auxiliares y fideicomisos y los informes y dictámenes que emitan los auditores externos;
 
-III. Emitir políticas y determinar los objetivos y técnicas específicas conforme a las cuales se deberán elaborar los Manuales de Procedimientos, las Guías de información y Servicios al Público y organizar los Archivos, Centros de Documentación y Unidades de Microfilmación.
+III.- Cuidar la aplicación de los recursos en los proyectos y ejecución de obras públicas y de coordinación con dependencias federales;
 
-IV. Emitir políticas y determinar normas y procedimientos para el desarrollo de Metodologías y diseño de Sistemas de Cómputo y vigilar su cumplimiento.
+IV.- Comprobar que los organismos auxiliares y fideicomisos que manejen fondos federales se sujeten a las disposiciones de la materia;
 
-V. Consolidar los Planes de Trabajo en materia de Informática y de Sistemas Automatizados, analizarlos para el logro del mejor aprovechamiento de los recursos, determinar los que deban llevarse a cabo y evaluar sus avances y resultados, indicando las modificaciones que procedan.
+V.- Verificar que los programas se ajusten a la planeación global del Ejecutivo del Estado y a los programas sectoriales y específicos;
 
-VI. Opinar sobre las solicitudes de adquisición de equipo de informática o contratación de servicios técnicos de cómputo, y acordar lo que mejor se integre a los Planes Generales y Sectoriales en la materia.
+VI.- Observar la aplicación de los sistemas de control interno de los organismos auxiliares y fideicomisos y evaluar su eficacia;
 
-VII. Establecer sistemas para la evaluación y selección de personal técnico especializado en informática y vigilar su cumplimiento.
+VII.- Vigilar que los sistemas de contabilidad se apeguen a las normas que al efecto emita la Secretaría de Finanzas y Planeación;
 
-VIII. Consolidar los Programas Anuales de Adquisiciones y proponer las compras y contratos que deban realizarse de manera consolidada con el Sector Central.
+VIII.- Establecer y difundir los criterios, normas, y resoluciones sobre sistemas de control interno y evaluación a que estarán sujetas las actividades de los organismos auxiliares y fideicomisos;
 
-IX. Opinar sobre las solicitudes de adquisición de bienes inmuebles y acordar las que procedan, sugiriendo en su caso, alternativas para satisfacer los requerimientos.
+IX.- Practicar auditorías y evaluaciones y emitir el dictamen o informe correspondiente; y
 
-X. Vigilar que la enajenación de bienes muebles e inmuebles se efectúe en los términos establecidos por la Ley de la materia y en el dictamen del Comité Ejecutivo de Adquisiciones, Enajenaciones, Arrendamientos, Mantenimiento y Almacenes.
-
-XI. Vigilar que las adquisiciones de inmuebles se realicen en los términos de las disposiciones legales vigentes y que se acate lo dispuesto en el dictamen del Comité Ejecutivo de Adquisiciones, Enajenaciones, Arrendamientos, Mantenimiento y Almacenes.
-
-XII. Emitir normas para la realización y actualización valorada de los Inventarios de Bienes Muebles e Inmuebles.
-
-XIII. Emitir lineamientos sobre el control de Almacenes y vigilar su cumplimiento.
-
-XIV. Vigilar que en los Organismos Auxiliares y Fideicomisos se cumpla con lo dispuesto en la Legislación Laboral vigente y demás Ordenamientos aplicables.
-
-XV. Vigilar que las Condiciones Generales de Trabajo cumplan con el contenido mínimo establecido en la Legislación Laboral vigente.
-
-XVI. Vigilar que los Convenios con los Sindicatos de Trabajadores se realicen dentro de los lineamientos emitidos por el Ejecutivo del Estado.
-
-XVII. Dictar las disposiciones que normen la remuneración y prestaciones que correspondan a los trabajadores y vigilar su cumplimiento.
-
-XVIII. Emitir las guías técnicas para la formulación de los Catálogos de Puestos y Reglamentos de Escalafón, vigilando el cumplimiento de las normas que regulen el servicio civil de los trabajadores, por medio de la supervisión del funcionamiento de las Comisiones Mixtas de Capacitación y Escalafón.
-
-XIX. Establecer, de conformidad a los lineamientos emitidos por el Titular del Poder Ejecutivo, las políticas de crecimiento de la planta de personal y vigilar su cumplimiento.
-
-XX. Las demás que le señalen los Ordenamientos Jurídicos aplicables.
+X.- Las demás que le señalen los ordenamientos jurídicos aplicables.
 
 ### CAPITULO SEGUNDO.
 
@@ -275,9 +297,11 @@ DE LAS OBLIGACIONES EN RELACION CON LAS DEPENDENCIAS DE COORDINACION GLOBAL.
 
 Para el mejor cumplimiento de lo dispuesto en la Ley y este Reglamento, los Organismos Auxiliares y Fideicomisos tendrán las obligaciones que se señalan en este Capítulo, en relación con las Dependencias de Coordinación Global, además de las que le señalen otras disposiciones jurídicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE ABRIL DE 1996)</small>
+
 ###### ARTICULO 15.
 
-Son obligaciones de los Organismos Auxiliares y Fideicomisos con respecto a la Secretaría de Finanzas:
+Son obligaciones de los organismos auxiliares y fideicomisos con respecto a la Secretaría de Finanzas y Planeación:
 
 I. Proporcionar información financiera en los términos que la Secretaria establezca.
 
@@ -291,73 +315,103 @@ V. Presentar anualmente, en la fecha que determine la Secretaría, o cuando surj
 
 VI. Presentar a la Secretaría el Proyecto Anual de Ingresos a percibir.
 
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 1996)</small>
+
+VII. Presentar anualmente los programas de trabajo y aquellos de carácter especial que determine el Gobernador del Estado;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 1996)</small>
+
+VIII. Remitir a la secretaría los proyectos anuales de presupuesto de egresos;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 1996)</small>
+
+IX. Presentar mensualmente, dentro de los primeros 20 días naturales del mes siguiente al del cierre de sus operaciones, la información sobre el avance y cumplimiento de las metas físicas y financieras consignadas en sus programas y presupuestos aprobados;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 1996)</small>
+
+X. Efectuar las erogaciones una vez que los presupuestos hayan sido aprobados por la secretaría y hacerlo en los términos de la aprobación respectiva;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 1996)</small>
+
+XI. Remitir para su aprobación las modificaciones que se realicen a los presupuestos autorizados, así como las transferencias de partidas presupuestales;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 1996)</small>
+
+XII. Enviar el estado de flujo de efectivo correspondiente al mes de que se trate, así como una estimación para los dos meses siguientes cuando se tramiten recibos de ministración de fondos federales o estatales;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 1996)</small>
+
+XIII. Presentar la información financiera y estadística que la secretaría solicite en los plazos y términos que al efecto establezca;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 1996)</small>
+
+XIV. Inscribir en el registro que para tal efecto lleve la secretaría, los actos jurídicos de constitución, modificación o reforma que afecten su estructura o funcionamiento, dentro de los 30 días naturales siguientes al hecho;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 1996)</small>
+
+XV. Llevar registros contables, solicitando, en los casos que proceda, la autorización de la secretaría; y
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 1996)</small>
+
+XVI. Someter a consideración de la secretaría los estados financieros, dentro de los dos meses siguientes a la terminación del ejercicio fiscal correspondiente.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1996)</small>
+
 ###### ARTICULO 16.
 
-Son obligaciones de los Organismos Auxiliares y Fideicomisos con respeto a la Secretaría de Planeación, y de acuerdo a los lineamientos que la misma emita:
+Son obligaciones de los organismos auxiliares y fideicomisos con respecto a la Secretaría de Administración:
 
-I. Presentar anualmente, los Planes de Desarrollo, Programas Operativos y aquellos de carácter especial que fije el Gobernador del Estado.
+I.- Elaborar y enviar para su aprobación los manuales de organización y para su conocimiento los manuales de procedimientos y estudios administrativos que la secretaría establezca;
 
-II. Presentar a la Secretaría los Proyectos Anuales de Presupuesto de Egresos.
+II.- Proporcionar la información administrativa que le solicite, un ejemplar de todas sus publicaciones y la información necesaria para actualizar el directorio de servidores públicos;
 
-III. Presentar mensualmente, dentro de los primeros veinte días calendario, del mes siguiente al del cierre de sus operaciones, la información sobre el avance y cumplimiento de las metas físicas y financieras consignadas en sus Planes, Programas y Presupuestos aprobados
+III.- Enviar al Archivo General del Estado los documentos de trámite concluido;
 
-IV. Realizar las erogaciones una vez que los Presupuestos hayan sido aprobados por el Ejecutivo del Estado y hacerlo en los términos de la aprobación de los mismos.
+IV.- Informar sobre los requerimientos de modificación a la estructura orgánica y funcional;
 
-V. Enviar a la Secretaría, para su conocimiento, las modificaciones que realicen a los Presupuestos aprobados, así como las transferencias de partidas presupuestales.
+V.- Suscribirse a la Gaceta del Gobierno;
 
-VI. Enviar a la Secretaría el estado de flujo de efectivo correspondiente al mes de que se trate, así como una estimación para los dos meses siguientes, cuando se tramiten recibos de ministración de fondos federales o estatales.
+VI.- Informar sobre los programas de adquisición de equipo de cómputo y de contratación de servicios técnicos en la materia;
 
-VII. Presentar la información financiera y estadística que la Secretaría solicite en los plazos y términos que al efecto establezca.
+VII.- Remitir los planes de trabajo en materia de informática, a más tardar el primer día hábil del mes de septiembre del año anterior al ejercicio a que se refieran;
 
-VIII. Inscribir en el registro que para tal efecto lleve la Secretaría, los actos Jurídicos de constitución, modificación o reforma que afecten su estructura o funcionamiento, dentro de los treinta días calendario siguientes al hecho.
+VIII.- Enviar la documentación de los sistemas de cómputo que desarrollen;
 
-IX. Llevar libros y registros contables, sean requeridos o no por Dependencias Federales solicitando, en los casos que proceda, la autorización de la Secretaría.
+IX.- Presentar sus programas de adquisiciones;
 
-X. Otorgar facilidades para la práctica de auditarlas y evaluaciones que lleve a cabo la Secretaría. Iguales facilidades deberán ser otorgadas a los auditores externos que se designen en los términos del Artículo 24 de la Ley.
+X.- Realizar sus adquisiciones en los términos de la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos Mantenimientos y Almacenes;
 
-XI. Someter a consideración de la Secretaría los estados financieros, dentro de los dos meses siguientes a la terminación del ejercicio fiscal correspondiente.
+XI.- Observar las disposiciones de consolidación de adquisiciones con el sector central, emitidas por el Comité Ejecutivo de Adquisiciones, Enajenaciones, Arrendamientos. Mantenimientos y Almacenes;
+
+XII.- Entregar para su autorización los catálogos de precios unitarios de los bienes a que se refieren los programas de adquisiciones;
+
+XIII.- Presentar su programa anual de requerimientos de bienes inmuebles;
+
+XIV.- Levantar y mantener actualizado el inventario valorizado de bienes muebles e inmuebles;
+
+XV.- Informar su situación en lo relativo a patrimonio inmobiliario;
+
+XVI.- Cumplir con las normas y procedimientos que emita la secretaría sobre control de almacenes;
+
+XVII.- Aplicar las disposiciones que emita la secretaría en lo relativo a remuneraciones, prestaciones y crecimiento de la planta de personal, enviando esta información durante los primeros 30 días del mes de enero y notificar los cambios que se realicen; y
+
+XVIII.- Enviar a la secretaría dentro de los cinco primeros días hábiles de cada mes, la información relativa a número, categoría y niveles de personal, así como los movimientos de altas, bajas y transferencias realizadas en el período y costo de la erogación mensual en servicios personales.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1996)</small>
 
 ###### ARTICULO 17.
 
-Son obligaciones de los Organismos Auxiliares y Fideicomisos con respecto de la Secretaría de Administración (sic)
+Son obligaciones de los organismos auxiliares y fideicomisos con respecto de la Secretaría de la Contraloría:
 
-I. Formular y enviar a la Secretaría, para su aprobación los Manuales de Organización y para su conocimiento, los Manuales de Procedimientos y Estudios Administrativos que la misma establezca.
+I.- Facilitar la práctica de auditorías, arqueos y evaluaciones;
 
-II. Proporcionar a la Secretaría la información administrativa que se solicite, un ejemplar de todas sus publicaciones y la información necesaria para actualizar el directorio de servidores públicos.
+II.- Apoyar las visitas de inspección que se realicen para verificar el cumplimiento de sus actividades;
 
-III. Enviar al Archivo General del Estado los documentos de trámite concluido, cuya organización, consulta, depuración y conservación permanente serán establecidos por los ordenamientos de la materia.
+III.- Permitir la supervisión de sus operaciones y sistemas de control interno, así como proporcionar la información que se le requiera respecto al desarrollo de sus funciones;
 
-IV. Informar sobre los requerimientos de modificación a la estructura orgánica y funcional.
+IV.- Presentar mensualmente, dentro de los primeros 20 días naturales, del mes siguiente al del cierre de sus operaciones, la información sobre el avance y cumplimiento de las metas físicas y financieras contenidas en sus planes, programas y presupuestos aprobados; y
 
-V. Suscribirse al Periódico Oficial del Gobierno del Estado.
-
-VI. Informar a la Secretaría sobre los Programas de Adquisición de equipo de cómputo y de contratación de servicios técnicos en la materia.
-
-VII. Enviar los Planes de Trabajo en materia de Informática, a más tardar el primer día hábil del mes de septiembre del año anterior al ejercicio a que se refieran.
-
-VIII. Enviar a la Secretaría la documentación de los sistemas de cómputo que desarrollen.
-
-IX. Presentar a la Secretaría sus Programas de Adquisiciones.
-
-X. Realizar sus adquisiciones por medio de concursos, con la participación de tres proveedores como mínimo a excepción de los casos tipificados por la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos, Mantenimiento y Almacenes. En caso de adquisiciones mayores, realizar concursos públicos abiertos, permitiendo la contrapostura de los proveedores participantes antes de proceder al fallo definitivo.
-
-XI. Observar las disposiciones de consolidación de adquisiciones con el Sector Central, emitidas por el Comité Ejecutivo de Adquisiciones, Enajenaciones, Arrendamientos, Mantenimiento y Almacenes.
-
-XII. Celebrar los contratos y hacer los pedidos con las personas físicas o morales registradas en el Padrón de Proveedores de la Administración Pública Estatal, salvo en los casos previstos por la Ley de la materia La Secretaría informará permanentemente a los Titulares de los Organismos Auxiliares y Fideicomisos la actualización a dicho Padrón.
-
-XIII. Entregar para la autorización de la Secretaría los Catálogos de Precios Unitarios de los bienes a que se refieren los Programas de Adquisiciones.
-
-XIV. Presentar a la Secretaría su Programa Anual de Requerimientos de bienes Inmuebles.
-
-XV. Levantar y mantener actualizado el inventarlo valorizado de bienes muebles e inmuebles.
-
-XVI. Informar a la Secretaría su situación en lo relativo a patrimonio inmobiliario.
-
-XVII. Observar las normas y procedimientos que emita la Secretaría sobre control de Almacenes.
-
-XVIII. Observar las disposiciones que emita la Secretaría en lo relativo a remuneraciones, prestaciones y crecimiento de la planta de personal, enviando esta información durante los primeros treinta días del mes de enero y notificando los cambies que se realicen.
-
-XX (sic). Enviar a la Secretaría dentro de los cinco primeros días hábiles de cada mes, la información relativa a número, categoría y niveles de personal, así como los movimientos de altas, bajas y transferencias realizadas en el período y costo de la erogación mensual en servicios personales.
+V.- Enviar la información de sus estados financieros y avance presupuestal para su evaluación.
 
 ### CAPITULO SEGUNDO.
 
@@ -429,11 +483,11 @@ El procedimiento para la designación de los miembros de los Organos de Gobierno
 
 ###### ARTICULO 21.
 
-El Titular de la Dependencia Coordinadora de Sector, propondrá al Gobernador del Estado, el nombramiento de los servidores públicos propietarios y suplentes del Órgano de Gobierno de que se trate, en los términos que dispone la Ley.
+(DEROGADO, P.O. 12 DE ABRIL DE 1996)
 
 ###### ARTICULO 22.
 
-El Titular de la Dependencia Coordinadora de Sector comunicará el Acuerdo obtenido a la Secretaría de Administración, la cual expedirá el nombramiento respectivo, informando al Titular del Organismo Auxiliar o Fideicomiso de que se trate.
+(DEROGADO, P.O. 12 DE ABRIL DE 1996)
 
 ###### ARTICULO 23.
 
@@ -477,27 +531,7 @@ X. Aprobar y firmar las actas de las sesiones.
 
 ###### ARTICULO 27.
 
-Son facultades y obligaciones del Vicepresidente:
-
-I. Preparar el orden del día de las sesiones.
-
-II. Vigilar que se envíen, a los miembros del Organo de Gobierno, las carpetas previas a las sesiones con la antelación debida.
-
-III. Revisar los asuntos del orden del día con el Presidente.
-
-IV. Mantener informado al Presidente y acordar con él, sobre los puntos del orden del día que así lo requieran
-
-V. Enviar a la Secretaria del Organo de Gobierno el orden del día en un plazo no menor a diez días hábiles antes de la sesión.
-
-VI. Auxiliar al Presidente en la dirección de los debates
-
-VII. Tener informado al Presidente sobre los avances de los acuerdos tomados.
-
-VIII. Emitir su voto normal en su posición de Vicepresidente y de calidad, cuando presida la sesión.
-
-IX. Suplir al Presidente en sus ausencias.
-
-X. Aprobar y firmar las actas de las sesiones.
+(DEROGADO, P.O. 12 DE ABRIL DE 1996)
 
 ###### ARTICULO 28.
 
@@ -537,35 +571,41 @@ VI. Vigilar el cumplimiento del marco legal que le da origen al Organismo o Fide
 
 VII. Firmar las actas de las sesiones.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1996)</small>
+
 ###### ARTICULO 30.
 
 Son facultades y obligaciones del Secretario:
 
-I. Recibir del Vicepresidente el orden del día y del Titular del Organismo Auxiliar o Fideicomiso el Informe Mensual de Actividades.
+I.- Preparar el orden del día de las sesiones;
 
-II. Expedir por escrito la convocatoria de la sesión de que se trate.
+II.- Expedir por escrito, la convocatoria de la sesión de que se trate;
 
-III. Estructurar le carpeta de la sesión correspondiente, la que deberá contener convocatoria, orden del día, acuerdos de la sesión anterior, relación de documentos en cartera, acuerdos pendientes de cumplimiento, Informe del Titular del Organismo Auxiliar o Fideicomiso de que se trate, y los anexos que correspondan, y enviarla a todos los miembros del Organo de Gobierno.
+III.- Integrar la carpeta de la sesión correspondiente, la que deberá contener convocatoria, orden del día, acuerdos de la sesión anterior, relación de documentos en cartera, acuerdos pendientes de cumplimiento, informe del titular del organismo auxiliar o fideicomiso y los anexos que correspondan y enviarla, con una antelación de cinco días hábiles, a todos los miembros del órgano de gobierno;
 
-IV. Tomar asistencia y declarar quórum.
+IV.- Revisar con el presidente los asuntos del orden del día;
 
-V. Tramitar ante las autoridades competentes todas aquellas modificaciones al acto constitutivo del Organismo Auxiliar o Fideicomiso de que se trate.
+V.- Tomar asistencia y declarar quórum;
 
-VI. Leer el orden del día y el acta de la sesión anterior
+VI.- Auxiliar al presidente en el desarrollo de los debates;
 
-VII. Inscribir a los miembros del Organo de Gobierno que deseen tomar la palabra.
+VII.- Tener informado al presidente sobre los avances de los acuerdos tomados;
 
-VIII. Vigilar el cumplimiento del orden de inscripción de los expositores.
+VIII.- Tramitar, ante las autoridades competentes, las modificaciones al acto constitutivo del organismo auxiliar o fideicomiso;
 
-IX. Vigilar que el uso de la palabra no exceda del límite establecido por el propio Organo de Gobierno.
+IX.- Leer el orden del día y el acta de la sesión anterior;
 
-X. Computar las votaciones.
+X.- Inscribir a los miembros del órgano de gobierno que deseen tomar la palabra;
 
-XI. Enviar a la Secretaría de Planeación y al Secretario Coordinador de Sector, copia del acta de cada una de las sesiones dentro de los diez días hábiles siguientes a la celebración de las mismas.
+XI.- Registrar y leer las propuestas de los miembros del órgano de gobierno;
 
-XII. Inscribir y leer propuestas de los miembros del Organo de Gobierno.
+XII.- Vigilar el cumplimiento del orden de inscripción de los expositores;
 
-XIII. Levantar acta de cada sesión, de los asuntos tratados y acuerdos tomados.
+XIII.- Computar las votaciones;
+
+XIV.- Enviar a las Secretarías de Finanzas y Planeación, de Administración y de la Contraloría y a la dependencia coordinadora de sector, copia del acta de cada una de las sesiones dentro de los 10 días hábiles siguientes a la celebración de las mismas; y
+
+XV.- Levantar acta de cada sesión de los asuntos tratados y acuerdos tomados.
 
 ### CAPITULO TERCERO.
 
@@ -575,9 +615,11 @@ DE LAS SESIONES DE TRABAJO DE LOS ORGANOS DE GOBIERNO.
 
 Las sesiones de trabajo de los Organos de Gobierno de los Organismos Auxiliares y Fideicomisos, se sujetarán, además de lo que señala la ley y otras disposiciones Jurídicas, a lo establecido en este Capítulo.
 
+REFORMADO, P.O. 12 DE ABRIL DE 1996)
+
 ###### ARTICULO 32.
 
-Los Organos de Gobierno, de Organismos Auxiliares y Fideicomisos, celebrarán Sesiones Ordinarias mensualmente. También podrán celebrar Sesiones Extraordinarias cuando el Presidente lo estime necesario o a petición de la tercera parte del Organo de Gobierno.
+Los órganos de gobierno de los organismos auxiliares y fideicomisos celebrarán cuando menos, sesiones ordinarias bimestralmente. Podrán celebrar sesiones extraordinarias cuando el preente (sic) lo estime necesario o a petición de la tercera parte de los miembros del órgano de gobierno.
 
 ###### ARTICULO 33.
 
@@ -587,9 +629,11 @@ La convocatoria deberá incluir el lugar, día y hora en que se celebre la sesi�
 
 Se podrá convocar en un mismo citatorio, por primera y segunda vez para una sesión, siempre que medie, por lo menos, media hora entre la señalada para la que tenga lugar la primera y la que se fije para la segunda.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1996)</small>
+
 ###### ARTICULO 35.
 
-Para que la sesión pueda celebrarse en primera convocatoria, será necesaria la presencia del Presidente o Vicepresidente, Secretario, Comisario y de la mayoría simple de los Vocales. En caso de que se trate de segunda convocatoria, la sesión podrá celebrarse válidamente con la presencia del Presidente o Vicepresidente Secretario, Comisario y cuando menos dos vocales.
+Para que la sesión pueda celebrarse en primera convocatoria, será necesaria la presencia del presidente, secretario, comisario y de la mayoría simple de los vocales. En caso de que se trate de segunda convocatoria, la sesión podrá celebrarse validamente con la presencia del presidente, secretario, comisario y, cuando menos, dos vocales.
 
 ###### ARTICULO 36.
 
@@ -683,7 +727,9 @@ II. Lugar en donde se efectuó la sesión de trabajo.
 
 III. Día, mes y año de la celebración de la sesión.
 
-IV. Asistentes a la sesión, listándose en el orden siguiente: Presidente, Vicepresidente, Vocales, Comisario y Secretario.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 1996)</small>
+
+IV. Asistentes a la sesión, listándose en el orden siguiente: presidente, vocales, comisario y secretario.
 
 V. Puntos del orden del día en la secuencia que fueron tratados.
 
@@ -695,7 +741,9 @@ VIII. Acuerdos tomados, codificándose con tres dígitos las siglas del Organism
 
 IX. Hora, día, mes y año de haberse declarado concluida la Sesión.
 
-X. Firma de los asistentes a la Sesión en el orden siguiente: El presidente, el Vicepresidente, los Vocales, el Comisario y el Secretario. En todos los casos deberá anotarse nombre y cargo de cada uno de los miembros del Organo de Gobierno.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 1996)</small>
+
+X. Firma de los asistentes a la sesión en el orden siguiente: El presidente, los vocales, el comisario y el secretario. En todos los casos deberá anotarse nombre y cargo de cada uno de los miembros del órgano de gobierno.
 
 ###### ARTICULO 53.
 
@@ -756,3 +804,13 @@ LIC. JOSE ANTONIO MUÑOZ SAMAYOA.
 EL SECRETARIO DE ADMINISTRACION.
 
 R. CARLOS F. ALMADA LOPEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE ABRIL DE 1996.
+
+PRIMERO.- Publíquese el presente decreto en la Gaceta del Gobierno.
+
+SEGUNDO.- Este decreto entrará en vigor el día siguiente de su publicación en la Gaceta del Gobierno.
+
+TERCERO.- Los organismos auxiliares y fideicomisos dentro de los 180 días naturales, contados a partir de la vigencia del presente decreto, deberán ajustar su operación a lo establecido por estas disposiciones.
