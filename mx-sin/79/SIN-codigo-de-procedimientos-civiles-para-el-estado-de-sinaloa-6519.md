@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "2000-12-20"
+last_updated: "2001-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 02 DE FEBRERO DE 2001.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -6245,7 +6245,7 @@ En todos los casos en que el tutor necesite para algún acto de la licencia del 
 
 De la Adopción.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1975)</small>
+> <small>(REFORMADO, P.O. 02 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 965.
 
@@ -6329,41 +6329,61 @@ De las Informaciones Ad-perpetuam.
 
 ###### Artículo 978.
 
-El que pretenda adoptar a alguna persona deberá acreditar:
+El que pretenda adoptar deberá acreditar los requisitos señalados por el artículo 391 del Código Civil para el Estado de Sinaloa, debiéndose observar lo siguiente:
 
-I. Que es mayor de treinta años y tiene por lo menos diecisiete años más de edad que la persona que trata de adoptar;
+I.- En la solicitud se deberá manifestar el tipo de adopción que se promueve, el nombre, edad y si lo hubiere, el domicilio de la niña o niño o persona con incapacidad que se pretende adoptar; el nombre, edad y domicilio de quienes en su caso ejerzan sobre él la patria potestad o tutela, o de la persona o institución de asistencia social, pública o privada, que lo haya acogido.
 
-II. Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trate de adoptar.
+A la solicitud se acompañará certificado médico de buena salud, estudios socio-económicos y psicológicos del o de los pretensos adoptantes. Dichos estudios serán realizados por el Sistema para el Desarrollo Integral de la Familia del Estado de Sinaloa o por institución que a juicio del juez sea suficiente;
 
-III. Que la adopción es benéfica para la persona que trata de adoptarse.
+II.- Cuando el menor hubiere sido acogido por una institución de asistencia social, pública o privada, el presunto adoptante o la institución según sea el caso, recabarán constancia del tiempo de la exposición o abandono para los efectos del artículo 445, fracción IV, del Código Civil;
 
-IV. Que el adoptante es persona de buenas costumbres.
+III.- Si hubieran transcurrido menos de seis meses de la exposición o abandono, se decretará el depósito de quien se pretende adoptar con el presunto adoptante, entre tanto se consuma dicho plazo;
 
-V. Que el adoptante es persona de buenas costumbres.
+IV.- Si no se conociera el nombre de los padres o no hubiere sido acogido por institución de asistencia social, pública o privada, se decretará la custodia con el presunto adoptante, por el término de seis meses para los mismos efectos, siempre y cuando ello, sea en beneficio del pretenso adoptado.
 
-En la promoción inicial deberá manifestarse: el nombre y edad del menor o incapacitado, el nombre y domicilio de quienes ejercen sobre él la patria potestad o la tutela, y, en su caso, el de la persona o institución de beneficencia que lo tenga acogido.
+En los supuestos en que el menor haya sido entregado a dichas instituciones por quienes ejerzan en él la patria potestad, para promover su adopción en cualquiera de sus dos formas, no se requerirá que transcurra el plazo de seis meses a que se refiere el presente artículo, y
+
+V.- Tratándose de extranjeros se deberá acreditar su legal estancia o residencia en el país y así como la autorización para adoptar.
+
+Los extranjeros con residencia en otro país deberán presentar certificado de idoneidad expedido por la autoridad competente de su país de origen que acredite que el solicitante es considerado apto para adoptar; constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y residir permanentemente en dicho Estado; autorización de la Secretaría de Gobernación para internarse y permanecer en el país con la finalidad de realizar una adopción.
+
+La documentación que presenten los solicitantes extranjeros en idioma distinto al español, deberá acompañarse de la traducción oficial, la misma deberá estar apostillada por el Cónsul mexicano.
+
+> <small>(REFORMADO, P.O. 02 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 979.
 
-Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deban darlo conforme a los artículos 398 y 399 del Código Civil, el tribunal resolverá dentro del tercer día.
+Rendidas las constancias que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deben darlo, conforme al Código Civil, el juez resolverá dentro de cinco días, lo que proceda sobre la adopción.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1975)</small>
+> <small>(REFORMADO, P.O. 02 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 980.
 
-Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el Juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo que dispone el artículo 408 del Código Civil.
+Cuando el adoptante y el adoptado pidan que la adopción simple sea revocada, el juez los citará a una audiencia verbal, para que dentro de los tres días siguientes, se resuelva conforme a lo dispuesto en el artículo 408 del Código Civil.
 
-> <small>(F. DE E. P.O. 15 DE AGOSTO DE 1975)</small>
+> <small>(ADICIONADO, P.O. 02 DE FEBRERO DE 2001)</small>
 
-Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaron para la adopción y sin oír al representante del Ministerio Público.
+###### Artículo 980 Bis.
 
-Para acreditar cualquier hecho relativo a la conveniencia de la revocación en los casos del artículo citado, podrán rendirse toda clase de pruebas.
+Si el adoptado fuere menor de edad, para resolver sobre la revocación se oirá previamente a las personas que prestaron su consentimiento conforme al Código Civil, cuando fuere conocido su domicilio o, en su caso, se oirá al Ministerio Público.
 
-La petición de que sea revocada la adopción a que se refiere la fracción III del artículo 406 del Código Civil, podrá hacerse en la solicitud o en la demanda da (sic) divorcio de nulidad del matrimonio, o en la contestación a estas demandas, y el Juez resolverá lo procedente al pronunciar el fallo definitivo en el juicio correspondiente. También podrá hacerse la petición de revocación dentro de los sesenta días que sigan a la fecha en que haya causado ejecutoria el fallo que decrete el divorcio o la nulidad del matrimonio.
+> <small>(ADICIONADO, P.O. 02 DE FEBRERO DE 2001)</small>
+
+###### Artículo 980 Bis
+
+1. Para acreditar cualquier hecho relativo a la revocación, las partes podrán ofrecer toda clase de pruebas, conforme a las disposiciones de este Código.
+
+> <small>(ADICIONADO, P.O. 02 DE FEBRERO DE 2001)</small>
+
+###### Artículo 980 Bis
+
+2. Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena y se reúnan los requisitos previstos en el artículo 405 del Código Civil, el juez los citará a una audiencia verbal dentro de los ocho días siguientes con la intervención del Ministerio Público, luego de la cual se resolverá lo conducente, en el término de ocho días.
+
+> <small>(REFORMADO, P.O. 02 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 981.
 
-La impugnación de la adopción y su revocación en los casos de los artículos 395 y 406 fracción II del Código Civil, se tramitarán en la vía sumaria.
+Los procedimientos de revocación en materia de adopción simple, se seguirán por la vía ordinaria.
 
 ###### Artículo 982.
 
@@ -7035,15 +7055,11 @@ El presente Decreto entrará en vigor a partir de su publicación en el Periódi
 
 P.O. 3 DE MAYO DE 1989.
 
-Artículo Unico.- Las presentes reformas iniciarán su vigencia a los cuarenta y cinco días de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-P.O. 21 DE JULIO DE 1995.
-
 ###### ARTICULO UNICO.
 
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+Las presentes reformas iniciarán su vigencia a los cuarenta y cinco días de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-P.O. 20 DE DICIEMBRE DE 2000.
+P.O. 21 DE JULIO DE 1995.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -7055,6 +7071,30 @@ Los recursos de revocación y apelación que procedan en contra de las resolucio
 
 P.O. 3 DE JULIO DE 1996.
 
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 20 DE DICIEMBRE DE 2000.
+
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 02 DE FEBRERO DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Las adopciones que se encuentren en trámites, a la fecha de publicación de las presentes reformas, se resolverán de acuerdo con las disposiciones vigentes hasta antes de la publicación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+No obstante, si en las adopciones que actualmente se tramitan hubiere la voluntad del adoptante de obtener la adopción plena, podrá seguirse el procedimiento establecido por el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Las adopciones realizadas con anterioridad a la entrada en vigor del presente Decreto podrán convertirse a plenas, de acuerdo con los requisitos y procedimientos establecidos por este Decreto.
