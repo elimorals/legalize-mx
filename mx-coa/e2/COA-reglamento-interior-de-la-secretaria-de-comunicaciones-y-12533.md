@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-comunicaciones-y-12533"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-05-17"
-last_updated: "1996-05-17"
+last_updated: "1998-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y OBRAS PUBLICAS DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 1998.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el viernes 17 de mayo de 1996.
 
@@ -78,6 +78,10 @@ Dirección de Concursos y Contratos
 Dirección de Evaluacion y Seguimeiento
 
 Dirección de Administración
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 1998)</small>
+
+Dirección Jurídica
 
 Los manuales de organización precisarán la estructura orgánica y las funciones específicas de las áreas que conforman las unidades administrativas a que se refiere este artículo.
 
@@ -531,6 +535,30 @@ VII.- Llevar los estados de cuenta de los programas de inversión que realice la
 
 VIII.- Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera el titular de la Secretaría y su superior jerárquico inmediato.
 
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 1998)</small>
+
+###### ARTICULO 23 Bis.
+
+Corresponde al Director Jurídico, previo acuerdo con el Secretario:
+
+I.- Fungir como asesor jurídico de la Secretaría de Comunicaciones y Obras Públicas;
+
+II.- Representar legalmente a la Secretaría, previo otorgamiento de poderes especiales por parte del titular de esa dependencia, para actuar en los procedimientos judiciales y administrativos en los que la Secretaría fuere parte o intervenga en cumplimiento a sus resoluciones;
+
+III.- Asesorar y apoyar jurídicamente, en el ámbito de su competencia, a las unidades administrativas de la Secretaría;
+
+IV.- Formular y revisar las circulares, acuerdos, resoluciones, convenios y contratos, que correspondan a la Secretaría;
+
+V.- Intervenir, en el ámbito de su competencia y previo acuerdo con el Secretario, en el ejercicio de las atribuciones que las diversas disposiciones legales le encomiendan a la Secretaría;
+
+VI.- Formular, para su revisión y trámite posterior, los anteproyectos de iniciativas de leyes, reglamentos, reformas, decretos, acuerdos y demás disposiciones en la materia que sean competencia de la Secretaría;
+
+VII.- Compilar las leyes, reglamentos, decretos, acuerdos y demás disposiciones relacionadas con las atribuciones encomendadas a la Secretaría, así como realizar estudios comparativos de los mismos y de los ordenamientos federales y otras entidades federativas en la materia;
+
+IX (SIC).- Elaborar los informes previos y justificados que deban rendir a las autoridades federales el Secretario o los Directores de las unidades administrativas que corresponden a la Secretaría, cuando la misma sea señalada como autoridad responsable o bien tenga el carácter de tercero perjudicado; y
+
+X.- Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera el titular de la Secretaría y su superior jerárquico inmediato.
+
 ### CAPITULO V. DE LOS ORGANOS DESCONCENTRADOS
 
 ###### ARTICULO 24.
@@ -590,3 +618,11 @@ LIC. CARLOS JUARISTI SEPTIEN
 EL SECRETARIO DE COMUNICACIONES Y OBRAS PUBLICAS
 
 LIC. ANTONIO KARAM MACCISE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 20 DE MARZO DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este decreto.
