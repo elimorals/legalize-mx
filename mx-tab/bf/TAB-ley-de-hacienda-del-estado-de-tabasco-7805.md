@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-7805"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "1995-03-15"
+last_updated: "1995-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 30 de diciembre de 1992.
 
@@ -51,9 +51,11 @@ LEY DE HACIENDA DEL ESTADO DE TABASCO
 
 #### SECCION UNICA. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
 ###### Artículo 1.
 
-Esta Ley es de orden público y de interés social y tiene por objeto regular los impuestos, derechos, productos, aprovechamientos y participaciones que corresponden al Estado y que estén previstos en la misma o en otras disposiciones fiscales aplicables.
+La presente Ley es de orden público y de interés social. Tiene por objeto regular los impuestos, derechos, productos, aprovechamientos, participaciones y demás ingresos que corresponden al Estado, que estén previstos en la ley y en las disposiciones fiscales aplicables; para cubrir los gastos de gobierno.
 
 ###### Artículo 2.
 
@@ -91,9 +93,11 @@ La Secretaría de Finanzas podrá ordenar que se practiquen las investigaciones 
 
 #### SECCION UNICA. SUJETO, OBJETO, BASE Y TASA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
 ###### Artículo 7.
 
-Están obligados al pago del "Impuesto Sobre Traslado de Dominio de Bienes Muebles Usados", cualquiera que sea el uso, las personas físicas que transmitan bajo cualquier título la propiedad de los mismos, excepción hecha de los vehículos propiedad de la Federación, Estado y Municipio.
+Están obligados al pago del impuesto sobre traslado de dominio de bienes muebles usados, cualquiera que sea el uso, las personas que transmitan bajo cualquier título la propiedad de los mismos, excepción hecha de los vehículos propiedad de la Federación, Estado y Municipio.
 
 Se entiende por "Bien Mueble Usado" para efectos de este impuesto, muebles y vehículos automotores que se haya utilizado, disfrutado o servido a partir de su adquisición.
 
@@ -139,15 +143,19 @@ Las personas que lleven a cabo las operaciones traslativas a que este impuesto s
 
 Tratándose de vehículos, las autoridades de tránsito en el Estado, no darán trámite a ninguna solicitud de "ALTA" o "BAJA" si no se hubiere cubierto, previamente, el impuesto a que se refiere dicho capítulo, así como lo referente al pago de tenencia y derecho de placa.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
 ###### Artículo 8.
 
-Son sujetos de este impuesto los adquirientes de los bienes muebles usados señalados en el artículo 7 de esta Ley.
+Son sujetos de este impuesto las personas físicas que transmitan la propiedad de bienes muebles usados a que se refiere el artículo 7 de esta ley.
 
 Son solidarios de este impuesto:
 
-I. Cualquier persona, aparte del sujeto, que intervenga en las operaciones;
+I.- El comprador o el adquiriente;
 
-II. Los empleados o servidores públicos que autoricen cualquier trámite de los requeridos en este capítulo, sin haberse cerciorado del pago de este impuesto.
+II.- Cualquier persona, aparte del sujeto, que intervenga en las operaciones;
+
+III.- Los empleados o servidores públicos que autoricen cualquier trámite de los requeridos en este capítulo, sin haberse cerciorado del pago de este impuesto.
 
 ###### Artículo 9.
 
@@ -417,11 +425,23 @@ a) En forma habitual sobre el importe total de los ingresos 3.0%
 
 b) En forma eventual sobre el importe total de los ingresos 10.0%
 
-Para los efectos de este impuesto, se considera que se ha percibido un ingreso en forma eventual, cuando el sujeto del impuesto no se encuentre domiciliado dentro del territorio del Estado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+Para el pago del 10% eventual serán responsables solidarios los propietarios y/o representantes legales de las clínicas, hospitales, sanatorios y los médicos particulares que tengan convenios o estén asociados con los sujetos del impuesto.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+Cuando existan consultas eventuales en consultorios particulares o en algún otro lugar: sean estos hoteles, casas de huéspedes, o domicilios particulares, etc., las autoridades fiscales habilitarán a inspectores para la verificación de sus ingresos y la revisión del pago de sus obligaciones.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 ###### Artículo 36.
 
-El pago de este impuesto se hará bimestralmente en la Receptoría de Rentas que corresponda, los días 20 de los meses de marzo, mayo, julio, septiembre, noviembre y enero del siguiente año, haciendo uso de las formas aprobadas por la Secretaría de Finanzas.
+El pago de este impuesto se efectuará en la Receptoría de Rentas que corresponda, haciendo uso de las formas aprobadas por la Secretaría de Planeación y Finanzas, de la manera siguiente:
+
+a) En forma habitual se hará bimestralmente, dentro de los primeros días de los meses de: marzo, mayo, julio, septiembre, noviembre y enero del siguiente año.
+
+b) En forma eventual al día siguiente de percibir el ingreso.
 
 #### SECCION TERCERA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES Y DE TERCEROS
 
@@ -491,7 +511,7 @@ Las infracciones al presente capítulo, serán sancionadas de conformidad con lo
 
 Como contraprestaciones por los servicios de carácter administrativo prestados por los Poderes del Estado, se causarán los derechos previstos en este capítulo. El monto de cobro de cualquier derecho no será inferior a 2 D.S.M.G.V.
 
-### CAPITULO CUARTO. POR LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE FINANZAS
+### CAPITULO CUARTO. POR LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE PLANEACION Y FINANZAS
 
 #### SECCION UNICA
 
@@ -503,9 +523,9 @@ I. Por la expedición del FIAT para el ejercicio notarial 90.0 D.S.M.G.V.
 
 II. Por el nombramiento de notarios adscritos o sustitutos 45.0 D.S.M.G.V.
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 1995)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-III. Por Autorización o Cancelación de cada Libro para el protocolo de los Notarios 10.0 D.S.M.G.V.
+III. Por la autorización o cancelación de cada libro del protocolo de los notarios 10.0 D.S.M.G.V.
 
 IV. Por el registro de sello y firma que utiliza el notario público 9.0 D.S.M.G.V.
 
@@ -729,6 +749,16 @@ d) De traslado hasta por tres días 5.0. D.S.M.G.V.
 
 e) Otros 3.0. D.S.M.G.V.
 
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1995
+
+###### Artículo 52 Bis.
+
+Para el pago de los derechos a que se refiere el artículo anterior, se observará lo siguiente:
+
+I. Tratándose de canje periódico general de placas de circulación, los derechos correspondientes deberán pagarse a más tardar, el día 31 de marzo del año para el que se realice el canje;
+
+II. Tratándose de refrendo anual de tarjetas de circulación y calcomanías de automóviles, camiones, camionetas, tractores, automotores, remolques, semirremolques y otros vehículos, los derechos correspondientes deberán pagarse a más tardar el 31 de marzo del año para el que se realice el refrendo.
+
 ### CAPITULO QUINTO. BUSQUEDA EN LOS ARCHIVOS, LEGALIZACION DE FIRMAS, EXPEDICION DE CERTIFICACIONES Y COPIAS CERTIFICADAS
 
 ###### Artículo 53.
@@ -749,17 +779,101 @@ IV. Compulsa de documentos de estudios 3.0 D.S.M.G.V.
 
 V. Incorporación de escuelas particulares 200.0 D.S.M.G.V.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
 ### CAPITULO SEXTO. DE LOS SERVICIOS PRESTADOS POR LA DIRECCION DE SEGURIDAD PUBLICA
 
 ###### Artículo 54.
 
 Por los servicios prestados por el Departamento de Catastro e Impuesto Predial se pagarán los derechos siguientes:
 
-I. Por la expedición y certificación del valor catastral de la propiedad raíz a petición de parte 3.0. D.S.M.G.V.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+I. Por la expedición y certificación del valor catastral de la propiedad raíz a petición de parte 4.0 D.S.M.G.V.
 
 II. Por la expedición de cada plano 10.0. D.S.M.G.V.
 
 III. Por la expedición de avalúos de propiedad raíz, sobre el valor 0.2%
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+IV. Certificación de documentos catastrales 5.0 D.S.M.G.V.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+V. Rectificación de medidas y colindancias.
+
+a) Predio urbano.
+
+Lote tipo hasta 105 M2 10.0 D.S.M.G.V.
+
+106.00 M2 hasta 200.00 M2 15.0 D.S.M.G.V.
+
+201.00 M2 hasta 300.00 M2 25.0 D.S.M.G.V.
+
+301.00 M2 hasta 600.00 M2 50.0 D.S.M.G.V.
+
+601.00 M2 en adelante 100.00 D.S.M.G.V.
+
+b) Predio rústico.
+
+Hasta una hectárea 10.0 D.S.M.G.V.
+
+De 1-00-00 Ha. a 3-00-00 has. 20.0 D.S.M.G.V.
+
+De 3-00-01 Ha. a 5-00-00 has. 30.0 D.S.M.G.V.
+
+De 5-00-01 Ha. a 10-00-00 has. 50.0 D.S.M.G.V.
+
+De 10-00-01 Ha. en adelante 100.0 D.S.M.G.V.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+VI. Copias de los planos cartográficos.
+
+a) Hasta la medida de 60 X 90 cms. 10.0 D.S.M.G.V.
+
+b) Medidas mayores a la anterior 20.0 D.S.M.G.V.
+
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1995
+
+###### Artículo 54
+
+Bis.- Por los servicios prestados por el Departamento de Licencia de Alcoholes, se pagará lo siguiente:
+
+I.- Por la licencia, permiso o autorización para el funcionamiento de establecimiento o local, cuyo giro sea:
+
+a) La enajenación de bebidas alcohólicas en envase cerrado 1500.0 D.S.M.G.V.
+
+b) La prestación de servicios que incluyan el expendio de bebidas alcohólicas al copeo 2000.0 D.S.M.G.V..
+
+II.- Por la revalidación anual de la licencia, permiso o autorización del establecimiento cuyo giro sea:
+
+a) La enajenación de bebidas alcohólicos (sic) en envase cerrado 50.0 D.S.M.G.V.
+
+b) La prestación de servicios que incluyan el expendio de bebidas alcohólicas al copeo 65.0 D.S.M.G.V.
+
+III.- Por el cambio de domicilio de los establecimientos cuyo giro sea:
+
+a) La enajenación de bebidas alcohólicas en envase cerrado 300.0 D.S.M.G.V.
+
+b) La prestación de servicios que incluyan el expendio de bebidas alcohólicas al copeo 400.0 D.S.M.G.V.
+
+IV.- Por permisos eventuales para el funcionamiento de establecimiento cuyo giro sea:
+
+a) La enajenación de bebidas alcohólicas en envase cerrado, por día 20.0 D.S.M.G.V.
+
+b) Por la prestación de servicios que incluyan el expendio de bebidas alcohólicas al copeo o en envase abierto, por día 30.0 D.S.M.G.V.
+
+V.- Por autorización de solicitud de ampliación de horarios de establecimientos cuyo giro sea:
+
+a) La enajenación de bebidas alcohólicas en envase cerrado por hora 100.0 D.S.M.G.V.
+
+b) La prestación de servicios que incluyan el expendio de bebidas alcohólicas al copeo o en envase abierto, por hora 150.0 D.S.M.G.V.
+
+VI.- Por reposición de licencia, permiso o autorización 35.0 D.S.M.G.V.
+
+Cuando no se hayan pagado oportunamente los derechos de revalidación dentro del plazo que establece la Ley que Reglamenta la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco, se pagarán recargos conforme a las disposiciones fiscales vigentes en la entidad.
 
 ### CAPITULO UNICO
 
@@ -954,3 +1068,9 @@ SECRETARIO DE GOBIERNO.
 P.O. 15 DE MARZO DE 1995.
 
 UNICO: En cumplimiento a lo dispuesto por el Artículo 10° de la Ley Orgánica del Poder Ejecutivo, publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para que entre en vigor al día siguiente de la misma.
+
+P.O. 30 DE DICIEMBRE DE 1995.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
