@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-159-de-salud-del-estado-de-guerrero-5188"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-25"
-last_updated: "1995-04-25"
+last_updated: "1997-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUM. 159, DE SALUD DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 25 de abril de 1995.
 
@@ -133,25 +133,101 @@ III.- Los Ayuntamientos en el ámbito de su respectiva competencia, en los térm
 
 La estructura administrativa a que se refieren los Artículos 19 y 20 de la Ley General de Salud, se denomina Servicios Estatales de Salud, que es un organismo público descentralizado con personalidad jurídica, patrimonio propio y con funciones de autoridad en los términos de la Ley, que tiene como objetivos la prestación de los servicios de salud en la Entidad, tanto en materia de salud pública como de atención médica; la promoción de la interrelación sistemática de acciones que en la materia lleven a cabo la Federación y el Estado, ejercer el control sanitario en su ámbito de competencia, así como la realización de las demás acciones que establezcan las disposiciones legales aplicables.
 
-###### ARTICULO 5º.
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1997)</small>
 
-La Administración de los Servicios Estatales de Salud, tendrá a su cargo la aplicación en el ámbito estatal, de la Legislación Sanitaria Federal y la Estatal, en los términos convenidos en el acuerdo de coordinación correspondiente, y de conformidad con las disposiciones legales aplicables.
+###### ARTICULO 4° Bis.
 
-###### ARTICULO 6º.
+El Organismo para el logro de su objeto, tendrá las siguientes atribuciones:
 
-Cuando en este ordenamiento se haga mención al organismo, se entenderá hecho a los Servicios Estatales de Salud.
+I.- Organizar y operar en el Estado de Guerrero, los servicios de salud a población abierta en materia de salubridad general y de regulación y control sanitario conforme a lo que establece el Acuerdo de Coordinación;
 
-###### ARTICULO 7º.
+II.- Organizar el Sistema Estatal de Salud, en términos de la Ley General de Salud y la Ley de Salud del Estado de Guerrero;
 
-La dirección y administración del organismo corresponderá:
+III.- Realizar todas aquellas acciones tendientes a garantizar el derecho a la protección de la salud de los habitantes del Estado;
 
-I.- Al Consejo de Administración;
+IV.- Ejercer las funciones de autoridad sanitaria en el Estado, en los términos de este ordenamiento y la Ley General de Salud;
 
-II.- Al Presidente Ejecutivo;
+V.- Llevar a cabo el control sanitario en los términos de la Ley General de Salud, en esta Ley y de los Acuerdos de Coordinación;
 
-III.- A la Dirección General Operativa.
+VI.- Impulsar la permanente actualización de las disposiciones legales en materia de salud;
 
-La vigilancia de la operación del organismo quedará a cargo del comisario.
+VII.- Conocer y aplicar la normatividad general en materia de salud, tanto nacional como internacional, a fin de proponer adecuaciones a las normas estatales y establecer esquemas que logren su correcto cumplimiento;
+
+VIII.- Coordinar los programas de servicios de Salud de las dependencias y entidades de la Administración Pública Estatal, realizando todas aquellas acciones necesarias para mejorar la calidad en su prestación;
+
+IX.- Apoyar en la Entidad la coordinación de los programas y servicios de salud de toda dependencia o entidad pública en los términos de la legislación aplicable y de los acuerdos de coordinación que en su caso se celebre;
+
+En el caso de programas y servicios de las instituciones federales de seguridad social, el mencionado apoyo se realizará tomando en cuenta lo que previenen las leyes que rigen el funcionamiento de dichas instituciones;
+
+X.- Promover la ampliación de la cobertura de la prestación de los servicios, apoyando los programas que para tal efecto elabore la Secretaría de Salud del Gobierno Federal;
+
+XI.- Impulsar, en los términos de los convenios que al efecto se suscriban, la desconcentración y descentralización a los municipios de los servicios de salud;
+
+XII.- Coordinar el proceso de programación de las actividades de salud en el Estado, con sujeción a las disposiciones legales aplicables;
+
+XIII.- Promover, coordinar y realizar la evaluación de los programas y servicios de salud, que le sea solicitada por el Ejecutivo Estatal;
+
+XIV.- Administrar los recursos que le sean asignados, las cuotas de recuperación, así como las aportaciones que reciba de otras personas o instituciones;
+
+XV.- Formular recomendaciones a las dependencias competentes sobre la asignación de los recursos que requieren los programas de salud del Estado;
+
+XVI.- Promover el establecimiento de un sistema estatal de información básica en materia de salud, que facilite a las autoridades e instituciones competentes la investigación, estudio y análisis de temas y aspectos específicos;
+
+XVII.- Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades de salud del Estado, con sujeción a las disposiciones generales aplicables;
+
+XVIII.- Apoyar la coordinación entre las instituciones de salud y educativas del Estado, para formar y capacitar profesionistas, especialistas y técnicos en materia de salud;
+
+XIX.- Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Estatal de Salud;
+
+XX.- Impulsar, en el ámbito estatal, las actividades científicas y tecnológicas en el campo de la salud;
+
+XXI.- Coadyuvar con las dependencias federales competentes en la regulación y control de la transferencia de tecnología en el área de la salud;
+
+XXII.- Difundir a las autoridades correspondientes y a la población en general, a través de publicaciones y actos académicos, los resultados de los trabajos de investigación, estudio, análisis y de recopilación de información, documentación e intercambio que realice;
+
+XXIII.- Promover e impulsar la participación de la comunidad del Estado en el cuidado de su salud; y
+
+XXIV.- Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1997)</small>
+
+###### ARTICULO 5°.
+
+El patrimonio del Organismo estará constituido por:
+
+I.- Los derechos que tenga sobre los bienes muebles e inmuebles y recursos que le transfieran los gobiernos Federal, Estatal y Municipales;
+
+II.- Las aportaciones que los gobiernos Federal, Estatal y Municipales le otorguen;
+
+III.- Las aportaciones, donaciones, legados y demás análogas que reciba de los sectores social y privado;
+
+IV.- Las cuotas de recuperación que reciba por los servicios que presten;
+
+V.- Los rendimientos, recuperaciones y demás ingresos que obtenga de la inversión de los recursos a que se refieren las fracciones anteriores;
+
+VI.- Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la ley, y
+
+VII.- En general, todos los bienes, derechos y obligaciones que entrañen utilidad económica o sean susceptibles de estimación pecuniaria y que se obtengan por cualquier título legal.
+
+El Organismo administrará su patrimonio con sujeción a las disposiciones legales aplicables y lo destinará al cumplimiento de su objeto, de conformidad con lo establecido en el Acuerdo de Coordinación.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1997)</small>
+
+###### ARTICULO 6°.
+
+El Organismo aplicará y respetará las Condiciones Generales de Trabajo de la Secretaría de Salud y sus reformas futuras, así como los reglamentos de Escalafón y Capacitación, que permita la promoción del personal a cargos directivos en función de criterios de profesionalismo y capacidad demostrada; para controlar y estimular al personal de base de la Secretaría de Salud por su asistencia, puntualidad y permanencia en el trabajo; para evaluar y estimular al personal de la Secretaría de Salud por su productividad en el trabajo, y el de Becas, así como el Reglamento y Manual de Seguridad e Higiene, elaborados conforme a la normatividad Federal aplicable en sus relaciones laborales con los trabajadores provenientes de la Secretaría de Salud, para que procedan a su registro ante los organismos jurisdiccionales correspondientes. Lo anterior, con el propósito de que se apliquen en las controversias que se diriman por la autoridad jurisdiccional.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1997)</small>
+
+###### ARTICULO 7°.
+
+El Organismo contará con los siguientes órganos de dirección y administración:
+
+I.- Consejo de Administración.
+
+II.- Dirección General.
+
+La vigilancia de la operación del Organismo quedará a cargo de un Comisario.
 
 ###### ARTICULO 8°.
 
@@ -161,9 +237,103 @@ I.- El Director General será ciudadano mexicano por nacimiento, mayor de 30 añ
 
 II.- El Comisario será ciudadano mexicano por nacimiento y profesionista en las áreas contables y administrativas.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 9°.
 
-La integración de los órganos de gobierno citados en el artículo séptimo, así como sus funciones se precisarán en el Reglamento Interior correspondiente.
+El Consejo de Administración será presidido por el C. Gobernador del Estado y se integrará por los titulares de las dependencias centralizadas competentes en materia de política interior, planeación, finanzas, administración, desarrollo social, desarrollo urbano, y de relaciones con los municipios; por un representante de la Secretaría de Salud del Gobierno Federal; un representante de los trabajadores, que será designado por el Comité Ejecutivo Nacional del Sindicato Nacional de Trabajadores de la Secretaría de Salud.
+
+El Gobernador podrá designar hasta a tres miembros adicionales que representen a los grupos sociales usuarios de los servicios que presta esta entidad.
+
+El Director General participará en la sesiones del Consejo de Administración con voz, pero sin voto.
+
+Los cargos en el Consejo de Administración serán honoríficos y por su desempeño no se percibirá retribución, emolumento o compensación alguna.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1997)</small>
+
+###### ARTICULO 9-A.
+
+El Consejo de Administración tendrá las siguientes facultades:
+
+I.- Definir, en congruencia con los planes y programas nacionales y estatales, las políticas en materia de salud a seguir por el organismo;
+
+II.- Aprobar los proyectos de programas del organismo y presentarlos a consideración del Ejecutivo Estatal, para su trámite ante los gobiernos Estatal y Federal;
+
+III.- Conocer de la debida aplicación de los recursos asignados al Organismo;
+
+IV.- Aprobar el Reglamento Interior, la organización general del Organismo y los manuales de procedimientos y de servicios al público;
+
+V.- Aprobar la creación de las nuevas unidades de investigación, capacitación y servicio;
+
+VI.- Autorizar al Director General del Organismo para efecto de que realice actos de dominio, suscripción de crédito, transacciones no judiciales y los demás que comprometan al patrimonio del Organismo;
+
+VII.- Aprobar los planes de labores, presupuestos, informes de actividades y estados financieros anuales;
+
+VIII.- Designar y remover, a propuesta del Director General del Organismo, a los funcionarios de mandos superiores;
+
+IX.- Conocer los informes, dictámenes y recomendaciones del Comisario y del Auditor Externo;
+
+X.- Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades;
+
+XI.- Estudiar y aprobar los proyectos de inversión;
+
+XII.- Conocer y aprobar los convenios de coordinación que hayan de celebrarse con dependencias y entidades públicas;
+
+XIII.- Determinar la integración de comités técnicos y grupos de trabajo temporales;
+
+XIV.- Integrar comités técnicos para el estudio y propuesta de mecanismos que aseguren la coordinación interinstitucional en la prestación de los servicios de salud;
+
+XV.- Aprobar los programas de mediano plazo a que quedarán sujetos los servicios de salud;
+
+XVI.- Aprobar de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios, contratos y acuerdos que deba celebrar el organismo con terceros; y
+
+XVII.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
+
+El Consejo de Administración celebrará sesiones ordinarias mensuales y las extraordinarias que requieran, de conformidad con el Reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1997)</small>
+
+###### ARTICULO 9-B.
+
+El Director General, será designado y removido por el C. Gobernador del Estado y tendrá las siguientes facultades:
+
+I. Ejecutar los acuerdos y disposiciones del Consejo de Administración;
+
+II.- Validar con su firma los actos de autoridad que el Organismo ordene, pudiendo delegarse esta facultad, por acuerdo del Consejo de Administración;
+
+III.- Presentar al Consejo de Administración, informes y estados financieros bimestrales, acompañados de los comentarios que estime pertinente a los reportes, informes y recomendaciones que al efecto formule el Comisario y el Auditor Externo;
+
+IV.- Presentar al conocimiento y aprobación del Consejo de Administración, los planes de labores, presupuestos, informes de actividades y estados financieros anuales del Organismo;
+
+V.- Proponer al Consejo de Administración la designación y remoción de los funcionarios de mandos superiores, así como designar y remover libremente a los demás servidores públicos del Organismo;
+
+VI.- Expedir y autorizar los nombramientos del personal y llevar las relaciones laborales de acuerdo con las disposiciones legales;
+
+VII.- Dirigir el funcionamiento del Organismo con sujeción a las instrucciones del Consejo de Administración;
+
+VIII.- Celebrar los convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Organismo;
+
+IX.- Actuar en representación legal del Organismo, con facultades de apoderado general para actos de administración, para pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes;
+
+X.- Ejercer los actos que se le ordene, pudiendo delegar esa facultad en otros servidores públicos, previo acuerdo del Consejo de Administración; y
+
+XI.- Las demás que sean necesarias para el ejercicio de las anteriores.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1997)</small>
+
+###### ARTICULO 9-C.
+
+El Comisario designado por la Contraloría del Estado, deberá ser ciudadano mexicano por nacimiento y con experiencia administrativa, y tendrá las facultades siguientes:
+
+I.- Vigilar que la administración de los recursos y el funcionamiento del Organismo, se hagan de acuerdo a lo que disponga esta Ley y los programas y presupuestos aprobados;
+
+II.- Practicar las auditorías de los estados financieros y las de carácter administrativo que se requieran;
+
+III.- Recomendar al Consejo de Administración y al Director General las medidas preventivas y correctivas que sean convenientes para el mejoramiento del Organismo;
+
+IV.- Asistir a las sesiones del Consejo de Administración, y
+
+V.- Las demás que otras leyes le atribuyan y las que sean necesarias para el ejercicio de las anteriores.
 
 ###### ARTICULO 10.
 
@@ -1723,7 +1893,7 @@ Los establecimientos a que se refiere este capítulo, no podrán ser ubicados en
 
 ###### ARTICULO 220.
 
-Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que se refiere el artículo 218 de esta Ley, serán fijados en las disposiciones reglamentarias y las normas correspondientes.
+Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que de refiere el artículo 218 de esta Ley, serán fijados en las disposiciones reglamentarias y las normas correspondientes.
 
 ### CAPITULO XI. BAÑOS PUBLICOS
 
@@ -2538,3 +2708,19 @@ El Secretario General de Gobierno.
 C. LIC. JOSE RUBEN ROBLES CATALAN.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE ENERO DE 1997.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Reglamento que regule las funciones del Organismo, se expedirá en un término que no excederá de 60 días a partir de la entrada en vigor del presente Decreto.
+
+TERCERO.- A efecto de llevar a cabo la transferencia de bienes muebles e inmuebles y recursos financieros, así como para garantizar los derechos de los trabajadores, el Organismo descentralizado se sujetará a las disposiciones normativas comprendidas en los capítulos IV y V del Acuerdo de Coordinación, suscrito por el Gobierno Federal y el Gobierno del Estado de Guerrero, de fecha 20 de agosto de 1996.
+
+CUARTO.- El Organismo descentralizado respetará los tabuladores salariales que cubren íntegramente las actuales jornadas laborales establecidas para el personal médico y administrativo a fin de garantizar una eficiente prestación de los servicios, así como los procedimientos de actualización salarial, convenidos en la cláusula decimosexta del Acuerdo de Coordinación.
+
+Los salarios y prestaciones vigentes en los tabuladores correspondientes a cada categoría han sido fijados para cubrir íntegramente todos los beneficios que se derivan de la relación laboral, mismos que se actualizarán siguiendo los mecanismos establecidos en el Acuerdo de Coordinación.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
