@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-servicio-de-transporte-de-carga-en-el-14748"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-23"
-last_updated: "1999-08-23"
+last_updated: "2000-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14748&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-08-18"
 
 REGLAMENTO PARA EL SERVICIO DE TRANSPORTE DE CARGA EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE OCTUBRE DE 2000.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 23 de agosto de 1999.
 
@@ -512,15 +512,13 @@ VI.- Levantar el acta de inspección correspondiente y entregar al visitado el e
 
 Los inspectores no podrán detener la marcha e imponer sanciones a los conductores de los vehículos del servicio de transporte de carga por infracciones al Reglamento de Tránsito del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 5 DE OCTUBRE DE 2000)</small>
+
 ###### Artículo 55.
 
 Independientemente de los programas de revista vehicular que lleve a cabo la Secretaría, deberá efectuarse permanentemente la supervisión en la operación del servicio de transporte de carga, con el propósito de que los concesionarios y permisionarios cumplan con las obligaciones establecidas en sus títulos.
 
-La revista vehícular deberá realizarse cada año salvo las siguientes excepciones:
-
-I.- Cada tres años los vehículos con sistemas alternos de combustión, y
-
-II.- Vehículos nuevos hasta el tercer año de circulación.
+Los vehículos nuevos cuyo modelo corresponda al año de la revista vehicular, deberán realizarla el primer año y quedarán exentos de la inspección vehicular (revista), los dos años siguientes. Los vehículos con sistemas alternos de combustión deberán realizarla en el primer año en que se les convierte a dicho sistema quedarán exentos de la inspección vehicular los dos años siguientes.
 
 ### CAPITULO NOVENO. DE LAS SANCIONES
 
@@ -581,3 +579,11 @@ QUINTO.- Las disposiciones correspondientes al fondo de garantía contenidas en 
 SEXTO.- Las excepciones a la revista vehicular contenidas en el artículo 55 entrarán en vigor a partir del 1° de enero del 2000.
 
 Dado en la residencia del jefe de Gobierno del Distrito Federal en la Ciudad de México, a los dieciocho días del mes de agosto de mil novecientos noventa y nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, CUAUHTÉMOC CÁRDENAS SOLÓRZANO.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, A. JOEL ORTEGA CUEVAS.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 5 DE OCTUBRE DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del distrito federal.
+
+SEGUNDO.- Se derogan las disposiciones administrativas y reglamentarias que se opongan al presente Decreto.
