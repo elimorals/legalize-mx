@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2002-del-pleno-del-consejo-de-la-51846"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-03-08"
-last_updated: "2002-03-08"
+last_updated: "2004-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51846&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-02-27"
 
 ACUERDO GENERAL 3/2002, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES PARA CELEBRAR Y ORGANIZAR LOS EXAMENES DE APTITUD A QUE SE REFIERE EL ARTICULO 115 DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION; ESTABLECE EL PROCEDIMIENTO PARA LA EXPEDICION DE NOMBRAMIENTOS DE SECRETARIOS DE TRIBUNAL DE CIRCUITO, DE JUZGADO DE DISTRITO Y DE ACTUARIOS DEL PODER JUDICIAL DE LA FEDERACION; Y ABROGA EL ACUERDO GENERAL 72/2001 DEL PROPIO ÓRGANO COLEGIADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL 3/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LOS CURSOS DEL INSTITUTO DE LA JUDICATURA FEDERAL; FIJA LAS BASES PARA CELEBRAR Y ORGANIZAR LOS EXAMENES DE APTITUD A QUE SE REFIERE EL ARTICULO 115 DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION; ESTABLECE EL PROCEDIMIENTO PARA LA EXPEDICION DE NOMBRAMIENTOS DE SECRETARIOS DE TRIBUNAL DE CIRCUITO, DE JUZGADOS DE DISTRITO Y ACTUARIOS DEL PODER JUDICIAL DE LA FEDERACION; Y ABROGA EL ACUERDO GENERAL 3/2002 DEL PROPIO ORGANO COLEGIADO, PUBLICADO EN EL D.O.F. DE 17 DE MAYO DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 8 de marzo de 2002.
 
@@ -262,3 +264,23 @@ SEXTO. Los secretarios o actuarios en funciones que antes de la entrada en vigor
 SÉPTIMO.-Los secretarios o actuarios que se encuentren en el caso del punto anterior, si laboran en un Juzgado de Distrito pueden pasar a un Tribunal de Circuito y viceversa, sin necesidad de examen aun cuando sea de diversa materia o circuito.
 
 LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMÉNEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 3/2002, del Pleno del Consejo de la Judicatura Federal, que fija las bases para celebrar y organizar los exámenes de aptitud a que se refiere el artículo 115 de la Ley Orgánica del Poder Judicial de la Federación; establece el procedimiento para la expedición de nombramientos de secretarios de Tribunal de Circuito, de Juzgado de Distrito y de actuarios del Poder Judicial de la Federación; y abroga el Acuerdo General 72/2001 del propio órgano colegiado, fue aprobado por el propio Pleno, en sesión de veintisiete de febrero de dos mil dos, por unanimidad de votos de los señores consejeros: presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Álvarez, Jaime Manuel Marroquín Zaleta, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.-México, Distrito Federal, a veintisiete de febrero de dos mil dos.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 17 DE MAYO DE 2004.
+
+PRIMERO.- El presente acuerdo entrará en vigor el primero de enero de dos mil cinco.
+
+SEGUNDO.- Se abrogan el Acuerdo General 3/2002 del Pleno del Consejo de la Judicatura Federal y el Reglamento del artículo 17 del citado acuerdo general 3/2002.
+
+TERCERO.- Se derogan todas las disposiciones emitidas por el Consejo de la Judicatura Federal que se opongan al presente acuerdo.
+
+CUARTO.- El Comité Académico del Instituto elaborará el Plan de Estudios de la Especialidad, con base en los lineamientos básicos que expida la Comisión. Dicho Plan de Estudios de la Especialidad, deberá estar elaborado a más tardar el dieciséis de agosto de dos mil cuatro.
+
+QUINTO.- En el mes de septiembre de dos mil cuatro, se remitirá el Plan de Estudios de la Especialidad a los Coordinadores de las extensiones del Instituto, a efecto de que, en coordinación con el claustro de profesores de cada una de ellas, elaboren los planes de Estudios del Curso para Secretarios. Los planes de Estudios del Curso para Secretarios de las extensiones, deberán remitirse al Instituto a más tardar el veintinueve de octubre de dos mil cuatro, para su aprobación y registro.
+
+El quince de noviembre de dos mil cuatro, deberán encontrarse aprobados la totalidad de los planes de Estudios del Curso para Secretarios que se impartirá en la sede central y las extensiones.
+
+SEXTO.- Los derechos de las personas que hayan aprobado el examen de aptitud o hayan sido nombradas conforme a las reglas emitidas con anterioridad a la entrada en vigor del presente acuerdo, subsisten en sus términos.
+
+SEPTIMO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
