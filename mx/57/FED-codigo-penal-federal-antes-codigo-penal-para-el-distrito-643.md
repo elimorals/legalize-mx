@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1999-05-17"
+last_updated: "1999-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1931-08-13"
 ---
 # CODIGO PENAL FEDERAL -ANTES CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL-
 
-CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
+CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MAYO DE 1999.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -33,19 +33,19 @@ El C. Presidente Constitucional de los Estados Unidos Mexicanos, se ha servido d
 
 Que en uso de las facultades que le fueron concedidas por Decreto de 2 de enero de 1931, ha tenido a bien expedir el siguiente
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 18 DE MAYO DE 1999)</small>
 
-CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
+CODIGO PENAL FEDERAL
 
 # LIBRO PRIMERO
 
 ## TITULO PRELIMINAR
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 1o.
 
-Este Código se aplicará en el Distrito Federal, por los delitos de la competencia de los tribunales comunes; y en toda la República, para los delitos de la competencia de los tribunales federales.
+Este Código se aplicará en toda la República para los delitos del orden federal.
 
 ###### ARTICULO 2o.
 
@@ -229,7 +229,9 @@ El delito se excluye cuando:
 
 I.- El hecho se realice sin intervención de la voluntad del agente;
 
-II.- Falte alguno de los elementos del tipo penal del delito de que se trate;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1999)</small>
+
+II.- Se demuestre la inexistencia de alguno de los elementos que integran la descripción típica del delito de que se trate;
 
 III.- Se actúe con el consentimiento del titular del bien jurídico afectado, siempre que se llenen los siguientes requisitos:
 
@@ -4229,17 +4231,21 @@ Por el delito de calumnia se castigará con prisión de seis meses a dos años o
 
 I.- Al que impute a otro un hecho determinado y calificado como delito por la ley, si este hecho es falso, o es inocente la persona a quien se imputa;
 
-II.- Al que presente denuncias, quejas o acusaciones calumniosas, entendiéndose por tales aquellas en que su autor imputa un delito a persona determinada, sabiendo que ésta es inocente, o que aquél no se ha cometido, y
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1999)</small>
+
+II.- Al que presente denuncias o querellas calumniosas, entendiéndose por tales aquellas en que su autor imputa un delito a persona determinada, sabiendo que ésta es inocente o que aquel no se ha cometido; y
 
 III.- Al que, para hacer que un inocente aparezca como reo de un delito, ponga sobre la persona del calumniado, en su casa o en otro lugar adecuado para ese fin, una cosa que pueda dar indicios o presunciones de responsabilidad.
 
 En los casos de las dos últimas fracciones, si el calumniado es condenado por sentencia irrevocable, se impondrá al calumniador la misma sanción que a aquél.
 
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 357.
 
-Aunque se acredite la inocencia del calumniado, o que son falsos los hechos en que se apoya la denuncia, la queja o la acusación, no se castigará como calumniador al que las hizo, si probare plenamente haber tenido causas bastantes para incurrir en error.
+Aunque se acredite la inocencia del calumniado, o que son falsos los hechos en que se apoya la denuncia o querella, no se castigará como calumniador al que las hizo, si probare plenamente haber tenido causas bastantes para incurrir en error.
 
-Tampoco se aplicará sanción alguna al autor de una denuncia, queja o acusación, si los hechos que en ellas se imputan son ciertos, aunque no constituyan un delito, y él errónea o falsamente les haya atribuído ese carácter.
+Tampoco se aplicará sanción alguna al autor de una denuncia o querella, si los hechos que en ellas se imputan son ciertos, aunque no constituyan un delito, y él errónea o falsamente les haya atribuido ese carácter.
 
 ###### ARTICULO 358.
 
@@ -5852,3 +5858,9 @@ SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el 
 TERCERO.- Las referencias que otras disposiciones hagan al artículo 194 del Código Federal de Procedimientos Penales respecto de la detención de personas en casos urgentes, se entenderán hechas al artículo 193 bis del mismo ordenamiento.
 
 CUARTO.- Las referencias que en el presente Decreto se hagan al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, se entenderán hechas al Código Penal Federal, si es llegado el caso de aprobarse, y en su momento, publicarse la iniciativa por el que se reforman diversas disposiciones en materia penal que el ciudadano Presidente de los Estados Unidos Mexicanos envió a la consideración del Congreso de la Unión por conducto del Senado de la República como Cámara de Origen, el 23 de marzo de 1999.
+
+D.O.F. 18 DE MAYO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las menciones que en otras disposiciones de carácter federal se hagan al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, se entenderán referidas al Código Penal Federal.
