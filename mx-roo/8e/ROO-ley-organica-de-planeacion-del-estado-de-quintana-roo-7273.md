@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-planeacion-del-estado-de-quintana-roo-7273"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-06-09"
-last_updated: "1986-06-09"
+last_updated: "1987-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DE PLANEACION DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1987.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 9 de junio de 1986.
 
@@ -95,9 +95,11 @@ Lo dispuesto en el párrafo anterior será aplicable a las entidades de la Admin
 
 En los proyectos de leyes o decretos que se envíen a la legislatura, así como los reglamentos, acuerdos y decretos que formule el ejecutivo, relacionados con la planeación, se señalarán las relaciones que existan entre el proyecto y los planes aprobados, así como los programas respectivos.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1987)</small>
+
 ###### ARTICULO 8º.
 
-Corresponde al Ejecutivo del Estado por conducto de la Secretaría de Desarrollo Económico, vigilar la observancia y la interpretación de las disposiciones de esta ley para efectos administrativos.
+Corresponde al Ejecutivo del Estado por conducto de la Secretaría de Planeación, vigilar la observancia y la interpretación de las disposiciones de esta Ley para efectos administrativos.
 
 ### Capítulo Segundo (SIC). DE LOS SISTEMAS DE PLANEACION DEMOCRATICA
 
@@ -109,9 +111,11 @@ La planeación estatal y municipal del desarrollo que correspondan a las depende
 
 Las disposiciones reglamentarias de esta ley establecerán las normas de organización y funcionamiento de los sistemas de planeación democrática y el proceso de planeación a que deban sujetarse las actividades conducentes a la formulación, instrumentación, control y evaluación del plan y los programas a que se refiere este ordenamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 1987)</small>
+
 ###### ARTICULO 11.
 
-La Secretaría de Desarrollo Económico tendrá las siguientes atribuciones:
+La Secretaría de Planeación tendrá las siguiente atribuciones:
 
 I.- Coordinar las actividades de planeación estatal del desarrollo de acuerdo a los lineamientos que dicte el Gobernador del Estado;
 
@@ -191,11 +195,11 @@ b) Los comités de planeación para el desarrollo que se instituya en cada munic
 
 De acuerdo con sus respectivos reglamentos, cada comité podrá crear los subcomités que consideren necesarios para la consecución de sus fines y objetivos.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1987)</small>
+
 ###### ARTICULO 17.
 
-El comité de planeación para el desarrollo del Estado será presidido por el gobernador del Estado; lo coordinará el Secretario de Desarrollo Económico y se integrará con los titulares de las dependencias del Ejecutivo Estatal, y los presidentes municipales, los delegados de las dependencias del Ejecutivo Federal que actúan en el Estado y los representantes de los organismos de los sectores social y privado del Estado.
-
-La participación de los delegados de las dependencias del Ejecutivo Federal se constriñe a lo que les instruye la ley de planeación federal y las demás normas contenidas en la ley orgánica de la administración pública federal y sus correspondientes reglamentos internos.
+El Comité de Planeación para el desarrollo del Estado será presidido por el Gobernador del Estado; lo coordinará el Secretario de Planeación y se integrará con los Titulares de las Dependencias del Ejecutivo Estatal, y los Presidentes Municipales, los Delegados de las Dependencias del Ejecutivo Federal que actúan en el Estado y los representantes de los organismos de los sectores social y privado del Estado.
 
 ###### ARTICULO 18.
 
@@ -211,7 +215,9 @@ b) Guía de sesiones, periodicidad de las mismas y requisitos de procedimiento p
 
 c) Definición y aprobación en su caso, de subcomités y grupos sectoriales de trabajo para la realización de investigaciones proyectos y propuestas.
 
-En todos los subcomités habrá siempre un representante de la Secretaría de Desarrollo Económico y de la presidencia municipal, en su caso.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1987)</small>
+
+En todos los subcomités habrá siempre un representante de la Secretaría de Planeación y la Presidencia Municipal, en su caso.
 
 d) Instrumentación de acciones para hacer posible la participación ciudadana mediante foros de consulta popular y otros medios de captación y sistematización de demandas de la población en general.
 
@@ -269,9 +275,11 @@ Los programas especiales se referirán a las prioridades del desarrollo integral
 
 Para la ejecución del plan estatal de los planes municipales y los programas sectoriales, institucionales, regionales, zonales, y especiales, las dependencias y entidades elaborarán programas anuales, que incluirán los aspectos administrativos y de política económica y social correspondientes, estos programas anuales, que deberán ser congruentes entre si, regirán durante el año de que se trata, de base para la integración de los anteproyectos de presupuesto anuales que las propias dependencias y entidades deberán elaborar conforme a la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1987)</small>
+
 ###### ARTICULO 30.
 
-El plan estatal y los planes municipales con sus correspondientes programas regionales, locales y especiales deberán ser sometidos por la Secretaría de Desarrollo Económico y los ayuntamientos, en su caso, a la consideración y aprobación del Gobernador del Estado.
+El plan Estatal y los planes municipales con sus correspondientes programas regionales, locales y especiales deberán ser sometidos por la Secretaría de Planeación y los Ayuntamientos, en su caso, a la consideración y aprobación del Gobernador del Estado.
 
 ###### ARTICULO 31.
 
@@ -315,7 +323,9 @@ IV.- La elaboración zonales y regionales a que se refiere la fracción III del 
 
 V.- La ejecución de acciones que deban realizarse en la entidad y que competen a ambos ordenes de gobierno, considerando la participación que corresponda a los municipios interesados y a los sectores de la sociedad.
 
-Para este efecto, la Secretaría de Desarrollo Económico propondrá los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen las dependencias de sector, conforme a sus atribuciones.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1987)</small>
+
+Para este efecto, la Secretaría de Planeación propondrá los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen las dependencias coordinadoras del sector, conforme a sus atribuciones.
 
 ###### ARTICULO 37.
 
@@ -382,3 +392,11 @@ LIC. PEDRO JOAQUIN COLDWELL
 El Secretario de Gobierno
 
 LIC ESTEBAN MAQUEO CORAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITOIROS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE SEPTIEMBRE DE 1987.
+
+PRIMERO.- En las leyes, reglamentos y convenios en los que apaerza(sic) con atribuciones en materia de planeación la antigua Secretaría de Desarrollo Económico, se deberá considerar a la Secretaría de Planeación, con las mismas facultades y como la dependencia del Ejecutivo responsable de las acciones que a partir de las reformas de ley, le fueron otorgadas.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
