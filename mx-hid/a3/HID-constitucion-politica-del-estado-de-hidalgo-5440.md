@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1929-10-08"
+last_updated: "1930-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 1929.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 1930.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -48,6 +48,12 @@ Este decreto comenzará a surtir sus efectos desde el año de 1928.
 P.O. 8 DE OCTUBRE DE 1929.
 
 Este decreto empezará a surtir sus efectos, desde la fecha de su publicación.
+
+P.O. 16 DE MARZO DE 1930.
+
+I.- Estas reformas empezarán a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial.
+
+II.- El primer período de cuatro años que deberán durar los Magistrados del Tribunal Superior de Justicia, comenzará el día primero de abril del corriente año, y otorgarán la protesta de ley ante el Ejecutivo del Estado.
 
 ###### Artículo 3º.
 
@@ -379,7 +385,9 @@ VI. Autorizar al Gobernador para que celebre arreglos sobre límites del Estado,
 
 VII. Constituirse en Colegio Electoral a efecto de calificar la elección de Gobernador y la de Diputados en su caso, con sujeción a lo prevenido en la parte conducente del articulo 24.
 
-VIII. Elegir a los Magistrados del Tribunal Superior de Justicia, mediante la aprobación de dos tercios de los Diputados presentes.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1930)</small>
+
+VIII.- Ratificar los nombramientos de los Magistrados del Tribunal Superior de Justicia expedidos por el C. Gobernador del Estado. Si la Cámara no resolviere sobre la ratificación o no ratificación de dichos nombramientos, dentro del término de diez días, se tendrán por aprobados los nombramientos. Sin la aprobación de la Cámara, no podrán tomar posesión los Magistrados nombrados por el C. Gobernador del Estado. En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de una misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego como provisional, y que será sometido a la aprobación del Congreso en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego el Magistrado Provisional y el Gobernador someterá nuevo nombramiento a la aprobación del Congreso, en los términos señalados. Cuando por enfermedad o licencia de alguno de los Magistrados, no se pudiera integrar el Tribunal Superior de Justicia, los nombramientos provisionales que el C. Gobernador extienda para cubrir la vacante, no están sujetos a ratificación del Congreso, siempre que la ausencia del Magistrado Propietario no exceda de tres meses.
 
 IX. Recibir la protesta del Gobernador, Magistrados y Diputados.
 
@@ -489,15 +497,17 @@ Si la falta absoluta ocurriere no encontrándose el Gobernador en el ejercicio d
 
 Si la falta absoluta ocurriere encontrándose el Gobernador en el ejercicio de sus funciones, el Presidente del Tribunal se encargará del Despacho del Gobierno hasta la toma de posesión del Gobernador provisional o del substituto, en sus respectivos casos.
 
-El Presidente del Tribunal se encargara, además, del Despacho del Gobierno, siempre que por cualquier motivo no precisado por esta Constitución, se encuentre acéfalo el Poder Ejecutivo.
+El Presidente del Tribunal se encargará, además, del Despacho del Gobierno, siempre que por cualquier motivo no precisado por esta Constitución, se encuentre acéfalo el Poder Ejecutivo.
 
 ###### Artículo 52.
 
 El Gobernador no puede salir del territorio del Estado sin licencia del Congreso o de la Diputación Permanente; pero podrá hacerlo en casos urgentes y cuando la separación no debiere pasar de ocho días con solo aviso al Congreso o a la Diputación Permanente, en su caso, para que desde luego se nombre al interino.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 1930)</small>
+
 ###### Artículo 53.
 
-Las atribuciones del Gobernador son las siguientes:
+Son atribuciones del Gobernador, las siguientes:
 
 I. Promulgar, ejecutar y hacer que se ejecuten las leyes y decretos y proveer en la esfera administrativa, cuanto fuere necesario para su exacta observancia.
 
@@ -523,7 +533,11 @@ XI. Nombrar y remover libremente al personal de la Policía Municipal del lugar 
 
 XII. Resolver las dudas que tuvieren los Agentes de la Administración Pública sobre aplicación de las leyes a casos particulares.
 
-XIII. Nombrar y remover libremente al Secretario General del Gobierno, al Procurador General de Justicia del Estado, a los Agentes del Ministerio Público y en general a todos los empleados que conforme a la Constitución y a las leyes, no deben ser nombrados por otra autoridad.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1930)</small>
+
+XIII.- Nombrar y remover libremente al Secretario General de Gobierno, al Procurador General de Justicia en el Estado, a los Agentes del Ministerio Público y a todos los empleados que conforme a la Constitución y a las Leyes, no deban de ser nombrados por otra autoridad.
+
+Nombrar a los Magistrados del Tribunal Superior de Justicia con aprobación del Congreso; y Magistrados provisionales sin la aprobación de este alto Cuerpo.
 
 XIV. Nombrar a propuesta en terna del Tribunal Superior, a los Jueces de Primera Instancia, e iniciar ante el propio Tribunal, la separación de algún Juez cuando observe mala conducta.
 
@@ -593,11 +607,13 @@ El Secretario General así como el Subsecretario, no pueden desempeñar los ofic
 
 Se deposita el ejercicio del Poder Judicial en un Tribunal Superior y en los Tribunales inferiores.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1930)</small>
+
 ### CAPITULO II. DEL SECRETARIO GENERAL
 
 ###### Artículo 61.
 
-El Tribunal Superior de Justicia estará formado por seis Magistrados que durarán en sus cargos cuatro años y tomaran posesión el día 5 de mayo.
+El Tribunal Superior de Justicia estará formado por tres Magistrados que durarán en sus cargos cuatro años y tomarán posesión el día primero de abril.
 
 ###### Artículo 62.
 
@@ -623,21 +639,33 @@ II. Hacer la declaración de haber lugar o no a proceder por delitos comunes com
 
 III. Conocer de las controversias en que el Estado fuere parte, salvo lo dispuesto por la Constitución General.
 
-IV. Conocer de los recursos de apelación y casación y los denegatorios de éstos.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1930)</small>
 
-V. Conocer de la revisión de los fallos dictados en negocios criminales.
+IV.- Conocer de los recursos de apelación y denegada apelación; y de la revisión de los fallos dictados en negocios criminales.
 
-VI. Conocer de las competencias de jurisdicción que se susciten entre los Jueces del Estado.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1930)</small>
 
-VII. Acordar por sí o a propuesta del Ejecutivo, con sujeción a la ley, la remoción o suspensión de los Jueces de Primera Instancia.
+V.- Conocer de las competencias de jurisdicción que se susciten entre los Jueces del Estado.
 
-VIII. Conceder licencia hasta por tres meses a los Jueces de Primera Instancia.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1930)</small>
 
-IX. Nombrar sus Secretarios y empleados subalternos y concederles licencia en los términos que fije la ley.
+VI.- Acordar por sí, o a propuesta del Ejecutivo, el cambio de los Jueces de Primera Instancia de un Distrito a otro; pero sin bajarlos de categoría o disminuirles el sueldo.
 
-X. Formar su Reglamento interior.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1930)</small>
 
-XI. Las demás que le confiere esta Constitución.
+VII.- Conceder licencias hasta por tres meses a los Jueces de Primera Instancia.
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1930)</small>
+
+VIII.- Formar su Reglamento Interior.
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1930)</small>
+
+IX.- Las demás que determine esta Constitución y le confieran otras Leyes que con posterioridad a élla se dicten.
+
+X.- (DEROGADA, P.O. 16 DE MARZO DE 1930)
+
+XI.- (DEROGADA, P.O. 16 DE MARZO DE 1930)
 
 ###### Artículo 65.
 
@@ -671,7 +699,7 @@ II. Intervenir en la forma y términos que la ley disponga, en los juicios que a
 
 III. Defender los intereses del Estado ante los Tribunales.
 
-La ley organizará el Ministerio Público, determinara las atribuciones respectivas de las personas que lo formen y fijara el tiempo que cada una de ellas deba durar en sus funciones.
+La ley organizará el Ministerio Público, determinara las atribuciones respectivas de las personas que lo formen y fijará el tiempo que cada una de ellas deba durar en sus funciones.
 
 ###### Artículo 70.
 
@@ -863,7 +891,7 @@ La responsabilidad por delitos y faltas oficiales, sólo podrá exigirse durante
 
 ###### Artículo 95.
 
-Esta Constitución puede ser adicionada o reformada. Las proposiciones que tengan este objeto, deberán estar suscritas por tres Diputados, o iniciadas por el Ejecutivo o por el Tribunal Superior de Justicia o por cinco Ayuntamientos. Estas iniciativas se sujetarán a los trámites establecidos para la expedición de las leyes; pero la discusión y votación tendrá lugar a los seis meses de presentado el dictamen, y sólo será aprobado si votan por él, más de los dos tercios del número total de Diputados.
+Esta Constitución puede ser adicionada o reformada. Las proposiciones que tengan este objeto, deberán ser suscritas por tres Diputados o iniciados por el Ejecutivo, por el Tribunal Superior de Justicia o por cinco Ayuntamientos. Estas iniciativas se sujetarán a los trámites establecidos para la expedición de las Leyes en los artículos 32 y 33; pero requiere la aprobación de más de los dos tercios del número total de Diputados.
 
 ###### Artículo 96.
 
@@ -894,6 +922,8 @@ Todo funcionario y empleado público, tendrá derecho a percibir el sueldo o emo
 ## TITULO IX. DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS
 
 ## TITULO X. DE LA REFORMA E INVIOLABILIDAD DE ESTA CONSTITUCION
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1930)</small>
 
 ## TITULO XI. DISPOSICIONES GENERALES
 
