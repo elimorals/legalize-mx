@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-6115"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1984-09-03"
+last_updated: "1986-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1986.
 
 Ley publicada en Sección Segunda del Periódico Oficial del Estado de Michoacán, el sábado 31 de diciembre de 1983.
 
@@ -61,7 +61,9 @@ La Ley de Ingresos que anualmente expide el Congreso del Estado, como ordenamien
 
 Es objeto de este impuesto:
 
-I.- La propiedad o copropiedad de predios rústicos, urbanos y las construcciones adheridas a ellos;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
+I. La propiedad o copropiedad de predios rústicos, urbanos y las construcciones adheridas a ellas, así como la propiedad de condominios.
 
 II.- Los derechos sobre la propiedad o posesión de terrenos ejidales o comunales y de parcelamiento, en los términos de la legislación agraria federal, así como la posesión de construcciones permanentes en zonas urbanas, ejidales o comunales;
 
@@ -77,7 +79,7 @@ a) El terreno.
 
 b) Las mejoras o construcciones.
 
-c) Los equipos industriales, maquinarias e instalaciones.
+c) (DEROGADA, P.O. 29 DE DICIEMBRE DE 1986)
 
 #### Sección Segunda. De los Sujetos
 
@@ -113,7 +115,9 @@ IV.- Los concesionarios, o quienes no siendo propietarios, tengan la explotació
 
 V.- Los adquirentes de predios en relación al impuesto y sus accesorios insolutos a la fecha de la adquisición; en todo caso los predios quedarán preferentemente afectos al pago del impuesto y sus accesorios, independientemente de quien detenta la propiedad o posesión de los mismos, y
 
-VI.- Los funcionarios y empleados públicos que autoricen algún acto jurídico o dén trámite a algún documento, sin que se esté al corriente en el pago de este impuesto y sus accesorios, independientemente de las sanciones en su contra.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
+VI.- Los funcionarios y empleados públicos que autoricen algún acto jurídico o den trámite a algún documento, sin que esté al corriente en el pago de este impuesto y sus accesorios, independientemente de las sanciones que procedan en su contra.
 
 #### Sección Tercera. De la Base
 
@@ -125,17 +129,31 @@ I.- Tratándose de predios urbanos o rústicos, el mayor de los siguientes:
 
 a) El valor catastral;
 
-b) El valor de la operación de transmisión de dominio o posesión, si es posterior al señalamiento del valor catastral.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
-c) En ausencia del valor catastral, el valor del avalúo que al efecto ordene la Tesorería del Municipio donde se encuentre ubicado el predio, con base en la Ley de Catastro del Estado.
+b) El valor de la operación de transmisión de dominio o posesión, si es posterior al señalamiento del valor catastral. Este valor tendrá carácter provisional.
 
-II.- Tratándose de condominios, la Tesorería Municipal determinará el valor catastral que le corresponderá a cada apartamento, vivienda o local y éste entrará en vigor a partir del bimestre siguiente a la fecha en que se haya autorizado preventivamente la escritura de constitución del condominio. Si este se constituye sin estar terminadas las construcciones, el impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que los construyeron.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
+c) En ausencia del valor catastral, el valor del avalúo que al efecto ordene la Tesorería del Municipio donde se encuentre ubicado el predio, con base en la Ley de Catastro del Estado o el que en su caso practique perito autorizado.
+
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
+II. Tratándose de condominios, la Tesorería Municipal determinará el valor catastral que le corresponderá a cada apartamento, vivienda o local y éste entrará en vigor a partir del bimestre siguiente a la fecha en que se haya autorizado preventivamente la escritura de constitución del condominio. Si éste se constituye sin estar terminadas las construcciones, el impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que la constituyeron o de sus causahabientes.
 
 En estos casos la base se aplicará a cada uno de los apartamentos, viviendas o locales a partir del bimestre siguiente a la fecha de la terminación de los mismos o de la fecha en que sean ocupados sin estar terminados, y cada uno se empadronará por separado.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
+Independientemente de lo establecido en este artículo, la base para la determinación de este impuesto para el año de que se trate, en ningún caso podrá ser inferior al equivalente a 25 días del salario mínimo general vigente al 31 de diciembre del año anterior, tratándose de predios urbanos y de 12 días tratándose de predios rústicos.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 7o.
 
-Los avalúos practicados conforme a las disposiciones de la Ley de Catastro del Estado, servirán de base para el cobro de este impuesto, a partir del bimestre siguiente a la fecha de su notificación.
+Servirán de base para, el cobro de este impuesto, los avalúos practicados conforme a las disposiciones de la Ley de Catastro del Estado, a partir del bimestre siguiente de la fecha de su notificación.
+
+No obstante lo establecido en el párrafo anterior, la base para el cobro de este impuesto se aumentará cada año aplicando el 50% del incremento al salario mínimo general del año inmediato anterior, sin que ello constituya revaluación de los predios en los términos de la Ley de Catastro del Estado, y sin necesidad de que estos nuevos valores sean notificados a los contribuyentes para que tengan plena validez.
 
 ###### ARTICULO 8o.
 
@@ -147,15 +165,53 @@ La nueva base surtirá efectos:
 
 I.- A partir del bimestre siguiente a aquel en que se produzca el hecho, acto o contrato que le dé origen.
 
-II.- A partir del bimestre siguiente al en que se notifique el nuevo avalúo, cuando éste sea efectuado por haber transcurrido el plazo de tres años, y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
+II.- A partir del bimestre siguiente a aquel en que se notifique el nuevo avalúo, cuando éste sea efectuado por haber transcurrido más de dos años.
 
 III.- Tratándose de expropiación o de nacionalización de predios, el impuesto dejará de causarse en la fecha en que las entidades públicas correspondientes tomen posesión material de dichos predios. Si la expropiación o nacionalización quedan sin efecto, el impuesto se causará nuevamente a partir de la fecha en que los predios sean entregados a sus propietarios o poseedores.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
+IV.- A partir del 1º de enero del año siguiente, en los casos a que se refiere el segundo párrafo del artículo 7º de esta Ley.
+
 #### Sección Cuarta. De la Tasa
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 10.
 
-Este impuesto se causará y pagará conforme a las tasas que fije la Ley de Ingresos para los Municipios del Estado de Michoacán.
+El impuesto predial se determinará y pagará aplicando a la base del impuesto las tasas que señale la Ley de Ingresos para los Municipios del Estado de Michoacán.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
+Si como resultado de la determinación del impuesto se obtienen cantidades inferiores a las cuotas mínimas anuales que establezca la Ley de Ingresos para los Municipios del Estado para predios urbanos y rústicos, el impuesto a pagar será equivalente a dichas cuotas.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
+Independientemente del supuesto a que se refiere el párrafo anterior, previo dictamen de autoridad fiscal competente, se pagarán cuotas mínimas anuales, en los siguientes casos por:
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
+A) Los predios destinados a planteles escolares donde se imparta enseñanza preescolar, primaria, secundaria, media superior y superior que estén comprendidos dentro del Sistema Educativo Nacional, siempre y cuando el predio sea propio.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
+B) Los predios que perteneciendo a particulares, estén destinados a un servicio público gratuito autorizado por el Estado o por el Gobierno Municipal, siempre que por los mismos sus propietarios no perciban renta.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
+C) Los predios propiedad de asociaciones, fundaciones e instituciones de beneficencia pública o privada y asociaciones deportivas o sociales que no tengan fines lucrativos, siempre que dichos inmuebles estén destinados directamente a los fines de las mismas.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
+D) Los predios cuyo valor catastral no exceda del equivalente a 1500 veces el salario mínimo general diario vigente al 31 de diciembre del año inmediato anterior, de la zona económica en la que se ubique el predio, y pertenezcan a:
+
+a) Veteranos de la revolución
+
+b) Personas incapacitadas físicamente para trabajar
+
+c) Jubilados y pensionados, siempre y cuando no perciban ingresos por otros conceptos.
 
 ###### ARTICULO 11.
 
@@ -169,29 +225,47 @@ III.- La base con que esté tributando el propietario o poseedor de un predio se
 
 IV.- Con motivo de la aplicación de los valores unitarios vigentes, se practique un avalúo y el valor que resulte sea inferior; la Tesorería Municipal tiene la facultad para realizar un nuevo avalúo que se acerque más al valor real.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 12.
 
-En los casos de predios urbanos que la Ley de Catastro del Estado clasifica como no edificados, con servicio de agua, electricidad y drenaje por alguna de sus colindancias, entre tanto conserven esa calidad, no se enajenen o establezcan en ellos alguna industria o comercio que necesite área total para su desarrollo, la tasa que le corresponda se incrementará en un 20% por cada año natural, con el cual continuará hasta en tanto subsistan las condiciones que lo originaron o hasta el 100% de incremento.
+En los casos de predios urbanos que la Ley de Catastro del Estado clasifica como no edificados con servicio de agua, electricidad y drenaje por alguna de sus colindancias, que se ubiquen en zonas residenciales, industriales o comerciales, entre tanto conserven esa calidad, no se enajenen o establezcan en ellos alguna industria o comercio que necesite área total para su desarrollo, la tasa que le corresponda se incrementará en un 20% por cada año natural, hasta en tanto subsistan las condiciones que lo originaron sin que exceda del 100% de incremento.
 
-Los efectos de este artículo no serán aplicables:
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
-I.- A los predios que vendan los fraccionamientos debidamente autorizados, en tanto no sean recibidos por el Municipio;
+Igual incremento se aplicará a los predios rústicos laborables que sin causa justificada y según dictamen de la Secretaría de Fomento Rural o de autoridad competente permanezcan sin laborarse.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
+Cuando se edifique en los predios a que se refiere el primer párrafo, se deberá comunicar este hecho a la Tesorería Municipal que corresponda a efecto de que se practique el avalúo respectivo. En estos casos se cubrirá únicamente la cuota mínima que señale la Ley de Ingresos para los Municipios del Estado de Michoacán, durante los tres años siguientes contados a partir de la fecha de notificación del avalúo, para las casas habitación tipo interés social y de un año para las construcciones que no tengan ese carácter.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
+Los efectos del primer párrafo de este artículo no serán aplicables a:
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
+I. Los predios que permanezcan en poder del fraccionador en tanto el fraccionamiento de que se trate no sea recibido por el Municipio.
 
 II.- Los predios no edificados que formen parte de una unidad comercial o industrial;
 
-III.- Predios que no rebasen la superficie de 300 metros cuadrados;
+III.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1986)
 
-IV.- Predios rústicos no edificados, y
+IV.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1986)
 
 V.- Los predios que formen parte de escuelas o clubes deportivos.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 13.
 
-La progresividad de la tasa del 20% a que se refiere el artículo anterior, se aplicará al inicio del siguiente año de calendario de aquel en que se efectuó la adquisición del predio.
+Transcurrido un año a partir de la fecha de la operación, se aplicará la progresividad de la tasa a que se refiere el artículo anterior.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 14.
 
-La progresividad de la tasa en los casos de terrenos baldíos propiedad de fraccionamientos, se aplicará a partir de siguiente año de la fecha en que se entregue al Municipio, por los lotes que aún pertenezcan al fraccionador.
+La progresividad de la tasa en los casos de terrenos baldíos integrantes de fraccionamientos, se aplicará a partir del siguiente año de la fecha en que se entregue al Municipio, por lotes que aún pertenezcan al fraccionador.
 
 ###### ARTICULO 15.
 
@@ -211,15 +285,19 @@ En este caso se aplicará únicamente la tasa que señale la Ley de Ingresos.
 
 La Tesorería Municipal deberá determinar el monto del impuesto, de conformidad con las respectivas bases, tasas o cuotas que al efecto establezca la Ley de Ingresos.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 17.
 
-La cuota del impuesto es anual y se dividirá en seis partes iguales que se liquidarán bimestralmente en los meses de enero, marzo, mayo, julio, septiembre y noviembre.
+Este impuesto es anual y se dividirá en seis partes iguales que se pagarán bimestralmente en los meses de enero, marzo, mayo, julio, septiembre y noviembre.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 18.
 
-Los pagos podrán hacerse por anualidad anticipada en los meses de enero y febrero sin que ello impida el cobro de diferencias que deban hacerse, por cambio del valor catastral o de la tasa del impuesto.
+El pago del impuesto podrá efectuarse totalmente durante los meses de enero y febrero, sin que ello libere del pago de las diferencias que resulten con motivo del cambio del valor catastral.
 
-En el caso de la cuota mínima del impuesto que señala la Ley de Ingresos, su pago deberá hacerse en una sola exhibición en los meses de enero y febrero de cada año.
+En el caso de la cuota mínima del impuesto que señale la Ley de Ingresos para los Municipios del Estado de Michoacán, el pago deberá efectuarse en una sola exhibición durante los meses de enero y febrero de cada año.
 
 ###### ARTICULO 19.
 
@@ -237,17 +315,23 @@ En consecuencia, el procedimiento administrativo de ejecución, que establece el
 
 En esta disposición, no quedan comprendidas las mutas (sic) que se impongan cuando se incurra en infracciones al presente Capítulo, pues dichas sanciones se considerarán personales para todos los efectos legales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 22.
 
-Los Notarios Públicos no podrán autorizar, en forma definitiva, escrituras en que se hagan constar contratos o resoluciones judiciales o administrativas, cuyo objeto sea la transmisión de la propiedad, la posesión o derechos reales sobre predios ubicados en el Estado, mientras no se les exhiba constancia expedida por las Tesorerías Municipales donde se ubique el predio de no adeudo de este impuesto.
+Los notarios públicos no podrán autorizar en forma definitiva escrituras en que se hagan constar contratos o resoluciones judiciales o administrativas, cuyo objeto sea la transmisión de la propiedad, la posesión o derechos reales sobre predios ubicados en el Estado, mientras no se les exhiba constancia de no adeudo de este impuesto, expedidas por la Tesorería Municipal donde se ubique el predio.
 
 Las constancias de no adeudo que se expidan a los Notarios Públicos, tendrán vigencia hasta la fecha de pago del impuesto que en ellas se mencione.
 
 Los Notarios deberán dar aviso a la Tesorería Municipal correspondiente, cuando los predios de que se trata, reporten adeudos fiscales por conceptos distintos de este impuesto.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 23.
 
-En los casos de predios no empadronados en la Tesorería Municipal respectiva, de construcciones o ampliaciones que no hayan sido manifestados oportunamente conforme a la Ley de Catastro, se cobrará la cuenta corriente del impuesto más cinco años anteriores, salvo que el interesado pruebe que tales hechos o actos datan de fecha posterior, en cuyo caso el recobro del impuesto se hará a partir de esta fecha en adelante, sin perjuicio de aplicar la sanción que determine el Código Fiscal Municipal.
+En los casos de predios no empadronados en la Tesorería Municipal respectiva y de las construcciones o ampliaciones que no hayan sido manifestadas oportunamente conforme a la Ley de Catastro del Estado y sean manifestadas espontáneamente, se pagará únicamente el impuesto que corresponda con base al avalúo practicado, a partir del bimestre siguiente a la fecha de su notificación más el que debió haberse efectuado durante el año inmediato anterior.
+
+Cuando los hechos sean descubiertos por la autoridad, se pagará el impuesto correspondiente a partir del siguiente bimestre a la fecha de notificación del avalúo, más el correspondiente a los cinco años anteriores, salvo que el sujeto pruebe que tales hechos o actos datan de fecha posterior, sin perjuicio de que se apliquen las sanciones que determina el Código Fiscal Municipal.
 
 ###### ARTICULO 24.
 
@@ -281,11 +365,21 @@ Cuando en las manifestaciones o avisos exigidos, no se expresen los datos o no s
 
 Si transcurre dicho plazo y no se expresan los datos o no se presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería Municipal no tomará en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor las sanciones que procedan.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 30.
 
-Las manifestaciones a que alude este Capítulo y la Ley de Catastro del Estado, respecto de contratos de compraventa o cualesquiera otros transmitivos de dominio, resoluciones administrativas o judiciales, deberán presentarse dentro de los quince días siguientes a la fecha o fechas en que firmaron la escritura los otorgantes o la persona o personas elegidas por ellos, los testigos e intérpretes, si los hubiere, de la celebración del contrato privado; de la fecha en que haya quedado firme la resolución administrativa o judicial, o de la fecha del documento de que se trate.
+Las manifestaciones a que se refiere este capítulo y la Ley de Catastro del Estado, respecto de contratos de compraventa o cualesquiera otros transmitivos de dominio, resoluciones administrativas o judiciales, deberán presentarse dentro de los quince días hábiles contados a partir de:
 
-También se considerarán comprendidas en este artículo las manifestaciones de división o fusión de predios en que no se opere transmisión de dominio alguno, porque las porciones del predio dividido no salgan del dominio del propietario o porque los predios fusionados sean de un solo propietario. Los Notarios Públicos que autoricen dichas escrituras tendrán obligación de manifestar también esos contratos, resoluciones o actos a la Tesorería Municipal correspondiente al lugar donde se ubique el predio, dentro del mismo término que establece el párrafo anterior, pudiendo emplear para este efecto, la manifestación que formulen en relación con el impuesto sobre Transmisión de Dominio y otras operaciones con bienes inmuebles.
+I. La fecha de firma de la escritura por los otorgantes o representantes legales, los testigos e intérpretes si los hubiere;
+
+II. La fecha en que hubiere causado ejecutoria o estado la resolución judicial o se hubiere notificado la resolución administrativa;
+
+III. La fecha de celebración del contrato privado o documento de que se trate.
+
+También se considerarán comprendidas en este capítulo las manifestaciones de división o fusión de predios, en que no se opere transmisión de dominio alguno, porque las porciones del predio dividido no salgan del dominio del propietario o porque los predios fusionados sean de un solo propietario.
+
+Los notarios públicos que autoricen dichas escrituras tendrán obligación de manifestar también esos contratos, resoluciones o actos a la Tesorería Municipal correspondiente al lugar donde se ubique el predio, dentro del mismo término que establece el primer párrafo de este artículo, pudiendo emplear para este efecto, la manifestación que formulen en relación con el impuesto sobre adquisición de inmuebles y otras operaciones con bienes inmuebles.
 
 ###### ARTICULO 31.
 
@@ -295,15 +389,23 @@ Si no lo hicieren, se tendrá como domicilio, para los efectos de este Capítulo
 
 #### Sección Novena. Del Impuesto Predial Ejidal y Comunal
 
+> <small>(ADICIONADO PRIMER PARRAFO [N. DE E. REFORMADO], P.O. 29 DE DICIEMBRE 1986)</small>
+
 ###### ARTICULO 32.
 
-El Impuesto Predial de las tierras ejidales se sujetará a las siguientes bases:
+De conformidad con los artículos 106, 107 y 108 de la Ley Federal de la Reforma Agraria, entre tanto se hacen los estudios para calcular la rentabilidad de las tierras ejidales, el impuesto predial se causará aplicando las tasas que fije anualmente la Ley de Ingresos para los Municipios del Estado de Michoacán, sobre el valor fiscal de cada clase de tierras.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
+Este impuesto se sujetará además a las siguientes bases:
 
 I.- Cuando haya parcelamiento ejidal de la tierra, provisional o definitivo, el impuesto lo cubrirá individualmente cada ejidatario. Si no hay parcelamiento, el impuesto será pagado por el núcleo de población, y por lo mismo, obliga a todos los ejidatarios que lo forman;
 
 II.- Tratándose de posesiones provisionales, los ejidatarios pagarán en el primer año, el 25% del Impuesto Predial que les corresponda; y en los subsecuentes el Impuesto aumentará en un 10% cada año, hasta alcanzar la cuota total, o hasta que se ejecute la resolución presidencial, de acuerdo con los avisos que dén las autoridades agrarias;
 
 III.- Las sociedades, agrupaciones, empresas o personas que exploten bosques de comunidades agrarias o de sociedades cooperativas agrícolas, están obligadas a exhibir a las autoridades fiscales las guías, contratos o documentos que sean necesarios para definir el Impuesto Predial Ejidal que corresponda al fisco municipal y para calcular el monto del impuesto de dichas comunidades; en la inteligencia de que el valor de esta tributación predial, no será determinado sobre la base de contratos de arrendamiento, sino sobre el producto total que se obtenga. De no exhibir esos documentos serán sancionados de conformidad con el Código Fiscal vigente.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 33.
 
@@ -319,11 +421,13 @@ El Impuesto Predial será depositado por cada ejidatario, en la Tesorería del C
 
 Las resoluciones de la Tesorería Municipal dictadas en relación con este impuesto, podrán ser recurridas o impugnadas en su caso, en la forma y términos señalados por el Código Fiscal Municipal.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 36.
 
-Las autoridades judiciales o administrativas previamente al remate de inmuebles, recabarán de la Tesorería Municipal respectiva un informe sobre los créditos fiscales que con motivo de tal inmueble se hayan originado hasta la fecha de la subasta.
+Las autoridades judiciales o administrativas previamente al remate del inmueble, recabarán de la Tesorería Municipal respectiva, un informe sobre los créditos fiscales que se hayan originado hasta la fecha de la subasta, en relación con tal inmueble.
 
-Si de tal informe apareciere algún crédito fiscal insoluto, la autoridad retendrá del producto del remate la cantidad suficiente a cubrirlo, remitiéndola inmediatamente a la Tesorería Municipal, para que ésta extienda y envíe el recibo oficial correspondiente, que será entregado al adquirente del inmueble.
+Si en el informe apareciere algún crédito fiscal insoluto, la autoridad retendrá el producto del remate la cantidad suficiente a cubrirlo, remitiéndola inmediatamente a la Tesorería Municipal, para que ésta extienda y envíe el recibo oficial correspondiente, que será entregado al adquirente del inmueble.
 
 #### Sección Décima Primera. De las Infracciones y Sanciones
 
@@ -331,67 +435,61 @@ Si de tal informe apareciere algún crédito fiscal insoluto, la autoridad reten
 
 Las infracciones al presente Capítulo serán sancionadas de conformidad con lo previsto por el Código Fiscal Municipal.
 
-### CAPITULO II. IMPUESTO SOBRE TRANSMISION DE DOMINIO DE BIENES INMUEBLES
+REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 1986)
+
+### CAPITULO II. IMPUESTO SOBRE ADQUISICION DE INMUEBLES
 
 #### Sección Primera. Del Objeto
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 38.
 
-Es objeto de este impuesto todo acto por el que se transmite la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal.
+Es objeto del impuesto sobre adquisición de inmuebles, la adquisición que se derive de:
 
-###### ARTICULO 39.
+I. Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges;
 
-El impuesto sobre Transmisión de dominio de bienes inmuebles se causa por:
+II. La compraventa en la que el vendedor se reserve el dominio, aún cuando la transferencia de ésta opere con posterioridad;
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+III. La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él, antes de que se celebre el contrato prometido;
 
-I. La compraventa en la que el vendedor se reserva el dominio, aún cuando la transferencia de ésta opere con posterioridad;
+IV. La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden, respectivamente;
 
-II.- La promesa de adquirir, cuando se pacte que el futuro vendedor recibirá el precio de la venta o parte de él, antes de que se celebre el contrato prometido;
+V. Fusión de sociedades;
 
-III.- La cesión de derechos del comprador o futuro comprador en los casos de las fracciones I y II que anteceden, respectivamente;
+VI. La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles;
 
-IV.- La fusión de sociedades;
+VII. Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal;
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+VIII. Prescripción Positiva;
 
-V. La dación en pago y la liquidación, la reducción del capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles;
-
-VI.- Constitución de usufructo, trasmisión de éste o de la nuda propiedad, así como de la extinción del usufructo temporal;
-
-VII.- Resoluciones judiciales o administrativas;
-
-VIII.- Prescripción positiva;
-
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
-
-IX. La Cesión de derechos del heredero, legatario o copropietario, en la parte relativa y en proporción a los inmuebles.
+IX. La cesión de derechos del heredero, legatario o copropietario, en la parte relativa y en proporción a los inmuebles;
 
 Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuada después de la declaratoria de herederos o legatarios.
 
-X.- Por adjudicación de la propiedad de bienes inmuebles en virtud de remate judicial o administrativo.
+X. Enajenación a través de fideicomiso;
 
-En las permutas se considerará que se efectúan dos adquisiciones.
+XI. La división de la copropiedad y Ia disolución de la sociedad conyugal, por la parte que se adquiera en demasía del porciento que le correspondía al copropietario o cónyuge;
 
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+XII. La celebración de contratos de arrendamiento financiero y la cesión de derechos del arrendatario financiero.
 
-XI. Enajenación a través del fideicomiso, en los términos del Código Fiscal de la Federación;
+En las permutas se considerará que se efectúan dos adquisiciones;
 
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+XIII. Resoluciones judiciales o administrativas;
 
-XII. La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del porciento que le correspondía al copropietario o cónyuge;
+XIV. Adjudicación de la propiedad de inmuebles en virtud de remate judicial o administrativo.
 
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+###### ARTICULO 39.
 
-XIII. La celebración de contratos de arrendamiento financiero y la cesión de derechos del arrendatario financiero.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1986)
 
 #### Sección Segunda. De los Sujetos y Responsables Solidarios
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 40.
 
-Están obligados al pago del impuesto sobre Transmisión de Dominio de Bienes Inmuebles, las personas físicas o morales que adquieran inmuebles que consistan en el suelo, o en el suelo y las construcciones adheridas a él ubicadas en el territorio del Estado, así como los derechos relacionados con los mismos inmuebles.
+Están obligadas al pago de este impuesto, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en el suelo y las construcciones adheridas a él, ubicadas en el territorio del Estado, así como los derechos relacionados con los mismos inmuebles a que se refiere este impuesto.
 
 ###### ARTICULO 41.
 
@@ -399,27 +497,23 @@ Son solidariamente responsables del pago de este impuesto, los siguientes:
 
 I.- Los transmitentes, cuando el adquirente lo haya eludido;
 
-II.- Los notarios públicos, corredores y demás funcionarios encargados de llevar la fé pública, cuando autoricen algún documento que sea objeto del impuesto sin cerciorarse de haberse efectuado el pago correspondiente a la Tesorería Municipal donde se encuentre ubicado el predio, y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
-III.- Los demás funcionarios y empleados que inscriban o registren esta clase de documentos sin comprobar estar al corriente en este gravamen.
+II. Los notarios públicos, corredores y demás funcionarios encargados de llevar la fe pública, cuando autoricen algún documento que sea objeto del impuesto sin que previamente se haya efectuado el pago correspondiente a la Tesorería Municipal donde se encuentre ubicado el inmueble; y,
 
-> <small>(REFORMADO SU DENOMINACIÓN, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
-#### Sección Tercera. De la Base y Tasa
+III. Los demás funcionarios y empleados que inscriban o registren esta clase de documentos sin comprobar que se hayan cumplida las obligaciones inherentes a este gravamen.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+> <small>(REFORMADO SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
+#### Sección Tercera. De la Base
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 42.
 
-La base del impuesto se determinará aplicando la tasa que se establece en la Ley de Ingresos vigente, al valor que resulte mayor entre el de avalúo practicado por perito autorizado, eI consignado en el acto transmitivo de dominio o el catastral registrado, después de reducir el número de veces del salario mínimo general elevado al año; de la zona económica donde se encuentre ubicado el inmueble, conforme a lo siguiente:
-
-VALOR DEL INMUEBLE NUMERO DE VECES DEL SALARIO MINIMO ANUAL
-
-Hasta $ 3'000,000.00 6
-
-De $ 3'000,001.00 a $ 6'000,000.00 8
-
-De $ 6'000,001.00 en adelante 10
+La base gravable de este impuesto será el valor que resulte mayor entre el de avalúo practicado por perito autorizado, el consignado en el acto transmitivo de dominio, o el catastral registrado deduciendo de éste cinco veces el salario mínimo general de la zona económica donde se ubique el inmueble, elevado al año. Al valor que resulte se aplicará la tasa que fije la Ley de Ingresos para los Municipios del Estado de Michoacán.
 
 Para los fines de este capítulo se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
@@ -427,35 +521,35 @@ Cuando con motivo de la adquisición, el adquirente asuma la obligación de paga
 
 En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el del avalúo practicado por perito autorizado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 43.
 
-Para efectuar la reducción a que se refiere el artículo anterior, se aplicará el salario mínimo correspondiente al año de calendario en que se esté en los supuestos de pago del impuesto a que se refiere el artículo 39 de esta Ley.
+Para efectuar la deducción a que se refiere el artículo anterior, se aplicará el salario mínimo vigente en la fecha en que se den los supuestos a que se refiere el artículo 38 de esta Ley.
 
-La reducción se realizará conforme a lo siguiente:
+La deducción se realizará conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+I. Se considerarán como un solo inmueble los bienes que sean o resulten colidantes adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios, únicamente se tendrá derecho a hacer una sola vez la deducción, la que se calculará al momento en que se realice la primera adquisición.
 
-I. Se considerarán como un sólo inmueble los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiere adquirido con anterioridad, para que se ajuste al monto de la reducción, y se pagará en su caso, las diferencias del impuesto que corresponda. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte;
+Asimismo sólo tendrán derecho a hacer una deducción las personas físicas o morales que dentro del período antes mencionado, adquieran lotes en un mismo fraccionamiento, sin importar la distancia que dichos lotes guarden entre sí.
 
-Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte.
+El adquirente deberá manifestar bajo protesta de decir verdad, al fedatario ante quien formalice toda adquisición, si el inmueble objeto de la operación se encuentra comprendido en alguno de los supuestos de este artículo para que se ajuste el monto de la deducción, pagando en su caso las diferencias del impuesto que correspondan.
 
-II.- Cuando se adquiera parte de la propiedad o de los derechos de un predio a que se refiere el artículo 38 de este Capítulo, la reducción se hará en la proporción que corresponda a dicha parte del inmueble;
+II. Cuando se adquiera parte de un predio o de los derechos de éste, siempre y cuando se haya autorizado previamente la división del mismo por autoridad competente;
 
-III.- Tratándose del usufructo o de la nuda propiedad únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos, y
+III. Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la deducción por cada uno de ellos;
 
-IV.- Cuando del predio formen parte departamentos habitacionales, la reducción se hará por cada uno de ellos. Lo dispuesto en esta fracción no es aplicable a hoteles.
+lV. Tratándose de condominios, la deducción se hará por cada uno de los apartamentos, locales o cajones de estacionamiento en su caso. Lo dispuesto esta fracción no es aplicable a hoteles;
 
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+V. No se considerarán departamentos habitacionales los que, por sus características originales, se destinen a servicios domésticos o de portería, aún cuando se utilicen para otros fines.
 
-V. No se considerarán departamentos habitacionales los que, por sus características originales, se destinen a servicios domésticos, portería o guarda de vehículos, aún cuando se utilicen para otros fines.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 44.
 
-Los avalúos a que se refiere el artículo 42 de esta Ley, serán practicados por peritos que designe la autoridad competente, y no podrán tener una antigüedad mayor de un año de la fecha de formulación.
+Los avalúos a que se refiere el artículo 42 de esta Ley, serán practicados por peritos que designe la autoridad competente, y no podrán tener una antigüedad mayor de seis meses desde la fecha de su formulación.
 
-Dichos avalúos deberán comprender los valores tanto del terreno como de las construcciones y demás accesorios que tuviere en su caso.
+Dichos avalúos deberán comprender los valores tanto del terreno como de las construcciones y demás accesorios que tuviere en su caso, los que por ningún motivo serán inferiores a los que se refiere la Ley de Catastro del Estado.
 
 #### Sección Cuarta. De las Declaraciones y Pago del Impuesto
 
@@ -479,23 +573,41 @@ VII.- Número de la cuenta del impuesto predial del inmueble, y
 
 VIII.- Los demás datos que exija la forma oficial en que deberán hacerse las declaraciones.
 
-Si en el acto o contrato transmitivo de dominio se hace constar en escritura otorgada en el Estado, la declaración será firmada por el notario o por cualquier interesado. En este último caso el notario certificará en la declaración la veracidad de los datos que contenga.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
+Si el Acto o contrato transmitivo de dominio se hace constar en escritura otorgada en el Estado, la declaración será firmada por el Notario o cualquier interesado. En este último caso el Notario certificará en la declaración la veracidad de los datos que contenga.
 
 Si se trata de actos o contratos que se hagan constar en escritura otorgada fuera del Estado, la declaración será firmada por cualquier interesado, y a ella se acompañará testimonio de la escritura.
 
-Cuando se trate de actos o contratos que se hagan constar en documento privado, la declaración será firmada por cualquier interesado, y a ella deberá acompañar una copia cotejada del contrato privado.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
-En los casos en que la transmisión de la propiedad se opere como consecuencia de una resolución judicial, el contribuyente firmará la declaración y acompañará copia certificada de la resolución respectiva, con la constancia de la fecha en que causó ejecutoria.
+Cuando se trate de actos o contratos que se hagan constar en documento privado, la declaración será firmada por cualquier interesado, y a ella deberá acompañar una copia del contrato privado cotejada por fedatario o por autoridad competente.
 
-A la declaración deberá acompañarse, además de los documentos señalados en los párrafos anteriores, en sus respectivos casos, una constancia que expida la oficina recaudadora correspondiente de que el propietario del inmueble objeto de la transmisión de dominio no tiene ningún adeudo en relación con el propio inmueble.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
+En los casos en que la transmisión de la propiedad se opere como consecuencia de una resolución judicial el adjudicatario firmará la declaración y acompañará copia certificada de la resolución respectiva, con la constancia de la fecha en que causó ejecutoria o estado.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
+A la declaración deberá anexarse, además de los documentos señalados en los párrafos anteriores en sus respectivos casos, una constancia que expida la oficina recaudadora correspondiente de que el propietario del inmueble objeto de la transmisión de dominio no tiene ningún adeudo en relación con el propio inmueble.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
+Asimismo deberá anexarse a la declaración el avalúo practicado por la autoridad catastral o perito valuador autorizado.
 
 Cuando lo estime necesario, la Tesorería Municipal podrá solicitar de los notarios públicos o de los declarantes, que le proporcionen una copia autorizada de la escritura en que se hubiera hecho constar la transmisión de dominio de que se trate.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 46.
 
-Las declaraciones a que se refiere el artículo anterior, se presentarán en las formas oficiales que apruebe la Tesorería Municipal, dentro de un plazo de quince días hábiles contados a partir de la fecha de firma de los contratantes de la escritura pública o del contrato privado en su caso. Tratándose de la adquisición de la propiedad de bienes inmuebles por resolución judicial o administrativa, el plazo se contará a partir de la fecha en que se hubiere causado ejecutoria la resolución judicial.
+Las declaraciones a que se refiere el artículo anterior, se presentarán en las formas oficiales que aprueba la Tesorería Municipal, dentro del plazo de quince días hábiles contados a partir de:
+
+I. La fecha de firma de la escritura pública por los otorgantes o representantes legales, los testigos e intérpretes si los hubiere;
+
+II. La fecha en que hubiere causado ejecutoria o estado la resolución judicial o se hubiere notificado la resolución administrativa;
+
+III. La fecha de celebración del contrato privado o documento de que se trate.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
 
@@ -505,9 +617,11 @@ El pago del impuesto deberá hacerse en el mismo plazo establecido para la prese
 
 El pago extemporáneo del impuesto de que se trata, causará recargos por falta de pago oportuno en los términos que señala el Código Fiscal Municipal.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 48.
 
-En los contratos celebrados fuera del Estado, pero en la República, en relación con predios ubicados en territorio del Estado de Michoacán, causarán el impuesto a que se refiere este Capítulo, exceptuándose únicamente lo relacionado al plazo para la presentación de declaraciones y pago, que será de treinta días hábiles, contados a partir de las fechas en que se den los supuestos señalados en los artículos 46 y 47 de esta Sección.
+En los contratos celebrados fuera del Estado, pero en la República, en relación con inmuebles ubicados en el Territorio del Estado de Michoacán, causarán el impuesto a que se refiere este Capítulo, debiéndose presentar las declaraciones a que se refiere el artículo 45 de esta Ley y efectuarse el pago en su caso, dentro de los treinta días siguientes a partir de la fecha en que se den los supuestos señalados en los artículos 46 y 47 de esta Ley.
 
 #### Sección Quinta. De las Exenciones
 
@@ -527,11 +641,11 @@ Los Fedatarios no podrán autorizar definitivamente ninguna escritura en la que 
 
 En los testimonios que los Fedatarios expidan de escrituras públicas o privadas relativas a actos o contratos transmitivos de dominio, deberán hacer constar el número de recibo oficial del pago del impuesto sobre Transmisión de Dominio de bienes inmuebles, así como el importe del mismo y la fecha de expedición.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 51.
 
-El encargado de la oficina del Registro Público de la Propiedad Raíz no inscribirá ningún acto, contrato o documento transmitivo de dominio de bienes inmuebles mientras no les sea exhibido el comprobante de pago del impuesto que establece este Capítulo.
-
-En los casos de nuda propiedad, la oficina del Registro Público de la Propiedad no podrá cancelar la inscripción del usufructo, si no se le comprueba previamente que se pagó la diferencia del impuesto a que se refiere el artículo 42 de esta Ley.
+En el Registro Público de la Propiedad Raíz, no se inscribirá ningún acto, contrato o documento transmitivo de dominio de bienes inmuebles, mientras no le sea exhibido el comprobante de pago del impuesto que establece este capítulo.
 
 ###### ARTICULO 52.
 
@@ -583,11 +697,11 @@ II.- Impuesto sobre Transmisión de Dominio de Bienes Inmuebles.
 
 ###### ARTICULO 59.
 
-Es objeto del impuesto sobre Instrumentos Públicos o Privados, todo documentos (sic) que protocolicen o autoricen los Notarios Públicos o Jueces Receptores en el Estado de Michoacán;
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 60.
 
-Los Instrumentos Públicos o Privados autorizados fuera del Estado, en que se consigne operaciones de compraventa, causarán el impuesto que señala esta Ley en favor del Municipio en que deba surtir sus efectos, y el encargado del Registro Público de la Propiedad Raíz en el Estado, no registrará dicho instrumento si no se le comprueba haberse pagado dicho gravamen.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1986)
 
 #### Sección Segunda. De los Sujetos
 
@@ -595,51 +709,37 @@ Los Instrumentos Públicos o Privados autorizados fuera del Estado, en que se co
 
 ###### ARTICULO 61.
 
-Están obligados al pago de este impuesto, las personas físicas o morales que transmitan la propiedad de algún inmueble ubicado dentro del territorio de los Municipios del Estado de Michoacán. El adquirente será responsable solidario del pago del impuesto, cuando aquéllas lo hayan eludido.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1986)
 
 #### Sección Cuarta. Del Pago
 
 ###### ARTICULO 62.
 
-Responderán solidariamente del pago de este impuesto los Notarios o Jueces Receptores, cuando autoricen o protocolicen algún documento sin haberse cerciorado del correcto cumplimiento de esta obligación, debiendo insertar en los mismos documentos la constancia de pago correspondiente.
-
-Igual inserción se hará en los avisos respectivos en los casos de compraventa, hipoteca y en general en todos aquellos que impliquen alguna anotación catastral.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 63.
 
-Los encargados de las oficinas recaudadoras del impuesto predial no practicarán anotación alguna en los libros del catastro si no se ha llenado el requisito contemplado en el artículo anterior. En los casos de escrituras autorizadas fuera del Estado, bastará la exhibición del recibo original de pago.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1986)
 
 #### Sección Quinta. De las Exenciones
 
 ###### ARTICULO 64.
 
-Será base gravable de este Impuesto:
-
-I.- El valor del avalúo practicado por perito autorizado de conformidad con la Ley de Catastro del Estado;
-
-II.- El valor del avalúo que sirvió de base para el pago del impuesto sobre transmisión de dominio de bienes inmuebles;
-
-III.- El valor registrado en el catastro de la oficina recaudadora, y
-
-IV.- El valor de la operación consignado en el acto o contrato.
-
-Los avalúos deberán comprender tanto el terreno como la construcción que tuviere y sólo tendrán vigencia por un año, a partir de la fecha de formulación. En todo caso la base de este impuesto, será el valor más alto entre el avalúo bancario, avalúo de tesorería, valor catastral registrado o el que se consigne en el acto o documento.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1986)
 
 #### Sección Sexta. De las Infracciones y Sanciones
 
 ###### ARTICULO 65.
 
-Para los efectos del pago de este impuesto, cada vez que los Notarios o Jueces Receptores protocolicen o autoricen algún instrumento, deberán extender una orden de entero en la que expresarán el valor más alto sobre el que debe calcularse el gravamen de referencia.
-
-El pago de este impuesto deberá hacerse en la Tesorería Municipal correspondiente al lugar donde se encuentre ubicado el predio materia de la operación.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 66.
 
-Los Gobiernos Federal, Estatal o Municipales que transmitan o adquieran algún bien inmueble están exentos del pago de este impuesto.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 67.
 
-Las infracciones a este capítulo se sancionarán de conformidad con las disposiciones del Código Fiscal Municipal.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1986)
 
 ### CAPITULO V. IMPUESTO SOBRE LOTES BALDIOS SIN BARDEAR O FALTA DE BANQUETAS
 
@@ -1522,6 +1622,12 @@ SUFRAGIO EFECTIVO. NO REELECCION.- El Gobernador Constitucional del Estado.- Ing
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 3 DE SEPTIEMBRE DE 1984.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1986.
 
 ###### ARTICULO UNICO.
 
