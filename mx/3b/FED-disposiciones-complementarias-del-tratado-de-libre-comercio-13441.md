@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "1994-01-07"
+last_updated: "1994-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,15 +18,267 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO POR EL QUE SE ESTABLECEN REGLAS DE MARCADO DE PAIS DE ORIGEN PARA DETERMINAR CUANDO UNA MERCANCIA IMPORTADA A TERRITORIO NACIONAL SE PUEDE CONSIDERAR UNA MERCANCIA ESTADOUNIDENSE O CANADIENSE DE CONFORMIDAD CON EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+CIRCULAR No. R.E.-1 REGLAS A LAS QUE SE SUJETARA EL INGRESO TEMPORAL DE PERSONAS DE NEGOCIOS, DE CONFORMIDAD CON EL TRATADO DE LIBRE COMERCIO PARA AMERICA DEL NORTE (T.L.C.A.N.)
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de enero de 1994.
+Circular publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 9 de mayo de 1994.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Comercio y Fomento Industrial.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Gobernación.- Instituto Nacional de Migración.- Oficina del Comisionado.
 
-JAIME SERRA PUCHE, Secretario de Comercio y Fomento Industrial, con fundamento en los artículos 1o., 2o., 4o., 5o., fracciones III, IV, VI, y X, 9o. y 25 de la Ley de Comercio Exterior, he tenido a bien expedir el siguiente
+CIRCULAR No. R.E.-1
 
-ACUERDO POR EL QUE SE ESTABLECEN REGLAS DE MARCADO DE PAIS DE ORIGEN PARA DETERMINAR CUANDO UNA MERCANCIA IMPORTADA A TERRITORIO NACIONAL SE PUEDE CONSIDERAR UNA MERCANCIA ESTADOUNIDENSE O CANADIENSE DE CONFORMIDAD CON EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+REGLAS A LAS QUE SE SUJETARA EL INGRESO TEMPORAL DE PERSONAS DE NEGOCIOS, DE CONFORMIDAD CON EL TRATADO DE LIBRE COMERCIO PARA AMERICA DEL NORTE (T.L.C.A.N.)
+
+Con el objeto de cumplir con los compromisos adoptados por el Gobierno Mexicano en materia migratoria derivados de la suscripción del Tratado de Libre Comercio para América del Norte (T.L.C.A.N.), y facilitar la internación al país de las "personas de negocios" correspondientes, el Instituto Nacional de Migración a mi cargo, con el acuerdo del Dr. Jorge Carpizo, Secretario de Gobernación y con fundamento en los artículos 3o. fracción VII, 4o., 5o. y 13 de la Ley General de Población; 4o. y 45 del Reglamento de la Ley antes citada; 27 y 28 del Reglamento Interior de la Secretaría de Gobernación; 3o. fracción II y 7o. fracción III del Decreto de creación de este Instituto, comunica que a partir del día 1o. de abril del año en curso la internación y regulación de la estancia temporal de las "personas de negocios" previstas por el T.L.C.A.N., se sujetarán a las reglas siguientes:
+
+1.- FUNDAMENTO JURIDICO Y OPCIONES PARA EL INGRESO TEMPORAL PARA PERSONAS DE NEGOCIOS.
+
+1.1.- Los estadounidenses y canadienses que se internen al país para efectuar negocios, independientemente de la forma migratoria que se les expida, lo harán al amparo de la fracción III del artículo 42 de la Ley General de Población con el carácter de No Inmigrante Visitante Temporal.
+
+1.2.- En razón de lo anterior, los estadounidenses y canadienses cuentan con la opción de ingresar al país para estos efectos, mediante la tradicional forma migratoria identificada como FM3, de conformidad con los procedimientos y requisitos legales en vigor, que continuarán aplicándose sin modificación alguna; o bien, optar por la internación requisitando la nueva forma migratoria FMN, cuyo diseño y aplicación responden al compromiso de facilitar el ingreso a territorio mexicano en los términos del T.L.C.A.N.
+
+Deberá entenderse que la internación bajo esta última opción, se funda en el dispositivo legal invocado en el numeral 1.1 de la presente circular.
+
+2.- SUJETOS BENEFICIARIOS.
+
+2.1.- Son sujetos de las presentes reglas, los ciudadanos de los Estados Unidos de América y de Canadá, que pretendan internarse a territorio mexicano, al amparo de alguna de las cuatro modalidades de "personas de negocios" reconocidas por el Tratado de Libre Comercio para América del Norte; a saber: visitante de negocios; comerciante e inversionista; personal transferido dentro de una empresa, y profesional.
+
+2.2.- Quedan excluidos como sujetos beneficiarios los residentes en Estados Unidos de América o Canadá con nacionalidad distinta a la de los países suscriptores del T.L.C.A.N., así como nacionales de otros países.
+
+2.3.- De conformidad con el capítulo XVI del propio T.L.C.A.N. (Anexo 1603, y apéndices 1603 A-1 y 1603 D-1), se entiende por "persona de negocios", aquel visitante temporal que encuadre en alguna de las modalidades siguientes:
+
+Visitantes de Negocios: Aquellas personas que pretendan llevar a cabo alguna actividad de negocios relacionada con la investigación y diseño; cultivo, manufactura y producción; comercialización; ventas; distribución; servicios posteriores a la venta, y servicios generales. (Ver anexo No.1 para la descripción de cada una de estas actividades).
+
+Comerciantes e Inversionistas: Aquellas personas que pretendan realizar en México intercambios comerciales de bienes y servicios, o establecer, desarrollar, administrar o prestar asesoría o servicios técnicos para administrar una inversión en la cual se hallen comprometidos, o estén en vías de comprometer capital extranjero. (Ver anexo No.1 para la descripción de cada una de estas actividades).
+
+Transferencias de personal: Aquellas personas que empleadas por una empresa, pretendan desempeñar funciones gerenciales, ejecutivas o que conlleven conocimientos especializados en esa empresa o en una de sus subsidiarias o filiales, que se encuentren establecidas en alguno de los países signatarios de T.L.C.A.N.
+
+Profesionales: Aquellas personas que pretendan llevar a cabo actividades a nivel profesional de las señaladas en el propio T.L.C.A.N. (Ver anexo No.1 para la descripción de actividades).
+
+3.- FORMA MIGRATORIA PARA PERSONAS DE NEGOCIOS (FMN).
+
+3.1.- Con el objeto de facilitar la internación a territorio nacional de los ciudadanos estadounidenses y canadienses con el carácter de "personas de negocios", y con fundamento en los artículos 41 y 42 fracción III de la Ley General de Población y 53, 82, 85 y 86 de su Reglamento, a partir del 1o. de abril próximo se implanta una forma migratoria especial denominada FMN, cuyo ejemplar se acompaña a la presente circular como anexo número dos.
+
+3.2.- La FMN será entregada directamente a los interesados por conducto de las oficinas Consulares de México en Canadá y Estados Unidos de América, así como por las agencias de viaje, líneas aéreas y personal migratorio en los puertos y puntos de entrada a la República Mexicana (entre quienes serán oportunamente distribuidas de manera adecuada, de conformidad con la normatividad y medidas de control vigentes).
+
+3.3.- La FMN es un formato que debe llenar el propio interesado, en el cual deberá usar letra de molde e indicar sus datos particulares; precisar el tipo de actividad que desarrollará en México como "persona de negocios" y describir la misma; anotar el nombre y domicilio de la negociación o empresa extranjera de la que forme parte, y la de la principal negociación, empresa o persona física en México con la que realizará las actividades descritas.
+
+3.4.- Queda bajo la estricta responsabilidad de cada uno de los interesados o declarantes, la veracidad de los datos e información que asiente en la forma migratoria, debiendo firmar de enterado de las "advertencias" contenidas en el reverso de la FMN, así como de conformidad, en el original y la copia de la forma migratoria.
+
+3.5.- En razón de lo establecido en el texto del T.L.C.A.N., resulta importante que estos documentos migratorios (FMN) estén debidamente requisitados, en virtud del compromiso trilateral de proporcionar a las otras partes la información relativa para efectos estadísticos.
+
+3.6.- La autorización de la FMN, operará sin contraponerse a ninguna de las formas migratorias en vigor.
+
+4.- DE LA ADMISION DE LAS PERSONAS DE NEGOCIOS (T.L.C.A.N.).
+
+4.1.- Quedan facultadas las autoridades migratorias para aprobar o no, la internación de los extranjeros beneficiarios de estas medidas con FMN, en los puertos y puntos de entrada al país, en la inteligencia de que el objetivo de esta medida es la de facilitar el ingreso al territorio nacional, sin menoscabo del control migratorio básico previsto por las leyes y el propio T.L.C.A.N., al que están obligados los servidores públicos del Instituto Nacional de Migración.
+
+4.2.- De acuerdo con lo dispuesto por el T.L.C.A.N., no se podrá exigir para las autorizaciones de entradas temporales, ningún procedimiento previo de aprobación o prueba de certificación laboral, ni imponer restricción numérica a la entrada de extranjeros que presenten FMN.
+
+4.3.- La autorización de admisión se otorgará con fundamento en los artículos 42, fracción III de la Ley General de Población y 82, 85 y 86 del Reglamento de la materia, como No Inmigrante Visitante autorizado para actividades no lucrativas.
+
+4.4.- Para los efectos de la autorización de internación con FMN, los agentes migratorios deberán:
+
+a) Requerir el documento original con el cual el extranjero pruebe su nacionalidad, y en su caso, documento público que contenga fotografía y firma de su titular. Dicha documentación (pasaporte, copia certificada del acta de nacimiento, etc.), será devuelta en el acto.
+
+b) Cerciorarse de que el extranjero desea ingresar al país para el desarrollo de actividades que le serán remuneradas en su país de origen, y que, por lo tanto no obtendrá ingreso por ellas en México.
+
+c) De tratarse de la modalidad de "visitante de negocios" se requerirá además:
+
+- Documentación que acredite que el extranjero emprenderá las actividades descritas en la FMN, y el propósito señalado para entrar al país, y
+
+- Documentación con la que se compruebe el carácter internacional de la actividad de negocios que se propone realizar.
+
+De no presentar dicha documentación, será suficiente la declaración verbal de que el lugar principal del negocio que representa y el de obtención de ganacias (sic) se encuentra en territorio de Estados Unidos de América y/o Canadá.
+
+d) De tratarse de la modalidad "profesionales" se requerirá además:
+
+- Documentación con la que se acredite que el extranjero emprenderá las actividades declaradas y señale el propósito de su entrada.
+
+Sobre el particular, cabe destacar:
+
+- El profesional deberá presentar cédula profesional expedida por la Secretaría de Educación Pública del Gobierno Federal Mexicano, dado que la sola aceptación de internación bajo esta modalidad, no autorizará a su titular al ejercicio profesional.
+
+- Quienes exhiban la cédula profesional antes mencionada, sólo podrán desarrollar trabajos subordinados, no remunerados en México.
+
+- La persona que al momento de solicitar su internación, no exhiba la cédula profesional mexicana correspondiente, podrá ser documentado como "visitante de negocios", describiendo en la forma migratoria las actividades que se propone desarrollar.
+
+- De conformidad con el T.L.C.A.N., en el caso de profesionales de la medicina, y cumplidos los requisitos anteriores, sólo podrán ser objeto de autorización cuando la actividad a desarrollar sea la docencia o investigación.
+
+4.5.- En los casos de negativa para la internación de las "personas de negocios" con FMN a que se refiere la presente circular, los agentes migratorios y/o Delegados Regionales o Locales, están obligados a remitir de manera inmediata a la Coordinación de Regulación de Estancia del Instituto, un informe pormenorizado en el que se destaquen los motivos de tal negativa, a fin de sostener la decisión adoptada, en el Grupo de Trabajo sobre entrada temporal creado para el seguimiento de los compromisos adoptados en el seno del T.L.C.A.N.
+
+5.- TEMPORALIDAD DE LA INTERNACION CON FMN.
+
+5.1.- La autorización que otorgue la autoridad migratoria es de carácter personal y por ende intransferible, debiendo ser usada únicamente por su titular.
+
+5.2.- La vigencia de la autorización otorgada, en todo caso, será por un máximo de 30 días contados a partir de la fecha del sello de la primera internación al país.
+
+5.3.- En este caso, el término de los 30 días deberá entenderse como días naturales, y por ende, la vigencia de la forma migratoria vencerá de manera fatal al final de dicho término, sin tomar en consideración los días que el extranjero haya permanecido efectivamente en el país.
+
+5.4.- En todo caso, la "persona de negocios" visitante FMN tendrá el derecho de optar por la obtención de una nueva forma migratoria en cada ocasión que desee internarse al país, debiendo hacer entrega de su documento al agente migratorio del puerto o punto de salida del territorio nacional, cuando efectúe su salida definitiva.
+
+5.5.- En los casos en que el extranjero al abandonar el territorio nacional tenga vencido el periodo de 30 días autorizado, se le deberá aplicar la sanción administrativa que corresponda en los términos de la normatividad en vigor, avisando de la misma a las oficinas centrales de estadística de este Instituto.
+
+5.6.- Cuando el extranjero pierda o extravíe su documento migratorio FMN, acudirá a la oficina del Instituto más cercana, y previo el levantamiento de una acta declaratoria, y la comprobación de su ingreso al país bajo esta modalidad, se le podrá regularizar su estancia en México, o de ser necesario, extenderle oficio de salida definitiva del país.
+
+5.7.- Las Delegaciones Regionales de la frontera norte del territorio nacional, instalarán buzones para recepción de la FMN en las salidas terrestres y puentes que comunican con el exterior, para facilitar la devolución de las FMN cuando el extranjero que se internó bajo esta modalidad, desee salir en forma definitiva del país. Se deberá efectuar una recolección diaria de éstas con el objeto de mantener actualizada la información correspondiente.
+
+5.8.- Las delegaciones regionales colocarán avisos de información dirigidos a los extranjeros en los puntos o puertos de salida en los que se les haga saber lo siguiente: "si su forma migratoria se vence estando usted fuera del país, deberá remitir por correo el original de la FMN a la oficina consular más próxima a su domicilio" gracias.
+
+6.- PROLONGACION DE LA ESTANCIA EN MEXICO.
+
+6.1.- Si el visitante "persona de negocios" con FMN desea prolongar su estancia en México, y no han variado las circunstancias que motivaron su ingreso bajo esta modalidad, deberá acudir a la oficina del Instituto más cercana al lugar donde efectúa sus actividades, para solicitar le sea otorgada una FM3 como No Inmigrante visitante de negocios para actividades no lucrativas.
+
+6.2.- Para estos efectos, las oficinas migratorias correspondientes, integrarán un expediente migratorio en el que como mínimo se contará:
+
+a) la FMN debidamente cancelada;
+
+b) copia cotejada por el Instituto de la prueba de nacionalidad y en su caso identificación personal;
+
+c) declaración del interesado, bajo protesta de decir verdad de que no ha variado, ni el objeto, ni las circunstancias que originaron su internación inicial bajo esta modalidad, y que no que está realizando actividades remuneradas en México;
+
+d) comprobación de que el interesado cuenta con los recursos económicos propios y/o suficientes para su estancia en el país, y
+
+e) copias cotejadas de la documentación de la empresa contratante o representada por el extranjero en la que se indique la actividad, puesto y sueldo percibido por el visitante. Asimismo, se cumplirá con los requisitos habituales del Registro Nacional de Extranjeros, que al momento de expedir la FM3 se deben satisfacer.
+
+6.3.- El otorgamiento de la FM3 en sustitución de la FMN se realizará en un lapso no mayor a cinco días hábiles, previo pago de los derechos correspondientes.
+
+6.4.- De conformidad con lo establecido por el artículo 42 fracción III de la Ley General de Población y 85 fracción II de su Reglamento, el periodo de vigencia de la FM3 podrá ser hasta de un año, así como el de las cuatro prórrogas que en su caso se pueden otorgar.
+
+Los visitantes bajo esta modalidad podrán solicitar hasta cuatro prórrogas de un año cada una, debiendo anotarse en la FM3 la primera internación que corresponde a los 30 días otorgados con la FMN.
+
+Si con posterioridad al vencimiento del periodo de vigencia de la FM3 y sus prórrogas, el extranjero requiere nueva permanencia, podrá solicitar la expedición de una nueva FM3, que le permitirá continuar legalmente en el país, en los términos previstos por la Ley General de Población.
+
+6.5.- Para el caso de que la FMN se encuentre vencida al momento de solicitar la expedición de una FM3, se regularizará previamente la estancia del extranjero, y en su caso, procederá la aplicación de la multa correspondiente. Si la estancia ilegal es mayor a 60 días, procederá el otorgamiento de oficio de salida definitiva en un término de 72 horas con vista a la oficina de inspección.
+
+6.6.- Si el visitante desea mofidicar las condiciones de su autorización (cambio de empleador, de cargo o actividad, o a actividad remunerada), deberá satisfacer todos los requisitos que la Ley General de Población, su Reglamento y el Instituto dispongan para (sic) modalidad de que se trate.
+
+7.- DERECHOS FISCALES.
+
+7.1.- De conformidad con lo dispuesto en el artículo 11, fracción V, inciso B de la Ley Federal de Derechos en vigor, la expedición de la FMN no causa pago alguno de derechos.
+
+7.2.- La expedición de la FM3 así como de sus prórrogas, de conformidad con lo dispuesto por el artículo 8o. del instrumento jurídico antes invocado, causa el pago de derechos.
+
+8.- INTERPRETACION DE LA PRESENTE CIRCULAR.
+
+8.1.- Para la interpretación o aclaración del contenido y alcance de la presente circular, se faculta a la Coordinación de Regulación de Estancia del Instituto Nacional de Migración a emitir los criterios conducentes.
+
+9.- DISPOSICIONES GENERALES.
+
+Quedan sin efectos:
+
+- El oficio 058372 de fecha 26 de noviembre de 1992 para el caso de "personas de negocios", y
+
+- En general cualquier disposición que contravenga lo dispuesto por la presente circular.
+
+Atentamente
+
+Sufragio Efectivo. No Reelección.
+
+México, D.F., a 29 de marzo de 1994.- El Comisionado del Instituto Nacional de Migración, Eloy Cantú Segovia.- Rúbrica.
+
+ANEXO NUMERO UNO
+
+VISITANTES DE NEGOCIOS
+
+Para desempeñar actividades internacionales relacionadas con:
+
+Investigación y diseño; cultivo, manufactura y producción; comercialización; ventas; distribución; servicios posteriores a la venta y servicios generales.
+
+- Investigación y diseño:
+
+Investigadores técnicos, científicos y estadísticos que realicen investigaciones de manera independiente o para una empresa ubicada en territorio de Canadá o Estados Unidos de América.
+
+- Cultivo, manufactura y producción:
+
+Propietarios de máquinas cosechadoras que supervisen a un grupo de operarios admitidos de conformidad con las disposiciones aplicables.
+
+Personal de compras y de producción a nivel gerencial que lleve a cabo operaciones comerciales para una empresa ubicada en territorio de Canadá o Estados Unidos.
+
+- Comercialización:
+
+Investigadores y analistas de mercado que efectúen investigaciones o análisis de manera independiente o para una empresa ubicada en territorio de Canadá o Estados Unidos.
+
+Personal de ferias y de promoción que asista a convenciones comerciales.
+
+- Ventas:
+
+Representantes y agentes de ventas que levanten pedidos o negocien contratos sobre bienes y servicios para una empresa ubicada en territorio de Canadá o Estados Unidos, pero que no entreguen los bienes ni presten los servicios.
+
+Compradores que hagan adquisiciones para una empresa ubicada en territorio de Canadá o Estados Unidos.
+
+- Distribución:
+
+Operadores de Transporte que efectúen operaciones de transporte de bienes o de pasajeros a territorio nacional desde territorio de Canadá o Estados Unidos, o efectúen operaciones de carga y transporte de bienes o de pasajeros desde territorio nacional, a territorio de Canadá o Estados Unidos, sin realizar operaciones de carga y descarga, en el territorio nacional al cual se solicite entrada, de bienes que se encuentren en ese territorio, ni de pasajeros que aborden en él.
+
+Agentes aduanales que brinden servicios de asesorías en lo tocante a facilitar la importación o exportación de bienes.
+
+- Servicios posteriores a la venta:
+
+Personal de instalación, reparación, mantenimiento y supervisión que cuente con los conocimientos técnicos especializados esenciales para cumplir con la obligación contractual del vendedor; y que preste servicios o capacite a trabajadores para que presten esos servicios, de conformidad con una garantía u otro contrato de servicios conexo a la venta de equipo o maquinaria comercial o industrial incluidos los programas de computación comprados a una empresa ubicada fuera del territorio nacional, al cual se solicita entrada temporal, durante la vigencia del contrato de garantía o de servicio.
+
+- Servicios generales:
+
+Profesionales que realicen actividades de negocios a nivel profesional en el ámbito de una profesión.*
+
+Personal gerencial y de supervisión que intervenga en operaciones comerciales para una empresa ubicada en territorio de Canadá o Estados Unidos.
+
+Personal de servicios financieros (agentes de seguros, personal bancario o corredores de inversiones) que intervenga en operaciones comerciales para una empresa ubicada en territorio de Canadá o Estados Unidos.
+
+Personal de relaciones públicas y de publicidad que brinde asesoría a clientes o que asista o participe en convenciones.
+
+Personal de turismo (agentes de excursiones y de viajes, guías de turistas u operadores de viajes) que asistan o participen en convenciones o conduzca alguna excursión que se haya iniciado en territorio de Canadá o Estados Unidos.
+
+Operadores de autobús turístico que entre en territorio nacional:
+
+a) Con un grupo de pasajeros en un viaje por autobús turístico que haya comenzado en territorio de Canadá o Estados Unidos y vaya a regresar a ellos.
+
+* Nota: Su otorgamiento no los autoriza para ejercer la profesión respectiva, sin haber cubierto previamente los requisitos establecidos en las disposiciones reglamentarias del Artículo 5o. Constitucional en materia de profesiones o en su caso, sin sujetarse a las prevenciones previstas en el TLC.
+
+b) Que vaya a recoger a un grupo de pasajeros en un viaje en autobús turístico que terminará y se desarrollará en su mayor parte en teritorio (sic) de Canadá o Estados Unidos;
+
+c) Con un grupo de pasajeros en autobús turístico cuyo destino está en territorio nacional al cual se solicita la entrada temporal y que regrese sin pasajeros o con el grupo para transportarlo a territorio de Canadá o Estados Unidos.
+
+d) Traductores o intérpretes que presten servicios como empleados de una empresa ubicada en territorio de Canadá o Estados Unidos.
+
+COMERCIANTES E INVERSIONISTAS
+
+- Comerciantes:
+
+Para llevar a cabo un intercambio comercial cuantioso de bienes o servicios principalmente entre su propio país y el territorio del país que solicita la entrada.
+
+- Inversionistas:
+
+Para establecer, desarrollar, administrar o prestar asesoría o servicios técnicos clave en funciones de supervisión, ejecutivas o que conlleven habilidades esenciales, para llevar a cabo o administrar una inversión en la cual la persona o su empresa hayan comprometido o estén en vías de comprometer un monto importante de capital.
+
+TRANSFERENCIA DE PERSONAS DENTRO DE UNA EMPRESA
+
+Es la persona de negocios empleada por una empresa para desempeñar funciones gerenciales, ejecutivas, o que conlleven conocimientos especializados esenciales en esa empresa o en una de sus subsidiarias o filiales. (Ser transferido por su compañía a México).
+
+PROFESIONALES
+
+Persona de negocios que pretenda llevar a cabo una actividad a nivel profesional en el ámbito de una profesión.*
+
+- Científicos:
+
+Agrónomo; apicultor; astrónomo; biólogo; bioquímico; científico en animales; científico en aves de corral; científico en lácteos; criador de animales; edafólogo; entomólogo; epidemiólogo; farmacólogo; físico; fitocultor; genetista; geofísico (incluye oceanógrafo); geólogo; geoquímico; horticultor; meteorólogo; químico y zoólogo.
+
+- General:
+
+Abogado; administrador de fincas (conservador de fincas); administrador hotelero; ajustador de seguros contra desastres (empleado por una compañía ubicada en el territorio de una parte o de un ajustador independiente); analista de sistemas; arquitecto; arquitecto de paisaje; asistente de investigación (que trabaje en una institución educativa, postbachillerato); bibliotecario; consultor en administración; contador; diseñador de interiores; diseñador gráfico; diseñador industrial; economista; escritor de publicaciones técnicas; ingeniero; ingeniero forestal; matemático (incluye a los estadígrafos); orientador vocacional; planificador urbano (incluye geógrafos); silvicultor (incluye especialista forestal), técnico/técnico científico; topógrafo y trabajador social.
+
+- Profesionales médicos/asociados:
+
+Dentista; enfermera registrada; farmacéutico; médico (sólo enseñanza o investigación); médico veterinario zootécnico; nutriólogo; psicólogo; tenólogo en laboratorio médico (Canadá)/tecnólogo médico (E.U.A. y México); terapeuta fisiólogo y físico; terapeuta ocupacional y terapeuta recreativo.
+
+- Profesor:
+
+College, seminario y universidad.
+
+* Nota: El otorgamiento de esta categoría migratoria no los autoriza para ejercer la profesión respectiva, sin haber cubierto previamente los requisitos establecidos en las disposiciones reglamentarias del Artículo 5o. Constitucional en materia de profesiones o en su caso, sin sujetarse a las prevenciones establecidas en el TLC.
+
+Las personas de negocios que ingresen como profesionales les queda expresamente prohibido realizar cualquier actividad que implique ejercicio profesional, sin haber obtenido previamente cédula profesional de la Dirección General de Profesiones de la Secretaría de Educación Pública.
+
+(VER ARCHIVO ANEXO)
 
 ## TITULO I: DISPOSICIONES GENERALES
 
