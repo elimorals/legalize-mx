@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-presupuesto-y-control-del-gasto-publico-estatal-2998"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "1987-11-20"
+last_updated: "1988-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PRESUPUESTO Y CONTROL DEL GASTO PUBLICO ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE NOVIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1988.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 20 de febrero de 1984.
 
@@ -45,19 +45,19 @@ LEY DE PRESUPUESTO Y CONTROL DEL GASTO PUBLICO ESTATAL.
 
 El presupuesto, la contabilidad y el gasto público Estatal se norman y regulan por las disposiciones de esta Ley, la que será aplicada por el Ejecutivo Estatal a través de la Secretaría de Finanzas.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 2°.
 
-El gasto público estatal comprende las erogaciones por concepto de gasto corriente, inversión física, inversión financiera y deuda pública que realizan los siguientes ramos:
+El Gasto Público Estatal comprende las erogaciones por concepto de Gasto Corriente, Inversión Financiera y Deuda Pública que realizan los siguientes Ramos:
 
 I. PODER LEGISLATIVO
 
 II. EJECUTIVO DEL ESTADO
 
-III. PODER JUDICIAL
+III.- PODER JUDICIAL
 
-IV. SECRETARIA GENERAL DE GOBIERNO
+IV.- SECRETARIA GENERAL DE GOBIERNO
 
 V. OFICIALIA MAYOR
 
@@ -67,15 +67,15 @@ VII. SECRETARIA DE DESARROLLO
 
 VIII. SECRETARIA DE ASENTAMIENTOS HUMANOS Y OBRAS PUBLICAS
 
-> <small>(REFORMADA, B.O. 20 DE NOVIEMBRE DE 1987)</small>
-
 IX. SECRETARIA DE BIENESTAR SOCIAL
 
 X. PROCURADURIA GENERAL DE JUSTICIA
 
 XI. CONTRALORIA
 
-XII. ORGANISMOS DESCENTRALIZADOS Y PROGRAMAS INSTITUCIONALES
+XII. SECRETARIA DE TURISMO
+
+XIII. ORGANISMOS DESCENTRALIZADOS Y PROGRAMAS INSTITUCIONALES
 
 ###### ARTICULO 3°.
 
@@ -101,11 +101,11 @@ El Ejecutivo Estatal autorizará, por conducto de la Secretaría de Finanzas, la
 
 Para el cumplimiento del Artículo 7°. la Secretaría de Finanzas guardará estrecha relación y coordinación con la Secretaría de Desarrollo para su eficaz cumplimiento.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 9°.
 
-Sólo se podrán concertar créditos para financiar programas incluidos en los presupuestos de las entidades a que se refieren las Fracciones II, IV, a la XII del Artículo 2o. de esta Ley, que previamente hayan sido aprobados por la Secretaría de Finanzas.
+Sólo se podrán concertar créditos para financiar programas incluidos en los presupuestos de las entidades a que se refieren las Fracciones II, IV a la XIII del Artículo 2o. de esta Ley, que previamente hayan sido aprobados por la Secretaría de Finanzas.
 
 ###### ARTICULO 10.
 
@@ -211,13 +211,13 @@ En casos excepcionales y debidamente justificados, la Secretaría de Finanzas po
 
 Cuando se trate de programas cuyos presupuestos se incluyan en el Presupuesto de Egresos del Estado, se hará mención especial de estos casos al presentar el Proyecto de Presupuesto al Congreso del Estado.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 27.
 
-El Ejecutivo Estatal por conducto de la Secretaría de Finanzas establecerá las normas generales a que se sujetarán las garantías que deban constituirse a favor de las diversas entidades en los actos y contratos que celebren, el propio Ejecutivo determinará las excepciones cuando a su juicio estén justificadas.
+El Ejecutivo Estatal por conducto de la Secretaría de Finanzas establecerá las normas generales a que se sujetarán las garantías que deban constituirse a favor de las diversas entidades en los actos y contratos que celebren. El propio Ejecutivo determinará las excepciones cuando a su juicio estén justificadas.
 
-La Secretaría de Finanzas será la beneficiaria de todas las garantías que se otorguen a favor del Gobierno Estatal, en los casos del Artículo 2o. de esta Ley y a ella le corresponderá conservar la documentación respectiva y en su caso, ejercitar los derechos que correspondan al Gobierno del Estado, a cuyo efecto y con la debida oportunidad, se le habrán de permitir las informaciones y documentos necesarios.
+La Secretaría de Finanzas será la beneficiaria de todas las garantías que se otorguen a favor del Gobierno Estatal, en los casos de las Fracciones I a la XIII del Artículo 2o. de esta Ley y a ella le corresponderá conservar la documentación respectiva y en su caso, ejercitar los derechos que correspondan al Gobierno del Estado, a cuyo efecto y con la debida oportunidad se le habrán de permitir las informaciones y documentos necesarios.
 
 ###### ARTICULO 28.
 
@@ -241,11 +241,11 @@ La acción para exigir el pago de las remuneraciones del personal al servicio de
 
 La prescripción sólo se interrumpe por gestión de cobro hecha por escrito.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 32.
 
-Cuando algún Funcionario o Empleado perteneciente a las entidades a que se refiere el Artículo 2o. de esta Ley fallezcan y tuviere cuando menos una antigüedad en el servicio de seis meses, los familiares o quienes hayan vivido con él en la fecha del fallecimiento y se hagan cargo de los gastos de inhumación, percibirán hasta el importe de cuatro meses de los sueldos, salarios, gastos de representación y asignaciones de técnicos que estuviere percibiendo en esa fecha.
+Cuando algún funcionario o empleado perteneciente a las entidades a que se refieren las Fracciones I a la XIII del Artículo 2o. de esta Ley, fallezca y tuviere cuando menos una antigüedad en el servicio de seis meses, los familiares o quienes hayan vivido con él en la fecha del fallecimiento y se hagan cargo de los gastos de inhumación, percibirán hasta el importe de cuatro meses de los sueldos, salarios, gastos de representación y asignaciones de técnicos que estuviere percibiendo en esa fecha.
 
 ###### ARTICULO 33.
 
@@ -271,13 +271,13 @@ Los lineamientos, normas, sistemas, procedimientos, instructivos y metodología 
 
 ### CAPITULO V. DEL CONTROL Y LA EVALUACION
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 38.
 
-La Secretaría de Finanzas llevará la Contabilidad del Estado, la cual incluirá las cuentas para registrar los activos, pasivos, capital o patrimonio, ingresos, costos y gastos como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas del Presupuesto.
+La Secretaría de Finanzas llevará la contabilidad del Estado, la cual incluirá las cuentas para registrar los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, así como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas del Presupuesto.
 
-El Catálogo de Cuentas que utilizarán las entidades a que se refiere el Artículo 2o. de esta Ley, será emitido por la Secretaría de Finanzas y los de la Fracción XII "Organismos Descentralizados y Programas Institucionales", serán autorizados expresamente por esa Secretaría.
+El catálogo de cuentas que utilizarán las entidades a las que se refiere el Artículo 2o. de esta Ley será emitido por la Secretaría de Finanzas y los de la Fracción XIII "Organismos Descentralizados y Programas Institucionales", serán autorizados expresamente por esa Secretaría.
 
 ###### ARTICULO 39.
 
@@ -315,11 +315,11 @@ Las responsabilidades que se constituyan tendrán por objeto indemnizar por los 
 
 La Secretaría de Finanzas podrá cancelar los créditos derivados de responsabilidades que no excedan del equivalente a 15 días de salario del responsable, siempre que no se haya podido obtener su cobro por algún medio legal o por incosteabilidad practicada del cobro. Cuando los créditos excedan de esa cantidad, se propondrá su cancelación al Congreso del Estado al rendir la cuenta anual correspondiente, acompañando los datos que funden la propuesta.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 46.
 
-La Secretaría de Finanzas podrá imponer indistintamente las siguientes correcciones disciplinarias a los Servidores Públicos de las entidades a que se refieren las Fracciones II y de la IV a la XII del Artículo 2o. de esta Ley, que en el desempeño de sus labores incurran en faltas que ameriten el fincamiento de responsabilidades:
+La Secretaría de Finanzas podrá imponer indistintamente las siguientes correcciones disciplinarias a los Servidores Públicos de las entidades a que se refieren las Fracciones II y de la IV a la XIII del Artículo 2o. de esta Ley en el desempeño de sus labores, que incurran en faltas que ameriten el fincamiento de responsabilidades:
 
 I.- Sanción económica que en ningún caso será inferior al importe de 10 días, ni mayor de 100 del sueldo base presupuestal que percibe el Servidor Público.
 
@@ -406,3 +406,9 @@ B.O. 20 DE NOVIEMBRE DE 1987.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado.
