@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1997-02-12"
+last_updated: "1997-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -319,7 +319,7 @@ f) Los entes u organismos creados por el poder público, para solucionar el prob
 
 g) Las operaciones realizadas por o con personas que lleven a cabo programas concretos, con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey", para solucionar el problema de la vivienda y de la tenencia legal de la tierra, previa autorización del H. Congreso del Estado, a iniciativa del C. Gobernador, quien solicitará opinión del Presidente Municipal que corresponda.
 
-> <small>(ADICIONADO CON LOS ARTICULOS Y SECCIONES QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 ### CAPITULO I BIS. IMPUESTO PREDIAL
 
@@ -395,7 +395,7 @@ VI.- Los usufructuarios, usuarios y habituarios.
 
 VII.- Los arrendatarios en contratos de arrendamiento financiero de predios en los que se establezca que al término del plazo pactado se le transferirá la propiedad del bien objeto de éstos.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS Y SECCIONES QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION TERCERA. DETERMINACION DE LA BASE
 
@@ -2771,6 +2771,10 @@ a) Rifas, sorteos, loterías de especulación o juegos con premios.
 
 b) Ferias.
 
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 1997)</small>
+
+No quedará comprendido dentro del objeto, la enajenación de billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos y concursos de toda clase, así como los premios que deriven de los mismos, organizados por organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
+
 ###### ARTICULO 34.
 
 SUJETOS.- Las personas físicas, morales o unidades económicas sin personalidad jurídica, que realicen o exploten las actividades gravadas.
@@ -2779,7 +2783,9 @@ SUJETOS.- Las personas físicas, morales o unidades económicas sin personalidad
 
 TASA.- Este impuesto se pagará en los siguientes términos:
 
-a) 12% sobre el valor comercial de los premios en el caso del inciso a) del Artículo 33 de esta Ley.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 1997)</small>
+
+a) 6% sobre el valor comercial de los premios en el caso del inciso a) del artículo 33 de esta Ley.
 
 Tratándose de artículos de propaganda comercial, se pagará el 10% sobre el valor de los artículos rifados.
 
@@ -3078,5 +3084,9 @@ TERCERO.- Durante 1997, el Presidente Municipal podrá establecer una tasa menor
 CUARTO.- El presente Decreto entrará en vigor el día 1o. de Enero de 1997.
 
 P.O. 12 DE FEBRERO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE ABRIL DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
