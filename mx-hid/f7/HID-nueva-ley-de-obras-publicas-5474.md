@@ -4,7 +4,7 @@ identifier: "HID-nueva-ley-de-obras-publicas-5474"
 country: "mx"
 rank: "otro"
 publication_date: "1984-09-24"
-last_updated: "1984-09-24"
+last_updated: "2003-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 NUEVA LEY DE OBRAS PUBLICAS PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE OBRAS PUBLICAS DEL ESTADO DE HIDALGO, PUBLICADA EN EL PERIODICO OFICIAL EL 11 DE AGOSTO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 24 de septiembre de 1984.
 
@@ -646,3 +648,17 @@ Por lo tanto mando se imprima, publique y circule para su debido cumplimiento, e
 Dado en el Palacio del Poder Ejecutivo en la ciudad de Pachuca de Soto, Estado de Hidalgo, a los siete días del mes de septiembre de mil novecientos ochenta y cuatro.
 
 El Gobernador Constitucional.- GUILLERMO ROSSELL .- El Secretario General de Gobierno,.- EFRAIN ARISTA RUIZ.- Rúbricas.
+
+N DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 11 DE AGOSTO DE 2003.
+
+PRIMERO.- La presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La presente Ley, abroga la "Nueva Ley de Obras Públicas del Estado de Hidalgo", publicada en el Periódico Oficial del Estado el día veinticuatro de septiembre de 1984; así como las disposiciones que contravengan al presente Ordenamiento.
+
+TERCERO.- Las obras públicas contratadas e iniciadas durante la vigencia de la Legislación anterior, se concluirán de acuerdo a la normatividad de la Ley derogada.
+
+CUARTO.- Las disposiciones administrativas expedidas en esta materia, seguirán vigentes hasta en tanto se emitan las nuevas disposiciones que deban sustituirlas, en todo aquello en lo que no se contraponga a la presente Ley.
+
+QUINTO.- El Poder Ejecutivo, expedirá el Reglamento de esta Ley dentro de los 120 días naturales posteriores a la entrada en vigor de la presente Ley.
