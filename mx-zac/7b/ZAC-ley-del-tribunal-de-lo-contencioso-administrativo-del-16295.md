@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-tribunal-de-lo-contencioso-administrativo-del-16295"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-01"
-last_updated: "2003-01-11"
+last_updated: "2003-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 1 de Abril de 2000.
 
@@ -107,7 +107,7 @@ El Magistrado deberá rendir la protesta de Ley en los términos de la Constituc
 
 Será causa de retiro del Magistrado haber cumplido setenta y cinco años de edad o que sobrevenga incapacidad física o mental para desempeñar el cargo.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O, 11 DE ENERO DE 2003)</small>
 
 ###### ARTÍCULO 7.
 
@@ -303,9 +303,11 @@ Si son varios los demandantes, o los terceros, deberán designar un representant
 
 Las notificaciones se harán personalmente, por estrados o por correo certificado con acuse de recibo, dentro de los tres días siguientes a aquél en que se dicten los autos o resoluciones que las prevengan o que la ley lo señale.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2003)</small>
+
 ###### ARTÍCULO 31.
 
-Los particulares deberán señalar en el primer escrito o en la primera diligencia, domicilio en la ciudad de Zacatecas para oír y recibir notificaciones, y harán saber el cambio del mismo.
+Los particulares deberán señalar en el primer escrito o en la primera diligencia, domicilio para oír y recibir notificaciones, y harán saber el cambio del mismo. A falta de señalamiento o aviso de cambio, las notificaciones se harán por lista.
 
 ###### ARTÍCULO 32.
 
@@ -371,6 +373,8 @@ Son horas hábiles las comprendidas entre las ocho y las dieciocho horas.
 
 ### CAPÍTULO V. DE LA DEMANDA Y CONTESTACIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 2003)</small>
+
 ###### ARTÍCULO 41.
 
 El Magistrado y los Secretarios estarán forzosamente impedidos para conocer y deberán excusarse en los siguientes casos:
@@ -409,7 +413,7 @@ Si la recusación se declarase infundada, el Magistrado decidirá de acuerdo con
 
 ###### ARTÍCULO 44.
 
-La demanda deberá presentarse directamente ante el Tribunal dentro de los quince días hábiles siguientes a aquél en que haya surtido efectos la notificación del acto o resolución que se impugne, conforme a las disposiciones aplicables.
+La demanda deberá presentarse por escrito dentro de los quince días hábiles siguientes a aquél en que haya surtido efectos la notificación del acto o resolución que se impugne, conforme a las disposiciones aplicables. Se podrá presentar directamente ante el Tribunal o por correo certificado con acuse de recibo, cuando el actor tenga su domicilio fuera de la ciudad de Zacatecas, en cuyo caso se tomará como fecha de presentación de la demanda la del depósito de la misma ante la oficina del Servicio Postal Mexicano.
 
 Cuando se pida la nulidad de una resolución en materia fiscal favorable a un particular, la autoridad podrá presentar la demanda dentro del año siguiente a la fecha en la que fue dictada.
 
@@ -451,15 +455,27 @@ El actor deberá acompañar copia del escrito de demanda y demás documentos par
 
 Recibida la demanda, en el término de veinticuatro horas hábiles, se dará cuenta al Magistrado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 2003)</small>
+
 ###### ARTÍCULO 49.
 
-El Tribunal desechará la demanda cuando siendo obscura e irregular y prevenido el actor para subsanarla en el término de cinco días, no lo hiciere. La obscuridad o irregularidad subsanables serán las relativas a la falta o imprecisión de los requisitos que para la presentación de la demanda establece esta Ley; o igualmente no se aporten los documentos a que se refiere la propia ley, en el mismo término, una vez que le sean requeridos al demandante.
+El Tribunal desechará la demanda en los siguientes casos:
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO 2003)</small>
+
+I.- Si se encontrara causa manifiesta e indudable de improcedencia a que se refiere el artículo 61 de esta ley;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO 2003)</small>
+
+II.- Cuando siendo obscura e irregular y prevenido el actor para subsanarla en el término de cinco días, no lo hiciere. La obscuridad o irregularidad subsanables serán las relativas a la falta o imprecisión de los requisitos que para la presentación de la demanda establece esta Ley; o igualmente cuando en el mismo término se haga caso omiso en aportar los documentos a que se refiere la propia ley, una vez que le sean requeridos al demandante.
 
 Contra el desechamiento de la demanda procede el recurso de Revocación.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO 2003)</small>
+
 ###### ARTÍCULO 50.
 
-Admitida la demanda, se ordenará emplazar al o los demandados para que la contesten dentro de los quince días hábiles siguientes a aquél en que surta efectos el emplazamiento; asimismo se citará para la audiencia del juicio dentro de un plazo que no excederá de veinte días hábiles y se dictarán las demás providencias que procedan. Cuando fueren varios los demandados, el término para contestar correrá individualmente.
+Admitida la demanda, se ordenará emplazar a la parte demandada para que la conteste dentro de los quince días hábiles siguientes a aquél en que surta efectos el emplazamiento, y se dictarán las demás providencias que procedan. Cuando fueren varios los demandados, el término para contestar correrá individualmente. Contestada la demanda y preparadas las pruebas para su desahogo, se citará para la audiencia del juicio dentro de un plazo que no excederá de veinte días hábiles.
 
 ###### ARTÍCULO 51.
 
@@ -669,6 +685,8 @@ De ser fundada la demanda, la sentencia dejará sin efecto el acto o resolución
 
 ### CAPÍTULO XII. DEL RECURSO DE REVOCACION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO 2003)</small>
+
 ###### ARTÍCULO 79.
 
 Las sentencias pronunciadas por el Tribunal causan ejecutoria en los siguientes casos:
@@ -699,11 +717,9 @@ Si no obstante los requerimientos a que se refieren las disposiciones anteriores
 
 ###### ARTÍCULO 84.
 
-En contra de las resoluciones del Tribunal procede el Recurso de Revocación. El recurso deberá ser interpuesto por escrito ante el propio Tribunal, con expresión de agravios, dentro del plazo de cinco días hábiles siguientes al en que surta efectos la notificación de la resolución que se impugna, si es sentencia definitiva y de tres días hábiles tratándose de autos o interlocutorias.
+En contra de las sentencias definitivas del Tribunal, no procede recurso alguno. En contra de los autos o interlocutorias procede el recurso de revocación, el cual deberá ser interpuesto por escrito ante el propio Tribunal, con expresión de agravios, dentro del plazo de cinco días hábiles siguientes al en que surta efectos la notificación de la resolución que se impugna.
 
 Al admitirse el recurso se correrá trasladado a las demás partes por el término de cinco días hábiles, para que expongan lo que a su derecho convenga.
-
-El Tribunal podrá suplir las deficiencias de los agravios expresados en el recurso, pero no su ausencia.
 
 Vencido el término se emitirá la resolución que corresponda en un plazo de cinco días hábiles.
 
@@ -768,3 +784,7 @@ P.O. 11 DE ENERO DE 2003
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 SEGUNDO.- Al inicio de vigencia del presente decreto, quedarán derogadas las disposiciones de ley o de reglamento, que se opongan a aquél.
+
+P.O. 24 DE MAYO DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
