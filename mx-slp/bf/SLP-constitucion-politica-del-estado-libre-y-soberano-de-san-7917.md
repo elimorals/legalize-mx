@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2004-03-23"
+last_updated: "2004-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2004.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -169,17 +169,25 @@ El Estado reconoce los mismos derechos a las comunidades que sean equiparables a
 
 Es responsabilidad del Congreso del Estado vigilar que todas las leyes o decretos de observancia obligatoria, sean publicadas en el Periódico Oficial del Estado en las lenguas propias de los pueblos indígenas de la Entidad para su aplicación y entrada en vigor.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 10.
 
-Todas las personas tienen el derecho de recibir educación. La educación que imparta el Estado en todos sus tipos y modalidades será gratuita. La educación primaria y secundaria serán obligatorias.
+Todas las personas tienen el derecho de recibir educación. La educación que imparta el Estado en todos sus tipos y modalidades será gratuita. La educación preescolar, primaria y secundaria serán obligatorias.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 La educación que imparta el Estado será laica y tendrá por objeto el pleno desarrollo de todas las facultades del ser humano. Promoverá el amor a la Patria y a sus símbolos; fortalecerá la identidad estatal y la conciencia en los valores de la independencia nacional, la libertad, la justicia, la democracia, la dignidad y la solidaridad social.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
 La educación en el Estado estará regida por los criterios y lineamientos que la Constitución Política de los Estados Unidos Mexicanos establece en relación a la democracia, su carácter nacional, sus contenidos y las condiciones para la mejor convivencia humana, la dignidad de la persona, la integridad de la familia y el interés general de la sociedad.
 
-El Ejecutivo del Estado, a través de la Secretaría del ramo, coadyuvará con la Federación en el establecimiento de los planes y programas de estudio de la educación primaria, secundaria y normal, considerando la opinión de los Ayuntamientos y de los sectores sociales involucrados en la educación, en los términos de las leyes respectivas; asimismo, promoverá y apoyará la educación científica y tecnológica.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2004)</small>
+
+El Ejecutivo del Estado, coadyuvará con la Federación en el establecimiento de los planes y programas de estudio de la educación preescolar, primaria, secundaria y normal, considerando la opinión de los ayuntamientos y de los sectores sociales involucrados en la educación, en los términos de las leyes respectivas; asimismo, promoverá y apoyará la educación científica y tecnológica.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares.
 
@@ -1741,12 +1749,6 @@ En todos los casos señalados en este artículo, invariablemente si el supuesto 
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-TÍTULO DECIMOPRIMERO
-
-DE LA JUSTICIA ADMINISTRATIVA
-
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
-
 ### CAPÍTULO ÚNICO
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
@@ -1762,6 +1764,12 @@ La justicia administrativa se deposita en un Tribunal de lo Contencioso Administ
 La ley establecerá su organización, funcionamiento, el procedimiento y los recursos contra sus resoluciones.
 
 Los Magistrados deberán reunir los mismos requisitos que para ser Magistrado del Supremo Tribunal de Justicia del Estado, debiendo además contar con experiencia en materia administrativa y fiscal. Serán designados por el Congreso del Estado en la misma forma y términos que establece el artículo 96 de la presente Constitución. Durarán en su cargo seis años, durante los cuales podrán ser separados libremente del mismo por el Congreso del Estado a propuesta del Ejecutivo. Si son ratificados para otro período igual, sólo podrán ser privados de sus cargos por causa grave y previo juicio de responsabilidad.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
+TÍTULO DECIMOPRIMERO
+
+DE LA JUSTICIA ADMINISTRATIVA
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MARZO DE 2004)</small>
 
@@ -2252,3 +2260,13 @@ a) El pago de la indemnización se efectuará después de seguir los procedimien
 b) El pago de la indemnización estará sujeto a la disponibilidad presupuestaria del ejercicio fiscal de que se trate, y
 
 c) El estado podrá repetir de los servidores públicos el pago de la indemnización cubierta a los particulares.
+
+P.O. 17 DE JUNIO DE 2004.
+
+PRIMERO. Una vez ratificado por los ayuntamientos de la Entidad de conformidad con lo dispuesto con lo dispuesto por el artículo 138 de la propia Constitución Local, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar a partir del ciclo 2004-2005; el segundo año de preescolar, a partir del ciclo 2005-2006; el primer año de preescolar, a partir del ciclo 2008-2009.
+
+TERCERO. Los presupuestos, tanto del Estado como de los municipios, incluirán los recursos necesarios para: la construcción, ampliación y equipamiento de la infraestructura suficiente para la cobertura progresiva de los servicios de educación preescolar; con sus correspondientes programa de formación profesional del personal docente, así como de dotación de materiales de estudio gratuito para maestros y alumnos. Para las comunidades rurales alejadas de los centros urbanos, y las zonas donde no haya sido posible establecer infraestructura para la prestación del servicio de educación preescolar, las autoridades educativas del Estado, en coordinación con la Federación, establecerán los programas especiales que se requieran y tomarán las decisiones pertinentes para asegurar el acceso de los educandos a los servicios de educación primaria.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
