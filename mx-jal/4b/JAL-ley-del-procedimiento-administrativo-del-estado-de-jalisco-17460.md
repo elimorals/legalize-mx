@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-procedimiento-administrativo-del-estado-de-jalisco-1746
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-15"
-last_updated: "2001-02-06"
+last_updated: "2001-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 15 de julio del 2000.
 
@@ -41,9 +41,11 @@ LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
 ### Capítulo Primero. Objeto de la Ley
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden e interés público y tiene por objeto establecer las bases de los actos emanados de las autoridades administrativas, tanto de la Administración Pública Centralizada del Estado y de sus Municipios; así como de los organismos públicos descentralizados de ambos, estableciendo para ello los principios y normas que deben observarse en los procedimientos no jurisdiccionales.
+La presente ley es de orden e interés público y tiene por objeto establecer las bases de los actos administrativos emanados de los Poderes del Estado de Jalisco, de los Municipios, así como de sus organismos públicos descentralizados, estableciendo para ello los principios y normas que deben observarse en los procedimientos no jurisdiccionales.
 
 ###### Artículo 2.
 
@@ -1222,3 +1224,7 @@ LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 P.O. 6 DE FEBRERO DE 2001.
 
 ÚNICO.- Este decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE JULIO DE 2001.
+
+ÚNICO. El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
