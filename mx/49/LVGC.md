@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1975-12-29"
+last_updated: "1976-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1976.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -574,7 +574,7 @@ V.- Las tarifas estarán en vigor durante el período que las mismas indiquen. S
 
 Todas las tarifas, ya sea que señalen o no el término de su vigencia, estarán sujetas a ser revisadas, modificadas o canceladas, en los términos que ordene la Secretaría de Comunicaciones de conformidad con esta ley y su reglamento.
 
-VI.- La clasificación de efectos será uniforme para cada sistema de transportes en las zonas que fije la Secretaría y se formulará de acuerdo con lo que se determine en el Reglamento.
+VI.- Las clasificación de efectos será uniforme para cada sistema de transportes en las zonas que fije la Secretaría y se formulará de acuerdo con lo que se determine en el Reglamento.
 
 ###### ARTICULO 56.
 
@@ -4758,9 +4758,13 @@ Si además, se alterase el nombre de la persona a quien originariamente se hubie
 
 El empleado que sin autorización de la empresa expidiere algún pase, será castigado con prisión de un mes a un año y multa de cincuenta a quinientos pesos. Igual sanción se aplicará al que enajene un pase o lo use indebidamente.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1976)</small>
+
 ###### ARTICULO 533.
 
-Los que dañen, perjudiquen o destruyan las vías generales de comunicación o los medios de transporte o interrumpan los servicios de unas y otros, serán castigados con multa de cincuenta a cinco mil pesos y con las sanciones especiales que para estos casos establece el Código Penal.
+Los que dañen, perjudiquen o destruyan las vías generales de comunicación o los medios de transporte o interrumpan total o parcialmente o deterioren los servicios que operan en las vías generales de comunicación o los medios de transporte serán castigados con tres meses a siete años de prisión y multa de cincuenta a cinco mil pesos.
+
+Si el delito fuere cometido por imprudencia y con motivo del tránsito de vehículos por carretera, sólo se perseguirá a petición de parte y se sancionará con multa hasta por el valor del daño causado más la reparación de éste.
 
 ###### ARTICULO 534.
 
@@ -4772,11 +4776,15 @@ A los conductores de toda clase de vehículos que manejen o tripulen estos en v�
 
 En las mismas penas incurrirá el empresario o dueño del vehículo que autorice o consienta su manejo o tripulación sin que el conductor posea los certificados y licencias mencionados en dicho artículo.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1976)</small>
+
 ###### ARTICULO 536.
 
-Se impondrán de quince días a dos años de prisión, o multa de diez a cinco mil pesos, al que de cualquier modo destruya, inutilice, apague, quite o cambie una señal establecida para la seguridad de las vías generales de comunicación o medios de transporte.
+Se impondrán de quince días a seis años de prisión, y multa de diez a cinco mil pesos, al que de cualquier modo destruya, inutilice, apague, quite o cambie una señal establecida para la seguridad de las vías generales de comunicación o medios de transporte.
 
-El que coloque intencionalmente señales que puedan ocasionar la pérdida o grave deterioro de vehículos en circulación, será castigado con prisión de uno a cinco años.
+Si el delito fuere cometido por imprudencia y con motivo del tránsito de vehículos por carretera, sólo se perseguirá a petición de parte y se sancionará con multa hasta por el valor del daño causado, más la reparación de éste.
+
+Al que coloque intencionalmente señales que puedan ocasionar la pérdida o grave deterioro de vehículos en circulación, será castigado con prisión de uno a cinco años.
 
 Si se ocasionaren los accidentes mencionados, se aplicarán las reglas de acumulación con el delito o delitos que resulten consumados.
 
@@ -5443,3 +5451,9 @@ Se derogan las disposiciones que se opongan a las del presente Decreto.
 D.O.F. 29 DE DICIEMBRE DE 1975.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1976.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor quince días después de su publicación, en el "Diario Oficial" de la Federación.
