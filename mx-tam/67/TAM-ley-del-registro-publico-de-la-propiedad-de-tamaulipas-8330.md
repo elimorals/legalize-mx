@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-registro-publico-de-la-propiedad-de-tamaulipas-8330"
 country: "mx"
 rank: "ley"
 publication_date: "1927-02-02"
-last_updated: "1927-04-23"
+last_updated: "1928-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 1927.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 1928.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, los días 2, 5 y 9 de febrero de 1927.
 
@@ -323,9 +323,11 @@ La calificación que se haga de la legalidad de los títulos o de la representac
 
 El Director del Registro considerará como falta de legalidad en las formas extrínsecas, todas las escrituras o documentos que carezcan de los requisitos determinados en esta Ley o por el derecho común, siempre que esas faltas resulten de los mismos documentos o escritos.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1928)</small>
+
 ###### Art. 44.
 
-Cuando se haya devuelto un título sin inscribirse por no estar legalmente comprobado o por defectos de las representaciones del solicitante, el interesado podrá ocurrir al Juez de Primera Instancia de la fracción judicial en que el inmueble esté ubicado, para que éste, rectifique o ratifique según el caso la resolución del Director del Registro. Esta calificación se entenderá limitada a efecto de conceder o negar nuevamente la inscripción y no preocupará en manera alguna el juicio que pueda seguirse ante los tribunales sobre la titularidad del mismo título o sobre la falta de representación legal.
+Cuando se haya devuelto un título sin inscribirse por no estar legalmente comprobado o por defectos de las representaciones del solicitante, el interesado podrá ocurrir al Juez de Primera Instancia de la fracción judicial en que el inmueble esté ubicado, para que éste, rectifique o ratifique según el caso, la resolución del Director del Registro. El Juez previo el informe del Director del Registro, resolverá de pleno la solicitud Esta calificación se entenderá limitada a efecto de conceder o negar nuevamente la inscripción y no preocupará en manera alguna el juicio que pueda seguirse ante los tribunales sobre la titularidad del mismo título o sobre la falta de representación legal. En contra de dicha resolución, no habrá más recurso que el de responsabilizar.
 
 ###### Art. 45.
 
@@ -504,8 +506,6 @@ Para asegurar la inscripción en el caso del artículo 3,202 del Código Civil, 
 ###### Art. 80.
 
 Inscrito en el Registro cualquier título traslativo del dominio de los inmuebles, no podrá inscribirse ningún otro de fecha anterior, por el cual se transmita o grave la propiedad del mismo inmueble.
-
-Art .81.- La prohibición contenida en el artículo anterior se entiende sin perjuicio de la facultad que según la misma ley tengan los dueños de inmuebles o derechos reales para registrar los títulos que oportunamente no hubieren presentado, pero en las inscripciones de esta especie se hará mención de dicha circunstancia, antes de expresarse la conformidad de ellas con los documentos de referencia.
 
 ###### Art. 81.
 
@@ -1134,3 +1134,7 @@ Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado a
 P.O. 23 DE ABRIL DE 2005.
 
 Artículo Unico.- Esta Ley empezará a regir desde su publicación en el Periódico Oficial.
+
+P.O. 14 DE MARZO DE 1928.
+
+Art. Unico.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
