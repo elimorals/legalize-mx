@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-administracion-publica-7551"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-26"
-last_updated: "1992-07-16"
+last_updated: "1996-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 26 de diciembre de 1991.
 
@@ -179,7 +179,11 @@ VIII. Secretaría del Trabajo;
 
 IX. Secretaría de Turismo;
 
-X. Oficialía Mayor; y
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 1996)</small>
+
+X. Secretaría de Salud;
+
+XI. Oficialía Mayor; y
 
 El Procurador General de Justicia depende del Gobernador y ejercerá las funciones que la Constitución Política del Estado, La Ley Orgánica del Ministerio Público y demás Leyes le confieren. Este servidor público será el Consejero Jurídico del Gobierno.
 
@@ -499,6 +503,50 @@ XVI. Colaborar en la formulación y ejecución de los programas de difusión de 
 
 XVII. Las demás que les señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 1996)</small>
+
+ARTICULO 27 BIS.- La Secretaría de Salud tendrá a su cargo ejecutar la política que en materia de salud establezca el Ejecutivo Estatal y coordinar en el Estado el Sistema de Salud de acuerdo a los lineamientos federales y condiciones de desarrollo de la Entidad y le corresponde el despacho de los siguientes asuntos:
+
+I.- Implementar la política de salud del Gobierno del Estado;
+
+II.- Planear, organizar, dirigir, supervisar y evaluar los servicios de salud a cargo del Gobierno del Estado, en los términos de la legislación sanitaria;
+
+III.- Aplicar la normatividad emitida en materia de salud tanto nacional como internacional;
+
+IV.- Organizar y coordinar el Sistema Estatal de Salud a fin de dar cumplimiento al derecho a la protección de la salud, mismo que está constituido por las dependencias y entidades de la administración pública estatal, las personas físicas o morales de los sectores social y privado que presten servicios de salud, así como de los mecanismos de coordinación de acciones;
+
+V.- Emitir la normatividad que debe regir al sistema estatal para la prestación de los servicios de salud de acuerdo a la política del Ejecutivo Estatal;
+
+VI.- Participar en el diseño e instrumentación de la Política Nacional de Salud;
+
+VII.- Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades del sector salud, con sujeción a las disposiciones generales aplicables;
+
+VIII.- Promover el establecimiento de un sistema estatal de información básica en materia de salud;
+
+IX.- Apoyar la coordinación entre las instituciones de salud y las educativas para formar y capacitar recursos humanos para la salud;
+
+X.- Coadyuvar a que la formación y distribución de los recursos humanos sea congruente con las prioridades del Sistema Estatal de Salud;
+
+XI.- Promover, coordinar, vigilar y fomentar los programas para la salud y mejoramiento del medio ambiente del Estado;
+
+XII.- La planeación, programación y presupuestación, así como establecer los lineamientos para la elaboración de los programas correspondientes a su área.
+
+XIII.- Establecer programas en materia de salud en coordinación con los demás niveles de gobierno y de los sistemas nacional y estatal de salud;
+
+XIV.- Fomentar el desarrollo de la investigación y la enseñanza científica y tecnológica en materia de salud;
+
+XV.- Colaborar en la formulación y ejecución de los programas de difusión de las campañas para prevenir y erradicar la drogadicción y el alcoholismo, así como todas aquéllas que redunden en la asistencia social;
+
+XVI.- Implementar mecanismos de participación social a nivel estatal y municipal que contribuyan al mejoramiento de los Servicios de Salud en la Entidad;
+
+XVII.- Suscribir los convenios de coordinación en materia de salud con la federación, entidades federativas y los municipios, previo acuerdo con el Gobernador del Estado;
+
+XVIII.- Representar al Gobierno del Estado ante todo tipo de organismos de salud con acuerdo del Titular del Poder Ejecutivo;
+
+XIX.- Impulsar la permanente actualización de las disposiciones legales aplicables en materia de salud, y
+
+XX.- Las demás atribuciones afines a las anteriores que se requiera para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones legales aplicables.
+
 ###### ARTICULO 28.
 
 La Secretaría del Trabajo, es el órgano encargado de ejercer las atribuciones que en materia laboral corresponde el despacho de los siguientes asuntos:
@@ -751,9 +799,9 @@ PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el 
 
 SEGUNDO.- Se abroga la Ley Orgánica de la Administración Pública del Estado de Querétaro del 11 de octubre de 1985, publicada en el Periódico Oficial del 17 de Octubre de 1985 y se derogan todas las demás disposiciones que se opongan a esta Ley.
 
-TERCERO.- Cuando al tenor de esta Ley, alguna unidad administrativa se transfiera entre una y otra Dependencia del Ejecutivo, incluirá al personal a su servicio, sin perjuicio de sus derechos adquiridos, así como el mobiliario, los vehículos, maquinaria, aparatos, instrumentos, archivos y en el equipo que haya venido usando.
+TERCERO.- Cuando al tenor de esta Ley, alguna unidad administrativa se transfiera entre una a otra Dependencia del Ejecutivo, incluirá al personal a su servicio, sin perjuicio de sus derechos adquiridos, así como el mobiliario, los vehículos, maquinaria, aparatos, instrumentos, archivos y en el equipo que haya venido usando.
 
-CUARTO.- Los asuntos que con motivo de esta Ley deban pasar el conocimiento de una a otra Dependencia del Ejecutivo, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramitan se incorporen a la Dependencia que señale esta Ley, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+CUARTO.- Los asuntos que con motivo de esta Ley deban pasar el conocimiento de una u otra Dependencia del Ejecutivo, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramitan se incorporen a la Dependencia que señale esta Ley, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
 
 QUINTO.- Cuando en esta Ley se otorgue nueva o distinta denominación a cualquier Dependencia cuyas funciones hayan estado establecidas en la Ley anterior, o por otras de la especialidad, dichas atribuciones se entenderán concedidas a la Dependencia que determina la presente normatividad, lo mismo sucederá cuando se otorguen atribuciones o facultades a una Dependencia diversa de la que las venía ejerciendo.
 
@@ -795,8 +843,26 @@ Todos los recursos humanos, financieros y materiales de la Coordinación de Turi
 
 ###### ARTICULO CUARTO.
 
-El Ejecutivo del Estado emitirá el Reglamento Interior de la Secretaria de Turismo del Estado.
+El Ejecutivo del Estado emitirá el Reglamento Interior de la Secretaría de Turismo del Estado.
 
 ###### ARTICULO QUINTO.
 
 Todos los ordenamientos jurídicos que hagan referencia a la Coordinación de Turismo en el Estado o a la Dirección de Turismo en el Estado, se entenderán referidos a la Secretaría de Turismo del Estado.
+
+P.O. 28 DE NOVIEMBRE DE 1996
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente.
+
+###### ARTICULO TERCERO.
+
+El Ejecutivo del Estado emitirá el reglamento interior de la Secretaría de Salud en un plazo no mayor de 60 días a partir de la entrada en vigor de la presente Ley.
+
+###### ARTICULO CUARTO.
+
+Todos los ordenamientos jurídicos que hagan referencia a la Coordinación de Salud en el Estado o a la Dirección de Salud en el Estado, se entenderán referidos tanto al Organismo Público Descentralizado o la Secretaría de Salud en el ámbito de su competencia, respectivamente.
