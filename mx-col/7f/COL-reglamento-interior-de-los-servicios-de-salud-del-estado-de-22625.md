@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-los-servicios-de-salud-del-estado-de-226
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-07-14"
-last_updated: "2001-07-14"
+last_updated: "2003-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2003.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 14 de julio de 2001.
 
@@ -40,9 +40,11 @@ REGLAMENTO INTERNO DE LOS SERVICIOS DE SALUD DEL ESTADO DE COLIMA.
 
 Los Servicios de Salud del Estado de Colima, es un organismo público descentralizado, con personalidad jurídica y patrimonio propio, que tiene como objeto prestar servicios de salud a población abierta en la entidad; así como ejercer actos de autoridad en materia sanitaria, en cumplimiento a lo dispuesto por las Leyes General y Estatal de Salud y los Acuerdos Nacional y de Coordinación para la Descentralización Integral de Los Servicios de Salud en la entidad y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 2°.
 
-Cuando en este Reglamento se haga referencia al Organismo, se entenderá hecho a Los Servicios de Salud del Estado de Colima.
+Cuando en este Reglamento se haga referencia al Organismo, se entenderá hecho indistintamente este término, a la Secretaría de Salud y Bienestar Social del Gobierno del Estado de Colima.
 
 ###### ARTICULO 3°.
 
@@ -868,6 +870,12 @@ XIV. Elaborar, actualizar y difundir, el cuadro básico de insumos y reactivos p
 
 XV. Las demás que le señalen las leyes, reglamentos, decretos y acuerdos, o las autoridades superiores; (sic)
 
+> <small>(REFORMADA [N. DE E. ADICIONADO], P.O. 15 DE MARZO DE 2003)</small>
+
+XVI.- Captar las cuotas de recuperación canalizando diariamente a la cuenta de cheques específica, los recursos que se generen por este concepto, a la administración de la beneficencia pública.
+
+Para el caso en que los recursos provenientes de cuotas de recuperación fuesen objeto de robo o extravío, faltante o desvío u obtención de beneficios adicionales, o cuando ocurran hechos similares con las formas oficiales de cobro o exención, se llevará a cabo invariablemente el procedimiento establecido en el Acuerdo respectivo, publicado en el Periódico Oficial del Gobierno Constitucional “El Estado de Colima”.
+
 ### CAPITULO X. DE LA SUPLENCIA DE LOS SERVIDORES PUBLICOS
 
 DE LAS SUPLENCIAS DEL TITULAR
@@ -903,3 +911,9 @@ Dado en la Residencia del Poder Ejecutivo, en Palacio de Gobierno, a los ____ (s
 Por tanto, mando se imprima, publique, circule y observe.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA.- EL SECRETARIO DE SALUD Y BIENESTAR SOCIAL Y PRESIDENTE EJECUTIVO DE LOS SERVICIOS DE SALUD, DR. CHRISTIAN JORGE TORRES ORTIZ OCAMPO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE MARZO DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno Constitucional "El Estado de Colima."
