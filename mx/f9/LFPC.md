@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "1993-09-23"
+last_updated: "1994-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE SEPTIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE AGOSTO DE 1994.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 24 de diciembre de 1992.
 
@@ -92,9 +92,11 @@ Quedan exceptuadas de las disposiciones de esta ley, los servicios que se preste
 
 Estarán obligados al cumplimiento de esta ley los proveedores y los consumidores. Las entidades de las administraciones públicas federal, estatal y municipal, están obligadas en cuanto tengan el carácter de proveedores o consumidores.
 
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 1994)</small>
+
 ###### ARTICULO 7o.
 
-Todo proveedor está obligado a respetar los precios, garantías, cantidades, medidas, intereses, cargos, términos, plazos, fechas, modalidades, reservaciones y demás condiciones conforme a las cuales se hubiera ofrecido, obligado o convenido con el consumidor.
+Todo proveedor está obligado a respetar los precios, garantías, cantidades, medidas, intereses, cargos, términos, plazos, fechas, modalidades, reservaciones y demás condiciones conforme a las cuales se hubiere ofrecido, obligado o convenido con el consumidor la entrega del bien o prestación del servicio, y bajo ninguna circunstancia serán negados estos bienes o servicios a personas con discapacidad.
 
 ###### ARTICULO 8o.
 
@@ -458,9 +460,13 @@ El contrato se perfeccionará a los cinco días hábiles contados a partir de la
 
 En todo establecimiento de prestación de servicios, deberá exhibirse a la vista del público la tarifa de los principales servicios ofrecidos, con caracteres claramente legibles. Las tarifas de los demás, en todo caso, deberán estar disponibles al público.
 
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 1994)</small>
+
 ###### ARTICULO 58.
 
-Los proveedores de bienes y servicios que ofrezcan éstos al público no podrán establecer preferencias o discriminación alguna respecto a los solicitantes del servicio, tales como selección de clientela, reserva del derecho de admisión y otras prácticas similares, salvo por causas plenamente justificadas en cada caso o que afecten la seguridad o tranquilidad del establecimiento, o se funden en disposiciones expresas de otros ordenamientos legales.
+Los proveedores de bienes y servicios que ofrezcan éstos al público en general, no podrán establecer preferencias o discriminación alguna respecto a los solicitantes del servicio, tales como selección de clientela, reserva del derecho de admisión, exclusión a personas con discapacidad y otras prácticas similares, salvo por causas que afecten la seguridad o tranquilidad del establecimiento, de sus clientes o de las personas discapacitadas, o se funden en disposiciones expresas de otros ordenamientos legales. Dichos proveedores en ningún caso podrán aplicar o cobrar tarifas superiores a las autorizadas o registradas para la clientela en general, ni tampoco cuotas extraordinarias o compensatorias a las personas con discapacidad por sus implementos médicos, ortopédicos, tecnológicos, educativos o deportivos necesarios para su uso personal, incluyéndose el perro guía en el caso de invidentes.
+
+Los proveedores están obligados a dar las facilidades o contar con los dispositivos indispensables para que las personas con discapacidad puedan utilizar los bienes o servicios que ofrecen. Dichas facilidades y dispositivos no pueden ser inferiores a los que determinen las disposiciones legales o normas oficiales aplicables, ni tampoco podrá el proveedor establecer condiciones o limitaciones que reduzcan los derechos que legalmente correspondan al discapacitado como consumidor.
 
 ###### ARTICULO 59.
 
@@ -1047,3 +1053,23 @@ TERCERO.- Los juicios y procedimientos judiciales y administrativos actualmente 
 D.O.F. 23 DE SEPTIEMBRE DE 1993.
 
 UNICO.- El presente decreto entrará en vigor el 19 de octubre de 1993.
+
+D.O.F. 5 DE AGOSTO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+A partir de la publicación de la respectiva Norma Oficial Mexicana, los proveedores contarán con un plazo de tres años, para dar las facilidades y establecer, adecuar o modificar los dispositivos a que se refiere el segundo párrafo del artículo 58 de la Ley Federal de Protección al Consumidor.
+
+Una vez vencido el término a que se refiere el párrafo anterior, a los proveedores que no otorguen o no cuenten con los dispositivos señalados en el artículo 58, se les aplicarán las sanciones previstas por la Ley.
+
+###### ARTICULO TERCERO.
+
+La autoridad administrativa tomará las precauciones necesarias a efecto de contar con las normas oficiales aplicables.
+
+###### ARTICULO CUARTO.
+
+Los nuevos proveedores de bienes o servicios deberán cumplir con lo establecido en el artículo 58 dentro del plazo a que se refiere el artículo segundo transitorio de este Decreto.
