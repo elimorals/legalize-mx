@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-de-puebla-7540"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "1998-12-09"
+last_updated: "2000-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 1993.
 
@@ -137,9 +137,11 @@ El impuesto sobre erogaciones por remuneraciones al trabajo personal se causará
 
 Cuando ocasionalmente se realicen las actividades que den lugar al pago de este impuesto, el contribuyente estará obligado a presentar declaraciones en los cinco días hábiles que le corresponda, dentro de los cinco días hábiles siguientes a aquel en que se cause dicho impuesto. En este caso los contribuyentes quedan relevados de cumplir con la obligación a que se refiere la fracción I del artículo 8° de esta Ley.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 6°.
 
-Los contribuyentes presentarán sus declaraciones y efectuarán el entero del impuesto en la oficina recaudadora correspondiente a su domicilio en términos del Código Fiscal del Estado.
+Los contribuyentes presentarán las declaraciones y efectuarán el entero del impuesto a que se refiere este capítulo, en cualquiera de las Oficinas Recaudadoras de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado o en las Instituciones Bancarias que ésta autorice para tal efecto, mediante las formas oficiales o medios electrónicos de pago que apruebe la propia Dependencia, en términos del Código Fiscal del Estado.
 
 ###### ARTICULO 7°.
 
@@ -151,7 +153,7 @@ Los sujetos de este impuesto están obligados a:
 
 I.- Inscribirse en el registro de contribuyentes de este impuesto ante la oficina recaudadora correspondiente a su domicilio fiscal, dentro del mes siguiente a la fecha en que se coloquen en las hipótesis de causación del impuesto, haciendo uso de las formas oficiales y con los datos y documentos que en ellas se exijan.
 
-Los contribuyentes que no hubieran cumplido con la obligación de inscribirse en el registro de contribuyentes de este impuesto, que presenten una o más declaraciones, quedarán automáticamente inscritos en el mismo; con excepción de aquellos a que se refiere el artículo 5º párrafo segundo de esta Ley.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
@@ -185,6 +187,10 @@ j) Número total de empleados.
 
 k) Total de erogaciones del período.
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+V.- Llevar contabilidad conforme a lo estipulado en el Código Fiscal del Estado.
+
 ###### ARTICULO 9°.
 
 No causan este impuesto los pagos que se realicen por concepto de:
@@ -195,9 +201,13 @@ II.- Jubilación y pensiones, en caso de invalidez, cesantía, y muerte.
 
 III.- Gastos funerales.
 
-IV.- Contraprestaciones a que se refiere el artículo 1º de esta Ley, cubiertas por la Federación, el Estado y los Municipios.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-V.- Contraprestaciones a que se refiere el artículo 1º de esta Ley, cubiertas por instituciones de enseñanza privada que tengan autorización o reconocimiento de validez oficial, en los términos de la Ley General de Educación así como instituciones de cultura y bienestar social.
+IV.- Contraprestaciones a que se refiere el artículo 1 de esta Ley, cubiertas por las Dependencias de la Administración Pública Centralizada del Estado, así como por los Municipios.
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+V.- Contraprestaciones a que se refiere el artículo 1 de esta Ley, cubiertas por instituciones de enseñanza privada que tengan autorización o reconocimiento de validez oficial, en los términos de la Ley General de Educación, así como por las Instituciones de Cultura.
 
 VI.- Contraprestaciones a que se refiere el artículo 1º de esta Ley, cubiertas por instituciones que agrupen a empresarios.
 
@@ -265,9 +275,11 @@ IV.- El origen o procedencia.
 
 El impuesto estatal sobre tenencia o uso de vehículos se causará y pagará conforme a la tarifa que anualmente señale la Ley de Ingresos del Estado.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 15.
 
-Los sujetos del Impuesto Estatal sobre tenencia o uso de vehículos lo pagarán anualmente durante los primeros tres meses de cada ejercicio fiscal, a través de la forma oficial autorizada; en la oficina recaudadora dependiente de la Secretaría de Finanzas del Gobierno del Estado que le corresponda a su domicilio fiscal, o en las oficinas que para tal efecto autorice dicha dependencia.
+Los sujetos del Impuesto Estatal Sobre Tenencia o Uso de Vehículos lo pagarán anualmente durante los primeros tres meses de cada ejercicio fiscal, a través de las formas oficiales autorizadas o medios electrónicos de pago aprobados, en cualquiera de las Oficinas Recaudadoras de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, o en las Instituciones Bancarias que ésta autorice para tal efecto, en términos del Código Fiscal del Estado.
 
 ###### ARTICULO 16.
 
@@ -307,9 +319,9 @@ V.- Conservar durante 5 años los comprobantes de pago en los que conste el sell
 
 VI.- Presentar tratándose del servicio público, además, el acuerdo de otorgamiento y tarjetón de concesión.
 
-> <small>(ADICIONADA. P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-VII.- Anotar en los formatos de este impuesto, al momento de solicitar su incorporación o modificación en el registro establecido por la Secretaría de Finanzas, su clave del Registro Federal de Contribuyentes, en los casos en que se encuentren inscritos en el mismo.
+VII.- Anotar en los formatos de este impuesto, al momento de solicitar su incorporación o modificación en el registro establecido por la Secretaría de Finanzas y Desarrollo Social, su clave del Registro Federal de Contribuyentes, en los casos en que se encuentren inscritos en el mismo.
 
 ###### ARTICULO 18.
 
@@ -319,9 +331,9 @@ I.- Quiénes adquieran por cualquier título la propiedad, tenencia o uso de uno
 
 II.- Quiénes reciban en consignación o comisión para su enajenación, uno o más vehículos objeto de este gravamen, hasta por el monto del impuesto y sus accesorios que se hubieran dejado de pagar.
 
-> <small>(REFORMADA. P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-III.- Los servidores públicos del Estado que en ejercicio de sus funciones sin cerciorarse del pago de este impuesto autoricen altas, bajas, cambios de reposición de placas, tarjetas de circulación, cambios o modificaciones de domicilio, vehículo o cualquier otro dato del registro establecido por la Secretaría de Finanzas.
+III.- Los servidores públicos del Estado que en ejercicio de sus funciones autoricen altas, bajas, cambios o reposición de placas, tarjetas de circulación, cambios o modificaciones de domicilio, de vehículo o cualquier otro dato del registro establecido por la Secretaría de Finanzas y Desarrollo Social, sin cerciorarse del pago del impuesto.
 
 ###### ARTICULO 19.
 
@@ -375,17 +387,19 @@ La base gravable a que se refiere el artículo 6 de la Ley de Ingresos del Estad
 
 Este impuesto se pagará conforme a las tasas y tarifas que anualmente fije la Ley de Ingresos del Estado de Puebla.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 24.
 
-El pago de este impuesto deberá efectuarse en la oficina recaudadora correspondiente al domicilio fiscal del sujeto del impuesto, dentro de los 15 días siguientes a la celebración de la operación, mediante declaración en la forma aprobada por la Secretaría de Finanzas, acompañando la documentación que en la misma se especifique.
+El pago de este impuesto deberá efectuarse en la Oficina Recaudadora correspondiente al domicilio fiscal del sujeto del impuesto, dentro de los 15 días siguientes a la celebración de la operación, mediante declaración en la forma aprobada por la Secretaría de Finanzas y Desarrollo Social, acompañando la documentación que en la misma se especifique y que mediante Reglas de Carácter General se den a conocer al contribuyente.
 
 Además de los casos a que se refiere el Código Fiscal del Estado, la autoridad fiscal, podrá rechazar las declaraciones a que se refiere el párrafo anterior, cuando en ellas no se consigne el número de placas de circulación y datos de vehículo.
 
 Los funcionarios o empleados públicos no recibirán ninguna declaración de alta, baja o cambio de propietario sin haberse cerciorado de que esté cubierto el impuesto a que se refiere este capítulo, así como el de tenencia o uso de vehículos tanto federal como estatal y los derechos de control vehicular correspondientes.
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-Las personas físicas o morales que enajenen vehículos materia de este impuesto deberán presentar ante la Secretaría de Finanzas, dentro de los 15 días siguientes a la fecha de enajenación, un aviso en el que se dé a conocer dicho acto, acompañando la documentación que se señale en el formato que para estos efectos apruebe y publique dicha Dependencia.
+Las personas físicas o morales que enajenen vehículos materia de este impuesto deberán presentar ante la Secretaría de Finanzas y Desarrollo Social, dentro de los 15 días siguientes a la fecha de enajenación, un aviso en el que se dé a conocer dicho acto, acompañando la documentación que se señale en las Reglas de Carácter General que para estos efectos apruebe y publique dicha Dependencia.
 
 ###### ARTICULO 25.
 
@@ -443,9 +457,9 @@ ARTICULO 26 E.- El impuesto a que se refiere este Capítulo se causará al momen
 
 ARTICULO 26 F.- Cuando ocasionalmente se realicen las actividades que den lugar al pago de este impuesto, el contribuyente deberá presentar declaración dentro de los cinco días hábiles siguientes a aquél en que se cause dicho impuesto. En este caso el contribuyente queda relevado de cumplir con la obligación a que se refiere la Fracción I del Artículo 26 I de esta Ley.
 
-> <small>(ADICIONADO P.O. 4 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-ARTICULO 26 G.- Los contribuyentes presentarán sus declaraciones y efectuarán el pago del impuesto en la oficina recaudadora correspondiente a su domicilio fiscal en términos del Código Fiscal del Estado.
+ARTICULO 26 G.- Los contribuyentes presentarán las declaraciones y efectuarán el pago del impuesto en cualquiera de las Oficinas Recaudadoras de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, o en las Instituciones Bancarias que ésta autorice para tal efecto, mediante las formas oficiales o medios electrónicos de pago que apruebe la propia Dependencia, en términos del Código Fiscal del Estado.
 
 > <small>(ADICIONADO P.O. 4 DE JUNIO DE 1996)</small>
 
@@ -487,9 +501,13 @@ h) Importe total consignado con número y letra, así como el monto de los impue
 
 i) Los demás que señale esta Ley y los ordenamientos fiscales aplicables.
 
-> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-VI.- Las demás que señale esta Ley y los ordenamientos fiscales aplicables.
+VI.- Llevar contabilidad.
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+VII.- Las demás que señale esta Ley y los ordenamientos fiscales aplicables.
 
 > <small>(ADICIONADO P.O. 4 DE JUNIO DE 1996)</small>
 
@@ -535,19 +553,23 @@ ARTICULO 26 Ñ.- El impuesto estatal sobre loterías, rifas, sorteos y concursos
 
 ARTICULO 26 O.- El impuesto estatal sobre loterías, rifas, sorteos y concursos se causará en el momento que los sujetos reciban el pago o entrega del premio derivado de eventos organizados por organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos destinados a la asistencia pública.
 
-> <small>(ADICIONADO, P.O. 19 DE MARZO 1997)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-ARTICULO 26 P.- El pago del impuesto estatal sobre loterías, rifas, sorteos y concursos, se realizará en la Oficina Recaudadora de la Secretaría de Finanzas en Puebla, mediante declaración que presente el retenedor al que se refiere el Artículo 26 Q de esta Ley, a más tardar el día 17 del mes siguiente al de su causación.
+ARTICULO 26 P.- El pago del Impuesto Estatal Sobre Loterías, Rifas, Sorteos y Concursos, se realizará en la Oficina Recaudadora de la Secretaría de Finanzas y Desarrollo Social en Puebla, mediante declaración que presente el retenedor al que se refiere el artículo 26 Q de esta Ley, a más tardar el día 17 del mes siguiente al de su causación.
 
 > <small>(ADICIONADO, P.O. 19 DE MARZO 1997)</small>
 
 ARTICULO 26 Q.- El impuesto estatal sobre loterías, rifas, sorteos y concursos será retenido y enterado en el plazo, lugar y forma que establece el Artículo 26 P de esta Ley, por los organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos destinados a la asistencia pública.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 26 R.- Los organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos destinados a la asistencia pública, que celebren loterías, rifas, sorteos y concursos de toda clase, deberán retener y enterar a la Secretaría de Finanzas y Desarrollo Social el impuesto que se cause. Tratándose de premios en especie, quienes los obtengan deberán enterar al retenedor los recursos necesarios para la retención del impuesto. Asimismo el organismo público descentralizado de que se trate, deberá proporcionar al interesado constancia de retención del impuesto, cuando así lo solicite el contribuyente de este impuesto.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+Los retenedores deberán solicitar ante la Secretaría de Finanzas y Desarrollo Social, su inscripción en el registro estatal de contribuyentes de este impuesto, utilizando para tal efecto las formas que mediante Reglas de Carácter General se den a conocer al contribuyente.
+
 > <small>(ADICIONADO, P.O. 19 DE MARZO 1997)</small>
-
-ARTICULO 26 R.- Los organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos destinados a la asistencia pública, que celebren loterías, rifas, sorteos y concursos de toda clase, deberán retener y enterar a la Secretaría de Finanzas el impuesto que se cause. Tratándose de premios en especie, quienes los obtengan deberán enterar al retenedor los recursos necesarios para la retención del impuesto. Asimismo el organismo público descentralizado de que se trate, deberá proporcionar al interesado constancia de retención del impuesto, cuando así lo solicite el contribuyente de este impuesto.
-
-Los retenedores deberán solicitar ante la Secretaría de Finanzas, su inscripción en el registro estatal de contribuyentes de este impuesto, utilizando para tal efecto las formas aprobadas por la Secretaría de Finanzas.
 
 Se entenderá para efectos de este impuesto, que el domicilio fiscal del retenedor será el que se señale en el aviso de inscripción al que se refiere el párrafo segundo de este Artículo, por lo que los actos administrativos que se practiquen en el mismo se considerarán válidos para efectos legales.
 
@@ -559,9 +581,9 @@ ARTICULO 26 S.- Las infracciones al presente capítulo serán sancionadas de con
 
 ARTICULO 26 T.- El Estado distribuirá entre sus Municipios, parte de la recaudación del impuesto estatal sobre loterías, rifas, sorteos y concursos de conformidad con las siguientes bases:
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-I.- Una vez que la Secretaría de Finanzas recaude el Impuesto Estatal Sobre Loterías, Rifas, Sorteos y Concursos, separará un porcentaje igual al que corresponde recibir a los Municipios del Fondo General de Participaciones, a que se refiere la Ley para el Federalismo Hacendario del Estado de Puebla.
+I.- Una vez que la Secretaría de Finanzas y Desarrollo Social recaude el Impuesto Estatal Sobre Loterías, Rifas, Sorteos y Concursos, separará un porcentaje igual al que corresponde recibir a los Municipios del Fondo General de Participaciones, a que se refiere la Ley para el Federalismo Hacendario del Estado de Puebla.
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1998)</small>
 
@@ -573,6 +595,8 @@ II.- El monto que resulte incrementará el Fondo de Desarrollo Municipal y se di
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 27.
 
 Los derechos por los servicios prestados por las dependencias y organismos auxiliares de la administración pública del Estado, se aplicarán, pagarán e ingresarán conforme a las disposiciones, tasas, tarifas y cuotas establecidas en la Ley de Ingresos del Estado vigente.
@@ -583,35 +607,63 @@ Los derechos por los servicios prestados por las dependencias y organismos auxil
 
 Corresponde a las Autoridades Fiscales del Estado establecer el registro Estatal vehicular relativo a los vehículos que sean dados de alta en su jurisdicción territorial; para tales efectos dichas Autoridades realizarán los tramites relativos a las altas, bajas, cambios y rectificaciones que procedan en el registro, en consecuencia serán ellas las que lleven a cabo los actos de verificación y comprobación para mantener actualizado dicho registro.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1994)</small>
+###### ARTICULO 28 Bis.
 
-ARTICULO 28 BIS.- Se concede la exención del pago de los derechos Estatales previstos en la Ley de Ingresos del Estado y demás Leyes Tributarias del Estado, vinculados con la edificación o adquisición de vivienda de interés social o popular, a quienes la adquieran o construyan a través de la gestoría del Instituto Poblano de la Vivienda Popular.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2000)
 
-Para tal efecto se entiende por:
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-- Vivienda de interés social.- Aquella cuyo valor al término de su edificación, no exceda de la suma de multiplicar por quince el salario mínimo general elevado al año vigente en el Estado.
+ARTICULO 28 A.- De conformidad con la Cláusula Novena del Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado por el Gobierno del Estado con el Gobierno Federal por conducto de la Secretaría de Hacienda y Crédito Público, debe entenderse por Registro Estatal Vehicular, la base de datos establecida en relación a los vehículos a los que se les expida placas de circulación dentro de la jurisdicción territorial del Estado, para cuyo mantenimiento y actualización, los propietarios de dichos vehículos deberán presentar la documentación que requieran las Autoridades Fiscales y realizar los actos administrativos siguientes:
 
-- Vivienda Popular.- La que al término de su edificación su valor no exceda de la suma que resulte de multiplicar por veinticinco el salario mínimo general elevado al año vigente en la Entidad.
+a) Solicitar el alta de su vehículo.
+
+b) Manifestar su cambio de domicilio.
+
+c) Manifestar la venta del vehículo.
+
+d) Realizar el cambio de propietario.
+
+El plazo para realizar o manifestar los actos administrativos antes señalados, será de 15 días siguientes a partir del momento en que se dé la situación o hecho generador de los mismos.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 28 B.- La Autoridad Fiscal podrá implementar o adicionar los medios de control, identificación y registro que considere convenientes, conforme a la norma federal expedida por autoridad competente.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 28 C.- Los propietarios de vehículos de procedencia extranjera, deberán presentar la documentación fiscal original que acredite la legal estancia o importación definitiva en territorio nacional.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 28 D.- Corresponde a las Autoridades Fiscales del Estado, establecer el Programa de Canje de Placas respecto de los vehículos a los que se les haya expedido placas de circulación dentro de su jurisdicción territorial, en el ejercicio fiscal y dentro del plazo que para tal efecto se establezca.
 
 ## TITULO TERCERO. DE LOS PRODUCTOS
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 29.
 
-Los productos del patrimonio público y privado del Estado se aplicarán, pagarán e ingresarán conforme a las disposiciones y cuotas que establezca la Ley de Ingresos del Estado vigente o las cantidades pactadas en los contratos correspondientes.
+Se concede la exención del pago de los derechos estatales previstos en la Ley de Ingresos del Estado y demás leyes tributarias del Estado, vinculados con la edificación o adquisición de vivienda de interés social o popular, a quienes la adquieran o construyan a través de la gestoría del Instituto Poblano de la Vivienda Popular.
 
-Los contratos de arrendamiento de bienes muebles e inmuebles, propiedad del Gobierno del Estado, se darán a conocer a la Secretaría de Finanzas para que proceda a su cobro.
+Para tal efecto se entiende por:
+
+- Vivienda de interés social.- Aquella cuyo valor al término de su edificación no exceda del producto de multiplicar por quince el salario mínimo general vigente en el Estado, elevado al año.
+
+- Vivienda Popular.- La que al término de su edificación, su valor no exceda del producto de multiplicar por veinticinco el salario mínimo general vigente en la Entidad, elevado al año.
 
 ## TITULO CUARTO. DE LOS APROVECHAMIENTOS
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 30.
 
-Son aprovechamientos los ingresos ordinarios del Estado, no clasificables como impuestos, derechos y productos. Estos se pagarán de acuerdo a lo que establecen la Ley de Ingresos y el Código Fiscal del Estado vigentes.
+Los productos del patrimonio público y privado del Estado se aplicarán, pagarán, e ingresarán conforme a las disposiciones y cuotas que establezca la Ley de Ingresos del Estado vigente o las cantidades pactadas en los contratos correspondientes.
+
+Los contratos de arrendamiento de bienes muebles e inmuebles propiedad del Gobierno del Estado, se darán a conocer a la Secretaría de Finanzas y Desarrollo Social para que proceda a su cobro.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 1998)</small>
 
@@ -619,29 +671,57 @@ Son aprovechamientos los ingresos ordinarios del Estado, no clasificables como i
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 31.
 
-Las participaciones, aportaciones, reasignaciones y demás ingresos que corresponden al Estado, se recibirán y ejercerán con arreglo a las disposiciones legales aplicables.
+Son aprovechamientos, los ingresos ordinarios del Estado, no clasificables como impuestos, derechos y productos. Estos se pagarán de acuerdo a lo que establecen la Ley de Ingresos y el Código Fiscal del Estado vigentes.
 
 ## TITULO SEXTO. DE LOS INGRESOS EXTRAORDINARIOS
 
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 32.
 
-Son ingresos extraordinarios, aquellos cuya percepción se decreta excepcionalmente para proveer el pago de gastos e inversiones accidentales o especiales del Estado
+Las participaciones en ingresos federales, incentivos económicos, fondos de aportaciones federales, reasignaciones y demás ingresos que correspondan al Estado, se recibirán y ejercerán con arreglo a las disposiciones legales aplicables.
+
+REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 33.
 
-Los ingresos extraordinarios podrán ser:
+Son ingresos extraordinarios, los que se establezcan como consecuencia de nuevas disposiciones legislativas o administrativas, los que se ejercerán, causarán y cobrarán en los términos que decrete el Congreso Local o en su caso los que autorice el Ejecutivo del Estado.
 
-I.- Empréstitos.
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-II.- Impuestos extraordinarios.
+###### ARTICULO 34.
 
-III.- Derechos extraordinarios por la prestación de servicios.
+Asimismo serán ingresos extraordinarios:
 
-IV.- Donaciones, legados, herencias y reintegros.
+I.- Los empréstitos.
 
-V.- Aportaciones extraordinarias y mejoras.
+II.- Los impuestos extraordinarios.
+
+III.- Los derechos extraordinarios por la prestación de servicios.
+
+IV.- Las donaciones, legados, herencias y reintegros.
+
+V.- Las aportaciones extraordinarias y mejoras.
+
+> <small>(F. DE E., P.O. 16 DE FEBRERO DE 2001)</small>
+
+VI.- Los aprovechamientos extraordinarios.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+## TITULO SEPTIMO. DE LAS OBLIGACIONES
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 35.
+
+Los contribuyentes realizarán el pago de las contribuciones en los plazos que sean previstos en las disposiciones fiscales, programas establecidos, acuerdos y decretos emitidos conforme a las leyes de la materia, los que estarán sujetos al cumplimiento de las obligaciones y condiciones que en los mismos se establezcan.
 
 ## TRANSITORIOS
 
@@ -756,6 +836,16 @@ P.O. 9 DE DICIEMBRE DE 1998.
 ###### ARTICULO PRIMERO.
 
 El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el primero de enero de mil novecientos noventa y nueve.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE DICIEMBRE DE 2000.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el primero de enero de dos mil uno.
 
 ###### ARTICULO SEGUNDO.
 
