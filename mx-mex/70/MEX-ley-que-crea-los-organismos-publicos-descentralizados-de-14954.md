@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-los-organismos-publicos-descentralizados-de-14954"
 country: "mx"
 rank: "ley"
 publication_date: "1985-07-16"
-last_updated: "1995-09-06"
+last_updated: "2002-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA LOS ORGANISMOS PUBLICOS DESCENTRALIZADOS, DE ASISTENCIA SOCIAL, DE CARACTER MUNICIPAL, DENOMINADOS «SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA»
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 16 de julio de 1985.
 
@@ -73,7 +73,13 @@ VI.- Prestar servicios jurídicos y de orientación social a menores, senectos y
 
 VII. Procurar permanentemente la adecuación de los objetivos y programas del Sistema Municipal y los que lleve a cabo el D.I.F. Estatal, a través de Acuerdos, Convenios o cualquier figura jurídica, encaminados a la obtención del bienestar social;
 
-VIII. Los demás que le encomienden las Leyes.
+> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2002)</small>
+
+VIII. Impulsar acciones para promover el desarrollo humano integral de los adultos mayores, coadyuvando para que sus distintas capacidades sean valoradas y aprovechadas en el desarrollo comunitario, económico y social;
+
+> <small>(ADICIONADA, G.G. 11 DE DICIEMBRE DE 2002)</small>
+
+IX.- Los demás que le encomienden las Leyes.
 
 ### CAPITULO SEGUNDO. PATRIMONIO
 
@@ -332,3 +338,13 @@ Publíquese el presente decreto en la Gaceta del Gobierno.
 ###### ARTICULO SEGUNDO.
 
 Este decreto entrara en vigor al día siguiente de su publicación en la Gaceta del Gobierno.
+
+G.G. 11 DE DICIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente a su publicación en el periódico oficial "Gaceta del Gobierno".
