@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2004-05-12"
+last_updated: "2004-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -493,7 +493,9 @@ XXV.- Participar en el ámbito de su competencia, en los términos de las leyes 
 
 XXVI.- Formular, aprobar y administrar la zonificación y el programa de desarrollo urbano municipal, en los términos de las leyes federales y estatales.
 
-XXVII.- Participar en la creación y administración de sus reservas territoriales y zonas ecológicas, así como controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales, en los términos de las leyes federales y estatales.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2004)</small>
+
+XXVII.- Participar en la creación y administración de sus reservas territoriales disponiendo para ello una partida en su presupuesto anual; determinar y custodiar las zonas ecológicas, y controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales, en los términos de las leyes federales y estatales.
 
 XXVIII.- Intervenir de conformidad con las leyes federales y estatales de la materia, en la regularización de la tenencia de la tierra urbana.
 
@@ -1755,6 +1757,10 @@ El gasto público municipal, comprende las erogaciones por concepto de gasto cor
 
 La programación del gasto público se basará en los objetivos, estrategias y prioridades que se determine en el Plan Municipal de Desarrollo y los programas que de él deriven.
 
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2004)</small>
+
+Para la creación de reservas territoriales que permitan el desarrollo urbano del Municipio, de conformidad con la estrategia presupuestal del Ayuntamiento, se destinará hasta el 1% del presupuesto de egresos para la adquisición de dichas reservas.
+
 ###### ARTICULO 152.
 
 Las actividades de programación, presupuestación, control y evaluación del gasto público municipal estarán a cargo del Ayuntamiento, quien dictará las disposiciones procedentes para el eficaz cumplimiento de sus funciones.
@@ -1818,6 +1824,8 @@ IX.- Evaluación de los avances relacionados con la ejecución y cumplimiento de
 X.- La demás información que solicite el Ayuntamiento.
 
 ### CAPITULO II. DE LA PLANEACION MUNICIPAL
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 160.
 
@@ -2015,27 +2023,29 @@ Las resoluciones del Ayuntamiento en materia de cancelación o caducidad de conc
 
 ###### ARTICULO 182.
 
-Los municipios, para el cumplimiento de sus fines y aprovechamiento de sus recursos, formularán planes y programas de desarrollo, considerando los sistemas Nacional y Estatal de Planeación Democrática. Los Ayuntamientos serán los responsables de conducir la planeación del desarrollo de los municipios con la participación democrática de los grupos sociales, de conformidad con lo dispuesto en las leyes.
+Los Ayuntamientos, para el cumplimiento de sus fines y aprovechamiento de sus recursos, formularán el Plan Municipal de Desarrollo considerando los Sistemas Nacional y Estatal de Planeación Democrática y atendiendo a criterios de planeación estratégica, que permitan una visión de largo plazo y de participación democrática que considere la incorporación de los grupos sociales, a través de los mecanismos de consulta previstos en la Ley Estatal de Planeación.
 
-En consecuencia, en el proceso de instrumentación del Plan Municipal tendrá lugar la participación de los diversos grupos sociales, con el propósito de que la población exprese sus opiniones en las etapas de elaboración, actualización y ejecución, así como de los programas que de él se deriven.
+En consecuencia, en el proceso de formulación del Plan Municipal de Desarrollo se alentará la participación de los diversos grupos sociales, con el propósito de que la población exprese sus opiniones en las etapas de elaboración, actualización y ejecución, así como de los programas que de él se deriven e incluirá las estrategias, objetivos y acciones de largo plazo que permitan el crecimiento ordenado de las zonas urbanas y el desarrollo óptimo de las actividades económicas y productivas prioritarias de la localidad.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 183.
 
-Los Ayuntamientos deberán formular, aprobar y publicar los respectivos planes municipales de desarrollo, en un plazo de cuatro meses a partir de la fecha de toma de posesión, y su vigencia no excederá del período que les corresponda, aunque podrán tener consideraciones y proyecciones a largo plazo, debiendo remitirse al Congreso y al Ejecutivo para su conocimiento y publicación en el Periódico Oficial del Estado, y establecer la debida congruencia con los Planes Nacional y Estatal de Desarrollo.
+Los Ayuntamientos deberán formular y aprobar los respectivos planes municipales de desarrollo, dentro de los tres meses siguientes a la toma de posesión, considerando en él las acciones a realizar durante el periodo que les corresponda, así como las consideraciones y proyecciones de largo plazo, debiendo remitirse al Congreso y al Ejecutivo para su conocimiento y publicación en el Periódico Oficial del Estado.
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 184.
 
-Los planes precisarán los objetivos generales, estrategias y prioridades de desarrollo integral del Municipio; contendrán previsiones sobre los recursos que serán asignados a tales fines, determinarán los instrumentos y responsables de su ejecución, y establecerán los lineamientos de política de carácter municipal, sectorial y de servicios municipales. Además, indicarán los programas sectoriales institucionales, regionales y especiales. Las dependencias encargadas de su ejecución elaborarán programas operativos anuales.
+Los planes municipales de desarrollo precisarán los objetivos generales, estrategias y prioridades para el desarrollo integral del Municipio; sus planteamientos se referirán al conjunto de la actividad económica y social, y contendrán previsiones sobre los recursos que serán asignados a tales fines; determinarán los instrumentos y responsables de su ejecución, y establecerán los lineamientos de política de carácter municipal, sectorial y de servicios municipales, e indicarán los programas sectoriales institucionales, regionales y especiales. Las dependencias encargadas de su ejecución elaborarán programas operativos anuales, en concordancia con los planes Nacional y Estatal de Desarrollo.
 
-Sus previsiones se referirán al conjunto de la actividad económica y social, y regirán el contenido de los programas operativos anuales, todo ello en concordancia con los Planes Nacional y Estatal de Desarrollo.
+Los programas operativos anuales, que deberán ser congruentes entre sí, servirán de base para la integración de los proyectos de presupuestos anuales de los Ayuntamientos.
 
-Los programas operativos anuales que deberán ser congruentes entre sí, servirán de base para la integración de los proyectos de presupuestos anuales de los municipios.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 185.
 
-Los planes y programas a que se refiere el artículo anterior especificarán las acciones que serán objeto de coordinación con los Gobiernos Estatal y Federal, así como de inducción o concertación con los sectores social y privado interesados.
+Los planes y programas a que se refiere el artículo anterior especificarán las acciones que serán objeto de coordinación con los Gobiernos Estatal y Federal, así como de inducción o concertación con los sectores social y privado interesados. También indicarán las acciones que se requieren para el cumplimiento de los objetivos de largo plazo previstos conforme a los principios de planeación estratégica.
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -2051,11 +2061,15 @@ El Ayuntamiento, al rendir su informe anual por conducto del Presidente Municipa
 
 El contenido de las cuentas trimestrales de la Hacienda Pública Municipal deberán relacionarse, en lo conducente, con la información anterior, a fin de permitir al Congreso del Estado el análisis de las cuentas de acuerdo con los fines y prioridades de la planeación municipal.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2004)</small>
+
+Con independencia de la rendición de cuentas a que se refiere el párrafo anterior, el Ayuntamiento remitirá al Congreso del Estado, dentro de la última quincena del primer trimestre de cada año de calendario el informe anual de ejecución del Plan Municipal de Desarrollo, con el señalamiento de los resultados alcanzados y las desviaciones u obstáculos para su concreción, así como las modificaciones y ajustes que se hubieren aprobado en torno al propio plan. En todo caso, las adecuaciones y modificaciones del Plan Municipal de Desarrollo se publicarán en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 188.
 
-La Contraloría Municipal vigilará que se cumpla con los objetivos, estrategias y prioridades del Plan Municipal de Desarrollo y los programas que de él se deriven.
+El titular del área responsable de la planeación municipal vigilará que se cumpla con los objetivos, estrategias y prioridades del Plan Municipal de Desarrollo, y de los planes sectoriales que de él se deriven, y la Contraloría Municipal vigilará que la ejecución de los programas se realice conforme a sus previsiones.
 
 ### CAPITULO III. DE LA JORNADA DE TRABAJO, DESCANSO Y VACACIONES
 
@@ -3368,3 +3382,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Las Juntas de Mejoramiento Moral, Cívico o Material que estuvieren en ejercicio conforme a las disposiciones referidas en la ley que se abroga, deberán continuar en funcionamiento hasta el 31 de diciembre del presente año.
+
+P.O. 27 DE MAYO DE 2004.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
