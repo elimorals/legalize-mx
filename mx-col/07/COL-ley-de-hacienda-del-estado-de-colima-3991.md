@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "1993-12-18"
+last_updated: "1994-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1994.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -415,7 +415,9 @@ I.- Expedición de Fiat de Notario 270,000
 
 II.- Por nombramiento de Notario Interino 90,000
 
-III.- Por autorización de Protocolo 4,500
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1994)</small>
+
+III.- Por autorización de protocolo, abierto o especial 4,500
 
 IV.- Por legalización de firmas, por cada una 1,800
 
@@ -545,11 +547,29 @@ IV.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 1993)
 
 V.- Por expedición de constancias, por cada una 1.000
 
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1994)</small>
+
 VI.- Por la expedición de permisos provisionales:
 
-a).- Para manejar vehículos con vigencia de seis meses 1.600
+a).- Para manejar vehículos, por el primer permiso de 30 días 1.600
 
-b).- Para circular sin placas con vigencia de 30 días 1.600
+1.- Por cada día adicional al anterior 0.500
+
+b).- Para circular sin placas, por el primer permiso de 30 días 1.600
+
+2.- Por cada día adicional al anterior 0.500
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1994)</small>
+
+VII.- Certificaciones y constancias, cuando para su expedición no se requiera búsqueda en los archivos 1.500
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1994)</small>
+
+VIII.- Certificaciones y constancias, cuando para su expedición se requiera búsqueda en los archivos 3.000
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1994)</small>
+
+IX.- Por la expedición de bajas de placas de otros Estados 6.000
 
 ###### Artículo 51.
 
@@ -565,7 +585,9 @@ Numero de días de salarios mínimos
 
 I.- Registro Publico de la Propiedad.
 
-a).- Examen de todo documento público o privado que se presente al Registro para su inscripción, cuando se rehuse éste por ser inscribible o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial 1.080
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+
+a).- Examen de todo documento público o privado que se presente al Registro para su inscripción, cuando se rehuse éste por ser inscribible o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial 1.619
 
 b).- Por inscripción o registro de títulos, ya se trate de documentos públicos o privados, contratos de arrendamiento, resoluciones judiciales, administrativas, o de cualquier otra clase, por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o posesión de bienes inmuebles, sobre el valor más alto entre operación y traslado de dominio, se cobrará:
 
@@ -583,7 +605,9 @@ b).- Por inscripción o registro de títulos, ya se trate de documentos público
 
 Si en la escritura constitutiva se consigna valor se causará la tasa del 0.4% sobre dicho valor 3.779
 
-7.- Por cancelación 3.149
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+
+7.- Por cancelación de hipotecas, créditos, convenios modificatorios, gravámenes en general y limitación de dominio 3.149
 
 c).- Por la inscripción de la escritura constitutiva del capital social o de los aumentos del mismo, se pagará la tasa del 0.4% sin que el mínimo sea menor de 5.000
 
@@ -603,7 +627,9 @@ h).- La inscripción de títulos de propiedad de bienes o derechos que modifique
 
 i).- Si en el nuevo título a que se refiere el inciso anterior se aumenta el capital o se transfiere algún derecho, se aplicará la tasa del 0.4% sobre el importe del aumento, sin que sea menor, de 5.000
 
-j).- Las operaciones crediticias a que se refiere el Artículo 66 fracción I de la Ley de Instituciones de crédito, se cobrara, por una sola vez:
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+
+j).- Las operaciones crediticias a que se refiere el artículo 66 de la Ley de Instituciones de Crédito, se cobrará, por una sola vez:
 
 1.- Cuando el monto de la operación sea hasta el equivalente a 3.814 días de salario mínimo 5.000
 
@@ -615,9 +641,15 @@ salario mínimo 12.000
 
 4.- Cuando el valor de la operación sea mayor al equivalente de 6.116 días de salario mínimo:
 
-4.1.- El 0.125% sobre el monto de la operación cuando se trate de créditos de habitación (sic)o avio, para fines agropecuarios
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+
+4.1.- El 0.125% sobre el monto de la operación cuando se trate de créditos de habilitación o avío, para fines agropecuarios o de pesca
 
 4.2.- El 0.25% sobre el monto de la operación cuando se trate de créditos distintos a los señalados en el subpunto anterior
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+
+5.- Cuando se trate de restructuración (sic) de créditos, el derecho a pagar se calculará sobre el total de crédito restructurado (sic), deduciendo del resultado el derecho pagado cuando se registro el crédito original
 
 k).- La anotación de demandas o cualquier documento judicial que exprese el valor, se aplicará la tasa 0.4% sobre dicho valor sin que el importe del derecho a pagar sea menor de 5.000
 
@@ -667,11 +699,21 @@ s).- La expedición mecanográfica de certificaciones relativas a las constancia
 
 2.- Por cada hoja más 0.540
 
-t).- La expedición de toda clase de constancias en copias fotostáticas certificada:
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
 
-1.- Por la primera hoja 1.080
+t).- La expedición de toda clase de constancias en copias fotostáticas de escrituras públicas o privadas, documentos generales y folios reales:
 
-2.- Por cada hoja más 0.450
+1.- Sin certificar:
+
+1.1.- Por la primera hoja 0.400
+
+1.2.- Por cada hoja más 0.077
+
+2.- Certificadas:
+
+2.1.- Por la primera hoja 1.080
+
+2.2.- Por cada hoja más 0.540
 
 u).- Por los informes que se rindan por escrito a solicitud de las autoridades cuando sea a costa del interesado, incluyendo la búsqueda 1.080
 
@@ -681,13 +723,17 @@ inferior a 2.500
 
 w).- La Cancelación de las inscripciones en los casos a que se refiere el inciso n) causará la tasa del 0.2% sobre el valor de la cancelación, sin que el importe del derecho sea inferior a 2.500
 
-x).- Búsqueda de informes y certificaciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+
+x).- Búsqueda de informes y certificaciones, por cada lote, finca o predio 2.500
 
 1.- De uno a diez años anteriores 2.069
 
 2.- De once a más años anteriores 2.609
 
-3.- Además de la cuota anterior, por cada gravamen o limitación de dominio 0.310
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+
+3.- Además de la cuota, por cada gravamen, hipoteca, convenio modificatorio o limitación de dominio 0.310
 
 4.- De no inscripción:
 
@@ -698,6 +744,20 @@ x).- Búsqueda de informes y certificaciones:
 salario mínimo 3.149
 
 y).- Impresión de informes a solicitud del interesado por hoja 1.080
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+
+z).- Ratificación de documentos y firmas ante el registrador 3.149
+
+1.- En fotostáticas hasta tamaño oficio 0.540
+
+2.- Hasta cuatro veces el tamaño oficio 0.765
+
+3.- Mayores de éstos 1.080
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+
+zz).- Constancias a que se refieren las disposiciones sobre asentamientos, cada una 1.080
 
 II.- Registro Público de Comercio:
 
@@ -753,13 +813,13 @@ p).- Ratificación de documentos y firmas ante el registrador 3.149
 
 Tratándose de planos, causarán las siguientes tarifas:
 
-1.- En fotostáticas hasta tamaño oficio 0.540
+1.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 1994)
 
-2.- Hasta cuatro veces el tamaño oficio 0.765
+2.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 1994)
 
-3.- Mayores de estos 1.080
+3.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 1994)
 
-q).- Constancias a que se refieren las disposiciones sobre asentamientos, por cada una 1.080
+q).- (DEROGADO, P.O. 24 DE DICIEMBRE DE 1994)
 
 r).- La expedición de toda clase de constancias en copia fotostática certificada:
 
@@ -777,7 +837,7 @@ t).- Impresión de informes a solicitud del interesado por hoja 1.080
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO VIII. Servicios Prestados en el Poder Judicial
+### CAPITULO IX. Otros Derechos
 
 ###### Artículo 53.
 
@@ -856,6 +916,26 @@ d).- Servicio de copias a Dependencias Oficiales o particulares de planos no cat
 1.- Si no proporciona papel heliográfico, por m2 1.080
 
 2.- Si proporciona papel heliográfico, por m2 0.450
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+
+e).- Fotos aéreas, más costo de laboratorio, según tamaño 20.000
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+
+f).- Plano manzanero 1:500 graficado y certificado 15.000
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+
+g).- Plano general a diferentes escalas:
+
+1.- Graficado y certificado, incluyendo, manzanas, predios y calles 30.000
+
+2.- Por cada capa adicional al plano general 10.000
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+
+h).- Formato de fusión o subdivisión debidamente requisitado 10.000
 
 II.- Certificaciones:
 
@@ -959,6 +1039,10 @@ e).- Cuando por motivo de una solicitud de rectificación o medición de un pred
 
 Más, por cada kilometro recorrido 0.090
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+
+f).- Por asignar coordenadas geodésicas para la orientación de fraccionamientos 10.000
+
 IV.- Fusiones, subdivisiones, cesiones y registros:
 
 a).- Por la fusión o subdivisión de predios, cuando el valor catastral de los predios fusionados o subdivididos sea de:
@@ -987,9 +1071,13 @@ V.- Por derechos de registro y expedición de credencial de perito valuador 15.0
 
 a).- Refrendo anual 10.00
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1994)</small>
+
+VI.- Por modificar registros manifestados erróneamente, a solicitud del interesado 1.800
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO IX. Otros Derechos
+### CAPITULO VIII. Servicios Prestados en el Poder Judicial
 
 ###### Artículo 55.
 
@@ -997,79 +1085,113 @@ Por los servicios prestados en la Dirección General de Desarrollo Urbano y Obra
 
 Numero de días de salario mínimo
 
-I.- Por la autorización de fraccionamientos se pagara:
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1994)</small>
 
-1.- Habitación popular 50.000
+I.- Verificación de congruencia de los dictámenes de vocación del suelo:
 
-más, por cada lote vendible 1.000
+a).- Para el aprovechamiento urbano del suelo que implique la transformación del terreno rústico en urbanizado 20.000
 
-2.- Granjas 85.000
-
-más, por cada lote vendible 2.000
-
-3.- Industrial 110.000
-
-más por cada lote vendible 1.500
-
-4.- Residencial campestre 335.000
-
-más por cada lote vendible 11.000
-
-5.- Residencial 260.000
-
-más por cada lote vendible 10.000
-
-6.- Habitación tipo medio 155.000
-
-más, por cada lote vendible 5.500
-
-II.- Por supervisión para la autorización de los trabajos técnicos (revisión de redes de agua potable alcantarillado compactaciones en arroyos, de calles y banquetas, etc.) en cualquier clasificación de fraccionamientos, se pagará 105.000
-
-más, por cada lote vendible 1.000
-
-III.- Por la autorización para la modificación de fraccionamientos se pagará:
+b).- Para la relotificación de predios urbanos:
 
 1.- Popular 15.000
 
 más, por cada lote modificado 1.000
 
-2.- Granjas 20.000
+2.- Media 40.000
+
+más, por cada lote modificado 1.500
+
+3.- Granjas 20.000
 
 más, por cada lote modificado 1.000
 
-3.- Industrial 20.000
+4.- Industrial 20.000
 
-más por cada lote modificado 1.500
+más, por cada lote modificado 1.500
 
-4.- Residencial campestre 80.000
+5.- Residencial campestre 80.000
 
-más por cada lote modificado 2.500
+más, por cada lote modificado 2.500
 
-5.- Residencial 65.000
+6.- Residencial 65.000
 
-más por cada lote modificado 2.000
+más, por cada lote modificado 2.000
 
-IV.- Por la autorización de sub-división de inmuebles, se pagará:
+7.- Comercio 30.000
+
+más, por cada lote modificado 1.500
+
+8.- Turísticos 70.000
+
+más, por cada lote modificado 2.500
+
+9.- Otros 40.000
+
+más, por cada lote modificado 1.500
+
+c).- Para la subdivisión de predios urbanos:
 
 1.- Popular 2.000
 
-más por cada parte en la que se subdivida el inmueble 1.000
+más, por cada parte en la que se subdivida el inmueble 1.000
 
 2.- Media 4.000
 
-más por cada parte en la que se subdivida el inmueble 2.000
+más, por cada parte en la que se subdivida el inmueble 2.000
 
-3.- Comercio 12.000
+3.- Granjas 3.000
 
-más por cada parte en la que se subdivida el inmueble 6.000
+más, por cada parte en la que se subdivida el inmueble 1.500
 
-4.- Residencial 9.000
+4.- Industrial 16.000
 
-más por cada parte en la que se subdivida el inmueble 4.500
+más, por cada parte en la que se subdivida el inmueble 8.000
 
-5.- Industrial 16.000
+5.- Residencial campestre 12.000
 
-más por cada parte en la que se subdivida el inmueble 8.000
+más, por cada parte en la que se subdivida el inmueble 5.000
+
+6.- Residencial 9.000
+
+más, por cada parte en la que se subdivida el inmueble 4.500
+
+7.- Comercio 12.000
+
+más, por cada parte en la que se subdivida el inmueble 6.000
+
+8.- Turísticos 20.000
+
+más, por cada parte en la que se subdivida el inmueble 10.000
+
+9.- Otros 8.000
+
+más, por cada parte en la que se subdivida el inmueble 4.000
+
+d).- Para modificación, demolición o ampliación de inmuebles del Patrimonio Urbano Arquitectónico 10.000
+
+e).- De equipamiento e infraestructura primaria de los centros de población:
+
+1.- Popular 10.000
+
+2.- Media 20.000
+
+3.- Residencial 30.000
+
+f).- Hospitales y Centros Médicos 20.000
+
+g).- Centrales camioneras de carga y de abastos 30.000
+
+h).- Industrias medianas y grandes 10.000
+
+i).- Edificios Multifamiliares, cuando superen las 20 unidades 10.000
+
+j).- Proyectos de Hotelería cuando superan las 30 habitaciones 25.000
+
+II.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1994)
+
+III.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1994)
+
+IV.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1994)
 
 V.- Por la autorización para la constitución de condominios se pagará:
 
@@ -2095,7 +2217,7 @@ HIPOSPADIAS 10.580 16.430 22.270
 
 17518 VALVAS (sic) POSTE
 
-(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO UNICO
 
@@ -2124,8 +2246,6 @@ b).- Por cada hoja más o fracción 1.350
 III.- Registro y diligencia de exhortos 0.720
 
 IV.- Copias certificadas de Sentencia de Divorcio 1.350
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ###### Artículo 64.
 
@@ -2156,6 +2276,8 @@ a).- Por la primera hoja 1.000
 b).- Por cada hoja más o fracción 0.270
 
 II.- Por los servicios de vigilancia e inspección, los contratistas con quienes celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente a 1.5 al millar sobre el importe de cada una de las estimaciones de trabajo; dichos importes serán retenidos por las dependencias que efectúen los pagos correspondientes
+
+(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
 
 ## TITULO TERCERO. DE LOS DERECHOS DE COOPERACION Y DE LAS CONTRIBUCIONES DE MEJORAS
 
@@ -2328,3 +2450,7 @@ UNICO.- El presente Decreto entrará en vigor el día de su publicación en el P
 P.O. 18 DE DICIEMBRE DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE DICIEMBRE DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1995 previa su publicación en el Periódico Oficial "El Estado de Colima".
