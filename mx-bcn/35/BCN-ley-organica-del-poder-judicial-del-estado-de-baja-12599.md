@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "1997-05-23"
+last_updated: "1998-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 1998.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -45,9 +45,19 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA.
 
 Corresponde a los Tribunales de Justicia del Fuero Común del Estado de Baja California, dentro de los términos que establece la Constitución General de la República y la Constitución Política del Estado, la facultad de aplicar las leyes en los asuntos civiles, penales y familiares, que sean de su conocimiento, así como los casos en que las demás leyes les concedan jurisdicción.
 
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+El Tribunal de Justicia Electoral, máxima autoridad jurisdiccional electoral estatal, y órgano especializado del Poder Judicial del Estado, garantizará el cumplimiento del principio de legalidad de los actos y resoluciones electorales, en los términos señalados por la Constitución Política del Estado y las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+Las disposiciones cuya referencia sea "la administración de justicia", no serán aplicables al Tribunal de Justicia Electoral.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 2.
 
-La facultad a que se refiere el artículo anterior se ejerce:
+Las facultades a que se refiere el Artículo anterior se ejercen:
 
 I.- Por el Tribunal Superior de Justicia, actuando en Pleno o en Salas.
 
@@ -67,11 +77,17 @@ VIII.- Por los jueces de Paz de Jurisdicción Mixta.
 
 IX.- Por el Consejo de la Judicatura del Estado de Baja California.
 
-X.- Por los demás Servidores Públicos y auxiliares de la administración de Justicia en los términos que establezca esta ley, los Códigos de Procedimientos y leyes correspondientes.
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
+
+X.- Por el Tribunal de Justicia Electoral.
+
+XI.- Por los demás Servidores Públicos y auxiliares de la administración de Justicia en los términos que establezca esta ley, los Códigos de Procedimientos y leyes correspondientes.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 3.
 
-En lo no previsto por el presente ordenamiento legal, será supletoriamente aplicable el Código de Procedimientos Civiles para el Estado de Baja California.
+En lo no previsto por el presente ordenamiento legal, será supletoriamente aplicable el Código de Procedimientos Civiles para el Estado de Baja California, con excepción a lo dispuesto por el Título Decimocuarto de esta Ley.
 
 ###### ARTICULO 4.
 
@@ -123,9 +139,11 @@ Las cabeceras de los partidos judiciales del Estado, serán, respectivamente, la
 
 ### CAPITULO I. DE LOS NOMBRAMIENTOS
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 7.
 
-Los nombramientos de los Magistrados del Tribunal Superior de Justicia, se harán en forma y términos que previene el artículo 59 de la Constitución Política del Estado y rendirán la protesta de Ley ante el Congreso o la Comisión Permanente, en su caso.
+Los nombramientos de los Magistrados del Tribunal Superior de Justicia, se harán en forma y términos que previene el Artículo 58 de la Constitución Política del Estado y rendirán la protesta de Ley ante el Congreso o la Comisión Permanente, en su caso.
 
 ###### ARTICULO 8.
 
@@ -191,9 +209,11 @@ No podrá recaer ningún nombramiento de la Administración de Justicia en indiv
 
 ### CAPITULO I. DEL TRIBUNAL SUPERIOR
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 21.
 
-El Tribunal Superior de Justicia, estará integrado por trece magistrados propietarios como mínimo y funcionará en Pleno o en Salas y será representado por su Presidente.
+El Tribunal Superior de Justicia, estará integrado por trece Magistrados propietarios como mínimo y seis Suplentes. Funcionará en Pleno o en Salas y será representado por su Presidente.
 
 ###### ARTICULO 22.
 
@@ -203,33 +223,71 @@ Uno de los Magistrados Propietarios será el Presidente del Tribunal Superior de
 
 Para ser designado Magistrado, se requiere:
 
-I.- Ser Mexicano por nacimiento y estar en pleno goce de sus derechos civiles y políticos.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
+
+I.- Ser ciudadano Mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
 
 II.- Tener cuando menos treinta y cinco años cumplidos al día de la designación.
 
 III.- Poseer al día de la designación con antigüedad mínima de diez años, Título profesional de Licenciado en Derecho, expedido por autoridad o institución legalmente facultada para ello.
 
-IV.- Gozar de buena reputación y no haber sido condenado por un delito intencional que amerite pena corporal de más de un año de prisión, pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lesione la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
 
-V.- Haber residido en el país y en el Estado de Baja California durante los dos años anteriores al día de la designación.
+IV.- Haber realizado por lo menos durante tres años, una actividad profesional relacionada con la aplicación, interpretación, elaboración, o investigación de normas jurídicas.
 
-VI.- No haber ocupado el cargo de Titular en una Secretaría, de Procurador de Justicia o de Gobernador del Estado de Baja California, durante el año previo al día de la designación.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
+
+V.- Tener residencia mínima de cinco años en el Estado, anteriores al día de la designación.
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
+
+VI.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
+
+VII.- No haber ocupado el cargo de Gobernador del Estado, Titular de una Secretaría, o Procurador de Justicia, durante el año previo al día de la designación.
 
 ###### ARTICULO 24.
 
 Para ser Secretario General de Acuerdos, Secretario de Estudio y Cuenta, o Secretario Auxiliar del Tribunal Superior de Justicia, se requiere:
 
-I.- Reunir los requisitos que para ser magistrado, exigen las fracciones I y IV del artículo anterior.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
 
-II.- Poseer al día de la designación con antigüedad mínima de 5 años, título profesional de Licenciado en Derecho.
+I.- Ser ciudadano Mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
 
-III.- Tener más de treinta y menos de sesenta y cinco años de edad, al día de su designación.
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
 
-IV.- Tener práctica profesional suficiente a juicio del Consejo de la Judicatura del Estado.
+II.- Tener residencia mínima de cinco años en el Estado, anteriores al día de la designación.
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
+
+III.- Poseer al día de la designación, con antigüedad mínima de cinco años, Título profesional de Licenciado en Derecho.
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
+
+IV.- Tener más de treinta y menos de sesenta y cinco años de edad, al día de su designación.
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
+
+V.- Tener práctica profesional suficiente a juicio del Consejo de la Judicatura del Estado.
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
+
+VI.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 25.
 
-Para ser Actuario del Tribunal Superior de Justicia se requiere de la concurrencia de los requisitos a que se refieren las fracciones I y IV del artículo 23 de esta Ley, además de tener Título de Licenciado en Derecho; excepto cuando sean prestadores de servicio social.
+Para ser Actuario del Tribunal Superior de Justicia se requiere:
+
+I.- Ser ciudadano Mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
+
+II.- Tener residencia mínima de cinco años en el Estado, anteriores al día de la designación.
+
+III.- Poseer al día de la designación, Título profesional de Licenciado en Derecho, excepto cuando sean prestadores de servicio social.
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
 ###### ARTICULO 26.
 
@@ -261,7 +319,9 @@ II.- Calificar en cada caso, las excusas o impedimentos que sus miembros present
 
 III.- Dar al Congreso, al Ejecutivo del Estado y al Consejo de la Judicatura, los informes que pidieren, relativos a la Administración de Justicia.
 
-IV.- Ordenar por conducto del Presidente del Tribunal, se haga la consignación que corresponda al Ministerio Público, de los jueces o empleados del Poder Judicial, por delitos comunes o responsabilidades oficiales en que incurran.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
+
+IV.- Ordenar, por conducto del Presidente del Tribunal, se haga la consignación que corresponda al Ministerio Público, de los jueces o empleados de la administración de justicia, por delitos comunes o responsabilidades oficiales en que incurran.
 
 V.- Exigir al Presidente del Tribunal el fiel cumplimiento de sus obligaciones y la responsabilidad en que incurran de acuerdo con la Ley, en el ejercicio de sus funciones.
 
@@ -361,7 +421,9 @@ XI.- Conceder diariamente audiencia al público.
 
 XII.- Llevar el turno de los Magistrados Propietarios que se excusen de conocer de alguno de los negocios de su competencia, o sean recusados, para hacer las designaciones de suplencia.
 
-XIII.- Rendir informe anual ante el Pleno del Tribunal Superior de Justicia y ante el Pleno del Consejo de la Judicatura sobre las actividades desarrolladas por el Poder Judicial.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
+
+XIII.- Rendir informe anual ante el Pleno del Tribunal Superior de Justicia y ante el Pleno del Consejo de la Judicatura sobre las actividades desarrolladas por el Poder Judicial, relativas a la administración de justicia.
 
 ###### ARTICULO 40.
 
@@ -397,7 +459,9 @@ VI.- Ejercer las atribuciones que le asigne el Reglamento Interior del Tribunal 
 
 VII.- Firmar, en unión de los magistrados asistentes y del secretario, las correspondientes actas, haciendo constar en ellas las deliberaciones del Pleno y los Acuerdos que éste dicte en los negocios de su competencia, cuidando de su despacho y ejecución.
 
-VIII.- Dar cuenta al Pleno con las demandas de responsabilidad civil presentadas en contra de los magistrados.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
+
+VIII.- Dar cuenta al Pleno con las demandas de responsabilidad civil, presentadas en contra de los Magistrados del Tribunal Superior de Justicia.
 
 IX.- Turnar a la sala que corresponda, para los efectos que señala el Código de Procedimientos Civiles, el expediente que se haya formado con motivo de competencia suscitada entre los funcionarios precisados por la propia Ley adjetiva, en lo que se refiere a la cuantía del negocio.
 
@@ -564,6 +628,10 @@ III.- Tener título de Abogado o Licenciado en Derecho debidamente registrado en
 IV.- Acreditar, cuando menos cinco años de práctica profesional, y aprobar el examen correspondiente.
 
 V.- Gozar de buena reputación y no haber sido condenado por un delito intencional que amerite pena corporal de más de un año de prisión, pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lesione la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
+
+VI.- Tener residencia mínima de cinco años en el Estado, anteriores al día de la designación.
 
 ###### ARTICULO 65.
 
@@ -871,17 +939,25 @@ Las faltas temporales de los magistrados del Tribunal Superior de Justicia en la
 
 I.- Las del presidente del Tribunal Superior serán suplidas por el magistrado propietario que elija el Pleno del mismo tribunal.
 
-II.- Las de los magistrados propietarios cuando no pasen de dos meses, por el magistrado de otra sala que, por riguroso turno, designe el Presidente del Tribunal.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
 
-III.- Los de los magistrados propietarios por más de dos meses, pero no de seis por el Magistrado Interino que acuerde el Consejo de la Judicatura del Estado.
+II.- Las de los Magistrados Propietarios cuando no pasen de dos meses, por el Magistrado Suplente que acuerde el Pleno del Tribunal Superior de Justicia.
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
+
+III.- Las de los Magistrados Propietarios por más de dos meses, pero no de seis, por el Magistrado Suplente que acuerde el Consejo de la Judicatura del Estado.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 92.
 
-Las faltas temporales de los magistrados por más de seis meses, serán cubiertas por el Magistrado Interino que acuerde el Pleno del Consejo de la Judicatura del Estado de conformidad con los términos prescritos por el Artículo 59 de la Constitución Política del Estado. Entre tanto se hace la designación la falta será cubierta por el Magistrado interino que nombre el Consejo de la Judicatura, de entre los secretarios de estudio y cuenta que se desempeñe en la Sala donde se diere la falta del Magistrado Propietario.
+Las faltas temporales de los Magistrados por más de seis meses, serán cubiertas por el Magistrado Suplente que acuerde el Pleno del Consejo de la Judicatura del Estado de conformidad con los términos prescritos por el Artículo 58 de la Constitución Política del Estado.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 93.
 
-La falta absoluta de un magistrado será cubierta en la forma que previene el artículo 63 de la Constitución Política del Estado; pero mientras se hace la designación, la falta será cubierta en los términos del artículo que precede.
+La falta absoluta de un Magistrado, será cubierta en la forma que previene el artículo 61 de la Constitución Política del Estado; pero mientras se hace la designación, la falta será cubierta en los términos del artículo que precede.
 
 ### CAPITULO III. DE LA DECLARACION DE PROCEDENCIA EN MATERIA DE RESPONSABILIDAD PENAL
 
@@ -913,7 +989,9 @@ Las faltas temporales de los demás empleados se suplirán, cuando así lo deter
 
 Las faltas absolutas de los Jueces, Secretarios y demás empleados de la Administración de Justicia, serán cubiertos mediante nuevos nombramientos que deberá hacer el Consejo de la Judicatura del Estado, conforme a las disposiciones de ésta Ley.
 
-## TITULO SEPTIMO. DE LOS IMPEDIMENTOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE MAYO DE 1998)</small>
+
+## TITULO SEPTIMO. DE LOS IMPEDIMENTOS EN LA ADMINISTRACION DE JUSTICIA
 
 ### CAPITULO IV. DE LA RESPONSABILIDAD Y FALTAS ADMINISTRATIVAS
 
@@ -943,7 +1021,9 @@ En todos los casos en que según esta Ley debe suplir a un Juez el que le sigue 
 
 En los casos de impedimento por recusación o excusas de los jueces de Paz, conocerá del negocio el secretario, que a su vez actuará con testigos de asistencia.
 
-## TITULO OCTAVO. DE LAS LICENCIAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE MAYO DE 1998)</small>
+
+## TITULO OCTAVO. DE LAS LICENCIAS DE LOS SERVIDORES PUBLICOS EN LA ADMINISTRACION DE JUSTICIA
 
 ### CAPITULO V. DE LAS SANCIONES Y SU APLICACION
 
@@ -1393,9 +1473,11 @@ La Administración, Vigilancia, Disciplina y Carrera Judicial del Poder Judicial
 
 El Consejo de la Judicatura del Estado velará, en todo momento, por la autonomía de los Organos del Poder Judicial del Estado y por la independencia e imparcialidad de los miembros de éste último.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 156.
 
-El Consejo de la Judicatura del Estado, se integrará por seis Consejeros, en los términos del artículo 66 de la Constitución Política del Estado y funcionará en Pleno o a través de Comisiones, además contará con un Secretario General.
+El Consejo de la Judicatura del Estado, se integrará por siete Consejeros, en los términos del artículo 65 de la Constitución Política del Estado y funcionará en Pleno o a través de Comisiones, además contará con un Secretario General.
 
 ###### ARTICULO 157.
 
@@ -1415,9 +1497,11 @@ Cuando el Pleno del Consejo de la Judicatura del Estado, estime que sus reglamen
 
 El Consejo de la Judicatura del Estado, sesionará en forma ordinaria y extraordinaria.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 161.
 
-El Pleno se integrará con los seis Consejeros; pero bastará la presencia de cinco de ellos para sesionar.
+El Pleno se integrará con los siete Consejeros; pero bastará la presencia de seis de ellos para sesionar.
 
 ###### ARTICULO 162.
 
@@ -1457,9 +1541,13 @@ Son atribuciones del Consejo de la Judicatura del Estado.
 
 I.- Establecer las unidades administrativas que estime convenientes para el adecuado funcionamiento del Consejo de la Judicatura del Estado y designar a los consejeros que deban integrarlas.
 
-II.- Expedir los reglamentos interiores en materia administrativa, de carrera judicial, de escalafón y régimen disciplinario del Poder Judicial del Estado, y todos aquellos acuerdos generales que fueren necesarios para el adecuado ejercicio de sus atribuciones en términos del artículo 66 de la Constitución Política del Estado.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
 
-III.- Fijar las bases, convocar y realizar el procedimiento para cubrir las respectivas vacantes al Consejo de la Judicatura del Estado, entre ellos jueces, magistrados en términos del artículo 66 de la Constitución Política del Estado, y que no hubieren sido sancionados por falta grave con motivo de una queja administrativa.
+II.- Expedir los reglamentos interiores en materia administrativa, de carrera judicial, de escalafón y régimen disciplinario del Poder Judicial del Estado, con excepción del Tribunal de Justicia Electoral, y todos aquellos acuerdos generales que fueren necesarios para el adecuado ejercicio de sus atribuciones en términos del artículo 65 de la Constitución Política del Estado.
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
+
+III.- Fijar las bases, convocar y realizar el procedimiento para cubrir las respectivas vacantes al Consejo de la Judicatura del Estado, entre ellos jueces, magistrados en términos del artículo 65 de la Constitución Política del Estado, y que no hubieren sido sancionados por falta grave con motivo de una queja administrativa.
 
 IV.- Determinar el número y, los límites territoriales de los partidos judiciales en que se divide el Estado.
 
@@ -1479,7 +1567,9 @@ La suspensión de los magistrados y jueces por parte del Consejo de la Judicatur
 
 XI.- Suspender en sus funciones a los magistrados y jueces que aparecieren involucrados en la comisión de un delito, y formular denuncia o querella contra ellos en los casos en que proceda.
 
-XII.- Recibir y resolver sobre las quejas administrativas relativas a demoras, excusas faltas en el despacho de los negocios o asuntos que tramiten ante el Tribunal Superior de Justicia, juzgados y dependencias a su cargo, solicitando los informes necesarios y realizar investigaciones, funciones que podrán delegarse a través de la correspondiente comisión; y sobre la responsabilidad de servidores públicos en términos de lo que dispone ésta ley, incluyendo aquellas que se refieran a la violación de los impedimentos previstos por el artículo 67 de la Constitución Política del Estado, por parte de los correspondientes miembros del Poder Judicial.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
+
+XII.- Recibir y resolver sobre las quejas administrativas relativas a demoras, excusas faltas en el despacho de los negocios o asuntos que tramiten ante el Tribunal Superior de Justicia, juzgados y dependencias a su cargo, solicitando los informes necesarios y realizar investigaciones, funciones que podrán delegarse a través de la correspondiente comisión; y sobre la responsabilidad de servidores públicos en términos de lo que dispone ésta ley, incluyendo aquellas que se refieran a la violación de los impedimentos previstos por el artículo 66 de la Constitución Política del Estado, por parte de los correspondientes miembros de la administración de justicia.
 
 XIII.- Formular anualmente el proyecto del presupuesto de egresos del Poder Judicial y someterlo al Ejecutivo del Estado para su remisión y aprobación en su caso por el Congreso del Estado.
 
@@ -1505,7 +1595,9 @@ XXIII.- Apercibir, amonestar e imponer multas hasta de treinta días del importe
 
 XXIV.- Formar anualmente una lista con los nombres de las personas que puedan fungir como peritos ante los órganos del Poder Judicial del Estado, como Auxiliares de la Administración de Justicia; ordenándolas por ramas y especialidades judiciales.
 
-XXV.- Ejercer el presupuesto de egresos del Poder Judicial del Estado.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
+
+XXV.- Ejercer el presupuesto de egresos del Poder Judicial del Estado, relativo a la administración de justicia.
 
 XXVI.- Supervisar el funcionamiento de los Organos Auxiliares del Consejo de la Judicatura del Estado.
 
@@ -1523,7 +1615,9 @@ XXXII.- Realizar visitas extraordinarias o integrar comités de investigación, 
 
 XXXIII.- Dictar las medidas que exijan el buen servicio y la disciplina en las oficinas de los Juzgados y órganos auxiliares del Consejo de la Judicatura del Estado.
 
-XXXIV.- Autorizar el nombramiento de los empleados del Poder Judicial.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
+
+XXXIV.- Autorizar el nombramiento de los empleados de la administración de justicia, y acordar la designación de dos Consejeros de la Judicatura para integrar la Comisión de Administración del Tribunal de Justicia Electoral.
 
 XXXV.- Crear las unidades administrativas que el presupuesto de egresos autorice, asignándoles sus atribuciones.
 
@@ -1561,7 +1655,9 @@ III.- Dar cuenta al Pleno del Consejo de la Judicatura de los nombramientos que 
 
 IV.- Vigilar el funcionamiento de los Organos Auxiliares del Consejo de la Judicatura.
 
-V.- Otorgar licencias para separar de sus labores en los términos previstos por ésta Ley, y permisos económicos hasta por ocho días con goce de sueldo o sin él, a los magistrados, jueces y empleados del Poder Judicial.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
+
+V.- Otorgar licencias para separar de sus labores en los términos previstos por esta Ley, y permisos económicos hasta por ocho días con goce de sueldo o sin él, a los Magistrados, Jueces y empleados de la administración de justicia.
 
 VI.- Firmar las resoluciones y acuerdos del Pleno del Consejo de la Judicatura del Estado.
 
@@ -1664,6 +1760,10 @@ III.- Cualesquiera otros expedientes concluídos que conforme a la ley, deban fo
 IV.- Los demás documentos que las leyes y reglamentos determinen.
 
 V.- La documentación que remita el Consejo de la Judicatura.
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
+
+VI.- Los expedientes concluidos que remita el Tribunal de Justicia Electoral.
 
 ###### ARTICULO 184.
 
@@ -1799,9 +1899,11 @@ III.- Fuera de la capital del Estado recibir promociones que deben presentarse a
 
 IV.- Las que para el mejor desempeño de la administración de justicia le señalare el Consejo de la Judicatura.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE MAYO DE 1998)</small>
+
 TITULO DECIMOSEGUNDO
 
-DE LA CARRERA JUDICIAL
+DE LA CARRERA JUDICIAL EN LA ADMINISTRACION DE JUSTICIA
 
 ### CAPITULO IV. DE LOS ALBACEAS, TUTORES Y CURADORES
 
@@ -1836,6 +1938,10 @@ VII.- Actuario del Poder Judicial del Estado.
 ###### ARTICULO 200.
 
 El Consejo de la Judicatura del Estado establecerá, de acuerdo con su presupuesto y mediante disposiciones generales, un sistema de estímulos para aquellas personas comprendidas en las categorías señaladas en el artículo anterior. Dicho sistema podrá incluir estímulos económicos y tomará en cuenta el desempeño en el ejercicio de su función, los cursos realizados dentro del Instituto de la Judicatura, la antigüedad, grado académico, arraigo y los demás que el propio Consejo estime necesarios.
+
+### CAPITULO I. DE SU NATURALEZA
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 201.
 
@@ -1875,6 +1981,10 @@ III.- Un Magistrado del Tribunal Superior de Justicia que determine el Pleno del
 
 Por cada miembro titular se nombrará un suplente designado en los términos que señale el reglamento correspondiente.
 
+### CAPITULO II. DE SU INTEGRACION, FUNCIONAMIENTO Y ATRIBUCIONES
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 205.
 
 Corresponde al Pleno del Consejo de la Judicatura del Estado, asignar al Partido Judicial y al Organo en que deban ejercer sus funciones los jueces.
@@ -1895,9 +2005,11 @@ IV.- En su caso, el desempeño en el poder judicial, y
 
 V.- El grado académico que comprende el nivel de estudios con que cuente el servidor público así como los diversos cursos de actualización y especialización acreditados de manera fehaciente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 207.
 
-Para la ratificación y reelección de Magistrados y Jueces a que se refieren los artículos 60 y 64 de la Constitución Política del Estado, el Consejo de la Judicatura, tomará en consideración, de conformidad con el reglamento respectivo los siguientes elementos:
+Para la ratificación y reelección de Magistrados y Jueces, a que se refieren los artículos 58 y 62 de la Constitución Política del Estado, el Consejo de la Judicatura, tomará en consideración, de conformidad con el reglamento respectivo, los siguientes elementos:
 
 I.- El desempeño que haya tenido en el ejercicio de su función.
 
@@ -1910,6 +2022,10 @@ IV.- No haber sido sancionado por falta grave, con motivo de una queja de carác
 TITULO DECIMOTERCERO
 
 DE LOS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA
+
+### CAPITULO III. DEL PRESIDENTE DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 208.
 
@@ -2007,6 +2123,10 @@ V.- Calzar con su firma y nombre completo, los certificados y constancias que ex
 
 VI.- Las demás que les encomienden las leyes.
 
+### CAPITULO IV. DE LOS MAGISTRADOS ELECTORALES Y SUS ATRIBUCIONES
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 218.
 
 Los Síndicos de Concurso, serán designados por los jueces de lo civil en los términos establecidos por el Código de Procedimientos Civiles, dentro de las personas comprendidas en la lista que para tal efecto será enviada por el Consejo de la Judicatura.
@@ -2029,6 +2149,10 @@ IV.- Ser de notoria honradez y no haber sido condenado por delito intencional.
 
 V.- No encontrarse comprendido dentro de los casos previstos por el artículo 17 de esta ley.
 
+### CAPITULO V. DEL SECRETARIO GENERAL DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 221.
 
 Los interventores de concurso, al igual que los síndicos, desempeñan una función pública y quedan sujetos a las determinaciones de esta ley, sin perjuicio de las demás disposiciones relativas.
@@ -2049,13 +2173,25 @@ II.- Vigilar la conducta del síndico, dando cuentas al juez de las irregularida
 
 Serán causas de la remoción del interventor, no prestar vigilancia necesaria a todos los casos que están encomendados al síndico, y dar aviso al juez de las faltas u omisiones en que éste hubiere incurrido sin perjuicio de las penas y responsabilidades a que se hubiere hecho acreedor.
 
+### CAPITULO VI. DE LA COMISION DE ADMINISTRACION, INTEGRACION, FUNCIONAMIENTO Y ATRIBUCIONES
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 225.
 
 Los albaceas, tutores y curadores, ya sean provisionales o definitivos, designados por los jueces del Estado, deberán llenar todos los requisitos establecidos en este título para los síndicos e interventores, en aquello que sea compatible con su carácter y función, del mismo modo, los depositarios y en particular a todos aquellos que actúen en los juicios como auxiliares, por ese sólo hecho les serán aplicables las reglas establecidas especialmente en éste título y en todas las demás de la presente Ley en lo que fuere compatible para los efectos de su designación de sus atribuciones y responsabilidades.
 
+### CAPITULO VII. DEL PRESIDENTE DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 226.
 
 En los casos en que conforme al artículo 68 del Código de Procedimientos Civiles, los litigantes designen a un notario que desempeñe las funciones de secretario, estará éste obligado a cumplir con todas las disposiciones que esta ley prescribe para dichos funcionarios únicamente en relación con el negocio en que intervenga y sujeto a las sanciones establecidas en el Capítulo de Responsabilidades, por las faltas o delitos oficiales en que incurra en el desempeño del cargo. En la inteligencia en que no es preciso que permanezca en el juzgado respectivo más que el tiempo necesario para que se desahoguen y dicten diligencias, acuerdos y resoluciones en dicho negocio.
+
+### CAPITULO VIII. DE LA FISCALIZACION DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 227.
 
@@ -2099,6 +2235,10 @@ Los honorarios de los peritos designados por el juez, sin solicitud de ninguno d
 
 Siempre que alguna persona no hable el idioma español y tenga que ser examinado en juicio civil o criminal, se le proveerá de interprete en los términos del Código de Procedimientos Civiles y Penales.
 
+### CAPITULO IX. DE LOS REQUISITOS PARA OCUPAR CARGOS EN EL TRIBUNAL DE JUSTICIA ELECTORAL
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 237.
 
 Se entiende por prestador del servicio social, el estudiante o egresado de las Instituciones de Enseñanza Superior que con ese carácter sean asignadas al Poder Judicial para la prestación de sus servicios social obligatorio, en base a los lineamientos legales e internos de dichas instituciones y previa suscripción del convenio respectivo con el Consejo de la Judicatura del Estado.
@@ -2126,6 +2266,746 @@ Los prestadores del servicio social desempeñarán función de notificadores cua
 ###### ARTICULO 243.
 
 Los encargados de cada programa elaborarán reportes mensuales sobre las actividades de los prestadores del servicio social y evaluarán al término de su prestación, a través de los informes necesarios.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+
+TITULO DECIMOCUARTO
+
+DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+
+### CAPITULO X. DE LAS RESPONSABILIDADES, IMPEDIMENTOS Y EXCUSAS
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 244.
+
+De conformidad con lo dispuesto en el Artículo 57 de la Constitución Política del Estado, el Tribunal de Justicia Electoral, es el órgano especializado del Poder Judicial, y máxima autoridad jurisdiccional electoral estatal, que garantizará el cumplimiento del principio de legalidad de los actos y resoluciones electorales.
+
+Contará con presupuesto propio que administrará y ejercerá en los términos que fije esta ley y demás ordenamientos de la materia.
+
+Para los efectos de este Título, se entenderá por Tribunal, al Tribunal de Justicia Electoral del Poder Judicial del Estado de Baja California.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 245.
+
+El Tribunal es competente para:
+
+I.- Resolver en forma definitiva y firme:
+
+a) Las impugnaciones de las elecciones de Diputados, Munícipes y Gobernador del Estado.
+
+b) Las impugnaciones de actos y resoluciones de la autoridad electoral local distintas a las señaladas en el inciso anterior.
+
+c) Las impugnaciones de actos y resoluciones que violen los derechos político-electorales de los ciudadanos de votar y ser votado y de afiliación libre y pacífica para tomar parte de los asuntos políticos del Estado.
+
+d) Sobre la imposición de sanciones en la materia.
+
+e) Las demás que le señale la Ley.
+
+II.- Sustanciar y resolver los recursos que se interpongan en los términos de la Ley de la materia.
+
+III.- Desechar, sobreseer y tener por no interpuestos, cuando proceda, los recursos o los escritos de terceros interesados.
+
+IV.- Encomendar al secretario y actuario, la realización de diligencias que deban practicarse fuera del Tribunal.
+
+V.- Determinar la fecha y hora de sus sesiones públicas.
+
+VI.- Presentar iniciativas de Leyes y Decretos en materia electoral, ante el Congreso del Estado.
+
+VII.- Fijar criterios obligatorios en los términos del Artículo 289 de esta Ley.
+
+VIII.- Expedir su Reglamento Interior y los acuerdos generales necesarios para su adecuado funcionamiento.
+
+IX.- Realizar tareas de capacitación, investigación y difusión en materia de derecho electoral.
+
+X.- Celebrar convenios de colaboración con otros tribunales, instituciones y autoridades para su mejor desempeño.
+
+XI.- Elaborar anualmente el Proyecto de Presupuesto de Egresos del Tribunal.
+
+XII.- Las demás que le señale esta Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 246.
+
+El Tribunal, para el desempeño de sus funciones y la práctica de diligencias, está facultado para solicitar de las autoridades estatales y municipales, la información, la documentación y el auxilio que considere conveniente.
+
+Los Juzgados de Primera Instancia del Orden Común, Civiles y Penales y los Juzgados de Paz, auxiliarán al Tribunal, en la práctica de las diligencias que les sean encomendadas.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+
+### CAPITULO XI. DE LAS RELACIONES DE TRABAJO DE LOS SERVIDORES PUBLICOS
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 247.
+
+El Tribunal se integra con tres Magistrados Numerarios y hasta dos Magistrados Supernumerarios para cubrir ausencias o vacantes en los términos de esta Ley. Tendrá su sede en la Capital del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 248.
+
+El Tribunal, para el cumplimiento de las atribuciones que la Ley le confiere, funcionará en Pleno y en única instancia.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 249.
+
+El Pleno del Tribunal tendrá las siguientes atribuciones:
+
+I.- Elegir de entre los Magistrados Electorales Numerarios a más tardar el día diez de Diciembre de cada año, al Presidente del Tribunal.
+
+II.- Designar, suspender, remover o cesar a propuesta del Presidente del Tribunal, al Secretario General y al Tribunal del Organo Administrativo de la Comisión de Administración.
+
+III.- Designar, suspender, remover o cesar a propuesta del Presidente del Tribunal o de alguno de los Magistrados Electorales, a los Secretarios, actuarios y demás personal jurídico del Tribunal.
+
+IV.- Conceder o negar licencias por un plazo menor de dos meses, a los Magistrados Electorales que lo soliciten, y en su caso, llamar al Magistrado Supernumerario, en el orden de prelación que los nombró el Congreso del Estado.
+
+V.- Conceder o negar Licencias y acordar sobre las renuncias del Secretario General, secretarios, actuarios, demás personal jurídico, así como del Titular del Organo Administrativo.
+
+VI.- Acordar llamar, en su caso, al Magistrado Supernumerario, en el orden de prelación que los nombró el Congreso del Estado por motivo de licencias por un plazo mayor de dos meses.
+
+VII.- Acordar llamar, en caso de renuncia y ausencia definitiva, al Magistrado Supernumerario, en el orden de prelación que los nombró el Congreso del Estado, hasta en tanto se elija al Magistrado Electoral Numerario.
+
+VIII.- Aprobar la suspensión, remoción y cese del personal administrativo, a propuesta de la Comisión de Administración o de algún Magistrado Electoral.
+
+IX.- Calificar y resolver sobre las excusas o impedimentos de los Magistrados Electorales, y en su caso, acordar llamar al Magistrado Supernumerario en el orden de prelación que los nombró el Congreso del Estado.
+
+X.- Aprobar lo relativo a los períodos vacacionales de los Magistrados Electorales, Secretario General, Secretarios, Actuarios y demás personal jurídico; así como aprobar el calendario oficial de los días de asueto.
+
+XI.- Conocer y resolver sobre la responsabilidad de los Magistrados Electorales y servidores del Tribunal en los términos de lo que dispone esta Ley.
+
+XII.- Imponer las sanciones administrativas que correspondan a los servidores del Tribunal por las irregularidades y faltas en que incurran en el desempeño de sus funciones.
+
+XIII.- Formular denuncia o querella en contra de los Magistrados Electorales que aparecieren involucrados en la comisión de algún delito, en los casos que proceda.
+
+XIV.- Suspender en sus cargos a los Magistrados Electorales, previa declaración de procedencia que emita el Congreso del Estado, en los términos establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+
+XV.- Acordar las iniciativas de leyes y decretos, así como su presentación ante el Congreso del Estado.
+
+XVI.- Aprobar y en su caso, modificar el Reglamento Interior del Tribunal con base en el proyecto que le presente la Comisión de Administración.
+
+XVII.- Discutir y en su caso, aprobar el proyecto de Presupuesto de Egresos del Tribunal, y acordar su envío al Tribunal Superior de Justicia, por conducto de su Presidente, para que se incluya agregadamente al Proyecto del Poder Judicial.
+
+XVIII.- Acordar con el Presidente del Tribunal, el ejercicio del Presupuesto de Egresos del Tribunal.
+
+XIX.- Emitir los acuerdos administrativos y circulares conducentes para garantizar el debido cumplimiento de las funciones del Tribunal.
+
+XX.- Aprobar las disposiciones generales necesarias para el ingreso, carrera, escalafón, régimen disciplinario y remoción, así como las relativas a estímulos y capacitación del personal del Tribunal.
+
+XXI.- Vigilar que se cumplan las normas de registro y seguimiento de situación patrimonial de los servidores del Tribunal, en el tiempo y forma que se acuerde.
+
+XXII.- Emitir las bases, mediante acuerdos generales, para que las adquisiciones, arrendamientos, enajenaciones de todo tipo de bienes, y las contrataciones que realice el Tribunal, en ejercicio de su Presupuesto de Egresos, se ajuste a los criterios previstos en las leyes correspondientes.
+
+XXIII.- Las demás que esta Ley y el Reglamento Interior establezcan.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 250.
+
+Las sesiones de resolución del Tribunal funcionando en única instancia, serán públicas.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 251.
+
+Para que el Tribunal sesione válidamente en única instancia, se requiere la presencia de todos los Magistrados Electorales, y las resoluciones se tomarán por unanimidad o mayoría de votos.
+
+Para sesionar válidamente en Pleno y resolver cuestiones administrativas internas del funcionamiento del Tribunal, es necesaria la presencia de por lo menos las dos terceras partes de sus integrantes, y sus determinaciones serán válidas con el voto de la mayoría de los presentes.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+
+### CAPITULO XII. DE LAS RENUNCIAS, AUSENCIAS Y LICENCIAS
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 252.
+
+El Presidente del Tribunal, se elegirá por el Pleno, en los términos de la fracción I del Artículo 249 de esta Ley. La duración de su cargo será de un año y podrá ser reelecto.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 253.
+
+El Presidente del Tribunal, tendrá las siguientes atribuciones:
+
+I.- Representar al Tribunal, celebrar convenios, otorgar todo tipo de poderes y realizar los actos jurídicos y administrativos que se requieran para el buen funcionamiento del Tribunal.
+
+II.- Presidir el Tribunal y a la Comisión de Administración.
+
+III.- Convocar a los demás Magistrados Electorales para el inicio de sus Trabajos.
+
+IV.- Convocar a los Magistrados Electorales del Tribunal, a sesiones públicas y a reuniones privadas; y tomar las medidas necesarias para coordinar las funciones jurisdiccionales y administrativas del mismo.
+
+V.- Conducir las sesiones, dirigir los debates y conservar el orden durante los mismos; cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo y la continuación de la sesión en privado.
+
+VI.- Presidir y dirigir las sesiones del Pleno.
+
+VII.- Acordar con los Magistrados las propuestas de secretarios, actuarios y demás personal jurídico; así como el Titular del Organo Administrativo que se autorice de conformidad al presupuesto.
+
+VIII.- Proponer al Pleno, al Secretario General del Tribunal.
+
+IX.- Proponer al Pleno cuando proceda, la suspensión, remoción o cese del Secretario General, secretarios, actuarios, personal jurídico del Tribunal y Titular del Organo Administrativo, y en su caso, recibir sus renuncias, turnándolas al Pleno para su conocimiento.
+
+X.- Informar al Pleno las ausencias temporales o definitivas de los Magistrados Electorales y las excusas que le presenten.
+
+XI.- Remitir al Congreso del Estado, para su aprobación, y previo acuerdo del Pleno, las renuncias de los magistrados Electorales del Tribunal; al igual que sus licencias cuando excedan de dos meses.
+
+XII.- Llamar a los Magistrados Supernumerarios, para cubrir las ausencias temporales o definitivas de los Magistrados Electorales del Tribunal, en el orden de prelación que haya señalado el Congreso del Estado al momento de su designación, previo acuerdo del Pleno.
+
+XIII.- Incorporarse al Consejo de la Judicatura, en los términos que disponga esta Ley.
+
+XIV.- Turnar a los Magistrados Electorales, de conformidad con lo dispuesto en el Reglamento Interior, los expedientes de los recursos interpuestos, a través del procedimiento que acuerde el Pleno.
+
+XV.- Requerir cualquier informe o documento que, obrando en poder de los órganos del Instituto Estatal Electoral o de las autoridades estatales y municipales, puedan servir para la sustanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos señalados en las leyes.
+
+XVI.- Ordenar, en casos extraordinarios, que se realicen diligencias o se perfeccione alguna prueba, siempre que ésto no sea obstáculo para resolver dentro de los plazos establecidos en las leyes.
+
+XVII.- Remitir al Congreso del Estado las iniciativas de leyes y decretos acordadas por el Pleno.
+
+XVIII.- Despachar la correspondencia del Tribunal.
+
+XIX.- Llevar las relaciones con autoridades o instituciones públicas y privadas que tengan vínculos con el Tribunal.
+
+XX.- Convocar a reuniones internas al personal jurídico, técnico y administrativo del Tribunal.
+
+XXI.- Apoyar en la identificación y clasificación de los criterios obligatorios sostenidos por el Tribunal.
+
+XXII.- Vigilar que se dicten en tiempo y forma, y que se cumplan las resoluciones y sentencias del Tribunal.
+
+XXIII.- Notificar a los órganos electorales para su cumplimiento, las resoluciones y sentencias que pronuncie el Tribunal.
+
+XXIV.- Solicitar el auxilio de la fuerza pública y de las autoridades estatales y municipales, a fin de dar cumplimiento a las resoluciones y sentencias del Tribunal.
+
+XXV.- Rendir ante el Pleno un informe al término de cada proceso electoral dando cuenta de la marcha del Tribunal y de las principales resoluciones, así como de los principales criterios obligatorios adoptados en sus resoluciones, ordenando su publicación.
+
+XXVI.- Rendir al Pleno, un informe en el que se de cuenta de la marcha del Tribunal y de las gestiones realizadas durante el tiempo de sus funciones.
+
+XXVII.- Conocer diariamente durante el proceso electoral, el número y tipo de recursos recibidos, los expedientes que se encuentran en etapa de substanciación, los que estén para resolución, los Magistrados ponentes, y las resoluciones que les hubieren recaído.
+
+XXVIII.- Proporcionar al Congreso del Estado y al Consejo Estatal Electoral, los informes que soliciten respecto a la impartición de justicia electoral.
+
+XXIX.- Proyectar y someter a la consideración del Pleno, el Presupuesto Anual de Egresos del Tribunal, y una vez aprobado enviarlo oportunamente al Presidente del Tribunal Superior de Justicia, a efecto de que se incluya agregadamente en el Presupuesto del Poder Judicial.
+
+XXX.- Ejercer el Presupuesto de Egresos del Tribunal, por conducto de la Comisión de Administración.
+
+XXXI.- Vigilar que se cumplan las disposiciones del Reglamento Interior del Tribunal.
+
+XXXII.- Dictar las medidas que exijan el buen orden, servicios y disciplina del Tribunal.
+
+XXXIII.- Celebrar convenios con el Instituto de la Judicatura, en materia de investigación, formación, capacitación y actualización de los miembros del Tribunal.
+
+XXXIV.- Establecer, en su caso, por conducto del Consejo de la Judicatura, la coordinación entre el Instituto de la Judicatura y el Tribunal.
+
+XXXV.- Solicitar a la Comisión de Administración que tramite los recursos humanos, financieros y materiales para el buen funcionamiento del Tribunal.
+
+XXXVI.- Acordar con los funcionarios administrativos los asuntos de su competencia.
+
+XXXVII.- Acordar con el Pleno los lineamientos para selección, capacitación, designación y promoción del personal del Tribunal, considerando los principios de imparcialidad, objetividad y profesionalismo.
+
+XXXVIII.- Las demás que señale esta Ley y el Reglamento Interior.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+
+### CAPITULO XIII. DEL ARCHIVO JURISDICCIONAL
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 254.
+
+Los Magistrados Electorales del Tribunal, serán electos por el Congreso del Estado, conforme a las bases siguientes
+
+I.- El Congreso del Estado emitirá oportunamente convocatoria, publicándola en el Periódico Oficial del Estado y en los diarios de mayor circulación, dirigida a los profesionales del derecho residentes en el Estado, a efecto que se presenten como aspirantes a integrar el Tribunal.
+
+II.- La convocatoria deberá contener por lo menos, el plazo de la inscripción, requisitos que deberán cubrir los aspirantes, el número de Magistrados que se requieren, así como el procedimiento a que se sujetarán para efecto de las evaluaciones correspondientes.
+
+III.- El Congreso del Estado, instruirá una Comisión Especial para atender y dictaminar sobre las solicitudes planteadas y será el Pleno, mediante el voto de las dos terceras partes, el que resuelva sobre los nombramientos.
+
+Si el número de solicitudes planteadas, conforme a lo dispuesto en esta fracción, resultasen insuficientes para nombrar a la totalidad de los Magistrados, subsidiariamente los diputados podrán proponer a la Comisión Especial, a candidatos para tales cargos.
+
+IV.- En el supuesto de que no se aprobasen los dictámenes presentados y habiéndose agotado una segunda ronda de votación, se procederá a nombrarlos mediante el sistema de sorteo, en el cual habrán de considerarse todas aquellas personas cuya solicitud fue aprobada.
+
+En caso de ratificación, previamente a la expedición de la convocatoria respectiva, el Congreso del Estado instruirá una Comisión Especial de su seno con el objeto de entrevistar, evaluar y dictaminar para efectos de ratificación y, será el Pleno el que resuelva, por el voto de las dos terceras partes de sus integrantes, lo conducente.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 255.
+
+Los Magistrados Electorales desempeñarán su cargo durante tres años, pudiendo ser ratificados, hasta por un periodo igual.
+
+Los Magistrados Electorales del Tribunal, percibirán un salario igual al de los Magistrados del Tribunal Superior de Justicia, durante el proceso electoral. Los salarios de los demás servidores del Tribunal, se homologarán a los de sus equivalentes en el Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 256.
+
+Durante el tiempo que ejerzan sus funciones, los Magistrados Electorales no podrán, en ningún caso, aceptar ni desempeñar empleo o encargo en la Federación, Estado, Municipio o de los particulares.
+
+En año electoral, podrán aceptar y desempeñar cargos en asociaciones científicas, docentes, literarias o de beneficencia no remunerados, cuando sean compatibles con el ejercicio de la magistratura.
+
+Durante los años no electorales, la remuneración que reciban será disminuida en un cincuenta por ciento y podrán desempeñar cargos remunerados en asociaciones o instituciones, de carácter científico, docente, literario o de beneficencia.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 257.
+
+Son atribuciones de los Magistrados Electorales, las siguientes:
+
+I.- Concurrir, participar y votar, cuando corresponda, en las sesiones públicas y privadas a las que sean convocados por el Presidente del Tribunal.
+
+II.- Integrar el Pleno del Tribunal, para resolver colegiadamente los asuntos de su competencia.
+
+III.- Formar parte de la Comisión de Administración, cuando sean convocados para tal efecto por el Presidente del Tribunal, de conformidad con lo dispuesto en esta Ley y el Reglamento Interior.
+
+IV.- Admitir los medios de impugnación y los escritos de terceros interesados, en los términos que señale la Ley de la materia.
+
+V.- Formular los proyectos de resolución de los expedientes que les sean turnados para tal efecto.
+
+VI.- Exponer en sesión pública, personalmente o por conducto de un secretario, sus proyectos de resolución o sentencia, señalando las consideraciones jurídicas y los preceptos en que se funden.
+
+VII.- Discutir y votar los proyectos de resolución o sentencia que sean sometidos a su consideración en las sesiones públicas.
+
+VIII.- Formular voto particular razonado, en caso de disentir de un proyecto de resolución aprobado por la mayoría, y solicitar se agregue al expediente.
+
+IX.- Realizar los engroses de los fallos aprobados, cuando sean designados para tales efectos.
+
+X.- Plantear la contradicción de criterios.
+
+XI.- Proponer al Pleno el texto y el rubro de los criterios obligatorios, de conformidad con esta Ley.
+
+XII.- Realizar las tareas de docencia e investigación en el Tribunal.
+
+XIII.- Someter al Tribunal los proyectos de resolución o sentencia, relativos a tener por no interpuestas las impugnaciones o por no presentados los escritos, cuando no cumplan los requisitos que señale la Ley aplicable.
+
+XIV.- Someter al Tribunal los proyectos de resolución o sentencia de desechamiento y de sobreseimiento, en los términos de la Ley de la materia.
+
+XV.- Someter a la consideración del Tribunal, los proyectos de acumulación de las impugnaciones, así como la procedencia de la conexidad, en los términos de la Ley aplicable.
+
+XVI.- Someter al Tribunal, los proyectos de resolución que ordenen archivar como asuntos total y definitivamente concluídos, las impugnaciones que se encuadren en estos supuestos, de conformidad con la Ley aplicable.
+
+XVII.- Formular los requerimientos necesarios para la debida integración de los expedientes, y solicitar al Presidente del Tribunal se requiera cualquier informe o documento que obre en poder de los órganos del Instituto Estatal Electoral, de las autoridades federales, estatales, municipales o de los partidos políticos, o de particulares, que pueda servir para la sustanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos, de conformidad con la Ley aplicable.
+
+XVIII.- Girar exhortos a los juzgados federales o estatales encomendándoles la realización de alguna diligencia en el ámbito de su competencia.
+
+XIX.- Impartir y participar en los programas y cursos de capacitación Judicial Electoral.
+
+XX.- Las demás que sean necesarias para el correcto funcionamiento del Tribunal.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 1998)</small>
+
+### CAPITULO XIV. DE LOS CRITERIOS OBLIGATORIOS
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 258.
+
+El Secretario General del Tribunal, tendrá las siguientes atribuciones:
+
+I.- Apoyar al Presidente del Tribunal en las tareas que le encomiende y en general, auxiliar al Pleno para el ejercicio de sus atribuciones.
+
+II.- Dar cuenta, tomar las votaciones y formular el acta respectiva en las sesiones del Pleno y del Tribunal.
+
+III.- Autorizar con su firma las actuaciones del Pleno y del Tribunal, y expedir las constancias que se requieran.
+
+IV.- Llevar el control del turno de los Magistrados Electorales para conocer los recursos interpuestos, y de las ponencias de resolución o sentencia sobre los mismos.
+
+V.- Llevar el registro de las sustituciones de los Magistrados Electorales.
+
+VI.- Supervisar el debido funcionamiento de la Oficialía de Partes del Tribunal.
+
+VII.- Vigilar que se hagan en tiempo y forma las notificaciones del Tribunal.
+
+VIII.- Supervisar el debido funcionamiento de los archivos jurisdiccionales del Tribunal, y en su momento, su concentración y preservación.
+
+IX.- Conservar en el Archivo Jurisdiccional del Tribunal, los expedientes de los asuntos definitivamente concluídos durante dos años a partir de que se ordene el archivo, y de conformidad con esta Ley, enviarlo en su momento al Archivo del Poder Judicial del Estado, tomando previamente las precauciones pertinentes.
+
+X.- Dictar previo acuerdo con el Presidente del Tribunal, los lineamientos generales, para la identificación e integración de los expedientes.
+
+XI.- Llevar el registro de los criterios que se adopten.
+
+XII.- Acordar con el Presidente del Tribunal, lo relativo a las sesiones del Pleno.
+
+XIII.- Revisar los engroses de las resoluciones del Tribunal.
+
+XIV.- Las demás que le encomiende el Pleno y el Presidente del Tribunal.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+
+### CAPITULO XV. DE LA PROTESTA CONSTITUCIONAL
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 259.
+
+La Comisión de Administración es el órgano auxiliar del Tribunal, en lo que se refiere a la administración, vigilancia, disciplina y carrera judicial del mismo, en los términos de esta Ley.
+
+La Comisión de Administración del Tribunal se integrará por los Magistrados de dicho Tribunal, y dos Consejeros de la Judicatura del Estado. El Presidente del mismo la presidirá; su carácter será permanente y sesionará en las oficinas que a tal efecto se destinen en la sede del Tribunal.
+
+El Titular de la Unidad Administrativa del Tribunal, fungirá como Secretario de la Comisión y concurrirá a las sesiones con voz, pero sin voto.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 260.
+
+La Comisión de Administración, considerando su disponibilidad presupuestal, contará con un Organo Administrativo necesario para el adecuado ejercicio de las funciones que tiene encomendadas.
+
+La estructura y funciones del Organo Administrativo, se determinará en el Reglamento Interior del Tribunal.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 261.
+
+La Comisión de Administración sesionará válidamente con la presencia de tres de sus integrantes, y adoptará sus resoluciones por unanimidad o mayoría de votos de sus integrantes.
+
+Los miembros de la Comisión no podrán abstenerse de votar, salvo que tengan excusa o impedimento legal. En caso de empate el Presidente del Tribunal, tendrá voto de calidad.
+
+Cuando una sesión de la Comisión no se pueda celebrar por la falta de quórum, se convocará nuevamente por el Presidente para que tenga verificativo dentro de las veinticuatro horas siguientes. En este caso, sesionará válidamente con el número de integrantes que se presenten.
+
+El integrante que disintiere de la mayoría, podrá formular voto particular, el cual se insertará en el acta respectiva si fuere presentado dentro de los cinco días siguientes a la fecha del acuerdo.
+
+Las sesiones ordinarias o extraordinarias de la Comisión serán privadas.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 262.
+
+La Comisión de Administración determinará cada año sus períodos de vacaciones, tomando en cuenta los calendarios electorales locales establecidos en la ley de la materia.
+
+Durante sus recesos, la Comisión nombrará a dos de sus miembros para que permanezcan de guardia a efecto de atender los asuntos administrativos urgentes. En caso de que durante el receso surgiere un asunto de otra naturaleza que requiriera de una resolución impostergable, los miembros que estén de guardia podrán tomarla provisionalmente, hasta en tanto se reúne la Comisión para resolverlo en definitiva.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 263.
+
+La Comisión de Administración, tendrá las siguientes atribuciones:
+
+I.- Elaborar el Proyecto de Reglamento Interior del Tribunal y someterlo a la aprobación del Pleno, al igual que las modificaciones al mismo.
+
+II.- Expedir las normas internas en materia administrativa que garanticen el cumplimiento de los acuerdos administrativos y circulares emitidos por el Pleno del Tribunal.
+
+III.- Proponer al Pleno el proyecto de normas internas relativas al ingreso, carrera, escalafón, régimen disciplinario y remoción, así como las referentes a estímulos y capacitación de los servidores del Tribunal, y una vez aprobadas, velar por su cumplimiento.
+
+IV.- Establecer la normatividad y criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, previo acuerdo del Pleno.
+
+V.- Proponer al Pleno las medidas que exijan el buen servicio y la disciplina en el Tribunal.
+
+VI.- Tramitar el nombramiento, licencias y renuncias de los servidores públicos del Tribunal, conforme a lo establecido en esta Ley; así como proponer al Pleno la remoción del personal administrativo.
+
+VII.- Tramitar los requerimientos de recursos humanos, financieros y materiales para el buen funcionamiento del Tribunal.
+
+VIII.- Dictar las bases generales de organización, funcionamiento, coordinación y supervisión del Organo Administrativo de la Comisión.
+
+IX.- Aportar al Presidente del Tribunal, los elementos necesarios para elaborar el proyecto de Presupuesto de Egresos.
+
+X.- Ejercer el Presupuesto de Egresos, de conformidad con las instrucciones que reciba del Presidente del Tribunal.
+
+XI.- Rendir informes trimestrales al Presidente del Tribunal, sobre el ejercicio del Presupuesto de Egresos.
+
+XII.- Proponer al Pleno las bases para las adquisiciones, arrendamientos enajenaciones de todo tipo de bienes, y prestación de servicios de cualquier naturaleza que realice el Tribunal.
+
+XIII.- Administrar los bienes al servicio del Tribunal, cuidando su mantenimiento, conservación y acondicionamiento.
+
+XIV.- Proponer al Pleno las bases de la política informática y estadística del Tribunal.
+
+XV.- Recibir y registrar las declaraciones de situación patrimonial de los servidores del Tribunal, y en su caso, proponer al Pleno normas para el registro y seguimiento de situación patrimonial.
+
+XVI.- Suscribir los convenios de servicio social en el Tribunal y vigilar su cumplimiento.
+
+XVII.- Desempeñar cualquier otra función que la Ley o el Reglamento Interior del Tribunal, le encomienden.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 1998)</small>
+
+### CAPITULO XVI. DE LOS SERVIDORES DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 264.
+
+El Presidente de la Comisión de Administración del Tribunal, tendrá las siguientes atribuciones:
+
+I.- Representar a la Comisión.
+
+II.- Presidir la Comisión, dirigir los debates y conservar el orden durante las sesiones.
+
+III.- Tramitar o turnar, cuando corresponda, los asuntos entre miembros de la Comisión para que se formulen los respectivos proyectos.
+
+IV.- Despachar la correspondencia de la Comisión y firmar las determinaciones y acuerdos.
+
+V.- Vigilar el correcto funcionamiento del Organo Administrativo de la Comisión de Administración.
+
+VI.- Informar al Presidente del Tribunal Superior de Justicia, las vacantes de los representantes del Consejo de la Judicatura en la Comisión de Administración, a efecto de que se haga el nombramiento correspondiente.
+
+VII.- Firmar los convenios relativos a la prestación del servicio social del Tribunal.
+
+VIII.- Las demás que le señale el Reglamento Interior, los acuerdos generales y la Ley.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 265.
+
+El Tribunal, de conformidad con lo que establezcan las leyes de la materia, deberá ser fiscalizado por la Contaduría Mayor de Hacienda del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 266.
+
+La fiscalización a que se refiere el artículo anterior, además de lo que dispongan las leyes aplicables, deberá comprender lo siguiente:
+
+I.- El cumplimiento de las normas de control establecidas por el Pleno del Tribunal.
+
+II.- El cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos del Tribunal.
+
+III.- El cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del Tribunal.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 267.
+
+Para ser electo Magistrado Electoral del Tribunal, se requiere, además de satisfacer los requisitos señalados en el Artículo 60 de la Constitución Política del Estado, los siguientes:
+
+I.- Estar inscrito en el Padrón Estatal Electoral y contar con su Credencial Estatal de Elector.
+
+II.- No ser, ni haber sido Ministro de alguna asociación o culto religioso.
+
+III.- No desempeñar, ni haber desempeñado cargo directivo en algún partido político.
+
+IV.- No haber sido postulado o registrado a cargo de elección popular.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 268.
+
+Para ser Secretario General del Tribunal, se deberán satisfacer los siguientes requisitos:
+
+I.- Ser ciudadano mexicano con residencia efectiva en el Estado no menor de tres años, y en pleno ejercicio de sus derechos políticos y civiles.
+
+II.- Tener treinta años de edad por lo menos, al día de la designación.
+
+III.- Tener Título Profesional, expedido cuando menos con tres años de anterioridad al día de la designación, por institución legalmente facultada.
+
+IV.- Estar inscrito en el Padrón Estatal Electoral y contar con su Credencial Estatal de Elector.
+
+V.- No ser, ni haber sido Ministro de alguna asociación o culto religioso.
+
+VI.- No ser o haber sido dirigente nacional, estatal o municipal de algún partido político.
+
+VII.- No haber sido postulado o registrado a cargos de elección popular, en los últimos seis años anteriores a la elección.
+
+VIII.- Gozar de buena reputación.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 269.
+
+Para ser Secretario del Tribunal, deberán reunirse los requisitos siguientes:
+
+I.- Ser ciudadano mexicano con residencia efectiva en el Estado no menor de tres años, y en pleno ejercicio de sus derechos políticos y civiles.
+
+II.- Haber cumplido por lo menos veinticinco años de edad al día de la designación.
+
+III.- Tener título de Licenciado en Derecho, expedido y registrado en los términos de la Ley de la materia.
+
+IV.- Estar inscrito en el Padrón Estatal Electoral y contar con su Credencial Estatal de Elector.
+
+V.- No haber sido postulado a cargos de elección popular, en los últimos seis años anteriores a la elección.
+
+VI.- Gozar de buena reputación.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 270.
+
+Para ser Actuario del Tribunal, deberán cumplirse con los siguientes requisitos:
+
+I.- Ser ciudadano mexicano con residencia efectiva en el Estado no menor de tres años, y en pleno ejercicio de sus derechos políticos y civiles.
+
+II.- Haber cumplido por lo menos veintitrés años de edad al día de la designación.
+
+III.- Tener título de Licenciado en Derecho, expedido y registrado en los términos de la Ley de la materia.
+
+IV.- Estar inscrito en el Padrón Estatal Electoral y contar con su Credencial Estatal de Elector.
+
+V.- No haber sido postulado a cargos de elección popular, en los últimos seis años anteriores a la elección.
+
+VI.- Gozar de buena reputación.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 271.
+
+Para ser Titular del Organo Administrativo, deberán cumplirse, como mínimo, con los siguientes requisitos:
+
+I.- Ser ciudadano mexicano con residencia efectiva en el Estado no menor de tres años, y en pleno ejercicio de sus derechos políticos y civiles.
+
+II.- Haber cumplido por lo menos veintiocho años de edad al día de la designación.
+
+III.- Tener Título Profesional de Licenciado en Contaduría Pública, Derecho, Administración de Empresas, Economía, Administración Pública o Licenciaturas afines.
+
+IV.- Estar inscrito en el Padrón Estatal Electoral y contar con su Credencial Estatal de Elector.
+
+V.- No haber sido postulado a cargos de elección popular en los últimos seis años anteriores a la elección.
+
+VI.- Gozar de buena reputación.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 272.
+
+El Presidente del Tribunal, a propuesta de la Comisión de Administración, podrá establecer otras categorías de personal jurídico para atender las necesidades del Tribunal, de acuerdo con las partidas autorizadas en su Presupuesto.
+
+La Comisión de Administración, podrá ser autorizada por el Pleno del Tribunal, para contratar con carácter de eventual el personal necesario, cuando las cargas de trabajo extraordinario lo exijan, de conformidad con las partidas autorizadas en su Presupuesto.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 273.
+
+Las responsabilidades de todos los servidores públicos del Tribunal, se regirán por el Título Octavo de la Constitución Política del Estado, el Título Décimo de esta Ley en lo que resulte conducente, y demás disposiciones de este Capítulo. Para estos efectos, las facultades señaladas para el Consejo de la Judicatura del Estado, se entenderán atribuidas al Pleno del Tribunal.
+
+Los Magistrados Electorales del Tribunal, sólo podrán ser removidos de sus cargos, en los términos de la Constitución Política del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 274.
+
+Los Magistrados Electorales deberán excusarse de conocer los asuntos que tengan interés personal por relaciones de parentesco, negocios, amistad estrecha o enemistad que pueda afectar su imparcialidad. El Pleno del Tribunal, calificará y resolverá de inmediato la excusa, de conformidad con el Reglamento Interior, llamando, en su caso, al Magistrado Supernumerario en el orden de prelación señalado por el Congreso del Estado.
+
+Asimismo, al Secretario General y a los secretarios del Tribunal, les será aplicable, lo dispuesto en el párrafo anterior.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 275.
+
+Las relaciones de trabajo de los servidores públicos del Tribunal, se regirán por la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California.
+
+El Pleno del Tribunal, deberá tomar las providencias necesarias para que no se entorpezcan las funciones que le son propias al Tribunal, cuidando que éstas se desarrollen en tiempo y forma.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 276.
+
+Los servidores públicos del Tribunal, gozarán de descanso los días de asueto que apruebe el Pleno, siempre y cuando no afecte el cumplimiento en tiempo y forma de las funciones atribuidas a éste órgano especializado.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 277.
+
+Los servidores públicos del Tribunal, estarán obligados a prestar sus servicios durante las horas que señale la Comisión de Administración por acuerdo del Pleno, tomando en cuenta que durante los procesos electorales todos los días y horas son hábiles.
+
+Durante los procesos electorales locales, podrá preverse en el Presupuesto de Egresos compensaciones para los servidores públicos del Tribunal.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 278.
+
+Las ausencias de los Magistrados Electorales Numerarios, serán cubiertas de conformidad con las reglas siguientes:
+
+I.- Cuando sean temporales, el Presidente del Tribunal lo hará del conocimiento del Pleno, quien dictará un acuerdo convocando al Magistrado Supernumerario que deba cubrirla.
+
+II.- Cuando sean definitivas, se cubrirán por el Magistrado Supernumerario, atendiendo al orden de prelación que haya señalado el Congreso del Estado al momento de la elección o sorteo, hasta en tanto se designa por el Congreso el Magistrado Numerario.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 279.
+
+Las ausencias del Presidente del Tribunal, serán cubiertas de conformidad con las reglas siguientes:
+
+I.- Cuando sean temporales, asumirá la Presidencia el Magistrado Electoral que sea decano, o en su caso, el de mayor edad, integrándose el Magistrado Supernumerario que corresponda.
+
+II.- Cuando sean definitivas, se observará lo dispuesto en la fracción anterior y el Presidente del Tribunal en funciones permanecerá, hasta que se designe por el Congreso del Estado al Magistrado Numerario. Una vez designado, se convocará de inmediato al Pleno para que elija de entre los Magistrados Electorales a quien fungirá como Presidente.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 280.
+
+Se entenderá por ausencia temporal, aquella que exceda el término de quince días, para los efectos de esta Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 281.
+
+Las ausencias por defunción o cualquier otra causa de separación definitiva, serán cubiertas con los Magistrados Supernumerarios, hasta en tanto se aprueba el nombramiento de un nuevo Magistrado Numerario por el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 282.
+
+Las renuncias de los Magistrados Electorales se someterán a la aprobación del Congreso del Estado, por conducto del Presidente del Tribunal, previo acuerdo del Pleno.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 283.
+
+Las licencias que soliciten los Magistrados Electorales por un plazo menor de dos meses, serán acordadas por el Pleno del Tribunal. Cuando excedan de dicho plazo, deberán ser autorizadas por el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 284.
+
+A los servidores públicos del Tribunal, se les podrá conceder licencia para separarse de sus labores, sin goce de sueldo o con goce del mismo, por causa justificada y acreditada, siempre que no se interrumpa o deteriore el buen funcionamiento de las labores del Tribunal, a juicio del Pleno o por enfermedad que les impida trabajar, en este último caso con el certificado médico que se le expida por institución oficial.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 285.
+
+Las licencias de los servidores públicos del Tribunal, se concederán en los términos establecidos por los artículos 104 al 110, en lo que resulte conducente, de esta Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 286.
+
+Las licencias se concederán a los servidores públicos del Tribunal, tomando en consideración que durante los procesos electorales todos los días y las horas son hábiles.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 287.
+
+El Tribunal deberá conservar en su archivo jurisdiccional, los expedientes de los asuntos definitivamente concluidos durante dos años a partir de que se ordene su archivo.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 288.
+
+Concluido el plazo a que se refiere el artículo anterior, el Tribunal remitirá los expedientes al Archivo Judicial del Poder Judicial, y conservará copias de los que requiera, utilizando para ello cualquier método de digitalización, reproducción y reducción.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 289.
+
+El Tribunal fijará criterios que tendrá el carácter de obligatorios, cuando éstos se sustenten en tres sentencias no interrumpidas por otra en contrario.
+
+El carácter de obligatoriedad se perderá cuando se pronuncie una sentencia en contrario por unanimidad de votos de sus integrantes, debiendo expresarse en ella las razones que motiven el cambio de criterio. El nuevo criterio será obligatorio si se da el supuesto señalado en el párrafo anterior.
+
+En el supuesto del párrafo primero de este artículo, los criterios obligatorios que se adopten requerirán de la declaratoria respectiva, y se ordenará por parte del Tribunal, su publicación en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 290.
+
+La protesta constitucional en el Tribunal, se rendirá de la manera siguiente:
+
+I.- Los Magistrados Electorales, la rendirán ante el Congreso del Estado, en el día y hora que éste determine.
+
+II.- El Secretario General, los secretarios, actuarios y el Titular o los Titulares de los Organos Auxiliares, ante el Pleno del Tribunal.
+
+III.- El demás personal, ante el Presidente del Tribunal.
+
+La protesta constitucional será rendida en los términos establecidos por los artículos 14 y 61 de esta Ley.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 291.
+
+Todos los servidores del Tribunal, se conducirán con imparcialidad; velarán por la aplicación irrestricta del principio de legalidad en todas las diligencias y actuaciones en que intervengan en el desempeño de sus funciones, y tendrán la obligación de guardar absoluta reserva sobre los asuntos que sean competencia del Tribunal.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
+###### ARTICULO 292.
+
+Para ser servidor del Tribunal, se deberá cumplir con los requisitos que para cada cargo establezca esta Ley. Para aquellos en que no se exija requisito expreso, se estará a lo dispuesto en el Artículo 13 de este ordenamiento en su parte conducente.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -2194,3 +3074,27 @@ El Consejo de la Judicatura y la Dirección de Control y Evaluación Gubernament
 ###### ARTICULO CUARTO.
 
 La Unidad Administrativa denominada Contraloría del Poder Judicial empezará a ejercer sus funciones una vez que se incluya en el presupuesto que corresponda en los términos de ley.
+
+P.O. 4 DE MAYO DE 1998.
+
+PRIMERO.- Las reformas a esta Ley, entrarán en vigor el día de la publicación del presente Decreto en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- Por esta ocasión, la incorporación del Presidente del Tribunal de Justicia Electoral al Consejo de la Judicatura del Estado, contemplada en las reformas efectuadas a la Constitución Política del Estado y en esta Ley, tendrá lugar a más tardar treinta días después de concluido el proceso electoral de 1998.
+
+TERCERO.- El Consejo de la Judicatura del Estado designará a los dos comisionados a que se refiere el Artículo 259 de esta Ley, en un plazo de quince días naturales a partir de la instalación del Tribunal de Justicia Electoral.
+
+CUARTO.- La Comisión de Administración del Tribunal de Justicia Electoral del Poder Judicial, deberá quedar integrada para que ejerza sus funciones, a más tardar la última semana del mes de Febrero de 1998.
+
+QUINTO.- En tanto se integra la Comisión de Administración y ejerza sus facultades, se autoriza al Presidente del Tribunal de Justicia Electoral del Poder Judicial para tomar las medidas que competan a dicha Comisión.
+
+SEXTO.- El personal Jurídico que presta actualmente sus servicios en el Tribunal de Justicia Electoral, continuará en sus cargos, a excepción de los jueces instructores; de la misma forma seguirá prestando sus servicios el actual personal administrativo, estando sujetos al régimen laboral establecido en el presente Decreto.
+
+SEPTIMO.- La (sic) unidades y órganos con que actualmente cuenta el Tribunal de Justicia Electoral, seguirán funcionando hasta en tanto se integra el Tribunal Electoral del Poder Judicial del Estado y se expidan las normas o se tomen las decisiones pertinentes, conforme a los preceptos que se establecen en el presente Decreto.
+
+OCTAVO.- Las fracciones XXIX del Artículo 253 y IX del Artículo 262 de esta Ley, entrarán en vigor para el ejercicio presupuestal de 1999. Para el ejercicio de 1998, de conformidad con las leyes de la materia, el Tribunal de Justicia Electoral, presentará y aplicará el presupuesto que se programe para el Tribunal de Justicia Electoral del Poder Judicial del Estado, con las modificaciones que se requieran para su nueva estructura y funciones.
+
+NOVENO.- La totalidad de los bienes muebles e inmuebles destinados al Tribunal de Justicia Electoral, quedarán destinados al Tribunal de Justicia Electoral del Poder Judicial del Estado, a fin de garantizar su adecuado funcionamiento.
+
+DECIMO.- Si a la entrada en vigor de este Decreto se encuentra en trámite algún medio de impugnación ante el Tribunal de Justicia Electoral, será resuelto conforme a las normas vigentes al momento de su interposición.
+
+DECIMO PRIMERO.- El Reglamento Interior del Tribunal de Justicia Electoral del Poder Judicial del Estado, deberá ser expedido a más tardar el día último del mes de Marzo de 1998.
