@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1988-04-11"
+last_updated: "1989-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1989.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -515,7 +515,9 @@ VIII.- Dictar normas para la administración, conservación y enajenación de lo
 
 IX.- Expedir leyes en materia de Hacienda, tanto en lo relativo al Estado como al Municipio. Estas leyes en ningún caso podrán ordenar que el Estado disponga de los fondos municipales;
 
-X.- (DEROGADA, P.O. 8 DE DICIEMBRE DE 1983)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 1989)</small>
+
+X.- Aprobar las leyes de ingresos de los Ayuntamientos y revisar sus cuentas públicas.
 
 XI.- Legislar en materia de ingresos y egresos del Estado;
 
@@ -873,7 +875,7 @@ El Secretario General de Gobierno, será el órgano por el cual el Ejecutivo com
 
 El Gobernador podrá autorizar que comparezca ante el Congreso los titulares de las dependencias básicas del Poder Ejecutivo, a rendir informes sobre el estado que guarde el ramo respectivo o cuando se discuta alguna ley, decreto o asunto de su competencia.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 1978)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
 ###### Artículo 65.
 
@@ -1395,7 +1397,7 @@ El Presidente, el Síndico y los Regidores de los Ayuntamientos, serán electos 
 
 ###### Artículo 116.
 
-Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
+Los Presidente Municipales, Síndicos y Regidores de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 1987)</small>
 
@@ -1425,7 +1427,9 @@ III.- No ser funcionario de la Federación, del Estado o municipal, ni tener man
 
 IV.- No ser ni haber sido ministro o delegado de algún culto religioso;
 
-V.- No estar comprendido en ninguno de los casos que señala el artículo 117.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1989)</small>
+
+V.- No estar comprendido en ninguno de los casos que señala el artículo 116.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2150,3 +2154,7 @@ P.O. 11 DE ABRIL DE 1988.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, por tratarse de adecuaciones a la Constitución Política de los Estados Unidos Mexicanos, con la sola aprobación de la Sexagésima Cuarta Legislatura.
+
+P.O. 14 DE AGOSTO DE 1989.
+
+UNICO. Este decreto entrará en vigor el día siguiente al de su publicación, en el Periódico Oficial del Estado.
