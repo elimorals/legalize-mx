@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2003-08-19"
+last_updated: "2003-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2003.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -469,9 +469,11 @@ III.- Vincular la educación inicial con la preescolar; y
 
 IV.- Ofrecer servicios médicos, psicológicos, de trabajo social, pedagógico y de nutrición.
 
-###### ARTICULO 28.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2003)</small>
 
-El personal que atienda a los niños en este nivel de educación deberá contar con una preparación profesional adecuada y acreditarlo.
+###### Artículo 28.
+
+El personal que atienda a los niños en este nivel de educación deberá ser egresado de aquellas instituciones que impartan la educación de tipo superior o de educación normal en todos sus niveles y especialidades.
 
 ### CAPÍTULO IV
 
@@ -1642,3 +1644,9 @@ DECRETO 20040
 PRIMERO.- Este decreto entrará en vigor el próximo ciclo escolar previa su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- Quedarán a salvo los derechos de quienes ejerzan el cargo previo a la reforma.
+
+P.O. 28 DE AGOSTO DE 2003.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Quedarán a salvo los derechos de quienes ejerzan el cargo previo a la reforma.
