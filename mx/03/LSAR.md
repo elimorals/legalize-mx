@@ -4,7 +4,7 @@ identifier: "LSAR"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-23"
-last_updated: "1999-05-17"
+last_updated: "2000-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2613&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSAR"
 
 LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 2000.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de mayo de 1996.
 
@@ -302,7 +302,7 @@ XI. Emitir opinión sobre el procedimiento de contratación de seguros de vida o
 
 XII. Conocer sobre los criterios generales para la supervisión de los participantes en los sistemas de ahorro para el retiro;
 
-XIII. Emitir opinión sobre las reglas de carácter general que en materia de publicidad y comercialización expida la Comisión;
+XIlI. Emitir opinión sobre las reglas de carácter general que en materia de publicidad y comercialización expida la Comisión;
 
 XIV. Emitir opinión sobre el establecimiento de criterios generales para la substanciación del procedimiento arbitral previsto en la presente ley;
 
@@ -432,7 +432,7 @@ Las inversiones con cargo al capital mínimo pagado exigido de las administrador
 
 I. No excederá del 40% del capital mínimo pagado exigido el importe de las inversiones en mobiliario y equipo, en inmuebles, en derechos reales que no sean de garantía o en gastos de instalación, más el importe de las inversiones en el capital de las empresas que les presten servicios complementarios o auxiliares; y
 
-Il. El importe restante del capital mínimo pagado exigido deberá invertirse en acciones de las sociedades de inversión que administren.
+II. El importe restante del capital mínimo pagado exigido deberá invertirse en acciones de las sociedades de inversión que administren.
 
 La Comisión podrá autorizar un porcentaje mayor al establecido en la fracción I de este artículo sin que pueda exceder del 60%.
 
@@ -478,11 +478,7 @@ Las funciones del contralor normativo se ejercerán sin perjuicio de las que cor
 
 ###### ARTICULO 31.
 
-Las administradoras deberán contar con una unidad especializada que tenga por objeto atender consultas y reclamaciones de los trabajadores y patrones. La unidad especializada deberá estar a cargo de un funcionario que pueda obligar a la administradora y su funcionamiento se sujetará a lo que disponga el Reglamento de esta Ley.
-
-La unidad especializada deberá informar al Consejo de Administración de la administradora y a la Comisión sobre las consultas y reclamaciones que reciba.
-
-Lo establecido en el presente artículo es sin perjuicio del derecho de los usuarios para acudir al procedimiento de conciliación y arbitraje ante la Comisión, directa o indirectamente, de conformidad con el artículo 187 de la Ley del Seguro Social.
+(DEROGADO, D.O.F. 5 DE ENERO DE 2000)
 
 ###### ARTICULO 32.
 
@@ -534,7 +530,7 @@ En ningún caso, las administradoras podrán cobrar comisiones por entregar los 
 
 Las administradoras tendrán prohibido, salvo lo dispuesto por esta ley:
 
-l. Emitir obligaciones;
+I. Emitir obligaciones;
 
 II. Gravar de cualquier forma su patrimonio;
 
@@ -802,9 +798,9 @@ La revocación de la autorización producirá la disolución y la liquidación d
 
 Previo a la revocación de la autorización, la Comisión deberá proceder conforme a lo siguiente:
 
-I. Notificar personalmente al interesado la determinación de revocar la autorización de que se trate;
+l. Notificar personalmente al interesado la determinación de revocar la autorización de que se trate;
 
-II. Conceder al interesado un plazo de 15 días hábiles siguientes a la fecha en que surta efectos la notificación, a fin de que manifieste lo que a su derecho convenga, ofreciendo o acompañando, en su caso, las pruebas que considere convenientes; y
+Il. Conceder al interesado un plazo de 15 días hábiles siguientes a la fecha en que surta efectos la notificación, a fin de que manifieste lo que a su derecho convenga, ofreciendo o acompañando, en su caso, las pruebas que considere convenientes; y
 
 III. Una vez analizados los argumentos hechos valer y desahogadas y valoradas las pruebas ofrecidas, la Comisión dictará y notificará la resolución correspondiente, la cual no admitirá recurso administrativo alguno.
 
@@ -908,7 +904,7 @@ XI. El cambio de la nacionalidad del concesionario;
 
 XII. Ceder, hipotecar, gravar, transferir o enajenar las concesiones o los derechos en ellas conferidos, así como a otros particulares, nacionales o extranjeros;
 
-XIlI. Suspender, en forma total, la prestación de los servicios sin autorización de la Secretaría de Hacienda y Crédito Público, salvo en caso fortuito o de fuerza mayor;
+XIII. Suspender, en forma total, la prestación de los servicios sin autorización de la Secretaría de Hacienda y Crédito Público, salvo en caso fortuito o de fuerza mayor;
 
 XIV. Prestar servicios distintos a los señalados en la concesión respectiva;
 
@@ -966,7 +962,7 @@ A los integrantes de la Junta de Gobierno y del Comité Consultivo y de Vigilanc
 
 Las sociedades de inversión sólo podrán adquirir valores que sean objeto de oferta pública, a través de colocaciones primarias o a través de operaciones de mercado abierto.
 
-l. Tratándose de colocaciones primarias, las sociedades de inversión tendrán prohibido adquirir valores de:
+. Tratándose de colocaciones primarias, las sociedades de inversión tendrán prohibido adquirir valores de:
 
 a) Empresas con las que tengan nexos patrimoniales, de control administrativo o formen parte del mismo grupo al que pertenezcan, y
 
@@ -1142,7 +1138,7 @@ XI. Determinar los días en que las sociedades de inversión y las administrador
 
 XII. Vigilar el debido cumplimiento de lo establecido por cada sociedad de inversión en sus prospectos de información a los trabajadores; y
 
-XIII. Ejercer las demás facultades que, en materia de supervisión, se atribuyen a la misión en la presente ley.
+XIII. Ejercer las demás facultades que, en materia de supervisión, se atribuyen a la Comisión en la presente ley.
 
 ###### ARTICULO 91.
 
@@ -1585,3 +1581,15 @@ D.O.F. 17 DE MAYO DE 1999.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE ENERO DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En tanto se expide el Estatuto Orgánico a que se refiere esta Ley, continuará vigente en todos sus términos el Reglamento Interior.
+
+TERCERO.- Todos aquellos procedimientos en que intervenga la Comisión Nacional o alguna de sus unidades administrativas y que hasta la fecha de entrada en vigor de este Decreto estén en curso, serán concluidos de manera definitiva, de conformidad con las disposiciones que se encontraban vigentes al momento de iniciarse el procedimiento.
+
+CUARTO.- Las Instituciones Financieras deberán constituir las Unidades Especializadas a que se refiere el artículo 50 Bis de la Ley de Protección y Defensa al Usuario de Servicios Financieros, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO.- La Comisión Nacional contará con un plazo de 120 días hábiles para la expedición y publicación en el Diario Oficial de la Federación, a que hace referencia el primer párrafo del artículo 72 Bis.
