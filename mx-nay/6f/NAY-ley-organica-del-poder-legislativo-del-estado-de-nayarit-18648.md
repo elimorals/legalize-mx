@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-18648"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-03-08"
-last_updated: "2004-09-11"
+last_updated: "2004-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 8 de marzo de 2000.
 
@@ -987,9 +987,9 @@ El Auditor General del Órgano de Fiscalización Superior del Estado, será el r
 
 ## TITULO DECIMO. OTRAS FACULTADES Y ATRIBUCIONES DEL CONGRESO
 
-### CAPITULO UNICO. DE LA DESIGNACION O RATIFICACION DE NOMBRAMIENTOS DE
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
-FUNCIONARIOS DEL GOBIERNO DEL ESTADO
+### CAPITULO UNICO. DE LA DESIGNACION O RATIFICACION DE NOMBRAMIENTOS DE SERVIDORES PUBLICOS DEL ESTADO
 
 ###### ARTICULO 109.
 
@@ -1005,11 +1005,29 @@ El Congreso o la Diputación Permanente designarán de entre las propuestas de l
 
 En igual forma la Asamblea o la Diputación Permanente en su caso, designará o ratificará el nombramiento de otros funcionarios que requieran de su intervención.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DEL 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
-###### ARTICULO 112.
+###### Artículo 112.
 
-La Asamblea o la Diputación Permanente otorgará o negará la ratificación del nombramiento del Procurador General de Justicia conforme lo dispuesto en la Constitución Política del Estado.
+La Asamblea o la Diputación Permanente otorgará o negará la ratificación del nombramiento del Procurador General de Justicia, conforme lo dispuesto en la Constitución Política del Estado; y en los términos de la presente Ley, designará al Titular de la Fiscalía contra Delitos Electorales en el Estado de Nayarit, quien será nombrado mediante convocatoria pública abierta que al efecto emita el Honorable Congreso del Estado, requiriéndose para su designación el voto de las dos terceras partes de los diputados presentes en la sesión que para con ese motivo se convoque y durará en su encargo cuatro años pudiendo ser ratificado por una sola vez.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
+
+Artículo 112 bis.- El procedimiento para la ratificación y nombramiento de los servidores públicos competencia del Honorable Congreso del Estado, atenderá las siguientes reglas:
+
+I.- El Presidente de la Mesa Directiva turnará a la Comisión competente, las solicitudes de ratificación, propuestas de nombramiento o registro de aspirantes al cargo de servidores públicos cuya designación corresponde al Honorable Congreso del Estado, que se hubieren recibido.
+
+II.- La Comisión competente radicará el procedimiento respectivo, requiriendo de los interesados su expediente personal curricular y demás elementos que soporten los requisitos y condiciones de elegibilidad propios del cargo de que se trate.
+
+III.- En todos los casos la Comisión competente recibirá la comparecencia de quienes han solicitado su ratificación o registro, o son propuestos para un cargo público de los que se reserva su nombramiento al Honorable Congreso del Estado de Nayarit.
+
+IV.- Tratándose del Titular de la Fiscalía contra Delitos Electorales en el Estado de Nayarit, así como de los demás nombramientos en que el Congreso del Estado este facultado para ese efecto, se emitirá convocatoria pública a los gremios, instituciones y profesionales en la materia de que se trate, para que acudan a presentar propuestas o a expresar su interés en ser incluidos como aspirantes al cargo, satisfaciéndose las formalidades previstas en las fracciones I, II y III de este artículo.
+
+La convocatoria deberá publicarse con toda oportunidad cuando menos dos veces con un mínimo de tres y un máximo de ocho días entre una y la otra, en el Periódico Oficial del Gobierno del Estado de Nayarit, en la Gaceta Parlamentaria del Honorable Congreso del Estado y en dos diarios de circulación estatal, así como en los estrados de la Institución que corresponda y del Honorable Congreso del Estado de Nayarit.
+
+V.- La Comisión competente deberá emitir su dictamen, dentro de los diez días siguientes al de la comparecencia a que se refiere la fracción III, el que será sometido al Pleno del Congreso para los efectos de su discusión y aprobación en su caso.
+
+Si no se aprueba por la Asamblea General el dictamen a que se refiere el párrafo anterior, se ordenará por el Presidente de la Mesa Directiva, que éste se tenga como desechado y se devolverá a la Comisión, para que atendiendo las razones expuestas por la Asamblea emita un nuevo dictamen dentro del término de cinco días.
 
 ## TITULO DECIMO PRIMERO. DEL SERVICIO CIVIL DE CARRERA
 
@@ -1198,3 +1216,11 @@ Segundo.- Por lo que respecta a la numeración progresiva de los expedientes leg
 P.O. 11 DE SEPTIEMBRE DE 2004.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 22 DE SEPTIEMBRE DE 2004.
+
+Artículo Primero.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Nayarit, de conformidad a lo dispuesto por el Artículo 58 de la Constitución Política del Estado de Nayarit.
+
+Articulo Segundo.- Se deberán tomar las previsiones presupuestales a efecto de que la Fiscalía contra Delitos Electorales inicie sus funciones el día uno de enero del año dos mil cinco.
+
+Artículo Tercero.- El Honorable Congreso del Estado de Nayarit hará la designación del titular de la Fiscalía contra Delitos Electorales a más tardar el día 30 de noviembre de 2004.
