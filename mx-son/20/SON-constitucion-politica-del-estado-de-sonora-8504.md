@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1926-12-11"
+last_updated: "1928-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE DICIEMBRE DE 1926.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE ABRIL DE 1928.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -337,7 +337,7 @@ En todos los casos en que por cualquiera causa desaparezca el Congreso, el Ejecu
 
 ###### Artículo 40.
 
-Para designar el Congreso electo en la forma establecida en el Artículo anterior, se añadirá al número que le corresponda la palabra "BIS", si dentro del periodo constitucional del Congreso desaparecido se instalare el nuevo.
+Para designar el Congreso electo en la forma establecida en el Artículo anterior, se añadirá al número que le corresponda la palabra "BIS", si dentro del período constitucional del Congreso desaparecido se instalare el nuevo.
 
 ###### Artículo 41.
 
@@ -365,7 +365,7 @@ A la apertura de cada período de sesiones ordinarias asistirán el Gobernador y
 
 ###### Artículo 47.
 
-Los Diputados que no concurran a una sesión sin causa justificada o sin permiso del Congreso, no tendrán derecho a la dieta correspondiente.
+Los Diputados que no concurran a una sesión sin causa justificada, o sin permiso del Congreso, no tendrán derecho a la dieta correspondiente.
 
 ###### Artículo 48.
 
@@ -817,6 +817,8 @@ Todo empleado de Hacienda que tenga algún manejo en los caudales del Estado lo 
 
 Jueces de Primera Instancia, Locales y Menores.
 
+> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
+
 ###### Artículo 89.
 
 La Instrucción Pública quedará bajo la dirección del Ejecutivo del Estado y sujeta a las leyes reglamentarias respectivas.
@@ -875,19 +877,23 @@ X. Las demás que le señalen las leyes, tanto federales como del Estado.
 
 El Ministerio Público se ejercerá por un Procurador de Justicia y los Agentes de su dependencia.
 
+> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
+
 ###### Artículo 98.
 
-El Procurador General de Justicia será electo por el Congreso de entre los candidatos propuestos por los Ayuntamientos, durará en su encargo cuatro años y podrá fungir en períodos sucesivos.
+El Procurador General de Justicia será electo por el Congreso a propuesta en terna que haga el Ejecutivo, debiendo durar en su encargo cuatro años y pudiendo ser reelecto para los períodos sucesivos.
+
+> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
 
 ###### Artículo 99.
 
-Para ser procurador General de Justicia se requiere:
+Para ser Procurador General de Justicia se requiere:
 
-I. Ser mexicano, ciudadano en pleno ejercicio de sus derechos.
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos.
 
 II. No haber sido condenado por robo, fraude, falsificación, abuso de confianza u otro delito infamante.
 
-III. Tener cuando menos treinta años de edad y ser de reconocida moralidad.
+III. Tener cuando menos veinticinco años de edad y ser de reconocida moralidad.
 
 ###### Artículo 100.
 
@@ -897,9 +903,11 @@ El cargo de Procurador General de Justicia no es renunciable sino por causa grav
 
 El Procurador rendirá la protesta de Ley ante el Congreso o la Diputación Permanente en su caso.
 
+> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
+
 ###### Artículo 102.
 
-Al mismo tiempo que se elija Procurador Propietario se elegirá a un Suplente de conformidad con los Artículos que anteceden.
+Las faltas accidentales y temporales del Procurador General de Justicia, se suplirán en la forma que determine la Ley Orgánica del Ministerio Público.
 
 ###### Artículo 103.
 
@@ -953,21 +961,27 @@ Para ser Defensor de Oficio se requieren los mismos requisitos que para ser Agen
 
 El Poder Judicial se deposita, para su ejercicio, en un Supremo Tribunal de Justicia y en los Jueces de Primera Instancia, Locales y Menores.
 
+> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
+
 ###### Artículo 113.
 
-El Supremo Tribunal de Justicia se compondrá de tres Magistrados Propietarios y seis Suplentes, electos cada cuatro años por el Congreso del Estado, a propuesta de los Ayuntamientos, en la forma que establezca la Ley, y podrán ser reelectos.
+El Supremo Tribunal de Justicia del Estado, se compondrá de tres Magistrados Propietarios y seis Suplentes, electos cada cuatro años por el Congreso del Estado, pudiendo ser reelectos. Habrá también Magistrados insaculados, cuyo nombramiento se hará en la forma que indique la Ley Orgánica respectiva.
+
+> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
 
 ###### Artículo 114.
 
-Para ser Magistrado se requiere: Ser mexicano de nacimiento, ciudadano en pleno ejercicio de sus derechos, tener treinta años cumplidos al tiempo de la elección y no haber sido condenado en proceso legal por ningún delito criminal.
+Para ser Magistrado se requiere: Ser ciudadano mexicano en pleno ejercicio de sus derechos, tener cuando menos veinticinco años cumplidos al tiempo de la elección, no haber sido condenado en proceso legal por ningún delito y ser de reconocida moralidad.
 
 ###### Artículo 115.
 
 El cargo de Magistrado solamente es renunciable por causa grave calificada por el Congreso.
 
+> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
+
 ###### Artículo 116.
 
-Los Magistrados rendirán la protesta de Ley ante el Congreso o ante la Diputación Permanente.
+Los Magistrados Propietarios y Suplentes, rendirán la protesta de Ley ante el Congreso del Estado o ante la Diputación Permanente, y los insaculados ante el Presidente del Supremo Tribunal.
 
 ###### Artículo 117.
 
@@ -1017,9 +1031,11 @@ XV. Dar al Congreso y al Ejecutivo los informes que le pidan sobre el Ramo Judic
 
 XVI. Las demás que le confieran o demarquen las leyes, ya sean federales o del Estado.
 
+> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
+
 ###### Artículo 121.
 
-Si un Magistrado no pudiere conocer de un asunto y éste fuere de la Sala Unitaria, se pasarán los autos a las siguientes Salas, por su orden numérico y repitiendo la serie; agotadas las Salas, se llamará a los Magistrados Suplentes hábiles, por su orden. Si el asunto fuere de Sala Colegiada se llamará desde luego al Suplente que corresponda.
+Si un Magistrado se excusase o tuviere impedimento para conocer de un asunto y éste fuere de la competencia de la Sala Unitaria, se pasarán los autos a la siguiente por orden numérico repitiendo la serie; agotadas las Salas, se llamará a los Magistrados Suplentes hábiles, por su orden. Si el asunto fuere de Sala Colegiada, se llamará desde luego al Suplente que corresponda, y agotado el número de Propietarios y Suplentes, se procederá a integrar la Sala Unitaria o Colegiada en su caso, con Magistrados insaculados.
 
 ###### Artículo 122.
 
@@ -1027,27 +1043,29 @@ Los Ministros que estén en el ejercicio de sus funciones, no pueden ser abogado
 
 ###### Artículo 123.
 
-Los jueces de Primera Instancia serán nombrados por el Supremo Tribunal, cada dos años, a propuesta de los Ayuntamientos respectivos y podrán desempeñar el cargo en períodos sucesivos.
+Los jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia del Estado, a propuesta en terna por el Ejecutivo, durando en su ejercicio dos años, y podrán desempeñar el cargo en períodos sucesivos.
+
+> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
 
 ###### Artículo 124.
 
 Para ser Juez de Primera Instancia se requiere:
 
-I. Ser mexicano, ciudadano en pleno ejercicio de sus derechos y mayor de veinticinco años.
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos y tener cuando menos veinticinco años de edad.
 
-II. Las demás que se exigen a los magistrados del Supremo Tribunal.
+II. Tener la competencia necesaria a juicio del Supremo Tribunal, no haber sido condenado en juicio legal por ningún delito infamante y ser de reconocida moralidad.
 
 ###### Artículo 125.
 
 Los Jueces Locales y los Menores, serán nombrados cada dos años, por los Jueces de Primera Instancia a propuesta de los Ayuntamientos, y podrán desempeñar sus cargos en períodos sucesivos.
 
+> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
+
 ###### Artículo 126.
 
 Para ser Juez Local o Menor se requiere:
 
-I. Ser mexicano, ciudadano en pleno ejercicio de sus derechos y mayor de veinticinco años.
-
-II. No haber sido condenado a pena corporal por delito del orden común y ser de reconocida buena conducta y moralidad.
+Ser ciudadano mexicano en pleno ejercicio de sus derechos, tener la competencia necesaria a juicio del Juez de Primera Instancia que lo nombre y ser de reconocida buena conducta.
 
 ###### Artículo 127.
 
@@ -1273,7 +1291,7 @@ Todo funcionario o empleado público tiene el deber de protestar antes de encarg
 
 ###### Artículo 158.
 
-Será motivo de responsabilidad el hecho de que las autoridades, funcionarios o empleados del Estado o de los Municipios, ejecuten en perjuicio de tercero o de la sociedad, actos que no les están mandados o permitidos expresamente por la Ley.
+Será motivo de responsabilidad el hecho de que las autoridades, funcionarios o empleados del Estado o de los Municipios, ejecuten en perjuicio de tercero o de la Sociedad, actos que no les están mandados o permitidos expresamente por la Ley.
 
 ###### Artículo 159.
 
@@ -1333,7 +1351,7 @@ La presente Constitución será promulgada por bando solemne, en esta Villa, el 
 
 ###### Artículo 2.
 
-Las Leyes, Decretos, Circulares y Disposiciones de observancia general que se han estado aplicando hasta hoy, continuarán en vigor, en todo aquello en que no contravengan a esta Constitución.
+Las Leyes, Decretos, Circulares y Disposiciones de observancia general, que se han estado aplicando hasta hoy, continuarán en vigor, en todo aquello en que no contravengan a esta Constitución.
 
 ###### Artículo 3.
 
@@ -1392,6 +1410,10 @@ B.O. 11 DE DICIEMBRE DE 1926.
 Primero.- Solamente la próxima renovación de Presidentes Municipales de los actuales Ayuntamientos que debe efectuarse en el mes de marzo de mil novecientos veintisiete, se sujetará a lo dispuesto por el artículo 134 que figura en la Ley número 29 de 11 de diciembre de 1923.
 
 Segundo.- Esta Ley entrará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 25 DE ABRIL DE 1928.
+
+UNICO.- Esta Ley entrará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
 
 ###### ARTÍCULO ÚNICO.
 
