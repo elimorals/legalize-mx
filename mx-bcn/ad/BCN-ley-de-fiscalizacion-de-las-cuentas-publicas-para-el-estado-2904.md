@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-de-las-cuentas-publicas-para-el-estado-290
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-20"
-last_updated: "2002-11-08"
+last_updated: "2003-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FISCALIZACION DE LAS CUENTAS PUBLICAS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2003.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 20 de septiembre de 1992.
 
@@ -55,11 +55,15 @@ III.- Los Ayuntamientos; y
 
 IV.- Los Organismos o instituciones que administren o manejen fondos o valores públicos.
 
-El desempeño de las funciones de la Contaduría Mayor de Hacienda estarán bajo la vigilancia y control de la Comisión de Hacienda y Administración.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2003)</small>
+
+El desempeño de las funciones de la Contaduría Mayor de Hacienda estarán bajo la vigilancia y control de la Comisión del Congreso del Estado que disponga la Ley Orgánica del Poder Legislativo del Estado de Baja California.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 3.
 
-La revisión de la Cuenta Pública del Congreso del Estado, estará a cargo de la Comisión de Hacienda y Administración.
+La revisión de la Cuenta Pública del Poder Legislativo, estará a cargo de la Comisión que el Congreso del Estado defina en su ley orgánica.
 
 La revisión y dictamen de la Cuenta Pública del Congreso se sujetará a las disposiciones de esta Ley.
 
@@ -105,7 +109,9 @@ f) Que las inversiones y gastos autorizados a las Entidades en sus Presupuestos 
 
 Las visitas, inspecciones y auditorías podrán practicarse respecto del ejercicio fiscal en curso o de cualquier otro concluido.
 
-II.- Dar cuenta a la Comisión de Hacienda y administración del avance o resultado de la revisión de la Cuenta Pública Anual de todas las Entidades, obligadas a rendirlas, a mas tardar el día 31 de mayo inmediato siguiente a la conclusión de cada ejercicio fiscal a que corresponda la Cuenta Pública, fecha en que deberán quedar terminadas las revisiones.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE ENERO DE 2003)</small>
+
+II.- Dar cuenta a la Comisión a la que corresponda vigilar su funcionamiento, del avance o resultado de la revisión de la Cuenta Pública Anual de todas las Entidades, obligadas a rendirlas, a más tardar el día 31 de mayo inmediato siguiente a la conclusión de cada ejercicio fiscal a que corresponda la Cuenta Pública, fecha en que deberán quedar terminadas las revisiones.
 
 En la revisión se tomará en consideración:
 
@@ -121,7 +127,9 @@ e) El análisis de los subsidios, transferencias, apoyos para operación e inver
 
 f) En su caso, el análisis de las desviaciones presupuestales.
 
-En aquéllos casos en que a la Contaduría Mayor de Hacienda del Congreso del Estado no le fuere suficiente el plazo señalado en el primer párrafo de esta fracción, lo hará del conocimiento de la Comisión de Hacienda y Administración y solicitará una prórroga para concluir la revisión, expresando los razonamientos que funden y motiven su petición. En ningún caso la prórroga excederá de siete meses;
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2003)</small>
+
+En aquellos casos en que a la Contaduría Mayor de Hacienda del Congreso del Estado no le fuere suficiente el plazo señalado en el primer párrafo de esta fracción, lo hará del conocimiento de la Comisión a la que corresponda vigilar su funcionamiento y solicitará una prórroga para concluir la revisión, expresando los razonamientos que funden y motiven su petición. En ningún caso la prórroga excederá de siete meses;
 
 III.- Fiscalizar los subsidios que otorgue el Gobierno del Estado y los Ayuntamientos, cualesquiera que sean los fines de su destino, así como verificar su aplicación al objeto autorizado;
 
@@ -137,17 +145,23 @@ VIII.- Ejecutar los convenios de coordinación, colaboración y cooperación té
 
 IX.- Establecer las normas, técnicas y procedimientos de auditoría gubernamental, criterios básicos de fiscalización y demás sistemas internos para la revisión de la Cuenta Pública Anual o Mensual de las Entidades;
 
-X.- Informar fundada y motivadamente al Congreso del Estado a través de la Comisión de Hacienda y Administración, los casos en que se deba solicitar a las autoridades competentes el fincamiento de responsabilidades que provengan de la aplicación de esta Ley;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2003)</small>
+
+X.- Informar fundada y motivadamente al Congreso del Estado a través de la Comisión a la que corresponda vigilar su funcionamiento, los casos en que se deba solicitar a las autoridades competentes el fincamiento de responsabilidades que provengan de la aplicación de esta Ley;
 
 XI.- Realizar las investigaciones necesarias para el cumplimiento de sus atribuciones y las demás funciones que le correspondan de acuerdo con esta Ley y las demás disposiciones que expida el Congreso del Estado;
 
-XII.- Citar o requerir, a través de la Comisión de Hacienda y Administración, mediante oficio fundado y motivado, la presencia en las oficinas de la Contaduría Mayor de Hacienda del Congreso del Estado, a los servidores públicos que tengan o hayan tenido relación con el manejo de la cuenta pública, para el esclarecimiento de los hechos u omisiones.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2003)</small>
 
-Los servidores públicos antes mencionados, tendrán la obligación de presentarse ante la Contaduría Mayor de Hacienda del Congreso dentro de los 10 días siguientes de haber recibido en forma personal o por correo certificado con acuse de recibo el oficio por el que se solicita o requiere su presencia. En caso de negativa o incumplimiento la Contaduría Mayor de Hacienda del Congreso del Estado lo hará del conocimiento de la Comisión de Hacienda y Administración para que el Congreso del Estado resuelva lo procedente;
+XII.- Citar o requerir, a través de la Comisión a la que corresponda vigilar su funcionamiento, mediante oficio fundado y motivado, la presencia en las oficinas de la Contaduría Mayor de Hacienda del Congreso del Estado, a los servidores públicos que tengan o hayan tenido relación con el manejo de la cuenta pública, para el esclarecimiento de los hechos u omisiones.
+
+Los servidores públicos antes mencionados, tendrán la obligación de presentarse ante la Contaduría Mayor de Hacienda del Congreso dentro de los 10 días siguientes de haber recibido en forma personal o por correo certificado con acuse de recibo el oficio por el que se solicita o requiere su presencia. En caso de negativa o incumplimiento la Contaduría Mayor de Hacienda del Congreso del Estado lo hará del conocimiento de la Comisión encargada de vigilar su funcionamiento, para que el Congreso del Estado resuelva lo procedente;
 
 XIII.- Elaborar los estudios económicos, administrativos, contables y fiscales que le solicite el Congreso del Estado o sus Comisiones;
 
-XIV.- Rendir a la Comisión de Hacienda y Administración informe de labores, cuando menos con 10 días de anticipación al término de los períodos ordinarios de sesiones del Congreso del Estado.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2003)</small>
+
+XIV.- Rendir a la Comisión a la que corresponda vigilar su funcionamiento informe de labores, cuando menos con 10 días de anticipación al término de los períodos ordinarios de sesiones del Congreso del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
@@ -183,9 +197,11 @@ XI.- Cualquier otra opinión solicitada por el Congreso del Estado o de sus Comi
 
 ### CAPITULO SEGUNDO. DEL CONTADOR MAYOR DE HACIENDA Y DE SUS ATRIBUCIONES
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 9.
 
-Al frente de la Contaduría Mayor de Hacienda del Congreso del Estado de Baja California, como titular estará un Contador Mayor de Hacienda quien será auxiliado por un Subcontador Mayor de Hacienda nombrados por el Congreso del Estado y será auxiliado por el demás personal que sea necesario.
+Al frente de la Contaduría Mayor de Hacienda del Congreso del Estado de Baja California, como titular estará un Contador Mayor de Hacienda quien será auxiliado por el personal que sea necesario para el mejor desempeño de sus funciones.
 
 ###### ARTICULO 10.
 
@@ -213,9 +229,11 @@ VII.- En general, todas y cada una de las atribuciones y obligaciones establecid
 
 ### CAPITULO TERCERO. DE LAS INICIATIVAS DE LEYES DE INGRESOS Y PROYECTOS DE PRESUPUESTOS DE EGRESOS DE LAS ENTIDADES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 11.
 
-Para los efectos de emitir la opinión a que se refieren las fracciones II, III y VI del Artículo 8 de esta Ley que le solicite el Congreso del Estado, la Contaduría Mayor de Hacienda recibirá de las Entidades por conducto de la Comisión de Hacienda y Administración:
+Para los efectos de emitir la opinión a que se refieren las fracciones II, III y VI del Artículo 8 de esta Ley que le solicite el Congreso del Estado, la Contaduría Mayor de Hacienda recibirá de las Entidades por conducto de la Comisión del Congreso del Estado que corresponda:
 
 I.- Las iniciativas de Leyes de Ingresos, el pronóstico de ingresos, así como el proyecto de Presupuesto de Egresos del Gobierno del Estado así como sus programas en el plazo señalado en la fracción IV del Artículo 49 de la Constitución Política Local o hasta el 15 de diciembre cuando inicie su encargo el Ejecutivo del Estado en la fecha prevista por el Artículo 44 de la Constitución Política Local;
 
@@ -311,11 +329,15 @@ Si por causa justificada el plazo de 10 días no fuere suficiente, solicitarán 
 
 Las Entidades deberán proporcionar a la Contaduría Mayor de Hacienda del Congreso del Estado con la periodicidad que ésta determine, la información presupuestal, contable y financiera que le solicite.
 
-En los casos de incumplimiento a lo señalado en los párrafos anteriores y en el Artículo 16, se hará del conocimiento del Congreso del Estado por conducto de la Comisión de Hacienda y Administración, para que resuelva lo procedente.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2003)</small>
+
+En los casos de incumplimiento a lo señalado en los párrafos anteriores y en el Artículo 16, se hará del conocimiento del Congreso del Estado por conducto de la Comisión a la que corresponda vigilar su funcionamiento para que resuelva lo procedente.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 19.
 
-A solicitud de la Contaduría Mayor de Hacienda del Congreso del Estado, por conducto de la Comisión de Hacienda y Administración, las Entidades le informarán de los actos, convenios y contratos de los que resulten derechos u obligaciones directas o contingentes que tengan efecto sobre el ejercicio de sus Presupuestos o de sus patrimonios.
+A solicitud de la Contaduría Mayor de Hacienda del Congreso del Estado, por conducto de la Comisión del Congreso que corresponda, las Entidades le informarán de los actos, convenios y contratos de los que resulten derechos u obligaciones directas o contingentes que tengan efecto sobre el ejercicio de sus Presupuestos o de sus patrimonios.
 
 ###### ARTICULO 20.
 
@@ -415,9 +437,11 @@ Igual obligación tienen las instituciones públicas o privadas y los particular
 
 Durante el desarrollo de una visita, inspección o auditoría el personal expresamente comisionado, a fin de asegurar los libros, registros o sistemas de contabilidad, documentos comprobatorios y justificatorios de las operaciones, correspondencia o bienes, podrán indistintamente, sellar o colocar marcas en dichos documentos, bienes o en muebles, archiveros u oficinas donde se encuentren, así como dejarlos en calidad de depósito al titular de la Entidad o con quién se entienda la diligencia, previo inventario que al efecto formulen. En el caso de que algún documento que se encuentre en los muebles, archiveros u oficinas que se sellen, sea necesario al personal de la Entidad para realizar sus actividades, se le permitirá extraerlo ante la presencia del personal comisionado, quiénes podrán sacar copia del mismo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 29.
 
-Si el representante legal, el titular o alguno de los directivos, funcionarios o empleados responsables de las Entidades o la persona con quien se entienda la diligencia se negare a proporcionar la información o documentación solicitadas por la Contaduría Mayor de Hacienda del Congreso del Estado, o no permitiere la revisión de libros, documentos comprobatorios y justificatorios del ingreso y gasto público, o la práctica de visitas, inspecciones y auditorías, la Contaduría Mayor de Hacienda lo hará del conocimiento del Congreso del Estado, por conducto de la Comisión de Hacienda y Administración, para que resuelva lo procedente.
+Si el representante legal, el titular o alguno de los directivos, funcionarios o empleados responsables de las Entidades o la persona con quien se entienda la diligencia se negare a proporcionar la información o documentación solicitadas por la Contaduría Mayor de Hacienda del Congreso del Estado, o no permitiere la revisión de libros, documentos comprobatorios y justificatorios del ingreso y gasto público, o la práctica de visitas, inspecciones y auditorías, la Contaduría Mayor de Hacienda lo hará del conocimiento del Congreso del Estado, por conducto de la Comisión a la que corresponda vigilar su funcionamiento, para que resuelva lo procedente.
 
 El mismo procedimiento se seguirá en el caso de instituciones públicas o privadas y particulares que hubieren recibido fondos o bienes del Estado o de los Municipios por concepto de subsidios, asignaciones, concesiones, participaciones, donativos, convenios y contratos.
 
@@ -457,9 +481,11 @@ I.- El cobro de cantidades no percibidas por la Hacienda Pública Estatal o Muni
 
 II.- El resarcimiento derivado de las responsabilidades en que hayan incurrido sus empleados o funcionarios o las empresas privadas o los particulares que hubiesen intervenido en la recaudación del ingreso y en el ejercicio del gasto público, informando, en su caso, el nombre de los sancionados y las penas impuestas y su monto cuando sean de carácter económico.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 36.
 
-Cuando en la revisión de las Cuentas Públicas de las Entidades, aparezcan los elementos suficientes que presuman la comisión de un delito o la causación de un daño o perjuicio a sus patrimonios, el Contador Mayor de Hacienda lo hará del conocimiento de la Comisión de Hacienda en pliego por separado en que determinará las responsabilidades que resulten y las consecuencias jurídicas correspondientes, para efectos de que el Congreso del Estado, después de analizar los hechos y valorar las pruebas, resuelva presentar las denuncias penales o administrativas que considere procedentes.
+Cuando en la revisión de las Cuentas Públicas de las Entidades, aparezcan los elementos suficientes que presuman la comisión de un delito o la causación de un daño o perjuicio a sus patrimonios, el Contador Mayor de Hacienda lo hará del conocimiento de la Comisión a la que corresponda vigilar su funcionamiento, en pliego por separado en que determinará las responsabilidades que resulten y las consecuencias jurídicas correspondientes, para efectos de que el Congreso del Estado, después de analizar los hechos y valorar las pruebas, resuelva presentar las denuncias penales o administrativas que considere procedentes.
 
 ###### ARTICULO 37.
 
@@ -491,15 +517,19 @@ En los ejercicios fiscales en que los titulares, directivos o funcionarios de la
 
 La opinión a que se refieren los artículos anteriores se expresará en términos de procedencia o improcedencia de aprobación y se hará por cada una de las Cuentas Públicas de Ingresos, de Egresos, de Patrimonio y de Deuda Pública que integran la Cuenta Pública Anual. Cuando la opinión se refiera únicamente a la Cuenta Pública Anual, se entenderán incluidas en esta última las demás Cuentas Públicas que la integran.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 41.
 
-La Contaduría Mayor de Hacienda del Congreso del Estado podrá emitir opinión de una Cuenta Pública Anual o de una Cuenta Pública integrante de la Anual, aún cuando se encuentre otra anterior pendiente de revisarse, de dictaminarse por la Comisión de Hacienda y Administración o de aprobarse por el Congreso del Estado.
+La Contaduría Mayor de Hacienda del Congreso del Estado podrá emitir opinión de una Cuenta Pública Anual o de una Cuenta Pública integrante de la Anual, aún cuando se encuentre otra anterior pendiente de revisarse, de dictaminarse por la Comisión a la que corresponda vigilar su funcionamiento, o de aprobarse por el Congreso del Estado.
 
 En todos los casos, las opiniones indicarán con toda claridad la Cuenta Pública a que se refieren y el período que comprende.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 42.
 
-El Contador Mayor de Hacienda del Congreso del Estado rendirá el informe a que se refiere el Artículo 39 de esta Ley a la Comisión de Hacienda y Administración a efecto de que se allegue los elementos necesarios, a su juicio, para la formulación y presentación de dictamen ante el Congreso del Estado para que éste, si así lo resuelve tenga por revisada y aprobada o no aprobada la Cuenta Pública Anual de la Entidad a que corresponda, o acuerde lo que en derecho proceda.
+El Contador Mayor de Hacienda del Congreso del Estado rendirá el informe a que se refiere el Artículo 39 de esta Ley a la Comisión a la que corresponda vigilar su funcionamiento, a efecto de que se allegue los elementos necesarios, a su juicio, para la formulación y presentación de dictamen ante el Congreso del Estado para que éste, si así lo resuelve tenga por revisada y aprobada o no aprobada la Cuenta Pública Anual de la Entidad a que corresponda, o acuerde lo que en derecho proceda.
 
 ###### ARTICULO 43.
 
@@ -646,3 +676,9 @@ Las presentes reformas entrarán en vigor el día primero del mes de diciembre d
 P.O. 8 DE NOVIEMBRE DE 2002.
 
 UNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 31 DE ENERO DE 2003.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
