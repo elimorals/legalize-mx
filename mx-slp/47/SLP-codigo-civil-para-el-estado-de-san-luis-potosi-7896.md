@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "1997-05-09"
+last_updated: "1997-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1997.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -5009,6 +5009,84 @@ ART. 1632.- Los contratos se perfeccionan por el mero consentimiento; excepto aq
 
 ART. 1633.- La validez y el cumplimiento de los contratos no puede dejarse al arbitrio de uno de los contratantes.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 1997)</small>
+
+### CAPITULO I BIS. De la Imprevisión en los Contratos
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 1997)</small>
+
+ART. 1633.1.- En los contratos unilaterales o bilaterales con prestaciones periódicas o continuas, el consentimiento y la voluntad de las partes se entienden otorgados en los términos, condiciones y circunstancias existentes en el momento de su celebración.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 1997)</small>
+
+ART. 1633.2.- Si en cualquier momento de la ejecución de los contratos a que se refiere el artículo anterior varían, por acontecimientos extraordinarios que no se hayan previsto por las partes al momento de su celebración, las condiciones generales del medio en que debería darse cumplimiento a lo pactado, la parte afectada podrá demandar la nulidad relativa del contrato, o bien, una reducción equitativa y justa en razón a la alteración imprevista manifestada, ya que de pretender exigirse el cumplimiento en los términos aparentes de lo convenido, se actualizaría una prestación excesivamente onerosa y carente de equidad, la cual de ninguna manera estaría respondiendo a la causa original del contrato celebrado, ni a la voluntad, ni consentimiento real de las partes.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 1997)</small>
+
+ART. 1633.3.- Se entiende por acontecimientos extraordinarios, aquellas alteraciones imprevisibles que sobrevengan por hechos o circunstancias que alteren la situación económica del país o del Estado de San Luis Potosí, de tal manera que de haber sabido el deudor se iban a manifestar en perjuicio de lo pactado por él, no se habría obligado, ni convenido en la forma y términos en que lo hizo.
+
+Vicios del Consentimiento
+
+ART. 1648.- El consentimiento no es válido si ha sido dado por error, arrancando por violencia o sorprendido por dolo.
+
+ART. 1649.- El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo determinante de la voluntad de cualquiera de los que contratan, si en el acto de la celebración se declara ese motivo o si se prueba por las circunstancias del mismo contrato que se celebró éste en el falso supuesto que lo motivó y no por otra causa.
+
+ART. 1650.- El error de cálculo sólo da lugar a que se rectifique.
+
+ART. 1651.- Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir a error o mantener en él a alguno de los contratantes, y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
+
+ART. 1652.- El dolo o mala fe de una de las partes y el dolo que proviene de un tercero, sabiéndolo aquélla, anulan el contrato si ha sido la causa determinante de este acto jurídico.
+
+ART. 1653.- Si ambas partes proceden con dolo, ninguna de ellas puede alegar la nulidad del acto o reclamarse indemnizaciones.
+
+ART. 1654.- Es nulo el contrato celebrado por violencia, ya provenga ésta de alguno de los contratantes, ya de un tercero, interesado o no en el contrato.
+
+ART. 1655.- Hay violencia cuando se emplea fuerza física o amenaza que importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes del contratante, de su cónyuge, de sus ascendientes, de sus descendientes o de sus parientes colaterales dentro del segundo grado.
+
+ART. 1656.- El temor reverencial, esto es, el sólo temor de desagradar a las personas a quienes se debe sumisión y respeto, no basta para viciar el consentimiento.
+
+ART. 1657.- Las consideraciones generales que los contratantes expusieren sobre los provechos y perjuicios que naturalmente pueden resultar de la celebración o no celebración del contrato, y que no importen engaño o amenaza alguna de las partes, no serán tomadas en cuenta al calificar el dolo o la violencia.
+
+ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del dolo o de la violencia.
+
+ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
+
+Representación
+
+ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
+
+ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
+
+ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
+
+Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
+
+Del objeto y del motivo o fin de los Contratos
+
+ART. 1660.- Son objeto de los contratos:
+
+I.- La cosa que el obligado debe dar;
+
+II.- El hecho que el obligado debe hacer o no hacer.
+
+ART. 1661.- La cosa objeto del contrato debe: 1o. Existir en la naturaleza. 2o. Ser determinada o determinable en cuanto a su especie. 3o. Estar en el comercio.
+
+ART. 1662.- Las cosas futuras pueden ser objeto de un contrato. Sin embargo, no puede serlo la herencia de una persona viva, aun cuando ésta preste su consentimiento.
+
+ART. 1663.- El hecho positivo o negativo, objeto del contrato, debe ser:
+
+I.- Posible;
+
+II.- Lícito.
+
+ART. 1664.- Es imposible el hecho que no puede existir porque es incompatible con una ley de la naturaleza o con una norma jurídica que debe regirlo necesariamente y que constituye un obstáculo insuperable para su realización.
+
+ART. 1665.- No se considerará imposible el hecho que no pueda ejecutarse por el obligado, pero sí por otra persona en lugar de él.
+
+ART. 1666.- Es ilícito el hecho que es contrario a las leyes de orden público o a las buenas costumbres.
+
+ART. 1667.- El fin o motivo determinante de la voluntad de los que contratan, tampoco debe ser contrario a las leyes de orden público ni a las buenas costumbres.
+
 Cláusulas que pueden contener los Contratos
 
 ART. 1675.- Los contratantes pueden poner las cláusulas que crean convenientes; pero las que se refieren a requisitos esenciales del contrato o sean consecuencia de su naturaleza ordinaria, se tendrán por puestas aunque no se expresen, a no ser que las segundas sean renunciadas en los casos y términos permitidos por la Ley.
@@ -5059,6 +5137,18 @@ ART. 1693.- Cuando absolutamente fuere imposible resolver las dudas por las regl
 
 Si las dudas de cuya resolución se trata en este artículo recayesen sobre el objeto principal del contrato, de suerte que no pueda venirse en conocimiento de cual fue la intención o la voluntad de los contratantes, el contrato será nulo.
 
+Disposiciones Finales
+
+ART. 1694.- Los contratos que no están especialmente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
+
+ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
+
+De la Capacidad
+
+ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
+
+ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
+
 Del Consentimiento
 
 ART. 1639.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por la Ley o por convenio la voluntad deba manifestarse expresamente.
@@ -5089,42 +5179,6 @@ ART. 1673.- Es contrato oneroso aquél en que se estipulan provechos y gravámen
 
 ART. 1674.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas desde que se celebra el contrato, de tal suerte que ellas pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la elevación de la ganancia o pérdida, sino hasta que ese acontecimiento se realice.
 
-Representación
-
-ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
-
-ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
-
-ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
-
-Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
-
-Del objeto y del motivo o fin de los Contratos
-
-ART. 1660.- Son objeto de los contratos:
-
-I.- La cosa que el obligado debe dar;
-
-II.- El hecho que el obligado debe hacer o no hacer.
-
-ART. 1661.- La cosa objeto del contrato debe: 1o. Existir en la naturaleza. 2o. Ser determinada o determinable en cuanto a su especie. 3o. Estar en el comercio.
-
-ART. 1662.- Las cosas futuras pueden ser objeto de un contrato. Sin embargo, no puede serlo la herencia de una persona viva, aun cuando ésta preste su consentimiento.
-
-ART. 1663.- El hecho positivo o negativo, objeto del contrato, debe ser:
-
-I.- Posible;
-
-II.- Lícito.
-
-ART. 1664.- Es imposible el hecho que no puede existir porque es incompatible con una ley de la naturaleza o con una norma jurídica que debe regirlo necesariamente y que constituye un obstáculo insuperable para su realización.
-
-ART. 1665.- No se considerará imposible el hecho que no pueda ejecutarse por el obligado, pero sí por otra persona en lugar de él.
-
-ART. 1666.- Es ilícito el hecho que es contrario a las leyes de orden público o a las buenas costumbres.
-
-ART. 1667.- El fin o motivo determinante de la voluntad de los que contratan, tampoco debe ser contrario a las leyes de orden público ni a las buenas costumbres.
-
 Forma
 
 ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
@@ -5134,44 +5188,6 @@ ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que
 ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
 
 Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
-
-De la Capacidad
-
-ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
-
-ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
-
-Vicios del Consentimiento
-
-ART. 1648.- El consentimiento no es válido si ha sido dado por error, arrancando por violencia o sorprendido por dolo.
-
-ART. 1649.- El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo determinante de la voluntad de cualquiera de los que contratan, si en el acto de la celebración se declara ese motivo o si se prueba por las circunstancias del mismo contrato que se celebró éste en el falso supuesto que lo motivó y no por otra causa.
-
-ART. 1650.- El error de cálculo sólo da lugar a que se rectifique.
-
-ART. 1651.- Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir a error o mantener en él a alguno de los contratantes, y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
-
-ART. 1652.- El dolo o mala fe de una de las partes y el dolo que proviene de un tercero, sabiéndolo aquélla, anulan el contrato si ha sido la causa determinante de este acto jurídico.
-
-ART. 1653.- Si ambas partes proceden con dolo, ninguna de ellas puede alegar la nulidad del acto o reclamarse indemnizaciones.
-
-ART. 1654.- Es nulo el contrato celebrado por violencia, ya provenga ésta de alguno de los contratantes, ya de un tercero, interesado o no en el contrato.
-
-ART. 1655.- Hay violencia cuando se emplea fuerza física o amenaza que importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes del contratante, de su cónyuge, de sus ascendientes, de sus descendientes o de sus parientes colaterales dentro del segundo grado.
-
-ART. 1656.- El temor reverencial, esto es, el sólo temor de desagradar a las personas a quienes se debe sumisión y respeto, no basta para viciar el consentimiento.
-
-ART. 1657.- Las consideraciones generales que los contratantes expusieren sobre los provechos y perjuicios que naturalmente pueden resultar de la celebración o no celebración del contrato, y que no importen engaño o amenaza alguna de las partes, no serán tomadas en cuenta al calificar el dolo o la violencia.
-
-ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del dolo o de la violencia.
-
-ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
-
-Disposiciones Finales
-
-ART. 1694.- Los contratos que no están especialmente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
-
-ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
 
 ### CAPITULO II. De la declaración unilateral de la voluntad
 
@@ -5447,6 +5463,14 @@ ART. 1784.- Respecto de bienes muebles no tendrá lugar la rescisión, salvo lo 
 
 ART. 1785.- Si la rescisión del contrato dependiere de un tercero y éste fuere dolosamente inducido a rescindirlo, se tendrá por no rescindido.
 
+# LIBRO CUARTO. De las Obligaciones
+
+PRIMERA PARTE
+
+De las Obligaciones en General
+
+## TITULO PRIMERO. Fuentes de las Obligaciones
+
 ### CAPITULO II. De las Obligaciones a Plazo
 
 ART. 1786.- Es obligación a plazo aquélla para cuyo cumplimiento se ha señalado un día cierto.
@@ -5472,14 +5496,6 @@ II.- Cuando no otorgue al acreedor las garantías a que estuviese comprometido;
 III.- Cuando por actos propios hubiese disminuído aquellas garantías después de establecidas, y cuando por caso fortuito desaparecieren, a menos que sean inmediatamente substituídas por otras igualmente seguras.
 
 ART. 1793.- Si fueren varios los deudores solidarios, lo dispuesto en el artículo anterior sólo comprenderá al que se hallare en alguno de los casos que en él se designan.
-
-# LIBRO CUARTO. De las Obligaciones
-
-PRIMERA PARTE
-
-De las Obligaciones en General
-
-## TITULO PRIMERO. Fuentes de las Obligaciones
 
 ### CAPITULO III. De las Obligaciones Conjuntivas y Alternativas
 
@@ -5741,6 +5757,8 @@ ART. 1882.- El cesionario debe, por su parte, satisfacer al cedente todo lo que 
 
 ART. 1883.- Si la cesión fuere gratuita, el cedente no será responsable para con el cesionario, ni por la existencia del crédito, ni por la solvencia del deudor.
 
+## TITULO SEGUNDO. Modalidades de las Obligaciones
+
 ### CAPITULO II. De la Cesión de Deudas
 
 ART. 1884.- Para que haya substitución de deudor es necesario que el acreedor consienta expresa y tácitamente.
@@ -5756,8 +5774,6 @@ ART. 1888.- El deudor sustituto que obligado en los términos en que lo estaba e
 ART. 1889.- El deudor sustituto puede oponer al acreedor las excepciones que se originen de la naturaleza de la deuda y las que le sean personales; pero no puede oponer las que sean personales del deudor primitivo.
 
 ART. 1890.- Cuando se declara nula la sustitución de deudor la antigua deuda renace con todos sus accesorios; pero con la reserva de derechos que pertenecen a tercero de buena fe.
-
-## TITULO SEGUNDO. Modalidades de las Obligaciones
 
 ### CAPITULO III. De la Subrogación
 
@@ -6035,6 +6051,8 @@ ART. 1995.- El enajenante no tiene obligación de responder de los vicios redhib
 
 III.- Efectos de las Obligaciones con relación a tercero
 
+## TITULO TERCERO. De la Transmisión de las Obligaciones
+
 ### CAPITULO I. De los actos celebrados en fraude de los acreedores
 
 ART. 1996.- Los actos celebrados por un deudor en perjuicio de su acreedor, pueden anularse, a petición de éste, si de esos actos resulta la insolvencia del deudor, y el crédito en virtud del cual se intenta la acción, es anterior a ellos.
@@ -6070,8 +6088,6 @@ ART. 2010.- El fraude, que consiste únicamente en la preferencia indebida a fav
 ART. 2011.- Si el acreedor que pide la nulidad, para acreditar la insolvencia del deudor, prueba que el monto de las deudas de éste excede al de sus bienes conocidos, le impone al deudor la obligación de acreditar que tiene bienes suficientes para cubrir esas deudas.
 
 ART. 2012.- Se presumen fraudulentas las enajenaciones a título oneroso hechas por aquellas personas contra quienes se hubiese pronunciado antes sentencia condenatoria en cualquiera instancia, o expedido mandamiento de embargo de bienes, cuando estas enajenaciones perjudican los derechos de sus acreedores.
-
-## TITULO TERCERO. De la Transmisión de las Obligaciones
 
 ### CAPITULO II. De la Simulación de los Actos Jurídicos
 
@@ -6147,6 +6163,10 @@ ART. 2037.- Las deudas pagaderas en diferente lugar pueden compensarse mediante 
 
 ART. 2038.- La compensación no puede tener lugar en perjuicio de los derechos de tercero legítimamente adquiridos.
 
+## TITULO CUARTO. Efectos de las Obligaciones
+
+I.- Efectos de las Obligaciones entre las Partes Cumplimiento de las Obligaciones
+
 ### CAPITULO II. De la Confusión de Derechos
 
 ART. 2039.- La obligación se extingue por confusión cuando las calidades de acreedor y de deudor se reúnen en una misma persona. La obligación renace si la confusión cesa.
@@ -6154,10 +6174,6 @@ ART. 2039.- La obligación se extingue por confusión cuando las calidades de ac
 ART. 2040.- La confusión que se verifica en la persona del acreedor o deudor solidario, sólo produce sus efectos en la parte proporcional de su crédito o deuda.
 
 ART. 2041.- Mientras se hace la partición de una herencia, no hay confusión cuando el deudor hereda al acreedor o éste a aquél.
-
-## TITULO CUARTO. Efectos de las Obligaciones
-
-I.- Efectos de las Obligaciones entre las Partes Cumplimiento de las Obligaciones
 
 ### CAPITULO III. De la remisión de la Deuda
 
@@ -6283,6 +6299,8 @@ ART. 2112.- Los peritos y los corredores no pueden comprar los bienes en cuya ve
 
 ART. 2113.- Las compras hechas en contraversión (sic) a lo dispuesto en este Capítulo, serán nulas, ya se hayan hecho directamente o por interpósita persona.
 
+## TITULO QUINTO. Extinción de las Obligaciones
+
 ### CAPITULO IV. De las Obligaciones del Vendedor
 
 ART. 2114.- El vendedor está obligado:
@@ -6292,8 +6310,6 @@ I.- A entregar al comprador la cosa vendida;
 II.- A garantizar las calidades de la cosa;
 
 III.- A prestar la evicción.
-
-## TITULO QUINTO. Extinción de las Obligaciones
 
 ### CAPITULO V. De la Entrega de la Cosa Vendida
 
@@ -6389,30 +6405,6 @@ ART. 2145.- Si el vendedor recoge la cosa vendida porque no le haya sido pagado 
 
 ART. 2146.- En la venta de que habla el artículo 2143 mientras que no pasa la propiedad de la cosa vendida al comprador, si éste recibe la cosa será considerado como arrendatario de la misma.
 
-### CAPITULO VIII. De la forma del Contrato de Compra-Venta
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1993)</small>
-
-ART. 2147.- El contrato de compraventa no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
-
-Las escrituras públicas que contengan un contrato de compraventa, requieren para su validez formal el certificado previo de gravámenes o libertad de ellos, del inmueble materia del contrato.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1993)</small>
-
-ART. 2148.- El contrato de compraventa de bienes inmuebles, requiere para su validez, que el mismo sea otorgado en escritura pública.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1993)</small>
-
-ART. 2149.- Al otorgarse una escritura pública de compraventa, si alguno de los contratantes no supiere escribir, firmará a su nombre y ruego otra persona con capacidad legal; observándose lo dispuesto en el párrafo segundo del Artículo 1670.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1993)</small>
-
-ART. 2150.- Tratándose de bienes ya inscritos en el Registro y cuyo valor no exceda de trescientos sesenta y cinco veces el salario mínimo general diario vigente en el Estado en el momento de la operación cuando la venta sea al contado, podrá formalizarse haciéndola constar por escrito en el certificado de inscripción de propiedad que el registrador tiene la obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
-
-La constancia de la venta será ratificada ante el registrador, quien tiene la obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas, y previa comprobación de que están cubiertos los impuestos correspondientes a la compraventa realizada en esta forma, hará una nueva inscripción de los bienes vendidos en favor del comprador.
-
-ART. 2151.- La venta de bienes raíces no producirá efectos contra tercero sino después de registrada en los términos prescritos en este Código.
-
 ## TITULO SEXTO. De la Inexistencia y de la Nulidad
 
 ART. 2057.- El acto jurídico inexistente por la falta de consentimiento o de objeto que pueda ser materia de él, no producirá efecto legal alguno. No es susceptible de valer por confirmación ni por prescripción; su inexistencia puede invocarse por todo interesado.
@@ -6470,6 +6462,30 @@ ART. 2079.- Para que la promesa de contratar sea válida debe constar por escrit
 ART. 2080.- Si el promitente rehusa firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el juez; salvo el caso de que la cosa ofrecida haya pasado por título oneroso a la propiedad de tercero de buena fe, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
 
 ## TITULO SEGUNDO. De la Compra-Venta
+
+### CAPITULO VIII. De la forma del Contrato de Compra-Venta
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1993)</small>
+
+ART. 2147.- El contrato de compraventa no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
+
+Las escrituras públicas que contengan un contrato de compraventa, requieren para su validez formal el certificado previo de gravámenes o libertad de ellos, del inmueble materia del contrato.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1993)</small>
+
+ART. 2148.- El contrato de compraventa de bienes inmuebles, requiere para su validez, que el mismo sea otorgado en escritura pública.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1993)</small>
+
+ART. 2149.- Al otorgarse una escritura pública de compraventa, si alguno de los contratantes no supiere escribir, firmará a su nombre y ruego otra persona con capacidad legal; observándose lo dispuesto en el párrafo segundo del Artículo 1670.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1993)</small>
+
+ART. 2150.- Tratándose de bienes ya inscritos en el Registro y cuyo valor no exceda de trescientos sesenta y cinco veces el salario mínimo general diario vigente en el Estado en el momento de la operación cuando la venta sea al contado, podrá formalizarse haciéndola constar por escrito en el certificado de inscripción de propiedad que el registrador tiene la obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
+
+La constancia de la venta será ratificada ante el registrador, quien tiene la obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas, y previa comprobación de que están cubiertos los impuestos correspondientes a la compraventa realizada en esta forma, hará una nueva inscripción de los bienes vendidos en favor del comprador.
+
+ART. 2151.- La venta de bienes raíces no producirá efectos contra tercero sino después de registrada en los términos prescritos en este Código.
 
 ### CAPITULO IX. De las Ventas Judiciales
 
@@ -6733,6 +6749,20 @@ III.- Cuando el contrato fuere por tiempo indeterminado, si el arrendador autori
 
 ART. 2253.- Las mejoras a que se refieren las fracciones II y III del artículo anterior, deberán ser pagadas por el arrendador, no obstante que en el contrato se hubiese estipulado que las mejoras quedasen a beneficio de la cosa arrendada.
 
+## TITULO TERCERO. De la Permuta
+
+ART. 2156.- La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2083.
+
+ART. 2157.- Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dió, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
+
+ART. 2158.- El permutante que sufra la evicción de la cosa que recibió en cambio, podrá reivindicar la que dió, si se halla aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
+
+ART. 2159.- Lo dispuesto en el artículo anterior, no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame el que sufrió la evicción.
+
+ART. 2160.- Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compra-venta, en cuanto no se opongan a los artículos anteriores.
+
+## TITULO CUARTO. De las Donaciones
+
 ### CAPITULO III. De los derechos y obligaciones del Arrendatario
 
 ART. 2254.- El arrendatario está obligado:
@@ -6789,20 +6819,6 @@ Si el arrendamiento debe ser inscrito en el Registro, sólo vale el inscrito.
 
 ART. 2276.- Si los contratos de arrendamiento que hubieren terminado por expiración del plazo, cuando el arrendatario se encuentre al corriente en el pago de las rentas, tendrá derecho a que en igualdad de condiciones se le prefiera a otro interesado en el nuevo arrendamiento de la finca. Al efecto el arrendador notificará en forma fehaciente al arrendatario las condiciones del nuevo arrendamiento.
 
-## TITULO TERCERO. De la Permuta
-
-ART. 2156.- La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2083.
-
-ART. 2157.- Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dió, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
-
-ART. 2158.- El permutante que sufra la evicción de la cosa que recibió en cambio, podrá reivindicar la que dió, si se halla aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
-
-ART. 2159.- Lo dispuesto en el artículo anterior, no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame el que sufrió la evicción.
-
-ART. 2160.- Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compra-venta, en cuanto no se opongan a los artículos anteriores.
-
-## TITULO CUARTO. De las Donaciones
-
 ### CAPITULO IV. Del Arrendamiento de Fincas Urbanas
 
 ART. 2277.- No podrá darse en arrendamiento una localidad que no reúna las condiciones de higiene y salubridad exigidas en el Código Sanitario.
@@ -6838,6 +6854,8 @@ ART. 2286.- En el arrendamiento de predios rústicos por plazo determinado, debe
 ART. 2287.- El permiso a que se refiere el artículo que precede, no será obligatorio sino en el período y por el tiempo rigurosamente indispensable, conforme a las costumbres locales, salvo convenio en contrario.
 
 ART. 2288.- Terminado el arrendamiento, tendrá a su vez el arrendatario saliente, derecho para usar de las tierras y edificios por el tiempo absolutamente indispensable para la recolección y aprovechamiento de los frutos pendientes al terminar el contrato.
+
+## TITULO QUINTO. Del Mutuo
 
 ### CAPITULO VI. Del Arrendamiento de Bienes Muebles
 
@@ -6879,13 +6897,13 @@ ART. 2306.- Si en el arrendamiento de un predio rústico se incluyere el ganado 
 
 ART. 2307.- Lo dispuesto en el artículo 2295 es aplicable a los aperos de la finca arrendada.
 
-## TITULO QUINTO. Del Mutuo
-
 ### CAPITULO VII. Disposiciones especiales respecto de los arrendamientos por tiempo indeterminado
 
 ART. 2308.- Todos los arrendamientos, sean de predios rústicos o urbanos, que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte dado en forma indubitable con dos meses de anticipación si el predio es urbano, y con un año si es rústico.
 
 ART. 2309.- Dado el aviso a que se refiere el artículo anterior, el arrendatario del predio urbano está obligado a poner cédulas y a mostrar el interior de la casa a los que pretendan verla. Respecto de los predios rústicos, se observará lo dispuesto en los artículos 2286, 2287 y 2288.
+
+## TITULO SEXTO. Del Arrendamiento
 
 ### CAPITULO VIII. Del Subarriendo
 
@@ -6894,8 +6912,6 @@ ART. 2310.- El arrendatario no puede subarrendar la cosa arrendada en todo, ni e
 ART. 2311.- Si el subarriendo se hiciere en virtud de la autorización general concedida en el contrato, el arrendatario será responsable al arrendador como si él mismo continuara en el uso o goce de la cosa.
 
 ART. 2312.- Si el arrendador aprueba expresamente el contrato especial de subarriendo, el subarrendatario queda subrogado en todos los derechos y obligaciones del arrendatario, a no ser que por convenio se acuerde otra cosa.
-
-## TITULO SEXTO. Del Arrendamiento
 
 ### CAPITULO IX. Del modo de terminar el Arrendamiento
 
@@ -7207,46 +7223,6 @@ ART. 2423.- El procurador que ha substituído un poder, puede revocar la substit
 
 ART. 2424.- La parte puede ratificar antes de la sentencia que cause ejecutoria, lo que el procurador hubiere hecho excediéndose del poder.
 
-### CAPITULO VI. De los diversos modos de terminar el Mandato
-
-ART. 2425.- El mandato termina:
-
-I.- Por la revocación;
-
-II.- Por la renuncia del mandatario;
-
-III.- Por la muerte del mandante o del mandatario;
-
-IV.- Por la interdicción de uno u otro;
-
-V.- Por el vencimiento del plazo y por la conclusión del negocio para el que fué concedido;
-
-VI.- En los casos previstos por los artículos 616, 617 y 618.
-
-ART. 2426.- El mandante puede revocar el mandato cuando y como le parezca; menos en aquellos casos en que su otorgamiento se hubiere estipulado como una condición en un contrato bilateral, o como un medio para cumplir una obligación contraída.
-
-En estos casos tampoco puede el mandatario renunciar el poder.
-
-La parte que revoque o renuncie el mandato en tiempo inoportuno, debe indemnizar a la otra de los daños y perjuicios que le cause.
-
-ART. 2427.- Cuando se ha dado un mandato para tratar con determinada persona, el mandante debe notificar a ésta la revocación del mandato so pena de quedar obligado por los actos del mandatario ejecutados después de la revocación, siempre que haya habido buena fe de parte de esa persona.
-
-ART. 2428.- El mandante puede exigir la devolución del instrumento o escrito en que conste el mandato, y todos los documentos relativos al negocio o negocios que tuvo a su cargo el mandatario.
-
-El mandante que descuide exigir los documentos que acrediten los poderes del mandatario, responde de los daños que puedan resultar por esa causa a terceros de buena fe.
-
-ART. 2429.- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a éste el nuevo nombramiento.
-
-ART. 2430.- Aunque el mandato termine por la muerte del mandante, debe el mandatario continuar en la administración, entretanto los herederos proveen por sí mismos a los negocios, siempre que de lo contrario puede resultar algún perjuicio.
-
-ART. 2431.- En el caso del artículo anterior, tiene derecho el mandatario para pedir al juez que señale un término corto a los herederos a fin de que se presenten a encargarse de sus negocios.
-
-ART. 2432.- Si el mandato termina por muerte del mandatario, deben sus herederos dar aviso al mandante y practicar, mientras éste resuelva, solamente las diligencias que sean indispensables para evitar cualquier perjuicio.
-
-ART. 2433.- El mandatario que renuncie tiene obligación de seguir el negocio mientras el mandante no provee a la procuración, si de lo contrario se sigue algún perjuicio.
-
-ART. 2434.- Lo que el mandatario, sabiendo que ha cesado el mandato, hiciere con un tercero que ignora el término de la procuración, no obliga al mandante, fuera del caso previsto en el artículo 2427.
-
 ## TITULO SEPTIMO. Del Comodato
 
 ART. 2327.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible, y el otro contrae la obligación de restituirla individualmente.
@@ -7289,9 +7265,51 @@ ART. 2345.- El comodato termina por la muerte del comodatario.
 
 ## TITULO OCTAVO. Del Depósito y del Secuestro
 
+### CAPITULO VI. De los diversos modos de terminar el Mandato
+
+ART. 2425.- El mandato termina:
+
+I.- Por la revocación;
+
+II.- Por la renuncia del mandatario;
+
+III.- Por la muerte del mandante o del mandatario;
+
+IV.- Por la interdicción de uno u otro;
+
+V.- Por el vencimiento del plazo y por la conclusión del negocio para el que fué concedido;
+
+VI.- En los casos previstos por los artículos 616, 617 y 618.
+
+ART. 2426.- El mandante puede revocar el mandato cuando y como le parezca; menos en aquellos casos en que su otorgamiento se hubiere estipulado como una condición en un contrato bilateral, o como un medio para cumplir una obligación contraída.
+
+En estos casos tampoco puede el mandatario renunciar el poder.
+
+La parte que revoque o renuncie el mandato en tiempo inoportuno, debe indemnizar a la otra de los daños y perjuicios que le cause.
+
+ART. 2427.- Cuando se ha dado un mandato para tratar con determinada persona, el mandante debe notificar a ésta la revocación del mandato so pena de quedar obligado por los actos del mandatario ejecutados después de la revocación, siempre que haya habido buena fe de parte de esa persona.
+
+ART. 2428.- El mandante puede exigir la devolución del instrumento o escrito en que conste el mandato, y todos los documentos relativos al negocio o negocios que tuvo a su cargo el mandatario.
+
+El mandante que descuide exigir los documentos que acrediten los poderes del mandatario, responde de los daños que puedan resultar por esa causa a terceros de buena fe.
+
+ART. 2429.- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a éste el nuevo nombramiento.
+
+ART. 2430.- Aunque el mandato termine por la muerte del mandante, debe el mandatario continuar en la administración, entretanto los herederos proveen por sí mismos a los negocios, siempre que de lo contrario puede resultar algún perjuicio.
+
+ART. 2431.- En el caso del artículo anterior, tiene derecho el mandatario para pedir al juez que señale un término corto a los herederos a fin de que se presenten a encargarse de sus negocios.
+
+ART. 2432.- Si el mandato termina por muerte del mandatario, deben sus herederos dar aviso al mandante y practicar, mientras éste resuelva, solamente las diligencias que sean indispensables para evitar cualquier perjuicio.
+
+ART. 2433.- El mandatario que renuncie tiene obligación de seguir el negocio mientras el mandante no provee a la procuración, si de lo contrario se sigue algún perjuicio.
+
+ART. 2434.- Lo que el mandatario, sabiendo que ha cesado el mandato, hiciere con un tercero que ignora el término de la procuración, no obliga al mandante, fuera del caso previsto en el artículo 2427.
+
 ### CAPITULO I. Del Servicio Doméstico, del Servicio por Jornal, del Servicio a Precio Alzado en el que el operario sólo pone su trabajo y del Contrato de Aprendizaje
 
 ART. 2435.- El servicio doméstico, el servicio por jornal, el servicio a precio alzado en el que el operario sólo pone su trabajo, y el contrato de aprendizaje, se regirán por la Ley Federal del Trabajo.
+
+## TITULO NOVENO. Del Mandato
 
 ### CAPITULO II. De la prestación de Servicios Profesionales
 
@@ -7316,8 +7334,6 @@ ART. 2443.- Los profesores tienen derecho de exigir sus honorarios, cualquiera q
 ART. 2444.- Siempre que un profesor no pueda continuar prestando sus servicios, deberá avisar oportunamente a la persona que lo ocupe, quedando obligado a satisfacer los daños y perjuicios que se causen, cuando no diere este aviso con oportunidad. Respecto de los abogados se observará además lo dispuesto en el artículo 2419.
 
 ART. 2445.- El que preste servicios profesionales sólo es responsable, hacia las personas a quienes sirve, por negligencia, impericia o dolo, sin perjuicio de las penas que merezca en caso de delito.
-
-## TITULO NOVENO. Del Mandato
 
 ### CAPITULO III. Del Contrato de Obras a Precio Alzado
 
@@ -7577,6 +7593,8 @@ ART. 2536.- Ningún socio puede ser excluído de la sociedad sino por el acuerdo
 
 ART. 2537.- El socio excluído es responsable de la parte de pérdidas que le corresponda, y los otros socios pueden retener la parte del capital y utilidades de aquél, hasta concluír las operaciones pendientes al tiempo de la declaración, debiendo hacerse hasta entonces la liquidación correspondiente.
 
+## TITULO DECIMO. Del Contrato de Prestación de Servicios
+
 ### CAPITULO III. De la Administración de la Sociedad
 
 ART. 2538.- La administración de la sociedad puede conferirse a uno o más socios. Habiendo socios especialmente encargados de la administración, los demás no podrán contrariar ni entorpecer las gestiones de aquéllos, ni impedir sus efectos. Si la administración no se hubiere limitado a alguno de los socios, se observará lo dispuesto en el artículo 2548.
@@ -7608,8 +7626,6 @@ ART. 2546.- Las obligaciones que se contraigan por la mayoría de los socios enc
 ART. 2547.- El socio o socios administradores están obligados a rendir cuentas siempre que lo pida la mayoría de los socios, aun cuando no sea la época fijada en el contrato de sociedad.
 
 ART. 2548.- Cuando la administración no se hubiere limitado a alguno de los socios, todos tendrán derecho de concurrir a la dirección y manejo de los negocios comunes. Las decisiones serán tomadas por mayoría, observándose respecto de ésta lo dispuesto en el artículo 2542.
-
-## TITULO DECIMO. Del Contrato de Prestación de Servicios
 
 ### CAPITULO IV. De la Disolución de las Sociedades
 
@@ -8523,6 +8539,8 @@ ART. 2827.- Pagados los créditos enumerados en los capítulos que preceden, se 
 
 ART. 2828.- Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a la fecha ni al origen de los créditos.
 
+## TITULO PRIMERO. De la concurrencia y prelación de los Créditos
+
 ### CAPITULO I. Del Registro Público de la Propiedad
 
 ART. 2829.- Habrá Oficinas del Registro Público de la Propiedad en la Capital del Estado y en cada una de las cabeceras de los distintos Distritos Judiciales.
@@ -8532,8 +8550,6 @@ ART. 2830.- El reglamento fijará el número de secciones de que se componga el 
 ART. 2831.- El Registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del Registro, y de los documentos relacionados con las inscripciones, que estén archivados. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro; así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
 
 Tratándose de testamentos ológrafos depositados en el Registro, se observará lo dispuesto en el artículo 1409.
-
-## TITULO PRIMERO. De la concurrencia y prelación de los Créditos
 
 ### CAPITULO II. De los títulos sujetos a registro y de los efectos legales del registro
 
@@ -8948,3 +8964,9 @@ P.O. 9 DE MAYO DE 1997.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE AGOSTO DE 1997.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los contratos celebrados con anterioridad a la entrada en vigor del presente decreto, se seguirán rigiendo bajo los lineamientos del actual Código Civil del Estado.
