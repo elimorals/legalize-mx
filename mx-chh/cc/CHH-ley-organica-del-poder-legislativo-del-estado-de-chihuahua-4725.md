@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2000-12-23"
+last_updated: "2001-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2001.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -493,9 +493,21 @@ VI.- Aprobar las Condiciones Generales de Trabajo de los Servidores Públicos de
 
 VII.- Autorizar los criterios que se aplicarán para el otorgamiento de apoyos a las comisiones, comités y grupos parlamentarios, que le presente el Comité de Administración;
 
-VIII.- Conocer el informe trimestral que sobre el ejercicio del Presupuesto del Congreso le presente el Comité de Administración, y formular las observaciones que respecto de aquél estime pertinentes, y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2001)</small>
 
-IX.- Ejercer las demás atribuciones que le asignen esta Ley y otros ordenamientos legales aplicables.
+VIII.- Conocer el informe trimestral que sobre el ejercicio del presupuesto del Congreso le presente el Comité de Administración, y formular las observaciones que respecto de aquél estime pertinentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2001)</small>
+
+IX.- Designar, a más tardar el día último de diciembre, al auditor externo que llevará a cabo la auditoría contable de las finanzas de la legislatura de ese ejercicio;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2001)</small>
+
+X.- Conocer el resultado de la auditoría externa anual que sobre el ejercicio del Presupuesto del Congreso le presente el Comité de Administración, y formular las observaciones que respecto de aquél estime pertinentes; y,
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE JUNIO DE 2001)</small>
+
+XI.- Ejercer las demás atribuciones que le asignen esta ley y otros ordenamientos legales aplicables.
 
 ### CAPITULO VI. DE LAS COMISIONES
 
@@ -829,11 +841,25 @@ III.- Autorizar los criterios a que se sujetarán los contratos y convenios que 
 
 IV.- Autorizar la creación de órganos de apoyo administrativo que coadyuven al mejor desempeño de las funciones del Congreso;
 
-V.- Controlar el ejercicio del presupuesto de egresos del Congreso y vigilar el cumplimiento de la normatividad que regula su aplicación y la comprobación del gasto;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2001)</small>
 
-VI.- Conocer, revisar y aprobar en su caso el informe trimestral que le rinda el Oficial Mayor sobre el ejercicio presupuestal del Congreso, y
+V.- Conocer, revisar y aprobar en su caso el informe trimestral que le rinda el Oficial Mayor sobre el ejercicio presupuestal del Congresos (sic);
 
-VII.- Ejercer las demás que esta Ley y otras disposiciones legales le asignen.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2001)</small>
+
+VI.- Controlar el ejercicio del presupuesto de egresos del Congreso y vigilar el cumplimiento de la normatividad que regula su aplicación y la comprobación del gasto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2001)</small>
+
+VII.- Proponer a la Junta de Coordinación Parlamentaria, para los efectos de la fracción anterior, a más tardar el primero de noviembre, la terna de auditores externos para los efectos de la designación a que se refiere la fracción IX, del artículo 42 de esta ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2001)</small>
+
+VIII.- Presentar ante la Junta de Coordinación Parlamentaria, un dictamen respecto al informe que rinda el auditor externo encargado de examinar la cuenta pública anual de la legislatura; debiendo acompañar a dicho dictamen, en forma íntegra el informe original;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE JUNIO DE 2001)</small>
+
+IX.- Ejercer la (sic) demás que esta ley y otras disposiciones legales le asignen.
 
 ###### Art. 71.
 
@@ -909,9 +935,21 @@ XII.- Nombrar y remover al personal de la Oficialía Mayor;
 
 XIII.- Expedir y certificar las copias de documentos oficiales del Congreso, en ausencia de los Secretarios y ProSecretarios;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2001)</small>
 
-XIV.- Atender las demás actividades que le señalen la presente ley y otros ordenamientos legales aplicables.
+XIV.- Designado por la Junta de Coordinación Parlamentaria, el auditor externo que habrá de revisar la Cuenta Pública del Congreso en los términos de esta ley, deberá hacerlo del conocimiento de éste, dentro de los siguientes tres días hábiles a partir de la fecha del acuerdo que lo designó, para la aceptación del cargo y en caso de aceptación, lo prevendrá para que presente su informe dentro de los cuatro meses siguientes;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2001)</small>
+
+XV.- Proporcionar toda información que le solicite el auditor a que se refiere la fracción anterior; así como la documentación comprobatoria y justificatoria del ingreso y gasto públicos del Congreso;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2001)</small>
+
+XVI.- Recibir y presentar al Comité de Administración, sin modificación alguna, el resultado de la auditoría que se practique a la Cuenta Pública Anual de la legislatura; y,
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2001)</small>
+
+XVII.- Atender a las demás actividades que le señalen la presente ley y otros ordenamientos legales aplicables.
 
 ###### Art. 74.
 
@@ -1640,3 +1678,9 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 23 DE DICIEMBRE DE 2000.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JUNIO DE 2001.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
