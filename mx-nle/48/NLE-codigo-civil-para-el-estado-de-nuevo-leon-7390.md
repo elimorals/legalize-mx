@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1997-01-20"
+last_updated: "1997-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1997.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -1353,11 +1353,13 @@ El hijo o la hija que no haya cumplido dieciocho años, no pueden contraer matri
 
 Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, el juez de Primera Instancia de la residencia del menor suplirá el consentimiento.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 1997)</small>
+
 ###### Art. 151.
 
-Los interesados pueden ocurrir al Presidente Municipal respectivo, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. Las autoridades mencionadas después de levantar una información sobre el particular, suplirán o no el consentimiento.
+Los interesados pueden ocurrir al Presidente Municipal respectivo, para el caso de que quienes ejerzan la patria potestad o tutela sobre ellos nieguen su consentimiento o revoquen el que hubieren dado. La autoridad mencionada después de escuchar el parecer de quienes ejerzan la patria potestad o tutela y recabar la debida información, suplirán o denegarán el consentimiento.
 
-En caso de inconformidad de los ascendientes, tutores o pretendientes en la resolución de la autoridad municipal, pueden ocurrir dentro de los ocho días después de haber dictado este su fallo, ante el Gobernador del Estado, quien resolverá en definitiva.
+En caso de inconformidad de los ascendientes, tutores o pretendientes con la resolución de la autoridad municipal, pueden ocurrir dentro de los ocho días después de haber dictado ésta su fallo, ante el Gobernador del Estado, quien resolverá en definitiva.
 
 ###### Art. 152.
 
@@ -2075,19 +2077,15 @@ VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren d
 
 El juez, previo el procedimiento que fije el Código respectivo y velando siempre porque el derecho de los hijos quede garantizado tanto en el orden económico, como en el de su salud física y mental, decretará las medidas necesarias para el efectivo resguardo de dichos derechos.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 1997)</small>
+
 ###### Art. 283.
 
-La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
+En la sentencia que decrete el divorcio, el juez determinará los derechos y obligaciones derivados de la patria potestad y custodia que conservará cada uno de los cónyuges, respecto a la persona y bienes de sus hijos, teniendo en cuenta el interés particular de los menores, su salud, costumbres, educación y conservación de su patrimonio. Para tal efecto deberá el Juez oír al Ministerio Público, a los cónyuges; y en caso de estimarlo necesario, a los abuelos, tíos o hermanos mayores, pudiendo además, discrecionalmente acordar de oficio cualquiera providencia que considere benéfica para los hijos.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1982)</small>
+No será aplicable lo previsto en el párrafo anterior, cuando las causas de divorcio sean las que se señalan en el artículo 267 fracciones VI a excepción de la enfermedad referida en ultimo término y VII, en cuyos casos los hijos quedarán bajo la custodia del cónyuge sano, pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de los hijos y XVII, supuesto este último en el cual se estará a lo previsto en el artículo 273 fracción I de este Código.
 
-Primera.- Cuando la causa del divorcio estuviere comprendida en las Fracciones V y XV del Artículo 267, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda y si no lo hubiere se nombrará tutor.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1982)</small>
-
-Segunda.- Cuando la causa del divorcio estuviere comprendida en las Fracciones I, II, III, IV, VIII, IX, X, XI, XII, XIV y XVI del Artículo 267, los hijos quedarán bajo la patria potestad del cónyuge inocente; pero a la muerte de éste, el cónyuge culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables, se les suspenderá en el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta. Entre tanto, los hijos quedaran bajo la patria potestad del ascendiente que corresponda y si no hay quien lo ejerza, se les nombrará tutor.
-
-Tercera.- En el caso de las fracciones VI y VII del artículo 267, los hijos quedarán en poder del cónyuge sano; pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de sus hijos.
+Para los efectos del párrafo primero de este artículo, el Juez podrá antes de pronunciar sentencia definitiva, oír al Ministerio Público, a los hijos mayores de doce años y, en caso de estimarlo necesario a familiares o personas que concurran con los mismos.
 
 ###### Art. 284.
 
@@ -3071,11 +3069,13 @@ A las personas que tienen al hijo bajo su patria potestad, incumbe la obligació
 
 Cuando llegue a conocimiento de los Consejos Locales de Tutela que las personas de que se trata no cumplen esa obligación, lo avisarán al Ministerio Público para que promueva lo que corresponda.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 1997)</small>
+
 ###### Art. 423.
 
-Los que ejercen la patria potestad tienen la facultad de corregir y castigar a sus hijos mesuradamente.
+Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan menores de edad bajo su custodia, tendrán la facultad corregirlos (sic) mesuradamente, sin llegar al maltrato, así como la obligación de observar una conducta que sirva a éstos de ejemplo para su sano desarrollo.
 
-Las autoridades, en caso necesario, auxiliarán a esas personas, haciendo uso de amonestaciones y correctivos que presten el apoyo suficiente a la autoridad paterna.
+Los jueces tienen la facultad de tomar las medidas necesarias para impedir que un menor sea maltratado por quienes ejerzan sobre él la patria potestad, o la tengan bajo su custodia. Tales medidas se tomaran a instancia de quien acredite un interés legítimo de parentesco o del ministerio publico en todo caso.
 
 ###### Art. 424.
 
@@ -3205,7 +3205,9 @@ I.- Cuando el que la ejerza es condenado expresamente a la pérdida de ese derec
 
 II.- En los casos de divorcio, teniendo en cuenta lo que dispone el Artículo 283;
 
-III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aún cuando esos hechos no cayeren bajo la sanción de la Ley Penal;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 1997)</small>
+
+III.- Cuando por las costumbres depravadas de los padres, abandono de sus deberes o maltrato grave y reiterado, pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aun cuando estos hechos no cayeran bajo la sanción de la ley penal;
 
 IV.- Por la Exposición que el padre o la madre hiciere de sus hijos, o porque los dejen abandonados en los casos siguientes:
 
@@ -3231,7 +3233,17 @@ I.- Por incapacidad declarada judicialmente;
 
 II.- Por la ausencia declarada en forma;
 
-III.- Por sentencia condenatoria que imponga como pena esta suspensión.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 1997)</small>
+
+III.- Por sentencia condenatoria que imponga como pena esta suspensión; y
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+
+IV.- Por maltrato inferido a los menores sujetos a la misma, aun cuando no constituya delito.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 1997)</small>
+
+Para el caso de la última fracción el ejercicio de la acción corresponderá indistintamente a quienes señalan en el artículo 414 de este código y solo a falta o negativa de estos, por el Ministerio Público. El Juez en tal caso, al admitir la demanda decretará la inmediata atención al menor maltratado, ordenando las medidas conducentes y previo el procedimiento correspondiente decretará la suspensión de la patria potestad y podrá ordenar que los ascendientes sean sometidos en las instituciones oficiales o privadas a tratamiento psicológico o psiquiátrico por el término necesario a fin de lograr su recuperación emocional, que les acredite para ser restablecidos en el ejercicio de tal derecho.
 
 ###### Art. 448.
 
@@ -4089,7 +4101,13 @@ La tutela se extingue:
 
 I.- Por la muerte del pupilo o porque desaparezca su incapacidad;
 
-II.- Cuando el incapacitado, sujeto a tutela entre a la patria potestad por reconocimiento o por adopción;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 1997)</small>
+
+II.- Cuando el incapacitado, sujeto a tutela entre a la patria potestad por reconocimiento o por adopción; y
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+
+III.- Por maltrato inferido a los menores o incapacitados. Para el caso de la última fracción, los jueces tienen facultad de tomar las medidas necesarias para impedir que el pupilo sea maltratado por el tutor. Tales medidas se tomarán a instancia de quien acredite interés legítimo de parentesco o del Ministerio Público en todo caso.
 
 ### CAPITULO V. DE LA PRESUNCION DE MUERTE DEL AUSENTE
 
@@ -15840,6 +15858,16 @@ P.O. 9 DE FEBRERO DE 1996.
 P.O. 20 DE ENERO DE 1997.
 
 Unico:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE ENERO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+En relación a las adiciones que se mencionan en el artículo quinto de este Decreto, las instituciones ya establecidas deberán cumplir con todas las obligaciones señaladas en el mismo, en un plazo no mayor de treinta días a partir de su vigencia y el Consejo Estatal de Adopciones dará a conocer los formatos e instructivos a través de los que se proporcionará la información, lo cual deberá hacerse en un plazo no mayor de diez días a partir de la iniciación de la vigencia de este Decreto.
 
 ###### ARTICULO TERCERO.
 
