@@ -4,7 +4,7 @@ identifier: "FED-ley-del-servicio-de-inspeccion-fiscal-2589"
 country: "mx"
 rank: "ley"
 publication_date: "1936-04-13"
-last_updated: "1936-04-13"
+last_updated: "1936-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2589&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1936-03-17"
 
 LEY DEL SERVICIO DE INSPECCION FISCAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 1936.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 13 de abril de 1936.
 
@@ -447,11 +447,11 @@ En la instrucción de las averiguaciones de que trata el artículo anterior, cua
 
 En la instrucción de las averiguaciones que tengan por objeto la comprobación de las irregularidades a que se refiere el artículo anterior, se observarán en todo lo relativo, las disposiciones del Código Federal de Procedimientos Penales.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
+
 ###### ARTICULO 64.
 
-Cuando se presuma la existencia de alguna responsabilidad, se procederá al secuestro de los bienes del responsable en la medida en que sea necesario para el aseguramiento de los intereses del Fisco.
-
-El secuestro no podrá prolongarse por más de treinta días sin que se constituya la responsabilidad por la autoridad administrativa competente o se haga la consignación al Ministerio Público Federal, para que éste solicite de la autoridad judicial el embargo precautorio en los términos señalados por el artículo 149 del Código Federal de Procedimientos Penales.
+Cuando se presuma la existencia de alguna responsabilidad, se procederá al secuestro de los bienes del responsable, en la medida en que sea necesario para el aseguramiento de los intereses del fisco.
 
 ###### ARTICULO 65.
 
@@ -708,3 +708,9 @@ Se derogan todas las disposiciones legales vigentes en materia de inspección fi
 Las disposiciones legales a que se refiere el artículo anterior, entretanto se expiden el reglamento de la presente ley y los instructivos que previene el artículo 77, continuarán observándose con el carácter de instructivos, en lo que estrictamente fueren aplicables en materia de procedimientos, informes, avisos y documentación que deban producirse con motivo de los actos de inspección fiscal.
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su publicación y observancia, promulgo la presente ley, en la residencia del Poder Ejecutivo Federal, en la ciudad de México, a los diecisiete días del mes de marzo de mil novecientos treinta y seis.- Lázaro Cárdenas.- Rúbrica.- El Secretario de Estado y del Despacho de Hacienda y Crédito Público, Eduardo Suárez.- Rúbrica.- Al C. Licenciado Silvano Barba González, Secretario de Gobernación.- Presente.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+|D.O.F. 31 DE AGOSTO DE 1936.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
