@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-agua-y-saneamiento-del-estado-de-puebla-7504"
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-28"
-last_updated: "1992-02-28"
+last_updated: "1992-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE AGUA Y SANEAMIENTO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 1992.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 28 de febrero de 1992.
 
@@ -245,11 +245,15 @@ El Consejo de Administración estará integrado por:
 
 I.- Un miembro que será nombrado por el Ejecutivo.
 
-II.- El Secretario de Asentamientos Humanos y Obras Públicas.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
+II.- El Secretario de Desarrollo Urbano y Ecología.
 
 III.- El Secretario de Salud Pública.
 
-IV.- El Delegado en el Estado de la Secretaría de Desarrollo Urbano y Ecología.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
+IV.- El Delegado en el Estado de la Secretaría de Desarrollo Social.
 
 V.- El Gerente en el Estado de la Comisión Nacional del Agua.
 
@@ -487,7 +491,9 @@ I.- Dentro de los treinta días siguientes a la fecha en que se notifique al pro
 
 II.- Dentro de los treinta días contados a partir de la fecha en que se adquiera la posesión del predio.
 
-III.- Dentro de los treinta días siguientes a la fecha de apertura de locales destinados a giros o establecimientos comerciales, industriales y en general para uso distinto al habitacional.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
+III.- Dentro de los treinta días siguientes a la fecha de apertura o traspaso de locales destinados a giros o establecimientos comerciales, industriales y en general para uso distinto al habitacional.
 
 IV.- Dentro de los quince días anteriores al inicio de una obra de construcción o urbanización.
 
@@ -515,7 +521,9 @@ Presentada la solicitud debidamente requisitada, dentro de los tres días siguie
 
 I.- Comprobar la veracidad de los datos proporcionados por el solicitante y en general, conocer las características del predio de que se trate para determinar las condiciones para el otorgamiento del servicio.
 
-II.- Determinar el presupuesto para el otorgamiento de los servicios solicitados, que comprenderá el importe del material necesario y de mano de obra, ruptura y reposición de banqueta, guarnición y pavimento si lo hubiese, así como cualquier otro trabajo que se requiera.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
+II.- Determinar el presupuesto para el otorgamiento de los servicios solicitados, que comprenderá el importe del material necesario y de mano de obra, ruptura y reposición de banqueta, guarnición o pavimento, así como el de las obras de infraestructura hidráulica que haya que realizar a fin de otorgarle el caudal de agua potable o el volumen de descarga de aguas residuales, que haya solicitado.
 
 III.- Obtener el informe sobre los datos a que se refieren las fracciones anteriores.
 
@@ -523,9 +531,11 @@ III.- Obtener el informe sobre los datos a que se refieren las fracciones anteri
 
 Las conexiones e instalaciones de la toma solicitada, se autorizarán en base al resultado de la inspección practicada, en un término de seis días computables a partir de la recepción del informe a que se refiere la fracción III del artículo anterior.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 42.
 
-Aprobada la solicitud y pagado el importe del servicio que corresponda, la Autoridad Competente ordenará la instalación de la toma y la conexión de las descargas de aguas negras y/o pluviales, lo cual deberá llevarse a cabo dentro de los diez días siguientes a la fecha de pago.
+Efectuado el pago de los derechos y si es el caso, el de las obras de infraestructura hidráulica a que se refiere la fracción II del artículo 40 de esta Ley, se ordenará dentro de los diez días hábiles siguientes la instalación de la toma y la conexión de las descargas de aguas negras o pluviales.
 
 ###### ARTICULO 43.
 
@@ -583,9 +593,11 @@ V.- Que existan todas las demás circunstancias análogas a las señaladas, que 
 
 Los locales o accesorias no se considerarán como predios distintos, aunque carezcan de comunicación directa con el resto del edificio del que formen parte, pero si en ellos se establecen giros o establecimientos que conforme a la Ley y su Reglamento deben surtirse de agua potable y contar con descarga de aguas residuales, serán obligatorias las instalaciones de la toma y descarga correspondientes, excepto cuando la Autoridad Competente autorice su derivación.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 52.
 
-Cuando un edificio que tenga instalada una sola toma de agua, pase al régimen de propiedad en condominio, la Autoridad Competente podrá autorizar que se siga surtiendo de dicha toma, eximiéndose así a los propietarios o poseedores de cada piso, departamento o local, de la instalación de tomas y descargas individuales.
+La fecha en que la autoridad competente autorice la toma o tomas de un predio sujeto a régimen de propiedad en condominio, se considerará para el inicio del cobro de los derechos correspondientes a cada departamento, local o piso, aun cuando la constitución del régimen de propiedad en condominio, no se haya formalizado en escritura pública.
 
 ###### ARTICULO 53.
 
@@ -721,7 +733,9 @@ II.- Los lavabos para aseo público deberán utilizar válvulas de contacto.
 
 III.- Las regaderas para baño, las llaves de lavabo y los rociadores de jardín deben utilizar el sistema conocido como atomizador o boquillas ahorradoras; y
 
-IV.- Las nuevas construcciones deberán de contar con drenajes separados, uno para aguas grises y/o pluviales y el otro para aguas negras, de acuerdo a la reglamentación que al efecto se expida.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
+IV.- En las nuevas construcciones se deberán de efectuar las instalaciones que la autoridad competente fije, a efecto de que cuenten con aparato medidor, así como drenajes separados, uno para aguas negras y otro para grises o pluviales.
 
 ###### ARTICULO 74.
 
@@ -751,11 +765,11 @@ Para el pago de las cuotas y tarifas, se tomará en cuenta la superficie, volume
 
 En los lugares que exista alcantarillado sanitario, su costo se cobrará fijando cuotas en un porcentaje que será proporcional al pago que el usuario efectúe por suministro de agua, o en función de los metros cúbicos y la calidad contaminante del agua residual que descargue.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 80.
 
-En caso de edificaciones sujetas al régimen de propiedad en condominio, los propietarios de cada piso, departamento o local pagarán los servicios en forma independiente, y se cubrirán además por medio de la administración del condominio, las cuotas que proporcionalmente le correspondan por los servicios que reciban comúnmente del propio edificio. De este último pago responden solidariamente los propietarios o poseedores, y se podrá embargar la totalidad del inmueble.
-
-Cuando este tipo de edificios tengan una sola toma y carezcan de medidor y una sola descarga, será pagada una cuota fija por cada uno de los propietarios o poseedores, incluyendo la del servicio administrativo o común.
+En caso de edificaciones sujetas a régimen de propiedad en condominio, los propietarios de cada piso, local o departamento, pagarán los servicios en forma independiente y se cubrirán además por medio de la administración del condominio, las cuotas que proporcionalmente correspondan por los servicios que reciban comúnmente del propio inmueble excepto cuando sólo se cuente con una toma y por lo tanto exista instalado un solo aparto (sic) medidor, caso en el que el pago de las cuotas será cubierto por la administración del condominio. De este último pago responden proporcional y solidariamente los propietarios o poseedores y se podrá embargar la totalidad del inmueble.
 
 ###### ARTICULO 81.
 
@@ -763,13 +777,27 @@ El servicio de suministro de agua en el Estado, será medido, siendo obligatoria
 
 En los lugares donde no haya medidores o mientras éstos no se instalen, los pagos serán de conformidad con las cuotas fijas autorizadas.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 82.
 
-Cuando no sea posible efectuar la medición del consumo de agua, las cuotas por los servicios se cubrirán promediando el importe del consumo efectuado cuando menos en tres lecturas o por cuota fija, a elección de la Autoridad Competente.
+Cuando no sea posible efectuar la medición de consumo de agua por causas ajenas al usuario, el pago de los derechos que correspondan, se cubrirán promediando cuando menos las tres últimas lecturas o por cuota fija, a elección de la autoridad competente.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 83.
 
-La falta de pago oportuno faculta a la autoridad competente a utilizar las medidas económico-coactivas que señale el Código Fiscal aplicable.
+La autoridad competente está facultada para aplicar las medidas económico-coactivas que señale el Código Fiscal aplicable en los siguientes casos:
+
+I.- Cuando el usuario adeude el pago correspondiente a dos períodos de servicio cuando éste sea distinto a habitacional o cuatro si se trata habitacional.
+
+II.- Cuando el usuario se niegue a la instalación del aparato medidor o no permita su lectura.
+
+III.- Cuando el usuario no permita o se niegue la verificación de sus instalaciones hidráulicas.
+
+IV.- Cuando el usuario cuente con conexión a la red de agua potable, drenaje y alcantarillado, sin tener la autorización correspondiente, o ésta no corresponda a la autorizada.
+
+V.- Cuando el usuario efectúe la descarga de sus aguas, fuera de los parámetros autorizados.
 
 ###### ARTICULO 84.
 
@@ -827,11 +855,15 @@ Las actas deberán ser firmadas por el visitado o por la persona con quien se ha
 
 ### CAPITULO III. DE LA ESTIMACION PRESUNTIVA PARA EL PAGO DE LOS SERVICIOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 92.
 
-Las Autoridades Competentes, podrán estimar presuntivamente los créditos fiscales a cargo de los usuarios cuando:
+Las autoridades competentes, podrán estimar presuntivamente el pago de las contribuciones a que esta Ley se refiere, cuando los usuarios:
 
-I.- Impidan u obstaculicen por cualquier medio la iniciación o desarrollo de las visitas de inspección de los predios, giros o establecimientos.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
+I.- Impidan u obstaculicen a la autoridad competente la iniciación o desarrollo de sus facultades de inspección, verificación o medición. .
 
 II.- No proporcionen la documentación, informes o datos que se les soliciten o los presenten alterados, falsificados o existan vicios o irregularidades en los mismos.
 
@@ -849,7 +881,17 @@ VIII.- Los sellos del medidor estén rotos o alterados.
 
 IX.- En general realicen actos por medio de los cuales usen, aprovechen o se beneficien de los servicios objeto de esta Ley, omitiendo el pago de los derechos que correspondan; y
 
-X.- Realicen actos reglamentados por esta Ley, omitiendo los requisitos por ella establecidos.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
+X.- Retiren el aparato medidor o varíen su colocación ya sea de manera provisional o definitiva.
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
+XI.- En general realicen actos por medio de los cuales usen, aprovechen o se beneficien de los servicios objeto de esta Ley, omitiendo el pago de los derechos que correspondan.
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
+XII.- Incurran en cualquier acto u omisión distinto de los enumerados en las fracciones que anteceden, que en alguna forma infrinjan las disposiciones de esta Ley o su Reglamento, omitiendo lo que ordenen o haciendo lo que prohiban.
 
 ###### ARTICULO 93.
 
@@ -905,13 +947,19 @@ IV.- Utilizando los medios indirectos de la investigación económica o de cualq
 
 V.- El volumen que señale la solicitud de servicio o el permiso de descarga respectivo, de acuerdo a las características de sus instalaciones.
 
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
+VI.- Considerar la lectura mensual más alta reportada dentro de los últimos doce meses.
+
 ###### ARTICULO 94.
 
 Con relación a las fracciones I y II del artículo anterior, la Autoridad Competente podrá indistintamente obtener el diámetro de las tuberías utilizadas para las conexiones, mediante la medición física de dichas tuberías o por medio de sistemas mecánicos, neumáticos, magnéticos o electrónicos que se introduzcan a las redes de distribución de agua o a las de drenaje o alcantarillado.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 95.
 
-La estimación presuntiva a que este capítulo se refiere, se efectuará aplicando las cuotas o tarifas vigentes en la fecha en que la Autoridad Competente conozca de los hechos a que se refiere el artículo 92 de esta Ley.
+El período por el cual se realice la estimación presuntiva a que este capítulo se refiere, salvo prueba en contrario, abarcará los cinco años anteriores a la fecha en que la autoridad competente conoció de los hechos a que se refiere el artículo 92 de esta Ley.
 
 ###### ARTICULO 96.
 
@@ -1019,6 +1067,10 @@ II.- No prestar a las Autoridades Competentes, el auxilio necesario para la dete
 
 Las Autoridades Competentes, impondrán las sanciones administrativas por infracción a las disposiciones que establece esta Ley y su Reglamento, de acuerdo a los montos contenidos anualmente en el decreto o los decretos a que se refiere el artículo 75 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
+Para la aplicación de las sanciones, la autoridad competente considerará como infracciones graves entre otras, aquellas cometidas utilizando tubería superior a tres cuartos de pulgada de diámetro para el caso de las relacionadas a agua potable o de quince centímetros de diámetro para las relativas a drenaje o alcantarillado.
+
 ## TITULO SEXTO. DEL RECURSO ADMINISTRATIVO DE REVOCACION
 
 ###### ARTICULO 102.
@@ -1120,3 +1172,9 @@ Los archivos, estudios, proyectos, documentos, mobiliario, equipo y demás biene
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los treinta días del mes de enero de mil novecientos noventa y dos.- Diputado Presidente.- Lic. Rodolfo Budib Lichtle.- Rúbrica.- Diputado Secretario.- Juan Balderas Muñoz.- Rúbrica.- Diputado Secretario.- Lic. Juan Miguel Madera López.- Rúbrica.
 
 Por tanto mando se imprima, publique y circule para sus efectos, dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza a 30 de Enero de 1992.- El Gobernador del Estado.- Lic. Mariano Piña Olaya.- Rúbrica.- El Secretario de Gobernación.- Lic. Héctor Jiménez y Meneses.- Rúbrica.
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 15 DE DICIEMBRE DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y tres.
