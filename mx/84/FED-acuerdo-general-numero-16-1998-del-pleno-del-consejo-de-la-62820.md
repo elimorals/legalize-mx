@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "1999-08-25"
+last_updated: "1999-09-09"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE AGOSTO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE SEPTIEMBRE DE 1999.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL ACUERDO QUE MODIFICA AL PRESENTE ORDENAMIENTO, VER ARTICULO PRIMERO TRANSITORIO DEL MISMO.</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -115,7 +117,9 @@ I.- PRIMER CIRCUITO:
 
 II.- SEGUNDO CIRCUITO:
 
-1.- Seis tribunales colegiados especializados: dos en materia penal, uno en materia administrativa, dos en materia civil y uno en materia de trabajo, todos con residencia en la ciudad de Toluca.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 25/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE SEPTIEMBRE DE 1999)</small>
+
+1.- Ocho tribunales colegiados especializados: dos en materia penal, dos en materia administrativa, tres en materia civil y uno en materia de trabajo, todos con residencia en la ciudad de Toluca.
 
 2.- Tres tribunales unitarios: dos con sede en la ciudad de Toluca y uno con residencia en Ciudad Nezahualcóyotl.
 
@@ -173,7 +177,7 @@ VIII.- OCTAVO CIRCUITO:
 
 > <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 23/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE JUNIO DE 1998)</small>
 
-1.- Tres tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Torreón
+1.- Tres tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Torreón.
 
 2.- Seis juzgados de distrito: dos con sede en la ciudad de Saltillo, uno con residencia en la ciudad de Piedras Negras, uno con sede en la ciudad de Monclova y dos en La Laguna con residencia en la ciudad de Torreón.
 
@@ -686,5 +690,25 @@ D.O.F. 25 DE AGOSTO DE 1999.
 PRIMERO.- Este Acuerdo entrará en vigor el día diez de septiembre de mil novecientos noventa y nueve.
 
 SEGUNDO.- Se modifica y adiciona el Acuerdo General número 16/1998, del Pleno del Consejo de la Judicatura Federal, de fecha veinte de mayo de mil novecientos noventa y ocho, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 9 DE SEPTIEMBRE DE 1999.
+
+ACUERDO GENERAL NUMERO 24/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día treinta de septiembre de mil novecientos noventa y nueve.
+
+SEGUNDO.- Se modifica el Acuerdo General número 16/1998, del Pleno del Consejo de la Judicatura Federal, de fecha veinte de mayo de mil novecientos noventa y ocho, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 9 DE SEPTIEMBRE DE 1999.
+
+ACUERDO GENERAL NUMERO 25/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día treinta de septiembre de mil novecientos noventa y nueve.
+
+SEGUNDO.- Se modifica el Acuerdo General número 16/1998, del Pleno del Consejo de la Judicatura Federal, de fecha veinte de mayo de mil novecientos noventa y ocho, en los términos señalados en el presente Acuerdo.
 
 TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
