@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-48-1998-del-pleno-del-consejo-de-la-1499
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-03-23"
-last_updated: "2003-02-04"
+last_updated: "2003-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14993&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-09"
 
 ACUERDO GENERAL NUMERO 48/1998, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE FEBRERO DE 2003.
+ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MARZO DE 2003.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 23 de marzo de 1999.
 
@@ -2077,11 +2077,11 @@ La suspensión temporal de los presuntos responsables de sus cargos, empleos o c
 
 Al momento de pronunciarse la resolución dentro de un procedimiento administrativo de responsabilidad, en el que se haya acreditado la falta imputada al servidor público, el Pleno podrá dictar las medidas que considere convenientes para la corrección o remedio inmediato de la irregularidad o irregularidades imputadas, independientemente de la sanción que aquél decida imponer al servidor público en contra de quien se integró la inconformidad.
 
-> <small>(REFORMADO POR EL ACUERDO GENERAL 93/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE DICIEMBRE DE 2000)</small>
+(REFORMADO POR EL ACUERDO GENERAL 12/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2003) (F. DE E., D.O.F. 20 DE MARZO DE 2003)
 
 ###### Artículo 230.
 
-El apercibimiento privado y la amonestación privada que se impongan como sanción al resolver algún procedimiento administrativo de responsabilidad, incluyendo los tramitados por el Instituto Federal de Defensoría Pública o por la Contraloría General, se notificarán por la Secretaría Ejecutiva de Disciplina, por conducto de un actuario, cuando el servidor público sancionado se encuentre adscrito en algún órgano jurisdiccional cuya residencia se ubique en el Distrito Federal o zona conurbada y por correo certificado o servicio de mensajería, cuando la adscripción se tenga en cualquier otro lugar de la República. El apercibimiento público y la amonestación pública se notificarán por conducto del Presidente de la Comisión de Disciplina, en el seno del Consejo, o bien por conducto del Visitador Judicial o Juez de Distrito comisionados para tal fin, para lo cual se citará al servidor público respectivo y de la diligencia se levantará un acta circunstanciada que firmarán los que hayan intervenido en ella. Las restantes sanciones previstas en el artículo 135 de la Ley, se notificarán por conducto del Presidente de la Comisión de Disciplina, Secretaría Ejecutiva de Disciplina o Coordinación de dicha Secretaría Ejecutiva, en el entendido de que también en este caso deberá levantarse la correspondiente acta circunstanciada.
+El apercibimiento privado y la amonestación privada que se impongan como sanción al resolver algún procedimiento administrativo de responsabilidad, incluyendo los tramitados por el Instituto Federal de Defensoría Pública o por la Contraloría del Poder Judicial de la Federación, se notificarán por la Secretaría Ejecutiva de Disciplina por conducto de un actuario, cuando el servidor público sancionado se encuentre adscrito en algún órgano jurisdiccional cuya residencia se ubique en el Distrito Federal o zona conurbada y por correo certificado o servicio de mensajería cuando la adscripción se tenga en cualquier otro lugar de la República. El apercibimiento público y la amonestación pública se notificarán por conducto del Presidente de la Comisión de Disciplina, en el seno del Consejo, o bien por conducto del Visitador Judicial o Juez de Distrito comisionados para tal fin, para lo cual se citará al servidor público respectivo y de la diligencia se levantará un acta circunstanciada que firmarán los que hayan intervenido en ella. Las restantes sanciones previstas en el artículo 135 de la Ley, se notificarán por conducto del Presidente de la Comisión de Disciplina, el titular de la Secretaría Ejecutiva de Disciplina, o por algún Secretario Técnico adscrito a dicha Secretaría, quien para ese efecto, estará investido de fe pública, en el entendido de que también en este caso, deberá levantarse la correspondiente acta circunstanciada.
 
 ###### Artículo 231.
 
@@ -2461,12 +2461,6 @@ PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
-D.O.F. 21 DE DICIEMBRE DE 2000.
-
-PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
-
 D.O.F. 17 DE ENERO DE 2001.
 
 PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
@@ -2480,6 +2474,12 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 D.O.F. 4 DE FEBRERO DE 2003.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 14 DE MARZO DE 2003.
 
 PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 
