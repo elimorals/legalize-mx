@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-poder-legislativo-para-la-aplicacion-de-la-21161
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-09"
-last_updated: "2001-03-09"
+last_updated: "2004-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO DEL PODER LEGISLATIVO PARA LA APLICACION DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 9 de marzo de 2001.
 
@@ -59,7 +59,9 @@ Para los efectos del presente Reglamento deberá entenderse por:
 
 Ley: la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro;
 
-Comisión: La Comisión de Administración de la Legislatura;
+> <small>(REFORMADO, 9 DE ABRIL DE 2004)</small>
+
+Comisión: La Comisión de Vigilancia del Poder Legislativo;
 
 Comité: el Comité a que hace referencia el artículo 19 de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios.
 
@@ -107,11 +109,17 @@ I.- Un Presidente, que será el Presidente de la Comisión;
 
 II.- Un Secretario Ejecutivo, que será el Secretario de la Comisión; y
 
-III.- Tres vocales, que serán el Oficial Mayor, el Tesorero de la Legislatura, y un Prosecretario de la Comisión que ésta designe.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2004)</small>
+
+III.- Tres vocales, que serán el Oficial Mayor, el Tesorero y un integrante de la Comisión que ésta designe.
 
 Cada miembro tendrá un suplente, los cuales serán nombrados por la Comisión.
 
 Las decisiones del Comité serán tomadas por mayoría de votos del total de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2004)</small>
+
+Los integrantes del Comité podrán invitar a funcionarios internos y auxiliarse del personal que requieran para cumplir con su función.
 
 ## TÍTULO TERCERO
 
@@ -250,3 +258,9 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 LIC. MARIA GUADALUPE MURGUIA GUTIERREZ
 
 SECRETARIO DE GOBIERNO
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+P.O. 9 DE ABRIL DE 2004.
+
+PRIMERO.- Este Decreto entrará en vigor a partir de su aprobación por el Pleno de la LIV Legislatura del Estado.
