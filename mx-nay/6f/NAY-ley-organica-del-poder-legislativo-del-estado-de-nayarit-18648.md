@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-18648"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-03-08"
-last_updated: "2004-06-16"
+last_updated: "2004-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 8 de marzo de 2000.
 
@@ -183,7 +183,7 @@ VIII.- Contar con un local o cubículo privado, personal secretarial y elementos
 
 IX.- Contar con asesoría y apoyo técnico profesional multidisciplinario en las Comisiones a las que pertenezca para el análisis, estudio y dictamen de los asuntos o iniciativas turnadas;
 
-X.- (DEROGADA, RECORRIÉNDOSE EN SU ORDEN LA FRACCION XI, , P.O. 3 DE JUNIO DEL 2000)
+X.- (DEROGADA, RECORRIENDOSE EN SU ORDEN LA FRACCION XI, P.O. 3 DE JUNIO DEL 2000)
 
 X.- Gozar de licencias para separarse de su cargo temporal o definitivamente, de acuerdo con lo estipulado en la Constitución Local, esta Ley y su Reglamento; y
 
@@ -417,11 +417,15 @@ Será Presidente de la Comisión de Gobierno Legislativo, por el término de la 
 
 El Presidente del Congreso hará la declaratoria de constitución de la Comisión de Gobierno Legislativo, la cual a partir de ese momento ejercerá sus atribuciones.
 
-###### ARTICULO 41.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2004)</small>
 
-La Comisión de Gobierno Legislativo fungirá como Organo de Gobierno a fin de optimizar el ejercicio de las funciones legislativas, políticas y administrativas de la Cámara de Diputados. Los acuerdos que tome esta Comisión serán por votación ponderada, es decir en atención al porcentaje de representación que corresponda al número de diputados de cada partido, respecto del total de la Asamblea; y tendrá las siguientes atribuciones:
+###### Artículo 41.
 
-I.- Representar al Congreso y delegar su representación en cualquiera de los diputados para actos específicos;
+La Comisión de Gobierno Legislativo fungirá como Órgano de Gobierno a fin de optimizar el ejercicio de las funciones legislativas, políticas y administrativas de la Cámara de Diputados. Los acuerdos que tome esta Comisión serán por votación ponderada, es decir en atención al porcentaje de representación que corresponda al número de diputados de cada partido, respecto del total de la Asamblea; y tendrá las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2004)</small>
+
+I. Representar la pluralidad de los partidos políticos acreditados en el Congreso en los términos de la presente ley.
 
 II.- Conducir las relaciones políticas de la Legislatura con los Poderes Ejecutivo y Judicial del Estado, con los Poderes de las demás Entidades de la República, los Poderes de la Unión y los Ayuntamientos de la Entidad;
 
@@ -454,6 +458,10 @@ XI.- Las demás que se deriven de esta Ley, su Reglamento y las que determine la
 El Presidente de la Comisión de Gobierno Legislativo tendrá como funciones principales la coordinación, organización y seguimiento de las actividades político-legislativas del Congreso, así como las tareas administrativas y laborales que correspondan conforme a la Ley y a su Reglamento. Podrá establecer sistemas de coordinación legislativa con los líderes de los demás grupos parlamentarios, sobre la base del respeto recíproco e impulso a las actividades que le son propias.
 
 Además, llevar la representación del Congreso o delegarla en su caso, en la celebración del calendario cívico, actos, reuniones o convenciones legislativas.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2004)</small>
+
+El Presidente de la Comisión de Gobierno Legislativo, ejercerá la representación jurídica del Congreso en todos los juicios y asuntos en que éste fuere parte y podrá delegarla en los términos del Reglamento para el Gobierno Interior del Congreso.
 
 El Primer Vicepresidente suplirá las ausencias del Presidente y coadyuvará en el desempeño de sus funciones.
 
@@ -1186,3 +1194,7 @@ P.O. 16 DE JUNIO DE 2004.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Segundo.- Por lo que respecta a la numeración progresiva de los expedientes legislativos que contengan las resoluciones aprobadas por la legislatura, entrará en vigor hasta el 17 de agosto de 2005.
+
+P.O. 11 DE SEPTIEMBRE DE 2004.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
