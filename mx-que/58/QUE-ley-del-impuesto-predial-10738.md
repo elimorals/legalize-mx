@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-impuesto-predial-10738"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-31"
-last_updated: "2000-12-29"
+last_updated: "2002-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DEL IMPUESTO PREDIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO PREDIAL DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO, PUBLICADO EN EL PERIODICO OFICIAL EL 13 DE NOVIEMBRE DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial, el 31 de diciembre de 1986.
 
@@ -544,3 +546,17 @@ La presente Ley entrará en vigor a partir del día primero de enero del año 20
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 13 DE NOVIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día primero de enero del año 2003.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente, y se abroga la Ley del Impuesto Predial publicada el 31 de diciembre de 1986.
+
+###### ARTÍCULO TERCERO.
+
+En los casos que la actualización de los valores catastrales y la aplicación de la tarifa correspondiente, resulte como consecuencia un incremento mayor al 20% del Impuesto causado en el año 2002, únicamente se incrementará un 20% cada año, hasta quedar en igualdad con el resto de los contribuyentes.
