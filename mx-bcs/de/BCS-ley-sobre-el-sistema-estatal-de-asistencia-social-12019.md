@@ -4,7 +4,7 @@ identifier: "BCS-ley-sobre-el-sistema-estatal-de-asistencia-social-12019"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-20"
-last_updated: "1986-08-20"
+last_updated: "1998-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MARZO DE 1998.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 20 de agosto de 1986.
 
@@ -237,9 +237,15 @@ XV.- Poner a disposición del Ministerio Público los elementos a su alcance en 
 
 XVI.- Participar en programas de rehabilitación y educación especial;
 
-XVII.- Proponer a las autoridades correspondientes la adaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía de los inválidos, minusválidos e incapaces y;
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 1998)</small>
 
-XVIII.- Las demás que establezcan las disposiciones aplicables en la materia.
+XVII.- Proponer a las autoridades correspondientes la adaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía de los inválidos, minusválidos e incapaces;
+
+> <small>(ADICIONADA, B.O. 31 DE MARZO DE 1998)</small>
+
+XVIII.- Administrar, de acuerdo a las bases legales relativas, los apoyos y participaciones que el Gobierno Federal, destine exclusivamente al otorgamiento de desayunos escolares, apoyos alimentarios, asistencia social a población en pobreza extrema, auxilio a la población en desamparo, así como otros apoyos que refieren la asistencia social en general; y
+
+XIX.- Las demás que establezcan las disposiciones aplicables en la materia.
 
 ###### ARTICULO 19.
 
@@ -518,3 +524,15 @@ ALBERTO ANDRES ALVARADO ARAMBURO.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ANTONIO B. MANRIQUEZ GULUARTE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 31 DE MARZO DE 1998.
+
+###### ARTICULO PRIMERO.
+
+Las presentes adiciones entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
