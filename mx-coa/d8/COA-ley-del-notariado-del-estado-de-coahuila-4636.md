@@ -4,7 +4,7 @@ identifier: "COA-ley-del-notariado-del-estado-de-coahuila-4636"
 country: "mx"
 rank: "ley"
 publication_date: "1979-02-06"
-last_updated: "1980-10-24"
+last_updated: "1989-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4636&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL NOTARIADO DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1989.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 6 de febrero de 1979.
 
@@ -397,9 +397,11 @@ Se exceptúan de lo dispuesto en el párrafo anterior, los actos que, conforme a
 
 Tratándose de protocolización de documentos o constancias judiciales, el notario hará previamente una relación que los identifique de la manera más clara; en todo caso agregará tales documentos o constancias al apéndice marcados con los números que les correspondan. El requisito de protocolización de documentos, incluyendo la llamada Nota del Timbre y los recibos de Traslación de Dominio, etcétera, será cumplido con el hecho de agregar el documento respectivo al apéndice, insertándolo posteriormente en el testimonio respectivo, mediante transcripción o incorporación de copia en los términos de la presente ley.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1989)</small>
+
 ###### ARTICULO 44.
 
-Las transmisiones de bienes inmuebles, cuyo valor convencional, fiscal sea mayor de $5,000.00, y la constitución, transmisión o cancelación de derechos reales sobre inmuebles, estimados en más de $5,000.00, o que garanticen un crédito por mayor cantidad que la mencionada, deberán constar para su validez en escritura pública.
+Las transmisiones de bienes inmuebles, cuyo valor sea mayor de trescientas sesenta y cinco veces el salario mínimo general diario vigente en el Estado en el momento de la operación, y la Constitución, transmisión o cancelación de derechos reales sobre inmuebles por tal cantidad, deberán constar para su validez en escritura pública.
 
 ###### ARTICULO 45.
 
@@ -1500,3 +1502,11 @@ Los Notarios que al entrar en vigor el presente Decreto, tengan en su poder prot
 ###### ARTICULO QUINTO.
 
 El sello de los Notarios en ejercicio deberá reunir los requisitos que establece el artículo 107 fracción I de la Ley del Notariado.
+
+P.O. 28 DE FEBRERO DE 1989.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
