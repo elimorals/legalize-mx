@@ -4,7 +4,7 @@ identifier: "LSAR"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-23"
-last_updated: "2002-12-10"
+last_updated: "2002-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2613&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSAR"
 
 LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de mayo de 1996.
 
@@ -56,7 +56,7 @@ La coordinación, regulación, supervisión y vigilancia de los sistemas de ahor
 
 Para los efectos de esta ley, se entenderá por:
 
-l. Administradora, a las administradoras de fondos para el retiro;
+I. Administradora, a las administradoras de fondos para el retiro;
 
 II. Base de Datos Nacional SAR, aquélla conformada por la información procedente de los sistemas de ahorro para el retiro, conteniendo la información individual de cada trabajador y el registro de la administradora o institución de crédito en que cada uno de éstos se encuentra afiliado;
 
@@ -114,7 +114,7 @@ La interpretación de los preceptos de esta ley, para efectos administrativos, c
 
 La Comisión tendrá las facultades siguientes:
 
-l. Regular, mediante la expedición de disposiciones de carácter general, lo relativo a la operación de los sistemas de ahorro para el retiro, la recepción, depósito, transmisión y administración de las cuotas y aportaciones correspondientes a dichos sistemas, así como la transmisión, manejo e intercambio de información entre las dependencias y entidades de la Administración Pública Federal, los institutos de seguridad social y los participantes en los referidos sistemas, determinando los procedimientos para su buen funcionamiento;
+I. Regular, mediante la expedición de disposiciones de carácter general, lo relativo a la operación de los sistemas de ahorro para el retiro, la recepción, depósito, transmisión y administración de las cuotas y aportaciones correspondientes a dichos sistemas, así como la transmisión, manejo e intercambio de información entre las dependencias y entidades de la Administración Pública Federal, los institutos de seguridad social y los participantes en los referidos sistemas, determinando los procedimientos para su buen funcionamiento;
 
 > <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -140,7 +140,7 @@ La Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y 
 
 VIII. Administrar y operar, en su caso, la Base de Datos Nacional SAR;
 
-IX. Imponer multas y sanciones, así como emitir opinión a la autoridad competente en materia de los delitos previstos en esta ley;
+lX. Imponer multas y sanciones, así como emitir opinión a la autoridad competente en materia de los delitos previstos en esta ley;
 
 X. Actuar como órgano de consulta de las dependencias y entidades públicas, en todo lo relativo a los sistemas de ahorro para el retiro, con excepción de la materia fiscal;
 
@@ -246,7 +246,7 @@ El Presidente deberá reunir los requisitos siguientes:
 
 > <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
 
-l. Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce de sus derechos civiles y políticos;
+I. Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce de sus derechos civiles y políticos;
 
 II. Gozar de reconocida experiencia en materia económica, financiera, jurídica o de seguridad social;
 
@@ -312,7 +312,7 @@ XI. Informar a la Junta de Gobierno sobre el ejercicio del presupuesto, con la p
 
 XII. Ejecutar los acuerdos de intervención administrativa o gerencial de los participantes en los sistemas de ahorro para el retiro, con excepción de las instituciones de crédito, en los términos previstos por esta ley;
 
-XIll. Ejecutar los acuerdos de la Junta de Gobierno y tratándose de reglas de carácter general ordenar su publicación en el Diario Oficial de la Federación, para su debido cumplimiento;
+XIII. Ejecutar los acuerdos de la Junta de Gobierno y tratándose de reglas de carácter general ordenar su publicación en el Diario Oficial de la Federación, para su debido cumplimiento;
 
 XIV. Informar a la Junta de Gobierno sobre el estado y ejercicio de las facultades que le hayan sido delegadas por ésta;
 
@@ -336,9 +336,9 @@ Los miembros del Comité Consultivo y de Vigilancia, deberán reunir los siguien
 
 > <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
 
-l. Ser ciudadanos mexicanos por nacimiento que no adquieran otra nacionalidad y estar en pleno goce de sus derechos civiles y políticos;
+I. Ser ciudadanos mexicanos por nacimiento que no adquieran otra nacionalidad y estar en pleno goce de sus derechos civiles y políticos;
 
-Il. Tener conocimientos en materia financiera, jurídica o de seguridad social;
+II. Tener conocimientos en materia financiera, jurídica o de seguridad social;
 
 III. Acreditar el nombramiento respectivo de la dependencia, entidad u organización que los proponga; y
 
@@ -492,7 +492,7 @@ En caso de discrepancia entre el salario recibido por el trabajador, su forma de
 
 Para organizarse y operar como administradora se requiere autorización de la Comisión que será otorgada discrecionalmente, oyendo previamente la opinión de la Secretaría de Hacienda y Crédito Público, a los solicitantes que presenten propuestas viables económica y jurídicamente, que satisfagan los siguientes requisitos:
 
-l. Presentar la solicitud respectiva, así como el proyecto de estatutos sociales;
+I. Presentar la solicitud respectiva, así como el proyecto de estatutos sociales;
 
 II. Presentar un programa general de operación y funcionamiento, de divulgación de la información y de reinversión de utilidades, que cumpla con los requisitos mínimos que determine la Comisión;
 
@@ -1182,7 +1182,7 @@ XV. Ejecutar u omitir actos que impidan la prestación continua de los servicios
 
 XVI. Por incurrir en cualquier otra causal de revocación prevista en esta ley, sus reglamentos o en el título de concesión.
 
-La Secretaría de Hacienda y Crédito Público podrá revocar las concesiones de manera inmediata únicamente en los supuestos de las fracciones II, VIII, XI, XII, XllI y XV anteriores.
+La Secretaría de Hacienda y Crédito Público podrá revocar las concesiones de manera inmediata únicamente en los supuestos de las fracciones II, VIII, XI, XII, XIII y XV anteriores.
 
 En los demás supuestos se requerirá que la sanción se haya impuesto por lo menos en cinco ocasiones.
 
@@ -1232,7 +1232,7 @@ A los integrantes de la Junta de Gobierno y del Comité Consultivo y de Vigilanc
 
 Las sociedades de inversión sólo podrán adquirir valores que sean objeto de oferta pública, a través de colocaciones primarias o a través de operaciones de mercado abierto.
 
-l. Tratándose de colocaciones primarias, las sociedades de inversión tendrán prohibido adquirir valores de:
+I. Tratándose de colocaciones primarias, las sociedades de inversión tendrán prohibido adquirir valores de:
 
 > <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -2012,9 +2012,15 @@ El trabajador podrá solicitar información sobre sus recursos de conformidad co
 
 El Instituto Mexicano del Seguro Social podrá constituir una administradora de fondos para el retiro, siempre y cuando cumpla con todos los requisitos previstos en la Ley del Seguro Social que entrará en vigor el primero de enero de 1997 y en la Ley de los Sistemas de Ahorro para el Retiro.
 
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO NOVENO.
 
-Los trabajadores que optaren por pensionarse conforme al régimen establecido en la Ley del Seguro Social vigente hasta el 31 de diciembre de 1996, tendrán el derecho a retirar en una sola exhibición los recursos que se hayan acumulado hasta esa fecha en las subcuentas del seguro de retiro y del Fondo Nacional de la Vivienda, incluyendo los rendimientos que se hayan generado.
+Los trabajadores que opten por pensionarse conforme al régimen establecido en la Ley del Seguro Social vigente hasta el 30 de junio de 1997, tendrán el derecho a retirar en una sola exhibición los recursos que se hayan acumulado hasta esa fecha en las subcuentas del seguro de retiro y del Fondo Nacional de la Vivienda, así como los recursos correspondientes al ramo de retiro que se hayan acumulado en la subcuenta del seguro de retiro, cesantía en edad avanzada y vejez, vigente a partir del 1o. de julio de 1997, incluyendo los rendimientos que se hayan generado por dichos conceptos.
+
+Igual derecho tendrán los beneficiarios que elijan acogerse a los beneficios de pensiones establecidos en la Ley del Seguro Social que estuvo vigente hasta el 30 de junio de 1997.
+
+Los restantes recursos acumulados en la subcuenta del seguro de retiro, cesantía en edad avanzada y vejez, previsto en la Ley del Seguro Social vigente a partir del 1o. de julio de 1997, deberán ser entregados por las administradoras de fondos para el retiro al Gobierno Federal.
 
 ###### ARTICULO DECIMO.
 
@@ -2167,3 +2173,21 @@ III. La Comisión deberá convocar a la primera sesión del Consejo de Pensiones
 Artículo Octavo.- La Comisión Nacional del Sistema de Ahorro para el Retiro deberá presentar al Congreso de la Unión, dentro de un plazo máximo de ocho meses contados a partir de la entrada en vigor del presente Decreto, un diagnóstico y una evaluación integral del funcionamiento del Sistema de Ahorro para el Retiro, incluyendo su modalidad de operación y las formas en que se ejerce la movilidad a que tienen derecho los trabajadores ahorristas, y de la estructura actual de las comisiones, las ventajas y desventajas de cada tipo de comisión existente, y el impacto que dichas comisiones tienen en el ahorro de los trabajadores. El diagnóstico deberá incluir el rendimiento neto de comisiones que han obtenido los recursos desde que inició el sistema y el rendimiento neto esperado a futuro.
 
 La evaluación del diagnóstico incluirá además una estimación anualizada, para los próximos diez años, del costo fiscal que significa y significará para el Gobierno, el pago de las pensiones vigentes de cesantía en edad avanzada, vejez e invalidez, así como del costo fiscal que significará el complemento de los pagos de pensiones cuya anualidad no cubre el salario mínimo. Esta información la solicitará la Comisión Nacional del Sistema de Ahorro para el Retiro a las autoridades competentes.
+
+D.O.F. 24 DE DICIEMBRE DE 2002.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los recursos acumulados en la subcuenta del seguro de retiro, cesantía en edad avanzada y vejez, previsto en la Ley del Seguro Social vigente a partir del 1o. de julio de 1997, con excepción de los correspondientes al ramo de retiro, de aquellos trabajadores o beneficiarios que, a partir de esa fecha, hubieren elegido pensionarse con los beneficios previstos bajo el régimen anterior, deberán ser entregados por las administradoras de fondos para el retiro al Gobierno Federal, mientras que los recursos correspondientes al ramo de retiro de la mencionada subcuenta del seguro de retiro, cesantía en edad avanzada y vejez de dichos trabajadores deberán ser entregados a los mismos o a sus beneficiarios, según sea el caso, en los términos previstos en el presente Decreto.
+
+TERCERO.- Los ingresos que se deriven de la cancelación de los depósitos a que se refiere el primer párrafo del artículo Tercero Transitorio reformado mediante este Decreto, hasta por un monto de 11,000 millones de pesos, se considerarán aprovechamientos para efectos de la Ley de Ingresos de la Federación para el Ejercicio Fiscal 2002 y se destinarán con cargo a ingresos excedentes como aportación al patrimonio inicial de la Financiera Rural.
+
+CUARTO.- El resto de los ingresos que se deriven de la cancelación de los depósitos a que se refiere el primer párrafo del artículo Tercero Transitorio reformado mediante este Decreto, deberán registrarse para el ejercicio fiscal 2003 como aprovechamientos.
+
+De dichos recursos se formará el fondo de reserva a que se refiere la fracción I, el cual deberá constituirse a más tardar el 15 de enero de 2003.
+
+QUINTO.- Sin perjuicio de que los recursos de la cuenta concentradora se cancelen antes del día 31 de diciembre de 2002, a dichos recursos se les aplicará, en la fecha de cancelación, la tasa de interés determinada por la Secretaría de Hacienda y Crédito Público y las instituciones de crédito podrán cobrar las comisiones correspondientes como si estos recursos hubieran permanecido depositados hasta el mismo día 31 de diciembre de 2002. Asimismo, las instituciones de crédito deberán concluir los procesos pendientes que hubiesen sido solicitados por los trabajadores o los institutos de seguridad social previamente a la fecha de entrada en vigor del presente Decreto.
+
+A partir del día primero de enero de 2003 las instituciones de crédito deberán cumplir las obligaciones previstas en las fracciones II y IV del artículo Tercero Transitorio reformado en términos del artículo Segundo de este Decreto, por lo que se refiere a las cuentas individuales del Sistema de Ahorro para el Retiro previsto en la Ley del Seguro Social de 1973 sin cobro alguno.
