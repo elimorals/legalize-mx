@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1998-09-02"
+last_updated: "1998-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1998.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -461,9 +461,7 @@ XXI.- Nombrar al Gobernador interino o sustituto del Estado, en los casos que pr
 
 XXII.- Aprobar, en su caso, los nombramientos que haga el Gobernador del Estado de los Magistrados del Tribunal Superior de Justicia, así como aprobar las renuncias y licencias de los mismos funcionarios sometidas al Ejecutivo del Estado en los términos de los artículos 85 Fracción XX, 97 y 98.
 
-> <small>(REFORMADA, P.O. 1o. DE FEBRERO DE 1975)</small>
-
-XXIII.- Nombrar al Secretario de Finanzas y Tesorero General del Estado, a propuesta en terna del Ejecutivo.
+XII.- (DEROGADA, P.O. 15 DE JUNIO DE 1968)
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1984)</small>
 
@@ -605,9 +603,7 @@ V.- Manifestar su opinión por escrito al Gobernador, en los casos en que éste 
 
 VI.- Ejercer las facultades a que se refieren los Artículos 52, 63 en sus fracciones IV y XXI, 89, 90, 91, 97 y 98 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 1o. DE FEBRERO DE 1975)</small>
-
-VII.- Nombrar interinamente al Secretario de Finanzas y Tesorero General del Estado, a propuesta en terna del Poder Ejecutivo, y aprobar los nombramientos que haga el Gobernador del Estado de los Magistrados del Tribunal Superior de Justicia, cuando la falta absoluta ocurra durante un receso del Congreso, en los términos previstos por los artículos 97 y 98.
+VII.- (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 1998)
 
 VIII.- (DEROGADA, P.O. 20 DE OCTUBRE DE 1993)
 
@@ -765,7 +761,7 @@ No podrán ser electos para el período inmediato:
 
 a) El Gobernador designado por el Congreso del Estado para concluir el periodo en caso de falta absoluta del constitucional; y
 
-b) El Gobernador Interino, el provisional o el ciudadano que , bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
+b) El Gobernador Interino, el provisional o el ciudadano que, bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
 ###### Art. 85.
 
@@ -773,7 +769,9 @@ Al Ejecutivo pertenece:
 
 I.- Proteger la seguridad de las personas, bienes y derechos de los individuos y, al efecto, mantener la paz, tranquilidad y orden públicos en todo el Estado.
 
-II.- En caso de delito infraganti, y en los términos de la ley, decretar el arresto de cualquiera persona, poniéndola inmediatamente a disposición de la autoridad o Juez competente.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+
+II.- En caso de delito flagrante, y en los términos de la Ley, decretar la detención de cualquier persona, poniéndola inmediatamente a disposición de la autoridad o Juez competente.
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1985)</small>
 
@@ -833,9 +831,9 @@ XXII.- (DEROGADA, P.O. 24 DE MAYO DE 1996)
 
 XXIII.- Rendir los informes a que se refiere la fracción XIII del art. 63.
 
-> <small>(REFORMADA, P.O. 1o. DE FEBRERO DE 1975)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
-XXIV.- Proponer terna al Congreso para Secretario de Finanzas y Tesorero General del Estado, y removerlo libremente enviando nueva terna al Congreso.
+XXIV.- Someter a la aprobación del Congreso, la propuesta sobre los cargos de Procurador General de Justicia del Estado y de Secretario de Finanzas y Tesorero General del Estado, y en su caso expedir el nombramiento correspondiente.
 
 > <small>(REFORMADA, P.O. 1o. DE ENERO DE 1979)</small>
 
@@ -880,6 +878,30 @@ En el Estado habrá un Secretario General de Gobierno quien tendrá las facultad
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1985)</small>
 
 El Gobernador será Jefe y responsable de la Administración Pública centralizada y paraestatal del Estado, en los términos de esta Constitución y de la Ley Orgánica que expida el Congreso, la cual distribuirá los negocios del orden administrativo en las Secretarías y Procuraduría General de Justicia, definirá las bases de creación de las entidades paraestatales y la intervención que en éstas tenga el Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+
+El Ministerio Público, institución que tiene por objeto ejercer la representación y defensa de los intereses de la sociedad, velar por la exacta observancia de las leyes de interés general y perseguir los delitos del orden común, será desempeñado por un Procurador General de Justicia, por los Agentes de dicho Ministerio y demás servidores públicos que determine su Ley Orgánica. El cargo de Procurador sólo es renunciable por causa grave, que será sometida a la consideración del Gobernador del Estado, a quien corresponde su aceptación. Para ser Procurador General de Justicia se deberán reunir los mismos requisitos que para ser Magistrado prevenga esta Constitución.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+
+El Procurador General de Justicia será propuesto al H. Congreso del Estado por el Ejecutivo. La aprobación se hará, previa comparecencia de la persona propuesta, por el voto secreto de cuando menos las dos terceras partes de los integrantes del Congreso, dentro de los tres días siguientes a la fecha de la comparecencia. Si el H. Congreso no se encontrase reunido, la Diputación Permanente convocará de inmediato a un Período Extraordinario de Sesiones.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+
+En caso de que, transcurrido el plazo de cinco días, el H. Congreso rechace a la persona propuesta para ocupar el cargo, se abstenga de resolver, o no se alcance la votación de cuando menos las dos terceras partes de sus integrantes, el Ejecutivo del Estado, en un plazo de diez días, propondrá a otra persona y la aprobación se efectuará en los términos del párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+
+Si presentada la segunda propuesta, el H. Congreso la rechaza, se abstiene de resolver, o no reúne la votación requerida dentro de los plazos señalados, en ese mismo acto, la aprobación se llevará a cabo mediante el voto secreto de cuando menos la mitad más uno de los diputados asistentes a la sesión; de no reunirse esta votación, el Ejecutivo, dentro de los diez días posteriores a la celebración de la sesión, realizará la designación del Procurador.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+
+Una Ley determinará la organización, funcionamiento, competencia y procedimientos de la Comisión Estatal de Derechos Humanos, que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público que violen estos derechos, con excepción de los del Poder Judicial del Estado. Formulará recomendaciones públicas autónomas, no vinculativas, denuncias y quejas ante las autoridades respectivas.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+
+Este organismo no será competente tratándose de asuntos electorales, laborales o jurisdiccionales.
 
 > <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
@@ -1173,7 +1195,7 @@ Si el delito que se impute a algún funcionario se hubiere cometido antes de que
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
-Art..- 114.-No se requerirá declaración de procedencia de la Cámara de Diputados, cuando alguno de los servidores públicos a que hace referencia el Artículo 112 cometa un delito durante el tiempo en que se encuentre separado de su encargo.
+Art.- 114.-No se requerirá declaración de procedencia de la Cámara de Diputados, cuando alguno de los servidores públicos a que hace referencia el Artículo 112 cometa un delito durante el tiempo en que se encuentre separado de su encargo.
 
 Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados por el artículo 112, se procederá de acuerdo con lo dispuesto en dicho precepto.
 
@@ -1386,6 +1408,8 @@ El año fiscal correrá del primero de enero al 31 de diciembre.
 Una ley determinará la organización y funcionamiento de todas las Oficinas de Hacienda en el Estado.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 1968)</small>
+
+ART. 140.- Ninguna cuenta, ya sea del Estado o de los Municipios dejará de concluirse y glosarse anualmente.
 
 ###### Art. 140.
 
@@ -1661,19 +1685,43 @@ En el Estado nadie puede ser juzgado por leyes privativas, ni por tribunales esp
 
 A ninguna ley se le dará efecto retroactivo en perjuicio de persona alguna. Nadie puede ser privado de la vida, de la libertad, de sus propiedades, posesiones o derechos, sino mediante juicio seguido ante los Tribunales previamente establecidos, en el que se cumplan las formalidades esenciales del procedimiento, y conforme a las leyes expedidas con anterioridad al hecho.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Art. 15.
 
-Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de autoridad competente que funde y motive la causa legal del procedimiento.
+Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento.
 
-No podrá librarse ninguna orden de detención o de aprehensión sino por la autoridad judicial, sin que preceda denuncia, acusación o querella de un hecho determinado, que la ley castigue con pena corporal, y sin que estén apoyadas aquéllas por declaración bajo protesta de persona digna de fé o por otros datos que hagan probable la responsabilidad del inculpado, hecha excepción de los casos de flagrante delito, en que cualquier persona puede aprehender al delincuente y a sus cómplices, poniéndoles sin demora a disposición de la autoridad inmediata. Solamente en casos urgentes, cuando no haya en el lugar ninguna autoridad judicial y tratándose de delitos que se persiguen de oficio, podrá la autoridad administrativa, bajo su más estrecha responsabilidad, decretar la detención de un acusado, poniéndolo inmediatamente a disposición de la autoridad judicial.
+No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia, acusación o querella de un hecho determinado, que la ley señale como delito, sancionado cuando menos con pena privativa de libertad, y existan datos que acrediten los elementos que integran el tipo penal y la probable responsabilidad del indiciado.
 
-En toda orden de cateo, que sólo la autoridad judicial podrá expedir, y que será escrita, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se busquen, a los que únicamente debe limitarse la diligencia, levantándose al concluírla una nota circunstanciada en presencia de dos testigos propuestos por el ocupante del lugar cateado o, en su ausencia o negativa, por la autoridad que practique la diligencia.
+La autoridad que ejecute una orden judicial de aprehensión, deberá poner al indiciado a disposición del Juez, sin dilación alguna y bajo su más estricta responsabilidad. La contravención a lo anterior será sancionada por la Ley Penal.
 
-La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y exigir la exhibición de libros y papeles indispensables para probar que se han acatado las disposiciones fiscales, sujetándose en estos casos a las leyes respectivas y a las formalidades prescritas para los cateos.
+En los casos de delito flagrante, cualquier persona puede detener al indiciado poniéndolo sin demora a disposición de la autoridad inmediata y ésta, con la misma prontitud, a la del Ministerio Público.
+
+Sólo en casos urgentes, cuando se trate del delito grave así calificado por la Ley y ante el riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público podrá, bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder.
+
+En casos de urgencia o flagrancia, el Juez que reciba la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley.
+
+Ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial; este plazo podrá duplicarse en aquellos casos que la Ley prevea como delincuencia organizada. Todo abuso a lo anteriormente dispuesto será sancionado por la Ley Penal.
+
+En toda orden de cateo, que sólo la autoridad judicial podrá expedir, y que será escrita, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan, a lo que únicamente debe limitarse la diligencia, levantándose, al concluirla, una acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o, en su ausencia o negativa, por la autoridad que practique la diligencia.
+
+Las comunicaciones privadas son inviolables, salvo en los casos y con los requisitos que establezcan las leyes federales.
+
+La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y exigir la exhibición de los libros y papeles indispensables para probar que se han acatado las disposiciones fiscales, sujetándose en estos casos a las leyes respectivas y a las formalidades prescritas para los cateos.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Art. 16.
 
-Nadie puede ser preso por deudas de un carácter puramente civil. Nadie puede ejercer violencia para reclamar su derecho. Los tribunales estarán siempre expeditos para administrar justicia en los plazos y términos establecidos por la Ley. Esta será gratuita, que dado en consecuencia prohibidas las costas judiciales.
+Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
+
+Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
+
+Las leyes establecerán los medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
+
+Nadie puede ser aprisionado por deudas de carácter puramente civil.
+
+En todo proceso penal, la víctima o el ofendido por algún delito, tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando la requiera, y los demás que señalen las leyes.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 1965)</small>
 
@@ -1687,53 +1735,71 @@ Se faculta al Gobernador del Estado para celebrar con la Federación convenios d
 
 El Gobierno del Estado mantendrá establecimientos especiales para el tratamiento de menores infractores.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Art. 18.
 
-Ninguna detención podrá exceder del término de tres días sin que se justifique con un auto de formal prisión, en el que se expresarán: el delito que se impute al acusado, los elementos que constituyen aquél; lugar, tiempo y circunstancias de ejecución y los datos que arroje la averiguación previa, los cuales deben ser bastantes para comprobar el cuerpo del delito y hacer probable la responsabilidad del acusado. La infracción de este precepto hace responsable a la autoridad que ordene la detención o la consienta, y a los agentes, ministros, alcaides o carceleros que la ejecuten.
+.- Ninguna detención ante autoridad judicial podrá exceder del término de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de formal prisión y siempre que de lo actuado aparezcan datos suficientes que acrediten los elementos del tipo penal del delito que se impute al detenido y hagan probable la responsabilidad de éste. La prolongación de la detención en perjuicio del inculpado será sancionada por la Ley Penal. Los custodios que no reciban copia autorizada del auto de formal prisión dentro del plazo antes señalado, deberán llamar la atención del juez sobre dicho particular en el acto mismo de concluir el término, y si no reciben la constancia mencionada dentro de las tres horas siguientes pondrán al inculpado en libertad.
 
-Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de formal prisión.
+Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de formal prisión o de sujeción a proceso. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá ser objeto de averiguación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
 
-Todo maltratamiento en la aprehensión o en las prisiones, toda molestia que se infiera sin motivo legal, toda gabela o contribución en las cárceles constituyen abusos que serán penados por las leyes y reprimidos por las autoridades.
+Todo maltratamiento en la aprehensión o en las prisiones, toda molestia que se infiera sin motivo legal, toda gabela o contribución en las cárceles, son abusos, que serán corregidos por las leyes y reprimidos por las autoridades.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Art. 19.
 
-En todo juicio del orden criminal tendrá el acusado las siguientes garantías:
+En todo proceso de orden penal, tendrá el indiciado las siguientes garantías:
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 1991)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
-I.- Inmediatamente que lo solicite será puesto en libertad bajo fianza que le fijará el Juez tomando en cuenta sus circunstancias personales y la gravedad del delito que se le impute, siempre que dicho delito incluyendo sus modalidades merezca ser castigado con pena cuyo término medio aritmético no sea mayor de cinco años de prisión, sin más requisito que poner la suma de dinero respectiva a disposición de la autoridad u otorgar caución bastante para asegurarla bajo la responsabilidad del Juez de su aceptación.
+I.- Inmediatamente que lo solicite, el Juez deberá otorgarle la libertad provisional bajo caución, siempre y cuando no se trate de delitos en que, por su gravedad, la Ley expresamente prohiba conceder este beneficio. En caso de delitos no graves, a solicitud del Ministerio Público, el Juez podrá negar la libertad provisional, cuando el inculpado haya sido condenado con anterioridad, por algún delito calificado como grave por la Ley, o cuando el Ministerio Público aporte elementos al Juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
 
-La caución no excederá de la cantidad equivalente a la percepción durante dos años del salario mínimo general vigente en el lugar en se cometió el delito, sin embargo la autoridad judicial, en virtud de la especial gravedad del delito, las circunstancias personales del imputado o de la víctima, mediante resolución motivada, podrán incrementar el monto de la caución hasta la cantidad equivalente a la percepción durante cuatro años de salario mínimo vigente en el lugar en que se cometió el delito.
+El monto y la forma de caución que se fije, deberán ser asequibles para el indiciado. En circunstancias que la Ley determine, la autoridad judicial podrá modificar el monto de la caución. Para resolver sobre la forma y el monto de la caución, el juez deberá tomar en cuenta la naturaleza, modalidades y circunstancias del delito; las características del indiciado y la posibilidad de cumplimiento de las obligaciones procesales a su cargo; los daños y perjuicios causados al ofendido; así como la sanción pecuniaria que, en su caso, pueda imponerse al indiciado.
 
-Si el delito es intencional y representa para su autor un beneficio económico o causa a la víctima daño y perjuicio patrimonial, la garantía será cuando menos tres veces mayor al beneficio obtenido o a los daños y perjuicios patrimoniales causados.
+La Ley determinará los casos graves en los cuales el Juez podrá revocar la libertad provisional.
 
-Si el delito es preterintencional o imprudencial bastará que se garantice la reparación de los daños y perjuicios patrimoniales y se estará a lo dispuesto en los dos párrafos anteriores.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
-II.- No podrá ser compelido a declarar en su contra, por lo cual queda rigurosamente prohibida toda incomunicación o cualquiera otro medio que tienda a aquel objeto.
+II.- No podrá ser obligado a declarar. Queda prohibida y será sancionada por la Ley Penal, toda incomunicación, intimidación o tortura. La confesión rendida ante cualquier autoridad distinta del Ministerio Público o del Juez, o ante éstos, sin la asistencia de su defensor carecerá de todo valor probatorio.
 
 III.- Se le hará saber en audiencia pública y dentro de las cuarenta y ocho horas siguientes a su consignación a la justicia, el nombre del acusador y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, rindiendo en este acto su declaración preparatoria.
 
-IV.- Será careado con los testigos que depongan en su contra, los que declararán en su presencia si estuvieren en el lugar del juicio, para que pueda hacerles todas las preguntas concernientes a su defensa.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+
+IV. Siempre que lo solicite, será careado en presencia del juez con quienes depongan en su contra.
 
 V.- Se le recibirán los testigos y demás pruebas que ofrezca, concediéndosele el tiempo que la ley estime necesario al efecto, y auxiliándosele para obtener la comparecencia de las personas cuyo testimonio solicite, siempre que se encuentren en el lugar del proceso.
 
-VI.- Será juzgada por un Juez de la Fracción Judicial en que se cometiere el delito; y en audiencia pública siempre que aquél pueda ser castigado con una pena mayor de un año de prisión.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+
+VI. Será juzgado en audiencia pública por un juez o jurado de ciudadanos que sepan leer y escribir, vecinos del lugar y del distrito en que se cometiere el delito, siempre que éste pueda ser castigado con una pena mayor de un año de prisión.
 
 VII.- Le serán facilitados todos los datos que solicite para su defensa, y que consten en el proceso.
 
-VIII.- Será juzgado, antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión; y antes de seis meses si la pena máxima excediere de ese tiempo.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
-IX.- Se le oirá en defensa por sí o por persona de su confianza o por ambas, según su voluntad. En caso de no tener quien lo defienda se le presentará lista de los defensores de oficio para que elija el o los que le convengan.
+VIII. Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediera de ese tiempo, salvo que solicite mayor plazo para su defensa.
 
-Si el acusado no quiere nombrar defensores, después de ser requerido para hacerlo al rendir su declaración preparatoria, el Juez le nombrará uno de oficio. El acusado podrá nombrar defensor desde el momento en que sea aprehendido, y tendrá derecho a que éste se halle presente en todos los actos del juicio.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+
+IX.- Desde el inicio de su proceso será informado de los derechos que en su favor consignan la Constitución Federal y esta Constitución, teniendo derecho a una defensa adecuada, por sí, por abogado, o por persona de su confianza. Si no quiere o no puede nombrar defensor, después de haber sido requerido para hacerlo, el Juez le designará un Defensor de Oficio. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera; y,
 
 X.- En ningún caso podrá prolongarse la prisión o detención por falta de pago de honorarios de defensores, o por cualquiera otra prestación de dinero, por causa de responsabilidad civil, o de cualquiera otro motivo análogo.
 
 Tampoco podrá prolongarse la prisión preventiva por más tiempo del que como máximo fija la ley al delito que motivare el proceso. En toda pena de prisión que imponga una sentencia se computara el tiempo de la detención.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+
+Las garantías previstas en las fracciones I, V, VII y IX también serán observadas durante la averiguación previa, en los términos y con los requisitos y límites que las leyes establezcan; lo previsto en la fracción II no estará sujeto a condición alguna.
+
 ###### Art. 20.
 
 Quedan para siempre prohibidas las penas de mutilación y de infamia, la marca, los azotes, los palos, el tormento de cualquiera especie, la multa excesiva, la confiscación de bienes y cualquiera otras penas inusitadas o trascendentales.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+
+No se considerará confiscación de bienes la aplicación total o parcial de los bienes de una persona hecha por la autoridad judicial, para el pago de responsabilidad civil resultante de la comisión de un delito, o para el pago de impuestos o multas. Tampoco se considerará confiscación el decomiso que ordene la autoridad judicial, de los bienes, en caso de enriquecimiento ilícito en los términos de la Ley; ni el decomiso de los bienes propiedad del sentenciado, por delitos de los previstos como de delincuencia organizada, o el de aquellos respecto de los cuales éste se conduzca como dueño, si no acredita la legítima procedencia de dichos bienes.
 
 ###### Art. 21.
 
@@ -1783,13 +1849,17 @@ No constituyen monopolios las asociaciones de trabajadores formadas para protege
 
 Tampoco constituyen monopolio las asociaciones o sociedades cooperativas de productos que, en defensa de sus intereses o del interés general, vendan directamente en los mercados extranjeros los productos nacionales o industriales que sean la principal fuente de riqueza de la región en que se produzcan y que no sean artículos de primera necesidad, siempre que dichas asociaciones estén bajo la vigilancia o amparo del Gobierno Federal o del Estado, y en este caso, previa autorización especial del Congreso. El mismo Congreso podrá derogar, cuando las necesidades públicas así lo exijan, las autorizaciones concedidas para la formación de las asociaciones de que se trata.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Art. 25.
 
-La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y al Policía Judicial, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, la que únicamente consistirán en multa o arresto hasta por treinta y seis horas. Cuando el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+La imposición de las penas es propia y exclusiva de la autoridad judicial. La investigación y persecución de los delitos incumbe de manera exclusiva al Ministerio Público, el cual se auxiliará con una policía que estará bajo su autoridad y mando inmediato, sin perjuicio de que también pueda auxiliarse con cualquier otro cuerpo de seguridad pública estatal o municipal. Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
@@ -2284,3 +2354,17 @@ UNICO:- El presente Decreto entrará en vigor el día siguiente de su publicaci�
 P.O. 2 DE SEPTIEMBRE DE 1998.
 
 Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 1998.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los titulares de la Procuraduría General de Justicia del Estado y de la Secretaría de Finanzas y Tesorería General del Estado, permanecerán en el ejercicio de su cargo en tanto sobrevenga la ausencia definitiva de los mismos.
+
+###### ARTÍCULO TERCERO.
+
+Queda sin efectos la adición con tres párrafos al artículo 87 del Decreto Número 79, aprobado en sesión del 15 de julio de 1998.
