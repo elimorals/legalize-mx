@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-comite-de-planeacion-para-el-10769"
 country: "mx"
 rank: "reglamento"
 publication_date: "1985-05-31"
-last_updated: "1985-05-31"
+last_updated: "1992-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE1992.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de mayo de 1985.
 
@@ -35,9 +35,7 @@ Que el Honorable Congreso del Estado, con fecha 19 de febrero de 1981, expidió 
 
 Que con el objeto de especificar y concretar la estructura y facultades del COPLADEP, es necesario expedir su Reglamento.
 
-Que en dicho Reglamento ose (sic) especifica claramente la forma de integración y atribuciones del Presidente, del Coordinador General, del Secretario Técnico y del Coordinador de la Unidad de Control y Evaluación; la integración y atribuciones de la Asamblea Plenaria, del Consejo Permanente, de los Subcomités Especiales y de los Subcomités Subregionales, así como las atribuciones del COPLADEP Técnico y de la Unidad de Control y Evaluación.
-
-En mérito de lo expuesto, he tenido a bien expedir el siguiente:
+Que en dicho Reglamento ose (sic) especifica claramente la forma de integración y atribuciones del Presidente, del Coordinador General, del Secretario Técnico y del Coordinador de la Unidad de Control y Evaluación; la integración y atribuciones de la Asamblea Plenaria, del Consejo Permanente, de los Subcomités Especiales y de los Subcomités Subregionales, así como las atribuciones del COPLADEP Técnico y de la Unidad de Control y Evaluación. En mérito de lo expuesto, he tenido a bien expedir el siguiente:
 
 "REGLAMENTO INTERIOR DEL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE PUEBLA"
 
@@ -141,7 +139,9 @@ El Coordinador General del COPLADEP tendrá las siguientes atribuciones:
 
 I.- Representar al Presidente en su ausencia.
 
-II.- Elaborar el Reglamento Interior del COPLADEP.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 1992)</small>
+
+II.- Elaborar los proyectos de Reglamento Interior, así como sus reformas y adiciones, para someterlos a la aprobación del Titular del Ejecutivo.
 
 III.- Coordinar los trabajos para la formulación, actualización e instrumentación del Plan Estatal de Desarrollo.
 
@@ -219,7 +219,13 @@ V.- Convocar y presidir las sesiones de la Unidad.
 
 VI.- Dar seguimiento a los acuerdos de la Asamblea Plenaria, del Presidente del Comité, del Coordinador General y del Consejo Permanente.
 
-VII.- Todas aquellas que le encomiende el Presidente del COPLADEP.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 1992)</small>
+
+VII.- Coordinar las actividades del Subcomité de Evaluación del Programa Nacional de Solidaridad.
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 1992)</small>
+
+VIII.- Todas aquellas que le encomiende el Presidente del COPLADEP.
 
 ### CAPITULO VI. DE LA INTEGRACION, ATRIBUCIONES Y SESIONES DE LA ASAMBLEA PLENARIA
 
@@ -351,7 +357,7 @@ X.- Salud.
 
 XI.- Laboral.
 
-EL COPLADEP tendrá la facultad de modificar los Subcomités Sectoriales que contempla el presente Reglamento.
+El COPLADEP tendrá la facultad de modificar los Subcomités Sectoriales que contempla el presente Reglamento.
 
 ###### ARTICULO 16o.
 
@@ -723,6 +729,52 @@ Todos los miembros de la Unidad de Control y Evaluación estarán obligados a:
 
 Proporcionar el apoyo técnico y la información que se requiera para la realización de las funciones de la Unidad de Control y Evaluación.
 
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 1992)</small>
+
+###### ARTICULO 36o.
+
+Se establece en el seno de la Unidad de Control y Evaluación, el Subcomité de Evaluación del Programa Nacional de Solidaridad.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 1992)</small>
+
+###### ARTICULO 37o.
+
+El subcomité de Evaluación estará integrado por un Coordinador que será el Coordinador General de la Unidad de Control y Evaluación del COPLADEP.
+
+Un representante de la Secretaría de Finanzas del Gobierno del Estado.
+
+Un representante de la Delegación Regional de la Secretaría de Programación y Presupuesto del Gobierno Federal.
+
+Representantes de las Dependencias Federales y Estatales cuyas acciones se ubiquen dentro del Programa Nacional de Solidaridad.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 1992)</small>
+
+###### ARTICULO 38o.
+
+Son atribuciones del Subcomité de Evaluación:
+
+I.- Coordinar las actividades de Evaluación de las acciones del Programa Nacional de Solidaridad en el Estado.
+
+II.- Verificar el cumplimiento de las acciones establecidas dentro del Programa Nacional de Solidaridad.
+
+III.- Establecer con la Secretaría de la Contraloría General de la Federación, los criterios e indicadores de evaluación de las acciones del Programa Nacional de Solidaridad.
+
+IV.- Establecer en coordinación con las Dependencias participantes, un sistema que permita contar con información oportuna y veraz para evaluar el impacto de las acciones del Programa Nacional de Solidaridad.
+
+V.- Llevar a cabo la evaluación periódica del impacto social de las acciones del Programa Nacional de Solidaridad como base para integrar la memoria anual de resultados y beneficios alcanzados.
+
+VI.- Publicar la memoria actual de los resultados y beneficios alcanzados por el Programa Nacional de Solidaridad en el Estado de Puebla, en coordinación con la Secretaría de la Contraloría General de la Federación y de la Delegación Regional de la Secretaría de Programación y Presupuesto del Gobierno Federal.
+
+VII.- Elaborar el Programa Anual de Trabajo del Subcomité.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 1992)</small>
+
+###### ARTICULO 39o.
+
+El Subcomité de Evaluación del Programa Nacional de Solidaridad celebrará reuniones ordinarias cuando se considere pertinente en lugar y fecha que se indique en la convocatoria correspondiente.
+
+Se podrán celebrar sesiones extraordinarias cuando las circunstancias lo ameriten.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
@@ -846,3 +898,9 @@ DEL ESTADO DE PUEBLA 2
 LOS ORGANOS DEL COPLADEP 18
 
 ESTRUCTURA DEL COPLADEP 19
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE MAYO DE 1992.
+
+Único.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
