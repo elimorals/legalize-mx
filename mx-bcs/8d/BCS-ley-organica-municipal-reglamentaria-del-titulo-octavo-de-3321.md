@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-municipal-reglamentaria-del-titulo-octavo-de-3321"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1992-08-31"
+last_updated: "1992-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA MUNICIPAL REGLAMENTARIA DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE AGOSTO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1976.
 
@@ -152,6 +152,72 @@ El Ayuntamiento saliente seguirá fungiendo hasta el momento en que a las 9:00 h
 "QUEDA LEGITIMAMENTE INSTALADO EL AYUNTAMIENTO DEL MUNICIPIO DE . . . . . . . QUE DEBERA FUNCIONAR DURANTE EL PERIODO DE ..........."
 
 A continuación el Ayuntamiento saliente entregará al entrante los fondos municipales mediante el corte de caja respectiva (sic), así como inventarios, cuya verificación pueda hacerse desde luego por los Miembros de ambos Ayuntamientos, o dentro de los tres días siguientes, si lo acepta el segundo.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
+En la entrega a que se refiere el párrafo anterior, deberán asimismo entregarse los siguientes expedientes y documentación:
+
+I. Expediente Protocolario:
+
+a) Acta de entrega de documentación.
+
+b) Acta circunstanciada.
+
+II. Documentación financiera y presupuestal:
+
+a) Estado de situación financiera.
+
+b) Estado de ingresos y egresos.
+
+c) Estado de origen y aplicación de recursos.
+
+d) Corte de caja adicional.
+
+e) Estado de ejercicio presupuestal.
+
+f) Relación de cuentas.
+
+III. Documentación Patrimonial:
+
+a) Bienes de almacén.
+
+b) Bienes inmuebles.
+
+c) Bienes muebles.
+
+d) Expedientes en archivos.
+
+IV. Expedientes diversos:
+
+a) Plantilla de personal.
+
+b) Informe de obras.
+
+c) Acuerdos de Cabildo pendientes de cumplir.
+
+d) Relación de asuntos en trámite de proceso.
+
+e) Juicios en proceso.
+
+f) Relación de convenios con el estado o la federación.
+
+g) Inventario de bienes ajenos en proceso administrativo de ejecución.
+
+V. Expedientes Fiscales:
+
+a) Padrón de contribuyentes.
+
+b) Inventario de formas valoradas.
+
+c) Arqueo y corte de formas valoradas.
+
+d) Relación de rezagos.
+
+e) Legislación Fiscal.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
+Compete al Ayuntamiento, por conducto del Presidente o Síndico, la vigilancia en el cumplimiento de la presente disposición; y a la Contaduría Mayor de Hacienda, dictar en el ámbito de su competencia, las medidas complementarias, elaborar formatos y fijar los procedimientos, que su aplicación requiera.
 
 ###### Artículo 19.
 
@@ -1394,3 +1460,9 @@ B.O. 31 DE AGOSTO DE 1992.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE DICIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
