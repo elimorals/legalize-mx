@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2004-06-21"
+last_updated: "2004-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2004.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -1415,7 +1415,9 @@ Cuando uno solo de los cónyuges tuvo buena fe, la sociedad subsistirá también
 
 Si los dos cónyuges procedieron de mala fe, la sociedad se considera nula desde la celebración del matrimonio, quedando en todo caso a salvo los derechos que un tercero tuviere contra el fondo social.
 
-Artículo193.- Si la disolución de la sociedad procede de nulidad de matrimonio, el consorte que hubiere obrado de mala fe no tendrá parte en las utilidades. Estas se aplicarán a los hijos, y si no los hubiere, al cónyuge inocente.
+###### Artículo 193.
+
+Si la disolución de la sociedad procede de nulidad de matrimonio, el consorte que hubiere obrado de mala fe no tendrá parte en las utilidades. Estas se aplicarán a los hijos, y si no los hubiere, al cónyuge inocente.
 
 ###### Artículo 194.
 
@@ -12183,6 +12185,8 @@ No se declararán nulas las deudas contraídas por el menor para proporcionarse 
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 2264.
 
 Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géneros, pero la estipulación será nula si no consta por escrito.
@@ -12213,9 +12217,13 @@ DEL ARRENDAMIENTO.
 
 DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDADOR.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 2269.
 
 Hay arrendamiento cuando las dos partes contratantes se obligan recíprocamente, una a conceder el uso o goce temporal de una cosa, y la otra, a pagar por ese uso o goce un precio cierto.
+
+El arrendamiento no puede exceder de diez años para las fincas destinadas a habitación, de quince para las fincas destinadas al comercio y de veinte para las fincas destinadas al ejercicio de la industria.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 1987)</small>
 
@@ -12247,23 +12255,25 @@ Se prohibe a los magistrados, a los jueces y a cualesquiera otros empleados púb
 
 Se prohibe a los encargados de los establecimientos públicos y a los funcionarios y empleados públicos, tomar en arrendamiento los bienes que con los expresados caracteres administren.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 2277.
 
-El arrendamiento debe otorgarse por escrito cuando la renta pase de cien pesos anuales.
+El contrato de arrendamiento debe otorgarse por escrito. La falta de esta formalidad se imputará al arrendador.
 
 ###### Artículo 2278.
 
-Si el predio fuere rústico y la renta pasare de tres mil pesos anuales, el contrato se otorgará en escritura pública.
+(DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2004)
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 2279.
 
-El Contrato de arrendamiento no se rescinde por la muerte del arrendador ni del arrendatario, salvo convenio en otro sentido.
+El contrato de arrendamiento no se rescinde por la muerte del arrendador ni del arrendatario, salvo convenio en otro sentido.
 
-Cuando el arrendamiento verse sobre fincas destinadas a habitación, con exclusión de cualquiera otra persona, el cónyuge, el concubinario o la concubina, los hijos, los ascendientes consanguíneos o por afinidad de arrendatario fallecido, se subrogarán en los derechos y obligaciones de éste, en los mismos términos del Contrato, siempre y cuando hubiesen habitado real y permanentemente el inmueble en vida del arrendatario.
+Con exclusión de cualquier otra persona, el cónyuge, el o la concubina, los hijos, los ascendientes en línea consanguínea o por afinidad del arrendatario fallecido, se subrogarán en los derechos y obligaciones de éste, en los mismos términos del contrato, siempre y cuando hubieran habitado real y permanentemente el inmueble en vida del arrendatario.
 
-No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como subarrendatarios, cesionarios, o de cualquier título semejante.
+No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como subarrendatarias, cesionarias o por otro título semejante que no sea la situación prevista en este artículo.
 
 ###### Artículo 2280.
 
@@ -12285,13 +12295,13 @@ DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDATARIO.
 
 El arrendador está obligado, aunque no haya pacto expreso:
 
-I.- A entregar al arrendatario la finca arrendada, con todas sus pertenencias y en estado de servir para el uso convenido; si no hubo convenio expreso, para aquel a que por su misma naturaleza estuviere destinada;
+I.- A entregar al arrendatario la finca arrendada, con todas sus pertenencias y en estado de servir para el uso convenido; si no hubo convenio expreso, para aquel a que por su misma naturaleza estuviere destinada; así como en condiciones que ofrezcan al arrendatario la higiene y seguridad del inmueble
 
 II.- A conservar la cosa arrendada en el mismo estado durante el arrendamiento, haciendo para ello todas las reparaciones necesarias;
 
 III.- A no estorbar ni embarazar de manera alguna el uso de la cosa arrendada, a no ser por causa de reparaciones urgentes o indispensables;
 
-IV.- A garantir el uso o goce pacífico de la cosa por todo el tiempo del contrato;
+IV.- A garantizar el uso o goce pacífico de la cosa por todo el tiempo del contrato; y
 
 V.- A responder de los daños y perjuicios que sufra el arrendatario por los defectos o vicios ocultos de la cosa anteriores al arrendamiento.
 
@@ -12307,9 +12317,11 @@ El arrendador no puede, durante el arrendamiento, mudar la forma de la cosa arre
 
 El arrendatario está obligado a poner en conocimiento del arrendador, a la brevedad posible, la necesidad de las reparaciones, bajo pena de pagar los daños y perjuicios que su omisión cause.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 2287.
 
-Si el arrendador no cumpliere con hacer las reparaciones necesarias para el uso a que esté destinada la cosa, quedará a elección del arrendatario rescindir el arrendamiento u ocurrir al juez para que estreche al arrendador al cumplimiento de su obligación.
+Si el arrendador no cumpliere con hacer las reparaciones necesarias para el uso a que esté destinada la cosa, quedará a elección del arrendatario rescindir el arrendamiento u ocurrir al juez para que estreche al arrendador al cumplimiento de su obligación, mediante el procedimiento que se establezca en el Código de Procedimientos Civiles.
 
 ###### Artículo 2288.
 
@@ -12352,6 +12364,8 @@ Las mejoras a que se refieren las fracciones II y III del artículo anterior, de
 ### CAPITULO IV.
 
 DEL ARRENDAMIENTO DE FINCAS URBANAS.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 2296.
 
@@ -12449,9 +12463,11 @@ Si la misma cosa se ha dado en arrendamiento separadamente a dos o más personas
 
 Si el arrendamiento debe ser inscrito en el Registro, sólo vale el inscrito.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 2318.
 
-En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene éste derecho si está al corriente en el pago de la renta, a que, en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento de la finca. También gozará del derecho del tanto si el propietario quiere vender la finca arrendada, aplicándose en lo conducente lo dispuesto en los artículos 2175 y 2176.
+En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene éste derecho si está al corriente en el pago de la renta, a que, en igualdad de condiciones, en caso de venta sea le preferido en los términos del artículo 2320-E de este Código.
 
 ### CAPITULO V.
 
@@ -12459,13 +12475,77 @@ DEL ARRENDAMIENTO DE FINCAS RUSTICAS.
 
 ###### Artículo 2319.
 
-No podrá darse en arrendamiento una localidad que no reúna las condiciones de higiene y salubridad exigidas en el Código Sanitario.
+No deberá darse en arrendamiento una localidad que no reúna las condiciones de higiene y salubridad exigidas por la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
+###### Artículo 2319 Bis.
+
+Las disposiciones contenidas en los artículos 2269, 2277, 2283, 2287, 2318, 2319, 2319 Bis, 2320, 2320-B, 2320-C, 2320-D, 2320-E, 2323, 2349, 2355, 2360 y 2365, son de orden público e interés social, por lo tanto son irrenunciables y en consecuencia cualquier estipulación en contrario se tendrá por no puesta.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 2320.
 
-El arrendador que no haga las obras que ordene la autoridad correspondiente con apoyo de esas leyes, como necesarias para que el local sea habitable e higiénico, es responsable de los daños y perjuicios que los inquilinos sufran por esta causa.
+El arrendador que no haga las obras que ordene la autoridad correspondiente como necesarias, para que una localidad sea habitable, higiénica y segura es responsable de los daños y perjuicios que los inquilinos sufran por esa causa.
 
-Cuando las obras a que se refiere el párrafo anterior sean de urgente ejecución, a juicio de la autoridad correspondiente, podrán hacerlas los inquilinos en cuyo caso tendrán derecho de exigir al arrendador el pago del importe de aquellas.
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
+###### Artículo 2320-A.
+
+La duración mínima de todo contrato de arrendamiento de fincas urbanas destinadas a la habitación será de un año forzoso para arrendador y arrendatario, salvo convenio en contrario.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
+###### Artículo 2320-B.
+
+Para los efectos de este Capítulo la renta deberá estipularse en moneda nacional.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
+###### Artículo 2320-C.
+
+Para los efectos de este Capítulo el contrato de arrendamiento deberá contener cuando menos las siguientes estipulaciones:
+
+I.- Nombres del arrendador y arrendatario;
+
+II.- La ubicación del inmueble;
+
+III.- Descripción detallada del inmueble objeto del contrato y de las instalaciones y accesorios con que cuenta para el uso y goce del mismo, así como el estado que guardan;
+
+IV. El monto de la renta;
+
+V. La garantía, en su caso;
+
+VI.- La mención expresa del destino habitacional del inmueble arrendado;
+
+VII.- El término del contrato; y
+
+VIII.- Las obligaciones que arrendador y arrendatario contraigan adicionalmente a las establecidas en la Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
+###### Artículo 2320-D.
+
+En el caso de que el propietario del inmueble arrendado decida enajenarlo, el o los arrendatarios tendrán derecho a ser preferidos a cualquier tercero en los siguientes términos:
+
+I.- En todos los casos el propietario deberá dar aviso por escrito al arrendatario de su deseo de vender el inmueble, precisando el precio, términos, condiciones y modalidades de la compra-venta;
+
+II.- El o los arrendatarios dispondrán de quince días para dar aviso por escrito al arrendador de su voluntad de ejercitar el derecho de preferencia que se consigna en este artículo en los términos y condiciones de la oferta, exhibiendo para ello las cantidades exigibles al momento de la aceptación de la oferta, conforme a las condiciones señaladas en ésta;
+
+III. En caso de que el arrendador cambie cualquiera de los términos de la oferta inicial estará obligado a dar un nuevo aviso por escrito al arrendatario, quien a partir de ese momento dispondrá de un nuevo plazo de quince días. Si el cambio se refiere al precio, el arrendador sólo estará obligado a dar este nuevo aviso cuando el incremento o decremento del mismo sea de más de un diez por ciento;
+
+IV.- Tratándose de bienes sujetos al régimen de propiedad en condominio, se aplicarán las disposiciones de la ley de la materia; y
+
+V.- La compra-venta realizada en contravención de lo dispuesto en este artículo otorgará al arrendatario el derecho de demandar daños y perjuicios, sin que la indemnización por dichos conceptos pueda ser menor a un 25% de las rentas pagadas por el arrendatario en los últimos doce meses. La acción antes mencionada prescribirá sesenta días después de que tenga conocimiento el arrendatario de la realización de la compraventa respectiva.
+
+En caso de que el arrendatario no cumpla con las condiciones establecidas en las fracciones II o III de este artículo, precluirá su derecho.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
+###### Artículo 2320-E.
+
+Si varios arrendatarios hicieren uso del derecho de preferencia a que se refiere el artículo anterior, será preferido el que tenga mayor antigüedad arrendando parte del inmueble y, en caso de ser igual, el que primero exhiba la cantidad exigible en los términos de la fracción II del artículo anterior, salvo convenio en contrario.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 1987)</small>
 
@@ -12479,11 +12559,13 @@ Tratándose de arrendamiento de viviendas de interés social, es potestativo par
 
 No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo 2320.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 2323.
 
 La renta debe pagarse en los plazos convenidos y a falta de convenio, por meses vencidos.
+
+El arrendatario no está obligado a pagar la renta sino desde el día en que reciba el inmueble objeto del contrato.
 
 ### CAPITULO VI.
 
@@ -12491,7 +12573,7 @@ DEL ARRENDAMIENTO DE BIENES MUEBLES.
 
 ###### Artículo 2324.
 
-El propietario de un predio rústico debe cultivarlo, sin perjuicio de dejarlo descansar el tiempo que sea necesario para que no se agote su fertilidad. Si no lo cultiva, tiene obligación de darlo en arrendamiento o en aparcería, de acuerdo con lo dispuesto en la Ley de Tierras Ociosas.
+(DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 2325.
 
@@ -12522,6 +12604,8 @@ Terminado el arrendamiento, tendrá a su vez el arrendatario saliente, derecho p
 ### CAPITULO VII.
 
 DISPOSICIONES ESPECIALES RESPECTO DE LOS ARRENDAMIENTOS POR TIEMPO INDETERMINADO.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 2330.
 
@@ -12605,7 +12689,7 @@ DEL SUBARRIENDO.
 
 ###### Artículo 2349.
 
-Todos los arrendamientos, sean de predios rústicos o urbanos, que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte dado en forma indubitable con seis meses de anticipación si el predio es urbano, y con un año si es rústico.
+Todos los arrendamientos que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso por escrito dado a la otra parte con quince días de anticipación, si el predio es urbano, y con un año si es rústico.
 
 ###### Artículo 2350.
 
@@ -12651,31 +12735,31 @@ VII.- Por expropiación de la cosa arrendada hecha por causa de utilidad públic
 
 VIII.- Por evicción de la cosa dada en arrendamiento.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 2355.
 
-Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio.
-
-Si no se ha señalado tiempo, se observará lo que disponen los artículos 2349 y 2350.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 1987)</small>
+Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado. Si no se ha señalado tiempo, se observará lo que disponen los artículos 2349 y 2350.
 
 ###### Artículo 2356.
 
-Vencido un contrato de arrendamiento, tendrá derecho el inquilino, siempre que esté al corriente en el pago de las rentas, a que se le prorrogue hasta por un año ese contrato. En tal caso podrá el arrendador aumentar la renta vigente, sin que exceda el aumento del 70% del incremento porcentual fijado al salario mínimo general para el Estado, en el año calendario inmediato anterior a la prórroga del arrendamiento.
-
-En el caso de arrendamiento de inmuebles para habitación, la prórroga será irrenunciable hasta por dos años, pero el incremento será anual.
+(DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2004)
 
 ###### Artículo 2357.
 
-Si después de terminado el arrendamiento y su prórroga, si la hubo, continúa el arrendatario sin oposición en el goce y uso del predio, y éste es rústico, se entenderá renovado el contrato por otro año.
+(DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2004)
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 2358.
 
-En el caso del artículo anterior, si el predio fuere urbano, el arrendamiento continuará por tiempo indefinido, y el arrendatario deberá pagar la renta que corresponda al tiempo que exceda al del contrato, con arreglo a lo que pagaba.
+Si después de terminado el plazo por el que se celebró el arrendamiento, el arrendatario continúa sin oposición en el uso y goce del bien arrendado, continuará el arrendamiento por tiempo indeterminado, estando obligado el arrendatario a pagar la renta que corresponda por el tiempo que exceda conforme a lo convenido en el contrato; pudiendo cualquiera de las partes solicitar la terminación del contrato en los términos del artículo 2349. Las obligaciones contraídas por un tercero con objeto de garantizar el cumplimiento del arrendamiento, cesan al término del plazo determinado, salvo convenio en contrario.
 
 ###### Artículo 2359.
 
-Cuando haya prórroga en el contrato de arrendamiento, y en los casos de que hablan los dos artículos anteriores, cesan las obligaciones otorgadas por un tercero para la seguridad del arrendamiento, salvo convenio en contrario.
+(DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2004)
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 2360.
 
@@ -12685,7 +12769,11 @@ I.- Por la falta de pago de la renta en los términos prevenidos en los artícul
 
 II.- Por usarse la cosa en contravención a lo dispuesto en la fracción III del artículo 2296;
 
-III.- Por el subarriendo de la cosa en contravención a lo dispuesto en el artículo 2351.
+III.- Por el subarriendo de la cosa en contravención a lo dispuesto en el artículo 2351;
+
+IV.- Por daños graves a la cosa arrendada imputables al arrendatario; y
+
+V.- Por variar la forma de la cosa arrendada sin contar con el consentimiento expreso del arrendador, en los términos del artículo 2312.
 
 ###### Artículo 2361.
 
@@ -12703,9 +12791,11 @@ Si el arrendador, sin motivo fundado, se opone al subarriendo que con derecho pr
 
 Si el usufructuario no manifestó su calidad de tal al hacer el arrendamiento, y por haberse consolidado la propiedad con el usufructo, exige el propietario la desocupación de la finca, tiene el arrendatario derecho para demandar al arrendador la indemnización de daños y perjuicios.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 2365.
 
-En el caso del artículo anterior se observará lo que dispone el artículo 2357, si el predio fuere rústico, y si fuere urbano, lo que previene el artículo 2358.
+En el caso del artículo anterior se observará lo que dispone el artículo 2358, si el predio fuere urbano.
 
 ###### Artículo 2366.
 
@@ -15677,7 +15767,7 @@ Cuando se registre una sentencia que declare haber cesado los efectos de otra qu
 
 ###### Artículo 2911.
 
-Los padres, como administradores de los bienes de sus hijos; los tutores de menores o incapacitados, y cualesquiera otros administradores, aunque habilitados para recibir pagos dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
+Los padres, como administradores de los bienes de sus hijos; los tutores de menores o incapacitados, y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
 
 ###### Artículo 2912.
 
@@ -15876,5 +15966,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 21 DE JUNIO DE 2004.
 
 DECRETO No. 176.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE SEPTIEMBRE DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
