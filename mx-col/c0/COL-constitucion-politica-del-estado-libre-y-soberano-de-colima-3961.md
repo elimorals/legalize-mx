@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1976-08-21"
+last_updated: "1977-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 1977.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -747,9 +747,11 @@ Para ser Magistrado del Supremo Tribunal de Justicia o Juez de Primera Instancia
 
 I.- Ser ciudadano Mexicano por nacimiento y estar en pleno goce de sus derechos.
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 1977)</small>
 
-II.- Tener cuando menos treinta años de edad y cuatro de práctica forense, con título oficial de Abogado en los Tribunales de la República, para lo primero; y para lo segundo tener veinticinco años de edad, dos de práctica forense y título Oficial de Abogado en los Tribunales de la República; pudiendo desempeñar el cargo de Juez cuando falte éste, el Secretario del Juzgado siempre que la falta no exceda de un mes y lo acuerde previamente el Presidente o el (sic) Supremo Tribunal de Justicia.
+II.- Tener cuando menos 25 años de edad y título oficial de Abogado expedido por Institución legalmente autorizada para otorgarlo, con cuatro años de práctica forense para lo primero y dos para lo segundo.
+
+El Secretario del Juzgado podrá desempeñar el cargo de Juez cuando falte éste, siempre que la falta no exceda de un mes y lo acuerde previamnte (sic) el Presidente o el Supremo Tribunal de Justicia.
 
 III.- No ser Ministro de algún culto ni pertenecer al estado eclesiástico.
 
@@ -1720,3 +1722,9 @@ UNICO.- Este Decreto surte sus efectos a partir de la fecha de su publicación e
 P.O. 21 DE AGOSTO DE 1976.
 
 UNICO.- El presente Decreto entrará en vigor, previos los trámites dispuestos en los Artículos 130, Fracciones I, II, III y IV y 131, de la Constitución Local el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MAYO DE 1977.
+
+###### ARTICULO UNICO.
+
+Este Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial "El Estado de Colima".
