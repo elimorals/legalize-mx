@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-del-archivo-general-archivos-25132"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-14"
-last_updated: "2002-05-14"
+last_updated: "2004-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DEL ARCHIVO GENERAL, ARCHIVOS REGIONALES Y DISTRITALES DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el martes 14 de mayo de 2002.
 
@@ -389,6 +389,72 @@ El Director del Archivo informará al Presidente del Tribunal sobre los document
 
 Anualmente se llevará a cabo una revisión y selección de documentos o expedientes que deban transferirse al archivo histórico o aquéllos que deban ser dados de baja, en este último caso se procederá a la destrucción de los mismos previa autorización del Consejo de la Judicatura, y a través de los métodos que éste determine.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE ENERO DE 2004)</small>
+
+## TÍTULO SEXTO. DEL FLUJO DOCUMENTAL Y DEPURACIÓN DEL ARCHIVO DEL PODER JUDICIAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE ENERO DE 2004)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2004)</small>
+
+###### ARTÍCULO 41.
+
+Los documentos existentes corresponderán al archivo judicial que se integra mediante el conjunto organizado de expedientes, en cualquier soporte, producidos por los órganos jurisdiccionales del Estado o al archivo administrativo que se integra mediante el conjunto organizado de documentos, en cualquier soporte, producidos por los Órganos del Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2004)</small>
+
+###### ARTÍCULO 42.
+
+Los documentos que integran el archivo judicial, o el archivo administrativo, serán considerados dentro de cualquiera de las siguientes categorías:
+
+RECIENTE.- Los expedientes judiciales que tengan cinco años de haberse concluido, a partir de la fecha en que se ordenó su archivo.
+
+Tratándose del archivo administrativo, se consideran aquellos documentos que tengan hasta dos años, anteriores a la fecha en que se ordenó su archivo.
+
+MEDIO.- Aquellos expedientes judiciales concluidos que tengan más de cinco y menos de cincuenta años, respecto a la fecha en que se ordenó su archivo.
+
+Tratándose de archivo administrativo se consideran aquellos documentos que cumplan de dos a cincuenta años a partir de la fecha en que se ordenó su archivo.
+
+HISTÓRICO.- Conjunto organizado de documentos que tengan cincuenta o más años, bien sea administrativos o jurisdiccionales, a partir de la fecha en que se ordenó su archivo.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2004)</small>
+
+###### ARTÍCULO 43.
+
+Se entiende por documento todo objeto producto del ejercicio de facultades o de la actividad de los Órganos del Poder Judicial, o de un acto humano, que hace prueba histórica, declarativa-representativa, de un hecho cualquiera, sin importar fuente o fecha de elaboración.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2004)</small>
+
+###### ARTÍCULO 44.
+
+Se considera información la contenida en los documentos que el Poder Judicial del Estado genere, obtenga, adquiera, reciba, envíe, transforme o conserve por cualquier motivo.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2004)</small>
+
+###### ARTÍCULO 45.
+
+El Pleno del Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado, dictarán en forma conjunta los acuerdos generales para fijar el procedimiento de depuración del archivo judicial, y del archivo administrativo, mediante la desintegración material de documentos que realice el Director del Archivo Judicial General, bajo la vigilancia del (sic) Visitaduría Judicial General.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2004)</small>
+
+###### ARTÍCULO 46.
+
+Tratándose de documentos administrativos, la depuración podrá realizarse después de que los mismos se hayan conservado durante dos años por lo menos, contados a partir de la fecha de su depósito en el Archivo General, Regional o Distrital, siempre y cuando no se hayan clasificado como históricos.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2004)</small>
+
+###### ARTÍCULO 47.
+
+Los titulares de los Órganos Jurisdiccionales, al dictar la determinación de archivo definitivo en los expedientes judiciales de su conocimiento, declararán si los mismos son susceptibles de someterse al procedimiento de depuración a que se refiere el artículo 45 de este Reglamento.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2004)</small>
+
+###### ARTÍCULO 48.
+
+Los expedientes judiciales concluidos, correspondientes al archivo histórico se enviarán para su depósito definitivo al archivo general, en tanto que, los correspondientes al archivo reciente y archivo medio, deberán permanecer en el archivo distrital o regional a que fueron remitidos por los Órganos Jurisdiccionales, a cuya disposición permanecerán hasta en tanto, en su caso, clasifiquen en otro rubro.
+
 ## ARTÍCULOS TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -436,3 +502,11 @@ LIC. ANA GUADALUPE GONZALEZ SIFUENTES
 (RUBRICA)
 
 LA LICENCIADA ANA GUADALUPE GONZALEZ SIFUENTES, SECRETARIA DE ACUERDOS DEL CONSEJO DE JUDICATURA DEL ESTADO CERTIFICA QUE LAS REFORMAS AL REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA FUERON APROBADAS POR UNANIMIDAD DE VOTOS DE LOS MIEMBROS INTEGRANTES DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE COAHUILA DE ZARAGOZA, MEDIANTE ACUERDO C-49/2002, EN SESION CELEBRADA EL CATORCE DE MARZO DEL AÑO EN 2002, SENTE AÑO.- SALTILLO, COAHUILA, A 17 DE ABRIL DEL AÑO 2002.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE ENERO DE 2004.
+
+PRIMERO. Las presentes adiciones entrarán en vigor el día 16 de enero del año 2004.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado, así como en el Boletín de Información Judicial y difúndase entre los Órganos Jurisdiccionales de la Entidad y demás dependencias administrativas del Poder Judicial.
