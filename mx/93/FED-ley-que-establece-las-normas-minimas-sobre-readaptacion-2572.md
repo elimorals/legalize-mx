@@ -4,7 +4,7 @@ identifier: "FED-ley-que-establece-las-normas-minimas-sobre-readaptacion-2572"
 country: "mx"
 rank: "ley"
 publication_date: "1971-05-19"
-last_updated: "1984-12-10"
+last_updated: "1992-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2572&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1971-02-08"
 
 LEY QUE ESTABLECE LAS NORMAS MINIMAS SOBRE READAPTACION SOCIAL DE SENTENCIADOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 19 de mayo de 1971.
 
@@ -105,6 +105,10 @@ IV.- Traslado a la institución abierta; y
 
 V.- Permisos de salida de fin de semana o diaria con reclusión nocturna, o bien de salida en días hábiles con reclusión de fin de semana.
 
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1992)</small>
+
+No se concederán las medidas de tratamiento preliberacional establecidas en las fracciones IV y V de este artículo, a los sentenciados por los delitos contra la salud en materia de estupefacientes o psicotrópicos previstos en las fracciones I a IV del artículo 197, salvo que se trate de individuos en los que concurran evidente atraso cultural, aislamiento social y extrema necesidad económica; por el delito de violación previsto en el primero y segundo párrafos del artículo 265, en relación al artículo 266 bis fracción primera por el delito de plagio o secuestro previsto en el artículo 366 con excepción a lo previsto por la fracción VI de dicho artículo en relación con su antepenúltimo párrafo y lo dispuesto en el penúltimo párrafo; por el delito de robo con violencia en las personas en un inmueble habitado o destinado para habitación conforme a lo previsto en el artículo 367, en relación con los artículos 372 y 381 bis, del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
 ###### ARTICULO 9o.
 
 Se creará en cada reclusorio un Consejo Técnico interdisciplinario, con funciones consultivas necesarias para la aplicación individual del sistema progresivo, la ejecución de medidas preliberacionales, la concesión de la remisión parcial de la pena y de la libertad preparatoria y la aplicación de la retención. El Consejo podrá sugerir también a la autoridad ejecutiva del reclusorio medidas de alcance general para la buena marcha del mismo.
@@ -179,6 +183,10 @@ Al disponer la remisión, la autoridad que la conceda establecerá las condicion
 
 La remisión es revocable por la autoridad que la otorga, en los casos y conforme al procedimiento dispuestos para la revocación de la libertad preparatoria.
 
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1992)</small>
+
+No se concederá la remisión parcial de la pena a los sentenciados por los delitos contra la salud en materia de estupefacientes o psicotrópicos previstos por las fracciones I a IV del artículo 197, salvo que se trate de individuos en los que concurran evidente atraso cultural, aislamiento social y extrema necesidad económica; por el delito de violación previsto en el primero y segundo párrafos del artículo 265, en relación al 266 bis fracción I; el delito de plagio o secuestro previsto por el artículo 366 con excepción a lo previsto por la fracción VI de dicho artículo en relación con su antepenúltimo párrafo y lo dispuesto en el penúltimo párrafo; por el delito de robo en un inmueble habitado o destinado para habitación con violencia en las personas, conforme a lo previsto en el artículo 367, en relación con los artículos 372 y 381 bis, del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
 ### CAPITULO VI. Normas Instrumentales
 
 ###### ARTICULO 17.
@@ -236,3 +244,7 @@ D.O.F. 10 DE DICIEMBRE DE 1984.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE DICIEMBRE DE 1992.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
