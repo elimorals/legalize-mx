@@ -4,7 +4,7 @@ identifier: "FED-reglamento-sobre-las-instituciones-nacionales-y-1183"
 country: "mx"
 rank: "reglamento"
 publication_date: "1959-06-29"
-last_updated: "1959-06-29"
+last_updated: "1966-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1183&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1959-06-23"
 
 REGLAMENTO SOBRE LAS INSTITUCIONES NACIONALES Y ORGANIZACIONES AUXILIARES NACIONALES DE CREDITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE ABRIL DE 1966.
 
 Reglamento publicado en el del Diario Oficial de la Federación, el lunes 29 de junio de 1959 y republicado el lunes 29 de junio de 1959.
 
@@ -159,6 +159,10 @@ c) El Banco Nacional de Comercio Exterior, S. A.
 
 d) El Banco Nacional Hipotecario Urbano y de Obras Públicas, S. A.
 
+> <small>(ADICIONADO, D.O.F. 25 DE ABRIL DE 1966)</small>
+
+e) El Banco Nacional Agropecuario, S. A.
+
 Las demás instituciones nacionales que requieran recursos procedentes del exterior, operarán por conducto de alguna de las instituciones antes mencionadas.
 
 ###### ARTICULO 8o.
@@ -232,3 +236,11 @@ Se faculta a la Secretaría de Hacienda y Crédito Público para interpretar el 
 Por lo que hace al año en curso, las instituciones y organizaciones a que este Reglamento se contrae deberán presentar, en un plazo que vencerá el 31 de julio, la documentación mencionada en el artículo 4o. abarcando las estimaciones, planes y programas que se formulen para el período comprendido de julio a diciembre.
 
 Dado en el Palacio del Poder Ejecutivo Federal, en México, Distrito Federal, a los veintitrés días del mes de junio de mil novecientos cincuenta y nueve.- Adolfo López Mateos.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Ortiz Mena.-Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 25 DE ABRIL DE 1966.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor en la fecha de su publicación en el "Diario Oficial" de la Federación.
