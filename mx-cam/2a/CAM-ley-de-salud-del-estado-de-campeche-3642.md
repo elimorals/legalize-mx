@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-del-estado-de-campeche-3642"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "1987-12-31"
+last_updated: "1994-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3642&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CAM"
 
 LEY DE SALUD DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1994.
 
-Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el jueves 31 de diciembre de 1987.
+Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 31 de diciembre de 1987.
 
 ABELARDO CARRILLO ZAVALA, Gobernador Constitucional del Estado Libre y Soberano de Campeche, a sus habitantes, sabed:
 
@@ -95,7 +95,9 @@ X.- La orientación y vigilancia en materia de nutrición;
 
 XI.- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
 
-XII.- La salud ocupacional;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+XII.- La salud ocupacional y el saneamiento básico;
 
 XIII.- La prevención y el control de las enfermedades transmisibles;
 
@@ -563,9 +565,17 @@ En los servicios de salud se promoverá la organización institucional de comit�
 
 La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres; tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la Sociedad en general;
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 59.
 
-En la organización y operación de los servicios de salud destinados a la atención materno-infantil, las autoridades sanitarias del Estado establecerán procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios.
+En la organización y operación de los servicios de salud destinados a la atención materno-infantil, la Secretaría de Salud estatal establecerá:
+
+I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
+
+II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil; y
+
+III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarréicos y las infecciones respiratorias agudas de los menores de cinco años.
 
 ###### Artículo 60.
 
@@ -574,6 +584,10 @@ Las autoridades sanitarias, educativas y laborales del Estado, en sus respectivo
 I.- Los programas para padres destinados a promover la atención materno-infantil;
 
 II.- Las actividades recreativas, de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+II bis.- Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excreta;
 
 III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas; y
 
@@ -587,9 +601,11 @@ La prestación de servicios de salud a los escolares se efectuará de conformida
 
 ### Capítulo VI. Servicios de Planificación Familiar
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 62.
 
-La planificación familiar, principalmente la que se dirija a menores y adolecentes (sic), tiene carácter prioritario. Los servicios que se presten en la materia, constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos, con pleno respeto a su dignidad.
+La planificación familiar tiene carácter prioritario. En sus actividades se debe incluir la información y orientación educativa y sexual para los adolescentes y jóvenes. Asimismo, para disminuir el riesgo reproductivo, se debe informar a la mujer y al hombre sobre la inconveniencia del embarazo antes de los veinte años o bien después de los treinta y cinco, así como la conveniencia de espaciar los embarazos y reducir su número; todo ello, mediante una correcta información sobre planificación familiar, la cual debe ser oportuna, eficaz y completa a la pareja. Los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respecto (sic) a su dignidad.
 
 Quienes practiquen la esterilización sin la voluntad del paciente o ejerzan presión para que éste lo admita, serán sancionados conforme al artículo 421 de la Ley General de Salud, independientemente de la responsabilidad penal en que se incurra.
 
@@ -879,9 +895,21 @@ Corresponde a la Secretaría de Salud del Estado:
 
 I.- Desarrollar investigaciones permanentes y sistemáticas de los riesgos y daños que para la salud de la población origine la contaminación del ambiente;
 
-II.- Vigilar la calidad del agua para el uso y consumo humano; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
-III.- Vigilar la seguridad radiológica para el uso y aprovechamientos de fuentes de radiación, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+II.- Vigilar y certificar la calidad del agua para uso y consumo humano; y
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+III.- Vigilar la seguridad radiológica para el uso y aprovechamiento de las fuentes de radiación para uso médico sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+Para los efectos de esta ley se entiende por fuentes de radiación cualquier dispositivo o sustancia que emita radiación ionizante en forma cuantificable. Estas fuentes pueden ser de dos clases: aquellas que contienen material radioactivo como elemento generador de la radiación y las que la generan con base en un sistema electromecánico adecuado.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+Los propietarios de unidades de rayos equis de uso odontológico notificarán por escrito, dentro de los diez días siguientes a aquel en que ocurra, a la Secretaría de Salud estatal, la adquisición, uso, venta o disposición final de dichas unidades. Su uso lo sujetarán a las normas de seguridad radiológicas que al efecto emita la autoridad sanitaria federal.
 
 ###### Artículo 100.
 
@@ -891,9 +919,11 @@ La Secretaría de Salud Estatal se coordinará con las dependencias federales co
 
 Las personas que intervengan en el abastecimiento de agua, no podrán suprimir la dotación de servicios de agua potable y avenamiento de los edificios habitados, excepto en los casos que determinen las disposiciones generales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 102.
 
-Queda prohibida la descarga de aguas residuales o contaminantes en cualquier cuerpo de agua superficial o subterráneo, cuyas aguas se destinen para uso o consumo humano.
+Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfacer los criterios sanitarios emitidos de acuerdo con la fracción III del artículo 118 de la Ley General de Salud y las congruentes disposiciones de las Leyes General y Estatal de Equilibrio Ecológico y Protección al Ambiente, así como de residuos peligrosos que conlleven riesgos para la salud pública, a cuerpos de agua que se destinan para uso o consumo humano.
 
 Los usuarios que aprovechen en su servicio aguas que posteriormente serán utilizadas para uso o consumo de la población, estarán obligados a darles el tratamiento correspondiente a fin de evitar riesgos para la salud humana, de conformidad con las disposiciones aplicables.
 
@@ -1369,9 +1399,11 @@ XI.- Evitar, mediante las acciones señaladas en las fracciones anteriores, las 
 
 Compete a la Secretaría de Salud Estatal, en los términos de esta ley y de las demás disposiciones legales aplicables, el control sanitario de las materias a que se refiere el artículo 3o. apartado "B", de este propio ordenamiento.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 163.
 
-Se entiende por control y regulación sanitaria, el conjunto de actos que lleve a cabo la autoridad a fin de prevenir riesgos y daños a la salud de la población, y comprende el otorgamiento de autorizaciones, la vigilancia sanitaria, la aplicación de medidas de seguridad y la imposición de sanciones a los establecimientos, servicios o personas que se refiere esta ley.
+Se entiende por control sanitario, el conjunto de acciones de orientación, educación, muestreo, verificación y, en su caso, aplicación de medidas de seguridad y sanciones, que ejerce la Secretaría de Salud estatal con la participación de los productores, comercializadores y consumidores, en base a lo que establecen las normas técnicas y otras disposiciones aplicables.
 
 ###### Artículo 164.
 
@@ -3747,47 +3779,111 @@ Las demás dependencias y entidades públicas coadyuvarán a la vigilancia del c
 
 El acto u omisión contrario a los preceptos de esta ley y a las disposiciones que de ella emanen, podrá ser objeto de orientación y educación de los infractores con independencia de que se apliquen, si procedieren, las medidas de seguridad y las sanciones correspondientes en esos casos.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 617.
 
-La vigilancia sanitaria se llevará a cabo mediante visitas de inspección a cargo de inspectores designados por la autoridad sanitaria estatal, quienes deberán realizar las respectivas diligencias de conformidad con las prescripciones de esta ley y demás disposiciones legales aplicables.
+La vigilancia sanitaria se llevará a cabo mediante visitas de verificación a cargo de verificadores designados por la autoridad sanitaria estatal, quienes deberán realizar las respectivas diligencias de conformidad con las prescripciones de esta ley y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 618.
 
-Las autoridades sanitarias del Estado podrán encomendar a sus inspectores, además actividades de orientación, educación y aplicación, en su caso, de las medidas de seguridad a que se refieren las fracciones VII y X del artículo 624 de esta ley.
+Las autoridades sanitarias del Estado podrán encomendar a sus verificadores, además actividades de orientación, educación y aplicación, en su caso, de las medidas de seguridad a que se refieren las fracciones VII y X del artículo 624 de esta ley.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 619.
 
-Las inspecciones podrán ser ordinarias o extraordinarias, las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo. Para los efectos de esta ley, tratándose de establecimientos industriales, comerciales o de servicios, se considerarán horas hábiles las de su funcionamiento habitual.
+Las verificaciones podrán ser ordinarias o extraordinarias, las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo. Para los efectos de esta ley, tratándose de establecimientos industriales, comerciales o de servicios, se considerarán horas hábiles las de su funcionamiento habitual.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 620.
 
-Los inspectores sanitarios, en el ejercicio de sus funciones, tendrán libre acceso a los edificios, establecimientos comerciales y de servicios y, en general, a todos los lugares a que hace referencia esta ley.
+Los verificadores sanitarios, en el ejercicio de sus funciones, tendrán libre acceso a los edificios, establecimientos comerciales y de servicios y, en general, a todos los lugares a que hace referencia esta ley.
 
-Los propietarios, responsables, encargados u ocupantes de establecimientos o conductores de vehículos objetos de inspección están obligados a permitir el acceso y a dar facilidades e informes a los inspectores para el desarrollo de su labor.
+Los propietarios, responsables, encargados u ocupantes de establecimientos o conductores de vehículos objetos de verificación están obligados a permitir el acceso y a dar facilidades e informes a los verificadores para el desarrollo de su labor.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 621.
 
-Los inspectores, para practicar visitas, deberán estar provistas de órdenes escritas, expedidas por la autoridad sanitaria local competente, en las que se deberá precisar el lugar o zona que ha de inspeccionarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
+Los verificadores, para practicar visitas, deberán estar provistgos (sic) de órdenes escritas, expedidas por la autoridad sanitaria local competente, en las que se deberá precisar el lugar o zona que ha de inspeccionarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
 
-La orden de inspección deberá ser exhibida a la persona con quien se entienda la diligencia, a quien se le entregará una copia.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+La orden de verificación deberá ser exhibida a la persona con quien se entienda la diligencia, a quien se le entregará una copia.
 
 Las órdenes podrán expedirse para visitar establecimientos de una rama determinada de actividades o señalar al inspector la zona en la que vigilará el cumplimiento por todos los obligados, de las disposiciones sanitarias.
 
 Tratándose de actividades que se realicen a bordo de vehículos o en la vía pública, las órdenes podrán darse para vigilar una rama determinada en la misma orden.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 622.
 
-En la diligencia de inspección sanitaria se deberán observar las siguientes reglas:
+En la diligencia de verificación sanitaria se deberán observar las siguientes reglas:
 
-I.- Al iniciar la visita, el inspector deberá exhibir la credencial vigente, expedida por la autoridad sanitaria local competente, que lo acredite legalmente para desempeñar dicha función. Esta circunstancia se deberá anotar en el acta correspondiente;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
-II.- Al inicio de la visita, se deberá requerir al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo, que proponga dos testigos que deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia del visitado, los designará la autoridad que practique la inspección. Estas circunstancias, el nombre, domicilio y firma de los testigos, se hará constar en el acta;
+I.- Al iniciar la visita, el verificador deberá exhibir la credencial vigente, expedida por la autoridad sanitaria local competente, que lo acredite legalmente para desempeñar dicha función. Esta circunstancia se deberá anotar en el acta correspondiente;
 
-III.- En el acta que se levante con motivo de la inspección, se harán constar las circunstancias de la diligencia, las deficiencias o anomalías sanitarias observadas y, en su caso, las medidas de seguridad que se ejecuten; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
-IV.- Al concluir la inspección se dará oportunidad al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo de manifestar lo que a su derecho convenga, asentando su dicho en el acta respectiva y recabado su firma en el propio documento, del que se le entregará una copia.
+II.- Al inicio de la visita, se deberá requerir al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo, que proponga dos testigos que deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia del visitado, los designará la autoridad que practique la verificación. Estas circunstancias, el nombre, domicilio y firma de los testigos, se hará constar en el acta;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+III.- En el acta que se levante con motivo de la verificación, se hará constar las circunstancias de la diligencia, las deficiencias o anomalías sanitarias observadas y, en su caso, las medidas de seguridad que se ejecuten; y
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+IV.- Al concluir la verificación se dará oportunidad al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo de manifestar lo que a su derecho convenga, asentando su dicho en el acta respectiva y recabado su firma en el propio documento, del que se le entregará una copia.
 
 La negativa a firmar el acta o a recibir copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará a su validez ni la de la diligencia practicada.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+###### Artículo 622
+
+1.- La recolección de muestras se efectuará con sujeción a las siguientes reglas:
+
+I.- Se observarán las formalidades y requisitos exigidos para las visitas de verificación;
+
+II.- La toma de muestras podrá realizarse en cualquiera de las etapas del proceso, pero deberán tomarse del mismo lote, producción o recipiente, procediéndose a identificar las muestras en envases que puedan ser cerrados y sellados;
+
+III.- Se obtendrán tres muestras del producto. Una de ellas se dejará en poder de la persona con quien se entienda la diligencia para su análisis particular; otra muestra podrá quedar en poder de la misma persona a disposición de la Secretaría de Salud estatal y tendrá el carácter de muestra testigo; la última muestra será enviada por la propia Secretaría al laboratorio autorizado y habilitado por ella para su análisis oficial;
+
+IV.- El resultado del análisis oficial se notificará en forma personal o por correo certificado, con acuse de recibo, al interesado o titular de la autorización sanitaria de que se trate, dentro de los treinta días hábiles siguientes a la fecha de la toma de muestras;
+
+V.- En caso de desacuerdo con el resultado que se haya notificado, el interesado lo podrá impugnar dentro de un plazo de quince días hábiles a partir de la notificación del análisis oficial. Transcurrido este plazo sin que se haya impugnado el resultado del análisis oficial éste quedará firme y la autoridad sanitaria procederá conforme a la fracción VII de este artículo, según corresponda;
+
+VI.- Con la impugnación a que se refiere la fracción anterior, el interesado deberá acompañar el original del análisis particular que se hubiere practicado a la muestra que haya sido dejada en poder de la persona con quien se entendió la diligencia de muestreo, así como, en su caso, la muestra testigo. Sin el cumplimiento de este requisito no se dará trámite a la impugnación y el resultado del análisis oficial quedará firme;
+
+VII.- La impugnación presentada en términos de las fracciones anteriores dará lugar a que la Secretaría analice la muestra testigo en un laboratorio que la misma señale en presencia de las partes interesadas. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos; y
+
+VIII.- El resultado de los análisis de la muestra testigo se notificará en forma personal o por correo certificado con acuse de recibo al interesado o titular de la autorización sanitaria de que se trate, y en caso de que el producto reúna los requisitos y especificaciones requeridos, la autoridad sanitaria procederá a otorgar la autorización que se haya solicitado, o a ordenar el levantamiento de la medida de seguridad que se hubiera ejecutado, según corresponda.
+
+Si el resultado a que se refiere la fracción anterior comprueba que el producto no satisface los requisitos y especificaciones sanitarios, la autoridad sanitaria procederá a dictar y ejecutar las medidas de seguridad sanitarias que procedan o a confirmar las que se hubieren ejecutado, a imponer las sanciones que correspondan y a negar o revocar, en su caso, la autorización de que se trate.
+
+Si la diligencia se practica en un establecimiento que no sea titular del registro objeto de la muestra, cuando proceda, se correrá traslado al titular, mediante notificación personal o por correo certificado con acuse de recibo, de una copia del acta de verificación que consigne el muestreo realizado, así como del resultado del análisis oficial, a efecto de que dicho titular tenga oportunidad de impugnar el resultado, dentro de los quince días hábiles siguientes. En este caso, el titular podrá inconformarse, solicitando sea realizado el análisis de la muestra testigo.
+
+El depositario de la muestra testigo será responsable solidario con el titular, si no conserva la muestra citada.
+
+El procedimiento de muestreo no impide que la Secretaría dicte y ejecute las medidas de seguridad sanitarias que procedan, en cuyo caso se asentará en el acta de verificación las que se hubieren ejecutado y los productos que comprenda.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+###### Artículo 622
+
+2.- En el caso de toma de muestras de productos perecederos deberá conservarse en condiciones óptimas para evitar su descomposición, su análisis deberá iniciarse dentro de las cuarenta y ocho horas siguientes a la hora en que se recogieron. El resultado del análisis se notificará en forma personal al interesado dentro de los quince días hábiles siguientes contados a partir de la fecha en que se hizo la verificación. El particular podrá impugnar el resultado del análisis en un plazo de tres días contados a partir de la notificación, en cuyo caso se procederá en los términos de las fracciones VI y VII del artículo 622-1. Transcurrido este plazo, sin que se haya impugnado el resultado del análisis oficial, éste qudará (sic) firme.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+###### Artículo 622
+
+3.- En el caso de los productos recogidos en procedimientos de muestreo o verificación, sólo los labotarios (sic) autorizados o habilitados por la Secretaría de Salud del Estado, para tal efecto, podrán determinar, por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.
 
 ### Capítulo III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
 
@@ -3873,15 +3969,21 @@ Durante la suspensión se podrá permitir el acceso de las personas que tengan e
 
 La suspensión será levantada a instancia del interesado o por la propia autoridad que la ordenó, cuando cese la causa por la cual fue decretada.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 633.
 
-El aseguramiento de objetos, productos o substancias, tendrá lugar cuando se presuma que pueden ser nocivos para la salud de las personas o carezcan de los requisitos esenciales que se establezcan en esta ley y demás disposiciones legales aplicables. La Secretaría de Salud del Estado podrá retenerlos o dejarlos en depósito hasta en tanto se determine, previo dictamen, su destino.
+El aseguramiento de objetos, productos o substancias, tendrá lugar cuando se presuma que pueden ser nocivos para la salud de las personas o carezcan de los requisitos esenciales que se establezcan en esta ley y demás disposiciones legales aplicables. La Secretaría de Salud estatal podrá retenerlos o dejarlos en depósito hasta en tanto se determine, previo dictamen de laboratorio acreditado, cual será su destino.
 
-Si el dictamen reportara que el bien asegurado no es nocivo para la salud y cumple con las disposiciones legales correspondientes, se procederá a su inmediata devolución
+Si el dictamen indicara que el bien asegurado no es nocivo pero carece de los requisitos esenciales establecidos en esta ley y demás disposiciones legales aplicables, la autoridad sanitaria concederá al interesado un plazo hasta de treinta días para que tramite el cumplimiento de los requisitos omitidos. Si dentro de ese plazo el interesado no realizara el trámite indicado y no gestionara la recuperación acreditando el cumplimiento de lo ordenado por la autoridad sanitaria, se entenderá que la materia del aseguramiento causa abandono y quedará a disposición de la autoridad sanitaria para su aprovechamiento lícito.
 
-Si el interesado no gestionara la recuperación dentro de un plazo de 30 días hábiles, se entenderá que el bien causa abandono y quedará a disposición de la autoridad sanitaria competente para su aprovechamiento lícito.
+Si el dictamen indicara que el bien asegurado no es nocivo para la salud y cumple con los requisitos esenciales establecidos en esta ley y demás disposiciones legales aplicables se procederá a su inmediata devolución. El interesado contará con el plazo de treinta días para gestionar su recuperación, vencidos los cuales, sin haber hecho la gestión, se aplicará lo dispuesto en la parte final del párrafo anterior.
 
-Si el dictamen resultara que el bien asegurado es nocivo, la autoridad sanitaria podrá determinar previa observancia de la garantía de audiencia, que el mismo sea sometido a un tratamiento que haga posible su legal aprovechamiento por el interesado, o sea destruido si no pudiere tener un uso lícito por parte de la autoridad.
+Si del dictamen resultara que el bien asegurado es nocivo, la autoridad sanitaria, dentro del plazo establecido en el anterior párrafo y previa la observancia de la garantía de audiencia, podrá determinar que el interesado, bajo la vigilancia de aquélla, someta el bien asegurado a un tratamiento que haga posible su legal aprovechamiento, de ser posible, en cuyo caso y previo el dictamen de la autoridad sanitaria, el interesado podrá disponer de los bienes que haya sometido a tratamiento para destinarlos a los fines que la propia autoridad le señale.
+
+Los productos perecederos asegurados que se descompongan en poder de la autoridad sanitaria, así como los objetos, productos o substancias que se encuentren en evidente estado de descomposición, adulteración o contaminación que no los hagan aptos para su consumo, serán destruídos de inmediato por la autoridad sanitaria, la que levantará un acta circunstanciada de la destrucción.
+
+Los productos perecederos que no se reclamen por los interesados dentro de las veinticuatro horas de que hayan sido asegurados, quedarán a disposición de la autoridad sanitaria la que los entregará para su aprovechamiento, de preferencia, a instituciones de asistencia social, públicas o privadas.
 
 ###### Artículo 634.
 
@@ -4164,3 +4266,11 @@ Dado en el Palacio del Poder Legislativo del Estado; en Campeche a los veintinue
 Por lo tanto mando se imprima, publique y circule para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado, en Campeche a los veintinueve días del mes de diciembre del año de mil novecientos ochenta y siete.- El Gobernador Constitucional del Estado, ABELARDO CARRILLO ZAVALA.- El Secretario de Gobierno, Lic. LUIS ROBERTO SILVA PEREZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE DICIEMBRE DE 1994.
+
+Primero.- El presente Decreto entrará en vigor quince días después de la fecha en que aparezca publicado en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan a las contenidas en este Decreto.
