@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-del-equilibrio-ecologico-y-la-1809
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-30"
-last_updated: "2000-11-30"
+last_updated: "2004-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18097&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-11-22"
 
 REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE AREAS NATURALES PROTEGIDAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en el Diario Oficial de la Federación el jueves 30 de noviembre de 2000.
 
@@ -999,11 +999,13 @@ Las modificaciones al programa de manejo que resulten necesarias deberán seguir
 
 ### CAPÍTULO I. DE LOS USOS Y APROVECHAMIENTOS PERMITIDOS Y DE LAS PROHIBICIONES
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 80.
 
-Para los usos y aprovechamientos que se lleven a cabo dentro de las áreas naturales protegidas, la Secretaría otorgará las tasas respectivas y determinará el límite de cambio aceptable, o en su caso, la capacidad de carga correspondiente, de conformidad con los métodos y estudios respectivos.
+Para los usos y aprovechamientos que se lleven a cabo dentro de las áreas naturales protegidas, la Secretaría otorgará las tasas respectivas y establecerá las proporciones, límites de cambio aceptables o capacidades de carga correspondientes, de conformidad con los métodos y estudios respectivos.
 
-Para la elaboración de los estudios y métodos que permitan establecer la capacidad de carga o el límite de cambio aceptable, la Secretaría podrá solicitar la colaboración de otras dependencias del Ejecutivo Federal, así como de organizaciones públicas o privadas, universidades, instituciones de investigación o cualquier persona física o moral con experiencia y capacidad técnica en la materia.
+Para la elaboración de los métodos y estudios que permitan establecer las proporciones, límites de cambio aceptables o capacidades de carga, la Secretaría podrá solicitar la colaboración de otras dependencias del Ejecutivo Federal, así como de organizaciones públicas o privadas, universidades, instituciones de investigación o cualquier persona con experiencia y capacidad técnica en la materia.
 
 ###### Artículo 81.
 
@@ -1025,7 +1027,9 @@ d) No se afecten zonas de reproducción o especies en veda o en riesgo;
 
 e) Tratándose de aprovechamientos forestales, pesqueros y mineros, cuenten con la autorización respectiva y la manifestación de impacto ambiental autorizada, en los términos de las disposiciones legales y reglamentarias aplicables;
 
-f) En los aprovechamientos pesqueros, el volumen de pesca incidental no sea mayor que el volumen de la especie objeto de aprovechamiento, ni impliquen la captura incidental de especies consideradas en riesgo por las disposiciones legales y reglamentarias aplicables;
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2004)</small>
+
+f) Los aprovechamientos pesqueros no impliquen la captura incidental de especies consideradas en riesgo por las disposiciones legales y reglamentarias aplicables, ni el volumen de captura incidental sea mayor que el volumen de la especie objeto de aprovechamiento, salvo que la Secretaría, conjuntamente con la de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, establezcan tasas, proporciones, límites de cambio aceptables o capacidades de carga, así como las condiciones, para un volumen superior de captura incidental en relación con la especie objetivo, mediante acuerdo que deberá publicarse en el Diario Oficial de la Federación cada tres años. En su defecto, el último acuerdo publicado mantendrá su vigencia;
 
 g) No se realice la extracción de corales y materiales pétreos de los ecosistemas costeros, y
 
@@ -1728,3 +1732,9 @@ CUARTO.- Se abroga el Acuerdo mediante el cual se constituye el Consejo Nacional
 QUINTO.- Las actividades productivas en las áreas naturales protegidas que se desarrollaban con anterioridad a la expedición de la Declaratoria correspondiente, podrán continuar realizándose siempre y cuando se cumpla con lo establecido en las disposiciones legales y reglamentarias aplicables en materia ambiental.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de noviembre de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- La Secretaria de Medio Ambiente, Recursos Naturales y Pesca, Julia Carabias Lillo.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.- El Secretario de Marina, José Ramón Lorenzo Franco.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO:</small>
+
+D.O.F. 28 DE DICIEMBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
