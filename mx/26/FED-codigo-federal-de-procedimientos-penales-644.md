@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2001-06-01"
+last_updated: "2002-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE FEBRERO DE 2002.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -1826,6 +1826,10 @@ I. Del Código Penal Federal, los delitos siguientes:
 31) Extorsión, previsto en el artículo 390;
 
 32) Operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis, y
+
+> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
+
+32) Bis. Contra el Ambiente, en su comisión dolosa, previsto en los artículos 414, párrafos primero y tercero, 415, párrafo último, 416, párrafo último y 418, fracción II, cuando el volumen del derribo, de la extracción o de la tala, exceda de dos metros cúbicos de madera, o se trate de la conducta prevista en el párrafo último del artículo 419 y 420, párrafo último.
 
 33) En materia de derechos de autor, previsto en el artículo 424 Bis.
 
@@ -4696,3 +4700,9 @@ CUARTO.- Se derogan las disposiciones que se opongan al presente Decreto.
 D.O.F. 1 DE JUNIO DE 2001.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE FEBRERO DE 2002.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los artículos del Título Vigésimo Quinto del Código Penal Federal, vigentes hasta la entrada en vigor del presente decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código Penal Federal.
