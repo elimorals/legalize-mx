@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2005-01-06"
+last_updated: "2005-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -3499,9 +3499,9 @@ X. Al fabricante, empresario, contratista o constructor de una obra cualquiera q
 
 XI. Al que por cualquier medio se comprometa u ofrezca sus servicios a otro para construirle una casa habitación o cualquier obra, obteniendo con ello bienes o cantidades de dinero y no los aplique para tal objeto;
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2005)</small>
 
-XII. Al vendedor de materiales de cualquier especie, que habiendo recibido el precio de los mismos, los entregue en cantidad o calidad menor de la convenida; o cuando no hubiere acuerdo sobre el particular y la calidad o cantidad sean inferiores al término medio, o no se cumplan las especificaciones técnicas o normativas obligatorias;
+XII. A los fabricantes o comerciantes que en sus ofertas o publicidad de productos o servicios, hagan afirmaciones falsas o manifiesten características inciertas sobre los mismos, de modo que puedan causar un perjuicio grave y manifiesto a los consumidores, sin perjuicio de la pena que corresponda aplicar por la comisión de otros delitos.
 
 XIII. Al que obtenga cualquier beneficio, explotando la superstición o la ignorancia de una persona por medio de supuesta evocación de espíritus, adivinaciones o curaciones;
 
@@ -3535,9 +3535,11 @@ XXI. Al que, aprovechándose de la confusión anímica de la familia o de quien 
 
 XXII. A quien simule la constitución de una sociedad, con el objeto de obtener dinero ofreciendo el pago de intereses superiores a los autorizados por el Banco de México; y
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2005)</small>
 
-XXIII. A los fabricantes o comerciantes que, en sus ofertas o publicidad de productos o servicios, hagan afirmaciones falsas o manifiesten características inciertas sobre los mismos, de modo que puedan causar un perjuicio grave y manifiesto a los consumidores, sin perjuicio de la pena que corresponda aplicar por la comisión de otros delitos.
+XXIII. Al que suplantando al propietario de bienes o al titular de derechos de índole patrimonial utilizando medios de identificación o documentos apócrifos, transmita o grave dichos bienes o derechos. La misma pena se le impondrá al que a sabiendas de ésta circunstancia, adquiera el bien o derecho o reciba el beneficio del gravamen.
+
+Tratándose de bienes inmuebles, este delito se considera como grave y el procesado no tendrá derecho a la libertad provisional bajo caución.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
@@ -4342,3 +4344,9 @@ SEXTO.- Antes de la entrada en vigor de la Ley, los sujetos obligados deberán i
 SEPTIMO.- De no designarse las unidades de transparencia e información en el plazo establecido en el artículo anterior, se considerará como tal, en lo relativo a la recepción y entrega de solicitudes, a la Oficialía de partes de cada una de las entidades que, de acuerdo a la normatividad aplicable, conforman la estructura orgánica de los sujetos obligados.
 
 OCTAVO.- A la entrada en vigor del presente decreto, quedará abrogada la Ley de Transparencia e Información Pública del Estado de Jalisco publicada el 22 de enero de 2002 mediante decreto número 19446.
+
+P.O. 2 DE ABRIL DE 2005.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se deja sin efectos la aclaración de error del decreto 20787 aprobado el 10 de marzo de 2005.
