@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-5455"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-29"
-last_updated: "1990-12-29"
+last_updated: "1991-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-LEY DE HACIENDA PARA EL ESTADO DE HIDALGO
+LEY DE HACIENDA PARA EL ESTADO DE HIDALGO.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 29 de diciembre de 1990.
 
@@ -819,6 +819,10 @@ II. Presentar las declaraciones y efectuar el pago del impuesto en la Oficina Re
 
 III. Tratándose de personas físicas o morales cuya casa matriz y sucursales se encuentren ubicadas en el territorio del Estado, deberán presentar una sola declaración en la Oficina Rentística correspondiente a la jurisdicción del domicilio de la matriz, acumulando el número de trabajadores que tengan en dichas sucursales.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
+
+En el caso que el domicilio de la matriz, se encuentre fuera del Estado, y solo existan Sucursales o Distribuidoras en el Estado, deberán presentar una sola declaración en las Oficinas Rentísticas de la Jurisdicción donde se encuentre el domicilio del principal asiento de las actividades que se realicen dentro de la Entidad, acumulando el número de Trabajadores que tengan en todas las Sucursales del Estado.
+
 ### CAPITULO SEPTIMO.
 
 IMPUESTO ADICIONAL PARA LA CONSTRUCCION DE CARRETERAS, SOSTENIMIENTO DE LA ASISTENCIA PUBLICA Y DEL HOSPITAL DEL NIÑO DIF, DEL ESTADO.
@@ -1215,7 +1219,9 @@ Los derechos por la prestación de los servicios del Estado, a través de la Dir
 
 I.- De los vehículos particulares:
 
-a) Alta y canje de placas $ 14,616.00
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1991)</small>
+
+a) Alta y canje de placas $ 30,923.00
 
 b) Reposición de placas, por cada una $ 14,616.00
 
@@ -1227,13 +1233,17 @@ e) Reposición de tarjetas de circulación $ 3,846.00
 
 f) Placas de remolque $ 8,692.00
 
-g) Expedición del Registro Anual de Control vehicular $ 14,616.00
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1991)</small>
+
+g) Expedición del Registro Anual de Control Vehicular $ 21,000.00
 
 h) El canje extemporáneo de placas y engomado, dará lugar al cobro de intereses moratorios conforme a lo dispuesto por la Ley de Ingresos del Estado.
 
-II. De los vehículos de Servicio Público
+II.- De los vehículos de Servicio Público
 
-a) Alta y canje de placas $ 18,462.00
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1991)</small>
+
+a) Alta y canje de placas $ 40,000.00
 
 b) Reposición de placas, por cada una $ 18,462.00
 
@@ -1243,13 +1253,15 @@ d) Bajas y cambios de vehículos $ 2,692.00
 
 e) Baja de otros Estados $ 2,692.00
 
-f) Reposición de placas, por cada una. $ 3, 846.00
+f) Reposición de placas, por cada una $ 3, 846.00
 
-g) Expedición o renovación de tarjeta. $ 2,000.00
+g) Expedición o renovación de tarjeta $ 2,000.00
 
-h) Certificación del Servicio Público. $ 2,000.00
+h) Certificación del Servicio Público $ 2,000.00
 
-i) Expedición del Registro Anual de Control Vehicular. $ 18, 462.00
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1991)</small>
+
+i)Expedición del Registro Anual de Control Vehicular $ 25,000.00
 
 j) El canje extemporáneo de placas, dará lugar al cobro de intereses moratorios conforme a lo dispuesto por la Ley de Ingresos del Estado.
 
@@ -1302,6 +1314,162 @@ A) Por las primeras dos hojas $ 7,000.00
 B) Por cada hoja excedente $ 1,500.00
 
 IV. Por expedición de constancias de inscripción o de no inscripción de testamentos $ 7,000.00
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
+
+ARTICULO 91 BIS.- Los derechos por la prestación de servicios del Estado, a través de la dirección federal del trabajo se causaran y pagarán de la siguiente forma;
+
+I.- Por inspección de calderas, calentadores y aparatos a presión o vacío.
+
+1. De 1 a 5 c. v.……………………….$ 374.00
+
+2. De 6 a 10 c .v. ………………..…..$ 486.72
+
+3. De 11 a 15 c. v. ……………….…$ 617.76
+
+4. De 16 a 20 c. v.............................$ 728.00
+
+5. De 21 a 25 c. v. …………..……..$ 842.40
+
+6. De 26 a 30 c. v. …………..……..$ 962.00
+
+7. De 31 a 35 c. v. …………………$ 1,123.00
+
+8. De 36 a 40 c. v. …………………$ 1,235.00
+
+9. De 41 a 45 c. v. ………………....$ 1,347.84
+
+10. De 46 a 50 c. v…………………..$ 1,460.16
+
+11. De 51 a 55 c. v. …………………$ 1,572.48
+
+12. De 56 a 60 c. v. …………………$ 1,722.24
+
+13. De 61 a 65 c. v ………………….$1,890.72
+
+14. De 66 a 70 c. v. …………………$ 2,054.20
+
+15. De 71 a 85 c. v. …………………$ 2,171.52
+
+16. De 86 a 100 …………………..…$ 2,283.84
+
+17. De 101 a 125 c. v. ……………….$ 2,433.60
+
+18. De 126 a 150 c. v. ……………….$ 2, 545.92
+
+19. De 151 a 175 c. v. ……………….$ 2,658.24
+
+20. De 176 a 200 c. v. ………………$ 2, 770.58
+
+21. De 201 c. v. en adelante, se pagarán por los primeros 200 c. v., la cuota anterior y por cada c v. excedente…………………………....$ 7.80.
+
+II. Por la inspección de instalaciones de equipo de energía mecánica a eléctrica.
+
+1. Hasta 10 hp. …………………………..$ 149.76
+
+2. De 10.25 a 20 hp. ……………………..$ 280.80
+
+3. De 20.25 a 30 hp. ………………………$ 561.60
+
+4. De 30.25 a 75 hp. ……………….………$ 842.40
+
+5. De 75.25 a 100 hp. ……………….……..$ 953.44
+
+6. De 100.25 a 125 hp. …………………….$ 1,123.20
+
+7. De 125.25 a 150 hp. ……………….……$ 1,254.24
+
+8. De 150.25 175 hp. ……………………….$ 1,404.00
+
+9. De 175.25 a 200 hp. ……………………..$ 1,535.00
+
+10 .De 200.25 a 225 hp. ……………………$ 1,684.80
+
+11. De 225.25 a 250 hp. ……………………$ 1,815.84
+
+12. De 250.25 a 275 hp. ……………………$ 1,965.00
+
+13. De 275.25 a 300 hp. ……………………$ 2.096.64
+
+14. De 300.25 a 325 hp. ……………………$ 2,264.00
+
+15. De 325.25 a 350 hp. …………………….$ 2,377.44
+
+16. De 350.25 a 375 hp. ……………………$ 2,527.50
+
+17. De 375.25 a 400 hp. ……………………$ 2,675.20
+
+18. De 400.25 a 425 hp. ……………..….$ 2,808.00
+
+19. De 425.25 a 450 hp. …………….……$ 2, 938.00
+
+20. De 450.25 a 475 hp. …………………..$ 3,088.00
+
+21. De 475.25 a 500 hp. …………………..$ 3, 219.84
+
+22. De 500.25 a 525 hp. …………………..$ 3,369.60
+
+23. De 525.25 a 550 hp. ………………….$ 3,538.08
+
+24. De 550.25 a 575 hp. ………………….$ 3, 650.40
+
+25. De 575.25 a 600 hp………………..….$ 3,794.44
+
+26. De 600.25 a 625 hp. ………………..…$ 3.931.20
+
+27. De 625.25 a 650 hp. ………………….$ 4,080.96
+
+28. De 650.25 a 675 hp. ……………….$ 4,212.00
+
+29. De 675.25 a 700 hp. ………………$ 4,342.00
+
+30. De 700.25 a 725 hp. ……………….$ 4,623.84
+
+31. De 725.25 a 750 hp. ………………$ 4,698.20
+
+32. De 750.25 a 775 hp. ………………$ 4,792.32
+
+33. De 775.25 a 800 hp………………..$ 4,904.64
+
+34. De 800.25 a 825 hp. ………………$ 5,054.40
+
+35. De 825.25 a 850 hp. ……………...$ 5,185.44
+
+36. De 850.25 a 875 hp. ……………..$ 5,325.20
+
+37. De 875.25 a 900 hp. ………………$ 5,596.24
+
+38. De 900.25 a 925 hp. ……………..$ 5,616.00
+
+39. De 925.25 a 950 hp. ……………..$ 5,747.04
+
+40. De 950.25 a 975 hp. ……………..$ 5, 896.80
+
+41. De 975.25 a 1000 hp. ……………$ 6,027.84
+
+42. De 1000.25 en adelante, se pagará por los primeros 1000 hp, la cuota anterior y por cada hp de fracción excedente ……………$ 4.68
+
+III. Por examen y registro para obtener licencias de jefe de planta, de operador y fogonero.
+
+A) Jefe de Planta:
+
+1. Examen……………………………..$ 639.60
+
+2. Registro……………………………..$ 156.00
+
+B) Operadores:
+
+1. Examen……………………………..$ 312.00
+
+2. Registro ……………………………$ 93.60
+
+C) Fogonero o Encargado de Generadores:
+
+1. Examen…………………………….$ 156.00
+
+2. Registro……………………………$ 62.40
+
+IV. Por la autorización de los registros de las comisiones de seguridad de maquinaria de recipientes sujetos a presión, de generadores de vapor, y otros similares. ………$ 156.00
 
 ### CAPITULO IV. DE LAS DEPENDENCIAS DE LA SECRETARIA DE LA CONTRALORIA
 
@@ -1609,163 +1777,21 @@ A) Por la primera hoja $ 3,000.00
 
 B) Por cada hoja excedente $ 2,000.00
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 97 Bis.
+
+Los derechos por la prestación de los servicios del Estado a través de la Dirección General de Desarrollo Educativo, se causarán y pagarán de la siguiente forma:
+
+I. Por la certificación de boletas y certificados…………………………………..$ 5,000.00
+
+II. Por la certificación de firmas en títulos………………………………………..$ 8,000.00
+
 ### CAPITULO UNICO
 
 ###### ARTICULO 98.
 
-Los derechos por la prestación de los servicios del Estado a través de la Dirección General del Trabajo, se causarán y pagarán de la siguiente forma:
-
-I. Por inspección de calderas, calentadores y aparatos a presión o vacío.
-
-1. De 1 a 5 c. v ........................................................................... $ 374.00
-
-2. De 6 a 10 c. v ............................................ ..…………………..$ 486.72
-
-3. De 11 a 15 c. v. ……………..............................................…..$ 617.76
-
-4. De 16 a 20 c. v.........................................................................$ 728.00
-
-5. De 21 a 25 c. v. ………................................................………$ 842.40
-
-6. De 26 a 30 c. v. ……............................................……….…...$ 962.00
-
-7. De 31 a 35 c. v. ………........................................………….…$ 1,123.00
-
-8. De 36 a 40 c. v. …........................................………………….$ 1,235.00
-
-9. De 41 a 45 c. v. ……………..........................................………$ 1,347.84
-
-10. De 46 a 50 c. v…………..........................................………..…$ 1,460.16
-
-11. De 51 a 55 c. v. …………..........................................…..……..$ 1,572.48
-
-12. De 56 a 60 c. v. …………………...............................................$ 1,722.24
-
-13. De 61 a 65 c. v …………………...........................................….$1,890.72
-
-14. De 66 a 70 c. v. …………..........................................……….…$ 2,054.20
-
-15. De 71 a 85 c. v. ………..........................................………….....$ 2,171.52
-
-16. De 86 a 100 c. v…………..........................................………...…$ 2,283.84
-
-17. De 101 a 125 c. v. ………..........................................………....$ 2,433.60
-
-18. De 126 a 150 c. v. ………..........................................………....$ 2, 545.92
-
-19. De 151 a 175 c. v. ……..........................................………….....$ 2,658.24
-
-20. De 176 a 200 c. v. ………..........................................………….$ 2, 770.56
-
-21. de 201 c. v., en adelante, se pagarán por los primeros 200 c. v., la cuota anterior y por cada c. v. excedente………………..........................................…......………....$ 7.80.
-
-II. Por la inspección de instalaciones de equipo de energía mecánica eléctrica.
-
-1. Hasta 10 hp. ……………….........................................…………..$ 149.76
-
-2. De 10.25 a 20 hp. ……………........................................………..$ 280.80
-
-3. De 20.25 a 30 hp. ………………..............................................…$ 561.60
-
-4. De 30.25 a 75 hp. ………..............................................…………$ 842.40
-
-5. De 75.25 a 100 hp. ………….......................................…………..$ 963.44
-
-6. De 100.25 a 125 hp. ……......................................……………….$ 1,123.20
-
-7. De 125.25 a 150 hp. ………………....................................………$ 1,254.24
-
-8. De 150.25 175. hp. …………......................................…………….$ 1,404.00
-
-9. De 175.25 a 200 hp. ………………......................................……..$ 1,535.00
-
-10. De 200.25 a 225 hp. ………………........................................……$ 1,684.80
-
-11. De 225.25 a 250 hp. ………...............................................………$ 1,815.84
-
-12. De 250.25 a 275 hp. ……………........................................………$ 1,965.00
-
-13. De 275.25 a 300 hp. ……........................................………………$ 2.096.64
-
-14. De 300.25 a 325 hp. ……........................................………………$ 2,264.00
-
-15 De 325.25 a 350 hp. ……........................................……………….$ 2,377.44
-
-16. De 350.25 a 375 hp. ……...............................................…………$ 2,527.50
-
-17. De 375.25 a 400 hp. …..........................................……………......$ 2,675.20
-
-18. De 400.25 a 425. hp. ……..........................................…………....$ 2,808.00
-
-19. De 425.25 a 450 hp. ………………........................................……$ 2, 938.00
-
-20. De 450.25 a 475 hp. ……………….........................................…..$ 3,088.00
-
-21. De 475.25 a 500 hp. ………….........................................………..$ 3, 219.84
-
-22. De 500.25 a 525 hp. …………….........................................……..$ 3,369.60
-
-23. De 525.25 a 550 hp. ………..........................................………….$ 3,538.08
-
-24. De 550.25 a 575 hp. ……………..........................................…….$ 3, 650.40
-
-25. De 575.25 a 600 hp……………............................................…….$ 3,794.44
-
-26 De 600.25 a 625 hp. ………............................................…………$ 3,931.20
-
-27. De 625.25 a 650 hp. …….............................................…………..$ 4,080.96
-
-28. De 650.25 a 675 hp. ……………..............................................….$ 4,212.00
-
-29. De 675.25 a 700 hp. ……..............................................……….…$ 4,342.00
-
-30. De 700.25 a 725 hp. ……………..............................................….$ 4,623.84
-
-31. De 725.25 a 750 hp. …...............................................……………$ 4,698.20
-
-32. De 750.25 a 775 hp. ……………................................................…$ 4,792.32
-
-33. De 775.25 a 800 hp…………................................................……..$ 4,904.64
-
-34. De 800.25 a 825 hp. …………................................................……$ 5,054.40
-
-35. De 825.25 a 850 hp. …………...............................................…….$ 5,185.44
-
-36. De 850.25 a 875 hp. ………................................................………$ 5,325.20
-
-37 De 875.25 a 900 hp. …….................................................…………$ 5,596.24
-
-38. De 900.25 a 925 hp. ……..................................................………..$ 5,616.00
-
-39. De 925.25 a 950 hp. ……...................................................……….$ 5,747.04
-
-40. De 950.25 a 975 hp. ……....................................................………$ 5, 896.80
-
-41. De 975.25 a 1000 hp. ……....................................................……..$ 6,027.84
-
-42. De 1000.25 en adelante, se pagará por los primeros 1000 hp., la cuota anterior y por cada hp. de fracción excedente $ 4.68
-
-III. Por examen y registro para obtener licencias de jefe de planta, operador y fogonero.
-
-A) Jefe de Planta:
-
-1. Examen $ 639.60
-
-2. Registro $ 156.00
-
-B) Operadores:
-
-1. Examen $ 312.00
-
-2. Registro $ 93.60
-
-C) Fogonero o Encargado de Generadores:
-
-1. Examen $ 156.00
-
-2. Registro $ 62.40
-
-IV. Por la autorización de los registros de las comisiones de seguridad de maquinaria de recipientes sujetos a presión, de generadores de vapor y otros similares $ 156.00
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1991)
 
 ### CAPITULO UNICO
 
@@ -1908,3 +1934,11 @@ Por lo tanto mando se imprima, publique y circule para su debido cumplimiento el
 Dado en el Palacio del Poder Ejecutivo, en la ciudad de Pachuca de Soto, Estado de Hidalgo, a los veintiocho días del mes de diciembre de mil novecientos noventa.
 
 GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. ADOLFO LUGO VERDUZCO.- EL SECRETARIO DE GOBERNACION. LIC. ERNESTO GIL ELORDUY.- RUBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE DICIEMBRE DE 1991.
+
+PRIMERO.- EL Presente Decreto entrará en vigor el día 1º. de enero de 1992, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
