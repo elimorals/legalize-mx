@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-libre-y-5402"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-02-24"
-last_updated: "2002-04-05"
+last_updated: "2004-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DEL 2002.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 13 DE AGOSTO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 24 de febrero de 1995.
 
@@ -2734,3 +2736,51 @@ Artículo Segundo.- Los procedimientos en materia de conflicto de límites entre
 P.O. 5 DE ABRIL DEL 2002.
 
 Artículo Único.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE AGOSTO DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor el 25 de septiembre de 2004, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se abroga la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Guanajuato, expedida por la Quincuagésima Sexta Legislatura y publicada en el Periódico Oficial del Gobierno del Estado No. 16 Segunda Parte, de 24 de Febrero de 1995.
+
+Artículo Tercero.- Se abroga el Reglamento de Comisiones del Congreso del Estado de Guanajuato, expedido por la Quincuagésima Octava Legislatura y publicado en el Periódico Oficial del Gobierno del Estado No. 90 Tercera Parte, de 30 de Julio de 2002.
+
+Artículo Cuarto.- La Junta de Gobierno y Coordinación Política propondrá al Pleno, el proyecto de Estatuto del Servicio Civil de Carrera, en un término de 180 ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Quinto.- Los asuntos que a la entrada en vigor de esta Ley se encuentren pendientes en las comisiones que existan con el carácter de permanentes, no les será aplicable el periodo de ciento veinte días naturales para dictaminar establecido en la fracción V del artículo 76 de esta Ley.
+
+Artículo Sexto.- A la entrada en vigor de la presente Ley, el Presidente del Congreso dispondrá los cambios de turnos, motivados por el cambio de denominaciones de las comisiones permanentes:
+
+COMISIONES VIGENTES NUEVAS DENOMINACIONES
+
+DE COMISIONES
+
+Desarrollo Económico y Social. Desarrollo Económico y Social,
+
+y Atención al Migrante.
+
+Deporte y Asuntos de la Juventud y Deporte.
+
+Juventud.
+
+Educación, Cultura y Asuntos Educación, Ciencia y
+
+Editoriales. Tecnología y Cultura.
+
+Equidad y Género. Equidad de Género.
+
+Hacienda y Revisora de la Hacienda y Fiscalización.
+
+Contaduría Mayor de Hacienda.
+
+Gestoría Información y Quejas. Participación Ciudadana y
+
+Gestión Social.
+
+Obra Pública y Desarrollo Desarrollo Urbano y Obra
+
+Urbano. Pública.
+
+Los asuntos que se encuentren en trámite o en proceso en la Comisión de Hacienda y Revisora de la Contaduría Mayor de Hacienda al entrar en vigor esta Ley, continuarán tramitándose, por la Comisión de Hacienda y Fiscalización, en los términos de la presente Ley, así como de la Ley de Fiscalización Superior del Estado de Guanajuato y la Ley Reglamentaria de la Contaduría Mayor de Hacienda del Congreso del Estado, de conformidad con la fracción V, del articulo 70 de la Ley que se abroga.
+
+Artículo Séptimo.- Las referencias que en otros ordenamientos se hagan al Órgano de Gobierno del Congreso del Estado o a la Comisión de Régimen Interno, se entenderán hechas a la Junta de Gobierno y Coordinación Política.
