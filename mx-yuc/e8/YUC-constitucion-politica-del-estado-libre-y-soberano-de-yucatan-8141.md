@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1960-12-31"
+last_updated: "1961-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 1960.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE JULIO DE 1961.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -263,11 +263,11 @@ El Congreso del Estado de Yucatán se compondrá de Representantes electos en su
 
 Las personas que hubiesen desempeñado las funciones de Diputado, no podrán ser reelectas para el periodo inmediato siguiente. Los Diputados suplentes podrán ser electos para el periodo inmediato siguiente con el carácter de propietarios, siempre que no hubiesen estado en ejercicio; pero los propietarios no podrán ser electos para dicho periodo ni con el carácter de suplentes.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 19 DE JULIO DE 1961)</small>
 
 ###### Artículo 21.
 
-Para constituir el Congreso elegirán los ciudadanos del Estado un Diputado propietario y uno suplente, por cada cuarenta y cinco mil habitantes o por una fracción que llegue a la mitad, sin que nunca pueda su número ser menor de siete Diputados propietarios. En cada Distrito Electoral será elegido un Diputado propietario y uno suplente.
+Para constituir el Congreso eligirán (sic) los ciudadanos del Estado un Diputado Propietario y uno Suplente por cada setenta mil habitantes o por una fracción que exceda de la mitad sin que nunca pueda su número ser menor de siete Diputados Propietarios. En cada Distrito Electoral será elegido un Diputado Propietario y uno Suplente.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1359,11 +1359,11 @@ D.O. 31 DE DICIEMBRE DE 1960.
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
+D.O. 19 DE JULIO DE 1961.
+
 ###### ARTICULO UNICO.
 
-SE DEROGA EL DECRETO NUMERO 320 DE FECHA 2 DE AGOSTO DE 1921 QUE ADICIONO EL ARTICULO 20 DE LA CONSTITUCION POLITICA DEL ESTADO.
-
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
+Este Decreto entrará en vigor, el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
 ###### ARTICULO PRIMERO.
 
