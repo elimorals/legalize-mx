@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-17884"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2003-05-19"
+last_updated: "2003-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MERIDA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 30 de diciembre de 1999.
 
@@ -351,7 +351,9 @@ II.- Recabar de la Dirección de Desarrollo Urbano la carta de uso de suelo en d
 
 III.- Dar aviso por escrito, en un plazo de quince días, de cualquier modificación, aumento de giro, traspaso, cambio de domicilio, cambio de denominación, suspensión de actividades, clausura y baja.
 
-IV.- Recabar autorización de la Dirección de Finanzas y Tesorería Municipal, si realizan actividades eventuales y con base en dicha autorización, solicitar la determinación de las contribuciones que estén obligados a pagar, de acuerdo con el catálogo de actividades publicado anualmente en el mes de enero por el Ayuntamiento de Mérida en el Diario Oficial del Gobierno del Estado y en los diarios de mayor circulación en Yucatán.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+IV.- Recabar autorización de la Dirección de Finanzas y Tesorería Municipal, si realizan actividades eventuales y con base en dicha autorización, solicitar la determinación de las contribuciones que estén obligados a pagar.
 
 V.- Utilizar las formas o formularios elaborados por la Dirección de Finanzas y Tesorería Municipal, para comparecer, solicitar o liquidar créditos fiscales y/o administrativos.
 
@@ -399,6 +401,18 @@ c).- Determinación sanitaria, en su caso.
 
 d) El recibo de pago del derecho correspondiente en su caso.
 
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+e) Copia del comprobante de inscripción en el Registro Federal de Contribuyentes;
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+f) Copia del comprobante de su Clave Única de Registro de Población en su caso.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+g) Autorización de Ocupación en los casos previstos en el Reglamento de Construcciones del Municipio de Mérida;
+
 Para la revalidación de la licencia municipal de funcionamiento deberán presentarse:
 
 > <small>(REFORMADO D.O. 31 DE DICIEMBRE DE 2001)</small>
@@ -412,6 +426,22 @@ b) Documento que compruebe fehacientemente que está al día en el pago del impu
 > <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
 c) El recibo de pago del derecho correspondiente en su caso.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+d) Determinación sanitaria, en su caso.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+e) Copia del comprobante de inscripción en el Registro Federal de Contribuyentes.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+f) Copia del comprobante de su Clave Única de Registro de Población en su caso.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+Para el caso de revalidación, los requisitos de los incisos e) y f) se presentarán solo en caso de que esos datos no estén registrados en el padrón municipal.
 
 > <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -621,13 +651,7 @@ Inferior s/ecx. L.I.
 
 Se calculará de la siguiente manera: la diferencia entre el valor catastral y el límite inferior se multiplicará por la tasa aplicable y el producto obtenido se sumará a la cuota fija.
 
-Los predios que se encuentren en alguna de las situaciones siguientes:
-
-a) Sin construcción, con maleza y sin cercar.
-
-b) Con construcción, pero deshabitados, con maleza.
-
-Causarán una tarifa de tres veces la tarifa anual aplicable al valor catastral.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O. 31 DE DICIEMBRE DE 2003)</small>
 
 DEL PAGO
 
@@ -1297,7 +1321,13 @@ Servicio Factor Salario Mínimo
 
 a) Por participar en licitaciones 17.0
 
-b) Certificaciones expedidas por el Ayuntamiento 0.30
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+b) Por reposición de licencia de funcionamiento 2.0
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+c) Por reposición de recibos oficiales 0.5
 
 ###### ARTICULO 78.
 
@@ -1343,9 +1373,9 @@ En el caso de que las personas que realicen la introducción de carne en los té
 
 ###### ARTICULO 83.
 
-Por cada certificado que expida cualesquiera de las dependencias del Ayuntamiento, se pagará un derecho equivalente al .30 del importe de un salario mínimo vigente en la fecha de la expedición.
+Por cada certificado que expida cualesquiera de las dependencias del Ayuntamiento, se pagará un derecho equivalente a un salario mínimo vigente en la fecha de la expedición.
 
-Se exceptúan de lo dispuesto en este artículo, los derechos por certificados señalados en forma expresa en esta Ley y el certificado de estar al corriente en el pago del impuesto predial, que para su expedición requerirá el anexo del recibo de pago de este derecho, que emite la Universidad Autónoma de Yucatán.
+Se exceptúan de lo dispuesto en este artículo, los derechos por certificados señalados en forma expresa en esta Ley, el certificado de estar al corriente en el pago del impuesto predial, que para su expedición requerirá el anexo del recibo de pago de este derecho que emite la Universidad Autónoma de Yucatán, y el certificado de vecindad, por el cual se pagará un derecho equivalente a .30 de un salario mínimo vigente en la fecha de la expedición.
 
 ###### ARTICULO 84.
 
@@ -1353,17 +1383,27 @@ Por los servicios que presta la Dirección Municipal de Catastro se causarán de
 
 I.- Por la emisión de copias fotostáticas simples:
 
-a).- Por cada copia simple tamaño carta de cédulas, planos, parcelas, formas de manifestación de traslación de dominio o cualquier otra manifestación 0.3
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
 
-b).- Por cada copia tamaño doble carta: 0.4
+a).- Por cada hoja simple tamaño carta de cédulas, planos de predios,
+
+parcelas, formas de manifestación de traslación de dominio o
+
+cualquier otra manifestación 0.3
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+b).- Por cada copia simple tamaño doble carta de información de
+
+cédula catastral y plano de un predio 0.4
 
 c).- Por cada copia tamaño hasta cuatro cartas: 2.0
 
 d).- Por cada copia mayor de cuatro cartas: 5.0
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 2003)</small>
 
-II.- Por la expedición de copias certificadas de:
+II.- Por la expedición de copias fotostáticas certificadas o duplicados certificados de:
 
 a).- Cédulas, planos, parcelas manifestaciones (tamaño carta) cada una: 0.5
 
@@ -1405,9 +1445,9 @@ de 11 hasta 20 predios 5.0
 
 de 21 predios en adelante 5.25 de base más 0.25 por cada predio excedente.
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
 
-f) Certificado de no inscripción predial: 5.0
+f) Certificado de no inscripción predial, o de valor catastral 2.0
 
 > <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -1419,41 +1459,79 @@ V.- Por la elaboración de planos:
 
 a).- Tamaño carta: 4.0
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
 
-b) Tamaño doble carta 6.0
+b) Hasta cuatro cartas 7.0
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
 
-c) Tamaño cuatro cartas 12.0
+c) Más de cuatro cartas 12.0
 
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
-
-d) Tamaño 42 x 36 pulgadas 20.0
+d) (DEROGADO, D.O. 31 DE DICIEMBRE DE 2003)
 
 > <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
-VI.- Por diligencias de verificación de colindancias de predios o
+VI.- Por diligencias de verificación de colindancias de predios o de medidas físicas de cada una: 5.0
 
-de medidas físicas de cada una: 5.0
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+a).- Por factibilidad de división, urbanización, cambio de nomenclatura, estado de conservación del predio, ubicación física, no inscripción, mejora o demolición de construcción o rectificación de medidas 5.0
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+b).- Por elaboración de actas circunstanciadas por cada predio colindante que requiera de investigación documental 10.0
 
 > <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
 VII.- Cuando la elaboración de planos o la diligencia de verificación incluya trabajos de topografía, adicionalmente a la tasa de las fracciones III inciso f), V y VI, se causarán los siguientes derechos de acuerdo a la superficie:
 
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+a).- De terreno:
+
 De 0.01 a 200.00 m2 4.0
 
-De 200.01 a 1000.00 m2 7.4
+De 200.01 a 1,000.00 m2 7.0
 
-De 1000.01 a 2500.00 m2 10.0
+De 1,000.01 a 2,500.00 m2 10.0
 
-De 2500.01 a 5000.00 m2 12.0
+De 2,500.01 a 10,000.00 m2 25.0
 
-De 5000.01 a 10000.00 m2 17.8
+De 10,000.01 m2 a 30,000 m2, por m2 0.0040
 
-De 10000.01 m2 en adelante 17.8, más 12.0 por cada hectárea
+De 30,000.01 m2 a 60,000 m2, por m2 0.0032
 
-excedente o fracción de ésta.
+De 60,000.01 m2 a 90,000 m2, por m2 0.0029
+
+De 90,000.01 m2 a 120,000 m2, por m2 0.0026
+
+De 120,000.01 m2 a 150,000 m2, por m2 0.0023
+
+De 150,000.01 m2 en adelante, por m2 0.0021
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+b).- De construcción:
+
+De 0.00 m2 a 120 m2 0.00
+
+De 120.01 m2 a 250 m2 4.0
+
+De 250.01 m2 a 500 m2 7.0
+
+De 500.01 m2 a 750 10.0
+
+De 750.01 m2 a 1000 m2 14.0
+
+De 1000.01 m2 en adelante, por m2 0.014
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+En el caso de marcaje, localización de predios o aclaración de linderos, se cobrará adicionalmente a la superficie del predio, lo siguiente:
+
+a).- Cuando se trate de la ubicación de un predio dentro de una manzana, se aplicará el cobro de acuerdo con la tarifa de terreno de esta fracción, a toda la superficie existente en la manzana.
+
+b).- Cuando se trate de la ubicación de una manzana, se aplicará el cobro por metro lineal con base en la distancia existente del punto de referencia catastral más cercano a la manzana solicitada por cada metro lineal 0.050
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1473,29 +1551,17 @@ De un valor de $500,001.00 a $1,000,000.00 20.0
 
 De un valor de $1,000,001.00 en adelante 40.0
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 86.
 
-No causarán derecho alguno las divisiones o fracciones de terrenos en las zonas que sean destinadas plenamente a la producción agrícola o ganadera.
+No causarán derecho alguno las divisiones o fracciones de terrenos en zonas rústicas cuya superficie sea utilizada plenamente para la producción agrícola o ganadera.
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 87.
 
-Las divisiones y los fraccionamientos causarán derechos de deslindes, excepción hecha de los (sic) dispuesto en el artículo anterior, de conformidad con lo siguiente:
-
-De 0.01 a 5000 m2 0.016 por cada metro cuadrado.
-
-De 5000.01 a 10000 m2 80.0 más 0.012 por metro
-
-cuadrado que exceda de 5000 m2.
-
-> <small>(F. DE E., D.O. 8 DE ENERO DE 2003)</small>
-
-De 10000.01 m2 en adelante 14.0 más 0.002 por metro
-
-cuadrado que exceda de 10000 m2
+Las divisiones y los fraccionamientos causarán derechos de deslindes, excepción hecha de lo dispuesto en el artículo anterior, de conformidad con establecido en la fracción VII del artículo 84.
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -1507,11 +1573,11 @@ I.- Comercial: por departamento 0.9
 
 II.- Habitacional: por departamento 0.6
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 89.
 
-Quedan exentas del pago de los derechos que se establecen en este capítulo las instituciones públicas cuya actividad esté relacionada directamente con la promoción, desarrollo y otorgamiento de vivienda.
+Quedan exentas del pago de los derechos que se establecen en este capítulo los inmuebles propiedad de las instituciones públicas cuya actividad esté relacionada directamente con la promoción, desarrollo y otorgamiento de vivienda.
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1537,15 +1603,31 @@ Definitiva de Unión. 0.6 salarios
 
 Definitiva de Rectificación 0.6 salarios
 
-I.- Impresión de imagen satelital del municipio de Mérida por metro cuadrado de impresión, como base mínima 15.0
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2003)</small>
 
-II.- Impresión de planos
+I.- Impresión de imagen satelital del municipio de Mérida:
 
-a).- De una colonia o fraccionamiento 8.0
+a).- Tamaño carta 5.0
 
-b).- De una sección catastral 10.0
+b).- Tamaño dos cartas 9.0
 
-c).- De la ciudad 12.0
+c).- Tamaño cuatro cartas 15.0
+
+d).- Tamaño 42 x 36 pulgadas (Ploter) 25.0
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+II.- Impresión de planos de manzana, fraccionamiento, sección
+
+catastral o de la ciudad:
+
+a).- Tamaño carta 4.0
+
+b).- Tamaño dos cartas 8.0
+
+c).- Tamaño cuatro cartas 14.0
+
+d).- Tamaño 42 x 36 pulgadas (Ploter) 20.0
 
 > <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -1554,6 +1636,10 @@ III.- Trabajos de referencia geográfica con sistemas de posicionamiento global 
 > <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
 IV.- Cuando la diligencia de verificación requiera de trabajos de investigación en el Registro Público de la Propiedad del Estado de Yucatán. 3.0
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+V.- Plano del municipio de Mérida, en disco compacto. 50.00
 
 ###### ARTICULO 91.
 
@@ -1585,9 +1671,7 @@ DE LA OBLIGACION DE TERCEROS
 
 ###### ARTICULO 95.
 
-Los fedatarios públicos y las personas que tengan funciones notariales, no autorizarán escrituras que se refieran a adquisición de inmuebles ubicados en el municipio de Mérida ni el personal del Registro Público de la Propiedad del Estado, hará las inscripciones respectivas, si no se comprueba, mediante certificado expedido por la Dirección de Finanzas y Tesorería Municipal, que se han pagado los derechos a que se refiere este capítulo.
-
-Para el caso de que, alguna de las personas mencionadas en este artículo, viole lo dispuesto en el párrafo inmediato anterior, quien o quienes hubiesen incurrido en la violación, serán solidariamente responsables, con el contribuyente, del pago de los derechos que se hubiesen omitido.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 2003)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1666,6 +1750,10 @@ V.- Cuando se trate de inhumaciones en fosa común, no se causará derecho algun
 VI.- Por autorización de inhumación o exhumación
 
 $ 100.00
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+En las comisarías y subcomisarías del Municipio de Mérida, el derecho por este servicio será de: $50.00
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1799,11 +1887,13 @@ La Comisión Federal de Electricidad deberá rendir al Ayuntamiento de Mérida l
 
 Todas las tarifas de este capítulo se calcularán con base en el salario mínimo por cada licencia.
 
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 2003)</small>
 
-###### ARTICULO 95-J.
+###### ARTÍCULO 95-J.
 
-Tratándose de apertura, por la expedición de licencias para el funcionamiento de establecimientos dedicados al expendio de bebidas alcohólicas para su consumo en lugar diferente, se cobrará una (sic) derecho de acuerdo a la siguiente tarifa.
+Tratándose de apertura, por la expedición de licencias para el funcionamiento de establecimientos dedicados al expendio de bebidas alcohólicas y/o cerveza para su consumo en lugar diferente, se cobrará un derecho de acuerdo a la siguiente tarifa.
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
 Tipo de Establecimiento Importe en Salarios Mínimos
 
@@ -1819,11 +1909,13 @@ IV.- Minisuper 300
 
 V.- Expendio de vinos y licores al por mayor 400
 
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 2003)</small>
 
-###### ARTICULO 95-K.
+###### ARTICULO 95- K.
 
-Por el otorgamiento, de licencias para el funcionamiento de giros dedicados al expendio de bebidas alcohólicas para su consumo en el mismo lugar, se cobrará una cuota de acuerdo a la siguiente tarifa:
+Por el otorgamiento, de licencias para el funcionamiento de giros dedicados al expendio de bebidas alcohólicas y/o cerveza para su consumo en el mismo lugar, se cobrará una cuota de acuerdo a la siguiente tarifa:
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
 Tipo de Establecimiento Importe en Salarios Mínimos
 
@@ -1847,7 +1939,11 @@ IX.- Discotecas: 1,000
 
 X.- Salones de baile: 250
 
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
 Cuando por su denominación algún establecimiento no se encuentre comprendido en la clasificación anterior, se ubicará en aquél que por sus características le sea más semejante.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
 Para los efectos de este artículo, se entenderá la clasificación de establecimientos especificada en el reglamento municipal correspondiente.
 
@@ -1894,6 +1990,18 @@ XV.- Salón de baile 62.5
 Cuando por su denominación algún establecimiento no se encuentre comprendido en la clasificación anterior, se ubicará en aquél que por sus características le sea más semejante.
 
 Para los efectos de este artículo, se entenderá la clasificación de establecimientos especificada en el reglamento municipal correspondiente.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+De conformidad con lo establecido en el segundo y tercer párrafos del artículo 27 de esta Ley, el pago del derecho correspondiente para los giros con venta de bebidas alcohólicas y/o cerveza, será proporcional de conformidad con lo siguiente:
+
+a) En caso de apertura, se tomará en cuenta el número de meses contados a partir del en que inicie sus actividades y hasta el mes en que termine la vigencia de la Licencia de Funcionamiento Municipal;
+
+b) En caso de revalidación, se contará el número de meses a partir del que corresponda al siguiente del vencimiento de la licencia anterior, y hasta el mes en que termine la vigencia de la nueva licencia.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+El importe proporcional del derecho a pagar, se obtendrá de dividir el derecho correspondiente entre doce y multiplicarlo por el número de meses que resulte de acuerdo con alguno de los dos incisos que anteceden, según el caso.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -2043,11 +2151,33 @@ vehículos siniestrados: $790.00
 
 El pago de estos derechos se hará una vez proporcionado el servicio, de acuerdo a las cuotas establecidas en la ley y en los lugares autorizados por la Tesorería Municipal.
 
-### CAPITULO UNICO. DE LOS SUJETOS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+### CAPITULO XV. DERECHOS POR EL USO DE ESTACIONAMIENTOS Y BAÑOS PUBLICOS, PROPIEDAD DEL MUNICIPIO
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 95-V.
+
+Los derechos por el uso de estacionamientos en los mercados a que se refiere este capítulo se pagarán de conformidad con la siguiente tarifa:
+
+I.- Por bicicletas $ 3.00 por día
+
+II.- Por motocicletas $ 5.00 por día
+
+III.- Por automóviles o camionetas, $ 6.00 por hora
+
+IV.- Por otros vehículos de mayor capacidad de carga, $ 10.0 por hora
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 95-W.
+
+Los derechos por el uso de baños públicos en los mercados a que se refiere este capítulo se pagarán con la tarifa única de: $2.00
 
 ## TITULO IV. DE LAS CONTRIBUCIONES DE MEJORAS
 
-### CAPITULO UNICO. DE LOS PRODUCTOS
+### CAPITULO UNICO. DE LOS SUJETOS
 
 ###### ARTICULO 96.
 
@@ -2179,7 +2309,7 @@ El Director de Finanzas y Tesorero Municipal previa solicitud por escrito de la 
 
 > <small>(REFORMADA SU DENOMINACION, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO UNICO. DE LAS MULTAS FEDERALES NO FISCALES
+### CAPITULO UNICO. DE LOS PRODUCTOS
 
 ###### ARTICULO 108.
 
@@ -2237,7 +2367,7 @@ Los productos que percibirá el Municipio por los daños que sufrieren las vías
 
 ## TITULO VI. APROVECHAMIENTOS
 
-### CAPITULO I. GENERALIDADES
+### CAPITULO UNICO. DE LAS MULTAS FEDERALES NO FISCALES
 
 ###### ARTICULO 116.
 
@@ -2319,13 +2449,15 @@ Los ingresos mencionados en los artículos 118 y 119, serán recaudados por la D
 
 ## TITULO VIII. INFRACCIONES Y MULTAS
 
-### CAPITULO II. INFRACCIONES Y SANCIONES
-
-DE LOS RESPONSABLES
+### CAPITULO I. GENERALIDADES
 
 ###### ARTICULO 122.
 
 La aplicación de las multas por infracciones a las disposiciones municipales y a la presente Ley se efectuará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
+
+### CAPITULO II. INFRACCIONES Y SANCIONES
+
+DE LOS RESPONSABLES
 
 ###### ARTICULO 123.
 
@@ -2347,17 +2479,23 @@ a).- la falta de presentación o la presentación extemporánea de los avisos o 
 
 b).- La falta de cumplimiento de las obligaciones establecidas en esta Ley, a los fedatarios públicos, las personas que tengan funciones notariales, los empleados y funcionarios del Registro Público de la Propiedad y a los que por cualquier medio evadan o pretendan evadir, dicho cumplimiento.
 
-c).- La falta de empadronamiento de los obligados a ello, en la Dirección de Finanzas y Tesorería Municipal.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
 
-d).- La falta de revalidación de la licencia municipal de funcionamiento.
+c).- La falta de empadronamiento de los obligados a ello, en la Dirección de Finanzas y Tesorería Municipal dentro de los términos que señala esta ley.
 
-e).- La falta de presentación de los documentos que conforme a esta Ley, se requieran para acreditar el pago de las contribuciones municipales.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+d).- No revalidar la licencia municipal de funcionamiento en los términos que dispone esta Ley.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+e).- La falta de presentación o presentación extemporánea de los documentos que conforme a esta Ley, se requieran para acreditar el pago de las contribuciones municipales.
 
 f).- La ocupación de la vía pública, con el objeto de realizar alguna actividad comercial, si no cuentan con el permiso de las autoridades correspondientes.
 
 g).- La matanza de ganado fuera de los rastros públicos municipales, sin obtener la licencia o la autorización respectiva.
 
-h).- Mantener los predios en el estado a que se refieren los incisos a) y b) del artículo 42.
+h).- (DEROGADO, D.O. 31 DE DICIEMBRE DE 2003)
 
 ###### ARTICULO 126.
 
@@ -2367,7 +2505,9 @@ Serán sancionadas con multas de 25 salarios mínimos, las personas que cometan 
 
 Serán sancionadas con multas de 50 salarios mínimos, las personas que cometan la infracción, contenidas en los incisos b) del artículo 125.
 
-Serán sancionadas con multas de 150 salarios mínimos, las personas que cometan la infracción, contenidas en los incisos g) y h) del artículo 125.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
+
+Serán sancionadas con multa de 150 salarios mínimos, las personas que cometan la infracción, contenida en el inciso g) del artículo 125.
 
 Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
 
@@ -2404,6 +2544,8 @@ D.O. 15 DE DICIEMBRE DE 2000.
 DE LOS SUJETOS
 
 ### CAPITULO V. CERTIFICADOS
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO III. DERECHOS
 
@@ -2444,3 +2586,7 @@ D.O. 19 DE MAYO DE 2003.
 PRIMERO.- Las reformas y adiciones a que se refiere este Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los derechos previstos en el Capítulo XIII del Título III de la Ley de Hacienda del Municipio de Mérida, quedarán en suspenso hasta en tanto se transfiera al citado Municipio por parte del Gobierno del Estado de Yucatán, los servicios correspondientes.
+
+D.O. 31 DE DICIEMBRE DE 2003.
+
+UNICO.- Este decreto entrará en vigor el día siguiente su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
