@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-urbano-del-estado-de-jalisco-5817"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-13"
-last_updated: "1998-01-17"
+last_updated: "1998-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 1998.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 13 de julio de 1993.
 
@@ -234,6 +234,10 @@ XXXVII. Reincorporación municipal: el acto de derecho público que tiene por ob
 XXXVIII. La Secretaría: la dependencia del Gobierno del Estado competente en materia de ordenamiento territorial de los asentamientos humanos y de desarrollo urbano; y
 
 XXXIX. La Dependencia Municipal: la dependencia técnica y administrativa que señale el Gobierno Municipal competente para expedir los dictámenes, autorizaciones y licencias previstos en las fracciones XIX, XX, XXI y XXII del artículo 12 de esta Ley.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 1998)</small>
+
+XL. Registro de Obra: la autorización de la dependencia municipal, para llevar a cabo una edificación en suelo no urbanizado, en los términos de lo señalado por el artículo 284 de esta ley.
 
 ### CAPITULO II
 
@@ -3755,9 +3759,17 @@ XIV. Recursos y defensas de los particulares.
 
 Las normas de diseño que se integren en los Reglamentos de Construcción, incluirán especificaciones que faciliten el desplazamiento y el acceso a las personas con limitaciones físicas y en particular, a edificios y espacios abiertos para actividades públicas, generales o restringidas.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1998)</small>
+
 ###### Artículo 284.
 
-En los centros de población solamente se autorizará edificar en terrenos o predios de suelo urbanizado, exceptuando aquellas promociones que cuenten con autorización municipal para urbanización y edificación simultáneas.
+En los centros de población solamente se autorizará edificar en predios de suelo urbanizado: Sin embargo, estas autorizaciones podrán exceptuarse en los siguientes casos:
+
+I. Las promociones con licencia o permiso municipal para urbanización de edificación simultáneas;
+
+II. Los predios ubicados en suelo no urbanizado con registro de obra en las áreas en donde el Cabildo haya dictaminado técnica, jurídica y administrativamente factible su regularización.
+
+Los permisos o licencias en suelo no urbanizado deberán hacerse del conocimiento de la Procuraduría de Desarrollo Urbano, a efecto de que ésta proceda conforme al artículo 433 de esta ley.
 
 ###### Artículo 285.
 
@@ -5172,3 +5184,7 @@ Quinto. Los urbanizadores que estén tramitando la autorización de acciones urb
 Sexto. En tanto se expida en la ley estatal en materia de equilibrio ecológico y protección al ambiente el procedimiento para formular, aprobar y publicar el programa de ordenamiento ecológico local, los ayuntamientos podrán expedir estos programas, conforme el procedimiento previsto en esta Ley, a efecto de formular, aprobar y publicar el Plan de Desarrollo Urbano de Centro de Población.
 
 Séptimo. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 5 DE DICIEMBRE DE 1998.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial " El Estado de Jalisco".
