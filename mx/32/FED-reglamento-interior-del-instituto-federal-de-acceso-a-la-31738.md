@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-federal-de-acceso-a-la-31738"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-11"
-last_updated: "2003-06-11"
+last_updated: "2004-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31738&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-06-05"
 
 REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACION PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE JUNIO DE 2004.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de junio de 2003.
 
@@ -85,19 +85,33 @@ a) De Administración;
 
 b) De Asuntos Jurídicos;
 
-c) De Atención a la Sociedad;
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2004)</small>
 
-d) De Capacitación;
+c) De Atención a la Sociedad y Relaciones Institucionales;
 
-e) De Clasificación y Catalogación;
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2004)</small>
 
-f) De Comunicación Social;
+d) De Clasificación y Datos Personales;
 
-g) De Coordinación y Vigilancia;
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2004)</small>
 
-h) De Estudios e Investigación;
+e) De Comunicación Social;
 
-i) De Informática y Sistemas;
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2004)</small>
+
+f) De Coordinación y Vigilancia de la Administración Pública Federal;
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2004)</small>
+
+g) De Estudios e Investigación;
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2004)</small>
+
+h) De Informática y Sistemas, y
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2004)</small>
+
+i) De Vinculación con Estados y Municipios.
 
 j) De Protección de Datos Personales;
 
@@ -496,3 +510,9 @@ Los casos no previstos en este Reglamento Interior serán resueltos por acuerdo 
 UNICO. El presente Reglamento Interior entrará en vigor el mismo día al de su publicación en el Diario Oficial de la Federación.
 
 Así lo acordó el Pleno del Instituto Federal de Acceso a la Información Pública, en sesión celebrada el día cinco de junio de dos mil tres, ante el Secretario de Acuerdos.- La Comisionada Presidente, María Marván Laborde.- Rúbrica.- Los Comisionados: Horacio Aguilar Alvarez de Alba, Alonso Gómez Robledo Verduzco, Juan Pablo Guerrero Amparán y José Octavio López Presa.- Rúbricas.- El Secretario de Acuerdos, Francisco Ciscomani Freaner.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 16 DE JUNIO DE 2004.
+
+UNICO. La presente Modificación entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.
