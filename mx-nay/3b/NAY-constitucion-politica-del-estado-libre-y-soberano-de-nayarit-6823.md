@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2000-10-21"
+last_updated: "2001-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 2001.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -67,29 +67,9 @@ El Territorio del Estado es el que le corresponde conforme a la Constitución Fe
 
 Las Municipalidades enunciadas en el Artículo anterior conservarán la extensión y límites que actualmente tienen, salvo en los casos previstos por las fracciones III y IV del Artículo 47o de esta Constitución.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
-
 ###### Art. 5.
 
-Los Municipios, con el concurso de los Estados, cuando así fuere necesario y lo determinen las Leyes, tendrán a su cargo los siguientes servicios públicos.
-
-A) Agua Potable y Alcantarillado.
-
-B) Alumbrado Público.
-
-C) Limpia.
-
-D) Mercados y centrales de abasto.
-
-E) Panteones.
-
-F) Rastro.
-
-G) Calles, Parques y Jardines.
-
-H) Seguridad Pública y Tránsito, e
-
-I) Los demás que las Legislaturas locales determinen según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa y financiera.
+(DEROGADO, P.O. 24 DE ENERO DE 2001)
 
 ### CAPITULO III. De los Habitantes
 
@@ -509,19 +489,25 @@ I. Aprobar, reformar o suprimir leyes y decretos sobre todos los ramos de la adm
 
 En la interpretación legislativa se observarán los mismos trámites establecidos para la expedición de las normas jurídicas.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2001)</small>
 
-II. Expedir las bases generales a las que deberán sujetarse los Ayuntamientos respectivos y en especial, de manera enunciativa y no limitativa, legislar sobre:
+II. Expedir las leyes a las que deberán sujetarse los Ayuntamientos y en especial, de manera enunciativa y no limitativa, legislar sobre:
 
-a) Las facultades del Congreso para suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato de sus miembros por alguna de las causas graves que las Leyes locales prevengan;
+a) Las facultades del Congreso para, por acuerdo de las dos terceras partes de sus integrantes, suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato de sus miembros por alguna de las causas graves que las leyes locales prevengan, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan;
 
-b) Para determinar las bases, montos y plazos en que la Federación deberá cubrir a los Municipios sus participaciones, por conducto del Gobierno del Estado;
+b) Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre la administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;
 
-c) Las relaciones de trabajo entre el Estado y Municipios con sus trabajadores, con base en lo dispuesto por el apartado "b" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias;
+c) Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros del Ayuntamiento para dictar resoluciones que afecten el patrimonio inmobiliario, municipal o para celebrar convenios que comprometan al Municipio por un plazo mayor al del periodo del Ayuntamiento.
 
-d) Reglamentar el dominio y administración del patrimonio Municipal.
+d) Las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los municipios y el gobierno estatal, o entre aquéllos con motivo de la celebración de convenios a que hacen referencia los incisos c) y d) de la fracción II del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
 
-e) Todos los aspectos previstos por las Constituciones Federal, Local o Leyes que de ellas emanen.
+e) Los procedimientos y las normas a que deberán sujetarse los Ayuntamientos que pretendan coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de sus funciones públicas, con municipios de otras entidades;
+
+f) Para determinar las bases, montos y plazos en que la Federación deberá cubrir a los municipios sus participaciones por conducto del gobierno estatal;
+
+g) Las relaciones de trabajo entre el Estado y Municipio con sus trabajadores, con base en lo dispuesto por el apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos; y
+
+h) Todos los aspectos previstos por las Constituciones federal y local, y leyes que de ellas emanen.
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -537,9 +523,9 @@ V. Crear y suprimir empleos en el Estado, y señalar, aumentar o disminuir las r
 
 VI. Fijar anualmente, a propuesta que haga el Gobernador durante los primeros quince días del mes de noviembre, los gastos de la administración pública y designar las contribuciones que deban imponerse para cubrirlos, así como las ampliaciones y modificaciones que se hicieren necesarias. Si el Congreso no aprobare el presupuesto o la Ley de Ingresos del Estado, en los términos previstos por esta Constitución, declarará, en su caso, que seguirá vigente el presupuesto y la ley aprobadas para el año anterior, ajustados al índice inflacionario que establezca el Banco de México de ese mismo año, hasta que se apruebe el ejercicio fiscal correspondiente conforme las bases establecidas en la ley
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2001)</small>
 
-VII. Aprobar o reformar, en su caso, las leyes de ingresos de los municipios y revisar su cuenta pública con el apoyo del Organo de Fiscalización Superior del Estado.
+VII. Aprobar las leyes de ingresos de los municipios, revisar y fiscalizar sus cuentas públicas.
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
@@ -667,7 +653,9 @@ II. Al Gobernador del Estado.
 
 III. Al Tribunal Superior de Justicia, solamente en asuntos del orden Judicial.
 
-IV. A los Ayuntamientos en lo relativo a la Administración Municipal.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2001)</small>
+
+IV. A los Ayuntamientos en lo relativo al gobierno municipal.
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
 
@@ -949,7 +937,9 @@ XXVII.- Pasar al Procurador General de Justicia en el Estado, todos los asuntos 
 
 XXVIII.- Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos, haciendo efectiva la responsabilidad en que aquella incurriere.
 
-XXIX.- Cuidar de la conservación del orden público, disponiendo al efecto de la fuerza armada del Estado y de la del Municipio donde resida habitual o transitoriamente.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2001)</small>
+
+XXIX.- Cuidar de la conservación del orden público, disponiendo al efecto de las corporaciones de seguridad pública del estado.
 
 XXX.- El Gobernador Constitucional y el interino en su caso, al tomar posesión del cargo, rendirán ante la Legislatura o la Diputación Permanente, la siguiente protesta:
 
@@ -1275,6 +1265,8 @@ Las facultades y obligaciones del Procurador General de Justicia y Agentes del M
 
 ### CAPITULO UNICO. De los Municipios
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2001)</small>
+
 ###### Art. 102.
 
 Habrá en el Estado una dependencia encargada del servicio de defensoría de oficio del fuero común, cuya competencia será proveer en forma gratuita y obligatoria la prestación de asesoría y asistencia legal a quienes carezcan de recursos económicos para contratar servicios profesionales y para los fines que expresamente dispone la Constitución General de la República.
@@ -1309,87 +1301,175 @@ Los defensores de oficio deberán reunir los mismos requisitos que se exigen a l
 
 ###### Art. 106.
 
-El régimen interior de las Municipalidades, estará a cargo de corporaciones que se denominarán Ayuntamientos, no habiendo entre éstos y el Gobierno del Estado, ninguna autoridad intermedia.
+Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal, un Síndico y el número de Regidores que la ley determine. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1978)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2001)</small>
 
 ###### Art. 107.
 
-Los miembros de las corporaciones Municipales serán electos popularmente y su elección será directa en los términos que prescribe la Ley Electoral del Estado.
+Los Ayuntamientos se renovarán en su totalidad cada tres años y sus integrantes, electos popularmente por elección directa, no podrán ser reelectos para el periodo inmediato.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+Los miembros de las corporaciones municipales serán electos popularmente y su elección será directa en los términos que prescribe la Ley Electoral del Estado.
 
-Los miembros de los Ayuntamientos se elegirán conforme al siguiente procedimiento: El Presidente Municipal, Síndico y los Regidores, serán electos por planillas, por votación mayoritaria relativa. En todos los casos y bajo el procedimiento y términos que establezca la Ley Electoral del Estado, se integrará a los Ayuntamientos el número de regidores que les corresponda, bajo el principio de Representación proporcional.
+Los miembros de los Ayuntamientos se elegirán conforme al siguiente procedimiento : el Presidente Municipal, Síndico y los Regidores serán electos por planillas, por votación mayoritaria relativa. En todos los casos y bajo el procedimiento que establezca la Ley Electoral del Estado, se integrará a los Ayuntamientos el número de Regidores que les corresponda, bajo el principio de representación proporcional.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad competente, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser reelectos para el periodo inmediato.
+
+Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el periodo inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes si podrán ser electos para el periodo inmediato como propietarios a menos que hayan estado en ejercicio.
+
+Si alguno de los miembros dejare de desempeñar su cargo será sustituido por su suplente, o se procederá según lo disponga la ley.
+
+En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entren en funciones los suplentes ni se celebren nuevas elecciones, la legislatura del Estado designará de entre los vecinos a los miembros de los Concejos Municipales que concluirán los periodos respectivos; estos Concejos estarán integrados por el número de miembros que determine la ley, quienes deberán cumplir los requisitos de elegibilidad establecidos en esta Constitución y la ley.
+
+Las autoridades y organismos auxiliares, así como las instituciones municipales dotadas de autonomía, se elegirán y funcionarán conforme lo establezca la ley.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2001)</small>
 
 ###### Art. 108.
 
-Los miembros integrantes de los Ayuntamientos Constitucionales del Estado se denominarán: Presidente Municipal que será el Representante del Ayuntamiento en el orden político y administrativo; Síndico que tendrá la Representación Jurídica y los Regidores.
+La representación política y dirección administrativa, así como la ejecución de los acuerdos y resoluciones del Ayuntamiento, corresponderá al Presidente Municipal. A los Regidores compete el análisis y vigilancia colegiada de los ramos municipales y al Síndico la representación jurídica, el registro y revisión de la hacienda del Municipio.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+En ningún caso los Ayuntamientos, como cuerpos colegiados, podrán desempeñar las funciones del Presidente Municipal, ni éste por sí solo las de aquéllos.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2001)</small>
 
 ###### Art. 109.
 
-Los Ayuntamientos administrarán libremente su Hacienda y aprobarán su propio presupuesto de Egresos con base en los ingresos disponibles.
+Para ser Presidente Municipal, Síndico o Regidor de los Ayuntamientos, se requiere:
 
-La Ley de Ingresos de cada Municipio, será aprobada por el Congreso del Estado.
+I. Ser mexicano por nacimiento y no tener otra nacionalidad;
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
+II. Ser ciudadano nayarita en pleno ejercicio de sus derechos; originario del municipio o contar con residencia efectiva en su territorio no menor de cinco años anteriores al día de la elección;
+
+III. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso;
+
+IV. No haber sido funcionario de la administración pública federal, estatal o municipal durante los seis meses anteriores al día de la elección ordinaria, o a partir del quinto día posterior a la publicación de la convocatoria para la elección extraordinaria, ni pertenecer al Ejército permanente ni tener mando de fuerzas en el municipio; y
+
+V. No haber sido condenado por sentencia ejecutoriada por delito intencional que amerite pena privativa de la libertad.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2001)</small>
 
 ###### Art. 110.
 
-Los Ayuntamientos mandarán al Congreso todas sus cuentas a más tardar treinta días después de terminado el año y dentro de los primeros veinte días de cada mes, las cuentas correspondientes al mes anterior.
+Los Ayuntamientos tendrán a su cargo las siguientes funciones y servicios públicos municipales:
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1980)</small>
+a) Agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales;
+
+b) Alumbrado público;
+
+c) Limpia, recolección, traslado, tratamiento y disposición final de residuos;
+
+d) Mercados y centrales de abasto;
+
+e) Panteones;
+
+f) Rastros;
+
+g) Construcción, mantenimiento y equipamiento de calles, parques y jardines;
+
+h) Seguridad pública, policía preventiva municipal y tránsito;
+
+i) Protección Civil;
+
+j) Promoción y organización de la sociedad para la planeación del desarrollo urbano, cultural, económico y del equilibrio ecológico;
+
+k) Salud pública;
+
+l) Catastro;
+
+m) Registro Civil; y
+
+n) Las demás que la legislatura determine según las condiciones territoriales, socioeconómicas y la capacidad administrativa y financiera de los municipios.
+
+La policía preventiva municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en los casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
+
+Sin perjuicio de su competencia, en el desempeño de la prestación de los servicios a su cargo, los municipios observarán lo dispuesto por las leyes federales y estatales.
+
+Los municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan en los términos de la fracción III del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Los Ayuntamientos podrán celebrar convenios o autorizar concesiones a los particulares, para que éstos se hagan cargo temporalmente de la ejecución, la operación de obras y la prestación de servicios municipales en los términos que señale la ley.
+
+La planeación pública municipal será congruente con el sistema estatal y regional de planeación para el desarrollo.
+
+Cuando dos o más centros urbanos situados en territorios de dos o más municipios del estado, formen o tiendan a formar una continuidad demográfica, el Estado y los municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada, el desarrollo de dichos centros con apego a las leyes de la materia.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2001)</small>
 
 ###### Art. 111.
 
-El Presidente Municipal anualmente, en sesión solemne del Ayuntamiento, informará de las labores realizadas por éste durante su ejercicio Constitucional.
+Los municipios estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la ley.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1947)</small>
+En todo caso los Ayuntamientos tendrán facultades para:
+
+I. Aprobar, de acuerdo con las leyes en materia municipal, los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal;
+
+II. En el ámbito de su competencia, proponer al Congreso del Estado las cuotas, tasas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
+
+III. En los términos de las leyes federales y estatales:
+
+a) Aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
+
+b) Participar en la creación y administración de sus reservas territoriales;
+
+c) Autorizar, controlar y vigilar las licencias y usos de suelos en sus jurisdicciones territoriales;
+
+d) Intervenir en la regularización de la tenencia de la tierra urbana;
+
+e) Otorgar licencias y permisos para construcciones;
+
+f) Participar en la creación y administración de zonas de reservas ecológicas, y en la elaboración y aplicación de programas de ordenamiento en esta materia;
+
+g) Participar en la formulación de programas de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando el Estado elabore proyectos de desarrollo regional deberá incluir la participación de los municipios;
+
+h) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando afecten su ámbito territorial; y
+
+i) Celebrar convenios para la administración y custodia de las zonas federales.
+
+En lo conducente y de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Federal, expedirán los reglamentos y disposiciones administrativas que fueren necesarias.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2001)</small>
 
 ###### Art. 112.
 
-Para ser miembro del Ayuntamiento se requiere:
-
-I. Ser ciudadano del Estado, en ejercicio de sus derechos;
-
-II. Vecino del Municipio donde se hace la elección;
-
-III. No pertenecer al Ejército permanente ni tener mando de fuerzas en el Municipio.
-
-IV. No tener impedimento legal alguno.
-
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 29 DE NOVIEMBRE DE 1975)</small>
+El presidente municipal presentará anualmente en sesión solemne del Ayuntamiento, un informe escrito sobre el estado que guarda la administración pública municipal, así como de los avances del Plan Municipal de Desarrollo. Dicho informe será revisado y evaluado por los miembros del Ayuntamiento, en los términos que señale la ley.
 
 ###### Art. 113.
 
 Los miembros del Ayuntamiento serán responsables personal y colectivamente conforme a las leyes civiles y penales, de los actos que ejecuten en el ejercicio de sus funciones, y dichas responsabilidades podrán ser exigidas ante las autoridades que correspondan, ya sea directamente por los particulares cuando se ofendan sus derechos o por el Procurador General de Justicia en el Estado cuando se ofendan los de la sociedad.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2001)</small>
 
 ###### Art. 114.
 
-Los Ayuntamientos se renovarán cada tres años en su totalidad y la Ley Electoral determinará el tiempo y forma en que debe hacerse la elección.
+Los Ayuntamientos remitirán al Congreso del Estado, para su revisión y fiscalización por medio del Órgano Superior de Fiscalización, todas sus Cuentas Públicas en los términos que establece esta Constitución y la ley de la materia.
 
-Los integrantes de los Ayuntamientos electos popularmente por elección directa no podrán ser reelectos para el período inmediato.
+Los Ayuntamientos establecerán sus propios órganos internos de control presupuestal y financiero, los cuales desarrollarán sus funciones de conformidad con lo que establezca la ley.
 
-Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñe las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato.
-
-Todos los servidores públicos antes mencionados, cuando tengan el carácter de propietarios no podrán ser electos para el período inmediato posterior con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato posterior como propietarios, a menos que hayan entrado en funciones. Los Regidores asignados por el principio de Representación Proporcional que hayan estado en ejercicio, tampoco podrán ser electos para el período inmediato posterior con el carácter de propietarios.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2001)</small>
 
 ###### Art. 115.
 
-El Congreso del Estado determinará por el Código para la Administración Municipal del Estado de Nayarit, las normas a que deben sujetarse los Municipios en su régimen interior. Los Ayuntamientos observarán especialmente, las fracciones II, V y VI del artículo 115 de la Constitución Federal y en general las Leyes Federales y del Estado, atendiendo eficazmente todos los ramos de la Administración pública interior de los Municipios.
+Los municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que la legislatura establezca a su favor, y en todo caso:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+a) Percibirán las contribuciones, incluyendo tasas adicionales, que establezca el Congreso del Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora así como las que tengan por base el cambio de valor de los inmuebles.
+
+Los Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones;
+
+b) Las participaciones federales serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determinen por el Congreso del Estado; y
+
+c) Los ingresos derivados de la prestación de servicios públicos a su cargo.
+
+Las leyes no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+
+Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles. Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos, o bien, por quien ellos autoricen, conforme a la ley.
+
+En la distribución de los recursos que asigne el Congreso a los municipios, serán consideradas de manera prioritaria, las comunidades indígenas y zonas marginadas. Esta distribución se realizará con un sentido de equidad, de acuerdo con la disponibilidad presupuestal y las necesidades de dichas comunidades y zonas, considerando la incorporación de representantes de éstas a los órganos de planeación y participación ciudadana en los términos de la ley.
+
+Los bienes del dominio público municipal son inalienables, imprescriptibles e inembargables, mientras no varíe su situación jurídica en los términos y procedimientos que señale la ley.
 
 ###### Art. 115 Bis.
 
-La Hacienda Pública del Estado y de los Municipios, se formará de impuestos, contribuciones, derechos, productos y aprovechamientos diversos que fije la Legislatura del Estado en las respectivas Leyes de Ingresos. En todo caso, las contribuciones que se asignen a los Ayuntamientos, deberán ser suficientes para las necesidades de sus respectivos Municipios, conforme a lo establecido por el Artículo 115 de la Constitución General de la República y quedarán facultados para celebrar convenios con el Estado, para que éste se haga cargo de algunas de las funciones relacionadas con la Administración de esas contribuciones.
+(DEROGADO, P.O. 24 DE ENERO DE 2001)
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 21 DE OCTUBRE DE 2000)</small>
 
@@ -2245,7 +2325,7 @@ Por esta única vez y para los efectos del Artículo 85 de la reforma, los Conse
 
 P.O. 18 DE NOVIEMBRE DE 1995.
 
-DECRETO 7885 QUE REFORMA ARTS-37, 38 Y 69.
+DECRETO 7885 QUE REFORMA ARTS. 37, 38 Y 69.
 
 PRIMERO.- El presente decreto de reformas entrará en vigor, previos los trámites a que se refiere el artículo 131 de la Constitución Política, el día primero de enero de mil novecientos noventa y seis.
 
@@ -2332,3 +2412,19 @@ En tanto se expide la Ley Orgánica del Organo de Fiscalización Superior, se se
 ###### ARTICULO SEXTO.
 
 A partir de la entrada en vigor del presente decreto el Organo de Fiscalización Superior, desahogará todos los asuntos que a la fecha se encuentren en proceso de revisión y análisis por la Contaduría Mayor de Hacienda.
+
+P.O. 24 DE ENERO DE 2001.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Los Ayuntamientos deberán adecuar y, en su caso, expedir los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general, que se refieran a la organización de la administración pública y del gobierno municipal, a la regulación de las materias, procedimientos, funciones y servicios públicos de su competencia y a garantizar la participación ciudadana y vecinal, de conformidad con las leyes en materia municipal que expida el Congreso, a más tardar en seis meses a partir de la entrada en vigor de dichas leyes.
+
+En tanto se expiden los bandos y reglamentos y se realizan las adecuaciones a que se refiere el párrafo anterior, los Ayuntamientos aplicarán en sus municipios respectivos, las disposiciones que al efecto expida el Congreso del Estado.
+
+Mientras no se adecuen las leyes locales en materia municipal conforme a lo que se dispone en este decreto y a lo (sic) se establece en la Constitución Política de los Estados Unidos Mexicanos, se continuarán aplicando las disposiciones vigentes en lo que no la contravengan.
+
+Artículo Tercero.- Para equiparar los valores unitarios de suelo que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria al de los valores de mercado, el Congreso procederá inmediatamente después a la entrada en vigor de este Decreto, a coordinarse con los Ayuntamientos del estado, a fin de realizar los estudios y las acciones necesarias, en coordinación con las instancias del Poder Ejecutivo correspondientes, para garantizar que antes del 31 de agosto del año 2001 se hayan realizado dichas adecuaciones.
+
+Artículo Cuarto.- Se entienden por reproducidos los artículos transitorios del Decreto de reformas publicado en el Diario Oficial de la Federación el 23 de diciembre de 1999, que al efecto corresponda.
+
+Artículo Quinto.- En su oportunidad, y de resultar aprobado por esta Asamblea Legislativa en funciones de constituyente, túrnese la minuta a los HH. Ayuntamientos de los Municipios del Estado, para los efectos a que se refiere el artículo 131 de la Constitución Política del Estado de Nayarit.
