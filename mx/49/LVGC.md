@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1986-12-24"
+last_updated: "1988-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 1988.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -260,13 +260,13 @@ El Gobierno Federal tendrá facultad para construir o establecer vías generales
 
 La prestación de los servicios públicos de telégrafos, radiotelegráficos y de correos, queda reservada exclusivamente al Gobierno Federal o a los organismos descentralizados que se establezcan para dicho fin.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
-También quedan reservados en forma exclusiva al Gobierno Federal, el establecimiento de los sistemas de satélites, su operación y control y la prestación de servicios de conducción de señales por satélite, así como las estaciones terrenas con enlaces internacionales para comunicación vía satélite.
+También quedan reservados en forma exclusiva al Gobierno Federal, el establecimiento de los sistemas de satélites, su operación y control, la prestación del servicio público de conducción de señales por satélite; así como las estaciones terrenas con enlaces internacionales para comunicación vía satélite.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
-La instalación, operación y control de estaciones terrenas para la recepción de señales por satélite, y el aprovechamiento de éstas se llevarán a cabo conforme a las bases que para tal efecto fije la Secretaría de Comunicaciones y Transportes, de acuerdo con esta Ley y sus reglamentos.
+La Secretaría de Comunicaciones y Transportes establecerá, de acuerdo a esta Ley y sus Reglamentos, las bases conforme a las cuales se llevará a cabo la instalación, operación y control de estaciones terrenas.
 
 ###### ARTICULO 12.
 
@@ -1130,9 +1130,13 @@ Las empresas y personas físicas autorizadas por los gobiernos de los Estados y 
 
 El monto de la prima del seguro o la cantidad que deba destinarse a la constitución del fondo de garantía según el caso, quedarán comprendidos dentro del importe de las tarifas de transporte.
 
-La indemnización por la pérdida de la vida del pasajero será por una cantidad mínima equivalente a setecientas treinta veces el salario mínimo vigente en el Distrito Federal, y se pagará a sus herederos legales. La Secretaría de Comunicaciones y Transportes fijará, dentro de los primeros quince días del mes de enero, la cantidad por la que deba protegerse a cada viajero, así como el monto de la indemnización que deba percibirse de acuerdo con las incapacidades y lesiones que se causaren y los daños que resienta en sus pertenencias.
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
-La indemnización por concepto de lesiones a que tienen derecho los viajeros, deberá cubrir totalmente los pagos que se originen por la asistencia médica, la hospitalización y los aparatos de prótesis y ortopedia, pero no podrán exceder del monto que corresponda a la indemnización por muerte.
+La indemnización por la pérdida de la vida del pasajero será por una cantidad equivalente a setecientas treinta veces el salario mínimo diario vigente en el Distrito Federal en la fecha en que se cubra la misma. La Secretaría de Comunicaciones y Transportes, mediante acuerdo de su titular que se publique en el Diario Oficial de la Federación, y en atención a las condiciones de la economía nacional, podrá establecer nuevos límites de indemnización.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
+
+Tienen derecho al pago de la indemnización en caso de muerte del pasajero, las personas que señala, en su orden, el artículo 501 de la Ley Federal del Trabajo. Para el pago de dichas indemnizaciones en cada caso, así como para fijar el monto de las que deban percibirse de acuerdo a las incapacidades y lesiones que se causaren y de los daños a las pertenencias, la Secretaría resolverá lo conducente, de acuerdo a las disposiciones que al efecto señale el Reglamento respectivo.
 
 Mientras dure la inhabilitación, antes de que sea declarada la incapacidad, el pasajero tendrá derecho al pago del salario mínimo vigente en la zona donde la víctima del accidente preste sus servicios, o en caso de cesantía donde ésta resida, que se cubrirá íntegro el primer día hábil de cada semana.
 
@@ -1150,9 +1154,11 @@ Los transportistas que incumplan la obligación de proteger a los viajeros, inde
 
 La Secretaría de Comunicaciones y Transportes resolverá administrativamente todas las controversias que se originen en relación con el seguro del viajero o con el fondo de garantía, sin perjuicio de las facultades que correspondan a la Comisión Nacional Bancaria y de Seguros y a otras autoridades.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 128.
 
-Las personas o empresas que exploten los servicios públicos de autotransportes y pasajeros y de carga en los caminos nacionales, estarán obligadas a presentar a la Secretaría de Comunicaciones o ante la oficina que ésta designe para su resello los boletos y conocimientos de embarques que se expidan, sin cuyo requisito no tendrán validez.
+Los prestadores de servicios en vías generales de comunicación están obligados a presentar ante la Secretaría de Comunicaciones y Transportes para su perforación o resello, los documentos que expidan a los usuarios tales como: carta de porte, conocimiento de embarque, boleto, factura o documento similar, sin cuyo requisito no tendrán validez.
 
 # LIBRO SEGUNDO. Comunicaciones terrestres
 
@@ -3670,6 +3676,10 @@ Los concesionarios sólo podrán suspender los servicios telefónicos a los susc
 
 Los concesionarios y permisionarios de instalaciones telefónicas están obligados a transmitir gratuitamente los mensajes relacionados con las interrupciones de la Red Nacional por causas de fuerza mayor o casos fortuitos.
 
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 1988)</small>
+
+Se equiparán a los bienes del dominio público de la Federación los bienes inmuebles que tengan instalaciones destinadas de manera directa a la operación del servicio público telefónico, propiedad de entidades paraestatales de la Administración Pública Federal.
+
 ###### ARTICULO 399.
 
 Se exceptúan de lo estipulado en el artículo 61 de esta Ley, las cuotas para servicios telefónicos en los casos de tarifas decrecientes en relación con la distancia, que previamente hayan sido aprobadas por la Secretaría de Comunicaciones.
@@ -5141,3 +5151,7 @@ D.O.F. 24 DE DICIEMBRE DE 1986.
 DECRETO POR EL QUE SE REFORMA LA LEY DE VIAS GENERALES DE COMUNICACION
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE ENERO DE 1988.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
