@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-gasto-publico-23211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2001-12-25"
+last_updated: "2002-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE GASTO PUBLICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre de 2001.
 
@@ -59,7 +59,7 @@ II.- El Poder Judicial del Estado;
 
 III.- El Poder Ejecutivo del Estado;
 
-IV.- Los Organismos Descentralizados del Estado; y
+IV.- Los Organismos Descentralizados del Estado, y
 
 V.- Los Fideicomisos públicos en los que la administración pública o sus organismos descentralizados participen como fideicomitentes.
 
@@ -71,7 +71,9 @@ La Secretaría de Finanzas regulará lo correspondiente a la presupuestación de
 
 Corresponde a la Secretaría de Finanzas, entre otras atribuciones las siguientes:
 
-I.- Formular el proyecto de presupuesto de egresos;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2002)</small>
+
+I.- Elaborar el anteproyecto de Presupuesto de Egresos del Estado;
 
 II.- Programar el egreso;
 
@@ -105,7 +107,7 @@ La planeación del gasto público es el proceso mediante el cual se establecen d
 
 A través de la planeación se fijarán objetivos, metas, estrategias y prioridades; se asignarán recursos, responsabilidades y tiempos de ejecución y se evaluarán resultados.
 
-###### ARTICULO 10.
+###### ARTÍCULO 10.
 
 El titular del Ejecutivo conducirá la planeación del desarrollo de la entidad, debiendo comunicar al Congreso del Estado del cumplimiento del Plan Estatal de Desarrollo y los programas o ejercicio del gasto que de él se deriven, al momento de rendir el informe sobre el estado y perspectivas de la administración pública y de integrar la cuenta pública.
 
@@ -169,7 +171,7 @@ II.- Clasificación según el objeto del gasto, en la que se permita identificar
 
 III.- Clasificación económica, en la que se muestre, según su naturaleza, las erogaciones destinadas al gasto corriente, a la inversión pública, participaciones a municipios y deuda pública; y
 
-IV.- Clasificación programática, en la que se describan claramente los objetivos, metas y unidades responsables de su ejecución; así como la valuación estimada por programa.
+IV. Clasificación programática, en la que se describan claramente los objetivos, metas y unidades responsables de su ejecución; así como la valuación estimada por programa.
 
 ###### ARTICULO 20.
 
@@ -191,13 +193,17 @@ Estas clasificaciones no será restrictiva. Las erogaciones de gasto público no
 
 El Presupuesto de Egresos del Estado incluirá las erogaciones que realicen los Poderes Judicial, Legislativo y Ejecutivo, para su funcionamiento y el cumplimiento de sus programas; señalándose además el monto de las transferencias y del servicio del financiamiento crediticio, formulándose con base en los principios de equilibrio presupuestal, unidad, programación, anualidad, universalidad, especificación, claridad, uniformidad, publicidad y transparencia.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2002)</small>
+
 ###### ARTICULO 25.
 
-En consecuencia, el presupuesto se elaborará en función a que los egresos sean equivalentes a los ingresos factibles de ser percibidos en el mismo período, estará contenido en un solo cuerpo presupuestario, sin perjuicio de que posteriormente pueda ser modificado en los términos de ley.
+En consecuencia, el proyecto de Presupuesto de Egresos del Estado se elaborará en función a que los egresos sean equivalentes a los ingresos factibles de ser percibidos en el mismo periodo; estará contenido en un solo cuerpo presupuestario, sin perjuicio de que posteriormente pueda ser modificado en los términos de ley.
+
+(REFORMADO, P.O. 2 DE OCTUBRE DE 2002) (F. DE E., P.O. 9 DE OCTUBRE DE 2002)
 
 ###### ARTICULO 26.
 
-El presupuesto de egresos se clasificará en términos de esta ley; tendrá una vigencia de un año de calendario; amparará la totalidad del gasto público de las entidades a que se refiere el artículo 24; especificará los montos a ejercer en cada uno de los conceptos que lo integran; guardará un esquema que identifique el destino de los fondos públicos; se basará en el catálogo de partidas establecido para tal efecto en cada uno de los programas y subprogramas y, una vez aprobado por el Congreso del Estado, a través de la ley de Egresos, se publicará íntegramente en el Periódico Oficial del Estado.
+El Presupuesto de Egresos se clasificará en términos de esta ley; tendrá una vigencia de un año de calendario; amparará la totalidad del gasto público de las entidades a que se refiere el artículo 24; especificará los montos a ejercer en cada uno de los conceptos que lo integran; guardará un esquema que identifique el destino de los fondos públicos; se basará en el catálogo de partidas establecido para tal efecto en cada uno de los programas y subprogramas y, una vez aprobado por el Congreso del Estado, se publicará íntegramente en el Periódico Oficial del Estado.
 
 ###### ARTICULO 27.
 
@@ -227,9 +233,11 @@ La Secretaría de Finanzas podrá solicitar y obtener de las entidades comprendi
 
 La Secretaría de Finanzas queda facultada para formular el proyecto de presupuesto de las entidades cuando no le sea presentado en los plazos que señala la presente ley, de conformidad con los datos históricos y a las prioridades que se determinen en el Plan Estatal de Desarrollo.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2002)</small>
+
 ###### ARTICULO 34.
 
-El proyecto de Presupuesto de Egresos del Estado deberá ser presentado oportunamente al Gobernador por la Secretaría de Finanzas, para ser enviado al Congreso durante la segunda quincena del mes de noviembre del año anterior al que corresponda dicho presupuesto.
+El anteproyecto de Presupuesto de Egresos del Estado deberá ser presentado por la Secretaría de Finanzas al Gobernador durante la segunda quincena del mes de noviembre anterior al inicio del nuevo ejercicio fiscal, a fin de que se envíe oportunamente al Congreso el proyecto de Presupuesto de Egresos del Estado.
 
 ###### ARTICULO 35.
 
@@ -473,10 +481,18 @@ Se derogan todas las disposiciones que se opongan a lo dispuesto por la presente
 
 Las disposiciones reglamentarias y las prácticas administrativas en uso a la fecha de entrada en vigor de la presente ley seguirán teniendo aplicación en lo que no se les oponga.
 
-SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.-Cd. Victoria, Tam., a 12 de Diciembre del Año 2001.- Diputado Presidente LIC. REYNALDO JAVIER GARZA ELIZONDO.- Rúbrica.- Diputado Secretario C. MAURO PATRICIO LONGORIA MARTINEZ.- Rúbrica.- Diputado Secretario C. UBALDO GUZMAN QUINTERO.- Rúbrica.
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.-Cd. Victoria, Tam., a 12 de Diciembre del Año 2001.- Diputado Presidente LIC. REYNALDO JAVIER GARZA ELIZONDO.- Rúbrica.- Diputado Secretario MAURO PATRICIO LONGORIA MARTINEZ.- Rúbrica.- Diputado Secretario C. UBALDO GUZMAN QUINTERO.- Rúbrica.
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los trece días del mes de diciembre de año dos mil uno.-
 
-ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- El SECRETARIO GENERAL DE GOBIERNO ENCARGADO DEL DESPACHO POR MINISTERIO DE LEY.- BLADIMIR MARTINEZ RUIZ.- Rúbrica.
+ATENTAMENTE -"SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- El SECRETARIO GENERAL DE GOBIERNO ENCARGADO DEL DESPACHO POR MINISTERIO DE LEY.- BLADIMIR MARTINEZ RUIZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE OCTUBRE DE 2002
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
