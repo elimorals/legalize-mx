@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "1989-02-28"
+last_updated: "1992-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -89,7 +89,7 @@ Los titulares de las secretarías y dependencias a que se refiere esta Ley podr�
 
 Para la eficaz atención y eficiente despacho de los asuntos de su competencia, las secretarías y dependencias del Ejecutivo podrán contar con órganos administrativos desconcentrados, que les estarán jerárquicamente subordinados, y tendrán facultades específicas para resolver sobre la materia o dentro del ámbito territorial que se determine en cada caso.
 
-###### Artículo 12.
+###### Art. 12.
 
 Los titulares de las secretarías del Ejecutivo formularán proyectos de iniciativas de ley; y proyectos de reglamentos, decretos y acuerdos en las materias que correspondan a su competencia y las remitirán al Ejecutivo, a través de la Secretaría General de Gobierno.
 
@@ -111,9 +111,11 @@ El Gobernador del Estado podrá constituir comisiones intersecretariales para el
 
 Las Comisiones a que se refiere el artículo anterior, podrán ser permanentes o transitorias y se integrarán por servidores públicos que representen a las dependencias interesadas. Serán presididas ex-oficio por el Gobernador, y actuará como Secretario y coordinador de las mismas, el servidor público que determine el Titular del Poder Ejecutivo. El Secretario Coordinador tendrá la responsabilidad inmediata de su funcionamiento.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1992)</small>
+
 ###### Art. 17.
 
-Siempre funcionará como comisión permanente la Junta de Estudios, que será presidida ex-oficio por el Gobernador y estará integrada por el Secretario de Educación y Cultura, el Rector de la Universidad de Guadalajara e igual número de representantes de una y otra dependencia, sin exceder de cinco por cada una.
+Siempre funcionará como comisión permanente la Junta de Estudios, que será presidida ex-oficio por el Gobernador del Estado y estará integrada por los titulares de las Secretarías de Educación; de Cultura; el Rector de la Universidad de Guadalajara e igual número de representantes de las tres dependencias, sin exceder de cinco por cada una.
 
 ###### Art. 18.
 
@@ -197,13 +199,27 @@ I. Secretaría General de Gobierno;
 
 II. Secretaría de Finanzas;
 
-III. Secretaría de Desarrollo Urbano y Rural;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+III. Secretaría de Desarrollo Urbano;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+III Bis. Secretaría de Desarrollo Rural;
 
 IV. Secretaría de Promoción y Desarrollo Económico;
 
-V. Secretaría de Fomento Turístico, Artesanal y Pesquero;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
 
-VI. Secretaría de Educación y Cultura;
+V. Secretaría de Fomento Turístico y Artesanal;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+VI. Secretaría de Educación;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+VI Bis. Secretaría de Cultura;
 
 VII. Secretaría de Salud y Bienestar Social;
 
@@ -301,7 +317,7 @@ XXIII. En general, los demás asuntos de política interior o de relaciones que 
 
 XXIV. Asesorar en los problemas de tipo legal a las distintas dependencias administrativas;
 
-XXV. El control de la Unidad Editorial del Estado;
+XXV. (DEROGADA, 20 DE AGOSTO DE 1992)
 
 XXVI. El control de la Dirección del Patrimonio y Valores Artísticos e Históricos del Estado;
 
@@ -383,25 +399,39 @@ XXVIII. Proponer al Ejecutivo la concesión de perdón, una vez satisfecho el in
 
 XXIX. Los demás que señalen las Leyes y reglamentos vigentes en el Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 1992)</small>
+
 ###### Art. 32.
 
-La Secretaría de Desarrollo Urbano y Rural es la dependencia encargada de ordenar los asentamientos humanos, regular el desarrollo urbano, proyectar y ejecutar las obras públicas y de infraestructura, fomentar el desarrollo agropecuario, forestal y de la fauna, así como el desarrollo rural integral en el Estado.
+La Secretaría de Desarrollo Urbano es la dependencia encargada de ordenar los asentamientos humanos, regular el desarrollo urbano, proyectar las obras públicas urbanas, y ejecutar las obras públicas y de infraestructura estatales en general.
 
 A esta Secretaría corresponde el despacho de los siguientes asuntos:
 
-I. Promover y vigilar el equilibrado desarrollo de las diversas comunidades y centros de población del Estado, mediante una adecuada planificación y zonificación de los mismos;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
 
-II. Formular, revisar, y ejecutar el plan estatal de desarrollo urbano y rural, directa o concertadamente con los sectores interesados;
+I. Promover y vigilar el equilibrado desarrollo Urbano de las diversas comunidades y centros de población del Estado, mediante una adecuada planificación y zonificación de los mismos;
 
-III. Elaborar y vigilar el cumplimiento de los planes rectores;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+II. Participar en la elaboración del Plan Estatal de Desarrollo, respecto de la definición de las políticas de asentamientos humanos, de regulación del desarrollo urbano y de la proyección y ejecución de las obras públicas y de infraestructura. Así mismo formular, revisar y ejecutar el programa estatal de desarrollo urbano, directa o concertadamente con los sectores interesados;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+III. En forma coordinada con los Ayuntamientos tomar la participación que precisen las Leyes urbanísticas para elaborar, ejecutar, evaluar, revisar y vigilar el cumplimiento de los Programas Regionales y Municipales de Desarrollo Urbano, de acuerdo a las Políticas establecidas en el Plan Estatal de Desarrollo.
 
 IV. Vigilar el cumplimiento y aplicación de las disposiciones legales y reglamentarias en materia de fraccionamientos, construcción y desarrollo urbano;
 
-V. Promover y ejecutar, en su ámbito de competencia, la regularización de la tenencia de la tierra, y diseñar y operar los planes de constitución de reservas territoriales;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
 
-VI. Participar en la realización de los programas de vivienda y urbanización;
+V. Promover y ejecutar, en su ámbito de competencia, la regularización de la tenencia de la tierra, y diseñar y operar los Programas de Reservas Territoriales;
 
-VII. Formular el programa general de obras de Gobierno del Estado;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+VI. Elaborar e instrumentar el Programa Estatal de Vivienda de acuerdo a las políticas establecidas en el Plan Estatal de Desarrollo;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+VII. Formular el programa general de obra pública urbana del Gobierno del Estado;
 
 VIII. Proyectar, ejecutar, mantener y operar, en su caso, directamente o por adjudicación a particulares, o al sector social, las obras públicas que no sean de la competencia de otra dependencia;
 
@@ -411,17 +441,59 @@ X. Prestar asesoría y trabajar en forma coordinada con los ayuntamientos de la 
 
 XI. Formular y operar en lo procedente, conjuntamente con la Federación los planes y programas específicos para el abastecimiento y tratamiento de aguas y servicios de drenaje y alcantarillado;
 
-XII. Expedir, en coordinación con la Coordinación General de Control Presupuestal, las bases a que deban sujetarse los concursos para la ejecución de obras en el Estado, así como adjudicar, cancelar y vigilar el cumplimiento de los contratos de obras celebrados por la administración pública del Estado;
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1992)</small>
 
-XIII. Fomentar y ejecutar los programas de desarrollo agrícola, ganadero, forestal, de la fauna, y agroindustrial;
+XI Bis. Evaluar los proyectos que se formulen, utilizando indicadores que muestren su factibilidad económica y social, así como su impacto ecológico y de riesgo para la población;
 
-XIV. Ejecutar proyectos para aprovechar racionalmente los recursos hidrológicos y naturales renovables del Estado, integrados a las ramas del sector;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
 
-XV. Realizar los proyectos para la construcción o reconstrucción de la infraestructura productiva rural necesarios para apoyar las actividades agrícolas, ganaderas, y forestales en el Estado, ya sea en forma directa o a través de la contratación o subcontratación de los servicios de empresas públicas privadas o del sector social;
+XII. Expedir conjuntamente con la Coordinación General de Control Presupuestal, las bases a que deban sujetarse los concursos para la ejecución de obras en el Estado, así como adjudicar, cancelar y vigilar el cumplimiento de los contratos de obra celebrados por la Administración Pública del Estado;
 
-XVI. Coordinar las actividades operativas de los organismos distritales de desarrollo rural, e implantar los mecanismos requeridos para la eficiente operación de los planes y programas que, en materia agropecuaria, forestal e hidráulica se establezcan en la Entidad; y
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+XII Bis. En coordinación con la Secretaría de Desarrollo Rural y otorgando la participación que corresponda a los ayuntamientos, elaborar las declaratorias de áreas naturales protegidas de interés estatal y promover la autorización, registro y aplicación, conforme dispongan las leyes en materia de equilibrio ecológico y protección al ambiente;
+
+XIII. (DEROGADA, 20 DE AGOSTO DE 1992)
+
+XIV. (DEROGADA, 20 DE AGOSTO DE 1992)
+
+XV. (DEROGADA, 20 DE AGOSTO DE 1992)
+
+XVI. (DEROGADA, 20 DE AGOSTO DE 1992)
 
 XVII. Las demás que le concedan las leyes.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 1992)</small>
+
+###### Art. 32 Bis.
+
+A la Secretaría de Desarrollo Rural corresponde fomentar el desarrollo agropecuario, forestal, de la fauna, y pesquero, así como el desarrollo rural integral del Estado.
+
+A esta Secretaría corresponde, en particular, el despacho de los siguientes asuntos:
+
+I. Formular, revisar y ejecutar el Programa Estatal de Desarrollo Rural, directa o concertadamente con los sectores interesados;
+
+II. Participar en la elaboración del Plan Estatal de Desarrollo, respecto a la definición de las políticas agropecuarias, forestal, de la fauna y pesquera, así como el desarrollo rural integral del Estado;
+
+III. Elaborar y vigilar el cumplimiento de los Programas en materia de desarrollo rural;
+
+IV. Proyectar y ejecutar el programa de obra pública rural del Gobierno del Estado, con la participación de manera concertada con Municipios, Comunidades y Organizaciones;
+
+V. En coordinación con la Secretaría de Desarrollo Urbano y otorgando la participación que corresponde a los ayuntamientos, promover las declaratorias de áreas naturales protegidas de interés estatal conforme dispongan las leyes en materia de equilibrio ecológico y protección al ambiente;
+
+VI. Fomentar y ejecutar los programas de desarrollo agrícola, ganadero, forestal, de la fauna, pesquero y agroindustrial del Estado;
+
+VII. Ejecutar proyectos y sus obras para aprovechar los recursos hidrológicos y naturales renovables del Estado, en forma racional y sostenida, integrados a las ramas del sector;
+
+VIII. Realizar los proyectos y la construcción o reconstrucción de la infraestructura productiva rural, necesarios para apoyar las actividades agrícolas, ganaderas y forestales, en el Estado, ya sea en forma directa o a través de la contratación o subcontratación de los servicios de empresas públicas, privadas o del sector social;
+
+IX. Evaluar los proyectos que se formulen, utilizando indicadores, que muestren su factibilidad económica y social, así como su impacto ecológico y de riesgo para la población;
+
+X. Coordinar las actividades operativas de los organismos distritales de desarrollo rural, e implementar los mecanismos requeridos para la eficiente operación de los planes y programas que en materia agropecuaria, forestal e hidráulica, se establezcan en la Entidad;
+
+XI. Ejercer, previo acuerdo del Gobernador del Estado, las atribuciones y funciones que, en materia pesquera, se convengan con la administración pública federal, así como las particulares de competencia local; y
+
+XII. Las demás que le concedan las leyes.
 
 ###### Art. 33.
 
@@ -459,13 +531,19 @@ XV. Participar, en coordinación con las autoridades competentes, en la planeaci
 
 XVI. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 1992)</small>
+
 ###### Art. 34.
 
-La Secretaría de Fomento Turístico, Artesanal y Pesquero, es la dependencia responsable de supervisar el debido cumplimiento de la regulación turística, de la promoción y desarrollo de nuevos proyectos, del fomento a la producción y comercialización artesanal.
+La Secretaría de Fomento Turístico y Artesanal, es la dependencia responsable de supervisar el debido cumplimiento de la regulación turística, de la promoción y desarrollo de nuevos proyectos, del fomento a la producción y comercialización artesanal.
 
 Corresponde a ésta Secretaría:
 
 I. Establecer en el Estado, las oficinas de turismo que sean necesarias, así como fundar agencias de información y difusión turísticas en el interior del país y en el extranjero;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+I Bis. Participar en la elaboración del Plan Estatal de Desarrollo, respecto de la definición de las políticas para la promoción de las actividades turística y artesanal; formular, revisar y ejecutar el Programa Estatal para el Desarrollo Turístico y Artesanal, directa o concertadamente con los sectores interesados; y evaluar los proyectos que se formulen, utilizando indicadores que muestren su factibilidad económica y social, así como su impacto ecológico y de riesgo para la población;
 
 II. Supervisar y controlar la transportación de turistas dentro del Estado, de conformidad con las normas que al efecto dicte la Secretaría de Vialidad y Transporte;
 
@@ -493,27 +571,41 @@ XIII. Impulsar el turismo social a fin de que la cultura y recreación sana, sea
 
 XIV. Organizar y fomentar la producción artesanal en el Estado, vigilando que su comercialización se haga en términos favorables para los artesanos;
 
-XV. Ejercer, previo acuerdo del Gobernador del Estado, las atribuciones y funciones que en materia pesquera se convengan con la administración pública federal, así como las particulares de competencia local; y
+XV. (DEROGADA, P.O. 20 DE AGOSTO DE 1992);
 
 XVI. Las demás que otorguen las leyes y decretos vigentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 1992)</small>
+
 ###### Art. 35.
 
-La Secretaría de Educación y Cultura es la responsable de dar cumplimiento a las obligaciones del Estado, en materia de educación, y de fomentar la cultura y las artes. Corresponde a esta Secretaría el despacho de los siguientes asuntos:
+La Secretaría de Educación es la responsable de dar cumplimiento a las obligaciones del Estado en materia educativa. Corresponde a esta Secretaría el despacho de los siguientes asuntos:
 
-I. Formular y ejecutar la política de desarrollo educativo y cultural del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+I. Formular, revisar y ejecutar el Programa para el Desarrollo de la Educación en el Estado;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+I Bis. Participar en la elaboración del Plan Estatal de Desarrollo, respecto a la definición de la política educativa;
 
 II. Planear, desarrollar, dirigir y vigilar la educación a cargo del Gobierno Estatal y de los particulares en todos los tipos, niveles y modalidades, en los términos de la legislación correspondiente, y sin perjuicio de la competencia concurrente que corresponde a la Universidad de Guadalajara, pero debiendo coordinarse, en todo caso, una con otra;
 
-III. Elaborar y, en su caso ejecutar los convenios de coordinación que en materia educativa, o cultural celebre el Estado con el Gobierno Federal y los Ayuntamientos;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+III. Elaborar y, en su caso, ejecutar los convenios de coordinación que en materia educativa celebre el Gobierno del Estado con el Gobierno Federal y los Ayuntamientos;
 
 IV. Proponer al Ejecutivo la Expedición de los títulos, grados y diplomas que procedan, en los niveles de educación correspondientes;
 
 V. Conceder la incorporación, y en su caso, revalidar los estudios, diplomas, grados o títulos, equivalentes a la enseñanza que se imparta en el Estado, en los términos de la Ley de la Materia;
 
-VI. Coordinar, organizar, dirigir y fomentar el establecimiento de bibliotecas, hemerotecas, casas de cultura, museos, y orientar sus actividades;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
 
-VII. Impulsar las actividades de difusión y fomento educativo y cultura;
+VI. Coordinar, organizar, dirigir y fomentar el establecimiento de bibliotecas, hemerotecas, videotecas, filmotecas y cualquier otro medio de divulgación escolar así como orientar sus actividades;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+VII. Impulsar las actividades de difusión y fomento educativo;
 
 VIII. Mantener por sí, o en coordinación con los Gobiernos Federal y Municipal, programas permanentes de educación para adultos, de alfabetización y demás programas especiales, incluyendo los orientados especialmente a grupos indígenas;
 
@@ -525,9 +617,41 @@ XI. Coordinar, organizar y fomentar la enseñanza y la práctica de los deportes
 
 XII. Vigilar la realización de los actos cívicos escolares, de acuerdo con el calendario oficial;
 
-XIII. Promover la organización y desarrollo de la educación artística que se imparte en las escuelas para la enseñanza y la difusión de las bellas artes y de las artes populares. Así como la administración de la Radiodifusora cultural del Estado, canal XEJB AM–FM; y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+XIII. Promover coordinadamente con la Secretaría de Cultura la organización y desarrollo de la educación artística que se imparte en centros de enseñanza preescolar, primaria, secundaria y normal para la difusión de las bellas artes y de las artes populares;
 
 XIV. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 1992)</small>
+
+###### Art. 35 Bis.
+
+La Secretaría de Cultura es el órgano de la Administración Pública Estatal, a quien compete formular y ejecutar la política cultural del Gobierno del Estado, contando para ello con las atribuciones siguientes:
+
+I. Formular los Programas y proyectos que den contenido a la acción cultural del Gobierno del Estado;
+
+II. Participar en la elaboración del Plan Estatal de Desarrollo, respecto de la definición de la política Cultural;
+
+III. Promover y ejecutar las acciones tendientes a la preservación e incremento del patrimonio histórico, arqueológico, artístico, cultural y arquitectónico de Jalisco;
+
+IV. Realizar los actos que exija el cumplimiento de la política cultural del Gobierno del Estado;
+
+V. Fomentar y estimular las manifestaciones de la creación intelectual y artística del pueblo de Jalisco;
+
+VI. Operar los sistemas de radio y televisión estatal, orientando éstos a propósitos de difusión y estímulo de la cultura y las artes;
+
+VII. Llevar a cabo las acciones encaminadas a la promoción y difusión de la cultura y de las bellas artes;
+
+VIII. Fomentar y promover las investigaciones estéticas, haciendo énfasis en las manifestaciones artísticas e intelectuales de Jalisco y el occidente de México;
+
+IX. Celebrar los convenios que resulten necesarios para lograr la adecuada coordinación interinstitucional, así como el cumplimiento en general de los objetivos de la política cultural del Estado;
+
+X. El control de la Unidad Editorial del Estado;
+
+XI. Coordinar, organizar, dirigir y fomentar el establecimiento de bibliotecas y hemerotecas no escolares, videotecas, filmotecas y cualquier otro medio de divulgación cultural;
+
+XII. Las demás que le sean conferidas en los términos de otras disposiciones jurídicas o mediante acuerdo del Titular del Poder Ejecutivo del Estado.
 
 ###### Art. 36.
 
@@ -719,9 +843,13 @@ I. La organización, vigilancia y desarrollo de la educación del bachillerato y
 
 II. La organización, vigilancia y desarrollo de la educación superior, así como de las escuelas de grado inferior, que sea necesario que funcionen como planteles anexos para la práctica correspondiente;
 
-III. La educación deportiva y militar, por lo que ve a sus propios alumnos, y en coordinación con los programas de la Secretaría de Educación y Cultura;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
 
-IV. La organización y desarrollo de la educación artística de sus propios alumnos, así como la que se imparta en sus escuelas o facultades de Bellas Artes, y de artes folclóricas, en coordinación siempre con la que debe impartir la Secretaría de Educación y Cultura;
+III. La educación deportiva y militar, por lo que ve a sus propios alumnos, y en coordinación con los programas de la Secretaría de Educación;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+IV. La organización y desarrollo de la educación artística de sus propios alumnos así como lo que se imparta en sus escuelas o facultades de Bellas Artes, y de artes folklóricas, en coordinación siempre con las Secretarías de Educación, y de Cultura;
 
 V. La investigación científica y filosófica;
 
@@ -761,7 +889,9 @@ XXII. La administración y control del Archivo General del Estado, debiéndose i
 
 XXIII. La organización, en coordinación con la Secre (sic) certámenes, concursos, audiciones, representaciones teatrales, y exhibiciones cinematográficas de interés turístico y cultural;
 
-XXIV. La organización, en coordinación con la Secretaría de Educación y Cultura, de la participación que el Estado debe tener en olimpiadas y competencias interiores o nacionales; organización de desfiles atléticos y todo género de eventos deportivos, en cooperación con la propia Secretaría y con las autoridades federales;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+XXIV. La organización, en coordinación con la Secretaría de Educación, de la participación que el Estado debe tener en olimpiadas y competencias interiores o nacionales; organización y desfiles atléticos y todo género de eventos deportivos, en cooperación con la propia Secretaría y con las autoridades Federales;
 
 XXV. La cooperación y control en las tareas que desempeñan las Federaciones Deportivas del Estado, en cuanto se relacionen con el manejo y control de su Departamento de Educación Física y Escuelas de Cultura Física, en su caso;
 
@@ -799,6 +929,10 @@ I. Formular, en coordinación con la Secretaría de Finanzas, el anteproyecto de
 
 II. Formular, atendiendo a los acuerdos del Comité Interno de Presupuestación, el anteproyecto del presupuesto de egresos del Gobierno del Estado;
 
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+II Bis. Participar en la elaboración del Plan Estatal de Desarrollo, respecto a la definición de las políticas para la programación del gasto e inversión pública;
+
 III. Revisar los anteproyectos de presupustos (sic) de ingresos y egresos de los organismos del sector paraestatal, para que sean congruentes con sus objetivos y posibilidades de desarrollo;
 
 IV. Asesorar a los Ayuntamientos en la formulación de sus anteproyectos de presupuestos de ingresos y egresos, cuando así lo soliciten;
@@ -809,7 +943,9 @@ VI. Coadyuvar, con la Contraloría General del Estado, en la labor de vigilancia
 
 VII. Vigilar, en coordinación con la Secretaría de Administración, las aplicaciones presupuestales de recursos humanos;
 
-VIII. Vigilar, en coordinación con la Secretaría de Educación y Cultura, las aplicaciones presupuestales de recursos humanos del sector educación y de las demás partidas de la Secretaría;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+VIII. Vigilar, en coordinación con las Secretarías de Educación, y de Cultura, las aplicaciones presupuestales de recursos humanos de los sectores educativo y cultural;
 
 IX. Formular, atendiendo a los acuerdos del Comité Interno de Presupuestación, estudios sobre los apoyos presupuestales y de descentralización de fondos a los municipios del Estado, de acuerdo a sus planes de desarrollo;
 
@@ -965,19 +1101,27 @@ D) Industria Jalisciense de Rehabilitación Social; y
 
 E) Patronato del Tratamiento Post-institucional del Estado de Jalisco.
 
-II. Secretaría de Desarrollo Urbano y Rural:
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 1992)</small>
 
-A) Comisión de Caminos del Estado de Jalisco;
+II. Secretaría de Desarrollo Urbano:
+
+A) (DEROGADO, P.O. 20 DE AGOSTO DE 1992)
 
 B) Comisión para el Desarrollo Urbano Regional de Guadalajara;
 
-C) Consejo de Comunicaciones Vecinales del Estado de Jalisco;
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1992)</small>
+
+C) Consejo Estatal de Seguimiento y Evaluación del Acuerdo de Coordinación para el ordenamiento de los aprovechamientos hidráulicos y saneamientos de la Cuenca Lerma-Chapala;
 
 D) Comité Estatal de Reservas Territoriales para el Desarrollo Urbano, e Industrialización y Regularización de la Tenencia de la Tierra;
 
-E) Consejo Forestal y de la Fauna del Estado de Jalisco;
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1992)</small>
 
-F) Junta Local de Caminos;
+E) Sistema para el Control y Preservación de la calidad del agua de la cuenca Lerma-Chapala-Santiago, en el territorio del Estado de Jalisco;
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1992)</small>
+
+F) Comisión Estatal de Ecología;
 
 G) Sistema de Agua Potable, Drenaje y Alcantarillado de Puerto Vallarta, Jalisco;
 
@@ -986,6 +1130,22 @@ H) Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado de l
 I) Sistema para la Operación del Distrito de Control de la Contaminación del Agua, Ocotlán-Tequila, Jalisco; y
 
 J) Sistema para los Servicios de Agua Potable y Alcantarillado en el Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 1992)</small>
+
+K) Consejo de la Zona Metropolitana de Guadalajara.
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+II. Bis. Secretaría de Desarrollo Rural:
+
+A) Consejo Forestal y de la Fauna del Estado de Jalisco;
+
+B) Comité Estatal de Conservación de Reservas Ecológicas;
+
+C) Comité de Comunicaciones Vecinales del Estado de Jalisco, y
+
+D) Fideicomiso ante Banrural para el Desarrollo Agropecuario del Estado.
 
 III. Secretaría de Promoción y Desarrollo Económico:
 
@@ -997,9 +1157,11 @@ C) Fondo Estatal de Apoyo a las Exportaciones;
 
 D) Fideicomiso de la Central de Abastos de Ciudad Guzmán; y
 
-E) Fideicomiso ante BANRURAL para el Desarrollo Agropecuario del Estado.
+E) (DEROGADO, P.O. 20 DE AGOSTO DE 1992)
 
-IV. Secretaría de Fomento Turístico, Artesanal y Pesquero:
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+IV. Secretaría de Fomento Turístico y Artesanal:
 
 A) Comisión del turismo del Estado; y
 
@@ -1009,17 +1171,35 @@ V. Secretaría de Finanzas:
 
 A) Fondo de Auxilio Social.
 
-VI. Secretaría de Educación y Cultura:
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+VI. Secretaría de Educación:
 
 A) Consejo Jalisciense de Recursos para la Atención de la Juventud en el Estado de Jalisco;
 
-B) Instituto Cultural Cabañas;
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1992)</small>
 
-C) Instituto Jalisciense de Antropología e Historia; y
+B) Consejo Estatal de Educación;
 
-D) Orquesta Filarmónica de Jalisco.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1992)</small>
 
-VII. Secretaría de Salud y Bienestar Social;
+C) Organismo para la Integración Administrativa y Operativa de los Servicios de Educación Básica y Normal del Estado de Jalisco;
+
+D) (DEROGADO, P.O. 20 DE AGOSTO DE 1992)
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1992)</small>
+
+VI Bis. Secretaría de Cultura:
+
+A) Instituto Cultural Cabañas;
+
+B) Instituto Jalisciense de Antropología e Historia;
+
+C) Orquesta Filarmónica de Jalisco, y
+
+D) Consejo Estatal de la Cultura y las Artes.
+
+VII. Secretaría de Salud y Bienestar Social:
 
 A) Antiguo Hospital Civil;
 
@@ -1088,3 +1268,9 @@ Lic. Francisco Rodríguez Gómez
 EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Enrique Romero González
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE AGOSTO DE 1992.
+
+Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
