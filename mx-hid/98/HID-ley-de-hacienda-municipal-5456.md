@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-municipal-5456"
 country: "mx"
 rank: "ley"
 publication_date: "1982-12-31"
-last_updated: "1993-12-31"
+last_updated: "1994-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE HACIENDA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1993.
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NUMERO 220, PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 1994, SE APRUEBAN LAS CUOTAS Y TARIFAS DE LOS 84 MUNICIPIOS DEL ESTADO DE HIDALGO PARA EL AÑO DE 1995; PARA LO CUAL, REMITASE A LAS PAGINAS 567 A 13217 DE LA PUBLICACION CITADA.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 1982.
 
@@ -1253,7 +1255,7 @@ Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para 
 
 ###### ARTICULO 127.
 
-Es objeto de este derecho las licencias para la contruccion de guarniciones.
+Es objeto de este derecho las licencias para la construcción de guarniciones.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -1705,13 +1707,11 @@ VII.- Otras exportaciones extraordinarias.
 
 ### CAPITULO UNICO. DE LAS TARIFAS DE LA LEY DE HACIENDA MUNICIPAL PARA EL AÑO DE 1988
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 177.
 
-Los Ayuntamientos del Estado percibirán los ingresos, por los conceptos que señalen en su Ley de Ingreso y Presupuesto de Ingresos para el Ejercicio Fiscal de 1993, de conformidad con las cuotas y tarifas que a continuación se establecen para cada Municipio.
-
-> <small>N. DE E. PARA LA CONSULTA DE CUOTAS Y TARIFAS A QUE SE REFIERE EL PRESENTE ARTICULO REMITASE AL ALCANCE AL PERIODICO OFICIAL DE FECHA 31 DE DICIEMBRE DE 1992 PAGINAS 141 A 197.</small>
+Los ayuntamientos del estado percibirán sus ingresos, por los conceptos que se señalen en sus leyes de ingresos, de conformidad con las cuotas y tarifas que apruebe el H. Congreso del Estado, en los términos de este ordenamiento.
 
 T R A N S I T O R I O S:
 
@@ -1805,7 +1805,7 @@ UNICO.- Previa su publicación en el Periódico Oficial del Gobierno del Estado,
 
 P.O. 28 DE JUNIO DE 1991.
 
-PRIMERO.- Previa su publicación en el Periódico Oficial del Gobierno del Estado, el presente Decreto entrará en vigor el día 1º. de Julio de 1991.
+PRIMERO.- Previa su publicación en el Periódico Oficial del Gobierno del Estado, el presente Decreto entrará en vigor el día 1º de Julio de 1991.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -1820,3 +1820,17 @@ PRIMERO.- EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA 1o. DE ENERO DE 1994.
 SEGUNDO.- DEBERA ORDENARSE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
 
 TERCERO.- SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN A ESTE DECRETO.
+
+P.O. 30 DE DICIEMBRE DE 1994.
+
+DECRETO NUM. 130.
+
+###### ARTICULO UNICO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO DE HIDALGO.
+
+P.O. 30 DE DICIEMBRE DE 1994.
+
+DECRETO NUM. 220.
+
+UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR A PARTIR DEL DIA SIGUIENTE A SU PUBLICACIÓN EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
