@@ -4,7 +4,7 @@ identifier: "LEXP"
 country: "mx"
 rank: "ley"
 publication_date: "1936-11-25"
-last_updated: "1993-12-22"
+last_updated: "1997-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=366&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEXP"
 
 LEY DE EXPROPIACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 25 de noviembre de 1936.
 
@@ -164,6 +164,14 @@ Estas disposiciones se aplicarán, en lo conducente, a los casos de ocupación t
 
 La indemnización deberá pagarse dentro del término de un año a partir de la declaratoria de expropiación en moneda nacional, sin perjuicio de que se convenga su pago en especie.
 
+> <small>(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1997)</small>
+
+ARTICULO 20 BIS.- El Jefe de Gobierno del Distrito Federal, en los términos de esta ley, podrá declarar la expropiación, ocupación temporal, total o parcial, o la simple limitación de los derechos de dominio, en los casos en que se tienda a alcanzar un fin cuya realización competa al gobierno local del Distrito Federal conforme a sus atribuciones y facultades constitucionales y legales.
+
+La declaratoria se hará mediante decreto que se publicará en la Gaceta Oficial del Distrito Federal y será notificada personalmente a los interesados. En caso de ignorarse el domicilio de éstos, surtirá efectos de notificación personal una segunda publicación del Decreto en la Gaceta Oficial del Distrito Federal.
+
+La Ley Orgánica de la Administración Pública del Distrito Federal, señalará la dependencia a la que corresponda tramitar el expediente de expropiación, de ocupación temporal o de limitación de dominio, la que conocerá y resolverá el recurso administrativo de revocación previsto en la presente ley.
+
 > <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 21.
@@ -193,3 +201,17 @@ PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1994.
 ...
 
 TERCERO.- La reforma al Artículo 10 de la Ley de Expropiación, se aplicará a las expropiaciones que se realicen a partir de la entrada en vigor del presente Decreto.
+
+D.O.F. 4 DE DICIEMBRE DE 1997.
+
+## TRANSITORIO
+
+ÚNICO.- La adición del artículo 20 Bis a la Ley de Expropiación entrará en vigor el 5 de diciembre de 1997.
+
+ARTÍCULOS TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL; DE LA LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; DE LA LEY DE EXPROPIACIÓN Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL.
+
+PRIMERO.- Las reformas a que se refiere el presente Decreto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con las particularidades que se establecen en las disposiciones transitorias de cada uno de los artículos de este Decreto.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
