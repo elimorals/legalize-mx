@@ -4,7 +4,7 @@ identifier: "BCN-ley-reglamentaria-del-ejercicio-profesional-para-el-estado-3561
 country: "mx"
 rank: "ley"
 publication_date: "1957-07-10"
-last_updated: "2001-07-20"
+last_updated: "2002-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY REGLAMENTARIA DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL EJERCICIO DE LAS PROFESIONES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 6 DE SEPTIEMBRE DE 2002, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2002 (ABROGADA).
 
 Ley publicada en el Segundo Alcance al Periódico Oficial, el miércoles 10 de julio de 1957.
 
@@ -742,3 +744,37 @@ Mientras esté en vigor el convenio que celebre el Ejecutivo del Estado con la S
 P.O. 20 DE JULIO DE 2001.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 6 DE SEPTIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la iniciación de su vigencia, queda abrogada la Ley Reglamentaria del Ejercicio Profesional para el Estado de Baja California, publicada en el Periódico Oficial del Estado, de fecha 10 de Julio de 1957, así como las reformas y adiciones surgidas desde el momento de su promulgación.
+
+###### ARTICULO TERCERO.
+
+En un término de ciento ochenta días posteriores a la entrada en vigor de esta Ley, se modificará el Reglamento de la Ley Reglamentaria del Ejercicio Profesional para el Estado de Baja California publicado en el Periódico Oficial del Estado con fecha 20 de noviembre de 1957; modificándose además los ordenamientos jurídicos correlativos a la misma, en todo lo que se opongan o contradigan con ésta.
+
+###### ARTÍCULO CUARTO.
+
+Hasta en tanto se modifique el Reglamento correspondiente a la presente Ley, se aplicará en lo conducente el Reglamento vigente.
+
+###### ARTÍCULO QUINTO.
+
+A los Colegios de Profesionistas que a la fecha de entrada en vigor de esta Ley, se encuentren debidamente reconocidos, autorizados y registrados ante el Departamento de Profesiones, se les seguirá respetando su registro, autorización y reconocimiento.
+
+###### ARTÍCULO SEXTO.
+
+Los Títulos profesionales que con anterioridad a esta Ley hubieran sido legalmente expedidos y registrados en el Departamento de Profesiones surtirán todos sus efectos, respetándose su registro, autorización y reconocimiento.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se concede a las personas que no tengan Título legalmente expedido, un plazo de dos años a partir de la vigencia de esta Ley, para que regularicen su situación ajustándose a los términos de la misma.
+
+###### ARTÍCULO OCTAVO.
+
+Se concede a los profesionistas un plazo de seis meses contados a partir de la entrada en vigor de la presente Ley, a efecto de que adecuen su papelería y publicidad particular en los términos que establece este ordenamiento.
