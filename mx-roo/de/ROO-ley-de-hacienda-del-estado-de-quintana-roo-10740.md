@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2001-12-14"
+last_updated: "2002-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -601,6 +601,10 @@ También quedan comprendidos los anticipos que reciban los miembros de sociedade
 
 Son sujetos pasivos de este impuesto, las personas físicas, morales o unidades económicas que realicen las erogaciones a que se refiere el artículo anterior.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+Cuando en la contratación de trabajadores para un patrón, a fin de que ejecuten trabajos o presten servicios para él, participe un intermediario laboral, cualquiera que sea la denominación que el patrón intermediario asuma, ambos serán responsables solidarios entre sí y en relación con el trabajador, respecto del cumplimiento de las obligaciones contenidas en esta Ley.
+
 #### SECCION SEGUNDA. DE LA BASE Y DE LA TASA
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
@@ -641,13 +645,13 @@ El impuesto del ejercicio, deducidos los pagos provisionales, se pagará mediant
 
 Cuando se formulen declaraciones complementarias sustituyendo datos de la original, en virtud de las cuales resulten diferencias a cargo del contribuyente por declarar o bien resulten diferencias a su favor, o se incrementen los ya declarados, solo podrán ser modificados por el contribuyente hasta en tres ocasiones, siempre que no se haya iniciado el ejercicio de las facultadas de comprobación en los siguientes casos, no operará la anterior limitación:
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-a) Cuando solo incrementen sus ingresos, o el valor de sus actos o actividades.
+a) Cuando sólo incrementen el total de las erogaciones efectuadas, a que se refiere el artículo 39 de esta Ley.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-b) Cuando solo disminuyan sus deducciones o pérdidas o reduzcan las cantidades acreditables o compensadas o los pagos provisionales o de contribución a cuenta.
+b) Cuando sólo disminuyan sus deducciones o reduzcan las cantidades acreditables o compensadas o los pagos provisionales o de contribuciones a cuenta.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -799,9 +803,9 @@ IX.- Remuneraciones cubiertas a trabajadores domésticos.
 
 X.- Remuneraciones al personal subordinado que acredite ser cónyuge o tener parentesco, con el empleador, hasta el segundo grado en línea recta.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-XI.- Pagos efectuados por INFONAVIT, SAR, IMSS.
+XI.- Cuotas obrero patronales efectuadas por el patrón al INFONAVIT, SAR, IMSS, ISSSTE.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -2063,13 +2067,29 @@ Los contribuyentes presentarán declaración anual, dentro de los cuatro meses s
 
 El contribuyente que realice cancelación de servicios comprometidos por los que haya recibido anticipos u otorgue descuentos o bonificaciones por los servicios a que se refiere este capítulo, deducirá en las siguientes declaraciones de pagos provisionales el monto de dichos conceptos del total de los ingresos por los que deba pagar el impuesto, siempre que expresamente se haga constar que el impuesto al hospedaje que se hubiere trasladado se cancele o se restituya, según sea el caso.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 168-L.
 
-Cuando se formulen declaraciones complementarias sustituyendo los datos de la original, en virtud de los cuales resulten diferencias a cargo del contribuyente por declarar, o bien resulten diferencias a su favor o se incrementen las ya declaradas, se procederá como sigue:
+Cuando se formulen declaraciones complementarias sustituyendo datos de la original, en virtud de las cuales resulten diferencias a cargo del contribuyente por declarar o bien resulten diferencias a su favor o, se incrementen los ya declarados, sólo podrán ser modificados por el contribuyente hasta en tres ocasiones, siempre que no se haya iniciado el ejercicio de las facultades de comprobación en los siguientes casos, no operará la anterior limitación:
+
+a. Cuando sólo incrementen sus ingresos, o el valor de sus actos o actividades.
+
+b. Cuando sólo disminuyan sus deducciones o reduzcan las cantidades acreditables o compensadas o los pagos provisionales o de contribución a cuenta.
+
+c. Cuando el Contribuyente haga dictaminar por Contador Público autorizado sus estados financieros, podrá corregir en su caso, la declaración original como consecuencia de los resultados obtenidos en el dictamen respectivo.
+
+d. Cuando la presentación de la declaración que modifica a la original se establezca como obligación por disposición expresa de la Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+Se procederá como sigue:
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 1996)</small>
 
 I.- Cuando se trate de declaraciones de pagos provisionales y no se haya presentado la declaración del ejercicio, la diferencia a su favor o su incremento podrá compensarse en la declaración de pago provisional siguiente al día en que se presente la declaración complementaria, sin que sea necesario modificar las demás declaraciones.
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 1996)</small>
 
 II.- Cuando se modifique una declaración del ejercicio, el contribuyente podrá optar por solicitar devoluciones, o compensar dicha diferencia a su favor en la declaración de pago provisional siguiente, al día en que se presente la complementaria.
 
@@ -2113,7 +2133,7 @@ Los contribuyentes que tengan varios establecimientos en el Estado, deberán con
 
 ### CAPITULO III. EXPEDICION DE LICENCIAS DE FUNCIONAMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 #### SECCION QUINTA. ESTABLECIMIENTOS PENALES
 
@@ -3813,7 +3833,7 @@ Para los efectos de esta tarifa se consideran dentro de la Zona 1 los municipios
 
 ###### ARTICULO 171.
 
-Las personas físicas o morales que realicen actividades comerciales, industriales, de servicios y de inversión de capitales, salvo disposición expresa en contrario, deberán solicitar su inscripción en el Registro Estatal de Contribuyentes dentro del mes siguiente al día en que se efectúen las situaciones que a continuación se señalan:
+Las personas físicas y morales que realicen actividades comerciales, industriales, de servicios, y de inversión de capitales, salvo disposición expresa en contrario, deberán solicitar su inscripción al Registro Estatal de Contribuyentes dentro de los treinta días siguientes en que se efectúe las situaciones que a continuación se señalan:
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -3833,29 +3853,29 @@ I.- Copia de su inscripción en el Registro Federal de Contribuyentes.
 
 II.- Croquis de la ubicación.
 
-III.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-IV.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
+III.- La inscripción al S.I.E.M.
 
-V.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-VI.- Patente original y copia, si expenden bebidas alcohólicas.
+IV.- Patente original y copia, si expenden bebidas alcohólicas.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-VII.- Y demás documentos que a juicio de la Secretaría de Hacienda del Estado se juzguen necesarios, previa publicación que la misma haga con diez días hábiles de anticipación a la entrada en vigor del aumento de requisitos, en uno de los periódicos de mayor circulación en el Estado.
+V.- Y demás documentos que a juicio de la Secretaría de Hacienda del Estado se juzguen necesarios, previa publicación que la misma haga con diez días hábiles de anticipación a la entrada en vigor del aumento de requisitos, en uno de los periódicos de mayor circulación en el Estado.
+
+VI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2002)
+
+VII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2002)
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
 Cuando en un mismo establecimiento se realicen varias actividades, deberán solicitar en el mismo plazo la expedición de las licencias de funcionamiento, por cada uno de los giros o actividades, a excepción de los giros comerciales denominados Super ó Minisupers.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-Las licencias a que se refiere este capítulo, tendrán, una vigencia a partir de la fecha de expedición y finalizará conforme a lo siguiente:
-
-a) Cuando se expida en un año par, será hasta el 31 de diciembre del año impar inmediato.
-
-b) Cuando se expida en un año impar, será hasta el 31 de diciembre de ese mismos (sic) año.
+Las licencias a que se refiere este capítulo, tendrán una vigencia a partir de la expedición y finalizará cuando el contribuyente presente el aviso de baja ante la Secretaría de Hacienda, con excepción a las licencias de funcionamiento que señala el artículo 173-A.
 
 ###### ARTICULO 173.
 
@@ -4431,11 +4451,11 @@ Los contribuyentes que no se hayan inscrito en el Padrón Estatal de contribuyen
 
 Simultánea o sucesivamente al requerimiento, la autoridad impondrá las sanciones que correspondan en los términos que para el efecto señala el Código Fiscal del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 175.
 
-Las licencias a que se refiere este capítulo, deberán renovarse en cada año par y dentro de los dos primeros meses del mismo, con excepción a las licencias a que se refiere el artículo 173-A de esta Ley; para lo cual presentarán la solicitud en las formas que al efecto apruebe la Secretaría de Hacienda del Estado, a la que acompañarán los siguiente (sic) documentos:
+Las licencias a que se refiere a que se refiere (sic) el Artículo 173-A de esta Ley, deberán renovarse dentro de los dos primeros meses de cada año; para lo cual presentarán la solicitud en las formas que al efecto apruebe la Secretaría de Hacienda del Estado, a la que acompañarán los siguientes documentos:
 
 I.- Licencia de funcionamiento del año inmediato anterior.
 
@@ -4501,33 +4521,23 @@ De mas de 15 a 20 toneladas 1.73 S.M.G.
 
 De mas de 20 2.88 S.M.G.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-g) Lanchas particulares:
+g) Embarcaciones particulares:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+De 5 a 10 metros 4.30 S.M.G.
 
-De 5 a 10 metros 4.03 S.M.G.
+De más de 10 metros 5.18 S.M.G.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-De mas de 10 metros 5.18 S.M.G.
+h) Embarcaciones para servicio público:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+Hasta de 5 metros 15.53 S.M.G.
 
-h) Lanchas para servicio público
+De más de 5 hasta 10 metros 22.43 S.M.G.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-hasta de 5 metros 15.53 S.M.G.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-De mas de 5 hasta 10 metros 22.43 S.M.G.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-De mas de 10 metros 51.75 S.M.G.
+De más de 10 metros 51.75 S.M.G.
 
 II.- Derechos por control vehícular
 
@@ -4631,9 +4641,9 @@ m) Por permisos provisionales para circulación de vehículos cada 15 días sin 
 
 n) Por expedición y reposición de tarjetas de circulación 0.58 veces el S.M.G. en el estado.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-ñ) Por refrendo de calcomanía identificadora de placas un 11.5% del Impuesto sobre Tenencia o Uso de Vehículos en el año calendario vigente, o 3.45 veces el S.M.G. vigente en el estado, aquella cuyo monto sea mayor.
+ñ) Por revalidar la calcomanía vehicular un 11.5% del Impuesto Sobre Tenencia o Uso de Vehículos en el año calendario vigente, o 3.45 veces el S.M.G. vigente en el Estado, aquella cuyo monto sea mayor.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -4650,6 +4660,18 @@ Estas placas deberán presentarse para su refrendo en el mismo plazo a que se re
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 Tratándose de los incisos de la a) a la n) deberán pagarse en un plazo de quince días hábiles siguientes a la causación del supuesto.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+p) Los propietarios de embarcaciones que no se hayan inscrito en el padrón vehicular estatal o que no hubieren solicitado su constancia de inscripción, serán requeridos por la autoridad fiscal para que en un plazo de 6 días hábiles dé cumplimiento a la obligación omitida.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+q) Por el refrendo de la constancia de inscripción de embarcaciones, 3 veces el S.M.G. vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+El plazo para la inscripción de embarcaciones nuevas será de quince días a partir de la fecha de adquisición y para el refrendo los primeros tres meses de cada año.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -4676,6 +4698,10 @@ V.- Por día de estancia en el corralón 0.46 veces el S.M.G. vigente en el esta
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 VI.- Permiso para circular con cristales polarizados por 1 año 4.03 veces el S.M.G. vigente en el estado.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+VII.- Examen médico y de competencia para licencia de conducir vehículos de motor 2.10 S.M.G.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
@@ -4785,7 +4811,7 @@ a) Servicio público de pasajeros en general:
 
 2.- Minibuses hasta 25 asientos, hasta 2,134 S.M,G.
 
-3.- Automóviles de alquiler tipo taxis (hasta 5 pasajeros) , hasta 4,488 S.M.G.
+3.- Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 4,488 S.M.G.
 
 4.- Otros vehículos, hasta 2,489 S.M.G.
 
@@ -4989,9 +5015,9 @@ b).- Cuando resulten más de dos lotes, por lote excedente
 
 c).- Cuando los bienes inmuebles sean destinados para la vivienda de interés social y popular causarán el 50% de los derechos a que se refieren los incisos a) y b) de esta fracción. 5.31 S.M.G.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-II.- Por croquis de localización 5.31 S.M.G.
+II.- Por croquis de localización 6.00 S.M.G.
 
 III.- Por copias de planos.
 
@@ -5023,9 +5049,33 @@ b).- De $ 100,000.01 en adelante 6% sobre el valor que resulte.
 
 c).- Cuando el avalúo se realice a los bienes inmuebles destinados para la vivienda de interés social y popular. 4.5 S.M.G.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-VII.- Verificación de medidas y colindancias de predios rústicos y suburbanos conforme a las condiciones, distancia y tiempo que dure el trabajo.
+VII.- Por deslinde y levantamiento topográfico de predios rústicos y urbanos, serán calculados de acuerdo al siguiente cuadro de superficies:
+
+a).- Predios rústicos
+
+1.- Hasta de una hectárea. 60 S.M.G.
+
+2.- De más de 1 hectárea a 5 hectáreas. 120 S.M.G.
+
+3.- De más de 5 hectáreas a 10 hectáreas. 180 S.M.G.
+
+4.- De más de 10 hectáreas a 20 hectáreas. 240 S.M.G.
+
+5.- De más de 20 hectáreas a 50 hectáreas. 300 S.M.G.
+
+6.- De más de 50 hectáreas a 100 hectáreas. 400 S.M.G.
+
+7.- De más de 100 hectáreas, por cada hectárea excedente. 20 S.M.G.
+
+b).- Predios urbanos
+
+1. Se aplicará la tabla de predios rústicos para el caso de los predios urbanos en el que se ocupen más de un día de trabajo de deslinde.
+
+2. Certificado deslinde de predios urbanos, lotes tipo hasta mil metros cuadrados en los Municipios de Othón P. Blanco, Felipe Carrillo, José María Morelos y Lázaro Cárdenas se cobrará 10.00 SMG.
+
+3. Certificado deslinde de predios urbanos, lotes tipo hasta mil metros cuadrados en los municipios de Benito Juárez, Cozumel, Isla Mujeres y Solidaridad, se cobrará 40.00 SMG.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -5034,6 +5084,18 @@ VIII.- Los servicios catastrales no previstos en esta tarifa, pagarán una cuota
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 IX.- Cuando con motivo de la prestación de los servicios arriba señalados se eroguen gastos adicionales por traslado, alimentación, etc. deberán cubrir los mismos que no excederán del costo de los mismos.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+X.- Constancias de no propiedad. 2.00 S.M.G.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+XI.- Constancias de Registro 5.75 S.M.G.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+XII.- Trámite de titulación 2.00 S.M.G.
 
 ### CAPITULO XI. SERVICIOS SANITARIOS
 
@@ -5487,7 +5549,7 @@ II.- Que tengan acceso a la calle en que se hubieran ejecutado las obras si son 
 
 Están obligados a pagar los derechos de cooperación:
 
-I.- Los propietarios de los predios a que (sic) es refiere el artículo anterior,
+I.- Los propietarios de los predios a que es (sic) refiere el artículo anterior,
 
 II.- Los poseedores de dichos predios en los casos siguientes:
 
@@ -5899,7 +5961,11 @@ V.- La expedición de certificados o certificaciones que se soliciten con el car
 
 VI.- Cuando se trate de contratos o resoluciones que se refieran a prestaciones periódicas, el valor se determinará en las sumas de éstas si se puede determinar exactamente su cuantía, en caso contrario, se tomará como base la cantidad que resulte haciéndose el cómputo por un año.
 
-VII.- En los casos en que los servicios que preste el Registro Público de la Propiedad no se encuentren expresamente previstos en las disposiciones de este capítulo, los derechos que a ellos correspondan se causarán por analogía, aplicando las disposiciones relativas a los casos con los que guarde semejanza.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+VII.- El personal adscrito al Registro Público de la Propiedad y del Comercio, verificará en base a lo dispuesto por esta Ley, que el monto a pagar por los servicios que preste esa dependencia, sea el correcto.
+
+Los notarios públicos anexarán al formato de pago copia del instrumento y del avalúo que fue la base para la determinación del derecho.
 
 VIII.- Los certificados, inscripciones y demás servicios que se soliciten por las autoridades fiscales del Estado, causarán los derechos que correspondan conforme a las disposiciones de este artículo y el anterior, pero éstos se harán efectivos dentro del procedimiento administrativo de ejecución, como parte del crédito fiscal.
 
@@ -6069,9 +6135,9 @@ VI.- Se exceptúan del pago de los derechos de inscripción en el Registro Públ
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-### CAPITULO XIX. SERVICIOS QUE OTORGA LA SECRETARIA DE EDUCACION Y CULTURA, A TRAVES DE LOS SERVICIOS EDUCATIVOS Y CULTURALES
+### CAPITULO XX. DE LOS DERECHOS QUE SE GENERAN POR EL CONTROL, VIGILANCIA, Y EVALUACION
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 206.
 
@@ -6129,9 +6195,9 @@ c).- Por concepto de verificación de áreas, predios y obras: 54 S.M.G.
 
 d).- Por concepto de explotación y aprovechamiento de material pétreo: 0.1 S.M.G. por metro cúbico.
 
-### CAPITULO XX. DE LOS DERECHOS QUE SE GENERAN POR EL CONTROL, VIGILANCIA, Y EVALUACION
+### CAPITULO XIX. SERVICIOS QUE OTORGA LA SECRETARIA DE EDUCACION Y CULTURA, A TRAVES DE LOS SERVICIOS EDUCATIVOS Y CULTURALES
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 207.
 
@@ -6151,7 +6217,9 @@ Las persona físicas y las empresas mexicanos, debidamente constituidas conforme
 
 Por el registro y autorización para su funcionamiento, se causará un derecho de 130 S.M.G.
 
-Así mismo, deberán renovar su registro anualmente, dentro de los dos primeros meses del ejercicio fiscal siguiente a su expedición, acreditando el pago de 30 S.M.G.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+Así mismo, deberán renovar su registro anualmente, dentro de los dos primeros meses del ejercicio fiscal siguiente a su expedición acreditando el pago de 90 S:MG: (sic)
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -6189,7 +6257,7 @@ b).- Por el servicio de 24 horas de labores por 24 horas de descanso que preste 
 
 Las personas físicas o morales que requieran del servicio especial, lo solicitarán por escrito ante las oficinas recaudadoras indicando número de personal requerido, fecha de inicio y terminación del convenio, domicilio donde se prestará el servicio, nombre y denominación o razón social del solicitante, domicilio del mismo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
 
@@ -6305,17 +6373,27 @@ XXIII.- Reimpresión de formato de apoyo de control escolar: 0.40 S.M.G.
 
 XXIV.- Legalización de firmas 2.00 S.M.G.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+XXVI (SIC).- Autorización a particulares para impartir educación técnica o capacitación para el trabajo. 300 S.M.G.
 
-### CAPITULO II. REZAGOS
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+XXVII (SIC).- Reconocimiento de validez oficial de estudios a particulares para impartir educación técnica o capacitación para el trabajo. 300 S.M.G.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+XXVIII (SIC).- Expedición de diplomas de educación técnica o capacitación para el trabajo por alumno. 1.20 S.M.G.
+
+### CAPITULO II. CONTRIBUCIONES GENERADAS EN EJERCICIOS ANTERIORES
 
 ### CAPITULO III. MULTAS
 
 ###### ARTICULO 207-I.
 
 Por llevar a cabo el control, vigilancia y evaluación de los recursos que se reciban por convenios o de Programas Federales, se retendrá, hasta el equivalente de 5 al millar del monto total de los recursos aportados en efectivo; importe que será ejercido conforme a los lineamientos convenidos.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ### CAPITULO IV. CAUCIONES JUDICIALES
 
@@ -6443,6 +6521,8 @@ BIS.- Son todas las ganancias que en forma de intereses o por cambio de moneda p
 
 Los contribuyentes que no cumplan con las obligaciones fiscales establecidas por esta ley en materia de impuestos y derechos causarán una cuota por concepto de recargos que será de acuerdo a lo establecido en el Código Fiscal del Estado.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 220.
 
 Son rezagos los adeudos de impuestos, derechos y productos que pasen a nuevo año fiscal y debieron ser pagados en el que se causaron.
@@ -6509,15 +6589,15 @@ El Gobierno del Estado percibirá las participaciones establecidas en las leyes 
 
 El Gobierno del Estado percibirá las participaciones establecidas en los convenios que celebren con los Gobiernos Municipales.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ## TITULO VIII. CAUCIONES JUDICIALES
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 231.
 
 Las cauciones judiciales se recaudarán de conformidad con las resoluciones en que se ordene se hagan efectivas.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ## TRANSITORIOS
 
@@ -6720,3 +6800,83 @@ PRIMERO.- El presente decreto entrará en vigor a partir del día primero del me
 SEGUNDO.- Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
 
 TERCERO.- Debido a las reformas realizadas a los artículos 172 y 175 de esta Ley, todas las personas físicas o morales que realicen actividades comerciales, industriales, de servicios, y de inversión de capitales, salvo disposición expresa en contrario deberán solicitar dentro de los meses de enero y febrero del año 2002, la renovación de su licencia de funcionamiento, para efecto de establecer el inicio de vigencia de la misma.
+
+P.O. 30 DE DICIEMBRE DE 2002.
+
+Primero.- En tanto el Estado de Quintana Roo permanezca adherido al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes impuestos y derechos:
+
+I.- IMPUESTOS
+
+1. Al comercio y la industria.
+
+2. Sobre productos y rendimientos de capital (parcialmente).
+
+3. Sobre la enajenación de vehículos de motor y bienes muebles entre particulares.
+
+4. Sobre la compraventa de primera mano de productos agrícolas.
+
+5. Sobre producción de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+6. Sobre compraventa de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+7. Sobre la cría de ganado.
+
+8. Sobre compraventa o permuta de ganado o sus esquilmos.
+
+9. Al libre ejercicio de profesiones y actividades lucrativas (parcialmente).
+
+10. Sobre explotación y venta de primera mano de diversos materiales para la construcción.
+
+II.- DERECHOS
+
+A).- Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales e industriales y de prestación de servicios. Asimismo, los que resulten como consecuencia de permitir o tolerar las excepciones a una disposición administrativas (sic) tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+1. Licencias de construcción.
+
+2. Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3. Licencias para fraccionar o lotificar terrenos.
+
+4. Licencias para conducir vehículos.
+
+5. Expedición de placas y tarjetas para la circulación de vehículos.
+
+6. Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+7. Licencias, permisos o autorizaciones para la colocación de anuncios o carteles para la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+B).- Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+1. Registro civil.
+
+2. Registro Público de la Propiedad y del Comercio.
+
+C).- Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+D).- Actos de inspección y vigilancia.
+
+Los Derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto cuando se trate de derechos diferenciales por los conceptos a los que se refieren los numerales del 1 al 7 del inciso A) y el inciso C).
+
+Las certificaciones de documentos, así como la reposición de éstos por extravío o destrucción parcial o total, no quedará comprendida dentro de lo dispuesto en los incisos A y B de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
+
+En ningún caso, lo dispuesto en este artículo, limitará la facultad de los Estado (sic) y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las entidades, se considerarán Derechos, aún cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como Derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan las características de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+Segundo.- Tratándose de empresas dedicadas a la construcción, que deseen efectuar la contribución del impuesto en una sola exhibición en forma anticipada, siempre y cuando se tratare de obra privada, se aplicarán los valores y porcentajes publicados en el Diario Oficial de la Federación del costo de mano de obra por metro cuadrado para obra privada, mismo que se publican de forma anual a petición de la Dirección de Afiliación y Cobranza del Instituto Mexicano del Seguro Social.
+
+Tercero.- Los contribuyentes del Impuesto al Hospedaje, cuando presten servicios bajo el sistema denominado "TODO INCLUIDO", por el cual el pago de la contra prestación contemple servicios adicionales al de hospedaje, tales como alimentación, transportación y otros similares, calcularán el impuesto considerando como base gravable únicamente el importe correspondiente al albergue y deberán cumplir con las obligaciones que se establecen en el Capítulo XII-A del Título II de la Ley de Hacienda del Estado, de tal forma que el sistema contable que lleven, permita identificar el importe correspondiente al servicio del hospedaje y desglosarlo en el comprobante que ampare los servicios prestados. El contribuyente podrá estimar el importe relativo al servicio de hospedaje dentro del sistema "Todo Incluido", sin que en ningún caso pueda ser inferior al 50% del monto total de los servicios comprendidos bajo este sistema, excluyendo las propinas y los impuestos que se trasladen al consumidor.
+
+Cuarto.- Debido a la reforma realizada al artículo 172 de esta Ley, todas las personas físicas y morales que renueven su licencia de funcionamiento en los años 2003 y 2004, tendrán una vigencia a partir de la renovación de la misma y finalizará cuando el contribuyente presente el aviso de baja ante la Secretaría de Hacienda.
+
+Quinto.- Conforme a la Norma Oficial Mexicana, y con la Ley de Tránsito del Estado de Quintana Roo; todos los vehículos deberán circular con placas vigentes, en virtud de que las placas de circulación finalizaron su vigencia el 31 de diciembre del 2001 y el proceso de renovación fue del 1 de enero al 31 de diciembre del 2002.
+
+Por lo anterior, todos los contribuyentes quedaron obligados a la renovación de su placa de circulación en el correspondiente la inspección de orden vehicular con la finalidad de ejercicio fiscal 2002; los contribuyentes que no lo hayan realizado, se les practicará en conjunto con la autoridad hacer cumplir con lo mencionado en el presente artículo y con los demás ordenamientos fiscales en la materia.
+
+Sexto.- Se derogan las disposiciones dictadas con anterioridad que se opongan al presente decreto.
+
+Séptimo.- El presente decreto entrará en vigor a partir del 1º de enero de 2003, previa publicación en el Periódico Oficial del Gobierno del Estado.
