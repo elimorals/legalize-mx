@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1979-03-10"
+last_updated: "1980-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 1980.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -641,7 +641,7 @@ El cargo de Gobernador Constitucional del Estado solo es renunciable por causa g
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1980)</small>
 
 ###### ARTICULO 51.
 
@@ -739,15 +739,27 @@ Los titulares de las Dependencias son responsables por el despacho de los asunto
 
 ###### ARTICULO 55.
 
-Se deposita el Poder Judicial del Estado en un Tribunal Superior de Justicia, en Juzgados de Primera Instancia, en Juzgados Menores y en Juzgados Municipales, que administrarán de acuerdo con el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, justicia expedita y gratuita en los términos que fijen las leyes.
+Se deposita el ejercicio del Poder Judicial del Estado, en un Tribunal Superior de Justicia, en Juzgados de Primera Instancia y en Juzgados Menores, que administrarán de acuerdo con el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, justicia expedita y gratuita en los términos que fijen las leyes.
 
-El Tribunal Superior de Justicia se integrará con cinco Magistrados propietarios y cinco suplentes, por lo menos, y funcionará en Pleno o en Salas de la manera que establezca la ley, siendo públicas sus audiencias o por excepción, secretas si la moral o el interés público lo exigieren. Sus resoluciones se tomarán por mayoría absoluta.
+El Tribunal Superior de Justicia del Estado, se integrará con 7 Magistrados Numerarios y los Supernumerarios que se requieran y funcionará en Pleno o en Salas.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+En los términos que la Ley disponga, las sesiones del Pleno y de las Salas serán públicas, y por excepción secretas en los casos que así lo exijan la moral o el interés público. Sus resoluciones se tomarán por mayoría de votos.
+
+Los Magistrados Numerarios serán nombrados en los términos del Artículo 56 de la Constitución Política Local y los Supernumerarios por el Pleno del propio Tribunal.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1980)</small>
 
 ###### ARTICULO 56.
 
-Los nombramientos de los Magistrados del Tribunal Superior de Justicia del Estado serán hechos por el Gobernador y sometidos a la aprobación del Congreso, o a la Comisión Permanente, que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si el Congreso no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. En caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos, desde luego, como provisional y que será sometido a la aprobación del Congreso en el siguiente período de sesiones. Dentro de los primeros diez días de ese período, el Congreso deberá aprobar o rechazar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Cámara desecha el nombramiento, el Magistrado provisional cesará desde luego en sus funciones y el Gobernador someterá un nuevo nombramiento al Congreso en los términos indicados.
+El Gobernador del Estado nombrará directamente a los Magistrados Numerarios del Tribunal Superior de Justicia, a propuesta de terna formulada por el Pleno de dicho Cuerpo Colegiado.
+
+Cada uno de los nombramientos así otorgados serán sometidos al Congreso del Estado o a la Comisión Permanente, para su aprobación, debiendo resolver dentro del plazo de diez días improrrogables.
+
+Si fuere aprobado, previa protesta legal, el Magistrado tomará posesión de su cargo en la siguiente sesión del Pleno.
+
+Si la Cámara de Diputados no resolviere en el término dicho, se tendrá por aprobado el nombramiento procediéndose en consecuencia. Si lo rechazare, el Gobernador otorgará nombramiento a otra persona siguiéndose el mismo procedimiento.
+
+En caso de que se rechazaren dos nombramientos consecutivos para la misma vacante, el tercero será sometido hasta el siguiente período de Sesiones del Congreso, el que resolverá dentro de los primeros diez días, procediéndose en la forma ya establecida para los casos anteriores.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -771,15 +783,13 @@ V.- Gozar de buena reputación y no haber sido condenado por delito intencional 
 
 Los Magistrados del Tribunal Superior de Justicia al entrar a ejercer su cargo, rendirán ante el Congreso o ante la Comisión Permanente la protesta siguiente: - Presidente: - ¿Protestáis desempeñar leal y patrióticamente el cargo de Magistrado del Tribunal Superior de Justicia del Estado, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Unión y del Estado? - Magistrado: "Sí protesto". - Presidente: "si no lo hiciereis así, que la Nación o el Estado os lo demande".
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1980)</small>
 
 ###### ARTICULO 59.
 
-Será Presidente del Tribunal, el Magistrado Propietario que anualmente sea electo para ese efecto por dicho Cuerpo Colegiado, y sus faltas temporales serán suplidas por otro Magistrado Propietario designado en la misma forma que el anterior. El Presidente del Tribunal Superior de Justicia concurrirá al Congreso el día 19 de Diciembre de cada año y rendirá ante la representación popular un informe escrito acerca de la situación que guarda la Administración de Justicia en el Estado, informe que contestará en el mismo acto el Presidente del Congreso.
+Será Presidente del Tribunal el Magistrado Numerario que anualmente sea electo para ese efecto por dicho Cuerpo Colegiado, y sus faltas temporales serán suplidas por otro Magistrado Numerario designado en la misma forma que el anterior.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-Las faltas temporales de los Magistrados propietarios serán cubiertas por el suplente que designe el Tribunal. Igual procedimiento se seguirá para cubrir las absolutas, entretanto se designa al propietario que deba cubrir la vacante.
+Las ausencias temporales de los Magistrados Numerarios serán cubiertas por el Secretario General de Acuerdos o el Juez que designe el Pleno del Tribunal.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -799,17 +809,15 @@ Son facultades del Tribunal Superior de Justicia, funcionando en pleno, dirimir 
 
 Los Magistrados del Tribunal Superior de Justicia y demás funcionarios judiciales no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la Federación, del Estado, Municipio o de particulares, salvo los cargos honoríficos en asociaciones científicas, literarias o de beneficencia y docentes. La infracción de esta disposición será castigada con la pérdida del cargo.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1980)</small>
 
 ###### ARTICULO 63.
 
-La competencia del Tribunal Superior de Justicia, los períodos de sesiones, el funcionamiento del Pleno y de las Salas, las atribuciones de los Magistrados, el número y competencia de los Juzgados de Primera Instancia, de los Menores y de los Jueces Municipales y las responsabilidades en que incurren los funcionarios y empleados del Poder Judicial del Estado, se regirán por esta Constitución y lo que dispongan las leyes y reglamentos respectivos.
+La competencia del Tribunal Superior de Justicia, los períodos de sesiones, el funcionamiento del Pleno y de las Salas, las atribuciones de los Magistrados, el número y competencia de los Juzgados de Primera Instancia y de los Juzgados Menores y las responsabilidades en que incurran los funcionarios y empleados del Poder Judicial del Estado, se regirán por esta Constitución y lo que dispongan las Leyes y Reglamentos respectivos.
 
-La remuneración que perciban por sus servicios los Magistrados del Tribunal Superior de Justicia y los Jueces, no podrá ser disminuido durante su encargo.
+La remuneración que perciban los Magistrados del Tribunal Superior de Justicia y los Jueces, por los servicios que presten al Poder Judicial, no podrá ser disminuída durante su encargo.
 
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1977)</small>
-
-El Tribunal Superior de Justicia se renovará cada seis años, plazo que se computará a partir de la fecha de su instalación, pero sí por cualquier circunstancia no se renovare una vez transcurrido dicho período, continuarán ejerciendo las funciones judiciales los Magistrados que lo venían integrando, hasta que fueren ratificados o substituídos. Los Magistrados podrán ser designados para nuevos períodos inmediatos o posteriores, pero en cualquier tiempo podrán ser removidos cuando observaren mala conducta de acuerdo con el procedimiento de la Fracción IX del Artículo 51.
+Los Magistrados Numerarios del Tribunal Superior de Justicia del Estado, serán inamovibles en sus cargos y sólo podrán ser removidos, cuando públicamente observaren mala conducta, de acuerdo con el procedimiento de la Fracción IX del Artículo 51 de esta Constitución o previo el juicio de responsabilidad, por incapacidad legal o física o por renuncia expresa al puesto.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1304,3 +1312,11 @@ P.O. 10 DE MARZO DE 1979.
 PRIMERO.- Esta Reforma, ha sido aprobada en los términos del Artículo 83 de la Constitución Política del Estado por la mayoría de las autoridades que presiden los Ayuntamientos de esta Entidad Federativa.
 
 SEGUNDO.- Este Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE FEBRERO DE 1980.
+
+PRIMERO.- La inamovilidad judicial que previenen los artículos 11 y 36 de la Ley Orgánica del Poder Judicial, surtirán sus efectos a partir de la primera sesión del Pleno del mes de enero del año de 1983.
+
+SEGUNDO.- Esta adición y reforma han sido aprobadas, en los términos del artículo 83 de la Constitución Política del Estado, por la mayoría de las autoridades que presiden los Ayuntamientos de esta Entidad Federativa.
+
+TERCERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
