@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "1981-12-31"
+last_updated: "1987-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1987.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -11393,15 +11393,15 @@ DE LAS DONACIONES EN GENERAL.
 
 El contrato de compraventa no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1987)</small>
 
 ###### Artículo 2188.
 
-La venta de un inmueble que tenga un valor hasta de $25,000.00, deberá hacerse en instrumento público pero, se considerará de interés social a fin de que los honorarios sean menores.
+La venta de inmuebles deberá hacerse en escritura pública.
 
 ###### Artículo 2189.
 
-Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigo; la parte que no sepa firmar estampará además su huella digital en el contrato.
+(DEROGADO, P.O. 19 DE JULIO DE 1987)
 
 ###### Artículo 2190.
 
@@ -11409,7 +11409,7 @@ De dicho instrumento se formarán dos originales, uno para el comprador y el otr
 
 ###### Artículo 2191.
 
-Si el valor del inmueble excede de mil pesos, su venta se hará en escritura pública.
+(DEROGADO, P.O. 19 DE JULIO DE 1987)
 
 ###### Artículo 2192.
 
@@ -11793,53 +11793,11 @@ DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDATARIO.
 
 Hay arrendamiento cuando las dos partes contratantes se obligan recíprocamente, una a conceder el uso o goce temporal de una cosa, y la otra, a pagar por ese uso o goce un precio cierto.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE ENERO DE 1962)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1987)</small>
 
 ###### Artículo 2270.
 
-La renta o precio del arrendamiento puede consistir en una suma de dinero o en cualquiera otra cosa equivalente, con tal que sea cierta y determinada. En tratándose de bienes raíces urbanos, destinados exclusivamente para habitación, se aplicarán las siguientes disposiciones:
-
-I.- En ningún caso podrán ser aumentadas las rentas de las fincas urbanas dadas en arrendamiento o destinadas a él, ubicadas dentro de la jurisdicción del Estado y utilizadas como habitación, durante el período de vigencia de un contrato virtual o expresamente celebrado, bajo el concepto de modificación del contrato existente, del otorgamiento de uno nuevo, o bajo cualquier otro medio, pretexto o procedimiento encaminados al mismo fin.
-
-II.- Al concluir el plazo o término de todo contrato o convenio expreso de arrendamiento, o desde el momento de entrar en vigor esta Ley, respecto a los convenios virtuales o implícitos, sin límite determinado, los arrendatarios podrán demandar por la vía judicial la prórroga del contrato con derecho a preferencia en igualdad de condiciones sirviendo como base la fijación del monto del arrendamiento, conforme a las reglas señaladas en el subsecuente párrafo.
-
-III.- Se establece como precio legal del arrendamiento a la propiedad raíz urbana, destinada a fines de habitación, en el Estado de Aguascalientes, para todo caso de controversia o litigio judicial o administrativo entre arrendador y arrendatario, una cantidad que tendrá como límite:
-
-a).- 6% anual sobre el valor comercial de la finca, cuando ésta no exceda de....... $50,000.00.
-
-b).- 7% anual cuando el valor real o comercial del predio exceda de $50.00000, pero sea inferior a $100,000.00.
-
-c).- Cuando dicho valor exceda de.......... $100,000.00, el monto del arrendamiento será convencional para las partes contratantes.
-
-IV.- Todo contrato o convenio, tácita o explícitamente celebrado en materia de arrendamiento de predios urbanos para fines exclusivos de habitación, en que se estipulen arrendamientos mayores a las bases establecidas con anterioridad, se considerará lesivo para todos los efectos legales y podrá demandarse su rescisión en cualquier tiempo, sin perjuicio de que se otorgue uno nuevo, al arrendatario, en los términos fijados. La lesión no podrá ser renunciada contractualmente.
-
-V.- El valor comercial base del arrendamiento, se determinará mediante avalúo pericial en que intervendrán peritos nombrados por cada una de las partes (arrendador y arrendatario). En caso de discordia o desacuerdo intervendrá un perito tercero que deberá ser Arquitecto, o a falta de éste, Ingeniero Civil, legalmente autorizado para ejercer su profesión, nombrado de común acuerdo por los dos peritos de las partes, o en su lugar, por un Juez de Primera Instancia del Ramo Civil, a solicitud de cualquiera de los interesados.
-
-VI.- En ningún caso podrá señalarse legalmente, para los efectos de pago de arrendamiento de fincas urbanas destinadas a habitación, un valor que exceda de un 25% al que sirva como base para el pago del impuesto predial.
-
-VII.- Para la determinación del valor comercial, se atenderá, separadamente, al valor del terreno y de la construcción tomando en cuenta el incremento del primero y la depreciación de la segunda, por razones de plusvalía o mejoramiento por obras públicas de urbanización en lo que se refiere al terreno y por la acción del tiempo, falta de conservación, mejoramiento, destrucción o inadaptabilidad, por lo que se refiere a la construcción.
-
-VIII.- Para la determinación del valor, respecto al terreno y construcción, se atenderá además, a la zona urbana en que se encuentre ubicado el predio, vías de comunicación, servicios de agua, energía eléctrica, etc., y a las cotizaciones tanto de terreno como de material de construcción que rijan en el mercado, en la fecha en que se presente la demanda.
-
-IX.- En edificios de dos o más unidades de vivienda, éstas serán consideradas como inmuebles separados y deberá regularse su alquiler conforme a lo dispuesto en la fracción I de este artículo, estimándose su valor en la proporción que le corresponda respecto del valor total del inmueble.
-
-X.- Tomando en consideración el incremento que adquiere el valor de una propiedad, tanto en cuanto se refiere al terreno como a la construcción y a la eventual devaluación de la moneda, todo contrato de arrendamiento podrá ser revisado después de cinco años de su celebración, cualquiera que sea el término de su duración.
-
-XI.- En ningún caso se utilizarán los valores comerciales asignados para los fines y mediante los procedimientos anteriores señalados, para que sirvan como base a operaciones de naturaleza fiscal, cualesquiera que ellas sean.
-
-XII.- No afectarán las disposiciones anteriores, a establecimientos de hospedaje, tales como hoteles, casas de huéspedes y mesones, que continuarán rigiéndose por las tarifas autorizadas por el Departamento de Turismo o por las autoridades administrativas correspondientes, en su caso.
-
-XIII.- Excepcionalmente, el arrendador podrá aumentar la renta:
-
-a).- En caso de mejoras a la finca, en forma proporcional al importe de ellas, siempre que excedan al 25% de su valor, ya sea de común acuerdo entre arrendador e inquilino o previa autorización judicial que se promoverá en juicio sumario con audiencia del Ministerio Público, el que será siempre considerado como parte y mediante avalúo pericial que compruebe el importe de tales mejoras. Los gastos normales para la conservación natural del inmueble, no serán motivo de aumento alguno en el arrendamiento.
-
-b).- En caso de revalúo general fiscal. En este caso, el arrendador sólo podrá elevar la renta hasta por el equivalente al 50% de la cantidad en que resulte aumentada la contribución predial que pague por el inmueble, previa comprobación del aumento por medio de constancia que expida la Tesorería General del Estado.
-
-XIV.- En tratándose de predios urbanos destinados precisamente a habitación, el artículo 2355 del presente Código, sólo se aplicará en los términos consignados en las disposiciones anteriores.
-
-XV.- Tratándose de los contratos de arrendamiento de fincas destinadas exclusivamente a habitación, los arrendadores de fincas urbanas no podrán ejercitar el derecho de revocar unilateralmente el contrato de arrendamiento en los términos de los artículos 2349, 2355 y 2356, del Código Civil, salvo los casos en que la terminación del contrato se justifique para reconstruir o adaptar para otro fin el inmueble, para ocuparlo el arrendador para su propio uso o para venderlo. En este último caso si el adquiriente alquilare la finca, no podrá hacerlo por renta mayor a la estipulada en el contrato concluido, y dando preferencia en todo caso y en igualdad de condiciones al inquilino que lo viniere ocupando. Las reconstrucciones o adaptaciones a que este párrafo se refiere, no serán menores que el equivalente al 25% del valor comercial de la finca.
-
-XVI.- Todo contrato de arrendamiento deberá ser presentado a la sección especial de la Tesorería General del Estado, para que, sin pago alguno de impuestos y como un simple medio de control, queden registrados en un libro especial que para tal efecto deberá abrir y llevar la referida Tesorería General del Estado.
+La renta o precio del arrendamiento puede consistir en una suma de dinero o en cualquiera otra cosa equivalente, con tal que sea cierta y determinada.
 
 ###### Artículo 2271.
 
@@ -11873,9 +11831,15 @@ El arrendamiento debe otorgarse por escrito cuando la renta pase de cien pesos a
 
 Si el predio fuere rústico y la renta pasare de tres mil pesos anuales, el contrato se otorgará en escritura pública.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1987)</small>
+
 ###### Artículo 2279.
 
-El contrato de arrendamiento no se rescinde por la muerte del arrendador ni del arrendatario, salvo convenio en otro sentido.
+El Contrato de arrendamiento no se rescinde por la muerte del arrendador ni del arrendatario, salvo convenio en otro sentido.
+
+Cuando el arrendamiento verse sobre fincas destinadas a habitación, con exclusión de cualquiera otra persona, el cónyuge, el concubinario o la concubina, los hijos, los ascendientes consanguíneos o por afinidad de arrendatario fallecido, se subrogarán en los derechos y obligaciones de éste, en los mismos términos del Contrato, siempre y cuando hubiesen habitado real y permanentemente el inmueble en vida del arrendatario.
+
+No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como subarrendatarios, cesionarios, o de cualquier título semejante.
 
 ###### Artículo 2280.
 
@@ -12079,19 +12043,23 @@ El arrendador que no haga las obras que ordena la autoridad correspondiente con 
 
 Cuando las obras a que se refiere el párrafo anterior sean de urgente ejecución, a juicio de la autoridad correspondiente, podrán hacerlas los inquilinos en cuyo caso tendrán derecho de exigir al arrendador el pago del importe de aquellas.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1987)</small>
+
 ###### Artículo 2321.
 
-El propietario no puede rehusar como fiador a una persona que reúna los requisitos exigidos por la ley para que sea fiador.
+El propietario no puede rehusar como fiador, a una persona que reúna los requisitos exigidos por la Ley para ser fiador.
 
-Si la renta no excede de cincuenta pesos mensuales, es potestativo para el arrendatario dar fianza o substituir esa garantía con el depósito de un mes de renta.
+Tratándose de arrendamiento de viviendas de interés social, es potestativo para el arrendatario, dar fianza o sustituir esa garantía, con el depósito de un mes de renta.
 
 ###### Artículo 2322.
 
 No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo 2320.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1987)</small>
+
 ###### Artículo 2323.
 
-La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos si la renta excede de cien pesos; por quincenas vencidas, si la renta es de sesenta a cien pesos, y por semanas, también vencidas, cuando la renta no llega a sesenta pesos.
+La renta debe pagarse en los plazos convenidos y a falta de convenio, por meses vencidos.
 
 ### CAPITULO VII.
 
@@ -12265,11 +12233,13 @@ Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día pref
 
 Si no se ha señalado tiempo, se observará lo que disponen los artículos 2349 y 2350.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1987)</small>
+
 ###### Artículo 2356.
 
-Vencido un contrato de arrendamiento, tendrá derecho el inquilino, siempre que esté al corriente en el pago de las rentas, a que se le prorrogue hasta por un año ese contrato. Podrá el arrendador aumentar hasta un diez por ciento de la renta anterior, siempre que demuestre que los alquileres en la zona de que se trate han sufrido una alza después de que se celebró el contrato de arrendamiento.
+Vencido un contrato de arrendamiento, tendrá derecho el inquilino, siempre que esté al corriente en el pago de las rentas, a que se le prorrogue hasta por un año ese contrato. En tal caso podrá el arrendador aumentar la renta vigente, sin que exceda el aumento del 70% del incremento porcentual fijado al salario mínimo general para el Estado, en el año calendario inmediato anterior a la prórroga del arrendamiento.
 
-Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento, los propietarios que quieran habitar la casa o cultivar la finca cuyo arrendamiento ha vencido.
+En el caso de arrendamiento de inmuebles para habitación, la prórroga será irrenunciable hasta por dos años, pero el incremento será anual.
 
 ###### Artículo 2357.
 
@@ -15398,3 +15368,7 @@ PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publ
 SEGUNDO.- Los Notarios que tengan en tramitación alguna de las escrituras a que se refiere el presente Decreto, podrán dar el segundo aviso preventivo, que surtirá los efectos a que se refiere el Artículo 2891.
 
 TERCERO.- Se derogan las disposiciones legales que se opongan al contenido de este Decreto.
+
+P.O. 19 DE JULIO DE 1987.
+
+UNICO.- Este Decreto entrará en vigor al tercer día de su publicación en el Periódico Oficial del Estado.
