@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-medicina-antes-48"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-13"
-last_updated: "2001-06-22"
+last_updated: "2002-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-04-12"
 
 REGLAMENTO DE LA ESCUELA MEDICO MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE OCTUBRE DE 2002.
 
 Reglamento Publicado en la Segunda Sección del Diario Oficial de la Federación el martes 13 de abril de 1993.
 
@@ -1143,29 +1143,29 @@ El personal en instrucción que cause baja por situarse en lo establecido en el 
 
 ### CAPITULO I. De los Títulos, Certificados y Patentes
 
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2002)</small>
+
 ###### ARTICULO 78.
 
-El personal en instrucción que termine satisfactoriamente sus estudios y apruebe el examen profesional en el Plantel obtendrá:
-
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+El personal en instrucción que termine satisfactoriamente sus estudios y apruebe el examen profesional obtendrá:
 
 I. Personal Nacional:
 
-A. Título de Médico Cirujano;
+A. Certificado de Estudios;
 
-B. Certificado de estudios, y
+B. Título de Médico Cirujano Militar;
 
-C. Patente correspondiente.
+C. Grado de Mayor Médico Cirujano, y
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+D. Patente correspondiente.
 
 II. Personal de Nacionalidad Extranjera:
 
 A. Título de Médico Cirujano, y
 
-B. Certificado de estudios.
+B. Certificado de Estudios.
 
-III. Patente correspondiente.
+El grado de Mayor Médico Cirujano Militar, será otorgado mediante Acuerdo expedido por el Presidente de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -1302,3 +1302,9 @@ D.O.F. 22 DE JUNIO DE 2001.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 25 DE OCTUBRE DE 2002.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
