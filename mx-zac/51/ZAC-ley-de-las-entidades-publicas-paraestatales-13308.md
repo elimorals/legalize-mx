@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-las-entidades-publicas-paraestatales-13308"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-07"
-last_updated: "1989-01-07"
+last_updated: "1999-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13308&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY DE LAS ENTIDADES PUBLICAS PARAESTATALES
 
-LEY DE LAS ENTIDADES PUBLICAS PARAESTATALES
+LEY DE LAS ENTIDADES PÚBLICAS PARAESTATALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 1999.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 7 de enero de 1989.
 
@@ -51,9 +51,11 @@ La presente Ley es de orden público y tiene por objeto regular la organización
 
 Las relaciones del Ejecutivo Estatal, o de sus dependencias con las entidades paraestatales, en cuanto unidades auxiliares de la Administración Pública Estatal, se sujetarán, en primer término, a lo establecido en esta Ley y sus otras disposiciones reglamentarias y sólo en lo no previsto, a disposiciones, según la materia que corresponda.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 2o.
 
-Son entidades paraestatales las que con tal carácter determina la Ley Orgánica de la Administración Pública del Estado en su Título Tercero.
+Son entidades paraestatales las que con tal carácter determina la Ley Orgánica de la Administración Pública del Estado.
 
 ###### ARTICULO 3o.
 
@@ -73,9 +75,11 @@ Para los efectos de esta Ley se consideran áreas prioritarias las que tiendan a
 
 Corresponderá a los Titulares de las Secretarías de Estado, encargadas de la coordinación de los sectores, establecer políticas de desarrollo para las unidades que conforman éstos, coordinar la programación y presupuestación de conformidad, en su caso, con las asignaciones sectoriales de gasto y financiamiento previamente establecidas y autorizadas, conocer la operación y evaluar los resultados de las entidades paraestatales y las demás atribuciones que les conceda la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 7o.
 
-Las Secretarías de Finanzas y de Planeación y Contraloría tendrán miembros en los órganos de Gobierno y en su caso, en los comités técnicos de las entidades paraestatales, también participarán las otras dependencias y entidades, en la medida en que tengan relación con el objeto de la entidad paraestatal de que se trate; todas ellas de conformidad a su esfera de competencia y disposiciones relativas en la materia.
+Las Secretarías de Planeación y Finanzas y de la Contraloría General del Estado tendrán miembros en los órganos de Gobierno y en su caso, en los comités técnicos de las entidades, en la medida en que tengan relación con el objeto de la entidad paraestatal de que se trate; todas ellas de conformidad a su esfera de competencia y disposiciones relativas en la materia.
 
 Los representantes de las Secretarías y de las Entidades Paraestatales, en las sesiones de los órganos de Gobierno o de los comités técnicos en que intervengan, deberán pronunciarse sobre los asuntos que deban resolver dichos órganos o comités de acuerdo con las facultades que les otorga esta Ley, particularmente el artículo 56 y que se relacionen con la esfera de competencia de la dependencia o entidad representada.
 
@@ -85,15 +89,19 @@ Las entidades paraestatales deberán enviar con antelación no menor de cinco d�
 
 Las entidades paraestatales deberán proporcionar a las demás entidades del sector donde se encuentren agrupadas, la información y datos que le soliciten así como los que les requieran las Secretarías del Estado.
 
-Para el cumplimiento de lo anteriormente establecido, la coordinadora del sector conjuntamente con las Secretarías de Planeación y Contraloría y de Finanzas, harán compatibles los requerimientos de información que se demanden a las dependencias y entidades paraestatales racionalizando los flujos de información.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1999)</small>
+
+Para el cumplimiento de lo anteriormente establecido, la coordinadora del sector conjuntamente con las Secretarías de Planeación y Finanzas y de la Contraloría General del Estado, harán compatibles los requerimientos de información que se demanden a las dependencias y entidades paraestatales racionalizando los flujos de información.
 
 ###### ARTICULO 9o.
 
 Las entidades paraestatales gozarán de autonomía de gestión para el cabal cumplimiento de su objeto y de los objetivos y metas señalados en sus programas. Al efecto, contarán con una administración ágil y eficiente y se sujetarán a los sistemas de control establecidos en la presente Ley y en lo que no se opongan a ésta, a los demás que se relacionen con la Administración Pública Estatal.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 10.
 
-La Secretaría de Planeación y Contraloría publicará anualmente en el Periódico Oficial, Organo del Gobierno del Estado, la relación de las entidades paraestatales que formen parte de la Administración Pública Estatal.
+Las Secretarías de Planeación y Finanzas y de la Contraloría General del Estado publicarán anualmente en el Periódico Oficial, Organo del Gobierno del Estado, la relación de las entidades paraestatales que formen parte de la Administración Pública Estatal.
 
 ###### ARTICULO 11.
 
@@ -127,7 +135,9 @@ III. El objeto del organismo conforme a lo señalado en el artículo 12 de esta 
 
 IV. Las aportaciones y fuentes de recursos para integrar su patrimonio así como aquellas que se determinen para su incremento;
 
-V. La manera de integrar el órgano de gobierno y de designar al director general, así como a los servidores públicos en las dos jerarquías inferiores a éste;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 1999)</small>
+
+V. La manera de integrar el órgano de gobierno y de designar a los servidores públicos en las dos jerarquías inferiores al Director General;
 
 VI. Las facultades y obligaciones del órgano de Gobierno señalando cuales de dichas facultades son indelegables;
 
@@ -143,17 +153,21 @@ El estatuto orgánico deberá inscribirse en el Registro Público de los Organis
 
 En la extinción de los organismos deberá observarse las mismas formalidades establecidas para su creación, debiendo la ley o decreto respectivo fijar la forma y términos de su extinción y liquidación.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 14.
 
-Cuando algún organismo descentralizado creado por el Ejecutivo deje de cumplir sus fines u objeto o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía estatal o del interés público, la Secretaría de Planeación y Contraloría, atendiendo la opinión de la dependencia coordinadora del sector que corresponda, propondrá al Ejecutivo del Estado la liquidación, disolución o extinción de aquel. Asimismo podrá proponer su fusión, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
+Cuando algún organismo descentralizado creado por el Ejecutivo deje de cumplir sus fines u objeto o su funcionamiento no resulte conveniente desde el punto de vista de la economía estatal o del interés público, las Secretarías de Planeación y Finanzas y de la Contraloría General del Estado, atendiendo la opinión de la dependencia coordinadora del sector que corresponda, propondrán al Ejecutivo del Estado la liquidación, disolución o extinción de aquél. Asimismo podrán proponer la fusión, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
 
 ###### ARTICULO 15.
 
 La administración de los organismos descentralizados estará a cargo de un órgano de gobierno que podrá ser una junta de gobierno o su equivalente y un director general.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 16.
 
-El órgano de Gobierno estará integrado por no menos de cinco ni más de quince miembros propietarios y de sus respectivos suplentes. Será presidido por el titular de la coordinadora del sector o por la persona que éste designe.
+El órgano de gobierno estará integrado por no menos de cinco ni más de quince miembros propietarios y de sus respectivos suplentes. El presidente será designado por los miembros de la Junta Directiva de entre los integrantes de la misma.
 
 El cargo de miembro del órgano de gobierno será estrictamente personal y no podrá desempeñarse por medio de representantes.
 
@@ -177,9 +191,11 @@ El órgano de gobierno se reunirá por lo menos cada bimestre.
 
 El propio órgano de gobierno sesionará válidamente con asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes sean representantes de la Administración Pública Estatal. Las resoluciones se tomarán por la mayoría de los miembros presentes teniendo el presidente voto de calidad para el caso de empate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 19.
 
-El director general será designado por el Gobernador del Estado, o a indicación de éste, a través del coordinador del sector por el órgano de gobierno, debiendo recaer tal nombramiento en persona que reúna los siguientes requisitos:
+El Director General será designado por el Gobernador del Estado, a terna propuesta por el órgano de gobierno del organismo descentralizado, debiendo recaer tal nombramiento en persona que reúna los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
@@ -217,9 +233,11 @@ SECCION B
 
 REGISTRO PUBLICO DE ORGANISMOS DESCENTRALIZADOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 22.
 
-Los organismos descentralizados deberán inscribirse en el Registro Público respectivo que llevará la Secretaría de Planeación y Contraloría.
+Los organismos descentralizados deberán inscribirse en el Registro Público respectivo que llevarán las Secretarías de Planeación y Finanzas y de la Contraloría General del Estado.
 
 Los Directores Generales o quienes realicen funciones similares en los organismos descentralizados, que no solicitaren la inscripción aludida dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones o reformas, serán responsables en los términos de la ley de responsabilidades de los servidores públicos del estado.
 
@@ -235,7 +253,9 @@ III. Los nombramientos y sustituciones del director general y en su caso, de los
 
 IV. Los poderes generales y sus revocaciones;
 
-V. El acuerdo de la Secretaría de Planeación y Contraloría o de la dependencia coordinadora del sector que señale las bases de la fusión, extinción o liquidación, de conformidad con las leyes o decretos que ordenen las mismas; y
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 1999)</small>
+
+V. El acuerdo de las Secretarías de Planeación y Finanzas y de la Contraloría General del Estado o de la dependencia coordinadora del sector que señale las bases de la fusión, extinción o liquidación, de conformidad con las leyes o decretos que ordenen las mismas; y
 
 VI. Los demás documentos o actos que determine el Reglamento de este ordenamiento.
 
@@ -267,9 +287,11 @@ Las empresas en que participe de manera mayoritaria el Gobierno del Estado o una
 
 La organización, administración y vigilancia de las empresas de participación estatal mayoritaria, sin perjuicio de lo dispuesto en la legislación aplicable, deberán sujetarse a los términos que se consignan en este cuerpo normativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 30.
 
-Cuando alguna empresa de participación estatal no cumpla con el objeto a que se contrae el artículo 28 o ya no resulte conveniente conservarla como entidad paraestatal desde el punto de vista de la economía estatal o el interés público, la Secretaría de Planeación y Contraloría, atendiendo la opinión de la dependencia coordinadora del sector que corresponda, propondrá al Ejecutivo del Estado, la enajenación de la participación estatal, o en su caso, la disolución o liquidación. Para la enajenación de los títulos representativos del capital de la Administración Pública Estatal, se procederá en los términos que señala el artículo 66 de esta Ley.
+Cuando alguna empresa de participación estatal no cumpla con el objeto a que se contrae el artículo 28 o ya no resulte conveniente conservarla como entidad paraestatal desde el punto de vista de la economía estatal o el interés público, las Secretarías de Planeación y Finanzas y de la Contraloría General del Estado, atendiendo la opinión de la dependencia coordinadora del sector que corresponda, propondrá al Ejecutivo del Estado, la enajenación de la participación estatal, o en su caso la disolución o liquidación. Para la enajenación de los títulos representativos de capital de la Administración Pública Estatal, se procederá en los términos que señala el artículo 66 de esta Ley.
 
 En los casos en que se acuerde la enajenación, en igualdad de condiciones y respetando los términos de las leyes y de los estatutos correspondiente (sic), los trabajadores organizados de la empresa tendrán preferencia para adquirir los títulos representativos del capital de los que sea titular el Gobierno del Estado.
 
@@ -305,7 +327,9 @@ Para la designación, facultades, operación y responsabilidades de los órganos
 
 La fusión o disolución de las empresas de participación estatal se efectuará conforme a los lineamientos o disposiciones establecidos en los estatutos de la empresa y legislación correspondiente.
 
-La dependencia coordinadora del sector al que corresponda la empresa, en lo que no se oponga a su regulación específica y de conformidad a las normas establecidas al respecto por la Secretaría de Planeación y Contraloría, intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión o disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales y los derechos laborales de los servidores públicos de la empresa.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1999)</small>
+
+La dependencia coordinadora del sector al que corresponda la empresa, en lo que no se oponga a su regulación específica y de conformidad a las normas establecidas al respecto por las Secretarías de Planeación y Finanzas y de la Contraloría General del Estado, intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión o disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales y los derechos laborales de los servidores públicos de la empresa.
 
 ### CAPITULO IV. DE LOS FIDEICOMISOS PUBLICOS
 
@@ -315,9 +339,11 @@ Los fideicomisos públicos que se establezcan por la Administración Pública Es
 
 Los Comités Técnicos y los Directores Generales de los Fideicomisos Públicos citados en primer término, se ajustarán en cuanto a su integración, facultades y funcionamiento, a las disposiciones que en el capítulo V de esta Ley se establecen para los Organos de Gobierno y para los Directores Generales, en cuanto sean compatibles a su naturaleza.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 39.
 
-El Ejecutivo del Estado a través de la Secretaría de Planeación y Contraloría, quien será el fideicomitente único de la Administración Pública Estatal Centralizada, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije, en su caso, al Comité Técnico, el cual deberá existir obligadamente en los fideicomisos a que se refiere el artículo anterior.
+El Ejecutivo del Estado a través de las Secretarías de Planeación y Finanzas y de la Contraloría General del Estado, quien será el fideicomitente único de la Administración Pública Estatal Centralizada, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca o que se deriven de los derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije, en su caso, al Comité Técnico, el cual deberá existir obligadamente en los fideicomisos a que se refiere el artículo anterior.
 
 ###### ARTICULO 40.
 
@@ -379,23 +405,31 @@ El programa institucional de la entidad se elaborará para los términos y condi
 
 Los presupuestos de la entidad se formularán a partir de sus programas anuales, deberán contener la descripción detallada de objetivos, metas y unidades responsables de su ejecución y los elementos que permitan la evaluación sistemática de sus programas.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 49.
 
-En la formulación de sus presupuestos, la entidad paraestatal se ajustará a los lineamientos generales que en materia de gasto establezca la Secretaría de Planeación y Contraloría así como a los lineamientos específicos que establezca la coordinadora del sector. En el caso de compromisos derivados de compra o de suministros que excedan al período anual del presupuesto, éste deberá contener la referencia precisa de esos compromisos con el objeto de contar con la perspectiva del desembolso a plazos mayores de un año.
+En la formulación de sus presupuestos, la entidad paraestatal se ajustará a los lineamientos generales que en materia de gasto establezcan las Secretarías de Planeación y Finanzas y de la Contraloría General del Estado, así como a los lineamientos específicos que establezca la coordinadora del sector. En el caso de compromisos derivados de compra o de suministros que excedan al período anual del presupuesto, éste deberá contener la referencia precisa de esos compromisos con el objeto de contar con la perspectiva del desembolso a plazos mayores a un año.
 
 ###### ARTICULO 50.
 
 La entidad paraestatal manejará y erogará sus recursos propios por medio de sus órganos.
 
-Por lo que toca a la percepción de subsidios y transferencias, los recibirá de la Secretaría de Finanzas en los términos que se fijen en los presupuestos de egresos anuales, debiendo administrarlos y manejarlos por sus propios órganos y sujetarse a los controles e informes respectivos de conformidad con la legislación aplicable.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1999)</small>
+
+Por lo que toca a la percepción de subsidios y transferencias, los recibirá de la Secretaría de Planeación y Finanzas en los términos que se fijen en los presupuestos de egresos anuales, debiendo administrarlos y manejarlos por sus propios órganos y sujetarse a los controles e informes respectivos de conformidad con la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 51.
 
-Los programas financieros de la entidad paraestatal deberán formularse conforme a los lineamientos generales que establezca la Secretaría de Finanzas; deberán expresar los fondos propios, aportaciones de capital, contratación de créditos, así como el apoyo financiero que pueda obtenerse de proveedores de insumos y de servicios y de los administradores de los bienes de producción. El programa contendrá los criterios conforme a los cuales deba ejecutarse el mismo en cuanto a costos, montos, plazos, garantías y avales que, en su caso, condicionen el apoyo.
+Los programas financieros de la entidad paraestatal deberán formularse conforme a los lineamientos generales que establezca la Secretaría de Planeación y Finanzas; deberán expresar los fondos propios, aportaciones de capital, contratación de créditos, así como el apoyo financiero que pueda obtenerse de proveedores de insumos y de servicios y de los administradores de los bienes de producción. El programa contendrá los criterios conforme a los cuales deba ejecutarse el mismo en cuanto a costos, montos, plazos, garantías y avales que, en su caso, condicionen el apoyo.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 52.
 
-El director de la entidad paraestatal someterá el programa financiero para su autorización al órgano de gobierno respectivo con la salvedad a que se refiere la fracción II del artículo 56 de esta Ley; una vez aprobado remitirá a la Secretaría de Finanzas la parte correspondiente a la suscripción de créditos externos para su autorización y registro en los términos de la Ley correspondiente.
+El director de la entidad paraestatal someterá el programa financiero para su autorización al órgano de gobierno respectivo con la salvedad a que se refiere la fracción II del artículo 56 de esta Ley; una vez aprobado remitirá a la Secretaría de Planeación y Finanzas de la parte correspondiente a la suscripción de créditos externos para su autorización y registro en los términos de la Ley correspondiente.
 
 ###### ARTICULO 53.
 
@@ -433,7 +467,9 @@ VII. Aprobar de acuerdo con las leyes aplicables y el reglamento de esta Ley, la
 
 VIII. Aprobar la estructura básica de la organización de la entidad paraestatal y las modificaciones que procedan a la misma. Aprobar asimismo y, en su caso, el estatuto orgánico tratándose de organismos descentralizados;
 
-IX. Proponer al Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Contraloría, los convenios de fusión con otras entidades;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 1999)</small>
+
+IX. Proponer al Ejecutivo del Estado, por conducto de las Secretarías de Planeación y Finanzas y de la Contraloría General del Estado, los convenios de fusión con otras entidades;
 
 X. Autorizar la creación de Comités de Apoyo;
 
@@ -441,7 +477,9 @@ XI. Nombrar y remover a propuesta del director general, a los servidores públic
 
 XII. Nombrar y remover a propuesta de su Presidente, entre personas ajenas a la entidad, al Secretario quién podrá ser miembro o no del mismo; así como designar o remover a propuesta del director general de la entidad al Prosecretario del citado órgano de gobierno, quién podrá ser o no miembro de dicho órgano o de la entidad;
 
-XIII. Aprobar la constitución de reservas y aplicación de las utilidades de las empresas de participación estatal. En los casos de los excedentes económicos de los organismos descentralizados, proponer la constitución de reservas y su aplicación para su determinación por el Ejecutivo del Estado a través de la Secretaría de Planeación y Contraloría.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 1999)</small>
+
+XIII. Aprobar la constitución de reservas y aplicación de las utilidades de las empresas de participación estatal. En los casos de los excedentes económicos de los organismos descentralizados, proponer la constitución de reservas y su aplicación para su determinación por el Ejecutivo del Estado a través de las Secretarías de Planeación y Finanzas y de la Contraloría General del Estado.
 
 XIV. Establecer, con sujeción a las disposiciones legales relativas, sin intervención de cualquier otra dependencia, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la entidad paraestatal requiera para la prestación de sus servicios, con excepción de aquellos inmuebles de organismos descentralizados que la Ley considera como del dominio público.
 
@@ -449,7 +487,9 @@ XV. Analizar y aprobar en su caso, los informes periódicos que rinda el directo
 
 XVI. Acordar con sujeción a las disposiciones legales aplicables, los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados en las instrucciones de la coordinadora del sector correspondiente; y
 
-XVII. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la entidad paraestatal cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Planeación y Contraloría por conducto de la coordinadora del sector.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 1999)</small>
+
+XVII. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la entidad paraestatal cuando fuere notoria la imposibilidad práctica de su cobro, informando a las Secretarías de Planeación y Finanzas y de la Contraloría General del Estado por conducto de la coordinadora del sector.
 
 ###### ARTICULO 57.
 
@@ -485,11 +525,13 @@ XIV. Las que señalen otras leyes, reglamentos, decretos, acuerdos y demás disp
 
 ### CAPITULO VI. DEL CONTROL Y EVALUACION
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 58.
 
-El órgano de vigilancia de los organismos descentralizados estará integrado por un comisario público propietario y un suplente, designados por la Secretaría de Planeación y Contraloría.
+El órgano de vigilancia de los organismos descentralizados estará integrado por un comisario público propietario y un suplente, designados por las Secretarías de Planeación y Finanzas y de la Contraloría General del Estado.
 
-Los comisarios públicos evaluarán el desempeño general y por funciones del organismo, realizarán estudios sobre la eficiencia con la que ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de Planeación y Contraloría les asigne específicamente conforme a la Ley. Para el cumplimiento de las funciones citadas el órgano de gobierno y el director general deberán proporcionar la información que soliciten los comisarios públicos.
+Los comisarios públicos evaluarán el desempeño general y por funciones del organismo, realizarán estudios sobre la eficiencia con la que ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que las Secretarías de Planeación y Finanzas y de la Contraloría General del Estado les asigne específicamente conforme a la Ley. Para el cumplimiento de las funciones citadas el órgano de gobierno y el director general deberán proporcionar la información que soliciten los comisarios públicos.
 
 ###### ARTICULO 59.
 
@@ -501,9 +543,11 @@ II. Los directores generales definirán las políticas de instrumentación de lo
 
 III. Los demás servidores públicos dentro del ámbito de su competencia, responderán sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 60.
 
-Los órganos internos de control serán parte integrante de la estructura del organismo descentralizado. Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión del organismo; desarrollarán sus funciones conforme los lineamientos que emita la Secretaría de Planeación y Contraloría, y de acuerdo a las siguientes bases:
+Los órganos internos de control serán parte integrante de la estructura del organismo descentralizado. Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión del organismo; desarrollarán sus funciones conforme los lineamientos que emitan las Secretarías de Planeación y Finanzas y de la Contraloría General del Estado, y de acuerdo a las siguientes bases:
 
 I. Dependerán del director general del organismo;
 
@@ -511,9 +555,11 @@ II. Realizarán sus actividades de acuerdo a reglas y bases que les permitan cum
 
 III. Examinarán y evaluarán los sistemas, mecanismos y procedimientos de control; efectuarán revisiones y auditorías, vigilarán que el manejo y aplicación de los recursos públicos se efectué conforme las disposiciones aplicables; presentarán al director general, al órgano de gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 61.
 
-Las empresas de participación estatal sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán los órganos de control interno y contarán con los Comisarios públicos que designe la Secretaría de Planeación y Contraloría en los términos de los artículos precedentes de esta Ley.
+Las empresas de participación estatal sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán los órganos de control interno y contarán con los comisarios públicos que designen las Secretarías de Planeación y Finanzas y de la Contraloría General del Estado en los términos de los artículos precedentes de esta Ley.
 
 Los fideicomisos públicos a que se refiere el artículo 38 de esta Ley, se ajustarán en lo que les sea compatibles las disposiciones anteriores.
 
@@ -521,17 +567,21 @@ Los fideicomisos públicos a que se refiere el artículo 38 de esta Ley, se ajus
 
 La coordinadora del sector, a través de su titular o representante, mediante su participación en los órganos de gobierno o consejos de administración de las paraestatales, podrá recomendar las medidas adicionales que estime pertinentes sobre las acciones tomadas en materia de control.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 63.
 
-La Secretaría de Planeación y Contraloría podrá realizar visitas y auditorías a las entidades paraestatales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de administración mencionados en el artículo 59 y en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiere incurrido.
+Las Secretarías de Planeación y Finanzas y de la Contraloría General del Estado podrán realizar visitas y auditorías a las entidades paraestatales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de administración mencionados en el artículo 59 y en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiere incurrido.
 
 ###### ARTICULO 64.
 
 En aquellos casos en los que el órgano de gobierno, el consejo de administración o el director general no dieren cumplimiento a las obligaciones legales que se les atribuyen en este ordenamiento, el Ejecutivo del Estado a través de las dependencias competentes así como de la coordinadora del sector correspondiente, actuará de acuerdo a lo preceptuado en las leyes respectivas, a fin de subsanar las deficiencias y omisiones para la estricta observancia de las disposiciones de esta Ley u otras leyes. Lo anterior, sin perjuicio de que se adopten otras medidas y se finquen las responsabilidades a que hubiere lugar.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 65.
 
-En aquellas empresas en las que participe la Administración Pública Estatal con la suscripción del 25% al 50% del capital, diversas a las señaladas en el artículo 27 de esta Ley, se vigilarán las inversiones del Estado a través del comisario que designe la Secretaría de Planeación y Contraloría y el ejercicio de los derechos respectivos se hará por conducto de la dependencia correspondiente en los términos del artículo 31 de este ordenamiento.
+En aquellas empresas en las que participe la Administración Pública Estatal con la suscripción del 25% al 50% del capital, diversas a las señaladas en el artículo 27 de esta Ley, se vigilarán las inversiones del Estado a través del comisario que designen las Secretarías de Planeación y Finanzas y de la Contraloría General del Estado y el ejercicio de los derechos respectivos se hará por conducto de la dependencia correspondiente en los términos del artículo 31 de este ordenamiento.
 
 ###### ARTICULO 66.
 
@@ -574,3 +624,11 @@ LIC. GENARO BORREGO ESTRADA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ROGELIO HERNANDEZ QUINTERO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE JUNIO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+SEGUNDO.- Las entidades paraestatales creadas con anterioridad a la vigencia del presente Decreto, conservarán la estructura que adquirieron con base en la Ley o Decreto que les dio origen.
