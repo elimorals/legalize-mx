@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1980-12-12"
+last_updated: "1981-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 1981.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -511,9 +511,11 @@ Incurrán (sic) en responsabilidad y se harán acreedores a las sanciones que la
 
 También incurrirán en responsabilidad, sancionada por la misma Ley, los partidos políticos que habiendo postulado candidatos en una elección, acuerden que sus miembros electos no se presenten a desempeñar sus funciones.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1981)</small>
+
 ###### ARTICULO 66.
 
-El Gobernador del Estado asistirá a la apertura del segundo período ordinario de sesiones, en la que presentaráun (sic) informe por escrito exponiendo la situación que guarde la administración pública del Estado. Podrá asistir también, cuando la (sic) solicite, para informar sobre asuntos de su competencia y así lo acuerde la Legislatura.
+El Gobernador del Estado asistirá a la apertura del primer Período Ordinario de Sesiones, en la que presentará un informe por escrito exponiendo la situación que guarde la administración pública del Estado. Podrá asistir también, cuando lo solicite, para informar sobre asuntos de su competencia y así lo acuerde la Legislatura.
 
 ###### ARTICULO 67.
 
@@ -615,15 +617,21 @@ XXI.- Legislar en todo lo relativo a la administració (sic) pública.
 
 XXII.- Autorizar la participación del Ejecutivo en comisiones inter estatales de desarrollo regional.
 
-XXIII.- Autorizar al Ejecutivo para celebrar convenios con la Federación.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1981)</small>
+
+XXIII.- Ratificar o rechazar los convenios que celebren el Ejecutivo con el Gobierno Federal.
 
 XXIV.- Otorgar reconocimiento a los ciudadanos que hayan prestado eminentes servicios a la entidad o a la humanidad.
 
 XXV.- Autorizar al Ejecutivo para contratar empréstitos a nombre del Estado, siempre que sean para la ejecución de obras que directamente produzcan un incremento económico, salvo los que se contraten como consecuencia de una calamidad pública, señalando en todo caso los recursos con que deban cubrirse.
 
-XXVI.- Autorizar al Ejecutivo para que enajene, traspase, hipoteque, grave o ejerza cualquier acto de dominio sobre los bienes muebles o inmuebles pertenecientes al Estado, fijando para cada caso especial, las condiciones a que deba sujetarse. El Ejecutivo darácuenta (sic) a la Legislatura del uso que hiciere de esta facultad.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1981)</small>
 
-XXVII.- Aprobar o rechazar las concesiones otorgadas y los contratos de obras públicas presentados por el Ejecutivo.
+XXVI.- Legislar acerca de la administración, conservación y enajenación de los bienes del Estado.
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1981)</small>
+
+XXVII.- Aprobar o rechazar las concesiones otorgadas por el ejecutivo.
 
 XXVIII.- Nombrar y remover libremente a sus empleados y a los de la Contaduría Mayor de Hacienda.
 
@@ -693,7 +701,9 @@ IX.- Las demás que le confiera expresamente esta Constitución.
 
 ### CAPITULO III. Del Poder Ejecutivo
 
-#### SECCION TERCERA. De las Dependencias del Ejecutivo
+#### SECCION TERCERA. De la Administración del Ejecutivo
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1981)</small>
 
 ###### ARTICULO 78.
 
@@ -849,11 +859,13 @@ XII.- Mejorar las condiciones Económicas y sociales de vida de los campesinos f
 
 XIII.- Las demás que señalen esta Constitución y sus leyes.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE MAYO DE 1981)</small>
+
 #### SECCION SEGUNDA. Del Síndico
 
 ###### ARTICULO 92.
 
-Para el despacho de los negocios del orden administrativo habrá; un Secretario de Gobierno, un Secretario de Desarrollo Económico, un Secretario de Finanzas, un Oficial Mayor, un Procurador General de Justicia y los demás funcionarios que determine la Ley Orgánica del Poder Ejecutivo.
+Para el despacho de los negocios del orden administrativo habrá un Secretario de Gobierno, un Secretario de Desarrollo Económico, un Secretario de Finanzas, un Oficial Mayor, un Procurador General de Justicia y los demás funcionarios que determine la Ley Orgánica del Poder Ejecutivo, así como los organismos descentralizados, empresas de Participación Estatal y Fideicomisos creados en la forma que determine la Ley.
 
 ###### ARTICULO 93.
 
@@ -1399,7 +1411,9 @@ XII.- Formular anualmente su Presupuesto de Egresos.
 
 XIII.- Formular anualmente su proyecto de Ley de Ingresos que será cometido (sic) a aprobación de la Legislatura.
 
-XIV.- Rendir a la Legislatura del Estado, dentro de los dos primeros meses, la cuenta del gasto público del año anterior, y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1981)</small>
+
+XIV.- Rendir a la Legislatura del Estado, la cuenta anual del gasto público, en la forma establecida en la Ley Orgánica Municipal y las disposiciones legales conducentes.
 
 XV.- Promover el desenvolvimiento político, económico, social y cultural de la comunidad.
 
@@ -1586,3 +1600,19 @@ P.O. 12 DE DICIEMBRE DE 1980.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE MAYO DE 1981.
+
+DECRETO QUE REFORMA ARTS. 66, 75 Y 92.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE MAYO DE 1981.
+
+DECRETO QUE REFORMA ART. 160.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
