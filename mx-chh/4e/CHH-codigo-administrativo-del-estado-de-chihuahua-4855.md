@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1987-03-11"
+last_updated: "1987-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE AGOSTO DE 1987 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 1987.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -9215,97 +9217,37 @@ El Ejecutivo del Estado, con propósitos de policía, culturales, de fomento a l
 
 ###### ARTICULO 1306.
 
-Se entenderá por tránsito del Estado:
-
-I.- El que se realice en los caminos estatales excluyendo consecuentemente los caminos federales y municipales;
-
-II.- El que se realice en caminos federales o municipales, cuando los Ayuntamientos o el Gobierno Federal hayan encomendado al del Estado la vigilancia de dichos caminos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSITO DEL ESTADO DE CHIHUAHUA, P.O. 5 DE AGOSTO DE 1987)
 
 ###### ARTICULO 1307.
 
-Son autoridades de Tránsito del Estado:
-
-I.- El Gobernador del Estado;
-
-II.- El Director General de Tránsito en el Estado;
-
-III.- El Jefe del Departamento de Comunicaciones y Obras Públicas;
-
-IV.- Los Delegados de Tránsito;
-
-V.- Los agentes de la Policía de Tránsito del Gobierno del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSITO DEL ESTADO DE CHIHUAHUA, P.O. 5 DE AGOSTO DE 1987)
 
 ###### ARTICULO 1308.
 
-Son auxiliares de la Policía de Tránsito:
-
-I.- Los peritos valuadores;
-
-II.- El personal del Servicio Médico de Tránsito y los médicos legistas;
-
-III.- Las Policías de Tránsito y Preventivas Municipales;
-
-IV.- Las Policías Judicial y del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSITO DEL ESTADO DE CHIHUAHUA, P.O. 5 DE AGOSTO DE 1987)
 
 ### CAPITULO III. DE LOS PERMISOS DE RUTA EN LOS CAMINOS DEL ESTADO
 
 ###### ARTICULO 1309.
 
-Son facultades del Gobernador del Estado, que podrá ejercer directamente o por conducto de la Dirección General de Tránsito en el Estado:
-
-I.- Expedir el Reglamento de Tránsito para los caminos a que se refiere el artículo 1306.
-
-II.- Mandar en jefe a toda la Policía de Tránsito del Estado, controlando su correcta actuación;
-
-III.- Designar y remover al Director, Delegados, peritos, médicos, agentes y demás personal de la Policía de Tránsito del Estado;
-
-IV.- Aplicar los correctivos disciplinarios, exenciones y recompensas a que se haga acreedor el personal de la Policía de Tránsito, cuyo funcionamiento se ajustará a las disposiciones establecidas en este Código para la Policía del Estado;
-
-V.- Conceder permisos para establecimiento de sitios y la explotación de servicios de transportes, en los términos de este Código y sus reglamentos;
-
-VI.- Conceder permisos de ruta, con duración máxima de cinco años, para pasajeros o carga, en los caminos del Estado;
-
-VII.- Tramitar y resolver los recursos de revisión interpuestos contra las sanciones conforme a este Código y el Reglamento de Tránsito del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSITO DEL ESTADO DE CHIHUAHUA, P.O. 5 DE AGOSTO DE 1987)
 
 ###### ARTICULO 1310.
 
-Son facultades del Director General de Tránsito en el Estado:
-
-I.- Controlar, mandar y vigilar, como jefe inmediato, la actuación de los Delegados de las oficinas y demás personal de la Policía de Tránsito;
-
-II.- Cumplir y hacer cumplir todas las disposiciones concernientes al Tránsito del Estado;
-
-III.- Conceder los permisos y expedir la documentación que se relacione con la oficina de tránsito a su cargo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSITO DEL ESTADO DE CHIHUAHUA, P.O. 5 DE AGOSTO DE 1987)
 
 ###### ARTICULO 1311.
 
-Son facultades de los Delegados:
-
-I.- Controlar y vigilar el tránsito en los caminos del Estado ubicados dentro de su jurisdicción;
-
-II.- Las que se concedan en el artículo anterior al Director General de Tránsito, dentro de sus respectivas jurisdicciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSITO DEL ESTADO DE CHIHUAHUA, P.O. 5 DE AGOSTO DE 1987)
 
 ###### ARTICULO 1312.
 
-Son atribuciones de la Policía de Tránsito:
-
-I.- Intervenir, en la forma establecida por este Código, demás leyes y reglamentos en la prevención y conocimiento de las infracciones de tránsito;
-
-II.- Dar oportuna asistencia a las personas que resulten lesionadas en los accidentes de tránsito;
-
-III.- Proteger a los peatones, haciéndoles las señales o indicaciones adecuadas y dándoles preferencia de paso respecto de toda clase de vehículos, exigiendo a los conductores de éstos el debido respeto para los transeúntes;
-
-IV.- Exigir a propietarios de semovientes y peatones el cumplimiento de las disposiciones de tránsito, especialmente en lo que respecta a la circulación por los caminos y cruceros;
-
-V.- Proporcionar a los turistas, tanto nacionales como extranjeros, toda clase de facilidades e informes;
-
-VI.- Observar estricta disciplina en el desempeño de sus funciones;
-
-VII.- Las demás que este Código, leyes y reglamentos impongan.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSITO DEL ESTADO DE CHIHUAHUA, P.O. 5 DE AGOSTO DE 1987)
 
 ###### ARTICULO 1313.
 
-La Policía Preventiva, así como las Policías Judicial y del Estado, en su calidad de auxiliares de la de Tránsito del Estado, desempeñarán las funciones de ésta en donde no existan agentes de la misma, y, en todo caso, cuando se requiera su auxilio por las autoridades del mismo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSITO DEL ESTADO DE CHIHUAHUA, P.O. 5 DE AGOSTO DE 1987)
 
 ### CAPITULO IV. INFRACCIONES Y SANCIONES
 
@@ -10509,9 +10451,9 @@ Los notarios públicos y los funcionarios que actúen por receptoría sólo podr
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 #### SECCION PRIMERA. PLAN ESTATAL
 
@@ -10729,15 +10671,15 @@ f) Participar en la creación y administración de zonas de reserva ecológica; 
 
 IX.- Las demás que les otorguen las disposiciones legales relativas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
+#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1489.
 
@@ -10861,9 +10803,9 @@ IV.- La duración.
 
 Los predios de las zonas incluidas en los artículos 1495 y 1500 de este Título, se podrán utilizar en forma compatible con su destino o uso previsto, hasta la fecha señalada en que deberán aplicarse dichos predios a los usos y destinos que la autoridad haya determinado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10977,9 +10919,11 @@ También se considerarán ilegales la fusión, subdivisión, relotificación y f
 
 En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de Desarrollo Urbano podrá intervenir en coordinación con aquél en la administración de los fraccionamientos, subdivisiones, relotificaciones o fusiones o en las operaciones celebradas con estos motivos.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 1984)</small>
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 1515.
 
@@ -11029,7 +10973,7 @@ Una vez determinados los jefes de familia beneficiados y cubierto el precio, la 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+#### SECCION QUINTA. DE LA VIVIENDA
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11075,9 +11019,7 @@ Para la construcción de viviendas deberá mediar solicitud del interesado ante 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1525.
 
@@ -11117,9 +11059,9 @@ Los propietarios y poseedores de los predios incluidos en los programas de mejor
 
 En el caso de que los propietarios o poseedores no cumplan con las obligaciones o convenios indicados por los dos artículos anteriores, el Ejecutivo del Estado podrá proceder a la expropiación por causa de utilidad pública.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11173,9 +11115,9 @@ VI.- Régimen financiero para la ejecución de la obra.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1533.
 
@@ -11189,7 +11131,7 @@ Se consideran afectos al patrimonio cultural del Estado: los edificios, monument
 
 Para la conservación del patrimonio a que se refiere el artículo anterior, el plan estatal y los reglamentos de este Título, considerarán las medidas y disposiciones que impiden el menoscabo o la degradación de dicho patrimonio, estableciendo disposiciones que reduzcan el empleo de idiomas, giros y modismos extranjeros, y que excluyan la adopción de estilos arquitectónicos, deformantes de los valores tradicionales de la ciudad.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO VII. DE LAS CONURBACIONES
 
@@ -11243,7 +11185,7 @@ Se atenderá el crecimiento de los centros de población mediante la determinaci
 
 A partir de la publicación de los planes de desarrollo urbano prevista en el artículo 1480, las áreas y predios en ellos comprendidos quedarán sujetos a las normas de la misma.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -13076,3 +13018,17 @@ Todos los actos, procedimientos y recursos administrativos relacionados con esta
 ###### ARTICULO SEPTIMO.
 
 En tanto se expide la Ley que regule la Junta de Asistencia Privada a que se refiere el Artículo 138 de este Ordenamiento seguirán en vigor los artículos respectivos del Código Administrativo del Estado y las facultades que a tal Institución correspondan, en tanto se concluya su organización, la realizará la Dirección General de Desarrollo Social.
+
+P.O. 5 DE AGOSTO DE 1987.
+
+LEY DE TRANSITO DEL ESTADO DE CHIHUAHUA
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+En la misma fecha se derogan los artículos del 1306 al 1313 del Código Administrativo del Estado y los artículos del 1 al 104 y del 148 al 202 de la Ley de Tránsito del Estado.
