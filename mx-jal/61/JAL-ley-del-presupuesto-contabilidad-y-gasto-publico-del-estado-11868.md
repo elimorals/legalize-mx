@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2002-02-12"
+last_updated: "2003-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -231,9 +231,13 @@ La Secretaría fijará anualmente, de acuerdo a las instrucciones del titular de
 
 Para la formulación del proyecto de Presupuesto de Egresos del Gobierno del Estado, las Dependencias y Entidades elaborarán sus anteproyectos con base en los programas respectivos, ajustándose a las normas y montos que establezca el titular del Poder Ejecutivo, por conducto de la Secretaría, remitiéndolos, en el caso de las dependencias, directamente a la Secretaría, a más tardar el día 1º de Septiembre de cada año. Por lo que respecta a las Entidades sectorizadas, éstas lo harán por conducto y con la validación de la Dependencia coordinadora del sector correspondiente, en el mismo plazo.
 
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
 
-Los proyectos de presupuesto a que se refiere el presente artículo deben contener las plantillas de personal en las que se especifiquen todos los empleos públicos, con inclusión de los titulares de las dependencias y entidades de que se traten, así como las remuneraciones que, por conceptos de salarios o cualquier otro, les sean asignadas a dichos titulares.
+Los proyectos de presupuesto a que se refiere el presente artículo deben contener las plantillas de personal en las que se especifiquen todos los empleos públicos, con inclusión de los titulares de las dependencias y entidades de que se traten; las remuneraciones que, por conceptos de salarios o cualquier otro, les sean asignadas a dichos titulares; así como el monto que será destinado al concepto de responsabilidad patrimonial del Estado, de conformidad con la Ley de Responsabilidad Patrimonial del Estado de Jalisco y sus Municipios.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
+
+Si la partida de responsabilidad patrimonial no se ejerce en el ejercicio fiscal, se deberá traspasar al siguiente ejercicio fiscal.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
@@ -898,3 +902,13 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO.- Para el ejercicio fiscal del 2002, el Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios, será convocado de inmediato, para que a más tardar el 31 de marzo del 2002, evalúe las percepciones aprobadas en los presupuestos respectivos, sin que esta evaluación pueda afectar las prestaciones ya aprobadas.
+
+P.O. 11 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- El presente decreto entrará en vigor el 1 de enero del año 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- Los asuntos que se encuentren en trámite en las dependencias o entidades relacionados con la indemnización a los particulares, derivados de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo a las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
+
+CUARTO.- El Gobierno del Estado y los ayuntamientos deberán incluir en sus respectivos presupuestos de egresos para el ejercicio fiscal del año 2004, una partida que haga frente a su responsabilidad patrimonial.
