@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-asistencia-social-del-estado-de-morelos-6551"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-27"
-last_updated: "1986-08-27"
+last_updated: "2001-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2001.
 
 Ley publicada en el Alcance al Periódico Oficial 3289 del Estado de Morelos, el miércoles 27 de agosto de 1986.
 
@@ -91,7 +91,9 @@ IV.- Mujeres en períodos de gestación o lactancia;
 
 V.- Ancianos en desamparo, incapacidad, marginación o sujetos a maltrato;
 
-VI.- Inválidos, minusválidos o incapaces por causa de segura, debilidad visual, sordura (sic), mudez, alteraciones del sistema neuro-músculo-esquelético, deficiencias mentales, problemas de lenguaje u otras deficiencias;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2001)</small>
+
+VI.- Inválidos, minusválidos o incapaces por causa de ceguera, debilidad visual, sordera, mudez, alteraciones del sistema neuro-músculo-esquelético, deficiencias mentales, problemas de lenguaje u otras deficiencias;
 
 VII.- Indigentes;
 
@@ -554,3 +556,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 Lic. Agustín Alanís Fuentes
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE JULIO DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
