@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-profesiones-del-estado-de-sinaloa-7359"
 country: "mx"
 rank: "ley"
 publication_date: "1955-05-03"
-last_updated: "1995-08-04"
+last_updated: "2004-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PROFESIONES DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 2004.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el 3 de mayo de 1955.
 
@@ -137,13 +137,11 @@ IV.- Intercambiar la información que se requiera; y,
 
 V.- Las demás que tiendan al debido cumplimiento del objeto del convenio.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1967)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 11.
 
-Para el registro de Títulos Profesionales se crea una Oficina que se denominará Sección de Títulos Profesionales en el Estado, dependiente del Poder Ejecutivo a través de la Dirección General de Educación Pública, que se integrará por tres miembros designados respectivamente, uno por el Poder Ejecutivo del Estado, que será el Director de Educación Pública y que tendrá el carácter de Presidente, otro por el Supremo Tribunal de Justicia y otro por la Universidad de Sinaloa, los que tendrán el carácter de Vocales, debiendo ser todos profesionistas legalmente titulados.
-
-Las faltas temporales del C. Director de Educación Pública serán cubiertas por el Sub-Director.
+Para el registro de Títulos Profesionales se crea una Oficina que se denominará Sección de Títulos Profesionales en el Estado, dependiente del Poder Ejecutivo, a través de la Secretaría de Educación Pública y Cultura, que se integrará por cinco miembros designados respectivamente, uno por el Poder Ejecutivo del Estado, que será el Secretario de Educación Pública y Cultura de la entidad, y que tendrá el carácter de Presidente; otro por el Supremo Tribunal de Justicia, nombrando a un miembro de la Judicatura; otro por el H. Congreso del Estado, cuyo representante será el Diputado presidente de la Comisión de Educación Pública y Cultura; otro de la Universidad de Occidente, los que tendrán el carácter de vocales, debiendo ser todos profesionistas legalmente titulados.
 
 ###### ARTICULO 12.
 
@@ -273,9 +271,13 @@ Si el laudo arbitral o la resolución judicial en su caso, fueren adversas al pr
 
 El profesionista está obligado a poner todos sus conocimientos científicos y recursos técnicos al servicio del cliente, así como en el desempeño del trabajo convenido. En caso de urgencia inaplazable, los servicios que se requieren del profesionista serán prestados en cualquiera hora y en el sitio en que sean requeridos siempre que la ubicación de este último no esté a una distancia mayor de 25 kilómetros del domicilio del profesionista y que no esté impedido por alguna causa plenamente justificada para la prestación del servicio.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 29.
 
-El profesionista, al anunciarse, deberá expresar la Institución docente en que haya obtenido su título.
+Los profesionistas que ejerzan en el Estado, en la papelería oficial que utilicen, en la publicidad y en todo documento que extiendan respecto a los servicios que ofrezcan al usuario, deberán de citar además de su profesión, grado académico o especialidad, la institución educativa en la que hubiesen obtenido su título profesional y el número de cédula o autorización correspondiente expedida por autoridad debidamente facultada para ello.
+
+La publicidad que un profesionista realice respecto de sus actividades, deberá mantenerse dentro de los lineamientos de dignidad y ética profesional que establezcan las leyes.
 
 ###### ARTICULO 30.
 
@@ -311,15 +313,25 @@ El anuncio o la publicidad que un profesionistas (sic) haga de sus actividades n
 
 ### CAPITULO V.. COLEGIOS DE PROFESIONISTAS
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 1959)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 38.
 
-Todos los profesionistas de una misma profesión o rama profesional con título registrado o en trámite de registro a juicio de la Sección de Títulos Profesionales en el Estado con autorización definitiva de ejercicio en carreras de reciente creación, podrán constituir en el Estado de Sinaloa uno o varios Colegios, sin que exceda de 5 por cada profesión, ni de 3 por cada rama profesional, gobernados por un Consejo Directivo compuesto como mínimo por los siguientes miembros: Un Presidente, un Vice-Presidente, un Secretario Propietario y un Suplente, un Tesorero Propietario y un Suplente que durarán dos años en sus (sic) Ejercicio.
+Todos los profesionistas de una misma profesión o rama profesional con título registrado o en trámite de registro a juicio de la Sección de Títulos Profesionales en el Estado con autorización definitiva de ejercicio en carreras de reciente creación, podrán constituir en el Estado de Sinaloa uno o varios Colegios, sin excederse de diez por cada profesión y diez por cada rama profesional en los municipios de Culiacán, Mazatlán, Ahome, Guasave y Salvador Alvarado; y de tres por cada profesión y tres par (sic) cada rama profesional en los municipios de El Fuerte, Choix, Sinaloa, Angostura, Mocorito, Badiraguato, Navolato, Cosalá, Elota, San Ignacio, Concordia, Rosario y Escuinapa.
 
-El consejo será electo por mayoría mediante voto individual emitido en la Asamblea respectiva personalmente o por medio de apoderado, o enviado por escrito a la sede del Colegio desde el lugar en que se encuentre el profesionista, por correo certificado con acuse de recibo.
+Los Colegios de la misma profesión o rama profesional quedarán registrados numéricamente en la medida en que hayan obtenido el registro de inscripción ante la Sección de Profesiones del Estado y se renovará cada dos años a partir de la fecha del primer registro.
 
-Los Colegios se denominarán "Colegio de ..." indicándose la profesión o rama profesional que corresponda. Cada Colegio tendrá secciones locales regidas en igual forma que la anterior. Todo profesionista, cumpliendo con los requisitos que exijan los reglamentos respectivos, tendrá derecho para formar parte del Colegio de Profesionistas que corresponda, pero solamente podrán afiliarse a un Colegio.
+Cada colegio será gobernado por un Consejo Directivo compuesto como mínimo por los siguientes miembros: un Presidente, un VicePresidente, un Secretario Propietario y un Suplente, que durarán dos años en su ejercicio, pudiendo reelegirse para un periodo inmediato, siempre que la mayoría absoluta de sus miembros registrados como socios activos lo apruebe.
+
+El Consejo será electo por mayoría mediante voto individual y personal emitido en la Asamblea respectiva, la cual será legal siempre que se haya cumplido con las formalidades de la convocatoria y se encuentre presente la mayoría de los socios activos.
+
+Los Colegios se denominarán "Colegio de ..." indicándose la profesión o rama profesional que corresponda, y podrá agregarse el nombre de un personaje honorable, de probada fama pública y prestigio en el ejercicio de la profesión o rama de que se trate.
+
+Cada Colegio podrá contar con secciones locales o regionales regidas en igual forma que la anterior. Todo profesionista, cumpliendo con los requisitos que exijan los reglamentos respectivos, tendrá derecho a formar parte del Colegio Profesional que corresponda.
+
+En el Estado de Sinaloa funcionará, en los mismos términos anteriores, un Colegio de Profesionistas que podrá aglutinar a todas las profesiones y profesionistas de las distintas ramas del conocimiento.
+
+En los municipios los colegios registrados podrán organizarse en un Colegio de Profesionistas y se inscribirán al del Estado de Sinaloa, y se denominará "Colegio de Profesionistas del Municipio de ..." y se indicará el nombre del municipio.
 
 ###### ARTICULO 39.
 
@@ -343,9 +355,11 @@ c.- Nómina de socios que integren el Consejo Directivo.
 
 Los Colegios de Profesionistas constituídos de acuerdo con los requisitos anteriores tendrán el carácter de personas morales en todos los derechos, obligaciones y atribuciones que señala la Ley.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 41.
 
-Los Colegios de profesionistas tienen prohibido tratar asuntos políticos y religiosos, quedándoles prohibido tratar asuntos de tal naturaleza en sus asambleas.
+Los Colegios de Profesionistas gozarán plenamente de las garantías que establece la Constitución Política de los Estados Unidos Mexicanos, sin más limitaciones que las expresamente señaladas por la Ley. Ninguna autoridad intervendrá en el contenido temático de sus sesiones y acuerdos.
 
 ###### ARTICULO 42.
 
@@ -682,3 +696,9 @@ P.O. 4 DE AGOSTO DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 24 DE MARZO DE 2004.
+
+###### ARTICULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
