@@ -4,7 +4,7 @@ identifier: "LBM"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-23"
-last_updated: "1993-12-23"
+last_updated: "1995-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,730 +20,718 @@ abbreviation: "LBM"
 ---
 # LEY DEL BANCO DE MEXICO
 
-ESTATUTO ORGÁNICO DEL INSTITUTO TECNOLÓGICO SUPERIOR DE FRESNILLO DEL ESTADO DE ZACATECAS
+LEY DEL BANCO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 1995.
 
-Estatuto publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de abril de 2014.
+Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el jueves 23 de diciembre de 1993.
 
-LA JUNTA DE GOBIERNO DEL INSTITUTO TECNOLÓGICO SUPERIOR DE FRESNILLO, EN EJERCICIO DE LAS ATRIBUCIONES QUE LE CONFIEREN LOS ARTÍCULOS 42 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO; 13 PÁRRAFO SEGUNDO Y 56 FRACCIÓN VIII DE LA LEY DE LAS ENTIDADES PÚBLICAS PARAESTATALES Y 9 FRACCIÓN IV DEL DECRETO GUBERNATIVO QUE CREA EL INSTITUTO; Y
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-C O N S I D E R A N D O…
+CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes sabed:
 
-Por lo anteriormente expuesto y fundado, tenemos a bien expedir el siguiente:
+Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente
 
-ESTATUTO ORGÁNICO DEL INSTITUTO TECNOLÓGICO SUPERIOR DE FRESNILLO
+DECRETO
 
-### CAPÍTULO I. Disposiciones Generales
+"EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
 
-###### Artículo 1.
+LEY DEL BANCO DE MEXICO
 
-El presente Estatuto Orgánico tiene por objeto establecer la estructura orgánica y funciones del Instituto Tecnológico Superior de Fresnillo, sus subdirecciones y sus unidades administrativas que lo integran.
+### CAPITULO I. De la Naturaleza, las Finalidades y las Funciones
 
-###### Artículo 2.
+###### ARTICULO 1o.
 
-El Instituto Tecnológico Superior de Fresnillo es un organismo público descentralizado de la Administración Pública del Gobierno del Estado de Zacatecas, con personalidad jurídica y patrimonio propio, con domicilio legal en Av. Tecnológico No. 2000 Colonia Solidaridad en Fresnillo, Zacatecas.
+El banco central será persona de derecho público con carácter autónomo y se denominará Banco de México. En el ejercicio de sus funciones y en su administración se regirá por las disposiciones de esta Ley, reglamentaria de los párrafos sexto y séptimo del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos.
 
-###### Artículo 3.
+###### ARTICULO 2o.
 
-Para los efectos del presente Estatuto Orgánico, se entiende por:
+El Banco de México tendrá por finalidad proveer a la economía del país de moneda nacional. En la consecución de esta finalidad tendrá como objetivo prioritario procurar la estabilidad del poder adquisitivo de dicha moneda. Serán también finalidades del Banco promover el sano desarrollo del sistema financiero y propiciar el buen funcionamiento de los sistemas de pagos.
 
-I. Decreto: Al Decreto que Crea al Instituto Tecnológico Superior de Fresnillo;
+###### ARTICULO 3o.
 
-II. Instituto: Al Instituto Tecnológico Superior de Fresnillo;
+El Banco desempeñará las funciones siguientes:
 
-III. Junta: A la Junta de Gobierno del Instituto;
+I. Regular la emisión y circulación de la moneda, los cambios, la intermediación y los servicios financieros, así como los sistemas de pagos;
 
-IV. Patronato: Al Patronato del Instituto;
+II. Operar con las instituciones de crédito como banco de reserva y acreditante de última instancia;
 
-V. Consejo Técnico: Al Consejo Técnico Consultivo;
+III. Prestar servicios de tesorería al Gobierno Federal y actuar como agente financiero del mismo;
 
-VI. Director General: Al Director General del Instituto; y
+IV. Fungir como asesor del Gobierno Federal en materia económica y, particularmente, financiera;
 
-VII. Comité Académico: Al Órgano Colegiado de consulta.
+V. Participar en el Fondo Monetario Internacional y en otros organismos de cooperación financiera internacional o que agrupen a bancos centrales, y
 
-### CAPÍTULO II. Del Instituto
+VI. Operar con los organismos a que se refiere la fracción V anterior, con bancos centrales y con otras personas morales extranjeras que ejerzan funciones de autoridad en materia financiera.
 
-###### Artículo 4.
+### CAPITULO II. De la Emisión y la Circulación Monetaria
 
-El Instituto llevará a cabo en forma programada sus actividades de conformidad con las políticas, lineamientos, estrategias, programas que apruebe la Junta de Gobierno, de acuerdo con los planes y programas.
+###### ARTICULO 4o.
 
-###### Artículo 5.
+Corresponderá privativamente al Banco de México emitir billetes y ordenar la acuñación de moneda metálica, así como poner ambos signos en circulación a través de las operaciones que esta Ley le autoriza realizar.
 
-El Instituto otorgará grados de estudio de nivel Licenciatura. De igual forma podrá impartir los cursos o diplomados que se estimen pertinentes, así como expedir certificaciones de competencias laborales y profesionales, traducción de documentos del inglés al español.
+###### ARTICULO 5o.
 
-###### Artículo 6.
+Los billetes que emita el Banco de México deberán contener: la denominación con número y letra; la serie y número; la fecha del acuerdo de emisión; las firmas en facsímile de un miembro de la Junta de Gobierno y del Cajero Principal; la leyenda "Banco de México", y las demás características que señale el propio Banco.
 
-Los títulos profesionales y los grados académicos mencionados se sujetarán a los requisitos que exige la Ley del Ejercicio Profesional en el Estado de Zacatecas y para su validez deberán ser suscritos por el Gobernador del Estado, el Presidente de la Junta de Gobierno y el Director General.
+El Banco podrá fabricar sus billetes o encargar la fabricación de éstos a terceros.
 
-###### Artículo 7.
+###### ARTICULO 6o.
 
-Para el cumplimiento de su objeto, el Instituto contará con la siguiente estructura:
+El Banco, directamente o a través de sus corresponsales, deberá cambiar a la vista los billetes y las monedas metálicas que ponga en circulación, por otros de la misma o de distinta denominación, sin limitación alguna y a voluntad del tenedor.
 
-I. Junta de Gobierno:
+Si el Banco o sus corresponsales no dispusieren de billetes o monedas metálicas de las denominaciones solicitadas, la obligación de canje podrá cumplirse entregando billetes o monedas metálicas de las denominaciones de que dispongan, más próximas a las demandadas.
 
-a) Patronato;
+Se exceptúan de lo dispuesto en este artículo las monedas metálicas a que se refiere la fracción II del artículo 62.
 
-b) Consejo Técnico;
+En el cumplimiento de su obligación de canje con las instituciones de crédito, el Banco podrá entregarles billetes y monedas metálicas de las denominaciones cuya mayor circulación considere conveniente para facilitar los pagos.
 
-II. Dirección General:
+### CAPITULO III. De las Operaciones
 
-a) Unidad Jurídica;
+###### ARTICULO 7o.
 
-b) Unidad de Enlace de Acceso a la Información Pública;
+El Banco de México podrá llevar a cabo los actos siguientes:
 
-III. Dirección Académica:
+I. Operar con valores;
 
-a) Subdirección Académica;
+II. Otorgar crédito al Gobierno Federal, a las instituciones de crédito, así como a los fondos bancario de protección al ahorro y de apoyo al mercado de valores previstos en las leyes de Instituciones de Crédito y del Mercado de Valores;
 
-b) Subdirección de Investigación y Posgrado;
+III. Otorgar crédito a las personas a que se refiere la fracción VI del artículo 3o.;
 
-IV. Dirección de Vinculación:
+IV. Constituir depósitos en instituciones de crédito o depositarias de valores, del país o del extranjero;
 
-a) Subdirección de Planeación;
+V. Adquirir valores emitidos por organismos financieros internacionales o personas morales domiciliadas en el exterior, de los previstos en la fracción II del artículo 20;
 
-b) Subdirección de Vinculación y Extensión; y
+VI. Emitir bonos de regulación monetaria;
 
-V. Subdirección Administrativa.
+VII. Recibir depósitos bancarios de dinero del Gobierno Federal, de entidades financieras del país y del exterior, de fideicomisos públicos de fomento económico y de los referidos en la fracción XI siguiente, de instituciones para el depósito de valores, así como de entidades de la administración pública federal cuando las leyes así lo dispongan;
 
-###### Artículo 8.
+VIII. Recibir depósitos bancarios de dinero de las personas a que se refiere la fracción VI del artículo 3o.;
 
-Para el cumplimiento de su objeto el Instituto, tendrá las siguientes funciones:
+IX. Obtener créditos de las personas a que se refiere la fracción VI del artículo 3o. y de entidades financieras del exterior, exclusivamente con propósitos de regulación cambiaria;
 
-I. Plantear líneas de investigación en las áreas científicas tecnológicas y educativas, por medio de proyectos y análisis;
+X. Efectuar operaciones con divisas, oro y plata, incluyendo reportos;
 
-II. Participar en intercambios culturales y tecnológicos, en el ámbito regional, estatal y nacional;
+XI. Actuar como fiduciario cuando por ley se le asigne esa encomienda, o bien tratándose de fideicomisos cuyos fines coadyuven al desempeño de sus funciones o de los que el propio Banco constituya para cumplir obligaciones laborales a su cargo, y
 
-III. Colaborar con los sectores público, social y privado en la consolidación del desarrollo tecnológico de la comunidad;
+XII. Recibir depósitos de títulos o valores, en custodia o en administración, de las personas señaladas en las fracciones VII y VIII anteriores. También podrá recibir depósitos de otros efectos del Gobierno Federal.
 
-IV. Brindar asesorías en las áreas educativas, con la finalidad de apoyar a la población;
+El Banco no podrá realizar sino los actos expresamente previstos en las disposiciones de esta Ley o los conexos a ellos.
 
-V. Realizar investigaciones científicas y tecnológicas que permitan el avance del conocimiento, el desarrollo de la enseñanza tecnológica y el mejor aprovechamiento social de los recursos naturales y materiales;
+###### ARTICULO 8o.
 
-VI. Dar cumplimiento a las metas institucionales de acuerdo a lo establecido a nivel estatal y federal;
+Las operaciones a que se refiere el artículo 7o. deberán contratarse en términos que guarden congruencia con las condiciones de mercado al tiempo de su celebración, exceptuando aquéllas que por su naturaleza no tengan cotización en el mercado.
 
-VII. Formar profesionales para la aplicación y generación de conocimientos y la solución creativa de los problemas;
+Además, las operaciones con valores que realice el Banco Central, salvo las señaladas en las fracciones IV, V y XII del artículo 7o. y en la fracción I del artículo 9o., se harán exclusivamente mediante subasta, cuyo objeto sean títulos a cargo del Gobierno Federal, de instituciones de crédito o del propio Banco.
 
-VIII. Realizar investigación científica y tecnológica que se traduzca en aportaciones concretas que contribuyan al mejoramiento y eficiencia de la producción industrial y de servicios que permita elevar la calidad de vida de la comunidad, sin menoscabo del entorno ecológico, contribuyendo así al desarrollo sustentable;
+###### ARTICULO 9o.
 
-IX. Promover la cultura nacional y universal especialmente la de carácter tecnológico;
+El Banco de México no deberá prestar valores al Gobierno Federal ni adquirirlos de éste, excepto cuando se trate de adquisiciones de valores a cargo del propio Gobierno y se cumpla una de las dos condiciones siguientes:
 
-X. Promover en sus alumnos actitudes solidarias y demandas que reafirmen nuestra independencia económica;
+I. Las adquisiciones queden correspondidas con depósitos en efectivo no retirables antes del vencimiento, que dicho Gobierno constituya en el Banco con el producto de la colocación de los valores referidos, cuyos montos, plazos y rendimientos sean iguales a los de los valores objeto de la operación respectiva; o bien,
 
-XI. Promover actividades de acuerdo con las políticas públicas de innovación y emprendimiento;
+II. Las adquisiciones correspondan a posturas presentadas por el Banco en las subastas primarias de dichos valores. Estas adquisiciones en ningún caso deberán ser por monto mayor al de los títulos a cargo del propio Gobierno propiedad del Banco que venzan el día de colocación de los valores objeto de la subasta.
 
-XII. Promover la cultura de inclusión de personas con discapacidad;
+###### ARTICULO 10.
 
-XIII. Fortalecer los sistemas de gestión para los aspectos tanto de calidad, como de cuidado ambiental a todos los niveles institucionales;
+La función de agente del Gobierno Federal para la emisión, colocación, compra y venta, de valores representativos de la deuda interna del citado Gobierno y, en general, para el servicio de dicha deuda, será privativa del Banco Central.
 
-XIV. Realizar actividades extraescolares; y
+###### ARTICULO 11.
 
-XV. Las demás disposiciones jurídicas y administrativas aplicables.
+El Banco de México sólo podrá dar crédito al Gobierno Federal mediante el ejercicio de la cuenta corriente que lleve a la Tesorería de la Federación y con sujeción a lo que se dispone en el artículo 12. Para efectos de la presente Ley, no se consideran crédito al Gobierno Federal los valores a cargo de éste propiedad del Banco Central.
 
-### CAPÍTULO III. De la Junta de Gobierno
+###### ARTICULO 12.
 
-###### Artículo 9.
+El Banco llevará una cuenta corriente a la Tesorería de la Federación que se ajustará a lo que convengan las partes, pero en todo caso a lo siguiente:
 
-La Junta de Gobierno es la máxima autoridad del Instituto, sus determinaciones serán obligatorias para el Director General y las demás Unidades Orgánicas: (sic)
+I. Sólo podrán hacerse cargos o abonos a esta cuenta mediante instrucción directa del Tesorero de la Federación al Banco, que este último reciba con una antelación de por lo menos un día hábil bancario a la fecha en que deba efectuarse el respectivo cargo o abono;
 
-###### Artículo 10.
+II. El Banco de México podrá, sin autorización del Tesorero de la Federación, cargar la cuenta para atender el servicio de la deuda interna del Gobierno Federal;
 
-La Junta de Gobierno está conformada por:
+III. Con cargo a esta cuenta no podrán librarse cheques u otros documentos a favor de terceros, y
 
-I. Dos representantes del Gobierno del Estado designados por el Titular del Ejecutivo, uno de los cuales Presidirá;
+IV. El saldo que, en su caso, obre a cargo del Gobierno Federal no deberá exceder de un límite equivalente al 1.5 por ciento de las erogaciones del propio Gobierno previstas en el Presupuesto de Egresos de la Federación para el ejercicio de que se trate, sin considerar las señaladas para la amortización de la deuda de dicho Gobierno; salvo que, por circunstancias extraordinarias, aumenten considerablemente las diferencias temporales entre los ingresos y los gastos públicos.
 
-II. Dos representantes del Gobierno Federal, designados por el Secretario de Educación Pública;
+En el evento de que el saldo deudor de la cuenta exceda del límite referido, el Banco deberá proceder a la colocación de valores a cargo del Gobierno Federal, por cuenta de éste y por el importe del excedente. De ser necesario o conveniente, el Banco, también por cuenta del Gobierno Federal, emitirá valores a cargo de éste para realizar la colocación respectiva. Al determinar las características de la colocación y, en su caso, emisión, el Banco procurará las mejores condiciones para el Gobierno dentro de lo que el mercado permita.
 
-III. Dos representantes del Gobierno Municipal, uno designado por el Ayuntamiento de Fresnillo, Zacatecas y otro por el sector social de la comunidad;
+El Banco deberá efectuar la colocación de los valores mencionados en un plazo no mayor de quince días hábiles, contado a partir de la fecha en que se exceda el límite señalado, liquidando el excedente de crédito con el producto de la colocación correspondiente. Excepcionalmente, la Junta de Gobierno del Banco podrá ampliar este plazo una o más veces por un plazo conjunto no mayor de tres meses, si ello resulta conveniente para evitar trastornos en el mercado financiero.
 
-IV. Dos representantes del Sector Productivo que participen en el financiamiento de la Institución, a través de una asociación civil constituida para apoyar las funciones del Instituto y que serán designados por la propia asociación de conformidad con sus estatutos;
+###### ARTICULO 13.
 
-V. El Secretario, que será designado por el pleno de la Junta de Gobierno a propuesta de su Presidente; y
+Cuando las leyes establezcan que el Banco de México deba efectuar aportaciones a organismos financieros internacionales, el Gobierno Federal, salvo por lo que enseguida se señala, proveerá oportunamente al propio Banco de los recursos respectivos. El pago de las cuotas al Fondo Monetario Internacional, se efectuará con recursos del Banco de México.
 
-VI. Un Comisario Público propietario y su suplente designado por la Secretaría de la Función Pública.
+###### ARTICULO 14.
 
-Los dos últimos miembros de la Junta de Gobierno, asistirán a las sesiones con voz pero sin voto.
+Las operaciones que el Banco de México realice con las instituciones de crédito se efectuarán mediante subasta o de conformidad con disposiciones de carácter general que expida el propio Banco.
 
-El cargo de miembro de la Junta de Gobierno será estrictamente personal y no podrá desempeñarse por medio de representantes sin embargo, todos los miembros de la Junta de Gobierno, contarán con sus respectivos suplentes.
+Los financiamientos que el Banco Central conceda a las instituciones de crédito, sea mediante el otorgamiento de crédito o a través de la adquisición de valores, sólo podrán tener por finalidad la regulación monetaria.
 
-###### Artículo 11.
+###### ARTICULO 15.
 
-Son funciones de la Junta de Gobierno:
+Lo previsto en los artículos 8o., segundo párrafo y 14, no será aplicable a los financiamientos que el Banco Central conceda a las instituciones de crédito para evitar trastornos en los sistemas de pagos, ni a las operaciones que el Banco realice como acreditante de última instancia.
 
-I. Aprobar el Estatuto, reglamentos, acuerdos y demás disposiciones relativas al funcionamiento académico y administrativo;
+###### ARTICULO 16.
 
-II. Autorizar al Director General para ejercer actos de dominio;
+Los financiamientos que el Banco de México conceda a las instituciones de crédito, estarán garantizados por los depósitos de dinero y de valores que dichas instituciones tengan en el propio Banco. Al vencer los mencionados financiamientos, el Banco estará facultado para cargar su importe a las cuentas en que se registren dichos depósitos de dinero.
 
-III. Emitir y autorizar los criterios y políticas de operación que el Instituto deba observar, con la finalidad de tomar en cuenta la situación financiera y los objetivos y metas a alcanzar;
+###### ARTICULO 17.
 
-IV. Examinar y en su caso, aprobar el proyecto anual de ingresos y el correspondiente a los egresos;
+Los bonos de regulación monetaria que emita el Banco de México, serán títulos de crédito nominativos o al portador y tendrán las demás características que el Banco fije, debiendo mantenerse depositados en administración en el propio Banco, cuando éste así lo determine.
 
-V. Aprobar los proyectos académicos que se le presenten y los que surjan en su propio seno;
+### CAPITULO IV. De la Reserva Internacional y el Régimen Cambiario
 
-VI. Nombrar a subdirectores a propuesta del Director General;
+###### ARTICULO 18.
 
-VII. Autorizar los programas sustantivos que sean propuestos por el Director General; y
+El Banco de México contará con una reserva de activos internacionales, que tendrá por objeto coadyuvar a la estabilidad del poder adquisitivo de la moneda nacional mediante la compensación de desequilibrios entre los ingresos y egresos de divisas del país.
 
-VIII. Las demás disposiciones jurídicas y administrativas aplicables.
+###### ARTICULO 19.
 
-###### Artículo 12.
+La reserva a que se refiere el artículo inmediato anterior se constituirá con:
 
-La Junta de Gobierno celebrará sesiones ordinarias cada tres meses y extraordinarias cuando las convoque su Presidente.
+I. Las divisas y el oro, propiedad del Banco Central, que se hallen libres de todo gravamen y cuya disponibilidad no esté sujeta a restricción alguna;
 
-###### Artículo 13.
+II. La diferencia entre la participación de México en el Fondo Monetario Internacional y el saldo del pasivo a cargo del Banco por el mencionado concepto, cuando dicho saldo sea inferior a la citada participación, y
 
-Las sesiones se llevarán a cabo en las instalaciones que ocupa el Instituto, pudiendo celebrarse en el lugar que la Junta de Gobierno señale.
+III. Las divisas provenientes de financiamientos obtenidos con propósitos de regulación cambiaria, de las personas señaladas en la fracción VI del artículo 3o.
 
-Los miembros de la Junta de Gobierno gozarán de voz y voto en las sesiones de la misma. El quórum se integrará con la asistencia de la mitad más uno de los miembros. Los acuerdos se tomarán por mayoría de votos en caso de empate, el Presidente tendrá voto de calidad.
+Para determinar el monto de la reserva, no se considerarán las divisas pendientes de recibir por operaciones de compraventa contra moneda nacional, y se restarán los pasivos de la Institución en divisas y oro, excepto los que sean a plazo mayor de seis meses y los correspondientes a los financiamientos mencionados en la fracción III de este artículo.
 
-###### Artículo 14.
+###### ARTICULO 20.
 
-Los cargos de los miembros de la Junta de Gobierno serán honoríficos, por lo que no recibirán remuneración alguna por su desempeño.
+Para efectos de esta Ley, el término divisas comprende: billetes y monedas metálicas extranjeros, depósitos bancarios, títulos de crédito y toda clase de documentos de crédito, sobre el exterior y denominados en moneda extranjera, así como, en general, los medios internacionales de pago.
 
-###### Artículo 15.
+Las divisas susceptibles de formar parte de la reserva son únicamente:
 
-Los miembros de la Junta de Gobierno, tendrán un Suplente con los mismos derechos de los titulares, sin que recaiga el nombramiento de suplente en otro miembro de dicha Junta.
+I. Los billetes y monedas metálicas extranjeros;
 
-###### Artículo 16.
+II. Los depósitos, títulos, valores y demás obligaciones pagaderos fuera del territorio nacional, considerados de primer orden en los mercados internacionales, denominados en moneda extranjera y a cargo de gobiernos de países distintos de México, de organismos financieros internacionales o de entidades del exterior, siempre que sean exigibles a plazo no mayor de seis meses o de amplia liquidez;
 
-Las sesiones ordinarias versarán sobre asuntos generales y las extraordinarias comprenderán aspectos específicos.
+III. Los créditos a cargo de bancos centrales, exigibles a plazo no mayor de seis meses, cuyo servicio esté al corriente, y
 
-###### Artículo 17.
+IV. Los derechos especiales de giro del Fondo Monetario Internacional.
 
-El Secretario informará el orden del día a los miembros de la Junta de Gobierno con cinco de días de anticipación a la celebración de las sesiones ordinarias y con veinticuatro horas a las extraordinarias, anexando la información y documentación correspondientes.
+###### ARTICULO 21.
 
-### CAPÍTULO IV. De la Dirección General
+El Banco de México deberá actuar en materia cambiaria de acuerdo con las directrices que determine una Comisión de Cambios, que estará integrada por el Secretario y el Subsecretario de Hacienda y Crédito Público, otro subsecretario de dicha Dependencia que designe el Titular de ésta, el Gobernador del Banco y dos miembros de la Junta de Gobierno, que el propio Gobernador designe. Los integrantes de la Comisión no tendrán suplentes.
 
-###### Artículo 18.
+Las sesiones de la Comisión serán presididas por el Secretario de Hacienda y Crédito Público, en su ausencia, por el Gobernador y, en ausencia de ambos, por el subsecretario que designe el Titular de la citada Secretaría. Quien presida la sesión tendrá voto de calidad en caso de empate.
 
-De las sesiones ordinarias y extraordinarias celebradas por la Junta de Gobierno, el Secretario levantará las actas respectivas.
+La Comisión podrá reunirse en todo tiempo a solicitud del Secretario de Hacienda y Crédito Público o del Gobernador; sus sesiones deberán celebrarse con la asistencia de por lo menos tres de sus miembros, siempre que tanto dicha Secretaría como el Banco de México se encuentren representados. Las resoluciones de la Comisión se tomarán por mayoría de votos, siendo necesario en todo caso el voto favorable de por lo menos uno de los representantes de la citada Secretaría.
 
-###### Artículo 19.
+El Gobernador informará a la Junta de Gobierno sobre dichas resoluciones.
 
-El Patronato es un órgano de apoyo para el Instituto, conformado de la siguiente manera:
+El secretario de la Junta de Gobierno y su suplente lo serán también de la Comisión de Cambios.
 
-I. El Director General del Plantel;
+###### ARTICULO 22.
 
-II. Un Representante por cada uno de los Municipios del área de influencia directa del Instituto, designados por los Ayuntamientos respectivos;
+La Comisión estará facultada para:
 
-III. Un Representante del Gobierno Estatal, nombrado por el Gobernador del Estado; y
+I. Autorizar la obtención de los créditos a que se refiere la fracción IX del artículo 7o.;
 
-IV. Cinco representantes de agrupaciones del Sector Productivo que participen en el financiamiento del Instituto.
+II. Fijar criterios a los que deba sujetarse el Banco en el ejercicio de las facultades previstas en los artículos 32, 34 y 35, así como en el artículo 33 respecto de la banca de desarrollo, y
 
-###### Artículo 20.
+III. Señalar directrices respecto del manejo y la valuación de la reserva a que se refiere el artículo 18.
 
-Las facultades del Patronato, están determinadas en el Decreto.
+###### ARTICULO 23.
 
-###### Artículo 21.
+El Banco de México, para el cumplimiento de su objetivo prioritario, podrá compensar el aumento de la circulación de moneda o de sus obligaciones a la vista, resultante de las adquisiciones de divisas que efectúe atendiendo las directrices a que se refiere el artículo 21, mediante la colocación y, en su caso, emisión de valores a cargo del Gobierno Federal en términos de lo dispuesto en el segundo párrafo de la fracción IV del artículo 12. Esta colocación por cuenta del citado Gobierno sólo podrá efectuarse en caso de que el monto de los valores a cargo del Gobierno Federal con que el Banco cuente en sus activos sea igual o menor que el monto de los depósitos referidos en la fracción I del artículo 9o. y el Banco no disponga de otros valores de amplio mercado. Al realizarse la colocación, el Banco de México abonará el producto de ella a un depósito a su cargo sin intereses a favor del propio Gobierno. Los fondos depositados serán entregados al Gobierno al tiempo y por el monto equivalente de las enajenaciones netas de divisas que el Banco efectúe y que por sí mismas determinen disminución en la circulación de moneda o en el monto de las obligaciones a la vista de éste.
 
-El Consejo Técnico, es un órgano de asesoría y apoyo, de carácter honorífico, que tendrá por objeto proponer, opinar y emitir recomendaciones respecto de la aplicación y cumplimiento de las funciones del Instituto.
+### CAPITULO V. De la Expedición de Normas y las Sanciones
 
-###### Artículo 22.
+###### ARTICULO 24.
 
-El Consejo Técnico, se integrará con 5 especialistas de alto reconocimiento académico y profesional residentes en el Municipio y podrá participar personal académico del Instituto.
+El Banco de México podrá expedir disposiciones sólo cuando tengan por propósito la regulación monetaria o cambiaria, el sano desarrollo del sistema financiero, el buen funcionamiento del sistema de pagos, o bien, la protección de los intereses del público. Al expedir sus disposiciones el Banco deberá expresar las razones que las motivan.
 
-Por cada miembro propietario, se designará un suplente, quienes, al igual que sus titulares tendrán el mismo derecho a voz y voto.
+Las citadas disposiciones deberán ser de aplicación general, pudiendo referirse a uno o varios tipos de intermediarios, a determinadas operaciones o a ciertas zonas o plazas.
 
-###### Artículo 23.
+Las sanciones que el Banco imponga conforme a lo previsto en los artículos 27, 29 y 33, deberán tener como objetivo preservar la efectividad de las normas de orden público establecidas en la presente Ley y, de esta manera, proveer a los propósitos mencionados en el primer párrafo de este precepto.
 
-El Consejo Técnico sesionará cuantas veces sea necesario, para el debido despacho de los asuntos que sometan a su consideración.
+###### ARTICULO 25.
 
-### CAPÍTULO V. De la Dirección Académica
+El Banco de México determinará las condiciones en que las instituciones de crédito deberán canjear y retirar los billetes y las monedas metálicas en circulación.
 
-###### Artículo 24.
+###### ARTICULO 26.
 
-Para el cumplimiento de su objeto, el Consejo Técnico tendrá las funciones siguientes:
+Las características de las operaciones activas, pasivas y de servicios que realicen las instituciones de crédito, así como las de crédito, préstamo o reporto que celebren los intermediarios bursátiles, se ajustarán a las disposiciones que expida el Banco Central.
 
-I. Proponer a la Junta de Gobierno los anteproyectos de normas de carácter técnico y académico;
+Lo dispuesto en este artículo será aplicable también a los fideicomisos, mandatos o comisiones de los intermediarios bursátiles y de las instituciones de seguros y de fianzas.
 
-II. Someter a la Junta de Gobierno para su consideración y aprobación, los planes y programas académicos y de investigación, así como evaluar sus resultados; y
+###### ARTICULO 27.
 
-III. Las demás disposiciones jurídicas y administrativas aplicables.
+El Banco de México podrá imponer multas a los intermediarios financieros por las operaciones activas, pasivas o de servicios, que realicen en contravención a la presente Ley o a las disposiciones que éste expida, hasta por un monto equivalente al que resulte de aplicar, al importe de la operación de que se trate y por el lapso en que esté vigente, una tasa anual de hasta el cien por ciento del costo porcentual promedio de captación que el Banco estime representativo del conjunto de las instituciones de crédito para el mes o meses de dicha vigencia y que publique en el Diario Oficial de la Federación.
 
-###### Artículo 25.
+El Banco fijará las multas a que se refiere el párrafo anterior, tomando en cuenta:
 
-La Dirección General está a cargo de un Director y será nombrado por el Gobernador del Estado, durará en su encargo cuatro años, pudiendo ser confirmado para un segundo período. Sólo podrá ser removido de su cargo por causa que discrecionalmente apreciará la Junta de Gobierno de acuerdo a las leyes aplicables.
+I. El importe de las ganancias que para dichos intermediarios resulten de las operaciones celebradas en contravención a las disposiciones citadas;
 
-###### Artículo 26.
+II. Los riesgos en que hayan incurrido los intermediarios por la celebración de tales operaciones, y
 
-Son funciones de la Dirección General:
+III. Si el infractor es reincidente.
 
-I. Representar legalmente al Instituto;
+###### ARTICULO 28.
 
-II. Planear, dirigir, controlar y evaluar las actividades administrativas y académicas del Instituto, vigilando el cumplimiento de los planes y programas;
+El Banco de México estará facultado para determinar la parte de los pasivos de las instituciones de crédito, que deberá estar invertida en depósitos de efectivo en el propio Banco, con o sin causa de intereses, en valores de amplio mercado o en ambos tipos de inversiones.
 
-III. Dar cumplimiento a las disposiciones y acuerdos que normen la estructura y funcionamiento de la institución;
+Lo dispuesto en el párrafo anterior, también será aplicable a los fideicomisos, mandatos o comisiones, excepto a los constituidos por el Gobierno Federal, mediante los cuales instituciones fiduciarias capten recursos del público, o bien, reciban fondos destinados al otorgamiento de créditos o a la inversión en valores.
 
-IV. Proponer a la Junta de Gobierno las modificaciones a los planes y programas de estudio, asimismo a la organización académico-administrativa necesarias para el buen funcionamiento de la Institución;
+Las inversiones obligatorias referidas en los párrafos primero y segundo de este artículo no podrán exceder, respectivamente, del veinte y del cincuenta por ciento de los pasivos o fondos correspondientes.
 
-V. Administrar el patrimonio de la Institución;
+El Banco podrá también determinar que hasta el cien por ciento del importe de los recursos captados por las instituciones de crédito con fines específicos o de conformidad con regímenes especiales previstos en ley, se mantenga invertido en determinados renglones de activo consecuentes con tales fines o regímenes.
 
-VI. Presentar a la Junta de Gobierno, los estados financieros y el informe de actividades;
+###### ARTICULO 29.
 
-VII. Sugerir a la Dirección General de Institutos Tecnológicos Descentralizados, cancelación o apertura de carreras con base en estudios de oferta y demanda educativa;
+El Banco de México podrá imponer multas a los intermediarios financieros por incurrir en faltantes respecto de las inversiones que deban mantener conforme a lo dispuesto en el artículo 28. El monto de dichas multas no podrá exceder de la cantidad que resulte de aplicar, al importe de los referidos faltantes, una tasa anual de hasta el trescientos por ciento del costo porcentual promedio de captación que el Banco estime representativo del conjunto de las instituciones de crédito para el mes respectivo, y que publique en el Diario Oficial de la Federación.
 
-VIII. Gestionar financiamiento alterno para la realización de proyectos;
+El Banco fijará las multas a que se refiere el párrafo anterior, tomando en cuenta las causas que hayan originado los citados faltantes y, particularmente, si éstos obedecen a retiros anormales de fondos, a situaciones críticas de los intermediarios, o a errores u omisiones de carácter administrativo en los que, a criterio del propio Banco, no haya mediado mala fe.
 
-IX. Presentar el Programa Operativo Anual; y
+###### ARTICULO 30.
 
-X. Las demás disposiciones jurídicas y administrativas aplicables.
+Los representantes del Banco en las juntas de gobierno de las comisiones supervisoras del sistema financiero, estarán facultados para suspender hasta por cinco días hábiles la ejecución de las resoluciones de dichas comisiones que puedan afectar la política monetaria. Dentro de ese plazo, el Banco deberá comunicar sus puntos de vista a la junta de gobierno respectiva para que ésta resuelva en definitiva.
 
-###### Artículo 27.
+Las resoluciones de las autoridades competentes sobre la adquisición de valores a cargo del Gobierno Federal o del Banco de México, por sociedades de inversión, deberán someterse a la aprobación del Banco Central, antes de proceder a su ejecución.
 
-Para el mejor funcionamiento de la Dirección General, cuenta con las áreas de apoyo siguientes:
+###### ARTICULO 31.
 
-I. Unidad Jurídica;
+El Banco Central podrá regular el servicio de transferencias de fondos a través de instituciones de crédito y de otras empresas que lo presten de manera profesional.
 
-II. Unidad de Enlace de Acceso a la Información Pública;
+###### ARTICULO 32.
 
-III. Comité Académico;
+Las instituciones de crédito, los intermediarios bursátiles, las casas de cambio, así como otros intermediarios cuando formen parte de grupos financieros, o sean filiales de las instituciones o intermediarios citados en primer término, ajustarán sus operaciones con divisas, oro y plata a las disposiciones que expida el Banco de México. Este, en igualdad de condiciones, tendrá preferencia sobre cualquier otra persona en operaciones de compraventa y otras que sean usuales en los mercados respectivos.
 
-IV. Consejo de Vinculación; y
+Los citados intermediarios estarán obligados, siempre que el Banco así lo disponga, a constituir depósitos de dinero a la vista a favor de éste y a cargo de entidades de primer orden del exterior, denominados en la moneda extranjera en la que el Banco usualmente haga su intervención en el mercado de cambios, por el monto en que los activos de aquéllos en divisas, oro y plata, exceda sus obligaciones en dichos efectos. El Banco abonará a los intermediarios el contravalor en moneda nacional de esos depósitos, calculado al tipo de cambio publicado por el propio Banco en el Diario Oficial de la Federación en la fecha en que dicte el acuerdo respectivo. Las divisas distintas de la referida, así como el oro y la plata, se valuarán en los términos de las disposiciones que expida el Banco, las cuales no podrán establecer términos apartados de las condiciones del mercado en la fecha citada.
 
-V. Comité de Gestión Integral.
+El Banco tomando en cuenta la gravedad del caso, podrá ordenar a los intermediarios financieros que infrinjan lo dispuesto en este artículo, la suspensión hasta por seis meses de todas o algunas de sus operaciones con divisas, oro o plata.
 
-###### Artículo 28.
+###### ARTICULO 33.
 
-Corresponde a la Unidad Jurídica las funciones siguientes:
+El Banco de México podrá establecer límites al monto de las operaciones activas y pasivas que impliquen riesgos cambiarios de los intermediarios mencionados en el artículo 32.
 
-I. Asesorar jurídicamente al Director General y a las demás autoridades del Instituto, actuando como área técnica de asesoría y consulta, sistematizando y difundiendo los criterios necesarios para interpretarlos y aplicarlos, para efectos administrativos y las disposiciones legales que normen sus actividades;
+El Banco podrá imponer multas a los intermediarios financieros que transgredan las disposiciones expedidas conforme a lo señalado en el párrafo anterior, hasta por un monto equivalente al cinco por ciento del capital pagado y reservas de capital del intermediario de que se trate.
 
-II. Otorgar seguridad al patrimonio e intereses del Instituto, apoyando legalmente el ejercicio de sus funciones, así como atender todos aquellos asuntos en que tenga interés jurídico;
+El Banco fijará las multas a que se refiere el párrafo anterior, tomando en cuenta lo dispuesto en las fracciones I a III del artículo 27.
 
-III. Compilar y difundir las disposiciones jurídicas relacionadas con las funciones del Instituto;
+###### ARTICULO 34.
 
-IV. Formular y revisar los anteproyectos de circulares, órdenes y demás disposiciones de carácter general y pronunciarse sobre los que propongan otras áreas del Instituto;
+Las dependencias y las entidades de la Administración Pública Federal que no tengan el carácter de intermediarios financieros, deberán mantener sus divisas y realizar sus operaciones con éstas, sujetándose a las normas, orientaciones y políticas que el Banco de México establezca. Al efecto, proporcionarán al Banco la información que les solicite respecto de sus operaciones con moneda extranjera y estarán obligadas a enajenar sus divisas al propio Banco en los términos de las disposiciones que éste expida, las cuales no podrán establecer términos apartados de las condiciones del mercado.
 
-V. Elaborar y dictaminar los convenios, contratos, acuerdos, bases de coordinación o colaboración y, en general, cualquier instrumento jurídico que celebre el Instituto, con organismos de los sectores público, privado y social;
+###### ARTICULO 35.
 
-VI. Previo poder otorgado por el Director, representar legalmente al Instituto tanto en los juicios de orden laboral como en los asuntos contenciosos en los que sea parte e intervenir en las reclamaciones de carácter jurídico que puedan afectar los intereses de la Institución, así como formular denuncias, promover querellas y desistirse de las mismas;
+El Banco de México expedirá las disposiciones conforme a las cuales se determine el o los tipos de cambio a que deba calcularse la equivalencia de la moneda nacional para solventar obligaciones de pago en moneda extranjera, contraídas dentro o fuera de la República para ser cumplidas en ésta. También podrá determinar los tipos de cambio aplicables a las operaciones por las que se adquieran divisas contra entrega de moneda nacional, siempre que ambas o alguna de estas prestaciones se cumpla en territorio nacional.
 
-VII. Elaborar y proponer los informes previos y justificados en los juicios de amparo y formular todas las promociones que dichos juicios requieran;
+###### ARTICULO 36.
 
-VIII. Iniciar y dar trámite a los procedimientos de rescisión y de exigibilidad de garantías y penalización de los contratos, pedidos y demás negocios jurídicos en los que participe el Instituto, previa solicitud y dictamen que formule el área responsable del control, seguimiento y ejecución del contrato, pedido o negocio jurídico de que se trate;
+Los intermediarios financieros estarán obligados a suministrar al Banco de México la información que éste les requiera sobre sus operaciones incluso respecto de alguna o algunas de ellas en lo individual, los datos que permitan estimar su situación financiera y, en general, aquélla que sea útil al Banco para proveer el adecuado cumplimiento de sus funciones.
 
-IX. Tramitar los asuntos relacionados con la propiedad industrial y derechos de autor ante las autoridades competentes;
+Las comisiones supervisoras del sistema financiero, a solicitud del Banco de México, realizarán visitas a los intermediarios, que tendrán por objeto revisar, verificar y evaluar la información que de conformidad con el párrafo anterior hayan presentado. En dichas visitas podrá participar personal del propio Banco.
 
-X. Elaborar todos los informes que le solicite la Dirección General; y
+###### ARTICULO 37.
 
-XI. Las demás disposiciones jurídicas y administrativas aplicables.
+El Banco de México podrá suspender todas o algunas de sus operaciones con los intermediarios financieros que infrinjan la presente Ley o las disposiciones que emanen de ella.
 
-###### Artículo 29.
+### CAPITULO VI. Del Gobierno y la Vigilancia
 
-Son funciones de la Unidad de Enlace de Acceso a la Información Pública las siguientes:
+###### ARTICULO 38.
 
-I. Recibir y dar trámite a las solicitudes de acceso a la información pública y a las relativas al ejercicio de la acción de protección de datos personales;
+El ejercicio de las funciones y la administración del Banco de México estarán encomendados, en el ámbito de sus respectivas competencias, a una Junta de Gobierno y a un Gobernador.
 
-II. Difundir ante las áreas administrativas la información pública de oficio a que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado de Zacatecas;
+La Junta de Gobierno estará integrada por cinco miembros, designados conforme a lo previsto en el párrafo séptimo del artículo 28 constitucional. De entre éstos, el Ejecutivo Federal nombrará al Gobernador del Banco, quien presidirá a la Junta de Gobierno; los demás miembros se denominarán Subgobernadores.
 
-III. Vigilar el resguardo y la correcta administración de la información clasificada como reservada o confidencial en cada una de las áreas administrativas;
+###### ARTICULO 39.
 
-IV. Orientar y auxiliar a las personas, en la elaboración de solicitudes y entrega de la información pública solicitada;
+La designación de miembro de la Junta de Gobierno deberá recaer en persona que reúna los requisitos siguientes:
 
-V. Realizar los trámites de gestiones internos necesarios para entregar la información pública solicitada y ejecutar las notificaciones correspondiente;
+I. Ser ciudadano mexicano y no tener más de sesenta y cinco años cumplidos en la fecha de inicio del periodo durante el cual desempeñará su cargo;
 
-VI. Actualizar mensualmente el registro de las solicitudes repuestas, trámites y costos que impliquen el cumplimiento de sus funciones; y
+II. Gozar de reconocida competencia en materia monetaria, así como haber ocupado, por lo menos durante cinco años, cargos de alto nivel en el sistema financiero mexicano o en las dependencias, organismos o instituciones que ejerzan funciones de autoridad en materia financiera.
 
-VII. Las demas disposiciones jurídicas y administrativas aplicables.
+Para la designación de dos de los cinco miembros no será necesario satisfacer los requisitos previstos en el párrafo anterior; pero en todo caso, deberá tratarse de profesionales distinguidos en materia económica, financiera o jurídica. Ninguno de estos dos miembros podrá ser nombrado Gobernador antes de haber cumplido tres años en su cargo, y
 
-###### Artículo 30.
+III. No haber sido sentenciada por delitos intencionales; inhabilitada para ejercer el comercio o para desempeñar un empleo, cargo o comisión, en el servicio público o en el sistema financiero mexicano; ni removida con anterioridad del cargo de miembro de la Junta de Gobierno, salvo que esto último hubiere sido resultado de incapacidad física ya superada.
 
-El Comité Académico es un órgano colegiado de consulta, que emite propuestas y recomendaciones que coadyuvan a la mejora continua del desarrollo de los cinco procesos estratégicos del Modelo Educativo para el Siglo XXI.
+###### ARTICULO 40.
 
-###### Artículo 31.
+El cargo de Gobernador durará seis años y el de Subgobernador será de ocho años. El periodo del Gobernador comenzará el primero de enero del cuarto año calendario del periodo correspondiente al Presidente de la República. Los periodos de los Subgobernadores serán escalonados, sucediéndose cada dos años e iniciándose el primero de enero del primer, tercer y quinto año del periodo del Ejecutivo Federal. Las personas que ocupen esos cargos podrán ser designadas miembros de la Junta de Gobierno más de una vez.
 
-El objetivo del Comité Académico es emitir opinión o recomendaciones a la Dirección General en asuntos del ámbito académico, fundamentado en un conocimiento pleno de la realidad institucional y de su entorno.
+###### ARTICULO 41.
 
-###### Artículo 32.
+La vacante que se produzca en un puesto de Subgobernador será cubierta por el nuevo miembro que se designe para integrar la Junta de Gobierno. En caso de vacante en el puesto de Gobernador, el Ejecutivo Federal podrá nombrar para ocupar tal cargo a un Subgobernador en funciones, o bien, designar a un nuevo miembro de la Junta de Gobierno y, ya integrada ésta, nombrar de entre sus cinco miembros al Gobernador. En tanto se hace el nombramiento de Gobernador, el Subgobernador con mayor antigüedad en el cargo será Gobernador Interino del Banco y presidirá la Junta de Gobierno. En caso de que hubieren dos o más Subgobernadores con igual antigüedad, la Junta de Gobierno elegirá entre ellos al Gobernador Interino.
 
-El Comité Académico se integra por:
+Los miembros que cubran vacantes que se produzcan antes de la terminación del periodo respectivo, durarán en su cargo sólo por el tiempo que faltare desempeñar al sustituido. Si al término del periodo que corresponde al Gobernador, se nombra a un Subgobernador en funciones para ocupar tal puesto, el nombramiento referido será por seis años independientemente del tiempo que hubiere sido Subgobernador.
 
-I. El Subdirector Académico, que fungirá como Presidente;
+###### ARTICULO 42.
 
-II. El Jefe de la División de Estudios de Carrera, como Secretario Técnico;
+El Gobernador y los Subgobernadores deberán abstenerse de participar con la representación del Banco en actos políticos partidistas.
 
-III. El Jefe de Departamento de Desarrollo Académico; y
+###### ARTICULO 43.
 
-IV. El Jefe del Departamento de Servicios Escolares.
+Son causas de remoción de un miembro de la Junta de Gobierno:
 
-###### Artículo 33.
+I. La incapacidad mental, así como la incapacidad física que impida el correcto ejercicio de sus funciones durante más de seis meses;
 
-El Comité Académico propondrá a la Dirección General, entre otros, las siguientes normas interiores:
+II. El desempeño de algún empleo, cargo o comisión, distinto de los previstos en el párrafo séptimo del artículo 28 constitucional;
 
-I. Reglamento de becas;
+III. Dejar de ser ciudadano mexicano o de reunir alguno de los requisitos señalados en la fracción III del artículo 39;
 
-II. Reglamento de estadías o servicio social;
+IV. No cumplir los acuerdos de la Junta de Gobierno o actuar deliberadamente en exceso o defecto de sus atribuciones;
 
-III. Reglamento de tutorías;
+V. Utilizar, en beneficio propio o de terceros, la información confidencial de que disponga en razón de su cargo, así como divulgar la mencionada información sin la autorización de la Junta de Gobierno;
 
-IV. Reglamento de revalidación y equivalencia de estudios;
+VI. Someter a sabiendas, a la consideración de la Junta de Gobierno, información falsa, y
 
-V. Reglamento estudiantil; y
+VII. Ausentarse de sus labores sin autorización de la Junta de Gobierno o sin mediar causa de fuerza mayor o motivo justificado. La Junta de Gobierno no podrá autorizar ausencias por más de seis meses.
 
-VI. Reglamentos, lineamientos o normatividad que emanen de la Dirección General de Educación Superior Tecnológica.
+El Gobernador podrá ser removido también por no cumplir con los acuerdos de la Comisión de Cambios.
 
-###### Artículo 34.
+###### ARTICULO 44.
 
-El Comité Académico sesionará cada vez que sea citado por el Director General, (sic)
+Compete a la Junta de Gobierno dictaminar sobre la existencia de las causas de remoción señaladas en el artículo inmediato anterior, debiendo hacerlo a solicitud del Presidente de la República o de cuando menos dos de sus miembros. El dictamen se formulará según resolución de la mayoría de los miembros de la Junta de Gobierno, después de conceder el derecho de audiencia al afectado y sin que éste participe en la votación.
 
-###### Artículo 35.
+El dictamen, con la documentación que lo sustente, incluida la argumentación por escrito que, en su caso, el afectado hubiere presentado, será enviado al Ejecutivo Federal. Este último deberá remitirlo, acompañado con la citada documentación y con su razonamiento de procedencia o improcedencia de remoción, a la Cámara de Senadores o, en su caso, a la Comisión Permanente, para resolución definitiva.
 
-El Consejo de Vinculación tendrá por objeto mejorar la operación y el desarrollo del potencial del Sistema Nacional de Educación Superior Tecnológica en la zona de influencia de la institución, así como apoyar sus actividades, mediante la participación activa de cada uno de los sectores. Asimismo coadyuvará en la aplicación de estrategia y políticas que permitan lograr oportunidades de apoyo y recursos mediante la diversificación de las fuentes de financiamiento y la gestión de mecanismos e instancias permanentes de coordinación con los sectores del entorno.
+###### ARTICULO 45.
 
-El Consejo de Vinculación fungirá como un órgano de apoyo y asesoría de la Dirección General.
+El Gobernador o cuando menos dos de los Subgobernadores podrán convocar a reunión de la Junta de Gobierno, cuyas sesiones deberán celebrarse con la asistencia de por lo menos tres de sus miembros. Si no concurriere el Gobernador, la sesión será presidida por quien aquél designe o, en su defecto, por el Subgobernador a quien corresponda según el procedimiento previsto en el párrafo primero del artículo 41.
 
-###### Artículo 36.
+Las resoluciones requerirán para su validez del voto aprobatorio de la mayoría de los presentes, salvo el caso previsto en el párrafo primero del artículo 44. Quien presida la sesión tendrá voto de calidad en caso de empate.
 
-El Consejo de Vinculación es un órgano colegiado integrado por personalidades de reconocido prestigio de la comunidad, de los sectores productivos y personal de la Institución.
+El Secretario y el Subsecretario de Hacienda y Crédito Público, podrán asistir con voz, pero sin voto, a las sesiones de la Junta de Gobierno, para lo cual serán previamente convocados, dándoles a conocer el orden del día correspondiente. Dichos funcionarios podrán convocar a reunión de la Junta de Gobierno y proponer asuntos a ser tratados en ella.
 
-La participación de los miembros del Consejo de Vinculación será honorifica y por lo tanto, no remunerada.
+La Junta podrá acordar la asistencia de funcionarios de la Institución a sus sesiones para que le rindan directamente la información que les solicite.
 
-###### Artículo 37.
+Quienes asistan a las sesiones deberán guardar confidencialidad respecto de los asuntos que se traten en ellas, salvo autorización expresa de la Junta de Gobierno para hacer alguna comunicación.
 
-El Comité de Gestión Integral del Instituto se integra por el Director General, Subdirectores de Área, Jefes de División y Jefes de Departamento.
+###### ARTICULO 46.
 
-El objetivo primordial del Comité de Gestión Integral es, establecer, implementar y documentar los procesos y programas necesarios para el mantenimiento del Sistema de Gestión de Calidad y el Sistema de Gestión Ambiental y el de Modelo de Equidad de Género, mejorando continuamente su eficacia de acuerdo con los requisitos establecidos en la norma ISO 9001:2008 e ISO 14001:2004, respectivamente, así como los requisitos legales aplicables.
+La Junta de Gobierno tendrá las facultades siguientes:
 
-### CAPÍTULO VI. De la Dirección de Vinculación
+I. Determinar las características de los billetes, con sujeción a lo establecido en el artículo 5o., y proponer a la Secretaría de Hacienda y Crédito Público, las composiciones metálicas de las monedas conforme a lo dispuesto por la Ley Monetaria de los Estados Unidos Mexicanos;
 
-###### Artículo 38.
+II. Autorizar las órdenes de acuñación de moneda y de fabricación de billetes;
 
-Para el estudio, planeación y despacho de los asuntos de la Dirección General, cuenta con las áreas administrativas siguientes:
+III. Resolver sobre la desmonetización de billetes y los procedimientos para la inutilización y destrucción de moneda;
 
-I. Dirección Académica;
+IV. Resolver sobre el otorgamiento de crédito del Banco al Gobierno Federal;
 
-II. Dirección de Vinculación; y
+V. Fijar las políticas y criterios conforme a los cuales el Banco realice sus operaciones, pudiendo determinar las características de éstas y las que por su importancia deban someterse en cada caso a su previa aprobación;
 
-III. Subdirección Administrativa.
+VI. Autorizar las emisiones de bonos de regulación monetaria y fijar las características de éstos;
 
-###### Artículo 39.
+VII. Determinar las características de los valores a cargo del Gobierno Federal que el Banco emita conforme al párrafo segundo, fracción IV, del artículo 12, así como las condiciones en que se coloquen esos títulos y los demás valores señalados en dicho párrafo;
 
-Las áreas administrativas del Instituto, estarán integradas por el personal directivo, académico, técnico de apoyo, administrativo y servicios.
+VIII. Establecer las políticas y criterios conforme a los cuales se expidan las normas previstas en el capítulo V, sin perjuicio de las facultades que corresponden a la Comisión de Cambios conforme al artículo 22;
 
-###### Artículo 40.
+IX. Aprobar las exposiciones e informes del Banco y de los miembros de la Junta de Gobierno sobre las políticas y actividades de aquél;
 
-Son funciones de los titulares de las áreas administrativas, las siguientes:
+X. Aprobar los estados financieros correspondientes a cada ejercicio, así como los estados de cuenta consolidados mensuales;
 
-I. Planear, programar, organizar y evaluar el desempeño de las funciones encomendadas;
+XI. Expedir las normas y criterios generales a los que deberá sujetarse la elaboración y ejercicio del presupuesto de gasto corriente e inversión física del Banco, así como aprobar dicho presupuesto y las modificaciones que corresponda efectuarle durante el ejercicio. La Junta de Gobierno deberá hacer lo anterior, de conformidad con el criterio de que la evolución del citado presupuesto guarde congruencia con la del Presupuesto de Egresos de la Federación;
 
-II. Elaborar los planes y proyectos de trabajo, opiniones e informes que le sean requeridos por la Dirección General;
+XII. Expedir, con sujeción a los criterios de carácter general señalados en el artículo 134 constitucional, las normas conforme a las cuales el Banco deba contratar las adquisiciones y enajenaciones de bienes muebles, los arrendamientos de todo tipo de bienes, la realización de obra inmobiliaria, así como los servicios de cualquier naturaleza;
 
-III. Acordar con el Director General lo relativo a los asuntos cuyos trámites le sean encomendadas al área a su cargo;
+XIII. Resolver sobre la adquisición y enajenación de acciones o partes sociales por el Banco, de empresas que le presten servicios;
 
-IV. Rendir por escrito, los informes semanales, mensuales o anuales;
+XIV. Autorizar la adquisición y enajenación de inmuebles;
 
-V. Llevar a cabo los programas anuales, autorizados a su área por la Junta de Gobierno;
+XV. Resolver sobre la constitución de las reservas a que se refiere el artículo 53;
 
-VI. Suscribir los documentos relativos al ejercicio de sus funciones; y
+XVI. Aprobar el Reglamento Interior del Banco, el cual deberá ser publicado en el Diario Oficial de la Federación;
 
-VII. Las demás disposiciones jurídicas y administrativas aplicables.
+XVII. Aprobar las Condiciones Generales de Trabajo que deban observarse en las relaciones entre el Banco y su personal, así como los tabuladores de sueldos, en el concepto de que las remuneraciones de los funcionarios y empleados del Banco no deberán exceder de las que perciban los miembros de la Junta de Gobierno, excepto en los casos en que dadas las condiciones del mercado de trabajo de alguna especialidad, se requiera de mayor remuneración;
 
-###### Artículo 41.
+XVIII. Nombrar y remover al secretario de la Junta de Gobierno, así como a su suplente, quienes deberán ser funcionarios del Banco;
 
-Los Subdirectores tendrán las funciones que le designen el Director General y el Director de su área, así como otras disposiciones legales aplicables.
+XIX. Nombrar y remover a los funcionarios que ocupen los tres primeros niveles jerárquicos del personal de la Institución;
 
-###### Artículo 42.
+XX. Aprobar las políticas para cancelar, total o parcialmente, adeudos a cargo de terceros y a favor del Banco, cuando fuere notoria la imposibilidad práctica de su cobro, o éste fuere económicamente inconveniente para la Institución, y
 
-Corresponde a la Dirección Académica las funciones siguientes:
+XXI. Resolver sobre otros asuntos que el Gobernador someta a su consideración.
 
-I. Coadyuvar en la elaboración del Programa Operativo Anual del área a su cargo;
+###### ARTICULO 47.
 
-II. Verificar las actividades de los departamentos a su cargo se realicen de acuerdo con los procedimientos y normas establecidos; (sic)
+Corresponderá al Gobernador del Banco de México:
 
-III. Analizar y supervisar la programación semestral;
+I. Tener a su cargo la administración del Banco, la representación legal de éste y el ejercicio de sus funciones, sin perjuicio de las atribuciones que esta Ley confiere a la Junta de Gobierno;
 
-IV. Supervisar la calendarización de las actividades previas a cada semestre para: Residencias Profesionales, Servicio Social, Promoción a crecimiento de matrícula de las necesidades de cada carrera; ésta planeación se efectuará al segundo mes de iniciado el semestre;
+II. Ejecutar los acuerdos de la Junta de Gobierno y de la Comisión de Cambios;
 
-V. Supervisar la utilización óptima de laboratorios y talleres de conformidad con los planes y programas establecidos así como con las normas y lineamientos vigentes;
+III. Someter a la consideración y, en su caso, aprobación de la Junta de Gobierno las exposiciones e informes del Banco señalados en la fracción IX del artículo 46, así como los documentos a que se refieren las fracciones X, XI, XII, XVI y XVII del referido artículo 46;
 
-VI. Proponer la normatividad escolar y difundirla a la comunidad tecnológica y vigilar su cumplimiento;
+IV. Actuar con el carácter de apoderado y delegado fiduciario;
 
-VII. Proponer a la Dirección General los planes de desarrollo institucional, dirigidos hacia la excelencia académica a mediano plazo;
+V. Ser el enlace entre el Banco y la Administración Pública Federal;
 
-VIII. Supervisar la calendarización de acciones de divulgación científica y tecnológica;
+VI. Ser el vocero del Banco, pudiendo delegar esta facultad en los Subgobernadores;
 
-IX. Proponer a la Dirección General los programas de actualización y superación académica, realizados en conjunto con el Departamento de Desarrollo Académico y vigilar su aplicación y resultado;
+VII. Constituir consejos regionales;
 
-X. Proponer el otorgamiento de estímulos al personal académico y de investigación con desempeño sobresaliente o con aportaciones académicas importantes;
+VIII. Acordar el establecimiento, cambio y clausura de sucursales;
 
-XI. Sugerir la realización de actos de superación y actualización profesional para el personal docente;
+IX. Designar a los Subgobernadores que deban desempeñar cargos o comisiones en representación del Banco;
 
-XII. Participar en las reuniones que convoque la Dirección para discutir, revisar, analizar y tratar planes y actividades relacionadas con el área académica;
+X. Designar y remover a los apoderados y delegados fiduciarios;
 
-XIII. Elaborar propuestas, planes y programas de estudio y difundir los resultados;
+XI. Nombrar y remover al personal del Banco, excepto el referido en la fracción XIX del artículo 46, y
 
-XIV. Operar y participar en las funciones y responsabilidades designadas por la Dirección General, correspondientes al Sistemas de Gestión Integral implementado; y
+XII. Fijar, conforme a los tabuladores aprobados por la Junta de Gobierno, los sueldos del personal y aprobar los programas que deban aplicarse para su capacitación y adiestramiento.
 
-XV. Las demás disposiciones jurídicas y administrativas aplicables
+###### ARTICULO 48.
 
-###### Artículo 43.
+Los consejos regionales previstos en la fracción VII del artículo 47, tendrán únicamente funciones de consulta, así como de obtención y difusión de información de carácter general en materia económica y, particularmente, financiera.
 
-Para el mejor funcionamiento de la Dirección Académica, cuenta con las áreas administrativas siguientes:
+###### ARTICULO 49.
 
-I. Subdirección Académica:
+La remuneración del Gobernador del Banco, así como la de los Subgobernadores, las determinará un comité integrado por el Presidente de la Comisión Nacional Bancaria y por dos personas nombradas por el Secretario de Hacienda y Crédito Público, cuya designación no produzca conflicto de intereses y que sean de reconocida experiencia en el mercado laboral en el que participan las instituciones de crédito públicas y privadas, así como las autoridades reguladoras de éstas.
 
-a) División de Sistemas;
+El comité sesionará por lo menos una vez al año, y tomará sus resoluciones por el voto favorable de la mayoría de sus miembros, los cuales no tendrán suplentes. Para adoptar sus resoluciones, el comité deberá considerar las remuneraciones existentes en el Banco y la evolución de las remuneraciones en el sistema financiero del país, teniendo como criterio rector que, dadas las condiciones del referido mercado laboral, la Junta de Gobierno cuente con miembros idóneos y el Banco pueda contratar y conservar personal debidamente calificado.
 
-b) División de Informática;
+###### ARTICULO 50.
 
-c) División de Industrial;
+El Secretario de Hacienda y Crédito Público solicitará a un colegio o instituto de contadores ampliamente representativo de la profesión, le proponga una terna de firmas de reconocido prestigio, entre las cuales designará al auditor externo del Banco con la aprobación de la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, y contratará sus servicios por cuenta del Banco. La contratación del auditor externo no podrá hacerse por periodos mayores de cinco años.
 
-d) División de Electrónica;
+El auditor tendrá las más amplias facultades para examinar y dictaminar los estados financieros del Banco, así como para revisar la contabilidad y demás documentación relacionada con ésta, debiendo enviar al Ejecutivo Federal y al Congreso de la Unión copia de los dictámenes que presente a la Junta de Gobierno, y un informe sobre el ejercicio del presupuesto de gasto corriente e inversión física.
 
-e) División de Arquitectura;
+### CAPITULO VII. De las Disposiciones Generales
 
-f) División de Ingeniería de Gestión Empresarial;
+###### ARTICULO 51.
 
-g) División de Logística;
+El Banco enviará al Ejecutivo Federal y al Congreso de la Unión y, en los recesos de este último, a su Comisión Permanente, lo siguiente:
 
-h) División de Ambiental;
+I. En enero de cada año, una exposición sobre la política monetaria a seguir por la Institución en el ejercicio respectivo, así como un informe sobre el presupuesto de gasto corriente e inversión física de la Institución, correspondiente a dicho ejercicio;
 
-i) División de Desarrollo Académico;
+II. En septiembre de cada año, un informe sobre la ejecución de la política monetaria durante el primer semestre del ejercicio de que se trate, y
 
-j) Departamento de Orientación Educativa; y
+III. En abril de cada año, un informe sobre la ejecución de la política monetaria durante el segundo semestre del ejercicio inmediato anterior y, en general, sobre las actividades del Banco en el conjunto de dicho ejercicio, en el contexto de la situación económica nacional e internacional.
 
-k) Unidad de Idiomas;
+###### ARTICULO 52.
 
-II. Subdirección de Investigación y Postgrado:
+Cualquiera de las Cámaras del Congreso de la Unión podrá citar al Gobernador del Banco para que rinda informes sobre las políticas y actividades de la Institución.
 
-a) Departamento de Investigación y Posgrado.
+###### ARTICULO 53.
 
-###### Artículo 44.
+El Banco de México deberá, siempre que sea posible, preservar el valor real de la suma de su capital más sus reservas e incrementar dicho valor conforme aumente el producto interno bruto en términos reales. El Banco de México sólo podrá constituir reservas en adición a lo que dispone este artículo, cuando resulten de la revaluación de activos o así lo acuerde con la Secretaría de Hacienda y Crédito Público.
 
-La Subdirección Académica coordinará las actividades de los departamentos de Jefaturas de División de cada una de las carreras y tiene las siguientes funciones:
+###### ARTICULO 54.
 
-I. Supervisar la programación semestral y las actividades de los departamentos a su cargo;
+El ejercicio financiero del Banco se iniciará el primero de enero y terminará el treinta y uno de diciembre de cada año, la Institución estará obligada a publicar el balance general de fin de ejercicio, así como un estado de cuentas consolidado al día último de cada mes.
 
-II. Revisar el calendario de actividades, previas a cada semestre;
+###### ARTICULO 55.
 
-III. Verificar la utilización de los laboratorios y talleres;
+El Banco será Institución sin propósito de lucro y deberá entregar al Gobierno Federal el importe íntegro de su remanente de operación una vez constituidas las reservas previstas en esta Ley, siempre que ello no implique la reducción de reservas provenientes de la revaluación de activos. Dicha entrega se efectuará a más tardar en el mes de abril del ejercicio inmediato siguiente al que corresponda el remanente.
 
-IV. Proponer planes de desarrollo institucional, dirigidos hacia la excelencia académica a mediano plazo;
+###### ARTICULO 56.
 
-V. Presentar a la comunidad tecnológica, la realización de actos académicos, culturales, deportivos, de divulgación científica y tecnológica; y
+Los billetes y las monedas metálicas que el Banco de México ponga en circulación deberán quedar registrados como pasivos en el balance de la Institución a su valor nominal. En tanto dichas piezas no sean puestas en circulación figurarán en el activo del Banco a su costo de fabricación o a su valor de adquisición, según corresponda, debiendo ajustarse los importes respectivos conforme evolucione el costo de reponer las piezas referidas. Al ser puestas en circulación por primera vez se darán de baja en el activo con cargo a resultados. El Banco registrará en su activo con abono a resultados, el importe obtenible de la enajenación del metal de las monedas que retire de la circulación.
 
-VI. Las demás disposiciones jurídicas y administrativas aplicables.
+Las monedas señaladas en el inciso c) del artículo 2o. de la Ley Monetaria de los Estados Unidos Mexicanos que no estén destinadas a fungir como medios generales de pago, y las del artículo 2o. bis de dicha Ley, serán contabilizadas en los términos que acuerde la Junta de Gobierno.
 
-###### Artículo 45.
+###### ARTICULO 57.
 
-La Subdirección de Investigación y Posgrado tiene por objeto generar en la comunidad docente y estudiantil proyectos de investigación que generen beneficios académicos y económicos al Instituto y a la comunidad.
+Las operaciones a que se refiere la fracción XII del artículo 46 se llevarán a cabo a través de licitaciones públicas, excepto en los casos siguientes:
 
-###### Artículo 46.
+I. Cuando se trate de adquisiciones de alimentos u otros bienes perecederos;
 
-La Subdirección de Investigación y Posgrado, tiene las funciones siguientes:
+II. De no existir por lo menos tres proveedores o postores idóneos;
 
-I. Analizar y aprobar las líneas de Investigación;
+III. Cuando se dé por terminado anticipadamente un contrato o se rescinda;
 
-II. Generar en la comunidad docente y estudiantil, proyectos de investigación que generen beneficios académicos y económicos al Instituto y a la comunidad;
+IV. Cuando el importe del contrato no rebase los montos equivalentes a:
 
-III. Autorizar convocatorias de líneas de proyectos;
+a) Sesenta veces el salario mínimo general diario vigente en el Distrito Federal elevado al año, tratándose de adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles;
 
-IV. Evaluar convocatorias por instituciones estatales y nacionales para participar con proyectos de Investigación;
+b) Noventa veces el salario mínimo general diario vigente en el Distrito Federal elevado al año, en el caso de obra inmobiliaria, y
 
-V. Evaluar la efectividad de la sensibilización y seguimiento de proyectos de los alumnos y docentes;
+c) Diez veces el salario mínimo general diario vigente en el Distrito Federal elevado al año, conforme avalúo realizado por persona capacitada legalmente para ello, cuando se trate de enajenación de bienes muebles;
 
-VI. Suscribir convenios con instituciones para apertura de Posgrados;
+V. Tratándose de casos fortuitos o de fuerza mayor;
 
-VII. Autorizar asesores y revisores responsables de proyectos de investigación elaborados por los alumnos;
+VI. Cuando existan trabajos o servicios de conservación, mantenimiento, restauración, reparación y demolición en los que no sea posible precisar su alcance, establecer el catálogo de conceptos y cantidades de trabajo, determinar las especificaciones correspondientes o elaborar el programa de ejecución;
 
-VIII. Participar en las funciones y responsabilidades designadas por la Dirección General, correspondientes a los sistemas de gestión implementados;
+VII. Tratándose de la adquisición o de la enajenación de bienes inmuebles, así como de los servicios relacionados con la obra inmobiliaria;
 
-IX. Participar en la actualización de los programas de posgrado; y
+VIII. De existir circunstancias que puedan provocar trastornos graves, pérdidas o costos adicionales importantes para el Banco;
 
-X. Las demás disposiciones jurídicas y administrativas aplicables.
+IX. Después de haber realizado dos licitaciones sin que hubiese sido posible adjudicar el contrato correspondiente, o
 
-###### Artículo 47.
+X. Cuando se trate de adquisiciones de insumos que el Banco requiera para la fabricación de billetes o adquiera para la de moneda metálica.
 
-La Dirección de Vinculación tiene las funciones siguientes:
+###### ARTICULO 58.
 
-I. Gestionar la vinculación con las empresas del Municipio y del Estado;
+Al Banco de México, a los miembros de su Junta de Gobierno, así como a los funcionarios y empleados de la Institución, les serán aplicables las disposiciones relativas al secreto bancario y al fiduciario previstas en ley.
 
-II. Programar las estadías de los estudiantes en su Servicio Social y Residencia;
+###### ARTICULO 59.
 
-III. Revisar las actividades del Centro Empresarial de Desarrollo;
+Son trabajadores de confianza del Banco de México:
 
-IV. Realizar las actividades referentes a la promoción y difusión de la Institución;
+I. El personal que ocupe puestos de subgerente o superior, los trabajadores de rango equivalente al de los anteriores y los empleados adscritos de manera personal y directa a la Junta de Gobierno y a los miembros de ésta; los asesores y personal secretarial de los funcionarios antes mencionados; los jefes de división y de oficina; el personal de seguridad; los pilotos, copilotos e ingenieros de vuelo; el personal técnico adscrito a las áreas de cambios, metales, inversiones, valores e informática; los operadores y contraseñadores de telecomunicaciones por las que se transmitan escritos, así como el personal técnico que maneje información confidencial, y
 
-V. Elaborar los informes de seguimiento de indicadores Institucionales;
+II. Los señalados en la Ley Reglamentaria de la fracción XIII BIS del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, que no estén comprendidos en la fracción anterior.
 
-VI. Participar en reuniones convocadas por la Dirección General;
+El Gobernador y los Subgobernadores del Banco no formarán parte del personal de la Institución.
 
-VII. Dar seguimiento y cumplimiento a los procedimientos del Comité de Gestión Integral; y
+###### ARTICULO 60.
 
-VIII. Las demás disposiciones jurídicas y administrativas aplicables.
+El personal que ocupe puestos de subgerente o superior y los trabajadores de rango equivalente al de los anteriores, no podrán tener empleo, cargo o comisión, en la Administración Pública Federal, con excepción de aquéllos en que actúen en representación del Banco o en asociaciones docentes, científicas, culturales o de beneficencia.
 
-###### Artículo 48.
+###### ARTICULO 61.
 
-Para el mejor funcionamiento de la Dirección de Vinculación, cuenta con las áreas administrativas siguientes:
+La Ley Federal de Responsabilidades de los Servidores Públicos, será aplicable a los miembros de la Junta de Gobierno y al personal del Banco, con sujeción a lo siguiente:
 
-I. Subdirección de Planeación:
+I. La aplicación de dicha Ley y el proveer a su estricta observancia, salvo en lo tocante al Juicio Político al que podrán ser sujetos los integrantes de la Junta de Gobierno, competerán a una Comisión de Responsabilidades integrada por el miembro de la Junta de Gobierno que ésta designe y por los titulares de las áreas jurídica y de contraloría del Banco.
 
-a) Departamento de Planeación, Programación y Presupuesto;
+Tratándose de infracciones cometidas por miembros de la Junta de Gobierno o por funcionarios que ocupen puestos comprendidos en los tres niveles más altos del personal, será la Junta de Gobierno quien determine la responsabilidad que resulte e imponga la sanción correspondiente, a cuyo efecto la Comisión de Responsabilidades le turnará el expediente respectivo, y
 
-b) Departamento de Centro de Computo;
+II. Las personas sujetas a presentar declaración de situación patrimonial, serán los miembros de la Junta de Gobierno y quienes ocupen en la Institución puestos de subgerente o superior, así como aquéllas que por la naturaleza de sus funciones se señalen en el Reglamento Interior. Esta declaración deberá presentarse ante la contraloría del Banco, quien llevará el registro y seguimiento de la evolución de la mencionada situación patrimonial, informando a la Comisión de Responsabilidades o a la Junta de Gobierno, según corresponda, las observaciones que, en su caso, resulten de dicho seguimiento.
 
-c) Departamento de Servicios Escolares;
+Contra las resoluciones a que se refiere este artículo no procederá medio de defensa alguno ante el Tribunal Fiscal de la Federación.
 
-d) Departamento de Centro de Información;
+###### ARTICULO 62.
 
-e) Departamento de Actividades Extraescolares;
+El Banco de México podrá:
 
-II. Subdirección de Vinculación y Extensión:
+I. En coordinación con las demás autoridades competentes, elaborar, compilar y publicar estadísticas económicas y financieras, así como operar sistemas de información basados en ellas y recabar los datos necesarios para esos efectos;
 
-a) Departamento de Gestión Tecnológica y Vinculación;
+II. Llevar a cabo, directamente o a través de terceros, la comercialización de monedas conmemorativas, así como de los billetes y las monedas metálicas, que tengan empaque o acabado especial;
 
-b) Departamento de Centro de Innovación y Desarrollo Empresarial;
+III. Utilizar los recursos de que disponga, en la fabricación de bienes para terceros y en la prestación de servicios a éstos, siempre que ello no afecte el adecuado desempeño de sus funciones, y
 
-c) Departamento de Educación Continua; y
+IV. Adquirir o arrendar los bienes muebles y contratar los servicios y la obra inmobiliaria, necesarios o convenientes para su adecuada operación y funcionamiento, así como enajenar aquellos bienes muebles que dejaren de ser útiles para tales efectos.
 
-d) Departamento de Imagen Institucional, Comunicación y Difusión.
+###### ARTICULO 63.
 
-###### Artículo 49.
+Queda prohibido al Banco de México:
 
-La Subdirección de Planeación tiene como objetivo detectar y analizar las necesidades de servicio que la Institución requiera de acuerdo a la organización interna aprobada y al presupuesto de gastos respectivo autorizado.
+I. Otorgar garantías;
 
-###### Artículo 50.
+II. Adquirir o arrendar inmuebles que no requiera para el desempeño de sus funciones. Cuando fuere necesario que el Banco reciba o se adjudique inmuebles o derechos reales en pago de sus créditos, así como cuando dejen de serle necesarios aquéllos de que sea propietario, estará obligado a realizarlos dentro de un plazo máximo de tres años, y
 
-La Subdirección de Planeación tiene las siguientes funciones:
+III. Adquirir títulos representativos del capital de sociedades, salvo que se trate de empresas que le presten servicios necesarios o convenientes a la realización de sus funciones.
 
-I. Planear, programar, organizar y evaluar el desempeño de las funciones encomendadas a la unidad orgánica a su cargo;
+No serán aplicables al Banco las prohibiciones y limitaciones establecidas en esta Ley, cuando actúe en cumplimiento de sus obligaciones de carácter laboral o de las que adquiera con los miembros de su Junta de Gobierno como contraprestación por los servicios que le presten, pudiendo en esos casos realizar las operaciones y constituir las reservas necesarias o convenientes para dicho cumplimiento.
 
-II. Formular los dictámenes, opiniones e informes que les sean solicitados por el Director que corresponda o el Director General;
+###### ARTICULO 64.
 
-III. Tramitar los asuntos encomendados al área;
+Contra las resoluciones previstas en los artículos 27, 29 y 33, procederá el recurso de reconsideración, el cual deberá interponerse ante la unidad administrativa que se determine en el Reglamento Interior del Banco, dentro de los quince días hábiles siguientes a la fecha de notificación de tales resoluciones.
 
-IV. Coordinar sus actividades con las demás áreas administrativas del Instituto, para el mejor desempeño de sus funciones;
+El recurso tendrá por objeto revocar, modificar o confirmar la resolución reclamada. En el escrito de interposición se deberá señalar el nombre y domicilio del recurrente, la resolución impugnada y los agravios que se hagan valer, acompañándose con los elementos de prueba que se consideren necesarios, así como con las constancias que acrediten la personalidad del promovente.
 
-V. Brindar apoyo en la organización de los diferentes actos Institucionales;
+A las notificaciones, trámite y resolución del recurso, les serán aplicables supletoriamente las disposiciones contenidas en los artículos 130, 132, 134, 135, 136 tercer párrafo, 137, 139 y 140 del Código Fiscal de la Federación y las disposiciones reglamentarias aplicables a estos preceptos.
 
-VI. Generar estudios de factibilidad para apertura o cancelación de nuevas carreras; y
+###### ARTICULO 65.
 
-VII. Las demás disposiciones jurídicas y administrativas aplicables.
+El recurso de reconsideración deberá resolverse dentro de un plazo máximo de veinte días hábiles contado a partir de la fecha de su presentación, de no ser así, se considerará confirmado el acto impugnado. El recurso será de agotamiento obligatorio antes de acudir a la vía de amparo.
 
-### CAPÍTULO VII. De la Subdirección Administrativa
+Cuando el escrito antes mencionado no señale los agravios o el acto reclamado, será desechado por improcedente. Si se omitieron las pruebas, se tendrán por no ofrecidas.
 
-###### Artículo 51.
+La resolución del recurso contendrá la fijación del acto impugnado, los fundamentos legales en que se apoye y los puntos de resolución.
 
-La Subdirección de Vinculación y Extensión tiene el objetivo establecer (sic) la vinculación con los sectores productivos, educativos y de gobierno a fin de facilitar la prestación del Servicio Social y Estadía de los alumnos para su desarrollo profesional.
+Contra las resoluciones a que se refiere este artículo no procederá medio de defensa alguno ante el Tribunal Fiscal de la Federación.
 
-###### Artículo 52.
+###### ARTICULO 66.
 
-Son funciones de la Subdirección de Vinculación y Extensión, las siguientes:
+Las resoluciones previstas en el primer párrafo del artículo 64 se ejecutarán:
 
-I. Ofrecer cursos de capacitación, actualización y adiestramiento a los diferentes sectores de la sociedad que permitan a la sociedad que el Instituto sea reconocido como alternativa de educación continua;
+I. Cuando no se interponga recurso de reconsideración dentro del plazo señalado en el artículo 64;
 
-II. Suscribir acuerdos y convenios de colaboración y de vinculación con los sectores público, social, privado y educativo para colaboración mutua;
+II. Si el afectado no acredita, dentro de los veinte días hábiles siguientes a aquél en que se notifique la resolución correspondiente, que ha presentado demanda de amparo contra dicha resolución;
 
-III. Coordinar las actividades del centro empresarial de desarrollo;
+III. Si en el juicio de amparo se niega la suspensión del acto reclamado, o
 
-IV. Organizar las actividades referentes a la promoción y difusión de la Institución;
+IV. De haberse concedido la suspensión en el juicio de amparo, hasta que se dicte sentencia firme en contra del quejoso.
 
-V. Rendir informes de seguimiento de indicadores y metas institucionales;
+###### ARTICULO 67.
 
-VI. Dar seguimiento y cumplimiento a los procedimientos del Comité de Gestión Integral;
+El procedimiento administrativo de ejecución para el cobro de las multas que no hubieren sido cubiertas oportunamente al Banco de México, se aplicará por la Secretaría de Hacienda y Crédito Público o por el propio Banco a través de la unidad administrativa que señale su Reglamento Interior.
 
-VII. Operar en las funciones y responsabilidades designadas por la Dirección General;
+La unidad señalada en el párrafo anterior, aplicará las normas previstas en el Código Fiscal de la Federación para el procedimiento administrativo de ejecución. En el mencionado Reglamento Interior se indicarán las oficinas que deban conocer y resolver los recursos previstos en el citado Código, relativos a ese procedimiento.
 
-VIII. Coordinar con el Departamento de Servicios Escolares, el servicio social y la residencia de los alumnos; y
+Si el Banco Central llevare cuenta al infractor, no será necesario aplicar el procedimiento administrativo de ejecución, pudiendo hacerse efectiva la multa cargando su importe a dicha cuenta.
 
-IX. Las demás disposiciones jurídicas y administrativas aplicables.
+###### ARTICULO 68.
 
-###### Artículo 53.
+La Ley de Instituciones de Crédito, la legislación mercantil, los usos bancarios y mercantiles y el Código Civil para el Distrito Federal, en Materia Común, y para toda la República en Materia Federal, se aplicarán a las operaciones del Banco, supletoriamente a la presente Ley y en el orden en que están mencionados.
 
-La Subdirección Administrativa, tiene como objetivo coordinar, supervisar y evaluar la correcta aplicación de cada uno de los procedimientos de los departamentos que conforman el área administrativa.
+## TRANSITORIOS
 
-###### Artículo 54.
+PRIMERO.- Esta Ley entrará en vigor el 1o. de abril de 1994, con excepción del segundo párrafo de este artículo y de los artículos tercero y décimo tercero transitorios, los cuales iniciarán su vigencia al día siguiente de la publicación de la Ley en el Diario Oficial de la Federación.
 
-Son funciones de la Subdirección Administrativa, las siguientes:
+La designación de los primeros integrantes de la Junta de Gobierno será hecha en los términos previstos en la presente Ley, con anterioridad al 31 de marzo de 1994.
 
-I. Supervisar la correcta observancia de la normatividad vigente que aplica al Instituto como organismo descentralizado;
+SEGUNDO.- El periodo del primer Gobernador del Banco vencerá el 31 de diciembre de 1997. Los periodos de los primeros Subgobernadores vencerán los días 31 de diciembre de 1994, 1996, 1998 y 2000, respectivamente, debiendo el Ejecutivo Federal señalar cuál de los periodos citados corresponderá a cada Subgobernador.
 
-II. Dar seguimiento a las solicitudes de los departamentos y de las indicaciones de la Dirección General;
+TERCERO.- Las remuneraciones del Gobernador y de los Subgobernadores a que se refiere el artículo inmediato anterior, correspondientes al primer ejercicio financiero del Banco, serán determinadas de conformidad con lo dispuesto en el artículo 49 de la presente Ley, con anterioridad a que se efectúe la designación de los primeros integrantes de la Junta de Gobierno.
 
-III. Supervisar el funcionamiento del área de caja y brindar mejorar al servicio; (sic)
+CUARTO.- Las instrucciones del Tesorero de la Federación al Banco, en términos de la fracción I del artículo 12, no tendrán que efectuarse con la antelación señalada en la propia fracción I de dicho artículo, durante un plazo de tres años contado a partir de la entrada en vigor de la presente Ley. En el transcurso de ese mismo plazo, el Tesorero de la Federación podrá seguir librando los cheques y demás documentos a que se refiere la fracción III del referido artículo.
 
-IV. Acudir a las comisiones asignadas;
+QUINTO.- El Banco de México, organismo descentralizado del Gobierno Federal, se transforma en la nueva persona de derecho público a que se refiere esta Ley y conserva la titularidad de todos los bienes, derechos y obligaciones integrantes del patrimonio del primero.
 
-V. Elaborar el Programa Operativo Anual (POA) y darle seguimiento;
+SEXTO.- El Reglamento Interior del Banco de México deberá expedirse en un plazo no mayor de seis meses, contado a partir del día en que quede legalmente instalada la Junta de Gobierno. Hasta en tanto se expida dicho Reglamento continuará en vigor el publicado en el Diario Oficial de la Federación el 4 de julio de 1985, y el recurso previsto en el artículo 64 se presentará ante la Gerencia Jurídica del Banco de México.
 
-VI. Revisar los informes financieros y dar seguimiento a las metas del Programa Institucional de Desarrollo;
+Cuando en el Reglamento actualmente vigente o en cualquier otro instrumento jurídico se haga referencia al Director General del Banco, se entenderá hecha al Gobernador del Banco en el ámbito de las atribuciones que le confiere la presente Ley.
 
-VII. Supervisar el mantenimiento preventivo de las instalaciones del Instituto;
+SEPTIMO.- Los poderes, mandatos, designaciones de delegados fiduciarios y en general las representaciones otorgadas y las facultades concedidas por el Banco de México con anterioridad a la entrada en vigor de la presente Ley, subsistirán en sus términos en tanto no sean modificados o revocados expresamente.
 
-VIII. Verificar el estado del inventario de bienes e inmuebles de la Institución;
+OCTAVO.- Las monedas metálicas actualmente en circulación pasarán a formar parte del pasivo en el balance de la Institución, aplicando el régimen previsto en el artículo 56.
 
-IX. Coordinar el proceso de entrega recepción; y
+Los fondos del Gobierno Federal depositados en el Banco de México derivados de la diferencia entre el valor facial de las monedas entregadas por la Casa de Moneda al propio Banco hasta el día inmediato anterior al que entre en vigor la presente Ley y los costos en que se haya incurrido en su producción, quedarán a favor de este último.
 
-X. Las demás disposiciones jurídicas y administrativas aplicables.
+NOVENO.- El Banco de México podrá poner en circulación en cualquier tiempo los billetes con fecha de emisión anterior a la entrada en vigor de la presente Ley.
 
-###### Artículo 55.
+DECIMO.- El Banco podrá seguir desempeñando el cargo de fiduciario en los fideicomisos que actualmente maneja, que no estén previstos en el artículo 7o. fracción XI, pudiendo recibir de dichos fideicomisos depósitos bancarios de dinero.
 
-Para el mejor funcionamiento de la Subdirección Administrativa, cuenta con las áreas administrativas siguientes:
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
-I. Departamento de Recursos Humanos;
+Los créditos que el Banco de México haya otorgado con anterioridad a la fecha de entrada en vigor de la presente Ley a los fideicomisos públicos de fomento económico que administra, podrán mantenerse hasta su vencimiento e incluso renovarse una o más veces por un plazo conjunto no mayor de veinte años.
 
-II. Departamento de Recursos Financieros;
+En caso de fideicomisos distintos de los señalados en el segundo párrafo de este artículo, el Banco quedará facultado para renunciar a la encomienda fiduciaria cuando así lo estime conveniente. En estos casos el fiduciario sustituto será designado por las personas que a continuación se señalan, en el orden en que están mencionadas: las facultadas para ello de conformidad con el acto jurídico que rija al fideicomiso; el o los fideicomitentes; el o los fideicomisarios, individualizados, o, a falta de las anteriores, el propio Banco de México. En tanto el Banco continúe siendo fiduciario en estos fideicomisos podrá concederles financiamiento con carácter extraordinario para evitar eventuales incumplimientos de sus obligaciones.
 
-III. Departamento de Servicios Generales; y
+DECIMO PRIMERO.- En tanto el Banco de México expide las disposiciones a que se refiere esta Ley, seguirán aplicándose las emitidas con anterioridad a su vigencia, en las materias correspondientes. Las medidas administrativas dictadas con fundamento en disposiciones que por esta Ley se derogan, continuarán en vigor hasta que no sean revocadas o modificadas por las autoridades competentes.
 
-IV. Departamento de Compras e Inventarios.
+DECIMO SEGUNDO.- A los intermediarios financieros que hayan realizado operaciones con anterioridad a la entrada en vigor de la presente Ley, en contravención a las disposiciones que por ésta se derogan, les serán aplicables las disposiciones vigentes al momento en que se hayan realizado tales operaciones.
 
-### CAPÍTULO VIII. De los Alumnos
+DECIMO TERCERO.- El último ejercicio financiero del Banco de México, organismo descentralizado del Gobierno Federal, comenzará el 1o. de enero de 1994 y terminará el 31 de marzo de 1994. Durante dicho ejercicio la Institución no quedará sujeta a lo dispuesto por el artículo 7o. de la Ley Orgánica del Banco de México.
 
-###### Artículo 56.
+El primer ejercicio financiero del Banco de México que regula esta Ley se iniciará el 1o. de abril de 1994 y terminará el 31 de diciembre de 1994.
 
-En el Instituto la calidad de alumno se adquiere cumpliendo con los procedimientos y requisitos de ingreso que establezca el Instituto y que sean admitidos a cualquiera de los programas, cursos y niveles que se impartan, con los derechos y obligaciones fundados en las disposiciones que para tal efecto se expidan.
+El remanente de operación del Banco de México correspondiente al ejercicio a que se refiere el párrafo primero de este artículo, deberá entregarse al Gobierno Federal a más tardar en el mes de abril de 1995.
 
-###### Artículo 57.
+DECIMO CUARTO.- El Banco de México enviará al Ejecutivo Federal y al Congreso de la Unión o, en su caso, a su Comisión Permanente, los documentos a que se refiere la fracción I del artículo 51 que correspondan al primer ejercicio de la Institución, dentro del mes inmediato siguiente a aquél en que entre en vigor la presente Ley, así como un informe sobre la evolución del financiamiento interno del Banco de México y del comportamiento de la cuenta de la Tesorería de la Federación que el propio Banco le lleva al Gobierno Federal, durante los meses de enero a marzo de 1994.
 
-Todo alumno estará obligado a cumplir con las responsabilidades que le impongan el presente Estatuto y los Reglamentos que de él emanen y los acuerdos de la Junta de Gobierno. De igual manera, estarán obligados a respetar y cumplir las disposiciones que rigen la vida académica.
+Respecto del primer ejercicio de la Institución, el Banco no estará obligado a entregar el informe a que se refiere la fracción II del artículo 51.
 
-###### Artículo 58.
+DECIMO QUINTO.- A partir de la entrada en vigor de la presente Ley y hasta en tanto el valor real total del capital más las reservas de la Institución sea superior al veinte por ciento del total de los billetes y monedas en circulación más las obligaciones de la Institución a favor de entidades financieras y del Gobierno Federal, excepto los depósitos a que se refiere la fracción I del artículo 9o., dicho valor total no será incrementado conforme al crecimiento del producto interno bruto en los términos del artículo 53. Durante el lapso referido, el Gobierno Federal y el Banco podrán acordar reducciones al citado valor real total, siempre que ellas no impliquen disminuir dicho valor a una cantidad que represente un porcentaje inferior al mencionado ni tampoco tengan por consecuencia expansión monetaria.
 
-Los alumnos se organizarán en la forma que ellos determinen, de manera democrática.
+DECIMO SEXTO.- Los depósitos a que se refiere el artículo 132 de la Ley General de Títulos y Operaciones de Crédito deberán constituirse en Nacional Financiera, S.N.C. Aquéllos recibidos por el Banco de México con anterioridad al inicio de vigencia de esta Ley serán conservados y entregados por éste de conformidad con las disposiciones aplicables.
 
-### CAPÍTULO IX. De las Suplencias
+DECIMO SEPTIMO.- Cuando las leyes, reglamentos, decretos, acuerdos u otros ordenamientos jurídicos hagan mención a la Ley Orgánica del Banco de México, o a este último, la referencia se entenderá hecha a la presente Ley y a la Institución que ésta regula, respectivamente.
 
-###### Artículo 59.
+DECIMO OCTAVO.- Se abroga la Ley Orgánica del Banco de México del 21 de diciembre de 1984.
 
-El Director General será suplido en sus ausencias mayores de 15 días, por la persona de la jerarquía inmediata inferior del Instituto que designe el Presidente de la Junta de Gobierno.
+Se derogan los artículos 31 fracción IV de la Ley Orgánica de la Administración Pública Federal, 13, párrafos primero y segundo de la Ley Monetaria de los Estados Unidos Mexicanos, 48, párrafo segundo y décimo segundo transitorio de la Ley de Instituciones de Crédito, 24 de la Ley Orgánica del Patronato del Ahorro Nacional y las demás disposiciones que se opongan a la presente Ley.
 
-###### Artículo 60.
+Se deja sin efecto, en lo referente al Banco de México, lo previsto en la fracción VII del artículo 31 de la Ley Orgánica de la Administración Pública Federal, en los artículos 1o., 8o. y 14 de la Ley que crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, así como en los artículos 1o., 2o., 8o., y 21, fracción IV, del reglamento de dicha Ley.
 
-Los Subdirectores serán suplidos en sus ausencias mayores de 15 días por el servidor público de la jerarquía inmediata inferior que designe el Director General.
+México, D.F., a 14 de diciembre de 1993.- Dip. Cuauhtémoc López Sánchez, Presidente.- Sen. Eduardo Robledo Rincón, Presidente.- Dip. Sergio González Santa Cruz, Secretario.- Sen. Israel Soberanis Nogueda, Secretario.- Rúbricas".
 
-###### Artículo 61.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 
-Los Jefes de División y Departamento serán suplidos en sus ausencias mayores de 15 días, por la persona de la jerarquía inmediata inferior que designe el Director General.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-### CAPÍTULO X. Del Órgano de Vigilancia
+D.O.F. 17 DE NOVIEMBRE DE 1995.
 
-###### Artículo 62.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-Las funciones del Comisario Público, están establecidas en la Ley Orgánica de la Administración Pública de la Entidad, la Ley de las Entidades Públicas Paraestatales y el Reglamento Interior de la Secretaría de la Función Pública.
+SEGUNDO.- Lo dispuesto en el artículo 118-A de la Ley de Instituciones de Crédito se aplicará a los modelos de contratos de adhesión que sirvan de base para la celebración de contratos a partir del inicio de la vigencia del presente Decreto.
 
-### CAPÍTULO XI. De las Modificaciones al Estatuto
+TERCERO.- Las instituciones de crédito deberán establecer las unidades especializadas a que se refiere el artículo 118-B de la Ley de Instituciones de Crédito, en un plazo máximo de noventa días contado a partir del inicio de la vigencia del presente Decreto.
 
-###### Artículo 63.
+CUARTO.- Las reclamaciones presentadas por los usuarios del servicio de banca y crédito ante la Comisión Nacional Bancaria y de Valores, con anterioridad al inicio de la vigencia del presente Decreto, continuarán su trámite hasta su conclusión en los términos establecidos por los artículos 119 y 120 de la Ley de Instituciones de Crédito, que se encontraban vigentes al momento de su presentación.
 
-Será facultad exclusiva de la Junta de Gobierno, reformar o adicionar el presente Estatuto a propuesta del Director General.
+QUINTO.- Lo establecido en los artículos segundo y tercero transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley para Regular las Agrupaciones Financieras, Ley de Instituciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley del Mercado de Valores, Ley de Sociedades de Inversión, Ley General de Instituciones y Sociedades Mutualistas de Seguros y Ley Federal de Instituciones de Fianzas, publicado en el Diario Oficial de la Federación el 23 de diciembre de 1993, no es aplicable a las sociedades financieras de objeto limitado, arrendadoras financieras, empresas de factoraje financiero e instituciones de seguros, filiales, que resulten de las adquisiciones que sean autorizadas por la Secretaría de Hacienda y Crédito Público.
 
-###### Artículo 64.
+SEXTO.- Las sociedades financieras de objeto limitado, organizaciones auxiliares del crédito, casas de cambio, instituciones de seguros e instituciones de fianzas, deberán efectuar, en su caso, los actos corporativos necesarios para ajustar sus estatutos a lo dispuesto por el presente Decreto, dentro de un plazo máximo de ciento veinte días contado a partir del inicio de la vigencia del mismo.
 
-Para reformar o adicionar este ordenamiento deberán satisfacerse los siguientes requisitos:
+SEPTIMO.- Se abroga la Ley sobre el Servicio de Vigilancia de Fondos y Valores de la Federación, publicada en el Diario Oficial de la Federación de fecha 31 de diciembre de 1959; sin embargo, seguirá siendo aplicable en lo referente a las infracciones y faltas que se hubiesen cometido durante la vigencia del referido ordenamiento.
 
-I. Que dichas reformas o adiciones se enfoquen al eficiente funcionamiento del Instituto; y
+OCTAVO.- Las disposiciones del Reglamento de la Ley sobre el Servicio de Vigilancia de Fondos y Valores de la Federación, continuarán vigentes en tanto no se reforme, en lo conducente, el Reglamento de la Ley del Servicio de Tesorería de la Federación.
 
-II. Las reformas o adiciones deberán ser aprobadas, cuando menos, por el voto de la mitad más uno del total de miembros que integran la Junta de Gobierno.
-
-T R A N S I T O R I O S
-
-Primero.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
-
-Segundo.- Dentro del término de 30 días naturales se expedirá el Manual de Organización y 180 días naturales para el Manual de Procedimientos, contados a partir de la entrada en vigor del presente Estatuto Orgánico.
-
-Tercero.- En lo no previsto en el presente, serán aplicables las disposiciones normativas administrativas existentes que tiendan a cumplir con los fines, objetivos, planes y programas del Instituto.
-
-Cuarto.- Se deroga cualquier disposición administrativa que contravenga el presente Estatuto Orgánico.
-
-APROBADO POR LA JUNTA DE GOBIERNO DEL INSTITUTO TECNOLÓGICO SUPERIOR DE FRESNILLO, MEDIANTE ACUERDO ITSF/XXXIII/-0/3/04122013 EL DÍA 4 DE DICIEMBRE DEL 2013 EN LA CIUDAD DE ZACATECAS, ZACATECAS.- RÚBRICAS.
+NOVENO.- Lo dispuesto por los artículos 25, 26, 27 y 28 de la Ley del Servicio de Tesorería de la Federación, se aplicará a las solicitudes de dación de bienes o servicios en pago que se presenten a partir de la fecha de inicio de la vigencia de este Decreto.
