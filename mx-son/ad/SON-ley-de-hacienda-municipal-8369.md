@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "1994-12-29"
+last_updated: "1996-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -159,11 +159,13 @@ Para los efectos de la presente Ley, los Municipios del Estado se agrupan de la 
 
 GRUPO I.- Aconchi, Arivechi, Arizpe, Bacadéuachi, Bacanora, Bacerac, Bacoachi, Banámichi, Baviácora, Bavispe, Cumpas, Divisaderos, Fronteras, Granados, Huachinera, Huásabas, Huépac, Mazatán, Moctezuma, Naco, Nácori Chico, Onavas, Quiriego, Rayón, Rosario, Sahuaripa, San Felipe de Jesús, San Javier, San Pedro de la Cueva, Soyopa, Tepache, Villa Hidalgo, Villa Pesqueira, Yécora y Santa Cruz.
 
-GRUPO II.- Alamos, Altar, Atil, Bacúm, Benjamín Hill, Carbó, La Colorada, Cucurpe, Imuris, Opodepe, Oquitoa, San Miguel de Horcasitas, Magdalena, Nacozari de García, Saric, Suaqui Grande, Trincheras, Tubutama, Pitiquito, Santa Ana y Ures.
+> <small>(ADICIONADO [N. DE E. REFORMADO] POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE ERIGE EN MUNICIPIO LIBRE A LA COMISARIA DE SAN IGNACIO RIO MUERTO, B.O. 26 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 1989)</small>
+GRUPO II.- Alamos, Altar, Atil, Bacúm, Benjamín Hill, Carbó, La Colorada, Cucurpe, Imuris, San Ignacio Río Muerto, Opodepe, Oquitoa, San Miguel de Horcasitas, Nacozari de García, Saric, Suaqui Grande, Trincheras, Tubutama, Pitiquito, Santa Ana, y Ures.
 
-GRUPO III.- Agua Prieta, Cananea, Empalme, Etchojoa. Gral. Plutarco Elías Calles, Huatabampo, Nogales, Puerto Peñasco y San Luis Río Colorado.
+> <small>(ADICIONADO [N. DE E. REFORMADO] POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE ERIGE EN MUNICIPIO LIBRE A LA COMISARIA DE VILLA JUAREZ, B.O. 26 DE DICIEMBRE DE 1996)</small>
+
+GRUPO III.- Agua Prieta, Cananea, Empalme, Etchojoa. Gral. Plutarco Elías Calles, Huatabampo, Nogales, Puerto Peñasco, San Luis Río Colorado y Benito Juárez.
 
 GRUPO IV.- Caborca, Cajeme, Guaymas, Hermosillo, y Navojoa.
 
@@ -359,7 +361,7 @@ Cuando la situación económica de los contribuyentes sea insuficiente para cubr
 
 ###### ARTICULO 31.
 
-Sólo podrá concederse prórroga o autorización para pagos en parcialidades de crédito fiscales, cuando con la misma no se comprometa su percepción, se garantice debidamente el interés fiscal en los términos de la presente Ley y el plazo no exceda de 24 meses, salvo en los casos que señale la presente Ley.
+Sólo podrá concederse prórroga o autorización para pagos en parcialidades de créditos fiscales, cuando con la misma no se comprometa su percepción, se garantice debidamente el interés fiscal en los términos de la presente Ley y el plazo no exceda de 24 meses, salvo en los casos que señale la presente Ley.
 
 Durante los plazos concedidos se causarán recargos, conforme a la tasa que anualmente fijen las Leyes de Ingresos de los Municipios del Estado.
 
@@ -2028,3 +2030,75 @@ Se prorroga el período de vigencia del Artículo Tercero Transitorio de la Ley 
 ###### ARTICULO SEGUNDO.
 
 La presente Ley entrará en vigor el día primero de Enero de 1995, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 26 DE DICIEMBRE DE 1996.
+
+DECRETO No. 253.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se adicionan los artículos 9º de la Ley Orgánica de Administración Municipal, para incluir el nombre del Municipio de Benito Juárez entre los Municipios de Bavispe y Benjamín Hill; y 13 de la Ley de Hacienda Municipal para incluir al final de la enumeración del grupo III, el nombre de la municipalidad Benito Juárez.
+
+###### ARTICULO TERCERO.
+
+El Congreso del Estado procederá, en la fecha en que entre en vigor la presente Ley, a nombrar un Concejo Municipal, a propuesta del Ciudadano Gobernador del Estado, que fungirá en lo que resta del período constitucional y tendrá la integración y las atribuciones que la Ley establece para los Ayuntamientos.
+
+###### ARTICULO CUARTO.
+
+Para Proveer a la existencia política del Municipio de Benito Juárez, durante el período que medie entre el día en que entre en funciones el Concejo Municipal que designe y el día 31 de diciembre de 1996, el Gobierno del Estado transferirá los recursos correspondientes.
+
+###### ARTICULO QUINTO.
+
+Los bienes muebles e inmuebles del dominio público que actualmente ocupa la Comisaría de Villa Juárez, y los muebles e inmuebles de dominio privado, existentes en su jurisdicción, pertenecientes al Municipio de Etchojoa, pasarán a formar parte del patrimonio del nuevo Municipio que se erige.
+
+###### ARTICULO SEXTO.
+
+Los servidores públicos que actualmente se encuentren laborando en la Comisaría de Villa Juárez, continuarán en sus funciones pasando a formar parte, respetándoseles todos sus derechos laborales, de la nueva Administración, sin perjuicio de las facultades y atribuciones que le corresponden al de gobierno municipal.
+
+###### ARTICULO SEPTIMO.
+
+Con efectos hasta la conclusión del actual período constitucional, la autoridad municipal, procederá de inmediato a convenir lo que corresponda con el Organismo Operador Municipal del Agua Potable y Alcantarillado del Municipio de Etchojoa, Sonora, a fin de asegurar la continuidad en la prestación de los servicios de dicho organismo paramunicipal.
+
+###### ARTICULO OCTAVO.
+
+Las acciones del Concejo Municipal se apegarán, en lo que corresponda y sea factible, al Plan Municipal de Desarrollo del Municipio de Etchojoa y los programas de él derivados.
+
+B.O. 26 DE DICIEMBRE DE 1996.
+
+DECRETO No. 254.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se adicionan los artículos 9o. de la Ley Orgánica de Administración Municipal, para incluir el nombre del Municipio de San Ignacio Río Muerto entre los Municipios de San Javier y San Luis Río Colorado; y 13 de la Ley de Hacienda Municipal para incluir al final de la enumeración del grupo II, el nombre de la municipalidad de San Ignacio Río Muerto, entre los Municipios de Imuris y Opodepe.
+
+###### ARTICULO TERCERO.
+
+En la fecha en que entre en vigor la presente Ley, y a propuesta del Gobernador del Estado, el Congreso del Estado designará un Concejo Municipal, que fungirá en lo que resta del período constitucional y tendrá la integración y las atribuciones que la Ley establece para los Ayuntamientos.
+
+###### ARTICULO CUARTO.
+
+Para proveer a la existencia política del Municipio de San Ignacio Río Muerto, durante el período que medie entre el día en que entre en funciones el Concejo Municipal que designe y el día 31 de diciembre de 1996, el Gobierno del Estado, le transferirá los recursos correspondientes.
+
+###### ARTICULO QUINTO.
+
+Los bienes muebles e inmuebles del dominio público que actualmente ocupa la Comisaría de San Ignacio Río Muerto, y los muebles e inmuebles de dominio privado, existentes en su jurisdicción, pertenecientes al Municipio de Guaymas, pasarán a formar parte del patrimonio del nuevo Municipio que se erige.
+
+###### ARTICULO SEXTO.
+
+Los servidores públicos que actualmente se encuentren laborando en la Comisaría de San Ignacio Río Muerto, continuarán en sus funciones pasando a formar parte de la nueva administración, respetándose todos sus derechos laborales, sin perjuicio de las facultades y atribuciones que le corresponden al gobierno municipal.
+
+###### ARTICULO SEPTIMO.
+
+Con efectos hasta la conclusión del actual período constitucional, la autoridad municipal procederá de inmediato a convenir lo que corresponda con el Organismo Operador Municipal del Agua Potable y Alcantarillado del Municipio de Guaymas, Sonora, a fin de asegurar la continuidad en la prestación de los servicios de dicho organismo paramunicipal.
+
+###### ARTICULO OCTAVO.
+
+Las acciones del Concejo Municipal se apegarán, en lo que les corresponda y sea factible, al Plan Municipal de Desarrollo del Municipio de Guaymas y los programas de él derivados.
