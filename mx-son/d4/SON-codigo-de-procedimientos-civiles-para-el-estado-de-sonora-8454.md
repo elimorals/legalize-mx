@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "1966-06-22"
+last_updated: "1979-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE JUNIO DE 1966.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE SEPTIEMBRE DE 1979.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -5509,11 +5509,13 @@ Interdicción e inhabilitación.
 
 La rectificación o modificación de un acta del estado civil no puede hacerse sino mediante sentencia que dicte la Autoridad Judicial, salvo el reconocimiento que voluntariamente haga un padre de su hijo, en los casos autorizados por el Código Civil.
 
+> <small>(REFORMADO, B.O. 8 DE SEPTIEMBRE DE 1979)</small>
+
 ###### Art. 602.
 
-Sólo habrá lugar a pedir la rectificación de actas del estado civil por falsedad, cuando se alega que el acta registrada no paso, o por enmienda, o cuando se solicite variar algún nombre u otra circunstancia, sea esencial o accidental.
+Sólo habrá lugar a pedir la rectificación de actas del estado civil por falsedad, cuando se alega que el acta registrada no pasó, o por enmienda, o cuando se solicite variar algún nombre u otra circunstancia, sea esencial o accidental.
 
-Cuando sólo se trate de complementar o de ampliar los datos que contengan una acta del estado civil; pero sin variar ni modificar el contenido de ésta, no se requerirá juicio contradictorio, pudiendo recibirse las pruebas a que haya lugar, de acuerdo con las reglas de la jurisdicción voluntaria.
+Cuando sólo se trate de cumplimentar o ampliar los datos que contenga un acta del estado civil, pero sin variar ni modificar el contenido el contenido de ésta, no se requerirá juicio contradictorio, pudiendo recibirse las pruebas a que haya lugar, de acuerdo con las reglas de la jurisdicción voluntaria. En estos casos, el Juez deberá pronunciar su resolución en un término no mayor de cinco días, y la deberá comunicar de inmediato a la Dirección del Registro Civil y a la Oficialía correspondiente, para que se hagan las anotaciones marginales pertinentes. Esta resolución no será revisable de oficio.
 
 ###### Art. 603.
 
@@ -5534,6 +5536,20 @@ El juicio sobre rectificación se tramitará en la vía ordinaria con intervenci
 La sentencia que recaiga será revisable de oficio, aunque no la recurran las partes.
 
 Una vez ejecutoriada la sentencia, se comunicará al Oficial del Registro Civil para que haga referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
+
+> <small>(ADICIONADO, B.O. 8 DE SEPTIEMBRE DE 1979)</small>
+
+Art. 604 BIS.- Cuando sólo se trate de corregir errores gramaticales evidentes y que se desprendan del contenido de la propia acta, se seguirá un procedimiento especial ante el Juez de Primera Instancia del Ramo Civil, conforme a las siguientes reglas:
+
+I.- Con la sola comparecencia del interesado, verbal o por escrito, y la exhibición del acta correspondiente, el Juez estará obligado a iniciar de oficio el procedimiento especial, con intervención del Agente del Ministerio Público.
+
+En los casos de que la comparecencia sea verbal, el Secretario del Juzgado estará obligado a levantar el acta de comparecencia y dar cuenta de ella de inmediato al Titular.
+
+II.- En los casos en que el Juez lo considere necesario, requerirá al interesado por la aportación de otras pruebas documentales que justifiquen la corrección.
+
+III.- En un término no mayor de cinco días y bajo su responsabilidad, el Juez debe resolver sobre la corrección solicitada, comunicándole de inmediato a la Dirección del Registro Civil y a la Oficialía que corresponda, para el efecto de que se hagan las anotaciones marginales a que haya lugar.
+
+IV.- La resolución que se dicte en estos procedimientos especiales, no será recurrible ni revisable de oficio.
 
 ### CAPITULO DECIMO.
 
@@ -8226,3 +8242,7 @@ QUINTO.- Esta Ley empezara a regir a partir del día de su publicación en el Bo
 B.O. 22 DE JUNIO DE 1966.
 
 UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 8 DE SEPTIEMBRE DE 1979.
+
+UNICO.- La presente Ley entrará en vigor el día de su publicación en el Boletín Oficial del Estado.
