@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "1990-12-26"
+last_updated: "1991-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE DICIEMBRE DE 1991.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 27 de diciembre de 1978.
 
@@ -100,9 +100,9 @@ También se adicionará al Fondo General un monto equivalente al 80% del impuest
 
 Adicionalmente, las entidades participarán en los accesorios de las contribuciones que forman parte de la recaudación federal participable, que se señalen en los convenios respectivos. En los productos de la Federación relacionados con bienes o bosques, que las leyes definen como nacionales, ubicados en el territorio de cada entidad, ésta recibirá el 50% de su monto, cuando provenga de venta o arrendamiento de terrenos nacionales o de la explotación de tales terrenos o de bosques nacionales.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-Las entidades federativas que estén adheridas al Sistema Nacional de Coordinación Fiscal, que se encuentren coordinadas con la Federación en el impuesto sobre adquisición de inmuebles y que hubieran celebrado con la misma convenios de colaboración administrativa en materia del impuesto sobre tenencia o uso de vehículos, participarán del 100% de la recaudación que se obtenga por concepto de este último impuesto. De esta participación corresponderá, cuando menos, el 20% a los municipios de la entidad que se distribuirá entre ellos en la forma que determine la legislatura respectiva.
+Las entidades federativas que estén adheridas al Sistema Nacional de Coordinación Fiscal, que se encuentren coordinadas con la Federación en el impuesto sobre adquisición de inmuebles y que hubieran celebrado con la misma convenios de colaboración administrativa en materia del impuesto sobre tenencia o uso de vehículos, donde se estipule la obligación de llevar un registro estatal vehicular, recibirán como incentivo el 100% de la recaudación que se obtenga por concepto de este último impuesto, del que corresponderá cuando menos el 20% a los municipios de la entidad, que se distribuirá entre ellos en la forma que determine la legislatura respectiva.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -186,9 +186,9 @@ Las participaciones federales que recibirán los Municipios del total del Fondo 
 
 La Federación entregará las participaciones a los municipios por conducto de los Estados, dentro de los cinco días siguientes a aquel en que el Estado las reciba; el retraso dará lugar al pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones; en caso de incumplimiento la Federación hará la entrega directa a los Municipios descontando la participación del monto que corresponda al Estado, previa opinión de la Comisión Permanente de Funcionarios Fiscales.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-Los Municipios recibirán como mínimo el 20% de la participación que corresponda al Estado en los términos del último párrafo del artículo 2o. de esta Ley.
+Los municipios recibirán como mínimo el 20% del incentivo que corresponda al Estado en los términos del último párrafo del artículo 2o. de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -480,7 +480,9 @@ En la convocatoria se señalarán los asuntos de que deba ocuparse la Reunión.
 
 Serán facultades de la Reunión Nacional de Funcionarios Fiscales:
 
-I.- Aprobar los reglamentos de funcionamiento de la propia Reunión Nacional, de la Comisión Permanente de Funcionarios Fiscales y del Instituto para el Desarrollo Técnico de las Haciendas Públicas.
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+I.- Aprobar los reglamentos de funcionamiento de la propia Reunión Nacional, de la Comisión Permanente de Funcionarios Fiscales, del Instituto para el Desarrollo Técnico de las Haciendas Públicas y de la Junta de Coordinación Fiscal.
 
 II.- Establecer, en su caso, las aportaciones ordinarias y extraordinarias que deban cubrir la Federación y las entidades, para el sostenimiento de los órganos citados en la fracción anterior.
 
@@ -872,4 +874,10 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 
 PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991. ...
 
+D.O.F. 20 DE DICIEMBRE DE 1991.
+
 ## TRANSITORIO
+
+## TRANSITORIO
+
+UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1992.
