@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "1996-06-01"
+last_updated: "1997-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 1997.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de Septiembre de 1954.
 
@@ -9075,6 +9075,14 @@ ART. 2815.- El crédito puede cederse, en todo o en parte, siempre que la cesió
 
 Si la hipoteca se ha constituído para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituida para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
 
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 1997)</small>
+
+Las instituciones del sistema bancario mexicano, actuando en nombre propio o como fiduciarias, las demás entidades financieras, y los institutos de seguridad social, podrán ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, de escritura pública, ni de inscripción en el Registro, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 1997)</small>
+
+En los supuestos previstos en los dos párrafos anteriores, la inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor de él o los cesionarios referidos en tales párrafos, quienes tendrán todos los derechos y acciones derivados de ésta.
+
 ART. 2816.- La hipoteca generalmente durará por todo el tiempo que subsista la obligación que garantice, y cuando ésta no tuviere término para su vencimiento, la hipoteca no podrá durar más de diez años.
 
 Los contratantes pueden señalar a la hipoteca una duración menor que la de la obligación.
@@ -9942,3 +9950,9 @@ UNICO.- El presente Decreto entrará en vigor el día de su publicación en el P
 P.O. 1 DE JUNIO DE 1996.
 
 UNICO.- El presente Decreto entrará en vigor a los 30 días siguientes de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MARZO DE 1997.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las reformas previstas en el Artículo Segundo de este Decreto, no serán aplicables a persona alguna que tenga contratados créditos con anterioridad a la entrada en vigor del presente. Tampoco serán aplicables tratándose de la novación o reestructuración de créditos contraídos con anterioridad a la entrada en vigor de este Decreto.
