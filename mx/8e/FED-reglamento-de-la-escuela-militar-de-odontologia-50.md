@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-odontologia-50"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-13"
-last_updated: "2001-06-22"
+last_updated: "2004-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-04-12"
 
 REGLAMENTO DE LA ESCUELA MILITAR DE ODONTOLOGIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2004.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el martes 13 de abril de 1993.
 
@@ -1257,19 +1257,21 @@ De los Reconocimientos Académicos.
 
 De los Títulos, Certificados y Patentes.
 
+> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2004)</small>
+
 ###### ARTICULO 77.
 
-El personal en instrucción nacional que termine satisfactoriamente la carrera de Cirujano Dentista Militar en el plantel recibirá:
+El personal en instrucción nacional que termine satisfactoriamente sus estudios y apruebe el examen profesional recibirá:
 
-I. Título profesional;
+I. Certificado de Estudios;
 
-II. Certificado de estudios; y
+II. Título Profesional de Cirujano Dentista Militar;
 
-III. Patente correspondiente.
+III. Grado de Capitán Primero Cirujano Dentista;
 
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+IV. Patente, y
 
-IV. Placa distintiva de la escuela.
+V. Placa distintiva de la escuela.
 
 ###### ARTICULO 78.
 
@@ -1438,3 +1440,9 @@ D.O.F. 22 DE JUNIO DE 2001.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 16 DE AGOSTO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
