@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-43-2001-del-pleno-del-consejo-de-la-62404"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-08-09"
-last_updated: "2001-08-09"
+last_updated: "2003-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62404&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-08-01"
 
 ACUERDO GENERAL 43/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA LA CREACION TEMPORAL DE LOS JUZGADOS OCTAVO DE DISTRITO "A" Y OCTAVO DE DISTRITO "B" EN EL ESTADO DE MEXICO, CON RESIDENCIA EN NAUCALPAN DE JUAREZ; A LA DENOMINACION, COMPETENCIA, JURISDICCION TERRITORIAL Y FECHA DE INICIO DE FUNCIONAMIENTO DE DICHOS ORGANOS JURISDICCIONALES; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN EL ESTADO Y RESIDENCIA INDICADAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE OCTUBRE DE 2003.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 9 de agosto de 2001.
 
@@ -55,11 +55,17 @@ TERCERO.- Conforme a lo ordenado en el punto quinto del Acuerdo General 30/2001 
 
 CUARTO.- En términos de lo señalado en el punto sexto del Acuerdo General en mención, los expedientes de los que conozca actualmente el órgano jurisdiccional de origen se repartirán de manera equitativa, quedando a cargo del titular de la adscripción los correspondientes a números nones; y a cargo del Juez de Distrito adscrito temporalmente los correspondientes a números pares; con excepción de los expedientes relacionados, los cuales permanecerán bajo el conocimiento del Juez de Distrito que tenga el primero de ellos, en el entendido de que en todo momento deberá buscarse que el reparto de expedientes sea equitativo. Los nuevos expedientes seguirán el mismo orden para su distribución.
 
-QUINTO.- En atención a lo que establecen los puntos séptimo y octavo del Acuerdo General 30/2001 serán consideradas áreas comunes: la Oficialía de Partes, el control de valores y objetos de delito, el archivo, la papelería, el Sistema Integral de Seguimiento de Expedientes y el oficial de servicios y mantenimiento, las cuales deberán desarrollar sus actividades de tal manera que atiendan los requerimientos de servicio de los dos Juzgados de Distrito, quedando bajo la responsabilidad del Juez de Distrito titular del órgano jurisdiccional “A” todo lo relacionado con su funcionamiento, las incidencias laborales y, en su caso, el nombramiento del personal.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 65/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE OCTUBRE DE 2003)</small>
 
-SEXTO.- La Oficina de Correspondencia Común de los Juzgados de Distrito, con residencia en Naucalpan de Juárez seguirá turnando los nuevos asuntos conforme lo viene realizando.
+QUINTO.- A partir del trece de octubre todos los Juzgados de Distrito 'A' y 'B' en el Estado de México, con residencia en Naucalpan de Juárez, contarán con oficialía de partes, archivo, papelería, Sistema Integral de Seguimiento de Expedientes, control de valores y oficial de servicios y mantenimiento independientes, agregándose, en su caso, el personal necesario para completar la plantilla autorizada para dichos órganos jurisdiccionales federales.
 
-SEPTIMO.- Para la recepción de los asuntos en horas y días inhábiles, los Juzgados de Distrito “A” y “B” correspondientes estarán de turno simultáneamente, de acuerdo con las reglas de temporalidad que actualmente operan en los Juzgados de Distrito en el Estado de México, con residencia en Naucalpan de Juárez.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 65/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE OCTUBRE DE 2003)</small>
+
+SEXTO.- Para la recepción de nuevos asuntos en horas y días hábiles, la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de México, con residencia en Naucalpan, los turnará de forma independiente y alternada, de tal manera que por cada cuatro asuntos que reciban los Juzgados de Distrito permanentes, se turnarán tres asuntos al Juzgado de Distrito 'A' y tres al Juzgado de Distrito 'B'.
+
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 65/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE OCTUBRE DE 2003)</small>
+
+SEPTIMO.- Para la recepción de nuevos asuntos en horas y días inhábiles, los Juzgados de Distrito con sede en Naucalpan de Juárez, tendrán turno independiente y sucesivo, por lo que del trece al diecinueve de octubre estará de turno el Juzgado Primero de Distrito; del veinte al veintiséis de octubre, el Juzgado Segundo de Distrito; del veintisiete de octubre al dos de noviembre, el Juzgado Tercero de Distrito; del tres al nueve de noviembre, el Juzgado Cuarto de Distrito 'A'; del diez al dieciséis de noviembre, el Juzgado Cuarto de Distrito 'B', del diecisiete al veintitrés de noviembre, el Juzgado Séptimo de Distrito, del veinticuatro al treinta de noviembre, el Juzgado Octavo de Distrito 'A', del uno al siete de diciembre, el Juzgado Octavo de Distrito 'B'; y, así sucesivamente.
 
 OCTAVO.- En virtud de que se trata de una medida temporal, la creación de los Juzgados de Distrito a que se refiere el presente Acuerdo, no modifica el diverso Acuerdo General 23/2001 del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se divide el Territorio de la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
 
@@ -72,3 +78,11 @@ PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en un Diario de Circulación de la Entidad Federativa donde se instalarán los Juzgados de Distrito motivo del presente Acuerdo.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 43/2001, del Pleno del Consejo de la Judicatura Federal, que Determina la Creación Temporal de los Juzgados Octavo de Distrito "A" y Octavo de Distrito "B" en el Estado de México, con Residencia en Naucalpan de Juárez; a la Denominación, Competencia, Jurisdicción Territorial y Fecha de Inicio de Funcionamiento de Dichos Organos Jurisdiccionales; así como a las Reglas de Turno, Sistema de Recepción y Distribución de Asuntos Entre los Juzgados de Distrito en el Estado y Residencia Indicadas fue aprobado por el propio Pleno, en sesión extraordinaria de primero de agosto de dos mil uno, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a primero de agosto de dos mil uno.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 2 DE OCTUBRE DE 2003.
+
+PRIMERO.- Este acuerdo entrará en vigor a partir del trece de octubre de dos mil tres.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
