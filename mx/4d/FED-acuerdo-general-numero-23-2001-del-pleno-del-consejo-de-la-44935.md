@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2004-12-17"
+last_updated: "2005-03-04"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MARZO DE 2005.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -367,7 +367,9 @@ XX.- VIGESIMO CIRCUITO:
 
 XXI.- VIGESIMO PRIMER CIRCUITO:
 
-1.- Cuatro tribunales colegiados: dos con residencia en Chilpancingo y dos con sede en Acapulco.
+> <small>(REFORMADO POR EL PUNTO DECIMOCUARTO DEL ACUERDO GENERAL 72/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MARZO DE 2005)</small>
+
+1.- Cuatro tribunales colegiados especializados: dos en materias civil y de trabajo, con residencia en Chilpancingo; y dos tribunales colegiados en materias penal y administrativa, con sede en Acapulco.
 
 2.- Dos tribunales unitarios: uno con sede en Chilpancingo y el otro con residencia en Acapulco.
 
@@ -555,9 +557,9 @@ En cuanto al tribunal colegiado con residencia en Tapachula, su jurisdicción te
 
 La jurisdicción territorial de los tribunal es unitarios comprenderá al Estado de Chiapas.
 
-XXI.- VIGESIMO PRIMER CIRCUITO: Respecto de los tribunales colegiados y del tribunal unitario con residencia en Chilpancingo, su jurisdicción territorial será igual a la establecida para los juzgados de distrito en el Estado de Guerrero, con sede en la citada ciudad y en la de Iguala.
+> <small>(REFORMADA POR EL PUNTO DECIMOQUINTO DEL ACUERDO GENERAL 72/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MARZO DE 2005)</small>
 
-En cuanto a los tribunales colegiados y al tribunal unitario con residencia en Acapulco, su jurisdicción territorial será la misma que la establecida para los juzgados de distrito en el Estado de Guerrero, con sede en dicha ciudad.
+XXI.- VIGESIMO PRIMER CIRCUITO: Estado de Guerrero.
 
 XXII.- VIGESIMO SEGUNDO CIRCUITO: Respecto de los tribunales colegiados con residencia en Querétaro, su jurisdicción territorial será la entidad del mismo nombre.
 
@@ -1410,5 +1412,11 @@ SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación
 D.O.F. 17 DE DICIEMBRE DE 2004.
 
 PRIMERO.- Este acuerdo entrará en vigor el tres de enero de dos mil cinco.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 4 DE MARZO DE 2005.
+
+PRIMERO.- Este acuerdo entrará en vigor el cuatro de abril de dos mil cinco.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
