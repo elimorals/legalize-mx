@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1987-12-12"
+last_updated: "1989-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 1989.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -939,13 +939,17 @@ Art. 2º El actual Poder Legislativo, durará hasta el 31 de enero de 1919; el E
 
 Art. 3º El actual período de sesiones continuará con el carácter de ordinario hasta que el Congreso tenga a bien clausurarlo.
 
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 1989)</small>
 
-Art. 4º La LII Legislatura del Congreso del Estado, se instalará el primero de febrero de 1989 mil novecientos ochenta y nueve y los Diputados que la integren durarán en sus funciones del citado día al catorce de marzo de mil novecientos noventa y dos.
+Art. 4º La LII Legislatura del Congreso del Estado, se instalará el primero de febrero de mil novecientos ochenta y nueve y los Diputados que la integren durarán en sus funciones, del citado día, al catorce de marzo de mil novecientos noventa y dos.
 
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 1987)</small>
+Los periodos Ordinarios de Sesiones de esta Legislatura serán, del primer sábado de febrero al treinta y uno de marzo y del primero de septiembre al treinta y uno de diciembre de los años 1989, 1990 y 1991, respectivamente.
 
-Art. 5º El Gobernador del Estado que se elija para el próximo periodo constitucional, tomará posesión de su encargo el primero de marzo de mil novecientos ochenta y nueve y durará en él hasta el día último de marzo de mil novecientos noventa y cinco.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 1989)</small>
+
+Art. 5º El Gobernador del Estado que se elija para el próximo periodo constitucional, tomará posesión de su cargo el primero de marzo de mil novecientos ochenta y nueve y durará en él hasta el día último de febrero de 1995.
+
+El Congreso del Estado designará, por única vez, un Gobernador Provisional, que ejercerá el cargo, del primero al último de marzo de 1995.
 
 > <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 1987)</small>
 
@@ -1136,3 +1140,7 @@ Artículo Tercero.- Los nombramientos de los Magistrados y Jueces que se expidan
 Artículo Cuarto.- Los conflictos de competencia existentes entre los Tribunales a que se refiere el primer párrafo del Art. 39, de esta Constitución, materia del presente Decreto, que actualmente se encuentren ventilándose en las Salas del Supremo Tribunal de Justicia del Estado, deberán remitirse al Pleno del propio Tribunal para su resolución.
 
 Artículo Quinto.- Los conflictos laborales que actualmente se tramitan ante el Tribunal de Arbitraje y Escalafón, en los que intervengan servidores públicos que pertenezcan al Poder Judicial del Estado, se concluirán en los términos de lo establecido en la Ley para los Servidores Públicos del estado de Jalisco y sus Municipios.
+
+P.O. 19 DE ENERO DE 1989.
+
+Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco, una vez que haya sido aprobado por la mayoría de los Ayuntamientos del Estado de Jalisco, en los términos que disponen (sic) el Art. 66, de la Constitución Política Local.
