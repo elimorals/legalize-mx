@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1993-10-12"
+last_updated: "1993-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE OCTUBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 1993.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -771,23 +771,41 @@ XLII. Conceder la gracia de indulto, del todo o de una parte de la pena impuesta
 
 XLIII. Conceder pensiones o auxilios a los empleados públicos que, por enfermedad o edad avanzada, estén inútiles para servir, siempre que tengan veinticinco años de buenos servicios; y
 
-> <small>(REFORMADA, G.O. 10 DE DICIEMBRE DE 1932)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE DICIEMBRE DE 1993)</small>
 
-XLIV. Cumplir la misión social de promover lo necesario para la difusión y el mejoramiento de la educación, en beneficio de los trabajadores del Estado, legislando conforme a las siguientes bases:
+XLIV. Cumplir la función social de legislar en materia educativa, conforme a las siguientes bases:
 
-a). El proceso educacional constituirá un todo conexo, lógicamente organizado, cuya finalidad fundamental será preparar a las diversas comunidades para la explotación socializada de la riqueza en provecho de la colectividad y difundir y perfeccionar la cultura, puesta al servicio del proletariado.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1993)</small>
 
-b). La Educación Primaria será obligatoria en todos sus grados. En los establecimientos oficiales de educación, se impartirá ésta gratuitamente.
+a). El proceso educativo tenderá a desarrollar armónicamente todas las facultades del ser humano y a fomentar en él, a la vez, el amor a la patria, a Veracruz, y a la conciencia de la solidaridad internacional, en la independencia y en la justicia;
 
-c). A fin de formar y difundir la cultura superior, se creará la Universidad Veracruzana, la cual estará al servicio de las clases laborantes; su organización y funcionamiento se determinarán conforme a lo que preceptúe la Ley.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1993)</small>
 
-d). En el Estado funcionarán exclusivamente las Instituciones educativas particulares que en su finalidad, organización y programas de trabajo, se ajusten a las prescripciones oficiales respectivas; tales Instituciones quedarán sometidas a la vigilancia oficial.
+b). El Estado impartirá la educación preescolar, primaria y secundaria; promoverá y atenderá todos los tipos y modalidades educativos, incluyendo la educación superior; apoyará la investigación científica y tecnológica; y alentará el fortalecimiento y difusión de nuestra cultura;
 
-e). Las Instituciones Oficiales de Educación, dependerán exclusivamente tanto en el orden técnico como en el económico del Gobierno del Estado.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1993)</small>
 
-f). La retención en el pago de los sueldos del profesorado de las Escuelas Oficiales, será causa de responsabilidad para los funcionarios o empleados a quienes sea imputable aquélla, así como motivo de separación del puesto que desempeñen, en la forma que determine la Ley, en los casos respectivos.
+c). El Estado impulsará la educación formal e informal orientadas hacia la producción y la productividad y la productividad, para el desarrollo social, apoyado en los aportes de la tecnología;
 
-g). La educación en el Estado será regida conforme a lo que estatuya la Ley de la materia y funcionará con el grado de independencia que la misma Ley le concede.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1993)</small>
+
+d). La educación que imparte el estado será laica y por tanto, se mantendrá por completo ajena a cualquier doctrina religiosa;
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1993)</small>
+
+e). La educación primaria y la secundaria son obligatorias y se impartirán gratuitamente por el Estado y los Municipios.
+
+> <small>(REFORMADO, G.O. 5 DE ENERO DE 1993)</small>
+
+f). La educación superior a cargo de la Universidad Veracruzana tendrá como fines: conservar, crear y transmitir la cultura, a través de las funciones de docencia, investigación, difusión y extensión.
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1993)</small>
+
+g). En el estado funcionarán las instituciones educativas particulares de cualquier nivel que, en su finalidad, organización y programas de trabajo, se ajusten a las disposiciones legales respectivas. Tales instituciones quedarán sometidas al reconocimiento y vigilancia oficiales;
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 1993)</small>
+
+h). La retención indebida del salario de los trabajadores de la educación, será causa de responsabilidad para los servidores públicos a quienes sea imputable aquélla y motivo de separación del puesto que desempeñen, en la forma que determine la Ley.
 
 XLV. Formar su Reglamento interior, tomar las providencias necesarias para hacer concurrir o los Diputados ausentes y corregir las faltas u omisiones de los presentes;
 
@@ -2196,3 +2214,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en la
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a las reformas a que se refiere el presente decreto.
+
+G.O. 16 DE DICIEMBRE DE 1993.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
