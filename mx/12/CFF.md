@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1991-12-20"
+last_updated: "1992-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "CFF"
 ---
 # CODIGO FISCAL DE LA FEDERACION
 
-CODIGO FISCAL DE LA FEDERACION
+CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE DICIEMBRE DE 1991.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 1991.
 
-ULTIMA ACTUALIZACION POR MISCELANEA FISCAL: 11 DE NOVIEMBRE DE 1991.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 20 DE MAYO DE 1992.
 
 Código publicado en el Diario Oficial de la Federación el jueves 31 de diciembre de 1981.
 
@@ -1866,43 +1866,43 @@ VI. Señalar como domicilio fiscal para efectos del registro federal de contribu
 
 A quien cometa las infracciones relacionadas con el registro federal de contribuyentes a que se refiere el artículo 79 se impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-I. De $335,000.00 a las comprendidas en las fracciones I, II y VI.
+I. De $370,000.00 a las comprendidas en las fracciones I, II y VI.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. De $168,000.00 a la comprendida en la fracción III.
+II. De $185,000.00 a la comprendida en la fracción III.
 
 III. Para la señalada en la fracción IV:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-a). Tratándose de declaraciones, la mayor que resulte entre $60,000.00 o el 1% de las contribuciones declaradas; en ningún caso la multa prevista en este inciso será mayor de $671,000.00.
+a). Tratándose de declaraciones, la mayor que resulte entre $66,000.00 o el 1% de las contribuciones declaradas; en ningún caso la multa prevista en este inciso será mayor de $741,000.00.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
-
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-b). De $168,000.00 tratándose de la demanda ante el Tribunal Fiscal de la Federación.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-c). De $60,000.00 en los demás documentos.
+b). De $185,000.00 tratándose de la demanda ante el Tribunal Fiscal de la Federación.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-IV. De $1'006,000.00 para la establecida en la fracción V.
+c). De $66,000.00 en los demás documentos.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+IV. De $1'111,000.00 para la establecida en la fracción V.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -1944,53 +1944,53 @@ VIII. No presentar los dados e informes en los términos del artículo 13 de la 
 
 A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, solicitudes o avisos, así como de expedir constancias a que se refiere el artículo 81, se impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
 I. Para la señalada en la fracción I:
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-a). Tratándose de declaraciones, la mayor que resulte entre $60,000.00 o el 10% de las contribuciones declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre las mismas, se le aplicará también la multa a que se refiere este inciso.
+a). Tratándose de declaraciones, la mayor que resulte entre $66,000.00 o el 10% de las contribuciones declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre las mismas, se le aplicará también la multa a que se refiere este inciso.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-b). Por presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento, la mayor que resulte entre $72,000.00 o el 10% del saldo a cargo declarado en su caso.
+b). Por presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento, la mayor que resulte entre $79,000.00 o el 10% del saldo a cargo declarado en su caso.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-c). De $66,000.00 en los demás documentos.
+c). De $73,000.00 en los demás documentos.
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
 II. Respecto de la señalada en la fracción II:
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-a). De $36,000.00 por no poner el nombre o ponerlo equivocadamente.
+a). De $40,000.00 por no poner el nombre o ponerlo equivocadamente.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-b). De $18,000.00 por no poner el domicilio o ponerlo equivocadamente.
+b). De $20,000.00 por no poner el domicilio o ponerlo equivocadamente.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-c). De $3,600.00 por cada dato no asentado o asentado incorrectamente siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
+c). De $4,000.00 por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, REMITIRSE A LA FRACCION V DEL ARTICULO TERCERO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS EN CITA.</small>
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-d). De $36,000.00 por no señalar la clave que corresponda a su actividad preponderante conforme al catálogo de actividades que publique la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, o señalarlo equivocadamente.
+d). De $40,000.00 por no señalar la clave que corresponda a su actividad preponderante conforme al catálogo de actividades que publique la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, o señalarlo equivocadamente.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-e). De $36,000.00 en los demás casos.
+e). De $40,000.00 en los demás casos.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-III. Tratándose de la señalada en la fracción III, la que resulte mayor entre $66,000.00 o el 2% de las contribuciones no pagadas, por cada requerimiento.
+III. Tratándose de la señalada en la fracción III, la que resulte mayor entre $73,000.00 o el 2% de las contribuciones no pagadas, por cada requerimiento.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -2000,17 +2000,23 @@ IV. Para la señalada en la fracción IV, el 20% del pago provisional no efectua
 
 V. Para la señalada en la fracción V, la multa será del 30% de la devolución o compensación indebida.
 
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-VI. Para la señalada en la fracción VI la multa será de $250,000.00.
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
 > <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-VII. Para la señalada en la fracción VII la multa será de $50,000.00.
+VI. Para la señalada en la fracción IV (sic) la multa será de $260,000.00.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
 > <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-VIII. Para la señalada en la fracción VIII, la multa será de $90,000,000.00.
+VII. Para la señalada en la fracción VII la multa será de $52,000.00.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
+
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+VIII. Para la señalada en la fracción VIII, la multa será de $93,663,000.00.
 
 ###### Artículo 83.
 
@@ -2052,61 +2058,61 @@ XI. No cumplir con los requisitos señalados por los artículos 24, fracción I 
 
 XII. No expedir o acompañar la documentación que ampare mercancías en transporte en territorio nacional.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### Artículo 84.
 
 A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el artículo 83, se impondrán las siguientes sanciones:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-I. De $168,000.00 a $1'677,000.00 a la comprendida en la fracción I.
+I. De $185,000.00 a $1'852,000.00 a la comprendida en la fracción I.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
-
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-II. De $36,000.00 a $839,000.00 a las establecidas en las fracciones II y III.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-III. De $36,000.00 a $671,000.00 a la señalada en la fracción IV.
+II. De $40,000.00 a $926,000.00 a las establecidas en las fracciones II y III.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
-
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-IV. De $36,000.00 a $335,000.00 a la comprendida en la fracción V.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-V. De $102,000.00 a $1'342,000.00 a la señalada en la fracción VI.
+III. De $40,000.00 a $741,000.00 a la señalada en la fracción IV.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+IV. De $40,000.00 a $370,000.00 a la comprendida en la fracción V.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+V. De $112,000.00 a $1'482,000.00 a la señalada en la fracción VI.
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 VI. De cinco veces el importe total que debió consignarse en el comprobante de que se trate a la señalada en la fracción VII. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-VII. De $335,000.00 a $1'677,000.00 a la establecida en la fracción VIII. La multa procederá sin perjuicio de que los documentos microfilmados en contravención a las disposiciones fiscales carezcan de valor probatorio.
+VII. De $370,000.00 a $1'852,000.00 a la establecida en la fracción VIII. La multa procederá sin perjuicio de que los documentos microfilmados en contravención a las disposiciones fiscales carezcan de valor probatorio.
 
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 VIII. Por el 20% del importe consignado en el comprobante a la comprendida en la fracción IX.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-IX. De $35,939,000.00 a $107,816,000.00 y, en su caso, la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción X.
+IX. De $39'690,000.00 a $119'071,000.00 y, en su caso, la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción X.
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -2138,21 +2144,21 @@ V. Asentar incorrectamente o no asentar en los contratos respectivos el nombre, 
 
 A quien cometa las infracciones relacionadas con las instituciones de crédito a que se refiere el artículo 84-A de este Código, se le impondrán las siguientes multas:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, REMITIRSE A LA FRACCION III DEL ARTICULO TERCERO DE LAS DISPOSICIONES TRANSITORIAS DEL CITADO DECRETO.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
-CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.
-
-I. De $36,000.00 a $1'677,000.00 a la comprendida en la fracción I.
+I. De $40,000.00 a $1'852,000.00 a la comprendida en la fracción I.
 
 II. Por el 20% del valor del cheque a la establecida en la fracción II.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
+
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-III. De $5,000.00 por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
+III. De $5,200.00 por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
-IV. De $599,000.00 a uno al millar sobre el monto de los ingresos acumulables que haya tenido la institución en el ejercicio inmediato anterior por el que se presentó o debió presentar declaración, a la establecida en la fracción IV.
+IV. De $662,000.00 a uno al millar sobre el monto de los ingresos acumulables que haya tenido la institución en el ejercicio inmediato anterior por el que se presentó o debió presentar declaración, a la establecida en la fracción IV.
 
 V. De 4 al millar sobre el monto de los ingresos acumulables que haya tenido la institución en el ejercicio inmediato anterior por el que se presentó o debió presentar declaración, a la establecida en la fracción V.
 
@@ -2162,11 +2168,13 @@ V. De 4 al millar sobre el monto de los ingresos acumulables que haya tenido la 
 
 Son infracciones de los usuarios de los servicios, así como de los cuentahabientes de las instituciones de crédito a que se refiere el último párrafo del artículo 30-A de este Código, la omisión total o parcial de la obligación de proporcionar la información relativa a su nombre, denominación o razón social, domicilio, clave del registro federal de contribuyentes o los datos que se requieran para formar dicha clave o la que la sustituya, que les soliciten los prestadores de servicios y las instituciones de crédito, así como proporcionar datos incorrectos o falsos.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
+
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 84-D.
 
-A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de $50,000.00 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de $150,000.00 por cada una de las mismas.
+A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de $52,000.00 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de $156,000.00 por cada una de las mismas.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -2198,17 +2206,17 @@ III. No suministrar los datos e informes sobre clientes y proveedores que legalm
 
 A quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo 85, se impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-I. De $347,000.00 a $3'474,000.00 a la comprendida en la fracción I.
+I. De $384,000.00 a $3'837,000.00 a la comprendida en la fracción I.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. De $168,000.00 a $6'948,000.00 a la establecida en la fracción II.
+II. De $185,000.00 a $7'673,000.00 a la establecida en la fracción II.
 
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -2224,15 +2232,17 @@ I. No adherir marbetes a los envases.
 
 II. Hacer cualquier uso diferente de los marbetes al de adherirlos a los envases que contengan bebidas alcohólicas.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
+
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 86-B.
 
 A quienes cometan las infracciones señaladas en el artículo 86-A de este Código, se impondrán las siguientes multas:
 
-I. De $30,000.00 a la comprendida en la fracción I, por cada marbete no adherido.
+I. De $31,000.00 a la comprendida en la fracción I, por cada marbete no adherido.
 
-II. De $50,000.00 a la comprendida en la fracción II, por cada marbete.
+II. De $52,000.00 a la comprendida en la fracción II, por cada marbete.
 
 ###### Artículo 87.
 
@@ -2252,17 +2262,17 @@ III. Exigir una prestación que no esté prevista en las disposiciones fiscales,
 
 A quien comenta (sic) las infracciones a las disposiciones fiscales a que se refiere el artículo 87, se impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-I. De $168,000.00 a $1'737,000.00 a la comprendida en la fracción I.
+I. De $185,000.00 a $1'918,000.00 a la comprendida en la fracción I.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. De $168,000.00 a $6'948,000.00 a las establecidas en las fracciones II y III.
+II. De $185,000.00 a $7'673,000.00 a las establecidas en las fracciones II y III.
 
 ###### Artículo 89.
 
@@ -2276,23 +2286,23 @@ II. Ser cómplice en cualquier forma no prevista, en la comisión de infraccione
 
 A quien cometa las infracciones señaladas en el artículo 89 de este Código, se impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-I. De $347,000.00 a $3'474,000.00 a la comprendida en la fracción I.
+I. De $384,000.00 a $3'837,000.00 a la comprendida en la fracción I.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. De $168,000.00 a $1'737,000.00 a la establecida en la fracción II.
+II. De $185,000.00 a $1'918,000.00 a la establecida en la fracción II.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA CUARTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA 1992, D.O.F. DEL 20 DE MAYO DE 1992.</small>
 
 ###### Artículo 91.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de $35,000.00 a $351,000.00.
+La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de $39,000.00 a $387,000.00.
 
 ### CAPITULO II. De las Notificaciones y la Garantía del Interés Fiscal
 
@@ -4382,7 +4392,7 @@ II. La que mande citar a los testigos o a un tercero.
 
 III. El requerimiento a la parte que debe cumplirlo.
 
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADa, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 IV. El auto de la Sala Regional que dé a conocer a las partes que el juicio será resuelto por la Sala Superior.
 
@@ -4929,3 +4939,9 @@ VI.- Para los efectos del tercer párrafo del artículo 30 y del segundo párraf
 ## TRANSITORIO
 
 UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1992.
+
+D.O.F. 20 DE MAYO DE 1992.
+
+###### ARTICULO UNICO.
+
+La presente Resolución entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
