@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-cultural-cabanas-12239"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-12-18"
-last_updated: "1982-07-29"
+last_updated: "1990-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12239&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL INSTITUTO CULTURAL CABAÑAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 JULIO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 ABRIL DE 1990.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 18 de diciembre de 1980.
 
@@ -87,7 +87,9 @@ II. El C. Gobernador del Estado.
 
 III. El C. Secretario de Educación Pública.
 
-IV. El C. Secretario de Asentamientos Humanos y Obras Públicas.
+> <small>(REFORMADA, P.O. 14 DE ABRIL 1990)</small>
+
+IV. El C. Secretario de Desarrollo urbano y Ecología.
 
 V. El C. Director del Instituto Nacional de Bellas Artes.
 
@@ -131,7 +133,9 @@ II. Por el Gobernador Constitucional del Estado de Jalisco.
 
 III. Por el C. Director del Instituto Nacional de Bellas Artes.
 
-IV. Por el C. Jefe del Departamento de Educación Pública del Estado.
+> <small>(REFORMADA, P.O. 14 DE ABRIL 1990)</small>
+
+IV. Por el C. Secretario de Educación y Cultura del Estado.
 
 V. Por el C. Rector de la Universidad de Guadalajara.
 
@@ -304,3 +308,7 @@ P.O. 29 DE JULIO DE 1982.
 Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
 Segundo. Se derogan todas las disposiciones que se opongan a la aplicación del presente Decreto.
+
+P.O. 14 DE ABRIL DE 1990.
+
+Unico. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial El Estado de Jalisco.
