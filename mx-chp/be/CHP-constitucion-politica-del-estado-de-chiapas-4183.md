@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1977-11-16"
+last_updated: "1978-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1978.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -121,9 +121,9 @@ I.- Votar y ser votado, para los cargos de elección popular, siempre que para l
 
 II.- Los de petición y asociación en los asuntos políticos del Estado.
 
-### CAPITULO II. DE LA ELECCION E INSTALACION DEL CONGRESO
+### CAPITULO II. DE LA INTEGRACION, ELECCION E INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1978)</small>
 
 ###### ARTICULO 8.
 
@@ -273,31 +273,29 @@ No podrán reunirse dos o más de estos poderes en una sola persona o corporaci�
 
 El Poder Legislativo se depositará en una Asamblea de Representantes del Pueblo que se denominará Congreso del Estado de Chiapas.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE NOVIEMBRE DE 1978)</small>
 
 ###### ARTICULO 17.
 
-El Congreso del Estado de Chiapas, se integrará con diputados electos en su totalidad cada tres años y se complementará, además, con diputados de partido, apegándose en ambos casos, a lo dispuesto en esta Constitución y a la Ley Electoral del Estado.
+El Congreso del Estado, se integrará con diputados electos en su totalidad cada tres años. Por cada Diputado Propietario se elegirá un Suplente.
 
-La elección será libre, directa, por mayoría relativa, uninominal y por distritos electorales.
+La elección será libre, directa, sujeta a los principios de mayoría relativa y de representación proporcional, en los términos de esta Constitución y de la Ley Reglamentaria que se expida. Los Diputados Propietarios de la Legislatura del Estado, no podrán ser reelectos para el período inmediato, ni aún con el carácter de suplentes. Los Diputados Suplentes podrán ser reelectos para el período inmediato, con el carácter de Propietarios, si no hubieren estado en ejercicio.
 
-Los diputados a la Legislatura del Estado, de mayoría y los de partido, no podrán ser reelectos para el período inmediato.
+El Congreso del Estado estará integrado por once Diputados, electos según el principio de mayoría relativa, mediante el sistema de Distritos Electorales Uninominales y hasta por tres Diputados, electos según el principio de representación proporcional, mediante el sistema de listas, votadas en una circunscripción plurinominal conforme lo determine la Ley Reglamentaria.
 
-Los diputados suplentes podrán ser reelectos para el período inmediato con el carácter de propietarios, siempre que no hubiesen estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
+La demarcación territorial de los Distritos Electorales Uninominales, será la que resulte de dividir la población total del Estado entre el número de Distritos.
 
-El número de representantes a la Legislatura Local será proporcional al de los habitantes del Estado de Chiapas. En consecuencia, para la elección de diputados, el Estado se dividirá en tantos distritos electorales cuantos demande el censo general de su población, designándose uno por cada doscientos mil habitantes o fracción que exceda de la mitad, sin que su número sea menor de trece. Cada distrito electoral elegirá un diputado propietario y un suplente.
+La elección de los Diputados, según el principio de representación proporcional y el sistema de listas, se sujetará a las bases siguientes:
 
-Por lo que se refiere a los diputados de partido, se aplicarán las reglas siguientes:
+I.- Para obtener el registro de sus listas, el partido político que lo solicite, deberá acreditar que participa con candidatos a Diputados, en por lo menos cuatro de los Distritos Electorales Uninominales de la Entidad.
 
-I.- Todo partido político nacional o estatal, registrado legalmente, al obtener el tres por ciento de la votación total del Estado, en la elección respectiva, tendrá derecho a que se le acredite, de sus candidatos un diputado y hasta uno más si obtiene el diez por ciento o más del total de los votos emitidos.
+II.- Todo partido político tendrá derecho a participar en la asignación de Diputados según el principio de representación proporcional, siempre que no haya obtenido dos o más constancias de mayoría y alcance de lo menos de 1.5% de la votación emitida para las listas.
 
-II.- Si logra la mayoría en dos o más distritos electorales, no tendrá derecho a diputado de partido, pero si la obtiene en un distrito, se le reconocerá solamente un diputado de partido, siempre que obtenga el diez por ciento mencionado en la fracción anterior.
+III.- Al partido que cumpla con los requisitos a que aluden las fracciones anteriores, le serán asignados el número de diputados de su lista, que corresponda al porcentaje de votos obtenidos, en los términos que establezca la ley de la materia
 
-III.- Los diputados de partido se acreditarán en riguroso orden, de acuerdo con el porcentaje de sufragios que hayan logrado en relación a los demás candidatos del mismo partido.
+La ley determinará los procedimientos que se observarán para las asignaciones, que en todo caso atenderán al orden que tuviesen los candidatos en las listas.
 
-IV.- Los diputados de mayoría y los de partido, siendo representantes del pueblo, tienen la misma categoría e iguales derechos y obligaciones.
-
-V.- Solamente podrán acreditar diputados de partido, en los términos de las fracciones anteriores, los partidos políticos nacionales o estatales, que hubieren obtenido legalmente su registro, por lo menos con un año de anterioridad al día de la elección.
+No podrán figurar como candidatos en las listas, quienes participen con tal carácter, en la elección según el principio de mayoría relativa, en los distritos electorales uninominales.
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
@@ -341,11 +339,13 @@ IV.- Los funcionarios federales.
 
 V.- Los militares en servicio activo y los que tengan mando de la policía en el Distrito donde se efectúe la elección.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1978)</small>
 
 ###### ARTICULO 20.
 
-El Congreso calificará las elecciones de sus miembros, resolviendo las dudas que hubiera sobre ellas. Sus resoluciones serán definitivas e inapelables.
+El Congreso del Estado calificará las elecciones de sus miembros, a través de un Colegio Electoral integrado por cinco presuntos diputados electos por el sistema de mayoría relativa, que hayan alcanzado mayor número de votos y en su caso, por dos presuntos diputados electos por el sistema de representación proporcional, de las listas que hubiesen logrado la más alta votación. Las resoluciones del Colegio Electoral serán definitivas e inapelables. Los organismos electorales correspondientes expedirán las constancias de mayoría y las relativas a las listas que hubiesen logrado más altas votaciones.
+
+Corresponde al Congreso del Estado darse las disposiciones generales que regulen su estructura y funcionamiento y reglamentar sus funciones, con carácter autónomo.
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
@@ -889,11 +889,15 @@ Las faltas temporales del Procurador General de Justicia que no excedan de cinco
 
 La base de la división territorial y de la organización política del Estado, es el Municipio Libre. Para la administración interior del Estado habrá Ayuntamientos y Agencias MunicipaIes cuyas atribuciones señalará la Ley.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1978)</small>
 
 ###### ARTICULO 65.
 
-Cada Municipio será administrado por un Ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado. Los agentes serán nombrados por el Ayuntamiento del que dependan, en sesión plena.
+Cada Municipio será administrado por un Ayuntamiento de elección popular directa. En la Capital del Estado y en los Municipios cuya población sea de 150 mil o más habitantes, los Ayuntamientos se integrarán hasta con dos Regidores más, electos según el sistema de representación proporcional.
+
+La Ley reglamentaria determinará las fórmulas y procedimientos a seguir para la asignación de estas Regidurías.
+
+No habrá ninguna autoridad intermedia entre los Ayuntamientos y el Gobierno del Estado. Los Agentes Municipales serán nombrados por el Ayuntamiento de que dependan, en sesión plena.
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
@@ -903,13 +907,11 @@ Los Municipios administrarán libremente su hacienda la cual se formará, aparte
 
 Cada año los Municipios remitirán al Congreso, para su revisión y aprobación en su caso, las cuentas del anterior y los presupuestos para el siguiente.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1978)</small>
 
 ###### ARTICULO 67.
 
-Cuando por cualquier circunstancia desapareciere algún Ayuntamiento u ocurrieran faltas absolutas en uno o mas miembros de su personal; tendrá facultad el Congreso del Estado, o en su defecto la Comisión Permanente, de nombrar substitutos, previa terna que proponga el Ejecutivo.
-
-Se considerará que el Ayuntamiento ha desaparecido cuando provenga la falta absoluta de la mitad más uno de sus miembros, motivada por la renuncia por causa grave o cualquier otra circunstancia. El Congreso Juzgará si debe removerse total o parcialmente un Ayuntamiento.
+Cuando por cualquier circunstancia desaparezca un Ayuntamiento en su totalidad, o se diera falta absoluta de uno o más de sus miembros administradores, tendrá facultad el Congreso del Estado o en su caso la Comisión Permanente en el primer supuesto, de nombrar un Consejo de Gobierno Municipal integrado por tres personas, con facultad administradora del Ayuntamiento; y en el segundo, nombrar sustitutos previa terna que para tal efecto proponga el Ejecutivo. Se considera que el Ayuntamiento ha desaparecido por falta absoluta de la mitad más uno de sus miembros, por licencia, causa grave o cualquier circunstancia que afecte la Administración del municipio. El Congreso del Estado y la Comisión Permanente tienen facultad para estudiar y determinar si ha operado la desaparición del Ayuntamiento en forma total o parcial.
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
@@ -1596,3 +1598,19 @@ SEGUNDO.- Los funcionarios que por disposición constitucional deban durar en su
 TERCERO.- Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
 
 CUARTO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 1978.
+
+DECRETO No. 4 QUE REFORMA EL ARTICULO 67 CONSTITUCIONAL.
+
+PRIMERO.- Quedan derogadas todas las disposiciones que se opongan a la presente reforma.
+
+SEGUNDO.- Esta reforma entrará en vigor una vez cumplido el procedimiento establecido en el Artículo 93 de la Constitución Política del Estado de Chiapas, Fracciones I, II, III y IV, y al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 1978.
+
+DECRETO No. 5 QUE REFORMA LOS ARTICULOS 17, 20 Y 65 DE LA CONSTITUCION.
+
+PRIMERO.- Las presentes reformas entrarán en vigor una vez cumplido el procedimiento establecido en el artículo 93 de la Constitución Política del Estado, en sus fracciones I a IV y al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Quedan derogadas todas las disposiciones que se opongan a las presentes reformas.
