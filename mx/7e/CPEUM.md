@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1943-01-08"
+last_updated: "1944-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE ENERO DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE FEBRERO DE 1944.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -398,7 +398,9 @@ IV.- Contribuir para los gastos públicos, así de la Federación como del Estad
 
 Los mexicanos serán preferidos a los extranjeros en igualdad de circunstancias, para toda clase de concesiones y para todos los empleos, cargos o comisiones del Gobierno en que no sea indispensable la calidad de ciudadano. En tiempo de paz ningún extranjero podrá servir en el Ejército, ni en las fuerzas de policía o seguridad pública.
 
-Para pertenecer a la Marina Nacional de Guerra y desempeñar cualquier cargo o comisión en ella, se requiere ser mexicano por nacimiento. Esta misma calidad será indispensable en capitanes, pilotos, patrones, maquinistas y de una manera general para todo el personal que tripule cualquier embarcación que se ampare con la bandera mercante mexicana. Será también necesaria la calidad de ciudadano mexicano por nacimiento para desempeñar el cargo de Capitán de Puerto y todos los servicios de practicaje, así como las funciones de Agente Aduanal en la República.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 1944)</small>
+
+Para pertenecer a la Marina Nacional de Guerra o a la Fuerza Aérea, y desempeñar cualquier cargo o comisión en ellas, se requiere ser mexicano por nacimiento. Esta misma calidad será indispensable en Capitanes, Pilotos, Patrones, Maquinistas, Mecánicos y, de una manera general, para todo el personal que tripule cualquier embarcación o aeronave que se ampare con la bandera o insignia mercante mexicana. Será también necesaria la calidad de mexicano por nacimiento para desempeñar los cargos de Capitán de Puerto, y todos los servicios de practicaje y Comandante de Aeródromo, así como todas las funciones de Agente Aduanal en la República.
 
 ### CAPITULO III.
 
@@ -766,11 +768,11 @@ Tampoco podrá hacerlas al Decreto de convocatoria a sesiones extraordinarias qu
 
 DE LAS FACULTADES DEL CONGRESO.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE OCTUBRE DE 1942)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE FEBRERO DE 1944)</small>
 
 ###### Art. 73.
 
-El Congreso tiene facultades:
+El Congreso tiene facultad:
 
 I.- Para admitir nuevos Estados o Territorios a la Unión Federal.
 
@@ -858,7 +860,9 @@ XII.- Para declarar la guerra, en vista de los datos que le presente el Ejecutiv
 
 XIII.- Para reglamentar el modo cómo deban expedirse las patentes de corso; para dictar leyes según las cuales deban declararse buenas o malas las presas de mar y tierra, y para expedir las relativas al derecho marítimo de paz y guerra.
 
-XIV.- Para levantar y sostener el Ejército y la Armada de la Unión, y para reglamentar su organización y servicio.
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 1944)</small>
+
+XIV.- Para levantar y sostener a las instituciones armadas de la Unión, a saber: Ejército, Marina de Guerra y Fuerza Aérea Nacionales, y para reglamentar su organización y servicio.
 
 XV.- Para dar reglamentos con objeto de organizar, armar y disciplinar la Guardia Nacional, reservándose a los ciudadanos que la forman, el nombramiento respectivo de jefes y oficiales, y a los Estados la facultad de instruirla conforme a la disciplina prescrita por dichos reglamentos.
 
@@ -974,7 +978,9 @@ Son facultades exclusivas del Senado:
 
 I.- Aprobar los tratados y convenciones diplomáticas que celebre el Presidente de la República con las potencias extranjeras.
 
-II.- Ratificar los nombramientos que el mismo funcionario haga de Ministros, agentes diplomáticos, cónsules generales, empleados superiores de Hacienda, coroneles y demás jefes supremos del Ejército y Armada Nacional, en los términos que la ley disponga.
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 1944)</small>
+
+II.- Ratificar los nombramientos que el mismo funcionario haga de Ministros, Agentes Diplomáticos, Cónsules Generales, Empleados Superiores de Hacienda, Coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga.
 
 III.- Autorizarlo también para que pueda permitir la salida de tropas nacionales fuera de los límites del País, el paso de tropas extranjeras por el territorio nacional y la estación de escuadras de otra potencia, por más de un mes, en aguas mexicanas.
 
@@ -1128,11 +1134,17 @@ II.- Nombrar y remover libremente a los secretarios del Despacho, al procurador 
 
 III.- Nombrar los ministros, agentes diplomáticos y cónsules generales, con aprobación del Senado.
 
-IV.- Nombrar con aprobación del Senado los coroneles y demás oficiales superiores del Ejército y Armada Nacional y los empleados superiores de Hacienda.
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 1944)</small>
 
-V.- Nombrar a los demás oficiales del Ejército y Armada Nacional, con arreglo a las leyes.
+IV.- Nombrar, con aprobación del Senado, los Coroneles y demás oficiales superiores del Ejército, Armada y Fuerza Aérea Nacionales, y los empleados superiores de Hacienda.
 
-VI.- Disponer de la fuerza armada permanente de mar y tierra para la seguridad interior y defensa exterior de la Federación.
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 1944)</small>
+
+V.- Nombrar a los demás oficiales del Ejército, Armada y Fuerza Aérea Nacionales, con arreglo a las leyes.
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 1944)</small>
+
+VI.- Disponer de la totalidad de la fuerza armada permanente o sea del ejército terrestre, de la marina de guerra y de la fuerza aérea para la seguridad interior y defensa exterior de la Federación.
 
 VII.- Disponer de la Guardia Nacional para los mismos objetos, en los términos que previene la fracción IV del artículo 76.
 
@@ -2039,5 +2051,9 @@ D.O.F. 30 DE DICIEMBRE DE 1942.
 La presente ley entrará en vigor quince días después de la fecha en que se publique en el "Diario Oficial" de la Federación.
 
 D.O.F. 8 DE ENERO DE 1943.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 10 DE FEBRERO DE 1944.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
