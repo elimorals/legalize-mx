@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "1985-11-28"
+last_updated: "1985-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE NOVIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1985.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -483,9 +483,11 @@ El impuesto se causará:
 
 (VEASE TABLA ANEXA)
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 57.
 
-Tratándose de predios no edificados, las tasas que resulten, después de aplicar la sobre-tasa de 25% a cada una de las categorías a que se refiere la Fracción II y IV del Artículo anterior, se incrementarán en un 2 al millar anual o su equivalente al trimestre en forma progresiva y acumulativa, hasta el término de 5 años, conforme a las normas siguientes:
+Tratándose de predios no edificados, las tasas que resulten, después de aplicar a cada una de las categorías, la tarifa a que se refiere la Fracción II del Artículo anterior, se incrementarán en un 2 al millar anual o su equivalente al trimestre en forma progresiva y acumulativa, hasta el término de cinco año (sic), conforme a las normas siguientes:
 
 I.- Cuando los predios urbanos no edificados sean propiedad de fraccionamientos autorizados, el incremento anual de 2 al millar, se causará un año después de la enajenación a terceros por cualquier título de cada lote de terreno, siempre que el adquiriente no posea otros bienes inmuebles urbanos.
 
@@ -1244,3 +1246,7 @@ UNICO.- ESTA LEY ENTRARÁ EN VIGOR EN TODO EL ESTADO, EL DÍA SIGUIENTE DE SU PU
 B.O. 28 DE NOVIEMBRE DE 1985.
 
 UNICO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 30 DE DICIEMBRE DE 1985.
+
+UNICO.- La presente Ley entrará en vigor, previa su publicación en el Boletín Oficial del Gobierno del Estado, el día 1o. de enero de 1986.
