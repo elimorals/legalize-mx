@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-catastro-del-estado-de-campeche-3448"
 country: "mx"
 rank: "ley"
 publication_date: "1992-04-11"
-last_updated: "1994-03-24"
+last_updated: "1995-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE CATASTRO DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 11 de abril de 1992.
 
@@ -305,6 +305,10 @@ El Ayuntamiento podrá verificar, mediante visitas de campo y estudios técnicos
 
 Para el otorgamiento de licencia o autorización para fraccionar, subdividir, relotificar o fusionar un predio, la autoridad competente requerirá del solicitante la certificación de clave y valor catastral respectivos. Asimismo, enviará mensualmente a la Dependencia Catastral de su jurisdicción una relación de las licencias y autorizaciones que haya otorgado durante el período.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+La dependencia catastral correspondiente informará al ICECAM de la creación de nuevos asentamientos, autorizados por la autoridad municipal, para efectos de la actualización de la cartografía municipal.
+
 ###### Artículo 20.
 
 En los casos de condominios, fraccionamientos, subdivisiones, relotificaciones o fusiones de predios que se realicen, total o parcialmente, sin la licencia o autorización respectivas, el Ayuntamiento procederá a efectuar los trabajos catastrales correspondientes, sin perjuicio de aplicar las sanciones que prevé esta Ley y sin que implique la regularización de esta situación.
@@ -464,6 +468,10 @@ Para la valuación de cada construcción, deberá multiplicarse el valor unitari
 ###### Artículo 43.
 
 El Valor Catastral que se determine para cada predio será el que se obtenga de la suma de los valores del terreno y de la construcción, en su caso, y tendrá vigencia por un año, prorrogable por un año más.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+Para el caso de que un predio tenga uno o más usos de suelo, su valor catastral será determinado de acuerdo a lo que establezcan las tablas de valores unitarios aplicables para esos efectos.
 
 ###### Artículo 44.
 
@@ -649,15 +657,11 @@ c) Ultimo recibo del impuesto predial, si está registrado; y
 
 d) Constancia del Ayuntamiento, cuando se trate de construcciones en ruinas o demolidas.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
 ###### Artículo 63.
 
-Para su trámite, la Solicitud de Registro Catastral constará de tres ejemplares:
-
-- Original, para la Dependencia Catastral correspondiente.
-
-- Una copia, para el interesado.
-
-- Una copia para la Tesorería Municipal.
+Para su trámite, la solicitud de registro catastral constará de dos ejemplares, de los que el original será para el interesado y la copia para la Tesorería Municipal.
 
 ###### Artículo 64.
 
@@ -930,3 +934,9 @@ P.O. 24 DE MARZO DE 1994.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 1995.
+
+Primero.- El presente decreto entrará en vigor el día primero de Enero de mil novecientos noventa y seis.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan a las contenidas en este decreto.
