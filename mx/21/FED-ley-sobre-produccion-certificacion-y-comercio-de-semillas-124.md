@@ -4,7 +4,7 @@ identifier: "FED-ley-sobre-produccion-certificacion-y-comercio-de-semillas-124"
 country: "mx"
 rank: "ley"
 publication_date: "1991-07-15"
-last_updated: "1991-07-15"
+last_updated: "1996-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-07-11"
 
 LEY SOBRE PRODUCCION, CERTIFICACION Y COMERCIO DE SEMILLAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE OCTUBRE DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 15 de julio de 1991.
 
@@ -73,7 +73,7 @@ VI.- Semillas verificadas: las provenientes de las semillas básicas y registrad
 
 VII.- Materiales transgénicos de alto riesgo: aquellos con capacidad para transferir a otro organismo una molécula o gene recombinatorio con un potencial de alto riesgo por efectos inesperados, debido a sus características de supervivencia, multiplicación y dispersión.
 
-### CAPITULO II. De la Investigación, Certificación, Verificación y Comercio de Semillas
+### CAPITULO III. De las Infracciones
 
 ###### Artículo 4o.
 
@@ -171,9 +171,7 @@ Los servicios a que se refieren las fracciones I y II de este artículo, serán 
 
 ###### Artículo 12.
 
-La Secretaría tendrá a su cargo el Registro Nacional de Variedades de Plantas, en el que se inscribirán, para su identificación, las características agronómicas, morfológicas, fisiológicas y bioquímicas de las variedades de plantas que se pretendan certificar o verificar y las áreas de adaptación recomendadas, así como los actos y documentos que establezcan otras leyes y reglamentos.
-
-El Registro Nacional de Variedades de Plantas funcionará conforme a lo dispuesto por el Reglamento de esta ley.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE VARIEDADES VEGETALES, D.O.F. 25 DE OCTUBRE DE 1996)
 
 ###### Artículo 13.
 
@@ -197,7 +195,7 @@ IV.- Las demás funciones que le señalen esta ley y su reglamento.
 
 El Comité podrá desconcentrarse regionalmente, previo acuerdo del titular de la Secretaría, cuando haya justificación y necesidad de establecerse en regiones determinadas.
 
-### CAPITULO III. De las Infracciones
+### CAPITULO II. De la Investigación, Certificación, Verificación y Comercio de Semillas
 
 ###### Artículo 15.
 
@@ -254,3 +252,27 @@ El Organismo Público descentralizado del Gobierno Federal denominado Productora
 México, D.F., a 9 de julio de 1991.- Dip. Sami David David, Presidente.- Sen. Fernando Silva Nieto, Presidente.- Dip. Juan Manuel Verdugo Rosas, Secretario.- Sen. Bulmaro Pacheco Moreno, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los once días del mes de julio de mil novecientos noventa y uno.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 25 DE OCTUBRE DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan los artículos 12 de la Ley Sobre Producción, Certificación y Comercio de Semillas, y Quinto Transitorio del Decreto por el que se Reforman, Adicionan y Derogan Diversas Disposiciones de la Ley de Fomento y Protección de la Propiedad Industrial, publicado en el Diario Oficial de la Federación el 2 de agosto de 1994, así como todas las demás disposiciones administrativas que se opongan a la presente ley.
+
+###### ARTÍCULO CUARTO.
+
+Las variedades vegetales que hayan sido inscritas en el Registro Nacional de Variedades de Plantas al que se refiere la Ley Sobre Producción, Certificación y Comercio de Semillas, serán susceptibles de otorgamiento de título de obtentor, previo cumplimiento de las condiciones previstas en esta ley. La duración de la protección de los derechos será conforme a lo establecido en el artículo 4o. de esta ley, tomando en cuenta la fecha en que fue asignado el número de registro en el Registro Nacional de Variedades de Plantas. Los derechos adquiridos por dicha asignación serán respetados íntegramente.
+
+###### ARTÍCULO QUINTO.
+
+El Instituto Mexicano de la Propiedad Industrial remitirá a la Secretaría, dentro de los seis meses de la entrada en vigor de la presente ley, las solicitudes de los obtentores de variedades vegetales en todos los géneros y especies, que le hayan sido presentadas con anterioridad a la entrada en vigor de este ordenamiento, de conformidad con lo establecido en el artículo Quinto Transitorio del Decreto por el que se Reforman, Adicionan y Derogan Diversas Disposiciones de la Ley de Fomento y Protección de la Propiedad Industrial publicado en el Diario Oficial de la Federación el 2 de agosto de 1994.
+
+Respecto de las solicitudes de patentes para proteger variedades vegetales que se encuentren en trámite al amparo de la Ley de Fomento y Protección de la Propiedad Industrial, los solicitantes podrán acogerse a los beneficios que otorga este ordenamiento dentro de los seis meses siguientes a su entrada en vigor, mediante petición por escrito presentada ante la Secretaría de Agricultura, Ganadería y Desarrollo Rural. Los derechos adquiridos por las patentes que se hubieren otorgado serán respetados íntegramente.
