@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1979-12-31"
+last_updated: "1981-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1981.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -1680,7 +1680,7 @@ Las ocupaciones de zona federal a que se refiere este artículo, no causarán cu
 
 ###### ARTICULO 184.
 
-La Secretaría de Comunicaciones y Obras Públicas podrá disponer, durante el tiempo que lo juzgue necesario, que se suspenda o reduzca el cobro de cuotas por ocupación de terrenos en la zona federal de las regiones que hubieren sido víctimas de temporales o accidentes graves, o cuando la depresión económica de la región ponga a sus habitantes en difíciles condiciones de vida.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 185.
 
@@ -3522,9 +3522,11 @@ La Secretaría de Comunicaciones, para los servicios de la Red Nacional, tendrá
 
 La Secretaría de Comunicaciones podrá ordenar que sean modificadas en su altura o cambiadas de trazo o de lugar en los trayectos indispensables, las líneas de señales o ministradores que obstruccionen la buena comunicación de la Red Nacional y el normal funcionamiento de las demás instalaciones eléctricas, así como señalar a las empresas y propietarios de aquéllas un plazo prudente para la ejecución de los trabajos; en la inteligencia de que la misma Secretaría podrá mandar efectuar dichos cambios por cuenta de las empresas o propietarios, en caso de no ser ejecutados dentro de los plazos señalados, conforme a lo dispuesto en el artículo 47.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### ARTICULO 389.
 
-El Ejecutivo Federal, por conducto de la Secretaría de Comunicaciones, queda facultado para determinar las tarifas y derechos que deben regir en materia de comunicaciones eléctricas de la Red Nacional.
+El Ejecutivo Federal, por conducto de la Secretaría de Comunicaciones y Transportes, queda facultado para determinar las tarifas que deben regir en materia de comunicaciones eléctricas de la red nacional.
 
 > <small>(REFORMADO, D.O.F. 7 DE JULIO DE 1944)</small>
 
@@ -4608,69 +4610,29 @@ VII.- Los demás que les concedan esta Ley de (sic) sus reglamentos.
 
 ### CAPITULO XXVI. Derechos
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 513.
 
-Por la prestación de servicios que enumera esta Ley se pagarán previamente los derechos que señale la tarifa.
-
-Los pagos que excepcionalmente hayan de hacerse con posterioridad, estarán sujetos a lo prevenido por el reglamento.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 514.
 
-El franqueo de la correspondencia se cubrirá:
-
-I.- En estampillas postales.
-
-II.- Con marcas de máquinas franqueadoras autorizadas por la Dirección General de Correos.
-
-III.- En efectivo.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 ### CAPITULO XXVII. Franquicia
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 515.
 
-Disfrutará de franquicia postal la correspondencia que en seguida se enumera:
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
-
-I.- La oficial de los Poderes Legislativo y Judicial de la Federación.
-
-II.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1979)
-
-III.- La oficial de los Poderes Legislativo, Ejecutivo y Judicial de los gobiernos de los Estados y la de los municipios, cuando esté dirigida a oficinas federales.
-
-IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1979)
-
-V.- La oficial del Registro Civil.
-
-VI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1979)
-
-VII.- Las publicaciones periódicas que reunan los requisitos que fije el reglamento.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 516.
 
-La franquicia postal que concede el artículo anterior, se contrae únicamente al derecho del servicio ordinario por vías de superficie.
-
-Dicha franquicia sólo se hará extensiva al derecho de registro, cuando así lo requiera la importancia de la correspondencia comprendida de las fracciones I a VI de dicho artículo.
-
-Los exhortos a las actuaciones que remitan las autoridades en juicio de amparos podrán cursarse por la vía aérea cuando sea necesario, y gozar de franquicia por los derechos postales de los servicios de entrega inmediata y acuse de recibo.
-
-La correspondencia del servicio internacional disfrutará de franquicia en los casos que así lo determinen expresamente los convenios y tratados internacionales.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 517.
 
-El Ejecutivo de la Unión, por conducto de la Secretaría de Comunicaciones y Transportes, podrá conceder franquicia para usar el servicio ordinario por vías de superficie, a instituciones públicas de carácter cultural y científico.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
@@ -4694,17 +4656,13 @@ Para la introducción al país, así como para la fabricación, venta o uso de m
 
 ### CAPITULO XXIX. Tarifa
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 520.
 
-El Ejecutivo de la Unión fijará la tarifa de derechos postales de acuerdo con las (sic) clase y naturaleza de las correspondencias y demás condiciones del servicio.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 521.
 
-La tarifa para las correspondencias y servicios internacionales se sujetará a las disposiciones de los tratados y convenios respectivos.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
@@ -5471,3 +5429,9 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 ###### ARTICULO PRIMERO.
 
 La presente Ley entrará en vigor en toda la República el día primero de enero de mil novecientos ochenta.
+
+D.O.F. 31 DE DICIEMBRE DE 1981.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1°. de enero de 1982.
