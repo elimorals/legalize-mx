@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ingresos-y-presupuesto-de-ingresos-del-estado-para-35311
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2003-12-26"
-last_updated: "2004-02-12"
+last_updated: "2004-10-07"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE INGRESOS Y PRESUPUESTO DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL DEL AÑO 2004
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Sonora el viernes 26 de diciembre de 2003.
 
@@ -501,7 +501,7 @@ III.- Los contribuyentes que contraten trabajadores con edad de 40 años en adel
 
 IV.- Los contribuyentes constituidos en sociedades de responsabilidad limitada de interés público y capital variable, así como los organismos auxiliares de cooperación que realicen actividades de interés público y cuya operación sea financiada mediante la concurrencia de recursos públicos y privados, gozarán de una reducción del 100% en el pago del Impuesto Sobre Remuneraciones al Trabajo Personal.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, B.O. 12 DE FEBRERO DE 2004)</small>
 
 V.- Tratándose de la inscripción de escrituras constitutivas de sociedades mercantiles que realicen actividades empresariales, el importe de la cuota por la prestación del servicio a que se refiere el artículo 321, apartado 12 proemio de la Ley de Hacienda del Estado, se reducirá en un 50%.
 
@@ -531,7 +531,7 @@ VI.- Alta inversión en infraestructura, maquinaria y/o equipo para la operació
 
 Los estímulos, el porcentaje de reducción y el período durante el cual se apliquen se otorgarán conforme a las disposiciones establecidas en el Reglamento que al efecto expida el Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, B.O. 12 DE FEBRERO DE 2004)</small>
 
 En los casos de las empresas a que se refiere el presente artículo, el Ejecutivo del Estado podrá reducir en un 75% el importe de las cuotas de los derechos por la inscripción en el Registro Público de la Propiedad y del Comercio de los créditos hipotecarios o refaccionarios de habilitación o avío otorgados por instituciones de crédito y organizaciones auxiliares, así como el registro de contratos de fideicomiso con garantía hipotecaria, incluidos en el apartado 1 del artículo 321 de la Ley de Hacienda del Estado de Sonora y de los derechos establecidos en el apartado 12 proemio, del citado numeral, en cuyo caso no se aplicará el estímulo establecido en el artículo 7º, fracción V del presente ordenamiento.
 
@@ -579,9 +579,11 @@ El ejercicio de los recursos del fondo a que se refiere este artículo se realiz
 
 Los recursos asignados conforme al presente artículo que no se ejerzan durante el ejercicio fiscal para el cual fueron programados, continuarán siendo parte integral del fondo y podrán ejercerse en el año subsiguiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 13°.
 
-Se autoriza al Titular del Poder Ejecutivo para que por conducto de la Secretaría de Hacienda, gestione y contrate, en los términos de la Ley de Deuda Pública del Estado de Sonora, con la o las instituciones financieras que mejores condiciones contractuales ofrezcan, uno o varios créditos hasta por la cantidad total de $100'000,000.00 (SON: CIEN MILLONES DE PESOS 00/l00 M. N.), en cuyo importe no se comprenden comisiones, intereses o gastos, con plazos que no superen el mes de agosto de 2009, a efecto de destinarlos a inversiones públicas productivas a cargo del Gobierno del Estado.
+Se autoriza al Titular del Poder Ejecutivo para que, por conducto de la Secretaría de Hacienda, gestione y contrate, en los términos de la Ley de Deuda Pública del Estado de Sonora, con la o las instituciones financieras que mejores condiciones contractuales ofrezcan, uno o varios créditos revolventes hasta por la cantidad total de $100'000,000.00 (SON: CIEN MILLONES DE PESOS 00/100 M. N.), en cuyo importe no se comprenden comisiones, intereses o gastos, con plazos que no superen el mes de agosto de 2009, a efecto de destinarlos a inversiones públicas productivas a cargo del Gobierno del Estado.
 
 Se autoriza al Titular del Poder Ejecutivo para que, en nombre y representación del Gobierno del Estado, afecte a favor del o los bancos acreditantes, en garantía del cumplimiento de todas y cada una de las obligaciones a su cargo derivadas del o los créditos que le sean otorgados con sustento en esta Ley, los flujos futuros de ingresos derivados de participaciones federales y/o los de ingresos propios del Gobierno del Estado, así como para establecer dichos flujos como fluente de pago del o los créditos contratados al amparo del presente ordenamiento.
 
@@ -654,3 +656,9 @@ B.O. 12 DE FEBRERO DE 2004.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 7 DE OCTUBRE DE 2004.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
