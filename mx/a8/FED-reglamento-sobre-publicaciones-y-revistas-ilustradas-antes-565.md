@@ -4,7 +4,7 @@ identifier: "FED-reglamento-sobre-publicaciones-y-revistas-ilustradas-antes-565"
 country: "mx"
 rank: "reglamento"
 publication_date: "1981-07-13"
-last_updated: "1982-11-26"
+last_updated: "1982-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=565&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1981-07-10"
 
 REGLAMENTO SOBRE PUBLICACIONES Y REVISTAS ILUSTRADAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE NOVIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE DICIEMBRE DE 1982.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 13 de julio de 1981.
 
@@ -45,261 +45,191 @@ Que por lo anterior se considera necesario actualizar las normas que permitan un
 
 REGLAMENTO SOBRE PUBLICACIONES Y REVISTAS ILUSTRADAS
 
-> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
-
 ###### ARTICULO 1o.
 
-Este Reglamento es de observancia general en la República y su aplicación está a cargo de la Comisión Calificadora de Publicaciones y de Objetos Obscenos.
-
-> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+La Comisión Calificadora de Publicaciones y Revistas Ilustradas a que se refieren los considerandos anteriores, tendrá a su cargo la aplicación de este Reglamento.
 
 ###### ARTICULO 2o.
 
 La Comisión estará integrada por cinco miembros designados por el Ejecutivo Federal a través del Secretario de Gobernación, quien nombrará de entre ello al que funja como Presidente.
 
-> <small>(ADICIONADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
-
 ###### ARTICULO 2o.
 
-BIS.- Son facultades del Presidente de la Comisión:
-
-I.- Convocar a los integrantes de la Comisión y presidir las sesiones;
-
-II.- Acordar con el Secretario a que se refiere el artículo 4o. de este Reglamento, todos los asuntos de obvia resolución o urgentes, de los que dará cuenta a la comisión inmediatamente que ésta sesione;
-
-III.- Efectuar ante las autoridades correspondientes los trámites que se requieran para realizar las funciones de la Comisión;
-
-IV.- Hacer del conocimiento del Ministerio Público las conductas o hechos que pudieran constituir delito;
-
-V.- Tener voto de calidad, en caso de empate en las sesiones;
-
-VI.- Representar legalmente a la Comisión, con el poder más amplio que en derecho proceda;
-
-VII.- Presidir las audiencias que conceda la Comisión, con asistencia del Secretario de la misma.
-
-> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+BIS.- (DEROGADO, D.O.F. 13 DE DICIEMBRE DE 1982)
 
 ###### ARTICULO 3o.
 
-La Comisión podrá sesionar con tres de sus miembros, debiendo ser uno de ellos el Presidente de la misma, y decidirá los asuntos de su competencia por mayoría de votos de los presentes.
-
-> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+La Comisión Calificadora podrá sesionar con tres de sus miembros, debiendo ser uno de ellos el Presidente de la misma, y decidirá los asuntos de su competencia por mayoría de votos de los que la integran.
 
 ###### ARTICULO 4o.
 
-La Comisión contará con un Secretario distinto a las personas que la integran, que tendrá voz pero no voto en las sesiones y desempeñará las siguientes funciones:
+La Comisión contará con un Secretario para levantar actas, notificar y llevar a cabo la tramitación administrativa general, así como para desahogar todas las encomiendas que dispongan la Comisión o la Presidencia de la misma.
 
-I.- Levantar actas;
+I.- (DEROGADA, D.O.F. 13 DE DICIEMBRE DE 1982)
 
-II.- Notificar;
+II.- (DEROGADA, D.O.F. 13 DE DICIEMBRE DE 1982)
 
-III.- Dar fe y expedir certificaciones;
+III.- (DEROGADA, D.O.F. 13 DE DICIEMBRE DE 1982)
 
-IV.- Preparar las audiencias y la tramitación administrativa en general;
+IV.- (DEROGADA, D.O.F. 13 DE DICIEMBRE DE 1982)
 
-V.- Desahogar todas las encomiendas que disponga la Comisión o la Presidencia de la misma.
+V.- (DEROGADA, D.O.F. 13 DE DICIEMBRE DE 1982)
 
-> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+El Secretario tendrá voz, mas no voto, y no podrá ser designado de entre las personas que integren la Comisión Calificadora.
 
 ###### ARTICULO 5o.
 
-Son facultades de la Comisión:
+Son facultades de la Comisión Calificadora de Publicaciones y Revistas Ilustradas:
 
-I.- Examinar de oficio o a petición de parte, todo tipo de publicaciones.
+a).- Examinar de oficio o a petición de parte las publicaciones y revistas ilustradas;
 
-Se entiende por publicación: los escritos, libros, fascículos, revistas, periódicos, libelos, dibujos, grabados, pinturas, impresos, imágenes, anuncios, emblemas, fotografías, películas cinematográficas cuyos derechos autorales no hayan sido registrados, grabaciones de sonido, video-grabaciones o cualquier similar que se elabore con el fin de divulgarlo o distribuirlo;
+b).- Declarar la licitud de título o contenido de las publicaciones y revistas ilustradas; o su ilicitud, cuando compruebe que de manera ostensible y grave aparece alguno de los inconvenientes que menciona el artículo 6o. de este Reglamento;
 
-II.- Examinar de oficio a petición de parte cualquier objeto que pudiere ser obsceno o contrario a la moral pública o a la educación en los términos del artículo 6o. de este Reglamento.
+c).- Enviar copia certificada de las resoluciones de ilicitud a la Dirección General de Correos de la Secretaría de Comunicaciones y Transportes, para los efectos del artículo 441 de la Ley de Vías Generales de Comunicación;
 
-III.- Declarar la licitud de título y contenido de las publicaciones; o la ilicitud, cuando se compruebe que aparece alguno de los inconvenientes que se mencionan en el artículo 6o. del presente ordenamiento. La declaración de ilicitud del contenido lleva implícita la del título correspondiente, entendiéndose con ello cancelado este último.
+d).- Comunicar las resoluciones de ilicitud a la Dirección General de Derechos de Autor de la Secretaría de Educación Pública, así como a las autoridades que deban coadyuvar en el cumplimiento de sus resoluciones;
 
-También deberá declarar la ilicitud de objetos cuando sean contrarios a la moral pública o a la educación conforme al artículo siguiente;
+e).- Poner en conocimiento del Ministerio Público Federal, las publicaciones que en su concepto sean delictuosas, enviando el dictamen respectivo;
 
-IV.- Decretar la suspensión hasta por doce meses de la impresión, circulación y distribución de publicaciones;
+f).- Cancelar los certificados de licitud de títulos y contenido por causas supervenientes;
 
-V.- Enviar copia certificada o autógrafa de las resoluciones de ilicitud a la Dirección General de Correos de la Secretaría de Comunicaciones y Transportes, para los efectos del artículo 441 de la Ley de Vías Generales de Comunicación;
+g).- Imponer las sanciones a que se refiere este Reglamento;
 
-VI.- Comunicar las resoluciones de ilicitud a la Dirección General de Derechos de Autor de la Secretaría de Educación Pública, así como a las autoridades y organismos que hayan de coadyuvar al cumplimiento de tales resoluciones;
-
-VII.- Anular o revocar los Certificados de Licitud de Título o Contenido;
-
-VIII.- Imponer las sanciones a que se refiere este Reglamento;
-
-IX. Cuidar la aplicación de las normas jurídicas relativas a objetos obscenos y a publicaciones;
-
-X.- Cuando lo soliciten otras autoridades, emitir opinión respecto a las materias competencia de la Comisión;
-
-XI.- Ordenar el retiro de la circulación de las publicaciones y objetos ilícitos, determinando el destino último de los mismos.
-
-En el caso de las publicaciones, se podrá ordenar a los editores interesados que bajo su responsabilidad sean destruidas, reutilizando la materia en la elaboración de papel para editar publicaciones lícitas.
-
-Tratándose de objetos, en todo caso se mandará su destrucción.
-
-> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+h).- Auxiliar a otras autoridades que lo soliciten, emitiendo opinión fundada en todo lo relacionado a la competencia de la Comisión.
 
 ###### ARTICULO 6o.
 
-Se considerarán contrarios al derecho, a la moral pública y a la educación, el título o contenido de las publicaciones, o los objetos por:
+Se considerarán contrarios a la moral pública y a la educación el título o contenido de las publicaciones y revistas ilustradas por:
 
-I.- Contener escritos, dibujos, grabados, pinturas, impresos, imágenes, anuncios, emblemas, fotografías, sonidos o voces que directa, indirectamente o mediante anfibología sean contrarios a las buenas costumbres, a la moral o induzcan o fomenten vicios;
+I.- Contener escritos, dibujos, grabados, pinturas, impresos, imágenes, anuncios, emblemas, fotografías y todo aquello que directa o indirectamente induzca o fomente vicios y constituya por sí mismo delito;
 
-II.- Adoptar temas que pudieran dañar la actitud favorable al trabajo o el entusiasmo por el estudio;
+II.- Adoptar temas capaces de dañar la actitud favorable al trabajo y el entusiasmo por el estudio;
 
-III.- Describir aventuras en las cuales los personajes obtengan buen éxito en sus empresas mediante la transgresión de la Ley, la moral pública o del respeto a las instituciones;
+III.- Describir aventuras en las cuales, eludiendo las leyes y el respeto a las instituciones establecidas, los protagonistas obtengan éxito en sus empresas;
 
-IV.- Mostrar procedimientos para la ejecución de hechos contrarios a la Ley, la moral pública, las buenas costumbres o a la educación;
+IV.- Proporcionar enseñanza de los procedimientos utilizados para la ejecución de hechos contrarios a las leyes, la moral o las buenas costumbres;
 
-V.- Contener relatos que por su intención o por la calidad de los personajes, provoquen -directa o indirectamente- desprecio o rechazo para el pueblo mexicano, sus aptitudes, costumbres, historia y tradiciones, o las de otros pueblos o razas;
+V.- Contener relatos por cuya intención o por la calidad de los personajes, provoquen directa o indirectamente desprecio o rechazo para el pueblo mexicano, sus aptitudes, costumbres y tradiciones;
 
-VI.- Contener temas adversos a la solidaridad internacional;
+VI.- Utilizar textos en los que sistemáticamente se empleen expresiones contrarias a la corrección del idioma, y
 
-VII.- No respetar la dignidad de la persona denostándola al mostrar hechos concernientes a ésta;
+VII.- Insertar artículos o cualquier otro contenido que por sí solos, adolezcan de los inconvenientes mencionados en cualquiera de las fracciones anteriores;
 
-VIII.- Contener cualquier perversión sexual;
+VIII.- (DEROGADA, D.O.F. 13 DE DICIEMBRE DE 1982)
 
-IX.- Emplear expresiones contrarias a la corrección del idioma;
+IX.- (DEROGADA, D.O.F. 13 DE DICIEMBRE DE 1982)
 
-X.- Auspiciar la superstición, superchería, fetichismo, ignorancia o el fanatismo;
+X.- (DEROGADA, D.O.F. 13 DE DICIEMBRE DE 1982)
 
-XI.- Emplear expresiones que directamente o mediante anfibología, sean groseras, obscenas u ofensivas;
+XI.- (DEROGADA, D.O.F. 13 DE DICIEMBRE DE 1982)
 
-XII.- Contener semidesnudos, desnudos integrales o que muestren el vello o la región púbica, excepto aquellas publicaciones científicas o de arte pictórico, escultórico o fotográfico cuya materia justifique la aparición del desnudo y siempre que sea conforme a la moral pública.
-
-> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+XII.- (DEROGADA, D.O.F. 13 DE DICIEMBRE DE 1982)
 
 ###### ARTICULO 7o.
 
-Las publicaciones científicas o de arte pictórico, escultórico o fotográfico -que son las únicas que podrán contener desnudos- no los harán aparecer en la contraportada, lomo ni en la portada; deberán especificar en ésta, con letras visibles, que son "sólo para adultos" y únicamente podrán exhibirse en bolsas de plástico cerradas.
-
-> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+Las publicaciones de contenido marcadamente referente al sexo, no presentarán en la portada o contraportada, desnudos, ni expresiones de cualquier índole contrarios a la moral y a la educación; ostentarán en lugar visible que son propias para adultos y sólo podrán exhibirse en bolsas de plástico cerradas.
 
 ###### ARTICULO 8o.
 
-Se entenderá por responsable del objeto obsceno o la publicación, quien por sí o por otra persona fabrique, imprima, edite, comercie, haga circular, distribuya, exponga o negocie con ellos u ordene que se realicen las anteriores actividades.
+Si del examen de la publicación se determina que el título o contenido presenta alguno de los inconvenientes a que se refiere el artículo 6o., de este Reglamento, el infractor será citado a audiencia, señalándose fecha y hora para ser oído y rendir las pruebas que estime pertinentes, así como para que alegue lo que a su derecho convenga, formulándose el acta correspondiente, y la Comisión resolverá lo conducente.
 
-> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+La citación para dicha audiencia se hará cuando menos con cinco días hábiles de anticipación, indicando en la misma el motivo de la infracción.
+
+Si en la audiencia se ofrecen pruebas que por su naturaleza no puedan rendirse de modo inmediato, la Comisión Calificadora fijará nueva fecha para su desahogo.
+
+Si la persona citada debidamente, no comparece a la audiencia, se levantará acta circunstanciada y el procedimiento se seguirá por todos sus trámites hasta dictar la resolución que corresponda.
 
 ###### ARTICULO 9o.
 
-Para el registro del título o de la cabeza o del contenido de las publicaciones periódicas en la Dirección General de Derechos de Autor de la Secretaría de Educación Pública, es necesario que la Comisión Calificadora declare que las mismas están exentas de los defectos mencionados en el artículo 6o. de este Reglamento al expedir el certificado correspondiente. Sobre el contenido de las publicaciones deberá solicitarse el certificado dentro de los 30 días naturales siguientes a la fecha de su primera edición.
+Las personas que dirijan, editen, publiquen, importen, distribuyan o vendan las publicaciones y revistas ilustradas a que se refiere el artículo 6o., excepto tratándose de voceadores o papeleros, serán sancionadas administrativamente con:
 
-> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+I.- Multa de $500.00 a $100,000.00 o arresto hasta por 36 horas, según las circunstancias personales del infractor, los móviles de su conducta y la gravedad o magnitud del hecho;
+
+II.- Multa de $10,000.00 a $100,000.00 a quien haga uso indebido de un certificado de licitud de título o contenido que hubiere sido revocado;
+
+III.- Suspensión hasta por un año del uso del título y edición de la publicación;
+
+IV.- Declaración de ilicitud del título o contenido;
+
+V.- Por violación a cualquier norma de este Reglamento que no tenga una sanción específica, se impondrá a juicio de la Comisión multa de $1,000.00 a $50,000.00.
+
+En caso de reincidencia las multas podrán ser duplicadas.
+
+En el supuesto de que la multa no se cubra se substituirá por arresto hasta de quince días.
 
 ###### ARTICULO 10.
 
-El procedimiento a seguir ante la Comisión se sujetará a las disposiciones del presente articulado y, de manera supletoria, al Código Federal de Procedimientos Civiles.
-
-> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+Para el registro del título o de la cabeza o del contenido de las publicaciones periódicas en la Dirección de Derechos de Autor, es necesario que la Comisión Calificadora declare que las mismas están exentas de los defectos mencionados en el artículo 6o. de este Reglamento al expedir el certificado correspondiente. Sobre el contenido de las publicaciones deberá solicitarse el certificado dentro de los 30 días naturales siguientes a la fecha de su primera edición.
 
 ###### ARTICULO 11.
 
-Las promociones se efectuarán por escrito; las actuaciones se harán constar de la misma manera.
-
-> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+Los propietarios, directores o editores de publicaciones, en todo tiempo podrán solicitar de la Comisión Calificadora, que dictamine sobre su licitud.
 
 ###### ARTICULO 12.
 
-La primera promoción que se presente ante la Comisión con el fin de obtener un Certificado de Licitud de Título o Contenido de una publicación, deberá satisfacer los siguientes requisitos:
+La Dirección General de Correos sólo permitirá la circulación postal de publicaciones periódicas, siempre que a la solicitud correspondiente se acompañe certificado de licitud expedido por la Comisión Calificadora.
 
-I.- La firmará el interesado o su representante legal;
+I.- (DEROGADA, D.O.F. 13 DE DICIEMBRE DE 1982)
 
-II.- Si es promovida a través de representante legal, acreditará éste su personalidad con poder para actos de administración, en los términos del segundo párrafo del artículo 2554 del Código Civil para el Distrito Federal en Materia Común, y para toda la República en Materia Federal;
+II.- (DEROGADA, D.O.F. 13 DE DICIEMBRE DE 1982)
 
-III.- Se señalará domicilio para notificaciones;
+III.- (DEROGADA, D.O.F. 13 DE DICIEMBRE DE 1982)
 
-IV.- Si es para obtener el Certificado de Licitud de Título, en el escrito petitorio se enunciará una síntesis de lo que se va a publicar y se acompañará la constancia expedida por la Dirección General de Derechos de Autor de la Secretaría de Educación Pública, donde se conceda reserva de uso exclusivo de dicho título. En caso de que se solicite el Certificado de Licitud de Contenido, se presentarán, además cinco ejemplares de cada una de las últimas tres ediciones de la publicación, los que desde luego, deberán cumplir con los requisitos que establecen las normas aplicables.
-
-La Dirección General de Correos sólo permitirá la circulación de publicaciones, siempre que a la solicitud se acompañe el correspondiente Certificado de Licitud de Contenido expedido por la Comisión.
-
-> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+IV.- (DEROGADA, D.O.F. 13 DE DICIEMBRE DE 1982)
 
 ###### ARTICULO 13.
 
-En relación al artículo anterior, si el interesado no cumpliere con el requisito que se menciona en la fracción I, no se dará entrada a la solicitud; si la omisión fuere de los requisitos que se aluden en las fracciones II o IV, se le requerirá para que los cumpla dentro de un plazo de quince días a partir del en que surta efectos la notificación de la resolución correspondiente, apercibido que de no hacerlo así se desechará la promoción; y si no cumple con el de la fracción III se le notificará por estrados.
+La solicitud de licitud de título y contenido deberá hacerse por escrito; anexando para los efectos del primero, la constancia expedida por la Dirección General de Derechos de Autor, de que no existe inconveniente legal en su materia para que se conceda la reserva de derechos al uso exclusivo del título o cabeza correspondiente, y para el segundo, cinco ejemplares, en su caso de los tres últimos números.
 
-> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+La declaración de ilicitud del contenido lleva implícita la del título correspondiente, entendiéndose con ello, cancelado este último.
 
 ###### ARTICULO 14.
 
-Las actuaciones de la Comisión deberán ser firmadas por quienes intervengan en ellas, pero si alguno no supiese firmar, bastará con que ponga su huella digital. En caso de que alguien se negare a firmar, el Secretario dará fe de esto, lo que no restará valor ni alcance legal a la actuación.
-
-> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+Recibida la solicitud o cuando el examen se haga de oficio, se procederá al estudio del título o contenido, para determinar si contienen alguno de los inconvenientes previstos en el artículo 6o. de este Reglamento. Si no muestra inconveniente alguno, la Comisión declarará la licitud de título y/o contenido, expidiéndose el certificado respectivo, previo pago de los derechos correspondientes.
 
 ###### ARTICULO 15.
 
-Los plazos concedidos por este Reglamento son improrrogables, salvo que a juicio de la Comisión proceda su ampliación, caso en el cual sólo podrán prorrogarse una sola vez y por un máximo de cinco días.
-
-> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+Las resoluciones en donde se declare que el título o contenido de las publicaciones adolece de alguno de los inconvenientes a que alude el artículo 6o. de este Reglamento, así como aquellas en que se declare la licitud, deberán ser notificadas al interesado o a su legítimo representante, cuando esté autorizado para recibir notificaciones.
 
 ###### ARTICULO 16.
 
-La Comisión podrá notificar sus resoluciones o dictámenes personalmente o mediante correo certificado, en el último domicilio que los promoventes hayan manifestado ante la Comisión o en el que aparezca como tal en la publicación. Si el promovente no hubiese manifestado domicilio alguno ni apareciere éste en la publicación, se practicará por estrados.
-
-> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+Toda persona que por algún motivo legal intervenga en el procedimiento a que se refiere este Reglamento, deberá designar domicilio desde su primer escrito, e informar de los cambios del mismo.
 
 ###### ARTICULO 17.
 
-Las notificaciones por correo certificado se tendrán por practicadas siempre que el domicilio al que se haya dirigido la pieza postal sea al lugar en que debe hacerse la notificación.
-
-> <small>(ADICIONADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+Las notificaciones se harán personalmente o por correo certificado con acuse de recibo. Si se desconoce el domicilio de quien deba ser notificado, dicha notificación se hará en los estrados de la Comisión.
 
 ###### ARTICULO 18.
 
-La Comisión, para mantener la disciplina, hacer cumplir sus resoluciones y a fin de sancionar a quienes sean responsables de las publicaciones u objetos que adolezcan de alguno de los defectos a que alude el artículo 6o. de este Reglamento, contará con los siguientes medios:
-
-I.- El apercibimiento;
-
-II.- El retiro de la circulación de publicaciones u objetos;
-
-III.- La suspensión, hasta por doce meses, de la edición, distribución y venta de las publicaciones;
-
-IV.- La multa hasta de setecientos cincuenta veces el salario mínimo en el Distrito Federal, que podrá ser duplicada en caso de reincidencia.
-
-V.- El arresto hasta por treinta y seis horas;
-
-VI.- El arresto hasta por quince días si el infractor no pagare la multa que se alude en la fracción IV.
-
-> <small>(ADICIONADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+(DEROGADO, D.O.F. 13 DE DICIEMBRE DE 1982)
 
 ###### ARTICULO 19.
 
-Recibida la publicación o el objeto serán examinados por la Comisión, y si ésta dictaminare que existe alguno de los inconvenientes a que se refiere el artículo 6o. de este Reglamento se fijará fecha y hora para la audiencia.
-
-> <small>(ADICIONADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+(DEROGADO, D.O.F. 13 DE DICIEMBRE DE 1982)
 
 ###### ARTICULO 20.
 
-Cuando menos con cinco días de anticipación, se citará al interesado a la audiencia a que se refiere el artículo anterior, haciéndosele saber en qué consistieron las violaciones cometidas, a fin de que en dicha audiencia exprese lo que a su derecho convenga y rinda pruebas, en la inteligencia de que sólo podrá ofrecer aquéllas que por su naturaleza puedan ser desahogadas en el improrrogable plazo de quince días posteriores a la audiencia.
-
-> <small>(ADICIONADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+(DEROGADO, D.O.F. 13 DE DICIEMBRE DE 1982)
 
 ###### ARTICULO 21.
 
-Las audiencias serán llevadas a cabo por el Presidente asistido por el Secretario, pudiendo concurrir a ellas cualesquiera de los miembros de la Comisión.
-
-> <small>(ADICIONADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+(DEROGADO, D.O.F. 13 DE DICIEMBRE DE 1982)
 
 ###### ARTICULO 22.
 
-Si del dictamen de la Comisión resultó que la publicación o el objeto posee alguno de los inconvenientes que se enlistan en el artículo 6o., la audiencia se celebrará a puerta cerrada, sin que puedan entrar al lugar en que se practique más que los miembros de la Comisión, el Secretario de la misma y el responsable o su representante legítimo, salvo acuerdo en contrario del Presidente de la Comisión.
-
-> <small>(ADICIONADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+(DEROGADO, D.O.F. 13 DE DICIEMBRE DE 1982)
 
 ###### ARTICULO 23.
 
-En la audiencia se pondrá a la vista el expediente al responsable y el Secretario dará lectura a las constancias que aquél pidiere, así como del dictamen donde se detallen las violaciones. Acto seguido, se dará la palabra al responsable para que manifieste lo que a su derecho convenga y, en su caso, ofrezca pruebas. Si en la audiencia se ofrecen pruebas que por su naturaleza no puedan rendirse de inmediato, la Comisión fijará nueva fecha quince días hábiles despuéspara (sic) el desahogo de las mismas.
-
-> <small>(ADICIONADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+(DEROGADO, D.O.F. 13 DE DICIEMBRE DE 1982)
 
 ###### ARTICULO 24.
 
-Si la persona citada debidamente no comparece a la audiencia, se hará constar este hecho y el procedimiento se seguirá en rebeldía.
-
-> <small>(ADICIONADO, D.O.F. 26 DE NOVIEMBRE DE 1982)</small>
+(DEROGADO, D.O.F. 13 DE DICIEMBRE DE 1982)
 
 ###### ARTICULO 25.
 
-Al final de la audiencia y desahogadas las pruebas admitidas, la Comisión puede pronunciar su resolución.
+(DEROGADO, D.O.F. 13 DE DICIEMBRE DE 1982)
 
 ## TRANSITORIOS
 
@@ -312,5 +242,9 @@ Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 26 DE NOVIEMBRE DE 1982.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE DICIEMBRE DE 1982.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
