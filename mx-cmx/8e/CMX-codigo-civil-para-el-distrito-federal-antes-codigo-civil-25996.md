@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1971-03-24"
+last_updated: "1973-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MARZO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1973.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -5199,15 +5199,17 @@ Cuando parte de la cosa perteneciere exclusivamente a un copropietario o a algun
 
 Todo condueño tiene la plena propiedad de la parte alícuota que le corresponda y la de sus frutos y utilidades, pudiendo, en consecuencia, enajenarla, cederla o hipotecarla, y aun substituir otro en su aprovechamiento, salvo si se tratare de derecho personal. Pero el efecto de la enajenación o de la hipoteca con relación a los condueños, estará limitado a la porción que se le adjudique en la división al cesar la comunidad. Los condueños gozan del derecho del tanto.
 
-(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1954)(F. DE E., D.O.F. 11 DE ENERO DE 1955)
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1973)</small>
 
 ###### ARTICULO 951.
 
-Cuando los diferentes pisos, departamentos, viviendas o locales de un edificio, susceptibles de aprovechamiento independiente por tener salida propia a un elemento común de aquél o a la vía pública, pertenecieren a distintos propietarios, cada uno de éstos tendrá un derecho singular y exclusivo de propiedad sobre su piso, departamento, vivienda o local y además un derecho de copropiedad sobre los elementos y partes comunes del edificio, necesarios para su adecuado uso o disfrute, tales como el suelo, cimientos, sótanos, muros de carga, fosos, patios, pozos, escaleras, elevadores, pasos, corredores, cubiertas, canalizaciones, desagües, servidumbres, etc.
+Cuando los diferentes departamentos, viviendas, casas o locales de un inmueble, construídos en forma vertical, horizontal o mixta, susceptibles de aprovechamiento independiente por tener salida propia a un elemento común de aquél o a la vía pública, pertenecieran a distintos propietarios, cada uno de éstos tendrá un derecho singular y exclusivo de propiedad sobre su departamento, vivienda, casa o local y, además, un derecho de copropiedad sobre los elementos y partes comunes del inmueble, necesarios para su adecuado uso o disfrute.
 
-El derecho de copropiedad sobre los elementos comunes del edificio, sólo será enajenable, gravable o embargable por terceros, conjuntamente con el piso, departamento, vivienda o local de propiedad exclusiva respecto del cual se considera anexo inseparable. La copropiedad sobre los elementos comunes del edificio no es susceptible de división.
+Cada propietario podrá enajenar, hipotecar o gravar en cualquier otra forma su departamento, vivienda, casa o local, sin necesidad de consentimiento de los demás condóminos. En la enajenación, gravamen o embargo de un departamento, vivienda, casa o local, se entenderán comprendidos invariablemente los derechos sobre los bienes comunes que le son anexos.
 
-Los derechos y obligaciones de los propietarios a que se refiere este precepto, se regirán por las escrituras en que se hubiera establecido el régimen de propiedad, por las de compra-venta correspondientes, por el Reglamento de Condominio y Administración y, en su caso, por la Ley Reglamentaria de este artículo.
+El derecho de copropiedad sobre los elementos comunes del inmueble, sólo será enajenable, gravable o embargable por terceros, conjuntamente con el departamento, vivienda, casa o local de propiedad exclusiva, respecto del cual se considere anexo inseparable. La copropiedad sobre los elementos comunes del inmueble no es susceptible de división.
+
+Los derechos y obligaciones de los propietarios a que se refiere este precepto, se regirán por las escrituras en que se hubiera establecido el régimen de propiedad, por las de compraventa correspondientes, por el Reglamento del Condominio de que se trate, por la Ley Sobre el Régimen de Propiedad en Condominio de Inmuebles, para el Distrito y Territorios Federales, por las disposiciones de este Código y las demás leyes que fueren aplicables.
 
 ###### ARTICULO 952.
 
@@ -11842,3 +11844,9 @@ D.O.F. 24 DE MARZO DE 1971.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor en la misma fecha que las reformas a la Ley Orgánica de Tribunales de Justicia del Fuero Común del Distrito y Territorios Federales, aprobadas por el H. Congreso de la Unión en el presente período extraordinario de sesiones.
+
+D.O.F. 4 DE ENERO DE 1973.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
