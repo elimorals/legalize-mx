@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "1998-01-27"
+last_updated: "1998-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 1998.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -164,6 +164,10 @@ La infracción de las disposiciones contenidas en los Arts. 9º., fracs. III, IV
 Cuando el inculpado, el ofendido, los testigos o los peritos no hablen castellano, se nombrará de oficio uno o más intérpretes, mayores de edad, quienes deberán traducir fielmente las preguntas y contestaciones que se produzcan en la diligencia respectiva. A solicitud de cualquiera de las partes, podrá escribirse además la declaración en el idioma del declarante.
 
 Cuando no pudiere encontrarse un intérprete mayor de edad, podrá designarse a un menor que haya cumplido catorce años.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 1998)</small>
+
+Cuando un indígena o un grupo de indígenas comparezcan ante cualquier autoridad, se deberán tomar en cuenta sus prácticas y costumbres, a fin de integrar la averiguación previa, así como dentro de las demás etapas del proceso penal, siempre y cuando no contravengan las disposiciones positivas en los ordenamientos vigentes.
 
 ###### Art. 17.
 
@@ -535,7 +539,7 @@ La validez de las sentencias y de los autos dictados por el Supremo Tribunal de 
 
 ###### Art. 76.
 
-Cuando alguno de los componentes del tribunal o sala no estuviese conforme con la resolución de la mayoría, expresará sucintamente las razones de su inconformidad, en voto particular, que se agregará al expediente.
+Cuando alguno de los componentes del tribunal o sala no estuviese conforme con la resolución de la mayoría, expresará suscintamente las razones de su inconformidad, en voto particular, que se agregará al expediente.
 
 ###### Art. 77.
 
@@ -1015,17 +1019,17 @@ Cuando un lesionado necesite pronta curación, cualquier persona puede atenderlo
 
 El ministerio público esta obligado a proceder a la detención de los que aparezcan como probables responsables en la comisión de delito de los que se persiguen de oficio sin necesidad de orden judicial en los casos siguientes:
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1998)</small>
 
-I. Cuando se trate de flagrante delito en los términos de la Constitución Política de los Estados Unidos Mexicanos; y
+I. Cuando se trate de flagrante delito en los términos de la Constitución Política de los Estados Unidos Mexicanos. Se entiende que existe delito flagrante cuando la persona es detenida en el momento de estarlo cometiendo, o bien cuando el inculpado es perseguido material e inmediatamente después de ejecutado el delito, y
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
 II. Exista notoria urgencia, por temor fundado de que el inculpado trate de ocultarse o eludir la acción de la justicia, cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancias, tratándose únicamente de delitos calificados como graves por éste Código, mediante resolución que funde y exprese los motivos de su proceder.
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 1998)</small>
 
-Existirá el temor fundado a que se refiere esta fracción cuando se sustente en las circunstancias personales del inculpado, en sus antecedentes penales o en sus posibilidades de ocultarse, o cuando se le sorprenda tratando de abandonar el territorio de la jurisdicción de la autoridad que estuviere conociendo del hecho o cuando exista cualquier indicio que haga presumir que puede sustraerse de la acción de la justicia.
+Existirá el riesgo fundado a que se refiere la fracción anterior, en atención a las circunstancias personales del inculpado, a sus antecedentes penales, a sus posibilidades de ocultarse, a ser sorprendido al tratar de abandonar el ámbito territorial de jurisdicción de la autoridad que estuviere conociendo del hecho o, en general, a cualquier indicio que haga presumir fundadamente que puede sustraerse de la acción de la justicia.
 
 En todos los casos, el detenido podrá nombrar defensor de acuerdo con este Código. El defensor nombrado entrará al desempeño de su cargo inmediatamente, previa protesta del mismo y, a partir de ese momento, tendrá derecho a intervenir en todas las actuaciones que se practiquen en contra de su defendido. La infracción de esta disposición implicará la nulidad de las diligencias que perjudiquen a éste.
 
@@ -2189,7 +2193,7 @@ Si se declara admisible la apelación, el Juez dictará la resolución correspon
 
 ### CAPITULO I. Libertad provisional bajo caución
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MARZO DE 1998)</small>
 
 ###### Art. 339.
 
@@ -2211,15 +2215,15 @@ Cualquiera de las partes puede formular queja ante el Juez del conocimiento, por
 
 ###### Art. 342.
 
-Inmediatamente que lo solicite el inculpado, el juez deberá otorgarle la libertad provisional bajo caución, siempre y cuando se garantice el monto de lo estimado de la reparación del daño y de las sanciones pecuniarias que en su caso puedan imponerse al inculpado y no se trate de delito grave expresamente determinado en este artículo.
+Inmediatamente que lo solicite el inculpado, el Juez deberá otorgarla la libertad provisional bajo caución, siempre y cuando se garantice el monto de lo estimado de la reparación del daño y de las sanciones pecuniarias que en su caso puedan imponérsele al inculpado y no se trate de delito grave expresamente determinado en este artículo, o de los casos previstos en el artículo 20, fracción I, párrafo cuarto de la Constitución Política de los Estados Unidos Mexicanos.
 
 Tratándose de delitos que afecten la vida o la integridad corporal, el monto de la reparación no podrá ser menor del que resulte aplicándose las disposiciones relativas de la Ley Federal del Trabajo.
 
 Se califican como delitos graves y en su caso el inculpado no tendrá derecho al beneficio de la libertad provisional bajo caución, los previstos en los ordenamientos siguientes:
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1998)</small>
 
-I. En el Código Penal: Evasión de presos, artículo 113, excepto cuando el activo sea un particular o no haya violencia en las cosas y en las personas; corrupción de menores, artículo 136, último párrafo; cohecho, artículo 147, tercer y cuarto párrafo; peculado, artículo 148, párrafo tercero y 149; enriquecimiento ilícito, artículo 153, fracción II; violación, artículo 175; violación equiparada, artículo 176; robo de infante, artículo 179, párrafo cuarto; tráfico de menores, artículo 179 bis, párrafo segundo; extorsión, artículo 189, artículo 192; plagio o secuestro, artículo 194; homicidio, artículos 213, 217 y 219; parricidio, artículo 223; instigación y ayuda al suicidio si la víctima fallece, artículo 224; infanticidio, artículo 226; aborto, artículo 228, penúltimo y último párrafo; robo equiparado, artículo 234, fracciones III y IV; robo cometido en los siguientes casos, artículo 235, fracción III; artículo 236 bis, apartado a), fracciones II y III, apartado b), en su totalidad y apartado c), fracciones I, II y III; abigeato y robo de animales, artículo 240, párrafos primero y segundo, cuando se cometa en dos o más cabezas de ganado o se trate de reincidentes sea cual fuere su número, artículo 241 bis, artículo 242 y artículo 243, artículo 262 fracción I; y delitos electorales, artículo 270, fracción III, 276 y 278;
+I. En el Código Penal: Evasión de presos, artículo 113, excepto cuando el activo sea un particular o no haya violencia en las cosas y en las personas; corrupción de menores, artículo 136, último párrafo; cohecho, artículo 147, tercer y cuarto párrafo; peculado, artículo 148, párrafo tercero y 149; enriquecimiento ilícito, artículo 153, fracción II; violación, artículo 175; violación equiparada, artículo 176; robo de infante, artículo 179, párrafo cuarto; tráfico de menores, artículo 179 bis, párrafo segundo; extorsión, artículo 189; extorsión agravada, artículo 189 bis; asalto, artículo 192; plagio o secuestro, artículo 194; homicidio, artículos 213, 217 y 219; parricidio, artículo 223; instigación y ayuda al suicidio si la víctima fallece, artículo 224; infanticidio, artículo 226; aborto, artículo 228, penúltimo y último párrafo; robo equiparado, artículo 234, fracciones III y IV; robo cometido en los siguientes casos, artículo 235, fracción II; robo agravado, artículo 235 bis; artículo 236 bis, apartado a), fracciones II y III, apartado b), en su totalidad y apartado c), fracciones I, II, III; y robo de animales, artículos 240 párrafos primero y segundo, cuando se cometa en dos o más cabezas de ganado o se trate de reincidentes sea cual fuere su número, artículo 241 bis, artículo 242 y artículo 243; y delitos electorales, artículo 270 fracción III, 276 y 278; los ilícitos penales mencionados en el párrafo anterior, en grado de tentativa punible previsto en el artículo 52 y el continuado grave establecido en el artículo 55 bis, también se califican como delitos graves;
 
 II. En la Ley Estatal para Prevenir y Sancionar la Tortura: Tortura artículo 3º; y
 
@@ -3170,3 +3174,7 @@ P.O. 8 DE ENERO DE 1998.
 P.O. 27 DE ENERO DE 1998
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 5 DE MARZO DE 1998
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
