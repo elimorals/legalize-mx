@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "1990-12-25"
+last_updated: "1991-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 1991.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -1637,9 +1637,9 @@ En todas las operaciones se reducirá el valor del inmueble de la siguiente mane
 
 I.- La cantidad que represente cinco veces el salario mínimo general elevado al año, que corresponda en el lugar en que se encuentre ubicado el inmueble;
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 1990)</small>
+> <small>(REFORMADA, P. O. 3 DE SEPTIEMBRE DE 1991)</small>
 
-II.- La cantidad que represente siete veces el salario mínimo general elevado al año, que corresponda en el lugar en que se encuentre ubicado el inmueble, cuando éste se destine a la vivienda de interés social, en los términos de la Ley de Vivienda del Estado de Guanajuato.
+II.- La cantidad que representa diez veces el salario mínimo general diario elevado al año, que corresponda en el lugar en que se encuentre ubicado el inmueble, cuando se trate de casa-habitación adquiridas mediante financiamiento otorgado por el Instituto de Seguridad Social del Estado de Guanajuato; Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; Instituto del Fondo Nacional de la Vivienda para los Trabajadores; Fondo Nacional de Habitaciones Populares; Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o por el Fondo de la Vivienda para los Miembros del Ejército, Fuerza Aérea y Armada.
 
 Para los efectos de este impuesto y se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del 50% del valor de la propiedad.
 
@@ -2210,3 +2210,9 @@ El presente Decreto entrará en vigor el cuarto día siguiente al de su publicac
 ###### ARTICULO SEGUNDO.
 
 Los bienes inmuebles que a la fecha de entrada en vigor del presente Decreto estén tributando sobre la base de rentabilidad, lo seguirán haciendo en función de la misma, hasta en tanto se practique el avalúo correspondiente.
+
+P.O. 3 DE SEPTIEMBRE DE 1991.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrara en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
