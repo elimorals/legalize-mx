@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-48-1998-del-pleno-del-consejo-de-la-1499
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-03-23"
-last_updated: "2001-01-17"
+last_updated: "2002-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14993&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-09"
 
 ACUERDO GENERAL NUMERO 48/1998, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ENERO DE 2001.
+ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE FEBRERO DE 2002.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 23 de marzo de 1999.
 
@@ -1583,17 +1583,15 @@ El Pleno podrá acordar la publicación de una memoria de la labor desempeñada 
 
 ### Capítulo III. De los Secretarios y Actuarios
 
+> <small>(REFORMADO POR EL ACUERDO GENERAL 1/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE FEBRERO DE 2002)</small>
+
 ###### Artículo 135.
 
 La experiencia profesional de tres años requerida para ser designado secretario de tribunal de Circuito o de juzgado de Distrito, se computará a partir de la fecha en que el aspirante haya presentado su examen profesional para obtener título de licenciado en derecho, salvo en aquellos casos en que se satisfagan los siguientes requisitos:
 
-I. Que el profesionista haya laborado en órganos jurisdiccionales del Poder Judicial de la Federación, independientemente de la categoría que haya desempeñado, al menos tres años;
+I.- Que antes de recibirse el aspirante haya laborado en órganos jurisdiccionales del Poder Judicial de la Federación, o en el Consejo de la Judicatura Federal, desarrollando actividades relacionadas con aspectos jurídicos, independientemente de la categoría que tenga o del cargo que desempeñe; debiendo tener, en cualquier caso, una antigüedad de cuando menos tres años; y,
 
-II. Que el mismo se encuentre en funciones de actuario judicial, ocupando dicha plaza;
-
-III. Que el titular solicitante manifieste que el aspirante a ocupar la plaza posee práctica profesional de más de tres años; y,
-
-IV. Que cumpla con los demás requisitos que establecen los artículos 107 o 109 de la Ley, según sea el caso.
+II.- Que el magistrado de Circuito o juez de Distrito solicitante manifieste que el aspirante a ocupar la plaza posee práctica profesional de más de tres años.
 
 ###### Artículo 136.
 
@@ -2437,12 +2435,6 @@ CUARTO.- Se derogan, en lo conducente, los Acuerdos y Circulares emitidos por el
 
 QUINTO.- Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
-D.O.F. 29 DE MARZO DE 2000.
-
-PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
-
 D.O.F. 6 DE JULIO DE 2000.
 
 ACUERDO GENERAL 36/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTICULO 144.
@@ -2450,6 +2442,12 @@ ACUERDO GENERAL 36/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL Q
 PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 29 DE MARZO DE 2000.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 D.O.F. 6 DE JULIO DE 2000.
 
@@ -2470,3 +2468,9 @@ D.O.F. 17 DE ENERO DE 2001.
 PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 21 DE FEBRERO DE 2002.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
