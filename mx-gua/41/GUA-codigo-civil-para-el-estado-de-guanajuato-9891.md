@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "1991-07-23"
+last_updated: "1992-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1992.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -1069,15 +1069,11 @@ El marido y la mujer menores de edad, tendrán la administración de sus bienes,
 
 ###### Art. 171.
 
-La mujer necesita autorización judicial para contratar con su marido, excepto cuando el contrato que celebren sea el de mandato.
+(DEROGADO, P.O. 3 DE JULIO DE 1992)
 
 ###### Art. 172.
 
-También se requiere autorización judicial para que la mujer sea fiadora de su marido o se obligue solidariamente con él en asuntos que sean de interés exclusivo de éste.
-
-La autorización, en los casos a que se refieren los dos artículos anteriores, no se concederá cuando notoriamente resulten perjudicados los intereses de la mujer.
-
-Esta no necesita autorización judicial para otorgar fianza a fin de que su esposo obtenga la libertad.
+(DEROGADO, P.O. 3 DE JULIO DE 1992)
 
 ###### Art. 173.
 
@@ -15680,3 +15676,9 @@ P.O. 23 DE JULIO DE 1991.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE JULIO DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
