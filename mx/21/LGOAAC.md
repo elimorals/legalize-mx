@@ -4,7 +4,7 @@ identifier: "LGOAAC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1985-01-14"
-last_updated: "1986-12-26"
+last_updated: "1990-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGOAAC"
 
 LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1990.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -60,41 +60,61 @@ I. Almacenes generales de depósito;
 
 II. Arrendadoras financieras;
 
-III. Uniones de crédito; y
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-IV. Las demás que otras leyes consideren como tales.
+III.- Uniones de crédito;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+IV.- Empresas de factoraje financiero; y
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+V.- Las demás que otras leyes consideren como tales.
 
 ###### ARTICULO 4o.
 
 Para los efectos de esta Ley se considera actividad auxiliar del crédito, la compra-venta habitual y profesional de divisas.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 5o.
 
-Se requerirá concesión de la Secretaría de Hacienda y Crédito Público, para la constitución y operación de almacenes generales de depósito y arrendadoras financieras, o de la Comisión Nacional Bancaria y de Seguros cuando se trate de uniones de crédtio (sic).
+Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, para la constitución y operación de almacenes generales de depósito, arrendadoras financieras y empresas de factoraje financiero, o de la Comisión Nacional Bancaria cuando se trate de uniones de crédito.
 
-Estas concesiones podrán ser otorgadas o denegadas discrecionalmente por dicha Secretaría, o la Comisión en su caso, según la apreciación sobre la conveniencia de su establecimiento, y serán por su propia naturaleza, intransmisibles.
+Estas autorizaciones podrán ser otorgadas o denegadas discrecionalmente por dicha Secretaría, o la Comisión en su caso, según la apreciación sobre la conveniencia de su establecimiento y serán por su propia naturaleza, intransmisibles.
 
-Dichas concesiones deberán publicarse en el Diario Oficial de la Federación, así como las modificaciones a las mismas.
+Dichas autorizaciones deberán publicarse en el Diario Oficial de la Federación, así como las modificaciones a las mismas.
 
-Sólo las sociedades que gocen de concesión en los términos de esta Ley, podrán operar como almacenes generales de depósito, arrendadoras financieras o uniones de crédito.
+Sólo las sociedades que gocen de autorización en los términos de esta Ley, podrán operar como almacenes generales de depósito, arrendadoras financieras, uniones de crédito o empresas de factoraje financiero.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 6o.
 
-La solicitud de concesión para constituir y operar una organización auxiliar del crédito deberá acompañarse de un depósito en moneda nacional o en valores emitidos por el Gobierno Federal, en la institución de crédito que la Secretaría de Hacienda y Crédito Público determine, igual al 10% del capital mínimo exigido para su constitución, según esta Ley, mismo que se devolverá al comenzar las operaciones o si se deniega la concesión, pero se aplicará al fisco federal si otorgada la misma no se cumpliera la condición referida.
+La solicitud de autorización para constituir y operar una organización auxiliar del crédito deberá acompañarse de un depósito en moneda nacional o en valores emitidos por el Gobierno Federal, en la institución de crédito que la Secretaría de Hacienda y Crédito Público determine, igual al 10% del capital mínimo exigido para su constitución, según esta Ley, mismo que se devolverá al comenzar las operaciones o si se deniega la autorización, pero se aplicará al fisco federal si otorgada la misma no se cumpliera la condición referida.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 7o.
 
-Las palabras organización auxiliar del crédito, arrendadora financiera, almacén general de depósito, unión de crédito, casa de cambio, u otras que expresen ideas semejantes en cualquier idioma, sólo podrán ser usadas en la denominación de organizaciones auxiliares del crédito o de las sociedades que se dediquen a actividades auxiliares del crédito, a las que haya sido otorgada concesión o autorización según corresponda, de conformidad con lo dispuesto en la presente Ley.
+Las palabras organización auxiliar del crédito, arrendadora financiera, almacén general de depósito, unión de crédito, empresa de factoraje financiero, casa de cambio u otras que expresen ideas semejantes en cualquier idioma, sólo podrán ser usadas en la denominación de organizaciones auxiliares del crédito o de las sociedades que se dediquen a actividades auxiliares del crédito, a las que haya sido otorgada autorización, de conformidad con lo dispuesto en la presente Ley.
 
-Se exceptúan de la aplicación del párrafo anterior, la asociación o asociaciones de organizaciones auxiliares del crédito o de sociedades que se dediquen a actividades auxiliares del crédito, siempre que no realicen operaciones sujetas a concesión o autorización por esta Ley.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Se exceptúa de la aplicación del párrafo anterior, a las asociaciones de organizaciones auxiliares del crédito o de sociedades que se dediquen a actividades auxiliares del crédito, siempre que no realicen operaciones sujetas a autorización por esta Ley.
 
 Las organizaciones auxiliares del crédito que no tengan el carácter de nacionales, no podrán incluir el término nacional en su denominación.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 8o.
 
-Las sociedades que se concesionen para operar como organizaciones auxiliares del crédito, deberán constituirse en forma de sociedad anónima de capital fijo o variable, organizadas con arreglo a la Ley General de Sociedades Mercantiles y a las siguientes disposiciones que son de aplicación especial:
+Las sociedades que se autoricen para operar como organizaciones auxiliares del crédito, deberán constituirse en forma de sociedad anónima de capital fijo o variable, organizadas con arreglo a la Ley General de Sociedades Mercantiles y a las siguientes disposiciones que son de aplicación especial:
 
-I. La Secretaría de Hacienda y Crédito Público determinará anualmente, tomando en cuenta el tipo y en su caso clase, de las organizaciones auxiliares del crédito, así como las circunstancias económicas de cada una de ellas y del país en general y oyendo la opinión de la Comisión Nacional Bancaria y de Seguros y del Banco de México, los capitales mínimos necesarios para constituir nuevos almacenes generales de depósito, arrendadoras financieras y uniones de crédito, así como para mantener en operación a las que ya estén concesionadas.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+I.- La Secretaría de Hacienda y Crédito Público determinará, durante el primer trimestre de cada año, los capitales mínimos necesarios para constituir nuevos almacenes generales de depósito, arrendadoras financieras, uniones de crédito y empresas de factoraje financiero, así como para mantener en operación a los que ya estén autorizados, para lo cual, tomará en cuenta el tipo y, en su caso, clase, de las organizaciones, auxiliares del crédito, así como las circunstancias económicas de cada una de ellas y del país en general, considerando necesariamente el incremento en el nivel del Indice Nacional de Precios al Consumidor que, en su caso, se dé durante el año inmediato anterior y oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México.
 
 Los capitales mínimos a que se refiere esta fracción, deberán estar totalmente suscritos y pagados. Cuando el capital social exceda del mínimo, deberá estar pagado cuando menos en un 50%, siempre que este porcentaje no sea inferior al mínimo establecido. Tratándose de sociedades de capital variable, el capital mínimo obligatorio estará integrado por acciones sin derecho a retiro. El monto del capital con derecho a retiro, en ningún caso podrá ser superior al capital pagado sin derecho a retiro.
 
@@ -102,11 +122,19 @@ Las sociedades anónimas podrán emitir acciones no suscritas y que serán entre
 
 II. La duración de la sociedad será indefinida;
 
-III. En ningún momento podrán participar en el capital social de las organizaciones auxiliares del crédito, directamente o a través de interpósita persona:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-1.- Gobiernos o dependencias oficiales extranjeros, entidades financieras del exterior o agrupaciones de personas extranjeras, físicas o morales, sea cual fuere la forma que revistan.
+III.- En ningún momento podrán participar en el capital social de las organizaciones auxiliares del crédito, directamente o a través de interpósita persona:
 
-Tratándose de las arrendadoras financieras, la Secretaría de Hacienda y Crédito Público fijará en cada caso las condiciones, límites, proporciones y requisitos, para que las entidades financieras del exterior puedan invertir en acciones de estas sociedades quedando sometidas, en cuanto a dichas inversiones y a la tenencia accionaria, a un régimen especial con respecto a las normas que en esta materia se aplican a las demás organizaciones auxiliares del crédito. La inversión mexicana en todo caso tendrá que ser mayoritaria, y deberá mantener la facultad de determinar el manejo de la empresa. La Secretaría de Hacienda y Crédito Público, para este fin, tomará en cuenta los programas de apoyo financiero necesarios para que la arrendadora financiera respectiva realice las operaciones a que se refieren las fracciones II a V inclusive, del artículo 24 de esta Ley;
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+1.- Gobiernos o dependencias oficiales extranjeros, entidades financieras del exterior, ni a personas físicas o morales extranjeras, sea cual fuere la forma que revistan, excepto en los casos previstos en el siguiente párrafo.
+
+La Secretaría de Hacienda y Crédito Público podrá, discrecionalmente, autorizar la participación en el capital pagado de los almacenes generales de depósito, arrendadoras financieras y empresas de factoraje financiero, a entidades financieras del exterior, así como a personas físicas y morales extranjeras. La autorización que se otorgue a un inversionista extranjero será intransmisible.
+
+La inversión mexicana en todo caso tendrá que ser mayoritaria y deberá mantener la facultad de determinar el manejo y control efectivo de la empresa.
+
+Todo extranjero que, en el acto de la constitución o en cualquier tiempo ulterior, adquiera interés o participación social en la organización auxiliar de crédito se considerará, por ese solo hecho, como mexicano respecto de uno u otra, y se entenderá que conviene en no invocar la protección de su gobierno bajo la pena, en caso de faltar a su convenio, de perder dicho interés o participación en beneficio de la Nación.
 
 2.- Otras organizaciones auxiliares del crédito del mismo tipo de la sociedad emisora, salvo en el supuesto de que pretendan fusionarse, de acuerdo a programas aprobados por la Secretaría de Hacienda y Crédito Público y previa autorización que con carácter transitorio podrá otorgar esa Dependencia;
 
@@ -114,15 +142,19 @@ Tratándose de las arrendadoras financieras, la Secretaría de Hacienda y Crédi
 
 4.- Instituciones o sociedades mutualistas de seguros, instituciones de fianzas y casas de bolsa.
 
-IV. Ninguna persona podrá ser propietaria de más del 7% del capital pagado de una unión de crédito, ni pertenecer a dos o más uniones que correspondan a un mismo tipo.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-La Comisión Nacional Bancaria y de Seguros tendrá la facultad de imponer mayores limitaciones a la tenencia de acciones por parte de socios que por vínculos familiares o económicos, formen grupos que puedan afectar el equilibrio en la administración de la sociedad, en perjuicio de los demás accionistas;
+IV.- Ninguna persona podrá ser propietaria de más del 10% del capital pagado de una unión de crédito, ni pertenecer a dos o más uniones que correspondan a un mismo tipo.
+
+Excepcionalmente, la Comisión Nacional Bancaria podrá autorizar que, de manera temporal, por un plazo no mayor de doce meses, una persona pueda ser propietaria de más del 10% del capital pagado de una unión de crédito, siempre y cuando dicha persona no tenga relación directa con otros socios o que esto motive una concentración indebida de capital.
 
 V. Cada accionista, o grupo de accionistas que represente por lo menos un 15% del capital pagado de una sociedad, tendrá derecho a designar un consejero.
 
 Sólo podrá revocarse el nombramiento de estos consejeros cuando se revoque el de todos los demás, sin perjuicio de lo dispuesto por los artículos 74 y 75 de esta Ley;
 
-VI. El número de administradores no podrá ser inferior de cinco tratándose de almacenes generales de depósito y arrendadoras financieras, ni de siete en el caso de uniones de crédito, y en ambos casos actuarán constituidos en consejo de administración;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+VI.- El número de administradores no podrá ser inferior de cinco, salvo el caso de uniones de crédito en que no será inferior a siete, y en ambos casos actuarán constituidos en consejo de administración;
 
 VII. Las asambleas y las juntas directivas se celebrarán en el domicilio social, el cual deberá estar siempre en territorio de la República. Los estatutos podrán establecer que los acuerdos de las asambleas sean válidos en segunda convocatoria, cualquiera que sea el número de votos con que se adopten, excepto cuando se trate de asambleas extraordinarias, en las que se requerirá, por lo menos, el voto del 30% del capital pagado, para la adopción de resoluciones propias de dichas asambleas;
 
@@ -140,9 +172,13 @@ X. No podrán ser comisarios propietarios o suplentes de las organizaciones auxi
 
 4.- Los miembros del consejo de administración propietarios o suplentes, directores generales o gerentes, de las sociedades que a su vez controlen a la organización auxiliar del crédito de que se trate, o de las empresas controladas por los accionistas mayoritarios de la misma.
 
-El nombramiento de comisarios sólo podrá recaer en personas que reúnan los requisitos que fije la Comisión Nacional Bancaria y de Seguros, mediante reglas de carácter general;
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-XI. La escritura constitutiva y cualquier modificación de la misma deberán ser sometidas a la previa aprobación de la Secretaría de Hacienda y Crédito Público y en el caso de las uniones de crédito, de la Comisión Nacional Bancaria y de Seguros, a efecto de apreciar si se cumplen los requisitos establecidos por la Ley; dictada dicha aprobación, la escritura o sus reformas deberán ser inscritas en el Registro de Comercio sin que sea preciso mandamiento judicial, ni de ninguna otra autoridad.
+El nombramiento de comisarios sólo podrá recaer en personas que reúnan los requisitos que fije la Comisión Nacional Bancaria, mediante reglas de carácter general;
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+XI. La escritura constitutiva y cualquier modificación de la misma deberán ser sometidas a la previa aprobación de la Secretaría de Hacienda y Crédito Público y en el caso de las uniones de crédito, de la Comisión Nacional Bancaria, a efecto de apreciar si se cumplen los requisitos establecidos por la Ley; dictada dicha aprobación, la escritura o sus reformas deberán ser inscritas en el Registro de Comercio sin que sea preciso mandamiento judicial, ni de ninguna otra autoridad.
 
 En los casos de las uniones de crédito, se procederá en los términos del artículo 42 de esta Ley; y
 
@@ -164,13 +200,17 @@ Las leyes mercantiles, los usos mercantiles imperantes entre las organizaciones 
 
 Los almacenes generales de depósito tendrán por objeto el almacenamiento, guarda o conservación de bienes o mercancías y la expedición de certificados de depósito y bonos de prenda. También podrán realizar la transformación de las mercancías depositadas a fin de aumentar el valor de éstas, sin variar esencialmente su naturaleza. Sólo los almacenes generales de depósito estarán facultados para expedir certificados de depósito y bonos de prenda.
 
-Los certificados sólo podrán expedirse sin bono de prenda, cuando se emitan como no negociables a solicitud del depositante. La expedición de dichos bonos deberá hacerse simultáneamente a la de los certificados respectivos.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Los certificados podrán expedirse con o sin bonos de prenda, según lo solicite el depositante, pero la expedición de dichos bonos deberá hacerse simultáneamente a la de los certificados respectivos, haciéndose constar en ellos, indefectiblemente, si se expide con o sin bonos.
 
 El bono o bonos expedidos podrán ir adheridos al certificado o separados de él.
 
 Los almacenes llevarán un registro de los certificados y bonos de prenda que se expidan, en el que se anotarán todos los datos contenidos en dichos títulos, incluyendo los derivados del aviso de la institución de crédito que intervenga en la primera negociación del bono.
 
-Los almacenes generales de depósito podrán expedir también certificados de depósito por mercancías en tránsito, siempre que el depositante y, en su caso, el acreedor prendario den su conformidad y acepten expresamente ser responsables por las mermas u otras eventualidades dañosas originadas directamente por el movimiento de los mismos. Estas mercancías deberán ser aseguradas en tránsito por conducto del almacén que expida los certificados respectivos .
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Los almacenes generales de depósito podrán expedir certificados de depósito por mercancías en tránsito, en bodegas o en ambos supuestos, siempre y cuando esta circunstancia se mencione en el cuerpo del certificado. Estas mercancías deberán ser aseguradas en tránsito por conducto del almacén que expida los certificados respectivos, el cual deberá asumir la responsabilidad del traslado hasta la bodega de destino, en donde seguirá siendo depositario de la mercancía hasta el rescate de los certificados de depósito y los bonos de prenda, en el caso de que los productos hayan sido pignorados.
 
 Los documentos de embarque deberán estar expedidos o endosados a los almacenes.
 
@@ -184,7 +224,9 @@ III. Anunciar con carácter informativo, por cuenta de los depositantes y a soli
 
 IV.- Empacar y envasar los bienes y mercancías recibidos en depósito, por cuenta de los depositantes o titulares de los certificados de depósito.
 
-En la realización de las operaciones señaladas en las fracciones anteriores, los almacenes deberán sujetarse a las reglas de carácter general que al efecto dicte la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, sin perjuicio de cumplir con las demás disposiciones legales que resulten aplicables.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+En la realización de las operaciones señaladas en las fracciones anteriores, los almacenes deberán sujetarse a las reglas de carácter general que al efecto dicte la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria, sin perjuicio de cumplir con las demás disposiciones legales que resulten aplicables.
 
 ###### ARTICULO 12.
 
@@ -198,11 +240,15 @@ En todo caso, deberán sujetarse a las disposiciones correspondientes que prevé
 
 La Secretaría de Hacienda y Crédito Público, en una lista que al efecto formule para conocimiento de los almacenes, señalará expresamente los productos, bienes o mercancías que no podrán ser objeto de su depósito fiscal en los almacenes a que se refiere esta fracción.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 13.
 
-Los almacenes generales de depósito no podrán expedir certificados, cuyo valor en razón de las mercancías que amparen, sea superior a cincuenta veces su capital pagado más reservas, de capital, excluyendo el de aquellos que se expidan con el carácter de no negociables y de los que amparen mercancías depositadas en bodegas propias o arrendadas manejadas directamente por el almacén.
+Los almacenes generales de depósito no podrán expedir certificados, cuyo valor en razón de las mercancías que amparen, sea superior a cincuenta veces su capital pagado más reservas de capital, excluyendo el de aquéllos que se expidan con el carácter de no negociables.
 
-La Secretaría de Hacienda y Crédito Público, oyendo a la Comisión Nacional Bancaria y de Seguros y al Banco de México, podrá elevar transitoriamente la proporción que fija el párrafo que antecede, mediante reglas de carácter general que podrán ser aplicables a todo el país o sólo a determinada zona o localidad. Asimismo, podrá en casos individuales, elevar transitoriamente el señalado límite, sin que la proporción exceda de cien veces, tomando en cuenta las circunstancias particulares del almacén general de que se trate y de las operaciones que pretenda realizar.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+La Secretaría de Hacienda y Crédito Público, oyendo a la Comisión Nacional Bancaria y al Banco de México, podrá elevar transitoriamente la proporción que fija el párrafo que antecede, y excluir de dicho cómputo a los certificados que amparen mercancías depositadas en bodegas propias o arrendadas, manejadas directamente por el almacén, mediante reglas de carácter general que podrán ser aplicables a todo el país o sólo a determinada zona o localidad. Asimismo, podrá en casos individuales, elevar transitoriamente el señalado límite, sin que la proporción exceda de cien veces, tomando en cuenta las circunstancias particulares del almacén general de que se trate y de las operaciones que pretenda realizar.
 
 La propia Secretaría, mediante reglas de carácter general, determinará la proporción de la citada suma del capital pagado más reservas de capital, que como máximo podrá alcanzar el valor de los certificados que amparen mercancías depositadas en bodegas habilitadas expedidos a favor de una misma persona, entidad o grupo de personas que de acuerdo con las mismas reglas deban considerarse para esos efectos como una sola, y señalará las condiciones y requisitos para la autorización de operaciones que excedan del límite establecido.
 
@@ -216,13 +262,15 @@ Los almacenes generales de depósito que hayan de recibir mercancías destinadas
 
 El capital y reservas de capital de los almacenes generales de depósito deberá estar invertido:
 
-I. En el establecimiento de bodegas, plantas de transformación y oficinas propias de la organización; en el acondicionamiento de bodegas ajenas cuyo uso adquiera el almacén en los términos de esta Ley; en el equipo de transporte, maquinaria, útiles, herramienta y equipo necesario para su funcionamiento; en acciones de sociedades que se organicen exclusivamente para adquirir el dominio y administrar edificios, y siempre que en algún edificio propiedad de esa sociedad tenga establecida o establezca su oficina principal o alguna sucursal o dependencia el almacén general de depósito accionista; y en acciones de las sociedades a que se refiere el artículo 68 de esta Ley. La inversión en acciones y los requisitos que deban satisfacer las sociedades a que se refiere esta fracción, se sujetarán a las reglas generales que dicte la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+I. En el establecimiento de bodegas, plantas de transformación y oficinas propias de la organización; en el acondicionamiento de bodegas ajenas cuyo uso adquiera el almacén en los términos de esta Ley; en el equipo de transporte, maquinaria, útiles, herramienta y equipo necesario para su funcionamiento; en acciones de sociedades que se organicen exclusivamente para adquirir el dominio y administrar edificios, y siempre que en algún edificio propiedad de esa sociedad tenga establecida o establezca su oficina principal o alguna sucursal o dependencia el almacén general de depósito accionista; y en acciones de las sociedades a que se refiere el artículo 68 de esta Ley. La inversión en acciones y los requisitos que deban satisfacer las sociedades a que se refiere esta fracción, se sujetarán a las reglas generales que dicte la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria.
 
 El importe total de estas inversiones, menos la parte insoluta de los créditos que reciban los almacenes para el mismo fin, no deberá ser inferior al 70%, de la suma del capital pagado y reservas de capital;
 
 II. En anticipos con garantía de los bienes y mercancías depositados, que se destinen al pago de empaques, fletes, seguros, impuestos a la importación o a la exportación y operaciones de transformación de esos mismos bienes y mercancías haciéndose constar el anticipo en los títulos relativos que expidan los almacenes; y
 
-III. En monedas circulantes en la República o en depósitos a la vista o a plazo en el Banco de México o en instituciones de crédito, o en certificados de depósito bancario, o en saldos bancarios en cuenta de cualquier clase, o en créditos expresados en letras de cambio, pagarés y demás documentos mercantiles con una firma, al menos, de institución de crédito y siempre que sea a plazo no superior a ciento ochenta días, o también en letras, pagares y demás documentos mercantiles que procedan a operaciones de compraventa de mercancías efectivamente realizadas, a plazo no mayor de noventa días, así como en valores de renta fija aprobados para el efecto por la Comisión Nacional de Valores.
+III. En monedas circulantes en la República o en depósitos a la vista o a plazo en el Banco de México o en instituciones de crédito, o en certificados de depósito bancario, o en saldos bancarios en cuenta de cualquier clase, o en créditos expresados en letras de cambio, pagarés y demás documentos mercantiles con una firma, al menos, de institución de crédito y siempre que sea a plazo no superior a ciento ochenta días, o también en letras, pagarés y demás documentos mercantiles que procedan a operaciones de compraventa de mercancías efectivamente realizadas, a plazo no mayor de noventa días, así como en valores de renta fija aprobados para el efecto por la Comisión Nacional de Valores.
 
 ###### ARTICULO 16.
 
@@ -230,43 +278,75 @@ Para los efectos de la presente Ley, se entenderá por bodega habilitada a aquel
 
 Por bodeguero habilitado, se entenderá a aquella persona designada por el almacén general de depósito para hacerse cargo de la guarda de los bienes o mercancías depositados en la bodega habilitada.
 
-La Comisión Nacional Bancaria y de Seguros, cuando lo estime justificado, podrá autorizar la expedición de certificados de depósito no negociables, o negociables con sus correspondientes bonos de prenda, por bienes que no sean del depositante.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+La Comisión Nacional Bancaria, cuando lo estime justificado, podrá autorizar la expedición de certificados de depósito no negociables, o negociables con sus correspondientes bonos de prenda, por bienes que no sean del depositante.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 16-A.
+
+Para cubrir reclamaciones en caso de faltantes de mercancías en bodegas propias, arrendadas o habilitadas, los almacenes generales de depósito deberán constituir una reserva de contingencia cuya conformación e inversión se ajustará a las reglas de carácter general que para el efecto emita la Secretaría de Hacienda y Crédito Público, oyendo a la Comisión Nacional Bancaria y al Banco de México.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 17.
 
-Además de los locales que para bodegas, oficinas y demás servicios tengan los almacenes en propiedad, podrán tener en arrendamiento, o en habilitación, locales ajenos en cualquier parte de la República, previa autorización que en cada caso otorgue la Comisión Nacional Bancaria y de Seguros, de acuerdo a lo dispuesto en el artículo 65 de esta Ley.
+Además de los locales que para bodegas, oficinas y demás servicios tengan los almacenes en propiedad, podrán tener en arrendamiento, o en habilitación, locales ajenos en cualquier parte de la República, previa autorización que en cada caso otorgue la Comisión Nacional Bancaria , de acuerdo a lo dispuesto en el artículo 65 de esta Ley.
 
 Ningún almacén podrá recibir en bodegas arrendadas y manejadas directamente por él, mercancías cuyo valor de certificación exceda del porcentaje del valor de los certificados que tenga en circulación, que señale mediante disposiciones de carácter general la citada Comisión.
 
 Los locales arrendados o en habilitación deberán reunir los siguientes requisitos:
 
-I. Los locales arrendados deberán contar con acceso directo a la vía pública y estarán independientes del resto de las construcciones que se localicen en el mismo inmueble, debiendo tener, asimismo, buenas condiciones físicas de estabilidad y adaptabilidad que aseguren la conservación de las mercancías sujetas a depósito. La Comisión Nacional Bancaria y de Seguros podrá autorizar el establecimiento de bodegas que no satisfagan dichos requisitos, cuando a su juicio concurran circunstancias especiales que lo justifiquen;
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+I. Los locales arrendados deberán contar con acceso directo a la vía pública y estarán independientes del resto de las construcciones que se localicen en el mismo inmueble, debiendo tener, asimismo, buenas condiciones físicas de estabilidad y adaptabilidad que aseguren la conservación de las mercancías sujetas a depósito. La Comisión Nacional Bancaria podrá autorizar el establecimiento de bodegas que no satisfagan dichos requisitos, cuando a su juicio concurran circunstancias especiales que lo justifiquen;
 
 II. Los locales de habilitados deberán contar también con buenas condiciones físicas de estabilidad y adaptabilidad que aseguren la adecuada conservación de las mercancías que se almacen en ellos. Cuando los almacenes designen como bodeguero habilitado al propio depositante o a algún funcionario o empleado de éste, para que en su nombre y representación se haga cargo de la guarda de las mercancías depositadas, éstos deberán garantizar al almacén el correcto desempeño de estas funciones, mediante fianza o caución, sin perjuicio de que el almacén exija otras garantías accesorias.
 
-La Comisión Nacional Bancaria y de Seguros, determinará la documentación e información que los almacenes generales de depósito deberán recabar de sus clientes en operaciones de depósito en bodegas habilitadas, durante la vigencia de los contratos relativos, así como la periodicidad con que deberán obtenerse.
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-Las autorizaciones para adquirir predios o bodegas, y construir o acondicionar locales de su propiedad, serán otorgadas también por la Comisión Nacional Bancaria y de Seguros, previamente a la adquisición de los inmuebles o a la iniciación de las obras, siempre que se encuentren en condiciones adecuadas de ubicación, estabilidad y adaptabilidad para el almacenamiento.
+Cuando existan faltantes de mercancías depositadas en las bodegas habilitadas, los almacenes generales de depósito podrán solicitar en la vía ejecutiva el embargo de los bienes inmuebles afectados, por escrito por el bodeguero habilitado o su fiador, dados en garantía del cumplimiento de sus obligaciones con el almacén, tomando como base el documento en que se constituya dicha afectación en garantía y siempre que haya sido ratificado e inscrito, en los términos del siguiente párrafo.
 
-Los almacenes generales de depósito, podrán tomar asimismo, en arrendamiento las plantas que requieran para llevar a cabo la transformación de las mercancías depositadas, en los términos del artículo 11 de esta Ley, previa autorización, en cada caso, de la Comisión Nacional Bancaria y de Seguros.
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros y del Banco de México, podrá autorizar la adquisición o el arrendamiento de bodegas en el extranjero, siempre y cuando se satisfagan los requisitos que en cada caso señale la citada Dependencia.
+El documento en que se haga la afectación, deberá ser ratificado por el propietario del inmueble ante juez, notario, corredor público o la Comisión Nacional Bancaria, y se inscribirá, a petición del almacén, en el Registro Público de la Propiedad respectivo.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+La Comisión Nacional Bancaria, determinará la documentación e información que los almacenes generales de depósito deberán recabar de sus clientes en operaciones de depósito en bodegas habilitadas, durante la vigencia de los contratos relativos, así como la periodicidad con que deberán obtenerse.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Las autorizaciones para adquirir predios o bodegas, y construir o acondicionar locales de su propiedad, serán otorgadas también por la Comisión Nacional Bancaria, previamente a la adquisición de los inmuebles o a la iniciación de las obras, siempre que se encuentren en condiciones adecuadas de ubicación, estabilidad y adaptabilidad para el almacenamiento.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Los almacenes generales de depósito, podrán tomar asimismo, en arrendamiento las plantas que requieran para llevar a cabo la transformación de las mercancías depositadas, en los términos del artículo 11 de esta Ley, previa autorización, en cada caso, de la Comisión Nacional Bancaria.
+
+La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México, podrá autorizar la adquisición o el arrendamiento de bodegas en el extranjero, siempre y cuando se satisfagan los requisitos que en cada caso señale la citada Dependencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 18.
 
-Los almacenes generales de depósito darán a conocer a la Comisión Nacional Bancaria y de Seguros, en los formatos y con la periodicidad que la misma determine, el nombre de las personas que incurran en las conductas previstas en el artículo 100 de esta Ley.
+Los almacenes generales de depósito darán a conocer a la Comisión Nacional Bancaria, en los formatos y con la periodicidad que la misma determine, el nombre de las personas que incurran en las conductas previstas en el artículo 100 de esta Ley.
 
 Dicha Comisión, previa autorización de las partes interesadas y después de realizar las comprobaciones que juzgue necesarias, comunicará a los almacenes generales de depósito los nombres de tales personas, a fin de que en lo sucesivo se abstengan de proporcionarles el servicio de habilitación de bodegas, con independencia de las sanciones que conforme a ésta u otras disposiciones legales correspondan.
 
 Asimismo, se suspenderá en sus funciones al bodeguero habilitado y no podrá ser designado para tal efecto, el depositante o algún funcionario o empleado de éste, cuando haya incurrido en las infracciones a que alude el citado artículo 100 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 19.
 
-Los almacenes generales de depósito podrán actuar como corresponsales de instituciones de crédito en operaciones relacionadas con las que les son propias; tomar seguro, por cuenta ajena por las mercancías depositadas; gestionar la negociación de bonos de prenda por cuenta de sus depositantes; efectuar el embargue de las mercancías, tramitando los documentos correspondientes y prestar todos los servicios técnicos necesarios a la conservación y salubridad de las mercancías.
+Los almacenes generales de depósito podrán actuar como corresponsales de instituciones de crédito, así como de otros almacenes generales de depósito o de empresas de servicios complementarios a éstos, nacionales o extranjeros, en operaciones relacionadas con las que les son propias; también podrán conceder corresponsalías a dichas instituciones, almacenes o empresas en las operaciones antes citadas; tomar seguro por cuenta ajena por las mercancías depositadas; gestionar la negociación de bonos de prenda por cuenta de sus depositantes; efectuar el embarque de las mercancías, tramitando los documentos correspondientes y prestar todos los servicios técnicos necesarios a la conservación y salubridad de las mercancías.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 20.
 
-Los almacenes generales de depósito podrán dar el (sic) arrendamiento alguno o algunos de sus locales, previa autorización de la Comisión Nacional Bancaria y de Seguros, quien la otorgará cuando a su juicio concurran circunstancias que justifiquen la solicitud, señalando las condiciones qu (sic) en su caso se deban cumplir.
+Los almacenes generales de depósito podrán dar el (sic) arrendamiento alguno o algunos de sus locales, previa autorización de la Comisión Nacional Bancaria, quien la otorgará cuando a su juicio concurran circunstancias que justifiquen la solicitud, señalando las condiciones qu (sic) en su caso se deban cumplir.
 
 ###### ARTICULO 21.
 
@@ -282,7 +362,9 @@ I. Anunciarán el remate por un aviso que se fijará en la entrada del edificio 
 
 II. El aviso deberá publicarse con ocho días de anticipación a la fecha señalada para el remate. Cuando se trate del remate de mercancías o efectos que hubieren sufrido demérito, conforme al primer párrafo de este artículo, deberán mediar tres días entre la publicación del aviso y el día del remate;
 
-III. Los remates se harán en las oficinas de los almacenes y en presencia de un inspector de la Comisión Nacional Bancaria y de Seguros. Las mercancías o bienes que vayan a rematarse estarán a la vista del público desde el día en que se publique el aviso de remate;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+III. Los remates se harán en las oficinas de los almacenes y en presencia de un inspector de la Comisión Nacional Bancaria. Las mercancías o bienes que vayan a rematarse estarán a la vista del público desde el día en que se publique el aviso de remate;
 
 IV. Será postura legal, a falta de estimación fijada al efecto en el certificado de depósito, la que cubra al contado el importe del adeudo que hubiere en favor de los almacenes y, en su caso, el del préstamo que el bono o los bonos de prenda garanticen, teniendo los almacenes, si no hubiera postor, derecho a adjudicarse las mercancías o efectos por la postura legal; y
 
@@ -302,7 +384,9 @@ III. Recibir depósitos bancarios de dinero;
 
 IV. Otorgar fianzas o cauciones;
 
-V. Adquirir bienes, mobiliario o equipo no destinados a sus oficinas o a actividades propias de su objeto social. Si por adjudicación o cualquier otra causa adquiriesen bienes, que no deban mantener en sus activos, deberán proceder a su venta en el plazo de un año, si se trata de bienes muebles, o de dos años, si son inmuebles, pudiendo la Comisión Nacional Bancaria y de Seguros prorrogar el plazo cuando se dificulte la venta. Si al término del plazo o de la prórroga no se han vendido, la propia Comisión Nacional Bancaria y de Seguros procederá a sacarlos administrativamente a remate;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+V. Adquirir bienes, mobiliario o equipo no destinados a sus oficinas o a actividades propias de su objeto social. Si por adjudicación o cualquier otra causa adquiriesen bienes, que no deban mantener en sus activos, deberán proceder a su venta en el plazo de un año, si se trata de bienes muebles, o de dos años, si son inmuebles, pudiendo la Comisión Nacional Bancaria prorrogar el plazo cuando se dificulte la venta. Si al término del plazo o de la prórroga no se han vendido, la propia Comisión Nacional Bancaria procederá a sacarlos administrativamente a remate;
 
 VI. Realizar operaciones de compraventa de oro, plata y divisas. Se exceptúan las operaciones de divisas relacionadas con financiamientos o contratos que se hayan celebrado en moneda extranjera;
 
@@ -312,9 +396,11 @@ VIII. Realizar las demás operaciones que no les estén expresamente autorizadas
 
 ### CAPITULO II. De las Arrendadoras Financieras
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 24.
 
-Las sociedades que disfruten de concesión para operar como arrendadoras financieras, sólo podrán realizar las siguientes operaciones:
+Las sociedades que disfruten de autorización para operar como arrendadoras financieras, sólo podrán realizar las siguientes operaciones:
 
 I. Celebrar contratos de arrendamiento financiero a que se refiere el artículo 25 de esta Ley;
 
@@ -328,9 +414,9 @@ La Secretaría de Hacienda y Crédito Público, mediante reglas de carácter gen
 
 V. Obtener préstamos y créditos de instituciones de crédito del país o de entidades financieras del exterior, para cubrir necesidades de liquidez, relacionadas con su objeto social;
 
-VI. Otorgar créditos refaccionarios e hipotecarios, con base en las reglas de carácter general que emita la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros y del Banco de México;
+VI. (DEROGADA, D.O.F. 3 DE ENERO DE 1990)
 
-VII. Otorgar créditos a corto plazo, que se relacionen con contratos de arrendamiento financiero, conforme a las reglas de carácter general que dicte la Secretaría de Hacienda y Crédito Público;
+VII. (DEROGADA, D.O.F. 3 DE ENERO DE 1990)
 
 VIII. Descontar, dar en prenda o negociar los títulos de crédito y afectar los derechos provenientes de los contratos de arrendamiento financiero, o de las operaciones autorizadas a las arrendadoras con las personas de las que reciban financiamiento;
 
@@ -340,7 +426,9 @@ X. Adquirir muebles e inmuebles destinados a sus oficinas;
 
 XI. Las demás que en ésta u otras leyes se les autorice; y
 
-XII. Las demás operaciones análogas y conexas que, mediante reglas de carácter general, autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros y del Banco de México.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+XII. Las demás operaciones análogas y conexas que, mediante reglas de carácter general, autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México.
 
 ###### ARTICULO 25.
 
@@ -430,17 +518,41 @@ Las primas y los gastos del seguro serán por cuenta de la arrendataria.
 
 Las operaciones a que se refieren las fracciones IV y V del artículo 24 de esta Ley que celebren las arrendadoras financieras, se someterán en cuanto a sus límites y condiciones, a las reglas de carácter general que en su caso expida el Banco de México.
 
-La Secretaría de Hacienda y Crédito Público, oyendo a la Comisión Nacional Bancaria y de Seguros, establecerá, mediante disposiciones de carácter general las obligaciones contingentes, distintas a las señaladas en la fracción VIII del mencionado artículo 24, que pueda asumir las arrendadoras financieras.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+La Secretaría de Hacienda y Crédito Público establecerá, oyendo a la Comisión Nacional Bancaria, mediante disposiciones de carácter general, las obligaciones contingentes que puedan asumir las arrendadoras financieras en los contratos de arrendamiento financiero, cuando dichas obligaciones contingentes sean distintas a las señaladas en la fracción VIII del artículo 24, señalando además, el monto máximo de estos pasivos que se les autorice contraer.
 
 ###### ARTICULO 37.
 
-La Secretaría de Hacienda y Crédito Público, tomando en cuenta los usos y costumbres bancarios y mercantiles, del país y del extranjero, señalará el monto máximo de los pasivos directos y contigentes (sic) que puedan contraer las arrendadoras financieras, con relación a sus recursos patrimoniales, con vistas a una adecuada capitalización.
+(DEROGADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)
 
-El importe de capital pagado y reservas de capital, deberá estar invertido en operaciones propias del objeto de estas sociedades, así como en los bienes muebles e inmuebles que están autorizadas a adquirir.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+El importe del capital pagado y reservas de capital de las arrendadoras financieras, deberá estar invertido en operaciones propias del objeto de estas sociedades, así como en los bienes muebles e inmuebles que están autorizadas a adquirir.
 
 No excederá del 60% del capital pagado y reservas de capital, el importe de las inversiones en mobiliario y en equipo o en inmuebles destinados a sus oficinas, más el importe de la inversión en acciones de sociedades que se organicen exclusivamente para adquirir el dominio y administrar edificios, siempre que en algún edificio propiedad de la sociedad, tenga establecida o establezca su oficina principal o alguna sucursal o agencia la arrendadora financiera accionista. La inversión en acciones y los requisitos que deban satisfacer las sociedades a que se hace referencia, se sujetarán a las reglas generales que dicte la Secretaría de Hacienda y Crédito Público.
 
-El importe de los gastos de instalación no podrá exceder del 10% del capital pagado y reservas de capital. La Comisión Nacional Bancaria y de Seguros podrá aumentar, temporalmente y en casos especiales, este porcentaje y el señalado en el párrafo anterior.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+El importe de los gastos de instalación no podrá exceder del 10% del capital pagado y reservas de capital. La Comisión Nacional Bancaria podrá aumentar, temporalmente y en casos especiales, este porcentaje y el señalado en el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 37-A.
+
+Las arrendadoras financieras invertirán los recursos provenientes de las operaciones referidas en las fracciones IV, V y VIII del artículo 24 en términos que les permitan mantener condiciones adecuadas de seguridad y liquidez. La Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria, determinará las clasificaciones de los activos y, en su caso, las operaciones causantes de pasivos contingentes en función de su seguridad y liquidez, estableciendo, asimismo, los porcentajes máximos de pasivo exigible y de pasivo contingente que podrán estar representados por los distintos grupos de activos y de operaciones resultantes de las referidas clasificaciones.
+
+Las clasificaciones y porcentajes mencionados, podrán ser determinados para diferentes tipos de pasivos o para distintas arrendadoras financieras clasificadas según su ubicación, magnitud, composición de sus pasivos u otros criterios.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 37-B.
+
+Las arrendadoras financieras, sin perjuicio de mantener el capital mínimo previsto por esta Ley, deberán tener capital contable por un monto no menor de la cantidad que resulte de aplicar un porcentaje que no será inferior al tres por ciento, a la suma de sus activos y en su caso de sus operaciones causantes de pasivo contingente expuestos a riesgos significativos. La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México, y tomando en cuenta los usos internacionales en la materia determinará cuales activos deberán considerarse dentro de la mencionada suma, así como el porcentaje aplicable en los términos del presente artículo.
+
+El capital contable tampoco deberá ser inferior, en ningún caso, a la suma de las cantidades que se obtengan de aplicar a los grupos de activo y de operaciones causantes de pasivo contingente, resultantes de las clasificaciones por seguridad y liquidez a que se refiere el artículo inmediato anterior, los porcientos que el Banco de México determine para cada uno de esos grupos, oyendo la opinión de la Comisión Nacional Bancaria.
+
+Para efectos de este artículo, la Secretaría de Hacienda y Crédito Público, oyendo previamente a la Comisión Nacional Bancaria y al Banco de México, señalará los conceptos que se considerarán integrantes del capital contable de las arrendadoras financieras.
 
 ###### ARTICULO 38.
 
@@ -456,21 +568,29 @@ IV. Recibir depósitos bancarios de dinero;
 
 V. Otorgar fianzas o cauciones;
 
-VI. Adquirir bienes, títulos o valores, mobiliario o equipo no destinados a sus oficinas o a celebrar operaciones propias de su objeto, que no deban conservar en su activo. Si por adjudicación o cualquier otra causa adquiriesen tales bienes, deberán proceder a su venta en el plazo de un año, si se trata de bienes muebles, o de dos años, si son inmuebles, pudiendo la Comisión Nacional Bancaria y de Seguros prorrogar el plazo cuando se dificulte la venta. Si al término del plazo o de la prórroga no se han vendido, la propia Comisión procederá a sacarlos administrativamente a remate.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+VI. Adquirir bienes, títulos o valores, mobiliario o equipo no destinados a sus oficinas o a celebrar operaciones propias de su objeto, que no deban conservar en su activo. Si por adjudicación o cualquier otra causa adquiriesen tales bienes, deberán proceder a su venta en el plazo de un año, si se trata de bienes muebles, o de dos años, si son inmuebles, pudiendo la Comisión Nacional Bancaria prorrogar el plazo cuando se dificulte la venta. Si al término del plazo o de la prórroga no se han vendido, la propia Comisión procederá a sacarlos administrativamente a remate.
 
 Cuando se trate de bienes que las arrendadoras financieras hayan recuperado, por incumplimiento de las arrendatarias, podrán ser dados en arrendamiento financiero a terceros, si las circunstancias lo permiten. En caso contrario, se procederá en los términos del párrafo anterior;
 
-VII. Realizar operaciones de compraventa de oro, plata y divisas. Se exceptúan las operaciones de divisas relacionadas con financiamiento o contratos que se hayan celebrado en moneda extranjera; y
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+VII. Realizar operaciones de compraventa de oro, plata y divisas. Se exceptúan las operaciones con divisas relacionadas con financiamientos o con contratos que se hayan celebrado en moneda extranjera, las cuales se ajustarán en todo momento a las disposiciones de carácter general que, en su caso, expida el Banco de México; y
 
 VIII. Realizar las demás operaciones que no les estén expresamente autorizadas.
 
 ### CAPITULO III. De las Uniones de Crédito
 
-### CAPITULO IV. Disposiciones Comunes
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+### CAPITULO III Bis. De las empresas de factoraje financiero
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 39.
 
-Las uniones de crédito a que se refiere este capítulo, podrán gozar de concesión para operar en los siguientes ramos:
+Las uniones de crédito a que se refiere este capítulo podrán gozar de autorización para operar en los siguientes ramos:
 
 I. Uniones de crédito agropecuarias, en que los socios se dediquen a actividades agrícolas, ganaderas o a unas y otras;
 
@@ -478,9 +598,13 @@ II. Uniones de crédito industriales, en que los socios se dediquen a actividade
 
 III. Uniones de crédito comerciales, en que los socios se dediquen a actividades mercantiles con bienes o servicios de una misma naturaleza o en que unos sean de índole complementaria respecto de los otros, y tengan establecimientos debidamente registrados conforme a la ley; y
 
-IV. Uniones de crédito mixtas, que se configurarán en los términos de su concesión, con miembros que se podrán dedicar cuando menos a dos de las siguientes actividades: agropecuarias, industriales o comerciales, siempre y cuando las actividades de todos los miembros guarden relación directa entre sí.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-La Comisión Nacional Bancaria y de Seguros podrá otorgar la concesión a que se refiere esta fracción, cuando considere que la unión permite satisfacer mejor las necesidades financieras de los socios y propiciar el desarrollo de sus actividades.
+IV.- Uniones de crédito mixtas, que se configurarán en los términos de su autorización, con miembros que se podrán dedicar cuando menos a dos de las siguientes actividades: agropecuarias, industriales o comerciales.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+La Comisión Nacional Bancaria podrá otorgar la autorización a que se refiere esta fracción, cuando considere que la unión permite satisfacer mejor las necesidades financieras de los socios y propiciar el desarrollo de sus actividades.
 
 ###### ARTICULO 40.
 
@@ -488,11 +612,23 @@ Las uniones de crédito, de acuerdo con el ramo a que pertenezcan y en los térm
 
 I. Facilitar el uso del crédito a sus socios y prestar su garantía o aval, conforme a las disposiciones legales y administrativas aplicables, en los créditos que contraten sus socios;
 
-II. Recibir exclusivamente de sus socios, préstamos a título oneroso sujetos a los términos y condiciones sobre montos, plazos, intereses y demás características que mediante disposiciones de carácter general señale la Secretaría de Hacienda y Crédito Público, oyendo previamente las opiniones de la Comisión Nacional Bancaria y de Seguros y el Banco de México;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+II. Recibir exclusivamente de sus socios, préstamos a título oneroso sujetos a los términos y condiciones sobre montos, plazos, intereses y demás características que mediante disposiciones de carácter general señale la Secretaría de Hacienda y Crédito Público, oyendo previamente las opiniones de la Comisión Nacional Bancaria y el Banco de México;
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Con las mismas limitaciones que esta Ley establece para los socios de las uniones de crédito, éstas podrán obtener préstamos de instituciones de crédito, compañías de seguros, compañías de fianzas y otras uniones de crédito, así como de sus proveedores a un plazo no mayor de ciento ochenta días y renovable por una sola vez.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+En operaciones para adquirir maquinaria o bienes inmuebles, los plazos se ajustarán a los que se consignan para los créditos refaccionarios;
 
 III. Practicar con sus socios operaciones de descuento, préstamo y crédito de toda clase, reembolsables en los plazos que se establecen en el artículo 43, fracción II de esta Ley;
 
-IV. Recibir de sus socios, para el exclusivo objeto de servicios de caja y tesorería, depósitos de dinero y cuyos saldos podrá depositar la unión en instituciones de crédito;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+IV.- Recibir de sus socios, para el exclusivo objeto de servicios de caja y tesorería, depósitos de dinero y cuyos saldos podrá depositar la unión en instituciones de crédito o invertirlos en valores gubernamentales;
 
 V. Adquirir acciones, obligaciones y otros títulos semejantes y aún mantenerlos en cartera;
 
@@ -502,45 +638,63 @@ VII. Promover la organización y administrar empresas de industrialización o de
 
 VIII. Encargarse de la venta de los frutos o productos obtenidos o elaborados por sus socios;
 
-IX. Encargarse, por cuenta y orden de sus socios, de la compraventa o alquiler de insumos, bienes de capital, bienes y materias primas necesarios para la explotación agropecuaria o industrial, así como de mercancías o artículos diversos, en el caso de las uniones del ramo comercial;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-X. Adquirir por cuenta propia los bienes a que se refiere la fracción anterior, para enajenarlos exclusivamente a sus socios.
+IX.- Encargarse, por cuenta y orden de sus socios, de la compraventa o alquiler de insumos, bienes de capital, bienes y materias primas, necesarios para la explotación agropecuaria o industrial, así como de mercancías o artículos diversos;
 
-Para efectuar estas operaciones deberán presentar anualmente a la Comisión Nacional Bancaria y de Seguros un programa de las adquisiciones que al efecto pretendan realizar durante el ejercicio y las modificaciones que el mismo registre durante el período. Esa Comisión podrá verificar, en todo tiempo, que dicho programa se ajuste a los términos de esta Ley, así como su cumplimiento;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-XI. Encargarse, por cuenta propia, de la transformación industrial o del beneficio de los productos obtenidos o elaborados por sus socios previa aprobación de la Comisión Nacional Bancaria y de Seguros, para cuyo efecto las uniones deberán acompañar un proyecto completo de la actividad industrial que pretendan desarrollar, la viabilidad económica del mismo y los beneficios que obtendrían los socios. Con vista de la información anterior y de los datos y estudios adicionales que considere necesarios, dicho Organismo dictará la resolución que estime procedente;
+X.- Adquirir por cuenta propia los bienes a que se refiere la fracción anterior, para enajenarlos o rentarlos exclusivamente a sus socios;
 
-XII. Realizar complementariamente todos los actos, contratos u operaciones que, a juicio de la Comisión Nacional Bancaria y de Seguros, sean conexos, anexos o accesorios de las actividades anteriores.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+XI. Encargarse, por cuenta propia, de la transformación industrial o del beneficio de los productos obtenidos o elaborados por sus socios previa aprobación de la Comisión Nacional Bancaria, para cuyo efecto las uniones deberán acompañar un proyecto completo de la actividad industrial que pretendan desarrollar, la viabilidad económica del mismo y los beneficios que obtendrían los socios. Con vista de la información anterior y de los datos y estudios adicionales que considere necesarios, dicho Organismo dictará la resolución que estime procedente;
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+XII. Realizar complementariamente todos los actos, contratos u operaciones que, a juicio de la Comisión Nacional Bancaria, sean conexos, anexos o accesorios de las actividades anteriores.
 
 Las actividades a que se refieren las fracciones VI a X de este artículo, se efectuarán por medio de departamento especial.
 
-Las uniones no podrán tener más ingresos, comisiones o utilidades por estas operaciones, que los que en forma expresa les autorice la Comisión Nacional Bancaria y de Seguros, para lo cual deberán presentar, como parte del programa anual a que se refiere el artículo 43 fracción VII, de esta Ley, sus proyectos y sugerencias, explicando los cargos propuestos y su justificación, tomando en cuenta los intereses de la sociedad y de los socios que estén operando con el departamento especial.
+> <small>(DEROGADOS TERCER Y CUARTO PARRAFOS, D.O.F. 3 DE ENERO DE 1990)</small>
 
-Las operaciones a que se refiere la fracción X de este artículo estarán sujetas, además, a las normas que expida la Comisión Nacional Bancaria y de Seguros; y
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-XIII. Las demás actividades análogas y conexas que, mediante reglas de carácter general autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros y del Banco de México.
+XIII. Las demás actividades análogas y conexas que, mediante reglas de carácter general autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México.
 
 ###### ARTICULO 41.
 
 Las uniones de crédito deberán constituirse como sociedades anónimas de capital variable, de acuerdo con la legislación mercantil, en cuanto no se oponga a las siguientes disposiciones que son de aplicación general:
 
-I. Los socios podrán ser personas físicas o morales que reúnan los requisitos a que se refiere el artículo 39 de esta Ley. Al otorgar la concesión, la Comisión Nacional Bancaria y de Seguros determinará el número de socios que corresponda a cada unión, de acuerdo con su naturaleza y características, sin que pueda ser menor de veinte;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+I.- Los socios podrán ser personas físicas o morales que reúnan los requisitos a que se refiere el artículo 39 de esta Ley. Al otorgar la autorización, la Comisión Nacional Bancaria determinará el número de socios que corresponda a cada unión, de acuerdo con su naturaleza y características, sin que pueda ser menor de veinte;
 
 II. Todas las acciones, ya sean las representativas del capital sin derecho a retiro como las del capital con derecho a retiro, y salvo las características derivadas del tipo de capital que representen, conferirán iguales derechos y obligaciones a los tenedores;
 
-III. El objeto social se limitará, en los términos de la concesión, a las actividades a que se refiere el artículo 40 de esta Ley que sean acordes con el ramo que corresponda a la unión;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-IV. Los socios deberán residir en la zona económica correspondiente a la plaza en que se halle instalado el domicilio social de la unión a que pertenezcan. La Comisión Nacional Bancaria y de Seguros podrá excepcionalmente autorizar que los socios radiquen en otra zona económica. Tratándose de uniones de crédito, cuyos socios se dediquen a trabajar los mismos productos, produzcan los mismos artículos o presten iguales servicios, la propia Comisión podrá autorizar que los socios radiquen en distintas Entidades Federativas, aunque éstas no pertenezcan a la misma zona económica o aledañas, si mediante el establecimiento de la unión se logra satisfacer mejor las necesidades financieras de los socios o las relacionadas con los servicios complementarios que puedan prestar, conforme al artículo 40 de esta Ley.
+III.- El objeto social se limitará, en los términos de la autorización, a las actividades a que se refiere el artículo 40 de esta Ley que sean acordes con el ramo que corresponda a la unión;
 
-Las uniones de crédito sólo podrán tener sucursales en plazas que estén dentro de las entidades señaladas en la concesión, en los términos a que se refiere el artículo 65 de esta Ley. Para el funcionamiento de estas sucursales, las uniones podrán integrar comités locales, a los que se les delegarán las facultades que fijen los estatutos o acuerden las asambleas generales extraordinarias de accionistas, y que sean aprobadas por la Comisión Nacional Bancaria y de Seguros; y
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+IV. Los socios deberán residir en la zona económica correspondiente a la plaza en que se halle instalado el domicilio social de la unión a que pertenezcan. La Comisión Nacional Bancaria podrá excepcionalmente autorizar que los socios radiquen en otra zona económica. Tratándose de uniones de crédito, cuyos socios se dediquen a trabajar los mismos productos, produzcan los mismos artículos o presten iguales servicios, la propia Comisión podrá autorizar que los socios radiquen en distintas Entidades Federativas, aunque éstas no pertenezcan a la misma zona económica o aledañas, si mediante el establecimiento de la unión se logra satisfacer mejor las necesidades financieras de los socios o las relacionadas con los servicios complementarios que puedan prestar, conforme al artículo 40 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Las uniones de crédito sólo podrán tener sucursales en plazas que estén dentro de las entidades señaladas en su autorización, y para el establecimiento y cambio de ubicación de cualquier clase de oficinas, se requerirá autorización de la Comisión Nacional Bancaria. Para el funcionamiento de estas sucursales, las uniones podrán integrar comités locales, a los que se les delegarán las facultades que fijen los estatutos o acuerden las asambleas generales extraordinarias de accionistas, y que sean aprobadas por la Comisión Nacional Bancaria; y
 
 V. Para la transmisión de las acciones se requerirá indispensablemente la autorización del consejo de administración de la sociedad.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 42.
 
-La solicitud de concesión para operar una unión de crédito, deberá presentarse a la Comisión Nacional Bancaria y de Seguros, acompañada del proyecto de escritura constitutiva de la sociedad, un programa general de trabajo, la lista de socios fundadores y capital que suscribirán, así como, la documentación necesaria para comprobar que reúnen los requisitos a que se refiere el artículo 39 de esta Ley y la que establezca la citada Comisión mediante reglas de carácter general.
+La solicitud de autorización para operar una unión de crédito, deberá presentarse a la Comisión Nacional Bancaria, acompañada del proyecto de escritura constitutiva de la sociedad, un programa general de trabajo, la lista de socios fundadores y capital que suscribirán, así como la documentación necesaria para comprobar que reúnen los requisitos a que se refiere el artículo 39 de esta Ley y la que establezca la citada Comisión, mediante reglas de carácter general.
 
-Una vez otorgada la concesión y comunicado el resultado de la revisión del proyecto de la escritura constitutiva, se presentará testimonio de ésta dentro del plazo de cuatro meses a partir de la fecha en que se haya hecho esa comunicación, para que la Comisión Nacional Bancaria y de Seguros la apruebe y ordene su inscripción en el Registro Público de Comercio. Dicho plazo podrá ser prorrogado, excepcionalmente a juicio de la propia Comisión, cuando existan causas que lo justifiquen.
+Una vez otorgada la autorización y comunicado el resultado de la revisión del proyecto de la escritura constitutiva, se presentará testimonio de ésta dentro del plazo de cuatro meses a partir de la fecha en que se haya hecho esa comunicación, para que la Comisión Nacional Bancaria la apruebe y ordene su inscripción en el Registro Público de Comercio. Dicho plazo podrá ser prorrogado, excepcionalmente, a juicio de la propia Comisión, cuando existan causas que lo justifiquen.
 
 ###### ARTICULO 43.
 
@@ -548,7 +702,9 @@ La actividad de las uniones de crédito se someterá a las siguientes disposicio
 
 I. El importe total del pasivo real sumado al contingente, no podrá exceder en ningún caso de treinta veces el importe del capital pagado y las reservas de capital. Para tales efectos, se entenderá por pasivo exigible el importe de sus obligaciones y de las responsabilidades solidarias contraídas en garantía de sus socios.
 
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros, podrá, mediante disposiciones de carácter general determinar tipos de obligaciones que por su naturaleza, seguridad y condiciones particulares pueden excluirse de los cómputos de los pasivos real y exigible para efectos de las relaciones a que hace referencia el párrafo anterior;
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+La Comisión Nacional Bancaria fijará límites menores al señalado en el párrafo anterior, cuando considere que las circunstancias financieras y de operación que concurran en algunas uniones de crédito así lo ameriten;
 
 II. Las operaciones de descuento, préstamo o crédito que practiquen estas organizaciones, no serán reembolsables a plazo mayor de cinco años, o de quince cuando se trate de créditos refaccionarios o hipotecarios, consideradas sus renovaciones.
 
@@ -558,63 +714,89 @@ Cuando el crédito de habilitación o avío sea complementario de un crédito re
 
 El importe de todas las operaciones que las uniones de crédito practiquen para ser reembolsadas a plazo superior a trescientos sesenta días, no podrá exceder del 80% de sus obligaciones, entendiéndose por éstas todos los saldos que integren el pasivo real;
 
-III. Deberán mantener un 12% de su pasivo real en monedas circulantes en la República o en depósito a la vista en el Banco de México o en instituciones de crédito, o bien en valores emitidos por el Gobierno Federal. Por su pasivo contingente deberán mantener un 9% en activo líquido, según se describe anteriormente, o en documentos suscritos por asociados de la unión a plazo no mayor de doscientos cuarenta días y con garantía real o en valores aprobados para el efecto por la Comisión Nacional de Valores;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+III.- Deberán mantener un 12% de su pasivo real a plazo no mayor de ciento veinte días, en depósito a la vista en el Banco de México o en instituciones de crédito, o bien en valores emitidos por el Gobierno Federal. Por su pasivo contingente deberán mantener un 5% en activo líquido, según se describe anteriormente, o en documentos suscritos por socios de la unión a plazo no mayor de ciento veinte días y con garantía real o en valores aprobados para el efecto por la Comisión Nacional de Valores;
 
 IV. Las operaciones de crédito que practiquen con sus socios, deberán estar relacionadas directamente con las actividades de las empresas o negocios de éstos, y deberán tener las garantías que sean propias de cada tipo de crédito, sin perjuicio de las demás que puedan pactarse.
 
 En las operaciones sin garantía real, el importe total de las que practique un socio con la unión, en ningún caso podrá exceder de diez veces la parte del capital de la unión pagada por el socio más la proporción que le corresponda de las reservas de capital, incluyendo el superávit por revalorización de inmuebles. Estas operaciones no se pactarán a plazo superior de ciento ochenta días, y podrán renovarse siempre que el plazo total no exceda de trescientos sesenta días.
 
-En las operaciones con garantía real, su importe total podrá alcanzar hasta veinte veces la parte del capital de la unión pagada por el socio más la proporción de las reservas y el superávit a que se refiere el párrafo anterior.
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-El saldo de las responsabilidades totales a cargo de un socio no podrá exceder de veinte veces el capital pagado por el propio socio más las reservas y el superávit mencionados en los párrafos precedentes; sin embargo, la Comisión Nacional Bancaria y de Seguros podrá, excepcionalmente, autorizar operaciones en que se rebase esa relación, sin exceder de treinta veces el capital pagado por un socio, más las reservas y el superávit correspondientes, cuando no tengan como consecuencia una concentración indebida del crédito y la unión de que se trate mantenga una adecuada diversificación de sus inversiones;
+En las operaciones con garantía real, su importe total podrá alcanzar hasta cuarenta veces la parte del capital de la unión pagada por el socio, más la proporción de las reservas y el superávit a que se refiere el párrafo anterior.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+En las operaciones sin garantía real producto de las actividades hechas por cuenta de la propia unión, por medio del departamento especial y pactadas a plazo no mayor de noventa días, el importe podrá ser hasta quince veces la parte del capital de la unión pagada por el socio más la proporción de las reservas y el superávit citados.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+El saldo de las responsabilidades totales a cargo de un socio no podrá exceder de cuarenta veces el capital pagado por el propio socio más las reservas y el superávit mencionados en los párrafos precedentes; sin embargo, la Comisión Nacional Bancaria podrá excepcionalmente, autorizar operaciones en que se rebase esa relación, sin exceder de cincuenta veces el capital pagado por un socio, más las reservas y el superávit correspondientes, cuando no tengan como consecuencia una concentración indebida del crédito y la unión de que se trate mantenga una adecuada diversificación de sus inversiones;
 
 V. En el otorgamiento y durante la vigencia de los créditos o préstamos de cualquier naturaleza, se sujetarán a lo dispuesto por el artículo 73 de esta Ley;
 
 VI. Los valores que constituyan sus inversiones serán los aprobados por la Comisión Nacional de Valores, sin que la inversión en valores de una misma sociedad pueda exceder del 15% del capital pagado de la unión, más las reservas de capital, ni del 10% del capital pagado de la emisora;
 
-VII. Las uniones de crédito deberán presentar a la Comisión Nacional Bancaria y de Seguros, dentro del mes siguiente al del cierre de su ejercicio social, un programa de trabajo para el ejercicio siguiente, con la proyección de las actividades que estén autorizadas a realizar, estimación de ingresos y egresos, de pérdidas y ganancias, de operaciones pasivas, reales y contingentes, de operaciones activas y de servicios complementarios, así como los demás datos que la propia Comisión les solicite.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-Las uniones de crédito deberán ajustar sus actividades a los programas aprobados por la Comisión Nacional Bancaria y de Seguros, y presentar a ésta, junto con el estado que muestre la situación financiera al cierre del ejercicio, un informe sobre el cumplimiento que se haya dado a los programas respectivos.
+VIl.- Dentro de los treinta días siguientes al inicio del ejercicio social las uniones de crédito presentarán a la Comisión Nacional Bancaria su programa de trabajo, el cual deberá estar aprobado por su consejo de administración.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Las uniones de crédito presentarán a la Comisión Nacional Bancaria el estado que muestre su situación financiera y un informe sobre el cumplimiento que se haya dado a su programa de trabajo, dentro de los treinta días siguientes al cierre de sus respectivos ejercicios sociales.
 
 El incumplimiento o falta de observancia por parte de las uniones de crédito de sus programas, será sancionado en los términos del artículo 78 fracción X de esta Ley;
 
 VIII. No podrán exceder del 60% del capital fijo y pagado, más las reservas de capital, el importe de las inversionese (sic) en mobiliario y en los inmuebles de las oficinas y bodegas de la unión, más el importe de la inversión en acciones de sociedades que se organicen exclusivamente para adquirir el dominio y administrar edificios, y siempre que en algún edificio propiedad de esa sociedad tenga establecida o establezca su oficina principal o alguna sucursal la organización auxiliar del crédito accionista. La inversión en acciones y los requisitos que deban satisfacer las sociedades a que se refiere esta fracción, se sujetarán a las reglas generales que dicte la Secretaría de Hacienda y Crédito Público;
 
-IX. La suma del importe de las inversiones en mobiliario, inmuebles y acciones de sociedades a que se refiere la fracción anterior y del importe de los bienes, derechos y títulos que no sean de la naturaleza de los que está permitido adquirir a esta clase de organizaciones y que reciban en pago de créditos, más el porcentaje que fije la Comisión Nacional Bancaria y de Seguros para cada unión, entre el 20% y el 30% del importe de los créditos no satisfechos a su vencimiento o no reembolsados en el plazo de cinco años y treinta y un días, menos el pasivo derivado de las inversiones en plantas industriales, no podrá exceder del capital pagado más las reservas de capital;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-X. La Comisión Nacional Bancaria y de Seguros, al aprobar el proyecto de la actividad industrial que se propongan realizar las uniones de crédito, determinará, en cada caso, la proporción del capital pagado y reservas de capital que pueda ser invertido en plantas industriales, pero en ningún caso esta inversión, sumada a la señalada en la fracción VIII de este artículo, podrá ser superior al 70% del capital pagado y reservas de capital;
+IX. La suma del importe de las inversiones en mobiliario, inmuebles y acciones de sociedades a que se refiere la fracción anterior y del importe de los bienes, derechos y títulos que no sean de la naturaleza de los que está permitido adquirir a esta clase de organizaciones y que reciban en pago de créditos, más el porcentaje que fije la Comisión Nacional Bancaria para cada unión, entre el 20% y el 30% del importe de los créditos no satisfechos a su vencimiento o no reembolsados en el plazo de cinco años y treinta y un días, menos el pasivo derivado de las inversiones en plantas industriales, no podrá exceder del capital pagado más las reservas de capital;
 
-XI. El pasivo de las uniones de crédito, con motivo de la adquisición de plantas industriales, no podrán exceder del 50% del valor de la misma y deberá liquidarse en un plazo de tres años, prorrogable hasta por dos más a juicio de la Comisión Nacional Bancaria y de Seguros. El capital que se aporte o las utilidades que se capitalicen para cubrir dicho pasivo, deberán acreditarse en acciones de capital sin derecho a retiro.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+X. La Comisión Nacional Bancaria, al aprobar el proyecto de la actividad industrial que se propongan realizar las uniones de crédito, determinará, en cada caso, la proporción del capital pagado y reservas de capital que pueda ser invertido en plantas industriales, pero en ningún caso esta inversión, sumada a la señalada en la fracción VIII de este artículo, podrá ser superior al 70% del capital pagado y reservas de capital;
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+XI.- El pasivo de las uniones de crédito, con motivo de la adquisición de plantas industriales, no podrá exceder del cincuenta por ciento del valor de la misma y deberá liquidarse conforme al proyecto que al efecto apruebe la Comisión Nacional Bancaria. El capital que se aporte a las utilidades que se capitalicen para cubrir dicho pasivo, deberá acreditarse en acciones de capital sin derecho a retiro.
 
 En tanto no sea liquidado ese pasivo, las uniones de crédito no podrán acordar devoluciones del capital con derecho a retiro;
 
 XII. El importe de los gastos de organización o similares no podrán exceder del 10% del capital pagado y reservas; y
 
-XIII. Los depósitos de sus socios podrán ser retirados mediante recibos u órdenes de pago, cuyos formatos hayan sido previamente aprobados por la Comisión Nacional Bancaria y de Seguros. En ningún caso podrán disponerse de ellos mediante cheques.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+XIII. Los depósitos de sus socios podrán ser retirados mediante recibos u órdenes de pago, cuyos formatos hayan sido previamente aprobados por la Comisión Nacional Bancaria. En ningún caso podrán disponerse de ellos mediante cheques.
 
 ###### ARTICULO 44.
 
-El importe del pasivo exigible de las uniones de crédito no podrá exceder de la suma que, mediante disposiciones de carácter general, señale la Comisión Nacional Bancaria y de Seguros. Excepcionalmente, la misma Comisión tomando en cuenta las circunstancias que concurran en algunas uniones, podrá autorizar individualmente un límite mayor, así como revocarlo si dichas circunstancias varían.
+(DEROGADO, D.O.F. 3 DE ENERO DE 1990)
 
 ###### ARTICULO 45.
 
 A las uniones de crédito les estará prohibido:
 
-I. Realizar operaciones de descuento, préstamo o crédito de cualquier clase, con personas que no sean miembros o asociados de la unión, a excepción de los créditos que obtengan de otras uniones de crédito conforme a reglas de carácter general que emita la Comisión Nacional Bancaria y de Seguros, de las instituciones de crédito, o de sus proveedores y siempre que tratándose de estos últimos, el crédito concedido no sea a plazo superior a ciento ochenta días, renovable por una sola vez.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-Por los préstamos o créditos que reciban de sus miembros o asociados, las uniones de crédito sólo podrán expedir documentos negociables exclusivamente con instituciones de crédito del país, debiendo expresarse así en el texto de los documentos;
+I.- Realizar operaciones de descuento, préstamo o crédito de cualquier clase con personas que no sean socios de la unión, excepto con las personas expresamente autorizadas en el artículo 40, fracción II de esta Ley;
 
-II. Emitir cualquier clase de valores, salvo las acciones de la unión; así como garantizar títulos de crédito con excepción de los emitidos por sus socios, de acuerdo a lo señalado por el artículo 40 fracción I de esta Ley;
+II. Emitir cualquier clase de valores, salvo las acciones de la unión; así como garantizar títulos de crédito con excepción de los emitidos por sus socios, de acuerdo a lo señalado por el artículo 40 fracción I de esta Ley.
 
-III. Entrar en sociedades de responsabiIidad ilimitada y explotar por su cuenta: minas, plantas metalúrgicas, fincas rústicas, y establecimientos mercantiles o industriales, salvo el caso a que se refiere el Artículo 40, fracción XI de esta Ley, o bien cuando los reciban en pago de créditos o en garantía de los ya concertados, casos en los cuales podrán continuar la explotación de ellos, previa autorización de la Comisión Nacional Bancaria y de Seguros, por un período que no exceda de dos años a partir de la fecha de su adquisición.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-En casos excepcionales, la Comisión Nacional Bancaria y de Seguros podrá prorrogar ese plazo por una sola vez, por el período que a juicio de la propia Comisión sea estrictamente necesario para el traspaso de los bienes de que se trate, sin que la prórroga exceda de dos años;
+III. Entrar en sociedades de responsabiIidad ilimitada y explotar por su cuenta: minas, plantas metalúrgicas, fincas rústicas, y establecimientos mercantiles o industriales, salvo el caso a que se refiere el Artículo 40, fracción XI de esta Ley, o bien cuando los reciban en pago de créditos o en garantía de los ya concertados, casos en los cuales podrán continuar la explotación de ellos, previa autorización de la Comisión Nacional Bancaria, por un período que no exceda de dos años a partir de la fecha de su adquisición.
+
+En casos excepcionales, la Comisión Nacional Bancaria podrá prorrogar ese plazo por una sola vez, por el período que a juicio de la propia Comisión sea estrictamente necesario para el traspaso de los bienes de que se trate, sin que la prórroga exceda de dos años;
 
 IV. Comerciar por cuenta propia o ajena sobre mercaderías de cualquier género, salvo lo dispuesto en las fracciones VIII, IX y X del artículo 40 de esta Ley;
 
 V. Adquirir derechos reales que no sean de garantía, muebles e inmuebles distintos a los permitidos para las uniones en este capítulo o en exceso de las proporciones señaladas en la fracción VIII del artículo 43 de esta Ley, excepto los que reciban en pago de créditos o por adjudicación.
 
-Cuando los bienes y derechos a que se refiere el párrafo anterior, hubieren sido adquiridos en pago de deudas o por adjudicación en remate dentro de juicios relacionados con créditos a favor de la unión, deberán liquidarse, tratándose de bienes muebles, dentro del plazo de un año a partir de su adquisición, y en el caso de inmuebles, dentro de un plazo de dos años. Este último plazo podrá ser prorrogado por la Comisión Nacional Bancaria y de Seguros en casos excepcionales, por una sola vez y por el período que, a juicio de la propia Comisión, sea estrictamente necesario para la liquidación de los bienes de que se trate, sin que la prórroga exceda de dos años. Si al término del plazo o la prórroga no se han vendido, la citada Comisión procederá a sacarlos administrativamente a remate;
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Cuando los bienes y derechos a que se refiere el párrafo anterior, hubieren sido adquiridos en pago de deudas o por adjudicación en remate dentro de juicios relacionados con créditos a favor de la unión, deberán liquidarse, tratándose de bienes muebles, dentro del plazo de un año a partir de su adquisición, y en el caso de inmuebles, dentro de un plazo de dos años. Este último plazo podrá ser prorrogado por la Comisión Nacional Bancaria en casos excepcionales, por una sola vez y por el período que, a juicio de la propia Comisión, sea estrictamente necesario para la liquidación de los bienes de que se trate, sin que la prórroga exceda de dos años. Si al término del plazo o la prórroga no se han vendido, la citada Comisión procederá a sacarlos administrativamente a remate;
 
 VI. Otorgar fianzas, garantías o cauciones o avales, salvo que sean en favor de sus socios;
 
@@ -630,13 +812,223 @@ XI. Hacer operaciones de reporto de cualquier clase; y
 
 XII. Celebrar operaciones en virtud de las cuales puedan resultar deudores directos del establecimiento sus directores generales o gerentes generales, comisarios y auditores externos, a menos que estas operaciones correspondan a préstamos de carácter laboral o sean aprobados por una mayoría de cuatro quintas partes de los votos del consejo de administración. Esta regla se aplicará a los ascendientes, descendientes o cónyuges de las personas indicadas.
 
-Cuando las inversiones hechas en los términos de la fracción VI del artículo 43 de esta Ley, los derechos reales adquiridos y los excedentes de inversión de conformidad con la fracción III del referido artículo 43, excedan en total del importe del capital pagado y reservas de capital, la unión procederá, dentro del plazo de noventa días, a partir del requerimiento que al efecto le haga la Comisión Nacional Bancaria y de Seguros, a la liquidación de dicho activo en la parte excedente, o al aumento del capital social necesario para observar la citada parte.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Cuando las inversiones hechas en los términos de la fracción VI del artículo 43 de esta Ley, los derechos reales adquiridos y los excedentes de inversión de conformidad con la fracción III del referido artículo 43, excedan en total del importe del capital pagado y reservas de capital, la unión procederá, dentro del plazo de noventa días, a partir del requerimiento que al efecto le haga la Comisión Nacional Bancaria, a la liquidación de dicho activo en la parte excedente, o al aumento del capital social necesario para observar la citada parte.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 3 DE ENERO DE 1990)</small>
+
+### CAPITULO IV. Disposiciones Comunes
+
+###### ARTICULO 45-A.
+
+Las sociedades que disfruten de autorización para operar como empresas de factoraje financiero, sólo podrán realizar las operaciones siguientes:
+
+I.- Celebrar contratos de factoraje financiero, entendiéndose como tal, para efectos de esta Ley, aquella actividad en la que mediante contrato que celebre la empresa de factoraje financiero con sus clientes, personas morales o personas físicas que realicen actividades empresariales, la primera adquiera de los segundos derechos de crédito relacionados a proveeduría de bienes, de servicios o de ambos, con recursos provenientes de las operaciones pasivas a que se refiere este artículo;
+
+II.- Obtener préstamos y créditos de instituciones de crédito y de seguros del país o de entidades financieras del exterior, destinados a la realización de las operaciones autorizadas en este capítulo o para cubrir necesidades de liquidez relacionadas con su objeto social;
+
+III.- Obtener préstamos y créditos, mediante la suscripción de títulos de crédito en serie o en masa, para su colocación pública, de acuerdo con las disposiciones que al efecto expida el Banco de México;
+
+IV.- Descontar, dar en prenda o negociar en cualquier forma los derechos de crédito provenientes de los contratos de factoraje, con las personas de las que reciban los financiamientos a que se refiere la fracción II anterior. La Secretaría de Hacienda y Crédito Público podrá autorizar excepciones, oyendo previamente la opinión del Banco de México;
+
+V.- Constituir depósitos, a la vista y a plazo, en instituciones de crédito del país o en entidades financieras del exterior, así como adquirir valores aprobados para el efecto por la Comisión Nacional de Valores;
+
+VI.- Adquirir bienes muebles o inmuebles destinados a sus oficinas o necesarios para su operación;
+
+VIl.- Adquirir acciones de sociedades que se organicen exclusivamente para prestarles servicios, así como para adquirir el dominio y administrar inmuebles en los cuales las empresas de factoraje financiero, tengan establecidas o establezcan su oficina principal, alguna sucursal o una agencia;
+
+VIII.- Prestar servicios de administración y cobranza de derechos de crédito;
+
+IX.- Las demás que ésta u otras leyes les autoricen; y
+
+X.- Las demás operaciones análogas y conexas que, mediante reglas de carácter general, autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 45-B.
+
+Por virtud del contrato de factoraje, la empresa de factoraje financiero conviene con el cliente en adquirir derechos de crédito que éste tenga a su favor por un precio determinado o determinable, en moneda nacional o extranjera, independientemente de la fecha y la forma en que se pague, siendo posible pactar cualquiera de las modalidades siguientes:
+
+I.- Que el cliente no quede obligado a responder por el pago de los derechos de crédito transmitidos a la empresa de factoraje financiero; o
+
+II.- Que el cliente quede obligado solidariamente con el deudor, a responder del pago puntual y oportuno de los derechos de crédito transmitidos a la empresa de factoraje financiero.
+
+Los contratos de factoraje en moneda extranjera se sujetarán a las disposiciones y limitaciones previstas en esta Ley y a las que emita el Banco de México.
+
+La administración y cobranza de los derechos de crédito, objeto de los contratos de factoraje, deberá ser realizada por la propia empresa da factoraje financiero. La Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general, determinará los requisitos, condiciones y límites que las empresas de factoraje deberán cumplir para que la citada administración y cobranza se realice por terceros.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 45-C.
+
+Previamente a la celebración de los contratos de factoraje, las empresas de factoraje financiero podrán:
+
+I.- Celebrar contratos de promesa de factoraje;
+
+II.- Celebrar contratos con los deudores de derechos de crédito, constituidos a favor de sus proveedores de bienes o servicios, comprometiéndose la empresa de factoraje financiero a adquirir dichos derechos de crédito para el caso de aceptación de los propios proveedores.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 45-D.
+
+Sólo podrán ser objeto del contrato de factoraje, aquellos derechos de crédito no vencidos que se encuentren documentados en facturas, contrarrecibos, títulos de crédito o cualquier otro documento, denominado en moneda nacional o extranjera, que acredite la existencia de dichos derechos de crédito y que los mismos sean el resultado de la proveeduría de bienes, de servicios o de ambos, proporcionados por personas nacionales o extranjeras.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 45-E.
+
+Los clientes estarán obligados a garantizar la existencia y legitimidad de los derechos de crédito al tiempo de celebrarse el contrato de factoraje financiero, independientemente de la obligación que, en su caso, contraigan conforme a la fracción II del artículo 45-B de esta Ley .
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 45-F.
+
+Los clientes responderán del detrimento en el valor de los derechos de crédito objeto de los contratos, que sean consecuencia del acto jurídico que les dió origen, salvo los que estén documentados en títulos de crédito aún cuando el contrato de factoraje se haya celebrado en términos de la fracción I del artículo 45-B.
+
+Si del acto jurídico que dió origen a los derechos de crédito se derivan devoluciones, los bienes correspondientes se entregarán al cliente, salvo pacto en contrario.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 45-G.
+
+Los clientes que celebren contratos de factoraje a los que se refiere la fracción II del artículo 45-B, podrán suscribir a la orden de la empresa de factoraje, pagarés por el importe total de las obligaciones asumidas por ellos, haciéndose constar en dichos títulos de crédito su procedencia, de manera que queden suficientemente identificados. Estos pagarés deberán ser no negociables, en los términos del artículo 25 de la Ley General de Títulos y Operaciones de Crédito.
+
+La suscripción y entrega de dichos pagarés, no se considerará como pago o dación en pago de las obligaciones que documenten.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 45-H.
+
+La transmisión de los derechos de crédito a la empresa de factoraje financiero, comprende la de todos los derechos accesorios a ellos, salvo pacto en contrario.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 45-I.
+
+La transmisión de derechos de crédito a la empresa de factoraje surtirá efectos frente a terceros, desde la fecha en que haya sido notificada al deudor, en los términos del artículo 45-K, sin necesidad de que sea inscrita en registro alguno u otorgada ante fedatario público.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 45-J.
+
+El deudor de los derechos de crédito transmitidos a una empresa de factoraje financiero, libera su obligación pagando al acreedor original o al último titular, según corresponda, mientras no se le haya notificado la transmisión. Dicha notificación se hará por la empresa de factoraje financiero en los términos previstos en el siguiente artículo.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 45-K.
+
+La transmisión de los derechos de crédito podrá ser notificada al deudor por la empresa de factoraje en cualquiera de las formas siguientes:
+
+I.- Entrega del documento o documentos comprobatorios del derecho de crédito en los que conste el sello o leyenda relativa a la transmisión y acuse de recibo por el deudor mediante contraseña, contra recibo o cualquier otro signo inequívoco de recepción;
+
+II.- Comunicación por correo certificado con acuse de recibo, télex o telefacsímil, contraseñados o cualquier otro medio donde se tenga evidencia de su recepción por parte del deudor;
+
+III.- Notificación realizada por fedatario público.
+
+En los casos señalados, la notificación deberá ser realizada en el domicilio de los deudores, pudiendo efectuarse con su representante legal o cualquiera de sus dependientes o empleados.
+
+Para los efectos de la notificación a que alude el párrafo anterior, se tendrá por domicilio de los deudores el que se señale en los documentos en que consten los derechos de crédito objeto de los contratos de factoraje.
+
+El pago que realicen los deudores al acreedor original o al último titular después de recibir la notificación a que este precepto se refiere, no los libera ante la empresa de factoraje financiero.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 45-L.
+
+Cuando las empresas de factoraje financiero den en prenda los derechos de crédito que hayan adquirido, dicha garantía se constituirá y formalizará mediante contrato que deberá constar por escrito, pudiendo quedar como depositario de los documentos correspondientes, el director general o gerente general de la empresa de factoraje.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 45-M.
+
+Las operaciones a que se refiere la fracción II del artículo 45-A de esta Ley que celebren las empresas de factoraje financiero, se someterán en cuanto a sus límites y condiciones a las reglas de carácter general que expida, en su caso, el Banco de México.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 45-N.
+
+Las empresas de factoraje financiero invertirán los recursos provenientes de las operaciones referidas en las fracciones II, III y IV del artículo 45-A en términos que les permitan mantener condiciones adecuadas de seguridad y liquidez. La Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria, determinará las clasificaciones de los activos y, en su caso, de las operaciones causantes de pasivo contingente y, en función de su seguridad y liquidez, establecerá asimismo, los porcentajes máximos de pasivo exigible y de pasivo contingente que podrán estar representados por los distintos grupos de activo y de operaciones resultantes de las referidas clasificaciones.
+
+Las clasificaciones y porcentajes mencionados podrán ser determinados para diferentes tipos de pasivos o para distintas empresas de factoraje financiero clasificadas según su ubicación, magnitud, composición de sus pasivos u otros criterios.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 45-O.
+
+Las empresas de factoraje financiero, sin perjuicio de mantener el capital mínimo previsto por esta Ley, deberán tener el capital contable por monto no menor a la cantidad que resulte de aplicar un porcentaje que no será inferior al tres por ciento a la suma de sus activos y en su caso, de sus operaciones causantes de pasivo contingente expuestos a riesgos significativos. La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México, determinará cuáles activos deberán considerarse dentro de la mencionada suma, así como el porcentaje aplicable en los términos del presente artículo.
+
+El capital contable tampoco deberá ser inferior, en ningún caso, a la suma de las cantidades que se obtengan de aplicar a los grupos de activos y de operaciones causantes de sus pasivos contingentes resultantes de las clasificaciones por seguridad y liquidez a que se refiere el artículo inmediato anterior, los porcientos que el Banco de México determine para cada uno de esos grupos, oyendo la opinión de la Comisión Nacional Bancaria.
+
+Para efectos de este artículo la Secretaría de Hacienda y Crédito Público, oyendo previamente a la Comisión Nacional Bancaria y al Banco de México, señalará los conceptos que se considerarán para determinar el capital contable de las empresas de factoraje financiero.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 45-P.
+
+El importe del capital pagado y reservas de capital de las empresas de factoraje financiero, deberá estar invertido en los términos siguientes:
+
+I.- No menos del 40% del capital pagado y reservas de capital deberá estar invertido en valores gubernamentales, en instrumentos bancarios o en ambos tipos de inversiones;
+
+II.- No excederá del 25% del capital pagado y reservas de capital, el importe de las inversiones en mobiliario y equipo o en inmuebles destinados a sus oficinas, así como en los gastos de instalación de la empresa de factoraje financiero, más el importe de la inversión en acciones de sociedades que se organicen exclusivamente para prestarle servicios o adquirir el dominio y administrar inmuebles en los cuales la empresa de factoraje financiero tenga establecida o establezca su oficina principal, alguna sucursal o una agencia. La inversión en dichas acciones y los requisitos que deban satisfacer las sociedades a que se hace referencia, se sujetarán a las reglas generales que dicte la Secretaría de Hacienda y Crédito Público;
+
+III.- En operaciones propias de su objeto.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 45-Q.
+
+El importe máximo de las responsabilidades a favor de una empresa de factoraje financiero y a cargo de una sola persona o grupo de personas que, por nexos patrimoniales o de responsabilidad, constituyen riesgos comunes, no excederá de los límites que determine la Secretaría de Hacienda y Crédito Público oyendo a la Comisión Nacional Bancaria.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 45-R.
+
+Las empresas de factoraje financiero deberán obtener información sobre la solvencia moral y económica de los deudores en los contratos de factoraje. En sus decisiones, deberán tener en cuenta preferentemente la seguridad, liquidez y rentabilidad de las operaciones que realicen y deberán hacer el análisis de los derechos de crédito que vayan a adquirir. Las operaciones a que se refiere la fracción II del artículo 45-B, deberán ser congruentes con la capacidad económica real de los clientes y con la naturaleza y clase de los derechos de crédito que se hayan transmitido.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 45-S.
+
+Las empresas de factoraje financiero estarán obligadas a suministrar al Banco de México la información de carácter general que éste les requiera sobre sus operaciones, así como aquellos datos que permitan estimar su situación financiera.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 45-T.
+
+A las empresas de factoraje financiero les está prohibido:
+
+I.- Operar sobre sus propias acciones;
+
+II.- Emitir acciones preferentes o de voto limitado;
+
+III.- Celebrar operaciones, en virtud de las cuales resulten o puedan resultar deudores de la empresa de factoraje financiero, los directores generales o gerentes generales, salvo que correspondan a préstamos de carácter laboral; los comisarios propietarios o suplentes, estén o no en funciones; los auditores externos de la empresa de factoraje financiero; o los ascendientes o descendientes en primer grado o cónyuges de las personas anteriores. La violación a lo previsto en esta fracción se sancionará conforme a lo dispuesto en el artículo 96 de esta Ley;
+
+IV.- Recibir depósitos bancarios de dinero;
+
+V.- Otorgar fianzas o cauciones;
+
+VI.- Enajenar los derechos de crédito objeto de un contrato de factoraje financiero al mismo cliente del que los adquirió, o a empresas vinculadas con éste o integradas con él en un mismo grupo;
+
+VIl.- Adquirir bienes, mobiliario o equipo no destinados a sus oficinas. Si por adjudicación o cualquier otra causa adquiriesen tales bienes, deberán proceder a su venta, la que se realizará, si se trata de bienes muebles, en el plazo de un año, o de dos años si son inmuebles, pudiendo la Comisión Nacional Bancaria prorrogar el plazo cuando se dificulte la venta. Si al término del plazo de la prórroga no se han vendido, la propia Comisión procederá a sacarlos administrativamente a remate;
+
+VIII.- Realizar operaciones de compraventa de oro, plata y divisas. Se exceptúan las operaciones de divisas relacionadas con los financiamientos que reciban o con los contratos de factoraje financiero que celebren, denominados en moneda extranjera, las cuales se ajustarán en todo momento a las disposiciones de carácter general que, en su caso, expida el Banco de México, y las demás disposiciones previstas en la presente Ley;
+
+IX.- Adquirir derechos de crédito a cargo de subsidiarias, filiales, controladoras o accionistas de las propias empresas de factoraje financiero, a excepción de la adquisición de instrumentos financieros emitidos por las instituciones de crédito;
+
+X.- Realizar las operaciones a que se refiere la fracción II del artículo 45-B cuando coloquen títulos de crédito entre el público inversionista, en los términos de la fracción III del artículo 45-A, salvo colocaciones en instituciones de crédito, instituciones de seguros y fianzas, así como sociedades de inversión comunes y de renta fija;
+
+XI.- Descontar, garantizar y en general, otorgar créditos distintos de los expresamente autorizados en esta Ley;
+
+XII.- Realizar las demás operaciones que no les están expresamente autorizadas.
 
 ### CAPITULO I. De la Contabilidad
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ### CAPITULO II. De la Inspección y Vigilancia
 
-### CAPITULO I. Disposiciones Generales
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 46.
 
@@ -644,17 +1036,69 @@ La prenda sobre bienes y valores se constituirá en la forma prevista en la Ley 
 
 En todo caso de anticipo sobre títulos o valores, de prenda sobre ellos, sobre sus frutos y mercancías, las organizaciones auxiliares del crédito podrán efectuar la venta de los títulos, bienes o mercancías, en los casos que proceda de conformidad con la Ley General de Títulos y Operaciones de Crédito, por medio de corredor público titulado o de dos comerciantes de la localidad, conservando en su poder la parte del precio que cubra las responsabilidades del deudor, que podrán aplicar en compensación de su crédito y guardando a disposición de aquél el sobrante que pueda existir.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 47.
 
-En los contratos de arrendamiento financiero y en todos los casos que por establecerse así en el contrato el acreditado o el mutuatario puedan disponer de la suma acreditada o del importe del préstamo en cantidades parciales o estén autorizados para efectuar reembolsos previos al vencimiento del término señalado en el contrato, el estado de cuenta certificado por el contador de la organización auxiliar del crédito acreedora hará fe, salvo prueba en contrario, en el juicio respectivo para la fijación del saldo resultante a cargo del acreditado o de mutuatario.
+En los contratos de arrendamiento financiero, factoraje financiero y en aquellas operaciones en que se pacte que el acreditado o el mutuatario puedan disponer de la suma acreditada o del importe del préstamo en cantidades parciales o estén autorizados para efectuar reembolsos previos al vencimiento del término señalado en el contrato, el estado de cuenta certificado por el contador de la organización auxiliar del crédito acreedora hará fe, salvo prueba en contrario, en el juicio respectivo para la fijación del saldo resultante a cargo del deudor.
+
+> <small>(REFORMADO, D.O.F 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 48.
 
-El contrato o documento en que se hagan constar los créditos, o en su caso arrendamientos financieros, que otorguen las organizaciones auxiliares del crédito correspondientes, junto con la certificación del estado de cuenta a que se refiere el artículo anterior, será título ejecutivo, sin necesidad de reconocimiento de firma ni de otro requisito alguno.
+El contrato o documento en que se hagan constar los créditos, arrendamientos financieros o factoraje financiero que otorguen las organizaciones auxiliares del crédito correspondientes, así como los documentos que demuestren los derechos de crédito transmitidos a empresas de factoraje financiero, notificados debidamente al deudor, junto con la certificación del estado de cuenta a que se refiere el artículo anterior, serán título ejecutivo mercantil, sin necesidad de reconocimiento de firma ni de otro requisito alguno.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 49.
 
-En ningún caso un almacén general de depósito o una arrendadora financiera podrán seguir ante el público políticas operativas o de servicios comunes, entre sí, o con instituciones de seguros, instituciones de fianzas o casas de bolsa, ni ostentarse así ante el público.
+Las organizaciones auxiliares del crédito no podrán utilizar denominaciones iguales o semejantes a las de otros intermediarios financieros, ni ostentarse de cualquier manera como integrantes de grupos financieros, salvo cuando éstos se encuentren constituidos y funcionen conforme a las bases siguientes:
+
+I.- Sólo podrán estar integrados con almacenes generales de depósito, arrendadoras financieras, casas de bolsa, casas de cambio, empresas de factoraje financiero, instituciones de fianzas, instituciones de seguros, sociedades operadoras de sociedades de inversión, así como con cualquier otra clase de sociedad que determine la Secretaría de Hacienda y Crédito Público.
+
+Cada grupo deberá contar por lo menos con tres de los intermediarios financieros antes citados, que no sean sociedades operadoras de sociedades de inversión.
+
+No podrán participar en un mismo grupo dos o más intermediarios financieros de una misma clase, salvo sociedades operadoras de sociedades de inversión. También podrán participar dos o más instituciones de seguros, cuando se trate de instituciones autorizadas para operar en ramos distintos.
+
+Los intermediarios financieros en cuyo capital participen instituciones de crédito, sólo podrán participar en un grupo financiero con autorización de la Secretaría de Hacienda y Crédito Público;
+
+II.- Las acciones con derecho a voto, que representen por los menos el cincuenta y uno por ciento del capital pagado de cada uno de los integrantes del grupo, deberán ser propiedad de una misma sociedad anónima controladora que tenga por objeto adquirir tales acciones;
+
+III.- Ninguna persona física o moral podrá adquirir, directa o indirectamente mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de más del quince porciento del capital pagado de una sociedad controladora.
+
+Este límite también se aplicará a las personas que, de acuerdo con las disposiciones de carácter general que expida la Secretaría de Hacienda y Crédito Público mencionadas en la fracción X siguiente deban considerarse para estos efectos como una sola persona;
+
+IV.- En ningún momento podrán participar en forma alguna en el capital de las sociedades controladoras, directamente o a través de interpósita persona:
+
+a).- Gobiernos o dependencias oficiales extranjeros ni, en general, personas extranjeras, físicas o morales;
+
+b).- Instituciones de crédito, ni cualquier otro intermediario financiero, incluso los que formen parte del respectivo grupo; ni
+
+c).- Personas morales mexicanas, salvo las que autorice la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, las cuales se dictarán con vistas a favorecer la capitalización de las sociedades controladoras y siempre que dichas personas morales no participen simultáneamente en el capital de intermediarios financieros, ni éstos en el capital de las personas morales de referencia;
+
+V.- Salvo la excepción señalada en el párrafo siguiente, los intermediarios financieros que formen parte de uno de estos grupos, deberán abstenerse de participar en el capital de otros intermediarios financieros, incluso en el capital de los otros integrantes del grupo.
+
+Las instituciones de seguros y las instituciones de fianzas podrán participar, de conformidad con las disposiciones aplicables, en el capital de otras de estas instituciones;
+
+VI.- Las personas que adquieran acciones en contravención de lo dispuesto en las fracciones III a V anteriores deberán venderlas, dentro de los diez días hábiles siguientes a la fecha en que así lo requiera la Secretaría de Hacienda y Crédito Público.
+
+Si transcurrido el plazo citado no se regulariza la inversión, la sociedad emisora procederá a reembolsar las acciones adquiridas en contravención al cincuenta porciento de su valor en libros, según el último estado financiero aprobado. Las acciones así reembolsadas deberán recolocarse dentro del plazo que para tal efecto determine la propia Secretaría;
+
+VII.- La Sociedad controladora y cada uno de los intermediarios financieros participantes deberán suscribir un convenio conforme al cual la primera responderá subsidiaria, solidaria e ilimitadamente por las pérdidas de todos y de cada uno de dichos intermediarios financieros. La referida responsabilidad deberá estar prevista expresamente en los estatutos de la sociedad controladora.
+
+En el convenio citado también deberá señalarse expresamente que cada uno de los intermediarios financieros del grupo no responderán por las pérdidas de la sociedad controladora, ni de las pérdidas de los demás participantes del grupo;
+
+VIII.- La escritura constitutiva de la sociedad controladora, los convenios respectivos, así como las modificaciones a dichos documentos, deberán someterse a la previa aprobación de la Secretaría de Hacienda y Crédito Público, a efecto de revisar si los mismos se ajustan a lo señalado en el presente artículo y a las disposiciones generales mencionadas en la fracción X siguiente.
+
+Una vez otorgada dicha aprobación, la escritura constitutiva y, en su caso, sus reformas deberán ser inscritas en el registro de comercio, sin que sea preciso mandamiento judicial, ni de alguna otra autoridad;
+
+IX.- Las sociedades controladoras previstas en la fracción II anterior, estarán sujetas a la inspección y vigilancia de la Comisión Nacional de Valores; y
+
+X.- La Secretaría de Hacienda y Crédito Público expedirá las reglas generales que regulen, de conformidad con las bases señaladas en el presente artículo, la constitución y operación de grupos financieros no bancarios.
+
+Al ejercer las facultades que le confiere este artículo, la propia Secretaría escuchará la previa opinión del Banco de México y de las Comisiones Nacionales Bancaria, de Seguros y Fianzas, y de Valores.
+
+Las organizaciones auxiliares del crédito también podrán participar de cualquier manera como integrantes de grupos financieros bancarios, de conformidad con las disposiciones aplicables.
 
 ###### ARTICULO 50.
 
@@ -670,37 +1114,45 @@ Las hipotecas a que se refiere este artículo deberán ser inscritas en el Regis
 
 Será aplicable en lo pertinente a las hipotecas a que se refiere este artículo, lo dispuesto en el artículo 214 de la Ley General de Títulos y Operaciones de Crédito.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 51.
 
-Las organizaciones auxiliares del crédito, sólo podrán redescontar su cartera, con o sin su responsabilidad en instituciones de crédito, de seguros y de fianzas. La Secretaría de Hacienda y Crédito Público podrá autorizar excepciones a esta disposición, oyendo a la Comisión Nacional Bancaria y de Seguros y al Banco de México.
+Las organizaciones auxiliares del crédito, sólo podrán redescontar su cartera, con o sin su responsabilidad en instituciones de crédito, de seguros y de fianzas. La Secretaría de Hacienda y Crédito Público podrá autorizar excepciones a esta disposición, oyendo a la Comisión Nacional Bancaria y al Banco de México.
 
 ## TITULO TERCERO. De la Contabilidad, Inspección y Vigilancia
 
-### CAPITULO II. De la Revocación y Liquidación
+### CAPITULO I. Disposiciones Generales
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 52.
 
-Todo acto o contrato que signifique variación en el activo o en el pasivo de una organización auxiliar del crédito, o implique obligación inmediata o contingente, deberá ser registrado en la contabilidad. La contabilidad, los libros y documentos correspondientes y el plazo que deban ser conservados se regirán por las disposiciones de carácter general que emita al efecto la Comisión Nacional Bancaria y de Seguros.
+Todo acto o contrato que signifique variación en el activo o en el pasivo de una organización auxiliar del crédito, o implique obligación inmediata o contingente, deberá ser registrado en la contabilidad. La contabilidad, los libros y documentos correspondientes y el plazo que deban ser conservados se regirán por las disposiciones de carácter general que emita al efecto la Comisión Nacional Bancaria.
 
-Las organizaciones auxiliares del crédito podrán microfilmar todos aquellos libros, registros y documentos en general que obren en su poder relacionados con los actos de su empresa y que mediante disposiciones de carácter general señale la Comisión Nacional Bancaria y de Seguros, de acuerdo a las bases técnicas que para la microfilmación, su manejo y conservación establezca la misma.
+Las organizaciones auxiliares del crédito podrán microfilmar todos aquellos libros, registros y documentos en general que obren en su poder relacionados con los actos de su empresa y que mediante disposiciones de carácter general señale la Comisión Nacional Bancaria, de acuerdo a las bases técnicas que para la microfilmación, su manejo y conservación establezca la misma.
 
 Los negativos originales de cámara obtenidos de acuerdo a lo señalado por el párrafo anterior, tendrán en juicio el mismo valor probatorio que los libros, registros y documentos microfilmados.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 53.
 
-Las organizaciones auxiliares del crédito deberán practicar sus estados financieros al día último de cada mes y publicarlos dentro del mes siguiente a su fecha. La Comisión Nacional Bancaria y de Seguros, queda facultada para establecer la forma y términos en que las organizaciones auxiliares del crédito deberán presentar y publicar sus estados financieros mensuales y anuales; éstos deberán ser presentados junto con la información que deberán remitirle al efecto, dentro de los 30 días siguientes al cierre correspondiente. La publicación de tales estados financieros será bajo la estricta responsabilidad de los administradores y comisarios de la organización que hayan sancionado y dictaminado la autenticidad de los datos contenidos en dichos estados contables, quienes deberán cuidar que éstos revelen efectivamente la verdadera situación financiera de la sociedad y quedarán sujetos a las sanciones correspondientes en el caso de que las publicaciones no se ajusten a esa situación.
+Las organizaciones auxiliares del crédito deberán practicar sus estados financieros al día último de cada mes y publicarlos dentro del mes siguiente a su fecha. La Comisión Nacional Bancaria, queda facultada para establecer la forma y términos en que las organizaciones auxiliares del crédito deberán presentar y publicar sus estados financieros mensuales y anuales; éstos deberán ser presentados junto con la información que deberán remitirle al efecto, dentro de los 30 días siguientes al cierre correspondiente. La publicación de tales estados financieros será bajo la estricta responsabilidad de los administradores y comisarios de la organización que hayan sancionado y dictaminado la autenticidad de los datos contenidos en dichos estados contables, quienes deberán cuidar que éstos revelen efectivamente la verdadera situación financiera de la sociedad y quedarán sujetos a las sanciones correspondientes en el caso de que las publicaciones no se ajusten a esa situación.
 
-Si la Comisión Nacional Bancaria y de Seguros, al revisar los estados financieros ordenara modificaciones o correcciones que, a su juicio, fueren fundamentales para ameritar su publicación, podrá acordar que se publiquen con las modificaciones pertinentes y, en su caso, esta publicación se hará dentro de los 15 días siguientes a la notificación del acuerdo respectivo. En ningún otro caso podrán efectuarse segundas publicaciones. La revisión de la citada Comisión, no tendrá efectos de carácter fiscal.
+Si la Comisión Nacional Bancaria, al revisar los estados financieros ordenara modificaciones o correcciones que, a su juicio, fueren fundamentales para ameritar su publicación, podrá acordar que se publiquen con las modificaciones pertinentes y, en su caso, esta publicación se hará dentro de los 15 días siguientes a la notificación del acuerdo respectivo. En ningún otro caso podrán efectuarse segundas publicaciones. La revisión de la citada Comisión, no tendrá efectos de carácter fiscal.
 
-Los auditores externos que dictaminen los estados financieros anuales de las organizaciones auxiliares del crédito, deberán reunir los requisitos que fije la Comisión Nacional Bancaria y de Seguros y suministrarle a ésta los informes y demás elementos de juicio, en los que sustenten sus dictámenes y conclusiones.
+Los auditores externos que dictaminen los estados financieros anuales de las organizaciones auxiliares del crédito, deberán reunir los requisitos que fije la Comisión Nacional Bancaria y suministrarle a ésta los informes y demás elementos de juicio, en los que sustenten sus dictámenes y conclusiones.
 
-Las organizaciones auxiliares del crédito no podrán pagar los dividendos decretados por sus asambleas generales de accionistas, antes de dar por concluida la revisión de los estados financieros por la Comisión Nacional Bancaria y de Seguros. Sin embargo, dicho organismo, discrecionalmente, podrá autorizar el reparto parcial de dichos dividendos, en vista de la información y documentación que se le presenten.
+Las organizaciones auxiliares del crédito no podrán pagar los dividendos decretados por sus asambleas generales de accionistas, antes de dar por concluida la revisión de los estados financieros por la Comisión Nacional Bancaria. Sin embargo, dicho organismo, discrecionalmente, podrá autorizar el reparto parcial de dichos dividendos, en vista de la información y documentación que se le presenten.
 
 Los repartos efectuados en contravención a lo dispuesto en el párrafo anterior, deberán ser restituidos a la sociedad. Serán solidariamente responsables a este respecto, los accionistas que los hayan percibido y los administradores y funcionarios que los hayan pagado.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 54.
 
-La Comisión Nacional Bancaria y de Seguros fijará las reglas máximas para la estimación de los activos de las organizaciones auxiliares del crédito y las reglas mínimas para la estimación de sus obligaciones y responsabilidades.
+La Comisión Nacional Bancaria fijará las reglas máximas para la estimación de los activos de las organizaciones auxiliares del crédito y las reglas mínimas para la estimación de sus obligaciones y responsabilidades.
 
 Estas reglas se fundarán en los siguientes principios:
 
@@ -712,29 +1164,39 @@ III. Los bonos, obligaciones y otros títulos de naturaleza análoga que estén 
 
 Cuando no estén al corriente en el pago de sus intereses y amortización, se estimarán conforme al precio de bolsa o de mercado;
 
-IV. Los títulos representativos del capital de sociedades se valuarán de acuerdo con las reglas que dicte la Comisión Nacional Bancaria y de Seguros;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-V. Los inmuebles urbanos se estimarán por el promedio de avalúos que practiquen los peritos de instituciones de crédito y que apruebe la Comisión Nacional Bancaria y de Seguros; y
+IV. Los títulos representativos del capital de sociedades se valuarán de acuerdo con las reglas que dicte la Comisión Nacional Bancaria;
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+V. Los inmuebles urbanos se estimarán por el promedio de avalúos que practiquen los peritos de instituciones de crédito y que apruebe la Comisión Nacional Bancaria; y
 
 VI. Los bienes que no reúnan las características señaladas en las fracciones anteriores, se estimarán por su valor de adquisición con las deducciones correspondientes al demérito por uso o explotación, en su caso.
 
-Cuando al aplicar las reglas de valoración fijadas por la Comisión Nacional Bancaria y de Seguros resulte una estimación más elevada de los elementos de activo que el valor original de los títulos, efectos, bienes o inversiones, la diferencia no podrá ser aplicada a cuenta de resultados, hasta en tanto no se realice efectivamente el beneficio como consecuencia del cobro, venta, realización o liquidación de los títulos, efectos, bienes o inversiones respectivos a menos que la Comisión Nacional Bancaria y de Seguros, vista la estabilidad continuada de los precios y cotizaciones y la importancia relativa de las reservas constituidas de este modo, autorice el ajuste de tales fondos con abono a las cuentas de resultados.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-Sin perjuicio de las normas establecidas en este artículo, la Comisión Nacional Bancaria y de Seguros podrá proponer a la Secretaría de Hacienda y Crédito Público, que se autorice, por disposiciones de carácter general a las organizaciones auxiliares del crédito, para que en caso necesario, por baja extraordinaria, mantengan ciertos valores de su activo a la estimación que resulte de sus precios de adquisición, dándoles un plazo que no podrá exceder de cinco años para que regularicen sus valuaciones, y sometiéndose durante este período a las limitaciones respecto a la distribución de utilidades que estime adecuado acordar la propia Comisión.
+Cuando al aplicar las reglas de valoración fijadas por la Comisión Nacional Bancaria resulte una estimación más elevada de los elementos de activo que el valor original de los títulos, efectos, bienes o inversiones, la diferencia no podrá ser aplicada a cuenta de resultados, hasta en tanto no se realice efectivamente el beneficio como consecuencia del cobro, venta, realización o liquidación de los títulos, efectos, bienes o inversiones respectivos a menos que la Comisión Nacional Bancaria, vista la estabilidad continuada de los precios y cotizaciones y la importancia relativa de las reservas constituidas de este modo, autorice el ajuste de tales fondos con abono a las cuentas de resultados.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Sin perjuicio de las normas establecidas en este artículo, la Comisión Nacional Bancaria podrá proponer a la Secretaría de Hacienda y Crédito Público, que se autorice, por disposiciones de carácter general a las organizaciones auxiliares del crédito, para que en caso necesario, por baja extraordinaria, mantengan ciertos valores de su activo a la estimación que resulte de sus precios de adquisición, dándoles un plazo que no podrá exceder de cinco años para que regularicen sus valuaciones, y sometiéndose durante este período a las limitaciones respecto a la distribución de utilidades que estime adecuado acordar la propia Comisión.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 55.
 
-Cuando de los estados de situación mensual que las organizaciones están obligadas a presentar a la Comisión Nacional Bancaria y de Seguros, resulte que aquéllas no guardan las proporciones prescritas en esta Ley, no incurrirán en responsabilidad, cuando la divergencia no exceda de un 4% de dichas proporciones, y siempre que acrediten, además, con sus estados y apuntes de contabilidad, a satisfacción de la propia Comisión, que la infracción tiene carácter excepcional.
+Cuando de los estados de situación mensual que las organizaciones están obligadas a presentar a la Comisión Nacional Bancaria, resulte que aquéllas no guardan las proporciones prescritas en esta Ley, no incurrirán en responsabilidad, cuando la divergencia no exceda de un 4% de dichas proporciones, y siempre que acrediten, además, con sus estados y apuntes de contabilidad, a satisfacción de la propia Comisión, que la infracción tiene carácter excepcional.
 
-### CAPITULO UNICO. De la Compra Venta Habitual y Profesional de Divisas
+### CAPITULO II. De la Revocación y Liquidación
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 56.
 
-La inspección y vigilancia le las organizaciones y actividades auxiliares el crédito queda confiada a la Comisión Nacional Bancaria y de Seguros, la que tendrá en lo que no se oponga a esta Ley, respecto de dichas organizaciones y actividades auxiliares, todas las facultades que en materia de inspección y vigilancia de las instituciones de crédito le confiere la Ley Reglamentaria del Servicio Público de Banca y Crédito.
+La inspección y vigilancia le las organizaciones y actividades auxiliares el crédito queda confiada a la Comisión Nacional Bancaria, la que tendrá en lo que no se oponga a esta Ley, respecto de dichas organizaciones y actividades auxiliares, todas las facultades que en materia de inspección y vigilancia de las instituciones de crédito le confiere la Ley Reglamentaria del Servicio Público de Banca y Crédito.
 
-Las organizaciones auxiliares del crédito deberán rendir a la Secretaría de Hacienda y rédito Público, y a la Comisión Nacional Bancaria y de Seguros, en la forma y términos que al efecto establezcan; los informes y pruebas que sobre su organización, operaciones, contabilidad, inversiones o patrimonio les soliciten para fines de regulación, supervisión, control, inspección, vigilancia, estadística y demás funciones que conforme a esta Ley u otras disposiciones legales y administrativas, les corresponda ejercer.
+Las organizaciones auxiliares del crédito deberán rendir a la Secretaría de Hacienda y rédito Público, y a la Comisión Nacional Bancaria, en la forma y términos que al efecto establezcan; los informes y pruebas que sobre su organización, operaciones, contabilidad, inversiones o patrimonio les soliciten para fines de regulación, supervisión, control, inspección, vigilancia, estadística y demás funciones que conforme a esta Ley u otras disposiciones legales y administrativas, les corresponda ejercer.
 
 ###### ARTICULO 57.
 
@@ -744,65 +1206,87 @@ La inspección se efectuará a través de visitas que tendrán por objeto: revis
 
 Las visitas podrán ser ordinarias, especiales y de investigación. Las primeras se llevarán a cabo de conformidad con el programa anual que apruebe el Presidente de la Comisión. Las segundas, se practicarán siempre que sea necesario a juicio del Presidente de la Comisión para examinar, y en su caso, corregir situaciones especiales operativas, y las de investigación que tendrán por objeto aclarar una situación específica.
 
-Las organizaciones auxiliares del crédito deberán justificar, en cualquier momento, la existencia de los activos en que se encuentren invertidos sus recursos, en la forma, términos y con los documentos, que determine la Comisión Nacional Bancaria y de Seguros.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Las organizaciones auxiliares del crédito deberán justificar, en cualquier momento, la existencia de los activos en que se encuentren invertidos sus recursos, en la forma, términos y con los documentos, que determine la Comisión Nacional Bancaria.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 58.
 
-Cuando se encuentre que las obligaciones, el capital o las inversiones de las organizaciones auxiliares del crédito no se ajusten a lo dispuesto por esta Ley, el Presidente de la Comisión Nacional Bancaria y de Seguros, con acuerdo de la Junta de Gobierno, dictará las medidas necesarias para normalizar la situación y señalará un plazo que no será mayor de treinta días para que la regularización se lleve a cabo, comunicando inmediatamente su decisión a la Secretaría de Hacienda y Crédito Público.
+Cuando se encuentre que las obligaciones, el capital o las inversiones de las organizaciones auxiliares del crédito no se ajusten a lo dispuesto por esta Ley, el Presidente de la Comisión Nacional Bancaria, con acuerdo de la Junta de Gobierno, dictará las medidas necesarias para normalizar la situación y señalará un plazo que no será mayor de treinta días para que la regularización se lleve a cabo, comunicando inmediatamente su decisión a la Secretaría de Hacienda y Crédito Público.
 
 Si transcurrido el plazo señalado, la organización de que se trate no ha regularizado su situación, el Presidente de dicha Comisión, siempre con acuerdo de la Junta de Gobierno, podrá ordenar que se suspenda la ejecución de las operaciones contrarias a lo dispuesto por esta Ley, o que se proceda a la liquidación de las mismas, disponiendo, si se estima conveniente, la intervención de la organización y que se proceda a tomar las medidas necesarias para efectuar los cobros y normalizar los documentos y operaciones que se hayan considerado irregulares.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 59.
 
-Cuando a juicio de la Comisión Nacional Bancaria y de Seguros existan irregularidades de cualquier género en las organizaciones auxiliares del crédito, el Presidente de dicho Organismo podrá proceder en los términos del artículo anterior, pero si esas irregularidades afectan la estabilidad o solvencia de aquéllas, el Presidente podrá de inmediato, con acuerdo de la Junta de Gobierno declarar la intervención con carácter de gerencia, de la organización de que se trate y designar, sin que para ello requiera acuerdo de dicha Junta, a la persona física que se haga cargo de la organización, con el carácter de interventor-gerente.
+Cuando a juicio de la Comisión Nacional Bancaria existan irregularidades de cualquier género en las organizaciones auxiliares del crédito, el Presidente de dicho Organismo podrá proceder en los términos del artículo anterior, pero si esas irregularidades afectan la estabilidad o solvencia de aquéllas, el Presidente podrá de inmediato, con acuerdo de la Junta de Gobierno declarar la intervención con carácter de gerencia, de la organización de que se trate y designar, sin que para ello requiera acuerdo de dicha Junta, a la persona física que se haga cargo de la organización, con el carácter de interventor-gerente.
 
 La intervención administrativa de que habla el párrafo anterior se llevará a cabo directamente por el interventor-gerente, y al iniciarse dicha intervención se entenderá con el principal funcionario o empleado de la organización que se encuentre en las oficinas de ésta.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 60.
 
-El interventor-gerente tendrá todas las facultades que normalmente corresponden al consejo de administración de la sociedad y plenos poderes generales para actos de dominio, de administración, de pleitos y cobranzas, con las facultades que requieran cláusula especial conforme a la ley, para otorgar o suscribir títulos de crédito, para presentar denuncias y querellas y desistirse de estas últimas, previo acuerdo del Presidente de la Comisión Nacional Bancaria y de Seguros y para otorgar los poderes generales o especiales que juzgue convenientes, y revocar los que estuvieran otorgados por la sociedad intervenida y los que él mismo hubiere conferido.
+El interventor-gerente tendrá todas las facultades que normalmente corresponden al consejo de administración de la sociedad y plenos poderes generales para actos de dominio, de administración, de pleitos y cobranzas, con las facultades que requieran cláusula especial conforme a la ley, para otorgar o suscribir títulos de crédito, para presentar denuncias y querellas y desistirse de estas últimas, previo acuerdo del Presidente de la Comisión Nacional Bancaria y para otorgar los poderes generales o especiales que juzgue convenientes, y revocar los que estuvieran otorgados por la sociedad intervenida y los que él mismo hubiere conferido.
 
 El interventor-gerente no quedará supeditado en su actuación a la asamblea de accionistas ni al consejo de administración.
 
-El oficio que contenga el nombramiento de interventor-gerente deberá inscribirse en el Registro Publico de Comercio que corresponda al domicilio de la sociedad intervenida, sin más requisitos que el oficio respectivo de la Comisión Nacional Bancaria y de Seguros.
+El oficio que contenga el nombramiento de interventor-gerente deberá inscribirse en el Registro Publico de Comercio que corresponda al domicilio de la sociedad intervenida, sin más requisitos que el oficio respectivo de la Comisión Nacional Bancaria.
 
 ###### ARTICULO 61.
 
 Desde el momento de la intervención quedarán supeditadas al interventor-gerente todas las facultades del consejo de administración y los poderes de las personas que el interventor determine, pero la asamblea de accionistas podrá continuar reuniéndose regularmente para conocer de los asuntos que le competen, y lo mismo podrá hacer el consejo para estar informado por el interventor-gerente sobre el funcionamiento y las operaciones que realice la sociedad y para opinar sobre los asuntos que el mismo interventor-gerente someta a su consideración. El interventor-gerente podrá citar a asamblea de accionistas y reuniones del consejo de administración con los propósitos que considere necesarios o convenientes.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 62.
 
-Cuando la Comisión Nacional Bancaria y de Seguros acuerde levantar la intervención con el carácter de gerencia, lo comunicará así al encargado del Registro Público de Comercio que haya hecho el asiento a que se refiere el artículo 60 de esta ley, a efecto de que se proceda a su cancelación.
+Cuando la Comisión Nacional Bancaria acuerde levantar la intervención con el carácter de gerencia, lo comunicará así al encargado del Registro Público de Comercio que haya hecho el asiento a que se refiere el artículo 60 de esta ley, a efecto de que se proceda a su cancelación.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 63.
 
-Cuando la Comisión Nacional Bancaria y de Seguros advierta que el estado patrimonial o las operaciones de una organización auxiliar del crédito afecten su capital pagado, lo hará del conocimiento de la Secretaría de Hacienda y Crédito Público, la cual concederá a la sociedad un plazo de quince días a partir de la fecha de la notificación, para que ésta exponga lo que a su derecho convenga. Si la propia Secretaría juzga que ha quedado comprobado que el estado patrimonial o las operaciones de la organización auxiliar, afectan su capital pagado, fijará un plazo que no será menor de sesenta días para que integre el capital en la cantidad necesaria para mantener la operación de la sociedad dentro de las proporciones legales, notificándola para este efecto.
+Cuando la Comisión Nacional Bancaria advierta que el estado patrimonial o las operaciones de una organización auxiliar del crédito afecten su capital pagado, lo hará del conocimiento de la Secretaría de Hacienda y Crédito Público, la cual concederá a la sociedad un plazo de quince días a partir de la fecha de la notificación, para que ésta exponga lo que a su derecho convenga. Si la propia Secretaría juzga que ha quedado comprobado que el estado patrimonial o las operaciones de la organización auxiliar, afectan su capital pagado, fijará un plazo que no será menor de sesenta días para que integre el capital en la cantidad necesaria para mantener la operación de la sociedad dentro de las proporciones legales, notificándola para este efecto.
 
-Si transcurrido el lapso a que se refiere el párrafo anterior no se hubiere integrado el capital necesario, la Secretaría de Hacienda y Crédito Público, y en su caso la Comisión Nacional Bancaria y de Seguros, en protección del interés público, podrán revocar la concesión respectiva o declarar que las acciones representativas del capital social pasan de pleno derecho a propiedad de la Nación; en este último caso, la propia Secretaría procederá a la integración de dicho capital mediante la emisión y el pago de nuevas acciones, las cuales podrá discrecionalmente colocar en el mercado. La resolución que adopte dicha Secretaría deberá notificarse a la sociedad interesada, publicarse en el Diario Oficial de la Federación y en dos periódicos diarios de amplia circulación en el país.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Si transcurrido el lapso a que se refiere el párrafo anterior no se hubiere integrado el capital necesario, la Secretaría de Hacienda y Crédito Público, y en su caso la Comisión Nacional Bancaria, en protección del interés público, podrán revocar la autorización respectiva o declarar que las acciones representativas del capital social pasan de pleno derecho a propiedad de la Nación; en este último caso, la propia Secretaría procederá a la integración de dicho capital mediante la emisión y el pago de nuevas acciones, las cuales podrá discrecionalmente colocar en el mercado. La resolución que adopte dicha Secretaría deberá notificarse a la sociedad interesada, publicarse en el Diario Oficial de la Federación y en dos periódicos diarios de amplia circulación en el país.
 
 Los tenedores de las acciones que hayan pasado al dominio de la Nación, solamente tendrán derecho a recibir de la Secretaría de Hacienda y Crédito Público contra la entrega de los títulos, el valor que se determine en el momento en que pasaron al dominio de la Nación. Si la pérdida del capital pagado hubiere sido total, dichos títulos carecerán de valor y derechos algunos y sus tenedores estarán obligados a entregarlos a la citada Secretaría.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 64.
 
-Cuando la Comisión Nacional Bancaria y de Seguros presuma que una persona física o moral está realizando habitualmente operaciones reservadas a las organizaciones auxiliares del crédito, o la actividad a que se refiere el artículo 4o. de esta Ley, sin gozar para ello de concesión o autorización requeridas por la misma, podrá nombrar un inspector y los auxiliares necesarios que revisen la contabilidad y demás documentación de la negociación, empresa o establecimiento de la persona física o moral, a fin de verificar si efectivamente está celebrando la (sic) operaciones mencionadas en violación a lo dispuesto por esta Ley. En este caso la Comisión Nacional Bancaria y de Seguros intervendrá administrativamente la negociación, empresa o establecimiento de la persona física o moral de que se trate, hasta que las operaciones ilegales queden liquidadas. En las referidas intervenciones serán aplicables, en lo conducente, los preceptos de ésta u otras leyes, que confieran facultades a la Comisión.
+Cuando la Comisión Nacional Bancaria presuma que una persona física o moral está realizando habitualmente operaciones reservadas a las organizaciones auxiliares del crédito, o la actividad a que se refiere el artículo 4o. de esta Ley, sin gozar para ello de la autorización requerida por la misma, podrá nombrar un inspector y los auxiliares necesarios que revisen la contabilidad y demás documentación de la negociación, empresa o establecimiento de la persona física o moral, a fin de verificar si efectivamente está celebrando las operaciones mencionadas en violación a lo dispuesto por esta Ley. En este caso la Comisión Nacional Bancaria intervendrá administrativamente la negociación, empresa o establecimiento de la persona física o moral de que se trate, hasta que las operaciones ilegales queden liquidadas. En las referidas intervenciones serán aplicables, en lo conducente, los preceptos de ésta u otras leyes, que confieran facultades a la Comisión.
 
-Los procedimientos de inspección e intervención a que se refiere el párrafo anterior son de interés público. Los afectados podrán ocurrir en defensa de sus intereses ante la Secretaría de Hacienda y Crédito dentro de los quince días hábiles siguientes a la fecha en que tengan conocimiento del acto o actos que reclamen, sin que ello suspenda tales procedimientos. En caso de que se ofrezcan pruebas, éstas se desahogarán en el término de diez días hábiles. Dicha Secretaría dictará resolución, oyendo previamente a la Comisión Nacional Bancaria y de Seguros.
+Los procedimientos de inspección e intervención a que se refiere el párrafo anterior son de interés público. Los afectados podrán ocurrir en defensa de sus intereses ante la Comisión Nacional Bancaria, dentro de los quince días hábiles siguientes a la fecha en que tengan conocimiento del acto o actos que reclamen, sin que ello suspenda tales procedimientos. En caso de que se ofrezcan pruebas, éstas se desahogarán en el término de diez días hábiles.
 
 ## TITULO CUARTO. De las Facultades de las Autoridades
 
-### CAPITULO I. De las Infracciones Administrativas
+### CAPITULO UNICO. De la Compra Venta Habitual y Profesional de Divisas
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 65.
 
-Las organizaciones auxiliares del crédito requerirán autorización de la Secretaría de Hacienda y Crédito Público, para el establecimiento, cambio de ubicación y clausura de cualquier clase de oficinas, ya sea en el país o en el extranjero. En el caso de arrendamiento o habilitación de bodegas por parte de los almacenes generales de depósito, dicha autorización será otorgada por la Comisión Nacional Bancaria y de Seguros, de acuerdo a lo dispuesto por el artículo 17 de esta Ley.
+Las organizaciones auxiliares del crédito requerirán la autorización de la Secretaría de Hacienda y Crédito Público, para el establecimiento, cambio de ubicación y clausura de cualquier clase de oficinas, ya sea en el país o en el extranjero. Tratándose de uniones de crédito y para el caso de arrendamiento o habilitación de bodegas por parte de los almacenes generales de depósito, la Comisión Nacional Bancaria estará facultada para otorgarla, en su caso.
 
 Para proporcionar servicio dentro del territorio nacional, dichas organizaciones podrán establecer, además de sus oficinas principales, sucursales. Estas últimas, sujetarán sus operaciones y funcionamiento a las reglas de carácter general que para el efecto expida la Secretaría de Hacienda y Crédito Público.
 
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros y del Banco de México, otorgará o negará discrecionalmente las autorizaciones a que se refiere este artículo. No será necesaria la autorización a que alude este párrafo, cuando se trate del cambio de ubicación de cualquier clase de oficinas o del establecimiento en el país de oficinas distintas a las sucursales.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México, otorgará o negará discrecionalmente las autorizaciones a que se refiere este artículo. No será necesaria la autorización a que alude este párrafo, cuando se trate del cambio de ubicación de cualquier clase de oficinas o del establecimiento en el país de oficinas distintas a las sucursales.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 66.
 
-La adquisición del 10% o más de las acciones representativas del capital pagado de una organización auxiliar del crédito, con excepción de las uniones de crédito, mediante operaciones de cualquier naturaleza, simultáneas o sucesivas, deberá someterse a las previa (sic) autorización de la Secretaría de Hacienda y Crédito Público, quien la otorgará o la negará discrecionalmente, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros y la del Banco de México.
+La adquisición del 10% o más de las acciones representativas del capital pagado de una organización auxiliar del crédito, con excepción de las uniones de crédito, mediante operaciones de cualquier naturaleza, simultáneas o sucesivas, deberá someterse a las previa (sic) autorización de la Secretaría de Hacienda y Crédito Público, quien la otorgará o la negará discrecionalmente, oyendo la opinión de la Comisión Nacional Bancaria y la del Banco de México.
 
 La adquisición de acciones representativas del capital pagado de las uniones de crédito, deberá sujetarse a las disposiciones establecidas en el capítulo correspondiente de esta Ley.
 
@@ -814,23 +1298,31 @@ Se requerirá autorización de la Secretaría de Hacienda y Crédito Público pa
 
 Las organizaciones auxiliares del crédito requerirán autorización previa de la Secretaría de Hacienda y Crédito Público, para invertir en acciones de sociedades que les presten sus servicios o efectúen operaciones con ellas.
 
-Estas sociedades deberán ajustarse, en cuanto a los servicios u operaciones que la Secretaría de Hacienda y Crédito Público repute complementarios o auxiliares de las operaciones que sean propias del tipo de organización auxiliar de que se trate, a las reglas de carácter general que dicte la misma Secretaría, y a la inspección y vigilancia de la Comisión Nacional Bancaria y de Seguros.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Estas sociedades deberán ajustarse, en cuanto a los servicios u operaciones que la Secretaría de Hacienda y Crédito Público repute complementarios o auxiliares de las operaciones que sean propias del tipo de organización auxiliar de que se trate, a las reglas de carácter general que dicte la misma Secretaría, y a la inspección y vigilancia de la Comisión Nacional Bancaria.
 
 ###### ARTICULO 69.
 
 Las organizaciones auxiliares del crédito requerirán de autorización previa de la Secretaría de Hacienda y Crédito Público, para adquirir acciones o participaciones en el capital social de empresas o sociedades extranjeras.
 
-La Secretaría de Hacienda y Crédito Público otorgará o negará discrecionalmente las autorizaciones a que se refiere este artículo, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros y del Banco de México.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+La Secretaría de Hacienda y Crédito Público otorgará o negará discrecionalmente las autorizaciones a que se refiere este artículo, oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 70.
 
-Las organizaciones auxiliares del crédito sólo podrán cerrar sus puertas y suspender sus operaciones en los días que señale la Comisión Nacional Bancaria y de Seguros.
+Las organizaciones auxiliares del crédito sólo podrán cerrar sus puertas y suspender sus operaciones en los días que señale la Comisión Nacional Bancaria.
 
 Los días señalados en los términos anteriores, se considerarán inhábiles para los efectos de las operaciones y actividades de todo tipo a que se refiere esta Ley.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 71.
 
-Para cualquier propaganda o publicidad de organizaciones auxiliares del crédito, que se pretenda efectuar en territorio nacional o en el extranjero, se requerirá la previa aprobación de la Comisión Nacional Bancaria y de Seguros.
+Para cualquier propaganda o publicidad de organizaciones auxiliares del crédito, que se pretenda efectuar en territorio nacional o en el extranjero, se requerirá la previa aprobación de la Comisión Nacional Bancaria.
 
 ###### ARTICULO 72.
 
@@ -840,41 +1332,57 @@ Las reglas que conforme a este artículo expida el Banco de México, deberán so
 
 En el caso de las organizaciones auxiliares nacionales del crédito, sin perjuicio de lo señalado en el primer párrafo de este artículo, deberán obtenerse de la señalada Secretaría la autorización que conforme a la Ley General de Deuda Pública corresponda.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 73.
 
-La Comisión Nacional Bancaria y de Seguros. mediante reglas de carácter general, determinará la documentación e información que las organizaciones auxiliares del crédito deberán recabar para el otorgamiento y durante la vigencia de los contratos de arrendamiento financiero, de créditos o préstamos de cualquier naturaleza, con o sin garantía real, así como los requisitos que dicha documentación deba reunir y la periodicidad con que deberá obtenerse.
+La Comisión Nacional Bancaria mediante reglas de carácter general, determinará la documentación e información que las organizaciones auxiliares del crédito deberán recabar para el otorgamiento y durante la vigencia de los contratos de arrendamiento financiero, de factoraje financiero, de crédito o préstamo de cualquier naturaleza, con o sin garantía real, así como los requisitos que dicha documentación deba reunir y la periodicidad con que deberá obtenerse.
 
 ###### ARTICULO 74.
 
 Las organizaciones auxiliares del crédito realizarán su objeto social por medio de uno o más funcionarios que se designen especialmente al efecto y de cuyos actos responderá directa e ilimitadamente la organización, sin perjuicio de las responsabilidades civiles o penales en que ellos incurran personalmente.
 
-La Comisión Nacional Bancaria y de Seguros podrá, en todo tiempo, acordar que se proceda a la remoción o suspensión de los miembros del consejo de administración, comisarios, directores y gerentes, y de los funcionarios que puedan obligar con su firma a la organización, cuando considere que tales designaciones no corresponden a personas con la suficiente calidad técnica o moral para la adecuada administración y vigilancia de las organizaciones, oyendo previamente al interesado y al representante de la sociedad.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+La Comisión Nacional Bancaria podrá, en todo tiempo, acordar que se proceda a la remoción o suspensión de los miembros del consejo de administración, comisarios, directores y gerentes, y de los funcionarios que puedan obligar con su firma a la organización, cuando considere que tales designaciones no corresponden a personas con la suficiente calidad técnica o moral para la adecuada administración y vigilancia de las organizaciones, oyendo previamente al interesado y al representante de la sociedad.
 
 ###### ARTICULO 75.
 
 Las resoluciones de remoción o suspensión a que se refiere el artículo anterior, podrán ser recurridas ante la Secretaría de Hacienda y Crédito Público, dentro de los quince días que sigan a la fecha en que la misma se hubiere notificado. La Secretaría de Hacienda y Crédito Público podrá revocar, modificar o confirmar, la resolución recurrida, con audiencia de las partes.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 76.
 
-La documentación que utilicen las organizaciones auxiliares del crédito relacionada con la solicitud y contratación de sus operaciones, sólo podrá ponerse en uso cuando los modelos correspondientes hayan sido previamente aprobados por la Comisión Nacional Bancaria y de Seguros, tanto respecto de su contenido, cuanto de los requisitos tipográficos para considerar fácilmente legibles los caracteres empleados .
+La documentación que utilicen las organizaciones auxiliares del crédito relacionada con la solicitud y contratación de sus operaciones, sólo podrá ponerse en uso cuando los modelos correspondientes hayan sido previamente aprobados por la Comisión Nacional Bancaria, tanto respecto de su contenido, cuanto de los requisitos tipográficos para considerar fácilmente legibles los caracteres empleados .
 
 Para cualquier modificación de la documentación de que se trata, deberá obtenerse la aprobación que exige el párrafo anterior.
 
-Igualmente, estarán obligadas a incluir las cláusulas invariables o esenciales que administrativamente fije la Comisión Nacional Bancaria y de Seguros, por medio de disposiciones generales.
+Igualmente, estarán obligadas a incluir las cláusulas invariables o esenciales que administrativamente fije la Comisión Nacional Bancaria, por medio de disposiciones generales.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 77.
 
-La Secretaría de Hacienda y Crédito Público fijará, en su caso, los cargos que las organizaciones auxiliares del crédito puedan hacer al público por los servicios que proporcionen, oyendo a la Comisión Nacional Bancaria y de Seguros y al Banco de México.
+La Secretaría de Hacienda y Crédito Público fijará, en su caso, los cargos que las organizaciones auxiliares del crédito puedan hacer al público por los servicios que proporcionen, oyendo a la Comisión Nacional Bancaria y al Banco de México.
 
-### CAPITULO II. De los Delitos
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+###### ARTICULO 77 Bis.
+
+La Comisión Nacional Bancaria podrá proveer lo necesario para que las organizaciones auxiliares del crédito y las casas de cambio cumplan debida y eficazmente los compromisos contraídos con sus usuarios.
+
+### CAPITULO I. De las Infracciones Administrativas
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 78.
 
-La Secretaría de Hacienda y Crédito Público, oyendo a la Comisión Nacional Bancaria y de Seguros y previa audiencia de la sociedad interesada, podrá declarar la revocación de la concesión otorgada a las arrendadoras financieras o a los almacenes generales de depósito en los siguientes casos:
+La Secretaría de Hacienda y Crédito Público, después de haber escuchado la opinión de la Comisión Nacional Bancaria y previa audiencia de la sociedad interesada, podrá declarar la revocación de la autorización otorgada a los almacenes generales de depósito, arrendadoras financieras o empresas de factoraje financiero, en los siguientes casos:
 
-I. Si la sociedad respectiva no presenta el testimonio de la escritura constitutiva o los documentos a que se refiere el artículo 76 de esta Ley para su aprobación dentro del término de cuatro meses de otorgada la concesión, o si no inicia sus operaciones dentro del plazo de tres meses a partir de la aprobación de la escritura, o si al otorgarse ésta no estuviere suscrito y pagado el capital que determine la Secretaría de Hacienda y Crédito Público, al otorgar la concesión;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+I.- Si la sociedad respectiva no presenta el testimonio de la escritura constitutiva o los documentos a que se refiere el artículo 76 de esta Ley para su aprobación dentro del término de cuatro meses de otorgada la autorización, o si no inicia sus operaciones dentro del plazo de tres meses a partir de la aprobación de la escritura, o si al otorgarse ésta no estuviere suscrito y pagado el capital que determine la Secretaría de Hacienda y Crédito Público, al otorgar la autorización;
 
 II. Si no mantiene el capital mínimo pagado previsto en esta Ley, sin perjuicio de los plazos a que se refiere el artículo 63 de esta misma Ley;
 
@@ -884,21 +1392,31 @@ IV. Si la organización hiciera gestiones por conducto de una cancillería extra
 
 V. Efectuar operaciones en contravención a lo dispuesto por esta Ley;
 
-VI. Si reiteradamente, a pesar de las observaciones de la Comisión Nacional Bancaria y de Seguros, la organización excede los límites de su pasivo determinados por esta Ley, ejecuta operaciones distintas de las permitidas por la concesión y por esta Ley o no mantiene las proporciones del activo, pasivo o capital establecidas en la misma; o bien, si a juicio de la Secretaría de Hacienda y Crédito Público, no cumple adecuadamente con las funciones para las que fue concesionada por la falta de diversificación de sus operaciones, de conformidad a lo dispuesto por esta Ley;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+VI.- Si reiteradamente, a pesar de las observaciones de la Comisión Nacional Bancaria, la organización excede los límites de su pasivo determinados por esta Ley, ejecuta operaciones distintas de las permitidas por la autorización y por esta Ley o no mantiene las proporciones del activo, pasivo o capital establecidas en la misma; o bien, si a juicio de la Secretaría de Hacienda y Crédito Público, no cumple adecuadamente con las funciones para las que fue autorizada por la falta de diversificación de sus operaciones de conformidad a lo dispuesto por esta Ley;
 
 VII. Cuando por causas imputables a la organización no aparezcan debida y oportunamente registradas en su contabilidad las operaciones que haya efectuado;
 
-VIII. Si la organización obra sin autorización de la Secretaría de Hacienda y Crédito Público o la Comisión Nacional Bancaria y de Seguros, en los casos en que la ley así lo exija;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-IX. Si se disuelve, quiebra o entra en estado de liquidación, salvo que el procedimiento respectivo termine por rehabilitación y la Comisión Nacional Bancaria y de Seguros opine favorablemente a que continúe con la concesión; y
+VIII. Si la organización obra sin autorización de la Secretaría de Hacienda y Crédito Público o la Comisión Nacional Bancaria, en los casos en que la ley así lo exija;
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+IX.- Si se disuelve, quiebra o entra en estado de liquidación, salvo que el procedimiento respectivo termine por rehabilitación y la Comisión Nacional Bancaria opine favorablemente a que continúe con la autorización; y
 
 X. En cualquier otro establecido por la Ley.
 
-Tratándose de uniones de crédito, la Comisión Nacional Bancaria y de Seguros podrá revocar la concesión correspondiente cuando esas organizaciones auxiliares del crédito se ubiquen en cualquiera de los supuestos señalados en las fracciones anteriores de este artículo, o cuando las mismas no operen conforme a lo dispuesto en el capítulo III del Título Segundo de esta Ley; no cumplan el programa general de trabajo aprobado al otorgarse la concesión; no presenten los programas anuales a que se refiere la fracción VII del artículo 43, de esta Ley, o no los cumplan; así como cuando el número de socios llegare a ser inferior al fijado como mínimo por la propia Comisión, de acuerdo con la fracción I del artículo 41 de esta Ley. Para lo efectos de este párrafo la señalada Comisión deberá escuchar previamente a las uniones de crédito afectadas.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+Tratándose de uniones de crédito, la Comisión Nacional Bancaria podrá revocar la autorización correspondiente cuando esas organizaciones auxiliares del crédito se ubiquen en cualquiera de los supuestos señalados en las fracciones anteriores de este artículo, o cuando las mismas no operen conforme a lo dispuesto en el Capítulo III, del Título Segundo de esta Ley; así como cuando el número de socios llegare a ser inferior al fijado como mínimo por la propia Comisión, de acuerdo con la fracción I del artículo 41 de esta Ley. Para los efectos de este párrafo la señalada Comisión deberá escuchar previamente a las uniones de crédito afectadas.
 
 La declaración de revocación se inscribirá en el Registro Público de la Propiedad y de Comercio previa orden de la Secretaría de Hacienda y Crédito Público; incapacitará a la sociedad para realizar sus operaciones a partir de la fecha en que se notifique la revocación; y, pondrá en estado de liquidación a la sociedad que hubiere dado principio a sus operaciones. La liquidación se practicará de conformidad con lo establecido en este capítulo, salvo cuando la causa de revocación sea precisamente que la sociedad entre en estado de liquidación.
 
-La Comisión Nacional Bancaria y de Seguros promoverá ante la autoridad judicial para que designe al liquidador, si en el plazo de sesenta días de publicada la revocación no hubiere sido designado.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+La Comisión Nacional Bancaria promoverá ante la autoridad judicial para que designe al liquidador, si en el plazo de sesenta días de publicada la revocación no hubiere sido designado.
 
 ###### ARTICULO 79.
 
@@ -906,9 +1424,13 @@ La disolución y liquidación de las organizaciones auxiliares del crédito se r
 
 I. El cargo de síndico y liquidador siempre corresponderá a alguna institución de crédito;
 
-II. La Comisión Nacional Bancaria y de Seguros ejercerá, respecto a los síndicos y a los liquidadores, las funciones de vigilancia que tienen atribuidas en relación a las organizaciones auxiliares; y
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-III. La Comisión Nacional Bancaria y de Seguros podrá solicitar la suspensión de pagos en las condiciones de la Ley de Quiebras y de Suspensión de Pagos, y la declaración de quiebra.
+II. La Comisión Nacional Bancaria ejercerá, respecto a los síndicos y a los liquidadores, las funciones de vigilancia que tienen atribuidas en relación a las organizaciones auxiliares; y
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+III. La Comisión Nacional Bancaria podrá solicitar la suspensión de pagos en las condiciones de la Ley de Quiebras y de Suspensión de Pagos, y la declaración de quiebra.
 
 ###### ARTICULO 80.
 
@@ -916,27 +1438,33 @@ Mientras las organizaciones auxiliares del crédito no sean puestas en liquidaci
 
 ## TITULO QUINTO. De las Actividades Auxiliares del Crédito
 
+### CAPITULO II. De los Delitos
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 81.
 
-Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, para realizar en forma habitual y profesional, operaciones de intermediación o con el público de compra, venta y cambio de divisas dentro del territorio de la República Mexicana.
+Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, para realizar en forma habitual y profesional operaciones de compra, venta y cambio de divisas con el público dentro del territorio nacional.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-Estas autorizaciones serán otorgadas o denegadas discrecionalmente por la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Seguros.
+Estas autorizaciones serán otorgadas o denegadas discrecionalmente por la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria.
 
 Dichas autorizaciones serán por su propia naturaleza intransmisibles.
 
 Las instituciones de crédito y las casas de bolsa no requerirán de la autorización citada, debiendo sujetarse en sus operaciones con divisas a las disposiciones legales aplicables.
 
-Para los efectos de la presente Ley, no se considera intermediación habitual y profesional, las operaciones con divisas conexas a la prestación de servicios, ni la captación de divisas por venta de bienes, que realicen establecimientos ubicados en las franjas fronterizas y zonas libres del país, y demás empresas que por sus actividades normales celebren operaciones con extranjeros.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+Para los efectos de la presente Ley, no se consideran actividades habituales y profesionales, las operaciones con divisas conexas a la prestación de servicios, ni la captación de divisas por venta de bienes, que realicen establecimientos ubicados en las franjas fronterizas y zonas libres del país, y demás empresas que por sus actividades normales celebren operaciones con extranjeros.
 
-Cuando la Comisión Nacional Bancaria y de Seguros presuma que una persona física o moral está realizando operaciones de las reservadas para las casas de cambio, sin contar con la autorización a que se refiere este artículo, podrá nombrar un inspector y los auxiliares necesarios a fin de comprobar dicha irregularidad. En este caso el Presidente de la Comisión, con acuerdo de la Junta de Gobierno ordenará la intervención administrativa de la negociación, empresa o establecimiento de la persona de que se trate, hasta que las operaciones ilegales sean liquidadas, sin perjuicio de la clausura administrativa de los locales de dichos establecimientos.
+(REFORMADO, D.O.F. 3 DE ENERO DE 1990
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+Cuando la Comisión Nacional Bancaria presuma que una persona física o moral está realizando operaciones de las reservadas para las casas de cambio, sin contar con la autorización a que se refiere este artículo, podrá nombrar un inspector y los auxiliares necesarios a fin de comprobar dicha irregularidad. En este caso la Comisión ordenará la intervención administrativa de la negociación, empresa o establecimiento de la persona de que se trate, hasta que las operaciones ilegales sean liquidadas, sin perjuicio de la clausura administrativa de los locales de dichos establecimientos.
 
-La propia Comisión llevará a cabo las clausuras administrativas a que se refiere este artículo.
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+La propia Comisión llevará a cabo las clausuras administrativas a que se refiere este artículo, quedando facultada para remover los signos externos y toda ostentación pública prohibidos.
 
 ###### ARTICULO 82.
 
@@ -950,19 +1478,23 @@ II. En los estatutos sociales deberá indicarse que:
 
 a) En la realización de su objeto, la sociedad deberá ajustarse a lo previsto en la presente Ley y a las demás disposiciones aplicables; y
 
-> <small>(F. DE E., D.O.F. 19 DE MARZO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-b) Las acciones representativas del capital de la sociedad sólo podrán transmitirse previa aprobación de la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México;
+b).- Las acciones representativas del capital de la sociedad sólo podrán transmitirse previa aprobación de la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria;
 
 III. Que estén constituidas como sociedades mexicanas con cláusula de exclusión de extranjeros; y
 
-IV. Que cuenten con el capital mínimo pagado, que señale periódicamente, mediante disposiciones de carácter general la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México. En los estatutos sociales deberá señalarse que el capital citado se ajustará en los términos y condiciones que se indiquen en dichas disposiciones.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+IV.- Que cuenten con el capital mínimo pagado que señale periódicamente, mediante disposiciones de carácter general, la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria. En los estatutos sociales deberá señalarse que el capital citado se ajustará en los términos y condiciones que se indiquen en dichas disposiciones.
 
 ###### ARTICULO 83.
 
 Las solicitudes de autorización para operar casas de cambio deberán acompañarse de lo siguiente:
 
-I. Proyecto de estatutos sociales de la sociedad anónima correspondiente y relación de los socios que habrán de integrarla con el capital que suscribirán, además de la documentación que estimen conveniente para avalar su solicitud;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+I.- Proyecto de estatutos sociales de la sociedad anónima correspondiente, relación de socios que habrán de integrarla con el capital que suscribirán, además de la documentación que la Secretaría de Hacienda y Crédito Público estime conveniente para avalar su solicitud;
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -990,9 +1522,11 @@ Para efectos de lo previsto en el párrafo anterior, deberán informar a la Secr
 
 Previamente al inicio de sus funciones, los administradores deberán garantizar su manejo mediante fianza expedida por institución concesionada, con las características que, mediante reglas de carácter general, determine el Banco de México;
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-IV.- Deberán obtener la previa aprobación de la Secretaría de Hacienda y Crédito Público para su escritura constitutiva y cualquier modificación a la misma, la transmisión de acciones, el establecimiento y cambio de ubicación del domicilio, así como el establecimiento, apertura, cambio de ubicación o clausura de sucursales de atención al público y del local donde realicen operaciones. La dependencia citada resolverá las solicitudes que le presenten las casas de cambio, previa opinión del Banco de México;
+IV.- Deberán obtener la previa aprobación de la Secretaría de Hacienda y Crédito Público, para su escritura constitutiva y cualquier modificación a la misma, la transmisión de acciones, el establecimiento y cambio de ubicación del domicilio, así como el establecimiento, apertura, cambio de ubicación o clausura de sucursales de atención al público y del local donde se realicen operaciones. La Secretaría citada resolverá las solicitudes que le presenten las casas de cambio, previa opinión del Banco de México y de la Comisión Nacional Bancaria.
+
+Una vez aprobada la escritura constitutiva o cualquier modificación a la misma, se deberá de inscribir en el Registro Público de la Propiedad y del Comercio, y proporcionar a la citada Secretaría los datos correspondientes dentro de los treinta días siguientes a la referida aprobación;
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -1000,15 +1534,15 @@ V.- Sus operaciones con divisas, oro y plata, deberán ajustarse a las disposici
 
 A Petición del Banco de México, las casas de cambio estarán obligadas a darle a conocer, sus posiciones de divisa, incluyendo oro y plata; y a transferirle sus activos en esos efectos, que tengan en exceso de sus obligaciones en los mismos. La transferencia se hará al precio a que se hayan cotizado en el mercado las divisas, en la fecha en que el Banco de México dicte el acuerdo respectivo; y
 
-> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-VI.- Proporcionarán a la Comisión Nacional Bancaria y de Seguros sus estados de contabilidad, información financiera y toda la relacionada con su giro, en la forma y términos que la propia Secretaría de Hacienda y Crédito Público señale mediante reglas de carácter general.
+VI.- Proporcionarán a la Comisión Nacional Bancaria sus estados de contabilidad, información financiera y toda la relacionada con su giro, en la forma y términos que la propia Comisión señale mediante reglas de carácter general, y les será aplicable el artículo 52 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 85.
 
-La Comisión Nacional Bancaria y de Seguros, a solicitud de la Secretaría de Hacienda y Crédito Público, podrá realizar visitas de inspección, a fin de comprobar el exacto cumplimiento de lo establecido en la presente Ley.
-
-Las casas de cambio estarán obligadas a recibir las mencionadas visitas de inspección de dicha Comisión y a proporcionarle la información en la forma y términos que les solicite.
+Las casas de cambio estarán obligadas a recibir las visitas de inspección de la Comisión Nacional Bancaria y a proporcionarle los informes en la forma y términos que les solicite.
 
 ###### ARTICULO 86.
 
@@ -1016,13 +1550,21 @@ Queda prohibida cualquier propaganda en territorio nacional, relacionada con la 
 
 Las casas de cambio deberán incluir en toda clase de propaganda o publicidad, la fecha y número de oficio en que conste la autorización que en los términos de esta Ley les fue otorgada para operar como tales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 86 Bis.
+
+El Banco de México podrá ordenar la suspensión temporal de las operaciones de las casas de cambio, cuando la situación del mercado haga necesaria dicha medida, asimismo cuando infrinjan las disposiciones de carácter general expedidas por el propio banco central, de conformidad con lo dispuesto en la fracción V del artículo 84 de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 87.
 
-La Secretaría de Hacienda y Crédito Público, oyendo al Banco de México y a la Comisión Nacional Bancaria y de Seguros y previa audiencia de la sociedad interesada, podrá declarar la revocación de la autorización a que se refiere este capítulo, en los siguientes casos :
+La Secretaría de Hacienda y Crédito Público, oyendo al Banco de México y a la Comisión Nacional Bancaria y previa audiencia de la sociedad interesada, podrá declarar la revocación de la autorización a que se refiere este capítulo, en los siguientes casos:
 
-I. Si la sociedad respectiva no presenta el testimonio de la escritura constitutiva a que se refiere el artículo 84, fracción IV de esta Ley para su aprobación dentro del término de cuatro meses de otorgada la autorización, o si no inicia sus operaciones dentro del plazo de tres meses a partir de la aprobación de la escritura, o si al otorgarse ésta no estuviere suscrito y pagado el capital que determine la Secretaría de Hacienda y Crédito Público al otorgar la autorización;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+I.- Si la sociedad respectiva no presenta el Testimonio de la escritura constitutiva a que se refiere el artículo 84, fracción IV de esta Ley para su aprobación dentro del término de cuatro meses de otorgada la autorización, o si no inicia sus operaciones dentro del plazo de dos meses a partir de la aprobación de la escritura o si al otorgarse ésta no estuviese suscrito y pagado el capital que determine la Secretaría de Hacienda y Crédito Público al otorgar la autorización;
 
 II. Si no mantiene el capital mínimo pagado previsto en esta Ley;
 
@@ -1030,7 +1572,7 @@ II. Si no mantiene el capital mínimo pagado previsto en esta Ley;
 
 III.- Si efectúa operaciones en contravención a lo dispuesto por esta Ley, a políticas dictadas en materia cambiaria por las autoridades competentes o, en general, a sanas prácticas cambiarias;
 
-IV. Si la sociedad obra sin autorización de Ia Secretaría de Hacienda y Crédito Público o la Comisión Nacional Bancaria y de Seguros, en los casos en que la Ley así lo exija;
+IV. (DEROGADA, D.O.F. 3 DE ENERO DE 1990)
 
 V. Si se disuelve, quiebra o entra en estado de liquidación, salvo que el procedimiento respectivo termine por rehabilitación; y
 
@@ -1054,9 +1596,15 @@ La declaración de revocación se inscribirá en el Registro Público de la Prop
 
 ###### ARTICULO 88.
 
-Las multas correspondientes a sanciones por las infracciones previstas en esta Ley serán impuestas administrativamente por la Secretaría de Hacienda y Crédito Público a razón de días de salario, a menos que en la propia Ley se disponga otra forma de sanción. Para calcular el importe de las multas a que se refieren los artículos 92, 93 y 94 se tendrá como base el salario mínimo general vigente en el Distrito Federal, al momento de cometerse la infracción correspondiente.
+Las multas correspondientes a sanciones por las infracciones previstas en esta Ley, serán impuestas administrativamente por la Comisión Nacional Bancaria tomando como base el salario mínimo general vigente en el Distrito Federal al momento de cometerse la infracción, a menos que en la propia ley se disponga otra forma de sanción y se harán efectivas por la Secretaría de Hacienda y Crédito Público.
 
-Lo dispuesto en este capítulo no excluye la imposición de las sanciones que, conforme a ésta u otras leyes fueren aplicables por la comisión de otros delitos.
+Al imponer la sanción que corresponda, la citada Comisión siempre deberá oír previamente al interesado y tomará en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de evitar prácticas tendientes a contravenir las disposiciones de esta Ley.
+
+Los afectados podrán ocurrir por escrito ante la Comisión Nacional Bancaria en defensa de sus intereses dentro de los quince días hábiles siguientes a la fecha en que se les notifique la sanción correspondiente, acompañando las pruebas pertinentes e idóneas a efecto de que la propia Comisión resuelva lo conducente.
+
+El presidente de la Comisión mencionada podrá condonar total o parcialmente las sanciones administrativas a que se refiere este artículo.
+
+Lo dispuesto en este Capítulo no excluye la imposición de las sanciones que, conforme a ésta u otras leyes fueren aplicables por la comisión de delitos.
 
 ###### ARTICULO 89.
 
@@ -1078,15 +1626,19 @@ El importe de estas multas se liquidará sobre cada estado o situación mensual 
 
 La infracción a lo dispuesto en la fracción III, inciso 1 del artículo 8o. de esta Ley, se sancionará con la pérdida de la participación de capital de que se trate en favor del Gobierno Federal.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 91.
 
-Las personas que infringiendo lo dispuesto en la fracción IV del artículo 8o. de esta Ley, lleguen a ser propietarias de acciones de una unión de crédito, en exceso del porcentaje permitido, se harán acreedoras a una multa que impondrá administrativamente la Secretaría de Hacienda y Crédito Público, por el importe equivalente al 10% del valor de las acciones que excedan al porcentaje permitido, conforme valuación que de esas mismas acciones se haga de acuerdo a las reglas previstas en la fracción IV del artículo 54 de esta Ley.
+Las personas que infringiendo lo dispuesto en la fracción IV del artículo 8o. de esta Ley, lleguen a ser propietarias de acciones de una unión de crédito, en exceso del porcentaje permitido, se harán acreedoras a una multa que impondrá administrativamente la Comisión Nacional Bancaria, por el importe equivalente al diez porciento del valor de las acciones que excedan al porcentaje permitido, conforme valuación que de esas mismas acciones se haga de acuerdo a las reglas previstas en la fracción IV del artículo 54 de esta Ley.
 
-Las personas a las que se les imponga multa por infringir lo dispuesto en la fracción IV del artículo 8o. de esta Ley, tendrán un plazo de tres meses contados a partir de la imposición de la referida multa para corregir tal situación, vencido el cual, si no lo han hecho, podrá imponérseles nuevas sanciones por tres tantos del importe de la multa anterior. La Secretaría de Hacienda y Crédito Público podrá seguir imponiendo multas sucesivas al infractor por tres tantos de la multa que anteceda, cuantas veces, vencidos plazos iguales al señalado, deje de corregir la situación irregular.
+Las personas a las que se les imponga multa por infringir lo dispuesto en la fracción IV del artículo 8o. de esta Ley, tendrán un plazo de tres meses contados a partir de la imposición de la referida multa para corregir tal situación, vencido el cual, si no lo han hecho, podrá imponérseles nuevas sanciones por tres tantos del importe de la multa anterior. La Comisión Nacional Bancaria podrá seguir imponiendo multas sucesivas al infractor por tres tantos de la multa que anteceda, cuantas veces, vencidos plazos iguales al señalado, deje de corregir la situación irregular.
+
+> <small>(REFORMADO, D.O.F 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 92.
 
-Las violaciones a la presente Ley y a las demás disposiciones aplicables, que cometan las sociedades autorizadas para operar como casas de cambio, serán sancionadas, a juicio de la Secretaría de Hacienda y Crédito Público, con multa administrativa que impondrá la misma Dependencia con monto de 100 a 5000 días de salario.
+Las violaciones a la presente Ley y a las demás disposiciones aplicables, que cometan las sociedades autorizadas para operar como casas de cambio, serán sancionadas, a juicio de la Comisión Nacional Bancaria, con multa administrativa que impondrá la misma Comisión con monto de cien días a cinco mil días de salario.
 
 ###### ARTICULO 93.
 
@@ -1098,13 +1650,15 @@ Se impondrá multa de 20 a 5000 días de salario si las disposiciones violadas d
 
 ###### ARTICULO 95.
 
-Para proceder penalmente por los delitos previstos en los artículos 96, 97, 98, 99, 100 y 101 de esta ley, será necesario que la Secretaría de Hacienda y Crédito Público formule petición, previa opinión de la Comisión Nacional Bancaria y de Seguros.
+Para proceder penalmente por los delitos previstos en los artículos 96, 97, 98, 99 y 101 de esta Ley, será necesario que la Secretaría de Hacienda y Crédito Público formule petición, previa opinión de la Comisión Nacional Bancaria.
 
 Las multas previstas en los artículos 96, 97 y 98 de esta Ley, se impondrán a razón de días de salario. Para calcular su importe, se tendrá como base el salario mínimo general vigente en el Distrito Federal al momento de realizarse la conducta sancionada.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 96.
 
-Se impondrá pena de prisión de tres meses a dos años y multa de 30 a 300 días de salario a los directores generales o gerentes generales, miembros del consejo de administración, comisarios y auditores externos de las organizaciones auxiliares del crédito que incurran en violación de cualquiera de las prohibiciones a que se refieren los artículos 23 fracción VII, 38 fracción III y 45 fracción XII de esta Ley.
+Se impondrá pena de prisión de tres meses a dos años y multa de treinta a trescientos días de salario a los directores generales o gerentes generales, miembros del consejo de administración, comisarios y auditores externos de las organizaciones auxiliares del crédito que incurran en violación de cualquiera de las prohibiciones a que se refieren los artículos 23, fracción VII, 38, fracción III, 45, fracción XII y 45-T, fracción III de esta Ley.
 
 Las penas previstas en este artículo se aplicarán también a quienes a sabiendas hayan celebrado el negocio con la organización auxiliar del crédito, si se trata de personas físicas, o a quienes hayan representado a las sociedades deudoras.
 
@@ -1118,9 +1672,13 @@ II. Falsifiquen, alteren, simulen o, a sabiendas, realicen operaciones que resul
 
 Se considerarán comprendidos dentro de lo dispuesto en el párrafo anterior y, consecuentemente, sujetos a iguales sanciones, los funcionarios o empleados de organizaciones auxiliares del crédito que:
 
-a ) Otorguen préstamos, créditos o bienes en arrendamiento a sociedades constituidas con el propósito de obtener financiamientos o arrendamientos financieros de organizaciones auxiliares del crédito, a sabiendas de que las mismas no han integrado el capital que registren las actas constitutivas correspondientes;
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
-b) Otorguen préstamos, créditos o bienes en arrendamiento financiero a personas físicas o morales cuyo estado de insolvencia les sea conocido, si resulta previsible al realizar la operación que carecen de capacidad económica para pagar o responder por el importe de las sumas acreditadas o rentas, produciendo quebranto patrimonial a la organización;
+a) Otorguen préstamos, créditos, bienes en arrendamiento financiero o adquieran derechos de crédito por contratos de factoraje financiero, a sociedades constituidas con el propósito de obtener dichas prestaciones de organizaciones auxiliares del crédito, a sabiendas de que aquéllas no han integrado el capital que registren las actas de asamblea correspondientes;
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+b) Realicen operaciones de préstamo, crédito, arrendamiento financiero o adquisición de derechos de crédito con personas físicas o morales cuyo estado de insolvencia les sea conocido, si resulta previsible al realizar la operación que carecen de capacidad económica para pagar o responder por el importe de las sumas acreditadas, rentas o valor de los derechos de crédito, produciendo quebranto patrimonial a la organización; o bien, celebren operaciones de factoraje financiero a sabiendas del estado de insolvencia de los deudores, generándose un quebranto patrimonial a la empresa de factoraje financiero;
 
 c) Renueven préstamos, créditos o contratos de arrendamiento financiero, vencidos parcial o totalmente, a las personas físicas o morales a que se refiere el inciso anterior;
 
@@ -1128,27 +1686,39 @@ d) Con objeto de liberar a un deudor, otorguen créditos a una o varias personas
 
 e) A sabiendas, permitan a un deudor desviar el importe del crédito, préstamo o bien arrendado en beneficio de terceros, reduciendo notoriamente su capacidad para pagar o responder por el importe de su obligación y, como consecuencia de ello, resulte quebranto patrimonial a la organización; y
 
-III.- A sabiendas, presenten a la Comisión Nacional Bancaria y de Seguros datos falsos sobre la solvencia del deudor o arrendatario, o sobre el valor de las garantías de los créditos, préstamos o arrendamientos financieros, imposibilitándola a adoptar las medidas necesarias para que se realicen los ajustes correspondientes en los registros de la organización respectiva.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+III.- A sabiendas, presenten a la Comisión Nacional Bancaria datos falsos sobre la solvencia del deudor, arrendatario o de los clientes que transmitan los derechos de crédito, o de los deudores de éstos, o bien, sobre el valor de las garantías de los créditos, préstamos, arrendamientos financieros o derechos de crédito, imposibilitándola a adoptar las medidas necesarias para que se realicen los ajustes correspondientes en los registros de la organización respectiva.
 
 ###### ARTICULO 98.
 
 Se impondrá pena de prisión de dos a cinco años y multa con importe de 250 a 2500 días de salario a:
 
-I. Las personas que con el propósito de obtener un préstamo, crédito o un bien en arrendamiento, proporcionen a una organización auxiliar del crédito datos falsos sobre el monto de activos o pasivos de una entidad o persona física o moral, si como consecuencia de ello resulta quebranto patrimonial para la organización;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-II. Los funcionarios de una organización auxiliar del crédito que, conociendo la falsedad sobre el monto de los activos o pasivos, concedan el préstamo, crédito o un bien en arrendamiento a que se refiere la fracción anterior, produciéndose los resultados que se indican en la misma;
+I.- Las personas que con el propósito de obtener un préstamo, crédito, o de celebrar un contrato de arrendamiento financiero o de factoraje financiero, proporcionen a una organización auxiliar del crédito datos falsos sobre el monto de activos o pasivos de una entidad o persona física o moral, si como consecuencia de ello resulta quebranto patrimonial para la organización;
 
-III. Las personas que para obtener préstamos, créditos o un bien en arrendamiento de una organización auxiliar del crédito presenten avalúos que no correspondan a la realidad, de manera que el valor real de los bienes que ofrecen en garantía sea inferior al importe del crédito, préstamo o bien en arrendamiento, resultando quebranto patrimonial para la organización;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-IV. Los funcionarios de la organización auxiliar del crédito que, conociendo los vicios que señala la fracción anterior, concedan el préstamo, crédito o un bien en arrendamiento si el monto de la alteración hubiere sido determinante para concederlo y se produce quebranto patrimonial para la organización;
+II.- Los funcionarios de una organización auxiliar del crédito que, conociendo la falsedad sobre el monto de los activos o pasivos, concedan el préstamo o crédito, o celebren contratos de arrendamiento financiero o de factoraje financiero, a que se refiere la fracción anterior, produciéndose los resultados que se indican en la misma;
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+III.- Las personas que para obtener préstamos o créditos de una organización auxiliar del crédito, o con el fin de celebrar contratos de arrendamiento financiero o de factoraje financiero, presenten avalúos que no correspondan a la realidad, de manera que el valor real de los bienes que se ofrecen en garantía sea inferior al importe del crédito o préstamo, bienes en arrendamiento o derechos de crédito, resultando quebranto patrimonial para la organización;
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+IV.- Los funcionarios de la organización auxiliar del crédito que, conociendo los vicios que señala la fracción anterior, concedan el préstamo, crédito o celebren el contrato de arrendamiento financiero o de factoraje financiero, si el monto de la alteración hubiere sido determinante para concederlo y se produce quebranto patrimonial para la organización;
 
 V. Los acreditados o arrendatarios financieros que desvíen un crédito concedido o un bien dado en arrendamiento financiero por alguna organización auxiliar del crédito, a fines distintos para los que se otorgó, si dicha finalidad fue determinante para el otorgamiento de condiciones preferenciales en el crédito o en el arrendamiento financiero; y
 
 VI. Las personas físicas o morales, así como los funcionarios y empleados de éstas, que presenten estados financieros falsos o alterados con el propósito de obtener de un almacén general de depósito la habilitación de locales.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 99.
 
-Los funcionarios o empleados de organizaciones auxiliares del crédito, que con independencia de los cargos e intereses fijados por la organización respectiva, por sí o por interpósita persona hayan obtenido de los sujetos de crédito o arrendatarios financieros, beneficios personales por su participación en el trámite u otorgamiento del crédito, serán sancionados con pena de prisión de tres meses a tres años cuando la dádiva no sea valuable, o no exceda de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y de dos a catorce años de prisión cuando la dádiva exceda de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito.
+Los funcionarios o empleados de organizaciones auxiliares del crédito, que con independencia de los cargos o intereses fijados por la organización respectiva, por sí o por interpósita persona hayan obtenido de los sujetos de crédito, arrendatarios financieros o clientes de empresas de factoraje financiero, beneficios personales por su participación en el trámite u otorgamiento del crédito, de los bienes objeto del arrendamiento o del contrato de factoraje, serán sancionados con pena de prisión de tres meses a tres años cuando la dádiva no sea valuable, o no exceda de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, y de dos a catorce años de prisión cuando la dádiva exceda de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito.
 
 ###### ARTICULO 100.
 
@@ -1163,6 +1733,52 @@ II. Las personas que sin causa justificada se nieguen a entregar, sustraigan, di
 ###### ARTICULO 101.
 
 Serán sancionadas con pena de prisión de uno a tres años, las personas que lleven a cabo operaciones de las reservadas para las casas de cambio, sin contar con las autorizaciones a que se refiere el artículo 81 de esta ley.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 3 DE ENERO DE 1990)</small>
+
+## TITULO SEPTIMO. De la Protección de los Intereses del Público
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 102.
+
+En caso de reclamación contra una organización auxiliar del crédito con motivo de las operaciones y servicios que presten al público, o a sus socios en el caso de las uniones de crédito, los reclamantes podrán, a su elección, presentarla ante la Comisión Nacional Bancaria o hacer valer sus derechos ante los tribunales competentes de la Federación o del orden común.
+
+Las organizaciones auxiliares del crédito estarán obligadas, en su caso, a someterse al procedimiento de conciliación a que se refiere el artículo siguiente.
+
+Cuando las reclamaciones se presenten ante la Comisión Nacional Bancaria, ésta conciliará y, en su caso, resolverá las diferencias que se susciten. Tratándose de uniones de crédito en las operaciones de comercialización, sólo conocerá de las diferencias que se susciten con sus propios socios.
+
+La sola presentación de la reclamación que se prevé en este artículo, interrumpe la prescripción.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
+###### ARTICULO 103.
+
+Las reclamaciones a que se refiere el artículo anterior, se ajustarán a las bases siguientes:
+
+I.- Se presentarán por escrito ante la Comisión Nacional Bancaria, pudiendo hacerse en la delegación regional correspondiente. De las mismas se correrá traslado a la organización auxiliar del crédito de que se trate, requiriéndole un informe detallado, mismo que deberá presentar por conducto de un representante en la fecha que dicha Comisión señale, de manera perentoria, para la realización de una junta de avenencia a la cual se citará a las partes y que sólo podrá diferirse por una vez;
+
+II.- En la junta a que se refiere la fracción anterior, se exhortará a las partes a conciliar sus intereses y si ello no fuera posible la Comisión las invitará a que de común acuerdo la designen árbitro, sea en amigable composición o en juicio arbitral de estricto derecho, a elección de las mismas. El compromiso correspondiente se hará constar en el acta que al efecto se levante;
+
+III.- Las delegaciones regionales podrán tramitar la etapa conciliatoria, y, en su caso, el procedimiento arbitral escogido, debiendo al efecto presentar los proyectos de laudos que formulen a la consideración de la Comisión, la que emitirá el laudo correspondiente;
+
+IV.- En la amigable composición se fijarán las cuestiones que deberán ser objeto del arbitraje y la Comisión tendrá libertad de resolver, sin sujeción a reglas legales, pero observando las formalidades esenciales del procedimiento.
+
+La Comisión tendrá la facultad de allegarse todos los elementos que juzgue necesarios para resolver las cuestiones que se le hayan sometido en arbitraje. No habrá términos ni incidentes y la resolución correspondiente sólo admitirá aclaración de la misma;
+
+V.- En el juicio arbitral de estricto derecho, las partes formularán compromiso en el que fijarán igualmente las reglas del procedimiento que convencionalmente establezcan. Se aplicará supletoriamente el Código de Comercio, con excepción de los artículos 1217, 1235 y 1296 y a falta de disposición de dicho Código, el Código de Procedimientos Civiles para el Distrito Federal, salvo lo dispuesto por el artículo 617.
+
+Las resoluciones en juicio arbitral de estricto derecho, dictadas en el curso del procedimiento, admitirán como único recurso el de revocación y el laudo dictado sólo podrá ser impugnado en juicio de amparo;
+
+VI.- El incumplimiento o desacato por parte de las organizaciones auxiliares del crédito a los acuerdos o resoluciones dictadas por la Comisión Nacional Bancaria en los procedimientos establecidos en el presente artículo, serán castigados con multa administrativa que imponga la propia Comisión, y haga efectiva la Secretaría de Hacienda y Crédito Público, por cantidad equivalente de sesenta a cien veces el salario mínimo general diario vigente en el Distrito Federal;
+
+VII.- El laudo que en amigable composición o en juicio arbitral de estricto derecho condene a una organización auxiliar del crédito, le otorgará para su cumplimiento un plazo de quince días hábiles a partir de la notificación; si no lo efectuare, sin perjuicio de lo señalado en la fracción siguiente, la Comisión impondrá a la organización auxiliar del crédito una multa hasta de tres veces el importe de lo condenado, si éste fuere cuantificable, o hasta diez mil veces el salario mínimo general diario vigente en el Distrito Federal, si no lo fuere;
+
+VIII.- Cuando se faltare al cumplimiento voluntario de lo convenido en la conciliación o al laudo en la amigable composición o en el juicio arbitral de estricto derecho, la parte afectada deberá acudir a los tribunales competentes, para efectos de ejcución (sic) de una u otra resolución; y
+
+IX.- Las notificaciones en el juicio arbitral de estricto derecho se harán a las partes por cédula fijada en los estrados de la Comisión Nacional Bancaria o de la delegación regional correspondiente excepción hecha del traslado de la reclamación, de la demanda, de la citación a la junta conciliatoria y del laudo, que tendrá que hacerse personalmente o por correo certificado con acuse de recibo. Las notificaciones surtirán efectos al día siguiente al que se efectúen.
+
+La Comisión Nacional Bancaria tendrá, además de lo previsto en este Título, todas las facultades que en materia arbitral le confiere la Ley Reglamentaria del Servicio Público de Banca y Crédito.
 
 ## TRANSITORIOS
 
@@ -1193,3 +1809,39 @@ En cumplimiento de lo dispuesto por la Fracción I del artículo 89 de la Consti
 D.O.F. 26 DE DICIEMBRE DE 1986
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su pubicación (sic) en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE ENERO DE 1990.
+
+> <small>N. DE E. SE TRANSCRIBE A CONTINUACION EL ARTICULO SEGUNDO DEL DECRETO DE REFORMAS A QUE SE HACE ALUSION, TODA VEZ QUE EN EL MISMO SE ESTABLECE LA SUSTITUCION DE LA DENOMINACION DE UNO DE LOS ORGANOS A QUE HACE REFERENCIA LA LEY.</small>
+
+###### ARTICULO SEGUNDO.
+
+Se REFORMAN los artículos de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, no incluidos en el Artículo Primero de este Decreto, en los que se haga mención a la Comisión Nacional Bancaria y de Seguros, para el sólo efecto de sustituir el nombre del citado órgano, por el de "Comisión Nacional Bancaria".
+
+## TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a lo previsto por este Decreto.
+
+###### ARTICULO TERCERO.
+
+Los almacenes generales de depósito, arrendadoras financieras y uniones de crédito que a la fecha en que entre en vigor este Decreto, gocen de concesión para operar con ese carácter, se reputarán autorizadas para continuar operando en los términos que establece la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
+
+En el plazo de 180 días contando a partir de que entre en vigor este Decreto dichas organizaciones auxiliares del crédito deberán, en su caso, modificar sus estatutos sociales y solicitar a la Secretaría de Hacienda y Crédito Público, y en el caso de las uniones de crédito a la Comisión Nacional Bancaria, la adecuación a los términos del presente Decreto.
+
+###### ARTICULO CUARTO.
+
+Las arrendadoras financieras que a la fecha en que entre en vigor este Decreto, no alcancen el capital contable que se determine de conformidad con el Artículo 37-B de la Ley, para ajustarse al mismo gozarán del plazo que señale la Secretaría de Hacienda y Crédito Público, mediante reglas generales, considerando la magnitud de los ajustes que habrán de realizar las arrendadoras.
+
+###### ARTICULO QUINTO.
+
+Las sociedades que celebren contratos con las características señaladas por el artículo 45-A, fracción I de la Ley de General de Organizaciones y Actividades Auxiliares del Crédito, deberán solicitar a la Secretaría de Hacienda y Crédito Público la autorización correspondiente en un plazo de 90 días hábiles siguientes a la iniciación de la vigencia de este Decreto. Las sociedades que no presenten dicha solicitud y aquéllas a las que se les niegue la autorización, deberán modificar su objeto social o proceder a su disolución anticipada y liquidación; debiendo la Comisión Nacional Bancaria, en caso contrario, actuar según los términos del Artículo 64 de la Ley.
+
+###### ARTICULO SEXTO.
+
+En tanto la Secretaría de Hacienda y Crédito Público, la Comisión Nacional Bancaria o el Banco de México, respectivamente, expiden las disposiciones de carácter general que se mencionan en las reformas o adiciones que son objeto del presente Decreto en los puntos a que dichas disposiciones de carácter general se refieren, seguirá observándose lo dispuesto por los textos anteriormente aplicables a la Ley.
