@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-11036"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-26"
-last_updated: "1995-12-23"
+last_updated: "1996-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 26 de diciembre de 1990.
 
@@ -55,7 +55,11 @@ I.- En el ejercicio de una profesión, arte, oficio o actividad técnica, deport
 
 II.- En el transporte Público de personas y cosas.
 
-III.- En el ejercicio de una actividad profesional prestado bajo la dirección y dependencia de un tercero dentro del territorio del Estado cuando quien realice los pagos no cause el impuesto sobre salarios a que se refiere el Impuesto sobre la Renta.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
+III.- En el ejercicio de una actividad profesional prestado bajo la dirección y dependencia de un tercero dentro del territorio del Estado cuando por estos servicios no se cause el Impuesto Sobre Nóminas.
+
+En este caso quienes efectúen los pagos están obligados a retener y enterar el impuesto en los plazos y términos que se establecen en este Capítulo.
 
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1991)</small>
 
@@ -91,11 +95,13 @@ Este impuesto se liquidará y pagará de conformidad con las tasas que estipule 
 
 #### SECCION QUINTA. DEL PAGO
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 7o.
 
-El pago de este impuesto se hará mensualmente a más tardar el día 10 del mes siguiente al de la percepción en la Oficina de Recaudación Fiscal del domicilio que le corresponde.
+El pago de este impuesto se hará mensualmente a más tardar el día 10 del mes siguiente al de la percepción en las oficinas autorizadas por la Secretaría de Finanzas, del domicilio que le corresponde.
 
-Quienes hagan pagos a contribuyentes que eventualmente sean sujetos de este impuesto deberán retenerlo y enterarlo en la Oficina Recaudadora correspondiente a su domicilio en las formas aprobadas por la Secretaría de Finanzas del Estado.
+Quienes hagan pagos a contribuyentes que eventualmente sean sujetos de este impuesto deberán retenerlo y enterarlo en la oficina recaudadora o institución de crédito autorizada por la Secretaría de Finanzas, correspondiente a su domicilio, en las formas aprobadas por la propia Secretaría.
 
 #### SECCION SEXTA. DE LAS OBLIGACIONES
 
@@ -153,17 +159,13 @@ Este impuesto se liquidará de conformidad con la tasa que al efecto establezca 
 
 #### SECCION QUINTA. DEL PAGO
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 14.
 
-El pago del impuesto deberá efectuarse, dentro de los primeros 10 días de calendario del mes siguiente a aquél en que se causó. El pago deberá hacerse mediante declaración en la oficina recaudadora que corresponda al domicilio fiscal del contribuyente, en las formas oficiales que apruebe la Secretaría de Finanzas.
-
-> <small>N. DE E. ESTE PARRAFO NO FUE DEROGADO EXPRESAMENTE EN REFORMA PUBLICADA EL 25 DE DICIEMBRE DE 1991</small>
+El pago del impuesto deberá efectuarse, dentro de los primeros 10 días de calendario del mes siguiente a aquel en que se causó. El pago deberá hacerse mediante declaración en la oficina recaudadora o institución de crédito autorizada por la Secretaría de Finanzas que corresponda al domicilio fiscal del contribuyente, en las formas que apruebe la propia Secretaría.
 
 La Secretaría de Finanzas podrá celebrar convenios con los sujetos de este Impuesto, a efecto de que éstos puedan anticipar pagos semestrales, con un descuento del 5% sobre la estimación que la misma Secretaría determine.
-
-> <small>N. DE E. ESTE PARRAFO NO FUE DEROGADO EXPRESAMENTE EN REFORMA PUBLICADA EL 25 DE DICIEMBRE DE 1991</small>
 
 La obligación de presentar declaración subsistirá, aún cuando no se hayan efectuado erogaciones gravadas.
 
@@ -239,9 +241,9 @@ III.- Presentar los avisos, datos documentos e informes que les soliciten las au
 
 IV.- Las sucursales, bodegas, agencias y otras dependencias de la matriz, que se establezcan fuera del domicilio fiscal de ésta, deberán empadronarse por separado, y las que estén ubicadas en la misma localidad, se deberán empadronar sólo para efectos de control.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
-V.- Las personas físicas o morales que para efecto de impuestos federales su domicilio fiscal se encuentre en otra Entidad Federativa, pero que se efectúen pagos en el Estado por remuneraciones al trabajo personal subordinado, tendrán la obligación de registrar como domicilio fiscal estatal, el lugar donde se origine la actividad contraprestación, además deberán hacer dichos pagos en la oficina recaudadora que corresponda su jurisdicción.
+V.- Las personas físicas o morales cuyo domicilio fiscal, para efecto de impuestos federales, se encuentre en otra Entidad Federativa, pero que efectúen pagos en el Estado por remuneraciones al trabajo personal subordinado, tendrán la obligación de registrar como domicilio fiscal estatal, el lugar donde se origine la actividad o contraprestación, además deberán enterar el impuesto correspondiente en la oficina recaudadora de su jurisdicción o institución de crédito autorizada por la Secretaría de Finanzas.
 
 ### CAPITULO III
 
@@ -333,9 +335,13 @@ Son objeto del Impuesto:
 
 I. Las apuestas permitidas de cualquier clase.
 
-II. Los ingresos que se perciban sobre el total de boletos vendidos por rifas, loterías y sorteos que se celebren en el Estado.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
-III. La obtención en el Estado de premios derivados de loterías, rifas, sorteos a que se refiere la fracción anterior.
+II. Los ingresos que se perciban sobre el total de billetes o boletos vendidos para participar en rifas, loterías, sorteos y concursos que se celebren en el Estado, excepto los enajenados por Organismos Públicos Descentralizados de la Administración Pública Federal cuyo objeto social sea la obtención de recursos para destinarlos a la Asistencia Pública.
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
+III. La obtención de premios derivados de rifas, loterías, sorteos y concursos, cuyos boletos o comprobantes de participación se hayan enajenado en el Estado.
 
 #### SECCION SEGUNDA
 
@@ -351,7 +357,11 @@ II.- Las personas físicas o morales que exploten apuestas permitidas.
 
 III.- Las personas que organicen rifas, loterías y sorteos que se celebren en el Estado.
 
-IV.- Las personas que sean beneficiadas por premios de las rifas, loterías y sorteos que se celebren en el Estado.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
+IV.- Las personas que sean beneficiadas por premios de las rifas, loterías, sorteos y concursos, cuyos boletos o comprobantes se enajenen en el Estado.
+
+El impuesto que resulte conforme a esta Fracción, será retenido por las personas que hagan los pagos de los premios, debiendo enterarlo en los términos del presente Capítulo.
 
 #### SECCION TERCERA. DE LA CUOTA
 
@@ -387,47 +397,67 @@ II.- A manifestar por escrito a la misma Secretaría, la baja de la explotación
 
 Las personas que accidentalmente organicen o exploten las operaciones gravadas por este Título, tendrán además de las obligaciones señaladas en el Artículo anterior la de garantizar a satisfacción de la Secretaria de Finanzas el pago del impuesto a que se refiere este capítulo.
 
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO V. DEL IMPUESTO SOBRE OBRAS DE PLANIFICACION
+### CAPITULO V. DEL IMPUESTO ESTATAL SOBRE TENENCIA O USO DE VEHICULOS
 
-> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 25 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION PRIMERA. DEL OBJETO
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 33.
 
-(DEROGADO, P.O. 25 DE DICIEMBRE DE 1991)
+Es objeto de este impuesto la tenencia o uso de vehículos de más de 10 años de fabricación anteriores al ejercicio fiscal en que se aplique el impuesto.
 
-> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 25 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION SEGUNDA. DE LOS SUJETOS
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 34.
 
-(DEROGADO, P.O. 25 DE DICIEMBRE DE 1991)
+Es sujeto de este impuesto las personas físicas o morales tenedores o usuarios de los vehículos a que se refiere el artículo anterior.
 
-> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 25 DE DICIEMBRE DE 1991)</small>
+Para los efectos de este impuesto, se considera que el propietario es tenedor o usuario del vehículo, y que el año modelo del vehículo es el de su fabricación.
 
-#### SECCION TERCERA. DE LA T ARIFA
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
+#### SECCION TERCERA. DE LA TARIFA
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 35.
 
-(DEROGADO, P.O. 25 DE DICIEMBRE DE 1991)
+Servirá de base para el pago del Impuesto Sobre Tenencia o Uso de Vehículos, el número de cilindros del motor del propio vehículo.
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 25 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION CUARTA. DEL PAGO
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 36.
 
-(DEROGADO, P.O. 25 DE DICIEMBRE DE 1991)
+Este impuesto se liquidará conforme al tabulador que al efecto establezca la Ley de Ingresos del Estado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
+#### SECCION QUINTA. DEL PAGO
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 37.
+
+El pago del impuesto estatal sobre tenencia o uso de vehículos deberá efectuarse por año de calendario, dentro de los tres primeros meses, en las oficinas autorizadas por la Secretaría de Finanzas.
 
 #### SECCION PRIMERA. DEL OBJETO
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O.23 DE DICIEMBRE DE 1995)</small>
 
-###### ARTICULO 37.
+###### ARTICULO 38.
 
 (DEROGADO, P.O. 25 DE DICIEMBRE DE 1991)
 
@@ -437,15 +467,11 @@ DEL SUJETO.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O.23 DE DICIEMBRE DE 1995)</small>
 
-###### ARTICULO 38.
+###### ARTICULO 39.
 
 (DEROGADO, P.O. 25 DE DICIEMBRE DE 1991)
 
 #### SECCION TERCERA. DE LA BASE
-
-###### ARTICULO 39.
-
-(DEROGADO, P.O. 25 DE DICIEMBRE DE 1991)
 
 #### SECCION CUARTA. DE LA CUOTA
 
@@ -459,33 +485,33 @@ DEL SUJETO.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1991)</small>
 
-#### SECCION TERCERA. DE LA BASE
-
 ### CAPITULO VI. DEL IMPUESTO SOBRE ADQUISICION DE BIENES MUEBLES
 
-#### SECCION CUARTA. DEL PAGO
+#### SECCION TERCERA. DE LA BASE
 
 ###### ARTICULO 40.
 
 Es objeto de este Impuesto la Adquisición por compraventa, donación, prescripción o por cualquier otra causa o título de toda clase de bienes muebles usados.
 
-#### SECCION QUINTA. PARA EL FOMENTO DE LA EDUCACION
+#### SECCION CUARTA. DEL PAGO
 
 ###### ARTICULO 41.
 
 Es sujeto la persona que adquiere los bienes y solidariamente responsable del transmisor, a excepción de los bienes muebles enajenados por las empresas en los términos de la Ley del Impuesto al Valor Agregado.
 
-#### SECCION SEXTA. PARA LA ASISTENCIA SOCIAL
+#### SECCION QUINTA. PARA EL FOMENTO DE LA EDUCACION
 
 ###### ARTICULO 42.
 
 Servirá de base para el pago del impuesto a que se refiere este Título, el valor que resulte más alto entre el de la operación, el oficial y en los casos de bienes adquiridos por donación y prescripción el declarado.
 
-#### SECCION SEPTIMA. PARA LA UNIVERSIDAD AUTONOMA DE NAYARIT
+#### SECCION SEXTA. PARA LA ASISTENCIA SOCIAL
 
 ###### ARTICULO 43.
 
 Este impuesto se causará y pagará conforme a las cuotas y tasas que señala la Ley de Ingresos del Estado.
+
+#### SECCION SEPTIMA. PARA LA UNIVERSIDAD AUTONOMA DE NAYARIT
 
 ###### ARTICULO 44.
 
@@ -499,67 +525,269 @@ III.- Dentro de los diez días siguientes a la realización de todas las demás 
 
 IV.- Tratándose de adquisiciones de vehículos el adquiriente será responsable del pago del impuesto que hubiera dejado de cubrirse en anteriores operaciones de compraventa.
 
+#### SECCION OCTAVA. DE LAS EXENCIONES
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 45.
 
 No causan el impuesto las operaciones por las que deba pagarse el Impuesto al Valor Agregado.
 
 ### CAPITULO VII. DE LOS IMPUESTOS ADICIONALES
 
+#### SECCION PRIMERA. DEL OBJETO
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 46.
 
 Es objeto de los impuestos adicionales el pago de impuestos, de derechos y productos que establezca la Ley de Ingresos del Estado.
+
+#### SECCION SEGUNDA. DE LOS SUJETOS
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 47.
 
 Son sujetos de los Impuestos Adicionales los propios Impuestos, Derechos y Productos considerados como tales en la Ley de Ingresos del Estado.
 
+#### SECCION TERCERA. DE LA BASE
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 48.
 
 La Base de los impuestos adicionales, será el monto de lo que pague por concepto de impuestos, derechos y productos.
+
+#### SECCION CUARTA. DE LA CUOTA
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 49.
 
 Los impuestos adicionales se causarán y harán efectivos en el momento en que se paguen los impuestos y derechos que establezca la Ley de Ingresos del Estado.
 
+#### SECCION QUINTA. DEL PAGO
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 50.
 
 Este impuesto se causará y pagará conforme a la tarifa que fije la Ley de Ingresos del Estado.
+
+#### SECCION SEXTA. DE LAS EXENCIONES
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 51.
 
 Este impuesto se causará y pagará conforme a las tasas que señala la Ley de Ingresos del Estado.
 
+#### SECCION SEPTIMA
+
+DE LA ESTIMACION DE LAS EROGACIONES.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 52.
 
 Este Impuesto se causará y pagará conforme a las tasas que señala la Ley de Ingresos del Estado.
 
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
+#### SECCION OCTAVA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES DE ESTE IMPUESTO
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 65 Son obligaciones de los contribuyentes de este impuesto:
+
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes ante la oficina recaudadora que corresponda a su domicilio, mediante la forma oficial aprobada para ello por la Secretaría de Finanzas del Estado, proporcionando la información relacionada con su identidad, su domicilio y aquella que le sea solicitada, dentro del mes siguiente, al día en que se inicien sus obligaciones de enterar los pagos a que se refiere el artículo 62 de esta Ley.
+
+II.- Presentar ante las autoridades fiscales, dentro del plazo que señala la fracción anterior, los avisos de cambio de domicilio, nombre, razón social o suspensión de actividades.
+
+III.- Presentar cuando así lo soliciten las autoridades fiscales, los avisos, datos, documentos e informes en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
+
+IV.- Enterar en las oficinas autorizadas dentro del plazo señalado en este capítulo el Impuesto al Hospedaje.
+
+Los contribuyentes de este impuesto están obligados a enterarlo, aún cuando no lo hubieren trasladado, pero si hubiesen prestado el servicio.
+
+V.- Los sujetos de este impuesto que se establezcan fuera del domicilio fiscal de la matriz deberán inscribirse al padrón de contribuyentes y presentar sus declaraciones por separado en oficina autorizada por la Secretaría de Finanzas del Estado, que corresponda a su domicilio fiscal determinado de conformidad con lo dispuesto en el Código Fiscal del Estado.
+
+Las personas físicas o morales que para efecto de impuestos federales, su domicilio fiscal se encuentre en otra Entidad Federativa, pero que perciban ingresos en el Estado de Nayarit por la prestación de servicios de hospedaje tendrán la obligación de registrar como domicilio fiscal para efectos de este impuesto el lugar donde se origine el servicio o la contraprestación, además deberán hacer dichos pagos en la oficina autorizada por la Secretaría de Finanzas que corresponda a su jurisdicción.
+
+VI.- Expedir comprobantes por la contraprestación objeto de este impuesto, llevar libros y registros contables de los mismos y conservarlos en los términos previstos en el Código Fiscal del Estado.
+
+(REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
+
 ###### ARTICULO 53.
 
-Los derechos por la prestación de servicios públicos en el Estado, se causarán en el momento en que el sujeto reciba la prestación del servicio o en el momento en que se provoque por parte del Estado, el gasto que deba ser remunerado por aquél, salvo el caso que la disposición que fija el derecho señale cosa distinta.
+Se exime del pago de los impuestos adicionales a que se refiere este capítulo, al Impuesto Sobre Remuneraciones al Trabajo Personal en Forma Independiente; al Impuesto Sobre Nóminas; al Impuesto al Hospedaje; al Impuesto Sobre Juegos y Apuestas Permitidas, Sobre Rifas, Loterías y Sorteos respecto de los premios obtenidos; y los Derechos por Registro Público de la Propiedad por hipotecas sobre créditos para vivienda de interés social.
 
-### CAPITULO UNICO. DE LOS DERECHOS
+> <small>(ADICIONADO CON LAS SECCIONES QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO VIII. DEL IMPUESTO AL HOSPEDAJE
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 54.
 
-La dependencia, funcionario o empleado que preste el servicio por el cual se paguen los derechos, procederá a la prestación del mismo, al presentar el interesado el recibo que acredite su pago ante la Oficina Recaudadora respectiva, ningún otro comprobante justificará el pago correspondiente.
+Será objeto de este impuesto la prestación de servicio de hospedaje, campamentos, paraderos de casas rodantes y de tiempo compartido, considerados como el albergue temporal de personas a cambio de una contraprestación, sea cual fuere la denominación que ésta tenga.
+
+Para efectos de la causación de este impuesto, sólo se considerará el albergue sin incluir los alimentos y demás servicios relacionados con los mismos.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 55.
 
-El funcionario o empleado público que contravenga lo dispuesto anteriormente, será responsable de su pago.
+Tratándose de servicios prestados bajo el régimen de tiempo compartido, se tomará como base del impuesto exclusivamente los ingresos percibidos por el albergue a través del pago de cuotas de mantenimiento ordinarias.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 56.
 
-Los derechos se pagarán de conformidad con las tasas y cuotas que establezca la Ley de Ingresos del Estado y a falta de disposición expresa, la autoridad fiscal determinará su monto teniendo en cuenta el costo que para el Estado tenga la prestación del servicio.
+El impuesto a que se refiere este capítulo se causará al momento en que se perciban las contraprestaciones por los servicios gravados, incluyendo depósitos, anticipos, y cualquier otro concepto relativo a estos servicios.
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 57.
 
-Quedan comprendidos como productos, los ingresos que obtiene el Estado por actividades que no correspondan al desarrollo de una función propia del Derecho Público, así como por la explotación o aprovechamiento de los bienes que constituyen su patrimonio.
+Están obligados al pago del Impuesto al Hospedaje, las personas físicas y morales que en el Estado de Nayarit otorguen los servicios señalados en el artículo 54 de ésta Ley.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 58.
 
-Los productos que perciba el Estado se regularán por los contratos o convenios que se elaboren y su importe deberá enterarse en la Recaudación de Rentas correspondiente, en los plazos, términos y condiciones que en los mismos se establezcan o por disposiciones que al respecto señala la Ley de Ingresos del Estado.
+El contribuyente trasladará el impuesto, en forma expresa y por separado, a las personas que reciban los servicios objeto de ésta contribución. Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe hacer a las personas que reciban los servicios de hospedaje, por un monto equivalente al impuesto establecido en éste capítulo.
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 59.
+
+La base para el cálculo de éste impuesto se integra con el valor total de la contraprestación del servicio de hospedaje y en el caso de los tiempos compartidos, por el monto de la contraprestación que hace el usuario del servicio cada vez que haga uso de sus derechos convenidos sobre un bien, parte del mismo o efectúe el pago de cuotas de mantenimiento.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 60.
+
+Los servicios prestados bajo el sistema "todo incluido" por el cual el pago de la contraprestación contemple servicios adicionales al de hospedaje tales como alimentación, transportación y otros similares, considerarán como base gravable únicamente el importe correspondiente al albergue. El contribuyente podrá estimar el importe relativo al servicio de hospedaje dentro del sistema "todo incluido" sin que ningún caso puede ser inferior al 40% del monto total de los servicios comprendidos bajo este sistema, excluyendo las propinas y los impuestos que se trasladen al consumidor.
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 61.
+
+Este impuesto se calculará y liquidará aplicando la tasa que al efecto establezca la Ley de Ingresos del Estado.
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 62.
+
+Los contribuyentes deberán presentar declaración bimestral ante la oficina recaudadora o institución de crédito autorizada por la Secretaría de Finanzas del Estado, a más tardar el día 10 del mes siguiente a aquél en que nace la obligación de presentarlas, utilizando las formas oficiales aprobadas.
+
+El pago será la cantidad que resulte de aplicar la tasa del impuesto sobre el total de los ingresos por la prestación de los servicios a que se refiere este Capítulo, obtenido en el periodo por el que se efectúa la declaración.
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 63.
+
+Están exentos del pago de este impuesto los ingresos que se perciban por los servicios de alojamiento y albergue prestados por:
+
+A) Hospitales
+
+B) Clínicas
+
+C) Asilos
+
+D) Conventos
+
+E) Seminarios
+
+F) Internados.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 64.
+
+La Secretaría de Finanzas del Estado podrá estimar los ingresos por los cuales se deba pagar el impuesto referido a este capítulo en los siguientes casos:
+
+I.- Cuando no presenten sus declaraciones, o no lleven los libros y registros contables referidos en la fracción VI del artículo 65 de esta Ley.
+
+II.- Cuando por los informes que se obtengan se ponga de manifiesto que entre la tributación pagada en la que debió enterarse, exista discrepancia mayor a un 3%.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO UNICO. DE LOS DERECHOS
+
+(REUBICADO [ANTES ARTICULO 53], P.O. 14 DE DICIEMBRE DE 1996)
+
+### CAPITULO UNICO. DE LOS PRODUCTOS DIVERSOS
+
+(REUBICADO [ANTES ARTICULO 57], P.O. 14 DE DICIEMBRE DE 1996)
+
+## TITULO SEGUNDO. DERECHOS
+
+(REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
+
+### CAPITULO UNICO. DE LOS DIVERSOS APROVECHAMIENTOS
+
+(REUBICADO [ANTES ARTICULO 59], P.O. 14 DE DICIEMBRE DE 1996)
+
+###### ARTICULO 66.
+
+Los derechos por la prestación de servicios públicos del Estado, se causarán en el momento en que el sujeto reciba la prestación del servicio o en el momento en que se provoque por parte del Estado, el gasto que deba ser remunerado por aquél, salvo el caso que la disposición que fija el derecho señale cosa distinta.
+
+(REUBICADO [ANTES ARTICULO 54], P.O. 14 DE DICIEMBRE DE 1996)
+
+###### ARTICULO 67.
+
+La dependencia, funcionario o empleado que preste el servicio por el cual se paguen los derechos, procederá a la prestación del mismo, al presentar el interesado el recibo que acredite su pago ante la Oficina Recaudadora respectiva, ningún otro comprobante justificará el pago correspondiente.
+
+(REUBICADO [ANTES ARTICULO 55], P.O. 14 DE DICIEMBRE DE 1996)
+
+###### ARTICULO 68.
+
+El funcionario o empleado público que contravenga lo dispuesto anteriormente, será responsable de su pago.
+
+(REUBICADO [ANTES ARTICULO 56], P.O. 14 DE DICIEMBRE DE 1996)
+
+###### ARTICULO 69.
+
+Los derechos se pagarán de conformidad con las tasas y cuotas que establezca la Ley de Ingresos del Estado y a falta de disposición expresa la autoridad fiscal determinará su monto teniendo en cuenta el costo que para el Estado tenga la prestación del servicio.
+
+(REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
+
+## TITULO TERCERO. PRODUCTOS
+
+(REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
+
+### CAPITULO UNICO. DE LAS PARTICIPACIONES FEDERALES
+
+(REUBICADO [ANTES ARTICULO 60], P.O. 14 DE DICIEMBRE DE 1996)
+
+## TITULO CUARTO. APROVECHAMIENTOS
+
+(REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
+
+### CAPITULO UNICO. DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+
+(REUBICADO [ANTES ARTICULO 62], P.O. 14 DE DICIEMBRE DE 1996)
+
+###### ARTICULO 70.
+
+Quedan comprendidos como productos, los ingreso que obtiene el Estado por actividades que no correspondan al desarrollo de una función propia del Derecho Público, así como por la explotación o aprovechamiento de los bienes que constituyen su patrimonio.
+
+(REUBICADO [ANTES ARTICULO 58], P.O. 14 DE DICIEMBRE DE 1996)
+
+###### ARTICULO 71.
+
+Los productos que perciba el Estado se regularán por los contratos o convenios que se elaboren y su importe deberá enterarse en la Recaudación de Rentas correspondiente, en los plazos, términos y condiciones que en los mismos se establezcan o por disposiciones que al respecto señala la Ley de Ingresos del Estado.
+
+(REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
+
+## TITULO QUINTO. PARTICIPACIONES
+
+(REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
+
+###### ARTICULO 72.
 
 Quedan comprendidas dentro de esta clasificación los ingresos que obtenga el Estado por concepto de:
 
@@ -569,53 +797,47 @@ b) Multas.
 
 c) Fianzas y Depósitos
 
-d)Donaciones
+d) Donaciones
 
-e)Aprovechamientos Diversos
+e) Aprovechamientos Diversos
 
-f)Gastos de Ejecución
+f) Gastos de Ejecución
 
 g) Indemnización por cheques, recibidos de particulares y devueltos por las Instituciones Bancarias.
 
-###### ARTICULO 60.
+(REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
+
+## TITULO SEXTO. INGRESOS EXTRAORDINARIOS
+
+(REUBICADO [ANTES ARTICULO 61], P.O. 14 DE DICIEMBRE DE 1996)
+
+###### ARTICULO 73.
 
 Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Estado, provenientes de su adhesión al Sistema Nacional de Coordinación Fiscal, así como por la realización de diversas actas de acuerdo con lo estipulado en el Convenio de Colaboración Administrativa y sus anexos, celebrado entre el Gobierno del Estado y el Gobierno Federal por conducto de la Secretaría de Hacienda y Crédito Público.
 
 Quedan comprendidos también en este Capítulo, otros Ingresos que el Gobierno del Estado obtengan de la Federación, por concepto de participación, proveniente de otras fuentes que, en su caso se establezca.
 
-###### ARTICULO 61.
+(REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
+
+## TITULO SEPTIMO. (REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
+
+###### ARTICULO 74.
 
 Son Ingresos Extraordinarios aquellos que la Hacienda Pública del Estado perciba cuando las circunstancias especiales coloquen al propio Estado frente a necesidades imprevistas que lo obliguen a efectuar erogaciones extraordinarias.
 
-###### ARTICULO 62.
+(REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
 
-Para ejercer las facultades económico-coactivas las Autoridades se sujetarán a lo que establece el Código Fiscal del Estado.
+###### ARTICULO 75.
 
-###### ARTICULO 63.
+Para ejercer las facultades económico coactivas las Autoridades se sujetarán a lo que establece el Código Fiscal del Estado.
 
-Los sujetos que estimen que se ha afectado su interés o que la resolución de Autoridad alguna le perjudica, podrán interponer los recursos a que se alude el Capítulo V del Título VI, así como los del Título VII del Código Fiscal del Estado.
+(REUBICADO [ANTES ARTICULO 63], P.O. 14 DE DICIEMBRE DE 1996)
+
+###### ARTICULO 76.
+
+Los sujetos que estimen que se ha afectado su interés o que la resolución de Autoridad alguna le perjudica, podrán interponer los recursos a que alude el Capítulo V del Título VI, así como los del Título VII del Código Fiscal del Estado.
 
 TRANSITORIOS:
-
-### CAPITULO UNICO. DE LOS PRODUCTOS DIVERSOS
-
-### CAPITULO UNICO. DE LOS DIVERSOS APROVECHAMIENTOS
-
-## TITULO SEGUNDO. DERECHOS
-
-### CAPITULO UNICO. DE LAS PARTICIPACIONES FEDERALES
-
-## TITULO TERCERO. PRODUCTOS
-
-### CAPITULO UNICO. DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-
-## TITULO CUARTO. APROVECHAMIENTOS
-
-## TITULO QUINTO. PARTICIPACIONES
-
-## TITULO SEXTO. INGRESOS EXTRAORDINARIOS
-
-## TITULO SEPTIMO
 
 ###### ARTICULO PRIMERO.
 
@@ -666,3 +888,17 @@ UNICO.- El presente Decreto surtirá sus efectos a partir del día 1º. de enero
 P.O. 23 DE DICIEMBRE DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial Organo de Gobierno del Estado.
+
+P.O. 14 DE DICIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+> <small>(F. DE E., P.O. 18 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO SEGUNDO.
+
+El importe de lo recaudado por concepto del Impuesto al Hospedaje, se destinará para el fomento al turismo del Estado, entendiéndose como tal de manera enunciativa más no limitativa, la promoción, obras de remodelación, acondicionamiento, embellecimiento, infraestructura y operación de centros turísticos; correspondiendo su administración al fideicomiso que para tal efecto se establezca, éste se integrará por dos representantes del Gobierno del Estado, uno de la Secretaría de Turismo Estatal, y un representante de cada Asociación de Hoteles y Moteles en el Estado; el fideicomiso deberá integrarse en un plazo que no exceda de 120 días y deberá apegarse a las reglas de operación que se emitan y al contrato con la fiduciaria que corresponda.
+
+El patrimonio del fideicomiso, se integrará con la recaudación del Impuesto al Hospedaje, por lo que para su constitución deberá recaudarse por lo menos un bimestre del impuesto referido, para efecto de aportación inicial del fideicomitente.
