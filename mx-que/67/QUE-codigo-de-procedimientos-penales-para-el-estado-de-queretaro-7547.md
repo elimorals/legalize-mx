@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2002-11-01"
+last_updated: "2003-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
+CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2003.
 
-Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
+Ley Publicada en el Periódico Oficial del Estado "La Sombra de Arteaga", el 06 de Julio de 1989.
 
 LIC. MARIANO PALACIOS ALCOCER, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a los habitantes del mismo, sabed que:
 
@@ -137,7 +137,9 @@ El procedimiento de sustitución se sujetará a lo que señala la Ley Orgánica 
 
 I.- Recibir las denuncias y querellas que le presenten en forma verbal o por escrito sobre los hechos que puedan constituir delitos del orden común, debiendo procurar la conciliación entre el ofendido y el imputado, tratándose de delitos perseguibles por querella, previo consentimiento del primero;
 
-II.- Practicar u ordenar la práctica de todos los actos conducentes a la comprobación del cuerpo del delito y a la demostración de la responsabilidad del indiciado;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2003)</small>
+
+II.- Practicar u ordenar la realización de todos los actos conducentes a la comprobación del cuerpo del delito, a la demostración de la responsabilidad del indiciado y a la cuantificación de los daños y perjuicios causados al ofendido;
 
 III.- Solicitar a la autoridad jurisdiccional las medidas precautorias de arraigo o de aseguramiento patrimonial que resulten indispensables para los fines de las diligencias de preparación del ejercicio de la acción penal, así como las órdenes de cateo que procedan;
 
@@ -399,7 +401,13 @@ III.- Los nombres y apellidos del acusado, su sobrenombre si lo tuviere, el luga
 
 IV.- Las consideraciones y los fundamentos legales de la sentencia, y
 
-V.- La condena o absolución que proceda, así como los demás puntos resolutivos correspondientes.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2003)</small>
+
+V.- La condena o absolución que proceda, y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2003)</small>
+
+VI.- En los casos en que así sea procedente, el monto de los daños ocasionados, así como los demás puntos resolutivos correspondientes, siendo materia del incidente respectivo la cuantificación de los perjuicios causados con la conducta ilícita.
 
 ARTICULO 62 (Plazos para pronunciar resoluciones).- Los autos deberán dictarse dentro de los tres días, contados desde aquél en que se haga la promoción, salvo lo que la ley disponga para casos especiales; y las sentencias dentro de veinte días siguientes a la citación para sentencia.
 
@@ -663,7 +671,7 @@ I.- El homicidio culposo, en los supuestos del artículo 76;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-II.- El homicidio, en los supuestos de los artículo (sic) 125 y 126;
+II.- El homicidio, en los supuestos de los artículos 125 y 126;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -923,7 +931,9 @@ ARTICULO 146 (Restitución de derechos del ofendido).- El ofendido o sus legíti
 
 ARTICULO 147 (Aplicabilidad de las reglas de este título).- Las normas contenidas en el presente título serán aplicables a las pruebas que se practiquen en el proceso, así como, en lo conducente, a las que se produzcan en las diligencias de preparación del ejercicio de la acción penal.
 
-ARTICULO 148 (Facultades del Ministerio Público y del Juzgador, en relación con las pruebas).- Durante las diligencias de preparación del ejercicio de la acción penal, el Ministerio Público deberá allegarse los medios de prueba adecuados para demostrar el cuerpo del delito y la responsabilidad del imputado.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2003)</small>
+
+ARTICULO 148 (Facultades del Ministerio Público y del Juzgador, en relación con las pruebas) Durante las diligencias de preparación del ejercicio de la acción penal, el Ministerio Público deberá allegarse los medios de prueba adecuados para demostrar el cuerpo del delito y la responsabilidad del imputado, así como los que acrediten el monto de los daños y perjuicios causados.
 
 Durante el proceso y hasta antes de que se dicte la sentencia definitiva, el Juzgador podrá ordenar el desahogo de los medios de prueba que estime pertinentes en relación con los hechos controvertidos, para formar su convicción. Al ordenar nuevas diligencias probatorias o la ampliación de las ya practicadas, el Juzgador deberá citar a las partes, para que tengan las mismas oportunidades de intervención en la ejecución de dichas diligencias. En ningún caso podrá el Juzgador ordenar la práctica de estas diligencias, para suplir las omisiones en que hubiere incurrido el Ministerio Público en relación con la carga de la prueba. En caso de duda a causa de estas omisiones, el Juzgador deberá absolver al imputado.
 
@@ -1517,7 +1527,9 @@ Si el ofendido o sus legítimos representantes desean formular conclusiones, lo 
 
 Transcurrido el plazo al que se refiere el párrafo anterior sin que el Ministerio Público haya presentado conclusiones, el juez deberá informar al Procurador acerca de esta omisión, para que dicha autoridad formule u ordene la formulación de las conclusiones pertinentes, dentro del plazo de cinco días sin perjuicio de disponer las medidas disciplinarias que correspondan.
 
-ARTICULO 278 (Conclusiones acusatorias).- El Ministerio Público, al formular conclusiones, fijará en proposiciones concretas los hechos punibles que se atribuyen al procesado, expresando los preceptos legales, ejecutorias y doctrinas que considere aplicables, solicitando en forma concreta la aplicación de las sanciones correspondientes, incluyendo la reparación de daños y perjuicios. Estas proposiciones deberán contener los elementos de prueba relativos a la comprobación del cuerpo del delito y los conducentes a establecer la responsabilidad penal.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2003)</small>
+
+ARTICULO 278 (Conclusiones Acusatorias). El Ministerio Público, al formular conclusiones, fijará en proposiciones concretas los hechos punibles que se atribuyen al procesado, expresando los preceptos legales, ejecutorias y doctrinas que considere aplicables, solicitando en forma concreta la aplicación de las sanciones correspondientes incluyendo la reparación de daños y perjuicios. Estas proposiciones deberán contener los elementos de prueba relativos a la comprobación del cuerpo del delito y los conducentes a establecer la responsabilidad penal, así como los que acrediten el monto de los daños y perjuicios causados.
 
 ARTICULO 279 (Modificación de conclusiones).- Las conclusiones del Ministerio Público sólo pueden modificarse por causas supervinientes y en beneficio del acusado, salvo lo dispuesto en el artículo siguiente.
 
@@ -1701,7 +1713,7 @@ ARTICULO 300 I.-(Información para la vigilancia del beneficiado).- Una vez decr
 
 ARTICULO 300 J.- (Sobre la caución).- En los casos de suspensión del procedimiento penal a prueba, es aplicable en lo conducente lo establecido en el capítulo relativo a la libertad provisional bajo caución, respecto al otorgamiento de ésta, obligaciones de quien otorga la garantía, y casos en que se hará efectiva.
 
-> <small>(ADICIONADO P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ## TITULO CUARTO. SUSPENSION Y EXTINCION DEL PROCEDIMIENTO
 
@@ -1725,7 +1737,7 @@ ARTICULO 305 (Reglas generales y condiciones de interposición).- Las resolucion
 
 ARTICULO 306 (Objeto de las impugnaciones).- Las impugnaciones, según el caso, tienen por objeto examinar, si en la resolución recurrida no se aplicó la ley correspondiente o se aplicó inexactamente; si se violaron los principios reguladores de la valoración de la prueba, o si se alteraron los hechos.
 
-> <small>(REFORMADO P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ARTICULO 307 (Sujetos legitimados para impugnar).- Tienen el derecho a interponer el medio de impugnación que proceda, salvo disposición expresa de la ley, el ofendido cuando concluidas las diligencias de preparación del ejercicio de la acción penal, el Procurador General de Justicia del Estado, determine el no ejercicio de la misma; y durante la fase del procedimiento ante el órgano jurisdiccional, cuando el propio Procurador ratifique las conclusiones no acusatorias del Ministerio Público o exista desistimiento de la acción penal; en estas dos últimas hipótesis, aunque no se haya constituido en coadyuvante del Ministerio Público.
 
@@ -1869,7 +1881,7 @@ ARTICULO 320 (Radicación de Recurso).- Recibido el expediente original, el dupl
 
 ###### ARTICULO 321.
 
-(DEROGADO P.O. 19 DE DICIEMBRE DE 1996)
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 1996)
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -1883,7 +1895,7 @@ ARTICULO 325 (Falta de competencia del Juez de Primera Instancia).- Cuando el Ju
 
 ARTICULO 326 (Diligencias para mejor proveer).- Cuando el Tribunal una vez que tenga los autos a la vista para resolver, creyere necesario, para ilustrar su criterio, la práctica de alguna diligencia, podrá decretarla para mejor proveer, con citación de las partes y la desahogarán dentro del término de diez días son sujeción a las reglas establecidas por este Código, para el desahogo de pruebas.
 
-> <small>(REFORMADO P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ARTICULO 327 (Resolución del Recurso de Apelación).- Una vez calificada la admisión y los efectos de la apelación, el Tribunal procederá a pronunciar el fallo correspondiente dentro del plazo de quince días, sin que se exceda el plazo previsto por el artículo 8 del presente Código, haciendo en su caso, la suplencia a la que se refiere el artículo 312 segundo párrafo de este Código.
 
@@ -1903,11 +1915,11 @@ Formulados los alegatos o transcurridos los plazos anteriores, el Tribunal dicta
 
 ARTICULO 338 (Ejecución del Reconocimiento).- Si se declara fundada la solicitud de reconocimiento de inocencia del sentenciado, se informará de esta resolución al Órgano ejecutor de sanciones del Estado, para que sin más trámite ponga en libertad absoluta al sentenciado y haga cesar todos los efectos de la sentencia anulada y procederá conforme al artículo 48 del Código Penal para el Estado.
 
-> <small>(ADICIONADO P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO VII. REVISION
 
-> <small>(ADICIONADO P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ARTICULO 338 A.- (Resoluciones impugnables en revisión).- El recurso de revisión es admisible en contra de:
 
@@ -1917,7 +1929,7 @@ II.- El desistimiento de la acción penal, que se presente en cualquier momento 
 
 III.- Las conclusiones no acusatorias formuladas por el Agente del Ministerio Público y ratificadas por el Procurador General de Justicia del Estado.
 
-> <small>(ADICIONADO P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ARTICULO 338 B.- (Interposición, tramitación y resolución del recurso de revisión, en contra de la determinación de no ejercicio de la acción penal).- El plazo para interponer recurso de revisión en contra de la determinación del no ejercicio de la acción penal dictada por el Procurador General de Justicia del Estado, será de diez días contados a partir de la notificación hecha al ofendido sobre dicha resolución, y se interpondrá por escrito en el que deberán expresarse los motivos de inconformidad, ante el propio Procurador, quien sin más trámite lo admitirá en el efecto ejecutivo.
 
@@ -1929,7 +1941,7 @@ Si éste se declara inadmisible, se devolverán las diligencias al Procurador Ge
 
 En su caso, el juez revisor pronunciará el fallo correspondiente dentro de un plazo de quince días contados a partir de la radicación del recurso, disponiéndose que el Procurador General de Justicia ejercite la acción penal, confirmando su no ejercicio o, en su caso, ordenando al Procurador que se continúe la investigación con el fin de que se recaben elementos suficientes para estar en condiciones de decidir sobre el ejercicio o no ejercicio de la acción penal.
 
-> <small>(ADICIONADO P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ARTICULO 338 C.- (Interposición, tramitación y resolución del recurso de revisión en contra del desistimiento de la acción penal y en contra de las conclusiones no acusatorias confirmadas por el Procurador General de Justicia).- Contra el desistimiento de la acción penal, y contra las conclusiones no acusatorias ratificadas por el Procurador General de Justicia, el ofendido, aunque no se haya constituido en coadyuvante del Ministerio Público, dentro del plazo de diez días, podrá interponer el recurso de revisión.
 
@@ -1943,7 +1955,7 @@ Si el juez revisor revoca el desistimiento de la acción penal, devolverá al ju
 
 Si lo que se revoca son las conclusiones no acusatorias ratificadas por el Procurador General de Justicia, devolverá al juez los autos para el efecto de que le dé vista al Ministerio Público para que formule conclusiones acusatorias dentro del plazo que al efecto se le haya concedido; en caso contrario, deberá decretar el sobreseimiento.
 
-> <small>(ADICIONADO P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ARTICULO 338 D.- (Inimpugnabilidad de las resoluciones que se dicten con motivo del recurso de revisión).- Las determinaciones que dicte el juez revisor para resolver el recurso de revisión no admitirán medio de impugnación alguno.
 
@@ -1971,7 +1983,7 @@ El Juzgador requerido dará un plazo común de tres días a las partes para que 
 
 ARTICULO 350 (Resolución del Tribunal Superior de Justicia).- Cuando conforme al artículo 16 de este Código el conflicto de competencia deba ser resuelto por el Tribunal Superior de Justicia, éste emitirá su resolución dentro del plazo de diez días contados a partir de la fecha en que reciba el o los incidentes; en el caso de que se determine procedente la incompetencia planteada, el Tribunal Superior de Justicia ordenará lo conducente a fin de que el procedimiento sea continuado por el Juez declarado competente.
 
-ARTICULO 351 (Validez de las actuaciones del Juzgador incompetente).- Lo actuado por un Juzgador incompetente será válido. El Juzgador declarado competente que reciba las actuaciones del incompetente, continuará el proceso a partir del último acto realizado por el primero.
+ARTICULO 351 ( Validez de las actuaciones del Juzgador incompetente).- Lo actuado por un Juzgador incompetente será válido. El Juzgador declarado competente que reciba las actuaciones del incompetente, continuará el proceso a partir del último acto realizado por el primero.
 
 ARTICULO 352 (Tramitación por separado).- Los incidentes sobre competencia se tramitarán siempre por separado.
 
@@ -2115,7 +2127,9 @@ ARTICULO 375 (Providencias precautorias).- El actor civil podrá solicitar provi
 
 ARTICULO 376 (Liquidación).- Cuando esté comprobada la existencia de los daños y perjuicios, pero no su monto, el Juzgador deberá condenar en la sentencia a su reparación y ordenar que su liquidación se formule en la vía correspondiente conforme el Código de Procedimientos Civiles para el Estado, ante el juez que se encargue de su ejecución.
 
-ARTICULO 377 (Competencia para la ejecución).- Los jueces civiles serán competentes para conocer de la ejecución de la sentencia dictada por la jurisdicción penal en el incidente de reparación de daños y perjuicios exigibles a terceros.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2003)</small>
+
+ARTICULO 377 (Competencia para la Ejecución). Los jueces civiles serán competentes para conocer de la ejecución de la sentencia dictada por la jurisdicción penal en el incidente de reparación de daños y perjuicios exigibles a terceros, la que deberá contener el monto por el que sea ejecutable.
 
 ARTICULO 378 (Improcedencia).- No procederá el incidente de reparación civil exigible a terceros, cuando el ofendido o sus causahabientes hayan deducido esta acción ante el Juez Civil.
 
@@ -2127,7 +2141,7 @@ II.- Cuando, por haberse dictado sentencia absolutoria penal, el Juzgador se abs
 
 ### CAPITULO VI. NULIDAD DEL PROCEDIMIENTO
 
-> <small>(REFORMADO PARRAFO PRIMERO P.O. 2 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 2 DE ABRIL DE 1999)</small>
 
 ARTICULO 380 (Causas).- Habrá lugar a la nulidad y en su caso, la reposición del procedimiento, por alguna de las causas siguientes:
 
@@ -2312,3 +2326,9 @@ La presente Ley iniciará su vigencia al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+P.O. 3 DE OCTUBRE DE 2003.
+
+Primero.- La presente ley entrará en vigor el día de publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente ley.
