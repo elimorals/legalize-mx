@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-1-88-del-tribunal-pleno-de-la-suprema-corte-de-63575"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1988-01-15"
-last_updated: "1988-07-15"
+last_updated: "1988-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63575&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-01-15"
 
 ACUERDO No. 1/88, DEL TRIBUNAL EN PLENO DEL DIA QUINCE DE ENERO DE MIL NOVECIENTOS OCHENTA Y OCHO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JULIO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JULIO DE 1988.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 15 de enero de 1988.
 
@@ -59,7 +59,9 @@ SEGUNDO.- Cada uno de los Circuitos a que se refiere el Punto Primero comprender
 
 I.- PRIMER CIRCUITO:
 
-1.- Dos Tribunales Colegiados en materia penal, seis Tribunales Colegiados en materia administrativa, cinco Tribunales Colegiados en materia civil, siete Tribunales Colegiados en materia de trabajo y dos Tribunales Unitarios, con residencia en la ciudad de México;
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO NUMERO 6/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 28 DE JULIO DE 1988)</small>
+
+1.- Dos Tribunales Colegiados en Materia Penal, seis Tribunales Colegiados en materia administrativa, cinco Tribunales Colegiados en materia civil, siete Tribunales Colegiados en materia de trabajo y tres Tribunales Unitarios, con residencia en la ciudad de México;
 
 2.- Veintinueve Juzgados de Distrito en el Distrito Federal, con residencia en la ciudad de México.
 
@@ -446,3 +448,7 @@ D.O.F. 15 DE JULIO DE 1988.
 PRIMERO.- Este acuerdo entrará en vigor en la fecha en que inicie sus labores el Juzgado Segundo de Distrito en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre.
 
 SEGUNDO.- Publíquese este propio acuerdo en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación, y hágase del conocimiento de todos los Tribunales Colegiados y Unitarios y de los Juzgados de Distrito en el país, para su conocimiento y cumplimiento.
+
+D.O.F. 28 DE JULIO DE 1988.
+
+UNICO.- Este acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
