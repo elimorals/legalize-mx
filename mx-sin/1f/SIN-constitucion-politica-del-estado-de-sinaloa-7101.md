@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1938-05-03"
+last_updated: "1938-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 1938.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -205,11 +205,11 @@ El Poder Legislativo del Estado, se deposita en una asamblea que se denominará 
 
 El Congreso del Estado se compondrá de representantes electos popularmente cada cuatro años, los que entrarán al ejercicio de su encargo el día primero de diciembre del año de su elección y no podrán ser reelectos para el período inmediato ni con el carácter de Suplentes, cuando sean propietarios.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 1938)</small>
 
 ###### Art. 24.
 
-En cada Distrito Electoral, se eligirá (sic) un Diputado Propietario y su respectivo Suplente. Este cubrirá las faltas de aquel: si son temporales, por mientras duren y si son absolutas, por todo el tiempo necesario para que se verifique la elección popular del nuevo propietario.
+En cada Distrito Electoral se eligirá (sic) un Diputado Propietario y su respectivo Suplente. Este cubrirá las faltas temporales o absolutas de aquél. Las primeras en los casos de licencia o enfermedad del Propietario, hasta la presentación de éste y las segundas hasta terminar el período para el que ambos fueron electos.
 
 ###### Art. 25.
 
@@ -1398,3 +1398,13 @@ Unico.- El presente Decreto surte sus efectos desde el día de su publicación.
 P.O. 3 DE MAYO DE 1938.
 
 Unico.- El presente Decreto surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE MAYO DE 1938.
+
+###### Artículo 1o.
+
+Este Decreto surtirá sus efectos desde el entrante período constitucional.
+
+###### Artículo 2o.
+
+Publíquese en el Periódico Oficial del Estado.
