@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2001-07-28"
+last_updated: "2001-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -1097,13 +1097,17 @@ V. Las acciones para impugnar los dictámenes escalafonarios; y
 
 VI. Las acciones para impugnar las sanciones impuestas por los titulares de las Entidades Públicas que no ameriten cese, en los términos del Art. 25 de esta ley.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
 
 ###### Art. 107.
 
-Prescribirán en 60 días las acciones para pedir la reinstalación en el trabajo o la indemnización que la ley concede, contados a partir del día siguiente en que le sea notificado el cese.
+Prescribirán en 60 días las acciones para pedir la reinstalación en el trabajo, o la indemnización que la ley concede, contando a partir del día siguiente en que le sea notificado el cese.
 
-Al momento de la notificación, la autoridad entregará al servidor público copia de la comunicación y de las actuaciones que se hubieren llevado a cabo en el proceso administrativo que se hubiere substanciado con motivo del cese.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
+
+Al momento de la notificación del cese, la autoridad entregará al servidor público copia de la comunicación y de las actuaciones que se hubieren llevado a cabo en el proceso administrativo que se hubiere substanciado.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
 
 Será improcedente el cese que se efectúe contraviniendo las disposiciones previstas en este artículo, debiendo, en su caso reinstalarse al trabajador entre tanto no se le comunique su cese en la forma establecida en el párrafo anterior.
 
@@ -1293,7 +1297,7 @@ III. Si se estima por el Pleno que no es causa suficiente para que constituya im
 
 IV. En los casos de secretarios y auxiliares de instrucción, el Pleno designará a la persona que deberá de seguir conociendo del negocio.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
 
 ### CAPITULO II. De la comisión de evaluación
 
@@ -1301,15 +1305,25 @@ IV. En los casos de secretarios y auxiliares de instrucción, el Pleno designar�
 
 ###### Art. 128.
 
-El procedimiento ante el Tribunal de Arbitraje y Escalafón se iniciará con la presentación del escrito de demanda ante la Oficialía de Partes, quien la turnará al secretario auxiliar de instrucción a más tardar al siguiente día hábil.
+El procedimiento ante el Tribunal de Arbitraje y Escalafón se iniciará con la presentación del escrito de demanda ante la Oficialía de Partes, quien la turnará al secretario o al auxiliar de instrucción a más tardar al siguiente día hábil.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
 
 El Tribunal de Arbitraje y Escalafón dictará acuerdo admitiendo la demanda si procediere conforme a derecho, o la desechará de plano cuando sea notoriamente frívola o improcedente.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
+
 En el acuerdo de admisión se señalara día y hora para que tenga verificativo la audiencia de conciliación, demanda y excepciones, ofrecimiento y admisión de pruebas; ordenándose se notifique el acuerdo personalmente a las partes y se entregue copia certificada de la demanda a la parte demandada para que produzca contestación en un término de diez días contados a partir del día siguiente de su notificación, con el apercibimiento que de no contestar, se le tendrá por contestada la demanda en sentido afirmativo.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
 
 Cuando el domicilio del demandado se encuentre fuera del lugar en donde radica el Tribunal, el término para la contestación de la demanda se ampliará un día por cada 40 kilómetros de distancia o fracciones que excedan de la mitad. Además se apercibirá al demandado para que señale domicilio para recibir notificaciones en la zona metropolitana de Guadalajara, con el apercibimiento que de no hacerlo las posteriores notificaciones, aún las personales, se harán en los estrados del Tribunal.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
+
 La falta de notificación a alguna de las partes, obliga al Tribunal a señalar de oficio nuevo día y hora para la celebración de la audiencia, salvo que las partes concurran a la misma, o que el actor se desista de las acciones intentadas en contra de quien no hubiere sido notificado.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
 
 Cuando el actor sea el trabajador o sus beneficiarios, el Tribunal en caso de que notare alguna irregularidad en el escrito de demanda o estuviera ejercitando acciones contradictorias, al admitir la demanda le señalará los defectos u omisiones en que haya incurrido y lo prevendrá para que los subsane dentro de un término de tres días.
 
@@ -1393,21 +1407,19 @@ El Tribunal tiene la obligación de proveer a la eficaz e inmediata ejecución d
 
 Cuando se pida la ejecución de un laudo, el Tribunal despachará auto con efectos de mandamiento en forma y autorizará a un Secretario para que, asociado de la parte que obtuvo resolución favorable, se constituya en el domicilio de la parte contraria y la requiera para que cumpla la resolución, apercibiéndola de que, de no hacerlo, se procederá al uso de los medios de apremio.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
 
 ###### Art. 143.
 
-Notificado el auto de ejecución, el condenado deberá darle cumplimiento al laudo dentro de los 30 días siguientes; si no lo hiciere el Tribunal le impondrá sanción por el pago de mil días de salario mínimo de la zona económica de Guadalajara.
+Notificado el auto de ejecución, el condenado deberá dar cumplimiento al laudo dentro de los 30 días siguientes. El Tribunal, para hacer cumplir sus determinaciones, podrá imponer sanciones desde diez veces el salario mínimo hasta por cien veces el salario mínimo general vigente de la zona económica de Guadalajara.
 
-Cuando sea la autoridad quien deba cumplir los resolutivos del laudo, la multa será cubierta por la dependencia o entidad que haya sido condenada. Si no obstante lo anterior la autoridad reitera la negativa de cumplir, el Tribunal resolverá la suspensión en el cargo por un plazo de quince días sin goce de sueldo de los funcionarios que debieron darle cumplimiento.
-
-La suspensión de los titulares de la Dependencia o Entidad pública que se trate, o bien de los servidores públicos que tengan la responsabilidad directa de cumplir el laudo, será decretada de oficio o a petición de parte. Del auto que decrete la suspensión del servidor público se remitirá copia al Congreso del Estado cuando se trate de quienes ejerzan cargos de elección popular y a la contraloría que corresponda, en los demás casos.
+Cuando sea la autoridad quien deba cumplir los resolutivos del laudo, la multa será cubierta por la dependencia o entidad que haya sido condenada. Si no obstante lo anterior, la autoridad reitera la negativa de cumplir, el Tribunal resolverá la suspensión en el cargo por un plazo de quince días sin goce de sueldo de los funcionarios que debieron darle cumplimiento.
 
 La suspensión empezará a partir del día siguiente de su notificación y los actos que se realicen en desacato al resolutivo respectivo serán nulos. El cumplimiento del laudo interrumpe la suspensión.
 
 Si no obstante la sanción prevista en el párrafo segundo y subsecuentes, se persiste en el incumplimiento, la suspensión se repetirá contra los responsables y podrá ampliarse en contra de quienes les sustituyan.
 
-Los magistrados del Tribunal de Arbitraje y Escalafón tendrán la responsabilidad de hacer cumplir los laudos. La negativa de decretar la suspensión temporal de algún servidor público que incurriere en alguna de las causas señaladas en el presente artículo, será motivo para que a dichos magistrados se les aplique la sanción que corresponda en acatamiento a la Ley de Responsabilidades de los Servidores Públicos.
+Los magistrados del Tribunal de Arbitraje y Escalafón tendrán la responsabilidad de hacer cumplir los laudos. La negativa de decretar la suspensión temporal de algún servidor público que incurriere en alguna de las causas señaladas en el presente artículo, será motivo para que a dichos funcionarios se les aplique la sanción que corresponda en acatamiento a la Ley de Responsabilidades de los Servidores Públicos, salvo que se trate de servidores públicos de otros poderes, niveles de gobierno o municipios, en cuyo caso remitirán las constancias de las actuaciones que se hubieren efectuado al servidor o servidores públicos encargados de aplicar la sanción correspondiente.
 
 ###### Art. 144.
 
@@ -1926,3 +1938,7 @@ SEXTO. Para los efectos del artículo 4, de esta Ley, son servidores públicos d
 P.O. 28 DE JULIO DE 2001.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 17 DE NOVIEMBRE DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
