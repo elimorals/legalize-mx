@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1999-02-25"
+last_updated: "1999-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 1999.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -381,9 +381,11 @@ Las atribuciones consignadas en las fracciones que anteceden, con excepción de 
 
 ### CAPITULO III. De las Comisiones
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1999)</small>
+
 ###### Artículo 27.
 
-En la primera sesión que siga a la inicial de una Legislatura, a moción del Presidente y en votación por cédula, la Asamblea deberá elegir comisiones permanentes, para dictaminar los negocios que se propongan al Congreso.
+Durante los primeros diez días de la nueva legislatura, a moción del Presidente, y en votación por cédula, la Asamblea deberá elegir comisiones permanentes, con excepción de la Comisión de Administración que deberá quedar integrada en la primera sesión que siga a la inicial de la legislatura.
 
 ###### Artículo 28.
 
@@ -1938,5 +1940,9 @@ DECRETO QUE REFORMA ART. 44,
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 DECRETO QUE REFORMA ART. 11, P.O. 25 DE FEBRERO DE 1999
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 13 DE MAYO DE 1999
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
