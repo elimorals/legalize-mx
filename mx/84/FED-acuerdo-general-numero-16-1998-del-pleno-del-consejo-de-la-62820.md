@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "2000-12-15"
+last_updated: "2001-03-15"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE MARZO DE 2001.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -131,9 +131,9 @@ I.- PRIMER CIRCUITO:
 
 II.- SEGUNDO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 25/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 16/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE MARZO DE 2001)</small>
 
-1.- Ocho tribunales colegiados especializados: dos en materia penal, dos en materia administrativa, tres en materia civil y uno en materia de trabajo, todos con residencia en la ciudad de Toluca.
+1.- Diez Tribunales Colegiados especializados, dos en materia penal, tres en materia administrativa, cuatro en materia civil y uno en materia de trabajo, todos con residencia en la ciudad de Toluca.
 
 2.- Tres tribunales unitarios: dos con sede en la ciudad de Toluca y uno con residencia en Ciudad Nezahualcóyotl.
 
@@ -615,7 +615,7 @@ Los Juzgados Quinto, Sexto y Séptimo de Distrito en el Estado de Sinaloa, con r
 
 Los Juzgados Octavo, Noveno y Décimo de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Mazatlán, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Concordia, Cosalá, Elota, Rosario, Escuinapa, Mazatlán y San Ignacio.
 
-> <small>(REFORMADO [N. DE. E. ADICIONADO], POR EL PUNTO NOVENO DEL ACUERDO GENERAL 48/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO [N. DE. E. ADICIONADO], POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 48/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
 
 Los Juzgados de Distrito en el Estado de Baja California Sur, con residencia en la ciudad de La Paz, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
@@ -1316,3 +1316,19 @@ D.O.F. 15 DE DICIEMBRE DE 2000.
 PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 15 DE MARZO DE 2001.
+
+ACUERDO GENERAL NUMERO 15/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 15 DE MARZO DE 2001.
+
+ACUERDO GENERAL NUMERO 16/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
