@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1984-01-21"
+last_updated: "1984-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE ENERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE FEBRERO DE 1984.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -211,6 +211,8 @@ Solamente serán obligatorios en los términos que dispongan las leyes relativas
 
 Los individuos que desempeñen algún cargo concejil quedarán exentos, durante el tiempo de sus funciones, del servicio de Guardia Nacional.
 
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+
 ### CAPITULO I.
 
 DEL PODER LEGISLATIVO.
@@ -219,11 +221,19 @@ DEL PODER LEGISLATIVO.
 
 ###### Artículo 20.
 
-La vecindad se pierde por trasladarse a otro punto, levantando la casa o giro establecido en el lugar que se abandonó, con tal que preceda el correspondiente aviso a la autoridad encargada del padrón.
+La vecindad se pierde por:
+
+I. Ausencia legalmente declarada;
+
+II. Ausencia, por más de seis meses, del territorio del Estado; y
+
+III. Manifestación expresa de residir en otro lugar.
+
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 21.
 
-La vecindad no se pierde por ausencia en el desempeño de cargo público de elección popular, de comisión que no tenga el carácter de permanente o la reclamada con motivo del deber de todo mexicano de defender la patria y sus instituciones.
+La vecindad no se pierde por ausencia en el desempeño de cargo público de elección popular, de comisión que tenga el carácter de permanente o la reclamada con motivo del cumplimiento del deber de defender la patria y sus instituciones, siempre que se comunique a la autoridad municipal respectiva, la voluntad expresa de no perderla.
 
 ###### Artículo 22.
 
@@ -621,7 +631,9 @@ V. Calificar la validez de estas elecciones y resolver sobre la renuncia que pre
 
 VI. Calificar la legalidad de las elecciones de los Ayuntamientos. Cuando exista reclamación fundada contra ellas, denunciará los hechos ante el Procurador General de Justicia del Estado;
 
-VII.- Suspender definitivamente, previa formación de proceso, a los miembros de los Ayuntamientos cuando abusen de sus facultades y suspenderlos provisionalmente, hasta por tres meses, por sí o a petición del Ejecutivo, cuando se juzgue indispensable para la práctica de alguna averiguación;
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+VII. Por acuerdo de las dos terceras partes de sus integrantes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a uno o más de sus miembros, por algunas de las causas previstas por las leyes, siempre y cuando sus miembros hayan tenido oportunidad para rendir pruebas y formular alegatos;
 
 VIII. Hacer la división del Estado en Distritos electorales, de acuerdo con el último censo, y fijar la circunscripción y cabecera de ellos;
 
@@ -631,11 +643,17 @@ IX. Conceder licencia temporal para separarse de su cargo al Gobernador y a los 
 
 X. Recibir a los mismos funcionarios la protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado y las leyes que de ambas emanen;
 
-XI. Declarar, cuando se trate de delitos comunes, si hay lugar a formación de causa contra los funcionarios públicos que gocen de fuero constitucional;
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
-XII. Conocer, como jurado de calificación, en las causas de responsabilidad de los mismos, por delitos cometidos en el ejercicio de sus funciones;
+XI. Declarar, en los términos del artículo 124 de esta Constitución, si ha o no lugar a proceder penalmente, contra los servidores públicos que hubieren sido acusados de la comisión de algún delito;
 
-XIII. (DEROGADA, G.O. 13 DE AGOSTO DE 1932)
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+XII. Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el artículo 123 de esta Constitución e instituirse en órgano de acusación, en los juicios políticos que contra éstos se instauren;
+
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+XIII. En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procediere que entraren en funciones los suplentes, por acuerdo de las dos terceras partes de sus integrantes, la Legislatura designará de entre los vecinos el Concejo Municipal que concluirá el período respectivo;
 
 XIV. Fijar anualmente los gastos públicos y decretar las contribuciones con que hayan de ser cubiertos, en vista del Presupuesto que el Ejecutivo presente.
 
@@ -653,7 +671,21 @@ XIX. Proteger la libertad de cultos sin consentir preferencia alguna en favor de
 
 XX. Dar reglas de colonización conforme a las bases que establezca el Congreso General;
 
-XXI. Fijar el territorio que corresponde a los Municipios y por el voto de las dos terceras partes de los Diputados presentes, modificar la extensión de ellos, suprimir alguno o algunos y crear otro nuevo;
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+XXI. Por acuerdo de las dos terceras partes de sus integrantes, oyendo previamente al Ayuntamiento o a los Ayuntamientos interesados y al Gobernador del Estado;
+
+a). Fijar el territorio, límites y extensión que corresponda a cada municipio;
+
+b). Modificar la extensión de los municipios;
+
+c). Suprimir uno o más municipios;
+
+ch). Fusionar dos o más municipios y crear otro nuevo;
+
+d). Crear nuevos municipios; y
+
+e). Resolver las cuestiones que surjan entre los municipios por límites territoriales, competencias o de cualquier otra especie.
 
 XXII. Conceder al Ejecutivo, por un tiempo limitado y por el mismo número de votos, las facultades extraordinarias que necesite para salvar la situación, en casos de invasión, alteración del orden o peligro público;
 
@@ -681,9 +713,9 @@ XXXII. Constituirse en Colegio Electoral y elegir al ciudadano que deba substitu
 
 XXXIII. Cuando falte a la vez un Diputado propietario y el suplente respectivo, la Legislatura convocará a elecciones extraordinarias, siempre que hayan de transcurrir más de seis meses para que las ordinarias se efectúen;
 
-> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 1932)</small>
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
-XXXIV. Señalar las contribuciones que deben formar la Hacienda de los Municipios, procurando sean suficientes a cubrir sus necesidades, examinar y aprobar los Planes de Arbitrios y glosar las cuentas que le presenten los Ayuntamientos, en los términos que fijará una Ley Orgánica;
+XXXIV. Señalar los impuestos, derechos, productos, aprovechamientos, participaciones, contribuciones y demás ingresos fiscales que deban formar la Hacienda de los municipios, y aprobar las leyes de ingresos de los ayuntamientos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 21 DE ENERO DE 1984)</small>
 
@@ -691,7 +723,9 @@ XXXV. Por acuerdo de las dos terceras partes de sus integrantes, designar de ent
 
 XXXVI. Dictar las leyes a que se refiere la fracción VII (párrafo segundo) del artículo 27 de la Constitución General y los incisos (A) y (F) del mismo artículo;
 
-XXXVII. Expedir las leyes sobre el trabajo conforme a las bases establecidas en el título: "Del trabajo y la previsión social;"
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+XXXVII. Revisar las cuentas, actas, inventarios, avalúos, recibos y demás documentos que presenten o se soliciten a los ayuntamientos, en los términos señalados por las leyes respectivas;
 
 XXXVIII. Organizar en el territorio del Estado el sistema penal por Colonias, Penitenciarías o Presidios sobre la base del trabajo como medio de regeneración;
 
@@ -729,7 +763,55 @@ XLV. Formar su Reglamento interior, tomar las providencias necesarias para hacer
 
 XLVI. Nombrar y remover libremente a los empleados y dependientes de su Secretaría; y
 
-XLVII. Expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución a los Poderes del Estado.
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+XLVII. Señalar las bases normativas conforme a las cuales los ayuntamientos elaborarán y aprobarán sus presupuestos de egresos;
+
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+XLVIII. Modificar el nombre de los municipios a solicitud de los ayuntamientos respectivos, cuando previamente éstos lo hayan acordado así, por las dos terceras partes de sus ediles y hayan escuchado la opinión de los agentes municipales y jefes de Manzana;
+
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+XLIX. Crear y suprimir congregaciones; autorizar el traslado de un Ayuntamiento a otra cabecera cuando así lo requiera el interés público y autorizar categorías y denominaciones políticas de los centros de población o sus cambios, en los términos establecidos por las leyes;
+
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+L. Determinar el número de ediles de los ayuntamientos;
+
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+LI. Calificar las causas graves para que los ediles se separen o renuncien a sus cargos; y las faltas temporales cuando excedan de sesenta días, definitivas o indefinidas para llamar, en su caso, a los suplentes, en los términos previstos por las leyes;
+
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+LII. Aprobar o autorizar en su caso a los ayuntamientos, si procede:
+
+a). La contratación de obras y servicios publicos que hagan los ayuntamientos, cuando produzcan obligaciones que excedan la duración del ayuntamiento contratante;
+
+b). La celebración de contratos y de obras públicas cuando su valor exceda del veinte por ciento de la partida presupuestal respectiva;
+
+c). La contratación de empréstitos;
+
+ch). La enajenación, gravamen, transmisión de la posesión o dominio de bienes, participaciones, impuestos, derechos, aprovechamientos, contribuciones o cualquier otro tipo de ingreso fiscal que formen la Hacienda Municipal;
+
+d). La transmisión en forma gratuita o donación de la propiedad, uso o usufructo de los bienes propiedad del municipio;
+
+e). Las concesiones de prestación de servicios públicos que les corresponda a los municipios, sus prórrogas y cancelaciones;
+
+f). La celebración de convenios con la Federación, Estado, personas físicas y morales, y de coordinación con otros municipios.
+
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+LIII. Llevar el registro de la situación patrimonial de los servidores públicos municipales, en los términos establecidos por las leyes respectivas;
+
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+LIV. Nombrar inspectores, interventores o auditores, con el objeto de examinar las funciones, los servicios públicos, la contabilidad y demás actos que realicen los ayuntamientos;
+
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+LV. Expedir las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución, la Federal y las leyes que de ellas emanen a los poderes del Estado y a los municipios de la Entidad.
 
 ###### Artículo 69.
 
@@ -783,9 +865,11 @@ III. Aprobación por la mayoría que, en cada caso, exija la ley.
 
 DE LOS MUNICIPIOS.
 
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+
 ###### Artículo 110.
 
-La base de la división territorial y de la organización política del Estado es el Municipio Libre.
+El municipio libre es la base de la división territorial y de la organización política del Estado. Cada municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
 > <small>(REFORMADO, G.O. 21 DE ENERO DE 1984)</small>
 
@@ -1009,7 +1093,9 @@ Corresponde al Tribunal Superior:
 
 I. Iniciar ante la Legislatura las Leyes y Decretos que tengan por objeto mejorar la Legislación civil, penal y de organización de Tribunales;
 
-II. Conocer como jurado de sentencia de las causas de responsabilidad que hubieren de formarse por delitos oficiales, al Gobernador, a los Diputados y a los miembros de los Ayuntamientos;
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+II. Erigirse en Jurado de Sentencia, conforme a lo dispuesto en el artículo 123 de esta Constitución, para conocer en juicio político, cuando los servidores públicos incurran en actos u omisiones que constituyan perjuicio a los intereses públicos fundamentales y a su correcto despacho;
 
 III. Conocer, en los términos que fije la Ley respectiva, en pleno, de los instructivos de responsabilidad que hayan de formarse a sus miembros, al Procurador General, al Secretario de Gobierno, al Tesorero General del Estado, y a los Jueces de Primera Instancia, hasta resolver si ha lugar o no a formación de causa;
 
@@ -1081,37 +1167,85 @@ Tampoco podrá hacerlas al decreto de convocatoria que expida la Diputación per
 
 ## TITULO SEXTO.
 
-DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS PÚBLICOS.
+DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS.
+
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 122.
 
-Todo funcionario público, cualquiera que sea su categoría, es responsable de los delitos del orden común que cometa durante su encargo, y de los delitos, faltas u omisiones en que incurra en el ejercicio del mismo.
+Todo servidor público, cualquiera que sea su categoría, es responsable de los delitos del orden común que cometa durante su encargo y de las faltas, violaciones u omisiones en que incurra en el ejercicio del mismo.
 
-Para los delitos oficiales se concede acción popular, sin obligación de constituirse en parte.
+El Gobernador del Estado, sólo será responsable de delitos graves, en los que no proceda el beneficio de la libertad provisional.
+
+Se expedirá la Ley Reglamentaria, de conformidad con las siguientes prevenciones:
+
+I. Se impondrán mediante juicio político, sanciones a los servidores públicos que adelante se señalan, cuando incurran en actos u omisiones, que constituyan perjuicio a los intereses públicos fundamentales y a su correcto despacho.
+
+No procede el juicio político por la mera expresión de las ideas;
+
+II. La comisión de delitos por parte de cualquier servidor público, será perseguida y sancionada en los términos de la legislación penal; y
+
+III. Se aplicarán sanciones administrativas, a los servidores públicos, por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de sus empleos, cargos o comisiones.
+
+Los procedimientos para la aplicación de las sanciones mencionadas, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
+
+La Ley determinará los casos y las circunstancias en los que se deba sancionar penalmente por causa del enriquecimiento ilícito a los servidores públicos, señalando las bases para el Registro Patrimonial de éstos.
+
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 123.
 
-Siempre que se trate de algún delito del orden común cometido por algún Diputado, por el Gobernador, por algún Magistrado, por el Procurador General o por el Secretario de Gobierno, la Legislatura, erigida en Jurado, declarará, por los dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador, y por mayoría, cuando se trate de otros funcionarios, si ha lugar o no a formación de causa. En caso negativo no habrá lugar a procedimiento ulterior. En el afirmativo, quedará el acusado, por el mismo hecho, separado de su encargo y sujeto a la acción de los Tribunales comunes. La declaración de haber lugar a formación de causa contra un funcionario de elección popular se requiere desde la fecha en que haya sido declarado electo.
+Podrán ser sujetos de juicio político, los Diputados, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia, el Secretario de Gobierno, el Subsecretario de Gobierno, el Tesorero General del Estado, el Procurador General de Justicia, los Agentes del Ministerio Público, los Directores, Subdirectores y Jefes de Departamento del Poder Ejecutivo, el Magistrado del Tribunal Fiscal del Estado, los Directores, Gerentes o Encargados de Organismos Descentralizados o Desconcentrados, Empresas de Participación Estatal, Sociedades, Asociaciones o Fideicomisos constituidos por el Estado.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+Por lo que hace a los miembros de los Ayuntamientos, se estará a lo dispuesto en sus Leyes respectivas.
+
+Las sanciones consistirán, en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+
+Para la aplicación de las sanciones antes mencionadas, la Legislatura del Estado procederá a la acusación respectiva ante el Pleno del Tribunal Superior de Justicia del Estado, previa declaración de las dos terceras partes del total de los integrantes de la Legislatura, después de haber sustanciado el procedimiento respectivo y con audiencia del inculpado.
+
+Conociendo de la acusación, el Pleno del Tribunal Superior de Justicia erigido en Jurado de Sentencia, aplicará la sanción correspondiente mediante resolución de las dos terceras partes de la totalidad de sus integrantes.
+
+Las declaraciones de la Legislatura y del Tribunal Superior de Justicia son inimpugnables.
+
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 124.
 
-De los delitos oficiales cometidos por el Gobernador, los Diputados, y los miembros de los Ayuntamientos, conocerán: la Legislatura como jurado de acusación y el Tribunal Superior de Justicia como jurado de sentencia. El jurado de acusación tendrá por objeto declarar, por el mismo número de votos de que habla el artículo que procede, si el acusado es o no culpable.- Si la declaración fuere absolutoria, el funcionario continuará en el ejercicio de su cargo.- Si fuere condenatoria, quedará separado inmediatamente de dicho encargo y será puesto a disposición del Tribunal Superior de Justicia.- Este, en Tribual pleno erigido en jurado de sentencia con audiencia del reo, de su defensor y del Procurador General, procederá a aplicar por mayoría absoluta de votos, la pena que la ley designe.- Cuando se trate de algún otro funcionario de los que menciona el artículo anterior, del Tesorero General y de los Jueces de Primera Instancia, el Tribunal en pleno conocerá del instructivo de responsabilidad correspondiente, con audiencia del Procurador General o de quien haga sus veces, hasta declarar por mayoría de votos, si ha lugar o no a formación de causa.- En caso negativo no habrá lugar a ningún procedimiento ulterior.- En el afirmativo, se procederá a suspender provisionalmente al funcionario acusado, quien no disfrutará de sueldo durante la suspensión y será juzgado por una de las Salas del Tribunal en primera instancia, conociendo en segunda la Sala que siga en número.
+Para proceder penalmente contra los Diputados, los Magistrados del Tribunal Superior de Justicia, el Gobernador del Estado, el Secretario de Gobierno, el Subsecretario de Gobierno, el Procurador General de Justicia o los Presidentes Municipales, por la comisión de delitos, durante el tiempo de su encargo, la Legislatura del Estado, por las dos terceras partes de los votos de la totalidad de sus integrantes, declarará si ha lugar a proceder contra el inculpado, en el procedimiento que se siga, se respetarán las garantías de audiencia y legalidad.
 
-Los Jueces de Primera Instancia encargados del ramo penal o mixtos, conocerán con audiencia del Ministerio Público, de los instructivos de responsabilidad que se inicien en contra de los Jueces Municipales y Jueces Auxiliares, y en primera instancia de los procesos respectivos; en segunda conocerán las Salas del Tribunal, según proceda, observándose para la suspensión provisional y privación de sueldo en su caso, lo prevenido en el inciso anterior.
+Si la Legislatura declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la Ley.
+
+Si la resolución de la Legislatura fuese negativa, se suspenderá todo procedimiento ulterior ante la misma por los mismos hechos.
+
+Las declaraciones y resoluciones de la Legislatura, son inimpugnables,
+
+El efecto de la declaración de que ha lugar a proceder contra el inculpado, será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
+
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 125.
 
-Pronunciada la sentencia de responsabilidad por delitos oficiales, no podrá concederse al reo la gracia de indulto.
+En demandas del orden civil que se entablen contra cualquier servidor público, no se requerirá declaración de procedencia.
+
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 126.
 
-La responsabilidad por delitos y faltas oficiales sólo podrá exigirse durante el período en que el funcionario ejerza su encargo y un año después.
+Se aplicarán sanciones consistentes en suspensión, destitución e inhabilitación, así como de carácter económico en los términos que establezca la Ley, a los servidores públicos que incurran en actos u omisiones contrarios a la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben caracterizar al desempeño de sus funciones, empleos, cargos o comisiones.
+
+La Ley determinará las obligaciones de los servidores públicos, procedimientos, sanciones, autoridades competentes y límites de la responsabilidad administrativa de los servidores públicos.
+
+Las sanciones económicas que señale la Ley, deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios causados por sus actos u omisiones, pero no podrán ser mayores a tres tantos de los beneficios obtenidos o los daños y perjuicios causados.
+
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 127.
 
-En demandas del orden civil no hay fuero ni inmunidad para ningún funcionario público.
+La responsabilidad política, sólo podrá exigirse durante el período en que el servidor ejerza su cargo, empleo o comisión y dentro de un año después, y la sentencia se dictará dentro de los seis meses de iniciado el procedimiento.
+
+La responsabilidad por los delitos cometidos en contra de la función pública, prescribirá en tres años.
+
+La responsabilidad administrativa nunca prescribirá en un término menor a tres años.
 
 ## TITULO SEPTIMO.
 
@@ -1225,19 +1359,35 @@ Las leyes fundamentales no necesitan la sanción del Poder Ejecutivo.
 
 PREVENCIONES GENERALES.
 
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+
 ###### Artículo 132.
 
-Los empleos o cargos públicos del Estado, durarán el tiempo señalado por las leyes, y los que los obtengan no tendrán derecho alguno de propiedad para conservarlos.
+Los recursos económicos de que dispongan los gobiernos estatal y municipal, así como sus respectivas administraciones públicas, paraestatales y paramunicipales, se administrarán con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados
+
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios públicos de cualquier naturaleza y la contratación de obra se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatoria, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado y a los municipios las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+Las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado y los municipios y a ellos se sujetarán cuando las licitaciones no sean idóneas.
+
+El manejo de recursos económicos estatales y municipales se sujetará a las bases de este artículo.
+
+Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Sexto de esta Constitución.
+
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 133.
 
-Sólo podrá reunirse en una sola persona dos o más empleos del Estado y del Municipio, o de éstos y de la Federación, previa autorización de la Legislatura o de la Diputación permanente, que la concederá, atendiendo a la conveniencia pública. Quedan exceptuados de tal regla los empleos del ramo de enseñanza, que se sujetarán, sobre el particular, a lo dispuesto por la ley de tal materia.
+Los empleos o cargos públicos del Estado, durarán el tiempo señalado por las leyes, y los que los obtengan no tendrán derecho alguno para conservarlos.
 
-> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
+Sólo podrán reunirse en una sola persona dos o más empleos del Estado y del Municipio, o de éstos y de la Federación, previa autorización de la Legislatura o de la Diputación Permanente, que la concederá atendiendo a la conveniencia pública. No se consideran dentro de esta disposición, las consejerías o representaciones ante cuerpos colegiados de organismos descentralizados, desconcentrados, asociaciones o sociedades, que desempeñe el servidor público por razón de su capacidad. Quedan exceptuados de tal reglamento los empleos del ramo de enseñanza, que se sujetarán, sobre el particular a lo dispuesto por la Ley de la materia.
+
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 134.
 
-Todos los Funcionarios Públicos de elección popular, percibirán por sus servicios la compensación que les asigne la Ley; pero la disposición que la aumente o disminuya, no podrá tener efecto durante el período en que el Funcionario ejerza el cargo.
+Los servidores públicos recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en la Ley de Egresos del Estado o en los presupuestos de las entidades paraestatales o municipales, según corresponda.
+
+La disposición que aumente o disminuya la remuneración que perciben los servidores públicos de elección popular, no podrá tener efecto durante el período en que el funcionario ejerza el cargo, salvo el caso de los incrementos salariales.
 
 ###### Artículo 135.
 
@@ -1303,6 +1453,10 @@ La víspera del día en que deben terminar las Sesiones Ordinarias, la Legislatu
 
 La hacienda del Estado se compone de los edificios públicos del mismo; de las herencias y bienes vacantes que estén dentro de su territorio; de los bienes mostrencos; de los créditos que tenga a su favor; de las rentas que deba percibir y de las contribuciones decretadas por la Legislatura.
 
+> <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 1984)</small>
+
+Sólo los bienes del dominio público de la Federación, del Estado o de los municipios, estarán exentos del pago de los impuestos, derechos, aprovechamiento contribuciones, tasas adicionales y demás gravámenes económicos fiscales sobre la propiedad inmobiliaria, sus fraccionamientos, divisiones, consolidaciones, traslación y mejoras, así como las que tengan por base el cambio del precio del inmueble y, de los servicios públicos que reciban.
+
 ###### Artículo 116.
 
 Las contribuciones serán decretadas en cantidad suficiente para cubrir los gastos públicos, así ordinarios como extraordinarios, y para que el Gobernador pueda cumplir la obligación que le impone la fracción VI del artículo 87.
@@ -1329,6 +1483,8 @@ Todo empleado de hacienda que tuviere manejo de caudales públicos, lo afianzar�
 
 La ley determinará la organización, planta y dotación de las oficinas de hacienda y la manera de recaudar y distribuir los fondos públicos.
 
+> <small>(REFORMADA SU DENOMINACION, G.O. 9 DE FEBRERO DE 1984)</small>
+
 ###### Artículo 81.
 
 La Diputación permanente durará hasta la siguiente reunión ordinaria de la Legislatura.
@@ -1343,9 +1499,9 @@ I. Convocar a la Legislatura a sesiones extraordinarias, en los casos que la mis
 
 II. Llamar a los Diputados suplentes de la misma Diputación, cuando por muerte, renuncia, inhabilidad o licencia por más de dos meses, falte alguno de los propietarios;
 
-> <small>(REFORMADA, G.O. 13 DE DICIEMBRE DE 1947)</small>
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
-III. Otorgar o negar su aprobación a los nombramientos de Magistrados, así como a las solicitudes de licencia de los mismos, que le someta el Gobernador. Ejercer las mismas funciones que la Legislatura en los casos de las fracciones VII, IX y X del artículo 68;
+III. Otorgar o negar su aprobación a los nombramientos de los magistrados, así como a las solicitudes de licencia de los mismos, que le someta el Gobernador. Ejercer las mismas facultades de la Legislatura en los casos de las fracciones IX y X del artículo 68;
 
 IV. Emitir su opinión en todos los asuntos que se presenten en el tiempo de su período y sobre los que quedaren pendientes al clausurarse las sesiones. Cuando se trate de asuntos de la competencia de la Legislatura, se reservarán los dictámenes para que sean discutidos por ésta;
 
@@ -1357,7 +1513,7 @@ VII. Aprobar, a propuesta del Tribunal Superior, el nombramiento de Visitadores 
 
 VIII. Convocar a elecciones extraordinarias, cuando falten, a la vez, un Diputado propietario y el suplente respectivo, y siempre que hayan de transcurrir más de seis meses para que concluya el período;
 
-IX. Resolver todos los asuntos concernientes a las elecciones de funcionarios municipales, oyendo los informes de los Municipios;
+IX. (DEROGADA, G.O. 9 DE FEBRERO DE 1984)
 
 X. Autorizar al Ejecutivo para poner sobre las armas la Guardia Nacional; y
 
@@ -1465,7 +1621,9 @@ XVI. Hacer la designación de Magistrados del Tribunal Superior de Justicia y de
 
 XVII. Nombrar los jueces especiales del Estado Civil y fijar la demarcación en que deban ejercer sus funciones;
 
-XVIII. Otorgar las dispensas matrimoniales para cuya concesión lo faculte la ley, pudiendo delegar esta facultad en los Presidentes Municipales;
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+XVIII. Proponer a la Legislatura, la suspensión o revocación del mandato de uno o más integrantes de un Ayuntamiento o la suspensión o desaparición de uno o más ayuntamientos;
 
 XIX. Proponer a la Legislatura, o en su receso, a la Diputación permanente, la suspensión de los miembros de los Ayuntamientos que abusaren de sus facultades;
 
@@ -1491,21 +1649,21 @@ XXVI. Tomar en caso de invasión exterior o conmoción interior armada, las medi
 
 XXVII. Tener bajo su inmediata dependencia la policía, donde residan los Poderes del Estado;
 
-> <small>(REFORMADA, G.O. 18 DE ENERO DE 1979)</small>
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
 XXVIII. Fomentar, que los recursos naturales sean utilizados en forma racional, estableciendo políticas adecuadas y las normas tendientes a su cuidado, conservación y óptimo aprovechamiento;
 
-> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
-XXIX. Convenir con la Federación, asumir por parte del Estado el ejercicio de las funciones, la ejecución, la operación de obras y la prestación de servicios públicos de aquélla, cuando el desarrollo económico y social lo haga necesario;
+XXIX. Opinar ante la Legislatura sobre la creación, supresión y fusión de municipios;
 
-> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 9 DE FEBRERO DE 1984)</small>
 
-XXX. Convenir con los municipios del Estado, a efecto de que éstos asuman el ejercicio de funciones, la ejecución y operación de obras y la prestación de servicios públicos estatales, cuando el desarrollo económico y social lo haga necesario;
+XXX. Convenir con los municipios para que el Estado se haga cargo de alguna o algunas de las funciones relacionadas con la administración y recaudación de los impuestos, derechos, aprovechamientos, participaciones, contribuciones o cualquier otro tipo de ingresos fiscales que deban recibir los municipios o para la ejecución y operación de obras y la prestación de servicios públicos que deban suministrar los ayuntamientos y convenir para que éstos se hagan cargo de alguna o algunas de las funciones o de la ejecución y operación de obras y la prestación de servicios públicos correspondan al Estado;
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 9 DE FEBRERO DE 1984)</small>
 
-XXXI. Las demás que le concede expresamente esta Constitución y sus leyes reglamentarias.
+XXXI. Las demás que le conceda expresamente esta Constitución.
 
 ###### Artículo 88.
 
@@ -1591,9 +1749,11 @@ La Legislatura que esté en funciones al entrar en vigor la presente Ley, prorro
 
 Es libre, independiente y soberano en su administración y gobierno interiores.
 
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+
 ###### Artículo 3o.
 
-El territorio del Estado se dividirá en Municipios, sin perjuicio de las divisiones que por razones de orden establezcan las leyes orgánicas y reglamentarias de los distintos ramos en la administración. La ley orgánica de administración interior del Estado, fijará el mínimum de la población y los demás requisitos necesarios para erigir nuevos Municipios.
+El territorio del Estado se dividirá en municipios, sin perjuicio de las divisiones que, por razones de orden, establezcan las leyes orgánicas y reglamentarias de los distintos ramos de la administración. La Ley fijará el mínimo de la población y los demás requisitos necesarios para erigir nuevos municipios.
 
 ###### ARTICULO UNICO.
 
@@ -1712,3 +1872,19 @@ G.O. 21 DE ENERO DE 1984.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+G.O. 9 DE FEBRERO DE 1984.
+
+LEY No. 34.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a la misma.
+
+G.O. 9 DE FEBRERO DE 1984.
+
+LEY No. 39.
+
+Artículo Primero.- La presente Ley entrará en vigor al siguiente día de su publicación en la 'Gaceta Oficial' órgano del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales que se opongan a la misma.
