@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1980-08-13"
+last_updated: "1982-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 1982.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -33,821 +33,721 @@ Que el Congreso Constituyente del mismo, ha tenido a bien decretar lo siguiente:
 
 Número 5
 
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL DECRETO No. 62 APROBADO POR LA QUINCUAGESIMA LEGISLATURA DEL ESTADO, PUBLICADO EN P.O. DE 4 DE FEBRERO DE 1982, SE MODIFICA DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO QUE A LA FECHA TENIA DICHO ORDENAMIENTO, POR TAL MOTIVO SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE DICHA FECHA.</small>
+
 El XXV Congreso Constitucional del Estado Libre y Soberano de Tlaxcala, en funciones de Constituyente, a nombre y con la autoridad del pueblo tlaxcalteca, ha tenido a bien expedir la siguiente Constitución Política del Estado Libre y Soberano de Tlaxcala
 
-## TITULO I.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-### CAPITULO I.
+## TITULO I. DEL ESTADO, SU SOBERANIA Y SU
 
-Del Estado, de su Soberanía y forma de Gobierno.
+FORMA DE GOBIERNO
 
-###### Art. 1.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-El Estado de Tlaxcala es parte integrante de los Estados Unidos Mexicanos, y es Libre y Soberano en todo lo concerniente a su régimen interior.
+### CAPITULO I. DEL TERRITORIO DEL ESTADO Y DE LA CAPITAL DEL MISMO
 
-###### Art. 2.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-La Soberanía del Estado reside esencial y originariamente en el Pueblo, y en nombre de éste la ejerce el Poder Público del modo y en los términos que establecen esta Constitución y la Federal.
+###### ARTICULO 1o.
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1978)</small>
+El Estado de Tlaxcala es parte integrante de los Estados Unidos Mexicanos, es Libre y Soberano en lo concerniente a su régimen interior.
 
-Los Partidos Políticos son entidades de interés público. La Ley Reglamentaria determinará las formas específicas de su intervención en el proceso electoral.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1978)</small>
+###### ARTICULO 2o.
 
-Los Partidos Políticos tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
+La soberanía del Estado reside esencial y originariamente en el pueblo y en nombre de éste la ejerce el Poder Público del modo y en los términos que establecen esta Constitución y la Federal.
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1978)</small>
+La soberanía estatal se manifiesta básicamente mediante el establecimiento del orden jurídico de su competencia y la elección y designación de sus propias Autoridades locales en los términos del Pacto Federal.
 
-Los Partidos Políticos Nacionales tendrán derecho a participar en las elecciones Estatales y Municipales.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-###### Art. 3.
+### CAPITULO II. DE LA POBLACION
 
-El Gobierno del Estado es Republicano, Representativo y Popular, teniendo como base de su división territorial y de su organización política y administrativa, el Municipio Libre, de acuerdo con lo preceptuado en la Ley Fundamental.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-### CAPITULO II.
+###### ARTICULO 3o.
 
-Del territorio del Estado y Capital del mismo.
+En el Estado de Tlaxcala sus habitantes gozarán irrestrictamente de las garantías individuales y sociales consignadas en la Constitución Federal y se protegerán los derechos fundamentales que, en ejercicio de su soberanía, consagra esta Constitución.
 
-###### Art. 4.
+Las Leyes del Estado de Tlaxcala tenderán a la realización de la justicia entre sus habitantes y entre éstos y el Estado, procurando que en la integración social todos tengan garantizados, un mínimo de bienestar y oportunidades de desarrollo.
 
-El territorio del Estado es el que le corresponde conforme a la Constitución Federal; y la Capital es la ciudad de Tlaxcala.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-###### Art. 5.
+### CAPITULO I. DEL PODER LEGISLATIVO DEL ESTADO
 
-Son habitantes del Estado todas las personas que estén en su territorio y, gozarán de las garantías que otorga la Constitución General en su Título I, Capítulo I.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-### CAPITULO III.
+###### ARTICULO 4o.
 
-De los habitantes.
+Es objetivo del poder público el integral y constante mejoramiento de los habitantes del Estado, con base en el perfeccionamiento de la democracia política, económica y social.
 
-###### Art. 6.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-Estos están obligados:
+###### ARTICULO 5o.
 
-I. A respetar y cumplir las Leyes cualesquiera que ellas sean, sin que nadie pueda substraerse a su observancia alegando que las ignora, que son injustas o que son contrarias a sus opiniones.
+Las leyes establecerán los derechos de los particulares, garantizarán a éstos su libre ejercicio, fundamentarán el cumplimiento de sus obligaciones y regularán expresamente el ejercicio de las facultades y acatamiento de los deberes de las autoridades.
 
-II. A respetar y obedecer a las autoridades legítimamente constituidas.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-III. A prestar a las mismas el auxilio para el que fueren legalmente requeridos.
+###### ARTICULO 6o.
 
-IV. A contribuir para los gastos públicos de la manera proporcional y equitativa que dispongan las Leyes.
+En el Estado de Tlaxcala, por cuanto a su régimen interior serán Ley Suprema esta Constitución, las leyes y decretos del Congreso del Estado que emanen de ella y todos los convenios y acuerdos de coordinación que celebren las autoridades estatales con las de la Federación y las Municipales, con la aprobación del Congreso.
 
-V. A recibir la educación primaria elemental y militar con arreglo a la Ley de Educación Pública del Estado.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-### CAPITULO IV.
+###### ARTICULO 7o.
 
-De los vecinos.
+El orden jurídico del Estado atendiendo a la naturaleza y alcance de las normas se integra por:
 
-###### Art. 7.
+I.- Esta Constitución.
 
-Son vecinos del Estado, los habitantes que tengan un año de residencia en cualquier lugar de su territorio.
+II.- Leyes, decretos y convenios que de ella emanen.
 
-###### Art. 8.
+III.- Reglamentos.
 
-La vecindad se pierde:
+IV.- Acuerdos.
 
-I. Por dejar de residir habitualmente durante un año en un lugar del territorio.
+V.- Circulares.
 
-II.- Por separación del territorio del Estado, cuando se manifieste el cambio de residencia a la Autoridad Municipal respectiva.
+VI.- Resoluciones concretas.
 
-###### Art. 9.
+VII.- Convenios y acuerdos entre particulares.
 
-La vecindad no se pierde:
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-I. Por ausencia en el desempeño de cargos públicos de elección popular, y por la defensa de la Patria y sus instituciones.
+###### ARTICULO 8o.
 
-II. Por ausencia en virtud de estudios o comisiones científicas o artísticas.
+El Gobierno del Estado es Republicano, Representativo y Popular, teniendo como base de su división territorial y de su organización política y administrativa el Municipio Libre, de acuerdo con lo preceptuado en la Constitución Federal.
 
-III.- Por ausencia con motivo de persecuciones políticas, si el hecho que las origina no constituye un delito.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 1934)</small>
+### CAPITULO II. DE LA INSTALACION, DURACION Y
 
-IV.- Por ausencia en virtud de empleos o Comisiones de la Federación.
+LABORES DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1971)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-###### Art. 10.
+###### ARTICULO 9o.
 
-Los ciudadanos de esta Entidad que hayan cumplido 18 años de edad, están obligados a inscribirse en el Registro Nacional de Electores de su Municipalidad, manifestar la industria, profesión o trabajo a que se dediquen y en la oficina Recaudadora de su jurisdicción, manifestar las propiedades inmuebles que tengan.
+Con base en la Constitución Federal, el Gobierno del Estado y los Municipios promoverán dentro de sus respectivas esferas de competencia, el equilibrio dinámico entre la democracia política y la económica que dé como resultado el establecimiento de la justicia social.
 
-## TITULO II.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-### CAPITULO V.
+###### ARTICULO 10.
 
-De los tlaxcaltecas.
+Los Partidos Políticos son entidades de interés público que tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal; libre, secreto y directo.
 
-Art. 21 (sic). Son tlaxcaltecas:
+Los Partidos Políticos Nacionales tendrán derecho a participar en las elecciones Estatales y Municipales y la Ley reglamentaria determinará las formas específicas de su intervención en el proceso electoral.
 
-I. Los hijos de padres tlaxcaltecas, nacidos dentro o fuera del territorio del Estado.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-II. Los nacidos dentro del territorio del Estado de padres mexicanos o de padres desconocidos.
+###### ARTICULO 11.
 
-Los mexicanos por nacimiento o por naturalización que, siendo vecinos, manifiesten su deseo de ser tlaxcaltecas a la Autoridad Municipal respectiva.
-
-### CAPITULO VI.. De los ciudadanos tlaxcaltecas
-
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1970)</small>
-
-###### Art. 12.
-
-Son ciudadanos del Estado todos los varones y mujeres que teniendo la calidad de tlaxcaltecas, reúnan, además, los siguientes requisitos:
-
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1971)</small>
+Son ciudadanos del Estado todos los varones y las mujeres que teniendo la calidad de tlaxcaltecas, reúnan, además, los siguientes requisitos:
 
 I.- Haber cumplido 18 años de edad, y
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1971)</small>
+II.- Tener un modo honesto de vivir.
 
-II. Tener un modo honesto de vivir.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-###### Art. 13.
+###### ARTICULO 12.
 
 Son prerrogativas del ciudadano tlaxcalteca:
 
-I. Votar en las elecciones populares.
+I.- Votar en las elecciones populares.
 
-II. Poder ser votado para todos los cargos de elección popular y nombrado para cualquier otro empleo o comisión, teniendo las cualidades que la Ley establezca.
+II.- Poder ser votado para todos los cargos de elección popular y nombrado para cualquier otro empleo o comisión, si reúne las cualidades que la Ley establezca.
 
-III. Asociarse para tratar los asuntos políticos del Estado.
+III.- Asociarse para tratar los asuntos políticos del Estado.
 
-IV. Ejercer, con motivo de éstos, el derecho de petición.
+IV.- Ejercer, con motivo de éstos, el derecho de petición.
 
-V. Tomar las armas para la defensa del Estado o sus Instituciones, conforme lo prevenga la Ley.
+V.- Tomar las armas para la defensa del Estado o sus Instituciones, conforme lo prevenga la Ley.
 
-###### Art. 14.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 13.
 
 Son obligaciones del ciudadano tlaxcalteca:
 
-I. Alistarse en la Guardia Nacional.
+I.- Tomar las armas para la defensa del Estado o sus Instituciones, conforme lo prevenga la Ley.
 
-II. Tomar las armas para la defensa del Estado o sus Instituciones, conforme lo prevenga la Ley.
+II.- Inscribirse en el padrón electoral.
 
-III. Inscribirse en los padrones electorales.
+III.- Votar en las elecciones populares de carácter federal, estatal y municipal que le corresponda.
 
-IV. Votar en las elecciones populares en el Distrito electoral que le corresponda, en la forma que prescriban las Leyes.
+IV.- Desempeñar los cargos de elección popular de la Federación o del Estado, y
 
-V. Desempeñar los cargos de elección popular de la Federación o del Estado; y
+V.- Desempeñar los cargos del Ayuntamiento donde resida, las funciones electorales y las de jurado.
 
-VI. Desempeñar los cargos concejiles del Municipio donde resida, las funciones electorales y las del Jurado.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-###### Art. 15.
+## TITULO II. DEL TERRITORIO Y POBLACION COMO ELEMENTOS DEL ESTADO Y AMBITOS DE VALIDEZ DE LA LEY
 
-Los derechos o prerrogativas del ciudadano tlaxcalteca, se suspenden:
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-I. Por falta de cumplimiento, sin causa justificada, de cualesquiera de las obligaciones enumeradas en el artículo anterior. Esta suspensión durará un año y se impondrá además de las otras penas que por el mismo hecho señalare la Ley.
+### CAPITULO III. DE LA INICIATIVA Y FORMACION
 
-II.- Por estar sujeto a un proceso criminal por delito que merezca pena corporal, desde que se provea el auto de formal prisión hasta la sentencia, si es absolutoria; o hasta la extinción de la pena si es condenatoria.
+DE LAS LEYES
 
-III.- Por sentencia que imponga como pena la suspensión.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1971)</small>
+###### ARTICULO 14.
 
-IV. Por dedicarse a la vagancia, a la ebriedad consuetudinaria, a los juegos de azar prohibidos por la Ley, a la drogadicción o al tráfico de drogas enervantes.
+Los derechos y prerrogativas del ciudadano tlaxcalteca se suspenden:
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 1934)</small>
+I.- Por falta de cumplimiento, sin causa justificada, de cualesquiera de las obligaciones enumeradas en el artículo anterior. Esta suspensión durará un año y se impondrá además de las otras penas que por el mismo hecho señalare la Ley.
 
-V.- Los que tengan o hayan tenido casas de prostitución pública o clandestinamente o que vivan o hayan vivido a expensas de una mujer pública.
+II.- Por estar sujeto a un proceso criminal por delito que merezca pena corporal, desde que se provea el auto de formal prisión hasta la sentencia.
 
-###### Art. 16.
+III.- Por sentencia condenatoria hasta la extinción de la pena.
 
-Los derechos de ciudadano tlaxcalteca, se pierden:
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-I.- Por la pérdida de la ciudadanía mexicana.
+###### ARTICULO 15.
 
-II.- Por adquirir la ciudadanía de otro Estado, excepto cuando haya sido concedido a título de honor o recompensa por servicios anteriores.
+Los derechos de ciudadano tlaxcalteca se pierden:
 
-III.- Por sentencia ejecutoriada que así lo declare en calidad de pena impuesta.
+I.- Por adquirir la ciudadanía de otro Estado, excepto cuando haya sido concedida a título de honor o recompensa por servicios anteriores.
 
-###### Art. 17.
+II.- Por la pérdida de la ciudadanía mexicana.
 
-Los derechos de ciudadano suspensos o perdidos, se recobran: en el caso de la fracción I del artículo anterior, por recobrar la ciudadanía mexicana, y en los demás, por haber cumplido la pena, por haber finalizado el término o cesado las causas de suspensión o por rehabilitación.
+.
 
-Art.18. Las leyes determinarán a que Autoridad corresponde declarar la suspensión, pérdida o rehabilitación de los derechos de ciudadano, en qué términos y con qué requisitos ha de dictarse el fallo respectivo y el tiempo que debe durar la suspensión.
+III.- Por sentencia ejecutoria que así lo declare en calidad de pena impuesta.
 
-### CAPITULO UNICO.. De la división del Poder Público
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-###### Art. 19.
+###### ARTICULO 16.
 
-El Poder Público del Estado se divide para su ejercicio, en Legislativo, Ejecutivo y Judicial. Nunca podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un solo individuo.
+Los derechos de ciudadano suspensos o perdidos, se recobrarán: en el caso de la fracción II del artículo anterior, por recuperar la ciudadanía mexicana y, en los demás, por haber cumplido la pena, por haber finalizado el término o cesado las causas de suspensión o por rehabilitación.
 
-### CAPITULO I.. Del Poder Legislativo del Estado
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-###### Art. 20.
+###### ARTICULO 17.
 
-El Poder Legislativo del Estado se deposita en una Asamblea que se denomina "Congreso del Estado de Tlaxcala".
+El Territorio del Estado es el que le corresponde conforme a la Constitución Federal.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-###### Art. 21.
+###### ARTICULO 18.
 
-El Congreso estará integrado por 9 Diputados, electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, y hasta 3 diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas regionales, votadas en una circunscripción plurinominal.
+Las cuestiones que sobre la extensión y límites se presenten se arreglarán o solucionarán en los términos que previene la Constitución Federal.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-###### Art. 22.
+### CAPITULO IV. DE LAS FACULTADES DEL CONGRESO
 
-La elección de los Diputados de minorías, según el principio de representación proporcional y el sistema de listas, deberá sujetarse a lo que en particular disponga la Ley, de conformidad con las siguientes bases:
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-I.- Para obtener la inscripción de sus listas, el Partido Político que lo solicite deberá acreditar que tiene su registro definitivo y que participa con candidatos a Diputados por mayoría relativa en por lo menos tres Distritos uninominales.
+###### ARTICULO 19.
 
-II.- Tendrá derecho a que le sean atribuidos Diputados electos según el principio de representación proporcional todo aquel Partido que:
+La ciudad de Tlaxcala de Xicohténcatl es la Capital del Estado y en ésta residirán los Poderes.
 
-a).- No haya obtenido 2 o más constancias de mayoría.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-b).- Que alcance por lo menos el 1.5% de la votación emitida para el total de las listas.
+### CAPITULO V. DE LA DIPUTACION PERMANENTE
 
-III.- Al Partido que se encuentre dentro de los supuestos señalados en las Fracciones I y II de este artículo, le serán asignados los Diputados de su lista que correspondan de acuerdo al porcentaje de votos obtenidos en la circunscripción.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-La Ley Reglamentaria determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, se seguirá el orden que tuviesen los Candidatos en las listas correspondientes.
+###### ARTICULO 20.
 
-IV.- En caso de que 2 o más Partidos con derecho a participar en la distribución por listas obtuviesen en su conjunto 3 o más constancias de mayoría, sólo será objeto de distribución 1 de las curules que deban asignarse por el principio de proporcionalidad.
+Las Leyes Orgánicas de los Poderes determinarán los casos en que los órganos subsidiarios de las mismas podrán residir fuera de la Capital.
 
-V. Los Diputados de mayoría y los de minoría, siendo representantes del pueblo, tendrán la misma categoría e iguales derechos y obligaciones.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1978)</small>
+### CAPITULO VI. DEL PODER EJECUTIVO
 
-###### Art. 23.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-La demarcación de los 9 Distritos Electorales uninominales, será la que resulte de dividir la población total del Estado, según el último censo, entre tales Distritos. La Ley reglamentaria señalará la demarcación territorial de estos Distritos.
+###### ARTICULO 21.
 
-Por cada Distrito Electoral uninominal se elegirán un Diputado Propietario y un Suplente.
+Los Municipios integrantes del Estado son: Amaxac de Guerrero, Antonio Carvajal, Apizaco, Atlangatepec, Altzayanca, Calpulalpan, Cuapiaxtla, Cuaxomulco, Chiautempan, Domingo Arenas, Españita, Huamantla, Hueyotlipan, Ixtacuixtla, Ixtenco, José María Morelos, Juan Cuamatzi, Lardizábal, Lázaro Cárdenas, Mariano Arista, Miguel Hidalgo, Natívitas, Panotla, San Pablo del Monte, Santa Cruz Tlaxcala, Tenancingo, Teolocholco, Tepeyanco, Tequexquitla, Terrenate, Tetla, Tetlatlahuca, Tlaxcala, Tlaxco, Tocatlán, Totolac, Trinidad Sánchez Santos, Tzompantepec, Xaloztoc, Xaltócan, Xicohténcatl, Xicohtzinco, Yauhquemehcan y Zacatelco.
 
-Para la elección de los Diputados, según el principio de representación proporcional se constituirá una circunscripción electoral plurinominal que corresponderá a la totalidad del territorio del Estado.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
+###### ARTICULO 22.
 
-###### Art. 24.
+Los límites de los Municipios del Estado son los que actualmente existen y los conflictos que surgieren sobre esta materia se resolverán en los términos que dispone esta Constitución.
 
-Para ser Diputado Propietario o suplente se requiere:
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-I.- Ser mexicano por nacimiento y ciudadano tlaxcalteca en pleno ejercicio de sus derechos, con cinco años de residencia consecutivos en el Estado inmediatamente anteriores al día de la elección o uno si fuere nacido en él.
+###### ARTICULO 23.
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 1974)</small>
+La población del Estado la componen los habitantes y los transeúntes.
 
-II.- Tener veintiún años de edad cumplidos el día de la elección.
+Son habitantes quienes radican en su territorio.
 
-III. Saber leer y escribir.
+Son transeúntes las personas que, sin residir habitualmente en el Estado, permanezcan o viajen transitoriamente por su territorio.
 
-IV.- No ser ministro de ningún culto.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-V. No estar en servicio activo en el ejército Federal Guardia Nacional ni tener mando en la Policía o Gendarmería en el Distrito en el que se pretenda su elección, cuando menos noventa días antes de ella.
+###### ARTICULO 24.
 
-VI.- No ser en el Estado Funcionario o alto Empleado de la Federación, Gobernador, Secretario General de Gobierno, Magistrado del Tribunal Superior de Justicia, Procurador de Justicia ni Tesorero General, a menos que se separe de sus funciones noventa días antes de la elección.
+Son tlaxcaltecas:
 
-VII.- No ser Juez ni Secretario de Juzgado de Primera Instancia o Local, Presidente Municipal Constitucional o Interino, Secretario del Ayuntamiento, Recaudador de Rentas, en el Distrito en el que se pretenda su elección, a no ser que se separe de su cargo en los términos prevenidos en la fracción anterior.
+I.- Los nacidos en el territorio del Estado.
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 1936)</small>
+II.- Los mexicanos nacidos fuera del territorio del Estado, de padre o madre tlaxcalteca.
 
-VII.- No ser Juez ni Secretario del Juzgado de Primera Instancia o Local, Presidente Municipal Constitucional o Interino, Secretario del Ayuntamiento, Recaudador de Rentas, en el Distrito en el que se pretenda su elección, a no ser que se separen de su encargo sesenta días antes de ella.
+III.- Los mexicanos por nacimiento o por naturalización, que siendo habitantes del Estado, soliciten y obtengan esta calidad.
 
-Los Diputados Suplentes que no hayan estado en ejercicio, podrán ser electos con el carácter de propietarios para el período inmediato, pero no como Suplentes.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-Los Diputados Propietarios no podrán ser electos con el carácter de Suplentes en el período inmediato.
+###### ARTICULO 25.
 
-###### Art. 25.
+Son deberes y obligaciones de los habitantes, sin distinción alguna:
 
-Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo, y jamás podrán ser reconvenidos por ellas.
+I.- Cumplir las Leyes.
 
-###### Art. 26.
+II.- Obedecer a las Autoridades legalmente constituidas.
 
-El cargo de Diputado es incompatible con cualquiera otra comisión o empleo de la Federación o del Estado, sea o no con sueldo; pero el Congreso o la Diputación Permanente en su caso, podrán conceder licencia a sus miembros, a fin de que desempeñen la comisión o empleos para que hayan sido nombrados. El mismo requisito es necesario para los Diputados suplentes en ejercicio de sus funciones.
+III.- Prestar a las mismas el auxilio para el que fueren legalmente requeridos.
 
-### CAPITULO II.
+IV.- Contribuir a los gastos públicos de la manera proporcional y equitativa que dispongan las leyes.
 
-De la instalación, duración y labores del Congreso.
+V.- Recibir la educación básica, civil y militar, con arreglo a las leyes.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1946)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-###### Art. 27.
+### CAPITULO VII. DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
-El Congreso del Estado se renovará en su totalidad cada tres años y comenzará a funcionar el día 1° de diciembre inmediato posterior a la elección.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1978)</small>
+###### ARTICULO 26.
 
-###### Art. 28.
+Son deberes y obligaciones de los transeúntes cumplir las leyes y obedecer a las Autoridades legalmente constituidas.
 
-Cada presunta Legislatura calificará las elecciones de sus miembros a través de un Colegio Electoral que se integrará con los 2 presuntos diputados que, de acuerdo con los registros de la Comisión Local Electoral, hubieren obtenido el mayor número de votos y por 1 presunto diputado que hubiese resultado electo en la circunscripción plurinominal, con la votación más elevada. Su resolución será definitiva e inatacable.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-###### Art. 29.
+## TITULO III. DEL PODER PUBLICO
 
-Si por cualquier circunstancia no hubiere Comisión Permanente al instalarse el Colegio Electoral, los presuntos Diputados serán instalados por el Depositario del Poder Ejecutivo, para sólo el nombramiento de la Mesa como Colegio Electoral, y se retirará en seguida.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-###### Art. 30.
+### CAPITULO VIII. DEL MINISTERIO PUBLICO Y DE LA ASISTENCIA JURIDICA SOCIAL
 
-El Congreso no puede abrir sus sesiones ni ejercer su encargo, sin la concurrencia de más de la mitad del número total de sus miembros; pero los presentes deberán reunirse los días señalados por la Ley y compeler a los ausentes a que concurran bajo las penas que la misma Ley desige (sic), y en su caso llamar a los respectivos suplentes a fin de que funcionen mientras se presentan los propietarios.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1956)</small>
+###### ARTICULO 27.
 
-###### Art. 31.
+La población del Estado gozará de las garantías que otorgan la Constitución Federal, la del Estado y las leyes que de ambas emanen.
 
-El Congreso tendrá cada año dos periodos ordinarios de sesiones y durarán tres mes (sic) cada uno. El primero se iniciará el día 1° de diciembre y terminará el último de febrero y el segundo comenzará el primero de junio para terminar el último de agosto.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-Fuera de los períodos señalados en el párrafo anterior, el Congreso solo celebrará sesiones extraordinarias cuando para tal objeto sea convocado por el Ejecutivo o por la Diputación Permanente, ocupándose únicamente de los asuntos para los cuales fue convocado.
+###### ARTICULO 28.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DE 1946)</small>
+El carácter de habitantes del Estado se pierde por dejar de residir durante un año dentro de su territorio.
 
-###### Art. 32.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-Es deber de los Diputados en ejercicio, a lo menos una vez al año, visitar en los recesos del Congreso, los pueblos del Distrito que representen para informarse:
+###### ARTICULO 29.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1934)</small>
+El carácter de habitantes no se pierde por ausencia:
 
-I.- Del estado o en que se encuentre la Educación Pública.
+I.- En el desempeño de cargos públicos de elección popular y por la defensa de la patria y sus instituciones.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1934)</small>
+II.- Para realizar estudios o comisiones científicas, o artísticas o
 
-II.- De cómo los Funcionarios y Empleados públicos cumplen con sus respectivas obligaciones.
+III.- Desempeñar empleos o comisiones de la administración pública o como dirigente en organismos nacionales de representación gremial.
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1971)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-III. Del estado en que se encuentren la industria, el comercio, la agricultura, la minería, la ganadería y de todo lo que sea de interés general.
+### CAPITULO IX. DEL PODER JUDICIAL
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1934)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-IV.- De los obstáculos que se opongan al adelantamiento y progreso del Distrito y de las medidas más apropiadas para promover ante quien corresponda los medios para favorecer el desarrollo de todos o algunos de los ramos de la riqueza pública.
+###### ARTICULO 30.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
+El Poder Público del Estado se divide para su ejercicio en Legislativo, Ejecutivo y Judicial. Nunca podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo o Judicial en un solo individuo.
 
-Para que los Diputados puedan cumplir con lo dispuesto en las fracciones anteriores, las Oficinas Públicas les facilitarán todos los datos que pidieren a no ser que conforme a la Ley deban permanecer en secreto.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
+## TITULO IV. DE LOS MUNICIPIOS
 
-Los Diputados, al abrirse el Período de Sesiones Ordinarias siguiente a la visita que hayan hecho a los pueblos que representan, presentarán al Congreso una Memoria que contenga las observaciones que hayan hecho, proponiendo a la vez las medidas que estimen conducentes para llenar el objeto que expresa la fracción IV de este artículo.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1980)</small>
-
-###### Art. 33.
-
-El Segundo Sábado de Diciembre de cada año, el Congreso Local celebrará una Sesión Solemne en la que el Gobernador del Estado, rendirá un informe por escrito en el que se dará a conocer el estado general que guardan los diversos ramos de la Administración Pública. El Presidente del Congreso contestará en términos generales.
-
-###### Art. 34.
-
-Las resoluciones del Congreso tendrán el carácter de Leyes, Decretos o acuerdos. Los acuerdos serán autorizados por los Secretarios. Las Leyes o Decretos se comunicarán al Ejecutivo firmados por el Presidente y los Secretarios, y se promulgarán en esta forma: "El Congreso del Estado Libre y Soberano de Tlaxcala, a nombre del pueblo decreta." (Texto de la Ley o Decreto... ".
-
-## TITULO III.
-
-### CAPITULO III.
-
-De la iniciativa y formación de las leyes.
-
-###### Art. 35.
-
-El derecho de iniciar Leyes o Decretos corresponde.
-
-I. A los Diputados.
-
-II. Al Gobernador del Estado.
-
-III. Al Tribunal Superior de Justicia, en asuntos del Ramo.
-
-IV. A los Ayuntamientos en lo relativo a la Administración Municipal.
-
-###### Art. 36.
-
-Todo proyecto de Ley o Decreto, así como los asuntos en que deba recaer resolución del Congreso, se sujetarán en su tramitación a lo que su Reglamento interior establezca.
-
-###### Art. 37.
-
-Los proyectos o iniciativas adquirirán el carácter de Ley o Decreto, cuando sean aprobados por la mayoría de los Diputados presentes.
-
-###### Art. 38.
-
-El Gobernador deberá desde luego sancionar y mandar publicar las leyes, salvo cuando tenga que objetarlas, en cuyo caso las devolverá al Congreso con las correspondientes observaciones, dentro del perentorio término de ocho días contados desde su recibo; de no hacerlo así, se reputarán aprobadas. Si corriendo este término el Congreso hubiere clausurado sus sesiones, la devolución deberá hacerse el primer día útil en que se reúna.
-
-###### Art. 39.
-
-Toda Ley devuelta por el Ejecutivo, con observaciones, volverá a sujetarse a discusión; y si fuere confirmada por el voto de las dos terceras partes de los Diputados presentes, se remitirá nuevamente a aquél para que sin más trámite la sancione y mande publicar.
-
-###### Art. 40.
-
-Todo proyecto de Ley o Decreto que fuere desechado por el Congreso, no podrán volver a presentarse en el mismo período de sesiones.
-
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1946)</small>
-
-###### Art. 41.
-
-El Ejecutivo no podrá hacer observaciones al Decreto de Convocatoria que expida la Diputación Permanente para sesiones extraordinarias, a los Acuerdos del Congreso y resoluciones que dictare para abrir o cerrar sus sesiones, ni a las que diere en funciones de Colegio Electoral o de Jurado en los casos que determina esta Constitución.
-
-###### Art. 42.
-
-Las Leyes son obligatorias desde el día siguiente al de su publicación, excepto cuando la misma Ley fije el día en que deba comenzar a surtir sus efectos.
-
-### CAPITULO IV.
-
-De las facultades del Congreso.
-
-###### Art. 43.
-
-Son facultades del Congreso:
-
-I. En el orden Federal, las que determinen la Constitución y las Leyes Federales.
-
-II. Expedir todas las Leyes necesarias para la mejor Administración y Gobierno interior del Estado.
-
-III. Fijar la división territorial política, administrativa y Judicial del Estado.
-
-IV. Crear y suprimir Municipios o modificar los límites de éstos.
-
-V. Revocar los acuerdos de los Ayuntamientos cuando sean contrarios a la Constitución Federal o a la del Estado o a cualquiera otra Ley o lesionen los intereses Municipales.
-
-VI. Convocar a elecciones de Ayuntamientos cuando fuere necesario, y resolver las reclamaciones que contra ellas se presenten.
-
-VII. En caso de falta absoluta de un Ayuntamiento, nombrar tres personas que se hagan cargo provisionalmente del Municipio, mientras se hacen las nuevas elecciones y toman posesión de sus cargos los electos, o se resuelve acerca de las reclamaciones presentadas.
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1946)</small>
-
-VIII. Examinar la cuenta general del Estado y de los Municipios y decretar las Leyes de Ingresos y Presupuestos de Egresos del Estado y de las Municipalidades, previa iniciativa del Ejecutivo y de los Ayuntamientos.
-
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1963)</small>
-
-IX. Autorizar a los Presidentes Municipales para celebrar contratos con personas morales y con particulares, sobre asuntos relacionados con la administración pública y aprobar, en su caso esos contratos.
-
-X. Crear y suprimir empleos públicos.
-
-XI. Inspeccionar el funcionamiento de la Contaduría de Glosa.
-
-XII. Facultar al Ejecutivo, con las limitaciones que crea necesarias, para que por sí o por apoderado especial, represente al Estado en los casos que corresponda.
-
-XIII. Autorizar al Ejecutivo, dándole bases para negociar empréstitos sobre el crédito del Estado, aprobarlos y decretar la forma de pago.
-
-XIV. Autorizar al mismo para que celebre contratos con personas morales y con particulares, sobre asuntos relacionados con la Administración Pública y aprobar, en su caso esos contratos.
-
-XV. Aprobar y reprobar los convenios que el Gobernador celebre con los Estados circunvecinos respecto a la (sic) cuestiones de límites, y someter tales convenios a la ratificación del Congreso de la Unión.
-
-XVI. Conceder facultades extraordinarias al Ejecutivo cuando así lo exijan las circunstancias, en alguno o algunos ramos de la Administración Pública, por tiempo ilimitado y con la obligación de dar cuenta del uso que hubiere hecho de ellas.
-
-XVII. Convocar a elecciones ordinarias.
-
-XVIII.- Convocar a elecciones extraordinarias de Diputados cuando por cualquiera circunstancia falten de una manera absoluta el propietario y el suplente.
-
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 1949)</small>
-
-XIX. Convocar a elecciones extraordinarias de Gobernador en los casos previstos en los artículos 53 y 54.
-
-XX. Calificar las elecciones de sus miembros y hacer la declaratoria correspondiente.
-
-XXI. Erigirse en Colegio Electoral para hacer el escrutinio y la declaración respecto a la elección de Gobernador del Estado y Senadores al Congreso de la Unión.
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1946)</small>
-
-XXII.- Nombrar a los Magistrados del Tribunal Superior de Justicia a propuesta que haga el Ejecutivo del Estado.
-
-XXIII. Recibir la protesta de Ley a los Diputados, al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia, a los substitutos y a los empleados que él nombrare.
-
-XXIV. Conceder licencia a sus miembros; al Gobernador cuando tenga que salir fuera del Estado o separarse temporalmente de su cargo; y a los Magistrados cuando su separación sea por más de un mes.
-
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 1949)</small>
-
-XXV. Nombrar Gobernador interino en los casos y términos de los artículos 5°, 53 y 54.
-
-XXVI.- Conocer de las renuncias de los Diputados, del Gobernador y de los Magistrados.
-
-XXVII. Erigir pueblos y colonias, cuando así lo demanden las necesidades de una región.
-
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1963)</small>
-
-XXVIII.- Resolver en definitiva todas las controversias que surjan entre los Municipios de la Entidad.
-
-XXIX.- Conceder amnistía.
-
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1963)</small>
-
-XXX.- Resolver las competencias y dirimir las controversias que puedan suscitarse entre los Poderes Ejecutivo y Judicial.
-
-XXXI. Erigirse en Jurado de Acusación o de Acusación y Sentencia en los casos que previene esta Constitución.
-
-XXXII. Pedir informes al Ejecutivo y al Tribunal Superior de Justicia sobre asuntos de su incumbencia, cuando para el mejor ejercicio de sus funciones lo estimare necesario.
-
-XXXIII. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 1971)
-
-XXXIV. Reahabilitar (sic) en el ejercicio de los derechos de Ciudadano.
-
-XXXV. Conceder carta de ciudadanía tlaxcalteca a los ciudadanos de otros Estados, por servicios importantes que hayan prestado a esta Entidad.
-
-XXXVI. Conceder pensiones y otorgar recompensas.
-
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1963)</small>
-
-XXXVII.- Declarar beneméritos del Estado y otorgar otros títulos honoríficos a sus benefactores y a los que se hayan distinguido por servicios eminentes prestados a la República.
-
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1971)</small>
-
-XXXVIII. Trasladarse y disponer que se trasladen los demás Poderes a algún punto del Estado, fuera de la Capital, cuando las circunstancias lo exijan, bien sea por una conmoción popular, por causa de fuerza mayor o para celebrar actos cívicos en los que deban honrarse a héroes o celebrarse actos conmemorativos, previo decreto del Congreso.
-
-XXXIX. Nombrar y remover libremente a los empleados dependientes de su Secretaría y de la Contaduría General de Glosa.
-
-XL. Nombrar el día anterior al de la clausura de cada período de sesiones ordinarias, la Diputación Permanente que ha de funcionar durante el receso del Congreso.
-
-XLI. (DEROGADA, P.O. 16 DE OCTUBRE DE 1946)
-
-XLII. Formar su Reglamento interior.
-
-XLIII. Las demás que le confiere esta Constitución; y, finalmente, expedir las Leyes necesarias para hacer efectivas las anteriores facultades, así como las que no estén expresamente reservadas a los Poderes de la Unión.
-
-## TITULO IV.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 ### CAPITULO V.
 
 De la Diputación Permanente.
 
-###### Art. 44.
+###### ARTICULO 31.
 
-Durante los recesos del Congreso funcionará una Diputación Permanente compuesta de cinco Diputados, electos en forma y términos que señale el Reglamento interior.
+El Poder Legislativo del Estado se deposita en una Asamblea que se denomina "Congreso del Estado de Tlaxcala".
 
-###### Art. 45.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-Son atribuciones de la Diputación Permanente:
+###### ARTICULO 32.
 
-I. Recibir las solicitudes y demás documentos que se dirijan al Congreso, resolviendo respecto de los asuntos que tengan carácter de urgentes y no ameriten la expedición de una Ley o Decreto.
+El Congreso estará integrado por 9 Diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de Distritos Electorales uninominales, y hasta 6 Diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal; todos ellos tendrán la misma categoría e iguales obligaciones y derechos.
 
-II. Abrir dictamen sobre los asuntos que en las últimas sesiones ordinarias hayan quedado pendientes y sobre los que después se presenten, para dar cuenta al Congreso.
+Por cada Diputado propietario se elegirá un suplente.
 
-III. Acordar por sí o a propuesta del Ejecutivo, la Convocatoria de la Legislatura a sesiones extraordinarias. La Convocatoria señalará el objeto de las sesiones y la fecha en que deban comenzar.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-IV. Recibir los expedientes relativos a las elecciones de Diputados y Gobernador para el sólo efecto de entregarlos a la Junta Preparatoria del Congreso Electoral o a éste.
+###### ARTICULO 33.
 
-V. Instalar la Junta Preparatoria del nuevo Congreso.
+La elección de Diputados por mayoría relativa será directa y la correspondiente a los Diputados según el principio de representación proporcional en una circunscripción plurinominal, de conformidad con la votación que reciban las listas presentadas por los Partidos Políticos en el proceso electoral y, de acuerdo con lo que establezca la Ley de Organizaciones Políticas y Procesos Electorales del Estado.
 
-VI. Recibir la protesta de Ley a los funcionarios que deban prestarla ante el mismo.
+El Partido que obtenga más del cincuenta por ciento de la votación emitida, tendrá derecho a 2 Diputados de representación proporcional y los cuatro restantes se adjudicarán a aquellos partidos que habiendo alcanzado el uno y medio por ciento de la votación total del Estado, obtengan una mayor proporción de votos.
 
-VII. Conceder las licencias a que se refiere la fracción XXIV del artículo 43.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 1949)</small>
+###### ARTICULO 34.
 
-VIII. Designar Gobernador interino en el caso del artículo 52; nombrar Gobernador Provisional en el caso del artículo 53; y convocar desde luego al Congreso a sesiones extraordinarias de acuerdo con las mismas disposiciones.
+La demarcación de los nueve Distritos Electorales Uninominales, será la que resulte de dividir la población total del Estado, según el último censo, entre tales Distritos. La Ley Reglamentaria señalará la demarcación territorial de estos Distritos.
 
-IX. Las demás que le confiere la Ley.
+Por cada Distrito Electoral uninominal se elegirán un Diputado Propietario y un Suplente.
+
+Para la elección de los Diputados, según el principio de representación proporcional se constituirá una circunscripción electoral plurinominal que corresponderá a la totalidad del territorio del Estado.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 35.
+
+Para ser Diputado Propietario o Suplente se requiere:
+
+I.- Ser mexicano por nacimiento y ciudadano tlaxcalteca en pleno ejercicio de sus derechos, con cinco años de residencia consecutiva en el Estado inmediatamente anteriores al día de la elección o uno si fuere nacido en él.
+
+II.- Tener veintiún años de edad cumplidos el día de la elección.
+
+III.- Saber leer y escribir.
+
+IV.- No ser ministro de culto alguno.
+
+V.- No estar en servicio activo en las Fuerzas Armadas, ni tener mando en las corporaciones de Seguridad en el Distrito en el que pretenda su elección.
+
+VI.- No ser funcionario de la Federación en el Estado.
+
+VII.- No ocupar el cargo de Gobernador, Secretario de Gobierno, Secretario del Ejecutivo, Magistrado del Tribunal Superior de Justicia o Procurador de Justicia en el Estado.
+
+VIII.- No ser Juez ni Secretario de Juzgado de Primera Instancia o Local, Presidente Municipal, Secretario del Ayuntamiento, Recaudador de Rentas en el Distrito en el que se pretenda su elección.
+
+En el caso de las Fracciones V, VI, VII y VIII de este artículo, desaparece el impedimento si la persona de que se trata se separa de sus funciones o cargo noventa días antes de la elección.
+
+IX.- No haber sido Diputado propietario o suplente en ejercicio, en el período inmediato anterior a la elección.
+
+Los Diputados suplentes que no hayan estado en ejercicio podrán ser electos con el carácter de propietarios para el período inmediato, pero no como suplentes.
+
+Los Diputados propietarios no podrán ser electos con el carácter de suplentes para el período inmediato.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 36.
+
+Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo y jamás podrán ser reconvenidos por ellas.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 37.
+
+El cargo de Diputado Propietario es incompatible con cualquier otra comisión o empleo de la Federación, Estado o Municipio, sea o no con sueldo; pero el Congreso o la Diputación Permanente en su caso, podrán conceder licencia a sus miembros, a fin de que desempeñen las comisiones o empleos para los que hayan sido nombrados. El mismo requisito es necesario para los Diputados suplentes en ejercicio de las funciones del propietario.
+
+La infracción de esta disposición será castigada con la pérdida del carácter de Diputado.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 ### CAPITULO I.
 
 Del Poder Ejecutivo.
 
-###### Art. 46.
+###### ARTICULO 38.
 
-El Ejercicio del Poder Ejecutivo del Estado se deposita en un solo individuo que se denomina "Gobernador del Estado de Tlaxcala".
+El Congreso se renovará en su totalidad cada tres años y comenzará a funcionar el día 1o. de diciembre inmediato posterior a la elección.
 
-###### Art. 47.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-La elección de Gobernador será popular directa y se hará en los términos que disponga la Ley Electoral.
+###### ARTICULO 39.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1949)</small>
+Cada presunta Legislatura calificará las elecciones de sus miembros a través de un Colegio Electoral que se integrará con los dos presuntos diputados que, de acuerdo con los registros de la Comisión Local Electoral, hubieren obtenido el mayor número de votos, y por un presunto diputado que hubiese resultado electo conforme al principio de representación proporcional. Sus resoluciones serán definitivas e inatacables.
 
-###### Art. 48.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-El Gobernador entrará a ejercer su cargo el día 15 de enero porterior (sic) a la elección y durará en él seis años.
+###### ARTICULO 40.
 
-El ciudadano que haya desempeñado el cargo de Gobernador del Estado, cuyo origen haya sido la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo, podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del Despacho.
+El Colegio Electoral será instalado por la Legislatura saliente. Si por cualquier circunstancia no se integrase la Legislatura para estos efectos será instalado por el Depositario del Poder Ejecutivo.
 
-Nunca podrán ser electos para el período inmediato:
+Tanto la Legislatura, como en su caso, el depositario del Poder Ejecutivo, abandonarán el recinto tan pronto como quede instalada la Mesa Directiva del Colegio Electoral.
 
-a) El ciudadano designado por el Congreso o por la Comisión Permanente, para concluir el periodo, en caso de falta absoluta del constitucional, cualquiera que sea su denominación.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-b) El ciudadano designado por el Congreso o por la Comisión Permanente, que bajo cualquiera denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
+###### ARTICULO 41.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE ABRIL DE 1949)</small>
+El Congreso no puede abrir sesiones ni ejercer su encargo, sin la concurrencia de más de la mitad del número total de sus miembros; pero los Diputados que asistan los días señalados por la Ley deberán compeler a los ausentes para que concurran, apercibiéndolos de las penas que la misma Ley establezca y, en su caso, llamarán a los respectivos suplentes, a fin de que desempeñen las funciones de los propietarios mientras se presentan éstos, o bien, los substituyan en forma definitiva conforme a la Ley.
 
-###### Art. 49.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-Para ser Gobernador Constitucional se requiere:
+###### ARTICULO 42.
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 1949)</small>
+El Congreso realizará dos períodos ordinarios de sesiones anuales que durarán cuatro meses cada uno. El primero se iniciará el día primero de diciembre y terminará el último de marzo y el segundo comenzará el primero de junio y terminará el último de septiembre.
 
-I. Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos y nativo del Estado. Careciendo de esta última calidad, tener una residencia efectiva no menor de cinco años, inmediatamente anteriores al día de la elección.
+Fuera de los períodos señalados en el párrafo anterior, el Congreso sólo celebrará sesiones extraordinarias, cuando para tal objeto sea convocado por la Diputación Permanente, por sí misma o a solicitud del Gobernador, ocupándose únicamente de los asuntos para los cuales fuere convocado.
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 1949)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-II. Tener treinta y cinco años cumplidos el día de la elección.
+###### ARTICULO 43.
 
-III. No ser Ministro de ningún culto.
+Los Diputados deberán cumplir puntualmente sus deberes legislativos, de gestoría y representación, así como los de fiscalización y control del ingreso y gasto públicos, conforme lo determine la Ley Orgánica.
 
-IV. No estar en servicio activo en el Ejército Nacional, ni en las fuerzas del Estado, por lo menos noventa días antes de la elección.
+Las oficinas públicas deberán facilitar el cumplimiento de estas obligaciones.
 
-V. No ser en el Estado, funcionario o alto empleado de la Federación, Secretario General de Gobierno o quien haga sus veces, Magistrado del Tribunal Superior de Justicia, Procurador de Justicia, ni Tesorero General, a menos que se separen de sus funciones noventa días antes de la elección.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 1949)</small>
+###### ARTICULO 44.
 
-VI. No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 48.
+El segundo sábado del mes de diciembre de cada año, el Congreso celebrará una sesión pública y solemne en la que el Gobernador rendirá un informe sobre la situación general que guarden los diversos ramos de la Administración Pública. El Presidente del Congreso contestará el informe en términos generales.
 
-###### Art. 50.
+En el curso del mes de enero de cada año el Presidente del Tribunal Superior de Justicia enviará al Congreso, por escrito, un informe anual sobre la Administración de Justicia.
 
-El Gobernador al tomar posesión de su encargo otorgará la protesta de ley ante el Congreso, y en su receso, ante la Diputación Permanente.
+El quince de enero, correspondiente al año de la transmisión del Poder Ejecutivo, el Gobernador Electo acudirá ante el Congreso a otorgar la protesta prevista en esta Constitución.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-###### Art. 51.
+###### ARTICULO 45.
 
-Sin permiso del Congreso y en su caso de la Diputación Permanente, el Gobernador no podrá separarse del Territorio del Estado, ni del ejercicio de sus funciones por más de noventa y seis horas.
+Las resoluciones del Congreso tendrán el carácter de Leyes, Decretos o Acuerdos. Los Acuerdos serán autorizados por los Secretarios. Las Leyes o Decretos se comunicarán al Ejecutivo firmados por el Presidente y los Secretarios y se promulgarán en esta forma: "El Congreso del Estado Libre y Soberano de Tlaxcala, a nombre del pueblo, Decreta": (Texto de la Ley o Decreto).
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1949)</small>
-
-###### Art. 52.
-
-En caso de falta temporal del Gobernador, el Congreso; si estuviere reunido, o, en su defecto, la Comisión Permanente, designará un Gobernador interino para que funcione durante el tiempo que dure dicha falta, que no podrá ser de más de tres meses.
-
-Cuando la falta del Gobernador sea por más de tres meses y el Congreso no estuviere reunido, la Comisión Permanente convocará a sesiones extraordinarias del Congreso para que éste resuelva sobre la licencia y nombre, en su caso, al Gobernador interino.
-
-Si la falta, de temporal se convirtiere en absoluta, se procederá como dispone el artículo 53.
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1949)</small>
-
-###### Art. 53.
-
-En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos, un Gobernador interino; el mismo Congreso expedirá dentro de los diez días siguientes al de la designación de Gobernador interino, la convocatoria para la elección extraordinaria de Gobernador substituto que deba concluir el período respectivo; debiendo mediar, entre la fecha de la Convocatoria y la que señale para la celebración de las elecciones, un plazo no menor de treinta días ni mayor de tres meses.
-
-Si el Congreso no estuviere en sesiones, la Comisión Permanente nombrará desde luego un Gobernador provisional, y convocará a sesiones extraordinarias al Congreso para que éste, a su vez, designe al Gobernador interino, y expida la Convocatoria a elección extraordinaria en los términos del párrafo anterior.
-
-Cuando la falta de Gobernador ocurriese en los cuatro últimos años del período respectivo, si el Congreso se encontrase en sesiones, se constituirá inmediatamente en Colegio Electoral y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos, un Gobernador substituto que deberá concluir el período.
-
-Si el Congreso no estuviere reunido, la Comisión Permanente nombrará un Gobernador provisional y convocará al Congreso a sesiones extraordinarias para que se erija en Colegio electoral y haga la elección de Gobernador substituto en términos del párrafo anterior.
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1949)</small>
-
-###### Art. 54.
-
-Si al comenzar un período constitucional no se presentase el Gobernador electo, o la elección no estuviere hecha y declarada el quince de enero, cesará, sin embargo, el Gobernador cuyo período hubiere concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador interino, el que designe el Congreso, procediéndose desde luego conforme a lo dispuesto en el artículo anterior.
-
-###### Art. 55.
-
-El cargo de Gobernador sólo es renunciable por causa grave calificada por el Congreso, ante quien se presentará la renuncia.
-
-###### Art. 56.
-
-Para el Despacho de los negocios del Poder Ejecutivo, habrá un funcionario que se denomine "Secretario General de Gobierno", quien debe ser ciudadano mexicano por nacimiento.
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1949)</small>
-
-###### Art. 57.
-
-El Secretario General de Gobierno quedará encargado del despacho en el caso previsto en el artículo 51, sin necesidad de protesta.
-
-###### Art. 58.
-
-El Secretario de General de Gobierno, o a falta de éste el Oficial Mayor de la Secretaría General, autorizará con sus firmas las disposiciones que el Gobernador diere en uso de sus facultades; sin este requisito no serán obedecidas.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 ### CAPITULO II.. De las facultades y obligaciones del Gobernador
 
-###### Art. 59.
+###### ARTICULO 46.
 
-Son facultades y obligaciones del Gobernador:
+La facultad de iniciar leyes y Decretos corresponde:
 
-I. En el orden Federal, las que determinen la Constitución y las Leyes Federales.
+I.- A los Diputados.
 
-II. Promulgar, publicar y ejecutar las Leyes que expida el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia.
+II.- Al Gobernador.
 
-III. Hacer observaciones a las Leyes y a los Decretos, en los términos que establece el artículo 38.
+III.- Al Tribunal Superior de Justicia, en asuntos del ramo.
 
-IV. Iniciar leyes ante el Congreso.
+IV.- A los Ayuntamientos en lo relativo a la Administración Municipal.
 
-V. Nombrar y remover libremente al Secretario de Gobierno, al Tesorero, al Procurador General de Justicia y a todos los demás funcionarios o emplaados (sic) del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las Leyes.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-VI.- Suspender los Munícipes cuando no cumplan con sus deberes, dando cuenta al Congreso o a la Diputación Permanente antes de cuarenta y ocho horas.
+###### ARTICULO 47.
 
-VII. Formar los Reglamentos para el buen despacho de la Administración Pública.
+Todo proyecto de Ley o Decreto, así como los asuntos en que deba recaer resolución del Congreso, se tramitarán conforme a lo establecido en su Ley Orgánica y Disposiciones Reglamentarias.
 
-VIII. Ejecutar o mandar ejecutar las sentencias pronunciadas por los Tribunales y facilitar a éstos lo mismo que al Municipio y demás funcionarios del orden administrativo, los auxilios que necesiten para el ejercicio expedito de sus funciones.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-IX. Pedir a la Diputación Permanente que convoque al Congreso a sesiones extraordinarias; y asistir a la apertura de éstas, exponiendo las razones o causas que hicieron necesaria su convocación.
+###### ARTICULO 48.
 
-X. Celebrar convenios sobre límites con los Estados vecinos, observando el requisito establecido en la fracción XV del artículo 43.
+Los proyectos o iniciativas adquirirán el carácter de Ley o Decreto, cuando sean aprobados por la mayoría de los Diputados presentes.
 
-XI. Pedir y dar informes al Congreso sobre cualquier Ramo de la Administración, y al Tribunal sobre el de Justicia.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-XII. Concurrir al Congreso cuando lo juzgue conveniente para sostener alguna iniciativa que él mismo haya presentado, o enviar en su representación al Secretario General de Gobierno.
+###### ARTICULO 49.
 
-XIII. Decretar la expropiación por causas de utilidad pública, en la forma que determinen las Leyes.
+El Gobernador deberá sancionar los proyectos de Ley o Decreto que le envíe el Congreso y mandar publicarlos, salvo cuando tenga alguna objeción, en cuyo caso los devolverá al Congreso con las correspondientes observaciones, dentro de ocho días contados desde su recibo; de no hacerlo así, se reputarán aprobados. Si corriendo este término el Congreso hubiere clausurado sus sesiones, la devolución deberá hacerse el primer día hábil en que se reúna.
 
-XIV. Imponer gubernativamente, en los casos y modo que determine la Ley, hasta quinientos pesos de multa y hasta quince días de arresto.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1971)</small>
+###### ARTICULO 50.
 
-XV. Conceder indulto de pena ordinaria reducción o conmutación de pena, sin más trámite que el reo demuestre haber observado buena conducta por un año y haber cumplido dos terceras partes de su pena.
+Toda Ley devuelta por el Ejecutivo con observaciones, volverá a sujetarse a discusión, y si fuere confirmada por el voto de las dos terceras partes de los Diputados presentes, se remitirá nuevamente a aquél para que sin más trámites la sancione y mande publicar.
 
-XVI. Suplir el consentimiento paterno para el contrato civil del matrimonio en los casos de irracional disenso.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1951)</small>
+###### ARTICULO 51.
 
-XVII. Rendir el informe por escrito sobre el estado general que guarde la Administración Pública, a que se refiere el artículo 33.
+Todo proyecto de Ley o Decreto que fuere desechado por el Congreso, no podrá volver a presentarse en el mismo período de sesiones.
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1946)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-XVIII.- Presentar al Congreso en los primeros quince días del mes de octubre, los proyectos de Ley de Ingresos y Presupuesto de Egresos que han de regir en el año siguiente.
+###### ARTICULO 52.
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1971)</small>
+El Ejecutivo no podrá hacer observaciones al decreto de convocatoria que expida la Diputación Permanente para sesiones extraordinarias, a los acuerdos del Congreso y resoluciones que dictare para abrir o cerrar sus sesiones, a los que diere en funciones de Colegio Electoral o de Jurado ni a la Ley que regule la estructura y funcionamiento interno del Congreso, en los casos que determina esta Constitución.
 
-XIX. Cuidar de la recaudación e inversión de los caudales del Estado con arreglo a las Leyes y remitir al Congreso Local la cuenta general en los primeros quince días del mes de febrero de cada año.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-XX. Cuidar de la conservación del orden público, disponiendo al efecto de la fuerza armada del Estado y de la del Municipio donde resida habitual o transitoriamente.
+###### ARTICULO 53.
 
-XXI. Establecer y fomentar por todos los medios posibles la Educación Pública en todos los pueblos, haciendas y ranchos del Estado.
+Las Leyes son obligatorias desde el día siguiente al de su publicación, excepto cuando la misma Ley fije el día en que deba comenzar a surtir sus efectos.
 
-XXII. Visitar todos los pueblos del Estado para conocer sus necesidades, remediar sus males y promover sus mejoras.
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1946)</small>
-
-XXIII.- Enviar al Congreso dentro de los diez días siguientes al en que tome posesión de su cargo, las propuestas para integrar el Tribunal Superior de Justicia.
-
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1963)</small>
-
-XXIV.- Expedir Títulos Profesionales a las personas que acrediten haber terminado sus estudios en las Escuelas Oficiales y particulares, de conformidad con los planes y leyes vigentes en la época en que hayan cursado, examinado y aprobado las materias correspondientes.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 ### CAPITULO I.
 
 Del Poder Judicial.
 
-###### Art. 60.
+###### ARTICULO 54.
 
-El Ejercicio del Poder Judicial del Estado se Deposita en un Tribunal Superior de Justicia, Jueces de Primera Instancia, Locales y de Paz.
+Son facultades del Congreso:
 
-###### Art. 61.
+I.- En el orden Federal, las que determine la Constitución y las Leyes Federales.
 
-El Tribunal Superior de Justicia funcionará en Acuerdo Pleno o en Salas, con el número de Magistrados propietarios y suplentes que fije la Ley.
+II.- Expedir las leyes necesarias para la mejor administración y gobierno interior del Estado, así como aquellas cuyos ámbitos de aplicación no sean de la competencia expresa de funcionarios federales.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1946)</small>
+III.- Reformar, abrogar, derogar y adicionar las leyes o decretos vigentes en el Estado, de conformidad a su competencia.
 
-###### Art. 62.
+IV.- Legislar en aquellas materias en que la Constitución Federal prevea facultades que puedan ser ejercidas tanto por las autoridades federales como estatales.
 
-Los Magistrados a propuesta del Ejecutivo, serán nombrados por el Congreso, por mayoría absoluta de votos y durarán en su encargo, seis años contados del 1° de febrero inmediato posterior a la fecha en que tome posesión el Gobernador.
+V.- Iniciar leyes o decretos ante el Congreso de la Unión.
 
-###### Art. 63.
+VI.- Fijar la división territorial política, administrativa y judicial del Estado.
 
-Para ser Magistrado se requiere:
+VII.- Revocar los acuerdos de los Ayuntamientos cuando sean contrarios a la Constitución Federal, a la del Estado, a cualquiera otra Ley o bien lesionen los intereses Municipales.
 
-I. Ser ciudadano Mexicano por nacimiento y en ejercicio de sus derechos civiles y políticos.
+VIII.- Convocar a elecciones de Ayuntamiento cuando fuere necesario, y resolver las reclamaciones que con motivo de ellas se presenten.
 
-II. Ser abogado con título oficial y tener cuando menos cinco años de práctica forense.
+IX.- Autorizar y dar bases al ejecutivo para negociar empréstitos sobre el crédito del Estado, aprobarlos y decretar la forma de pago.
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1971)</small>
+X.- Conocer sobre los conflictos que se presenten respecto de la integración, toma de posesión o del funcionamiento de los Ayuntamientos, emitiendo la resolución que corresponda.
 
-III. Tener treinta y cinco años cumplidos el día en que el Congreso le otorgue su nombramiento y no más de sesenta y cinco años, ser ciudadano tlaxcalteca o estar avecinado (sic) en el Estado de cinco años anteriores y haber observado una conducta pública notoriamente buena.
+XI.- Declarar, en su caso, en la resolución a que se refiere la fracción anterior, la inexistencia o desaparición del Ayuntamiento y nombrar, desde luego, un Concejo que ejercerá el gobierno municipal.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1971)</small>
+En el supuesto de que la declaración de inexistencia o desaparición del Ayuntamiento ocurra durante el primer año del período municipal correspondiente, el Concejo procederá a convocar, dentro de los 15 días siguientes, a elecciones extraordinarias las que deberán verificarse en un término no menor de 30 ni mayor de 90 días subsecuentes. En el caso de que la declaración mencionada ocurra dentro de los dos últimos años del período municipal, el Concejo nombrado lo concluirá.
 
-###### Art. 64.
+XII.- Expedir la Ley de Hacienda y el Código Fiscal.
 
-Para ser Juez de Primera Instancia es necesario ser tlaxcalteca por nacimiento en ejercicio de sus derechos civiles y políticos, abogado con titulo Oficial y acreditar haber cumplido en el ejercicio de su profesión por lo menos cinco años. Para ser Juez Local o Juez de Paz, tener el mismo requisito de ciudadano, saber leer y escribir y tener nociones de Derecho.
+XIII.- Examinar la cuenta general del Estado y de los Municipios y decretar las Leyes de Ingresos y Presupuesto de Egresos del Estado y de los Municipios, previa iniciativa del Ejecutivo y de los Ayuntamientos.
 
-###### Art. 65.
+XIV.- Autorizar a los Presidentes Municipales para celebrar convenios o contratos sobre asuntos relacionados con la administración pública y aprobarlos en su caso.
 
-Corresponde al Tribunal Superior de Justicia:
+XV.- Crear y suprimir empleos públicos.
 
-I. Formar su reglamento interior.
+XVI.- Expedir leyes relativas a la relación del trabajo entre los Poderes del Estado, los Ayuntamientos, los organismos paraestatales y sus trabajadores y del sistema de seguridad social de que deban gozar éstos.
 
-II. Permitir que se proceda criminalmente contra Jueces.
+XVII.- Organizar e inspeccionar el funcionamiento de la Contraloría Mayor del Ingreso y Gasto Públicos.
 
-III. Nombrar y remover a los Jueces de Primera Instancia, Locales y de Paz en los términos que fije la Ley Orgánica respectiva.
+XVIII.- Aprobar o no los convenios que el Gobernador celebre con los Estados circunvecinos, respecto a las cuestiones de límites y someter tales convenios a la ratificación del Congreso de la Unión.
 
-IV. Conocer de los procesos que por delitos oficiales se sigan contra el Gobernador, los Diputados, el Secretario de Gobierno, el Procurador General de Justicia les (sic) Munícipes.
+XIX.- Conceder facultades extraordinarias al Ejecutivo, cuando así lo exijan las circunstancias, en alguno o algunos Ramos de la Administración Pública, por tiempo limitado y con la obligación de dar cuenta del uso que hubiere hecho de ellas.
 
-V. Conceder licencias a los Jueces para que se separen de sus cargos y admitir las renuncias de los mismos.
+XX.- Solicitar al Gobernador la comparecencia del Secretario General del Gobierno, Secretarios del Ejecutivo, Procurador de Justicia, directores o administradores de organismos descentralizados y empresas de participación estatal mayoritaria para que, previa su autorización, informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades.
 
-VI. Conceder licencia a los Magistrados hasta por un mes, y llamar a los suplentes en el orden que corresponda.
+XXI.- Integrar a solicitud de las dos terceras partes de sus miembros comisiones que procedan a la investigación de funcionamiento de organismos descentralizados y empresas de participación estatal mayoritaria haciendo del conocimiento del Ejecutivo los resultados.
 
-VII. Ejercer las demás atribuciones que designe la Ley.
+XXII.- Autorizar al Ejecutivo y a los Ayuntamientos para ejercer actos de dominio sobre los bienes inmuebles pertenecientes al Estado y a los Municipios respectivamente.
 
-###### Art. 66.
+XXIII.- Convocar a elecciones ordinarias.
 
-La Ley Orgánica del Poder Judicial determinará el número de Magistrados y Jueces que deba haber en el Estado, el tiempo que éstos hayan de durar en su encargo, el modo de suplir sus faltas, sus respectivas jurisdicciones y competencias y las facultades y obligaciones de los Magistrados, Jueces y demás empleados del Ramo.
+XXIV.- Convocar a elecciones extraordinarias de Diputados cuando, por cualquiera circunstancia, falten de una manera absoluta el propietario y el suplente.
+
+XXV.- Convocar a elecciones extraordinarias de Gobernador en los casos previstos en esta Constitución.
+
+XXVI.- Calificar las elecciones de sus miembros y hacer la declaratoria correspondiente.
+
+XXVII.- Erigirse en Colegio Electoral para hacer el escrutinio y la declaratoria respecto a la elección de Gobernador y Senadores al Congreso de la Unión.
+
+XXVIII.- Nombrar a los Magistrados del Tribunal Superior de Justicia a propuesta del Ejecutivo.
+
+XXIX.- Recibir la protesta de Ley a los Diputados, al Gobernador, a los Magistrados, a los substitutos y a los empleados que el mismo Congreso nombre.
+
+XXX.- Conceder licencia a sus miembros, al Gobernador, en los términos que dispone esta Constitución y a los Magistrados cuando su separación sea por más de seis meses.
+
+XXXI.- Nombrar Gobernador en los casos y términos previstos en esta Constitución.
+
+XXXII.- Conocer de las renuncias de los Diputados, del Gobernador y de los Magistrados.
+
+XXXIIII.- (sic) Erigir pueblos y colonias, cuando así lo demanden las necesidades.
+
+XXXIV.- Resolver en definitiva las controversias que surjan entre los Municipios de la Entidad y entre éstas y el Ejecutivo.
+
+XXXV.- Conceder amnistía.
+
+XXXVI.- Resolver y dirimir las controversias que puedan suscitarse entre los Poderes Ejecutivo y Judicial.
+
+XXXVII.- Erigirse en Jurado de Acusación o de Acusación y Sentencia en los casos que previene esta Constitución.
+
+XXXVIII.- Pedir informes al Ejecutivo y al Tribunal Superior de Justicia sobre asuntos de su incumbencia, cuando para el mejor ejercicio de sus funciones lo estimare necesario.
+
+XXXIX.- Rehabilitar a los ciudadanos en el ejercicio de sus derechos.
+
+XL.- Conceder carta de ciudadanía tlaxcalteca a los ciudadanos de otros Estados de la República, por servicios importantes que hayan prestado a esta Entidad.
+
+XLI.- Declarar beneméritos del Estado y otorgar otros títulos honoríficos a quienes se hayan distinguido por servicios eminentes.
+
+XLII.- Decretar que se trasladen los Poderes fuera de la Capital, pero dentro del Estado, cuando las circunstancias lo exijan por causa de fuerza mayor o para celebrar actos cívicos.
+
+XLIII.- Nombrar y remover a sus empleados conforme a la Ley.
+
+XLIV.- Nombrar el día anterior al de la clausura de cada período de sesiones ordinarias, la Diputación Permanente que ha de funcionar durante el receso del Congreso.
+
+XLV.- Expedir las Leyes que regulen su estructura y funcionamiento internos.
+
+XLVI.- Recibir los expedientes relativos a las elecciones de Diputados y Gobernador, para el solo efecto de entregarlos a la Junta Preparatoria electoral del Congreso o a éste.
+
+XLVII.- Instalar la Junta Preparatoria del nuevo Congreso.
+
+XLVIII.- Legislar en materia de defensa de los particulares frente a los actos de los funcionarios de la Administración Estatal y Municipal.
+
+XLIX.- Legislar sobre patrimonio de familia.
+
+L.- Expedir las leyes para fijar la extensión máxima de la propiedad rural, en los términos del artículo veintisiete fracción XVII de la Constitución Federal.
+
+LI.- Legislar entre otras materias en el ámbito de su competencia sobre: Educación, Seguridad y Salubridad Públicas, Asentamientos Humanos, Aprovechamiento de recursos naturales, Fomento Agropecuario y Forestal, Pesquero, Industrial, Turístico, Comercial y Minero.
+
+LII.- Legislar sobre estímulos y recompensas a la población, funcionarios y empleados del Estado.
+
+LIII.- Expedir las leyes necesarias para hacer efectivas las anteriores facultades y todas las otras concedidas a los Poderes del Estado.
+
+LIV.- Las demás que le confiere esta Constitución y las Leyes.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 ### CAPITULO II.
 
 Del Ministerio Público.
 
-###### Art. 67.
+###### ARTICULO 55.
 
-Se establece en el Estado la Institución del Ministerio Público, a cuyo cargo está velar por la exacta observancia de las Leyes de interés General. A este fin deberá ejercitar las acciones que correspondan contra los violadores de dichas Leyes, hacer efectivos los derechos concedidos al Estado e intervenir en los juicios que afecten a las personas a quienes la Ley otorgue especial protección.
+Durante los recesos del Congreso funcionará una Diputación Permanente compuesta de cuatro Diputados electos en forma y términos que señale la Ley Orgánica.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1961)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-###### Art. 68.
+###### ARTICULO 56.
 
-Desempeñará la expresada Institución el Procurador General de Justicia, un Subprocurador y los Agentes del Ministerio Público y Subalternos necesarios de acuerdo con la división del Estado para la Administración de Justicia.
+Son atribuciones de la Diputación Permanente:
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1961)</small>
+I.- Recibir las solicitudes y demás documentos que se dirijan al Congreso, resolviendo respecto de los asuntos que tengan carácter de urgentes y no ameriten la expedición de una Ley o Decreto.
 
-###### Art. 69.
+II.- Iniciar el dictamen sobre los asuntos que en las últimas sesiones ordinarias hayan quedado pendientes y sobre los que después se presenten, para dar cuenta al Congreso.
 
-Para ser Procurador General de Justicia en el Estado se requiere:
+III.- Acordar por sí o a propuesta del Ejecutivo, la Convocatoria de la Legislatura a sesiones extraordinarias. La convocatoria señalará el objeto de las sesiones y la fecha en que deban comenzar.
 
-I. Ser mexicano por nacimiento.
+IV.- Recibir la protesta de Ley a los funcionarios que deban prestarla ante el Congreso, cuando éste se encuentre en receso.
 
-II. Estar en pleno goce de sus derechos Civiles y Políticos.
+V.- Conceder las licencias a que se refiere la fracción XXX del artículo 54.
 
-III. Tener cumplidos cuando menos 30 años de edad el día del nombramiento.
+VI.- Designar Gobernador provisional, en los términos de esta Constitución.
 
-IV. Ser abogado con Título Oficial, registrado en la Secretaría General de Gobierno del Estado y contar cuando menos con cinco años de práctica forence (sic).
+VII.- Las demás que le confieran esta Constitución y la Ley.
 
-El Subprocurador, los Agentes del Ministerio Público y Subalternos deberán reunir los requisitos que para el desempeño del cargo le señale la Ley Orgánica de la Institución.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-###### Art. 70.
+###### ARTICULO 57.
 
-Los funcionarios de que trata este Capítulo no tendrán en los juicios en que intervengan ninguna prerrogativa especial; y se sujetarán en todo a las Leyes de Procedimientos.
+El ejercicio del Poder Ejecutivo del Estado se deposita en un solo ciudadano que se denominará "Gobernador del Estado de Tlaxcala" y que residirá en la Capital del Estado.
 
-###### Art. 71.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-La Ley organizará el Ministerio Público, fijará las atribuciones de los funcionarios que de él formen parte, el número de ellos, el tiempo que hayan de durar en sus funciones, quién deba conocer de sus renuncias y licencias y el modo de suplir las faltas.
+###### ARTICULO 58.
 
-## TITULO V.
+La elección de Gobernador será popular, directa y se realizará en los términos que disponga Ley Electoral del Estado.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 59.
+
+El Gobernador entrará a ejercer su cargo el día 15 de enero inmediato posterior a la elección y durará en él seis años.
+
+El ciudadano que haya desempeñado el cargo de Gobernador, cuyo origen haya sido la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo, podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del Despacho.
+
+Nunca podrán ser electos para el período inmediato:
+
+a).- El ciudadano designado por el Congreso o por la Diputación Permanente para concluir el período en caso de falta absoluta del Gobernador, cualquiera que sea su denominación.
+
+b).- El ciudadano designado por el Congreso o por la Diputación Permanente, que bajo cualquiera denominación, supla las faltas temporales del Gobernador en los dos últimos años del período.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+## TITULO V. DE LA ECONOMIA PUBLICA
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 ### CAPITULO UNICO.
 
@@ -855,51 +755,175 @@ De los Municipios.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 1954)</small>
 
-###### Art. 72.
+###### ARTICULO 60.
 
-Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+Para ser Gobernador del Estado se requiere:
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1978)</small>
+I.- Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos y nativo del Estado. Si carece de esta última calidad, deberá tener una residencia efectiva no menor de cinco años, inmediatamente anteriores al día de la elección.
 
-###### Art. 73.
+II.- Tener treinta años cumplidos, cuando menos, el día de la elección.
 
-Los Ayuntamientos se compondrán de Munícipes nombrados cada tres años en elección popular directa, calificada por ellos mismos, en los términos que prescriba la Ley Reglamentaria, tomarán posesión el día 1º. de enero posterior a la elección y no podrán ser reelectos para el periodo inmediato al en que hubieren ejercido su encargo.
+III.- No ser ministro de ningún culto.
 
-En la capital del Estado y en los Municipios cuya población sea de 75,000 o más habitantes, los ayuntamientos serán electos de acuerdo con las fórmulas que establezca la Ley de la materia de conformidad a las siguientes bases:
+IV.- No estar en servicio activo en las fuerzas armadas, ni en las corporaciones de seguridad del Estado, salvo que se separe por lo menos noventa días antes de la elección.
 
-I. El partido político cuya planilla haya obtenido el mayor número de votos, tendrá derecho a que se le acrediten a quienes encabecen la lista como, Presidente Municipal y Síndico del Ayuntamiento, respectivamente.
+V.- No ser funcionario de la Federación en el Estado, Secretario del Gobierno local, Secretario del Ejecutivo o quienes hagan sus veces; Magistrado del Tribunal Superior de Justicia, Procurador General de Justicia u Oficial Mayor, a menos que se separe de sus funciones noventa días antes de la elección.
 
-II. Las regidurías que integren el cabildo, se dividirán entre la votación total emitida para todas las planillas presentadas por los partidos políticos contendientes, a fin de obtener un cociente electoral.
+VI.- No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 59.
 
-La Ley Reglamentaria determinará los procedimientos que se observarán en la asignación de los regidores de representación proporcional.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-###### Art. 74.
+###### ARTICULO 61.
 
-Para ser Munícipes se requiere:
+El Gobernador al tomar posesión de su cargo otorgará ante el Congreso o en su caso, ante la Diputación Permanente la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de la República, la Particular del Estado y las leyes que de una u otra emanen y desempeñar leal y patrióticamente el cargo de Gobernador del Estado de Tlaxcala que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Entidad. Y si así no lo hiciere que el Estado me lo demande".
 
-I. Ser ciudadano tlaxcalteca en ejercicio de sus derechos.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-II. Haber residido en el lugar de su elección cuando menos seis meses anteriores al día de ella.
+###### ARTICULO 62.
 
-III. No tener empleo, cargo o comisión del Estado o del Gobierno Federal.
+Sin permiso del Congreso y, en su caso, de la Diputación Permanente, el Gobernador no podrá separarse del territorio del Estado, ni del ejercicio de sus funciones, por más de siete días.
 
-IV. No estar en servicio activo en el Ejército Federal ni tener mando de fuerzas en el Municipio.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-###### Art. 75.
+###### ARTICULO 63.
 
-Los Municipios tienen personalidad jurídica para todos los efectos legales.
+En caso de falta temporal del Gobernador, el Congreso o en su defecto la Diputación Permanente, dentro de las cuarenta y ocho horas siguientes de que tenga conocimiento de ella designará un Gobernador Provisional, para que funcione durante el tiempo que dure dicha falta, que no podrá ser mayor de seis meses.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1971)</small>
+Si la falta temporal se convierte en absoluta, se procederá como lo disponen los artículos 64 y 68.
 
-###### Art. 76.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-Los ayuntamientos administrarán libremente su hacienda, la cual se formará de las contribuciones que en cantidad suficiente para atender a sus necesidades les señalare la Legislatura, debiendo remitir a ésta sus cuentas, a más tardar treinta días después de terminado el año y en los primeros quince días del mes de diciembre, el proyecto de presupuesto de Egresos de su Municipio.
+###### ARTICULO 64.
 
-Cuando se trate del último año de su período administrativo, formularán sus proyectos de presupuesto de Egresos con el consenso de los presidentes municipales electos para el siguiente período.
+En caso de falta absoluta del Gobernador, ocurrida durante los dos primeros años del período respectivo, si el Congreso se encontrase en sesiones, dentro de las noventa y seis horas siguientes del conocimiento de ésta se constituirá en Colegio Electoral y, concurriendo cuando menos las dos terceras partes del número total de sus miembros nombrará en escrutinio secreto y por mayoría absoluta de votos un Gobernador interino; el mismo Congreso expedirá dentro de los diez días siguientes la convocatoria para la elección extraordinaria de un Gobernador que concluirá el período, debiendo mediar entre la fecha de esta convocatoria y la que señale para la celebración de las elecciones un plazo no menor de treinta ni mayor de noventa días.
 
-###### Art. 77.
+Si el Congreso no estuviere en sesiones, la Comisión Permanente nombrará, dentro de las noventa y seis horas siguientes de que tenga conocimiento, un Gobernador provisional y convocará a sesiones extraordinarias al Congreso, dentro de las cuarenta y ocho horas siguientes para que éste, a su vez, designe Gobernador interino y expida la Convocatoria a elección extraordinaria, en los términos del párrafo anterior.
 
-Las Leyes respectivas determinarán las demás facultades y atribuciones de los Ayuntamientos, el número de ciudadanos que los formen, el número de Municipios y las condiciones necesarias para crearlos, suprimirlos o modificar sus límites.
+Cuando la falta de Gobernador ocurriese en los cuatro últimos años del período respectivo, si el Congreso se encontrare en sesiones, dentro de las noventa y seis horas siguientes del conocimiento, se constituirá un Colegio Electoral y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos, un Gobernador substituto que deberá concluir el período.
+
+Si el Congreso no estuviere reunido, la Diputación Permanente, dentro de las noventa y seis horas siguientes del conocimiento, nombrará un Gobernador provisional y convocará al Congreso dentro de las cuarenta y ocho horas siguientes, a sesiones extraordinarias, para que se erija en Colegio Electoral y elija Gobernador substituto en términos del párrafo anterior.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 65.
+
+Si al comenzar un período constitucional no se presentare el Gobernador electo, o la elección no estuviere hecha y declarada el quince de enero, cesará, sin embargo, el Gobernador cuyo período hubiere concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador interino, el que designe el Congreso, procediéndose inmediatamente conforme a lo dispuesto en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 66.
+
+El cargo de Gobernador sólo es renunciable por causa grave calificada por el Congreso.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 67.
+
+Para el despacho de los asuntos del orden administrativo del Estado, la Administración Pública será centralizada y descentralizada conforme a la Ley Orgánica que distribuirá las facultades que serán competencia de la Secretaría de Gobierno y las Secretarías del Ejecutivo y definirá las bases generales de creación, operación, vigilancia y liquidación de los organismos descentralizados.
+
+Las leyes determinarán las relaciones entre los organismos descentralizados y el Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 68.
+
+El Secretario de Gobierno quedará encargado del despacho durante las ausencias del Gobernador a que aluden los artículos 62 y 63.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 69.
+
+El Secretario de Gobierno, o a falta de éste el Oficial Mayor y el Secretario del Ejecutivo a cuyo ramo corresponda el asunto, firmarán los Reglamentos, Decretos y Acuerdos que el Gobernador diere en uso de sus facultades y sin este requisito no serán obedecidos.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 70.
+
+Son facultades y deberes del Gobernador:
+
+I.- En el orden federal, las que determinen la Constitución y las Leyes Federales.
+
+II.- Sancionar, promulgar, publicar y ejecutar las Leyes o Decretos que expida el Congreso, reglamentando y proveyendo en la esfera administrativa lo necesario a su exacta observancia.
+
+III.- Hacer observaciones a los proyectos de Ley o Decretos en los términos que establece el artículo 49.
+
+IV.- Iniciar Leyes o Decretos ante el Congreso.
+
+V.- Pedir a la Diputación Permanente que convoque al Congreso a sesiones extraordinarias y asistir a la apertura de éstas, exponiendo las razones o causas que hicieron necesaria su Convocatoria.
+
+VI.- Concurrir al Congreso cuando lo juzgue conveniente para sostener alguna iniciativa que él mismo haya presentado o enviar un representante para tales efectos.
+
+VII.- Rendir el informe sobre el estado general que guarda la Administración Pública, a que se refiere el artículo 44.
+
+VIII.- Presentar al Congreso en los primeros quince días del mes de noviembre de cada año, los proyectos de Ley de Ingresos y Presupuesto de Egresos que hayan de regir en el año siguiente.
+
+IX.- Rendir la Cuenta Pública al Congreso.
+
+Esta cuenta comprenderá períodos de cuatro meses y se rendirá durante los primeros quince días de los meses de mayo, septiembre y enero, subsecuentes al período de que se trate.
+
+X.- Enviar al Congreso, dentro de los diez días siguientes a aquel en que tome posesión de su cargo, las propuestas para integrar el Tribunal Superior de Justicia.
+
+XI.- Pedir y dar informes al Congreso sobre cualquier ramo de la Administración y al Poder Judicial sobre el de Justicia.
+
+XII.- Ejecutar o mandar ejecutar las sentencias y resoluciones pronunciadas por los Tribunales y facilitar al Poder Judicial los auxilios que necesiten para el ejercicio expedito de sus funciones.
+
+XIII.- Auxiliar a los Ayuntamientos en el ejercicio de sus funciones.
+
+XIV.- Nombrar y remover libremente al Secretario de Gobierno, Secretarios del Ejecutivo, Oficial Mayor, Procurador General de Justicia y a todos los demás funcionarios o empleados del Estado cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las Leyes.
+
+XV.- Cuidar de la recaudación e inversión de los caudales del Estado, con arreglo a las Leyes.
+
+XVI.- Decretar la expropiación por causa de utilidad pública, en la forma que determinen las Leyes.
+
+XVII.- Imponer gubernativamente las sanciones administrativas que determinen las Leyes y Reglamentos.
+
+XVIII.- Conceder indulto, reducción, conmutación y demás beneficios que en materia de readaptación social de sentenciados establezca la Ley.
+
+XIX.- Velar por la seguridad y orden público, disponiendo al efecto de las corporaciones policíacas del Estado y de las del Municipio donde resida habitual o transitoriamente.
+
+XX.- Promover y fomentar por todos los medios posibles la Educación Pública en el Estado.
+
+XXI.- Promover el desarrollo cultural, artístico, deportivo, científico y tecnológico de la Entidad.
+
+XXII.- Expedir Títulos Profesionales a las personas que acrediten haber terminado sus estudios en las Escuelas Oficiales y Particulares de conformidad con las Leyes.
+
+XXIII.- Pedir dictámenes, en términos de las disposiciones legales sobre la materia, a organismos de la Administración Pública Descentralizados.
+
+XXIV.- Otorgar patentes de Notario, con sujeción a la Ley respectiva.
+
+XXV.- Velar por el libre ejercicio ciudadano del voto.
+
+XXVI.- Desconcentrar las funciones administrativas cuando por razones de interés general lo estime conveniente.
+
+XXVII.- Nombrar apoderados para asuntos administrativos y judiciales que tramiten dentro o fuera del Estado.
+
+XXVIII.- Nombrar representantes fuera del Estado para la gestión de los negocios del mismo.
+
+XXIX.- Promover el desarrollo económico, social y político del Estado buscando siempre que sea compartido y equilibrado entre los Centros Urbanos y los Rurales.
+
+XXX.- Solicitar la protección de los Poderes de la Unión, de conformidad con el artículo 122 de la Constitución General de la República.
+
+XXXI.- Conceder los estímulos que considere convenientes a las industrias y explotaciones agrícolas, ganaderas y pesqueras que se establezcan en el Estado, de conformidad con lo que dispongan las Leyes.
+
+XXXII.- Celebrar en su carácter de representante del Estado los convenios y contratos administrativos que fueren favorables o necesarios en los diversos ramos de la Administración.
+
+XXXIII.- Propiciar en el Estado Patronatos para que los ciudadanos participen como Coadyuvantes de la Administración Pública en actividades de interés social.
+
+XXXIV.- Representar al Estado en las comisiones federales y en las comisiones interestatales regionales.
+
+XXXV.- Ejercer actos de dominio sobre los bienes propiedad del Estado, con autorización del Congreso tratándose de inmuebles.
+
+XXXVI.- Elaborar, efectuar y revisar periódicamente los planes de desarrollo del Estado, así como los parciales y especiales derivados de aquéllos.
+
+XXXVII.- Celebrar convenios con el Ejecutivo Federal y con los Ayuntamientos de la Entidad, de los que se deriven la ejecución de obras, la prestación de servicios o el mejoramiento común de la hacienda pública, así como el cumplimiento de cualquier propósito de beneficio colectivo.
+
+XXXVIII.- Ejercitar todos los derechos que asigna a la nación el Artículo 27 de la Constitución Federal, siempre que por el texto mismo de este artículo o por las disposiciones federales que de él se deriven no deban considerarse, como reservados al Gobierno Federal o concedidos a los cuerpos Municipales.
+
+XXXIX.- Celebrar convenios con los Estados circunvecinos sobre cuestiones de límites, sometiéndolos a la aprobación del Congreso de la Unión.
+
+XL.- Las demás que señalen las Leyes.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 ### CAPITULO UNICO.
 
@@ -907,173 +931,445 @@ De la Hacienda Pública del Estado.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1951)</small>
 
-###### Art. 78.
+###### ARTICULO 71.
 
-La Hacienda Pública del Estado se formará:
+Se establece la Institución del Ministerio Público, que en representación jurídica de la sociedad velará por el cumplimiento de las leyes. La Ley Orgánica del Ministerio Público establecerá su organización y atribuciones.
 
-I. Del producto de los impuestos que decrete el Congreso.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-II. Del producto de los derechos que se establezcan para cubrir los costos administrativos de servicios que los particulares demanden.
+###### ARTICULO 72.
 
-III.- Del producto de la enajenación o explotación de los bienes que, según las leyes, pertenezcan al Estado.
+El Ministerio Público deberá ejercitar las acciones que correspondan contra los infractores de las Leyes, hacer efectivos los derechos concedidos al Estado e intervenir en los juicios que afectan a las personas a quienes la Ley otorgue especial protección.
 
-IV. Del producto de los aprovechamientos que pertenezcan al Estado, en forma de multas, rezagos, reintegros, donaciones etc., conforme a las leyes respectivas.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-V. De las participaciones que la Federación conceda al Estado.
+###### ARTICULO 73.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1951)</small>
+El Ministerio Público estará a cargo de un Procurador General de Justicia que dependerá del Ejecutivo, quien lo nombrará y removerá libremente.
 
-###### Art. 79.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-El Congreso expedirá la Ley de Hacienda que normará las funciones fiscales del Estado.
+###### ARTICULO 74.
 
-Cada año el Congreso expedirá una Ley de Ingresos que establezca los impuestos, derechos, productos y aprovechamientos que deban recaudarse y el Presupuesto de Egresos que señalará el concepto y la cuantía de las erogaciones que deba efectuar la Hacienda Pública.
+Para ser Procurador General de Justicia se requiere:
 
-###### Art. 80.
+I.- Ser mexicano por nacimiento.
 
-La Hacienda Pública podrá ejercer la facultad económico-coactiva para hacer efectivos los impuestos decretados por las Leyes.
+II.- Estar en pleno goce de sus derechos civiles y políticos.
 
-###### Art. 81.
+III.- Tener cumplidos, cuando menos, treinta años de edad el día del nombramiento.
 
-Para la Recaudación, guarda y distribución de los caudales públicos habrá una Oficina Principal que se denominará Tesorería General de Rentas, a cargo de un Tesorero nombrado por el Ejecutivo, la cual estará auxiliada a su vez por Oficinas Recaudadoras foráneas.
+IV.- Ser Licenciado en Derecho con título, registrado ante las Autoridades competentes del Estado y contar cuando menos con cinco años de práctica profesional.
 
-###### Art. 82.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-El Tesorero General y los Recaudadores distribuirán los fondos públicos conforme al Presupuesto de Egresos, y serán responsables de aquellos que distribuyan y no estuvieren comprendidos en dicho Presupuesto o autorizados por una Ley posterior.
+###### ARTICULO 75.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 1951)</small>
+Los funcionarios del Ministerio Público no tendrán, en los juicios en que intervengan, ninguna prerrogativa especial.
 
-###### Art. 83.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-Para la glosa de las cuentas que deban llevarse en todas las Oficinas en que se manejen fondos públicos, habrá una Contaduría General dependiente del Congreso del Estado.
+###### ARTICULO 76.
 
-###### Art. 84.
+La Policía Judicial es un órgano dependiente del Ministerio Público.
 
-Todo empleado de Hacienda que tuviere manejo de caudales públicos, lo caucionara suficientemente y en los términos que establezca la Ley.
+La Policía Preventiva será auxiliar del Ministerio Público.
 
-###### Art. 85.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-El año fiscal se contará del primero de enero al treinta y uno de diciembre inclusive.
+###### ARTICULO 77.
+
+Se establece en el Estado una Institución de Asistencia Jurídica Social, que tendrá por objeto proporcionar la defensa de las personas que lo necesiten o así lo requieran.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 78.
+
+Las Leyes Orgánicas que se expidan sobre estas materias establecerán las bases para su funcionamiento.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 ### CAPITULO UNICO.
 
 De la responsabilidad de los funcionarios públicos.
 
-###### Art. 86.
+## TITULO VI. DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS PUBLICOS
 
-En el Estado gozan de fuero, el Gobernador, los Diputados del Congreso, los Magistrados del Tribunal Superior de Justicia, el Procurador General y el Secretario de Gobierno; pero son responsables por los delitos del orden común que cometan duraute (sic) su encargo, y por los delitos y faltas oficiales en que incurran en el ejercicio del mismo.
-
-El Gobernador sólo podrá ser acusado por violación expresa de esta Constitución, ataques a la libertad electoral y delitos graves del orden común.
-
-###### Art. 87.
-
-Si el delito fuere común, el Congreso erigido en Gran Jurado, declarará a mayoría absoluta de votos, si ha o no lugar a proceder contra el acusado. En caso negativo, no habrá lugar a ningún procedimiento ulterior, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, comenzando entonces la prescripción. En el afirmativo, el acusado queda por el mismo hecho separado de su encargo y sujeto desde luego a la acción de los Tribunales comunes.
-
-###### Art. 88.
-
-De los delitos y faltas oficiales en que incurran los funcionarios a que se refiere el artículo 86, excepto los Magistrados, conocerán el Congreso como Jurado de Acusación, y el Tribunal Superior de Justicia como Jurado de Sentencia. El Jurado de Acusación, declarará a mayoría absoluta de votos si el acusado es o no culpable, oyéndolo previamente en defensa. Si la declaración fuere absolutoria, el funcionario continuará en el ejercicio de su encargo; si fuere condenatoria, quedará inmediatamente separado de dicho encargo y será puesto a disposición del Tribunal Superior de Justicia. Este, en Tribunal Pleno y erigido en Jurado de Sentencia, oyendo al acusador si lo hubiere, al Procurador General o quien haga sus veces y al reo, por sí o por medio de su defensor, aplicará a mayoría absoluta de votos, la pena que la Ley señale.
-
-###### Art. 89.
-
-Si hubiere de formarse causa por delitos oficiales a los Magistrados del Tribunal Superior de Justicia, se iniciará y concluirá ante el Congreso, resolviendo éste, como Jurado de acusación y de Sentencia, observándose lo dispuesto en el artículo anterior.
-
-###### Art. 90.
-
-En delitos y faltas oficiales que cometieren los Munícipes, se procederá de acuerdo con lo dispuesto en el artículo 88; y cuando los delitos sean del orden común, se estará a lo que prevenga la Ley Orgánica respectiva.
-
-###### Art. 91.
-
-La declaración de haber lugar a formación de causa o el permiso para proceder a que se refiere la fracción II del artículo 65 de esta Constitución, se requiere en cuanto a los funcionarios de elección popular, desde la fecha en que sean electos; y en los demás casos, desde que entren en el ejercicio de su encargo, aún por delitos cometidos con anterioridad.
-
-###### Art. 92.
-
-El Gobernador, los Diputados y los Magistrados gozarán de fuero, aún cuando por licencia estuvieren separados del ejercicio de sus funciones.
-
-No subsiste el fuero, si en el desempeño de algún empleo, cargo o comisión que se hubiere aceptado, previa licencia, se incurriere en responsabilidades comunes u oficiales.
-
-###### Art. 93.
-
-La responsabilidad por delitos y faltas oficiales, sólo podrá exigirse durante el período en que el funcionario ejerza su encargo y dentro de un año después.
-
-###### Art. 94.
-
-Pronunciada una sentencia condenatoria de responsabilidad por delitos y faltas oficiales, no podrá concederse al reo la gracia de indulto.
-
-###### Art. 95.
-
-En los juicios del orden civil no hay fuero ni inmunidad.
-
-## TITULO VI.
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 ### CAPITULO UNICO.
 
 Prevenciones generales.
 
-###### Art. 96.
+###### ARTICULO 79.
 
-Todo funcionario y empleado público, antes de tomar posesión de su encargo, hará protesta de guardar y hacer guardar la Constitución General de la República, la particular del Estado, ambas con sus adiciones y reformas, y las Leyes que de ellas emanen. Sin este requisito todos sus actos serán ilegales.
+El ejercicio del Poder Judicial del Estado se deposita en un Tribunal Superior de Justicia, Jueces de Primera Instancia, Locales y de Paz.
 
-###### Art. 97.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-Nadie puede ejercer a la vez en el Estado dos o más cargos de elección popular; pero el nombrado podrá elegir alguno de ellos.
+###### ARTICULO 80.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1971)</small>
+El Tribunal Superior de Justicia funcionará en Acuerdo Pleno o en Salas, con el número de magistrados propietarios y suplentes que fije la Ley.
 
-###### Art. 98.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-Todo cargo o empleo público, puede ser compatible con cualquier otro de la Federación, del Estado o del Municipio, cuando por ambos se reciba sueldo, siempre que los funcionarios en el desempeño de esas labores, radiquen en el Estado y se dediquen exclusivamente a las actividades a que se refiera el nombramiento.
+###### ARTICULO 81.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1971)</small>
+Los Magistrados serán nombrados por el Congreso, por mayoría absoluta de votos, a propuesta del Ejecutivo y durarán en su encargo seis años contados del primero de febrero inmediato posterior a la fecha en que tome posesión el Gobernador.
 
-###### Art. 99.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-Ninguna licencia con goce de sueldo íntegro a funcionarios y empleados públicos podrá exceder de tres meses ni de seis en cualquier otro caso, cuando no exista causa justificada plenamente a juicio y bajo la responsabilidad de quien la concede.
+###### ARTICULO 82.
 
-###### Art. 100.
+Para ser Magistrados se requiere:
 
-Los funcionarios de elección popular sólo podrán renunciar su cargo por causa grave que calificará la Autoridad respectiva; y cuando sin causa justa o sin licencia previa faltaren al desempeño de sus fuuciones (sic), quedarán privados de los derechos de ciudadano y de todo empleo público, por el tiempo que debieran durar en su encargo.
+I.- Ser ciudadano tlaxcalteca o estar avecindado en el Estado, cinco años antes de la fecha del nombramiento.
 
-###### Art. 101.
+II.- Ser Licenciado en Derecho con título registrado ante las Autoridades Locales competentes y tener cuando menos cinco años de práctica profesional.
 
-Ningún empleado público será destituído sin causa justificada. Los funcionarios o empleados que no tengan señalado el tiempo de su duración, permanecerán en sus puestos por todo aquél a que los hagan acreedores sus servicios y buena conducta.
+III.- Tener treinta años cumplidos, como mínimo, el día del nombramiento.
 
-###### Art. 102.
+IV.- Haber observado buena conducta.
 
-Es un servicio altamente meritorio para el Estado, dedicarse al magisterio del Ramo de Educación Pública. La Ley señalará en qué forma deberán otorgarse las recompensas y premios, proporcionados a la importancia de los servicios de los que se dediquen a tan noble profesión.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-###### Art. 103.
+###### ARTICULO 83.
 
-El Gobernador, los Magistrados, el Procurador General, el Secretario de Gobierno, los Presidentes Municipales, los Jueces y Secretarios del Tribunal y Juzgados, no podrán funcionar como árbitros o arbitradores, ni ejercer la abogacía ni la procuración, sino cuando se trate de sus propios derechos o de los correspondientes a las personas que estén bajo su patria potestad. La infracción de este artículo será causa de responsabilidad.
+Para ser Juez de Primera Instancia son necesarios los mismos requisitos que para ser Magistrado, pero podrán tener menos de treinta años de edad.
 
-###### Art. 104.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-Cuando por circunstancias imprevistas no pudiere instalarse el Congreso o el Tribunal Superior de Justicia, ni el Gobernador tomar posesión de su encargo el día fijado por esta Constitución, deberán hacerlo cuando cese la causa que lo motive, siempre que estén dentro del período para el que hubieren sido electos.
+###### ARTICULO 84.
+
+Corresponde al Poder Judicial:
+
+I.- Conocer de los juicios civiles, familiares y penales en todas sus instancias, así como de los recursos que sean de su competencia conforme a las leyes de la materia.
+
+II.- Conocer de las controversias a que se refiere el artículo 104 de la Constitución Federal en su fracción primera.
+
+III.- Intervenir en los procesos que por causas de responsabilidad se sigan contra los funcionarios y empleados públicos, de conformidad a lo establecido por esta Constitución y las leyes respectivas.
+
+IV.- Autorizar que se proceda penalmente contra los jueces.
+
+V.- Dictar las medidas que sean procedentes para que la administración de justicia sea pronta y expedita y para que se observen la disciplina y puntualidad en los Tribunales del Estado.
+
+VI.- Remitir al Ejecutivo y al Congreso, los informes que pidan sobre la Administración de Justicia.
+
+VII.- Ordenar visitas a los Juzgados de Primera Instancia, a los Juzgados Locales y a los Centros de Readapatación Social, con objeto de vigilar la correcta administración de justicia.
+
+VIII.- Expedir su Reglamento Interior.
+
+IX.- Discutir, aprobar o modificar, en su caso, los presupuestos de egresos que para el ejercicio anual proponga el Presidente del Tribunal, los que, por los conductos debidos, se someterán a la aprobación del Congreso.
+
+X.- Ejercer su presupuesto.
+
+XI.- Nombrar y remover a los empleados y funcionarios del Poder Judicial conforme a la Ley.
+
+XII.- Conceder licencias a los Magistrados hasta por seis meses y llamar a los suplentes.
+
+XIII.- Conceder licencias a los Jueces para que se separen de sus cargos y admitir las renuncias de los mismos.
+
+XIV.- Ejercer las demás atribuciones que designe la Ley.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 ### CAPITULO I.. De las reformas a la Constitución
-
-###### Art. 105.
-
-La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que el Congreso del Estado, por el voto de las dos terceras partes del número total de sus miembros, acuerde las reformas o adiciones y que éstas sean aprobadas por la mayoría de los Ayuntamientos.
-
-Si transcurrido un mes, a partir de la fecha en que se hubiere enviado el proyecto de adiciones o de reformas a los Ayuntamientos, éstos no contestaren, se entenderá que lo aceptan.
 
 ### CAPITULO II.
 
 De la inviolabilidad de esta Constitución.
 
-###### Art. 106.
+###### ARTICULO 85.
 
-Esta Constitución no perderá su fuerza y vigor, aunque por algún trastorno público se interrumpa su observancia.
+La Ley Orgánica del Poder Judicial determinará el número de Magistrados y Jueces que lo integren, el tiempo que éstos hayan de durar en su encargo, el modo de suplir sus faltas, sus respectivas jurisdicciones y competencias y las facultades y deberes de los Magistrados, Jueces y demás empleados del Ramo.
 
-Si se estableciere un Gobierno contrario a los principios que ella sanciona, luego que el pueblo recobre su libertad, se restablecerá su observancia, y con arreglo a ella y a las Leyes que en su virtud se hubieren expedido, serán juzgados todos que la infringieron.
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-## TITULO VII.
+## TITULO VII. PREVENCIONES GENERALES
 
-## TITULO VIII.
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
-## TITULO VIII (SIC).
+###### ARTICULO 86.
+
+Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 87.
+
+Los Ayuntamientos se compondrán de Munícipes nombrados cada tres años en elección popular directa, calificada por ellos mismos en los términos que prescriba la Ley; tomarán posesión el día tres de enero posterior a la elección y no podrán ser reelectos para el período inmediato al en que hubieren ejercido su encargo.
+
+En el Municipio de Tlaxcala y en aquéllos cuya población sea de 30,000 o más habitantes, conforme al último Censo General de Población, los Ayuntamientos serán electos de acuerdo con las fórmulas que establezca la Ley de la materia, y de conformidad con las siguientes bases:
+
+I.- El Partido Político cuya planilla haya obtenido el mayor número de votos, tendrá derecho a que se le acrediten a quienes encabecen la lista como Presidente Municipal y Síndico del Ayuntamiento, respectivamente.
+
+II.- Las regidurías que integren el cabildo, se dividirán entre la votación total emitida para todas las planillas presentadas por los partidos políticos contendientes, a fin de obtener un cociente electoral.
+
+La Ley Reglamentaria determinará los procedimientos que se observarán en la asignación de los Regidores de representación proporcional.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 88.
+
+Para ser Munícipe se requiere:
+
+I.- Ser ciudadano tlaxcalteca en ejercicio de sus derechos.
+
+II.- Tener al menos veintiún años cumplidos el día de la elección.
+
+III.- Haber residido en el lugar de su elección cuando menos seis meses anteriores a la fecha de ésta.
+
+IV.- Las demás que señale la Ley.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 89.
+
+No podrán ser Munícipes:
+
+I.- Los empleados o funcionarios de los Gobiernos Federal, Local o Municipal.
+
+II.- Quienes estén en servicio activo en las fuerzas armadas o tengan mando de fuerza en las corporaciones de seguridad en el Municipio.
+
+En el caso de las dos fracciones anteriores, cesará la prevención si el interesado se separa del cargo noventa días antes de la elección.
+
+III.- Los ministros de cualquier culto.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 90.
+
+Los Municipios tienen personalidad jurídica para todos los efectos legales y la ejercen mediante los Ayuntamientos.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 91.
+
+Los Ayuntamientos administrarán libremente la hacienda municipal la cual se formará con los impuestos, derechos, productos y aprovechamientos que en cantidad suficiente para atender a sus necesidades les señalare el Congreso. También formarán parte de la Hacienda Municipal los ingresos extraordinarios que apruebe el Congreso y las participaciones que les correspondan de los ingresos federales y estatales conforme a las Leyes respectivas.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 92.
+
+Los Ayuntamientos deberán remitir al Congreso para la aprobación procedente:
+
+I.- El presupuesto de Egresos de su respectivo Municipio a más tardar el día quince de diciembre anterior al ejercicio.
+
+Cuando se trate del último año de su período administrativo, formularán los proyectos de presupuesto de Egresos con el consenso de los Presidentes Municipales electos para el siguiente período.
+
+II.- Las cuentas del ejercicio anual por períodos mensuales y se rendirán durante los primeros quince días de cada mes.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 93.
+
+Es obligación de los Ayuntamientos atender y promover la prestación de los servicios públicos generales que requiera la comunidad.
+
+Toda Institución u organismo que opere para la prestación de servicios públicos generales a la comunidad, deberá contar con una representación de los Ayuntamientos correspondientes.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 94.
+
+La Ley Orgánica Municipal determinará las facultades y deberes de los Ayuntamientos.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+## TITULO VIII. DE LAS REFORMAS A LA CONSTITUCION
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 95.
+
+En el Estado de Tlaxcala tendrán plena aplicación las libertades de ejercicio profesional, industrial, comercial o de trabajo garantizadas por la Constitución de la República.
+
+Las autoridades aplicarán las normas y tomarán las medidas conducentes, conforme a su ámbito de competencia, sobre economía mixta, prohibición de monopolios y estancos, persecución de concentraciones o acaparamientos y aquellas que tiendan a asegurar la libre concurrencia en la producción, comercio y distribución de bienes y servicios y garantizar a la población el oportuno y suficiente acceso a los bienes y servicios de consumo necesario a precio justo.
+
+Las autoridades locales en ejercicio de sus facultades promoverán las normas complementarias de tales disposiciones y proveerán los auxilios y apoyos para el fiel cumplimiento de las garantías señaladas en los párrafos anteriores y sus normas reglamentarias.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 96.
+
+En los términos de la Constitución Federal, el Estado de Tlaxcala no reconoce más formas de propiedad que las establecidas en ella y ratifica que todas tienen una preponderante función social.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 97.
+
+La propiedad privada será garantizada en los términos de la Constitución Federal y tendrá las modalidades que dicte el interés público.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+## TITULO IX. DE LA INVIOLABILIDAD DE LA CONSTITUCION
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 98.
+
+Los recursos públicos serán ejercidos por el Estado para satisfacer las necesidades de la Comunidad, conforme a prioridades sociales y económicas determinadas participativamente.
+
+El Estado de Tlaxcala considera a la información, planeación, programación, presupuestación, ejecución, supervisión y evaluación como actividades de interés público.
+
+La Ley definirá las facultades sobre estas materias y tenderá a lograr que la administración pública sea un instrumento eficaz para satisfacer los intereses del pueblo.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 99.
+
+La planeación del desarrollo económico y social del Estado es obligatoria para el poder público. La Ley definirá los niveles de obligatoriedad, coordinación, concertación e inducción a los que concurrirán los sectores público, privado y social en esta materia.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 100.
+
+El Ejecutivo podrá regionalizar los planes y programas para lograr el equilibrio entre las distintas regiones del Estado mediante el aprovechamiento óptimo de sus recursos, infraestructura y organización, a la vez que asegurar una coordinación de esfuerzos en beneficio de las distintas comunidades que integran los Municipios del Estado.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 101.
+
+La Hacienda Pública del Estado se integra por:
+
+I.- Los impuestos que decrete el Congreso.
+
+II.- Los derechos que se establezcan para cubrir los costos administrativos de servicios que los particulares demanden.
+
+III.- El producto de la enajenación o explotación de bienes que, según las leyes, pertenezcan al Estado.
+
+IV.- Los aprovechamientos que pertenezcan al Estado, en forma de multas, rezagos, reintegros, donaciones, etc., conforme a las Leyes respectivas.
+
+V.- Las participaciones que legalmente correspondan al Estado en los ingresos federales.
+
+VI.- Los demás ingresos que se obtengan conforme a las Leyes.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 102.
+
+Con base en la Ley de Hacienda y el Código Fiscal, cada año el Congreso expedirá una Ley de ingresos que establezca los impuestos, derechos, productos y aprovechamientos que deban recaudarse y el Presupuesto de Egresos que señalará el concepto y la cuantía de las erogaciones que deba efectuar la Hacienda Pública.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 103.
+
+La Hacienda Pública ejercerá la facultad económico-coactiva para hacer efectivos los ingresos decretados por las Leyes.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 ## TITULO X.
+
+###### ARTICULO 104.
+
+Para la glosa de las cuentas que deban llevarse en todas las oficinas en que se manejen fondos públicos, habrá una Contraloría Mayor del Gasto Público dependiente del Congreso.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 105.
+
+Todo funcionario o empleado público deberá otorgar garantía suficiente para el manejo de fondos públicos en los términos de Ley.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 106.
+
+El año fiscal para la aplicación de la Ley de Ingresos y el ejercicio del Presupuesto Estatal se contará del primero de enero al treinta y uno de diciembre de cada año.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 107.
+
+Gozan de fuero el Gobernador, los Diputados y los Magistrados; pero son responsables por los delitos del orden común que cometan durante su encargo y por los delitos y faltas oficiales en que incurran en el ejercicio del mismo.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 108.
+
+Si el delito fuere común, el Congreso, erigido en Gran Jurado, declarará por mayoría absoluta de votos, si ha lugar o no a proceder contra el acusado. En caso negativo, no habrá lugar a ningún procedimiento ulterior, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, comenzando entonces a correr la prescripción. En caso afirmativo, el acusado quedará por el mismo hecho separado de su cargo y sujeto desde luego a la acción de los tribunales comunes.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 109.
+
+De los delitos y faltas oficiales en que incurran los funcionarios a que se refiere el artículo ciento siete, excepto los Magistrados, conocerán, el Congreso como Jurado de Acusación y el Tribunal Superior de Justicia como Jurado de Sentencia. El Jurado de Acusación declarará por mayoría absoluta de votos si el acusado es o no culpable, oyéndolo previamente en defensa. Si la resolución fuere absolutoria, el funcionario continuará en el ejercicio de su cargo y si fuere condenatoria, quedará inmediatamente separado de él y puesto a disposición del Tribunal Superior de Justicia. Este, en Pleno y erigido en Jurado de Sentencia, oyendo al acusador, al Ministerio Público y al acusado, por sí o por medio de su defensa, aplicará por mayoría absoluta de votos, la pena que la Ley señale.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 110.
+
+Si hubiere de formarse causa por delitos oficiales a los Magistrados, el procedimiento se iniciará y concluirá ante el Congreso, asumiendo éste las funciones de Jurado de Acusación y Sentencia y resolviendo en ambas etapas por mayoría de votos.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 111.
+
+En delitos y faltas oficiales que cometieren los Munícipes se procederá de acuerdo con lo dispuesto en el artículo 109 y cuando los delitos sean del orden común, se estará a lo que prevenga la Ley respectiva.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 112.
+
+La declaración de haber lugar a formación de causa o la autorización para proceder a que se refiere la Fracción IV del artículo 84, se requiere respecto de los funcionarios de elección popular desde la fecha en que sean electos y en los demás casos, desde que entren en el ejercicio de su encargo, aún por delitos cometidos con anterioridad.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 113.
+
+La responsabilidad por delitos y faltas oficiales sólo podrá exigirse durante el período en que el funcionario ejerza su encargo y dentro de un año después.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 114.
+
+Pronunciada una sentencia condenatoria de responsabilidad por delitos y faltas oficiales, no podrá concederse al reo la gracia del indulto.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 115.
+
+En los juicios distintos a los del orden penal, no existe fuero. Sin embargo, quienes gozan de él no podrán ser privados de su libertad como medida de apremio, corrección disciplinaria ni sanción administrativa.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 116.
+
+Todo funcionario y empleado público, antes de tomar posesión de su cargo, rendirá protesta de guardar y hacer guardar la Constitución Federal, la Particular del Estado y las Leyes que de ellas emanen. Sin este requisito los actos derivados de esas funciones serán ilegales.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 117.
+
+Nadie puede ejercer a la vez en el Estado dos o más cargos de elección popular, pero el que esté en el caso podrá optar por alguno de ellos.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 118.
+
+Los funcionarios de elección popular sólo podrán renunciar a su cargo por causa grave que calificará la Autoridad respectiva; y cuando sin causa justa o sin licencia previa faltaren al desempeño de sus funciones, quedarán separados de su cargo, privados de los derechos de ciudadanos e inhabilitados para ocupar otro empleo público por el tiempo que debieren durar en su encargo.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 119.
+
+El Gobernador, Diputados, Magistrados, Representantes del Ministerio Público, Secretario de Gobierno, Secretarios del Ejecutivo, Presidentes Municipales, Jueces y Secretarios del Tribunal y Juzgados, no podrán funcionar como árbitros o arbitradores, ni ejercer la abogacía ni la procuración, sino cuando se trate de sus propios derechos, o de su consorte, ascendientes o personas que estén bajo su patria potestad, tutela o dependencia económica.
+
+La infracción de este artículo será causa de responsabilidad.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 120.
+
+La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que el Congreso, por el voto de las dos terceras partes del número total de sus miembros, acuerde las reformas o adiciones y que éstas sean aprobadas por la mayoría de los Ayuntamientos.
+
+Si transcurrido un mes, a partir de la fecha en que hubieren recibido los Ayuntamientos el proyecto de adiciones o de reformas, no contestaren, se entenderá que lo aprueban.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 121.
+
+Esta Constitución no perderá su fuerza y vigencia, aunque por algún trastorno público se interrumpa su observancia.
+
+Si se establece un Gobierno contrario a los principios que ella sanciona, luego que se restablezca la observancia de esta Constitución, con arreglo a ella y a las Leyes que en su virtud se hubieren expedido, serán juzgados todos los que la infringieron.
 
 ## TRANSITORIOS
 
@@ -1228,3 +1524,15 @@ Este Decreto entrará en vigor al día siguiente de su publicación.
 P.O. 13 DE AGOSTO DE 1980.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE FEBRERO DE 1982.
+
+1º.- Las adiciones y reformas contenidas en esta Constitución entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+2º.- Se derogan todas las disposiciones que se opongan a esta Constitución.
+
+3º.- Las Leyes, Decretos y Reglamentos existentes, continuarán en vigor en cuanto no se opongan a esta Constitución. Las dudas que surgieren serán resueltas por el Congreso.
+
+4º.- El presente período ordinario de sesiones del Congreso se ajustará al artículo 42.
+
+5º.- Los Ayuntamientos actualmente en funciones, prorrogarán éstas hasta el día dos de enero de 1983, conforme al Artículo 87.
