@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-2-1998-del-pleno-de-la-suprema-corte-410
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-03-10"
-last_updated: "1998-03-10"
+last_updated: "1999-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41035&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-03-10"
 
 ACUERDO GENERAL NUMERO 2/1998, DEL TRIBUNAL PLENO, DEL DIA DIEZ DE MARZO DE MIL NOVECIENTOS NOVENTA Y OCHO, PARA LLEGAR AL AÑO 2000 SIN REZAGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION: TOMO XI DE ENERO DE 1999, PAGINA 945.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo VII, Marzo de 1998, página 849.
 
@@ -77,7 +77,9 @@ XXII. El Comité de Listas de asuntos de Pleno, con el apoyo del Secretario Gene
 
 XXIII. Con el propósito de lograr una mejor capacitación y especialización de los Secretarios de Estudio y Cuenta, así como para estimular a quienes destaquen en su trabajo, se designa a la Ministra Olga Sánchez Cordero de García Villegas y al Ministro Genaro David Góngora Pimentel para que en unión del Presidente de la Suprema Corte de Justicia de la Nación realicen un programa idóneo, recurriendo a cursos de Posgrado en instituciones nacionales o extranjeras y determinando las reglas aplicables en materia de selección, becas y, en general, todo lo que se relacione con ello.
 
-XXIV. En el mes de enero de cada año, la Subsecretaría General de Acuerdos llevará a cabo un proceso de nivelación de ponencias, turnando los asuntos de nuevo ingreso de tal manera que quienes tienen mayor número de asuntos pendientes de proyectar salgan de turno hasta que los que tienen menor número se equilibren con ellos, lográndose de manera gradual, la igualdad de todos, respecto de la cantidad con la que se inicie el proceso. De esta distribución se excluirán los incidentes de inejecución, de repetición del acto reclamado y las inconformidades. Las Secretarías de Acuerdos de las Salas procederán de la misma manera.
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO 1/1999 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, S.J.F.G., TOMO XI, ENERO DE 1999, PAGINA 945)</small>
+
+XXIV. En el mes de enero de cada año, la Subsecretaría General de Acuerdos llevará a cabo un proceso de nivelación de ponencias, turnando los asuntos de nuevo ingreso de tal manera que quienes tienen mayor número de asuntos pendientes de proyectar salgan de turno hasta que los que tienen menor número se equilibren con ellos, lográndose, de manera gradual, la igualdad de todos, respecto de la cantidad con la que se inicie el proceso. En la distribución no se excluirá ningún tipo de asunto. Las Secretarías de Acuerdos de las Salas procederán de la misma manera.
 
 XXV. En el mes de enero de cada año, la Subsecretaría General de Acuerdos, sin necesidad de que se muevan los expedientes de la secretaría de ponencia en la que se encuentren, procederá a fijar en el expediente cintas rojas o amarillas. Las primeras, a los que correspondan a asuntos que hayan ingresado a la Suprema Corte antes del 1o. de enero del año anterior y, las segundas, a los que su ingreso haya sido posterior a esa fecha pero anterior al 1o. de julio del propio año. El propósito de este mecanismo es que se dé preferencia a esos asuntos y se concluya el año sin ninguno de ellos pendiente de resolver.
 
@@ -2582,3 +2584,11 @@ LICENCIADO JOSÉ JAVIER AGUILAR DOMÍNGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA
 CERTIFICA:
 
 Que este Anexo número tres del Acuerdo General Número 2/1998 para llegar al año 2000 sin rezago, fue aprobado por el Tribunal Pleno en sesión privada de diez de marzo de mil novecientos noventa y ocho, por unanimidad de diez votos de los Ministros Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Presidente en funciones Juventino V. Castro y Castro, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Humberto Román Palacios, Olga María Sánchez Cordero y Juan N. Silva Meza; ausente el Presidente José Vicente Aguinaco Alemán.-México, Distrito Federal, dieciséis de marzo de mil novecientos noventa y ocho.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+S.J.F.G., TOMO XI. ENERO DE 1999, PAGINA 9455.
+
+PRIMERO.-Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.-Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta y póngase de inmediato en el conocimiento de los secretarios de Estudio y Cuenta y de los demás servidores públicos obligados a su cumplimiento.
