@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2003-12-16"
+last_updated: "2004-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ABRIL DE 2004.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal el jueves 28 de diciembre de 2000.
 
@@ -2097,6 +2097,114 @@ XI. Celebrar convenios para el desarrollo de los zoológicos a su cargo y de col
 XII. Vigilar el cumplimiento de la normatividad sobre el funcionamiento interno de los zoológicos y unidades de manejo de vida silvestre a su cargo y aplicar las sanciones y medidas de seguridad que procedan en casos de incumplimiento.
 
 > <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2003)</small>
+
+Artículo 56 TER.- Corresponde a la Dirección General de Recursos Naturales y Desarrollo Rural:
+
+I. Promover, fomentar, coordinar y ejecutar estudios y acciones en materia de protección, desarrollo, restauración y conservación de la flora y fauna silvestre, la vegetación natural o inducida, restauración y conservación del suelo, agua y otros recursos naturales en el suelo de conservación y áreas naturales protegidas;
+
+II. Realizar los estudios para que la Secretaría del Medio Ambiente proponga al Jefe de Gobierno la creación y modificación de áreas naturales protegidas del Distrito Federal, no reservadas a la federación, así como llevar a cabo su administración, manejo y vigilancia;
+
+III. Promover el establecimiento y administrar el sistema de áreas naturales protegidas y el sistema de información geográfica del suelo de conservación y áreas naturales protegidas del Distrito Federal; así como la realización y ejecución de los Programas coordinados con la Federación;
+
+IV. Promover la participación de las instituciones científicas y académicas, así como de los sectores social y privado, en la realización de estudios y programas para la restauración ecológica, la protección, el fomento y manejo de los recursos naturales del Distrito Federal;
+
+V. Promover y llevar a cabo en coordinación con los órganos Político-Administrativo competentes, la reforestación del suelo de conservación del Distrito Federal y participará en la reforestación de su área de influencia ecológica, así como administrar y manejar los viveros forestales que correspondan al Distrito Federal;
+
+VI. Promover y otorgar, en coordinación con las dependencias competentes, asistencia técnica y cursos de capacitación, orientados a la protección, conservación, restauración y mejoramiento de los recursos naturales del Distrito Federal;
+
+VII. Proponer a la Secretaría del Medio Ambiente y ejecutar el programa para la conservación y manejo de la vida silvestre del Distrito Federal;
+
+VIII. Intervenir en la formulación, ejecución, modificación o cancelación de los planes y programas de desarrollo urbano, así como normar el uso, destino y construcciones del suelo de conservación del Distrito Federal;
+
+IX. Proponer a la Secretaría del Medio Ambiente el establecimiento y operará el sistema de inspección y vigilancia de los recursos naturales en suelo de conservación y áreas naturales protegidas del Distrito Federal, así como ordenar y expedir la documentación para ejecutar las visitas y medidas de seguridad que corresponda, conforme a las disposiciones legales aplicables y sustanciar el procedimiento administrativo hasta su resolución;
+
+X. Proponer a la Secretaría del Medio Ambiente la elaboración, en coordinación con las autoridades competentes, del programa de ordenamiento ecológico del Distrito Federal y promover su incorporación a los programas de desarrollo urbano correspondientes;
+
+XI. Vigilar el cumplimiento, en términos de las disposiciones jurídicas y administrativas aplicables, de la normatividad en materia de desarrollo y aprovechamiento de las áreas verdes y recursos naturales en suelo de conservación del Distrito Federal;
+
+XII. Promover, orientar y fomentar los programas económicos y apoyos financieros que estimulen la inversión y la creación de empleos en la zona rural del Distrito Federal, con apego a las normas ambientales y demás que resulten aplicables;
+
+XIII. Promover, estimular y realizar los estudios tendientes a lograr el desarrollo y mejoramiento de las actividades agropecuarias en las zonas rurales del Distrito Federal;
+
+XIV. Promover programas de apoyo financiero que contribuyan a fomentar procesos de producción, distribución, transformación y comercialización, en coordinación con el sector agropecuario del Distrito Federal;
+
+XV. Proponer a la Secretaría del Medio Ambiente el establecimiento y conducir y coordinar los mecanismos de apoyo para actividad productiva del sector rural, incluyendo asesorías, asistencia técnica y capacitación;
+
+XVI. Promover y fomentar la creación de centros de acopio de producción agrícola y centrales de abasto;
+
+XVII. Promover y fomentar actividades agropecuarias a través de acciones y apoyos entre asociaciones, coinversiones, alianzas estratégicas y otros sectores productivos, con apego a las disposiciones ambientales y demás que resulten aplicables;
+
+XVIII. Promover acciones conjuntas entre la Administración Pública, productores agropecuarios y centros de investigación, a fin de establecer proyectos competitivos;
+
+XIX. Realizar análisis de viabilidad, sobre los proyectos productivos y de conservación que se generen en las zonas rurales;
+
+XX. Coordinar la operación y aprovechamiento de los fondos que, en materia agropecuaria, se constituyan;
+
+XXI. Promover y fomentar la vinculación entre el productor rural y el sector comercial, comercio al detalle, así como la venta directa del productor rural al consumidor;
+
+XXII. Promover y fomentar la creación de empresas agroindustriales, ecoturísticas, artesanales, comerciales y de servicios en el Distrito Federal, así como el desarrollo de nuevas tecnologías de producción agropecuaria en el Distrito Federal, con apego a las disposiciones ambientales y demás aplicables;
+
+XXIII. Promover y vigilar en coordinación con las autoridades competentes, el aprovechamiento sustentable de los recursos en las actividades agrícolas, pecuarias, apícolas y piscícolas, en coordinación con las autoridades competentes, de los recursos forestales e hidráulicos de la zona rural del Distrito Federal;
+
+XXIV. Promover la organización campesina e inducir la participación de los habitantes en programas agropecuarios, piscícolas y forestales, que fortalezcan la producción y su desarrollo, contribuyendo a evitar la expansión urbana en la zona rural del Distrito Federal, con apego a las disposiciones ambientales y demás aplicables;
+
+XXV. Promover y coordinar con instituciones vinculadas a actividades agropecuarias, las piscícolas y forestales, el desarrollo de cursos de capacitación a los productores rurales orientados a un mejoramiento de las actividades productivas rurales;
+
+XXVI. Promover y coordinar con las autoridades competentes, la formulación, diseño y ejecución de programas de desarrollo rural equitativo y sustentable en el Distrito Federal;
+
+XXVII. Proponer y promover el establecimiento de políticas vinculadas a la actividad agropecuaria, piscícola y forestal en el Distrito Federal;
+
+XXVIII. Promover y realizar las obras de infraestructura requeridas, así como celebrar los contratos y convenios necesarios para su ejecución, y
+
+XXIX. Recaudar, recibir y administrar de conformidad con los ordenamientos jurídicos que resulten aplicables, los ingresos que por concepto de productos y servicios se relacionen con las anteriores atribuciones.
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2003)</small>
+
+Artículo 56 Cuater (sic).- Corresponde a la Dirección General de Bosques Urbanos y Educación Ambiental:
+
+I. Establecer los criterios y lineamientos para conservar, administrar y regular el uso, aprovechamiento, explotación y restauración de los recursos naturales e infraestructura de las áreas de valor ambiental y áreas verdes urbanas del Distrito Federal;
+
+II. Formular y aplicar el programa de manejo de las áreas de valor ambiental y áreas verdes urbanas del Distrito Federal, bajo criterios de sustentabilidad y expedir los permisos, autorizaciones o cualquier instrumento jurídico que resulte aplicable para la realización de actividades de uso o aprovechamiento de los espacios, inmuebles y recursos de dichas áreas, sin perjuicio de las licencias, autorizaciones o permisos que se requieran de otras autoridades.
+
+Asimismo, negar, revocar o cancelar los permisos, autorizaciones o instrumentos jurídicos que contravengan las disposiciones establecidas para tales efectos;
+
+III. Recaudar, recibir y administrar, de conformidad con los ordenamientos jurídicos que resulten aplicables, los ingresos que bajo los conceptos de uso, aprovechamiento, servicios de infraestructura y venta de planta, se perciban en las áreas de valor ambiental, áreas verdes urbanas, Museo de Historia Natural, Centros de Educación Ambiental y viveros;
+
+IV. Fomentar y organizar la participación de los sectores público, social y privado, para el mantenimiento y conservación de las áreas de valor ambiental, áreas verdes urbanas y el Museo de Historia Natural;
+
+V. Establecer los lineamientos para realizar las acciones de reforestación urbana en el Distrito Federal;
+
+VI. Emitir los lineamientos, así como autorizar las acciones de plantación, poda, derribo y transplante de especies vegetales de las áreas de valor ambiental y de áreas verdes urbanas del Distrito Federal;
+
+VII. Resguardar e incrementar el acervo del Museo de Historia Natural;
+
+VIII. Formular y aplicar las políticas de administración del Museo de Historia Natural;
+
+IX. Proyectar los trabajos de imagen urbana, mantenimiento, supervisión y vigilancia de las áreas de valor ambiental y de áreas verdes urbanas y recursos naturales localizados en la red vial primaria del Distrito Federal, así como en las alamedas y parques que por su belleza, valor cultural, histórico y ambiental requieren de cuidado y protección especial, en coordinación con las dependencias que resulten competentes en la materia;
+
+X. Elaborar proyectos para la creación, fomento y desarrollo de las áreas de valor ambiental y de las áreas verdes urbanas públicas del Distrito Federal, y coordinar la intervención de las autoridades competentes que se encuentren involucradas en su desarrollo;
+
+XI. Establecer los criterios para el desarrollo de la educación ambiental del Distrito Federal, incidiendo en el fomento de la cultura de conservación y cuidado de los recursos naturales, sobre todo en aquellos sectores sociodemográficos clave como son la población infantil y femenil;
+
+XII. Ampliar la cobertura de tramos de la población del Distrito Federal, con temas de educación y capacitación ambiental;
+
+XIII. Generar, sistematizar y difundir la información en materia de educación ambiental;
+
+XIV. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como celebrar, otorgar y suscribir los contratos, convenios, acuerdos y demás actos jurídicos necesarios para el ejercicio de sus funciones;
+
+XV. Salvaguardar el patrimonio cultural, histórico, social, ambiental y educativo asignado a la Unidad;
+
+XVI. Elaborar, coordinar y ejecutar los trabajos de desarrollo de las áreas de valor ambiental y de las áreas verdes urbanas; y producir, suministrar, cultivar y vender especies arbóreas, arbustivas y ornamentales para suelo urbano, así como operar los programas de fomento, protección, conservación, aprovechamiento, poda, administración y cultivo de las áreas verdes urbanas del Distrito Federal y venta de plantas a instancias públicas, privadas y al público en general;
+
+XVII. Determinar y aplicar en conjunto con las demás autoridades competentes los programas y medidas para prevenir y controlar contingencias y emergencias ambientales, así como las de seguridad, en las áreas de valor ambiental;
+
+XVIII. Vigilar el cumplimiento estricto de las disposiciones jurídicas y administrativas de las áreas de valor ambiental y de las áreas verdes urbanas del Distrito Federal y así como aplicar las sanciones administrativas y medidas correctivas o de seguridad que de ellas emanen;
+
+XIX. Establecer los medios para reciclar y aprovechar los residuos vegetales que se generan de las actividades de producción y transformación pública o privada del Distrito Federal;
+
+XX. Establecer y operar el sistema de inspección, seguridad y vigilancia de las áreas de valor ambiental y de las áreas verdes urbanas del Distrito Federal; y
+
+XXI. Las demás que le atribuyan otros ordenamientos jurídicos y administrativos aplicables.
 
 ###### Artículo 56 Ter.
 
@@ -5134,7 +5242,7 @@ DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y
 
 DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECÍFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN BENITO JUAREZ.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ABRIL DE 2004)</small>
 
 #### SECCION IV
 
@@ -5958,33 +6066,37 @@ DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y
 
 ###### Artículo 137.
 
-La Dirección General Jurídica y de Gobierno tendrá además de las señaladas en el artículo 124, las siguientes atribuciones:
+La Dirección General Jurídica y de Gobierno tendrá además de las señaladas en el artículo 124, a excepción de las fracciones XlX y XXlll, las siguientes atribuciones:
 
-I. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con los establecimientos soliciten los particulares; y
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2004)</small>
+
+I. Vigilar el cumplimiento de las disposiciones en materia ambiental, aplicando las sanciones que correspondan cuando se trate de actividades y establecimientos cuya vigilancia no corresponda a las Dependencias, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
 
 II. Vigilar el cumplimiento de las disposiciones en materia ambiental, aplicando las sanciones que correspondan cuando se trate de actividades y establecimientos cuya vigilancia no corresponda a las Dependencias, de conformidad con las disposiciones jurídicas y administrativas aplicables.
 
-> <small>(REFORMADO, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.O. 13 DE ABRIL DE 2004)</small>
 
 ###### Artículo 138.
 
-La Dirección General de Obras, Servicios y Desarrollo Urbano tendrá, además de las señaladas en los artículos 126 y 127, las siguientes atribuciones:
+La Dirección General de Obras y Desarrollo Urbano tendrá, además de las señaladas en los artículos 126, las siguientes atribuciones:
 
-I. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con las construcciones soliciten los particulares, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+I. Dar mantenimiento a las escuelas, bibliotecas, museos, mercados públicos y demás centros de servicio social, cultural, deportivo y administrativo a cargo del Órgano Político-Administrativo;
 
-II. Dar mantenimiento a escuelas, bibliotecas, museos, mercados públicos y demás centros de servicio social, cultural, deportivo y administrativo a cargo del Órgano Político-Administrativo;
+II. Dar mantenimiento preventivo y correctivo a las redes secundarias de agua potable, drenaje y alcantarillado, conforme a la autorización y normas que al efecto expida la autoridad competente;
 
-III. Dar mantenimiento preventivo y correctivo a las redes secundarias de agua potable, drenaje y alcantarillado, conforme a la autorización y normas que al efecto expida la autoridad competente;
+III. Organizar, controlar y dar seguimiento a los concursos y contratos relacionado con las Obras y Desarrollo Urbano; y
 
-IV. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad el Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
+IV. Controlar y ejecutar el presupuesto de Obras y Precios Unitarios, así como realizar las estimaciones de las mismas.
 
-V. Dar mantenimiento a los parques y panteones públicos que se encuentran a cargo del Órgano Político-Administrativo; y
-
-VI. Dar mantenimiento a las áreas verdes localizadas en las vialidades secundarias en su demarcación.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE ABRIL DE 2004)</small>
 
 ###### Artículo 139.
 
-(DEROGADO, G.O. 26 DE SEPTIEMBRE DE 2002)
+La Dirección General de Administración tendrá además de las señaladas en el artículo 125, las siguientes atribuciones:
+
+I. Planear, coordinar y proporcionar soporte técnico, sistemas y administración de base de datos para el buen funcionamiento de la Unidad Administrativa.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -6002,41 +6114,151 @@ IV. Impulsar el desarrollo de programas encaminados a la realización de activid
 
 V. Llevar a cabo acciones tendientes a promover la incorporación de barrios regenerados al patrimonio cultural de la demarcación territorial del Órgano Político-Administrativo y del Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, G.O. 13 DE ABRIL DE 2004)</small>
 
 ###### Artículo 141.
 
-Corresponde a la Dirección General de Desarrollo Delegacional:
+Corresponde a la Dirección General de Desarrollo de Infraestructura tendrá además de las señaladas en el artículo 127, las siguientes atribuciones:
 
-I. Promover y conducir el Programa de Desarrollo Económico del Órgano Político-Administrativo;
+I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
 
-II. Promover la participación en el Comité de Fomento Económico de la demarcación territorial, de los órganos representativos de las actividades económicas;
+II. Dar mantenimiento a los parques y panteones públicos que se encuentran a cargo del Órgano Político-Administrativo;
 
-III. Ejecutar acciones tendientes a la promoción de proyectos de inversión que contribuyan al crecimiento económico, la protección y la generación de empleos;
+III. Dar mantenimiento a las áreas verdes localizadas en vialidades secundarias en su demarcación;
 
-IV. Coadyuvar en la promoción y desarrollo de la microempresa, propiciando la participación de diversos sectores, en proyectos viables de desarrollo económico, en atención a las características económicas y poblacionales de la demarcación territorial;
+IV. Coordinarse con la Dirección de Obras y Desarrollo Urbano para la ejecución de obras y acciones específicas;
 
-V. Instrumentar acciones de fomento tendientes a la realización de ferias, exposiciones y congresos vinculados a la promoción de actividades industriales, comerciales y económicas dentro de la demarcación territorial;
+V. Acordar con el Jefe Delegacional todos los asuntos que conciernan a su área;
 
-VI. Promover, dentro del ámbito de competencia y de conformidad con las disposiciones jurídicas y administrativas aplicables y con las directrices que fije el titular del Órgano Político-Administrativo, acciones de promoción de inversión inmobiliaria, tanto del sector público como privado, para la vivienda, equipamiento y servicios;
+VI. Coordinar todas las áreas a su cargo para el buen funcionamiento de la Dirección General;
 
-VII. Implementar acciones de preservación y restauración del equilibrio ecológico, y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
+VII. Conceder audiencia al público, así como acordar y resolver los asuntos de la competencia de las áreas a su cargo;
 
-VIII. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente;
+VIII. Coadyuvar con el Jefe Delegacional para el establecimiento de coordinaciones y convenios con dependencias locales y con el sector social en el marco de competencia de la Dirección General;
 
-IX. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente;
+IX. Formular los planes y programas de trabajo de la Dirección General, considerando en ellos las necesidades y expectativas de los ciudadanos, así como mejorar los sistemas de atención al público;
 
-X. Elaborar, promover, fomentar y ejecutar los proyectos productivos, que en el ámbito de la jurisdicción del Órgano Político-Administrativo protejan e incentiven el empleo, de acuerdo a los programas, lineamientos y políticas que en materia de fomento, desarrollo e inversión económica emitan las Dependencias correspondientes;
+X. Promover programas de excelencia y calidad, tendientes a incrementar la productividad de sus áreas y mejorar la calidad de vida en el trabajo;
 
-XI. Realizar acciones de promoción y coordinación para la instalación, funcionamiento y seguimiento de los Subcomités de Desarrollo Económico Delegacionales a fin de apoyar iniciativas de inversión para impulsar a los sectores productivos de su demarcación territorial, así como observar la normatividad que los regula, y coordinar y dar seguimiento a dichos Subcomités;
+XI. Coadyuvar en la coordinación y ejecución de las políticas de la Administración Pública del Distrito Federal, en materia de Servicios Urbanos;
 
-XII. Coordinar y dar seguimiento a los programas que lleve a cabo el Órgano Político-Administrativo o en los cuales participe, en materia de desarrollo económico, modernización y desarrollo tecnológico, capacitación y fomento al empleo, preservación y mejoramiento del medio ambiente; y
+XII. Coadyuvar con las Direcciones Generales que integran la Delegación en las acciones y programas que se implementan de manera conjunta;
 
-XIII. Realizar acciones tendientes a la promoción turística de la demarcación territorial del Órgano Político- Administrativo y del Distrito Federal.
+XIII. Instruir a las áreas que integran esta Dirección General en la determinación de las necesidades de personal y recursos materiales que exigen los programas que se pretendan implantar en la misma, a fin de dar cumplimiento a los proyectos del presupuesto anual de egresos de la Delegación;
+
+XIV. Promover reuniones de coordinación con las dependencias y órganos tanto públicos como privados para definir criterios en materia de preservación y restauración del medio ambiente;
+
+XV. Promover y conducir el Programa de Desarrollo Económico del Órgano Político-Administrativo;
+
+XVI. Promover la participación de la ciudadanía y de los órganos representativos de las actividades económicas en los mecanismos de promoción económica, como el Comité de Fomento Económico de la demarcación territorial;
+
+XVII. Ejecutar acciones tendientes a la promoción de proyectos de inversión que contribuyan al crecimiento económico, la protección y la generación de empleos;
+
+XVIII. Coadyuvar en la promoción y desarrollo de la microempresa, propiciando la participación de diversos sectores, en proyectos viables de desarrollo económico, en atención a las características económicas y poblacionales de la demarcación territorial;
+
+XIX. Instrumentar acciones de fomento tendientes a la realización de ferias, exposiciones y congresos vinculados a la promoción de actividades industriales, comerciales y económicas dentro de la demarcación territorial;
+
+XX. Promover, dentro del ámbito de competencia y de conformidad con las disposiciones jurídicas y administrativas aplicables y con las directrices que fije el titular del Órgano Político-Administrativo, acciones de promoción de inversión inmobiliaria, tanto del sector público como privado, para la vivienda, equipamiento y servicios;
+
+XXI. Implementar acciones de preservación y restauración del equilibrio ecológico, y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
+
+XXII. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente;
+
+XXIII. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y protección al ambiente;
+
+XXIV. Elaborar, promover, fomentar y ejecutar los proyectos productivos, que en el ámbito de la jurisdicción del Órgano Político-Administrativo protejan e incentiven el empleo, de acuerdo a los programas, lineamientos y políticas que en materia de fomento, desarrollo e inversión económica emitan las Dependencias correspondientes;
+
+XXV. Realizar acciones de promoción y coordinación para la instalación, funcionamiento y seguimiento de los Subcomités de Desarrollo Económico Delegacionales a fin de apoyar iniciativas de inversión para impulsar a los sectores productivos de la demarcación territorial, así como observar las disposiciones que los regula, y coordinar y dar seguimiento a dichos Subcomités;
+
+XXVI. Coordinar y dar seguimiento a los programas que lleve a cabo el Órgano Político-Administrativo o en los cuales participe, en materia de desarrollo económico, modernización y desarrollo tecnológico, capacitación y fomento al empleo, preservación y mejoramiento del medio ambiente;
+
+XXVII. Realizar acciones tendientes para la promoción turística de la demarcación territorial y del Distrito Federal;
+
+XXVIII. Instrumentar actividades de desarrollo y promoción del mejoramiento de la propiedad, a través del financiamiento de nuevas construcciones o de la rehabilitación y mejoramiento de las ya existentes;
+
+XXIX. Diseñar proyectos de desarrollo habitacional orientados a generar opciones residenciales atractivas para los habitantes de la Delegación;
+
+XXX. Promover, gestionar y coordinar la existencia de fondos financieros destinados a proyectos de regeneración urbana;
+
+XXXI. Fomentar la creación, desarrollo y establecimiento de empresas de alta tecnología y de nuevas oportunidades de negocios en la Delegación, a través del diseño de proyectos viables de desarrollo económico;
+
+XXXII. Elaborar estrategias de impulso a la inversión inmobiliaria, tanto del sector público como privado, para la vivienda, equipamiento y servicios; que promuevan la revitalización y el mejoramiento de la imagen urbana de la Delegación;
+
+XXXIII. Diseñar y promover estrategias de desarrollo de infraestructura que revitalicen la imagen urbana de la Delegación, ofrezcan nuevos espacios productivos y oportunidades de empleo a sus habitantes, y mejoren significativamente la calidad de vida de los residentes de la demarcación;
+
+XXXIV. Diseñar y ejecutar proyectos en materia de desarrollo urbano y económico que eleven la capacidad productiva de la demarcación;
+
+XXXV. Elaborar diagnósticos y análisis en materia de desarrollo de infraestructura económica, a efecto de tomar decisiones sobre planeación urbana;
+
+XXXVI. Coadyuvar con las actividades orientadas a impulsar el desarrollo económico de la demarcación;
+
+XXXVII. Llevar a cabo la planeación urbana de la demarcación, bajo un contexto de revitalización de la infraestructura y los servicios urbanos; al mismo tiempo que coadyuvar con la Dirección General de Obras y Desarrollo Urbano en la ejecución de la misma;
+
+XXXVIII. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con los establecimientos soliciten los particulares;
+
+XXXIX. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con las construcciones soliciten los particulares, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XL. Administrar los panteones y crematorios públicos de su demarcación territorial de acuerdo a las disposiciones de operación que determine la autoridad competente;
+
+XLI. Apoyar al Jefe Delegacional en la instrumentación de acciones tendientes a coadyuvar con el H. Cuerpo de Bomberos y el de Rescate del Distrito Federal, para la prevención y extinción de incendios y otros siniestros que pongan en peligro la vida y el patrimonio de los habitantes del Distrito Federal; y
+
+XLII. Las que de manera directa le asigne el Jefe Delegacional.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE ABRIL DE 2004)</small>
 
 ###### Artículo 142.
 
-(DEROGADO, G.O. 26 DE SEPTIEMBRE DE 2002)
+Corresponde a la Dirección General de Desarrollo Delegacional las siguientes atribuciones:
+
+I. Coordinar la relación interinstitucional con funcionarios de otras órdenes de gobierno con respecto a situaciones de operatividad de la Delegación;
+
+II. Coordinar las reuniones de trabajo del Jefe Delegacional con representantes de las áreas;
+
+III. Realizar todos aquellos estudios, proyectos y/o programas en materia de análisis político y del entorno que el Jefe Delegacional requiera para el desempeño de sus funciones;
+
+IV. Proporcionar al Jefe Delegacional los objetivos necesarios para la adecuada toma de decisiones;
+
+V. Coordinar el diseño y elaboración de bases de datos de ciudadanos, que permitan conocer las características de quienes habitan y trabajan en la demarcación y contribuyan al diseño de planes y programas delegacionales;
+
+VI. Diseñar estrategias para la comunicación con la ciudadanía de manera más efectiva y directa;
+
+VII. Formular en coordinación con las Direcciones Generales de la Delegación el plan de gobierno a mediano plazo;
+
+VIII. Evaluar y dar seguimiento a los planes y proyectos de las unidades delegacionales;
+
+IX. Realizar revisiones a los sistemas administrativos de las unidades de la Delegación, diagnosticando las probables deficiencias;
+
+X. Planear, programar, organizar, sistematizar y evaluar las actividades desarrolladas por las distintas unidades de trabajo de la Delegación en la prestación de servicios a la comunidad;
+
+XI. Proponer las acciones de mejora institucional;
+
+XII. Implantar controles internos que faciliten el seguimiento de los planes de gobierno;
+
+XIII. Mejorar los procesos y sistemas del gobierno Delegacional;
+
+XIV. Asesorar en la interpretación y aplicación de técnicas administrativas a las diversas unidades de la Delegación;
+
+XV. Revisar y formular los planes y programas tendientes a hacer más eficiente y eficaz los procesos delegacionales;
+
+XVI. Diseñar y ejecutar los procesos de reestructura interna del gobierno Delegacional;
+
+XVII. Desarrollar y fortalecer indicadores de servicio, satisfacción y desempeño;
+
+XVIII. Evaluar los procesos, programas y proyectos implementados con el propósito de ejecutar acciones de mejora que en su caso lo ameriten;
+
+XIX. Impulsar los procesos que tiendan a hacer más eficiente y eficaz los procesos de la Delegación;
+
+XX. Profesionalizar la captación y tratamiento de la demanda ciudadana;
+
+XXI. Coadyuvar a la identificación de demandas ciudadanas y a la instrumentación de acciones que respondan a ellas;
+
+XXII. Establecer mecanismos de coordinación con otras unidades delegacionales para el diseño y operación de acciones de comunicación ciudadana;
+
+XXIII. Asegurar el adecuado funcionamiento de la Ventanilla Única Delegacional cuidando su estricto apego al marco jurídico y administrativo aplicable;
+
+XXIV. Impulsar proyectos de mejora en base a las necesidades de los ciudadanos que integran la demarcación; y
+
+XXV. Las que de manera directa le asigne el Jefe Delegacional.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -7847,3 +8069,11 @@ QUINTO. Los asuntos en trámite a cargo de la Planta de Asfalto, serán concluid
 SEXTO. Los asuntos en trámite a cargo de la Comisión de Recursos Naturales y Desarrollo Rural y de la Unidad de Bosques Urbanos y Educación Ambiental serán concluidos por la Dirección General de Recursos Naturales y Desarrollo Rural y por la Dirección General de Bosques Urbanos y Educación Ambiental, respectivamente, de conformidad con la normativa aplicable.
 
 SÉPTIMO. Los asuntos en trámite a cargo de la Unidad Administrativa y Unidades Administrativas de Apoyo Técnico-Operativo del Órgano Político Administrativo en Venustiano Carranza, que por virtud de este Decreto dejan de tener algunas atribuciones se continuaran atendiendo, por la Unidad Administrativa de Apoyo Técnico Operativo que adquiere nuevas atribuciones, hasta su conclusión.
+
+G.O. 13 DE ABRIL DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Los recursos humanos, materiales, técnicos y financieros de la Unidad Administrativa y Unidades Administrativas de Apoyo Técnico-Operativo del Órgano Político Administrativo en Benito Juárez, que por virtud de este Decreto dejan de tener algunas atribuciones, se transferirán a las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo que adquieren nuevas atribuciones, en los términos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor, de conformidad con sus atribuciones.
+
+TERCERO. Los asuntos en trámite a cargo de la Unidad Administrativa y Unidades Administrativas de Apoyo Técnico-Operativo del Órgano Político Administrativo en Benito Juárez, que por virtud de este Decreto dejan de tener algunas atribuciones se continuaran atendiendo, por la Unidad Administrativa de Apoyo Técnico Operativo que adquiere nuevas atribuciones, hasta su conclusión.
