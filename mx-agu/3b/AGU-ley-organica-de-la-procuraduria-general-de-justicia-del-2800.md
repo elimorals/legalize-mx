@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-procuraduria-general-de-justicia-del-2800"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-29"
-last_updated: "1991-12-29"
+last_updated: "1992-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1992.
 
-Ley publicada en el Suplemento al No. 52 del Periódico Oficial del Estado de Aguascalientes, domingo el 29 de diciembre de 1991.
+Ley publicada en el Suplemento al No. 52 del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1991.
 
 MIGUEL ANGEL BARBERENA VEGA, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
 
@@ -151,45 +151,45 @@ Para el cumplimiento de sus atribuciones, el Ministerio Público podrá requerir
 
 ### CAPITULO II. Bases de Organización
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 9o.
 
-La Procuraduría General de Justicia del Estado, estará presidida por el Procurador, jefe de la institución del Ministerio Público, y se integrará por los órganos siguientes:
+Para el ejercicio de las atribuciones, funciones y despacho de los asuntos de su competencia, la Procuraduría General de Justicia del Estado de Aguascalientes, contará con los siguientes Servidores Públicos:
 
-I.- La Subprocuraduría de Investigaciones que se compondrá por:
+1.- Procurador General de Justicia.
 
-a).- La Dirección General de Investigación;
+2.- Subprocurador de Averiguaciones Previa.
 
-b).- La Dirección General de la Policía Judicial;
+3.- Subprocurador de Control de Procesos.
 
-c).- La Dirección General de Servicios Periciales;
+4.- Contraloría Interna.
 
-II.- La Subprocuraduría de Procesos que se integrará por:
+5.- Dirección General de Administración.
 
-a).- La Dirección General de Procesos; y
+6.- Dirección General de Asuntos Jurídicos.
 
-b).- La Dirección de Asuntos Jurídicos;
+7.- Dirección General de Averiguaciones Previas.
 
-III.- La Visitaduría General y de Inspección Interna;
+8.- Dirección General de Control de Procesos.
 
-IV.- La Dirección General de Administración;
+9.- Dirección General de la Policía Judicial.
 
-V.- La Unidad de Trabajo Social y Participación Ciudadana; y
+10.- Dirección General de Servicios Periciales.
 
-VI.- El Instituto de Capacitación.
+11.- Dirección General de Participación Ciudadana y Servicios a la Comunidad.
 
-La Procuraduría contará con servidores públicos sustitutos del Procurador en el orden que fije el reglamento y con los órganos y unidades técnicas y administrativas para el despacho de los asuntos que la presente Ley pone a cargo de la dependencia, en el número y con la distribución competencial que determine el reglamento.
-
-Se contará con un sistema de desconcentración territorial y funcional de la Procuraduría General de Justicia del Estado, mediante delegación de atribuciones que permitan el buen despacho de los asuntos a cargo de la Procuraduría, tomando en cuenta las características de la función a su cargo. Igualmente, se dispondrán las acciones que deberá desarrollar el Ministerio Público en donde no haya Agencia permanente y se establecerán los medios de información a la comunidad en forma sistemática y directa por parte de los servidores públicos de la dependencia en las poblaciones de su adscripción.
-
-El Ejecutivo determinará las entidades que deban quedar sujetas a la coordinación de la Procuraduría General de Justicia del Estado.
+12.- Dirección del Instituto de Capacitación.
 
 ###### ARTICULO 10.
 
 Los servidores públicos sustitutos del Procurador lo auxiliarán en las funciones que esta Ley les encomiende y, por delegación que haga el titular mediante acuerdo, resolverán los casos en que se consulte el no ejercicio de la acción penal y la formulación de conclusiones no acusatorias, así como las consultas que el Agente del Ministerio Público formule o las prevenciones que la autoridad judicial acuerde en los términos que la ley establezca a propósito de conclusiones presentadas en un proceso penal o de actos cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta del inculpado antes de que se pronuncie sentencia.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 11.
 
-El titular de la Visitaduría General practicará, desde el punto de vista técnico, jurídico y administrativo, visitas a las Agencias Investigadores (sic) y a las mesas de trámite e inspeccionará las actividades que realicen los Agentes del Ministerio Público adscritos a los ramos penal, civil y familiar y a las demás dependencias de la Procuraduría.
+Serán Agentes del Ministerio Público para todos los efectos legales que corresponda, los Subprocuradores y los Directores Generales de Asuntos Jurídicos, de Averiguaciones Previas y de Control de Procesos.
 
 ###### ARTICULO 12.
 
@@ -201,9 +201,11 @@ II.- Los Servicios Periciales de la Procuraduría General de Justicia.
 
 Asimismo, son auxiliares del Ministerio Público las policías preventivas de los Municipios del Estado, debiendo obedecer y ejecutar las órdenes que reciban del Ministerio Público en ejercicio de sus funciones.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 13.
 
-El Procurador General de Justicia, los Subprocuradores, el Visitador General y de Inspección Interna, los Agentes del Ministerio Público, así como el Director y agentes de la Policía Judicial serán nombrados y removidos libremente por el Gobernador del Estado. El Visitador General y de Inspección Interna acordará directamente con el Gobernador los asuntos de su competencia y le informará acerca de los resultados de las visitas que realice.
+El Procurador General de Justicia, los Subprocuradores, los Directores a que se refiere el Artículo 9o. de la presente Ley y los Agentes de la Policía Judicial, serán nombrados y removidos libremente por el Gobernador Constitucional del Estado.
 
 > <small>(F. DE E., P.O. 16 DE FEBRERO DE 1992)</small>
 
@@ -362,3 +364,11 @@ Miguel Angel Barberena Vega.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Enrique Pasillas Escobedo.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE DICIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
