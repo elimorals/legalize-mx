@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-el-colegio-de-bachilleres-del-estado-de-sonora-841
 country: "mx"
 rank: "ley"
 publication_date: "1975-07-12"
-last_updated: "1980-03-20"
+last_updated: "1986-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA EL COLEGIO DE BACHILLERES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL DEL ESTADO: 20 DE MARZO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL DEL ESTADO: 15 DE DICIEMBRE DE 1986.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el sábado 12 de julio de 1975.
 
@@ -111,13 +111,11 @@ III.- Tener cinco años de experiencia académica, y
 
 IV.- Ser de reconocida solvencia moral.
 
-> <small>(REFORMADO, B.O. 20 DE MARZO DE 1980)</small>
+> <small>(REFORMADO. B.O. 15 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 9o.
 
-El Consejo Directivo estará integrado en forma permanente por:
-
-El Rector de la Universidad de Sonora, el Director General de Educación Publica, el Director del Instituto Tecnológico Regional de Hermosillo, el Director del Instituto Tecnológico Regional de Nogales, el Presidente del Patronato del Colegio de Bachilleres de Sonora, el Rector del Instituto Tecnológico de Sonora y el Delegado de la Secretaría de Educación Publica en el Estado.
+El Consejo Directivo estará integrado en forma permanente por: Los Secretarios de Planeación del Desarrollo y de Fomento Educativo y Cultura del Estado; los Directores Generales de Servicios Coordinados de Educación Pública en el Estado y del Centro de Estudios Superiores del Estado de Sonora; los Rectores de la Universidad de Sonora y del Instituto Tecnológico de Sonora; los Directores de los Institutos Tecnológicos de Hermosillo y de Nogales y por el Presidente del Patronato del Colegio.
 
 En caso de ausencia de los integrantes del Consejo, éstos serán suplidos por los funcionarios que ellos designen.
 
@@ -317,6 +315,12 @@ El Director General hará, en los términos de las normas y disposiciones reglam
 
 Las asociaciones de alumnos que se constituyan en los planteles serán independientes de los órganos del Colegio de Bachilleres y se organizarán democráticamente en la forma que los mismos estudiantes determinen.
 
+> <small>(ADICIONADO. B.O. 15 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 26.
+
+Las relaciones entre el Colegio de Bachilleres del Estado de Sonora y los maestros, empleados y demás trabajadores a su servicio se regirán por la Ley de Servicio Civil para el Estado de Sonora.
+
 t r a n s i t o r i o :
 
 UNICO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
@@ -358,3 +362,13 @@ UNICO.- La presente ley entrará en vigor a partir de la fecha de su publicació
 B.O. 20 DE MARZO DE 1980.
 
 UNICO.- Esta ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
+
+B.O. 15 DE DICIEMBRE DE 1986.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los maestros, empleados y demás trabajadores del Colegio de Bachilleres del Estado de Sonora, conservarán los derechos y prestaciones laborales que hasta la fecha han venido disfrutando.
