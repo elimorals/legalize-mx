@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-3931"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-11-16"
-last_updated: "1992-06-13"
+last_updated: "1993-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 1985.
 
@@ -69,11 +69,11 @@ El titular del Ejecutivo Estatal contará con las unidades de coordinación, ase
 
 Las dependencias y entidades de la Administración Pública del Estado conducirán sus actividades de acuerdo con los planes, programas y proyectos aprobados con base en las políticas que para el logro de los objetivos y prioridades determine el Titular del Ejecutivo Estatal.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1988)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 6o.
 
-Las Secretarías: General de Gobierno, de Programación y Finanzas, de la Contraloría, de Educación, Cultura y Deporte, de Desarrollo Urbano y Vivienda, de Desarrollo Económico y de Salud y Bienestar Social, dependerán directamente del Gobernador y tendrán igual rango, por lo que no habrá entre ellas preeminencia alguna. Serán consideradas como dependencias de coordinación global y sus titulares ejercerán las funciones de su competencia por acuerdo del Gobernador.
+Las Secretarías dependerán directamente del Gobernador y tendrán igual rango, por lo que no habrá entre ellas preeminencia alguna. Serán consideradas como dependencias de coordinación global y sus titulares ejercerán las funciones de su competencia por acuerdo del Gobernador.
 
 ###### ARTICULO 7o.
 
@@ -127,7 +127,7 @@ Las dependencias y entidades están obligadas a proporcionarse la información y
 
 DE LA COMPETENCIA DE LAS DEPENDENCIAS CENTRALIZADAS.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 19o.
 
@@ -139,11 +139,13 @@ Secretaría de Finanzas.
 
 Secretaría de la Contraloría.
 
-Secretaría de Desarrollo Urbano y Rural.
+Secretaría de Desarrollo Urbano.
 
-Secretaría de Salud y Bienestar Social.
+Secretaría de Desarrollo Rural.
 
 Secretaría de Educación, Cultura y Deporte.
+
+Secretaría de Salud y Bienestar Social.
 
 Secretaría de Planeación y Promoción Económica.
 
@@ -283,41 +285,135 @@ XIII.- Refrendar las leyes, reglamentos y decretos del Ejecutivo Estatal que le 
 
 XIV.- Los demás que le atribuyan las leyes y reglamentos vigentes siempre que esta Ley no los señale como exclusivos de otra dependencia.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 23o.
 
-A la Secretaría de Desarrollo Urbano y Rural corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Urbano corresponde el despacho de los siguientes asuntos.
 
-I.- Formular, proponer y aplicar los programas estatales de desarrollo urbano y rural, y los relativos a infraestructura y fomento de vivienda, agropecuario, forestal y pesquero;
+I.- Instrumentar y conducir las políticas y los programas relativos a asentamientos humanos, desarrollo urbano, protección del ambiente, ecología, vivienda y obras públicas del Estado, bajo las directrices que se determinen en el marco del Plan Estatal de Desarrollo y Leyes de la materia;
 
-II.- Formular, proponer y aplicar los programas de conservación y mejoramiento ecológico del Estado;
+II.- Coordinar a los subcomités de las diversas áreas de su competencia del Comité de Planeación para el Desarrollo del Estado (COPLADE);
 
-III.- Formular, proponer y aplicar los programas de abastecimiento, utilización y tratamiento de aguas en el Estado;
+III.- Proporcionar la asesoría a los Ayuntamientos en la formulación de sus programas de obras, suministros de servicios públicos y desarrollo urbano;
 
-IV.- Coordinar la ejecución de los programas de cada una de las actividades sustantivas señaladas en las anteriores fracciones, con los que, en el mismo sentido, realizan, los municipios;
+IV.- Formular y proponer al Gobernador la celebración de acuerdos de coordinación con la Administración Pública Federal y con los Ayuntamientos, tendientes a la construcción de obras, prestaciones de servicios públicos y en general cualquier otro propósito de beneficio común;
 
-V.- Ejecutar la obra pública que corresponde al Gobierno del Estado;
+V.- Ejercer, por delegación del Gobernador del Estado, las atribuciones y funciones que en el desarrollo de las actividades mencionadas comprendan los convenios firmados entre el Poder Ejecutivo del Estado y la Administración Pública Federal;
 
-VI.- Mantener y conservar en condiciones óptimas de servicio, los inmuebles propiedad del Gobierno del Estado y el equipo que les pertenezca;
+VI.- Elaborar planes estacionales para aprovechar la mano de obra y materiales regionales en la construcción de vivienda, en coordinación con los organismos y dependencias que correspondan;
 
-VII.- Organizar exposiciones y ferias de carácter agrícola y ganadero;
+VII.- Promover el desarrollo urbano de la comunidad y fomentar la organización de sociedades cooperativas de vivienda y materiales de construcción;
 
-VIII.- Asesorar técnicamente a las dependencias del Ejecutivo, a los organismos públicos descentralizados, a los sectores sociales y productivos, en materia de las funciones sustantivas encomendadas a esta Secretaría;
+VIII.- Participar, en coordinación con los Gobiernos Federal y Municipal, en el sistema tendiente a satisfacer las necesidades de tierra para vivienda y para el desarrollo urbano;
 
-IX.- Promover y apoyar los programas de investigación tecnológica en las actividades agropecuarias, forestales y pesqueras, y fomentar su divulgación;
+IX.- Promover las medidas necesarias para el mejoramiento urbano de las zonas marginadas;
 
-X.- Promocionar y fomentar la ocupación de los parque industriales existentes;
+X.- Participar en la elaboración y vigilancia del cumplimiento de las declaraciones de usos, destinos, reservas, provisiones de predios y áreas que se expidan en el Estado, en coordinación con los Municipios y de conformidad con las leyes de la materia;
 
-XI.- Otorgar, con acuerdo expreso del Titular del Poder Ejecutivo y con base en la legislación aplicable, concesiones, autorizaciones y licencias para la explotación de las actividades agropecuarias;
+XI.- Vigilar, en el ámbito de su competencia, el cumplimiento y aplicación de las disposiciones legales en materia de construcción y desarrollo urbano;
 
-XII.- Despachar los asuntos que en el área de su competencia le encomiende el Titular del Poder Ejecutivo;
+XII.- Formular y vigilar el cumplimiento de la reglamentación estatal de construcciones y normar las especificaciones para la elaboración de proyectos ejecutivos y de procedimientos de construcción;
 
-XIII.- Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le correspondan; y
+XIII.- Obtener o, en su caso, prestar asesoría y trabajar en forma coordinada con los Ayuntamientos de la Entidad, con las dependencias y entidades del Ejecutivo Federal, en la realización de obras públicas, y de vivienda y demás actividades relacionadas con los asentamientos humanos y con la producción, distribución y el bienestar social;
 
-XIV.- Las demás que le atribuyan las leyes y reglamentos vigentes, siempre que esta Ley no lo señale como exclusivos de otra dependencia.
+XIV.- Ejecutar y supervisar la remodelación y conservación de los edificios y en general bienes inmuebles propiedad del Estado;
 
-ARTICULO 23 BIS.- (DEROGADO, P.O. 4 DE ABRIL DE 1992)
+XV.- Programar, controlar y supervisar el ordenamientos (sic) ecológico el territorio estatal, en coordinación con la Federación y los Municipios y fomentar la cultura ecológica en la población;
+
+XVI.- Participar con la Federación y con los Municipios en la creación y administración de las reservas ecológicas, de recursos forestales y de flora y fauna silvestre en el territorio estatal;
+
+XVII.- Normar, ejecutar y vigilar el cumplimiento y aplicar sanciones, en su caso, a todas las actividades susceptibles de generar contaminación o riesgo ambiental en el ámbito de su competencia estatal;
+
+XVIII.- Ejecutar directamente o por contrato con particulares las obras públicas del Gobierno del Estado, de la Federación o de los Municipios, que les sean encomendadas;
+
+XIX.- Expedir, de conformidad con la legislación aplicable al caso, las bases a que se deberán sujetar los concursos de obras públicas y, previo acuerdo del Ejecutivo Estatal, adjudicar los contratos relativos, en la esfera de su competencia;
+
+XX.- Administrar la maquinaria y equipo que para las obras posea el Gobierno del Estado. Para su registro e inventarios deberá existir coordinación con la Oficialía Mayor;
+
+XXI.- Participar en coordinación con las autoridades federales y con el concurso de las Municipales, en los planes y programas para el abastecimiento y tratamiento de aguas, servicios de drenaje, alcantarillado y demás complementarios, en los centros de población;
+
+XXII.- Promocionar y fomentar la ocupación de los parques industriales existentes;
+
+XXIII.- Despachar los asuntos que en el área de su competencia le encomiende el titular del Poder Ejecutivo;
+
+XXIV.- Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le corresponda; y
+
+XXV.- Los demás que le atribuyan la Leyes y Reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otras dependencias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JUNIO DE 1993)</small>
+
+ARTICULO 23 BIS.- A la Secretaría de Desarrollo Rural corresponde el despacho de los siguientes asuntos:
+
+I.- Diseñar, ejecutar, evaluar y apoyar la política agropecuaria, pesquera y forestal del Estado, conforme a lo señalado en el Plan Estatal de Desarrollo;
+
+II.- Coordinar a los subcomités de agricultura y recursos hidráulicos y pesca del Comité de Planeación para el Desarrollo del Estado (COPLADE);
+
+III.- Propiciar la participación de los sectores público, social y privado en la planeación, programación, ejecución y evaluación de los programas agropecuarios, pesqueros y forestales;
+
+IV.- Suscribir, por delegación expresa del Gobernador del Estado, convenios y acuerdos entre el Poder Ejecutivo Estatal y la Administración Pública Federal en materias relativas a su competencia, así como ejercer las atribuciones y funciones que en el desarrollo de las actividades antes mencionadas contengan los convenios y acuerdos señalados;
+
+V.- Servir de órgano de consulta y asesoría en su materia para las dependencias y entidades públicas, así como los sectores social y privado;
+
+VI.- Proponer el otorgamiento de estímulos a los productores para que se intensifiquen racional y técnicamente sus explotaciones, reduzcan al máximo sus áreas improductivas y contribuyan al mejoramiento e incremento de los recursos naturales del Estado, con el apoyo de las autoridades federales;
+
+VII.- Promover la organización de productores relacionados con las actividades de su competencia; llevar su registro, y proponer y vigilar acuerdos en materia de seguro agrícola y ganadero;
+
+VIII.- Otorgar apoyos y asesoría a los productores del Estado para la comercialización de sus productos en mercados externos a la Entidad;
+
+IX.- Promover la creación y llevar un registro de las Asociaciones Agrícolas, Ganaderas y Forestales en el Estado, así como apoyar su acción dirigida a la realización de sus fines;
+
+X.- Elaborar y mantener actualizado el inventario de los recursos relativos a su competencia, y promover su aprovechamiento racional;
+
+XI.- Participar en la preservación y fomento de los recursos naturales renovables y desarrollar su potencial productivo, coordinadamente con la Federación y con los Municipios;
+
+XII.- Promover la aprobación de créditos agrícolas, ganaderos y forestales ante la banca, presentando sugerencias para orientar su mejor distribución entre los sectores dedicados a la explotación de la tierra;
+
+XIII.- Impulsar la planeación y desarrollo de la industria rural y las actividades productivas complementarias al cultivo de la tierra;
+
+XIV.- Elaborar estudios sobre las oportunidades y condiciones de la fuerza de trabajo campesina, en previsión de la posible oferta y demanda de mano de obra asalariada regional o local;
+
+XV.- Promover nuevas fuentes de trabajo en el campo, para evitar la emigración;
+
+XVI.- Proyectar, programar y dirigir conjuntamente con las comunidades rurales, las obras de infraestructura tendientes a facilitar su desarrollo económico y el mejoramiento de su condición familiar;
+
+XVII.- Establecer centrales de maquinaria, para la ejecución de las obras que por orden de importancia requiera el desarrollo agropecuario del Estado y operarlas con los recursos materiales y humanos que se le autoricen;
+
+XVIII.- Participar en coordinación con las dependencias y entidades federales y estatales, en la planeación y programación de proyectos de inversión y obras tendientes a promover el racional aprovechamientos (sic) de los recursos naturales del Estado;
+
+XIX.- Coordinar su acción con las autoridades federales, a fin de procurar el uso y aprovechamiento total o racional de las tierras y aguas para evitar su ociosidad;
+
+XX.- Planear la división del territorio del Estado en zonas económico-agropecuarias para facilitar la realización de sus programas y establecer los centros de desarrollo y productividad rural necesarios, en favor de la realidad ecológica y económica de cada región;
+
+XXI.- Tomar las medidas de fomento necesarias para que los minifundios de propiedad privada o agraria, sean agrupados en unidades organizativas de extensión adecuada, con el objeto de favorecer su tecnificación y financiamiento para mejorar la producción, industrialización y comercialización de sus productos, coordinándose con las autoridades e instituciones federales y con los Municipios;
+
+XXII.- Cuadyuvar (sic) con las autoridades competentes en la organización económica y social de ejidos, comunidades y pequeñas propiedades con el objeto de lograr un mejor aprovechamiento de sus recursos agrícolas y ganaderos, así como para mejorar el nivel de vida de la población rural;
+
+XXIII.- Establecer y aplicar métodos y técnicas encaminadas al mejor aprovechamiento de las tierras a través de sistemas intensivos de cultivo, de variedad de especies y plantas del empleo de la semilla mejorada, fertilizantes y parasiticidas, maquinaria e implementos agrícolas y de la capacitación y uso racional de las aguas, a fin de hacer redituable la explotación de productos agrícolas en el medio rural;
+
+XXIV.- Planear e impulsar el establecimiento de pastizales, praderas artificiales, granjas, postas zootécnicas, centro de reproducción, campos de experimentación y áreas de extensionismo, para el fomento de la ganadería;
+
+XXV.- Planear y fomentar las explotaciones porcícolas, avícolas, cunícolas, piscícolas y apícolas y en general de cualesquiera otras especies animales aprovechables;
+
+XXVI.- Realizar en coordinación con los Ayuntamientos y Dependencias Federales, campañas permanentes para prevenir y combatir plagas, siniestros y enfermedades que ataquen las especies vegetales y animales en el Estado;
+
+XXVII.- Prevenir, controlar y combatir todo tipo de plagas, enfermedades y epizootias que afecten la productividad rural, aplicar las medidas prácticas que se juzguen necesarias; formular el establecimiento de plantas productivas de parasiticidas y equipos para su aplicación; permitir que las especies vegetales y animales que se consideren nocivas para la productividad rural sean sustituidas mediante la adaptación y explotación intensiva de las especies y razas adecuadas con el apoyo de las autoridades federales;
+
+XXVIII.- Fomentar y apoyar en coordinación con las dependencias y asociaciones de productores, los programas de investigación y enseñanza agropecuaria y forestal, así como divulgar las técnicas y sistemas que mejoren la producción en dichos campos;
+
+XXIX.- Promover y apoyar los programas de investigación tecnológica en las actividades agropecuarias, forestales y pesqueras y fomentar su divulgación;
+
+XXX.- Otorgar, con acuerdo expreso del titular del Poder Ejecutivo y con base en la legislación aplicable, concesiones, autorizaciones y licencias para la explotación de las actividades agropecuarias;
+
+XXXI.- Organizar ferias, exposiciones y certámenes en las materias que sean de su competencia y participar en congresos, seminarios y reuniones de trabajo que se realicen dentro y fuera del Estado.
+
+XXXII.- Lograr la eficaz utilización de los recursos hidráulicos del Estado, coordinando su actuación con las autoridades federales correspondientes. Determinar las necesidades de obras de captación, derivación y alumbramientos de aguas en las distintas comunidades rurales del Estado; proyectar y vigilar que en los terrenos de riego el uso y manejo de las aguas se efectúe empleando la mejor técnica y controlar al máximo los escurrimientos superficiales, para poder aprovechar las precipitaciones anuales, principalmente en las zonas áridas y semiáridas, tratando de mejorar, en las mismas, especies de pastos convenientes para el fomento de la ganadería; y coordinarse con la Secretaría de Desarrollo Urbano para el tratamiento de aguas para fines agropecuarios;
+
+XXXIII.- Despachar los asuntos que en al área de su competencia le encomiende el titular del Poder Ejecutivo;
+
+XXXIV.- Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le corresponda; y
+
+XXXV.- Los demás que le atribuyan la Leyes y Reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otras dependencias.
 
 ###### ARTICULO 24o.
 
@@ -377,23 +473,25 @@ VII.- Elaborar el proyecto del programa Presupuesto anual.
 
 VIII.- Las demás que le atribuyan las leyes, reglamentos y convenios vigentes, siempre que esta Ley no los señale como exclusivas de otras dependencias.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1992)</small>
+ARTICULO 24 BIS (SIC).- (DEROGADO, P.O. 5 DE JUNIO DE 1993)
 
-ARTICULO 24 BIS (SIC).- A la Secretaría de Planeación y Promoción Económica corresponde el despacho de los siguientes asuntos:
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1993)</small>
 
-I.- Coordinar, ejecutar, dar seguimiento y evaluar al Sistema Estatal de Planeación Democrática;
+ARTICULO 24 BIS 1.- A la SECRETARIA DE PLANEACION Y PROMOCION ECONOMICA corresponde el despacho de los siguientes asuntos:
+
+I.- Coordinar, ejecutar, dar seguimiento y evaluar al Sistema Estatal de Planeación Democrática.
 
 II.- Coordinar el Comité de Planeación para el Desarrollo del Estado;
 
-III.- Promover y gestionar con los Ayuntamientos del Estado, el funcionamiento de los comités municipales de planeación, así como de los programas de las actividades en materia de las funciones sustantivas encomendadas a la Secretaría;
+III.- Promover y gestionar con los Ayuntamientos del Estado, el funcionamiento de los comités de planeación, así como apoyar sus programas relacionados con las funciones encomendadas a la Secretaría;
 
-IV.- Promover la participación organizada y democrática de los diversos grupos sociales y privados, en la planeación del desarrollo;
+IV.- Promover la participación organizada y democrática de los diversos grupos sociales y privados, en la planeación del desarrollo.
 
-V.- Coordinar la elaboración y actualización del Plan Estatal de Desarrollo, contribuir en la elaboración de los planes municipales, los programas sectoriales y especiales, e impulsar su ejecución;
+V.- Coordinar la elaboración y actualización del Plan Estatal de Desarrollo, contribuir en la elaboración de los Planes Municipales, los Programas Sectoriales y Especiales, e impulsar su ejecución;
 
 VI.- Coordinar y orientar el proceso anual de programación-presupuestación, e integrar y evaluar los programas operativos anuales de inversión, gasto y financiamiento;
 
-VII.- Gestionar, instrumentar, controlar y evaluar periódicamente el Programa Nacional de Solidaridad y los demás programas derivados del Convenio Unico de Desarrollo del Estado;
+VII.- Gestionar, instrumentar, controlar y evaluar periódicamente el Programa Nacional de Solidaridad y los demás programas derivados del Convenio Unico de Desarrollo Federación-Estado;
 
 VIII.- Impulsar la integración y funcionamiento del Sistema Estatal de Información;
 
@@ -409,7 +507,7 @@ XIII.- Participar en la elaboración de los programas de apoyo, promoción y des
 
 XIV.- Asesorar técnicamente a las dependencias del Ejecutivo, a los organismos públicos descentralizados y a los sectores sociales y productivos en materia de las funciones sustantivas encomendadas a esta Secretaría;
 
-XV.- Participar coordinadamente con las dependencias del gobierno federal, con las instituciones de educación superior y con los sectores, social y privado, en la promoción, asistencia técnica y capacitación, de los pequeños y medianos empresarios, así como divulgar los programas y actividades que para beneficio de ellos se realicen;
+XV.- Participar coordinadamente con las dependencias del gobierno federal, con las instituciones de educación superior y con los sectores social y privado, en la promoción, asistencia técnica y capacitación, de los pequeños y medianos empresarios, así como divulgar los programas y actividades que para beneficio de ellos se realicen;
 
 XVI.- Fomentar y apoyar la exportación de productos;
 
@@ -419,13 +517,13 @@ XVIII.- Participar en congresos, convenciones, exposiciones y ferias de carácte
 
 XIX.- Promover la elaboración de proyectos que permitan el aprovechamiento y la comercialización de los recursos naturales con los que cuenta el Estado;
 
-XX.- Otorgar, con el acuerdo expreso del Titular del Poder Ejecutivo y con base en la legislación aplicable, concesiones, autorizaciones y licencias para la explotación de las actividades a que se refiere la fracción XI de este artículo;
+XX.- Otorgar, con el acuerdo expreso del titular del Poder Ejecutivo y con base en la legislación aplicable, concesiones, autorizaciones y licencias para la explotación de las actividades a que se refiere la fracción XI de este artículo;
 
-XXI.- Despachar los asuntos que en el área de su competencia le encomiende el Titular del Poder Ejecutivo;
+XXI.- Despachar los asuntos que en el área de su competencia le encomiende el titular del Poder Ejecutivo;
 
 XXII.- Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le correspondan; y
 
-XXIII.- Las demás que le atribuyan las leyes y reglamentos vigente, siempre que esta Ley no las señale como exclusivos de otra dependencia.
+XXIII.- Los demás que le atribuyan las Leyes y Reglamentos vigentes, siempre que esta Ley no las señale como exclusivos de otra dependencia.
 
 ###### ARTICULO 25o.
 
@@ -574,3 +672,7 @@ P.O. 13 DE JUNIO DE 1992.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
 
 SEGUNDO.- El Congreso del Estado, de conformidad con el Convenio de Ejecución del Acuerdo Nacional para la Modernización Educativa suscrito por los Gobiernos Federal y Estatal con fecha 18 de mayo del año en curso, establecerá un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que se denominará "COORDINACION DE LOS SERVICIOS EDUCATIVOS DEL ESTADO DE COLIMA". En base a los convenios suscritos por el Poder Ejecutivo con el Sindicato Nacional de los Trabajadores de la Educación y el Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado, expedirá las disposiciones relativas al régimen laboral y de seguridad social aplicables a los trabajadores de la educación que formaron parte del Sistema Educativo Federal y que a partir de la fecha señalada en dicho Convenio, quedarán adscritos al mencionado organismo público, formando parte del Sistema Estatal.
+
+P.O. 5 DE JUNIO DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
