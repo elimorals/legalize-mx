@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1962-06-13"
+last_updated: "1963-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 1962.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 1963.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -3823,11 +3823,17 @@ Tienen derecho de habitar la casa y de aprovechar los frutos de la parcela afect
 
 Los beneficiarios de los bienes afectos al Patrimonio de la Familia serán representados en sus relaciones con tercero, en todo lo que al Patrimonio se refiere, por el que lo constituyó, y, en su defecto, por el que nombre la mayoría. El representante tendrá también la administración de dichos bienes.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1957)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1963)</small>
 
 ###### Art. 727.
 
-El valor máximo de los bienes afectados al Patrimonio de Familia, será de: - I.- $50,000.00 para los Municipios de Monterrey, San Nicolás de los Garza, Villa de Guadalupe y San Pedro Garza García.- II.- $25,000.00 para los Municipios de Linares, Cadereyta, Montemorelos, Cerralvo, Sabinas Hidalgo, Lampazos, Villaldama, Dr. Arroyo y Gral. Terán. III.- $15,000.00 para los demás Municipios del Estado.
+El valor máximo de los bienes afectos al Patrimonio de Familia será de:
+
+I.- $60,000.00 (SESENTA MIL PESOS, 00/100, M.N.) para los Municipios de Monterrey, San Nicolás de los Garza, Villa de Guadalupe y Garza García, N.L.
+
+II.- $30,000.00 (TREINTA MIL PESOS, 00/100, M.N.) para los Municipios de Linares, Cadereyta Jiménez, Montemorelos, Cerralvo, Sabinas Hidalgo, Villaldama, Dr. Arroyo, General Terán, Villa de Santiago, Santa Catarina y Cd. Anahuác, N.L.
+
+III- $15,000.00 (QUINCE MIL PESOS, 00/100, M.N.) para los demás Municipios del Estado.
 
 ###### Art. 728.
 
@@ -6731,7 +6737,7 @@ Si el testador ignoraba que la cosa fuese propia del heredero o del legatario, s
 
 ###### Art. 1338.
 
-El legado que consiste en la devolución de la cosa recibida en prenda, o en el título constitutivo de una hipoteca, sólo extingue el derecho de prenda o hipoteca, pero no la deuda, a no ser que así se prevenga expresamente.
+El legado consiste en la devolución de la cosa recibida en prenda, o en el título constitutivo de una hipoteca, sólo extingue el derecho de prenda o hipoteca, pero no la deuda, a no ser que así se prevenga expresamente.
 
 ###### Art. 1339.
 
@@ -14698,3 +14704,7 @@ La presente Ley empezará a regir al día siguiente de su publicación en el Per
 ###### ARTICULO SEGUNDO.
 
 Queda derogado el Decreto No. 35 del H. Congreso del Estado de fecha 5 de julio de 1944, Publicado en el Periódico Oficial del Estado, bajo el número 55 de fecha 8 de los mismos mes y año; pero no obstante seguirá aplicándose, transitoriamente, para los juicios y procedimientos judiciales que se encuentren en tramitación antes de la vigencia de la presente Ley.
+
+P.O. 19 DE JUNIO DE 1963.
+
+UNICO: Este decreto surtirá sus efectos desde el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
