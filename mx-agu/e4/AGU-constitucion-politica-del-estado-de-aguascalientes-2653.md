@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1943-12-14"
+last_updated: "1944-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 1943.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 1944.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -393,9 +393,9 @@ Son facultades y obligaciones del Gobernador:
 
 I.- Promulgar, publicar, ejecutar y hacer que se ejecuten las leyes, haciendo uso en su caso de la facultad que le concede el artículo 26.
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1919)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 1944)</small>
 
-II.- Presentar al Congreso cada año, al día siguiente de la apertura del primer período de sesiones ordinarias, un informe, por escrito, sobre el estado que guarden los diversos ramos de la Administración Pública, y dentro de los primeros diez días del mismo periodo, los Proyectos de Presupuestos de Ingresos y Egresos del Estado, para el siguiente ejercicio fiscal.
+II.- Presentar al Congreso cada año, al día siguiente de la apertura del primer período de sesiones ordinarias, un informe, por escrito, sobre el estado que guarden los diversos ramos de la Administración Pública, y, a más tardar el día diez de diciembre, los Proyectos de Presupuesto de Ingresos y de Egresos del Estado, para el siguiente ejercicio fiscal.
 
 III.- Asistir a la apertura del primer período de sesiones del Congreso y presentar por escrito cuando se abra un período de sesiones extraordinarias promovido por él, las razones o causas que hicieron necesaria la convocatoria.
 
@@ -431,13 +431,11 @@ XV.- Conceder indultos y reducción de penas en los términos que lo prescriban 
 
 La Administración Municipal se ejerce por los Ayuntamientos que residirán en las Cabeceras de los Municipios.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1935)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 1944)</small>
 
 ###### Artículo 43°
 
-Los miembros de los Ayuntamientos serán vecinos del Estado y electos popularmente, debiendo tener domicilio legal en el Municipio en que hubieren de funcionar, por lo menos seis meses antes de la elección. Los Ayuntamientos se renovarán totalmente cada dos años.
-
-Los presidentes municipales, regidores y síndicos de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
+Los miembros de los Ayuntamientos serán vecinos del Estado y electos popularmente, debiendo tener domicilio legal en el Municipio en que hubieren de funcionar, por lo menos seis meses antes de la elección. Los Ayuntamientos se renovarán totalmente cada tres años. Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser reelectos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
 ###### Artículo 44°
 
@@ -750,3 +748,15 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 P.O. 14 DE DICIEMBRE DE 1943.
 
 El presente decreto empezará a surtir sus efectos con relación al próximo Gobernador electo, que deberá tomar posesión de su cargo el primero de diciembre de mil novecientos cuarenta y cuatro.
+
+P.O. 22 DE SEPTIEMBRE DE 1944.
+
+DECRETO NÚMERO 75, QUE REFORMA EL ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
+
+El presente Decreto empezará a surtir sus efectos con relación a los Ayuntamientos que deberán elegirse el segundo domingo de noviembre de este año y que deberán tomar posesión de sus cargos el primero de enero de mil novecientos cuarenta y cinco.
+
+P.O. 22 DE SEPTIEMBRE DE 1944.
+
+DECRETO NÚMERO 76, QUE REFORMA EL ARTÍCULO 41, FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA LOCAL.
+
+Este Decreto empezará a surtir sus efectos con relación a los proyectos de presupuestos que deben presentarse para el ejercicio fiscal del año entrante.
