@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-coordinacion-fiscal-del-estado-de-baja-california-2763"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "1989-08-20"
+last_updated: "1989-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 1989.
+> <small>N. DE E. SE ABROGA EL DECRETO No. 172, PUBLICADO EN EL PERIODICO OFICIAL DE FECHA 20 DE AGOSTO DE 1989, POR LO CUAL LOS ARTICULOS 3o. Y 4o. QUEDAN EN LOS TERMINOS DEL TEXTO ORIGINAL DE FECHA 31 DE DICIEMBRE DE 1987.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1989.
 
 Ley publicada en la Sección Décimo Primera del Periódico Oficial del Estado de Baja California, el jueves 31 de diciembre de 1987.
 
@@ -59,17 +61,17 @@ Para los efectos de esta Ley, son participaciones federales, las asignaciones qu
 
 DE LAS PARTICIPACIONES FEDERALES Y ESTATALES A LOS MUNICIPIOS.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1989)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
 
 ###### ARTICULO 3o.
 
-De las cantidades que perciba el Estado, dentro del ejercicio de que se trate, por concepto de participaciones federales derivadas de los fondos general de participaciones y financiero complementario previsto en la Ley de Coordinación Fiscal Federal, los Municipios recibirán el equivalente al 35% de dicha cantidad, así como el 20% del total que perciba el Estado por concepto de participación federal derivada de la recaudación del Impuesto sobre Tenencia y Uso de Vehículos que se obtenga en el Territorio Estatal y el 100% del Fondo de Fomento Municipal. Dichas cantidades serán distribuidas entre los mismos, en los términos de la presente Ley.
+De las cantidades que perciba el Estado, dentro del ejercicio de que se trate, por concepto de participaciones federales derivadas de los Fondos General de Participaciones y Financiero Complementario previsto en la Ley de Coordinación Fiscal Federal, los Municipios recibirán el Equivalente al 20% de dicha cantidad, así como del 20% del total que perciba el Estado por concepto de participación federal derivada de la Recaudación del Impuesto sobre Tenencia o uso de vehículos que se obtenga en el Territorio Estatal y el 100% del Fondo de Fomento Municipal. Dichas cantidades serán distribuidas entre los mismos, en los términos de la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 1989)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1989).
 
 ###### ARTICULO 4o.
 
-Con el 35%, del total que perciba el Estado, derivado de los fondos general de participaciones y financiero complementario, el Gobierno del Estado, constituirá un fondo único de participaciones federales a los Municipios, el cual se incrementará con el 100% del Fondo de Fomento Municipal. Las cantidades que ha cada Municipio corresponda serán distribuidas de acuerdo a las siguientes reglas:
+Con el 20%, del total que perciba el Estado, derivado de los Fondos General de Participaciones y Financiero Complementario, el Gobierno del Estado, constituirá un Fondo Unico de Participaciones Federales a los Municipios el cual se incrementará con el 100% del Fondo de Fomento Municipal. Las cantidades que ha cada Municipio corresponda serán distribuidas de acuerdo a las siguientes reglas:
 
 I.- El 50%, en proporción a la recaudación obtenida en el Municipio de que se trate, por concepto de Impuesto (sic) Federales Coordinados e Impuestos Federales recaudados en las Oficinas Federales de Hacienda correspondientes, durante el año inmediato anterior a aquel para el que se hace el cálculo.
 
@@ -206,3 +208,9 @@ P.O. 20 DE AGOSTO DE 1989.
 ###### ARTICULO 2o.
 
 Las reformas que se señalan en el Artículo 1o. de este Decreto, entrarán en vigor a partir del día primero de diciembre de 1989.
+
+P.O. 30 DE NOVIEMBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto, entrará en vigor el mismo día al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
