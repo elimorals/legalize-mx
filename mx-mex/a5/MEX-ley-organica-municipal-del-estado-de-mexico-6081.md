@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "1999-02-15"
+last_updated: "2000-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE FEBRERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MARZO DE 2000.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -935,21 +935,15 @@ V. Autorizar inhumaciones y exhumaciones;
 
 VI. Hacer lo que no esté previsto en esta Ley y en otros ordenamientos municipales.
 
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2000)</small>
+
 ###### Artículo 59.
 
-La elección de delegados y subdelegados se sujetará al siguiente procedimiento:
+La elección de Delegados y Subdelegados se sujetará al procedimiento establecido en la convocatoria que al efecto expida el Ayuntamiento. Por cada Delegado y Subdelegado deberá elegirse un suplente.
 
-I.- Los vecinos propondrán las fórmulas de candidatos, en los términos de la convocatoria que al efecto acuerde y publique al ayuntamiento;
+La elección de los Delegados y Subdelegados se realizará en la fecha señalada en la convocatoria entre el último domingo de octubre y el 15 de noviembre del primer año de gobierno del Ayuntamiento.
 
-II.- Los vecinos reunidos en asamblea, votarán por alguna de las personas propuestas;
-
-III.- Serán nombrados delegados y subdelegados, así como sus respectivos suplentes, los que obtengan el mayor número de votos;
-
-IV.- La elección de delegados y subdelegados se llevará a cabo en la fecha señalada en el calendario que para tal efecto señale el ayuntamiento, entre el último domingo del mes de enero y el 21 de marzo;
-
-V.- Los delegados y subdelegados que sean electos en fecha anterior al día 5 de febrero, entrarán en funciones este día; los que sean electos en fecha posterior a la señalada, entrarán en funciones al día siguiente de la elección.
-
-Los nombramientos correspondientes serán firmados por el presidente municipal y el secretario del ayuntamiento, entregándose a los electos a más tardar el día que entren en funciones.
+La convocatoria deberá expedirse cuando menos diez días antes de la elección. Sus nombramientos serán firmados por el Presidente Municipal y el Secretario del Ayuntamiento, entregándose a los electos a más tardar el día en que entren en funciones, que será el primer día de diciembre del mismo año.
 
 ###### Artículo 60.
 
@@ -965,9 +959,11 @@ III. Ser de reconocida probidad.
 
 Los jefes de sector o de sección y de manzana serán nombrados por el ayuntamiento.
 
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2000)</small>
+
 ###### Artículo 62.
 
-Las autoridades auxiliares municipales durarán en su encargo tres años, pudiendo ser removidos por causa grave que califique el ayuntamiento con el voto aprobatorio de las dos terceras partes de sus integrantes, previa garantía de audiencia. Tratándose de delegados y subdelegados, se llamará a los suplentes; si éstos no se presentaren, se designará a los sustitutos, conforme a lo establecido en esta Ley.
+Las autoridades Auxiliares podrán ser removidas por causa grave que califique el Ayuntamiento por el voto aprobatorio de las dos terceras partes de sus integrantes, previa garantía de audiencia. Tratándose de Delegados y Subdelegados, se llamará a los suplentes; si éstos no se presentaren se designará a los sustitutos, conforme a lo establecido en la presente Ley y demás disposiciones aplicables.
 
 ###### Artículo 63.
 
@@ -2112,3 +2108,9 @@ Publíquese el presente decreto en la "Gaceta del Gobierno".
 ###### ARTICULO SEGUNDO.
 
 Este decreto entrará en vigor el día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 31 DE MARZO DE 2000.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta de Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
