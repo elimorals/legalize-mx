@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "1957-12-31"
+last_updated: "1963-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-12-30"
 
 LEY ORGANICA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1957.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE FEBRERO DE 1963.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -58,6 +58,10 @@ III.- Por leyes o actos de las autoridades de éstos, que invadan la esfera de l
 El juicio de amparo se substanciará y decidirá con arreglo a las formas y procedimientos que determina esta ley.
 
 A falta de disposición expresa, se estará a las prevenciones del Código Federal de Procedimientos Civiles.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 1963)</small>
+
+En los juicios de amparo en que se reclamen actos que tengan o puedan tener como consecuencia privar de la propiedad o de la posesión y disfrute de sus tierras, aguas, pastos y montes a los ejidos y a los núcleos de población que de hecho o por derecho guarden el estado comunal o a los ejidatarios o comuneros, deberá suplirse la deficiencia de la queja y no procederán el desistimiento, el sobreseimiento por inactividad ni la caducidad de la instancia cuando se afecten derechos de los ejidos o núcleos de población comunal.
 
 ###### ARTICULO 3o.
 
@@ -103,6 +107,16 @@ La mujer casada puede pedir amparo sin la intervención del marido.
 
 Las personas morales privadas podrán pedir amparo por medio de sus legítimos representantes.
 
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 1963)</small>
+
+###### ARTICULO 8o. Bis.
+
+Tienen representación legal para interponer el juicio de amparo en nombre de un núcleo de población:
+
+I.- Los comisariados ejidales o de bienes comunales.
+
+II.- Los miembros del comisariado o del Consejo de Vigilancia o cualquier ejidatario o comunero perteneciente al núcleo de población perjudicado, si después de transcurridos quince días de la notificación del acto reclamado, el comisariado no ha interpuesto la demanda de amparo.
+
 ###### ARTICULO 9o.
 
 Las personas morales oficiales podrán ocurrir en demanda de amparo, por conducto de los funcionarios o representantes que designen las leyes, cuando el acto o la ley que se reclame afecte los intereses patrimoniales de aquéllas.
@@ -121,6 +135,14 @@ En los casos no previstos por esta ley, la personalidad se justificará en el ju
 
 Tanto el agraviado como el tercero perjudicado podrán constituir apoderado para que los represente en el juicio de amparo, por medio de escrito ratificado ante el juez de Distrito o autoridad que conozca de dicho juicio.
 
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 1963)</small>
+
+Quienes interpongan amparo en nombre y representación de un núcleo de población acreditarán su personalidad en la siguiente forma:
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 1963)</small>
+
+Los miembros del comisariado o del Consejo de Vigilancia, con las credenciales que les haya expedido la autoridad competente y, en su defecto, con simple oficio de la propia autoridad competente para expedir la credencial o con la copia del acta de la asamblea general en la que hayan sido electos. No podrá desconocerse su personalidad, aún cuando haya vencido el término para el que fueron electos, si no se ha hecho nueva elección de los comisariados y de los Consejos de Vigilancia.
+
 ###### ARTICULO 13.
 
 Cuando alguno de los interesados tenga reconocida su personalidad ante la autoridad responsable, tal personalidad será admitida en el juicio de amparo para todos los efectos legales.
@@ -132,6 +154,10 @@ No se requiere cláusula especial en el poder general para que el mandatario pro
 ###### ARTICULO 15.
 
 En caso de fallecimiento del agraviado o del tercero perjudicado, el representante de uno u otro continuará en el desempeño de su cometido cuando el acto reclamado no afecte derechos estrictamente personales, entretanto interviene la sucesión en el juicio de amparo.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 1963)</small>
+
+Cuando se trate de ejidatarios o comuneros, tendrá derecho a continuar el trámite del amparo el campesino que tenga derecho a heredar al quejoso conforme a las leyes agrarias.
 
 ###### ARTICULO 16.
 
@@ -173,11 +199,19 @@ El término para la interposición de la demanda de amparo será de quince días
 
 Se exceptúan de lo dispuesto en el artículo anterior:
 
-I.- Los casos en que por la sola expedición de una ley, ésta sea reclamable en la vía de amparo, pues entonces el término para la interposición de la demanda será de treinta días, que se contarán desde que la propia ley entre en vigor;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 4 DE FEBRERO DE 1963)</small>
+
+I.- Los casos en que por la sola expedición de una ley, ésta sea reclamable en la vía de amparo, pues entonces el término para la interposición de la demanda será de treinta días, que se contarán desde que la propia ley entre en vigor. Este término regirá en el caso de los actos reclamados que causen perjuicio a los intereses individuales de ejidatarios o comuneros, sin afectar los derechos y el régimen jurídico del núcleo de población a que pertenezcan.
 
 II.- Los actos que importen peligro de privación de la vida, ataques a la libertad personal, deportación, destierro, cualquiera de los actos prohibidos por el artículo 22 de la Constitución, o la incorporación forzosa al servicio del ejército o armada nacionales.
 
-En estos casos, la demanda de amparo puede interponerse en cualquier tiempo;
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 1963)</small>
+
+Cuando el amparo se interponga contra actos que tengan o puedan tener por efecto, privar total o parcialmente, en forma temporal o definitiva, de la propiedad, posesión o disfrute de sus bienes agrarios a un núcleo de población sujeto al régimen ejidal o comunal.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 4 DE FEBRERO DE 1963)</small>
+
+En estos casos la demanda de amparo podrá interponerse en cualquier tiempo.
 
 III.- Cuando se trate de sentencias definitivas dictadas en asuntos judiciales del orden civil, en los que el agraviado no haya sido citado legalmente para el juicio, dicho agraviado tendrá el término de noventa días para la interposición de la demanda, si residiere fuera del lugar del juicio, pero dentro de la República, y de ciento ochenta días, si residiere fuera de ella; contado en ambos casos, desde el siguiente al en que tuviere conocimiento de la sentencia; pero si el interesado volviere al lugar en que se haya seguido dicho juicio, quedará sujeto al término a que se refiere el artículo anterior.
 
@@ -331,9 +365,11 @@ La violación de las garantías de los artículos 16, en materia penal, 19 y 20 
 
 En los lugares en que no resida juez de Distrito, los jueces de Primera Instancia dentro de cuya jurisdicción radique la autoridad que ejecuta o trate de ejecutar el acto reclamado tendrán facultad para recibir la demanda de amparo, pudiendo ordenar que se mantengan las cosas en el estado en que se encuentren por el término de setenta y dos horas, que deberá ampliarse en lo que sea necesario, atenta la distancia que haya a la residencia del juez de Distrito; ordenará que se rindan a éste los informes respectivos y procederá conforme a lo prevenido por el artículo 144. Hecho lo anterior, el juez de Primera Instancia remitirá al de Distrito, sin demora alguna, la demanda original con sus anexos.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 4 DE FEBRERO DE 1963)</small>
+
 ###### ARTICULO 39.
 
-La facultad que el artículo anterior reconoce a los jueces de Primera Instancia para suspender provisionalmente el acto reclamado, sólo podrá ejercerse cuando se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento judicial, deportación o destierro, o de alguno de los prohibidos por el artículo 22 de la Constitución Federal.
+La facultad que el artículo anterior reconoce a los jueces de primera instancia para suspender provisionalmente el acto reclamado, sólo podrá ejercerse cuando se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento judicial, deportación o destierro, o de alguno de los prohibidos por el artículo 22 de la Constitución Federal, o cuando se señalen como reclamados, actos que tengan o puedan tener por efecto privar de sus derechos agrarios a un núcleo de población quejoso.
 
 ###### ARTICULO 40.
 
@@ -651,9 +687,9 @@ X.- Contra actos emanados de un procedimiento judicial, cuando por virtud de cam
 
 XI.- Contra actos consentidos expresamente o por manifestaciones de voluntad que entrañen ese consentimiento;
 
-> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 4 DE FEBRERO DE 1963)</small>
 
-XII.- Contra actos consentidos tácitamente, entendiéndose por tales, aquellos contra los que no se promueva el juicio de amparo dentro de los términos que señalan los artículos 21 y 22.
+XII.- Contra actos consentidos tácitamente, entendiéndose por tales, aquellos contra los que no se promueva el juicio de amparo dentro de los términos que señalan los artículos 21 y 22. Se exceptúan de lo dispuesto en esta fracción los amparos interpuestos por núcleos de población ejidal o comunal.
 
 No se entenderá consentida tácitamente una Ley, a pesar de que siendo impugnable en amparo desde el momento de su promulgación, en los términos de la fracción VI de este artículo, no se haya reclamado, sino sólo en el caso de que tampoco se haya interpuesto amparo contra el primer acto de su aplicación en relación con el quejoso;
 
@@ -677,7 +713,9 @@ XVIII.- En los demás casos en que la improcedencia resulte de alguna disposici�
 
 Procede el sobreseimiento:
 
-I.- Cuando el agraviado desista expresamente de la demanda o se le tenga por desistido de ella, con arreglo a la ley;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 4 DE FEBRERO DE 1963)</small>
+
+I.- Cuando el agraviado desista expresamente de la demanda o se le tenga por desistido de ella, con arreglo a la ley; siempre que no se trate de amparos interpuestos por núcleos de población ejidal o comunal contra actos que afecten sus derechos agrarios total o parcialmente, ya sea en forma temporal o definitiva.
 
 II.- Cuando el agraviado muera durante el juicio, si la garantía reclamada sólo afecta a su persona;
 
@@ -685,9 +723,11 @@ III.- Cuando durante el juicio apareciere o sobreviniese alguna de las causas de
 
 IV.- Cuando de las constancias de autos apareciere claramente demostrado que no existe el acto reclamado, o cuando no se probare su existencia en la audiencia a que se refiere el artículo 155 le (sic) esta ley.
 
-> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADO PRIMER PARRAFO], D.O.F. 4 DE FEBRERO DE 1963)</small>
 
-V.- Cuando el acto reclamado proceda de autoridades civiles o administrativas y siempre que no esté reclamada la constitucionalidad de una ley, si, cualquiera que sea el estado del juicio, no se ha efectuado ningún acto procesal ni realizado por el quejoso ninguna promoción en el término de ciento ochenta días consecutivos, así sea con el sólo fin de pedir que se pronuncie la resolución pendiente.
+V.- Cuando el acto reclamado proceda de autoridades civiles o administrativas, y siempre que no esté reclamada la constitucionalidad de una ley, si, cualquiera que sea el estado del juicio, no se ha efectuado ningún acto procesal ni realizado por el quejoso ninguna promoción en el término de ciento ochenta días consecutivos, así sea con el solo fin de pedir que se pronuncie la resolución pendiente. Tratándose de amparos interpuestos por núcleos de población ejidal o comunal o por ejidatarios o comuneros en lo particular, no será causa de sobreseimiento la falta de promoción.
+
+> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
 El término debe contarse a partir de la fecha en que se haya realizado el último acto procesal o en que se haya hecho la última promoción.
 
@@ -711,6 +751,10 @@ Podrá suplirse la deficiencia de la queja cuando el acto reclamado se funde en 
 
 Podrá también suplirse la deficiencia de la queja en materia penal y la de la parte obrera en materia del trabajo, cuando se encuentre que ha habido en contra del agraviado una violación manifiesta de la ley que lo ha dejado sin defensa, y en materia penal, además, cuando se le haya juzgado por una ley que no es exactamente aplicable al caso.
 
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 1963)</small>
+
+Deberá suplirse la deficiencia de la queja en materia agraria, cuando el quejoso alegue que ha habido, en contra del núcleo de población o del ejidatario o comunero, una violación manifiesta de sus derechos agrarios sobre tierras y aguas.
+
 ###### ARTICULO 77.
 
 Las sentencias que se dicten en los juicios de amparo deben contener:
@@ -727,13 +771,17 @@ En las sentencias que se dicten en los juicios de amparo, el acto reclamado se a
 
 En las propias sentencias sólo se tomarán en consideración las pruebas que justifiquen la existencia del acto reclamado y su constitucionalidad o inconstitucionalidad.
 
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 1963)</small>
+
+En los amparos en materia agraria, se tomarán en cuenta las pruebas que aporte el quejoso y las que de oficio recabe la autoridad judicial. La autoridad que conozca del amparo resolverá sobre la inconstitucionalidad de los actos reclamados tal y como se hayan probado, aun cuando sean distintos de los invocados en la demanda.
+
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
 ###### ARTICULO 79.
 
 La Suprema Corte de Justicia, los Tribunales Colegiados de Circuito y los jueces de Distrito, en sus sentencias, podrán suplir el error en que haya incurrido la parte agraviada al citar la garantía cuya violación reclame, otorgando el amparo por la que realmente aparezca violada; pero sin cambiar los hechos o conceptos de violación expuestos en la demanda.
 
-El juicio de amparo por inexacta aplicación de la ley, contra actos de autoridades judiciales del orden civil, es de estricto derecho, y, por tanto, la sentencia que en él se dicte, a pesar de lo prevenido, en este artículo, se sujetará a los términos de la demanda, sin que sea permitido suplir ni ampliar nada en ella.
+El juicio de amparo por inexacta aplicación de la ley, contra actos de autoridades judiciales del orden civil, es de estricto derecho, y, por tanto, la sentencia que en él se dicte, a pesar de lo prevenido, en este artículo, se sujetara (sic) a los términos de la demanda, sin que sea permitido suplir ni ampliar nada en ella.
 
 ###### ARTICULO 80.
 
@@ -801,11 +849,11 @@ I.- Contra los autos y resoluciones que pronuncien los jueces de Distrito o el s
 
 II.- Contra las sentencias pronunciadas en la audiencia constitucional por los jueces de Distrito o por el superior del tribunal responsable, siempre que no se trate de los casos previstos en la fracción I del artículo 84.
 
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 4 DE FEBRERO DE 1963)</small>
 
 ###### ARTICULO 86.
 
-El recurso de revisión sólo podrá interponerse por cualquiera de las partes en el juicio, ya sea ante el juez de Distrito o autoridad que conozca del mismo, o ante el Tribunal Colegiado de Circuito o la Suprema Corte de Justicia de la Nación, según que su conocimiento corresponda a ésta o a aquél. El término para la interposición del recurso será de cinco días, contados desde el siguiente al en que surta sus efectos la notificación de la resolución recurrida.
+El recurso de revisión sólo podrá interponerse por cualquiera de las partes en el juicio, ya sea ante el juez de Distrito o autoridad que conozca del mismo, o ante el Tribunal Colegiado de Circuito o la Suprema Corte de Justicia de la Nación según que su conocimiento corresponda a ésta o a aquél. El término para la interposición del recurso será de cinco días, contados desde el siguiente al en que surta sus efectos la notificación de la resolución recurrida. En materia agraria, el término para interponar (sic) la revisión será de diez días.
 
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
@@ -828,6 +876,10 @@ Si el recurrente interpone la revisión ante el juez de Distrito o la autoridad 
 Cuando falten total o parcialmente las copias a que se refiere el párrafo anterior, se requerirá al recurrente para que presente las omitidas, dentro del término de tres días; si no las exhibiere, el juez de Distrito, la autoridad que conozca del juicio de amparo o el Tribunal Colegiado de Circuito, si se trata de revisión contra resolución pronunciada por éste en amparo directo, tendrán por no interpuesto el recurso.
 
 Si el recurso de revisión se interpuso directamente ante la Suprema Corte de Justicia o el Tribunal Colegiado de Circuito, el juez de Distrito o la autoridad que conozca del juicio, cuando falten total o parcialmente las copias, requerirán al recurrente para que presente las omitidas, dentro del término de tres días, y si no las exhibiere, lo harán saber así a la propia Corte o a dicho Tribunal, para los mismos efectos de tenerlo por no interpuesto.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 1963)</small>
+
+En materia agraria, la falta de las copias a que aluden los párrafos anteriores no será causa para que se tenga por no interpuesto el recurso, sino que la autoridad judicial mandará expedir dichas copias.
 
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
@@ -871,11 +923,15 @@ II.- Sólo tomarán en consideración las pruebas que se hubiesen rendido ante e
 
 > <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
-III.- Si consideran infundada la causa de improcedencia expuesta por el juez de Distrito o la autoridad que haya conocido del juicio de amparo en los casos del artículo 37, para sobreseer en él en la audiencia constitucional después de que las partes hayan rendido pruebas y presentado sus alegatos, podrán confirmar el sobreseimiento si apareciere probado otro motivo legal, o bien revocar la resolución recurrida y entrar al fondo del asunto, para pronunciar la sentencia que corresponda, concediendo o negando el amparo, y
+III.- Si consideran infundada la causa de improcedencia expuesta por el juez de Distrito o la autoridad que haya conocido del juicio de amparo en los casos del artículo 37, para sobreseer en él en la audiencia constitucional después de que las partes hayan rendido pruebas y presentado sus alegatos, podrán confirmar el sobreseimiento si apareciere probado otro motivo legal, o bien revocar la resolución recurrida y entrar al fondo del asunto, para pronunciar la sentencia que corresponda, concediendo o negando el amparo, y (sic)
 
 > <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
-IV.- Si en la revisión de una sentencia definitiva, en los casos de la fracción IV del artículo 83, encontraren al estudiar los agravios que se violaron las reglas fundamentales que norman el procedimiento en el juicio de amparo, o que el juez de Distrito o la autoridad que haya conocido del juicio en primera instancia, incurrió en alguna omisión que hubiere dejado sin defensa al quejoso o pudiere influir en la sentencia que deba dictarse en definitiva, revocarán la recurrida y mandarán reponer el procedimiento, así como cuando aparezca también que indebidamente no ha sido oída alguna de las partes que tenga derecho a intervenir en el juicio conforme a la ley.
+IV.- Si en la revisión de una sentencia definitiva, en los casos de la fracción IV del artículo 83, encontraren al estudiar los agravios que se violaron las reglas fundamentales que norman el procedimiento en el juicio de amparo, o que el juez de Distrito o la autoridad que haya conocido del juicio en primera instancia, incurrió en alguna omisión que hubiere dejado sin defensa al quejoso o pudiere influir en la sentencia que deba dictarse en definitiva, revocarán la recurrida y mandarán reponer el procedimiento, así como cuando aparezca también que indebidamente no ha sido oída alguna de las partes que tenga derecho a intervenir en el juicio conforme a la ley;
+
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 1963)</small>
+
+V.- Tratándose de amparos en materia agraria, examinarán los agravios del quejoso supliendo las deficiencias de la queja, y apreciarán los actos reclamados y su inconstitucionalidad conforme a lo dispuesto por el artículo 78.
 
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
@@ -946,6 +1002,10 @@ I.- En los casos de las fracciones II y III del artículo 95 de esta ley podrá 
 II.- En los casos de las fracciones I, V, VI, VII y VIII del mismo artículo, dentro de los cinco días siguientes al en que surta sus efectos la notificación de la resolución recurrida;
 
 III.- En los casos de las fracciones IV y IX del propio artículo 95, podrá interponerse dentro de un año, contando desde el día siguiente al en que se notifique al quejoso el auto en que se haya mandado cumplir la sentencia, o al en que la persona extraña a quien afecte su ejecución tenga conocimiento de ésta; salvo que se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal, deportación, destierro a (sic) de alguno de los prohibidos por el artículo 22 de la Constitución, en que la queja podrá interponerse en cualquier tiempo.
+
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 1963)</small>
+
+IV.- Cuando el quejoso sea un núcleo de población ejidal o comunal, la queja podrá interponerse en cualquier tiempo, mientras no se haya cumplimentado debidamente la sentencia que concedió el amparo.
 
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
@@ -1051,9 +1111,11 @@ Se exceptúan de lo dispuesto en el párrafo anterior, los casos en que sólo la
 
 En los casos a que se refiere el artículo 106 de esta ley, si la Sala que concedió el amparo no obtuviere el cumplimiento de la ejecutoria respectiva, dictará las órdenes que sean procedentes al juez de Distrito que corresponda, quien se sujetará a las disposiciones del artículo anterior en cuanto fueren aplicables.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 4 DE FEBRERO DE 1963)</small>
+
 ###### ARTICULO 113.
 
-No podrá archivarse ningún juicio de amparo sin que quede enteramente cumplida la sentencia en que se haya concedido al agraviado la protección constitucional, o apareciere que ya no hay materia para la ejecución. El Ministerio Público cuidará del cumplimiento de esta disposición.
+No podrá archivarse ningún juicio de amparo sin que quede enteramente cumplida la sentencia en que se haya concedido al agraviado la protección constitucional, o apareciere que ya no hay materia para la ejecución. El Ministerio Público cuidará del cumplimiento de esta disposición y especialmente que las autoridades responsables cumplan y hagan cumplir las sentencias dictadas en favor de los núcleos de población ejidal y comunal.
 
 ## TITULO SEGUNDO. DEL JUICIO DE AMPARO ANTE LOS JUZGADOS DE DISTRITO
 
@@ -1109,6 +1171,20 @@ V.- Los preceptos constitucionales que contengan las garantías individuales que
 
 VI.- El precepto de la Constitución Federal que contenga la facultad de la Federación o de los Estados que se considere vulnerada, invadida o restringida, si el amparo se promueve con apoyo en las fracciones II o III del artículo 1° de esta ley.
 
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 1963)</small>
+
+###### ARTICULO 116 Bis.
+
+Cuando el quejoso sea un núcleo de población ejidal o comunal, un ejidatario o un comunero y reclame alguno de los actos a que se refiere el artículo 2o. para los efectos de la admisión de la demanda, bastará que se formule por escrito en el que se expresen:
+
+I.- El nombre y domicilio del quejoso y de quien promueve en su nombre;
+
+II.- El acto o actos reclamados; y
+
+III.- La autoridad o agente que ejecute o trate de ejecutar el acto reclamado.
+
+Si le fuere posible al promovente, expresará también la autoridad que haya ordenado el acto reclamado y los demás puntos a que se refieren las fracciones II, IV, V y VI del artículo anterior.
+
 ###### ARTICULO 117.
 
 Cuando se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento judicial, deportación, destierro o alguno de los prohibidos por el artículo 22 de la Constitución Federal, bastará, para la admisión de la demanda, que se exprese en ella el acto reclamado; la autoridad que lo hubiese ordenado, si fuere posible al promovente; el lugar en que se encuentre el agraviado, y la autoridad o agente que ejecute o trate de ejecutar el acto. En estos casos la demanda podrá formularse por comparecencia, levantándose al efecto acta ante el juez.
@@ -1127,6 +1203,10 @@ Con la demanda exhibirán sendas copias para las autoridades responsables, el te
 
 No se tendrá por presentada la demanda, mientras el quejoso no exhiba las copias a que se refiere el párrafo anterior, y en los casos en que esta ley señale término para la promoción del amparo se tendrá por no interpuesta en tiempo la demanda si el quejoso no exhibiere las copias dentro de dicho término.
 
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 1963)</small>
+
+Se exceptúan de lo dispuesto en el párrafo anterior los amparos a que se refiere el artículo 116 BIS, en los cuales la autoridad judicial simplemente mandará expedir las copias que falten.
+
 ###### ARTICULO 121.
 
 Cuando el amparo se pida en comparecencia, el juez de Distrito, o la autoridad ante quien se haya promovido, mandará expedir las copias a que se contrae el artículo anterior.
@@ -1144,6 +1224,10 @@ Procede la suspensión de oficio:
 I.- Cuando se trate de actos que importen peligro de privación de la vida, deportación o destierro o alguno de los prohibidos por el artículo 22 de la Constitución Federal;
 
 II.- Cuando se trate de algún otro acto, que, si llegere (sic) a consumarse, haría físicamente imposible restituir al quejoso en el goce de la garantía individual reclamada.
+
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 1963)</small>
+
+III.- Cuando los actos reclamados tengan o puedan tener por consecuencia la privación total o parcial, temporal o definitiva de los bienes agrarios del núcleo de población quejoso o su substracción del régimen jurídico ejidal.
 
 La suspensión a que se refiere este artículo se decretará de plano en el mismo auto en que el juez admita la demanda, comunicándose sin demora a la autoridad responsable, para su inmediato cumplimiento, haciendo uso de la vía telegráfica, en los términos del párrafo tercero del artículo 23 de esta ley.
 
@@ -1233,6 +1317,10 @@ Cuando el amparo se pida contra el cobro de impuestos, multas u otros pagos fisc
 
 El depósito no se exigirá cuando se trate del cobro de sumas que excedan de la posibilidad del quejoso, según apreciación del juez, o cuando se trate de persona distinta del causante obligado directamente al pago; pero entonces se asegurará el interés fiscal en cualquiera otra forma aceptada en esta ley.
 
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 1963)</small>
+
+En materia agraria no se exigirá la garantía para que surta efectos la suspensión que se conceda.
+
 ###### ARTICULO 136.
 
 Si el acto reclamado afecta la libertad personal, la suspensión sólo producirá el efecto de que el quejoso quede a disposición del juez de Distrito, únicamente en lo que se refiere a su libertad personal, quedando a disposición de la autoridad que deba juzgarlo, cuando el auto emane de un procedimiento del orden penal por lo que hace a la continuación de éste.
@@ -1295,6 +1383,10 @@ Si el promovente no llenare los requisitos omitidos, no hiciere las aclaraciones
 
 Fuera de los casos a que se refiere el párrafo anterior, transcurrido el término señalado sin haberse dado cumplimiento a la providencia relativa, el juez mandará correr traslado al Ministerio Público, por veinticuatro horas, y en vista de lo que éste exponga, admitirá o desechará la demanda, dentro de otras veinticuatro horas, según fuere procedente.
 
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 1963)</small>
+
+En materia agraria, si no se hubiere expresado con precisión el acto reclamado, se prevendrá al quejoso para que en el término de 15 días haga las aclaraciones correspondientes, y pasado el término sin que se hiciera, el juez de oficio las recabará.
+
 ###### ARTICULO 147.
 
 Si el juez de Distrito no encontrare motivos de improcedencia, o se hubiesen llenado los requisitos omitidos, admitirá la demanda y, en el mismo auto, pedirá informe con justificación a las autoridades responsables y hará saber dicha demanda al tercer perjudicado, si lo hubiere; señalará día y hora para la celebración de la audiencia, a más tardar dentro del término de treinta días, y dictará las demás providencias que procedan con arreglo a esta ley.
@@ -1318,6 +1410,24 @@ Las autoridades responsables deberán rendir su informe con justificación, expo
 La falta de informe de la autoridad responsable establece la presunción de ser cierto el acto reclamado salvo prueba en contrario, quedando a cargo del quejoso la prueba de los hechos que determinen su inconstitucionalidad cuando dicho acto no sea violatorio de garantías en sí mismo, sino que su constitucionalidad o inconstitucionalidad dependa de los motivos, datos o pruebas en que se haya fundado el propio acto.
 
 Si la autoridad responsable no rinde informe con justificación, o lo hiciere sin remitir, en su caso, la copia certificada de las constancias a que se refiere el párrafo segundo de este artículo, el juez de Distrito le impondrá, en la sentencia respectiva, una multa de diez a trescientos pesos.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 1963)</small>
+
+En los amparos interpuestos por núcleos de población, las autoridades responsables, al rendir sus informes justificados, deberán expresar:
+
+I.- El nombre y domicilio del tercero perjudicado, si lo hay;
+
+II.- La declaración precisa respecto a si son o no ciertos los actos reclamados en la demanda o si han realizado otros similares o distintos de aquellos, que tengan o puedan tener por consecuencia negar o menoscabar los derechos agrarios del quejoso;
+
+III.- Los preceptos legales que justifiquen los actos que en realidad hayan ejecutado o pretendan ejecutar;
+
+IV.- Si las responsables son autoridades agrarias expresarán además, la fecha en que se hayan dictado las resoluciones agrarias que amparen los derechos del quejoso y la forma y términos en que las mismas hayan sido ejecutadas.
+
+Deberán acompañar a su informe copias certificadas de las resoluciones agrarias mencionadas, de las actas de posesión y de los planos de ejecución de las mismas, así como de las demás constancias necesarias para precisar tanto los derechos agrarios del quejoso como los actos reclamados.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 1963)</small>
+
+Cuando se trate de amparos interpuestos por ejidatarios o comuneros en lo particular, las autoridades responsables informarán sobre los puntos contenidos en las fracciones I, II y III y, cuando sean autoridades agrarias, además, sobre los actos por virtud de los cuales hayan adquirido sus derechos los quejosos, enviando copias certificadas de los censos agrarios, de los certificados de derechos agrarios de los títulos de parcela y de las demás constancias necesarias para determinar con precisión los derechos agrarios del quejoso y los actos reclamados.
 
 ###### ARTICULO 150.
 
@@ -1372,6 +1482,10 @@ En los casos a que se refiere el artículo 37 de esta Ley, la substanciación de
 Los jueces de Distrito cuidarán de que los juicios de amparo no queden paralizados, proveyendo lo que corresponda hasta dictar sentencia, salvo los casos en que esta ley disponga expresamente lo contrario.
 
 El Ministerio Público cuidará del exacto cumplimiento de esta disposición, principalmente cuando el acto reclamado importe peligro de privación de la vida, de la libertad o entrañe deportación, destierro o alguno de los actos prohibidos por el artículo 22 de la Constitución Federal.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 1963)</small>
+
+Podrán acordar las diligencias que estimen necesarias para precisar los derechos agrarios del núcleo de población quejoso y la naturaleza y efectos de los actos reclamados, y deberán solicitar de las autoridades responsables y de las agrarias copias de las resoluciones, planos, censos, certificados, títulos y, en general, todas las pruebas necesarias para tal objeto.
 
 (REFORMADA SU DENOMINACION, D.O.F. 19 DE FEBRERO DE 1951) (F. DE E., D.O.F. 14 DE MARZO DE 1951)
 
@@ -1968,3 +2082,13 @@ D.O.F. 31 DE DICIEMBRE DE 1957.
 ###### ARTICULO UNICO.
 
 Esta ley entrará en vigor el día primero de enero de mil novecientos cincuenta y ocho.
+
+D.O.F. 4 DE FEBRERO DE 1963.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Los juicios en materia agraria en que no se hubiere dictado sentencia, los incidentes de suspensión y los recursos pendientes de resolución se substanciarán y resolverán de acuerdo con las disposiciones de este Decreto.
