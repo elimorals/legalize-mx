@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-los-municipios-del-estado-de-baja-2949"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1985-12-31"
+last_updated: "1986-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JUNIO DE 1986.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1985.
 
@@ -781,115 +781,73 @@ I.- Tarifas para el cobro del sistema de agua potable en el Municipio de La Paz;
 
 a).- Tarifa para aparatos medidores:
 
-SERVICIO DOMESTICO.
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1986)</small>
+
+SERVICIO DOMESTICO
 
 Consumo mensual en metros cúbicos.
 
-Hasta 35 M3 $ 441.00 (cuota mínima).
+Hasta 35 M3 $ 661.50 (cuota mínima).
 
-Hasta 50 M3 25.00 M3.
+Hasta 50 M3 37.50 M3.
 
-Hasta 80 M3 34.00 M3.
+Hasta 80 M3 51.00 M3.
 
-Hasta 100 M3 47.00 M3.
+Hasta 100 M3 70. 50 M3.
 
-Más de 100 M3 65.00 M3.
+Más de 100 M3 97.50 M3.
 
-Si en un mes el consumo de agua es menor de 35 M3, se cobrará la cuota mínima de $441.00.
+Si en un mes el consumo de agua es menor de 35 M3, se cobrará la cuota mínima de $ 661.50.
 
-SERVICIO COMERCIAL.
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1986)</small>
 
-Hasta 35 M3 $ 793.00 (cuota mínima).
+SERVICIO COMERCIAL
 
-Hasta 50 M3 36.00 M3.
+Hasta 35 M3 $ 1,189.50 (cuota mínima).
 
-Hasta 80 M3 47.00 M3.
+Hasta 50 M3 54.00 M3.
 
-Hasta 100 M3 54.00 M3.
+Hasta 80 M3 70.50 M3.
 
-Más de 100 M3 72.00 M3.
+Hasta 100 M3 81.00 M3.
 
-Si en un mes el consumo de agua es menor de 35 M3, se cubrirá la cuota mínima de $ 793.00.
+Más de 100 M3 108.00 M3.
 
-SERVICIO INDUSTRIAL.
+Si en un mes el consumo de agua es menor de 35 M3, se cubrirá la cuota mínima de $ 1,189.50.
 
-Hasta 100 M3 $4,788.00 (cuota mínima).
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1986)</small>
 
-Hasta 125 M3 56.00 M3.
+SERVICIO INDUSTRIAL
 
-Hasta 150 M3 67.00 M3.
+Hasta 100 M3 $ 7,167.00 (cuota mínima).
 
-Hasta 250 M3 76.00 M3.
+Hasta 125 M3 84.00 M3.
 
-Hasta 500 M3 88.00 M3.
+Hasta 150 M3 100.50 M3.
 
-Más de 500 M3 99.00 M3.
+Hasta 250 M3 114.00 M3.
 
-Si en el mes el consumo de agua es menor de 100 M3, se cubrirá la cuota mínima de $4,788.00.
+Hasta 500 M3 132.00 M3.
 
-b).- Tarifa cuando no existen aparatos medidores en los sistemas urbanos.
+Más de 500 M3 148.50 M3.
 
-Servicio doméstico $ 567.00 /toma.
+Si en el mes el consumo de agua es menor de 100 M3, se cubrirá la cuota mínima de $ 7,167.00.
 
-Servicio comercial $ 1,800.00 /toma.
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1986)</small>
 
-Servicio industrial $ 5,400.00 /toma.
+b).- Tarifa cuando no existen aparatos medidores en los sistemas urbanos y rurales.
 
-c).- Tarifa cuando no existe medidor, para los sistemas de las siguientes poblaciones rurales:
+Servicio Doméstico $ 850.50.
 
-San Juan de Los Planes, El Sargento, Juan Domínguez Cota, San Pedro, El Rosario, El Triunfo, San Antonio, San Bartolo, Pescadero, El Carrizal, Agua Amarga, Chametla, El Centenario, Conquista Agraria, Las Pocitas, Reforma Agraria No. 1, Reforma Agraria No. 2, Santa Rita, La Ventana, Los Barriles, El Cardonal y Plutarco Elías Calles, B.C.S.
+Servicio Comercial 2,700.00.
 
-Servicio Doméstico $ 504.00 /toma.
+Servicio Industrial 8,100.00.
 
-Servicio comercial $ 1,800.00 /toma.
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1986)</small>
 
-Servicio industrial $ 5,400.00 /toma.
+c).- Las tarifas que se indican con antelación, dentro del presente Capítulo, se incrementarán en un 8 por ciento mensual a partir del mes de junio del presente año hasta el mes de abril de 1987.
 
-d).- Tarifa para los sistemas de las poblaciones rurales del Municipio de La Paz, B.C.S., cuando existen aparatos medidores.
-
-SERVICIO DOMESTICO.
-
-Hasta 35 M3 $ 441.00 (cuota mínima).
-
-Hasta 50 M3 $ 25.00 M3.
-
-Hasta 80 M3 $ 34.00 M3.
-
-Hasta 100 M3 $ 47.00 M3.
-
-Más de 100 M3 $ 65.00 M3.
-
-Si en un mes el consumo de agua es menor de 35 M3 se cubrirá la cuota mínima de $ 441.00.
-
-SERVICIO COMERCIAL.
-
-Hasta 35 M3 $ 793.00 (cuota mínima).
-
-Hasta 50 M3 $ 36.00 M3.
-
-Hasta 80 M3 $ 47.00 M3.
-
-Hasta 100 M3 $ 54.00 M3.
-
-Más de 100 M3 $ 72.00 M3.
-
-Si en un mes el consumo de agua es menor de 35 M3, se cubrirá la cuota mínima de $ 793.00.
-
-SERVICIO INDUSTRIAL.
-
-Hasta 100 M3 $4,788.00 (cuota mínima).
-
-Hasta 125 M3 $ 56.00 M3.
-
-Hasta 150 M3 $ 67.00 M3.
-
-Hasta 250 M3 $ 76.00 M3.
-
-Hasta 500 M3 $ 88.00 M3.
-
-Más de 500 M3 $ 99.00 M3.
-
-Si en un mes el consumo de agua es menor de 100 M3, se cubrirá la cuota mínima de $ 4,788.00.
+d).- (DEROGADO, B.O. 10 DE JUNIO DE 1986)
 
 II.- Tarifa para el cobro de los sistemas de agua potable en el Municipio de Comondu: Cd. Constitución, Cadejé, San José de Guajademí, Paso Hondo, San Isidro, La Purísima, San Miguel de Comondú, San José de Comondú, San Javier, Francisco Villa, La Poza Grande, Santo Domingo, María Auxiliadora, Ignacio Zaragoza, Benito Juárez, Villa Morelos, Villa Hidalgo, Ramaditas, Josefa Ortíz de Domínguez, Palo Bola, San José de la Noria, Cd. Insurgentes, Loreto, Ligüi, San Juan Londó, San Juanico, Santo Domingo Viejo, San Luis Gonzaga, Santo Domingo Nuevo, B.C.S.
 
@@ -1934,3 +1892,11 @@ ALBERTO ANDRES ALVARADO ARAMBURO.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ANTONIO B. MANRIQUEZ GULUARTE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE JUNIO DE 1986.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
