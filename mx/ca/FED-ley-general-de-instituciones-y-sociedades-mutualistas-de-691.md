@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1935-08-31"
+last_updated: "1936-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 1936.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -113,11 +113,13 @@ Las instituciones de seguros extranjeras sólo podrán publicar los datos de con
 
 El uso de las palabras "seguro," "reaseguro," "aseguramiento" u otras similares en cualquier idioma, en la denominación de un establecimiento o de una sociedad, se reserva exclusivamente a las instituciones de seguros. Las sucursales de instituciones de seguros del extranjero autorizadas para operar en México podrán usar en su denominación esos términos, agregando la palabra "sucursal," con indicación del lugar en que operen. El Registro Público de Comercio no inscribirá escrituras públicas de sociedades en cuya denominación se empleen dichas palabras o sus equivalentes, en español o en cualquier otro idioma, sino cuando la escritura aparezcan insertos los documentos oficiales que comprueben la existencia de la autorización otorgada por la Secretaría de Hacienda. El uso ilegal de dichas palabras u otras equivalentes, en español o en cualquier otro idioma, se castigará por la Secretaría de Hacienda y Crédito con multa de $500.00 a $1,000.00 a cada uno de los gerentes, directores o miembros del Consejo de Administración del establecimiento o sociedad correspondiente, y la negociación respectiva será clausurada administrativamente por la Secretaría de Hacienda y Crédito Público, hasta que su denominación sea cambiada.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE AGOSTO DE 1936)</small>
+
 ###### ARTICULO 8°.
 
-El Gobierno Federal, el Departamento del Distrito Federal, los Gobiernos de los Territorios y de los Estados de la República para cubrir los riesgos correspondientes a bienes de su propiedad, darán preferencia a las instituciones nacionales, y, en su defecto, a las mexicana. En el caso de que no existieran instituciones de estas clases, quedarán en libertad para contratar con las sucursales de instituciones extranjeras, siempre que éstas hayan sido autorizadas para funcionar en la República, y que el seguro sea contratado por medio de dichas sucursales.
+El Gobierno Federal, el Departamento del Distrito Federal, los Gobiernos de los Territorios y de los Estados de la República, para cubrir los riesgos correspondientes a bienes de su propiedad, darán preferencia a las instituciones nacionales, y, en su defecto, a las mexicanas. En el caso de que no existieran instituciones de estas clases, quedarán en libertad para contratar con las sucursales de instituciones extranjeras, siempre que éstas hayan sido autorizadas para funcionar en la República.
 
-Las compañías que contraten los riesgos a que se refiere el artículo anterior y que reaseguren o coaseguren parte de ellos en otras compañías, tendrán obligación de interesar preferentemente alas instituciones nacionales y mexicanas. Sólo que tales instituciones no aceptaran dichos riesgos, podrán reasegurarse con sucursales de compañías extranjeras o con sucursales de empresas del extranjero.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 31 DE AGOSTO DE 1936)</small>
 
 ###### ARTICULO 9°.
 
@@ -403,11 +405,23 @@ Cuando alguna clase de las comprendidas en el ramo de diversos adquiera una impo
 
 Las operaciones de reaseguro no pueden ser practicadas por instituciones filiales o sucursales de las que hayan contratado el seguro directo; asimismo, la institución que haya contratado el seguro directo no podrá reasegurar con una institución de la que sea filial o sucursal.
 
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
 
 ###### ARTICULO 37.
 
-Las instituciones de seguros podrán reasegurar todo o parte de cualquiera de sus riesgos, en otra empresa de seguros, siempre que esta última esté autorizada para hacer operaciones en el país, debiendo dar preferencia a las instituciones nacionales y mexicanas. Si estás no aceptan total o parcialmente, los riesgos que se les ofrezcan, el reaseguro podrá practicarse con sucursales de empresas extranjeras autorizadas o con empresas del extranjero, siempre que en este último caso, la institución que practique el seguro directo, constituya e invierta en los términos de esta ley, la reserva correspondiente al riesgo cedido y de que la Secretaría de Hacienda apruebe los contratos respectivos.
+Los excedentes que tengan las instituciones de seguros sobre sus límites de retención neta en cada riesgo asegurado, podrán cederlos en forma de coaseguro o reaseguro a instituciones autorizadas, o en forma de reaseguro a instituciones no autorizadas, en la inteligencia de que el monto de primas cedidas a estas últimas sobre cualquier riesgo, no excederá, salvo lo previsto en el párrafo siguiente, el monto de las que se hayan cedido a las primeras sobre el mismo riesgo.
+
+Si por haberse agotado la capacidad de retención neta de las instituciones autorizadas sobre algún riesgo, no fuese posible reasegurar con ellas la parte a que se refiere el párrafo anterior, el exceso no cubierto podrá reasegurarse en el extranjero.
+
+Para computar el monto de las primas que conforme al presente artículo se hayan cedido sobre cualquier riesgo a instituciones autorizadas, se tomará en cuenta solamente el de las que correspondan a la retención neta de las reaseguradoras.
+
+En el reaseguro o coaseguro entre instituciones autorizadas, se dará preferencia a las instituciones nacionales o mexicanas, en el concepto de que dichas operaciones se harán a base de estricta reciprocidad en cuanto al monto de las primas, y por lo mismo, cesará para una compañía la obligación de ofrecer a otra, cuando ésta tenga en su cuenta de primas por reaseguros o coaseguros, un saldo no compensado que alcance la suma de $2,000.00.
+
+Tratándose de los ramos a que se refieren los incisos a), b), c), d y f) de la fracción II del artículo 1° de esta Ley, podrá practicarse el reaseguro sin limitación, en el país o en el extranjero.
+
+En el caso de que se hagan operaciones de reaseguro con instituciones no autorizadas para operar en el país, la institución autorizada que practique el seguro directo, tendrá la obligación de constituir e invertir en los términos de esta Ley, la reserva correspondiente al riesgo cedido y los contratos respectivos deberán someterse a la previa autorización de la Secretaría de Hacienda y Crédito Público.
+
+A las instituciones que no cumplan con lo dispuesto en este artículo, se les impondrá una multa de $500.00 a $1,000.00 y en caso de reincidencia, se revocará la autorización.
 
 ###### ARTICULO 38.
 
@@ -447,9 +461,11 @@ Los individuos del Consejo de Administración y los comisarios de las institucio
 
 Todo acto, contrato o documento que importe obligación inmediata o eventual para las instituciones de seguros, deberá ser registrado en la contabilidad. La contabilidad de las instituciones de seguros podrá llevarse, sin perjuicio de su valor probatorio legal, en auxiliares encuadernados o en hojas sueltas, y se regirá por lo que dispone esta ley en el Capítulo respectivo.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE AGOSTO DE 1936)</small>
+
 ###### ARTICULO 44.
 
-El establecimiento, traspaso o clausura de sucursales de instituciones de seguros establecidas en la República requerirá autorización expresa de la Secretaría de Hacienda.
+El establecimiento, traspaso o clausura de Sucursales, Agencias o Sub-Agencias de instituciones de seguros establecidas en la República, requerirá autorización especial de la Secretaría de Hacienda.
 
 > <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
@@ -747,9 +763,11 @@ XI.- Primas netas pendientes de cobro que no tengan más de 30 días de vencidas
 
 Las inversiones de las reservas técnicas estarán afectas a las obligaciones contraídas por la institución por las pólizas emitidas, y no podrán disponer de ellas, total ni parcialmente, sino para cumplir las obligaciones contraídas y las que resulten por virtud de sentencia ejecutoriada de los Tribunales de la República, a favor de los asegurados o beneficiarios, de acuerdo con esta Ley.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
+
 ###### ARTICULO 86.
 
-Por lo menos el 30% de las reservas técnicas de las instituciones de seguros estarán precisamente invertidas en obligaciones del Gobierno Federal para obras de servicios públicos y en bonos hipotecarios de instituciones nacionales de crédito.
+Por lo menos el 20% de las reservas técnicas de las instituciones de seguros, estarán precisamente invertidas en obligaciones del Gobierno Federal, para obras de servicios públicos y en bonos hipotecarios de instituciones nacionales de crédito.
 
 > <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
@@ -791,7 +809,11 @@ Los bienes inmuebles que por cualquier motivo estén gravados con hipotecas, se 
 
 Los valores del activo se estimarán de la manera siguiente:
 
-I.- Los bonos, obligaciones y cédulas hipotecarias que se encuentren al corriente en sus servicios de amortización e intereses, se estimarán al valor presente de los futuros beneficios del título, calculado al tipo de interés real que según el precio de adquisición devengue, en la inteligencia de que si dicho valor presente es menor que el 90% del valor de amortización en la fecha de la estimación, se tomará este último valor;
+> <small>(REFORMADA, D.O.F. 31 DE AGOSTO DE 1936)</small>
+
+I.- Los bonos, obligaciones y cédulas hipotecarias que se encuentren al corriente en sus servicios de amortización e intereses, se estimarán al valor presente de los futuros beneficios del título, calculado dicho valor al tipo de interés real que según el precio de adquisición devengue el título.
+
+Las obligaciones del Gobierno Federal para obras de servicios públicos y los bonos hipotecarios de Instituciones Nacionales de Crédito, siempre se valuarán por el sistema de amortización.
 
 > <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
@@ -931,7 +953,9 @@ d).- El cuaderno de valuación, con los datos que administrativamente fije la Se
 
 II.- Durante los primeros quince días de los meses de enero y julio presentarán, por cada uno de los ramos de seguro en que operen, una manifestación de los siniestros ocurridos, de los pagados y de los pendientes de pago durante el semestre inmediato anterior;
 
-III.- Durante los meses de enero y junio, presentarán un informe del seguro practicado, cuando operen en el ramo de vida. Las instituciones que operen en los demás ramos, lo presentarán bimestralmente, durante los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre;
+> <small>(REFORMADA, D.O.F. 31 DE AGOSTO DE 1936)</small>
+
+III.- Durante los meses de enero y julio, presentarán un informe del seguro practicado, cuando operen en el ramo de vida. Las instituciones que operen en los demás ramos, lo presentarán bimestralmente, durante los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
 
 IV.- Durante los primeros diez días de cada mes, un informe del movimiento registrado en sus inversiones en el mes anterior;
 
@@ -1171,9 +1195,11 @@ Los asegurados tendrán preferencia sobre todos los bienes del activo de la inst
 
 La quiebra o la liquidación judicial legalmente declarada de una institución de seguros, provocará su liquidación administrativa en los términos establecidos por la presente ley. Al efecto, el Juez de los autos, una vez hecha la declaratoria correspondiente, mandará sellar las oficinas de la institución, girará oficio a la Secretaría de Hacienda y Crédito Público pidiendo la inmediata designación del liquidador y, dentro de las 72 horas siguientes de haber recibido el aviso, le hará entrega de los bienes de la institución, por riguroso inventario. Una vez formalizada la entrega judicial, se practicará la liquidación de acuerdo con los términos de esta ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE AGOSTO DE 1936)</small>
+
 ###### ARTICULO 131.
 
-Los interventores y liquidadores que se designen de acuerdo con los preceptos de este Capítulo, serán representantes legales de la institución y tendrán las mismas atribuciones que el Consejo de Administración y responderán como mandatarios por los actos que ejecuten excediéndose de los límites de su encargo. La Secretaría de Hacienda preferirá a las instituciones fiduciarias.
+Los interventores y liquidadores que se designen de acuerdo con los preceptos de este capítulo, serán representantes legales de la institución, tendrán las mismas atribuciones que el Consejo de Administración, y responderán como mandatarios por los actos que ejecuten excediéndose de los límites de su encargo. La Secretaría de Hacienda dará preferencia a las instituciones nacionales de seguros, que podrán actuar como fiduciarias para realizar la intervención y liquidación de instituciones de seguros en los términos de esta Ley.
 
 > <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
@@ -1287,9 +1313,11 @@ Se concede un plazo de seis meses contados a partir de la vigencia de esta ley, 
 
 Las sociedades mutualistas que actualmente tengan celebrado contrato de gestión con algún particular o empresa, deberán someterlo a la revisión de su Asamblea General antes de un año de la vigencia de esta ley. En cualquier caso, dichos contratos no podrán subsistir por más de dos años, después de su ratificación por la Asamblea.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
+
 ###### ARTICULO 4°.
 
-Se concede un plazo de cuatro años contados a partir de la vigencia de esta ley, para que las instituciones de seguros que operen actualmente dentro del país, se ajusten a los artículos 32, 87 y 88. Durante los tres primeros años de la vigencia de esta ley, las instituciones de seguros invertirán durante cada uno de ellos, el 10% de su capital y reservas en los valores a que se refiere el artículo 86 de este ordenamiento. Vencidos dichos términos, la Secretaría de Hacienda podrá proceder en los términos del artículo 103 de esta ley.
+Se concede un plazo de cuatro años contados a partir de la vigencia de esta Ley, para que las instituciones de seguros que operan actualmente dentro del país, se ajusten a lo dispuesto por los artículos 32, 87 y 88 de la misma.
 
 ###### ARTICULO 5°.
 
@@ -1320,3 +1348,9 @@ Sufragio Efectivo. No Reelección.
 México, D. F., a 30 de agosto de 1935.- El Secretario de Gobernación, Silvano Barba González.- Rúbrica.
 
 Al C. ....
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 31 DE AGOSTO DE 1936.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
