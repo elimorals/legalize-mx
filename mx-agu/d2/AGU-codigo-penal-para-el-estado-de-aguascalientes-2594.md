@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-2594"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-08-07"
-last_updated: "1994-08-07"
+last_updated: "1994-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1994.
 
 Código publicado en el Suplemento al Número 32 del Periódico Oficial del Estado de Aguascalientes, el 7 de agosto de 1994.
 
@@ -237,7 +237,9 @@ I.- Homicidio Doloso, previsto en el Artículo 96;
 
 II.- Homicidio Calificado, previsto en el Artículo 98;
 
-III.- Homicidio Culposo, previsto en los Artículo 118, párrafo primero, y 119;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1994)</small>
+
+III.- Homicidio culposo, previsto en el Artículo 119;
 
 IV.- Violación, prevista en el Artículo 124;
 
@@ -249,15 +251,23 @@ VII.- Sustracción de Menores e Incapaces, previsto en los dos primeros párrafo
 
 VIII.- Secuestro, previsto en el Artículo 138;
 
-IX.- Robo calificado, previsto en el Artículo 149, con excepción de lo dispuesto en su fracción III;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1994)</small>
+
+IX.- Robo calificado, previsto en el Artículo 149, cuando el valor de lo robado exceda de trescientas veces el salario mínimo general vigente en la región, con excepción de lo dispuesto en su fracción III, cualquiera que sea el monto de lo robado;
 
 X.- Abigeato, previsto en el Artículo 150, cuando el valor de los semovientes objeto del apoderamiento exceda de trescientas veces el salario mínimo vigente en la región;
 
-XI.- Extorsión, prevista en el Artículo 156;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1994)</small>
 
-XII.- Atentados a la Estética Urbana, previstos en el Artículo 164;
+XI.- Extorsión, prevista en el Artículo 156, cuando el lucro obtenido sea mayor de trescientas veces el salario mínimo general vigente en la región;
 
-XIII.- Corrupción de Menores, prevista en las fracciones I y III del Artículo 191;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1994)</small>
+
+XII.- Atentados a la estética urbana previstos en el Artículo 164, cuando el monto de los daños causados exceda de trescientas veces el salario mínimo en la región;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1994)</small>
+
+XIII.- Corrupción de menores, prevista en el Artículo 191;
 
 XIV.- Lenocinio, previsto en el último párrafo del Artículo 193;
 
@@ -527,11 +537,19 @@ El destino de los instrumentos, objetos o productos del hecho delictivo se deter
 
 Si se tratare de substancias nocivas o peligrosas, se destruirán a juicio de la autoridad que esté conociendo, la que, cuando lo estime conveniente, podrá determinar su conservación para fines de docencia o investigación. Dicha autoridad podrá disponer aún antes de declararse su decomiso, estas medidas de precaución, incluyendo su destrucción, si fuere indispensable.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1994)</small>
+
 ###### ARTICULO 53.
 
-Los objetos o valores que se encuentren a disposición de las autoridades investigadoras o judiciales que no hayan sido decomisados y que no sean recogidos por quien tenga derecho a ello en un lapso de 90 días naturales, contados a partir de la notificación que se haga al interesado, se enajenarán en subasta pública y el producto de la venta se aplicará a quien tenga derecho a recibirlo. Si notificado no se presenta dentro de los 120 días siguientes a la fecha de la notificación, el producto de la venta se destinará al mejoramiento de la procuración o administración de justicia según sea el caso, previas las deducciones de los gastos ocasionados al respecto.
+Respecto de los objetos o valores que se encuentren a disposición de las autoridades investigadoras o judiciales que no hayan sido decomisados y que no sean recogidos por quien tenga derecho a ello en un lapso de 90 días naturales, contados a partir de la notificación que se haga al interesado se procederá de la siguiente forma:
 
-Si los objetos o valores referidos no se pueden conservar o sean de costoso mantenimiento, se procederá a su venta inmediata, aplicándose en lo conducente las reglas que se establecen en el párrafo anterior.
+a).- Si los objetos o valores referidos no se pueden conservar o sean de costoso mantenimiento, se procederá a su venta inmediata, aplicándose a lo conducente las reglas que se establecen en el inciso c);
+
+b).- Cuando su naturaleza lo permita serán aprovechados en beneficio de la procuración o impartición de justicia y podrán ser entregados en depósito a los servidores públicos, mediante resolución fundada y motivada dictada por el Procurador General de Justicia o el Tribunal Competente según sea el caso. Dicho aprovechamiento no causará al Estado costo alguno;
+
+c).- Si los objetos no reúnen las características descritas en el inciso anterior, se enajenarán en subasta pública y el producto de la venta se aplicará a quien tenga derecho a recibirlo.
+
+Si notificado no se presenta dentro de los 120 días siguientes a la fecha de la notificación, el producto de la venta se destinará al mejoramiento de la procuración o administración de justicia según sea el caso, previas las deducciones de los gastos ocasionados al respecto.
 
 ###### ARTICULO 54.
 
@@ -983,9 +1001,11 @@ Cuando el Homicidio o Lesiones de las previstas en el Artículo 105, fracciones 
 
 Si las Lesiones son de las previstas en el Artículo 105, Fracciones I y II, se aplicarán al responsable de 3 a 6 meses de prisión y de 10 a 50 días multa.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1994)</small>
+
 ###### ARTICULO 118.
 
-Cuando el Homicidio o Lesiones de las previstas en el Artículo 105, fracciones III, IV, V y VI se causen culposamente por motivo de conducción de vehículos de motor destinados a transporte de pasajeros, se le aplicarán al responsable de 3 a 10 años de prisión, de 30 a 200 días multa y suspensión del empleo, cargo o comisión e inhabilitación para obtener otro de la misma naturaleza hasta por 5 años. Si las Lesiones son de las previstas en el Artículo 105, fracciones I y II, se aplicarán de 3 meses a 3 años de prisión y de 15 a 70 días multa.
+Cuando el homicidio o lesiones previstas en el Artículo 105, fracciones III, IV, V y VI se causen culposamente por motivo de conducción de vehículos de motor destinados a transporte de pasajeros, se le aplicarán al responsable de 3 a 15 años de prisión, de 30 a 200 días multas y suspensión del empleo, cargo o comisión e inhabilitación para obtener otro de la misma naturaleza hasta por 5 años. Si las lesiones son de las previstas en el Artículo 105, fracciones I y II, se aplicarán de 3 meses a 3 años de prisión y de 15 a 70 días multa.
 
 ###### ARTICULO 119.
 
@@ -2410,3 +2430,11 @@ Otto Granados Roldán.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Efrén González Cuéllar.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 6 DE NOVIEMBRE DE 1994.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga el Artículo 165 del Código de Procedimientos Penales vigente en el Estado, publicado en el Periódico Oficial del 12 de abril de 1992.
