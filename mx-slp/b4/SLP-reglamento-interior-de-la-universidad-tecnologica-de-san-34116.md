@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-universidad-tecnologica-de-san-34116"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-04"
-last_updated: "2003-09-04"
+last_updated: "2004-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2004.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 4 de septiembre de 2003.
 
@@ -60,9 +60,11 @@ d). Los Directores.- Son los Funcionarios responsables de área y titulares de C
 
 e). El Consejo.- El Consejo Directivo de la Universidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JULIO DE 2004)</small>
+
 ###### Artículo 4º.
 
-Para el cumplimiento de sus objetivos y funciones, señaladas en el Capítulo I del Decreto, la Universidad tendrá las atribuciones siguientes:
+Para el cumplimiento de sus objetivos y funciones, señaladas en el capítulo I del Decreto, la Universidad tendrá las atribuciones siguientes:
 
 I. Regular el desarrollo de sus funciones sustantivas y de apoyo, así como la estructura y atribuciones de sus órganos;
 
@@ -88,7 +90,11 @@ XI. Establecer convenios de colaboración con instituciones y organismos naciona
 
 XII. Considerar como bienes de la Universidad y reservarse el derecho de uso y usufructo, el nombre, el lema, logotipo, escudos, colores y mascota de la institución; y demás elementos característicos que identifiquen a la Universidad;
 
-XIII. Expedir las disposiciones necesarias a fin de hacer efectivas las facultades que se le confiere para el cumplimiento de su objeto.
+XIII. Expedir las disposiciones necesarias a fin de hacer efectivas las facultades que se le confiere para el cumplimiento de su objeto;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2004)</small>
+
+XIV.- Certificar y expedir con base en la compulsa y cotejo, todo tipo de documentación relativa a su administración general que esté contenida en sus archivos de acuerdo con la Ley, con excepción de la que se considere confidencial o reservada.
 
 ### CAPITULO II. DE LA COMUNIDAD UNIVERSITARIA
 
@@ -447,3 +453,11 @@ EL SECRETARIO DE EDUCACIÓN
 LIC. ANA MARIA ACEVES ESTRADA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE JULIO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales que se opongan al presente Decreto.
