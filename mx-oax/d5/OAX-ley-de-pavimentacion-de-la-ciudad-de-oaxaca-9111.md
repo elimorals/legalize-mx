@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pavimentacion-de-la-ciudad-de-oaxaca-9111"
 country: "mx"
 rank: "ley"
 publication_date: "1945-06-02"
-last_updated: "1945-06-02"
+last_updated: "1957-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 NUEVA LEY DE PAVIMENTACION DE LA CIUDAD DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 AGOSTO DE 1957.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 2 de junio de 1945.
 
@@ -45,6 +45,10 @@ El Ejecutivo del Estado llevará a cabo la pavimentación de la Ciudad de Oaxaca
 
 Los propietarios de predios urbanos ubicados dentro de la Ciudad de Oaxaca, en calles que el Ejecutivo del Estado vaya determinando que se pavimenten, pagarán un derecho de pavimentación conforme a las tarifas que fije el propio Ejecutivo.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 1957)</small>
+
+Quedan facultados los interesados para impugnar la liquidación que se les haya señalado, dentro del término de 8 días, a partir de la fecha en que les sea notificada por la Oficina Recaudadora de la Ciudad de Oaxaca, exponiendo las razones de su inconformidad, la que será resuelta por la Tesorería General del Estado.
+
 ###### Artículo 3o.
 
 Para determinar la tributación a que se refiere el artículo anterior, se considerará que corresponden a cada predio:
@@ -53,9 +57,13 @@ a).- Aquellas banquetas adyacentes a su frente en toda la extensión del mismo i
 
 b).- La mitad de la superficie de la calle, medida entre las guarniciones de las dos banquetas en toda la extensión del frente del predio. La determinación de esta superficie para casas ubicadas en esquina, se hará tomando como origen el punto de intersección de las dos líneas centrales de las calles adyacentes.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 1957)</small>
+
+La tarifa se formará tomando como base el costo por metro lineal y cuadrado de las obras en cada caso, de acuerdo con la cooperación del 50p (sic) entre el Estado y los particulares.
+
 ###### Artículo 4o.
 
-El pago de los derechos a que se refiere el artículo 2o., se hará en 30 partes iguales, por bimestres, a partir de la fecha en que se termine la obra correspondiente al predio. El propietario beneficiado deberá entregar la primera y segunda partes, dentro de los quince días contados a partir de la fecha en que se concluya dicha obra; y las subsecuentes en la forma que anteriormente se menciona.
+El pago de los derechos a que se refiere el artículo 2o, se hará en 30 partes iguales, por bimestres, a partir de la fecha en que se termine la obra correspondiente al predio. El propietario beneficiado deberá entregar la primera y segunda partes, dentro de los quince días contados a partir de la fecha en que se concluya dicha obra; y las subsecuentes en la forma que anteriormente se menciona.
 
 ###### Artículo 5o.
 
@@ -99,8 +107,14 @@ Por tanto, mando que se imprima, publique, circule y se le dé el debido cumplim
 
 Oaxaca de Juárez, a 29 de mayo de 1945.- Gral. y Dr. Edmundo M. Sánchez Cano.- El Secretario Gral. del Despacho.- Lic. Jesús Rojas Villavicencio.- Rúbbricas (sic).
 
-Y ol (sic) comunico a usted para su conocimiento y fines consiguientes.
+Y ol(sic) comunico a usted para su conocimiento y fines consiguientes.
 
 Sufragio Efectivo. No Reelección.- Oaxaca de Juárez, a 29 de Mayo de 1945.- El Secretario General del Despacho.- Lic. Jesús Rojas Villavicencio.- Rúbrica.
 
 Al C...
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE AGOSTO DE 1957.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
