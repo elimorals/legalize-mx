@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2001-02-03"
+last_updated: "2001-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -96,9 +96,11 @@ Procederá la acción negatoria para obtener la declaración de libertad, o la d
 
 Compete la acción confesoria al titular del derecho real inmueble y al poseedor del predio dominante que esté interesado en la existencia de la servidumbre. Se da esta acción contra el tenedor o poseedor jurídico que contraríe el gravamen, para que se obtenga el reconocimiento, la declaración de los derechos y obligaciones del gravamen y el pago de frutos, daños y perjuicios en su caso, y se haga cesar la violación. Si fuere la sentencia condenatoria, el actor podrá exigir del reo que afiance el respeto del derecho.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 11.
 
-Se intentará la acción hipotecaria para constituir, ampliar y registrar una hipoteca; o bien para obtener el pago, o prelación del crédito que la hipoteca garantice. Procederá contra el poseedor a título de dueño del fundo hipotecado y, en su caso, contra los otros acreedores. Cuando después de fijada y registrada la cédula hipotecaria y contestada la demanda, cambiare el dueño y poseedor jurídico del predio, con éste continuará el juicio.
+Se intentará la acción hipotecaria para constituir, ampliar, registrar, dividir y cancelar una hipoteca; o bien para demandar el pago, rescisión, vencimiento anticipado, o prelación del crédito que la hipoteca garantice. Procederá contra el poseedor a título de dueño del fundo hipotecado y, en su caso, contra los otros acreedores. Cuando después de registrada la cédula hipotecaria, cambiare de dueño o poseedor jurídico del predio, con éste continuará el juicio, sin perjuicio de la responsabilidad que le corresponda al deudor original conforme a la ley.
 
 ###### ARTICULO 12.
 
@@ -2450,7 +2452,9 @@ El demandado formulará la contestación dentro del término señalado observand
 
 Las excepciones y defensas que se tengan, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación, a no ser que fueren supervenientes.
 
-El demandado que oponga reconvención o compensación, lo hará necesariamente al contestar la demanda; y se dará traslado del escrito al actor, para que conteste en el término de ocho días si el juicio fuere ordinario y cinco si fuera sumario, observándose respecto de éste y del demandado, las mismas reglas anteriormente establecidas.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
+El demandado que oponga reconvención o compensación lo hará necesariamente al contestar la demanda; y se dará traslado del escrito al actor y, en su caso, a los demás demandados en la reconvención, para que contesten en el término de ocho días si el juicio fuere ordinario y cinco si fuera sumario, observándose respecto de éste y del demandado las mismas reglas anteriormente establecidas.
 
 ###### ARTICULO 274.
 
@@ -5008,33 +5012,23 @@ De los Juicios Sumarios.
 
 Reglas Generales.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 618.
 
 Se tramitarán como juicios sumarios:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+I. Los que versen sobre pago o aseguración de alimentos;
 
-I.- Los que versen sobre pago o aseguración de alimentos;
+II. Los que versen sobre cualquier cuestión relativa a los contratos de hipoteca, depósito, comodato, aparcería, transportes, hospedaje y los que tengan por objeto el cumplimiento de las obligaciones establecidas por la ley o por las partes en el arrendamiento;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+III. La rendición de cuentas por tutores, administradores y por todas aquellas personas a quienes la ley o el contrato impongan esa obligación;
 
-II.- Los que versen sobre cualquier cuestión relativa a los contratos de depósito, comodato, aparcería, transportes, hospedaje y los que tengan por objeto el cumplimiento de las obligaciones establecidas por la ley o por las partes en el arrendamiento;
+IV. Los interdictos;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+V. La división de cosa común y las diferencias que entre los copropietarios surgieren en la administración, disfrute y en todo lo relativo a la cosa común; y
 
-III.- La rendición de cuentas por tutores, administradores y por todas aquellas personas a quienes la ley o el contrato impongan esa obligación;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
-
-IV.- Los interdictos;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
-
-V.- La división de cosa común y las diferencias que entre los copropietarios surgieren en la administración, disfrute y en todo lo relativo a la cosa común;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
-
-VI.- Los demás en que así lo determine la ley.
+VI. Los demás en que así lo determine la ley.
 
 ###### ARTICULO 619.
 
@@ -5116,11 +5110,11 @@ El mismo día deberá notificarse el auto en el domicilio que se indique en la d
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 1994)
 
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994) (F. DE E., P.O. 26 DE ENERO DE 1995)
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 637.
 
-En esta clase de juicios, la preparación de las pruebas quedará a cargo de las partes, así como las gestiones que para ello se requirieran, de no hacerlo se declarará desierta la prueba ofrecida, y sólo en el caso de que previamente esté alegada bajo protesta de decir verdad por el interesado la imposibilidad de efectuar tal preparación en forma directa el juez, atendidas las circunstancias y bajo su prudente arbitrio, podrá auxiliar al oferente girando oficios u ordenando citaciones, observándose siempre los requisitos que para el desahogo de la prueba respectiva se establezcan en este código.
+En ésta clase de juicios, la preparación de las pruebas quedará a cargo de las partes, así como las gestiones que para ello se requirieran, de no hacerlo o no desahogarse, se declarará desierta la prueba ofrecida por causa imputable al oferente. Sólo en el caso de que previamente alegada por el interesado bajo protesta de decir verdad, señalando los motivos que le impiden preparar la prueba, el juez, atendidas las circunstancias, podrá auxiliar al oferente girando oficios u ordenando citaciones, observándose siempre los requisitos que para el desahogo de la prueba respectiva se establezcan en este código.
 
 ###### ARTICULO 638.
 
@@ -5131,6 +5125,10 @@ En esta clase de juicios, la preparación de las pruebas quedará a cargo de las
 ###### ARTICULO 639.
 
 En estos juicios sólo será admisible la apelación cuando se interponga contra la sentencia definitiva o contra la interlocutoria que declare procedente las excepciones de falta de personalidad o capacidad, en ambos casos, la apelación se admitirá en efecto devolutivo.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+No procederá apelación contra ninguna resolución dictada en o para ejecución de sentencia, incluyendo el auto de aprobación del remate.
 
 ###### ARTICULO 640.
 
@@ -5348,19 +5346,19 @@ La sentencia deberá declarar siempre si ha lugar al remate de los bienes embarg
 
 Del Juicio Hipotecario.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 669.
 
-Se regirá por las presentes reglas todo juicio que tenga por objeto la constitución, ampliación o división y registro de una hipoteca, así como su cancelación, o bien el pago o prelación del crédito que la hipoteca garantice.
+Se regirá por las presentes reglas todo juicio que tenga por objeto la constitución, ampliación o división y registro de una hipoteca, así como su cancelación, o bien el pago, rescisión, vencimiento anticipado o prelación del crédito que la hipoteca garantice.
 
-Cuando se trate del pago o prelación de un crédito hipotecario, es requisito indispensable que conste en documento debidamente registrado, y que sea de plazo cumplido o que pueda exigirse el vencimiento anticipado por cualesquiera de las causas que establece el Código Civil.
+Cuando se trate del pago o prelación de un crédito hipotecario, es requisito indispensable que conste en documento debidamente registrado, y que sea de plazo vencido o que pueda exigirse el vencimiento anticipado. Sólo será exigible anticipadamente el crédito con garantía hipotecaria por incumplimiento de obligaciones de carácter económico o de aquellas que incidan en la destrucción o detrimento del bien hipotecado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 670.
 
-Cuando se entable pleito entre los que contrataron la hipoteca, procederá el juicio hipotecario sin necesidad del requisito del registro, siendo siempre condición indispensable, que esté registrado el bien a nombre del demandado y que no haya inscripción de embargo o gravamen en favor de tercero.
+Procederá el juicio hipotecario sin necesidad del requisito del registro de la hipoteca, cuando esté registrado el bien hipotecado a nombre del demandado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -5368,11 +5366,11 @@ Cuando se entable pleito entre los que contrataron la hipoteca, procederá el ju
 
 Presentada la demanda con el instrumento respectivo, si el juez encuentra que se reúnen los requisitos señalados en los artículos anteriores, dispondrá la expedición, y registro de la cédula hipotecaria y el emplazamiento del deudor para que conteste la demanda dentro del término de cinco días.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 672.
 
-Si en el título con que se ejercita una acción hipotecaria se advierte que hay otros acreedores hipotecarios anteriores, el juez mandará notificarles personalmente la iniciación del juicio para que ejerciten sus derechos conforme a la ley. Si se ignora su domicilio, la notificación se les hará por medio de un edicto que se publicará por una sola vez en el Boletín Judicial o en el Periódico Oficial, así como en otro diario de mayor circulación, a juicio del juez.
+Si en el título con que se ejercita una acción hipotecaria se advierte que hay otros acreedores hipotecarios anteriores, el juez, hasta antes de citación para sentencia, mandará notificarles personalmente la iniciación del juicio para que ejerciten sus derechos conforme a la ley. Si se ignora su domicilio, la notificación se les hará por medio de un edicto que se publicará por una sola vez en el Boletín Judicial o en el Periódico Oficial "El Estado de Jalisco", así como en otro diario de mayor circulación, a juicio del juez. Dicha notificación no suspenderá la tramitación del juicio y se practicará sin perjuicio de lo dispuesto en los artículos 552 y 553 de este código.
 
 ###### ARTICULO 673.
 
@@ -5384,29 +5382,31 @@ Si en el título con que se ejercita una acción hipotecaria se advierte que hay
 
 La cédula hipotecaria contendrá una relación sucinta del título y concluirá en estos términos: "En virtud de lo expuesto en las constancias que preceden, queda sujeta la finca ___ propiedad de ___ a juicio hipotecario, lo que se hace saber a las autoridades y al público para que no se practique en la mencionada finca ningún embargo, toma de posesión, diligencia precautoria o cualesquiera otra que entorpezca el curso del presente juicio o viole los derechos en él adquiridos por el C. (nombre del actor)".
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 675.
 
-La cédula hipotecaria se inscribirá en el Registro Público de la Propiedad correspondiente, a cuyo efecto se expedirá por duplicado copia certificada de la cédula. Una copia quedará en el Registro y la otra, ya registrada, se agregará a los autos, siendo siempre condición indispensable, para inscribir la cédula, que esté registrado el bien a nombre del demandado y que no haya inscripción de embargo o gravamen.
+La cédula hipotecaria se inscribirá en el Registro Público de la Propiedad correspondiente, a cuyo efecto se expedirá por duplicado copia certificada de la cédula. Una copia quedará en el Registro y la otra, ya registrada, se agregará a los autos.
 
-Si la finca no se halla en el lugar del juicio, se librará exhorto o despacho al juez de la ubicación para que ordene la inscripción correspondiente.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 676.
 
-Desde el día de su emplazamiento contrae el deudor la obligación de depositario judicial de la finca hipotecada, de sus frutos y de todos los objetos que con arreglo a la escritura y conforme al Código Civil deban de considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
+Desde el día de su emplazamiento contrae el deudor la obligación de depositario judicial de la finca hipotecada, de sus frutos y de todos los objetos que con arreglo a la escritura y conforme al Código Civil deban de considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida el acreedor, sin perjuicio de lo señalado en el artículo 677.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 677.
 
-El deudor que no quiera aceptar la responsabilidad de depositario, entregará desde luego la tenencia material de la finca al actor o al depositario que éste nombre.
+El deudor al momento de contestar la demanda deberá manifestar por escrito si acepta o rechaza la responsabilidad de depositario de la finca hipotecada; de no hacerlo, el juez dará un plazo de cinco días para que manifieste si acepta o no el depósito, apercibiendo al demandado que de no aceptarlo o no hacer manifestación alguna, a petición del actor, se le entregará a éste la tenencia material de la finca o al depositario que nombre.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+El plazo señalado en el párrafo anterior se notificará personalmente.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 678.
 
-Expedida e inscrita la cédula hipotecaria no surtirá efecto embargo alguno, toma de posesión, diligencia precautoria o cualquier otra que entorpezca el juicio hipotecario o viole los derechos en él adquiridos por el actor, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior en fecha a la presentación de la demanda que ha motivado la expedición de la cédula o de la providencia dictada a petición de acreedor de mejor derecho.
+Inscrita la cédula hipotecaria no surtirá efecto embargo alguno, toma de posesión, diligencia precautoria o cualquier otra que entorpezca el juicio hipotecario o viole los derechos en él adquiridos por el actor, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior en fecha a la presentación de la demanda que ha motivado la expedición de la cédula o de la providencia dictada a petición de acreedor de mejor derecho.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -5414,13 +5414,35 @@ Expedida e inscrita la cédula hipotecaria no surtirá efecto embargo alguno, to
 
 La inscripción de la cédula hipotecaria produce también efecto de secuestro judicial y se regirá por las disposiciones relativas de este código.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 680.
 
-Si el deudor se opone a la demanda en forma y término previstos en este capítulo, continuará el procedimiento con sujeción a las reglas generales del juicio sumario.
+El demandado podrá oponerse a la demanda haciendo valer sus defensas y excepciones, las que en ningún caso suspenderán el procedimiento.
 
-Si el demandado no se opone a la demanda, a petición del actor, se citará a las partes para sentencia definitiva, la que se pronunciará dentro de los quince días siguientes.
+La reconvención sólo procederá cuando se funde en el documento base de la acción; en cualquier otro caso se desechará de plano, aplicándose en lo conducente lo previsto en el artículo 273.
+
+Si el demandado no contesta la demanda, a petición del actor, se pronunciará sentencia dentro del término de diez días. Lo mismo sucederá si el demandado al contestar la demanda, se allana a la misma, caso en el cual se le eximirá del pago de gastos y costas.
+
+Contestada la demanda o en su caso la reconvención, o transcurrido el término para ello, el juez de oficio o a petición de parte, concederá un término de cinco días comunes a las partes para que ofrezcan pruebas.
+
+Concluido el término de ofrecimiento de pruebas, el juez admitirá las que procedan debiéndose desahogar en un término de veinte días; si alguna de las pruebas admitidas hubiere de practicarse dentro del territorio nacional y fuera del Estado el término será de hasta treinta días; y de cuarenta y cinco días si hubiere de desahogarse fuera del territorio nacional.
+
+Las audiencias de desahogo de pruebas sólo podrán suspenderse por caso fortuito o fuerza mayor. Concluido el término de desahogo de pruebas se mandarán poner los autos a disposición de las partes para que aleguen lo que a su derecho convenga en el término común de tres días. Dicho acuerdo surtirá efectos de citación para sentencia la que se pronunciará dentro de los diez días siguientes; el mismo término se aplicará para dictar sentencia de segunda instancia.
+
+En cualquier estado del juicio hasta antes de que se cite para sentencia y siempre que se hubiere demandado la acción de pago a través de la rescisión por incumplimiento o el vencimiento anticipado del contrato, si el demandado paga o consigna al acreedor las prestaciones de plazo vencido, el juez dará por terminado el negocio, revalidándose el contrato en todos sus términos y sin hacer condena en costas.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+###### ARTICULO 680 Bis.
+
+Artículo 680 Bis (sic).- Tratándose de préstamos con garantía hipotecaria destinados a la adquisición de vivienda, en los que se demande la rescisión por incumplimiento o el vencimiento anticipado del contrato, si el demandado se allana en su contestación que en este caso consistirá en manifestar expresamente su voluntad de dar en pago al actor el inmueble adquirido con el préstamo, libre de otros gravámenes, el juez al dictar la sentencia condenará a las partes a restituirse lo que resulte de la siguiente operación: el demandado deberá entregar al actor el inmueble que da en pago dentro del término de ciento veinte días naturales y una compensación a razón del uno por ciento mensual sobre el valor fiscal actual del inmueble dado en pago, computado desde el momento de su adquisición hasta su entrega al actor, por el uso de la finca. Por su parte el actor debe restituir al deudor el total de las cantidades recibidas con motivo del préstamo, adicionadas cada una de las entregas con el interés legal establecido en el Código Civil calculado desde su pago hasta la restitución.
+
+El acreedor deberá acompañar a su demanda certificado catastral que acredite el valor fiscal actualizado del inmueble hipotecado, así como el monto y fechas de las prestaciones económicas recibidas del deudor con motivo del contrato. El juez no admitirá la demanda hasta en tanto no se cumpla con los requisitos antes señalados.
+
+En este caso la sentencia se inscribirá en el Registro Público de la Propiedad y hará las veces de escritura de adjudicación a favor del actor con la consecuente cancelación del préstamo demandado en el juicio.
+
+En el caso del primer párrafo, si resultan cantidades a favor del demandado, no se procederá a la desocupación y entrega de la finca hasta en tanto el actor pague o deposite las cantidades a restituir.
 
 (REFORMADO, P.O. 31 DE DICIEMBRE DE 1994) (F. DE E., P.O. 26 DE ENERO DE 1995)
 
@@ -8323,3 +8345,9 @@ P.O. 3 DE MARZO DE 1998.
 P.O. 3 DE FEBRERO DE 2001.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 13 DE MARZO DE 2001.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Jalisco.
+
+Segundo. Las reformas que mediante el presente decreto se aprueban sólo serán aplicables respecto a los créditos que se contraten con posterioridad a su entrada en vigor.
