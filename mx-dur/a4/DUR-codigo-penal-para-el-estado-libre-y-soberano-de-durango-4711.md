@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-4711"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-08-22"
-last_updated: "2000-06-18"
+last_updated: "2004-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2000.
+> <small>N. DE E. EL PRESENTE CODIGO HA SIDO ABROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADO EN EL PERIODICO OFICIAL DEL 29 DE ABRIL DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 22 de agosto de 1991.
 
@@ -3206,3 +3208,11 @@ P.O. 18 DE JUNIO DE 2000.
 PRIMERO.- El presente Decreto entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE ABRIL DE 2004.
+
+PRIMERO: Este Código entrará en vigor sesenta días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Una vez iniciada la vigencia del presente Código, los ordenamientos legales que remitan a alguna disposición del Código Penal aprobado en fecha 3 de julio de 1991 y sus reformas, se estarán a las disposiciones del presente ordenamiento.
+
+TERCERO.- Una vez iniciada la vigencia del presente Código, queda abrogado el Código Penal aprobado mediante Decreto número 263 de fecha 03 de julio de 1991 y publicado en el Periódico Oficial del Gobierno del Estado número 15 de fecha 22 de agosto del mismo año, sus reformas y demás leyes que se opongan al presente.
