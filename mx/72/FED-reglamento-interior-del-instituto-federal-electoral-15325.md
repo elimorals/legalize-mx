@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-federal-electoral-15325"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-12-13"
-last_updated: "1999-12-13"
+last_updated: "2000-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15325&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1999-11-30"
 
 REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL ELECTORAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MARZO DE 2000.
+
+> <small>N. DE E. SE REFORMA EN FORMA INTEGRA EL PRESENTE REGLAMENTO, POR ACUERDO DEL CONSEJO GENERAL DEL I.F.E., PUBLICADO EN EL D.O.F. DEL 14 DE MARZO DE 2000, EN ACATAMIENTO A LA SENTENCIA SUP-034/99 DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION.</small>
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 13 de diciembre de 1999.
 
@@ -381,6 +383,8 @@ ARTICULO 13
 
 ARTICULO 14
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2000)</small>
+
 1. Para contribuir con el ejercicio de las atribuciones que el Código confiere al Consejo y el presente Reglamento a las Comisiones, los Consejeros Electorales están facultados para:
 
 a) Integrar el quórum de las sesiones del Consejo y participar en sus deliberaciones con derecho a voz y voto;
@@ -411,15 +415,13 @@ m) Asistir con derecho a voz a las sesiones de las Comisiones de las que no form
 
 n) Solicitar, para el adecuado desempeño de su encargo, la colaboración e información de los órganos del Instituto, en los términos de la normatividad aplicable;
 
-o) Velar por la autonomía del Instituto;
+o) Designar, de acuerdo con las disponibilidades presupuestales y las normas administrativas correspondientes, al personal adscrito a su oficina;
 
-p) Designar, de acuerdo con las disponibilidades presupuestales y las normas administrativas correspondientes, al personal adscrito a su oficina;
+p) Asistir a nombre del Instituto ante toda clase de autoridades, entidades, dependencias y personas físicas y morales, previa designación hecha por el Consejo o, en su caso, por el Presidente del Consejo de común acuerdo;
 
-q) Asistir a nombre del Instituto ante toda clase de autoridades, entidades, dependencias y personas físicas y morales, previa designación hecha por el Consejo o, en su caso, por el Presidente del Consejo de común acuerdo;
+q) Participar en los eventos a que sea invitado, en su calidad de Consejero Electoral por organizaciones académicas, institucionales y sociales, nacionales o extranjeras, buscando que dicha participación redunde en beneficio de los fines del Instituto; y
 
-r) Participar en los eventos a que sea invitado, en su calidad de Consejero Electoral por organizaciones académicas, institucionales y sociales, nacionales o extranjeras, buscando que dicha participación redunde en beneficio de los fines del Instituto; y
-
-s) Las demás que les confiera el Código y otras disposiciones aplicables.
+r) Las demás que les confiera el Código y otras disposiciones aplicables.
 
 2. Son atribuciones de los Consejeros Electorales que presidan una Comisión:
 
@@ -549,19 +551,15 @@ ARTICULO 22
 
 1. Las Comisiones de los Consejos Locales se integrarán por Consejeros, uno de los cuales será su Presidente. Las Comisiones podrán invitar a los representantes de los Partidos Políticos acreditados a participar en sus trabajos.
 
+(REUBICADO [N. DE E. ANTES ARTICULO 24], D.O.F. 14 DE MARZO DE 2000)
+
 ARTICULO 23
-
-1. En la sesión siguiente a la instalación del Consejo Local, se integrarán las Comisiones de Capacitación Electoral y Educación Cívica, Organización Electoral, Registro Federal de Electores y Administración, con el número de miembros que para cada caso acuerde, fungiendo como Secretario Técnico de la Comisión el Vocal Distrital correspondiente. En los casos de la Comisión de Administración, actuará como Secretario Técnico el Vocal Secretario.
-
-2. El Secretario del Consejo apoyará a las comisiones para el eficaz desarrollo de sus trabajos. Para el cumplimiento de las tareas de las Comisiones, los secretarios técnicos deberán proporcionar oportunamente la información que la Comisión requiera para llevar a cabo sus actividades.
-
-3. Los Consejos Locales podrán nombrar las comisiones adicionales que estimen convenientes para vigilar y organizar el adecuado ejercicio de las atribuciones de la Junta Local y de las Juntas y Consejos Distritales y Mesas Directivas de Casilla de la entidad respectiva.
-
-ARTICULO 24
 
 1. Para el cumplimiento de sus tareas, el Presidente del Consejo Local, el Vocal Secretario, la Junta Local, las Vocalías Ejecutivas respectivas, las Coordinaciones, las Comisiones Locales y Distritales de Vigilancia, colaborarán con las Comisiones y les proporcionarán la información que les sea solicitada en los términos del Código, del presente Reglamento y demás disposiciones aprobadas por el Consejo Local.
 
-ARTICULO 25
+(REUBICADO [N. DE E. ANTES ARTICULO 25], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 24
 
 1. Las Comisiones de los Consejos Locales tendrán la obligación de presentar a éste, para su aprobación:
 
@@ -573,13 +571,17 @@ c) El informe final de actividades; y
 
 d) Un proyecto de resolución de dictamen en caso de tratarse de una comisión específica.
 
-ARTICULO 26
+(REUBICADO [N. DE E. ANTES ARTICULO 26], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 25
 
 1. En los acuerdos de integración o creación de las Comisiones de los Consejos Locales, el propio Consejo Local podrá disponer modalidades diversas a las establecidas en este capítulo, acordes a las necesidades y naturaleza de los asuntos que les encomienden.
 
 #### Sección Tercera. DE LOS CONSEJEROS ELECTORALES LOCALES
 
-ARTICULO 27
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 27], D.O.F. 14 DE MARZO DE 2000)</small>
+
+ARTICULO 26
 
 1. Para el cumplimiento de las atribuciones que el Código les confiere, corresponde a los Consejeros Electorales de los Consejos Locales:
 
@@ -611,29 +613,31 @@ m) Solicitar ante las instancias competentes y de acuerdo con la disponibilidad 
 
 n) Representar al Consejo Local previa designación hecha de común acuerdo por el Presidente del Consejo o, en su caso, por el propio Consejo Local;
 
-o) Vigilar que las actividades de los partidos políticos se desarrollen con apego a los principios constitucionales;
+o) Asistir a las reuniones periódicas nacionales y estatales de Consejeros Electorales; y
 
-p) Recibir el informe de ejercicio del presupuesto de la Junta Local;
+p) Las demás que les confiera el Código y otras disposiciones aplicables.
 
-q) Asistir a las reuniones periódicas nacionales y estatales de Consejeros Electorales; y
-
-r) Las demás que les confiera el Código y otras disposiciones aplicables.
-
-2 Las Comisiones podrán invitar a los representantes de los Partidos Políticos acreditados a participar en sus trabajos.
+2. Las Comisiones podrán invitar a los representantes de los Partidos Políticos acreditados a participar en sus trabajos.
 
 3. Los representantes de los Partidos Políticos no tendrán derecho a votar en la toma de decisiones de las Comisiones.
 
-ARTICULO 28
+(REUBICADO [N. DE E. ANTES ARTICULO 28], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 27
 
 1. Los Consejeros Electorales tendrán derecho a recibir oportunamente su dieta de asistencia, así como contar con espacio físico en las oficinas de la Junta Local para el debido desarrollo de sus funciones.
 
-ARTICULO 29
+(REUBICADO [N. DE E. ANTES ARTICULO 29], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 28
 
 1. Los Consejeros Locales suplentes podrán asistir a los cursos de capacitación, recibir la información del desarrollo de las actividades del proceso electoral y asistir como invitados a las sesiones del Consejo Local.
 
 #### Sección Cuarta. DE LOS REPRESENTANTES DE LOS PARTIDOS POLITICOS ANTE EL CONSEJO LOCAL
 
-ARTICULO 30
+(REUBICADO [N. DE E. ANTES ARTICULO 30], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 29
 
 1. A los representantes de los Partidos Políticos les corresponde:
 
@@ -651,11 +655,15 @@ f) Las demás que les confiera el Código y otras disposiciones aplicables.
 
 ### CAPITULO CUARTO. DE LOS CONSEJOS DISTRITALES
 
-ARTICULO 31
+(REUBICADO [N. DE E. ANTES ARTICULO 31], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 30
 
 1. Los Consejos Distritales son los órganos subdelegacionales de dirección constituidos en cada uno de los distritos electorales, que se instalan y sesionan durante los procesos electorales.
 
-ARTICULO 32
+(REUBICADO [N. DE E. ANTES ARTICULO 32], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 31
 
 1. Para el cumplimiento de las atribuciones que el Código les confiere, corresponde al Consejo Distrital:
 
@@ -689,7 +697,9 @@ n) Las demás que le confiera el Código y otras disposiciones aplicables.
 
 #### Sección Primera. DEL PRESIDENTE DEL CONSEJO DISTRITAL
 
-ARTICULO 33
+(REUBICADO [N. DE E. ANTES ARTICULO 33], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 32
 
 1. Para el cumplimiento de las atribuciones que el Código le confiere, corresponde al Consejero Presidente del Consejo Distrital:
 
@@ -715,27 +725,25 @@ j) Las demás que le señale el Código y otras disposiciones aplicables.
 
 #### Sección Segunda. DE LAS COMISIONES DE LOS CONSEJOS DISTRITALES
 
-ARTICULO 34
+(REUBICADO [N. DE E. ANTES ARTICULO 34], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 33
 
 1. Los Consejos Distritales podrán integrar comisiones para la vigilancia y organización del ejercicio adecuado de sus atribuciones, con fundamento en las facultades y funciones que el Consejo, el presente Reglamento y el propio Consejo Distrital les señalen.
 
 2. Las Comisiones de los Consejos Distritales se integrarán por Consejeros, uno de los cuales será su Presidente.
 
-ARTICULO 35
+(REUBICADO [N. DE E. ANTES ARTICULO 36], D.O.F. 14 DE MARZO DE 2000)
 
-1. En la sesión siguiente a la instalación del Consejo Distrital, se integrarán las comisiones de Capacitación Electoral y Educación Cívica, Organización Electoral, Registro Federal de Electores y Administración, con el número de miembros que para cada caso acuerde, fungiendo como Secretario Técnico de la Comisión el Vocal Distrital correspondiente. En los casos de la Comisión de Administración, actuará como Secretario Técnico el Vocal Secretario.
-
-2. El Secretario del Consejo apoyará a las comisiones para el eficaz desarrollo de sus trabajos. Para el cumplimiento de las tareas de las Comisiones, los secretarios técnicos deberán proporcionar oportunamente la información que la Comisión requiera para llevar a cabo sus actividades.
-
-3. Los Consejos Distritales podrán nombrar las comisiones adicionales que estimen convenientes para vigilar y organizar el adecuado ejercicio de las atribuciones de la Junta Distrital y de las Mesas Directivas de Casilla correspondientes al distrito de su competencia.
-
-ARTICULO 36
+ARTICULO 34
 
 1. Para el cumplimiento de sus tareas, el Presidente del Consejo Distrital, el Vocal Secretario, la Junta Distrital, las Vocalías Ejecutivas respectivas, las Coordinaciones, las Comisiones Locales y Distritales de Vigilancia, colaborarán con las Comisiones Distritales y les suministrarán la información que les sea solicitada en los términos del Código, del presente Reglamento y demás disposiciones aprobadas por el Consejo Distrital.
 
 #### Sección Tercera. DE LOS CONSEJEROS ELECTORALES DISTRITALES
 
-ARTICULO 37
+(REUBICADO [N. DE E. ANTES ARTICULO 37], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 35
 
 1. Para el cumplimiento de las atribuciones que el Código les confiere, corresponde a los Consejeros Electorales Distritales:
 
@@ -763,17 +771,11 @@ k) Asistir con derecho a voz a las sesiones de las comisiones del Consejo Distri
 
 l) Solicitar, para el adecuado desempeño de su encargo, la colaboración e información oportuna de los órganos del Instituto, en los términos del presente reglamento;
 
-m) Velar por la autonomía del Instituto Federal Electoral;
+m) Vigilar y participar en el cumplimiento de las atribuciones del Consejo Distrital;
 
-n) Vigilar y participar en el cumplimiento de las atribuciones del Consejo Distrital;
+n) Asistir a las reuniones periódicas nacionales y estatales de Consejeros Electorales; y
 
-o) Vigilar que las actividades de los partidos políticos se desarrollen con apego a los principios constitucionales;
-
-p) Recibir el informe de ejercicio del presupuesto de la Junta Distrital;
-
-q) Asistir a las reuniones periódicas nacionales y estatales de Consejeros Electorales; y
-
-r) Las demás que le confiera el Código y otras disposiciones aplicables.
+o) Las demás que le confiera el Código y otras disposiciones aplicables.
 
 2. Las Comisiones podrán invitar a los representantes de los Partidos Políticos acreditados a participar en sus trabajos.
 
@@ -781,7 +783,9 @@ r) Las demás que le confiera el Código y otras disposiciones aplicables.
 
 #### Sección Cuarta. DE LOS REPRESENTANTES DE LOS PARTIDOS POLITICOS ANTE EL CONSEJO DISTRITAL
 
-ARTICULO 38
+(REUBICADO [N. DE E. ANTES ARTICULO 38], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 36
 
 1. A los representantes de los Partidos Políticos les corresponde:
 
@@ -799,7 +803,9 @@ f) Las demás que les confiera el Código y otras disposiciones aplicables.
 
 ### CAPITULO QUINTO. DE LAS MESAS DIRECTIVAS DE CASILLA
 
-ARTICULO 39
+(REUBICADO [N. DE E. ANTES ARTICULO 39], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 37
 
 1. Corresponde a las Mesas Directivas de Casilla:
 
@@ -821,13 +827,17 @@ f) Las demás que les confiera el Código y otras disposiciones aplicables.
 
 ### CAPITULO PRIMERO. DE LA JUNTA GENERAL EJECUTIVA
 
-ARTICULO 40
+(REUBICADO [N. DE E. ANTES ARTICULO 40], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 38
 
 1. La Junta es un órgano ejecutivo central de naturaleza colegiada, que se integra de conformidad con lo que establece el artículo 85 del Código.
 
 2. Las sesiones de la Junta se regirán por el Reglamento específico que expida el Consejo.
 
-ARTICULO 41
+(REUBICADO [N. DE E. ANTES ARTICULO 41], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 39
 
 1. Para el cumplimiento de las atribuciones que el Código le confiere, corresponde a la Junta:
 
@@ -843,7 +853,9 @@ e) Las demás que le confiera el Código y otras disposiciones aplicables.
 
 ### CAPITULO SEGUNDO. DE LA SECRETARIA EJECUTIVA
 
-ARTICULO 42
+(REUBICADO [N. DE E. ANTES ARTICULO 42], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 40
 
 1. La Secretaría Ejecutiva es el órgano central de carácter unipersonal, encargado de conducir la administración y supervisar el desarrollo adecuado de las actividades de los órganos ejecutivos y técnicos del Instituto, cuyo titular será el Secretario Ejecutivo.
 
@@ -877,7 +889,9 @@ m) Las demás que le confiera el Código y otras disposiciones aplicables.
 
 ### CAPITULO TERCERO. DE LAS DIRECCIONES EJECUTIVAS
 
-ARTICULO 43
+(REUBICADO [N. DE E. ANTES ARTICULO 43], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 41
 
 1. Para el cumplimiento de las atribuciones que el Código les confiere corresponde a las Direcciones Ejecutivas:
 
@@ -909,7 +923,9 @@ m) Aplicar, con pleno respeto a la autonomía del Instituto, los mecanismos de c
 
 n) Las demás que les confiera el Código y otras disposiciones aplicables.
 
-ARTICULO 44
+(REUBICADO [N. DE E. ANTES ARTICULO 44], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 42
 
 1. A los titulares de las Direcciones Ejecutivas les corresponde:
 
@@ -929,7 +945,9 @@ g) Coordinar acciones, previo acuerdo del Secretario Ejecutivo, en el ámbito de
 
 h) Las demás que les confiera el Código y otras disposiciones aplicables.
 
-ARTICULO 45
+(REUBICADO [N. DE E. ANTES ARTICULO 45], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 43
 
 1. Para el cumplimiento de las atribuciones que el Código le confiere, corresponde a la Dirección Ejecutiva del Registro Federal de Electores:
 
@@ -939,7 +957,9 @@ b) Solicitar a las Comisiones de Vigilancia los estudios y desahogo de las consu
 
 c) Las demás que le confiera el Código y otras disposiciones aplicables.
 
-ARTICULO 46
+(REUBICADO [N. DE E. ANTES ARTICULO 46], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 44
 
 1. Para el cumplimiento de las atribuciones que el Código le confiere, corresponde a la Dirección Ejecutiva de Prerrogativas y Partidos Políticos:
 
@@ -955,7 +975,9 @@ e) Coadyuvar con la Comisión de Fiscalización de los Recursos de Partidos y Ag
 
 f) Las demás que le confiera el Código y otras disposiciones aplicables.
 
-ARTICULO 47
+(REUBICADO [N. DE E. ANTES ARTICULO 47], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 45
 
 1. Para el cumplimiento de las atribuciones que el Código le confiere, corresponde a la Dirección Ejecutiva de Organización Electoral:
 
@@ -985,7 +1007,9 @@ l) Diseñar y operar el programa de Información sobre el desarrollo de la jorna
 
 m) Las demás que le confiera el Código y otras disposiciones aplicables.
 
-ARTICULO 48
+(REUBICADO [N. DE E. ANTES ARTICULO 48], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 46
 
 1. Para el cumplimiento de las atribuciones que el Código le confiere, corresponde a la Dirección Ejecutiva del Servicio Profesional Electoral:
 
@@ -1003,7 +1027,9 @@ f) Coordinar la elaboración de estudios relacionados con la operación y desarr
 
 g) Las demás que le confiera el Código y otras disposiciones aplicables.
 
-ARTICULO 49
+(REUBICADO [N. DE E. ANTES ARTICULO 49], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 47
 
 1. Para el cumplimiento de las atribuciones que el Código le confiere, corresponde a la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica:
 
@@ -1029,7 +1055,9 @@ j) Coordinar, diseñar e instrumentar las campañas de difusión institucionales
 
 k) Las demás que le confiera el Código y otras disposiciones aplicables.
 
-ARTICULO 50
+(REUBICADO [N. DE E. ANTES ARTICULO 50], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 48
 
 1. Para el cumplimiento de las atribuciones que el Código le confiere, corresponde a la Dirección Ejecutiva de Administración:
 
@@ -1057,19 +1085,27 @@ DELEGACIONALES
 
 ### CAPITULO CUARTO. DE LAS JUNTAS LOCALES EJECUTIVAS
 
-ARTICULO 51
+(REUBICADO [N. DE E. ANTES ARTICULO 51], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 49
 
 1. Las Juntas Locales son los órganos colegiados de carácter permanente, integrados por miembros del Servicio Profesional Electoral, encargados de aplicar los programas y políticas del Instituto en el ámbito territorial de cada una de las entidades federativas.
 
-ARTICULO 52
+(REUBICADO [N. DE E. ANTES ARTICULO 52], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 50
 
 1. Las Juntas Locales regirán la organización, atribuciones y funcionamiento de las diversas áreas que las componen por las disposiciones del Código, de este Reglamento y de los demás Reglamentos, Manuales y lineamientos específicos que emitan los órganos centrales del Instituto.
 
-ARTICULO 53
+(REUBICADO [N. DE E. ANTES ARTICULO 53], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 51
 
 1. Las Juntas Locales sesionarán por lo menos una vez al mes, en los términos del Código y del Reglamento de las Juntas Locales y Distritales que expida el Consejo.
 
-ARTICULO 54
+(REUBICADO [N. DE E. ANTES ARTICULO 54], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 52
 
 1. Las Juntas Locales contarán con las siguientes áreas:
 
@@ -1089,7 +1125,9 @@ e) Vocalía de Organización Electoral.
 
 4. Las Juntas Locales, en caso de existir disponibilidad presupuestal, propondrán al Secretario Ejecutivo la incorporación de coordinaciones, departamentos y áreas de apoyo para los procesos electorales locales que estimen necesarios para el cumplimiento de sus funciones, informando al Consejo y al Consejo Local de las modificaciones de la estructura.
 
-ARTICULO 55
+(REUBICADO [N. DE E. ANTES ARTICULO 55], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 53
 
 1. Para el cumplimiento de las atribuciones que el Código les confiere, corresponde a las Juntas Locales:
 
@@ -1115,13 +1153,17 @@ j) Las demás que les confiera el Código y otras disposiciones aplicables.
 
 ### CAPITULO QUINTO. DE LOS VOCALES EJECUTIVOS LOCALES
 
-ARTICULO 56
+(REUBICADO [N. DE E. ANTES ARTICULO 56], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 54
 
 1. Las Vocalías Ejecutivas Locales son los órganos ejecutivos unipersonales encargados de coordinar los trabajos de las vocalías de la Junta Local y de presidir el Consejo Local.
 
 2. Los Vocales Ejecutivos Locales deberán apegarse a los lineamientos, programas y acciones internos que aprueben las Direcciones Ejecutivas, en el ámbito de su competencia, sin menoscabo de mantener su coordinación en el ámbito local.
 
-ARTICULO 57
+(REUBICADO [N. DE E. ANTES ARTICULO 57], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 55
 
 1. Para el cumplimiento de las atribuciones que el Código les confiere, corresponde a los Vocales Ejecutivos Locales:
 
@@ -1153,7 +1195,9 @@ m) Las demás que les confiera el Código y otras disposiciones aplicables.
 
 ### CAPITULO SEXTO. DE LAS JUNTAS DISTRITALES EJECUTIVAS
 
-ARTICULO 58
+(REUBICADO [N. DE E. ANTES ARTICULO 58], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 56
 
 1. Las Juntas Distritales son los órganos colegiados de carácter permanente, integrados por miembros del Servicio Profesional Electoral, encargados de aplicar los programas y políticas del Instituto en el ámbito territorial de cada uno de los distritos electorales.
 
@@ -1171,13 +1215,17 @@ e) Las demás que les confiera el Código y otras disposiciones aplicables.
 
 ### CAPITULO SEPTIMO. DE LOS VOCALES EJECUTIVOS DISTRITALES
 
-ARTICULO 59
+(REUBICADO [N. DE E. ANTES ARTICULO 59], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 57
 
 1. Las Vocalías Ejecutivas Distritales son los órganos unipersonales encargados de coordinar las vocalías a su cargo.
 
-2 Las Vocalías Ejecutivas Distritales deberán apegarse a los lineamientos, programas y acciones internas que aprueben las Direcciones Ejecutivas e instrumenten a través de las Vocalías Locales, en el ámbito de su competencia, sin menoscabo de mantener su coordinación en el ámbito distrital.
+2. Las Vocalías Ejecutivas Distritales deberán apegarse a los lineamientos, programas y acciones internas que aprueben las Direcciones Ejecutivas e instrumenten a través de las Vocalías Locales, en el ámbito de su competencia, sin menoscabo de mantener su coordinación en el ámbito distrital.
 
-ARTICULO 60
+(REUBICADO [N. DE E. ANTES ARTICULO 60], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 58
 
 1. Para el cumplimiento de las atribuciones que el Código les confiere, corresponde a los Vocales Ejecutivos Distritales de las Juntas Distritales:
 
@@ -1203,7 +1251,9 @@ j) Las demás que le confiera el Código y otras disposiciones aplicables.
 
 ### CAPITULO OCTAVO. DE LAS OFICINAS MUNICIPALES
 
-ARTICULO 61
+(REUBICADO [N. DE E. ANTES ARTICULO 61], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 59
 
 1. El Instituto contará con Oficinas Municipales en aquellos lugares que determine el Consejo.
 
@@ -1213,7 +1263,9 @@ ARTICULO 61
 
 ### CAPITULO UNICO. DE LAS UNIDADES TECNICAS
 
-ARTICULO 62
+(REUBICADO [N. DE E. ANTES ARTICULO 62], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 60
 
 1. Para el ejercicio de las atribuciones que los acuerdos del Consejo confieren a las Unidades Técnicas, corresponde a los titulares de éstas:
 
@@ -1247,7 +1299,9 @@ n) Las demás que les confiera el Reglamento y otras disposiciones aplicables.
 
 2. Las Unidades Técnicas dependerán del órgano central del Instituto que señale el acuerdo del Consejo correspondiente.
 
-ARTICULO 63
+(REUBICADO [N. DE E. ANTES ARTICULO 63], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 61
 
 1. Corresponde a la Coordinación Nacional de Comunicación Social, las atribuciones siguientes:
 
@@ -1285,7 +1339,9 @@ p) Atender las solicitudes de las diferentes instancias institucionales en los a
 
 q) Las demás que le confiera el presente Reglamento y otras disposiciones aplicables.
 
-ARTICULO 64
+(REUBICADO [N. DE E. ANTES ARTICULO 64], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 62
 
 1. Corresponde a la Coordinación de Asuntos Internacionales las atribuciones siguientes:
 
@@ -1323,7 +1379,9 @@ p) Colaborar en el diseño e instrumentación de los criterios y lineamientos qu
 
 q) Las demás que le confiera el presente Reglamento y otras disposiciones aplicables.
 
-ARTICULO 65
+(REUBICADO [N. DE E. ANTES ARTICULO 65], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 63
 
 1. La Contraloría Interna ejercerá sus atribuciones de manera autónoma respecto de cualquier órgano ejecutivo del Instituto, quedando supeditada al Consejo en los términos de este Reglamento y le corresponde:
 
@@ -1369,7 +1427,9 @@ t) Acordar con el Consejero Presidente los asuntos de su competencia; y
 
 u) Las demás que le confiera el Código y otras disposiciones aplicables.
 
-ARTICULO 66
+(REUBICADO [N. DE E. ANTES ARTICULO 66], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 64
 
 1. Corresponde a la Unidad Técnica de Servicios de Informática, las atribuciones siguientes:
 
@@ -1399,7 +1459,7 @@ l) Proporcionar capacitación y asesoría en sistemas de cómputo y comunicacion
 
 m) Acordar con el Secretario Ejecutivo los asuntos de su competencia;
 
-n) Rendir informes trimestrales y anuales de actividades al Secretario Ejecutivo para que los haga del conocimiento del Consejo General,
+n) Rendir informes trimestrales y anuales de actividades al Secretario Ejecutivo para que los haga del conocimiento del Consejo General;
 
 o) Coadyuvar con las comisiones del Consejo General; y
 
@@ -1425,7 +1485,9 @@ h) Coordinar y supervisar la instalación y operación de los equipos de captura
 
 i) Las demás que le confiera el presente Reglamento y otras disposiciones aplicables.
 
-ARTICULO 67
+(REUBICADO [N. DE E. ANTES ARTICULO 67], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 65
 
 1. Corresponde a la Dirección Jurídica, las atribuciones siguientes:
 
@@ -1465,7 +1527,9 @@ q) Acordar con el Secretario Ejecutivo del Instituto los asuntos de su competenc
 
 r) Las demás que le confiera el presente Reglamento y otras disposiciones aplicables.
 
-ARTICULO 68
+(REUBICADO [N. DE E. ANTES ARTICULO 68], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 66
 
 1. Corresponde a la Dirección del Secretariado, las atribuciones siguientes:
 
@@ -1499,7 +1563,9 @@ n) Acordar con el Secretario Ejecutivo los asuntos de su competencia; y
 
 o) Las demás que le confiera el presente Reglamento y otras disposiciones aplicables.
 
-ARTICULO 69
+(REUBICADO [N. DE E. ANTES ARTICULO 69], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 67
 
 1. Corresponde al Centro de Formación y Desarrollo, las atribuciones siguientes:
 
@@ -1525,7 +1591,9 @@ j) Previa solicitud, diseñar y desarrollar los estudios, análisis y esquemas d
 
 k) Las demás que le confiera el presente Reglamento y otras disposiciones aplicables.
 
-ARTICULO 70
+(REUBICADO [N. DE E. ANTES ARTICULO 70], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 68
 
 1. El Titular del Centro de Formación y Desarrollo será nombrado por el Consejo, a propuesta del Presidente del Consejo, tendrá el nivel inmediato inferior al de Director Ejecutivo y le corresponde:
 
@@ -1549,15 +1617,21 @@ h) Las demás que le confiera el presente Reglamento y otras disposiciones aplic
 
 ### CAPITULO PRIMERO. DE LA COMISION NACIONAL DE VIGILANCIA
 
-ARTICULO 71
+(REUBICADO [N. DE E. ANTES ARTICULO 71], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 69
 
 1. La Comisión Nacional de Vigilancia es el órgano encargado de coadyuvar en que los trabajos relativos al padrón electoral se cumplan cabalmente.
 
-ARTICULO 72
+(REUBICADO [N. DE E. ANTES ARTICULO 72], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 70
 
 1. La Comisión Nacional de Vigilancia se integrará por el Director Ejecutivo del Registro Federal de Electorales, quien lo presidirá; un representante propietario y un suplente por cada partido político nacional, un secretario designado por el presidente de la Comisión de entre los miembros del Servicio Profesional Electoral con funciones en el área registral y un representante del Instituto Nacional de Estadística, Geografía e Informática.
 
-ARTICULO 73
+(REUBICADO [N. DE E. ANTES ARTICULO 73], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 71
 
 1. Para el cumplimiento de las atribuciones que el Código le confiere, corresponde a la Comisión Nacional de Vigilancia:
 
@@ -1579,11 +1653,15 @@ h) Las demás que le confiera el Código y otras disposiciones aplicables.
 
 ### CAPITULO SEGUNDO. DE LA COMISION DE RADIODIFUSION
 
-ARTICULO 74
+(REUBICADO [N. DE E. ANTES ARTICULO 74], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 72
 
 1. La Comisión de Radiodifusión se integra con el presidente que es el Director Ejecutivo de Prerrogativas y Partidos Políticos y los representantes de los partidos políticos nacionales.
 
-ARTICULO 75
+(REUBICADO [N. DE E. ANTES ARTICULO 75], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 73
 
 1. Son atribuciones de la Comisión de Radiodifusión:
 
@@ -1603,7 +1681,7 @@ g) Elaborar los lineamientos generales aplicables en los noticieros respecto de 
 
 h) Realizar los monitoreos muestrales de los tiempos de transmisión sobre las campañas de los partidos políticos en los espacios noticiosos de los medios de comunicación;
 
-i) Realizar, con base en los catálogos que le entregue la Secretaría Ejecutiva, el sorteo de los tiempos, estaciones, canales y horarios que les correspondan a cada partido político atendiendo a lo dispuesto en los párrafos 2, 3 y 4 del artículo 47 del Código.
+i) Realizar, con base en los catálogos que le entregue la Secretaría Ejecutiva, el sorteo de los tiempos, estaciones, canales y horarios que les correspondan a cada partido político atendiendo a lo dispuesto en los párrafos 2, 3 y 4 del artículo 47 del Código;
 
 j) Presentar los informes correspondientes a sus actividades al Consejo; y
 
@@ -1613,13 +1691,17 @@ DELEGACIONALES
 
 ### CAPITULO TERCERO. DE LAS COMISIONES LOCALES DE VIGILANCIA
 
-ARTICULO 76
+(REUBICADO [N. DE E. ANTES ARTICULO 76], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 74
 
 1. La Comisión Local de Vigilancia se integrará por un presidente, que será el Vocal del Registro Federal de Electores, un representante propietario y un suplente por cada partido político nacional y un secretario designado por su presidente.
 
 ### CAPITULO CUARTO. DE LAS COMISIONES DISTRITALES DE VIGILANCIA
 
-ARTICULO 77
+(REUBICADO [N. DE E. ANTES ARTICULO 77], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 75
 
 1. La Comisión Distrital de Vigilancia se integrará por un presidente, que será el Vocal del Registro Federal de Electores, un representante propietario y un suplente por cada partido político nacional y un secretario designado por su presidente.
 
@@ -1627,7 +1709,9 @@ ARTICULO 77
 
 ### CAPITULO UNICO. REDES DE INFORMACION Y COLABORACION
 
-ARTICULO 78
+(REUBICADO [N. DE E. ANTES ARTICULO 78], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 76
 
 1. La información institucional, que no se difunda en la Red Nacional de Informática, será proporcionada por los funcionarios del Instituto de conformidad con las reglas siguientes:
 
@@ -1647,7 +1731,9 @@ g) Los órganos técnicos podrán solicitar, en el ámbito de sus respectivas co
 
 h) Los órganos de vigilancia podrán solicitar, en el ámbito de sus competencias, información a los órganos ejecutivos y técnicos así como a los de vigilancia de rango inferior.
 
-ARTICULO 79
+(REUBICADO [N. DE E. ANTES ARTICULO 79], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 77
 
 1. El flujo de información, en un mismo rango o de un rango inferior a uno superior, se regulará conforme a las siguientes disposiciones:
 
@@ -1663,7 +1749,9 @@ e) Los órganos técnicos, que requieran información de los órganos ejecutivos
 
 f) Los órganos de vigilancia, delegacionales y subdelegacionales, que requieran información de órganos de vigilancia de nivel superior, podrán solicitarla directamente a los órganos superiores. Cuando la información que requieran sea de órganos de dirección, ejecutivos o técnicos de nivel superior, deberán solicitarla al Secretario Ejecutivo por conducto del Vocal Ejecutivo correspondiente.
 
-ARTICULO 80
+(REUBICADO [N. DE E. ANTES ARTICULO 80], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 78
 
 1. La información que publiquen los órganos del Instituto se difundirá, además de los medios oficiales escritos, por vía interna y externa.
 
@@ -1675,47 +1763,67 @@ ARTICULO 80
 
 ### CAPITULO PRIMERO. PROTESTA CONSTITUCIONAL
 
-ARTICULO 81
+(REUBICADO [N. DE E. ANTES ARTICULO 81], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 79
 
 1. El Secretario Ejecutivo, los consejeros del Poder Legislativo y los representantes de los partidos políticos ante el órgano superior de dirección rendirán la protesta constitucional ante el Consejo General.
 
-ARTICULO 82
+(REUBICADO [N. DE E. ANTES ARTICULO 82], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 80
 
 1. Los Directores Ejecutivos, Titulares de las Unidades Técnicas y los Presidentes de los Consejos Locales rendirán la protesta constitucional ante el Presidente y Secretario del Instituto.
 
-ARTICULO 83
+(REUBICADO [N. DE E. ANTES ARTICULO 83], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 81
 
 1. Los Vocales Ejecutivos Distritales rendirán la protesta constitucional ante el Vocal Ejecutivo Local o el Secretario Ejecutivo respectivos.
 
-ARTICULO 84
+(REUBICADO [N. DE E. ANTES ARTICULO 84], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 82
 
 1. Los consejeros electorales y representantes de los partidos políticos de los Consejos Locales y Distritales, inmediatamente después de haber tomado posesión, rendirán la protesta constitucional ante el Consejo respectivo.
 
-ARTICULO 85
+(REUBICADO [N. DE E. ANTES ARTICULO 85], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 83
 
 1. Los ciudadanos que integren las mesas directivas de casilla y demás servidores del Instituto rendirán la protesta constitucional por escrito.
 
-ARTICULO 86
+(REUBICADO [N. DE E. ANTES ARTICULO 86], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 84
 
 1. En toda protesta constitucional se levantará el acta correspondiente de la cual se agregará un tanto al expediente personal del servidor público respectivo, así como de los Consejeros y Representantes de Partido y del Poder Legislativo.
 
 ### CAPITULO SEGUNDO. DE LA INTERPRETACION
 
-ARTICULO 87
+(REUBICADO [N. DE E. ANTES ARTICULO 87], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 85
 
 1. Las disposiciones del presente Reglamento se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos, el Código y los criterios gramatical, sistemático y funcional, atendiendo a lo señalado en el último párrafo del artículo 14 Constitucional.
 
-ARTICULO 88
+(REUBICADO [N. DE E. ANTES ARTICULO 88], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 86
 
 1. La interpretación del presente Reglamento corresponde al Consejo, quien podrá contar con la orientación y asesoría de la Comisión de Reglamentos y de la Dirección Jurídica.
 
 ### CAPITULO TERCERO. DE LAS REFORMAS AL REGLAMENTO
 
-ARTICULO 89
+(REUBICADO [N. DE E. ANTES ARTICULO 89], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 87
 
 1. El Consejo podrá reformar el contenido del presente reglamento cuando así lo requiera la estructura y funcionamiento del Instituto.
 
-ARTICULO 90
+(REUBICADO [N. DE E. ANTES ARTICULO 90], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 88
 
 1. Podrán presentar propuesta de reforma:
 
@@ -1735,9 +1843,11 @@ g) Las Juntas Locales;
 
 h) Los Consejos Distritales;
 
-i) Las Juntas Distritales;
+i) Las Juntas Distritales.
 
-ARTICULO 91
+(REUBICADO [N. DE E. ANTES ARTICULO 91], D.O.F. 14 DE MARZO DE 2000)
+
+ARTICULO 89
 
 1. Las reformas a este Reglamento se ajustarán al siguiente procedimiento:
 
@@ -1762,3 +1872,17 @@ SEGUNDO.- PUBLIQUESE EN EL DIARIO OFICIAL DE LA FEDERACION Y EN LA GACETA DEL IN
 TERCERO.- EL SECRETARIO EJECUTIVO EDITARA A LA BREVEDAD POSIBLE EL NUMERO DE EJEMPLARES DE ESTE REGLAMENTO QUE SE ESTIMEN NECESARIOS.
 
 EL PRESENTE ACUERDO FUE APROBADO EN SESION ORDINARIA DEL CONSEJO GENERAL CELEBRADA EL 30 DE NOVIEMBRE DE 1999.- EL CONSEJERO PRESIDENTE DEL CONSEJO GENERAL, JOSE WOLDENBERG KARAKOWSKY.- RUBRICA.- EL SECRETARIO DEL CONSEJO GENERAL, FERNANDO ZERTUCHE MUÑOZ.- RUBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 14 DE MARZO DE 2000.
+
+PRIMERO.- LAS MODIFICACIONES AL PRESENTE REGLAMENTO ENTRARAN EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL DIARIO OFICIAL DE LA FEDERACION.
+
+SEGUNDO.- EL SECRETARIO EJECUTIVO DARA CUENTA DEL PRESENTE ACUERDO, POR EL QUE SE ACATA LA SENTENCIA SUP-RAP-034/99, AL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION.
+
+TERCERO.- LA DIVULGACION Y DISTRIBUCION DEL PRESENTE REGLAMENTO SE HARA EXTENSIVO A TODO EL PERSONAL DEL INSTITUTO, UNA VEZ APROBADAS Y PUBLICADAS OFICIALMENTE LAS MODIFICACIONES.
+
+CUARTO.- PUBLIQUESE EN EL DIARIO OFICIAL DE LA FEDERACION Y EN LA GACETA DEL INSTITUTO FEDERAL ELECTORAL.
+
+QUINTO.- EL SECRETARIO EJECUTIVO EDITARA A LA BREVEDAD POSIBLE EL NUMERO DE EJEMPLARES DE ESTE REGLAMENTO QUE SE ESTIMEN NECESARIOS.
