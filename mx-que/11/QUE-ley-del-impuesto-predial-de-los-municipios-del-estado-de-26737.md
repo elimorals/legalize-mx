@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-impuesto-predial-de-los-municipios-del-estado-de-26737"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2004-10-29"
+last_updated: "2004-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL IMPUESTO PREDIAL DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
@@ -113,9 +113,13 @@ Quienes no reciban ingreso en dinero y así lo manifiesten bajo protesta de deci
 
 a. Que son afiliados del Instituto Nacional de las Personas Adultas Mayores (INAPAM); o
 
-b. Que cuentan con certificación de discapacidad expedida por las autoridades competentes en materia de salud.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
-Quienes cumpliendo con los requisitos anteriores, perciban hasta tres salarios mínimos vigentes en la zona económica correspondiente y realicen dicho pago en el primer bimestre, pagarán el 50% del total de este impuesto.
+b. Que tienen discapacidad física, con grado del 3 al 5 en la escala de valoración de la Cruz Roja.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+Quienes cumpliendo con los requisitos anteriores, perciban hasta tres salarios mínimos vigentes en la zona económica correspondiente y realicen dicho pago en el primer semestre del año, pagarán el 50% del total de este impuesto.
 
 Las dependencias encargadas de las finanzas públicas municipales darán a conocer mediante publicación en estrados el beneficio de esta disposición.
 
@@ -596,3 +600,13 @@ DECRETO QUE REFORMA EL ARTICULO SEXTO TRANSITORIO DE LA LEY.
 PRIMERO.- La presente Ley entrará en vigor al día de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 3 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a la presente Ley.
