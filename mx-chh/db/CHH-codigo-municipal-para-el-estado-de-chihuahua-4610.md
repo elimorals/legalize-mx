@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "1997-11-29"
+last_updated: "1997-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1997.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1889,6 +1889,10 @@ El Presidente Municipal podrá ordenar la suspensión del espectáculo, cuando q
 
 Es objeto de este impuesto, la celebración de juegos, rifas o loterías, de cualquier clase, que otorguen premios a los participantes.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+
+Se exceptúa del pago de este impuesto la obtención de ingresos por la enajenación de billetes y demás comprobantes que permitan participar en loterías rifas, sorteos y concursos de toda clase, organizados por Organismos Públicos Descentralizados de la Administración Pública Federal, Estatal y Municipal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
+
 ###### ARTICULO 140.
 
 Son sujetos de este impuesto, las personas físicas o morales que organicen o celebren juegos, rifas o loterías.
@@ -2754,3 +2758,9 @@ Los comités de Vecinos integrados a la fecha de la entrada en vigor de la prese
 ###### ARTICULO TERCERO.
 
 De no existir el Registro Interior, los Comités de Vecinos serán validados por los Ayuntamientos.
+
+P.O. 24 DE DICIEMBRE DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
