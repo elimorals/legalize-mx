@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2002-06-22"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -295,9 +295,35 @@ XXIV. Emitir las bases mediante acuerdos generales, para que las adquisiciones, 
 
 XXV. Solicitar al Consejo General del Poder Judicial, el cambio de adscripción de jueces y en su caso, su remoción del cargo por causa justificada;
 
-XXVI. Sugerir al Consejo General la modificación en el número y límites territoriales de los partidos judiciales en que se divide el territorio del Estado; y
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2003)</small>
 
-XXVII. Las demás que le otorgue la Constitución Política del Estado de Jalisco y las leyes aplicables.
+XXVI. Elaborar el dictamen técnico en el que se analice y emita opinión sobre la actuación y el desempeño de los magistrados, de conformidad con el artículo 61 de la Constitución Política del Estado de Jalisco;
+
+Para estos efectos, el dictamen deberá contener todos los datos, elementos y opiniones que permitan al Congreso ilustrar su decisión, señalando por lo menos:
+
+a) El total de asuntos turnados al magistrado;
+
+b) El total de asuntos resueltos por el magistrado;
+
+c) El total de asuntos turnados a la sala a la que pertenece el magistrado;
+
+d) El total de asuntos resueltos por la sala a la que pertenece el magistrado;
+
+e) El número de resoluciones resueltas en los términos que establecen las leyes;
+
+f) El número de resoluciones confirmadas o modificadas a través del juicio de amparo;
+
+g) Los servidores públicos que auxilian al magistrado; y
+
+h) Las quejas presentadas en contra del magistrado y el sentido de su resolución.
+
+El dictamen técnico, así como los demás datos, informaciones y opiniones que se hagan llegar al Congreso del Estado, tanto del Supremo Tribunal de Justicia, como de particulares, servirán para el proceso de ratificación de los magistrados. Estos elementos no limitan la facultad soberana del Congreso del Estado, de ratificar o no ratificar a los magistrados del Supremo Tribunal de Justicia del Estado.
+
+XXVII. Sugerir al Consejo General la modificación en el número y límites territoriales de los partidos judiciales en que se divide el territorio del Estado, y
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2003)</small>
+
+XXVIII. Las demás que le otorgue la constitución Política del Estado de Jalisco y las leyes aplicables.
 
 ###### Artículo 24.
 
@@ -419,9 +445,17 @@ XVII. Proponer al Pleno las medidas necesarias para el buen servicio y disciplin
 
 XVIII. Vigilar que los presidentes de las salas proporcionen mensualmente los datos estadísticos de los asuntos de su competencia;
 
-XIX. Proponer al Pleno del Supremo Tribunal los nombramientos del Secretario General de Acuerdos, de los directores y de los titulares de los órganos auxiliares del propio Tribunal, así como el del representante de este último, ante la correspondiente Comisión Substanciadora; y
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2003)</small>
 
-XX. Las demás que le confieran el Pleno y las leyes.
+XIX. Remitir al Congreso del Estado el dictamen técnico a que se refiere la fracción XXVI, del artículo 23 de la presente ley;
+
+Para efectos de un adecuado control y evaluación de las labores del Supremo Tribunal de Justicia, elaborará y conservará un dictamen semestral de cada uno de los Magistrados, con los elementos que establece la fracción XXVI del artículo 23 de esta Ley.
+
+XX. Proponer al Pleno del Supremo Tribunal los nombramiento (sic) del Secretario General de Acuerdos, de los directores y de los titulares de los órganos auxiliares del propio Tribunal, así como el del representante de este último, ante la correspondiente Comisión Substanciadora, y
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2003)</small>
+
+XXI. Las demás que le confieran las leyes y el Pleno.
 
 ###### Artículo 35.
 
@@ -657,9 +691,11 @@ III. En caso de que la nueva propuesta fuera rechazada, ocupará el cargo la per
 
 IV. Para la elección de magistrados del Tribunal de lo Administrativo, tendrán preferencia aquéllas personas que hayan destacado por su honorabilidad, competencia y antecedentes en la profesión jurídica o que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2003)</small>
+
 ###### Artículo 61.
 
-Los magistrados del Tribunal de lo Administrativo, durarán en el ejercicio de su cargo siete años, contados a partir de la fecha en que rindan la protesta de ley, al término de los cuales, podrán ser reelectos, y si lo fueren, continuarán en su función por diez años más y no podrán en ningún caso volver a ocupar el cargo. Sólo podrán ser removidos en los términos que establece la Constitución Política del Estado de Jalisco y la ley de la materia.
+Los magistrados del Tribunal de lo Administrativo, durarán en el ejercicio de su cargo siete años, contados a partir de la fecha en que rindan la protesta de ley, al término de los cuales, podrán ser ratificados, y si lo fueren, continuarán en su función por diez años más y no podrán en ningún caso volver a ocupar el cargo. Sólo podrán ser removidos en los términos que establece la Constitución Política del Estado de Jalisco y la ley de la materia.
 
 ###### Artículo 62.
 
@@ -723,9 +759,17 @@ XIV. Realizar los actos y dictar los acuerdos en que no se requiera la intervenc
 
 XV. Rendir los informes previos y justificados en contra del Pleno del Tribunal;
 
-XVI. Proponer al Pleno del Tribunal de lo Administrativo los nombramientos del Secretario del Tribunal, de los directores y de los titulares de los órganos auxiliares del propio Tribunal de lo Administrativo, así como el del representante de este último, ante la correspondiente Comisión Substanciadora; y
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2003)</small>
 
-XVII. Las demás que le confiera el Pleno del Tribunal.
+XVI. Remitir al congreso del Estado el dictamen técnico a que se refiere la fracción XXVII del artículo 23 de la presente ley.
+
+El dictamen técnico, así como los demás datos, información y opiniones que se hagan llegar al Congreso del Estado, tanto del Tribunal de lo Administrativo, como de particulares, servirán para el proceso de ratificación de los magistrados. Estos elementos no limitan la facultad soberana del Congreso del Estado, de ratificar o no ratificar, a los magistrados del Tribunal de lo Administrativo.
+
+Para efectos de un adecuado control y evaluación de las labores del Tribunal de lo Administrativo, elaborará y conservará un dictamen semestral de cada uno de los Magistrados, con los elementos que establece la fracción XXVI del artículo 23 de esta Ley.
+
+XVII. Proponer al Pleno del Tribunal de lo Administrativo los nombramientos del Secretario del Tribunal, de los directores y de los titulares de los órganos auxiliares del propio Tribunal de lo Administrativo, así como el del representante de este último, ante la correspondiente Comisión Substanciadora; y
+
+XVIII. Las demás que le confiera el Pleno del Tribunal.
 
 ### CAPÍTULO VI. DE LOS SECRETARIOS Y ACTUARIOS DEL TRIBUNAL DE LO ADMINISTRATIVO
 
@@ -763,9 +807,13 @@ XIII. Elevar iniciativas de leyes en el ámbito de su competencia, por conducto 
 
 XIV. Resolver los conflictos de trabajo suscitados entre el Tribunal de lo Administrativo y sus servidores públicos en términos de la fracción XII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, a partir del dictamen que le presente la Comisión Substanciadora del propio Tribunal;
 
-XV. Designar, a propuesta de su Presidente, al representante del Tribunal de lo Administrativo ante la Comisión Substanciadora para los efectos señalados en la fracción anterior; y
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2003)</small>
 
-XVI. Las demás que determinen las leyes.
+XV. Elaborar el dictamen técnico en el que se analice y emita opinión sobre la actuación y el desempeño de los magistrados, siguiendo los requisitos que señala el artículo 23 fracción XXVII de la presente ley;
+
+XVI. Designar, a propuesta de su Presidente, al representante del Tribunal de lo Administrativo ante la Comisión Substanciadora para los efectos señalados en la fracción anterior; y
+
+XVII. Las demás que determinen las leyes.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -947,11 +995,13 @@ II. Cualquier controversia que se suscite durante el tiempo en que no se encuent
 
 III. Cualquier controversia que se suscite en los procesos extraordinarios, de plebiscito o referéndum, y que no se encuentre instalado el Tribunal Electoral, salvo que la convocatoria establezca la instalación total del Tribunal.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2003)</small>
 
 ###### Artículo 78.
 
-Los magistrados del Tribunal Electoral durarán en el ejercicio de su encargo cuatro años a partir de la fecha en que rindan la protesta de ley, durante los cuales no podrán ser privados de su empleo, salvo los casos establecidos en la Constitución Política del Estado, en materia de responsabilidades de los servidores públicos.
+Los magistrados del Tribunal Electoral, durarán en el ejercicio de su encargo cuatro años, a partir de la fecha en que rindan la protesta de ley, al término de los cuales, podrán ser ratificados, continuando en su función cuatro años más, durante los cuales no podrán ser privados de su empleo, salvo los casos establecidos en la Constitución Política del Estado, en materia de responsabilidades de los servidores públicos.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 Al término de su gestión los magistrados electorales no podrán ser reelectos para el período inmediato, sino una vez pasado éste serán elegibles sujetándose al procedimiento previsto en esta ley.
 
@@ -1091,13 +1141,17 @@ XI. Elegir a los magistrados director y subdirector del Instituto de Investigaci
 
 XI (SIC). Solicitar al Consejo Electoral del Estado los documentos necesarios para poder ejercer cabalmente sus funciones; y (sic)
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2003)</small>
 
-XIII. Emitir las bases mediante acuerdos generales, para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice el Tribunal Electoral, se ajusten a los criterios contemplados en la ley de la materia; y
+XIII. Elaborar el dictamen técnico en el que se analice y emita opinión sobre la actuación y el desempeño de los magistrados, siguiendo los requisitos que señala el artículo 23 fracción XXVII de la presente ley;
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2003)</small>
 
-XIV. Las demás que le otorgue la Constitución Política del Estado de Jalisco y las leyes aplicables.
+XIV. Emitir las bases mediante acuerdos generales, para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice el Tribunal Electoral, se ajusten a los criterios contemplados en la ley de la materia; y
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2003)</small>
+
+XV. Las demás que le confiere esta ley.
 
 ###### Artículo 89.
 
@@ -1143,13 +1197,21 @@ XIV. Turnar, proporcional y equitativamente, entre él y los demás magistrados 
 
 XV. Ordenar y vigilar que se notifique a los organismos electorales y demás partes interesadas, las resoluciones que emitan;
 
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2003)</small>
+
+XVI. Remitir al Congreso del estado, el dictamen técnico a que se refiere la fracción XXVII del artículo 23 de la presente ley;
+
+El dictamen técnico, así como los demás datos, informaciones y opiniones que se hagan llegar al Congreso del Estado, servirán para el proceso de ratificación de los magistrados. Estos elementos no limitan la facultad soberana del Congreso del Estado, de ratificar o no ratificar, a los magistrados del Tribunal Electoral.
+
+Para efectos de un adecuado control y evaluación de las labores del Tribunal Electoral, elaborará y conservará un dictamen semestral de cada uno de los Magistrados, con los elementos que establece la fracción XXVI del artículo 23 de esta Ley.
+
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
 
-XVI. Proponer al Pleno del Tribunal Electoral el representante de este último, ante la correspondiente Comisión Substanciadora; y
+XVII. Proponer al Pleno del Tribunal Electoral el representante de este último, ante la correspondiente Comisión Substanciadora; y
 
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
 
-XVII. Las demás que le confiera el Pleno del Tribunal.
+XVIII. Las demás que le confiera el Pleno del Tribunal.
 
 ### CAPÍTULO VII. DE LA SALA DE SEGUNDA INSTANCIA DEL TRIBUNAL ELECTORAL
 
@@ -2910,3 +2972,7 @@ P.O. 22 DE JUNIO DE 2002.
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- El Supremo Tribunal de Justicia, el Tribunal de lo Administrativo, el Tribunal Electoral y el Consejo General del Poder Judicial del Estado de Jalisco, deberán expedir sus reglamentos de adquisiciones y enajenaciones en un plazo de 90 días naturales contados a partir de la vigencia del presente decreto.
+
+P.O. 1 DE MAYO DE 2003.
+
+ÚNICO.- El presente decreto que contiene reformas a la Ley Orgánica del Poder Judicial del Estado de Jalisco, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
