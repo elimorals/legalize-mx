@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2000-07-25"
+last_updated: "2001-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1389,10 +1389,6 @@ En la promoción con que se inicie la creación de un Impuesto Extraordinario, e
 
 El objeto, el sujeto, los responsables solidarios, la base, el pago y demás elementos constitutivos del impuesto, se determinarán en el decreto que en su caso expida el Congreso del Estado.
 
-> <small>(ADICIONADO CON LA SECCION Y EL ARTICULO QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 1999)</small>
-
-### CAPITULO XI. IMPUESTO SOBRE ESPECTACULOS PUBLICOS
-
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE AGOSTO DE 1999)</small>
 
 ### CAPITULO X. Del Impuesto sobre Negocios Jurídicos
@@ -1462,6 +1458,10 @@ En todo caso, al margen de la matriz y en los testimonios o en los documentos pr
 No se dará trámite ni se registrará documento alguno si no obra en él dicha constancia.
 
 En el caso de que las obligaciones estipuladas estén sujetas a alguna condición, se causará el impuesto como si fuesen puras y simples.
+
+> <small>(ADICIONADO CON LA SECCION Y EL ARTICULO QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 1999)</small>
+
+### CAPITULO XI. IMPUESTO SOBRE ESPECTACULOS PUBLICOS
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE DICIEMBRE DE 1999)</small>
 
@@ -2145,9 +2145,25 @@ VI. Ingresos y gastos reales del último ejercicio fiscal;
 
 VII. Las previsiones de egresos destinados a cada ramo administrativo, para el sostenimiento y desarrollo de los servicios públicos en el siguiente ejercicio fiscal;
 
-VIII. Situación de la deuda pública al final del último ejercicio fiscal, y estimación de la que se tendrá al término de los ejercicios fiscales en curso y el inmediato siguiente; y
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2001)</small>
 
-IX. Los demás informes financieros y datos estadísticos que considere conveniente, para la mejor comprensión de su política hacendaria y del programa de administración.
+VIII. Situación de la deuda pública al final del último ejercicio fiscal, y estimación de la que se tendrá al término de los ejercicios fiscales en curso y el inmediato siguiente;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2001)</small>
+
+IX. El desglose y justificación de las diferentes partidas del presupuesto;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2001)</small>
+
+X. Las plantillas de personal por jornada y nivel;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2001)</small>
+
+XI. Sueldo y demás prestaciones económicas asignadas a cada una de las plazas presupuestadas, con inclusión de aquellas que ocupen los funcionarios titulares de las dependencias municipales y entidades de que se trate; y
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2001)</small>
+
+XII. Los demás informes financieros y datos estadísticos que considere conveniente, para la mejor comprensión de su política hacendaria y del programa de administración.
 
 ###### Art. 211.
 
@@ -2158,6 +2174,22 @@ Una vez estudiado y revisado el proyecto del gasto público, el monto del mismo 
 ###### Art. 212.
 
 Aprobado el Presupuesto de Egresos para el ejercicio fiscal respectivo, el Ayuntamiento deberá remitir, antes del día veinte de diciembre de cada año, las copias del mismo y del acta de la sesión de Cabildo en que se aprobó, al Congreso del Estado, para su conocimiento y efectos y revisión de la cuenta pública.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2001)</small>
+
+El presidente municipal, dentro de los treinta días que sigan a la aprobación del presupuesto o en su caso, de las modificaciones o ampliaciones del mismo, deberá ordenar la publicación de las percepciones económicas que se hubieren determinado para cada uno de los servidores públicos del ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2001)</small>
+
+Mientras no se hubiere realizado la publicación, tales servidores públicos no podrán percibir ningún pago que no tengan expresamente asignado conforme a la última publicación efectuada.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2001)</small>
+
+Las partidas destinadas al pago de prestaciones económicas distintas al sueldo se aplicarán atendiendo a previsto en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios y demás normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2001)</small>
+
+La publicación a que se refiere el párrafo anterior deberá hacerse en la Gaceta Municipal, en por lo menos uno de los diarios de mayor circulación en el Estado y, si los hubiere, en uno o más periódicos de la localidad de que se trate.
 
 ### CAPITULO II. De la Estimación del Monto
 
@@ -3218,3 +3250,7 @@ P.O. 7 DE DICIEMBRE DE 1999.
 P.O. 25 DE JULIO DE 2000.
 
 Único.- Este Decreto entrará en vigor el 1 de febrero del 2001, previa publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 23 DE ENERO DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor a los 60 sesenta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
