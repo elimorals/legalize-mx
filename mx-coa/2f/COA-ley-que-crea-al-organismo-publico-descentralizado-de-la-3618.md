@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-al-organismo-publico-descentralizado-de-la-3618"
 country: "mx"
 rank: "ley"
 publication_date: "1983-04-05"
-last_updated: "1983-04-05"
+last_updated: "1992-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY QUE CREA AL ORGANISMO PUBLICO DESCENTRALIZADO DE LA ADMINISTRACION MUNICIPAL DENOMINADO "DIRECCION DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE SALTILLO"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 5 de abril de 1983.
 
@@ -89,7 +89,9 @@ D.- Por beneficiario, a la persona o personas que por disposición de esta Ley s
 
 El patrimonio del Organismo se constituirá de la siguiente manera:
 
-I.- Con la aportación quincenal obligatoria del Municipio de Saltillo, de una cantidad equivalente al 4.9% del sueldo nominal que perciba el trabajador;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 1992)</small>
+
+I.- Con la aportación quincenal obligatoria del Municipio de Saltillo, de una cantidad equivalente al 8.5% del sueldo nominal que percibía el trabajador;
 
 II.- Con los intereses, rentas y demás utilidades que se obtengan de la inversión de las cuotas a que se refiere la fracción anterior;
 
@@ -337,25 +339,25 @@ El Organismo que se crea, se considera de acreditada solvencia para todos los ef
 
 ### CAPITULO SEPTIMO. DE LOS DISTINTOS BENEFICIOS QUE CONCEDE ESTA LEY Y FORMAS DE ADQUIRIRLOS
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1992)</small>
+
 ###### ARTICULO 35.
 
 Los beneficios que otorga la presente Ley son los siguientes:
 
-1º.- Jubilaciones.
+I.- Jubilaciones, por servicio, por vejez del trabajador;
 
-a).- Por servicio.
+II.- Pensión por inhabilitación física o mental;
 
-b).- Por vejez del trabajador.
+III.- Pensión por muerte del trabajador;
 
-2º.- Pensión por inhabilitación física o mental.
+IV.- Préstamos quirografarios;
 
-3º.- Pensión por muerte del trabajador.
+V.- Préstamos Hipotecarios y adquisición de inmuebles; y
 
-4º.- Préstamos Quirografarios.
+VI.- Servicio Médico gratuito, que se proporcionará a través de aquella Institución Médica con quien el Ayuntamiento tenga contratado el servicio.
 
-5º.- Préstamos hipotecarios y adquisición de inmuebles.
-
-Los anteriores beneficios serán concedidos en el Orden prescrito y en relación a los fondos de que se dispongan.
+Los anteriores beneficios serán concedidos en el orden prescrito y en relación a los fondos de que se dispongan.
 
 ### CAPITULO OCTAVO. DE LAS JUBILACIONES
 
@@ -363,9 +365,13 @@ Los anteriores beneficios serán concedidos en el Orden prescrito y en relación
 
 El derecho de la Jubilación se adquiere por los años de servicio o por vejez.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1992)</small>
+
 ###### ARTICULO 37.
 
-La jubilación por años de Servicio únicamente se concederá por la Dirección al trabajador que cumpla 30 años de servicios efectivos, sin que pueda reducirse este plazo. El monto de la jubilación en este caso será del 100% del salario del trabajador en relación al promedio del sueldo que devenga durante los últimos 3 años pagaderos quincenalmente.
+La jubilación por años de servicio únicamente se concederá por la Dirección, al trabajador que cumpla 30 años de servicio efectivo, sin que pueda reducirse este plazo. El monto de la jubilación en este caso, será del 100% del salario del trabajador, tomando como base el promedio de los salarios percibidos por el trabajador durante los últimos doce meses de servicio.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1992)</small>
 
 ###### ARTICULO 38.
 
@@ -409,9 +415,11 @@ MINIMA
 
 60 30 5 100
 
-Estos porcentajes serán en relación al sueldo promedio percibido en los últimos 3 años de servicio.
+Los porcentajes que señala la tabla anterior, serán calculados tomando como base el salario promedio percibido durante los últimos doce meses por el trabajador.
 
-Si el trabajador desempeña varios puestos que devenguen diversos salarios, se promediarán éstos, sumándolos entre sí y dividiéndolos entre el número de trabajos para sacar el promedio de la Pensión, con la condición de que el Municipio aporte al fondo en cada uno de ellos la cuota equivalente.
+Si el trabajador desempeña varios cargos que devenguen diversos salarios, la base para el cálculo de la pensión, de acuerdo con la tabla anterior, será lo que resulte de sumar el promedio de las percepciones de cada uno de ellos, de los últimos doce meses, y dividirlos entre el número de cargos desempeñados, para sacar el salario que servirá de base al monto de la pensión.
+
+Lo anterior, con la condición de que el Municipio haya aportado al fondo, por cada uno de los trabajadores desempeñados, la cuota correspondiente.
 
 En todos los casos el retiro será obligatorio al cumplir 65 años de edad.
 
@@ -419,13 +427,17 @@ En todos los casos el retiro será obligatorio al cumplir 65 años de edad.
 
 Los beneficios a que se refiere este capítulo serán vitalicios, salvo a lo que se dispone en el capítulo de muerte del trabajador.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1992)</small>
+
 ###### ARTICULO 40.
 
-Los incrementos de sueldo y aguinaldo que conceda el Municipio de Saltillo a sus trabajadores en activo se harán extensivos en un 50% a los Jubilados.
+Los incrementos de sueldo que concede el Municipio de Saltillo a sus trabajadores en activo se harán extensivos en un 50% a los Jubilados y un 70% a los aguinaldos de que disfruten.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1992)</small>
 
 ###### ARTICULO 41.
 
-Para gozar de los beneficios que se otorgan en este capítulo se requerirá que el Municipio haya aportado a favor del trabajador las cuotas a su cargo durante un plazo de 5 años como mínimo, mismos que comenzaron a contar a partir de la primera quincena del mes de febrero del año de 1982.
+Los incrementos de sueldo que concede el Municipio de Saltillo, a sus trabajadores en activo se harán extensivos en un 50% a los pensionados por inhabilitación y un 70% a los aguinaldos, de que disfrutan.
 
 ### CAPITULO NOVENO. PENSION POR INHABILITACION FISICA O MENTAL
 
@@ -519,17 +531,29 @@ Si el jubilado o pensionado falleciese dentro de los diez años de disfrute de s
 
 El derecho a la pensión que en este capítulo se conceda a los beneficiarios, se disfrutará en el orden siguiente:
 
-a).- Por el cónyugue (sic) que sobreviva al trabajador activo, jubilado o pensionado;
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1992)</small>
 
-b).- A falta del cónyugue (sic), por los hijos incapacitados y los menores de 18 años;
+a).- Por el cónyuge que sobreviva al trabajador activo, jubilado o pensionado;
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1992)</small>
+
+b).- A falta del cónyuge, por los hijos incapacitados y los menores de 18 años;
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1992)</small>
 
 c).- A falta de los anteriores, por los hijos mayores de 18 años, siempre y cuando vengan cursando sus estudios;
 
-d).- A falta de los anteriores, por la persona que instituya como beneficiaria el titular del derecho.
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1992)</small>
+
+d).- La concubina y el concubinario, siempre que hayan vivido juntos como si fueran cónyuges, es decir, durante los 5 años que precedieron inmediatamente a su muerte o cuando hayan tenido hijos en común, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato. Si al morir el trabajador, jubilado o pensionado le sobreviven varias concubinas o concubinarios, ninguno de ellos tendrá derecho a la pensión, y
+
+e).- A falta de los anteriores, por la persona que instituya como beneficiaria el titular del derecho.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1992)</small>
 
 ###### ARTICULO 54.
 
-Los beneficiarios de los trabajadores en activo así como de los jubilados o pensionados, recibirán al momento del fallecimiento de estos el equivalente a "dos meses" de salario del trabajador en activo, o dos meses de la pensión o jubilación, como gastos de funeral.
+Los beneficiarios de los trabajadores en activo así como de los jubilados o pensionados, recibirán al momento del fallecimiento de éstos el equivalente a "Cuatro meses", de salario del trabajador en activo o cuatro meses de la pensión o jubilación, como gastos de funeral.
 
 ### CAPITULO DECIMO PRIMERO. DE LOS PRESTAMOS QUIROGRAFARIOS
 
@@ -692,3 +716,9 @@ EL SECRETARIO DEL EJECUTIVO DEL ESTADO
 LIC. ENRIQUE MARTINEZ Y MARTINEZ.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE OCTUBRE DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
