@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-presupuestacion-contabilidad-y-gasto-publico-de-la-10995
 country: "mx"
 rank: "ley"
 publication_date: "1989-11-29"
-last_updated: "1989-11-29"
+last_updated: "1994-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10995&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PRESUPUESTACION, CONTABILIDAD Y GASTO PUBLICO DE LA ADMINISTRACION DEL GOBIERNO DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 1994.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Nayarit, el miércoles 29 de noviembre de 1989.
 
@@ -231,17 +231,69 @@ Los catálogos de cuentas que utilizarán los Organismos Descentralizados, las E
 
 Los estados financieros y demás información presupuestal que emane de la Contabilidad General, serán utilizados por la Secretaría de Finanzas, para la formulación de la Cuenta Pública Anual, la cual se someterá a consideración del Gobernador del Estado para su análisis y aprobación en su caso por la Legislatura del Estado.
 
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1994)</small>
+
 ### CAPITULO V
 
-DEL EXAMEN, VIGILANCIA Y EVALUACION DEL EJERCICIO DEL GASTO PUBLICO.
+ELABORACION Y PRESENTACION DE LA CUENTA PUBLICA.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1994)</small>
 
 ###### ARTICULO 34.
 
-La Secretaría de la Contraloría General del Estado examinará y verificará el ejercicio del Gasto Público Estatal y su congruencia con los Presupuestos de Egresos.
+La Secretaría de Finanzas tendrá bajo su responsabilidad la contabilidad del Gobierno del Estado, la cual incluirá las cuentas para registrar tanto los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, así como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas del presupuesto del Gobierno del Estado.
 
-Las actividades antes señaladas tendrán por objeto, sin perjuicio de lo que establezcan otras disposiciones jurídicas aplicables, promover la eficiencia en las operaciones de los antes públicos especificados en el Artículo 2º., Fracción III, de esta Ley, y comprobar si en el Ejercicio del Gasto, se ha cumplido con las disposiciones legales vigentes y se han alcanzado los objetivos contenidos en los programas relativos.
+El catálogo de cuentas que se utilizará, será emitido y autorizado por dicha Secretaría.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1994)</small>
 
 ###### ARTICULO 35.
+
+La contabilidad del Gobierno del Estado, se llevará con base acumulativa para determinar costos y facilitar la formulación, ejercicio y evaluación del presupuesto.
+
+El sistema de contabilidad debe diseñarse y operarse en forma que facilite la fiscalización de los activos, pasivos, capital, ingresos, costos y gastos, avances en la ejecución de los programas y en general de manera que permita medir la eficacia y eficiencia del gasto público del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1994)</small>
+
+###### ARTICULO 36.
+
+Cada una de las dependencias llevará su propia contabilidad que se sujetará a lo dispuesto en este capítulo.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1994)</small>
+
+###### ARTICULO 37.
+
+Cada una de las entidades llevará su propia contabilidad, la cual incluirá las cuentas para registrar los activos, pasivos, capital o patrimonio, ingresos, costos correspondientes a los programas y partidas de su propio presupuesto.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1994)</small>
+
+###### ARTICULO 38.
+
+Las dependencias y entidades suministrarán a la Secretaría de Finanzas, con la periodicidad que éste determine, la información presupuestal, contable, financiera y de otra índole que requiera.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1994)</small>
+
+###### ARTICULO 39.
+
+Los estados financieros y demás información que emane de las contabilidades de las Dependencias y Entidades comprendidas en el Presupuesto de Egresos, serán consolidados por la Secretaría de Finanzas, la que será responsable de formular la cuenta anual de la Hacienda Pública Estatal y someterá a la consideración del Gobernador del Estado, para su presentación ante el H. Congreso del Estado, a más tardar dentro de los primeros treinta días del segundo periodo de sesiones ordinarias de cada año, fecha en que debe rendirse la Cuenta Pública.
+
+(REUBICADO, REFORMADA SU NUMERACION, P.O. 4 DE MAYO DE 1994)
+
+### CAPITULO VI
+
+DEL EXAMEN, VIGILANCIA Y EVALUACION DEL EJERCICIO DEL GASTO PUBLICO.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 34], P.O. 4 DE MAYO DE 1994)
+
+###### ARTICULO 40.
+
+La Secretaría de la Contraloría General del Estado examinará y verificará el ejercicio del Gasto Público Estatal y su congruencia con los Presupuestos de Egresos.
+
+Las actividades antes señaladas tendrán por objeto, sin perjuicio de lo que establezcan otras disposiciones jurídicas aplicables, promover la eficiencia en las operaciones de los antes públicos especificados en el Artículo 2º Fracción III, de esta Ley, y comprobar si en el ejercicio del Gasto, se ha cumplido con las disposiciones legales vigentes y se han alcanzado los objetivos contenidos en los programas relativos.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 35], P.O. 4 DE MAYO DE 1994)
+
+###### ARTICULO 41.
 
 El examen, la verificación y la comprobación a que se refiere el Artículo anterior, se llevarán a cabo por la Secretaría de la Contraloría General del Estado, según corresponda en cada caso, a través de:
 
@@ -251,37 +303,51 @@ II.- La Auditoría Gubernamental.
 
 III.- La Auditoría Externa.
 
-###### ARTICULO 36.
+(REUBICADO [N. DE E. ANTES ARTICULO 36], P.O. 4 DE MAYO DE 1994)
+
+###### ARTICULO 42.
 
 La Secretaría de la Contraloría General del Estado, en los términos de las disposiciones legales correspondientes, expedirá las normas que regularán los instrumentos y mecanismos coadyuvantes del control del Gasto Público.
 
-###### ARTICULO 37.
+(REUBICADO [N. DE E. ANTES ARTICULO 37], P.O. 4 DE MAYO DE 1994)
 
-Quienes ejerzan Gasto Público Estatal en cualquier monto, estarán obligados a proporcionar todas las facilidades necesarias, a fin de que la Secretaría de la Contraloría General del Estado pueda realizar las funciones señaladas en este Capítulo.
+###### ARTICULO 43.
 
-###### ARTICULO 38.
+Quienes ejerzan Gasto Público Estatal en cualquier monto, estarán obligados a proporcionar toda las facilidades necesarias, a fin de que la Secretaría de la Contraloría General del Estado pueda realizar las funciones señaladas en este Capítulo.
 
-La Secretaría de la Contraloría General, realizará periódicamente la evaluación del Ejercicio del Gasto, en función de los objetivos y metas de los programas aprobados.
+(REUBICADO [N. DE E. ANTES ARTICULO 38], P.O. 4 DE MAYO DE 1994)
 
-###### ARTICULO 39.
+###### ARTICULO 44.
+
+La Secretaría de la Contraloría General, realizará periódicamente la evaluación del ejercicio del gasto, en función de los objetivos y metas de los programas aprobados.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 39], P.O. 4 DE MAYO DE 1994)
+
+###### ARTICULO 45.
 
 Con base en los informes que se deriven de las evaluaciones que efectúe la Secretaría de la Contraloría, la Secretaría de Finanzas, conjuntamente con las Dependencias involucradas, efectuará las siguientes actividades:
 
 I. Modificación a las Políticas, Disposiciones Administrativas y Lineamientos en materia de Gasto.
 
-II. Determinación de las previsiones que constituyan una de las bases para el proceso, programación-presupuestación del ejercicio siguiente y
+II. Determinación de las previsiones que constituyan una de las bases para el proceso, programación-presupuestación del ejercicio siguiente, y
 
 III.- Las demás que señalen los ordenamientos jurídicos aplicables.
 
-### CAPITULO VI. DE LAS RESPONSABILIDADES
+(REUBICADO [N. DE E. ANTES ARTICULO 40], P.O. 4 DE MAYO DE 1994)
 
-###### ARTICULO 40.
+###### ARTICULO 46.
 
 Los entes públicos señalados en la Fracción III del Artículo 2º. de esta Ley, deberán proporcionar a la Secretaría de la Contraloría la información que les requiera, a efecto de realizar las funciones previstas en este Capítulo.
 
-###### ARTICULO 41.
+(REUBICADO, REFORMADA SU NUMERACION, P.O. 4 DE MAYO DE 1994)
 
-El incumplimiento a las disposiciones de esta Ley y a las que, con base en la misma se dicten, se sancionará de conformidad con la Ley de responsabilidades de los Servidores Públicos del Estado, cuando de éstos se trate y, a la Legislación conducente cuando se trate de personas que no sean consideradas como tales.
+### CAPITULO VII. DE LAS RESPONSABILIDADES
+
+(REUBICADO [N. DE E. ANTES ARTICULO 41], P.O. 4 DE MAYO DE 1994)
+
+###### ARTICULO 47.
+
+El incumplimiento a las disposiciones de esta Ley y a las que, con base en la misma se dicten, se sancionará de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado, cuando de éstos se trate y, a la Legislación conducente cuando se trate de personas que no sean consideradas como tales.
 
 ## TRANSITORIOS.
 
@@ -312,3 +378,9 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario Gral. de Gobierno
 
 Lic. Pedro Ponce de León Montes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE MAYO DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Nayarit.
