@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1995-08-12"
+last_updated: "1996-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 1996.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -165,6 +165,10 @@ El Ejecutivo del Estado, previo convenio con los Ayuntamientos, podrá delegar e
 
 36.- En las poblaciones en que así lo exige el servicio, podrá el Ejecutivo, de acuerdo con el Presupuesto de Egresos, establecer las oficinas del registro civil que considere convenientes, nombrando a las personas que deban quedar al frente de ellas, estando sujetas, en el ejercicio de sus funciones, a la vigilancia y dirección del Departamento, en los términos que establezca la Ley.
 
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 1996)</small>
+
+El Jefe del Departamento del Registro Civil dispondrá las medidas necesarias para que cuando menos dos veces al año, se efectúen en las Comunidades Indígenas del Estado, campañas registrales, en coordinación con las instituciones que por la naturaleza de sus funciones se vinculen a la atención de los indígenas, y posteriormente los Oficiales del mismo Registro efectúen igual número de visitas a dichas comunidades, a efecto de que en las mismas se presten los servicios a que se refiere el presente título.
+
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
 37.- Los jefes de las oficinas del Registro Civil llevarán cuando menos por duplicado siete libros que contendrán; el primero, actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela y de emancipación; el cuarto, actas de matrimonio; el quinto, actas de divorcio; el sexto, actas de fallecimiento y el séptimo, las inscripciones de las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
@@ -256,6 +260,10 @@ Ninguna autoridad podrá ordenar la presentación de los libros del registro civ
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
 54.- Las declaraciones de nacimiento se harán presentando al niño ante el jefe de la oficina o en la casa donde aquél hubiere nacido.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 1996)</small>
+
+Para el registro del nacimiento de indígenas del Estado, la ley reconoce como fedatarios a las autoridades indígenas tradicionales, para acreditar hechos de filiación y residencia de los indígenas que deben intervenir en el registro, cuando los actos se asienten en las respectivas comunidades.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
@@ -9412,3 +9420,7 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 ###### ARTICULO SEPTIMO.
 
 Las reformas a los Códigos Civil y de Procedimientos Civiles, entrarán en vigor al día siguiente de la publicación del presente decreto en el Periódico Oficial del Estado.
+
+P.O. 25 DE MAYO DE 1996.
+
+UNICO.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
