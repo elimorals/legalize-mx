@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-instituye-un-patrimonio-de-beneficio-universitario-1623
 country: "mx"
 rank: "ley"
 publication_date: "1961-06-07"
-last_updated: "1961-06-07"
+last_updated: "1964-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE INSTITUYE UN PATRIMONIO DE BENEFICIO UNIVERSITARIO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 1964.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 7 de junio de 1961.
 
@@ -49,9 +49,13 @@ Los terrenos donados por el Gobierno Federal, después de las aplicaciones a que
 
 El Patrimonio que por esta Ley se instituye, responderá de los créditos y gastos originados para la urbanización de dichos terrenos y estará a las resultas de los juicios constitucionales pendientes a la fecha, sobre determinada área de tales superficies.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1964)</small>
+
 ###### ARTICULO 5o.
 
-Cubiertos los gastos de urbanización y demás ennumerados (sic) en los artículos anteriores, los productos de la venta, gravamen o administración de los expresados terrenos, a juicio de la Junta de Gobierno, se invertirán en los siguientes: 1o.- Obras de Ciudad Universitaria, hasta su conclusión, y construcción de edificios para otras facultades y escuelas universitarias, dentro y fuera de esa misma área, según lo demande el crecimiento y progreso de la Institución Universitaria; 2o.- Constitución de fondos de capital con inversión en valores, rentas, o administraciones productivas, a efecto de llevar los productos a fines específicos como sigue: a).- Adquisición de equipos, instrumental y elementos materiales para la enseñanza; b).- Establecimiento de becas para estudios e investigaciones por parte de maestros o estudiantes; c).- Fomento y acrecentamiento del fondo destinado para seguro, pensiones y compensaciones de los servidores de la Universidad de Nuevo León y d).- Otras instituciones académicas y de estudios similares. 3o.- En general, para destinar las rentas y productos a todo aquello que signifique la elevación académica y el progreso de la Universidad de Nuevo León.
+Cubiertos los gastos de urbanización y demás enumerados en los artículos anteriores, los productos de las ventas, gravamen o administración de los expresados terrenos se invertirán, a juicio de la Junta de Gobierno del Patrimonio, en lo siguiente: a).- Construcción de edificios de productos dentro de las áreas utilizables. b).- Inversión en Valores, Créditos, Depósitos Bancarios y en cualquier otro objeto rentable que reúna las necesarias características de solidez y oportuna recuperabilidad.
+
+Los productos obtenidos del Patrimonio que se integre se destinarán a las siguientes finalidades: a).- Obras de Ciudad Universitaria, incluídas nuevas construcciones y terminación del estadio; b).- Adquisición de equipos, instrumental y elementos materiales para la enseñanza; c).- Establecimiento de becas para estudios e investigaciones por parte de maestro y estudiantes; d).- Fomento y acrecentamiento del fondo destinado para seguro, pensiones y compensaciones de los servidores de la Universidad de Nuevo León; e).- Otras instituciones académicas y de estudios superiores; f).- En general, todo aquello que signifique la elevación académica y el progreso de la Universidad de Nuevo León.
 
 ###### ARTICULO 6o.
 
@@ -84,3 +88,11 @@ LIC. RAUL RANGEL FRIAS
 El Secretario General de Gobierno,
 
 LIC. ROBERTO HINOJOSA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE ENERO DE 1964.
+
+###### ARTICULO SEGUNDO
+
+- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
