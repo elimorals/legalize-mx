@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-tribunal-de-lo-contencioso-administrativo-del-3347"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-31"
-last_updated: "1989-01-31"
+last_updated: "1989-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1989.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el martes 31 de enero de 1989.
 
@@ -41,13 +41,17 @@ LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 1o.
 
-El Tribunal de lo Contencioso Administrativo del Estado, es un Organo Autónomo e independiente de cualquier autoridad administrativa, dotado de plena jurisdicción.
+El Tribunal de lo Contencioso Administrativo del Estado, es un órgano autónomo en sus fallos e independiente de cualquier autoridad administrativa, dotado de plena jurisdicción e imperio suficiente para hacer cumplir sus resoluciones.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 2o.
 
-El Tribunal de lo Contencioso Administrativo, tendrá a su cargo, dirimir las controversias de carácter administrativo que se susciten entre las autoridades de la Administración Pública del Estado, Municipios, o sus Organismos Descentralizados y los particulares.
+El Tribunal de lo Contencioso Administrativo, tendrá a su cargo dirimir las controversias de carácter administrativo que se susciten entre la Administración Pública del Estado, los Municipios, y Organismos Descentralizados, y los particulares; así como entre el fisco estatal y los fiscos municipales, sobre preferencias en el cobro de créditos fiscales.
 
 ###### ARTICULO 3o.
 
@@ -329,7 +333,9 @@ I.- El Actor;
 
 II.- El demandado. Tendrán ese carácter:
 
-A).- La Autoridad que dictó la resolución impugnada.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1989)</small>
+
+A).- La Autoridad que realizó el acto o emitió la resolución impugnada.
 
 B).- El particular a quien favorezca la resolución, cuya nulidad o modificación pida la autoridad administrativa.
 
@@ -489,7 +495,9 @@ El Magistrado que teniendo impedimento para conocer de un negocio, no haga la ma
 
 La demanda deberá formularse por escrito y presentarse directamente ante la Sala correspondiente al domicilio del actor, o enviarse por correo certificado, dentro de los quince días siguientes, a aquél en que haya surtido efectos la notificación del acto o resolución impugnada, o al día en que se haya tenido conocimiento del mismo.
 
-En los casos de negativa ficta, el interesado podrá interponer la demanda en cualquier tiempo mientras no se dicte resolución expresa, y siempre que haya transcurrido el término en que la autoridad debió dictar resolución.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1989)</small>
+
+En los casos de negativa ficta el interesado podrá interponer la demanda en cualquier tiempo mientras no se dicte resolución expresa, y siempre que haya transcurrido el término en que la autoridad debió dictar la resolución. A falta de término establecido, el silencio de las autoridades administrativas se considerará resolución negativa cuando transcurran sesenta días naturales.
 
 ###### ARTICULO 46.
 
@@ -912,3 +920,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. HUGO FELIX GARCIA
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE DICIEMBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
