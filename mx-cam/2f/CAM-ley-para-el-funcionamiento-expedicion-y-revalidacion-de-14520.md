@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-el-funcionamiento-expedicion-y-revalidacion-de-14520"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-30"
-last_updated: "1997-01-08"
+last_updated: "1997-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA EL FUNCIONAMIENTO, EXPEDICION Y REVALIDACION DE LICENCIAS Y PERMISOS A DISTRIBUIDORES Y COMERCIALIZADORES DE BEBIDAS ALCOHOLICAS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 30 de mayo de 1996.
 
@@ -561,6 +561,10 @@ I.- Por hechos o actos que se realicen dentro de los establecimientos que altere
 
 II.- Cuando, mediante la correspondiente acta de verificación, se compruebe la inactividad del establecimiento, por un lapso de treinta o más días de calendario consecutivos, o que el establecimiento es inexistente, o cuando se tenga noticia de su baja en los Registros Federal o Estatal de Contribuyentes, o se desconozca el domicilio del titular de la licencia o permiso. En estos casos la cancelación procederá de oficio, mediante resolución administrativa que al efecto se emita.
 
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1997)</small>
+
+En el caso de que el Titular de la Licencia o Permiso presente Aviso de Suspensión de Actividades ante la Autoridad Fiscal Federal, deberá, asimismo, comunicarlo anexando copia de éste a la Secretaría de Finanzas y Administración, dentro de los siete días siguientes a la presentación de su Aviso de Suspensión, para el efecto de darle continuidad a la vigencia de su Licencia o Permiso, siempre que cumpla con las disposiciones establecidas en esta propia Ley y subsistan las condiciones que dieron origen a su expedición, ya que de no realizar el referido trámite ante la citada dependencia Estatal, ameritará la cancelación de su Licencia o Permiso.
+
 III.- Cuando el establecimiento haya dejado de reunir cualquiera de los requisitos que establece la presente Ley o se incurra por parte de los permisionarios en faltas u omisiones graves.
 
 IV.- A quienes vendan bebidas con contenido alcohólico a menores de edad e incapacitados legales, o les permitan su consumo en el interior de su establecimiento.
@@ -814,3 +818,9 @@ P.O. 8 DE ENERO DE 1997.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan en lo conducente todas aquellas disposiciones legales y reglamentarias que contravengan el contenido de este Decreto.
+
+P.O. 11 DE JUNIO DE 1997.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente Decreto.
