@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "1997-06-18"
+last_updated: "1997-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 1997.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -327,197 +327,277 @@ La Gran Comisión dispondrá para sus funciones de un lugar adecuado dentro de l
 
 Para el despacho de los asuntos que competen al Congreso, se designarán las Comisiones que señala el Artículo 66 de la Ley Orgánica del Poder Legislativo, las cuales los estudiarán y dictaminarán.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1997)</small>
+
 ###### Artículo 38.
 
-Las Comisiones Permanentes de Dictamen Legislativo y la de Vigilancia de la Contaduría Mayor se designarán en la quinta sesión que lleve a efecto la Legislatura dentro del Primer Período de su Primer Año de Ejercicio y serán revisadas cada año, pudiendo los miembros de dichas comisiones ser reelectos, bien sea en lo personal o en conjunto.
+Las Comisiones Permanentes de Dictamen Legislativo y la de Vigilancia de la Contaduría Mayor se designarán en la quinta sesión que lleve a efecto la Legislatura dentro del Primer Período de su Primer Año de Ejercicio y serán revisadas cada año, pudiendo los miembros de dichas comisiones ser reelectos, bien sea en lo personal o en su conjunto, exceptuando lo establecido en el segundo párrafo del artículo 67 de la Ley Orgánica del Poder Legislativo.
 
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 1995)</small>
-
-Los integrantes de las Comisiones una vez designados, se instalarán formalmente dentro de los quince días siguientes y con el apoyo de la Oficialía Mayor formularán un programa de trabajo.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1997)</small>
 
 ###### Artículo 39.
 
-Las Comisiones Permanentes de Dictamen Legislativo se integran en los términos del Artículo 67 de la Ley Orgánica del Poder Legislativo y además de los asuntos propios de su competencia derivados de su denominación, conocerán y dictaminarán de los siguientes asuntos:
+Las Comisiones Permanentes de Dictamen Legislativo, establecidas en los términos del Artículo 70 de la Ley Orgánica del Poder Legislativo, conocerán de los siguientes asuntos:
 
-1) GOBERNACION
+I.- GOBERNACIÓN
 
-Todos los asuntos relacionados con límites municipales, conflictos de autoridades y demás aspectos de relevancia política.
+a).- Los relacionados con la extensión territorial y límites municipales.
 
-2) LEGISLACION Y PUNTOS CONSTITUCIONALES
+b).- Las controversias que se susciten entre el ejecutivo y el Tribunal Superior de Justicia, así como los conflictos entre autoridades del Estado.
 
-Las iniciativas de Reformas Constitucionales, Leyes Ordinarias y Bases Generales de los Reglamentos Municipales y demás relacionadas con la materia.
+c).- Las renuncias y licencias del Ejecutivo y los Diputados.
 
-3) JUSTICIA
+d).- La designación de Comisionados Ciudadanos de la Comisión Estatal Electoral y Magistrados del Tribunal Electoral del Estado.
 
-Todos los asuntos relacionados con la responsabilidad de los servidores públicos y demás aspectos de justicia.
+e).- El establecimiento o supresión de municipalidades.
 
-4) EDUCACION
+f).- La suspensión y desaparición de Ayuntamientos.
 
-Todo lo relativo a la educación, englobando todos los niveles educativos.
+g).- La suspensión y revocación del mandato de los miembros del Ayuntamiento.
 
-5) HACIENDA DEL ESTADO
+h).- Facultar al Ejecutivo para que celebre arreglos amistosos relativos a límites del Estado, aprobarlos y pedir al Congreso de la Unión su aprobación.
 
-Las iniciativas remitidas en relación a los ingresos, leyes y presupuestos, asuntos patrimoniales y demás de su competencia.
+i).- El nombramiento del Gobernador Interino o Sustituto.
 
-6) ASUNTOS AGRICOLAS FORESTALES Y GANADEROS
+j).- La elevación de villas a categorías de ciudades.
 
-Toda actividad relativa a asuntos que permitan promover el fomento, la conservación y el incremento de la actividad agrícola, forestal y ganadera.
+k).- La designación de Consejos Municipales.
 
-7) CAPACITACION PARA EL TRABAJO Y ASUNTOS LABORALES
+l).- La declaratoria para proveer la vacante de los miembros del Ayuntamiento y la designación de Presidente Municipal Sustituto.
 
-Toda la actividad vinculada con la capacitación, aprovechamiento y desarrollo de las habilidades, así como la relación de las fuerzas productivas, la seguridad social de los trabajadores y demás asuntos laborales.
+m).- Los demás asuntos que le encomiende el Pleno.
 
-8) SALUD PUBLICA
+II.- LEGISLACIÓN Y PUNTOS CONSTITUCIONALES
 
-Todo aquello relativo a la protección de la salud y a la alimentación de la población, así como establecer bases y programas para beneficiar a los nuevoleoneses.
+a).- Las reformas a la Constitución Política de los Estados Unidos Mexicanos.
 
-9) ASISTENCIA SOCIAL
+b).- Las reformas a la Constitución Política del Estado.
 
-Todos los asuntos relacionados con el apoyo social que coadyuve a la dignificación de las personas y grupos, social y económicamente desprotegidos.
+c).- La interpretación de la legislación del Estado.
 
-10) FOMENTO ECONOMICO
+d).- La iniciación ante el Congreso de la Unión de las Leyes que a éste competan, así como su reforma o derogación.
 
-Toda la actividad relacionada al fomento económico, comercial e industrial, tanto nacional como internacional.
+e).- La resolución sobre la conveniencia de secundar las iniciativas hechas por las legislaturas de otras Entidades Federativas.
 
-11) OBRAS PUBLICAS
+f).- La reclamación sobre las Leyes del Congreso de la Unión y de las Legislaturas, cuando ataquen la soberanía o independencia del Estado, o que por cualquier otro motivo se consideren anticonstitucionales.
 
-Todo lo relacionado con la normatividad, financiamiento, proyecto, ejecución y operación de la obra pública.
+g).- Las reformas a la Ley Orgánica Municipal y a las bases generales a las que se sujetan los Ayuntamientos.
 
-12) PRIMERA DE HACIENDA MUNICIPAL
+h).- Las reformas relativas a la Ley Orgánica del Poder Legislativo y su Reglamento.
 
-Sobre los asuntos de la materia planteados por los municipios de Monterrey y Guadalupe, Nuevo León.
+i).- Las leyes orgánicas y reglamentarias de los dispositivos de la Constitución Política del Estado y los que la Constitución Política de los Estados Unidos Mexicanos autorice a las Legislaturas de los Estados reglamentar.
 
-Así mismo en forma especial los presupuestos de ingresos y la cuenta pública de los mismos.
+j).- La expedición y reforma a la legislación civil y penal, en su aspecto sustantivo.
 
-13) SEGUNDA DE HACIENDA MUNICIPAL
+k).- La designación de los Comisionados Ciudadanos a la Comisión Estatal Electoral.
 
-Sobre los asuntos de la materia planteados por los municipios de San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y García, Nuevo León.
+l).- Los relativos a la vigilancia del cumplimiento de la Constitución Política del Estado y de las Leyes emanadas de la misma.
 
-Así mismo en forma especial los presupuestos de ingresos y la cuenta pública de los mismos.
+m).- Cuando el Pleno del Congreso lo determine, apoyar a otras comisiones en materia de Corrección de Estilo y Técnica Legislativa.
 
-14) TERCERA DE HACIENDA MUNICIPAL
+n).- La expedición y reforma de disposiciones de carácter general que no estén comprendidas en la competencia de otra comisión.
 
-Sobre los asuntos de la materia planteados por los municipios de Galeana, Iturbide, Aramberri, General Zaragoza, Dr. Arroyo y Mier y Noriega, Nuevo León.
+III.- JUSTICIA
 
-Así mismo en forma especial los presupuestos de ingresos y la cuenta pública de los mismos.
+a).- La expedición y reforma de la legislación civil y penal, en su aspecto adjetivo.
 
-15) CUARTA DE HACIENDA MUNICIPAL
+b).- La expedición y reforma de las leyes relativas al Poder Judicial y a la Procuraduría General de Justicia.
 
-Sobre los asuntos de la materia planteados por los municipios de Linares, Hualahuises, Rayones, Montemorelos, General Terán, Allende, Santiago, Cadereyta Jiménez y Juárez, Nuevo León.
+c).- Los nombramientos, licencias y renuncias de los Magistrados del Tribunal Superior de Justicia.
 
-Así mismo en forma especial los presupuestos de ingresos y la cuenta pública de los mismos.
+d).- Los nombramientos de Magistrados del Tribunal de lo Contencioso Administrativo del Estado.
 
-16) QUINTA DE HACIENDA MUNICIPAL
+e).- Los casos relativos a la concesión de amnistía por delitos políticos.
 
-Sobre los asuntos de la materia planteados por los municipios de Apodaca, Pesquería, Marín, Higueras, Dr. Gónzalez, Los Ramones, Cerralvo, Melchor Ocampo y Ciénega de Flores, Nuevo León.
+f).- Actuar como Comisión Jurisdiccional en los casos de Juicio Político y Declaratoria de Procedencia, cuando no se nombre una temporal.
 
-Así mismo en forma especial los presupuestos de ingresos y la cuenta pública de los mismos.
+g).- Los demás asuntos en materia de administración, impartición y procuración de justicia, cuando el Pleno así lo determine.
 
-17) SEXTA DE HACIENDA MUNICIPAL
+IV.- ORGANIZACIÓN INTERNA DE LOS PODERES
 
-Sobre los asuntos de la materia planteados por los municipios de China, General Bravo, Dr. Coss, Los Aldamas, Los Herreras, General Treviño, Agualeguas, Parás, Sabinas Hidalgo, Vallecillo y General Zuazua, Nuevo León.
+a).- Lo relativo a la creación de empleos y oficinas que requiera la Administración Pública del Estado, así como la supresión de éstos cuando cese su necesidad.
 
-Así mismo en forma especial los presupuestos de ingresos y la cuenta pública de los mismos.
+b).- Las iniciativas relacionadas con la organización y estructura de los Poderes Ejecutivo y Judicial.
 
-18) SEPTIMA DE HACIENDA MUNICIPAL
+c).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-Sobre los asuntos de la materia planteados por los municipios de General Escobedo, Mina Abasolo, Hidalgo, Carmen, Salinas Victoria, Villaldama, Bustamante, Lampazos de Naranjo y Anáhuac, Nuevo León.
+V.- SEGURIDAD PÚBLICA Y PROTECCIÓN CIVIL
 
-Así mismo en forma especial los presupuestos de ingresos y la cuenta pública de los mismos.
+a).- Las iniciativas relativas al orden público y la tranquilidad de las personas.
 
-19) ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO
+b).- Las leyes que establezcan y regulen los temas integrales en materia de tratamiento penal, así como el funcionamiento de los cuerpos de seguridad pública, privada y de protección civil.
 
-Todos los asuntos relacionados con el ordenamiento y regulación de
+c).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-los asentamientos humanos y del desarrollo urbano.
+VI.- DERECHOS HUMANOS
 
-20) PRESERVACION Y PROTECCION AL MEDIO AMBIENTE
+a).- Las iniciativas relativas a la protección, defensa y conservación de los derechos humanos de los individuos y grupos sociales que regula la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado.
 
-Todo lo relacionado con la normatividad requerida para el fomento, la preservación, la protección y la restauración del medio ambiente, así como la ecología en todos sus niveles.
+b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-21) COMUNICACIONES
+VII.- PARTICIPACIÓN CIUDADANA
 
-Toda la actividad vinculada con la infraestructura y normatividad que permita la interacción social a través de las diversas vías de comunicación en el Estado.
+a).- Las iniciativas relativas a la regulación del acceso de la ciudadanía a la toma de decisiones del Estado, para fortalecer la vida democrática en el mismo.
 
-22) CORRECCION DE ESTILO
+b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-La revisión y corrección de todos los documentos de dictamen legislativo, a fin de verificar el correcto uso del idioma, asegurando que no se altere la intención del dictamen.
+VIII.- FAMILIA
 
-23) RELACIONES Y ASUNTOS FRONTERIZOS
+a).- Las iniciativas relativas al fortalecimiento de la familia como núcleo básico de la sociedad.
 
-Toda la actividad orientada al desarrollo y fomento de las relaciones interestatales e internacionales.
+b).- Las iniciativas en materia de la regulación de los derechos del niño, consagrados en la Constitución Política del Estado.
 
-24) FOMENTO CULTURAL
+c).- La legislación relativa al desarrollo integral de la juventud.
 
-Todo lo referente a la actividad artística y cultural, tendiente a impulsar, promover mejorar y hacer llegar a la población la cultura y el arte en todas sus expresiones.
+d).- La legislación relativa a la protección, apoyo, reconocimiento, estímulo y desarrollo de las personas de la tercera edad, tendiente a mejorar su calidad de vida.
 
-25) FOMENTO AL DESARROLLO REGIONAL
+e).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-Todo lo referente a la actividad orientada al impulso del desarrollo integral de las diversas regiones geográficas del Estado y sus municipios.
+IX.- DERECHOS DE LAS MUJERES
 
-26) SEGURIDAD PUBLICA Y PROTECCION CIVIL
+a).- Las iniciativas relacionadas al fortalecimiento de la igualdad jurídica del varón y la mujer.
 
-Todos los asuntos vinculados con las acciones que garanticen la seguridad pública y la protección civil de la sociedad.
+b).- Los asuntos relativos al fomento y promoción de los derechos de la mujer, así como la orientación y elaboración de iniciativas de ley en la materia.
 
-27) TRANSPORTE URBANO DE PASAJEROS
+c).- Organizar foros y promover la consulta de los asuntos concernientes a los derechos de la mujer.
 
-Todo lo vinculado con las concesiones, permisos, prestación de servicio, tarifas, conflictos y demás que genere la prestación del servicio del transporte urbano.
+d).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-28) EDITORIAL
+X.- EDUCACIÓN, CULTURA Y DEPORTE
 
-Todo lo relacionado con el conocimiento y difusión de todos los acontecimientos propios de H. Congreso, históricos, socio-políticos, culturales y de interés general de la vida de Nuevo León, del País y del mundo.
+a).- Las reformas a la Ley de Educación del Estado.
 
-29) AGUA Y DRENAJE
+b).- Las reformas a la Ley Orgánica de la Universidad Autónoma de Nuevo León y demás relativas.
 
-Todo lo concerniente a los aspectos vinculados con las fuentes, conducción, abasto y tarifas del suministro de agua, así como los programas de tratamiento y aprovechamiento de aguas residuales. Se incluyen también los aspectos relativos al servicio de drenaje pluvial y sanitario.
+c).- Las iniciativas en materia de cultura.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+d).- Lo concerniente a la dispensa de honores a la memoria de los Nuevoleoneses que hayan prestado servicios de importancia al Estado.
 
-30) ORGANIZACION INTERNA DE LOS PODERES Y DE LA ADMINISTRACION PUBLICA
+e).- Las iniciativas relativas al fortalecimiento de actividades deportivas.
 
-Todos los asuntos relacionados con la organización y estructura interna de los Poderes en sus diferentes instancias y niveles de Gobierno.
+f).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-31) CONDUCTA CIVIL
+XI.- SALUD PÚBLICA Y ASISTENCIA SOCIAL
 
-Todo lo relacionado con el reconocimiento de la sociedad a sus integrantes por el desempeño de actos notables de honor y valor.
+a).- La legislación relacionada con la salud pública del Estado.
 
-32) PRESUPUESTO Y CUENTA PUBLICA
+b).- Las iniciativas relacionados (sic) al apoyo social temporal, encaminado a la dignificación de las personas y grupos sociales y económicamente desprotegidos.
 
-Todo lo concerniente a la revisión y dictamen del ejercicio de los presupuestos de egresos y de la cuenta pública en general, auxiliándose de la Contaduría Mayor de Hacienda.
+c).- Lo relativo a los discapacitados y su integración a la sociedad.
 
-33) DERECHOS HUMANOS
+d).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-Todo lo relacionado con la salvaguarda de los derechos y prerrogativas de grupos y personajes.
+XII.- ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y OBRAS PÚBLICAS
 
-34) DEPORTE Y RECREACION
+a).- La legislación relativa al Desarrollo Urbano y los Asentamientos Humanos del Estado.
 
-Todo aquello vinculado con el fomento, la práctica y la organización del deporte y la recreación.
+b).- Lo relativo al examen y aprobación de obras de pública utilidad del Estado.
 
-35) JUVENTUD
+c).- Las desafectaciones y autorizaciones para enajenar o gravar los bienes inmuebles del Estado y los Municipios.
 
-Toda aquella actividad que se oriente a impulsar y fortalecer el desarrollo integral de la juventud.
+d).- Lo concerniente al desarrollo y planificación de centros de población alternos al área metropolitana de Monterrey para reordenar el desarrollo regional.
 
-36) TURISMO
+e).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-Todo lo relativo al fomento turístico, así como la protección y conservación de los sitios de atracción turística.
+XIII.- ECOLOGÍA
 
-37) TERCERA EDAD
+a).- La legislación relativa a la protección y preservación del Equilibrio Ecológico.
 
-Todo lo vinculado con la protección, apoyo, reconocimiento, estímulo y desarrollo de las personas de la tercera edad.
+b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-38) PARTICIPACION CIUDADANA
+XIV.- COMUNICACIONES Y TRANSPORTES
 
-Todas las acciones tendientes a promover la participación ciudadana para fortalecer la vida democrática del Estado.
+a).- La legislación relativa a la construcción y funcionamiento de las vías de comunicación estatales, así como la prestación directa o concesionada del transporte.
 
-39) PROTECCION A LA NIÑEZ
+b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-Todo lo relacionado con la protección jurídica y social de la niñez.
+XV.- DESARROLLO ECONÓMICO
 
-40) SEGURIDAD SOCIAL Y BIENESTAR FAMILIAR
+a).- Las iniciativas relacionadas con el fortalecimiento, estímulo y desarrollo de los sectores productivos del Estado, así como el desarrollo regional del mismo.
 
-Todo aquello tendiente a otorgar mayor apoyo en seguridad social para lograr un incremento en el bienestar familiar y de todos sus integrantes.
+b).- La legislación encaminada a fortalecer la actividad turística del estado.
+
+c).- Lo concerniente a los asuntos fronterizos del Estado que estimulen su desarrollo económico.
+
+d).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende
+
+XVI.- FOMENTO AGRÍCOLA, FORESTAL Y GANADERO
+
+a).- Las iniciativas que conlleven a un fortalecimiento en las actividades agrícolas, forestales y ganaderas.
+
+b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+XVII.- TRABAJO Y SEGURIDAD
+
+a).- La expedición y reforma de las leyes relativas a la relación de trabajo en los Poderes y Ayuntamientos del Estado y sus trabajadores.
+
+b).- La legislación relativa a la seguridad social de los trabajadores al servicio del Estado y los Municipios.
+
+c).- Las iniciativas en materia del desarrollo del servicio público de carrera.
+
+d).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+XVIII.- HACIENDA DEL ESTADO
+
+a).- Lo concerniente a la expedición de la Ley de Ingresos y del Presupuesto de Egresos del Estado.
+
+b).- Lo relativo a la asignación y supresión de los sueldos de la Administración Pública del Estado.
+
+c).- La expedición y reforma de la Ley de Hacienda del Estado y cualquier otra que genere un gravamen o carga fiscal.
+
+d).- La autorización en su caso para contratar empréstitos, cuando en garantía se afecten los bienes inmuebles del Estado.
+
+e).- Lo relativo a la revisión y en su caso aprobación de la Cuenta Pública del Estado.
+
+f).- Analizar y proponer al Pleno al Secretario de Finanzas y Tesorero General del Estado, de entre la terna que envíe el Ejecutivo.
+
+g).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+XIX.- PRIMERA DE HACIENDA MUNICIPAL
+
+a).- Lo relativo a las leyes de ingresos y las hacendarias, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de los municipios de Monterrey y Guadalupe, Nuevo León.
+
+b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+XX.- SEGUNDA DE HACIENDA MUNICIPAL
+
+a).- Lo relativo a las leyes de ingresos y las hacendarias, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de los municipios de San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y García, Nuevo León.
+
+b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+XXI.- TERCERA DE HACIENDA MUNICIPAL
+
+a).- Lo relativo a las leyes de ingresos y las hacendarias, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de los municipios de Galeana, Iturbide, Aramberri, General Zaragoza, Dr. Arroyo y Mier y Noriega, Nuevo León.
+
+b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+XXII.- CUARTA DE HACIENDA MUNICIPAL
+
+a).- lo relativo a las leyes de ingresos y las hacendarias, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de los municipios de Linares, Hualahuises, Rayones, Montemorelos, General Terán, Allende, Santiago, Cadereyta Jiménez y Juárez, Nuevo León.
+
+b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+XXIII.- QUINTA DE HACIENDA MUNICIPAL
+
+a).- Lo relativo a las leyes de ingresos y las hacendarias, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de los municipios de Apodaca, Pesquería, Marín, Higueras, Dr. González, Los Ramones, Cerralvo, Melchor Ocampo y Ciénega de Flores, Nuevo León.
+
+b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+XXIV.- SEXTA DE HACIENDA MUNICIPAL
+
+Lo relativo a las leyes de ingresos y las hacendarias, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de los municipios de China, General Bravo, Dr. Coss, Los Aldamas, Los Herreras, General Treviño, Agualeguas, Parás, Sabinas Hidalgo, Vallecillo y General Zuazua, Nuevo León.
+
+b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+XXV.- SÉPTIMA DE HACIENDA MUNICIPAL
+
+a).- Lo relativo a las Leyes de Ingresos y las Hacendarias, los empréstitos que afecten en garantía los bienes inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de los Municipios de General Escobedo, Mina, Abasolo, Hidalgo, Carmen, Salinas Victoria, Villaldama, Bustamante, Lampazos de Naranjo y Anáhuac, Nuevo León.
+
+b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+XXVI.- INFORMACIÓN Y PETICIONES
+
+a).- Dar cauce y contestación a las peticiones de personas que soliciten la intervención del Poder Legislativo.
 
 ###### Artículo 40.
 
@@ -641,9 +721,17 @@ VIII.- Recibir el Proyecto de Informe Anual que el Comité presentará al Pleno,
 
 El Comité de Biblioteca tendrá las siguientes atribuciones:
 
-I.- Elaborar los criterios para integrar e incrementar un acervo bibliográfico que sirva de información y apoyo en las tareas legislativas; y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 1997)</small>
 
-II.- Establecer las bases para organizar, codificar y modernizar el archivo del Congreso.
+I.- Elaborar los criterios para integrar un acervo bibliográfico que sirva de información y apoyo en las tareas legislativas.
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 1997)</small>
+
+II.- Establecer las bases para organizar, codificar y modernizar el archivo del Congreso, y
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 1997)</small>
+
+III.- Encargarse de dar difusión de todos los acontecimientos propios del H. Congreso del Estado, así como los que estime convenientes en materia histórica, socio-política, cultural y de interés general de la vida de Nuevo León, del país y del mundo.
 
 ###### Artículo 63.
 
@@ -1426,3 +1514,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 18 DE JUNIO DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE OCTUBRE DE 1997.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
