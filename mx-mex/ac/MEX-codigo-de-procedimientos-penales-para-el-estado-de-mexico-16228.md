@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-16228
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2003-05-08"
+last_updated: "2003-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE MAYO DEL 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DEL 2003.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -2655,11 +2655,13 @@ En todo caso, tanto el Ministerio Público como el juez dictarán de oficio o a 
 
 Cuando haya temor fundado de que el obligado a la reparación del daño oculte o enajene los bienes en que pueda hacerse efectiva dicha reparación, el Ministerio Público, de oficio o a instancia de quien tenga derecho a esa reparación, podrá pedir al órgano jurisdiccional el embargo precautorio de dichos bienes, el que se decretará con sólo esta petición y la prueba de la necesidad de la medida; pero si el inculpado otorga fianza bastante a juicio del órgano jurisdiccional, podrá no decretársele embargo o levantarse el que se haya practicado.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DEL 2003)</small>
+
 ###### Artículo 406.
 
-En los delitos de culpa, los automóviles, camiones y otros objetos de uso lícito con que se cometa el delito, y sean propiedad del inculpado o de un tercero obligado a la reparación del daño, se asegurarán de oficio por el Ministerio Público o por el órgano jurisdiccional para garantizar el pago de aquélla.
+Los automóviles, camiones y otros objetos de uso lícito con que se cometa un delito, y sean propiedad del inculpado o de un tercero obligado a la reparación del daño, se asegurarán de oficio por el Ministerio Público o por el órgano jurisdiccional para garantizar el pago de aquélla.
 
-El aseguramiento se decretará en la averiguación previa o en el auto de radicación y solamente se levantará si los propietarios otorgan fianza bastante para garantizar el pago de la reparación del daño.
+El aseguramiento se decretará en la averiguación previa o en el auto de radicación y solamente se levantará si los propietarios otorgan depósito bastante para garantizar el pago de reparación del daño.
 
 #### SECCION SEPTIMA. INCIDENTES NO ESPECIFICADOS
 
@@ -2870,3 +2872,9 @@ El Consejo de la Judicatura estará facultado para determinar el inicio de las f
 ###### ARTICULO CUARTO.
 
 Los asuntos que estén en trámite ante las Salas Colegiadas al entrar en funciones las Salas Unitarias y que sean de la competencia de éstas últimas, se seguirán sustanciando por la Sala Colegiada respectiva, hasta la resolución definitiva.
+
+P.O. 3 DE SEPTIEMBRE DEL 2003
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
