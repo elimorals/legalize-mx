@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-comercio-exterior-79"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-12-30"
-last_updated: "1993-12-30"
+last_updated: "2000-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-12-23"
 
 REGLAMENTO DE LA LEY DE COMERCIO EXTERIOR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 2000.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 30 de diciembre de 1993.
 
@@ -477,7 +477,7 @@ VII. En términos generales, las recuperaciones de costos y gastos deberán dedu
 
 VIII. Los gastos financieros deberán estimarse en términos netos, excluyendo los ingresos financieros que no estén relacionados con las actividades normales de las empresas, como los que se deriven de inversiones permanentes o a largo plazo;
 
-IX. Todos los gastos generales reconocidos en el ejercicio social que corresponda al periodo de investigación deberán tomarse en cuenta. Sin embargo, dichos gastos deberán prorratearse al período de investigación de manera proporcional.
+IX. Todos los gastos generales reconocidos en el ejercicio social que corresponda al periodo de investigación deberán tomarse en cuenta. Sin embargo, dichos gastos deberán prorratearse al periodo de investigación de manera proporcional.
 
 Como excepción a la regla anterior, los gastos reconocidos en un ejercicio social podrán distribuirse a través de un periodo más amplio, cuando:
 
@@ -509,9 +509,11 @@ Cuando las compras de las empresas comercializadoras que generen utilidades a la
 
 Cuando la empresa comercializadora esté situada en un país diferente al país de origen de la mercancía, el costo de producción será el que se haya incurrido en el país de origen, incrementado por todos los costos y gastos involucrados en trasladar e internar la mercancía del país de origen al de procedencia. En este caso, los gastos generales y la utilidad serán aquellos del país de procedencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 48.
 
-Para los efectos del artículo 33 de la Ley, se entenderá por economías centralmente planificadas, salvo prueba en contrario, aquellas en que las empresas son en su mayoría, total o parcialmente, propiedad del Estado, y donde los criterios de operación de las mismas, en lo relativo a precios, producción, programas de inversión y niveles de empleo, entre otros, se encuentran bajo control directo del gobierno.
+Para los efectos del artículo 33 de la Ley, se entenderá por economías centralmente planificadas, independientemente del nombre con el que se les designe, salvo prueba en contrario, aquellas cuyas estructuras de costos y precios no reflejen principios de mercado, o en las que las empresas del sector o industria bajo investigación tengan estructuras de costos y precios que no se determinen conforme a dichos principios. Lo anterior, de manera que en ambos casos las ventas del producto idéntico o similar en tal país no reflejen el valor de mercado, o el valor de los factores de producción utilizados para fabricar un producto idéntico o similar en un tercer país con economía de mercado. A fin de determinar si una economía es de mercado, se tomarán en cuenta, entre otros, los siguientes criterios: que la moneda del país extranjero bajo investigación sea convertible de manera generalizada en los mercados internacionales de divisas; que los salarios de ese país extranjero se establezcan mediante libre negociación entre trabajadores y patrones; que las decisiones del sector o industria bajo investigación sobre precios, costos y abastecimiento de insumos, incluidas las materias primas, tecnología, producción, ventas e inversión, se adopten en respuesta a las señales de mercado y sin interferencias significativas del Estado; que la industria bajo investigación posea exclusivamente un juego de libros de registro contable que se utilizan para todos los efectos y que son auditados conforme a criterios de contabilidad generalmente aceptados; que los costos de producción y situación financiera del sector o industria bajo investigación no sufren distorsiones en relación con la depreciación de activos, deudas incobrables, comercio de trueque y pagos de compensación de deudas, u otros factores que se consideren pertinentes.
 
 Por país sustituto se entenderá un tercer país con economía de mercado similar al país exportador con economía centralmente planificada. La similitud entre el país sustituto y el país exportador se definirá de manera razonable, de tal modo que el valor normal en el país exportador, en ausencia de una economía planificada, pueda aproximarse sobre la base del precio interno en el país sustituto. En particular, para efectos de seleccionar al país sustituto, deberán considerarse criterios económicos tales como el costo de los factores que se utilizan intensivamente en la producción del bien sujeto a investigación.
 
@@ -945,7 +947,7 @@ En dichas reuniones, los interesados tendrán derecho a obtener las hojas de cá
 
 ###### Artículo 85.
 
-En las reuniones técnicas se levantará un reporte de información en el que se consignen los pormenores de la reunión. En el reporte se deberá plasmar la firma autógrafa de los asistentes. Las partes interesadas podrán formular las preguntas que estimen pertinentes siempre que se relacionen con la información que se revela y se observen las reglas de confidencialidad previstas en la Ley y en este Reglamento. El reporte deberá integrarse al expediente administrativo del caso.
+en las reuniones técnicas se levantará un reporte de información en el que se consignen los pormenores de la reunión. En el reporte se deberá plasmar la firma autógrafa de los asistentes. Las partes interesadas podrán formular las preguntas que estimen pertinentes siempre que se relacionen con la información que se revela y se observen las reglas de confidencialidad previstas en la Ley y en este Reglamento. El reporte deberá integrarse al expediente administrativo del caso.
 
 ### CAPITULO VI. Audiencias conciliatorias
 
@@ -1629,7 +1631,7 @@ Para los efectos del artículo 80 de la Ley se considerará representante legal 
 
 I. Presentar ante la Secretaría una solicitud por escrito en la que manifieste la necesidad de revisar la información confidencial;
 
-II. Presentar los documentos oficiales con los que se acredite que el solicitante es abogado con título para ejercer en el territorio nacional, conforme a las leyes aplicables;
+II. Presentar los documentos oficiales con los que se acredite que el solicitante es abogado con título para ejercer en el territorio nacional, conforme a las leyes aplicables.
 
 La solicitud a que se refiere esta fracción también podrá ser presentada por cualquier otra persona siempre que cumpla con los requisitos establecidos en este artículo, con excepción del señalado en el párrafo anterior, y sea asistido por un abogado;
 
@@ -2314,3 +2316,9 @@ QUINTO. Los procedimientos administrativos en materia de prácticas desleales de
 SEXTO. Los procedimientos administrativos en materia de prácticas desleales y de medidas de salvaguarda iniciados con posterioridad a la entrada en vigor de la Ley de Comercio Exterior, publicada en el Diario Oficial de la Federación el 27 de julio de 1993, continuarán su trámite conforme al presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos noventa y tres. Carlos Salinas de Gortari. Rúbrica. El Secretario de Hacienda y Crédito Público, Pedro Aspe. Rúbrica. El Secretario de Comercio y Fomento Industrial, Jaime Serra Puche. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 29 DE DICIEMBRE DE 2000.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
