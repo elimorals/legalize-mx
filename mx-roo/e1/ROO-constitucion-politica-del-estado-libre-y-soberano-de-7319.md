@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1995-09-20"
+last_updated: "1996-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 1996.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -626,6 +626,10 @@ II.- A los Diputados a la Legislatura.
 III.- A los ayuntamientos, y
 
 IV.- A los ciudadanos por conducto de los diputados de su distrito.
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 1996)</small>
+
+V.- Al Tribunal Superior de Justicia del Estado, en materia de legislación civil, penal, familiar, procesal de estas materias y en la legislación relativa a la organización y administración de justicia.
 
 ###### ARTICULO 69.
 
@@ -2182,3 +2186,7 @@ La reforma al artículo 61 de la Constitución Política del Estado, contenida e
 ###### ARTICULO TERCERO.
 
 La Diputación Permanente se elegirá conforme a lo dispuesto en este Decreto, el día de clausura del primer periodo ordinario de sesiones del primer año de ejercicio constitucional de la VIII Legislatura Constitucional del Estado.
+
+P.O. 15 DE ABRIL DE 1996.
+
+UNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
