@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "1995-01-30"
+last_updated: "1995-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1995.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -331,6 +331,10 @@ Para el despacho de los asuntos que competen al Congreso, se designarán las Com
 
 Las Comisiones Permanentes de Dictamen Legislativo y la de Vigilancia de la Contaduría Mayor se designarán en la quinta sesión que lleve a efecto la Legislatura dentro del Primer Período de su Primer Año de Ejercicio y serán revisadas cada año, pudiendo los miembros de dichas comisiones ser reelectos, bien sea en lo personal o en conjunto.
 
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 1995)</small>
+
+Los integrantes de las Comisiones una vez designados, se instalarán formalmente dentro de los quince días siguientes y con el apoyo de la Oficialía Mayor formularán un programa de trabajo.
+
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
 
 ###### Artículo 39.
@@ -567,6 +571,10 @@ Las Comisiones, por medio de su Presidente, podrán pedir a cualquier oficina de
 
 Para el despacho de los asuntos que les hayan sido turnados, las Comisiones se reunirán mediante convocatoria del Presidente, acatando lo dispuesto por los Artículos 75 y 76 de la Ley Orgánica del Poder Legislativo.
 
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 1995)</small>
+
+De cada Sesión de las Comisiones se levantará un acta, conteniendo los datos fundamentales de la reunión y consignando los acuerdos a los cuales se llegue.
+
 ###### Artículo 52.
 
 Los Diputados que no formen parte de la Comisión podrán asistir a las reuniones y hacer uso de la palabra en las mismas, pero no tendrán voto en los acuerdos de la Comisión.
@@ -759,7 +767,7 @@ III.- Proporcionar los servicios de apoyo administrativo que requiera el Congres
 
 IV.- Salvaguardar los bienes asignados al Congreso;
 
-V.- Programar las adquisiciones de los bienes y servicios que requiere el Congreso;
+VI.- Programar las adquisiciones de los bienes y servicios que requiere el Congreso;
 
 VI.- Suministrar los recursos materiales que soliciten las unidades administrativas y proporcionar los servicios generales;
 
@@ -767,9 +775,7 @@ VII.- Llevar un registro de los bienes muebles e inmuebles asignados al Congreso
 
 VIII.- Elaborar los programas de capacitación y adiestramiento al personal administrativo; y
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-IX.- Las demás que le asigne la Ley Orgánica del Poder Legislativo, este reglamento y el Presidente de la Gran Comisión.
+IX.- Las demás que le asigne la Ley Orgánica del Poder Legislativo, este reglamento y el Presidente de la Comisión de Coordinación y Gobierno Interno.
 
 La Dirección de Administración contará con las unidades administrativas que sean necesarias para el cumplimiento de sus funciones.
 
@@ -1410,5 +1416,9 @@ PRIMERO:- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO:- Cuando en una Ley, Reglamento o cualquier otra disposición este expresado el termino "Comisión de Coordinación y Gobierno Interno", se entenderá que se refiere a la "Gran Comisión".
 
 P.O. 30 DE ENERO DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE NOVIEMBRE DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
