@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1984-03-08"
+last_updated: "1984-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE MARZO DE 1984.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ABRIL DE 1984.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -265,41 +265,51 @@ El Estado asume la representación jurídica del Municipio en todos los asuntos 
 
 ## TITULO TERCERO. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS PUBLICOS DEL ESTADO
 
-(REFORMADO, P.O. 13 DE MARZO DE 1982) (F. DE E., P.O. 25 DE MARZO DE 1982)
+(REFORMADO, P.O. 30 DE ABRIL DE 1984) (F. DE E., P.O. 7 DE JUNIO DE 1984)
 
 ###### Art. 126.
 
-Los Diputados de la Legislatura del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia y Municipales y los Titulares de las Dependencias del Poder Ejecutivo, son responsables de los delitos del orden común que cometan durante el tiempo de su encargo y de los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones. El Gobernador lo será igualmente pero durante le período de su ejercicio, solo podrá ser acusado por delitos graves del orden común y por delitos graves contra la Soberanía del Estado.
+Para los efectos de las responsabilidades a que alude este título, se reputa como servidor público, a toda persona que desempeñe un empleo, cargo o comisión en alguno de los Poderes del Estado, en los Ayuntamientos de los Municipios y Organismos Descentralizados, así como los titulares o quienes hagan sus veces en empresas de participación estatal o municipal, sociedades o asociaciones asimiladas a estas y en los fideicomisos públicos; por lo que toca a los demás trabajadores de este sector, su calidad de servidores públicos estará determinada por los ordenamientos legales respectivos.
+
+La Ley de Responsabilidades que expida la Legislatura regulará sujetos, procedimientos y sanciones en la materia.
+
+(REFORMADO, P.O. 30 DE ABRIL DE 1984) (F. DE E., P.O. 4 DE MAYO DE 1984)
 
 ###### Art. 127.
 
-Tratándose de los delitos del orden común a que se refiere el artículo anterior, la Legislatura erigida en Gran Jurado declarará, por mayoría absoluta de votos del número total de sus miembros, si ha lugar o no a proceder contra el acusado. En caso negativo, no habrá lugar a procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado haya dejado de tener fuero, salvo el caso de prescripción de la acción penal conforme a las leyes. En caso afirmativo, el acusado quedará por el mismo hecho separado de su encargo y sujeto a la acción de los Tribunales comunes. Si la decisión de éstos fuere condenatoria, el mismo acusado quedará separado definitivamente y en caso contrario, volverá al desempeño de sus funciones.
+Los Diputados de la Legislatura del Estado, los Magistrados del Tribunal Superior de Justicia, los Titulares de las Dependencias del Poder Ejecutivo y el Procurador General de Justicia, son responsables de los delitos graves del orden común que comentan durante el tiempo de su encargo y de los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones. El Gobernador lo será igualmente, pero durante el período de su ejercicio, sólo podrá ser acusado por delitos graves del orden común y por delitos contra la Soberanía del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 1975)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1984)</small>
 
 ###### Art. 128.
 
-De los delitos oficiales conocerán: La Legislatura, como jurado de acusación y el Tribunal Superior de Justicia del Estado, como órgano de sentencia. El jurado de acusación tendrá por objeto declarar a mayoría absoluta de votos, del número total de sus miembros, si el acusado es o no culpable. Si la declaración fuere absolutoria continuará el acusado en el ejercicio de su encargo; si fuere condenatoria quedará separado de dicho encargo y será puesto a disposición del Tribunal Superior de Justicia. Este en Tribunal Pleno, erigido en órgano de sentencia, con asistencia del reo, de su defensor y del Procurador General de Justicia o de quien éste designe para el efecto, procederá a imponer por mayoría de votos, la pena que la Ley respectiva determine. El Gobernador del Estado cuando el caso lo amerite, podrá pedir ante la Legislatura, o en su caso ante la Diputación Permanente, la destitución por mala conducta, de los Magistrados del Tribunal Superior de Justicia y de los Jueces de Primera Instancia. Y por mayoría absoluta de votos de una u otra se declara justificada la petición, el funcionario acusado quedará privado desde luego de su puesto, independientemente de la responsabilidad en que hubiere incurrido, y se procederá a nueva designación.
+Tratándose de los delitos a que se refiere al Artículo anterior, la Legislatura erigida en gran jurado declarará por mayoría absoluta del número total de sus integrantes si ha lugar o no a proceder contra el acusado. En caso negativo, no habrá procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado haya dejado de tener fuero, salvo el caso de prescripción de la acción conforme a la Ley Penal, los plazos de prescripción se interrumpen en tanto el servidor público desempeñe alguno de los encargos a que se refiere el Artículo anterior, en caso afirmativo el acusado quedará separado de su cargo y sujeto a la acción de los tribunales comunes, si la decisión de éstos fuere condenatoria, el mismo acusado quedará separado definitivamente y si es absolutoria, podrá reasumir su función.
 
-La legislatura expedirá una Ley de Responsabilidades Oficiales para todos los Funcionarios y Empleados Públicos del Estado, de los Municipios y Organos Descentralizados.
+Contra las declaraciones y resoluciones de la Legislatura erigida en gran jurado, no procede juicio o recurso alguno.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1984)</small>
 
 ###### Art. 129.
 
-Pronunciada una sentencia de responsabilidad por delitos oficiales no puede concederse al reo la gracia de indulto.
+El Gobernador del Estado, cuando el caso lo amerite, podrá pedir ante la Legislatura, o en su caso ante la Diputación Permanente, la destitución por mala conducta de los Magistrados del Tribunal Superior de Justicia. Si por mayoría absoluta del número total de sus integrantes, en sesión de una u otra se declara justificada la petición, el Magistrado acusado quedará privado de su puesto a partir de la fecha en que se le haga saber la resolución, independiente de la responsabilidad en que en su caso hubiere incurrido, y se procederá a nueva designación.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1984)</small>
 
 ###### Art. 130.
 
-La responsabilidad por delitos y faltas oficiales, podrá exigirse durante el período en que el funcionario ejerza su encargo y tres años después, pasados los cuales se extinguirá la acción para perseguirlo.
+Los Servidores Públicos condenados por delitos cometidos con motivo del desempeño de funciones públicas, no gozarán de la gracia del indulto.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1984)</small>
 
 ###### Art. 131.
 
-En demandas del orden civil no hay fueros ni inmunidad para ningún funcionario público.
+En demandas del orden civil no hay fuero ni inmunidad para ningún servidor público.
+
+(REFORMADO, P.O. 30 DE ABRIL DE 1984) (F. DE E., P.O. 7 DE JUNIO DE 1984)
 
 ###### Art. 132.
 
-Se concede acción popular para denunciar ante la Legislatura, los delitos comunes u oficiales de los funcionarios a que se refiere el artículo 126 de esta Constitución.
+Se concede acción popular para denunciar ante la Legislatura, los delitos en que incurran los servidores públicos a que se refiere el Artículo 127 de esta Constitución.
 
 # LIBRO TERCERO. DE LA ORGANIZACIÓN POLITICA DE LOS MUNICIPIOS
 
@@ -773,7 +783,9 @@ XXX. Cumplir con las obligaciones de carácter legislativo que le fueren impuest
 
 XXXI. Informar al Congreso de la Unión, en los casos a que se refiere el inciso 3º de la fracción III del artículo 73 de la Constitución Federal y ratificar en su caso, la resolución que dicte el mismo Congreso, de acuerdo con los incisos 6º y 7º de la misma fracción;
 
-XXXII.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 1984)</small>
+
+XXXII.- Recibir la Declaratoria a que se refiere el Segundo Párrafo del Artículo 110 de la Constitución Política de los Estados Unidos Mexicanos e iniciar el juicio político correspondiente.
 
 XXXIII. Excitar a los Poderes de la Unión a que presten su protección al Estado, en los casos a que se refiere el artículo 122 de la Constitución General;
 
@@ -793,7 +805,9 @@ XXXIX.- Aprobar la creación de Organismos Descentralizados.
 
 XL. Reglamentar la organización del servicio de seguridad pública del Estado;
 
-XLI. Declarar en su caso que ha o no lugar a formación de causa contra funcionarios públicos que gocen de fuero constitucional, por delitos del orden común y si son o no culpables los propios funcionarios de los delitos oficiales de que fueren acusados;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 1984)</small>
+
+XLI.- Declarar en su caso que ha o no lugar a proceder contra servidores públicos que gocen de fuero constitucional, por delitos graves del orden común y de los que cometan con motivo de sus funciones durante el desempeño de éstas.
 
 XLII. Dictar leyes sobre vías de comunicación y aprovechamiento de aguas y bosques, que no sean de jurisdicción federal;
 
@@ -1275,9 +1289,7 @@ Corresponde al Tribunal Pleno:
 
 I.- Iniciar leyes en todo lo relativo a la Administración de Justicia.
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 1982)</small>
-
-II.- Declarar si ha o no lugar a formación de causa a los Secretarios del Tribunal y resolver sin recurso ulterior como jurado de sentencia las causas de responsabilidad por delitos oficiales que hayan de formarse contra el Gobernador, Diputados, Magistrados, Jueces de Primera Instancia y Municipales, Procurador General de Justicia, y los Titulares de las Dependencias del Poder Ejecutivo, previa la correspondiente declaración de la Legislatura.
+II.- (DEROGADA, P.O. 30 DE ABRIL DE 1984)
 
 > <small>(REFORMADA, P.O. 13 DE MARZO DE 1982)</small>
 
@@ -1325,9 +1337,7 @@ I. Conocer en segunda Instancia de los negocios y causas que determinen las leye
 
 II. Hacer la revisión de todos los procesos del orden penal que determinen las leyes;
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 1982)</small>
-
-III.- Declarar si ha lugar o no a formación de causa por delito o faltas oficiales en contra de los Presidentes Municipales, suspendiéndolos en el ejercicio de sus funciones en caso afirmativo y consignándolos al juez de Primera Instancia de su respectivo Distrito.
+III.- (DEROGADA, P.O. 30 DE ABRIL DE 1984)
 
 IV.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
 
@@ -1379,7 +1389,7 @@ Art. 118 d).- Los Jueces Municipales ejercerán sus funciones dentro de los Muni
 
 ###### Art. 115.
 
-Los Jueces de Primera Instancia serán nombrados en la forma prevista por esta Constitución, durarán en su encargo seis años y podrán ser cesados por el Ejecutivo del Estado, de acuerdo con lo previsto en la fracción XI bis del artículo 70 de esta propia Constitución.
+El Tribunal Superior de Justicia nombrará a los Jueces de Primera Instancia, los que serán Inamovibles después de seis años de ejercicio; únicamente podrán ser suspendidos o destituidos en sus funciones conforme a la Ley.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -1455,7 +1465,7 @@ Las Leyes del Estado podrán instituir Tribunales de lo contencioso-administrati
 
 #### SECCION TERCERA. DE LOS JUECES DE PRIMERA INSTANCIA
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+(REFORMADO, P.O. 30 DE ABRIL DE 1984) (F. DE E., P.O. 30 DE ABRIL DE 1984)
 
 ###### Artículo 111.
 
@@ -1653,8 +1663,6 @@ III. Todas las demás que determinen las respectivas leyes reglamentarias.
 
 #### SECCION SEXTA. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS MUNICIPALES
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1981)</small>
-
 ###### Art. 157.
 
 (DEROGADO, P.O. 4 DE ABRIL DE 1981)
@@ -1683,21 +1691,19 @@ III. Todas las demás que determinen las respectivas leyes reglamentarias.
 
 ###### Art. 163.
 
-Los Presidentes Municipales son responsables por los delitos y faltas oficiales que cometan durante el tiempo de su encargo.
-
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1935)</small>
+(DEROGADO, P.O. 30 DE ABRIL DE 1984)
 
 ###### Art. 164.
 
-Para proceder contra cualquiera de estos funcionarios, cuando se trate de delitos o faltas oficiales, será preciso la previa declaración de haber lugar a formación de causa, que hará el Tribunal Superior de Justicia.
+(DEROGADO, P.O. 30 DE ABRIL DE 1984)
 
 ###### Art. 165.
 
-Los Síndicos de los Ayuntamientos y los Regidores serán juzgados por los delitos y faltas oficiales en que incurran durante el ejercicio de sus funciones, por el Ayuntamiento respectivo, como jurado de hecho, y por el Juez de primera Instancia del distrito judicial a que corresponda dicho Ayuntamiento, como Juez de derecho, para el solo efecto de aplicar la pena respectiva; pero en los delitos del orden común que dichos funcionarios cometieren, no gozarán de ningún fuero, pudiendo en consecuencia proceder contra ellos la autoridad judicial respectiva cuando haya méritos para ello.
+(DEROGADO, P.O. 30 DE ABRIL DE 1984)
 
 ###### Art. 166.
 
-En juicios del orden puramente civil, ningún funcionario municipal gozará de fuero.
+(DEROGADO, P.O. 30 DE ABRIL DE 1984)
 
 # LIBRO CUARTO. PREVENCIONES GENERALES A QUE DEBERA SUJETARSE LA ADMINISTRACION PUBLICA
 
@@ -2363,7 +2369,7 @@ G.G. 4 DE ENERO DE 1950.
 
 ###### ARTICULO UNICO.
 
-Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno", y el período de cuatro años a que se refiere el artículo 44 surtirá efectos a partir de la renovación de la actual H. XXXVII Legislatura Local.X
+Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno", y el período de cuatro años a que se refiere el artículo 44 surtirá efectos a partir de la renovación de la actual H. XXXVII Legislatura Local.
 
 G.G. 17 DE FEBRERO DE 1951.
 
@@ -2598,3 +2604,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 El período de la actual Legislatura concluirá el día cuatro de diciembre de mil novecientos ochenta y cuatro.
+
+G.G. 30 DE ABRIL DE 1984.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno del Estado".
