@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-del-estado-de-san-luis-7940
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-01"
-last_updated: "1991-01-04"
+last_updated: "1991-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1991.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de San Luis Potosí, el 1o. de enero de 1988.
 
@@ -325,7 +325,7 @@ DEL PAGO DEL IMPUESTO
 
 La cuota del Impuesto Predial será anual y su pago deberá hacerse por bimestres adelantados, dentro de los primeros diez días de cada bimestre, en el lugar que al efecto señalen las Autoridades Fiscales, acreditándose por medio de la marca de la caja registradora en la tarjeta que al efecto se expida, o con los recibos de entero correspondientes.
 
-En el caso de que el impuesto a pagar resulte menor a dos veces el salario mínimo de la zona económica en que se ubique el predio, el pago deberá hacerse en una sola exhibición durante los primeros diez días del mes del año que corresponda.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 40.
 
@@ -381,11 +381,9 @@ Estarán exentos del pago de este impuesto las Instituciones de Seguridad Social
 
 REALES
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
-
 ###### ARTICULO 50.
 
-Están obligados al pago de este impuesto las personas físicas o morales que adquieran inmuebles que consisten en el suelo o en el subsuelo y las construcciones adheridas a él, ubicadas en el territorio de cada Municipio, así como los derechos relacionados con el mismo.
+(DEROGADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1991)
 
 El impuesto se determinará aplicando la tasa y el procedimiento para su cáulculo, (sic) conforme al valor del inmueble, tal y como lo señalen las Leyes de Ingresos Municipales.
 
@@ -459,25 +457,11 @@ Los Fedatarios se harán acreedores a la sanción que establece el Código Fisca
 
 ###### ARTICULO 55.
 
-Para efectuar la reducción a que se refiere el Artículo 50 de esta Ley, se aplicará el salario mínimo correspondiente al año de calendario en que se esté en los supuestos de pago a que se refiere el Artículo 51 de esta Ley.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 56.
 
-La reducción a que se refiere el Artículo 50 en cita, se realizará conforme a lo siguiente:
-
-I.- Se considerará como un solo inmueble, los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de 24 meses.
-
-De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición.
-
-El adquiriente deberá manifestar, bajo protesta de decir verdad, al Fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiere adquirido con anterioridad, para que se ajuste el monto de la reducción y pagará en su caso las diferencias del impuesto que corresponda.
-
-Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte.
-
-II.- Cuando se adquiera parte de la propiedad o de los derechos de un inmueble, a que se refiere el Artículo 51 de esta Ley, la reducción se hará en la proporción que corresponda dicha parte.
-
-III.- Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos.
-
-IV.- No se considerarán departamentos habitacionales los que, por sus características originales, se destinen a servicios domésticos, portería o guarda de vehículos, aun cuando se utilicen para otros fines.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 57.
 
@@ -1274,3 +1258,11 @@ P.O. 4 DE ENERO DE 1991.
 DECRETO No. 19 QUE REFORMA LOS ARTICULOS 125 Y 126 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO.
 
 UNICO.- La presente reforma entrará en vigor el día primero de enero de 1991.
+
+P.O. 31 DE DICIEMBRE DE 1991.
+
+PRIMERO.- Los dueños de vehículos de motor que efectúen cambios de propietario en los últimos meses de Enero y Febrero de 1992, quedan eximidos del pago del Impuesto sobre Adquisición de Bienes Muebles y vehículos usados, en un 100% quienes lo realicen en Marzo de 1992, en un 75% quienes lo hagan en Abril de 1992, en un 50%, y quienes lo tramiten en Mayo de 1992, en un 25%.
+
+SEGUNDO.- El Artículos 63.-" de la presente Ley, surtirá sus efectos y una vez que el Estado se coordine con la Federación para implementar el Registro Estatal de vehículos y al conocerse las reglas que al respecto establezca la Secretaría de Hacienda y Crédito Público, la Secretaría de Finanzas del Estado emitirá en su caso, la Reglamentación del Artículo citado, la que deberá ser publicada oportunamente en el Periódico Oficial del Estado.
+
+TERCERO.- Esta Ley entrará en vigor a partir del 1o. de enero de 1992.
