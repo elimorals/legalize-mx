@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2004-06-09"
+last_updated: "2004-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE SEPTIEMBRE DE 2004.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -938,6 +938,8 @@ V.- La causa o enfermedad que originó el fallecimiento de acuerdo a la informac
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
 VI.- La hora de muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta, debiendo asentar los datos de la Averiguación Previa con la que se encuentre relacionada.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -2161,27 +2163,41 @@ La reconciliación de los cónyuges pone término al juicio de divorcio en cualq
 
 El cónyuge que no haya dado causa al divorcio puede, antes de que se pronuncie la sentencia que ponga fin al litigio, otorgar a su consorte el perdón respectivo; mas en este caso, no puede pedir de nuevo el divorcio por los mismos hechos a los que se refirió el perdón y que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie, o por hechos distintos que legalmente constituyan causa suficiente para el divorcio.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTICULO 282.
 
-Desde que se presenta la demanda de divorcio, y sólo mientras dure el juicio, se dictarán las medidas provisionales pertinentes conforme a las disposiciones siguientes:
+Desde que se presenta la demanda y sólo mientras dure el juicio, se dictarán las medidas provisionales pertinentes conforme a las disposiciones siguientes:
+
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
 I.- La separación de los cónyuges. El Juez de lo Familiar determinará con audiencia de parte, y teniendo en cuenta el interés familiar y lo que más convenga a los hijos, cuál de los cónyuges continuará en el uso de la vivienda familiar y asimismo, previo inventario, los bienes y enseres que continúen en ésta y los que se ha de llevar el otro cónyuge, incluyendo los necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicado, debiendo informar éste el lugar de su residencia.
 
 La separación conyugal decretada por el juez interrumpe los términos a que se refieren las fracciones VIII y IX del artículo 267 de este Código;
 
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
+
 II.- Señalar y asegurar las cantidades que a título de alimentos deben dar el deudor alimentario al cónyuge acreedor y a los hijos que corresponda;
+
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
 III.- Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal en su caso. Asimismo, ordenar, cuando existan bienes que puedan pertenecer a ambos cónyuges, la anotación preventiva de la demanda en el Registro Público de la Propiedad del Distrito Federal y de aquellos lugares en que se conozca que tienen bienes;
 
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
+
 IV.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede embarazada;
 
-V.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El Juez de lo Familiar, previo el procedimiento que fije el Código respectivo y tomando en cuenta la opinión del menor, resolverá lo conducente.
+> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
 
-Salvo peligro grave para el normal desarrollo de los hijos; los menores de doce años deberán quedar al cuidado de la madre;
+V. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, debiendo ser uno de éstos y pudiéndose compartir la custodia. En defecto de ese acuerdo; el juez de lo familiar resolverá lo conducente, previo el procedimiento que fije el código respectivo y, tomando en cuenta la opinión del menor.
+
+Salvo peligro grave para el normal desarrollo de los hijos, los menores de siete años deberán quedar al cuidado de la madre. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la madre carezca de recursos económicos.
+
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
 VI.- El Juez de lo Familiar resolverá teniendo presente el interés superior de los hijos, quienes serán escuchados, las modalidades del derecho de visita o convivencia con sus padres;
+
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
 VII.- En los casos en que el Juez de lo Familiar lo considere pertinente, de conformidad con los hechos expuestos y las causales invocadas en la demanda, tomará las siguientes medidas, con el fin de salvaguardar la integridad y seguridad de los interesados, que tratándose de violencia familiar deberá siempre decretar:
 
@@ -2191,21 +2207,29 @@ b) Prohibición al cónyuge demandado de ir a lugar determinado, tal como el dom
 
 c) Prohibir que el cónyuge demandado se acerque a los agraviados a la distancia que el propio Juez considere pertinente.
 
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
+
 VIII.- Revocar o suspender los mandatos que entre los cónyuges se hubieran otorgado, con las excepciones que marca el artículo 2596 de este Código;
+
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
 IX.- Requerirá a ambos cónyuges para que le exhiban, bajo protesta de decir verdad, un inventario de sus bienes y derechos, así como, de los que se encuentren bajo el régimen de sociedad conyugal, en su caso, especificando además el título bajo el cual se adquirieron o poseen, el valor que estime que tienen, las capitulaciones matrimoniales y un proyecto de partición. Durante el procedimiento, recabará la información complementaria y comprobación de datos que en su caso precise; y
 
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
+
 X.- Las demás que considere necesarias.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTICULO 283.
 
-La sentencia de divorcio fijará en definitiva la situación de los hijos, para lo cual el Juez de lo Familiar deberá resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de los hijos. De oficio o a petición de parte interesada durante el procedimiento, se allegará de los elementos necesarios para ello, debiendo escuchar al Ministerio Público, a ambos padres y a los menores, para evitar conductas de violencia familiar o cualquier otra circunstancia que amerite la necesidad de la medida considerando el interés superior de estos últimos. En todo caso protegerá y hará respetar el derecho de convivencia con los padres, salvo que exista peligro para el menor.
+La sentencia que se pronuncie en definitiva, fijará la situación de los hijos, para lo cual el juez de lo familiar deberá resolver todo lo relativo a los derechos y deberes inherentes a la patria potestad, su pérdida, suspensión, limitación o recuperación, según el caso.
 
-La protección para los hijos incluirá las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas en los términos previstos por el artículo 94 del Código de Procedimientos Civiles para el Distrito Federal.
+Deberá procurarse en lo posible el régimen de custodia compartida del padre y la madre, pudiendo los niños y niñas permanecer de manera plena e ilimitada con ambos padres, en caso de que algún ascendente tuviese la custodia, el otro que no la posee, después de los siete años podrá demandar en lo posible custodia para ambos padres, lo anterior en función de las posibilidades de éstos y aquellos, así como que no exista con alguno de los progenitores peligro alguno para su normal desarrollo.
 
-Para el caso de los mayores incapaces, sujetos a la tutela de alguno de los excónyuges, en la sentencia de divorcio deberán establecerse las medidas a que se refiere este artículo para su protección.
+La recuperación de la patria potestad procederá únicamente en aquellos casos que por cuestiones alimentarias se haya perdido, siempre y cuando se acredite que se ha cumplido con dicha obligación.
+
+Lo mismo se observará respecto de la recuperación de la custodia.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -2337,7 +2361,9 @@ La ley sólo reconoce como parentesco los de consanguinidad, afinidad y civil.
 
 El parentesco por consanguinidad es el vínculo entre personas que descienden de un tronco común.
 
-También se da parentesco por consanguinidad, en el hijo producto de reproducción asistida y de quienes la consientan.
+> <small>(REFORMADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+
+También se da parentesco por consanguinidad, entre el hijo producto de la reproducción asistida y los cónyuges o concubinos que hayan procurado el nacimiento, para atribuirse el carácter de progenitor o progenitores.
 
 En el caso de la adopción, se equiparará al parentesco por consanguinidad aquél que existe entre el adoptado, el adoptante, los parientes de éste y los descendientes de aquél, como si el adoptado fuera hijo consanguíneo.
 
@@ -3277,6 +3303,10 @@ ARTICULO 410 F.- En igualdad de circunstancias se dará preferencia en la adopci
 
 En la relación entre ascendientes y descendientes debe imperar el respeto y la consideración mutuos (sic), cualquiera que sea su estado, edad y condición.
 
+> <small>(ADICIONADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+
+Quien ejerza la patria potestad, debe procurar el respeto y el acercamiento constante de los menores con el otro ascendiente que también ejerza la patria potestad. En consecuencia, cada uno de los ascendientes deber evitar cualquier acto de manipulación, alineación parental encaminado a producir en la niña o el niño, rencor o rechazo hacia el otro progenitor.
+
 ###### ARTICULO 412.
 
 Los hijos menores de edad no emancipados, están bajo la patria potestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
@@ -3314,6 +3344,10 @@ En este supuesto, con base en el interés superior del menor, éste quedará baj
 Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes, salvo que exista peligro para éstos.
 
 No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus parientes. En caso de oposición, a petición de cualquiera de ellos, el juez de lo familiar resolverá lo conducente en atención al interés superior del menor. Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho de convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezca en el convenio o resolución judicial.
+
+> <small>(ADICIONADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+
+El juez de lo familiar aplicará las medidas previstas en el Código de Procedimientos Civiles e incluso podrá decretar el cambio de custodia de los menores previo el procedimiento respectivo, cuando quien tenga decretada judicialmente la custodia provisional o definitiva sobre ellos, realice conductas reiteradas para evitar la convivencia de los menores con la persona o personas que tengan reconocido judicialmente su derecho a la misma.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
@@ -3519,11 +3553,19 @@ II.- Por la ausencia declarada en forma;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 25 DE MAYO DE 2000)</small>
 
-III.- Cuando el consumo del alcohol, el hábito de juego, el uso no terapéutico de las substancias ilícitas a que hace referencia la Ley General de Salud y de las lícitas no destinadas a ese uso, que produzcan efectos psicotrópicos, amenacen causar algún perjuicio cualquiera que este sea al menor; y
+III.- Cuando el consumo del alcohol, el hábito de juego, el uso no terapéutico de las substancias ilícitas a que hace referencia la Ley General de Salud y de las lícitas no destinadas a ese uso, que produzcan efectos psicotrópicos, amenacen causar algún perjuicio cualquiera que este sea al menor; y (sic)
 
 > <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
 IV.- Por sentencia condenatoria que imponga como pena esta suspensión.
+
+> <small>(ADICIONADA, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+
+V.- Cuando exista la posibilidad de poner en riesgo la salud, el estado emocional o incluso su vida del o de los descendientes menores por parte de quien conserva la custodia legal, o de pariente por consaguinidad (sic) o afinidad hasta por el cuarto grado.
+
+> <small>(ADICIONADA, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+
+VI.- Por no permitir que se lleven a cabo las convivencias decretadas por autoridad competente o en convenio aprobado judicialmente.
 
 ###### ARTICULO 448.
 
@@ -4374,6 +4416,8 @@ Se requiere licencia judicial para que el tutor pueda transigir o comprometer en
 ###### ARTICULO 567.
 
 El nombramiento de árbitros hecho por el tutor deberá sujetarse a la aprobación del juez.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 568.
 
@@ -5617,6 +5661,8 @@ El Ministerio Público, si estima que procede, deducirá ante el juez competente
 
 El denunciante recibirá la cuarta parte del valor catastral de los bienes que denuncie; observándose lo dispuesto en la parte final del artículo 781.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 789.
 
 El que se apodere de un bien vacante sin cumplir lo prevenido en en (sic) este capítulo, pagará una multa de cinco a cincuenta pesos, sin perjuicio de las penas que señale el respectivo Código.
@@ -6199,7 +6245,7 @@ La legislación federal correspondiente determinará a quien pertenecen los cauc
 
 ###### ARTICULO 914.
 
-Los cauces abandonados por corrientes de agua que no sean de la Federación, pertenecen a los dueños de los terrenos por donde corren esas aguas. Si la corriente era limítrofe de varios predios, el cauce abandonado pertenece a los propietarios de ambas riberas proporcionalmente a la extensión del frente de cada heredad, a lo largo de la corriente, tirando una línea divisoria por enmedio del álveo.
+Los cauces abandonados por corrientes de agua que no sean de la Federación, pertenecen a los dueños de los terrenos por donde corren esas aguas. Si la corriente era limítrofe de varios predios, el cauce abandonado pertenece a los propietarios de ambas riberas proporcionalmente a la extensión del frente de cada heredad, a lo largo de la corriente, tirando una línea divisoria por en medio del álveo.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -6935,7 +6981,7 @@ III.- Si la servidumbre es de paso o desagüe, el convenio se entenderá celebra
 
 IV.- La renuncia de la servidumbre legal de desagüe sólo será válida cuando no se oponga a los reglamentos respectivos.
 
-ARTICULO 1,132.- Si el predio dominante pertenece a varios dueños proindiviso, el uso que haga uno de ellos aprovecha a los demás para impedir la prescripción.
+ARTICULO 1,132.- Si el predio dominante pertenece a varios dueños pro indiviso, el uso que haga uno de ellos aprovecha a los demás para impedir la prescripción.
 
 ARTICULO 1,133.- Si entre los propietarios hubiere alguno contra quien por leyes especiales no pueda correr la prescripción, ésta no correrá contra los demás.
 
@@ -7942,6 +7988,8 @@ ARTICULO 1,504.- Tanto el Notario como los testigos que intervengan en cualquier
 ARTICULO 1,505.- Si la identidad del testador no pudiere ser verificada, se declarará esta circunstancia por el Notario o por los testigos, en su caso, agregando uno u otros, todas las señales que caractericen la persona de aquél.
 
 ARTICULO 1,506.- En el caso del artículo que precede, no tendrá validez el testamento mientras no se justifique la identidad del testador.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ARTICULO 1,507.- Se prohibe a los notarios y a cualesquiera otras personas que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos pesos de multa a los notarios y de la mitad a los que no lo fueren.
 
@@ -9111,7 +9159,7 @@ La ratificación tiene efecto retroactivo al día en que la gestión principió.
 
 ARTICULO 1,907.- Cuando el dueño del negocio no ratifique la gestión, sólo responderá de los gastos que originó ésta, hasta la concurrencia de las ventajas que obtuvo del negocio.
 
-ARTICULO 1,908.- Cuando sin consentimiento del obligado a prestar alimentos, los diese un extraño, éste tendrá derecho a reclamar de aquél su importe, a no constar que los dió con ánimo de hacer un acto de beneficencia.
+ARTICULO 1,908.- Cuando sin consentimiento del obligado a prestar alimentos, los diese un extraño, éste tendrá derecho a reclamar de aquél su importe, a no constar que los dio con ánimo de hacer un acto de beneficencia.
 
 ARTICULO 1,909.- Los gastos funerarios proporcionados a la condición de la persona y a los usos de la localidad, deberán ser satisfechos al que los haga, aunque el difunto no hubiese dejado bienes, por aquellos que hubieren tenido la obligación de alimentarlo en vida.
 
@@ -10395,7 +10443,11 @@ ARTICULO 2,341.- La donación puede hacerse verbalmente o por escrito.
 
 ARTICULO 2,342.- No puede hacerse donación verbal más que de bienes muebles.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ARTICULO 2,343.- La donación verbal sólo producirá efectos legales cuando el valor de los muebles no pase de doscientos pesos.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ARTICULO 2,344.- Si el valor de los muebles excede de doscientos pesos, pero no de cinco mil, la donación debe hacerse por escrito.
 
@@ -10444,6 +10496,8 @@ Si dentro del mencionado plazo naciere un hijo póstumo del donante, la donació
 ARTICULO 2,360.- Si en el primer caso del artículo anterior el padre no hubiere revocado la donación, ésta deberá reducirse cuando se encuentre comprendida en la disposición del artículo 2,348, a no ser que el donatario tome sobre sí la obligación de ministrar alimentos y la garantice debidamente.
 
 ARTICULO 2,361.- La donación no podrá ser revocada por superveniencia de hijos:
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 I.- Cuando sea menor de doscientos pesos;
 
@@ -11127,6 +11181,8 @@ ARTICULO 2,533.- El depositario no puede retener la cosa, aun cuando al pedírse
 
 ARTICULO 2,534.- Tampoco puede retener la cosa como prenda que garantice otro crédito que tenga contra el depositante.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ARTICULO 2,535.- Los dueños de establecimientos en donde se reciben huéspedes, son responsables del deterioro, destrucción o pérdida de los efectos introducidos en el establecimiento con su consentimiento o el de sus empleados autorizados, por las personas que allí se alojen; a menos que prueben que el daño sufrido es imputable a estas personas, a sus acompañantes, a sus servidores o a los que los visiten, o que proviene de caso fortuito, fuerza mayor o vicios de los mismos efectos.
 
 La responsabilidad de que habla este artículo, no excederá de la suma de doscientos cincuenta pesos, cuando no se pueda imputar culpa al hostelero o a su personal.
@@ -11430,6 +11486,8 @@ ARTICULO 2,615.- El que preste servicios profesionales, sólo es responsable, ha
 ARTICULO 2,616.- El contrato de obras a precio alzado, cuando el empresario dirige la obra y pone los materiales, se sujetará a las reglas siguientes.
 
 ARTICULO 2,617.- Todo el riesgo de la obra correrá a cargo del empresario hasta el acto de la entrega, a no ser que hubiere morosidad de parte del dueño de la obra en recibirla, o convenio expreso en contrario.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ARTICULO 2,618.- Siempre que el empresario se encargue por ajuste cerrado de la obra en cosa inmueble cuyo valor sea de más de cien pesos, se otorgará el contrato por escrito, incluyéndose en él una descripción pormenorizada, y en los casos que lo requieran, un plano, diseño o presupuesto de la obra.
 
@@ -12129,9 +12187,13 @@ ARTICULO 2,849.- Si la fianza se ha otorgado por tiempo indeterminado, tiene der
 
 ARTICULO 2,850.- El fiador que haya de darse por disposición de la ley o de providencia judicial, excepto cuando el fiador sea una institución de crédito, debe tener bienes raíces inscritos en el Registro de la Propiedad y de un valor que garantice suficientemente las obligaciones que contraiga.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de mil pesos no se exigirá que el fiador tenga bienes raíces.
 
 La fianza puede substituirse con prenda o hipoteca.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ARTICULO 2,851.- Para otorgar una fianza legal o judicial por más de mil pesos se presentará un certificado expedido por el Encargado del Registro Público, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación que garantice.
 
@@ -12456,6 +12518,8 @@ TITULO DECIMOSEXTO
 De las transacciones
 
 ARTICULO 2,944.- La transacción es un contrato por el cual las partes haciéndose recíprocas concesiones, terminan una controversia presente o previenen una futura.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ARTICULO 2,945.- La transacción que previene controversias futuras, debe constar por escrito si el interés pasa de doscientos pesos.
 
@@ -13661,13 +13725,13 @@ SEGUNDO.- Las declaraciones de incapacidad o de nombramiento de tutor que actual
 
 D.O.F. 21 DE JULIO DE 1993.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE ABRIL DE 1999.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O.F. DE 17 DE ABRIL DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 1998)</small>
 
 PRIMERO.- Las disposiciones contenidas en el presente decreto entrarán en vigor el 19 de abril del año 1999, salvo lo dispuesto por los transitorios siguientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE ABRIL DE 1999.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O.F. DE 17 DE ABRIL DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 1993)</small>
 
@@ -13679,7 +13743,7 @@ II.- Se encuentren arrendados al 19 de octubre de 1993, siempre que sean para us
 
 III.- Su construcción sea nueva, siempre que el aviso de terminación sea posterior al 19 de octubre de 1993.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE ABRIL DE 1999.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O.F. DE 17 DE ABRIL DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 1998)</small>
 
@@ -13782,3 +13846,17 @@ PRIMERO. Remítase al Jefe de Gobierno del distrito Federal para su publicación
 SEGUNDO. Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO. Se derogan todas aquellas disposiciones que contravengan lo establecido en la presente Ley.
+
+G.O. 6 DE SEPTIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial de Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor a los noventa días siguientes a su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO TERCERO.
+
+Las presentes disposiciones se aplicarán a todos los procedimientos judiciales y administrativos en trámite ante las autoridades correspondientes y de acuerdo a lo dispuesto en el artículo 94 de Código de Procedimientos Civiles del DF; los interesados podrán promover los beneficios que le concede la presente Ley.
