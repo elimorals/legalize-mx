@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-instituto-industrial-18-de-marzo-10434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1940-11-28"
-last_updated: "1940-11-28"
+last_updated: "1980-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DEL INSTITUTO INDUSTRIAL "18 DE MARZO"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 1980.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 28 de noviembre de 1940.
 
@@ -35,33 +35,47 @@ El Congreso del Estado Libre y Soberano de Durango, a nombre del pueblo decreta 
 
 LEY ORGANICA DEL INSTITUTO INDUSTRIAL "18 DE MARZO"
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1980)</small>
+
 ###### Art. 1o.
 
-El Gobierno del Estado de Durango, establece en la ciudad de Gómez Palacio, Dgo., una Institución educativa que se denominará INSTITUTO INDUSTRIAL "18 DE MARZO".
+El Gobierno del Estado de Durango, establece en la Ciudad de Gómez Palacio, una Institución Educativa que se denominará Instituto "18 de Marzo".
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1980)</small>
 
 ###### Art. 2o.
 
-En ese Establecimiento podrá impartirse desde la educación Primaria, Elemental y Superior, hasta la Vocacional y Profesional que permitan los recursos del erario.
+El Instituto "18 de Marzo" es una Institución Educativa que, dependiendo del Gobierno del Estado de Durango, contará con capacidad y autorización jurídica y administrativa que le permita ejercer la impartición de niveles de la educación media básica, media superior y superior, de acuerdo a las posibilidades del erario estatal.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1980)</small>
 
 ###### Art. 3o.
 
-La educación primaria deberá ser gratuita y quedará sujeta a las disposiciones de la Ley relativa, para la Vocacional y Profesional, podrá establecer el Ejecutivo del Estado, cuotas moderadas, dejar exentos de pagarlas, a los alumnos que justifiquen carecer de recursos económicos suficientes para su sostenimiento y fijar las becas que considere necesarias
+Los gastos que demande el Plantel para su sostenimiento quedarán en el Presupuesto Anual de Egresos del Estado, contribuyendo el Ayuntamiento del Municipio de Gómez Palacio y las Instituciones de particulares (empresas, organismos agrarios, asociaciones de padres de familia, etc.,) con aportaciones expresas o a solicitud del Instituto, sin más compromiso que elevar la calidad educativa. De estas debe tomar conocimiento el Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1980)</small>
 
 ###### Art. 4o.
 
-La educación Vocacional comprenderá carreras cortas, para profesiones de Mecánicos, Electricistas, Radio-técnicos, Fundidores, Ebanistas y Plomeros, y aquellas otras que acuerde el C. Gobernador.
+El Instituto "18 de Marzo" utilizará los ingresos que percibe, para el cumplimiento de sus fines, de cuyo ejercicio debe informar semestralmente al Gobierno del Estado, quien podrá realizar las comprobaciones necesarias y de acuerdo a la participación y conocimiento público de los sectores que integran el Instituto.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1980)</small>
 
 ###### Art. 5o.
 
-El Ejecutivo del Estado, podrá ampliar el plan de estudios y establecer la educación Secundaria y Preparatoria con los Bachilleres que conceptué convenientes, así como la Profesional de Ingeniería.
+El personal directivo, docente, administrativo y de intendencia del Instituto, serán nombrados por el Gobernador del Estado, quien podrá remover libremente al Director cuando lo considere necesario para la buena marcha de la Institución.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1980)</small>
 
 ###### Art. 6o.
 
-Los gastos que demande para su sostenimiento el plantel, quedarán incluídos en el presupuesto de egresos anual del Estado, contribuyendo el Municipio de Gómez Palacio, Dgo., con las aportaciones que señale el Ejecutivo del Estado, para el sostenimiento de la Educación primaria que se imparta en el Establecimiento.
+El personal directivo, personal docente y representación estudiantil, integrarán el Consejo Directivo del Instituto, que podrá poponer al Ejecutivo del Estado proyectos de Reformas a las Leyes, Reglamentos y Planes de Estudio que se relacionen con el Instituto.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1980)</small>
 
 ###### Art. 7o.
 
-Las utilidades que obtenga el Instituto Industrial "18 de Marzo", ingresarán al erario público, por concepto de aprovechamientos.
+El Reglamento de Ley Orgánica del Instituto "18 de Marzo" será aprobado por el Gobernador del Estado previa opinión del Consejo Directivo del Instituto.
 
 ###### Art. 8o.
 
@@ -90,3 +104,9 @@ Dado en el Salón de Sesiones del Congreso del Estado a los (26) veintiseis día
 Por tanto mando se imprima, publique, circule y comuníquese a quienes corresponda para su exacta observancia.
 
 Dado en el Palacio del Poder Ejecutivo del Estado, a los veintisietes días del mes de noviembre de mil novecientos cuarenta.- Lic. Jesús Dorador Ibarra.- El Sub Secretario de Gob.- J. Donaciano Sosa.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE ABRIL DE 1980.
+
+UNICO.- Las presentes reformas iniciarán su vigencia al ser publicadas en el Periódico Oficial del Estado.
