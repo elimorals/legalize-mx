@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-administrativa-y-acceso-a-la-29499"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-20"
-last_updated: "2003-03-20"
+last_updated: "2003-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA ADMINISTRATIVA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2003.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 20 de marzo de 2003.
 
@@ -417,17 +417,21 @@ En el caso de que la solicitud sea rechazada, se hará la notificación en forma
 
 La notificación deberá ser firmada por las personas que las hacen y aquéllas a quienes se hacen. Si éstas no supieren o no quisieren firmar, lo hará quien haga las veces de notificador haciendo notar esta circunstancia. A dicha persona se le dará un tanto en original de la resolución.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 2003)</small>
+
 ###### ARTICULO 38.
 
-Toda solicitud de información realizada en los términos de la presente Ley, deberá ser satisfecha en un plazo de cinco días hábiles. La notificación se realizará en forma personal al solicitante o a la persona autorizada, para ello, el solicitante deberá asistir a la entidad pública obligada en el horario de oficina de la misma, para ser debidamente notificado mostrando una identificación y firmando una copia de la misma.
+Toda solicitud de información realizada en los términos de la presente Ley, deberá ser satisfecha en un plazo que no excederá de veinte días hábiles. La notificación se realizará en forma personal al solicitante o a la persona autorizada, para ello, el solicitante deberá asistir a la entidad pública obligada, en el horario de oficina de la misma, para ser debidamente notificado mostrando una identificación y firmando una copia de la misma.
 
 La notificación deberá ser firmada por las personas que las hacen y aquéllas a quienes se hacen. Si éstas no supieren o no quisieren firmar, lo hará quien haga las veces de notificador haciendo notar esta circunstancia. A dicha persona se le dará un tanto en original de la resolución.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2003)</small>
+
 ###### ARTICULO 39.
 
-El plazo a que se refiere el artículo anterior se podrá prorrogar en forma excepcional por otros diez días hábiles, de mediar circunstancias que hagan difícil reunir la información solicitada. En su caso, la entidad pública deberá emitir un acuerdo en el término de cinco días hábiles, mencionando las razones por las cuales hará uso de la prórroga excepcional, esta notificación se efectuará en una lista de acuerdos que se hará pública y se fijará en un lugar visible en los estrados de la dependencia en la que se halla (sic) solicitado la información.
+El plazo a que se refiere el artículo anterior se podrá prorrogar por otros diez días hábiles, de mediar circunstancias que hagan difícil reunir la información solicitada. En su caso, la entidad pública deberá emitir un acuerdo dentro de los diez días hábiles siguientes a la recepción de la solicitud, mencionando las razones por las cuales hará uso de la prórroga excepcional; esta notificación se efectuará en una lista de acuerdos que se hará pública y se fijará en un lugar visible en los estrados de la dependencia en la que se haya solicitado la información.
 
-En ningún caso el plazo excederá de veinte días hábiles.
+En ningún caso el plazo excederá de treinta días hábiles.
 
 ###### ARTICULO 40.
 
@@ -453,7 +457,11 @@ Como órgano de autoridad, promoción, difusión e investigación sobre el derec
 
 La Comisión estará integrada de la siguiente forma:
 
-I. Tres comisionados, de los cuales uno será su Presidente; estos cargos serán honoríficos. El Titular del Poder Ejecutivo del Estado deberá presentar al Congreso del Estado una lista de hasta el triple de los Comisionados para su elección;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2003)</small>
+
+I. Tres comisionados, de los cuales uno será su Presidente, y los dos restantes tendrán el carácter de vocales, pudiendo sesionar con la presencia de dos de sus miembros si entre ellos se encuentra el Presidente quien en este supuesto, tendrá voto de calidad.
+
+El titular del Poder Ejecutivo del Estado deberá presentar al Congreso del Estado, una lista de hasta el triple de los Comisionados para su elección. En caso de falta definitiva de alguno de sus integrantes, se seguirá el mismo procedimiento para cubrir la vacante en un término que no excederá de treinta días;
 
 II. Un Secretario de Actas, quien deberá acreditar contar con título profesional de Licenciado en Derecho, nombrado por los comisionados;
 
@@ -469,7 +477,9 @@ I. Ser ciudadano potosino;
 
 II. Tener al menos treinta años cumplidos al día de la designación;
 
-III. Contar con título profesional de Licenciado en Derecho;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2003)</small>
+
+III. Ser profesionista con título legalmente expedido por la autoridad competente, con experiencia mínima de tres años en el ejercicio profesional;
 
 IV. Gozar de reconocido prestigio personal y profesional;
 
@@ -615,9 +625,13 @@ PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación 
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
 
-TERCERO. Las entidades públicas deberán iniciar la difusión de la información a que se refiere el artículo 5°. de esta Ley, después de siete meses de la entrada en vigor de la presente Ley.
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2003)</small>
 
-CUARTO. Las entidades públicas que no cuenten con facultades para certificar documentación, deberán modificar sus reglamentos internos para cumplir con lo ordenado en la presente Ley, dentro de los noventa días siguientes a la entrada en vigor de la misma.
+TERCERO. Las entidades públicas deberán iniciar la difusión de la información a que se refieren los artículos 5° y 22 de la Ley de Transparencia Administrativa y Acceso a la Información Pública del Estado de San Luis Potosí, a más tardar el 20 de marzo de 2004.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2003)</small>
+
+CUARTO. Las entidades públicas que no cuenten con facultades para certificar documentación, deberán modificar sus reglamentos o disposiciones internas para cumplir con lo ordenado en la Ley de Transparencia Administrativa y Acceso a la Información Pública del Estado de San Luis Potosí, a más tardar el 20 de marzo de 2004.
 
 QUINTO. Las secretarías, dependencias, entidades, órganos desconcentrados, y la Procuraduría General de Justicia del Estado del Ejecutivo estatal, deberán iniciar la difusión de la información a que se refieren los artículos 16 y 17 de esta Ley, a más tardar un año después de su entrada en vigor.
 
@@ -642,3 +656,11 @@ El Secretario General de Gobierno
 LIC. MARCO ANTONIO ARANDA MARTINEZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE OCTUBRE DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales que se opongan al presente Decreto.
