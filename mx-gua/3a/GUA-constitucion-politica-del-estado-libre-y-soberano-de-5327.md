@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1951-11-25"
+last_updated: "1959-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 1959.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -50,6 +50,10 @@ La ley es igual para todos. De ella emanan la autoridad de los que mandan y las 
 ###### Art. 3º.
 
 Ningún profesor necesita título para la enseñanza de cualquier ramo del saber.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 1959)</small>
+
+Art. 4º En el Estado sólo podrán ejercer las profesiones de arquitecto, bacteriólogo, biólogo, cirujano dentista, contador, corredor público, enfermero, enfermera y partera, farmacéutivo (sic), licenciado en derecho, licenciado en economía, médico veterinario metalúrgico, notario público e ingeniero médico y químico en sus diversas ramas profesionales, personas que tengan título oficial expedido por las autoridades legales capacitadas para ello, y previa anotación en registros especiales que llevarán las autoridades del Estado a cuyo cargo esté la respectiva expedición, o en su defecto, por la Secretaría General del Gobierno. Las Presidencias Municipales velarán por el fiel cumplimiento de esta disposición.
 
 ###### Art. 4º.
 
@@ -1190,3 +1194,7 @@ Este Decreto surtirá efectos desde la fecha de su publicación en el Periódico
 P.O. 25 DE NOVIEMBRE DE 1951.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+
+P.O. 23 DE JULIO DE 1959.
+
+Unico.- Este Decreto entrará en vigor, a partir del día de su publicación en el Periódico Oficial del Estado.
