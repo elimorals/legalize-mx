@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-hacendaria-del-estado-de-morelos-17897"
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-30"
-last_updated: "2000-08-30"
+last_updated: "2001-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE COORDINACION HACENDARIA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 30 de agosto de 2000.
 
@@ -107,9 +107,13 @@ E S T R U C T U R A
 
 ### Capítulo II: De la Colaboración Administrativa.
 
-### Capítulo III: De los Ingresos y de las Participaciones Federales y Estatales
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
 
-### Capítulo IV: De los Egresos y de los Fondos de Aportaciones Federales.
+### Capítulo III: De las Participaciones.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
+
+### Capítulo IV: De las Aportaciones Federales y Estatales.
 
 ### Capítulo V: De la Coordinación en Materia de Deuda Pública.
 
@@ -125,73 +129,99 @@ E S T R U C T U R A
 
 Esta Ley establece el Sistema de Coordinación Hacendaria del Estado de Morelos, que tiene por objeto:
 
-I. Consolidar el Sistema de Coordinación Hacendaria del Estado de Morelos con sus Municipios, estableciendo las bases de coordinación en materia de ingresos, egresos, deuda y patrimonio; y fijando las reglas de colaboración administrativa entre las diversas autoridades fiscales y hacendarias.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2001)</small>
 
-II. Establecer la potestad tributaria, las facultades de recaudación y la participación que corresponda a las haciendas públicas estatal y municipales en los ingresos municipales, estatales y federales; distribuir entre ellos dichas participaciones y determinar los montos, bases, plazos y toda la normatividad requerida para la distribución de las participaciones de ingresos estatales y federales que correspondan a los municipios del estado; así como su vigilancia en el cálculo y liquidación.
+I.- Fijar las bases de coordinación y las reglas de colaboración administrativa en materia de ingresos, egresos, deuda y patrimonio entre las diversas autoridades hacendarias del estado y sus municipios;
 
-III. Precisar los criterios, bases y normas en materia de gasto público, para una adecuada presupuestación, descentralización, ejercicio, control y evaluación de los egresos y aportaciones, tanto federales como estatales.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2001)</small>
 
-IV. Regular la coordinación en materia de deuda pública para que la contratación, reestructuración y pago de la deuda, se realice con base en programas y lineamientos debidamente concertados entre ambos ámbitos de gobierno.
+II.- Proponer nuevos conceptos tributarios y modificaciones a los vigentes para fortalecer las finanzas públicas;
 
-V. Constituir los organismos de coordinación hacendaria, definiendo su organización, funcionamiento, facultades y las bases de coordinación entre el estado y los municipios para la revisión y elaboración de propuestas en torno a la coordinación hacendaria.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2001)</small>
+
+III.- Proponer las bases, los criterios y las normas necesarias para distribuir entre los Municipios las participaciones y aportaciones federales y estatales;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2001)</small>
+
+IV.- Proponer criterios, bases, normas y sistemas para el presupuesto, ejercicio, control y evaluación de los ingresos y del gasto público:
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2001)</small>
+
+V.- Proporcionar asesoría y capacitación en materia hacendaria; y
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2001)</small>
+
+VI.- Constituir los organismos de coordinación hacendaria, definiendo su organización, funcionamiento y facultades.
 
 ### CAPÍTULO II. DE LA COLABORACIÓN ADMINISTRATIVA
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
+
 ###### Artículo 2.
 
-El Gobierno del Estado, por conducto de la Secretaría de Hacienda, y los ayuntamientos, podrán celebrar convenios de coordinación hacendaria y colaboración administrativa para el perfeccionamiento del Sistema Estatal de Coordinación Hacendaria.
+El Gobierno del Estado, por conducto de la Secretaría de Hacienda, y los Ayuntamientos, podrán celebrar convenios de coordinación hacendaria y colaboración administrativa para el desempeño de sus funciones.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
 
 ###### Artículo 3.
 
-En materia de ingresos, podrá realizar convenios en materia de gravámenes estatales y municipales; así como en materia de ingresos federales coordinados, para ejercer las siguientes funciones: Registro federal de contribuyentes; recaudación, notificación y cobranza; informática; asistencia al contribuyente; consultas y autorizaciones; comprobación del cumplimiento de las disposiciones fiscales; determinación de impuestos y sus accesorios; imposición y condonación de multas; recursos administrativos; intervención de juicios; y cualquier otra necesaria.
+En materia de ingresos, el Gobierno del Estado y los Ayuntamientos podrán convenir sobre la administración de contribuciones, para coordinar las siguientes funciones: registro federal de contribuyentes; recaudación, notificación y cobranza; informática; asistencia al contribuyente; consultas y autorizaciones; comprobación del cumplimiento de las disposiciones fiscales; determinación de impuestos y sus accesorios; imposición y condonación de multas; recursos administrativos; intervención de juicios; y cualquier otra necesaria.
 
-Estableciendo los lineamientos para cada una de las funciones descritas. Los convenios a que se refiere el presente artículo no podrán rebasar el período de la administración que lo suscribe.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
 
 ###### Artículo 4.
 
-En los convenios a que se refiere el artículo anterior, se establecerán los ingresos de que se trate, las facultades que se ejercerán y las limitaciones de las mismas, así como las estipulaciones para su terminación y las sanciones por su incumplimiento; se fijarán las percepciones que se recibirán por las actividades de administración o recaudación que se efectúan.
+En los convenios a que se refiere el presente Capítulo, se establecerán las partes que intervienen en la celebración del convenio, la materia o materias afectas a la colaboración de las partes, así como su fundamento, las obligaciones y facultades que se ejercerán por cada una de las partes, así como las estipulaciones para su terminación y las sanciones por su incumplimiento; se fijarán los beneficios o incentivos que obtendrán las partes, por la celebración de dichos convenios, y las demás reglas que sean necesarias para la realización de estos mismos.
 
-Los proyectos de convenios a que se refiere este artículo se elaboraran por el Instituto de Finanzas Públicas y Federalismo Hacendario del Estado y se registraran una vez suscritos, en el Registro Único de Convenios Hacendarios del Estado de Morelos que será responsabilidad del mismo Instituto, conforme a lo dispuesto en el Capitulo VII de la presente Ley.
+Los convenios no podrán rebasar el período de la Administración que lo suscribe y deberán publicarse en el Periódico Oficial "Tierra y Libertad".
+
+Los proyectos de convenios a que se refiere este artículo se elaborarán por el Instituto de Finanzas Públicas y Federalismo Hacendario y se registrarán una vez suscritos y publicados, en el Registro Único de Convenios Hacendarios del Gobierno del Estado de Morelos que será responsabilidad del mismo Instituto, conforme a lo dispuesto en el Capítulo VII de la presente Ley.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
 
 ###### Artículo 5.
 
-Las autoridades fiscales y hacendarias municipales, en el ejercicio de sus facultades y funciones a que se refieren los convenios respectivos que se relacionen con ingresos estatales, serán consideradas como autoridades fiscales y hacendarias estatales, debiendo ajustar sus actuaciones, en lo conducente, a lo dispuesto en la legislación fiscal y hacendaria aplicable.
+Las autoridades hacendarias municipales, en el ejercicio de las facultades y funciones derivadas de los convenios respectivos, serán consideradas como autoridades hacendarias estatales, debiendo ajustar sus actuaciones, en lo conducente, a lo dispuesto en la legislación aplicable.
 
-### CAPÍTULO III. DE LOS INGRESOS Y DE LAS PARTICIPACIONES FEDERALES Y ESTATALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE JULIO DE 2001)</small>
+
+### CAPÍTULO III. DE LAS PARTICIPACIONES
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
 
 ###### Artículo 6.
 
-De las participaciones sobre el ingreso federal que perciba el estado, incluyendo sus incrementos, los municipios recibirán los siguientes porcentajes:
+A los Municipios de la entidad les corresponden y percibirán ingresos por concepto de las Participaciones Federales que reciba el Gobierno del Estado, en la proporción que para cada fondo se establece a continuación:
 
-I. El 25% del total de las percepciones que obtenga el estado correspondientes al Fondo General de Participaciones.
+I. Del Fondo General de Participaciones, el 25% del total;
 
-II. El 100% del Fondo de Fomento Municipal.
+II. Del Fondo de Fomento Municipal, el 100 %;
 
-III. El 25% del importe que perciba en forma directa el estado por concepto de participaciones federales del Impuesto Sobre Tenencia o Uso de Vehículos.
+III. Del Impuesto Sobre Tenencia o Uso de Vehículos, el 25% del total;
 
-IV. El 25% del importe que perciba por concepto de participaciones federales por los impuestos especiales sobre producción y servicios.
+IV. Del Impuesto Especial Sobre Producción y Servicios, el 25 % del total;
 
-V. El 25% del importe que perciba en forma directa por concepto de participaciones del Impuesto Sobre Automóviles Nuevos.
+V. Del Impuesto Sobre Automóviles Nuevos, el 25% del total;
 
-VI. De la reserva de contingencia que reciba el estado, se distribuirá como mínimo una cantidad equivalente a la proporción que represente el conjunto de participaciones a sus Municipios del total de participaciones de la Entidad. La cantidad a distribuir se hará de la siguiente forma: Se iniciará con el Municipio que tenga el coeficiente de participación efectiva menor y continuará hacia la que tenga el mayor, hasta agotarse.
+VI. De la Reserva de Contingencia que reciba el Gobierno del Estado, se distribuirá como mínimo una cantidad equivalente a la proporción que represente el conjunto de participaciones a sus Municipios del total de participaciones de la Entidad. La cantidad a distribuir se hará de la siguiente forma: Se iniciará con el Municipio que tenga el coeficiente de participación efectiva menor y continuará hacia la que tenga el mayor, hasta agotarse.
 
-El coeficiente de participación efectiva a que se refiere el párrafo anterior será el que resulte de dividir las participaciones efectivamente recibidas por cada Municipio, entre el total de las participaciones pagadas en el ejercicio de que se trate.
+El coeficiente de participación efectiva a que se refiere el párrafo anterior será el que resulte de dividir el total de las participaciones efectivamente recibidas por cada Municipio, entre el total de las participaciones pagadas a todos los Municipios en el ejercicio fiscal inmediato anterior;
 
-En el conjunto de participaciones no se incluirán aquellas a que se refieren las fracciones I y II del artículo 2°A de la Ley de Coordinación Fiscal de la Federación.
-
-VII. De otros ingresos que le participe la Federación al Estado, por cualquier otro concepto que no establezca la forma de repartirlo, se distribuirá a los municipios el 25% en forma proporcional al coeficiente que resulte de dividir las participaciones efectivamente recibidas por cada Municipio, entre el total de las participaciones pagadas en el ejercicio de que se trate.
+VII.- De los ingresos extraordinarios que le participe la Federación al Gobierno del Estado, por cualquier otro concepto que no establezca la forma de repartirlo, se distribuirá a los municipios el 25 % en forma proporcional al coeficiente que resulte de dividir el total de las participaciones efectivamente recibidas por cada Municipio, entre el total de las participaciones pagadas a todos los Municipios en el ejercicio fiscal inmediato anterior.
 
 ###### Artículo 7.
 
-Es facultad de los ayuntamientos, la recaudación y administración del Impuesto Predial y sus accesorios, las tasas, bases y montos lo determinará la Ley que para el efecto esté vigente. En caso necesario, podrá celebrar un convenio de colaboración administrativa con el estado.
+(DEROGADO, P.O. 20 DE JULIO DE 2001)
 
 ###### Artículo 8.
 
-El total de participaciones federales y estatales, excluido el Fondo de Fomento Municipal y la Reserva de Contingencia, que corresponden a los municipios del estado, se distribuirá entre los municipios en forma directa de acuerdo a las cantidades que resulten de aplicar a su total, el factor que para cada municipio se determine.
+(DEROGADO, P.O. 20 DE JULIO DE 2001)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 2001)</small>
 
 ###### Artículo 9.
 
-El factor que a cada municipio corresponda para participar del total de las participaciones estatales y federales, se determinará de conformidad con los factores obtenidos de aplicar la fórmula que considere las siguientes bases:
+El coeficiente que a cada municipio corresponda para participar del total de las participaciones estatales y federales, se determinará de conformidad con los factores obtenidos de aplicar la fórmula que considere las siguientes bases:
 
 I. 50% en razón directa del número de habitantes que registre el municipio, de acuerdo a los últimos datos oficiales de población emitidos por el INEGI;
 
@@ -203,177 +233,157 @@ III. 15% en razón directa al esfuerzo de recaudación en puntos porcentuales qu
 
 IV. 10% en razón directa al número de localidades por municipio.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
+
 ###### Artículo 10.
 
-El Gobierno del Estado, por conducto de la Secretaría de Hacienda, entregará a los municipios las participaciones, por los distintos fondos y conceptos participables que les correspondan, dentro de los cinco días siguientes a la recepción de los recursos de la Federación. El retraso dará lugar al pago de intereses, a la tasa de recargo que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones y se sujetará a lo dispuesto en el Artículo 6º de la Ley de Coordinación Fiscal de la Federación.
-
-Lo mismo se estará cuando el retraso sea imputable a la Federación.
+El Gobierno del Estado, por conducto de la Secretaría de Hacienda, entregará a los Municipios las participaciones, por los distintos fondos y conceptos participables que les correspondan, dentro de los cinco días siguientes a la recepción de los recursos de la Federación. El retraso dará lugar al pago de intereses, a la tasa de recargo que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones y se sujetará a lo dispuesto en el Artículo 6° de la Ley de Coordinación Fiscal de la Federación.
 
 ###### Artículo 11.
 
 Las participaciones que corresponden a los municipios del estado son inembargables, y no estarán sujetas a retención, ni podrán afectarse por fines específicos, salvo para el pago de obligaciones contraídas en los términos de lo dispuesto en el artículo 9° de la Ley de Coordinación Fiscal de la Federación.
 
-Cuando garanticen el pago de obligaciones contraídas por los mismos, deberán estar autorizadas por los Cabildos y cuando rebasen el término de su administración serán autorizadas por el Congreso del Estado.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
 
-La compensación entre el derecho del municipio a recibir participaciones y las obligaciones que tenga con el Estado o con la Federación por créditos de cualquier naturaleza, sólo podrá llevarse a cabo si existe acuerdo entre las partes interesadas y operará en los términos de la legislación fiscal vigente.
+Para que los Municipios puedan garantizar el pago de obligaciones contraídas por los mismos, deberán estar autorizadas por los Cabildos y cuando rebasen el término de su administración serán autorizadas por el Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
+
+La compensación entre el derecho del Municipio a recibir participaciones y las obligaciones que tenga con el Gobierno del Estado o con la Federación por créditos de cualquier naturaleza, sólo podrá llevarse a cabo siempre y cuando exista el acuerdo entre las partes interesadas y operará en los términos de la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
 
 ###### Artículo 12.
 
-El Gobierno del Estado, deberá publicar en el Periódico Oficial y por lo menos en uno de los de mayor circulación, dentro del mes de enero de cada año, el monto de las participaciones que corresponden a cada uno de los municipios así como los criterios de asignación aplicados del ejercicio fiscal que se esté ejerciendo.
+El Gobierno del Estado, deberá incluir en el Presupuesto de Egresos de cada ejercicio anual, el monto de las Participaciones y Aportaciones que corresponden a cada uno de los Municipios así como los criterios de asignación aplicados.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
 
 ###### Artículo 13.
 
-El Gobierno del Estado, por conducto de la Secretaría de Hacienda enviará previamente y por escrito a los ayuntamientos, la información necesaria que permita comprobar la correcta determinación de sus coeficientes de participaciones, dentro del tercer trimestre del año anterior al de su aplicación.
+El Gobierno del Estado, por conducto de la Secretaría de Hacienda enviará previamente por escrito a los Ayuntamientos, la información necesaria que permita comprobar la correcta determinación de sus coeficientes de participaciones, al treinta de noviembre de cada año, anterior al ejercicio fiscal de que se trate.
 
-### CAPÍTULO IV
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE JULIO DE 2001)</small>
 
-DE LOS EGRESOS Y DE LOS FONDOS DE APORTACIONES FEDERALES.
+### CAPÍTULO IV. DE LAS APORTACIONES FEDERALES Y ESTATALES
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
 
 ###### Artículo 14.
 
-De acuerdo a lo establecido en el Capítulo V de la Ley de Coordinación Fiscal y en el Decreto de Presupuesto de Egresos de la Federación, el Estado y los Municipios del Estado, ejercerán las aportaciones federales que reciban, de conformidad con la legislación aplicable.
+El Estado y los Municipios tendrán derecho a recibir las aportaciones federales que les correspondan de conformidad con la Ley de Coordinación Fiscal, por los montos y conceptos que se determinen en el Presupuesto de Egresos de la Federación de cada ejercicio fiscal. El Ejecutivo del Estado entregará a los Municipios, los recursos que de las aportaciones federales les correspondan, en la misma forma y condiciones a lo dispuesto en el artículo 10 de este ordenamiento para participaciones.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
 
 ###### Artículo 15.
 
-Los fondos de aportaciones a que se hace mención en el artículo anterior son los siguientes:
+Los recursos, que por concepto de aportaciones federales, reciban el Estado y los Municipios, serán administrados y aplicados con base en las disposiciones que para tal efecto establezcan la Ley de Coordinación Fiscal y el Presupuesto de Egresos de la Federación.
 
-I. FONDO DE APORTACIONES PARA LA EDUCACION BASICA Y NORMAL;
+Los recursos de los fondos de aportaciones federales que correspondan al Gobierno del Estado podrán ser ejercidos por los Ayuntamientos siempre y cuando existan convenios específicos para tal efecto.
 
-II. FONDO DE APORTACIONES PARA LOS SERVICIOS DE SALUD;
-
-III. FONDO DE APORTACIONES PARA LA INFRAESTRUCTURA SOCIAL;
-
-IV. FONDO DE APORTACIONES PARA EL FORTALECIMIENTO DE LOS MUNICIPIOS;
-
-V. FONDO DE APORTACIONES MULTIPLES;
-
-VI. FONDO DE APORTACIONES PARA LA EDUCACION TECNOLOGICA Y DE ADULTOS, Y
-
-VII. FONDO DE APORTACIONES PARA LA SEGURIDAD PUBLICA DE LOS ESTADOS Y DEL DISTRITO FEDERAL.
-
-Dichos fondos se integraran, distribuirán, administraran, ejercerán y supervisaran de acuerdo a lo dispuesto en el capitulo V de la Ley de Coordinación Fiscal de la federación.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
 
 ###### Artículo 16.
 
-El Congreso del Estado a través de su Organo Técnico será el responsable de fijar las normas, lineamientos y criterios que aseguren el correcto ejercicio del gasto, así como de la supervisión y vigilancia directa que corresponda, para constatar la correcta aplicación de los recursos que reciban de los fondos de aportaciones federales el Estado y Municipios y de fincar, en su caso, la responsabilidad correspondiente.
+El Congreso del Estado a través del órgano técnico de fiscalización, será el responsable de supervisar, vigilar, fiscalizar, constatar e informar, de la correcta aplicación de los recursos de los fondos de aportaciones federales que reciban el Estado y los Municipios, así como de fincar, en su caso, la responsabilidad correspondiente.
 
 ###### Artículo 17.
 
-Con cargo a los recursos federales provenientes del Fondo de Aportaciones para la Educación Básica y Normal, que le correspondan al Estado, el Ejecutivo Estatal recibirá los recursos económicos complementarios que le apoyen para ejercer las atribuciones que de manera exclusiva se le asignan, respectivamente, en los artículos 13 y 16 de la Ley General de Educación.
+(DEROGADO, P.O. 20 DE JULIO DE 2001)
 
 ###### Artículo 18.
 
-El Fondo de Aportaciones para los Servicios de Salud, se destinará al cumplimiento de la normatividad federal establecida para el Estado en esta materia.
+(DEROGADO, P.O. 20 DE JULIO DE 2001)
 
 ###### Artículo 19.
 
-Las aportaciones del Fondo para la Infraestructura Social Estatal, serán ejercidos (sic) por el Gobierno del Estado, atendiendo a criterios de desarrollo regional establecidos por el Congreso del Estado (en el Presupuesto de Egresos del Gobierno del Estado). El Comité de Planeación para el Desarrollo del Estado será el encargado de analizar y seleccionar las obras a realizar con los recursos de este fondo.
+(DEROGADO, P.O. 20 DE JULIO DE 2001)
 
 ###### Artículo 20.
 
-El Fondo de Aportaciones Federales para la Infraestructura Social Municipal, se destinará exclusivamente al financiamiento de obras, acciones sociales básicas y a inversiones que beneficien directamente a sectores de población que se encuentren en condiciones de rezago social y de pobreza extrema, en los siguientes rubros: Agua potable, alcantarillado; drenaje y letrinas; urbanización municipal; electrificación rural y de colonias pobres; infraestructura básica de salud; infraestructura básica educativa; mejoramiento de vivienda; caminos rurales e infraestructura productiva rural.
+(DEROGADO, P.O. 20 DE JULIO DE 2001)
 
 ###### Artículo 21.
 
-Los municipios podrán disponer de hasta un 2% del total de recursos del Fondo para la Infraestructura Social Municipal que les correspondan, para la realización de un Programa de Desarrollo Institucional. Este programa será convenido entre el Ejecutivo Federal, a través de la Secretaría de Desarrollo Social, el gobierno estatal y el municipio de que se trate. Adicionalmente el Estado y los Municipios podrán destinar el 3% de los recursos correspondientes en cada caso, para ser aplicados como gastos indirectos a las obras emprendidas con recursos autorizados del fondo III, Fondo de Aportaciones para la Infraestructura Social.
+(DEROGADO, P.O. 20 DE JULIO DE 2001)
 
 ###### Artículo 22.
 
-Respecto de dichas aportaciones para la Infraestructura Social Municipal, los municipios deberán:
-
-I. Hacer del conocimiento de sus habitantes, los montos que reciban, las obras y acciones a realizar, el costo de cada una, su ubicación, metas y beneficiarios;
-
-II. Promover la participación de las comunidades beneficiarias en su destino, aplicación y vigilancia, así como en la programación, ejecución, control, seguimiento y evaluación de las obras y acciones que se vayan a realizar;
-
-III. Informar a sus habitantes, al término de cada ejercicio, sobre los resultados alcanzados;
-
-IV. Proporcionar a la Secretaría de Desarrollo Social, la información que sobre la utilización del Fondo de Aportaciones para la Infraestructura Social les sea requerida; y,
-
-V. Procurar que las obras que se ralicen (sic) con los recursos de los fondos sean compatibles con la preservación del medio ambiente y que impulsen el desarrollo sustentable.
+(DEROGADO, P.O. 20 DE JULIO DE 2001)
 
 ###### Artículo 23.
 
-La distribución de los recursos del Fondo para la Infraestructura Social Municipal, se hará conforme a una fórmula que considere los Índices Municipales de Pobreza asociados a 4 necesidades básicas con respecto al rezago estatal de esas mismas necesidades.
-
-R1 Población ocupada que no percibe ingresos o que estos son hasta de 2 salarios mínimos.
-
-R2 Población que no sabe leer y escribir a partir de los 15 años.
-
-R3 Población que habita en viviendas particulares sin disponibilidad de drenaje conectado a fosa séptica o a la calle.
-
-R4 Población que habita en viviendas particulares sin disponibilidad de electricidad.
-
-La fórmula considerada para la distribución del Fondo para la Infraestructura Social Municipal, es la que a continuación se señala:
-
-IMPi = Ri1B1 + Ri2B2 + Ri3B3 + Ri4B4
-
-Sumándolas y ponderándolas con igual peso cada una de ellas, donde:
-
-IMP Índice Municipal de Pobreza
-
-Ri1...4 Rezago asociado a cada una de las 4 necesidades básicas consideradas por el IMP en el municipio con respecto al rezago estatal de esa misma necesidad.
-
-B1...4 Ponderador cuyo valor es igual a 0.25 en cada uno de los rezagos.
+(DEROGADO, P.O. 20 DE JULIO DE 2001)
 
 ###### Artículo 24.
 
-El Estado enterará mensualmente a sus Municipios, los recursos que les correspondan, conforme al calendario de enteros establecido por la Federación en favor del Estado.
-
-###### Artículo 25.
-
-El Fondo de Aportaciones para el Fortalecimiento de los Municipios se destinará exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de pasivos exigibles contablemente y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes. Los recursos remanentes se destinarán a prioridades determinadas por el Ayuntamiento en su programa anual.
+(DEROGADO, P.O. 20 DE JULIO DE 2001)
 
 ###### Artículo 27.
 
-Respecto de las aportaciones que reciban con cargo al Fondo para el Fortalecimiento de los Municipios tendrán las mismas obligaciones a que se refiere el Artículo 22 de esta Ley.
+(DEROGADO, P.O. 20 DE JULIO DE 2001)
 
 ###### Artículo 26.
 
-El Estado distribuirá los recursos del Fondo de Aportaciones para los Municipios, en proporción directa al número de habitantes con que cuente cada municipio, de acuerdo a la información estadística más reciente que al efecto emita el Instituto Nacional de Estadística, Geografía e Informática.
+(DEROGADO, P.O. 20 DE JULIO DE 2001)
+
+###### Artículo 27.
+
+(DEROGADO, P.O. 20 DE JULIO DE 2001)
 
 ###### Artículo 28.
 
-El Fondo de Aportaciones Múltiples se destinará exclusivamente al otorgamiento de desayunos escolares, apoyos alimentarios y de asistencia social a la población en condiciones de pobreza extrema, apoyos a la población en desamparo; así como a la construcción, equipamiento y rehabilitación de infraestructura física de los niveles de educación básica y superior en su modalidad universitaria.
+(DEROGADO, P.O. 20 DE JULIO DE 2001)
 
 ###### Artículo 28 Bis-I.
 
-Con cargo al fondo de aportaciones para la educación tecnológica, el Estado recibirá los recursos económicos complementarios para prestar los servicios de educación tecnológica y de educación para adultos, cuya operación asuman de conformidad con los convenios de coordinación suscritos con el Ejecutivo Federal, para la transferencia de recursos humanos, materiales y financieros necesarios para la prestación de dichos servicios.
+(DEROGADO, P.O. 20 DE JULIO DE 2001)
 
 ###### Artículo 28 Bis
 
-II. Con cargo al fondo de aportaciones para la seguridad pública que reciba el Estado se destinará exclusivamente al reclutamiento, selección, depuración, evaluación y formación de los recursos humanos vinculados con tareas de seguridad pública; a complementar las dotaciones de los Agentes del Ministerio Público, los Policías Judiciales o sus equivalentes y los peritos de las (sic) Procuraduría de Justicia del Estado, al equipamiento de Policías preventivas y judiciales o sus equivalentes, de los Peritos, de los Ministerios Públicos y Custodios de centros penitenciarios y de menores infractores; al establecimiento y operación de la Red Nacional de Telecomunicaciones e Informática y Operación de la Red Nacional de Telecomunicaciones e Informática para la Seguridad Pública; a la construcción, mejoramiento o ampliación de las instalaciones para la procuración e impartición de justicia, de los centros de readaptación social y de menores infractores, así como de las instalaciones de los cuerpos de seguridad pública y sus centros de capacitación.
+II. (DEROGADO, P.O. 20 DE JULIO DE 2001)
 
-Los recursos para complementar las dotaciones de los Agentes del Ministerio Público, los Policías Judiciales o sus equivalentes y los Peritos de la Procuraduría de Justicia del Estado, tendrán el carácter de no regularizables para los presupuestos de egresos de la Federación de ejercicios subsecuentes y las responsabilidades laborales que deriven de tales recursos estarán a cargo del gobierno del Estado.
-
-Dichos recursos deberán aplicarse de conformidad con los acuerdos, resoluciones y convenios que al respecto emita o suscriba el Consejo Nacional de Seguridad Pública, en el marco de la Ley que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
-
-El Estado proporcionará al Ejecutivo Federal, por conducto de la Secretaría de Gobernación, la información financiera, operativa y estadística que le sea requerida.
+REFORMADO, P.O. 20 DE JULIO DE 2001)
 
 ###### Artículo 29.
 
-El Fondo de Aportaciones Estatales para el Desarrollo Económico se integrará con el 1.5% del Presupuesto de Egresos del Estado, se distribuirá entre los municipios y se destinará al fomento de actividades agrícolas y artesanales, en la forma y proporción que apruebe el Congreso del Estado.
+Se instituye el Fondo de Aportaciones Estatales para el Desarrollo Económico de los Municipios que se determinará aplicando el 1.5 % al monto total que resulte de la suma de los ingresos propios, participaciones federales e ingresos coordinados señalados en la Ley de Ingresos para el Gobierno del Estado de Morelos, que se distribuirá entre los Municipios con base a los coeficientes de participación que a continuación se indican:
+
+(VEASE ARCHIVO ANEXO)
+
+Los recursos de este fondo que reciban los Municipios se destinarán única y exclusivamente al fomento de actividades agropecuarias y artesanales, en la proporción y conforme a los programas aprobados por el Ayuntamiento, no se podrá utilizar para gasto corriente; su ingreso y su aplicación en el gasto se registrarán en la Cuenta Pública Municipal.
+
+La distribución por Municipio se incluirá en el Presupuesto de Egresos del Gobierno del Estado para cada ejercicio fiscal.
 
 ### CAPÍTULO V. DE LA COORDINACIÓN EN MATERIA DE DEUDA PÚBLICA
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
+
 ###### Artículo 30.
 
-El Estado y los Ayuntamientos elaborarán conjuntamente el Programa Anual de Financiamiento para los Municipios en aquellos casos en que el Estado asuma obligaciones contingentes u otorgue garantías al municipio y el Programa Anual de Financiamiento para el Estado, en el caso de que dicho financiamiento se destine a la realización de obras o inversiones en los municipios, de acuerdo a las disposiciones de la Ley de Deuda Pública del Estado.
+La Secretaría de Hacienda del Poder Ejecutivo y los Ayuntamientos elaborarán conjuntamente el Programa Financiero Anual en aquellos casos en que el Gobierno del Estado asuma obligaciones contingentes u otorgue garantías al Municipio.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
 
 ###### Artículo 31.
 
-De manera coordinada, se establecerán los mecanismos que faciliten el otorgamiento de garantías para la contratación de créditos y se establecerán las bases para garantizar que dichos financiamientos estén acorde (sic) con su capacidad de pago.
+La Secretaría de Hacienda del Estado, de manera coordinada será la encargada de conformidad con el artículo 20 de la Ley de Deuda Pública para el Estado de Morelos, de llevar el control y registro de todas las operaciones y obligaciones derivadas de la contratación de empréstitos y endeudamientos.
 
 ### CAPÍTULO VI. DEL PATRIMONIO
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
+
 ###### Artículo 32.
 
-El Estado y los Municipios, o éstos entre sí, podrán celebrar convenios de coordinación sobre su patrimonio, principalmente con relación a los bienes destinados a un servicio público que presten en conjunto y exista convenio de coordinación o de colaboración administrativa en materia de dicho servicio.
+El Gobierno del Estado y los Municipios, o éstos entre sí, podrán celebrar convenios de coordinación sobre su patrimonio, principalmente con relación a los bienes destinados a un servicio público que presten en conjunto y exista convenio de coordinación o de colaboración administrativa en materia de dicho servicio.
 
 ### CAPÍTULO VII. DE LOS ORGANISMOS EN MATERIA DE COORDINACIÓN HACENDARIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 2001)</small>
+
 ###### Artículo 33.
 
-El gobierno estatal, por conducto de la Secretaría de Hacienda, y los ayuntamientos, por medio (sic) su tesorero o del funcionario que designen, participarán en el desarrollo, vigilancia y perfeccionamiento del Sistema de Coordinación Hacendaria del Estado, a través de:
+El Poder Ejecutivo, por conducto de la Secretaría de Hacienda, el Congreso a través del Diputado Presidente de la Comisión de Hacienda, Presupuesto y Cuenta Pública y los Ayuntamientos, por medio de su Presidente Municipal o el funcionario designado, participarán en el Sistema de Coordinación Hacendaria del Estado, a través de:
 
 I. La Asamblea Estatal de Funcionarios Hacendarios;
 
@@ -381,19 +391,25 @@ II. La Comisión Permanente Estatal de Funcionarios Hacendarios; y
 
 III. El Instituto de Finanzas Públicas y Federalismo Hacendario.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
+
 ###### Artículo 34.
 
-La Asamblea Estatal de Funcionarios Hacendarios se integrará por el Secretario de Hacienda y por el Tesorero o funcionario designado por cada Ayuntamiento. Será presidida conjuntamente por el Secretario de Hacienda, el Presidente de la Comisión Permanente Estatal de Funcionarios Hacendarios y el funcionario de mayor jerarquía presente en la Asamblea del municipio en que ésta se lleve a cabo.
+La Asamblea Estatal de Funcionarios Hacendarios se integrará por el Secretario de Hacienda, por el Presidente Municipal o el funcionario designado por cada Ayuntamiento y por el Diputado Presidente de la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso, será presidida por el Secretario de Hacienda y por el funcionario municipal de mayor jerarquía presente en la Asamblea del Municipio en que ésta se lleve a cabo.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
 
 ###### Artículo 35.
 
-La Asamblea Estatal de Funcionarios Hacendarios sesionará cuando menos una vez al año en el lugar del territorio estatal que elijan sus integrantes. Será convocada por el Secretario de Hacienda o por la Comisión Permanente Estatal de Funcionarios Hacendarios, por lo menos con un mes de anticipación. En la convocatoria se señalarán los asuntos a tratar en la Asamblea.
+La Asamblea Estatal de Funcionarios Hacendarios sesionará cuando menos una vez al año en el lugar del territorio estatal que elijan sus integrantes. Será convocada por el Secretario de Hacienda o por el presidente de la Comisión Permanente Estatal de Funcionarios Hacendarios, por lo menos con un mes de anticipación y podrá celebrarse con la asistencia de por lo menos la mitad mas uno de sus integrantes. En la convocatoria se señalarán los asuntos a tratar en la Asamblea, que serán resueltos por la mayoría de votos de los asistentes.
 
 ###### Artículo 36.
 
 Son facultades de la Asamblea Estatal de Funcionarios Hacendarios:
 
-I. Proponer las medidas que estime convenientes para mejorar el Sistema de Coordinación Hacendaria del Estado y el Sistema Nacional de Coordinación Fiscal.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2001)</small>
+
+I .Establecer las medidas que estime convenientes para mejorar el sistema de Coordinación Hacendaria del Estado y proponer las que considere convenientes para mejorar el Sistema Nacional de Coordinación Fiscal;
 
 II. Vigilar la distribución y liquidación de las cantidades que correspondan a los municipios, por concepto de participaciones y aportaciones tanto federales como estatales.
 
@@ -401,27 +417,47 @@ III. Vigilar el cumplimiento de los convenios de coordinación hacendaria y cola
 
 IV. Designar comisiones para estudio y desahogo de asuntos específicos que así lo requieran.
 
-V. Revisar y aprobar los factores, indicadores, fórmulas y coeficientes utilizados para determinar la distribución de participaciones estatales y federales a los municipios.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2001)</small>
 
-VI. Aprobar los reglamentos de funcionamiento de la propia Asamblea Estatal, de la Comisión Permanente y de cualquier órgano que en esta materia pudiera crearse; y
+V. Proponer factores, indicadores, fórmulas y coeficientes aplicables para determinar la distribución de participaciones y aportaciones estatales y federales a los Municipios;
 
-VII. Establecer, en su caso, las aportaciones ordinarias y extraordinarias que deban cubrir el estado y los municipios para el sostenimiento de los órganos citados en la fracción anterior.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2001)</small>
+
+VI. Aprobar el Reglamento General del Sistema de Coordinación Hacendaria del Estado y el reglamento interior de la propia Asamblea Estatal de Funcionarios Hacendarios;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2001)</small>
+
+VII. Establecer, en su caso, las aportaciones ordinarias y extraordinarias que deban cubrir el Gobierno del Estado y los Municipios para el sostenimiento de los órganos citados en la fracción anterior; y
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2001)</small>
+
+VIII. Designar y remover al Director General del Instituto de Finanzas Públicas y Federalismo Hacendario.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2001)</small>
+
+Para el Ejercicio de sus facultades, la Asamblea Estatal de Funcionarios Hacendarios, se apoyará en la Comisión Permanente Estatal de Funcionarios Hacendarios y en el Instituto de Finanzas Públicas y Federalismo Hacendario.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
 
 ###### Artículo 37.
 
-La Comisión Permanente Estatal de Funcionarios Hacendarios se integrará por el Poder Ejecutivo Estatal, representado por la Secretaría de Hacienda; el Poder Legislativo, representado por el Presidente de la Comisión de Hacienda, Presupuesto y Cuenta Pública; y por los municipios del estado.
+La Comisión Permanente Estatal de Funcionarios Hacendarios se integrará por el Poder Ejecutivo representado por la Secretaría de Hacienda; el Poder Legislativo, representado por el Diputado Presidente de la Comisión de Hacienda, Presupuesto y Cuenta Pública; y por once representantes de los Municipios del Estado.
 
-I. Será presidida conjuntamente por el Secretario de Hacienda del estado, y por el titular del órgano hacendario que elija la Asamblea Estatal entre sus miembros. En esta elección no participará la Secretaría de Hacienda.
+I. Será presidida por el representante de un Municipio elegido por mayoría de votos de sus demás miembros. En esta elección no participarán los representantes de los Poderes Ejecutivo y Legislativo;
 
-II. Los municipios estarán representados en la Comisión Permanente, por los Tesoreros Municipales o funcionarios designados que para el efecto se elijan.
+II. Los representantes de los Municipios ante la Comisión Permanente Estatal de Funcionarios Hacendarios, serán elegidos uno por cada tres Municipios, en la forma que defina la Asamblea General.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
 
 ###### Artículo 38.
 
-Los municipios miembros de la Comisión Permanente durarán en su encargo un año, o por un período mayor si son reelegidos por los municipios del grupo representado.
+Los representantes de los Municipios miembros de la Comisión Permanente durarán en su encargo un año, y podrán ser reelectos por otro plazo igual.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
 
 ###### Artículo 39.
 
-La Comisión Permanente Estatal de Funcionarios Hacendarios sesionará en la capital del estado cuando menos cada dos meses. Será convocada por el Secretario de Hacienda o por cuatro de los miembros propietarios de la misma Comisión, por lo menos con quince días de anticipación. En la convocatoria se señalarán los asuntos que deban tratarse en la reunión y se especificará el domicilio, fecha y horario en que habrá de llevarse a cabo la misma.
+La Comisión Permanente Estatal de Funcionarios Hacendarios sesionará en la capital del Estado cuando menos cada dos meses. Será convocada por su presidente o por un mínimo de cuatro miembros propietarios de la misma Comisión, por lo menos con quince días de anticipación y podrá celebrarse con la asistencia de por lo menos la mitad más uno de sus integrantes. En la convocatoria se señalarán el domicilio, fecha y horario en que habrá de llevarse a cabo la reunión y los asuntos que deban tratarse en ella, los que se aprobarán con la mayoría de votos de los asistentes.
 
 ###### Artículo 40.
 
@@ -431,15 +467,39 @@ I. Preparar la Asamblea Estatal de Funcionarios Hacendarios y definir los asunto
 
 II. Preparar los proyectos de contribuciones económicas que deban cubrir el estado y los municipios para el sostenimiento de los órganos de coordinación, los cuales someterá a la aprobación de la Asamblea Estatal de Funcionarios Hacendarios;
 
-III. Vigilar la creación e incremento de los fondos de participaciones y aportaciones señalados en esta Ley, proponer las bases para su distribución entre los municipios y supervisar las liquidaciones que de dichos fondos formule la Secretaría de Hacienda;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2001)</small>
 
-IV. Formular dictámenes técnicos en todo lo relativo al Sistema de Coordinación Hacendaria entre el estado y los municipios;
+III. Proponer la creación e incremento de los fondos de participaciones y aportaciones señalados en esta Ley, las bases para su distribución entre los Municipios y a solicitud expresa de ellos, auxiliarles en la revisión de las liquidaciones que de dichos fondos les efectúe la Secretaría de Hacienda;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2001)</small>
+
+IV. Revisar los informes técnicos que formule el Instituto de Finanzas Públicas y Federalismo Hacendario relativos al Sistema de Coordinación Hacendaria;
 
 V. Realizar estudios y propuestas relativos al Sistema Nacional de Coordinación Fiscal y al Estatal de Coordinación Hacendaria, a través del Instituto de Finanzas Públicas y Federalismo Hacendario;
 
 VI. Sugerir medidas encaminadas a coordinar la acción impositiva estatal y municipal, para lograr la más equitativa distribución de los ingresos; y
 
-VII. Las demás que le otorgue la Asamblea Estatal de Funcionarios Hacendarios.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2001)</small>
+
+VII. Aprobar los programas y presupuestos del Instituto de Finanzas Públicas y Federalismo Hacendario y remitirlos al Ejecutivo para su consideración respectiva en el proyecto de Presupuesto Anual del Gobierno del Estado.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2001)</small>
+
+VIII. Aprobar la estructura orgánica y la designación de los directores de área del Instituto de Finanzas Públicas y Federalismo Hacendario;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2001)</small>
+
+IX. Aprobar su propio reglamento interior y el del Instituto de Finanzas Públicas y Federalismo Hacendario.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2001)</small>
+
+X.- Emitir resoluciones en los casos de las inconformidades presentadas con motivo del incumplimiento de esta Ley y de los convenios de coordinación o de colaboración que se celebren al amparo de la misma.
+
+XI. Las demás que le otorgue la Asamblea Estatal de Funcionarios Hacendarios.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2001)</small>
+
+Para el ejercicio de sus facultades, la Comisión Permanente Estatal de Funcionarios Hacendarios se apoyará en el Instituto de Finanzas Públicas y Federalismo Hacendario.
 
 ###### Artículo 41.
 
@@ -449,37 +509,71 @@ I. Realizar estudios relativos al Sistema Nacional y Estatal de Coordinación Ha
 
 II. Hacer estudios y propuestas permanentes sobre el manejo de las finanzas públicas como instrumento para el desarrollo estatal y municipal.
 
-III. Hacer estudios permanentes de la legislación tributaria vigente en la federación y en la entidad, así como de las respectivas administraciones.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2001)</small>
 
-IV. Desempeñar las funciones de secretaría técnica de la Asamblea Estatal de Funcionarios Hacendarios y de la Comisión Permanente Estatal de Funcionarios Hacendarios.
+III. Hacer estudios permanentes de la legislación y los sistemas hacendarios de la Federación, los Estados y los Municipios;
 
-V. Actuar como consultor técnico de las haciendas públicas estatal y municipales. Responsabilizándose del Registro Único de Convenios Hacendarios
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2001)</small>
 
-VI. Capacitar técnicos y funcionarios hacendarios.
+IV. Desempeñar las funciones de secretaría técnica de la Asamblea Estatal de Funcionarios Hacendarios y de la Comisión Permanente Estatal de Funcionarios Hacendarios y apoyar a las dos instancias en el ejercicio de sus facultades;
 
-VII. Desarrollar los programas que apruebe la Asamblea Estatal de Funcionarios Hacendarios.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2001)</small>
+
+V. Actuar como consultor técnico de las haciendas públicas estatal y municipales;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2001)</small>
+
+VI. Operar el Registro Único de Convenios Hacendarios;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2001)</small>
+
+VII. Capacitar técnicos y funcionarios hacendarios;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2001)</small>
+
+VIII. Desarrollar los programas que apruebe la Comisión Permanente Estatal de Funcionarios Hacendarios;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2001)</small>
+
+IX. Desarrollar el procedimiento administrativo correspondiente a las inconformidades que en materia hacendaria presenten el Gobierno del Estado o los Ayuntamientos, conforme a lo establecido en el Capítulo VIII de esta Ley y poner los asuntos en punto de resolución a la Comisión Permanente Estatal de Funcionarios Hacendarios; y
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2001)</small>
+
+X. Las demás que le encomienden la Asamblea Estatal de Funcionarios Hacendarios y la Comisión Permanente Estatal de Funcionarios Hacendarios.
 
 ###### Artículo 42.
 
 El Instituto estará integrado por:
 
-I. Un director general, que tendrá la representación del mismo.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2001)</small>
 
-II. La Asamblea General de Funcionarios Hacendarios, fungirá a su vez, como Asamblea General del Instituto, y será la responsable de aprobar sus estatutos, reglamentos, programas y presupuesto.
+I. La Asamblea General, que estará integrada por la Asamblea Estatal de Funcionarios Hacendarios;
 
-III. La Comisión Permanente fungirá como Consejo Directivo y tendrá las facultades que señalen los estatutos.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2001)</small>
+
+II. El Consejo Directivo, que estará integrado por la Comisión Permanente Estatal de Funcionarios Hacendarios; y
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2001)</small>
+
+III. Un Director General, que será su apoderado general y tendrá la representación del mismo, con las facultades que otorga el Código Civil para el Estado Libre y Soberano de Morelos.
 
 ### CAPITULO VIII. DE LAS INCONFORMIDADES
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
+
 ###### Artículo 43.
 
-Cuando el Estado o el Municipio considere que alguna de las partes ha incurrido en violaciones al contenido de la presente Ley o a los compromisos derivados de los convenios celebrados de conformidad con la misma, podrá presentar su inconformidad ante la Asamblea Estatal de Funcionarios Hacendarios, en un plazo de diez días hábiles contados a partir de la fecha en que se tenga conocimiento del hecho que motiva la inconformidad.
+Cuando el Poder Ejecutivo a través de la Secretaría de Hacienda o algún Ayuntamiento considere que alguna de las partes ha incurrido en violaciones al contenido de la presente Ley o a los compromisos derivados de los convenios celebrados de conformidad con la misma, podrán presentar su inconformidad ante la Comisión Permanente Estatal de Funcionarios Hacendarios a través del Instituto de Finanzas Públicas y Federalismo Hacendario, en un plazo de diez días hábiles contados a partir de la fecha en que se tenga conocimiento del hecho que motiva la inconformidad.
 
-Al escrito de interposición de la inconformidad se adjuntarán las pruebas documentales en que se apoye su derecho y acredite la violación y se turnará a la Comisión Permanente Estatal de Funcionarios Hacendarios.
+Al escrito de interposición de la inconformidad se adjuntarán las pruebas documentales en que se apoye su derecho y acredite la violación.
+
+El Instituto de Finanzas Públicas y Federalismo Hacendario, en un plazo de 20 días hábiles, realizará el análisis de la inconformidad y de las pruebas adjuntas a ella en atención a las reglas de valoración establecidas en el Código Fiscal del Estado de Morelos, emitiendo un informe en el que exprese su opinión sobre el particular a la Comisión Permanente Estatal de Funcionarios Hacendarios.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
 
 ###### Artículo 44.
 
-La Comisión permanente Estatal de Funcionarios Hacendarios realizará el análisis de la inconformidad y de las pruebas adjuntas a ella, en atención a las reglas de valoración establecidas en el Código Fiscal del Estado de Morelos, en un plazo de 20 días hábiles, anexando un informe en el que exprese su opinión sobre el particular a la Asamblea Estatal de Funcionarios Hacendarios para su conocimiento y enviará copia del mismo y del escrito de inconformidad a los representantes de las partes, para que en un plazo de 30 días hábiles manifiesten lo que a su interés convenga y aporten las pruebas que estime pertinentes.
+La Comisión Permanente Estatal de Funcionarios Hacendarios, realizará el análisis del informe que presente el Instituto y en un plazo de 20 días hábiles, presentará su opinión por escrito a la Asamblea Estatal de Funcionarios Hacendairos para su conocimiento y enviará copia del mismo y del escrito de inconformidad a los representantes de las partes, para que en un plazo de 30 días hábiles manifiesten lo que a su interés convenga y aporten las pruebas que estime pertinente.
 
 ###### Artículo 45.
 
@@ -536,3 +630,29 @@ SECRETARIO GENERAL DE GOBIERNO.
 VÍCTOR MANUEL SAUCEDO PERDOMO.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE JULIO DE 2001.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para los efectos a que se refieren los artículos 44 y 70 fracción 17 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado Morelos.
+
+TERCERO.- La Secretaría de Hacienda deberá convocar a los Ayuntamientos de la entidad a sesión constitutiva del Sistema de Coordinación Hacendaría del Estado de Morelos y de los organismos que lo integran, que se deberá llevar a cabo en un plazo no mayor de 8 días a partir de la fecha en que sea publicado el presente Decreto. Dicha sesión se llevará a cabo con la asistencia de representantes de por lo menos dieciocho Ayuntamientos; participarán con voz y voto el representante de cada Ayuntamiento, el representante de la Secretaría de Hacienda y el representante del Congreso del Estado, los participantes acreditarán su representación.
+
+CUARTO.- Los asuntos que se traten en la sesión constitutiva, se resolverán con el voto del cincuenta por ciento más uno de los asistentes, en caso de empate el representante de la Secretaría de Hacienda tendrá voto de calidad. En la sesión deberán desahogarse los siguientes puntos:
+
+1.- Constitución de la Asamblea Estatal de Funcionarios Hacendarios.
+
+2.- Presentación de propuestas y aprobación, del Reglamento General para el Sistema Estatal de Coordinación Hacendaria.
+
+3.- Integración de la Comisión Permanente Estatal de Funcionarios Hacendarios.
+
+4.- Nombramiento del Director General del Instituto de Finanzas Públicas y Federalismo Hacendario.
+
+QUINTO.- En la sesión constitutiva se convocará a una reunión extraordinaria del Consejo Directivo que se llevará a cabo en un plazo no mayor de quince días posteriores, en la que se presentará y en su caso se aprobará la calendarización y aplicación del presupuesto anual y la estructura orgánica del Instituto de Finanzas Públicas y Federalismo Hacendario y se llevará a cabo la designación de los demás funcionarios cuyos cargos requieran la aprobación de ese órgano directivo del Instituto, conforme al Reglamento General del Sistema.
+
+SEXTO.- A través de su presidencia, la Asamblea Estatal de Funcionarios Hacendarios solicitará al Titular del Poder Ejecutivo disponer de lo necesario para que de inmediato y conforme al calendario aprobado se liberen, al Instituto de Finanzas Públicas y Federalismo Hacendario, los recursos necesarios para su equipamiento y funcionamiento. Los recursos deberán liberarse al representante del Instituto, quien dispondrá lo necesario para el buen uso de los recursos, apegándose a las normas aplicables en su ejecución.
+
+SEPTIMO.- En un plazo que no excederá de 90 días naturales a partir de la publicación de este Decreto, se deberán expedir los Reglamentos Interiores de la Comisión Permanente Estatal de Funcionarios Hacendarios y del Instituto de Finanzas Públicas y Federalismo Hacendario.
