@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-universidad-autonoma-de-chihuahua-4764"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1987-01-07"
-last_updated: "1987-01-07"
+last_updated: "1988-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1988.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 7 de enero de 1987.
 
@@ -657,17 +657,23 @@ Los nombramientos de los funcionarios y empleados de confianza quedarán sin efe
 
 En la Universidad no podrá desempeñar una persona varios empleos por los que disfrute sueldo, salvo el personal académico que preste sus servicios en dos o más planteles, siempre que la suma de horas clase no exceda al máximo designado a los maestros de tiempo completo.
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 65.
 
-El Rector, Secretario General, Directores de Areas, Directores y Secretarios de las Facultades, Ecuelas (sic) e Institutos y académicos de tiempo completo, no podrán desempeñar cargo alguno fuera de la Universidad.
+El Rector, Secretario General, Directores de Areas, Directores y Secretarios de las Facultades, Escuelas e Institutos y Académicos de tiempo completo, no podrán desempeñar función pública alguna fuera de la Universidad o ser dirigentes de Partidos Políticos.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 66.
 
-El Rector, Secretario General y los Directores de Facultades, Escuelas e Institutos no podrán ejercer su profesión durante el tiempo de su encargo.
+El Rector, Secretario General, Directores de Areas, Directores y Secretarios de las Facultades, Escuelas e Institutos y académicos de tiempo completo, no podrán durante el tiempo de su encargo, por sí o por interpósita persona, cobrar honorarios en el ejercicio de su profesión, en asuntos relacionados con la Universidad.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 67.
 
-Los académicos de tiempo completo están impedidos para ocupar otra plaza similar en instituciones educativas federales, estatales o municipales.
+Los académicos de tiempo completo que cuenten con otra plaza en instituciones educativas federales, estatales o municipales, públicas o privadas, estarán obligados a cumplir con la carga académica que su rango les impone.
 
 ### CAPITULO IV. DE LOS ALUMNOS
 
@@ -791,9 +797,11 @@ La sanción será impuesta por la autoridad universitaria competente mediante un
 
 El Patrimonio de la Universidad se integra con todos los bienes muebles e inmuebles que sean actualmente de su propiedad y los que en el futuro adquiera por cualquier título, así como por todo ingreso que perciba, destinado al cumplimiento de su objeto.
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 80.
 
-Los bienes que integran el Patrimonio de la Universidad son imprescriptibles e inembargables. Los inmuebles además, son inalienables, salvo que el Consejo Universitario, por votación de las dos terceras partes de la totalidad de sus miembros, solicite y obtenga la aprobación del Ejecutivo y la autorización del Congreso del Estado para su gravamen o enajenación.
+Los bienes que integran el patrimonio de la Universidad, son imprescriptibles e inembargables. Los inmuebles destinados directa e inmediatamente al objeto de la Institución son además inalienables, salvo que el Consejo Universitario, por votación de las dos terceras partes de la totalidad de sus miembros, solicite y obtenga la aprobación del Ejecutivo y la autorización del H. Congreso del Estado, para su gravamen o enajenación.
 
 ###### ARTICULO 81.
 
@@ -846,3 +854,11 @@ LIC. FERNANDO BAEZA MELENDEZ
 EL SECRETARIO DE GOBIERNO
 
 LIC. MARTHA LARA ALATORRE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE ENERO DE 1988.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se autoriza a la Universidad Autónoma de Chihuahua a enajenar los inmuebles sorteados por su Patronato con anterioridad a la vigencia de este Decreto, en favor de las personas que resultaron agraciadas.
