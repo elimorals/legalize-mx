@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1996-12-26"
+last_updated: "1998-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1998.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -234,11 +234,11 @@ DE LOS PODERES PUBLICOS.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1993)</small>
 
-### CAPITULO I.
+### CAPITULO II.
 
-DE LA ELECCION Y CALIDAD DE LOS DIPUTADOS.
+INSTITUCIONES Y PROCESOS ELECTORALES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ###### Artículo 20.
 
@@ -254,11 +254,13 @@ No podrán reunirse dos o más poderes en una sola persona o corporación, ni en
 
 Los Poderes Públicos residirán en la Ciudad de Cuernavaca; pero por causas graves podrán translardarse (sic) temporalmente a otro lugar.
 
-### CAPITULO II.
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 1993)</small>
 
-DE LA INSTALACION DEL CONGRESO Y DE LOS PERIODOS DE SUS SESIONES.
+### CAPITULO I.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+DE LA ELECCION Y CALIDAD DE LOS DIPUTADOS.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ###### Artículo 23.
 
@@ -318,21 +320,19 @@ En ningún caso, los Magistrados del Tribunal Estatal Electoral podrán desempe�
 
 VIII. Quienes hubieren ejercido los cargos de Magistrados del Tribunal Estatal Electoral, Consejero Presidente y Consejeros Estatales Electorales y personal directivo del Instituto Estatal Electoral, estarán impedidos para ocupar puestos de elección popular en el siguiente proceso electoral.
 
-### CAPITULO III.
+### CAPITULO II.
 
-DE LAS FACULTADES DEL CONGRESO.
+DE LA INSTALACION DEL CONGRESO Y DE LOS PERIODOS DE SUS SESIONES.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ## TITULO TERCERO.
 
 DEL PODER LEGISLATIVO.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+### CAPITULO III.
 
-### CAPITULO IV.
-
-DE LA INICIATIVA Y FORMACION DE LAS LEYES.
-
-(REFORMADO, P.O. 4 DE AGOSTO DE 1965) (F. DE E., P.O. 11 DE AGOSTO DE 1965)
+DE LAS FACULTADES DEL CONGRESO.
 
 ###### Artículo 24.
 
@@ -424,11 +424,11 @@ Nadie puede excusarse de servir el cargo de Diputado, sino por causa bastante ca
 
 El cargo de Diputado es incompatible con cualquier otro de la Federación, del Estado o de los Municipios, con sueldo o sin él; pero el Congreso podrá dar licencia a sus miembros para desempeñar el empleo o comisión para que hayan sido nombrados, llamando a los suplentes. Se exceptúan de está prohibición los empleos o comisiones de educación y beneficencia públicas.
 
-### CAPITULO V.
+### CAPITULO IV.
 
-DE LA DIPUTACION PERMANENTE.
+DE LA INICIATIVA Y FORMACION DE LAS LEYES.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1989)</small>
+(REFORMADO, P.O. 4 DE AGOSTO DE 1965) (F. DE E., P.O. 11 DE AGOSTO DE 1965)
 
 ###### Artículo 30.
 
@@ -504,9 +504,11 @@ El Congreso expedirá la ley que en lo sucesivo regulará su estructura y funcio
 
 Cuando al llegar el día en que deba cerrarse alguno de los períodos de sesiones, el Congreso estuviere funcionando como Gran Jurado, prorrogará aquéllas hasta pronunciar su veredicto, sin ocuparse, entretanto, de ningún otro asunto.
 
-### CAPITULO I.
+### CAPITULO V.
 
-DEL GOBERNADOR.
+DE LA DIPUTACION PERMANENTE.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1989)</small>
 
 ###### Artículo 40.
 
@@ -648,9 +650,9 @@ XXV.- Excitar a los Poderes de la Federación para que presten protección al Es
 
 XXVI.- Nombrar y remover a los trabajadores al servicio del Poder Legislativo con arreglo a las leyes a que se refiere la fracción XX.
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
 
-XXVII.- Recibir de los Diputados, Gobernador, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Estatal Electoral, Magistrados del Tribunal de lo Contencioso Administrativo y Contador Mayor de Hacienda, la protesta a que se refiere el artículo 133 de esta Constitución.
+XXVII.- Recibir de los Diputados, Gobernador, Procurador General de Justicia, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Estatal Electoral, Magistrados del Tribunal de lo Contencioso Administrativo y Contador Mayor de Hacienda, la protesta a que se refiere el artículo 133 de esta Constitución.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 1986)</small>
 
@@ -672,15 +674,13 @@ XXX.- Conceder licencias para separarse de sus respectivos cargos a los empleado
 
 XXXI.- Conceder o negar licencia al Gobernador del Estado para salir del territorio del mismo o para separarse de sus funciones, siempre que la ausencia o separación sea por más de 30 días.
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
 
-XXXII.- Admitir la renuncia de sus cargos a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo y del Consejero Presidente y Consejeros Estatales Electorales del Instituto Estatal Electoral.
+XXXII.- Admitir la renuncia de sus cargos a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo, del Consejero Presidente y Consejeros Estatales Electorales del Instituto Estatal Electoral y del Procurador General de Justicia.
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
 
-XXXIII.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia y a los del Tribunal Estatal Electoral, siempre que la duración de ellas exceda de treinta días.
-
-En el caso del Tribunal Superior de Justicia, ninguna licencia podrá exceder del término de dos años.
+XXXIII.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral y al Procurador General de Justicia, siempre que su duración exceda de 30 días.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -692,9 +692,9 @@ XXXV.- (DEROGADA, P.O. 30 DE OCTUBRE DE 1996)
 
 XXXVI.- Nombrar Gobernador interino o Substituto en los casos que determina esta Constitución.
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
 
-XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal Estatal Electoral, de entre la terna que someta a su consideración el Consejo de la Judicatura Estatal; a los Magistrados del Tribunal de lo Contencioso Administrativo del Estado, así como al Consejero Presidente y Consejeros Electorales del Consejo Estatal Electoral.
+XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal Estatal Electoral, de entre la terna que someta a su consideración el Consejo de la Judicatura Estatal; a los Magistrados del Tribunal de lo Contencioso Administrativo del Estado; al Consejero Presidente y Consejeros Electorales del Consejo Estatal Electoral, así como al Procurador General de Justicia del Estado, este último de entre la terna de ciudadanos que someta a su consideración el Ejecutivo del Estado y por el voto aprobatorio de las dos terceras partes de los integrantes de la Legislatura.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -750,11 +750,15 @@ LI.- Expedir la Ley que instituya el tribunal de lo Contencioso-Administrativo d
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
 
-LII.- Expedir el bando solemne para dar a conocer en todo el Estado, la declaración de Gobernador electo que hubiere hecho el Instituto Estatal Electoral o el Tribunal Estatal Electoral, en su caso;
+LII.- Expedir el bando solemne para dar a conocer en todo el Estado, la declaración de Gobernador electo que hubiere hecho el Instituto Estatal Electoral o el Tribunal Estatal Electoral, en su caso.
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1998)</small>
+
+LIII.- Aprobar por mayoría simple de los integrantes de la Legislatura, la solicitud de remoción del Procurador General de Justicia que presente el Titular del Poder Ejecutivo del Estado.
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
 
-LIII.- Las demás que expresamente le confiera esta Constitución.
+LIV.- Las demás que expresamente le confiera esta Constitución.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -792,11 +796,9 @@ IV.- Acordará la revocación del mandato a alguno de los integrantes del Ayunta
 
 En caso de declararse desaparecido algún Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros cuando no procediere que entraren en funciones los Suplentes ni que se celebrasen nuevas elecciones, el Congreso del Estado designará entre los vecinos a los Consejos Municipales que concluirán los períodos respectivos. Cuando el Congreso se encuentre en receso, la Diputación Permanente lo convocará a fin de verificar que se han cumplido las condiciones establecidas por esta Constitución.
 
-### CAPITULO II.
+### CAPITULO I.
 
-DE LAS FACULTADES, OBLIGACIONES Y RESTRICCIONES DEL GOBERNADOR.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+DEL GOBERNADOR.
 
 ###### Artículo 42.
 
@@ -862,11 +864,11 @@ El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Cong
 
 Tampoco podrá hacerlas al Decreto de Convocatoria que expida la Diputación Permanente, en los casos del Artículo 66 de esta Constitución.
 
-### CAPITULO III.
+### CAPITULO II.
 
-DE LOS SECRETARIOS.
+DE LAS FACULTADES, OBLIGACIONES Y RESTRICCIONES DEL GOBERNADOR.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
 
 ###### Artículo 53.
 
@@ -916,9 +918,11 @@ VII.- Conceder licencia a alguno o algunos de sus miembros para separarse de su 
 
 VIII.- Recibir los testimonios de las actas de elecciones de Diputados y de Gobernador del Estado, para entregarlos al Congreso, en sus respectivos casos.
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
 
-IX.- Ejercer durante los recesos del Congreso las facultades a que se refieren las fracciones XXVII, XXX, XXXII, XXXIII, XXXIV, XXXVI, XXXVII, XLV y LII del artículo 40 de esta Constitución;
+IX.- Ejercer durante los recesos del Congreso las facultades a que se refieren las fracciones XXVII, XXX, XXXII, XXXIII, XXXIV, XXXVI, XXXVII, XLV y LII del artículo 40 de esta Constitución.
+
+Para el caso particular de la atribución a que se refiere la fracción XXXVII del artículo 40 antes citado, quedará exceptuada como atribución de la Diputación Permanente la designación del Procurador General de Justicia.
 
 X.- Las demás que le confiere expresamente esta misma Constitución.
 
@@ -926,11 +930,11 @@ X.- Las demás que le confiere expresamente esta misma Constitución.
 
 DEL PODER EJECUTIVO.
 
-### CAPITULO IV.
+### CAPITULO III.
 
-DE LA PROCURADURIA GENERAL DE JUSTICIA.
+DE LOS SECRETARIOS Y DEMAS SERVIDORES PUBLICOS.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 57.
 
@@ -1038,11 +1042,11 @@ Integrado el Congreso del Estado, procederá a hacer la designación de Gobernad
 
 En todo caso que el Gobernador por cualquier circunstancia no pueda otorgar la protesta de Ley ante el Congreso o la Permanente en su caso, rendirá la protesta ante un Notario legalmente autorizado para ejercer sus funciones dentro del territorio del Estado.
 
-### CAPITULO V.
+### CAPITULO IV.
 
-DE LA HACIENDA PUBLICA, PROGRAMACION DEL DESARROLLO URBANO Y RURAL.
+DE LA PROCURADURIA GENERAL DE JUSTICIA.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 70.
 
@@ -1154,6 +1158,14 @@ XXXIX (sic) .- El Gobernador del Estado tendrá el mando de la Fuerza Pública e
 
 XXX.- Conducir las acciones que conforme a la Ley y en concurrencia con los Municipios y el Gobierno Federal, deban realizarse en materia de protección del ambiente y de preservación y restauración del equilibrio ecológico.
 
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1998)</small>
+
+XXXI.- Intervenir en todos los negocios en que el Estado sea parte o en los que se vea afectado el interés público.
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1998)</small>
+
+XXXII.- Las demás que le otorgue la presente Constitución.
+
 (REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 1980) (F. DE E., P.O. 7 DE ENERO DE 1981)
 
 ###### Artículo 71.
@@ -1202,19 +1214,19 @@ II.- Para comprometer los ingresos respecto de un ejercicio gubernativo posterio
 
 El Gobernador Provisional nombrado por el Senado en el caso del artículo 69 de esta Constitución, ejercerá las facultades, tendrá las atribuciones y quedará sujeto a las restricciones a que se refieren los tres artículos anteriores, en cuanto fueren aplicables e indispensables para la conservación del orden, la continuación de los servicios públicos, hasta donde lo permita la normalidad de la situación, y para restablecer el orden constitucional en el Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE MAYO DE 1970)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE AGOSTO DE 1998)</small>
 
-### CAPITULO VI.
+### CAPITULO V.
 
-DE LA PROTECCION DE LOS DERECHOS HUMANOS.
+DE LA HACIENDA PUBLICA, PROGRAMACION DEL DESARROLLO URBANO Y RURAL.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 74.
 
-Para el despacho de los negocios encomendados al Ejecutivo habrá un Secretario General de Gobierno y los Secretarios de Despacho que establezca la Ley Orgánica de la Administración Pública Estatal, la que determinará su competencia y atribuciones.
+Para el despacho de los negocios encomendados al Ejecutivo habrá un Secretario General de Gobierno, un Consejero Jurídico, los Secretarios de Despacho y los Servidores Públicos que establezca la Ley Orgánica de la Administración Pública Estatal, la que determinará su competencia y atribuciones.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 75.
 
@@ -1224,25 +1236,23 @@ I.- Ser ciudadano morelense por nacimiento ó por residencia, debiendo en éste 
 
 II.- Ser mayor de 25 años.
 
+III.- Ser de reconocida honorabilidad y no haber sido condenado por delito intencional que merezca pena corporal de más de un año de prisión.
+
+Para ser Consejero Jurídico se deberán reunir los mismos requisitos que esta Constitución exige para ser Magistrado del Tribunal Superior de Justicia.
+
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 76.
 
 Todos los Decretos, Reglamentos y Acuerdos del Gobernador del Estado, deberán ser suscritos por el Secretario del Despacho encargado del Ramo a que el asunto corresponda. Las Leyes y Decretos Legislativos deberán ser firmados además por el Secretario de Gobierno.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 77.
 
-Los Secretarios del Despacho serán los órganos de comunicación por cuyo conducto hará saber el Gobernador sus resoluciones y en su caso, llevarán la voz de éste ante el Congreso, cuando el Gobernador o la Legislación Local lo juzguen oportuno.
+Los Secretarios de Despacho serán los órganos de comunicación por cuyo conducto hará saber el Gobernador sus resoluciones y en su caso, llevarán la voz de éste ante el Congreso, cuando el Gobernador o la Legislación local lo juzguen oportuno.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1989)</small>
-
-Abierto al Primer Período Ordinario de Sesiones, los Secretarios de despacho darán cuenta al Congreso, del Estado que guarden sus respectivos ramos. El Congreso podrá citar a dichos servidores públicos para explicar o ampliar sus informes.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE NOVIEMBRE DE 1989)</small>
-
-En cualquier tiempo, el Congreso o la Diputación Permanente, en su caso, podrá citar a los Titulares de las Secretarías para informar del estado que guarde la administración de la Dependencia a su cargo, o para explicar y asesorar cuando se discuta un proyecto Legislativo, o se estudie un asunto relacionado con sus atribuciones.
+En cualquier tiempo, el Congreso o la Diputación Permanente, en su caso, podrá citar al Procurador General de Justicia o a los Titulares de las Secretarías para informar del estado que guarde la administración de la dependencia a su cargo, o para explicar y asesorar cuando se discuta un proyecto legislativo, o se estudie un asunto relacionado con sus atribuciones.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -1258,41 +1268,61 @@ Los servidores públicos a que se refiere el Artículo 74, de ésta Constitució
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1988)</small>
 
-### CAPITULO VII.
+### CAPITULO VI.
 
-DE LA PROTECCION DEL AMBIENTE Y DEL EQUILIBRIO ECOLOGICO.
+DE LA PROTECCION DE LOS DERECHOS HUMANOS.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1992)</small>
 
 ###### Artículo 79-A.
 
-El Ministerio Público tiene las atribuciones fundamentales siguinetes (sic):
+El Ministerio Público tiene las atribuciones fundamentales siguientes:
 
 I.- Vigilar y procurar el exacto cumplimiento de la Ley y el respeto a las garantías individuales en todos los asuntos en que intervenga, interponiendo los recursos que fueren procedentes con arreglo a la Ley e intervenir en cuanto corresponda para que la administración de justicia sea pronta y expedita.
 
-II.- Perseguir ante los Tribunales del orden común los delitos; en consecuencia a él, corresponderá recibir las denuncias, acusaciones o querellas tanto de las Autoridades como de los particulares, practicar, desde luego, las diligencias de carácter urgente, que no fueren de la exclusiva competencia de las autoridades judiciales, buscar y presentar las pruebas que acrediten el cuerpo del delito y la responsabilidad de los inculpados, para promover en su caso, la acción penal ante dichos Tribunales; solicitar las órdenes de aprehensión, hacer que los juicios se sigan con toda regularidad, pidiendo la aplicación de las penas que estime procedentes en sus respectivos casos.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
 
-III.- Intervenir en los asuntos judiciales que interesen a las personas y a quienes la Ley conceda especial protección, en la forma y términos que la misma determine.
+II.- Perseguir ante los Tribunales del orden común los delitos; en consecuencia, a él corresponderá recibir las denuncias, acusaciones o querellas tanto de las autoridades como de los particulares, practicar desde luego, las diligencias de carácter urgente, que no fueren de la exclusiva competencia de las autoridades judiciales, buscar y presentar las pruebas que acrediten los elementos del tipo penal del delito de que se trate, así como las que acrediten la probable responsabilidad de los inculpados.
 
-IV.- Defender ante los Tribunales los intereses del Estado.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
 
-V.- Ejercer las demás atribuciones que le encomienden las Leyes.
+III.- Ejercitar acción penal en contra de los probables responsables del delito ante los Tribunales competentes, solicitando las órdenes de aprehensión que procedan con arreglo a la ley.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
+
+IV.- Hacer lo conducente para que los juicios se sigan con toda regularidad, pidiendo la aplicación de las penas que estime procedentes en sus respectivos casos;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
+
+V.- Intervenir en los asuntos judiciales que interesen a la sociedad y a las personas a quienes la ley conceda especial protección, en la forma y términos que la misma determine;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1998)</small>
+
+VI.- Ejercer las demás atribuciones que le encomienden las leyes.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 79-B.
 
-El personal del Ministerio Público dependerá directamente del Ejecutivo del Estado, será nombrado y removido libremente por él y estará integrado por un Procurador General de Justicia, que será el Jefe de la Institución y por agentes de su dependencia.
+El personal del Ministerio Público estará integrado por un Procurador General de Justicia, que será el jefe de la institución, y por agentes de su dependencia; dependerá directamente del Ejecutivo del Estado, quien podrá removerlo libremente y en el caso de su titular se observará lo establecido en la fracción LIII, del artículo 40 de esta Constitución.
 
-La Ley organizará al Ministerio Público y determinará la forma y términos en que deba ejercer sus funciones.
+La ley organizará al Ministerio Público y determinará la forma y términos en que deba ejercer sus funciones.
 
-El Procurador General de Justicia será el Consejero Jurídico del Gobierno, y deberá tener los mismos requisitos que para ser Magistrado del Tribunal Superior exige el Artículo 90, de esta Constitución.
+El Procurador General de Justicia será designado en términos de lo dispuesto por la fracción XXXVII, (sic) artículo 40 de la presente Constitución.
+
+Para dar cumplimiento a lo que se refiere el párrafo anterior, el Gobernador del Estado deberá presentar al Congreso del Estado la terna de ciudadanos en un plazo máximo de 30 días.
+
+En caso de falta absoluta del Procurador General o en tanto se hace la designación por el Poder Legislativo, el Gobernador del Estado podrá nombrar a una persona que se encargue temporalmente del cargo.
+
+Cuando sea renovado el Poder Ejecutivo, por elección directa o por el Congreso del Estado, su Titular podrá solicitar al Poder Legislativo la designación de un nuevo Procurador.
+
+El Procurador designado invariablemente deberá tener los mismos requisitos que para ser Magistrado del Tribunal Superior exige el artículo 90 de esta Constitución.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 7 DE JULIO DE 1988)</small>
 
-### CAPITULO I.
+### CAPITULO VII.
 
-DISPOSICIONES PRELIMINARES.
+DE LA PROTECCION DEL AMBIENTE Y DEL EQUILIBRIO ECOLOGICO.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
@@ -1360,11 +1390,11 @@ El fenómeno de conurbación intermunicipal, se presenta cuando dos o más centr
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 1992)</small>
 
-### CAPITULO II.
+### CAPITULO I.
 
-DEL TRIBUNAL SUPERIOR DE JUSTICIA.
+DISPOSICIONES PRELIMINARES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
 ###### Artículo 85-C.
 
@@ -1372,25 +1402,25 @@ El Congreso del Estado establecerá un organismo autónomo de protección de los
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1995)</small>
 
-### CAPITULO III.
+### CAPITULO II.
 
-DE LOS JUECES DE PRIMERA INSTANCIA Y JUECES INFERIORES.
+DEL TRIBUNAL SUPERIOR DE JUSTICIA.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ###### Artículo 85-D.
 
 El Ejecutivo garantizará la conservación del patrimonio natural de la Entidad, la protección del ambiente y la preservación y restauración del equilibrio ecológico a que tienen derecho los habitantes del Estado.
 
-### CAPITULO IV.
+### CAPITULO III.
+
+DE LOS JUECES DE PRIMERA INSTANCIA Y JUECES INFERIORES.
 
 ## TITULO QUINTO.
 
 DEL PODER JUDICIAL.
 
-### CAPITULO V.
-
-DE LA DEFENSORIA PUBLICA.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+### CAPITULO IV.
 
 ###### Artículo 86.
 
@@ -1410,11 +1440,11 @@ La Ley establecerá y organizará los Tribunales, garantizará la independencia 
 
 Los Magistrados del Tribunal Superior de Justicia, los Jueces, los respectivos Secretarios y los Consejeros de la Judicatura Estatal, no podrán desempeñar empleo o cargo de la Federación, del Estado, de los Municipios ni de particulares, por el que reciban alguna remuneración, a no ser que sean de educación o de beneficencia y que no les impidan el expedito ejercicio de sus funciones. La infracción de esta disposición será castigada con la pérdida del cargo.
 
-### CAPITULO I.
+### CAPITULO V.
 
-DE LA ORGANIZACION DE LOS MUNICIPIOS.
+DE LA DEFENSORIA PUBLICA.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
 ###### Artículo 89.
 
@@ -1616,9 +1646,11 @@ VII.- No podrán ser objeto de estas controversias los actos del Congreso como j
 
 La Ley determinará los demás procedimientos que deban seguirse para el uso del recurso a que se refiere el artículo 99 fracción XII, sobre las bases contenidas en el anterior.
 
-### CAPITULO II.
+### CAPITULO I.
 
-PRINCIPIOS GENERALES DE ADMINISTRACION PUBLICA.
+DE LA ORGANIZACION DE LOS MUNICIPIOS.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 102.
 
@@ -2523,3 +2555,15 @@ OCTAVO.- En tanto se expiden o reforman las leyes correspondientes, la Comisión
 P.O. 26 DE DICIEMBRE DE 1996.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 28 DE AGOSTO DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Por esta única vez el Gobernador del Estado en un plazo de 10 días hábiles contados a partir de que inicie su vigencia el presente Decreto, presentará al Congreso del Estado una terna de ciudadanos para que éste designe al Procurador General de Justicia.
+
+CUARTO.- Se concede un plazo máximo de 6 meses al Ejecutivo del Estado para que revise, elabore o proponga al Congreso del Estado, las modificaciones que resulten convenientes a la normatividad Estatal, por las reformas a que se refiere el presente Decreto; en tanto se expidan dichas modificaciones, el Procurador General de Justicia continuará ejerciendo las atribuciones y responsabilidades que la ley le señale como representante del interés del Estado y como consejero jurídico del Poder Ejecutivo.
+
+QUINTO.- Se autoriza al Ejecutivo del Estado para que realice las transferencias y adecuaciones presupuestales necesarias, así como los relativos a los recursos humanos y materiales convenientes, para el eficaz cumplimiento de las reformas a que se refiere el presente Decreto.
