@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1996-04-15"
+last_updated: "1997-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 1997.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -477,6 +477,14 @@ La colaboración de poderes, a través del ejercicio de las atribuciones otorgad
 
 No podrán reunirse dos o más de estos poderes en una persona o corporación ni depositarse el Legislativo en un solo individuo.
 
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 1997)</small>
+
+La Legislatura del Estado o en los recesos de ésta, la Diputación Permanente, el Gobernador del Estado y el Tribunal Superior de Justicia, como titulares de los Poderes Legislativo, Ejecutivo y Judicial, respectivamente, representarán legalmente, en conjunto, al Estado, en los casos previstos en la fracción I del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos; y en el supuesto previsto en el Artículo 46, será representado por el Gobernador del Estado, en cuyo caso, los convenios que éste celebre deberán ser aprobados por la Legislatura.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 1997)</small>
+
+En los demás casos, el Estado estará representado en la forma que prevea la ley.
+
 ### CAPITULO II. Del Poder Legislativo
 
 #### SECCION PRIMERA. De la Elección e Instalación de la Legislatura
@@ -693,7 +701,7 @@ X.- Conceder a los diputados y magistrados del Tribunal Superior de Justicia, li
 
 XI.- Decidir sobre las solicitudes de renuncia que formule (sic) los diputados y Gobernador del Estado para separarse definitivamente de sus cargos.
 
-XII.- Reclamar ante la Suprema Corte de Justicia de la Nación, cuando alguna ley o acto del Gobierno Federal invada la soberanía del Estado, dando vista al gobernador para los efectos conducentes.
+XII.- (DEROGADA, P.O. 3 DE FEBRERO DE 1997)
 
 XIII.- Cambiar la sede de los poderes del Estado.
 
@@ -1101,15 +1109,21 @@ VI.- Los Jurados Populares, y
 
 VII.- Los demás servidores públicos y auxiliares de la administración de justicia en los términos establecidos en las leyes y códigos relativos.
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 100.
 
-El Tribunal Superior de Justicia del Estado, se integrará con el número de Magistrados que determine la Ley Orgánica del Poder Judicial, nombrados directamente por el Gobernador del Estado.
+El Tribunal Superior de Justicia es titular del Poder Judicial de Estado, se integra con el número de Magistrados que determine la Ley Orgánica del Poder Judicial, nombrados directamente por el Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1988)</small>
 
 Las designaciones de Magistrados serán sometidas a la probación (sic) de la Legislatura o la Diputación Permanente en su caso, en los términos que establece esta Constitución.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1988)</small>
+
 Los nombramientos de los Magistrados y Jueces serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1988)</small>
 
 Para el trámite de la remodelación ( sic) de los Magistrados del Tribunal se seguirá el mismo procedimiento que para su nombramiento.
 
@@ -2190,3 +2204,9 @@ La Diputación Permanente se elegirá conforme a lo dispuesto en este Decreto, e
 P.O. 15 DE ABRIL DE 1996.
 
 UNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE FEBRERO DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
