@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-2594"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-08-07"
-last_updated: "1995-04-02"
+last_updated: "1995-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 1995.
 
 Código publicado en el Suplemento al Número 32 del Periódico Oficial del Estado de Aguascalientes, el 7 de agosto de 1994.
 
@@ -1113,6 +1113,8 @@ A los responsables de Bigamia se les aplicarán de 1 a 5 años de prisión y de 
 
 ### CAPITULO IV. Incumplimiento de las Obligaciones de Asistencia Familiar
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 1995)</small>
+
 ###### ARTICULO 131.
 
 La Alteración de Estado Civil consiste en:
@@ -1133,11 +1135,15 @@ Al responsable de Alteración de Estado Civil se le aplicarán de 1 a 5 años de
 
 ###### ARTICULO 132.
 
-El Incumplimiento de las Obligaciones de Asistencia Familiar consiste en:
+El incumplimiento de las obligaciones de asistencia familiar consiste en:
 
 I.- No proporcionar, estando en condiciones de hacerlo, los recursos indispensables de subsistencia a las personas con las que se tenga ese deber legal; y
 
 II.- Colocarse dolosamente en estado de insolvencia con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley de la materia determina.
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 1995)</small>
+
+III.- La variación de nombre y/o domicilio con el fin de eludir una responsabilidad de orden familiar o el cumplimiento de las obligaciones alimentarias que la ley de la materia determina.
 
 Al responsable de Incumplimiento de las Obligaciones de Asistencia Familiar se le aplicarán de 6 meses a 3 años de prisión y suspensión o privación de los derechos de familia, en relación con el sujeto pasivo.
 
@@ -1985,6 +1991,8 @@ Tampoco se aplicará pena o medida de seguridad alguna al sujeto activo si los h
 
 ### CAPITULO I. Ejercicio Indebido de Servicio Público
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 1995)</small>
+
 ### CAPITULO II. Abuso de Autoridad
 
 ## TITULO DECIMO QUINTO. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
@@ -2055,7 +2063,7 @@ A los responsables de Motín se les aplicarán de 2 a 5 años de prisión y de 2
 
 ###### ARTICULO 211.
 
-El Ejercicio Indebido de Servicio Público consiste en:
+El ejercicio indebido de servicio público consiste en:
 
 I.- Ejercer funciones de un empleo, cargo o comisión para el que no hubiese sido nombrado, hubiese sido cesado o no se le haya dado posesión;
 
@@ -2130,6 +2138,14 @@ XXXI.- Hacer conocer al demandado, indebidamente, la providencia de embargo decr
 XXXII.- Nombrar síndico o interventor en un concurso o quiebra a una persona que sea deudor, pariente o que haya sido abogado del fallido, o a persona que tenga con el servidor público relación de parentesco, estrecha amistad o que esté ligado con él por negocios de interés común; o
 
 XXXIII.- Permitir, fuera de los casos previstos por la Ley, la salida temporal de las personas que estén recluidas o favorecer la evasión de algún detenido, procesado o condenado.
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 1995)</small>
+
+XXXIV.- Ostentarse como servidor público quien no lo sea a fin de lograr un lucro indebido o una prestación que no le corresponda; o
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 1995)</small>
+
+XXXV.- Utilizar un particular una credencial, identificación o nombramiento que no le pertenezca y que lo acredite como servidor público, a fin de lograr un lucro indebido o una prestación que no le corresponda.
 
 Al responsable de Ejercicio Indebido de Servicio Público, se le aplicarán de 2 a 6 años de prisión, de 50 a 100 días multa y la destitución e inhabilitación de 1 a 4 años para desempeñar otro empleo, cargo o comisión públicos.
 
@@ -2474,3 +2490,9 @@ Los trabajadores al servicio de los Gobiernos del Estado, los Municipios, y Orga
 ###### ARTICULO DECIMO PRIMERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE JULIO DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
