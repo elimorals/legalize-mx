@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-1-88-del-tribunal-pleno-de-la-suprema-corte-de-63575"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1988-01-15"
-last_updated: "1990-06-29"
+last_updated: "1990-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63575&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-01-15"
 
 ACUERDO No. 1/88, DEL TRIBUNAL EN PLENO DEL DIA QUINCE DE ENERO DE MIL NOVECIENTOS OCHENTA Y OCHO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JUNIO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JULIO DE 1990.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 15 de enero de 1988.
 
@@ -115,15 +115,19 @@ V.- QUINTO CIRCUITO:
 
 1.- Dos tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Hermosillo, Sonora;
 
-2.- Juzgados primero y segundo de Distrito en el estado de Sonora, con residencia en la ciudad de Hermosillo;
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO NUMERO 7/90 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 17 DE JULIO DE 1990)</small>
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO NUMERO 12/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 22 DE DICIEMBRE DE 1988)</small>
+2.- Juzgados Primero, Segundo y Sexto de Distrito en el estado de Sonora, con residencia en la ciudad de Hermosillo;
 
-3. Juzgados Tercero y Cuarto de Distrito en el estado de Sonora, con residencia en la ciudad de Nogales;
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO NUMERO 7/90 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 17 DE JULIO DE 1990)</small>
 
-4.- Juzgado Cuarto de Distrito en el Estado de Sonora, con residencia en Ciudad Obregón;
+3.- Juzgados Tercero y Cuarto de Distrito en el estado de Sonora, con residencia en la ciudad de Nogales;
 
-5.- Juzgado de Distrito en materia agraria en el estado de Sonora, con residencia en la ciudad de Hermosillo.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO NUMERO 7/90 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 17 DE JULIO DE 1990)</small>
+
+4.- Juzgado Quinto de Distrito en el estado de Sonora, con residencia en Ciudad Obregón;
+
+5.- (DEROGADO POR EL PUNTO SEGUNDO DEL ACUERDO NUMERO 7/90 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 17 DE JULIO DE 1990)
 
 VI.- SEXTO CIRCUITO:
 
@@ -513,11 +517,11 @@ Que el presente acuerdo 1/88, relativo a la determinación del número, divisió
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta fotocopia constante de veintiséis fojas útiles con cuerda fiel y exactamente con su original que obran en el cuaderno de las actas relativas a las sesiones del Pleno de este alto Tribunal, y se certifica a fin de dar cumplimiento a lo ordenado en el punto tercero transitorio del acuerdo correspondiente. México, Distrito Federal, a quince de enero de mil novecientos ochenta y ocho.- José Javier Aguilar Domínguez.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
 
 D.O.F. 20 DE ABRIL DE 1988.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
 
 D.O.F. 25 DE ABRIL DE 1988.
 
@@ -634,3 +638,11 @@ SEGUNDO.- Los nuevos tribunales de Circuito y juzgados de Distrito iniciarán su
 TERCERO.- La Comisión de Gobierno y Administración y los ministros inspectores de los tribunales de Circuito y los juzgados de Distrito comprendidos en este acuerdo, resolverán cualquier cuestión de carácter administrativo que pudiera suscitarse.
 
 CUARTO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación, y hágase del conocimiento de todos los tribunales de Circuito y juzgados de Distrito del país, para su conocimiento y cumplimiento.
+
+D.O.F. 17 DE JULIO DE 1990.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Comisión de Gobierno y Administración y el ministro inspector de los juzgados de Distrito comprendidos en este acuerdo resolverán cualquier cuestión que pudiera suscitarse.
+
+TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación, y hágase del conocimiento de los correspondientes tribunales de Circuito y juzgados de Distrito para su cumplimiento.
