@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2001-10-31"
+last_updated: "2002-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2002.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -727,7 +727,9 @@ DE LA COMPETENCIA DE LA SECRETARIA DE DESARROLLO ECONOMICO.
 
 A la Secretaría de Desarrollo Económico le corresponde la atención y trámite de los siguientes asuntos:
 
-I.- Promover, impulsar y participar en la elaboración de programas de fomento para la creación de empresas industriales, comerciales, minera, artesanales, maquiladoras y pesqueras, así como la consolidación de las ya existentes, dentro del sector público, privado y social;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2002)</small>
+
+I.- Promover, impulsar y participar en la elaboración de programas de fomento para la creación de empresas industriales, comerciales, mineras, artesanales y maquiladoras, así como la consolidación de las ya existentes, dentro del sector público, privado y social;
 
 II.- Impulsar y fomentar la organización cooperativa en el ámbito de su competencia;
 
@@ -735,7 +737,9 @@ III.- Elaborar proyectos de viabilidad para el establecimiento de industrias y e
 
 IV.- Instrumentar y concertar acciones que tiendan a resolver los problemas de abasto, comercialización y distribución de consumo básico;
 
-V.- Organizar y patrocinar congresos, seminarios, exposiciones y ferias de carácter comercial, industrial y pesquero;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2002)</small>
+
+V.- Organizar y patrocinar congresos, seminarios, exposiciones y ferias de carácter comercial e industrial;
 
 VI.- Diseñar y ejecutar programas de difusión que promuevan la inversión en el Estado;
 
@@ -763,25 +767,45 @@ A la Secretaría de Fomento Agropecuario le corresponde la atención y trámite 
 
 I.- Cumplir y hacer cumplir la Ley Agropecuaria y Forestal del Estado de Baja California y las demás Disposiciones Legales aplicables en la materia;
 
-II.- Promover la explotación, reproducción, mejoramiento, fomento y protección de las especies agrícolas, ganaderas, avícolas y forestales;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2002)</small>
 
-III.- Proyectar y coordinar los programas de fomento, mejoramiento, protección y explotación de los terrenos agrícolas, pastizales naturales y cultivados, así como los de los recursos forestales del Estado;
+II.- Promover la explotación, reproducción, mejoramiento, fomento y protección de las especies agrícolas, ganaderas, avícolas, forestales y pesqueras;
 
-IV.- Proponer y ejecutar actividades destinadas al fomento, mejora e industrialización de los productos y subproductos agrícolas, ganaderos, avícolas y forestales;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2002)</small>
 
-V.- Promover la organización, con fines económicos y sociales, de las personas físicas o morales que se dediquen a la producción y explotación agrícola, ganadera, avícola y forestal en el Estado;
+III.- Proyectar y coordinar los programas de fomento, mejoramiento, protección y explotación de los terrenos agrícolas, pastizales naturales y cultivados, así como los de los recursos forestales y pesqueros del Estado;
 
-VI.- Impulsar y participar en los Programas de Investigación y Experimentación Agropecuaria y Forestal en todos sus aspectos y promover la adopción de cambios tecnológicos y de sistemas de producción que incrementen la productividad;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2002)</small>
 
-VII.- Coordinar y llevar a cabo campañas para la erradicación de plagas y enfermedades que afecten a las especies agrícolas, ganaderas, avícolas y forestales;
+IV.- Proponer y ejecutar actividades destinadas al fomento, mejora e industrialización de los productos y subproductos agrícolas, ganaderos, avícolas, forestales y pesqueros;
 
-VIII.- Efectuar actividades de supervisión, control, regulación y sanción de la movilización de los productos y subproductos agropecuarios y forestales en el Estado;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2002)</small>
 
-IX.- Desempeñar funciones de asistencia técnica integral para los productores agrícolas, ganaderos, avícolas y forestales del Estado;
+V.- Promover la organización, con fines económicos y sociales, de las personas físicas o morales que se dediquen a la producción y explotación agrícola, ganadera, avícola, forestal y pesquera en el Estado;
 
-X.- Promover y coordinar la ejecución de Programas de Infraestructura Física que contribuyan a incrementar la producción y productividad agropecuaria y forestal, así como la conservación y desarrollo de los recursos naturales de la Entidad;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2002)</small>
 
-XI.- Coordinar en el seno del Comité de Planeación para el Desarrollo del Estado de Baja California el funcionamiento del Subcomité Agropecuario y Forestal, así como organizar la información estadística del sector, y
+VI.- Impulsar y participar en los Programas de Investigación y Experimentación Agropecuaria, Forestal y Pesquera en todos sus aspectos y promover la adopción de cambios tecnológicos y de sistemas de producción que incrementen la productividad;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2002)</small>
+
+VII.- Coordinar y llevar a cabo campañas para la erradicación de plagas y enfermedades que afecten a las especies agrícolas, ganaderas, avícolas, forestales y pesqueras;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2002)</small>
+
+VIII.- Efectuar actividades de supervisión, control, regulación y sanción de la movilización de los productos y subproductos agropecuarios, forestales y pesqueros en el Estado;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2002)</small>
+
+IX.- Desempeñar funciones de asistencia técnica integral para los productores agrícolas, ganaderos, avícolas, forestales y pesqueros del Estado;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2002)</small>
+
+X.- Promover y coordinar la ejecución de Programas de Infraestructura Física que contribuyan a incrementar la producción y productividad agropecuaria, forestal y pesquera, así como la conservación y desarrollo de los recursos naturales de la Entidad;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2002)</small>
+
+XI.- Coordinar en el seno del Comité de Planeación para el Desarrollo del Estado de Baja California el funcionamiento del Subcomité Agropecuario, Forestal y Pesquero, así como organizar la información estadística del sector; y
 
 XII.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
@@ -1556,6 +1580,20 @@ P.O. 31 DE OCTUBRE DE 2001.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se otorgará un plazo de noventa días a partir de la entrada en vigor de las presentes reformas, a efecto de que se elabore el reglamento correspondiente y se adecuen todas aquellas normas jurídicas que impliquen impacto alguno en su contenido.
+
+P.O. 22 DE FEBRERO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las menciones que en otras leyes se hagan a la Secretaría de Desarrollo Económico en torno al sector pesquero, se entenderán hechas a la Secretaría de Fomento Agropecuario.
+
+###### ARTICULO TERCERO.
+
+El Gobernador del Estado por conducto de la dependencia competente hará la entrega-recepción de los recursos humanos y materiales a cargo de la Secretaría de Desarrollo Económico para la atención de las facultades que este Decreto concede a la Secretaría de Fomento Agropecuario.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 279.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE TLAXCALA”.]
 
