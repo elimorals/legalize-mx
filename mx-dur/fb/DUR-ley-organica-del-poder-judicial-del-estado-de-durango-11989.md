@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-11989"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-24"
-last_updated: "1997-07-24"
+last_updated: "2002-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
+LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO, PUBLICADA EN EL PERIODICO OFICIAL EL 13 DE JUNIO DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 24 de julio de 1997.
 
@@ -1986,3 +1988,61 @@ POR TANTO MANDO SE IMPRIMA, PUBLIQUE, CIRCULE Y COMUNIQUESE A QUIENES CORRESPOND
 DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS VEINTIDOS DIAS DEL MES DE JULIO DE MIL NOVECIENTOS NOVENTA Y SIETE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MAXIMILIANO SILERIO ESPARZA; EL SECRETARIO GENERAL DE GOBIERNO, LIC. ALFREDO BRACHO BARBOSA. Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 13 DE JUNIO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica del Poder Judicial del Estado de Durango, publicada en el Periódico Oficial del Estado el veinticuatro de julio de mil novecientos noventa y siete.
+
+###### ARTÍCULO TERCERO.
+
+La vigencia de esta Ley no afectará la situación laboral ni administrativa en que se encuentran actualmente los Servidores Públicos del Poder Judicial del Estado.
+
+###### ARTÍCULO CUARTO.
+
+En tanto se dicten los acuerdos generales a que se refieren los artículos 49 y 64 de esta Ley, en los Distritos Judiciales de Durango existirán tres juzgados auxiliares dos civiles y un penal, en el distrito de Gómez Palacio, existirá un juzgado auxiliar mixto, y los Distritos Judiciales continuarán siendo:
+
+Primer Distrito: Durango como residencia; comprendiendo el municipio del mismo nombre y el de Mezquital así como las poblaciones de Tayoltita, San Dimas, Rafael Buelna, Guarizamey y Carboneras, estas del Municipio de San Dimas;
+
+Segundo Distrito: Lerdo como residencia; comprendiendo el municipio de Lerdo y el de Mapimí, excepto en materia penal que corresponde al Tercer Distrito;
+
+Tercer Distrito: Gómez Palacio, como residencia, comprendiendo el municipio del mismo nombre, y el de Tlahualilo de Zaragoza;
+
+Cuarto Distrito: Santiago Papasquiaro, como residencia, comprendiendo el municipio de Santiago Papasquiaro y los de Tepehuanes, Guanaceví y Otáez;
+
+Quinto Distrito: Canatlán, como residencia; comprendiendo el municipio de Canatlán y el de Nuevo Ideal;
+
+Sexto Distrito: El Salto, como residencia; comprendiendo el municipio de Pueblo Nuevo y el de San Dimas, con excepción de las poblaciones de Tayoltita, San Dimas, Rafael Buelna, Guarizamey y Carboneras de este último municipio;
+
+Séptimo Distrito: Topia, como residencia; comprendiendo el municipio de Topia y los de Tamazula y Canelas;
+
+Octavo Distrito: Guadalupe Victoria, como residencia; comprendiendo el municipio de Guadalupe Victoria y el de Pánuco de Coronado;
+
+Noveno Distrito: Cuencamé, como residencia; comprendiendo el municipio de Cuencamé y los de Peñón Blanco, Santa Clara, San Juan de Guadalupe y Simón Bolivar;
+
+Décimo Distrito: Nazas, como residencia; comprendiendo el municipio de Nazas y los de San Luis del Cordero y San Pedro del Gallo;
+
+Décimo Primer Distrito: San Juan del Río; como residencia; comprendiendo el municipio de San Juan del Río y los de Rodeo y Coneto de Comonfort;
+
+Décimo Segundo Distrito: Santa María del Oro, como residencia; comprendiendo los municipios de El Oro, Indé, Ocampo, San Bernardo e Hidalgo; y
+
+Décimo Tercer Distrito: Nombre de Dios, como residencia, comprendiendo el municipio de Nombre de Dios y los de Súchil, Poanas y Vicente Guerrero.
+
+###### ARTÍCULO QUINTO.
+
+Para estar en condiciones de sustituir a los integrantes del Consejo de la Judicatura, por esta única ocasión y sólo por lo que respecta a la propuesta gubernamental, se entenderá al actual designado en el número segundo y el correspondiente a la Legislatura, al designado con el ordinal primero.
+
+###### ARTÍCULO SEXTO.
+
+El actual Presidente del Tribunal Estatal Electoral, terminará en tales funciones el día de la conclusión de su encargo como magistrado electoral.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los Magistrados del Tribunal Superior de Justicia, que previo a su designación hayan tenido el carácter de Jueces inamovibles, al término de su encargo en caso de que no hayan sido ratificados como Magistrados, podrán optar por regresar al juzgado de su adscripción, en cuyo caso no percibirán el haber por retiro al que se refiere la Constitución y la presente Ley.
