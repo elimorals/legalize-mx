@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-consejo-tutelar-para-menores-infractores-7350"
 country: "mx"
 rank: "ley"
 publication_date: "1976-02-14"
-last_updated: "1976-02-14"
+last_updated: "1993-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7350&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL CONSEJO TUTELAR PARA MENORES INFRACTORES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 14 de febrero de 1976.
 
@@ -43,7 +43,7 @@ DECRETO
 
 LA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-DECRETA.
+DECRETA:
 
 "LEY DEL CONSEJO TUTELAR PARA MENORES INFRACTORES"
 
@@ -51,9 +51,11 @@ DECRETA.
 
 Naturaleza y Objeto.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1993)</small>
+
 ###### ARTICULO 1º.
 
-El Consejo Tutelar para Menores Infractores del instituto de carácter público tendiente a prevenir la delincuencia y promover la readaptación social, a través del estudio de personalidad, la aplicación de medidas correctivas y de protección y vigilancia del tratamiento, a menores de 18 años.
+El Consejo Tutelar para Menores Infractores es un Instituto de carácter público tendiente a prevenir la delincuencia y promover la readaptación social, a través del estudio de la personalidad, la aplicación de medidas correctivas y de protección y vigilancia del tratamiento a menores de 16 años. Tratándose de delitos del Fuero Federal se estará a lo dispuesto por el Código de la materia.
 
 ###### ARTICULO 2º.
 
@@ -153,7 +155,7 @@ Las sesiones ordinarias se celebrarán dos veces por semana. Las extraordinarias
 
 ###### ARTICULO 17.
 
-Para la celebración de toda reunión deberá concurrir cuando menos cuatro de sus miembros, entre ellos el Presidente. En caso de imposibilidad de asistencia. el Presidente designará quien lo represente en dicha sesión.
+Para la celebración de toda reunión deberá concurrir cuando menos cuatro de sus miembros, entre ellos el Presidente. En caso de imposibilidad de asistencia, el Presidente designará quien lo represente en dicha sesión.
 
 ###### ARTICULO 18.
 
@@ -267,7 +269,7 @@ I..- Representar a la Sala.
 
 II.- Presidir las sesiones de la Sala y en unión del Secretario de Acuerdos autorizar las resoluciones adoptadas.
 
-III.- Tramitar ante el Presidente del Consejo los asuntos técnicos y administrativos de la Sala.
+III.- Tramitar ante el Presidente del Consejo, los asuntos técnicos y administrativos de la Sala.
 
 IV.- Remitir a la Presidencia del Consejo el expediente tramitado ante la Sala, cuando sea recurrida
 
@@ -578,3 +580,9 @@ TERCERO.- Los procedimientos que se sigan a menores infractores se sujetarán a 
 Dado en el Salón de Sesiones de la Primera Legislatura Constitucional del Estado Libre y Soberano de Quintana Roo, en la Ciudad de Chetumal, capital del mismo, a los veintidós días del mes de enero del año de mil novecientos setenta y seis. Enrique Lima Zuno, Diputado Presidente.- Carlos Fco. Sosa Huerta, Diputado Secretario.- Rúbricas.
 
 DADO en la residencia del Poder Ejecutivo del Estado, el día dos del mes de febrero del año de mil novecientos setenta y seis.- El Gobernador Constitucional del Estado, Lic. Jesús Martínez Ross.- Rúbrica.- El Secretario de Gobierno, Lic. Pedro Joaquín Coldwell.- Rubrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE FEBRERO DE 1993.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
