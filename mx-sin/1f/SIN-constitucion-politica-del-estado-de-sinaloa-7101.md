@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1987-02-24"
+last_updated: "1988-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 1988.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -961,7 +961,7 @@ El Gobernador del Estado no podrá negarse a autorizar el pago de las órdenes l
 
 #### SECCION I. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
 
 #### SECCION II. DE LOS JUECES DE 1ª INSTANCIA Y MENORES
 
@@ -987,61 +987,65 @@ El Estado y los particulares podrán impartir la educación en todos sus tipos y
 
 ### CAPITULO IV. PODER JUDICIAL
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1968)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
 
 ###### Art. 93.
 
-Se deposita el ejercicio del Poder Judicial del Estado, en un cuerpo denominado "Supremo Tribunal de Justicia", en Jueces de Primera Instancia y Menores.
+El Poder Judicial se ejercerá en el Estado por el Supremo Tribunal de Justicia, los Juzgados de Primera Instancia y los Juzgados Menores. Los Tribunales gozarán de independencia en el ejercicio de sus funciones.
+
+Los Magistrados y los Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
 #### SECCION III. DEL JURADO DE RESPONSABILIDADES
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1968)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
 
 ###### Art. 94.
 
-El Supremo Tribunal de Justicia se compondrá de siete Magistrados Propietarios y funcionará en Pleno y dividido en dos Salas, integrada cada una de éstas por tres Magistrados. Uno de los Magistrados, quien no integrará las Salas, será el Presidente del Supremo Tribunal. Habrá además tres Magistrados Suplentes, quienes sólo integrarán el Pleno o las Salas cuando substituyan a un Magistrado Propietario, los cuales serán electos de entre los Jueces de Primera Instancia de los Distritos Judiciales del Estado, que cubriendo los requisitos previstos en el Artículos (sic) 96, cuenten, además, con una antigüedad ininterrumpida de tres años en el ejercicio del cargo.
+El Supremo Tribunal de Justicia se compondrá de 7 Magistrados Propietarios y funcionará en Pleno y dividido en dos Salas, integrada cada una de éstas por 3 Magistrados. Una (sic) de los Magistrados, quien no integrará las Salas, será el Presidente del Supremo Tribunal. Habrá además 3 Magistrados Suplentes, quienes sólo integrarán el Pleno o las Salas cuando substituyan a un Magistrado Propietario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ENERO DE 1984)</small>
+Los Magistrados del Supremo Tribunal serán electos por el Congreso o por la Diputación Permanente, de una terna que le presente el Consejo de la Judicatura. La elección se hará en escrutinio secreto.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
 
 ###### Art. 95.
 
-Los Magistrados del Supremo Tribunal de Justicia sólo podrán ser privados de sus cargos conforme a las causas y procedimientos contenidos en el Título VI de esta Constitución.
+Los Magistrados del Supremo Tribunal de Justicia sólo podrán ser privados de sus cargos conforme a las causas y procedimientos contenidos en esta Constitución.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
+Son causas de retiro forzoso:
 
-Son causas de retiro forzoso de los Magistrados del Supremo Tribunal de Justicia:
+I.- Haber cumplido 75 años de edad.
 
-I.- Haber cumplido 70 años de edad;
+II.- Padecer incapacidad física incurable o mental, incluso cuando ésta fuese parcial o transitoria.
 
-II.- Padecer incapacidad física incurable, o mental aún cuando fuece (sic) parcial o transitoria.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
 
 ###### Art. 96.
 
 Para ser Magistrado del Supremo Tribunal de Justicia, se requiere:
 
-I. Ser ciudadano mexicano por nacimiento y ciudadano sinaloense, en pleno ejercicio de sus derechos.
+I. Ser ciudadano mexicano por nacimiento y sinaloense, en el pleno ejercicio de sus derechos.
 
-II. No tener más de 65 años de edad, ni menos de 30 el día de la elección.
+II. No tener más de 65 años de edad, ni menos de 35 al día de la elección.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
+III. Contar con título profesional de Licenciado en Derecho y 5 años cuando menos de práctica profesional.
 
-III. Contar el día de la elección con título profesional de Licenciado en Derecho con cinco años con (sic) anticipación cuando menos.
+IV. Ser de notoria buena conducta.
 
-IV. Ser de notoria buena conducta y haberla observado intachable públicamente.
+V. No haber sido condenado por la comisión de un delito intencional que hubiera merecido pena corporal, y
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
+VI. Haber residido en el Estado durante los últimos 5 años, salvo el caso de ausencia en servicio de la República o el Estado, por un tiempo menor de 6 meses.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
 
 ###### Art. 97.
 
-Los Magistrados del Supremo Tribunal de Justicia serán electos por el Congreso del Estado erigido en Colegio Electoral. La elección se hará en escrutinio secreto, siendo indispensable que concurran, cuando menos las dos terceras partes del número total de Diputados.
+Se instituye el Consejo de la Judicatura. La Ley Orgánica establecerá su organización, el régimen de incompatibilidadades (sic) de sus miembros y sus funciones, en particular en materia de capacitación, nombramientos, ascensos, inspección y régimen disciplinario, con el objeto de asegurar la independencia, eficacia, disciplina y decoro de los Tribunales y de garantizar a los Magistrados y Jueces, los beneficios de la carrera Judicial.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
 
 ###### Art. 98.
 
-Los Magistrados del Supremo Tribunal de Justicia podrán obtener licencia sin goce de sueldo para desempeñar un diferente cargo público, la cual se otorgará hasta por el término de dos años. De igual derecho gozarán los jueces de Primera Instancia que sean llamados para substituirlos.
+Los Magistrados del Supremo Tribunal de Justicia podrán obtener licencia sin goce de sueldo por una sola vez, hasta por el término de 6 meses. De igual derecho gozarán los Jueces de Primera Instancia que sean llamados para substituirlos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE FEBRERO DE 1985)</small>
 
@@ -1123,11 +1127,21 @@ El Poder Judicial juzgará en todos los asuntos de su competencia, conforme con 
 
 Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia en Pleno y durarán tres años en el ejercicio de su encargo, al término de los cuales, si fueren ratificados sólo podrán ser privados de sus puestos conforme a las prevenciones del Título VI de esta Constitución. Las disposiciones de este Artículo son aplicables a los Secretarios del Supremo Tribunal de Justicia y de las Salas.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
 
 ###### Art. 107.
 
-Para ser Juez de Primera Instancia se requiere ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos, mayor de veinticinco años, Licenciado en Derecho y de reconocida buena conducta.
+Para ser Jueces de Primera Instancia se requiere:
+
+I. Ser ciudadano mexicano por nacimiento y sinaloense, en el pleno ejercicio de sus derechos.
+
+II. Ser mayor de 25 años.
+
+III. Contar con título profesional de Licenciado en Derecho.
+
+IV. Ser de notoria buena conducta, y
+
+V. Aprobar examen de admisión en el Instituto de Capacitación Judicial.
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1968)</small>
 
@@ -1141,11 +1155,11 @@ En el Distrito Judicial en que esté ubicada la Penitenciaría del Estado, el Ju
 
 ###### Art. 109.
 
-Habrá Juzgados Menores en los lugares que determine el Supremo Tribunal de Justicia conforme a la Fracción VII del Artículo 104.
+El Supremo Tribunal de Justicia determinará el número de Juzgados Menores, su jurisdicción y competencia.
 
-Los Jueces Menores serán nombrados por el Supremo Tribunal de Justicia y durarán en su encargo dos años, pudiendo ser reelectos.
+Los Jueces Menores serán nombrados por el Supremo Tribunal de Justicia y durarán en su cargo 3 años, al término de los cuales podrán ser ratificados y si lo fuera (sic), sólo serán privados de sus puestos previo juicio de responsabilidad o instructivo en el que se demuestre su incapacidad o mala conducta.
 
-Para ser Juez Menor se requiere: Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos, mayor de edad, de reconocida buena conducta y tener los conocimientos jurídicos necesarios.
+Para ser Juez Menor se requiere: Ser ciudadano mexicano por nacimiento y sinaloense, en pleno ejercicio de sus derechos, mayor de edad, de notoria buena conducta y tener preferentemente cursada la carrera de Licenciado en Derecho.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE ENERO DE 1976)</small>
 
@@ -1595,13 +1609,11 @@ Al expedir y reformar el Congreso la Ley de Ingresos y Presupuesto de Egresos, p
 
 Se prohiben expresamente los sobresueldos, los llamados "gastos de representación" y demás obvenciones.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
 
 ###### Art. 148.
 
-Ninguna licencia con goce de sueldo podrá concederse por más de quince días, excepto en casos de enfermedad debidamente comprobada, en los que podrá otorgarse hasta por noventa días.
-
-Ninguna licencia podrá concederse por más de seis meses, salvo lo dispuesto en el Artículo 98.
+Ninguna licencia con goce de sueldo podrá concederse por más de 15 días. Sólo en los casos de enfermedad debidamente comprobada podrá extenderse hasta por tres meses. Ninguna licencia por motivo alguno, podrá concederse por más de seis meses.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2300,3 +2312,9 @@ P.O. 24 DE FEBRERO DE 1987.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 25 DE MARZO DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
