@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1972-04-27"
+last_updated: "1972-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 1972.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 1972.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -431,9 +431,11 @@ La Legislatura no podrá instalarse ni funcionar sin la concurrencia de las dos 
 
 Si al llegar el día en que deba de cerrarse alguno de los períodos de sesiones, la Legislatura estuviere funcionando como Gran Jurado, prorrogará aquellas hasta pronunciar su veredicto, pero sin ocuparse, entre tanto, de ningún otro asunto.
 
+(REFORMADO, P.O. 6 DE JULIO DE 1972) (F. DE E., P.O. 20 DE JULIO DE 1972)
+
 ###### Art. 50.
 
-El Gobernador y el Tribunal Superior de Justicia, asistirán cada año, el 16 de septiembre, a la apertura de sesiones, y el primero leerá un informe, en el que exponga suscintamente el Estado de los ramos de la Administración Pública. El Presidente de la Legislatura contestará en términos generales.
+La Legislatura celebrará una sesión el cuarto domingo del mes de septiembre de cada año, y en ella, con asistencia del Tribunal Superior de Justicia, el Gobernador del Estado rendirá un informe de su gestión, relativa al año próximo anterior y expondrá, sucintamente, el estado que guarden los ramos de la Administración Pública. El Presidente de la Legislatura contestará ese informe en términos generales.
 
 ## TITULO CUARTO
 
@@ -1395,7 +1397,9 @@ XIV.- Excitar a la Diputación Permanente para que convoque a la Legislatura a s
 
 XV.- Proponer a la Legislatura, cada año, las Leyes de Ingresos del año próximo, tanto del Estado, como de los Municipios y los Presupuestos de Egresos del primero, y presentarle la cuenta del año anterior para su revisión;
 
-XVI.- Remitir cada dos años al nuevo Congreso, dentro de los primeros treinta días de su instalación, una memoria instructiva documentada y autorizada del estado que guarde la Administración pública, y asistir cada año a la apertura de sesiones en los términos del artículo 5º;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1972)</small>
+
+XVI.- Rendir anualmente a la Legislatura del Estado el informe a que se refiere el Articulo 50 de esta Constitución.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1928)</small>
 
@@ -1485,15 +1489,21 @@ En caso de falta temporal o absoluta de ambos Secretarios de Gobierno, mientras 
 
 El titular del Ejecutivo del Estado determinará los negocios que deban ser despachados por cada uno de los Secretarios de Gobierno, sin que por ello desaparezca la igualdad de funciones y atribuciones que menciona el Artículo 95.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1969)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 1972)</small>
 
 ###### Art. 99.
 
-El Secretario de Gobierno que al efecto designe el Ejecutivo del Estado, concurrirá a las sesiones del Congreso:
+El Secretario General de Gobierno, concurrirá a las sesiones de la Legislatura.
 
-I.- Con el Gobernador, al abrirse el 16 de septiembre el período de sesiones;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1972)</small>
+
+I.- Con el Gobernador, cuando este rinda su informe, el cuarto domingo de septiembre de cada año.
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1969)</small>
 
 II.- Siempre que el Gobierno lo mande a tomar parte de las deliberaciones del Congreso, para manifestar la opinión del Ejecutivo en el asunto de que se trate;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1969)</small>
 
 III.- Cuando fuere llamado por la Cámara, para que manifieste si el Ejecutivo tiene o no que hacer observaciones a algún proyecto de ley o decreto o para que informe sobre cualquier asunto.
 
@@ -1525,7 +1535,7 @@ El Congreso del Estado, en la primera de sus sesiones ordinarias del próximo pe
 
 ###### Art. 4º.
 
-El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo en día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
+El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo el día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
 
 ###### Art. 5º.
 
@@ -1686,3 +1696,7 @@ UNICO.- La presente Ley principiará a surtir sus efectos a partir de su publica
 P.O. 27 DE ABRIL DE 1972
 
 UNICO.- La presente Ley surtirá efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 1972
+
+UNICO.- La presente Ley entrará en vigor en la fecha de su publicación en el Periódico Oficial del Estado.
