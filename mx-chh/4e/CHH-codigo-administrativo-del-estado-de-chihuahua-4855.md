@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1979-12-29"
+last_updated: "1980-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 1980.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -181,7 +181,9 @@ IX.- Departamento de Agricultura
 
 X.- Departamento de Ganadería
 
-XI.- Departamento de Economía
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+
+XI.- Dirección de Desarrollo Económico
 
 XII.- Departamento Administrativo
 
@@ -385,7 +387,7 @@ Las autoridades judiciales o administrativas que embarguen o decomisen bienes a 
 
 ###### ARTICULO 41.
 
-La Tesorería General y sus organismos subalternos, en vista de las resclusiones que reciban y de las que dicten respecto de los depósitos cuya constitución hubiere exigido por propia determinación, de conformidad con lo establecido por el Código Fiscal declararán de oficio la caducidad y dispondrán de los depósitos respectivos aplicando su importe a beneficio del erario estatal. Cuando no sea posible determinar la fecha en que legalmente pueda exigirse su devolución o aplicación se tomará como base la de la constitución del depósito para los mismos efectos.
+La Tesorería General y sus organismos subalternos, en vista de las reclusiones que reciban y de las que dicten respecto de los depósitos cuya constitución hubiere exigido por propia determinación, de conformidad con lo establecido por el Código Fiscal declararán de oficio la caducidad y dispondrán de los depósitos respectivos aplicando su importe a beneficio del erario estatal. Cuando no sea posible determinar la fecha en que legalmente pueda exigirse su devolución o aplicación se tomará como base la de la constitución del depósito para los mismos efectos.
 
 DE LA OFICIALIA MAYOR
 
@@ -607,23 +609,31 @@ IX.- Controlar y vigilar el funcionamiento de las colonias ganaderas organizadas
 
 X.- Las demás que le confieran las leyes, los reglamentos y el Gobernador.
 
-DEL DEPARTAMENTO DE ECONOMIA
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+
+DIRECCION DE DESARROLLO ECONOMICO DEL ESTADO
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### ARTICULO 54.
 
-Corresponde al Departamento de Economía:
+Corresponde a la Dirección de Desarrollo Económico del Estado:
 
-I.- Asesorar al Ejecutivo del Estado en materia de planeación y programación económica;
+I.- Actuar como entidad supraordenadora y coordinadora de las facultades que este Código otorga a los Departamentos de Agricultura y Ganadería tratándose de inversiones en materia agropecuaria.
 
-II.- Elaborar y estudiar los proyectos de inversión a efecto de evaluar su impacto en la economía estatal;
+II.- Asesorar al Ejecutivo del Estado en materia de planeación y programación económica.
 
-III.- Promover y fomentar la industria de transformación;
+III.- Elaborar y estudiar los proyectos de inversión a efecto de evaluar su impacto en la economía estatal.
 
-IV.- Organizar y dirigir la propaganda relativa al desarrollo económico;
+IV.- Promover, fomentar y realizar por sí misma o conjuntamente con otras entidades públicas, sociales o privadas, inversiones en las áreas industrial, minera, turística y agropecuaria.
 
-V.- Llevar la estadística general;
+V.- Organizar y dirigir la propaganda relativa al Desarrollo Económico.
 
-VI.- Las demás facultades que le asignen las leyes, los reglamentos y el Gobernador.
+VI.- Establecer un sistema integral de información y estadística.
+
+VII.- Establecer sistemas de control, evaluación de avances y resultados en las inversiones a que se refiere la fracción IV de este artículo, y
+
+VIII.- Las demás atribuciones que le otorgue el orden jurídico.
 
 DEL DEPARTAMENTO ADMINISTRATIVO
 
@@ -1989,7 +1999,7 @@ Las actas del Registro Civil sólo se asentarán en los libros a que se refiere 
 
 ###### ARTICULO 232.
 
-Si al terminar el año en curso quedaren en los libros hojas en blanco, seguirá actuándose en las restantes una vez que se haya asentado la razón correspondiente sobre el número de actas levantadas en el año conluido.
+Si al terminar el año en curso quedaren en los libros hojas en blanco, seguirá actuándose en las restantes una vez que se haya asentado la razón correspondiente sobre el número de actas levantadas en el año concluido.
 
 ###### ARTICULO 233.
 
@@ -10521,7 +10531,7 @@ ECONOMIA
 
 ## TITULO PRIMERO
 
-### CAPITULO VII. DE LAS CONURBACIONES
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10617,7 +10627,7 @@ ASENTAMIENTOS HUMANOS
 
 ### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1460.
 
@@ -10693,7 +10703,7 @@ Los notarios públicos y los funcionarios que actúen por receptoría sólo podr
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+### CAPITULO VII. DE LAS CONURBACIONES
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10989,7 +10999,7 @@ VIII.- Las demás que les otorgue el presente título y las disposiciones legale
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11117,7 +11127,9 @@ Los predios de las zonas incluidas en los artículos 1495 y 1500 de este Título
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1502.
 
@@ -11129,13 +11141,9 @@ Para los efectos de este Título se entiende por estructura vial y sistema de tr
 
 En todo lo relativo a la estructura vial y sistema de transporte en el Estado, se estará a lo dispuesto por este Código, la Ley de Tránsito y el Código Municipal.
 
-(REUBICADA, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-DECIMA PRIMERA PARTE
-
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
-
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11233,9 +11241,9 @@ También se considerarán ilegales la fusión, subdivisión, relotificación y f
 
 En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de Desarrollo Urbano podrá intervenir en coordinación con aquél en la administración de los fraccionamientos, subdivisiones, relotificaciones o fusiones o en las operaciones celebradas con estos motivos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS MUNICIPALES
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11277,9 +11285,9 @@ II.- A la introducción de los servicios públicos.
 
 Una vez determinados los jefes de familia beneficiados, la presidencia municipal otorgará los títulos de propiedad correspondientes, los que deberán inscribirse en el Registro Público de la Propiedad respectivo sin causar derechos al fisco del Estado.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+#### SECCION QUINTA. DE LA VIVIENDA
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11325,9 +11333,7 @@ Para la construcción de viviendas deberá mediar solicitud del interesado ante 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1525.
 
@@ -11367,9 +11373,9 @@ Los propietarios y poseedores de los predios incluidos en los programas de mejor
 
 En el caso de que los propietarios o poseedores no cumplan con las obligaciones o convenios indicados por los dos artículos anteriores, el Ejecutivo del Estado podrá proceder a la expropiación por causa de utilidad pública.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS MUNICIPALES
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11439,7 +11445,7 @@ Se consideran afectos al patrimonio cultural del Estado: los edificios, monument
 
 Para la conservación del patrimonio a que se refiere el artículo anterior, el plan estatal y los reglamentos de este Título, considerarán las medidas y disposiciones que impiden el menoscabo o la degradación de dicho patrimonio, estableciendo disposiciones que reduzcan el empleo de idiomas, giros y modismos extranjeros, y que excluyan la adopción de estilos arquitectónicos, deformantes de los valores tradicionales de la ciudad.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO I. DE LAS COMPETENCIAS
 
@@ -11493,7 +11499,7 @@ Se atenderá el crecimiento de los centros de población mediante la determinaci
 
 A partir de la publicación de los planes de desarrollo urbano prevista en el artículo 1480, las áreas y predios en ellos comprendidos quedarán sujetos a las normas de la misma.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO II. DE LOS PROCEDIMIENTOS
 
@@ -11541,7 +11547,11 @@ Cuando el Gobernador del Estado haya hecho una declaratoria de conurbación, dis
 
 Las declaratorias de conurbación para que surtan sus efectos serán publicadas por una sola vez en el Periódico Oficial del Estado y en dos periódicos de mayor circulación en la localidad que corresponda, debiendo inscribirse en la Oficina del Registro Público de la Propiedad respectiva.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+(REUBICADA, P.O. 5 DE FEBRERO DE 1977)
+
+DECIMA PRIMERA PARTE
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
 # LIBRO UNICO. DE LAS RESPONSABILIDADES Y SANCIONES
 
@@ -12622,3 +12632,7 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día s
 P.O. 29 DE DICIEMBRE DE 1979.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 1980.
+
+ARTICULO TRANSITORIO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de la Entidad.
