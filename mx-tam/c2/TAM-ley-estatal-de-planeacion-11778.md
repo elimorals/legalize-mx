@@ -4,7 +4,7 @@ identifier: "TAM-ley-estatal-de-planeacion-11778"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-19"
-last_updated: "1998-01-31"
+last_updated: "2004-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ESTATAL DE PLANEACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el 19 de septiembre de 1984.
 
@@ -241,17 +241,21 @@ Para tal efecto, y conforme a la Legislación aplicable, en el Sistema deberán 
 
 El Plan Estatal de Desarrollo deberá elaborarse, aprobarse y publicarse, en un plazo de seis meses contados a partir de la fecha en que tome posesión el Gobernador del Estado, y su vigencia no excederá del período constitucional que le corresponde, aunque podrá contener consideraciones y proyecciones de más largo plazo.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
+
 ###### ARTICULO 24.
 
-los Planes Municipales de Desarrollo deberán elaborarse, aprobarse y publicarse, en un plazo de cuatro meses contados a partir de la fecha en que toma posesión el Ayuntamiento y su vigencia no excederá del período constitucional que le corresponda, aunque podrá tener, igualmente, consideraciones proyecciones de más largo plazo.
+Los planes municipales de desarrollo deberán elaborarse y aprobarse en un plazo de tres meses contados a partir de la fecha en que toma posesión el Ayuntamiento y sus previsiones se realizarán durante el periodo constitucional que le corresponda. Las consideraciones y proyecciones de largo plazo, sustentadas en acciones ejecutadas total o parcialmente por el Ayuntamiento concluyente deberán considerarse por la próxima administración e incorporarse en las previsiones de su Plan Municipal de Desarrollo.
 
 ###### ARTICULO 25.
 
 El Plan Estatal de Desarrollo, sobre el diagnóstico que se elabore, precisará los objetivos generales, estrategia y prioridades del Desarrollo Integral del Estado, contendrá previsiones sobre los recursos que serán asignados a tales fines; determinará los instrumentos y responsables de su ejecución, establecerá los lineamientos de política de carácter Estatal, Sectorial y Subregional; sus previsiones se referirán al conjunto de la actividad económica y social, y regirá el contenido de los programas que se generen en el Sistema Estatal de Planeación Democrática.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2004)</small>
+
 ###### ARTICULO 26.
 
-Los Planes Municipales de Desarrollo precisarán los objetivos generales, estrategias y prioridades del Desarrollo Integral del Municipio; contendrán previsiones sobre los recursos que serán asignados a tales fines; determinarán los instrumentos y responsables de su ejecución, y establecerán los lineamientos de política de carácter Municipal, Sectorial y de servicios Municipales.
+Los planes municipales de desarrollo precisarán los objetivos generales, estrategias y prioridades del desarrollo integral del Municipio; contendrán previsiones sobre los recursos que serán asignados a tales fines; determinarán los instrumentos y responsables de su ejecución, y establecerán los lineamientos de política de carácter municipal, sectorial y de servicios municipales.
 
 Sus previsiones se referirán al conjunto de la actividad económica y social, y regirán el contenido de los Programas Operativos Anuales, siempre en concordancia con el Plan Estatal y con el Plan Nacional de Desarrollo.
 
@@ -259,9 +263,13 @@ Sus previsiones se referirán al conjunto de la actividad económica y social, y
 
 La denominación de Plan queda reservada, exclusivamente, para el Plan Estatal de Desarrollo y para los planes Municipales.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
+
 ###### ARTICULO 28.
 
-El Plan Estatal y los Planes Municipales de desarrollo indicarán los Programas Sectoriales, Municipales, Subregionales, Institucionales y Especiales que deban ser elaborados conforme a este capítulo. Estos Programas observarán congruencia con el Plan Nacional, el Plan Estatal y los Planes Municipales; y su vigencia no excederá del período constitucional de la gestión gubernamental en que se aprueben, aunque sus previsiones y proyecciones se refieran a un plazo mayor.
+El Plan Estatal y los planes municipales de desarrollo indicarán los programas sectoriales, municipales, subregionales, institucionales y especiales que deban ser elaborados conforme a este capítulo. Estos programas observarán congruencia con el Plan Nacional, el Plan Estatal y los planes municipales, y su vigencia no excederá del período constitucional de la gestión gubernamental en que se aprueben
+
+Cuando sus previsiones y proyecciones se refieran a un plazo mayor, deberá observarse lo dispuesto en el artículo 24 de esta ley.
 
 ###### ARTICULO 29.
 
@@ -305,11 +313,13 @@ El Plan Estatal de Desarrollo y todos los Programas que de él se deriven, una v
 
 Los Planes Municipales y los Programas que de ellos se desprenden serán publicados en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
+
 ###### ARTICULO 38.
 
-Los Planes y los Programas serán revisados con la periodicidad que determinen las disposiciones reglamentarias. Los resultados de las revisiones y en su caso, las adecuaciones consecuentes al Plan Estatal y a los Programas que de él se deriven, previa su aprobación por parte del titular del Ejecutivo Estatal, se publicarán igualmente en el Periódico Oficial del Estado.
+Los planes y los programas serán revisados con la periodicidad que se requiera para la orientación de la administración pública que corresponda, debiendo en su caso atenderse a los criterios de planeación democrática y estratégica previstos en el Código Municipal. Los resultados de las revisiones y, en su caso, las adecuaciones consecuentes al Plan Estatal y a los programas que de él se deriven, previa su aprobación por parte del titular del Ejecutivo Estatal, se publicarán igualmente en el Periódico Oficial del Estado.
 
-Los resultados de las revisiones, y en su caso las adecuaciones consecuentes a los Planes Municipales y a los Programas que de ellos se deriven, se publicarán en los Municipios y en el Periódico Oficial del Estado.
+Los resultados de las revisiones y, en su caso, las adecuaciones consecuentes a los planes municipales y a los programas que de ellos se deriven, se publicarán en los Municipios y en el Periódico Oficial del Estado.
 
 ###### ARTICULO 39.
 
@@ -498,3 +508,9 @@ P.O. 31 DE ENERO DE 1998
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MAYO DE 2004.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
