@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1938-12-29"
+last_updated: "1942-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1942.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -58,9 +58,13 @@ b). (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1938)
 
 c). Las monedas de plata de un peso y de cincuenta y veinte centavos, con los tamaños, pesos, cuños, ley de 0.720 (setecientos veinte milésimos) y demás características que se establecen en el Decreto de 27 de octubre de 1919;
 
-d). Las monedas fraccionarias de cupro-níquel, con las denominaciones de diez y cinco centavos y los tamaños, pesos, cuños, composición y demás características que se establecen en el Decreto de 26 de marzo de 1936;
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1942)</small>
 
-e). Las monedas fraccionarias de bronce de dos centavos y un centavo, con los tamaños, pesos, cuños, composición y demás características que se establecen en la Ley de 25 de marzo de 1905.
+d). La moneda fraccionaria de cupro-níquel con denominación de diez centavos y el tamaño, peso, cuño, composición y demás características que se establecen en el artículo 1°. del Decreto de 26 de marzo de 1936.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1942)</small>
+
+e). Las monedas fraccionarias de bronce con denominaciones de cinco centavos y de un centavo, y los tamaños, pesos, cuños, composiciones y demás características que se establecen, respectivamente, en el Decreto de veintiocho de diciembre de 1942 y en la Ley de 25 de marzo de 1905.
 
 ###### ARTICULO 2o.
 
@@ -74,13 +78,13 @@ D.O.F. 27 DE ABRIL DE 1935.
 
 ###### ARTICULO 5°.
 
-Las monedas de un peso y las de cincuenta centavos a que se refiere el artículo 2°., inciso c) de este Decreto, tendrán poder liberatorio limitado a cien pesos en un mismo pago.
+Las monedas de un peso y las de cincuenta centavos a que se refiere el artículo 2°., inciso c), de esta Ley, tendrán poder liberatorio ilimitado a cien pesos en un mismo pago.
 
-Las monedas de veinte centavos a que se refiere el mismo inciso, tendrán poder liberatorio limitado a cincuenta pesos en un mismo pago.
+Las monedas de veinte centavos a que se refiere el mismo inciso tendrán poder liberatorio limitado a cincuenta pesos en un mismo pago.
 
-Las monedas de cupro-níquel de diez y cinco centavos a que se refiere el inciso d) del artículo 2°. de este Decreto, tendrán poder liberatorio limitado a dos pesos en un mismo pago.
+Las monedas de cupro-níquel de diez centavos y las de bronce de cinco centavos a que se refieren los incisos d) y e) del artículo 2°. de esta Ley, tendrán poder liberatorio limitado a dos pesos en un mismo pago.
 
-Las monedas de bronce de dos centavos y un centavo a que se refiere el inciso e) del artículo 2°. de este Decreto, tendrán poder liberatorio limitado a un peso en un mismo pago.
+Las monedas de bronce de un centavo a que se refiere el inciso e) del artículo 2°. de esta Ley, tendrán poder liberatorio limitado a un peso en un mismo pago.
 
 ###### ARTICULO 6°.
 
@@ -182,7 +186,7 @@ Se declaran libres la exportación y la importación de oro acuñado o en pasta,
 
 Los billetes del Banco de México tendrán poder liberatorio ilimitado.
 
-> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1942) (F. DE E., D.O.F. 7 DE ENERO DE 1943)
 
 ###### ARTICULO 5°.
 
@@ -396,6 +400,16 @@ D.O.F. 29 DE DICIEMBRE DE 1938.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
+D.O.F. 31 DE DICIEMBRE DE 1942.
+
+###### ARTICULO 1°.
+
+Desde la fecha en que entre en vigor el presente decreto, se suspenderá indefinidamente la acuñación de monedas de cupro-níquel de cinco centavos creadas por el artículo 2°. del decreto de 26 de marzo de 1936, así como la de las monedas de bronce de dos centavos.
+
+###### ARTICULO 2°.
+
+Se autoriza hasta el treinta y uno de marzo de mil novecientos cuarenta y tres, la circulación provisional de las monedas a que se refiere el artículo anterior. El Banco de México quedará obligado a cambiar las monedas a que alude el artículo anterior por monedas de otras denominaciones, durante el plazo indicado. Después de esa fecha tales monedas quedarán privadas de todo poder liberatorio legal.
+
 ###### ARTICULO 3°.
 
 Queda prohibida, en lo absoluto, la exportación de las antiguas monedas de plata que esta ley retira de la circulación, así como la del metal que contienen ya sea fundido o afinado.
@@ -404,4 +418,12 @@ Al efecto, los exportadores estarán obligados a comprobar ante las Aduanas resp
 
 ###### ARTICULO 4°.
 
+El presente decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO 4°.
+
 Se prohibe igualmente, la fundición y afinación de las monedas que se retiran de la circulación por esta ley.
+
+###### ARTICULO 3°.
+
+Quedan derogadas las disposiciones que se opongan al presente decreto.
