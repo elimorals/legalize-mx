@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "1995-12-23"
+last_updated: "1996-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1996.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -435,7 +435,9 @@ VIII.- Por la inscripción de avisos de otorgamiento de testamento 1.350
 
 IX.- Por certificados, por expedición de constancias y otros documentos 1.350
 
-X.- Por servicio foráneo de la tramitación de la documentación de pasaporte 4.500
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1995)</small>
+
+X.- Por servicio foráneo de la tramitación de la documentación de pasaporte 3.500
 
 XI. Por autorización de Registros Extemporáneos 1,350
 
@@ -447,9 +449,17 @@ XIV.- Por autorizaciones de Matrimonio entre extranjeros con nacionales 9,000
 
 XV.- Autorización de Divorcios Administrativos 6,300
 
-XVI.- Aclaración y Complementación de Actas del Registro civil 6,300
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 1996)</small>
 
-XVII.- Por solicitud de Actas o Constancias que obran en las oficinas registradoras de otras Entidades Federativas 2,700
+XVI.- Aclaración de actas del Registro Civil 6,300
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 1996)</small>
+
+XVII.- Complementación de actas del Registro Civil 1,000
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 1996)</small>
+
+XVIII.- Por solicitud de actas o constancias que obran en las oficinas registradoras de otras Entidades Federativas 2,700
 
 ###### Artículo 49.
 
@@ -2488,3 +2498,7 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 P.O. 23 DE DICIEMBRE DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor el 1o. de enero de 1996 previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE JUNIO DE 1996.
+
+UNICO.- El presente Decreto entrará en vigor a los 30 días siguientes de su publicación en el Periódico Oficial del Estado.
