@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-1988-1995-12"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-01-05"
-last_updated: "1991-07-19"
+last_updated: "1991-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1987-12-23"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JULIO DE 1991.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 1991.
 
 Ley publicada en el Número 2 del Diario Oficial de la Federación, el martes 5 de enero de 1988.
 
@@ -871,59 +871,41 @@ Las excusas serán alegadas ante el presidente de debates, el que las calificar�
 
 ### CAPITULO VII. Atribuciones de los Juzgados de Distrito respecto de los menores infractores
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
 ###### Art. 73.
 
-Corresponde a los juzgados de Distrito prevenir y reprimir, en materia federal, las conductas de los menores de dieciocho años, que infrinjan las leyes penales, dentro de la jurisdicción de cada uno de aquellos:
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES, PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 1991)
 
-I. Tribunales para menores, y
-
-II. Consejos de vigilancia.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Art. 74.
 
-Habrá tribunal para menores en cada una de las capitales de los Estados y, además, en los lugares en que, sin ser capital de Estado, resida un juez de Distrito.
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES, PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 1991)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Art. 75.
 
-En los lugares donde resida juez de Distrito, el tribunal para menores se integrará:
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES, PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 1991)
 
-I. Por el juez de Distrito, que tendrá el carácter de presidente;
-
-II. Por el funcionario o empleado sanitario federal o, en su defecto, local, de mayor jerarquía;
-
-III. Por el funcionario o empleado federal o, en su defecto, local, de mayor jerarquía, en materia de educación.
-
-En el Distrito Federal, en representación de los señalados en las fracciones II y III, integrarán el tribunal de los funcionarios que respectivamente designen el jefe del Departamento de Salubridad Pública y el Secretario de Educación Pública.
-
-El Secretario del juzgado de Distrito respectivo, tendrá el carácter de secretario del Tribunal para Menores.
-
-Cuando en el mismo lugar resida más de un juez de Distrito, integrará el tribunal para menores el juez primero.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Art. 76.
 
-En las capitales de los Estados en donde no resida juez de Distrito, éste y el secretario serán substituidos por el juez y secretario del juzgado penal de primera instancia, o del mixto correspondiente. Si hubiese varios jueces del ramo penal, integrará el tribunal para menores el que designe el juez de Distrito de la jurisdicción.
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES, PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 1991)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Art. 77.
 
-En donde resida un Tribunal para Menores, habrá un consejo de vigilancia que será presidido por el miembro de mayor categoría de Beneficencia Pública o, en su defecto, privada, en el lugar, y se integrará con el número de vecinos de la localidad que se estime conveniente, que no podrá ser menor de diez. Donde no exista Beneficencia, el consejo será presidido por la primera autoridad municipal.
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES, PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 1991)
 
-Los demás miembros del consejo de vigilancia deberán reunir los siguientes requisitos:
-
-I. Ser de reconocida buena conducta;
-
-II. Tener arraigo en el lugar;
-
-III. Tener manera honesta de vivir; y
-
-IV. Ser padre o madre de familia.
-
-Los miembros del consejo serán designados por el tribunal para menores, en los primeros quince días del mes de enero; durarán en su encargo un año y podrán ser reelectos.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Art. 78.
 
-Los consejos de vigilancia tendrán el carácter de delegaciones de la Secretaría de Gobernación, de la que dependerán directamente.
-
-La misma Secretaría cuidará de que los tribunales para menores funcionen regular y eficazmente.
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES, PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 1991)
 
 ### CAPITULO VIII. División Territorial
 
@@ -1158,3 +1140,21 @@ D.O.F. 19 DE JULIO DE 1991.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- El Pleno de la Suprema Corte de Justicia de la Nación turnará a la Comisión de Gobierno y Administración los asuntos que ésta deba resolver conforme al presente Decreto, en los términos que al efecto señale el acuerdo que determine el propio Pleno.
+
+D.O.F. 24 DE DICIEMBRE DE 1991.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES, PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL”.]
+
+PRIMERO.- La presente Ley entrará en vigor a los sesenta días siguientes a su publicación en el Diario Oficial de la Federación
+
+SEGUNDO.- Se abroga la Ley que crea el Consejo Tutelar para Menores Infractores del Distrito Federal, publicada en el Diario Oficial de la Federación el 2 de agosto de 1974.
+
+TERCERO.- Se derogan los artículos 119 a 122, del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal; 73 a 78 de la Ley Orgánica del Poder Judicial de la Federación, y 503 del Código Federal de Procedimientos Penales; así como los artículos 673 y 674, fracciones II y X, del Código de Procedimientos Penales para el Distrito Federal, únicamente por lo que hace a menores infractores.
+
+CUARTO.- Los asuntos que se encuentren en trámite en la fecha en que entre en vigor esta Ley, serán turnados a las áreas competentes que corresponda conocer de los mismos, conforme a la nueva determinación de competencias.
+
+QUINTO.- La normatividad de los centros de diagnóstico y tratamiento, deberá expedirse dentro de los noventa días siguientes a la fecha de instalación del Consejo de Menores.
+
+SEXTO.- Los consejos auxiliares actualmente existentes conocerán de las faltas administrativas a los reglamentos de policía y buen gobierno en que incurran los menores, en tanto se instaure el órgano competente. Estos consejos únicamente podrán aplicar las medidas de orientación y de protección previstas en la presente Ley.
+
+SEPTIMO.- En tanto el Consejo de Menores no haya integrado sus servicios periciales, podrá auxiliarse con los órganos correspondientes de la Procuraduría General de la República, de la Procuraduría General de Justicia del Distrito Federal y del Tribunal Superior de Justicia del Distrito Federal.
