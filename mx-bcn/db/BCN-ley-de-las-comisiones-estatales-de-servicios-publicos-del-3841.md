@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-las-comisiones-estatales-de-servicios-publicos-del-3841"
 country: "mx"
 rank: "ley"
 publication_date: "1979-02-10"
-last_updated: "1979-02-10"
+last_updated: "1980-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PUBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1980.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 10 de febrero de 1979.
 
@@ -69,9 +69,11 @@ II.- Los bienes y derechos que el Estado les asigne y los que adquieran por cual
 
 Cada una de las Comisiones Estatales de Servicios Públicos de Mexicali, Tijuana-Tecate y Ensenada, será administrada por un consejo.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 5o.
 
-Los Consejos de Administración de las Comisiones de Mexicali y Ensenada, se compondrán de cinco miembros, los que serán:
+Los Consejos de Administración de las Comisiones de Mexicali y Ensenada, se compondrán de los siguientes miembros:
 
 I.- El Gobernador del Estado.
 
@@ -79,11 +81,15 @@ II.- El Secretario de Asentamientos Humanos y Obras Públicas.
 
 III.- El Secretario de Finanzas.
 
-IV.- Dos representantes de la iniciativa privada, que serán designados por el Gobernador del Estado, de las ternas que le propongan los Organismos siguientes: Cámara de Comercio y Servicios Turísticos, Delegación de la Cámara Nacional de la Industria de Transformación y Unión de Contribuyentes y Usuarios de Servicios Públicos de cada una de las ciudades de Mexicali y Ensenada, y el Presidente Municipal respectivo.
+IV.- El Director de Organización, Programación y Presupuesto; y
+
+V.- Dos Representantes de la Iniciativa Privada, que serán designados por el Gobernador del Estado, de las ternas que le propongan los Organismos siguientes: Cámara de Comercio y Servicios Turísticos, Delegación de la Cámara Nacional de la Industria de Transformación y Unión de Contribuyentes y Usuarios de Servicios Públicos de cada una de las ciudades de Mexicali y Ensenada, y el Presidente Municipal respectivo.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 6o.
 
-El Consejo de Administración de la Comisión de Tijuana-Tecate, se compondrá de siete miembros, los que serán:
+El Consejo de Administración de la Comisión de Tijuana-Tecate, se compondrá de los siguientes miembros:
 
 I.- El Gobernador del Estado.
 
@@ -91,9 +97,11 @@ II.- El Secretario de Asentamientos Humanos y Obras Públicas.
 
 III.- El Secretario de Finanzas.
 
-IV.- Dos representantes de la iniciativa privada de Tijuana y dos de Tecate, que serán designados por el Gobernador del Estado, de las ternas que le propongan los Organismos siguientes: Cámara de Comercio y Servicios Turísticos, Delegación de la Cámara Nacional de la Industria de Transformación y Unión de Contribuyentes y Usuarios de Servicios Públicos de cada una de las ciudades de Tijuana y Tecate, y los Presidentes Municipales de estas últimas.
+IV.- El Director de Organización, Programación y Presupuesto.
 
-Los representantes de la iniciativa privada de los Municipios de Tijuana y Tecate, intervendrán en las sesiones del Consejo de Administración, cuando se traten asuntos relacionados con cada uno de dichos Municipios, a menos que sean del interés común de éstos.
+V.- Dos Representantes de la Iniciativa Privada de Tijuana y dos de Tecate, que serán designados por el Gobernador del Estado, de las ternas que le propongan los Organismos siguientes: Cámara de Comercio y Servicios Turísticos, Delegación de la Cámara Nacional de la Industria de Transformación y Unión de Contribuyentes y Usuarios de Servicios Públicos de cada una de las ciudades de Tijuana y Tecate, y los Presidentes Municipales de estas últimas.
+
+Los Representantes de la Iniciativa Privada de los Municipios de Tijuana y Tecate, intervendrán en las sesiones del Consejo de Administración, cuando se traten asuntos relacionados con cada uno de dichos Municipios, a menos que sean del interés común de éstos.
 
 ###### ARTICULO 7o.
 
@@ -103,9 +111,11 @@ En caso de que los Organismos y funcionarios a que se refieren los Artículos 5�
 
 El Gobernador del Estado será el Presidente del Consejo y en sus ausencias temporales designará a la persona que lo substituya. Por cada uno de los Consejeros restantes, el Gobernador del Estado designará un suplente.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 9o.
 
-Los Consejeros a que se refieren las Fracciones I, II y III de los artículos 5o. y 6o. de esta Ley, durarán en el cargo mientras sean titulares de la Dependencia y serán substituidos automáticamente por el nuevo titular. Los Consejeros representantes de la iniciativa privada, durarán en su cargo dos años, pudiendo ser nuevamente propuestos y designados.
+Los Consejeros a que se refieren las Fracciones I, II, III y IV de los Artículos 5o. y 6o. de esta Ley, durarán en el cargo mientras sean titulares de la Dependencia, y serán substituídos automáticamente por el nuevo titular. Los Consejeros Representantes de la Iniciativa Privada, durarán en su cargo dos años, pudiendo ser nuevamente propuestos y designados.
 
 ###### ARTICULO 10.
 
@@ -262,3 +272,11 @@ EL OFICIAL MAYOR DE GOBIERNO ENCARGADO DE LA SECRETARIA GRAL. POR MINISTERIO DE 
 C. DR. MIGUEL ANGEL CARDENAS GONZALEZ.
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE SEPTIEMBRE DE 1980.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
