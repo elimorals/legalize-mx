@@ -4,7 +4,7 @@ identifier: "FED-codigo-agrario-de-los-estados-unidos-mexicanos-1528"
 country: "mx"
 rank: "codigo"
 publication_date: "1943-04-27"
-last_updated: "1963-01-22"
+last_updated: "1971-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1528&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1942-12-31"
 
 CODIGO AGRARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE ENERO DE 1963.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY FEDERAL DE REFORMA AGRARIA PUBLICADA EN EL D.O.F. DE 16 DE ABRIL DE 1971, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: DEROGADO.
 
 Código publicado en el Diario Oficial de la Federación, el martes 27 de abril de 1943.
 
@@ -2806,3 +2808,41 @@ Cuando una colonia desaparezca, si los terrenos que la forman eran nacionales, s
 ###### ARTICULO SEPTIMO.
 
 Esta Ley entrará en vigor al siguiente día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 16 DE ABRIL DE 1971.
+
+###### ARTICULO PRIMERO.
+
+Se deroga el Código Agrario del 31 de diciembre de 1942.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las leyes, reglamentos, decretos, circulares y demás disposiciones expedidas que se opongan a la aplicación de esta Ley.
+
+En tanto el Presidente de la República expide los Reglamentos que previene esta Ley, seguirán aplicándose los anteriores, en cuanto no la contravengan.
+
+###### ARTICULO TERCERO.
+
+Los Gobiernos locales deberán dictar, a la mayor brevedad, las disposiciones legales que sean necesarias para ajustarse a lo que esta Ley establece en el capítulo del Registro Agrario Nacional.
+
+###### ARTICULO CUARTO.
+
+Los expedientes en tramitación cualquiera que sea su estado, se ajustarán a las disposiciones de esta Ley, a partir de la fecha en que entre en vigor.
+
+###### ARTICULO QUINTO.
+
+Las concesiones de inafectabilidad ganadera vigentes, autorizadas conforme a las disposiciones relativas del Código Agrario y el reglamento respectivo, continuarán rigiéndose por dichas disposiciones hasta el término del período por el que fueron concedidas; pero será también causa de derogación total de dichas concesiones, el hecho de que sus titulares siembren o permitan que se siembre en sus predios mariguana, amapola o cualquier otro estupefaciente.
+
+Las concesiones de inafectabilidad ganadera, deben estar inscritas durante el tiempo de su vigencia.
+
+###### ARTICULO SEXTO.
+
+Las indemnizaciones a que se refiere el artículo 219, se tramitarán de acuerdo con las disposiciones que sobre el particular se expidan.
+
+###### ARTICULO SEPTIMO.
+
+La presente Ley entrará en vigor a los quince días de la fecha de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO OCTAVO.
+
+Las empresas o unidades industriales que al entrar en vigor esta Ley tengan autorización de explotación forestal, seguirán operando hasta el vencimiento de dichas autorizaciones y sus prórrogas conforme al régimen establecido en la Ley Forestal, publicada el 6 de enero de 1960 y sus reformas.
