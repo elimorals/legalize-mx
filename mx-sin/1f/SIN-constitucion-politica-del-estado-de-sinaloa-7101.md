@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1985-04-26"
+last_updated: "1985-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JULIO DE 1985.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -1627,7 +1627,9 @@ Se reconoce capacidad y personalidad jurídica a las Comunidades agrarias o núc
 
 Constituyen el patrimonio de la familia:
 
-I. La casa habitada por la familia y el terreno sobre el cual esté construida, aún cuando dichos inmuebles no estén registrados como patrimonio familiar.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 1985)</small>
+
+I. La casa habitada por la familia y el terreno sobre el cual esté construida.
 
 II. En el medio rural constituyen el patrimonio familiar, además de los bienes previstos en la fracción anterior, el terreno y los animales de que dependa exclusivamente la subsistencia de la familia.
 
@@ -1635,9 +1637,17 @@ III. Los bienes muebles indispensables para el normal funcionamiento del hogar, 
 
 IV. Los libros, útiles, enseres y herramientas del taller y oficina, de los que dependa la subsistencia familiar.
 
-V. Los demás bienes que señale la Ley.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 1985)</small>
 
-Los bienes inmuebles que constituyan el patrimonio familiar, sólo podrán ser enajenados previa autorización judicial. Los bienes muebles e inmuebles a que se refiere este artículo, serán transmisibles por herencia bajo sencillas fórmulas y no podrán sujetarse a gravámenes ni embargos. La Ley regulará lo concerniente a la materia.
+V. Los demás bienes que señale el Código Civil para el Estado.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 1985)</small>
+
+Los Código (sic) Civil y de Procedimientos Civiles para el Estado fijarán los requisitos que deberán observarse, además de la previa comprobación de la propiedad de los bienes, para que éstos queden afectados al patrimonio de la familia.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 1985)</small>
+
+Aprobada la constitución y efectuado el registro del patrimonio de la familia, los bienes que queden destinados al mismo serán transmisibles por herencia bajo sencillas fórmulas y no podrán ser sujetos a gravámenes ni embargos, requiriéndose autorización judicial para la enajenación de los inmuebles que integren dicho patrimonio.
 
 ###### Art. 153.
 
@@ -2274,3 +2284,9 @@ Una vez aprobadas, en su caso, las cuentas de los gastos públicos de 1984, dent
 ###### ARTICULO TERCERO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 12 DE JULIO DE 1985.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
