@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1928-11-01"
+last_updated: "1928-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 1928.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 1928.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -54,6 +54,12 @@ P.O. 1 DE NOVIEMBRE DE 1928
 ART. 1°.- La reforma del artículo 48 de la Constitución Política del Estado, comenzará a regir al instalarse la XXIX Legislatura Constitucional del mismo.
 
 ART. 2°.- Esta Ley comenzará a surtir sus efectos, desde la fecha de su publicación.
+
+P.O. 27 DE DICIEMBRE DE 1928
+
+ART. 1°.- Lo dispuesto en los artículos 31 y 32, comenzará a regir al verificarse las elecciones para integrar la XXIX Legislatura.
+
+ART. 2°.- Esta Ley comenzará a regir el día 1° de Enero de 1929.
 
 ## TITULO SEGUNDO
 
@@ -261,17 +267,17 @@ Los Poderes Públicos del Estado sólo podrán hacer aquello para lo que expresa
 
 Del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
 
 ###### Art. 31.
 
-El Poder Legislativo se deposita en una Asamblea que se denominará "LEGISLATURA DEL ESTADO". Esta se compondrá de representantes del pueblo, que serán electos en su totalidad cada cuatro años, directamente por aquél.
+El Poder Legislativo se deposita en una Asamblea que se denominará "LEGISLATURA DEL ESTADO". Esta se compondrá de representantes del pueblo que serán electos en su totalidad cada cuatro años, directamente por aquél, de acuerdo con la ley electoral.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
 
 ###### Art. 32.
 
-Por cada cuarenta mil habitantes de cualquier sexo y edad, o fracción mayor de veinte mil, en cada uno de los Municipios que forman el Estado, se elegirá un diputado propietario y un suplente; pero en ningún caso el número de éstos será menor de siete propietarios y siete suplentes, para todo el Estado, y su remuneración no será mayor de doce pesos diarios, cualquiera que sea la denominación que ella tenga.
+Por cada treinta mil habitantes de cualquier sexo y edad, o fracción mayor de quince mil, se elegirá un diputado propietario y un suplente; pero en ningún caso el número de éstos será menor de nueve propietarios y nueve suplentes, para todo el Estado, y su remuneración no será mayor de doce pesos diarios, cualquiera que sea la denominación que ella tenga.
 
 ###### Art. 33.
 
@@ -323,9 +329,13 @@ IV.- En los demás casos que señale el reglamento interior de la Cámara.
 
 Para que los Diputados Propietarios y Suplentes puedan entrar a funcionar, deberán haber prestado previamente ante la Legislatura, ante las Juntas Preparatorias o ante la Diputación Permanente, en sus respectivos casos, la protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de ellas emanen, y cumplir leal y patrióticamente con el cargo que el pueblo les ha conferido.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+
 ###### Art. 40.
 
 La Legislatura del Estado calificará las elecciones de sus miembros, para lo cual deberá reunirse quince días antes de la fecha señalada para su instalación, celebrando las juntas preparatorias que fueren necesarias.
+
+En caso de que se instalen dos o más Legislaturas, será la legal aquella que se instale en el recinto oficial y de acuerdo con la ley, y sea además reconocida por el Poder Ejecutivo del Estado.
 
 ## TITULO TERCERO
 
@@ -337,15 +347,17 @@ de sus sesiones.
 
 La Legislatura del Estado se instalará el día 14 de septiembre, y el 16 del mismo mes del año que corresponda, abrirá su período de sesiones. En los casos de sesiones extraordinarias, el día que se fije en la convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
 
 ###### Art. 42.
 
-La Legislatura tendrá cada año dos períodos de sesiones; el primero comenzará el día 16 de septiembre y terminará el 15 de enero; el segundo comenzará el día 1° de abril y terminará el 31 de julio.
+La Legislatura tendrá cada año dos períodos improrrogables de sesiones: el primero comenzará el día 16 de septiembre y terminará el 31 de diciembre; el segundo comenzará el día 1° de abril y terminará el 30 de junio.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
 
 ###### Art. 43.
 
-El segundo período de sesiones se destinará de toda preferencia, al exámen(sic) y votación de los Presupuestos, a decretar las contribuciones para cubrirlos, y a la revisión de la cuenta anterior que habrá de presentar el Ejecutivo.
+El primer período de sesiones se destinará de toda preferencia al examen y votación de los presupuestos y a decretar las contribuciones para cubrirlos, atendiendo a las iniciativas que oportunamente deberá presentar el Ejecutivo.
 
 ###### Art. 44.
 
@@ -465,7 +477,9 @@ II.- Dar la resolución que corresponda, aprobando, reformando o reprobando las 
 
 III.- Computar los votos emitidos en las elecciones de Diputados y de Gobernador del Estado, calificar la elección y hacer la declaración de los electos, en los términos de la ley; así como tomarles la protesta legal, lo mismo que a los Magistrados del Tribunal de Justicia del Estado;
 
-IV.- Exigir del Ejecutivo que rinda cuentas sobre la recaudación e inversión de los caudales públicos;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1928)</small>
+
+IV.- Exigir a la Contraloría que rinda cuenta sobre la recaudación e inversión de los caudales públicos, de acuerdo con la ley especial que reglamente el funcionamiento de la misma Contraloría.
 
 V.- Expedir en su caso la convocatoria para elecciones:
 
@@ -501,7 +515,9 @@ XVII.- Conocer de las acusaciones que se hagan a los funcionarios públicos de q
 
 XVIII.- Autorizar al Ejecutivo para que arregle los límites del Estado, por convenios que sujetarán a la aprobación de la Legislatura, y ésta al Congreso de la Unión;
 
-XIX.- Aprobar o desaprobar las cuentas de recaudación e inversión de todos los caudales del Estado, tomando en el segundo caso las medidas que sean procedentes;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1928)</small>
+
+XIX.- Aprobar las cuentas que periódicamente presente la Contraloría por conducto del Auditor Delegado de la Cámara, sobre la inversión de todos los caudales del Estado y de los Ayuntamientos, de acuerdo con las leyes, presupuestos de egresos y reglamentos respectivos.
 
 XX.- Crear y suprimir empleos públicos en el Estado, y señalar, aumentar o disminuir las respectivas remuneraciones;
 
@@ -543,13 +559,25 @@ XXXVII.- Otorga o no concesiones a las compañías o particulares que lo solicit
 
 XXXVIII.- Revisar la Ley de Ingresos Municipales, y decretar la Ley General Orgánica de los Municipios;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1928)</small>
 
-XXXIX.- Llamar a los diputados suplentes, en caso de imposibilidad o muerte de los propietarios; y si aquéllos también hubieren fallecido o estuvieren imposibilitados para cubrir las faltas de sus propietarios o no concurrieren a diez sesiones consecutivas, sin causa justificada a juicio de la Legislatura, expedir la convocatoria respectiva para que procedan a nueva elección el Distrito o Distritos Electorales respectivos;
+XXXIX.- Llamar a los diputados suplentes en caso de imposibilidad o muerte de los propietarios, y si aquéllos también hubieren fallecido o estuvieren imposibilitados para cubrir las faltas de sus propietarios, expedir la convocatoria para que se proceda a nueva elección en el distrito o distritos electorales respectivos.
 
-XL.- Expedir todas las leyes que sean necesarias y propias para hacer efectivas las facultades antecedentes, y todas las que por esta Constitución y la Federal se le conceden:
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1928)</small>
 
-XLI.- Las demás que le encomienden las leyes.
+XL.- Llamar a los diputados suplentes cuando los propietarios falten a diez sesiones consecutivas sin causa justificada, a juicio de la Honorable Legislatura, entendiéndose por esto que dichos propietarios renuncian a concurrir al período de sesiones en ejercicio.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1928)</small>
+
+XLI.- Expedir la convocatoria respectiva para elecciones de Diputados suplentes, cuando éstos falten sin causa justificada, a juicio de la Honorable Legislatura, a diez sesiones consecutivas, debiendo considerarse por este hecho que renuncian a su cargo.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1928)</small>
+
+XLII.- Expedir todas las leyes que sean necesarias y propias para hacer efectivas las facultades antecedentes y todas las que por esta Constitución y la Federal se le concedan.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1928)</small>
+
+XLIII.- Las demás que les encomienden las leyes.
 
 ###### Art. 64.
 
@@ -961,9 +989,11 @@ Si llegado el tiempo de las sesiones ordinarias, el Congreso se hallare reunido 
 
 De la Hacienda Pública del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+
 ###### Art. 150.
 
-La Hacienda Pública del Estado será administrada por los empleados que al efecto nombre el Ejecutivo del mismo.
+La Hacienda Pública del Estado será administrada por los empleados que al efecto nombre el Ejecutivo o sean designados de acuerdo con la ley.
 
 ###### Art. 151.
 
@@ -985,9 +1015,11 @@ El año fiscal comenzará el día 1º de enero y terminará el día 31 de diciem
 
 De la Contaduría General de Hacienda del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+
 ###### Art. 73.
 
-En la Secretaría del Congreso habrá una sección que se denominará <<Contaduría General de Hacienda>>, para el examen y glosa de las cuentas de los caudales públicos del Estado y de los Municipios, en todos sus ramos. Dependerá exclusivamente del Congreso, siendo su órgano inmediato la Comisión Inspectora, y será reglamentada por una ley.
+Se establece en el Estado el Departamento de Contraloría cuya organización y funcionamiento se determinarán en la ley respectiva.
 
 ###### Art. 74.
 
@@ -999,17 +1031,19 @@ El Contador General de Hacienda, en los términos que señale el Reglamento resp
 
 De las Responsabilidades.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
 
 ###### Art. 154.
 
-Todos los Funcionarios del Estado y Municipales, serán responsables de los delitos del orden común que cometan durante el tiempo de su encargo, o hubieren cometido antes de él, así como por los delitos o faltas oficiales en que incurrieren durante su ejercicio. Lo es también el Gobernador del Estado; pero durante el período de su cargo solamente podrá ser acusado o desaforado por el delito de traición a la Patria.
+Todos los Funcionarios del Estado y Municipales serán responsables de los delitos del orden común que cometan durante el tiempo de su encargo o hubieren cometido antes de él, así como por los delitos o faltas oficiales en que incurrieren durante su ejercicio. Lo es también el Gobernador del Estado; pero durante el período de su encargo, solamente podrá ser acusado o desaforado previo juicio y por votación de las dos terceras partes del número total de los miembros que integren la Legislatura, por los delitos de traición a la Patria y graves del orden común legalmente comprobados, que enumera el artículo 22 de la Constitución General de la República.
 
-Cualquiera otra responsabilidad que le resulte por la comisión de delitos oficiales o del orden común, que cometiere durante su ejercicio, no podrá motivar acusación ni desafuero en su contra y sólo podrá exigírsele dentro de un año contado desde la fecha en que concluyó el período para el cual fue electo.
+Cualquiera otra responsabilidad que al expresado funcionario le resulte por la comisión de delitos oficiales o del orden común, no podrá motivar acusación en su contra ni desafuero, y sólo podrá serle exigida dentro de un año contado desde la fecha en que termine su cargo por lo que ve a delitos y faltas oficiales, y en concluyendo su período, conforme a la ley respectiva por lo que corresponde a los del orden común.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
 
 ###### Art. 155.
 
-En los delitos del orden común que cometiere el Gobernador, el Secretario de Gobierno, los Diputados de la Legislatura, los Magistrados y el Procurador General de Justicia, la Legislatura, erigida en Gran Jurado, declarará a mayoría absoluta de votos, en la forma que determine la ley, si hay o no lugar a formación de causa. En caso negativo, cesará todo procedimiento contra el acusado. En lo afirmativo, quedará éste suspenso en su cargo, y sujeto a los Tribunales Comunes.
+En los delitos del orden común que cometiere el Secretario de Gobierno, los Diputados a la Legislatura, los Magistrados y el Procurador General de Justicia, la Legislatura, erigida en Gran Jurado, declarará por el voto de las dos terceras partes del total de diputados que la integren, y en la forma que determine la ley, si hay o no lugar a formación de causa. En caso negativo, cesará todo procedimiento contra el acusado. En el afirmativo, quedará éste suspenso en su cargo, y sujeto a los tribunales comunes.
 
 ###### Art. 156.
 
@@ -1089,6 +1123,42 @@ Ningún pago podrá hacerse que no esté comprendido en el presupuesto, o determ
 
 En un servicio altamente meritorio para el Estado y para los Municipios del mismo, dedicarse al magisterio en el ramo de Instrucción Pública. Una ley designará recompensas y premios, proporcionados a la importancia de los servicios de los que se dediquen a la expresada profesión.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+
+###### Art. 172.
+
+Los ministros de cultos religiosos, cualquiera que sea su denominación, no podrán en ninguna circunstancia ni por ningún motivo ser llamados por elección o de otra manera a empleo o cargo público alguno, civil o militar en el Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+
+###### Art. 173.
+
+Todos los funcionarios y empleados tanto del Estado como de los Municipios antes de comenzar a desempeñar sus cargos, deben protestar ante quien corresponda, cumplir y vigilar el cumplimiento de la Constitución General de la República y de esta Constitución así como las demás leyes federales o del Estado que a aquellas no se opongan.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+
+###### Art. 174.
+
+Cuando desaparezcan los Poderes Legislativos y Ejecutivos del Estado, los Magistrados en funciones del Superior Tribunal de Justicia, a mayoría de votos, nombrarán un Gobernador provisional; pero si desaparecieren todos los Poderes, será Gobernador provisional, por ministerio de la ley, el último Presidente del Tribunal; a falta de éste y por su orden, el último Secretario de Gobierno, los demás Magistrados y los Presidentes de la Legislatura desde su elección.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+
+###### Art. 175.
+
+El Gobernador provisional a que se refiere el artículo anterior, convocará en los términos del artículo 83 de esta Constitución, a elección.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+
+###### Art. 176.
+
+El Gobernador provisional a que se refieren los dos artículos anteriores, ejercerá las funciones que esta Constitución y las demás leyes relativas conceden a la diputación permanente, con relación a dichas elecciones, nombrando en su caso, Magistrados interinos del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+
+###### Art. 177.
+
+Si no pudieren cumplirse las prevenciones de los artículos 174 y 175, se estará a lo dispuesto a la fracción V del artículo 76 de la Constitución federal.
+
 ### CAPITULO I
 
 Del Gobernador.
@@ -1101,11 +1171,11 @@ El Supremo Poder Ejecutivo del Estado, se depositará en una persona, que se den
 
 El Gobernador del Estado durará en su encargo cuatro años, y será electo directa y popularmente, en los términos que establezca la ley electoral respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 1918)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1928)</small>
 
 ###### Art. 77.
 
-Para ser Gobernador del Estado se requiere:
+Para ser Gobernador se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento, y en el pleno ejercicio de sus derechos políticos y civiles;
 
@@ -1115,9 +1185,9 @@ II.- Ser ciudadano del Estado por nacimiento, o con vecindad no menor de cinco a
 
 III.- Tener cuarenta años cumplidos el día de la elección;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1928)</small>
 
-IV.- No tener mando de fuerzas en el Estado, a menos que se separe definitivamente de su empleo o cargo, noventa días antes de la elección. Esta prohibición es aplicable a los gobernadores interinos.
+IV.- No tener mando de fuerzas en el Estado, a menos que se repare definitivamente de su empleo o cargo noventa días antes de la elección.
 
 V.- No haber figurado, directa ni indirectamente, en alguna asonada, motín o cuartelazo;
 
@@ -1143,9 +1213,11 @@ No podrá ser Gobernador del Estado, para el próximo período, el ciudadano que
 
 Sólo los ciudadanos del Estado, residentes en su territorio, podrán ser nombrados Gobernadores Interinos, debiendo tener los demás requisitos que para los propietarios exige el art. 77.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+
 ###### Art. 83.
 
-En caso de falta absoluta de Gobernador, ocurrida en los dos primeros años del período constitucional, si la Legislatura estuviere reunida en sesiones, se constituirá inmediatamente en Colegio Electoral, y con el concurso, cuando menos, de las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos, un Gobernador interino, expidiendo desde luego la convocatoria a elecciones de Gobernador Constitucional, las que deberán tener verificativo dentro del término de noventa días.
+Los gobernadores interinos deberán tener los mismos requisitos que para los propietarios exige el artículo 77.
 
 ###### Art. 84.
 
@@ -1167,11 +1239,11 @@ Si al comenzar un período constitucional, no se presentare el Gobernador electo
 
 En los casos de los cuatro artículos que anteceden, al faltar definitivamente el Gobernador, quedará investido provisionalmente de este cargo, el Presidente del Tribunal Superior de Justicia, para sólo el efecto de promulgar el decreto por el cual se nombra Gobernador interino o provisional, en sus respectivos casos.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
 
 ###### Art. 88.
 
-Cuando la falta fuere temporal y no exceda de treinta días, le suplirá por Ministerio de la Ley el Secretario General de Gobierno, siempre que reúna los requisitos que señala la Constitución para ser Gobernador; en caso contrario la Legislatura o en su defecto lo (sic) Diputación Permanente designará desde luego un Gobernador Interino que funcione por el tiempo que dure dicha falta.
+Cuando la falta fuere temporal y exceda de ocho días sin pasar de treinta, lo suplirá por ministerio de la ley el Secretario General de Gobierno, siempre que reúna los requisitos que señale la Constitución para ser Gobernador; en caso contrario, la Legislatura o en su caso la Diputación Permanente, designará desde luego un Gobernador Interino que funcione por el tiempo que dure dicha falta.
 
 ###### Art. 89.
 
@@ -1193,13 +1265,17 @@ El Gobernador no se considerará separado del despacho, cuando saliere a visitar
 
 Gobernador.
 
+> <small>(REFORMADO PRIMER PARRAFO, 27 DE DICIEMBRE DE 1928)</small>
+
 ###### Art. 93.
 
-Las facultades y obligaciones del Gobernador son:
+Son facultades y obligaciones del Gobernador:
 
 I.- Cuidar de la seguridad el Estado y de la de sus habitantes, protegiéndolos en el ejercicio de sus derechos;
 
-II.- Promulgar y ejecutar las leyes generales y las particulares del Estado, proveyendo respecto de éstas, en la esfera puramente administrativa, a su fiel y exacta observancia, sin alterar ni variar en nada su genuina interpretación. La publicación se hará a más tardar y cuando el caso no exija mayor premura, a las setenta y dos horas de haberse recibido en la Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1928)</small>
+
+II.- Promulgar, ejecutar y reglamentar las leyes generales y particulares del Estado, cuya reglamentación no esté reservada a la Legislatura, proveyendo respecto de aquellas en la esfera puramente administrativa a su exacta observancia.
 
 III.- Cuidar de la legal recaudación e inversión de todos los caudales públicos. Visitar o hacer visitar cuando lo juzgue conveniente, las oficinas de su dependencia y las Municipales, y multar, suspender o destituir inmediatamente a los empleados responsables, debiendo consignarlos dentro de tercero día al Juez que corresponda, en caso de delito o falta grave;
 
@@ -1229,7 +1305,9 @@ XV.- Proponer a la Legislatura, cada año, las Leyes de Ingresos del año próxi
 
 XVI.- Remitir cada dos años al nuevo Congreso, dentro de los primeros treinta días de su instalación, una memoria instructiva documentada y autorizada del estado que guarde la Administración pública, y asistir cada año a la apertura de sesiones en los términos del artículo 5º;
 
-XVII.- Nombrar y remover libremente al Secretario del Despacho, al Procurador de Justicia, al Administrador General de Rentas y demás empleados cuyo nombramiento no esté encomendado a otras autoridades;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1928)</small>
+
+XVII.- Nombrar y remover libremente al Secretario del Despacho, al Procurador de Justicia, al Tesorero General, al Contralor del Estado y demás empleados cuyo nombramiento no está encomendado a otras autoridades;
 
 XVIII.- Conceder o denegar indulto, y reducción o conmutación de pena, por los delitos de la competencia de los Tribunales del Estado, con los requisitos establecidos per(sic) las leyes;
 
@@ -1247,7 +1325,7 @@ XXIV.- Castigar correccionalmente a los que le falten al respeto, o desobedezcan
 
 XXV.- Hacer que las elecciones sean libres, e impedir que alguno ejerza presión en ellas;
 
-XXVI.- Entregar a la Contaduría General de Hacienda del Estado, a más tardar en el mes de septiembre, las cuentas correspondientes al año fiscal anterior, para su revisión;
+XXVI.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 1928)
 
 XXVII.- Las demás que le encomienden las leyes.
 
@@ -1347,7 +1425,7 @@ El Congreso del Estado, en la primera de sus sesiones ordinarias del próximo pe
 
 ###### Art. 4º.
 
-El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo el día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
+El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo en día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
 
 ###### Art. 5º.
 
