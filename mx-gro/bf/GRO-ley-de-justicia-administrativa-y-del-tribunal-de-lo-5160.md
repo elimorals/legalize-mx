@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-justicia-administrativa-y-del-tribunal-de-lo-5160"
 country: "mx"
 rank: "ley"
 publication_date: "1987-07-07"
-last_updated: "1987-07-07"
+last_updated: "1987-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE JUSTICIA ADMINISTRATIVA Y DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 1987.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 7 de julio de 1987.
 
@@ -935,6 +935,12 @@ En un plazo no mayor de nueve meses contados a partir de la publicación de esta
 
 El Reglamento Interno del Tribunal de lo Contencioso Administrativo, se expedirá por el Pleno en un término de 90 días a partir de su instalación.
 
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 1987)</small>
+
+###### ARTICULO CUARTO.
+
+Los nombramientos que expida el Titular del Poder Ejecutivo en favor de los Magistrados de las Salas Superior y Regionales, tendrán una vigencia de un año, durante los primeros seis años, transcurridos los cuales entrará en plenitud la vigencia del Artículo 91 de esta Ley.
+
 Dada en el Salón de Sesiones del H. Poder Legislativo del Estado de Guerrero, a los veintiséis días del mes de junio de mil novecientos ochenta y siete.
 
 DIPUTADO PRESIDENTE.
@@ -964,3 +970,9 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 1987.
+
+UNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
