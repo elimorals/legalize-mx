@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1987-02-12"
+last_updated: "1988-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 1988.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -184,6 +184,10 @@ Los partidos políticos tendrán derecho a participar en las elecciones estatale
 ###### Artículo 14.
 
 El Estado de Michoacán de Ocampo es parte integrante de los Estados Unidos Mexicanos, y está constituído por la porción de territorio nacional que le reconozcan la Constitución Federal, las leyes y los convenios.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
+
+El Estado puede arreglar con las entidades federativas limítrofes, por convenios amistosos, sus respectivos límites; pero no se llevarán a efecto esos arreglos sin la aprobación del Congreso de la Unión.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -869,7 +873,7 @@ El Secretario General de Gobierno, será el órgano por el cual el Ejecutivo com
 
 El Gobernador podrá autorizar que comparezca ante el Congreso los titulares de las dependencias básicas del Poder Ejecutivo, a rendir informes sobre el estado que guarde el ramo respectivo o cuando se discuta alguna ley, decreto o asunto de su competencia.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1978)</small>
 
 ###### Artículo 65.
 
@@ -891,9 +895,21 @@ Los titulares de las dependencias serán responsables con el Gobernador en todos
 
 Se deposita el ejercicio del Poder Judicial del Estado en el Supremo Tribunal de Justicia, en los Jueces de Primera Instancia, en los Municipales y de Tenencia y en los Jurados.
 
-La leyes del Estado podrán establecer tribunales de lo contencioso-administrativo dotados de plena autonomía para dictar sus resoluciones y que tengan a su cargo dirimir las controversias que se susciten entre la administración pública estatal o municipal y los particulares.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 1988)</small>
 
-Procederá el recurso de revisión ante el Supremo Tribunal de Justicia contra las resoluciones definitivas de dichos tribunales administrativos, solo en los caos que señalen las leyes estatales, y siempre que esas resoluciones hayan sido dictadas como consecuencia de un recurso interpuesto dentro de la jurisdicción contencioso-administrativa.
+La independencia de los Magistrados y jueces en el ejercicio de sus funciones deberá estar garantizada por esta Constitución y la Ley Orgánica respectiva, las cuales establecerán las condiciones para el ingreso, formación y permanencia de quienes sirvan al Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 1988)</small>
+
+Los nombramientos de los magistrados y jueces integrantes del poder Judicial serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
+
+Los jueces de primera instancia y los que con cualquier otra denominación se creen en el Estado, serán nombrados por el Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
+
+Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -923,35 +939,37 @@ El Supremo Tribunal de Justicia estará integrado por un número no menor de sie
 
 La Ley Orgánica del Poder Judicial fijará el número de magistrados y distribuirá las competencias señalando las funciones que correspondan al Presidente, al Pleno y a las Salas.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 1988)</small>
 
 ###### Artículo 71.
 
-Para ser Magistrado propietario o supernumerario se requiere:
+Para ser electo magistrado, propietario o supernumerario del Supremo Tribunal de Justicia del Estado, se necesita:
 
-I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos o civiles;
+I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos o civiles;
 
-II.- Haber cumplido treinta años de edad en la fecha de su nombramiento;
+II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la elección;
 
-III.- Tener título de abogado expedido por la Universidad Michoacana de San Nicolás de Hidalgo o por Institución reconocida por ésta, y no estar suspendido en el ejercicio de su profesión;
+III.- Poseer el día de la elección, con antigüedad mínima de cinco años, título profesional de abogado expedido por la Universidad Michoacana de San Nicolás de Hidalgo o por la autoridad o corporación legalmente facultada para ello;
 
-IV.- Haber sido Juez de Primera Instancia durante tres años, cuando menos, o haber ejercido la profesión de abogado durante cinco años, y
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y,
 
-V.- Gozar de buena reputación y no haber sido condenado por delitos infamantes o contra la propiedad.
+V.- Haber residido en el país durante los últimos cinco años, salvo el caso de ausencia en el servicio de la República por un término menor de seis meses.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 1971)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 1988)</small>
 
 ###### Artículo 72.
 
-Los magistrados del Supremo Tribunal de Justicia durarán en sus cargos tres años, pudiendo ser reelectos; los designados para tres períodos consecutivos, serán inamovibles.
+Los magistrados durarán tres años en el ejercicio de su encargo, podrán ser reelectos, y si lo fueren, sólo podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución y la Ley de Responsabilidades de los Servidores públicos del Estado.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 1971)</small>
 
 Cuando el magistrado inamovible cumpla setenta años, o padezca incapacidad física o mental permanente para desempeñar su cargo, el Supremo Tribunal dictaminará el retiro forzoso. El dictamen se someterá a la consideración del Gobernador del Estado, quien lo enviará, en su caso, para su aprobación, al Congreso o a la Diputación Permanente. Podrá retirarse voluntariamente si tiene más de quince años de servicios efectivos como magistrado, siempre que haya cumplido 60 años de edad. En este caso se seguirá la misma tramitación.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 1971)</small>
+
 El magistrado inamovible que obtenga su retiro forzoso, disfrutará de una pensión equivalente a la remuneración que perciba, si tiene más de diez años de servicios efectivos como magistrado. El que obtenga su retiro voluntario, disfrutará de la misma pensión.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE FEBRERO DE 1984)</small>
-
-Los Magistrados sólo podrán ser privados de sus puestos en los términos del título IV de esta Constitución.
+> <small>(DEROGADO, P.O. 25 DE NOVIEMBRE DE 1971)</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1141,11 +1159,19 @@ Es obligación de los jurados conocer, en calidad de jueces, de los negocios que
 
 ###### Artículo 92.
 
-Los negocios judiciales serán decididos dentro del Estado en todas sus instancias, las que nunca podrán ser más de dos. Cada instancia será sentenciada por diferentes jueces.
+Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito quedando, en consecuencia, prohibidas las costas judiciales.
+
+Las leyes locales establecerán los medios necesarios para que garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
+
+Nadie puede ser aprisionado por deudas de carácter puramente civil.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 1988)</small>
 
 ###### Artículo 93.
+
+los negocios judiciales serán decididos dentro del Estado en todas sus instancias, las que nunca podrán ser más de dos. Cada instancia será sentenciada por diferentes jueces.
 
 Los negocios de poca cuantía y los procesos por delitos leves se tramitarán sumaria y definitivamente por los jueces municipales, en los términos de la Ley; pero nunca se procederá sin audiencia de parte y comprobación de los hechos.
 
@@ -1169,15 +1195,21 @@ Toda persona está en libertad para terminar sus diferencias con otra, ya sea po
 
 En el curso de los procesos penales no se emplearán con los acusados promesas, amenazas o violencias.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
+
+Las penas privativas de la libertad no podrán en ningún caso exceder de treinta años.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 1988)</small>
 
 #### SECCION V. De la Administración de Justicia en General
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 1988)</small>
 
 ###### Artículo 96.
 
-Las penas privativas de la libertad no podrán en ningún caso exceder de treinta años.
+Las leyes estatales podrán instituir tribunales de lo contencioso-administrativo dotados de plena autonomía para dictar sus fallos que tengan a su cargo dirimir las controversias que se susciten entre la administración pública estatal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
+
+Procederá el recurso de revisión ante el Supremo Tribunal de Justicia contra las resoluciones definitivas de dichos tribunales administrativos, sólo en los casos que señalen las leyes estatales, y siempre que esas resoluciones hayan sido dictadas como consecuencia de un recurso interpuesto dentro de la jurisdicción contencioso-administrativa.
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1345,7 +1377,13 @@ El Ayuntamiento tendrá personalidad jurídica para todos los efectos legales.
 
 Los Ayuntamientos se integrarán por un Presidente, un Síndico y de tantos regidores como determine la Ley, pero éstos no podrán ser menos de cinco.
 
-Se introducirá el principio de representación proporcional en los Ayuntamientos del Estado, conforme a los procedimientos que establezca la Ley Electoral.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 1988)</small>
+
+Las leyes estatales introducirán el principio de la representación proporcional en la elección de los ayuntamientos de todos los municipios.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
+
+Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán por las leyes que expida la Legislatura del Estado, con base en lo dispuesto en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
 
@@ -1545,6 +1583,14 @@ Los servidores públicos serán responsables del cumplimiento de estas bases en 
 
 El Ejecutivo del Estado y los Ayuntamientos establecerán los mecanismos y adoptarán las medidas necesarias para planear el desarrollo estatal y municipal.
 
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
+
+La Federación y el Estado, en los términos de ley, podrán convenir la asunción por parte de éste del ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
+
+El Estado está facultado para celebrar esos convenios con sus municipios, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a las que se refiere el párrafo anterior.
+
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1983)</small>
 
 ###### Artículo 131.
@@ -1704,6 +1750,10 @@ El Ejecutivo tomará las medidas necesarias para que el salario mínimo señalad
 ###### Artículo 148.
 
 El Gobernador cuidará con todo empeño de que sean obedecidas las prescripciones relativas al trabajo y a la previsión social, en los términos de la Ley Federal del Trabajo y de la Constitución General de la República.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
+
+Las relaciones de trabajo entre el Estado y sus trabajadores, se regirán por las leyes que expida la Legislatura del Estado, con base en lo dispuesto por el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2094,3 +2144,9 @@ P.O. 12 DE FEBRERO DE 1987.
 PRIMERO. Este decreto entrará en vigor a los ocho días de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Conforme a lo que dispone la fracción VII del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, ténganse por aprobadas estas adiciones y reformas, por ser adecuaciones a la Constitución Política de los Estados Unidos Mexicanos, con la sola aprobación de la LXIV Legislatura.
+
+P.O. 11 DE ABRIL DE 1988.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, por tratarse de adecuaciones a la Constitución Política de los Estados Unidos Mexicanos, con la sola aprobación de la Sexagésima Cuarta Legislatura.
