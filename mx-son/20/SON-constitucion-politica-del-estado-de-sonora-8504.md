@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1977-10-26"
+last_updated: "1978-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE OCTUBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE AGOSTO DE 1978.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -249,6 +249,10 @@ El Estado de Sonora forma parte de la Federación de los Estados Unidos Mexicano
 
 La soberanía reside esencial y originariamente en el pueblo sonorense y se ejerce por medio de los Poderes Públicos del Estado. El Gobierno es, pues, emanación genuina del pueblo y se instituye para beneficio del mismo.
 
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 1978)</small>
+
+Los Partidos Políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral.
+
 ###### Artículo 23.
 
 El Estado de Sonora no reconoce en los Poderes Supremos de la Unión ni en otro alguno, derecho para pactar o convenir entre ellos o con nación extraña, aquello que lesione la integridad de su territorio, su nacionalidad, soberanía, libertad e independencia.
@@ -321,25 +325,39 @@ Elección de Diputados.
 
 Los Diputados al Congreso del Estado serán electos en su totalidad cada tres años.
 
-> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 1978)</small>
 
-###### Artículo 31.
+###### Articulo 31.
 
-La división del Estado en Distritos Electorales se hará proporcionalmente al número de habitantes. Los Distritos Electorales no podrán tener menos de veinticinco mil ni más de ciento veinte mil habitantes; y por cada uno de aquellos se elegirá un Diputado Propietario y un Suplente, en el concepto de que los Distritos no podrán ser menos de once. Además se designarán Diputados de Partido de acuerdo con esta Constitución y con lo que disponga la Ley Electoral a quienes resulten nominados de acuerdo con las reglas siguientes:
+El Congreso del Estado estará integrado por quince diputados electos en forma directa según el principio de votación mayoritaria relativa, en igual número de distritos uninominales y hasta con un máximo de cinco diputados electos según el principio de representación proporcional, mediante el sistema de listas, votados en una sola circunscripción plurinominal que comprenderá todo el territorio del Estado. Por cada diputado propietario se elegirá un suplente.
 
-> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 1977)</small>
+El Partido que solicite el registro de candidatos a diputados por votación mayoritaria relativa, deberá acompañar la lista de sus candidatos para ser electos según el principio de representación proporcional.
 
-I. Todo Partido Político que hubiese obtenido su registro conforme a la Ley Electoral del Estado, con un año o más de anterioridad al día de la elección, al obtener cuando menos el uno y medio por ciento de la votación total del Estado, en la elección de Diputados respectiva, tendrá derecho a que se le acredite, de sus candidatos, a un Diputado que se denominará "de partido".
+Los diputados electos por mayoría relativa y los electos según el principio de representación proporcional, siendo ambos representantes del pueblo, tendrán idéntica categoría e igualdad de derechos y deberes.
 
-II. Las diputaciones de partido serán acreditadas a los candidatos a diputados, que sin haber alcanzado la mayoría de votos en su Distrito, hayan obtenido el mayor número de sufragios a favor de sus propios partidos. La suplencia corresponderá al respectivo compañero de fórmula.
+La ley establecerá las bases demográficas y territoriales para la división del Estado en distritos electorales uninominales.
 
-III. El Partido Político que obtenga uno o más diputados de mayoría no tendrá derecho a que se le acredite Diputado de Partido.
-
-IV. Los diputados de mayoría y de partido, siendo representantes del pueblo, tendrán la misma categoría e iguales derechos y obligaciones.
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 1978)</small>
 
 ###### Artículo 32.
 
-La elección de Diputados será directa, en los términos que disponga la Ley Electoral.
+La elección de los diputados, según el principio de representación proporcional y el sistema de listas se sujetará a las bases generales siguientes y a lo que en particular disponga la ley:
+
+I. Para obtener el registro de su lista plurinominal el Partido Político que lo solicite, deberá acreditar:
+
+a). Que obtuvo su registro como Partido cuando menos con un año de anticipación al día de la elección; y
+
+b). Que participa con candidatos a diputados de mayoría relativa cuando menos en la tercera parte de los distritos uninominales del Estado.
+
+II. Tendrá derecho a que le sean asignados diputados electos según el principio de representación proporcional, todo aquel Partido que:
+
+a). En las mismas elecciones, no haya obtenido mas de tres diputaciones de mayoría; y
+
+b). Que alcance cuando menos el uno y medio por ciento de la votación total emitida en el Estado, para las listas plurinominales.
+
+III. Al Partido que cumpla con los supuestos señalados en las fracciones I y II de este artículo, le serán asignados por el principio de representación proporcional el número de diputados de su lista que le correspondan de acuerdo con el porcentaje de votos que haya obtenido en la votación por listas en todo el Estado. La ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
+
+IV. En el caso de que dos o más partidos con derecho a participar en la asignación de diputaciones por el sistema de listas, obtengan en su conjunto cinco o más constancias de mayoría, sólo serán objeto de reparto dos diputaciones según el principio de representación proporcional.
 
 > <small>(REFORMADO, B.O. 19 DE FEBRERO DE 1977)</small>
 
@@ -389,11 +407,11 @@ El Congreso no podrá abrir sus sesiones ni ejercer su encargo sin la concurrenc
 
 Si el día señalado por la Ley para la instalación del Congreso no se presentaren todos los diputados propietarios electos, o si una vez instalado no hubiere quórum para que ejerza sus funciones, los que asistieren compelerán a los ausentes a que concurran dentro de los primeros quince días, con la advertencia de que si no lo hacen perderán su carácter. En este caso se llamará a los suplentes con un plazo igual, y si tampoco se presentaren se declarará vacante el puesto y suspensos unos y otros en el uso de sus derechos de ciudadanos, por todo el tiempo que deberían durar en su encargo.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 1978)</small>
 
 ###### Artículo 38.
 
-Una vez declarado vacante el puesto en los términos del Artículo anterior, el Ejecutivo del Estado convocará a elecciones extraordinarias en los Distritos cuyos Representantes no se hubieren presentado a ocupar su asiento en el Congreso, siempre que hayan de transcurrir más de seis meses para que se efectúen las elecciones ordinarias.
+Una vez declarado vacante el puesto en los términos del artículo anterior, si se trata de un diputado electo por mayoría, el Congreso del Estado convocará a elecciones extraordinarias en el Distrito cuyo representante no se hubiere presentado a ocupar su asiento, siempre que hayan de transcurrir más de seis meses para que se efectúen las elecciones ordinarias. Si se trata de un diputado de representación proporcional, se llamará a ocupar la vacante al candidato que figure como siguiente en el orden de la lista del mismo Partido. Si tampoco éste se presentare, el Congreso declarará vacante la diputación por todo el resto del período.
 
 ###### Artículo 39.
 
@@ -625,7 +643,11 @@ XXIX. Para otorgar premios o recompensas a las personas que hayan prestado servi
 
 XXX. Para aprobar o reprobar la creación de nuevas Comisarías o suprimir las existentes, a iniciativa de los ayuntamientos correspondientes.
 
-XXXI. Para formar su Reglamento Interior y el de Debates, y tomar las providencias necesarias para hacer concurrir a los diputados ausentes y corregir las faltas u omisiones de los presentes.
+> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 1978)</small>
+
+XXXI. Para expedir la ley que regulará su estructura y funcionamiento internos, así como los reglamentos de la misma.
+
+La ley y los reglamentos a que se refieren los párrafos anteriores no podrán ser vetados ni necesitarán la promulgación del Ejecutivo para tener vigencia.
 
 XXXII. Para nombrar y remover conforme a las leyes a los empleados de su Secretaría y de su oficina de Glosa.
 
@@ -1369,21 +1391,33 @@ MUNICIPIO LIBRE.
 
 El Estado quedará dividido para su gobierno en municipios, de acuerdo con el artículo 25 de esta Constitución.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 12 DE AGOSTO DE 1978)</small>
 
 ###### Artículo 129.
 
-Cada municipio será administrado por un Ayuntamiento nombrado en elección popular directa. No habrá ninguna autoridad intermedia entre el Ayuntamiento y el Ejecutivo del Estado.
+Cada Municipio será administrado por un Ayuntamiento. No habrá ninguna autoridad intermedia entre el Ayuntamiento y el Ejecutivo del Estado.
+
+Cada Ayuntamiento se integrará por el Presidente Municipal y los Regidores que resulten electos por mayoría, en votación popular directa.
+
+En la capital del Estado y en aquellos Municipios con más de doscientos mil habitantes los Ayuntamientos serán electos de acuerdo con el Principio de Representación Proporcional en la forma y términos que determine la Ley Orgánica, de acuerdo con las siguientes bases:
+
+PRIMERA.- La votación total que se haya emitido por todas las Planillas contendientes se dividirá entre el número de Regidores que integrarán el Ayuntamiento o Cabildo, a fin de obtener el cociente electoral que servirá para la asignación de las mismas.
+
+SEGUNDA.- El Partido cuya Planilla haya obtenido el mayor número de votos tendrá prioridad en el reparto, el cual se iniciará asignando a dicho Partido la Presidencia Municipal.
+
+Teniendo en cuenta el último censo general de población, la Comisión Electoral del Estado determinará oportunamente, antes de cada elección, cuales serán los Municipios en los que podrá tener lugar la asignación de Regidores de Representación Proporcional. Igual determinación podrá tomarse por acuerdo de la propia Comisión, tomando en cuenta la información fidedigna de que se disponga sobre el crecimiento demográfico, cuando las condiciones socio-políticas de algún Municipio lo justifiquen.
 
 ###### Artículo 130.
 
 Los Municipios tendrán personalidad jurídica para todos los efectos legales.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 1978)</small>
 
 ###### Artículo 131.
 
-Los Ayuntamientos se compondrán de un Presidente, que llevará el nombre de Presidente Municipal y del número de Concejales que determine la Ley Orgánica relativa, todos los cuales serán designados en elección popular directa. En todo caso el número de los integrantes de un Ayuntamiento será impar y no menor de cinco. Para cada Concejal propietario se elegirá un suplente.
+El Ayuntamiento se compondrá de un Presidente que llevará el nombre de Presidente Municipal y del número de Regidores que determine la Ley Orgánica relativa.
+
+En todo caso, el número de los integrantes de un Ayuntamiento será impar y no menor de cinco. Por cada Regidor Propietario se elegirá un Suplente.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1495,7 +1529,9 @@ XII. Iniciar leyes ante el Congreso del Estado.
 
 XIII. Formar su Reglamento Interior.
 
-XIV. Computar y calificar los votos emitidos en las elecciones del nuevo ayuntamiento y en caso de elecciones extraordinarias los de sus propios miembros, haciendo la declaratoria correspondiente. Esta quedará sujeta a la revisión y declaración definitiva del Congreso en los casos de petición de nulidad.
+> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 1978)</small>
+
+XIV. Computar y calificar los votos emitidos en las elecciones de los integrantes del nuevo Ayuntamiento y en caso de elecciones extraordinarias en las de sus propios miembros, así como hacer las asignaciones de Regidores electos según el principio de representación proporcional en los casos previstos en el artículo 129 y emitir las declaratorias correspondientes. Estas quedarán sujetas a la revisión y resolución definitiva del Congreso del Estado, cuando se pida la nulidad de tales elecciones.
 
 XV. Rendir a los Poderes del Estado los informes que les pidan.
 
@@ -1990,6 +2026,12 @@ UNICO.- Esta ley entrará en vigor al día siguiente de su publicación en el Bo
 B.O. 26 DE OCTUBRE DE 1977.
 
 UNICO.- Esta ley entrará en vigor a partir del día de su publicación en el Boletín Oficial del Estado.
+
+B.O. 12 DE AGOSTO DE 1978.
+
+###### ARTICULO UNICO.
+
+Las presentes adiciones y reformas entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
