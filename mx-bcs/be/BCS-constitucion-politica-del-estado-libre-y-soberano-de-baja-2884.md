@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1985-05-20"
+last_updated: "1985-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MAYO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 1985.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -459,7 +459,7 @@ XX.- Elegir la Diputación Permanente;
 
 > <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
-XXI.- Otorgar o negar su aprobación a los nombramientos, renuncias y remociones de Magistrados del Tribunal Superior de Justicia, que le someta el Gobernador del Estado;
+XXI.- Otorgar o negar su aprobación a los nombramientos, renuncias y remociones de Magistrados del Tribunal Superior de Justicia, que le someta el Gobernador del Estado.
 
 XXII.- Legislar en todo lo relativo a la administración pública;
 
@@ -577,9 +577,9 @@ IV.- No ser militar en servicio activo o ciudadano con mando en los cuerpos de s
 
 V.- No ser funcionario o empleado federal noventa días anteriores a la fecha de la elección;
 
-> <small>(REFORMADA, B.O. 30 DE ABRIL DE 1981)</small>
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1985)</small>
 
-VI.- No ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Oficial Mayor, Procurador General o Magistrado del Tribunal Superior de Justicia del Estado, Diputado Local o Presidente Municipal, 90 días anteriores a la fecha de la elección; y
+VI.- No ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Salud, Contralor, Oficial Mayor, Procurador General, Magistrados del Tribunal Superior de Justicia del Estado, Diputado Local o Presidente Municipal, noventa días anteriores a la fecha de elección. Y
 
 VII.- No estar comprendido en alguna de las prohibiciones establecidas por el artículo 78 de esta Constitución.
 
@@ -625,9 +625,9 @@ I.- Publicar, cumplir y hacer cumplir las leyes federales;
 
 II.- Publicar, cumplir y hacer cumplir las leyes decretadas por el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia;
 
-> <small>(REFORMADA, B.O. 30 DE ABRIL DE 1981)</small>
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1985)</small>
 
-III.- Nombrar y remover libremente al Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Oficial Mayor, Procurador General de Justicia y demás Funcionarios y empleados del Estado, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las Leyes.
+III.- Nombrar y remover libremente al Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Salud, Oficial Mayor, Procurador General de Justicia, Contralor General y demás funcionarios y empleados del Estado, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las Leyes.
 
 IV.- Nombrar a los Magistrados del Tribunal Superior de Justicia, con la aprobación del Congreso del Estado o la Diputación Permanente, en su caso;
 
@@ -725,15 +725,15 @@ XLIII.- Las demás que señalen esta Constitución y sus leyes.
 
 #### SECCION III. DE LAS DEPENDENCIAS DEL EJECUTIVO
 
-> <small>(REFORMADO, B.O. 30 DE ABRIL DE 1981)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
 
-80.- Para el despacho de los asuntos del orden administrativo, habrá: un Secretario General de Gobierno, un Secretario de Finanzas, un Secretario de Desarrollo, un Secretario de Asentamientos Humanos y Obras Públicas, un Oficial Mayor, un Procurador General de Justicia y los demás funcionarios que establezca la Ley Orgánica del Poder Ejecutivo.
+80.- Para el despacho de los asuntos del orden administrativo, habrá: Un Secretario General de Gobierno, un Secretario de Finanzas, un Secretario de Desarrollo, un Secretario de Asentamientos Humanos y Obras Públicas, un Secretario de Salud, un Oficial Mayor, un Procurador General de Justicia, un Contralor y los demás funcionarios que establezca la Ley Orgánica del Poder Ejecutivo.
 
 81.- Toda ley o decreto será refrendada por el Secretario General de Gobierno y por el funcionario del ramo relativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE MARZO DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 1985)</small>
 
-82.- Para ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo y Oficial Mayor se requiere:
+82.- Para ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Salud, Contralor, Oficial Mayor se requiere:
 
 > <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
 
@@ -1674,6 +1674,12 @@ B.O. 20 DE OCTUBRE DE 1984.
 El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 B.O. 20 DE MAYO DE 1985.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JULIO DE 1985.
 
 ###### ARTICULO UNICO.
 
