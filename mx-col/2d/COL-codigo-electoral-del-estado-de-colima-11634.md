@@ -4,7 +4,7 @@ identifier: "COL-codigo-electoral-del-estado-de-colima-11634"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-11-09"
-last_updated: "1996-11-09"
+last_updated: "1998-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO ELECTORAL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 1998.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 9 de noviembre de 1996.
 
@@ -433,7 +433,7 @@ Se verificará elección extraordinaria cuando se declare nula una elección o l
 
 La vacante de una diputación o regiduría de representación proporcional, deberá ser cubierta por aquellos candidatos del mismo partido que sigan en el orden de la lista plurinominal o planilla registrada, después de habérsele asignado los Diputados o Regidores que le hubiesen correspondido.
 
-Cuando un Diputado o Regidor de representación proporcional deje de pertenecer o representar al PARTIDO POLITICO que lo postuló, será sustituido por el suplente respectivo y, en caso de impedimento de éste, por el propietario que le siga en el orden de la lista plurinominal o planilla registrada.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 24 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 28.
 
@@ -4274,3 +4274,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los seis días del mes de noviembre de mil novecientos noventa y seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 24 DE ENERO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
