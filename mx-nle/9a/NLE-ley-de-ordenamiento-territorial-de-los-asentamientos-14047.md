@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ordenamiento-territorial-de-los-asentamientos-14047"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-03"
-last_updated: "1999-03-03"
+last_updated: "1999-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ORDENAMIENTO TERRITORIAL DE LOS ASENTAMIENTOS HUMANOS Y DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 3 de marzo de 1999.
 
@@ -1819,6 +1819,10 @@ En la autorización de construcciones para nuevas edificaciones en terrenos no c
 
 a) Los predios habitacionales, cederán el 17% del área que resulte de restar al área total del predio, las áreas de afectación y vialidades, o 22-veintidós metros cuadrados por unidad de vivienda, lo que resulte mayor.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+En el caso de habitación unifamiliar o que la cesión del área no sea mayor de 300 metros cuadrados, podrá hacerse la cesión o el pago correspondiente en cuyo caso se tomará como base el valor comercial del predio que expida la Secretaría de Finanzas y Tesorería General del Estado, el cual tendrá una vigencia de tres meses.
+
 b) Los predios no habitacionales cederán o pagarán el 7% del área que resulte de restar al área total del predio, las áreas de afectación y vialidades.
 
 Esta cesión o pago servirá para la formación de áreas verdes, equipamientos públicos y reservas territoriales.
@@ -2089,7 +2093,9 @@ II.- Los predios sólo podrán subdividirse si los lotes resultantes cuentan con
 
 Cuando la relotificación o la subdivisión incremente el número de lotes, solamente se autorizará si se cumplen las previsiones y normas de zonificación, se complementen proporcionalmente las cesiones de áreas para equipamientos y fines públicos establecidos en la ley y se efectúen a costa del promovente las adecuaciones en las infraestructuras o redes de servicios públicos.
 
-Si el área de cesión complementaria no puede otorgarse dentro del predio o fraccionamiento autorizado se podrá pagar en efectivo según avalúo que determine la Secretaría de Finanzas y Tesorería General del Estado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+Si el área de cesión complementaria no puede otorgarse dentro del predio o fraccionamiento autorizado, o cuando la superficie a ceder sea igual o menor al lote tipo del fraccionamiento de que se trate se podrá pagar en efectivo, según avalúo comercial que determine la Secretaría de Finanzas y Tesorería General del Estado, el cual tendrá una vigencia de tres meses.
 
 ###### Artículo 169.
 
@@ -3708,3 +3714,9 @@ LIC. JOSE LUIS COINDREAU GARCIA
 EL C. SECRETARIO DE DESARROLLO URBANO Y OBRAS PUBLICAS
 
 ARQ. OSCAR BULNES VALERO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 1999.
+
+Artículo Unico.- El presente Decreto entrará en vigor el día 1o. de Enero del año 2000.
