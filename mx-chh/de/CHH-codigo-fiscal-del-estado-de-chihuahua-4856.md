@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1971-08-21"
+last_updated: "1971-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 1971.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -259,7 +259,9 @@ III.- Si se trata de obligaciones derivadas de contratos o concesiones que no se
 
 La Autoridad Fiscal recibirá el pago hecho por el sujeto pasivo, responsable solidario o por terceros reservándose la facultad de revisar, en el acto del entero o con posterioridad, la veracidad de los datos que se consignan y el efectivo cumplimiento de las obligaciones establecidas por este Código y demás disposiciones fiscales aplicables y en su caso formular las liquidaciones por concepto de los ingresos omitidos.
 
-Las manifestaciones y declaraciones de los Notarios, jueces que actúen por receptoría y contadores, se entenderán hechas bajo su estricta responsabilidad, siendo solidariamente responsables del pago del impuesto omitido sin perjuicio de las sanciones a que se hagan acreedores en los términos de este mismo Código.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+Las manifestaciones y declaraciones de los Notarios, jueces que actúen por receptoría y contadores, salvo el caso del Artículo 81, se entenderán hechas bajo su estricta responsabilidad, siendo solidariamente responsables del pago del impuesto omitido sin perjuicio de las sanciones a que se hagan acreedores en los términos de este mismo Código.
 
 45.- La falta de pago de un crédito fiscal en la fecha o término establecido en las disposiciones respectivas, determina que el crédito sea exigible.
 
@@ -869,27 +871,59 @@ V.- Los que tengan para su venta las plantas ensambladoras, sus distribuidores y
 
 156.- Las personas que reciban en consignación o comisión para su venta automóviles cuya tenencia o uso grava este capítulo, son solidariamente responsables por los impuestos que se adeuden.
 
-157.- El impuesto se causará semestralmente y deberá quedar cubierto dentro de los meses de enero-febrero y julio-agosto. El causante podrá enterar el impuesto por el importe de dos semestres.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+157.- El impuesto se causará anualmente y deberá quedar cubierto dentro de los dos primeros meses de cada año.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
 158.- El impuesto se causará en efectivo conforme a la siguiente
 
-TARIFA: CATEGORIA
+TARIFA:
 
-MODELO 1 2 3
+MODELO CATEGORIA
 
-A.- Del año de la aplicación de la
+1 2 3
 
-Ley y hasta 3 años anteriores
+A.- Del año de la aplicación de
 
-a la misma $ 125.00 $ 150.00 $ 200.00
+la Ley $300.00 $500.00 $750.00
 
-B.- De 4 a 8 años anteriores al
+B.- De uno y dos años anterio-
 
-de la aplicación de la Ley " 100.00 " 125.00 " 175.00
+res al de la aplicación de
 
-C.- De 9 a 11 años anteriores
+la Ley 250.00 300.00 400.00
 
-al de la aplicación de la Ley " 75.00 " 100.00 " 150.00
+C.- De tres años anteriores al
+
+de la aplicación de la
+
+Ley 200.00 300.00 400.00
+
+D.- De cuatro años anteriores
+
+al de la aplicación de la
+
+Ley 200.00 250.00 350.00
+
+E.- De cinco años anteriores
+
+al de la aplicación de la
+
+Ley 150.00 200.00 300.00
+
+F.- De seis años anteriores
+
+al de la aplicación de la
+
+Ley 150.00 150.00 200.00
+
+G.- Del séptimo al décimo primer
+
+año anteriores al de la aplicación
+
+de la Ley 150.00 150.00 150.00
 
 159.- Para la aplicación de la tarifa se tomará en cuenta la siguiente clasificación:
 
@@ -901,7 +935,9 @@ III.- Tercera categoría: Comprende vehículos cuyo precio oficial de venta al p
 
 160.- Como modelo debe considerarse el año del modelo o el de fabricación; como marca el nombre comercial del vehículo; y como tipo, las características especiales del mismo.
 
-161.- Los tenedores o usuarios enterarán el importe en las Recaudaciones de Rentas, dentro de los plazos señalados en el artículo 157.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+161.- Los tenedores o usuarios enterarán el importe en las Recaudaciones de Rentas, dentro del plazo señalado en el Artículo 157.
 
 El tenedor o usuario del vehículo formulará una manifestación, en las formas aprobadas por la Tesorería General del Estado, en la que anotará los siguientes datos:
 
@@ -919,9 +955,11 @@ La Tesorería General del Estado por conducto de sus oficinas recaudadoras entre
 
 164.- El hecho de no fijarse en el vehículo la calcomanía que compruebe el pago del impuesto como se establece en el artículo anterior, se sancionará con una multa equivalente al 20% del impuesto que corresponda.
 
-165.- El pago del impuesto respecto de cada semestre y del anterior, se comprobará exclusivamente con la calcomanía fijada en el vehículo en la forma que prescribe el artículo 163, salvo que haya sido destruída, caso en el que el pago del impuesto se acreditará de acuerdo con las reglas que expida la Tesorería General del Estado.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
-El correspondiente a semestres anteriores, se comprobará con las copias de las manifestaciones formuladas por los tenedores o usuarios conforme al artículo 161, en las que las oficinas recaudadoras hagan constar los pagos, con la indicación de los datos de control de los ingresos respectivos.
+165.- El pago del impuesto respecto de cada ejercicio fiscal y del anterior, se comprobará exclusivamente con la calcomanía fijada en el vehículo en la forma que prescribe el artículo 163, salvo que haya sido destruída, caso en el que el pago del impuesto se acreditará de acuerdo con las reglas que expida la Tesorería General del Estado.
+
+El correspondiente a años anteriores, se comprobará con las copias de las manifestaciones formuladas por los tenedores o usuarios conforme al Artículo 161, en las que las oficinas recaudadoras hagan constar los pagos, con la indicación de los datos de control de los ingresos respectivos.
 
 #### SECCION TERCERA. EXENCIONES
 
@@ -991,17 +1029,19 @@ DE LA BASE
 
 I.- Los ingresos mensuales que obtenga el causante. Si al sueldo mensual ordinario se acumulan sistemáticamente otras percepciones, el total mensual que resulte deberá servir de base para el cálculo del impuesto. Las personas que obtengan diversas percepciones gravables en dos o más empresas, están obligadas a acumular dichos ingresos en el mes en que les sean efectivamente pagados o abonados para pagar el impuesto sobre las percepciones mensuales totales, a las que se aplicará la tarifa que establece el artículo 171.
 
-II.- La percepción total, cuando se trate de un ingreso accidental. Si las percepciones mensuales del contribuyente no son regulares y en el contrato de trabajo se dispone la forma de computar las remuneraciones a que se refiere el primer párrafo de este artículo, el impuesto se determinará tomando en consideración lo dispuesto por el contrato citado.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+II.- La percepción total, cuando se trate de un ingreso accidental. Si las percepciones mensuales del contribuyente no son regulares y en el contrato de trabajo se dispone la forma de computar las remuneraciones a que se refiere la fracción anterior de este artículo, el impuesto se determinará tomando en consideración lo dispuesto por el contrato citado.
 
 III.- El ingreso percibido dentro de cada mes cuando se trate de aquellos que sin ser accidentales, no comprendan todo ese período. El cálculo del impuesto se hará dividiendo el importe de la percepción total entre el número de días en que se haya devengado. Dicha percepción diaria promedio se multiplicará por el número de días del mes, y al producto se le aplicará la tarifa correspondiente. El gravamen que resulte se dividirá entre los días del mes de que se trate y el cociente obtenido se multiplicará por los días trabajados, determinándose en esta forma el impuesto causado.
 
 IV.- Cuando por razones no imputables al causante éste percibe en una sola vez las prestaciones gravables correspondientes a diversos meses, el impuesto se calculará dividiendo el monto de la percepción entre el número de meses a que se refiera. El cociente obtenido se agregará al ingreso que corresponda al total acumulado en cada uno de ellos. Se sumarán las distintas cantidades de impuesto que resulten para cada mes, deduciendo de dicha suma el monto del impuesto pagado en los meses correspondientes, y la diferencia que resulte será el impuesto por pagar. Esta norma se aplicará también a los pagos que las empresas hagan por concepto de gratificaciones al personal o de emolumentos a los miembros del consejo de administración y comisarios.
 
-V.- Cuando el causante reciba la participación en las utilidades a que se refiere el artículo 123 de la Constitución, o en los rendimientos obtenidos al final del ejercicio social, según lo dispuesto por la Ley General de Sociedades Cooperativas y su Reglamento, dichas percepciones se dividirán entre los meses que correspondan al ejercicio y el impuesto se pagará sobre la cifra mensual que se obtenga en la forma indicada en la fracción anterior.
+V.- (DEROGADA, P.O. 8 DE DICIEMBRE DE 1971)
 
 VI.- Cuando al llegar el último día de un mes no sea posible precisar el monto total de los ingresos obtenidos por un contribuyente en ese lapso, se le retendrá el impuesto correspondiente a los conocidos, liquidándose la diferencia que resulte a su cargo por la aplicación de la tarifa dentro de los primeros 15 días del mes siguiente a aquél en que sea posible determinar la cuantía de dicho ingreso.
 
-VII.- Cuando el contribuyente al dejar de prestar sus servicios perciba compensaciones por antigüedad, retiro u otras remuneraciones análogas, el impuesto correspondiente a las mismas se calculará de la siguiente manera: la percepción total por dichos conceptos se dividirá entre el importe del último sueldo mensual que normalmente le correspondió; el resultado se multiplicará por el impuesto que gravó el sueldo del último mes trabajado y la cantidad obtenida será el impuesto por pagar.
+VII.- (DEROGADA, P.O. 8 DE DICIEMBRE DE 1971)
 
 DE LAS OBLIGACIONES
 
@@ -1557,7 +1597,9 @@ Sobre los ingresos brutos estimados, se reconocerá como deducción única, el i
 
 181.- Los causantes de este impuesto están obligados:
 
-I.- A efectuar el pago del impuesto dentro de los días 1o. al 20 de cada mes mediante una declaración de los ingresos que se hayan obtenido en el mes inmediato anterior. Los causantes que tengan celebrados convenios en los términos del Artículo 184 de este Código, deberán pagar el impuesto por mensualidades adelantadas del día 1o. al 15 de cada mes.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+I.- A efectuar el pago del Impuesto dentro de los días 1o. al 20 de cada mes mediante una declaración de los ingresos que se hayan obtenido en el mes inmediato anterior. Los causantes que tengan celebrados convenios en los términos del Artículo 184 de este Código, deberán pagar el impuesto bimestralmente en la primera quincena del bimestre correspondiente.
 
 II.- A firmar los documentos previstos por este capítulo bajo protesta de decir verdad.
 
@@ -1569,7 +1611,9 @@ V.- Cuando se trate de agrupaciones profesionales, asociaciones o sociedades de 
 
 En este caso, todas las demás obligaciones a que se refiere este artículo deberán cumplirse por la agrupación u organización de que se trate, inclusive la relativa al pago del impuesto, para cuyo efecto se deberá presentar una declaración en los términos de la fracción I listando los ingresos que correspondan a cada uno de los socios en el mes inmediato anterior y los impuestos que deban enterar. Si la asociación o sociedad no cumple con estas obligaciones, los socios o asociados deberán cumplir con las mismas.
 
-VI.- Presentar por triplicado en la Recaudación de Rentas de su jurisdicción, utilizando las formas especiales que para este objeto apruebe la Tesorería General, una declaración anual de los ingresos y egresos, en los términos que señalan las formas respectivas, a las cuales deberán anexarse los siguientes documentos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+VI.- Presentar por triplicado en la Recaudación de Rentas de su jurisdicción, dentro de los cuatro meses siguientes a la fecha en que termine el ejercicio fiscal del causante, utilizando las formas especiales que para este objeto apruebe la Tesorería General, una declaración anual de los ingresos y egresos, en los términos que señalen las formas respectivas, a las cuales deberán anexarse los siguientes documentos:
 
 a).- Copia en que aparezca el sello de recibido de la Oficina Federal de Hacienda, de la carátula de la declaración y anexos presentados para el pago del Impuesto sobre la Renta Federal;
 
@@ -1597,17 +1641,21 @@ Si los causantes no cumplen con los requisitos que establece el párrafo anterio
 
 #### SECCION QUINTA. CONVENIOS CON LOS CAUSANTES
 
-184.- Los causantes que obtengan ingresos provenientes de actividades gravadas por este Capítulo, podrán cubrir el impuesto a base de una cuota fija mensual siempre que sus ingresos no sean superiores a $150,000.00 (CIENTO CINCUENTA MIL PESOS) anuales, en las condiciones y con las formalidades siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
-I.- Los causantes que opten por el pago del impuesto a cuota fija, lo manifestarán por escrito a la Recaudación de Rentas de su jurisdicción para que esta de acuerdo con ellos determine provisionalmente la cuota que les corresponda, que en ningún caso podrá ser inferior a $50.00 (CINCUENTA PESOS) mensuales si se trata de sujetos cuya actividad exija título para su ejercicio, y de $15.00 en los demás casos.
+184.- Los causantes que obtengan ingresos provenientes de actividades gravadas por este Capítulo, podrán cubrir el impuesto a base de una cuota fija bimestral siempre que sus ingresos no sean superiores a $150,000.00 (Ciento Cincuenta Mil Pesos, 00/100) anuales, en las condiciones y con las formalidades siguientes:
 
-Sólo podrán proponerse los convenios a que se refiere este artículo, después de seis meses siguientes a la fecha del empadronamiento.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+I.- Los causantes que opten por el pago del impuesto a cuota fija, lo manifestarán por escrito a la Recaudación de Rentas de su jurisdicción para que ésta de acuerdo con ellos determine provisionalmente la cuota que les corresponda, la que en ningún caso podrá ser inferior a $100.00 (Cien pesos, 00/100) bimestrales si se trata de sujetos cuya actividad exija título para su ejercicio, y de $30.00 (Treinta Pesos, 00/100) en los demás casos.
 
 II.- Las Recaudaciones de Rentas someterán los convenios a la aprobación definitiva de la Tesorería General del Estado, anotando los ingresos mensuales que los causantes interesados hayan venido manifestando y la cuota que se les haya asignado.
 
 III.- Los causantes que celebren convenios no estarán obligados a presentar las declaraciones mensuales que este Código previene, ni a llevar los libros de contabilidad, pero estarán sujetos a las demás disposiciones contenidas en este ordenamiento.
 
-IV.- Es obligación de los causantes que estén pagando a base de convenio a cuota fija, dar inmediato aviso a la Recaudación de Rentas de su jurisdicción cuando estimen que sus ingresos serán mayores de $150,000 (ciento cincuenta mil pesos) anuales, a fin de que la oficina receptora pueda tomar las precauciones fiscales que procedan. Darán también aviso cuando sus ingresos excedan a aquéllos por los que se fijó la cuota.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+IV.- Es obligación de los causantes que estén pagando a base de convenio a cuota fija, dar inmediato aviso a la Recaudación de Rentas de su jurisdicción cuando estimen que sus ingresos serán mayores de $150,000.00 (Ciento Cincuenta mil Pesos 00/100) anuales, a fin de que la oficina receptora pueda tomar las medidas fiscales que procedan. Darán también aviso cuando sus ingresos excedan en un 20% a aquellos por los que se fijó la cuota.
 
 V.- Los convenios celebrados tendrán vigencia hasta el 31 de diciembre del año correspondiente, independientemente de la fecha de su celebración.
 
@@ -1811,7 +1859,9 @@ IV.- 2% sobre toda clase de camiones de pasajeros o de carga, armados en el Paí
 
 V.- 1.2% en las ventas de segunda mano o posteriores de toda clase de automóviles y camiones, armados o no en el País.
 
-Para los efectos de este artículo se considerarán ventas de primera mano, todas las que se verifiquen con automóviles o camiones nuevos o usados que por primera vez sean motivo de una transacción comercial dentro del Territorio del Estado. El valor gravable se determinará con base en la tabla de valores que anualmente fijará la Tesorería General o, a juicio de esta autoridad, sobre el valor resultante del avalúo que al efecto practique.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+Para los efectos de este grupo se considerarán ventas de primera mano, todas las que se verifiquen con automóviles o camiones nuevos o usados que por primera vez sean motivo de una transacción comercial dentro del territorio del Estado. El valor gravable se determinará con base en la tabla de valores que anualmente fijará la Tesorería General o, a juicio de esta autoridad, sobre el valor resultante del avalúo que al efecto practique.
 
 QUINTO GRUPO.- 2% sobre los ingresos derivados del arrendamiento o sub-arrendamiento de bienes muebles, inmuebles y negociaciones, obtenidos por sociedades mercantiles.
 
@@ -1851,7 +1901,9 @@ II.- Si los ingresos no son gravables, por razón de su diversa índole, de acue
 
 216.- No causan el impuesto:
 
-I.- Las enajenaciones de primera mano de maíz y frijol.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+I.- Las enajenaciones de maíz y frijol.
 
 II.- Las enajenaciones de primera mano que se verifiquen con algodón y su semilla o avena, cuyas operaciones son motivo de los impuestos especiales que establecen los capítulos respectivos del presente libro.
 
@@ -1935,7 +1987,9 @@ Si a través de las rectificaciones se comprueba que los contribuyentes pagaron 
 
 Los causantes no empadronados que obtengan ingresos provenientes de operaciones comerciales accidentales, deberán pagar el impuesto dentro de las cuarenta y ocho horas siguientes a la operación. Cuando la autoridad fiscal lo considere conveniente podrá exigir, de inmediato, se garantice el interés fiscal.
 
-Los causantes que tengan celebrados convenios en los términos del Artículo 240 deberán pagar el impuesto por mensualidades adelantadas, dentro de los días 1o. al 15 de cada mes.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+Los causantes que tengan celebrados convenios en los términos del artículo 240 deberán pagar el impuesto bimestralmente, dentro de la última quincena del bimestre correspondiente.
 
 Para efectuar el pago se presentará la declaración a que se refiere este artículo, manifestando separadamente los ingresos que correspondan a cada una de las tasas comprendidas en los grupos a que se refiere el Artículo 212. Las declaraciones deberán ser firmadas:
 
@@ -1947,7 +2001,9 @@ III.- Por el gerente o encargado de la sucursal y por el contador si lo hubiere,
 
 224.- Los causantes presentarán sus declaraciones y efectuarán el pago del impuesto, en la oficina recaudadora de la jurisdicción en que estén empadronados.
 
-Los causantes que no hayan obtenido ingresos gravables, presentarán sus declaraciones expresando la causa de ello, dentro del plazo establecido en el artículo 194.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+Los causantes que no hayan obtenido ingresos gravables presentarán sus declaraciones expresando la causa de ello, dentro del plazo establecido en el artículo 223.
 
 225.- No se admitirán las declaraciones si éstas no se consignan en las formas aprobadas por la Tesorería General del Estado y si en el mismo acto de su presentación no se paga íntegramente el impuesto y los recargos causados. Este último requisito, el pago del impuesto y recargos, no se exigirá en el caso previsto en la segunda parte del artículo anterior.
 
@@ -1987,7 +2043,9 @@ IX.- Proporcionar a las autoridades fiscales del Estado, los datos e informacion
 
 X.- Recibir las visitas de inspección y proporcionar a los auditores o a los investigadores, los datos, informes y documentos que soliciten para el desempeño de sus funciones;
 
-XI.- Presentar por triplicado en la Recaudación de Rentas de su jurisdicción, utilizando las formas especiales que para este objeto apruebe la Tesorería General, una declaración anual de los ingresos y egresos, en los términos que señalan las formas respectivas, a las cuales deberán anexarse los siguientes documentos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+XI.- Presentar por triplicado dentro de los cuatro meses siguientes a la fecha en que termine el ejercicio fiscal del causante, en la Recaudación de Rentas de su jurisdicción, utilizando las formas especiales que para este objeto apruebe la Tesorería General, una declaración anual de los ingresos y egresos, en los términos que señalan las formas respectivas, a las cuales deberán anexarse los siguientes documentos:
 
 a).- Copia en que conste la operación de caja de los pagos efectuados, de la tarjeta, pago del Impuesto Federal sobre Ingresos Mercantiles, correspondiente al período que se declara;
 
@@ -2063,9 +2121,13 @@ Los contribuyentes a quienes se les practique una auditoría deberán dar aviso 
 
 #### SECCION DECIMA. CONVENIOS CON LOS CAUSANTES
 
-240.- Los causantes que obtengan ingresos de operaciones celebradas directamente con el consumidor y gravados en los Grupos Primero, Segundo, Séptimo y Octavo del Artículo 212 de este Código, podrán cubrir el impuesto a razón de cuota fija mensual, siempre que sus ingresos no sean superiores a $500,000.00 (QUINIENTOS MIL PESOS) anuales en las condiciones y con las formalidades siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
-I.- Los causantes que opten por el pago del impuesto a cuota fija, elevarán solicitud a la Recaudación de Rentas de su jurisdicción, proporcionando los datos relativos a su actividad para que ésta de acuerdo con ellos determine provisionalmente la cuota que les corresponda, la cual en ningún caso podrá ser inferior a $15.00 mensuales.
+240.- Los causantes que obtengan ingresos de operaciones celebradas directamente con el consumidor y gravadas en los grupos primero, segundo, séptimo y octavo del Artículo 212 de este Código, podrán cubrir el impuesto a razón de una cuota fija bimestral, siempre que sus ingresos no sean superiores a $500,000.00 (QUINIENTOS MIL PESOS, 00/100) anuales en las condiciones y con las formalidades siguientes:
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+I.- Los causantes que opten por el pago del impuesto a cuota fija, elevarán solicitud a la Recaudación de Rentas de su jurisdicción, proporcionando los datos relativos a su actividad para que ésta de acuerdo con ellos determine provisionalmente la cuota que les corresponda, la cual en ningún caso podrá ser inferior a $30.00 (Treinta Pesos 00/100) bimestrales.
 
 Sólo podrán proponerse los convenios a que se refiere este artículo, después de los seis meses siguientes a la fecha del empadronamiento.
 
@@ -2083,11 +2145,15 @@ IV.- Son obligaciones de los causantes que celebren convenio:
 
 a).- Cumplir con las obligaciones que a los causantes del Impuesto al Comercio e Industria les fija este Ordenamiento con excepción de aquellas de que expresamente estén liberados.
 
-b).- Presentar en el mes de enero de cada año, en la forma aprobada, una manifestación que contenga el importe de los ingresos y egresos habidos en el negocio, durante el año anterior, a la que se acompañará una copia de la declaración anual que sirvió de base para pagar el Impuesto Federal Sobre la Renta.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+b).- Presentar en el mes de abril de cada año, en la forma aprobada, una manifestación que contenga el importe de los ingresos y egresos habidos en el negocio, durante el año anterior, a la que se acompañará una copia de la declaración anual que sirvió de base para pagar el Impuesto Federal sobre la Renta.
 
 c).- Recibir las visitas de inspección que ordene la Tesorería General del Estado.
 
-d).- Dar aviso a la Recaudación de Rentas de su jurisdicción cuando estime que sus ingresos anuales serán mayores de $500,000.00 (QUINIENTOS MIL PESOS), a fin de que la oficina receptora pueda tomar las medidas fiscales que procedan. Darán también aviso cuando sus ingresos excedan a aquellos por los que se fijó la cuota.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+d).- Dar aviso a la Recaudación de Rentas de su jurisdicción, cuando estime que sus ingresos anuales serán mayores de $500,000.00 (QUINIENTOS MIL PESOS 00/100), a fin de que la oficina receptora pueda tomar las medidas fiscales que procedan. Darán también aviso cuando sus ingresos excedan en un 20% a aquéllos por los que se fijó la cuota.
 
 V.- Los convenios tendrán la duración que les corresponda, dentro de cada año fiscal comprendido dentro del 1o. de enero al 31 de diciembre, sin que la vigencia de los mismos pueda exceder de un año. Al término de su vigencia, que no será nunca posterior al 31 de diciembre del año en que se firmen, quedarán sin efectos.
 
@@ -2217,7 +2283,9 @@ Si existen pacas de algodón o semilla dentro de los límites de las plantas des
 
 258.- Los propietarios, administradores, o encargados de los despepitadores de algodón están obligados:
 
-I.- A retener el impuesto al causarse éste en los términos del artículo 253;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+I.- A empadronarse y a retener el impuesto al causarse éste en los términos del Artículo 253;
 
 II.- A colocar en cada paca, una placa oficial de las que previamente les proporcionarán las Recaudaciones de Rentas para identificación de las pacas y control del impuesto;
 
@@ -2235,51 +2303,55 @@ VI.- A dar aviso inmediato y por escrito a la Recaudación de Rentas respectiva,
 
 ### CAPITULO XII. IMPUESTO SOBRE PRODUCCION Y VENTA DE BEBIDAS ALCOHOLICAS Y ALCOHOL
 
-### CAPITULO XIII. IMPUESTO SOBRE INSTRUMENTOS PUBLICOS Y PRIVADOS
+### CAPITULO XIII. IMPUESTO SOBRE ACTOS JURIDICOS
 
 303.- Son objeto de este impuesto todos los actos jurídicos, de cualquier naturaleza, que se otorguen en escritura pública o privada.
 
 304.- Son sujetos de este impuesto las personas que celebren los actos jurídicos que se otorguen en la forma prevista en el artículo anterior.
 
-305.- El impuesto se causará de acuerdo con la siguiente tarifa:
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
-I.- En los instrumentos donde se consigne la constitución de sociedades civiles o mercantiles, y en general cualquier agrupación con fines lucrativos, sobre el capital de las mismas se pagará $1.50 (UN PESO CINCUENTA CENTAVOS) por cada un mil pesos o fracción.
+305.- El impuesto se causará de acuerdo con la siguiente Tarifa:
 
-II.- En los instrumentos donde se consigne aumento, por cualquier causa, del capital social de cualquier agrupación con fines preponderantemente económicos, sobre el importe del capital aumentado se pagará $1.50 (UN PESO CINCUENTA CENTAVOS) por cada un mil pesos o fracción.
+I.- Por la constitución de sociedades civiles o mercantiles, y en general cualquier agrupación con fines lucrativos, sobre el capital de las mismas se pagará $ 1.50 (UN PESO CINCUENTA CENTAVOS) por cada un mil pesos a fracción.
 
-III.- En los instrumentos donde se consignen actos tendientes a garantizar obligaciones, tales como fianzas, hipotecas, etc., sobre el importe de lo garantizado se pagará $0.75 por cada $100.00 o fracción.
+II.- Por el aumento, por cualquier causa, del capital social de sociedades civiles o mercantiles o cualquier agrupación con fines preponderantemente económica, sobre el importe del capital aumentado se pagará %1.50 (UN PESO CINCUENTA CENTAVOS) o fracción.
 
-IV.- Por el instrumento público donde se consigne contrato de mandato, se pagará $4.50 (CUATRO PESOS CINCUENTA CENTAVOS).
+III.- Por los actos tendientes a garantizar obligaciones tales como fianzas, hipotecas, etc., sobre el importe de lo garantizado, se pagará $0.75 por cada $100.00 o fracción.
 
-V.- Por el instrumento en que se consigne cualquier acto jurídico no previsto en las fracciones anteriores, se pagará $1.50 (UN PESO CINCUENTA CENTAVOS) por cada un mil pesos o fracción sobre el valor de la operación.
+IV.- El mandato que se haga constar en instrumento público o ratificado ante Notario, pagará $4.50 (CUATRO PESOS CINCUENTA CENTAVOS).
 
-VI.- El instrumento en que se consigne cualquier acto jurídico que no exprese cantidad ni pueda determinarse el valor de la operación, pagará la suma de $15.00 (QUINCE PESOS).
+V.- Por los actos jurídicos no previstos en las fracciones anteriores, se pagará $1.50 (UN PESO CINCUENTA CENTAVOS), por cada un mil pesos o fracción sobre el valor de la operación.
+
+VI.- Cuando en el acto jurídico no se exprese cantidad ni pueda determinarse el valor de la operación, se pagará la suma de $15.00 (QUINCE PESOS 00/100).
+
+VII.- Cuando en un mismo instrumentos se consignen diversos actos, a cada uno de éstos se aplicará la tarifa que le corresponda.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
 306.- No causan el impuesto:
 
-I.- Los instrumentos que consignen actos del estado civil;
+I.- Los actos del estado civil.
 
-II.- Los instrumentos que consignen actos cuyo valor no exceda de $500.00 (QUINIENTOS PESOS).
+II.- Los actos cuyo valor no exceda de $500.00 (QUINIENTOS PESOS).
 
-III.- Los instrumentos que consignen fianzas que se extiendan para excarcelación de presos insolventes y para caucionar el manejo de fondos de empleados públicos.
+III.- Los actos que consignen finanzas que se extiendan para excarcelación de presos insolventes y para caucionar el manejo de fondos de empleados públicos.
 
-IV.- Los instrumentos que contengan operaciones cuyo gravamen corresponda exclusivamente a la Federación.
+IV.- Los actos que contengan operaciones cuyo gravamen corresponda exclusivamente a la Federación.
 
-V.- Los instrumentos relativos a actos de la asistencia pública y de la beneficencia privada.
+V.- Los actos relativos a la asistencia pública y de la beneficencia privada.
 
-VI.- Los instrumentos que consignen actos relativos a la adquisición de muebles destinados a escuelas, colegios o bibliotecas públicas.
+VI.- Los actos relativos a la adquisición de muebles destinados a escuelas, colegios o bibliotecas públicas.
 
-VII.- Los instrumentos en que se revoquen mandatos.
+VIII.- Los que consignen la resolución de actos jurídicos.
 
-VIII.- Los instrumentos en que se consigne la resolución de actos jurídicos.
+IX.- Los actos en cuya virtud se cancele otro, salvo lo previsto en la fracción III del Artículo 133.
 
-IX.- Los instrumentos que consignen actos en cuya virtud se cancele otro acto salvo lo previsto en la fracción III del artículo 133.
+X.- Los actos mediante los cuales se reduzca el capital social o se disuelvan personas jurídicas colectivas o sociedades conyugales.
 
-X.- Los instrumentos mediante los cuales se reduzca el capital social o se disuelvan personas jurídicas colectivas o sociedades conyugales.
+XI.- Los actos en que se consignen disposiciones testamentarias.
 
-XI.- Los instrumentos en que se consignen disposiciones testamentarias.
-
-XII.- Los instrumentos que contengan operaciones gravadas con algún otro impuesto establecido por este Código, siempre y cuando su importe sea mayor al que resultaría de aplicarse las tasas del artículo 305.
+XII.- Los actos que contengan operaciones gravadas con algún otro impuesto establecido por este Código, siempre y cuando su importe sea mayor al que resultaría de aplicarse las tasas del Artículo 305.
 
 307.- Los causantes, tratándose de escrituras privadas están obligados:
 
@@ -2339,7 +2411,9 @@ V.- A no permitir que salgan de sus fábricas las bebidas envasadas que causen e
 
 VI.- A envasar las bebidas en recipientes con una capacidad máxima de cinco litros, a los cuales se adherirá una etiqueta en la que aparezca la graduación alcohólica del producto. Cuando se trate de alcohol, podrá ser envasado en recipientes hasta de veinte litros;
 
-VII.- A registrar en la Recaudación de Rentas respectiva, los vehículos que se dediquen al transporte de alcohol y bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+VII.- A registrar en la Recaudación de Rentas respectiva, los vehículos que se dediquen al transporte de alcohol y bebidas alcohólica. Al darse de baja el vehículo o al cambiar de placas, deberá darse el aviso correspondiente a la Recaudación de Rentas en que esté registrado;
 
 VIII.- A recabar en cada caso un permiso de la Tesorería General del Estado a través de la Recaudación de Rentas correspondiente, para remitir o transportar bebidas alcohólicas en recipientes con capacidad mayor de cinco litros. Dicho transporte solo podrá ser realizado por personas y vehículos registrados como porteadores ante las autoridades fiscales estatales;
 
@@ -2559,9 +2633,11 @@ OBLIGACIONES DE LOS CAUSANTES
 
 297.- Son obligaciones de los comerciantes en alcohol etílico:
 
-I.- Observar para el legal funcionamiento de estos negocios, todas las reglas y obligaciones que a los productores de bebidas alcohólicas les impone el Artículo 274 de este Ordenamiento, con excepción de la fracción VI del mismo precepto;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
-II.- Dar aviso por escrito a la Recaudación de Rentas de su jurisdicción, con copia para la Tesorería General del Estado, dentro de las 72 horas siguientes al día en que se reciba cualquier remesa de alcohol.
+I.- Observar para el legal funcionamiento de estos negocios, todas las reglas y obligaciones que a los productores de bebidas alcohólicas les impone el Artículo 274 de este ordenamiento;
+
+II.- Dar aviso por escrito a la Recaudación de Rentas de su jurisdicción, con copia para la Tesorería General del Estado, dentro de las 72 horas siguientes al día en que se reciba cualquier remesa de alcohol;
 
 En el aviso se señalará el nombre del vendedor, el litraje, la procedencia, marca del alcohol y número de la factura;
 
@@ -2600,6 +2676,8 @@ c).- Las bebidas que procedan de fuera del Estado de Chihuahua deberán venir am
 301.- Todos los propietarios que celebren contratos de arrendamiento respecto de inmuebles, en los que opere una fábrica, almacén, oficina distribuidora o expendio de alcohol o bebidas alcohólicas, estarán obligados, dentro del plazo de 15 días siguientes a la fecha del contrato respectivo, a manifestarlo a la Tesorería General del Estado, para efectos de registro fiscal.
 
 302.- Cualquiera infracción a lo dispuesto por este capítulo se regulará y sancionará en los términos del capítulo VII, Título Segundo de este libro.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
 ### CAPITULO XIV. DERECHOS
 
@@ -2853,15 +2931,21 @@ Si es a los sujetos pasivos o responsables solidarios a quienes corresponde fija
 
 334.- Los vencimientos que ocurran durante el procedimiento administrativo de ejecución, incluso recargos, gastos de ejecución y cualquiera otros, se harán efectivos juntamente con el crédito inicial, sin necesidad de emplazamiento ni de otras formalidades, salvo las necesarias en su caso, para garantizar el interés fiscal y la formulación de las liquidaciones respectivas.
 
-Por las diligencias de requerimiento y de embargo se causarán honorarios, a cargo del deudor; a razón del cinco por ciento sobre el monto del crédito principal, por cada una de dichas diligencias, pero en ningún caso podrá ser, en total, ni menores de cinco pesos ni mayores de cuatro mil pesos, aun cuando por la aplicación de dicha tasa sobre el monto del crédito para cuyo cobro se siga el procedimiento económico coactivo en el que dichos honorarios se causen, resulte una cantidad menor o mayor que las indicadas.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+Por las diligencias de requerimiento y de embargo se causarán honorarios, a cargo del deudor, a razón del cinco por ciento sobre el monto del crédito principal, por cada una de dichas diligencias, pero en ningún caso podrán ser, en total, ni menores de cinco pesos ni mayores de cuatro mil pesos, aún cuando por la aplicación de dicha tasa sobre el monto del crédito para cuyo cobro se siga el procedimiento económico-coactivo en el que dichos honorarios se causen, resulte una cantidad menor o mayor que las indicadas; por la notificación de crédito fiscal se causarán $5.00 de honorarios.
 
 El importe de los honorarios deberá ingresar a la caja de la oficina recaudadora correspondiente.
 
 Un porcentaje de los ingresos que se obtengan por este concepto, corresponderá al ejecutor que practique las diligencias y la diferencia se distribuirá equitativamente entre el personal de base de las oficinas que intervengan en el procedimiento fiscal, conforme a las reglas y porcentajes que fije el Tesorero General del Estado.
 
-335.- El requerimiento y, en su caso, el embargo, ordenados en el mandamiento de ejecución, los llevará a cabo el jefe del Departamento de Ejecución o la persona que él en el mismo mandamiento designe y que podrá ser alguno de los empleados subalternos de la misma oficina o cualquiera otra persona. Los nombramientos de ejecutores se comunicarán al Tesorero General, quien podrá removerlos libremente y designar otros.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
-336.- En cumplimiento del mandamiento de ejecución, el Jefe del Departamento de Ejecución o, en su caso, la persona designada como ejecutor se presentará en el lugar que deba tenerse como domicilio del deudor, de acuerdo con el artículo 323 y si está presente se le notificará el mandamiento de ejecución, requiriéndolo para que haga pago de su adeudo. Si no paga en el acto de la diligencia, se procederá desde luego al embargo de bienes de su propiedad bastantes para cubrir el crédito insoluto.
+335.- El requerimiento y, en su caso, el embargo, ordenados en el mandamiento de ejecución, los llevará a cabo el jefe de la oficina recaudadora o la persona que él en el mismo mandamiento designe y que podrá ser alguno de los empleados subalternos de la misma oficina o cualquiera otra persona. Los nombramientos de ejecutores se comunicarán al Tesorero General, quien podrá removerlos se comunicarán al Tesorero General, quien podrá removerlos libremente y designar otros.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+336.- En cumplimiento del mandamiento de ejecución, el Jefe de la Oficina Recaudadora o, en su caso, la persona designada como ejecutor se presentará en el lugar que deba tenerse como domicilio del deudor, de acuerdo con el artículo 323 y si está presente se le notificará el mandamiento de ejecución, requiriéndolo para que haga pago de su adeudo. Si no paga en el acto de la diligencia, se procederá desde luego al embargo de bienes de su propiedad bastantes para cubrir el crédito insoluto.
 
 Efectuado el embargo, se prevendrá al deudor que dentro de los cinco días siguientes deberá pagar dicho crédito en la caja de la oficina recaudadora y se le hará el apercibimiento que señala el artículo 333.
 
@@ -2869,13 +2953,15 @@ Si no encuentra al deudor, el ejecutor le dejará citatorio para que espere al d
 
 Al día siguiente, a la hora señalada en el citatorio, se presentará nuevamente el ejecutor en el domicilio del deudor y si éste está presente le hará el requerimiento. Si no paga en ese acto, se le embargarán desde luego bienes de su propiedad suficientes para cubrir su adeudo y se le hará la prevención a que se refiere la última parte del párrafo primero de este artículo.
 
-Cuando el deudor, al ser requerido de pago, cubra la totalidad de su adeudo, el ejecutor le extenderá el recibo correspondiente, entregará la cantidad que reciba el mismo día en la oficina recaudadora y dará por concluído el procedimiento dando cuenta con ello, en su caso, al jefe del Departamento de Ejecución.
+Cuando el deudor, al ser requerido de pago, cubra la totalidad de su adeudo, el ejecutor le extenderá el recibo correspondiente, entregará la cantidad que reciba el mismo día en la oficina recaudadora y dará por concluido el procedimiento dando cuenta con ello, en su caso, al jefe de la oficina recaudadora.
 
 Cuando el deudor haga pago de su adeudo en la caja de la oficina recaudadora, se dará por concluído el procedimiento de ejecución y en su caso se ordenará que desde luego se levante el embargo, si se hubiere practicado, y se entreguen los bienes secuestrados.
 
-En los casos en que se ignore el domicilio del deudor o en que éste hubiera fallecido y no tenga representante legal su sucesión; o se ignore quien es o dónde tiene su domicilio, sin perjuicio de que las notificaciones que deban hacérsele se efectúen en los términos que dispone el artículo 320 el requerimiento y, en su caso, el embargo, se entenderá con la autoridad municipal del lugar.
+En los casos de que se ignore el domicilio del deudor o en que éste hubiera fallecido y no tenga representante legal su sucesión, o se ignore quien es o dónde tiene su domicilio, sin perjuicio de que las notificaciones que deban hacérsele se efectúen en los términos que dispone el artículo 320 el requerimiento y, en su caso, el embargo, se entenderá con la autoridad municipal del lugar.
 
-337.- El Tesorero General del Estado o el Jefe del Departamento de Ejecución podrán ordenar que se practique embargo precautorio en el acto mismo de la notificación, siempre que hubiere peligro de que se ausente el deudor o de que enajene y oculte sus bienes, cuando se trate de exigir cualquier crédito fiscal.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+337.- El Tesorero General del Estado o el Jefe de la Oficina Recaudadora podrán ordenar que se practique embargo precautorio en el acto mismo de la notificación, siempre que hubiera peligro de que se ausente el deudor o de que enajene y oculte sus bienes, cuando se trate de exigir cualquier crédito fiscal.
 
 La providencia para practicar este embargo se incluirá en forma expresa en el oficio de notificación.
 
@@ -3243,19 +3329,25 @@ La tramitación de dichos juicios se llevará ante las Salas de lo Civil, por ri
 
 399.- Los magistrados del Supremo Tribunal de Justicia del Estado, no podrán ser recursados (sic) sin causa en los juicios de oposición, pero deberán excusarse y podrán ser recusados en la forma y términos que señala el Código de Procedimientos Civiles del Estado.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
 400.- Serán partes en el procedimiento:
 
 I.- El actor, que podrá ser, según el caso, el Tesorero General o el particular afectado con el acto.
 
 II.- El demandado, teniendo tal carácter:
 
-a).- La autoridad fiscal que dicte y ordene, ejecute o trate de ejecutar la resolución impugnada o la que legalmente la substituya.
+a).- La Autoridad fiscal que dicte y ordene, ejecute o trate de ejecutar la resolución impugnada o la que legalmente la substituya.
 
-b).- El particular a quien favorezca la resolución cuya nulidad pida el Tesorero General.
+b).- El particular a quien favorezca la resolución, cuya nulidad pida el Tesorero General.
 
 III.- El tercero que aparezca como titular de un derecho incompatible con el que pretenda el actor.
 
-401.- Las autoridades fiscales del Estado, podrán mediante oficio acreditar delegados en las audiencias, con facultades para ofrecer y rendir pruebas, interponer recursos y para alegar.
+IV.- El Tesorero General del Estado, quien será representado en la forma que señalen los ordenamientos, aún cuando sea actor ni demandado.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+401.- Las autoridades que figuren como parte en los juicios de oposición, podrán acreditar delegados con facultades para ofrecer y rendir pruebas, interponer recursos y para alegar.
 
 402.- Las mismas facultades tendrá el abogado patrono que el particular autorice para oír notificaciones.
 
@@ -3673,7 +3765,11 @@ III.- Las que se dediquen a elaborar bebidas gaseosas;
 
 IV.- Las de producción de artículos que puedan causar efectos antisociales;
 
-V.- Las que puedan ocasionar perjuicios a la seguridad y a la economía estatal.
+V.- Las que puedan ocasionar perjuicios a la seguridad y a la economía estatal;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+VI.- Las que en la fabricación de sus productos utilicen materias primas importadas, cuyo valor exceda del 60% del costo de los mismos.
 
 452.- En los casos en que el solicitante fabrique diferentes artículos o mercancías, las exenciones se otorgarán por cada línea de producción, según sea su clasificación. Se entenderá que una empresa industrial elaborará un artículo diferente, cuando éste tenga una diferencia clara en uso frente a aquellos similares y no venga a ser un mero substituto de los que ya fabrica.
 
@@ -3976,3 +4072,7 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día s
 P.O. 21 DE AGOSTO DE 1971.
 
 ARTICULO TRANSITORIO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE DICIEMBRE DE 1971.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de enero del año de 1972.
