@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2004-09-21"
+last_updated: "2004-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -44,6 +44,10 @@ Código de Procedimientos Penales para el Estado Libre y Soberano de Jalisco
 ### CAPITULO I. Competencia
 
 > <small>(F. DE E., P.O. 10 DE FEBRERO DE 1983)</small>
+
+###### Art. 1º.
+
+Los Jueces del Estado de Jalisco son competentes para conocer, en la forma y términos que prescribe este Código, de los delitos del fuero común cometidos dentro del territorio del propio Estado.
 
 ###### Art. 2º.
 
@@ -1336,6 +1340,10 @@ Si se supiere que el inculpado se encuentra fuera de la jurisdicción territoria
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2003)</small>
 
 Cuando se ignore el paradero del indiciado, se comunicará al Procurador, quien entonces encomendará la búsqueda de dicho inculpado los agentes del Ministerio Público y a la Policía Investigadora, en todo el territorio del Estado.
+
+(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2004) (F. DE E., P.O. 19 DE FEBRERO DE 2005)
+
+Si el Juez niega la aprehensión, reaprensión (sic), comparecencia o cateo, por considerar que no están reunidos los requisitos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, se regresará el expediente al Ministerio Público para el trámite correspondiente.
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 2003)</small>
 
@@ -2781,7 +2789,7 @@ En los casos del primer párrafo del artículo 356 y de la última parte del pri
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
 
-###### Artículo 362.
+###### Art. 362.
 
 El Ministerio Público o el juez concederá al inculpado la libertad, sin caución alguna, cuando el término medio aritmético de la pena de prisión no exceda de dos años, siempre que concurran las siguientes circunstancias:
 
@@ -2794,32 +2802,6 @@ III. Que tenga un trabajo lícito;
 IV. Que no haya sido condenado por delito intencional; y
 
 V. Haya hecho o garantizado la reparación del daño.
-
-> <small>(F. DE E., P.O. 10 DE FEBRERO DE 1983)</small>
-
-###### Art. 362.
-
-La libertad bajo protesta se decretará en cualquier etapa del procedimiento y procederá en los casos y condiciones establecidas en el artículo 106 de este ordenamiento, siempre que concurran las circunstancias siguientes:
-
-I. Que el máximo de la sanción privativa de libertad fijada para el delito de que se trate, no exceda de un año de prisión;
-
-II. Que el inculpado sea delincuente primario;
-
-III. Que tenga domicilio dentro de la jurisdicción del Juzgado o Tribunal que conozca del proceso;
-
-IV. Que la residencia del inculpado en dicho lugar sea de un año, cuando menos;
-
-V. Que el inculpado tenga medios honestos de vivir; y
-
-VI. Que, a juicio de la autoridad que la conceda, no haya temor de que el inculpado se substraiga a la acción de la justicia;
-
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
-
-VII. Que tenga un trabajo lícito o se acredite en forma fehaciente su contratación inmediata.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
-
-Las causas de revocación de la libertad bajo protesta establecidas en este artículo, se aplicarán en lo conducente a la libertad bajo protesta concedida por el ministerio público.
 
 > <small>(F. DE E., P.O. 10 DE FEBRERO DE 1983)</small>
 
@@ -3449,10 +3431,6 @@ El ejecutivo del Estado, a través de la Dirección General de Prevención y Rea
 
 Las disposiciones contenidas en la presente Ley comenzarán a surtir sus efectos, quince días después de su publicación en el Periódico Oficial El Estado de Jalisco.
 
-###### Artículo 1º.
-
-Los Jueces del Estado de Jalisco son competentes para conocer, en la forma y términos que prescribe este Código, de los delitos del fuero común cometidos dentro del territorio del propio Estado.
-
 ###### Artículo 2º.
 
 Los procesos que se encuentren actualmente en tramitación en lo sucesivo se sustanciarán conforme a las normas del presente Código, salvo en el caso de que se perjudiquen los beneficios estipulados en favor del reo, contenidos en el Código de Procedimientos Penales de fecha nueve de junio de mil novecientos treinta y cuatro.
@@ -3672,3 +3650,9 @@ TERCERO.- Las disposiciones relativas a la Unidad Especializada, en el combate a
 P.O. 21 DE SEPTIEMBRE DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE NOVIEMBRE DE 2004.
+
+Primero.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo.- de conformidad con lo establecido en el capítulo cuarto de la Ley para la Divulgación de la Legislación del Estado de Jalisco, publíquese el presente decreto en cuando menos dos de los periódicos de mayor circulación en la entidad.
