@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-15645"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-22"
-last_updated: "1999-12-22"
+last_updated: "2001-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE MORELOS
 
-LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE MORELOS
+LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE MORELOS.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial Sección Segunda, el miércoles 22 de diciembre de 1999.
 
@@ -235,9 +235,15 @@ LI. Residuos peligrosos: Todos aquellos residuos, en cualquier estado físico, q
 
 LII. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
-LIII. Secretaría: La Secretaría de Desarrollo Ambiental;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-LIV. SEMARNAP: Secretaría de Medio Ambiente, Recursos Naturales y Pesca;
+LIII. La Comisión.- La Comisión Estatal de Agua y Medio Ambiente.
+
+En lo subsiguiente todas las disposiciones que refieran en la presente Ley a la "Secretaría" deberán decir la "Comisión"
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+LIV. SEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales.
 
 LV. Tratamiento de Agua Residual: Proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar las características perjudiciales que se le hayan incorporado;
 
@@ -505,7 +511,9 @@ I. Los planes de desarrollo urbano estatal, municipal y de centros de población
 
 II. La fundación de los nuevos centros de población;
 
-III. La creación de reservas territoriales y la determinación de los usos, provisiones y destinos del suelo;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+III. La creación de áreas naturales protegidas y reservas territoriales, así como en la determinación de usos, provisiones y destinos del suelo;
 
 IV. La ordenación urbana del territorio y los programas del Gobierno Estatal para infraestructura, equipamiento urbano y vivienda;
 
@@ -585,7 +593,9 @@ V. En caso de que un programa de ordenamiento ecológico local incluya un área 
 
 VI. Los programas de ordenamiento ecológico local regularán los usos del suelo, incluyendo a ejidos, comunidades y pequeñas propiedades, con la participación de las asambleas correspondientes expresando las motivaciones que lo justifiquen;
 
-VII. Para la elaboración de los programas de ordenamiento ecológico local, se establecerán mecanismos que garanticen la participación de los particulares, los grupos y organizaciones sociales, empresariales y demás interesados. Dichos mecanismos incluirán por lo menos procedimientos de difusión y consulta pública, además de las formas y los procedimiedntos públicos para que los particulares participen en la ejecución, vigilancia y evaluación de los programas de ordenamiento ecológicos a que se refiere este precepto;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+VII. Para la elaboración de los programas de ordenamiento ecológico local, se establecerán mecanismos que garanticen la participación de las instituciones académicas, de los particulares, los grupos y organizaciones sociales, empresariales y demás interesados. Dichos mecanismos incluirán por lo menos procedimientos de difusión y consulta pública, además de las formas y los procedimientos públicos para que los particulares participen en la ejecución, vigilancia y evaluación de los programas de ordenamiento ecológicos a que se refiere este precepto; y
 
 VIII. El Gobierno Federal podrá participar en la consulta a que se refiere la fracción anterior y emitirá las recomendaciones que estime pertinentes; y
 
@@ -879,11 +889,15 @@ En todo caso, deberán observarse las disposiciones legales relativas a la confi
 
 El Gobierno Estatal y los Municipios deberán promover la participación corresponsable de la sociedad en la planeación, ejecución, evaluación y vigilancia de la política ambiental, en los programas que tengan por objeto el aprovechamiento sustentable de los recursos naturales, la preservación del equilibrio ecológico y la protección al ambiente, así como en las acciones y medidas tendientes al desarrollo sustentable de la entidad.
 
-###### ARTÍCULO 54.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-La Secretaría y los Gobiernos Municipales en sus respectivas jurisdicciones promoverán, en congruencia con el Sistema Estatal de Planeación Democrática, el establecimiento del Consejo Consultivo Estatal o Municipal para el Desarrollo Sustentable, como órganos de concertación social y de coordinación institucional entre las dependencias gubernamentales a nivel federal, estatal y municipal con los diferentes sectores sociales.
+###### ARTICULO 54.
 
-Este Consejo Estatal o Municipal analizará los problemas y propondrá prioridades, programas y acciones a desarrollar; dará seguimiento y evaluará el impacto de los programas gubernamentales, promoverá la participación organizada de la sociedad y dará difusión a la problemática ambiental del Estado de Morelos.
+La Comisión y los Gobiernos Municipales en sus respectivas jurisdicciones promoverán, en congruencia con el Sistema Estatal de Planeación Democrática, el establecimiento del Consejo Consultivo Estatal o Municipal para el Desarrollo Sustentable, como órganos de concertación social y de coordinación institucional entre las dependencias gubernamentales en el ámbito federal, estatal y municipal con los diferentes sectores sociales.
+
+> <small>(REFORMADO P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+Este Consejo Estatal o Municipal analizará los problemas y propondrá prioridades, programas y acciones a desarrollar; dará seguimiento y evaluará el impacto de los programas gubernamentales, promoverá la participación organizada de la sociedad y dará difusión a la problemática ambiental.
 
 Las funciones de los Consejos serán:
 
@@ -901,13 +915,19 @@ V. Coordinarse con organismos nacionales, regionales, estatales y municipales pa
 
 El Consejo Consultivo Estatal para el Desarrollo Sustentable se integrará por convocatoria pública y amplia, de la siguiente forma:
 
-I. Cada sector social organizado ya sea empresario, agropecuario, académico, civil e indígena, nombrará democráticamente un representante titular y un suplente.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-II. Participarán representantes de las dependencias federales y estatales cuyas actividades tengan implicaciones en la protección ambiental y en el aprovechamiento de recursos naturales, nombrando a un titular y un suplente por cada nivel de gobierno; en el caso de los municipios participarán los regidores que manejen las cuestiones ambientales;
+I. Las instituciones y organizaciones no gubernamentales, legalmente constituidas y registradas en el estado y que tengan relación con los asuntos ambientales, podrán nombrar un representante titular y un suplente ante el Consejo.
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+II. Podrán participar representantes de las dependencias y organismos federales y estatales cuyas actividades tengan implicaciones en la protección ambiental y en el aprovechamiento de recursos naturales, nombrando a un titular y a un suplente; en el caso de los municipios podrán participar los regidores que manejen las cuestiones ambientales;
 
 III. El Congreso del Estado participará a través de un representante de la Comisión de Medio Ambiente y Recursos Naturales;
 
-IV. El Presidente del Consejo Consultivo Estatal, se nombrará por voto directo de los representantes titulares de cada sector social, y de la misma forma se hará para la elección del Secretario Técnico; y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+IV. El Presidente del Consejo Consultivo Estatal será electo por voto directo de los miembros del Consejo debidamente registrados y de la misma forma se hará para la elección del Secretario Técnico; y
 
 V. El Consejo Consultivo Estatal regirá su funcionamiento de acuerdo a un reglamento interior que él mismo apruebe en un plazo no mayor a 90 días después de su formación.
 
@@ -1133,7 +1153,9 @@ Para tal efecto, de acuerdo al artículo 46 de la Ley General del Equilibrio Eco
 
 Se entenderá por uso o aprovechamiento sustentable a la realización de actividades que tiendan a mejorar de manera efectiva las condiciones económicas, culturales, educativas, de salud y, en general, de bienestar de las comunidades asentadas en el área de que se trate, siempre que éstas participen de manera directa en la toma de decisiones y realización de las actividades, usos o aprovechamientos pretendidos.
 
-Para la autorización de cualquier tipo de actividad, uso o aprovechamiento que se pretenda realizar dentro del perímetro de un área natural protegida, la autoridad competente, estatal o municipal, deberá analizar y consensar previamente entre los habitantes de los pueblos y comunidades asentadas el proyecto. Además, deberá tomar en cuenta para la autorización respectiva, los programas de ordenamiento ecológico del territorio, el impacto ambiental que pudiere producirse directa o indirectamente a largo plazo, considerando de inicio y estableciendo, en su caso, las medidas que deberán tomarse para su mitigación o prevención.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+Para la autorización de cualquier tipo de actividad, uso o aprovechamiento que se pretenda realizar dentro del perímetro de un área natural protegida, la autoridad competente, estatal o municipal, deberá analizar y consensar previamente entre los propietarios o poseedores de la tierra, entre los habitantes de los pueblos y comunidades asentadas el (sic) proyecto. Además deberá tomar en cuenta para la autorización respectiva, los programas de ordenamiento ecológico del territorio, el impacto ambiental que pudiera producirse directa e indirectamente a largo plazo, considerando el inicio y estableciendo, en su caso, las medidas que deberán tomarse para su mitigación o prevención.
 
 ###### ARTÍCULO 79.
 
@@ -1153,13 +1175,19 @@ VI. Proteger poblados, vías de comunicación, instalaciones industriales y apro
 
 VII. Proteger los entornos naturales de zonas, monumentos y vestigios arqueológicos, históricos y artísticos, zonas turísticas, y otras áreas de importancia para la recreación, la cultura e identidad nacional y de los pueblos indígenas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 80.
 
-La Secretaría constituirá el Consejo Estatal de Áreas Naturales Protegidas, que estará integrado por representantes de la misma, de otras dependencias y entidades de la Administración Pública Estatal, autoridades municipales y agrarias, así como de instituciones académicas y centros de investigación, agrupaciones de productores y empresarios, organizaciones no gubernamentales y de otros organismos de carácter social o privado, así como personas físicas, con reconocido prestigio en la materia.
+La Comisión constituirá el Consejo Estatal de Áreas Naturales Protegidas, que estará integrado por representantes de las Instituciones, dependencias y entidades de carácter federal, estatal y municipal que tengan que ver con el conocimiento, planificación, manejo y aprovechamiento de las áreas naturales protegidas de la Entidad. El Consejo contará con un presidente y un Secretario Técnico, los que serán electos por un periodo de dos años por voto directo de los integrantes del Consejo. El Consejo regirá su funcionamiento por un reglamento interior que él mismo proponga y apruebe en un plazo no mayor a noventa días naturales después de su formación.
 
-El Consejo fungirá como órgano de consulta y apoyo de la Secretaría en la formulación, ejecución, seguimiento y evaluación de la política para el establecimiento, administración y vigilancia de las áreas naturales protegidas de su competencia.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-Las opiniones y recomendaciones que formule el Consejo, deberán ser consideradas por la Secretaría en el ejercicio de las facultades que en materia de áreas naturales protegidas le corresponden conforme a éste y otros ordenamientos jurídicos aplicables.
+Este Consejo tendrá como objetivo analizar los problemas y proponer prioridades, programas, y acciones para el manejo del Sistema Estatal de Áreas Naturales Protegidas. El Consejo fungirá además como órgano de consulta y apoyo de la Comisión en la formulación, ejecución, seguimiento y evaluación de la política para el establecimiento, manejo y vigilancia de las áreas naturales protegidas de su competencia.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+Las opiniones y recomendaciones que formule el Consejo, deberán ser considerados (sic) por la Comisión en el ejercicio de las facultades que en materia de áreas naturales protegidas le corresponden conforme a éste y otros ordenamientos jurídicos aplicables.
 
 El Consejo podrá invitar a sus sesiones a representantes del Gobierno Federal y en general a cualquier persona cuya participación sea necesaria conforme al asunto que en cada caso se trate.
 
@@ -1171,7 +1199,7 @@ Se consideran áreas naturales protegidas de competencia estatal, conforme al ar
 
 I. Reservas y parques estatales;
 
-II. Las que determinen otros ordenamientos estatales, tales como reservas territoriales.
+II. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
 
 Dichos parques y reservas no podrán establecerse en zonas declaradas previamente como áreas naturales protegidas de competencia de la Federación salvo que se trate de áreas de protección de recursos naturales.
 
@@ -1183,9 +1211,11 @@ I. Las zonas de preservación ecológica de los centros de población; y
 
 II. Los parques municipales.
 
-###### ARTÍCULO 83.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-Para el establecimiento, administración y manejo de las áreas naturales protegidas de cualquier competencia ya sea estatal o municipal, deberán participar la Secretaría y los Gobiernos Municipales, y a su vez impulsarán la participación de los habitantes, propietarios o poseedores de terrenos que se ubiquen en ellas, pueblos autóctonos y, en general, de todo interesado con el objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección y preservación de los ecosistemas, sus elementos y biodiversidad.
+###### ARTICULO 83.
+
+Para el establecimiento, administración y manejo de áreas naturales protegidas de competencia estatal, deberán participar la Comisión y el o los gobiernos municipales; y en el caso del establecimiento, administración y manejo de áreas naturales protegidas de competencia municipal deberá actuar el gobierno municipal. En ambos casos se impulsará la participación de los habitantes, propietarios o poseedores de terrenos que se ubiquen en ellas, pueblos autóctonos y, en general, de todo tipo de interesado con el objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección y preservación de los ecosistemas, sus elementos y biodiversidad.
 
 Para los efectos establecidos en el párrafo anterior, las autoridades podrán celebrar con los interesados, todos aquellos convenios de concertación o acuerdos de colaboración que resulten necesarios.
 
@@ -1197,7 +1227,7 @@ I. Verter o descargar contaminantes en el suelo, subsuelo y en cualquier clase d
 
 II. Interrumpir, rellenar, desecar o desviar los flujos hidráulicos;
 
-III. Realizar actividades cinegéticas o de explotación y aprovechamiento de especies de flora y fauna silvestres; y
+III. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
 
 IV. Ejecutar acciones que contravengan lo dispuesto por esta ley, la declaratoria respectiva y las demás disposiciones que de ellas se deriven.
 
@@ -1215,23 +1245,23 @@ Los parques estatales se constituirán, tratándose de representaciones biogeogr
 
 En los parques estatales sólo podrá permitirse la realización de actividades relacionadas con la protección de sus recursos naturales, el incremento de su flora y fauna y en general, con la preservación de los ecosistemas y de sus elementos, así como con la investigación, recreación, turismo y educación ecológica.
 
-###### ARTÍCULO 87.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-Las zonas de preservación ecológica de los centros de población. Se integran por los parques públicos, corredores, andadores, camellones y, en general, cualquier área de uso público en zonas urbanas industriales o circunvecinas de los asentamientos humanos, en las que existan ecosistemas en buen estado, que se destinen a preservar los elementos naturales indispensables para el equilibrio ecológico y el bienestar de la población de la localidad correspondiente. Los municipios deberán establecer las medidas de protección, administración y vigilancia que consideren pertinentes para lograr los objetivos por los que se someta al presente régimen de este tipo de áreas naturales.
+###### ARTICULO 87.
 
-###### ARTÍCULO 88.
+Las zonas de preservación ecológica de los centros de población podrán integrarse por cualquier área de uso público en zonas urbanas, industriales o circunvecinas de los asentamientos humanos en los que existan ecosistemas en buen estado, que se destinen a preservar los elementos naturales indispensables para el equilibrio ecológico y el bienestar de la población de la localidad correspondiente. Los municipios deberán establecer las medidas de protección, administración y vigilancia que consideren pertinentes para lograr los objetivos por los que se someta al presente régimen de este tipo de áreas protegidas.
 
-Los parque (sic) municipales son aquellas áreas de uso público, constituidas por el Gobierno Estatal y los Municipales en los centros de población para proteger y preservar el equilibrio de las áreas urbanas e industriales, entre las construcciones, equipamientos e instalaciones respectivas y los elementos de la naturaleza, de manera que se logre un ambiente sano, el esparcimiento de la población y la protección de los valores históricos, artísticos y de belleza cultural con significado en la localidad.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+###### ARTICULO 88.
+
+Los parques municipales son aquellas áreas de uso público, que se integran por parques públicos, corredores, andadores, camellones, y en general cualquier área de uso público en zonas urbanas, y que son constituidas por el Gobierno Estatal, si el parque abarca el territorio de dos o más Municipios y/o por los Municipios dentro de su circunscripción territorial, cuyo destino es proteger y preservar el equilibrio de las áreas urbanas e industriales, entre las construcciones, equipamiento e instalaciones respectivas y los elementos de la naturaleza, de manera que se logre un ambiente sano el esparcimiento de la población y la protección de los valores históricos, artísticos y de belleza cultural con significado en la localidad.
 
 Los planes de desarrollo urbano deben contemplar este tipo de equipamiento urbano a fin de que se considere un porcentaje de área verde para cada determinado número de habitantes.
 
-###### ARTÍCULO 89.
+###### ARTICULO 89.
 
-El Gobierno Estatal declarará las reservas territoriales para urbanización que se consideren necesarias de acuerdo a los planes de desarrollo urbano y ordenamientos territoriales, cuyo único uso posible será el de casa habitación o de servicios directamente relacionados con el mismo.
-
-Así mismo, se considerarán las presiones que se pudieran llegar a ejercer sobre los ecosistemas y el medio ambiente por la demanda de elementos naturales para satisfacer las necesidades de la población allí asentada.
-
-Para urbanización de las áreas naturales protegidas se utilizarán, en la construcción de viviendas y equipamiento urbano, materiales tradicionales de las comunidades previamente asentadas en la zona; así como tecnologías y prácticas propias del lugar o adaptables al mismo, que hagan posible la autosuficiencia de sus residentes y la sustentabilidad de su entorno social. En todo caso, se realizarán las obras necesarias para la captación y utilización de aguas pluviales. Las autoridades darán la asesoría y el apoyo que sean necesarios para la consecución de los fines establecidos en este artículo.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
 ###### ARTÍCULO 90.
 
@@ -1243,9 +1273,13 @@ El Gobierno Estatal promoverá ante el Gobierno Federal, el reconocimiento de la
 
 #### SECCIÓN 3. Declaratorias para el establecimiento, administración y vigilancia de áreas naturales protegidas
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 92.
 
-Las áreas naturales protegidas señaladas en ésta Ley, se establecerán mediante declaratoria que expida el Titular del Ejecutivo Estatal, con la participación de los Gobiernos Municipales y de conformidad con ésta y las demás leyes aplicables.
+Las áreas naturales protegidas señaladas en esta ley como de competencia estatal, se establecerán mediante declaratoria que expida el Titular del Ejecutivo Estatal, con la participación de los Gobiernos Municipales y de conformidad con ésta y las demás leyes aplicables.
+
+Las áreas naturales protegidas de competencia Municipal se establecerán mediante acuerdo de cabildo y de conformidad con esta y las demás Leyes aplicables.
 
 ###### ARTÍCULO 93.
 
@@ -1381,9 +1415,13 @@ Los ingresos que el Estado y los Municipios perciban por concepto del otorgamien
 
 #### SECCIÓN 4. Sistema estatal de áreas naturales protegidas
 
-###### ARTÍCULO 108.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-La Secretaría constituirá el Sistema Estatal de Áreas Naturales Protegidas, con el propósito de incluir en el mismo las áreas declaradas bajo este régimen.
+###### ARTICULO 108.
+
+La Comisión constituirá el Sistema Estatal de Áreas Naturales Protegidas, con el propósito de incluir en el mismo todas las áreas declaradas bajo este régimen por la federación, el estado o los municipios, cada una dentro de su propia jurisdicción, e integrar al mismo nuevas áreas que incluyan ecosistemas y corredores biológicos de la Entidad, a fin de asegurar su protección y preservación y garantizar los servicios ambientales que la biodiversidad presta a la población del Estado.
+
+El manejo de dicho Sistema estará a cargo del Gobierno del Estado a través de la Comisión, quien contará con la participación y asesoría del Consejo Estatal de Áreas Naturales Protegidas.
 
 ###### ARTÍCULO 109.
 
@@ -1409,9 +1447,25 @@ Las declaratorias deberán publicarse en el Periódico Oficial del Estado de Mor
 
 La Secretaría, en el ámbito jurisdiccional del Estado de Morelos, y en coordinación con las autoridades federales competentes, promoverá y realizará las acciones que le correspondan para la conservación, repoblamiento y aprovechamiento racional de la flora y fauna silvestres.
 
-###### ARTÍCULO 113.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-Queda prohibido en el Estado de Morelos, el tráfico de especies y subespecies silvestres de flora o fauna, terrestres o acuáticas, de conformidad con las normas y criterios ambientales. La actividad cinegética estará normada por el calendario cinegético que anualmente publica el Instituto Nacional de Ecología y se deberá realizar a través del establecimiento de Unidades de Manejo Ambiental.
+###### ARTICULO 113.
+
+La Comisión formulará y conducirá la política estatal sobre la conservación y aprovechamiento de la vida silvestre y emitirá las normas y reglamentos respectivos; para lo cual deberá cumplir con lo siguiente:
+
+I.- Establecer y aplicar disposiciones en materia de manejo, control y remediación de los problemas asociados con ejemplares y poblaciones ferales (sic).
+
+II.- Promover los usos y formas de aprovechamiento sostenible de la vida silvestre por parte de las comunidades rurales.
+
+III.- Dar apoyo, asesoría técnica y capacitación a las comunidades rurales para la conservación y aprovechamiento sustentable de la vida silvestre.
+
+IV.- Integrar, dar seguimiento y actualización al Sistema Estatal de Información sobre vida silvestre.
+
+V.- Crear, integrar y administrar registros de organizaciones relacionadas con la conservación y el aprovechamiento sustentable de la vida silvestre, de prestadores de servicios vinculados a la transformación, tratamiento, preparación, aprovechamiento y comercialización de ejemplares, partes y derivados de la vida silvestre y de mascotas de especies silvestres y aves de presa.
+
+VI.- Coordinar la participación social en las actividades de conservación y aprovechamiento de vida silvestre que son competencia del Gobierno del Estado, y
+
+VII.- Emitir recomendaciones a las autoridades federales en materia de vida silvestre, con el propósito de promover el cumplimiento de la legislación en la materia.
 
 ###### ARTÍCULO 114.
 
@@ -1759,9 +1813,7 @@ Los propietarios o poseedores de terrenos erosionados, en proceso de erosión o 
 
 ### CAPÍTULO VI
 
-Prevención y control de la contaminación ocasionada por ruido,
-
-vibraciones, energía térmica y lumínica y olores.
+Prevención y control de la contaminación ocasionada por ruido, vibraciones, energía térmica y lumínica y olores.
 
 ###### ARTÍCULO 151.
 
@@ -1821,9 +1873,7 @@ Los gobiernos municipales deberán incorporar, en sus bandos y reglamentos, disp
 
 Cualquier actividad no cotidiana que se realice en los centros de población cuyas emisiones de ruido, vibraciones, energía térmica y lumínica, rebasen o puedan rebasar los límites máximos establecidos por las Normas Oficiales Mexicanas, requieren permiso de la autoridad municipal competente.
 
-### CAPÍTULO VIII. Prevención y control de emergencias ecológicas
-
-y contingencias ambientales
+### CAPÍTULO VIII. Prevención y control de emergencias ecológicas y contingencias ambientales
 
 ###### ARTÍCULO 160.
 
@@ -2418,3 +2468,33 @@ SECRETARIO GENERAL DE GOBIERNO
 JORGE ARTURO GARCÍA RUBÍ
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE SEPTIEMBRE DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo Estatal tendrá un lapso de dos años a partir de la vigencia del presente decreto, para dar cumplimiento a lo dispuesto en los artículos 19 y 20 de la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos, elaborar, consensar y aplicar el ordenamiento ecológico del territorio del Estado y los ordenamientos ecológico regionales.
+
+###### ARTÍCULO CUARTO.
+
+Los Gobiernos municipales tendrán un lapso de un año y seis meses, a partir de la publicación de la presente Ley, para dar cumplimiento a lo dispuesto en el artículo 24 de esta Ley y elaborar, consensuar y aplicar el ordenamiento ecológico local.
+
+> <small>(F. DE E., P.O. 3 DE OCTUBRE DE 2001)</small>
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
+
+###### ARTÍCULO QUINTO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
