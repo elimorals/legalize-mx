@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1997-04-28"
+last_updated: "1999-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1999.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -452,6 +452,10 @@ La facultad de presentar iniciativas de leyes y decretos, corresponde:
 > <small>(REFORMADA, P.O. 13 DE JULIO DE 1994)</small>
 
 I. A los diputados;
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 1999)</small>
+
+Es obligación de cada diputado formular y presentar al menos una iniciativa de ley dentro del tiempo que dure su ejercicio.
 
 > <small>(REFORMADA, P.O. 13 DE JULIO DE 1994)</small>
 
@@ -1075,7 +1079,7 @@ Las decisiones del Consejo General serán definitivas e inatacables.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO III. Del Tribunal de Arbitraje y Escalafón
+### CAPITULO III. De la hacienda y del patrimonio municipal
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1103,7 +1107,7 @@ El pleno del Tribunal elegirá, de entre sus miembros, en los términos y bajo l
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO II. De las facultades y obligaciones de los ayuntamientos
+### CAPITULO I. Del gobierno municipal
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1161,7 +1165,7 @@ Una vez decretada la conclusión de algún proceso electoral, se instalará la s
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO I. Del gobierno municipal
+### CAPITULO III. Del Tribunal de Arbitraje y Escalafón
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1173,11 +1177,9 @@ La Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, est
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-## TITULO SEPTIMO
+## TITULO SEPTIMO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
-
-### CAPITULO III. De la hacienda y del patrimonio municipal
+### CAPITULO II. De las facultades y obligaciones de los ayuntamientos
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1237,7 +1239,7 @@ Si no procediere que se celebren nuevas elecciones, el Congreso designará entre
 
 Los concejos municipales y sus integrantes tendrán las mismas facultades y obligaciones que esta Constitución y las leyes establecen para los ayuntamientos.
 
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ### CAPITULO I. De las responsabilidades de los servidores públicos
 
@@ -1387,9 +1389,9 @@ Cuando dos o más centros urbanos situados en el territorio de dos o más munici
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO II. De las reformas a la Constitución
+### CAPITULO III. De la responsabilidad penal de los servidores públicos
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 88.
 
@@ -1417,7 +1419,7 @@ El Congreso no podrá establecer exenciones o subsidios respecto de contribucion
 
 ## TITULO NOVENO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO III. De la responsabilidad penal de los servidores públicos
+### CAPITULO IV. Del procedimiento administrativo
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1469,7 +1471,7 @@ Los procedimientos para la aplicación de las sanciones mencionadas se desarroll
 
 En los juicios del orden civil no hay fuero ni inmunidad.
 
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ### CAPITULO I. Prevenciones generales
 
@@ -1503,11 +1505,9 @@ IX. El Congreso, erigido en Jurado de Sentencia, con audiencia del inculpado, de
 
 Contra las resoluciones de juicio político no procede juicio o recurso alguno.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
+### CAPITULO III. De la inviolabilidad de esta Constitución
 
-### CAPITULO II. Del juicio político
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 99.
 
@@ -1563,11 +1563,11 @@ No se requerirá declaración de procedencia del Congreso, cuando alguno de los 
 
 Contra las declaraciones de procedencia penal no procede juicio o recurso alguno.
 
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO IV. Del procedimiento administrativo
+### CAPITULO II. De las reformas a la Constitución
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 106.
 
@@ -1587,9 +1587,9 @@ La ley señalará los términos de prescripción para exigir la responsabilidad 
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO III. De la inviolabilidad de esta Constitución
+### CAPITULO II. Del juicio político
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ### CAPITULO III. De la inviolabilidad de esta Constitución
 
@@ -1681,13 +1681,15 @@ Las reformas y adiciones a esta Constitución podrán ser sometidas a referéndu
 
 Las reformas hechas en la Constitución Federal que afecten a esta Constitución, serán inmediatamente adoptadas por el Congreso y promulgadas sin más trámite.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
+(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
 ###### Art. 119.
 
 Esta Constitución conservará su vigor aunque un trastorno público interrumpa su observancia.
 
 Si se estableciere un gobierno contrario a los principios que ella sanciona, luego que el pueblo recobre su libertad volverá a ser acatada y, con sujeción a la misma y a las leyes que de ella emanen, serán juzgados todos los que la hubieran infringido.
+
+(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
 ## TRANSITORIOS
 
@@ -2010,3 +2012,9 @@ Décimo Tercero. Para integrar por primera ocasión el Consejo General del Poder
 Décimo Cuarto. En tanto se expiden o reforman las leyes correspondientes, las funciones que conforme al presente decreto sean competencia de los jueces municipales, seguirán siendo ejercidas por los órganos que hasta este momento las desempeñan, conforme a los procedimientos que actualmente establecen las leyes.
 
 Décimo Quinto. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
+
+P.O. 14 DE ENERO DE 1999.
+
+Artículo Primero. Envíese copia certificada del presente proyecto de dictamen de decreto a los 124 ayuntamientos del estado, con el diario de debates, en el que conste las discusiones que hubiere provocado, para que con fundamento a lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
+
+Artículo Segundo. El presente proyecto de decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
