@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-el-funcionamiento-expedicion-y-revalidacion-de-14520"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-30"
-last_updated: "1998-10-28"
+last_updated: "2000-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA EL FUNCIONAMIENTO, EXPEDICION Y REVALIDACION DE LICENCIAS Y PERMISOS A DISTRIBUIDORES Y COMERCIALIZADORES DE BEBIDAS ALCOHOLICAS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 30 de mayo de 1996.
 
@@ -131,9 +131,9 @@ XXII.- Bar.
 
 Se entiende por:
 
-> <small>(F. DE E., P.O. 10 DE JUNIO DE 1996)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2000)</small>
 
-I.- DISTRIBUIDORA: Negocio de distribución específica y venta al mayoreo de bebidas alcohólicas a negocios subsecuentes que tengan licencia o permiso autorizado para la venta y consumo de los mismos.
+I.- DISTRIBUIDORA: Negocio de distribución específica y venta al mayoreo de bebidas alcohólicas a negociaciones y personas que cuenten con licencia o permiso para la venta de las mismas, para cuyos actos de comercialización de sus productos deberán cerciorarse previamente de que están comercializando con negociaciones o personas autorizadas para la venta de bebidas alcohólicas, bajo pena de hacerse acreedores a las sanciones previstas en la presente Ley.
 
 II.- BODEGA: Lugar donde se guardan bebidas alcohólicas.
 
@@ -239,6 +239,10 @@ VIII.- Utilizar los establecimientos en que se expendan y consuman bebidas alcoh
 
 IX.- Instalar compartimientos o reservados que se encuentren cerrados o que impidan la libre comunicación interior del local.
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2000)</small>
+
+X.- A las distribuidoras, vender bebidas alcohólicas a negociaciones o personas que no cuenten con licencia o permiso para la venta de las mismas.
+
 ###### ARTICULO 15.
 
 Se prohibe el almacenamiento, distribución, venta y consumo de bebidas alcohólicas en:
@@ -249,11 +253,15 @@ II.- Centros de trabajo, ejidales o comunales.
 
 III.- La vía pública, parques y plazas públicas.
 
-IV.- Locales situados dentro de un radio de 150 metros de los linderos de los edificios y patios destinados a jardines de niños, instituciones educativas, centros culturales, hospitales, sanatorios, hospicios, asilos, centros asistenciales, fábricas, edificios públicos, mercados, cuarteles y templos.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2000)</small>
+
+IV.- Locales situados dentro de un radio de 150 metros de los linderos de los edificios y patios destinados a jardines de niños, instituciones educativas, centros culturales, hospitales, sanatorios, hospicios, asilos, centros asistenciales, fábricas, edificios públicos, mercados, cuarteles, templos y terminales de autobuses de pasajeros.
 
 V.- Locales destinados a espectáculos públicos; y,
 
-VI.- Lugares en que lo exija la moralidad o salud pública.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2000)</small>
+
+VI.- Lugares en que lo exija la moralidad, el interés general o salud pública.
 
 > <small>(F. DE E., P.O. 10 DE JUNIO DE 1996)</small>
 
@@ -293,6 +301,10 @@ V.- A establecimientos ubicados a menos de ciento cincuenta metros de otros que 
 
 VI.- Reincidentes en la infracción de disposiciones sobre la materia.
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2000)</small>
+
+VII.- A quienes hayan sido condenados por sentencia ejecutoria por delitos cometidos con motivo de la venta ilícita de bebidas alcohólicas.
+
 ### CAPITULO IV. DE LOS DIAS Y HORAS DE FUNCIONAMIENTO
 
 ###### ARTICULO 19.
@@ -301,7 +313,9 @@ Los horarios a que se sujetarán los establecimientos a que se refiere esta Ley,
 
 I.- Centros nocturnos, cabarets y salones de baile de lunes a sábado de 21:00 horas a 2:00 horas y los domingos de 21:00 horas a 24:00 horas.
 
-II.- Discotecas de lunes a sábado de 21:00 horas a 3:00 horas y los domingos de 21:00 horas a 24:00 horas.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2000)</small>
+
+II.- Discotecas de domingo a jueves de 21:00 horas a 2:00 horas; viernes y sábado de 21:00 horas a 3:00 horas.
 
 III.- Cantinas y salón cerveza de lunes a sábado de 10:00 horas a 18:00 horas.
 
@@ -422,6 +436,10 @@ En los casos de solicitud de licencia o permiso para los establecimientos y giro
 ###### ARTICULO 32.
 
 Las licencias o permisos para el almacenamiento, distribución, venta y consumo de bebidas alcohólicas expedidas conforme a esta Ley, serán personales e intransferibles, no podrán ser objeto de comercio, arrendamiento, comodato, venta o gravamen por cualquier concepto, salvo autorización expresa del Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado. La transgresión a lo anterior, tendrá como consecuencia la nulidad de la operación y dará lugar a la cancelación de la licencia o permiso y la clausura del establecimiento que esté operando al amparo de la misma.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2000)</small>
+
+Las licencias o permisos a que se refiere esta Ley, concebidas como un acto discrecional que constituye un derecho personal, intransferible y condicionado en términos del artículo 27 de este mismo ordenamiento legal, en consecuencia, tampoco podrán ser objeto de embargo decretado por autoridades judiciales, administrativas o del trabajo, siendo nulo de pleno derecho el acto jurisdiccional o administrativo que lo decretare.
 
 ###### ARTICULO 33.
 
@@ -715,9 +733,13 @@ El inspector o persona autorizada que descubra un establecimiento que funciona e
 
 Las bebidas alcohólicas que sean recogidas y secuestradas en los términos de esta Ley, a excepción de lo dispuesto por el artículo 45 en caso de venta clandestina, deberán ser recuperadas por su propietario en un término de cinco días hábiles, a partir de la fecha en que se hayan cubierto los requisitos que establece el presente ordenamiento.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 64.
 
-Cumplido el plazo que señala el artículo anterior, sin que hubieren sido recuperadas las bebidas alcohólicas, la Secretaría de Finanzas y Administración del Gobierno del Estado procederá, levantando un acta, a destruir los envases abiertos y cerrados que contengan bebidas alcohólicas adulteradas. Los envases cerrados que contengan bebidas legalmente registrados, serán rematados en los términos del Código Fiscal del Estado.
+Cumplido el plazo que señala el artículo anterior, sin que hubieren sido recuperadas las bebidas alcohólicas, la Secretaría de Finanzas y Administración del Gobierno del Estado procederá, levantando un acta, a destruir los envases abiertos o cerrados que contengan bebidas alcohólicas. Los envases cerrados que contengan bebidas alcohólicas legalmente registrados, podrán ser rematados en los términos del Código Fiscal del Estado.
+
+Procederá también el remate o destrucción de las bebidas alcohólicas y sus envases que hayan sido secuestradas o decomisadas a establecimientos o casas habitación que en forma clandestina realicen las actividades reguladas por esta ley.
 
 ###### ARTICULO 65.
 
@@ -869,6 +891,10 @@ El titular de la Secretaría de Finanzas y Administración del Gobierno del Esta
 
 Se sancionará con prisión de uno a cuatro años y multa de veinte a quinientos días de salario mínimo general diario vigente en la Entidad, al que en forma ilícita permita, auspicie, induzca o realice la venta de bebidas alcohólicas en casa-habitación o en cualquier otro lugar, sin contar con la licencia o permiso respectivo.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2000)</small>
+
+La misma pena se aplicará a los representantes legales, gerentes, encargados o repartidores de las distribuidoras de bebidas alcohólicas cuando comercialicen sus productos con negocios o personas que no cuenten con licencia o permiso para la venta de las citadas bebidas. Igual sanción será aplicable a los titulares de licencias o permisos para la venta de bebidas alcohólicas que permitan, auspicien, induzcan ordenen o realicen la venta o la distribución de bebidas alcohólicas a quienes en forma clandestina realicen la venta de dichas bebidas.
+
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 81.
@@ -882,6 +908,10 @@ La reincidencia en la comisión de estos delitos será considerada como delito g
 ###### ARTICULO 82.
 
 En el caso de los delitos precisados en esta Ley, independientemente de las medidas y sanciones que imponga la autoridad administrativa, procederá, en el procedimiento judicial respectivo, el decomiso de las bebidas alcohólicas, siempre y cuando éstas no hayan sido secuestradas por la autoridad administrativa, caso en el cual, el acta circunstanciada levantada por tal motivo, hará prueba de la preexistencia de las aludidas bebidas, cuyo documento en copia certificada, deberá ser puesto a disposición del agente investigador del Ministerio Público, a solicitud de éste.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2000)</small>
+
+Una vez decretada la sentencia condenatoria y la misma haya causado ejecutoria, la autoridad judicial deberá poner de inmediato a disposición de la Secretaría de Finanzas y Administración, las bebidas alcohólicas y los envases decomisados para que ésta proceda a su destrucción o remate.
 
 T R A N S I T O R I O S:
 
@@ -918,3 +948,9 @@ P.O. 28 DE OCTUBRE DE 1998.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales o reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 7 DE JUNIO DE 2000.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al contenido del presente decreto.
