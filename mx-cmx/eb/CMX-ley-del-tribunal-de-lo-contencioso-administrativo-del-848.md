@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-tribunal-de-lo-contencioso-administrativo-del-848"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-19"
-last_updated: "2000-08-17"
+last_updated: "2004-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=848&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1995-12-14"
 
 LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE ENERO DE 2004.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 19 de diciembre de 1995.
 
@@ -410,9 +410,13 @@ III.- El tercero perjudicado o sea cualquier persona cuyos intereses puedan vers
 
 En los juicios de nulidad que versen sobre la materia de uso de suelo, utilización de la vía pública y giros mercantiles, los Comités Vecinales tendrán invariablemente el carácter de terceros perjudicados, por lo que deberán ser notificados dentro de las veinticuatro horas siguientes a la presentación del escrito inicial del juicio de que se trate, respecto a la Colonia, Barrio, Pueblo o Unidad Habitacional que corresponda, a fin de que interpongan los medios de prueba y de defensa que procedan.
 
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 34.
 
-Sólo podrán intervenir en el juicio, las personas que tengan interés legítimo en el mismo.
+Sólo podrán Intervenir en el juicio, las personas que tengan interés legítimo en el mismo.
+
+En los casos en que el actor pretenda obtener sentencia que le permita realizar actividades reguladas, deberá acreditar su interés jurídico mediante la correspondiente concesión, licencia, permiso, autorización o aviso.
 
 ###### ARTICULO 35.
 
@@ -566,17 +570,21 @@ Estos servicios serán gratuitos, así como los de asesoría y defensoría que p
 
 Dentro del término de veinticuatro horas de haber recibido la demanda, el Presidente del Tribunal la turnará a la Sala que corresponda.
 
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 54.
 
 El Presidente de la Sala admitirá la demanda, o en los siguientes casos la desechará:
 
 I.- Si examinada, se encontrare que el acto impugnado se dictó de acuerdo con la jurisprudencia establecida por la Suprema Corte de Justicia de la Nación o del propio Tribunal;
 
-II.- Si encontrare motivo manifiesto e indudable de improcedencia; y
+II.- Si encontrare motivo manifiesto e indudable de improcedencia, y
 
 III.- Si siendo oscura o irregular y prevenido el actor para subsanarla, en el término de cinco días no lo hiciere, la oscuridad o irregularidad subsanables, no serán más que aquellas referentes a la falta o imprecisión de los requisitos formales a que se refiere el artículo 50.
 
 Contra los autos de desechamiento a que se refiere este artículo, procede el recurso de reclamación.
+
+El Presidente de la Sala, previo a la admisión de la demanda de oficio, deberá entrar al estudio de las causales de improcedencia que de la misma se adviertan y, en caso de actualizarse alguna de ellas, procederá a desechar la demanda en los términos de la fracción II de este artículo.
 
 ###### ARTICULO 55.
 
@@ -604,17 +612,21 @@ El Magistrado Instructor examinará el expediente y si encontrare acreditada deb
 
 La suspensión de la ejecución de los actos que se impugnan, sólo podrá ser acordada por el Presidente de la Sala que conozca del asunto, haciéndolo del conocimiento inmediato de las autoridades demandadas para su cumplimiento, previa verificación de la existencia y autenticidad del acto que se impugna y consulta ciudadana de aquéllos vecinos a los que afecte de algún modo la suspensión. Dicha consulta ciudadana se celebrará de conformidad con los lineamientos establecidos por el Título Tercero Capítulo IV, de la Ley de Participación Ciudadana del Distrito Federal, en lo que corresponda.
 
-> <small>(REFORMADO, G.O. 17 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 59.
 
 La suspensión podrá solicitarla el actor en cualquier etapa del juicio y tendrá por efecto evitar que se ejecute la resolución impugnada. Sólo podrá ser concedida por el Presidente de la Sala a petición del Magistrado Instructor a quien le haya sido solicitada por el actor dentro del término de veinticuatro horas siguientes a la verificación de la existencia y autenticidad del acto que se impugna y, en su caso, a la consulta ciudadana a que se refiere el artículo anterior.
+
+Previo al otorgamiento de la suspensión, deberá verificarse que con la misma no se afecten los derechos de terceros o el interés social.
 
 Cuando los actos que se impugnan hubieren sido ejecutados y afecten a los demandantes impidiéndoles el ejercicio de su única actividad de subsistencia o el acceso a su domicilio particular, el Presidente de la Sala podrá dictar las medidas cautelares que estime pertinentes para preservar dicho medio de subsistencia, siempre y cuando dicha actividad constituya su único medio de subsistencia, lo cual debe ser comprobado fehacientemente.
 
 Excepcionalmente, bajo su más estricta responsabilidad el Presidente de la Sala podrá acordar la suspensión con efectos restitutorios, en cualquiera de las fases del procedimiento hasta antes de la sentencia respectiva.
 
 No se otorgará la suspensión si es en perjuicio del interés social, si se contravinieren disposiciones de orden público o se dejare sin materia el juicio.
+
+Cuando se solicite la suspensión para la realización de actividades reguladas, que requieran de concesión, licencia, permiso, autorización o aviso y el actor no exhiba dicha documental no se otorgará la misma.
 
 La suspensión podrá ser revocada por el Presidente de la sala en cualquier etapa del juicio, si varían las condiciones por las cuales se otorgó.
 
@@ -702,7 +714,11 @@ Los testigos, que no podrán exceder de tres por cada hecho, deberán ser presen
 
 En caso de que el señalamiento de domicilio de algún testigo resulte inexacto o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al promovente una multa equivalente hasta treinta días de salario mínimo general diario vigente en el Distrito Federal, en el momento de imponerse la misma, debiendo declararse desierta la prueba testimonial.
 
-### CAPITULO VII (sic). De la Improcedencia y Sobreseimiento
+> <small>(REFORMADA SU NUMERACION, G.O. 29 DE ENERO DE 2004)</small>
+
+### CAPITULO VIII. De la Improcedencia y Sobreseimiento
+
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 72.
 
@@ -726,9 +742,11 @@ VIII.- Cuando de las constancias de autos apareciere fehacientemente que no exis
 
 IX.- Cuando hubieren cesado los efectos de los actos o resoluciones impugnados, o no pudieren producirse por haber desaparecido el objeto del mismo;
 
-X.- Contra actos o resoluciones que deban ser revisados de oficio por las autoridades administrativas del Distrito Federal, y dentro del plazo legal establecido para tal efecto; y
+X.- Contra actos o resoluciones que deban ser revisados de oficio por las autoridades administrativas del Distrito Federal, y dentro del plazo legal establecido para tal efecto;
 
-XI.- En los demás casos en que la improcedencia esté establecida en algún otro precepto de esta Ley.
+XI.- Cuando no se acredite el interés jurídico, en los casos a que se refiere el segundo párrafo del artículo 34 de esta Ley; y
+
+XII.- En los demás casos en que la improcedencia esté establecida en algún otro precepto de esta Ley.
 
 ###### ARTICULO 73.
 
@@ -971,3 +989,9 @@ La Sala cuya competencia exclusiva sea en materia de uso del suelo, como lo esta
 ###### ARTICULO CUARTO.
 
 Las adecuaciones al reglamento de la presente Ley, deberán expedirse dentro de los 90 días siguientes a la fecha en que entre en vigor este decreto.
+
+G.O. 29 DE ENERO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Los juicios iniciados con anterioridad a la presente publicación, continuarán su proceso con base en la normatividad que les dio inicio.
