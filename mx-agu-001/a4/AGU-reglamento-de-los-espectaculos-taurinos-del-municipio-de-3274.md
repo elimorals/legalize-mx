@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-los-espectaculos-taurinos-del-municipio-de-3274"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-04-08"
-last_updated: "1989-03-05"
+last_updated: "1989-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3274&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,9 +24,7 @@ state: "AGU"
 
 REGLAMENTO DE LOS ESPECTACULOS TAURINOS DEL MUNICIPIO DE AGUASCALIENTES
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 97 PUBLICADO EN EL P.O. DE 5 DE MARZO DE 1989, SE DECLARA VIGENTE EL REGLAMENTO DE LOS ESPECTACULOS TAURINOS PUBLICADO EL DOCE DE MARZO DE MIL NOVECIENTOS SETENTA Y DOS.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1989.
 
 Reglamento publicado en el Suplemento al Periódico Oficial del Estado de Aguascalientes, el domingo 8 de abril de 1984.
 
@@ -54,11 +52,9 @@ II.- Los asientos en los tendidos tendrán la suficiente amplitud para que se in
 
 III.- En las localidades numeradas la anchura de los asientos debe ser de 40 centímetros como mínimo.
 
-IV.- Los redondoles (sic) tendrán un diámetro por lo menos de 40 metros en las plazas de primera categoría, en las de segunda ésta puede reducirse a treinta metros y estarán circundados por una barrera de madera de cinco centímetros de espesor en las de primera y de tres en las de segunda, pintada de color rojo obscuro y de una altura variable entre 1.30 metros y 1.40 metros, la barrera deberá- tener un estribo interior y otro exterior a una altura variable de veinte a treinta centímetros del piso según la altura de la misma y con una huella de quince centímetros.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1989)</small>
 
-El estribo de la parte exterior, estará pintado de blanco, con objeto de que los lidiadores puedan distinguirlo fácilmente.
-
-La barrera contará con cuatro burladeros con tronera al callejón y su distribución será simétrica; tendrán las orillas pintadas de blanco y además, un círculo al centro, del mismo color que los haga fácilmente visibles.
+IV.- Los redondeles tendrán un diámetro de por lo menos treinta y cinco metros en plazas de primera categoría.
 
 V.- En la mañana del día en que haya de celebrarse la corrida, se trazarán en el piso del redondel, con pintura de color adecuado, dos circunferencias concéntricas con una distancia desde el estribo de la barrera, la primera de cinco metros y la segunda de siete. De la primera no podrán avanzar los picadores al situarse para la suerte de varas, y la segunda no rebasará la res al ser colocada para ella.
 
@@ -72,13 +68,9 @@ Contará con tomas de agua para facilitar el riego del redondel.
 
 VII.- Los corrales para los toros serán cuando menos suficientemente amplios, con dotación de burladeros y un buen desagüe para evitar el encharcamiento del agua en perjuicio de los toros. Los corrales tendrán comunicación con la vía pública para la fácil introducción de los animales y además comunicación directa con la corraleta de los chiqueros para la launa de enchiqueramiento. Los corrales deberán contar con mirillas, para que el público pueda observar las condiciones de los toros.
 
-VIII.- Las plazas de primera categoría contarán con nueve toriles por lo menos y las de segunda con ocho. Los toriles serán de mampostería y estarán distribuidos en líneas paralelas a uno frente al otro, formando un callejón.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1989)</small>
 
-a).- El toril tendrá las dimensiones convenientes para que el toro pueda moverse.
-
-b).- En las plazas de primera, los tories tendrán dos puertas hacia el ruedo, una que comunique con el callejón y otra con el corral de cabestros.
-
-c).- El sistema de puertas, callejones y corraletas, deberán llenar dos fines primordiales: seguridad absoluta para los que realizan esa launa y facilidad para su ejecución con el menor número de molestias para los toros; con tal fin, las puertas de los chiqueros corresponderán en sus dimensiones a la anchura del pasillo, con el objeto de que al abrirse comunique con el lugar que sea necesario.
+VIII.- Todas las plazas de toros contarán con ocho toriles por lo menos.
 
 IX.- En toda plaza de toros que esté catalogada de primera, deberá contar dentro de sus instalaciones, con una báscula para verificar el peso de los toros en pie.
 
@@ -804,6 +796,10 @@ En las plazas de segunda categoría, que no cuenten con un local adecuado para e
 
 Queda terminantemente prohibido a los espectadores ofender de palabra o de hecho a la autoridad, los lidiadores o al público, bajar al ruedo y arrojar objetos que perturben la lidia, amenacen la seguridad de los lidiadores o impidan el lucimiento del festejo. Queda igualmente prohibido arrojar algún objeto sobre los espectadores.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE ABRIL DE 1989)</small>
+
+ARTICULO 80 BIS.- Se prohibe la realización de colectas en cualquier lugar de la plaza durante la realización de la faena.
+
 ###### ARTICULO 81.
 
 Queda prohibido a los espectadores ocupar las escaleras y pasillos de acceso a las localidades. Será responsabilidad de las autoridades y la empresa velar por su estricto cumplimiento.
@@ -836,7 +832,7 @@ IV.- Suspensión hasta por el término de un año.
 
 V.- Pérdida de cartel.
 
-VI.- Pérdida de alternativa.
+VI.- (REFORMADA [N. DE E. DEROGADA], P.O. 9 DE ABRIL DE 1989)
 
 VII.- Cancelación de Registro.
 
@@ -854,23 +850,21 @@ En los demás casos por la Presidencia Municipal o según corresponda.
 
 En los casos de reincidencia o cuando la infracción sea de carácter grave, podrán imponerse simultáneamente varias de las sanciones a que se refiere el artículo anterior.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1989)</small>
+
 ###### ARTICULO 88.
 
-Tratándose de multas se aplicarán las siguientes reglas:
+Tratándose de multas, a criterio de la autoridad competente se aplicarán las siguientes reglas:
 
-I.- Las multas a las empresas serán de $ 10,000.00 a $ 1'000,000.00 o el 10% de la venta del boletaje total.
+1.- Las multas a las empresas serán de uno hasta mil veces el salario mínimo general vigente en la región.
 
-II.- Las multas a los matadores de $ 10,000.00 a $ 50,000.00.
+2.- Las multas a los matadores serán de uno hasta trescientas veces el salario mínimo general vigente en la región.
 
-III.- Las multas al personal de cuadrillas serán de $ 1,000.00 a $ 10,000.00.
+3.- Las multas al personal de cuadrilla serán de uno hasta cien veces el salario mínimo general vigente en el Municipio.
 
-IV.- Las multas a los empleados de la plaza serán de $ 200.00 a $ 2,000.00.
+4.- Las multas a los espectadores serán de uno hasta cien veces el salario mínimo general vigente en la región.
 
-V.- Las multas a los espectadores serán de $ 1,000.00 a $ 25,000.00, tratándose de obreros o jornaleros se estará a lo dispuesto por el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
-
-VI.- Las multas a los ganaderos serán de $ 20,000.00 a $ 200,000.00.
-
-El monto de la multa será fijada según la gravedad de la infracción; pero en caso de reincidencia consecutiva o continuada en la infracción, se impondrá precisamente el máximo de la multa. La autoridad que impuso la multa podrá indicar cuál es el arresto correspondiente.
+5.- Las multas a los ganaderos serán de uno hasta mil veces el salario mínimo general vigente en la región.
 
 ###### ARTICULO 89.
 
@@ -886,9 +880,11 @@ IV.- Durante las corridas o funciones, ya sea los diestros, personal de cuadrill
 
 V.- Cuando por falta de pago a las multas se computen por arresto.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1989)</small>
+
 ###### ARTICULO 90.
 
-En los casos de pérdida de alternativa o cartel, suspensión o cancelación de registro o licencia de funcionamiento, la Presidencia Municipal se abstendrá de autorizar la celebración de funciones o aprobación de programas según el caso, si con ello dejaran de hacerse efectivas las sanciones que legalmente hubieren sido impuestas.
+En los casos de pérdida, de cartel, suspensión o cancelación de registro o licencia de funcionamiento, la Presidencia Municipal se abstendrá de autorizar la celebración de funciones o aprobación de programas según el caso, si con ello dejaran de hacerse efectivas las sanciones que legalmente hubieren sido impuestas.
 
 ###### ARTICULO 91.
 
@@ -992,10 +988,12 @@ C. Sind. José. Antonio Aguilar Ramírez.
 
 > <small>N. DE E. A CONTINACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
-
-SE TRANSCRIBE UNICAMENTE EL ARTICULO UNICO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL REGLAMENTO.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON L PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 ###### ARTICULO UNICO.
 
 El Reglamento de los Espectáculos Taurinos expedido el treinta y uno de diciembre de mil novecientos setenta y uno y publicado en la edición del doce de marzo de mil novecientos setenta y dos del Periódico Oficial del Estado, es vigente en tanto no existan reglamentos de la materia expedidos por los Ayuntamientos de los Municipios del Estado. (sic)
+
+P.O. 9 DE ABRIL DE 1989.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
