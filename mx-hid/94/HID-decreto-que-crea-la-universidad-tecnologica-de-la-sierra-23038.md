@@ -4,7 +4,7 @@ identifier: "HID-decreto-que-crea-la-universidad-tecnologica-de-la-sierra-23038"
 country: "mx"
 rank: "decreto"
 publication_date: "2001-10-15"
-last_updated: "2001-10-15"
+last_updated: "2004-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 DECRETO QUE MODIFICA AL DIVERSO QUE CREO A LA UNIVERSIDAD TECNOLOGICA DE LA SIERRA HIDALGUENSE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA AL DIVERSO RELATIVO A LA UNIVERSIDAD TECNOLOGICA DE LA SIERRA HIDALGUENSE, PUBLICADO EN EL P.O. DE 15 DE MARZO DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Decreto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 15 de octubre de 2001.
 
@@ -133,11 +135,11 @@ I. Tres representantes del Estado, que serán designados por el Gobernador Const
 
 II. Tres representantes de la Federación, designados por el Secretario de Educación Pública;
 
-III. Un Representante del Municipio de Tulancingo, designado por el Ayuntamiento; y
+III. Un Representante del Municipio de Tulancingo, designado por el Ayuntamiento y
 
 IV. Tres Representantes del sector productivo de la región, invitados por el Ejecutivo Estatal.
 
-También asistirá a las sesiones del Consejo Directivo con voz pero sin voto, un Comisario Público designado por la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
+También asistirá a las sesiones del Consejo Directivo con voz pero sin voto, un Comisario Público designado por la Secretaría dela Contraloría del Poder Ejecutivo del Estado.
 
 Las sesiones del Consejo Directivo podrán ser ordinarias o extraordinarias. Las sesiones ordinarias se llevarán a cabo cuando menos cuatro veces al año, en forma trimestral y las extraordinarias cuando sean necesarias, las que serán convocadas para ello por su Presidente o a iniciativa de alguno de sus miembros.
 
@@ -328,3 +330,11 @@ Dado en la sede del Poder Ejecutivo del Estado en la Ciudad de Pachuca de Soto, 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
 
 LIC. MANUEL ÁNGEL NÚÑEZ SOTO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO:</small>
+
+P.O. 15 DE MARZO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se abroga el Decreto de fecha 21 de Abril de 1997, publicado en el Periódico Oficial del Estado, el día 24 de Abril de 1997, que crea la Universidad Tecnológica de la Huasteca Hidalguense.
