@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-administracion-municipal-8463"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1984-02-02"
-last_updated: "1993-04-26"
+last_updated: "1993-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DE ADMINISTRACION MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE ABRIL DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE NOVIEMBRE DE 1993.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el jueves 2 de febrero de 1984.
 
@@ -171,9 +171,11 @@ XIV.- Las demás que determinen esta Ley, sus Reglamentos, Bando de Policía y B
 
 ### CAPITULO I. DE LA INTEGRACION DE LOS AYUNTAMIENTOS
 
+> <small>(REFORMADO, B.O. 25 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 18.
 
-El Gobierno Municipal estará a cargo de los Ayuntamientos electos popularmente en los términos de la Constitución Política Local y de la Ley de Organizaciones Políticas y Procesos Electorales del Estado.
+El Gobierno Municipal estará a cargo de los Ayuntamientos electos popularmente en los términos de la Constitución Política Local y de la Ley Electoral para el Estado de Sonora.
 
 ###### ARTICULO 19.
 
@@ -195,11 +197,11 @@ Los cargos de Presidente Municipal, Síndico y Regidor de un Ayuntamiento, son o
 
 ### CAPITULO II. DE LA INSTALACION
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE JULIO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 22.
 
-El día 13 de octubre del año en que se verifique la elección ordinaria correspondiente, en el lugar y hora señalados por los miembros salientes del Ayuntamiento de que se trate, deberán de comparecer en sesión solemne de Cabildo, las personas que, en los términos de ley, resultaron electas para ocupar los cargos de Presidente Municipal, Síndico y Regidores, con el fin de que previas las formalidades a que se refiere este Capítulo, asuman el ejercicio de las funciones inherentes a sus cargos.
+El día dieciséis de septiembre del año en que se verifique la elección ordinaria correspondiente, en el lugar, y hora señalados por los miembros salientes del Ayuntamiento de que se trate, deberán de comparecer en sesión solemne de Cabildo las personas que, en los términos de la Ley , resultaron electas para ocupar los cargos de Presidente Municipal, Síndico y Regidores, con el fin de que previas las formalidades a que se refiere este Capítulo, asuman el ejercicio de las funciones inherentes a sus cargos.
 
 De no señalarse por los miembros salientes del Ayuntamiento, lugar y hora para la celebración de esta Sesión solemne, se entenderá que la misma debe efectuarse en el recinto oficial de sesiones del Ayuntamiento respectivo, a las 10:00 horas del día mencionado en el párrafo anterior.
 
@@ -217,21 +219,29 @@ III.- La declaratoria que hará el nuevo Presidente Municipal de quedar instalad
 
 Al término de la ceremonia de instalación, el Presidente Municipal saliente, hará entrega al Ayuntamiento, a través del Presidente Municipal entrante, de todos los bienes propiedad del Municipio, por medio de inventario que será visado por el Síndico saliente. Entregará además, los estados financieros correspondientes al último año de su gestión que comprenderá la balanza de comprobación, el balance general y el estado de resultados que contenga el ejercicio presupuestario de ingresos y egresos.
 
+> <small>(REFORMADO, B.O. 25 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 25.
 
-De no presentarse los miembros salientes del Ayuntamiento a la sesión a que se refiere el Articulo 22 de esta Ley, se comunicará tal circunstancia de inmediato al Ejecutivo del Estado, para que éste, en el lugar, fecha y hora que señale, proceda por sí o por conducto de la persona que designe, a tomar la protesta a los nuevos integrantes del Ayuntamiento y a proveer lo necesario para que el Ayuntamiento se declare legalmente instalado, en cumplimiento de lo dispuesto en los Artículos 79 Fracción I, en relación con la Fracción XV del Artículo 64 de la Constitución Política Local.
+De no presentarse los miembros salientes del Ayuntamiento a la sesión a que se refiere el artículo 22 de esta Ley, se comunicará tal circunstancia de inmediato al Ejecutivo del Estado, para que éste, en el lugar de la persona que designe, a tomar la protesta a los nuevos integrantes del Ayuntamiento y a proveer lo necesario para que el Ayuntamiento se declare legalmente instalado.
 
 ###### ARTICULO 26.
 
 Los Ayuntamientos no podrán considerarse legalmente instalados, cuando no concurran el Presidente Municipal entrante y el número de miembros requeridos para que pueda sesionar válidamente la corporación. Tal situación se comunicará de inmediato al Ejecutivo del Estado, para que proceda conforme lo establece el Articulo 123 de esta Ley.
 
+> <small>(ADICIONADO, B.O. 25 DE NOVIEMBRE DE 1993)</small>
+
+###### ARTICULO 26
+
+BIS.- Cuando se erigiere un nuevo Municipio segregándose de otro u otros a los que hubiere pertenecido, corresponderá al Congreso del Estado designar a propuesta del Gobernador del Estado, un Consejo Municipal que fungirá durante el período constitucional respectivo y tendrá la integración y atribuciones que se les confieren a los Ayuntamientos.
+
 ### CAPITULO III. DEL FUNCIONAMIENTO DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO, B.O. 18 DE JULIO DE 1991)</small>
+> <small>(REFORMADO, B.O. 25 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 27.
 
-Los miembros de los Ayuntamientos durarán en su cargo tres años e iniciarán sus funciones el día 13 de octubre del año que corresponda a su elección.
+Los miembros de los Ayuntamientos durarán en su cargo tres años e iniciarán sus funciones el día dieciséis de septiembre del año que corresponda a su elección.
 
 ###### ARTICULO 28.
 
@@ -1570,3 +1580,13 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 ###### ARTICULO SEGUNDO.
 
 En tanto se establecen la Contralorías Municipales que tengan a su cargo las funciones a que se refiere el artículo 87 de esta ley, éstas serán ejercidas directamente por el Presidente Municipal.
+
+B.O. 25 DE NOVIEMBRE DE 1993.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las fechas señaladas en los artículos 22 y 27, entrarán en vigor en 1997.
