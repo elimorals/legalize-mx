@@ -4,7 +4,7 @@ identifier: "COL-ley-de-aguas-para-el-estado-de-colima-antes-ley-para-18298"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-22"
-last_updated: "1997-09-20"
+last_updated: "2000-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE AGUAS PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2000.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Colima", el sábado 22 de julio de 1995.
 
@@ -417,7 +417,9 @@ II.- Proporcionar los servicios públicos de agua potable y saneamiento a los ce
 
 III.- Formular y mantener actualizado el padrón de usuarios de los servicios a su cargo;
 
-IV.- Aprobar las tarifas o cuotas por los servicios de agua potable y alcantarillado, tratamiento, saneamiento y manejo de lodos, de conformidad con el artículo 72 de la presente Ley; así como requerir, cobrar o gestionar su cobro en los términos de ley;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2000)</small>
+
+IV.- Aprobar las tarifas o cuotas por los servicios de agua potable y alcantarillado, infraestructura, tratamiento, saneamiento y manejo de lodos, de conformidad con el artículo 70 de la presente Ley; así como requerir, cobrar o gestionar sus cobros en los términos de ley;
 
 V.- Ordenar y ejecutar la reducción y suspensión del servicio en los términos y condiciones señalados por el artículo 77 de este ordenamiento;
 
@@ -1227,9 +1229,15 @@ g).- Por servicios de drenaje o alcantarillado y tratamiento de aguas residuales
 
 h).- Por servicio de drenaje o alcantarillado y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga se realice por abajo de las concentraciones permisibles conforme a las normas técnicas ecológicas y condiciones particulares de descarga vigentes, en los términos de la legislación de equilibrio ecológico y protección del ambiente;
 
-i).- Por servicios de drenaje o alcantarillado y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga se efectúe por arriba de las concentraciones permisibles conforme a las normas técnicas ecológicas y las condiciones particulares de descarga vigentes, en los términos de la legislación de equilibrio ecológico y protección del ambiente; y
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2000)</small>
 
-j).- Por otros servicios.
+i).- Por servicios;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ENERO DE 2000)</small>
+
+j).- Por mantenimiento de redes; y
+
+k).- Por otros servicios.
 
 Además de las clasificaciones anteriores, las tarifas serán aplicadas por rango de consumo y de acuerdo con lo que señale el reglamento respectivo.
 
@@ -1568,3 +1576,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 20 DE SEPTIEMBRE DE 1997.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE ENERO DE 2000.
+
+UNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
