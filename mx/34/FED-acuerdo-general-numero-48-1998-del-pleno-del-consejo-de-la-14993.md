@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-48-1998-del-pleno-del-consejo-de-la-1499
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-03-23"
-last_updated: "1999-03-23"
+last_updated: "1999-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14993&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-09"
 
 ACUERDO GENERAL NUMERO 48/1998, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE SEPTIEMBRE DE 1999.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 23 de marzo de 1999.
 
@@ -2367,9 +2367,11 @@ La Comisión de Carrera Judicial presentará hasta tres candidatos que reúnan l
 
 El Consejo publicará una semblanza de los funcionarios a quienes se haya otorgado la distinción.
 
+> <small>(REFORMADO POR ACUERDO GENERAL NUMERO 23/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE SEPTIEMBRE DE 1999)</small>
+
 ###### Artículo 151.
 
-El Consejo podrá abstenerse de otorgar la distinción en una o varias categorías cuando el Pleno así lo estime conveniente.
+El Consejo podrá abstenerse de otorgar la distinción en una o varias categorías cuando el Pleno así lo estime conveniente, en cuyo caso podrá conferir, si así lo considera, más de un reconocimiento en una sola categoría de las señaladas en el artículo 147.
 
 Sección 2a.
 
@@ -3094,3 +3096,11 @@ TERCERO.- La Secretaría Ejecutiva de Administración presentará a consideraci�
 CUARTO.- Se abrogan los Acuerdos y Circulares emitidos por el Consejo que se opongan a las disposiciones contenidas en este Acuerdo.
 
 EL LICENCIADO ADOLFO O. ARAGON MENDIA, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General número 48/1998, que regula la Organización y Funcionamiento del Consejo de la Judicatura Federal, fue aprobado por el Pleno del mismo, en sesión de nueve de diciembre de mil novecientos noventa y ocho, por unanimidad de votos de los señores Consejeros: Presidente ministro José Vicente Aguinaco Alemán, Alonso Galván Villagómez, Rodolfo Héctor Lara Ponte, María Concepción Elisa Martín de Zúñiga, Mario Melgar Adalid, Alfonso Oñate Laborde y Luis Gilberto Vargas Chávez.- México, Distrito Federal, a diez de marzo de mil novecientos noventa y nueve.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 15 DE SEPTIEMBRE DE 1999.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
