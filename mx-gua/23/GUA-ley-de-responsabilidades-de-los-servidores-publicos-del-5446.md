@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-responsabilidades-de-los-servidores-publicos-del-5446"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1987-11-20"
+last_updated: "1993-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 3 de abril de 1984.
 
@@ -327,11 +327,17 @@ El Titular de la Dependencia o entidad que aplicó la sanción, resolverá dentr
 
 ### CAPITULO UNICO. INFORMACION PATRIMONIAL DE LOS SERVIDORES PUBLICOS
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1993)</small>
 
 ###### ARTICULO 34.
 
-La Secretaría de la Contraloría del Estado llevará un registro de la situación patrimonial de los servidores públicos, según lo preceptuado en el artículo siguiente.
+La Secretaría de la Contraloría del Estado, llevará un registro de la situación patrimonial de los servidores públicos mencionados en las fracciones I, II, V, VI y VII del artículo siguiente.
+
+Lo propio hará el Congreso del Estado de Guanajuato, mediante la Contraloría del Congreso y del sistema que al efecto se establezca, respecto de los diputados y sus servidores referidos por la fracción IV del artículo 35 de esta Ley.
+
+Asimismo, y por lo que hace a su competencia, el Supremo Tribunal de Justicia del Estado, mediante la Contraloría del Poder Judicial que al efecto se establezca bajo su dependencia, y conforme al sistema que determine, controlará la situación y evolución patrimonial de los servidores mencionados en la fracción III, del artículo siguiente.
+
+Para los efectos de esta Ley, se entenderá por Secretaría a la Secretaría de la Contraloría del Estado; y por Contralorías, a la Contraloría del Congreso y Contraloría del Poder Judicial.
 
 ###### ARTICULO 35.
 
@@ -349,17 +355,23 @@ V.- Los Presidentes, Secretarios, Tesoreros y Jefes o Directores de Departamento
 
 VI.- Los Directores, Subdirectores, Gerentes, Jefes de Departamento de Organismos Descentralizados de los Ayuntamientos, así como las personas que ocupen cargos análogos a los anteriores; y,
 
-VII.- Los demás funcionarios y empleados que determine el Gobernador del Estado, cuando la naturaleza del cargo así lo amerite.
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1993)</small>
+
+VII.- Los demás servidores de los poderes Ejecutivo, Legislativo y Judicial, que respectivamente determinen el Gobernador del Estado, el Pleno del Supremo Tribunal de Justicia del Estado; y el Congreso, o la Diputación Permanente, en su caso.
 
 ###### ARTICULO 36.
 
 La información se presentará dentro de los sesenta días siguientes a la fecha en que se haya tomado posesión del cargo y treinta días después de haberlo dejado por cualquier motivo. Tal información se actualizará durante el mes de mayo de cada año.
 
-> <small>(ADICIONADO, P.O. 27 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1993)</small>
 
-La Secretaría de la Contraloría del Estado, requerirá a los servidores omisos para que cumplan con la obligación de declarar su situación patrimonial, concediéndoles un plazo máximo de 10 días y comunicar al Superior Jerárquico del servidor público, el incumplimiento; en caso de persistir dicho incumplimiento se aplicará lo establecido en el Artículo 33 de esta Ley. Tratándose de declaraciones finales, la Secretaría de la Contraloría requerirá por escrito directamente a los omisos y transcurrido el plazo del requerimiento, hará uso de los siguientes medios de apremio:
+La Secretaría requerirá, a los servidores del Poder Ejecutivo que incurran en omisión, para que cumplan con la obligación de declarar su situación patrimonial, concediéndoles un plazo máximo de 10 días y comunicará, al Superior Jerárquico del omiso, el incumplimiento; en caso de persistir dicho incumplimiento, se aplicará lo establecido en el Artículo 33 de esta Ley. Lo mismo harán, respecto de los servidores de los poderes Legislativo y Judicial, las contralorías de los mismos. Tratándose de declaraciones finales, se requerirá por escrito directamente a los omisos y transcurrido el plazo de requerimiento, se hará uso de los siguientes medios de apremio:
+
+> <small>(ADICIONADA, P.O. 27 DE ENERO DE 1987)</small>
 
 I.- Requerimiento;
+
+> <small>(ADICIONADA, P.O. 27 DE ENERO DE 1987)</small>
 
 II.- Sanción económica de hasta veinte días del salario mínimo más alto vigente en el Estado.
 
@@ -367,11 +379,11 @@ II.- Sanción económica de hasta veinte días del salario mínimo más alto vig
 
 Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la Legislación Penal del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1993)</small>
 
 ###### ARTICULO 37.
 
-La Secretaría de la Contraloría del estado fijará las normas, criterios y requisitos para el rendimiento de la información, en forma clara y sencilla, teniendo facultades para solicitar en cualquier momento informaciones complementarias y la exhibición de los documentos conducentes, a fin de aclarar cualquier duda. Las informaciones no podrán usarse nunca en beneficio de terceros ni para fines ajenos a los de esta Ley.
+La Secretaría y las contralorías, en el ámbito de sus respectivas competencias, fijarán las normas, criterios y requisitos para el rendimiento de la información, en forma clara y sencilla, teniendo facultades para solicitar en cualquier momento informaciones complementarias y la exhibición de los documentos conducentes, a fin de aclarar cualquier duda. Las informaciones no podrán usarse en beneficio de terceros ni para fines ajenos a los de esta Ley.
 
 ###### ARTICULO 38.
 
@@ -381,23 +393,23 @@ Los Bienes Inmuebles o Muebles cuyo acervo y características influyan significa
 
 Para los efectos de esta Ley y del Código Penal, la información deberá referirse también a bienes que por cualquier concepto tenga o adquiera la esposa o esposo del Servidor Público y de sus dependientes económicos directos.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1993)</small>
 
 ###### ARTICULO 40.
 
-Cuado (sic) los signos exteriores de riqueza sean ostensibles y notoriamente desproporcionados a los ingresos lícitos del servidor público la Secretaría de la Contraloría del Estado podrá ordenar, mediante acuerdo fundado y motivado la investigación correspondiente.
+Cuando los signos exteriores de riqueza sean ostensibles y notoriamente desproporcionados a los ingresos lícitos del servidor público, la Secretaría o las contralorías, en su caso, podrán ordenar mediante acuerdo fundado y motivado la investigación correspondiente.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1993)</small>
 
 ###### ARTICULO 41.
 
-La Secretaría de la Contraloría del Estado hará saber al servidor público la iniciación y motivos de la investigación, para ser oído y recibirle la documentación o pruebas que estime pertinentes.
+La Secretaría o las contralorías, en su caso, harán saber al servidor público la iniciación y motivos de la investigación, para ser oído y recibirle la documentación o pruebas que estime pertinentes.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1993)</small>
 
 ###### ARTICULO 42.
 
-Para cualquier investigación, la Secretaría de la Contraloría podrá valerse de peritos. Este derecho corresponde también al servidor investigado.
+Para cualquier investigación, la Secretaría o las contralorías, en su caso, podrán valerse de peritos. Este derecho corresponde también al servidor público investigado.
 
 ###### ARTICULO 43.
 
@@ -440,3 +452,23 @@ P.O. 20 DE NOVIEMBRE DE 1987.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE FEBRERO DE 1993.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Congreso del Estado y el Supremo Tribunal de Justicia del Estado, establecerán los órganos y sistemas previstos en el artículo 34 que se reforma, en un plazo que no excederá de sesenta días naturales, contados a partir de la entrada en vigor de este decreto, realizando las adecuaciones que al efecto procedan en sus reglamentos interiores.
+
+###### ARTICULO TERCERO.
+
+La Secretaría entregará los expedientes que se hayan formado por motivo de las declaraciones de situación y modificación patrimonial que en su oportunidad haya recibido, a la autoridad que resulte competente en los términos de este decreto.
+
+###### ARTICULO CUARTO.
+
+El Congreso del Estado y el Supremo Tribunal de Justicia del Estado, determinarán los órganos que de manera provisional habrán de recibir los expedientes mencionados en el artículo anterior, respecto de los servidores públicos que les están adscritos, así como custodiarlos, en tanto se establecen los órganos señalados en el artículo 34.
+
+Para la presentación de las declaraciones de los servidores de los poderes Legislativo y Judicial, se podrán utilizar los formatos expedidos por la Secretaría, en tanto las contralorías elaboran su propia documentación.
