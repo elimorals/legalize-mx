@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1999-02-27"
+last_updated: "1999-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1999.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -299,7 +299,7 @@ d).- Declarará Gobernador electo al ciudadano que hubiese obtenido el mayor nú
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE FEBRERO DE 1997)</small>
 
-III.- La Ley establecerá un sistema de medios de impugnación para garantizar la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, y que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad; y fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, incluyendo la establecida en lafracción IV del Artículo 99 de la Constitución Política de los Estados Unidos Mexicanos, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales. Del sistema de medios de impugnación conocerán, según la competencia, el Organismo Público Autónomo a que se refiere este Artículo y el Tribunal Estatal Electoral.
+III.- La Ley establecerá un sistema de medios de impugnación para garantizar la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, y que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad; y fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, incluyendo la establecida en la fracción IV del Artículo 99 de la Constitución Política de los Estados Unidos Mexicanos, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales. Del sistema de medios de impugnación conocerán, según la competencia, el Organismo Público Autónomo a que se refiere este Artículo y el Tribunal Estatal Electoral.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 1997)</small>
 
@@ -735,7 +735,7 @@ XXXII. Determinar lo que crea conveniente sobre la renuncia que sobre su cargo h
 
 XXXIII. Computar los votos y declarar electos Senadores al Congreso de la Unión, conforme a lo dispuesto en el artículo 56 de la Constitución General, a los ciudadanos que hayan obtenido mayoría absoluta de votos, erigiéndose para el efecto en Colegio Electoral;
 
-XXXIV.- Solicitar del ciudadano Presidente de la República, conforme a lo dispuesto por el artículo 29 de la Constitución Federal, la suspención de las garantías que ella otorga a los habitantes del Estado, con excepción de las que aseguran la vida del hombre; pero deberá hacerlo a petición del Ejecutivo del Estado y solamente en los casos de invasión, pertubación grave de la paz pública y cualesquiera otro que pongan al Estado en grave peligro o conflicto. En los recesos del Congreso, si el caso fuere declarado urgentísimo por unanimidad de la Diputación Permanente, esta, llamando a los Diputados existentes en el lugar donde celebre sus sesiones, que tendrán voz y voto en las deliberaciones, podrá hacer la petición antes dicha, sin perjuicio de convocarlo inmediatamente para darle cuenta y para que resuelva lo conveniente;
+XXXIV. Solicitar del ciudadano Presidente de la República, conforme a lo dispuesto por el artículo 29 de la Constitución Federal, la suspención de las garantías que ella otorga a los habitantes del Estado, con excepción de las que aseguran la vida del hombre; pero deberá hacerlo a petición del Ejecutivo del Estado y solamente en los casos de invasión, pertubación grave de la paz pública y cualesquiera otro que pongan al Estado en grave peligro o conflicto. En los recesos del Congreso, si el caso fuere declarado urgentísimo por unanimidad de la Diputación Permanente, esta, llamando a los Diputados existentes en el lugar donde celebre sus sesiones, que tendrán voz y voto en las deliberaciones, podrá hacer la petición antes dicha, sin perjuicio de convocarlo inmediatamente para darle cuenta y para que resuelva lo conveniente;
 
 XXXV. Decretar, en su caso, el modo de cubrir el contingente de hombres que corresponda al Estado para el Ejército de la Nación;
 
@@ -827,13 +827,13 @@ VII. Hacer lo demás que prohibe esta Constitución.
 
 ### CAPITULO IV. De la Diputación Permanente
 
-(REFORMADO, P.O. 23 DE JUNIO DE 1928) (REUBICADO, P.O. 5 DE JULIO DE 1986)
+(REUBICADO, P.O. 5 DE JULIO DE 1986)
 
 ###### Art. 60.
 
 El día anterior al de la clausura de cada período de sesiones ordinarias el Congreso nombrará una Comisión que se denominará Diputación Permanente compuesta de tres Diputados, un Presidente y dos Secretarios, nombrará igualmente un suplente.
 
-(REUBICADO, P.O. 5 DE JULIO DE 1986)
+(REFORMADO, P.O. 23 DE JUNIO DE 1928) (REUBICADO, P.O. 5 DE JULIO DE 1986)
 
 ###### Art. 61.
 
@@ -1153,9 +1153,13 @@ XII. Iniciar ante el Congreso las leyes y decretos que estime convenientes para 
 
 XIII. Proponer a la Diputación Permanente la convocación del Congreso a sesiones extraordinarias.
 
-XIV. (DEROGADA, P.O. 29 DE MARZO DE 1986)
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 1999)</small>
 
-XV. Cuidar de que la justicia se administre pronta y cumplidamente por los Tribunales y Jueces del Estado y de que se ejecuten sus sentencias.
+XIV.- Enviar al Congreso del Estado, para su aprobación, las propuestas para designar a los Magistrados de número del Supremo Tribunal de Justicia, de acuerdo con lo dispuesto por los artículos 58 fracción XXI; 106, 108 y 111, de esta Constitución;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
+
+XV.- Auxiliar a los Tribunales y Juzgados del Estado para que la justicia se administre pronta y cumplidamente, y que se ejecuten las sentencias, prestando a aquéllos el apoyo que requieran para el mejor ejercicio de sus funciones. Esta atribución no lo autoriza para intervenir directa o indirectamente en el examen y decisión de los juicios en trámite, ni para disponer en forma alguna de los procesados;
 
 > <small>(ADICIONADA, P.O. 22 DE ABRIL DE 1989)</small>
 
@@ -1331,81 +1335,97 @@ La ausencia temporal del Secretario General de Gobierno será cubierta por uno d
 
 ### CAPITULO I. De la Administración de Justicia
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Art. 100.
 
-El Poder Judicial del Estado se deposita para su ejercicio en el Supremo Tribunal de Justicia, en los Juzgados de Primera Instancia, en los Juzgados Menores y en los Tribunales y Jurados que en lo sucesivo establezca la Ley, salvo excepciones determinadas por esta Constitución.
+El Poder Judicial se deposita para su ejercicio en el Supremo Tribunal de Justicia, en los Juzgados de Primera Instancia, en los Juzgados Menores y en el Jurado Popular.
 
-El sexenio judicial se inicia el 16 de enero del año siguiente a la elección de Gobernador y Diputados.
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Art. 101.
 
-La justicia se imparte por el Estado a través de la función jurisdiccional y ésta se ejerce por Magistrados y Jueces integrantes del Poder Judicial, independientes, imparciales, responsables y sometidos únicamente al imperio de la Ley.
+La potestad de impartir justicia mediante la aplicación de las leyes en lo familiar, civil y penal, así como de aquellas otras que pudieran corresponderle, pertenece al Poder Judicial, el cual actuará de manera independiente, imparcial, responsable y sometida únicamente al imperio de la ley. Ningún otro poder, salvo cuando el Congreso actúe como Jurado, podrá ejercer funciones judiciales.
 
-Ningún otro Poder, salvo cuando el Congreso actúe como Jurado, podrá ejercer funciones judiciales.
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Art. 102.
 
-. Los Servidores Públicos del Poder Judicial del Estado, en ningún caso podrán suspender el cumplimiento de las leyes, ni reglamentar la administración de justicia. El Supremo Tribunal de Justicia aplicará los fondos y recursos económicos de que disponga para el mejoramiento de las condiciones de trabajo de los Servidores Públicos del Poder Judicial, como lo disponga la Ley.
+Los Jueces y Magistrados no pueden ejercer otras funciones que las expresamente consignadas en la ley, salvo en los casos previstos por el artículo 112 segundo párrafo de esta Constitución. Los servidores públicos del Poder Judicial del Estado en ningún caso podrán suspender el cumplimiento de las leyes ni emitir reglamento o acuerdo alguno que entorpezca la impartición de justicia.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+La justicia se administrará en nombre de la ley, la que determinará las formalidades para los procedimientos judiciales. Las ejecutorias y provisiones de los Tribunales, se ejecutarán por ellos mismos, en nombre del Estado, en la forma que las leyes prescriban. El juzgador que conozca de un asunto en una instancia, no podrá hacerlo en la otra.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Art. 103.
 
-Las Leyes determinarán las formalidades de los procedimientos judiciales.
+En los términos que disponen las leyes, es obligatorio para los servidores públicos y para los gobernados, cumplir las sentencias y demás resoluciones firmes del Supremo Tribunal de Justicia, de los Magistrados y de los Jueces; así como prestar la colaboración solicitada por éstos en el curso del proceso y en la ejecución de lo resuelto. La autoridad requerida en forma para el cumplimiento de una orden judicial, deberá proporcionar de inmediato los elementos necesarios para ello, bajo pena de hacerse acreedora a las sanciones que la ley determine para tal efecto.
 
-Es obligatorio cumplir las sentencias y demás resoluciones firmes del Supremo Tribunal de Justicia, de los Magistrados y de los Jueces, así como prestar la colaboración solicitada por éstos en el curso del proceso y en la ejecución de lo resuelto.
-
-La autoridad requerida en forma para el cumplimiento de una orden judicial, sin cuestionarla, deberá proporcionar los elementos necesarios para ello, y si no lo hace, se le impondrán las sanciones que la Ley determina.
-
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1966)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Art. 104.
 
-En ningún juicio podrá haber más de dos instancias.
+Los servidores públicos del Poder Judicial del Estado, al entrar a ejercer su encargo, deberán rendir la protesta de ley. Los Magistrados lo harán ante el Congreso del Estado y los Jueces ante el Pleno del Supremo Tribunal de Justicia. El resto de los servidores públicos del Poder Judicial lo harán ante su superior jerárquico inmediato.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1966)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Art. 105.
 
-El Magistrado o Juez que haya conocido de un juicio en una instancia, no podrá hacerlo en la otra.
+Los delitos imputables a los servidores públicos de la administración de justicia producen acción popular contra los mismos y contra sus cómplices, de acuerdo con lo dispuesto por el Título XI de esta Constitución.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Art. 106.
 
-Los delitos imputables a Servidores Públicos de la administración de justicia, producen acción popular contra los mismos y sus cómplices.
+El Supremo Tribunal de Justicia funcionará en Pleno o por Salas, en la forma que determine la ley, y se integrará por nueve Magistrados, siete que integrarán el Pleno y dos Supernumerarios, quienes serán nombrados por un periodo de cuatro años, pudiendo ser ratificados hasta en dos ocasiones por otro periodo igual, por el voto de por lo menos las dos terceras partes de los miembros presentes del Congreso del Estado, hasta completar un máximo de doce años contados a partir de la fecha de su designación inicial. En el caso de no ratificarse su nombramiento quedarán separados automáticamente de su cargo.
+
+El Congreso del Estado, a solicitud del Pleno del Supremo Tribunal de Justicia, deberá resolver sobre la ratificación, con una anticipación de por lo menos sesenta días a la fecha en que expire el plazo de ejercicio del Magistrado que corresponda.
+
+En caso de que el Pleno del Supremo Tribunal de Justicia considere necesario el nombramiento de uno o varios Magistrados Supernumerarios, enviará al Congreso del Estado la propuesta correspondiente a fin de que, si no hubiere inconveniente legal para ello, sean designados.
+
+El Pleno funcionará con el quórum que establezca la ley, bajo la presidencia de uno de los Magistrados, electo de entre ellos, en la forma que se determine en la ley. El Presidente designado será el órgano de representación del Poder Judicial, durará cuatro años en su encargo y no podrá ser reelecto para el periodo inmediato.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 8 DE ENERO DE 1966)</small>
 
 ###### Art. 107.
 
-El Supremo Tribunal de Justicia se integra con siete Magistrados de Número y dos Supernumerarios y funcionará bajo la presidencia de uno de los Numerarios en Pleno o por Salas, en la forma que determine la Ley. El Presidente designado será el órgano de representación del Poder Judicial. Los Magistrados serán inamovibles. Los Jueces de Primera Instancia durarán en su cargo tres años y serán inamovibles si son ratificados.
+El Poder Judicial del Estado contará con autonomía presupuestal, orgánica y funcional. El presupuesto del Poder Judicial será el suficiente para cubrir las necesidades en el ejercicio de su función. Los Magistrados del Supremo Tribunal de Justicia y los Jueces percibirán una remuneración adecuada e irrenunciable, determinada anualmente, la cual no podrá ser disminuida durante su encargo.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+El Poder Judicial constituirá un Fondo Auxiliar para la Administración de Justicia que se integrará y funcionará en los términos previstos en la ley, del cual y sin perjuicio de las remuneraciones que correspondan de acuerdo al presupuesto, el Supremo Tribunal de Justicia aplicará un porcentaje de los recursos económicos que lo integren para incrementar la capacitación, adquisición de equipo y mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, conforme a lo que al efecto acuerde el Pleno.
+
+El Ejecutivo del Estado cuidará que las cantidades que integren este Fondo se entreguen trimestralmente al Poder Judicial, quien a través de su Presidente tendrá la obligación de dar a conocer lo recaudado en el año anterior, al rendir el informe anual sobre el estado que guarda la administración de justicia.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Art. 108.
 
-Los Magistrados serán electos por el Congreso, erigido en Colegio Electoral, por el voto de las dos terceras partes o más de los Diputados que lo integran.
+Los Magistrados serán designados por el Congreso del Estado, por el voto de por lo menos las dos terceras partes de los Diputados presentes en la sesión.
 
-Los Magistrados y Jueces serán nombrados preferentemente entre aquellas personas que hayan prestado sus servicios con eficacia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes con otras ramas de la profesión jurídica. Son causas de retiro forzoso, de los Magistrados y Jueces, haber cumplido setenta años de edad o padecer incapacidad física incurable o mental, incluso cuando ésta fuere parcial o transitoria, que lo imposibilite para el desempeño de su función.
+En caso de encontrarse en receso el Congreso del Estado, la Diputación Permanente lo convocará de inmediato a periodo extraordinario de sesiones para conocer de dicho asunto.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+Los Magistrados y Jueces serán nombrados preferentemente entre aquellas personas que hayan prestado sus servicios con eficacia y probidad en la administración de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Art. 109.
 
-La Ley Orgánica del Poder Judicial, establecerá lo relativo a la carrera judicial, precisando los sistemas de ascenso, escalafón y provisión de vacantes, así como la necesidad de aprobar examen de oposición o concurso de méritos para el ingreso a los Juzgados de Primera Instancia. Así mismo, deberá preverse la creación de un Centro de Actualización Judicial.
+La ley establecerá las bases para la formación y actualización de los servidores públicos del Poder Judicial. Deberá prever la creación de un Centro de Actualización Jurídica para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia. También regulará los sistemas de ascenso, escalafón y provisión de vacantes, además de reglamentar lo relativo al examen de oposición o concurso de méritos, como requisito de ingreso al Poder Judicial.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Art. 110.
 
-Durante su encargo los Magistrados y Jueces podrán ser separados en los términos del Título XI de esta Constitución. Cuando dichos funcionarios no cumplan debidamente sus funciones, el Congreso, si se trata de un Magistrado y el Supremo Tribunal si se trata de un Juez, podrán separarlos de plano de su encargo si a su juicio consideran fundada la separación.
+Los Magistrados serán inamovibles durante el período de su encargo, el cual cesará únicamente en los términos del Título XI de esta Constitución. Son causas de retiro forzoso:
+
+I.- Haber cumplido 70 años de edad;
+
+II.- Jubilarse en los términos legales;
+
+III.- Padecer incapacidad física o mental que los imposibilite para el desempeño de su función; y,
+
+IV.- Renunciar a su cargo o situarse en el supuesto que prevé el segundo párrafo del artículo 112 de esta Constitución.
+
+Los Magistrados solo podrán ser removidos de su encargo por el Congreso del Estado, en los términos dispuestos por el párrafo anterior. El Pleno del Supremo Tribunal de Justicia podrá, previa audiencia, separar de plano de su encargo a los Jueces, cuando a su juicio considere que existe incumplimiento de sus funciones.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -1413,117 +1433,125 @@ Durante su encargo los Magistrados y Jueces podrán ser separados en los términ
 
 Para ser Magistrado del Supremo Tribunal de Justicia se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
 
-II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco el día de la elección;
+I.- Ser ciudadano en pleno ejercicio de sus derechos políticos y civiles; mexicano por nacimiento; nativo del Estado o con residencia en el mismo por más de cinco años ininterrumpidos e inmediatamente anteriores a la fecha de la designación, salvo el caso de ausencia en cumplimiento de un servicio público;
 
-III.- Poseer el día de la elección, con antigüedad mínima de cinco años, título profesional de abogado expedido por autoridad o institución legalmente facultada para ello;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
 
-IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y,
+II.- Ser mayor de 35 y menor de 65 años el día de la designación;
 
-V.- Haber residido en el País durante los últimos cinco años, salvo el caso de ausencia en el servicio de la República por un tiempo menor de seis meses.
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1953)</small>
+III.- Poseer título profesional de Licenciado en Derecho o su equivalente, expedido por lo menos con diez años de anterioridad al día de la designación, por autoridad o institución legalmente facultada para ello;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
+
+IV.- No haber ocupado, por lo menos un año antes de la fecha de la designación, los cargos de Gobernador, Secretario de Despacho del Ejecutivo, Procurador General de Justicia, Senador, Diputado Federal o Diputado Local; y
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
+
+V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Art. 112.
 
-No podrán formar parte del Tribunal tres o más Magistrados que sean parientes entre sí, por consanguinidad hasta el cuarto grado inclusive, y por afinidad hasta el segundo.
+No podrán formar parte del Supremo Tribunal de Justicia dos o más Magistrados que tengan entre sí parentesco por consanguinidad hasta el cuarto grado, o por afinidad hasta el segundo.
+
+Ningún servidor público del Poder Judicial, aun con licencia, podrá ser abogado de terceros, apoderado en negocios ajenos, asesor, árbitro de derecho o arbitrador, ni desempeñar ningún otro empleo, cargo o comisión, ya sea público o privado, por el que reciba remuneración alguna; salvo los casos de docencia, investigación, literatura o beneficencia. Quien contravenga esta disposición será separado de su encargo, de acuerdo al trámite que disponga la ley.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Art. 113.
 
-Los Magistrados al entrar a desempeñar su cargo, rendirán ante el Congreso, o en sus recesos ante la Diputación Permanente, la siguiente protesta: Presidente.- "¿Protéstais guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, así como también las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Unión y del Estado?." – Magistrado. "Si protesto." – Presidente. "Si no lo hiciéreis así, la Nación y el Estado os lo demandarán".
+Las faltas temporales y definitivas de los Magistrados serán cubiertas en los términos que establezca la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Art. 114.
 
-Son atribuciones del Pleno del Supremo Tribunal de Justicia:
+Son atribuciones del Supremo Tribunal de Justicia:
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
+I.- Conocer en segunda instancia de los asuntos familiares, civiles o penales, y de aquellos que establezcan otras leyes, que al efecto remitan los Jueces de Primera Instancia y Menores;
 
-I.- Conocer, a través de la Presidencia, de las controversias que se susciten entre los particulares y el Estado o los Ayuntamientos, así como de las que surjan entre Ayuntamientos, o entre estos y el Estado, conforme a las normas del juicio ordinario civil.
+II.- Conocer en Pleno de las controversias del orden civil o mercantil que se susciten entre particulares y el Estado o los Ayuntamientos;
 
-II.- Dirimir las competencias que surjan entre las Autoridades Judiciales del Estado, en los términos de las Leyes respectivas.
+III.- Erigirse en Jurado de Sentencia para conocer y resolver, sin recurso ulterior, las causas que se instruyan contra servidores públicos, conforme a lo dispuesto por el Título XI de esta Constitución;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+IV.- Ordenar las visitas carcelarias de acuerdo a las disposiciones de la ley;
 
-III.- Erigirse en Jurado de sentencia para conocer las causas que se instruyan contra servidores públicos conforme a lo dispuesto en el Título XI de esta Constitución.
+V.- Atender las dudas sobre la interpretación de la ley que sean planteadas por los Jueces o surjan del seno del propio Tribunal;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+VI.- Dirimir las cuestiones de competencia que surjan entre las autoridades judiciales del Estado, en los términos que fije la ley;
 
-IV.- Conocer y fallar en única instancia las causas que se instruyan contra alguno de sus miembros, contra los Jueces de Primera Instancia y Jueces Menores por delitos cometidos en el ejercicio de sus funciones y de las que deban substanciarse contra los Secretarios del mismo Tribunal, por faltas y abusos cometidos en el desempeño de sus empleos.
+VII.- Formular, ante el Congreso del Estado, iniciativas de ley tendientes a mejorar la administración de Justicia, así como expedir y modificar, en su caso, los reglamentos que se requieran para este fin;
 
-V.- Conocer en segunda instancia de los asuntos civiles o penales que al efecto remitan los jueces de primera instancia.
+VIII.- Dictar medidas que se estimen pertinentes para que la administración de justicia que impartan los Tribunales del Estado, sea pronta, completa e imparcial;
 
-VI.- Iniciar ante el Congreso, Leyes tendientes a mejorar la Administración de Justicia.
+IX.- Formular, expedir y modificar, en su caso, el Reglamento Interior del Supremo Tribunal de Justicia;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+X.- Determinar a propuesta del Presidente la competencia de las Salas, las adscripciones de los Magistrados a las mismas; y adscribir, en su caso, a los Magistrados Supernumerarios a las Salas en los supuestos que determine la ley;
 
-VII.- Elegir Presidente por mayoría de votos de los Magistrados de Número, en la sesión plenaria ordinaria inmediata posterior al día 15 de enero del año en que se inicie el sexenio judicial, pudiendo ser reelecto.
+XI.- Elegir Presidente del Pleno en los términos que determine la ley;
 
-> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1980)</small>
+XII.- Delegar al Presidente las atribuciones que estime pertinentes;
 
-VIII.- Nombrar a los jueces de Primera Instancia, removerlos y cesarlos en los casos en que la ley lo establezca.
+XIII.- Rendir, por conducto de su Presidente, un informe anual del estado que guarda la Administración de Justicia, en Sesión Pública y Solemne del Congreso, que se verificará durante la primera quincena del mes de marzo de cada año;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+XIV.- Enviar al Congreso del Estado, por lo menos noventa días antes de que concluya el plazo de ejercicio de cada Magistrado, la solicitud de ratificación que corresponda;
 
-IX.- Nombrar a los Jueces Menores, removerlos y cesarlos, en los casos que la ley lo establezca.
+XV.- Acordar, en los casos que considere necesario, remitir solicitud por escrito al Congreso del Estado con la propuesta para designar a los Magistrados Supernumerarios;
 
-> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1980)</small>
+XVI.- Nombrar, cesar o suspender a los Jueces de Primera Instancia; Jueces Menores; Secretarios de Acuerdos; Relatores y Actuarios del Pleno, de las Salas y de los Juzgados; y al personal subalterno, en los casos y con las condiciones que establezca la ley; así como, en su caso, confirmar a los Jueces de Primera Instancia y Menores;
 
-X.- Nombrar, remover y cesar por causa justificada al Secretario de Acuerdos, a los secretarios de las salas y de los juzgados y demás personal subalterno, cuando así convenga a la mejor administración de la justicia.
+XVII.- Tomar la protesta de ley, por conducto del Presidente, a los Jueces de Primera Instancia y Menores; así como designar a quien deba suplirlos, en los casos de ausencias temporales, de acuerdo con lo dispuesto en la ley;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+XVIII.- Señalar a cada Juez su distrito judicial, su número y la materia en que debe ejercer sus funciones; así como designar a cada Juzgado su domicilio, según lo estime conveniente para mejorar el servicio público;
 
-XI.- Conceder licencias hasta por un mes a los Servidores Públicos del Poder Judicial.
+XIX.- Establecer remuneración adecuada e irrenunciable para Magistrados y Jueces, la cual no podrá ser disminuida durante su encargo;
 
-XII.- Formular su Reglamento Interior.
+XX.- Calificar los impedimentos de los Magistrados y Jueces de Primera Instancia para conocer de los asuntos sometidos a su jurisdicción, en caso de excusa o recusación, en los términos previstos por la ley;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+XXI.- Conceder licencias hasta por un mes a los servidores públicos del Poder Judicial, así como admitir sus renuncias, sancionar sus faltas y fijar los períodos de vacaciones del propio Poder Judicial, en los términos que determine la ley;
 
-XIII.- Conocer de las quejas formuladas contra los Servidores Públicos del Poder Judicial.
+XXII.- Conocer de las quejas que se formulen contra los servidores públicos del Poder Judicial, con motivo del ejercicio de sus funciones, las que se sustanciarán de acuerdo al procedimiento establecido en la ley;
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 1994)</small>
+XXIII.- Resolver, en única instancia, los juicios de responsabilidad civil que se promuevan en contra de los mismos;
 
-XIV.- Rendir, por conducto de su Presidente, un informe anual del estado que guarda la Administración de Justicia, en Sesión Pública y Solemne del Congreso, que se verificará durante la primera quincena del mes de marzo en los primeros cinco años del sexenio judicial. En el sexto año se realizará en los primeros quince días del mes de enero;
+XXIV.- Conocer y resolver, en única instancia, las causas que se instruyan en contra de alguno de sus miembros, contra los Jueces de Primera Instancia y Jueces Menores por delitos cometidos en el ejercicio de sus funciones, y de las que deban sustanciarse contra los Secretarios del mismo Tribunal, por faltas y abusos cometidos en el desempeño de sus empleos;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+XXV.- Imponer correcciones disciplinarias a los servidores públicos del Poder Judicial, en los términos que determine la ley;
 
-XV.- Delegar en el Presidente las atribuciones que considere procedentes.
+XXVI.- Denunciar ante el Ministerio Público los hechos de que tenga conocimiento y que impliquen la probable responsabilidad de un servidor público del Poder Judicial;
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+XXVII.- Conocer y tramitar la ejecución de sentencias ejecutoriadas contra el Estado, los Municipios y las entidades autónomas, en los términos del Código de Procedimientos Civiles;
 
-XVI.- Proponer el presupuestos anual de egresos al Poder Legislativo, para su aprobación.
+XXVIII.- Corregir los abusos que se adviertan en la administración de justicia, por medio de disposiciones de carácter general que no impliquen intromisión en los asuntos que se tramiten en los juzgados, no restrinjan la independencia de criterio de los juzgadores, ni entorpezcan sus funciones;
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+XXIX.- Constituir, modificar, suprimir o aumentar los órganos administrativos que sean necesarios para la buena marcha de la administración de justicia; así como el número de servidores públicos del Supremo Tribunal de Justicia;
 
-XVII.- Ejercer el presupuesto que le sea aprobado.
+XXX.- Discutir y aprobar el proyecto de presupuesto anual de egresos del Poder Judicial que deberá formular y proponer el Presidente, el que deberá ser remitido al Congreso del Estado, para su aprobación, así como ejercer y administrar en forma autónoma el presupuesto que le sea aprobado;
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+XXXI.- Imponer correcciones disciplinarias a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones, actuaciones o diligencias en que intervengan ofendan o falten al respeto al Supremo Tribunal de Justicia, a alguno de sus miembros o a cualquier servidor público del Poder Judicial; y,
 
-XVIII.- Establecer remuneración adecuada e irrenunciable para Magistrados y Jueces, la cual no podrá ser disminuída durante su encargo. En los casos de retiro forzoso, jubilación, incapacidad o defunción, las prestaciones se cubrirán en los términos que establezcan las leyes.
+XXXII.- Las demás facultades y obligaciones que las leyes le otorguen.
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
-
-XIX.- Constituir, modificar, suprimir o aumentar las dependencias administrativas que sean necesarias para la buena marcha de la administración de justicia; y,
-
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
-
-XX.- Las demás facultades y obligaciones que señalen las leyes.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Art. 115.
 
-Los Magistrados y Jueces no podrán desempeñar ningún otro cargo del Estado, de la Federación de los Ayuntamientos o de particulares, por los que se reciba remuneración. Quedan exceptuados los cargos de la Beneficencia y de la Educación públicas.
+En los casos de retiro forzoso, jubilación, incapacidad o defunción, las prestaciones a los servidores públicos del Poder Judicial se cubrirán en los términos que determinen las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Art. 116.
 
-En las causas que hubiere de formarse a todos los Magistrados en funciones, una vez que el Congreso, actuando como Organo de Acusación declare por afirmativa, se integrará primeramente, por los medios señalados en la presente Constitución, al Supremo Tribunal de Justicia, y esté sentenciará a los encausados, pero separadamente, a cada uno de ellos. El Procurador General de Justicia tendrá en esas causas la intervención que le confiere la ley.
+En las causas que hubieren de formarse a los Magistrados en funciones, una vez que el Congreso del Estado, actuando como órgano de acusación, declare por la afirmativa, se remitirá la causa en los términos previstos por esta Constitución y la ley, al Pleno del Supremo Tribunal de Justicia, el cual emitirá la resolución que corresponda en cada caso. Deberá resolverse cada asunto por separado y el Procurador General de Justicia tendrá en ellas la intervención que le confiere la legislación aplicable.
 
 ### CAPITULO II.. DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Art. 117.
 
@@ -1541,11 +1569,13 @@ Los Jueces de Primera Instancia y los Menores serán nombrados por el Supremo Tr
 
 Los Juzgados Menores funcionarán en aquellos Municipios que el Pleno del Supremo Tribunal de Justicia considere necesario.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Art. 120.
 
-La Ley determinará los distritos judiciales en que se divida el Estado; el número de Jueces de Primera Instancia y de Jueces Menores; sus requisitos, su competencia, jurisdicción, duración de sus funciones, número de empleados y todo lo relativo a su organización; lo cual podrá ser modificado por el Pleno del Supremo Tribunal de Justicia cuando lo estime conveniente, con la sola obligación de publicar esta resolución en el Periódico Oficial del Estado.
+La ley determinará los distritos judiciales en que se dividirá el Estado, el número de Jueces de Primera Instancia y de Jueces Menores, sus requisitos, competencia, jurisdicción, duración en sus funciones, y regulará todo lo relativo a su organización.
+
+Para su modificación el Presidente del Supremo Tribunal de Justicia propondrá un proyecto de iniciativa que, una vez analizado y aceptado por el Pleno, será remitido al Congreso del Estado para su aprobación.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -1553,17 +1583,19 @@ La Ley determinará los distritos judiciales en que se divida el Estado; el núm
 
 Los Juzgados de Primera Instancia y los Menores serán sostenidos por el Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Art. 122.
 
-Los Jueces de Primera Instancia antes de tomar posesión de su empleo, otorgarán la protesta de estilo ante el Supremo Tribunal de Justicia.
+Los Jueces de Primera Instancia y Menores serán los necesarios para el despacho pronto y expedito de los asuntos de su competencia. El Pleno del Supremo Tribunal de Justicia resolverá sobre su designación, adscripción y remoción; además determinará el número, competencia territorial y especialización por materia de los Juzgados de Primera Instancia.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+Los Jueces de Primera Instancia durarán en su encargo tres años. Podrán ser ratificados por períodos iguales por el Pleno del Supremo Tribunal de Justicia.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Art. 123.
 
-Los Jueces Menores otorgarán la protesta de ley ante el Juez de Primera Instancia del respectivo Distrito Judicial, que designe el Pleno del Supremo Tribunal de Justicia del Estado.
+Toda parte interesada puede interponer queja ante el Supremo Tribunal de Justicia, cuando a su juicio, los Magistrados o Jueces o demás servidores del Poder Judicial incurran en faltas administrativas. La ley regulará dicho procedimiento.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
@@ -1921,7 +1953,7 @@ Las leyes determinarán los casos y circunstancias en los que se deba sancionar 
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la autoridad competente respecto de las conductas a que se refiere el presente Artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O.25 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 1997)</small>
 
 ###### Art. 151.
 
@@ -2885,61 +2917,35 @@ P.O. 27 DE FEBRERO DE 1999.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
+P.O. 8 DE JULIO DE 1999.
+
 ###### ARTICULO PRIMERO.
 
-Esta reforma entrará en vigor a los treinta días de su publicación en el "Diario Oficial" de la Federación.
+El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-Las presentes adiciones y reformas entrarán en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 9 DE ENERO DE 1978.
-
-DECRETO QUE ADICIONA LA FRACCIÓN XII Y REFORMA LA FRACCIÓN XIII, AMBAS DEL APARTADO "A" DEL ARTÍCULO 123.
-
-UNICO.- El Presente Decreto entrará en vigor al día siguiente del de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 9 DE ENERO DE 1978.
-
-DECRETO QUE REFORMA LA FRACCIÓN XXXI, DEL APARTADO "A", DEL ARTÍCULO 123.
+Una vez realizado el procedimiento descrito en el artículo 106 de este Decreto, por única ocasión, a propuesta del Presidente del Pleno, uno de los Magistrados designados para integrar el Supremo Tribunal de Justicia concluirá su encargo el quince de enero del año 2003 y será sustituido en los términos previstos por el artículo 108 de la Constitución Política del Estado de Tamaulipas, reformado por medio de este Decreto.
 
 ###### ARTICULO TERCERO.
 
-Se faculta a la Suprema Corte de Justicia de la Nación para dictar las medidas necesarias para la efectividad e inmediato cumplimiento de la presente reforma.
-
-D.O.F. 6 DE FEBRERO DE 1976.
-
-DECRETO QUE ADICIONA DESPUÉS DEL PÁRRAFO SÉPTIMO EL ARTÍCULO 27.
-
-UNICO.- El presente Decreto entrará en vigor ciento veinte días después de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 6 DE FEBRERO DE 1976.
-
-DECRETO QUE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 27, SE ADICIONA LA FRACCIÓN XXIX-C DEL ARTÍCULO 73 Y LAS FRACCIONES IV Y V DEL ARTÍCULO 115.
-
-PRIMERO.- Las presentes reformas y adiciones entrarán en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
-
-SEGUNDO.- El Congreso Federal y las Legislaturas Locales, deberán expedir en el plazo de un año, las leyes reglamentarias previstas en las anteriores reformas y adiciones.
-
-D.O.F. 4 DE FEBRERO DE 1977.
+Los derechos laborales de los Servidores Públicos del Poder Judicial del Estado serán respetados íntegramente.
 
 ###### ARTICULO CUARTO.
 
-Las elecciones de diputados para integrar las legislaturas constituyentes, se celebrarán el 10 de noviembre de 1974.
+La nueva Ley Orgánica del Poder Judicial deberá entrar en vigor en un plazo no mayor de ciento ochenta días posteriores a la fecha de publicación del presente Decreto en el Periódico Oficial del Estado.
 
 ###### ARTICULO QUINTO.
 
-Las Salas correspondientes de la Suprema Corte de Justicia resolverán los amparos directos, penales o del trabajo, por violaciones cometidas durante la secuela del procedimiento, que se hayan promovido con anterioridad a la fecha en que entren en vigor las presentes reformas y que, en lo sucesivo, de acuerdo con la fracción VI del artículo 107, serán de la competencia de los Tribunales Colegiados de Circuito.
+En tanto no sean expedidas las disposiciones legales, reglamentarias y acuerdos generales a que se refieren los preceptos constitucionales que se reforman por el presente Decreto, seguirá aplicándose la normatividad vigente.
 
 ###### ARTICULO SEXTO.
 
-Queda facultada la Suprema Corte de Justicia de la Nación, para dictar todas las otras medidas transitorias que sean necesarias, para la efectividad e inmediato cumplimiento de las presentes reformas.
+Las controversias de particulares con Ayuntamientos o el Estado, o de éstos contra aquéllos, que actualmente estén en trámite, seguirán siendo sustanciadas hasta su conclusión definitiva ante la Presidencia del Supremo Tribunal de Justicia.
 
 ###### ARTICULO SEPTIMO.
 
-La reforma al artículo 73, fracción VI, Base Cuarta, párrafo último, entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
-
-> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+Se deroga toda disposición que se oponga al presente Decreto.
 
 ###### ARTICULO UNICO.
 
