@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1980-01-07"
+last_updated: "1980-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ENERO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1980.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -2396,11 +2396,11 @@ Lo dispuesto en este artículo se aplicará sin perjuicio de las medidas y sanci
 
 ARTICULO 253 bis.- (DEROGADO, D.O.F. 5 DE DICIEMBRE DE 1979)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 ###### ARTICULO 254.
 
-Se aplicarán igualmente las sanciones del artículo 253:
+Se aplicarán igualmente las sanciones del Artículo 253:
 
 I.- Por destrucción indebida de materias primas, árboles, productos agrícolas o industriales o medios de producción, que se haga con perjuicio de la riqueza o del consumo nacionales;
 
@@ -2411,6 +2411,18 @@ III.- Cuando se publiquen noticias falsas, exageradas o tendenciosas o por cualq
 > <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 1955)</small>
 
 IV.- Al que dolosamente, en operaciones mercantiles exporte mercancías nacionales de calidad inferior, o en menor cantidad de lo convenido.
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+V.- Al que dolosamente adquiera, posea o trafique con semillas, fertilizantes, plaguicidas, implementos y otros materiales destinados a la producción agropecuaria que se hayan entregado a los productores por alguna entidad o dependencia pública a precio subsidiado.
+
+En los distritos de riego, el agua de riego será considerada como material a precio subsidiado.
+
+Si el que entregue los insumos referidos, fuere el productor que los recibió de las instituciones oficiales, se le aplicará una pena de 3 días a 3 años de prisión.
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+VI.- A los funcionarios o empleados de cualquiera entidad o dependencia pública que entreguen estos insumos a quienes no tengan derecho a recibirlos; o que indebidamente nieguen o retarden la entrega a quienes tienen derecho a recibirlos, se harán acreedores a las sanciones del artículo 253.
 
 ### CAPITULO VII. Abandono de personas
 
@@ -3871,6 +3883,10 @@ La presente reforma entrará en vigor el día siguiente al de su publicación en
 D.O.F. 7 DE ENERO DE 1980.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1980.
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
 ###### ARTICULO 2o.
 
