@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-contaduria-mayor-de-hacienda-del-estado-1217
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-06-21"
-last_updated: "1998-03-08"
+last_updated: "1998-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 1998.
 
 Ley publicada en el Suplemento 2 al Número 25 del Periódico Oficial del Estado de Aguascalientes, el 21 de junio de 1981.
 
@@ -95,11 +95,11 @@ VI.- Los actos, convenios y contratos celebrados entre las entidades o entre és
 
 También le corresponde elaborar los estudios económicos, administrativos, contables, fiscales y de índole similar que requieran las Comisiones de Dictamen Legislativo del Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 7o.
 
-La Contaduría Mayor de Hacienda tendrá las siguientes atribuciones y obligaciones:
+La Contaduría Mayor de Hacienda, tendrá las siguientes atribuciones y obligaciones:
 
 I.- Verificar si las entidades sujetas a la revisión de la cuenta publica:
 
@@ -111,9 +111,9 @@ b).- Ejercieron correcta y estrictamente sus Presupuestos conforme a sus program
 
 c).- Ejecutaron los programas de inversión de conformidad con las partidas autorizadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1998)</small>
 
-II.- Informar a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda sobre el resultado de la revisión de la cuenta pública de las entidades, dentro del término de cuarenta días a partir de su recepción;
+II.- Informar semestralmente a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda sobre el resultado de la revisión de la cuenta pública de las entidades dentro del término de cuarenta días contados a partir de su recepción;
 
 La rvisión (sic) tomará en consideración:
 
@@ -494,3 +494,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 8 DE MARZO DE 1998.
 
 UNICO.- Las presentes reformas, derogaciones y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE AGOSTO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
