@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1946-06-16"
+last_updated: "1946-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 1946.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -841,9 +841,13 @@ IX. Calificar la elección de los Municipios y del Presidente Municipal.
 
 X. Admitir o desechar la renuncia que hicieren los Munícipes, los Jueces Conciliadores o el Presidente Municipal.
 
-XI. Nombrar y remover a los empleados de su Secretaria y demás del Municipio, con excepción de los de la Presidencia y de los Juzgados Conciliadores.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 1946)</small>
 
-XII. Conceder licencia a los Munícipes, Presidentes Municipales, Jueces Conciliadores, empleados de su Secretaria y Tesorero.
+XI. Nombrar y remover libremente al Oficial Mayor y demás Empleados de la Asamblea.
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 1946)</small>
+
+XII. Conceder licencia a los Munícipes, Presidentes Municipales, Jueces Conciliadores y Auxiliares, así como al Oficial Mayor y demás Empleados de la Asamblea.
 
 XIII. Formar su reglamento interior.
 
@@ -891,7 +895,9 @@ VIII. Celebrar contratos con particulares o corporaciones en los términos presc
 
 IX. Cumplir y hacer cumplir las leyes, decretos, acuerdos, reglamentos y demás disposiciones del Estado.
 
-X. Nombrar, remover y conceder licencia en los términos de la ley, a los empleados de la Presidencia; así como admitir o no la renuncia que de sus empleos hicieren.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 1946)</small>
+
+X.- Nombrar, remover y conceder licencia en los términos de la Ley a los Empleados y funcionarios del Municipio, con excepción de los de la Asamblea, Jueces Conciliadores y Auxiliares.
 
 XI. Ejercer las funciones de Juez del Registro Civil, donde no hubiere empleado especial nombrado por el Ejecutivo del Estado.
 
@@ -1092,6 +1098,10 @@ La reforma al Artículo 74 empezará a surtir sus efectos para la integración d
 P.O. 16 DE JUNIO DE 1946.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 8 DE SEPTIEMBRE DE 1946.
+
+UNICO.- Estas reformas entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO UNICO
 
