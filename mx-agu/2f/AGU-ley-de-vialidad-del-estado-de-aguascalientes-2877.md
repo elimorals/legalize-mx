@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "1994-05-29"
+last_updated: "1995-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 1995.
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -129,11 +129,15 @@ VI.- Mantener actualizado el registro de altas, bajas y traslación de dominio d
 
 VII.- Prestar y solicitar cooperación a las autoridades de tránsito federal y coadyuvar con las autoridades judiciales y administrativas del fuero común y federal.
 
-VIII.- Ser escuchado, en su calidad de Director General de Seguridad Pública y Vialidad en el Estado, para la formulación de los programas que implemente la Academia de Policía.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1995)</small>
+
+VIII.- Ser escuchado, en calidad de Presidente de la Junta de Gobierno de la Academia de Policía, para la formulación de los programas que implemente la Academia de Policía.
 
 IX.- Coordinar y enlazar las actividades de los Directores de Seguridad Pública y Vialidad en los Municipios.
 
-X.- Aplicar las sanciones que establecen las disposiciones legales respectivas para mantener la disciplina y moralidad dentro del personal de esta Dirección.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1995)</small>
+
+X.- Aplicar las sanciones por infracciones a las disposiciones de la presente Ley.
 
 XI.- Resolver los recursos de inconformidad que se hagan valer.
 
@@ -145,9 +149,11 @@ En los casos de perturbación grave del orden público en uno o varios Municipio
 
 Del ejercicio de esta facultad informará al Congreso del Estado o a la Diputación Permanente.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 11.
 
-La Dirección General de Seguridad Pública y Vialidad del Estado de Aguascalientes en el cumplimiento de la política en la materia, delegará funciones a través de los Directores Municipales de Seguridad Pública y Vialidad, que deberán observar lo dispuesto por la presente Ley, así como los Bandos y Reglamentos Municipales que en cada caso se expidan para aplicar en forma práctica la política de seguridad pública y vialidad en el Estado.
+La Dirección General de Seguridad Pública y Vialidad podrá delegar facultades a los Directores Municipales de Seguridad Pública y Vialidad y éstos en sus dependencias, quienes deberán observar lo dispuesto por la presente Ley, así como por los Bandos y Reglamentos Municipales que en cada caso se expidan para aplicar en forma práctica la política de seguridad pública y vialidad en el Estado.
 
 ###### ARTICULO 12.
 
@@ -380,6 +386,10 @@ Para los efectos de esta disposición, la Dirección General de Seguridad Públi
 El conductor de un vehículo deberá llevar siempre consigo la licencia expedida por la autoridad competente, que lo faculte para manejar. Es obligación de los conductores, presentar la licencia al personal de la Dirección General de Seguridad Pública y Vialidad cuando se la soliciten.
 
 En el Estado de Aguascalientes se reconocerán las licencias de conducir vigentes, expedidas por autoridades competentes de otras Entidades Federativas o del extranjero.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 1995)</small>
+
+Los conductores de servicio público local deben portar licencia expedida por la Dirección General de Seguridad Pública y Vialidad del Estado de Aguascalientes.
 
 ###### ARTICULO 33.
 
@@ -725,11 +735,11 @@ Los dispositivos y controles de tránsito no podrán ser construidos con publici
 
 La violación de este precepto que genere algún accidente de tránsito, implicará responsabilidad objetiva para el infractor.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 64.
 
-Para regular el tránsito en la vía pública, la Dirección utilizará rayas, símbolos, letreros de color y pinturas aplicadas sobre el pavimento, o en el límite de la acera inmediata del arroyo. Los conductores y peatones, están obligados a seguir las indicaciones de estas marcas.
-
-Las isletas ubicadas en los cruceros de las vías de circulación o en sus inmediaciones, podrán ser delimitadas por guarniciones, tachuelas, rayas u otros materiales que sirvan para canalizar el tránsito o como zonas exclusivas de peatones; sobre estas isletas, queda prohibida la circulación y el estacionamiento de vehículos.
+Para regular el tránsito en la vía pública, la Dirección utilizará rayas de color rojo o amarillo, símbolos, letreros de color, y pinturas aplicadas sobre el pavimento, o en el límite de la acera inmediata de arroyo. Los conductores y peatones, están obligados a seguir las indicaciones de estas marcas.
 
 ###### ARTICULO 65.
 
@@ -969,19 +979,13 @@ Si existe un obstáculo en la vía pública y su propietario responsable no lo r
 
 Para el tránsito de caravanas de vehículos o peatones, se requiere la autorización oficial solicitada con la debida anticipación, tratándose de manifestaciones de índole político sólo será necesario dar aviso a la autoridad correspondiente y con la suficiente antelación, a efecto de adoptar las medidas tendientes a procurar su protección y evitar congestionamientos viales.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 78.
 
-La velocidad máxima en la ciudad es de 50 kilómetros por hora, excepto en zonas escolares, donde será de 25 kilómetros por hora, 60 minutos antes y después de los horarios de la entrada y salida de los planteles escolares y en donde el señalamiento indique otro límite.
+La velocidad máxima en la ciudad, es de 50 kilómetros por hora, excepto en zonas escolares, donde será de 25 kilómetros por hora, 30 minutos antes y después de los horarios de la entrada y salida de los planteles escolares y en donde el señalamiento indique otro límite.
 
-Para estos objetos, quedan obligados con costo a cada una de las instituciones educativas, poner estos señalamientos por lo menos 30 metros antes de que se inicie la escuela.
-
-También deberán observar el límite antes mencionado ante la presencia de escolares, fuera de los horarios requeridos, en las zonas donde existan semáforos escolares, se respetará dicho límite, cuando funcionen las luces intermitentes.
-
-En los carriles centrales o interiores de las vías de acceso controlado, la velocidad máxima se indicará mediante los señalamientos respectivos.
-
-Los conductores de vehículos, no deberán de exceder los límites de velocidad mencionada, la reincidencia de la infracción de esta disposición, dará causa de suspensión de la licencia.
-
-Queda prohibido, asimismo, transitar a velocidad tan baja que entorpezca el tránsito, excepto en aquellos casos en que lo exijan las condiciones de las vías, del tránsito o de la visibilidad.
+La autoridad competente colocará los señalamientos indicados en el párrafo anterior, por lo menos 30 metros antes de que se inicie la escuela.
 
 ###### ARTICULO 79.
 
@@ -991,11 +995,11 @@ Los conductores de vehículos cederán el paso a los mencionados en el párrafo 
 
 Los conductores no deberán seguir a los vehículos de emergencia, ni detenerse o estacionarse a distancia que pueda significar riesgo o entorpecimiento del personal de dichos vehículos.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 80.
 
 Las indicaciones de los agentes prevalecerán sobre la de los semáforos y señales de tránsito en casos de emergencia, accidentes o funcionamiento defectuoso de dichos instrumentos.
-
-Cuando un agente dirija el tránsito en un crucero donde exista semáforo, deberá, previamente desconectarlo de la red a la que se encuentra enlazado.
 
 ###### ARTICULO 81.
 
@@ -1011,7 +1015,17 @@ La preferencia de una avenida, será sobre todas las calles que cruce, salvo cua
 
 En el cruzamiento de dos calles de preferencia, el tránsito deberá regularse por el semáforo en funcionamiento o por el agente comisionado al efecto.
 
-Cuando no exista semáforo, no esté funcionando o no esté el agente regulando y dirigiendo el tránsito, los vehículos que corran por las calles preferentes de norte a sur tendrán prioridad sobre las calles de oriente a poniente, siempre que no existan señales que indiquen lo contrario. Las calles pavimentadas son preferentes respecto a las no pavimentadas.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+
+Cuando un semáforo no esté funcionando o no esté el agente regulando y dirigiendo el tránsito, los vehículos que corran por las calles preferentes de Oriente a Poniente y viceversa tendrán prioridad, siempre que no existan señales que indiquen lo contrario. Las calles pavimentadas son preferentes respecto de las no pavimentadas.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 1995)</small>
+
+Los conductores que arriben a un crucero sin señalamiento harán alto y tendrá preferencia de paso el que vea al otro vehículo por su derecha.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 1995)</small>
+
+El conductor que arribe a un crucero con la señal de alto y la leyenda ceda el paso a un vehículo, hará alto total y permitirá que pase aquel vehículo que haya arribado antes al crucero, a continuación, procederá a arrancar para a su vez cruzar.
 
 ###### ARTICULO 84.
 
@@ -1093,7 +1107,9 @@ Las luces direccionales deberán emplearse para indicar cambios de dirección, p
 
 El conductor que pretenda reducir la velocidad de su vehículo, detenerse o cambiar de dirección o carril, sólo podrá iniciar la maniobra después de cerciorarse de que pueda efectuarla con la precaución debida y avisando a los vehículos que lo sigan.
 
-Para detener la marcha o reducir la velocidad, hará uso de la luz de freno y podrá además sacar del lado izquierdo del vehículo el brazo extendiéndolo horizontalmente. En caso de contar con luces de destello intermitentes o de emergencia, deberán utilizarse.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+
+Para detener la marcha o reducir la velocidad, hará uso de la luz de freno y podrá además sacar del vehículo el brazo extendido hacia abajo. En caso de contar con luces de destello intermitentes o de emergencia, deberán utilizarse.
 
 ###### ARTICULO 93.
 
@@ -1137,7 +1153,9 @@ En la noche o cuando no exista suficiente visibilidad en el día, los conductore
 
 Para que puedan circular en el Estado de Aguascalientes los camiones de carga en general, quedan sujetos a los siguientes límites de carga y dimensiones:
 
-Peso.- Máximo del vehículo incluyendo carga, 17,000 kilos.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+
+Peso.- máximo del vehículo incluyendo carga: 40,000 kilos.
 
 Largo.- No más de 8.0 metros.
 
@@ -1245,7 +1263,9 @@ XXVI.- En las calles de doble sentido que tengan menos de 10 metros de ancho.
 
 XXVII.- Frente a escuelas, templos, teatros u otros establecimientos de reuniones masivas.
 
-Será sancionado el conductor cuyo vehículo se detenga por falta de combustible en las arterias principales.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+
+El conductor cuyo vehículo se detenga por falta de combustible en las arterias principales, será amonestado, conminándosele a que en lo sucesivo prevea el suministro de combustible a su vehículo.
 
 El Estado deberá, mediante señalamiento respectivo, sujetar a determinados horarios y días de la semana la prohibición de estacionarse en la vía pública y en vialidades cuya afluencia vehicular lo permita.
 
@@ -1573,13 +1593,19 @@ I.- Indicar al conductor en forma ostensible que debe detener la marcha del veh�
 
 II.- Identificarse con su nombre y número de placa.
 
-III.- Señalar al conductor la infracción que ha cometido mostrándole el artículo infringido establecido por la presente Ley, así como la sanción a que se hace acreedor.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1995)</small>
+
+III.- Señalar al conductor, la infracción que ha cometido.
 
 IV.- Indicar al conductor que muestre su licencia, tarjeta de circulación y en su caso permiso de ruta de transporte de carga riesgosa.
 
 V.- Una vez mostrados los documentos, levantará el acta de infracción y entregará al infractor el ejemplar o ejemplares que correspondan. Si el conductor desea que en el acta de infracción se haga constar alguna observación de su parte, el agente está obligado a consignarla y permitir que estampe su firma, si así lo solicita.
 
-VI.- Tratándose de vehículos no registrados en el Estado, con los que se cometan infracciones a la presente Ley, al levantar las infracciones que procedan, deberá retirar de la circulación el vehículo hasta en tanto no se cubran las sanciones correspondientes.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1995)</small>
+
+VI.- Entregará el acta de infracción a la autoridad competente para que ésta, luego de oír al interesado, si éste se presenta ante ella dentro de los cinco días hábiles siguientes o sin haberle oído por haber transcurrido el plazo, resuelva imponer la sanción. Su resolución deberá fundarse y motivarse.
+
+Tratándose de vehículos no registrados en el Estado, con los que se cometan infracciones a la presente Ley, al levantar las infracciones que procedan deberá retener algún documento hasta en tanto no se cumplan las sanciones correspondientes.
 
 Desde la identificación hasta el levantamiento del acta de infracción, se deberá proceder sin interrupción. Será obligación de todo agente llevar consigo los formatos de las actas de infracción para la aplicación de la presente Ley. Cuando los agentes estén impedidos de levantar la infracción por carecer de actas correspondientes, no podrán remitir el automóvil al depósito vehicular. Sólo por causas que expresamente establece la presente Ley, podrán los vehículos ser remitidos al depósito vehicular.
 
@@ -1628,6 +1654,18 @@ II.- Cuando las placas del vehículo no coincidan con números y letras de la ca
 III.- Por estacionar el vehículo en lugar prohibido o en doble fila y no estar presente el conductor.
 
 IV.- Cuando estando obligado a ello, el vehículo no ostente la constancia que acredite la baja emisión de contaminantes.
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 1995)</small>
+
+V.- Cuando el vehículo presente placas sobrepuestas, a efecto de ponerlo a disposición de las autoridades competentes.
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 1995)</small>
+
+VI.- Cuando el vehículo se encuentre reportado como robado.
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 1995)</small>
+
+VII.- En los demás casos que dispongan las Leyes.
 
 Los agentes deberán tomar las medidas necesarias a fin de evitar que se produzcan daños a vehículos.
 
@@ -1689,37 +1727,41 @@ Los responsables por la comisión de las infracciones y por tanto acreedores a l
 
 4.- Los titulares de autorizaciones para operar escuelas de manejo.
 
+(REFORMADO, P.O. 6 DE AGOSTO DE 1995) (F. DE E., P.O. 20 DE AGOSTO DE 1995)
+
 ###### ARTICULO 157.
 
-Al conductor que contravenga las disposiciones de la presente Ley, se le sancionará de acuerdo con la falta cometida con el pago de multa correspondiente, de diez a sesenta días de Salario Mínimo General Vigente en el Estado, según se indica en este Artículo. Sin embargo, tratándose de jornaleros, obreros o trabajadores, previa acreditación, se estará a lo dispuesto en el Artículo 21 de la Constitución General de la República.
+Al conductor que contravenga las disposiciones de la presente Ley, se le sancionará de acuerdo con la falta cometida, con el pago de multa correspondiente, de uno a treinta días de salario mínimo general vigente en el Estado, según se indica en este Artículo. Sin embargo, tratándose de jornaleros, obreros o trabajadores previa acreditación, se estará a lo dispuesto en el Artículo 21 de la Constitución General de la República.
 
 GRUPOS
 
-Tipo de vehículo y falta
+TIPO DE VEHICULO Y FALTA
 
-I.- LEVE.- De diez a quince días.
+I.- LEVE.- De uno a diez días.
 
-A) Bicicletas:
+a) Bicicletas:
 
 1.- No respetar el semáforo o indicaciones del agente cuando lo indique.
 
-2.- Asirse de otro vehículo los conductores de bicicletas.
+2.- Asirse de otro vehículo, los conductores de bicicletas.
 
 3.- No transitar por la extrema derecha.
 
-B) Motocicletas:
+4.- Transitar por vialidades o carriles en donde se prohíba este medio de transporte.
 
-1.- No usar los conductores, anteojos protectores o similar, cuando el vehículo carezca de parabrisas.
+b) Motocicletas:
 
-2.- Circular las motocicletas entre carriles o dos de ellas paralelas o en un mismo carril.
+1.- No usar, los conductores, anteojos protectores o similar, cuando el vehículo carezca de parabrisas.
+
+2.- Circular las motocicletas entre carriles o dos de ellas paralelas en un mismo carril.
 
 3.- Carecer de lámparas o reflejantes posteriores.
 
-C) De todo tipo de vehículo:
+c) De todo tipo de vehículo:
 
 1.- No solicitar la baja en caso de remate administrativo o judicial.
 
-2.- Carecer por no estar en buen estado de funcionamiento o usar indebidamente, la bocina.
+2.- Carecer, por no estar en buen estado de funcionamiento o usar indebidamente la bocina.
 
 3.- Sin precaución cambiar de carril.
 
@@ -1731,7 +1773,7 @@ C) De todo tipo de vehículo:
 
 7.- Carecer de algunos de los espejos retrovisores.
 
-8.- Dejar el vehículo separado de la banqueta de tal forma que obstruya al carril siguiente.
+8.- Dejar el vehículo separado de la banqueta de tal forma que obstruya el carril siguiente.
 
 9.- Conducir un vehículo con mayor número de pasajeros que el señalado en la tarjeta de circulación.
 
@@ -1743,15 +1785,15 @@ Direccionales o intermitentes.
 
 Cuartos delanteros o traseros.
 
-De intensidad alta y baja.
+De intensidad alta o baja.
 
 11.- Carecer o portar fuera de los lugares exigidos los reflectores y los faros principales.
 
-12.- Carecer de llanta de refacción o de tenerla, si no está en condiciones de ser utilizada, así como transitar con llantas lisas, en mal estado y no contar con las herramientas para su cambio.
+12.- Rebasar o adelantar por la derecha, salvo en casos autorizados.
 
-13.- Dar marcha atrás más de 20 metros.
+13.- Dar marcha atrás más de 10 metros.
 
-14.- Conducir un vehículo sin placas de demostración o traslado, o con permisos correspondientes o con propósitos distintos al de su expedición.
+14.- Circular sin placas o sin el permiso correspondiente.
 
 15.- Transitar con alguna de las puertas abiertas.
 
@@ -1759,37 +1801,35 @@ De intensidad alta y baja.
 
 17.- No conservar su derecha o aumentar la velocidad cuando lo vayan a rebasar.
 
-18.- Rebasar o adelantar por la derecha, salvo en casos autorizados.
+18.- No obedecer las señales restrictivas.
 
-19.- No obedecer las señales restrictivas.
-
-D) Vehículos del transporte público de pasajeros.
+d) Vehículos del transporte público de pasajeros: de once a quince días.
 
 1.- No dar aviso de la suspensión del servicio.
 
-E) Vehículos de transporte de carga.
+e) Vehículos de transporte de carga: de once a quince días.
 
 1.- Carecer de antellantas o guardafangos.
 
 2.- Estorbar la visibilidad del conductor.
 
-F) Equipos manuales de reparto.
+f) Equipos manuales de reparto: de once a quince días.
 
 1.- Transitar fuera de la zona autorizada.
 
 2.- Transitar por la superficie de rodamiento en las arterias principales.
 
-II.- MEDIA.- Dieciséis a veinte días.
+II.- MEDIA: once a quince días.
 
-A) Bicicletas:
+a) Bicicletas:
 
-1.- Transitar por vialidades o carriles en donde se prohiba este medio de transporte.
+1.- Transitar por vialidades o carriles en donde se prohíba este medio de transporte.
 
-B) Motocicletas:
+b) Motocicletas:
 
 1.- Asirse de otro vehículo en marcha.
 
-2.- No usar, los motociclistas, casco protector.
+2.- No usar, los motociclistas casco protector.
 
 3.- Transportar más pasajeros de los autorizados en la tarjeta de circulación.
 
@@ -1797,13 +1837,19 @@ B) Motocicletas:
 
 5.- Efectuar vuelta en U, cerca de una curva, cima o zona de intenso tránsito y en donde el señalamiento lo prohibe.
 
-C) De todo tipo de vehículo:
+6.- Transitar sin placa de matrícula.
+
+7.- Transitar por vialidades o carriles en donde se prohibe con señalamiento.
+
+c) De todo tipo de vehículo:
 
 1.- No tomar las medidas preventivas para evitar accidentes.
 
-2.- No retirar su vehículo del lugar del accidente, cuando esto sea posible.
+2.- No retirar su vehículo del lugar del accidente o despejar los residuos del lugar del accidente, cuando esto sea posible y que obstruya gravemente el tráfico, respetando además, las normas aplicables en los casos de la comisión de un delito, para los efectos de peritajes y la debida fe ministerial de los hechos.
 
-3.- No despejar, los conductores de vehículos, los residuos del lugar del accidente.
+En los casos en que los residuos sean peligrosos, deberá solicitar el auxilio de las autoridades encargadas del servicio público de limpieza, sin perjuicio de las sanciones aplicables de acuerdo con la Ley de Equilibrio Ecológico y Protección al Ambiente, así como de los Bandos de Policía y Buen Gobierno, además de aquellas que por la naturaleza de las sustancias sean aplicables.
+
+3.- Por abandono de vehículo, entendiéndose como tal el hecho de estacionar un vehículo en un lugar prohibido o de propiedad privada, que atente contra la seguridad pública al provocar el riesgo de causar un siniestro bajo cualquier circunstancia, o que el tiempo que transcurra sea tal que acumule basura.
 
 4.- Invadir las banquetas con materiales o cualquier otro objeto.
 
@@ -1815,69 +1861,53 @@ C) De todo tipo de vehículo:
 
 8.- No ceder el paso a vehículos que ya se encuentran dentro de una intersección sin señalamientos.
 
-9.- No alternar, cuando exista el señalamiento o no ceder el paso a vehículos que provengan de una vía de mayor tránsito o mayor número de carriles.
+9.- No alternar, cuando exista el señalamiento, o no ceder el paso a vehículos que provengan de una vía de mayor tránsito o mayor número de carriles.
 
 10.- Entorpecer la marcha de columnas militares, desfiles o cortejos fúnebres.
 
 11.- Abastecer de combustible a un vehículo con el motor en marcha.
 
-12.- Detenerse por falta de combustible en vías de tránsito continuo.
+12.- Rebasar o adelantar por la derecha, salvo en casos autorizados.
 
-13.- No respetar la preferencia de paso a peatones en:
+13.- Efectuar indebidamente el estacionamiento en batería.
 
-a) Zona peatonal o invadir la misma.
+14.- Estacionarse en lugar prohibido o en doble fila obstruyendo la vía pública.
 
-b) Al salir o entrar a una cochera.
+15.- Cuando no exista espacio libre en la siguiente cuadra, avanzar y obstruir la intersección.
 
-c) Al dar vuelta continua.
+16.- No detener la marcha ante las indicaciones rojas de destello del semáforo.
 
-14.- Efectuar indebidamente el estacionamiento en batería.
+17.- Usar sin autorización cualquier tipo de accesorio exclusivo de los vehículos de emergencia.
 
-15.- Estacionarse en lugar prohibido o en doble fila obstruyendo la vía pública.
+18.- Conducir un vehículo bajo el amparo de una licencia cancelada, suspendida o vencida.
 
-16.- Cuando no exista espacio libre en la siguiente cuadra, avanzar y obstruir la intersección.
+19.-Traer faros blancos atrás o rojos adelante.
 
-17.- No detener la marcha ante las indicaciones rojas de destello del semáforo.
+20.- Carecer de alguno de los faros principales.
 
-18.- Usar sin autorización cualquier tipo de accesorio exclusivo de los vehículos de emergencia.
+21.- Por efectuar vuelta continua sin precaución.
 
-19.- Conducir un vehículo bajo el amparo de una licencia cancelada, suspendida o vencida.
+22.- Obstruir la visibilidad con algún objeto.
 
-20.- Traer faros blancos atrás o rojos adelante.
+23.- Alterar o cubrir con micas opacas, llevar ilegibles, fuera de lugar original, las placas o permisos para transitar.
 
-21.- Carecer de alguno de los faros principales.
+24.- Rebasar por la izquierda no reincorporándose al carril de la derecha.
 
-22.- No acatar las indicaciones de luz ámbar.
+25.- Rebasar o adelantar por el acotamiento.
 
-23.- Dar marcha atrás en las vías de tránsito continuo o en alguna intersección.
+26.- Producir ruido excesivo por modificaciones o por aceleración innecesaria, así como por equipos reproductores de sonido.
 
-24.- Obstruir la visibilidad con algún objeto.
+27.- La instalación o uso de sirenas en vehículos que no sean de emergencia.
 
-25.- Alterar o cubrir con micas opacas, llevar ilegibles, fuera de lugar original, las placas o permisos para transitar.
+28.- Transitar sin llevar consigo la tarjeta de circulación o permiso para transitar.
 
-26.- Rebasar por la izquierda no reincorporándose al carril de la derecha.
+29.- Transportar bicicletas, motocicletas o algún otro vehículo sin contar con los aditamentos especiales adecuados.
 
-27.- Rebasar o adelantar por el acotamiento.
+30.- Entorpecer la vialidad o transitar a baja velocidad.
 
-28.- Producir ruido excesivo por modificaciones o por aceleración innecesaria, así como por equipos reproductores de sonido.
+31.- No avisar con la luz de freno al reducir intempestivamente la velocidad.
 
-29.- La instalación o uso de sirenas en vehículos que no sean de emergencia.
-
-30.- Transitar sin llevar consigo la tarjeta de circulación o permiso para transitar.
-
-31.- Transportar bicicletas, motocicletas o algún otro vehículo sin contar con los aditamentos especiales adecuados.
-
-32.- Entorpecer la vialidad o transitar a baja velocidad.
-
-33.- No avisar con la luz de freno al reducir intempestivamente la velocidad.
-
-34.- Por efectuar vuelta continua sin precaución.
-
-35.- Por dormir en vehículo estacionado.
-
-36.- Por abandono de vehículo.
-
-D) Vehículos de transporte público de pasajeros:
+d) Vehículos de transporte público de pasajeros:
 
 1.- No transitar por el carril derecho.
 
@@ -1887,15 +1917,15 @@ D) Vehículos de transporte público de pasajeros:
 
 4.- No atender debidamente al público usuario.
 
-E) Transportes escolares:
+e) Transportes escolares:
 
-1.- Permitir ascenso y descensos sin hacer funcionar las luces de destello intermitentes.
+1.- Permitir ascenso y descenso sin hacer funcionar las luces de destello intermitentes.
 
 2.- Transitar fuera del carril exclusivo sin motivo justificado.
 
 3.- Transportar más pasajeros de los autorizados en la tarjeta de circulación.
 
-F) Vehículos de transporte de carga:
+f) Vehículos de transporte de carga:
 
 1.- No transitar por el carril derecho.
 
@@ -1907,15 +1937,11 @@ F) Vehículos de transporte de carga:
 
 5.- No obedecer el señalamiento y transitar por vialidades o carriles donde se prohiba.
 
-III.- GRAVE.- Veintiuno a treinta días.
+> <small>(F. DE E., P.O. 20 DE AGOSTO DE 1995)</small>
 
-A) Motocicletas:
+III.- GRAVE.- Dieciséis a treinta días.
 
-1.- Transitar sin placa de matrícula.
-
-2.- Transitar por vialidades o carriles en donde se prohibe con señalamiento.
-
-B) Todo tipo de vehículo:
+b) Todo tipo de vehículo:
 
 1.- No dar aviso de accidente a la autoridad correspondiente.
 
@@ -1941,7 +1967,7 @@ B) Todo tipo de vehículo:
 
 12.- Tirar o arrojar objetos o basura desde el interior del vehículo.
 
-13.- Pararse en la superficie de rodamiento de carreteras y vía de tránsito continuo o fuera de ella, a menos de 2 metros sin colocar dispositivos de seguridad.
+13.- Pararse en la superficie de rodamiento de carreteras y vías de tránsito continuo o fuera de ella, a menos de 2 metros sin colocar dispositivos de seguridad.
 
 14.- Por estacionarse:
 
@@ -1949,15 +1975,15 @@ a) Obstruyendo entrada o salida de vehículos, excepto la de su domicilio.
 
 b) En sentido contrario.
 
-c) Simulando descompostura de vehículo, haciendo maniobras y desplazar o empujar a vehículo (sic) debidamente estacionados.
+c) Simulando descompostura del vehículo, haciendo maniobras y desplazar o empujar vehículos debidamente estacionados.
 
 15.- Causar accidente al transitar vehículos automotores o combinaciones de vehículos cuando están en mal estado de frenos.
 
-16.- Por permitir al propietario la conducción de su vehículo a personas que carezcan de licencia de conducir.
+16.- Por permitir el propietario, la conducción de su vehículo a personas que carezcan de licencia de conducir.
 
 17.- Conducir sin el equipo necesario, en caso de personas con incapacidad física para conducir normalmente.
 
-18.- Conducir un vehículo automotor sin haber obtenido su licencia de conducir.
+18.- Conducir un vehículo automotor sin haber obtenido su licencia de conducir, o sin portarla; con licencia vencida o conducir un vehículo sin placas o sin el correspondiente permiso de circulación.
 
 19.- No encender los faros principales cuando se requieran o carecer de los mismos.
 
@@ -1979,7 +2005,7 @@ c) Simulando descompostura de vehículo, haciendo maniobras y desplazar o empuja
 
 28.- No disminuir la velocidad:
 
-a) Al transitar ante la presencia de educandos en zonas escolares.
+a) El transitar ante la presencia de educandos en zonas escolares.
 
 b) Al transitar ante una concentración de peatones.
 
@@ -1999,9 +2025,11 @@ a) Escolares en zonas de cruce escolar.
 
 b) Peatones en zonas de cruce peatonal.
 
+c) Ambulancias con sirena y/o torreta encendida.
+
 31.- No obedecer la señalización de protección o las indicaciones de los agentes y de los promotores voluntarios de vialidad en zonas escolares.
 
-32.- Instalar sin la autorización de la Dirección:
+32.- Instalar sin la autorización de la dirección:
 
 a) Señalamientos de tránsito vertical.
 
@@ -2015,43 +2043,47 @@ c) Topes.
 
 35.- Remachar, soldar u otra acción que se realice con las placas correspondientes al vehículo.
 
-36.- Por conducir con aliento alcohólico.
+36.- Hacer pensión en vía pública o abandono.
 
 37.- Por realizar maniobras de taller en la vía pública.
 
-C) Vehículos de transporte público de pasajeros:
+38.- Por conducir con aliento alcohólico.
+
+c) Vehículos de transporte público de pasajeros:
 
 1.- Permitir sin precauciones de seguridad el ascenso y descenso de pasajeros.
 
 2.- Que los autobuses suburbanos y foráneos efectúen maniobras de ascenso y descenso de pasaje fuera de la terminal, salvo en los casos autorizados.
 
-3.- En terminales, paradas, obstruir el tránsito y/o permanecer los vehículos, más tiempo del necesario, producir ruidos molestos o hacer reparaciones o establecer arbitrariamente cierres de rutas.
+3.-En terminales, paradas, obstruir el tránsito y/o permanecer los vehículos, más tiempo del necesario, producir ruidos molestos o hacer reparaciones o establecer arbitrariamente cierres de rutas.
 
 4.- Aprovisionar al vehículo de combustible con pasajeros a bordo.
 
-5.- Por hacer en el sitio, reparaciones a los vehículos fuera de la zona señalada para el efecto o no conservar limpia el área asignada para el sitio.
+5.- Por hacer en el sitio reparaciones a los vehículos fuera de la zona señalada para el efecto, o no conservar limpia el área asignada para el sitio.
 
 6.- No colocar en lugar visible para el público, el original de la tarjeta de identificación autorizada.
 
 7.- No usar el taxímetro o traerlo en mal estado cuando sea obligatorio.
 
-D) Transportes escolares:
+8- Por no levantar pasaje cuando haya lugar para ello.
+
+d) Transportes escolares:
 
 1.- Circular sin que los pasajeros utilicen el cinturón de seguridad.
 
-E) Vehículos de transporte de carga:
+e) Vehículos de transporte de carga:
 
-1.- Transportar materias riesgosas sin permiso o autorización.
+1.-Transportar materias riesgosas sin permiso o autorización.
 
 2.- Vehículos excedidos en sus dimensiones o pesos autorizados.
 
-3.- Sobresalir la carga al frente o a los lados o bien en la parte posterior a más de un metro, así como exceder en peso los límites autorizados.
+3.- Sobresalir la carga al frente o a los lados, o bien en la parte posterior a más de un metro, así como exceder en peso los límites autorizados.
 
 4.- No llevar cubierta la carga.
 
 5.- Derramar o esparcir carga en la vía pública.
 
-6.- Transportar o arrastrar la carga en condiciones que signifique (sic) peligro para personas o bienes.
+6.- Transportar o arrastrar la carga en condiciones que signifique peligro para personas o bienes.
 
 7.- Efectuar fuera de los horarios señalados, maniobras de carga y descarga en vías primarias.
 
@@ -2095,7 +2127,9 @@ Las infracciones se harán constar en actas y formas impresas y numeradas en los
 
 4.- Actos y hechos constitutivos de la infracción, así como lugar, fecha y hora en que se haya cometido.
 
-5.- Sanción impuesta.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+
+5.- Sanción que puede ser impuesta.
 
 6.- Motivación y fundamento.
 
@@ -2103,11 +2137,15 @@ Las infracciones se harán constar en actas y formas impresas y numeradas en los
 
 Deberá haber un agregado en dicha acta, en donde en caso de que el agente que la esté levantando no tenga presente el artículo exacto por la infracción, solamente deberá hacer mérito a ello y con eso tener validez.
 
-Los agentes no harán valorización de la infracción sino las autoridades correspondientes de la Secretaría de Finanzas.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+
+Los agentes no calificarán infracciones. El ejercicio de esta facultad corresponde a la Dirección General de Seguridad Pública y Vialidad o a la autoridad a quien se le haya entregado.
 
 Cuando se trate de varias infracciones cometidas en diversos hechos por un infractor, el agente las asentará en el acta respectiva.
 
-El pago de la multa deberá hacerse en cualquiera de las oficinas autorizadas por la Secretaría de Finanzas. Los recordatorios que envíe la Secretaría de Finanzas a domicilio, relativas al pago de las multas deberán contener los datos que permiten identificar plenamente la infracción.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+
+El pago de la multa deberá hacerse en cualquiera de las oficinas autorizadas por la Secretaría de Finanzas. Los recordatorios que envíe la Secretaría de Finanzas a domicilio, relativas al pago de las multas, deberán contener los datos que permiten identificar plenamente la infracción.
 
 ### CAPITULO XII. Facultades de la Dirección
 
@@ -2133,7 +2171,9 @@ Además de las atribuciones que a la Dirección otorga la presente Ley y las Ley
 
 9.- Coordinar sus acciones con las autoridades locales o federales y dar cumplimiento a las leyes del país o convenios internacionales.
 
-10.- Para los efectos de las sanciones económicas que precisa esta Ley, se faculta tanto al Director General de Seguridad Pública y Vialidad en el Estado, como a los Directores Municipales de Vialidad a rectificar infracciones que estén indebidamente elaboradas conforme a lo que establece la presente Ley.
+(REFORMADO, P.O. 6 DE AGOSTO DE 1995)(F. DE E., P.O. 20 DE AGOSTO DE 1995)
+
+10.- Todos los casos no previstos ni consignados anteriormente, pero que de alguna manera afecten el cumplimiento a las disposiciones de esta Ley, serán estudiados por el Director General de Seguridad Pública y Vialidad en el Estado, quien determinará la sanción aplicable que no podrá exceder de treinta días de salario mínimo general vigente.
 
 Todos los casos no previstos ni consignados anteriormente, pero que de alguna manera afecten el cumplimiento a las disposiciones de esta Ley, serán estudiadas por el Director General de Seguridad Pública y Vialidad en el Estado, quien determinará la sanción aplicable que no podrá exceder de sesenta D.S.M.G.V.
 
@@ -2216,3 +2256,15 @@ Otto Granados Roldán.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Efrén González Cuéllar.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE AGOSTO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+Para efectos de la clasificación de las sanciones por infracciones cometidas con anterioridad a la presente reforma, y que no se hayan hecho efectivas en cuanto a su pago, se estará a lo establecido en la presente reforma, sin que se origine ningún tipo de recargos o gastos derivados del incumplimiento en el pago de la sanción económica.
+
+###### ARTICULO SEGUNDO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
