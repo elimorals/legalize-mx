@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-civiles-para-el-estado-de-durango-4706
 country: "mx"
 rank: "codigo"
 publication_date: "1948-08-22"
-last_updated: "1948-08-22"
+last_updated: "1971-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 1971.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22, jueves 26 y domingo 29 de agosto; jueves 2, domingo 5, jueves 9, domingo 12, jueves 16, domingo 19, jueves 23, domingo 26 y jueves 30 de septiembre; domingo 3, jueves 7, domingo 10, jueves 14, domingo 17 y jueves 21 de octubre de 1948.
 
@@ -5601,19 +5601,17 @@ Los gastos generales del apeo se harán por el que lo promueva. Los que importen
 
 Disposiciones relativas a otros actos de jurisdicción voluntaria.
 
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 1971)</small>
+
 ###### ARTICULO 927.
 
-Se tramitará en la forma de incidente que habrá de seguirse con el Ministerio Público en todo caso;
+Se tramitará en la forma de incidente, que habrá de seguirse con el Ministerio Público en todo caso:
 
-I.- La habilitación para comparecer en juicio que solicite el menor de más de dieciocho años cuando compruebe que los padres o ascendientes que ejerzan la patria potestad están ausentes, se ignore su paradero o se nieguen a representarlo. Sólo se le concede autorización cuando fuere demandado o se le siguiere perjuicio grave de no promover juicio, y comprobarse buena conducta y aptitud para el manejo de sus negocios;
+I.- La Autorización judicial que soliciten los emancipados por razón del matrimonio, para enajenar o gravar bienes raíces o para comparecer en juicio; en este último caso se les nombrará un tutor especial.
 
-II.- La solicitud de emancipación o habilitación de edad que hagan los mayores de dieciocho años sujetos a patria potestad o tutela si demostraren buena conducta y aptitud para el manejo de sus intereses. En este caso se oirá también a los padres o tutores;
+II.- El permiso para contratar con su marido, o para obligarse solidariamente a ser su fiadora, que solicite la mujer casada; y
 
-III.- La autorización judicial que soliciten los emancipados o habilitados de edad para enajenar o gravar bienes raíces o para comparecer en juicio; en este último caso se les nombrará un tutor especial.
-
-IV.- El permiso que para contratar con su marido o para obligarse solidariamente a ser su fiadora solicite la mujer casada.
-
-V.- La calificación de la excusa de la patria potestad o en los casos a que se refiere el artículo 443 del Código Civil.
+III.- La calificación de la excusa de la patria potestad en los casos a que se refiere el Artículo 443 del Código Civil.
 
 ###### ARTICULO 928.
 
@@ -5926,3 +5924,9 @@ Dado en el Salón de Sesiones del Congreso del Estado, a los diecinueve días de
 Por tanto mando se imprima, publique, circule y se comunique a quienes corresponda, para su exacta observancia.
 
 Dado en el Palacio del Poder Ejecutivo del Estado, en Victoria de Durango, Durango, a los trece días del mes de diciembre de mil novecientos cuarenta y siete.- JOSE RAMON VALDEZ.- El Secretario Gral. de Gobierno, Lic. FERNANDO ARENAS.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 7 DE ENERO DE 1971.
+
+UNICO.- El presente Decreto surtirá sus efectos tres días después de su publicación en el Periódico Oficial del Estado.
