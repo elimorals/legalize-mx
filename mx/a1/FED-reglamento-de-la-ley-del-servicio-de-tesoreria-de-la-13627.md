@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-servicio-de-tesoreria-de-la-13627"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-03-15"
-last_updated: "1999-03-15"
+last_updated: "2004-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13627&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-02-22"
 
 REGLAMENTO DE LA LEY DEL SERVICIO DE TESORERIA DE LA FEDERACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 2004.
 
 Reglamento Publicado en la Primera Sección del Diario Oficial de la Federación el lunes 15 de marzo de 1999.
 
@@ -1845,7 +1845,9 @@ II. Formular los pliegos preventivos de responsabilidades cuando se presuma la e
 
 III. Notificar de inmediato al titular de la Dirección General cuando se descubran irregularidades en relación a los fondos y valores de la Federación que puedan constituir delitos, quien dará aviso a la Procuraduría Fiscal de la Federación para que lleve a cabo las investigaciones correspondientes, sin perjuicio de que se finquen los pliegos preventivos de responsabilidades a que haya lugar;
 
-IV. Investigar y comprobar las irregularidades en que, a su juicio, pudieran haber incurrido los servidores públicos y los auxiliares en operaciones que afecten la recaudación, manejo, custodia o administración de fondos o valores;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
+
+IV. Investigar y comprobar las irregularidades en que, a su juicio, pudieran haber incurrido los servidores públicos y los auxiliares en actos que afecten la recaudación, manejo, custodia o administración de fondos o valores, así como en operaciones relacionadas con la adquisición de bienes o contratación de servicios vinculados con proyectos de infraestructura productiva de largo plazo que afecten fondos o valores federales;
 
 V. Suspender provisionalmente de sus funciones, cuando la gravedad del caso lo amerite, a los servidores públicos, incluyendo los habilitados, que en el desempeño de su cargo incurran en irregularidades, respecto de la recaudación, manejo, custodia o administración de los fondos y valores a su cuidado, con objeto de prevenir daños mayores, para lo cual se ordenará la sustitución provisional del servidor público y se vigilará que haga entrega formal de los fondos y valores a su cuidado, dando aviso inmediato al titular de la oficina de quien dependa el servidor público suspendido a fin de que se resuelva sobre la designación del sustituto y, en su caso, se impongan las sanciones que procedan;
 
@@ -2262,3 +2264,55 @@ Cuarto.- Todos los actos, procedimientos, solicitudes en trámite y recursos adm
 Por lo que respecta a las concentraciones extemporáneas de fondos federales recaudados por las instituciones de crédito o la omisión de éstas sucedidas con anterioridad a la entrada en vigor del presente Reglamento, les serán aplicables las disposiciones vigentes en el momento en que ocurrieron, salvo que dichas instituciones de crédito en forma expresa manifiesten que desean acogerse a las disposiciones del presente Reglamento.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de febrero de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+D.O.F. 7 DE MAYO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos que se encuentren pendientes a la fecha de entrada en vigor de este Decreto y que, conforme al mismo, deban ser atendidos por una unidad administrativa diversa a la que hubiera correspondido conforme a las disposiciones vigentes antes de esa fecha, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas a las que se les haya atribuido la competencia en este ordenamiento.
+
+TERCERO.- Cuando en este Decreto se dé una denominación distinta a alguna unidad administrativa establecida con anterioridad a la vigencia del mismo, aquella unidad atenderá los asuntos a que se refiere este ordenamiento. En relación con los recursos humanos, materiales y financieros que la unidad administrativa haya utilizado, éstos pasarán a la nueva unidad o unidades administrativas competentes, distribuyéndose, en su caso, de conformidad con el ámbito de facultades que a cada una corresponda, con la participación que, en su caso, competa al Oficial Mayor de la Secretaría.
+
+Los recursos humanos, materiales y presupuestarios correspondientes a las direcciones General Adjunta de Evaluación y Control de Legislación y Consulta; de Legislación y Consulta de Asuntos Fiscales; de Evaluación de Legislación y Consulta, y de Control de Legislación y Consulta, se transferirán a la Dirección General Adjunta de Legislación y Consulta Presupuestaria; a la Dirección de Legislación y Consulta de Asuntos Fiscales "A"; a la Dirección de Legislación y Consulta de Asuntos Fiscales "B", y a la Dirección de Evaluación y Control de Legislación y Consulta, respectivamente.
+
+CUARTO.- Las referencias y atribuciones que a la entrada en vigor del presente Decreto, se hagan o confieran o se entiendan hechas o conferidas a la Unidad de Banca y Ahorro y a la Dirección General de Seguros y Valores en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones que se relacionen con las conductas ilícitas previstas en el artículo 400 Bis del Código Penal Federal, así como otras relacionadas con operaciones con dinero o bienes de actividades ilícitas, se entenderán hechas o conferidas, según sea el caso, a la Unidad de Inteligencia Financiera de acuerdo a las facultades que tenga otorgadas en la materia a que se refiere el artículo 15 del artículo primero del presente Decreto, sin menoscabo del ejercicio de las atribuciones que les correspondan a las demás unidades administrativas de la Secretaría en el ámbito de sus respectivas competencias.
+
+QUINTO.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Procuraduría Fiscal de la Federación en materia de sus facultades de comprobación del cumplimiento de las disposiciones fiscales y aduaneras, serán tramitados hasta su conclusión por el Servicio de Administración Tributaria.
+
+Los recursos humanos relativos al ejercicio de las facultades indicadas en el párrafo anterior serán transferidos a la Administración General de Aduanas del Servicio de Administración Tributaria. El Jefe del citado órgano desconcentrado determinará la distribución que de los expedientes correspondientes al ejercicio de las mencionadas facultades deba hacerse a las unidades administrativas del Servicio de Administración Tributaria.
+
+SEXTO.- Las facultades a que se refieren las fracciones XIII a la XIX del artículo 7o., LXVI del artículo 10 y LII del artículo 11, que se modifican por virtud de este Decreto, respectivamente, serán ejercidas por las Coordinaciones Administrativas que se determinen para tal efecto, mismas que quedarán adscritas una a cada Subsecretaría, una a la Procuraduría Fiscal de la Federación y una a la Tesorería de la Federación. Dichas Coordinaciones Administrativas fungirán como ventanilla única entre las unidades administrativas antes citadas y la Oficialía Mayor en los trámites y solicitudes que se deban llevar a cabo para la atención de cualquier asunto relacionado con recursos materiales, humanos o financieros.
+
+La Oficialía Mayor contará con una Coordinación Administrativa que, con base en las fracciones XIII a la XIX del artículo 7o. que se modifican por virtud de este Decreto, atenderá los asuntos administrativos de las áreas adscritas a dicha Oficialía.
+
+Los asuntos administrativos de la Unidad de Comunicación Social y Vocero, de la Unidad de Coordinación con Entidades Federativas, de la Unidad de Inteligencia Financiera, de la Coordinación General de Tecnologías de Información y Comunicaciones y de la Coordinación General de Calidad y Seguridad de la Información, serán tramitados ante la Oficialía Mayor por cualquiera de las Coordinaciones Administrativas a que se refieren los párrafos primero y segundo de este precepto que al efecto determine el Secretario.
+
+Las Coordinaciones Administrativas a que se refieren los párrafos primero y segundo de este precepto, tendrán en su estructura hasta dos direcciones de área.
+
+SÉPTIMO.- Las estructuras distintas a las Direcciones de Técnica Operativa a que se refiere el artículo 92 que se deroga por virtud de este Decreto, que antes de la entrada en vigor del presente ordenamiento hayan realizado funciones de coordinación administrativa, deberán desaparecer de conformidad con las disposiciones aplicables. Lo anterior con excepción del personal asignado a funciones de control de gestión que quedará adscrito a las Jefaturas de Unidad o a las Direcciones Generales que correspondan, en tanto se implementa el sistema automatizado de control de documentos y previa autorización de la Coordinación General de Tecnologías de Información y Comunicaciones; así como con excepción de hasta dos servidores públicos con nivel máximo de Director de Área y Subdirector de Área, respectivamente, que la Unidad de Crédito Público, la Unidad de Planeación Económica de la Hacienda Pública y la Dirección General de Asuntos Internacionales de Hacienda tengan asignados para realizar funciones de control, seguimiento y cualquier otra actividad relacionada con contratos o convenios de los que deriven obligaciones pecuniarias para la Secretaría relacionados con las funciones sustantivas de dichas áreas, que quedarán adscritos a las mismas para continuar realizando dichas actividades.
+
+El personal adscrito a la Dirección de Técnica Operativa de la Tesorería de la Federación, que hasta antes de la entrada en vigor del presente Decreto haya ejercido funciones en materia de coordinación y supervisión de las actividades del Resguardo Federal de Valores, será transferido a la unidad administrativa que al efecto determine la citada Tesorería en términos del artículo 11, fracción LI que se modifica por virtud de este Decreto.
+
+OCTAVO.- Cuando concurran dos o más Coordinaciones Administrativas en un mismo inmueble, las facultades de administración de éste se ejercerán por la Coordinación Administrativa adscrita a la Subsecretaría de Hacienda y Crédito Público; a la de Ingresos; a la de Egresos; a la Procuraduría Fiscal de la Federación y a la Tesorería de la Federación, en el orden indicado, sin perjuicio de lo que al efecto disponga el Secretario.
+
+NOVENO.- Dentro de los 30 días naturales contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, las subsecretarías de Hacienda y Crédito Público y de Egresos, la Tesorería de la Federación, así como la Oficialía Mayor, en el ámbito de sus respectivas competencias, transferirán a la Coordinación General de Tecnologías de Información y Comunicaciones los recursos humanos, financieros y materiales relacionados con los servicios informáticos que actualmente se encuentren a su cargo, que sean necesarios para el desempeño de las atribuciones conferidas a la citada Coordinación General.
+
+Dentro del plazo a que se refiere el párrafo anterior, la Oficialía Mayor transferirá a la Dirección General de Programación y Presupuesto "B" los recursos humanos, financieros y materiales relacionados con las atribuciones que en virtud de este Decreto se otorgan a dicha Dirección General en el Apartado B del artículo 65-A.
+
+DÉCIMO.- Las referencias que se hacen y las atribuciones en materia presupuestaria relativas a servicios personales que se otorgan a la Unidad de Política y Control Presupuestario, y a las Direcciones Generales de Programación y Presupuesto sectoriales, en reglamentos, acuerdos, oficios circulares, reglas, manuales y demás disposiciones, se entenderán hechas a la Unidad de Política y Control Presupuestario, a las Direcciones Generales de Programación y Presupuesto sectoriales y a la Dirección General Adjunta Técnica de Presupuesto, en el ámbito de la competencia que les corresponde de conformidad con el presente Decreto.
+
+DÉCIMO PRIMERO.- Las referencias que se hacen y las atribuciones que se otorgan a la Unidad de Política de Ingresos en reglamentos, acuerdos, oficios circulares, reglas, manuales y demás disposiciones, se entenderán hechas a la Unidad de Política de Ingresos, a la Unidad de Legislación Tributaria y a la Dirección General Adjunta de Precios y Tarifas, en el ámbito de la competencia que les corresponde de conformidad con el presente Decreto.
+
+DÉCIMO SEGUNDO.- Las referencias que se hacen y las atribuciones que se otorgan a la Dirección General de Programación, Organización y Presupuesto, en leyes, reglamentos, acuerdos, oficios circulares, reglas, manuales y demás disposiciones, se entenderán hechas a la Dirección General de Recursos Financieros y a la Dirección General de Programación y Presupuesto "B", en el ámbito de la competencia que les corresponde de conformidad con el presente Decreto.
+
+DÉCIMO TERCERO.- Las referencias que se hacen y las atribuciones que se otorgan a las Direcciones Generales Adjuntas de Programación y Presupuesto de Educación Pública; de Salud y Ramos Generales; de Seguridad Nacional y Gobierno; de Organismos, Ciencia, Tecnología, Cultura y Deporte; y de Seguridad Social y Ramos Autónomos, de la Dirección General de Programación y Presupuesto "A"; así como a las Direcciones Generales Adjuntas de Programación y Presupuesto de Desarrollo Agropecuario y Recursos Naturales; de Comunicaciones; de Hacienda y Turismo; de Energía; y, de Desarrollo Social, Trabajo y Economía, de la Dirección General de Programación y Presupuesto "B"; en acuerdos, oficios circulares, reglas, manuales y demás disposiciones, se entenderán hechas, en el ámbito de sus respectivas competencias, a las Direcciones Generales Adjuntas de Programación y Presupuesto de Salud y Seguridad Social; de Educación; y de Servicios, de la Dirección General de Programación y Presupuesto "A"; así como a las Direcciones Generales Adjuntas de Programación y Presupuesto de Energía; de Desarrollo Agropecuario, Recursos Naturales, Hacienda y Turismo; y, de Desarrollo Social, Trabajo, Economía y Comunicaciones, de la Dirección General de Programación y Presupuesto "B".
+
+DÉCIMO CUARTO.- En un plazo de 90 días hábiles, contados a partir de que la Secretaría cuente con la conexión correspondiente con el Sistema Integral de Administración Financiera Federal para intercambiar información, la Coordinación General de Tecnologías de Información y Comunicaciones, con el apoyo de la Tesorería de la Federación, instalará dicho sistema en los órganos desconcentrados de la Secretaría y en las entidades del sector coordinado por la misma, con la finalidad de que éstos directamente tramiten las cuentas por liquidar certificadas respectivas conforme a lo previsto en el Manual de Normas Presupuestarias de la Administración Pública Federal.
+
+Hasta en tanto se lleve a cabo la instalación del Sistema Integral de Administración Financiera Federal en los mencionados órganos desconcentrados y entidades, éstos directamente presentarán a la Tesorería de la Federación las Cuentas por Liquidar Certificadas para la ministración de los recursos.
+
+DÉCIMO QUINTO. Se abroga el Acuerdo que establece el Sistema Integral de Administración Financiera Federal, publicado en el Diario Oficial de la Federación el 27 de enero de 1998, así como el Acuerdo por el que se establecen los lineamientos relativos al funcionamiento, organización y requerimientos de operación del Sistema Integral de Administración Financiera Federal, publicado en el Diario Oficial de la Federación el 30 de abril de 2002.
+
+DÉCIMO SEXTO.- Dentro de los 30 días naturales contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, la Dirección General de Programación y Presupuesto "B" someterá a consideración del Secretario las políticas, directrices, normas o criterios técnicos y administrativos para la mejor organización y funcionamiento de los órganos desconcentrados de la Secretaría y las entidades del sector coordinado por la misma, incluyendo los relativos a la materia presupuestaria, de administración de sueldos y de prestaciones.
