@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2004-05-01"
+last_updated: "2004-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2004.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -45,9 +45,9 @@ LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA.
 
 DEL PODER LEGISLATIVO.
 
-### CAPITULO I
+### CAPITULO II
 
-DISPOSICIONES GENERALES.
+DE LOS DERECHOS Y DEBERES DE LOS DIPUTADOS.
 
 ###### ARTICULO 1º.
 
@@ -133,9 +133,9 @@ El Congreso tendrá plena autonomía para la elaboración y ejercicio de su pres
 
 La integración, el funcionamiento del Congreso y las atribuciones de sus miembros, se sujetarán a lo establecido en la Constitución, en el presente ordenamiento, en las demás disposiciones legales aplicables y en las de carácter interno que se expidan en los términos de esta Ley.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LOS DERECHOS Y DEBERES DE LOS DIPUTADOS.
+DISPOSICIONES GENERALES.
 
 ###### ARTICULO 14.
 
@@ -269,9 +269,17 @@ Los Diputados podrán ser suspendidos, destituidos o inhabilitados de su encargo
 
 Los Diputados quedarán suspendidos de los derechos y obligaciones a que se refiere esta Ley en los siguientes casos:
 
-I.- Por licencia concedida en los términos fijados por esta Ley; y
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2004)</small>
 
-II.- Por resolución de la Asamblea de que ha lugar a proceder penalmente en su contra.
+I.- Por licencia concedida en los términos fijados por esta Ley;
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2004)</small>
+
+II.- Por resolución de la Asamblea de que ha lugar a proceder penalmente en su contra; y
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2004)</small>
+
+III.- Cuando se le suspenda su derecho a concurrir a sesiones por el tiempo que resta del periodo ordinario.
 
 ###### ARTICULO 26.
 
@@ -281,7 +289,7 @@ I.- Por resolución que así lo determine, como resultado de juicio político in
 
 II.- Por sentencia judicial firme que declare el estado de interdicción;
 
-III.- Por disponer de bienes o valores o hacer mal uso de documentos exclusivos del Poder Legislativo al margen de las atribuciones que esta Ley y su Reglamento establecen; y
+III.- (DEROGADA, P.O. 19 DE JUNIO DE 2004)
 
 IV.- Por renuncia aprobada por la Asamblea.
 
@@ -537,7 +545,9 @@ VIII.- Proporcionar a las comisiones la información que obre en su poder, cuand
 
 IX.- Firmar las resoluciones que expida el Congreso, así como la correspondencia que lo requiera;
 
-X.- Expedir y certificar copias de los documentos que obren en el archivo del Congreso;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2004)</small>
+
+X.- Expedir y certificar copias de los documentos que obren en el archivo del Congreso, pudiendo hacerlo conjunta o indistintamente;
 
 XI.- Supervisar las funciones de la Oficialía Mayor en cuanto a la Secretaría se refiere;
 
@@ -723,11 +733,11 @@ XXV.- Atención al Migrante.
 
 Estas comisiones permanentes serán por todo el ejercicio constitucional; excepcionalmente, a petición de uno de sus miembros o de un grupo parlamentario y con la conformidad de los integrantes de las mismas, podrán proponerse cambios.
 
-> <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 57.
 
-Las comisiones procederán a estudiar, analizar y dictaminar las iniciativas y demás asuntos que les sean turnados por la Directiva o la Asamblea y presentarán por escrito su dictamen en un plazo no mayor de quince días hábiles, a partir del día siguiente de recibir los expedientes respectivos. Las comisiones dispondrán de recursos económicos para el desempeño de sus programas, de conformidad con las disponibilidades presupuestales del Congreso; el Presidente de cada comisión presentará anualmente el programa de trabajo correspondiente.
+Las Comisiones procederán a estudiar, analizar y dictaminar las iniciativas y demás asuntos que le sean turnados por la Directiva o la Asamblea y presentarán por escrito su dictamen en un plazo no mayor de 30 días hábiles contados a partir del día siguiente de recibir los expedientes respectivos. Las Comisiones dispondrán de recursos económicos para el desempeño de sus programas, de conformidad con las disponibilidades presupuestales del Congreso; el Presidente de cada Comisión presentará anualmente el programa de trabajo correspondiente.
 
 ###### ARTICULO 58.
 
@@ -1121,11 +1131,11 @@ En los recesos del Congreso, funcionará una Comisión Permanente integrada por 
 
 La Comisión Permanente se instalará al siguiente día en que el Congreso cierre su período ordinario de sesiones. Comunicará al Ejecutivo del Estado y al Poder Judicial su instalación, igual comunicación se hará a las autoridades que se señalan en el artículo 37 de la presente ley.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 106.
 
-La Comisión Permanente tendrá la representación del Poder Legislativo y ejercerá las atribuciones que le confiere el artículo 36 de la Constitución y las que le encomiende el Congreso.
+La Comisión Permanente por conducto de su Presidente tendrá la representación del Poder Legislativo y ejercerá las atribuciones que le confiere el artículo 36 de la Constitución y las que le encomiende el Congreso.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1210,3 +1220,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 1 DE MAYO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JUNIO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
