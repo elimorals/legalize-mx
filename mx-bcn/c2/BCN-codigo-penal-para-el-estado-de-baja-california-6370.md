@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1993-12-24"
+last_updated: "1994-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1994.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -437,7 +437,9 @@ Aseguramiento oficioso de objetos.- Los automóviles, camiones y otros objetos d
 
 ###### Artículo 48.
 
-Concepto y duración.- El trabajo en favor de la comunidad, consiste en la prestación de servicios no remunerados, en instituciones públicas, educativas o de asistencia social, o en instituciones privadas asistenciales. Este trabajo se llevará a cabo en jornadas dentro de períodos distintos al horario de las labores que represente la fuente de ingresos para la subsistencia del sujeto y de la familia, sin que pueda exceder de la jornada extraordinaria que determine la Ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora. Podrá imponerse como pena única o como substitutiva de la pena de prisión o de la multa en su caso, cada día de prisión será substituido por una jornada de trabajo en favor de la comunidad.
+Concepto y duración.- El trabajo en favor de la comunidad, consiste en la prestación de servicios no remunerados, en instituciones públicas, educativas o de asistencia social, o en instituciones privadas asistenciales. Este trabajo se llevará a cabo en jornadas dentro de períodos distintos al horario de las labores que represente la fuente de ingresos para la subsistencia del sujeto y de la familia, sin que pueda exceder de la jornada extraordinaria que determine la Ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora.
+
+Podrá imponerse como pena única o como substitutiva de la pena de prisión o de la multa en su caso, cada día de prisión será substituido por una jornada de trabajo en favor de la comunidad.
 
 ###### Artículo 49.
 
@@ -1439,6 +1441,8 @@ Reparación del daño.- La reparación del daño en los casos de estupro, compre
 
 ### CAPITULO VII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1994)</small>
+
 ###### Artículo 184
 
 BIS.- Tipo y punibilidad.- Al que con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá sanción hasta de doscientos días multa.
@@ -1496,6 +1500,8 @@ Cuando la queja fuere de calumnia, se permitirán al reo pruebas de su imputaci�
 Inexcusabilidad.- No servirá de excusa de la difamación ni de la calumnia, que el hecho imputado sea notorio o que el reo no haya hecho más que reproducir lo ya publicado.
 
 ### CAPITULO X. DISPOSICIONES COMUNES PARA LOS DELITOS CONTRA EL PATRIMONIO
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1994)</small>
 
 ###### Artículo 191.
 
@@ -1767,19 +1773,23 @@ Tipo y punibilidad.- Se impondrá prisión de seis meses a seis años y hasta tr
 
 ###### Artículo 226.
 
-Tipo y punibilidad.- Se aplicará de uno a seis años de prisión y hasta doscientos días multa:
+Tipo y Punibilidad.- Se aplicará de uno a seis años de prisión y hasta doscientos días de multa:
 
-I.- Al que de propia autoridad y empleando violencia o furtivamente, ocupe un inmueble ajeno o haga uso de él, o de un derecho real que no le pertenezca;
+I.- Al que de propia autoridad y haciendo uso de violencia o furtivamente, ocupe un inmueble ajeno o haga uso de él, o de un derecho real que no le pertenezca;
 
-II.- Al que haciendo uso de los medios indicados en la fracción anterior, ocupe un inmueble de su propiedad en los casos en los que la Ley no lo permite por hallarse en poder de otra persona, o ejerza actos de dominio que lesionen derechos legítimos del ocupante;
+II.- Al que de propia autoridad y haciendo uso de los medios indicados en la fracción anterior, ocupe un inmueble de su propiedad en los casos en que la Ley no lo permite por hallarse en poder de otra persona, o ejerza actos de dominio que lesionen derechos legítimos del ocupante; y
 
-III.- Al que en los términos de las fracciones anteriores desvíe o haga uso de aguas propias o ajenas en los casos en que la Ley no lo permite, o haga uso de un derecho real sobre aguas que no le pertenezcan; y
+III.- Al que en los términos de las fracciones anteriores, desvíe o haga uso de aguas propias o ajenas en los casos en que la Ley no lo permite, o haga uso de un derecho real sobre aguas que no le pertenezcan.
 
-IV.- Cuando un grupo mayor de cinco personas obrando de propia autoridad, ocupe un inmueble ajeno urbano o rústico o haga uso de él, o de un derecho real que no le pertenezca, se le aplicarán de dos a ocho años de prisión y hasta doscientos días multa, pero a los actores intelectuales, o a quienes dirijan la invasión se les aplicará prisión de cuatro a diez años y de doscientos a quinientos días multa.
+La pena será aplicable aún cuando el derecho a la posesión del bien inmueble o cosa usurpada sea dudosa o esté en disputa.
 
-Las penas a que se refiere este precepto, se aplicarán aún cuando el derecho a la posesión sea dudoso.
+Cuando el despojo se realice por grupo o grupos, que en conjunto sea mayor de cinco personas, se les aplicará a los coautores la pena señalada en este artículo, pero a los instigadores y a los autores mediatos, se les aplicará una pena de cinco a diez años de prisión y de quinientos a mil días de multa.
 
-En los casos de despojo previstos en este capítulo cuando la parte ofendida sea restituida en el goce de sus derechos, se declarará extinguida la acción penal; así como cuando la ocupación esté prevista en la Ley de la Reforma Agraria o en la Ley de Tierras Ociosas.
+A quienes reincidan en la comisión de este delito se les aplicará la pena prevista para los autores mediatos e instigadores a que se refiere el párrafo anterior, conforme a los Artículos 69 y 72 de este Código.
+
+La comisión de este delito se perseguirá de oficio por la Representación Social.
+
+IV.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
 ### CAPITULO II. ASOCIACION DELICTUOSA
 
@@ -1829,9 +1839,7 @@ Atenuación de la punibilidad en virtud de receptación culposa.- Si el que reci
 
 ###### Artículo 234.
 
-Exención o disminución de pena o de arrepentimiento post-factum.- En los casos de los delitos previstos por este título, con excepción de la extorsión y de los que tengan alguna agravación, no se aplicará pena alguna si el agente restituye el objeto del delito y paga los daños y perjuicios, o no siendo posible la restitución cubre su valor y los daños y perjuicios, antes de que la autoridad investigadora tome conocimiento del ilícito, y sea la primera vez que delinque. Si antes de dictarse sentencia el inculpado hace la restitución o cubre su valor, en su caso, el producto de los daños y perjuicios correspondientes a ellos y además, una cuarta parte adicional al valor del objeto del delito, que se pagará al Estado para el mejoramiento de la administración de justicia, se reducirán las penas a la mitad de las que corresponderían por el delito cometido.
-
-En los casos del despojo se estará a lo dispuesto en el último párrafo del artículo 226 de este Código.
+Exención o disminución de pena o de arrepentimiento post-factum.- En los casos de los delitos previstos por este título, con excepción de la extorsión y de los que tengan alguna agravación, no se aplicará pena alguna si el agente restituye el objeto del delito y paga los daños y perjuicios, o no siendo posible la restitución cubre su valor y los daños y perjuicios, antes de que la autoridad investigadora tome conocimiento del ilícito, y sea la primera vez que delinque. Si antes de dictarse sentencia el inculpado hace la restitución o cubre su valor, en su caso, el producto de los daños y perjuicios correspondientes a ellos y además, una cuarta parte adicional al valor del objeto del delito, que se pagará al Estado para el mejoramiento de la Administración de Justicia, se reducirán las penas a la mitad de las que corresponderían por el delito cometido.
 
 #### SECCION SEGUNDA. DELITOS CONTRA LA FAMILIA
 
@@ -2984,3 +2992,9 @@ P.O. 24 DE DICIEMBRE DE 1993.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 8 DE JULIO DE 1994.
+
+###### ARTICULO UNICO.
+
+La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
