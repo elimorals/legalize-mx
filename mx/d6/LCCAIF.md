@@ -4,7 +4,7 @@ identifier: "LCCAIF"
 country: "mx"
 rank: "ley"
 publication_date: "1960-12-31"
-last_updated: "1983-11-04"
+last_updated: "1984-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=460&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCCAIF"
 
 LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DE LA ASOCIACION INTERNACIONAL DE FOMENTO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE NOVIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1984.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de diciembre de 1960.
 
@@ -42,11 +42,11 @@ LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDE
 
 Se aprueba el Convenio Constitutivo de la Asociación Internacional de Fomento, para los efectos de la fracción VIII del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, conforme al texto adoptado en Washington el 26 de enero de 1960.
 
-(REFORMADO, D.O.F. 4 DE NOVIEMBRE DE 1983)(F. DE E., D.O.F. 21 DE MAYO DE 1984)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 2o.
 
-El Banco de México realizará las aportaciones de México correspondientes a la Contribución Especial de la Sexta Reposición de Capital de la Asociación Internacional de Fomento hasta por la suma de 6'666,666 (seis millones seiscientos sesenta y seis mil seiscientos sesenta y seis) dólares de los Estados Unidos de América considerados al tipo de cambio vigente al 5 de octubre de 1979, la cual se adicionará a las suscripciones anteriores efectuadas por nuestro país hasta por la cantidad de 28'872,625 (veintiocho millones ochocientos setenta y dos mil seiscientos veinticinco) dólares de los Estados Unidos de América.
+El Banco de México hará la aportación de México correspondiente a la Séptima Reposición de Capital de la Asociación Internacional de Fomento hasta por la suma equivalente a 15.000,000 (Quince millones) de dólares de los Estados Unidos de América considerados al tipo de cambio de $129.43 por dólar, la cual se adicionará a las suscripciones anteriores efectuadas por nuestro país hasta por el equivalente de 35.539,291 (Treinta y cinco millones quinientos treinta y nueve mil doscientos noventa y uno) dólares de los Estados Unidos de América, considerados a los distintos tipos de cambio autorizados.
 
 ###### ARTICULO 3o.
 
@@ -113,3 +113,13 @@ D.O.F. 4 DE NOVIEMBRE DE 1983.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE DICIEMBRE DE 1984.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+La aportación de México que le corresponde en la Asociación Internacional de Fomento a que refiere el presente Decreto, se realizará de acuerdo a la Resolución 132 adoptada por la Asamblea de Gobernadores de la Asociación Internacional de Fomento el 6 de agosto de 1984.
