@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-seguridad-y-servicios-sociales-de-los-trabajadores-15838
 country: "mx"
 rank: "ley"
 publication_date: "1987-06-03"
-last_updated: "1987-06-03"
+last_updated: "1988-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 1988.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 3 de junio de 1987.
 
@@ -869,9 +869,11 @@ Esta Ley entrará en vigor el día siguiente al de su publicación en el Periód
 
 Se derogan todas las disposiciones que se opongan al cumplimiento del presente decreto.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 3o.
 
-Para efectos del Artículo 60, al entrar en vigor esta Ley, se les reconoce a los Servidores Públicos como años de aportación su número de años de servicios.
+Para los efectos del Artículo 60, al entrar en vigor esta Ley, se les reconoce a los Servidores Públicos como años de aportación su número de años de servicio, correspondiendo a la entidad pública de la que dependa el trabajador cubrir las cuotas que le corresponda por concepto de jubilación o pensión y hasta que se cumplan plenamente los términos de la Fracción I del Artículo 60 de esta Ley, a partir de la fecha en que se crea el Organismo, el Instituto asumirá esta responsabilidad.
 
 ###### ARTICULO 4o.
 
@@ -900,3 +902,11 @@ Dado en el Palacio del Poder Legislativo del Estado; en Campeche el veintinueve 
 Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado, en Campeche, a los veintinueve días del mes de mayo de mil novecientos ochenta y siete.- El Gobernador Constitucional del Estado, ABELARDO CARRILLO ZAVALA.- El Secretario de Gobierno, LIC. LUIS ROBERTO SILVA PEREZ.- El Oficial Mayor, LIC. MANUEL FLORES HERNANDEZ.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE DICIEMBRE DE 1988.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO: 178 POR EL QUE “SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE CAMPECHE”.]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
