@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2000-07-12"
+last_updated: "2000-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 2000.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 12 DE JULIO DE 2000.
 
@@ -226,11 +226,11 @@ II. (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
 
 En los casos en que una sociedad entre en liquidación, sea fusionada o se escinda, siempre que la sociedad escindente desaparezca, el ejercicio fiscal terminará anticipadamente en la fecha en que entre en liquidación, sea fusionada o se escinda, respectivamente. En el primer caso, se considerará que habrá un ejercicio por todo el tiempo en que la sociedad esté en liquidación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 12.
 
-En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de enero; el 5 de febrero; el 21 de marzo; el 1o. y 5 de mayo; el 1o. y 16 de septiembre; el 20 de noviembre; el 1o. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal, y el 25 de diciembre.
+En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de enero; el 5 de febrero; el 21 de marzo; el 1o. y 5 de mayo; el 16 de septiembre; el 20 de noviembre; el 1o. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal, y el 25 de diciembre.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -326,9 +326,9 @@ No se incumple con el requisito de permanencia accionaria previsto en esta fracc
 
 Cuando se realicen varias escisiones sucesivas o una fusión después de una escisión, el periodo de tenencia accionaria a que se refiere el inciso a) de esta fracción, se inicia a partir del año inmediato anterior a la fecha en que se presente el aviso correspondiente ante la autoridad fiscal en los términos del Reglamento de este Código, relativo a la última escisión o fusión efectuada, a que se refiere este párrafo, sin que hubiera transcurrido entre una u otra el plazo previsto en el citado primer párrafo de esta fracción.
 
-> <small>(REFORMADA , D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-II. En fusión, siempre que la sociedad que subsista o la que surja con motivo de la fusión, presente las declaraciones de impuestos del ejercicio y las informativas que en los términos establecidos por las leyes fiscales les correspondan a la sociedad o sociedades fusionadas correspondientes al ejercicio que terminó por fusión.
+II. En fusión, siempre que la sociedad que subsista o la que surja con motivo de la fusión, presente las declaraciones de impuestos del ejercicio y las informativas que en los términos establecidos por las leyes fiscales les correspondan a la sociedad o sociedades fusionadas correspondientes al ejercicio que terminó por fusión y se presente ante la autoridad fiscal el aviso establecido en los términos del Reglamento de este Código.
 
 III. En las operaciones de préstamos de títulos o valores por la entrega de los bienes prestados al prestatario y por la restitución de los mismos al prestamista, siempre que efectivamente se restituyan los bienes a más tardar al vencimiento de la operación y las mismas se realicen de conformidad con las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público.
 
@@ -339,6 +339,14 @@ En los casos de fusión o escisión de sociedades, cuando la sociedad escindente
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 En las declaraciones del ejercicio a que se refieren la fracción II y el párrafo anterior, correspondiente a la fusionada o a la escindente que desaparezcan, se deberán considerar todos los ingresos acumulables y las deducciones autorizadas, el importe total de los actos o actividades gravados y exentos y de los acreditamientos, el valor de todos sus activos o deudas, según corresponda, que la misma tuvo desde el inicio del ejercicio y hasta el día de su desaparición. En este caso, se considerará como fecha de terminación del ejercicio aquélla que corresponda a la fusión o escisión.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+Lo dispuesto en las fracciones I y II de este artículo sólo se aplicará tratándose de escisión o fusión de sociedades constituidas de conformidad con las leyes mexicanas.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+En el caso de incumplimiento de cualquiera de los requisitos establecidos en este artículo, la enajenación se entenderá realizada en el momento en que ocurrió la escisión o la fusión o se realizaron las operaciones de préstamo de títulos o valores, según se trate.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -508,6 +516,10 @@ VI. Describir las razones de negocio que motivan la operación planteada.
 
 VII. Indicar si los hechos o circunstancias sobre los que versa la promoción han sido planteados ante una autoridad fiscal distinta a la que recibió la promoción o ante autoridades administrativas o judiciales y, en su caso, el sentido de la resolución.
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+VIII. Indicar si el contribuyente se encuentra sujeto al ejercicio de las facultades de comprobación por parte de la Secretaría de Hacienda y Crédito Público o por las Entidades Federativas coordinadas en ingresos federales, señalando los periodos y las contribuciones, objeto de la revisión.
+
 Cuando no se cumplan los requisitos a que se refiere este artículo, se estará a lo dispuesto en el artículo 18, penúltimo párrafo de este Código.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
@@ -670,13 +682,13 @@ El promedio actualizado de las devoluciones obtenidas en los últimos doce meses
 
 Una vez otorgada la garantía, se procederá a poner a disposición del contribuyente la devolución solicitada y, en su caso, los intereses. En caso de que la devolución resulte improcedente, y una vez que se hubiere notificado al contribuyente la resolución respectiva, las autoridades fiscales darán el aviso a que se refiere la fracción II del artículo 141-A de este Código. El importe transferido a la Tesorería de la Federación, se tomará a cuenta del adeudo que proceda de conformidad con el párrafo décimo del presente artículo. Transcurrido el plazo de seis meses a que se refiere el párrafo cuarto sin que se presente dicho aviso, el contribuyente podrá retirar el importe de la garantía y sus rendimientos.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-El fisco federal deberá pagar la devolución que proceda actualizada conforme a lo previsto en el artículo 17-A de este Código, desde el mes en que se realizó el pago de lo indebido o se presentó la declaración que contenga el saldo a favor hasta aquél en que la devolución esté a disposición del contribuyente. Se entenderá que la devolución está a disposición del contribuyente a partir de la fecha en que la autoridad efectúe el depósito en la institución bancaria señalada en la solicitud de devolución o se notifique a dicho contribuyente la autorización de la devolución respectiva, cuando no haya señalado la cuenta bancaria en que se debe efectuar el depósito. Si la devolución no se efectuare dentro de los plazos indicados, computados en los términos del tercer párrafo de este artículo, las autoridades fiscales pagarán intereses que se calcularán a partir del día siguiente al del vencimiento de dichos plazos, según se trate, conforme a una tasa que será igual a la prevista para los recargos por mora, en los términos del artículo 21 de este Código que se aplicará sobre la devolución actualizada. Cuando el fisco federal deba pagar intereses a los contribuyentes sobre las cantidades actualizadas que les deba devolver, pagará dichos intereses conjuntamente con la cantidad principal objeto de la devolución actualizada.
+El fisco federal deberá pagar la devolución que proceda actualizada conforme a lo previsto en el artículo 17-A de este Código, desde el mes en que se realizó el pago de lo indebido o se presentó la declaración que contenga el saldo a favor hasta aquél en que la devolución esté a disposición del contribuyente. Se entenderá que la devolución está a disposición del contribuyente a partir de la fecha en que la autoridad efectúe el depósito en la institución bancaria señalada en la solicitud de devolución o se notifique a dicho contribuyente la autorización de la devolución respectiva, cuando no haya señalado la cuenta bancaria en que se debe efectuar el depósito. Cuando el contribuyente presente solicitud de devolución del pago de lo indebido, y ésta no se efectúe en los plazos indicados en el tercer párrafo de este artículo, o se niega y posteriormente es concedida por la autoridad en cumplimiento de una resolución dictada en un recurso administrativo o por un órgano jurisdiccional, las autoridades fiscales pagarán intereses que se calcularán a partir del día siguiente al del vencimiento de dichos plazos, o de que hubiera surtido efectos la notificación de la resolución por la que se negó la devolución solicitada, según se trate, conforme a una tasa que será igual a la prevista para los recargos por mora, en los términos del artículo 21 de este Código que se aplicará sobre la devolución actualizada. Cuando el fisco federal deba pagar intereses a los contribuyentes sobre las cantidades actualizadas que les deba devolver, pagará dichos intereses conjuntamente con la cantidad principal objeto de la devolución actualizada.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-El contribuyente que habiendo efectuado el pago de una contribución determinada por él mismo o por la autoridad, interponga oportunamente los medios de defensa que las leyes establezcan y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a obtener del fisco federal la devolución de dichas cantidades y el pago de intereses conforme a una tasa que será igual a la prevista para los recargos por mora en los términos del artículo 21 de este Código, sobre las cantidades actualizadas que se hayan pagado indebidamente y a partir de que se efectuó el pago. La devolución a que se refiere este párrafo se aplicará primero a intereses y, posteriormente, a las cantidades pagadas indebidamente. En lugar de solicitar la devolución a que se refiere este párrafo, el contribuyente podrá compensar las cantidades a su favor, incluyendo los intereses, contra cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor. Tratándose de contribuciones que tengan un fin específico sólo podrán compensarse contra la misma contribución.
+En los casos distintos a los previstos en el párrafo anterior, en los que el contribuyente obtenga el derecho a la devolución del pago de lo indebido, por así disponerlo una resolución dictada en un recurso administrativo o por un órgano jurisdiccional, las autoridades fiscales pagarán intereses que se calcularán a partir del día en que se hubiera presentado el primer medio de impugnación que dio origen a la emisión de la resolución que ordenó la devolución o de la cual se deriva la obligación de la autoridad de hacer la devolución, conforme a una tasa que será igual a la prevista para los recargos por mora en los términos del artículo 21 de este Código, sobre las cantidades actualizadas que se hayan pagado indebidamente. La devolución a que se refiere este párrafo se aplicará primero a intereses y, posteriormente, a las cantidades pagadas indebidamente. En lugar de solicitar la devolución a que se refiere este párrafo, el contribuyente podrá compensar las cantidades a su favor, incluyendo los intereses, contra cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor. Tratándose de contribuciones que tengan un fin específico sólo podrán compensarse contra la misma contribución.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -756,13 +768,19 @@ III. Los liquidadores y síndicos por las contribuciones que debieron pagar a ca
 
 No será aplicable lo dispuesto en el párrafo anterior, cuando la sociedad en liquidación cumpla con las obligaciones de presentar los avisos y de proporcionar los informes a que se refiere este Código y su Reglamento.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-La persona o personas cualquiera que sea el nombre con que se les designe, que tengan conferida la dirección general, la gerencia general, o la administración única de las sociedades mercantiles, serán responsables solidarios por las contribuciones causadas o no retenidas por dichas sociedades durante su gestión, así como por las que debieron pagarse o enterarse durante la misma, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la sociedad que dirigen, cuando dicha sociedad incurra en cualquiera de los siguientes supuestos.
+La persona o personas cualquiera que sea el nombre con que se les designe, que tengan conferida la dirección general, la gerencia general, o la administración única de las personas morales, serán responsables solidarios por las contribuciones causadas o no retenidas por dichas personas morales durante su gestión, así como por las que debieron pagarse o enterarse durante la misma, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la persona moral que dirigen, cuando dicha persona moral incurra en cualquiera de los siguientes supuestos:
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 a). No solicite su inscripción en el registro federal de contribuyentes.
 
-b). Cambie su domicilio sin presentar el aviso correspondiente en los términos del reglamento de este Código, siempre que dicho cambio se efectúe después de que se le hubiera notificado el inicio de una visita y antes de que se haya notificado la resolución que se dicte respecto de la misma, o cuando el cambio se realice después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya cubierto o hubiera quedado sin efectos.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+b) Cambie su domicilio sin presentar el aviso correspondiente en los términos del Reglamento de este Código, siempre que dicho cambio se efectúe después de que se le hubiera notificado el inicio del ejercicio de las facultades de comprobación previstas en este Código y antes de que se haya notificado la resolución que se dicte con motivo de dicho ejercicio, o cuando el cambio se realice después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya cubierto o hubiera quedado sin efectos.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 c). No lleve contabilidad, la oculte o la destruya.
 
@@ -900,9 +918,9 @@ Cuando las leyes fiscales establezcan la obligación de expedir comprobantes por
 
 Los comprobantes a que se refiere el párrafo anterior deberán ser impresos en los establecimientos que autorice la Secretaría de Hacienda y Crédito Público que cumplan con los requisitos que al efecto se establezcan mediante reglas de carácter general. Las personas que tengan establecimientos a que se refiere este párrafo deberán proporcionar a la Secretaría de Hacienda y Crédito Público la información relativa a sus clientes, a través de medios magnéticos, en los términos que fije dicha dependencia mediante disposiciones de carácter general.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-Para poder deducir o acreditar fiscalmente con base en los comprobantes a que se refiere el párrafo anterior, quien los utilice deberá cerciorarse de que el nombre, denominación o razón social y clave del registro federal de contribuyentes de quien aparece en los mismos son los correctos.
+Para poder deducir o acreditar fiscalmente con base en los comprobantes a que se refiere el párrafo anterior, quien los utilice deberá cerciorarse de que el nombre, denominación o razón social y clave del Registro Federal de Contribuyentes de quien aparece en los mismos son los correctos, así como verificar que el comprobante contiene los datos previstos en el artículo 29-A de este Código.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -984,6 +1002,30 @@ No será necesario que las mercancías en transporte se acompañen con la docume
 
 La verificación del cumplimiento de la obligación a que se refiere este artículo, sólo podrá efectuarse por las autoridades competentes, de conformidad con las Leyes Fiscales Federales.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 29-C.
+
+Las personas que conforme a las disposiciones fiscales estén obligadas a llevar contabilidad y que efectúen el pago de adquisiciones de bienes, del uso o goce temporal de bienes, o de la prestación de servicios, mediante cheque nominativo para abono en cuenta del beneficiario, podrán optar por considerar como comprobante fiscal para los efectos de las deducciones o acreditamientos autorizados en las leyes fiscales, el cheque original pagado por el librado, siempre que les haya sido devuelto por la institución de crédito correspondiente y cumplan lo siguiente:
+
+I. Consignen en el reverso del cheque la clave del Registro Federal de Contribuyentes de la persona a favor de quien se libre el cheque y, en su caso, señalen en forma expresa y por separado el impuesto al valor agregado trasladado al librador por la adquisición, el uso o goce, o la prestación del servicio, según corresponda, identificado por las distintas tasas aplicables según el acto o actividad de que se trate.
+
+II. Cuenten con el documento que permita hacer el registro contable de la operación.
+
+III. Registren en la contabilidad, de conformidad con el Reglamento de este Código, la operación que ampare el cheque librado.
+
+IV. Vinculen el cheque librado directamente con la adquisición del bien, con el uso o goce, o con la prestación del servicio de que se trate y con la operación registrada en la contabilidad, en los términos del artículo 26 del Reglamento de este Código.
+
+V. Conserven el original del cheque librado y el original del estado de cuenta respectivo, durante el plazo que establece el artículo 30 de este Código.
+
+Cuando el contribuyente efectúe el pago de los bienes, su uso o goce o la prestación de servicios a que se refiere este artículo, mediante traspasos de cuentas en instituciones de crédito o casas de bolsa, podrá optar por considerar como comprobante fiscal para los efectos de las deducciones o acreditamientos autorizados en las leyes fiscales, el original del estado de cuenta que al efecto expida la institución de crédito o casa de bolsa, siempre que dicho estado de cuenta contenga la clave del Registro Federal de Contribuyentes de quien enajene los bienes, otorgue su uso o goce, o preste el servicio, y el impuesto al valor agregado se señale en el estado de cuenta como un traspaso distinto al del valor del acto o actividad por el que se deba pagar dicho impuesto.
+
+Los contribuyentes que opten por aplicar lo dispuesto en este artículo, además de los requisitos establecidos en el mismo, deberán cumplir con los requisitos que en materia de documentación, cheques y estados de cuenta, establezca la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
+
+Lo dispuesto en este artículo no será aplicable tratándose del pago de bienes, uso o goce, o servicios, por los que se deban retener impuestos en los términos de las disposiciones fiscales ni en los casos en que se trasladen impuestos distintos al impuesto al valor agregado.
+
+Lo dispuesto en este artículo se aplicará sin perjuicio de las demás obligaciones que en materia de contabilidad deban cumplir los contribuyentes.
+
 ###### Artículo 30.
 
 Las personas obligadas a llevar contabilidad deberán conservarla en el lugar a que se refiere la fracción III del artículo 28 de este Código a disposición de las autoridades fiscales.
@@ -1038,19 +1080,17 @@ Los usuarios de los servicios mencionados, así como los cuentahabientes de las 
 
 Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de registro federal de contribuyentes, declaraciones o avisos, ante las autoridades fiscales, así como expedir constancias o documentos, lo harán en las formas que al efecto apruebe la Secretaría de Hacienda y Crédito Público, debiendo proporcionar el número de ejemplares, los datos e informes y adjuntar los documentos que dichas formas requieran.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-Los contribuyentes que estén obligados a presentar pagos provisionales mensuales de conformidad con las leyes fiscales respectivas, en lugar de utilizar las formas de declaración a que se refiere el párrafo anterior, deberán presentar las declaraciones correspondientes a través de medios electrónicos, en los términos que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general. Adicionalmente, los contribuyentes podrán presentar la declaración correspondiente en las formas aprobadas por la citada dependencia, para obtener el sello o impresión de la máquina registradora de la oficina autorizada que reciba el pago, debiendo cumplir los requisitos que dicha Secretaría señale mediante reglas de carácter general.
+Los contribuyentes que estén obligados a presentar pagos provisionales mensuales de conformidad con las leyes fiscales respectivas, en lugar de utilizar las formas a que se refiere el párrafo anterior, deberán presentar, a través de medios electrónicos, las declaraciones, o los avisos establecidos en las disposiciones fiscales que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, y cumplir los requisitos que se establezcan en dichas reglas para tal efecto. Adicionalmente, los contribuyentes podrán presentar las declaraciones o avisos correspondientes en las formas aprobadas por la citada dependencia, para obtener el sello o impresión de la máquina registradora de la oficina autorizada que reciba el documento de que se trate, debiendo cumplir los requisitos que dicha Secretaría señale mediante reglas de carácter general. Los contribuyentes distintos de los anteriores podrán presentar a través de medios electrónicos declaraciones y avisos, en los casos y reuniendo los requisitos que establezca la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-En los casos en que las formas para la presentación de las declaraciones o avisos y expedición de constancias, que prevengan las disposiciones fiscales, no hubieran sido aprobadas por la Secretaría de Hacienda y Crédito Público, los obligados a presentarlas las formularán en escrito por triplicado que contenga su nombre, denominación o razón social, domicilio y clave de registro federal de contribuyentes, así como el ejercicio y los datos relativos a la obligación que pretendan cumplir; en caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
+En los casos en que las formas para la presentación de las declaraciones o avisos y expedición de constancias, que prevengan las disposiciones fiscales, no hubieran sido aprobadas y publicadas en el Diario Oficial de la Federación por la Secretaría de Hacienda y Crédito Público a más tardar un mes antes de la fecha en que el contribuyente esté obligado a utilizarlas, los obligados a presentarlas deberán utilizar las últimas formas publicadas por la citada dependencia y, si no existiera forma publicada, las formularán en escrito por triplicado que contenga su nombre, denominación o razón social, domicilio y clave del Registro Federal de Contribuyentes, así como el ejercicio y los datos relativos a la obligación que pretendan cumplir; en caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, continuarán haciéndolo en tanto no presenten los avisos que correspondan para efectos del registro federal de contribuyentes. Tratándose de las declaraciones de pago provisional, los contribuyentes deberán presentar dichas declaraciones siempre que haya cantidad a pagar o saldo a favor, así como la primera declaración sin pago. Cuando se presente una declaración de pago provisional sin impuesto a cargo o sin saldo a favor, se presumirá que no existe impuesto a pagar en las declaraciones de pago provisional posteriores y no se presentarán las siguientes declaraciones de pago provisional del ejercicio de que se trate, hasta que exista cantidad a pagar o saldo a favor en alguna de ellas o se inicie un nuevo ejercicio, siempre que en los supuestos a que se refiere este párrafo se cumpla con los requisitos que establezca la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
-
-> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el país, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones, están obligados a formular y presentar a nombre de sus representadas, las declaraciones, avisos y demás documentos que señalen las disposiciones fiscales.
 
@@ -1208,6 +1248,14 @@ IV. Proporcionar en los términos de la Ley de Instituciones de Crédito y por c
 
 V. Verificar el nombre, denominación o razón social, domicilio y clave del registro federal de contribuyentes o la que la sustituya de sus cuentahabientes.
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+VI. Devolver al librador los cheques nominativos pagados, librados para abono en cuenta del beneficiario, cuando aquél lo solicite, siempre que en los mismos se hubiesen consignado los datos a que se refiere la fracción I del artículo 29-C de este Código. La institución de crédito deberá efectuar la devolución de los cheques librados dentro de los dos meses siguientes a la fecha en que se paguen, siempre que el librador cumpla las condiciones pactadas con la institución de crédito para obtener la devolución de los cheques.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+VII. Expedir los estados de cuenta a que se refiere el segundo párrafo del artículo 29-C de este Código, con los requisitos que al efecto emita la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
+
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 32-C.
@@ -1223,6 +1271,12 @@ La notificación a que se refiere este artículo se realizará por cualquiera de
 ###### Artículo 32-D.
 
 La Administración Pública Federal, Centralizada y Paraestatal, así como la Procuraduría General de la República en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública, con los contribuyentes que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales, de conformidad con las disposiciones de este Código y las leyes tributarias. Igual obligación tendrán las entidades federativas cuando realicen dichas contrataciones con cargo total o parcial a fondos federales.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 32-E.
+
+Las casas de bolsa deberán expedir los estados de cuenta a que se refiere el segundo párrafo del artículo 29-C de este Código, con los requisitos que al efecto emita la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
 
 ## TITULO III. De las Facultades de las Autoridades Fiscales
 
@@ -1312,9 +1366,11 @@ La validez de las resoluciones podrá condicionarse al cumplimiento de requisito
 
 Los funcionarios fiscales facultados debidamente podrán dar a conocer a las diversas dependencias el criterio que deberán seguir en cuanto a la aplicación de las disposiciones fiscales, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos cuando se publiquen en el Diario Oficial de la Federación.
 
+> <small>(REFORMADO PRIMER PARRAFO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 36.
 
-Las resoluciones administrativas de carácter individual favorables a un particular sólo podrán ser modificadas por el Tribunal Fiscal de la Federación mediante juicio iniciado por las autoridades fiscales.
+Las resoluciones administrativas de carácter individual favorables a un particular sólo podrán ser modificadas por el Tribunal Federal de Justicia Fiscal y Administrativa mediante juicio iniciado por las autoridades fiscales.
 
 Cuando la Secretaría de Hacienda y Crédito Público modifique las resoluciones administrativas de carácter general, estas modificaciones no comprenderán los efectos producidos con anterioridad a la nueva resolución.
 
@@ -1730,9 +1786,19 @@ V. Si al cierre del acta de visita domiciliaria el visitado o la persona con qui
 
 VI. Si con motivo de la visita domiciliaria a que se refiere este artículo, las autoridades conocieron incumplimientos a las disposiciones fiscales, se procederá a la formulación de la resolución correspondiente. Si se observa que el visitado no se encuentra inscrito en dicho registro, la autoridad requerirá los datos necesarios para su inscripción, sin perjuicio de las sanciones y demás consecuencias legales derivadas de dicha omisión.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 50.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1982)
+Las autoridades fiscales que al practicar visitas a los contribuyentes o al ejercer las facultades de comprobación a que se refiere el artículo 48 de este Código, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución que se notificará personalmente al contribuyente, dentro de un plazo máximo de seis meses contado a partir de la fecha en que se levante el acta final de la visita o, tratándose de la revisión de la contabilidad de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que concluyan los plazos a que se refieren las fracciones VI y VII del artículo 48 de este Código.
+
+El plazo previsto en el párrafo anterior no es aplicable a aquellos contribuyentes respecto de los cuales las autoridades fiscales no están sujetas al plazo a que se refiere el primer párrafo del artículo 46-A de este Código.
+
+El plazo para emitir la resolución a que se refiere este artículo se suspenderá en los casos previstos en las fracciones I, II y III del artículo 46-A de este Código.
+
+Si durante el plazo para emitir la resolución de que se trate, los contribuyentes interponen algún medio de defensa en el país o en el extranjero, contra el acta final de visita o del oficio de observaciones de que se trate, dicho plazo se suspenderá desde la fecha en que se interpongan los citados medios de defensa y hasta que se dicte resolución definitiva de los mismos.
+
+Cuando las autoridades no emitan la resolución correspondiente dentro del plazo mencionado, quedará sin efectos la orden y las actuaciones que se derivaron durante la visita o revisión de que se trate.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -2100,9 +2166,11 @@ Los contribuyentes, transcurridos los plazos a que se refiere este artículo, po
 
 Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos que la negativa implique la afirmación de otro hecho.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 69.
 
-El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales federales, a las autoridades judiciales en procesos del orden penal o a los Tribunales competentes que conozcan de pensiones alimenticias, o en el supuesto previsto en el artículo 63 de este Código.
+El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquéllos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales federales, a las autoridades judiciales en procesos del orden penal o a los Tribunales competentes que conozcan de pensiones alimenticias, o en el supuesto previsto en el artículo 63 de este Código. Dicha reserva tampoco comprenderá la información relativa a los créditos fiscales exigibles de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público de conformidad con la Ley de Agrupaciones Financieras.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -2308,7 +2376,9 @@ Si las autoridades fiscales determinan contribuciones omitidas mayores que las c
 
 El pago de las multas en los términos de la fracción I de este artículo se podrá efectuar en forma total o parcial por el infractor sin necesidad de que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que apruebe la Secretaría de Hacienda y Crédito Público.
 
-También se aplicarán las multas a que se refiere este precepto, cuando las infracciones consistan en devoluciones, acreditamientos o compensaciones, indebidos o en cantidad mayor de la que corresponda. En estos casos las multas se calcularán sobre el monto del beneficio indebido.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+También se aplicarán las multas a que se refiere este precepto, cuando las infracciones consistan en devoluciones, acreditamientos o compensaciones, indebidos o en cantidad mayor de la que corresponda. En estos casos las multas se calcularán sobre el monto del beneficio indebido actualizado desde el mes en que se obtuvo dicho beneficio, hasta aquél en que las autoridades fiscales dicten resolución en la que apliquen la multa, o bien, hasta el mes en que el infractor efectúe el pago de la misma, cuando éste se realice en los términos del párrafo anterior. Lo anterior, sin perjuicio de lo dispuesto en el segundo párrafo del artículo 70 de este Código.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2324,13 +2394,17 @@ En los casos a que se refiere el artículo 76 de este Código, las multas se aum
 
 I. Se aumentarán:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-a). En un 20% del monto de las contribuciones omitidas o del beneficio indebido, cada vez que el infractor haya reincidido o cuando se trate del agravante señalado en la fracción IV del artículo 75.
+a) De un 20% a un 30% del monto de las contribuciones omitidas o del beneficio indebido, cada vez que el infractor haya reincidido o cuando se trate del agravante señalado en la fracción IV del artículo 75.
 
-b). En un 60% del monto de las contribuciones omitidas o del beneficio indebido, cuando en la comisión de la infracción se dé alguno de los agravantes señalados en la fracción II del artículo 75 de este Código.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-c). En una cantidad igual al 50% del importe de las contribuciones retenidas o recaudadas y no enteradas, cuando se incurra en la agravante a que se refiere la fracción III del artículo 75 de este Código.
+b) De un 60% a un 90% del monto de las contribuciones omitidas o del beneficio indebido, cuando en la comisión de la infracción se dé alguno de los agravantes señalados en la fracción II del artículo 75 de este Código.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+c) De un 50% a un 75% del importe de las contribuciones retenidas o recaudadas y no enteradas, cuando se incurra en la agravante a que se refiere la fracción III del artículo 75 de este Código.
 
 > <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
 
@@ -2340,9 +2414,9 @@ II. Se disminuirán:
 
 a). (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-b). En un 20% el monto de las contribuciones omitidas o del beneficio indebido; en el caso de la fracción II del artículo 76 y siempre que el infractor pague o devuelva los mismos con sus accesorios, dentro de los cuarenta y cinco días siguientes a la fecha en que surta efectos la notificación de la resolución respectiva. Para aplicar la reducción contenida en este inciso no se requiere modificar la resolución que impuso la multa.
+b) De un 20% a un 30% del monto de las contribuciones omitidas o del beneficio indebido, en el caso de la fracción II del artículo 76 y siempre que el infractor pague o devuelva los mismos con sus accesorios, dentro de los cuarenta y cinco días siguientes a la fecha en que surta efectos la notificación de la resolución respectiva. Para aplicar la reducción contenida en este inciso no se requiere modificar la resolución que impuso la multa.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2408,7 +2482,7 @@ II. De $2,102.00 a $4,204.00, a la comprendida en la fracción III, salvo tratá
 
 > <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2000, D.O.F. DEL 12 DE JULIO DE 2000.</small>
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997
 
 III. Para la señalada en la fracción IV:
 
@@ -2442,9 +2516,9 @@ Son infracciones relacionadas con la obligación de pago de las contribuciones, 
 
 I. No presentar las declaraciones, las solicitudes, los avisos o las constancias que exijan las disposiciones fiscales, o no hacerlo a través de los medios electrónicos que señale la Secretaría de Hacienda y Crédito Público o presentarlos a requerimiento de las autoridades fiscales. No cumplir los requerimientos de las autoridades fiscales para presentar alguno de los documentos o medios electrónicos a que se refiere esta fracción, o cumplirlos fuera de los plazos señalados en los mismos.
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-II. Presentar las declaraciones, las solicitudes, los avisos, o expedir constancias, incompletos, con errores o en forma distinta a lo señalado por las disposiciones fiscales, o bien cuando se presenten con dichas irregularidades, las declaraciones en medios electrónicos. Lo anterior no será aplicable tratándose de la presentación de la solicitud de inscripción al Registro Federal de Contribuyentes.
+II. Presentar las declaraciones, las solicitudes, los avisos, o expedir constancias, incompletos, con errores o en forma distinta a lo señalado por las disposiciones fiscales, o bien cuando se presenten con dichas irregularidades, las declaraciones o los avisos en medios electrónicos. Lo anterior no será aplicable tratándose de la presentación de la solicitud de inscripción al Registro Federal de Contribuyentes.
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -2466,9 +2540,9 @@ VI. No presentar aviso de cambio de domicilio o presentarlo fuera de los plazos 
 
 VII. Presentar declaración de pago provisional sin cantidad a pagar o sin saldo a favor, siempre que la declaración de pago provisional inmediata anterior haya sido presentada sin cantidad a pagar o sin saldo a favor.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-VIII. No presentar la información a que se refieren los artículos 17 de la Ley del Impuesto sobre Tenencia o Uso de Vehículos o 19, fracciones VIII, IX y XII y 26-M, fracción XII, de la Ley del Impuesto Especial sobre Producción y Servicios, dentro del plazo previsto en dichos preceptos, o no presentarla conforme lo establecen los mismos.
+VIII. No presentar la información a que se refieren los artículos 17 de la Ley del Impuesto sobre Tenencia o Uso de Vehículos o 19, fracciones VIII, IX y XII, de la Ley del Impuesto Especial sobre Producción y Servicios, dentro del plazo previsto en dichos preceptos, o no presentarla conforme lo establecen los mismos.
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2510,13 +2584,11 @@ XVII. No presentar la declaración informativa de las operaciones efectuadas con
 
 XVIII. No proporcionar la información a que se refieren los artículos 19, fracciones II, tercer párrafo y XIII y 26-M, fracciones III y IV, de la Ley del Impuesto Especial sobre Producción y Servicios.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-XIX. No proporcionar la información a que se refieren los artículos 19, fracciones X y XVI y 26-M, fracciones V y VI, de la Ley del Impuesto Especial sobre Producción y Servicios.
+XIX. No proporcionar la información a que se refieren los artículos 19, fracción X y 26-M, fracciones V y VI, de la Ley del Impuesto Especial sobre Producción y Servicios.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-XX. No colocar aparatos de control volumétrico en los equipos de producción o envasamiento a que se refiere el artículo 19, fracción XVI de la Ley del Impuesto Especial sobre Producción y Servicios.
+XX. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2000)
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -2688,17 +2760,15 @@ CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIO
 
 XIX. De $7,796.00 a $15,591.00, para la establecida en la fracción XIX.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2000, D.O.F. DEL 12 DE JULIO DE 2000.</small>
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-XX. De $17,907.00 a $35,814.00, para la establecida en la fracción XX.
+XX. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2000)
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2000, D.O.F. DEL 12 DE JULIO DE 2000.</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 XXI. De $59,690.00 a $119,381.00, para la establecida en la fracción XXI.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2000, D.O.F. DEL 12 DE JULIO DE 2000.</small>
 
 XXII. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
@@ -2786,7 +2856,7 @@ III. De $153.00 a $2,877.00 a la señalada en la fracción IV.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-IV. De $8,357.00 a $47,752.00, a la señalada en la fracción VII, salvo tratándose de contribuyentes que tributen conforme al Título IV, Capítulo VI, Secciones II o III, de la Ley del Impuesto sobre la Renta, cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de $1,193,810.00, supuestos en los que la multa será de $836.00 a $1,671.00. Las autoridades fiscales podrán, además clausurar preventivamente el establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+IV. De $8,357.00 a $47,752.00, a la señalada en la fracción VII, salvo tratándose de contribuyentes que tributen conforme al Título IV, Capítulo VI, Secciones II o III, de la Ley del Impuesto sobre la Renta, cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de $1,193,810.00, supuestos en los que la multa será de $836.00 a $1,671.00. Las autoridades fiscales podrán, ademas clausurar preventivamente el establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2000, D.O.F. DEL 12 DE JULIO DE 2000.</small>
 
@@ -2856,6 +2926,14 @@ V. Asentar incorrectamente o no asentar en los contratos respectivos el nombre, 
 
 VI. No transferir a la Tesorería de la Federación el importe de la garantía y sus rendimientos, dentro del plazo a que se refiere el artículo 141-A, fracción II de este Código.
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+VII. No devolver en el plazo a que se refiere la fracción VI del artículo 32-B de este Código, los cheques nominativos pagados, librados para abono en cuenta del beneficiario, cuando así lo hubiese solicitado el librador de los mismos y éste haya cumplido las condiciones pactadas con la institución de crédito para obtener la devolución de los cheques.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+VIII. No expedir los estados de cuenta a que se refiere el segundo párrafo del artículo 29-C de este Código, con los requisitos a que se refiere la fracción VII del artículo 32-B de este Código.
+
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### Artículo 84-B.
@@ -2892,6 +2970,14 @@ V. De $3,130.00 a $46,956.00, a la establecida en la fracción V.
 
 VI. De $11,938.00 a $35,814.00, a la establecida en la fracción VI.
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+VII. De $50.00 a $100.00 por cada cheque no devuelto en el plazo a que se refiere la fracción VI del artículo 32-B de este Código, a la señalada en la fracción VII.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+VIII. De $50.00 a $100.00 por cada traspaso asentado en un estado de cuenta que no cumpla (sic) los requisitos señalados en la fracción VII del artículo 32-B de este Código, a la señalada en la fracción VIII.
+
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 84-C.
@@ -2919,6 +3005,18 @@ Se considera infracción en la que pueden incurrir las empresas en relación a l
 ###### Artículo 84-F.
 
 De $3,130.00 a $31,304.00, a quien cometa la infracción a que se refiere el artículo 84-E.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 84-G.
+
+Se considera infracción en la que pueden incurrir las casas de bolsa en relación con las obligaciones a que se refiere el artículo 32-E de este Código, el no expedir los estados de cuenta a que se refiere el segundo párrafo del artículo 29-C de dicho ordenamiento, con los requisitos que al efecto emita la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 84-H.
+
+A la casa de bolsa que cometa la infracción a que se refiere el artículo 84-G de este Código se le impondrá una multa de $50.00 a $100.00 por cada traspaso asentado en un estado de cuenta que no cumpla (sic) los requisitos a que se refiere el artículo 32-E de este Código.
 
 ###### Artículo 85.
 
@@ -2953,6 +3051,8 @@ A quien cometa las infracciones relacionadas con el ejercicio de las facultades 
 l. De $8,252.00 a $24,757.00, a la comprendida en la fracción l.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2000, D.O.F. DEL 12 DE JULIO DE 2000.</small>
+
+> <small>(REFORMADA POR ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -2994,7 +3094,7 @@ II. Hacer cualquier uso diferente de los marbetes o precintos al de adherirlos a
 
 III. Poseer por cualquier título bebidas alcohólicas, cuyos envases o recipientes carezcan del marbete o precinto correspondiente, así como no cerciorarse de que las citadas bebidas cuentan con el marbete o precinto correspondiente al momento de adquirirlas, salvo en los casos en que de conformidad con las disposiciones fiscales no se tenga obligación de adherirlos, ambas en términos de lo dispuesto en el artículo 26-M, fracción II, de la Ley del Impuesto Especial sobre Producción y Servicios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER FRACCIÓN I ARTÍCULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER FRACCION I ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -3342,9 +3442,9 @@ XII. Con el objeto de obtener un beneficio indebido en perjuicio del fisco feder
 
 XIII. Presente o haya presentado ante las autoridades aduaneras documentación falsa que acompañe al pedimento o factura.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-La persona que no declare en la aduana a la entrada al país que lleva consigo cantidades en efectivo o en cheques, o una combinación de ambas, superiores al equivalente en la moneda o monedas de que se trate a treinta mil dólares de los Estados Unidos de América se le sancionará con pena de prisión de tres meses a seis años. En caso de que se dicte sentencia condenatoria por autoridad competente respecto de la comisión del delito a que se refiere este párrafo, el excedente de la cantidad antes mencionada pasará a ser propiedad del fisco federal, excepto que la persona de que se trate demuestre el origen lícito de dichos recursos.
+La persona que no declare en la aduana a la entrada al país o a la salida del mismo, que lleva consigo cantidades en efectivo o en cheques, o una combinación de ambas, superiores al equivalente en la moneda o monedas de que se trate a treinta mil dólares de los Estados Unidos de América se le sancionará con pena de prisión de tres meses a seis años. En caso de que se dicte sentencia condenatoria por autoridad competente respecto de la comisión del delito a que se refiere este párrafo, el excedente de la cantidad antes mencionada pasará a ser propiedad del fisco federal, excepto que la persona de que se trate demuestre el origen lícito de dichos recursos.
 
 ###### Artículo 106.
 
@@ -3600,11 +3700,11 @@ d). Determinen el valor de los bienes embargados a que se refiere el artículo 1
 
 (DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 120.
 
-La interposición del recurso de revocación será optativa para el interesado antes de acudir al Tribunal Fiscal de la Federación.
+La interposición del recurso de revocación será optativa para el interesado antes de acudir al Tribunal Federal de Justicia Fiscal y Administrativa.
 
 Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que sea competente.
 
@@ -3680,9 +3780,9 @@ I. Que no afecten el interés jurídico del recurrente.
 
 II. Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de éstas o de sentencias.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-III. Que hayan sido impugnados ante el Tribunal Fiscal de la Federación.
+III. Que hayan sido impugnados ante el Tribunal Federal de Justicia Fiscal y Administrativa.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -3698,9 +3798,9 @@ VI. En caso de que no se amplíe el recurso administrativo o si en la ampliació
 
 VII. Si son revocados los actos por la autoridad.
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-VIII. Que hayan sido dictados por la autoridad administrativa en un procedimiento de resolución de controversias previsto en un tratado para evitar la doble tributación, si dicho procedimiento se inició con posterioridad a la resolución que resuelve un recurso de revocación o después de la conclusión de un juicio ante el Tribunal Fiscal de la Federación.
+VIII. Que hayan sido dictados por la autoridad administrativa en un procedimiento de resolución de controversias previsto en un tratado para evitar la doble tributación, si dicho procedimiento se inició con posterioridad a la resolución que resuelve un recurso de revocación o después de la conclusión de un juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -3720,17 +3820,15 @@ III. Cuando de las constancias que obran en el expediente administrativo quede d
 
 IV. Cuando hayan cesado los efectos del acto o resolución impugnada.
 
-(REUBICADO Y REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 125.
 
-El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente contra dicho acto, juicio ante el Tribunal Fiscal de la Federación. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro, a excepción de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos.
+El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente contra dicho acto, juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro, a excepción de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos.
 
-Si la resolución dictada en el recurso de revocación se combate ante el Tribunal Fiscal de la Federación, la impugnación del acto conexo deberá hacerse valer ante la sala regional del Tribunal Fiscal que conozca del juicio respectivo.
+Si la resolución dictada en el recurso de revocación se combate ante el Tribunal Federal de Justicia Fiscal y Administrativa, la impugnación del acto conexo deberá hacerse valer ante la sala regional del Tribunal Federal de Justicia Fiscal y Administrativa que conozca del juicio respectivo.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-Los procedimientos de resolución de controversias previstos en los tratados para evitar la doble tributación de los que México es parte, son optativos y podrán ser solicitados por el interesado con anterioridad o posterioridad a la resolución de los medios de defensa previstos por este Código. Los procedimientos de resolución de controversias son improcedentes contra las resoluciones que ponen fin al recurso de revocación o al juicio ante el Tribunal Fiscal de la Federación.
+Los procedimientos de resolución de controversias previstos en los tratados para evitar la doble tributación de los que México es parte, son optativos y podrán ser solicitados por el interesado con anterioridad o posterioridad a la resolución de los medios de defensa previstos por este Código. Los procedimientos de resolución de controversias son improcedentes contra las resoluciones que ponen fin al recurso de revocación o al juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa.
 
 (REUBICADO Y REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
@@ -3862,7 +3960,7 @@ Si la resolución ordena realizar un determinado acto o iniciar la reposición d
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 134.
 
@@ -4008,7 +4106,9 @@ Si la garantía consiste en depósito de dinero en institución nacional de cré
 
 Tratándose de fianza a favor de la Federación, otorgada para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible, se aplicará el procedimiento administrativo de ejecución con las siguientes modalidades:
 
-a). La autoridad ejecutora requerirá de pago a la afianzadora, acompañando copia de los documentos que justifiquen el crédito garantizado y su exigibilidad. Para ello la afianzadora designará, en cada una de las regiones competencia de las Salas Regionales del Tribunal Fiscal de la Federación, un apoderado para recibir requerimientos de pago y el domicilio para dicho efecto, debiendo informar de los cambios que se produzcan dentro de los quince días siguientes al en que ocurran. La citada información se proporcionará a la Secretaría de Hacienda y Crédito Público, misma que se publicará en el Diario Oficial de la Federación para conocimiento de las autoridades ejecutoras. Se notificará el requerimiento por estrados en la (sic) regiones donde no se haga alguno de los señalamientos mencionados.
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+a). La autoridad ejecutora requerirá de pago a la afianzadora, acompañando copia de los documentos que justifiquen el crédito garantizado y su exigibilidad. Para ello la afianzadora designará, en cada una de las regiones competencia de las Salas Regionales del Tribunal Federal de Justicia Fiscal y Administrativa, un apoderado para recibir requerimientos de pago y el domicilio para dicho efecto, debiendo informar de los cambios que se produzcan dentro de los quince días siguientes al en que ocurran. La citada información se proporcionará a la Secretaría de Hacienda y Crédito Público, misma que se publicará en el Diario Oficial de la Federación para conocimiento de las autoridades ejecutoras. Se notificará el requerimiento por estrados en la (sic) regiones donde no se haga alguno de los señalamientos mencionados.
 
 b). Si no se paga dentro del mes siguiente a la fecha en que surta efectos la notificación del requerimiento, la propia ejecutora ordenará a la autoridad competente de la Secretaría de Hacienda y Crédito Público que remate, en bolsa, valores propiedad de la afianzadora bastantes para cubrir el importe de lo requerido y hasta el límite de lo garantizado, y le envíe de inmediato su producto.
 
@@ -4050,13 +4150,13 @@ También se suspenderá la ejecución del acto que determine un crédito fiscal 
 
 Las autoridades fiscales continuarán con el procedimiento administrativo de ejecución a fin de obtener el pago del crédito fiscal, cuando en el procedimiento judicial de concurso mercantil se hubiere celebrado convenio estableciendo el pago de los créditos fiscales y éstos no sean pagados dentro de los 30 días siguientes a la celebración de dicho convenio o cuando no se dé cumplimiento al pago con la prelación establecida en este Código. Asimismo, las autoridades fiscales podrán continuar con dicho procedimiento cuando se inicie la etapa de quiebra en el procedimiento de concurso mercantil en los términos de la ley correspondiente.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán promover el incidente de suspensión de la ejecución ante la Sala del Tribunal Fiscal de la Federación que conozca del juicio respectivo u ocurrir al superior jerárquico de la autoridad ejecutora, si se está tramitando recurso, acompañando los documentos en que conste el medio de defensa hecho valer y el ofrecimiento o, en su caso otorgamiento de la garantía del interés fiscal. El superior jerárquico aplicará en lo conducente las reglas establecidas por este Código para el citado incidente de suspensión de la ejecución.
+En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán promover el incidente de suspensión de la ejecución ante la Sala del Tribunal Federal de Justicia Fiscal y Administrativa que conozca del juicio respectivo u ocurrir al superior jerárquico de la autoridad ejecutora, si se está tramitando recurso, acompañando los documentos en que conste el medio de defensa hecho valer y el ofrecimiento o, en su caso otorgamiento de la garantía del interés fiscal. El superior jerárquico aplicará en lo conducente las reglas establecidas por este Código para el citado incidente de suspensión de la ejecución.
 
 ### CAPITULO II. De la Improcedencia y del Sobreseimiento
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+> <small>(REFORMADO PRIMER PARRAFO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 #### Sección Segunda. Del embargo
 
@@ -4576,6 +4676,14 @@ Los bienes pasarán a ser propiedad del adquirente libres de gravámenes y a fin
 
 Una vez que se hubiera otorgado y firmado la escritura en que conste la adjudicación de un inmueble, la autoridad ejecutora dispondrá que se entregue al adquirente, girando las órdenes necesarias, aun las de desocupación si estuviere habitado por el ejecutado o por terceros que no pudieren acreditar legalmente el uso.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+Artículo 188 BIS.- En el caso en que los bienes rematados no puedan ser entregados al postor a cuyo favor se hubiera fincado el remate en la fecha en que éste lo solicite, por existir impedimento jurídico debidamente fundado para ello, aquél podrá, en un plazo de seis meses contado a partir de la fecha en que solicite la entrega de los bienes, solicitar a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes. La autoridad entregará la cantidad respectiva en un plazo de dos meses contado a partir de la fecha en que se efectúe la solicitud. Si dentro de este último plazo cesa la causa por la cual la autoridad fiscal se vio imposibilitada para efectuar la entrega de los bienes rematados, se procederá a la entrega de los mismos en lugar de entregar al postor las cantidades pagadas por esos bienes.
+
+Transcurrido el plazo de seis meses a que se refiere el párrafo anterior, sin que el postor solicite a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes, el importe de la postura causará abandono a favor del fisco federal dentro de dos meses contados a partir de la fecha en que concluya el plazo antes citado y se estará a lo dispuesto en el artículo 196-A de este Código.
+
+En el caso en que la autoridad fiscal entregue las cantidades pagadas por la adquisición de los bienes rematados, se dejará sin efectos el remate efectuado. Si con posterioridad a la entrega de las cantidades señaladas anteriormente cesa la causa por la cual la autoridad fiscal se vio imposibilitada jurídicamente para efectuar la entrega de los bienes rematados, ésta deberá iniciar nuevamente el procedimiento establecido en esta Sección para enajenar los mismos, dentro de los quince días siguientes a aquél en que haya cesado el impedimento o se cuente con resolución firme que permita hacerlo.
+
 ###### Artículo 189.
 
 Queda estrictamente prohibido adquirir los bienes objeto de un remate, por sí o por medio de interpósita persona, a los jefes y demás personas de las oficinas ejecutoras, así como a todos aquellos que hubieren intervenido por parte del fisco federal en el procedimiento administrativo. El remate efectuado con infracción a este precepto será nulo y los infractores serán sancionados conforme a este Código.
@@ -4696,15 +4804,17 @@ El recurso o la demanda sólo interrumpirán los plazos de que se trata, cuando 
 
 II. Por consulta entre autoridades, si de dicha consulta depende la entrega de los bienes a los interesados.
 
-## TITULO VI. Del Procedimiento Contencioso Administrativo
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+## TITULO VI. Del Juicio Contencioso Administrativo
 
 ### CAPITULO III. De los Impedimentos y Excusas
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 197.
 
-Los juicios que se promuevan ante el Tribunal Fiscal de la Federación, se regirán por las disposiciones de este Título, sin perjuicio de lo dispuesto por los tratados internacionales de que México sea parte. A falta de disposición expresa se aplicará supletoriamente el Código Federal de Procedimientos Civiles siempre que la disposición de este último ordenamiento no contravenga al procedimiento contencioso que establece este Código.
+Los juicios que se promuevan ante el Tribunal Federal de Justicia Fiscal y Administrativa, se regirán por las disposiciones de este Título, sin perjuicio de lo dispuesto por los tratados internacionales de que México sea parte. A falta de disposición expresa se aplicará supletoriamente el Código Federal de Procedimientos Civiles siempre que la disposición de este último ordenamiento no contravenga al procedimiento contencioso que establece este Código.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -4748,11 +4858,15 @@ El escrito de demanda en que promuevan dos o más personas en contravención de 
 
 Toda promoción deberá estar firmada por quien la formule y sin este requisito se tendrá por no presentada, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital y firmará otra persona a su ruego.
 
+> <small>(REFORMADO PRIMER PARRAFO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 200.
 
-Ante el Tribunal Fiscal de la Federación no procederá la gestión de negocios. Quien promueva a nombre de otra deberá acreditar que la representación le fue otorgada a más tardar, en la fecha de la presentación de la demanda o de la contestación, en su caso.
+Ante el Tribunal Federal de Justicia Fiscal y Administrativa no procederá la gestión de negocios. Quien promueva a nombre de otra deberá acreditar que la representación le fue otorgada a más tardar, en la fecha de la presentación de la demanda o de la contestación, en su caso.
 
-La representación de los particulares se otorgará en escritura pública o carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante notario o ante los secretarios del Tribunal Fiscal de la Federación, sin perjuicio de lo que disponga la legislación de profesiones.
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+La representación de los particulares se otorgará en escritura pública o carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante notario o ante los secretarios del Tribunal Federal de Justicia Fiscal y Administrativa, sin perjuicio de lo que disponga la legislación de profesiones.
 
 (REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
@@ -4762,23 +4876,27 @@ La representación de las autoridades corresponderá a la unidad administrativa 
 
 Los particulares o sus representantes podrán autorizar por escrito a licenciado en derecho que a su nombre reciba notificaciones. La persona así autorizada podrá hacer promociones de trámite, rendir pruebas, presentar alegatos e interponer recursos. Las autoridades podrán nombrar delegados para los mismos fines.
 
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 201.
 
-En los juicios que se tramiten ante el Tribunal Fiscal de la Federación no habrá lugar a condenación en costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan.
+En los juicios que se tramiten ante el Tribunal Federal de Justicia Fiscal y Administrativa no habrá lugar a condenación en costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan.
 
 ###### Artículo 202.
 
-Es improcedente el juicio ante el Tribunal Fiscal de la Federación en los casos, por las causales y contra los actos siguientes:
+Es improcedente el juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa en los casos, por las causales y contra los actos siguientes:
 
 I. Que no afecten los intereses jurídicos del demandante.
 
 II. Cuya impugnación no corresponda conocer a dicho Tribunal.
 
-III. Que hayan sido materia de sentencia pronunciada por el Tribunal Fiscal, siempre que hubiera identidad de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean diversas.
+> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+III. Que hayan sido materia de sentencia pronunciada por el Tribunal Federal de Justicia Fiscal y Administrativa, siempre que hubiera identidad de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean diversas.
 
-IV. Respecto de las cuales hubiere consentimiento, entendiéndose que hay consentimiento únicamente cuando no se promovió algún medio de defensa en los términos de las leyes respectivamente o juicio ante el Tribunal Fiscal en los plazos que señala este Código.
+> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+IV. Respecto de las cuales hubiere consentimiento, entendiéndose que hay consentimiento únicamente cuando no se promovió algún medio de defensa en los términos de las leyes respectivamente o juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa en los plazos que señala este Código.
 
 V. Que sean materia de un recurso o juicio que se encuentre pendiente de resolución ante una autoridad administrativa o ante el propio Tribunal.
 
@@ -4812,9 +4930,9 @@ XIII. Dictados por la autoridad administrativa para dar cumplimiento a la decisi
 
 XIV. En los demás casos en que la improcedencia resulte de alguna disposición de este Código o de las Leyes fiscales especiales.
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-XV. Que hayan sido dictados por la autoridad administrativa en un procedimiento de resolución de controversias previsto en un tratado para evitar la doble tributación, si dicho procedimiento se inició con posterioridad a la resolución que recaiga a un recurso de revocación o después de la conclusión de un juicio ante el Tribunal Fiscal de la Federación.
+XV. Que hayan sido dictados por la autoridad administrativa en un procedimiento de resolución de controversias previsto en un tratado para evitar la doble tributación, si dicho procedimiento se inició con posterioridad a la resolución que recaiga a un recurso de revocación o después de la conclusión de un juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -4854,7 +4972,7 @@ El sobreseimiento del juicio podrá ser total o parcial.
 
 ###### Artículo 204.
 
-Los magistrados del Tribunal Fiscal de la Federación estarán impedidos para conocer, cuando:
+Los magistrados del Tribunal Federal de Justicia Fiscal y Administrativa estarán impedidos para conocer, cuando:
 
 I. Tienen interés personal en el negocio.
 
@@ -4882,11 +5000,11 @@ Los peritos del Tribunal estarán impedidos para dictaminar en los casos a que s
 
 Los magistrados tienen el deber de excusarse del conocimiento de los negocios en que ocurra alguno de los impedimentos señalados en el artículo anterior, expresando concretamente en qué consiste el impedimento.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 206.
 
-Manifestada por un magistrado la causa de impedimento, el Presidente de la Sección o de la Sala Regional turnará el asunto al Presidente del Tribunal Fiscal de la Federación, a fin de que la califique y de resultar fundada, se procederá en los términos de la Ley Orgánica del Tribunal Fiscal de la Federación.
+Manifestada por un magistrado la causa de impedimento, el Presidente de la Sección o de la Sala Regional turnará el asunto al Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, a fin de que la califique y de resultar fundada, se procederá en los términos de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa.
 
 ### CAPITULO VI. De los Incidentes
 
@@ -4916,9 +5034,9 @@ En los casos de incapacidad o declaración de ausencia, decretadas por autoridad
 
 La demanda deberá indicar:
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-I. El nombre y domicilio fiscal y en su caso domicilio para recibir notificaciones del demandante.
+I. El nombre del demandante y su domicilio para recibir notificaciones en la sede de la Sala Regional competente.
 
 II. La resolución que se impugna.
 
@@ -4938,31 +5056,69 @@ VI. Los conceptos de impugnación.
 
 VII. El nombre y domicilio del tercero interesado, cuando lo haya.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-Cuando se omitan los datos previstos en las fracciones I, II, y VI, el magistrado instructor desechará por improcedente la demanda interpuesta. Cuando se omitan los datos previstos en las fracciones III, IV, V y VII, el magistrado instructor requerirá al promovente para que los señale dentro del plazo de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda o por no ofrecidas las pruebas, según corresponda.
+VIII. Lo que se pida, señalando en caso de solicitar una sentencia de condena, las cantidades o actos cuyo cumplimiento se demanda.
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-Se presume que el domicilio señalado en la demanda es el fiscal, salvo que la autoridad demuestre lo contrario. El domicilio fiscal servirá para recibir notificaciones cuando no se señale uno convencional diferente.
+Cuando se omita el nombre del demandante o los datos precisados en las fracciones II y VI, el magistrado instructor desechará por improcedente la demanda interpuesta. Si se omiten los datos previstos en las fracciones III, IV, V, VII y VIII, el magistrado instructor requerirá al promovente para que los señale dentro del término de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda o por no ofrecidas las pruebas, según corresponda.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+En el supuesto de que no se señale domicilio para recibir notificaciones del demandante, en la jurisdicción de la Sala Regional que corresponda o se desconozca el domicilio del tercero, las notificaciones relativas se efectuarán por lista autorizada, que se fijará en el sitio visible de la propia sala.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+Artículo 208 BIS.- Los particulares o sus representantes legales, que soliciten la suspensión de la ejecución del acto impugnado deberán cumplir con los siguientes requisitos:
+
+I. Se podrá solicitar en el escrito de demanda.
+
+II. Por escrito presentado en cualquier tiempo, hasta que se dicte sentencia.
+
+Se presentará ante la Sala del conocimiento.
+
+III. En el auto que acuerde la solicitud de suspensión de la ejecución del acto impugnado, se podrá decretar la suspensión provisional de la ejecución.
+
+Contra el auto que decrete o niegue la suspensión provisional no procederá recurso alguno.
+
+IV. El magistrado instructor, dará cuenta a la Sala para que en el término máximo de cinco días, dicte sentencia interlocutoria que decrete o niegue la suspensión definitiva.
+
+V. Cuando la ejecución o inejecución del acto impugnado pueda ocasionar perjuicios al interés general, se denegará la suspensión solicitada.
+
+VI. Cuando sea procedente la suspensión o inejecución del acto impugnado, pero con ella se pueda ocasionar daños o perjuicios a la otra parte o a terceros, se concederá al particular si otorga garantía bastante para reparar el daño o indemnizar por los perjuicios que con ello pudieran causar si no se obtiene sentencia favorable en el juicio de nulidad.
+
+VII. Tratándose de la solicitud de suspensión de la ejecución contra el cobro de contribuciones, procederá la suspensión, previo depósito de la cantidad que se adeude ante la Tesorería de la Federación o de la Entidad Federativa que corresponda.
+
+El depósito no se exigirá cuando se trate del cobro de sumas que excedan de la posibilidad del actor según apreciación del magistrado, o cuando previamente se haya constituido la garantía del interés fiscal ante la autoridad exactora, o cuando se trate de persona distinta del causante obligado directamente al pago; en este último caso, se asegurará el interés fiscal por cualquiera de los medios de garantía permitidos por las leyes fiscales aplicables.
+
+Mientras no se dicte sentencia, la sala podrá modificar o revocar el auto que haya decretado o negado la suspensión, cuando ocurra un hecho superveniente que lo justifique.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 209.
 
-El demandante deberá adjuntar a su instancia:
+El demandante deberá adjuntar a su demanda:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-I. Una copia de la misma para cada una de las partes y una copia de los documentos anexos para el titular a que se refiere la fracción III del artículo 198, o en su caso, para el particular demandado.
+I. Una copia de la misma y de los documentos anexos, para cada una de las partes.
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-II. El documento que acredite su personalidad o en el que conste que le fue reconocida por la autoridad demandada, o bien señalar los datos de registro del documento con el que la acredite ante el Tribunal Fiscal de la Federación, cuando no gestione en nombre propio.
+II. El documento que acredite su personalidad o en el que conste que le fue reconocida por la autoridad demandada, o bien señalar los datos de registro del documento con el que la acredite ante el Tribunal Federal de Justicia Fiscal y Administrativa, cuando no gestione en nombre propio.
 
-III. El documento en que conste el acto impugnado o, en su caso, copia de la instancia no resuelta por la autoridad.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+III. El documento en que conste el acto impugnado.
 
-IV. Constancia de la notificación del acto impugnado, excepto cuando el demandante declare bajo protesta de decir verdad que no recibió constancia o cuando hubiera sido por correo. Si la notificación fue por edictos deberá señalar la fecha de la última publicación y el nombre del órgano en que ésta se hizo.
+En el supuesto de que se impugne una resolución negativa ficta deberá acompañarse una copia, en la que obre el sello de recepción, de la instancia no resuelta expresamente por la autoridad.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+IV. La constancia de la notificación del acto impugnado.
+
+Cuando no se haya recibido constancia de notificación o la misma hubiere sido practicada por correo, así se hará constar en el escrito de demanda, señalando la fecha en que dicha notificación se practicó. Si la demandada al contestar la demanda hace valer su extemporaneidad, anexando las constancias de notificación en que la apoya, el magistrado instructor concederá a la actora el término de cinco días para que la desvirtúe. Si durante dicho término no se controvierte la legalidad de la notificación de la resolución impugnada, se presumirá legal la diligencia de la notificación de la referida resolución.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -5052,7 +5208,7 @@ Deberá adjuntar a su escrito, el documento en que se acredite su personalidad c
 
 ### CAPITULO VII. De las Pruebas
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 212.
 
@@ -5244,11 +5400,11 @@ II. Si transcurrido el plazo máximo de interrupción, no comparece el albacea, 
 
 Las partes podrán recusar a los magistrados o a los peritos del Tribunal, cuando estén en alguno de los casos de impedimento a que se refiere el artículo 204 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 226.
 
-La recusación de magistrados se promoverá mediante escrito que se presente en la Sala o Sección en la que se halle adscrito el magistrado de que se trate, acompañando las pruebas que se ofrezcan. El Presidente de la Sección o de la Sala, dentro de los cinco días siguientes, enviará al Presidente del Tribunal, el escrito de recusación junto con un informe que el magistrado recusado debe rendir, a fin de que se someta el asunto al conocimiento del Pleno. A falta de informe se presumirá cierto el impedimento. Si el Pleno del Tribunal considera fundada la recusación, el magistrado de la sala regional será sustituido en los términos de la Ley Orgánica del Tribunal Fiscal de la Federación. Si se trata de magistrados de Sala Superior, el mismo deberá abstenerse de conocer del asunto.
+La recusación de magistrados se promoverá mediante escrito que se presente en la Sala o Sección en la que se halle adscrito el magistrado de que se trate, acompañando las pruebas que se ofrezcan. El Presidente de la Sección o de la Sala, dentro de los cinco días siguientes, enviará al Presidente del Tribunal, el escrito de recusación junto con un informe que el magistrado recusado debe rendir, a fin de que se someta el asunto al conocimiento del Pleno. A falta de informe se presumirá cierto el impedimento. Si el Pleno del Tribunal considera fundada la recusación, el magistrado de la sala regional será sustituido en los términos de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa. Si se trata de magistrados de Sala Superior, el mismo deberá abstenerse de conocer del asunto.
 
 (REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
@@ -5270,7 +5426,9 @@ Los particulares podrán promover el incidente de suspensión de la ejecución, 
 
 Con los mismos trámites del incidente previsto en el párrafo anterior, las autoridades fiscales podrán impugnar el otorgamiento de la suspensión cuando no se ajuste a la ley.
 
-El incidente previsto en este artículo podrá promoverse hasta que se dicte sentencia o resolución firme de la Sala Regional, de la Sala Superior o del Tribunal Colegiado de Circuito, en su caso. Mientras no se dicte la misma, la Sala Regional podrá modificar o revocar el auto que haya decretado o negado la suspensión, cuando ocurra un hecho superveniente que lo justifique.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+El incidente previsto en este artículo podrá promoverse hasta que se dicte sentencia de la Sala. Mientras no se dicte la misma, la Sala podrá modificar o revocar el auto que haya decretado o negado la suspensión, cuando ocurra un hecho superveniente que lo justifique.
 
 (REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
@@ -5318,7 +5476,7 @@ La Sala resolverá sobre la autenticidad del documento exclusivamente para los e
 
 ###### Artículo 230.
 
-En los juicios que se tramiten ante el Tribunal Fiscal de la Federación, serán admisibles toda clase de pruebas, excepto la de confesión de las autoridades mediante absolución de posiciones y la petición de informes, salvo que los informes se limiten a hechos que consten en documentos que obren en poder de las autoridades.
+En los juicios que se tramiten ante el Tribunal Federal de Justicia Fiscal y Administrativa, serán admisibles toda clase de pruebas, excepto la de confesión de las autoridades mediante absolución de posiciones y la petición de informes, salvo que los informes se limiten a hechos que consten en documentos que obren en poder de las autoridades.
 
 > <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
 
@@ -5352,9 +5510,9 @@ V. El perito tercero será designado por la Sala Regional de entre los que tenga
 
 Para desahogar la prueba testimonial se requerirá a la oferente para que presente a los testigos y cuando ésta manifieste no poder presentarlos, el magistrado instructor los citará para que comparezcan el día y hora que al efecto señale. De los testimonios se levantará acta pormenorizada y podrán serles formuladas por el magistrado o por las partes aquellas preguntas que estén en relación directa con los hechos controvertidos o persigan la aclaración de cualquier respuesta. Las autoridades rendirán testimonio por escrito.
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-Cuando los testigos tengan su domicilio fuera de la sede de la Sala, se podrá desahogar la prueba mediante exhorto, previa calificación hecha por el magistrado instructor del interrogatorio presentado, pudiendo repreguntar el magistrado o juez que desahogue el exhorto. Para diligenciar el exhorto el magistrado del Tribunal Fiscal de la Federación podrá solicitar el auxilio de algún juez o magistrado del Poder Judicial de la Federación o de algún tribunal administrativo federal.
+Cuando los testigos tengan su domicilio fuera de la sede de la Sala, se podrá desahogar la prueba mediante exhorto, previa calificación hecha por el magistrado instructor del interrogatorio presentado, pudiendo repreguntar el magistrado o juez que desahogue el exhorto. Para diligenciar el exhorto el magistrado del Tribunal Federal de Justicia Fiscal y Administrativa podrá solicitar el auxilio de algún juez o magistrado del Poder Judicial de la Federación o de algún tribunal administrativo federal.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -5400,9 +5558,11 @@ Cuando la mayoría de los magistrados estén de acuerdo con el proyecto, el magi
 
 Si el proyecto no fue aceptado por los otros magistrados de la Sala, el magistrado instructor engrosará el fallo con los argumentos de la mayoría y el proyecto podrá quedar como voto particular.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 237.
 
-Las sentencias del Tribunal Fiscal se fundarán en derecho y examinarán todos y cada uno de los puntos controvertidos del acto impugnado, teniendo la facultad de invocar hechos notorios.
+Las sentencias del Tribunal Federal de Justicia Fiscal y Administrativa se fundarán en derecho y resolverán sobre la pretensión del actor que se deduzca de su demanda, en relación con una resolución impugnada, teniendo la facultad de invocar hechos notorios.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -5415,6 +5575,10 @@ Las Salas podrán corregir los errores que adviertan en la cita de los preceptos
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 Tratándose de las sentencias que resuelvan sobre la legalidad de la resolución dictada en un recurso administrativo, si se cuenta con elementos suficientes para ello, el Tribunal se pronunciará sobre la legalidad de la resolución recurrida, en la parte que no satisfizo el interés jurídico del demandante. No se podrán anular o modificar los actos de las autoridades administrativas no impugnados de manera expresa en la demanda.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+En el caso de sentencias en que se condene a la autoridad a la restitución de un derecho subjetivo violado o a la devolución de una cantidad, el Tribunal deberá previamente constatar el derecho que tiene el particular, además de la ilegalidad de la resolución impugnada.
 
 ###### Artículo 238.
 
@@ -5436,9 +5600,9 @@ IV. Si los hechos que la motivaron no se realizaron, fueron distintos o se aprec
 
 V. Cuando la resolución administrativa dictada en ejercicio de facultades discrecionales no corresponda a los fines para los cuales la ley confiera dichas facultades.
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-El Tribunal Fiscal de la Federación podrá hacer valer de oficio, por ser de orden público, la incompetencia de la autoridad para dictar la resolución impugnada y la ausencia total de fundamentación o motivación en dicha resolución.
+El Tribunal Federal de Justicia Fiscal y Administrativa podrá hacer valer de oficio, por ser de orden público, la incompetencia de la autoridad para dictar la resolución impugnada y la ausencia total de fundamentación o motivación en dicha resolución.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -5454,6 +5618,10 @@ II. Declarar la nulidad de la resolución impugnada.
 
 III. Declarar la nulidad de la resolución impugnada para determinados efectos, debiendo precisar con claridad la forma y términos en que la autoridad debe cumplirla, salvo que se trate de facultades discrecionales.
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+IV. Declarar la existencia de un derecho subjetivo y condenar al cumplimiento de una obligación, así como declarar la nulidad de la resolución impugnada.
+
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 Si la sentencia obliga a la autoridad a realizar un determinado acto o iniciar un procedimiento, deberá cumplirse en un plazo de cuatro meses contados a partir de que la sentencia quede firme. Dentro del mismo término deberá emitir la resolución definitiva, aun cuando hayan transcurrido los plazos señalados en los artículos 46-A y 67 de este Código.
@@ -5462,21 +5630,25 @@ Si la sentencia obliga a la autoridad a realizar un determinado acto o iniciar u
 
 En el caso de que se interponga recurso, se suspenderá el efecto de la sentencia hasta que se dicte la resolución que ponga fin a la controversia.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-Siempre que se esté en alguno de los supuestos previstos en las fracciones II y III, del artículo 238 de este Código, el Tribunal Fiscal de la Federación declarará la nulidad para el efecto de que se reponga el procedimiento o se emita nueva resolución; en los demás casos, también podrá indicar los términos conforme a los cuales debe dictar su resolución la autoridad administrativa, salvo que se trate de facultades discrecionales.
+Siempre que se esté en alguno de los supuestos previstos en las fracciones II y III, del artículo 238 de este Código, el Tribunal Federal de Justicia Fiscal y Administrativa declarará la nulidad para el efecto de que se reponga el procedimiento o se emita nueva resolución; en los demás casos, también podrá indicar los términos conforme a los cuales debe dictar su resolución la autoridad administrativa, salvo que se trate de facultades discrecionales.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 239-A.
 
-El Pleno o las Secciones del Tribunal Fiscal de la Federación, de oficio o a petición fundada de la Sala Regional correspondiente o de las autoridades, podrán ejercer la facultad de atracción, para resolver los juicios con características especiales.
+El Pleno o las Secciones del Tribunal Federal de Justicia Fiscal y Administrativa, de oficio o a petición fundada de la Sala Regional correspondiente o de las autoridades, podrán ejercer la facultad de atracción, para resolver los juicios con características especiales.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 I. Revisten características especiales los juicios en que:
 
 a). El valor del negocio exceda de tres mil quinientas veces el salario mínimo general diario del área geográfica correspondiente al Distrito Federal, vigente en el momento de la emisión de la resolución combatida, o
 
 b). Para su resolución sea necesario establecer, por primera vez, la interpretación directa de una ley o fijar el alcance de los elementos constitutivos de una contribución, hasta fijar jurisprudencia. En este caso el Presidente del Tribunal también podrá solicitar la atracción.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 II. Para el ejercicio de la facultad de atracción, se estará a las siguientes reglas:
 
@@ -5488,17 +5660,29 @@ c). Los acuerdos de la Presidencia que admitan la petición o que de oficio deci
 
 d). Una vez cerrada la instrucción del juicio, la Sala Regional remitirá el expediente original a la Secretaría General de Acuerdos de la Sala Superior, la que lo turnará al magistrado ponente que corresponda conforme a las reglas que determine el Pleno del propio Tribunal.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 239-B.
 
-En los casos de incumplimiento de sentencia firme, la parte afectada podrá ocurrir en queja, por una sola vez, ante la sala del Tribunal que dictó la sentencia, de acuerdo con las siguientes reglas:
+En los casos de incumplimiento de sentencia firme o sentencia interlocutoria que hubiese otorgado la suspensión definitiva, la parte afectada podrá ocurrir en queja, por una sola vez, ante la Sala del Tribunal que dictó la sentencia, de acuerdo con las siguientes reglas:
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 I. Procederá en contra de los siguientes actos:
 
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
 a). La resolución que repita indebidamente la resolución anulada o que incurra en exceso o en defecto, cuando dicha resolución se dicte en cumplimiento de una sentencia.
 
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
 b). Cuando la autoridad omita dar cumplimiento a la sentencia, para lo cual deberá haber transcurrido el plazo previsto en ley.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+c) Si la autoridad no da cumplimiento a la orden de suspensión definitiva de la ejecución del acto impugnado en el juicio de nulidad.
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 II. Se interpondrá por escrito ante el magistrado instructor o ponente, dentro de los quince días siguientes al día en que surte efectos la notificación del acto o la resolución que la provoca. En el supuesto previsto en el inciso b) de la fracción anterior, el quejoso podrá interponer su queja en cualquier tiempo, salvo que haya prescrito su derecho.
 
@@ -5506,23 +5690,47 @@ En dicho escrito se expresarán las razones por las que se considera que hubo ex
 
 El magistrado pedirá un informe a la autoridad a quien se impute el incumplimiento de la sentencia, que deberá rendir dentro del plazo de cinco días, en el que, en su caso, se justificará el acto o la omisión que provocó la queja. Vencido dicho plazo, con informe o sin él, el magistrado dará cuenta a la Sala o Sección que corresponda, la que resolverá dentro de cinco días.
 
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
 III. En caso de que haya repetición de la resolución anulada, la Sala hará la declaratoria correspondiente, dejando sin efectos la resolución repetida y la notificará al funcionario responsable de la repetición, ordenándole que se abstenga de incurrir en nuevas repeticiones.
 
-La resolución a que se refiere esta fracción se notificará también al superior del funcionario responsable, entendiéndose por éste al que ordene el acto o lo repita, para que proceda jerárquicamente y la Sala le impondrá una multa equivalente a quince días de su salario.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+La resolución a que se refiere esta fracción se notificará también al superior del funcionario responsable, entendiéndose por éste al que ordene el acto o lo repita, para que proceda jerárquicamente y la Sala le impondrá una multa de treinta a noventa días de su salario normal, tomando en cuenta el nivel jerárquico, la reincidencia y la importancia del daño causado con el incumplimiento.
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 IV. Si la Sala resuelve que hubo exceso o defecto en el cumplimiento de la sentencia, dejará sin efectos la resolución que provocó la queja y concederá al funcionario responsable veinte días para que dé el cumplimiento debido al fallo, señalando la forma y términos precisados en la sentencia, conforme a los cuales deberá cumplir.
 
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
 V. Si la Sala resuelve que hubo omisión total en el cumplimiento de la sentencia, concederá al funcionario responsable veinte días para que dé cumplimiento al fallo. En este caso, además se procederá en los términos del párrafo segundo de la fracción III de este artículo.
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 VI. Durante el trámite de la queja se suspenderá el procedimiento administrativo de ejecución, si se solicita ante la autoridad ejecutora y se garantiza el interés fiscal en los términos del artículo 144.
 
 A quien promueva una queja notoriamente improcedente, entendiendo por ésta la que se interponga contra actos que no constituyan resolución definitiva, se le impondrá una multa de veinte a ciento veinte días de salario mínimo general diario vigente en el área geográfica correspondiente al Distrito Federal. Existiendo resolución definitiva, si la Sala o Sección consideran que la queja es improcedente, se ordenará instruirla como juicio.
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+VII. Tratándose del incumplimiento a la orden de suspensión definitiva de la ejecución del acto impugnado, la queja se interpondrá por escrito ante el magistrado instructor, en cualquier momento.
+
+En dicho escrito se expresarán las razones por las que se considera que se ha dado el incumplimiento a la suspensión otorgada, y si los hay, los documentos en que consten las actuaciones de la autoridad en que pretenda la ejecución del acto.
+
+El magistrado pedirá un informe a la autoridad a quien se impute el incumplimiento de la sentencia interlocutoria que hubiese otorgado la suspensión definitiva, que deberá rendir dentro del plazo de cinco días, en el que, en su caso, se justificará el acto o la omisión que provocó la queja. Vencido dicho plazo, con informe o sin él, el magistrado dará cuenta a la Sala o Sección que corresponda, la que resolverá dentro de cinco días.
+
+Si la Sala resuelve que hubo incumplimiento de la suspensión otorgada, declarará la nulidad de las actuaciones realizadas en violación a la suspensión.
+
+La resolución a que se refiere esta fracción se notificará también al superior del funcionario responsable, entendiéndose por éste al que incumpla la suspensión decretada, para que proceda jerárquicamente y la Sala impondrá al funcionario responsable o autoridad renuente, una multa equivalente a un mínimo de quince días de su salario, sin exceder del equivalente a cuarenta y cinco días del mismo.
+
+> <small>(REFORMADO PRIMER PARRAFO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 239-C.
 
-La parte que estime contradictoria, ambigua u obscura una sentencia definitiva del Tribunal Fiscal de la Federación, podrá promover por una sola vez su aclaración dentro de los diez días siguientes a aquél en que surta efectos su notificación.
+La parte que estime contradictoria, ambigua u obscura una sentencia definitiva del Tribunal Federal de Justicia Fiscal y Administrativa, podrá promover por una sola vez su aclaración dentro de los diez días siguientes a aquél en que surta efectos su notificación.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 La instancia deberá señalar la parte de la sentencia cuya aclaración se solicita e interponerse ante la Sala o Sección que dictó la sentencia, la que deberá resolver en un plazo de cinco días siguientes a la fecha en que fue interpuesto, sin que pueda variar la sustancia de la sentencia. La aclaración no admite recurso alguno y se reputará parte de la sentencia recurrida y su interposición interrumpe el término para su impugnación.
 
@@ -5532,19 +5740,23 @@ La instancia deberá señalar la parte de la sentencia cuya aclaración se solic
 
 Las partes podrán formular excitativa de justicia ante el Presidente del Tribunal, si el magistrado responsable no formula el proyecto respectivo dentro del plazo señalado en este Código.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 241.
 
-Recibida la excitativa de justicia, el Presidente del Tribunal Fiscal de la Federación, solicitará informe al magistrado responsable que corresponda, quien deberá rendirlo en el plazo de cinco días. El Presidente dará cuenta al Pleno y si éste encuentra fundada la excitativa, otorgará un plazo que no excederá de quince días para que el magistrado formule el proyecto respectivo. Si el mismo no cumpliere con dicha obligación, será sustituido en los términos de la Ley Orgánica del Tribunal Fiscal de la Federación.
+Recibida la excitativa de justicia, el Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, solicitará informe al magistrado responsable que corresponda, quien deberá rendirlo en el plazo de cinco días. El Presidente dará cuenta al Pleno y si éste encuentra fundada la excitativa, otorgará un plazo que no excederá de quince días para que el magistrado formule el proyecto respectivo. Si el mismo no cumpliere con dicha obligación, será sustituido en los términos de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa.
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 En el supuesto de que la excitativa se promueva por no haberse dictado sentencia, a pesar de existir el proyecto del magistrado responsable, el informe a que se refiere el párrafo anterior, se pedirá al presidente de la sala o Sección respectiva, para que lo rinda en el plazo de tres días, y en el caso de que el Pleno considere fundada la excitativa, concederá un plazo de diez días a la sala o Sección para que dicte la sentencia y si ésta no lo hace, se podrá sustituir a los magistrados renuentes o cambiar de sección.
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 Cuando un magistrado, en dos ocasiones hubiere sido sustituido conforme a este precepto, el Presidente del Tribunal podrá poner el hecho en conocimiento del Presidente de la República.
 
 ### CAPITULO XII. De la Jurisprudencia
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 #### Sección Segunda. De la Apelación
 
@@ -5614,7 +5826,9 @@ IV. Sea una resolución dictada en materia de la Ley Federal de Responsabilidade
 
 V. Sea una resolución en materia de aportaciones de seguridad social, cuando el asunto verse sobre la determinación de sujetos obligados, de conceptos que integren la base de cotización o sobre el grado de riesgo de las empresas para los efectos del seguro de riesgos del trabajo.
 
-El recurso de revisión también será procedente contra resoluciones o sentencias que dicte el Tribunal Fiscal de la Federación, en los casos de atracción a que se refiere el artículo 239-A de este Código.
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+El recurso de revisión también será procedente contra resoluciones o sentencias que dicte el Tribunal Federal de Justicia Fiscal y Administrativa, en los casos de atracción a que se refiere el artículo 239-A de este Código.
 
 En los juicios que versen sobre resoluciones de las autoridades fiscales de las Entidades Federativas coordinadas en ingresos federales, el recurso sólo podrá ser interpuesto por la Secretaría de Hacienda y Crédito Público.
 
@@ -5664,17 +5878,17 @@ VII. En todos aquellos casos en que el magistrado instructor así lo ordene.
 
 La lista a que se refiere este artículo contendrá nombre de la persona, expediente y tipo de acuerdo. En los autos se hará constar la fecha de la lista.
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-Para que se puedan efectuar las notificaciones por transmisión facsimilar, se requiere que la parte que así lo desee, señale su número de telefacsímil y otorgue el acuse de recibo por la misma vía.
+Para que se puedan efectuar las notificaciones por transmisión facsimilar o electrónica, se requiere que la parte que así lo solicite, señale su número de telefacsímil o dirección de correo personal electrónico. Satisfecho lo anterior, el magistrado instructor ordenará que las notificaciones personales se le practiquen por el medio que aquélla autorice de entre los señalados por este párrafo, el actuario, a su vez, deberá dejar constancia en el expediente de la fecha y hora en que se realizaron, así como de la recepción de la notificación. En este caso, la notificación se considerará efectuada legalmente, aun cuando la misma hubiese sido recibida por una persona distinta al promovente o su representante legal.
 
 ###### Artículo 254.
 
 Las notificaciones que deban hacerse a las autoridades administrativas se harán siempre por oficio o por vía telegráfica en casos urgentes.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-Tratándose de las autoridades, las resoluciones que se dicten en los juicios que se tramiten ante el Tribunal Fiscal de la Federación se deberán notificar en todos los casos, únicamente a la unidad administrativa a la que corresponda la representación en juicio de la autoridad señalada en el artículo 198, fracción III de este Código.
+Tratándose de las autoridades, las resoluciones que se dicten en los juicios que se tramiten ante el Tribunal Federal de Justicia Fiscal y Administrativa se deberán notificar en todos los casos, únicamente a la unidad administrativa a la que corresponda la representación en juicio de la autoridad señalada en el artículo 198, fracción III de este Código.
 
 ###### Artículo 255.
 
@@ -5698,7 +5912,9 @@ El cómputo de los plazos se sujetará a las reglas siguientes:
 
 I. Empezarán a correr a partir del día siguiente a aquel en que surta efectos la notificación.
 
-II. Si están fijados en días, se computarán sólo los hábiles entendiéndose por éstos aquellos en que se encuentren abiertas al público las oficinas de las salas del Tribunal Fiscal durante el horario normal de labores. La existencia de personal de guardia no habilita los días en que se suspendan las labores.
+> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+II. Si están fijados en días, se computarán sólo los hábiles entendiéndose por éstos aquellos en que se encuentren abiertas al público las oficinas de las salas del Tribunal Federal de Justicia Fiscal y Administrativa durante el horario normal de labores. La existencia de personal de guardia no habilita los días en que se suspendan las labores.
 
 > <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
 
@@ -5706,11 +5922,25 @@ III. Si están señalados en períodos o tienen una fecha determinada para su ex
 
 IV. Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario se entenderá en el primer caso que el plazo vence el mismo día del mes de calendario posterior a aquel en que se inició y en el segundo caso, el término vencerá el mismo día del siguiente año de calendario a aquel en que se inició. Cuando no exista el mismo día en los plazos que se fijen por mes, éste se prorrogará hasta el primer día hábil del siguiente mes de calendario.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 258-A.
+
+Las diligencias de notificación o, en su caso, de desahogo de alguna prueba, que deban practicarse en región distinta de la correspondiente a la sede de la Sala Regional en que se instruya el juicio, deberán encomendarse a la ubicada en aquélla.
+
+Los exhortos se despacharán al día siguiente hábil a aquél en que la actuaría reciba el acuerdo que los ordene. Los que se reciban se proveerán dentro de los tres días siguientes a su recepción y se diligenciarán dentro de los cinco días siguientes, a no ser que lo que haya de practicarse exija necesariamente mayor tiempo, caso en el cual, la Sala requerida fijará el plazo que crea conveniente.
+
+Una vez diligenciado el exhorto, la Sala requerida, sin más trámite, deberá remitirlo con las constancias que acrediten el debido cumplimiento de la diligencia practicada en auxilio de la Sala requirente.
+
 ###### Artículo 259.
 
-Las tesis sustentadas en las sentencias o en las resoluciones de contradicción de sentencias, aprobadas en el Pleno, por lo menos por ocho magistrados de la Sala Superior constituirán precedente una vez publicados en la Revista del Tribunal Fiscal de la Federación.
+Las tesis sustentadas en las sentencias pronunciadas por la Sala Superior, aprobadas por lo menos por siete magistrados, constituirán precedente una vez publicados en la Revista del Tribunal Federal de Justicia Fiscal y Administrativa.
 
-También constituirán precedente las tesis sustentadas en las sentencias de las Secciones de la Sala Superior, siempre que sean aprobadas cuando menos por cuatro de los magistrados integrantes de la Sección de que se trate y sean publicados en la Revista del Tribunal Fiscal de la Federación.
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+También constituirán precedente las tesis sustentadas en las sentencias de las Secciones de la Sala Superior, siempre que sean aprobadas cuando menos por cuatro de los magistrados integrantes de la Sección de que se trate y sean publicados en la Revista del Tribunal Federal de Justicia Fiscal y Administrativa.
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 Las Salas podrán apartarse de los precedentes establecidos por el Pleno o las Secciones, siempre que en la sentencia expresen las razones por las que se apartan del mismo, debiendo enviar al Presidente del Tribunal copia de la sentencia.
 
@@ -5720,15 +5950,19 @@ Las Salas podrán apartarse de los precedentes establecidos por el Pleno o las S
 
 Para fijar jurisprudencia, el Pleno de la Sala Superior deberá aprobar tres precedentes en el mismo sentido, no interrumpidos por otro en contrario.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+Asimismo, constituyen jurisprudencia las resoluciones pronunciadas por la Sala Superior, aprobadas por lo menos por siete magistrados, que diluciden las contradicciones de tesis sustentadas en las sentencias emitidas por las Secciones o por las Salas Regionales del Tribunal.
+
 También se fijara jurisprudencia por alguna Sección de la Sala Superior, siempre que se aprueben cinco precedentes no interrumpidos por otro en contrario.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 261.
 
-En el caso de contradicción de sentencias, cualquiera de los magistrados del Tribunal o las partes en los juicios en las que tales tesis se sustentaron, podrán denunciarla ante el Presidente del Tribunal para que éste la haga del conocimiento del Pleno, el cual decidirá cual tesis debe prevalecer constituyéndose en precedente.
+En el caso de contradicción de sentencias, cualquiera de los Magistrados del Tribunal o las partes en los juicios en las que tales tesis se sustentaron, podrán denunciarla ante el Presidente del Tribunal para que éste la haga del conocimiento del Pleno, el cual con un quórum mínimo de diez Magistrados, decidirá por mayoría la que debe prevalecer, constituyendo jurisprudencia.
 
-La resolución que pronuncie el Pleno del Tribunal, en los casos a que este artículo se refiere, sólo tendrá efectos para fijar precedente y no afectará las resoluciones dictadas en los juicios correspondientes.
+La resolución que pronuncie el Pleno del Tribunal, en los casos a que este artículo se refiere, sólo tendrá efectos para fijar jurisprudencia y no afectará las resoluciones dictadas en los juicios correspondientes.
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -5736,7 +5970,9 @@ La resolución que pronuncie el Pleno del Tribunal, en los casos a que este art�
 
 El Pleno podrá suspender una jurisprudencia, cuando en una sentencia o en una resolución de contradicción de sentencias, resuelva en sentido contrario a la tesis de la jurisprudencia. Dicha suspensión deberá publicarse en la revista del Tribunal.
 
-Las Secciones de la Sala Superior podrán suspender una jurisprudencia, siempre que la sentencia se apruebe por lo menos por cuatro de los magistrados integrantes de la Sección, expresando en la sentencia las razones por las que la suspenden y enviando al Presidente del Tribunal copia de la misma, para que la haga del conocimiento del Pleno y se publique la suspensión en la revista del Tribunal.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+Las Secciones de la Sala Superior podrán apartarse de su jurisprudencia, siempre que la sentencia se apruebe por lo menos por cuatro Magistrados integrantes de la Sección, expresando en ella las razones por las que se apartan y enviando al Presidente del Tribunal copia de la misma, para que la haga del conocimiento del Pleno y éste determine si procede que se suspenda su aplicación, debiendo en este caso publicarse en la revista del Tribunal.
 
 Los magistrados de la Sala Superior podrán proponer al Pleno que suspenda su jurisprudencia, cuando haya razones fundadas que lo justifiquen. Las Salas Regionales también podrán proponer la suspensión expresando al Presidente del Tribunal los razonamientos que sustenten la propuesta, a fin de que la someta a la consideración del Pleno.
 
@@ -6006,13 +6242,17 @@ Cuando antes de la vigencia de este Decreto haya comenzado a correr el plazo par
 
 TERCERA.- En los juicios en trámite a la fecha de la vigencia de este Decreto, podrá interponer el recurso de revisión la unidad administrativa encargada de la defensa jurídica de la autoridad, que tenga reconocida la representación en el juicio correspondiente o que haya venido actuando en el mismo con dicha representación.
 
-CUARTA.- La Sala Superior del Tribunal Fiscal de la Federación continuará el trámite y resolverá los recursos de revisión que las autoridades hubieren interpuesto con anterioridad a la vigencia de este Decreto.
+> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+CUARTA.- La Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa continuará el trámite y resolverá los recursos de revisión que las autoridades hubieren interpuesto con anterioridad a la vigencia de este Decreto.
 
 > <small>(F. DE E., D.O.F. 19 DE FEBRERO DE 1988)</small>
 
 Contra las resoluciones definitivas que dicte la Sala Superior en los recursos de revisión a que se refiere el párrafo anterior, procederá el recurso de revisión fiscal conforme a lo ordenado por el Código Fiscal de la Federación en las disposiciones que por virtud de este Decreto se reforman, el que será resuelto por los Tribunales Colegiados de Circuito conforme al procedimiento previsto para la revisión en amparo indirecto.
 
-QUINTA.- La Sala Superior del Tribunal Fiscal de la Federación continuará el trámite hasta la resolución definitiva de los recursos de queja interpuestos con anterioridad a la vigencia de este Decreto, concretándose, al resolver, a decidir si son o no fundados los agravios, pero sin que la resolución forme jurisprudencia.
+> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+QUINTA.- La Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa continuará el trámite hasta la resolución definitiva de los recursos de queja interpuestos con anterioridad a la vigencia de este Decreto, concretándose, al resolver, a decidir si son o no fundados los agravios, pero sin que la resolución forme jurisprudencia.
 
 > <small>(F. DE E., D.O.F. 19 DE FEBRERO DE 1988)</small>
 
@@ -6020,7 +6260,9 @@ SEXTA.- Los juicios en que, a la fecha de iniciación de vigencia de este Decret
 
 SEPTIMA.- La representación de las autoridades en todas las instancias del juicio se tendrá por acreditada, si habiéndose iniciado éste antes de la vigencia de este Decreto, al presentarse la contestación de la demanda, se satisfacen los requisitos que con anterioridad fueron exigidos para acreditarla. En estos casos, si de conformidad con las disposiciones legales, surgiere otro representante con posterioridad, la sustitución se acreditará en el juicio por la autoridad.
 
-OCTAVA.- La jurisprudencia que haya establecido la Sala Superior del Tribunal Fiscal de la Federación antes de la fecha en que rija este Decreto, conservará su vigencia, pero podrá ser modificada en los casos y términos que señalan las leyes.
+> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+OCTAVA.- La jurisprudencia que haya establecido la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa antes de la fecha en que rija este Decreto, conservará su vigencia, pero podrá ser modificada en los casos y términos que señalan las leyes.
 
 ## TRANSITORIO
 
@@ -6567,3 +6809,205 @@ II. Para efectos del artículo 27, penúltimo párrafo del Código Fiscal de la 
 D.O.F. 12 DE JULIO DE 2000.
 
 LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+D.O.F. 31 DE DICIEMBRE DE 2000.
+
+Disposiciones Transitorias del Código Fiscal de la Federación
+
+Artículo Segundo. En relación con las modificaciones a que se refiere el Artículo Primero de este Decreto, se estará a lo siguiente:
+
+I. Las personas físicas que hayan obtenido la Cédula de Identificación Fiscal que contenga su Clave Única de Registro de Población y que como consecuencia de ello se les hubiese asignado una Clave del Registro Federal de Contribuyentes distinta, podrán continuar usando durante 2001 los comprobantes impresos antes del 1o. de enero de 2001 que no contengan su nueva clave de Registro Federal de Contribuyentes, sin que dicha circunstancia implique la comisión de infracciones o de delitos de carácter fiscal. Las personas físicas que soliciten la impresión de nuevos comprobantes a partir del 1o. de enero de 2001, deberán imprimir en los mismos la clave del Registro Federal de Contribuyentes, además de los otros requisitos que exijan las disposiciones fiscales.
+
+II. La reforma en materia de avisos a que se refieren los artículos 31, segundo párrafo y 81, fracción II, del Código Fiscal de la Federación, entrarán en vigor el 1o. de agosto de 2001.
+
+III. Lo dispuesto en el artículo 50 del Código Fiscal de la Federación, únicamente será aplicable respecto de visitas domiciliarias y de revisiones de la contabilidad de los contribuyentes que se efectúen en las oficinas de las autoridades fiscales, que se inicien a partir del 1o. de enero de 2001.
+
+IV. Las cantidades que se contienen en los artículos 84-B, fracciones VII y VIII, y 84-H, del Código Fiscal de la Federación, se entienden actualizadas a enero de 2001, debiéndose actualizar en julio del citado año de conformidad con el artículo 17-B de dicho Código.
+
+V. Las modificaciones al artículo 209 del Código Fiscal de la Federación, no serán aplicables a las demandas presentadas antes del 1o. de enero de 2001, en cuyo caso, se aplicarán los citados artículos vigentes hasta el 31 de diciembre de 2000.
+
+VI. Las adiciones de los artículos 29-C; 32-B, fracciones VI y VII; 32-E; 84-A, fracciones VII y VIII; 84-B, fracciones VII y VIII; 84-G y 84-H, del Código Fiscal de la Federación, entrarán en vigor a partir del 1o. de marzo de 2001.
+
+VII. Las autoridades fiscales, con motivo del ejercicio de sus facultades de comprobación, respecto de contribuciones que se pagan mediante declaración periódica formulada por los contribuyentes, procederán como sigue para determinar contribuciones omitidas.
+
+a) Cuando el ejercicio de las facultades de comprobación de que se trate inicie de acuerdo a lo siguiente:
+
+1. Tratándose de contribuyentes distintos a aquellos que dictaminen sus estados financieros para efectos fiscales, cuando el ejercicio de las facultades de comprobación inicie:
+
+i. Entre abril de 2001 y marzo de 2002, determinarán, en primer lugar, las contribuciones omitidas en el ejercicio correspondiente al año 2000.
+
+ii. Entre abril de 2002 y marzo de 2003, determinarán, en primer lugar, las contribuciones omitidas en los ejercicios correspondientes a cualesquiera de los años 2000 y 2001.
+
+iii. Entre abril de 2003 y marzo de 2004, determinarán, en primer lugar, las contribuciones omitidas en los ejercicios correspondientes a cualesquiera de los años 2000, 2001 y 2002.
+
+iv. Entre abril de 2004 y marzo de 2005, determinarán, en primer lugar, las contribuciones omitidas en los ejercicios correspondientes a cualesquiera de los años 2000, 2001, 2002 y 2003.
+
+2. Tratándose de contribuyentes que dictaminen sus estados financieros para efectos fiscales, cuando el ejercicio de las facultades de comprobación inicie:
+
+i. Entre septiembre de 2001 y agosto de 2002, determinarán, en primer lugar, las contribuciones omitidas en el ejercicio correspondiente al año 2000.
+
+ii. Entre septiembre de 2002 y agosto de 2003, determinarán, en primer lugar, las contribuciones omitidas en los ejercicios correspondientes a cualesquiera de los años 2000 y 2001.
+
+iii. Entre septiembre de 2003 y agosto de 2004, determinarán, en primer lugar, las contribuciones omitidas en los ejercicios correspondientes a cualesquiera de los años 2000, 2001 y 2002.
+
+iv. Entre septiembre de 2004 y agosto de 2005, determinarán, en primer lugar, las contribuciones omitidas en los ejercicios correspondientes a cualesquiera de los años 2000, 2001, 2002 y 2003.
+
+En todos los casos, las autoridades fiscales podrán determinar los pagos provisionales de las contribuciones correspondientes al periodo transcurrido entre la fecha de terminación del último ejercicio anterior a la fecha de inicio de las facultades de comprobación y la fecha en que las mismas se inicien.
+
+b) Lo dispuesto en el inciso anterior, no limita las facultades de determinación de contribuciones de las autoridades fiscales respecto de los ejercicios anteriores a 2000, en los siguientes casos:
+
+1. Tratándose de la revisión de dictámenes formulados por contador público registrado sobre los estados financieros de los contribuyentes, cuando la misma se inicie antes de septiembre de 2001.
+
+2. En los demás casos, siempre que las facultades de comprobación se inicien antes de abril de 2001.
+
+c) Al comprobarse que durante cualesquiera de los ejercicios a que se refiere el inciso a) de esta fracción, se omitió la presentación de la declaración del ejercicio de alguna contribución, o que el contribuyente incurrió en alguna irregularidad, se podrán determinar, en el mismo acto o con posterioridad, contribuciones omitidas correspondientes a ejercicios anteriores, sin más limitación que lo dispuesto por el artículo 67 del Código Fiscal de la Federación, inclusive las que no se pudieron determinar con anterioridad, por la aplicación de esta fracción.
+
+Las irregularidades a que se refiere este inciso, son las siguientes:
+
+1. Omisión en el pago de participación de utilidades a los trabajadores.
+
+2. Efectuar compensación o acreditamiento improcedentes contra contribuciones a su cargo, u obtener en forma también improcedente la devolución de contribuciones, por más del 3% sobre el total de las declaradas.
+
+3. Omisión en el pago de contribuciones por más del 3% sobre el total de las declaradas por adeudo propio.
+
+4. Omisión en el entero de la contribución de que se trate por más del 3% sobre el total retenido o que debió retenerse.
+
+5. Cuando se dé alguno de los supuestos a que se refiere el artículo 55 del Código Fiscal de la Federación.
+
+6. No solicitar la inscripción en el Registro Federal de Contribuyentes cuando se esté obligado a ello o no presentar el aviso de cambio de domicilio fiscal o hacerlo extemporáneamente, salvo cuando se presenten en forma espontánea. Se considerará que se incurrió en la irregularidad señalada en este subinciso, aun cuando los supuestos mencionados en el mismo hubiesen ocurrido en ejercicios o periodos distintos a los que se refiere el inciso a) de esta fracción.
+
+7. Proporcionar en forma equivocada u omitir, la información correspondiente al valor de los actos o actividades realizados en cada entidad federativa cuando tengan establecimientos en dos o más entidades, siempre que la omisión o alteración exceda en más del 3% de las cantidades que debieron proporcionarse de acuerdo con los actos o actividades realizados.
+
+8. Consignar información o datos falsos en los estados de resultados reales del ejercicio que se presenten para solicitar reducción de los pagos provisionales, o en los informes acerca del movimiento de efectivo en caja y bancos, cuando se solicita el pago a plazos ya sea diferido o en parcialidades.
+
+9. No presentar el dictamen de estados financieros o presentarlo fuera de los plazos que prevé el Reglamento del Código Fiscal de la Federación.
+
+10. No corregir dentro de los 15 días siguientes a la presentación del dictamen de los estados financieros formulado por contador público, ante la Secretaría de Hacienda y Crédito Público, las contribuciones omitidas que hubieran sido observadas en el dictamen.
+
+Siempre se podrá volver a determinar contribuciones omitidas correspondientes al mismo ejercicio, cuando se comprueben hechos diferentes.
+
+Si se incurre en alguna de las irregularidades señaladas en este inciso, se podrá incluso determinar contribuciones omitidas distintas a aquéllas en que se cometió la irregularidad, aun cuando correspondan a ejercicios anteriores.
+
+Cuando las autoridades fiscales que ejerzan sus facultades de comprobación sean competentes para revisar a los contribuyentes exclusivamente respecto de determinadas contribuciones, se considerarán cometidas las irregularidades a que se refieren los subincisos 2, 3 y 4 de este inciso, aun cuando los porcientos señalados en dichos subincisos se refieran solamente a las contribuciones en relación con las cuales tenga competencia la autoridad fiscal de que se trate.
+
+d) También se podrán determinar contribuciones omitidas por los ejercicios anteriores, cuando dentro del lapso comprendido desde el segundo día anterior a aquél en que se inicie el ejercicio de facultades de comprobación y hasta la fecha en que, en su caso, se notifique la resolución determinante del crédito, se presenten declaraciones complementarias o las formas de corrección de la situación fiscal a que se refiere el antepenúltimo párrafo del artículo 32 del Código Fiscal de la Federación, respecto del ejercicio fiscal por el que se iniciaron las facultades de comprobación, y siempre que con dichas declaraciones o formas se corrija alguna de las irregularidades a que se refiere el inciso anterior.
+
+e) Las declaraciones complementarias o las formas de corrección de la situación fiscal a que se refiere el antepenúltimo párrafo del artículo 32 del Código Fiscal de la Federación, correspondientes a periodos anteriores a los señalados en el inciso a) de esta fracción, podrán ser motivo de determinación de contribuciones en cualquier tiempo por lo que hace a los conceptos que hubieren modificado.
+
+f) Las contribuciones retenidas o que debieron retenerse podrán ser determinadas en cualquier tiempo, aun cuando en el último ejercicio sujeto a fiscalización no se determinen contribuciones o no se encuentren las irregularidades a que se hace referencia en el inciso c) de esta fracción.
+
+g) Si en los periodos a que se refiere el inciso a) de esta fracción, el contribuyente hubiere incurrido en las irregularidades a que se hace referencia en el inciso c) de la misma, se podrán hacer las modificaciones a que haya lugar por los ejercicios anteriores, aun cuando las mismas no den lugar al pago de contribuciones.
+
+No obstante lo dispuesto en el inciso a) de esta fracción, las autoridades fiscales siempre podrán determinar contribuciones por un periodo menor del que se señala en dicho inciso.
+
+No se formulará querella ni se impondrán multas por omisión en el pago de contribuciones, cuando éstas no puedan determinarse en virtud de lo dispuesto en esta fracción.
+
+Lo establecido en esta fracción no limita el ejercicio de las facultades de comprobación de las autoridades fiscales.
+
+En los casos en que el ejercicio de las facultades de comprobación se hubieren iniciado entre el 1o. de abril del año 2001 y el 31 de marzo del año 2005, para la determinación de las contribuciones omitidas, las autoridades estarán a lo dispuesto en esta fracción, aun cuando la determinación se notifique al contribuyente con posterioridad a la última fecha señalada.
+
+Lo dispuesto en esta fracción no será aplicable cuando las autoridades fiscales inicien el ejercicio de sus facultades de comprobación después del 31 de marzo de 2005.
+
+VIII. Lo dispuesto en la fracción anterior no es aplicable a la determinación de contribuciones realizadas por las autoridades fiscales, en los siguientes casos:
+
+a) Cuando la misma derive de la revisión de la cuenta pública federal efectuada por la Contaduría Mayor de Hacienda.
+
+b) Cuando se determinen cualesquiera de las siguientes contribuciones:
+
+1. Aportaciones de seguridad social.
+
+2. Las que se causen por la importación de bienes.
+
+3. Impuesto sobre tenencia o uso de vehículos e impuesto sobre automóviles nuevos.
+
+c) Cuando la determinación se derive de:
+
+1. La omisión de ingresos provenientes del extranjero o del rechazo de deducciones de gastos o inversiones efectuadas en el extranjero.
+
+2. La creación o incremento de reservas de pasivos, cuando los pagos correspondientes se efectúen en ejercicios posteriores a aquél en que se hizo la deducción.
+
+d) En los ejercicios en que se incurrió en pérdidas para los efectos del impuesto sobre la renta, cuando dichas pérdidas se disminuyan total o parcialmente, en el ejercicio respecto del cual se ejercen las facultades de comprobación; así como en los ejercicios en los que se hubiera determinado el impuesto al activo cuya devolución se hubiera obtenido en el ejercicio respecto del cual se ejercen dichas facultades.
+
+e) Tratándose de las personas morales que componen el sistema financiero en los términos del artículo 7o.-B de la Ley del Impuesto sobre la Renta.
+
+f) Las que resulten como consecuencia de aplicar lo señalado en las fracciones IV, V, VI y VII del artículo 120 de la Ley del Impuesto sobre la Renta.
+
+g) Por el ejercicio de liquidación.
+
+h) Por el ejercicio por el que se hubiera presentado el aviso para dictaminar para efectos fiscales los estados financieros y el dictamen no se presente oportunamente.
+
+i) Respecto de los ejercicios en que la autoridad emita la determinación de contribuciones omitidas y sus accesorios por la reposición del procedimiento de verificación, revisión o determinación, por haberlo ordenado así la autoridad al resolver un recurso administrativo o un órgano jurisdiccional en resolución firme, así como cuando, respecto de dichos ejercicios, la citada resolución haya dejado a salvo los derechos de la autoridad fiscal para ejercer sus facultades de comprobación o determinación.
+
+j) Tratándose de contribuyentes que consolidan su resultado fiscal en los términos de la Ley del Impuesto sobre la Renta, incluyendo aquellas sociedades que en los términos de dicha ley consolidaron su resultado fiscal con anterioridad al 1o. de enero de 2001.
+
+k) Respecto de las observaciones que hubieran sido hechas por el contador público autorizado, en los dictámenes de los estados financieros que hubiera formulado para efectos fiscales, en los ejercicios anteriores al 2000.
+
+l) Tratándose de contribuyentes que celebren operaciones con partes relacionadas residentes en el extranjero.
+
+IX. Para los efectos de las fracciones VII y VIII de este artículo las personas físicas que obtuvieron ingresos por recursos mantenidos en el extranjero con anterioridad al 1o. de enero de 2001, podrán considerar correctamente pagado el impuesto sobre la renta correspondiente a dichos ingresos relativos al ejercicio fiscal de 2000, siempre que los recursos retornen total o parcialmente a territorio nacional a través de operaciones efectuadas entre instituciones que componen el sistema financiero del país y del extranjero.
+
+Para los efectos de lo dispuesto en el párrafo anterior se aplicará la tasa del 1%, al monto total de los recursos, sin deducción alguna, incluidos sus intereses, aún cuando dichos recursos no sean retornados en su totalidad.
+
+El impuesto que se pague conforme a esta fracción se considerará aplicable únicamente respecto de los siguientes incisos:
+
+a) Los intereses y ganancia cambiaria generados por depósitos o inversiones efectuadas en instituciones financieras del extranjero.
+
+b) Los generados por la enajenación de acciones o valores que se colocan entre el gran público inversionista a través de bolsa autorizada o mercados de amplia bursatilidad, o bien, por la enajenación de acciones o valores emitidos por las personas morales o los fideicomisos que cumplan con los requisitos a que se refiere el inciso siguiente de esta fracción.
+
+c) Los rendimientos que, en su calidad de accionistas o beneficiarios, percibieron las personas físicas de personas morales o fideicomisos, siempre que se cumpla con lo siguiente:
+
+1. La persona moral de que se trate, sea residente en el extranjero, sin establecimiento permanente o base fija en el país, o el fideicomiso se hubiese constituido conforme a las leyes de un país extranjero; y
+
+2. La persona moral o el fideicomiso obtuvieron exclusivamente, en los últimos cinco años inmediatos anteriores al 1o. de enero de 2001:
+
+i) Ingresos a que se refieren los incisos a) y b) de la presente fracción de fuente de riqueza ubicada en el extranjero;
+
+ii) Ingresos que se perciban a través de instituciones de crédito provenientes de inversiones y valores a cargo del Gobierno Federal inscritos en el Registro Nacional de Valores e Intermediarios, así como intereses a que se refiere el último párrafo de la fracción I del artículo 154 de la Ley del Impuesto sobre la Renta, siempre que, en este último caso, las acciones del emisor de los títulos de crédito sean de las que se colocan entre el gran público inversionista a través de bolsa autorizada o mercados de amplia bursatilidad.
+
+Las personas físicas no podrán acogerse a las disposiciones de la presente fracción por los ingresos mencionados en la misma generados en el desarrollo de actividades empresariales.
+
+El impuesto que resulte conforme a esta fracción se pagará en los términos que al efecto señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
+
+Se tendrá por pagado en forma definitiva el impuesto sobre la renta correspondiente a los ingresos a que se refiere esta fracción siempre que el pago de dicho impuesto se realice con anterioridad a que la Secretaría de Hacienda y Crédito Público inicie la comprobación del cumplimiento de las disposiciones fiscales en los términos de la legislación aplicable. Asimismo, se tendrán por extinguidas las obligaciones fiscales formales relacionadas con dichos ingresos.
+
+La Secretaría de Hacienda y Crédito Público no aplicará lo dispuesto por el artículo 75 de la Ley del Impuesto sobre la Renta respecto de los ingresos a que se refieren los incisos a), b) y c) de esta fracción, siempre que el pago del impuesto se efectúe en los términos de esta misma fracción.
+
+X. Se condonan parcialmente los créditos fiscales no pagados, en el por ciento que resulte aplicable en los términos del siguiente párrafo, sobre la parte del crédito que se pague entre el 1o. de enero y el 30 de abril de 2001, en los siguientes casos:
+
+1. Créditos fiscales por impuestos federales, incluidos sus accesorios, que hayan sido determinados por las autoridades fiscales antes del 1o. de enero de 2001, aun cuando los mismos estén siendo pagados a plazo en los términos del artículo 66 del Código Fiscal de la Federación.
+
+2. Créditos fiscales por impuestos federales, incluidos sus accesorios, determinados por los contribuyentes respecto de los cuales se hubiese obtenido autorización para pagar a plazo con anterioridad a dicha fecha, en los términos del artículo 66 del Código Fiscal de la Federación.
+
+El por ciento a que se refiere el párrafo anterior se aplicará dependiendo del ejercicio en que debieron pagarse los impuestos federales, de que se trate, de conformidad con la siguiente tabla:
+
+Ejercicio Por ciento
+
+1996 12.50
+
+1997 12.50
+
+1998 12.50
+
+1999 10.00
+
+Los contribuyentes podrán anticipar el pago de las parcialidades que les hubiesen sido autorizadas en los términos del artículo 66 del Código Fiscal de la Federación, en cuyo caso, el beneficio se extenderá a todos los pagos anticipados que se realicen entre el 1o. de enero y el 30 de abril de 2001.
+
+Cuando el crédito que se paga en parcialidades corresponda a más de un año de calendario, el por ciento de reducción aplicable será el que resulte del promedio aritmético de los por cientos establecidos en la tabla a que se refiere el segundo párrafo de esta fracción, para los años de calendario que correspondan.
+
+El beneficio a que se refiere esta fracción no será aplicable a:
+
+a) Los créditos por los que se hubieran obtenido los beneficios establecidos en el Decreto de Apoyo a los Deudores del Fisco Federal y en el Decreto de Apoyo Adicional a los Deudores del Fisco Federal;
+
+b)Los contribuyentes que estén en alguno de los supuestos a que se refiere la fracción VIII, incisos e) y j) de este artículo; y
+
+c) Los créditos por los que se hubiera obtenido la condonación total o parcial de recargos en los términos de las Leyes de Ingresos de la Federación para los ejercicios fiscales de 1998, 1999 o 2000.
+
+La condonación prevista en esta fracción no será aplicable a los créditos fiscales derivados del impuesto sobre tenencia o uso de vehículos, del impuesto sobre automóviles nuevos ni a los del impuesto general de importación.
+
+La Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general, podrá establecer las reglas que faciliten la aplicación de lo dispuesto en esta fracción.
+
+## Transitorios
+
+Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
+
+Segundo. Las menciones hechas en el presente Decreto a las Secretarías cuyas denominaciones se modificaron por efectos del Decreto publicado en el Diario Oficial de la Federación el jueves 30 de noviembre de 2000, mediante el cual se reformó la Ley Orgánica de la Administración Pública Federal se entenderán conforme a la denominación que para cada una se estableció en este último.
