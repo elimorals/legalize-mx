@@ -4,7 +4,7 @@ identifier: "LIE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-27"
-last_updated: "1993-12-27"
+last_updated: "1995-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIE"
 
 LEY DE INVERSION EXTRANJERA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 1995.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de diciembre de 1993.
 
@@ -106,7 +106,7 @@ VIII.- Radiotelegrafía;
 
 IX.- Correos;
 
-X.- Ferrocarriles;
+X.- (DEROGADA POR LA FRACCION II DEL ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
 XI.- Emisión de billetes;
 
@@ -200,7 +200,7 @@ q) Servicios portuarios de pilotaje a las embarcaciones para realizar operacione
 
 r) Sociedades navieras dedicadas a la explotación comercial de embarcaciones para la navegación interior y de cabotaje, con excepción de cruceros turísticos y la explotación de dragas y artefactos navales para la construcción, conservación y operación portuaria;
 
-s) Servicios conexos al sector de ferrocarriles, que consisten en servicios a pasajeros, mantenimiento y rehabilitación de vías, libramientos, talleres de reparación de equipo tractivo y de arrastre, organización y comercialización de trenes unitarios, operación de terminales interiores de carga y telecomunicaciones ferroviarias; y
+s) (DEROGADO POR LA FRACCION II DEL ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
 t) Suministro de combustible y lubricantes para embarcaciones, aeronaves y equipo ferroviario.
 
@@ -535,6 +535,24 @@ DECIMO PRIMERO.- A los inversionistas extranjeros y las sociedades mexicanas con
 México, D. F., a 15 de diciembre de 1993.- Dip. Fernando Rodríguez Cerna, Presidente.- Sen. Eduardo Robledo Rincón, Presidente.- Dip. Juan Adrián Ramírez García, Secretario.- Sen. Antonio Melgar Aranda, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil noveciento (sic) noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 12 DE MAYO DE 1995.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Secretaría dará trámite a las solicitudes a que se refieren los artículos 9, fracción I y 16, segundo párrafo, de la presente Ley, 180 días después de que la misma entre en vigor.
+
+Tercero.- Se derogan:
+
+.
+
+II. Los artículos 5, fracción X, y 7, fraccción IV, inciso s) de la Ley de Inversión Extranjera, y
+
+III.- Todas las disposiciones que se opongan a la presente ley.
 
 ## TITULO CUARTO. DE LA INVERSION DE PERSONAS MORALES EXTRANJERAS
 
