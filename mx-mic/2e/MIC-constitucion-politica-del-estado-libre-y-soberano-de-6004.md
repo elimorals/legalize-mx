@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1944-02-21"
+last_updated: "1947-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 1947.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -767,9 +767,11 @@ En el curso de las causas, no se usará con los reos de promesas, amenazas ni vi
 
 En el Estado todos los procesos criminales serán públicos.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1947)</small>
+
 ###### Artículo 93.
 
-Las penas privativas de la libertad no podrán en ningún caso exheder (sic) de quince años.
+Las penas privativas de la libertad no podrán en ningún caso exceder de veinte años.
 
 De los Municipios y Tenencias.
 
@@ -1406,3 +1408,9 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 21 DE FEBRERO DE 1944.
 
 Unico.- Esta Ley empezará a regir desde la fecha de su publicación en el Periódico Oficial.
+
+P.O. 27 DE OCTUBRE DE 1947.
+
+###### ARTICULO UNICO.
+
+Habiendo quedado satisfechos los requisitos exigidos por el artículo 175 de la Constitución Política del Estado, para quedar debidamente hecha la reforma del artículo 93 de la misma, la presente reforma constitucional entrará en vigor 10 días después de la fecha de su publicación en el Periódico Oficial.
