@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-prestacion-de-diversos-servicios-publicos-840
 country: "mx"
 rank: "ley"
 publication_date: "1987-08-17"
-last_updated: "1987-08-17"
+last_updated: "1996-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE REGULA LA PRESTACION DE DIVERSOS SERVICIOS PUBLICOS MUNICIPALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Sección Segunda del Boletín Oficial del Estado de Sonora, el lunes 17 de agosto de 1987.
 
@@ -43,9 +43,11 @@ QUE REGULA LA PRESTACION DE DIVERSOS SERVICIOS PUBLICOS MUNICIPALES.
 
 ### CAPITULO UNICO. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley es de interés público y de observancia obligatoria en el Estado de Sonora y tiene por objeto regular la prestación de los servicios de alumbrado público; limpia; mercados y centrales de abasto; panteones; calles; parques, jardines y campos deportivos; y estacionamientos.
+La presente ley es de interés público y de observancia obligatoria en el Estado de Sonora y tiene por objeto, regular la prestación de los servicios de alumbrado público; limpia; mercados y centrales de abasto; panteones; calles; parque, jardines y campos deportivos, estacionamientos y rastros.
 
 ###### ARTICULO 2o.
 
@@ -61,15 +63,25 @@ IV.- Panteones;
 
 V.- Calles;
 
-VI.- Parques, jardines y campos deportivos; y
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
-VII.- Estacionamientos.
+VI.- Parques, jardines y campos deportivos;
+
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+VII.- Estacionamientos; y
+
+> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+VIII.- Rastros.
 
 ###### ARTICULO 3o.
 
 Para los efectos de esta Ley, se entenderá por:
 
-I.- Servicios Públicos: Los señalados en las fracciones de la I a la VII del artículo que antecede; y
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+I.- Servicios públicos: los señalados en el artículo que antecede; y
 
 II.- Ayuntamientos: Los Ayuntamientos de los Municipios del Estado, indicados en el artículo 9o. de la Ley Orgánica de Administración Municipal.
 
@@ -85,7 +97,9 @@ Los ayuntamientos tomarán las medidas necesarias para que los servicios públic
 
 Los ayuntamientos prestarán los servicios públicos a través de dependencias de la administración pública municipal directa, de organismos descentralizados, o de empresas de participación municipal mayoritaria, o bien, mediante el otorgamiento de concesiones.
 
-Sin perjuicio de los anterior, cuando lo determinen las leyes, los ayuntamientos podrán prestar los servicios públicos en coordinación y asociación con otros Municipios del Estado, y mediante concertación con particulares.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+Asimismo, los ayuntamientos podrán prestar los servicios públicos en coordinación o asociación con otros municipios del Estado, y mediante concertación con particulares.
 
 ###### ARTICULO 7o.
 
@@ -367,9 +381,61 @@ Cuando la concesión de servicio público se extinga por la causa a que se refie
 
 Las resoluciones de extinción de las concesiones de servicios públicos, se publicarán en el Boletín Oficial del Gobierno del Estado.
 
-### CAPITULO III. DE LAS TARIFAS, CUOTAS Y HORARIOS PARA LA PRESTACION DE LOS SERVICIOS PUBLICOS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO IV. DE LA PARTICIPACION COMUNITARIA EN LA PRESTACION DE LOS SERVICIOS PUBLICOS
+### CAPITULO II BIS. DE LA COORDINACION Y LA CONCERTACION PARA LA PRESTACION DE LOS SERVICIOS PUBLICOS
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 41 BIS.- Los municipios del Estado, previo convenio, se podrán coordinar y asociar para la prestación de los servicios públicos a través de un organismo descentralizado intermunicipal.
+
+En su caso, cuando los Ayuntamientos convinieren en asociarse o coordinarse para prestar los servicios públicos a través de un organismo descentralizado, lo preceptuado en este artículo hará las veces de autorización de la legislatura local, para los efectos del artículo 67 de la Ley Orgánica de Administración Municipal.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 41 BIS-A.- Los convenios a que se refiere el artículo anterior, se sujetarán a las siguientes bases:
+
+I.- Su celebración y contenido deberán ser aprobados por los Ayuntamientos participantes;
+
+II.- Establecerán el objeto y naturaleza del organismo a crearse;
+
+III.- Se formarán por las declaraciones y cláusulas que se consideren convenientes, con apego a lo establecido por esta Ley y demás disposiciones aplicables;
+
+IV.- Su vigencia será indefinida y sólo podrán rescindirse o darse por terminados por acuerdo de las partes, cuando concurran razones de interés general, así como por causas fortuitas o de fuerza mayor;
+
+V.- El organismo público que se constituya con base en ellos, será independiente de cada municipio y estará dotado de personalidad jurídica y patrimonio propios;
+
+VI.- Las relaciones laborales entre el organismo referido en el punto anterior y sus trabajadores, se regirán por la Ley del Servicio Civil para el Estado de Sonora, y serán independientes de las que correspondan a los municipios participantes y sus trabajadores; y
+
+VII.- Una vez formalizados, se publicarán en el Boletín Oficial del Gobierno del Estado.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 41 BIS-B.- Los organismos operadores intermunicipales que se constituyan, para la prestación de un servicio público, contarán con una Junta de Gobierno, un Consejo Consultivo y un Administrador.
+
+La Junta de Gobierno se integrará por los presidentes municipales que hayan suscrito el Convenio; un representante de las dependencias que participen en la regulación del servicio público prestado y que así se determine en el acto de creación del organismo descentralizado; y del presidente del Consejo Consultivo constituido al efecto. La presidencia de la Junta de Gobierno será rotativa, cada año, debiendo recaer ésta en un Presidente Municipal.
+
+El Consejo Consultivo se integrará con los representantes de las asociaciones y de los sectores social y privado de los municipios coordinados o asociados, que de alguna manera se beneficien del servicio público prestado, de entre los cuales nombrarán a su Presidente.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 41 BIS-C.- Los convenios de concertación que se celebren con los particulares y/o con los sectores social y privado, para la prestación de los servicios públicos, deberán establecer:
+
+I.- La forma y condiciones en que se prestará el servicio respectivo, con sujeción a las políticas, prioridades y programas municipales establecidos;
+
+II.- Las aportaciones que deban realizar las partes, tanto en recursos como en actividades para la prestación del servicio;
+
+III.- Las bases de administración, así como los derechos y obligaciones de las partes concertantes;
+
+IV.- La determinación de las tarifas que deberán cobrarse por la prestación del servicio público correspondiente, las cuales deberán ser aprobadas por el Ayuntamiento respectivo;
+
+V.- La naturaleza de derecho público del convenio de concertación, así como la vigencia y las formas de rescisión o extinción del mismo;
+
+VI.- La observancia de esta Ley y demás disposiciones legales y reglamentarias aplicables; y
+
+VII.- La publicación del convenio de concertación en el Boletín Oficial del Gobierno del Estado.
+
+### CAPITULO III. DE LAS TARIFAS, CUOTAS Y HORARIOS PARA LA PRESTACION DE LOS SERVICIOS PUBLICOS
 
 ###### ARTICULO 42.
 
@@ -391,7 +457,7 @@ Los ayuntamientos y concesionarios podrán solicitar la revisión, en cualquier 
 
 Los ayuntamientos fijarán los horarios en los cuales se prestarán los servicios públicos, ya sea que dicha prestación se lleve a cabo a través de sus propias estructuras administrativas o mediante el otorgamiento de concesión.
 
-### CAPITULO I. ALUMBRADO PUBLICO
+### CAPITULO IV. DE LA PARTICIPACION COMUNITARIA EN LA PRESTACION DE LOS SERVICIOS PUBLICOS
 
 ###### ARTICULO 47.
 
@@ -429,7 +495,7 @@ III.- Informar a los quejosos sobre el trámite dado a sus promociones.
 
 ## TITULO TERCERO. DE LOS SERVICIOS PUBLICOS
 
-### CAPITULO II. LIMPIA
+### CAPITULO I. ALUMBRADO PUBLICO
 
 ###### ARTICULO 51.
 
@@ -443,7 +509,7 @@ Para los efectos de este capítulo se considerarán lugares de uso común los bo
 
 La prestación del servicio de alumbrado público se sujetará, a las prioridades establecidas en los programas municipales de desarrollo urbano de centros de población y, en lo conducente, a las leyes federales aplicables y a las normas técnicas que emitan las autoridades competentes.
 
-### CAPITULO III. MERCADOS Y CENTRALES DE ABASTO
+### CAPITULO II. LIMPIA
 
 ###### ARTICULO 54.
 
@@ -483,7 +549,7 @@ Los ayuntamientos, en los términos del artículo 7o. de la Ley Orgánica de Adm
 
 El barrido de las vías públicas se realizará conforme a las prioridades y previsión de recursos definidos en los programas correspondientes, determinando los ayuntamientos, según las circunstancias de cada caso, el horario, los días y los lugares en que se llevará a cabo esta actividad.
 
-### CAPITULO IV. PANTEONES
+### CAPITULO III. MERCADOS Y CENTRALES DE ABASTO
 
 ###### ARTICULO 63.
 
@@ -573,7 +639,7 @@ Los concesionarios a que se refiere este capítulo, deberán cubrir en la Tesore
 
 En todo lo no previsto en este capítulo, en relación con las concesiones de los espacios ubicados en el interior de los mercados y centrales de abasto, se observará lo establecido en esta Ley respecto de las concesiones de servicios públicos.
 
-### CAPITULO V. CALLES
+### CAPITULO IV. PANTEONES
 
 ###### ARTICULO 76.
 
@@ -657,7 +723,7 @@ Los cadáveres y restos humanos de personas desconocidas que remitan las autorid
 
 Cuando algún cadáver de persona desconocida sea identificado, el Ayuntamiento, por conducto de la dependencia que designe, deberá dirigirse al Oficial del Registro Civil que haya expedido el acta de defunción relativa, refiriéndole las circunstancias del caso y el destino que se dará a los restos.
 
-### CAPITULO VI. PARQUES, JARDINES Y CAMPOS DEPORTIVOS
+### CAPITULO V. CALLES
 
 ###### ARTICULO 90.
 
@@ -675,7 +741,7 @@ Cuando a solicitud de los particulares resulte necesario realizar obras para la 
 
 Los particulares, conforme a las disposiciones fiscales relativas, deberán de contribuir a la ejecución de las obras que, para la eficaz prestación del servicio público a que se refiere este capítulo, resulten necesarias.
 
-### CAPITULO VII. ESTACIONAMIENTOS
+### CAPITULO VI. PARQUES, JARDINES Y CAMPOS DEPORTIVOS
 
 ###### ARTICULO 94.
 
@@ -703,7 +769,7 @@ En el establecimiento de campos deportivos, se observarán los requisitos que fi
 
 La prestación de los servicios públicos de parques, jardines y campos deportivos podrá realizarse en forma gratuita.
 
-### CAPITULO UNICO. DE LOS REGLAMENTOS, CIRCULARES Y DEMAS DISPOSICIONES ADMINISTRATIVAS DE OBSERVANCIA GENERAL
+### CAPITULO VII. ESTACIONAMIENTOS
 
 ###### ARTICULO 99.
 
@@ -745,9 +811,57 @@ IV.- Las demás que consideren necesarias.
 
 Los ayuntamientos, cuando presten directamente el servicio público a que se refiere este capítulo y los concesionarios del mismo, serán responsables de la pérdida o de los daños causados a los vehículos, cuando los mismos se encuentren bajo su guarda. Para este efecto, podrán contratar el seguro correspondiente.
 
-### CAPITULO UNICO. DE LAS SANCIONES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO VIII. RASTROS
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 104 BIS.- El servicio público de rastro se prestará por los municipios, en los términos de esta Ley, con el concurso del Estado de conformidad con lo dispuesto por el Artículo 104 BIS "D".
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 104 BIS-A.- Los rastros, cualquiera que sea su naturaleza, para su operación deberán llenar los siguientes requisitos:
+
+I.- Pisos y paredes completamente lisos, de materiales impermeables, fáciles de lavar y limpiar, sistema de rieles para el colgado y conducción del ganado sacrificado y de los canales;
+
+II.- Laboratorio de análisis;
+
+III.- Sala de inspección sanitaria perfectamente iluminada;
+
+IV.- Departamento para el lavado de vísceras comestibles, equipado con utensilios de material inoxidable para el depósito de las mismas;
+
+V.- Cámara de refrigeración y cámara de congelación;
+
+VI.- Saladero;
+
+VII.- Balanza;
+
+VIII.- Corrales funcionales con puertas asegurables apropiadas para el fácil, pronto y adecuado manejo, inspección de carga y descarga y para el separo de los ganados con chutes especiales;
+
+IX.- Abastecimiento de agua fría y caliente a presión; y
+
+X.- Los demás requisitos e instalaciones sanitarias que exigen, o que en lo futuro se establezcan en la Ley General de Salud, la Ley de Salud para el Estado de Sonora, los reglamentos y normas técnicas respectivas.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 104 BIS-B.- Sólo en los rastros, cualquiera que sea su naturaleza y la modalidad con que presten el servicio público, podrá hacerse el sacrificio de ganado, cumpliéndose con todos los requisitos legales establecidos.
+
+En los lugares donde no exista rastro, el sacrificio de ganado se podrá realizar con la autorización previa de las autoridades correspondientes, cuando sea para fines de consumo familiar, o se trate de asientos de producción, o de ganado bronco o cuando el sacrificio sea necesario, observándose lo dispuesto por la Ley de Ganadería para el Estado de Sonora.
+
+El sacrificio clandestino será sancionado conforme a la Ley de Ganadería para el Estado de Sonora y demás disposiciones aplicables, sin perjuicio de la aplicación del Código Penal para el Estado, si existiere la comisión de algún delito.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 104 BIS-C.- En todo sacrificio de ganado, los administradores o encargados de los rastros serán los responsables de que se observe lo dispuesto por esta Ley, la Ley de Ganadería y la Ley de Salud para el Estado de Sonora, así como por la Ley General de Salud, Ley Federal de Sanidad Animal y los reglamentos respectivos.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 104 BIS-D.- El Poder Ejecutivo, por conducto de las dependencias que correspondan, ejercerá las funciones de inspección y vigilancia para garantizar que el servicio público de rastro se preste conforme a las disposiciones legales y reglamentarias aplicables.
 
 ## TITULO CUARTO. DE LA FACULTAD REGLAMENTARIA DE LOS AYUNTAMIENTOS EN LA PRESTACION DE LOS SERVICIOS PUBLICOS
+
+### CAPITULO UNICO. DE LOS REGLAMENTOS, CIRCULARES Y DEMAS DISPOSICIONES ADMINISTRATIVAS DE OBSERVANCIA GENERAL
 
 ###### ARTICULO 105.
 
@@ -778,6 +892,8 @@ El procedimiento para la aprobación por parte de los ayuntamientos de los regla
 Los reglamentos, las circulares y las demás disposiciones administrativas que emitan los ayuntamientos serán promulgadas y publicadas por el Presidente Municipal, previo el refrendo que en los términos de la fracción VII del artículo 62 de la Ley Orgánica de Administración Municipal realice de los mismos el Secretario del Ayuntamiento.
 
 ## TITULO QUINTO. DE LAS SANCIONES
+
+### CAPITULO UNICO. DE LAS SANCIONES
 
 ###### ARTICULO 112.
 
@@ -884,3 +1000,15 @@ RODOLFO FELIX VALDES.
 EL SECRETARIO DE GOBIERNO,
 
 FRANCISCO JAVIER ALDANA MONTAÑO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 30 DE DICIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Para que los particulares que hayan sido legalmente autorizados para instalar rastros con anterioridad a la entrada en vigor de la presente ley, puedan seguir prestando dicho servicio público en los términos de este ordenamiento, deberán acudir ante la autoridad municipal respectiva a realizar el trámite correspondiente, dentro de un plazo de 90 días a partir de la vigencia de la presente ley, a efecto de que se les otorgue el derecho de concesión respectivo o llegar a un convenio de concertación, en su caso, siempre y cuando cumplan con todos los requisitos que establece esta ley y demás disposiciones aplicables en la materia.
