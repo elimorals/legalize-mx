@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-7662"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-07-15"
-last_updated: "1995-12-28"
+last_updated: "1996-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE QUERETARO
 
-LEY ORGANICA MUNICIPAL DEL ESTADO DE QUERETARO
+LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 1995.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Número 28 del Periódico Oficial del Estado de Querétaro, el jueves 15 de julio de 1993.
 
@@ -429,9 +429,11 @@ Si la declaratoria se emite durante el curso del primer año del periodo constit
 
 ### CAPITULO SEXTO. De las Facultades y Obligaciones de los Ayuntamientos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 34.
 
-Son facultades y obligaciones de los ayuntamientos:
+Son facultades y obligaciones de los Ayuntamientos:
 
 I. Establecer la estructura territorial del municipio en:
 
@@ -471,7 +473,9 @@ XIV. Formular y aprobar el Presupuesto de Egresos del municipio para cada año f
 
 XV. Administrar el patrimonio del municipio conforme a la Ley y vigilar, a través del presidente municipal y de la Comisión de Hacienda del propio ayuntamiento, la correcta aplicación del Presupuesto de Egresos;
 
-XVI. Remitir a la Legislatura del Estado, a través de la Contaduría Mayor de Hacienda, la Cuenta Pública Municipal dentro de los primeros quince días del mes de septiembre de cada año, para los efectos de su revisión y aprobación;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+XVI. Remitir cada tres meses a la Legislatura del Estado, a través de la Contaduría Mayor de Hacienda, la Cuenta Pública Municipal, a más tardar los días quince de los meses de enero, abril, julio y octubre y en el caso del último año de ejercicio de la administración, la Cuenta Pública correspondiente a los meses de julio, agosto y septiembre, deberá enviarse a más tardar el treinta de septiembre.
 
 XVII. Calificar las elecciones de los miembros del propio ayuntamiento y emitir la declaratoria respectiva;
 
@@ -2018,3 +2022,15 @@ PRIMERO.- Las atribuciones y funciones en materia de declaración patrimonial de
 SEGUNDO.- La presente Ley entrará en vigor a partir del día primero de enero de mil novecientos noventa y seis.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 31 DE DICIEMBRE DE 1996.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 34 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de enero de 1997.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a esta Ley.
