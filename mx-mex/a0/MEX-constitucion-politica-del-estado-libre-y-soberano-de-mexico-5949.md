@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1984-11-14"
+last_updated: "1985-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE NOVIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 1985.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -137,9 +137,9 @@ Sólo los vecinos de nacionalidad mexicana, tendrán derecho a servir los cargos
 
 Son obligaciones de los vecinos del Estado:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1970)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1985)</small>
 
-I.- Inscribirse en los padrones de los impuestos o de los servicios en la forma y términos que determinen las Leyes.
+I. Inscribir en el Padrón Catastral los bienes inmuebles sobre los que tenga la propiedad o posesión e inscribirse en los Padrones de los Impuestos o de los Servicios en la forma y términos que determinen las Leyes.
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -1067,9 +1067,9 @@ XV.- Declarar la causa de utilidad pública en los casos de expropiación que de
 
 XVI.- Convenir con la Federación la asunción del ejercicio de funciones, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1985)</small>
 
-XVII.- Formar la Estadística y el Catastro del Estado.
+XVII.- Formar la estadística del Estado y normar la organización y funcionamiento del Catastro y, en su caso, administrarlo con la participación de los Municipios en la forma y términos que establezcan las Leyes aplicables.
 
 XVIII. Dictar las disposiciones necesarias para la instalación y funcionamiento de la Junta Central de Conciliación y Arbitraje a que se refiere la fracción IX del artículo 123 de la Constitución General;
 
@@ -2365,121 +2365,121 @@ G.G. 15 DE SEPTIEMBRE DE 1948.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
 
-G.G. 4 DE ENERO DE 1950.
+P.O. 4 DE ENERO DE 1950
 
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno", y el período de cuatro años a que se refiere el artículo 44 surtirá efectos a partir de la renovación de la actual H. XXXVII Legislatura Local.
 
-G.G. 17 DE FEBRERO DE 1951.
+P.O. 17 DE FEBRERO DE 1951
 
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor en la fecha de su publicación en la "Gaceta del Gobierno", y el período de tres años a que se refiere la reforma del artículo 44 de la Constitución Local, surtirá efectos a partir de la renovación de la actual Legislatura.
 
-G.G. 28 DE JULIO DE 1951.
+P.O. 28 DE JULIO DE 1951
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
 
-G.G. 1 DE ENERO DE 1955.
+P.O. 1 DE ENERO DE 1955
 
-N. DE E., EN TERMINOS DEL ARTICULO TERCERO DEL DECRETO NUMERO 20, PUBLICADO EN LA G.G. EL 1 DE ENERO DE 1955, SE DEROGAN LAS DISPOSICIONES TRANSITORIAS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+N. DE E., EN TERMINOS DEL ARTICULO TERCERO DEL DECRETO NUMERO 20, PUBLICADO EN EL P.O. EL 1 DE ENERO DE 1955, SE DEROGAN LAS DISPOSICIONES TRANSITORIAS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
 
 ###### ARTICULO PRIMERO.
 
 Los Magistrados Supernumerarios, que sean designados el primero de enero de mil novecientos cincuenta y cinco, de acuerdo con lo dispuesto por el Artículo 101 de esta Constitución, ejercerán su cargo solamente por el propio año de mil novecientos cincuenta y cinco.
 
-G.G. 27 DE AGOSTO DE 1966.
+P.O. 27 DE AGOSTO DE 1966
 
 Artículo Primero.- La disposición del Artículo 160 en cuanto al requisito de que los Jueces Menores de las Cabeceras Distritales y de los Municipios de Naucalpan y Netzahualcóyotl, sean Abogados y Pasantes de Derecho, operará en la medida en que las circunstancias de cada lugar lo permitan.
 
 Artículo Segundo.- Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
 
-G.G. 8 DE JULIO DE 1967.
+P.O. 8 DE JULIO DE 1967
 
 Artículo Transitorio.- Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno" del Estado.
 
-G.G. 18 DE DICIEMBRE DE 1968.
+P.O. 18 DE DICIEMBRE DE 1968
 
 ARTICULO TRANSITORIO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-G.G. 30 DE DICIEMBRE DE 1970.
+P.O. 30 DE DICIEMBRE DE 1970
 
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
 
-G.G. 28 DE AGOSTO DE 1971.
+P.O. 28 DE AGOSTO DE 1971
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
 
 SEGUNDO.- El informe sobre el estado que guarda la Administración Pública que debería rendir el Ejecutivo del Estado el día 5 de septiembre del año en curso, lo rendirá el 20 de enero próximo.
 
-G.G. 29 DE DICIEMBRE DE 1971.
+P.O. 29 DE DICIEMBRE DE 1971
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
 
-G.G. 8 DE ENERO DE 1972.
+P.O. 8 DE ENERO DE 1972
 
 ###### ARTICULO TERCERO.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta del Gobierno del Estado.
 
-G.G. 16 DE DICIEMBRE DE 1972.
+P.O. 16 DE DICIEMBRE DE 1972
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a los quince días siguientes al de su publicación en la "Gaceta del Gobierno" del Estado.
 
-G.G. 31 DE ENERO DE 1973.
+P.O. 31 DE ENERO DE 1973
 
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado.
 
-G.G. 4 DE ENERO DE 1950.
-
-###### ARTICULO UNICO.
-
-Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno", y el período de cuatro años a que se refiere el artículo 44 surtirá efectos a partir de la renovación de la actual H. XXXVII Legislatura Local.
-
-G.G. 2 DE FEBRERO DE 1974.
-
-###### ARTICULO UNICO.
-
-Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
-
-G.G. 30 DE ENERO DE 1975.
-
-###### ARTICULO 1o.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
-
-###### ARTICULO 2o.
-
-Los Magistrados del Tribunal Superior de Justicia actualmente en funciones quedarán sujetos a la inamovilidad a que se contraen las presentes reformas; para el efecto, el C. Gobernador del Estado hará las modificaciones conducentes en los nombramientos hechos a favor de aquéllos y aprobados por esta Legislatura.
-
-###### ARTICULO 3o.
-
-Los Jueces de Primera Instancia quedarán sujetos a inamovilidad a partir de los nombramientos que se hagan con posterioridad al término del actual período constitucional, que concluye el 31 de diciembre de 1975.
-
-###### ARTICULO 4o.
-
-En lo relativo a las faltas absolutas, temporales o accidentales, nombramientos y renuncias de Jueces, en el período comprendido de la fecha en que entren en vigor estas reformas hasta el 31 de diciembre de 1975 se sujetará a lo establecido por las disposiciones derogadas, en lo conducente.
-
-###### ARTICULO 5o.
-
-Las Salas de nueva creación del Tribunal Superior de Justicia del Estado de México, empezarán a funcionar el día 15 de febrero del presente año, y para el efecto el Ciudadano Gobernador del Estado proveerá lo conducente.
-
-G.G. 15 DE ABRIL DE 1975.
+P.O. 4 DE JULIO DE 1973
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-G.G. 31 DE ENERO DE 1976.
+P.O. 2 DE FEBRERO DE 1974
 
-DECRETO NUMERO 36, POR EL QUE SE REFORMAN LOS ARTICULOS 101 Y 115 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+P.O. 30 DE ENERO DE 1975
+
+###### ARTÍCULO 1º.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
+
+###### ARTICULO 2º.
+
+Los Magistrados del Tribunal Superior de Justicia actualmente en funciones quedarán sujetos a la inamovilidad a que se contraen las presentes reformas; para el efecto, el C. Gobernador del Estado hará las modificaciones conducentes en los nombramientos hechos a favor de aquéllos y aprobados por esta Legislatura.
+
+###### ARTICULO 3º.
+
+Los Jueces de Primera Instancia quedarán sujetos a inamovilidad a partir de los nombramientos que se hagan con posterioridad al término del actual período constitucional, que concluye el 31 de diciembre de 1975.
+
+###### ARTICULO 4º.
+
+En lo relativo a las faltas absolutas, temporales o accidentales, nombramientos y renuncias de Jueces, en el período comprendido de la fecha en que entren en vigor estas reformas hasta el 31 de diciembre de 1975 se sujetará a lo establecido por las disposiciones derogadas, en lo conducente.
+
+###### ARTICULO 5º.
+
+Las Salas de nueva creación del Tribunal Superior de Justicia del Estado de México, empezarán a funcionar el día 15 de febrero del presente año, y para el efecto el Ciudadano Gobernador del Estado proveerá lo conducente.
+
+P.O. 15 DE ABRIL DE 1975
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+P.O. 31 DE ENERO DE 1976
+
+DECRETO NUMERO 36
 
 ###### ARTICULO PRIMERO.
 
@@ -2489,45 +2489,45 @@ Este Decreto será aplicable solamente a los nombramientos de Magistrados del H.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-G.G. 31 DE ENERO DE 1976.
+P.O. 31 DE ENERO DE 1976
 
-DECRETO NUMERO 38, POR EL QUE SE REFORMA EL ARTICULO 120 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NUMERO 38
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-G.G. 9 MARZO DE 1976.
+P.O. 9 MARZO DE 1976
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
 
-G.G. 23 DE JULIO DE 1977.
+P.O. 23 DE JULIO DE 1977
 
 ###### ARTICULO UNICO.
 
-El presente Decreto, entrará en vigor a los 5 días después de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+El presente Decreto, entrará en vigor a los 5 días después de su publicación en el Períodico Oficial "Gaceta del Gobierno" del Estado.
 
-G.G. 11 DE MARZO DE 1978.
+P.O. 11 DE MARZO DE 1978
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno del Estado".
 
-G.G. 20 DE JULIO DE 1978.
+P.O. 20 DE JULIO DE 1978
 
 ###### ARTICULO UNICO.
 
 Las presentes adiciones y reformas, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-G.G. 28 DE JUNIO DE 1979.
+P.O. 28 DE JUNIO DE 1979.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-G.G. 4 DE ABRIL DE 1981.
+P.O. 4 DE ABRIL DE 1981
 
 ###### ARTICULO PRIMERO.
 
@@ -2541,19 +2541,19 @@ Los Jueces Menores Municipales en funciones, seguirán conociendo de los asuntos
 
 Los asuntos en trámite ante los Jueces Populares serán del conocimiento del Juez Menor Municipal que corresponda, según su adscripción.
 
-G.G. 17 DE SEPTIEMBRE DE 1981.
+P.O. 17 DE SEPTIEMBRE DE 1981
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-G.G. 9 DE ENERO DE 1982.
+P.O. 9 DE ENERO DE 1982
 
 ###### ARTICULO UNICO.
 
-Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+Las presente reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-G.G. 13 DE MARZO DE 1982.
+P.O. 13 DE MARZO DE 1982
 
 ###### ARTICULO PRIMERO.
 
@@ -2567,35 +2567,31 @@ El Ejecutivo del Estado, deberá en su oportunidad, expedir nombramiento de Magi
 
 La Sala de nueva creación del Tribunal Superior de Justicia del Estado, empezará a funcionar cuando lo determine el Pleno del propio Tribunal.
 
-G.G. 14 DE DICIEMBRE DE 1982.
+P.O. 14 DE DICIEMBRE DE 1982
 
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el día de su publicación en la Gaceta del Gobierno del Estado.
 
-G.G. 19 DE DICIEMBRE DE 1983.
+P.O. 19 DE DICIEMBRE DE 1983
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta del Gobierno del Estado.
 
-G.G. 28 DE FEBRERO DE 1984.
+P.O. 28 DE FEBRERO DE 1984
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaseta (sic) del Gobierno" del Estado.
 
-G.G. 8 DE MARZO DE 1984.
-
-DECRETO NUMERO 233, POR EL QUE SE REFORMAN LOS ARTICULOS 38 EN SU PRIMER PARRAFO Y SU FRACCION I; Y EL 45 EN SU PRIMER PARRAFO DE LA CONSTITUCION POLITICA LOCAL.
+P.O. 8 DE MARZO DE 1984 (DECRETO No. 233)
 
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-G.G. 8 DE MARZO DE 1984.
-
-DECRETO NUMERO 234, POR EL QUE SE REFORMAN LOS ARTICULOS 48 Y 70 FRACCION IX EN SU SEGUNDO PARRAFO DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+P.O. 8 DE MARZO DE 1984 (DECRETO No. 234)
 
 ###### ARTICULO PRIMERO.
 
@@ -2605,14 +2601,20 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 El período de la actual Legislatura concluirá el día cuatro de diciembre de mil novecientos ochenta y cuatro.
 
-G.G. 30 DE ABRIL DE 1984.
+P.O. 30 DE ABRIL DE 1984 (DECRETO No. 244)
 
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno del Estado".
 
-G.G. 14 DE NOVIEMBRE DE 1984.
+P.O. 14 DE NOVIEMBRE DE 1984
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1985
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
