@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-regular-el-uso-de-la-via-publica-en-el-19679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-06"
-last_updated: "2000-09-06"
+last_updated: "2000-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA REGULAR EL USO DE LA VIA PUBLICA EN EL EJERCICIO DE LA ACTIVIDAD COMERCIAL DE LA CIUDAD DE MONTERREY, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2000.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 6 de septiembre de 2000.
 
@@ -781,7 +781,9 @@ La Secretaría del R. Ayuntamiento resolverá el recurso y confirmará, revocar�
 
 Primero.- Este Reglamento entrará en vigor al día siguiente después de su publicación en el Periódico Oficial del Estado.
 
-Segundo.- Los comerciantes que realicen actividades normadas por este Reglamento, disponen de un plazo de 30 días naturales, contados a partir de la entrada en vigor de este ordenamiento, a efecto de que regularicen su situación conforme a las disposiciones contenidas en esta normativa.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
+
+Segundo.- Los comerciantes que realicen actividades normadas por este Reglamento, dispondrán de un plazo que concluirá el 15 de Enero de 2001, a efecto de que presenten su solicitud de regularización ante la Dirección de Comercio de este R. Ayuntamiento, acompañando los requisitos que señala este Ordenamiento.
 
 Tercero.- Se derogan las normas y disposiciones generales que se opongan a este Reglamento y todas las anteriores que sean materia del mismo.
 
@@ -796,3 +798,9 @@ C.P. Jesús María Elizondo González.
 El C. Secretario del R. Ayuntamiento
 
 Lic. Arnulfo Flores Rodríguez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE OCTUBRE DE 2000.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
