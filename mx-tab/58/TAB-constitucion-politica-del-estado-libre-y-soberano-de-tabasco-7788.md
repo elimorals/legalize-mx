@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1980-02-16"
+last_updated: "1982-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1982.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -176,8 +176,6 @@ El Poder Público se divide para su ejercicio en Legislativo, Ejecutivo y Judici
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ## TITULO III. DEL PODER LEGISLATIVO
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ### CAPITULO III. INSTALACION Y PERIODOS DE SESIONES DEL CONGRESO
 
@@ -370,8 +368,6 @@ Las leyes o decretos aprobados por el Congreso se enviarán al Ejecutivo, quien 
 El proyecto de ley o decreto desechado en todo o en parte por el Ejecutivo, será devuelto con sus observaciones al Congreso, quien deberá discutirlo de nuevo y de aprobarlo, lo enviará para su promulgación.
 
 Si el Congreso no aceptare las observaciones del Ejecutivo por las dos terceras partes de los Diputados presentes, el proyecto tendrá el carácter de ley o decreto y será devuelto al Ejecutivo para su inmediata promulgación.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ### CAPITULO VII. CONTADURIA MAYOR DE HACIENDA
 
@@ -741,25 +737,19 @@ Los titulares de las Dependencias son responsables por el despacho de los asunto
 
 Se deposita el ejercicio del Poder Judicial del Estado, en un Tribunal Superior de Justicia, en Juzgados de Primera Instancia y en Juzgados Menores, que administrarán de acuerdo con el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, justicia expedita y gratuita en los términos que fijen las leyes.
 
-El Tribunal Superior de Justicia del Estado, se integrará con 7 Magistrados Numerarios y los Supernumerarios que se requieran y funcionará en Pleno o en Salas.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE FEBRERO DE 1982)</small>
+
+El Tribunal Superior de Justicia del Estado, se integra por 10 Magistrados Numerarios y los Supernumerarios que se requieren, y funcionará en Pleno y en Salas.
 
 En los términos que la Ley disponga, las sesiones del Pleno y de las Salas serán públicas, y por excepción secretas en los casos que así lo exijan la moral o el interés público. Sus resoluciones se tomarán por mayoría de votos.
 
 Los Magistrados Numerarios serán nombrados en los términos del Artículo 56 de la Constitución Política Local y los Supernumerarios por el Pleno del propio Tribunal.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1980)</small>
+(REFORMADO, P.O. 27 DE FEBRERO DE 1982) (F. DE E., P.O. 27 DE MARZO DE 1982)
 
 ###### ARTICULO 56.
 
-El Gobernador del Estado nombrará directamente a los Magistrados Numerarios del Tribunal Superior de Justicia, a propuesta de terna formulada por el Pleno de dicho Cuerpo Colegiado.
-
-Cada uno de los nombramientos así otorgados serán sometidos al Congreso del Estado o a la Comisión Permanente, para su aprobación, debiendo resolver dentro del plazo de diez días improrrogables.
-
-Si fuere aprobado, previa protesta legal, el Magistrado tomará posesión de su cargo en la siguiente sesión del Pleno.
-
-Si la Cámara de Diputados no resolviere en el término dicho, se tendrá por aprobado el nombramiento procediéndose en consecuencia. Si lo rechazare, el Gobernador otorgará nombramiento a otra persona siguiéndose el mismo procedimiento.
-
-En caso de que se rechazaren dos nombramientos consecutivos para la misma vacante, el tercero será sometido hasta el siguiente período de Sesiones del Congreso, el que resolverá dentro de los primeros diez días, procediéndose en la forma ya establecida para los casos anteriores.
+El Gobernador del Estado nombrará directamente a los Magistrados Numerarios del Tribunal Superior de Justicia, cuyos nombramientos serán sometidos a la aprobación del Congreso o de la Comisión Permanente, que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si el Congreso no resolviera dentro de dicho término, se tendrá por aprobado los nombramientos. En caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercero que surtirá sus efectos, desde luego, como provisional y que será sometido a la aprobación del Congreso en el siguiente periodo de sesiones dentro de los primeros diez días de ese periodo. El Congreso deberá aprobar o rechazar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Cámara desecha el nombramiento, el Magistrado provisional cesará en sus funciones y el Gobernador someterá un nuevo nombramiento al Congreso, en los términos indicados.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -783,13 +773,17 @@ V.- Gozar de buena reputación y no haber sido condenado por delito intencional 
 
 Los Magistrados del Tribunal Superior de Justicia al entrar a ejercer su cargo, rendirán ante el Congreso o ante la Comisión Permanente la protesta siguiente: - Presidente: - ¿Protestáis desempeñar leal y patrióticamente el cargo de Magistrado del Tribunal Superior de Justicia del Estado, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Unión y del Estado? - Magistrado: "Sí protesto". - Presidente: "si no lo hiciereis así, que la Nación o el Estado os lo demande".
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1980)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1982)</small>
 
 ###### ARTICULO 59.
 
-Será Presidente del Tribunal el Magistrado Numerario que anualmente sea electo para ese efecto por dicho Cuerpo Colegiado, y sus faltas temporales serán suplidas por otro Magistrado Numerario designado en la misma forma que el anterior.
+Será Presidente del Tribunal Superior de Justicia del Estado, el Magistrado Numerario que anualmente sea electo para ese efecto por el cuerpo Colegiado en Pleno. Cada Sala elegirá su propio Presidente en la primera sesión del año.
 
-Las ausencias temporales de los Magistrados Numerarios serán cubiertas por el Secretario General de Acuerdos o el Juez que designe el Pleno del Tribunal.
+El Presidente del Tribunal Superior de Justicia concurrirá al Congreso del Estado el día 18 de diciembre de cada año y rendirá ante la Representación Popular, un informe escrito acerca de la situación que guarda la administración de Justicia del Estado, cuyo informe será contestado en el mismo acto por el Presidente del Congreso.
+
+Las faltas temporales del Presidente serán suplidas por otro Magistrado Numerario designado en la misma forma que el anterior, y las de los Presidentes de las Salas por el que éstas elijan.
+
+Las ausencias temporales de los Magistrados Numerarios serán cubiertas por el Supernumerario que designe el Pleno del Tribunal, el que podrá ser un Juez o el Secretario General de Acuerdos.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -817,7 +811,9 @@ La competencia del Tribunal Superior de Justicia, los períodos de sesiones, el 
 
 La remuneración que perciban los Magistrados del Tribunal Superior de Justicia y los Jueces, por los servicios que presten al Poder Judicial, no podrá ser disminuída durante su encargo.
 
-Los Magistrados Numerarios del Tribunal Superior de Justicia del Estado, serán inamovibles en sus cargos y sólo podrán ser removidos, cuando públicamente observaren mala conducta, de acuerdo con el procedimiento de la Fracción IX del Artículo 51 de esta Constitución o previo el juicio de responsabilidad, por incapacidad legal o física o por renuncia expresa al puesto.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE FEBRERO DE 1982)</small>
+
+Los Magistrados Numerarios y Jueces del Tribunal Superior de Justicia del Estado, serán inamovibles en sus cargos y sólo podrán ser removidos, cuando públicamente observen mala conducta, de acuerdo con el procedimiento señalado de la Fracción IX del Artículo 51 de esta Constitución o previo el juicio de responsabilidad, por incapacidad legal o física o por renuncia expresa al puesto.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1320,3 +1316,13 @@ PRIMERO.- La inamovilidad judicial que previenen los artículos 11 y 36 de la Le
 SEGUNDO.- Esta adición y reforma han sido aprobadas, en los términos del artículo 83 de la Constitución Política del Estado, por la mayoría de las autoridades que presiden los Ayuntamientos de esta Entidad Federativa.
 
 TERCERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE FEBRERO DE 1982.
+
+PRIMERO.- La inamovilidad judicial que establece el artículo 63 de la Constitución Política del Estado, surtirá sus efectos a partir del primer día hábil del mes de febrero de 1983. Pero los Magistrados y Jueces que sean nombrados en ese año durarán en su cargo tres años, al término de los cuáles, si fueren ratificados solo podrán ser separados en las circunstancias previstas por la Ley.
+
+SEGUNDO.- Toda norma que se oponga a esta reforma y adiciones constitucionales quedará derogada a partir de la vigencia de este decreto.
+
+TERCERO.- Estas reformas y adiciones han sido aprobadas en los términos del artículo 83 de la Constitución Política del Estado, por la mayoría de las autoridades que constituyen los Ayuntamientos de esta Entidad Federativa.
+
+CUARTO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
