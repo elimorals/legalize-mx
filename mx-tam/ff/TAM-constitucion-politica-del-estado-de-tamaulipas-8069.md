@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1943-03-27"
+last_updated: "1943-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 1943.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -481,7 +481,9 @@ VII. Fijar las bases para que el Ejecutivo pueda celebrar emprésitos sobre el c
 
 VIII. Fijar las bases al Ejecutivo para renovar los contratos de donde se origine la deuda del Estado.
 
-IX. Autorizar la enajenación y gravamen de los bienes raíces del Estado y de los Municipios. Los bienes muebles podrán venderse sin la autorización del Congreso, pero la venta se hará en pública subasta.
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1943)</small>
+
+IX. Autorizar la enajenación y gravamen de los bienes muebles e inmuebles del Estado y de los Municipios. La venta de bienes muebles se verificará en pública subasta, siempre que éstos hayan sido declarados inútiles a juicio del H. Congreso.
 
 X. Fijar las bases a los Ayuntamientos para la contratación de emprésitos.
 
@@ -1325,11 +1327,11 @@ XIII.- En cada Municipalidad se dará entera fé y crédito a los actos público
 
 XIV.- Los miembros de los Ayuntamientos serán responsables personal y colectivamente conforme a las leyes, de los actos que ejecuten en el ejercicio de sus funciones y dichas responsabilidades podrán ser exigidas ante las Autoridades que corresponda, ya sea directamente por los particulares cuando se ofendan sus derechos o ya por Síndicos Procuradores Municipales o del Procurador General de Justicia del Estado cuando se ofendan los de la Sociedad.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1943)</small>
 
 ###### Art. 133.
 
-Los Ayuntamientos no podrán adquirir, enajenar ni gravar sus bienes raíces, ni contratar empréstitos sin la autorización del Congreso. Para celebrar contratos de diversa naturaleza a los enumerados en este artículo cuyo término exceda de un año, necesitan la aprobación de Ejecutivo.
+Los Ayuntamientos no podrán adquirir, enajenar ni gravar sus bienes muebles e inmuebles, ni contratar empréstitos sin la autorización del Congreso. Para celebrar contratos de diversa naturaleza a los enumerados en este artículo cuyo término exceda de un año, necesitan la aprobación del Ejecutivo.
 
 ###### Art. 134.
 
@@ -1704,3 +1706,7 @@ Se abroga el Decreto 223 de fecha 13 de enero de 1942.
 ###### Artículo 2º.
 
 Este Decreto principiará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE NOVIEMBRE DE 1943.
+
+UNICO.- Este Decreto comienza a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
