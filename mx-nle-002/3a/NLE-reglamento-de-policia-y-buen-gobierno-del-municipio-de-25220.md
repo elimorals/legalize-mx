@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-25220"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-07-02"
-last_updated: "1999-07-02"
+last_updated: "2002-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25220&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE AGUALEGUAS, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2002.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el viernes 2 de julio de 1999.
 
@@ -351,15 +351,7 @@ Si la sanción a aplicar fuese una multa, ésta podrá ser de entre 1-una y hast
 
 ###### Art. 29.
 
-Al aplicarse la multa, deberá de tomarse en consideración la naturaleza de la infracción cometida, las causas que la produjeron, la capacidad económica del infractor, la condición social, educación y antecedentes del mismo.
-
-Si el infractor que se hiciere acreedor a una multa, fuese obrero, campesino, jornalero o trabajador no asalariado, la sanción aplicable no podrá exceder del importe de una cuota.
-
-La calidad de jornalero, obrero o trabajador; podrá demostrarse con cualquier documento fehaciente que compruebe el tipo de actividad que realiza de manera preponderante.
-
-Los trabajadores no asalariados, podrán demostrar esta calidad con cualquier documento fehaciente que compruebe el tipo de actividad que realiza de manera preponderante.
-
-Los infractores a que se hace referencia en los párrafos anteriores, tendrán un período de 24-veinticuatro horas para demostrar su calidad de jornaleros, obreros o trabajadores no asalariados, ante la Autoridad Municipal.
+(DEROGADO, P.O. 21 DE JUNIO DE 2002)
 
 ###### Art. 30.
 
@@ -572,3 +564,9 @@ PRESIDENTE MUNICIPAL
 C. C.P. OLGA LILIA GOMEZ VELA
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 21 DE JUNIO DE 2002.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
