@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1980-12-03"
+last_updated: "1981-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1981.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -2781,19 +2781,29 @@ T A R I F A:
 
 I.- Por cada vehículo que se registre para su circulación y tránsito incluyendo el juego de placas aprobadas por la Secretaría de Comunicaciones y Transportes, tarjeta de circulación y calcamonía (sic), por el período de vigencia autorizado por dicha Secretaría del Estado, se cubrirán las siguientes cuotas:
 
-a).- Juego de placas de servicio particular, por dos años $ 350.00
+> <small>(REFORMADO, P. O. 16 DE DICIEMBRE DE 1981)</small>
 
-b).- Juego de placas de servicio público local, por dos años 250.00
+a).- Juego de placas de servicio particular por dos años $ 600.00
 
-c).- Juego de placas de servicio de demostración, por dos años 350.00
+> <small>(REFORMADO, P. O. 16 DE DICIEMBRE DE 1981)</small>
+
+b).- Juego de placas de servicio público local, por dos años $ 650.00
+
+> <small>(REFORMADO, P. O. 16 DE DICIEMBRE DE 1981)</small>
+
+c).- Juego de placas de servicio de demostración, por dos años $ 1,000.00
 
 d).- Reposición de cada juego de placas, durante el segundo año, se cubrirá el 50% de la cuota que corresponda entre las fijadas en los tres incisos anteriores.
 
-e).- Juego de placas para motocicletas, por un año 150.00
+> <small>(REFORMADO, P. O. 16 DE DICIEMBRE DE 1981)</small>
+
+e).- Juego de placas para motocicletas, por un año $ 250.00
 
 f).- Registro de cada vehículo que porte placas expedidad (sic) por otras entidades de la república o en el Extranjero, por un año 100.00
 
-g).- Revista semestral del vehículo 50.00
+> <small>(REFORMADO, P. O. 16 DE DICIEMBRE DE 1981)</small>
+
+g).- Revista semestral del vehículo $ 80.00
 
 h).- Permiso provisional para la circulación de maquinaria agrícola y equipo móvil diversos a los previstos en los incisos anteriores, según sea el tamaño, de $ 15.00 a $ 30.00 diarios.
 
@@ -2889,15 +2899,15 @@ d).- Para vehículos de servicio exclusivo de turismo 100.00 "
 
 XIV.- Para cada permiso para circular sin placas correspondientes a vehículos de servicio particular o público 20.00 "
 
-XV.- Por cada permiso para manejar sin licencia de conductor correspondiente a vehículos de servicio particular o público
-
-20.00 diarios
+XV.- Por cada permiso para manejar sin licencia de conductor correspondiente a vehículos de servicio particular o público 20.00 diarios
 
 XVI.- Por cada constancia que no esté comprendida en las fracciones anteriores, que expidan las autoridades de tránsito del Estado, por hoja 25.00
 
 XVII.- Por expedición de bajas de placas 50.00
 
-XVIII.- Por cada placa de remolque, por dos años 350.00
+> <small>(REFORMADO, P. O. 16 DE DICIEMBRE DE 1981)</small>
+
+XVIII.- Por cada placa de remolque, por dos años $ 550.00
 
 XIX.- Por cada estudio socio-económico que se efectúe de acuerdo con la Ley General de Tránsito, se cobrará una cuota de $ 600.00 a $ 5,000.00, considerando el costo del estudio.
 
@@ -5312,3 +5322,9 @@ P. O. 3 DE DICIEMBRE DE 1980.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 16 DE DICIEMBRE DE 1981.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
