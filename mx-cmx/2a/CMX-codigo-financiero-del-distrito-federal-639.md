@@ -4,7 +4,7 @@ identifier: "CMX-codigo-financiero-del-distrito-federal-639"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-31"
-last_updated: "2001-12-31"
+last_updated: "2002-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=639&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-12-30"
 
 CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE ENERO DE 2002.
 
 Código publicado en la Segunda, Tercera y Cuarta Secciones del Diario Oficial de la Federación el sábado 31 de diciembre de 1994.
 
@@ -5848,7 +5848,7 @@ I.(sic) Grupo I:
 
 II. (sic)
 
-III. (sic) Puestos Semifijo de 1.80 por 1.20 metros cuadrados, o menos, incluyendo los de Tianguis, Mercados sobre Ruedas y Bazares $4.20
+III.(sic) Puestos Semifijo de 1.80 por 1.20 metros cuadrados, o menos, incluyendo los de Tianguis, Mercados sobre Ruedas y Bazares $4.20
 
 Para efecto de lo dispuesto en el párrafo anterior, se contemplan los Giros Comerciales siguientes:
 
@@ -7666,19 +7666,21 @@ Para la ejecución del gasto público, los órganos locales de gobierno, la Comi
 
 La programación de gasto público del Distrito Federal se basará en las orientaciones, lineamientos y políticas establecidas en el Plan Nacional de Desarrollo, en el Programa General de Desarrollo del Gobierno del Distrito Federal y en el Programa.
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
 
-ARTICULO 393 A.- Los fideicomisos públicos a cargo de la Administración Pública del Distrito Federal, deberán tener como propósito auxiliar al Jefe de Gobierno del Distrito Federal, mediante la realización de actividades prioritarias o de las funciones que legalmente le corresponden.
+###### ARTICULO 393-A.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1998)</small>
+Los fideicomisos públicos a cargo de la Administración Pública del Distrito Federal, deberán tener como propósito auxiliar al Jefe de Gobierno del Distrito Federal o a los Jefes Delegacionales, mediante la realización de actividades prioritarias o de las funciones que legalmente les corresponden.
 
-ARTICULO 393 B.- Para constituir, modificar o extinguir fideicomisos públicos, las dependencias y entidades deberán contar con la aprobación del Jefe de Gobierno del Distrito Federal, cuya autorización se otorgará por conducto de la Secretaría, la que fungirá como fideicomitente único de la Administración Pública del Distrito Federal, y en base en la misma autorización, se inscribirán en el Registro de Fideicomisos Públicos de la Administración Pública del Distrito Federal, a cargo de la Secretaría.
+> <small>(REFORMADO PRIMER PARRAFO, G.O.. 31 DE ENERO DE 2002)</small>
+
+###### ARTICULO 393-B.
+
+Para constituir, modificar o extinguir fideicomisos públicos las dependencias, delegaciones y entidades deberán contar con la aprobación del Jefe de Gobierno del Distrito Federal, cuya autorización se otorgará con conducto de la Secretaría la que fungirá como fideicomitente único de la Administración Pública del Distrito Federal, y con base en una misma autorización, se inscribirán en el Registro de Fideicomisos Públicos de la Administración Pública del Distrito Federal, a cargo de la Secretaría.
 
 > <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1997)</small>
 
 Cuando los fideicomisos no cuenten con la autorización y registro de la Secretaría de Finanzas, procederá su extinción o liquidación.
-
-> <small>(DEROGADO ULTIMO PARRAFO, G.O. 19 DE MAYO DE 2000)</small>
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -8868,7 +8870,7 @@ III. Los casos en que proceda la creación de nuevas plazas. Las reglas a que se
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1997)</small>
 
-ARTICULO 418 E.- Cuando algún funcionario o servidor público pertenciente (sic) a las dependencias y órganos desconcentrados, fallezca y tuviere cuando menos una antigüedad en el servicio de seis meses, quien se haga cargo de los gastos de inhumación, percibirá hasta el importe de cuatro meses de los sueldos, salarios y haberes que estuviere percibiendo en esa fecha. Cuando el funcionario o empleado fallecido estuviere reconocido, conforme a las disposiciones legales respectivas, como Veterano de la Revolución, el beneficio se aumentará hasta el importe de seis meses de las percepciones mencionadas.
+ARTICULO 418 E.- Cuando algún funcionario o servidor público pertenciente a las dependencias y órganos desconcentrados, fallezca y tuviere cuando menos una antigüedad en el servicio de seis meses, quien se haga cargo de los gastos de inhumación, percibirá hasta el importe de cuatro meses de los sueldos, salarios y haberes que estuviere percibiendo en esa fecha. Cuando el funcionario o empleado fallecido estuviere reconocido, conforme a las disposiciones legales respectivas, como Veterano de la Revolución, el beneficio se aumentará hasta el importe de seis meses de las percepciones mencionadas.
 
 > <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -9454,7 +9456,7 @@ No se formulará querella si quien hubiera omitido el pago de la contribución y
 
 > <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2001)</small>
 
-Para la integración y formulación de las denuncias y querellas que procedan conforme a este Código, así como para la función de cuadyuvancia correspondiente, las autoridades administrativas deberán proporcionar a la Procuraduría Fiscal del Distrito Federal los datos y elementos necesarios y suficientes.
+Para la integración y formulación de las denuncias y querellas que procedan conforme a este Código, así como para la función de cuadyuvancia (sic) correspondiente, las autoridades administrativas deberán proporcionar a la Procuraduría Fiscal del Distrito Federal los datos y elementos necesarios y suficientes.
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -10380,11 +10382,13 @@ construcción es de 6.01 a 15.00 metros.
 
 99 De 21 a más niveles.
 
-RU Se aplica a edificaciones sin una clara
+RU
 
-Rango distinción de niveles tales como naves
+Rango Se aplica a edificaciones sin una clara
 
-Unico industriales, bodegas, galerones y
+Unico distinción de niveles tales como naves
+
+industriales, bodegas, galerones y
 
 estructuras semejantes que excedan
 
@@ -10586,9 +10590,7 @@ Delegacional
 
 ### CAPITULO III. Del Pago de Remuneraciones
 
-### CAPITULO IV. Del Pago por Concepto de Responsabilidad
-
-Patrimonial
+### CAPITULO IV. Del Pago por Concepto de Responsabilidad Patrimonial
 
 ### CAPITULO V. Del Pago de Obras, Servicios y Otros Conceptos Presupuestales
 
@@ -12002,7 +12004,7 @@ I. REGION: Es una circunscripción convencional del territorio del Distrito Fede
 
 II. MANZANA: Es una parte de una región que regularmente está delimitada por tres o más calles o límites semejantes, representada por los tres siguientes dígitos del mencionado número de cuenta, la que tiene otros dos que representan el lote, que es el número asignado a cada uno de los inmuebles que integran en conjunto una manzana, con tres dígitos o más en el caso de condominios, para identificar a cada una de las localidades de un condominio construido en un lote.
 
-III. COLONIA CATASTRAL: Es una zona de territorio continuo del Distrito Federal, que comprende grupos de manzanas o lotes, la cual tiene asignado un valor unitario de suelo, expresado en pesos por metro cuadrado, en atención a la homogeneidad observable en cuanto a características y valor comercial. Existen dos tipos de colonia catastral: Area de valor y corredor de valor.
+III. COLONIA CATASTRAL: Es una zona de territorio continuo del Distrito Federal, que comprendegrupos de manzanas o lotes, la cual tiene asignado un valor unitario de suelo, expresado en pesos por metro cuadrado, en atención a la homogeneidad observable en cuanto a características y valor comercial. Existen dos tipos de colonia catastral: Area de valor y corredor de valor.
 
 a). Colonia Catastral tipo área de valor: Grupo de manzanas con características similares en infraestructura, equipamiento urbano, tipo de inmuebles y dinámica inmobiliaria.
 
@@ -12094,9 +12096,9 @@ tenga una altura de 6.01 a 15.00 metros.
 
 99 De 21 a más niveles.
 
-RU Se aplica a edificaciones sin una clara
+RU Se aplica a edificaciones sin una
 
-Rango distinción de niveles tales como naves
+Rango clara distinción de niveles tales como naves
 
 Unico industriales, bodegas, galerones, centros
 
@@ -12108,7 +12110,7 @@ V. CLASE: Es el grupo al que pertenece una construcción de acuerdo con las cara
 
 a). HABITACIONAL
 
-1. Precaria. Cuartos de usos múltiples (dormitorio, comedor y preparación de alimentos); servicios mínimos incompletos (letrinas o sanitarios en la mayoría de los casos fuera del cuerpo principal de la construcción); procedimientos informales de construcción; muros desplantados directamente sobre el suelo, habilitados con mampostería (tabiques y piedra de desecho) sin refuerzos horizontales y verticales; con techos predominantemente de láminas metálicas, cartón asbesto o similares apoyados en viguetería (madera y/o fierro) ; pisos habilitados con pedacerías de mamposterías (tabiques y piedras), o firmes de mezcla pobre en cemento- arena y/o concreto simple; muros aparentes o aplanados escasos con mezcla o yeso; herrería y cancelería de fierro, perfiles sencillos de desecho; vidriería incompleta; instalaciones básicas incompletas y/o visibles (eléctrica e hidráulica).
+1. Precaria. Cuartos de usos múltiples (dormitorio, comedor y preparación de alimentos); servicios mínimos incompletos (letrinas o sanitarios en la mayoría de los casos fuera del cuerpo principal de la construcción); procedimientos informales de construcción; muros desplantados directamente sobre el suelo, habilitados con mampostería (tabiques y piedra de desecho) sin refuerzos horizontales y verticales; con techos predominantemente de láminas metálicas, cartón asbesto o similares apoyados en viguetería (madera y/o fierro) ; pisos habilitados con pedacerías de manposterías (tabiques y piedras), o firmes de mezcla pobre en cemento- arena y/o concreto simple; muros aparentes o aplanados escasos con mezcla o yeso; herrería y cancelería de fierro, perfiles sencillos de desecho; vidriería incompleta; instalaciones básicas incompletas y/o visibles (eléctrica e hidráulica).
 
 2. Económica. Espacios con algunas diferenciaciones por uso (sala-comedor, recámara(s) y cocineta o cocina); servicios mínimos completos (generalmente un baño); con procedimientos formales de construcción o de autoconstrucción; estructura a base de muros de carga de espesor propios de esta clase, con esfuerzos horizontales y verticales de concreto armado y/o marcos rígidos de concreto armado, acero, o mixtas, techos y/o entrepisos de concreto armado, maderas, terrados, bóvedas y similares, con claros cortos no mayores de 3.5 mts.; pisos habilitados con firmes de mezclas de cemento-arena y/o concreto simple, con acabados escobillados o en cemento pulido, o en su caso para recibir a otros materiales: losetas vinílicas delgadas ( hasta 3 mm.), mosaicos de pasta coloreada y/o, losetas de cerámica de pequeñas dimensiones (generalmente 20 x 20 cm.), alfombras pequeñas y delgadas de pelo ralo; muros refractarios o con acabados aparentes o aplanados de mezcla y/o de yeso lisos, generalmente con pintura; herrería y cancelería de fierro y/o aluminio de perfiles sencillos, vidrios pequeños y delgados; instalaciones básicas completas visibles u ocultas (hidráulica, sanitaria, eléctrica y gas).
 
@@ -12484,7 +12486,7 @@ El término de tres años que se indica en el párrafo primero del artículo 58 
 
 G.O. 31 DE DICIEMBRE DE 2000.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBE EL ARTICULO SEGUNDO DEL DECRETO EN RAZON DE SU IMPORTANCIA.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBE EL ARTICULO SEGUNDO DEL DECRETOEN RAZON DE SU IMPORTACIA.</small>
 
 ###### ARTICULO SEGUNDO.
 
@@ -12674,11 +12676,11 @@ c. cuando el inmueble cumpla con lo establecido en el numeral 3 se incrementará
 
 7. El valor catastral determinado mediante avalúo comprenderá la suma de los valores de suelo del inmueble, de sus construcciones, instalaciones especiales, elementos accesorios u obras complementarias, según sea el caso.
 
-> <small>N. DE E. VER TABLAS ANEXAS AL DECRETO QUE REFORMA ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CODIGO FINANCIERO DEL DISTRITO FEDERAL EN LA GACETA OFICIALDEL DISTRITO FEDERAL DE 31 DE DICIEMBRE DE 2001, PAGINAS 72 A 221.</small>
+> <small>N. DE E. VER TABLAS ANEXAS AL DECRETO QUE REFORMA ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CODIGO FINANCIERO DEL DISTRITO FEDERAL EN LA GACETA OFICIALDEL DISTRITO FEDERAL DE 31 de DICIEMBRE DE 2001, PAGINAS 72 a 221.</small>
 
 ###### ARTICULO TERCERO.
 
-El recurso de revocación a que se refiere este Código y del que hagan uso los contribuyentes siendo presentados a partir del 1° de enero del 2001, aún y cuando la notificación de los actos impugnados se haya realizado antes de esa fecha, se tramitarán y resolverán de conformidad con lo dispuesto en este ordenamiento.
+El recurso de revocación a que se refiere este Código y del que hagan uso los contribuyentes siendo presentados a partir del 1°de enero del 2001, aún y cuando la notificación de los actos impugnados se haya realizado antes de esa fecha, se tramitarán y resolverán de conformidad con lo dispuesto en este ordenamiento.
 
 Los recursos administrativos que se hayan interpuesto hasta el 31 de diciembre de 2000, y que se encuentren en trámite, se substanciarán de conformidad a lo dispuesto en el Código Financiero del Distrito Federal vigente hasta el 31 de diciembre del 2000.
 
@@ -12773,3 +12775,7 @@ Los montos que se establezcan en el artículo 211 serán aplicables hasta la pub
 La Secretaría de Desarrollo Social deberá presentar a la Asamblea para su aprobación a más tardar en la segunda quincena de abril, los cálculos respectivos a las fracciones III y IV a que ser refiere el artículo 415-A de este Código.
 
 ARTICULO DEUDECIMO (sic).- Las micro y pequeñas empresas industriales, tendrán derecho a una reducción equivalente al 80% por concepto del Impuesto sobre Nominas durante el ejercicio fiscal del 2002.
+
+G.O. 31 DE ENERO DE 2002.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
