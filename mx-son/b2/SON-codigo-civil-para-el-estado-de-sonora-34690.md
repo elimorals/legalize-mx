@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2001-12-13"
+last_updated: "2004-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 13 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 29 DE ABRIL DE 2004.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -3479,9 +3479,9 @@ Cuando se otorgue la adopción plena, el Juez ordenará al Oficial del Registro 
 
 > <small>(ADICIONADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO IX.
+### CAPITULO VIII.
 
-De la Adopción de Extranjeros.
+De la Adopción Internacional.
 
 > <small>(REFORMADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
 
@@ -3499,9 +3499,9 @@ El Juez concederá la petición con audiencia del Ministerio Público, del adopt
 
 > <small>(ADICIONADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO VIII.
+### CAPITULO IX.
 
-De la Adopción Internacional.
+De la Adopción de Extranjeros.
 
 > <small>(REFORMADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
 
@@ -3521,7 +3521,13 @@ De la Conversión de la Adopción Simple.
 
 La adopción simple otorgada por cualquier tribunal de la República, podrá convertirse en adopción plena si los solicitantes están domiciliados en el Estado de Sonora, ha transcurrido más de un año de la adopción y prueban que han protegido y educado con afecto al adoptado, siempre que subsistan las aptitudes físicas, morales, psicológicas y económicas que se requieren para establecer el vínculo, según informe del Sistema Estatal para el Desarrollo Integral de la Familia.
 
-La solicitud de conversión debe estar suscrita por la persona o autoridad que otorgó su consentimiento para la adopción simple, pero en caso de ausencia u oposición infundada, el Juez de la adopción puede suplir el consentimiento.
+> <small>(REFORMADO, B.O. 29 DE ABRIL DE 2004)</small>
+
+La solicitud de conversión debe estar suscrita por los promoventes de la adopción simple, debiendo el Juez recabar el consentimiento de la persona o autoridad que otorgó su consentimiento; en caso de ausencia u oposición infundada, el Juez de la Adopción puede suplir el consentimiento.
+
+> <small>(ADICIONADO, B.O. 29 DE ABRIL DE 2004)</small>
+
+Si el menor respecto al cual se solicita llevar a cabo la con versión de adopción simple a plena es mayor de doce años, también se necesita su consentimiento para la conversión.
 
 > <small>(ADICIONADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
 
@@ -3769,9 +3775,13 @@ ADICIONADA, B.O. 17 DE MAYO DEL 2001)
 
 V.- Cuando el que la ejerza sea condenado por la comisión de un delito en el que la víctima sea el menor;
 
-> <small>(ADICIONADA, B.O. 17 DE MAYO DEL 2001)</small>
+> <small>(REFORMADA, B.O. 29 DE ABRIL DE 2004)</small>
 
-VI.- Cuando el que la ejerza sea condenado dos o más veces por delito grave.
+VI.- Cuando el que la ejerza sea condenado dos o más veces por delito grave, siempre que, a criterio del Juez, pueda poner en peligro la persona o bienes del menor; y
+
+> <small>(ADICIONADA, B.O. 29 DE ABRIL DE 2004)</small>
+
+VII. Cuando quien la ejerza deje de asistir o convivir injustificada con el menor por más de 90 días naturales, cuando éste se encuentre acogido en una institución pública de asistencia social.
 
 ###### Art. 612.
 
@@ -16393,7 +16403,7 @@ El cumplimiento voluntario de las deudas de juego o apuesta lícitos sobrepasand
 
 ###### Art. 3056.
 
-La deuda de juego o de apuesta prohibidos no puede comparar ni ser convertida por novación en una obligación civilmente eficaz.
+La deuda de juego o de apuesta prohibidos no puede compararse ni ser convertida por novación en una obligación civilmente eficaz.
 
 ###### Art. 3057.
 
@@ -17729,7 +17739,7 @@ La hipoteca constituída sobre cosa ajena es nula, y sólo quedará convalidada 
 
 La hipoteca constituída por el propietario aparente será válida, aun cuando se declare la nulidad del título de propiedad o la falta del mismo, siempre y cuando el acreedor sea de buena fe, no se desprendan los vicios del título de dominio del mismo Registro Público de la Propiedad, y la obligación que garantice tenga su origen en un acto a título oneroso.
 
-En los casos de mala fe del acreedor hipotecario, cuando los vicios resulten del mismo Registro Público de la Propiedad, o el acto que haya dado origen a la obligación principal sea gratuito, la hipoteca será nula. Esta nulidad podrá ser invocada por todo aquél que tenga interés jurídico, será imprescriptible y sólo podrá ser convalidada cuando el constituyente de la misma adquiera la propiedad por un título legítimo, antes de que exista evicción.
+En los casos de mala fe del acreedor hipotecario, cuando los vicios resulten del mismo Registro Público de la Propiedad, o el acto que haya dado origen a la obligación principal sea gratuito, la hipoteca será nula. Esta nulidad podrá ser invocada por todo aquel que tenga interés jurídico, será imprescriptible y sólo podrá ser convalidada cuando el constituyente de la misma adquiera la propiedad por un título legítimo, antes de que exista evicción.
 
 ###### Art. 3321.
 
@@ -18852,3 +18862,9 @@ B.O. 13 DE DICIEMBRE DE 2001.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 SEGUNDO.- Las adopciones realizadas con anterioridad a la entrada en vigor del presente decreto, podrán convertirse en adopciones plenas mediante sentencia judicial conforme al procedimiento señalado en las disposiciones materia del presente decreto.
+
+B.O. 29 DE ABRIL DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
