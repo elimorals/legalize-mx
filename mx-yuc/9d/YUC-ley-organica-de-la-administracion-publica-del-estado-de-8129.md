@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-la-administracion-publica-del-estado-de-8129"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-03-10"
-last_updated: "2001-09-13"
+last_updated: "2005-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE ENERO DE 2005.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 10 de marzo de 1988.
 
@@ -339,9 +339,11 @@ XXVII.- Formular, normar y coordinar las políticas tendientes a la promoción y
 
 XXVIII.- Establecer la coordinación con el Gobierno Federal y los municipios en materia de seguridad pública y vigilar el cumplimiento de los convenios que celebre el Estado con los otros dos órdenes de Gobierno; y
 
-> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADA, D.O. 28 DE ENERO DE 2005)</small>
 
-XXIX.- Los demás que le encomienden otras disposiciones legales.
+XXIX.- Administrar el Catastro del Estado, proporcionar a los municipios que lo soliciten los servicios de apoyo en materia catastral, así como vigilar el cumplimiento de los convenios relativos que celebre el Estado con los Ayuntamientos.
+
+XXX.- Los demás que le encomienden otras disposiciones legales.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O. 13 DE SEPTIEMBRE DE 2001)</small>
 
@@ -413,9 +415,7 @@ XVII.- Formar parte de los órganos de gobierno y administración de las Entidad
 
 XVIII.- Notificar los actos, acuerdos o resoluciones que emita con motivo del ejercicio de sus facultades tributarias y de las que le otorguen los convenios de colaboración administrativa, así como llevar a cabo las encomendadas por otras autoridades con motivo de acuerdos o convenios celebrados entre la Federación y el Estado y de éste con los Municipios;
 
-> <small>(REFORMADA, D.O. 13 DE SEPTIEMBRE DE 2001)</small>
-
-XIX.- Administrar el Catastro del Estado y proporcionar a los municipios que lo soliciten, servicios de apoyo en materia catastral y de administración del impuesto predial;
+XIX.- (DEROGADA, D.O. 28 DE ENERO DE 2005)
 
 > <small>(REFORMADA, D.O. 13 DE SEPTIEMBRE DE 2001)</small>
 
@@ -1182,3 +1182,17 @@ SEXTO.- Las atribuciones de las Dependencias a que se refiere este Decreto, cons
 SEPTIMO.- La transferencia de unidades administrativas de una Dependencia a otra, que se haga con motivo de las disposiciones de este Decreto, se realizará incluyendo los recursos humanos, financieros, presupuestales y materiales que corresponda a las unidades que se transfieren.
 
 OCTAVO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 28 DE ENERO DE 2005.
+
+PRIMERO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+SEGUNDO.- Quedan derogadas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO.- La transferencia administrativa y funcional de la oficina de Catastro del Estado, de la Secretaría de Hacienda a la Secretaría General de Gobierno se realizará con los recursos que por acuerdo interno determine el Titular del Ejecutivo. La transferencia administrativa de la Dirección de Catastro, de la Secretaría de hacienda a la Secretaría General de Gobierno que se efectúe con motivo de las disposiciones de este decreto, se realizará con los recursos humanos, financieros, presupuestales, materiales y en general todos los existentes que le permiten el cumplimiento de sus obligaciones.
+
+CUARTO.- El personal de base de la Dirección del Catastro del Estado, en atención al presente Decreto, formará parte de la Secretaría General de Gobierno y en ningún caso resultarán afectados sus derechos adquiridos, en virtud de la relación laboral con la Administración Pública del Estado.
+
+QUINTO.- En un plazo no mayor a ciento ochenta días naturales, contados a partir del día en que entre en vigor este Decreto, deberán ser reformados los reglamentos interiores de las dependencias a que se refiere el mismo.
+
+SEXTO.- A partir del inicio de vigencia del presente Decreto, cuando en la Ley de Catastro del Estado de Yucatán o su Reglamento se haga referencia a la Secretaría de Hacienda y Planeación o al Tesorero del Estado o Tesorero General del Estado, se entenderá que se refiere a la Secretaría General de Gobierno o al Secretario General de Gobierno, con excepción de lo relativo a asuntos hacendarios.
