@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "1982-11-30"
+last_updated: "1984-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-12-30"
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE ENERO DE 1984.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -71,6 +71,20 @@ A falta de disposición expresa, se estará a las prevenciones del Código Feder
 
 En los juicios de amparo todas las promociones deberán hacerse por escrito, salvo las que se hagan en las audiencias y notificaciones, así como en las comparecencias a que se refiere el artículo 117 de esta ley.
 
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+Las copias certificadas que se expidan para la substanciación del juicio de amparo, directo o indirecto, no causarán contribución alguna.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+###### ARTICULO 3o. Bis.
+
+Las multas previstas en esta ley se impondrán a razón de días de salario. Para calcular su importe se tendrá como base el salario mínimo general vigente en el Distrito Federal al momento de realizarse la conducta sancionada.
+
+El juzgador sólo aplicará las multas establecidas en esta Ley a los infractores que, a su juicio, hubieren actuado de mala fe.
+
+Cuando con el fin de fijar la competencia se aluda al salario mínimo, deberá entenderse el salario mínimo general vigente en el Distrito Federal al momento de presentarse la demanda de amparo o de interponerse el recurso.
+
 ### Capítulo II. De la capacidad y personalidad
 
 ###### ARTICULO 4o.
@@ -91,11 +105,13 @@ a).- La contraparte del agraviado cuando el acto reclamado emana de un juicio o 
 
 b).- El ofendido o las personas que, conforme a la ley, tengan derecho a la reparación del daño o a exigir la responsabilidad civil proveniente de la comisión de un delito, en su caso, en los juicios de amparo promovidos contra actos judiciales del orden penal, siempre que éstas afecten dicha reparación o responsabilidad;
 
-c).- La persona o personas que hayan gestionado en su favor el acto contra el que se pide amparo, cuando se trate de providencias dictadas por autoridades distintas de la judicial o del trabajo.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
-> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1980)</small>
+c).- La persona o personas que hayan gestionado en su favor el acto contra el que se pide amparo, cuando se trate de providencias dictadas por autoridades distintas de la judicial o del trabajo; o que, sin haberlo gestionado, tengan interés directo en la subsistencia del acto reclamado.
 
-IV.- El Ministerio Público Federal, quien intervendrá cuando el caso de que se trate afecte, a su juicio, el interés público; en los demás casos, podrá hacerlo para promover la pronta y expedita administración de justicia. En los asuntos en que intervenga lo hará en los términos de esta ley, y podrá interponer los recursos que señala la misma.
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 1984)</small>
+
+IV.- El Ministerio Público Federal, quien podrá intervenir en todos los juicios e interponer los recursos que señala esta Ley, independientemente de las obligaciones que la misma le precisa para procurar la pronta y expedita administración de justicia.
 
 ###### ARTICULO 6o.
 
@@ -135,9 +151,11 @@ En los casos no previstos por esta Ley, la personalidad se justificará en el ju
 
 Tanto el agraviado como el tercero perjudicado podrán constituir apoderado para que los represente en el juicio de amparo, por medio de escrito ratificado ante el juez de Distrito o autoridad que conozca de dicho juicio.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 13.
 
-Cuando alguno de los interesados tenga reconocida su personalidad ante la autoridad responsable, tal personalidad será admitida en el juicio de amparo para todos los efectos legales.
+Cuando alguno de los interesados tenga reconocida su personalidad ante la autoridad responsable, tal personalidad será admitida en el juicio de amparo para todos los efectos legales, siempre que compruebe tal circunstancia con las constancias respectivas.
 
 ###### ARTICULO 14.
 
@@ -153,7 +171,9 @@ En caso de fallecimiento del agraviado o del tercero perjudicado, el representan
 
 Si el acto reclamado emana de un procedimiento del orden penal, bastará, para la admisión de la demanda, la aseveración que de su carácter haga el defensor. En este caso, la autoridad ante quien se presente la demanda pedirá al juez o tribunal que conozca del asunto, que le remita la certificación correspondiente.
 
-Si apareciere que el promovente del juicio carece del carácter con que se ostentó, la autoridad que conozca del amparo le impondrá una multa de diez a cien pesos y ordenará la ratificación de la demanda. Si el agraviado no la ratificare, se tendrá por no interpuesta y quedarán sin efecto las providencias dictadas en el expediente principal y en el incidente de suspensión; si la ratificare, se tramitará el juicio, entendiéndose las diligencias directamente con el agraviado mientras no constituya representante.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+Si apareciere que el promovente del juicio carece del carácter con que se ostentó, la autoridad que conozca del amparo le impondrá una multa de tres a treinta días de salario y ordenará la ratificación de la demanda. Si el agraviado no la ratificare, se tendrá por no interpuesta y quedarán sin efecto las providencias dictadas en el expediente principal y en el incidente de suspensión; si la ratificare, se tramitará el juicio, entendiéndose las diligencias directamente con el agraviado mientras no constituya representante.
 
 ###### ARTICULO 17.
 
@@ -183,17 +203,19 @@ Si no hacen la designación, el juez mandará prevenirlas desde el primer auto p
 
 ### Capítulo III. De los términos
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 21.
 
-El término para la interposición de la demanda de amparo será de quince días. Dicho término se contará desde el día siguiente al en que se haya notificado al quejoso la resolución o acuerdo que reclame; al en que haya tenido conocimiento de ellos o de su ejecución, o al en que se hubiese ostentado sabedor de los mismos.
+El término para la interposición de la demanda de amparo será de quince días. Dicho término se contará desde el día siguiente al en que haya surtido efectos, conforme a la ley del acto, la notificación al quejoso de la resolución o acuerdo que reclame; al en que haya tenido conocimiento de ellos o de su ejecución, o al en que se hubiese ostentado sabedor de los mismos.
 
 ###### ARTICULO 22.
 
 Se exceptúan de lo dispuesto en el artículo anterior:
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 4 DE FEBRERO DE 1963)</small>
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 1984)</small>
 
-I.- Los casos en que por la sola expedición de una ley, ésta sea reclamable en la vía de amparo, pues entonces el término para la interposición de la demanda será de treinta días, que se contarán desde que la propia ley entre en vigor. Este término regirá en el caso de los actos reclamados que causen perjuicio a los intereses individuales de ejidatarios o comuneros, sin afectar los derechos y el régimen jurídico del núcleo de población a que pertenezcan.
+I.- Los casos en que a partir de la vigencia de una ley, ésta sea reclamable en la vía de amparo, pues entonces el término para la interposición de la demanda será de treinta días.
 
 > <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 1976)</small>
 
@@ -205,13 +227,17 @@ III.- Cuando se trate de sentencias definitivas dictadas en asuntos judiciales d
 
 No se tendrán por ausentes, para los efectos de este artículo, los que tengan mandatarios que los representen en el lugar del juicio; los que hubiesen señalado casa para oír notificaciones en él, o en cualquiera forma se hubiesen manifestado sabedores del procedimiento que haya motivado el acto reclamado.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 23.
 
-Son días hábiles para la promoción, substanciación y resolución de los juicios de amparo, todos los del año, con exclusión de los domingos, el 1o. de enero, 5 de febrero, 1o. y 5 de mayo, 14 y 16 de septiembre, 12 de octubre y 20 de noviembre.
+Son días hábiles para la promoción, substanciación y resolución de los juicios de amparo, todos los días del año, con exclusión de los sábados y domingos, el 1o. de enero, 5 de febrero, 1o. y 5 de mayo, 14 y 16 de septiembre, 12 de octubre y 20 de noviembre.
 
 Puede promoverse en cualquier día y a cualquiera hora del día o de la noche, si se trata de actos que importen peligro de privación de la vida, ataques a la libertad personal, deportación, destierro o alguno de los actos prohibidos por el artículo 22 de la Constitución Federal, así como la incorporación forzosa al ejército o armada nacionales, y cualquiera hora del día o de la noche será hábil para tramitar el incidente de suspensión en estos casos, hasta resolver sobre la suspensión definitiva del acto reclamado y dictar las providencias urgentes para cumplir la resolución en que se haya concedido.
 
-Para los efectos de esta disposición, los jefes y encargados de las oficinas de correos y telégrafos estarán obligados a recibir y transmitir, sin costo alguno para los interesados ni para el Gobierno, los mensajes en que se demande amparo por alguno de los actos enunciados, así como los mensajes y oficios que expidan las autoridades que conozcan de la suspensión, aun fuera de las horas del despacho y aun cuando existan disposiciones en contrario de las autoridades administrativas. La infracción de lo prevenido en este párrafo se castigará con arreglo al artículo 178 del Código Penal.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+Para los efectos de esta disposición, los jefes y encargados de las oficinas de correos y telégrafos estarán obligados a recibir y transmitir, sin costo alguno para los interesados ni para el gobierno, los mensajes en que se demande amparo por alguno de los actos enunciados, así como los mensajes y oficios que expidan las autoridades que conozcan de la suspensión, aun fuera de las horas del despacho y aun cuando existan disposiciones en contrario de las autoridades administrativas. La infracción de lo prevenido en este párrafo se castigará con la sanción que el Código Penal aplicable en materia federal señala para el delito de resistencia de particulares y desobediencia.
 
 En casos urgentes y de notorios perjuicios para el quejoso, los jueces podrán habilitar los días y las horas inhábiles, para la admisión de la demanda y la tramitación de los incidentes de suspensión no comprendidos en el segundo párrafo del presente artículo.
 
@@ -247,7 +273,9 @@ Las resoluciones deben ser notificadas a más tardar dentro del día siguiente a
 
 El agraviado y el tercero perjudicado podrán autorizar para oír notificaciones en su nombre, a cualquiera persona con capacidad legal. La facultad de recibir notificaciones autoriza a la persona designada para promover o interponer los recursos que procedan, ofrecer y rendir las pruebas y alegar en las audiencias.
 
-Las notificaciones al Titular del Poder Ejecutivo se entenderán con el Secretario o Jefe de Departamento de Estado que deba representarlo en el juicio de amparo, o, en su caso, con el Procurador General de la República, de acuerdo con lo dispuesto en el párrafo último del artículo 19 de esta Ley.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+Las notificaciones al titular del Poder Ejecutivo se entenderán con el Secretario de Estado o Jefe de Departamento Administrativo que deba representarlo en el juicio de amparo, o, en su caso, con el Procurador General de la República, de acuerdo con lo dispuesto en el párrafo último del artículo 19 de esta ley, de manera que una vez que se haya cumplimentado tal disposición las subsecuentes notificaciones se harán directamente a los funcionarios designados, quienes igualmente intervendrán en las actuaciones procesales procedentes. Las notificaciones al Procurador General de la República, le deberán ser hechas por medio de oficio dirigido a su residencia oficial.
 
 ###### ARTICULO 28.
 
@@ -257,7 +285,11 @@ I.- A las autoridades responsables, por medio de oficios que serán entregados, 
 
 II.- Personalmente, a los quejosos privados de su libertad, ya sea en el local del juzgado o en el establecimiento en que se hallen recluidos, si radican en el lugar del juicio; o por medio de exhorto o despacho si se encontraren fuera de él.
 
-Lo anterior se observará, salvo el caso de que los quejosos hubiesen designado persona para recibir notificaciones o tuviesen representante legal o apoderado;
+Lo anterior se observará, salvo el caso de que los quejosos hubiesen designado persona para recibir notificaciones o tuviesen representante legal o apoderado.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+También deberán notificarse personalmente a los interesados los requerimientos o prevenciones que se les formulen;
 
 III.- A los agraviados no privados de la libertad personal, a los terceros perjudicados, a los apoderados, procuradores, defensores, representantes, personas autorizadas para oír notificaciones y al Ministerio Público, por medio de lista que se fijará en lugar visible y de fácil acceso, del juzgado. La lista se fijará a primera hora de despacho del día siguiente al de la fecha de la resolución. Si alguna de las partes mencionadas no se presenta a oír notificación personal hasta las catorce horas del mismo día, se tendrá por hecha, poniendo el actuario la razón correspondiente.
 
@@ -285,9 +317,11 @@ Las demás notificaciones al Ministerio Público Federal, se le harán por medio
 
 III.- Fuera de los casos a que se refieren las fracciones anteriores, las notificaciones, en materia de amparo, en la Suprema Corte de Justicia o en los Tribunales Colegiados de Circuito, se harán con arreglo a las fracciones II y III del artículo precedente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 30.
 
-No obstante lo dispuesto en los artículos anteriores, la autoridad que conozca del juicio de amparo, del incidente de suspensión o de los recursos correspondientes, podrá ordenar que se haga personalmente determinada notificación a cualquiera de las partes, cuando lo estime conveniente; y en todo caso la primera notificación que deba hacerse a persona distinta de las partes en el juicio, se hará personalmente.
+No obstante lo dispuesto en los artículos anteriores, la autoridad que conozca del juicio de amparo, del incidente de suspensión o de los recursos correspondientes, podrá ordenar que se haga personalmente determinada notificación a cualquiera de las partes, cuando lo estime conveniente; y, en todo caso, el emplazamiento al tercero perjudicado y la primera notificación que deba hacerse a persona distinta de las partes en el juicio, se harán personalmente.
 
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
@@ -297,9 +331,9 @@ I.- Cuando deban hacerse al quejoso, tercero perjudicado o persona extraña al j
 
 El citatorio se entregará a los parientes, empleados o domésticos del interesado, o a cualquiera otra persona que viva en la casa, después de que el actuario se haya cerciorado de que vive allí la persona que deba ser notificada; de todo lo cual asentará razón en autos. Si la notificación debe hacerse en la casa o despacho señalado para oír notificaciones, el actuario entregará el citatorio a las personas que vivan en esa casa o se encontraren en el despacho, asentando razón en el expediente. El citatorio contendrá síntesis de la resolución que deba notificarse.
 
-> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 1984)</small>
 
-II.- Cuando no conste en autos el domicilio del interesado, ni tampoco la designación de casa o despacho para oír notificaciones, el actuario lo asentará así, a fin de que se dé cuenta al Presidente de la Suprema Corte, al de la Sala respectiva, al del Tribunal Colegiado de Circuito correspondiente, al juez o a la autoridad que conozca del asunto, para que provea lo que proceda. Salvo que se ordene expresamente al actuario que investigue el domicilio, la notificación se hará en estos casos por lista.
+II.- Cuando no conste en autos el domicilio del quejoso, ni la designación de casa o despacho para oír notificaciones, la notificación se le hará por lista. En cambio, si no consta en autos el domicilio del tercero perjudicado o de persona extraña al juicio, ni la designación de casa o despacho para oír notificaciones, el actuario lo asentará así, a fin de que se dé cuenta al Presidente de la Suprema Corte de Justicia, al de la Sala respectiva, al del Tribunal Colegiado de Circuito correspondiente, al juez o a la autoridad que conozca del asunto, para que dicten las medidas que estimen pertinentes con el propósito de que se investigue su domicilio. Si a pesar de la investigación se desconoce el domicilio, la primera notificación se hará por edictos a costa del quejoso.
 
 III.- Cuando deba notificarse al interesado la providencia que mande ratificar el escrito de desistimiento de la demanda o de cualquier recurso, si no consta en autos el domicilio o la designación de casa o lugar para oír notificaciones, ni se expresan estos datos en el escrito, la petición será reservada hasta que el interesado llene la omisión, notificándose el trámite por lista.
 
@@ -307,13 +341,15 @@ III.- Cuando deba notificarse al interesado la providencia que mande ratificar e
 
 En casos urgentes, cuando lo requiera el orden público o fuere necesario para la mejor eficacia de la notificación, la autoridad que conozca del amparo o del incidente de suspensión, podrá ordenar que la notificación se haga a las autoridades responsables por la vía telegráfica, sin perjuicio de hacerla conforme al artículo 28, fracción I, de esta ley. El mensaje se transmitirá gratuitamente, si se trata de cualquiera de los actos a que se refiere el párrafo segundo del artículo 23 de esta ley, y a costa del interesado en los demás casos. Aun cuando no se trate de casos urgentes, la notificación podrá hacerse por la vía telegráfica, si el interesado cubre el costo del mensaje.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 32.
 
-Las notificaciones que no fueren hechas en la forma que establecen las disposiciones precedentes, serán nulas. Las partes perjudicadas podrán pedir la nulidad a que se refiere este artículo, antes de dictarse sentencia definitiva en el expediente que haya motivado la notificación cuya nulidad se pide, y que se reponga el procedimiento desde el punto en que se incurrió en la nulidad.
+Las notificaciones que no fueren hechas en la forma que establecen las disposiciones precedentes, serán nulas. Las partes perjudicadas podrán pedir la nulidad a que se refiere este artículo, antes de dictarse sentencia definitiva, en el expediente que haya motivado la notificación cuya nulidad se pide, y que se reponga el procedimiento desde el punto en que se incurrió en la nulidad.
 
-Este incidente, que se considerará como de especial pronunciamiento, se substanciará en una sola audiencia, en la que se recibirán las pruebas de las partes, se oirán sus alegatos, que no excederán de media hora para cada una, y se dictará la resolución que fuere procedente. Si se declarare la nulidad de la notificación, se impondrá una multa de diez a cincuenta pesos al empleado responsable, quien será destituido de su cargo, en caso de reincidencia.
+Este incidente, que se considerará como de especial pronunciamiento, pero que no suspenderá el procedimiento, se substanciará en una sola audiencia, en la que se recibirán las pruebas de las partes, se oirán sus alegatos, que no excederán de media hora para cada una y se dictará la resolución que fuere procedente. Si se declarare la nulidad de la notificación, se impondrá una multa de uno a diez días de salario al empleado responsable, quien será destituido de su cargo, en caso de reincidencia.
 
-Las promociones de nulidad notoriamente infundadas, se desecharán de plano.
+Las promociones de nulidad notoriamente infundadas se desecharán de plano y se impondrá al promovente una multa de quince a cien días de salario.
 
 ###### ARTICULO 33.
 
@@ -339,15 +375,15 @@ Los demás incidentes que surjan, si por su naturaleza fueren de previo y especi
 
 ### Capítulo VI. De la competencia y de la acumulación
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 36.
 
-Cuando conforme a las prescripciones de esta ley sean competentes los jueces de Distrito para conocer de un juicio de amparo, lo será aquel en cuya jurisdicción se ejecute o trate de ejecutarse el acto reclamado.
+Cuando conforme a las prescripciones de esta ley sean competentes los jueces de Distrito para conocer de un juicio de amparo, lo será aquél en cuya jurisdicción deba tener ejecución, trate de ejecutarse, se ejecute o se haya ejecutado el acto reclamado.
 
 Si el acto ha comenzado a ejecutarse en un Distrito y sigue ejecutándose en otro, cualquiera de los jueces de esas jurisdicciones, a prevención, será competente.
 
 Es competente el juez de Distrito en cuya jurisdicción resida la autoridad que hubiese dictado la resolución reclamada, cuando ésta no requiera ejecución material.
-
-La misma regla se observará cuando, ameritando ejecución material la resolución, con su solo dictado viole alguna garantía individual, siempre que se reclame antes de que haya comenzado a ejecutarse.
 
 ###### ARTICULO 37.
 
@@ -367,11 +403,11 @@ La facultad que el artículo anterior reconoce a los jueces de primera instancia
 
 Cuando el amparo se promueva contra un juez de Primera Instancia y no haya en el lugar otro de la misma categoría, o cuando reclamándose contra diversas autoridades, no resida en el lugar juez de Primera Instancia o no pudiere ser habido y siempre que se trate de alguno de los actos enunciados en el artículo anterior, la demanda de amparo podrá presentarse ante cualquiera de las autoridades judiciales que ejerzan jurisdicción en el mismo lugar, si es que en él reside la autoridad ejecutora. El juez recibirá la demanda y procederá conforme a los dos artículos precedentes.
 
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 41.
 
-En los casos a que se refieren los artículos anteriores, si el promovente del amparo no justificare que la autoridad ejecutora señalada en la demanda reside dentro de la jurisdicción del juez ante quien la haya presentado, el Juez de Distrito impondrá, en todo caso, y sin perjuicio de las sanciones penales que procedan, al quejoso o a su apoderado, o a quien haya promovido en su nombre, o a su abogado, o a ambos, una multa de doscientos a mil pesos, salvo que se trate de los actos mencionados en el artículo 17. Esta multa se impondrá aun cuando se sobresea el juicio por desistimiento del quejoso o por cualquier otro motivo legal.
+En los casos a que se refieren los artículos anteriores, si el promovente del amparo no justificare que la autoridad ejecutora señalada en la demanda reside dentro de la jurisdicción del juez ante quien la haya presentado, el juez de Distrito impondrá, sin perjuicio de las sanciones penales que procedan, al quejoso o a su apoderado, o a quien haya promovido en su nombre, o a su abogado, o a ambos, una multa de treinta hasta ciento ochenta días de salario, salvo que se trate de los actos mencionados en el artículo 17. Esta multa se impondrá aun cuando se sobresea en el juicio por desistimiento del quejoso o por cualquier otro motivo legal.
 
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
@@ -385,19 +421,15 @@ Para conocer de los juicios de amparo que se promuevan contra actos de un Tribun
 
 Cuando se trate de actos de autoridad que actúe en auxilio de la Justicia Federal o diligenciando requisitorias, exhortos o despachos, no es competente para conocer del amparo que se interponga contra aquéllos el juez de Distrito que deba avocarse al conocimiento del asunto en que se haya originado el acto reclamado, o que hubiere librado la requisitoria, despacho o exhorto, aun cuando la autoridad responsable esté dentro de su jurisdicción, aplicándose en este caso lo dispuesto por el artículo anterior.
 
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1968)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 44.
 
-El amparo contra sentencias definitivas o laudos, sea que la violación se cometa durante el procedimiento o en la sentencia misma, se promoverá directamente ante la Suprema Corte de Justicia en los casos de su competencia y en los términos de la Ley Orgánica del Poder Judicial de la Federación.
-
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1968)</small>
+El amparo contra sentencias definitivas o laudos, sea que la violación se cometa durante el procedimiento o en la sentencia misma, se promoverá por conducto de la autoridad responsable, la que procederá en los términos señalados en los artículos 167,168 y 169 de esta ley.
 
 ###### ARTICULO 45.
 
-Fuera de los casos previstos en el artículo anterior, el amparo contra sentencias definitivas o de laudos, sea que la violación se cometa durante el procedimiento o en la sentencia misma, se promoverá directamente ante el Tribunal Colegiado de Circuito dentro de cuya jurisdicción resida la autoridad que pronuncie la sentencia o el laudo.
-
-En los casos a que se refieren este artículo y el anterior, la Suprema Corte de Justicia o el Tribunal Colegiado de Circuito, en su caso, pronunciarán la sentencia que corresponda sin más trámite que la presentación del escrito de demanda, de las copias certificadas a que se refiere el artículo 163 de esta ley, o de los autos originales, del escrito que presentare el tercer perjudicado y del que produzca, en su caso, el Ministerio Público Federal.
+(DEROGADO, D.O.F. 16 DE ENERO DE 1984)
 
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
@@ -407,15 +439,13 @@ Para los efectos de los dos artículos anteriores, se entenderán por sentencias
 
 También se considerarán como sentencias definitivas las dictadas en Primera Instancia en asuntos judiciales del orden civil, cuando los interesados hubieren renunciado expresamente la interposición de los recursos ordinarios que procedan, si las leyes comunes permiten la renuncia de referencia.
 
-(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951) (F. DE E., D.O.F. 14 DE MARZO DE 1951)
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 47.
 
-Cuando se promueva ante la Suprema Corte de Justicia un juicio de amparo de que deba conocer un Tribunal Colegiado de Circuito o se presente ante éste uno de que deba conocer aquella, se declararán incompetentes de plano y remitirán la demanda, con sus anexos, al Tribunal Colegiado de Circuito, en el primer caso, o a la Suprema Corte de Justicia, en el segundo. El Tribunal Colegiado de Circuito designado por la Suprema Corte de Justicia, conocerá del juicio sin que pueda objetarse su competencia; y si ésta resuelve que es competente, se avocará al conocimiento del negocio; en caso contrario, devolverá el expediente al Tribunal Colegiado de Circuito, sin que pueda objetarse tampoco la competencia de éste.
+Cuando se reciba en la Suprema Corte de Justicia un juicio de amparo del que deba conocer un Tribunal Colegiado de Circuito, o se reciba en éste uno de que deba conocer aquélla, se declararán incompetentes de plano y remitirán la demanda con sus anexos, al Tribunal Colegiado de Circuito, en el primer caso, o a la Suprema Corte de Justicia, en el segundo. El Tribunal Colegiado de Circuito designado por la Suprema Corte de Justicia, conocerá del juicio sin que pueda objetarse su competencia; y si ésta resuelve que es competente, se avocará al conocimiento del negocio. En caso contrario, devolverá el expediente al Tribunal Colegiado de Circuito, sin que pueda objetarse tampoco la competencia de éste.
 
-> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
-
-Si se promueve ante la Suprema Corte de Justicia o ante un Tribunal Colegiado de Circuito un juicio de amparo de que no deban conocer en única instancia, se declararán incompetentes de plano y remitirán la demanda, con sus anexos, al juez de Distrito a quien corresponda su conocimiento. El juez designado en este caso por la Corte, o por el Tribunal Colegiado de Circuito, si se trata de un Juzgado de Distrito de su jurisdicción, conocerá del juicio sin que pueda objetarse su competencia, a no ser en el caso a que se refiere el artículo 51. Si el Juzgado de Distrito no pertenece a la jurisdicción del Tribunal Colegiado de Circuito, podrá plantear la competencia, por razón del territorio, en los términos del artículo 52.
+Si se recibe en la Suprema Corte de Justicia o en un Tribunal Colegiado de Circuito un juicio de amparo del que no deban conocer en única instancia, se declararán incompetentes de plano y remitirán la demanda, con sus anexos, al juez de Distrito a quien corresponda su conocimiento. El juez designado en este caso por la Corte o por el Tribunal Colegiado de Circuito, si se trata de un juzgado de Distrito de su jurisdicción, conocerá del juicio sin que pueda objetarse su competencia, a no ser en el caso a que se refiere el artículo 51. Si el juzgado de Distrito no pertenece a la jurisdicción del Tribunal Colegiado de Circuito, podrá plantear la competencia, por razón del territorio, en los términos del artículo 52.
 
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
@@ -435,19 +465,21 @@ Cuando algún Tribunal Colegiado de Circuito tenga conocimiento de que otro est�
 
 Cuando un Tribunal Colegiado de Circuito conozca de un juicio de amparo o la revisión o cualquier otro asunto en materia de amparo, y estime que con arreglo a la ley no es competente para conocer de él, lo declarará así y remitirá los autos al Tribunal Colegiado de Circuito que, en su concepto, lo sea. Si éste considera que tiene facultades para conocer, se avocará al conocimiento del asunto; en caso contrario, comunicará su resolución al Tribunal que se haya declarado incompetente y remitirá los autos al Presidente de la Suprema Corte de Justicia, quien lo turnará a la Sala que corresponda, para que, dentro del término de ocho días, resuelva lo que proceda.
 
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 49.
 
-Cuando se presente ante un juez de Distrito una demanda de amparo contra alguno de los actos expresados en los artículos 44 y 45, se declarará incompetente de plano y mandará remitir dicha demanda al Presidente de la Suprema Corte de Justicia o al Tribunal Colegiado de Circuito, según corresponda, sin resolver sobre la suspensión del acto reclamado. El Presidente de la Suprema Corte o el Tribunal Colegiado de Circuito decidirán, según el caso y sin trámite alguno, si confirman o revocan la resolución del inferior. En el primer caso, mandarán tramitar el expediente y señalarán al quejoso y a la autoridad responsable un término que no podrá exceder de quince días para la presentación de las copias y del informe correspondiente; y en el caso de revocación, mandarán devolver los autos al Juzgado de su origen, sin perjuicio de las cuestiones de competencia que pudieren suscitarse entre los jueces de Distrito.
+Cuando se presente ante un juez de Distrito una demanda de amparo contra alguno de los actos expresados en el artículo 44, se declarará incompetente de plano y mandará remitir dicha demanda al Presidente de la Suprema Corte de Justicia o al Tribunal Colegiado de Circuito, según corresponda, sin resolver sobre la suspensión del acto reclamado. El Presidente de la Suprema Corte o del Tribunal Colegiado de Circuito decidirán, según el caso, y sin trámite alguno si confirman o revocan la resolución del inferior. En el primer caso impondrán al promovente una multa de diez a ciento ochenta días de salario, mandarán tramitar el expediente y señalarán al quejoso y a la autoridad responsable un término que no podrá exceder de quince días para la presentación de las copias y del informe correspondiente; y en el caso de revocación, mandarán devolver los autos al juzgado de su origen, sin perjuicio de las cuestiones de competencia que pudieren suscitarse entre los jueces de Distrito.
 
-> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951) (F. DE E., D.O.F. 14 DE MARZO DE 1951)
 
 Si la competencia de la Suprema Corte de Justicia o del Tribunal Colegiado de Circuito apareciere del informe previo o justificado de la autoridad responsable, el juez de Distrito se declarará incompetente conforme al párrafo anterior, y comunicará tal circunstancia a la autoridad responsable para los efectos de la fracción X del artículo 107 de la Constitución Federal, en relación con los artículos 171 a 175.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 50.
 
-Cuando se presente una demanda de amparo ante un juez de Distrito en el Distrito Federal, en que el acto reclamado emane de un asunto de ramo diverso del de su jurisdicción, la remitirá de plano con todos sus anexos, sin demora alguna, al juez de Distrito que corresponda, sin resolver sobre su admisión ni sobre la suspensión del acto.
+Cuando se presente una demanda de amparo ante un juez de distrito especializado por razón de materia, en la que el acto reclamado emane de un asunto de ramo diverso del de su jurisdicción, la remitirá de plano con todos sus anexos, sin demora alguna, al juez de Distrito que corresponda, sin resolver sobre su admisión ni sobre la suspensión del acto, salvo el caso previsto en el segundo párrafo del artículo 54.
 
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
@@ -467,9 +499,9 @@ Si la contienda de competencia se plantea entre jueces de Distrito que no sean d
 
 Cuando en cualquiera de los casos a que se refiere este artículo se resolviere que se trata de un mismo asunto, únicamente se continuará el juicio promovido ante el juez originalmente competente; por lo que sólo subsistirá el auto dictado en el incidente relativo al mismo juicio, sobre la suspensión definitiva del acto reclamado, ya sea que se haya negado o concedido ésta. El juez de Distrito declarado competente, sin acumular los expedientes, sobreseerá en el otro juicio, quedando, en consecuencia, sin efecto alguno el auto de suspensión dictado por el juez incompetente, sin perjuicio de hacer efectivas, si fuere procedente, las cauciones o medidas de aseguramiento relacionados con dicho auto. Si este último incidente se encontrare en revisión, se hará saber la resolución pronunciada en el expediente principal, al superior que esté conociendo de dicha revisión, para que decida lo que proceda.
 
-> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
-Si el juez de Distrito declarado competente, o el Tribunal Colegiado de Circuito o la Suprema Corte de Justicia, en su caso, no encontraren motivo fundado para haberse promovido dos juicios de amparo contra el mismo acto reclamado, impondrán, sin perjuicio de las sanciones penales que procedan, al quejoso o a su apoderado, o a su abogado, o a ambos, una multa de doscientos a mil pesos, salvo que se trate de los actos mencionados en el artículo 17.
+Si el juez de Distrito declarado competente, o el Tribunal Colegiado de Circuito, no encontraren motivo fundado para haberse promovido dos juicios de amparo contra el mismo acto reclamado, impondrán, sin perjuicio de las sanciones penales que procedan, al quejoso o a su apoderado, o a su abogado, o a ambos, una multa de treinta a ciento ochenta días de salario, salvo que se trate de los actos mencionados en el artículo 17.
 
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
@@ -499,7 +531,9 @@ Luego que se suscite una cuestión de competencia, las autoridades contendientes
 
 Admitida la demanda de amparo ningún juez de Distrito podrá declararse incompetente para conocer del juicio antes de resolver sobre la procedencia de la suspensión definitiva.
 
-En los casos de notoria incompetencia del juez de Distrito ante quien se presente la demanda, salvo lo previsto por el artículo 50 de esta ley, el juez se limitará a proveer sobre la suspensión provisional o de oficio cuando se trate de actos de los mencionados en el artículo 17, remitiendo, sin proveer sobre la admisión de la demanda, los autos al juez de Distrito que considere competente. Fuera de estos casos, recibida la demanda, el juez de Distrito, sin proveer sobre su admisión y sin substanciar incidente de suspensión, la remitirá con sus anexos al juez de Distrito que corresponda.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+En los casos de notoria incompetencia del juez de Distrito ante quien se presente la demanda, el juez se limitará a proveer sobre la suspensión provisional o de oficio cuando se trate de actos de los mencionados en el artículo 17, remitiendo, sin proveer sobre la admisión de la demanda, los autos al juez de Distrito que considere competente. Fuera de estos casos, recibida la demanda, el juez de Distrito, sin proveer sobre su admisión y sin substanciar incidente de suspensión, la remitirá con sus anexos al juez de Distrito que corresponda.
 
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
@@ -527,7 +561,9 @@ II.- Cuando se trate de juicios promovidos contra las mismas autoridades, por el
 
 Para conocer de la acumulación, así como de los juicios acumulados, es competente el juez de Distrito que hubiere prevenido, y el juicio más reciente se acumulará al más antiguo.
 
-Si las demandas de amparo hubiesen sido presentadas simultáneamente, o en cualquier otro caso de duda, decidirá el Tribunal Colegiado de Circuito, si se trata de juicios de amparo promovidos ante jueces de Distrito de su jurisdicción y la Sala correspondiente de la Suprema Corte de Justicia, si los jueces de Distrito no son de la misma jurisdicción.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+Cualquier caso de duda o contienda sobre lo establecido en el párrafo anterior se decidirá por el Tribunal Colegiado de Circuito dentro de cuya jurisdicción resida el juez de Distrito que previno.
 
 ###### ARTICULO 59.
 
@@ -547,9 +583,17 @@ El juez a quien se dirija el oficio lo hará conocer a las partes que ante él l
 
 Si se estima procedente la acumulación, se remitirán los autos al juez requeriente con emplazamiento de las partes.
 
-Si se estima que no procede la acumulación, se comunicará sin demora al juez requeriente y ambos remitirán los autos de sus respectivos juicios, al Tribunal Colegiado de Circuito, si se está ante el caso de jueces de Distrito de la jurisdicción de un mismo Tribunal Colegiado de Circuito, o a la Suprema Corte de Justicia, si son de jurisdicciones diferentes.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
-Recibidos los autos, con el pedimento del Ministerio Público Federal y los alegatos escritos que puedan presentar las partes, resolverá, según el caso, el Tribunal Colegiado de Circuito o la Sala que corresponda, dentro del término de ocho días, si procede o no la acumulación y, además, qué juez debe conocer de los amparos acumulados.
+Si se estima que no procede la acumulación, se comunicará sin demora al juez requiriente, y ambos remitirán los autos de sus respectivos juicios, al Tribunal Colegiado de Circuito, dentro de cuya jurisdicción resida el juez de Distrito que previno.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+Recibidos los autos, con el pedimento del Ministerio Público Federal y los alegatos escritos que puedan presentar las partes, resolverá el Tribunal Colegiado de Circuito dentro del término de ocho días, si procede o no la acumulación y, demás (sic), qué juez debe conocer de los amparos acumulados.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+Cuando la acumulación de juicios que se siguen en diferentes juzgados haya sido promovida por alguna de las partes y resulte improcedente, se impondrá a ésta una multa de treinta a ciento ochenta días de salario.
 
 ###### ARTICULO 62.
 
@@ -641,11 +685,11 @@ Si el Magistrado de Circuito, el juez de Distrito o la autoridad que conozca del
 
 El Pleno de la Suprema Corte de Justicia, la Sala respectiva de ésta o el Tribunal Colegiado de Circuito, según los casos a que se refieren las fracciones I, II y III del artículo 68, resolverán lo que fuere procedente si el funcionario aludido admite la causa del impedimento o no rinde informe; pero si la negare, se señalará para una audiencia, dentro de los tres días siguientes, en la que los interesados rendirán las pruebas que estimen convenientes y podrán presentar alegatos, pronunciándose, en la misma audiencia, la resolución que admita o deseche la causa del impedimento.
 
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 71.
 
-Cuando se deseche un impedimento, siempre que no se haya propuesto por el Ministerio Público Federal, se impondrá, sin perjuicio de las sanciones penales que procedan, a la parte que lo haya hecho valer o a su abogado, o a ambos, una multa de doscientos a mil pesos. Si el Ministro, Magistrado o Juez hubiesen negado la causa del impedimento y ésta quedare comprobada, quedará sujeto a la responsabilidad que corresponda conforme a la Ley.
+Cuando se deseche un impedimento, siempre que no se haya propuesto por el Ministerio Público Federal, se impondrá, sin perjuicio de las sanciones penales que procedan, a la parte que lo haya hecho valer o a su abogado, o a ambos, una multa de treinta a ciento ochenta días de salario. Si el ministro, magistrado o juez hubiere negado la causa del impedimento y ésta se comprobase, quedará sujeto a la responsabilidad que corresponda conforme a la ley.
 
 ###### ARTICULO 72.
 
@@ -679,7 +723,9 @@ VIII.- Contra las resoluciones o declaraciones del Congreso Federal o de las Cá
 
 IX.- Contra actos consumados de un modo irreparable;
 
-X.- Contra actos emanados de un procedimiento judicial, cuando por virtud de cambio de situación jurídica en el mismo deban considerarse consumadas irreparablemente las violaciones reclamadas en el juicio promovido, por no poder decidirse, en dicho juicio, sin afectar la nueva situación jurídica;
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 1984)</small>
+
+X.- Contra actos emanados de un procedimiento judicial, o de un procedimiento administrativo seguido en forma de juicio, cuando por virtud de cambio de situación jurídica en el mismo deban considerarse consumadas irreparablemente las violaciones reclamadas en el procedimiento respectivo, por no poder decidirse en tal procedimiento sin afectar la nueva situación jurídica;
 
 XI.- Contra actos consentidos expresamente o por manifestaciones de voluntad que entrañen ese consentimiento;
 
@@ -691,7 +737,9 @@ No se entenderá consentida tácitamente una ley, a pesar de que siendo impugnab
 
 Cuando contra el primer acto de aplicación proceda algún recurso o medio de defensa legal por virtud del cual pueda ser modificado, revocado o nulificado, será optativo para el interesado hacerlo valer o impugnar desde luego la ley en juicio de amparo. En el primer caso, solo se entenderá consentida la ley si no se promueve contra ella el amparo dentro del plazo legal contado a partir de la fecha en que se haya notificado la resolución recaída al recurso o medio de defensa, aun cuando para fundarlo se hayan aducido exclusivamente motivos de ilegalidad;
 
-XIII.- Contra las resoluciones judiciales respecto de las cuales conceda la ley algún recurso o medio de defensa, dentro del procedimiento, por virtud del cual puedan ser modificadas, revocadas o nulificadas, aun cuando la parte agraviada no lo hubiese hecho valer oportunamente, salvo lo que la fracción IX del artículo 107 constitucional dispone para los terceros extraños.
+(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 1984) (F. DE E., 6 DE FEBRERO DE 1984)
+
+XIII.- Contra las resoluciones judiciales respecto de las cuales conceda la ley algún recurso o medio de defensa, dentro del procedimiento, por virtud del cual puedan ser modificadas, revocadas o nulificadas, aun cuando la parte agraviada no lo hubiese hecho valer oportunamente, salvo lo que la fracción VII del artículo 107 constitucional dispone para los terceros extraños.
 
 Se exceptúan de la disposición anterior los casos en que el acto reclamado importe peligro de privación de la vida, deportación o destierro, o cualquiera de los actos prohibidos por el artículo 22 de la Constitución;
 
@@ -719,7 +767,11 @@ II.- Cuando el agraviado muera durante el juicio, si la garantía reclamada sól
 
 III.- Cuando durante el juicio apareciere o sobreviniese alguna de las causas de improcedencia a que se refiere el Capítulo anterior;
 
-IV.- Cuando de las constancias de autos apareciere claramente demostrado que no existe el acto reclamado, o cuando no se probare su existencia en la audiencia a que se refiere el artículo 155 le (sic) esta ley;
+IV.- Cuando de las constancias de autos apareciere claramente demostrado que no existe el acto reclamado, o cuando no se probare su existencia en la audiencia a que se refiere el artículo 155 le (sic) esta ley.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+Cuando hayan cesado los efectos del acto reclamado o cuando hayan ocurrido causas notorias de sobreseimiento, la parte quejosa y la autoridad o autoridades responsables están obligadas a manifestarlo así, y si no cumplen esa obligación, se les impondrá una multa de diez a ciento ochenta días de salario, según las circunstancias del caso;
 
 (REFORMADA, D.O.F. 29 DE JUNIO DE 1976) (F. DE E., D.O.F. 22 DE JULIO DE 1976)
 
@@ -727,7 +779,13 @@ V.- En los amparos directos y en los indirectos que se encuentren en trámite an
 
 En los amparos en revisión, la inactividad procesal o la falta de promoción del recurrente durante el término indicado, producirá la caducidad de la instancia. En ese caso, el tribunal revisor declarará que ha quedado firme la sentencia recurrida.
 
-Cuando haya (sic) cesado los efectos del acto reclamado o cuando hayan ocurrido causas notorias de sobreseimiento, la parte quejosa y la autoridad o autoridades responsables están obligadas a manifestarlo así, y si no cumplen esa obligación, se les podrá imponer una multa de diez a trescientos pesos según las circunstancias del caso.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+En los amparos en materia de trabajo operará el sobreseimiento por inactividad procesal o la caducidad de la instancia en los términos antes señalados, cuando el quejoso o recurrente, según el caso, sea el patrón.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+Celebrada la audiencia constitucional o listado el asunto para audiencia no procederá el sobreseimiento por inactividad procesal ni la caducidad de la instancia.
 
 ###### ARTICULO 75.
 
@@ -741,7 +799,9 @@ El sobreseimiento no prejuzga sobre la responsabilidad en que haya incurrido la 
 
 Las sentencias que se pronuncien en los juicios de amparo sólo se ocuparán de los individuos particulares o de las personas morales, privadas u oficiales que lo hubiesen solicitado, limitándose a ampararlos y protegerlos, si procediere, en el caso especial sobre el que verse la demanda, sin hacer una declaración general respecto de la ley o acto que la motivare.
 
-Podrá suplirse la deficiencia de la queja cuando el acto reclamado se funde en leyes declaradas inconstitucionales por la jurisprudencia de la Suprema Corte de Justicia.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+Cuando el acto reclamado se funde en leyes declaradas inconstitucionales por la jurisprudencia de la Suprema Corte, los funcionarios que conozcan del amparo deberán suplir la deficiencia de la queja, ajustándose a los plazos que señalan los artículos 156 y 182 bis de esta ley.
 
 Podrá también suplirse la deficiencia de la queja, en materia penal y la de la parte obrera en materia del trabajo, cuando se encuentre que ha habido en contra del agraviado una violación manifiesta de la ley que lo ha dejado sin defensa, y en materia penal, además, cuando se le haya juzgado por una ley que no es exactamente aplicable al caso.
 
@@ -765,27 +825,29 @@ En las sentencias que se dicten en los juicios de amparo, el acto reclamado se a
 
 En las propias sentencias sólo se tomarán en consideración las pruebas que justifiquen la existencia del acto reclamado y su constitucionalidad o inconstitucionalidad.
 
-En los amparos en que se contraviertan derechos de menores o incapaces, el tribunal que conozca del juicio podrá aportar de oficio las pruebas que estime pertinentes.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
+El juez de amparo podrá recabar oficiosamente pruebas que, habiendo sido rendidas ante la responsable, no obren en autos y estime necesarias para la resolución del asunto.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 79.
 
-La Suprema Corte de Justicia, los Tribunales Colegiados de Circuito y los jueces de Distrito, en sus sentencias, podrán suplir el error en que haya incurrido la parte agraviada al citar la garantía cuya violación reclame, otorgando el amparo por la que realmente aparezca violada; pero sin cambiar los hechos o conceptos de violación expuestos en la demanda.
-
-> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1974)</small>
-
-El Juicio de amparo por inexacta aplicación de la ley, contra actos de autoridades judiciales del orden civil, es de estricto derecho, salvo los casos de amparos que afecten derechos de menores o incapaces, y, por tanto, la sentencia que en el se dicte, a pesar de lo prevenido en este artículo, se sujetará a los términos de la demanda, sin que sea permitido suplir ni ampliar nada en ella.
+En los juicios de amparo en que no proceda la suplencia de la queja, de acuerdo con lo dispuesto en el artículo 76 de esta ley, la Suprema Corte de Justicia, los Tribunales Colegiados de Circuito y los jueces de Distrito podrán corregir los errores que adviertan en la cita de los preceptos constitucionales y legales que se consideren violados, y examinar en su conjunto los agravios y conceptos de violación, así como los demás razonamientos de las partes, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en la demanda.
 
 ###### ARTICULO 80.
 
 La sentencia que conceda el amparo tendrá por objeto restituir al agraviado en el pleno goce de la garantía individual violada, restableciendo las cosas al estado que guardaban antes de la violación, cuando el acto reclamado sea de carácter positivo; y cuando sea de carácter negativo, el efecto del amparo será obligar a la autoridad responsable a que obre en el sentido de respetar la garantía de que se trate y a cumplir, por su parte, lo que la misma garantía exija.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 81.
 
-Siempre que en un juicio de amparo se dicte sobreseimiento o se niegue la protección constitucional por haberse interpuesto la demanda sin motivo, se impondrá al quejoso o a sus representantes, en su caso, al abogado o a ambos, una multa de mil a diez mil pesos.
+Cuando en un juicio de amparo se dicte sobreseimiento o se niegue la protección constitucional por haberse interpuesto la demanda sin motivo, se impondrá al quejoso o a sus representantes, en su caso, al abogado o a ambos, una multa de diez a ciento ochenta días de salario, tomando en cuenta las peculiaridades del caso.
+
+Se procederá de igual manera cuando se sobresea con base en las causales de improcedencia establecidas en las fracciones III y IV del artículo 73 de este ordenamiento; y, en general, cuando se advierta que la conducta procesal de las partes tuvo como propósito entorpecer la tramitación y solución del asunto.
+
+En los casos de reincidencia se podrá imponer una multa de hasta tres tantos la suma máxima señalada, considerándose como responsable de ese comportamiento al representante o autorizado en el asunto.
 
 ### Capítulo XI. De los recursos
 
@@ -793,9 +855,11 @@ Siempre que en un juicio de amparo se dicte sobreseimiento o se niegue la protec
 
 En los juicios de amparo no se admitirán más recursos que los de revisión, queja y reclamación.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 83.
 
-Procede el recurso de REVISION:
+Procede el recurso de revisión:
 
 I.- Contra las resoluciones que desechen o tengan por no interpuesta la demanda de amparo;
 
@@ -803,7 +867,9 @@ II.- Contra las resoluciones de un juez de Distrito o del superior del tribunal 
 
 III.- Contra los actos de sobreseimiento, y contra las resoluciones en que se tenga por desistido al quejoso;
 
-IV.- Contra las sentencias dictadas en la audiencia constitucional por los jueces de Distrito, o por el superior del tribunal responsable, en los casos a que se refiere al (sic) artículo 37 de esta ley.
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 1984)</small>
+
+IV.- Contra las sentencias dictadas en la audiencia constitucional por los jueces de Distrito, o por el superior del tribunal responsable, en los casos a que se refiere el artículo 37 de esta ley. Al recurrirse tales sentencias podrán impugnarse los acuerdos pronunciados en el curso de la citada audiencia.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 19 DE FEBRERO DE 1951)</small>
 
@@ -823,21 +889,25 @@ Es competente la Suprema Corte de Justicia para conocer del recurso de revisión
 
 I.- Contra las sentencias pronunciadas en la audiencia constitucional por los jueces de Distrito, cuando:
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
-a).- Se impugne una ley por estimarla inconstitucional, o cuando se impugne una ley emanada del Congreso de la Unión, vigente en todo el país o sólo en el Distrito Federal, conocerá del recurso el Pleno de la Suprema Corte de Justicia. Establecida jurisprudencia, las revisiones pasarán por turno al conocimiento de las salas, las que fundarán su resolución en dicha jurisprudencia. No obstante si las salas estiman que en una revisión en trámite hay razones graves para dejar de sustentar la jurisprudencia, las darán a conocer al Pleno para que éste resuelva el caso, ratificando o no esa jurisprudencia.
+a).- Se impugne una ley o un tratado internacional por estimarlos inconstitucionales.
 
-Cuando se impugne una ley de los Estados, conocerán del recurso las salas de la Suprema Corte de Justicia, según el turno que llevará la presidencia de la misma. Emitida una tesis por una de las salas, se hará del conocimiento de las demás, las cuales, antes de resolver en concreto algún asunto, en caso de sustentar criterio diverso, lo harán del conocimiento del Pleno para que éste determine la tesis que deba prevalecer. La determinación del Pleno no afectará las situaciones jurídicas concretas derivadas de las sentencias que se hubieren dictado con anterioridad.
+En los casos en que por existir jurisprudencia las revisiones pasen al conocimiento de la Salas, en términos de lo establecido en la Ley Orgánica del Poder Judicial de la Federación, éstas fundarán su resolución en dicha jurisprudencia. No obstante, si las Salas estiman que en una revisión en trámite hay razones graves para dejar de sustentar la jurisprudencia, las darán a conocer al Pleno para que éste resuelva el caso, ratificando o no esa jurisprudencia.
 
-b).- Se trate de los casos comprendidos en las fracciones II y III del artículo 103 Constitucional. De la revisión conocerá también el pleno de la Suprema Corte de Justicia;
+Cuando se impugne una ley de los Estados, emitida una tesis por una de las Salas, conforme a la distribución de competencias prevista en la Ley Orgánica del Poder Judicial de la Federación, se hará del conocimiento de las demás, las cuales, antes de resolver en concreto algún asunto, en caso de sustentar criterio diverso, lo harán del conocimiento del Pleno para que éste determine la tesis que deba prevalecer. La determinación del Pleno no afectará las situaciones jurídicas concretas derivadas de las sentencias que se hubieren dictado con anterioridad.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+b).- Se trate de los casos comprendidos en las fracciones II y III del artículo 103 Constitucional.
 
 c).- Se reclamen del Presidente de la República, por estimarlos inconstitucionales, reglamentos en materia federal expedidos de acuerdo con el artículo 89, fracción I, de la Constitución, cualquiera que sea la cuantía o la importancia del caso; así como de aquellas en que se reclame un acuerdo de extradición dictado por el Poder Ejecutivo, a petición de un gobierno extranjero;
 
 d).- Se reclamen, en materia agraria, actos de cualquiera autoridad que afecten a núcleos ejidales o comunales en sus derechos colectivos, o a la pequeña propiedad;
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
-e).- La autoridad responsable en amparo administrativo, sea federal, si se trata de asuntos cuya cuantía exceda de un millón de pesos o de asuntos que revistan, a juicio de la Suprema Corte de Justicia, importancia trascendente para el interés nacional, cualquiera que sea su cuantía; y
+e).- La autoridad responsable en materia administrativa sea federal y no sea de las instituidas conforme a la fracción VI, base primera, del artículo 73 de la Constitución, con las limitaciones que en materia de competencia por cuantía establece la Ley Orgánica del Poder Judicial de la Federación, o de asuntos que se consideren a juicio de la Sala de importancia trascendente para los intereses de la Nación, cualquiera que sea su cuantía.
 
 f).- Se reclame, en materia penal, solamente la violación del artículo 22 Constitucional.
 
@@ -857,19 +927,21 @@ I.- Contra los autos y resoluciones que pronuncien los jueces de Distrito o el s
 
 II.- Contra las sentencias pronunciadas en la audiencia constitucional por los jueces de Distrito o por el superior del tribunal responsable, siempre que no se trate de los casos previstos en la fracción I del artículo 84.
 
-> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1968)</small>
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 1984)</small>
 
-III.- Contra las sentencias dictadas en amparos promovidos contra actos de las autoridades instituidas conforme a la fracción VI, bases primera y segunda, del artículo 73 de la Constitución General de la República.
+III.- Contra las sentencias dictadas en amparos promovidos contra actos de las autoridades instituidas conforme a la fracción VI, base primera, del artículo 73 de la Constitución Federal de la República.
 
 > <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1968)</small>
 
 Las sentencias que pronuncien los Tribunales Colegiados de Circuito al conocer de la revisión, no admitirán recurso alguno.
 
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 86.
 
-El recurso de revisión sólo podrá interponerse por cualquiera de las partes en el juicio, ya sea ante el Juez de Distrito o autoridad que conozca del mismo, o ante el Tribunal Colegiado de Circuito o la Suprema Corte de Justicia de la Nación, según que su conocimiento corresponda a ésta o a aquél. El término para la interposición del recurso será de cinco días, contados desde el siguiente al en que surta sus efectos la notificación de la resolución recurrida.
+El recurso de revisión se interpondrá por conducto del juez de Distrito, de la autoridad que conozca del juicio, o del Tribunal Colegiado de Circuito en los casos de amparo directo. El término para la interposición del recurso será de diez días, contados desde el siguiente al en que surta sus efectos la notificación de la resolución recurrida.
+
+La interposición del recurso, en forma directa, ante la Suprema Corte de Justicia de la Nación o ante el Tribunal Colegiado de Circuito, según corresponda, no interrumpirá el transcurso del término a que se refiere el párrafo anterior.
 
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
@@ -887,27 +959,33 @@ El recurso de revisión se interpondrá por escrito, en el que el recurrente exp
 
 Si el recurso se intenta contra resolución pronunciada en amparo directo por Tribunales Colegiados de Circuito, el recurrente deberá transcribir, textualmente, en su escrito, la parte de la sentencia que contiene una calificación de inconstitucionalidad de la ley o establece la interpretación directa de un precepto de la Constitución.
 
-Si el recurrente interpone la revisión ante el Juez de Distrito o la autoridad que conozca o haya conocido del juicio, o ante el Tribunal Colegiado de Circuito, deberá exhibir una copia del escrito de expresión de agravios para el expediente y una para cada una de las otras partes. Si interpusiere el recurso directamente ante la Suprema Corte de Justicia, o en su caso, ante el Tribunal Colegiado de Circuito, deberá hacerlo saber, bajo protesta de decir verdad, al juez o autoridad que haya dictado la resolución recurrida, acompañando, igualmente, las copias necesarias del escrito de revisión.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+Con el escrito de expresión de agravios, el recurrente deberá exhibir una copia de él para el expediente y una para cada una de las otras partes.
 
 Cuando falten total o parcialmente las copias a que se refiere el párrafo anterior, se requerirá al recurrente para que presente las omitidas, dentro del término de tres días; si no las exhibiere, el Juez de Distrito, la autoridad que conozca del juicio de amparo o el Tribunal Colegiado de Circuito, si se trata de revisión contra resolución pronunciada por éste en amparo directo, tendrán por no interpuesto el recurso.
 
-Si el recurso de revisión se interpuso directamente ante la Suprema Corte de Justicia o el Tribunal Colegiado de Circuito, el Juez de Distrito o la autoridad que conozca del juicio, cuando falten total o parcialmente las copias, requerirán al recurrente para que presente las omitidas, dentro del término de tres días, y si no las exhibiere, lo harán saber así a la propia Corte o a dicho Tribunal, para los mismos efectos de tenerlo por no interpuesto.
+> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 16 DE ENERO DE 1984)</small>
 
-> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1980)</small>
+> <small>(DEROGADO SEXTO PARRAFO, D.O.F. 16 DE ENERO DE 1984)</small>
 
-En el caso en que el Juez de Distrito haya declarado ejecutoriada la sentencia por falta del aviso a que se refiere el párrafo tercero, se desechará el recurso de revisión.
-
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 89.
 
-Interpuesta la revisión y recibidas en tiempo las copias de escrito de expresión de agravios conforme al artículo 88, el juez de Distrito o el superior del Tribunal que haya cometido la violación reclamada en los casos a que se refiere el artículo 37, remitirá el expediente original a la Suprema Corte de Justicia o al Tribunal Colegiado de Circuito, según corresponda, dentro del término de cuarenta y ocho horas, así como el escrito original, en su caso, en que se haya interpuesto el recurso de revisión.
+Interpuesta la revisión y recibidas en tiempo las copias del escrito de expresión de agravios conforme al artículo 88, el juez de Distrito o el superior del tribunal que haya cometido la violación reclamada en los casos a que se refiere el artículo 37, remitirán el expediente original a la Suprema Corte de Justicia o al Tribunal Colegiado de Circuito, según que el conocimiento del asunto competa a aquélla o a éste, dentro del término de veinticuatro horas, así como el original del propio escrito de agravios y la copia que corresponda al Ministerio Público Federal.
 
-En los casos de la fracción II del artículo 83 de esta Ley, al remitirse el incidente al Tribunal Colegiado de Circuito, deberá dejarse copia de él para los efectos legales correspondientes.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+En los casos de la fracción II del artículo 83 de esta ley, el expediente original del incidente de suspensión deberá remitirse, con el original del escrito de expresión de agravios, dentro del término de veinticuatro horas al Tribunal Colegiado de Circuito.
+
+> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
 Tratándose del auto en que se haya concedido o negado la suspensión de plano, interpuesta la revisión, sólo deberá remitirse al Tribunal Colegiado de Circuito, copia certificada del escrito de demanda, del auto recurrido, de sus notificaciones y del escrito u oficio en que se haya interpuesto el recurso de revisión con expresión de la fecha y hora del recibo.
 
-Cuando la revisión se interponga contra sentencia pronunciada en materia de amparo directo por un Tribunal Colegiado de Circuito, éste remitirá el expediente original a la Suprema Corte de Justicia de la Nación, dentro del término de diez días, y si su sentencia no contiene decisión sobre constitucionalidad de una ley, ni interpretación directa de un precepto de la Constitución Federal, lo hará así constar expresamente el auto relativo y en el oficio de remisión del expediente.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+Cuando la revisión se interponga contra sentencia pronunciada en materia de amparo directo por un Tribunal Colegiado de Circuito, éste remitirá el expediente original a la Suprema Corte de Justicia de la Nación, así como el original del escrito de agravios y la copia que corresponda al Ministerio Público dentro del término de veinticuatro horas, y si su sentencia no contiene decisión sobre constitucionalidad de una ley ni interpretación directa de un precepto de la Constitución Federal, lo hará así constar expresamente en el auto relativo y en el oficio de remisión del expediente.
 
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
@@ -923,9 +1001,9 @@ Admitida la revisión por el Presidente de la Suprema Corte de Justicia o por lo
 
 Admitida la revisión por el Tribunal Colegiado de Circuito y hecha la notificación al Ministerio Público, el propio Tribunal resolverá lo que fuere procedente dentro del término de quince días.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1957)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
-Siempre que el Presidente de la Suprema Corte de Justicia o, en sus respectivos casos, el Pleno o la Sala correspondiente, desechen el recurso de revisión interpuesto contra la sentencia pronunciada en amparo directo por el Tribunal Colegiado de Circuito, por no contener dicha sentencia decisión sobre la constitucionalidad de una ley o no establecer la interpretación directa de un precepto de la Constitución Federal, impondrán, sin perjuicio de las sanciones penales que procedan, al recurrente o a su apoderado o a su abogado, o a ambos, una multa de quinientos a mil pesos.
+Siempre que el Presidente de la Suprema Corte de Justicia o, en sus respectivos casos, el Pleno, o la Sala correspondiente, desechen el recurso de revisión interpuesto contra sentencias pronunciadas por Tribunales Colegiados de Circuito, por no contener dichas sentencias decisión sobre la constitucionalidad de una ley o no establecer la interpretación directa de un precepto de la Constitución Federal, impondrán, sin perjuicio de las sanciones penales que procedan, al recurrente o a su apoderado, o a su abogado, o a ambos, una multa de treinta a ciento ochenta días de salario.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1957)</small>
 
@@ -945,9 +1023,9 @@ II.- Sólo tomarán en consideración las pruebas que se hubiesen rendido ante e
 
 III.- Si consideran infundada la causa de improcedencia expuesta por el juez de Distrito o la autoridad que haya conocido del juicio de amparo en los casos del artículo 37, para sobreseer en él en la audiencia constitucional después de que las partes hayan rendido pruebas y presentado sus alegatos, podrán confirmar el sobreseimiento si apareciere probado otro motivo legal, o bien revocar la resolución recurrida y entrar al fondo del asunto, para pronunciar la sentencia que corresponda, concediendo o negando el amparo, y (sic)
 
-> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 1984)</small>
 
-IV.- Si en la revisión de una sentencia definitiva, en los casos de la fracción IV del artículo 83, encontraren al estudiar los agravios que se violaron las reglas fundamentales que norman el procedimiento en el juicio de amparo, o que el juez de Distrito o la autoridad que haya conocido del juicio en primera instancia, incurrió en alguna omisión que hubiere dejado sin defensa al quejoso o pudiere influir en la sentencia que deba dictarse en definitiva, revocarán la recurrida y mandarán reponer el procedimiento, así como cuando aparezca también que indebidamente no ha sido oída alguna de las partes que tenga derecho a intervenir en el juicio conforme a la ley;
+IV.- Si en la revisión de una sentencia definitiva, en los casos de la fracción IV del artículo 83, encontraren que se violaron las reglas fundamentales que norman el procedimiento en el juicio de amparo, o que el juez de Distrito o la autoridad que haya conocido del juicio en primera instancia, incurrió en alguna omisión que hubiere dejado sin defensa al recurrente o pudiere influir en la sentencia que deba dictarse en definitiva, revocarán la recurrida y mandarán reponer el procedimiento, así como cuando aparezca también que indebidamente no ha sido oída alguna de las partes que tenga derecho a intervenir en el juicio conforme a la ley; y (sic)
 
 > <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 1976)</small>
 
@@ -1003,7 +1081,9 @@ V.- Contra las resoluciones que dicten los jueces de Distrito, el Tribunal que c
 
 VI.- Contra las resoluciones que dicten los jueces de Distrito, o el superior del tribunal a quien se impute la violación en los casos a que se refiere el artículo 37 de esta ley, durante la tramitación del juicio de amparo o del incidente de suspensión, que no admitan expresamente el recurso de revisión conforme al artículo 83 y que, por su naturaleza trascendental y grave, puedan causar daño o perjuicio a alguna de las partes, no reparable en la sentencia definitiva; o contra las que se dicten después de fallado el juicio en primera instancia, cuando no sean reparables por las mismas autoridades o por la Suprema Corte de Justicia con arreglo a la ley;
 
-VII.- Contra las resoluciones definitivas que dicten los jueces de Distrito en el incidente de reclamación de daños y perjuicios a que se refiere el artículo 129 de esta ley, siempre que el importe de aquéllos exceda de trescientos pesos;
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 1984)</small>
+
+VII.- Contra las resoluciones definitivas que se dicten en el incidente de reclamación de daños y perjuicios a que se refiere el artículo 129 de esta ley, siempre que el importe de aquéllas exceda de treinta días de salario;
 
 > <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
@@ -1011,11 +1091,21 @@ VIII.- Contra las autoridades responsables, con relación a los juicios de ampar
 
 > <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
-IX.- Contra actos de las autoridades responsables, en los casos de la competencia de la Suprema Corte de Justicia, en única instancia, o de los Tribunales Colegiados de Circuito, por exceso o defecto en la ejecución de la sentencia en que se haya concedido el amparo al quejoso.
+IX.- Contra actos de las autoridades responsables, en los casos de la competencia de la Suprema Corte de Justicia, en única instancia, o de los Tribunales Colegiados de Circuito, por exceso o defecto en la ejecución de la sentencia en que se haya concedido el amparo al quejoso;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 1984)</small>
+
+X.- Contra las resoluciones que pronuncien los jueces de Distrito en el caso previsto en la parte final del artículo 105 de este ordenamiento;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 1984)</small>
+
+XI.- Contra las resoluciones de un juez de Distrito o del superior del Tribunal responsable, en su caso, en que concedan o nieguen la suspensión provisional.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 96.
 
-Cuando se trate de exceso o defecto en la ejecución del auto de suspensión o de la sentencia en que se haya concedido el amparo al quejoso, la queja podrá ser interpuesta por cualquiera de las partes en el juicio o por cualquiera persona que justifique legalmente que le agravia la ejecución o cumplimiento de dichas resoluciones. En los demás casos a que se refiere el artículo anterior, sólo podrá interponer la queja cualquiera de las partes; salvo los expresados en la fracción VI del propio artículo, en los cuales únicamente podrá (sic) interponer el recurso de queja las partes interesadas en el incidente de reclamación de daños y perjuicios y la parte que haya propuesto la fianza o contrafianza.
+Cuando se trate de exceso o defecto en la ejecución del auto de suspensión o de la sentencia en que se haya concedido el amparo al quejoso, la queja podrá ser interpuesta por cualesquiera de las partes en el juicio o por cualquiera persona que justifique legalmente que le agravia la ejecución o cumplimiento de dichas resoluciones. En los demás casos a que se refiere el artículo anterior, sólo podrá interponer la queja cualesquiera de las partes; salvo los expresados en la fracción VII del propio artículo, en los cuales únicamente podrán interponer el recurso de queja las partes interesadas en el incidente de reclamación de daños y perjuicios, y la parte que haya propuesto la fianza o contrafianza.
 
 ###### ARTICULO 97.
 
@@ -1023,11 +1113,15 @@ Los términos para la interposición del recurso de queja serán los siguientes:
 
 I.- En los casos de las fracciones II y III del artículo 95 de esta ley podrá interponerse en cualquier tiempo, mientras se falle el juicio de amparo en lo principal, por resolución firme;
 
-II.- En los casos de las fracciones I, V, VI, VII y VIII del mismo artículo, dentro de los cinco días siguientes al en que surta sus efectos la notificación de la resolución recurrida;
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 1984)</small>
 
-III.- En los casos de las fracciones IV y IX del propio artículo 95, podrá interponerse dentro de un año, contando desde el día siguiente al en que se notifique al quejoso el auto en que se haya mandado cumplir la sentencia, o al en que la persona extraña a quien afecte su ejecución tenga conocimiento de ésta; salvo que se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal, deportación, destierro a (sic) de alguno de los prohibidos por el artículo 22 de la Constitución, en que la queja podrá interponerse en cualquier tiempo.
+II.- En los casos de las fracciones I, V, VI, VII, VIII y X del mismo artículo, dentro de los cinco días siguientes al en que surta sus efectos la notificación de la resolución recurrida;
 
-IV.- (DEROGADA, D.O.F. 29 DE JUNIO DE 1976)
+III.- En los casos de las fracciones IV y IX del propio artículo 95, podrá interponerse dentro de un año, contando desde el día siguiente al en que se notifique al quejoso el auto en que se haya mandado cumplir la sentencia, o al en que la persona extraña a quien afecte su ejecución tenga conocimiento de ésta; salvo que se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal, deportación, destierro a (sic) de alguno de los prohibidos por el artículo 22 de la Constitución, en que la queja podrá interponerse en cualquier tiempo;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 1984)</small>
+
+IV.- En el caso de la fracción XI del referido artículo 95, dentro de las veinticuatro horas siguientes a la en que surta sus efectos la notificación de la resolución recurrida.
 
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
@@ -1037,35 +1131,39 @@ En los casos a que se refieren las fracciones II, III y IV del artículo 95, la 
 
 Dada entrada al recurso, se requerirá a la autoridad contra la que se haya interpuesto para que rinda informe con justificación sobre la materia de la queja, dentro del término de tres días. Transcurrido éste, con informe o sin él, se dará vista al Ministerio Público por igual término, y dentro de los tres días siguientes se dictará la resolución que proceda.
 
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 99.
 
-En los casos de las fracciones I, VI y VII del artículo 95, el recurso de queja se interpondrá por escrito, directamente ante el Tribunal Colegiado de Circuito que corresponda, acompañando una copia para cada una de las autoridades contra quienes se promueva.
+En los casos de las fracciones I, VI y X, del artículo 95 el recurso de queja se interpondrá por escrito directamente ante el Tribunal Colegiado de Circuito que corresponda, acompañando una copia para cada una de las autoridades contra quienes se promueva.
 
-En los casos de las fracciones V, VIII y IX del mismo artículo 95, el recurso de queja se interpondrá por escrito, directamente ante la Suprema Corte de Justicia o ante el Tribunal Colegiado de Circuito, según que el conocimiento del amparo o de la revisión haya correspondido a este o a aquélla, acompañando una copia para cada una de las autoridades contra quienes se promueva y para cada una de las partes en el juicio de amparo.
+En los casos de las fracciones V, VII, VIII y IX del mismo artículo 95, el recurso de queja se interpondrá por escrito, directamente ante la Suprema Corte de Justicia o ante el Tribunal Colegiado de Circuito, según que el conocimiento del amparo o de la revisión haya correspondido a éste o a aquélla, acompañando una copia para cada una de las autoridades contra quienes se promueva y para cada una de las partes en el juicio.
 
-La tramitación y resolución de la queja se sujetará a lo dispuesto en el párrafo segundo del artículo anterior, con la sola salvedad del término para que la Sala respectiva o el Tribunal Colegiado de Circuito dicten la resolución que corresponda, que será de diez días.
+La tramitación y resolución de la queja en los casos previstos en las fracciones I a X, se sujetará a lo dispuesto en el párrafo segundo del artículo anterior con la sola salvedad del término para que la Sala respectiva o el Tribunal Colegiado de Circuito dicten la resolución que corresponda que será de diez días.
 
-Tanto en los casos de este artículo como en los del anterior, si no se exhibieren las copias necesarias del escrito de queja, se procederá en los términos del artículo 88, párrafo último.
+En el caso de la fracción XI, la queja deberá interponerse ante el juez de Distrito dentro del término de veinticuatro horas contado a partir del día siguiente a la fecha en que surta efectos la notificación de la resolución que conceda o niegue la suspensión provisional, acompañando las copias que se señalan en el artículo anterior. Dentro de las veinticuatro horas siguientes el Tribunal Colegiado de Circuito que corresponda deberá dictar la resolución que proceda. Los jueces de Distrito remitirán de inmediato los escritos en los que se formule la queja al Tribunal que deba conocer de la misma.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 100.
 
-La falta o deficiencia de los informes en los casos a que se refieren los dos artículos anteriores, establece la presunción de ser ciertos los hechos respectivos, y hará incurrir a las autoridades omisas en una multa de diez a cien pesos, que impondrá de plano la autoridad que conozca de la queja en la misma resolución que dicte sobre ella.
+La falta o deficiencia de los informes en los casos a que se refieren los dos artículos anteriores, establece la presunción de ser ciertos los hechos respectivos, y hará incurrir a las autoridades omisas en una multa de tres a treinta días de salario, que impondrá de plano la autoridad que conozca de la queja en la misma resolución que dicte sobre ella.
 
 ###### ARTICULO 101.
 
 En los casos a que se refiere el artículo 95, fracción VI, de esta ley, la interposición del recurso de queja suspende el procedimiento en el juicio de amparo, en los términos del artículo 53, siempre que la resolución que se dicte en la queja deba influir en la sentencia, o cuando de resolverse el juicio en lo principal se hagan nugatorios los derechos que pudiera hacer valer el recurrente en el acto de la audiencia, si obtuviere resolución favorable en la queja.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 102.
 
-Cuando la Suprema Corte de Justicia o el Tribunal Colegiado de Circuito desechen, en su caso, el recurso de queja por notoriamente improcedente, o lo declaren infundado por haberse interpuesto sin motivo alguno, impondrán siempre al recurrente o a su apoderado, o a su abogado, o a ambos, una multa de mil a diez mil pesos; salvo que el juicio de amparo se haya promovido contra alguno de los actos expresados en el artículo 17.
+Cuando la Suprema Corte de Justicia o el Tribunal Colegiado de Circuito desechen el recurso de queja por notoriamente improcedente, o lo declaren infundado por haberse interpuesto sin motivo alguno, impondrán al recurrente o a su apoderado, o a su abogado, o a ambos, una multa de diez a ciento veinte días de salario; salvo que el juicio de amparo se haya promovido contra alguno de los actos expresados en el artículo 17.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 103.
 
-El recurso de RECLAMACION es procedente contra los acuerdos de trámite dictados por el Presidente de la Suprema Corte de Justicia o por el presidente de cualquiera de las Salas, en materia de amparo, conforme a la Ley Orgánica del Poder Judicial de la Federación, y se interpondrá, tramitará y resolverá en los términos prevenidos por la misma ley.
+El recurso de reclamación es procedente contra los acuerdos de trámite dictados por el Presidente de la Suprema Corte de Justicia, por el Presidente de cualesquiera de las Salas, en materia de amparo, o por el Presidente de un Tribunal Colegiado de Circuito, conforme a la Ley Orgánica del Poder Judicial de la Federación, y se interpondrá, tramitará y resolverá en los términos prevenidos por la misma Ley. Si se estima que el recurso fue interpuesto sin motivo, se impondrá al recurrente o a su apoderado, o a su abogado, o a ambos, una multa de diez a ciento veinte días de salario.
 
 ### Capítulo XII. De la ejecución de las sentencias
 
@@ -1091,6 +1189,10 @@ Cuando no se obedeciere la ejecutoria, a pesar de los requerimientos a que se re
 
 Cuando la parte interesada no estuviere conforme con la resolución que tenga por cumplida la ejecutoria, se enviará también, a petición suya, el expediente a la Suprema Corte de Justicia. Dicha petición deberá presentarse dentro de los cinco días siguientes al de la notificación de la resolución correspondiente; de otro modo, ésta se tendrá por consentida.
 
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+El quejoso podrá solicitar que se dé por cumplida la ejecutoria mediante el pago de los daños y perjuicios que haya sufrido. El juez de Distrito, oyendo incidentalmente a las partes interesadas, resolverá lo conducente. En caso de que proceda, determinará la forma y cuantía de la restitución.
+
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
 ###### ARTICULO 106.
@@ -1101,9 +1203,7 @@ En el propio despacho en que se haga la notificación a las autoridades responsa
 
 Si dentro de las veinticuatro horas siguientes a la en que la autoridad responsable haya recibido la ejecutoria, o en su caso, la orden telegráfica, no quedare cumplida o no estuviere en vías de ejecución, de oficio o a solicitud de cualquiera de las partes, se procederá conforme al artículo anterior.
 
-> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1980)</small>
-
-El quejoso podrá solicitar que se dé por cumplida la Ejecutoria mediante el pago de los daños y perjuicios que haya sufrido, el Juez de Distrito oyendo incidentalmente a las partes interesadas, resolverá lo conducente y, si procede, la forma y cuantía de la restitución, señalando un plazo final para el debido acatamiento de la Ejecutoria.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 107.
 
@@ -1217,9 +1317,11 @@ Cuando se trate de actos que importen peligro de privación de la vida, ataques 
 
 En casos que no admitan demora, la petición del amparo y de la suspensión del acto pueden hacerse al juez de Distrito aun por telégrafo, siempre que el actor encuentre algún inconveniente en la justicia local. La demanda cubrirá los requisitos que le corresponda, como si se entablare por escrito, y el peticionario deberá ratificarla, también por escrito, dentro de los tres días siguientes a la fecha en que hizo la petición por telégrafo.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 119.
 
-Transcurrido dicho término sin que se haya presentado la ratificación expresada, se tendrá por no interpuesta la demanda; quedarán sin efecto las providencias decretadas y se impondrá una multa de diez a cien pesos al interesado, a su abogado o representante, o a ambos, con excepción de los casos previstos en el artículo 17 de esta ley, en los cuales se procederá conforme lo establece el artículo 18 de la misma.
+Transcurrido dicho término sin que se haya presentado la ratificación expresada, se tendrá por no interpuesta la demanda; quedarán sin efecto las providencias decretadas y se impondrá una multa de tres a treinta días de salario al interesado, a su abogado o representante, o a ambos, con excepción de los casos previstos en el artículo 17 de esta ley, en los cuales se procederá conforme lo establece el artículo 18 de la misma.
 
 > <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
 
@@ -1227,7 +1329,7 @@ Transcurrido dicho término sin que se haya presentado la ratificación expresad
 
 Con la demanda se exhibirán sendas copias para las autoridades responsables, el tercero perjudicado si lo hubiere, el Ministerio Público, y dos para el incidente de suspensión si se pidiere ésta y no tuviera que concederse de plano conforme a esta ley.
 
-No se tendrá por presentada la demanda mientras el quejoso no exhiba las copias a que se refiere el párrafo anterior, y en los casos en que esta ley señale término para la promoción del amparo, se tendrá por no interpuesta en tiempo la demanda si el quejoso no exhibiere las copias dentro de dicho término.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 121.
 
@@ -1311,11 +1413,11 @@ En este último caso la suspensión provisional surtirá los efectos de que el q
 
 El juez de Distrito siempre concederá la suspensión provisional cuando se trate de la restricción de la libertad personal fuera de procedimiento judicial, tomando las medidas a que alude el párrafo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 131.
 
-Promovida la suspensión conforme al artículo 124 de esta Ley, el Juez de Distrito pedirá informe previo a la autoridad responsable, quien deberá rendirlo dentro de veinticuatro horas. Transcurrido dicho término con informe o sin él se celebrará una audiencia dentro de cuarenta y ocho horas, excepto el caso previsto en el artículo 133, en la fecha y hora que se hayan señalado en el auto inicial, en la que el juez podrá recibir únicamente las pruebas documental o de inspección ocular que ofrezcan las partes, las que se recibirán desde luego; y oyendo los alegatos del quejoso, del tercero perjudicado, si lo hubiera, y del Ministerio Público, el juez resolverá en la misma audiencia; concediendo o negando la suspensión, o lo que fuere procedente con arreglo al artículo 134 de esta ley.
+Promovida la suspensión conforme al artículo 124 de esta ley, el juez de Distrito pedirá informe previo a la autoridad responsable, quien deberá rendirlo dentro de veinticuatro horas. Transcurrido dicho término, con informe o sin él, se celebrará la audiencia dentro de setenta y dos horas, excepto el caso previsto en el artículo 133,, en la fecha y hora que se hayan señalado en el auto inicial, en la que el juez podrá recibir únicamente las pruebas documental o de inspección ocular que ofrezcan las partes, las que se recibirán desde luego; y oyendo los alegatos del quejoso, del tercero perjudicado, si lo hubiera, y del Ministerio Público, el juez resolverá en la misma audiencia, concediendo o negando la suspensión o lo que fuere procedente con arreglo al artículo 134 de esta ley.
 
 Cuando se trate de alguno de los actos a que se refiere el artículo 17 de esta ley, podrá también el quejoso ofrecer prueba testimonial.
 
@@ -1335,15 +1437,19 @@ La falta de informes establece la presunción de ser cierto el acto que se estim
 
 Cuando alguna o algunas de las autoridades responsables funcionen fuera del lugar de la residencia del juez de Distrito, y no sea posible que rindan su informe previo con la debida oportunidad, por no haberse hecho uso de la vía telegráfica, se celebrará la audiencia respecto del acto reclamado de las autoridades residentes en el lugar, a reserva de celebrar la que corresponda a las autoridades foráneas; pudiendo modificarse o revocarse la resolución dictada en la primera audiencia en vista de los nuevos informes.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 134.
 
-Cuando al celebrarse la audiencia a que se refieren los artículos 131 y 133 de esta ley, apareciere debidamente probado que ya se resolvió sobre la suspensión definitiva en otro juicio de amparo promovido por el mismo quejoso o por otra persona, en su nombre o representación, ante otro juez de Distrito, contra el mismo acto reclamado o contra las propias autoridades, se declarará sin materia el incidente de suspensión.
+Cuando al celebrarse la audiencia a que se refieren los artículos 131 y 133 de esta ley, apareciere debidamente probado que ya se resolvió sobre la suspensión definitiva en otro juicio de amparo promovido por el mismo quejoso o por otra persona, en su nombre o representación, ante otro juez de Distrito, contra el mismo acto reclamado y contra las propias autoridades, se declarará sin materia el incidente de suspensión, y se impondrá a dicho quejoso, a su representante o a ambos, una multa de treinta a ciento ochenta días de salario.
 
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 135.
 
-Cuando el amparo se pida contra el cobro de impuestos, multas u otros pagos fiscales, podrá concederse discrecionalmente la suspensión del acto reclamado, la que surtirá efectos previo depósito de la cantidad que se cobra, en el Banco de México, o en defecto de éste, en la institución de crédito que el juez señale dentro de su jurisdicción, o ante la autoridad exactora, salvo que de antemano se hubiese constituido ante esta última.
+Cuando el amparo se pida contra el cobro de impuestos, multas u otros pagos fiscales, podrá concederse discrecionalmente la suspensión del acto reclamado, la que surtirá efectos previo depósito de la cantidad que se cobra en la Nacional Financiera, S. A., o en defecto de ésta en la sociedad nacional de crédito que el juez señale dentro de su jurisdicción, o ante la autoridad exactora, salvo que de antemano se hubiese constituido ante esta última.
+
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
 
 El depósito no se exigirá cuando se trate del cobro de sumas que excedan de la posibilidad del quejoso, según apreciación del juez, o cuando se trate de persona distinta del causante obligado directamente al pago; pero entonces se asegurará el interés fiscal en cualquier otra forma aceptado en esta ley.
 
@@ -1385,7 +1491,9 @@ En los casos en que la suspensión sea procedente, se concederá en forma tal qu
 
 El auto en que un juez de Distrito conceda la suspensión surtirá sus efectos desde luego, aunque se interponga el recurso de revisión; pero dejará de surtirlos si el agraviado no llena, dentro de los cinco días siguientes al de la notificación, los requisitos que se le hayan exigido para suspender el acto reclamado.
 
-El auto en que se niegue la suspensión definitiva deja expedita lo (sic) jurisdicción de la autoridad responsable para la ejecución del acto reclamado, aun cuando se interponga el recurso de revisión; pero si la Suprema Corte revocare la resolución y concediere la suspensión, los efectos de ésta se retrotraerán a la fecha en que fue notificada la suspensión provisional, o lo resuelto respecto a la definitiva, siempre que la naturaleza del acto lo permita.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+El auto en que se niegue la suspensión definitiva deja expedita la jurisdicción de la autoridad responsable para la ejecución del acto reclamado, aun cuando se interponga el recurso de revisión; pero si el Tribunal Colegiado de Circuito que conozca del recurso revocare la resolución y concediere la suspensión, los efectos de ésta se retrotraerán a la fecha en que fue notificada la suspensión provisional, o lo resuelto respecto a la definitiva, siempre que la naturaleza del acto lo permita.
 
 ###### ARTICULO 140.
 
@@ -1395,9 +1503,11 @@ Mientras no se pronuncie sentencia ejecutoriada en el juicio de amparo, el juez 
 
 Cuando al presentarse la demanda no se hubiese promovido el incidente de suspensión, el quejoso podrá promoverlo en cualquier tiempo, mientras no se dicte sentencia ejecutoria.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 142.
 
-El expediente relativo al incidente de suspensión se llevará siempre por duplicado. Cuan- (sic) se interponga revisión contra la resolución dictada en el incidente, el juez de Distrito remitirá el expediente original a la Suprema Corte y se dejará el duplicado.
+El expediente relativo al incidente de suspensión se llevará siempre por duplicado. Cuando se interponga revisión contra la resolución dictada en el incidente, el juez de Distrito remitirá el expediente original al Tribunal Colegiado de Circuito que deba conocer del recurso, y se dejará el duplicado en el juzgado.
 
 ###### ARTICULO 143.
 
@@ -1421,7 +1531,9 @@ El juez de Distrito examinará ante todo, el escrito de demanda; y si encontrare
 
 Si hubiere alguna irregularidad en el escrito de demanda, si se hubiere omitido en ella alguno de los requisitos a que se refiere el artículo 116 de esta ley; si no se hubiese expresado con precisión el acto reclamado o no se hubiesen exhibido las copias que señala el artículo 120, el Juez de Distrito mandará prevenir al promovente que llene los requisitos omitidos, haga las aclaraciones que corresponda, o presente las copias dentro del término de tres días, expresando en el auto relativo las irregularidades o deficiencias que deban llenarse, para que el promovente pueda subsanarlas en tiempo.
 
-Si el promovente no llenare los requisitos omitidos, no hiciere las aclaraciones conducentes o no presentare las copias dentro del término señalado, el Juez del Distrito tendrá por no interpuesta la demanda, cuando el acto reclamado sólo afecte al patrimonio o derechos patrimoniales del quejoso; observándose lo dispuesto en el artículo 120, párrafo segundo en el caso de que sólo se trate de falta de copias de la demanda.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+Si el promovente no llenare los requisitos omitidos, no hiciere las aclaraciones conducentes o no presentare las copias dentro del término señalado, el juez de Distrito tendrá por no interpuesta la demanda, cuando el acto reclamado sólo afecte al patrimonio o derechos patrimoniales del quejoso.
 
 Fuera de los casos a que se refiere el párrafo anterior, transcurrido el término señalado sin haberse dado cumplimiento a la providencia relativa, el juez mandará correr traslado al Ministerio Público, por veinticuatro horas, y en vista de lo que éste exponga, admitirá o desechará la demanda, dentro de otras veinticuatro horas, según fuere procedente.
 
@@ -1447,9 +1559,17 @@ Las autoridades responsables deberán rendir su informe con justificación dentr
 
 Las autoridades responsables deberán rendir su informe con justificación exponiendo las razones y fundamentos legales que estimen pertinentes para sostener la constitucionalidad del acto reclamado o la improcedencia del juicio y acompañarán, en su caso, copia certificada de las constancias que sean necesarias para apoyar dicho informe.
 
-La falta de informe de la autoridad responsable establece la presunción de ser cierto el acto reclamado, salvo prueba en contrario, quedando a cargo del quejoso la prueba de los hechos que determinen su inconstitucionalidad cuando dicho acto no sea violatorio de garantías en sí mismo, sino que su constitucionalidad o inconstitucionalidad dependa de los motivos, datos o pruebas en que se haya fundado el propio acto.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
-Si la autoridad responsable no rinde informe con justificación, o lo hiciere sin remitir, en su caso, la copia certificada de las constancias a que se refiere el párrafo segundo de este artículo, el Juez de Distrito le impondrá, en la sentencia respectiva, una multa de diez a trescientos pesos.
+Cuando la autoridad responsable no rinda su informe con justificación se presumirá cierto el acto reclamado, salvo prueba en contrario, quedando a cargo del quejoso la prueba de los hechos que determinen su inconstitucionalidad cuando dicho acto no sea violatorio de garantías en sí mismo, sino que su constitucionalidad o inconstitucionalidad dependa de los motivos, datos o pruebas en que se haya fundado el propio acto.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+Si la autoridad responsable no rinde informe con justificación, o lo hace sin remitir, en su caso, la copia certificada a que se refiere el párrafo segundo de este artículo, el juez de Distrito le impondrá, en la sentencia respectiva, una multa de diez a ciento cincuenta días de salario.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+Si el informe con justificación es rendido fuera del plazo que señala la ley para ello, será tomado en cuenta por el juez de Distrito siempre que las partes hayan tenido oportunidad de conocerlo y de preparar las pruebas que lo desvirtúen.
 
 ###### ARTICULO 150.
 
@@ -1459,7 +1579,9 @@ En el juicio de amparo es admisible toda clase de pruebas, excepto la de posicio
 
 Las pruebas deberán ofrecerse y rendirse en la audiencia del juicio, excepto la documental que podrá presentarse con anterioridad, sin perjuicio de que el juez haga relación de ella en la audiencia y la tenga como recibida en ese acto, aunque no exista gestión expresa del interesado.
 
-Cuando las partes tengan que rendir prueba testimonial o pericial para acreditar algún hecho, deberán anunciarla cinco días antes del señalado para la audiencia, exhibiendo copias de los interrogatorios al tenor de los cuales deban ser examinados los testigos, o del cuestionario para los peritos; el juez ordenará que se entregue una copia a cada una de las partes, para que puedan formular por escrito o hacer verbalmente repreguntas, al verificarse la audiencia. No se admitirán más de tres testigos por cada hecho.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+Cuando las partes tengan que rendir prueba testimonial o pericial para acreditar algún hecho, deberán anunciarla cinco días hábiles antes del señalado para la celebración de la audiencia constitucional, sin contar el del ofrecimiento ni el señalado para la propia audiencia, exhibiendo copia de los interrogatorios al tenor de los cuales deban ser examinados los testigos, o del cuestionario para los peritos. El juez ordenará que se entregue una copia a cada una de las partes, para que puedan formular por escrito o hacer verbalmente repreguntas, al verificarse la audiencia. No se admitirán más de tres testigos por cada hecho. La prueba de inspección ocular deberá ofrecerse con igual oportunidad que la testimonial y la pericial.
 
 Al promoverse la prueba pericial, el juez hará la designación de un perito, o de los que estime convenientes para la práctica de la diligencia; sin perjuicio de que cada parte pueda designar también un perito para que se asocie al nombrado por el juez o rinda dictamen por separado.
 
@@ -1471,7 +1593,9 @@ La prueba pericial será calificada por el juez según prudente estimación.
 
 A fin de que las partes puedan rendir sus pruebas en la audiencia del juicio, los funcionarios o autoridades tienen obligación de expedir con toda oportunidad a aquellas las copias o documentos que soliciten; si dichas autoridades o funcionarios no cumplieron con esa obligación, la parte interesada solicitará del juez que requiera a los omisos. El juez hará el requerimiento y aplazará la audiencia por un término que no exceda de diez días; pero si no obstante dicho requerimiento durante el término de la expresada prórroga no se expidieren las copias o documentos, el juez, a petición de parte, si lo estima indispensable, podrá transferir la audiencia hasta en tanto se expidan y hará uso de los medios de apremio, consignando en su caso a la autoridad omisa por desobediencia a su mandato.
 
-El interesado que maliciosamente o con el sólo propósito de obtener la prórroga de la audiencia, ocurra quejándose de la falta a que se refiere el párrafo anterior o informe al juez que se le ha denegado la expedición de una copia o documento que no hubiese solicitado, sufrirá una multa de veinticinco a trescientos pesos.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+Al interesado que informe al juez que se le ha denegado una copia o documento que no hubiese solicitado, o que ya le hubiese sido expedido, se le impondrá una multa de diez a ciento ochenta días de salario.
 
 Cuando se trate de actuaciones concluídas, podrán pedirse originales, a instancia de cualquiera de las partes.
 
@@ -1480,6 +1604,10 @@ Cuando se trate de actuaciones concluídas, podrán pedirse originales, a instan
 Si al presentarse un documento por una de las partes, otra de ellas lo objetare de falso, el juez suspenderá la audiencia para continuarla dentro de los diez días siguientes; en dicha audiencia, se presentarán las pruebas y contrapruebas relativas a la autenticidad del documento.
 
 Lo dispuesto en este artículo sólo da competencia al juez para apreciar, dentro del juicio de amparo, de la autenticidad con relación a los efectos exclusivos de dicho juicio.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+Cuando el juez desechare la objeción presentada, podrá aplicar al promovente de la propuso (sic) una multa de diez a ciento ochenta días de salario.
 
 ###### ARTICULO 154.
 
@@ -1495,17 +1623,19 @@ El quejoso podrá alegar verbalmente cuando se trate de actos que importen pelig
 
 En los demás casos, las partes podrán alegar verbalmente, pero sin exigir que sus alegaciones se hagan constar en autos, y sin que los alegatos puedan exceder de media hora por cada parte, incluyendo las réplicas y contrarréplicas.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 156.
 
-En los casos a que se refiere el artículo 37 de esta Ley, la substanciación del juicio de amparo se sujetará a las disposiciones precedentes, excepto en lo relativo al término para la rendición del informe con justificación, el cual se reducirá a tres días improrrogables y a la celebración de la audiencia, la que se señalará dentro de diez días contados desde el siguiente al de la admisión de la demanda.
+En los casos en que el quejoso impugne la aplicación por parte de la autoridad o autoridades responsables de leyes declaradas inconstitucionales por la jurisprudencia decretada por la Suprema Corte de Justicia, o en aquellos otros a que se refiere el artículo 37, la substanciación del juicio de amparo se sujetará a las disposiciones precedentes, excepto en lo relativo al término para la rendición del informe con justificación, el cual se reducirá a tres días improrrogables, y a la celebración de la audiencia, la que se señalará dentro de diez días contados desde el siguiente al de la admisión de la demanda.
 
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 157.
 
-Los jueces de Distrito cuidarán de que los juicios de amparo no queden paralizados, proveyendo lo que corresponda hasta dictar sentencia, salvo los casos en que esta ley disponga expresamente lo contrario.
+Los jueces de Distrito cuidarán de que los juicios de amparo no queden paralizados, especialmente cuando se alegue por los quejosos la aplicación por las autoridades de leyes declaradas inconstitucionales por la jurisprudencia de la Suprema Corte de Justicia, proveyendo lo que corresponda hasta dictar sentencia, salvo los casos en que esta ley disponga expresamente lo contrario.
 
-El ministerio Público cuidará del exacto cumplimiento de esta disposición, principalmente cuando el acto reclamado importe peligro de privación de la vida, de la libertad, o entrañe deportación, destierro o alguno de los actos prohibidos por el artículo 22 de la Constitución Federal.
+El Ministerio Público cuidará del exacto cumplimiento de esta disposición, principalmente en los casos de aplicación de leyes declaradas jurisprudencialmente inconstitucionales, y cuando el acto reclamado importe peligro de privación de la vida, de la libertad, o entrañe deportación, destierro o alguno de los prohibidos por el artículo 22 de la Constitución Federal.
 
 (REFORMADA SU DENOMINACION, D.O.F. 19 DE FEBRERO DE 1951) (F. DE E., D.O.F. 14 DE MARZO DE 1951)
 
@@ -1621,23 +1751,25 @@ Estos requisitos no serán exigibles en amparos contra actos que afecten derecho
 
 (DEROGADO, D.O.F. 30 DE ABRIL DE 1968)
 
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1968)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 163.
 
-Promovida la demanda de amparo, la autoridad responsable remitirá a la Suprema Corte de Justicia o al Tribunal Colegiado de Circuito, en su caso, los autos originales, dejándose testimonio de las constancias indispensables para la ejecución de la sentencia, a menos que exista inconveniente legal para su envío; en este caso el agraviado, dentro de los quince días siguiente a la notificación del auto que niegue la remisión, solicitará copia certificada de las constancias que considere necesarias, la que se adicionará con las que señalen la parte contraria y dicha autoridad.
+La demanda de amparo contra sentencias definitivas, dictadas por tribunales judiciales o administrativos, o contra laudos de tribunales del trabajo, deberá presentarse por conducto de la autoridad responsable. Esta tendrá la obligación de hacer constar al pie del escrito de la misma la fecha en que fue notificada al quejoso la resolución reclamada, y la de presentación del escrito.
 
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1968)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 164.
 
-La autoridad responsable enviará los autos o expedirá las copias certificadas a que se refiere el artículo anterior, en un plazo de quince días; si no lo hace, se le podrá imponer una multa hasta de un mil pesos.
+Si no consta en autos la fecha de notificación a que se refiere el artículo anterior, la autoridad responsable dará cumplimiento a lo dispuesto en el artículo 169 de esta ley, sin perjuicio de que dentro de las veinticuatro horas siguientes a la en que obre en su poder la constancia de notificación respectiva proporcione la información correspondiente al Tribunal al que haya remitido la demanda.
 
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1968)</small>
+La falta de la referida información, dentro del término señalado, se sancionará con multa de veinte a ciento cincuenta días de salario.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 165.
 
-Las copias certificadas que se expidan para la substanciación del juicio de amparo, no causarán impuesto del timbre.
+La presentación de la demanda, en forma directa, ante la Suprema Corte de Justicia de la Nación o ante el Tribunal Colegiado de Circuito, según corresponda, no interrumpirá los términos a que se refieren los artículos 21 y 22 de esta ley.
 
 ### Capítulo II. De la demanda
 
@@ -1651,7 +1783,11 @@ II.- El nombre y domicilio del tercero perjudicado;
 
 III.- La autoridad o autoridades responsables;
 
-IV.- El acto reclamado; y si se reclamaren violaciones a leyes del procedimiento, se precisará cuál es la parte de éste en que se cometió la violación y el motivo por el cual se dejó sin defensa al agraviado;
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 1984)</small>
+
+IV.- La sentencia definitiva o laudo reclamados; y si se reclamaren violaciones a las leyes del procedimiento, se precisará cuál es la parte de éste en la que se cometió la violación y el motivo por el cual se dejó sin defensa al agraviado.
+
+Cuando se impugne la sentencia definitiva o laudo por estimarse inconstitucional la ley aplicada, ello será materia únicamente del capítulo de conceptos de violación de la demanda, sin señalar como acto reclamado la ley, y la calificación de ésta por el Tribunal de amparo se hará en la parte considerativa de la sentencia;
 
 V.- La fecha en que se haya notificado la sentencia o laudo al quejoso o en que haya tenido conocimiento de la resolución recurrida;
 
@@ -1665,31 +1801,29 @@ Cuando se trate de inexacta aplicación de varias leyes de fondo, deberá cumpli
 
 VIII.- Los datos necesarios para precisar la cuantía del negocio, cuando ésta determine la competencia para conocer del juicio.
 
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1968)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 167.
 
-La demanda de amparo contra sentencias definitivas dictadas por tribunales judiciales o administrativos, o contra laudos de tribunales del trabajo, deberá presentarse directamente ante la Suprema Corte de Justicia o ante los Tribunales Colegiados de Circuito, según que la competencia corresponda a éstos o a aquélla, o remitiéndosela por conducto de la autoridad responsable o del juez de Distrito dentro de cuyo territorio jurisdiccional se encuentre dicha autoridad responsable. Cuando se presentare ante ésta la demanda, tendrá la obligación de hacer constar al pie del escrito de la misma, la fecha en que fue notificada al quejoso la resolución reclamada y la de presentación del escrito. En los demás casos, la Suprema Corte de Justicia o el Tribunal Colegiado de Circuito, están facultados para cerciorarse de los datos de que se trata.
+Con la demanda de amparo deberá exhibirse una copia de ella para el expediente y una para cada una de las partes en el juicio constitucional; copias que la autoridad responsable mandará entregar a éstas, emplazándolas, dentro de un término máximo de diez días, para que comparezcan ante la Suprema Corte de Justicia de la Nación o ante el Tribunal Colegiado de Circuito, según el caso, a defender sus derechos.
 
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 168.
 
-Cuando la demanda se presente directamente ante la Suprema Corte de Justicia o ante Tribunal Colegiado de Circuito, o por conducto del juez de Distrito, el quejoso deberá comunicar desde luego a la autoridad responsable la interpretación (sic) del amparo, acompañándole una copia de la demanda para el expediente y una para cada una de las partes que intervengan en el juicio en que se dictó la sentencia recurrida, copias que la autoridad responsable mandará entregar, emplazando a las partes para que comparezcan ante la misma Corte o dicho Tribunal, a defender sus derechos.
+Cuando no se presentaren las copias a que se refiere el artículo anterior, o no se presentaren todas las necesarias en asuntos del orden civil, administrativo o del trabajo, la autoridad responsable se abstendrá de remitir la demanda a la Suprema Corte de Justicia o al Tribunal Colegiado de Circuito, según corresponda, y de proveer sobre la suspensión, y mandará prevenir al promovente que presente las copias omitidas dentro del término de tres días. Transcurrido dicho término sin presentarlas, la autoridad responsable remitirá la demanda, con el informe relativo sobre la omisión de las copias, a la misma Corte o a dicho Tribunal, quienes tendrán por no interpuesta la demanda.
 
-Si el promovente presentare la demanda por conducto de la autoridad responsable, deberá acompañar también las copias a efecto de que ésta cumpla lo dispuesto en el párrafo anterior y remita la demanda original a la Suprema Corte de Justicia o al Tribunal Colegiado de Circuito, según el caso.
+En asuntos del orden penal, si el quejoso no exhibiere las copias a que se refiere el artículo anterior, sin perjuicio de que la autoridad responsable provea sobre la suspensión en casos urgentes, le señalará un nuevo término que no podrá exceder de diez días, para que exhiba dichas copias, y si no lo hiciere se procederá con arreglo al párrafo anterior.
 
-Cuando no se presentaren las copias a que se refieren los dos párrafos anteriores o si no se presentaren todas las necesarias en asuntos del orden civil o del trabajo, la autoridad responsable se abstendrá de remitir la demanda a la Suprema Corte de Justicia o al Tribunal Colegiado de Circuito, según corresponda, y de proveer sobre la suspensión, y mandará prevenir al promovente que presente las copias omitidas dentro del término de cinco días; transcurrido dicho término sin presentarlas, la autoridad responsable remitirá la demanda, con el informe relativo sobre la omisión de las copias, a la misma Corte, o a dicho Tribunal, quienes tendrán por desistido de tal demanda al quejoso.
-
-En asuntos del orden penal, si el quejoso no exhibiere las copias a que se refieren los párrafos primero y segundo de este artículo, sin perjuicio de que la autoridad responsable provea sobre la suspensión en casos urgentes, le señalará un nuevo término que no podrá exceder de diez días, para que exhiba dichas copias y si no lo hiciere, se procederá con arreglo al párrafo anterior.
-
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 169.
 
-Al dar cumplimiento la autoridad responsable a lo dispuesto en los párrafos primero y segundo del artículo anterior, rendirá su informe con justificación a la Suprema Corte de Justicia o al Tribunal Colegiado de Circuito, según el caso, exponiendo, de manera clara y breve, las razones que funden el acto reclamado y dejará en autos copia de dicho informe. Esta regla se observará también en el caso del párrafo segundo de la fracción VI del artículo 107 de la Constitución Federal.
+Al dar cumplimiento la autoridad responsable a lo dispuesto en el primer párrafo del artículo anterior, remitirá la demanda, la copia que corresponde al Ministerio Público Federal y los autos originales a la Suprema Corte de Justicia de la Nación o al Tribunal Colegiado de Circuito, según que el conocimiento del asunto competa a aquélla o a éste, dentro del término de veinticuatro horas. Al mismo tiempo, rendirá su informe con justificación, exponiendo, de manera clara y breve, las razones que funden el acto reclamado y dejará copia en su poder de dicho informe.
 
-Si la autoridad responsable no rindiere el informe, la Suprema Corte de Justicia o el Tribunal Colegiado de Circuito, según corresponda, le prevendrán que lo haga dentro del término de tres días.
+Al remitir los autos, la autoridad responsable dejará testimonio de las constancias indispensables para la ejecución de la sentencia, a menos que exista inconveniente legal para su envío; evento éste en el que lo hará saber al agraviado, en igual término, para que solicite copia certificada de las constancias que considere necesarias, la que se adicionará con las que señale la parte contraria y dicha autoridad.
+
+La autoridad responsable enviará la copia certificada a que se refiere el párrafo anterior en un plazo máximo de tres días al en que las partes hagan el señalamiento; si no lo hace, se le impondrá una multa de veinte a ciento cincuenta días de salario. Igual sanción se le impondrá si no da cumplimiento oportunamente a la obligación que le impone el primer párrafo de este propio precepto.
 
 ### Capítulo III. De la suspensión del acto reclamado
 
@@ -1703,9 +1837,11 @@ En los juicios de amparo de la competencia de la Suprema Corte de Justicia o de 
 
 Cuando se trate de sentencias definitivas dictadas en juicios del orden penal, al proveer la autoridad responsable, conforme a los párrafos primero y segundo del artículo 168 de esta ley, mandará suspender de plano la ejecución de la sentencia reclamada.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 172.
 
-Cuando la sentencia reclamada imponga la pena de privación de la libertad, la suspensión surtirá el efecto de que el quejoso quede a disposición de la Suprema Corte de Justicia, por mediación de la autoridad que haya suspendido su ejecución; pudiendo la última de dichas autoridades ponerlo en libertad caucional, si procediere.
+Cuando la sentencia reclamada imponga la pena de privación de la libertad, la suspensión surtirá el efecto de que el quejoso quede a disposición de la Suprema Corte de Justicia o del Tribunal Colegiado de Circuito competente, por mediación de la autoridad que haya suspendido su ejecución.
 
 (REFORMADO, D.O.F. 19 DE FEBRERO DE 1951) (F. DE E., D.O.F. 14 DE MARZO DE 1951)
 
@@ -1774,6 +1910,12 @@ Cuando el Ministerio Público solicite los autos para formular pedimento, deber�
 El Presidente de la sala respectiva mandará turnar el expediente, dentro del término de diez días, al Ministro relator que corresponda a efecto de que formule por escrito, dentro de treinta días, el proyecto de resolución redactado en forma de sentencia; se pasará copia de dicho proyecto a los demás Ministros que integren la sala, quedando los autos a su disposición, para su estudio, en la Secretaría.
 
 Cuando por la importancia del negocio o lo voluminoso del expediente, el ministro relator estime que no es bastante el plazo de treinta días para formular proyecto, pedirá a la Sala que le amplíe aquel término por el tiempo que sea necesario. También podrá el ministro relator pedir a la Sala que el expediente se pase para estudio a los demás integrantes de aquélla, cuando el caso lo amerite.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+###### ARTICULO 182 Bis.
+
+Cuando en amparo directo se alegue que las sentencias definitivas, en asuntos penales, civiles o administrativos, o los laudos de las Juntas o Tribunales de Conciliación y Arbitraje, se fundan en ley declarada inconstitucional en jurisprudencia decretada por la Suprema Corte de Justicia, el procedimiento se sujetará a lo dispuesto en este Capítulo, excepción hecha de los plazos a que se refieren los artículos 180 a 182 precedentes, y el 185, los cuales deberán ser reducidos a la mitad.
 
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
@@ -1855,37 +1997,29 @@ Concluída la audiencia del día en cada una de las Salas, el secretario de Acue
 
 ### Capítulo único
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 192.
 
-La jurisprudencia que establezca la Suprema Corte de Justicia funcionando en pleno sobre interpretación de la Constitución, leyes y reglamentos federales o locales y tratados internacionales celebrados por el Estado mexicano, es obligatoria tanto para ella como para las salas que la componen, los Tribunales Unitarios y Colegiados de Circuito, Juzgados de Distrito, Tribunales Militares y Judiciales del orden común de los Estados, Distrito Federal y Tribunales Administrativos y del Trabajo, locales o federales.
+La jurisprudencia que establezca la Suprema Corte de Justicia, funcionando en Pleno o en Salas, es obligatoria para éstas, en tratándose de la que decrete el pleno, y además para los Tribunales Unitarios y Colegiados de Circuito, los Juzgados de Distrito, los Tribunales Militares y Judiciales del orden común de los Estados, Distrito Federal y Tribunales Administrativos y del Trabajo, locales o federales.
 
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1968)</small>
+Las ejecutorias constituirán jurisprudencia, siempre que lo resuelto en ellas se sustente en cinco sentencias no interrumpidas por otra en contrario, y que hayan sido aprobadas por lo menos por catorce ministros, si se trata de jurisprudencia del Pleno, o por cuatro ministros en los casos de jurisprudencia de las Salas.
 
-Las ejecutorias de la Suprema Corte de Justicia funcionando en pleno constituyen jurisprudencia, siempre que lo resuelto en ellas se sustente en cinco ejecutorias no interrumpidas por otra en contrario y que hayan sido aprobadas por lo menos por catorce ministros.
+También constituyen jurisprudencia las tesis que diluciden las contradicciones de sentencias de salas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+Cuando se trate de ejecutorias sobre constitucionalidad o inconstitucionalidad de leyes de los Estados, la jurisprudencia podrá formarse independientemente de que las sentencias provengan de una o de varias Salas.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 193.
 
-La jurisprudencia que establezcan las salas de la Suprema Corte de Justicia sobre interpretación de la Constitución, leyes federales o locales y tratados internacionales celebrados por el Estado mexicano, es obligatoria para las mismas salas y para los Tribunales Unitarios y Colegiados de Circuito, Juzgados de Distrito; Tribunales Militares y Judiciales del orden común de los Estados, Distrito Federal y Tribunales Administrativos y del Trabajo, locales o federales.
+La jurisprudencia que establezcan los Tribunales Colegiados de Circuito, en materia de su competencia exclusiva, es obligatoria para los juzgados de Distrito, para los Tribunales Judiciales del fuero común y para los Tribunales Administrativos y del Trabajo que funcionen dentro de su jurisdicción territorial.
 
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1968)</small>
-
-Las ejecutorias de las salas de la Suprema Corte de Justicia constituyen jurisprudencia, siempre que lo resuelto en ellas se sustente en cinco ejecutorias no interrumpidas por otra en contrario y que hayan sido aprobadas por lo menos por cuatro ministros.
-
-> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1980)</small>
-
-Cuando se trate de ejecutorias sobre constitucionalidad o inconstitucionalidad de leyes de los Estados, la jurisprudencia podrá formarse en los términos del párrafo anterior, independientemente de que provengan de una o de varias salas.
-
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1968)</small>
+Las ejecutorias de los Tribunales Colegiados de Circuito constituyen jurisprudencia siempre que lo resuelto en ellas se sustente en cinco sentencias, no interrumpidas por otra en contrario, y que hayan sido aprobadas por unanimidad de votos de los magistrados que los integran.
 
 ###### ARTICULO 193 Bis.
 
-La jurisprudencia que establezcan los Tribunales Colegiados de Circuito en materia de su competencia exclusiva, es obligatoria para los mismos Tribunales, así como para los Juzgados de Distrito, Tribunales Judiciales del fuero común, Tribunales Administrativos y del Trabajo que funcionen dentro de su jurisdicción territorial.
-
-Las ejecutorias de los Tribunales Colegiados de Circuito constituye jurisprudencia, siempre que lo resuelto en ellas se sustente en cinco ejecutorias no interrumpidas por otra en contrario y que hayan sido aprobadas por unanimidad de votos de los magistrados que los integran.
+(DEROGADO, D.O.F. 16 DE ENERO DE 1984)
 
 > <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1968)</small>
 
@@ -1896,6 +2030,12 @@ La jurisprudencia se interrumpe dejando de tener carácter obligatorio, siempre 
 En todo caso, en la ejecutoria respectiva deberán expresarse las razones en que se apoye la interrupción, las cuales se referirán a las que se tuvieron en consideración para establecer la jurisprudencia relativa.
 
 Para la modificación de la jurisprudencia se observarán las mismas reglas establecidas por esta ley, para su formación.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+###### ARTICULO 194 Bis.
+
+En los casos previstos por los artículos 192 y 193, el Pleno, la Sala o el Tribunal Colegiado respectivo, aprobarán la tesis jurisprudencial y ordenarán su publicación en el Semanario Judicial de la Federación. Lo mismo deberá hacerse con las tesis que interrumpan o modifiquen dicha jurisprudencia.
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1980)</small>
 
@@ -1935,19 +2075,25 @@ Las ejecutorias de amparo y los votos particulares de los ministros y de los mag
 
 Los jueces de Distrito, las autoridades judiciales de los Estados, del Distrito Federal, en funciones de aquéllos, los presidentes de las juntas de conciliación y arbitraje y los ministros de la Suprema Corte de Justicia de la Nación, son responsables en los juicios de amparo por los delitos de faltas que cometan, ya en la substanciación de éstos, ya en las sentencias, en los términos que los definen y castigan el Código Penal para el Distrito Federal y la Ley Orgánica del Poder Judicial de la Federación, así como este capítulo.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 199.
 
-El juez de Distrito o la autoridad que conozca de un juicio de amparo o del incidente respectivo, que no suspenda el acto reclamado cuando se trate de peligro de privación de la vida o alguno de los actos prohibidos por el artículo 22 de la Constitución Federal, si se llevare a efecto la ejecución de aquél, será castigado como reo del delito de abuso de autoridad, conforme a los artículos 213 y 214 del Código Penal.
+El juez de Distrito o la autoridad que conozca de un juicio de amparo o del incidente respectivo, que no suspenda el acto reclamado cuando se trate de peligro de privación de la vida, o alguno de los actos prohibidos por el artículo 22 de la Constitución Federal, si se llevare a efecto la ejecución de aquél, será castigado como reo del delito de abuso de autoridad, conforme a las disposiciones del Código Penal aplicable en materia federal.
 
-Si la ejecución no se llevare a efecto, por causas ajenas a la intervención de la Justicia Federal, se le impondrá la sanción que señala el artículo 225 del mismo Código.
+Si la ejecución no se llevare a efecto por causas ajenas a la intervención de la Justicia Federal, se le impondrá la sanción que señale el mismo Código para los delitos cometidos contra la administración de justicia.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 200.
 
-Fuera de los casos a que se refiere el artículo anterior, si la procedencia de la suspensión fuere notoria y el juez de Distrito o autoridad que conozca del incidente no la concediere por negligencia o por motivos inmorales, y no por simple error de opinión, se impondrá la sanción que fija el artículo 225 del Código Penal.
+Fuera de los casos a que se refiere el artículo anterior, si la procedencia de la suspensión fuere notoria y el juez de Distrito que conozca del incidente no la concediere por negligencia o por motivos inmorales, y no por simple error de opinión, se impondrá la sanción que fija el Código Penal aplicable en materia federal para los delitos cometidos contra la administración de justicia.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 201.
 
-La sanción señalada en el artículo 225 del Código Penal se aplicará al juez de Distrito o autoridad que conozca del juicio, en cualquiera de los casos siguientes:
+La sanción a que se refiere el precepto precedente se aplicará igualmente al juez de Distrito o autoridad que conozca del juicio, en cualquiera de los casos siguientes:
 
 I.- Cuando excarcele al quejoso contra lo prevenido en las disposiciones aplicables de esta ley, sin perjuicio de la pena que corresponda y que aplicará por separado la autoridad competente, si con el (sic) excarcelación se cometiere otro delito;
 
@@ -1957,9 +2103,11 @@ III.- Cuando sin motivo justificado se suspenda o difiera la audiencia constituc
 
 IV.- Cuando fuera de los casos permitidos por esra (sic) ley decrete la suspensión del acto reclamado, aunque sea con el carácter provisional, y por virtud de ella se produzca un daño o se conceda una ventaja indebidos.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 202.
 
-La falta de cumplimiento de las ejecutorias de amparo imputable a los jueces de Distrito o a las autoridades judiciales que conozcan del juicio, se castigará con arreglo al artículo 213 del Código Penal.
+La falta de cumplimiento de las ejecutorias de amparo imputables a los jueces de Distrito, o a las autoridades judiciales que conozcan del juicio, se castigarán con arreglo a las disposiciones del Código Penal aplicable en materia federal a los responsables del delito de abuso de autoridad.
 
 ###### ARTICULO 203.
 
@@ -1967,33 +2115,41 @@ La imposición de cualquiera pena privativa de la libertad por causa de responsa
 
 ### Capítulo II. De la responsabilidad de las autoridades
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 204.
 
-Las autoridades responsables que en el juicio de amparo, o en el de incidente de suspensión, rindan informes en los que afirmaren una falsedad o negaren la verdad, en todo o en parte, serán castigadas en los términos de la fracción V del artículo 247 del Código Penal.
+Las autoridades responsables que en el juicio de amparo o en el incidente de suspensión rindan informes en los que afirmaren una falsedad o negaren la verdad, en todo o en parte, serán sancionadas en los términos que señala el Código Penal aplicable en materia federal para las autoridades que lleven a cabo esas afirmaciones o negativas al enviar información a otra autoridad.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 205.
 
-La autoridad responsable que maliciosamente revocare el acto reclamado, con el propósito de que se sobresea en el amparo sólo para insistir con posterioridad en dicho acto, será castigada conforme al artículo 213 del Código Penal, en relación con la fracción IV del 214 del propio ordenamiento.
+La autoridad responsable que maliciosamente revocare el acto reclamado, con el propósito de que se sobresea en el amparo sólo para insistir con posterioridad en dicho acto, será castigada con las sanciones previstas en el Código Penal aplicable en materia federal para los responsables del delito de abuso de autoridad.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 206.
 
-La autoridad responsable que no obedezca un auto de suspensión debidamente notificado, será castigada con la sanción que señala el artículo 213 del Código Penal, por cuanto a la desobediencia cometida; independientemente de cualquier otro delito en que incurra.
+La autoridad responsable que no obedezca un auto de suspensión debidamente notificado, será sancionada en los términos que señala el Código Penal aplicable en materia federal para el delito de abuso de autoridad, por cuanto a la desobediencia cometida; independientemente de cualquier otro delito en que incurra.
 
-La misma sanción se aplicará cuando deba tenerse por hecha la notificación de la suspensión, en los términos del artículo 33 de esta ley, si llegare a ejecutarse el acto reclamado.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 207.
 
-La autoridad responsable que en los casos de suspensión admita fianza o contrafianza que resulte ilusoria o insuficiente, será castigada con la sanción que fija el artículo 225 del Código Penal.
+La autoridad responsable que en los casos de suspensión admita fianza o contrafianza que resulte ilusoria o insuficiente, será sancionada en los términos previstos por el Código Penal aplicable en materia federal para los delitos cometidos contra la administración de justicia.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 208.
 
-Si después de concedido el amparo, la autoridad responsable insistiere en la repetición del acto reclamado o tratare de eludir la sentencia de la autoridad federal, inmediatamente será separada de su cargo o cosignada (sic) al juez de Distrito que corresponda, para que la juzgue por la desobediencia cometida, la que se castigará con la sanción que sañala (sic) el artículo 213 del Código Penal.
+Si después de concedido el amparo, la autoridad responsable insistiere en la repetición del acto reclamado o tratare de eludir el cumplimiento de la sentencia de la autoridad federal, inmediatamente será separada de su cargo y consignada al juez de Distrito que corresponda, para que la juzgue por la desobediencia cometida, la que será sancionada en los términos que el Código Penal aplicable en materia federal señala para el delito de abuso de autoridad.
 
-Si apareciere cometido otro delito, el juez de Distrito pondrá los hechos en conocimiento del Ministerio Público que corresponda.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 209.
 
-Fuera de los casos señalados en los artículos anteriores, cuando la autoridad responsable se resista a dar cumplimiento a los mandatos u órdenes dictados en materia de amparo, será castigada con la sanción prevista por el artículo 225, en relación con el 227 del Código Penal.
+Fuera de los casos señalados en los artículos anteriores, cuando la autoridad responsable se resista a dar cumplimiento a los mandatos u órdenes dictados en materia de amparo será sancionada en la forma precisada en el Código Penal aplicable en materia federal para los delitos cometidos contra la administración de justicia, por los actos u omisiones ahí previstos.
 
 ###### ARTICULO 210.
 
@@ -2003,15 +2159,21 @@ Siempre que al concederse definitivamente al quejoso el amparo de la Justicia Fe
 
 ### Capítulo III. De la responsabilidad de las partes
 
-> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 211.
 
-Se impondrá sanción de seis meses a tres años de prisión y multa de quinientos a dos mil pesos:
+Se impondrá sanción de seis meses a tres años de prisión y multa de diez a noventa días de salario:
+
+> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
 I.- Al quejoso en un juicio de amparo que al formular su demanda afirme hechos falsos u omita los que le consten en relación con el amparo, siempre que no se reclamen algunos de los actos a que se refiere el artículo 17;
 
+> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
+
 II.- Al quejoso o tercero perjudicado en un juicio de amparo, que presente testigos o documentos falsos, y
+
+> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
 III.- Al quejoso en un juicio de amparo que para darle competencia a un juez de Distrito, designe como autoridad ejectuora (sic) a una que no lo sea, siempre que no se reclamen algunos de los actos a que se refiere el artículo 17.
 
@@ -2137,7 +2299,9 @@ IV.- Si las responsables son autoridades agrarias, expresarán, además, la fech
 
 Las autoridades responsables deberán acompañar a sus informes copias certificadas de las resoluciones agrarias a que se refiera el juicio, de las actas de posesión y de los planos de ejecución de esas diligencias, de los censos agrarios, de los certificados de derechos agrarios, de los títulos de parcela y de las demás constancias necesarias para determinar con precisión los derechos agrarios del quejoso y del tercero perjudicado, en su caso, así como los actos reclamados.
 
-La autoridad que no remita las copias certificadas a que se refiere este artículo, será sancionada con multa de $1,000.00 a $5,000.00. En caso de que subsista la omisión no obstante el requerimiento del juez, la multa se irá duplicando en cada nuevo requerimiento, hasta obtener el cumplimiento de esta obligación.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+
+La autoridad que no remita las copias certificadas a que se refiere este artículo, será sancionada con multa de veinte a ciento veinte días de salario. En caso de que subsista la omisión no obstante el requerimiento del juez, la multa se irá duplicando en cada nuevo requerimiento, hasta obtener el cumplimiento de esta obligación.
 
 > <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 1976)</small>
 
@@ -2187,7 +2351,9 @@ II.- No se sobreserá (sic) por inactividad procesal de los mismos;
 
 III.- No se decretará en su perjuicio la caducidad de la instancia; pero sí podrá decretarse en su beneficio, y;
 
-IV.- No será causa de improcedencia del juicio el consentimiento ni presunto ni expreso de los actos reclamados, salvo en éste último caso, que el mismo emane de una Asamblea General.
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 1984)</small>
+
+IV.- No será causa de improcedencia del juicio contra actos que afecten los derechos colectivos del núcleo, el consentimiento expreso de los propios actos, salvo que emane de la Asamblea General.
 
 > <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 1976)</small>
 
@@ -2442,3 +2608,25 @@ D.O.F. 30 DE NOVIEMBRE DE 1982.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación, quedando derogadas todas las disposiciones que se le opongan.
+
+D.O.F. 16 DE ENERO DE 1984.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los sesenta días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Los amparos directos en revisión sobre inconstitucionalidad de leyes de los Estados que actualmente corresponden a la competencia del Tribunal Pleno, y que conforme a estas reformas pasarán al conocimiento de las salas permanentes, quedarán en poder de los ministros ponentes, quienes presentarán el proyecto de resolución correspondiente en la sala de su adscripción. Los amparos de nuevo ingreso se distribuirán entre las salas, conforme al turno que lleve al efecto la Presidencia.
+
+###### ARTICULO TERCERO.
+
+En los amparos en materia de trabajo, el término a que se refiere el artículo 74, fracción V, de esta ley, para decretar el sobreseimiento por inactividad procesal o la caducidad de la instancia empezará a transcurrir a partir del día siguiente al de la iniciación de la vigencia de las presentes reformas.
+
+###### ARTICULO CUARTO.
+
+Los juicios de amparo y los recursos que a la fecha de iniciación de la vigencia de este Decreto se encuentren en trámite, continuarán substanciándose conforme a las normas de procedimiento que establecen las presentes reformas.
+
+###### ARTICULO QUINTO.
+
+Se faculta a la Suprema Corte de Justicia de la Nación para dictar las medidas necesarias tendientes a la efectividad y cumplimiento de las presentes reformas.
