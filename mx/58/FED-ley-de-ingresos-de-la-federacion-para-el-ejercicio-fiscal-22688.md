@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-22688
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2002-01-01"
-last_updated: "2002-12-26"
+last_updated: "2002-12-30"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22688&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-01-01"
 
 LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE 2002
 
-ULTIMA MODIFICACION MISCELANEA FISCAL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 2002.
+ULTIMA MODIFICACION MISCELANEA FISCAL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Diario Oficial de la Federación el martes 1 de enero de 2002.
 
@@ -839,201 +839,9 @@ Quinto. Los montos establecidos en la Sección C, numeral IX del artículo 1o., 
 
 Sexto. La Secretaría de Hacienda y Crédito Público transferirá de manera no onerosa el 20% de las acciones de la sociedad mercantil Administración Portuaria Integral a los Gobiernos de los Estados y el 6% de las mismas a los Municipios donde se encuentren operando las referidas administraciones portuarias integrales, siempre y cuando así lo soliciten los Estados y Municipios interesados y se trate de administraciones en las que la Federación tenga más del 76% de las acciones.
 
-Séptimo. Para los efectos de la Ley del Impuesto al Valor Agregado, se estará a lo siguiente:
+Séptimo. (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2002)
 
-I. En sustitución de lo previsto en los artículos 11, 17, 22 y demás correlativos de la Ley, el impuesto se causará en el momento que se cobren efectivamente las contraprestaciones y sobre el monto de cada una de ellas. Tratándose de los intereses a que se refiere el artículo 18-A, el impuesto se causará cuando se devenguen, a excepción de los intereses generados por enajenaciones a plazo en los términos del Código Fiscal de la Federación.
-
-En el caso de lo previsto en la fracción III del artículo 26 de la Ley, se considerará efectuada la importación en el momento en que se pague la contraprestación que corresponda.
-
-Tratándose de la enajenación de títulos que incorporen derechos reales a la entrega y disposición de bienes, se considerará que los bienes que amparan dichos títulos se enajenan en el momento en que se pague el precio por la transferencia del título; en el caso de no haber transferencia, cuando se entreguen materialmente los bienes que estos títulos amparen a una persona distinta de quien efectuó el depósito. Tratándose de certificados de participación inmobiliaria se considera que la enajenación de los bienes que ampare el certificado se realiza cuando el certificado se transfiera.
-
-II. Para los efectos del artículo 4o., el acreditamiento sólo procederá cuando el impuesto al valor agregado trasladado a los contribuyentes haya sido efectivamente pagado y, en su caso, las adquisiciones efectivamente pagadas.
-
-III. Tratándose de la retención a que se refiere el artículo 1o.-A de la Ley, el retenedor efectuará la retención del impuesto en el momento en el que pague el precio o contraprestación y sobre el monto de lo efectivamente pagado.
-
-IV. Para los efectos de lo dispuesto por los artículos 12, 18, 23 y demás correlativos de la Ley, forman parte del precio o contraprestación pactados, los anticipos o depósitos que reciba el enajenante, el prestador del servicio o quien otorgue el uso o goce temporal del bien, cualquiera sea el nombre que se dé a dichos anticipos o depósitos.
-
-Cuando el precio o contraprestación pactados por la enajenación de bienes, la prestación de servicios o el otorgamiento del uso o goce temporal de bienes se pague mediante cheque, se considerara que el valor de la operación, así como el impuesto al valor agregado trasladado correspondiente, fueron efectivamente pagados en la fecha de cobro del mismo.
-
-Se presume que los títulos de crédito distintos al cheque suscritos a favor de los contribuyentes, por quien adquiere el bien, recibe el servicio o usa o goza temporalmente el bien, constituye una garantía del pago del precio o la contraprestación pactados, así como del impuesto al valor agregado correspondiente a la operación de que se trate. En estos casos se entenderán recibidos ambos conceptos por los contribuyentes cuando efectivamente los cobren, o cuando los contribuyentes transmitan a un tercero los documentos pendientes de cobro, excepto cuando dicha transmisión sea en procuración.
-
-Cuando con motivo de la enajenación de bienes, la prestación de servicios o el otorgamiento del uso o goce temporal de bienes, los contribuyentes reciban documentos o vales, respecto de los cuales un tercero asuma la obligación de pago o reciban el pago mediante tarjetas electrónicas o cualquier otro medio que permita al usuario obtener bienes o servicios, se considerará que el valor de las actividades respectivas, así como el impuesto al valor agregado correspondiente, fueron efectivamente pagados en la fecha en que dichos documentos, vales, tarjetas electrónicas o cualquier otro medio sean recibidos o aceptadas por los contribuyentes.
-
-V. Las reglas aplicables a la devolución de bienes enajenados o al otorgamiento de descuentos o bonificaciones a que se refiere el artículo 7 de la Ley, también serán aplicables cuando los contribuyentes reciban la devolución de los anticipos o depósitos a que se refiere la fracción anterior.
-
-VI. Cuando los contribuyentes transmitan documentos pendientes de cobro a una empresa de factoraje financiero, el impuesto al valor agregado correspondiente a las actividades que dieron lugar a la emisión de los documentos mencionados, deberá pagarse de conformidad con las reglas siguientes:
-
-a) Tratándose de los contratos mediante los cuales los contribuyentes queden obligados a responder por el pago de los derechos de crédito transmitidos a las empresas de factoraje financiero y su cobranza se delegue a los propios contribuyentes, la contraprestación correspondiente a las actividades que dieron lugar a la emisión de los documentos mencionados, se entenderá percibida cuando se cobren dichos documentos.
-
-b) Tratándose de contratos celebrados con empresas de factoraje financiero residentes en México o residentes en el extranjero con establecimiento permanente en México, conforme a los cuales la cobranza deba ser realizada por las empresas de factoraje financiero, o ésta se delegue a terceros, así como de los contratos en que los contribuyentes no asuman la obligación de responder por el pago de los derechos de crédito transmitidos a las empresas de factoraje financiero, se observará lo siguiente:
-
-1. Cuando las empresas de factoraje financiero cobren los documentos por cobrar, considerarán como contraprestación por el servicio prestado, la diferencia entre la cantidad que cobren y la que pagaron, sin considerar el impuesto al valor agregado que se calculará en proporción a dicha contraprestación.
-
-2. Cuando las empresas de factoraje financiero enajenen a un tercero los documentos pendientes de cobro, considerarán como percibido el monto total del valor de dichos documentos, en el momento en que efectúen su enajenación y para el cálculo del impuesto al valor agregado, se estará a lo dispuesto en el subinciso anterior.
-
-Las empresas de factoraje financiero sustituirán a los contribuyentes en las obligaciones de pago del impuesto correspondiente a las operaciones que dieron lugar a la emisión de los documentos pendientes de cobro, exclusivamente por las cantidades que se determinen de conformidad con los subincisos 1 y 2 del inciso b) de esta fracción.
-
-VII. En sustitución de lo dispuesto por la fracción III del artículo 32 de la Ley, se estará a los siguiente:
-
-Los contribuyentes deberán expedir comprobantes señalando en los mismos, los requisitos que establezcan el Código Fiscal de la Federación y su reglamento. Cuando el comprobante ampare actos o actividades gravados con el impuesto al valor agregado, en el mismo se deberá señalar en forma expresa si el pago de la contraprestación se hace en una sola exhibición o en parcialidades. Cuando la contraprestación se pague en una sola exhibición, en el comprobante se deberá indicar el importe total de la operación y el monto equivalente al impuesto que se traslada. Si la contraprestación se paga en parcialidades, en el comprobante que se expida por el acto o actividad de que se trate, se deberá indicar además el importe total de la parcialidad que se cubre en ese momento y el monto equivalente al impuesto que se traslada sobre dicha parcialidad.
-
-Cuando el pago de la contraprestación se haga en parcialidades, por el pago que de las mismas se haga con posterioridad a la fecha en que se hubiera expedido el comprobante a que se refiere el párrafo anterior, los contribuyentes deberán expedir un comprobante por cada una de esas parcialidades, el cual deberá contener los requisitos previstos en las fracciones I, II, III y IV del artículo 29-A del Código Fiscal de la Federación, así como anotar el importe de la parcialidad que ampare, la forma como se realizó el pago de la parcialidad, el monto del impuesto trasladado, el monto del impuesto retenido, en su caso, y el número y fecha del documento que se hubiera expedido en los términos del párrafo anterior amparando la enajenación de bienes, el otorgamiento de su uso o goce temporal o la prestación del servicio de que se trate.
-
-Para los efectos del artículo 7 de la Ley del Impuesto al Valor Agregado, la restitución correspondiente deberá hacerse constar en un documento que contenga en forma expresa y separada la contraprestación y el impuesto al valor agregado trasladado que se hubiesen restituido, así como los datos de identificación del comprobante de la operación original.
-
-VIII. Las referencias que en la Ley del Impuesto al Valor Agregado se hacen a diversos artículos de la Ley del Impuesto sobre la Renta vigente hasta el 31 de diciembre del año 2001, se entenderán referidas a las disposiciones que contengan la regulación que corresponda en la Ley del Impuesto sobre la Renta vigente a partir del 1o. de enero del 2002.
-
-IX. Las Entidades Federativas podrán establecer un impuesto sobre los ingresos que las personas físicas obtengan en los términos del Capítulo II del Título IV de la Ley del Impuesto sobre la Renta, siempre que el monto de los ingresos mencionados no exceda de $4'000,000.00 en el ejercicio inmediato anterior, sin que se considere como un incumplimiento de los convenios celebrados con la Secretaría de Hacienda y Crédito Público ni del artículo 41 de la Ley del Impuesto al Valor Agregado, cuando dicho impuesto reúna las siguientes características:
-
-a) Tratándose de las personas físicas que tributen en los términos de las Secciones I y II del Capítulo II del Título IV de la Ley del Impuesto sobre la Renta, la tasa del impuesto no podrá exceder del 5% y se aplicará sobre la utilidad fiscal efectivamente percibida.
-
-b) Tratándose de las personas físicas que tributen en los términos de la Sección III del Capítulo II del Título IV de la Ley del Impuesto sobre la Renta, la tasa del impuesto no podrá exceder del 2% y se aplicará sobre los ingresos brutos efectivamente obtenidos. En este caso, los ingresos de referencia obtenidos en el ejercicio anterior no podrán exceder de $1'500,000.00.
-
-En este caso, las Entidades Federativas podrán estimar el ingreso y determinar el impuesto mediante el establecimiento de cuotas fijas.
-
-c) Para los efectos de esta fracción, cuando las personas físicas tengan establecimientos, sucursales o agencias, en dos o más Entidades Federativas, únicamente se considerará el ingreso o la utilidad fiscal, según sea el caso, obtenido en los establecimientos, sucursales o agencias que se encuentren en la Entidad Federativa de que se trate.
-
-Asimismo, se deberá considerar que el ingreso se percibe, en los casos de la enajenación de bienes, por el establecimiento, sucursal o agencia, que realice la entrega material del bien; a falta de entrega material, por el establecimiento, sucursal o agencia, que levantó el pedido; tratándose de la prestación de servicios, por el establecimiento, sucursal o agencia, en que se preste el servicio o desde el que se preste el mismo.
-
-X. Las Entidades Federativas podrán establecer un impuesto a las ventas y servicios al público en general, sin que se considere como un incumplimiento de los convenios celebrados con la Secretaría de Hacienda y Crédito Público ni como violación al artículo 41 de la Ley del Impuesto al Valor Agregado, siempre que dicho impuesto reúna las siguientes características:
-
-a) Se establezca a cargo de las personas físicas y las morales que en el territorio nacional realicen las actividades que a continuación se mencionan, cuando se lleven a cabo con el público en general:
-
-1. Enajenen bienes. En ningún caso quedará comprendida la transmisión de propiedad que se realice por causa de muerte.
-
-2. Presten servicios, con exclusión de aquéllos que se realicen de manera subordinada mediante el pago de una remuneración, así como los que den lugar a ingresos que en el impuesto sobre la renta se asimilen a dicha remuneración.
-
-3. Otorguen el uso o goce temporal de bienes muebles.
-
-b) El impuesto se calculará aplicando una tasa máxima del 3% a los valores de las actividades gravadas sin que el impuesto al valor agregado y el impuesto a que se refiere esta fracción formen parte de dichos valores.
-
-c) El impuesto se causará en el momento en que efectivamente se cobren las contraprestaciones y sobre el monto de cada una de ellas, que correspondan a las actividades gravadas.
-
-d) Para los efectos del impuesto a que se refiere esta fracción, se considere que se realiza la enajenación de bienes y el otorgamiento del uso o goce temporal de bienes muebles, en el establecimiento que realice la entrega material del bien; a falta de entrega, el establecimiento que levantó el pedido; tratándose de la prestación de servicios, por el establecimiento en que se preste el servicio o desde el que se preste el mismo.
-
-e) No se gravará con el impuesto previsto en esta fracción la enajenación de los bienes, la prestación de los servicios ni el otorgamiento del uso o goce temporal de bienes muebles, tratándose de:
-
-1. Los actos o actividades que estén exentos del impuesto al valor agregado.
-
-2. Partes sociales, aportaciones de sociedades civiles y los títulos de crédito, con excepción de los certificados de participación ordinaria que amparen una cuota alícuota de la titularidad sobre bienes o derechos en instalaciones deportivas, recreativas, hoteleras o de hospedaje.
-
-3. Los lingotes de oro con un contenido mínimo de 99% de dicho material.
-
-4. Los servicios públicos concesionados por el Gobierno Federal.
-
-5. Los servicios públicos de energía eléctrica, de correos y de telégrafos.
-
-6. Los servicios de telecomunicaciones.
-
-7. Los servicios que proporcione el sistema financiero.
-
-8. Los intereses, con excepción de los que cobren las personas que enajenen los bienes, presten el servicio u otorguen el uso o goce temporal de bienes muebles, cuando dichas actividades estén afectas al pago del impuesto previsto en este artículo.
-
-9. El transporte aéreo y marítimo.
-
-10. Los servicios de autotransporte federal.
-
-11. Los servicios amparados por billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos y concursos de toda clase, organizados por organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto sea la obtención de recursos para destinarlos a la asistencia pública y social.
-
-12. Los servicios que den lugar al pago de aportaciones de seguridad social, contribuciones de mejoras, derechos, o aprovechamientos de carácter federal.
-
-XI. Quedan sin efectos, en lo conducente, las disposiciones de la Ley del Impuesto al Valor Agregado que se opongan a lo previsto en este artículo.
-
-XII. Tratándose de actos o actividades respecto de las cuales se haya causado el impuesto al valor agregado en los términos establecidos por los artículos 11, 17 y 22 vigentes hasta el 31 de diciembre de 2001, cuando los contribuyentes reciban el precio o las contraprestaciones correspondientes a dichas actividades con posterioridad a esa fecha, no darán lugar a la causación del impuesto de conformidad con las disposiciones vigentes a partir del 1 de enero del 2002.
-
-Cuando por las actividades mencionadas con antelación, los contribuyentes hayan expedido los comprobantes por el total de la operación y se haya trasladado el impuesto al valor agregado, en los comprobantes que expidan por las contraprestaciones respectivas que perciban con posterioridad a la entrada en vigor del artículo anterior, no deberán efectuar traslado alguno.
-
-XIII. Tratándose de enajenación de bienes por la que de conformidad con lo dispuesto en el artículo 12 de la Ley del Impuesto al Valor Agregado vigente hasta el 31 de diciembre de 2001, se hubiera diferido el pago del impuesto al valor agregado sobre la parte de las contraprestaciones que se cobren con posterioridad, por las mismas se pagará el impuesto en la fecha en que sean efectivamente percibidas.
-
-Los intereses que hubieran sido exigibles antes del 1 de enero del 2002, que correspondan a enajenaciones a plazo o a contratos de arrendamiento financiero en que se hubiere diferido el pago del impuesto en los términos del artículo 12 vigente hasta el 31 de diciembre del 2001, el impuesto se pagará en la fecha en que los intereses sean efectivamente cobrados. En el caso de los intereses que sean exigibles con posterioridad, estarán afectos al pago del impuesto en el momento en que efectivamente se cobren.
-
-XIV. Tomando en cuenta que el artículo 17 de la Ley del Impuesto al Valor Agregado vigente hasta el 31 de diciembre de 2001, establecía que tratándose de obras de construcción de inmuebles provenientes de contratos celebrados con la Federación, el Distrito Federal, los Estados y los Municipios, el impuesto se causaba hasta el momento en que se pagaran las contraprestaciones correspondientes al avance de obra y cuando se hicieran los anticipos, para los efectos de las disposiciones vigentes a partir del 1 de enero del 2002, cuando se hubieren prestado dichos servicios con anterioridad, el impuesto se pagará cuando efectivamente se cobren las contraprestaciones correspondientes a dichos servicios. Se podrá disminuir del monto de la contraprestación, los anticipos que, en su caso, hubieren recibido los contribuyentes, siempre que por el anticipo se hubiere pagado el impuesto al valor agregado.
-
-Octavo. Se establece un impuesto a la venta de bienes y servicios suntuarios a cargo de las personas físicas y las morales que en el territorio nacional realicen las actividades que a continuación se mencionan, cuando se lleven a cabo con el público en general:
-
-a) Enajenen bienes.
-
-b) Presten servicios.
-
-c) Otorguen el uso o goce temporal de bienes muebles.
-
-d) la importación de los bienes a que se refiere la fracción I de este artículo, cuando se realice por el consumidor final.
-
-El impuesto se calculará aplicando a los valores que señale este artículo la tasa que se establece en la fracción I. El impuesto al valor agregado y el que se establece en este artículo en ningún caso se considerarán que forman parte de dichos valores.
-
-El cobro que el contribuyente haga de una cantidad equivalente al impuesto que se establece, a quien adquiera el bien, reciba el servicio o use o goce temporalmente el bien mueble, no se entenderá violatorio de precios o tarifas, incluyendo los oficiales.
-
-Se considera que la enajenación de bienes, la prestación de servicios y el otorgamiento del uso o goce temporal de bienes muebles, se llevan a cabo con el público en general, cuando en los comprobantes que se expidan por las actividades de que se trate, no se traslade en forma expresa y por separado el impuesto al valor agregado que se cause con motivo de dichas actividades o cuando los contribuyentes expidan por dichas operaciones los comprobantes simplificados, de conformidad con lo previsto en el Código Fiscal de la Federación.
-
-La aplicación de este impuesto se sujetará a lo siguiente:
-
-I. El impuesto se calculará aplicando la tasa del 5%, cuando se realicen los actos o actividades siguientes:
-
-a) La enajenación de:
-
-1) Caviar, salmón ahumado y angulas;
-
-2) Motocicletas de más de 350 centímetros cúbicos de cilindrada, esquí acuático motorizado, motocicletas acuáticas y tablas de oleaje con motor, rines de magnesio y techos móviles para vehículos así como aeronaves, excepto aviones fumigadores.
-
-3) Perfumes; armas de fuego; artículos para acampar; automóviles con capacidad hasta de 15 pasajeros con precio superior a $250,000.00; accesorios deportivos para automóviles; prendas de vestir de seda o piel, excepto zapatos; relojes con valor superior a $5,000.00; televisores con pantalla de más de 25 pulgadas; monitores o televisores de pantalla plana; equipos de sonido con precio superior a $5,000.00; equipo de cómputo con precio superior a $25,000.00 y equipos auxiliares; agendas electrónicas; videocámaras; reproductor de videos en formato de disco compacto; equipos reproductores de audio y video con precio superior a $5,000.00
-
-4) Oro, joyería, orfebrería, piezas artísticas u ornamentales cuyo precio sea superior a $10,000.00 y lingotes, medallas conmemorativas y monedas mexicanas o extranjeras que no sean de curso legal en México o en su país de origen, cuyo contenido mínimo de oro sea del 80%, siempre que su enajenación se efectúe con el público en general.
-
-b) La prestación de los servicios siguientes:
-
-1) Los de instalación de techos móviles para vehículos;
-
-2) Los que permitan la práctica del golf, la equitación, el polo, el automovilismo deportivo o las actividades deportivas náuticas, incluyendo las cuotas de membresía y las demás contraprestaciones que se tengan que erogar por la práctica de esas actividades y el mantenimiento de las instalaciones, los animales y el equipo necesarios;
-
-3) Las cuotas de membresía para restaurantes, centros nocturnos o bares, de acceso restringido;
-
-4) Los de bares, cantinas, cabarés, discotecas, así como de restaurantes en los que se vendan bebidas alcohólicas, excepto cerveza y vino de mesa, ya sea en el mismo local o en uno anexo que tenga conexión directa del lugar de consumo de bebidas alcohólicas al de alimentos aun cuando ambos pertenezcan a contribuyentes diferentes. Tratándose de establecimientos en donde se proporcionen servicios de hospedaje y de alimentos y bebidas por un precio integrado, se considerará que el valor de estos últimos corresponde al 40% de la contraprestación cobrada, sobre la que se aplicará la tasa del 5%.
-
-c) El uso o goce temporal de:
-
-1) Aeronaves, excepto aviones fumigadores.
-
-2) Motocicletas de más de 350 centímetros cúbicos de cilindrada, esquí acuático motorizado, motocicletas acuáticas y tablas de oleaje con motor.
-
-3) Los bienes a que se refiere el subinciso 3 del inciso a) de esta fracción, en su caso.
-
-II. El impuesto se calculará por ejercicios fiscales y los contribuyentes efectuarán pagos provisionales por los mismos periodos y en las mismas fechas de pago que las establecidas para el impuesto sobre la renta.
-
-III. Para determinar el valor sobre el que se aplicará la tasa del impuesto prevista en este artículo, así como el momento de causación, se aplicará en adición a lo dispuesto por este Artículo, lo establecido en la fracción IV del Artículo Séptimo precedente.
-
-IV. Los contribuyentes que reciban la devolución de bienes enajenados u otorguen descuentos o bonificaciones, o devuelvan los anticipos o los depósitos recibidos con motivo de la realización de las actividades gravadas con este impuesto, disminuirán el monto del impuesto correspondiente a la devolución, descuento o bonificación, anticipo o depósito que hubiesen pagado, del impuesto causado en el mes en que reciban la devolución u otorguen los descuentos o bonificaciones, o devuelvan los anticipos o los depósitos, siempre que expresamente se haga constar la restitución en un documento que contenga los datos de identificación del comprobante de la operación original.
-
-Cuando la transferencia de propiedad, la prestación del servicio o el otorgamiento del uso o goce de bienes muebles no llegue a efectuarse, se tendrá derecho a la disminución del impuesto efectivamente pagado, en los términos del párrafo anterior.
-
-V. Para los efectos de este artículo, se entiende por enajenación, además de lo señalado en el Código Fiscal de la Federación, el faltante de bienes en los inventarios de las empresas. En este último caso la presunción admite prueba en contrario.
-
-No se considerará enajenación, la transmisión de propiedad que se realice por causa de muerte. Tampoco se considera enajenación la donación y los obsequios que efectúen las empresas con fines de promoción, siempre que sean deducibles o no acumulables para los efectos de la Ley del Impuesto sobre la Renta.
-
-En la enajenación de bienes el impuesto se causa en el momento en que efectivamente se cobren las contraprestaciones y sobre el monto de cada una de ellas.
-
-Tratándose de enajenaciones, para calcular el impuesto, se considerará como valor el precio o la contraprestación pactados, así como las cantidades que además se carguen o cobren al adquirente por otros impuestos, derechos, intereses normales o moratorios, penas convencionales o cualquier otro concepto.
-
-VI. Para los efectos de este artículo, se considera prestación de servicios:
-
-a) La prestación de obligaciones de hacer que realice una persona a favor de otra, cualquiera sea el acto que le dé origen y el nombre o clasificación que a dicho acto le den otras leyes.
-
-b) Toda otra obligación de dar, de no hacer o de permitir, asumida por una persona en beneficio de otra, siempre que no esté considerada como enajenación o uso o goce temporal de bienes muebles.
-
-En la prestación de servicios el impuesto se causa en el momento en el que efectivamente se cobren las contraprestaciones y sobre el monto de cada una de ellas.
-
-Para calcular el impuesto tratándose de prestación de servicios se considerará como valor el total de la contraprestación pactada, así como las cantidades que además se carguen o cobren a quien reciba el servicio por cualquier otro concepto.
-
-Tratándose de personas morales que presten servicios preponderantemente a sus miembros, socios o asociados, los pagos que éstos efectúen se considerarán como valor para efectos del cálculo del impuesto.
-
-VII. Para los efectos de este impuesto se entiende por uso o goce temporal de bienes muebles, el arrendamiento, el usufructo y cualquier otro acto, independientemente de la forma jurídica que al efecto se utilice, por el que una persona permita a otra usar o gozar temporalmente dichos bienes, a cambio de una contraprestación.
-
-En el otorgamiento del uso o goce temporal de bienes muebles a que se refiere este artículo, el impuesto se causa en el momento en que efectivamente se cobren las contraprestaciones y sobre el monto de cada una de ellas.
-
-Para calcular el impuesto en el caso de uso o goce temporal de bienes muebles, se considerará el valor de la contraprestación pactada a favor de quien los otorga, así como las cantidades que además se carguen o cobren a quien se otorgue el uso o goce por otros impuestos, derechos, gastos de mantenimiento, construcciones, reembolsos, intereses normales o moratorios, penas convencionales o cualquier otro concepto.
-
-VIII. Los contribuyentes de este impuesto, además de las otras obligaciones previstas en este artículo, deberán expedir comprobantes por las operaciones que realicen de conformidad con lo dispuesto por el Código Fiscal de la Federación.
-
-IX. El impuesto que se establece en este artículo, no formará parte de los valores para los efectos del impuesto al valor agregado.
+Octavo. (DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 2003, D.O.F. 30 DE DICIEMBRE DE 2002)
 
 Noveno. Para los efectos del artículo 3, fracción XV, de la Ley del Impuesto Especial sobre Producción y Servicios, no se consideran como refrescos los jugos y néctares de frutas.
 
@@ -1052,3 +860,171 @@ Primero. La presente Resolución entrará en vigor al día siguiente al de su pu
 D.O.F. 26 DE DICIEMBRE DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 2002.
+
+Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2003.
+
+Segundo. A partir de la entrada en vigor del presente Decreto, se deroga el artículo Séptimo Transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2002 publicada en el Diario Oficial de la Federación el 1 de enero de 2002.
+
+Tercero. Los contribuyentes obligados a presentar la declaración del ejercicio fiscal de 2002 por las actividades realizadas durante el mismo, deberán calcular el impuesto del ejercicio y presentar la declaración correspondiente en los términos y en los plazos previstos en el artículo 5o. de la Ley del Impuesto al Valor Agregado vigente hasta el 31 de diciembre de 2002.
+
+Cuando en la declaración correspondiente al ejercicio fiscal de 2002 resulte saldo a favor, los contribuyentes podrán acreditarlo contra el impuesto a su cargo que les corresponda en los meses siguientes hasta agotarlo o solicitar su devolución, siempre que en este último caso sea sobre el total del saldo a favor.
+
+Cuarto. Los contribuyentes deberán efectuar el último pago provisional correspondiente al ejercicio fiscal de 2002, en los términos y en los plazos previstos en el artículo 5o. de la Ley del Impuesto al Valor Agregado vigente hasta el 31 de diciembre de dicho año.
+
+Los contribuyentes no podrán acreditar los saldos a favor que determinen en las declaraciones de los pagos provisionales del impuesto al valor agregado correspondientes al ejercicio fiscal de 2002, contra el propio impuesto que resulte a su cargo en las declaraciones de pago mensual, determinado conforme a las disposiciones de la Ley del Impuesto al Valor Agregado vigentes a partir del 1 de enero de 2003.
+
+Quinto. Los contribuyentes que reciban el precio o las contraprestaciones correspondientes a actos o actividades por los que se haya causado el impuesto al valor agregado conforme a los artículos 11, 17 y 22 vigentes hasta el 31 de diciembre de 2001, no darán lugar a la causación del impuesto de conformidad con las disposiciones vigentes a partir del 1 de enero del 2003.
+
+Los contribuyentes que hayan trasladado el total del impuesto al valor agregado correspondiente a las actividades mencionadas en el párrafo anterior, no deberán efectuar traslado alguno en los comprobantes que expidan por las contraprestaciones que reciban con posterioridad al 1 de enero de 2003.
+
+Sexto. Tratándose de enajenación de bienes por la que de conformidad con lo dispuesto en el artículo 12 de la Ley del Impuesto al Valor Agregado vigente hasta el 31 de diciembre de 2001, se hubiera diferido el pago del impuesto al valor agregado sobre la parte de las contraprestaciones que se cobren con posterioridad, por las mismas se pagará el impuesto en la fecha en que sean efectivamente percibidas.
+
+Los intereses que hubieran sido exigibles antes del 1 de enero de 2002, que correspondan a enajenaciones a plazo o a contratos de arrendamiento financiero en que se hubiere diferido el pago del impuesto en los términos del artículo 12 vigente hasta el 31 de diciembre de 2001, el impuesto se pagará en la fecha en que los intereses sean efectivamente cobrados. Los intereses que sean exigibles a partir del 1 de enero de 2003 estarán afectos al pago del impuesto en el momento en que efectivamente se cobren.
+
+Séptimo. Tomando en cuenta que el artículo 17 de la Ley del Impuesto al Valor Agregado vigente hasta el 31 de diciembre de 2001, establecía que tratándose de obras de construcción de inmuebles provenientes de contratos celebrados con la Federación, el Distrito Federal, los Estados y los Municipios, el impuesto se causaba hasta el momento en que se pagaran las contraprestaciones correspondientes al avance de obra y cuando se hicieran los anticipos, para los efectos de las disposiciones vigentes a partir del 1 de enero del 2003, cuando se hubieren prestado dichos servicios con anterioridad al 1 de enero de 2002, el impuesto se pagará cuando efectivamente se cobren las contraprestaciones correspondientes a dichos servicios. Se podrá disminuir del monto de la contraprestación, los anticipos que, en su caso, hubieren recibido los contribuyentes, siempre que por el anticipo se hubiere pagado el impuesto al valor agregado.
+
+Octavo. La reforma a la fracción VII del artículo 29 de la Ley del Impuesto al Valor Agregado, entrará en vigor a partir del 1 de enero de 2004. Hasta en tanto entre en vigor dicha disposición queda sin efectos lo dispuesto en la fracción VII del artículo 29 actualmente en vigor.
+
+Noveno. Los contribuyentes que hayan realizado operaciones de factoraje financiero durante el ejercicio fiscal de 2002, podrán optar por aplicar durante el ejercicio mencionado el tratamiento previsto en el artículo 1o.-C de la Ley del Impuesto al Valor Agregado, siempre que cumplan con las reglas de carácter general que al efecto emita el Servicio de Administración
+
+D.O.F. 30 DE DICIEMBRE DE 2002.
+
+Primero. La presente Ley entrará en vigor el día 1o. de enero de 2003.
+
+Segundo. Se aprueban las modificaciones a las Tarifas de los Impuestos Generales a la Exportación y a la Importación efectuadas por el Ejecutivo Federal durante el año de 2002, a las que se refiere el informe que en cumplimiento de lo dispuesto en el segundo párrafo del artículo 131 Constitucional, ha rendido el propio Ejecutivo al Congreso de la Unión.
+
+En función de la situación de emergencia del sector agropecuario, el Ejecutivo Federal realizará una vigilancia estricta de la evolución de las importaciones originarias de EE.UU. y Canadá de los siguientes productos:
+
+GRASAS Y ACEITES ANIMALES
+
+Tocino sin partes magras y grasa de cerdo o de ave, sin fundir ni extraer de otro modo, frescos, refrigerados, congelados, salados o en salmuera, secos o ahumados.
+
+0209.00.01 De gallo, gallina o pavo (gallipavo).
+
+0209.00.99 Los demás.
+
+Grasa de cerdo (incluida la manteca de cerdo) y grasa de ave, excepto las de las partidas 02.09 o 15.03.
+
+1501.00.01 Grasa de cerdo (incluida la manteca de cerdo) y grasa de ave, excepto las de las partidas 02.09 o 15.03.
+
+CEBADA
+
+Cebada.
+
+1003.00.02 En grano, con cáscara, excepto lo comprendido en la fracción 1003.00.01.
+
+1003.00.99 Los demás.
+
+AVES SIN TROCEAR
+
+Carne y despojos comestibles, de aves de la partida 01.05, frescos, refrigerados o congelados.
+
+De gallo o gallina:
+
+0207.11.01 Sin trocear, frescos o refrigerados.
+
+0207.12.01 Sin trocear, congelados.
+
+De pato, ganso o pintada:
+
+0207.32.01 Sin trocear, frescos o refrigerados.
+
+0207.33.01 Sin trocear, congelados.
+
+De pavo (gallipavo)
+
+0207.24.01 Sin trocear, frescos o refrigerados.
+
+0207.25.01 Sin trocear, congelados.
+
+MATERIAS PRIMAS DE AVE
+
+Trozos y despojos, frescos o refrigerados.
+
+0207.13.01 Mecánicamente deshuesados.
+
+Trozos y despojos, congelados.
+
+0207.14.01 Mecánicamente deshuesados.
+
+Trozos y despojos, frescos o refrigerados.
+
+0207.26.01 Mecánicamente deshuesados.
+
+0207.26.99 Los demás.
+
+Trozos y despojos, congelados.
+
+0207.27.01 Mecánicamente deshuesados.
+
+0207.27.99 Los demás.
+
+JAMONES, PALETAS Y SUS TROZOS DE CERDO
+
+Jamones, paletas y sus trozos, sin deshuesar.
+
+0203.12.01 Jamones, paletas y sus trozos, sin deshuesar.
+
+Jamones, paletas y sus trozos, sin deshuesar.
+
+0203.22.01 Piernas, paletas y sus trozos, sin deshuesar.
+
+PAPA
+
+Papas (patatas) frescas o refrigeradas.
+
+0701.90.99 Las demás.
+
+CARCAZAS
+
+Trozos y despojos, frescos o refrigerados.
+
+0207.26.02 Carcazas
+
+Trozos y despojos, congelados
+
+0207.27.03 Carcazas
+
+El Ejecutivo Federal deberá entregar un informe mensual al H. Congreso de la Unión, a través de las comisiones correspondientes, sobre los resultados de esta vigilancia.
+
+Cuando se dé un incremento en las importaciones originarias de EE.UU. o Canadá en comparación con los montos importados en el año previo, que signifique un daño o implique peligro inminente de producirlo, el Ejecutivo Federal iniciará de oficio inmediatamente investigaciones de salvaguarda, de conformidad con lo establecido en la Ley de Comercio Exterior.
+
+El H. Congreso de la Unión vigilará el estricto cumplimiento de este mandato.
+
+Tercero. Los montos establecidos en la Sección C, fracción IX del artículo 1o., así como el monto de endeudamiento interno neto consignado en el artículo 2o. de esta Ley, se verán, en su caso, modificados en lo conducente como resultado de lo siguiente: i) la distribución, entre Gobierno Federal y los organismos y empresas de control presupuestario directo, de los montos autorizados en el Decreto del Presupuesto de Egresos de la Federación para el ejercicio fiscal 2003, y ii) por los montos que resulten de la aplicación de lo establecido en el párrafo tercero del artículo 3o. del Decreto del Presupuesto de Egresos de la Federación para el ejercicio fiscal 2003.
+
+Cuarto. Se deroga el impuesto a la venta de bienes y servicios suntuario establecido en el Artículo Octavo de las disposiciones transitorias de la Ley de Ingresos de la Federación para el ejercicio fiscal de 2002.
+
+Quinto. En los casos en que se requiere importar maíz, frijol indispensables para el abasto nacional, que rebasen las cuotas mínimas libres de arancel acordadas por las partes, en los tratados de libre comercio, la Secretaría de Economía, conjuntamente con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, determinarán la cuota adicional, sujeta al arancel que establezca el Ejecutivo Federal, en consultas directamente con el Consejo Mexicano para el Desarrollo Rural Sustentable, organizaciones de productores y consumidores.
+
+Los cupos mínimos y adicionales se emitirán preferentemente para maíz amarillo. En cuanto al maíz blanco, las importaciones serán autorizadas sólo en caso comprobado de déficit en la producción nacional, de acuerdo con la información pública disponible. Asimismo, para evitar un eventual desabasto y de requerirse una cuota especial adicional, se procederá a su autorización inmediata y se hará su distribución por grupos de consumidores de acuerdo con su participación en la compra de cosechas nacionales.
+
+En lo referente a la importación de maíz amarillo, se cuidará no poner en peligro el suministro de materia prima a la industria, a los productores pecuarios y a los formuladores de alimentos balanceados, a la vez que se atiendan los legítimos intereses de los productores primarios, por lo que la cuota adicional considerará la balanza producción-consumo de granos forrajeros por regiones, las condiciones específicas de producción en cada cosecha, su estacionalidad y los compromisos que generen las industrias consumidoras para sustituir importaciones y desarrollar proveedores nacionales.
+
+Con el fin de promover la sustitución de importaciones y la generación de fuentes alternativas de abasto, el Ejecutivo Federal promoverá programas de conversión productiva y/o agricultura por contrato. Sólo se asignará la cuota adicional indicada en el primer párrafo de este artículo a los beneficiarios que acrediten compromisos de compras de cosechas nacionales de maíz a través de dichos programas de por lo menos 10% de sus consumos auditados de maíz amarillo importado en 2002. Tales esquemas deberán contar con cobertura de precios y la predefinición de los apoyos a la comercialización del ciclo correspondiente.
+
+En los casos en que se requiera importar leche en polvo indispensable para el abasto nacional, que rebasen las cuotas mínimas libres de arancel acordadas por las partes, en los tratados de libre comercio, la Secretaría de Economía conjuntamente con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, determinarán la cuota adicional que no podrá rebasar el 25% de la cuota mínima de arancel acordada para 2003. Dicho sobrecupo se distribuirá tomando en cuenta a los industriales de acuerdo con su participación en la compra de leche de producción nacional. Para evitar un desabasto y de requerirse una cuota especial adicional, se procederá a su autorización en forma inmediata.
+
+El Ejecutivo Federal verificará que el uso, montos y destinos de las cuotas adicionales asignadas cumplan con los criterios de complementariedad con la producción nacional, con el objetivo de no autorizar importaciones mientras subsistan excedentes comerciables de cosechas que cumplan con las especificaciones requeridas por los consumidores.
+
+Los ingresos que por este concepto se obtengan, deberán ser incluidos explícitamente en el reporte trimestral al que se refiere el artículo primero de esta Ley. De igual manera, el Ejecutivo Federal deberá entregar un informe trimestral de la asignación y el ejercicio de las cuotas mínimas y cuotas adicionales al H. Congreso de la Unión por conducto de las Comisiones correspondientes.
+
+En condiciones de emergencia, que pongan en riesgo el abasto nacional de alguno de los productos no desgravados, el Ejecutivo Federal deberá determinar los aranceles y cuotas extraordinarias, teniendo la obligación de reestablecer los aranceles y las cuotas originales de forma inmediata, una vez que quede garantizado el abasto nacional, así como de presentar un informe detallado al H. Congreso de la Unión sobre las condiciones que originaron la emergencia y las medidas adoptadas.
+
+Sexto. Con respecto a lo previsto en el artículo Sexto Transitorio de la Ley de Ingresos de la Federación para el ejercicio fiscal de 2002, éste seguirá en vigor durante el presente ejercicio fiscal, para el efecto de que concluyan los procesos de transferencia no onerosa a que alude dicho precepto, así como para que la Auditoría Superior de la Federación, en ejercicio de sus facultades vigile el debido cumplimiento de la entrega no onerosa de las acciones de las administraciones portuarias integrales a los estados y municipios, en los términos previstos en el referido artículo transitorio.
+
+Igualmente y en adición a lo previsto en el párrafo anterior, la Secretaría de Hacienda y Crédito Público transferirá de manera no onerosa otro 20% de las acciones de la Sociedad Mercantil Administración Portuaria Integral a los gobiernos de los estados y otro 6% de las mismas a los municipios donde se encuentren operando las referidas administraciones portuarias integrales, siempre y cuando así lo soliciten los estados y municipios interesados.
+
+Séptimo. Los municipios Centro y Cunduacán en el Estado de Tabasco estarán comprendidos en la Zona de Disponibilidad número 9, a la que hace referencia el artículo 231 de la Ley Federal de Derechos.
+
+Octavo. Para los efectos del artículo 26 de esta Ley, la Secretaría de Hacienda y Crédito Público presentará, en un plazo no mayor a 180 días, los términos en que cumplirá con la información relativa a los fondos y fideicomisos.
+
+Noveno. A las entidades federativas y los municipios que hayan construido las vías a que se refiere el artículo 38 de esta Ley, también le será aplicable lo establecido en el citado artículo.
+
+Décimo. Los ingresos que se generen por las enajenaciones que puedan realizarse de los bienes decomisados o abandonados conforme a la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, cumpliendo además con las disposiciones que le son aplicables del Código Fiscal de la Federación y de la Ley Aduanera, se repartirán conforme se establece en la Ley de Coordinación Fiscal, entre la Federación, las Entidades Federativas y los Municipios. Para estos efectos, dichos ingresos se disminuirán con los gastos directos e indirectos en que se incurra para su administración, mantenimiento, conservación con los pasivos ocultos relacionados con los mismos, y en general con las erogaciones necesarias para realizar su enajenación. No será aplicable lo dispuesto en este artículo, tratándose de bienes que legalmente o por su estado, condición o durabilidad, no puedan ser enajenados, de aquéllos a los que se le dé un destino específico o sean donados.
+
+Décimo Primero. En el supuesto de que el monto total de los proyectos y programas enlistados en el anexo referido en el artículo 3, numeral 1, no sea suficiente para alcanzar el total del endeudamiento en el artículo 3, el Gobierno del Distrito Federal, deberá someter a la aprobación de la Asamblea Legislativa del Distrito Federal, a fin de ser incorporado en el Decreto de Presupuesto de Egresos del Distrito Federal para el año 2003, los proyectos y programas adicionales para alcanzar el límite máximo de nivel de endeudamiento autorizado, sujetándose a los términos del artículo 73, fracción VIII, de la Constitución y a la Ley General de Deuda Pública en lo que corresponda.
+
+Décimo Segundo. En el ejercicio fiscal del año 2003 no se pagará el impuesto a los servicios conexos o complementarios contenidos en el artículo 3 fracción XIII, inciso k) de la Ley del Impuesto Especial Sobre Producción y Servicios; cuando éstos sean únicamente servicios públicos, entre otros: los de información sobre números de teléfonos y direcciones, servicios de hora, locatel, servicios de emergencia.
