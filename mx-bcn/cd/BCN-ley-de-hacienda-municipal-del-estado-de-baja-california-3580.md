@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "1988-12-31"
+last_updated: "1991-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1991.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -687,7 +687,29 @@ En ningún caso se gravará dos veces una misma operación con el impuesto a que
 
 II.- El impuesto sobre adquisición de inmuebles no se causará cuando los adquirentes sean la Federación, el Estado y los Municipios y sean de los clasificados como bienes del dominio público por el último párrafo de la Fracción IV del Artículo 115 de la Constitución Federal de la República.
 
-III.- La base para determinar el importe a pagar por concepto de este impuesto, será el valor que resulte mayor entre el del precio pactado, el valor fiscal y el del avalúo que al efecto practique la autoridad Fiscal Municipal, después de deducirlo en 5 veces el salario mínimo general, elevado al año, que rija en el Estado en el momento en que realice el acto generador.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 1991)</small>
+
+No se pagará el Impuesto establecido en esta Ley en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 1991)</small>
+
+III.- La base para determinar el importe a pagar por concepto de este impuesto, será el que resulte mayor entre:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 1991)</small>
+
+El avalúo que al efecto practique la autoridad fiscal municipal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 1991)</small>
+
+El valor catastral.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 1991)</small>
+
+El valor del inmueble que resulte de actualizar el precio pactado por el factor que obtenga de dividir el Indice Nacional de Precios al Consumidor del mes inmediato anterior a aquel en que sea exigible el pago, entre el mencionado índice correspondiente al mes anterior a aquel en que se efectúo la adquisición. Las autoridades fiscales estarán facultadas para practicar, ordenar o tomar en cuenta el avalúo del inmueble referido en la fecha de la adquisición y cuando el valor que resulte de dicho avalúo, exceda en más de un 10% del precio pactado, este no se tomará en cuenta y el impuesto se calculará sobre el valor del avalúo, determinándose las diferencias de impuestos que resulten.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 1991)</small>
+
+En todo caso, se aplicará una deducción equivalente a un salario mínimo general elevado al año, que rija en el Estado en el momento en que se realice el acto generador.
 
 Para los fines de este artículo, se considera que el usufructo y la nuda propiedad tiene un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
@@ -701,11 +723,17 @@ c).- Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá de
 
 d).- No se considerarán departamentos habitacionales los que, por sus características originales, se destinen a servicios domésticos, portería o guarda de vehículos aún cuando se utilicen para otros fines.
 
-Cuando del inmueble formen parte departamentos habitacionales, la deducción se hará sobre el valor de cada uno de ellos con excepción de los hoteles cuando por motivo de la adquisición el adquirente asuma la obligación de pagar una o mas deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1991)</small>
 
-Cuando no se pacte precio, el impuesto se calculará con base en el avalúo que practique autoridad Fiscal Municipal. En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiera pactado, sino el del avalúo a que se refiere este párrafo.
+En tratándose de donaciones, herencias y legados que se celebren entre cónyuges en las que se realicen de padres a hijos o de hijos a padres y en las operaciones en que los adquirentes sean Asociaciones Civiles que no persigan fines de lucro, se considerará que el inmueble tiene valor nulo.
 
-IV.- El impuesto sobre adquisición de inmuebles, o transmisión de dominio a pagar, será el que resulten de aplicar a la base gravable la tasa que al efecto apruebe anualmente el Congreso del Estado en la Ley de Ingresos Municipal correspondiente.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1991)</small>
+
+Esta previsión no se aplicará a los adquirentes cuando los donatarios, herederos o legatarios cedan sus derechos sobre los bienes gravables;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1991)</small>
+
+IV.- El Impuesto sobre Adquisición de Inmuebles y Transmisión de Dominio a pagar será el que resulte de aplicar a la base gravable la tasa del 2%.
 
 V.- Los sujetos obligados al pago de este impuesto, deberán enterarlo en la Recaudación de Rentas Municipal, en cuya jurisdicción se encuentre ubicado el inmueble, dentro de los 30 días siguientes de la fecha en que se realice el acto generador, mediante declaración utilizando las formas que al efecto apruebe la Tesorería Municipal, debiendo acompañar el avalúo practicado por perito autorizado.
 
@@ -2136,3 +2164,25 @@ UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación e
 P.O. 31 DE DICIEMBRE DE 1988.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación.
+
+P.O. 30 DE JUNIO DE 1991.
+
+DISPOSICIONES TRANSITORIAS:
+
+###### ARTICULO UNICO.
+
+Para la aplicación de las reformas y adiciones contenidas en el presente Decreto se estará a las siguientes disposiciones transitorias:
+
+I.- Durante los años de 1991, 1992 y 1993, se aplicarán las tasas del 8%, 6% y 4% respectivamente, en lugar de la tasa establecida en la Fracción IV del Artículo 75 Bis-B de la Ley de Hacienda Municipal del Estado de Baja California.
+
+II.- Durante los años de 1991, 1992 y 1993, se aplicarán las deducciones de 4, 3 y 2 veces el salario mínimo general diario elevado al año, respectivamente, en lugar de la deducción establecida en la Fracción III del Artículo 75 Bis-B de la Ley de Hacienda Municipal del Estado de Baja California.
+
+III.- Si durante los años de 1991 a 1993, resultara un impuesto mayor al que se hubiera determinado conforme a las disposiciones vigentes hasta el 31 de diciembre de 1990, se aplicarán las referidas disposiciones en lugar de las tasas previstas durante el periodo 1991 a 1993.
+
+IV.- El presente Decreto entrará en vigor a partir del día 1o. de julio de 1991.
+
+T R A N S I T O R I O :
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
