@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1996-12-30"
+last_updated: "1997-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "CFF"
 ---
 # CODIGO FISCAL DE LA FEDERACION
 
-CÓDIGO FISCAL DE LA FEDERACIÓN
+CODIGO FISCAL DE LA FEDERACION
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1996.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 15 DE ENERO DE 1996.
+ULTIMA ACTUALIZACION POR MISCELANEA FISCAL: 22 DE MARZO DE 1997.
 
 Código publicado en el Diario Oficial de la Federación el jueves 31 de diciembre de 1981.
 
@@ -998,11 +998,11 @@ Si en la declaración complementaria se determina que el pago efectuado fue meno
 
 Las personas físicas con actividades empresariales y las personas morales que se encuentran en alguno de los supuestos de las siguientes fracciones, están obligadas a dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público autorizado.
 
-> <small>(REFORMADA POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-I. Las que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a $7,554,000.00, que el valor de su activo determinado en los términos de la Ley del Impuesto al Activo sea superior a $15,107,000.00 o que por lo menos 300 de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior. Las cantidades a que se refiere este párrafo se actualizarán anualmente, en los términos del artículo 17-A de este ordenamiento.
+I. Las que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a $14,658,683.00, que el valor de su activo determinado en los términos de la Ley del Impuesto al Activo sea superior a $29,317,366.00 o que por lo menos 300 de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior. Las cantidades a que se refiere este párrafo se actualizarán anualmente, en los términos del artículo 17-A de este ordenamiento.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -2062,6 +2062,8 @@ V. Autorizar actas constitutivas, de fusión, escisión o liquidación de person
 
 VI. Señalar como domicilio fiscal para efectos del registro federal de contribuyentes, un lugar distinto del que corresponda conforme al artículo 10.
 
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
+
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 80.
@@ -2074,7 +2076,7 @@ II. De $500.00 a $1,000.00, a la comprendida en la fracción III.
 
 III. Para la señalada en la fracción IV:
 
-a). Tratándose de declaraciones, se impondrá una multa entre el 2% de las contribuciones declaradas y $4,000.00. En ningún caso la multa que resulte de aplicar el porcentaje a que se refiere este inciso será menor de $1,600.00 ni mayor de $4,000.00.
+a). Tratándose de declaraciones, se impondrá una multa entre el 2% de las contribuciones declaradas y $4,000 (sic). En ningún caso la multa que resulte de aplicar el porcentaje a que se refiere este inciso será menor de $1,600.00 ni mayor de $4,000.00.
 
 b). De $500.00 a $1,000.00, en los demás documentos.
 
@@ -2168,6 +2170,8 @@ XIX. No proporcionar la información en materia de control físico de volumen a 
 
 A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, solicitudes o avisos, así como de expedir constancias a que se refiere el artículo 81, se impondrán las siguientes multas:
 
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
+
 I. Para la señalada en la fracción I:
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
@@ -2178,15 +2182,15 @@ a). De $400.00 a $5,000.00, tratándose de declaraciones, por cada una de las ob
 
 b). De $400.00 a $10,000.00, por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 18 DE LA OCTAVA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE PARA 1995 REGLAS DE CARÁCTER GENERAL APLICABLES A LOS IMPUESTOS Y DERECHOS FEDERALES, EXCEPTO A LOS RELACIONADOS CON EL COMERCIO EXTERIOR, D.O.F. DEL 15 DE ENERO DE 1996.</small>
-
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-c). De $3,000.00 a $6,000.00, por no presentar el aviso a que se refiere el primer párrafo del artículo 23 de este Código.
+c). De $3,833.00 a $7,666.00, por no presentar el aviso a que se refiere el primer párrafo del artículo 23 de este Código.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 d). De $400.00 a $1,500.00, en los demás documentos.
+
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2202,61 +2206,85 @@ d). De $200.00 a $500.00, por no señalar la clave que corresponda a su activida
 
 e). De $200.00 a $500.00, en los demás casos.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
+
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 III. De $400.00 a $10,000.00, tratándose de la señalada en la fracción III, por cada requerimiento.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 IV. De $5,000.00 a $10,000.00, respecto de la señalada en la fracción IV, salvo tratándose de contribuyentes que de conformidad con la Ley del Impuesto sobre la Renta, estén obligados a efectuar pagos provisionales trimestrales o cuatrimestrales, supuestos en los que la multa será de $500.00 a $3,000.00.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 18 DE LA OCTAVA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE PARA 1995 REGLAS DE CARÁCTER GENERAL APLICABLES A LOS IMPUESTOS Y DERECHOS FEDERALES, EXCEPTO A LOS RELACIONADOS CON EL COMERCIO EXTERIOR, D.O.F. DEL 15 DE ENERO DE 1996.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-V. Para la señalada en la fracción V, la multa será de $5,000.00 a $20,000.00.
+V. Para la señalada en la fracción V, la multa será de $6,388.00 a $25,553.00.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 VI. Para la señalada en la fracción VI la multa será de $1,000.00 a $3,000.00.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
+
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 VII. Para la señalada en la fracción Vll la multa será de $150.00 a $200.00.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 18 DE LA OCTAVA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE PARA 1995 REGLAS DE CARÁCTER GENERAL APLICABLES A LOS IMPUESTOS Y DERECHOS FEDERALES, EXCEPTO A LOS RELACIONADOS CON EL COMERCIO EXTERIOR, D.O.F. DEL 15 DE ENERO DE 1996.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-VIII. Para la señalada en la fracción VIII, la multa será de $14,845.00 a $44,536.00.
+VIII. Para la señalada en la fracción VIII, la multa será de $18,967.00 a $56,901.00.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 IX. De $3,000.00 a $10,000.00, para la establecida en la fracción IX.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
+
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 X. De $2,000.00 a $4,000.00, para la establecida en la fracción X. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días y, en su caso, la cancelación de la autorización para imprimir comprobantes. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 XI. De $45,000.00 a $60,000.00, para la establecida en la fracción XI, por cada sociedad controlada no incluida en la solicitud de autorización para determinar el resultado fiscal consolidado.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
+
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 XII. De $13,000.00 a $20,000.00, para la establecida en la fracción XII, por cada aviso de incorporación o desincorporación no presentado o presentado extemporáneamente, aun cuando el aviso se presente en forma espontánea.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 XIII. De $3,000.00 a $10,000.00, para la establecida en la fracción XIII.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
+
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 XIV. De $3,000.00 a $7,000.00, para la establecida en la fracción XIV.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
+
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 XV. De $25,000.00 a $50,000.00, para la establecida en la fracción XV.
+
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2268,17 +2296,23 @@ b). De $3,000.00 a $4,500.00, por no proporcionar la información a que se refie
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER FRACCION I ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
 
+CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.
+
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 XVII. De $2,000.00 a $5,000.00, para la establecida en la fracción XVII.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER FRACCION I ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
 
+CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.
+
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 XVIII. De $3,000.00 a $5,000.00, para la establecida en la fracción XVIII.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER FRACCION I ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
+
+CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2338,61 +2372,69 @@ XIV. No incluir en el documento que ampare la enajenación de un vehículo, la c
 
 A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el artículo 83, se impondrán las siguientes sanciones:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 18 DE LA OCTAVA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE PARA 1995 REGLAS DE CARÁCTER GENERAL APLICABLES A LOS IMPUESTOS Y DERECHOS FEDERALES, EXCEPTO A LOS RELACIONADOS CON EL COMERCIO EXTERIOR, D.O.F. DEL 15 DE ENERO DE 1996.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-I. De $341.00 a $3,411.00 a la comprendida en la fracción I.
+I. De $436.00 a $4,359.00 a la comprendida en la fracción I.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 18 DE LA OCTAVA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE PARA 1995 REGLAS DE CARÁCTER GENERAL APLICABLES A LOS IMPUESTOS Y DERECHOS FEDERALES, EXCEPTO A LOS RELACIONADOS CON EL COMERCIO EXTERIOR, D.O.F. DEL 15 DE ENERO DE 1996.</small>
-
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-II. De $73.00 a $1,706.00 a las establecidas en las fracciones II y III.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 18 DE LA OCTAVA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE PARA 1995 REGLAS DE CARÁCTER GENERAL APLICABLES A LOS IMPUESTOS Y DERECHOS FEDERALES, EXCEPTO A LOS RELACIONADOS CON EL COMERCIO EXTERIOR, D.O.F. DEL 15 DE ENERO DE 1996.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-III. De $73.00 a $1,364.00 a la señalada en la fracción IV.
+II. De $93.00 a $2,179.00 a las establecidas en las fracciones II y III.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+III. De $93.00 a $1,743.00 a la señalada en la fracción IV.
 
 IV. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 18 DE LA OCTAVA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE PARA 1995 REGLAS DE CARÁCTER GENERAL APLICABLES A LOS IMPUESTOS Y DERECHOS FEDERALES, EXCEPTO A LOS RELACIONADOS CON EL COMERCIO EXTERIOR, D.O.F. DEL 15 DE ENERO DE 1996.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-V. De $208.00 a $2,729.00 a la señalada en la fracción VI.
+V. De $266.00 a $3,486.00 a la señalada en la fracción VI.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 VI. De $5,000.00 a $30,000.00, a las señaladas en las fracciones VII y IX cuando se trate de la primera infracción, salvo tratándose de contribuyentes que tributen conforme a los Títulos II-A y IV, Capítulo VI, Sección II, de la Ley del Impuesto sobre la Renta, supuestos en los que la multa será de $500.00 a $1,000.00 por la primera infracción. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 18 DE LA OCTAVA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE PARA 1995 REGLAS DE CARÁCTER GENERAL APLICABLES A LOS IMPUESTOS Y DERECHOS FEDERALES, EXCEPTO A LOS RELACIONADOS CON EL COMERCIO EXTERIOR, D.O.F. DEL 15 DE ENERO DE 1996.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-VII. De $683.00 a $3,411.00 a la establecida en la fracción VIII. La multa procederá sin perjuicio de que los documentos microfilmados en contravención a las disposiciones fiscales carezcan de valor probatorio.
+VII. De $872.00 a $4,359.00 a la establecida en la fracción VIII. La multa procederá sin perjuicio de que los documentos microfilmados en contravención a las disposiciones fiscales carezcan de valor probatorio.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 VIII. De $2,000.00 a $10,000.00, a la comprendida en la fracción XIII.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
+
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 IX. De $4,000.00 a $40,000.00 y, en su caso, la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción X.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 18 DE LA OCTAVA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE PARA 1995 REGLAS DE CARÁCTER GENERAL APLICABLES A LOS IMPUESTOS Y DERECHOS FEDERALES, EXCEPTO A LOS RELACIONADOS CON EL COMERCIO EXTERIOR, D.O.F. DEL 15 DE ENERO DE 1996.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-X. De $223.00 a $3,711.00 y la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción XI.
+X. De $284.00 a $4,742.00 y la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción XI.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 18 DE LA OCTAVA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE PARA 1995 REGLAS DE CARÁCTER GENERAL APLICABLES A LOS IMPUESTOS Y DERECHOS FEDERALES, EXCEPTO A LOS RELACIONADOS CON EL COMERCIO EXTERIOR, D.O.F. DEL 15 DE ENERO DE 1996.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-XI. De $148.00 a $2,969.00, a la comprendida en la fracción XII.
+XI. De $190.00 a $3,793.00, a la comprendida en la fracción XII.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2420,27 +2462,29 @@ V. Asentar incorrectamente o no asentar en los contratos respectivos el nombre, 
 
 A quien cometa las infracciones relacionadas con las instituciones de crédito a que se refiere el artículo 84-A de este Código, se le impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 18 DE LA OCTAVA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE PARA 1995 REGLAS DE CARÁCTER GENERAL APLICABLES A LOS IMPUESTOS Y DERECHOS FEDERALES, EXCEPTO A LOS RELACIONADOS CON EL COMERCIO EXTERIOR, D.O.F. DEL 15 DE ENERO DE 1996.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
-I. De $73.00 a $3,411.00 a la comprendida en la fracción I.
+I. De $93.00 a $4,359.00 a la comprendida en la fracción I.
 
 II. Por el 20% del valor del cheque a la establecida en la fracción II.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 III. De $12.00 a $18.00 por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 18 DE LA OCTAVA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE PARA 1995 REGLAS DE CARÁCTER GENERAL APLICABLES A LOS IMPUESTOS Y DERECHOS FEDERALES, EXCEPTO A LOS RELACIONADOS CON EL COMERCIO EXTERIOR, D.O.F. DEL 15 DE ENERO DE 1996.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-IV. De $7,423.00 a $148,453.00, a la establecida en la fracción IV.
+IV. De $9,483.00 a $189,670.00, a la establecida en la fracción IV.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 18 DE LA OCTAVA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE PARA 1995 REGLAS DE CARÁCTER GENERAL APLICABLES A LOS IMPUESTOS Y DERECHOS FEDERALES, EXCEPTO A LOS RELACIONADOS CON EL COMERCIO EXTERIOR, D.O.F. DEL 15 DE ENERO DE 1996.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-V. De $1,485.00 a $22,268.00, a la establecida en la fracción V.
+V. De $1,897.00 a $28,450.00, a la establecida en la fracción V.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -2448,13 +2492,13 @@ V. De $1,485.00 a $22,268.00, a la establecida en la fracción V.
 
 Son infracciones de los usuarios de los servicios, así como de los cuentahabientes de las instituciones de crédito a que se refiere el último párrafo del artículo 30-A de este Código, la omisión total o parcial de la obligación de proporcionar la información relativa a su nombre, denominación o razón social, domicilio, clave del registro federal de contribuyentes o los datos que se requieran para formar dicha clave o la que la sustituya, que les soliciten los prestadores de servicios y las instituciones de crédito, así como proporcionar datos incorrectos o falsos.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 18 DE LA OCTAVA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE PARA 1995 REGLAS DE CARÁCTER GENERAL APLICABLES A LOS IMPUESTOS Y DERECHOS FEDERALES, EXCEPTO A LOS RELACIONADOS CON EL COMERCIO EXTERIOR, D.O.F. DEL 15 DE ENERO DE 1996.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 84-D.
 
-A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de $96.00 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de $288.00 por cada una de las mismas.
+A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de $123.00 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de $368.00 por cada una de las mismas.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -2462,13 +2506,13 @@ A quien cometa las infracciones a que se refiere el artículo 84-C de este Códi
 
 Se considera infracción en la que pueden incurrir las empresas en relación a las obligaciones a que se refieren el primero y segundo párrafos del artículo 32-C de este Código, el no efectuar la notificación de la cesión de créditos operada en virtud de un contrato de factoraje financiero, o el negarse a recibir dicha notificación.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 18 DE LA OCTAVA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE PARA 1995 REGLAS DE CARÁCTER GENERAL APLICABLES A LOS IMPUESTOS Y DERECHOS FEDERALES, EXCEPTO A LOS RELACIONADOS CON EL COMERCIO EXTERIOR, D.O.F. DEL 15 DE ENERO DE 1996.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 84-F.
 
-De $1,485.00 a $14,845.00, a quien cometa la infracción a que se refiere el artículo 84-E.
+De $1,897.00 a $18,967.00, a quien cometa la infracción a que se refiere el artículo 84-E.
 
 ###### Artículo 85.
 
@@ -2488,21 +2532,23 @@ III. No suministrar los datos e informes sobre clientes y proveedores que legalm
 
 A quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo 85, se impondrán las siguientes multas:
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
+
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 l. De $5,000.00 a $15,000.00, a la comprendida en la fracción l.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 18 DE LA OCTAVA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE PARA 1995 REGLAS DE CARÁCTER GENERAL APLICABLES A LOS IMPUESTOS Y DERECHOS FEDERALES, EXCEPTO A LOS RELACIONADOS CON EL COMERCIO EXTERIOR, D.O.F. DEL 15 DE ENERO DE 1996.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. De $341.00 a $14,130.00 a la establecida en la fracción II.
+II. De $436.00 a $18,053.00 a la establecida en la fracción II.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 18 DE LA OCTAVA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE PARA 1995 REGLAS DE CARÁCTER GENERAL APLICABLES A LOS IMPUESTOS Y DERECHOS FEDERALES, EXCEPTO A LOS RELACIONADOS CON EL COMERCIO EXTERIOR, D.O.F. DEL 15 DE ENERO DE 1996.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-III. De $742.00 a $18,557.00, a la establecida en la fracción III.
+III. De $948.00 a $23,709.00, a la establecida en la fracción III.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER FRACCION I ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
 
@@ -2516,7 +2562,7 @@ I. No adherir marbetes o precintos a los envases o recipientes.
 
 II. Hacer cualquier uso diferente de los marbetes o precintos al de adherirlos a los envases o recipientes que contengan bebidas alcohólicas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER FRACCION I ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER FRACCIÓN I ARTÍCULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2524,7 +2570,11 @@ II. Hacer cualquier uso diferente de los marbetes o precintos al de adherirlos a
 
 A quienes cometan las infracciones señaladas en el artículo 86-A de este Código, se impondrán las siguientes multas:
 
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
+
 l. De $100.00 a $300.00, a la comprendida en la fracción I, por cada marbete o precinto no adherido.
+
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 II. De $200.00 a $500.00, a la comprendida en la fracción II, por cada marbete o precinto usado indebidamente.
 
@@ -2533,6 +2583,8 @@ II. De $200.00 a $500.00, a la comprendida en la fracción II, por cada marbete 
 ###### Artículo 86-C.
 
 Son infracciones relacionadas con la obligación de garantizar el interés fiscal, el solicitar la autorización de pago en plazos en términos del artículo 66, fracción II, segundo párrafo de este Código, cuando las autoridades fiscales comprueben que el contribuyente pudo haber ofrecido garantías adicionales.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2548,7 +2600,9 @@ A quien cometa las infracciones a que se refiere el artículo 86-C, se le impond
 
 Son infracciones de los fabricantes, productores o envasadores de bebidas alcohólicas, cerveza y de tabacos labrados, según corresponda, no llevar el control físico a que se refiere el artículo 19, fracciones IV y X de la Ley del Impuesto Especial sobre Producción y Servicios o llevarlo en forma distinta a lo que establecen dichas fracciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER FRACCION I ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER FRACCIÓN I ARTÍCULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
+
+CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2570,6 +2624,8 @@ II. Asentar falsamente que se ha dado cumplimiento a las dispociones (sic) fisca
 
 III. Exigir una prestación que no esté prevista en las disposiciones fiscales, aun cuando se aplique a la realización de las funciones públicas.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
+
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 88.
@@ -2584,17 +2640,19 @@ I. Asesorar o aconsejar a los contribuyentes para omitir el pago de una contribu
 
 II. Ser cómplice en cualquier forma no prevista, en la comisión de infracciones fiscales.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
+
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 90.
 
 Se sancionará con una multa de $10,000.00 a $20,000.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 89.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 18 DE LA OCTAVA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE PARA 1995 REGLAS DE CARÁCTER GENERAL APLICABLES A LOS IMPUESTOS Y DERECHOS FEDERALES, EXCEPTO A LOS RELACIONADOS CON EL COMERCIO EXTERIOR, D.O.F. DEL 15 DE ENERO DE 1996.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 ###### Artículo 91.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de $71.00 a $716.00.
+La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de $91.00 a $914.00.
 
 ### CAPITULO II. De las Notificaciones y la Garantía del Interés Fiscal
 
@@ -3548,17 +3606,17 @@ II. Por la de embargo, incluyendo los señalados en los artículos 41, fracción
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al fisco federal.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 18 DE LA OCTAVA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE PARA 1995 REGLAS DE CARÁCTER GENERAL APLICABLES A LOS IMPUESTOS Y DERECHOS FEDERALES, EXCEPTO A LOS RELACIONADOS CON EL COMERCIO EXTERIOR, D.O.F. DEL 15 DE ENERO DE 1996.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a N$96.00, se cobrará esta cantidad en vez del 2% del crédito.
+Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a N$123.00, se cobrará esta cantidad en vez del 2% del crédito.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 18 DE LA OCTAVA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE PARA 1995 REGLAS DE CARÁCTER GENERAL APLICABLES A LOS IMPUESTOS Y DERECHOS FEDERALES, EXCEPTO A LOS RELACIONADOS CON EL COMERCIO EXTERIOR, D.O.F. DEL 15 DE ENERO DE 1996.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 22 DE MARZO DE 1997.</small>
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de $15,103.00. Las cantidades a que se refiere este párrafo y el anterior, se actualizarán en los meses de enero y julio, en los términos del artículo 17-A de este Código.
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de $19,296.00. Las cantidades a que se refiere este párrafo y el anterior, se actualizarán en los meses de enero y julio, en los términos del artículo 17-A de este Código.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -5751,3 +5809,7 @@ VIII.- Para los efectos de lo dispuesto en los artículos 70, segundo párrafo y
 ## Transitorio
 
 UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1997.
+
+D.O.F. 22 DE MARZO DE 1997.
+
+LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
