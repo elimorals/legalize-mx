@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1998-08-29"
+last_updated: "1998-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1998.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1003,7 +1003,7 @@ En los casos en que los predios urbanos baldíos cuyas áreas constituyan jardin
 
 ###### Art. 102.
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 1997)
+(DEROGADO, P.O., 27 DE DICIEMBRE DE 1997)
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
@@ -2971,9 +2971,9 @@ P.O. 28 DE JUNIO DE 1997.
 
 P.O. 9 DE DICIEMBRE DE 1997.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
-Primero.- El presente decreto entrará en vigor en su totalidad, el día primero de enero de 1998, para los municipios de Guadalajara y Zapopan, Jalisco. Para los demás municipios de la entidad, entrará en vigor el día primero de enero de mil novecientos noventa y ocho, salvo las disposiciones relativas al impuesto predial, que entrarán en vigor a partir del día primero de mil novecientos noventa y nueve.
+Primero.- El presente decreto entrará en vigor en su totalidad el día 1º de enero de 1998, para los municipios de Guadalajara y Zapopan. Para Los Municipios de Puerto Vallarta, Tepatitlán de Morelos, Tlaquepaque, Tonalá y Villa Corona, Jalisco, regirán a partir del día 1º de enero de 1998, salvo las disposiciones relativas al impuesto predial que entrarán en vigor el día 1º de enero de 1999. Para los demás municipios de la entidad empezarán a surtir efectos el día 1º de enero de 1998, salvo las disposiciones del impuesto predial que entrarán en vigor el día 1º de enero del año 2000.
 
 Segundo.- Se derogan todas aquellas disposiciones que se opongan a (sic) al presente decreto.
 
@@ -2992,3 +2992,7 @@ P.O. 19 DE FEBRERO DE 1998.
 P.O. 29 DE AGOSTO DE 1998.
 
 ÚNICO. Este decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 31 DE DICIEMBRE DE 1998.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
