@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-de-centros-poblados-del-estado-de-sinaloa-983
 country: "mx"
 rank: "ley"
 publication_date: "1970-10-01"
-last_updated: "1970-10-01"
+last_updated: "1971-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SIN"
 
 LEY DE DESARROLLO DE CENTROS POBLADOS DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL "EL ESTADO DE SINALOA": 11 DE FEBRERO DE 1971.
 
-Ley publicada en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el 1o. de octubre de 1970.
+Ley publicada en el Suplemento del Periódico Oficial "El Estado de Sinaloa" el 1o. de octubre de 1970.
 
 EL CIUDADANO LICENCIADO ALFREDO VALDES MONTOYA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SINALOA, a sus habitantes hace saber:
 
@@ -763,6 +763,8 @@ La amortización de los créditos obtenidos para el financiamiento de las obras 
 
 ### CAPITULO UNICO. DE LAS EXPROPIACIONES PARA EL DESARROLLO URBANO
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 1971)</small>
+
 ###### Artículo 63.
 
 Las obras de desarrollo urbano a que se refiere la presente Ley se adjudicarán por contrato al mejor postor siempre que compruebe a satisfacción del Organismo otorgante su seriedad, idoneidad y experiencia en la realización de obras con características similares a las de aquélla para la cual formuló la postura.
@@ -841,7 +843,7 @@ III.- Cuando las proposiciones no contengan los datos a que se refiere el artíc
 
 ###### Artículo 75.
 
-Aprobada por la Comisión Estatal de Desarrollo de Centros Poblados una obra cuya ejecución requiere la expropiación de bienes de propiedad privada, el Organismo que promovió dicha obra solicitará del Ejecutivo del Estado o del Ayuntamiento respectivo, la integración del expediente y la solicitud al H. Congreso del Estado para que este decrete la autorización para la expropiación, de acuerdo con lo prescrito por la Ley de la materia.
+Aprobada por la Comisión Estatal de Desarrollo de Centros Poblados una obra cuya ejecución requiera la expropiación de bienes de propiedad privada, se considerará como causa de utilidad pública tal expropiación y la ocupación de dichos bienes y el Organismo que promovió dicha obra solicitará del Ejecutivo del Estado o Presidente Municipal respectivo, la integración del expediente y la solicitud al H. Congreso del Estado o al H. Ayuntamiento que corresponda para que decreten la autorización de expropiar de conformidad con lo prescrito por la Ley de la materia.
 
 ###### Artículo 76.
 
@@ -1448,3 +1450,9 @@ LIC. FRANCISCO RODOLFO ÁLVAREZ FÁRBER
 EL TESORERO GENERAL DEL ESTADO
 
 LIC. RAUL IBAÑEZ VILLEGAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE FEBRERO DE 1971.
+
+UNICO.- El presente decreto empezará a surtir sus efectos a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
