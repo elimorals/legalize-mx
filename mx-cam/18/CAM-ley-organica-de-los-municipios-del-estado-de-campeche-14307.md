@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "1981-12-07"
+last_updated: "1983-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1983.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
 
@@ -1341,29 +1341,35 @@ Las concesiones otorgadas en contravención a lo dispuesto en el artículo anter
 
 ### CAPITULO IV. De los Cuerpos de Seguridad Municipal
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 113.
 
-En cada Municipio, cuando sus fondos lo permitan, se integrarán Cuerpos de Seguridad Pública.
+En cada Municipio se integrarán Cuerpos de Seguridad Pública y Tránsito.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 114.
 
-Los Presidentes Municipales serán los jefes inmediatos de los Cuerpos de Policía y el Ejecutivo del Estado el superior jerárquico de estos últimos.
+Los Presidentes Municipales serán los jefes inmediatos de los Cuerpos de Seguridad Pública y Tránsito, en sus respectivas jurisdicciones.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 115.
 
-En los Municipios donde resida transitoriamente, el Ejecutivo del Estado, éste tendrá el mando inmediato de los Cuerpos de Policía Municipal, durante el tiempo de su residencia. En el Municipio de Campeche, el mando de la Policía Municipal lo ejercerá siempre el Gobernador del Estado a través de la Dirección de Seguridad Pública y Tránsito.
+En los Municipios donde resida transitoria o habitualmente, el Gobernador del Estado, tendrá el mando inmediato de los Cuerpos de Seguridad Pública y Tránsito.
 
-El Gobernador del Estado está facultado para nombrar y remover, a través de la Dirección de Seguridad Pública y Tránsito, a los Comandantes de los Cuerpos de Policía Municipal. Para su designación, tomará en cuenta las proposiciones de los Ayuntamientos respectivos.
-
-Los Ayuntamientos harán los nombramientos y las remociones de los demás integrantes de los Cuerpos de Policía y Bomberos Municipales, teniendo preferencia para los nombramientos, los egresados de los Centros de Capacitación Policiaca dependientes de la Dirección de Seguridad Pública y Tránsito del Estado.
+Los Ayuntamientos harán los nombramientos y las remociones de los integrantes de los Cuerpos de Seguridad Pública y Tránsito.
 
 ###### ARTICULO 116.
 
 Los Comandantes de Policía y Bomberos acatarán siempre las órdenes que reciban del Presidente Municipal como su jefe inmediato, pero cuando las consideren ilegales pedirán que les sean dadas por escrito para cubrir su responsabilidad.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 117.
 
-La Policía Municipal dependerá de la Dirección de Seguridad Pública y Tránsito, en todo lo relacionado a la función, organización y dirección técnica de la misma.
+Con fundamento en lo que dispone el último párrafo de la fracción III del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, los Ayuntamientos podrán coordinarse para la mejor prestación de los servicios de seguridad pública y tránsito.
 
 ### CAPITULO V. De los Actos Administrativos Municipales
 
@@ -1928,3 +1934,9 @@ Dado en el Palacio del Poder Legislativo del Estado, en Campeche, a los cuatro d
 Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado, en Campeche, a los cuatro días del mes de diciembre del año de mil novecientos ochenta y uno.- El Gobernador Constitucional del Estado, INGENIERO EUGENIO ECHEVERRIA CASTELLOT.- El Secretario de Gobierno, LIC. PABLO GONZALEZ LASTRA.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE DICIEMBRE DE 1983.
+
+UNICO.- El presente Decreto entrará en vigor el día primero de Enero del año de mil novecientos ochenta y cuatro, previa publicación en el Periódico Oficial del Gobierno del Estado.
