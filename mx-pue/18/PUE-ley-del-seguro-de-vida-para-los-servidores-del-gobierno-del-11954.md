@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-seguro-de-vida-para-los-servidores-del-gobierno-del-119
 country: "mx"
 rank: "ley"
 publication_date: "1952-03-14"
-last_updated: "1956-01-24"
+last_updated: "1965-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SEGURO DE VIDA PARA LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 1956.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1965.
 
 Ley publicada en el periódico oficial del Estado de Puebla, el viernes 14 de marzo de 1952.
 
@@ -39,25 +39,41 @@ El H. XXXVIII Congreso Constitucional del Estado Libre y Soberano de Puebla, exp
 
 LEY DEL SEGURO DE VIDA PARA LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA
 
+###### ARTICULO 2.
+
+El Seguro que se crea tiene como fin la ayuda económica para los familiares de los Servidores del Gobierno del Estado.
+
+Para los efectos de esta Ley, son servidores del Gobierno del Estado, los funcionarios electos o nombrados, así como los maestros y empleados en general a quienes para el desempeño de sus labores se les expida nombramiento.
+
+Ningún nombramiento podrá expedirse sin el previo reconocimiento médico del interesado, practicado por el médico oficial que al efecto se comisione, quien expedirá el certificado respectivo.
+
+Las disposiciones de esta Ley no son aplicables a quienes ingresen al servicio por nombramiento, padeciendo de enfermedad que ponga en inminente peligro su vida, a juicio del médico oficial que practique el reconocimiento.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1965)</small>
+
 ###### ARTICULO 3.
 
-El importe de la cuota individual, por cada caso de defunción o de incapacidad total y permanente, será de $ 5.00 (CINCO PESOS).
+El importe de la cuota individual por cada caso de defunción, será de $ 6.00 (SEIS PESOS).
 
 ###### ARTICULO 6o.
 
 La Junta de Administración se organizará y funcionará de acuerdo con el Reglamento respectivo.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 1956)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1965)</small>
 
 ###### ARTICULO 7.
 
-La Tesorería General del Estado, queda facultada para descontar de los sueldos de los Servidores del Gobierno del Estado, el importe de sus aportaciones en cada caso de fallecimiento o de incapacidad total y permanente, debiendo entregar la suma recaudada dentro de los diez días siguientes, al Tesorero de la Junta de Administración del "Seguro de Vida de los Servidores del Gobierno del Estado de Puebla", para que éste, a más tardar dentro de las veinticuatro horas siguientes, deposite dicha suma en una Institución Bancaria.
+La Tesorería General del Estado descontará de los sueldos de los servidores del Gobierno el importe de sus cuotas individuales, en cada caso de fallecimiento o de incapacidad total y permanente de los asegurados, debiendo comunicar oportunamente el cumplimiento de esa obligación al Gobernador del Estado y a la Junta de Administración del Seguro. Esta última, dentro de los diez días siguientes a la recepción del aviso, propondrá al Gobernador la inversión específica inmediata que haya de darse a la suma recaudada, mediante su afectación en fideicomiso revocable o la compra de valores de constante mercado, de segura, fácil y pronta liquidación, de modo que produzca el mayor rendimiento compatible con la mayor seguridad y la liquidez necesaria para cumplir en su debida oportunidad con lo dispuesto en el artículo siguiente.
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1955)</small>
+El Gobernador del Estado, siempre dentro de las prescripciones del párrafo anterior, podrá aprobar o modificar la inversión propuesta o determinar la que debe hacerse si dentro del plazo señalado la Junta de Administración del seguro no formulare proposición.
+
+La resolución del Gobernador será ejecutada dentro de tercero día, conjuntamente por el Tesorero General del Estado y el de la Junta de Administración del Seguro de Vida de los Servidores del Gobierno del Estado de Puebla.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1965)</small>
 
 ###### ARTICULO 8.
 
-En cada caso de defunción de algún servidor del Gobierno del Estado de Puebla deberá pagarse al beneficiario o beneficiarios la cantidad de $20,000.00 VEINTE MIL PESOS; aportados en la forma siguiente: con el importe de las cuotas descontadas a los asegurados, en términos del artículo 3o y la cantidad que resultare faltante, por el Gobierno del Estado, por concepto de la Caja de la Tesorería General del mismo.
+En cada caso de defunción de algún servidor del Gobierno del Estado de Puebla, así como en el de incapacidad total y permanente del asegurado, deberá pagarse a éste o al beneficiario o beneficiarios de aquél, la cantidad de $ 35,000.00 (TREINTA Y CINCO MIL PESOS, CERO CENTAVOS), constituida por la suma de las cuotas descontadas a los asegurados en términos del Artículo 3°. de esta Ley y con la cantidad ministrada por el Gobierno del Estado por conducto de la Caja de la Tesorería General del mismo, hasta completar la cantidad antes mencionada.
 
 ###### ARTICULO 9o.
 
@@ -123,11 +139,11 @@ Si la incapacidad a que se refiere el artículo anterior, trae como consecuencia
 
 La entrega del Seguro en los casos de incapacidad total y permanente del Asegurado, excluye el Seguro que se entrega en los casos de defunción.
 
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 1956)</small>
+(REFORMADO, P.O. 25 DE JUNIO DE 1965) (F. DE E. 31 DE AGOSTO DE 1965)
 
 ###### ARTICULO 23.
 
-La entrega de los seguros que instituye esta Ley, la hará personalmente el Ejecutivo del Estado, en acto público y con la presencia de los miembros de los Departamentos Legislativo y Judicial.
+La entrega de los seguros que instituye esta Ley, se hará mensualmente por el Ejecutivo del Estado y con la presencia de los miembros de los Departamentos Legislativo y Judicial. En ningún caso esta entrega será menor de dos pólizas.
 
 TRANSITORIOS:
 
@@ -135,21 +151,15 @@ TRANSITORIOS:
 
 La presente ley entrará en vigor desde el día de su publicación en el Periódico Oficial del Estado.
 
-###### ARTICULO 2º.
-
-Se deroga la Ley "DEL SEGURO DEL MAESTRO", de fecha 18 dieciocho de abril de 1935 mil novecientos treinta y cinco y todas las disposiciones que se opongan a la presente ley; los fondos de reserva existentes serán devueltos por la Junta de Administración a quienes hicieron aportaciones para constituirlo.
-
 ###### ARTICULO 1o.
 
 Se instituye en esta entidad con carácter obligatorio, el SEGURO DE VIDA DE LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA.
 
-###### ARTICULO 2o.
+> <small>(REFORMADO, P.O.25 DE JUNIO DE 1965)</small>
 
-El Seguro que se crea tiene como único fin la de ayuda económica para los familiares de los Servidores del Gobierno del Estado.
+###### ARTICULO 2º.
 
-Se entiende por Servidores del Gobierno del Estado de Puebla, los funcionarios electos o nombrados, maestros y empleados en general, a quienes para el desempeño de sus labores, se les expide nombramiento.
-
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 1956)</small>
+Se deroga la Ley "DEL SEGURO DEL MAESTRO", de fecha 18 dieciocho de abril de 1935 mil novecientos treinta y cinco y todas las disposiciones que se opongan a la presente ley; los fondos de reserva existentes serán devueltos por la Junta de Administración a quienes hicieron aportaciones para constituirlo.
 
 ###### ARTICULO 3º.
 
@@ -190,3 +200,9 @@ Se derogan las disposiciones que se opongan a las reformas y adiciones que conti
 ###### ARTÍCULO SEGUNDO.
 
 Este Decreto comenzará a surtir sus efectos a partir del día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE JUNIO DE 1965.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado y regirá respecto de las defunciones acaecidas y de las incapacidades declaradas con posterioridad a su entrada en vigor.
+
+SEGUNDO.- El fondo del Seguro de Vida actualmente existente, se invertirá en términos de lo establecido por el Artículo 8° reformado de la Ley del Seguro de Vida para los Servidores del Gobierno del Estado de Puebla.
