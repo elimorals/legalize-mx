@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-penales-para-el-estado-de-sonora-8462"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-17"
-last_updated: "1994-09-02"
+last_updated: "1997-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 2 DE SEPTIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 1997.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 17 de agosto de 1949.
 
@@ -169,9 +169,11 @@ Los Juzgados Locales ubicados en cada cabecera de los Distritos Judiciales del E
 
 Los Juzgados Locales que no residan en la cabecera de distrito, conocerán a prevención de los negocios que les sean consignados y una vez desahogadas las primeras diligencias, remitirán lo actuado al Juzgado Local de la cabecera o al de Primera Instancia del Distrito Judicial que corresponda.
 
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 1997)</small>
+
 ###### ARTICULO 9o.
 
-Los Jueces de Primera Instancia conocerán como instructores y sentenciadores de los delitos cometidos en el territorio de su jurisdicción, no comprendidos en el artículo anterior, salvo los casos en que la ley disponga expresamente otra cosa.
+Es Tribunal competente para conocer de un delito, el del lugar en que se cometa, salvo lo previsto en los párrafos segundo y tercero del artículo 12.
 
 > <small>(REFORMADO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -183,13 +185,19 @@ En caso de concurso de delitos de los que deba conocer unos, el Juzgado de Prime
 
 En materia penal no cabe prórroga ni renuncia de jurisdicción.
 
-> <small>(REFORMADO, B.O. 11 DE MAYO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE MARZO DE 1997)</small>
 
 ###### ARTICULO 12.
 
-Es competente para conocer de un delito instantáneo, el tribunal del lugar en que se comete. Es competente para conocer de los delitos permanente y continuados, cualquiera de los tribunales en cuya jurisdicción se hayan ejecutado hechos que constituyan el o los delitos imputados. En caso de controversia, será competente el tribunal que primero haya prevenido.
+Es competente para conocer de los delitos permanentes o continuos y continuados, cualesquiera de los tribunales en cuya jurisdicción se hayan ejecutado hechos que constituyan el o los delitos imputados. En caso de controversia, será competente el Tribunal que primero haya prevenido.
+
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 1992)</small>
 
 Un solo juez de los que sean competentes conocerá de los delitos conexos, conforme a las disposiciones legales relativas.
+
+> <small>(ADICIONADO, B.O. 10 DE MARZO DE 1997)</small>
+
+También será competente para conocer de un asunto, un juez de Primera Instancia distinto al del lugar de comisión del delito, si por razones de seguridad en las prisiones, atendiendo a las características del hecho imputado, a las circunstancias personales del inculpado y a otras que impidan garantizar el desarrollo del proceso, el Ministerio Público considera necesario llevar el ejercicio de la acción penal ante otro juez. Lo anterior es igualmente aplicable para los casos en que, por las mismas razones, la autoridad judicial, de oficio o a petición de parte, estime necesario trasladar a un procesado a algún centro de reclusión que brinde mayor seguridad, en los que será competente el tribunal del lugar en que se ubique dicho centro.
 
 ###### ARTICULO 13.
 
@@ -3910,3 +3918,9 @@ A partir de la publicación de la presente Ley, queda sin efecto lo previsto en 
 ###### ARTICULO QUINTO.
 
 En los casos en que legalmente sea aplicable el Código Penal para el Estado de Sonora abrogado mediante publicación en el Boletín Oficial del Gobierno del Estado número 24, Sección I, de 24 de marzo de 1994, y para los efectos señalados en los artículos: 16 párrafo quinto y veinte fracción I de la Constitución Política de los Estados Unidos Mexicanos; 85 y 93 fracción IV del Código Penal para el Estado de Sonora; y 349 de la presente Ley, se considerarán, como graves los delitos contemplados en el Código abrogado, cuando estén sancionados con pena cuyo término medio aritmético exceda de cinco años de prisión, siempre que se encuentren constituidos por elementos típicos que a su vez formen parte de los delitos referidos en el artículo 187 del presente Código.
+
+B.O. 10 DE MARZO DE 1997.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
