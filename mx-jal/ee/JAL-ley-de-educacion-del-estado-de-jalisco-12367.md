@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2000-04-29"
+last_updated: "2003-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2003.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -221,9 +221,11 @@ XIV.- Las demás que con tal carácter establezca esta ley y otras disposiciones
 
 DE LAS OBLIGACIONES Y ATRIBUCIONES DEL EJECUTIVO ESTATALA (SIC) TRAVÉS DE LA SECRETARÍA DE EDUCACIÓN DEL ESTADO.
 
-###### ARTICULO 14.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2003)</small>
 
-Corresponden al Ejecutivo Estatal por conducto de la Secretaría de Educación del Estado las siguientes facultades:
+###### Artículo 14.
+
+Corresponde al ejecutivo Estatal por conducto de la Secretaría de Educación del Estado las siguientes facultades:
 
 I.- Organizar e impartir los servicios de educación inicial, básica, incluyendo la indígena y especial, normal y las demás necesarias para la formación de maestros, incluyendo las modalidades de la educación no escolarizada y mixta;
 
@@ -259,9 +261,9 @@ l) Bibliotecas;
 
 IV.- Elaborar, coordinar, ejecutar y evaluar los programas operativos anuales en materia educativa, de conformidad con las políticas, prioridades y lineamientos establecidos por el Programa Estatal de Desarrollo Educativo de Jalisco;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2003)</small>
 
-V.- Vigilar el estricto cumplimiento por parte de las empresas establecidas en el Estado, de lo ordenado por la fracción XII del artículo 123 del apartado A de la Constitución Política de los Estados Unidos Mexicanos en lo concerniente a la obligación de establecer y sostener escuelas y centros de capacitación;
+V.- Promover, coordinar, ejecutar y evaluar un programa anual de capacitación, orientación y formación dirigido a los padres de familia o tutores en los centros de educación básica, incluyendo la indígena y educación especial. Estableciendo en cada institución educativa o zona escolar la escuela para padres;
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
 
@@ -1608,3 +1610,7 @@ P.O. 29 DE ABRIL DE 2000.
 PRIMERO. La vigencia del presente decreto de ley estará sujeta a la presentación y aprobación del plan programático pormenorizado que haga factible viavilidad y operatividad de la propuesta: El ejecutivo elaborará un plan programática para dar cumplimiento a lo que el presente decreto determina, antes del 31 de agosto.
 
 SEGUNDO.- Dicho plan deberá, en su caso, ser contemplado en el Presupuesto de Egresos del Estado del año fiscal de su vigencia para su aprobación.
+
+P.O. 4 DE MARZO DE 2003.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
