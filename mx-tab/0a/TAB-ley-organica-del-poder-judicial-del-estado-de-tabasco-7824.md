@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-judicial-del-estado-de-tabasco-7824"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-11-21"
-last_updated: "1998-08-08"
+last_updated: "2000-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 2000.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 21 de noviembre de 1990.
 
@@ -155,11 +155,11 @@ Los auxiliares de la Administración de Justicia, están obligados a cumplir con
 
 ### CAPITULO I. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 8°.
 
-El Tribunal Superior de Justicia funcionará en Pleno y en Salas y estará integrado por quince magistrados numerarios y los supernumerarios e interinos que se requieran, nombrados los primeros en los términos del artículo 56 de la Constitución Política del Estado y los siguientes por el Pleno del propio Tribunal.
+El Tribunal Superior de Justicia funcionará en Pleno y en Salas y estará integrado por diecinueve Magistrados Numerarios y los Supernumerarios e interinos que se requieran, nombrados los primeros en los términos del artículo 56 de la Constitución Política del Estado y los siguientes por el Pleno del propio Tribunal.
 
 ###### ARTICULO 9°.
 
@@ -345,11 +345,11 @@ El Presidente del Tribunal puede renunciar a la Presidencia, sin hacer dimisión
 
 ### CAPITULO IV. DE LAS SALAS DEL TRIBUNAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 22.
 
-El Tribunal Superior de Justicia se constituye por Salas, dos civiles y tres penales, más las que determine el Pleno, integradas por tres magistrados cada una, cuya adscripción será determinada por el mismo Pleno, presidida respectivamente por uno de ellos elegido anualmente por la propia Sala.
+El Tribunal Superior de Justicia se constituye por seis Salas, dos Civiles y cuatro Penales, más las que determine el Pleno, integradas por tres Magistrados cada una, cuya adscripción será determinada por el mismo Pleno, presidida respectivamente por uno de ellos elegido anualmente por la propia Sala.
 
 Las resoluciones de las Salas del Tribunal se tomarán por unanimidad o por mayoría de votos, sin que ningún Magistrado pueda abstenerse de votar, salvo que tuviere algún impedimento legal. Cada Sala sesionará por lo menos una vez en la semana.
 
@@ -424,6 +424,14 @@ Las tres Salas para el trámite de los amparos interpuestos contra sus resolucio
 Por motivos extraordinarios podrán integrarse Salas Auxiliares, con las funciones y atribuciones que el Pleno del Tribunal determine, en las cuales actuarán Magistrados Supernumerarios.
 
 Cuando sea necesaria la función de una Sala Auxiliar deberá integrarse con tres Magistrados Supernumerarios y conocerá en forma colegiada los asuntos que determine el Pleno del Tribunal, con las prevenciones establecidas para las demás Salas.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2000)</small>
+
+###### ARTICULO 29 Bis.
+
+El Comité de Compilación, Sistematización y Publicación de Criterios Aislados y Criterios Jurisprudenciales Locales, cuidará que mediante la creación de criterios aislados y de jurisprudencias locales, se unifiquen criterios dispersos de las salas de apelación, para evitar se incurra en decisiones contradictorias que atenten contra el estado de derecho.
+
+El Comité estará integrado por tres Coordinadores y será presidido respectivamente por uno de ellos, elegido anualmente por el propio Comité, todo ello para los efectos legales que procedan y de acuerdo con las facultades de dicho Comité.
 
 ### CAPITULO V. DE LA SECRETARIA GENERAL DEL TRIBUNAL, DE LOS ACTUARIOS, DE LOS SECRETARIOS DE ESTUDIO Y CUENTA Y AUXILIARES
 
@@ -1606,3 +1614,9 @@ P.O. 8 DE AGOSTO DE 1998.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 29 DE NOVIEMBRE DE 2000.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+Artículo Segundo.- El funcionamiento y facultades del Comité de Compilación, Sistematización y Publicación de Criterios Aislados y Criterios Jurisprudenciales Locales, se estableció por acuerdo del Pleno del Tribunal Superior de Justicia y sus reglas, serán publicadas en el Periódico Oficial del Estado y en el Boletín Judicial, para que surtan sus efectos legales.
