@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-37-2001-del-pleno-del-consejo-de-la-62868"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-07-03"
-last_updated: "2001-07-03"
+last_updated: "2004-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-05-27"
 
 ACUERDO GENERAL 37/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO PARA FORMAR ANUALMENTE LA LISTA DE PERSONAS QUE PUEDAN FUNGIR COMO PERITOS ANTE LOS ORGANOS DEL PODER JUDICIAL DE LA FEDERACION, LAS FORMALIDADES PARA SU NOMBRAMIENTO, ASI COMO SUS DERECHOS Y OBLIGACIONES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE MAYO DE 2004.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 3 de julio de 2001.
 
@@ -217,7 +217,9 @@ RENOVACION DE LA LISTA Y CONTINUIDAD DE SUS INTEGRANTES.- La Lista se renovará 
 
 FORMALIDADES.- La designación del perito en los Organos Jurisdiccionales, se ajustará a las siguientes formalidades:
 
-a) Los Titulares de los Organos Jurisdiccionales, que dentro de los procedimientos de su competencia pretendan nombrar como perito a alguno de los señalados en la Lista, deberán solicitar la autorización respectiva de la Comisión, acreditando en forma fehaciente que después de haber realizado los trámites necesarios, por lo menos ante dos dependencias gubernamentales o instituciones públicas de educación superior o colegios de profesionistas para que se les proporcionara en forma gratuita el perito correspondiente, no obtuvieron respuesta favorable. El perito propuesto deberá pertenecer al Circuito dentro del cual se encuentra el Organo Jurisdiccional, cuyo titular es el funcionario que solicita la autorización, o al más cercano al mismo;
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 34/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE MAYO DE 2004)</small>
+
+a) Los titulares de los Órganos Jurisdiccionales, que dentro de los procedimientos de su competencia, pretendan nombrar como perito a alguno de los señalados en la lista, una vez recabada la cotización de honorarios correspondiente, deberán solicitar la autorización respectiva de la Comisión, acreditando en forma fehaciente que después de haber realizado los trámites necesarios, por lo menos ante dos dependencias gubernamentales o instituciones públicas de educación superior o colegios de profesionistas para que se les proporcionara en forma gratuita el perito correspondiente, no obtuvieron respuesta favorable. El perito propuesto deberá pertenecer al circuito dentro del cual se encuentra el Órgano Jurisdiccional, cuyo titular es el funcionario que solicita la autorización;
 
 b) El perito que se pretenda designar deberá presentar la cotización de sus honorarios ante el Titular del Organo Jurisdiccional solicitante, a fin de que ésta sea remitida a la Dirección General para su análisis, hecho lo cual la enviará a la Comisión conjuntamente con la solicitud de autorización; y,
 
@@ -225,9 +227,19 @@ c) La Comisión acordará lo procedente respecto de la citada autorización, dep
 
 La Comisión podrá denegar la autorización, cuando el Titular del Organo Jurisdiccional no cumpla con alguno de los requisitos señalados en los incisos a) y b) de este artículo o cuando no exista disponibilidad presupuestaria, según informe que al respecto rinda la Secretaría Ejecutiva de Finanzas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO UNICO DEL ACUERDO GENERAL 34/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE MAYO DE 2004)</small>
+
+En el caso de que los titulares de los Órganos Jurisdiccionales necesiten designar un perito, en una especialidad que no se encuentre prevista para el circuito de su adscripción, en la Lista definitiva de personas que pueden fungir como peritos ante los órganos del Poder Judicial de la Federación, podrán designar un profesionista en la materia requerida, siempre y cuando verifiquen y cumplan lo siguiente:
+
+1) El profesionista en la materia requerida, radique en el circuito del Órgano Jurisdiccional de que se trate;
+
+2) El perito reúna los requisitos que se enumeran en el artículo 7o. de este acuerdo; y,
+
+3) Se envíe la cotización de honorarios correspondiente, junto con la solicitud de autorización.
+
 ###### Artículo 21.
 
-DEL NOMBRAMIENTO DE PERITO FUERA DE FORMALIDADES.- Cuando los Titulares de los Organos Jurisdiccionales no puedan nombrar peritos pertenecientes al Circuito de su adscripción, podrán nombrar otro de los que integran la Lista, procurando que sea del circuito más cercano al lugar de su residencia, y cuando no puedan designar alguno de entre los que integran ésta, podrán proponer otro; en ambos supuestos previa autorización de la Comisión.
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 34/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE MAYO DE 2004)
 
 ###### Artículo 22.
 
@@ -253,25 +265,31 @@ CAPITULO DÉCIMOPRIMERO
 
 DEL PROCEDIMIENTO DE PAGO
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 34/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE MAYO DE 2004)</small>
+
 ###### Artículo 26.
 
-REQUISITOS PARA EL PAGO.- Una vez que haya sido presentado y ratificado el dictamen pericial ante el Organo Jurisdiccional o Area Administrativa y previo aviso de esta circunstancia por parte del Titular correspondiente, la Dirección General recabará los siguientes documentos:
+REQUISITOS PARA EL PAGO.- Una vez que haya sido presentado y ratificado el dictamen pericial ante el Órgano Jurisdiccional o Área Administrativa y previo aviso de esta circunstancia por parte del titular respectivo a la Secretaría Ejecutiva de Finanzas, ésta recabará los siguientes documentos:
 
-I.- Carta de aprobación de la Comisión, respecto de la cotización que presentó inicialmente; y,
+I. Carta de aprobación de la Comisión, respecto de la cotización que presentó inicialmente; y,
 
-II.- Recibo de honorarios, que cumpla los requisitos fiscales vigentes.
+II. Recibo de honorarios, que cumpla los requisitos fiscales vigentes.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 34/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE MAYO DE 2004)</small>
 
 ###### Artículo 27.
 
-REVISION DE DOCUMENTOS Y ELABORACION DE CHEQUES DE PAGO.- Recibidos y analizados los documentos precisados en el artículo anterior, la Dirección General los enviará a la Secretaría Ejecutiva de Finanzas para que instruya a la Dirección General de Tesorería a fin de que elabore el cheque respectivo o radique los fondos en la cuenta de la Administración Regional correspondiente.
+REVISIÓN DE DOCUMENTOS Y ELABORACIÓN DE CHEQUES DE PAGO.- Una vez recibida y analizada la documentación que se precisa en el artículo anterior, la Secretaría Ejecutiva de Finanzas instruirá a la Dirección General de Tesorería a fin de que elabore el cheque respectivo o radique los fondos en la cuenta de la administración regional correspondiente.
 
 ###### Artículo 28.
 
 AREAS ENCARGADAS DEL PAGO.- El pago se realizará por la Dirección General de Tesorería, salvo que el perito radique fuera del Distrito Federal, en cuyo caso se efectuará por conducto de la Administración Regional del Consejo que resida en el Circuito Judicial de que se trate.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 34/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE MAYO DE 2004)</small>
+
 ###### Artículo 29.
 
-INFORMES DE LA DIRECCION RESPECTO DE LOS PAGOS REALIZADOS.- La Dirección General, a través de la Secretaría Ejecutiva, deberá rendir informes bimestrales a la Comisión, respecto de los pagos realizados a los peritos designados por los Titulares de Organos Jurisdiccionales y Areas Administrativas.
+INFORMES DE LA SECRETARÍA EJECUTIVA DE FINANZAS RESPECTO DE LOS PAGOS REALIZADOS.- La Secretaría Ejecutiva de Finanzas, a través de la Secretaría Ejecutiva, deberá rendir informes mensuales a la Comisión, respecto de los pagos realizados a los peritos designados por los titulares de Órganos Jurisdiccionales y Áreas Administrativas.
 
 CAPITULO DECIMOSEGUNDO
 
@@ -342,3 +360,11 @@ CUARTO.- Se abroga el Acuerdo General 28/1999.
 QUINTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en dos diarios de circulación nacional.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 37/2001, del Pleno del Consejo de la Judicatura Federal, que Establece el Procedimiento para Formar Anualmente la Lista de Personas que Puedan Fungir como Peritos ante los Organos del Poder Judicial de la Federación, las Formalidades para su Nombramiento, así como sus Derechos y Obligaciones, fue aprobado por el propio Pleno, en sesión de veintisiete de junio de dos mil uno, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a veintisiete de junio de dos mil uno.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 21 DE MAYO DE 2004.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
