@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1999-02-08"
+last_updated: "1999-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 1999.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -181,6 +181,10 @@ La Ley garantizará al Procurador su independencia y autonomía en el desempeño
 
 La Procuraduría de los Derechos Humanos y Protección Ciudadana no ejercerá una función jurisdiccional por lo que carece de facultades para modificar por si misma las resoluciones de la autoridad ni suspender las actuaciones administrativas objeto de queja. Sus resoluciones consistirán en recomendaciones, proposiciones, solicitudes y recordatorios de plazos y deberes legales dirigidas a los servidores públicos.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 1999)</small>
+
+Toda persona tiene derecho a gozar de un medio ambiente adecuado para su desarrollo y bienestar. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de este derecho.
+
 ### CAPITULO V.. DE LOS HABITANTES DEL ESTADO Y DE SUS DERECHOS Y OBLIGACIONES
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
@@ -232,6 +236,10 @@ Los derechos de ciudadanos se pierden y suspenden, respectivamente, en los casos
 La forma de Gobierno del Estado es republicana, representativa y popular.
 
 El Gobierno del Estado se divide, para su ejercicio, en tres poderes: el Legislativo, el Ejecutivo y el Judicial, los cuales actúan separada y libremente, pero cooperando en forma armónica a la realización de los fines del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 1999)</small>
+
+Corresponde al Gobierno del Estado la rectoría del desarrollo estatal, garantizando que éste sea integral y sustentable, asegurando de manera simultánea, el crecimiento económico, la equidad y la sustentabilidad ambiental.
 
 ### CAPITULO I.. DEL PODER LEGISLATIVO
 
@@ -781,7 +789,9 @@ I.- Promulgar, ejecutar y hacer que se cumplan las leyes, decretos y demás disp
 
 II.- Iniciar ante el Congreso leyes y decretos que redunden en beneficio del pueblo;
 
-III.- Velar por la conservación del orden, tranquilidad y seguridad del Estado;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1999)</small>
+
+III.- Velar por la conservación del orden, tranquilidad y seguridad del Estado, así como el garantizar a toda persona residente en el mismo, el real disfrute de un medio ambiente adecuado para su desarrollo, bienestar y mejor calidad de vida.
 
 IV.- Presentar cada año al Congreso, a más tardar el día primero de diciembre, los Proyectos de Ley de Ingresos y Presupuesto de Egresos para el ejercicio fiscal siguiente;
 
@@ -1381,7 +1391,11 @@ d).- Intervenir en la regularización de la tenencia de la tierra urbana;
 
 e).- Otorgar o negar licencias y permisos para construcciones, y
 
-f).- Participar en la creación y administración de zonas de reservas ecológicas.
+f).- Participar en la creación y administración de zonas de reservas ecológicas;
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 1999)</small>
+
+g).- Garantizar la sustentabilidad del desarrollo en su territorio, creando las condiciones para la adecuada prestación de los servicios sociales a su cargo y alentanto (sic) la coordinación y concertación de acciones con los gobiernos federal y estatal, así como la participación social, a fin de elevar la calidad de vida de las personas.
 
 > <small>(REFORMADA, P.O. 4 DE JUNIO DE 1993)</small>
 
@@ -1613,7 +1627,7 @@ El Gobernador del Estado rendirá la protesta de Ley ante el Congreso o la Comis
 
 Igualmente, los Magistrados del Tribunal Superior de Justicia rendirán la protesta de Ley ante el Congreso o la Comisión Permanente, en su caso, en la siguiente forma:
 
-El Presidente del Congreso preguntará: " Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Tribunal Superior de Justicia que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto contínuo, dirá el Presidente del Congreso: "Si así no lo hiciéreis, que la Nación y el Estado os lo demanden".
+El Presidente del Congreso preguntará: " Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Tribunal Superior de Justicia que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto contínuo, dirá el Presidente del Congreso: "Si así no lo hiciereis, que la Nación y el Estado os lo demanden".
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
 
@@ -2208,3 +2222,17 @@ Aprobado que sea este Dictamen por la Honorable Asamblea, envíese a los Ayuntam
 ###### ARTICULO SEGUNDO.
 
 Agotado el trámite y pronunciada la declaratoria señalada por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE SEPTIEMBRE DE 1999.
+
+###### ARTICULO PRIMERO.
+
+Las presentes adiciones entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Córrase el trámite que señala el Artículo 12, de la Constitución Política del Estado a los Municipios para que emitan su opinión, en los términos de Ley.
+
+###### ARTICULO TERCERO.
+
+Envíese al Ejecutivo del Estado para su publicación.
