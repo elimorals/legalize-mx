@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-266
 country: "mx"
 rank: "codigo"
 publication_date: "1980-09-13"
-last_updated: "1980-09-13"
+last_updated: "1984-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE FEBRERO DE 1984.
 
 Código publicado en la Gaceta Oficial de Veracruz-Llave, el sábado 13 de septiembre de 1980.
 
@@ -359,6 +359,10 @@ I.- La restitución de la cosa obtenida por el delito, así como sus frutos exis
 
 II.-La indemnización del daño material y moral causado, así como el perjuicio ocasionado.
 
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+III.- Tratándose de los delitos comprendidos en el título XIV, en los que proceda la reparación del daño, ésta abarcará: la restitución de la cosa o de su valor económico y, además, hasta dos tantos del precio de aquélla o de los bienes obtenidos por el delito.
+
 ###### ARTICULO 43.
 
 La reparación será fijada por los jueces, de acuerdo con las pruebas obtenidas en el proceso, atendiendo tanto al daño causado como a la capacidad económica del obligado a pagarla.
@@ -467,9 +471,11 @@ Tomando en cuenta las circunstancias del delito y las propias del delincuente y 
 
 ### CAPITULO XII. DECOMISO Y APLICACION DE LOS INSTRUMENTOS Y OBJETOS DEL DELITO
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE FEBRERO DE 1984)</small>
+
 ###### ARTICULO 60.
 
-Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Los objetos de uso lícito se decomisarán al reo, a criterio del juez, sólo cuando aquél sancionado por delito doloso, con excepción de las armas que serán decomisadas en todo caso.
+Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Los objetos de uso lícito se decomisarán al reo según el criterio del Juez, sólo cuando aquél fuere sancionado por delito doloso, con excepción de las armas y de los bienes obtenidos por enriquecimiento ilícito que serán decomisados en todo caso. Tratándose de armas se les dará el destino dispuesto por la Ley Federal de Armas de Fuego y Explosivos y su Reglamento, o en los ordenamientos que resulten aplicables.
 
 Si dichos objetos pertenecen a otra persona, no se decomisarán conforme a las prevenciones de este artículo, cuando hayan sido empleados sin conocimiento de su dueño.
 
@@ -1703,6 +1709,8 @@ A quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar 
 
 ### CAPITULO I. EJERCICIO INDEBIDO O ABANDONO DE FUNCIONES PUBLICAS
 
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+
 ###### ARTICULO 249.
 
 Al que utilizando explosivos, substancias tóxicas, armas de fuego o por incendio, inundación, o por cualquier otro medio realice actos en contra de las personas, las cosas o servicios al público, que produzcan alarma, temor, terror en la población o en un grupo o sector de ella, para perturbar la paz pública o tratar de menoscabar la autoridad del Estado o presionar a ésta para que tome una determinación, se le impondrán de tres a treinta años de prisión, multa hasta de cien mil pesos y suspensión de derechos políticos hasta por cinco años.
@@ -1710,6 +1718,8 @@ Al que utilizando explosivos, substancias tóxicas, armas de fuego o por incendi
 Al que teniendo conocimiento de las actividades de un terrorista y de su identidad, no lo haga saber a las autoridades, se le impondrán de uno a nueve años de prisión y multa hasta de veinte mil pesos.
 
 ### CAPITULO II. ABUSO DE AUTORIDAD O INCUMPLIMIENTO DEL DEBER LEGAL
+
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 250.
 
@@ -1723,6 +1733,8 @@ III.-Recursos esenciales que el Estado destine para el mantenimiento del orden p
 
 ### CAPITULO III. COALICION
 
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+
 ###### ARTICULO 251.
 
 Se consideran delitos políticos los de rebelión, sedición y motín así como el de conspiración para cometerlos, y los demás en que se incurra formando parte de grupos y con móviles políticos para alterar la vida institucional del Estado, que no sean contra la vida y la salud personal, terrorismo o secuestro.
@@ -1731,117 +1743,193 @@ Se consideran delitos políticos los de rebelión, sedición y motín así como 
 
 La suspensión de derechos políticos, para efectos de los delitos de este Título, correrá a partir del término de las diversas sanciones.
 
-## TITULO XIV. DELITOS CONTRA LA ADMINISTRACION PUBLICA
+> <small>(REFORMADA SU DENOMINACION, G.O. 9 DE FEBRERO DE 1984)</small>
+
+## TITULO XIV. DELITOS CONTRA LA FUNCION PUBLICA
 
 ### CAPITULO IV. COHECHO
 
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+
 ###### ARTICULO 253.
 
-Se impondrán prisión de seis meses a un año y multa hasta de tres mil pesos, al funcionario o empleado público que incurra en alguna de las hipótesis siguientes:
+Se impondrán prisión de seis meses a cuatro años y multa hasta de treinta mil pesos, al servidor público que incurra en alguna de las hipótesis siguientes:
 
-I.- Que ejerza funciones públicas sin llenar los requisitos legales correspondientes;
+I.-Que ejerza funciones públicas sin llenar los requisitos legales que correspondientes;
 
 II.-Que continúe ejerciendo funciones públicas, después de que han cesado los efectos del acto jurídico del que deriva su función;
 
 III.-Que ejerza funciones públicas distintas de aquellas para las que fue designado; y
 
-IV.-Que sin habérsele admitido la renuncia de una comisión, empleo o cargo, o antes de que se presente la persona que haya de reemplazarlo, lo abandone sin causa justificada y con perjuicio del servicio.
+IV.-Que sin habérsele admitido la renuncia de una comisión, empleo o cargo, o antes de que se presente la persona que haya de reemplazarlo, lo abandone sin causa justificada y con perjuicio del servicio, si el abandono ocurre dentro de los treinta días posteriores a la presentación de la renuncia.
 
 ### CAPITULO V. PECULADO
 
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+
 ###### ARTICULO 254.
 
-A los funcionarios o empleados de la administración pública, que ordenaren o cometieren cualquier acto ilegal o dejaren de cumplir los deberes de su función, en perjuicio de los derechos de alguien o en beneficio propio o ajeno, se les impondrán de seis meses a seis años de prisión y multa hasta de cinco mil pesos.
+Se impondrán de seis meses a seis años de prisión y multa hasta de cincuenta mil pesos, a los servidores públicos que ordenaren o cometieren cualquier acto ilegal o dejaren de cumplir los deberes de su función o en perjuicio de los derechos de alguien o en beneficio propio o ajeno.
+
+Se impondrán prisión de uno a ocho años y multa hasta de cien mil pesos, al servidor público que:
+
+I.-Teniendo conocimiento por razón de su empleo, cargo o comisión de que existe interés en lesionar el patrimonio de los poderes Legislativo, Ejecutivo o Judicial, de alguna Dependencia o Entidad de la Administración Pública, Estatal o Municipal, organismos descentralizados o desconcentrados, empresas de participación estatal o municipal mayoritaria, organizaciones y sociedades asimiladas a éstas o fideicomisos públicos, por cualquier acto u omisión, no informe por escrito a su superior jerárquico o lo evite si está dentro de sus atribuciones, facultades o funciones;
+
+II.-Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice o inutilice ilícitamente información o documentación que se halle bajo su custodia a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión;
+
+III.-Indebidamente otorgue concesiones de prestación del servicio público o de explotación, aprovechamiento y uso de bienes del dominio del Estado o de los municipios;
+
+IV.-Indebidamente otorgue permisos, licencias o autorizaciones de contenido económico, franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social; en general sobre ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados en la administración pública estatal o municipal;
+
+V.-Indebidamente otorgue, realice o contrate obras públicas, deudas, adquisiciones, arrendamientos, enajenaciones de bienes o servicios o efectúe en su provecho, inversiones de fondos y valores con recursos económicos públicos;
+
+VI.-Teniendo a su cargo fondos públicos les dé, a sabiendas, una aplicación pública distinta de aquella a que estuvieren destinados o hiciere una erogación ilegal; y
+
+VII.-Valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones y que no sea del conocimiento público; haga por sí o por interpósita persona, inversiones, enajenaciones o adquisiciones o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o algún tercero.
 
 ### CAPITULO VI. EXACCION ILEGAL
 
+> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
+
 ###### ARTICULO 255.
 
-A los funcionarios o empleados de la administración pública que se coliguen para tomar medidas contrarias a una ley, reglamento o disposición de carácter general para impedir su ejecución, o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas, se les impondrán prisión de seis meses a tres años y multa hasta de cinco mil pesos.
+Se impondrán prisión de seis meses a seis años y multa hasta de cincuenta mil pesos, a los servidores públicos que se coaliguen para tomar medidas contrarias a una Ley, Reglamento o disposición de carácter general para impedir su ejecución, o para hacer dimisión de sus puestos con el fin de impedir o suspender la función pública, en cualquiera de sus niveles de gobierno.
 
-### CAPITULO VII. USURPACION DE FUNCIONES
+### CAPITULO VII. INTIMIDACION
+
+> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 256.
 
-Se impondrán prisión de seis meses a cinco años y multa hasta de cinco mil pesos:
+Se impondrán prisión de seis meses a diez años y multa hasta de cien mil pesos.
 
-I.-A los funcionarios o empleados de la administración pública, que soliciten o reciban indebidamente dádivas, o acepten una promesa para realizar una conducta lícita o ilícita relacionada con sus funciones; o
+I.-A los servidores públicos que soliciten o reciban indebidamente dinero o dádivas para sí o para otro, o acepten una promesa para realizar una conducta lícita o ilícita relacionada con sus funciones; y
 
-II.-Al que dé u ofrezca dádivas a las personas a que se refiere la fracción anterior, para lograr los mismos fines.
+II.-Al que dé u ofrezca dinero o dádivas a las personas a que se refiere la fracción anterior, para lograr los mismos fines.
 
-### CAPITULO VIII. VARIACION DE NOMBRE O DOMICILIO
+El dinero o dádivas entregadas, en su caso, se aplicarán en beneficio de la Asistencia Pública del Estado.
+
+### CAPITULO VIII. TRAFICO DE INFLUENCIA
+
+> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 257.
 
-A los funcionarios o empleados de la administración pública, que en provecho propio o ajeno, dispongan de dinero, valores o cualquier otro bien que hubiesen recibido en razón de cargo, se les impondrán prisión de uno a diez años, multa hasta de cien mil pesos e inhabilitación para desempeñar otro cargo hasta por tres años.
+Se impondrán prisión de seis meses a diez años y multa de cien mil pesos, a los servidores públicos que en provecho propio o ajeno, dispongan de dinero, valores o cualquier otro bien que hubiesen recibido en razón de su cargo.
 
-### CAPITULO IX. DESOBEDIENCIA DE PARTICULARES
+Se impondrán prisión de seis meses a ocho años y multa hasta de cincuenta mil pesos, a :
+
+I.-El servidor público que a título personal e indebidamente utilice fondos públicos, con el objeto de promover la imagen política o social de su persona, la de su superior jerárquico o la de un tercero o a fin de denigrar a cualquier persona; y
+
+II.-Cualquier persona que sin tener el carácter del servidor público y estando obligado legalmente a la custodia, administración o aplicación de recursos públicos estatales o municipales, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
+
+### CAPITULO IX. ENRIQUECIMIENTO ILICITO
+
+> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 258.
 
-La sanción de prisión será de seis meses a tres años, si el inculpado devuelve los bienes sustraídos, dentro de los diez días siguientes a aquel en el que por primera vez comparezca ante el juez del conocimiento.
+Se aplicarán de seis meses a ocho años de prisión y multa del doble de la cantidad que hubiera recibido indebidamente, al servidor público que con el carácter de tal exija por sí o por medio de otro, dinero, valores o cualquier otra cosa o en mayor cantidad que la señalada por la Ley.
 
-Lo dispuesto en el párrafo anterior, se entiende sin perjuicio de la inhabilitación y de la multa.
+No se sancionarán a los servidores públicos municipales que, otorgando el comprobante correspondiente, reciban de los causantes, cooperaciones, donativos o liberalidades para el municipio.
 
-### CAPITULO X. RESISTENCIA DE PARTICULARES
+> <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 1984)</small>
+
+### CAPITULO X. USURPACION DE FUNCIONES
+
+> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 259.
 
-Al funcionario o empleado de la administración pública, que con el carácter de tal exija por sí o por medio de otro, dinero, valores, servicios o cualquier otra cosa que sepa es indebida o en mayor cantidad que la señalada por la ley, se le aplicarán de seis meses a dos años de prisión, multa del doble de la cantidad que hubiera recibido indebidamente e inhabilitación para desempeñar otro cargo hasta por dos años.
+Se impondrán de seis meses a ocho años de prisión y multa hasta de cincuenta mil pesos, al servidor público:
 
-### CAPITULO XI. QUEBRANTO DE SELLOS
+I.-Que por sí o por interpósita persona, utilizando la violencia física o moral, inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de un delito; y
+
+II.-Que con motivo de la querella, denuncia o información a que hace referencia la fracción anterior realice una conducta ilícita u omita una lícita que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, afectivo o de negocio.
+
+> <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 1984)</small>
+
+### CAPITULO XI. VARIACION DE NOMBRE O DOMICILIO
+
+> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 260.
 
-Al que indebidamente se atribuyere y ejerciere funciones públicas, se impondrán de seis meses a dos años de prisión y multa hasta de cinco mil pesos.
+Se impondrán de seis meses a cuatro años de prisión y multa hasta de treinta mil pesos, al servidor publico que por sí o por interpósita persona:
 
-### CAPITULO XII. ULTRAJES A LA AUTORIDAD
+I.-Aprovechando de su empleo, cargo o comisión promueva o gestione la tramitación o resolución ilícita de negocios públicos;
+
+II.-Sin estar autorizado para ello y aprovechando el empleo, cargo o comisión que desempeñe, promueva ante la dependencia donde presta sus servicios o ante cualquier otra autoridad, para obtener una resolución favorable a sus intereses o a los de un tercero.
+
+> <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 1984)</small>
+
+### CAPITULO XII. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
+
+> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 261.
 
-Al que ante la autoridad oculte su nombre o apellido o se atribuya otro que no le corresponde, se le impondrán de seis meses a un año de prisión y multa hasta de dos mil pesos.
+Se sancionarán con prisión de seis meses a diez años y multa hasta de cien mil pesos, a quien con motivo de su empleo, cargo o comisión, en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar que es legítimo el desproporcionado aumento de su patrimonio o de aquellos bienes de los cuales se conduzca como dueño, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-### CAPITULO I. FALSEDAD ANTE LA AUTORIDAD
+Se aplicará la misma sanción a quien haga figurar como suyos bienes que el servidor público adquiera o haya adquirido en contravención de lo dispuesto en la misma Ley.
+
+### CAPITULO XIII. QUEBRANTAMIENTO DE SELLOS
+
+> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 262.
 
-Al que ante la autoridad, designe un domicilio distinto al verdadero, niegue u oculte éste, se le impondrán de seis meses a un año de prisión y multa hasta de dos mil pesos.
+Se impondrán de seis meses a seis años y multa hasta de cincuenta mil pesos, a quien indebidamente se atribuyere y ejerciere funciones públicas.
 
-### CAPITULO II. FRAUDE PROCESAL
+### CAPITULO XIV. ULTRAJES A LA AUTORIDAD
+
+> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 263.
 
-Al funcionario o empleado público que, en actos propios de su cargo, oculte o atribuya a una persona título o nombre, a sabiendas de que no le pertenece, se le impondrán las mismas sanciones previstas en el artículo 261.
+Se impondrán de seis meses a un año de prisión y multa hasta de cinco mil pesos, a quien oculte su nombre o apellidos, o señale domicilio falso o inexistente, con la finalidad de incumplir obligaciones.
 
-### CAPITULO III. FALSAS DENUNCIAS Y SIMULACION DE PRUEBAS
+> <small>(REFORMADA SU DENOMINACION, G.O. 9 DE FEBRERO DE 1984)</small>
+
+### CAPITULO XV. DISPOSICIONES COMUNES PARA LOS DELITOS
+
+DE ESTE TITULO
+
+> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 264.
 
-Al que rehusare prestar un servicio de interés público a que la ley lo obligue o desobedeciere un mandato legítimo de la autoridad, se le impondrán de seis meses a un año de prisión y multa hasta de mil pesos. Cuando la ley autorice el empleo de los medios de apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumará el delito, después de haberse agotado aquéllos.
+Se impondrán de seis meses a un año de prisión y multa hasta de cinco mil pesos, al que rehusare prestar un servicio de interés público a que la Ley lo obligue o desobedeciere un mandato legítimo de autoridad. Cuando la Ley autorice el empleo de los medios de apremio para hacer efectivas las determinaciones de autoridad, sólo se consumará el delito, después de haberse agotado aquéllos.
 
-### CAPITULO IV. EVASION DE PRESOS
+Se aplicarán de seis meses a dos años de prisión y multa hasta de diez mil pesos, al que impida que la autoridad ejerza sus funciones o resista el cumplimiento de una orden legítima, cuya ejecución se lleve a cabo en forma legal. De emplearse violencia física o moral, la sanción se agravará hasta de un año.
+
+### CAPITULO I. FALSEDAD ANTE LA AUTORIDAD
 
 ###### ARTICULO 265.
 
-Al que impida a que la autoridad ejerza sus funciones o resista el cumplimiento de una orden legítima, cuya ejecución se lleve a cabo en forma legal, se le aplicarán de seis meses a dos años de prisión y multa hasta de tres mil pesos. De emplearse violencia física o moral, la sanción se agravará hasta de un año.
+Se aplicarán de seis meses a dos años de prisión y multa hasta de dos mil pesos, al que quebrante los sellos puestos por orden de la autoridad competente.
 
-### CAPITULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
+### CAPITULO II. FRAUDE PROCESAL
 
 ###### ARTICULO 266.
 
-Al que quebrante los sellos puestos por orden de la autoridad, se le aplicarán de seis meses a dos años de prisión y multa hasta de dos mil pesos.
+Se impondrán de seis meses a dos años de prisión y multa hasta de cinco mil pesos, al que agreda, injurie o amenace, a un servidor público en el acto de ejercer sus funciones o con motivo de ellas.
 
-### CAPITULO VI
+> <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-QUEBRANTO DE LA SANCION DE PRIVACION, SUSPENSION O INHABILITACION DE DERECHOS.
+### CAPITULO III. FALSAS DENUNCIAS Y SIMULACION DE PRUEBAS
 
 ###### ARTICULO 267.
 
-Al que ultraje a un funcionario o empleado público en el acto de ejercer sus funciones o con motivo de ellas, se les impondrán de seis meses a dos años de prisión y multa hasta de dos mil pesos.
+Para los efectos de este título, es servidor público toda persona que desempeñe un empleo, cargo o comisión de cualquiera naturaleza en la Administración Pública Estatal o Municipal, organismos descentralizados o desconcentrados, empresas de participación estatal o municipal mayoritaria, organizaciones y sociedades asimiladas a éstos o fideicomisos públicos.
+
+Los servidores públicos que cometan los ilícitos previstos en el presente título, además de las sanciones señaladas en cada delito, serán inhabilitados para desempeñar otro empleo, cargo o comisión, hasta por un tiempo igual al de la sanción privativa o restrictiva de libertad, a criterio del Juez y según la gravedad del caso, se les podrá imponer la privación de estos derechos o funciones.
+
+Se impondrán las mismas sanciones previstas para el delito de que se trate o cualquier persona que se beneficie a sabiendas o participe en la penetración de alguno de los delitos previstos en este título.
 
 ## TITULO XV. DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+### CAPITULO IV. EVASION DE PRESOS
 
 ###### ARTICULO 268.
 
@@ -1859,9 +1947,15 @@ Al que se retracte espontáneamente de sus falsas declaraciones rendidas ante la
 
 Las sanciones serán de dos a diez años de prisión y multa hasta de quince mil pesos para el testigo falso, cuando al imputado se le imponga sanción privativa de libertad no siendo responsable del delito por el que se le juzgó y, en el testimonio falso, se hubiese fundado principalmente la sentencia.
 
+### CAPITULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
+
 ###### ARTICULO 272.
 
 Al que simule actos jurídicos o altere elementos de prueba para obtener una resolución judicial de la que derive el perjuicio de alguien o un beneficio indebido, se le impondrán de seis meses a cinco años de prisión y multa hasta de cinco mil pesos.
+
+### CAPITULO VI
+
+QUEBRANTO DE LA SANCION DE PRIVACION, SUSPENSION O INHABILITACION DE DERECHOS.
 
 ###### ARTICULO 273.
 
@@ -1874,6 +1968,8 @@ No se procederá contra el delincuente sino después de que haya pronunciado sen
 ###### ARTICULO 275.
 
 Las disposiciones relativas al delito de calumnia son aplicables, en lo conducente, a la falsa denuncia o querella calumniosa que reglamenta este capítulo.
+
+### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
 
 ###### ARTICULO 276.
 
@@ -1940,3 +2036,15 @@ DADO en el Salón de Sesiones de la H. Legislatura, en la ciudad de Xalapa-Enrí
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Xalapa, Ver., a 11 de septiembre de 1980.-RAFAEL HERNANDEZ OCHOA.-Rúbrica.-El Secretario de Gobierno, Lic. EMILIO GOMEZ VIVES.-Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.O. 9 DE FEBRERO DE 1984.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor el día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la misma.
