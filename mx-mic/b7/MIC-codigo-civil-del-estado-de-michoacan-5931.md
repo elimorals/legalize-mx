@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1964-04-02"
+last_updated: "1964-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1964.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1964.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el jueves 30 de julio de 1936.
 
@@ -315,9 +315,9 @@ La Secretaría de Gobierno por medio de los Agentes del Ministerio Público, cui
 
 El padre dentro de los quince días, y la madre dentro de los cuarenta días siguientes al nacimiento de un hijo, tienen obligación de presentarlo al Juez del Registro Civil de su domicilio, ya sea llevándolo a la Oficina o pasando dicho funcionario a la casa donde se encuentre el infante.
 
-> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 1953)</small>
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
 
-Cuando los padres hubieren fallecido, si se tratare de hijos nacidos de matrimonio, cualquiera de los ascendientes de ambas líneas, podrán presentar al descendiente, a condición de exhibir ante el Juzgado del Registro Civil el acta de matrimonio de los padres de quien se pretende el registro; a falta de ascendientes, el registro se hará por resolución de Juez competente a solicitud del propio interesado con la presentación del acta de matrimonio de sus padres e información testimonial, sobre su posesión de estado de hijo legítimo, en los términos que fije el Código de Procedimientos Civiles. Con relación a los hijos nacidos fuera de matrimonio, el registro solamente se hará por sentencia ejecutoria dictada en juicio sobre investigación de la maternidad o paternidad.
+Cuando los padres hubieren fallecido, si se tratare de hijos nacidos de matrimonio, cualquiera de los ascendientes de ambas líneas, podrán presentar al descendiente, a condición de exhibir ante el Juzgado del Registro Civil el acta de matrimonio de los padres de quien se pretende el registro, a falta de ascendientes, el registro se hará con autorización judicial a solicitud del propio interesado, quien deberá presentar el acta de matrimonio de sus padres e información testimonial para acreditar que su nacimiento ocurrió dentro de los plazos a que se refiere el artículo 282. Con relación a los hijos nacidos fuera de matrimonio, el registro se hará en la forma que previene el artículo 64, o por sentencia ejecutoria dictada en juicio sobre investigación de la maternidad o paternidad.
 
 ###### Artículo 60.
 
@@ -341,9 +341,11 @@ En el acta de nacimiento, que se extenderá con asistencia de dos testigos, pref
 
 Cuando el niño se presente como hijo de padres desconocidos, se hará constar esta circunstancia y el juez le pondrá nombre y apellido.
 
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+
 ###### Artículo 65.
 
-Cuando el infante se presente como hijo de matrimonio se asentarán los nombres, domicilio y nacionalidad de los padres y abuelos y los de la persona que haga la presentación.
+Cuando el infante se presente como hijo de matrimonio se asentarán los nombres, domicilios y nacionalidad de los padres y abuelos, y en su caso, los de la persona que haga la presentación.
 
 ###### Artículo 66.
 
@@ -475,17 +477,21 @@ Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, obse
 
 Cuando la emancipación sea efecto del matrimonio, el Juez del Estado Civil anotará las actas del nacimiento de los cónyuges expresándose que estos quedan emancipados en virtud del matrimonio, citando la fecha de éste, el número del acta y la foja del libro respectivo donde esté extendida; sin que en tal caso se necesite acta separada de emancipación.
 
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+
 ###### Artículo 92.
 
-Cuando se trate de emancipación por decreto judicial o de habilitación de edad, se levantarán las actas respectivas, insertando a la letra la resolución judicial que corresponda.
+Cuando se trate de la emancipación por decreto judicial, se levantará el acta respectiva, insertando a la letra la resolución judicial que corresponda.
 
-El acta de nacimiento del emancipado, o de aquél a quien se habilitó de edad, será anotada al margen.
+El acta de nacimiento del emancipado será anotada al margen.
 
-Si en la oficina donde se levante el acta de emancipación o de habilitación de edad, no existiere la de nacimiento respectiva, la oficina que haya levantado cualquiera de las primeras, dará el aviso correspondiente para que se haga dicha anotación.
+Si en la oficina donde se levante el acta de emancipación, no existiere la de nacimiento respectiva, la oficina que haya levantado la primera, dará el aviso correspondiente para que se haga dicha anotación.
+
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
 
 ###### Artículo 93.
 
-La emancipación y la habilitación de edad producen sus efectos aún cuando se omita registrarlas, pero el responsable de la omisión será castigado con la pena del artículo 81.
+La emancipación produce sus efectos aun cuando se omita registrarla, pero el responsable de la omisión será castigado con la pena del artículo 81.
 
 ### CAPITULO VII. De las actas de matrimonio
 
@@ -897,11 +903,11 @@ En caso de que la mujer insista en usar de los derechos que le concede el artíc
 
 El marido y la mujer mayores de edad tienen capacidad para administrar y disponer de sus bienes, contratar y ejercitar acciones y oponer excepciones, sin que para ello necesite el marido del consentimiento de la mujer, ni ésta de la autorización de aquél.
 
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+
 ###### Artículo 169.
 
-El marido y la mujer de 18 años cumplidos adquieren la mayor edad por el hecho de su matrimonio.
-
-Si fueren menores de 18 años tendrán la administración de sus bienes y podrán comparecer en juicio como actores o reos. Pero necesitarán licencia judicial para enajenar, hipotecar o gravar sus bienes raíces, y tutor especial para comparecer en juicio.
+Los cónyuges mayores de 18 años y menores de 21, tendrán la administración de sus bienes y podrán comparecer en juicio como actores o reos; pero necesitarán licencia judicial para enajenar, hipotecar o gravar sus bienes raíces; y tutor especial para comparecer en juicio.
 
 ###### Artículo 170.
 
@@ -2799,6 +2805,8 @@ El tutor no tendrá derecho a retribución alguna y restituirá lo que por ese t
 
 ### CAPITULO I. De la emancipación
 
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+
 ###### Artículo 525.
 
 En el mes de enero de cada año, sea cual fuere la fecha en que se le hubiere discernido el cargo, el tutor tiene obligación de rendir al juez cuenta detallada de su administración. Si no presenta esa cuenta dentro de los tres primeros meses del año, se le removerá de su cargo.
@@ -2865,6 +2873,8 @@ Hasta pasado un mes de la rendición de cuentas es nulo todo convenio entre el t
 
 ### CAPITULO II. De la habilitación de edad
 
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+
 ###### Artículo 541.
 
 La tutela se extingue:
@@ -2874,6 +2884,8 @@ I. Por la muerte del pupilo o porque desaparezca su incapacidad;
 II. Cuando el incapacitado, sujeto a tutela, entre a la patria potestad por reconocimiento o por adopción.
 
 ### CAPITULO III. De la mayor edad
+
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
 
 ###### Artículo 542.
 
@@ -3015,11 +3027,13 @@ Tampoco pueden alegar los menores si han presentado certificados falsos del Regi
 
 ###### Artículo 571.
 
-El matrimonio del menor de dieciocho años produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor de dieciocho años, no recaerá en la patria potestad.
+El matrimonio del menor que haya cumplido dieciocho años produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
+
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
 
 ###### Artículo 572.
 
-Los mayores de dieciséis años que estén sujetos a la patria potestad o a tutela, tienen derecho a que se les emancipe, si demuestran su buena conducta y su aptitud para el manejo de sus intereses.
+Los mayores de dieciocho años que estén sujetos a la patria potestad o tutela, tiene derecho a que se les emancipe, si demuestran su buena conducta y su aptitud para el manejo de sus intereses.
 
 Los padres o tutores pueden emancipar a sus hijos y pupilos que se encuentren en las condiciones mencionadas en el párrafo anterior, siempre que éstos consientan en su emancipación.
 
@@ -3045,17 +3059,17 @@ Fuera del caso a que se refiere el artículo 571 la emancipación siempre será 
 
 ###### Artículo 576.
 
-El que haya cumplido dieciocho años, pero no veintiuno podrá ser habilitado de edad por declaración judicial, para administrar sus bienes, para disponer libremente de ellos y para comparecer en juicio. Dicha habilitación se concederá por el juez mediante el procedimiento fijado por el Código de Procedimientos Civiles y la sentencia que se dicte se remitirá al Juez del Estado Civil para que levante el acta respectiva.
+Los menores no emancipados podrán ser habilitados de edad para comparecer en juicio. Dicha habilitación se concederá por el juez conforme a las disposiciones del Código de Procedimientos Civiles.
 
 ### CAPITULO V. De la presunción de muerte del ausente
 
 ###### Artículo 577.
 
-La mayor edad comienza a los dieciocho años cumplidos respecto de las personas casadas, y respecto de las que no lo son, a los veintiún años cumplidos.
+La mayor edad comienza a los veintiún años cumplidos.
 
 ###### Artículo 578.
 
-El que a virtud de matrimonio hubiere adquirido la mayor edad, aun cuando deje de ser casado, seguirá siendo mayor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
 
 ###### Artículo 579.
 
@@ -3859,9 +3873,11 @@ Es mejor la posesión que se funda en título y cuando se trata de inmuebles la 
 
 Si las posesiones fueren dudosas, se pondrá en depósito la cosa hasta que se resuelva a quien pertenece la posesión.
 
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+
 ###### Artículo 736.
 
-Para que un poseedor tenga derecho al ante juicio de recuperar la posesión, se necesita que no haya pasado un año desde que se verificó el despojo.
+Para que un poseedor tenga derecho al juicio de recuperar la posesión, se necesita que no haya pasado un año desde que se verificó el despojo.
 
 ###### Artículo 737.
 
@@ -6029,9 +6045,11 @@ Por falta de reciprocidad internacional, son incapaces de heredar por testamento
 
 La herencia o legado que se deje a un establecimiento público, imponiéndole algún gravamen o bajo alguna condición, sólo serán válidos si el Gobierno del Estado los aprueba.
 
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+
 ###### Artículo 1193.
 
-Las disposiciones testamentarias hechas en favor de los pobres en general o del alma, se entenderán hechas a favor de la beneficencia pública del Estado. Las que se hagan en favor de las iglesias, sectas o instituciones religiosas se sujetarán a lo dispuesto en el artículo 27 de la Constitución Federal y por las leyes federales de la materia.
+Las disposiciones testamentarias hechas en favor de los pobres en general o del alma, se regirán por lo dispuesto en la Ley de Beneficencia Privada. Las hechas en favor de las iglesias, sectas o instituciones religiosas, se sujetarán a lo dispuesto en el artículo 27 de la Constitución Federal y la ya citada Ley de Beneficencia.
 
 ###### Artículo 1194.
 
@@ -7403,6 +7421,8 @@ Al aplicar las disposiciones anteriores, se tendrá en cuenta lo que ordena el c
 
 ### CAPITULO IV. De los albaceas
 
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+
 ###### Artículo 1492.
 
 La mujer con quien el autor de la herencia vivió como si fuera su marido durante los cinco años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas siguientes:
@@ -7621,11 +7641,13 @@ La aceptación en ningún caso produce confusión de los bienes del autor de la 
 
 ###### Artículo 1536.
 
-No podrá ser albacea el que no tenga la libre disposición de sus bienes.
+Los albaceas son los órganos representativos de la copropiedad hereditaria para actuar en nombre y por cuenta de los herederos o legatarios en todo lo relativo a la defensa y administración de los bienes hereditarios. Así mismo, tienen como función ejecutar las disposiciones testamentarias y representar a la sucesión en juicio y fuera de él.
+
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
 
 ###### Artículo 1537.
 
-La mujer casada mayor de edad, podrá serlo sin autorización de su esposo.
+No podrá ser albacea el que no tenga la libre disposición de sus bienes, o aquel que sufra cualquiera restricción en su capacidad de goce o de ejercicio, que lo inhabilite total o parcialmente para desempeñar el cargo. La mujer casada, mayor de edad, podrá ser albacea sin la autorización de su esposo.
 
 ###### Artículo 1538.
 
@@ -7835,17 +7857,25 @@ Si para el pago de una deuda u otro gasto urgente, fuere necesario vender alguno
 
 Lo dispuesto en los artículos 505 y 506 respecto de los tutores, se observará también respecto de los albaceas.
 
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+
 ###### Artículo 1577.
 
-El albacea no puede gravar ni hipotecar los bienes sin consentimiento de los herederos o de los legatarios en su caso.
+El albacea no puede enajenar, gravar o hipotecar los bienes de la sucesión, transigir o comprometer en árbitros los negocios de la herencia, ni obligar a la sucesión mediante contratos, documentos o títulos de crédito, sin consentimiento de los herederos o legatarios en su caso, que representen mayoría de intereses, más aprobación judicial. Faltando el consentimiento o la aprobación judicial, la enajenación, gravamen, transacción o compromiso en árbitros serán inexistentes. Asi mismo lo serán las obligaciones, contratos, documentos o títulos de crédito que otorgue por la sucesión.
+
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
 
 ###### Artículo 1578.
 
-El albacea no puede transigir ni comprometer en árbitros los negocios de la herencia, sino con consentimiento de los herederos.
+El albacea sólo puede dar en arrendamiento hasta por un año los bienes de la herencia. Para arrendar por mayor tiempo necesita del consentimiento de la mayoría de los herederos o de los legatarios en su caso. La falta de consentimiento de la mayoría de herederos o legatarios, originará la nulidad del contrato.
+
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (F. DE E., P.O. 28 DE DICIEMBRE DE 1964)
 
 ###### Artículo 1579.
 
-El albacea sólo puede dar en arrendamiento hasta por un año los bienes de la herencia. Para arrendarlos por mayor tiempo, necesita del consentimiento de los herederos o de los legatarios en su caso.
+En toda sucesión testamentaria o legítima la posesión de los bienes corresponde a los herederos o legatarios en su caso, salvo disposición especial de la ley; pero quedará en poder del albacea la porción de bienes estrictamente necesaria para pagar las cargas y deudas hereditarias, más otras responsabilidades que hubieren sido a cargo del autor. Dicha porción se fijará por la mayoría de los herederos o de los legatarios, más aprobación judicial.
+
+Una vez dictada resolución declarando herederos de un intestado o que es legítimo un testamento, y previa autorización de la mayoría de los herederos o legatarios y del juez, el albacea debe entregar al heredero o legatario que tenga derecho y que así lo solicite, los bienes de la masa que no sean evidentemente necesarios para el cumplimiento de sus funciones. La entrega pone fin a su derecho de administración respecto a esos bienes. En este caso los herederos o legatarios no podrán disponer de los bienes que reciban, antes de que sean cubiertos los créditos o legados. La enajenación que llevaren a cabo en contravención de este artículo, estará afectada de nulidad absoluta.
 
 ###### Artículo 1580.
 
@@ -7863,9 +7893,11 @@ Son nulas de pleno derecho las disposiciones por los que el testador dispensa al
 
 La cuenta de administración debe ser aprobada por todos los herederos; el que disienta, puede seguir a su costa el juicio respectivo, en los términos que establezca el Código de Procedimientos Civiles.
 
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+
 ###### Artículo 1584.
 
-Cuando fuere heredera la Beneficencia Pública, o los herederos fueren menores, intervendrá el Ministerio Público en la aprobación de las cuentas.
+Cuando fuere heredero el Fisco del Estado, o los herederos fueren menores, intervendrá el Ministerio Público en la aprobación de las cuentas.
 
 ###### Artículo 1585.
 
@@ -7977,9 +8009,11 @@ Cuando el albacea haya recibido del testador algún encargo especial, además de
 
 Si la revocación se hace sin causa justificada, el albacea removido tiene derecho de percibir lo que el testador le haya dejado por el desempeño del cargo o el tanto por ciento que le corresponda conforme al artículo 1599 teniéndose en cuenta lo dispuesto en el artículo 1601.
 
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+
 ###### Artículo 1607.
 
-La remoción no tendrá lugar sino por sentencia pronunciada en el incidente respectivo, promovido por parte legítima.
+La remoción tendrá lugar en los términos que disponga el Código de Procedimientos Civiles.
 
 ### CAPITULO II. De la declaración unilateral de la voluntad
 
@@ -10027,19 +10061,23 @@ Es simulado el acto en que las partes declaran o confiesan falsamente lo que en 
 
 La simulación es absoluta cuando el acto simulado nada tiene de real; es relativa cuando a un acto jurídico se le da una falsa apariencia que oculta su verdadero carácter.
 
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+
 ###### Artículo 2038.
 
-La simulación absoluta no produce efectos jurídicos. Descubierto el acto real que oculta la simulación relativa, ese acto no será nulo si no hay ley que así lo declare.
+La simulación absoluta origina la inexistencia del acto, y, en consecuencia, lo priva totalmente de efectos jurídicos. De ella puede prevalerse todo interesado, no desaparece por la prescripción, ni por la confirmación del acto. Cuando éste perjudique a la Hacienda Pública, el Ministerio Público podrá también invocar la inexistencia.
+
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
 
 ###### Artículo 2039.
 
-Pueden pedir la nulidad de los actos simulados, los terceros perjudicados con la simulación, o el Ministerio Público cuando ésta se cometió en transgresión de la ley o en perjuicio de la Hacienda Pública.
+La simulación relativa, una vez descubierto el acto real que oculta, origina la nulidad del acto aparente o falso. En cuanto al acto real o verdadero, éste producirá todos sus efectos, a no ser que esté afectado de nulidad por alguna causa, o que deba rescindirse o anularse en los casos de fraude o perjuicio de acreedores.
+
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
 
 ###### Artículo 2040.
 
-Luego que se anule un acto simulado, se restituirá la cosa o derecho a quien pertenezca, con sus frutos o intereses, si los hubiere; pero si la cosa o derecho ha pasado a título oneroso a un tercero de buena fe, no habrá lugar a la restitución.
-
-También subsistirán los gravámenes impuestos a favor de un tercero de buena fe.
+Descubierta la simulación absoluta, se restituirá la cosa o drecho (sic) a quien pertenezca, con sus frutos e intereses, si los hubiere; pero si la cosa o derecho han pasado a título oneroso a un tercero de buena fe, no habrá lugar a la restitución. También subsistirán los gravámenes impuestos a favor de un tercero de buena fe.
 
 ## TITULO SEXTO. De la inexistencia y de la nulidad
 
@@ -10503,45 +10541,7 @@ III. A prestar la evicción.
 
 ### CAPITULO X. De la Compraventa de Recursos Forestales
 
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1956)</small>
-
-###### Artículo 2178 Bis.
-
-La compraventa de recursos Forestales es un contrato por el cual el propietario de un predio, sin trasmitir el dominio del mismo y a cambio de un precio cierto y en dinero, cede o transfiere el derecho a explotar o aprovechar recursos forestales que en el predio existan.
-
-El contrato que en este artículo se establece y reglamenta es la única forma jurídica válida para trasmitir parcial o totalmente el derecho a explotar o aprovechar recursos forestales. Deberá hacerse necesariamente por escrito, ratificarse ante Notario Público y sujetarse a las disposiciones contenidas en este artículo, las cuales, por ser de orden público, no pueden ser objeto de renuncia u omisión por los contratantes.
-
-I.- El comprador deberá llenar los requisitos que conforme al artículo 27 Constitucional y las disposiciones legales y administrativas de él derivadas sean necesarios para poseer o administrar fincas rústicas.
-
-II.- Deberá indicarse, con presición, el objeto o la materia del contrato, especificando claramente los recursos forestales que el comprador tendrá derecho a aprovechar así como el lugar, tiempo y forma de medir o cuantificar justamente las cantidades o volúmenes de productos que extraiga, aplicando siempre el sistema métrico decimal. Deberán también fijarse, aunque sea estimativamente, las cantidades de productos que los contratantes calculen podrán aprovecharse, pero, en todo caso, el contrato se concretará solamente a las cantidades cuya explotación permita la autoridad forestal competente.
-
-III.- El vendedor tiene derecho a vigilar en todo tiempo los trabajos de explotación que el comprador efectúe, con vistas, por una parte, a que se realicen con apego a los ordenamientos forestales y, por otra, a determinar el monto real de los aprovechamientos obtenidos en el predio, hacer las liquidaciones y exigir los pagos que justamente le correspondan.
-
-IV.- El comprador está obligado a realizar los aprovechamientos con sujeción estricta a las normas técnicas y legales que rijan en materia forestal.
-
-V.- El comprador tendrá derecho a proyectar, trazar y construir las brechas, vías de saca y caminos necesarios para la explotación, de conformidad con los permisos y autorizaciones que de acuerdo con las leyes aplicables se le otorguen.
-
-VI.- El comprador deberá obtener el permiso de explotación de las Autoridades competentes dentro del plazo de un año contado a partir de la fecha de celebración del contrato. Si al vencerse dicho plazo no obtiene el permiso de explotación o si antes del vencimiento las autoridades competentes niegan el repetido permiso, operará la condición resolutoria volviendo las cosas al estado que tenían antes, como si no hubiese existido el contrato. Operará también como condición resolutoria, el hecho de que el comprador no inicie los trámites para obtener el permiso de explotación dentro de los 30 días posteriores al de la celebración del contrato o el de que intente trasmitir su derecho a explotar. En igual forma se dará por concluído el contrato si el permiso de explotación se otorga a un tercero. Se prohibe toda estipulación que tenga como consecuencia prorrogar el término de un año fijado para la obtención del permiso de explotación forestal.
-
-VII.- Queda prohibido al comprador trasmitir o ceder en cualquier forma el derecho a la explotación forestal, constituyendo ésta una excepción a lo dispuesto en el artículo 2157.
-
-VIII.- El comprador pagará al vendedor, totalmente en dinero, el precio de todos los recursos que corte, tome u obtenga del predio, aún cuando parte de ellos no los destine directamente al comercio sino que los utilice en la construcción de campamentos, obras de arte de caminos o en cualquier otra forma.
-
-IX.- El comprador deberá, a más tardar cada mes, formular las liquidaciones y hacer los pagos sobre las cantidades de productos cortados u obtenidos en el monte. Serán por cuenta del comprador las pérdidas, menoscabos, deméritos y riestos (sic) que los recursos sufran al apearse, cortarse u obtenerse así como por el transporte del lugar donde se encuentren a aquél donde se beneficien, traten o transformen.
-
-X.- El vendedor no está obligado a garantizar calidades determinadas de los recursos forestales, estableciéndose la presunción de que el comprador las conoce y acepta.
-
-XI.- Tratándose de propiedades particulares, habrá lesión en perjuicio del dueño del monte, cuando se estipule en el contrato un precio inferior al que por recursos forestales similares se haya establecido, para terrenos ejidales que tengan una localización económica semejante, tomando en cuenta distancias a los centros de consumo, vías de comunicación, medios de transporte y precios de los productos elaborados.
-
-La lesión en este caso producirá la nulidad absoluta del contrato y dará derecho al vendedor a reclamar la diferencia de precios que se le haya dejado de pagar.
-
-XII.- Si hubiere algún anticipo del precio y el contrato quedare resuelto por cualquiera de las causas fijadas en la fracción VI, el comprador no tendrá derecho a exigir el pago de intereses, quedando el vendedor obligado, única y exclusivamente, a devolver las sumas recibidas como anticipo que excedan del diez por ciento del importe del contrato fijado conforme a lo dispuesto en la fracción II.
-
-XIII.- No producirán efectos contra terceros los contratos que no se inscriban en el Registro Público de la Propiedad dentro de los 30 días siguientes a la fecha de su otorgamiento. En caso de que varios contratos tengan por objeto los mismos recursos forestales, prevalecerá el que se haya inscrito en el Registro Público de la Propiedad y si varios están inscritos prevalecerá el registrado en Primer término.
-
-XIV.- Queda prohibida la promesa de compraventa de recursos forestales.
-
-XV.- En caso de controversia, para declarar que los contratos han quedado resueltos, bastará simplemente comprobar que se ha realizado cualquiera de los hechos que, conforme a este artículo, operan como una condición resolutoria del contrato.
+Artículo 2178 bis. (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
 
 ###### Artículo 2140.
 
@@ -10673,13 +10673,15 @@ II. Si se trata de bienes muebles tales como automóviles, motores, pianos, máq
 
 III. Si se trata de bienes muebles que no sean susceptibles de identificarse indubitablemente, y que por lo mismo, su venta no pueda registrarse, los contratantes podrán pactar la rescisión de la venta por falta de pago del precio; pero esa cláusula no producirá efectos contra tercero de buena fe que hubiere adquirido los bienes a que esta fracción se refiere.
 
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+
 ###### Artículo 2167.
 
-Si se rescinde la venta, el vendedor y el comprador deben restituirse las prestaciones que se hubieren hecho; pero el vendedor que hubiere entregado la cosa vendida, puede exigir del comprador, por el uso de ella, el pago de un alquiler o renta que fijarán peritos, y una indemnización, también fijada por peritos, por el deterioro que haya sufrido la cosa.
+Si se rescinde la venta, el vendedor y el comprador deben restituirse las prestaciones que se hubieren hecho; pero el vendedor que hubiere entregado la cosa vendida, puede exigir del comprador, por el uso de ella, el pago de un alquiler o renta en cantidad no mayor del 9% anual sobre el precio de la venta, y una indemnización fijada por convenio o pericialmente, por el deterioro que haya sufrido la cosa.
 
-El comprador que haya pagado parte del precio, tiene derecho a los intereses legales de la cantidad que entregó.
+El comprador que haya pagado parte del precio tiene derecho a los intereses legales de la cantidad que entregó.
 
-Las convenciones que impongan al comprador obligaciones más onerosas que las expresadas, serán nulas.
+Las convenciones que impongan al comprador obligaciones más onerosas que las expresadas, serán nulas de pleno derecho.
 
 ###### Artículo 2168.
 
@@ -11321,19 +11323,11 @@ No puede renunciarse anticipadamente el derecho de cobrar la indemnización que 
 
 La renta debe pagarse en los plazos convenidos y a falta de convenio, por meses vencidos si la renta excede de cien pesos; por quincenas vencidas, si la renta es de sesenta a cien pesos, y por semanas, también vencidas cuando la renta no llegue a sesenta pesos.
 
-> <small>(REFORMADO, P.O 17 DE ENERO DE 1955)</small>
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
 
 ###### Artículo 2305.
 
-Las rentas de fincas urbanas destinadas a habitación, hasta de trescientos cincuenta pesos mensuales, no podrán aumentarse en ningún caso, aun cuando se invoque modificación del contrato existente, otorgamiento de uno nuevo respecto de las fincas que se desocupen, o cualesquier otro motivo o procedimiento encaminado al mismo fin, salvo en los siguientes casos:
-
-I.- Cuando el arrendador efectué gastos que aumenten el valor material de la finca, sin ser de mera conservación, pero el aumento nunca podrá exceder del 10% anual sobre el capital invertido en dichas mejoras.
-
-II.- Cuando la finca experimente algún revalúo fiscal, pero el aumento tampoco podrá ser mayor del 50% de la diferencia entre los valores del antiguo y del nuevo tributo predial.
-
-III.- Cuando durante cinco años a partir de la vigencia de este precepto, no se haya aumentado el alquiler por cualesquiera de las circunstancias previstas en las fracciones anteriores, pero el aumento no será mayor del 10% de la renta señalada en el contrato vigente.
-
-Todo pacto que se celebre contraviniendo esta disposición, será nulo de pleno derecho y los arrendadores incurrirán en una multa equivalente al importe del aumento de las rentas de un año, la cual impondrá la autoridad judicial que conozca del juicio donde se haga valer la ineficacia de la elevación de las rentas.
+La renta de las casas cuyo valor fiscal no exceda de un mil pesos, nunca podrá ser mayor del uno por ciento mensual sobre ese valor fiscal.
 
 ### CAPITULO I. Del depósito
 
@@ -11495,11 +11489,13 @@ VIII. Por evicción de la cosa dada en arrendamiento.
 
 Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que disponen los artículos 2331 y 2332.
 
-> <small>(REFORMADO, P.O 17 DE ENERO DE 1955)</small>
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
 
 ###### Artículo 2338.
 
-Vencido un contrato de arrendamiento, tendrá derecho el inquilino a que se le prorrogue hasta por tres años, siempre que esté al corriente en el pago de las rentas. Podrá el arrendador aumentar hasta un 10% de la renta anterior, si demuestra que los alquileres en la zona de que se trate, han sufrido una alza después de que se celebró el contrato de arrendamiento, salvo que se refiera a fincas urbanas destinadas a habitación, pues respecto a estas se observará lo dispuesto por el artículo 2305. Quedan exceptuadas de la obligación de prorrogar el contrato de arrendamiento cuyo término ha vencido, los propietarios que quieran habitar la casa o cultivar la finca, personalmente; quienes deberán dar aviso a los arrendatarios con seis meses de anticipación, ocurriendo al mismo tiempo ante la autoridad judicial competente, justificando la necesidad de la medida. Los términos establecidos por este artículo no son renunciables y cualquier pacto en contrario será nulo.
+Durante los treinta días inmediatos anteriores al vencimiento de un contrato de arrendamiento por tiempo determinado, tendrá derecho el inquilino a que se le prorrogue hasta por tres años, siempre que esté al corriente en el pago de las rentas. Podrá el arrendador aumentar hasta un diez por ciento la renta anterior, si demuestra que los alquileres en la zona de que se trate han sufrido una alza después de que celebró el contrato de arrendamiento.
+
+Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento, los propietarios que quieran usar la casa o cultivar la finca, personalmente. De no hacerlo así responderán de los daños y perjuicios que se causen al arrendatario.
 
 ###### Artículo 2339.
 
@@ -11517,9 +11513,9 @@ Cuando haya prórroga en el contrato de arrendamiento, y en los casos de que hab
 
 El arrendador puede exigir la rescisión del contrato:
 
-> <small>(REFORMADA, P.O 17 DE ENERO DE 1955)</small>
+(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADA, P.O. 25 DE FEBRERO DE 1965)
 
-I. Por falta de pago de la renta en los términos prevenidos en los artículos 2304 y 2308, pero si se tratare de fincas urbanas destinadas a habitación, se requerirá que esa falta de pago comprenda cuando menos tres mensualidades;
+I. Por falta de pago de la renta en los términos prevenidos en los artículos 2304 y 2307;
 
 II. Por usarse la cosa en contravención a lo dispuesto en la fracción III del artículo 2277;
 
@@ -13191,9 +13187,11 @@ La quita reduce la fianza en la misma proporción que la deuda principal, y la e
 
 El fiador que se ha obligado por tiempo determinado, queda libre de su obligación, si el acreedor no requiere judicialmente al deudor por el cumplimiento de la obligación principal, dentro del mes siguiente a la expiración del plazo. También quedar libre de su obligación el fiador, cuando el acreedor, sin causa justificada, deje de promover por más de tres meses, en el juicio entablado contra el deudor.
 
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+
 ###### Artículo 2677.
 
-Si la fianza se ha otorgado por tiempo indeterminado, tiene derecho el fiador, cuando la deuda principal se vuelva exigible, de pedir al acreedor que promueva judicialmente, dentro del plazo de un mes, el cumplimiento de la obligación. Si el acreedor no ejercita sus derechos dentro del plazo mencionado, o si en el juicio entablado deja de promover, sin causa justificada, por más de tres meses, el fiador quedará libre de su obligación.
+Si la fianza se ha otorgado por tiempo indeterminado, tiene derecho el acreedor, cuando la obligación principal se vuelve exigible, de pedir judicialmente su cumplimiento dentro del plazo de un mes. Si el acreedor no ejercita sus derechos dentro del plazo mencionado, o si en el juicio entablado deja de promover, sin causa justificada, por más de tres meses, el fiador quedará libre de su obligación.
 
 ### CAPITULO I. Disposiciones generales
 
@@ -14059,11 +14057,11 @@ No obstante lo dispuesto en el artículo anterior, los actos o contratos que se 
 
 Lo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando una ley prohibitiva o de interés público.
 
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+
 ###### Artículo 2834.
 
 No podrá ejercitarse ninguna acción contradictoria del dominio de inmuebles o de derechos reales inscritos a nombre de persona o entidad determinada, sin que, previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
-
-En el caso de embargo precautorio, antejuicio (sic) de ejecución o procedimiento de apremio contra bienes o derechos reales determinados, se sobreseerá todo procedimiento de apremio respecto de los mismos o de sus frutos, inmediatamente que conste en los autos por certificado del Registro de la Propiedad, que dichos bienes o derechos están inscritos a favor de persona distinta de aquélla contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción, como causa habiente del que aparece dueño en el registro.
 
 ###### Artículo 2835.
 
@@ -14117,7 +14115,13 @@ XII. El testimonio de las informaciones ad-perpetuam promovidas y protocolizadas
 
 XIII. Las fianzas judiciales, cuidándose de anotar al margen de los registros que amparen bienes del fiador, la inscripción de la fianza;
 
-XIV. Los demás títulos que la ley ordene expresamente que sean registrados.
+(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADA, P.O. 25 DE FEBRERO DE 1965)
+
+XIV. La demanda y el auto que la admite, cuando el negocio verse sobre alguna de las cuestiones a que se refiere la fracción I, debiendo, además, hacerse anotación al margen del registro del título del demandado;
+
+(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADA, P.O. 25 DE FEBRERO DE 1965)
+
+XV. Los demás títulos que la ley ordene expresamente que sean registrados.
 
 ###### Artículo 2841.
 
@@ -14231,7 +14235,7 @@ IV. Cuando se declare la nulidad de la inscripción;
 
 V. Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto por el artículo 2177;
 
-VI. Cuando tratándose de una cédula hipotecaria o de un embargo, hayan transcurrido tres años desde la fecha de la inscripción.
+VI. (DEROGADA POR EL ARTICULO SEGUNDO TRANSITORIO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADA, P.O. 25 DE FEBRERO DE 1965)
 
 ###### Artículo 2857.
 
@@ -14434,3 +14438,11 @@ Al entrar en vigor esta Ley, las solicitudes de expropiación formuladas por par
 ###### ARTICULO CUARTO.
 
 En todo expediente de expropiación en que haya dejado de actuarse por un término que exceda de noventa días naturales a partir del último proveído tendiente a continuar el procedimiento, se entenderá que al interesado o interesados han desistido de su petición y se mandará archivar el expediente, aun cuando se insista en su tramitación con posterioridad al transcurso de ese lapso.
+
+P.O. 30 DE NOVIEMBRE DE 1964.
+
+REPUBLICADO, P.O. 25 DE FEBRERO DE 1965.
+
+PRIMERO.- Esta Ley entrará en vigor el día 1o. de enero de 1965.
+
+SEGUNDO.- Se derogan los artículos 578, 2178 bis y 2856, fracción VI del Código Civil y cualquiera otra disposición legal que se oponga a la presente.
