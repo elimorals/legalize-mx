@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1944-05-23"
+last_updated: "1945-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 1945.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -581,11 +581,11 @@ VII. Además de los anteriores requisitos, se requiere que el ciudadano sinaloen
 
 El Gobernador del Estado entrará a ejercer su cargo el día primero de enero del año siguiente al de su elección, durará seis años en su ejercicio y no será reelecto.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1939)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1945)</small>
 
 ###### Art. 58.
 
-Las faltas temporales del Gobernador del Estado, hasta por quince días, serán suplidas por el Secretario General de Gobierno con el carácter de Encargado del Despacho, y las que excedan de tal período serán cubiertas por un Gobernador Interino que nombrará el Congreso por mayoría absoluta de votos de los diputados presentes. Si éste estuviere en receso al ocurrir la falta, la Diputación Permanente nombrará uno Provisional.
+Las faltas temporales del Gobernador del Estado, hasta por treinta días, serán suplidas por el Secretario General de Gobierno con el carácter de Encargado del Despacho y las que excedan de tal período serán cubiertas por un Gobernador Interino que nombrará el Congreso por mayoría absoluta de votos de los Diputados presentes. Si este estuviere en receso al ocurrir la falta la Diputación Permanente nombrará uno Provisional.
 
 ###### Art. 59.
 
@@ -609,11 +609,11 @@ Si por cualquier motivo la elección ordinaria de Gobernador no estuviere hecha 
 
 El cargo de Gobernador del Estado sólo es renunciable por causa grave que calificará el Congreso, ante el cual se presentará la renuncia.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1940)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1945)</small>
 
 ###### Art. 64.
 
-El Gobernador no podrá ausentarse del Territorio del Estado por más de quince días, sin permiso del Congreso o de la Diputación Permanente en su caso.
+El Gobernador no podrá ausentarse del territorio del Estado, por más de treinta días sin permiso del Congreso o de la Diputación Permanente en su caso.
 
 ###### Art. 65.
 
@@ -1616,3 +1616,7 @@ Igualmente queda derogado el artículo 2o. Transitorio del mencionado Decreto n�
 ###### Artículo 2o.
 
 El presente Decreto comenzará a surtir sus efectos legales, a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE ABRIL DE 1945.
+
+UNICO.- El presente Decreto comienza a surtir sus efectos legales desde esta misma fecha.
