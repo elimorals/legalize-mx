@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1993-del-tribunal-pleno-de-la-suprema-63013"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1993-01-27"
-last_updated: "1994-02-25"
+last_updated: "1994-06-29"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63013&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-01-13"
 
 ACUERDO No. 1/1993, DEL TRIBUNAL EN PLENO DEL DIA TRECE DE ENERO DE MIL NOVECIENTOS NOVENTA Y TRES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE FEBRERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JUNIO DE 1994.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 27 de enero de 1993.
 
@@ -53,9 +53,9 @@ I.- Cuatro tribunales colegiados en materia penal, seis tribunales colegiados en
 
 II.- SEGUNDO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMO TERCERO DEL ACUERDO No. XIV/94 DEL TRIBUNAL EN PLENO DEL DIA SIETE DE JUNIO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 29 DE JUNIO DE 1994)</small>
 
-1.- Cuatro tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Toluca, México;
+1.- Dos tribunales colegiados en materias penal y administrativa, dos tribunales colegiados en materias civil y de trabajo y dos tribunales unitarios, con residencia en la ciudad de Toluca, México;
 
 2.- Un tribunal unitario con residencia en Ciudad Nezahualcóyotl, México;
 
@@ -512,3 +512,11 @@ TERCERO.- La nueva numeración ordinal de los órganos jurisdiccionales señalad
 CUARTO.- La Comisión de Gobierno y Administración y los ministros Inspectores de los tribunales de Circuito y de los juzgados de Distrito comprendidos en este Acuerdo, resolverán cualquier cuestión que pudiera suscitarse.
 
 QUINTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, y hágase del conocimiento de todos los tribunales de Circuito y juzgados de Distrito del país para su cumplimiento.
+
+D.O.F. 29 DE JUNIO DE 1994.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- La Comisión de Gobierno y Administración y los ministros inspectores de los tribunales de Circuito comprendidos en este Acuerdo, resolverán cualquier cuestión que pudiera suscitarse.
+
+TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, y hágase del conocimiento de los correspondientes tribunales colegiados y unitarios del Segundo Circuito, para su cumplimiento y de los juzgados de dicho Circuito, para su conocimiento.
