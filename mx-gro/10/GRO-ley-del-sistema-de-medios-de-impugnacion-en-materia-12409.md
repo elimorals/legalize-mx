@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-sistema-de-medios-de-impugnacion-en-materia-12409"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-13"
-last_updated: "1998-02-13"
+last_updated: "2004-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2004.
 
 Ley Publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 13 de febrero de 1998.
 
@@ -715,17 +715,17 @@ b) Los resultados consignados en las actas de cómputo municipal, por error arit
 
 c) La asignación de regidores por la inadecuada aplicación de la fórmula establecida por el Código Electoral del Estado.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 55.
 
 El escrito de protesta por los resultados contenidos en el acta de escrutinio y cómputo de la casilla, es un medio para establecer la existencia de presuntas violaciones durante el día de la jornada electoral.
 
-Se requerirá de la presentación del escrito de protesta, como requisito de procedibilidad del juicio de inconformidad, sólo cuando se hagan valer las causales de nulidad previstas en el artículo 79 de esta ley, a excepción de las señaladas en la fracción II de dicho precepto.
-
-El escrito de protesta deberá contener:
+No habrá formalidad alguna en la presentación del escrito de protesta, pero deberá identificar:
 
 I. El partido político que lo presenta;
 
-II. La mesa directiva de casilla ante la que se presenta;
+II. La casilla o casillas que se impugna;
 
 III. La elección que se protesta;
 
@@ -733,9 +733,9 @@ IV. La causa por la que se presenta la protesta;
 
 V. El nombre, la firma y el cargo partidario de quien lo presenta.
 
-El escrito de protesta deberá presentarse ante la mesa directiva de casilla, al término del escrutinio y cómputo, en los términos que señala el presente artículo.
+El escrito de protesta deberá presentarse ante el Secretario de la Mesa Directiva de Casilla, al término del escrutinio y cómputo o hasta antes del inicio de la sesión de cómputo del Consejo Estatal, Distrital o Municipal correspondiente.
 
-De la presentación del escrito de protesta deberán acusar recibo o razonar de recibida una copia del respectivo escrito los funcionarios de la casilla.
+De la presentación del escrito de protesta deberán acusar recibo o razonar de recibida una copia del respectivo escrito los funcionarios de los órganos electorales a que hace mención el párrafo anterior.
 
 ### CAPITULO II. De los Requisitos Especiales del Escrito de Demanda
 
@@ -1196,3 +1196,11 @@ El Secretario General de Gobierno.
 C. LIC. HUMBERTO SALGADO GOMEZ.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE FEBRERO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para sus efectos constitucionales y publicación en el Periódico Oficial del Gobierno del Estado.
