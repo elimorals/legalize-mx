@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-coordinacion-fiscal-del-estado-de-san-luis-potosi-7922"
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-15"
-last_updated: "1996-12-27"
+last_updated: "1998-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1998.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de San Luis Potosí, el viernes 15 de enero de 1988.
 
@@ -139,9 +139,9 @@ III.- De darse el caso de creación de nuevos municipios, para los efectos de la
 
 Las participaciones federales que correspondan a los Municipios de los Fondos que establece esta Ley se calcularán y pagarán por cada ejercicio fiscal.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
 
-La Secretaría de Planeación y Finanzas, una vez identificada la asignación mensual que le corresponda a la Entidad de los fondos previstos por la Ley de Coordinación Fiscal, afectará mensualmente la participación que le corresponda a cada municipio.
+La Secretaría de Finanzas, una vez identificada la asignación mensual que le corresponda a la Entidad de los fondos previstos por la Ley de Coordinación Fiscal, afectará mensualmente la participación que le corresponda a cada Municipio.
 
 De conformidad a lo dispuesto en el último párrafo del Artículo 7o. de la Ley Fiscal Federal mencionada, la liquidación definitiva se determinará a más tardar dentro de los cinco meses siguientes al cierre de cada ejercicio fiscal, tomando en cuenta las cantidades que se hubieren afectado provisionalmente.
 
@@ -155,11 +155,11 @@ El Estado podrá realizar pagos por cuenta de los HH. Ayuntamientos, con cargo a
 
 ### CAPITULO TERCERO. DE LOS ORGANISMOS DE COLABORACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 9o.
 
-El Ejecutivo del Estado, por medio de la Secretaría de Planeación y Finanzas y los Ayuntamientos de los municipios podrán celebrar convenio de colaboración administrativa en las siguientes materias:
+El Ejecutivo del Estado, por medio de la Secretaría de Finanzas, y los Ayuntamientos de los Municipios podrán celebrar convenio de colaboración administrativa en las siguientes materias:
 
 I.- Registro de contribuyentes.
 
@@ -183,11 +183,11 @@ X.- Intervención en juicio.
 
 El ejercicio de las facultades que se convengan, será respecto de ls (sic) Impuestos Federales coordinados que al Estado correspondan, gravámenes Estatales y Municipales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 10o.
 
-El Ejecutivo del Estado, por sí o por conducto de la Secretaría de Planeación y Finanzas y los Ayuntamientos participarán en el desarrollo, vigilancia y perfeccionamiento del Sistema de Coordinación Fiscal del Estado, por medio de:
+El Ejecutivo del Estado, por sí o por conducto de la Secretaría de Finanzas y los Ayuntamientos participarán en el desarrollo, vigilancia y perfeccionamiento del Sistema de Coordinación Fiscal del Estado, por medio de:
 
 I.- La Convención Fiscal de los Ayuntamientos del Estado.
 
@@ -199,11 +199,13 @@ III.- El Instituto de Capacitación y Asesoría Fiscal del Estado de San Luis Po
 
 La Convención Fiscal de los Ayuntamientos del Estado de San Luis Potosí, se establece como instancia de coordinación de los Ayuntamientos del Estado entre sí, y con el Gobierno del Estado de San Luis Potosí para la definición de la política tributaria de jurisdicción municipal y para la adopción de los sistemas de su administración.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 12o.
 
-La Convención Fiscal de los Ayuntamientos del Estado se integrará anualmente por los Presidentes de los Ayuntamientos, a convocatoria expedida por el Gobernador del Estado. Funcionará bajo la presidencia del titular del Ejecutivo o del Secretario de Planeación y Finanzas y desarrollará sus trabajos conforme a las bases que la propia Convención establezca y el Reglamento correspondiente defina.
+La Convención Fiscal de los Ayuntamientos del Estado se integrará anualmente por los Presidentes de los Ayuntamientos, a convocatoria expedida por el Gobernador del Estado.
+
+Funcionará bajo la Presidencia del Titular del Ejecutivo o del Secretario de Finanzas y desarrollará sus trabajos conforme a las bases que la propia convención establezca y el Reglamento correspondiente defina.
 
 ###### ARTICULO 13o.
 
@@ -215,9 +217,9 @@ II.- Informe del Instituto de Capacitación y Asesoría Fiscal del Estado de San
 
 III.- Elección de los integrantes de la Comisión Permanente de Funcionarios Fiscales.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1998)</small>
 
-IV.- Informe de la Secretaría de Planeación y Finanzas sobre el comportamiento de los impuestos municipales que por convenio administrativo maneje la Secretaría y de las perspectivas de su desarrollo en el año siguiente.
+IV.- Informe de la Secretaría de Finanzas sobre el comportamiento de los impuestos municipales que por convenio administrativo maneje la Secretaría y de las perspectivas de su desarrollo en el año siguiente.
 
 V.- Proyectos de Ley de Ingresos remitidos por los Ayuntamientos para el año siguiente y proyecto unificado de Ley de Ingresos.
 
@@ -245,15 +247,15 @@ III.- Efectuar en forma permanente estudios de Legislación Fiscal, así como es
 
 La Comisión permanente de Tesoreros Municipales y Funcionarios Fiscales se integrará por:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
 
-El Secretario de Planeación y Finanzas, el Presidente de la Comisión de Vigilancia del Poder Legislativo y por cuatro municipios representados por sus tesoreros, elegidos anualmente por los Ayuntamientos en el número que por cada grupo se indica, así como por un suplente por cada uno de los miembros, quienes asistirán a las reuniones y actos de la Comisión Permanente de Tesoreros Municipales y Funcionarios Fiscales, en su ausencia.
+El Secretario de Finanzas, el Presidente de la Comisión de Vigilancia del Poder Legislativo y por cuatro Municipios representados por sus Tesoreros, elegidos anualmente por los Ayuntamientos en el número que por cada grupo se indica, así como por un Suplente por cada uno de los miembros, quienes asistirán a las reuniones y actos de la Comisión Permanente de Tesoreros Municipales y funcionarios fiscales, en su ausencia.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 17o.
 
-La Comisión Permanente de Tesoreros Municipales y Funcionarios Fiscales será presidida por el Secretario de Planeación y Finanzas o el suplente que éste designe. Sus sesiones serán convocadas por el Presidente o por el titular de la Contaduría Mayor de Hacienda. Se desarrollarán de conformidad con el Reglamento de la Comisión que esta misma apruebe, debiendo celebrarse cuando menos dos veces al año.
+La Comisión Permanente de Tesoreros Municipales y funcionarios fiscales será presidida por el Secretario de Finanzas o el Suplente que éste designe.
 
 ###### ARTICULO 18o.
 
@@ -271,9 +273,9 @@ IV.- Capacitar técnicos y Funcionarios Fiscales, tanto del Estado como de los M
 
 El Instituto de Capacitación y Asesoría Fiscal del Estado de San Luis Potosí estará integrado por:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1998)</small>
 
-I.- El director, que será nombrado por el Secretario de Planeación y Finanzas, quien lo presidirá, debiendo contar para el desempeño de sus trabajos con el personal especializado que requiera.
+I.- El Director, que será nombrado por el Secretario de Finanzas, quien lo presidirá, debiendo contar al desempeño de sus trabajos con el personal especializado que requiera.
 
 II.- Dos Tesoreros Municipales de entre los que integran la Comisión Permanente, fungiendo como asesores.
 
@@ -350,3 +352,9 @@ P.O. 27 DE DICIEMBRE DE 1996.
 PRIMERO.- El presente decreto entrará en vigor el día 1o. de enero de 1997.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE JUNIO DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
