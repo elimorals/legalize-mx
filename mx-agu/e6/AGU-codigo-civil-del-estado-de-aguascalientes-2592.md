@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "1961-01-22"
+last_updated: "1962-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1961.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 1962.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -11599,9 +11599,53 @@ DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDATARIO.
 
 Hay arrendamiento cuando las dos partes contratantes se obligan recíprocamente, una a conceder el uso o goce temporal de una cosa, y la otra, a pagar por ese uso o goce un precio cierto.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE ENERO DE 1962)</small>
+
 ###### Artículo 2270.
 
-La renta o precio del arrendamiento puede consistir en una suma de dinero o en cualquiera otra cosa equivalente, con tal que sea cierta y determinada.
+La renta o precio del arrendamiento puede consistir en una suma de dinero o en cualquiera otra cosa equivalente, con tal que sea cierta y determinada. En tratándose de bienes raíces urbanos, destinados exclusivamente para habitación, se aplicarán las siguientes disposiciones:
+
+I.- En ningún caso podrán ser aumentadas las rentas de las fincas urbanas dadas en arrendamiento o destinadas a él, ubicadas dentro de la jurisdicción del Estado y utilizadas como habitación, durante el período de vigencia de un contrato virtual o expresamente celebrado, bajo el concepto de modificación del contrato existente, del otorgamiento de uno nuevo, o bajo cualquier otro medio, pretexto o procedimiento encaminados al mismo fin.
+
+II.- Al concluir el plazo o término de todo contrato o convenio expreso de arrendamiento, o desde el momento de entrar en vigor esta Ley, respecto a los convenios virtuales o implícitos, sin límite determinado, los arrendatarios podrán demandar por la vía judicial la prórroga del contrato con derecho a preferencia en igualdad de condiciones sirviendo como base la fijación del monto del arrendamiento, conforme a las reglas señaladas en el subsecuente párrafo.
+
+III.- Se establece como precio legal del arrendamiento a la propiedad raíz urbana, destinada a fines de habitación, en el Estado de Aguascalientes, para todo caso de controversia o litigio judicial o administrativo entre arrendador y arrendatario, una cantidad que tendrá como límite:
+
+a).- 6% anual sobre el valor comercial de la finca, cuando ésta no exceda de....... $50,000.00.
+
+b).- 7% anual cuando el valor real o comercial del predio exceda de $50.00000, pero sea inferior a $100,000.00.
+
+c).- Cuando dicho valor exceda de.......... $100,000.00, el monto del arrendamiento será convencional para las partes contratantes.
+
+IV.- Todo contrato o convenio, tácita o explícitamente celebrado en materia de arrendamiento de predios urbanos para fines exclusivos de habitación, en que se estipulen arrendamientos mayores a las bases establecidas con anterioridad, se considerará lesivo para todos los efectos legales y podrá demandarse su rescisión en cualquier tiempo, sin perjuicio de que se otorgue uno nuevo, al arrendatario, en los términos fijados. La lesión no podrá ser renunciada contractualmente.
+
+V.- El valor comercial base del arrendamiento, se determinará mediante avalúo pericial en que intervendrán peritos nombrados por cada una de las partes (arrendador y arrendatario). En caso de discordia o desacuerdo intervendrá un perito tercero que deberá ser Arquitecto, o a falta de éste, Ingeniero Civil, legalmente autorizado para ejercer su profesión, nombrado de común acuerdo por los dos peritos de las partes, o en su lugar, por un Juez de Primera Instancia del Ramo Civil, a solicitud de cualquiera de los interesados.
+
+VI.- En ningún caso podrá señalarse legalmente, para los efectos de pago de arrendamiento de fincas urbanas destinadas a habitación, un valor que exceda de un 25% al que sirva como base para el pago del impuesto predial.
+
+VII.- Para la determinación del valor comercial, se atenderá, separadamente, al valor del terreno y de la construcción tomando en cuenta el incremento del primero y la depreciación de la segunda, por razones de plusvalía o mejoramiento por obras públicas de urbanización en lo que se refiere al terreno y por la acción del tiempo, falta de conservación, mejoramiento, destrucción o inadaptabilidad, por lo que se refiere a la construcción.
+
+VIII.- Para la determinación del valor, respecto al terreno y construcción, se atenderá además, a la zona urbana en que se encuentre ubicado el predio, vías de comunicación, servicios de agua, energía eléctrica, etc., y a las cotizaciones tanto de terreno como de material de construcción que rijan en el mercado, en la fecha en que se presente la demanda.
+
+IX.- En edificios de dos o más unidades de vivienda, éstas serán consideradas como inmuebles separados y deberá regularse su alquiler conforme a lo dispuesto en la fracción I de este artículo, estimándose su valor en la proporción que le corresponda respecto del valor total del inmueble.
+
+X.- Tomando en consideración el incremento que adquiere el valor de una propiedad, tanto en cuanto se refiere al terreno como a la construcción y a la eventual devaluación de la moneda, todo contrato de arrendamiento podrá ser revisado después de cinco años de su celebración, cualquiera que sea el término de su duración.
+
+XI.- En ningún caso se utilizarán los valores comerciales asignados para los fines y mediante los procedimientos anteriores señalados, para que sirvan como base a operaciones de naturaleza fiscal, cualesquiera que ellas sean.
+
+XII.- No afectarán las disposiciones anteriores, a establecimientos de hospedaje, tales como hoteles, casas de huéspedes y mesones, que continuarán rigiéndose por las tarifas autorizadas por el Departamento de Turismo o por las autoridades administrativas correspondientes, en su caso.
+
+XIII.- Excepcionalmente, el arrendador podrá aumentar la renta:
+
+a).- En caso de mejoras a la finca, en forma proporcional al importe de ellas, siempre que excedan al 25% de su valor, ya sea de común acuerdo entre arrendador e inquilino o previa autorización judicial que se promoverá en juicio sumario con audiencia del Ministerio Público, el que será siempre considerado como parte y mediante avalúo pericial que compruebe el importe de tales mejoras. Los gastos normales para la conservación natural del inmueble, no serán motivo de aumento alguno en el arrendamiento.
+
+b).- En caso de revalúo general fiscal. En este caso, el arrendador sólo podrá elevar la renta hasta por el equivalente al 50% de la cantidad en que resulte aumentada la contribución predial que pague por el inmueble, previa comprobación del aumento por medio de constancia que expida la Tesorería General del Estado.
+
+XIV.- En tratándose de predios urbanos destinados precisamente a habitación, el artículo 2355 del presente Código, sólo se aplicará en los términos consignados en las disposiciones anteriores.
+
+XV.- Tratándose de los contratos de arrendamiento de fincas destinadas exclusivamente a habitación, los arrendadores de fincas urbanas no podrán ejercitar el derecho de revocar unilateralmente el contrato de arrendamiento en los términos de los artículos 2349, 2355 y 2356, del Código Civil, salvo los casos en que la terminación del contrato se justifique para reconstruir o adaptar para otro fin el inmueble, para ocuparlo el arrendador para su propio uso o para venderlo. En este último caso si el adquiriente alquilare la finca, no podrá hacerlo por renta mayor a la estipulada en el contrato concluido, y dando preferencia en todo caso y en igualdad de condiciones al inquilino que lo viniere ocupando. Las reconstrucciones o adaptaciones a que este párrafo se refiere, no serán menores que el equivalente al 25% del valor comercial de la finca.
+
+XVI.- Todo contrato de arrendamiento deberá ser presentado a la sección especial de la Tesorería General del Estado, para que, sin pago alguno de impuestos y como un simple medio de control, queden registrados en un libro especial que para tal efecto deberá abrir y llevar la referida Tesorería General del Estado.
 
 ###### Artículo 2271.
 
@@ -15033,7 +15077,7 @@ Cuando se registre una sentencia que declare haber cesado los efectos de otra qu
 
 ###### Artículo 2911.
 
-Los padres, como administradores de los bienes de sus hijos; los tutores de menores o incapacitados, y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
+Los padres, como administradores de los bienes de sus hijos; los tutores de menores o incapacitados, y cualesquiera otros administradores, aunque habilitados para recibir pagos, dar recibos y sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
 
 ###### Artículo 2912.
 
@@ -15102,3 +15146,13 @@ UNICO.- Este decreto es especial y de acuerdo con el párrafo 2o. del Artículo 
 P.O. 22 DE ENERO DE 1961.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 21 DE ENERO DE 1962.
+
+###### ARTICULO PRIMERO.
+
+Los contratos de arrendamiento, actualmente en vigor, conservarán su valor y fuerza legales, durante el término estipulado en los mismos, pero al expirar dicho término, todo nuevo acto contractual se ajustará a las disposiciones contenidas en las adiciones decretadas.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto surtirá sus efectos cuarenta y ocho horas después de su publicación en el Periódico Oficial del Estado.
