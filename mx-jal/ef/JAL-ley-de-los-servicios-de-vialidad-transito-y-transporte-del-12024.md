@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2003-11-08"
+last_updated: "2004-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -2081,7 +2081,9 @@ III. Carezca de los requisitos necesarios para circular, o contando con permiso 
 
 IV. El vehículo se encuentre estacionado en lugar prohibido, frente a cochera, estacionamiento exclusivo o abandonado en la vía pública; o en donde el estacionamiento del mismo provoque entorpecimiento a la circulación o molestias a los peatones, sin encontrarse en dicho lugar el conductor, y
 
-V. Sea reincidente en contaminar visiblemente, y lo solicite la autoridad competente en ecología ambiental;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2004)</small>
+
+V. Contamine visiblemente, en este caso se estará a lo dispuesto por el reglamento respectivo; y
 
 > <small>(ADICIONADA, P.O. 9 DE MARZO DE 2002)</small>
 
@@ -2818,3 +2820,7 @@ P.O. 8 DE NOVIEMBRE DE 2003.
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- Los concesionarios y permisionarios del transporte público, que no hayan realizado la solicitud de prórroga, tendrán un plazo de 60 días posteriores a la entrada en vigor del presente decreto, para solicitarla.
+
+P.O. 10 DE FEBRERO DE 2004.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
