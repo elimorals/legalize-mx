@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-prestaciones-de-la-caja-de-prevision-para-15469"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-12-19"
-last_updated: "1988-12-19"
+last_updated: "1991-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15469&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1988-11-25"
 
 REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL DEPARTAMENTO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MAYO DE 1991.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 19 de diciembre de 1988.
 
@@ -126,11 +126,13 @@ Las pensiones se otorgarán, debiéndose resolver durante un plazo máximo de 90
 
 El derecho al pago de las pensiones a los deudos, se iniciará el día siguiente a la fecha en que fallezca el trabajador o pensionado que las origina.
 
+> <small>(REFORMADO, G.O. 13 DE MAYO DE 1991)</small>
+
 ###### ARTICULO 11.
 
 El trabajador podrá obtener, previamente a los trámites de su pensión, la cuantificación de ésta.
 
-Las pensiones se fijarán por cuota diaria haciéndose sus pagos mensualmente a partir de la fecha en que el trabajador cause baja en el Departamento o en la Institución.
+Las pensiones se pagarán mensualmente, a partir de la fecha en que el trabajador cause baja en el Departamento o en la Institución.
 
 ###### ARTICULO 12.
 
@@ -182,9 +184,11 @@ Para la aplicación de las disposiciones del presente Reglamento, el sueldo bás
 
 Cuando el trabajador o empleado hubiere pagado más de la suma máxima de cotización, la Institución devolverá las diferencias resultantes, previa solicitud debidamente fundada.
 
+> <small>(REFORMADO, G.O. 13 DE MAYO DE 1991)</small>
+
 ###### ARTICULO 19.
 
-Los trabajadores cubrirán a la Institución, una cuota obligatoria quincenal del 6% del sueldo básico que perciban, misma que se aplicará para solventar las prestaciones establecidas por el artículo 1°. de este Reglamento en sus fracciones de la II a la XIII.
+Los trabajadores cubrirán a la Institución, una cuota obligatoria quincenal del 6% sobre el sueldo básico que perciban y prima de antigüedad, misma que se aplicará para solventar las prestaciones establecidas por las fracciones II a la XII del artículo 1°. de este Ordenamiento.
 
 ###### ARTICULO 20.
 
@@ -526,9 +530,11 @@ Se otorgará pensión por cesantía en edad avanzada a los trabajadores que habi
 
 Para la tramitación de esta pensión, los interesados deberán presentar la solicitud correspondiente y la baja o constancia de licencia prepensionaria, adjuntando copia certificada de su acta de nacimiento expedida por el Registro Civil y demás documentos exigibles.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE MAYO DE 1991)</small>
+
 ###### ARTICULO 70.
 
-La pensión se calculará aplicando al sueldo regulador definido en el artículo 57 de este Reglamento, los porcentajes que se especifican en la siguiente:
+La pensión se calculará aplicando al sueldo regulador, definido en el artículo 58 de este Reglamento, los porcentajes que se especifican en la siguiente
 
 TABLA
 
@@ -668,9 +674,11 @@ III. El monto de referencia, más noventa días de su último sueldo básico, si
 
 Para el trámite de la indemnización global, los interesados deberán presentar, una solicitud anexando la baja definitiva, la hoja de servicios expedida por el Departamento del Distrito Federal o la Institución, y los documentos que le sean requeridos.
 
+> <small>(REFORMADO, G.O. 13 DE MAYO DE 1991)</small>
+
 ###### ARTICULO 96.
 
-Si la baja es por fallecimiento del trabajador, sin tener derecho a las pensiones a que hace alusión en el artículo 86 de este Reglamento, pero con derecho a indemnización global, la Institución pagará a los familiares derechohabientes o a la sucesión legítima del trabajador el importe de aquélla.
+Si la baja es por fallecimiento del trabajador, sin tener derecho a las pensiones a que hace alusión el artículo 26 de este Reglamento, pero con derecho a indemnización global, la Institución pagará a los familiares derechohabientes o a la sucesión legítima del trabajador el importe de aquélla.
 
 ###### ARTICULO 97.
 
@@ -762,25 +770,13 @@ El monto de los descuentos al trabajador o pensionado por concepto de préstamos
 
 El solicitante de un préstamo a corto plazo desde y para el inicio de su gestión deberá reunir los requisitos de forma que determine la Institución.
 
+> <small>(REFORMADO, G.O. 13 DE MAYO DE 1991)</small>
+
 ###### ARTICULO 109.
 
-Los préstamos a corto plazo se concederán de conformidad con la siguiente
-
-TABLA
-
-I. De uno a cinco años de servicios, el total de sus cotizaciones y hasta el 10% del salario mínimo vigente.
-
-II. De cinco a diez años, el importe de sus cuotas y hasta el 25% del salario mínimo vigente.
-
-III. De diez a quince años, el total de sus cotizaciones y hasta el 50% del salario mínimo en vigor.
-
-IV. De quince a veinte años, el importe de sus cuotas y hasta tres meses del salario mínimo vigente.
-
-V. De veinte años en adelante, la suma de sus cuotas y hasta cuatro meses del salario mínimo en vigor.
+El monto de los préstamos a corto plazo será determinado por el Consejo Directivo, mediante acuerdo general que emita para garantizar igualdad de tratamiento a los solicitantes.
 
 En ningún caso el préstamo será superior a diez veces el sueldo mínimo mensual y su monto total lo constituirá el capital y los intereses calculados durante el lapso otorgado para su amortización.
-
-Cuando el préstamo rebase las cotizaciones acumuladas, el excedente quedará protegido con un fondo de garantía integrado mediante el pago de primas a cargo de los interesados cuyo importe será fijado anualmente por el Consejo Directivo, con carácter general, determinando la operatividad del fondo de referencia, debiéndose registrar contablemente por separado de los demás ingresos y egresos de la Institución.
 
 ###### ARTICULO 110.
 
@@ -790,13 +786,19 @@ I. El pago del capital e intereses que devenguen, se hará en abonos quincenales
 
 II. No podrá otorgarse nuevo préstamo mientras el contraído anteriormente no haya sido liquidado.
 
-III. Solamente podrá renovarse un préstamo a corto plazo, cuando se haya cubierto por lo menos la cuarta parte del ya otorgado y el deudor pague la respectiva prima de renovación, señalada con carácter general por el Consejo Directivo.
+> <small>(REFORMADA, G.O. 13 DE MAYO DE 1991)</small>
 
-IV. Si el trabajador cubre su adeudo con anticipación a la fecha de su vencimiento, tendrá derecho a la bonificación de intereses moratorios.
+III. Solamente podrá renovarse un préstamo a corto plazo, cuando se haya cubierto por lo menos el porcentaje del ya otorgado que establezca el Consejo Directivo y el deudor pague la respectiva prima de renovación que señale con carácter general el propio Consejo.
+
+> <small>(REFORMADA, G.O. 13 DE MAYO DE 1991)</small>
+
+IV. Si el trabajador cubre su adeudo con anticipación a la fecha de su vencimiento, tendrá derecho a la bonificación de interese no devengados.
+
+> <small>(REFORMADO, G.O. 13 DE MAYO DE 1991)</small>
 
 ###### ARTICULO 111.
 
-A los pensionados también se les concederán préstamos a corto plazo hasta el equivalente a tres tantos de su percepción mensual. El término máximo para liquidarlos, será de 24 meses y, en lo aplicable, su trámite y renovación deberán ajustarse a lo preceptuado por el artículo 110 del presente Reglamento.
+A los pensionados también se les concederán préstamos a corto plazo hasta el monto que determine el Consejo Directivo. El término máximo para liquidarlos será de 24 meses y, en lo aplicable, su trámite y renovación deberán ajustarse a lo preceptuado por el artículo 110 del presente Reglamento.
 
 ###### ARTICULO 112.
 
@@ -808,7 +810,7 @@ Si a un trabajador se le concede alguna de las pensiones establecidas por este R
 
 ###### ARTICULO 114.
 
-Cuando el trabajador deudor de un préstamo a corto plazo fallezca, la Institución deducirá la suma que adeude del importe de las pensiones o de la indemnización global que corresponda a quienes tengan derecho a ello. En el caso de pensionados, el adeudo se deducirá de las prestaciones económicas que hayan de percibir los familiares derechohabientes.
+(DEROGADO, G.O. 13 DE MAYO DE 1991)
 
 ###### ARTICULO 115.
 
@@ -824,27 +826,19 @@ La Institución otorgará a los trabajadores con más de un año de servicios e 
 
 Asimismo, estos préstamos podrán ser destinados para la compra de bienes muebles de interés familiar o personal que garanticen plenamente el crédito, en los términos y bajo los requisitos que establezca el Consejo Directivo.
 
+> <small>(REFORMADO, G.O. 13 DE MAYO DE 1991)</small>
+
 ###### ARTICULO 117.
 
-La cuantía de los préstamos que se otorguen, comprendiendo capital e intereses, no excederá de 20 veces el importe del salario mínimo, si se trata de trabajadores, y de 10 veces la cuota de la pensión que se disfrute, si el solicitante es pensionado.
+La cuantía de los préstamos que se otorguen, comprendiendo capital e intereses, no excederá de 20 veces el importe del salario mínimo mensual, si se trata de trabajadores, y de 10 veces del importe de la pensión que se disfrute, si el solicitante es pensionado.
 
-El plazo máximo que en ambos casos se concederá para liquidarlos, será de 120 quincenas.
+El plazo máximo que en ambos casos se concederá para liquidarlos será de 120 quincenas y únicamente se concederá una sola vez al año.
+
+> <small>(REFORMADO, G.O. 13 DE MAYO DE 1991)</small>
 
 ###### ARTICULO 118.
 
-El otorgamiento de los préstamos, en tratándose de los trabajadores, se regirá por las siguientes bases:
-
-a) Si el solicitante tiene de uno a 5 años de aportaciones, el importe será hasta 5 meses de salario mínimo.
-
-b) Si ha hecho aportaciones de 5 a 10 años, el importe del préstamo será hasta 10 meses de salario mínimo.
-
-c) Si el peticionario tiene de 10 a 15 años de aportaciones, el importe será hasta 15 meses de salario mínimo.
-
-d) Si tiene de 15 en adelante de haber aportado, el importe será hasta 20 meses de salario mínimo.
-
-De la cantidad total destinada anualmente para cubrir esta prestación, se afectará el 15% para los préstamos aludidos en el inciso a); 20% para los señalados en el inciso b); 30% para los referidos en el inciso c), y 35% para los del inciso d). Este tipo de créditos, se concederá una sola vez el año.
-
-En lo relativo a los pensionados, el Consejo Directivo de la Institución establecerá las normas a que, en lo aplicable, se sujetarán dichos préstamos.
+el importe de los préstamos a mediano plazo será acordado por el Consejo Directivo de manera general, con objeto de garantizar a los solicitantes un tratamiento igual; asimismo, del total asignado anualmente para cubrir esta prestación determinará los porcentajes que se destinarán para cada uno de los grupos que se establezcan por años de antigüedad en el servicio.
 
 ###### ARTICULO 119.
 
@@ -1010,17 +1004,15 @@ La asignación de créditos y el financiamiento con cargo al fondo que prevé el
 
 Los trabajadores a lista de raya que estén al servicio del Departamento del Distrito Federal, y los empleados de la Institución, tendrán derecho a las prestaciones que establece el artículo anterior, los pensionados también lo tendrán, pero de conformidad a los acuerdos generales que al respecto emita el Consejo Directivo con apoyo en las disposiciones del presente.
 
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1991)</small>
+
 ###### ARTICULO 146.
 
-Las aportaciones al fondo de la vivienda, se aplicarán totalmente para construir a favor de los trabajadores depósitos que no devengarán intereses y que se sujetarán a lo siguiente:
+Las aportaciones al fondo de la vivienda se aplicarán totalmente para constituir en favor de los trabajadores depósitos que no devengarán intereses y que se sujetarán a lo siguiente:
 
-I. Cuando un trabajador reciba financiamiento del fondo, el 40% del importe de los depósitos que hayan acumulado hasta esa fecha se aplicará como pago inicial del crédito concedido, y durante su vigencia se continuará aplicando dicho porcentaje de la aportación al pago de los abonos que debe hacer el trabajador.
+I. En casos de jubilación, incapacidad permanente total o de muerte, el trabajador o sus beneficiarios tendrán derecho a la entrega de un tanto más del saldo de los depósitos que se hubieran constituido a su favor, de conformidad con lo dispuesto por este Ordenamiento.
 
-II. En cuanto el crédito sea liquidado, se proseguirá aplicando el total de las aportaciones para integrar un nuevo depósito en favor del trabajador.
-
-III. En casos de jubilación, incapacidad permanente total o de muerte, el trabajador o sus beneficiarios tendrán derecho a la entrega de un tanto más del saldo de los depósitos que se hubieran constituido a su favor de conformidad con lo dispuesto por este Ordenamiento, y cuando aquél tenga 50 o más años de edad y deje de prestar sus servicios al Departamento del Distrito Federal, o a la Institución, solo se le entregarán los depósitos constituidos a su favor en los términos establecidos por este Reglamento.
-
-IV. Si los trabajadores hubiesen recibido crédito hipotecario con recursos del fondo, la devolución de depósitos se hará con la deducción de la cantidad aplicada al pago del crédito hipotecario de referencia, de acuerdo con la fracción I.
+II. Cuando el trabajador tenga 50 o más años de edad y deje de prestar sus servicios al Departamento del Distrito Federal, o a la Institución, sólo se le entregarán los depósitos constituidos a su favor en los términos establecidos por este Reglamento.
 
 ###### ARTICULO 147.
 
@@ -1082,9 +1074,11 @@ III. Porque deje de constituir los depósitos durante seis meses el trabajador.
 
 A los trabajadores que se jubilen o pensionen se les aplicará en lo conducente y conforme a lo que establece este Reglamento, lo dispuesto en los artículos 152 y 153. Para el caso de que opten por permanecer voluntariamente dentro del régimen del fondo, la Institución les descontará de sus pensiones las aportaciones a cargo del trabajador, jubilado o pensionado.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE MAYO DE 1991)</small>
+
 ###### ARTICULO 155.
 
-Los créditos que se otorguen a los trabajadores conforme a lo dispuesto por el artículo 143 de este Reglamento devengarán el interés anual sobre saldos insolutos que fije el Consejo Directivo anualmente, debiendo recuperarse de ambos, una cantidad de cuando menos el 25% del sueldo básico.
+Los créditos que se otorguen a los trabajadores conforme a lo dispuesto por el artículo 143 de este Reglamento devengarán el interés anual sobre saldos insolutos que fije el Consejo Directivo, el cual también determinará el porcentaje del sueldo básico que deberá recuperarse por ambos conceptos.
 
 Los descuentos totales que deban practicarse no deberán exceder del 50% de las percepciones quincenales del solicitante, en caso contrario, el monto del crédito se ajustará a la cantidad que no lo rebase.
 
@@ -1243,3 +1237,11 @@ PRIMERO. Este Reglamento de Prestaciones entrará en vigor el día siguiente de 
 SEGUNDO. Se deroga el Reglamento de fecha 23 de noviembre de 1982, publicado en la Gaceta Oficial del Departamento del Distrito Federal, el 1°. de diciembre de 1982, en cuanto a prestaciones y servicios, así como todas las disposiciones que se opongan al presente.
 
 Aprobado por el Consejo Directivo de la Caja de Previsión para Trabajadores a Lista de Raya, en su sesión celebrada el día 15 del mes de noviembre de 1988, en ejercicio de las facultades que le confieren el Artículo 85 Fracción V de su Reglamento, publicado el 1°. de diciembre de 1982, en la Gaceta Oficial del Departamento del Distrito Federal.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 13 DE MAYO DE 1991.
+
+PRIMERO.- Estas reformas entrarán en vigor el día 2 de mayo de 1991.
+
+SEGUNDO.- Publíquense en la Gaceta Oficial del Departamento del Distrito Federal.
