@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ejecucion-de-sanciones-y-medidas-de-seguridad-7165"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-21"
-last_updated: "2002-03-06"
+last_updated: "2004-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EJECUCION DE SANCIONES Y MEDIDAS DE SEGURIDAD, PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2004.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Morelos, el 21 de marzo de 1973.
 
@@ -795,6 +795,10 @@ DE LA REMISION PARCIAL DE LA SANCION.
 
 Por cada dos días de trabajo se hará remisión de uno de prisión, siempre que el interno observe buena conducta, participe regularmente en las actividades educativas que se organicen en la Institución, y revele por otros datos, a juicio del Consejo Técnico, efectiva readaptación.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
+
+Este beneficio no se otorgará a los sentenciados por delitos de los considerados como graves por la legislación penal del Estado de Morelos.
+
 ###### ARTICULO 99.
 
 La remisión parcial de la sanción, así como los días que se deben tomar en cuenta para este efecto, serán propuestos por el Consejo Técnico Interdisciplinario al Departamento de Prevención y Readaptación Social. La resolución del caso se dictará por el Departamento y se hará del conocimiento del interno interesado.
@@ -994,3 +998,11 @@ Las atribuciones competencia del extinto Departamento de Prevención y Readaptac
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE JUNIO DE 2004.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
