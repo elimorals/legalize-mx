@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-mexicano-de-la-propiedad-15265"
 country: "mx"
 rank: "estatuto"
 publication_date: "1999-12-27"
-last_updated: "1999-12-27"
+last_updated: "2002-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15265&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-12-17"
 
 ESTATUTO ORGANICO DEL INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE OCTUBRE DE 2002.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de diciembre de 1999.
 
@@ -73,7 +73,9 @@ Direcciones Divisionales de:
 
 Patentes Marcas Protección a la Propiedad Intelectual Sistemas y Tecnología de la Información Promoción y Servicios de Información Tecnológica Relaciones Internacionales Oficinas Regionales Administración Asuntos Jurídicos
 
-El Instituto cuenta con una Contraloría Interna, órgano de control interno, que se regirá conforme al artículo 39 de este Estatuto.
+> <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2002)</small>
+
+El Instituto cuenta con un Organo Interno de Control, que se regirá conforme al artículo 39 de este Estatuto.
 
 ### CAPITULO TERCERO. DE LA JUNTA DE GOBIERNO
 
@@ -591,13 +593,19 @@ A la Dirección Divisional de Asuntos Jurídicos estarán adscritas las Subdirec
 
 ### CAPITULO SEPTIMO. DE LA CONTRALORIA INTERNA
 
+> <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2002)</small>
+
 ###### ARTICULO 39.
 
-El Instituto cuenta con una Contraloría Interna, órgano de control interno, al frente de la cual el Contralor Interno designado en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades, designados en los mismos términos.
+El Instituto cuenta con el Organo Interno de Control, al frente del cual el Titular designado en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de responsabilidades, de quejas, de auditoría de control y evaluación y de auditoría interna, designados en los mismos términos.
 
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el artículo 26 fracciones III y IV del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el artículo 47 fracciones III y IV del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
 
-Las ausencias del Contralor Interno, así como las de los titulares de las áreas de responsabilidades, auditoría y quejas, serán suplidas conforme a lo previsto por el artículo 33, segundo y tercer párrafos, del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+Las ausencias del Titular del Organo Interno de Control, así como las de los titulares de las áreas de responsabilidades, de quejas, de auditoría de control y evaluación y auditoría interna, serán suplidas conforme a lo previsto por el artículo 54 del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+
+Para la atención de los asuntos y la sustanciación de los procedimientos a su cargo, el Titular del Organo Interno de Control, así como los titulares de las áreas de responsabilidades, de quejas, de auditoría de control y evaluación y auditoría interna, se auxiliarán del personal adscrito al propio Organo Interno de Control.
+
+El incumplimiento de las obligaciones previstas para el personal mencionado en el párrafo anterior, dará lugar al fincamiento de responsabilidades administrativas de conformidad con las disposiciones aplicables.
 
 ### CAPITULO OCTAVO. DEL ORGANO DE VIGILANCIA
 
@@ -640,3 +648,9 @@ TERCERO.- Los asuntos pendientes de resolución a la entrada en vigor de este Es
 CUARTO.- Los procedimientos relacionados con el recurso de reconsideración previsto en la Ley de la Propiedad Industrial iniciados conforme al Estatuto que se abroga, se seguirán substanciando ante la Dirección Divisional de Protección a la Propiedad Intelectual.
 
 Se expide en la Ciudad de México, Distrito Federal, a los diecisiete días del mes de diciembre del año de mil novecientos noventa y nueve.- El Director General del Instituto Mexicano de la Propiedad Industrial, Jorge Amigo Castañeda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DE DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 10 DE OCTUBRE DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
