@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-general-del-h-tribunal-superior-de-3664"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-08-30"
-last_updated: "1997-12-18"
+last_updated: "1998-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERIOR GENERAL DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, DE LOS JUZGADOS DE PRIMERA INSTANCIA, MENORES Y DE CONCILIACIÓN Y DE LAS DEMÁS DEPENDENCIAS DEL PROPIO TRIBUNAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 1998.
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el viernes 30 de agosto de 1991.
 
@@ -1319,6 +1319,60 @@ VI.- Comunicar al Presidente cualquier novedad que exista en el manejo de su dep
 
 VII.-Realizar todas aquellas actividades necesarias para el adecuado funcionamiento del Departamento a su cargo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ABRIL DE 1998)</small>
+
+### CAPITULO VIII. DEL CENTRO DE CAPACITACION Y ACTUALIZACION DEL PODER JUDICIAL DEL ESTADO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1998)</small>
+
+###### Artículo 128.
+
+Para el fomento de la enseñanza jurídica, la capacitación, evaluación y selección de los servidores públicos del Poder Judicial, el Pleno del Tribunal tendrá como órgano de apoyo al Centro de Capacitación y Actualización del Poder Judicial del Estado, el que dependerá del Presidente del Tribunal Superior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1998)</small>
+
+###### Artículo 129.
+
+Son funciones del Centro:
+
+I.- Operar y controlar los métodos y sistemas de enseñanza y capacitación jurídica, y de evaluación y selección de personal, para su ingreso en el servicio judicial de carrera;
+
+II.- Elaborar el Programa Anual de Enseñanza Jurídica y Capacitación de los Servidores del Poder Judicial del Estado, determinando los niveles y categorías del personal obligado a recibirlas; y someterlo a la aprobación del Pleno del Tribunal, durante la primera quincena del mes de enero;
+
+III.- Organizar la realización de cursos, seminarios, talleres y conferencias dirigidos a los servidores del Poder Judicial;
+
+IV.- Concertar la celebración de convenios entre el Pleno del Tribunal y Universidades e Instituciones de Educación Superior Estatales, Nacionales e Internacionales, para el mejoramiento profesional de los servidores del Poder Judicial;
+
+V.- Hacer el seguimiento y evaluación del aprovechamiento de los capacitados, integrando los correspondientes expedientes e informando sobre el particular al Tribunal Pleno y a los Titulares de los Juzgados y Dependencias Administrativas del Tribunal Superior, para efectos de propuestas, nombramientos y remociones;
+
+VI.- Organizar los exámenes de oposiciones para el nombramiento de Secretarios y Actuarios de Sala, Jueces de Primera Instancia y Menores, Secretarios y Actuarios de Juzgados de Primera Instancia y Menores, determinando los requisitos que deben cumplirse para participar en ellos, elaborando los cuestionarios a que se sujetarán y expidiendo la respectiva convocatoria, lo que someterá previamente a la aprobación del Pleno;
+
+VII.- Organizar y controlar la Biblioteca del Poder Judicial del Estado, y
+
+VIII.- Todas aquellas que le asigne el Pleno y la Presidencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1998)</small>
+
+###### Artículo 130.
+
+El Centro contará con un Director, un Secretario Académico, con el número de Coordinadores, Investigadores y demás personal académico y administrativo que requiera para el eficaz cumplimiento de sus funciones y permita el Presupuesto de Egresos del Poder Judicial del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1998)</small>
+
+###### Artículo 131.
+
+El Director y demás servidores del Centro serán nombrados por el Tribunal Pleno a propuesta de su Presidente. Para ser Director se requiere satisfacer los mismos requisitos que se exigen para ser Juez de Primera Instancia.
+
 ## ARTICULOS TRANSITORIOS
 
 PRIMERO.- El presente reglamento entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -1378,3 +1432,11 @@ P.O. 18 DE DICIEMBRE DE 1997.
 Primero.- Las presentes adiciones entrarán en vigor, a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
 
 Segundo.- Con fundamento en los Artículos 3 y 4 del Código Civil vigente del Estado, publíquese este acuerdo en el Periódico Oficial del Gobierno Constitucional del Estado de Campeche, por una sola vez, y hágase del conocimiento del Foro Campechano y público en General.
+
+P.O. 2 DE ABRIL DE 1998.
+
+PRIMERO.- El presente Acuerdo entrará en vigor 10 días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todos los Acuerdos y disposiciones reglamentarias expedidas por el Pleno del H. Tribunal Superior de Justicia del Estado de Campeche, en lo que se opongan al contenido del presente Acuerdo.
+
+TERCERO.- En su oportunidad elaborar el Proyecto de Reglamento Interior y someterlo a la aprobación del Pleno. Entretanto se hacen las correspondientes adecuaciones al Presupuesto de Egresos del Poder Judicial del Estado para el Ejercicio Fiscal de 1998 e instala el Centro de Capacitación y Actualización del Poder Judicial del Estado, el Pleno del Tribunal ha designado una Comisión integrada por tres de sus Magistrados para cumplir con la atribución indicada en la Fracción VII del Artículo 129 que se adiciona.
