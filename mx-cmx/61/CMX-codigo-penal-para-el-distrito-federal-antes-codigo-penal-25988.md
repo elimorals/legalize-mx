@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1998-12-31"
+last_updated: "1999-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "1931-08-13"
 ---
 # CODIGO PENAL PARA EL DISTRITO FEDERAL -ANTES CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES-
 
-CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
+CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE SEPTIEMBRE DE 1999.
+
+(REPUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 1999.)
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -34,57 +36,41 @@ El C. Presidente Constitucional de los Estados Unidos Mexicanos, se ha servido d
 
 Que en uso de las facultades que le fueron concedidas por Decreto de 2 de enero de 1931, ha tenido a bien expedir el siguiente
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 17 DE SEPTIEMBRE DE 1999)</small>
 
-CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
+(REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+CODIGO PENAL PARA EL DISTRITO FEDERAL
 
 # LIBRO PRIMERO
 
-## TITULO PRELIMINAR
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+## TITULO PRELIMINAR. (REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 1o.
 
-Este Código se aplicará en el Distrito Federal, por los delitos de la competencia de los tribunales comunes; y en toda la República, para los delitos de la competencia de los tribunales federales.
+Este Código se aplicará en el Distrito Federal por los delitos de la competencia del fuero común cometidos en su territorio.
 
-###### ARTICULO 2°.
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-Se derogan todas las disposiciones que se opongan a las presentes reformas y adiciones.
+###### ARTICULO 2.
 
-D.O.F. 14 DE NOVIEMBRE DE 1941.
+Se aplicará asimismo por los delitos:
+
+I.- Cometidos en alguna entidad federativa, cuando produzcan sus efectos dentro del territorio del Distrito Federal; y
+
+II.- Continuos o continuados, cometidos en alguna entidad federativa y que se sigan cometiendo en el territorio del Distrito Federal.
 
 ###### ARTICULO 3o.
 
-Los delitos continuos cometidos en el extranjero, que se sigan cometiendo en la República, se perseguirán con arreglo a las leyes de ésta, sean mexicanos o extranjeros los delincuentes.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE ENERO DE 1985)</small>
-
-La misma regla se aplicará en el caso de delitos continuados.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 4o.
 
-Los delitos cometidos en territorio extranjero por un mexicano contra mexicanos o contra extranjeros, o por un extranjero contra mexicanos, serán penados en la República, con arreglo a las leyes federales, si concurren los requisitos siguientes:
-
-I.- Que el acusado se encuentre en la República;
-
-II.- Que el reo no haya sido definitivamente juzgado en el país en que delinquió, y
-
-III.- Que la infracción de que se le acuse tenga el carácter de delito en el país en que se ejecutó y en la República.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 5o.
 
-Se considerarán como ejecutados en territorio de la República:
-
-I.- Los delitos cometidos por mexicanos o por extranjeros en alta mar, a bordo de buques nacionales;
-
-II.- Los ejecutados a bordo de un buque de guerra nacional surto en puerto o en aguas territoriales de otra nación. Esto se extiende al caso en que el buque sea mercante, si el delincuente no ha sido juzgado en la nación a que pertenezca el puerto;
-
-III.- Los cometidos a bordo de un buque extranjero surto en puerto nacional o en aguas territoriales de la República, si se turbare la tranquilidad pública o si el delincuente o el ofendido no fueren de la tripulación. En caso contrario, se obrará conforme al derecho de reciprocidad;
-
-IV.- Los cometidos a bordo de aeronaves nacionales o extranjeras que se encuentren en territorio o en atmósfera o aguas territoriales nacionales o extranjeras, en casos análogos a los que señalan para buques las fracciones anteriores, y
-
-V.- Los cometidos en las embajadas y legaciones mexicanas.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 > <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
@@ -230,21 +216,31 @@ I.- El hecho se realice sin intervención de la voluntad del agente;
 
 II.- Falte alguno de los elementos del tipo penal del delito de que se trate;
 
-III.- Se actúe con el consentimiento del titular del bien jurídico afectado, siempre que se llenen los siguientes requisitos:
+(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+III.- Se actúe con el consentimiento del titular del bien jurídico afectado, o del legitimado legalmente para otorgarlo, siempre y cuando se llenen los siguientes requisitos:
 
 a) Que el bien jurídico sea disponible;
 
-b) Que el titular del bien tenga la capacidad jurídica para disponer libremente del mismo; y
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-c) Que el consentimiento sea expreso o tácito y sin que medie algún vicio; o bien, que el hecho se realice en circunstancias tales que permitan fundadamente presumir que, de haberse consultado al titular, éste hubiese otorgado el mismo;
+b) Que el titular, o quien esté legitimado para consentir, tenga la capacidad jurídica para disponer libremente del bien, y
 
-IV.- Se repela una agresión real, actual o inminente, y sin derecho, en protección de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa y racionalidad de los medios empleados y no medie provocación dolosa suficiente e inmediata por parte del agredido o de la persona a quien se defiende.
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-Se presumirá como defensa legítima, salvo prueba en contrario, el hecho de causar daño a quien por cualquier medio trate de penetrar, sin derecho, al hogar del agente, al de su familia, a sus dependencias, o a los de cualquier persona que tenga la obligación de defender, al sitio donde se encuentren bienes propios o ajenos respecto de los que exista la misma obligación; o bien, lo encuentre en alguno de aquellos lugares en circunstancias tales que revelen la probabilidad de una agresión;
+c) Que el consentimiento sea expreso o tácito y no medie algún vicio del consentimiento. Se presume que hay consentimiento tácito cuando el hecho se realice en circunstancias tales que permitan suponer fundadamente que, de haberse consultado al titular del bien o a quien esté legitimado para consentir, estos hubiesen otorgado el consentimiento;
+
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+IV. Se repela una agresión real, actual o inminente y sin derecho, en protección de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa, racionalidad en la defensa respecto a la amenaza y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor;
+
+Se presume que existe legítima defensa, salvo prueba en contrario, cuando se cause un daño a quien por cualquier medio trate de penetrar o penetre, sin derecho, al hogar del que se defiende, al de su familia o al de cualquier persona respecto de las que el inculpado tenga la obligación de defender, o a sus dependencias, o al sitio donde se encuentren bienes propios o ajenos respecto de los que exista la misma obligación. Igual presunción existirá cuando el daño se cause a un intruso al momento de sorprenderlo en alguno de los lugares antes citados en circunstancias tales que revelen la probabilidad de una agresión;
 
 V.- Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el agente, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el agente no tuviere el deber jurídico de afrontarlo;
 
-VI.- La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional del medio empleado para cumplir el deber o ejercer el derecho, y que este último no se realice con el solo propósito de perjudicar a otro;
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+VI.- La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional de la conducta empleada para cumplir el deber o ejercer el derecho, y que este último no se realice con el solo propósito de perjudicar a otro;
 
 VII.- Al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el agente hubiere provocado su trastorno mental dolosa o culposamente, en cuyo caso responderá por el resultado típico siempre y cuando lo haya previsto o le fuere previsible.
 
@@ -306,9 +302,11 @@ Si el reincidente en el mismo género de infracciones comete un nuevo delito pro
 
 En las prevenciones de los artículos anteriores se comprenden los casos en que uno solo de los delitos, o todos, queden en cualquier momento de la tentativa, sea cual fuere el carácter con que intervenga el responsable.
 
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 ###### ARTICULO 23.
 
-No se aplicarán los artículos anteriores tratándose de delitos políticos y cuando el agente haya sido indultado por ser inocente.
+No se aplicarán los artículos anteriores cuando el agente haya obtenido el reconocimiento judicial de inocencia.
 
 ## TITULO SEGUNDO
 
@@ -324,15 +322,17 @@ Las penas y medidas de seguridad son:
 
 2.- Tratamiento en libertad, semilibertad y trabajo en favor de la comunidad.
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-3.- Internamiento o tratamiento en libertad de inimputables y de quienes tengan el hábito o la necesidad de consumir estupefacientes o psicotrópicos.
+3.- Internamiento o tratamiento en libertad de inimputables y de quienes tengan el hábito o la necesidad de consumir estupefacientes o psicotrópicos, o tratándose de violencia familiar, de quienes tengan necesidad de consumir bebidas embriagantes.
 
 4.- Confinamiento.
 
 5.- Prohibición de ir a lugar determinado.
 
-6.- Sanción pecuniaria.
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+6.- Sanción pecuniaria que comprende la multa, la reparación del daño y la sanción económica.
 
 7.- (DEROGADO, D.O.F. 13 DE ENERO DE 1984)
 
@@ -370,17 +370,19 @@ Y las demás que fijen las leyes.
 
 ### CAPITULO II. Prisión
 
-(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 25.
 
-La prisión consiste en la privación de la libertad corporal y su duración será de tres días a cuarenta años, con excepción de lo previsto por los artículos 315 bis, 320, 324 y 366 en que el límite máximo de la pena será de cincuenta años; y se extinguirá en las colonias penitenciarias, establecimientos o lugares que al efecto señalen las leyes o el órgano ejecutor de las sanciones penales, ajustándose a la resolución judicial respectiva.
+La prisión consiste en la privación de la libertad corporal y su duración será de tres días a cuarenta años, con excepción de lo previsto por los artículos 315 bis, 320, 324 y 366 en que el límite máximo de la pena será de cincuenta años; y se extinguirá en los lugares que al efecto señalen las leyes o el órgano ejecutor de las sanciones penales, ajustándose a la resolución judicial respectiva.
 
-En toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención.
+En toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención y del arraigo.
+
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 26.
 
-Los procesados sujetos a prisión preventiva y los reos políticos, serán recluídos en establecimientos o departamentos especiales.
+Los procesados sujetos a prisión preventiva serán recluidos en establecimientos o departamentos especiales.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -408,31 +410,53 @@ Por ningún concepto se desarrollará este trabajo en forma que resulte degradan
 
 ### CAPITULO IV. Confinamiento
 
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 ###### ARTICULO 28.
 
-El confinamiento consiste en la obligación de residir en determinado lugar y no salir de él. El Ejecutivo hará la designación del lugar, conciliando las exigencias de la tranquilidad pública con la salud y las necesidades del condenado. Cuando se trate de delitos políticos, la designación la hará el juez que dicte la sentencia.
+El confinamiento consiste en la obligación de residir en determinado lugar y no salir de él. El Ejecutivo hará la designación del lugar, conciliando las exigencias de la tranquilidad pública con la salud y las necesidades del condenado.
 
 ### CAPITULO V. Sanción pecuniaria
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
+(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 29.
 
-La sanción pecuniaria comprende la multa y la reparación del daño.
+La sanción pecuniaria comprende la multa, la reparación del daño y la sanción económica.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 La multa consiste en el pago de una cantidad de dinero al Estado, que se fijará por días multa, los cuales no podrán exceder de quinientos, salvo los casos que la propia ley señale. El día multa equivale a la percepción neta diaria del sentenciado en el momento de consumar el delito, tomando en cuenta todos sus ingresos.
 
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
+
 Para los efectos de este Código, el límite inferior del día multa será el equivalente al salario mínimo diario vigente en el lugar donde se consumó el delito. Por lo que toca al delito continuado, se atenderá al salario mínimo vigente en el momento consumativo de la última conducta. Para el permanente, se considerará el salario mínimo en vigor en el momento en que cesó la consumación.
+
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
 Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella, la autoridad judicial podrá sustituirla, total o parcialmente, por prestación del trabajo en favor de la comunidad.
 
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
+
 Cada jornada de trabajo saldará un día multa. Cuando no sea posible o conveniente la sustitución de la multa por la prestación de servicios, la autoridad judicial podrá colocar al sentenciado en libertad bajo vigilancia, que no excederá del número de días multa sustituidos.
+
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
 Si el sentenciado se negare sin causa justificada a cubrir el importe de la multa, el Estado la exigirá mediante el procedimiento económico coactivo.
 
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
+
 En cualquier tiempo podrá cubrirse el importe de la multa, descontándose de ésta la parte proporcional a las jornadas de trabajo prestado en favor de la comunidad, o al tiempo de prisión que el reo hubiere cumplido tratándose de la multa sustitutiva de la pena privativa de libertad, caso en el cual la equivalencia será a razón de un día multa por un día de prisión.
+
+(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+Tratándose de los delitos contemplados en el título décimo de este Código, cuando como consecuencia del acto u omisión se obtenga un lucro o se causen daños y perjuicios se aplicará la sanción económica que consistirá en la aplicación de hasta tres tantos del lucro obtenido y de los daños y perjuicios causados.
+
+(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+Para los efectos de este Código se entiende por salario mínimo el salario mínimo general diario vigente en el Distrito Federal.
+
+(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 30.
 
@@ -442,17 +466,25 @@ La reparación del daño comprende:
 
 I.- La restitución de la cosa obtenida por el delito y si no fuere posible, el pago del precio de la misma;
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-II.- La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima. En los casos de delitos contra la libertad y el normal desarrollo psicosexual y de violencia familiar, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima, y
+II.- La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos psicoterapéuticos y curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima; y
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
 III.- El resarcimiento de los perjuicios ocasionados.
 
-> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 1991)</small>
+(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-ARTICULO 30 bis.- Tienen derecho a la reparación del daño en el siguiente orden: 1o. El ofendido; 2o. En caso de fallecimiento del ofendido, el cónyuge supérstite o el concubinario o concubina, y los hijos menores de edad; a falta de éstos los demás descendientes y ascendientes que dependieran económicamente de él al momento del fallecimiento.
+Tratándose de delitos que afecten la vida y la integridad corporal, el monto de la reparación del daño no podrá ser menor del que resulte aplicándose las disposiciones relativas de la Ley Federal del Trabajo.
+
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+ARTICULO 30 BIS.- Tienen derecho a la reparación del daño en el siguiente orden:
+
+a) La víctima o el ofendido; y
+
+b) En caso de fallecimiento de la víctima, las personas que dependiesen económicamente de él al momento del fallecimiento, o sus derechohabientes.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -460,13 +492,17 @@ ARTICULO 30 bis.- Tienen derecho a la reparación del daño en el siguiente orde
 
 La reparación será fijada por los jueces, según el daño que sea preciso reparar, de acuerdo con las pruebas obtenidas en el proceso.
 
-Para los casos de reparación del daño causado con motivo de delitos por imprudencia, el Ejecutivo de la Unión reglamentará, sin perjuicio de la resolución que se dicte por la autoridad judicial, la forma en que, administrativamente, deba garantizarse mediante seguro especial dicha reparación.
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+Para los casos de reparación del daño causado con motivo de delitos culposos, el Ejecutivo local reglamentará, sin perjuicio de la resolución que se dicte por la autoridad judicial, la forma en que, administrativamente, deba garantizarse mediante seguro especial dicha reparación.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ARTICULO 31 bis.- En todo proceso penal el Ministerio Público estará obligado a solicitar, en su caso, la condena en lo relativo a la reparación del daño y el juez a resolver lo conducente.
 
-El incumplimiento de esta disposición será sancionado con multa de treinta a cincuenta días de salario mínimo.
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+El incumplimiento de esta disposición será sancionado con multa de treinta a cincuenta días multa.
 
 ###### ARTICULO 32.
 
@@ -494,11 +530,15 @@ VI.- El Estado, solidariamente, por los delitos dolosos de sus servidores públi
 
 La obligación de pagar la sanción pecuniaria es preferente con respecto a cualesquiera otras contraídas con posterioridad al delito, a excepción de las referentes a alimentos y relaciones laborales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 34.
 
-La reparación del daño proveniente de delito que deba ser hecha por el delincuente tiene el carácter de pena pública y se exigirá de oficio por el Ministerio Público. El ofendido o sus derechohabientes podrán aportar al Ministerio Público o al juez en su caso, los datos y pruebas que tengan para demostrar la procedencia y monto de dicha reparación, en los términos que prevenga el Código de Procedimientos Penales.
+La reparación del daño proveniente de delito que deba ser hecha por el delincuente tiene el carácter de pena pública y se exigirá de oficio por el Ministerio Público. La víctima, el ofendido, sus dependientes económicos o sus derechohabientes podrán aportar al Ministerio Público o al Juez, en su caso, los datos y pruebas que tengan para demostrar la procedencia y monto de dicha reparación, en los términos que prevenga el Código de Procedimientos Penales.
+
+(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+En toda sentencia condenatoria el juez deberá resolver sobre la reparación del daño, ya sea absolviendo o condenando a pagar cantidad precisa y no dejar a salvo los derechos del ofendido ni aplazar la determinación del monto a incidente o resolución posterior.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -560,7 +600,9 @@ La autoridad a quien corresponda el cobro de la multa podrá fijar plazos para e
 
 Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Si son de uso lícito, se decomisarán cuando el delito sea intencional. Si pertenecen a un tercero, sólo se decomisarán cuando el tercero que los tenga en su poder o los haya adquirido bajo cualquier título, esté en alguno de los supuestos a los que se refiere el Artículo 400 de este Código, independientemente de la naturaleza jurídica de dicho tercero propietario o poseedor y de la relación que aquel tenga con el delincuente, en su caso. Las autoridades competentes procederán al inmediato aseguramiento de los bienes que podrían ser materia del decomiso, durante la averiguación o en el proceso. Se actuará en los términos previstos por este párrafo cualquiera que sea la naturaleza de los instrumentos, objetos o productos del delito.
 
-Si los instrumentos o cosas decomisados son sustancias nocivas o peligrosas, se destruirán a juicio de la autoridad que esté conociendo, en los términos previstos por el Código de Procedimientos Penales, pero aquélla, cuando lo estime conveniente, podrá determinar su conservación para fines de docencia o investigación. Respecto de los instrumentos del delito, o cosas que sean objeto o producto de él, la autoridad competente determinará su destino, según su utilidad, para beneficio de la administración de justicia.
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+La autoridad competente determinará el destino de los instrumentos o cosas decomisadas, al pago de la reparación de daños y perjuicios causados por el delito, al de la multa o, en su defecto, según su utilidad, para el mejoramiento de la procuración y la administración de justicia.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -664,11 +706,15 @@ I.- La magnitud del daño causado al bien jurídico o del peligro a que hubiere 
 
 II.- La naturaleza de la acción u omisión y de los medios empleados para ejecutarla;
 
-III.- Las circunstancias de tiempo, lugar, modo u ocasión del hecho realizado;
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+III. Las circunstancias de tiempo, lugar, modo y ocasión del hecho realizado;
 
 IV.- La forma y grado de intervención del agente en la comisión del delito, así como su calidad y la de la víctima u ofendido;
 
-V.- La edad, la educación, la ilustración, las costumbres, las condiciones sociales y económicas del sujeto, así como los motivos que lo impulsaron o determinaron a delinquir. Cuando el procesado perteneciere a un grupo étnico indígena, se tomarán en cuenta, además, sus usos y costumbres;
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+V. La edad, el nivel de educación, las costumbres, las condiciones sociales, económicas y culturales del sujeto, así como los motivos que lo impulsaron o determinaron a delinquir. Cuando el procesado perteneciere a un grupo étnico o pueblo indígenas, se tomarán en cuenta, además, sus usos y costumbres;
 
 VI.- El comportamiento posterior del acusado con relación al delito cometido; y
 
@@ -750,9 +796,9 @@ III.- Si el inculpado ha delinquido anteriormente en circunstancias semejantes;
 
 IV.- Si tuvo tiempo para obrar con la reflexión y cuidado necesarios, y
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1955)</small>
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-V.- El estado del equipo, vías y demás condiciones de funcionamiento mecánico, tratándose de infracciones cometidas en los servicios de empresas transportadoras, y en general, por conductores de vehículos.
+V.- El estado del equipo, vías y demás condiciones de funcionamiento mecánico, tratándose de infracciones cometidas en los servicios de transporte, y en general, por conductores de vehículos; y
 
 VI.- (DEROGADA, D.O.F. 10 DE ENERO DE 1994)
 
@@ -900,13 +946,7 @@ En caso de haberse nombrado fiador para el cumplimiento de los deberes inherente
 
 ###### ARTICULO 73.
 
-El Ejecutivo, tratándose de delitos políticos, podrá hacer la conmutación de sanciones, después de impuestas en sentencia irrevocable, conforme a las siguientes reglas:
-
-I.- Cuando la sanción impuesta sea la de prisión, se conmutará en confinamiento por un término igual al de los dos tercios del que debía durar la prisión, y
-
-> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 1984)</small>
-
-II.- Si fuere la de confinamiento, se conmutará por multa, a razón de un día de aquél por un día multa.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -918,11 +958,11 @@ El reo que considere que al dictarse sentencia reunía las condiciones para el d
 
 En todo caso en que proceda la substitución o la conmutación de la pena, al hacerse el cálculo de la sanción substitutiva se disminuirá además de lo establecido en el último párrafo del artículo 29 de este Código, el tiempo durante el cual el sentenciado sufrió prisión preventiva.
 
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 75.
 
-Cuando el reo acredite plenamente que no puede cumplir alguna de las modalidades de la sanción que le fue impuesta por ser incompatible con su edad, sexo, salud, o constitución física, la Dirección General de Servicios Coordinados de Prevención y Readaptación Social podrá modificar aquélla, siempre que la modificación no sea esencial.
+Cuando el reo acredite plenamente que no puede cumplir alguna de las modalidades de la sanción que le fue impuesta por ser incompatible con su edad, sexo, salud o constitución física, la autoridad ejecutora podrá modificar aquélla, siempre que la modificación no sea esencial.
 
 > <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
@@ -934,9 +974,11 @@ Para la procedencia de la substitución y la conmutación, se exigirá al conden
 
 ### CAPITULO I. Ejecución de las sentencias
 
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 ###### ARTICULO 77.
 
-Corresponde al Ejecutivo Federal la ejecución de las sanciones con consulta del órgano técnico que señale la ley.
+Corresponde al Ejecutivo local la ejecución de las sanciones, con consulta del órgano técnico que señale la ley.
 
 ###### ARTICULO 78.
 
@@ -990,11 +1032,11 @@ c) Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes:
 
 d).- Sujetarse a las medidas de orientación y supervisión que se le dicten y a la vigilancia de alguna persona honrada y de arraigo, que se obligue a informar sobre su conducta, presentándolo siempre que para ello fuere requerida.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994) (F. DE E., D.O.F. 1 DE FEBRERO DE 1994)
+(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 85.
 
-La libertad preparatoria no se concederá a los sentenciados por alguno de los delitos contra la salud en materia de narcóticos previsto en los artículos 194 y 196 bis; por el delito de violación previsto en el primero y segundo párrafos del artículo 265 en relación con el artículo 266 Bis fracción I; por el delito de plagio y secuestro previsto por el artículo 366, con excepción de lo previsto en la fracción VI de dicho artículo en relación con su antepenúltimo párrafo y lo dispuesto en el penúltimo párrafo; por el delito de robo con violencia en las personas en un inmueble habitado o destinado para habitación, conforme a lo previsto en el artículo 367 en relación con los artículos 372 y 381 Bis, de este Código, así como a los habituales y a quienes hubieran incurrido en segunda reincidencia.
+La libertad preparatoria no se concederá a los sentenciados por el delito de violación, previsto en el artículo 265 en relación con el artículo 266 bis, fracción I; por los delitos graves que dolosamente afecten la integridad física o emocional de los menores; por el delito de plagio y secuestro previsto por el artículo 366, con excepción de lo previsto en la fracción VI de dicho artículo en relación con su antepenúltimo párrafo y lo dispuesto en el penúltimo párrafo; por el delito de robo con violencia en las personas en un inmueble habitado o destinado para habitación, conforme a lo previsto en el artículo 367 en relación con los artículos 372 y 381 bis, de este Código, así como a los habituales y a quienes hubieran incurrido en segunda reincidencia.
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -1014,11 +1056,11 @@ II.- Si el liberado es condenado por nuevo delito doloso mediante sentencia ejec
 
 El condenado cuya libertad preparatoria haya sido revocada, deberá cumplir el resto de la pena. Los hechos que originen los nuevos procesos a que se refiere este artículo interrumpen los plazos para extinguir la sanción.
 
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 87.
 
-Los sentenciados que disfruten de libertad preparatoria, quedarán bajo el cuidado y vigilancia de la Dirección General de Servicios Coordinados de Prevención y Readaptación Social.
+Los sentenciados que disfruten de libertad preparatoria, quedarán bajo el cuidado y vigilancia de la autoridad ejecutora.
 
 ###### ARTICULO 88.
 
@@ -1070,7 +1112,9 @@ III.- La suspensión comprenderá la pena de prisión y la multa, y en cuanto a 
 
 IV.- A los delincuentes a quienes se haya suspendido la ejecución de la sentencia, se les hará saber lo dispuesto en este artículo, lo que se asentará en diligencia formal, sin que la falta de ésta impida, en su caso, la aplicación de lo prevenido en el mismo.
 
-V.- Los sentenciados que disfruten de los beneficios de la condena condicional quedarán sujetos al cuidado y vigilancia de la Dirección General de Servicios Coordinados de Prevención y Readaptación Social.
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+V.- Los sentenciados que disfruten de los beneficios de la condena condicional quedarán sujetos al cuidado y vigilancia de la autoridad ejecutora;
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -1132,13 +1176,15 @@ El perdón del ofendido y del legitimado para otorgarlo en delitos de los mencio
 
 ### CAPITULO IV. Reconocimiento de inocencia e indulto
 
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 ###### ARTICULO 94.
 
-El indulto no puede concederse, sino de sanción impuesta en sentencia irrevocable.
+Por lo que hace al indulto se estará a lo dispuesto por el artículo 89, fracción XIV, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 95.
 
-No podrá concederse de la inhabilitación para ejercer una profesión o alguno de los derechos civiles o políticos, o para desempeñar determinado cargo o empleo, pues estas sanciones sólo se extinguirán por la amnistía o la rehabilitación.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -1146,23 +1192,15 @@ No podrá concederse de la inhabilitación para ejercer una profesión o alguno 
 
 Cuando aparezca que el sentenciado es inocente, se procederá al reconocimiento de su inocencia, en los términos previstos por el Código de Procedimientos Penales aplicable y se estará a lo dispuesto en el artículo 49 de este Código.
 
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 1989)</small>
-
 ###### ARTICULO 97.
 
-Cuando la conducta observada por el sentenciado refleje un alto grado de readaptación social y su liberación no represente un peligro para la tranquilidad y seguridad públicas, conforme al dictamen del órgano ejecutor de la sanción y no se trate de sentenciado por traición a la Patria, espionaje, terrorismo, sabotaje, genocidio, delitos contra la salud, violación, delito intencional contra la vida y secuestro, ni de reincidente por delito intencional, se le podrá conceder indulto por el Ejecutivo Federal, en uso de facultades discrecionales, expresando sus razones y fundamentos en los casos siguientes:
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-I. Por los delitos de carácter político a que alude el artículo 144 de este Código;
-
-II. Por otros delitos cuando la conducta de los responsables haya sido determinada por motivaciones de carácter político o social, y
-
-III. Por delitos de orden federal o común en el Distrito Federal, cuando el sentenciado haya prestado importantes servicios a la Nación, y previa solicitud.
-
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 1989)</small>
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 98.
 
-El indulto en ningún caso extinguirá la obligación de reparar el daño causado. El reconocimiento de la inocencia del sentenciado extingue la obligación de reparar el daño.
+El reconocimiento de la inocencia del sentenciado extingue la obligación de reparar el daño.
 
 ### CAPITULO V. Rehabilitación
 
@@ -1298,11 +1336,13 @@ Salvo que la ley disponga otra cosa, la pena privativa de libertad prescribirá 
 
 Cuando el reo hubiere extinguido ya una parte de su sanción, se necesitará para la prescripción tanto tiempo como el que falte de la condena y una cuarta parte más, pero no podrá ser menor de un año.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 115.
 
-La prescripción de la sanción privativa de libertad sólo se interrumpe aprehendiendo al reo, aunque la aprehensión se ejecute por otro delito diverso, o por la formal solicitud de entrega que el Ministerio Público de una entidad federativa haga al de otra en que aquél se encuentre detenido, en cuyo caso subsistirá la interrupción hasta en tanto la autoridad requerida niegue dicha entrega o desaparezca la situación legal del detenido que motive aplazar el cumplimiento de lo solicitado.
+La prescripción de la sanción privativa de libertad sólo se interrumpe aprehendiendo al reo, aunque la aprehensión se ejecute por otro delito diverso, o por la formal solicitud de entrega que el Ministerio Público haga al de otra entidad federativa en que aquél se encuentre detenido, en cuyo caso subsistirá la interrupción hasta en tanto la autoridad requerida niegue dicha entrega o desaparezca la situación legal del detenido que motive aplazar el cumplimiento de lo solicitado.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 La prescripción de las demás sanciones se interrumpirá por cualquier acto de autoridad competente para hacerlas efectivas. También se interrumpirá la prescripción de la pena de reparación del daño o de otras de carácter pecuniario, por las promociones que el ofendido o persona a cuyo favor se haya decretado dicha reparación haga ante la autoridad fiscal correspondiente y por las actuaciones que esa autoridad realice para ejecutarlas, así como por el inicio de juicio ejecutivo ante autoridad civil usando como título la sentencia condenatoria correspondiente.
 
@@ -1374,257 +1414,129 @@ ARTICULO 118 bis.- Cuando el inimputable sujeto a una medida de tratamiento se e
 
 ### CAPITULO I. Traición a la Patria
 
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
-
 ###### ARTICULO 123.
 
-Se impondrá la pena de prisión de cinco a cuarenta años y multa hasta de cincuenta mil pesos al mexicano que cometa traición a la patria en alguna de las formas siguientes:
-
-I.- Realice actos contra la independencia, soberanía o integridad de la Nación Mexicana con la finalidad de someterla a persona, grupo o gobierno extranjero;
-
-II.- Tome parte en actos de hostilidad en contra de la Nación, mediante acciones bélicas a las órdenes de un Estado extranjero o coopere con éste en alguna forma que pueda perjudicar a México.
-
-Cuando los nacionales sirvan como tropa, se impondrá pena de prisión de uno a nueve años y multa hasta de diez mil pesos;
-
-> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 1992)</small>
-
-Se considerará en el supuesto previsto en el primer párrafo de esta fracción, al que prive ilegalmente de su libertad a una persona en el territorio nacional para entregarla a las autoridades de otro país o trasladarla fuera de México con tal propósito.
-
-III.- Forme parte de grupos armados dirigidos o asesorados por extranjeros; organizados dentro o fuera del país, cuando tengan por finalidad atentar contra la independencia de la República, su soberanía, su libertad o su integridad territorial o invadir el territorio nacional, aun cuando no exista declaración de guerra;
-
-IV.- Destruya o quite dolosamente las señales que marcan los límites del territorio nacional, o haga que se confundan, siempre que ello origine conflicto a la República, o ésta se halle en estado de guerra;
-
-V.- Reclute gente para hacer la guerra a México, con la ayuda o bajo la protección de un gobierno extranjero;
-
-VI.- Tenga, en tiempos de paz o de guerra, relación o inteligencia con persona, grupo o gobierno extranjeros o le dé instrucciones, información o consejos, con objeto de guiar a una posible invasión del territorio nacional o de alterar la paz interior;
-
-VII.- Proporcione dolosamente y sin autorización, en tiempos de paz o de guerra, a persona, grupo o gobierno extranjeros, documentos, instrucciones o datos de establecimientos o de posibles actividades militares;
-
-VIII.- Oculte o auxilie a quien cometa actos de espionaje, sabiendo que los realiza;
-
-IX.- Proporcione a un Estado extranjero o a grupos armados dirigidos por extranjeros, los elementos humanos o materiales para invadir el territorio nacional, o facilite su entrada a puestos militares o le entregue o haga entregar unidades de combate o almacenes de boca o guerra o impida que las tropas mexicanas reciban estos auxilios;
-
-X.- Solicite la intervención o el establecimiento de un protectorado de un Estado extranjero o solicite que aquel haga la guerra a México; si no se realiza lo solicitado, la prisión será de cuatro a ocho años y multa hasta de diez mil pesos;
-
-XI.- Invite a individuos de otro Estado para que hagan armas contra México o invadan el territorio nacional, sea cual fuere el motivo que se tome; si no se realiza cualquiera de estos hechos, se aplicará la pena de cuatro a ocho años de prisión y multa hasta de diez mil pesos;
-
-XII.- Trate de enajenar o gravar el territorio nacional o contribuya a su desmembración;
-
-XIII.- Reciba cualquier beneficio, o acepte promesa de recibirlo, con el fin de realizar alguno de los actos señalados en este artículo;
-
-XIV.- Acepte del invasor un empleo, cargo o comisión y dicte, acuerde o vote providencias encaminadas a afirmar al gobierno intruso y debilitar al nacional; y
-
-XV.- Cometa, declarada la guerra o rotas las hostilidades, sedición, motín, rebelión, terrorismo, sabotaje o conspiración.
-
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 124.
 
-Se aplicará la pena de prisión de cinco a veinte años y multa hasta de veinticinco mil pesos, al mexicano que:
-
-I.- Sin cumplir las disposiciones constitucionales, celebre o ejecute tratados o pactos de alianza ofensiva con algún Estado, que produzcan o puedan producir la guerra de México con otro, o admita tropas o unidades de guerra extranjeras en el país;
-
-II.- En caso de una invasión extranjera, contribuya a que en los lugares ocupados por el enemigo se establezca un gobierno de hecho, ya sea dando su voto, concurriendo a juntas, firmando actas o representaciones o por cualquier otro medio;
-
-III.- Acepte del invasor un empleo, cargo o comisión, o al que, en el lugar ocupado, habiéndolo obtenido de manera legítima lo desempeñe en favor del invasor; y
-
-IV.- Con actos no autorizados ni aprobados por el gobierno, provoque una guerra extranjera con México, o exponga a los mexicanos a sufrir por esto, vejaciones o represalias.
-
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 125.
 
-Se aplicará la pena de dos a doce años de prisión y multa de mil a veinte mil pesos al que incite al pueblo a que reconozca al gobierno impuesto por el invasor o a que acepte una invasión o protectorado extranjero.
-
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 126.
 
-Se aplicarán las mismas penas a los extranjeros que intervengan en la comisión de los delitos a que se refiere este Capítulo, con excepción de los previstos en las fracciones VI y VII del artículo 123.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ### CAPITULO II. Espionaje
 
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
-
 ###### ARTICULO 127.
 
-Se aplicará la pena de prisión de cinco a veinte años y multa hasta de cincuenta mil pesos al extranjero que en tiempo de paz, con objeto de guiar a una posible invasión del territorio nacional o de alterar la paz interior, tenga relación o inteligencia con persona, grupo o gobierno extranjeros o le dé instrucciones, información o consejos.
-
-La misma pena se impondrá al extranjero que en tiempo de paz proporcione, sin autorización a persona, grupo o gobierno extranjero, documentos, instrucciones o cualquier dato de establecimientos o de posibles actividades militares.
-
-Se aplicará la pena de prisión de cinco a cuarenta años y multa hasta de cincuenta mil pesos al extranjero que, declarada la guerra o rotas las hostilidades contra México, tenga relación o inteligencia con el enemigo o le proporcione información, instrucciones o documentos o cualquier ayuda que en alguna forma perjudique o pueda perjudicar a la Nación Mexicana.
-
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 128.
 
-Se aplicará la pena de prisión de cinco a veinte años y multa hasta de cincuenta mil pesos, al mexicano que, teniendo en su poder documentos o informaciones confidenciales de un gobierno extranjero, los revele a otro gobierno, si con ello perjudica a la Nación Mexicana.
-
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 129.
 
-Se impondrá la pena de seis meses a cinco años de prisión y multa hasta de cinco mil pesos al que teniendo conocimiento de las actividades de un espía y de su identidad, no lo haga saber a las autoridades.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ### CAPITULO III. Sedición
 
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
-
 ###### ARTICULO 130.
 
-Se aplicará la pena de seis meses a ocho años de prisión y multa hasta de diez mil pesos, a los que en forma tumultuaria, sin uso de armas, resistan o ataquen a la autoridad para impedir el libre ejercicio de sus funciones con alguna de las finalidades a que se refiere el artículo 132.
-
-A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de sedición, se les aplicará la pena de cinco a quince años de prisión y multa hasta de veinte mil pesos.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ### CAPITULO IV. Motín
 
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
-
 ###### ARTICULO 131.
 
-Se aplicará la pena de seis meses a siete años de prisión y multa hasta de cinco mil pesos, a quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimiento de una ley, se reúnan tumultuariamente y perturben el orden público con empleo de violencia en las personas o sobre las cosas, o amenacen a la autoridad para intimidarla u obligarla a tomar alguna determinación.
-
-A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de motín, se les aplicará la pena de dos a diez años de prisión y multa hasta de quince mil pesos.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ### CAPITULO V. Rebelión
 
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
-
 ###### ARTICULO 132.
 
-Se aplicará la pena de dos a veinte años de prisión y multa de cinco mil a cincuenta mil pesos a los que, no siendo militares en ejercicio, con violencia y uso de armas traten de:
-
-I.- Abolir o reformar la Constitución Política de los Estados Unidos Mexicanos;
-
-II.- Reformar, destruir o impedir la integración de las instituciones constitucionales de la Federación, o su libre ejercicio; y
-
-> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
-
-III.- Separar o impedir el desempeño de su cargo a alguno de los altos funcionarios de la Federación mencionados en el artículo 2o. de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación, del Distrito Federal y de los Altos Funcionarios de los Estados.
-
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 133.
 
-Las penas señaladas en el artículo anterior se aplicarán al que residiendo en territorio ocupado por el Gobierno Federal, y sin mediar coacción física o moral, proporcione a los rebeldes, armas, municiones, dinero, víveres, medios de transporte o de comunicación o impida que las tropas del Gobierno reciban estos auxilios. Si residiere en territorio ocupado por los rebeldes, la prisión será de seis meses a cinco años.
-
-Al funcionario o empleado público de los Gobiernos Federal o Estatales, o de los Municipios, de organismos públicos descentralizados, de empresas de participación estatal, o de servicios públicos, federales o locales, que teniendo por razón de su cargo documentos o informes de interés estratégico, los proporcione a los rebeldes, se le aplicará pena de cinco a cuarenta años de prisión y multa de cinco mil a cincuenta mil pesos.
-
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 134.
 
-Se aplicará la pena de dos a veinte años de prisión y multa de cinco mil a cincuenta mil pesos a los que, no siendo militares en ejercicio, con violencia y uso de armas, atenten contra el Gobierno de alguno de los Estados de la Federación, contra sus instituciones constitucionales o para lograr la separación de su cargo de alguno de los altos funcionarios del Estado, cuando interviniendo los Poderes de la Unión en la forma prescrita por el artículo 122 de la Constitución Política de los Estados Unidos Mexicanos, los rebeldes no depongan las armas.
-
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 135.
 
-Se aplicará la pena de uno a veinte años de prisión y multa hasta de cincuenta mil pesos al que:
-
-I.- En cualquier forma o por cualquier medio invite a una rebelión;
-
-II.- Residiendo en territorio ocupado por el Gobierno:
-
-a) Oculte o auxilie a los espías o exploradores de los rebeldes, sabiendo que lo son;
-
-b) Mantenga relaciones con los rebeldes, para proporcionarles noticias concernientes a las operaciones militares u otras que les sean útiles.
-
-III.- Voluntariamente sirva un empleo, cargo o comisión en lugar ocupado por los rebeldes, salvo que actúe coaccionado o por razones humanitarias.
-
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 136.
 
-A los funcionarios o agentes del Gobierno y a los rebeldes que después del combate causen directamente o por medio de órdenes, la muerte a los prisioneros, se les aplicará pena de prisión de quince a treinta años y multa de diez mil a veinte mil pesos.
-
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 137.
 
-Cuando durante una rebelión se cometan los delitos de homicidio, robo, secuestro, despojo, incendio, saqueo u otros delitos, se aplicarán las reglas del concurso.
-
-Los rebeldes no serán responsables de los homicidios ni de las lesiones inferidas en el acto de un combate, pero de los que se causen fuera del mismo, serán responsables tanto el que los mande como el que los permita y los que inmediatamente los ejecuten.
-
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 138.
 
-No se aplicará pena a los que depongan las armas antes de ser tomados prisioneros, si no hubiesen cometido alguno de los delitos mencionados en el artículo anterior.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ### CAPITULO VI. Terrorismo
 
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
-
 ###### ARTICULO 139.
 
-Se impondrá pena de prisión de dos a cuarenta años y multa hasta de cincuenta mil pesos, sin perjuicio de las penas que correspondan por los delitos que resulten, al que utilizando explosivos, sustancias tóxicas, armas de fuego o por incendio, inundación, o por cualquier otro medio violento, realice actos en contra de las personas, las cosas o servicios al público, que produzcan alarma, temor, terror en la población o en un grupo o sector de ella, para perturbar la paz pública, o tratar de menoscabar la autoridad del Estado, o presionar a la autoridad para que tome una determinación.
-
-Se aplicará pena de uno a nueve años de prisión y multa hasta de diez mil pesos, al que teniendo conocimiento de las actividades de un terrorista y de su identidad, no lo haga saber a las autoridades.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ### CAPITULO VII. Sabotaje
 
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
-
 ###### ARTICULO 140.
 
-Se impondrá pena de dos a veinte años de prisión y multa de mil a cincuenta mil pesos, al que dañe, destruya o ilícitamente entorpezca vías de comunicación, servicios públicos, funciones de las dependencias del Estado, organismos públicos descentralizados, empresas de participación estatal o sus instalaciones; plantas siderúrgicas, eléctricas o de las industrias básicas; centros de producción o distribución de artículos de consumo necesario, de armas, municiones o implementos bélicos, con el fin de trastornar la vida económica del país o afectar su capacidad de defensa.
-
-Se aplicará pena de seis meses a cinco años de prisión y multa hasta de cinco mil pesos, al que teniendo conocimiento de las actividades de un saboteador y de su identidad, no la haga saber a las autoridades.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ### CAPITULO VIII. Conspiración
 
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
-
 ###### ARTICULO 141.
 
-Se impondrá pena de uno a nueve años de prisión y multa hasta de diez mil pesos a quienes resuelvan de concierto cometer uno o varios de los delitos del presente Título y acuerden los medios de llevar a cabo su determinación.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ### CAPITULO IX. Disposiciones comunes para los capítulos de este Título
 
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
-
 ###### ARTICULO 142.
 
-Al que instigue, incite o invite a la ejecución de los delitos previstos en este Título se le aplicará la misma penalidad señalada para el delito de que se trate, a excepción de lo establecido en el segundo párrafo del artículo 130, en el segundo párrafo del artículo 131 y en la fracción I del artículo 135, que conservan su penalidad específica.
-
-Al que instigue, incite o invite a militares en ejercicio a la ejecución de los delitos a que se refiere este Título, se le aplicará pena de cinco a cuarenta años de prisión.
-
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 143.
 
-Cuando de la comisión de los delitos a que se refiere el presente Título resultaren otros delitos, se estará a las reglas del concurso.
-
-Además de las penas señaladas en este Título, se impondrá a los responsables si fueren mexicanos, la suspensión de sus derechos políticos por un plazo hasta de diez años, que se computará a partir del cumplimiento de su condena. En los delitos comprendidos en los capítulos I y II del presente Título, se impondrá la suspensión de tales derechos, hasta por cuarenta años.
-
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 144.
 
-Se consideran delitos de carácter político los de rebelión, sedición, motín y el de conspiración para cometerlos.
-
-> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 145.
 
-Se aplicará pena de cinco a cuarenta años de prisión y multa de cinco mil a cincuenta mil pesos al funcionario o empleado de los Gobiernos Federal o Estatales, o de los Municipios, de organismos públicos descentralizados, de empresas de participación estatal o de servicios públicos, federales o locales, que incurran en alguno de los delitos previstos por este Título.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ## TITULO SEGUNDO. Delitos contra el Derecho Internacional
 
@@ -1632,33 +1544,17 @@ Se aplicará pena de cinco a cuarenta años de prisión y multa de cinco mil a c
 
 ###### ARTICULO 146.
 
-Serán considerados piratas:
-
-I.- Los que, perteneciendo a la tripulación de una nave mercante mexicana, de otra nación, o sin nacionalidad, apresen a mano armada alguna embarcación, o cometan depredaciones en ella, o hagan violencia a las personas que se hallen a bordo;
-
-II.- Los que, yendo a bordo de una embarcación, se apoderen de ella y la entreguen voluntariamente a un pirata, y
-
-III.- Los corsarios que, en caso de guerra entre dos o más naciones, hagan el corso sin carta de marca o patente de ninguna de ellas, o con patente de dos o más beligerantes, o con patente de uno de ellos, pero practicando actos de depredación contra buques de la República o de otra nación para hostilizar a la cual no estuvieren autorizados. Estas disposiciones deberán igualmente aplicarse en lo conducente a las aeronaves.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 147.
 
-Se impondrán de quince a treinta años de prisión y decomiso de la nave, a los que pertenezcan a una tripulación pirata.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ### CAPITULO II. Violación de inmunidad y de neutralidad
 
 ###### ARTICULO 148.
 
-Se aplicará prisión de tres días a dos años y multa de cien a dos mil pesos.(sic) por:
-
-I.- La violación de cualquiera inmunidad diplomática, real o personal, de un soberano extranjero, o del representante de otra nación, sea que residan en la República o que estén de paso en ella;
-
-II.- La violación de los deberes de neutralidad que corresponden a la nación mexicana, cuando se haga conscientemente;
-
-III.- La violación de la inmunidad de un parlamentario, o la que da un salvoconducto, y
-
-IV.- Todo ataque o violencia de cualquier género a los escudos, emblemas o pabellones de una potencia amiga.
-
-En el caso de la fracción III, y si las circunstancias lo ameritan, los jueces podrán imponer hasta seis años de prisión.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 > <small>N. DE E. EN EL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 20 DE ENERO DE 1967, DEROGA TACITAMENTE EL CAPITULO III DEL TITULO TERCERO; PASANDO SU ARTICULO 149 A FORMAR PARTE DE UN NUEVO TITULO CUARTO DENOMINADO DELITOS CONTRA LA HUMANIDAD.</small>
 
@@ -1676,33 +1572,25 @@ En el caso de la fracción III, y si las circunstancias lo ameritan, los jueces 
 
 ###### ARTICULO 149.
 
-Al que violare los deberes de humanidad en los prisioneros y rehenes de guerra, en los heridos, o en los hospitales de sangre, se le aplicará por ese sólo hecho: prisión de tres a seis años, salvo lo dispuesto, para los casos especiales, en las leyes militares.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 20 DE ENERO DE 1967)</small>
 
 ### CAPITULO II. Genocidio
 
-> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 1967)</small>
-
-ARTICULO 149 bis.- Comete el delito de genocidio el que con el propósito de destruir, total o parcialmente a uno o más grupos nacionales o de carácter étnico, racial o religioso, perpetrase por cualquier medio, delitos contra la vida de miembros de aquellos, o impusiese la esterilización masiva con el fin de impedir la reproducción del grupo.
-
-Por tal delito se impondrán de veinte a cuarenta años de prisión y multa de quince mil a veinte mil pesos.
-
-Si con idéntico propósito se llevaren a cabo ataques a la integridad corporal o a la salud de los miembros de dichas comunidades o se trasladaren de ellas a otros grupos menores de diez y seis años, empleando para ello la violencia física o moral, la sanción será de cinco a veinte años de prisión y multa de dos mil a siete mil pesos.
-
-Se aplicarán las mismas sanciones señaladas en el párrafo anterior, a quien con igual propósito someta intencionalmente al grupo a condiciones de existencia que hayan de acarrear su destrucción física, total o parcial.
-
-En caso de que los responsables de dichos delitos fueren gobernantes, funcionarios o empleados públicos y las cometieren en ejercicio de sus funciones o con motivo de ellas, además de las sanciones establecidas en este artículo se les aplicarán las penas señaladas en el artículo 15 de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación.
+ARTICULO 149 bis.- (DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ## TITULO CUARTO. Delitos contra la seguridad pública
 
 ### CAPITULO I. Evasión de presos
 
-> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1986)</small>
+(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 150.
 
-Se aplicarán de seis meses a nueve años de prisión al que favoreciere la evasión de algún detenido, procesado o condenado. Si el detenido o procesado estuviese inculpado por delito o delitos contra la salud, a la persona que favoreciere su evasión se le impondrán de siete a quince años de prisión, o bien, en tratándose de la evasión de un condenado, se aumentarán hasta veinte años de prisión.
+Se aplicarán de seis meses a nueve años de prisión al que favoreciere la evasión de algún arraigado, detenido, procesado o condenado. Si el detenido, procesado o condenado lo fuere por delito grave, a la persona que favoreciere su evasión se le impondrán de siete a quince años de prisión.
+
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1986)</small>
 
 Si quien propicie la evasión fuese servidor público, se le incrementará la pena en una tercera parte de las penas señaladas en este artículo, según corresponda. Además será destituido de su empleo y se le inhabilitará para obtener otro durante un período de ocho a doce años.
 
@@ -1734,7 +1622,7 @@ Al reo que se fugue estando bajo alguna de las sanciones privativas de libertad,
 
 ###### ARTICULO 156.
 
-Al extranjero expulsado de la República que vuelva a ésta, se le impondrá de uno a dos años de prisión y se le expulsará de nuevo después de hacer efectiva esta sanción.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 157.
 
@@ -1778,53 +1666,29 @@ Estos delitos, cuyo conocimiento compete al fuero común, se sancionarán sin pe
 
 ###### ARTICULO 161.
 
-Se necesita licencia especial para portación o venta de las pistolas o revólveres.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 162.
 
-Se aplicará de seis meses a tres años de prisión o de 180 a 360 días multa y decomiso:
-
-I.- Al que importe, fabrique o venda las armas enumeradas en el artículo 160; o las regale o trafique con ellas;
-
-II.- Al que ponga a la venta pistolas o revólveres, careciendo del permiso necesario;
-
-III.- Al que porte una arma de las prohibidas en el artículo 160;
-
-IV.- Al que, sin un fin lícito o sin el permiso correspondiente, hiciere acopio de armas, y
-
-V.- Al que, sin licencia, porte alguna arma de las señaladas en el artículo 161.
-
-En todos los casos incluídos en este artículo, además de las sanciones señaladas, se decomisarán las armas.
-
-Los funcionarios y agentes de la autoridad pueden llevar las armas necesarias para el ejercicio de su cargo.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 163.
 
-La concesión de licencias a que se refiere el artículo 161, la hará el Ejecutivo de la Unión por conducto del Departamento o Secretaría que designe, sujetándose a las prevenciones de la ley reglamentaria respectiva, y a las siguientes:
-
-I.- La venta de las armas comprendidas en el artículo 161, sólo podrá hacerse por establecimientos mercantiles provistos de licencia y nunca por particulares, y
-
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-II.- El que solicite licencia para portar armas deberá cumplir con los requisitos siguientes:
-
-a). Otorgar fianza por la cantidad que fije la autoridad, y
-
-b). Comprobar la necesidad que tiene para la portación de armas y sus antecedentes de honorabilidad y prudencia, con el testimonio de cinco personas bien conocidas de la autoridad.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ### CAPITULO IV. Asociaciones delictuosas
 
-(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 164.
 
-Al que forme parte de una asociación o banda de tres o más personas con propósito de delinquir, se le impondrá prisión de uno a ocho años, y de treinta a cien días multa.
+Al que forme parte de una asociación o banda de tres o más personas con el propósito de delinquir, se le impondrá, por el solo hecho de ser miembro de la asociación, prisión de cinco a diez años, y de cien a trescientos días multa.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+Si el miembro de la asociación es o ha sido servidor público o miembro de una empresa de seguridad privada, la pena a la que se refiere el primer párrafo se aumentará en una mitad más y se impondrá además, en su caso, la destitución del empleo, cargo o comisión públicos e inhabilitación de cinco a diez años para desempeñar otro.
 
-Cuando el miembro de la asociación sea o haya sido servidor público de alguna corporación policial, la pena a que se refiere el párrafo anterior se aumentará en una mitad y se le impondrá, además, la destitución del empleo, cargo o comisión públicos e inhabilitación de uno a cinco años para desempeñar otro. Si el miembro de la asociación pertenece a las Fuerzas Armadas Mexicanas en situación de retiro, de reserva o en activo, de igual forma la pena se aumentará en una mitad y se le impondrá, además la baja definitiva de la Fuerza Armada a que pertenezca y se le inhabilitará de uno a cinco años para desempeñar cargo o comisión públicos.
+Cuando la asociación o alguno de sus miembros, utilice a menores de edad o incapaces para delinquir, la pena a que se refiere el primer párrafo se aumentará en una mitad.
+
+Se presumirá que existe asociación delictuosa cuando las mismas tres o más personas tengan alguna forma de autoría o participación conjunta en dos o más delitos.
 
 (REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
@@ -1886,17 +1750,15 @@ Al que, para la ejecución de los hechos de que hablan los artículos anteriores
 
 Al que ponga en movimiento una locomotora, carro, camión o vehículo similar y lo abandone o, de cualquier otro modo, haga imposible el control de su velocidad y pueda causar daño, se le impondrá de uno a seis años de prisión.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 170.
 
-Al que empleando explosivos o materias incendiarias, o por cualquier otro medio destruya total o parcialmente una nave, aeronave, u otro vehículo de servicio público federal o local, o que proporcione servicios al público, si se encontraren ocupados por una o más personas, se le aplicarán de veinte a treinta años de prisión.
+Al que empleando explosivos o materias incendiarias, destruya total o parcialmente un vehículo de servicio público local, o que proporcione servicios al público, si se encontraren ocupados por una o más personas, se le aplicarán de cinco a veinte años de prisión.
 
-Si en el vehículo de que se trate no se hallare persona alguna se aplicará prisión de cinco a veinte años.
+Si en el vehículo de que se trate no se hallare persona alguna se aplicará prisión de cinco a diez años.
 
-Asimismo se impondrán de tres a veinte años de prisión y de cien a cuatrocientos días multa, sin perjuicio de la pena que corresponda por otros delitos que cometa, al que mediante violencia física, amenazas o engaño, se apodere de una nave, aeronave, máquina o tren ferroviarios, autobuses o cualquier otro medio de transporte público colectivo, interestatal o internacional, o los haga desviar de su ruta o destino.
-
-Cuando se cometiere por servidor público de alguna corporación policial, cualquiera de los delitos que contemplan este artículo y el 168, se le impondrán, además de las penas señaladas en estos artículos, la destitución del empleo y se le inhabilitará de uno a diez años para desempeñar cargo o comisión públicos. Si quien cometiere los delitos mencionados fuere miembro de las Fuerzas Armadas Mexicanas en situación de retiro, de reserva o en activo, se le impondrá además, la baja definitiva de la Fuerza Armada a que pertenezca y se le inhabilitará de uno a diez años para desempeñar cargo o comisión públicos.
+Cuando se cometiere por servidor público de alguna corporación policial, cualquiera de los delitos que contemplan este artículo y el 168, se le impondrán, además de las penas señaladas en estos artículos, la destitución del empleo y se le inhabilitará de uno a diez años para desempeñar cargo o comisión públicos.
 
 > <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
@@ -1908,6 +1770,18 @@ I.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1991)
 
 II.- Al que en estado de ebriedad o bajo el influjo de drogas enervantes cometa alguna infracción a los reglamentos de tránsito y circulación al manejar vehículos de motor, independientemente de la sanción que le corresponda si causa daño a las personas o las cosas.
 
+(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+ARTICULO 171 BIS.- Comete el delito de utilización indebida de la vía pública:
+
+I. El que utilice la vía pública para consumir, distribuir o vender sustancias ilícitas o para inhalar sustancias lícitas no destinadas a ese fin y que produzcan efectos psicotrópicos, sin perjuicio de lo dispuesto por otros ordenamientos jurídicos; para los efectos de este artículo, son sustancias ilícitas las así calificadas por la Ley General de Salud; y
+
+II. El que determine a otros a ejercer el comercio en la vía pública sin permiso de la autoridad competente obteniendo algún beneficio o lucro para si o para un tercero.
+
+Al que incurra en la comisión de alguna de las conductas señaladas en la fracción I se le impondrán de seis meses a un año de prisión y multa de treinta a sesenta días multa. Cuando la conducta realizada consista en el consumo o la inhalación, la pena será de hasta seis meses del tratamiento de desintoxicación o deshabituación que corresponda en el centro de atención destinado para tal efecto.
+
+Al que incurra en la comisión de alguna de las conductas señaladas en las (sic) fracción II de este artículo, se le impondrán de uno a tres años de prisión y multa de cien a trescientos días multa.
+
 ###### ARTICULO 172.
 
 Cuando se cause algún daño por medio de cualquier vehículo, motor o maquinaria, además de aplicar las sanciones por el delito que resulte, se inhabilitará al delincuente para manejar aquellos aparatos, por un tiempo que no baje de un mes ni exceda de un año. En caso de reincidencia, la inhabilitación será definitiva.
@@ -1916,17 +1790,7 @@ Cuando se cause algún daño por medio de cualquier vehículo, motor o maquinari
 
 ### CAPITULO I BIS. Uso ilícito de instalaciones destinadas al tránsito aéreo
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
-
-ARTICULO 172 bis.- Al que para la realización de actividades delictivas utilice o permita el uso de aeródromos, aeropuertos, helipuertos, pistas de aterrizaje o cualquiera otra instalación destinada al tránsito aéreo que sean de su propiedad o estén a su cargo y cuidado, se le impondrá prisión de dos a seis años y de cien a trescientos días multa y decomiso de los instrumentos, objetos o productos del delito, cualquiera que sea su naturaleza. Si dichas instalaciones son clandestinas, la pena se aumentará hasta en una mitad.
-
-Las mismas penas se impondrán a quienes realicen vuelos clandestinos, o proporcionen los medios para facilitar el aterrizaje o despegue de aeronaves o den reabastecimiento o mantenimiento a las aeronaves utilizadas en dichas actividades.
-
-Si las actividades delictivas a que se refiere el primer párrafo se relacionan con delitos contra la salud, las penas de prisión y de multa se duplicarán.
-
-Al que construya, instale, acondicione o ponga en operación los inmuebles e instalaciones a que se refiere el párrafo primero, sin haber observado las normas de concesión, aviso o permiso contenidas en la legislación respectiva, se le impondrá de tres a ocho años de prisión y de ciento cincuenta a cuatrocientos días multa.
-
-Las sanciones previstas en este artículo se impondrán sin perjuicio de las medidas que disponga la Ley de Vías Generales de Comunicación y de las sanciones que correspondan, en su caso, por otros delitos cometidos.
+ARTICULO 172 bis.- (DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ### CAPITULO II. Violación de correspondencia
 
@@ -1952,11 +1816,9 @@ No se considera que obren delictuosamente los padres que abran o intercepten las
 
 La disposición del artículo 173 no comprende la correspondencia que circule por la estafeta, respecto de la cual se observará lo dispuesto en la legislación postal.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
-
 ###### ARTICULO 176.
 
-Al empleado de telégrafo, estación telefónica o estación inalámbrica que conscientemente dejare de transmitir un mensaje que se le entregue con ese objeto, o de comunicar al destinatario el que recibiere de otra oficina, si causare daño, se le impondrá de quince días a un año de prisión o de 30 a 180 días multa.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 > <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
 
@@ -1974,9 +1836,9 @@ A quien intervenga comunicaciones privadas sin mandato de autoridad judicial com
 
 Al que, sin causa legítima, rehusare a prestar un servicio de interés público a que la Ley le obligue, o desobedeciere un mandato legítimo de la autoridad, se le aplicarán de quince a doscientas jornadas de trabajo en favor de la comunidad.
 
-###### ARTICULO 179.
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-El que sin excusa legal se negare a comparecer ante la autoridad a dar su declaración, cuando legalmente se le exija, no será considerado como reo del delito previsto en el artículo anterior, sino cuando insista en su desobediencia después de haber sido apremiado por la autoridad judicial o apercibido por la administrativa, en su caso, para que comparezca a declarar.
+ARTLICULO 179.- El que sin excusa legal se negare a comparecer ante la autoridad a dar su declaración, cuando legalmente se le exija, no será considerado como reo del delito previsto en el artículo anterior, sino cuando insista en su desobediencia después de haber sido apremiado o apercibido por la autoridad judicial o administrativa, en su caso, para que comparezca a declarar.
 
 > <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
@@ -1984,9 +1846,11 @@ El que sin excusa legal se negare a comparecer ante la autoridad a dar su declar
 
 Se aplicarán de uno a dos años de prisión y multa de diez a mil pesos: al que, empleando la fuerza, el amago o la amenaza, se oponga a que la autoridad pública o sus agentes ejerzan alguna de sus funciones o resista al cumplimiento de un mandato legítimo ejecutado en forma legal.
 
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 ###### ARTICULO 181.
 
-Se equiparará a la resistencia y se sancionará con la misma pena que ésta, la coacción hecha a la autoridad pública por medio de la violencia física o de la moral, para obligarla a que ejecute un acto oficial, sin los requisitos legales u otro que no esté en sus atribuciones.
+Se equiparará a la resistencia y se sancionará con la misma pena que ésta, la coacción hecha a la Autoridad Pública por medio de la violencia física o de la moral, para obligarla a que ejecute un acto oficial, sin los requisitos legales u otro que no esté en sus atribuciones, o para obligarla a tomar alguna determinación.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -1994,9 +1858,17 @@ Se equiparará a la resistencia y se sancionará con la misma pena que ésta, la
 
 El que debiendo ser examinado en juicio, sin que le aprovechen las excepciones establecidas por este Código o por el de Procedimientos Penales, y agotados sus medios de apremio, se niegue a otorgar la protesta de ley o a declarar, pagará de 10 a 30 días multa. En caso de reincidencia, se impondrá prisión de uno a seis meses o de 30 a 90 días multa.
 
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 ###### ARTICULO 183.
 
-Cuando la ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumará el delito de desobediencia cuando se hubieren agotado los medios de apremio.
+Cuando la ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumarán los delitos de resistencia y desobediencia cuando se hubieren agotado los medios de apremio.
+
+(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+ARTICULO 183 BIS.- Cometen el delito de motín y se les aplicará de seis meses a siete años de prisión y multa hasta de trescientos días multa, quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimiento de una ley, se reúnan tumultuariamente, y perturben el orden público con empleo de violencia en las personas o sobre las cosas.
+
+A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de motín, se les aplicará la pena de dos a diez años de prisión y multa hasta de novecientos días multa.
 
 ### CAPITULO II. Oposición a que se ejecute alguna obra o trabajo públicos
 
@@ -2016,15 +1888,15 @@ Cuando varias personas de común acuerdo procuren impedir la ejecución de una o
 
 ### CAPITULO III. Quebrantamiento de sellos
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 187.
 
-Al que quebrante los sellos puestos por orden de la autoridad pública se le aplicarán de treinta a ciento ochenta jornadas de trabajo en favor de la comunidad.
+Al que quebrante los sellos puestos por orden de la autoridad competente se le aplicarán de uno a cuatro años de prisión y multa de cincuenta a doscientos días multa.
 
 ###### ARTICULO 188.
 
-Cuando de común acuerdo, quebrantaren las partes interesadas en un negocio civil los sellos puestos por la autoridad pública, pagarán una multa de veinte a doscientos pesos.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ### CAPITULO IV. Delitos cometidos contra funcionarios públicos
 
@@ -2038,15 +1910,21 @@ Al que cometa un delito en contra de un servidor público o agente de la autorid
 
 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1991)
 
-### CAPITULO V. Ultrajes a las insignias nacionales
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 17 DE SEPTIEMBRE DE 1999)</small>
+
+(REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+### CAPITULO V. Ataque a la paz pública
+
+(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 191.
 
-Al que ultraje el escudo de la República o el pabellón nacional, ya sea de palabra o de obra, se le aplicará de seis meses a cuatro años de prisión o multa de cincuenta a tres mil pesos o ambas sanciones, a juicio del juez.
+Se impondrá pena de prisión de diez a treinta años y multa de mil a tres días multa, sin perjuicio de las penas que correspondan por los delitos que resulten, al que utilizando explosivos, sustancias tóxicas, armas de fuego, o por incendio o inundación, realice actos en contra de las personas o los servicios públicos, para perturbar la paz pública o menoscabar la autoridad de los órganos locales de gobierno del Distrito Federal o presionar a la autoridad para que tome una determinación.
 
 ###### ARTICULO 192.
 
-Al que haga uso indebido del escudo, insignia o himno nacionales, se le aplicará de tres días a un año de prisión y multa de veinticinco a mil pesos.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
@@ -2056,129 +1934,53 @@ Al que haga uso indebido del escudo, insignia o himno nacionales, se le aplicar�
 
 ### CAPITULO I. De la producción, tenencia, tráfico, proselitismo y otros actos en materia de narcóticos
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
-
 ###### ARTICULO 193.
 
-Se consideran narcóticos a los estupefacientes, psicotrópicos y demás sustancias o vegetales que determinen la Ley General de Salud, los convenios y tratados internacionales de observancia obligatoria en México y los que señalen las demás disposiciones legales aplicables en la materia.
-
-Para los efectos de este capítulo, son punibles las conductas que se relacionan con los estupefacientes, psicotrópicos y demás sustancias previstos en los artículos 237, 245, fracciones I, II y III y 248 de la Ley General de Salud, que constituyen un problema grave para la salud pública.
-
-El juzgador, al individualizar la pena o la medida de seguridad a imponer por la comisión de algún delito previsto en este capítulo, tomará en cuenta, además de lo establecido en los artículos 51 y 52, la cantidad y la especie de narcótico de que se trate, así como la menor o mayor lesión o puesta en peligro de la salud pública y las condiciones personales del autor o partícipe del hecho o la reincidencia en su caso.
-
-Los narcóticos empleados en la comisión de los delitos a que se refiere este capítulo, se pondrán a disposición de la autoridad sanitaria federal, la que procederá de acuerdo con las disposiciones o leyes de la materia a su aprovechamiento lícito o a su destrucción.
-
-Tratándose de instrumentos y vehículos utilizados para cometer los delitos considerados en este capítulo, así como de objetos y productos de esos delitos, cualquiera que sea la naturaleza de dichos bienes, se estará a lo dispuesto en los artículos 40 y 41. Para ese fin, el Ministerio Público dispondrá durante la averiguación previa el aseguramiento que corresponda y el destino procedente en apoyo a la procuración de justicia, o lo solicitará en el proceso, y promoverá el decomiso para que los bienes de que se trate o su producto se destinen a la impartición de justicia, o bien, promoverá en su caso, la suspensión y la privación de derechos agrarios o de otra índole, ante las autoridades que resulten competentes conforme a las normas aplicables.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 194.
 
-Se impondrá prisión de diez a veinticinco años y de cien hasta quinientos días multa al que:
-
-I.- Produzca, transporte, trafique, comercie, suministre aun gratuitamente o prescriba alguno de los narcóticos señalados en el artículo anterior, sin la autorización correspondiente a que se refiere la Ley General de Salud.
-
-Para los efectos de esta fracción, por producir se entiende: manufacturar, fabricar, elaborar, preparar o acondicionar algún narcótico, y por comerciar: vender, comprar, adquirir o enajenar algún narcótico;
-
-II.- Introduzca o extraiga del país alguno de los narcóticos comprendidos en el artículo anterior, aunque fuere en forma momentánea o en tránsito.
-
-Si la introducción o extracción a que se refiere esta fracción no llegare a consumarse, pero de los actos realizados se desprenda claramente que esa era la finalidad del agente, la pena aplicable será de hasta las dos terceras partes de la prevista en el presente artículo;
-
-III.- Aporte recursos económicos o de cualquier especie, o colabore de cualquier manera al financiamiento, supervisión o fomento para posibilitar la ejecución de alguno de los delitos a que se refiere este capítulo; y
-
-IV.- Realice actos de publicidad o propaganda, para que se consuma cualesquiera de las sustancias comprendidas en el artículo anterior.
-
-Las mismas penas previstas en este artículo y, además, privación del cargo o comisión e inhabilitación para ocupar otro hasta por cinco años, se impondrán al servidor público que, en ejercicio de sus funciones o aprovechando su cargo, permita, autorice o tolere cualesquiera de las conductas señaladas en este artículo.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 195.
 
-Se impondrá de cinco a quince años de prisión y de cien a trescientos cincuenta días multa, al que posea alguno de los narcóticos señalados en el artículo 193, sin la autorización correspondiente a que se refiere la Ley General de Salud, siempre y cuando esa posesión sea con la finalidad de realizar alguna de las conductas previstas en el artículo 194.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-No se procederá en contra de quien, no siendo farmacodependiente se le encuentre en posesión de alguno de los narcóticos señalados en el artículo 193, por una sola vez y en cantidad tal que pueda presumirse que está destinada a su consumo personal.
-
-No se procederá por la simple posesión de medicamentos, previstos entre los narcóticos a los que se refiere el artículo 193, cuya venta al público se encuentre supeditada a requisitos especiales de adquisición, cuando por su naturaleza y cantidad dichos medicamentos sean los necesarios para el tratamiento de la persona que los posea o de otras personas sujetas a la custodia o asistencia de quien los tiene en su poder.
-
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
-
-ARTICULO 195 bis.- Cuando la posesión o transporte, por la cantidad como por las demás circunstancias del hecho, no pueda considerarse destinada a realizar alguna de las conductas a que se refiere el artículo 194 de este Código y no se trate de un miembro de una asociación delictuosa, se aplicarán las penas previstas en las tablas contenidas en el apéndice 1 de este ordenamiento, si el narcótico no se encuentra comprendido en las mismas, se aplicará hasta la mitad de las penas señaladas en el artículo anterior.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+ARTICULO 195 bis.- (DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 196.
 
-Las penas que en su caso resulten aplicables por los delitos previstos en el artículo 194, serán aumentadas en una mitad, cuando:
-
-I.- Se cometa por servidores públicos encargados de prevenir, denunciar, investigar o juzgar la comisión de los delitos contra la salud o por un miembro de las Fuerzas Armadas Mexicanas en situación de retiro, de reserva o en activo. En este caso, se impondrá a dichos servidores públicos además, suspensión para desempeñar cargo o comisión en el servicio público, hasta por cinco años, o destitución, e inhabilitación hasta por un tiempo igual al de la pena de prisión impuesta. Si se trata de un miembro de las Fuerzas Armadas Mexicanas en cualquiera de las situaciones mencionadas se le impondrá, además la baja definitiva de la Fuerza Armada a que pertenezca, y se le inhabilitará hasta por un tiempo igual al de la pena de prisión impuesta, para desempeñar cargo o comisión públicos en su caso;
-
-II.- La víctima fuere menor de edad o incapacitada para comprender la relevancia de la conducta o para resistir al agente;
-
-III.- Se utilice a menores de edad o incapaces para cometer cualesquiera de esos delitos;
-
-IV.- Se cometa en centros educativos, asistenciales, policiales o de reclusión, o en sus inmediaciones con quienes a ellos acudan;
-
-V.- La conducta sea realizada por profesionistas, técnicos, auxiliares o personal relacionado con las disciplinas de la salud en cualesquiera de sus ramas y se valgan de esa situación para cometerlos. En este caso se impondrá, además, suspensión de derechos o funciones para el ejercicio profesional u oficio hasta por cinco años e inhabilitación hasta por un tiempo equivalente al de la prisión impuesta;
-
-VI.- El agente determine a otra persona a cometer algún delito de los previstos en el artículo 194, aprovechando el ascendiente familiar o moral o la autoridad o jerarquía que tenga sobre ella; y
-
-VII.- Se trate del propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza y lo empleare para realizar algunos de los delitos previstos en este capítulo o permitiere su realización por terceros. En este caso además, se clausurará en definitiva el establecimiento.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ARTICULO 196 bis.- (DEROGADO, D.O.F. 7 DE NOVIEMBRE DE 1996)
 
-> <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
-
-ARTICULO 196 ter.- Se impondrá de cinco a quince años de prisión y de cien a trescientos días multa, así como decomiso de los instrumentos, objetos y productos del delito, al que:
-
-I. Produzca, posea o realice cualquier acto u operación con precursores químicos, máquinas o elementos, con el propósito de cultivar, producir o preparar narcóticos a los que se refiere el artículo 193, en cualquier forma prohibida por la ley, o
-
-II. Financie cualquiera de las conductas señaladas en la fracción anterior.
-
-La misma pena de prisión y multa, así como la inhabilitación para ocupar cualquier empleo, cargo o comisión públicos hasta por cinco años, se impondrá al servidor público que, en ejercicio de sus funciones, permita o autorice cualquiera de las conductas comprendidas en este artículo.
-
-Se consideran precursores químicos las sustancias líquidas, sólidas y gaseosas que sirven para la preparación de narcóticos, como el ácido lisérgico, efedrina, ergometrina, ergotamina, 1-fenil-2-propanona, seudoefedrina, acetona, ácido antranílico, ácido fenilacético, anhídrido acético, éter etílico, piperidina y, en su caso, sus sales, o cualquier otra sustancia con efectos semejantes.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+ARTICULO 196 ter.- (DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 197.
 
-Al que, sin mediar prescripción de médico legalmente autorizado, administre a otra persona, sea por inyección, inhalación, ingestión o por cualquier otro medio, algún narcótico a que se refiere el artículo 193, se le impondrá de tres a nueve años de prisión y de sesenta a ciento ochenta días multa, cualquiera que fuere la cantidad administrada. Las penas se aumentarán hasta una mitad más si la víctima fuere menor de edad o incapaz para comprender la relevancia de la conducta o para resistir al agente.
-
-Al que indebidamente suministre gratis o prescriba a un tercero, mayor de edad, algún narcótico mencionado en el artículo 193, para su uso personal e inmediato, se le impondrá de dos a seis años de prisión y de cuarenta a ciento veinte días multa. Si quien lo adquiere es menor de edad o incapaz, las penas se aumentarán hasta en una mitad.
-
-Las mismas penas del párrafo anterior se impondrán al que induzca o auxilie a otro para que consuma cualesquiera de los narcóticos señalados en el artículo 193.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 198.
 
-Al que dedicándose como actividad principal a las labores propias del campo, siembre, cultive o coseche plantas de marihuana, amapola, hongos alucinógenos, peyote o cualquier otro vegetal que produzca efectos similares, por cuenta propia, o con financiamiento de terceros, cuando en él concurran escasa instrucción y extrema necesidad económica, se le impondrá prisión de uno a seis años.
-
-Igual pena se impondrá al que en un predio de su propiedad, tenencia o posesión, consienta la siembra, el cultivo o la cosecha de dichas plantas en circunstancias similares a la hipótesis anterior.
-
-Si en las conductas descritas en los dos párrafos anteriores no concurren las circunstancias que en ellos se precisan, la pena será de hasta las dos terceras partes de la prevista en el artículo 194, siempre y cuando la siembra, cultivo o cosecha se hagan con la finalidad de realizar alguna de las conductas previstas en las fracciones I y II de dicho artículo. Si falta esa finalidad, la pena será de dos a ocho años de prisión.
-
-Si el delito fuere cometido por servidor público de alguna corporación policial, se le impondrá, además la destitución del empleo, cargo o comisión públicos y se le inhabilitará de uno a cinco años para desempeñar otro, y si el delito lo cometiere un miembro de las Fuerzas Armadas Mexicanas en situación de retiro, de reserva o en activo, se le impondrá, además de la pena de prisión señalada, la baja definitiva de la Fuerza Armada a que pertenezca y se le inhabilitará de uno a cinco años para desempeñar cargo o comisión públicos.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 199.
 
-Al farmacodependiente que posea para su estricto consumo personal algún narcótico de los señalados en el artículo 193 no se le aplicará pena alguna. El Ministerio Público o la autoridad judicial del conocimiento, tan pronto como se enteren en algún procedimiento de que una persona relacionada con él es farmacodependiente, deberán informar de inmediato a las autoridades sanitarias, para los efectos del tratamiento que corresponda.
-
-Todo procesado o sentenciado que sea farmacodependiente quedará sujeto a tratamiento.
-
-Para la concesión de la condena condicional o del beneficio de la libertad preparatoria, cuando procedan, no se considerará como antecedente de mala conducta el relativo a la farmacodependencia, pero sí se exigirá en todo caso que el sentenciado se someta al tratamiento adecuado para su curación bajo vigilancia de la autoridad ejecutora.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
 ### CAPITULO II. Del peligro de contagio
 
+(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+ARTICULO 199 BIS.- Al que sabiendo que padece una enfermedad grave en periodo infectante, y sin que la víctima u ofendido tenga conocimiento de ésta circunstancia, ponga en peligro de contagio la salud de otro, por relaciones sexuales u otro medio transmisible, se le impondrá de tres meses a tres años de prisión y multa hasta de cuarenta días multa.
+
 > <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1991)</small>
 
-ARTICULO 199 bis.- El que a sabiendas de que está enfermo de un mal venéreo u otra enfermedad grave en período infectante, ponga en peligro de contagio la salud de otro, por relaciones sexuales u otro medio transmisible, será sancionado de tres días a tres años de prisión y hasta cuarenta días de multa.
-
 Si la enfermedad padecida fuera incurable se impondrá la pena de seis meses a cinco años de prisión.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1991)</small>
 
 Cuando se trate de cónyuges, concubinarios o concubinas, sólo podrá procederse por querella del ofendido.
 
@@ -2220,19 +2022,27 @@ No se sancionarán las conductas que tengan un fin de investigación o divulgaci
 
 ### CAPITULO II. Corrupción de menores e incapaces
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 201.
 
-Al que procure o facilite la corrupción de un menor de dieciséis años de edad o de quien no tenga capacidad para comprender el significado del hecho, mediante actos de exhibicionismo corporal, lascivos o sexuales, o lo induzca a la práctica de la mendicidad, la ebriedad, al consumo de narcóticos, a la prostitución, al homosexualismo, a formar parte de una asociación delictuosa, o a cometer cualquier delito, se le aplicarán de tres a ocho años de prisión y de cincuenta a doscientos días multa.
+Comete el delito de corrupción de menores, el que induzca, procure u obligue a un menor de dieciocho años de edad o a quien no tenga la capacidad para comprender el significado del hecho, a realizar actos de exhibicionismo corporal, lascivos o sexuales, de prostitución, de consumo de narcóticos, a tener prácticas sexuales, a la práctica de la ebriedad, o a cometer hechos delictuosos. Al autor de este delito se le aplicarán de cinco a diez años de prisión y de quinientos a dos mil días multa.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+Al que obligue o induzca a la práctica de la mendicidad, se le impondrá de tres a ocho años de prisión y de cincuenta a doscientos días multa.
 
-Cuando de la práctica reiterada de los actos de corrupción el menor o incapaz adquiera los hábitos del alcoholismo, farmacodependencia, se dedique a la prostitución, a prácticas homosexuales, o a formar parte de una asociación delictuosa, la pena será de cinco a diez años de prisión y de cien a cuatrocientos días multa.
+No se entenderá por corrupción de menores los programas preventivos, educativos o de cualquier índole que diseñen, impartan o avalen las Instituciones Públicas, Privadas o Sociales legalmente constituidas, que tengan por objeto la educación sexual, educación sobre función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo de adolescentes.
 
-(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+Cuando de la práctica reiterada de los actos de corrupción el menor o incapaz adquiera los hábitos del alcoholismo, farmacodependencia, o se dedique a la prostitución, la pena será de siete a doce años de prisión y de trescientos a seiscientos días multa.
 
-Si además de los delitos previstos en este capítulo resultase cometido otro, se aplicarán las reglas de acumulación.
+Si además de los delitos previstos en este artículo resultase cometido otro, se aplicarán las reglas de acumulación.
+
+(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+ARTICULO 201 BIS.- Comete el delito de pornografía infantil el que procure, facilite o induzca por cualquier medio a un menor de dieciocho años, con o sin su consentimiento, a realizar actos de exhibicionismo corporal, lascivos o sexuales, con el objeto y fin de videograbarlo, fotografiarlo o exhibirlo mediante anuncios impresos o electrónicos, con o sin el fin de obtener un lucro, se le impondrá de cinco a diez años de prisión y de mil a dos mil días multa.
+
+Al que fije, grabe, imprima actos de exhibicionismo corporal, lascivos o sexuales en que participen uno o más menores de dieciocho años, se le impondrá la pena de diez a catorce años de prisión y de quinientos a tres mil días multa. La misma pena se impondrá a quien con fines de lucro o sin él, elabore, reproduzca, venda, arriende, exponga, publicite o difunda el material a que se refieren las acciones anteriores.
+
+Para los efectos de este artículo se entiende por pornografía infantil, al representación sexualmente explícita de imágenes de menores de dieciocho años.
 
 > <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
@@ -2280,17 +2090,25 @@ El lenocinio se sancionará con prisión de dos a nueve años y de cincuenta a q
 
 Comete el delito de lenocinio:
 
-I.- Toda persona que habitual o accidentalmente explote el cuerpo de otra por medio del comercio carnal, se mantenga de este comercio u obtenga de él un lucro cualquiera;
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-II.- Al que induzca o solicite a una persona para que con otra, comercie sexualmente con su cuerpo o le facilite los medios para que se entrege (sic) a la prostitución;
+I. Toda persona que habitual u ocasionalmente explote el cuerpo de otra sin su consentimiento por medio del comercio sexual, se mantenga de este comercio u obtenga de él un lucro cualquiera;
+
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+II. Al que induzca a una persona para que con otra comercie sexualmente con su cuerpo o le facilite los medios para que se entregue a la prostitución, y
 
 III.- Al que regentee, administre o sostenga directa o indirectamente, prostíbulos, casas de cita o lugares de concurrencia expresamente dedicados a explotar la prostitución, u obtenga cualquier beneficio con sus productos.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
+(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+Si se emplease violencia o el agente se valiese de una función pública que tuviere, la pena se agravará hasta en una mitad más.
+
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 208.
 
-Cuando la persona cuyo cuerpo sea explotado por medio del comercio carnal, sea menor de edad, se aplicará al que encubra, concierte o permita dicho comercio, pena de seis a diez años de prisión y de diez a veinte días multa.
+Cuando la persona cuyo cuerpo sea explotado por medio del comercio sexual, sea menor de edad, se aplicará al que lo explote, regentee, induzca, solicite, encubra, concierte, permita, utilice u obtenga algún lucro de dicho comercio, pena de seis a diez años de prisión y multa de mil quinientos a dos mil días multa.
 
 ### CAPITULO IV. Provocación de un delito y apología de éste o de algún vicio
 
@@ -2299,6 +2117,10 @@ Cuando la persona cuyo cuerpo sea explotado por medio del comercio carnal, sea m
 ###### ARTICULO 209.
 
 Al que provoque públicamente a cometer un delito, o haga la apología de éste o de algún vicio, se le aplicarán de diez a ciento ochenta jornadas de trabajo en favor de la comunidad, si el delito no se ejecutare; en caso contrario se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
+
+(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+No se considerará que comete el delito a que se refiere este artículo, el servidor público que en ejercicio de sus funciones y con autorización fundada y motivada del Procurador General de Justicia del Distrito Federal, simule conductas delictivas con el fin de aportar elementos de prueba en una averiguación previa.
 
 ## TITULO NOVENO. Revelación de secretos
 
@@ -2322,25 +2144,25 @@ ARTICULO 211 bis.- A quien revele, divulgue o utilice indebidamente o en perjuic
 
 > <small>(REFORMADA [N. DE E. DEROGADA] SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO I
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
+### CAPITULO I. (REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 212.
 
-Para los efectos de este Título y el subsecuente es servidor público toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal centralizada o en la del Distrito Federal, organismos descentralizados, empresas de participación estatal mayoritaria, organizaciones y sociedades asimiladas a éstas, fideicomisos públicos, en el Congreso de la Unión, o en los poderes Judicial Federal y Judicial del Distrito Federal, o que manejen recursos económicos federales. Las disposiciones contenidas en el presente Título, son aplicables a los Gobernadores de los Estados, a los Diputados a las Legislaturas Locales y a los Magistrados de los Tribunales de Justicia Locales, por la comisión de los delitos previstos en este título, en materia federal.
-
-Se impondrán las mismas sanciones previstas para el delito de que se trate a cualquier persona que participe en la perpetración de alguno de los delitos previstos en este Título o el subsecuente.
+Para los efectos de este Título y, en general, para cualquier delito cometido por algún servidor público, es servidor público del Distrito Federal toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública del Distrito Federal, en la Asamblea Legislativa del Distrito Federal y en los órganos que ejercen la función judicial del fuero común en el Distrito Federal.
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
+Se impondrán las mismas sanciones previstas para el delito de que se trate a cualquier persona que participe en la perpetración de alguno de los delitos previstos en este Título o el subsecuente.
+
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 ###### ARTICULO 213.
 
-Para la individualización de las sanciones previstas en este Título, el Juez tomará en cuenta, en su caso, si el servidor público es trabajador de base o funcionario o empleado de confianza, su antigüedad en el empleo, sus antecedentes de servicio, sus percepciones, su grado de instrucción, la necesidad de reparar los daños y perjuicios causados por la conducta ilícita y las circunstancias especiales de los hechos constitutivos del delito. Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
+Para la individualización de las sanciones previstas en este título, el Juez tomará en cuenta, en su caso, si el servidor público es trabajador de base o de confianza, su antigüedad en el empleo, cargo o comisión, su nivel jerárquico, sus antecedentes de servicio, sus percepciones, su situación socioeconómica, su grado de instrucción, las circunstancias especiales de los hechos constitutivos del delito, así como el monto del beneficio obtenido o del daño causado.
 
-(ADICIONADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-ARTICULO 213 bis.- Cuando los delitos a que se refieren los artículos 215, 219 y 222 del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca, aduanera o migratoria, las penas previstas serán aumentadas hasta en una mitad y, además, se impondrá destitución e inhabilitación de uno a ocho años para desempeñar otro empleo, cargo o comisión públicos.
+ARTICULO 213 BIS.- Cuando los delitos a que se refieren los artículos 215, 219 y 222 del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca, las penas previstas serán aumentadas hasta en una mitad y, además, se impondrá destitución e inhabilitación de uno a ocho años para desempeñar otro empleo, cargo o comisión públicos.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -2356,7 +2178,9 @@ I.- Ejerza las funciones de un empleo, cargo o comisión, sin haber tomado poses
 
 II.- Continúe ejerciendo las funciones de un empleo, cargo o comisión después de saber que se ha revocado su nombramiento o que se le ha suspendido o destituido.
 
-III.- Teniendo conocimiento por razón de su empleo, cargo o comisión de que pueden resultar gravemente afectados el patrimonio o los intereses de alguna dependencia o entidad de la administración pública federal centralizada, del Distrito Federal, organismos descentralizados, empresa de participación estatal mayoritaria, asociaciones y sociedades asimiladas a éstas y fideicomisos públicos, del Congreso de la Unión o de los poderes Judicial Federal o Judicial del Distrito Federal, por cualquier acto u omisión y no informe por escrito a su superior jerárquico o lo evite si está dentro de sus facultades.
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+III. Teniendo conocimiento por razón de su empleo, cargo o comisión de que puedan resultar gravemente afectados el patrimonio o los intereses de alguno de los órganos locales de gobierno del Distrito Federal, por cualquier acto u omisión y no informe por escrito a su superior jerárquico o lo evite si está dentro de sus facultades; o
 
 IV.- Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice, o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión.
 
@@ -2364,11 +2188,13 @@ IV.- Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice, o
 
 V.- Teniendo obligación por razones de empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, en cualquier forma propicie daño a las personas, o a los lugares, instalaciones u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado.
 
-Al que cometa alguno de los delitos a que se refieren las fracciones I y II de este Artículo, se le impondrán de tres días a un año de prisión, multa de treinta o trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de la comisión del delito y destitución en su caso, e inhabilitación de un mes a dos años para desempeñar otro empleo, cargo o comisión públicos.
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1986)</small>
+Al que cometa alguno de los delitos a que se refieren las fracciones I y II de este artículo, se le impondrán de uno a tres años de prisión, multa de treinta a trescientos días multa y destitución en su caso, e inhabilitación de uno a dos años para desempeñar otro empleo, cargo o comisión públicos;
 
-Al infractor de las fracciones III, IV, o V, se le impondrán de dos años a siete años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de dos años a siete años para desempeñar otro empleo, cargo o comisión públicos.
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+Al infractor de las fracciones III, IV, o V, se le impondrán de tres a ocho años de prisión, multa de treinta a trescientos días multa y destitución e inhabilitación de dos a siete años para desempeñar otro empleo, cargo o comisión públicos.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -2446,7 +2272,9 @@ Al que cometa el delito de abuso de autoridad en los términos previstos por las
 
 Cometen el delito de coalición de servidores públicos, los que teniendo tal carácter se coaliguen para tomar medidas contrarias a una ley o reglamento, impedir su ejecución, o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas. No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o que hagan uso del derecho de huelga.
 
-Al que cometa el delito de coalición de servidores públicos se le impondrán de dos años a siete años de prisión y multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal, en el momento de la comisión del delito, y destitución e inhabilitación de dos años a siete años para desempeñar otro empleo, cargo o comisión públicos.
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+Al que cometa el delito de coalición de servidores públicos se le impondrán de tres a ocho años de prisión y multa de treinta a trescientos días multa y destitución e inhabilitación de dos a siete años para desempeñar otro empleo, cargo o comisión públicos.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -2460,11 +2288,15 @@ Comete el delito de uso indebido de atribuciones y facultades:
 
 I.- El servidor público que indebidamente:
 
-A) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio de la Federación;
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+A) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes del patrimonio del Distrito Federal;
 
 B) Otorgue permisos, licencias o autorizaciones de contenido económico;
 
-C) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados en la Administración Pública Federal, y del Distrito Federal.
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+C) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados por la administración pública del Distrito Federal; y
 
 D) Otorgue, realice o contrate obras públicas, deuda, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, o colocaciones de fondos y valores con recursos económicos públicos.
 
@@ -2546,7 +2378,9 @@ II.- Cualquier persona que promueve la conducta ilícita del servidor público o
 
 III.- El servidor público que por sí, o por interpósita persona indebidamente, solicite o promueva cualquier resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera de las personas a que hace referencia la primera fracción del Artículo 220 de este Código.
 
-Al que cometa el delito de tráfico de influencia, se le impondrán de dos años a seis años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de dos años a seis años para desempeñar otro empleo, cargo o comisión públicos.
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+Al que cometa el delito de tráfico de influencia se le impondrán de tres a ocho años de prisión, multa de treinta a trescientos días multa y destitución e inhabilitación de dos a seis años para desempeñar otro empleo, cargo o comisión públicos.
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -2580,13 +2414,17 @@ En ningún caso se devolverá a los responsables del delito de cohecho, el diner
 
 Comete el delito de peculado:
 
-I.- Todo servidor público que para usos propios o ajenos distraiga de su objeto dinero, valores, fincas o cualquier otra cosa perteneciente al Estado, al organismo descentralizado o a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por otra causa.
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+I. Todo servidor público que para usos propios o ajenos distraiga de su objeto dinero, valores, fincas o cualquier otra cosa perteneciente al erario público del Distrito Federal o a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por otra causa;
 
 II.- El servidor público que indebidamente utilice fondos públicos u otorgue alguno de los actos a que se refiere el artículo de uso indebido de atribuciones y facultades con el objeto de promover la imagen política o social de su persona, la de su superior jerárquico o la de un tercero, o a fin de denigrar a cualquier persona.
 
 III.- Cualquier persona que solicite o acepte realizar las promociones o denigraciones a que se refiere la fracción anterior, a cambio de fondos públicos o del disfrute de los beneficios derivados de los actos a que se refiere el Artículo de uso indebido de atribuciones y facultades, y
 
-IV.- Cualquier persona que sin tener el carácter de servidor público federal y estando obligada legalmente a la custodia, administración o aplicación de recursos públicos federales, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+IV. Cualquier persona que sin tener el carácter de servidor público y estando obligada legalmente a la custodia, administración o aplicación de recursos públicos, los distraiga de su objeto para usos propios o ajenos o les de una aplicación distinta a la que se les destinó.
 
 Al que cometa el delito de peculado se le impondrán las siguientes sanciones:
 
@@ -2610,9 +2448,13 @@ Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguien
 
 Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar de acuerdo con la Ley Federal de Responsabilidades de los Servidores Públicos.
 
-Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el salario mínimo diario vigente en el Distrito Federal, se impondrán de tres meses a dos años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal al momento de cometerse el delito y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos.
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el salario mínimo diario vigente en el Distrito Federal, se impondrán de dos años a catorce años de prisión, multa de trescientas a quinientas veces el salario mínimo diario vigente en el Distrito Federal al momento de cometerse el delito y destitución e inhabilitación de dos años a catorce años para desempeñar otro empleo, cargo o comisión públicos.
+Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el salario mínimo diario vigente en el Distrito Federal, se impondrán de uno a cuatro años de prisión, multa de treinta a trescientos días multa y destitución e inhabilitación de uno a diez años para desempeñar otro empleo, cargo o comisión públicos.
+
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el salario mínimo diario vigente en el Distrito Federal, se impondrán de cuatro a catorce años de prisión, multa de trescientos a quinientos días multa y destitución e inhabilitación de diez a veinte años para desempeñar otro empleo, cargo o comisión públicos.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -2680,7 +2522,9 @@ XIX.- Abrir un proceso penal contra un servidor público, con fuero, sin habérs
 
 XX.- Ordenar la aprehensión de un individuo por delito que no amerite pena privativa de libertad, o en casos en que no preceda denuncia, acusación o querella; o realizar la aprehensión sin poner al detenido a disposición del juez en el término señalado por el párrafo tercero del artículo 16 de la Constitución;
 
-XXI.- A los encargados o empleados de lugares de reclusión o internamiento que cobren cualquier cantidad a los internos o a sus familiares, a cambio de proporcionarles bienes o servicios que gratuitamente brinde el Estado para otorgarles condiciones de privilegio en el alojamiento, alimentación o régimen;
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+XXI. A los encargados o empleados de lugares de reclusión o internamiento que cobren, en los lugares de reclusión o internamiento, cualquier cantidad a los internos, a sus familiares o a sus visitantes, a cambio de proporcionarles bienes o servicios que gratuitamente brinde el Distrito Federal para otorgarles condiciones de privilegio en el alojamiento, alimentación o régimen;
 
 XXII.- Rematar, en favor de ellos mismos, por sí o por interpósita persona, los bienes objeto de un remate en cuyo juicio hubieren intervenido;
 
@@ -2698,9 +2542,13 @@ XXVI.- Permitir, fuera de los casos previstos por la ley, la salida temporal de 
 
 XXVII.- No ordenar la libertad de un procesado, decretando su sujeción a proceso, cuando sea acusado por delito o modalidad que tenga señalada pena no privativa de libertad o alternativa.
 
-A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, XX, XXIV, XXV, XXVI, se les impondrá pena de prisión de uno a seis años y de cien a trescientos días multa.
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-A quien cometa los delitos previstos en las fracciones IV, V, VI, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, se les impondrá pena de prisión de dos a ocho años y de doscientos a cuatrocientos días multa.
+A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, XX, XXIV, XXV o XXVI, se le impondrá pena de prisión de tres a ocho años y de cien a trescientos días multa.
+
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+A quien cometa los delitos previstos en las fracciones IV, V, VI, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII o XXVII, se le impondrá pena de prisión de cuatro a diez años y de doscientos a cuatrocientos días multa.
 
 En todos los delitos previstos en este capítulo, además de la pena de prisión correspondiente, el agente será privado de su cargo e inhabilitado para el desempeño de uno nuevo, por el lapso de uno a diez años.
 
@@ -2714,9 +2562,11 @@ En todos los delitos previstos en este capítulo, además de la pena de prisión
 
 Al que para hacer efectivo un derecho o pretendido derecho que deba ejercitar, empleare violencia, se le aplicará prisión de tres meses a un año o de 30 a 90 días multa. En estos casos sólo se procederá por querella de la parte ofendida.
 
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 ###### ARTICULO 227.
 
-Las disposiciones anteriores se aplicarán a todos los funcionarios o empleados de la administración pública, cuando en el ejercicio de su encargo ejecuten los hechos o incurran en las omisiones expresadas en los propios artículos.
+Las disposiciones anteriores se aplicarán a todos los servidores públicos, cuando en el ejercicio de su encargo ejecuten los hechos o incurran en las omisiones expresadas en los propios artículos.
 
 TITULO DECIMOSEGUNDO
 
@@ -2802,49 +2652,25 @@ Falsedad
 
 ### CAPITULO I. Falsificación, alteración y destrucción de moneda
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1992)</small>
-
 ###### ARTICULO 234.
 
-Al que cometa el delito de falsificación de moneda, se le impondrá de cinco a doce años de prisión y hasta quinientos días multa.
-
-Se entiende por moneda para los efectos de este Capítulo, los billetes y las piezas metálicas, nacionales o extranjeros, que tengan curso legal en el país emisor.
-
-Comete el delito de falsificación de moneda el que produzca, almacene, distribuya o introduzca al territorio nacional cualquier documento o pieza que contenga imágenes u otros elementos utilizados en las monedas circulantes, y que por ello resulten idóneos para engañar al público, por ser confundibles con monedas emitidas legalmente. A quien cometa este delito en grado de tentativa, se le impondrá de cuatro a ocho años de prisión y hasta trescientos días multa.
-
-La pena señalada en el primer párrafo de este artículo, también se impondrá al que a sabiendas hiciere uso de moneda falsificada.
-
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1992)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 235.
 
-Se impondrá de uno a cinco años de prisión y hasta quinientos días multa:
-
-I.- Al que, produzca, almacene o distribuya piezas de papel con tamaño similar o igual al de los billetes, cuando dichas piezas presenten algunas de las imágenes o elementos de los contenidos en aquellos, resultando con ello piezas con apariencia de billetes;
-
-II.- Al que marque la moneda con leyendas, sellos, troqueles o de cualquier otra forma, que no sean delebles para divulgar mensajes dirigidos al público.
-
-III.- Al que permita el uso o realice la enajenación, por cualquier medio y título, de máquinas, instrumentos o útiles que únicamente puedan servir para la fabricación de moneda, a personas no autorizadas legalmente para ello.
-
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1992)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 236.
 
-Se impondrá prisión de cinco a doce años y hasta quinientos días multa, al que altere moneda. Igual sanción se impondrá al que a sabiendas circule moneda alterada.
-
-Para los efectos de este artículo se entiende que altera un billete, aquel que forme piezas mediante la unión de dos o más fracciones procedentes de diferentes billetes, y que altera una moneda metálica, aquel que disminuye el contenido de oro, plata, platino o paladio que compongan las piezas monetarias de curso legal, mediante limaduras, recortes, disolución en ácidos o empleando cualquier otro medio.
-
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1992)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 237.
 
-Se castigará con prisión de cinco a doce años y hasta quinientos días multa, a quien preste sus servicios o desempeñe un cargo o comisión en la casa de moneda o en cualquier empresa que fabrique cospeles, y que por cualquier medio, haga que las monedas de oro, plata, platino o paladio, contengan metal diverso al señalado por la ley, o tengan menor peso que el legal o una ley de aleación inferior.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 11 DE JUNIO DE 1992)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 238.
 
-Se le impondrá de tres a siete años de prisión y hasta quinientos días multa, al que aproveche ilícitamente el contenido metálico destruyendo las monedas en circulación mediante su fundición o cualquier otro procedimiento.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 11 DE JUNIO DE 1992)</small>
 
@@ -2856,7 +2682,9 @@ Se le impondrá de tres a siete años de prisión y hasta quinientos días multa
 
 Al que cometa el delito de falsificación de títulos al portador y documentos de crédito público, se le impondrán de cuatro a diez años de prisión y multa de doscientos cincuenta a tres mil pesos.
 
-Comete el delito de que habla el párrafo anterior el que falsificare:
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+Comete el delito del que habla el párrafo anterior el que falsificare las obligaciones y otros títulos legalmente emitidos por la administración pública del Distrito Federal, y los cupones de intereses o de dividendos de los documentos mencionados.
 
 I.- Obligaciones u otros documentos de crédito público del tesoro, o los cupones de intereses o de dividendos de esos títulos.
 
@@ -2864,11 +2692,29 @@ II.- Las obligaciones de la deuda pública de otra nación, cupones de intereses
 
 III.- Las obligaciones y otros títulos legalmente emitidos por sociedades o empresas o por las administraciones públicas de la Federación, de los Estados o de cualquier Municipio, y los cupones de intereses o de dividendos de los documentos mencionados.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1992)</small>
-
 ###### ARTICULO 240.
 
-Al que introduzca en la República o pusiere en circulación en ella los documentos falsificados de que habla el artículo anterior, se le aplicará la sanción ahí señalada.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+ARTICULO 240 BIS.- Se impondrán de tres a nueve años de prisión y de ciento cincuenta a cuatrocientos cincuenta días multa al que, sin consentimiento de quien esté facultado para ello:
+
+I. Produzca, imprima, enajene, distribuya, altere o falsifique, aún gratuitamente, tarjetas, títulos o documentos utilizados para el pago de bienes y servicios o para disposición de efectivo;
+
+II. Adquiera, utilice, posea o detente, indebidamente, tarjetas, títulos o documentos para el pago de bienes y servicios, a sabiendas de que son alterados o falsificados;
+
+III. Adquiera, utilice, posea o detente, indebidamente, tarjetas, títulos o documentos auténticos para el pago de bienes y servicios, sin consentimiento de quien esté facultado para ello;
+
+IV. Altere los medios de identificación electrónica de tarjetas, títulos o documentos para el pago de bienes y servicios; o
+
+V. Acceda indebidamente a los equipos electromagnéticos de las instituciones emisoras de tarjetas, títulos o documentos para el pago de bienes y servicios o para disposición de efectivo.
+
+Las mismas penas se impondrán a quien utilice indebidamente información confidencial o reservada de la institución o persona que legalmente esté facultada para emitir tarjetas, títulos o documentos utilizados para el pago de bienes y servicios.
+
+Si el sujeto activo es empleado o dependiente del ofendido, las penas se aumentarán en una mitad.
+
+En el caso de que se actualicen otros delitos con motivo de las conductas a que se refiere este artículo, se aplicarán las reglas del concurso.
 
 ### CAPITULO III. Falsificación de sellos, llaves, cuños o troqueles, marcas, pesas y medidas
 
@@ -2880,7 +2726,9 @@ I.- Al que falsifique los sellos o marcas oficiales;
 
 II.- Al que falsifique los punzones para marcar la ley del oro o de la plata;
 
-III.- Al que falsifique los cuños o troqueles destinados para fabricar moneda o el sello, marca o contraseña que alguna autoridad usare para identificar cualquier objeto o para asegurar el pago de algún impuesto;
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+III. Al que falsifique o indebidamente posea el sello, marca o contraseña que alguna autoridad usare para identificar cualquier objeto o para asegurar el pago de algún impuesto;
 
 IV.- Al que falsifique los punzones, matrices, planchas o cualquier otro objeto que sirva para la fabricación de acciones, obligaciones, cupones o billetes de que habla el artículo 239, y
 
@@ -2894,7 +2742,7 @@ Se impondrán prisión de tres meses a tres años y multa de veinte a mil pesos;
 
 I.- Al que falsifique llaves, el sello de un particular, un sello, marca, estampilla o contraseña de una casa de comercio, de un banco o de un establecimiento industrial; o un boleto o ficha de un espectáculo público;
 
-II.- Al que falsifique en la República los sellos punzones o marcas de una nación extranjera;
+II.- (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 III.- Al que enajene un sello, punzón o marca falsos, ocultando este vicio;
 
@@ -2906,7 +2754,9 @@ VI.- Al que haga desaparecer alguno de los sellos de que habla la fracción ante
 
 VII.- Al que procurándose los verdaderos sellos, punzones, marcas, etc., haga uso indebido de ellos; y
 
-VIII.- Al que a sabiendas hiciere uso de los sellos o de algún otro de los objetos falsos de que habla el artículo anterior y las fracciones I, II, V y VI de éste.
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+VIII. Al que a sabiendas hiciere uso de los sellos o de algún otro de los objetos falsos de que habla el artículo anterior y las fracciones I, V y VI de éste.
 
 > <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 1967)</small>
 
@@ -2982,7 +2832,7 @@ IV.- El médico que certifique falsamente que una persona tiene una enfermedad u
 
 V.- El que haga uso de una certificación verdadera expedida para otro, como si lo hubiere sido en su favor, o altere la que a él se le expidió;
 
-VI.- Los encargados del servicio telegráfico, telefónico o de radio que supongan o falsifiquen un despacho de esa clase, y
+VI.- (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 > <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1951)</small>
 
@@ -2990,11 +2840,11 @@ VII.- El que a sabiendas hiciere uso de un documento falso o de copia, transcrip
 
 ### CAPITULO V. Falsedad en declaraciones judiciales y en informes dados a una autoridad
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994) (F. DE E., D.O.F. 1 DE FEBRERO DE 1994)
+(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 247.
 
-Se impondrá de dos a seis años de prisión y multa de cien a trescientos días multa:
+Además de la pena de prisión, se impondrá multa de cien a trescientos días multa:
 
 > <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
 
@@ -3016,9 +2866,13 @@ IV.- Al que, con arreglo a derecho, con cualquier carácter excepto el de testig
 
 Lo prevenido en esta fracción no comprende los casos en que la parte sea examinada sobre la cantidad en que estime una cosa o cuando tenga el carácter de acusado;
 
-> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 1955)</small>
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-V.- Al que en juicio de amparo rinda informes como autoridad responsable, en los que afirmare una falsedad o negare la verdad en todo o en parte.
+V. Al que rinda informes como autoridad responsable, en los que afirmare una falsedad o negare la verdad en todo o en parte.
+
+(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+Al que incurra en las conductas previstas en las fracciones I y II de este artículo se le impondrá de cuatro a ocho años de prisión. Al que incurra en las conductas previstas en las fracciones III, IV y V, se le impondrá de dos a seis años de prisión.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -3056,9 +2910,9 @@ Usurpación de funciones públicas o de profesión y uso indebido de condecoraci
 
 Se sancionará con prisión de uno a seis años y multa de cien a trescientos días a quien:
 
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 1947)</small>
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-I.- Al que, sin ser funcionario público, se atribuya ese carácter y ejerza alguna de las funciones de tal;
+I.- Al que, sin ser servidor público, se atribuya ese carácter y ejerza alguna de las funciones de tal;
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -3068,9 +2922,9 @@ II.- Al que sin tener título profesional o autorización para ejercer alguna pr
 
 a).- Se atribuya el carácter de profesionista.
 
-> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 1947)</small>
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-b).- Realice actos propios de una actividad profesional, con excepción de lo previsto en el 3er. párrafo del artículo 26 de la Ley Reglamentaria de los Artículos 4o. y 5o. Constitucionales.
+b) Realice actos propios de una actividad profesional, con excepción de lo previsto en el tercer párrafo del artículo 26 de la Ley Reglamentaria del artículo 5° Constitucional.
 
 > <small>(REFORMADO, D.O.F. 30 DE ENERO DE 1947)</small>
 
@@ -3084,13 +2938,11 @@ d).- Use un título o autorización para ejercer alguna actividad profesional si
 
 e).- Con objeto de lucrar, se una a profesionistas legalmente autorizados con fines de ejercicio profesional o administre alguna asociación profesional.
 
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 1947)</small>
+III.- (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-III.- Al extranjero que ejerza una profesión reglamentada sin tener autorización de autoridad competente o después de vencido el plazo que aquélla le hubiere concedido.
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
-
-IV.- Al que usare credenciales de servidor público, condecoraciones, uniformes, grados jerárquicos, divisas, insignias o siglas a las que no tenga derecho. Podrá aumentarse la pena hasta la mitad de su duración y cuantía, cuando sean de uso exclusivo de las Fuerzas Armadas Mexicanas o de alguna corporación policial.
+IV. Al que usare credenciales de servidor público, condecoraciones, uniformes, grados jerárquicos, divisas, insignias o siglas a las que no tenga derecho.
 
 ### CAPITULO VIII. Disposiciones comunes a los capítulos precedentes
 
@@ -3110,119 +2962,19 @@ Delitos contra la economía pública
 
 ### CAPITULO I. Delitos contra el consumo y la riqueza nacionales
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
-
 ###### ARTICULO 253.
 
-Son actos u omisiones que afectan gravemente al consumo nacional y se sancionarán con prisión de tres a diez años y con doscientos a mil días multa, los siguientes:
-
-> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 1979)</small>
-
-I.- Los relacionados con artículos de consumo necesario o generalizado o con las materias primas necesarias para elaborarlos, así como con las materias primas esenciales para la actividad de la industria nacional, que consistan en:
-
-a).- El acaparamiento, ocultación o injustificada negativa para su venta, con el objeto de obtener un alza en los precios o afectar el abasto a los consumidores.
-
-b).- Todo acto o procedimiento que evite o dificulte, o se proponga evitar o dificultar la libre concurrencia en la producción o en el comercio.
-
-c).- La limitación de la producción o el manejo que se haga de la misma, con el propósito de mantener las mercancías en injusto precio.
-
-d).- Todo acuerdo o combinación, de cualquier manera que se haga, de productores, industriales, comerciantes o transportistas, para evitar la competencia entre sí y traiga como consecuencia que los consumidores o usuarios paguen precios exagerados.
-
-e).- La suspensión de la producción, procesamiento, distribución, oferta o venta de mercancías o de la prestación de servicios, que efectúen los industriales, comerciantes, productores, empresarios o prestadores de servicios, con el objeto de obtener un alza en los precios o se afecte el abasto de los consumidores.
-
-> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
-
-Si se depone la conducta ilícita dentro de los dos días hábiles siguientes al momento en que la autoridad administrativa competente lo requiera, la sanción aplicable será de seis meses a tres años de prisión, o de cien a quinientos días multa;
-
-f).- La exportación, sin permiso de la autoridad competente cuando éste sea necesario de acuerdo con las disposiciones legales aplicables.
-
-> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
-
-g).- La venta con inmoderado lucro, por los productores, distribuidores o comerciantes en general. En los casos de que el lucro indebido sea inferior al equivalente a sesenta días del salario mínimo general vigente en la región y en el momento donde se consuma el delito, se sancionará con prisión de dos a seis años y de sesenta a trescientos días multa;
-
-h).- Distraer, para usos distintos mercancías que hayan sido surtidas para un fin determinado, por una entidad pública o por sus distribuidores, cuando el precio a que se hubiese entregado la mercancía sea inferior al que tenga si se destina a otros usos.
-
-> <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
-
-i).- Impedir o tratar de impedir la generación, conducción, transformación, distribución o venta de energía eléctrica de servicio público.
-
-> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 1979)</small>
-
-II.- Envasar o empacar las mercancías destinadas para la venta, en cantidad inferior a la indicada como contenido neto y fuera de la respectiva tolerancia o sin indicar en los envases o empaques el precio máximo oficial de venta al público, cuando se tenga la obligación de hacerlo.
-
-> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 1979)</small>
-
-III.- Entregar dolosa y repetidamente, cuando la medición se haga en el momento de la transacción, mercancías en cantidades menores a las convenidas.
-
-> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 1979)</small>
-
-IV.- Alterar o reducir por cualquier medio las propiedades que las mercancías o productos debieran tener.
-
-> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 1979)</small>
-
-V.- Revender a un organismo público, a precios mínimos de garantía o a los autorizados por la Secretaría de Comercio, productos agropecuarios, marinos, fluviales y lacustres adquiridos a un precio menor. Se aplicará la misma sanción al empleado o funcionario del organismo público que los compre a sabiendas de esa situación o propicie que el productor se vea obligado a vender a precios más bajos a terceras personas.
-
-> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 1979)</small>
-
-En cualquiera de los casos señalados en las fracciones anteriores, el juez podrá ordenar, además, la suspensión hasta por un año o la disolución de la empresa de la que el delincuente sea miembro o representante, si concurren las circunstancias mencionadas en el artículo 11 de este Código.
-
-> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 1979)</small>
-
-En los casos de los incisos a), f) y h), de la fracción I y de la IV de este artículo, la autoridad que tenga conocimiento de los hechos procederá de inmediato a depositar los artículos de consumo necesario o generalizado, las materias primas para elaborarlos o las materias primas esenciales para la actividad industrial nacional. El depósito se efectuará en un almacén general de depósito que sea organización nacional auxiliar de crédito y los bienes serán genéricamente designados, en los términos del artículo 281 de la Ley General de Títulos y Operaciones de Crédito; cuando se trate de bienes cuya especial naturaleza no permita el depósito genérico, se constituirá el específico, señalando asimismo, el plazo y condiciones en que habrá de procederse a su venta o destrucción conforme a lo que establece el artículo 282 de la misma Ley. El certificado de depósito que se expida tendrá el carácter de no negociable y será rimitido (sic) al Ministerio Público o, en su caso, al Juez que conozca del proceso, para los efectos que procedan.
-
-> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 1979)</small>
-
-Lo dispuesto en este artículo se aplicará sin perjuicio de las medidas y sanciones administrativas que establezcan las leyes correspondientes.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ARTICULO 253 bis.- (DEROGADO, D.O.F. 5 DE DICIEMBRE DE 1979)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
-
 ###### ARTICULO 254.
 
-Se aplicarán igualmente las sanciones del Artículo 253:
-
-> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-I.- Por destrucción indebida de materias primas, productos agrícolas o industriales o medios de producción, que se haga con perjuicio del consumo nacional;
-
-> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-II.- Cuando se ocasione la difusión de una enfermedad de las plantas o de los animales con peligro de la economía rural;
-
-III.- Cuando se publiquen noticias falsas, exageradas o tendenciosas o por cualquier otro medio indebido se produzcan trastornos en el mercado interior, ya sea tratándose de mercancías, de monedas o títulos y efectos de comercio.
-
-> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 1955)</small>
-
-IV.- Al que dolosamente, en operaciones mercantiles exporte mercancías nacionales de calidad inferior, o en menor cantidad de lo convenido.
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
-
-V.- Al que dolosamente adquiera, posea o trafique con semillas, fertilizantes, plaguicidas, implementos y otros materiales destinados a la producción agropecuaria que se hayan entregado a los productores por alguna entidad o dependencia pública a precio subsidiado.
-
-En los distritos de riego, el agua de riego será considerada como material a precio subsidiado.
-
-Si el que entregue los insumos referidos, fuere el productor que los recibió de las instituciones oficiales, se le aplicará una pena de 3 días a 3 años de prisión.
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
-
-VI.- A los funcionarios o empleados de cualquiera entidad o dependencia pública que entreguen estos insumos a quienes no tengan derecho a recibirlos; o que indebidamente nieguen o retarden la entrega a quienes tienen derecho a recibirlos, se harán acreedores a las sanciones del artículo 253.
-
-> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 1996)</small>
-
-VII.- Al que sin derecho realice cualquier sustracción o alteración a equipos o instalaciones de la industria petrolera a que se refiere la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo, y
-
-> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 1996)</small>
-
-VIII.- Al que sin derecho realice cualquier sustracción o alteración de equipos o instalaciones del servicio público de energía eléctrica.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ARTICULO 254 bis.- (DEROGADO, D.O.F. 13 DE DICIEMBRE DE 1996)
 
-> <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
-
-ARTICULO 254 ter.- Se impondrá de tres meses a un año de prisión o de cien a trescientos días multa a quien, sin derecho, obstruya o impida en forma total o parcial, el acceso o el funcionamiento de cualesquiera de los equipos, instalaciones o inmuebles afectos de la industria petrolera a que se refiere la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo o bien de los equipos, instalaciones o inmuebles afectos del servicio público de energía eléctrica.
-
-Si con los actos a que se refiere el párrafo anterior se causa algún daño, la pena será de dos a nueve años de prisión y de doscientos cincuenta a dos mil días multa.
+ARTICULO 254 ter.- (DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ### CAPITULO II. Vagos y malvivientes
 
@@ -3258,29 +3010,31 @@ Delitos contra la Libertad y el Normal Desarrollo Psicosexual
 
 ### CAPITULO I. Hostigamiento sexual, abuso sexual, estupro y violación
 
-> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 1991)</small>
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-ARTICULO 259 bis.- Al que con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá sanción hasta de cuarenta días multa. Si el hostigador fuese servidor público y utilizace (sic) los medios o circunstancias que el encargo le proporcione, se le destituirá de su cargo.
+ARTICULO 259 BIS.- Al que asedie, acose o solicite favores de naturaleza sexual para sí o para un tercero con la amenaza de causar a la víctima un mal relacionado con las expectativas que pueda tener en el ámbito de una relación, bien sea entre superior e inferior jerárquico, entre iguales o en cualquier circunstancia que los relacione en el campo laboral, docente, doméstico o cualquier otro, se le impondrá sanción de uno a tres años de prisión.
 
-Solamente será punible el hostigamiento sexual, cuando se cause un perjuicio o daño.
+Si el hostigador fuese servidor público y utilizase los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo anterior, se le destituirá de su encargo.
 
-Sólo se procederá contra el hostigador, a petición de parte ofendida.
+El delito previsto por este artículo sólo será perseguido por querella del ofendido o de su legítimo representante.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 260.
 
-Al que sin el consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto sexual o la obligue a ejecutarlo, se le impondrá pena de seis meses a cuatro años de prisión.
+Al que sin consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto sexual, la obligue a observarlo o la haga ejecutar dicho acto, se le impondrá de uno a cuatro años de prisión.
 
 > <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1991)</small>
 
 Si se hiciere uso de la violencia física o moral, el mínimo y el máximo de la pena se aumentarán hasta en una mitad.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 261.
 
-Al que sin el propósito de llegar a la cópula, ejecute un acto sexual en una persona menor de doce años de edad o persona que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo, se le aplicará una pena de dos a cinco años de prisión.
+Al que sin el propósito de llegar a la cópula ejecute un acto sexual en una persona menor de doce años o persona que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo, o la obligue a observar o ejecutar dicho acto, se le impondrán de dos a cinco años de prisión.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
 Si se hiciere uso de la violencia física o moral, el mínimo y el máximo de la pena se aumentarán hasta en una mitad.
 
@@ -3380,21 +3134,19 @@ Se aplicará esta misma sanción en caso de incesto entre hermanos.
 
 ###### ARTICULO 273.
 
-Se aplicará prisión hasta de dos años y privación de derechos civiles hasta por seis años, a los culpables de adulterio cometido en el domicilio conyugal o con escándalo.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 274.
 
-No se podrá proceder contra los adúlteros sino a petición del cónyuge ofendido, pero cuando éste formule su querella contra uno solo de los culpables, se procederá contra los dos y los que aparezcan como codelincuentes.
-
-Esto se entiende en el caso de que los dos adúlteros vivan, estén presentes y se hallen sujetos a la acción de la justicia del país; pero cuando no sea así, se podrá proceder contra el responsable que se encuentre en esas condiciones.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 275.
 
-Sólo se castigará el adulterio consumado.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 276.
 
-Cuando el ofendido perdone a su cónyuge, cesará todo procedimiento si no se ha dictado sentencia, y si ésta se ha dictado, no producirá efecto alguno. Esta disposición favorecerá a todos los responsables.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -3472,6 +3224,60 @@ I. Al que viole un túmulo, un sepulcro, una sepultura o féretro, y
 
 II. Al que profane un cadáver o restos humanos con actos de vilipendio, mutilación, brutalidad o necrofilia. Si los actos de necrofilia consisten en la realización del coito, la pena de prisión será de cuatro a ocho años.
 
+> <small>(ADICIONADO CON EL CAPITULO QUE LO INTEGRA, G.O. 17 DE SEPTIEMBRE DE 1999)</small>
+
+(REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+TITULO DECIMOSEPTIMO BIS
+
+DELITOS CONTRA LA DIGNIDAD DE LAS PERSONAS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 17 DE SEPTIEMBRE DE 1999)</small>
+
+(REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+### CAPITULO UNICO. (ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+ARTICULO 281 BIS.- Se impondrá pena de uno a tres años de prisión, de cincuenta a doscientos días multa y de veinticinco a cien días de trabajo en favor de la comunidad al que, por razón de edad, sexo, embarazo, estado civil, raza, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, carácter físico, discapacidad o estado de salud:
+
+I. Provoque o incite al odio o a la violencia;
+
+II. En ejercicio de sus actividades profesionales, mercantiles o empresariales, niegue a una persona un servicio o una prestación a la que tenga derecho;
+
+Para los efectos de esta fracción, se considera que toda persona tiene derecho a los servicios o prestaciones que se ofrecen al público en general.
+
+III. Veje o excluya a alguna persona o grupo de personas cuando dichas conductas tengan por resultado un daño material o moral; o
+
+IV. Niegue o restrinja derechos laborales.
+
+Al que, siendo servidor Público, incurra en alguna en alguna (sic) de las conductas previstas en este artículo o niegue o retarde a una persona un trámite o servicio al que tenga derecho, se le aumentará en una mitad la pena prevista en el primer párrafo, y se le impondrá la destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por el mismo lapso de la privación de la libertad impuesta.
+
+No serán considerados como delitos contra la dignidad de la persona todas aquellas medidas tendientes a la protección de los grupos socialmente desfavorecidos.
+
+Este delito solamente se perseguirá por querella de parte ofendida o de su legítimo representante.
+
+(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+ARTICULO 281 TER.- Comete el delito de tortura el servidor público que, con motivo de sus atribuciones, inflija a una persona dolores o sufrimientos graves, sean físicos o psíquicos, con el fin de obtener, del torturado o de un tercero, información o una confesión, o castigarla por acto que haya cometido o se sospeche ha cometido, o coaccionarla para que realice o deje de realizar una conducta determinada o con cualquier otro fin. A quien cometa este delito se le sancionará con prisión de tres a doce años, multa de doscientos a quinientos días multa e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por dos tantos del lapso de privación de libertad impuesta.
+
+Se entenderá también como tortura la aplicación sobre una persona de métodos tendientes a anular la personalidad de la víctima o a disminuir su capacidad física o mental, aunque no causen dolor físico o angustia psíquica.
+
+Se sancionará con la misma pena al servidor público que, con cualquiera de las finalidades señaladas en los párrafos anteriores, instigue, compela, o autorice a un tercero o se sirva de él para infligir a una persona dolores o sufrimientos graves, sean físicos, psíquicos; o no evite que se inflijan dichos dolores o sufrimientos a una persona que este bajo su custodia.
+
+La pena prevista en el presente artículo también será aplicable al tercero que, con cualquier finalidad, instigado o autorizado, explícita o implícitamente, por un servidor público, inflija dolores o sufrimientos graves, sean físicos o psíquicos, a un detenido.
+
+Ninguna confesión o información que haya sido obtenida mediante tortura podrá invocarse como prueba.
+
+No se considerarán como tortura las molestias o penalidades que sean consecuencia de sanciones legales, que sean inherentes o incidentales a éstas, o derivadas de un acto legítimo de autoridad.
+
+(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+ARTICULO 281 QUATER.- El servidor público que en el ejercicio de sus funciones conozca de un hecho de tortura, está obligado a denunciarlo de inmediato; si no lo hiciere, se le impondrán tres meses a tres años de prisión, y de quince a sesenta días multa.
+
+(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+ARTICULO 281 QUINTUS.- No se considerarán como causas excluyentes de responsabilidad del delito de tortura el que se invoquen o existan situaciones excepcionales como inestabilidad política interna, urgencia en las investigaciones o cualquier otra circunstancia. Tampoco podrá invocarse como justificación la orden de un superior jerárquico o de cualquier otra autoridad.
+
 TITULO DECIMOCTAVO
 
 Delitos contra la paz y seguridad de las personas
@@ -3479,8 +3285,6 @@ Delitos contra la paz y seguridad de las personas
 ### CAPITULO I. Amenazas
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
-
-### CAPITULO II. Allanamiento de morada y asalto
 
 ###### ARTICULO 282.
 
@@ -3490,13 +3294,19 @@ I.- Al que de cualquier modo amenace a otro con causarle un mal en su persona, e
 
 II.- Al que por medio de amenazas de cualquier género trate de impedir que otro ejecute lo que tiene derecho a hacer.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-Si el ofendido fuere alguno de los parientes o personas a que se refieren los artículos 343 bis y 343 ter, en este último caso siempre y cuando habiten en el mismo domicilio, se aumentará la pena que corresponda hasta en una tercera parte en su mínimo y en su máximo.
+Si el ofendido fuere alguno de los parientes o personas a que se refieren los artículos 343 bis y 343 ter, se aumentará la pena que corresponda hasta en una tercera parte en su mínimo y en su máximo.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 Los delitos previstos en este artículo se perseguirán por querella.
+
+(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+###### ARTICULO 282 Bis.
+
+Se aplicarán de cinco a ocho años de prisión y de ciento ochenta a trescientos días multa al que por medio de acciones o amenazas de cualquier género, incluidas las efectuadas en contra de personas, bienes o derechos de terceros ligados por algún vínculo con las personas que en seguida se mencionan, efectuadas por sí o a través de interpósita persona, intimide, inhiba, o trate de intimidar o inhibir a la víctima de un delito, el querellante, los testigos o los peritos para que no rindan o alteren su testimonio o dictamen en una averiguación previa o en un proceso.
 
 ###### ARTICULO 283.
 
@@ -3520,7 +3330,7 @@ Si el amenazador exigió que el amenazado cometiera un delito, a la sanción de 
 
 > <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-### CAPITULO I. Lesiones
+### CAPITULO II. Allanamiento de morada y asalto
 
 ###### ARTICULO 285.
 
@@ -3544,7 +3354,7 @@ TITULO DECIMONOVENO
 
 Delitos contra la vida y la integridad corporal
 
-### CAPITULO II. Homicidio
+### CAPITULO I. Lesiones
 
 ###### ARTICULO 288.
 
@@ -3606,19 +3416,17 @@ Cuando concurra una sola de las circunstancias a que se refiere el artículo 315
 
 (DEROGADO, D.O.F. 10 DE ENERO DE 1994)
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 300.
 
-Si la víctima fuere alguno de los parientes o personas a que se refieren los artículos 343 bis y 343 ter, en este último caso siempre y cuando habiten en el mismo domicilio, se aumentará la pena que corresponda hasta en una tercera parte en su mínimo y en su máximo, con arreglo a los artículos que preceden, salvo que también se tipifique el delito de violencia familiar.
+Si la víctima fuere alguno de los parientes o personas a que se refieren los artículos 343 bis y 343 ter, se aumentará la pena que corresponda hasta en una tercera parte en su mínimo y en su máximo, con arreglo a los artículos que preceden, salvo que también se tipifique el delito de violencia familiar.
 
 ###### ARTICULO 301.
 
 De las lesiones que a una persona cause algún animal bravío, será responsable el que con esa intención lo azuce, o lo suelte o haga esto último por descuido.
 
-### CAPITULO III. Reglas comunes para lesiones y homicidio
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+### CAPITULO II. Homicidio
 
 ###### ARTICULO 302.
 
@@ -3676,7 +3484,7 @@ Además de lo dispuesto en los artículos 51 y 52 para la fijación de las penas
 
 (DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
 
-### CAPITULO IV. Homicidio en razón del parentesco o relación
+### CAPITULO III. Reglas comunes para lesiones y homicidio
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -3770,7 +3578,9 @@ II.- Prohibirles ir a determinado lugar, Municipio, Distrito o Estado, o residir
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
 
-### CAPITULO V. Infanticidio
+### CAPITULO IV. Homicidio en razón del parentesco o relación
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 323.
 
@@ -3780,7 +3590,7 @@ Al que prive de la vida a su ascendiente o descendiente consanguíneo en línea 
 
 (DEROGADO, D.O.F. 10 DE ENERO DE 1994)
 
-### CAPITULO VI. Aborto
+### CAPITULO V. Infanticidio
 
 ###### ARTICULO 325.
 
@@ -3798,7 +3608,7 @@ Al que prive de la vida a su ascendiente o descendiente consanguíneo en línea 
 
 (DEROGADO, D.O.F. 10 DE ENERO DE 1994)
 
-### CAPITULO VII. Abandono de personas
+### CAPITULO VI. Aborto
 
 ###### ARTICULO 329.
 
@@ -3834,39 +3644,29 @@ No es punible el aborto causado sólo por imprudencia de la mujer embarazada, o 
 
 No se aplicará sanción: cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPITULO VIII. Violencia familiar
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
-
-ARTICULO 343 bis.- Por violencia familiar se considera el uso de la fuerza física o moral así como la omisión grave, que de manera reiterada se ejerce en contra de un miembro de la familia por otro integrante de la misma contra su integridad física, psíquica o ambas, independientemente de que pueda producir o no lesiones.
-
-Comete el delito de violencia familiar el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, que habite en la misma casa de la víctima.
-
-A quien comete el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión y perderá el derecho de pensión alimenticia. Asimismo se le sujetará a tratamiento psicológico especializado.
-
-Este delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz, en que se perseguirá de oficio.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
-
-ARTICULO 343 ter.- Se equipara a la violencia familiar y se sancionará con seis meses a cuatro años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera del matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona, o de cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona, siempre y cuando el agresor y el agredido habiten en la misma casa.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
-
-ARTICULO 343 quáter.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma. La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
+### CAPITULO VII. Abandono de personas
 
 ###### ARTICULO 335.
 
 Al que abandone a un niño incapaz de cuidarse a sí mismo o a una persona enferma, teniendo obligación de cuidarlos, se le aplicarán de un mes a cuatro años de prisión, sí no resultare daño alguno, privándolo, además, de la patria potestad o de la tutela, si el delincuente fuere ascendiente o tutor del ofendido.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 336.
 
-Al que sin motivo justificado abandone a sus hijos o a su cónyuge, sin recursos para atender a sus necesidades de subsistencia, se le aplicarán de un mes a cinco años de prisión o de 180 a 360 días multa; privación de los derechos de familia, y pago, como reparación del daño, de las cantidades no suministradas oportunamente por el acusado.
+Al que sin motivo justificado abandone a sus hijas, hijos o a su cónyuge, sin recursos para atender a sus necesidades de subsistencia, aún cuando posteriormente cuenten con el apoyo de familiares o terceros, se le aplicará de un mes a cinco años de prisión o de 180 a 360 días multa; privación de los derechos de familia y pago, como reparación del daño, de las cantidades no suministradas oportunamente por el acusado.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 10 DE ENERO DE 1994)</small>
+Se equipara al abandono de personas y se aplicará la misma sanción al que, aún viviendo en el mismo domicilio y sin motivo justificado, no proporcione los recursos necesarios para la subsistencia de sus hijas, hijos, su cónyuge o concubina. Para los efectos del presente artículo, se tendrá por consumado el abandono aún cuando los hijos sean dejados al cuidado de un familiar sin limitación de grado, o de una casa de asistencia.
 
-ARTICULO 336 bis.- Al que dolosamente se coloque en estado de insolvencia con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá pena de prisión de seis meses a tres años. El juez resolverá la aplicación del producto del trabajo que realice el agente a la satisfacción de las obligaciones alimentarias de éste.
+La misma pena se aplicará a aquél que teniendo la obligación de dar alimentos, no los proporcione sin causa justificada.
+
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+###### ARTICULO 336 Bis.
+
+Al que dolosamente se coloque en estado de insolvencia con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá pena de prisión de uno a cuatro años. El juez resolverá la aplicación del producto del trabajo que realice el agente a la satisfacción de las obligaciones alimentarias de éste.
+
+La misma pena se aplicará a aquellas personas que, estando obligadas a informar acerca de los ingresos de quienes deban cumplir con todas las obligaciones señaladas en los artículos anteriores, incumplan con la orden judicial de hacerlo.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1977)</small>
 
@@ -3908,11 +3708,33 @@ Los ascendientes o tutores que entreguen en una casa de expósitos un niño que 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO I. Golpes y otras violencias físicas simples
+### CAPITULO VIII. Violencia familiar
+
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+ARTICULO 343 BIS.- Por violencia familiar se considera el uso de la fuerza física o moral, así como la omisión grave, que se ejercer en contra de un miembro de la familia por otro integrante de la misma contra su integridad física, psíquica o ambas, independientemente de que pueda producir o no lesiones.
+
+Comete el delito de violencia familiar el cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, que haga uso de la fuerza física o moral, o que incurra en la omisión grave.
+
+La educación o formación del menor no será en ningún caso considerada justificación para forma alguna de maltrato.
+
+A quien comete el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión, prohibición de ir a lugar determinado, en su caso, caución de no ofender y perderá el derecho de pensión alimenticia. Asimismo se le sujetará a tratamiento psicológico especializado, que en ningún caso excederá del tiempo impuesto en la pena de prisión, independientemente de las sanciones que correspondan por las lesiones inferidas o por cualquier otro delito que resulte. En caso de reincidencia, la pena de prisión se aumentará hasta en una mitad.
+
+Este delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz.
+
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+ARTICULO 343 TER.- Se equipara a la violencia familiar y se sancionará con prisión de seis meses a cuatro años, al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentra unida fuera de matrimonio, de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona, o de cualquier otra persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado, siempre y cuando el agresor y el ofendido convivan o hayan convivido en la misma casa.
+
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+ARTICULO 343 QUATER.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público apercibirá al probable responsable para que se abstenga de cualquier conducta que pudiera resultar ofensiva para la víctima y acordará las medidas necesarias para salvaguardar la integridad física o psíquica de la misma. La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes de manera inmediata, que en ningún caso excederá de veinticuatro horas, y el juez resolverá sin dilación.
+
+Al servidor público que incumpla con lo establecido en el párrafo anterior se le aplicará la sanción de treinta a cuarenta días multa.
 
 ## TITULO VIGESIMO. Delitos contra el honor
 
-### CAPITULO II. Injurias y difamación
+### CAPITULO I. Golpes y otras violencias físicas simples
 
 ###### ARTICULO 344.
 
@@ -3930,9 +3752,7 @@ Los ascendientes o tutores que entreguen en una casa de expósitos un niño que 
 
 (DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
 
-### CAPITULO III. Calumnia
-
-> <small>(F. DE E. D.O.F. 12 DE SEPTIEMBRE DE 1931)</small>
+### CAPITULO II. Injurias y difamación
 
 ###### ARTICULO 348.
 
@@ -3950,9 +3770,9 @@ El delito de difamación se castigará con prisión hasta de dos años o multa d
 
 La difamación consiste: en comunicar dolosamente a una o más personas, la imputación que se hace a otra persona física, o persona moral en los casos previstos por la ley, de un hecho cierto o falso, determinado, o indeterminado, que pueda causarle deshonra, descrédito, perjuicio, o exponerlo al desprecio de alguien.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-Si el ofendido fuere alguno de los parientes o personas a que se refieren los artículos 343 bis y 343 ter, en este último caso siempre y cuando habite en el mismo domicilio con la víctima, la pena se aumentará en un tercio.
+Si el ofendido fuere alguno de los parientes o personas a que se refieren los artículos 343 bis y 343 ter, la pena se aumentará en un tercio.
 
 ###### ARTICULO 351.
 
@@ -3964,9 +3784,11 @@ II.- Cuando el hecho imputado esté declarado cierto por sentencia irrevocable y
 
 En estos casos se librará de toda sanción el acusado, si probare su imputación.
 
+(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 ###### ARTICULO 352.
 
-No se aplicará sanción alguna como reo de difamación ni de injuria:
+No se aplicará sanción alguna por difamación:
 
 I.- Al que manifieste técnicamente su parecer sobre alguna producción literaria, artística, científica o industrial.
 
@@ -3976,13 +3798,17 @@ II.- Al que manifestare su juicio sobre la capacidad, instrucción, aptitud o co
 
 III.- Al autor de un escrito presentado o de un discurso pronunciado en los tribunales, pues si hiciere uso de alguna expresión difamatoria o injuriosa, los jueces, según la gravedad del caso, le aplicarán alguna de las correcciones disciplinarias de las que permita la ley.
 
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 ###### ARTICULO 353.
 
-Lo prevenido en la fracción última del artículo anterior, no comprende el caso en que la imputación sea calumniosa, o se extienda a personas extrañas al litigio, o envuelva hechos que no se relacionen con el negocio de que se trata. Si así fuere, se aplicarán las sanciones de la injuria, de la difamación o de la calumnia.
+Lo prevenido en la fracción última del artículo anterior, no comprende el caso en que la imputación sea calumniosa, o se extienda a personas extrañas al litigio, o envuelva hechos que no se relacionen con el negocio de que se trata. Si así fuere, se aplicarán las sanciones de la difamación o de la calumnia.
+
+(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 354.
 
-El injuriado o difamado a quien se impute un delito determinado que no se pueda perseguir de oficio, podrá quejarse de injuria, de difamación o de calumnia, según le conviniere.
+El difamado a quien se impute un delito determinado que no se pueda perseguir de oficio, podrá quejarse de difamación o de calumnia, según le conviniere.
 
 Cuando el delito sea de los que se persiguen de oficio, solamente podrá acusarse por calumnia.
 
@@ -3994,7 +3820,9 @@ Cuando la queja fuere de calumnia, se permitirán al reo pruebas de su imputaci�
 
 No servirá de excusa de la difamación, ni de la calumnia: que el hecho imputado sea notorio, o que el reo no haya hecho más que reproducir lo ya publicado en la República o en otro país.
 
-### CAPITULO IV. Disposiciones comunes para los capítulos precedentes
+### CAPITULO III. Calumnia
+
+> <small>(F. DE E. D.O.F. 12 DE SEPTIEMBRE DE 1931)</small>
 
 ###### ARTICULO 356.
 
@@ -4022,37 +3850,33 @@ No se admitirá prueba alguna de su imputación al acusado de calumnia, ni se li
 
 Cuando haya pendiente un juicio, en averiguación de un delito imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que dicho juicio termine. En este caso la prescripción comenzará a correr cuando termine el juicio.
 
-### CAPITULO UNICO
+### CAPITULO IV. Disposiciones comunes para los capítulos precedentes
 
-> <small>(REFORMADO PRIMER PARRAFO D.O.F. 13 DE MAYO DE 1996)</small>
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 360.
 
-No se podrá proceder contra el autor de una injuria, difamación o calumnia, sino por queja de la persona ofendida, excepto en los casos siguientes:
+No se podrá proceder contra el autor de una difamación o calumnia, sino por queja de la persona ofendida, excepto si el ofendido ha muerto y la difamación o la calumnia fueren posteriores a su fallecimiento, sólo se podrá proceder en virtud de queja del cónyuge, de los ascendientes, de los descendientes o de los hermanos.
 
-I.- Si el ofendido ha muerto y la injuria, la difamación o la calumnia fueren posteriores a su fallecimiento, sólo se podrá proceder en virtud de queja del cónyuge, de los ascendientes, de los descendientes o de los hermanos.
-
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-Cuando la injuria, la difamación y la calumnia sean anteriores al fallecimiento del ofendido, no se atenderá la queja de las personas mencionadas, si aquél hubiere perdonado la ofensa a sabiendas de que se le había inferido, no hubiere presentado en vida su queja pudiendo hacerlo, ni prevenido que lo hicieran sus herederos, y
-
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-II.- Cuando la ofensa sea contra la nación mexicana o contra una nación o gobierno extranjeros, o contra sus agentes diplomáticos en este país. En el primer caso, corresponderá hacer la acusación al Ministerio Público; pero será necesaria excitativa en los demás casos.
+Cuando la difamación y la calumnia sean anteriores al fallecimiento del ofendido, no se atenderá la queja de las personas mencionadas, si aquél hubiere perdonado la ofensa a sabiendas de que se le había inferido, no hubiere presentado en vida su queja pudiendo hacerlo, ni prevenido que lo hicieran sus herederos.
 
 ###### ARTICULO 361.
 
-La injuria, la difamación y la calumnia contra el Congreso, contra una de las Cámaras, contra un tribunal o contra cualquier otro cuerpo colegiado o institución oficial, se castigará con sujeción a las reglas de este título, sin perjuicio de lo dispuesto en el artículo 190 de este Código.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 362.
 
-Los escritos, estampas, pinturas o cualquiera otra cosa que hubiere servido de medio para la injuria, la difamación o la calumnia, se recogerán e inutilizarán, a menos que se trate de algún documento público o de uno privado que importe obligación, liberación o transmisión de derechos.
+Los escritos, estampas, pinturas o cualquiera otra cosa que hubiere servido de medio para la difamación o la calumnia, se recogerán e inutilizarán, a menos que se trate de algún documento público o de uno privado que importe obligación, liberación o transmisión de derechos.
 
 En tal caso, se hará en el documento una anotación sumaria de la sentencia pronunciada contra el acusado.
 
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 ###### ARTICULO 363.
 
-Siempre que sea condenado el responsable de una injuria, de una difamación o de una calumnia, si lo solicita la persona ofendida, se publicará la sentencia en tres periódicos a costa de aquél. Cuando el delito se cometa por medio de un periódico, los dueños, gerentes o directores de éste, tengan o no responsabilidad penal, estarán obligados a publicar el fallo, imponiéndoseles multa de cien pesos por cada día que pase sin hacerlo, después de aquel en que se les notifique la sentencia. El importe de la multa no podrá exceder de diez mil pesos.
+Siempre que sea condenado el responsable de una difamación o una calumnia, si lo solicita la persona ofendida, se publicará la sentencia en tres periódicos a costa de aquél.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE JULIO DE 1970)</small>
 
@@ -4060,27 +3884,15 @@ Siempre que sea condenado el responsable de una injuria, de una difamación o de
 
 > <small>(DEROGADA SU DENOMINACION, D.O.F. 29 DE JULIO DE 1970)</small>
 
-### CAPITULO I. Robo
+### CAPITULO UNICO. ((REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 364.
 
-Se impondrá de seis meses a tres años de prisión y de veinticinco a cien días multa:
-
-> <small>(REFORMADA, D.O.F. 13 DE MAYO DE 1996)</small>
-
-I.- Al particular que prive a otro de su libertad hasta por cinco días. Si la privación de la libertad excede de cinco días, la pena de prisión será de un mes más por cada día.
-
-> <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
+Se impondrá de seis meses a tres años de prisión y de veinticinco a cien días multa al particular que prive a otro de su libertad hasta por cinco días. Si la privación de la libertad excede de cinco días, la pena de prisión será de un mes más por cada día.
 
 La pena de prisión se aumentará hasta en una mitad, cuando la privación de la libertad se realice con violencia, cuando la víctima sea menor de dieciséis o mayor de sesenta años de edad, o cuando por cualquier circunstancia, la víctima esté en situación de inferioridad física o mental respecto de quien la ejecuta.
 
-> <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
-
-Si el agente espontáneamente libera a la víctima dentro de los tres días siguientes al de la privación de la libertad, la pena de prisión será de hasta la mitad, y
-
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-II.- Al que de alguna manera viole, con perjuicio de otro, los derechos y garantías establecidos por la Constitución General de la República en favor de las personas.
+Si el agente espontáneamente libera a la víctima dentro de los tres días siguientes al de la privación de la libertad, la pena de prisión será de hasta la mitad.
 
 ###### ARTICULO 365.
 
@@ -4132,9 +3944,9 @@ Si espontáneamente se libera al secuestrado dentro de los tres días siguientes
 
 En los demás casos en que espontáneamente se libere al secuestrado, sin lograr alguno de los propósitos a que se refiere la fracción I anterior, las penas de prisión aplicables serán hasta de tres a diez años y de doscientos cincuenta hasta quinientos días multa.
 
-(ADICIONADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-En caso de que el secuestrado sea privado de la vida, por su o sus secuestradores, la pena será hasta de cincuenta años de prisión.
+En caso de que el secuestrado fallezca en el tiempo en que se encuentre privado de su libertad, la pena será hasta de cincuenta años de prisión. Si el secuestrado es privado de la vida por su o sus secuestradores, se aplicarán las reglas de concurso de delitos.
 
 > <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
@@ -4156,7 +3968,9 @@ VI. Intimide a la víctima, a sus familiares o a sus representantes o gestores, 
 
 ARTICULO 366 TER.- Al que con el consentimiento de un ascendiente que ejerza la patria potestad o de quien tenga a su cargo la custodia de un menor, aunque ésta no haya sido declarada, ilegítimamente lo entregue a un tercero para su custodia definitiva, a cambio de un beneficio económico, se le aplicará pena de prisión de dos a nueve años y de doscientos a quinientos días multa.
 
-La misma pena a que se refiere el párrafo anterior se aplicará a los que otorguen el consentimiento a que alude este numeral y al tercero que reciba al menor.
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+La misma pena a que se refiere el párrafo anterior se aplicará a los que otorguen el consentimiento a que alude este numeral, al tercero que reciba al menor o al ascendiente que, sin intervención de intermediario, incurra en la conducta señalada en el párrafo anterior.
 
 Si la entrega definitiva del menor se hace sin la finalidad de obtener un beneficio económico, la pena aplicable al que lo entrega será de uno a tres años de prisión.
 
@@ -4174,9 +3988,7 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 ## TITULO VIGESIMO SEGUNDO. Delitos en contra de las personas en su patrimonio
 
-### CAPITULO II. Abuso de confianza
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+### CAPITULO I. Robo
 
 ###### ARTICULO 367.
 
@@ -4192,9 +4004,7 @@ I.- El apoderamiento o destrucción dolosa de una cosa propia mueble, si ésta s
 
 II.- El aprovechamiento de energía eléctrica o de cualquier otro flúido, ejecutado sin derecho y sin consentimiento de la persona que legalmente pueda disponer de él.
 
-> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 1996)</small>
-
-III.- La sustracción o aprovechamiento de hidrocarburos o sus derivados, cualquiera que sea su estado físico, sin derecho y sin consentimiento de la persona que legalmente pueda autorizarlo, de los equipos o instalaciones de la industria petrolera a que se refiere la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo.
+III.- (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 > <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
@@ -4368,7 +4178,7 @@ XV.- Cuando el agente se valga de identificaciones falsas o supuestas órdenes d
 
 ARTICULO 381 bis.- Sin perjuicio de las sanciones que de acuerdo con los artículos 370 y 371 deben imponerse, se aplicarán de tres días a diez años de prisión al que robe en edificios, viviendas, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación no sólo los que están fijos en la tierra, sino también los moviles, sea cual fuere la materia de que estén construidos. En los mismos términos se sancionará al que se apodere de cualquier vehículo estacionado en la vía pública o en lugar destinado a su guarda o reparación; o al que se apodere en campo abierto o paraje solitario de una o más cabezas de ganado mayor o de sus crías. Cuando el apoderamiento se realice sobre una o más cabezas de ganado menor, además de lo dispuesto en los artículos 370 y 371, se impondrán hasta las dos terceras partes de la pena comprendida en este artículo.
 
-### CAPITULO III. Fraude
+### CAPITULO II. Abuso de confianza
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -4408,9 +4218,9 @@ Se reputa como abuso de confianza la ilegítima posesión de la cosa retenida si
 
 Se considera como abuso de confianza y se sancionará con seis meses a seis años de prisión y multa hasta de cien veces el salario a quien disponga indebidamente o se niegue sin justificación a entregar un vehículo recibido en depósito de autoridad competente, relacionado con delitos por tránsito de vehículos, habiendo sido requerido por la autoridad que conozca o siga conociendo del caso.
 
-### CAPITULO III BIS. Extorsión
+### CAPITULO III. Fraude
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 386.
 
@@ -4418,15 +4228,17 @@ Comete el delito de fraude el que engañando a uno o aprovechándose del error e
 
 El delito de fraude se castigará con las penas siguientes:
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-I.- Con prisión de 3 días a 6 meses o de 30 a 180 días multa, cuando el valor de lo defraudado no exceda de diez veces el salario;
+I. Con prisión de tres meses a tres años o multa de cien a trescientos días multa, cuando el valor de lo defraudado no exceda de quinientas veces el salario mínimo;
 
-(F. DE E., D.O.F. 13 DE ENERO DE 1982) (F. DE E., D.O.F. 15 DE ENERO DE 1982)
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-II.- Con prisión de 6 meses a 3 años y multa de 10 a 100 veces el salario, cuando el valor de lo defraudado excediera de 10, pero no de 500 veces el salario.
+II. Con prisión de tres a cinco años y multa de trescientos a mil días multa, cuando el valor de lo defraudado exceda de quinientas, pero no de cinco mil veces el salario mínimo; y
 
-III.- Con prisión de tres a doce años y multas hasta de ciento veinte veces el salario, si el valor de lo defraudado fuere mayor de quinientas veces el salario.
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+III. Con prisión de cinco a doce años y multa de mil a tres mil días multa, si el valor de lo defraudado fuere mayor de cinco mil veces el salario mínimo.
 
 > <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
@@ -4508,6 +4320,10 @@ No se procederá contra el agente cuando el libramiento no hubiese tenido como f
 
 Las Instituciones, sociedades nacionales y Organizaciones Auxiliares de Crédito, las de Fianzas y las de Seguros, así como los organismos Oficiales y Descentralizados, autorizados legalmente para operar con inmuebles, quedan exceptuados de la obligación de constituir el depósito a que se refiere la fracción XIX.
 
+(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+XXII. Al que, para obtener algún beneficio para sí o para un tercero, por cualquier medio accese, entre o se introduzca a los sistemas o programas de informática del sistema financiero e indebidamente realice operaciones, transferencias o movimientos de dinero o valores, independientemente de que los recursos no salgan de la Institución.
+
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 388.
@@ -4536,7 +4352,9 @@ Este delito se sancionará con las penas previstas en el artículo 386 de este C
 
 > <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
-### CAPITULO IV. De los delitos cometidos por los comerciantes sujetos a concurso
+### CAPITULO III BIS. Extorsión
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 390.
 
@@ -4546,9 +4364,15 @@ Al que sin derecho obligue a otro a dar, hacer, dejar de hacer o tolerar algo, o
 
 Las penas se aumentarán hasta un tanto más si el constreñimiento se realiza por una asociación delictuosa, o por servidor público o ex-servidor público, o por miembro o ex-miembro de alguna corporación policial o de las Fuerzas Armadas Mexicanas. En este caso, se impondrá además al servidor o ex-servidor público y al miembro o ex-miembro de alguna corporación policial, la destitución del empleo, cargo o comisión y la inhabilitación de uno a cinco años para desempeñar cargo o comisión públicos, y si se tratare de un miembro de las Fuerzas Armadas Mexicanas en situación de retiro, de reserva o en activo, la baja definitiva de la Fuerza Armada a que pertenezca y se le inhabilitará de uno a cinco años para desempeñar cargos o comisión públicos.
 
-### CAPITULO V. Despojo de cosas inmuebles o de aguas
+(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+###### ARTICULO 390 Bis.
+
+A quien simule encontrarse privado de su libertad con amenaza de su vida o daño a su persona, con el propósito de obtener rescate o con la intención de que la autoridad o un particular realice o deje de realizar un acto cualquiera, se le impondrán de tres a ocho años de prisión y de cien a quinientos días multa.
+
+La misma pena se aplicará a cualquiera que colabore en la comisión de este delito.
+
+### CAPITULO IV. De los delitos cometidos por los comerciantes sujetos a concurso
 
 ###### ARTICULO 391.
 
@@ -4566,7 +4390,9 @@ Las penas se aumentarán hasta un tanto más si el constreñimiento se realiza p
 
 (DEROGADO, D.O.F. 14 DE ENERO DE 1985)
 
-### CAPITULO VI. Daño en propiedad ajena
+### CAPITULO V. Despojo de cosas inmuebles o de aguas
+
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 395.
 
@@ -4588,9 +4414,7 @@ A quienes se dediquen en forma reiterada a promover el despojo de inmuebles urba
 
 A las penas que señala el artículo anterior, se acumulará la que corresponda por la violencia o la amenaza.
 
-### CAPITULO I. Encubrimiento
-
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
+### CAPITULO VI. Daño en propiedad ajena
 
 ###### ARTICULO 397.
 
@@ -4630,31 +4454,9 @@ Encubrimiento y operaciones con recursos de procedencia ilícita
 
 > <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
-### CAPITULO II. Operaciones con recursos de procedencia ilícita
+### CAPITULO I. Encubrimiento
 
-> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
-
-ARTICULO 400 bis.- Se impondrá de cinco a quince años de prisión y de mil a cinco mil días multa al que por sí o por interpósita persona realice cualquiera de las siguientes conductas: adquiera, enajene, administre, custodie, cambie, deposite, dé en garantía, invierta, transporte o transfiera, dentro del territorio nacional, de éste hacia el extranjero o a la inversa, recursos, derechos o bienes de cualquier naturaleza, con conocimiento de que proceden o representan el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar o pretender ocultar, encubrir o impedir conocer el origen, localización, destino o propiedad de dichos recursos, derechos o bienes, o alentar alguna actividad ilícita.
-
-La misma pena se aplicará a los empleados y funcionarios de las instituciones que integran el sistema financiero, que dolosamente presten ayuda o auxilien a otro para la comisión de las conductas previstas en el párrafo anterior, sin perjuicio de los procedimientos y sanciones que correspondan conforme a la legislación financiera vigente.
-
-La pena prevista en el primer párrafo será aumentada en una mitad, cuando la conducta ilícita se cometa por servidores públicos encargados de prevenir, denunciar, investigar o juzgar la comisión de delitos. En este caso, se impondrá a dichos servidores públicos, además, inhabilitación para desempeñar empleo, cargo o comisión públicos hasta por un tiempo igual al de la pena de prisión impuesta.
-
-En caso de conductas previstas en este artículo, en las que se utilicen servicios de instituciones que integran el sistema financiero, para proceder penalmente se requerirá la denuncia previa de la Secretaría de Hacienda y Crédito Público.
-
-Cuando dicha Secretaría, en ejercicio de sus facultades de fiscalización, encuentre elementos que permitan presumir la comisión de los delitos referidos en el párrafo anterior, deberá ejercer respecto de los mismos las facultades de comprobación que le confieren las leyes y, en su caso, denunciar hechos que probablemente puedan constituir dicho ilícito.
-
-Para efectos de este artículo se entiende que son producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito y no pueda acreditarse su legítima procedencia.
-
-Para los mismos efectos, el sistema financiero se encuentra integrado por las instituciones de crédito, de seguros y de fianzas, almacenes generales de depósito, arrendadoras financieras, sociedades de ahorro y préstamo, sociedades financieras de objeto limitado, uniones de crédito, empresas de factoraje financiero, casas de bolsa y otros intermediarios bursátiles, casas de cambio, administradoras de fondos de retiro y cualquier otro intermediario financiero o cambiario.
-
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE AGOSTO DE 1990)</small>
-
-TITULO VIGESIMOCUARTO
-
-Delitos electorales y en materia de registro nacional de ciudadanos.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 400.
 
@@ -4692,13 +4494,29 @@ El juez, teniendo en cuenta la naturaleza de la acción, las circunstancias pers
 
 > <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
+### CAPITULO II. Operaciones con recursos de procedencia ilícita
+
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+###### ARTICULO 400 Bis.
+
+Se impondrá de cinco a quince años de prisión y de mil a cinco mil días multa al que por sí o por interpósita persona realice cualquiera de las siguientes conductas: adquiera, enajene, administre, custodie, cambie, deposite, dé en garantía, invierta, transporte o por cualquier medio transfiera, recursos, derechos o bienes de cualquier naturaleza, con conocimiento de que proceden o representan el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar o pretender ocultar, encubrir o impedir conocer el origen, localización, destino o propiedad de dichos recursos, derechos o bienes, o alentar alguna actividad ilícita con ellos.
+
+La pena prevista en el párrafo anterior será aumentada en una mitad, cuando la conducta ilícita se cometa por servidores públicos. En este caso, se impondrá a dichos servidores públicos, además, inhabilitación para desempeñar empleo, cargo o comisión públicos hasta por un tiempo igual al de la pena de prisión impuesta.
+
+Para efectos de este artículo se entiende que son producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito, y no pueda acreditarse su legítima procedencia.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE AGOSTO DE 1990)</small>
+
+TITULO VIGESIMOCUARTO
+
+Delitos electorales y en materia de registro nacional de ciudadanos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE AGOSTO DE 1990)</small>
+
 ### CAPITULO UNICO
 
 > <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
-
-### CAPITULO UNICO. Delitos ambientales
-
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 401.
 
@@ -4916,71 +4734,79 @@ Los responsables de los delitos contenidos en el presente capítulo por haber ac
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
+### CAPITULO UNICO. Delitos ambientales
+
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 ###### ARTICULO 414.
 
-Se impondrá pena de tres meses a seis años de prisión y de mil a veinte mil días multa, al que sin contar con las autorizaciones respectivas o violando las normas oficiales mexicanas a que se refiere el artículo 147 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, realice, autorice u ordene la realización de actividades que conforme a ese mismo ordenamiento se consideren como altamente riesgosas y que ocasionen daños a la salud pública, a los recursos naturales, a la flora, a la fauna, o a los ecosistemas.
+Comete delito ambiental quien:
 
-En el caso de que las actividades a que se refiere el presente artículo se lleven a cabo en un centro de población, la pena de prisión se incrementará hasta en tres años.
+I. Sin la autorización correspondiente, modifique la calidad de los suelos vertiendo contaminantes o depositando materiales en barrancas, humedales, áreas naturales protegidas o suelos de conservación;
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+II. Sin la autorización correspondiente, realice obras o actividades que modifiquen la conformación topográfica o que provoquen la erosión, deterioro o degradación de los suelos de conservación, de las áreas naturales protegidas, de las barrancas, humedales o vasos de presas;
+
+III. Sin la autorización correspondiente desmonte, derribe o tale árboles, destruya o arranque la vegetación en áreas naturales protegidas y barrancas;
+
+IV. Violando las normas ambientales, realice aprovechamiento de recursos forestales en áreas naturales protegidas, barrancas, humedales o vasos de presas;
+
+V. Violando las normas ambientales, realice cambios de uso de suelo en áreas naturales protegidas y suelos de conservación;
+
+VI. Realice u ordene talas o podas, cuya finalidad sea permitir la visibilidad de publicidad;
+
+VII. Violando las normas ambientales, emita gases, humos, vapores, polvos, ruido, vibraciones, energía térmica o lumínica, que dañen la salud humana, los recursos naturales o los ecosistemas;
+
+VIII. Sin la autorización correspondiente realice, autorice u ordene la ejecución de obras o actividades consideradas por la legislación ambiental como riesgosas y que ocasionen daños a la salud humana, a los recursos naturales o a los ecosistemas, sin autorización;
+
+IX. Violando las normas ambientales, descargue, deposite o infiltre aguas residuales sin su previo tratamiento, líquidos químicos o bioquímicos, descargue o deposite desechos u otras substancias o materiales contaminantes, residuos sólidos o industriales no peligrosos en los suelos de conservación, áreas naturales protegidas, barrancas, áreas verdes en suelo urbano, vasos de presas, humedales, o cualquier cuerpo de agua, que dañen o puedan dañar la salud humana, los recursos naturales o los ecosistemas;
+
+X. Violando las normas ambientales, descargue, deposite, o infiltre en el sistema de drenaje y alcantarillado, aceites, gasolina u otros líquidos, desechos o sustancias químicas o bioquímicas con características de explosividad, corrosividad, toxicidad o inflamabilidad;
+
+XI. Ocasione incendios en bosques, parques, zonas forestales, áreas naturales protegidas, suelos de conservación, barrancas o áreas verdes en suelo urbano.
+
+XII. No acate las medidas de seguridad, dictadas por la autoridad competente para proteger la salud humana, la fauna, la flora, los recursos naturales, barrancas, humedales, áreas naturales protegidas, áreas verdes en suelo urbano, manantiales, canales, vasos de presas o cualquier cuerpo de agua;
+
+XIII. Realice el cambio provisional de aditamentos o equipos de vehículos automotores, especialmente de convertidores catalíticos, motores o cristales, con el solo objeto de obtener los certificados de verificación aprobatoria de emisiones; o
+
+XIV. Altere la operación de equipos o programas de cómputo utilizados para la verificación vehícular.
+
+A quien cometa los delitos previstos en las fracciones I, II, III, IV, VI, VII, VIII o XII se le impondrá de tres meses a seis años de prisión y multa de cien a quinientos días multa.
+
+A quien cometa los delitos previstos en las fracciones V, IX, X, XI, XIII o XIV, se le impondrá de tres a ocho años de prisión y multa de mil a veinte mil días multa.
+
+Además de las sanciones que correspondan de conformidad con los dos párrafos anteriores, a quien cometa un delito ambiental se le condenará, en los casos en que proceda, a la reparación del daño.
+
+(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+###### ARTICULO 414 Bis.
+
+Se impondrá de tres a ocho años de prisión y multa de mil a veinte mil días multa, al que ocupe o participe en la ocupación de áreas naturales protegidas o suelos de conservación; en contraversión a las normas y ordenamientos de desarrollo urbano o en materia ambiental.
+
+La pena prevista en el párrafo anterior se aumentará en una mitad, a los instigadores y a quienes dirijan la invasión, cuando la ocupación se realice por más de cinco personas o se ejerza violencia.
 
 ###### ARTICULO 415.
 
-Se impondrá pena de tres meses a seis años de prisión y de mil a veinte mil días multa, a quien:
-
-I.- Sin autorización de la autoridad federal competente o contraviniendo los términos en que haya sido concedida, realice cualquier actividad con materiales o residuos peligrosos que ocasionen o puedan ocasionar daños a la salud pública, a los recursos naturales, la fauna, la flora o a los ecosistemas;
-
-II.- Con violación a lo establecido en las disposiciones legales o normas oficiales mexicanas aplicables, emita, despida, descargue en la atmósfera, o lo autorice u ordene, gases, humos o polvos que ocasionen daños a la salud pública, a los recursos naturales, a la fauna, a la flora o a los ecosistemas, siempre que dichas emisiones provengan de fuentes fijas de jurisdicción federal, conforme a lo previsto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente; o
-
-III.- En contravención a las disposiciones legales o normas oficiales mexicanas, genere emisiones de ruido, vibraciones, energía térmica o lumínica, provenientes de fuentes emisoras de jurisdicción federal, conforme al ordenamiento señalado en la fracción anterior, que ocasionen daños a la salud pública, a los recursos naturales, a la flora, a la fauna o a los ecosistemas.
-
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 416.
 
-Se impondrá pena de tres meses a seis años de prisión y de mil a veinte mil días multa, al que sin la autorización que en su caso se requiera, o en contravención a las disposiciones legales, reglamentarias y normas oficiales mexicanas:
-
-I.- Descargue, deposite, o infiltre, o lo autorice u ordene, aguas residuales, líquidos químicos o bioquímicos, desechos o contaminantes en los suelos, aguas marinas, ríos, cuencas, vasos y demás depósitos o corrientes de agua de jurisdicción federal, que ocasionen o puedan ocasionar daños a la salud pública, a los recursos naturales, a la flora, a la fauna, a la calidad del agua de las cuencas o a los ecosistemas.
-
-Cuando se trate de aguas para ser entregadas en bloque a centros de población, la pena se podrá elevar hasta tres años más; o
-
-II.- Destruya, deseque o rellene humedales, manglares, lagunas, esteros o pantanos.
-
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 417.
 
-Se impondrá pena de seis meses a seis años de prisión y de cien a veinte mil días multa, al que introduzca al territorio nacional, o comercie con recursos forestales, flora o fauna silvestre viva, sus productos o derivados o sus cadáveres que padezcan o hayan padecido, según corresponda alguna enfermedad contagiosa que ocasione o pueda ocasionar su diseminación o propagación o el contagio a la flora, a la fauna, a los recursos forestales y a los ecosistemas, o daños a la salud pública.
-
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 418.
 
-Al que sin contar con la autorización que se requiera conforme a la Ley Forestal, desmonte o destruya la vegetación natural, corte, arranque, derribe o tale árboles, realice aprovechamientos de recursos forestales o cambios de uso del suelo, se le impondrá pena de tres meses a seis años de prisión y por el equivalente de cien a veinte mil días multa.
-
-La misma pena se aplicará a quien dolosamente ocasione incendios en bosques, selva, o vegetación natural que dañen recursos naturales, la flora o la fauna silvestre o los ecosistemas.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 419.
 
-A quien transporte, comercie, acopie o transforme recursos forestales maderables en cantidades superiores a cuatro metros cúbicos rollo o su equivalente, para los cuales no se haya autorizado su aprovechamiento conforme a la Ley Forestal, se impondrá pena de tres meses a seis años de prisión y de cien a veinte mil días multa, excepto en los casos de aprovechamientos de recursos forestales para uso doméstico, conforme a lo dispuesto en la Ley Forestal.
-
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 420.
 
-Se impondrá pena de seis meses a seis años de prisión y por el equivalente de mil a veinte mil días multa, a quien:
-
-I.- De manera dolosa capture, dañe o prive de la vida a algún mamífero o quelonio marino o recolecte o comercialice en cualquier forma sus productos o subproductos, sin contar con la autorización que, en su caso, corresponda;
-
-II.- De manera dolosa capture, transforme, acopie, transporte, destruya o comercie con especies acuáticas declaradas en veda, sin contar con la autorización que, en su caso, corresponda;
-
-III.- Realice la caza, pesca o captura de especies de fauna silvestre utilizando medios prohibidos por la normatividad aplicable o amenace la extinción de las mismas;
-
-IV.- Realice cualquier actividad con fines comerciales con especies de flora o fauna silvestre consideradas endémicas, amenazadas, en peligro de extinción, raras o sujetas a protección especial, así como sus productos o subproductos y demás recursos genéticos, sin contar con la autorización o permiso correspondiente o que, en su caso, estén declaradas en veda; o
-
-V.- Dolosamente dañe a las especies de flora o fauna silvestres señaladas en la fracción anterior.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -4992,11 +4818,13 @@ I.- La realización de las acciones necesarias para restablecer las condiciones 
 
 II.- La suspensión, modificación o demolición de las construcciones, obras o actividades, según corresponda, que hubieren dado lugar al delito ambiental respectivo;
 
-III.- La reincorporación de los elementos naturales, ejemplares o especies de flora y fauna silvestre, a los hábitat de que fueron sustraídos; y
+III.- (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-IV.- El retorno de los materiales o residuos peligrosos o ejemplares de flora y fauna silvestres amenazados o en peligro de extinción, al país de origen, considerando lo dispuesto en los tratados y convenciones internacionales de que México sea parte.
+IV.- (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-Para los efectos a que se refiere este artículo, el juez deberá solicitar a la dependencia federal competente, la expedición del dictamen técnico correspondiente.
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+Para los efectos a que se refiere este artículo, el Juez deberá solicitar a la dependencia competente, la expedición del dictamen técnico correspondiente.
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -5010,61 +4838,39 @@ Las dependencias de la administración pública competentes, deberán proporcion
 
 Tratándose de los delitos ambientales, los trabajos en favor de la comunidad a que se refiere el artículo 24 de este ordenamiento, consistirán en actividades relacionadas con la protección al ambiente o la restauración de los recursos naturales.
 
+(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+###### ARTICULO 423 Bis.
+
+Al servidor público o persona autorizada, que indebidamente conceda licencia o autorización para el funcionamiento de industrias o cualquiera otra actividad reglamentada, en condiciones que causen contaminación o que sean nocivas a los recursos naturales, o con motivo de sus inspecciones hubiere ocultado la infracción de las normas respectivas, se le impondrá la pena señalada en el artículo 414 y, además, se le inhabilitará para desempeñar otro cargo o comisión públicos hasta por cinco años.
+
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 ## TITULO VIGESIMO SEXTO. DE LOS DELITOS EN MATERIA DE DERECHOS DE AUTOR
 
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO 424.
 
-Se impondrá prisión de seis meses a seis años y de trescientos a tres mil días multa:
-
-I. Al que especule en cualquier forma con los libros de texto gratuitos que distribuye la Secretaría de Educación Pública;
-
-II. Al editor, productor o grabador que a sabiendas produzca más números de ejemplares de una obra protegida por la Ley Federal del Derecho de Autor, que los autorizados por el titular de los derechos;
-
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 1997)</small>
-
-III. A quien produzca, reproduzca, importe, almacene, transporte, distribuya, venda o arriende copias de obras, fonogramas, videogramas o libros, protegidos por la Ley Federal del Derecho de Autor, en forma dolosa, a escala comercial y sin la autorización que en los términos de la citada Ley deba otorgar el titular de los derechos de autor o de los derechos conexos.
-
-Las mismas sanciones se impondrán a quien use en forma dolosa, a escala comercial y sin la autorización correspondiente obras protegidas por la mencionada Ley; y
-
-IV. A quien fabrique con fines de lucro un dispositivo o sistema cuya finalidad sea desactivar los dispositivos electrónicos de protección de un programa de computación.
-
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 425.
 
-Se impondrá prisión de seis meses a dos años o de trescientos a tres mil días multa, al que a sabiendas y sin derecho explote con fines de lucro una interpretación o una ejecución.
-
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 426.
 
-Se impondrá prisión de seis meses a cuatro años y de trescientos a tres mil días multa, en los casos siguientes:
-
-I. A quien fabrique, importe, venda o arriende un dispositivo o sistema para descifrar una señal de satélite cifrada, portadora de programas, sin autorización del distribuidor legítimo de dicha señal, y
-
-II. A quien realice con fines de lucro cualquier acto con la finalidad de descifrar una señal de satélite cifrada, portadora de programas, sin autorización del distribuidor legítimo de dicha señal.
-
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 427.
 
-Se impondrá prisión de seis meses a seis años y de trescientos a tres mil días multa, a quien publique a sabiendas una obra substituyendo el nombre del autor por otro nombre.
-
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 428.
 
-Las sanciones pecuniarias previstas en el presente título se aplicarán sin perjuicio de la reparación del daño, cuyo monto no podrá ser menor al cuarenta por ciento del precio de venta al público de cada producto o de la prestación de servicios que impliquen violación a alguno o algunos de los derechos tutelados por la Ley Federal del Derecho de Autor.
-
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 ###### ARTICULO 429.
 
-Los delitos previstos en este título se perseguirán por querella de parte ofendida, salvo el caso previsto en el artículo 424, fracción I, que será perseguido de oficio. En el caso de que los derechos de autor hayan entrado al dominio público, la querella la formulará la Secretaría de Educación Pública, considerándose como parte ofendida.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 > <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
@@ -5116,7 +4922,9 @@ Este Decreto entrará en vigor sesenta días después de su publicación en el "
 
 ###### ARTICULO 2°.
 
-Esta ley deroga a las disposiciones legales y reglamentarias que de cualquier modo se le opongan.
+Se derogan todas las disposiciones que se opongan a las presentes reformas y adiciones.
+
+D.O.F. 14 DE NOVIEMBRE DE 1941.
 
 ###### ARTICULO UNICO.
 
@@ -5161,6 +4969,10 @@ DECRETO QUE LEVANTA LA SUSPENSION DE GARANTIAS DECRETADA EL 1 DE JUNIO DE 1942.
 ###### ARTICULO 1°.
 
 La presente ley entrará en vigor el día primero de octubre del año en curso.
+
+###### ARTICULO 2°.
+
+Esta ley deroga a las disposiciones legales y reglamentarias que de cualquier modo se le opongan.
 
 ###### ARTICULO 3°.
 
@@ -5282,11 +5094,7 @@ Estas reformas entrarán en vigor 60 días después de su publicación en el "Di
 
 ###### ARTICULO 2o.
 
-Se aplicará, asimismo:
-
-I.- Por los delitos que se inicien, preparen o cometan en el extranjero, cuando produzcan o se pretenda que tengan efectos en el territorio de la República, y
-
-II.- Por los delitos cometidos en los consulados mexicanos o en contra de su personal, cuando no hubieren sido juzgados en el país en que se cometieron.
+Las solicitudes y los procedimientos sobre libertad preparatoria y condena condicional que se encuentren pendientes al iniciarse la vigencia de estas reformas, se resolverán en los términos previstos por las mismas.
 
 ###### ARTICULO 3o.
 
@@ -5391,10 +5199,6 @@ D.O.F. 11 DE ENERO DE 1982.
 UNICO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 5 DE ENERO DE 1983.
-
-###### ARTICULO 2o.
-
-Las solicitudes y los procedimientos sobre libertad preparatoria y condena condicional que se encuentren pendientes al iniciarse la vigencia de estas reformas, se resolverán en los términos previstos por las mismas.
 
 ###### ARTICULO PRIMERO.
 
@@ -5613,3 +5417,11 @@ D.O.F. 31 DE DICIEMBRE DE 1998.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
 PRIMERO. El presente Decreto entrará en vigor el 1o. de enero de 1999.
+
+G.O. 17 DE SEPTIEMBRE DE 1999.
+
+(REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el 1° de octubre de 1999. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
