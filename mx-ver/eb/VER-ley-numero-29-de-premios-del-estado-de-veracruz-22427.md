@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-29-de-premios-del-estado-de-veracruz-22427"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-12"
-last_updated: "2003-03-18"
+last_updated: "2004-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 29 DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE NOVIEMBRE DE 2004.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 12 de octubre de 2001.
 
@@ -47,9 +47,11 @@ DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ### Capítulo Primero. Disposiciones Comunes
 
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general, y rige el otorgamiento de la Medalla Veracruz, la Medalla Adolfo Ruíz Cortines y el Premio Veracruz 2025, que los Poderes Ejecutivo y Legislativo del Estado, conceden a las personas, distinguidas por su conducta, actos u obras, en los términos que la misma establece.
+La presente Ley es de orden público e interés general, y rige el otorgamiento de la Medalla Veracruz, la Medalla Adolfo Ruiz Cortines, el Premio Veracruz 2025, y la Medalla General Ignacio de la Llave, que los Poderes Ejecutivo y Legislativo del Estado, conceden a las personas, distinguidas por su conducta y acciones, en los términos que la misma establece.
 
 ### Capítulo Segundo. De la Medalla Veracruz
 
@@ -137,15 +139,11 @@ Exceptuado la categoría del artículo anterior, todas las demás se otorgarán 
 
 La Medalla Veracruz al Mérito Ciudadano se otorgará a las personas cuya obra, méritos, conducta o trayectoria sea relevante o notable y reporte, preferentemente, un beneficio para la entidad veracruzana.
 
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 12.
 
-La Medalla Veracruz a los Servidores Públicos se otorgará:
-
-I. A los servidores públicos de base o de confianza, cuyas acciones sean de beneficio para la Administración Pública.
-
-II. A los servidores públicos de base o de confianza, cuya antigüedad en el servicio público sea de 40 ó 50 años.
-
-Se otorgará únicamente un Diploma y el estímulo económico que fije el Comité, a quienes cumplan 25 ó 30 años de servicio.
+La Medalla Veracruz a los Servidores Públicos se otorgará a los servidores públicos de base o de confianza, cuyas acciones sean de beneficio para la Administración Pública.
 
 ###### Artículo 13.
 
@@ -204,6 +202,38 @@ El Premio Veracruz 2025 es el reconocimiento público que otorga el Poder Ejecut
 ###### Artículo 23.
 
 Este premio se otorgará anualmente y consistirá en un Diploma, un estímulo económico y en su caso, el apoyo adicional que se determine de conformidad con los lineamientos y bases que al efecto se expidan.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 2 DE NOVIEMBRE DE 2004)</small>
+
+### CAPÍTULO QUINTO. DE LA MEDALLA GENERAL IGNACIO DE LA LLAVE
+
+> <small>(ADICIONADO, G.O. 2 DE NOVIEMBRE DE 2004)</small>
+
+###### Artículo 23 Bis.
+
+El Gobernador del Estado podrá, en cualquier tiempo, otorgar la Medalla General Ignacio de la Llave a los ciudadanos mexicanos que se hayan destacado en actividades cuyos resultados aporten beneficios singulares en las diversas áreas del conocimiento humano o en acciones de gran trascendencia social, así como en las categorías previstas en el artículo siguiente.
+
+El reconocimiento consistirá en una medalla de oro con la efigie del General Ignacio de la Llave y un diploma alusivo.
+
+> <small>(ADICIONADO, G.O. 2 DE NOVIEMBRE DE 2004)</small>
+
+###### Artículo 23 Ter.
+
+La entrega de la Medalla General Ignacio de la Llave se hará conforme a las categorías siguientes:
+
+I. A la Excelencia Naval: Al Guardiamarina que se haya distinguido ante el Honorable Consejo Docente de la Heroica Escuela Naval Militar, por demostrar un alto grado de aptitud y actitud en la aplicación de los conocimientos adquiridos en el arte de la guerra y las ciencias navales.
+
+La Medalla a la Excelencia Naval tendrá las características siguientes:
+
+a) En el anverso, al centro del Escudo del Estado de Veracruz de Ignacio de la Llave en relieve escultórico con las leyendas en el exergo "Estado Libre y Soberano de Veracruz de Ignacio de la Llave" y "Excelencia Naval Militar"; y
+
+b) En el reverso, al centro el busto del General Ignacio de la Llave en relieve escultórico con la leyenda, en el exergo superior, "Heroica Escuela Naval Militar". Entre la leyenda ubicada en el exergo inferior y el relieve escultórico del General Ignacio de la Llave, se establecerá el año en el que se otorga la Medalla.
+
+El Ejecutivo del Estado podrá disponer la entrega adicional de un estímulo económico, previo acuerdo con el Honorable Consejo Docente de la Heroica Escuela Naval Militar.
+
+II. Al Mérito Deportivo: A aquellos deportistas que se distingan por su destacada participación en actividades que generen reconocimiento para el Estado de Veracruz de Ignacio de la Llave, ante la sociedad veracruzana, nacional o internacional.
+
+La Medalla al Mérito Deportivo se entregará el mismo año en el que se haya dado la participación deportiva de alto reconocimiento para el Estado de Veracruz de Ignacio de la Llave.
 
 ## TÍTULO SEGUNDO. DE LA ROTONDA DE LOS HOMBRES ILUSTRES DEL ESTADO DE VERACRUZ
 
@@ -272,3 +302,9 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 2 DE NOVIEMBRE DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se abrogan el Decreto por el que se crea la Condecoración a la Excelencia Naval Militar "General Ignacio de la Llave", publicado en la Gaceta Oficial del Estado el día dieciocho de junio de dos mil dos, así como el Decreto por el que se crea la Condecoración al Mérito Deportivo "General Ignacio de la Llave", publicado en la Gaceta Oficial del Estado el día dieciocho de junio de dos mil tres; y se derogan todas las disposiciones que se opongan al presente Decreto.
