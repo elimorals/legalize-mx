@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-instituto-de-vivienda-de-baja-california-sur-3161"
 country: "mx"
 rank: "ley"
 publication_date: "1982-07-10"
-last_updated: "1982-07-10"
+last_updated: "1982-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL INSTITUTO DE VIVIENDA DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE NOVIEMBRE DE 1982.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 10 de julio de 1982.
 
@@ -197,11 +197,67 @@ El Instituto dará preferencia a la realización de planes y programas de mayor 
 
 El Instituto promoverá, y en su caso establecerá, que al realizar cada obra se expida al beneficiario el documento jurídico pertinente para asegurar la posesión o propiedad de las obras realizadas en su beneficio.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 1982)</small>
+
 ###### ARTICULO 18.
 
-Por los contratos y operaciones de inmuebles que celebre el Instituto, no se causarán los impuestos correspondientes ni el pago de permisos, derechos y licencias en el desarrollo de los programas que tiene señalados.
+Los contratos y las operaciones celebradas con la intervención del Instituto en ejercicio de sus atribuciones, que sean traslativos de dominio o constitutivos de derechos reales o gravámenes sobre inmuebles, especialmente el mutuo con garantía hipotecaria, podrán hacerse constar en documentos privados autorizados por el Instituto e inscribirse en el Registro Público de la Propiedad que corresponda, con la constancia del registrador sobre la autenticidad de las firmas y de la voluntad de las partes.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 19.
+
+Cualquier enajenación de predios que se reciban del Ejecutivo Federal, se sujetará a las siguientes normas:
+
+a).- Que el solicitante no sea propietario de casa habitación en ninguna otra localidad.
+
+b).- Que el solicitante no perciba ingresos superiores a seis veces el salario mínimo general de la región.
+
+c).- La superficie no podrá ser menor a 200.00 Mts. 2.
+
+d).- El precio de los lotes y predios se determinará de manera independiente a los costos y precios de las urbanizaciones y de los servicios, con la previa revisión y aprobación del Congreso del Estado.
+
+e).- Las condiciones de pago se determinarán en atención al ingreso de los solicitantes.
+
+f).- Cuando el solicitante contrate a plazos, el crédito se otorgará con interés del 4% anual, los demás predios se sujetarán a las normas anteriores.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 20.
+
+Las Entidades de carácter privado cuya actividad sea la construcción de vivienda para adquirentes que tengan ingresos diarios hasta seis veces al salario mínimo, podrán adquirir terrenos que les enajene el Instituto, siempre que se comprometan a su vez a enajenar los predios y lotes a los solicitantes con plena observancia a las normas de esta Ley.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 21.
+
+El precio de venta de dichos lotes o predios, por parte de las empresas privadas a los adquirentes, será fijado por la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, tomando en consideración los costos por la adquisición, intereses y demás circunstancias que afecten el precio de la cuenta original.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 22.
+
+El Instituto no podrá enajenar terrenos a las entidades privadas que construyan viviendas para adquirentes con ingresos superiores a seis veces el salario mínimo.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 23.
+
+La entidad privada adquirente de los bienes del Instituto que enajene a un tercero, violando las disposiciones de esta Ley, será sancionado con diez veces el monto del lucro que haya obtenido, y si la infracción se repitiera se anulará la enajenación inicial relativa a los lotes o predios que no hubiere enajenado. Esta declaratoria la realizará administrativamente la Secretaría de Asentamientos Humanos y Obras Públicas del Estado.
+
+En este caso, el Instituto asumirá las correspondientes responsabilidades.
+
+(REUBICADO, B.O. 30 DE NOVIEMBRE DE 1982)
 
 ### CAPITULO V. EXENCIONES DE IMPUESTOS, PAGO DE PERMISOS, DERECHOS Y LICENCIAS
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 24.
+
+Se exenta al Instituto del pago de impuestos prediales, mientras los inmuebles sean de su propiedad.
+
+Por los contratos y operaciones de inmuebles que celebre el Instituto, no se causarán los impuestos correspondientes ni el pago de permisos, derechos y licencias en el desarrollo de los programas que tiene señalados.
 
 ## TRANSITORIO
 
@@ -236,3 +292,15 @@ ALBERTO ANDRES ALVARADO ARAMBURO.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ANTONIO BENJAMIN MANRIQUEZ GULUARTE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 30 DE NOVIEMBRE DE 1982.
+
+###### ARTICULO 1o.
+
+EN TANTO NO SE ACTUALICEN Y FORMULEN LAS LEYES Y REGLAMENTOS COMPLEMENTARIOS A ESTAS LEYES Y SE TENGAN APROBADOS LOS DIVERSOS PLANES DE DESARROLLO URBANO, SERÁ LA SECRETARÍA DE ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS DEL ESTADO LA RESPONSABLE DE APLICAR LAS DECISIONES Y RESOLUCIONES EN MATERIA DE DESARROLLO URBANO.
+
+###### ARTICULO 2o.
+
+EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL SIGUIENTE DÍA AL DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
