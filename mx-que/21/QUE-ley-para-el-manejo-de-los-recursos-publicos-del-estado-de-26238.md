@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-26238
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-27"
-last_updated: "2003-10-03"
+last_updated: "2004-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA EL MANEJO DE LOS RECURSOS PUBLICOS DEL ESTADO DE QUERETARO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de septiembre de 2002.
 
@@ -159,13 +159,17 @@ Los sujetos de esta Ley deberán expedir recibos oficiales con requisitos fiscal
 
 El Titular del Poder Ejecutivo, por conducto de la Secretaría de Planeación y Finanzas, formulará la iniciativa de Ley de Ingresos para el Estado, con base en la presente Ley y en la Ley de Hacienda del Estado de Querétaro.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 24.
 
-Los Poderes Legislativo y Judicial, así como los Organismos Autónomos elaborarán sus proyectos de ingresos e incluirán la expectativa de recaudación fiscal y los recursos que generen, remitiéndolos a más tardar el 22 de octubre de cada año, con la información necesaria, al Titular del Poder Ejecutivo para su debida integración en la iniciativa de Ley de Ingresos del Estado.
+Los Poderes Legislativo y Judicial, así como los Organismos Autónomos elaborarán sus proyectos de ingresos e incluirán la expectativa de recaudación fiscal y los recursos que generen, remitiéndolos a más tardar el 31 de octubre de cada año, con la información necesaria, al Titular del Poder Ejecutivo para su debida integración en la iniciativa de Ley de Ingresos del Estado y turnarán copia de los mismos, a la Legislatura del Estado para su conocimiento y análisis correspondiente.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 25.
 
-Todas las Entidades Paraestatales realizarán sus proyectos de ingresos y los remitirán a la Secretaría de Planeación y Finanzas del Poder Ejecutivo en tiempo, a fin de integrarlas en la Iniciativa de Ley de Ingresos del Estado que se enviará para ser dictaminada por el Poder Legislativo. Los proyectos de ingresos incluirán la expectativa de recaudación fiscal y los recursos que generen, con relación directa al cumplimento de su objetivo social, deberán ser presentados a más tardar el 22 de octubre de cada año.
+Todas las Entidades Paraestatales realizarán en tiempo sus proyectos de ingresos y los remitirán a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, a fin de integrarlas en la Iniciativa de Ley de Ingresos del Estado que se enviará para ser dictaminada por el Poder Legislativo. Los proyectos de ingresos incluirán la expectativa de recaudación fiscal y los recursos que generen, con relación directa al cumplimento de su objetivo social y deberán remitirlos a más tardar el 31 de octubre de cada año. Asimismo, se turnará copia de los proyectos a la Legislatura del Estado, en la misma fecha, para su conocimiento y análisis correspondiente.
 
 ###### Artículo 26.
 
@@ -187,21 +191,25 @@ c) Cualquier otro concepto contenido en la Ley de Hacienda del Estado
 
 IV. Los ingresos propios que cada sujeto de esta Ley, excepto los Municipios, proyectó recibir detalladamente para el ejercicio del que se trate.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 27.
 
-El Titular del Ejecutivo enviará la iniciativa de Ley de Ingresos del Estado, a la Legislatura del Estado a más tardar el 15 de noviembre de cada año.
+El Titular del Ejecutivo enviará la iniciativa de Ley de Ingresos del Estado, a la Legislatura del Estado a más tardar el 30 de noviembre de cada año.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 28.
 
-Los Ayuntamientos elaborarán la iniciativa de Ley de Ingresos con base en lo establecido en la Ley de Hacienda de los Municipios del Estado de Querétaro, remitiéndola a la Legislatura del Estado en la fecha que establezca al respecto la Ley Orgánica Municipal, debiendo enviar conjuntamente la propuesta de tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+Los Ayuntamientos elaborarán la iniciativa de Ley de Ingresos con base a lo establecido en la Ley de Hacienda de los Municipios del Estado de Querétaro, remitiéndola a la Legislatura del Estado en la fecha que establezca al respecto la Ley Orgánica Municipal del Estado de Querétaro, debiendo enviar, a más tardar el día 15 de noviembre de cada año, la propuesta de tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
-En caso de no remitir la propuesta de tablas a que hace referencia el párrafo anterior, quedarán vigentes las últimas tablas aprobadas por la Legislatura y publicadas en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+En caso de no remitir la propuesta de tablas a que hace referencia el párrafo anterior en la fecha señalada para tal efecto, la Legislatura resolverá lo conducente, aprobando en los mismos términos que el año anterior o modificando las mismas.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 29.
 
-Los años en que se celebren elecciones y por ende exista renovación del titular del Poder Ejecutivo del Estado, el término para la presentación al Titular del Poder Ejecutivo del proyecto de ingresos de los Poderes y Organismos Autónomos vencerá el 31 de Octubre. Las Entidades Paraestatales y Dependencias, deberán enviar a la Secretaría de Planeación y Finanzas sus proyectos de ingresos a más tardar el 31 de Octubre. El Titular del Poder Ejecutivo presentará a la Legislatura del Estado la Iniciativa de Ley de Ingresos para el Estado de Querétaro a más tardar el 28 de Noviembre.
-
-Los años en que se celebren elecciones y por ende exista renovación de Ayuntamientos, la iniciativa de Ley de Ingresos de los Municipios se remitirá a la Legislatura del Estado a más tardar el 28 de noviembre.
+La Legislatura del Estado resolverá lo conducente a la iniciativa de la Ley de Ingresos presentada por el Ejecutivo, además de la iniciativa de Decreto de Presupuesto de Egresos presentada por el Ejecutivo a más tardar el 15 de diciembre.
 
 ###### Artículo 30.
 
@@ -251,11 +259,13 @@ La Secretaría de Planeación y Finanzas, en el ámbito de su competencia, podr�
 
 El año en que se renuevan las administraciones municipales o la estatal, las administraciones salientes entregarán a las entrantes los recursos económicos presupuestados para el último trimestre del ejercicio del que se trate conforme lo establezcan sus presupuestos de egresos y leyes de ingresos del año correspondiente, mismos que deberán ser suficientes para cubrir, al menos, los compromisos adquiridos, obligaciones por servicios personales y el gasto administrativo hasta el término del año presupuestado. En caso de incumplimiento se aplicará la Ley de Responsabilidades de los Servidores Públicos y demás aplicables.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 37.
 
-Para la formulación del Presupuesto de Egresos del Estado, los Poderes Legislativo y Judicial, así como los Organismos Autónomos, formularán sus proyectos de presupuesto con base a lo establecido en la presente Ley, remitiéndolos al Ejecutivo del Estado, a más tardar el 22 de octubre de cada año.
+Para la formulación del Presupuesto de Egresos del Estado, los Poderes Legislativo y Judicial, así como los Organismos Autónomos, formularán sus proyectos de presupuesto con base a lo establecido en la presente Ley, remitiéndolos al Ejecutivo del Estado, a más tardar el 31 de octubre de cada año.
 
-Las Entidades Paraestatales, elaborarán sus proyectos de presupuesto con base en lo establecido en la presente ley y los Programas Operativos Anuales remitiéndolos, con la información necesaria, directamente a la Secretaría de Planeación y Finanzas, a más tardar el 22 de octubre de cada año.
+Las Entidades Paraestatales, elaborarán sus proyectos de presupuesto con base en lo establecido en la presente ley y los Programas Operativos Anuales remitiéndolos, con la información necesaria, directamente a la Secretaría de Planeación y Finanzas, a más tardar el 31 de octubre de cada año.
 
 ###### Artículo 38.
 
@@ -323,11 +333,11 @@ En el presupuesto de cada año deberá considerarse una reinversión para equipa
 
 En el presupuesto de cada año deberá considerarse una reinversión en equipamiento, capacitación y desarrollo institucional de la Dirección de Catastro y equivalente a por lo menos el 5% del monto total de los servicios prestados por la Dirección de Catastro de los derechos establecidos en la Ley de Hacienda del Estado, recaudados por concepto de Servicios Prestados por Autoridades Catastrales en el año inmediato anterior.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 47.
 
-La Secretaría de Planeación y Finanzas deberá presentar oportunamente al Gobernador del Estado el proyecto de Iniciativa de Decreto de Presupuesto de Egresos del Estado para ser enviado a la Legislatura del Estado a más tardar el 21 de noviembre, mismo que deberá contener lo establecido en los artículos 40 y 41 de esta Ley.
-
-En los años en que debido a la celebración de elecciones, exista renovación del titular del Poder Ejecutivo del Estado, el plazo al que se refiere el párrafo anterior será el 30 de noviembre.
+La Secretaría de Planeación y Finanzas deberá presentar oportunamente al Gobernador del Estado, el proyecto de Iniciativa de Decreto de Presupuesto de Egresos del Estado para ser enviado a la Legislatura del Estado a más tardar el 30 de noviembre, mismo que deberá contener lo establecido en los artículos 40 y 41, de esta Ley.
 
 ###### Artículo 48.
 
@@ -663,7 +673,7 @@ Las Dependencias y Entidades del Poder Ejecutivo suministrarán a la Secretaría
 
 Los estados financieros y demás información, que emanen de las contabilidades del Poder Ejecutivo, incluida la administración paraestatal, serán homologados y consolidados por la Secretaría de Planeación y Finanzas.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO TERCERO. DE LA REVISIÓN DE LA CUENTA PÚBLICA
 
 ###### Artículo 105.
 
@@ -691,9 +701,7 @@ Las Entidades Paraestatales, Organismos Autónomos del Estado y cualquier otro s
 
 En el último trimestre de la gestión gubernamental, los Poderes Ejecutivo y Legislativo y los Municipios salientes, deberán entregar la cuenta pública en los términos de la Ley que establece las Bases para la Entrega Recepción Administrativa en el Estado de Querétaro.
 
-CÁPITULO TERCERO
-
-DE LA REVISIÓN DE LA CUENTA PÚBLICA
+### CAPÍTULO ÚNICO
 
 ###### Artículo 111.
 
@@ -860,3 +868,9 @@ Esta Ley entrará en vigor el día de su publicación en el periódico oficial d
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 20 DE OCTUBRE DE 2004.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
