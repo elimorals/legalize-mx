@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "1998-05-28"
+last_updated: "1999-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MAYO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MAYO DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -596,9 +596,13 @@ I. De los delitos del orden federal.
 
 Son delitos del orden federal:
 
-a) Los previstos en las leyes federales y en los tratados internacionales;
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
 
-b) Los señalados en los artículos 2o. a 5o. del Código Penal para el Distrito Federal en materia común y para toda la República en materia federal;
+a) Los previstos en las leyes federales y en los tratados internacionales. En el caso del Código Penal Federal, tendrán ese carácter los delitos a que se refieren los incisos b) a l) de esta fracción;
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
+
+b) Los señalados en los artículos 2 a 5 del Código Penal;
 
 c) Los cometidos en el extranjero por los agentes diplomáticos, personal oficial de las legaciones de la República y cónsules mexicanos;
 
@@ -2927,3 +2931,9 @@ QUINTO. Dentro de los seis meses siguientes a la entrada en vigor de la Ley Fede
 SEXTO. Dentro de los seis meses siguientes a la entrada en vigor de esta Ley, la Junta Directiva del Instituto Federal de Defensoría Pública deberá aprobar las Bases Generales de Organización y Funcionamiento del propio Instituto.
 
 SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 18 DE MAYO DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
