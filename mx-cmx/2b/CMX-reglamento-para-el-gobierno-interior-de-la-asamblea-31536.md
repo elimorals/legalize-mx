@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2003-12-30"
+last_updated: "2004-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ENERO DE 2004.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -70,7 +70,13 @@ VI.- PLENO: al Pleno de la Asamblea;
 
 VII.- DIPUTADO: a los Diputados miembros de la Asamblea; y
 
-VIII.- UNIDADES ADMINISTRATIVAS: La Oficialía Mayor, la Tesorería, la Contraloría Interna, la Coordinación General de Comunicación Social, el Instituto de Investigaciones Legislativas, la Unidad de Estudios y Finanzas Públicas y, la Coordinación de Servicios Parlamentarios.
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+VIII.- UNIDADES ADMINISTRATIVAS: La Oficialía Mayor, la Tesorería, la Contraloría General, la Coordinación General de Comunicación Social, el Instituto de Investigaciones Legislativas, la Unidad de Estudios y Finanzas Públicas y la Coordinación de Servicios Parlamentarios.
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2004)</small>
+
+IX.- CONTADURÍA: La Contaduría Mayor de Hacienda de la Asamblea Legislativa.
 
 ## TITULO SEGUNDO. DE LA INSTALACIÓN DE LA ASAMBLEA Y DE SU FUNCIONAMIENTO
 
@@ -610,51 +616,69 @@ IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena
 
 ###### Artículo 61.
 
-La Contraloría Interna, es el órgano de control, evaluación y fiscalización, financiera y administrativa de la Asamblea y tendrá las facultades siguientes:
+La Contraloría General de la Asamblea tendrá a su cargo la auditoría interna del ejercicio del presupuesto de egresos de la Asamblea y de la Contaduría, incluyendo los recursos asignados a los grupos parlamentarios, los que deberán presentar un informe semestral a la contraloría con la debida justificación del uso y destino de los recursos que la Asamblea les otorgue. La contraloría auditará a los grupos parlamentarios respecto del ejercicio de los recursos que les sean asignados por la Asamblea.
 
-I.- Apoyar, asistir y asesorar al Comité de Administración y a las restantes unidades administrativas de la Asamblea en el ámbito de su competencia;
+La Contraloría General presentará al pleno, por conducto de la Comisión de Gobierno, un informe semestral sobre el ejercicio del presupuesto de egresos de la Asamblea.
 
-II.- Conocer e investigar los actos, omisiones y conductas de los servidores públicos adscritos a las Unidades Administrativas de la Asamblea, que afecten la legalidad, honradez, lealtad, imparcialidad, confidencialidad y eficiencia que deben observar en el desempeño de sus funciones, cargo o comisión; derivadas de quejas o denuncias presentadas por particulares o servidores públicos, o del resultado de las auditorias practicadas; y particularmente las relacionadas con los procedimientos de adquisición de bienes, servicios, arrendamientos, contratación de obra pública, así como aplicar las sanciones que correspondan en los términos de la Ley de la materia. En caso de que las irregularidades detectadas sean constitutivas de algún delito, promoverá las acciones conducentes, informando a la Comisión de Gobierno;
+Las resoluciones del contralor se darán a conocer previamente a la Comisión de Gobierno.
 
-III.- Verificar el cumplimiento por parte de las Unidades Administrativas que integran la Asamblea, de las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuestación, ingresos, egresos, financiamiento, inversión, deuda, fondos, valores y bienes del Distrito Federal en administración de la Asamblea Legislativa; así como las demás disposiciones relativas que dicte el pleno de la Asamblea;
+Además tendrá las siguientes atribuciones:
+
+l.- Apoyar, asistir y asesorar al Comité de Administración y a las demás Unidades Administrativas de la Asamblea y a la Contaduría en el ámbito de su competencia;
+
+II.- Conocer e investigar los actos u omisiones de los servidores públicos adscritos a las unidades administrativas de la Asamblea y de la Contaduría, que afecten la legalidad, honradez, lealtad, imparcialidad, confidencialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión; derivadas de quejas o denuncias presentadas por particulares, servidores públicos o aquellas relacionadas con auditorías y en especial las relacionadas con los procedimientos de adquisición de bienes, servicios, arrendamientos y contratación de obra pública, así como determinar e imponer las sanciones que correspondan en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos, las cuales se aplicarán a través del superior jerárquico del servidor público sancionado. Asimismo, le corresponderá sustanciar y resolver los recursos de revocación que se promuevan en contra de las resoluciones que impongan sanciones a los servidores públicos de la Asamblea y de la Contaduría, en términos de las disposiciones jurídicas y administrativas aplicables.
+
+Si las irregularidades detectadas constituyen delito promoverá las acciones legales que correspondan, informando de ello a la Comisión de Gobierno;
+
+III.- Verificar que las unidades administrativas que integran la Asamblea y la Contaduría cumplan con las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuesto, ingresos, egresos, financiamiento, inversión, deuda, fondos, valores y bienes del Distrito Federal en administración de la Asamblea Legislativa y de la Contaduría; así como las demás disposiciones relativas que dicte el Pleno de la Asamblea;
 
 IV.- Auxiliar a las Unidades Administrativas, en la elaboración y revisión de los manuales de organización y procedimientos, promoviendo y supervisando su difusión, aplicación y actualización, con énfasis en el aspecto preventivo;
 
-V.- Realizar dentro del ámbito de su competencia, todo tipo de auditorias y evaluaciones a las Unidades Administrativas que integran la Asamblea, con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas, así como formular con base en los resultados de las auditorias, las observaciones y recomendaciones necesarias, estableciendo el seguimiento sistemático para la aplicación de las mismas; lo anterior sin perjuicio de lo dispuesto en la fracción II de este precepto;
+V.- Realizar dentro del ámbito de su competencia, todo tipo de auditorías y evaluaciones de las unidades administrativas que integran la Asamblea y la Contaduría, con el objeto de promover la eficiencia en sus operaciones;
 
-VI.- Presentar para su aprobación a la Comisión de Gobierno, su programa anual de auditorías y las que determine fuera del mismo;
+VI.- Verificar el cumplimiento de los objetivos contenidos en los Programas de la Asamblea y la Contaduría, formular, con base en los resultados de las auditorías, las observaciones y recomendaciones que de éstas se deriven, y establecer el seguimiento sistemático para el cumplimiento de las mismas, lo anterior sin perjuicio de lo dispuesto en la fracción II de este precepto;
 
-VII.- Informar semestralmente y cuando se estime pertinente a la Comisión de Gobierno, y en su caso, a quién está determine, sobre el resultado de las auditorias y la evaluación de las Unidades Administrativas que integran la Asamblea, que hayan sido objeto de fiscalización, así como de las acciones que al efecto se instrumenten;
+VII.- Presentar a la Comisión de Gobierno su Programa Anual de Auditorías y las que deba realizar fuera del mismo, para su aprobación;
 
-VIII.- Intervenir en los procesos de licitación, de adquisición de bienes, servicios, arrendamientos y de obra, para vigilar que se cumpla con las normas y disposiciones aplicables;
+VIII.- Informar a la Comisión de Gobierno sobre los resultados de las auditorías practicadas y las evaluaciones a las unidades administrativas que integran la Asamblea y la Contaduría, que hayan sido objeto de fiscalización, así como de las acciones que se indiquen para mejorar la gestión, semestralmente y cada vez que la Comisión de Gobierno lo ordene;
 
-IX.- Supervisar las formas de organización, sistemas, métodos y procedimientos que rijan la operación administrativa y el control de la gestión de la Asamblea;
+IX.- Intervenir en los procesos de licitación, de adquisición de bienes, servicios, arrendamientos y de obra pública, para vigilar que se cumpla con las normas jurídicas y demás disposiciones técnicas o administrativas aplicables;
 
-X.- Planear, programar, organizar, coordinar y establecer el Sistema de Control y Evaluación de la Asamblea en el ámbito administrativo, promoviendo permanentemente su actualización;
+X.- Supervisar la organización, sistemas, métodos y procedimientos que rigen la operación administrativa y el control de la gestión de la Asamblea y la Contaduría;
 
-XI.- Fiscalizar e Inspeccionar el ejercicio del gasto público de la Asamblea y su congruencia con el presupuesto de egresos;
+XI.- Planear, Programar, organizar, coordinar y establecer el Sistema de Control y Evaluación de la Asamblea y la Contaduría en el ámbito administrativo, promoviendo permanentemente su actualización;
 
-XII.- Participar en las transferencias formales de asuntos legislativos y administrativos al cierre de la gestión y de apertura de legislaturas, así como los cambios que en el transcurso de la misma se presenten;
+XII.- Fiscalizar e Inspeccionar el ejercicio del gasto público y su congruencia con el Presupuesto de Egresos del Distrito Federal de la Asamblea y la Contaduría;
 
-XIII.- Llevar el registro de los servidores públicos sancionados de las Unidades Administrativas de la Asamblea, en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos;
+XIII.- Participar en las transferencias formales de asuntos legislativos y administrativos al cierre de la gestión de la Asamblea y a la apertura de la Legislatura, así como en los cambios que en el transcurso de la misma se presenten;
 
-XIV.- Calificar los pliegos preventivos de responsabilidades que al efecto levanten las áreas contables de la Asamblea, de conformidad con la normatividad aplicable en la materia;
+XIV.- Participar en los actos de entrega recepción de la Asamblea y de la Contaduría, en términos de la normatividad aplicable;
 
-XV.- Intervenir potestativamente en las actas de entrega recepción de las Unidades Administrativas que integran la Asamblea, a fin de verificar que se cumpla con la normatividad aplicable;
+XV.- Llevar el registro de los servidores públicos sancionados de las unidades administrativas de la Asamblea y de la Contaduría en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos;
 
-XVI.- Representar a la Asamblea en términos de lo establecido por el artículo 36 fracción XV de la Ley Orgánica, ante las autoridades administrativas o judiciales, en todos los asuntos en que la Contraloría Interna sea parte, o aquellos que se originen derivados de su intervención;
+XVI.- Llevar el registro patrimonial de los servidores públicos de la Asamblea y de la Contaduría, y en su caso aplicar las sanciones que establezca la Ley de la materia;
 
-XVII.- Requerir a las Unidades Administrativas de la Asamblea o a los particulares involucrados, la información necesaria para el desempeño de sus funciones, así como, certificar aquella documentación derivada de las investigaciones realizadas en ejercicio de sus facultades; y
+XVII.- Calificar los pliegos preventivos de responsabilidades que formulen las áreas contables de la Asamblea y de la Contaduría, de conformidad con la normatividad aplicable en la materia;
 
-XVIII.- Las demás que le sean atribuidas por la ley y demás disposiciones normativas aplicables.
+XVIII.- Representar en el ámbito de su competencia a la Asamblea en términos de lo establecido por el Artículo 36 Fracción XVI de la Ley Orgánica, ante las autoridades administrativas o judiciales, en todos los asuntos en que ésta sea parte, o aquellos que se originen derivados del ejercicio de sus atribuciones legales;
+
+XIX.- Requerir a las unidades administrativas de la Asamblea, de la Contaduría o a los particulares involucrados la información necesaria para el desempeño de sus funciones;
+
+XX.- Certificar los documentos que se encuentren en sus archivos y los que genere en el ejercicio de sus atribuciones; y
+
+XXI.- Las demás que le sean atribuidas por la Ley y demás disposiciones normativas aplicacables (sic).
+
+El Subcontralor en la Contaduría Mayor de Hacienda de la Asamblea Legislativa en el Distrito Federal podrá ejercer, en su ámbito de competencia, todas las atribuciones listadas en el presente artículo, excepto las señaladas en las fracciones II, VII, VIII, XIII, XV, XVI y XVIII, las cuales serán ejercidas directamente por la Contraloría General de la Asamblea. No obstante, podrá ejercerlas en caso de que el Contralor General de la Asamblea se las delegue a través de un acuerdo general.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 #### SECCIÓN 2. DE LA TESORERÍA
 
 ###### Artículo 62.
 
-Al frente de la Contraloría Interna habrá un Contralor, a quien corresponde originalmente la representación, trámite y resolución de los asuntos de la competencia de aquella, y quien podrá para la mejor distribución y desarrollo del trabajo, auxiliarse de los servidores públicos subalternos hasta el tercer nivel de la Contraloría General, conforme a la estructura que apruebe, la Comisión de Gobierno y/o el Comité de Administración, en el Manual de organización y procedimientos.
+Al frente de la Contraloría General habrá un Contralor, a quien corresponde la representación, trámite y resolución de los asuntos de la competencia de esa unidad administrativa, y para la mejor distribución y desarrollo del trabajo podrá auxiliarse de Subcontralores de Auditoría; de Legalidad y Responsabilidades; de Control y Evaluación; de la Contaduría Mayor de Hacienda de la Asamblea y de los servidores públicos subalternos establecidos en la estructura que apruebe la Comisión de Gobierno y/o el Comité de Administración, en el Manual de Organización y Procedimientos.
 
-En el caso de ausencia del Contralor Interno de la Asamblea, será suplido por los Subcontralores de Auditoria; de Responsabilidades o de Control y Evaluación, en el orden citado.
+En el caso de ausencia del Contralor General de la Asamblea, será suplido por los Subcontralores de Auditoría; de la Contaduría Mayor de Hacienda de la Asamblea; de Legalidad y Responsabilidades; o de Control y Evaluación, en el orden citado.
 
 ###### Artículo 63.
 
@@ -662,11 +686,15 @@ Cuando en las auditorias se detecten irregularidades que afecten a la hacienda p
 
 En caso de que las irregularidades detectadas puedan ser constitutivas de algún delito, la Comisión de Gobierno deberá hacerlo del conocimiento del Ministerio Público, y observar lo que establezcan las demás disposiciones normativas aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ENERO DE 2004)</small>
+
 #### SECCIÓN 3. DE LA CONTRALORÍA INTERNA
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### Artículo 64.
 
-Para ser Contralor Interno de la Asamblea Legislativa se requiere:
+Para ser Contralor General de la Asamblea Legislativa se requiere:
 
 I.- Tener Licenciatura o estudios de postgrado en el área económica-administrativa, jurídica o relacionada directamente con las funciones encomendadas;
 
@@ -1497,3 +1525,7 @@ G.O. 30 DE DICIEMBRE DE 2003.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal únicamente para su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 13 DE ENERO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
