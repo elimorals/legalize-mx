@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1996-12-27"
+last_updated: "1997-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 1997.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -62,8 +62,6 @@ El avalúo pericial a que se refiere el primer párrafo de este artículo, deber
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ART. 3o.- Para los efectos de este impuesto se considerará efectuada la operación dentro del Estado por el solo hecho de dar de alta un vehículo en cualquier parte del territorio de la Entidad.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ART. 4o.- Este impuesto se causará aplicando sobre la base a que se refiere el Artículo 2 de esta Ley, la siguiente:
 
@@ -397,7 +395,9 @@ ART. 25.- Es objeto de este impuesto la prestación de servicios de hospedaje, p
 
 Para efecto de este impuesto se entiende por prestación de servicios de hospedaje el otorgamiento de albergues y de los servicios inherentes al mismo a cambio de una contraprestación, así como:
 
-I.- La prestación de servicios bajo el sistema de tiempo compartido o de cualquier otra denominación mediante el que se conceda el uso, goce y demás derechos que se convengan sobre un bien o parte del mismo, ya sea una unidad cierta, considerada en lo individual o una unidad variable dentro de una clase determinada, durante un período específico, a intervalos previamente establecidos, determinados o determinables;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1997)</small>
+
+I.- La prestación de servicios bajo el sistema de tiempo compartido o de cualquier otra denominación mediante el que se conceda el uso, goce y demás derechos que se convengan sobre un bien o parte del mismo, ya sea una unidad cierta, considerada en lo individual o una unidad variable dentro de una clase determinada, durante un período específico, a intervalos previamente establecidos, determinados o determinables, que no sea adquirido en propiedad;
 
 II.- La prestación de servicios de paraderos de casa rodantes, móviles o autotransportables, mediante los que se otorga el espacio e instalaciones para estacionamiento temporal de éstas; así como los servicios de campamento a través de los que se otorgan espacio para acampar.
 
@@ -415,13 +415,17 @@ Asimismo cuando los contribuyentes convengan la prestación de servicios de hosp
 
 ART. 27.- La base gravable de este impuesto será el monto total de la contraprestación por el servicio de hospedaje, sin considerar en todo caso el importe de los alimentos, bebidas alcohólicas y demás servicios relacionados con los mismos conforme al artículo anterior.
 
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1997)</small>
+
+En la hipótesis señalada en el artículo 25 fracción I, la base gravable será únicamente las cuotas que se cobren por mantenimiento.
+
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ART. 28.- El monto del impuesto se determinará aplicando a la base gravable a que alude el artículo anterior la tasa del 2%.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1997)</small>
 
-ART. 29.- Este impuesto se pagará mediante declaración que deberá presentar el contribuyente en los formatos oficialmente aprobados ante las oficinas autorizadas para ello, dentro de los primeros 15 días de cada mes, debiendo contener dicha declaración la información y demás datos relativos a las altas y operaciones objeto de este impuesto que se hayan realizado en el mes anterior.
+ART. 29.- Este impuesto se cobrará al momento de elaborarse la factura correspondiente, y deberá enterarse mediante declaración que presentará el contribuyente en los formatos oficialmente aprobados ante las oficinas autorizadas para ello, dentro de los primeros quince días de cada mes, debiendo contener dichas declaraciones la información y demás datos relativos a las altas y operaciones objeto de este impuesto que se hayan realizado en el mes anterior.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -453,6 +457,10 @@ III.- Se imposibilite, por cualquier medio, el conocimiento de las operaciones d
 
 ART. 33.- El importe de lo recaudado por concepto de esta contribución será destinado única y exclusivamente a la promoción turística del Estado de Sinaloa y su administración corresponderá a los fideicomisos que sean necesarios, en los que su comité técnico estará integrado por un representante del Gobierno del Estado, un representante del Ayuntamiento del municipio respectivo y un representante del sector hotelero; asimismo mediante una cuenta especial de contabilidad se destinará la participación que corresponda a cada municipio según lo recaudado en él, verificando el escrupuloso manejo de estos fondos.
 
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1997)</small>
+
+En la constitución de los Fideicomisos deberán estar de acuerdo en su contenido las partes que integrarán el Comité Técnico de los mismos, manteniéndose en suspenso el cobro de este impuesto en los Municipios donde no se constituya el Fideicomiso respectivo; en caso de que éste se extinga, se suspenderá el cobro del impuesto hasta que se constituya un nuevo Fideicomiso.
+
 La Cuenta Pública estatal correspondiente, en los términos de la presente Ley, deberá reflejar la aplicación que se haga de lo recaudado por este concepto, en base a los programas de promoción turística que al respecto se elaboren para cada municipio.
 
 El Estado entregará al Fideicomiso que corresponda a cada Municipio los ingresos captados en cada uno de ellos, en un término de treinta días siguientes al mes en que se deba enterar este impuesto a la Oficina Recaudadora.
@@ -462,6 +470,50 @@ El fideicomiso correspondiente presentará a la Contaduría Mayor de Hacienda de
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ART. 34.- Las infracciones a las disposiciones contenidas en este capítulo serán sancionadas en los términos previstos en el Código Fiscal del Estado.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE AGOSTO DE 1997)</small>
+
+### CAPITULO V. DEL IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS Y CONCURSOS DE TODA CLASE
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1997)</small>
+
+ART. 34 bis.- Es objeto de este impuesto, la obtención de premios derivados de loterías, rifas, sorteos y concursos de toda clase, realizados por organismos públicos descentralizados de la Administración Pública Federal cuyo objeto sea la obtención de recursos para destinarlos a la Asistencia Pública.
+
+No se considerará como premio el reintegro correspondiente al billete o boleto que permitió participar en la lotería, rifa o sorteo.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1997)</small>
+
+ART. 34 bis-1.- Son sujetos de este impuesto, las personas físicas, morales o unidades económicas que obtengan premios a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1997)</small>
+
+ART. 34 bis-2.- Será base del impuesto, el valor determinado o determinable que se obtenga del premio correspondiente a cada billete o boleto, sin deducción alguna.
+
+Tratándose de premios en especie, será base del impuesto, el valor con el que se promocione cada uno de los premios, en su defecto, el valor de facturación y en ausencia de ambos el de avalúo comercial.
+
+Cuando no se desglose y compruebe a satisfacción de la autoridad fiscal el valor o precio que corresponda a la rifa, sorteo o concurso de que se trate, se considerará que el valor o precio total del evento, corresponde al objeto del impuesto.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1997)</small>
+
+ART. 34 bis-3.- Sobre la base gravable de este impuesto, se aplicará la tasa del 6%.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1997)</small>
+
+ART. 34 bis-4.- Este impuesto se causa en el momento en que los premios sean pagados y quienes entreguen los premios a que se refiere este capítulo, deberán retener el impuesto correspondiente, independientemente del lugar donde se realice el evento.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1997)</small>
+
+ART. 34 bis-5.- Las personas físicas o morales que retengan este impuesto, realizarán el entero respectivo a más tardar el día quince del mes siguiente al en que se realice la retención, presentando la declaración en las formas aprobadas ante la Oficina Recaudadora que corresponda. Dicho pago se entenderá definitivo.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1997)</small>
+
+ART. 34 bis-6.- Los sujetos obligados a la retención de este impuesto tendrán las siguientes obligaciones:
+
+I.- Presentar ante las Autoridades Fiscales competentes, los avisos y declaraciones que correspondan, dentro de los plazos y los lugares señalados para tal efecto;
+
+II.- Retener y enterar, en su caso, el impuesto que se cause conforme a estas disposiciones y proporcionar cuando así lo solicite el interesado, constancia de retención del impuesto a la persona que obtenga el premio;
+
+III.- Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria del pago del impuesto que corresponda.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -554,6 +606,10 @@ III.- Las copias certificadas que se expidan a quejosos para ser exhibidas en ju
 En la copia certificada deberá expresarse que su expedición se hace para ser presentada como prueba en el juicio de amparo respectivo; y
 
 V (SIC).- Los certificados de insolvencia.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+## TITULO SEGUNDO. DE LOS DERECHOS
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -870,10 +926,6 @@ por hectárea 0.01
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ART. 38.- Los casos no previstos en esta tarifa serán resueltos por el Instituto Catastral, asimilándolos con alguno de los señalados en ella.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-## TITULO SEGUNDO. DE LOS DERECHOS
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -1985,8 +2037,6 @@ ART. 64.- Para la aplicación de las multas por violaciones a la ley de la mater
 
 ### CAPITULO IX. AUTOPISTA ESTATAL "BENITO JUAREZ"
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
 ART. 65.- Las cuotas derechos y refrendos, así como sus correspondientes excenciones, relativas al uso o aprovechamiento de la autopista estatal "Benito Juárez", se sujetarán a lo dispuesto en este capítulo.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
@@ -2104,8 +2154,6 @@ I.- Informe preliminar de riesgo. 40.00 días de salario mínimo general vigente
 II.- Estudios de riesgo modalidad análisis de riesgo. 80.00 días de salario mínimo general vigente en el Estado.
 
 III.- Por verificación del cumplimiento de las medidas de prevención y mitigación se pagará. 35.00 días de salario mínimo general vigente en el Estado.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ART. 74.- Por el funcionamiento de las fuentes fijas de jurisdicción estatal que emitan olores desagradables o dañinos, gases o partículas sólidas o líquidas a la atmósfera, se pagará anualmente el derecho de prevención y control de la contaminación, conforme a las siguientes cuotas:
 
@@ -2334,140 +2382,6 @@ ART. 116.- Cuando un impuesto del Estado sea condonado totalmente, y en forma ge
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ART. 117.- La recaudación del gravamen adicional municipal y demás participaciones municipales en impuestos estatales, estará a cargo de las Oficinas Recaudadoras de Rentas del Estado y será entregada a las respectivas Tesorerías Municipales, con comprobación correspondiente, mediante liquidación mensual formulada por la Secretaría de Hacienda Pública y Tesorería.
-
-### CAPITULO XIV. Impuesto sobre Elaboración y Adquisición de Bebidas Alcohólicas
-
-ART. 197.- Son objeto de este impuesto las operaciones siguientes que se realicen en el Estado de Sinaloa:
-
-I.- La elaboración de bebidas alcohólicas;
-
-II.- La adquisición de bebidas alcohólicas que se realice por primera vez en el Estado, incluyendo la adquisición para consumo. Para todos los efectos de este impuesto la Comisión se reputará como adquisición teniendo el Comisionista las mismas obligaciones del adquirente.
-
-Las partes que intervengan en la segunda y subsecuentes operaciones de adquisición deberán comprobar que este impuesto ha sido pagado, por lo que serán solidariamente responsables de su pago.
-
-Para los efectos de este Capítulo se considera bebida alcohólica, todo líquido potable cuya graduación a la temperatura de 15 grados centígrados exceda de 2 grados G.L.
-
-ART. 198.- Son sujetos de este impuesto las personas físicas o morales que habitual o accidentalmente realicen en el Estado de Sinaloa las operaciones a que se refiere el Artículo anterior.
-
-ART. 199.- Las disposiciones de las leyes federales de impuestos sobre aguardiente, mieles incristalizables, mezclas alcohólicas, envasamiento de bebidas alcohólicas, aguamiel y productos de su fermentación, son supletorias de este Capítulo en todo lo que no se le opongan.
-
-ART. 200.- El impuesto que establece este Capítulo se causa de acuerdo con las siguientes normas:
-
-I.- En el momento en que se obtiene la producción de bebidas alcohólicas;
-
-II.- En el momento en que se adquieran bebidas alcohólicas.
-
-ART. 201.- El impuesto se causará conforme a la siguiente:
-
-T A R I F A:
-
-I.- Vinos de mesa, generosos y amoratizados (sic), Sidras y Rompopes. Por recipiente con capacidad de:
-
-Hasta de medio litro $ 0.40
-
-Mayor de medio litro que no exceda de un litro 0.80
-
-Mayor de un litro que no exceda de cinco litros 4.00
-
-II.- Tequilas, mezcales y otros aguardientes.
-
-Por recipiente con capacidad de:
-
-Hasta de medio litro 1.50
-
-Mayor de medio litro que no exceda de un litro 3.00
-
-Mayor de un litro que no exceda de cinco litros 15.00
-
-III.- Cremas, Aperitales ginebras, brandys, rones, habaneros y
-
-vodkas. Por recipiente con capacidad de:
-
-Hasta de medio libro 2.00
-
-Mayor de medio litro que no exceda de un litro 4.00
-
-Mayor de un litro que no exceda de cinco litros 20.00
-
-IV.- Otros destilados, mezclas alcohólicas, cualquiera que sea la materia prima y el proceso seguido para su elaboración; licores y todas las demás bebidas no comprendidas en las fracciones anteriores. Por recipiente con capacidad de:
-
-Hasta de medio litro 5.00
-
-Mayor de medio litro 10.00
-
-Mayor de un litro que no exceda de cinco litros 50.00
-
-ART. 202.- Las disposiciones contenidas en este Capítulo no le son aplicables a:
-
-I.- Los productos medicinales con graduación alcohólica cualquiera, que estén reconocidos como tales por la Secretaría de Salubridad y Asistencia;
-
-II.- La cerveza;
-
-III.- El aguamiel
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 203.- Los causantes de este impuesto presentarán declaración de acuerdo con las formas oficiales aprobadas por la Secretaría de Hacienda Pública y Tesorería, y efectuarán el pago del impuesto en la Oficina Recaudadora de su jurisdicción, de acuerdo con las siguientes normas:
-
-I.- Los causantes que realicen la producción de bebidas alcohólicas presentarán una declaración mensual y harán el pago del impuesto dentro de los primeros 10 días del mes siguiente de aquél a que corresponda el pago;
-
-II.- Los causantes que realicen la adquisición de bebidas alcohólicas efectuarán el pago del impuesto, a más tardar el día siguiente hábil a la recepción de bebidas alcohólicas, presentando factura o cualquier otro documento que compruebe la cantidad y clase de producto adquirido.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 204.- A los causantes de este impuesto se les entregará, sin costo alguno, por conducto de la Oficina Recaudadora correspondiente a su domicilio o directamente por la Secretaría de Hacienda Pública y Tesorería, los marbetes oficiales de control de las bebidas alcohólicas.
-
-Los marbetes a que se refiere el párrafo anterior, dentro de las 48 horas siguientes a su entrega, deben adherirse sobre los tapones o cierres de manera que aparezcan visibles y se destruyan al destaparse los envases. Se adherirá sólo un marbete o precinto a cada envase.
-
-La Secretaría de Finanzas del Estado podrá indicar en forma gráfica y objetiva, la manera de adherir los marbetes, según el tipo de envase.
-
-Para los efectos de este Capítulo, se considerará que el impuesto no se enteró cuando el envase carezca del marbete oficial de control, o el que tenga adherido no corresponda a la capacidad del recipiente o a la categoría legal de la bebida, de acuerdo con la clasificación contenida en el Artículo 201. En estos casos se aplicará una multa de $100.00 por botella sin perjuicio de que sea cubierto el impuesto correspondiente.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 205.- Para la mejor administración y control del impuesto, la Secretaría de Hacienda Pública y Tesorería podrá celebrar convenios en los cuales se estipulen las modalidades relativas a la garantía del impuesto, a la entrega, control y adhesión de los marbetes.
-
-ART. 206.- Tienen obligación de empadronarse y solicitar la licencia del Ejecuti (sic) del Estado, las personas siguientes:
-
-I.- Los productores de bebida (sic) alcohólicas;
-
-II.- Los propietarios o responsables de almacenes, licorerías, supermercados con venta de licores, cantinas, cabarets, centros nocturnos y restaurantes con venta de licores;
-
-III.- Las sociedades constituidas por personas físicas a que se refieren las fracciones anteriores;
-
-IV.- Los comisionistas y mediadores, transportistas y cualquier persona física o moral que maneje bebidas alcohólicas.
-
-ART. 207.- Cuando una misma persona sea propietaria o poseedora de varios giros y/o negocios similares obligados a empadronarse, deberá registrar por separado cada uno de dichos giros y/o negocios similares.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 208.- Las personas obligadas a solicitar la Licencia deberán manifestar a la Secretaría de Hacienda Pública y Tesorería los cambios de nombre, de razón social, de traspaso, de traslado o de clausura temporal o definitiva del negocio, dentro de los diez días siguientes a la fecha en que se realicen estos hechos.
-
-ART. 209.- En los casos de clausura o de cambio de giro, se acompañará a la manifestación respectiva la licencia de funcionarios o copia fotostática de la misma.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 210.- Las manifestaciones y los avisos, se formularán haciendo uso de las formas aprobadas por la Secretaría de Hacienda Pública y Tesorería, debiendo asentar en ellas, la manera verídica y exacta todos los datos que en dichas formas se exijan. En todo caso se anexarán los documentos requeridos en las formas.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 211.- Los causantes de este impuesto, además de las que les señalen las leyes, reglamentos y circulares, tendrán la obligación de llevar, mediante asientos que se practiquen al producirse y/o al recibirse los productos, el libro de existencias, producción y ventas de bebidas alcohólicas y el libro de adquisición de bebidas alcohólicas respectivamente, que deberán ser autorizados previamente por la Secretaría de Hacienda Pública y Tesorería, debiendo obtenerse gratuitamente la autorización dentro de los diez días siguientes a la fecha de iniciación de operaciones.
-
-ART. 212.- En el Estado de Sinaloa, queda prohibida la venta de bebidas alcohólicas, en envases con capacidad superior a cinco litros.
-
-ART. 213.- Al que intervenga, directa o indirectamente en la cesión a personas distintas de las que enteraron el impuesto relativo, de los marbetes que se indican en el Artículo 204 o en su falsificación, o en su indebida utilización, se le impondrá la pena corporal señalada por el Artículo 208 del Código penal del Estado, sin perjuicio de obligarlo a cubrir los impuestos cuyo pago haya eludido su autor o quienes aprovechen estos hechos.
-
-ART. 214.- Unicamente en los expendios autorizados por el Gobierno del Estado para vender bebidas alcohólicas al copeo, se podrán tener éstas en botellas o en envases abiertos que deberán ser los mismos de origen y en los cuales deberán conservarse adheridos los extremos de los marbetes oficiales de control. En caso contrario se considera que el impuesto sobre bebidas citadas no ha sido enterado, sin que en contra de esta presunción se admita prueba en contrario.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 215.- Los causantes no podrán establecer expendios de bebidas alcohólicas en el mismo local o dependencia de sus fábricas, almacenes o bodegas. En caso contrario, la Secretaría de Hacienda Pública y Tesorería ordenará la clausura definitiva del expendio de acuerdo con esta Ley.
-
-ART. 216.- Las autoridades fiscales quedan facultadas para ordenar la inspección de libros, documentos y existencias de los sujetos del impuesto a que se refiere este Capítulo así como la inspección de locales, bienes muebles e inmuebles, en que exista o se presuma que existan bebidas alcohólicas, debiéndose cumplir las formalidades previstas en esta Ley.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 217.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
 ### CAPITULO XV. Impuesto sobre Almacenes y Espendios (sic) de Bebidas Alcohólicas
 
@@ -3320,6 +3234,16 @@ A).- En las poblaciones en que la base gravable para el cálculo del Impuesto Pr
 B).- En las poblaciones en que la base gravable para el cálculo del Impuesto Predial en 1996 fue del 85%, para el presente ejercicio fiscal será de un 95%; y,
 
 C).- En las poblaciones en que la base gravable para el cálculo del Impuesto Predial en 1996 fue del 90 y 95%, para el presente ejercicio fiscal será de un 100%.
+
+P.O. 13 DE AGOSTO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 136.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
 
