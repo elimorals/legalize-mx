@@ -4,7 +4,7 @@ identifier: "FED-ley-que-establece-las-normas-minimas-sobre-readaptacion-2572"
 country: "mx"
 rank: "ley"
 publication_date: "1971-05-19"
-last_updated: "1999-05-17"
+last_updated: "2004-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2572&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1971-02-08"
 
 LEY QUE ESTABLECE LAS NORMAS MINIMAS SOBRE READAPTACION SOCIAL DE SENTENCIADOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 19 de mayo de 1971.
 
@@ -57,6 +57,14 @@ En dichos convenios se determinará lo relativo a la creación y manejo de insti
 
 Los convenios podrán ser concertados entre el Ejecutivo Federal y un solo Estado, o entre aquél y varias entidades federativas, simultáneamente, con el propósito de establecer, cuando así lo aconsejen las circunstancias, sistemas regionales.
 
+> <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 2004)</small>
+
+Podrá convenirse también que los reos sentenciados por delitos del orden federal compurguen sus penas en los centros penitenciarios a cargo de los Gobiernos Estatales, cuando estos centros se encuentren más cercanos a su domicilio que los del Ejecutivo Federal, y que por la mínima peligrosidad del recluso, a criterio de la Dirección General de Servicios Coordinados de la Prevención y Readaptación Social, ello sea posible. Para los efectos anteriores, en caso de reos indígenas sentenciados, se considerarán los usos y costumbres, así como las circunstancias en las que se cometió el delito. Esta medida no podrá otorgarse tratándose de reclusos sentenciados por alguno o más de los delitos que prevé la Ley Federal contra la Delincuencia Organizada.
+
+> <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 2004)</small>
+
+En los convenios a que se refiere el presente artículo, podrá acordarse también que tratándose de reos sentenciados por delitos del orden común, puedan cumplir su condena en un centro federal si éste se encuentra más cercano a su domicilio.
+
 Lo anterior se entiende sin perjuicio de lo prescrito en el artículo 18 Constitucional acerca de convenios para que los reos sentenciados por delitos del orden común extingan su condena en establecimientos dependientes del Ejecutivo Federal.
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 1984)</small>
@@ -75,9 +83,11 @@ Los miembros del personal penitenciario quedan sujetos a la obligación de segui
 
 ### CAPITULO III. Sistema
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 6o.
 
-El tratamiento será individualizado, con aportación de las diversas ciencias y disciplinas pertinentes para la reincorporación social del sujeto, consideradas sus circunstancias personales.
+El tratamiento será individualizado, con aportación de las diversas ciencias y disciplinas pertinentes para la reincorporación social del sujeto, consideradas sus circunstancias personales, sus usos y costumbres tratándose de internos indígenas, así como la ubicación de su domicilio, a fin de que puedan compurgar sus penas en los centros penitenciarios más cercanos a aquél.
 
 Para la mejor individualización del tratamiento y tomando en cuenta las condiciones de cada medio y las posibilidades presupuestales, se clasificará a los reos en instituciones especializadas, entre las que podrán figurar establecimientos de seguridad máxima, media y mínima, colonias y campamentos penales, hospitales psiquiátricos y para infecciosos e instituciones abiertas.
 
@@ -109,6 +119,10 @@ V.- Permisos de salida de fin de semana o diaria con reclusión nocturna, o bien
 
 Al aplicar las medidas de tratamiento establecidas en las fracciones IV y V, la autoridad condicionará su otorgamiento, al cumplimiento de lo previsto en la fracción III y en los incisos a) a d) del artículo 84 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal. No se concederán dichas medidas cuando el sentenciado se encuentre en cualquiera de los casos a que se refiere el artículo 85 del mencionado Código Penal. La autoridad podrá revocar dichas medidas, conforme a lo establecido en el artículo 86 del citado Código Penal.
 
+> <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 2004)</small>
+
+Para la aplicación de los tratamientos preliberatorios a que tengan derecho los hombres y mujeres indígenas, las autoridades considerarán los usos y costumbres de aquellos.
+
 ###### ARTICULO 9o.
 
 Se creará en cada reclusorio un Consejo Técnico interdisciplinario, con funciones consultivas necesarias para la aplicación individual del sistema progresivo, la ejecución de medidas preliberacionales, la concesión de la remisión parcial de la pena y de la libertad preparatoria y la aplicación de la retención. El Consejo podrá sugerir también a la autoridad ejecutiva del reclusorio medidas de alcance general para la buena marcha del mismo.
@@ -127,6 +141,10 @@ Ningún interno podrá desempeñar funciones de autoridad o ejercer dentro del e
 
 La educación que se imparta a los internos no tendrá sólo carácter académico, sino también cívico, social, higiénico, artístico, físico y ético. Será, en todo caso, orientada por las técnicas de la pedagogía correctiva y quedará a cargo, preferentemente, de maestros especializados.
 
+> <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 2004)</small>
+
+Tratándose de internos indígenas, la educación que se les imparta será bilingüe, para conservar y enriquecer sus lenguas, y la instrucción deberá ser proporcionada por maestros bilingües.
+
 ###### ARTICULO 12.
 
 En el curso del tratamiento se fomentará el establecimiento, la conservación y el fortalecimiento, en su caso, de las relaciones del interno con personas convenientes del exterior. Para este efecto, se procurará el desarrollo del Servicio Social Penitenciario en cada centro de reclusión, con el objeto de auxiliar a los internos en sus contactos autorizados con el exterior.
@@ -137,7 +155,9 @@ La visita íntima, que tiene por finalidad principal el mantenimiento de las rel
 
 En el reglamento interior del reclusorio se harán constar, clara y terminantemente, las infracciones y las correcciones disciplinarias, así como los hechos meritorios y las medidas de estímulo. Sólo el Director del reclusorio podrá imponer las correcciones previstas por el reglamento, tras un procedimiento sumario en que se comprueben la falta y la responsabilidad del interno y se escuche a éste en su defensa. El interno podrá inconformarse con la corrección aplicada, recurriendo para ello al superior jerárquico del Director del establecimiento.
 
-Se entregará a cada interno un instructivo, en el que aparezcan detallados sus derechos, deberes y el régimen general de vida en la institución.
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2004)</small>
+
+Se entregará a cada interno un instructivo, en el que aparezcan detallados sus derechos, deberes y el régimen general de vida en la institución. Tratándose de reclusos indígenas, el instructivo se les dará traducido a su lengua.
 
 Los internos tienen derecho a ser recibidos en audiencia por los funcionarios del reclusorio, a transmitir quejas y peticiones, pacíficas y respetuosas, a autoridades del exterior, y a exponerlas personalmente a los funcionarios que lleven a cabo, en comisión oficial, la visita de cárceles.
 
@@ -258,3 +278,9 @@ SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el 
 TERCERO.- Las referencias que otras disposiciones hagan al artículo 194 del Código Federal de Procedimientos Penales respecto de la detención de personas en casos urgentes, se entenderán hechas al artículo 193 bis del mismo ordenamiento.
 
 CUARTO.- Las referencias que en el presente Decreto se hagan al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, se entenderán hechas al Código Penal Federal, si es llegado el caso de aprobarse, y en su momento, publicarse la iniciativa por el que se reforman diversas disposiciones en materia penal que el ciudadano Presidente de los Estados Unidos Mexicanos envió a la consideración del Congreso de la Unión por conducto del Senado de la República como Cámara de Origen, el 23 de marzo de 1999.
+
+D.O.F. 2 DE SEPTIEMBRE DE 2004.
+
+Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan las disposiciones que a la entrada en vigor del presente Decreto contravengan las disposiciones del mismo.
