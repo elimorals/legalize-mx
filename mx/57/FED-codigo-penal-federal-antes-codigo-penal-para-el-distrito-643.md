@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2000-06-12"
+last_updated: "2001-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2001.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -2381,9 +2381,9 @@ Las mismas penas se impondrán a quien realice las acciones a que se refiere el 
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-### CAPITULO IV. Coalición de servidores públicos
+### CAPITULO III BIS. Desaparición forzada de personas
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 202.
 
@@ -2395,7 +2395,7 @@ Para los efectos de este precepto se considerará como empleado en la cantina, t
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO V. Uso indebido de atribuciones y facultades
+### CAPITULO IV. Coalición de servidores públicos
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -2407,7 +2407,7 @@ Las sanciones que señalan los artículos anteriores se duplicarán cuando el de
 
 Cuando el delito sea cometido por un miembro o miembros de la delincuencia organizada se aplicará, la pena de diez a quince años de prisión y de mil a cinco mil días de multa.
 
-### CAPITULO VI. Concusión
+### CAPITULO V. Uso indebido de atribuciones y facultades
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -2417,7 +2417,7 @@ Los delincuentes de que se trata en este capítulo quedarán inhabilitados para 
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2000)</small>
 
-### CAPITULO VII. Intimidación
+### CAPITULO VI. Concusión
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -2429,7 +2429,7 @@ Si se emplease violencia o el agente se valiese de la función pública que tuvi
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE ENERO DE 1984)</small>
 
-### CAPITULO VIII. Ejercicio abusivo de funciones
+### CAPITULO VII. Intimidación
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -2451,9 +2451,9 @@ III.- Al que regentee, administre o sostenga directa o indirectamente, prostíbu
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2000)</small>
 
-### CAPITULO IX. Tráfico de Influencia
+### CAPITULO VIII. Ejercicio abusivo de funciones
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 208.
 
@@ -2464,6 +2464,10 @@ Al que promueva, encubra, concierte o permita el comercio carnal de un menor de 
 Al que provoque públicamente a cometer un delito, o haga la apología de éste o de algún vicio, se le aplicarán de diez a ciento ochenta jornadas de trabajo en favor de la comunidad, si el delito no se ejecutare; en caso contrario se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 17 DE MAYO DE 1999)</small>
+
+### CAPITULO IX. Tráfico de Influencia
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ### CAPITULO X. Cohecho
 
@@ -2487,13 +2491,9 @@ Cuando alguno de los delitos comprendidos en este artículo se cometa en los sup
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO XII. Peculado
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
-
 ## TITULO VIGESIMO. Delitos contra el honor
 
-### CAPITULO XIII. Enriquecimiento ilícito
+### CAPITULO XII. Peculado
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -2511,17 +2511,17 @@ ARTICULO 211 bis.- A quien revele, divulgue o utilice indebidamente o en perjuic
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 17 DE MAYO DE 1999)</small>
 
-### CAPITULO I. Delitos cometidos por los servidores públicos
+### CAPITULO XIII. Enriquecimiento ilícito
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ## TITULO VIGESIMO PRIMERO. Privación ilegal de la libertad y de otras garantías
 
 > <small>(DEROGADA SU DENOMINACION, D.O.F. 29 DE JULIO DE 1970)</small>
 
-### CAPITULO II. Ejercicio indebido del propio derecho
+### CAPITULO I. Delitos cometidos por los servidores públicos
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 212.
 
@@ -2541,9 +2541,9 @@ ARTICULO 213 bis.- Cuando los delitos a que se refieren los artículos 215, 219 
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO II. Ejercicio indebido del propio derecho
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE ENERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 214.
 
@@ -2569,9 +2569,9 @@ Al infractor de las fracciones III, IV, o V, se le impondrán de dos años a sie
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO II. Delitos de abogados, patronos y litigantes
+### CAPITULO I. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 215.
 
@@ -2633,17 +2633,45 @@ Al que cometa el delito de abuso de autoridad en los términos previstos por las
 
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI a IX, se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE JUNIO DE 2001)</small>
+
+### CAPITULO II. Delitos de abogados, patronos y litigantes
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+
+###### ARTICULO 215-A.
+
+Comete el delito de desaparición forzada de personas, el servidor público que, independientemente de que haya participado en la detención legal o ilegal de una o varias personas, propicie o mantenga dolosamente su ocultamiento bajo cualquier forma de detención.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 215-B.
+
+A quien cometa el delito de desaparición forzada de personas se le impondrá una pena de cinco a cuarenta años de prisión.
+
+Si la víctima fuere liberada espontáneamente dentro de los tres días siguientes a su detención la pena será de ocho meses a cuatro años de prisión, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismos delitos.
+
+Si la liberación ocurriera dentro de los diez días siguientes a su detención, la pena aplicable será de dos a ocho años de prisión, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismo delitos.
+
+Estas penas podrán ser disminuidas hasta una tercera parte en beneficio de aquel que hubiere participado en la comisión del delito, cuando suministre información que permita esclarecer los hechos, y hasta en una mitad, cuando contribuya a lograr la aparición con vida de la víctima.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 215-C.
+
+Al servidor Público que haya sido condenado por el delito de desaparición forzada de personas, además se le destituirá del cargo y se le inhabilitará de uno a veinte años para desempeñar cualquier cargo, comisión o empleo públicos.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 215-D.
+
+La oposición o negativa a la autoridad competente para tener libre e inmediato acceso al lugar donde haya motivos para creer que se pueda encontrar a una persona desaparecida, por parte del servidor público responsable del mismo, será sancionada con la destitución de su cargo, comisión o empleo, sin perjuicio de la aplicación de las penas de los demás delitos en que pudiera incurrir con motivo de su conducta.
+
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ### CAPITULO I. Falsificación, alteración y destrucción de moneda
 
 > <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1992)</small>
-
-### CAPITULO II. Falsificación y utilización indebida de títulos al portador, documentos de crédito público
-
-y documentos relativos al crédito
-
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 216.
 
@@ -2653,7 +2681,11 @@ Al que cometa el delito de coalición de servidores públicos se le impondrán d
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO III. Falsificación de sellos, llaves, cuños o troqueles, marcas, pesas y medidas
+### CAPITULO II. Falsificación y utilización indebida de títulos al portador, documentos de crédito público
+
+y documentos relativos al crédito
+
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 217.
 
@@ -2681,13 +2713,11 @@ Cuando el monto a que asciendan las operaciones a que hace referencia este Artí
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
+### CAPITULO III. Falsificación de sellos, llaves, cuños o troqueles, marcas, pesas y medidas
+
 ### CAPITULO IV. Falsificación de documentos en general
 
 > <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
-
-### CAPITULO V. Falsedad en declaraciones judiciales y en informes dados a una autoridad
-
-(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994) (F. DE E., D.O.F. 1 DE FEBRERO DE 1994)
 
 ###### ARTICULO 218.
 
@@ -2701,9 +2731,9 @@ Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientas v
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO VI. Variación del nombre o del domicilio
+### CAPITULO V. Falsedad en declaraciones judiciales y en informes dados a una autoridad
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994) (F. DE E., D.O.F. 1 DE FEBRERO DE 1994)
 
 ###### ARTICULO 219.
 
@@ -2717,7 +2747,7 @@ Al que cometa el delito de intimidación se le impondrán de dos años a nueve a
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO VII. Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones, uniformes, grados jerárquicos, divisas, insignias y siglas
+### CAPITULO VI. Variación del nombre o del domicilio
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -2737,7 +2767,9 @@ Cuando la cuantía a que asciendan las operaciones a que hace referencia este Ar
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO VIII. Disposiciones comunes a los capítulos precedentes
+### CAPITULO VII. Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones, uniformes, grados jerárquicos, divisas, insignias y siglas
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 221.
 
@@ -2753,9 +2785,7 @@ Al que cometa el delito de tráfico de influencia, se le impondrán de dos años
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO I. Delitos contra el consumo y la riqueza nacionales
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
+### CAPITULO VIII. Disposiciones comunes a los capítulos precedentes
 
 ###### ARTICULO 222.
 
@@ -2775,9 +2805,11 @@ En ningún caso se devolverá a los responsables del delito de cohecho, el diner
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 17 DE MAYO DE 1999)</small>
 
-### CAPITULO II. Vagos y malvivientes
+### CAPITULO I. Delitos contra el consumo y la riqueza nacionales
 
-### CAPITULO III. Juegos prohibidos
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
+
+### CAPITULO II. Vagos y malvivientes
 
 ###### ARTICULO 223.
 
@@ -2799,17 +2831,7 @@ Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO I. Hostigamiento sexual, abuso sexual, estupro y violación
-
-> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 1991)</small>
-
-ARTICULO 259 bis.- Al que con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá sanción hasta de cuarenta días multa. Si el hostigador fuese servidor público y utilizace (sic) los medios o circunstancias que el encargo le proporcione, se le destituirá de su cargo.
-
-Solamente será punible el hostigamiento sexual, cuando se cause un perjuicio o daño.
-
-Sólo se procederá contra el hostigador, a petición de parte ofendida.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+### CAPITULO III. Juegos prohibidos
 
 ###### ARTICULO 224.
 
@@ -2833,7 +2855,17 @@ Delitos cometidos contra la administración de justicia
 
 > <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
-### CAPITULO II
+### CAPITULO I. Hostigamiento sexual, abuso sexual, estupro y violación
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 1991)</small>
+
+ARTICULO 259 bis.- Al que con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá sanción hasta de cuarenta días multa. Si el hostigador fuese servidor público y utilizace (sic) los medios o circunstancias que el encargo le proporcione, se le destituirá de su cargo.
+
+Solamente será punible el hostigamiento sexual, cuando se cause un perjuicio o daño.
+
+Sólo se procederá contra el hostigador, a petición de parte ofendida.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 225.
 
@@ -2925,7 +2957,7 @@ En todos los delitos previstos en este Capítulo, además de las penas de prisi�
 
 > <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
-### CAPITULO III. Incesto
+### CAPITULO II
 
 ###### ARTICULO 226.
 
@@ -2943,7 +2975,7 @@ Responsabilidad profesional
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE ENERO DE 1984)</small>
 
-### CAPITULO IV. Adulterio
+### CAPITULO III. Incesto
 
 ###### ARTICULO 228.
 
@@ -2975,17 +3007,7 @@ III. Retardar o negar por cualquier motivo la entrega de un cadáver, excepto cu
 
 La misma sanción se impondrá a los encargados o administradores de agencias funerarias que retarden o nieguen indebidamente la entrega de un cadáver, e igualmente a los encargados, empleados o dependientes de una farmacia, que al surtir una receta sustituyan la medicina, específicamente recetada por otra que cauce (sic) daño o sea evidentemente inapropiada al padecimiento para el cual se prescribió.
 
-### CAPITULO V. Disposiciones generales
-
-> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1984)</small>
-
-ARTICULO 276 bis.- Cuando a consecuencia de la comisión de alguno de los delitos previstos en este Título resulten hijos, la reparación del daño comprenderá el pago de alimentos para éstos y para la madre, en los términos que fija la legislación civil para los casos de divorcio.
-
-(REUBICADO [N. DE E. ANTES TITULO DECIMOSEPTIMO], D.O.F. 29 DE JULIO DE 1970)
-
-TITULO DECIMOSEXTO
-
-Delitos contra el estado civil y bigamia
+### CAPITULO IV. Adulterio
 
 ###### ARTICULO 231.
 
@@ -3027,9 +3049,17 @@ Falsedad
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 11 DE JUNIO DE 1992)</small>
 
-### CAPITULO UNICO. Violación de las leyes sobre inhumaciones y exhumaciones
+### CAPITULO V. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1984)</small>
+
+ARTICULO 276 bis.- Cuando a consecuencia de la comisión de alguno de los delitos previstos en este Título resulten hijos, la reparación del daño comprenderá el pago de alimentos para éstos y para la madre, en los términos que fija la legislación civil para los casos de divorcio.
+
+(REUBICADO [N. DE E. ANTES TITULO DECIMOSEPTIMO], D.O.F. 29 DE JULIO DE 1970)
+
+TITULO DECIMOSEXTO
+
+Delitos contra el estado civil y bigamia
 
 ###### ARTICULO 234.
 
@@ -3075,7 +3105,7 @@ Se le impondrá de tres a siete años de prisión y hasta quinientos días multa
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 8 DE FEBRERO DE 1999)</small>
 
-### CAPITULO I. Amenazas
+### CAPITULO UNICO. Violación de las leyes sobre inhumaciones y exhumaciones
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -3115,7 +3145,9 @@ Las sanciones previstas se aplicarán con independencia de las que correspondan 
 
 Si el sujeto activo es empleado del ofendido, las penas se aumentarán en una mitad.
 
-### CAPITULO II. Allanamiento de morada y asalto
+### CAPITULO I. Amenazas
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 241.
 
@@ -3157,7 +3189,7 @@ VIII.- Al que a sabiendas hiciere uso de los sellos o de algún otro de los obje
 
 ARTICULO 242 bis.- Se impondrá prisión de uno a cinco años y multa de doscientos a dos mil pesos, al que en cualquier forma altere las señales, marcas de sangre o de fuego, que se utilizan para distinguir el ganado, sin autorización de la persona que los tenga legalmente registradas ante la autoridad competente.
 
-### CAPITULO I. Lesiones
+### CAPITULO II. Allanamiento de morada y asalto
 
 ###### ARTICULO 243.
 
@@ -3231,7 +3263,7 @@ VI.- Los encargados del servicio telegráfico, telefónico o de radio que supong
 
 VII.- El que a sabiendas hiciere uso de un documento falso o de copia, transcripción o testimonio del mismo, sea público o privado.
 
-### CAPITULO II. Homicidio
+### CAPITULO I. Lesiones
 
 ###### ARTICULO 247.
 
@@ -3271,9 +3303,7 @@ El testigo, perito o intérprete que retracte espontáneamente sus falsas declar
 
 ARTICULO 248 bis.- Al que con el propósito de inculpar a alguien como responsable de un delito ante la autoridad, simule en su contra la existencia de pruebas materiales que hagan presumir su responsabilidad, se le impondrá prisión de dos a seis años y de cien a trescientos días multa.
 
-### CAPITULO III. Reglas comunes para lesiones y homicidio
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+### CAPITULO II. Homicidio
 
 ###### ARTICULO 249.
 
@@ -3287,7 +3317,7 @@ III.- Al funcionario o empleado público que, en los actos propios de su cargo, 
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1985)</small>
 
-### CAPITULO IV. Homicidio en razón del parentesco o relación
+### CAPITULO III. Reglas comunes para lesiones y homicidio
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -3331,7 +3361,9 @@ III.- Al extranjero que ejerza una profesión reglamentada sin tener autorizaci�
 
 IV.- Al que usare credenciales de servidor público, condecoraciones, uniformes, grados jerárquicos, divisas, insignias o siglas a las que no tenga derecho. Podrá aumentarse la pena hasta la mitad de su duración y cuantía, cuando sean de uso exclusivo de las Fuerzas Armadas Mexicanas o de alguna corporación policial.
 
-### CAPITULO V. Infanticidio
+### CAPITULO IV. Homicidio en razón del parentesco o relación
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 251.
 
@@ -3349,7 +3381,7 @@ Delitos contra la economía pública
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1955)</small>
 
-### CAPITULO VI. Aborto
+### CAPITULO V. Infanticidio
 
 ###### ARTICULO 253.
 
@@ -3469,7 +3501,7 @@ ARTICULO 254 ter.- Se impondrá de tres meses a un año de prisión o de cien a 
 
 Si con los actos a que se refiere el párrafo anterior se causa algún daño, la pena será de dos a nueve años de prisión y de doscientos cincuenta a dos mil días multa.
 
-### CAPITULO VII. Abandono de personas
+### CAPITULO VI. Aborto
 
 ###### ARTICULO 255.
 
@@ -3478,6 +3510,28 @@ Si con los actos a que se refiere el párrafo anterior se causa algún daño, la
 ###### ARTICULO 256.
 
 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1991)
+
+### CAPITULO VII. Abandono de personas
+
+###### ARTICULO 257.
+
+(DEROGADO, D.O.F. 14 DE ENERO DE 1985)
+
+###### ARTICULO 258.
+
+(DEROGADO, D.O.F. 14 DE ENERO DE 1985)
+
+###### ARTICULO 259.
+
+(DEROGADO, D.O.F. 14 DE ENERO DE 1985)
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1991)</small>
+
+TITULO DECIMOQUINTO
+
+Delitos contra la libertad y el normal desarrollo psicosexual
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1991)</small>
 
 ### CAPITULO VIII. Violencia familiar
 
@@ -3500,28 +3554,6 @@ ARTICULO 343 ter.- Se equipara a la violencia familiar y se sancionará con seis
 ARTICULO 343 quáter.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma. La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
 
 (REUBICADO [N. DE E. ANTES TITULO VIGESIMO PRIMERO], D.O.F. 29 DE JULIO DE 1970)
-
-###### ARTICULO 257.
-
-(DEROGADO, D.O.F. 14 DE ENERO DE 1985)
-
-###### ARTICULO 258.
-
-(DEROGADO, D.O.F. 14 DE ENERO DE 1985)
-
-###### ARTICULO 259.
-
-(DEROGADO, D.O.F. 14 DE ENERO DE 1985)
-
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1991)</small>
-
-TITULO DECIMOQUINTO
-
-Delitos contra la libertad y el normal desarrollo psicosexual
-
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1991)</small>
-
-### CAPITULO I. Golpes y otras violencias físicas simples
 
 ###### ARTICULO 260.
 
@@ -3599,7 +3631,7 @@ IV.- El delito fuere cometido por la persona que tiene al ofendido bajo su custo
 
 > <small>(DEROGADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1991)</small>
 
-### CAPITULO II. Injurias y difamación
+### CAPITULO I. Golpes y otras violencias físicas simples
 
 ###### ARTICULO 267.
 
@@ -3621,9 +3653,7 @@ IV.- El delito fuere cometido por la persona que tiene al ofendido bajo su custo
 
 (DEROGADO, D.O.F. 21 DE ENERO DE 1991)
 
-### CAPITULO III. Calumnia
-
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1931)</small>
+### CAPITULO II. Injurias y difamación
 
 ###### ARTICULO 272.
 
@@ -3633,7 +3663,9 @@ La pena aplicable a estos últimos será de seis meses a tres años de prisión.
 
 Se aplicará esta misma sanción en caso de incesto entre hermanos.
 
-### CAPITULO IV. Disposiciones comunes para los capítulos precedentes
+### CAPITULO III. Calumnia
+
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1931)</small>
 
 ###### ARTICULO 273.
 
@@ -3655,9 +3687,7 @@ Cuando el ofendido perdone a su cónyuge, cesará todo procedimiento si no se ha
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 13 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
+### CAPITULO IV. Disposiciones comunes para los capítulos precedentes
 
 ###### ARTICULO 277.
 
@@ -3691,7 +3721,9 @@ Delitos en materia de inhumaciones y exhumaciones
 
 > <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
-### CAPITULO I. Robo
+### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 280.
 
@@ -3727,9 +3759,7 @@ TITULO DECIMOCTAVO
 
 Delitos contra la paz y seguridad de las personas
 
-### CAPITULO II. Abuso de confianza
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+### CAPITULO I. Robo
 
 ###### ARTICULO 282.
 
@@ -3769,7 +3799,7 @@ Si el amenazador exigió que el amenazado cometiera un delito, a la sanción de 
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-### CAPITULO III. Fraude
+### CAPITULO II. Abuso de confianza
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -3797,9 +3827,9 @@ TITULO DECIMONOVENO
 
 Delitos contra la vida y la integridad corporal
 
-### CAPITULO III BIS. Extorsión
+### CAPITULO III. Fraude
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 288.
 
@@ -3871,7 +3901,9 @@ Si la víctima fuere alguno de los parientes o personas a que se refieren los ar
 
 De las lesiones que a una persona cause algún animal bravío, será responsable el que con esa intención lo azuce, o lo suelte o haga esto último por descuido.
 
-### CAPITULO IV. De los delitos cometidos por los comerciantes sujetos a concurso
+### CAPITULO III BIS. Extorsión
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 302.
 
@@ -3929,9 +3961,7 @@ Además de lo dispuesto en los artículos 51 y 52 para la fijación de las penas
 
 (DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
 
-### CAPITULO V. Despojo de cosas inmuebles o de aguas
-
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+### CAPITULO IV. De los delitos cometidos por los comerciantes sujetos a concurso
 
 ###### ARTICULO 310.
 
@@ -4023,7 +4053,9 @@ II.- Prohibirles ir a determinado lugar, Municipio, Distrito o Estado, o residir
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
 
-### CAPITULO VI. Daño en propiedad ajena
+### CAPITULO V. Despojo de cosas inmuebles o de aguas
+
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 323.
 
@@ -4033,9 +4065,7 @@ Al que prive de la vida a su ascendiente o descendiente consanguíneo en línea 
 
 (DEROGADO, D.O.F. 10 DE ENERO DE 1994)
 
-### CAPITULO I. Encubrimiento
-
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
+### CAPITULO VI. Daño en propiedad ajena
 
 ###### ARTICULO 325.
 
@@ -4053,31 +4083,9 @@ Al que prive de la vida a su ascendiente o descendiente consanguíneo en línea 
 
 (DEROGADO, D.O.F. 10 DE ENERO DE 1994)
 
-### CAPITULO II. Operaciones con recursos de procedencia ilícita
+### CAPITULO I. Encubrimiento
 
-> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
-
-ARTICULO 400 bis.- Se impondrá de cinco a quince años de prisión y de mil a cinco mil días multa al que por sí o por interpósita persona realice cualquiera de las siguientes conductas: adquiera, enajene, administre, custodie, cambie, deposite, dé en garantía, invierta, transporte o transfiera, dentro del territorio nacional, de éste hacia el extranjero o a la inversa, recursos, derechos o bienes de cualquier naturaleza, con conocimiento de que proceden o representan el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar o pretender ocultar, encubrir o impedir conocer el origen, localización, destino o propiedad de dichos recursos, derechos o bienes, o alentar alguna actividad ilícita.
-
-La misma pena se aplicará a los empleados y funcionarios de las instituciones que integran el sistema financiero, que dolosamente presten ayuda o auxilien a otro para la comisión de las conductas previstas en el párrafo anterior, sin perjuicio de los procedimientos y sanciones que correspondan conforme a la legislación financiera vigente.
-
-La pena prevista en el primer párrafo será aumentada en una mitad, cuando la conducta ilícita se cometa por servidores públicos encargados de prevenir, denunciar, investigar o juzgar la comisión de delitos. En este caso, se impondrá a dichos servidores públicos, además, inhabilitación para desempeñar empleo, cargo o comisión públicos hasta por un tiempo igual al de la pena de prisión impuesta.
-
-En caso de conductas previstas en este artículo, en las que se utilicen servicios de instituciones que integran el sistema financiero, para proceder penalmente se requerirá la denuncia previa de la Secretaría de Hacienda y Crédito Público.
-
-Cuando dicha Secretaría, en ejercicio de sus facultades de fiscalización, encuentre elementos que permitan presumir la comisión de los delitos referidos en el párrafo anterior, deberá ejercer respecto de los mismos las facultades de comprobación que le confieren las leyes y, en su caso, denunciar hechos que probablemente puedan constituir dicho ilícito.
-
-Para efectos de este artículo se entiende que son producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito y no pueda acreditarse su legítima procedencia.
-
-Para los mismos efectos, el sistema financiero se encuentra integrado por las instituciones de crédito, de seguros y de fianzas, almacenes generales de depósito, arrendadoras financieras, sociedades de ahorro y préstamo, sociedades financieras de objeto limitado, uniones de crédito, empresas de factoraje financiero, casas de bolsa y otros intermediarios bursátiles, casas de cambio, administradoras de fondos de retiro y cualquier otro intermediario financiero o cambiario.
-
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE AGOSTO DE 1990)</small>
-
-TITULO VIGESIMOCUARTO
-
-Delitos electorales y en materia de registro nacional de ciudadanos
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 329.
 
@@ -4113,9 +4121,31 @@ No es punible el aborto causado sólo por imprudencia de la mujer embarazada, o 
 
 No se aplicará sanción: cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPITULO UNICO
+### CAPITULO II. Operaciones con recursos de procedencia ilícita
 
-> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
+
+ARTICULO 400 bis.- Se impondrá de cinco a quince años de prisión y de mil a cinco mil días multa al que por sí o por interpósita persona realice cualquiera de las siguientes conductas: adquiera, enajene, administre, custodie, cambie, deposite, dé en garantía, invierta, transporte o transfiera, dentro del territorio nacional, de éste hacia el extranjero o a la inversa, recursos, derechos o bienes de cualquier naturaleza, con conocimiento de que proceden o representan el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar o pretender ocultar, encubrir o impedir conocer el origen, localización, destino o propiedad de dichos recursos, derechos o bienes, o alentar alguna actividad ilícita.
+
+La misma pena se aplicará a los empleados y funcionarios de las instituciones que integran el sistema financiero, que dolosamente presten ayuda o auxilien a otro para la comisión de las conductas previstas en el párrafo anterior, sin perjuicio de los procedimientos y sanciones que correspondan conforme a la legislación financiera vigente.
+
+La pena prevista en el primer párrafo será aumentada en una mitad, cuando la conducta ilícita se cometa por servidores públicos encargados de prevenir, denunciar, investigar o juzgar la comisión de delitos. En este caso, se impondrá a dichos servidores públicos, además, inhabilitación para desempeñar empleo, cargo o comisión públicos hasta por un tiempo igual al de la pena de prisión impuesta.
+
+En caso de conductas previstas en este artículo, en las que se utilicen servicios de instituciones que integran el sistema financiero, para proceder penalmente se requerirá la denuncia previa de la Secretaría de Hacienda y Crédito Público.
+
+Cuando dicha Secretaría, en ejercicio de sus facultades de fiscalización, encuentre elementos que permitan presumir la comisión de los delitos referidos en el párrafo anterior, deberá ejercer respecto de los mismos las facultades de comprobación que le confieren las leyes y, en su caso, denunciar hechos que probablemente puedan constituir dicho ilícito.
+
+Para efectos de este artículo se entiende que son producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito y no pueda acreditarse su legítima procedencia.
+
+Para los mismos efectos, el sistema financiero se encuentra integrado por las instituciones de crédito, de seguros y de fianzas, almacenes generales de depósito, arrendadoras financieras, sociedades de ahorro y préstamo, sociedades financieras de objeto limitado, uniones de crédito, empresas de factoraje financiero, casas de bolsa y otros intermediarios bursátiles, casas de cambio, administradoras de fondos de retiro y cualquier otro intermediario financiero o cambiario.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE AGOSTO DE 1990)</small>
+
+TITULO VIGESIMOCUARTO
+
+Delitos electorales y en materia de registro nacional de ciudadanos
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE AGOSTO DE 1990)</small>
 
 ###### ARTICULO 335.
 
@@ -4171,11 +4201,15 @@ Los ascendientes o tutores que entreguen en una casa de expósitos un niño que 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
+### CAPITULO UNICO
+
+> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
+## TITULO VIGESIMO SEGUNDO. Delitos en contra de las personas en su patrimonio
+
 ### CAPITULO UNICO. Delitos ambientales
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-## TITULO VIGESIMO SEGUNDO. Delitos en contra de las personas en su patrimonio
 
 ###### ARTICULO 344.
 
@@ -5395,7 +5429,7 @@ EL DECRETO DE REFORMAS, CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 ###### ARTICULO 4°.
 
-Está Ley entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial".
+Esta Ley entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial".
 
 D.O.F. 10 DE NOVIEMBRE DE 1939.
 
@@ -5950,3 +5984,7 @@ Para los efectos del párrafo anterior, se autoriza al Ejecutivo Federal para ha
 TERCERO.- Los delitos previstos en los artículos 366 ter y 366 quáter del Código Penal Federal vigentes con anterioridad a la fecha de entrada en vigor de este Decreto, seguirán aplicándose respecto de hechos cometidos durante su vigencia.
 
 CUARTO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 1 DE JUNIO DE 2001.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
