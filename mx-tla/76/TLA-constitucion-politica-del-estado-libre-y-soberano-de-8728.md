@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1934-12-19"
+last_updated: "1936-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1934.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 1936.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -251,7 +251,9 @@ VI.- No ser en el Estado Funcionario o alto Empleado de la Federación, Gobernad
 
 VII.- No ser Juez ni Secretario de Juzgado de Primera Instancia o Local, Presidente Municipal Constitucional o Interino, Secretario del Ayuntamiento, Recaudador de Rentas, en el Distrito en el que se pretenda su elección, a no ser que se separe de su cargo en los términos prevenidos en la fracción anterior.
 
-VIII.- No haber sido Diputado Propietario o Suplente en ejercicio, en el período inmediato anterior a la elección.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 1936)</small>
+
+VII.- No ser Juez ni Secretario del Juzgado de Primera Instancia o Local, Presidente Municipal Constitucional o Interino, Secretario del Ayuntamiento, Recaudador de Rentas, en el Distrito en el que se pretenda su elección, a no ser que se separen de su encargo sesenta días antes de ella.
 
 Los Diputados Suplentes que no hayan estado en ejercicio, podrán ser electos con el carácter de propietarios para el período inmediato, pero no como Suplentes.
 
@@ -944,3 +946,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 19 DE DICIEMBRE DE 1934.
 
 Transitorio.- Estas adiciones y reformas entrarán en vigor el día 15 quince de diciembre de 1934 mil novecientos treinta y cuatro.
+
+P.O. 31 DE AGOSTO DE 1936.
+
+Las reformas que anteceden entrarán en vigor a partir del día primero de septiembre de mil novecientos treinta y seis.
