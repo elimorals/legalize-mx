@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1929-08-18"
+last_updated: "1929-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 1929.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 1929.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -97,14 +97,6 @@ Son Ciudadanos del Estado los individuos nacidos o avecindados en él, teniendo 
 
 La vecindad en el Estado, se adquiere por dos años de residencia contínua en su territorio.
 
-###### Artículo 11º
-
-Son derechos de los habitantes del Estado:
-
-I. Votar en las elecciones populares, siempre que el individuo sea Ciudadano mexicano en ejercicio de sus derechos conforme al título primero de la Constitución General y artículo octavo de esa Constitución.
-
-II. Ser votado en toda elección popular y desempeñar cualquier empleo del Estado, siempre que tenga la edad y condiciones que la Ley exige en cada caso.
-
 ### CAPITULO TERCERO.
 
 DE LOS HABITANTES Y CIUDADANOS DEL ESTADO.
@@ -137,73 +129,25 @@ El Supremo Poder del Estado, se divide para su ejercicio en Legislativo, Ejecuti
 
 ### CAPITULO UNICO.
 
-###### Artículo 13º
-
-El Supremo Poder del Estado, se divide para su ejercicio en Legislativo, Ejecutivo y Judicial. No podrán reunirse dos o más de estos Poderes en un solo individuo o Corporación, ni depositarse el Legislativo en una persona.
-
 ###### Artículo 14°
 
 El Poder Legislativo residirá en una Asamblea que se denominará: Congreso del Estado.
 
-> <small>(REFORMADO [N. DE E. POR DECRETO NÚMERO 160], P.O. 24 DE MARZO DE 1929)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1929)</small>
 
 ### CAPITULO PRIMERO.
 
 DEL PODER LEGISLATIVO.
 
-###### Artículo 14º
-
-El Poder Legislativo residirá en una Asamblea que se denominará: Congreso del Estado.
-
-> <small>(REFORMADO [N. DE E. POR DECRETO NÚMERO 160], P.O. 24 DE MARZO DE 1929)</small>
-
-###### Artículo 15º
-
-El Congreso del Estado se compondrá por lo menos de quince Diputados electos popularmente cada dos años. Los individuos respecto de quienes la Diputación Permanente declare que han obtenido la mayoría de votos, conforme a la fracción tercera del artículo 31, instalados en Junta preparatoria del Congreso harán la calificación de la elección, declarando quiénes son diputados conforme a la ley.
-
-###### Artículo 16º
-
-La base para elección, será el número de habitantes, eligiéndose por cada Distrito Electoral de nueve mil de ellos o fracción que exceda de cinco mil, un Diputado propietario y un suplente.
-
-###### Artículo 17º
-
-Para ser Diputado se requiere:
-
-I.- Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos.
-
-II.- Tener veinticinco años cumplidos el día de la elección.
-
-III.- Ser originario o vecino del Estado y con domicilio en el Municipio por el cual sea electo cuando menos un año antes de la fecha en que se verifique la elección. La vecindad para ser Diputado se adquiere en cuatro años de residencia en el Estado. El domicilio no se pierde por ausencia en el desempeño de cargos públicos o de comisiones conferidas en servicio del Estado.
-
-IV.- No estar en servicio activo en el Ejército Nacional, ni tener mando en la Policía o fuerza pública del Distrito en que se pretenda su elección, cuando menos sesenta días antes de ella.
-
-V.- No ser Secretario de Gobierno ni Magistrado al Supremo Tribunal, salvo que se separe de sus funciones sesenta días antes de la elección.
-
-VI.- No ser Juez ni Presidente Municipal en el Distrito donde se pretenda su elección, a menos que cese en sus funciones sesenta días antes de ella.
-
-###### Artículo 18º
-
-Los diputados son inviolables por la manifestación de sus ideas en el ejercicio de sus funciones.
-
-> <small>(REFORMADO [N. DE E. POR DECRETO NÚMERO 160], P.O. 24 DE MARZO DE 1929)</small>
-
-###### Artículo 19º
-
-El Congreso se instalará cada dos años el dieciséis de Septiembre posterior a la elección.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1919)</small>
-
-###### Artículo 20º
-
-El Congreso tendrá cada año dos períodos de sesiones, comenzando, el primero, el 16 de septiembre y concluyendo el 16 de diciembre, y el segundo del 16 de marzo al 16 de junio del año siguiente, ocupándose de preferencia, en el primer período, de la discusión y aprobación de los Presupuestos de Ingresos y Egresos del Estado y Municipios, para el ejercicio fiscal inmediato, que comprenderá del 1° de enero al 31 de diciembre del siguiente año.
-
 ###### Artículo 15°
 
-El Congreso del Estado se compondrá por lo menos de quince Diputados electos popularmente cada dos años. Los individuos respecto de quienes la Diputación Permanente declare que han obtenido la mayoría de votos, conforme a la fracción tercera del artículo 31, instalados en Junta preparatoria del Congreso harán la calificación de la elección, declarando quiénes son diputados conforme a la ley.
+El Congreso del Estado a partir de la XXXIII Legislatura del mismo, se compondrá por lo menos de siete Diputados electos popularmente cada cuatro años. Los individuos respecto de quienes la Diputación Permanente declare que han obtenido mayoría de votos, conforme a la fracción III del artículo 31, instalados en junta preparatoria del Congreso, harán la calificación de la elección, declarando quiénes son Diputados conforme a la Ley.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1929)</small>
 
 ###### Artículo 16°
 
-La base para elección, será el número de habitantes, eligiéndose por cada Distrito Electoral de nueve mil de ellos o fracción que exceda de cinco mil, un Diputado propietario y un suplente.
+La base para la elección, será el número de habitantes, eligiéndose por cada Distrito Electoral de quince mil habitantes o fracción que exceda de ocho mil un Diputado Propietario y un Suplente.
 
 ###### Artículo 17°
 
@@ -225,11 +169,11 @@ VI.- No ser Juez ni Presidente Municipal en el Distrito donde se pretenda su ele
 
 Los diputados son inviolables por la manifestación de sus ideas en el ejercicio de sus funciones.
 
-> <small>(REFORMADO [N. DE E. POR DECRETO NÚMERO 160], P.O. 24 DE MARZO DE 1929)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1929)</small>
 
 ###### Artículo 19°
 
-El Congreso se instalará cada dos años el dieciséis de Septiembre posterior a la elección.
+El Congreso se instalará cada cuatro años el dieciseis de septiembre posterior a la elección.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1919)</small>
 
@@ -240,10 +184,6 @@ El Congreso tendrá cada año dos períodos de sesiones, comenzando, el primero,
 ###### Artículo 21°
 
 El Congreso, fuera de los períodos que señala el artículo anterior, celebrará sesiones extraordinarias cuando fuere convocado al efecto por el Ejecutivo, en los términos del artículo 41, fracción XVI o por la Comisión Permanente, en el caso del artículo 31, fracción VI; pero en ella solo se ocuparán de los negocios para los cuales se hubiere convocado.
-
-###### Artículo 22º
-
-El Congreso no podrá ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus miembros. Para obtener tal concurrencia, los Diputados presentes se reunirán el día designado por la ley y conminarán a los ausentes con las penas que señale el Reglamento respectivo.
 
 ###### Artículo 22°
 
@@ -347,9 +287,11 @@ XXI.- Decretar la expropiación por causa de utilidad pública, en la forma que 
 
 DE LA DIPUTACION PERMANENTE.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1929)</small>
+
 ###### Artículo 30°
 
-Durante el receso del Congreso habrá una Diputación Permanente compuesta de cinco miembros de aquel Cuerpo como propietarios y de cinco como suplentes, electos en la forma y términos que señale el Reglamento respectivo.
+Durante el receso del Congreso habrá una Diputación Permanente compuesta de tres miembros de aquel Cuerpo como Propietarios y tres como Suplentes, electos en la forma y términos que señale el Reglamento respectivo.
 
 ###### Artículo 31°
 
@@ -371,19 +313,17 @@ V. Si algún motivo grave exigiera la reunión del Congreso o el Gobierno lo sol
 
 El Poder Ejecutivo se deposita en un individuo que se denominará Gobernador del Estado.
 
-> <small>(REFORMADO [N. DE E. POR DECRETO NÚMERO 160], P.O. 24 DE MARZO DE 1929)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1929)</small>
 
 ###### Artículo 33°
 
 Para ser Gobernador se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos.
+I.- Ser ciudadano Mexicano por nacimiento en ejercicio de sus derechos.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1927)</small>
+II.- Tener treinta y cinco años cumplidos el día de la elección.
 
-II.- Tener 35 años cumplidos el día de la elección.
-
-III.- Ser originario del Estado y con domicilio legal en él cuando menos cuatro años antes de la elección.
+III.- Ser nativo del Estado y con domicilio legal en él cuando menos cinco años antes de la elección.
 
 IV.- No estar en servicio activo en el Ejército Nacional ni en las fuerzas del Estado, cuando menos sesenta días antes de la elección.
 
@@ -758,3 +698,19 @@ P.O. 18 DE AGOSTO DE 1929.
 ###### Artículo 3o.
 
 El presente decreto surtirá sus efectos desde la fecha de su expedición.
+
+P.O. 8 DE DICIEMBRE DE 1929.
+
+DECRETO NÚMERO 192, POR EL QUE SE REFORMAN LOS ARTÍCULOS 15, 16 Y 30 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
+
+###### Artículo 3o.
+
+El presente decreto surtirá sus efectos desde la fecha de su expedición.
+
+P.O. 8 DE DICIEMBRE DE 1929.
+
+DECRETO NÚMERO 193, POR EL QUE SE REFORMAN LOS ARTÍCULOS 19 Y 33 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
+
+###### Artículo 3o.
+
+El presente decreto surte sus efectos desde la fecha de su expedición.
