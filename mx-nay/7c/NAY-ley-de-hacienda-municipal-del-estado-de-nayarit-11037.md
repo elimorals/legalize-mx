@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-municipal-del-estado-de-nayarit-11037"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-28"
-last_updated: "1983-12-28"
+last_updated: "1991-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 1991.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 28 de diciembre de 1983.
 
@@ -365,21 +365,25 @@ Los recibos de pago que expida la Tesorería Municipal, tratándose de impuesto 
 
 #### SECCION PRIMERA. OBJETO, SUJETO TASA, Y BASES PARA LA DETERMINACION DEL IMPUESTO
 
+> <small>(REFORMADO, P. O. 29 DE JUNIO DE 1991)</small>
+
 ###### ARTICULO 40.
 
-Están obligadas al pago de impuesto sobre adquisición de inmuebles establecidos en este capítulo, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicados en el Estado de Nayarit; así como los derechos relacionados con los mismos, a que este capítulo se refiere. El impuesto se causará conforme lo establecido las leyes de Ingresos de los Municipios sobre la base gravable que en las mismas se señalen.
+Están obligadas al pago del Impuesto sobre adquisición de Inmuebles establecido en este Capítulo, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicados en el Estado de Nayarit; así como los derechos relacionados con los mismos, a que este Capítulo se refiere. "El impuesto se causará aplicando la tasa del 2% al valor del inmueble y conforme lo establezcan las leyes de Ingresos de los Municipios".
+
+> <small>(REFORMADO, P. O. 29 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 41.
 
-No se pagará este impuesto en los siguientes casos:
-
-I. En las adquisiciones por la Federación, por el Estado de Nayarit y los Municipios, así como por las demás entidades, en caso de reciprocidad.
+No se pagará este Impuesto en las adquisiciones de inmuebles que realicen la Federación, el Estado de Nayarit y los Municipios, para formar parte del dominio público y, los partidos Políticos, siempre y cuando dichos inmuebles sean para su propio uso.
 
 ###### ARTICULO 42.
 
 Para los efectos de este capítulo, se entiende por adquisición la que se derive de:
 
-I. Todo acto por el que se transmite la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades.
+> <small>(REFORMADA, P. O. 29 DE JUNIO DE 1991)</small>
+
+I. Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges.
 
 II. La compraventa en la que el vendedor se reserve la propiedad, aún cuando la transferencia de ésta opere con posterioridad.
 
@@ -632,3 +636,19 @@ Y EN CUMPLIMIENTO DE LO DISPUESTO EN LA FRACCION II DEL ARTICULO 69 DE LA CONSTI
 El Secretario General de Gobierno
 
 Lic. Sigfrido de la Torre Miramontes
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE JUNIO DE 1991.
+
+###### ARTICULO TERCERO.
+
+Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO PRIMERO.
+
+Durante los años de 1991, 1992 y 1993, se aplicarán las tasas del 8%, 6% y 4% respectivamente, en el lugar de la tasa establecida en el Artículo 40 de la ley de Hacienda Municipal para el Estado de Nayarit.
+
+###### ARTICULO SEGUNDO.
+
+Las presentes disposiciones derogan todas aquellas que se opongan a los términos expresamente contenidos en este Decreto.
