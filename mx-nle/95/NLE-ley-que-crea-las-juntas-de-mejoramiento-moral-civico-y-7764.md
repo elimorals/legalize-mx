@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-las-juntas-de-mejoramiento-moral-civico-y-7764"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-23"
-last_updated: "1953-12-23"
+last_updated: "1958-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA LAS JUNTAS DE MEJORAMIENTO MORAL, CIVICO Y MATERIAL EN EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1958.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 23 de diciembre de 1953.
 
@@ -115,7 +115,9 @@ Queda a cargo de las Juntas de Mejoramiento formular su reglamento interior, par
 
 2o.- Las Juntas de Mejoramiento Moral, Cívico y Material del Estado que ya se encuentren organizadas de acuerdo con la Circular Número 17 de 6 de Julio del año en curso y que al efecto giró el Ejecutivo, continuarán funcionando en cuanto a que su actuación y funcionamiento no se opongan a la presente Ley.
 
-3o.- La Junta de Mejoras Materiales de la Ciudad de Monterrey, creada por el Decreto 64 de la legislatura (sic) del Estado de 3 de Mayo de 1922 continuará funcionando, en los términos del propio Decreto, sin perjuicio de que en los barrios y Colonias de esta Ciudad se creen las Juntas a que esta Ley se refiere.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1958)</small>
+
+3o.- Las Juntas de Mejoras Materiales de las ciudades de Monterrey y Linares, creadas por los decretos números 64 y 71 de las Legislaturas del Estado de 3 de mayo de 1922 y 2 de mayo de 1928, respectivamente, continuarán funcionando en los términos de sus propios decretos, sin perjuicio de que en los barrios y colonias de estas ciudades, se creen las Juntas a que esta Ley se refiere.
 
 4o.- Esta Ley entrará en vigor el tercer día hábil después de su publicación en el Periódico Oficial del Estado.
 
@@ -132,3 +134,9 @@ JOSE S. VIVANCO
 El Secretario General de Gobierno
 
 ELIAS CANTU
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 1958.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
