@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-planeacion-del-estado-y-municipios-de-san-luis-potosi-26
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-24"
-last_updated: "2001-11-24"
+last_updated: "2003-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PLANEACION DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2003.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de noviembre de 2001.
 
@@ -173,7 +173,9 @@ h) Concertar e inducir con los sectores social y privado, acciones encaminadas a
 
 i) Coordinar la actividad de la Administración Pública Municipal con las actividades de las administraciones públicas federal y estatal en programas de desarrollo;
 
-j) Remitir al Congreso del Estado para su conocimiento, el Plan Municipal de Desarrollo a más tardar el día 26 de enero del año siguiente al de la toma de posesión;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2003)</small>
+
+j) Remitir al Congreso del Estado para su conocimiento, el Plan Municipal de Desarrollo dentro de los cuatro meses siguientes a su toma de posesión;
 
 k) Coadyuvar con los órganos de control estatal y federal en la vigilancia de la ejecución de los programas;
 
@@ -580,3 +582,11 @@ El Secretario General de Gobierno
 LIC. JORGE DANIEL HERNANDEZ DELGADILLO
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE OCTUBRE DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
