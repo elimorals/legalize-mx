@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1999-06-18"
+last_updated: "2001-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -196,6 +196,10 @@ La Ley protegerá la organización y desarrollo de la familia, dentro de la cual
 ###### ARTICULO 14.
 
 El Estado organizará un Sistema de Planeación Democrática del Desarrollo de la Entidad, mediante la participación de los Sectores Público, Privado y Social.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Tratándose de planes de desarrollo regional se garantizará la participación de los Municipios involucrados.
 
 La Ley establecerá los procedimientos de participación y consulta popular para la planeación.
 
@@ -695,6 +699,10 @@ III.- Al Supremo Tribunal de Justicia en el ramo de sus atribuciones; y,
 
 IV.- A los Ayuntamientos o Concejos Municipales.
 
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Cuando la iniciativa incida en la competencia municipal, el Congreso recabará la opinión de los Ayuntamientos durante el proceso legislativo, en los términos de la Ley respectiva.
+
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 57.
@@ -761,7 +769,7 @@ III.- Hacer la codificación de las Leyes del Estado;
 
 IV.- Cambiar provisionalmente la residencia de los Poderes Estatales en casos excepcionales y necesarios;
 
-V.- Dirimir las controversias que surjan entre los Municipios y entre éstos y los Poderes Ejecutivo y Judicial;
+V.- (DEROGADA, P.O. 20 DE MARZO DE 2001)
 
 VI.- Autorizar el cambio de residencia de las Cabeceras Municipales, erigir nuevos municipios y formular la declaratoria de su inexistencia, siempre que fuere aprobado por el voto de las dos terceras partes de los Diputados y de la mayoría de los Ayuntamientos;
 
@@ -795,15 +803,23 @@ XIV.- Autorizar al Ejecutivo del Estado y a los Ayuntamientos para que contraten
 
 XV.- Expedir anualmente la Ley de Ingresos para los Municipios del Estado;
 
-XVI.- Autorizar al Ejecutivo del Estado y a los Ayuntamientos para que, enajenen, traspasen, hipotequen, graven o ejerzan cualquier acto de dominio sobre sus bienes inmuebles de dominio privado, fijando en cada caso las condiciones a que deben sujetarse. Esta facultad la tendrá, en su caso, la Diputación Permanente;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-XVII.- Desafectar los bienes destinados a un servicio público o los de uso común del Estado y de los Municipios;
+XVI.- Autorizar al Ejecutivo del Estado para que ejerza cualquier acto de dominio sobre los bienes inmuebles de dominio privado del Estado, fijando en cada caso las condiciones a que deben sujetarse. Esta facultad la tendrá, en su caso, la Diputación Permanente;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XVII.- Desafectar los bienes destinados a un servicio público o los de uso común del Estado;
 
 XVIII.- Proceder al análisis, revisión y dictamen de la Cuenta Pública que el Ejecutivo del Estado le deberá rendir en períodos de no más de tres meses. Dicha cuenta tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los conceptos del gasto señalados en el presupuesto y el cumplimiento de los objetivos contenidos en los programas. Asimismo, deberá dictaminar el concentrado de la Cuenta Pública Anual que le presentará el Ejecutivo.
 
 Si del examen que se realice aparecieran desviaciones o discrepancias en las tendencias del gasto, en las partidas o en los conceptos del presupuesto, deberá hacer las observaciones que correspondan y, en su caso, fincar las responsabilidades de acuerdo con la Ley;
 
-XIX.- Revisar las Cuentas Públicas Municipales y las de los Organismos Descentralizados de los Municipios y ordenar cuantas auditorías fueren necesarias, así como solicitar la comparecencia de los Presidentes Municipales y de los Titulares de los Organismos Descentralizados de los Municipios, cuando se revisen sus correspondientes Cuentas Públicas, y, en su caso, proceder de acuerdo al último párrafo de la fracción anterior;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XIX.- Revisar y fiscalizar las Cuentas Públicas Municipales incluyendo la administración centralizada y paramunicipal y ordenar cuantas auditorías fueren necesarias; así como solicitar la comparecencia de los presidentes Municipales, de los demás miembros del Ayuntamiento y de los titulares de las dependencias y entidades de la administración pública municipal, cuando se revisen sus correspondientes Cuentas Públicas y, en su caso, proceder de acuerdo al último párrafo de la fracción anterior.
+
+La Ley establecerá los plazos para dar a conocer a los Ayuntamientos los resultados de las auditorías practicadas, las cuales se desarrollarán conforme a los principios de audiencia, celeridad e imparcialidad;
 
 XX.- Nombrar y remover a sus empleados. Estas facultades las tendrá la Diputación Permanente en las épocas en que el Congreso no esté en Período Ordinario de Sesiones;
 
@@ -849,9 +865,17 @@ XXIX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayun
 
 XXX.- Designar, de entre los vecinos del Municipio de que se trate, a los Concejos Municipales que concluirán los períodos respectivos, en caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus Miembros, si conforme a la Ley no procediere que entraren en funciones los Suplentes ni que se celebraren nuevas elecciones;
 
-XXXI.- Autorizar a los Ayuntamientos para enajenar sus bienes muebles, cuando estas enajenaciones se hagan fuera de subasta pública. La misma facultad la tendrá la Diputación Permanente, en su caso; y,
+XXXI.- (DEROGADA, P.O. 20 DE MARZO DE 2001)
 
-XXXII.- Las demás que de un modo expreso o implícito se le otorguen en cualesquiera de los preceptos de esta Constitución o de la Federal.
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XXXII.- Aprobar, en su caso, la asociación de Municipios del Estado con los de otras entidades federativas para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponden;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XXXIII.- Declarar, cuando sea procedente y previa solicitud de un Ayuntamiento, que éste se encuentra imposibilitado para ejercer una función o prestar un servicio público, para que el Ejecutivo del Estado la ejerza o lo preste, de conformidad con el procedimiento que establezca la Ley; y
+
+XXXIV.- Las demás que de un modo expreso o implícito se le otorguen en cualesquiera de los preceptos de esta Constitución o de la Federal.
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1041,7 +1065,9 @@ XII.- Proponer por ternas al Congreso del Estado la aprobación de los Magistrad
 
 Proponer al Congreso del Estado la terna para la designación del Consejero Magistrado que integre el Consejo del Poder Judicial;
 
-XIII.- Ejercer el mando de la fuerza pública en los Municipios donde residiere habitual o transitoriamente;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XIII.- Emitir órdenes a la policía preventiva municipal en aquellos casos que a su juicio sean de fuerza mayor o alteración grave del orden público;
 
 XIV.- Mandar que se instruya y discipline la Guardia Nacional, conforme al Reglamento que expida el Congreso de la Unión y a las prevenciones que determine el Congreso del Estado;
 
@@ -1061,11 +1087,15 @@ XX.- Expedir, por sí o por acuerdo, los Títulos Profesionales que previene la 
 
 XXI.- Crear, por Decreto Gubernativo, Organismos Descentralizados y constituir Empresas de Participación Estatal, Comisiones, Patronatos y Comités y asignarles las funciones que estime convenientes; y,
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-XXII.- Convenir con la Federación en los términos de ley, la asunción por parte del Estado del ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos cuando el desarrollo económico y social lo hagan necesario.
+XXII.- Convenir en los términos de Ley:
 
-Asimismo convenir con los municipios, en los términos de ley, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a las que se refiere el párrafo anterior;
+a).- Con la Federación, para que el Estado asuma el ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos cuando el desarrollo económico y social lo hagan necesario. Para tal efecto, podrá convenir con los Municipios, para que éstos realicen la prestación de servicios o la atención de las funciones a las que se refiere este párrafo; y,
+
+b).- Con los Municipios, a fin de que éstos lleven a cabo la prestación de servicios o el ejercicio de funciones que le corresponden al Estado, o bien, para que éste efectúe el ejercicio de una función o la prestación de un servicio público, competencia del Municipio.
+
+Asimismo, asumirá el ejercicio de una función o la prestación de un servicio público municipal, de acuerdo al procedimiento y condiciones que señale la Ley, cuando a falta de convenio, el Congreso del Estado declare la imposibilidad del Municipio para ejercerla o prestarlo; y
 
 XXIII.- Las demás que le concedan esta Constitución y las Leyes.
 
@@ -1219,7 +1249,29 @@ XIII.- Aprobar anualmente el anteproyecto de presupuesto de egresos del Poder Ju
 
 XIV.- Presentar al Congreso del Estado la cuenta de gastos de la impartición de justicia, en períodos no mayores de seis meses; y
 
-XV.- Cumplir las demás atribuciones que le señalen las Leyes.
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XV.- Garantizar la observancia de esta Constitución y además conocer de:
+
+A. Las controversias legales entre:
+
+a).- Dos o más Municipios;
+
+b).- Uno o más Municipios y el Poder Ejecutivo o Legislativo; y
+
+c).- El Poder Ejecutivo y el Legislativo.
+
+B. Las acciones de inconstitucionalidad que promueva al menos una tercera parte de los integrantes del Congreso del Estado y que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución.
+
+Las acciones de inconstitucionalidad sólo podrán ejercitarse, dentro de los treinta días naturales siguientes a la fecha de publicación de la norma.
+
+Quedan excluidos los conflictos o acciones de carácter electoral.
+
+El procedimiento se substanciará conforme lo disponga la Ley.
+
+> <small>(REFORMADA, P. O. 20 DE MARZO DE 2001)</small>
+
+XVI.- Cumplir, las demás atribuciones que le señalen las Leyes.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -1429,6 +1481,10 @@ En el Estado, se integrarán los Cuerpos de Seguridad Pública necesarios para l
 
 Para los mismos fines, el Ejecutivo del Estado con la corresponsabilidad de los Ayuntamientos, podrá autorizar el funcionamiento de servicios privados de seguridad, los que operarán en la forma y términos que determine la ley secundaria.
 
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+El Estado, en coordinación con la federación y los Municipios, participará en el establecimiento de un Sistema Nacional de Seguridad Pública en los términos de la Constitución Política de los Estados Unidos Mexicanos.
+
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 105.
@@ -1449,11 +1505,11 @@ El Gobernador del Estado es el Jefe Superior de la Guardia Nacional.
 
 El Municipio Libre, base de la división territorial del Estado y de su organización política y administrativa, es una Institución de carácter público, constituída por una comunidad de personas, establecida en un territorio delimitado, con personalidad jurídica y patrimonio propio, autónomo en su Gobierno Interior y libre en la administración de su Hacienda.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 107.
 
-El Gobierno Municipal y el manejo y administración de los intereses de las poblaciones, corresponden a los Ayuntamientos, los que en asuntos de su competencia no dependerán de otra autoridad. No habrá ninguna autoridad intermedia entre los Ayuntamientos y el Gobierno del Estado.
+Los Municipios serán gobernados por un Ayuntamiento. La competencia de los Ayuntamientos se ejercerá en forma exclusiva y no habrá ninguna autoridad intermedia entre los Ayuntamientos y el Gobierno del Estado.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1469,9 +1525,9 @@ El Gobierno Municipal y el manejo y administración de los intereses de las pobl
 
 Los Ayuntamientos se compondrán de un Presidente Municipal y del número de Síndicos y Regidores que determine la Ley Orgánica, sin que el número total de miembros que los integren sea menor de ocho ni mayor de diecinueve.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
-Por cada Regidor y Síndico Propietario, se elegirá un Suplente.
+Por cada Regidor y Síndico Propietario se elegirá un suplente. Si alguno de los miembros del Ayuntamiento dejare de desempeñar su cargo, será sustituido por su suplente y a falta de ambos, se procederá según lo disponga la Ley.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1511,11 +1567,15 @@ II.- Los que sean Ministros de cualquier culto religioso en los términos que es
 
 III.- Los integrantes de los Organismos Electorales en los términos que señale la Ley de la materia.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 112.
 
-Para ser Miembro de un Concejo Municipal deberán satisfacerse los mismos requisitos que señalan los artículos anteriores.
+Los Concejos Municipales se compondrán por el mismo número de miembros que la Ley determine para la integración de los Ayuntamientos.
+
+Si alguno de los integrantes propietarios del Concejo Municipal dejare de desempeñar su cargo, será sustituido por el suplente establecido en el decreto de designación y a falta de ambos, se procederá según lo disponga la Ley.
+
+Para ser miembro de un Concejo Municipal deberán satisfacerse los requisitos que señalan los artículos anteriores.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1547,17 +1607,45 @@ Los ciudadanos que hayan sido electos en los comicios o, en su caso, los miembro
 
 A los Ayuntamientos compete:
 
-I.- Expedir, de acuerdo con las bases normativas que establezca el Congreso del Estado, los Bandos de Policía y Buen Gobierno, Reglamentos, Circulares y disposiciones administrativas de observancia general;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-II.- Formular, aprobar y administrar la zonificación y planes de Desarrollo Urbano Municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Federal, expedirán los Reglamentos y disposiciones administrativas que fueren necesarios;
+I.- Aprobar, de acuerdo con las Leyes en materia municipal que expida el Congreso del Estado; los Bandos de Policía y Gobierno, Reglamentos, Circulares y disposiciones administrativas de observancia general; que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+II.- Ejercer, en los términos de las Leyes federales y estatales, las siguientes facultades:
+
+a).- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; asimismo planear y regular de manera conjunta y coordinada con la Federación, el Gobierno del Estado y los Ayuntamientos respectivos, el desarrollo de los centros urbanos, cuando dichos centros se encuentren situados en territorios de los Municipios del Estado o en los de éste con otro vecino, de manera que formen o tiendan a formar una continuidad demográfica, debiendo apegarse a la Ley Federal de la materia;
+
+b).- Participar en la creación y administración de sus reservas territoriales;
+
+c).- Formular los Planes Municipales de Desarrollo, de conformidad con lo dispuesto por esta Constitución, así como participar en la formulación de Planes de Desarrollo Regional, los cuales deberán estar en concordancia con los planes generales de la materia;
+
+d).- Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales;
+
+e).- Intervenir en la regularización de la tenencia de la tierra urbana;
+
+f).- Autorizar divisiones, fusiones, lotificaciones y fraccionamientos de bienes inmuebles, así como otorgar licencias y permisos para construcciones;
+
+g).- Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento y fomento en esta materia;
+
+h).- Intervenir, cuando no sea de su competencia exclusiva, en la formulación y aplicación de programas de transporte público de pasajeros, cuando aquellos afecten su ámbito territorial; y
+
+i).- Celebrar convenios para la administración y custodia de las zonas federales.
+
+Asimismo, expedir en lo conducente, los reglamentos y disposiciones administrativas necesarios, de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
 
 III.- Prestar los siguientes Servicios Públicos:
 
-a).- Agua Potable y Alcantarillado;
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+a).- Agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales;
 
 b).- Alumbrado Público;
 
-c).- Limpia;
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+c).- Limpia, recolección, traslado, tratamiento y disposición final de residuos;
 
 d).- Mercados y Centrales de Abastos;
 
@@ -1565,31 +1653,67 @@ e).- Panteones;
 
 f).- Rastros;
 
-g).- Calles, Parques y Jardines;
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
-h).- Seguridad Pública y Tránsito; e,
+g).- Calles, parques y jardines y su equipamiento;
 
-i).- Los demás que determine la Ley.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
-El Estado concurrirá con los Ayuntamientos en la prestación de los Servicios Públicos, cuando así fuere necesario y en los términos que disponga la Ley.
+h).- Seguridad Pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito;
 
-Los Ayuntamientos, con sujeción a la Ley, prestarán los Servicios Públicos en forma directa, asociada, descentralizada o concesionada;
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+i) Transporte público urbano y suburbano en ruta fija; y
+
+j).- Las demás que determine la Ley.
+
+> <small>(DEROGADO PENULTIMO PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Los Municipios, con sujeción a la Ley, prestarán los servicios públicos en forma directa o indirecta;
 
 IV.- Formular y aprobar sus Tarifas de Abastos y de los Servicios Públicos;
 
-V.- Crear, en los términos de la Ley, Organismos Descentralizados y participar en Empresas Mixtas para la prestación de los Servicios Públicos Municipales;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-VI.- Formular y aprobar su Presupuesto de Egresos correspondiente al siguiente año fiscal, con base en sus ingresos disponibles;
+V.- Crear, en los términos de la Ley, organismos públicos descentralizados, empresas de participación municipal mayoritaria y fideicomisos públicos;
 
-VII.- Planear y regular de manera conjunta y coordinada con la Federación, el Gobierno del Estado y los Gobiernos Municipales respectivos, el desarrollo de los Centros Urbanos, cuando dichos centros se encuentren situados en territorios municipales del Estado o de éste con otro vecino, de manera que forme o tienda a formar una continuidad demográfica, debiendo apegarse a la Ley Federal de la materia;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-VIII.- Formular los Planes de Desarrollo Municipal, de conformidad con lo dispuesto por esta Constitución;
+VI.- Ejercer las funciones o la prestación de los servicios públicos municipales observando lo dispuesto por las Leyes federales y estatales;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+VII.- Formular y aprobar su Presupuesto de Egresos correspondiente al siguiente año fiscal, con base en sus ingresos disponibles, enviando copia certificada al Congreso del Estado de dicho presupuesto y de su pronóstico de ingresos;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+VIII.- Proponer al Congreso del Estado, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios del suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en los términos que señale la Ley;
 
 IX.- La ejecución de todas las disposiciones relativas a la higiene urbana y la salubridad pública;
 
 X.- La realización de las funciones electorales, federales y estatales, de conformidad a las Leyes de la materia; y,
 
-XI.- Las demás facultades y obligaciones que les señale la Ley.
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XI.- Celebrar convenios en los términos que señale la Ley;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XII.- Emitir las resoluciones que afecten el patrimonio municipal, en los términos de Ley;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XIII.- Solicitar al Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, que declare que el Municipio está imposibilitado para prestar un servicio público o ejercer una función;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XIV.- Celebrar convenios de coordinación y asociación con otros Municipios para la mas eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. Para convenir con Municipios de otras entidades federativas, deberán contar con la previa autorización del Congreso del Estado.
+
+Asimismo, los Ayuntamientos podrán convenir con el Ejecutivo del Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de alguno de los servicios públicos o funciones de su competencia; o bien para que el servicio o la función se preste coordinadamente entre el Estado y el Municipio.
+
+XV.- Las demás facultades y obligaciones que les señale la Ley.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1639,7 +1763,13 @@ b).- Las participaciones y apoyos federales, que serán cubiertas por la Federac
 
 c).- Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
-Las Leyes no establecerán exenciones o subsidios respecto de las mencionadas contribuciones, en favor de personas físicas o morales, ni de Instituciones oficiales o privadas. Sólo los bienes del dominio público de la Federación, del Estado o de los Municipios estarán exentos de dichas contribuciones.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Las Leyes no establecerán exenciones o subsidios respecto de las mencionadas contribuciones, a favor de persona o institución alguna. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o de los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos, o bien, por quien ellos autoricen conforme a la Ley.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2272,3 +2402,15 @@ P.O. 18 DE JUNIO DE 1999.
 ###### ARTÍCULO UNICO.
 
 El presente decreto entrará en vigor el cuarto día siguiente al de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE MARZO DE 2001.
+
+Artículo Primero.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- El Congreso del Estado, deberá establecer el procedimiento y condiciones en que el Ejecutivo del Estado transfiera a los Municipios el servicio público de transporte de pasajeros, urbano y suburbano en ruta fija y realizar las adecuaciones necesarias a las Leyes en materia de transporte, conforme a lo dispuesto en este decreto, a más tardar en un año a partir de su entrada en vigor.
+
+Artículo Tercero.- La derogación a la fracción V del artículo 63 entrará en vigor 180 días posteriores a la fecha de publicación del presente decreto.
+
+Los procedimientos fundados en la fracción V del artículo 63 que se encuentren en trámite ante el Congreso del Estado, continuarán desahogándose en los términos acordados por él mismo.
+
+Artículo Cuarto.- La fracción XV del artículo 89 entrará en vigor 180 días posteriores a la fecha de publicación del presente decreto. En ese término se adecuarán las Leyes respectivas para establecer la substanciación del procedimiento.
