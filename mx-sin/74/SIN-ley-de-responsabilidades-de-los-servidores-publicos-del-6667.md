@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-responsabilidades-de-los-servidores-publicos-del-6667"
 country: "mx"
 rank: "ley"
 publication_date: "1985-11-08"
-last_updated: "1985-11-08"
+last_updated: "1992-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 1992.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 8 de noviembre de 1985.
 
@@ -351,7 +351,13 @@ XIII.- Abstenerse durante el ejercicio de sus funciones y un año después de co
 
 XIV.- Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tengan interés personal, familiar o de negocios;
 
-XV.- Presentar con oportunidad y veracidad declaración de situación patrimonial ante la Contraloría General del Poder Ejecutivo, en los términos que señala esta Ley;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 1992)</small>
+
+XV.- Presentar con oportunidad y veracidad, declaración de situación patrimonial ante las Contralorías Generales de cada uno de los Poderes del Estado, en los términos que señala esta Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 1992)</small>
+
+Los Servidores Públicos que prestan sus Servicios en los Ayuntamientos u Organismos e Instituciones Municipales, la presentarán ante la Contraloría General del Poder Ejecutivo.
 
 XVI.- Informar al superior jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refiere este artículo, en los términos de las normas que al efecto se expidan;
 
@@ -551,9 +557,11 @@ El procedimiento ante el superior jerárquico, por faltas administrativas que le
 
 ### CAPITULO VIII. DEL REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 1992)</small>
+
 ###### ARTICULO 77.
 
-La Contraloría General del Poder Ejecutivo llevará el registro de la situación patrimonial de los servidores públicos de conformidad con la presente Ley y demás disposiciones aplicables.
+Las Contralorías Generales de cada uno de los Poderes del Estado, llevarán el registro de la situción (sic) patrimonial de los Servidores Públicos de conformidad con la presente Ley y demás disposiciones aplicables.
 
 ###### ARTICULO 78.
 
@@ -571,9 +579,13 @@ V.- En los Ayuntamientos desde los Agentes de Seguridad Pública y Síndicos, ha
 
 VI.- En la administración pública paraestatal y paramunicipal desde el nivel de Jefe de Departamento de los organismos que las integran, hasta los Directores Generales o sus equivalentes; y,
 
-VII.- Los demás servidores públicos que determine la Contraloría General del Poder Ejecutivo, si la naturaleza de sus funciones lo amerita.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 1992)</small>
 
-La declaración se presentará conforme a los manuales instructivos y formatos expedidos por la propia Contraloría.
+VII.- Los demás Servidores Públicos que determinen las Contralorías Generales de cada uno de los Poderes del Estado, si la naturaleza de sus funciones lo amerita.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 1992)</small>
+
+La declaración se presentará conforme a los formatos expedidos por la propia contraloría.
 
 ###### ARTICULO 79.
 
@@ -709,6 +721,12 @@ Dentro del mismo plazo señalado en el artículo anterior, se creará la Unidad 
 
 La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 1992)</small>
+
+###### ARTICULO OCTAVO.
+
+En tanto no se establezcan las Contralorías Generales de los Poderes Legislativo y Judicial, la Contaduría Mayor de Hacienda y la Oficialía Mayor, respectivamente, desarrollarán las funciones que esta Ley encomienda a las Contralorías.
+
 Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los siete días del mes de octubre de mil novecientos ochenta y cinco.
 
 Profr. Eladio Rafael López Mejia
@@ -734,3 +752,11 @@ C. ANTONIO TOLEDO CORRO
 El Secretario de Gobierno
 
 LIC. ELEUTERIO RIOS ESPINOZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE NOVIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
