@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-6115"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1990-12-20"
+last_updated: "1991-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1991.
 
 Ley publicada en Sección Segunda del Periódico Oficial del Estado de Michoacán, el sábado 31 de diciembre de 1983.
 
@@ -221,7 +221,7 @@ A) Los predios destinados a planteles escolares donde se imparta enseñanza pree
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
-B) Los predios que perteneciendo particulares, estén destinados a un servicio público gratuito autorizado por el Estado o por el Gobierno Municipal, siempre que por los mismos sus propietarios no perciban renta.
+B) Los predios que perteneciendo a particulares, estén destinados a un servicio público gratuito autorizado por el Estado o por el Gobierno Municipal, siempre que por los mismos sus propietarios no perciban renta.
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
@@ -1165,7 +1165,7 @@ Es objeto de este derecho el otorgamiento, por parte del Ayuntamiento, de licenc
 
 ###### ARTICULO 125.
 
-Son sujetos de este derecho las personas físicas o morales que obtengan licencias o autorización para fijar o distribuir propaganda, promover ventas de mercancías y colocar anuncios de todo tipo en cualquier lugar del Municipio, siendo solidariamente responsable del pago, los propietarios o poseedores de predios que ostenten dichos anuncios.
+Son sujetos de este derecho las personas físicas o morales que obtengan licencias o autorización para fijar o distribuir propaganda, promover ventas de mercancías y colocar anuncios de todo tipo en cualquier lugar del Municipio, siendo solidariamente responsable del pago de los propietarios o poseedores de predios que ostenten dichos anuncios.
 
 #### Sección Tercera. Del Pago del Derecho
 
@@ -1736,3 +1736,13 @@ Para los efectos de lo dispuesto en el Artículo 7o. de esta Ley, para los predi
 ###### ARTICULO CUARTO.
 
 Durante los años de 1991, 1992 y 1993, se aplicarán las tasas del 8%, 6% y 4% respectivamente, en lugar de la tasa establecida en el Artículo 42 de esta Ley. Durante los años referidos, la reducción del salario mínimo será de 4 veces, 3 veces y dos veces respectivamente, en lugar de la reducción establecida en dicho artículo 42. Tratándose de adquisición de vivienda mediante crédito de interés social, la reducción durante dichos años será de 8 veces, 6 veces y 4 veces respectivamente, en lugar de la establecida en dicho artículo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO QUINTO.
+
+Durante los años de 1992 y 1993, además de los requisitos previstos en el Artículo 9º de la Ley del Impuesto Sobre Adquisición de Inmuebles, el Impuesto a que se refiere el Capítulo II del Título Segundo de esta Ley de Hacienda Municipal del Estado de Michoacán, que resulte a carga del contribuyente en dichos años, en ningún caso deberá ser mayor a aquel que se hubiere determinado de conformidad con las disposiciones contenidas en la Ley de Hacienda Municipal, vigente al 31 de diciembre de 1990.
+
+P.O. 30 DE DICIEMBRE DE 1991.
+
+UNICO. El Presente decreto entrará en vigor el día primero de enero de 1992, previa publicación en el Periódico Oficial del Estado.
