@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1994-01-26"
+last_updated: "1994-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 1994.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1751,7 +1751,7 @@ El Gobernador vigilará la conservación, mejoramiento y amplio desarrollo de la
 
 ###### Art. 148.
 
-Para reunir todos los elementos de información y de estudio que sea necesario, para que se expidan las leyes complementarias del artículo 123 de la Constitución Federal; para la solución de todas las cuestiones relativas al trabajo y para la organización de todos los establecimientos de previsión, se crea en el Estado, como dependencia del Poder Ejecutivo, una Oficina especial, que llevará el nombre de "DEPARTAMENTO DEL TRABAJO Y DE LA PREVISION SOCIAL." Una ley determinará el funcionamiento de este Departamento.
+Para el cumplimiento de las disposiciones contenidas en el Artículo 123 Constitucional y las leyes reglamentarias correspondientes, el Ejecutivo contará con una Dependencia cuya estructura, funciones y naturaleza jurídica, se determinarán de acuerdo a las necesidades y requerimientos que la realidad social imponga.
 
 ## TITULO XI
 
@@ -1760,6 +1760,8 @@ DISPOSICIONES GENERALES.
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ### CAPITULO IV. Del Trabajo y Previsión Social
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 1994)</small>
 
 ###### Art. 149.
 
@@ -2681,21 +2683,19 @@ P.O. 26 DE ENERO DE 1994.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción del actual período de sesiones que concluirá el día 30 de abril de 1994.
 
+P.O. 23 DE ABRIL DE 1994.
+
 ###### ARTICULO PRIMERO.
 
-Esta reforma entrará en vigor al día siguiente de la publicación de esta ley en el "Diario Oficial" de la Federación.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-El Estado de Quintana Roo tendrá la extensión territorial y límites que comprende actualmente el Territorio de Quintana Roo.
+Se abrogan las disposiciones que se opongan al presente Decreto.
 
 ###### ARTICULO TERCERO.
 
-El día en que entre en vigor esta Ley, los conflictos en los diversos ramos a que se refiere esta reforma, serán resueltos por los tribunales federales del trabajo. En su oportunidad se promulgará y publicará la reforma correspondiente a la ley de la materia.
-
-D.O.F. 6 DE FEBRERO DE 1975.
-
-DECLARATORIA QUE ADICIONA EL PÁRRAFO SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y LA FRACCIÓN X DEL ARTÍCULO 73.
+En tanto se expida la disposición Reglamentaria del Artículo 148 de la Constitución Política del Estado, continuarán operando las actuales dependencias del Trabajo y vigentes los preceptos legales que las rigen.
 
 ###### ARTICULO PRIMERO.
 
