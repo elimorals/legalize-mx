@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1917-10-20"
+last_updated: "1924-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 1924.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -219,7 +219,9 @@ XXIII.- Interpelar a moción de alguno o varios Diputados, al Ejecutivo, a los f
 
 XXIV.- Aprobar o reprobar la suspención de los Ayuntamientos o de sus miembros y la de lo (sic) miembros de las Juntas Municipales hechas por el Ejecutivo.
 
-XXV.- Nombrar a los Magistrados del Supremo Tribunal de Justicia y a los Jueces de Primera Instancia.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1924)</small>
+
+XXV.- Nombrar a los Magistrados del Supremo Tribunal de Justicia, Jueces de Primera Instancia y Jueces Menores.
 
 XXVI.- Dar bases conforme a las cuales el Ejecutivo pueda celebrar empréstitos sobre el crédito del Estado, con la limitación que establece la fracción VIII del artículo 117 de la Constitución Federal, aprobar los contratos respectivos y reconocer y mandar pagar las deudas que contraiga el Estado.
 
@@ -495,9 +497,11 @@ VII.- Separarse del Estado sin licencia del Congreso. La ley castigará severame
 
 Del Secretario del Despacho.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1924)</small>
+
 ###### Artículo 60.
 
-Para el despacho de los negocios del orden administrativo, del Estado, habrá un Secretario General que tendrá los requisitos que para ser Diputado, señala el artículo 24, excepto el de vecindad.
+Para el despacho de los negocios del orden Administrativo del Estado, habrá un Secretario General que deberá ser Ciudadano Colimense y tendrá la competencia, honradez y buena conducta, a juicio del Ejecutivo del Estado.
 
 ###### Artículo 61.
 
@@ -549,13 +553,17 @@ IV.- No tener empleo, cargo o comisión de otros Estados o de la Federación, sa
 
 V.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión, pero si se trata de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público; inhabilitará para el cargo, cualquiera que haya sido la pena.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1924)</small>
+
 ###### Artículo 70.
 
-Los Magistrados que componen el Supremo Tribunal de Justicia y los Jueces de Primera Instancia serán nombrados por la Legislatura en funciones de Colegio Electoral y por mayoría de votos, siendo indispensable que concurran cuando menos dos terceras partes del número total de los miembros del Congreso. La elección se hará en escrutinio secreto y en caso de empate, la suerte decidirá el que hubiere de ejercer el cargo.
+Los Magistrados que forman el Supremo Tribunal de Justicia, los Jueces de Primera Instancia y los Jueces menores, serán nombrados por la Legislatura en funciones de Colegio Electoral y por mayoría de votos, siendo indispensable que concurran cuando menos dos terceras partes del número total de los miembros del Congreso. La elección se hará en escrutinio secreto y en caso de empate, la suerte decidirá el que hubiere de ejercer el cargo.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1924)</small>
 
 ###### Artículo 71.
 
-Los Jueces menores serán nombrados por el Ayuntamiento y tendrán los requisitos que fija el artículo 69 para ser Juez de Primera Instancia.
+Los Jueces Menores serán nombrados por la Legislatura y tendrán los requisitos que exige el artículo 69 de esta Constitución para los Jueces de Primera Instancia.
 
 ###### Artículo 72.
 
@@ -589,15 +597,21 @@ VIII.- Conocer en Segunda Instancia, de todos los negocios civiles y criminales 
 
 IX.- Ejercitar el derecho de iniciar leyes ante el Congreso Local y nombrar en su caso el representante a que se refiere el artículo 45 de la Constitución.
 
-X.- Nombrar y remover a los empleados del Supremo Tribunal y Juzgados de Primera Instancia y recibirles la protesta en los términos que prevengan las leyes.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1924)</small>
+
+X.- Nombrar y remover a los empleados del Supremo Tribunal de Justicia, Juzgados de Primera Instancia y Menores, y recibirles la protesta en los términos que prevengan las Leyes.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1924)</small>
 
 ###### Artículo 75.
 
-Los Magistrados y Jueces solo podrán ser removidos cuando incurran en responsabilidades oficiales u observen mala conducta, previo el juicio de responsabilidad respectivo, a menos que la remoción tenga por objeto promoverlos a un grado superior.
+Los Magistrados que integren el Supremo Tribunal de Justicia con el carácter de Propietarios, durarán en el desempeño de su cargo cuatro años y los Jueces de Primera Instancia y Menores dos años; y solo podrán ser removidos en el periodo de su ejercicio cuando incurran en responsabilidades oficiales u observen mala conducta, previo el juicio de responsabilidad respectivo, a menos que la remoción tenga por objeto el desempeño de un cargo superior.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1924)</small>
 
 ###### Artículo 76.
 
-Los miembros del Poder Judicial no podrán durante el tiempo de su encargo, ejercer la profesión de Abogados y las funciones de Notario, aún cuando lo estén desempeñando el cargo con carácter de interino, ni tomar participio (sic) activo en la política.
+Los miembros del Poder Judicial no podrán durante el ejercicio de su cargo, ejercer la profesión de Abogado ni las funciones de Notario, salvo el caso que estén desempeñando el cargo con carácter de Suplente y por un término que no exceda de dos meses.
 
 ## TITULO V.
 
@@ -653,7 +667,9 @@ El Procurador General durará en su encargo dos años.
 
 La Administración Municipal se ejerce:
 
-I.- Por los Ayuntamientos que residirán en las cabeceras de las Municipalidades, sus miembros serán electos popular y directamente y se renovarán cada año. Por cada Munícipe Propietario se elegirá un suplente.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1924)</small>
+
+I.- Por los Ayuntamientos que residirán en las Cabeceras de los Municipios; sus Miembros serán electos popular y directamente y durarán en el ejercicio de su cargo dos años, renovándose por mitad cada año, comenzando por los números pares. Por cada Munícipe Propietario se elegirá un Suplente, no pudiendo ser reelectos ni unos ni otros, para el período inmediato, siempre que hayan estado funcionando.
 
 II.- Por las Juntas Municipales que residirán en los pueblos, estarán integradas por tres miembros que serán nombrados por el Ayuntamiento respectivo y tendrán los requisitos que marca el artículo 89. Por cada miembro de la Junta Municipal se nombrará un suplente.
 
@@ -961,7 +977,7 @@ De conformidad con el artículo 28 de la Constitución General de la República,
 
 ###### Artículo 150.
 
-Queda para siempre abolida en el Estado la PENA DE MUERTE por los delitos del orden común que sean de la competencia de los Tribunales del mismo. Cuando haya de aplicarse la pena de muerte a algún habitante del Estado por delito de la competencia de los Tribunales Federales, el Gobernador tendrá la estricta obligación de interceder ante la Autoridad que corresponda a efecto de obtener el indulto a favor del sentenciado y si no lo consiguiere, solicitará que la pena se ejecute fuera de los límites del territorio del Estado.
+(DEROGADO, P.O. 4 DE OCTUBRE DE 1924)
 
 ###### Artículo 151.
 
@@ -1049,6 +1065,10 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 J.F. Valle.- Ramón Ahumada, Srio.
 
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+P.O. 4 DE OCTUBRE DE 1924.
+
 ###### Artículo 8°.
 
 Son habitantes del Estado todos los mexicanos y extranjeros que pisen el territorio de él:
@@ -1117,6 +1137,10 @@ Los ciudadanos colimenses por nacimiento que hubieren perdido la calidad de ciud
 
 Los derechos de ciudadano colimense no se pierden estando ausente por causa de educación, de servicio público relativo al Estado, o por desempeño de algún cargo público de elección popular de la Federación.
 
+###### ARTICULO 3º.
+
+Las anteriores reformas surtirán sus efectos desde la fecha de su publicación.
+
 ###### Artículo 2.
 
 El actual Poder Legislativo durará en su ejercicio hasta el quince de septiembre de mil novecientos dieciocho; el Ejecutivo hasta el treinta y uno de octubre de mil novecientos diecinueve y el Judicial hasta el treinta y uno de agosto del mismo año.
@@ -1127,7 +1151,7 @@ Todos los Funcionarios y Empleados nombrados por el Gobierno Provisional, a quie
 
 ###### Artículo 4.
 
-El artículo 75 de la presente Constitución comenzará a regir desde el año de 1923; y entretanto, los Magistrados y Jueces durarán en su encargo dos años, pudiendo ser nombrados nuevamente, y removidos por las causas y en los términos que establece el capítulo relativo a la responsabilidad de los funcionarios públicos. Cuando los Magistrados y Jueces fueren nombrados con el carácter de interinos, podrán ser removidos libremente.
+(DEROGADO, P.O. 4 DE OCTUBRE DE 1924)
 
 ###### Artículo 5.
 
