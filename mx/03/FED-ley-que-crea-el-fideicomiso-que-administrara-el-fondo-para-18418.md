@@ -4,7 +4,7 @@ identifier: "FED-ley-que-crea-el-fideicomiso-que-administrara-el-fondo-para-1841
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2002-12-30"
+last_updated: "2004-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18418&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-12-27"
 
 LEY QUE CREA EL FIDEICOMISO QUE ADMINISTRARA EL FONDO PARA EL FORTALECIMIENTO DE SOCIEDADES Y COOPERATIVAS DE AHORRO Y PRESTAMO Y DE APOYO A SUS AHORRADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2004.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 29 de diciembre de 2000.
 
@@ -79,7 +79,9 @@ VIII. Secretaría: a la Secretaría de Hacienda y Crédito Público;
 
 IX. Sociedad Objeto de esta Ley, en singular o plural: a las sociedades a que se refiere el artículo 7o. de esta Ley y que manifiesten su intención de apegarse a los términos de la Ley de Ahorro y Crédito Popular, o que en virtud de no poder ajustarse a los requisitos establecidos en la misma, deban proceder a su disolución y liquidación o que se encuentren en procedimiento de quiebra, en concurso o entren en concurso mercantil;
 
-X. Trabajos de Auditoría Contable: a los trabajos de análisis y evaluación de los estados financieros de una sociedad cuyos ahorradores sean sujetos de apoyo en los términos de esta Ley, los cuales deberán de realizarse con apego a los principios de contabilidad generalmente aceptados, y con base en normas de auditoría generalmente aceptadas, y
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2004)</small>
+
+X. Trabajos de Auditoría Contable: a los trabajos de análisis y evaluación de los estados financieros de una sociedad cuyos ahorradores sean sujetos de apoyo en los términos de esta Ley, los cuales deberán ser pagados con recursos públicos provenientes de las entidades federativas en las que se ubiquen dichas sociedades; estos trabajos deberán realizarse con apego a los principios de contabilidad generalmente aceptados, y con base en normas de auditoría generalmente aceptadas, y
 
 XI. Trabajos de Consolidación: a los trabajos que se lleven a cabo en las Sociedades Objeto de esta Ley, con excepción de las señaladas en el artículo 7o. fracción I, por consultores con experiencia internacional en finanzas populares; estos trabajos comprenden asistencia técnica en materia de mejora, estabilización, saneamiento y/o liquidación de Sociedades, los cuales serán contratados por el Gobierno Federal a través del Banco del Ahorro Nacional y Servicios Financieros, S.N.C., Institución de Banca de Desarrollo, en su carácter de agente financiero del Gobierno Federal, con recursos provenientes de organismos financieros internacionales.
 
@@ -189,7 +191,13 @@ XVII. Cualesquiera otras derivadas de la legislación aplicable y de la presente
 
 Las Sociedades Objeto de esta Ley, se dividirán en:
 
-I. Sociedades de tipo “l”: a) Sociedades de Ahorro y Préstamo que se hayan autorizado conforme a la Ley General de Organizaciones y Actividades Auxiliares del Crédito, y que ya no realicen operaciones activas ni pasivas; b) Sociedades Cooperativas que cuenten con secciones de ahorro y préstamo que se hayan organizado conforme a la Ley General de Sociedades Cooperativas, y que ya no realicen operaciones activas ni pasivas; c) Asociaciones y Sociedades Civiles que hayan realizado actividades de captación de recursos de sus integrantes para su colocación entre éstos, que ya no realicen operaciones activas ni pasivas y que durante el tiempo en que sí hayan realizado dichas operaciones, hayan observado lo dispuesto en el artículo 38-P de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; y d) Sociedades de Solidaridad Social a que hace referencia la Ley de Sociedades de Solidaridad Social, que hayan realizado actividades de captación de recursos de sus integrantes para su colocación entre éstos, que ya no realicen operaciones activas ni pasivas y que durante el tiempo en que sí hayan realizado dichas operaciones en forma permanente hayan observado lo establecido por el artículo 38-P de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2004)</small>
+
+I. Sociedades de Tipo "I": a) Sociedades de Ahorro y Préstamo que se hayan constituido conforme a la Ley General de Organizaciones y Actividades Auxiliares del Crédito, y que ya no realicen operaciones activas ni pasivas; b) Sociedades Cooperativas que cuenten con secciones de ahorro y préstamo que se hayan organizado conforme a la Ley General de Sociedades Cooperativas, y que ya no realicen operaciones activas ni pasivas; c) Asociaciones y Sociedades Civiles que hayan realizado actividades de captación de recursos de sus integrantes para su colocación entre éstos, que ya no realicen operaciones activas ni pasivas; d) Sociedades de Solidaridad Social a que hace referencia la Ley de Sociedades de Solidaridad Social, que hayan realizado actividades de captación de recursos de sus integrantes para su colocación entre éstos, que ya no realicen operaciones activas ni pasivas.
+
+En los casos a los que se refieren los incisos c) y d) se requerirá adicionalmente que durante el tiempo en que realizaron dichas operaciones, hayan observado el primer párrafo del artículo 38-P de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, en lo referente al número de integrantes o el monto de activos señalados en las Reglas Generales emitidas por la Secretaría, es decir, que indistintamente se cumpla con el requisito de que el número total de sus socios no fue superior a quinientos sin importar el monto total de sus activos, o bien, habiendo sido este número mayor, el monto de sus activos no excedió el millón y medio de pesos;
+
+Para efectos de las sociedades señaladas en los incisos c) y d) anteriores, también serán Sociedades Objeto de esta Ley, las que hayan solicitado autorización a la Secretaría para constituirse y operar como sociedades de ahorro y préstamo;
 
 II. Sociedades de tipo “II”: A las mismas sociedades a que se refieren los incisos a), b), c) y d) de la fracción inmediata anterior, que se encuentren actualmente en operación.
 
@@ -209,7 +217,9 @@ El mencionado convenio contemplará, entre otras cuestiones, las sanciones a que
 
 IV. Acreditar que durante los 12 meses anteriores a la solicitud de apoyo, las tasas de interés pactadas para los depósitos de dinero e inversiones de sus Ahorradores, fueron inferiores al 120% de la tasa de rendimiento, en colocación primaria de los Certificados de la Tesorería de la Federación denominados en moneda nacional, a plazo de 28 días, o en su defecto, la que resulte equivalente al citado plazo, de acuerdo con el Banco de México;
 
-V. Tratándose de sociedades cuyos Ahorradores sean sujetos de apoyo conforme a lo establecido en el artículo 1o. fracción II de esta Ley, éstas deberán acreditar haber iniciado los trámites para efectuar los Trabajos de Auditoría Contable con el propósito de determinar su insolvencia a más tardar el 1o. de junio del 2003 en el caso de las sociedades señaladas en el artículo 7 fracción I; en el caso de las sociedades señaladas en la fracción II del citado artículo, éstas deberán acreditar haber iniciado los Trabajos de Consolidación antes del 31 de diciembre del 2003.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+V. Tratándose de sociedades cuyos Ahorradores sean sujetos de apoyo conforme a lo establecido en el artículo 1o., fracción II, de esta Ley, éstas deberán acreditar haber iniciado los trámites para efectuar los Trabajos de Auditoría Contable con el propósito de determinar su insolvencia a más tardar el 1o. de junio del 2004 en el caso de las sociedades señaladas en el artículo 7 fracción I; en el caso de las sociedades señaladas en la fracción II del citado artículo, éstas deberán acreditar haber iniciado los Trabajos de Consolidación antes del 31 de marzo del 2004.
 
 Asimismo, las sociedades de que trata esta fracción, deberán acreditar que previamente a su disolución y liquidación, quiebra o concurso, según sea el caso, no experimentaron una reducción drástica en sus disponibilidades e inversiones en valores por causas distintas a la operación habitual de la misma, en los seis meses anteriores a la fecha en que se determine su insolvencia. Para tales efectos, se entiende que existe una reducción drástica, cuando se presenta una disminución en el saldo conjunto de disponibilidades e inversiones en valores igual o mayor al 40% del saldo promedio de dichos conceptos, observado en los dos últimos años.
 
@@ -436,3 +446,27 @@ d) Los Ahorradores deberán haber presentado las denuncias penales correspondien
 e) Como consecuencia de la actividad descrita en el inciso a), la sociedad deberá tener una declaración de procedencia de delito por parte de la Procuraduría Fiscal de la Federación, por haber operado en contravención a lo dispuesto por el artículo 103 de la Ley de Instituciones de Crédito.
 
 El apoyo señalado en el primer párrafo de este artículo se realizará sujetándose en todo momento a lo establecido en el artículo 10 de esta Ley, así como a las Bases Generales para el pago, descritas en el artículo 11 del presente ordenamiento. Para tal efecto, las cantidades que aporte el Gobierno Federal serán entregadas al gobierno de las entidades federativas en que residan los ahorradores identificados conforme a los Trabajos de Auditoría Contable y en el procedimiento de quiebra o proceso de concurso, según sea el caso, a efecto de que por su conducto se realicen los pagos correspondientes.
+
+D.O.F. 28 DE ENERO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se reconoce la labor del Gobierno Federal a través de la Secretaría de Hacienda y Crédito Público, la que ha destinado recursos desde el año 2000 para apoyar los gastos operativos del Fideicomiso Cajas de Ahorro, constituido el 13 de julio del año 2000 en Nacional Financiera, S.N.C., Institución de Banca de Desarrollo, con el objeto de recuperar los bienes relacionados con los procesos judiciales y administrativos que se han instaurado y que se instauren con motivo de ilícitos cometidos en perjuicio de los ahorradores de las 25 cooperativas Cajas Populares de Ahorro a que se refiere el Contrato del Fideicomiso Cajas de Ahorro, para proceder a su venta con el fin de que con dichos recursos se resarza a los ahorradores mencionados.
+
+En ese tenor, con el objeto de que se continúe con la labor del Fideicomiso Cajas de Ahorro y se cuente con los recursos necesarios para la recuperación de los bienes a que se refiere el párrafo anterior, así como para el cumplimiento de su objeto y su operación, el Fideicomiso con cargo a su patrimonio realizará las aportaciones de recursos necesarias hasta por un monto de 16 millones de pesos durante el año 2004.
+
+Al respecto, la aportación al Fideicomiso Cajas de Ahorro de recursos señalados en el párrafo anterior por parte del Fideicomiso se realizará sin responsabilidad u obligaciones adicionales para éste y sin necesidad de que su Comité Técnico deba valorar o determinar ex ante (sic) sobre su procedencia.
+
+Para garantizar la continuidad de la operación del Fideicomiso Cajas de Ahorro:
+
+I. El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, preverá, conforme a sus disponibilidades, los recursos para que se continúe con los fines de Fideicomiso Cajas de Ahorro:
+
+a) En el caso de que los fines del Fideicomiso Cajas de Ahorro no se hubieren alcanzado en su totalidad con los recursos antes señalados,
+
+b) En el supuesto de que, después de los diversos procesos judiciales y administrativos que se han instaurado y que se instauren con motivo de ilícitos cometidos en perjuicio de los ahorradores de las 25 cooperativas Cajas Populares de Ahorro a que se refiere el Contrato del Fideicomiso Cajas de Ahorro, los bienes asegurados o decomisados puedan integrarse al patrimonio del Fideicomiso Cajas de Ahorro.
+
+II. El producto de los bienes asegurados, decomisados o abandonados relacionados con los procesos judiciales y administrativos que se han instaurado y que se instauren con motivo de ilícitos cometidos en perjuicio de los ahorradores de las 25 cooperativas Cajas Populares de Ahorro a que se refiere el Contrato del Fideicomiso Cajas de Ahorro se destinará al propio Fideicomiso Cajas de Ahorro, y, en caso de existir excedentes, a resarcir el monto aportado por el Fideicomiso.
+
+El Fideicomiso y el Servicio de Administración y Enajenación de Bienes otorgarán al Fideicomiso Cajas de Ahorro apoyo y asesoría gratuita, con los medios y recursos a su alcance, a efecto de que este último esté en posibilidad de cumplir con su objeto.
+
+TERCERO.- El período durante el cual operará el Fideicomiso y que está referido en el Artículo Tercero Transitorio del Decreto por el que se expidió la presente Ley, se prorrogará hasta el año 2006 o cuando se extinga su patrimonio en términos de la misma, lo que ocurra primero.
