@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1990-08-26"
+last_updated: "1991-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 1990.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 1991.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -51,17 +51,11 @@ El Estado de Aguascalientes es parte integrante de los Estados Unidos Mexicanos;
 
 Todo individuo gozará en el Estado de las garantías que otorga la Constitución Federal y tendrá los derechos y obligaciones establecidas por las leyes locales.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1978)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
-###### Artículo 3º.
+###### Artículo 3o.
 
 El Poder Público solamente puede actuar en uso de facultades expresas mientras que los particulares pueden hacer todo lo que las leyes federales y locales no les prohiban.
-
-Se considera a los Partidos Políticos como Entidades de interés público; la Ley determinará las formas específicas de su intervención en el proceso electoral.
-
-Los Partidos Políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del Poder Público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
-
-Los Partidos Políticos Nacionales registrados, tendrán derecho a participar en las elecciones estatales y municipales.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -189,35 +183,39 @@ El Poder Legislativo se deposita en una corporación que se denomina Congreso de
 
 El Congreso se integrará con Representantes del Estado, electos en su totalidad cada tres años. Por cada Diputado propietario se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1978)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
 ###### Artículo 17.
 
-La Cámara de Diputados, estará integrada por doce Diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales; y hasta cuatro Diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es toda la Entidad.
+La Cámara de Diputados estará integrada por dieciséis diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, de los que corresponderán ocho al Municipio de Aguascalientes y uno por cada uno de los Municipios restantes; y hasta siete Diputados electos según el principio de representación proporcional mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación territorial es el Estado.
 
-La Comisión Local Electoral fijará el ámbito de los distritos electorales uninominales y sus cabeceras.
+La Comisión Estatal Electoral fijará el ámbito territorial de los distritos electorales uninominales y sus cabeceras.
 
-La elección de los cuatro Diputados, según el principio de representación proporcional por medio de listas de candidatos se sujetará a las bases siguientes y a lo que en lo particular disponga la Ley:
+La asignación de los siete Diputados según el principio de representación proporcional se sujetará a las siguientes bases y a lo que en particular disponga la Ley:
 
-I.- Para obtener el registro de sus listas de candidatos, el Partido Político que lo solicite, deberá acreditar que tiene su registro definitivo y que participa con candidatos a Diputados de mayoría relativa en por lo menos un 50% de los doce distritos uninominales.
+a).- El partido político deberá acreditar que tiene su registro definitivo y registrar candidatos a Diputados de Mayoría Relativa en por lo menos un 50% de los dieciséis distritos uninominales.
 
-II.- Tendrá derecho a que le sean atribuídos Diputados electos según el principio de representación proporcional todo aquel Partido que:
+b).- Las Diputaciones por el principio de representación proporcional se otorgarán a todo partido político que obtenga por lo menos el 1.5% de la votación emitida.
 
-a).- No haya obtenido tres o más constancias de mayoría; y
+c).- El partido político que cumpla con los incisos anteriores tendrá derecho a que se le asigne por el principio de representación proporcional el número de Diputados de sus listas que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal.
 
-b).- Que alcance por lo menos el 2% de la votación emitida para el total de las listas.
+La Ley determinará la fórmula electoral y el procedimiento que se observará en dicha asignación.
 
-III.- Al Partido que cumpla con los supuestos señalados en las Fracciones I y II de este artículo, le serán asignados por el principio de representación proporcional el número de Diputados de su lista que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal.
+d).- Los Diputados de mayoría relativa y de representación proporcional, como representantes del pueblo, tendrán la mismo (sic) jerarquía e igualdad de derechos y obligaciones.
 
-La Ley determinará la fórmula electoral y los procedimientos que se observarán en dicha asignación.
+El Congreso del Estado, constituido en Colegio Electoral, calificará la elección de los presuntos Diputados de la Legislatura entrante.
 
-IV.- En el caso de que dos o más Partidos Políticos con derecho a participar en la distribución de las listas regionales obtengan en su conjunto cuatro o más constancias de mayoría, sólo serán objeto de reparto el 50% de las curules que deben asignarse por el principio de representación proporcional.
+La Ley Orgánica de este Poder determinará el procedimiento respectivo. Contra las resoluciones del Colegio Electoral no procede juicio ni recurso alguno.
 
-La Cámara de Diputados calificará la elección de sus miembros a través de un Colegio Electoral que se integrará por cinco presuntos Diputados que de acuerdo con las constancias de mayoría que registre la Comisión Estatal Electoral hubieran obtenido mayor número de votos y por dos presuntos Diputados de representación proporcional; la Ley determinará la forma de seleccionar a estos últimos en función de las más altas votaciones.
+La renovación de los Poderes Legislativo y Ejecutivo y de los Ayuntamientos se verificará por medio de elecciones populares directas, cuya organización es una función pública que se ejerce por los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos acreditados y de los ciudadanos reglamentada por la ley de la materia.
 
-Contra las resoluciones del Colegio Electoral de la Cámara de Diputados no procede ningún recurso.
+La Ley Electoral del Estado de Aguascalientes regulará el ejercicio de los derechos y obligaciones políticos y electorales de los ciudadanos y partidos políticos, determinará las prerrogativas que tendrán estos últimos; dispondrá la forma, procedimientos y requisitos a los que deberán ajustarse las elecciones; reglamentará las atribuciones de los organismos electorales; establecerá un sistema de medios de impugnación de los que conocerá el organismo superior y un Tribunal Local Electoral autónomo que será órgano jurisdiccional en materia electoral y establecerá las penas que deberán aplicarse a los infractores de sus disposiciones, debiendo contar ambos organismos con Magistrados profesionalizados.
 
-V.- Los Diputados de mayoría y los de minoría siendo Representantes del Estado, tendrán la misma categoría e iguales derechos y obligaciones.
+Se considera a los Partidos Políticos como Entidades de interés público; la Ley determinará las formas específicas de su intervención en el proceso electoral.
+
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
+
+Los partidos políticos nacionales registrados tendrán derecho a participar en las elecciones estatales y municipales.
 
 ###### Artículo 17 Bis.
 
@@ -245,9 +243,7 @@ I.- Ser ciudadano mexicano, por nacimiento, en ejercicio de sus derechos.
 
 II.- Tener veintiún años cumplidos el día de la elección;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1950)</small>
-
-III.- Haber terminado la instrucción primaria.
+III.- (DEROGADA, P.O. 24 DE FEBRERO DE 1991)
 
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 1978)</small>
 
@@ -261,9 +257,9 @@ No pueden ser electos Diputados:
 
 I.- Las personas que desempeñen cargos públicos de elección popular, sean de la Federación, del Estado o Municipales.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1991)</small>
 
-II.- Los servidores públicos del Estado o Municipio.
+II.- Los Magistrados, tanto del Supremo Tribunal de Justicia, como del Tribunal Electoral y de la Comisión Estatal Electoral; los Jueces y Secretarios de los diversos ramos, el Procurador de Justicia y los delegados de las dependencias federales en el Estado.
 
 III.- Los individuos que hayan sido condenados por delito intencional a sufrir pena privativa de la libertad; y
 
@@ -373,9 +369,9 @@ IX.- Crear y suprimir empleos públicos.
 
 X.- Convocar a elecciones conforme a la Ley.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1991)</small>
 
-XI.- Erigirse en Colegio Electoral para hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y Ayuntamientos; calificar dichas elecciones y declarar electos a los que hayan obtenido mayoría.
+XI.- Erigirse en Colegio Electoral para la calificación de las elecciones de Diputados por ambos principios, Gobernador y miembros de los Ayuntamientos y declarar electos a los que hayan obtenido mayoría.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
@@ -459,9 +455,13 @@ XXX.- Citar a solicitud de la mitad de sus miembros al Gobernador del Estado, a 
 
 Integrar a solicitud de una tercera parte de sus miembros, comisiones para investigar el funcionamiento de todos los Organismos Descentralizados del Estado o de las Empresas de Participación Estatal. Los resultados de las investigaciones se harán del conocimiento del Ejecutivo del Estado; y
 
-> <small>(ADICIONADA, P.O. 29 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1991)</small>
 
-XXXI.- Las demás que le conceden esta Constitución y la General de la República.
+XXXI.- Elegir de entre las propuestas que le presente el Ejecutivo a los Comisionados Magistrados de la Comisión Estatal Electoral y a los Magistrados integrantes del Tribunal Local Electoral por el voto de las dos terceras partes de sus integrantes; si en una primera votación no se obtuviese tal mayoría, se procederá a insacular de entre los candidatos propuestos.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 1991)</small>
+
+XXXII.- Las demás que le conceden esta Constitución y la General de la República.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -491,9 +491,11 @@ III.- Convocar al Congreso a sesiones extraordinarias, cuando lo juzgue necesari
 
 IV.- Cambiar temporalmente la residencia de los Poderes del Estado, en casos de suma urgencia, mediante la aprobación del Ejecutivo.
 
-V.- Recibir los expedientes relativos a las elecciones de Gobernador, Regidores de los Ayuntamientos y Diputados, para el sólo efecto de turnarlos al Congreso en los dos primeros casos, y en el último, a la Junta Preparatoria del Colegio Electoral de la nueva Legislatura para que se hagan los cómputos y declaraciones respectivas.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1991)</small>
 
-VI.- Instalar la Junta preparatoria del Colegio Electoral del nuevo Congreso.
+V.- Recibir los expedientes relativos a las elecciones de Gobernador, miembros de los Ayuntamientos y Diputados, para el sólo efecto de turnarlos al Congreso erigido en Colegio Electoral para proceder a su calificación;
+
+VI.- (DEROGADA, P.O. 24 DE FEBRERO DE 1991)
 
 VII.- Ejercer las mismas funciones que el Congreso en los casos de las fracciones XIV, XVI, XVII y XXVIII del Artículo 27 de esta Constitución; y
 
@@ -701,9 +703,15 @@ XV.- Decretar la expropiación, por causa de utilidad pública, con los requisit
 
 XVI.- Disponer de la Policía en los Municipios en que habitual o transitoriamente se encuentre;
 
-XVII.- Nombrar Magistrados del Supremo Tribunal de Justicia, observándose lo dispuesto por la fracción XVI del artículo 27 de esta Constitución; y
+XVII.- Nombrar Magistrados del Supremo Tribunal de Justicia, observándose lo dispuesto por la fracción XVI del artículo 27 de esta Constitución; y (sic)
 
-XVIII.- Las demás que esta Constitución y la de la República le confieren.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1991)</small>
+
+XVIII.- Proponer al Congreso del Estado candidatos a ocupar los puestos de Magistrados ante la Comisión Estatal Electoral y del Tribunal Local Electoral.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 1991)</small>
+
+XIX.- Las demás que esta Constitución y la General de la República le confieren.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1494,3 +1502,17 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 P.O. 26 DE AGOSTO DE 1990.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 24 DE FEBRERO DE 1991.
+
+###### ARTICULO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan a las presentes reformas y adiciones.
+
+###### ARTICULO SEGUNDO.
+
+Los Comisionados Magistrados de la Comisión Estatal Electoral y los Magistrados del Tribunal Local Electoral, que fungirán durante los próximos comicios electorales, por esta única ocasión serán electos por el 80% de los integrantes de la Legislatura. De no darse este acuerdo parlamentario se procederá a la insaculación.
+
+###### ARTICULO TERCERO.
+
+Las presentes reformas y adiciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
