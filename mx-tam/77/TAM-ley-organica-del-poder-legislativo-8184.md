@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-legislativo-8184"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-07-05"
-last_updated: "1994-02-26"
+last_updated: "1995-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8184&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el 5 de julio de 1986.
 
@@ -43,11 +43,11 @@ LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TAMAULIPAS
 
 La presente Ley establece las bases para la organización y funcionamiento del Poder Legislativo de la Entidad, el cual se deposita en una asamblea denominada Congreso del Estado Libre y Soberano de Tamaulipas y, durante los recesos de éste, en la Diputación Permanente, de conformidad con lo dispuesto en el Titulo Cuarto de la Constitución Política del Estado.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 2o.
 
-El Congreso se integrará por Diputados electos según el Principio de Votación Mayoritaria Relativa y por el principio de Representación Proporcional, de acuerdo a lo dispuesto por la Constitución Política del Estado y la Ley Electoral para el Estado de Tamaulipas.
+El Congreso se integrará por Diputados electos según el principio de votación mayoritaria relativa y por el principio de representación proporcional, de acuerdo a lo dispuesto por la Constitución Política del Estado y el Código Electoral para el Estado de Tamaulipas.
 
 > <small>(F. DE E., P.O. 27 DE AGOSTO DE 1986)</small>
 
@@ -55,11 +55,11 @@ El Congreso se integrará por Diputados electos según el Principio de Votación
 
 El Ejercicio de las funciones de los Diputados, por el término de tres años, constituye una Legislatura del Congreso del Estado de Tamaulipas.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 4o.
 
-La Legislatura tendrá su residencia en la capital del Estado, sin perjuicio de que pueda sesionar fuera de su sede, en el lugar que para el efecto acuerden las dos terceras partes de sus miembros.
+El Congreso del Estado tendrá su residencia en la Capital del Estado y sesionará en su recinto oficial, sin perjuicio de que pueda hacerlo fuera de su sede, en el lugar que para el efecto acuerden las dos terceras partes de sus miembros.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 1994)</small>
 
@@ -93,9 +93,11 @@ Para los efectos de interpretación de esta Ley, cuando en ellas se exprese Cons
 
 ### CAPITULO I. DEL COLEGIO ELECTORAL
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 11.
 
-El Congreso del Estado se erigirá en Colegio Electoral, para calificar las elecciones de Ayuntamientos, Diputados Locales, Gobernador del Estado y para declarar electos Senadores al Congreso de la Unión. Sus resoluciones serán irrevocables.
+El Congreso del Estado se erigirá en Colegio Electoral para calificar la elección de Gobernador del Estado. La resolución que emita será irrevocable.
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 1989)</small>
 
@@ -105,11 +107,11 @@ El Colegio Electoral deberá integrarse con las dos terceras partes como mínimo
 
 En caso de no existir quórum se citará de nueva cuenta y el Colegio se integrará con los Diputados que asistan, siendo válidas sus resoluciones.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 13.
 
-El Congreso del Estado se constituirá en Colegio Electoral después de celebrarse las elecciones constitucionales para la renovación de los Poderes Legislativo, Ejecutivo y Ayuntamientos en su caso.
+El Congreso del Estado se constituirá en Colegio Electoral después de celebrarse la elección constitucional para la renovación del Poder Ejecutivo del Estado.
 
 ###### ARTICULO 14.
 
@@ -117,35 +119,41 @@ La Diputación Permanente, y la Directiva del Congreso, en caso de prorroga, fun
 
 Por acuerdo de la Asamblea en votación económica, la Diputación Permanente, o la Directiva del Congreso en su caso, podrá presidir el Colegio Electoral, sin que sea necesario nuevo nombramiento, eligiéndose únicamente los escrutadores necesarios.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 15.
 
-El Colegio Electoral iniciará la calificación de las elecciones de los presuntos Diputados, Gobernador del Estado y Ayuntamientos después de recibidos los expedientes de la Comisión Estatal Electoral.
+El Colegio Electoral iniciará la calificación de la elección del presunto Gobernador del Estado, después de recibido el expediente del Consejo Estatal Electoral.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 16.
 
-Los presuntos Diputados deberán presentar las constancias de mayoría y de asignación, para su registro por los Secretarios del Congreso, a fin de dar cuenta al Colegio Electoral en su oportunidad.
+Los presuntos Diputados deberán presentar las constancias de mayoría y de asignación ante el Oficial Mayor del Congreso del Estado, para el registro correspondiente, turnándolas de inmediato a la Secretaría de la Mesa Directiva o de la Diputación Permanente, en su caso, para los efectos de la toma de protesta.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 17.
 
-En el supuesto de que el Congreso del Estado no se erija en Colegio Electoral conforme lo señala el Artículo 13, los presuntos Diputados, cinco días antes de iniciar sus funciones se erigirán en Colegio Electoral y en sesión permanente procederán a la calificación de sus elecciones, las de los Ayuntamientos y las de Gobernador en su caso, con las mismas reglas de este Capítulo, pero para la calificación de las elecciones de quienes integran la Directiva, se nombrarán los respectivos substitutos.
+En el supuesto de que el Congreso del Estado no se erija en Colegio Electoral conforme lo señala el Artículo 13, los presuntos Diputados, cinco días antes de iniciar sus funciones se erigirán en Colegio Electoral y en sesión permanente procederán a la calificación de la elección de Gobernador, con las mismas reglas de este Capítulo.
 
 ###### ARTICULO 18.
 
-El Colegio Electoral recibirá de la Comisión Local Electoral, los expedientes relativos a la elección de Senadores para los efectos de la declaratoria a que se refiere la fracción XXX del Artículo 58 de la Constitución.
+(DEROGADO, P.O. 27 DEDICIEMBRE DE 1995)
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 19.
 
-Corresponde al Colegio Electoral, resolver las reclamaciones y dudas sobre la validez de las elecciones de Ayuntamientos, Diputados Locales y Gobernador del Estado, así como decidir respecto a la renuncia de éste convocando a nuevas elecciones en los términos de la Constitución.
+Corresponde al Colegio Electoral, resolver sobre la validez o nulidad de la elección de Gobernador del Estado, y en su caso, declarar electo al ciudadano que haya obtenido mayoría de votos, en los términos de la Constitución.
 
 ### CAPITULO II. DE LA INSTALACION DE LA LEGISLATURA
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 20.
 
-El 31 de diciembre del año de la elección se dará lectura al Informe del Colegio Electoral sobre la legitimidad de las credenciales y cualidades de los Diputados electos los que, en Sesión Solemne, otorgarán ese mismo día la protesta de ley ante la Diputación Permanente, o la Mesa Directiva en caso de prórroga.
+El 31 de diciembre del año de la elección se dará lectura al informe del Consejo Estatal Electoral sobre la legitimidad de las elecciones, y cualidades de los Diputados electos, los que, en Sesión Solemne, otorgarán ese mismo día la protesta de Ley ante la Diputación Permanente, o la Mesa Directiva en caso de prórroga.
 
 ###### ARTICULO 21.
 
@@ -205,9 +213,11 @@ En todo lo referente a las facultades y obligaciones de los integrantes de la Me
 
 #### SECCION PRIMERA (SIC). DE LA GRAN COMISION
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 29.
 
-En la primera sesión de la Legislatura, y para todo el ejercicio Constitucional, la Asamblea elegirá por mayoría absoluta, y mediante votación nominal, una Comisión integrada por un Presidente, dos Secretarios y dos Vocales que se denominará "Gran Comisión".
+En la primera sesión ordinaria de la Legislatura, y para todo el ejercicio Constitucional, la Asamblea elegirá por mayoría absoluta, y mediante votación nominal, una Comisión integrada por un Presidente, dos Secretarios y dos Vocales que se denominará Gran Comisión.
 
 ###### ARTICULO 30.
 
@@ -219,9 +229,11 @@ Corresponde a la Gran Comisión y a la Diputación Permanente el control y la vi
 
 #### SECCION II. DE LA COMISION INSTRUCTORA
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 32.
 
-En la primera sesión de una Legislatura, el Presidente del Congreso designará, para todo el ejercicio Constitucional, una Comisión integrada por siete Diputados Propietarios y siete Diputados Suplentes, que se denominará "Comisión Instructora".
+En la primera sesión ordinaria de una Legislatura, el Presidente del Congreso designará, para todo el ejercicio Constitucional, una Comisión integrada por siete Diputados Propietarios y siete Diputados Suplentes, que se denominará "Comisión Instructora".
 
 ###### ARTICULO 33.
 
@@ -243,57 +255,85 @@ I.- Permanentes y
 
 II.- Especiales.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 35.
 
-En la sesión inmediata a la inicial de una Legislatura, a propuesta de la Gran Comisión por mayoría absoluta y mediante votación nominal, la Asamblea elegirá para todo el ejercicio constitucional las comisiones permanentes; siendo éstas:
+En la sesión inmediata a la inicial de una Legislatura, a propuesta de la Gran Comisión, por mayoría absoluta y mediante votación nominal, la Asamblea elegirá para todo el ejercicio constitucional las comisiones permanentes; siendo éstas:
 
-- De Puntos Constitucionales.
+1.- De Puntos Constitucionales.
 
-- De Gobernación.
+2.- De Gobernación.
 
-- De Justicia.
+3.- De Justicia.
 
-- De Industria y Comercio.
+4.- De Comercio.
 
-- De Fomento Agropecuario.
+5.- De Fomento Agropecuario.
 
-- De Hacienda y Crédito Público.
+6.- De Hacienda y Crédito Público.
 
-- De Asuntos Culturales.
+7.- De Educación y Cultura.
 
-- De Asistencia Social.
+8.- De Asistencia Social.
 
-- De Salud Pública.
+9.- De Salud Pública.
 
-- De Asentamientos Humanos y Obras Públicas.
+10.- De Asentamientos Humanos y Obras Públicas.
 
-- De Fomento Deportivo.
+11.- De Fomento Deportivo.
 
-- De Seguridad Pública, Prevención y Readaptación Social.
+12.- De Seguridad Pública.
 
-- De Organizaciones Políticas y Procesos Electorales.
+13.- De Organizaciones Políticas y Procesos Electorales.
 
-- De Fomento Económico y Turismo.
+14.- De Fomento Económico y Turismo.
 
-- De Prevención, Mejoramiento y Rehabilitación Ambiental.
+15.- De Desarrollo Social.
 
-- De Trabajo, Previsión y Seguridad Social.
+16.- De Trabajo y Productividad
 
-- De Patrimonio Estatal y Municipal.
+17.- De Patrimonio Estatal y Municipal.
 
-- De Estudios Legislativos y Reglamentos.
+18.- De Estudios Legislativos y Reglamentos.
 
-- De Corrección y Estilo.
+19.- De Corrección y Estilo.
 
-- De Biblioteca, Archivo y Editorial.
+20.- De Biblioteca, Archivo y Editorial.
+
+21.- De Derechos Humanos.
+
+22.- De Planeación.
+
+23.- De Ciencia y Tecnología.
+
+24.- De Información, Gestoría y Quejas.
+
+25.- De Protección Civil.
+
+26.- De Asuntos Fronterizos.
+
+27.- De Fomento Industrial.
+
+28.- De Prevención y Readaptación Social.
+
+29.- De Previsión y Seguridad Social.
+
+30.- De Fortalecimiento Municipal.
+
+31.- De Comunicaciones y Transportes.
+
+32.- De Atención a la Mujer y a la Juventud.
 
 ###### ARTICULO 36.
 
 Las Comisiones Permanentes estudiarán y dictaminarán las Iniciativas de Ley, de Decreto, de Acuerdo y de Acuerdo Económico que les asigne el Presidente de la Directiva.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 37.
 
-Las Comisiones Permanentes, serán integradas por dos Diputados Propietarios, actuando el primero como Presidente y el segundo como Secretario, con sus respectivos Suplentes.
+Las Comisiones Permanentes, serán integradas por cuatro Diputados, actuando el primero de los nombrados como Presidente, el segundo como Secretario y los dos restantes como Vocales.
 
 ###### ARTICULO 38.
 
@@ -309,9 +349,11 @@ Los integrantes de las Comisiones sólo podrán ser removidos por causas justifi
 
 Ningún Diputado podrá excusarse de realizar las tareas propias de su cargo, sino por causa justificada que calificará el Congreso.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 41.
 
-Es obligación de los Diputados asistir a todas las sesiones que celebre el Congreso comportándose en ellas con discreción, así como desempeñar las comisiones que les fueren encomendadas. En caso de incumplimiento serán acreedores a las sanciones que establece el Reglamento.
+Es obligación de los Diputados asistir a todas las sesiones que celebre el Congreso, permanecer en el recinto durante su desarrollo y cumplir oportuna y eficazmente con las comisiones que se les encomienden, conduciéndose en todos sus actos con respeto y cordura. En caso de incumplimiento serán acreedores a las sanciones que establece el Reglamento.
 
 ###### ARTICULO 42.
 
@@ -407,9 +449,11 @@ g).- Rinda su Informe el Presidente del Supremo Tribunal de Justicia.
 
 h).- Se inauguren los Periodos Ordinarios.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 57.
 
-Serán sesiones del Colegio Electoral aquéllas en que, previa declaración del Congreso, se tenga por objeto decidir la validez de elección de Ayuntamientos, Diputados Locales y Gobernador del Estado, computar los votos y declarar electos Senadores a los ciudadanos que representarán al Estado en el Congreso de la Unión.
+Serán sesiones del Colegio Electoral aquéllas en las que, previa declaración del Congreso, se tenga por objeto resolver sobre la validez de la elección de Gobernador del Estado.
 
 ###### ARTICULO 58.
 
@@ -580,3 +624,9 @@ P.O. 26 DE FEBRERO DE 1994.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1995.
+
+###### ARTICULO UNICO
+
+- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
