@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1983-12-16"
+last_updated: "1984-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE SEPTIEMBRE DE 1984.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -113,7 +113,11 @@ Las autoridades estatales, asumirán el ejercicio de todas las atribuciones que 
 
 17.- El trabajo es un derecho del individuo y un deber del individuo para con la sociedad. En consecuencia, el Estado protegerá en beneficio de los trabajadores, el cumplimiento de los derechos y prerrogativas establecidos en el artículo 123 de la Constitución General de la República.
 
-18.- Todos los habitantes del Estado tienen derecho al bienestar y seguridad sociales, teniendo como objetivo la permanente superación del nivel de vida de la población, el mejoramiento de su salud y el saneamiento del medio ambiente.
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 1984)</small>
+
+18.- Todos los habitantes del Estado tienen derecho a la protección de la salud y seguridad sociales teniendo como objetivo la permanente superación del nivel de vida de la población y el saneamiento del medio ambiente.
+
+La Ley definirá las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado.
 
 19.- Todos los habitantes del Estado tienen derecho a participar en la vida cultural, artística y científica de la comunidad y en los beneficios que de ello resulten.
 
@@ -847,7 +851,9 @@ VI.- El Jurado Popular; y
 
 VII.- Los demás funcionarios y auxiliares de la Administración de Justicia.
 
-90.- El Tribunal Superior de Justicia del Estado se integra con tres Magistrados Numerarios y los Supernumerarios que señale la ley orgánica respectiva, nombrados directamente por el Gobernador, con aprobación del Congreso del Estado o de la Comisión Permanente, en su caso, en los términos de esta Constitución.
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 1984)</small>
+
+90.- El Tribunal Superior de Justicia del Estado se integra por cuatro Magistrados Numerarios, nombrados directamente por el Gobernador, con aprobación del Congreso del Estado o de la Diputación Permanente, en su caso, en los términos de esta Constitución.
 
 Para el trámite de las renuncias de los Magistrados del Tribunal, se seguirá el mismo procedimiento que para su nombramiento.
 
@@ -1377,7 +1383,9 @@ Dichas sanciones, además de las que señalan las leyes, consistirán en suspens
 
 ## TITULO DECIMO. PREVENCIONES GENERALES
 
-161.- Todos los contratos y concesiones que el Gobierno del Estado y los municipios tengan que celebrar para ejecución de obras públicas y servicios, con el objeto de garantizar precios, calidad y responsabilidad de contratistas y concesionarios, serán adjudicados en subasta, mediante convocatoria, para que se presenten proposiciones en sobres cerrados que serán abiertos en junta pública.
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 1984)</small>
+
+161.- Todos los contratos y concesiones que el Gobierno del Estado y los Municipios tengan que celebrar para ejecución de obras públicas y servicios, con el objeto de garantizar precios, calidad y responsabilidad de contratistas y concesiones, serán adjudicados en los términos de la Ley de la materia.
 
 162.- El Gobierno del Estado y los municipios deberán crear y desarrollar la integración de planos reguladores en sus respectivas jurisdicciones.
 
@@ -1630,3 +1638,19 @@ B.O. 16 DE DICIEMBRE DE 1983.
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+B.O. 10 DE SEPTIEMBRE DE 1984.
+
+DECRETO NUMERO 466.
+
+###### ARTICULO UNICO.
+
+EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+B.O. 10 DE SEPTIEMBRE DE 1984.
+
+DECRETO NUMERO 467.
+
+###### ARTICULO UNICO.
+
+EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL SIGUIENTE DÍA AL DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
