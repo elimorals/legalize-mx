@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-deporte-del-estado-de-zacatecas-22280"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-05"
-last_updated: "2001-05-05"
+last_updated: "2003-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22280&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "ZAC"
 
 LEY DEL DEPORTE DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL DEPORTE DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. EL 16 DE AGOSTO DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 5 de mayo de 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
+
+Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 5 de mayo de 2001.
 
 LICENCIADO RICARDO MONREAL AVILA, Gobernador del Estado de Zacatecas, a sus habitantes hago saber:
 
@@ -540,3 +542,11 @@ LIC. RICARDO MONREAL AVILA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ARTURO NAHLE GARCIA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE AGOSTO DE 2003.
+
+PRIMERO.- La presente ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley del Deporte del Estado de Zacatecas, contenida en el Decreto número 269 y publicada en el Periódico Oficial, Órgano del Gobierno del Estado el 5 de Mayo del 2001.
