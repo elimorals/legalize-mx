@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2000-09-23"
+last_updated: "2001-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2001.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -161,7 +161,7 @@ La intervención de apoderado jurídico para la presentación de querellas, sól
 
 En el ejercicio de la acción penal incumbe al Ministerio Público;
 
-I.- Promover la incoacción (sic) del procedimiento;
+I.- Promover la incoacción del procedimiento;
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -1893,7 +1893,7 @@ La ampliación del plazo se deberá notificar al alcaide o al Director del Reclu
 
 ###### Art. 262.
 
-Cuando la infracción cuya existencia se haya comprobado no merezca sanción corporal, por estar sancionada con medida diversa, se dictará auto con todos los requisitos del de formal prisión, sujetando a proceso a la persona contra quien aparezca datos suficientes para presumir su responsabilidad, para el solo efecto de señalar el ilícito por el cual se ha de seguir el proceso.
+Cuando la infracción cuya existencia se haya comprobado no merezca sanción corporal, por estar sancionada con medida diversa, se dictará auto con todos los requisitos del de formal prisión, sujetando a proceso a la persona contra quien aparezca datos suficientes para presumir su responsabilidad, para el solo efecto de señalar el ílicito por el cual se ha de seguir el proceso.
 
 Si el inculpado se encontrare detenido, el término para dictar el auto a que se refiere éste artículo, se contará exactamente en la misma forma que el que se establece para dictar auto de reclusión preventiva en el Artículo 260. Si el inculpado no hubiere sido detenido, el auto de sujeción a proceso se dictará dentro de las cuarenta y ocho horas siguientes a la en que se le haya tomado su declaración preparatoria o conste en autos su deseo de no declarar.
 
@@ -2889,6 +2889,10 @@ Los peritos que dictaminen serán dos o más; pero bastará uno cuando solamente
 
 También podrán ser nombrados peritos prácticos cuando no hubiere titulados en el lugar en que se siga la instrucción; pero en este caso, se librará exhorto o requisitoria al Tribunal del lugar en que los haya, para que en vista del dictamen de los prácticos emitan su opinión.
 
+> <small>(ADICIONADO, P. O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+Los profesionales que presten sus servicios en las instituciones legalmente constituidas, especializadas en atención de problemas relacionados con la violencia intrafamiliar, podrán colaborar en calidad de peritos, sujetándose a lo dispuesto en este Código.
+
 ###### Art. 398.
 
 El nombramiento de peritos lo hará de oficio el Tribunal, al promoverse la prueba por alguna de las partes. Si éstas o una de ellas no estuvieren conformes con el dictamen rendido, podrán nombrar cada una hasta dos peritos, a quienes el Tribunal hará saber su nombramiento y les manifestará todos los datos que fueren necesarios para que emitan su opinión.
@@ -3072,6 +3076,10 @@ Los careos de los testigos entre sí y con el procesado o de aquéllos y éste c
 ###### Art. 434.
 
 En todo caso, se careará a un solo testigo con otro, o con el procesado, o con el ofendido; y nunca se hará constar en una diligencia más de un careo.
+
+> <small>(ADICIONADO, P. O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+Los menores de doce años víctimas de un delito, no serán careados con sus agresores, sino a través de sus representantes.
 
 ###### Art. 435.
 
@@ -3583,7 +3591,7 @@ IV.- Los autos de formal prisión; los de sujeción a proceso, los de falta de e
 
 V.- Los autos en que se conceda o niegue la libertad provisional bajo caución; los que concedan o nieguen la libertad por desvanecimiento de datos y los que resuelvan algún incidente no especificado;
 
-VI.- El auto en que se niegue la incoacción (sic) del procedimiento; el en que se niegue la orden de aprehensión y el en que se niegue la citación para preparatoria. Estos autos sólo son apelables por el Ministerio Público;
+VI.- El auto en que se niegue la incoacción del procedimiento; el en que se niegue la orden de aprehensión y el en que se niegue la citación para preparatoria. Estos autos sólo son apelables por el Ministerio Público;
 
 > <small>(ADICIONADA, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -3975,7 +3983,7 @@ TERCERO.- Quedan vigentes las disposiciones de carácter procesal penal contenid
 
 Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
 
-DADO EN EL SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Oaxaca de Juárez, Oax., a 22 de octubre de 1979.- PROFR. DAVID MAYREN RODRIGUEZ,- Diputado Presidente.- MARIA ELENA ALCALA DE RUEDA,- Diputada Secretaria.- LIC. CELESTINO CHAVEZ GUTIERREZ,- Diputado Secretario.- Rúbricas.
+DADO EN EL SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Oaxaca de Juárez, Oax., a 22 de octubre de 1979.- PROFR. DAVID MAYREN RODRIGUEZ.- Diputado Presidente.- MARIA ELENA ALCALA DE RUEDA.- Diputada Secretaria.- LIC. CELESTINO CHAVEZ GUTIERREZ.- Diputado Secretario.- Rúbricas.
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -3983,7 +3991,7 @@ Oaxaca de Juárez, Oax., a 3 de diciembre de 1979.- GRAL. DE BGDA. D.E.M. ELISEO
 
 Y lo comunico a usted para su conocimiento y fines consiguientes.
 
-SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, Oax., a 3 de diciembre de 1979.- EL SECRETARIO GENERAL DEL DESPACHO,- LIC. ALBERTO CANSECO RUIZ.- Rúbrica.
+SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, Oax., a 3 de diciembre de 1979.- EL SECRETARIO GENERAL DEL DESPACHO.- LIC. ALBERTO CANSECO RUIZ.- Rúbrica.
 
 Al C...
 
@@ -4038,3 +4046,9 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 23 DE SEPTIEMBRE DE 2000.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE SEPTIEMBRE DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
