@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-gobierno-del-7000
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-28"
-last_updated: "1963-12-28"
+last_updated: "1979-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1979.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, 28 de Diciembre de 1963.
 
@@ -241,9 +241,21 @@ El sueldo no es susceptible de embargo judicial o administrativo, fuera de lo es
 
 Es nula la cesión de sueldos en favor de tercera persona, ya sea que se haga por medio de recibos para su cobro o que se emplee cualquiera otra forma; pudiendo efectuarse el cobro personalmente o por apoderado legalmente autorizado, en los casos de ausencia o enfermedad del empleado.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 22 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 34.
 
 En ningún caso los empleados de los Poderes percibirán un sueldo inferior al mínimo fijado para los trabajadores en general y según las distintas regiones del Estado.
+
+A los empleados de base o de confianza al servicio de los Poderes del Estado, se les concederá una prima de antigüedad, de conformidad con las normas siguientes:
+
+I.- La prima de antigüedad consistirá en el importe de 12 días de salario o sueldo por cada año de servicios cumplidos.
+
+II.- La prima de antigüedad se pagará a los empleados que se separen voluntariamente de su empleo, siempre que hayan cumplido quince años de servicios, por lo menos. Así mismo se pagará a los que sean despedidos y que conforme a una resolución de la Junta de Arbitraje, dicho despido resulte injustificado y el empleado ya no desee continuar laborando.
+
+III.- En caso de fallecimiento del empleado con derecho a la prima de antigüedad, ésta se pagará a la persona o personas que aparezcan como beneficiarios del pago del seguro de vida en la Cédula de Protección correspondiente.
+
+La prima de antigüedad a que se refiere este artículo se cubrirá a los trabajadores o a sus beneficiarios, independientemente de cualquier otra prestación que les corresponda.
 
 ### CAPITULO CUARTO.
 
@@ -822,3 +834,9 @@ Y lo comunico a usted para su conocimiento y fines consiguientes:
 SUFRAGIO EFECTIVO. NO REELECCION. EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, a 14 de diciembre de 1963.- EL SECRETARIO GENERAL DEL DESPACHO, LIC. CUTBERTO CHAGOYA.-(Rúbrica).
 
 Al C...............
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE DICIEMBRE DE 1979.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
