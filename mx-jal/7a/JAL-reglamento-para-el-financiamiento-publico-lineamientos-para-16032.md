@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-el-financiamiento-publico-lineamientos-para-160
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-29"
-last_updated: "2002-11-23"
+last_updated: "2003-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO PARA EL FINANCIAMIENTO PUBLICO, LINEAMIENTOS PARA EL FINANCIAMIENTO PRIVADO Y GASTOS DE CAMPAÑA DE LOS PARTIDOS POLITICOS REGISTRADOS O ACREDITADOS ANTE EL CONSEJO ELECTORAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2003.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 29 de febrero de 2000.
 
@@ -75,9 +75,11 @@ e) Obtener información y orientación acerca de los requisitos jurídicos y té
 
 f) Cualquier otro que les reconozca la legislación electoral.
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2003)</small>
+
 ###### Artículo 5.
 
-Se considera interesado en cada procedimiento regulado por el presente reglamento, al partido político sujeto a revisión.
+En el mes de marzo de cada año, la Dirección de Prerrogativas a los Partidos Políticos, del Consejo Electoral del Estado, informará al Pleno del Consejo el importe al que ascendieron los gastos que los partidos políticos registrados o acreditados ante el Consejo comprobaron haber erogado en el año inmediato anterior, para la realización de las actividades específicas que se mencionan en el artículo 2 de este reglamento.
 
 ### CAPITULO II. DE LOS INGRESOS
 
@@ -542,3 +544,7 @@ P.O. 23 DE NOVIEMBRE DE 2002.
 SEGUNDO.- La presente reforma y adición, entrará en vigor el día siguiente al de su publicación.
 
 TERCERO.- Publíquese en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 3 DE ABRIL DE 2003.
+
+UNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación.
