@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-de-la-contraloria-general-del-gobierno-1904
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-07-07"
-last_updated: "2000-07-07"
+last_updated: "2003-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 REGLAMENTO INTERIOR DE LA CONTRALORIA GENERAL DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el viernes 7 de julio de 2000.
 
@@ -47,17 +47,21 @@ El presente Reglamento tiene por objeto regular la organización y funcionamient
 
 La Contraloría General del Estado, como dependencia normativa dependiente del Poder Ejecutivo, tiene por objeto la instrumentación, operación, seguimiento y evaluación de las acciones encaminadas al control gubernamental, así corno a la modernización y el desarrollo administrativo de los órganos que conforman la administración pública estatal, de conformidad con lo previsto en la Ley Orgánica de la Administración Pública vigente en la entidad, la Ley de Responsabilidades de los Servidores Públicos del Estado y otras leyes, reglamentos, decretos, acuerdos y órdenes que emita el Titular del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2003)</small>
+
 ###### ARTICULO 3o.
 
-Al frente de la dependencia habrá un titular, al que se denominará Contralor General del Estado, a quien corresponde la representación, de la misma, y quien para el desempeño de las funciones de la dependencia, se auxiliará con los directores generales, las unidades de apoyo que le estén directamente subordinadas, los jefes de departamento, comisarios públicos y del personal técnico y administrativo que las necesidades del servicio requieran. Siempre en función del presupuesto aprobado, y de las aportaciones, que le sean asignados conforme a la ley y los convenios suscritos con la Federación, dependencias, organismos y municipios.
+Al frente de la dependencia habrá un titular, al que se le denominará Contralor General del Estado, a quien corresponde la representación de la misma, y quien para el desempeño de las funciones de la dependencia, se auxiliará con el Subcontralor, Directores Generales, las Unidades de Apoyo que le estén directamente subordinadas, los Jefes de Departamentos, Comisarios Públicos y del personal técnico y administrativo que las necesidades del servicio requieran. Siempre en función del presupuesto aprobado y de las aportaciones, que les sean asignados, conforme a la ley y los convenios suscritos con la Federación, dependencias, organismos y municipios.
 
 ###### ARTICULO 4o.
 
 Para cumplir con sus objetivos, la Contraloría General, a través de sus unidades administrativas, conducirá sus acciones en forma programada y con base en las políticas establecidas para el logro de sus objetivos y prioridades, así como de acuerdo con los programas de desarrollo regional y sectorial que se hayan establecido, incluyendo aquellos programas específicos que a la dependencia le sean asignados por el Gobernador del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2003)</small>
+
 ###### ARTICULO 5o.
 
-Para ser Director General o Jefe de Departamento, se requiere:
+Para ser Subcontralor, Director General o Jefe de Departamento, se requiere:
 
 I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -69,9 +73,11 @@ IV.- Tener experiencia comprobable en el área a la que aspire;
 
 V.- Gozar de buena reputación, y no haber sido condenado por delito que merezca pena corporal de más de un año de prisión, o si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en concepto público.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2003)</small>
+
 ###### ARTICULO 6o.
 
-El Contralor General del Estado, los Directores Generales, Jefes de Departamento, Delegado Administrativo, Jefe de la Unidad de Informática, Comisarios Públicos y demás personal de la Contraloría General del Estado, estarán impedidos de desempeñar otro empleo, cargo o comisión oficial, salvo que se trate de las funciones de Coordinador Regional o Nacional, en el caso del Titular del órgano Estatal de Control, de las de docencia o beneficencia pública y su desempeño no resulte incompatible, así como las que por estar directamente relacionados con las funciones que les correspondan, sean expresamente autorizados por el Gobernador del Estado.
+El Contralor General del Estado, el Subcontralor, los Directores Generales, Jefes de Departamento, Delegado Administrativo, Jefe de la Unidad de Informática, Comisarios Públicos y demás personal de la Contraloría General del Estado, estarán impedidos de desempeñar otro empleo, cargo o comisión oficial, salvo que se trate de las funciones de Coordinador Regional o Nacional, en el caso del Titular del Organo Estatal de Control, de las de docencia o beneficencia pública y su desempeño no resulte incompatible, así como las que por estar directamente relacionados con las funciones que les correspondan, sean expresamente autorizados por el Gobernador del Estado.
 
 Podrán ejercer la abogacía en materia del fuero común y federal en causa propia, no así de su cónyuge o concubina, de sus descendientes o ascendientes, de sus hermanos, adoptantes o adoptados.
 
@@ -83,19 +89,23 @@ Para el estudio, planeación y despacho de los asuntos que le competen, la Contr
 
 I.- Contraloría General;
 
-II.- Delegación Administrativa;
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2003)</small>
 
-III.- Unidad de Informática;
+II.- Subcontraloría;
 
-IV.- Dirección General de Control Gubernamental;
+III.- Delegación Administrativa;
 
-V.- Dirección General de Modernización Administrativa;
+IV.- Unidad de Informática;
 
-VI.- Dirección General de Normatividad y Procedimientos;
+V.- Dirección General de Control Gubernamental;
 
-VII.- Dirección General de Fiscalización y Evaluación; y
+VI.- Dirección General de Modernización Administrativa;
 
-VIII.- Dirección General de Contraloría Social.
+VII.- Dirección General de Normatividad y Procedimientos;
+
+VIII.- Dirección General de Fiscalización y Evaluación; y
+
+IX.- Dirección General de Contraloría Social.
 
 ###### ARTICULO 8o.
 
@@ -243,11 +253,15 @@ XII.- Establecer los medios necesarios de respaldo y protección de datos en los
 
 XIII.- Las demás que sean afines a las anteriores y que le encomiende el titular de la dependencia.
 
-### CAPITULO V. DE LAS ATRIBUCIONES GENERICAS DE LOS DIRECTORES GENERALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 2003)</small>
+
+### CAPITULO V. DE LAS ATRIBUCIONES GENERICAS DEL SUBCONTRALOR Y DIRECTORES GENERALES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2003)</small>
 
 ###### ARTICULO 14.
 
-Los Directores Generales, tendrán a su cargo las atribuciones genéricas siguientes:
+El Subcontralor y Directores Generales, tendrán a su cargo las atribuciones genéricas siguientes:
 
 I.- Acordar con el Contralor General los asuntos inherentes al ámbito de su competencia y de las unidades administrativas a su cargo y desempeñar oportunamente las funciones y comisiones que se le deleguen;
 
@@ -265,7 +279,29 @@ VII.- Emitir los dictámenes u opiniones que se les requieran sobre asuntos que 
 
 VIII.- Las demás que sean afines a las anteriores y que les encomiende el titular de la dependencia.
 
-### CAPITULO VI. ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES GENERALES
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2003)</small>
+
+###### ARTICULO 14 Bis.
+
+Corresponde a la Subcontraloría, el ejercicio de las atribuciones siguientes:
+
+I.- Acordar con el Contralor General el despacho de los asuntos a su cargo y los de las unidades administrativas;
+
+II.- Suplir las ausencias del Contralor General;
+
+III.- Establecer, de acuerdo a su competencia, las normas, políticas, criterios y procedimientos de carácter técnico que deben regir en las unidades administrativas;
+
+IV.- Desempeñar las comisiones que el Contralor General le encomiende;
+
+V.- Apoyar a la Contraloría General en el cumplimiento de sus funciones;
+
+VI.- Vigilar el cumplimiento de las funciones de las Direcciones Generales y demás áreas administrativas de la Contraloría General, y
+
+VII.- Las demás que le sean asignadas por el Contralor General del Estado.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 2003)</small>
+
+### CAPITULO VI. DE LAS ATRIBUCIONES ESPECIFICAS DE LA SUBCONTRALORIA Y DIRECCIONES GENERALES
 
 ###### ARTICULO 15.
 
@@ -523,13 +559,17 @@ XIX.- Las demás que sean afines a las anteriores y que le encomiende el titular
 
 ### CAPITULO VII. DE LA SUPLENCIA DE LOS SERVIDORES PUBLICOS
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2003)</small>
+
 ###### ARTICULO 21.
 
-Durante las ausencias temporales del Contralor General del Estado, podrá ser suplido en sus funciones por el Director General que expresamente designe.
+Durante las ausencias temporales del Contralor General del Estado, podrá ser suplido en sus funciones por el Subcontralor que expresamente designe el Titular de la Dependencia.
+
+(REFORMADO, P.O. 8 DE AGOSTO DE 2003
 
 ###### ARTICULO 22.
 
-Las ausencias de cualquiera de los Directores Generales, se suplirán por el Jefe de Departamento que sea expresamente designado por el propio Director General, con anuencia del titular de la dependencia.
+Las ausencias del Subcontralor, serán suplidas por el Director General, que sea expresamente designado por el Titular de la Dependencia y cuando se ausenten algunos de los Directores Generales, se suplirán por el Jefe de Departamento que expresamente sea designado por el propio Director General, con anuencia del Contralor General.
 
 ### CAPITULO VIII. DE LA APLICACION DE SANCIONES
 
@@ -562,3 +602,9 @@ El Contralor General del Estado.
 ING. JOSE MANUEL ARMENTA VILLEGAS.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE AGOSTO DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
