@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-los-espectaculos-de-box-y-lucha-libre-7495"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-02-09"
-last_updated: "1996-02-09"
+last_updated: "1996-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE LOS ESPECTACULOS DE BOX Y LUCHA LIBRE PROFESIONALES, EN CIUDAD GUADALUPE, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 1996.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 9 de febrero de 1996.
 
@@ -347,9 +347,11 @@ Los promotores podrán desempeñar simultáneamente funciones de Empresarios si 
 
 DE LOS MANEJADORES DE BOXEADORES.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1996)</small>
+
 ###### ARTICULO 56.
 
-Para ser Manejador de Boxeadores se requiere ser mayor de edad, de reconocida honorabilidad y tener licencia expedida por La Comisión en los términos que previenen los Artículos relativos del presente Reglamento.
+Para ser Manejador de Boxeadores se requiere ser mayor de edad, de reconocida honorabilidad y tener licencia expedida por La Comisión en los términos que prevén los Artículos relativos del presente Reglamento.
 
 ###### ARTICULO 57.
 
@@ -765,13 +767,17 @@ IV.- La fianza que otorgue el Manejador para garantizar de lo estipulado en la F
 
 V.- La autorización, por escrito, debidamente firmada por quien legalmente ejerza la Patria Potestad del Boxeador, ratificada personalmente ante La Comisión cuando se trate de un menor de edad; o bien, la Constancia Notarial de que se ha concedido dicha autorización.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1996)</small>
+
 ###### ARTICULO 126.
 
-La falta de cumplimiento de alguno de los requisitos a que se refiere el Artículo anterior, será motivo para que La Comisión declare sin efecto el Contrato.
+La falta del cumplimiento de alguno de los requisitos a que se refiere el Artículo anterior, motivará que La Comisión intervenga para conciliar los intereses de las partes.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1996)</small>
 
 ###### ARTICULO 127.
 
-La falta del cumplimiento de alguno de los requisitos a que se refiere el Artículo anterior, motivará que La Comisión intervenga para conciliar los intereses de las partes.
+Cuando el Contrato llegue al término de su vigencia, ya no tendrá validez alguna. El Manejador ya no podrá contratar los servicios del Boxeador con ninguna Empresa, a menos de que obtenga nueva autorización por escrito del Boxeador, en ese sentido.
 
 ###### ARTICULO 128.
 
@@ -801,13 +807,17 @@ Una vez registrado y autorizado el Contrato, se entregará un tanto al Manejador
 
 Los Contratos celebrados fuera de jurisdicción de La Comisión entre un Manejador y un Boxeador, solamente tendrán validez si están registrados ante una Comisión que tenga relaciones de reciprocidad con la local, siempre que las Cláusulas de dichos Contratos no contravengan en forma alguna las disposiciones del presente Reglamento.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1996)</small>
+
 ###### ARTICULO 135.
 
-Cuando un Manejador sea suspendido por La Comisión, los Boxeadores que represente podrán ser manejados provisionalmente por otro debidamente autorizado, a menos que los Contratos celebrados entre ellos sean rescindidos por los Boxeadores y siempre que esto sea aprobado por La Comisión.
+Cuando un Manejador sea suspendido por La Comisión, los Boxeadores que represente, podrán ser manejados provisionalmente por otro autorizado por éstos y debidamente aprobado por La Comisión.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1996)</small>
 
 ###### ARTICULO 136.
 
-Un Manejador sea suspendido por La Comisión, los Boxeadores que represente, podrán ser manejados provisionalmente por otro autorizado por éstos y debidamente aprobados por La Comisión.
+Un Manejador, previa autorización de La Comisión, podrá traspasar los derechos derivados del Contrato que tenga celebrado con un boxeador Profesional a otro Manejador autorizado, siempre y cuando el Boxeador otorgue su consentimiento. El precio del traspaso quedará sujeto a Convenio particular entre ambos Manejadores. Solamente cuando un desacuerdo de los Manejadores al fijar el precio de que se habla, traiga como consecuencia un perjuicio para el Boxeador, podrá La Comisión intervenir y fijar el precio correspondiente de acuerdo con la categoría del Boxeador cuyo Contrato fue objeto de traspaso.
 
 ###### ARTICULO 137.
 
@@ -833,25 +843,33 @@ IV.- Preliminaristas de 6 a 4 “Rounds”. Los Boxeadores deberán firmar Carta
 
 En todos los Contratos celebrados entre Manejadores y Boxeadores, deberá especificarse que cuando éstos últimos suban o bajen de categoría a juicio de La Comisión, deberá firmarse un nuevo Contrato.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1996)</small>
+
 ###### ARTICULO 141.
 
-La Comisión podrá aceptar la rescisión de un Contrato a petición de una de las partes, siempre que a su juicio existan razones que lo justifiquen.
+Ante la presentación a La Comisión de una controversia, ésta deberá citar a las partes y tratará de conciliar sobre el particular; evitando con ello un conflicto mayor.
+
+En caso de que no fuera posible la conciliación, La Comisión solicitará a las partes proceder de acuerdo a sus intereses.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1996)</small>
 
 ###### ARTICULO 142.
 
-Ante la petición a La Comisión de una rescisión de un Contrato deberá citar a las partes y convenir sobre el particular; evitando con ello un conflicto mayor.
+Los Contratos que se celebren entre las Empresas y los Manejadores o los Boxeadores, contendrán los siguientes datos: Nombre de los contratantes, sueldo que percibirán los Boxeadores por su actuación, numero de "rounds" que van a competir, peso de los contendientes, fecha, hora y lugar en que se vaya a sostener el encuentro a que se refiere el Contrato. En una de sus Cláusulas, se especificará en forma precisa la fecha en que se llevará a cabo la pelea, sin necesidad de un nuevo Contrato, en caso de que la función llegare a suspenderse por causa de fuerza mayor.
 
-La Comisión procurará conciliar a las partes; en caso contrario, solicitará a éstas proceder de acuerdo a Derecho.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1996)</small>
 
 ###### ARTICULO 143.
-
-Los Contratos a que se refiere el Artículo anterior, deberán formularse por triplicado y no tendrán validez mientras no sean aprobados y autorizados por La Comisión. Una vez cumplido este requisito, se entregará un ejemplar a la Empresa, otro al Manejador o al Boxeador según el caso y el tercero quedará en los archivos de La Comisión.
-
-###### ARTICULO 144.
 
 Los Contratos a que se refiere el Artículo anterior, deberán formularse por triplicado y no tendrán validez mientras no sean registrados, aprobados y autorizados por La Comisión.
 
 Una vez cumplidos estos requisitos, se entregará un ejemplar a la Empresa, otro al Manejador o al Boxeador según sea el caso y el tercero quedará en los archivos de la Comisión.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1996)</small>
+
+###### ARTICULO 144.
+
+Cuando por alguna causa determinada un Manejador no pueda firmar personalmente el Contrato para la actuación de un Boxeador, podrá autorizar a éste por escrito, a firmar el Contrato respectivo y a cobrar sus honorarios; quedando sujeto a realizar un Convenio particular entre ambos, en lo referente al porcentaje que recibirá el Manejador en estos casos.
 
 ###### ARTICULO 145.
 
@@ -1529,9 +1547,11 @@ La Comisión tendrá facultades para controlar y vigilar la conducta de un eleme
 
 Tomando en consideración todas las circunstancias a que se refieren los Artículos anteriores, La Comisión podrá imponer a quien infrinja las disposiciones del presente Reglamento, suspensiones desde 15-quince días a 1-un año, contados a partir de la fecha en que por acuerdo de La Comisión hayan sido suspendidas sus actividades.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1996)</small>
+
 ###### ARTICULO 266.
 
-Cuando las personas físicas o morales a que se refiere el presente Reglamento, cometan faltas que causen daños o desprestigio al Boxeo o a la Lucha Libre Profesional, La Comisión estará facultada para cancelar las Licencias que haya expedido a los responsables. En estos casos, se boletinará el acuerdo a las Comisiones de Box y Lucha de la República y del Extranjero, con las que se tenga relaciones de estricta reciprocidad, a efecto de que no permita la actuación del elemento sancionado, en sus jurisdicciones. En el caso de infracciones que a juicio de La Comisión tipifiquen como delito o lícito (sic) grave, la propia Comisión lo hará del conocimiento de la Procuraduría de Justicia en el Estado.
+Cuando las personas físicas o morales a que se refiere el presente Reglamento, cometan faltas que causen daños o desprestigio al Boxeo o a la Lucha Libre Profesional; La Comisión estará facultada para cancelar las Licencias que haya expedido a los responsables. En estos casos, se boletinará el acuerdo a las Comisiones de Box y Lucha de la República y del Extranjero, con las que se tengan relaciones de estricta reciprocidad, a efecto de que no permitan la actuación del elemento sancionado, en sus jurisdicciones. En el caso de infracciones que a juicio de La Comisión tipifiquen como delito, la propia Comisión lo hará del conocimiento de la Procuraduría de Justicia en el Estado.
 
 ###### ARTICULO 267.
 
@@ -1562,3 +1582,9 @@ C. PRESIDENTE MUNICIPAL.
 LIC. JOSÉ ÁNGEL RAMÓN LOZANO.
 
 C. SECRETARIO DEL R. AYUNTAMIENTO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE MARZO DE 1996.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
