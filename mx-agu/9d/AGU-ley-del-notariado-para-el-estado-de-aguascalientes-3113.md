@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-notariado-para-el-estado-de-aguascalientes-3113"
 country: "mx"
 rank: "ley"
 publication_date: "1980-06-01"
-last_updated: "1980-06-01"
+last_updated: "1987-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1987.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 1 de junio de 1980.
 
@@ -223,9 +223,87 @@ Los documentos del apéndice no podrán desglosarse salvo el caso a que se refie
 
 Independientemente del protocolo, los notarios tendrán obligación de llevar un índice duplicado de cada libro, de todos los instrumentos que autoricen, por orden alfabético por apellidos de cada otorgante y de su representado, con expresión del número del acta, naturaleza del acto o hecho, folio, volumen y fecha. Cuando llegue la vez de entregar los libros del protocolo al Registro Público de la Propiedad, se entregará un ejemplar de dicho índice al mismo registro, y el otro, lo conservará el Notario.
 
-### CAPITULO TERCERO. DE LAS ESCRITURAS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE JULIO DE 1987)</small>
 
-### CAPITULO CUARTO. DE LAS ACTAS
+### CAPITULO SEGUNDO BIS
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1987)</small>
+
+###### ARTICULO 31
+
+1.- Los Notarios llevarán un protocolo abierto especial para los actos, contratos o convenios que celebren los organismos públicos de vivienda, que tengan por objeto derechos reales sobre lotes, viviendas o unidades habitacionales, de propiedad exclusiva en fraccionamientos de interés social o condominios habitacionales de orden público.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1987)</small>
+
+###### ARTICULO 31
+
+2.- El protocolo abierto especial se formará con las hojas sueltas debidamente foliadas, selladas y autorizadas que entregue la Secretaría General de Gobierno a los Notarios. Estas, ordenadas, se agruparán formando volúmenes de ciento cincuenta hojas como en el protocolo ordinario. Los instrumentos y volúmenes del protocolo abierto especial se numerarán progresivamente con numeración independiente del protocolo ordinario, asentado antes del número las siglas PAE.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1987)</small>
+
+###### ARTICULO 31
+
+3.- Las hojas que integren el protocolo abierto tendrán las características que por acuerdo fije el Ejecutivo del Estado y se entregarán mediante recibo especial a los Notarios sin cargo de derechos.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1987)</small>
+
+###### ARTICULO 31
+
+4.- Por cada volumen del PAE, el Notario llevará un libro de control, encuadernado y empastado. Asentado un instrumento en el PAE, el Notario deberá hacerlo constar de inmediato en el libro de control, indicando número, fecha, fojas utilizadas, naturaleza del acto y nombre de las partes.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1987)</small>
+
+###### ARTICULO 31
+
+5.- Cuando se inutilice alguna hoja antes de que el instrumento sea autorizado previamente, el Notario podrá sustituirla por otra aún cuando no sea de numeración sucesiva, debiendo asentar la nota en el libro de control, y al pie del instrumento correspondiente anotando la foja inutilizada, y la empleada con sustitución. En la foja que siga a la intercalada se asentará la mención de que la faltante entre aquélla y la que precede se usó en sustitución de otro, precisando los números de las hojas intercaladas y los números de las fojas entre las cuales se intercaló. Las hojas inutilizadas deberán entregarse a la Secretaría General de Gobierno.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1987)</small>
+
+###### ARTICULO 31
+
+6.- Todo instrumento se iniciará al principio de una hoja, y después de la autorización definitiva el Notario asentará como notas al calce las que en protocolo cerrado se asientan al margen. Si la parte de la hoja no fuere suficiente, las anotaciones se harán en hojas comunes que se agregarán al apéndice, selladas y firmadas por el Notario consignando el número del instrumento correspondiente.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1987)</small>
+
+###### ARTICULO 31
+
+7.- Cuando se vayan a otorgar diversos actos con un mismo antecedente, el Notario podrá optar por el procedimiento siguiente:
+
+a).- En un primer instrumento que se denominará de certificación de antecedentes y de personalidad, a solicitud de persona interesada, se relacionarán los títulos y documentos necesarios para el otorgamiento de los actos;
+
+b).- En los instrumentos subsecuentes ya no se relacionarán los antecedentes ni la personalidad, sino se hará mención de su otorgamiento y que conforme al mismo, quien dispone, puede hacerlo legítimamente, citando siempre el antecedente registral y los gravámenes que existieren;
+
+c).- Cuando las escrituras de lotificación o las de constitución del régimen de condominio se hayan otorgado ante el mismo Notario ante quien se vayan a otorgar los actos sucesivos, aquéllas surtirán los efectos de instrumento de certificación de antecedentes; y
+
+d).- Al expedir los testimonios de instrumentos el Notario deberá anexar una certificación que contenga en lo conducente, la relación de antecedentes que obren en el instrumento de certificación respectivo.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1987)</small>
+
+###### ARTICULO 31
+
+8.- El Notario, al utilizar la hoja ciento cincuenta, cerrará el volumen, procediendo para su clausura en lo conducente, en los términos del Artículo 23 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1987)</small>
+
+###### ARTICULO 31
+
+9.- A partir de la fecha en que se haga la anotación de clausura de volumen, el Notario dispondrá de un término de tres meses para encuadernarlo y empastarlo.
+
+Dentro del término de treinta días hábiles siguientes a la fecha en que debe estar encuadernado cada volumen, el Notario deberá enviarlo al Registro Público de la Propiedad. Dicha oficina revisará la exactitud de las anotaciones y razones que contenga con arreglo al Artículo 23 de esta Ley, cuyas disposiciones serán aplicables en lo conducente.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1987)</small>
+
+###### ARTICULO 31
+
+10.- Previo acuerdo con el Gobierno del Estado, el Notario podrá utilizar el PAE para programas de escrituración de interés social aún cuando no intervengan organismos públicos.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1987)</small>
+
+###### ARTICULO 31
+
+11.- Serán aplicables al PAE en lo que no se opongan las demás disposiciones de la presente Ley.
+
+### CAPITULO TERCERO. DE LAS ESCRITURAS
 
 ###### ARTICULO 32.
 
@@ -367,7 +445,7 @@ Siempre que se otorgue un testamento público abierto o cerrado, los notarios da
 
 Los otorgantes, testigos e intérpretes que incurran en falsedad en una escritura, se aplicará la pena a que se refiere el Artículo 221 del Código Penal, cuando de ello resulte perjuicio para tercera persona o para los intereses fiscales.
 
-### CAPITULO QUINTO. DE LOS TESTIMONIOS
+### CAPITULO CUARTO. DE LAS ACTAS
 
 ###### ARTICULO 56.
 
@@ -419,7 +497,7 @@ Los instrumentos públicos extranjeros podrán protocolizarse en el Estado, en v
 
 Los poderes otorgados fuera de la República, una vez legalizados, deberán protocolizarse, para que surtan sus efectos, con arreglo a la ley.
 
-### CAPITULO SEXTO. DEL VALOR DE LAS ESCRITURAS, ACTAS Y TESTIMONIOS
+### CAPITULO QUINTO. DE LOS TESTIMONIOS
 
 ###### ARTICULO 64.
 
@@ -449,7 +527,7 @@ De todo instrumento que se autorice, cada uno de los contratantes o interesados 
 
 El notario sólo puede expedir certificaciones de los actos o hechos que consten en su protocolo. En la certificación hará constar imprescindiblemente el número y la fecha de la escritura o del acta respectiva, para que valga la certificación.
 
-### CAPITULO SEPTIMO. DE LA RESPONSABILIDAD DEL NOTARIO
+### CAPITULO SEXTO. DEL VALOR DE LAS ESCRITURAS, ACTAS Y TESTIMONIOS
 
 ###### ARTICULO 70.
 
@@ -511,7 +589,7 @@ Las razones puestas por el Registro Público, al calce de los testimonios, será
 
 Las anotaciones llevarán la firma autógrafa del notario.
 
-### CAPITULO PRIMERO. DISPOSICIONES PRELIMINARES Y DE LA ASOCIACION DE NOTARIOS
+### CAPITULO SEPTIMO. DE LA RESPONSABILIDAD DEL NOTARIO
 
 ###### ARTICULO 76.
 
@@ -587,9 +665,7 @@ Recibido el informe del Consejo, el C. Gobernador oirá personalmente al notario
 
 ## TITULO SEGUNDO. ORGANIZACION DEL NOTARIADO
 
-### CAPITULO SEGUNDO. DE LOS NOTARIOS DE NUMERO Y SUPERNUMERARIOS
-
-> <small>(F. DE E., P.O. 22 DE JUNIO DE 1980)</small>
+### CAPITULO PRIMERO. DISPOSICIONES PRELIMINARES Y DE LA ASOCIACION DE NOTARIOS
 
 ###### ARTICULO 81.
 
@@ -617,7 +693,9 @@ La falta definitiva de cualquiera de los notarios que se encuentren asociados, s
 
 Los notarios asociados abrirán el protocolo común poniendo en él, inmediatamente después la razón suscrita por el Gobierno del Estado, otra en la que expresen sus nombres, apellidos y números de las notarías que les correspondan; el lugar y la fecha en que se abre el libro, todo autorizado con sus firmas y sellos.
 
-### CAPITULO TERCERO. DE LOS REQUISITOS PARA LA EXPEDICION DEL FIAT NOTARIAL
+### CAPITULO SEGUNDO. DE LOS NOTARIOS DE NUMERO Y SUPERNUMERARIOS
+
+> <small>(F. DE E., P.O. 22 DE JUNIO DE 1980)</small>
 
 ###### ARTICULO 86.
 
@@ -635,7 +713,7 @@ Las faltas definitivas o temporales mayores de dos meses de los notarios de núm
 
 La designación del notario supernumerario que substituya a algún numerario, deberá hacerse constar por medio de una nota suscrita por el Gobernador y Secretario General de Gobierno, en el fíat respectivo y se tomará razón de ella en el Registro de Notarios. Para este último efecto, la Secretaría General de Gobierno ministrará los datos relativos al Consejo Auxiliar del Notariado. En los casos de substitución temporal, bastará el oficio de autorización del cual se tomará igualmente razón en el Registro de Notarios.
 
-### CAPITULO CUARTO. DE LA SEPARACION Y SUBSTITUCION TEMPORAL DE LOS NOTARIOS
+### CAPITULO TERCERO. DE LOS REQUISITOS PARA LA EXPEDICION DEL FIAT NOTARIAL
 
 ###### ARTICULO 89.
 
@@ -723,7 +801,7 @@ El sello de cada notario debe ser de forma circular y tener, precisamente, un di
 
 En caso de que se pierda o altere el sello, el notario se proveerá de otro a su costa, en el que se pondrá un signo especial que lo diferencie del anterior, debiendo ser registrado como el primero, con la anotación del signo de diferencia. Aunque aparezca el antiguo sello, no por esto hará uso de él el notario, sino que lo entregará personalmente a la Secretaría General de Gobierno, para que ahí se destruya levantándose de esta diligencia, un acta por triplicado; una para la Secretaría General de Gobierno; otra para el Registro Público de la Propiedad y la tercera, para el Consejo de Notarios. Lo mismo se hará con el sello del notario que fallezca.
 
-### CAPITULO QUINTO. DE LA CESACION DEFINITIVA DE LOS NOTARIOS
+### CAPITULO CUARTO. DE LA SEPARACION Y SUBSTITUCION TEMPORAL DE LOS NOTARIOS
 
 ###### ARTICULO 102.
 
@@ -775,9 +853,7 @@ II.- Por el notario supernumerario designado por el Ejecutivo del Estado.
 
 El encargado del Registro Público de la Propiedad que tenga a su disposición el protocolo y documentos notariales o los conserve a su cargo en la oficina, hará las autorizaciones, cancelaciones y anotaciones que deban hacerse y expedirá los testimonios que correspondan.
 
-### CAPITULO SEXTO. DE LA CLAUSURA DE LOS PROTOCOLOS
-
-> <small>(F. DE E., P.O. 22 DE JUNIO DE 1980)</small>
+### CAPITULO QUINTO. DE LA CESACION DEFINITIVA DE LOS NOTARIOS
 
 ###### ARTICULO 111.
 
@@ -819,7 +895,9 @@ Los encargados de las oficinas del Registro Civil, ante quienes se consignare el
 
 Cuando un notario dejare de prestar sus servicios, por cualquier causa, el Gobierno del Estado publicará el hecho, por una vez, en el Periódico Oficial del Estado.
 
-### CAPITULO SEPTIMO. DEL CONSEJO AUXILIAR DEL NOTARIADO
+### CAPITULO SEXTO. DE LA CLAUSURA DE LOS PROTOCOLOS
+
+> <small>(F. DE E., P.O. 22 DE JUNIO DE 1980)</small>
 
 ###### ARTICULO 119.
 
@@ -835,7 +913,7 @@ El notario que reciba una notaría, ya sea por vacancia de ésta o suspensión d
 
 El notario que se encuentre en cualesquiera de las condiciones a que se refieren los artículos anteriores, tiene derecho a asistir a las clausuras de protocolo y a la entrega de su respectiva notaría, y recibirá desde luego, los muebles, valores y documentos personales, sin que en tal caso, haya lugar al inventario respectivo de que habla la parte final del Artículo 119 de esta Ley. Si la vacante temporal, o definitiva, es por causa de delito, asistirá a la clausura, inventario y entrega, el C. Procurador General de Justicia.
 
-### CAPITULO OCTAVO. DE LA INSPECCION DE LAS NOTARIAS
+### CAPITULO SEPTIMO. DEL CONSEJO AUXILIAR DEL NOTARIADO
 
 ###### ARTICULO 122.
 
@@ -853,7 +931,7 @@ El cargo de miembros del Consejo será gratuito y sólo los notarios nombrados p
 
 El funcionamiento del Consejo se determinará en el Reglamento que al efecto expida el C. Gobernador, a propuesta del propio Consejo.
 
-### CAPITULO NOVENO. DEL ARCHIVO DE NOTARIAS
+### CAPITULO OCTAVO. DE LA INSPECCION DE LAS NOTARIAS
 
 ###### ARTICULO 126.
 
@@ -906,6 +984,8 @@ III.- Si las visitas tienen por objeto un instrumento determinado, se examinará
 En el acta hará constar el visitador las irregularidades que observe, consignará, en general, los puntos en que esta Ley no haya sido fielmente cumplida y los datos y fundamentos que el notario exponga en su defensa.
 
 Este tendrá derecho a un duplicado del acta firmada por el visitador y por él mismo.
+
+### CAPITULO NOVENO. DEL ARCHIVO DE NOTARIAS
 
 ###### ARTICULO 136.
 
@@ -972,3 +1052,9 @@ J. Refugio Esparza Reyes.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Antonio Javier Aguilera García.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE JULIO DE 1987.
+
+UNICO.- El presente Decreto entrará en vigor a los tres días de su publicación en el Periódico Oficial del Estado.
