@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1984-01-31"
+last_updated: "1985-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 1984.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 1985.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -397,6 +397,8 @@ Los asuntos que sean materia de acuerdo económico, se sujetarán a los trámite
 
 ### CAPITULO I.. DEL PODER EJECUTIVO
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 37.
 
 Los proyectos de ley y los decretos aprobados por el Congreso, se remitirán al Ejecutivo firmados por el presidente y los secretarios del Congreso.
@@ -439,6 +441,10 @@ IX.- Las demás que le concede esta Constitución.
 
 El Ejercicio del Poder Ejecutivo se deposita en una sola persona que se denomina Gobernador del Estado.
 
+> <small>(F. DE E. 20 DE MARZO DE 1986)</small>
+
+El Gobernador del Estado conducirá la Administración Pública Estatal, que será Centralizada y Paraestatal, conforme a la Ley Orgánica que expida el Congreso, que distribuirá los asuntos del orden administrativo del Gobierno del Estado, que estarán a cargo de la Secretaría General de Gobierno, la Oficialía Mayor de Gobierno, la Procuraduría General de Justicia, las Secretarías y las Direcciones del Ramo, y definirá las bases de creación de las entidades Paraestatales, la intervención del Gobernador en su operación y las relaciones entre éstas y la Secretaría General de Gobierno, la Oficialía Mayor de Gobierno, la Procuraduría General de Justicia, las Secretarías y las Direcciones del Ramo.
+
 ###### ARTICULO 41.
 
 Para ser Gobernador del Estado se requiere:
@@ -467,9 +473,11 @@ Los impedimentos para volver a ocupar el cargo de Gobernador son los que consign
 
 El Gobernador será electo directa y popularmente cada seis años y entrará a ejercer sus funciones el día primero del mes de noviembre posterior a la elección.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 45.
 
-El Gobernador podrá ausentarse del territorio del Estado o separarse de sus funciones hasta por treinta días, dando aviso al Congreso o a la Comisión Permanente, y en esos casos el Secretario de Gobierno se hará cargo del despacho con las atribuciones que establezca la Ley Orgánica del Poder Ejecutivo.
+El Gobernador podrá ausentarse del Territorio del Estado o separarse de sus funciones hasta 30 días dando aviso al Congreso o a la Comisión Permanente, y en esos casos el Secretario de Gobierno se hará cargo del Despacho con las atribuciones que establezca la Ley Orgánica de la Administración Pública del Estado de Baja California.
 
 ###### ARTICULO 46.
 
@@ -557,15 +565,19 @@ Para el despacho de los negocios del Poder Ejecutivo habrá un funcionario que s
 
 Para ser Secretario de Gobierno se requiere reunir los mismos requisitos que para ser Gobernador del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 52.
 
-Son atribucines (sic) del Secretario de Gobierno:
+Son atribuciones del Secretario de Gobierno:
 
 I.- Autorizar con su firma las Leyes y Decretos que promulgue el Ejecutivo, así como las disposiciones y acuerdos que éste dicte en el uso de sus facultades;
 
 II.- Substituir al Gobernador en los casos que esta Constitución indique;
 
-III.- Las demás que le confiera la Ley Orgánica del Poder Ejecutivo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1985)</small>
+
+III.- Las demás que le confiera la Ley Orgánica de la Administración Pública del Estado de Baja California.
 
 ###### ARTICULO 53.
 
@@ -801,7 +813,7 @@ Los Municipios podrán celebrar convenios con el Estado para que éste se haga c
 
 b).- Las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determine por la Legislatura del Estado.
 
-c).- Los ingresos derivados de la prestación de servicios públicos a su cargo.
+c) Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
 No se establecerán exenciones o subsidios respecto de las contribuciones a que se refieren los Incisos a) y c) en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Solo los bienes del Dominio Público de la Federación, de los Estados o de los Municipios estarán exentos de dichas contribuciones.
 
@@ -1266,3 +1278,9 @@ UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación e
 P.O. 31 DE ENERO DE 1984.
 
 UNICO.- Las Reformas, Adiciones y Derogación a que se refiere el presente Decreto, entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1985.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
