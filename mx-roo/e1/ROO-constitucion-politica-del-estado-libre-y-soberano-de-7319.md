@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1983-11-21"
+last_updated: "1984-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1984.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -767,7 +767,7 @@ X. Las demás que le confiera expresamente esta Constitución.
 
 #### SECCION TERCERA. De la Administración del Ejecutivo
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1984)</small>
 
 ###### ARTICULO 78.
 
@@ -859,9 +859,9 @@ II.- El Gobernador interino, el provisional o el ciudadano que bajo, cualquiera 
 
 Son facultades del Gobernador:
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1984)</small>
 
-I.- Nombrar y remover libremente al Secretario de Gobierno, Secretario de Desarrollo Económico, Secretario de Finanzas, Secretario de Obras Públicas y Desarrollo Urbano, Secretario de Educación Pública y Bienestar Social, Secretario de Fomento Agropecuario, Secretario Estatal de Turismo, Contralor del Estado, Oficial Mayor, Procurador General de Justicia y demás servidores y empleados públicos del Estado, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las Leyes.
+I.- Nombrar y remover libremente a los Secretarios de: Gobierno, Desarrollo Económico, Finanzas, Obras Públicas y Desarrollo Urbano, Educación y Cultura Popular, Fomento Agropecuario, Estatal de Turismo y Salud y Bienestar Social, así como también al Contralor, al Procurador General de Justicia, al Oficial Mayor y demás servidores y empleados públicos del Estado, cuyo nombramiento o remoción no están determinados de otro modo en la Constitución o en las leyes.
 
 II.- Nombrar a los magistrados del Tribunal Superior de Justicia, con la aprobación de la Legislatura o la Diputación Permanente, en su caso.
 
@@ -887,7 +887,9 @@ X.- Tener bajo su mando la fuerza de Seguridad Pública y Tránsito en los Munic
 
 XI.- Ejercer las facultades que le otorgue la Constitución Federal en relación a la Guardia Nacional.
 
-XII.- (DEROGADA, P.O. 31 DE MARZO DE 1983)
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 1984)</small>
+
+XII.- Dictar las medidas urgentes que estime necesarias para la defensa de la Salubridad y Salud Pública del Estado, y ejercer las atribuciones que la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Salud le otorguen al Gobierno del Estado.
 
 XIII.- Representar al Estado en las comisiones federales y en las comisiones interestatales regionales.
 
@@ -937,7 +939,7 @@ XIII.- Las demás que señalen esta Constitución y sus leyes.
 
 ###### ARTICULO 92.
 
-Para el despacho de los negocios del orden administrativo habrá un Secretario de Gobierno, una Secretaría de Desarrollo Económico, un Secretario de Finanzas, un Secretario de Obras Públicas y Desarrollo Urbano, un Secretario de Educación Pública y Bienestar Social, un Secretario de Fomento Agropecuario, un Secretario Estatal de Turismo, un Contralor, un Oficial Mayor, un Procurador General de Justicia y los demás servidores públicos que determine la Ley Orgánica del Poder Ejecutivo, así como los Organismos Descentralizados, empresas de participación estatal, fideicomisos y demás órganos creados o que se creen en la forma que determinen las leyes.
+Para el despacho de los negocios del orden administrativo habrá un Secretario de Gobierno, un Secretario de Desarrollo Económico, un Secretario de Finanzas, un Secretario de Obras Públicas y Desarrollo Urbano, un Secretario de Educación y Cultura Popular, un Secretario de Fomento Agropecuario, un Secretario Estatal de Turismo, un Secretario de Salud y Bienestar Social, un Contralor, un Procurador General de Justicia, un Oficial Mayor y los demás servidores públicos que determine la Ley Orgánica del Poder Ejecutivo, así como los organismos descentralizados, empresas de participación Estatal, fideicomisos y demás órganos creados o que se creen en la forma que determinen las leyes.
 
 ###### ARTICULO 93.
 
@@ -1880,3 +1882,9 @@ P.O. 21 DE NOVIEMBRE DE 1983.
 ###### ARTICULO UNICO.
 
 Las presentes reformas y adiciones a esta Ley entrarán en vigor al día siguiente de su publicación en le Periódico Oficial del Estado.
+
+P.O. 20 DE JULIO DE 1984.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
