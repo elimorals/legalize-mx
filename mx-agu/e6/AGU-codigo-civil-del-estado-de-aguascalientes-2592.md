@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "1962-01-21"
+last_updated: "1970-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 1962.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 1970.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -219,11 +219,13 @@ DISPOSICIONES GENERALES.
 
 En el Estado estará a cargo de los Oficiales del Registro Civil, autorizar los actos del estado civil y extender las actas relativas a nacimientos, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en su territorio; así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 1970)</small>
+
 ###### Artículo 33.
 
-Los Oficiales del Registro Civil llevarán por duplicado siete libros que se denominan "Registro Civil" y que contendrán: el primero, actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela y de emancipación; el cuarto, actas de matrimonio; el quinto, actas de divorcio; el sexto, actas de fallecimiento, y el séptimo, las inscripciones de las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+Los Oficiales del Registro Civil llevarán por duplicado ocho libros que contendrán: el primero, actas de nacimiento; el segundo, actas de reconocimiento; el tercero, actas de adopción; el cuarto, actas de tutela; el quinto, actas de matrimonio; el sexto, actas de divorcio; el séptimo, actas de fallecimiento; y el octavo, las inscripciones de las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
 
-Toda acta deberá asentarse en los dos ejemplares del Registro.
+Toda acta deberá asentarse en los dos ejemplares.
 
 ###### Artículo 34.
 
@@ -511,25 +513,25 @@ VI.- El nombre del juez que pronunció el auto de discernimiento y la fecha de �
 
 Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, observándose para el caso de que no exista en la misma oficina del Registro, lo prevenido por el artículo 75.
 
-### CAPITULO VI.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE MAYO DE 1970)</small>
 
-DE LAS ACTAS DE EMANCIPACION.
+### CAPITULO VI.
 
 ###### Artículo 85.
 
-En los casos de emancipación por efecto del matrimonio no se formará acta separada; el Oficial del Registro Civil anotará las respectivas actas de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio, y citando la fecha en que éste se celebró así como el número y foja del acta relativa.
+(DEROGADO, P.O. 3 DE MAYO DE 1970)
 
 ###### Artículo 86.
 
-Las actas de emancipación por decreto judicial se formarán insertando a la letra la resolución del juez que autorizó la emancipación. Se anotará el acta de nacimiento, expresando al margen de ella haber quedado emancipado el menor, citando la fecha de la emancipación y el número y foja del acta respectiva.
+(DEROGADO, P.O. 3 DE MAYO DE 1970)
 
 ###### Artículo 87.
 
-Si en la oficina en que se registró la emancipación no existe el acta del emancipado, el Oficial del Registro Civil remitirá copia del acta de emancipación al del lugar en que se registró el nacimiento, para que haga la anotación correspondiente.
+(DEROGADO, P.O. 3 DE MAYO DE 1970)
 
 ###### Artículo 88.
 
-La omisión del registro de emancipación no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el artículo 73.
+(DEROGADO, P.O. 3 DE MAYO DE 1970)
 
 ### CAPITULO VII.
 
@@ -875,9 +877,11 @@ Cualquiera condición contraria A LA PERPETUACIÓN DE LA ESPECIE O a la ayuda mu
 
 Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. El Juez de lo Civil y de Hacienda de la Capital puede conceder dispensa de edad por causas graves y justificadas.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 1970)</small>
+
 ###### Artículo 146.
 
-EI hijo o la hija que no hayan cumplido veintiún años, no pueden contraer matrimonio sin consentimiento de su padre y de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
+El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de su padre y de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si los dos existieren, o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, se requiere el consentimiento de los abuelos maternos, si los dos existieren, o del que sobreviva.
 
 ###### Artículo 147.
 
@@ -1457,7 +1461,9 @@ La menor edad de dieciséis años en el hombre y de catorce en la mujer dejará 
 
 I.- Cuando haya habido hijos;
 
-II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los veintiún años y ni él ni el otro cónyuge hubieren intentado la nulidad.
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 1970)</small>
+
+II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los dieciocho años y ni él ni el otro cónyuge hubieren intentado la nulidad.
 
 ###### Artículo 261.
 
@@ -2089,13 +2095,15 @@ Las acciones civiles que se intenten contra el hijo por los bienes que ha adquir
 
 La acción que compete al hijo para reclamar su estado, es imprescriptible para él y sus descendientes.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 1970)</small>
+
 ###### Artículo 372.
 
 Los demás herederos del hijo podrán intentar la acción de que trata el artículo anterior:
 
-I.- Si el hijo ha muerto antes de cumplir veinticinco años;
+I.- Si el hijo ha muerto antes de cumplir veintidós años;
 
-II.- Si el hijo cayó en demencia antes de cumplir los veinticinco años y murió después en el mismo estado.
+II.- Si el hijo cayó en demencia antes de cumplir los veintidós años y murió después en el mismo estado.
 
 ###### Artículo 373.
 
@@ -3547,13 +3555,15 @@ Lo dispuesto sobre impedimentos o excusas de los tutores regirá igualmente resp
 
 Los que tienen derecho a nombrar tutor, lo tienen también de nombrar curador.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 1970)</small>
+
 ###### Artículo 647.
 
 Designarán por sí mismos al curador, con aprobación judicial:
 
 I.- Los comprendidos en el artículo 518, observándose lo que allí se dispone respecto de esos nombramientos;
 
-II.- Los menores de edad emancipados, en el caso previsto en la fracción III del artículo 667.
+II.- Los menores de edad, emancipados, en el caso previsto en la fracción II del artículo 667.
 
 ###### Artículo 648.
 
@@ -3591,6 +3601,8 @@ En los casos en que conforme a este Código tenga que intervenir el curador, cob
 
 DE LA EMANCIPACION.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 1970)</small>
+
 ###### Artículo 654.
 
 En el Estado habrá un Consejo de Tutela que residirá en la Capital, compuesto de un Presidente y de dos Vocales, que durarán un año en el ejercicio de su cargo y serán nombrados por el Gobernador del Estado dentro de los diez primeros días del mes de enero de cada año, procurando que los nombramientos recaigan en personas que sean de notorias buenas costumbres y que tengan interés en proteger la infancia desvalida.
@@ -3627,6 +3639,8 @@ Mientras que se nombra tutor, el juez debe dictar las medidas necesarias para qu
 
 DE LA MAYOR EDAD.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 1970)</small>
+
 ###### Artículo 659.
 
 Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin la autorización del tutor, salvo lo dispuesto en la fracción IV del artículo 560.
@@ -3661,31 +3675,31 @@ DE LAS MEDIDAS PROVISIONALES EN CASO DE AUSENCIA.
 
 ###### Artículo 665.
 
-El matrimonio del menor produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado que sea menor, no recaerá en la patria potestad, excepto cuando haya obrado de mala fe al contraer matrimonio.
+El matrimonio del menor produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado que sea menor de edad, no recaerá en la patria potestad, excepto cuando haya obrado de mala fe al contraer matrimonio.
+
+El Oficial del Registro Civil anotará las respectivas actas de nacimiento del o de los cónyuges menores de edad, haciendo constar al margen de ellas la emancipación en virtud del matrimonio y citando la fecha en que éste se celebró, así como el número y foja del acta relativa.
 
 ###### Artículo 666.
 
-Los mayores de dieciocho años que estén sujetos a patria potestad o a tutela, tienen derecho a que se les emancipe, si demuestran su buena conducta y aptitud para el manejo de sus intereses.
+(DEROGADO, P.O. 3 DE MAYO DE 1970)
 
-Los padres o tutores pueden emancipar a sus hijos y pupilos que se encuentren en las condiciones mencionadas en el párrafo anterior, siempre que éstos consientan en su emancipación.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 1970)</small>
 
 ###### Artículo 667.
 
 El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad:
 
-I.- Del consentimiento del que lo emancipó para contraer matrimonio antes de llegar a la mayor edad. Si el que otorgó la emancipación ejercía la patria potestad y ha muerto, o está incapacitado legalmente al tiempo en que el emancipado intente casarse, necesita éste el consentimiento del ascendiente a quien corresponda darlo, y en su defecto el del juez;
+I.- De la autorización judicial para la enajenación, gravamen o hipotecas de bienes raíces;
 
-II.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
-
-III.- De un tutor para los negocios judiciales.
+II.- De un tutor para negocios judiciales.
 
 ###### Artículo 668.
 
-Hecha la emancipación, no puede ser revocada.
+(DEROGADO, P.O. 3 DE MAYO DE 1970)
 
 ###### Artículo 669.
 
-Fuera del caso a que se refiere el artículo 665, la emancipación siempre será decretada por el juez, y la resolución correspondiente se remitirá al oficial del Registro Civil para que levante el acta respectiva.
+(DEROGADO, P.O. 3 DE MAYO DE 1970)
 
 ### CAPITULO II.
 
@@ -3693,7 +3707,7 @@ DE LA DECLARACION DE AUSENCIA.
 
 ###### Artículo 670.
 
-La mayor edad comienza a los veintiún años cumplidos.
+La mayor edad comienza a los dieciocho años cumplidos.
 
 ###### Artículo 671.
 
@@ -15077,7 +15091,7 @@ Cuando se registre una sentencia que declare haber cesado los efectos de otra qu
 
 ###### Artículo 2911.
 
-Los padres, como administradores de los bienes de sus hijos; los tutores de menores o incapacitados, y cualesquiera otros administradores, aunque habilitados para recibir pagos, dar recibos y sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
+Los padres, como administradores de los bienes de sus hijos; los tutores de menores o incapacitados, y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
 
 ###### Artículo 2912.
 
@@ -15156,3 +15170,9 @@ Los contratos de arrendamiento, actualmente en vigor, conservarán su valor y fu
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto surtirá sus efectos cuarenta y ocho horas después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE MAYO DE 1970.
+
+###### ARTICULO UNICO.
+
+El presente decreto surtirá sus efectos a los tres días de su publicación en el "Periódico Oficial del Estado".
