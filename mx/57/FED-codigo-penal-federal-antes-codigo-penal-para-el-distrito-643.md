@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1974-12-23"
+last_updated: "1974-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1931-08-13"
 ---
 # CODIGO PENAL FEDERAL -ANTES CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL-
 
-CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
+CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1974.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -33,9 +33,9 @@ El C. Presidente Constitucional de los Estados Unidos Mexicanos, se ha servido d
 
 Que en uso de las facultades que le fueron concedidas por Decreto de 2 de enero de 1931, ha tenido a bien expedir el siguiente
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL.
+CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
 # LIBRO PRIMERO
 
@@ -275,7 +275,9 @@ Las penas y medidas de seguridad son:
 
 2.- (DEROGADO, D.O.F. 5 DE ENERO DE 1948)
 
-3.- Reclusión de locos, sordomudos, degenerados o toxicómanos.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+3.- Reclusión de locos, sordomudos, degenerados y de quienes tengan el hábito o la necesidad de consumir estupefacientes o psicotrópicos.
 
 4.- Confinamiento.
 
@@ -423,15 +425,13 @@ II.- Para el pago que exceda de cien pesos, se podrá conceder un plazo hasta de
 
 Los instrumentos del delito y cualquiera otra cosa con que se cometa o intente cometer, así como las que sean objetos de él, se decomisarán si son de uso prohibido. Los objetos de uso lícito a que se refiere este artículo, se decomisarán al acusado solamente cuando fuere condenado por delito intencional. Si pertenecen a tercera persona, sólo se decomisarán cuando hayan sido empleados para fines delictuosos, con conocimiento de su dueño.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 41.
 
-Todos aquellos objetos que se encuentren a disposición de las autoridades investigadoras y de las Autoridades Judiciales del orden penal, que no hayan sido y no puedan ser decomisados y que en un lapso mayor de tres años no sean recogidas por quien tenga derecho para hacerlo, en los casos en que proceda su devolución se considerarán bienes mostrencos y se procederá a su venta en los términos de las disposiciones relativas del Código Civil para el Distrito Federal, teniéndose al Tribunal Superior de Justicia del Distrito Federal, como denunciante para los efectos de la participación que concede el artículo 781 del propio Código Civil, participación que para dicha Institución se aumenta en un 50% y que se destinará al mejoramiento de la Administración de Justicia.
+Todos aquellos objetos que se encuentren a disposición de las autoridades investigadoras y de las autoridades judiciales del orden penal, que no hayan sido y no puedan ser decomisados y que en un lapso mayor de tres años no sean recogidos por quien tenga derecho para hacerlo, en los casos en que proceda su devolución, se considerarán bienes mostrencos y se procederá a su venta en los términos de las disposiciones relativas del Código Civil para el Distrito Federal, teniéndose al Tribunal Superior de Justicia del Distrito Federal como el denunciante para los efectos de la participación que concede el artículo 781 del propio Código Civil, participación que para dicha institución se aumenta en un cincuenta por ciento y que se destinará al mejoramiento de la Administración de Justicia.
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1965)</small>
-
-Cuando se trate de objetos que estén a disposición de Autoridades Penales Federales, éstos se remitirán a la Secretaría del Patrimonio Nacional para que proceda a su venta conforme a los términos y procedimientos aplicables a la enajenación de bienes muebles de la Federación. Su producto, deducidos los gastos que origine la venta, se entregará a la Secretaría de Gobernación para el mejoramiento de las Instituciones Federales destinadas al tratamiento de menores infractores de las Leyes Penales.
+Cuando se trate de dinero o valores que estén a disposición de autoridades penales federales, se remitirán a la Secretaría de Hacienda y Crédito Público. Tratándose de objetos se remitirán a la Secretaría del Patrimonio Nacional para que proceda a su mejor aprovechamiento o destino, o a su venta, conforme a los términos y procedimientos aplicables a la enajenación de bienes muebles de la Federación.
 
 ### CAPITULO VII. Amonestación
 
@@ -747,7 +747,9 @@ a).- Residir o, en su caso, no residir en lugar determinado, e informe a la auto
 
 b).- Desempeñar en el plazo que la resolución determine, oficio, arte, industria o profesión lícitos, si no tuviere medios propios de subsistencia;
 
-c).- Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes o substancias de efectos análogos, salvo por prescripción médica;
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+c) Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes: psicotrópicos o sustancias que produzcan efectos similares, salvo por prescripción médica;
 
 d).- Sujetarse a las medidas de orientación y supervisión que se le dicten y a la vigilancia de alguna persona honrada y de arraigo, que se obligue a informar sobre su conducta, presentándolo siempre que para ello fuere requerida.
 
@@ -805,9 +807,9 @@ b).- Obligarse a residir en determinado lugar, del que no podrá ausentarse sin 
 
 c).- Desempeñar en el plazo que se le fije, profesión, arte, oficio u ocupación lícitos;
 
-> <small>(F. DE E., D.O.F. 7 DE MAYO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-d).- Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes u otras substancias que produzcan efectos análogos, salvo por prescripción médica; y
+d) Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes, psicotrópicos u otras sustancias que produzcan efectos similares, salvo por prescripción médica; y
 
 e).- Reparar el daño causado.
 
@@ -1405,9 +1407,9 @@ II.- A aquel a quien se hubiere prohibido ir a determinado lugar o a residir en 
 
 El reo suspenso en su profesión u oficio, o inhabilitado para ejercerlos, que quebrante su condena pagará una multa de veinte a mil pesos. En caso de reincidencia, se duplicará la multa y se aplicará prisión de uno a seis años.
 
-### CAPITULO I. De la producción, tenencia, tráfico y proselitismo, en materia de estupefacientes
+### CAPITULO I. De la producción, tenencia, tráfico, proselitismo y otros actos en materia de estupefacientes y psicotrópicos
 
-> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1968)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 160.
 
@@ -1487,7 +1489,7 @@ Se entiende por pandilla, para los efectos de esta disposición la reunión habi
 
 ### CAPITULO II. Corrupción de menores
 
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1966)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 165.
 
@@ -1591,7 +1593,7 @@ Si resultare daño, se duplicará la sanción fijada por el artículo anterior.
 
 ## TITULO SEPTIMO. Delitos contra la salud
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 8 DE MARZO DE 1968)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ### CAPITULO I. Ejercicio indebido o abandono de funciones públicas
 
@@ -1689,67 +1691,79 @@ Al que haga uso indebido del escudo, insignia o himno nacionales, se le aplicar�
 
 ###### ARTICULO 193.
 
-Se considerarán estupefacientes los que determinen el Código Sanitario de los Estados Unidos Mexicanos, los reglamentos y demás disposiciones vigentes o que en lo sucesivo se expidan en los términos de la fracción XVI del artículo 73 de la Constitución General de la República, así como los que señalen los convenios o tratados internacionales que México haya celebrado o en lo futuro celebre.
+Se considerarán estupefacientes y psicotrópicos los que determinen el Código Sanitario de los Estados Unidos Mexicanos; los convenios o tratados internacionales que México haya celebrado o en lo futuro celebre y los que determinen las leyes, reglamentos y demás disposiciones vigentes o que en lo sucesivo se expidan en términos de la fracción XVI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1968)</small>
+Para los efectos de este Capítulo se distinguen tres grupos de estupefacientes o psicotrópicos:
+
+I. Las sustancias y vegetales señalados por los artículos 293, 321 fracción I y 322 del Código Sanitario;
+
+II. Las sustancias y vegetales considerados como estupefacientes por la ley, con excepción de las mencionadas en la fracción anterior, y los psicotrópicos a que hace referencia la fracción II del artículo 321 del Código Sanitario,
+
+III.- Los psicotrópicos a que se refiere la fracción III del artículo 321 del Código Sanitario.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 194.
 
-Se impondrán prisión de dos a nueve años y multa de un mil a diez mil pesos, al que siembre, cultive, coseche o posea plantas de “cannabis” resinosas reputadas como estupefacientes por el Artículo 193, sin llenar los requisitos que para el caso fijen las leyes y disposiciones sobre la materia o con infracción de ellas.
+Se impondrán prisión de dos a nueve años y multa de un mil a diez mil pesos a quien siembre, cultive o coseche plantas de cannabis o mariguana.
 
-Cualquier acto que se realice con plantas de “cannabis” resinosas o con la resina separada, en bruto o purificada, de dichas plantas, diverso a los enumerados en este precepto, pero determinados como delitos en los artículos siguientes, quedará comprendido, para los efectos de su sanción, dentro de lo que dispone este Capítulo.
-
-En ningún caso se concederá el beneficio de la Condena Condicional, a los que siembren, cultiven o cosechen plantas de “cannabis” resinosas, que tengan el carácter de estupefacientes.
-
-> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1968)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 195.
 
-Fuera de los actos previstos en el artículo anterior, se impondrán prisión de tres a doce años y multa de dos mil a veinte mil pesos:
+Se castigará con prisión de seis meses a tres años y multa hasta de cinco mil pesos al que no siendo adicto a la cannabis o mariguana o a cualquiera de las sustancias consideradas en las fracciones II y III del artículo 193, adquiera o posea alguna de éstas por una sola vez, en cantidad tal que esté destinada a su propio e inmediato consumo. Si el mismo sujeto además suministra gratuitamente a un tercero cualquiera de las sustancias indicadas, para su propio e inmediato consumo será sancionado con dos a seis años de prisión y multa de un mil a diez mil pesos, siempre que la conducta no se encuentre comprendida en la fracción IV del artículo 198.
 
-I.- Al que elabore, comercie, transporte, posea, compre, enajene, suministre aun gratuitamente o, en general, efectúe cualquier acto de adquisición, suministro, transportación o tráfico de estupefacientes sin llenar los requisitos que para el caso fijen las leyes, los convenios o tratados internacionales y demás disposiciones sanitarias a que se refiere el artículo 193.
-
-II.- Al que infringiendo las leyes, los convenios o tratados internacionales y las disposiciones sanitarias que enumera el artículo 193, siembre, cultive, coseche, comercie, transporte, posea, compre, venda, enajene, suministre aun gratuitamente o, en general, realice cualquier acto de adquisición, suministro, transportación o tráfico de semillas o plantas que tengan carácter de estupefacientes;
-
-III.- Al que lleve a cabo cualquiera de los actos enumerados en las fracciones anteriores, con opio crudo, “cocinado” o preparado para fumar o con substancias preparadas para un vicio de los que envenenan al individuo y degeneran la raza, actos que hayan sido motivo de declaración expresa por convenios o tratados internacionales, leyes o disposiciones sanitarias a que se contrae el artículo 193;
-
-IV.- Al que realice actos de provocación general, o que instigue, induzca o auxilie a otra persona para que use de estupefacientes, o a que ejecute con ellos, cualesquiera de los actos delictuoso señalados en este Capítulo.
-
-Si la persona inducida o auxiliada fuere menor de 18 años o incapacitada, o si el agente aprovecha su ascendiente o autoridad para ello, la pena será además de la multa, la de cuatro a doce años de prisión.
-
-No es delito la posesión, por parte de un toxicómano, de estupefacientes en cantidad tal que, racionalmente, sea necesaria para su propio consumo. En este caso quedará sujeto a las medidas de seguridad que señala el artículo 24, inciso 3o. de este Código.
-
-> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1968)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 196.
 
-Cuando con motivo de su actividad, los farmacéuticos, boticarios, droguistas o personas que ejerzan la medicina en alguna de sus ramas, ejecutaren directamente o valiéndose de otras personas, cualesquiera de los actos determinados por el artículo 195, las sanciones serán las siguientes:
+Cuando con motivo de su actividad los farmacéuticos, boticarios, droguistas, laboratoristas o personas relacionadas con la medicina en alguna de sus ramas, ejecuten alguno de los actos señalados en la fracción I del artículo 198, con cualquiera de las sustancias consideradas como estupefacientes o psicotrópicos por el artículo 193, las sanciones serán las siguientes:
 
-I.- Prisión de cuatro a doce años y multa de tres mil a veinticinco mil pesos.
+I. Prisión de cinco años tres meses a doce años y multa de cinco mil a cincuenta mil pesos.
 
-II.- Inhabilitación, en su caso, para el ejercicio de su profesión y del comercio, por un lapso no menor de dos años ni mayor de cinco años; y
+II. Inhabilitación para el ejercicio de las actividades a que se refiere el párrafo inicial por un plazo equivalente al de la sanción corporal que se imponga. Este plazo empezará a contar una vez que haya cumplido la sanción privativa de libertad.
 
-III.- Clausura de los establecimientos de su propiedad, por un término no menor de un año ni mayor de tres años, cuando los actos fueren ejecutados dentro de los establecimientos.
+III. Suspensión definitiva de las actividades del establecimiento utilizado para realizar cualquiera de los actos, si el responsable es el propietario.
 
-> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1968)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 197.
 
-Al que importe o exporte ilegalmente estupefacientes o substancias de las señaladas en este Capítulo, se le impondrá una pena de seis a quince años de prisión y multa de tres mil a treinta mil pesos, sin perjuicio de aplicarle, en su caso, la inhabilitación a que se refiere el artículo anterior.
+Al que importe o exporte ilegalmente estupefacientes o psicotrópicos, se le impondrán de siete a quince años de prisión y multa de cinco mil a cincuenta mil pesos, sin perjuicio de aplicarle, en su caso, las sanciones a las que se refieren las fracciones II y III del artículo anterior.
 
-Las mismas sanciones impondrán al funcionario o empleado público aduanal que permitiere la introducción, o la salida del País, de estupefacientes o substancias determinadas en el artículo 193, con violación de las prescripciones contenidas en el Código Sanitario de los Estados Unidos Mexicanos, en los convenios o tratados internacionales suscritos por México o que en lo sucesivo suscriba, en las leyes o disposiciones sanitarias, o en cualquiera otra ley.
+Las mismas sanciones se impondrán al funcionario o empleado público aduanal que permitiere la introducción o la salida del país de cualquiera de tales sustancias, con violación de las prescripciones contenidas en el Código Sanitario de los Estados Unidos Mexicanos, en los convenios o tratados internacionales suscritos por México o que en lo sucesivo suscriba, en las leyes o disposiciones sanitarias, o en cualquier otra ley.
 
-> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1968)</small>
+Para los efectos de este artículo se entenderá por importación y exportación, respectivamente, el transporte material de estupefacientes de un país al territorio nacional o de éste a otro país.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 198.
 
-A los propietarios o encargados de un fumadero de opio o de un establecimiento destinado en cualquier forma, para que se lleven a cabo en él, la venta, suministro o uso de estupefacientes o substancias comprendidas en la Fracción III del artículo 195, se les impondrán las mismas penas que señala el artículo anterior, clausurándose además definitivamente el establecimiento de que se trata.
+Fuera de los actos previstos en los artículos anteriores:
 
-> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1968)</small>
+I. Se impondrán prisión de cinco años tres meses a doce años y multa de cinco mil a cincuenta mil pesos, al que siembre, cultive, coseche, manufacture, fabrique, elabore, prepare, acondicione, almacene, posea, transporte, venda, compre, adquiera, enajene, o trafique en cualquier forma, comercie, suministre aún gratuitamente, o prescriba cualquiera de las sustancias o vegetales considerados en la fracción I del artículo 193, sin satisfacer los requisitos fijados por las normas a que se refiere el primer párrafo del propio artículo.
+
+II. Se castigará con las mismas penas de la fracción precedente al que aporte recursos económicos, o de otra especie, para la ejecución de cualquiera de los delitos a los que se refiere este Capítulo.
+
+III. Se impondrán prisión de tres a doce años y multa de tres mil a treinta mil pesos, al que realice ilícitamente alguna de las conductas señaladas en la fracción I de este precepto con cualquiera de las sustancias o vegetales considerados en la fracción II del artículo 193.
+
+IV. Se castigará con las penas que establece la fracción anterior al que realice actos de publicidad o propaganda, de provocación general, proselitismo, instigación o inducción, o auxilie a otra persona para que consuma estupefacientes o psicotrópicos, cualesquiera que fuere su naturaleza, o ejecute con ellos alguna de las conductas previstas en este Capítulo.
+
+Si la persona instigada, inducida o auxiliada fuere menor de dieciocho años o estuviere incapacitada por otra causa, o si el agente aprovechase su ascendiente o autoridad para ello, la pena será, además de la multa establecida, de cinco años tres meses a doce años de prisión.
+
+V. Se impondrán prisión de seis meses a ocho años y multa de dos mil a veinte mil pesos, al que ejecute ilícitamente cualquiera de los actos a los que se refiere la fracción I de este precepto, empleando alguna de las sustancias o vegetales considerados en la fracción III del artículo 193.
+
+Si el propietario de un establecimiento lo empleare para realizar cualquiera de los actos delictivos señalados en este artículo, y sin perjuicio de la sanción que deba aplicársele según el caso, se suspenderán en definitiva las actividades del mencionado establecimiento.
+
+No es delito la adquisición o posesión de estupefacientes o psicotrópicos por parte de quien tenga el hábito o la necesidad de consumirlos, siempre y cuando sea en la cantidad estrictamente necesaria para su propio consumo. En este caso quedará sujeto a las medidas de seguridad que señala el inciso 3 del artículo 24 de este Código.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 199.
 
-Los estupefacientes, las substancias, los aparatos, los vehículos y demás objetos que se emplearen en la comisión de los delitos a que se refiere este Capítulo, serán, en todo caso, decomisados y se pondrán a disposición de la Autoridad Sanitaria Federal, la que procederá, de acuerdo con las disposiciones o leyes de la materia, a su aprovechamiento lícito o a su destrucción.
+Los estupefacientes, psicotrópicos y sustancias empleadas en la comisión de los delitos a que se refiere este Capítulo, se pondrán a disposición de la autoridad sanitaria federal, la que procederá de acuerdo con las disposiciones o leyes de la materia a su aprovechamiento lícito o a su destrucción.
+
+Tratándose de vehículos, instrumentos y demás objetos relacionados con cualesquiera de las diversas modalidades de los delitos a que se refiere este Capítulo, se estará a lo dispuesto por los artículo 40 y 41.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
@@ -1785,13 +1799,17 @@ III.- Al que de modo escandaloso invite a otro al comercio carnal.
 
 ###### ARTICULO 201.
 
-Se aplicará prisión, de seis meses a cinco años, al que facilite o procure la corrupción de un menor de dieciocho años de edad.
+Se aplicará prisión de seis meses a cinco años al que facilite o procure la corrupción de un menor de dieciocho años de edad.
 
-> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1968)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-Comete el delito de corrupción de menores el que procure o facilite su depravación sexual, si es púber; la iniciación en la vida sexual o la depravación de un impúber, o los induzca, incite o auxilie a la práctica de la mendicidad, de hábitos viciosos, a la ebriedad, al uso de estupefacientes, a formar parte de una asociación delictuosa, o a cometer cualquier delito.
+Comete el delito de corrupción de menores el que procure o facilite su depravación sexual, si es púber, la iniciación en la vida sexual o la depravación de un impúber, o los induzca, incite o auxilie a la práctica de la mendicidad, de hábitos viciosos, a la ebriedad, a formar parte de una asociación delictuosa, o a cometer cualquier delito.
 
-Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor y debido a ello éste adquiera los hábitos del alcoholismo, uso de drogas heroicas o de substancias tóxicas, se dedique a la prostitución o a las prácticas homosexuales, o forme parte de una asociación delictuosa, la pena de prisión será de cinco a diez años y multa hasta de veinticinco mil pesos.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor y debido a ellos éste adquiera los hábitos del alcoholismo, uso de substancias tóxicas u otras que produzcan efectos similares, se dedique a la prostitución o a las prácticas homosexuales, o forme parte de una asociación delictuosa, la pena de prisión será de cinco a diez años y multa hasta de veinticinco mil pesos.
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1966)</small>
 
 Si además de los delitos previstos en este capítulo resultase cometido otro, se aplicarán las reglas de acumulación.
 
@@ -2033,7 +2051,9 @@ A los funcionarios y empleados públicos que cometan el delito de concusión, se
 
 Las sanciones del artículo anterior, se aplicarán también a los encargados o comisionados por un funcionario público que, con aquella investidura, cometan el delito de concusión.
 
-(REUBICADO [N. DE E. ANTES TITULO DECIMOSEGUNDO], D.O.F. 29 DE JULIO DE 1970)TITULO DECIMOPRIMERO
+(REUBICADO [N. DE E. ANTES TITULO DECIMOSEGUNDO], D.O.F. 29 DE JULIO DE 1970)
+
+TITULO DECIMOPRIMERO
 
 Delitos cometidos en la administración de justicia
 
@@ -3015,7 +3035,7 @@ Al que exponga en una casa de expósitos a un niño menor de siete años que se 
 
 Los ascendientes o tutores que entreguen en una casa de expósitos un niño que esté bajo su potestad, perderán por ese sólo hecho los derechos que tengan sobre la persona y bienes del expósito.
 
-(REUBICADO [N. DE E. ANTES TITULO VIGESIMOPRIMERO], D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO [N. DE E. ANTES TITULO VIGESIMO PRIMERO], D.O.F. 29 DE JULIO DE 1970)
 
 ## TITULO VIGESIMO SEGUNDO. Delitos en contra de las personas en su patrimonio
 
@@ -3203,7 +3223,7 @@ Cuando el delito lo comete un familiar del menor que no ejerza sobre él la patr
 
 Si espontáneamente se pone en libertad a la persona antes de tres días y sin causar ningún perjuicio, sólo se aplicará la sanción correspondiente a la privación ilegal de la libertad de acuerdo con el artículo 364. Este beneficio no opera en el caso de la fracción III del presente artículo.
 
-(REUBICADO [N. DE E. ANTES TITULO VIGESIMOTERCERO], D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO [N. DE E. ANTES TITULO VIGESIMO TERCERO], D.O.F. 29 DE JULIO DE 1970)
 
 ###### ARTICULO 367.
 
@@ -3521,6 +3541,8 @@ Si además de los daños directos resulta consumado algún otro delito, se aplic
 
 Cuando por cualquier medio se causen daño, destrucción o deterioro de cosa ajena, o de cosa propia en perjuicio de tercero, se aplicarán las sanciones del robo simple.
 
+(REUBICADO [N. DE E. ANTES TITULO VIGESIMOCUARTO], D.O.F. 29 DE JULIO DE 1970)
+
 TITULO VIGESIMOTERCERO
 
 Encubrimiento
@@ -3549,7 +3571,7 @@ IV.- Preste auxilio o cooperación de cualquier especie al autor de un delito, c
 
 > <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
 
-V.- Oculte al responsable de un delito, o los efectos (sic) objetos o instrumentos del mismo, o impida que se averigüe.
+V.- Oculte al responsable de un delito, o los efectos objetos o instrumentos del mismo, o impida que se averigüe.
 
 > <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 1967)</small>
 
@@ -3802,3 +3824,21 @@ D.O.F. 23 DE DICIEMBRE DE 1974.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1974.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor treinta días después de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a las presentes reformas.
+
+###### ARTICULO TERCERO.
+
+Los hechos ejecutados durante la vigencia de las disposiciones del Código Penal para el Distrito en materia de fuero común, y para toda la República en materia de fuero federal, y del Código Sanitario de los Estados Unidos Mexicanos, que se reforman, modifican y derogan por el presente Decreto, continuarán rigiéndose por aquéllas.
+
+###### ARTICULO CUARTO.
+
+Por lo que hace al Código Federal de Procedimientos Penales, todos los asuntos que estén tramitándose al comenzar a regir este Decreto, se sujetarán a sus disposiciones.
