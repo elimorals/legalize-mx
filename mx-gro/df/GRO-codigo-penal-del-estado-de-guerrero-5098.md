@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2002-05-14"
+last_updated: "2003-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PENAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -1101,6 +1101,8 @@ El que cometa este delito no tendrá derecho a gozar de la conmutación de sanci
 
 129 Bis.- (DEROGADO, P.O. 20 DE ABRIL DE 1999)
 
+### CAPITULO IV. PRIVACION ILEGAL DE LA LIBERTAD CON PROPOSITOS SEXUALES
+
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
 130.- Al que prive de su libertad, sustraiga o retenga a una persona por medio de la violencia o del engaño para realizar un acto sexual, satisfacer un acto erótico o para casarse con ella, se le impondrá prisión de tres a cinco años.
@@ -1118,8 +1120,6 @@ Las penas a que se refiere el presente artículo se aplicarán con independencia
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
 133.- El delito de privación ilegal de la libertad con propósitos sexuales, se perseguirá por querella de parte ofendida o de su legítimo representante.
-
-### CAPITULO IV. PRIVACION ILEGAL DE LA LIBERTAD CON PROPOSITOS SEXUALES
 
 ### CAPITULO I. AMENAZAS
 
@@ -1906,6 +1906,10 @@ Se aplicará la misma regla descrita en el segundo párrafo del artículo anteri
 203.- Si la ejecución de los hechos a que se refieren las disposiciones anteriores, se realiza por medio de explosivos o materias incendiarias, las penas se aumentarán hasta en una mitad más.
 
 204.- Al que indebidamente retenga cualquier vehículo destinado al servicio público o dificulte sus servicios, se le aplicará prisión de seis meses a cuatro años y hasta doscientos días multa.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2003)</small>
+
+204 BIS.- Al propietario o conductor de un vehículo que preste el servicio público de transporte sin la concesión, permiso o autorización correspondiente, se le impondrá de seis meses a tres años de prisión y hasta quinientos días de multa.
 
 205.- Al que dolosamente ponga en movimiento un medio de transporte, provocando su desplazamiento sin control que pueda causar daño, se le impondrá prisión de uno a cinco años.
 
@@ -2868,5 +2872,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 14 DE MAYO DE 2002.
 
 DECRETO No. 460
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE ENERO DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
