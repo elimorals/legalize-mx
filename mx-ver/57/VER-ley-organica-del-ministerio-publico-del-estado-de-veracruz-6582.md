@@ -4,7 +4,7 @@ identifier: "VER-ley-organica-del-ministerio-publico-del-estado-de-veracruz-6582
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-08-20"
-last_updated: "1989-12-30"
+last_updated: "1990-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6582&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE DICIEMBRE DE 1990.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 20 de agosto de 1983.
 
@@ -693,13 +693,25 @@ La Dirección General de la Policía Judicial del Estado se compondrá de:
 
 I.- Un Director General.
 
-II.- Comandantes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE DICIEMBRE DE 1990)</small>
 
-III.- Jefes de Grupo.
+II.- Coordinadores Regionales.
 
-IV.- Agentes de la Policía.
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 1990)</small>
 
-V.- Los empleados administrativos que requieran las necesidades del servicio, según, las previsiones del presupuesto.
+III.- Comandantes.
+
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 1990)</small>
+
+IV.- Jefes de Grupo.
+
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 1990)</small>
+
+V.- Agentes de la Policía.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 27 DE DICIEMBRE DE 1990)</small>
+
+VI.- Los empleados administrativos que requieran las necesidades del servicio, según las previsiones del presupuesto.
 
 ###### ARTICULO 45.
 
@@ -1118,3 +1130,13 @@ EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN LA "G
 ###### ARTICULO SEGUNDO.
 
 SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE ORDENAMIENTO.
+
+G.O. 27 DE DICIEMBRE DE 1990.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El funcionamiento de las Coordinaciones Regionales creadas mediante esta Ley, queda sujeto a que se efectúen las asignaciones presupuestales correspondientes, debiendo el Procurador General de Justicia, dictar los Acuerdos que para el efecto se requieran.
