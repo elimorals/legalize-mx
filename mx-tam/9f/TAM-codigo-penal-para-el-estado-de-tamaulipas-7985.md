@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "1999-06-05"
+last_updated: "2001-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -3447,9 +3447,21 @@ Comete el delito de despojo de cosas inmuebles o de aguas:
 
 I.- El que de propia autoridad y por cualquier medio ilícito, ocupe un bien inmueble ajeno o haga uso de él, o de un derecho real que no le pertenezca;
 
-II.- El que de propia autoridad y por cualesquier medio ilícito, ocupe un inmueble de su propiedad en los casos en que la ley no lo permita por hallarse en poder de otra persona, o ejerza actos de dominio que lesionen derechos legítimos del ocupante; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2001)</small>
 
-III.- El que en los términos de las fracciones anteriores despoje de aguas.
+II.- El que de propia autoridad y por cualesquier medio ilícito, ocupe un inmueble de su propiedad en los casos en que la ley no lo permita por hallarse en poder de otra persona, o ejerza actos de dominio que lesionen derechos legítimos del ocupante;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2001)</small>
+
+III.- El que en los términos de las fracciones anteriores despoje de aguas; y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2001)</small>
+
+IV.- El que en los términos de las fracciones anteriores despoje de aguas de jurisdicción estatal o aguas nacionales asignadas al Estado o los Ayuntamientos en beneficio colectivo de una comunidad urbana o rural para uso doméstico.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2001)</small>
+
+En el supuesto de la fracción IV el delito se perseguirá de oficio.
 
 ###### ARTICULO 428.
 
@@ -3870,3 +3882,9 @@ DECRETO No. 28
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JUNIO DE 2001.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
