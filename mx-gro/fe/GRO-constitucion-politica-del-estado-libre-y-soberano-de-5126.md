@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1926-06-19"
+last_updated: "1926-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 1926.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 1926.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -181,7 +181,9 @@ La Capital del Estado es la Ciudad de Chilpancingo de los Bravos, donde deben re
 
 El territorio del Estado comprende el que le señaló la ley de su creación, con la modificación contenida en el Decreto número 1 de 23 de marzo de 1907, relativo al arreglo de límites con el vecino Estado de Michoacán.
 
-Se divide en las siguientes Municipalidades: Ometepec, Igualapa, Xochixtlahuaca, Tlacoachixtlahuaca, Cuajinicuilapa, Taxco de Alarcón, Tetipac, Teloloapan, Cuetzala del Progreso, Ixcateopan, Pedro Ascencio Alquisiras, Ayutla de los Libres, Cuautepec, Copala, San Luis Acatlán, Azoyu, Florencio Villarreal, Chilapa, Atlixtac, Ahuacuotzingo, Zitlala, Copalillo, Atenango del Río, Chilpancingo de los Bravos, Zumpango del Río, Leonardo Bravo, Tlacotepec, Tecpan de Galeana, Atoyac de Alvarez, Tixtla de Guerrero, Atliaca, Mochitlán, Quechultenango, Iguala, Tepecoacuilco de Trujano, Cocula, Huitzuco, Coyuca de Catalán, Zirándaro, Ajuchitlán del Progreso, San Miguel Totolapan, Pungarabato, Cutzamala de Pinzón, Tlalchapa, Arcelia, La Unión, Coahuayutla de Guerrero, Tlapa, Copanatoyac, Atlamajalcingo del Monte, San Vicente Zoyatlán, Totomixtlahuaca, Alcozauca de Guerrero, Metlatonoc, Zapotitlán, Xalpatlauhac, Malinaltepec, Tenango Tepexi, Acapulco de Juárez, Coyuca de Benítez, San Marcos, Tecoanapa, Huamuxtitlán, Alpoyeca, Xochihuehuetlán; Cualac y Olinalá.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1926)</small>
+
+Se divide en las siguientes Municipalidades: Ometepec, Igualapa, Xochixtlahuaca, Tlacoachixtlahuaca, Cuajinicuilapa, Taxco de Alarcón, Tetipac, Teloloapan, Cuetzala del Progreso, Ixcateopan, Pedro Ascencio Alquisiras, Ayutla de los Libres, Cuautepec, Copala, San Luis Acatlán, Azoyu, Florencio Villarreal, Chilapa, Atlixtac, Ahuacuotzingo, Zitlala, Copalillo, Atenango del Río, Chilpancingo de los Bravos, Zumpango del Río, Leonardo Bravo, Tlacotepec, Tecpan de Galeana, Atoyac de Alvarez, Tixtla de Guerrero, Mártir de Cuilapan, Mochitlán, Quechultenango, Iguala, Tepecoacuilco de Trujano, Cocula, Huitzuco, Coyuca de Catalán, Zirándaro, Ajuchitlán del Progreso, San Miguel Totolapan, Pungarabato, Cutzamala de Pinzón, Tlalchapa, Arcelia, La Unión, Coahuayutla de Guerrero, Tlapa, Copanatoyac, Atlamajalcingo del Monte, San Vicente Zoyatlán, Totomixtlahuaca, Alcozauca de Guerrero, Metlatonoc, Zapotitlán, Xalpatlauhac, Malinaltepec, Tenango Tepexi, Acapulco de Juárez, Coyuca de Benítez, San Marcos, Tecoanapa, Huamuxtitlán, Alpoyeca, Xochihuehuetlán; Cualac y Olinalá.
 
 Las Municipalidades expresadas, conservan la integridad territorial que hasta ahora han reconocido, a reserva de ampliarla o reducirla y de suprimir las que no tengan viabilidad, según lo exijan los intereses generales del Estado.
 
@@ -235,7 +237,9 @@ Bravos, con las de Chilpancingo de los Bravos, Zumpango del Río, Leonardo Bravo
 
 Galeana, con las de Tecpan de Galeana y Atoyac de Alvarez; su Cabecera Tecpan de Galeana.
 
-Guerrero, con las de Tixtla de Guerrero, Atliaca, Mochitlán y Quechultenango; su Cabecera Tixtla de Guerrero.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1926)</small>
+
+Guerrero, con las de Tixtla de Guerrero, Mártir de Cuilapan, Mochitlán y Quechultenango; su Cabecera Tixtla de Guerrero.
 
 Hidalgo, con las de Iguala, Tepecoacuilco de Trujano, Cocula y Huitzuco; su Cabecera Iguala.
 
@@ -1062,3 +1066,7 @@ La duración del período y la no reelección a que se refiere el artículo refo
 P.O. 19 DE JUNIO DE 1926.
 
 Surtirá sus efectos el presente Decreto, a partir de la fecha de su publicación.
+
+P.O. 27 DE NOVIEMBRE DE 1926.
+
+El presente Decreto surtirá sus efectos desde la fecha de su publicación.
