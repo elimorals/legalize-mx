@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2004-08-27"
+last_updated: "2004-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE OCTUBRE DE 2004.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -953,9 +953,9 @@ III. Auxiliar a la Mesa Directiva en las reuniones que celebre, cuando no funcio
 
 IV. Dirigir, ejecutar y supervisar los trabajos y el cumplimiento de las atribuciones y el correcto funcionamiento de las Secretarías de Servicios Legislativos, de Fiscalización y de Servicios Administrativos y Financieros;
 
-> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2004)</small>
 
-V. Recibir la Declaración de Situación Patrimonial de los Servidores Públicos Estatales y Municipales, de conformidad con la Ley de la Materia y demás disposiciones aplicables;
+V. Recibir las declaraciones de situación patrimonial de los servidores públicos estatales y municipales, de conformidad con la ley de la materia y demás disposiciones aplicables, declaraciones que sólo podrán hacerse públicas por mandamiento judicial;
 
 VI. Designar y remover, previo acuerdo de la Junta de Trabajos Legislativos, a los Secretarios de Servicios Legislativos, de Fiscalización y de Servicios Administrativos y Financieros, los que deberán reunir los mismos requisitos que para ser Secretario General;
 
@@ -963,27 +963,25 @@ VII. Formular, respecto de los servicios previstos en el presente Título, los p
 
 VIII. Preparar, en el año de la renovación del Congreso del Estado, la documentación relativa al proceso de entrega y recepción de los servicios a su cargo;
 
-> <small>(REFORMADA, G.O. 7 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2004)</small>
 
-IX. Informar trimestralmente a la Junta de Trabajos Legislativos sobre el cumplimiento de las políticas, lineamientos y acuerdos adoptados por ésta, y respecto al desempeño en la prestación de los servicios legislativos, de fiscalización y administrativos y financieros, así como de las siguientes áreas que estarán bajo su coordinación inmediata:
+IX. Informar trimestralmente a la Junta de Trabajos Legislativos, sobre el cumplimiento de las políticas, lineamientos y acuerdos adoptados por ésta, y respecto al desempeño en la prestación de los servicios legislativos, de fiscalización y administrativos y financieros; así como de las siguientes áreas que estarán bajo su coordinación inmediata:
 
-Oficialía de Partes;
+a) Oficialía de Partes;
 
-Servicios Jurídicos;
+b) Servicios Jurídicos;
 
-Investigaciones Legislativas;
+c) Investigaciones Legislativas;
 
-Asesoría y Orientación Municipal;
+d) Comunicación Social;
 
-Comunicación Social;
+e) Informática;
 
-Informática;
+f) Biblioteca;
 
-Biblioteca;
+g) Archivo; y
 
-Archivo; y
-
-Servicio Médico y Seguridad; y
+h) Servicio Médico y Seguridad;
 
 X. Las demás que expresamente le confieran esta ley, la normatividad interior del Congreso y demás leyes del Estado.
 
@@ -1168,3 +1166,21 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Publíquese en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 16 DE OCTUBRE DE 2004.
+
+DECRETO 879
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 16 DE OCTUBRE DE 2004.
+
+DECRETO 880
+
+PRIMERO.- El presente Decreto entrará en vigor el treinta y uno de octubre de dos mil cuatro, previa publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Publíquese en la Gaceta Oficial, Órgano del Gobierno del Estado.
