@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2001-06-02"
+last_updated: "2001-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2001.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -227,7 +227,7 @@ No están obligados a presentar declaración anual, los contribuyentes eventuale
 
 ###### Artículo 21.
 
-El cálculo del impuesto se hará sobre el total de los ingresos que obtengan durante el año, a los cuales se podrán hacer las deducciones autorizadas en este capítulo, aplicándole al resultado la tasa que señala el Artículo 15 de esta Ley; contra el resultado anterior, se acreditará el importe de los pagos provisionales efectuados, en los términos de este capítulo.
+El cáculo del impuesto se hará sobre el total de los ingresos que obtengan durante el año, a los cuales se podrán hacer las deducciones autorizadas en este capítulo, aplicándole al resultado la tasa que señala el Artículo 15 de esta Ley; contra el resultado anterior, se acreditará el importe de los pagos provisionales efectuados, en los términos de este capítulo.
 
 ###### Artículo 22.
 
@@ -309,7 +309,31 @@ II.- Los comisionistas, consignatarios o cualquier otra persona que intervengan 
 
 III.- Los servidores públicos que autoricen cualquier trámite de los referidos en la fracción III del Artículo 30.
 
-### CAPITULO IV. Del Impuesto Sobre Espectáculos Públicos
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO VI. Del Impuesto Sobre Loterías, Rifas, Sorteos y Concursos
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1997)</small>
+
+Artículo 41 H.- Es objeto de este impuesto la obtención de premios derivados de loterías, rifas, sorteos y concursos de toda clase, cuando los mismos hubieran sido cobrados en el territorio del Estado.
+
+Tratándose de premios obtenidos por la participación en loterías, rifas, sorteos y concursos realizados por personas o instituciones que tengan su domicilio principal en la entidad, distintos a los organismos descentralizados del gobierno federal, el impuesto se causará en el Estado de Colima independientemente del lugar donde se realice la entrega física de los premios.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 I.- Son sujetos de este impuesto las personas físicas, las morales o las unidades económicas sin personalidad jurídica, que perciban ingresos o premios a que se refiere el artículo anterior. Las personas o instituciones que organicen o celebren los eventos objeto del impuesto, deberán retener el impuesto que se cause en el momento en que efectúen la entrega de los premios.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 J.- Es base de este impuesto, el valor del premio o premios obtenidos con motivo de la participación en loterías, rifas, sorteos y concursos de toda clase. Cuando los premios se reciban en especie, será base del impuesto el valor con el que se promocione cada uno de los premios; en su defecto, el valor de facturación y en ausencia de ambos, el de avalúo comercial.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 K.- Este impuesto se causará aplicando a la base señalada en el artículo anterior, la tasa del 6%, sin deducción alguna.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 L.- El impuesto retenido conforme a lo dispuesto por el artículo 41 I, deberá ser enterado por las personas físicas, las morales o las unidades económicas sin personalidad jurídica que lleven a cabo las actividades señaladas en el artículo 41 H, ante la Receptoría de Rentas correspondiente, dentro de los quince días hábiles siguientes a la fecha de la retención, utilizando los formatos oficiales aprobados para el efecto.
 
 ###### Artículo 33.
 
@@ -371,31 +395,7 @@ Garantizarán preferentemente el pago de este impuesto, los bienes muebles, el e
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO VI. Del Impuesto Sobre Loterías, Rifas, Sorteos y Concursos
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1997)</small>
-
-Artículo 41 H.- Es objeto de este impuesto la obtención de premios derivados de loterías, rifas, sorteos y concursos de toda clase, cuando los mismos hubieran sido cobrados en el territorio del Estado.
-
-Tratándose de premios obtenidos por la participación en loterías, rifas, sorteos y concursos realizados por personas o instituciones que tengan su domicilio principal en la entidad, distintos a los organismos descentralizados del gobierno federal, el impuesto se causará en el Estado de Colima independientemente del lugar donde se realice la entrega física de los premios.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-Artículo 41 I.- Son sujetos de este impuesto las personas físicas, las morales o las unidades económicas sin personalidad jurídica, que perciban ingresos o premios a que se refiere el artículo anterior. Las personas o instituciones que organicen o celebren los eventos objeto del impuesto, deberán retener el impuesto que se cause en el momento en que efectúen la entrega de los premios.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-Artículo 41 J.- Es base de este impuesto, el valor del premio o premios obtenidos con motivo de la participación en loterías, rifas, sorteos y concursos de toda clase. Cuando los premios se reciban en especie, será base del impuesto el valor con el que se promocione cada uno de los premios; en su defecto, el valor de facturación y en ausencia de ambos, el de avalúo comercial.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-Artículo 41 K.- Este impuesto se causará aplicando a la base señalada en el artículo anterior, la tasa del 6%, sin deducción alguna.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-Artículo 41 L.- El impuesto retenido conforme a lo dispuesto por el artículo 41 I, deberá ser enterado por las personas físicas, las morales o las unidades económicas sin personalidad jurídica que lleven a cabo las actividades señaladas en el artículo 41 H, ante la Receptoría de Rentas correspondiente, dentro de los quince días hábiles siguientes a la fecha de la retención, utilizando los formatos oficiales aprobados para el efecto.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
+### CAPITULO IV. Del Impuesto Sobre Espectáculos Públicos
 
 ### CAPITULO V. Impuesto por la Prestación del Servicio de Hospedaje
 
@@ -529,15 +529,17 @@ Numero de días de
 
 salarios mínimos
 
-I.- Expedición de Fiat de Notario 270,000
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
+I.- Expedición de fiat de Notario 474.200
 
-II.- Por nombramiento de Notario Interino y/o Adscrito 110.000
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1994)</small>
+II.- Por nombramiento de Notario Interino y/o Adscrito 278.900
 
-III.- Por autorización de protocolo, abierto o especial 4,500
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+III.- Por autorización de Protocolo, abierto o especial 8.370
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -555,25 +557,31 @@ b).- En los Kioscos de Servicios e Información 0.830
 
 VI.- Por la expedición de informes de actas del Registro Civil en el Archivo General, por cada año 0.072
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-VII.- Por la expedición de constancias de inscripciones o no inscripciones de testamento 1.500
+VII.- Por la expedición de constancias de inscripciones o no inscripciones de testamento 1.950
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-VIII.- Por la inscripción de avisos de otorgamiento de testamento 1.500
+VIII.- Por la inscripción de avisos de otorgamiento de testamento 1.950
 
-IX.- Por certificados, por expedición de constancias y otros documentos 1.350
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+IX.- Por certificados, por expedición de constancias y otros documentos 1.500
 
 X.- (DEROGADA, P.O. 5 DE ENERO DE 1999)(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-XI. Por autorización de Registros Extemporáneos 1,350
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+XI. Por autorización de Registros Extemporáneos 1.500
 
-XII.- Por autorización de ``Inscripciones de Actos del Registro Civil" realizados en el extranjero por nacionales 2.000
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-XIII.- Por autorización de Matrimonio entre extranjeros 9,000
+XII.- Por autorización de "Inscripciones de Actos del Registro Civil" realizados en el extranjero con nacionales 2.790
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+XIII.- Por autorización de Matrimonio entre extranjeros 13.950
 
 XIV.- Por autorizaciones de Matrimonio entre extranjeros con nacionales 9,000
 
@@ -591,37 +599,101 @@ XVII.- Complementación de actas del Registro Civil 1,000
 
 XVIII.- Por solicitud de actas o constancias que obran en las oficinas registradoras de otras Entidades Federativas 2,700
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-XIX.- Por la autorización y registro correspondiente para prestar servicios privados de seguridad 100.000
+XIX.- Por la prestación de servicios relacionados con la autorización para la operación y vigilancia de empresas de seguridad privada, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+a).- Por el estudio y trámite de la solicitud para la autorización 97.625
 
-XX.- Por la revalidación anual de los servicios privados de seguridad 400.000
+b).- Por el otorgamiento de la autorización para prestar los servicios de vigilancia en inmuebles 97.625
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+c).- Por el otorgamiento de la autorización para prestar los servicios de traslado y custodia de bienes y valores 125.520
 
-XXI.- Por trámite de permiso para constituir sociedades, asociaciones y modificaciones de estatutos 2.500
+d).- Por el otorgamiento de la autorización para prestar los servicios de traslado y protección de personas 97.625
 
-XXII.- (DEROGADA, P.O. 5 DE ENERO DE 1999)(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1999)
+e).- Por el otorgamiento de la autorización para prestar los servicios de localización e información sobre personas físicas o morales y bienes 55.785
 
-XXIII.- (DEROGADA, P.O. 5 DE ENERO DE 1999)(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1999)
+f).- Por el otorgamiento de la autorización para prestar los servicios de establecimiento y operación de sistemas y equipos de seguridad 83.680
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+g).- Por cada actividad distinta a las anteriores relacionada y vinculada directamente con los servicios de seguridad privada 125.520
 
-XXIV.- Anuencia para palenques de gallos 75.000
+h).- Por el otorgamiento de la revalidación o renovación anual para el servicio de vigilancia en inmuebles:
 
-> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
+1.- Prestadoras con nómina de 1 a 25 elementos 125.520
 
-XXV.- Anuencia para compra-venta, transporte, manejo, almacenamiento de explosivos y juegos pirotécnicos 9,000
+2.- Prestadoras con nómina de 26 a 50 elementos 167.360
+
+3.- Prestadoras con nómina de 51 a 100 elementos 251.045
+
+4.- Prestadoras con nómina de 101 a 200 elementos 348.675
+
+5.- Prestadoras con nómina de 201 en adelante 418.410
+
+i).- Por el otorgamiento de la revalidación o renovación anual para el servicio de traslado y custodia de bienes o valores 348.675
+
+j).- Por el otorgamiento de la revalidación o renovación anual para el servicio de traslado y protección de personas 139.470
+
+k).- Por el otorgamiento de la revalidación o renovación anual para el servicio de localización en información sobre personas físicas o morales y bienes 111.575
+
+l).- Por el otorgamiento de la revalidación o renovación anual para el servicio de establecimiento y operación de sistemas y equipos de seguridad 125.520
+
+m).- Por el otorgamiento de la revalidación o renovación anual de cada actividad distinta a las anteriores relacionada y vinculada directamente con los servicios de seguridad privada 125.520
+
+n).- Por la inscripción del personal en el registro de la Secretaría General de Gobierno, por cada elemento que se inscriba 0.835
+
+ñ).- Por la consulta de antecedentes laborales de cada elemento 0.418
+
+o).- Por la expedición de la credencial única de personal o por su resello anual 0.555
+
+p).- Por cambio de representante legal de la prestadora 55.785
+
+q).- Por cada cambio en la titularidad de las acciones o partes sociales de la prestadora 55.785
+
+r).- Por la ampliación o cambio de la modalidad del servicio:
+
+1.- Por prestar los servicios de vigilancia en inmuebles 97.625
+
+2.- Por prestar los servicios de traslado y custodia de bienes y valores 125.520
+
+3.- Por prestar los servicios de traslado y protección de personas 97.625
+
+4.- Por prestar los servicios de localización e información sobre personas físicas o morales y bienes 55.785
+
+5.- Por prestar los serv. de establecimiento y operación de sistemas y equipos de seguridad 83.680
+
+6.- Por cada actividad distinta a las anteriores relacionada y vinculada directamente con los servicios de seguridad privada 125.520
+
+s).- Por cada curso de capacitación básico, por cada elemento del personal operativo 6.970
+
+XX.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+XXI.- Por trámite de permiso para constituir sociedades, asociaciones y modificaciones de estatutos 3.000
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+XXII.- Anuencia para la realización de peleas de Gallos, por día 10.000
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+XXIII.- Anuencia para la realización de carreras de caballos, por día 10.000
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+XXIV.- Anuencia para la instalación y operación de palenque de gallos 150.000
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+XXV.- Anuencia para compra-venta, transporte, manejo y almacenamiento de explosivos y juegos pirotécnicos 16.740
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 XXVI.- Otras anuencias, por día 3.830
 
-> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-XXVII.- Expedición de acuerdos de Programas Parciales de Urbanización 2.000
+XXVII.- Expedición de acuerdos de Programas Parciales de Urbanización 2.790
 
 > <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
 
@@ -739,19 +811,23 @@ Los derechos que establece esta fracción deberán cubrirse dentro de los 30 dí
 
 En el caso de cesión o traspaso de la concesión, si ésta se realiza entre cónyuges y ascendientes o descendientes en línea recta en primer grado, se pagará el 20% de la cuota que corresponda a los incisos anteriores.
 
-III.- Por revalidación de concesión de vehículos de sitio, ruta y aquellos cuya prestación este sujeta a contrato de arrendamiento, anualmente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+III.- Por revalidación de concesión de vehículos de sitio, ruta y aquellos cuya prestación esté sujeta a contrato de arrendamiento, anualmente:
 
-a).- Por cada vehículo de sitio y escuelas de manejo 14.000
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+a).- Por cada vehículo de sitio y escuelas de manejo 16.000
 
-b).- Por cada vehículo de ruta 15.000
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+b).- Por cada vehículo de ruta 16.000
 
 c).- Por cada vehículo cuya prestación este sujeta a contrato de arrendamiento puro 35.100
 
-d).- Por cada vehículo que preste servicio de materialista, carga y turismo 15.000
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+d).- Por cada vehículo que preste servicio de materialista, carga y turismo 16.000
 
 e).- Por cada vehículo exclusivo funerario 16.200
 
@@ -759,9 +835,9 @@ e).- Por cada vehículo exclusivo funerario 16.200
 
 f).- Motocarro o motocicleta de carga, para servicio turístico o para arrendamiento 4.000
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-g).- Por cada vehículo de transporte de agua 10.000
+g).- Por cada vehículo de transporte de agua 11.000
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -803,9 +879,9 @@ V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2000)
 
 VI.- Por la expedición de permisos provisionales:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-a).- Para manejar vehículos, por el primer permiso de dos meses 5.000
+a).- Para manejar vehículos, por el primer permiso de 6 meses 5.000
 
 1.- Por cada permiso subsiguiente, por el mismo concepto 3.200
 
@@ -881,19 +957,9 @@ Por los servicios prestados en la Dirección del Registro Público de la Propied
 
 Número de días de salario mínimo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-I.- Inscripción de documentos públicos o privados de cualquier clase, mediante los cuales se adquiera, trasmita, modifique o extinga la propiedad o posesión de inmuebles, o se constituya el régimen de propiedad en condominio, sobre el valor que resulte mayor entre: el de operación, el catastral vigente en el ejercicio fiscal en que se solicite el servicio y el de avalúo bancario actualizado:
-
-a).- Cuando el valor sea de hasta 3,814 días de salario mínimo 5.000
-
-b).- Cuando el valor se encuentre entre los 3,815 y los 4,964 días de salario mínimo 8.000
-
-c).- Cuando el valor esté entre los 4,965 y 6,116 días de salario mínimo 12.000
-
-d).- Cuando el valor sea mayor de 6,116 días de salario mínimo, el 0.4%, sin que el mínimo sea inferior a 25.000
-
-II.- Por la inscripción de contratos de fideicomiso de cualquier tipo, sobre el valor de los bienes fideicomitidos que resulte mayor entre el de operación, el catastral y el de avalúo bancario actualizados, se cobrará:
+I.- Inscripción de documentos públicos o privados de cualquier clase, mediante los cuales se adquiera, trasmita, modifique o extinga la propiedad o posesión de inmuebles, o se constituya el régimen de propiedad en condominio, sobre el valor que resulte mayor entre: el de operación, el catastral vigente en el ejercicio fiscal en que se solicite el servicio y el de avalúo comercial actualizado:
 
 a).- Cuando el valor sea de hasta 3,814 días de salario mínimo 5.000
 
@@ -901,17 +967,47 @@ b).- Cuando el valor se encuentre entre los 3,815 y los 4,964 días de salario m
 
 c).- Cuando el valor esté entre los 4,965 y 6,116 días de salario mínimo 12.000
 
-d).- Cuando el valor sea mayor de 6,116 días de salario mínimo, el 0.4%, sin que el mínimo sea inferior a 25.000
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-III.- Inscripción de contratos de arrendamiento puro, de arrendamiento financiero, o de cualquier otro tipo, sobre el monto total de las rentas pactadas durante el período de vigencia del contrato, se pagará la tasa del 0.4%, sin que el mínimo sea inferior a 5.000
+d).- Cuando el valor sea mayor de 6,116 días de salario mínimo, el 0.2 %, sin que el mínimo sea inferior a 16.000
 
-IV.- Inscripción de gravámenes de cualquier tipo, sobre el monto del adeudo o garantía, el 0.4%, sin que el mínimo sea inferior a 5.000
+ni el máximo superior a 2,162.00
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-Si el gravamen afecta propiedades inmuebles ubicadas también en otras entidades federativas, el derecho a pagar será proporcional al valor de los inmuebles ubicados en el estado. Cuando no se conozca el valor o la proporción real de éstos, la base para la determinación del derecho será el valor catastral de los inmuebles gravados ubicados en el estado de Colima, en cuyo caso se aplicará la tasa del 0.6%.
+II.- Por la inscripción de contratos de fideicomiso de cualquier tipo, sobre el valor de los bienes fideicomitidos que resulte mayor entre el de operación catastral y el de avalúo bancario actualizados, se cobrará:
 
-V.- Por la inscripción de la escritura constitutiva de sociedades mercantiles, del capital social o de los incrementos al mismo, sobre el monto del capital social o del incremento, se causará la tasa del 0.4%, sin que el mínimo sea inferior a Para las sucursales de las sociedades se tomará como base el capital asignado a ellas 5.000
+a).- Cuando el valor sea de hasta 3,814 días de salario mínimo 5.000
+
+b).- Cuando el valor se encuentre entre los 3,815 y los 4,964 días de salario mínimo 8.000
+
+c).- Cuando el valor esté entre los 4,965 y 6,116 días de salario mínimo 12.000
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+d).- Cuando el valor sea mayor de 6,116 días de salario mínimo, el 0.2 %, sin que el mínimo sea inferior a 16.000
+
+ni el máximo superior a 2,162.00
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+III.- Inscripción de contratos de arrendamiento puro, de arrendamiento financiero, o de cualquier otro tipo, sobre el monto total de las rentas pactadas durante el período de vigencia del contrato, se pagará la tasa del 0.2%, sin que el mínimo sea inferior a 5.000
+
+ni el máximo superior a 135.000
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+IV.- Inscripción de gravámenes de cualquier tipo, sobre el monto del adeudo o garantía, el 0.2%, sin que el mínimo sea inferior a 5.000
+
+ni el máximo superior 540.00
+
+Si el gravamen afecta propiedades de inmuebles ubicadas también en otras entidades federativas, el derecho a pagar será proporcional al valor de los inmuebles ubicados en el estado. Cuando no se conozca el valor o la proporción real de éstos, la base para la determinación del derecho será el valor catastral de los inmuebles gravados ubicados en el estado de Colima, en cuyo caso se aplicará la tasa del 0.3%, o en su caso el mínimo o máximo señalado en el párrafo anterior.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+V.- Por la inscripción de la escritura constitutiva de sociedades mercantiles, del capital social o de los incrementos al mismo, sobre el monto del capital social ya sea fijo o variable o del incremento, se causará la tasa del 0.2%, sin que el mínimo sea inferior a 5.000
+
+ni el máximo superior a 540.000
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
@@ -921,7 +1017,11 @@ Cuando se presente para su inscripción una escritura o protocolización de acta
 
 Lo dispuesto en el párrafo anterior es aplicable también para la fracción siguiente.
 
-VI.- Por la inscripción de la escritura constitutiva de sociedades o asociaciones civiles, del capital social o de los incrementos al mismo, sobre el monto del capital social o del incremento, se cobrará el 0.4%, sin que el mínimo sea inferior a 5.000
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+VI.- Por la inscripción de la escritura constitutiva de sociedades o Asociaciones civiles, del capital social o de los incrementos al mismo, sobre el monto del capital social ya sea fijo o variable o del incremento, se cobrará el 0.2 %, sin que el mínimo sea inferior a 5.000
+
+ni el máximo superior a 135.000
 
 VII.- Inscripción de las modificaciones a la escritura constitutiva de las sociedades o asociaciones de cualquier tipo, que no se refieran a aumento de capital social 5.000
 
@@ -941,7 +1041,9 @@ f).- Cuando el monto de la operación esté entre 3,815 y 4,964 días de salario
 
 g).- Cuando el monto de la operación esté entre los 4,965 y 6,477 días de salario mínimo 12.000
 
-h).- Cuando el valor de la operación sea mayor al equivalente de 6,477 días de salario mínimo, se pagará sobre el monto del crédito, el 0.25%
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+h).- Cuando el valor de la operación sea mayor al equivalente de 6,477 de salario mínimo, se pagará sobre el monto del crédito, el 0.125%, sin que el máximo sea superior a 270.000
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -955,7 +1057,9 @@ k).- Además de los derechos de inscripción que correspondan de acuerdo con los
 
 En el caso de inscripción de créditos destinados a fraccionar, urbanizar o construir varios lotes a la vez, el pago se realizará por cada lote.
 
-IX.- Por la inscripción de la constitución del patrimonio de la familia y de las informaciones ad-perpetuam, se pagará la tasa del 0.4% sobre el valor que resulte mayor entre el catastral y el de avalúo bancario, sin que el mínimo sea sea (sic) inferior a 5.000
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+IX.- Por la inscripción de la constitución del patrimonio de la familia y de las informaciones ad-perpetuam, se pagará la tasa del 0.2 % sobre el valor que resulte mayor entre el catastral y el de avalúo bancario, sin que el mínimo sea inferior a 5.000
 
 X.- Inscripción de compraventa de bienes muebles, sobre el valor de la operación, el 0.2%, sin que el importe del derecho sea menor de 5.000
 
@@ -993,13 +1097,25 @@ b).- Por la liquidación 3.689
 
 c).- Por la disolución y liquidación, cuando se hubieran realizado en un solo acto 5.398
 
-d).- Si como consecuencia de la liquidación de la sociedad se adjudican bienes inmuebles, los derechos se causarán sobre el valor de los que se adjudiquen a los socios o a terceros, aplicando la tasa del 0.4%, sin que el mínimo sea inferior a 5.000
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+d).- Si como consecuencia de la liquidación de la sociedad se adjudican bienes inmuebles, los derechos se causarán sobre el valor de los que se adjudiquen a los socios o a terceros, aplicando la tasa del 0.2 %, sin que el mínimo sea inferior a 5.000
+
+ni el máximo superior a 540.000
 
 XV.- Inscripción de la fusión y escición (sic) de sociedades mercantiles:
 
-a).- Por la fusión, sobre el monto del capital fusionado, el 0.3%, sin que se pague menos de 5.000
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-b).- Por la escición (sic), sobre el monto del capital social de las empresas escindidas, el 0.3%, sin que se pague menos de 5.000
+a).- Por la fusión, sobre el monto del capital fusionado, el 0.2%, sin que se pague menos de 5.000
+
+ni el máximo superior 540.000
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+b).- Por la escisión, sobre el monto del capital social de las empresas escindidas, el 0.2%, sin que se pague menos de 5.000
+
+ni el máximo superior a 540.000
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
@@ -1027,13 +1143,15 @@ XVIII.- Inscripción de resoluciones judiciales en que se declare una quiebra o 
 
 XIX.- Inscripción de modificaciones o rectificaciones de superficie de predios, así como de las medidas y colindancias registradas en el folio o libro correspondiente:
 
-a).- Cuando se incremente la superficie, se cobrará la tasa del 0.4% sobre el valor catastral actualizado de la superficie aumentada, sin que el mínimo a pagar sea inferior a 5.000
+> <small>(REFORMADO P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+a).- Cuando se incremente la superficie, se cobrará la tasa del 0.2% sobre el valor catastral actualizado de la superficie aumentada, sin que el mínimo a pagar sea inferior a 5.000
 
 b).- Cuando disminuya la superficie o simplemente se modifiquen las medidas y colindancias 5.000
 
-XX.- Por la inscripción de cualquier otro documento distinto a los señalados en las fracciones I a
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
-XIX, sobre el monto de la operación o del valor consignado, se cobrará la tasa del 0.25%, sin que se pague menos de 5.000
+XX.- Por la inscripción de cualquier otro documento distinto a los señalados en las fracciones I a XIX, sobre el monto de la operación o del valor consignado, se cobrará la tasa del 0.125%, sin que se pague menos de 5.000
 
 > <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
 
@@ -1059,7 +1177,9 @@ c).- Anotaciones preventivas diversas a la prevista en el artículo 32 de la Ley
 
 XXIII.- Cancelación de gravámenes en general y de anotaciones de todo tipo, por cada cancelación o por cada inmueble 3.500
 
-Si se hubiesen otorgado en garantía varios inmuebles ubicados en un mismo fraccionamiento para una misma operación de crédito, a partir de la segunda cancelación el derecho a pagar será de 1.000
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
+
+Si se hubiesen otorgado en garantía varios inmuebles para una misma operación de crédito o que varias operaciones de crédito se hayan garantizado con un solo inmueble, a partir de la segunda cancelación el derecho a pagar será de 1.000
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
@@ -1091,6 +1211,14 @@ b).- Expedición de certificados de existencia o inexistencia de gravámenes:
 
 2.- De once a más años anteriores 2.609
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
+
+b1).- Expedición de certificados de existencia o inexistencia de gravámenes en los Kioscos de Servicios e Información:
+
+1.- Si el predio no tiene gravámenes 2.000
+
+2.- Si el predio tiene gravámenes 3.500
+
 3.- Además de las cuotas señaladas en los incisos anteriores, se pagará por cada gravamen o limitación de dominio inscrito 0.310
 
 c).- Expedición de certificados de no inscripción de propiedad 1.619
@@ -1101,103 +1229,103 @@ e).- Expedición mecanografiada de constancias de registro, por cada hoja escrit
 
 f).- Expedición de constancias en copias fotostáticas certificadas:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
 1.- Escrituras privadas:
 
-1.1.- compraventa 5.000
+1.1.- compraventa 2.500
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
 2.- Escrituras públicas:
 
-2.1.- compraventa 6.500
+2.1.- compraventa 3.250
 
-2.2.- compraventa e Hipoteca 12.500
+2.2.- compraventa e Hipoteca 6.250
 
-2.3.- Adjudicación de herencia 8.500
+2.3. Adjudicación de herencia 4.250
 
-2.4.- Donación 5.000
+2.4.- Donación 2.250
 
-2.5.- Condominio 60.500
+2.5.- Condominio 30.250
 
-2.6.- Rectificación de escritura 2.500
+2.6.- Rectificación de escritura 1.250
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
 3.- Documentos generales:
 
-3.1.- Embargo judicial 4.500
+3.1.- Embargo judicial 2.250
 
-3.2.- Contrato refaccionario 19.500
+3.2.- Contrato refaccionario 9.750
 
-3.3.- Contrato de sociedad mercantil 9.500
+3.3.- Contrato de sociedad mercantil 4.750
 
-3.4.- Contrato de sociedad civil 9.500
+3.4.- Contrato de sociedad civil 4.750
 
-3.5.- Protocolización de acta de asamblea 4.500
+3.5.- Protocolización de acta de asamblea 2.250
 
-3.6.- Contrato de mutuo 4.500
+3.6.- Contrato de mutuo 2.250
 
-3.7.- Contrato de apertura de crédito 8.500
+3.7.- Contrato de apertura de crédito 4.250
 
-3.8.- Contrato de crédito simple 12.000
+3.8.- Contrato de crédito simple 6.000
 
-3.9.- Contrato de crédito de habilitación o avío 5.500
+3.9.- Contrato de crédito de habilitación o avío 2.750
 
-3.10.- Cancelación 2.500
+3.10.- Cancelación 1.250
 
-3.11.- Otros no especificados 5.000
+3.11.- Otros no especificados 2.500
 
 g).- Expedición de copias fotostáticas simples de constancias de registro:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
 1.- Escrituras privadas:
 
-1.1.- compraventa 1.000
+1.1.- compraventa 0.500
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
 2.- Escrituras públicas:
 
-2.1.- compraventa 1.000
+2.1.- compraventa 0.500
 
-2.2.- compraventa e Hipoteca 2.000
+2.2.- compraventa e Hipoteca 1.000
 
-2.3.- Adjudicación de herencia 1.500
+2.3.- Adjudicación de herencia 0.750
 
-2.4.- Donación 1.000
+2.4.- Donación 0.500
 
-2.5.- Condominio 9.000
+2.5.- Condominio 4.500
 
-2.6.- Rectificación de escritura 0.500
+2.6.- Rectificación de escritura 0.250
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
 3.- Documentos generales:
 
-3.1.- Embargo judicial 1.000
+3.1.- Embargo judicial 0.500
 
-3.2.- Contrato refaccionario 3.000
+3.2.- Contrato refaccionario 1.500
 
-3.3.- Contrato de sociedad mercantil 1.500
+3.3.- Contrato de sociedad mercantil 0.750
 
-3.4.- Contrato de sociedad civil 1.500
+3.4.- Contrato de sociedad civil 0.750
 
-3.5.- Protocolización de acta de asamblea 1.000
+3.5.- Protocolización de acta de asamblea 0.500
 
-3.6.- Contrato de mutuo 1.000
+3.6.- Contrato de mutuo 0.500
 
-3.7.- Contrato de apertura de crédito 1.000
+3.7.- Contrato de apertura de crédito 0.500
 
-3.8.- Contrato de crédito simple 2.000
+3.8.- Contrato de crédito simple 1.000
 
-3.9.- Contrato de crédito de habilitación o avío 1.000
+3.9.- Contrato de crédito de habilitación o avío 0.500
 
-3.10.- Cancelación 0.500
+3.10.- Cancelación 0.250
 
-3.11.- Otros no especificados 2.000
+3.11.- Otros no especificados 1.000
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -1559,45 +1687,45 @@ más, por cada lote producto de la relotificación 2.000
 
 más, por cada lote producto de la relotificación 1.000
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-4.- Mixto de barrio densidad baja 60.000
+4.- Mixto de barrio intensidad baja 60.000
 
 más, por cada lote producto de la relotificación 3.000
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-5.- Mixto de barrio densidad media 45.000
+5.- Mixto de barrio intensidad media 45.000
 
 más, por cada lote producto de la relotificación 2.500
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-6.- Mixto de barrio densidad alta 30.000
+6.- Mixto de barrio intensidad alta 30.000
 
 más, por cada lote producto de la relotificación 1.500
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-6A.- Corredor mixto y mixto central intensidad baja 80.000
+6A.- Corredor urbano y mixto central intensidad baja 80.000
 
 más, por cada lote producto de la relotificación 4.000
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-6B.- Corredor mixto y mixto central intensidad media 70.000
+6B.- Corredor urbano y mixto central intensidad media 70.000
 
 más, por cada lote producto de la relotificación 3.500
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-6C.- Corredor mixto y mixto central intensidad alta 60.000
+6C.- Corredor urbano y mixto central intensidad alta 60.000
 
 más, por cada lote producto de la relotificación 3.000
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-6D.- Corredor mixto y mixto central intensidad máxima 50.000
+6D.- Corredor urbano y mixto central intensidad máxima 50.000
 
 mas, por cada lote producto de la relotificación 2.500
 
@@ -1677,27 +1805,27 @@ más, por cada lote producto de la relotificación 5.000
 
 más, por cada lote producto de la relotificación 3.000
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-15.- Turístico intensidad baja 90.000
+15.- Turístico hotelero intensidad baja 90.000
 
 más, por cada lote producto de la relotificación 5.000
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-16.- Turístico intensidad media 70.000
+16.- Turístico hotelero intensidad media 70.000
 
 más, por cada lote producto de la relotificación 4.000
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-17.- Turístico intensidad alta 50.000
+17.- Turístico hotelero intensidad alta 50.000
 
 más, por cada lote producto de la relotificación 3.000
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-18.- Turístico intensidad mínima 110.000
+18.- Turístico hotelero intensidad mínima 110.000
 
 más, por cada lote producto de la relotificación 6.000
 
@@ -1725,6 +1853,30 @@ más, por cada lote producto de la relotificación 3.500
 
 más, por cada lote producto de la relotificación 3.000
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+20.- Corredor comercial y de servicios intensidad baja 80.000
+
+más, por cada lote producto de la relotificación 8.000
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+21.- Corredor comercial y de servicios intensidad media 70.000
+
+más, por cada lote producto de la relotificación 7.000
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+22.- Corredor comercial y de servicios intensidad baja 65.000
+
+más, por cada lote producto de la relotificación 6.500
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+23.- Corredor comercial y de servicios intensidad máxima 60.000
+
+más, por cada lote producto de la relotificación 6.000
+
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
 
 c).- Para la subdivisión de predios urbanos:
@@ -1741,33 +1893,45 @@ más, por cada lote producto de la subdivisión 2.000
 
 más, por cada lote producto de la subdivisión 1.000
 
-4.- Mixto de barrio, densidad baja 10.000
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+4.- Mixto de barrio, intensidad baja 10.000
 
 más, por cada lote producto de la subdivisión 5.000
 
-5.- Mixto de barrio, densidad media 5.000
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+5.- Mixto de barrio, intensidad media 5.000
 
 más, por cada lote producto de la subdivisión 2.500
 
-6.- Mixto de barrio, densidad alta 3.000
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+6.- Mixto de barrio, intensidad alta 3.000
 
 más, por cada lote producto de la subdivisión 1.500
 
-6A.- Corredor mixto y mixto central, densidad baja 13.000
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+6A.- Corredor mixto y mixto central, intensidad baja 13.000
 
 más, por cada lote producto de la subdivisión 6.500
 
-6B.- Corredor mixto y mixto central, densidad media 10.000
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+6B.- Corredor mixto y mixto central, intensidad media 10.000
 
 más, por cada lote producto de la subdivisión 5.000
 
-6C.- Corredor mixto y mixto central, densidad alta 7.000
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+6C.- Corredor mixto y mixto central, intensidad alta 7.000
 
 más, por cada lote producto de la subdivisión 3.500
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-6D.- Corredor mixto y mixto central intensidad máxima 5.000
+6D.- Corredor mixto y mixto central, intensidad máxima 5.000
 
 Más, por cada lote producto de la subdivisión 2.500
 
@@ -1841,21 +2005,27 @@ más, por cada lote producto de la subdivisión 7.500
 
 más, por cada lote producto de la subdivisión 6.000
 
-15.- Turístico intensidad baja 18.000
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+15.- Turístico hotelero densidad baja 18.000
 
 más, por cada lote producto de la subdivisión 9.000
 
-16.- Turístico intensidad media 14.000
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+16.- Turístico hotelero densidad media 14.000
 
 más, por cada lote producto de la subdivisión 7.000
 
-17.- Turístico intensidad alta 10.000
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+17.- Turístico hotelero densidad alta 10.000
 
 más, por cada lote producto de la subdivisión 5.000
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-18.- Turismo intensidad mínima 22.000
+18.- Turismo hotelero densidad mínima 22.000
 
 más, por cada lote producto de la subdivisión 11.000
 
@@ -1903,6 +2073,10 @@ i).- Edificios Multifamiliares, cuando superen las 20 unidades 10.000
 
 j).- Proyectos de Hotelería cuando superan las 30 habitaciones 25.000
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+En el caso de regularización de subdivisiones, la cuota a pagar será la que resulte de aplicar el factor del 1.50 a la que corresponda de acuerdo con la clasificación de este inciso.
+
 II.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1994)(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1999)
 
 III.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1994)(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1999)
@@ -1929,27 +2103,47 @@ más, por cada unidad que integre el condominio 7.000
 
 más, por cada unidad que integre el condominio 18.000
 
-3.- Industrial 60.000
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-más, por cada condominio o parte en que se integre el condominio 6.000
+3.- Industrial baja y de bajo impacto 40.000
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+más, por cada unidad que integre el condominio 4.000
 
-4.- Turístico, intensidad alta 350.000
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+3A.- Industrial media y de mediano impacto 60.000
+
+más, por cada unidad que integre el condominio 6.000
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+3B.- Industrial alta y de alto impacto 80.000
+
+más, por cada unidad que integre el condominio 8.000
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+4.- Turístico, hotelero densidad alta 350.000
 
 más, por cada unidad que integre el condominio 35.000
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-4A.- Turístico, intensidad media 400.000
+4A.- Turístico, hotelero densidad media 400.000
 
 más, por cada unidad que integre el condominio 40.000
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-4B.- Turístico, intensidad baja 450.000
+4B.- Turístico, hotelero densidad baja 450.000
 
 más, por cada unidad que integre el condominio 45.000
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+4C.- Turístico, hotelera densidad mínima 500.000
+
+más, por cada unidad que integre el condominio 50.000
 
 5.- (DEROGADO, P.O. 5 DE ENERO DE 1999)(REPUBLICADO, P.O. 31 DE DICIEMBRE DE 1999)
 
@@ -1971,35 +2165,231 @@ más, por cada unidad que integre el condominio 23.000
 
 más, por cada unidad que integre el condominio 25.000
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-9.- Corredor comercial y de servicios central, intensidad alta 300.000
+9.- Comercial y de servicios central, intensidad alta 300.000
 
 más, por cada unidad que integre el condominio 30.000
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-10.- Corredor comercial y de servicios central, intensidad media 330.000
+10.- Comercial y de servicios central, intensidad media 330.000
 
 más, por cada unidad que integre el condominio 33.000
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-11.- corredor comercial y de servicios central, intensidad baja 350.000
+11.- Comercial y de servicios central, intensidad baja 350.000
+
+más, por cada unidad que integre el condominio 35.000
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+12.- Comercial y de servicios regional 350.000
 
 más, por cada unidad que integre el condominio 35.000
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-12.- Corredor comercial y de servicios regional 350.000
+13.- Comercial y de servicios central intensidad máxima 250.000
 
-más, por cada unidad que integre el condominio 35.000
+más, por cada unidad que integre el condominio 25.000
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+14.- Mixto de barrio intensidad baja 200.000
+
+más, por cada unidad que integre el condominio 20.000
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+15.- Mixto de barrio intensidad media 85.000
+
+más, por cada unidad que integre el condominio 8.500
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+16.- Mixto de barrio intensidad alta 45.000
+
+más, por cada unidad que integre el condominio 4.500
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+17.- Corredor urbano mixto y mixto central intensidad baja 120.000
+
+más, por cada unidad que integre el condominio 12.000
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+18.- Corredor urbano mixto y mixto central intensidad media 50.000
+
+más, por cada unidad que integre el condominio 5.000
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+19.- Corredor urbano mixto y mixto central intensidad alta 60.000
+
+más, por cada unidad que integre el condominio 6.000
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+20.- Corredor urbano mixto y mixto central intensidad máxima 45.500
+
+más, por cada unidad que integre el condominio 4.500
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+21.- Corredor comercial y de servicios intensidad baja 300.000
+
+más, por cada unidad que integre el condominio 30.000
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+22.- Corredor comercial y de servicios intensidad media 270.000
+
+más, por cada unidad que integre el condominio 27.000
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+23.- Corredor comercial y de servicios intensidad alta 250.000
+
+más, por cada unidad que integre el condominio 25.000
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+24.- Corredor comercial y de servicios intensidad máxima 230.000
+
+más, por cada unidad que integre el condominio 23.000
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+25.- Servicios a la industria y al comercio 250.000
+
+más, por cada unidad que integre el condominio 25.000
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+Artículo 55 A.- Por los servicios prestados en la Dirección de Ecología.
+
+NUMERO DE DIAS DE SALARIO MINIMO
+
+I.- Recepción, evaluación y otorgamiento de la autorización del informe
+
+De factibilidad ambiental en materia de impacto:
+
+1.- Por la recepción y evaluación 20.000
+
+2.- Por el otorgamiento de la autorización 10.000
+
+Estarán exentos del pago de este derecho las personas físicas y morales cuyo capital en la actividad u obra a desarrollar sea menor o igual a 2,850 días de salario mínimo.
+
+II.- Recepción, evaluación y otorgamiento de la autorización de la manifestación de impacto ambiental:
+
+1.- Por la recepción y evaluación:
+
+1.1.- En su modalidad MIA-1 50.000
+
+1.2.- En su modalidad MIA- 2 80.000
+
+2.- Por el otorgamiento de la autorización:
+
+2.1.- En su modalidad MIA-1 20.000
+
+2.2.- En su modalidad MIA-2 40.000
+
+III.- Por la revalidación del dictamen de impacto ambiental:
+
+1.- En su modalidad de informe de factibilidad: 10.000
+
+2. En su modalidad MIA-1 20.000
+
+3.- En su modalidad MIA-2 30.000
+
+IV.- Recepción, evaluación y otorgamiento de la autorización del estudio de riesgo:
+
+1.- Por la recepción y evaluación 50.000
+
+2.- Por el otorgamiento de la autorización 20.000
+
+V.- Por la inscripción y/o refrendo en el Registro Estatal de Prestadores de Servicios que realicen estudios de impacto y riesgo ambiental por cada especialidad, anualmente:
+
+1.- De 1 a 4 especialidades 160.000
+
+2.- De 5 a 8 especialidades 320.000
+
+> <small>(F. DE E., P.O. 11 DE MAYO DE 2002)</small>
+
+VI.- Por la extracción y explotación de minerales o sustancias que constituyen Depósitos de naturaleza pétrea de control estatal, se pagará por cada 100 metros cúbicos de material extraído y/o explotado:
+
+1.- Arena y grava 3.000
+
+2.- Arcillas y balastres 5.000
+
+3.- Materiales preponderantemente de carbono de calcio 5.000
+
+4.- Materiales no especificados.- La cuota la fijará la dependencia prestadora del servicio, tomando en consideración la calidad y tipo de material a explorar.
+
+VII.- Las personas físicas y morales que cuenten con autorización para realizar las actividades a que se refiere la fracción anterior, tendrán las siguientes obligaciones:
+
+1.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas, por conducto de la Recepción de Rentas de su jurisdicción dentro de los quince días siguientes a aquel en que la Dirección de Ecología extienda la autorización correspondiente, anexando a la solicitud copia del documento equivalente que se hubiera presentado para electos del Registro Federal de Contribuyentes.
+
+2.- Pagar los derechos mediante declaración que deberán presentar a más tardar los días 17 de cada mes, por las actividades desarrolladas en el mes inmediato anterior, en las formas aprobadas para tal efecto, en la Receptoría de Rentas de su jurisdicción o ante las oficinas que la Secretaría de Finanzas autorice.
+
+3.- Presentar los avisos de cambio que se produzcan en los datos que debe contener el Registro Estatal de Contribuyentes, dentro de los quince días siguientes a la fecha en que el cambio se efectúe, ante la Receptoría de Rentas de su jurisdicción y en las formas aprobadas para tal efecto.
+
+4.- Proporcionar a las autoridades fiscales, los datos e informes relacionados con este derecho que les sean solicitados dentro del plazo que para ello se fije.
+
+5.- Recibir las órdenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las autoridades fiscales de la Secretaría de Finanzas, todos los documentos e informes que le soliciten para comprobar el cumplimiento de las obligaciones fiscales.
+
+6.- Llevar los libros o registros y expedir documentación comprobatoria de sus ingresos de conformidad con las disposiciones fiscales federales correspondientes.
+
+VIII.- Poda o derribo de árboles:
+
+1.- Especies comerciales e industriales:
+
+1.1.- Por poda 1.000
+
+1.2.- Por derribo:
+
+a).- Arboles hasta 30 cm. de diámetro del fuste principal 2.000
+
+b).- Arboles de 31 hasta 50 cm. de diámetro del fuste principal 3.000
+
+c).- Arboles de 51 hasta 70 cm. de diámetro del fuste principal 6.000
+
+d).- Arboles de 71 hasta 90 cm. de diámetro del fuste principal 10.000
+
+e) Arboles de 91 hasta 120 cm. de diámetro del fuste principal 15.000
+
+f).- Arboles de 121 o más centímetros de diámetro del fuste principal 25.000
+
+2.- Especies en peligro de extinción:
+
+2.1.- Por poda 2.000
+
+2.2.- Por derribo:
+
+a).- Arboles hasta 30 cm. de diámetro del fuste principal 3.000
+
+b).- Arboles de 31 hasta 50 cm. de diámetro del fuste principal 6.000
+
+c).- Arboles de 51 hasta 70 cm. de diámetro del fuste principal 10.000
+
+d).- Arboles de 71 hasta 90 cm. de diámetro del fuste principal 15.000
+
+e).- Arboles de 91 hasta 120 cm. de diámetro del fuste principal 20.000
+
+f).- Arboles de 121 o más centímetros de diámetro del fuste principal 35.000
+
+No se pagará el derecho a que se refiere esta fracción, cuando la Dirección de Ecología dictamine que el árbol cuya poda o derribo se solicita, afecta al equipamiento urbano o a la propiedad del solicitante.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO VIII. Servicios Prestados en el Poder Judicial
 
 ### CAPITULO IX. Otros Derechos
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 56.
 
@@ -2147,69 +2537,69 @@ Numero de días de salario mínimo
 
 UNIDADES DEPORTIVAS
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-I.- Entrada general 0.046
+I.- Entrada general 0.060
 
-(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000) (F. DE E., P.O. 13 DE ENERO DEL 2001)
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-II.- Cancha de frontenis, por persona 0.100
+II.- Cancha de frontenis, por persona 0.105
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-III.- Cancha de voleibol y basquetbol con iluminación artificial, por hora 0.430
+III.- Cancha de voleibol y basquetbol con iluminación artificial, por hora 0.526
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-IV.- Alberca, por niño 0.046
+IV.- Alberca, por niño 0.065
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-V.- Alberca, por adulto 0.215
+V.- Alberca, por adulto 0.263
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-VI.- Cancha de tenis, por hora y por persona adulta 0.305
+VI.- Cancha de tenis, por hora y por persona adulta 0.315
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-VII.- Cancha de tenis, por hora con iluminación artificial y por persona adulta 0.428
+VII.- Cancha de tenis, por hora con iluminación artificial y por persona adulta 0.473
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-VIII.- Cancha de Squash, con iluminación artificial por persona adulta 0.428
+VIII.- Cancha de Squash, con iluminación artificial por persona adulta 0.473
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-IX.- Cancha de squash, por hora y por persona adulta 0.245
+IX.- Cancha de squash, por hora y por persona adulta 0.263
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-X.- Campo de futbol, por partido con iluminación artificial 3.970
+X.- Campo de futbol, por partido con iluminación artificial 4.184
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-XI.- Campo de futbol, por partido sin iluminación artificial 1.070
+XI.- Campo de futbol, por partido sin iluminación artificial 1.315
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-XII.- Campo de beisbol, sin iluminación artificial, por partido 1.070
+XII.- Campo de beisbol, sin iluminación artificial, por partido 1.315
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-XIII.- Tenis de mesa, por hora y por persona 0.107
+XIII.- Tenis de mesa, por hora y por persona 0.131
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-XIV.- Auditorio, por partido de voleibol y basquetbol 3.699
+XIV.- Auditorio, por partido de voleibol y basquetbol 3.947
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 XV.- Gimnasio de fisicoculturismo, por mes por persona 2.140
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-XVI.- Gimnasio de fisicoculturismo, por día por persona 0.152
+XVI.- Gimnasio de fisicoculturismo, por día por persona 0.171
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
@@ -2224,6 +2614,10 @@ ESTADIO COLIMA
 XIX.- Campo de futbol, por partido 1.799
 
 En el caso de las fracciones, VI, VII y IX, se cobrará a los menores un 50% de las cuotas establecidas.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+Los ingresos que se obtengan de los diversos conceptos establecidos en el presente artículo, serán destinados integramente a la conservación y mejoramiento físico de las instalaciones de las unidades deportivas Morelos y Rey Coliman y del Estadio Colima.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
@@ -2261,11 +2655,13 @@ V.- Ingreso a la Zona de Bosque 0.045
 
 ### CAPITULO UNICO
 
+### CAPITULO UNICO
+
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
 
 Artículo 70 A.- Son recursos federalizados los que obtengan el Estado del Gobierno Federal, de conformidad con la Ley de Coordinación Fiscal, el Presupuesto de Egresos de la Federación y los acuerdos y convenios que al efecto se celebren.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 5 DE ENERO DE 1999)</small>
 
 ### CAPITULO UNICO
 
@@ -2291,7 +2687,7 @@ a).- Por la primera hoja 0.674
 
 b).- Por cada hoja más o fracción 0.135
 
-III.- Registro y diligencia de exhortos 0.720
+III.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
@@ -2303,7 +2699,7 @@ IV.- Copias certificadas de sentencias 1.350
 
 ###### Artículo 64.
 
-Por otros servicios prestados en las Dependencias del Gobierno del Estado:
+Por otros Servicios prestados en las dependencias del Gobierno del Estado:
 
 número de días
 
@@ -2333,7 +2729,11 @@ b).- Por cada hoja más o fracción 0.270
 
 II.- Servicios de vigilancia e inspección de Obra Pública:
 
-a).- Los contratistas que celebren contratos de obra pública o de servicios relacionados con la misma con cualquier dependencia del Gobierno del Estado, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de trabajo; dichos importes serán retenidos por las dependencias que efectúen los pagos a los contratistas, las cuales deberán enterar los importes retenidos a la Receptoría de Rentas correspondiente, dentro de los primero cinco días hábiles del mes siguiente a aquel en que se efectúe la retención
+a).- Los contratistas que celebren contratos de obra pública o de servicios relacionados con la misma con cualquier dependencia del Gobierno del Estado, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de trabajo; dichos importes serán retenidos por las dependencias que efectúen los pagos a los contratistas, las cuales deberán enterar los importes retenidos a la Receptoría de Rentas correspondiente, dentro de los primero cinco días hábiles del mes siguiente a aquel en que se efectúe la retención.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+III.- Información diversa no certificada expedida en los Kioscos de servicios e información de gobierno, por cada hoja.
 
 ## TITULO TERCERO. DE LOS DERECHOS DE COOPERACION Y DE LAS CONTRIBUCIONES DE MEJORAS
 
@@ -2376,8 +2776,6 @@ Para la determinación de los montos de los productos a que se refiere este tít
 Estarán exentas del pago de productos, las publicaciones que se hagan en el Periódico Oficial a solicitud de los Gobiernos Federal, Estatal o Municipales, siempre que se trate de asuntos oficiales que estén comprendidos dentro de la esfera de sus atribuciones.
 
 ## TITULO SEXTO. DE LAS PARTICIPACIONES
-
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 5 DE ENERO DE 1999)</small>
 
 ###### Artículo 69.
 
@@ -2427,11 +2825,11 @@ XIII.- Otros ingresos no especificados.
 
 ## TITULO SEXTO BIS. DE LOS RECURSOS FEDERALIZADOS
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE ENERO DE 1999)</small>
-
 ###### Artículo 70.
 
 Son participaciones las que obtenga el Estado de la Federación, de conformidad con la Ley de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE ENERO DE 1999)</small>
 
 ## TITULO SEPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
 
@@ -2640,3 +3038,17 @@ El presente decreto entrará en vigor el día primero de enero del año 2001, pr
 P.O. 2 DE JUNIO DE 2001.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE DICIEMBRE DE 2001.
+
+###### ARTICULO PRIMERO.
+
+Los contribuyentes del Impuesto Sobre Ejercicio de Profesiones no estarán obligados a presentar la declaración del ejercicio fiscal 2001, siendo por lo tanto optativa su presentación.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos del ajuste monetario en el pago de las contribuciones a que se refiere el artículo segundo transitorio del decreto de reformas a la Ley de Hacienda del Estado, publicado en el Periódico Oficial "El Estado de Colima" el 31 de diciembre de 1997 y en el caso concreto de los derechos que se causan por los servicios prestados en los Kioscos de Servicios e Información de Gobierno, durante el año 2002 el monto se ajustará a la decena de pesos inferior más próxima.
+
+###### ARTICULO TERCERO.
+
+El presente decreto entrará en vigor el día 1°. de enero de 2002, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
