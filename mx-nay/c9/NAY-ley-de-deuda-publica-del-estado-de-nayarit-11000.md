@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-deuda-publica-del-estado-de-nayarit-11000"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-20"
-last_updated: "1996-08-07"
+last_updated: "2002-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2002.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 20 de diciembre de 1995.
 
@@ -391,23 +391,23 @@ Los ingresos que generen de manera directa las obras materia del endeudamiento, 
 
 La inscripción en el Registro de Deuda Pública Estatal de las obligaciones directas, indirectas o contingentes a cargo de los Municipios, confiere a los acreedores, en caso de incumplimiento de los deudores, el derecho a que sus créditos se cubran con cargo a los ingresos municipales en gravámenes y fondos federales repartibles que deba entregarle el Estado.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 40.
 
-En caso de incumplimiento de pago y para efecto de garantizar a los acreedores, las amortizaciones vencidas de los créditos otorgados con garantía de participaciones en ingresos federales por parte de las entidades referidas en el artículo 2o.; el Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, constituirá un fideicomiso como fuente alterna de pago, misma que se contratará con la institución fiduciaria del sistema bancario nacional, y en el cual se señalarán los procedimientos de pago en caso de incumplimiento por parte de las entidades deudoras.
+Para efecto de dar cumplimiento puntual y oportuno a los financiamientos que tengan como medio de pago las participaciones en Ingresos Federales por parte de las entidades referidas en el artículo 2º., el Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, constituirá un fideicomiso de administración y pago de los financiamientos, mismo que se contratará con institución fiduciaria del sistema bancario nacional.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 41.
 
-El fideicomiso señalado en el artículo anterior, se constituirá con los ingresos que por concepto de participaciones en ingresos federales, correspondan al Estado y sus Municipios.
+El fideicomiso señalado en el artículo anterior, se constituirá con el porcentaje de los ingresos que por concepto de participaciones en ingresos federales, correspondan al Estado y sus Municipios y que resulte suficiente para el cumplimiento oportuno de las obligaciones financieras a su cargo.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 42.
 
-La Secretaría de Finanzas, será el órgano encargado de vigilar el correcto funcionamiento del fideicomiso de fuente alterna de pago.
+La Secretaría de Finanzas, será la dependencia encargada de vigilar el correcto funcionamiento del fideicomiso de administración y pago.
 
 TRANSITORIOS:
 
@@ -444,3 +444,9 @@ Lic. Sigfrido de la Torre Miramontes.
 P.O. 7 DE AGOSTO DE 1996.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Organo de Gobierno del Estado.
+
+P.O. 26 DE OCTUBRE DE 2002
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial, Organo de Gobierno del Estado.
+
+SEGUNDO.- Se abrogan todas aquellas disposiciones que se opongan a lo dispuesto en los artículos reformados mediante este decreto.
