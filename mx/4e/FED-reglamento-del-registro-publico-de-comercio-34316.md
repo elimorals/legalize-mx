@@ -1,0 +1,370 @@
+---
+title: "REGLAMENTO DEL REGISTRO PUBLICO DE COMERCIO"
+identifier: "FED-reglamento-del-registro-publico-de-comercio-34316"
+country: "mx"
+rank: "reglamento"
+publication_date: "2003-10-24"
+last_updated: "2003-10-24"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34316&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "34316"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "REGLAMENTO"
+original_gazette_section: "18"
+reform_count: "4"
+scjn_last_update: "2016-12-20"
+issue_date: "2003-10-22"
+---
+# REGLAMENTO DEL REGISTRO PUBLICO DE COMERCIO
+
+REGLAMENTO DEL REGISTRO PUBLICO DE COMERCIO
+
+TEXTO ORIGINAL.
+
+Reglamento publicado en el Diario Oficial de la Federación el viernes 24 de octubre de 2003.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 18 a 32 bis del Capítulo II del Título Segundo del Libro Primero del Código de Comercio; 366, 368, 376 y 378 de la Ley General de Títulos y Operaciones de Crédito, y 34 de la Ley Orgánica de la Administración Pública Federal, he tenido a bien expedir el siguiente
+
+REGLAMENTO DEL REGISTRO PÚBLICO DE COMERCIO
+
+### Capítulo I. Disposiciones Generales
+
+###### ARTÍCULO 1o.
+
+El presente ordenamiento establece las normas reglamentarias a que se sujetará la prestación del servicio del Registro Público de Comercio.
+
+Para efecto de este Reglamento se entiende por:
+
+I. Secretaría: La Secretaría de Economía;
+
+II. Registro: El Registro Público de Comercio;
+
+III. SIGER: El Sistema Integral de Gestión Registral, y
+
+IV. Ley: La Ley General de Títulos y Operaciones de Crédito.
+
+###### ARTÍCULO 2o.
+
+El Registro Público de Comercio tiene por objeto dar publicidad a los actos mercantiles, así como aquellos que se relacionan con los comerciantes y que conforme a la legislación lo requieran para surtir efectos contra terceros. Para la inscripción de los actos mercantiles que conforme a las leyes sean susceptibles de ello, se utilizarán las formas precodificadas que la Secretaría, en términos de lo dispuesto por el artículo 20 del Código de Comercio, dé a conocer mediante publicación en el Diario Oficial de la Federación. Los responsables de las oficinas del Registro, no podrán solicitar otros requisitos distintos a los que se incorporen en dichas formas.
+
+La inscripción de actos a que se refiere este artículo se efectuará en el folio mercantil electrónico, en atención al nombre, denominación o razón social de cada comerciante o sociedad mercantil, el cual comprenderá todos los actos mercantiles relacionados con dicho comerciante o sociedad.
+
+###### ARTÍCULO 3o.
+
+No podrán incorporarse al Registro datos que hagan referencia a ideología, religión o creencias, raza, preferencia sexual, afiliación sindical, estado de salud y toda aquella que no tenga relación directa con la actividad mercantil del comerciante.
+
+Con el objeto de proteger los datos personales asentados en las bases de datos de las oficinas del Registro, la Secretaría establecerá las medidas necesarias que garanticen la seguridad de los mismos y eviten su alteración, pérdida, transmisión y acceso no autorizado.
+
+### Capítulo II. Del procedimiento registral
+
+###### ARTÍCULO 4o.
+
+Para efecto de lo establecido por el artículo 20 del Código de Comercio, el SIGER es el programa informático a través del cual se realizará la captura, almacenamiento, custodia, seguridad, consulta, reproducción, verificación, administración y transmisión de la información del Registro.
+
+###### ARTÍCULO 5o.
+
+Para efecto de lo dispuesto en la fracción II del artículo 21-bis del Código de Comercio, la fase de recepción del procedimiento registral para la inscripción de actos mercantiles se hará de la forma siguiente:
+
+I. Recepción electrónica.- El notario o corredor público autorizado, en términos del artículo 30-bis 1 del Código de Comercio, enviará por medios electrónicos a través del SIGER, la forma precodificada respectiva acompañada del archivo magnético del testimonio, póliza o acta en el que conste el acto a inscribir, o
+
+II. Recepción física.- La persona interesada o su representante, en la ventanilla de recepción de la oficina del Registro que corresponda, en términos del artículo 23 del Código de Comercio, presentará la forma precodificada respectiva acompañada del testimonio, póliza o acta en el que conste el acto a inscribir.
+
+###### ARTÍCULO 6o.
+
+En el caso de la fracción I del artículo anterior, se estará a lo siguiente:
+
+I. La forma precodificada deberá enviarse firmada electrónicamente por el notario o corredor público, acompañada del archivo indicado. El envío al Registro de la forma precodificada presume que el fedatario público se cercioró con anterioridad que se acreditaron los elementos que se requieren para la validez del acto a inscribir, asimismo que tiene bajo su resguardo el instrumento correspondiente, así como la documentación que acredita el cumplimiento de los requisitos respectivos;
+
+II. Para tal efecto el Registro, a través del SIGER, contará con un módulo de pago que el fedatario podrá utilizar para efectuar electrónicamente el entero de los derechos correspondientes, previo al envío de la forma precodificada;
+
+III. Realizado el envío y efectuada la recepción en la oficina del Registro, éste por medio del SIGER, enviará al notario o corredor público una constancia con el número progresivo, fecha y hora en la que se recibió la forma, para determinar la prelación entre derechos sobre dos o más actos que se refieran a un mismo folio mercantil electrónico, para efecto de lo dispuesto en el artículo 21 bis 1 del Código, y
+
+IV. De la fase de recepción se pasará directamente a la de calificación con el registrador o el responsable de oficina, en razón de que el análisis ha sido realizado por el notario o corredor público.
+
+###### ARTÍCULO 7o.
+
+Para efecto del supuesto de la fracción II del artículo 5o. de este Reglamento, se estará a lo siguiente:
+
+I. Se presentará la forma precodificada y el testimonio, póliza o acta correspondiente, en la oficina de Registro acompañada del medio magnético que contenga tales documentos, para que éste a través del SIGER, genere una ficha de control de pago, con la información que identifique el acto a inscribir, el monto de los derechos a pagar, el número de control interno y datos generales de recepción. Acreditado ante el Registro el pago de los derechos señalados en la ficha indicada, se generará una boleta de ingreso en la que constarán los datos referidos y el sello de recepción de la oficina del Registro, misma que servirá al interesado para determinar la prelación entre derechos sobre dos o más actos que se refieran a un mismo folio mercantil electrónico, para efecto de lo dispuesto en el artículo 21 bis 1 del Código de Comercio, y
+
+II. Generada la boleta de ingreso, se turnará la forma precodificada, acompañada del testimonio, póliza, acta y el medio electrónico correspondiente, para continuar la fase de análisis.
+
+###### ARTÍCULO 8o.
+
+Efectuada la recepción de la forma precodificada respectiva el Registro a través del SIGER, publicitará una nota de presentación con efectos de preinscripción, la cual permanecerá hasta en tanto se inscriba, en su caso, el acto en el Registro Público de Comercio, mediante la generación de la firma electrónica correspondiente.
+
+###### ARTÍCULO 9o.
+
+Para efecto de lo dispuesto por la fracción II inciso b) del artículo 21 bis del Código de Comercio, la fase de análisis comprende la revisión de la forma precodificada de un acto mercantil inscribible en el Registro, verificación de la existencia o inexistencia de antecedentes registrales y, en su caso, su captura y preinscripción de dicha información a la base de datos ubicada en la entidad federativa. Esta fase está a cargo del analista cuando se presenta físicamente la forma precodificada acompañada del medio magnético que la contiene, o por el notario o corredor público, en el caso de que haya sido enviada por medios electrónicos a través del SIGER.
+
+###### ARTÍCULO 10.
+
+Para efecto de lo dispuesto por la fracción II inciso c) del artículo 21 bis del Código de Comercio, en la fase de calificación, el responsable de oficina o el registrador recibirá a través del SIGER el acto a procesar, identificándolo por el número de control, la fecha y la hora, y revisará los datos capturados en la fase de análisis, de ser correctos y procedente la inscripción del acto, de acuerdo con las disposiciones legales y reglamentarias vigentes, el responsable de oficina autorizará mediante la generación de la firma electrónica su inscripción en la base de datos, con lo cual se creará en forma definitiva el folio mercantil electrónico correspondiente o se agregará a éste el acto de que se trate. Los subsecuentes actos registrables relativos a un comerciante o sociedad se inscribirán en el folio electrónico generado.
+
+Tratándose de la presentación física, el responsable de oficina o el registrador calificará el acto que se haya presentado para su inscripción dentro de un plazo de diez días hábiles, contados a partir de la recepción de la forma precodificada en la oficina registral. El plazo será de un máximo de dos días hábiles a partir de la recepción de la forma precodificada cuando haya sido enviada a través del SIGER por un notario o corredor público.
+
+En caso de que persistan los defectos u omisiones de los mencionados en el artículo 31 del Código de Comercio, previa fundamentación y motivación, procederá el responsable de oficina o el registrador, en su caso, a la suspensión o denegación en términos del artículo 18 de este Reglamento.
+
+###### ARTÍCULO 11.
+
+La firma electrónica que se utilizará en el procesamiento de los actos registrales conforme a lo previsto en los artículos 21 bis fracción II inciso c) y 30 bis del Código de Comercio, será Avanzada o Fiable; por tanto el uso de los medios de identificación electrónica que certifique la Secretaría, acreditará que los datos de creación de la firma, corresponden exclusivamente al Firmante y que estaban, en el momento de la firma, bajo el control exclusivo de él. La persona autorizada para firmar electrónicamente será el responsable único y final de mantener la confidencialidad de las claves de acceso y contraseñas autorizadas por la Secretaría, por tanto la información registral así firmada le será atribuible.
+
+La certificación de los medios de identificación para firmar electrónicamente la información del Registro lo hará la Secretaría, conforme a los lineamientos que al efecto emita mediante publicación en el Diario Oficial de la Federación
+
+###### ARTÍCULO 12.
+
+La autorización del notario o corredor público para acceder por medios electrónicos a través del SIGER a la base de datos del Registro en la entidad federativa de que se trate, será cancelada por la Secretaría cuando lo haga con fines distintos a los autorizados o si ha revelado la clave privada para el uso de su firma electrónica, independientemente de las demás responsabilidades en que pudieran incurrir.
+
+El notario o corredor público al que le haya sido cancelada su autorización, en términos de lo previsto por el párrafo anterior, quedará impedido para solicitar nueva autorización por el término de dos años, contados a partir de la fecha de publicación correspondiente de la cancelación respectiva, y la Secretaría lo pondrá en conocimiento del gobierno de la entidad federativa de que se trate para que aplique las sanciones correspondientes tratándose de notarios públicos, y hará lo procedente en el caso de corredores públicos.
+
+Lo anterior se entenderá sin perjuicio de que el infractor pueda efectuar la solicitud de inscripción de actos otorgados ante su fe a través del procedimiento físico, en términos de lo previsto por este Reglamento.
+
+###### ARTÍCULO 13.
+
+El monto de la fianza prevista en el artículo 30-bis 1 del Código de Comercio, se aplicará en el orden determinado por la autoridad competente, por la responsabilidad en que pudiera incurrir un notario o corredor público. La Secretaría podrá acordar en los convenios de coordinación que suscriba con las entidades federativas, que las fianzas previstas en el presente artículo se otorguen de manera solidaria por parte de colegios o agrupaciones de notarios o corredores públicos.
+
+###### ARTÍCULO 14.
+
+El notario o corredor público deberá dar aviso a la Secretaría para suspender su acceso a través del SIGER a la base de datos del Registro, en los supuestos y dentro de los términos que a continuación se indican:
+
+I. Por manifestación expresa de su voluntad, al menos con treinta días de anticipación;
+
+II. Por extravío de la clave confidencial de acceso o contraseñas autorizados por la Secretaría; dentro de las 48 horas siguientes a que ocurra el mismo, o
+
+III. Por mediar violencia para el uso de su clave confidencial de acceso o contraseñas autorizadas por la Secretaría, dentro de las 48 horas siguientes a la verificación del hecho violento.
+
+En los supuestos previstos en las fracciones II y III del presente artículo será indispensable que el notario o corredor público presente copia certificada del acta de la denuncia respectiva ante el agente del Ministerio Público.
+
+Recibido el aviso la Secretaría procederá a suspender el acceso por medios electrónicos a través del SIGER y a comunicarlo al gobierno de la entidad, además de mandar a publicarlo en el Diario Oficial de la Federación, según lo establece el artículo 30 bis 1 del Código de Comercio.
+
+En los supuestos previstos en el presente artículo, la información enviada vía remota a través del SIGER con posterioridad al aviso dado por el notario o corredor público, conforme a los plazos señalados en el presente artículo, no producirá los efectos de prelación y se tendrá por no presentada. Excepción hecha del caso previsto en la fracción III, en el cual procederá la cancelación de la inscripción o inscripciones que el Registro hubiera realizado a partir del envío de la solicitud correspondiente y haya mediado la violencia que refiere dicha fracción.
+
+###### ARTÍCULO 15.
+
+Una vez firmado electrónicamente e inscrito el acto en la base de datos de la oficina del Registro en la entidad federativa de que se trate, el mismo Registro, a través del SIGER, emitirá una boleta de inscripción, la que será entregada al interesado previa presentación de la boleta de ingreso, o podrá verificarla e imprimirla a través del SIGER si el notario o corredor público presentó el acto a inscribir usando medios electrónicos.
+
+La impresión de boletas por parte de fedatarios públicos deberá incluir el sello electrónico autorizado por la Secretaría de Economía, a través del SIGER.
+
+###### ARTÍCULO 16.
+
+Los actos inscritos y firmados electrónicamente a través del SIGER deberán ser enviados a la base de datos central de la Secretaría de Economía por medio de un proceso de replicación que deberá realizarse diariamente en aquellas oficinas ya integradas a la Red Nacional del Registro Público de Comercio. Esta replicación deberá hacerse por lo menos una vez a la semana en todas aquellas oficinas que no estén enlazadas a esta red, y podrá realizarse a través de correo electrónico o por el envío físico del respaldo utilizando servicios de mensajería, siempre y cuando se apliquen los mecanismos de seguridad que determine la Secretaría en términos del artículo 18 del Código de Comercio.
+
+###### ARTÍCULO 17.
+
+El responsable de oficina o el registrador denegará la inscripción, en términos de lo dispuesto por las fracciones I y II del artículo 31 del Código de Comercio, notificará al interesado, dentro de los diez días hábiles siguientes a la recepción de la forma precodificada, de la manera siguiente:
+
+I. Por medios electrónicos a través del SIGER, cuando el envío de la forma precodificada y del testimonio, póliza o acta correspondiente se haga en términos del artículo 30-bis 1 del Código de Comercio, al consultar el estado que guarda cada trámite, o
+
+II. Mediante los estrados de la oficina del Registro correspondiente o de su publicación a través del dominio que la Secretaría autorice mediante publicación en el Diario Oficial de la Federación para tal efecto, en cuyo caso se tendrá por notificado a los tres días siguientes de su colocación o publicación.
+
+###### ARTÍCULO 18.
+
+Cuando el responsable de oficina o el registrador suspenda la inscripción en términos de lo previsto por la fracción III del artículo 31 del Código de Comercio, deberá prevenir al interesado, dentro de los cuatro días siguientes a la presentación física o del día hábil siguiente a la presentación vía electrónica de la forma precodificada, mediante notificación, a través de los medios descritos en el artículo anterior y por una sola vez, para que dentro del término de cinco días hábiles siguientes al que surta efectos la notificación subsane la omisión.
+
+Notificada la prevención, se suspenderá el plazo para que el responsable de oficina o el registrador resuelva y se reanudará a partir del día hábil inmediato siguiente a aquel en que el interesado subsane la omisión. En el supuesto de que no se desahogue la prevención en el término señalado, se desechará la solicitud de inscripción.
+
+Si la autoridad no hace el requerimiento de información dentro del plazo señalado, no podrá rechazar la solicitud de inscripción por incompleta.
+
+###### ARTÍCULO 19.
+
+Para los casos de error material o de concepto, previstos en el artículo 32 del Código, el proceso de rectificación a que se refiere su artículo 32 bis, se efectuará mediante el uso de la forma precodificada que determine la Secretaría para tal efecto, la que pasará a formar parte del folio mercantil electrónico correspondiente, a fin de tener por rectificado el error del que se trate. En ningún caso los asientos registrales de las bases de datos del Registro, una vez firmados electrónicamente, podrán ser modificados.
+
+###### ARTÍCULO 20.
+
+Cuando por sentencia ejecutoria que recayere en juicio se resuelva que un acto fue mal calificado para su inscripción o denegación en el Registro, el responsable de oficina deberá hacer la cancelación de la inscripción realizada, o la inscripción de la que se hubiere denegado, en términos de la sentencia a través del SIGER mediante la forma precodificada que determine la Secretaría. Si la autoridad judicial ordena que se inscriba el acto, la inscripción surtirá sus efectos desde la fecha de presentación inicial de la forma precodificada del acto que dio lugar al juicio.
+
+Para tal efecto, la Secretaría impulsará la vinculación por medios electrónicos, a través del propio SIGER, con el Poder Judicial de la Federación y con los tribunales supremos de cada entidad federativa.
+
+### Capítulo III. De las consultas y certificaciones
+
+###### ARTÍCULO 21.
+
+Los actos mercantiles inscritos en las bases de datos de las entidades federativas del Registro son de carácter público, y cualquier persona podrá consultarlas, previo el pago, en su caso, de los derechos correspondientes.
+
+###### ARTÍCULO 22.
+
+Las consultas que se efectúen a las bases de datos del Registro se sujetarán a los siguientes niveles de acceso:
+
+I. Consulta general;
+
+II. Consulta realizada por fedatarios públicos;
+
+III. Consulta realizada por instituciones de crédito, organizaciones auxiliares del crédito, entidades financieras, comercializadoras y demás personas en favor de quienes se constituyan gravámenes sobre un bien mueble, con el objeto de otorgar los créditos;
+
+IV. Consulta realizada por interesados para usos estadísticos, sin proporcionar información individualizada, y
+
+V. Consultas distintas a las señaladas, siempre y cuando la Secretaría autorice expresamente el uso de la información conforme a las leyes y reglamentos aplicables.
+
+Para efecto de lo anterior, se deberá identificar plenamente al usuario que solicita la consulta, así como el derecho que tenga a la información, de conformidad con lo dispuesto por el presente artículo y los lineamientos que establece la Secretaría de conformidad con el artículo 18 del Código de Comercio.
+
+Dichas consultas podrán efectuarse directamente en las oficinas del Registro o a través del SIGER.
+
+###### ARTÍCULO 23.
+
+Para efecto de lo dispuesto en el segundo párrafo del artículo 30 del Código de Comercio, las solicitudes de certificaciones podrán hacerse directamente en las oficinas del Registro o vía remota por medios electrónicos a través del SIGER, tratándose de notarios o corredores públicos autorizados para tal efecto.
+
+###### ARTÍCULO 24.
+
+Para efecto de lo dispuesto por la fracción IV del artículo 20 bis del Código de Comercio, los responsables de las oficinas expedirán las certificaciones de las inscripciones que respecto de un folio electrónico de una sociedad o comerciante obren en la base de datos de la entidad federativa respectiva o de las imágenes del testimonio, póliza, acta o extracto correspondiente.
+
+Las certificaciones pueden ser literales o concretarse a determinados contenidos de las inscripciones de actos existentes en cualquier folio electrónico del Registro.
+
+###### ARTÍCULO 25.
+
+La cancelación de las inscripciones procederá cuando:
+
+I. Se extinga el acto inscrito;
+
+II. Se declare la nulidad del acto inscrito, o
+
+III. Se declare la nulidad de la inscripción.
+
+###### ARTÍCULO 26.
+
+La cancelación de una inscripción puede hacerse por consentimiento de las personas a cuyo favor está hecha, el que se hará constar en instrumento público otorgado ante notario o corredor público, o por resolución judicial. Sin embargo, podrán ser canceladas a petición de parte interesada, sin satisfacer dichos requisitos, cuando el acto inscrito quede extinguido por disposición de ley o por causas que resulten del documento con base en el cual se requisitó la forma precodificada para su inscripción.
+
+### Capítulo IV. De la Base de Datos Central del Registro
+
+###### ARTÍCULO 27.
+
+La Base de Datos Central del Registro estará a cargo del Registrador Mercantil que será designado por el Secretario de Economía.
+
+###### ARTÍCULO 28.
+
+El Registrador Mercantil tendrá como funciones principales las siguientes:
+
+I. Certificar las constancias que se lleguen a expedir de la Base de Datos Central del Registro;
+
+II. Autorizar aquellas inscripciones que deban efectuarse en la Base de Datos Central del Registro;
+
+III. Ejercer las funciones a cargo de la Secretaría señaladas en el Capítulo II del Título Segundo del Libro Primero del Código de Comercio artículo 18 del Código de Comercio, y
+
+IV. Las demás que le encomiende el Secretario de Economía para el cumplimiento de lo dispuesto por el Código de Comercio y este Reglamento con relación al Registro.
+
+###### ARTÍCULO 29.
+
+Para efecto de lo dispuesto por el artículo 20 del Código de Comercio, en los casos en que exista presunción de alteración de la información del Registro, contenida en la base de datos de alguna entidad federativa o sobre cualquier otro respaldo que hubiere, el interesado deberá presentar al Registrador Mercantil la certificación de la oficina del Registro que corresponda, a fin de que éste la coteje con aquella información que obre en la Base de Datos Central y la que sea consultable a través de la interconexión a que se refiere dicho artículo y manifieste si existe o no discrepancia alguna.
+
+Sólo en caso de que exista discrepancia, el Registrador Mercantil emitirá la certificación correspondiente.
+
+### Capítulo V. De la inscripción de Garantías Mobiliarias
+
+###### ARTÍCULO 30.
+
+Para efecto de lo dispuesto en los artículos 366, 368, 376 y 378 de la Ley, la inscripción en el Registro de los actos en los que se haga constar la constitución, modificación, extinción, cesión y las resoluciones judiciales sobre cancelaciones de la prenda sin transmisión de posesión, se efectuará conforme a lo previsto en el presente Capítulo.
+
+###### ARTÍCULO 31.
+
+La forma precodificada respectiva, deberá estar firmada electrónicamente y contener al menos, la siguiente información:
+
+I. El nombre y domicilio del deudor garante y del acreedor garantizado;
+
+II. La descripción de la obligación garantizada y el importe de la garantía;
+
+III. La identificación específica de los bienes pignorados, salvo el caso del artículo 354 de la Ley, y
+
+IV. La fecha de vencimiento de la garantía.
+
+###### ARTÍCULO 32.
+
+La presentación de la forma precodificada firmada electrónicamente se hará, por el deudor o acreedor garantizado a través del SIGER o, en su caso, por el notario o corredor público ante el cual se haya otorgado el acto o ratificado las firmas, a las oficinas del Registro de la entidad federativa correspondiente, de acuerdo al lugar en el que se encuentre ubicado el domicilio del deudor prendario, en términos de lo dispuesto en los artículos 365 y 376 de la Ley.
+
+###### ARTÍCULO 33.
+
+En la inscripción de actos relativos a la prenda sin transmisión de posesión, se estará a lo siguiente:
+
+I. En caso de que el deudor sea persona física se tendrá que verificar en primer lugar si se encuentra registrado y cuenta con un folio mercantil electrónico, en caso contrario antes de iniciar con el procedimiento de inscripción, se matriculará de oficio;
+
+II. Se deberá realizar el pago en línea de los derechos respectivos, para que posteriormente se proceda a la recepción del documento correspondiente;
+
+III. Se continuará con el análisis que no determinará la validez legal del acto a inscribir, sino que se limitará a revisar si la forma presentada contiene los datos requeridos para la inscripción y si el pago realizado es el correcto, y
+
+IV. Se llevará a cabo la calificación del documento, con la que se autorizará en definitiva la inscripción en la base de datos mediante la firma electrónica del responsable de oficina del Registro y finalmente se emitirá la boleta correspondiente.
+
+###### ARTÍCULO 34.
+
+En caso de que se realice una modificación a la inscripción original se tendrá que hacer mediante la forma precodificada correspondiente y conforme al procedimiento señalado en el artículo anterior. La inscripción se modificará en los términos que previamente hayan acordado las partes.
+
+###### ARTÍCULO 35.
+
+La cancelación de la inscripción de una garantía mobiliaria se realizará mediante la presentación de la forma precodificada correspondiente firmada electrónicamente, por el acreedor o en su caso por el fedatario público vía electrónica, o bien por el deudor previa acreditación del pago de la obligación garantizada. Así como en su caso, mediante orden de autoridad judicial o administrativa.
+
+### Capítulo VI. De los responsables de oficinas, registradores, analistas y el Padrón
+
+###### ARTÍCULO 36.
+
+Para ser responsable de oficina o registrador del Registro se requiere contar con habilitación expedida por la Secretaría, la cual sólo se otorgará a quienes reúnan los requisitos siguientes:
+
+I. Ser licenciado en derecho o abogado con título y cédula profesional registrados;
+
+II. Acreditar al menos dos años de experiencia en las materias registral mercantil o inmobiliaria, notarial o de correduría pública;
+
+III. Aprobar el curso de capacitación que establezca la Secretaría en materia del SIGER, y
+
+IV. Gozar de reconocida honorabilidad y no haber sido condenado mediante sentencia ejecutoriada por delitos patrimoniales, informáticos o alteración o falsificación de documentos.
+
+###### ARTÍCULO 37.
+
+La Secretaría llevará un Padrón Nacional de Responsables de Oficina del Registro Público de Comercio con dichas habilitaciones, que incluirá fecha de inicio, periodos de ausencia y la de conclusión de funciones, así como de sus firmas y rúbricas. El Padrón será público e identificará a cada habilitado en atención a su adscripción y al número que le corresponda cuando exista más de un responsable por oficina. La Secretaría acordará con los gobiernos locales un procedimiento para mantener permanentemente actualizado el Padrón.
+
+La Secretaría establecerá el procedimiento que permita llevar a cabo la fase de calificación cuando no haya responsable de oficina habilitado.
+
+###### ARTÍCULO 38.
+
+Para efecto de lo dispuesto en la fracción II del artículo 20 bis del Código de Comercio, registrador es el servidor público auxiliar de la función registral mercantil, que tiene a su cargo examinar y calificar bajo su responsabilidad los documentos que se presenten, para su posterior inscripción en la base de datos mediante la firma electrónica generada por el responsable de oficina habilitado. El cargo de registrador y de responsable de oficina son compatibles.
+
+###### ARTÍCULO 39.
+
+Corresponde al registrador:
+
+I. Realizar un estudio integral de los datos, requisitos y demás información necesaria para la inscripción de los actos mercantiles que les sean turnados para determinar la procedencia de su registro, según resulte de su forma y contenido y de su legalidad en función de los antecedentes registrales preexistentes y de los ordenamientos aplicables;
+
+II. Dar cuenta a su inmediato superior, de los fundamentos y resultados de la calificación, y
+
+III. Cumplir con las demás disposiciones legales, reglamentarias y administrativas aplicables, así como con las instrucciones que le transmita el responsable de la oficina del Registro.
+
+###### ARTÍCULO 40.
+
+El registrador se excusará de ejercer la función de calificar y autorizar el registro de actos, cuando él, su cónyuge, sus parientes por consanguinidad o afinidad en línea recta sin limitación de grado, los consanguíneos en la colateral hasta el cuarto grado inclusive y los de por afinidad en la colateral hasta el segundo grado, tengan algún interés directo o indirecto en el asunto sobre el que verse el acto a calificar, o exista amistad o enemistad manifiesta de dicho registrador, o tengan relación de servicio, sea cual fuere su naturaleza, con las personas físicas o morales interesadas directamente en el asunto. En este caso, la calificación de la inscripción en el registro se hará por el registrador que designe el responsable de la oficina del Registro.
+
+###### ARTÍCULO 41.
+
+El analista es el servidor público responsable de revisar y capturar, la información de la forma precodificada y el testimonio o archivo magnético, póliza o acta correspondiente a un acto mercantil inscribible en el Registro, en los términos previstos en el presente Reglamento.
+
+### Capítulo VII. Del recurso
+
+###### ARTÍCULO 42.
+
+Contra los actos emanados del procedimiento registral establecido en el presente Reglamento, será procedente el recurso de revisión, el cual se desahogará en términos de lo previsto por la Ley Federal de Procedimiento Administrativo.
+
+Cuando la resolución del recurso se refiera a la determinación suspensiva o denegatoria de inscripción y confirme ésta, se cancelará la prelación correspondiente y el acto respectivo será devuelto o puesto a disposición del interesado. En caso de que la determinación sea revocada, el acto se repondrá en el trámite, sin pérdida de la prelación adquirida.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y de acuerdo a lo que se señala en los siguientes artículos.
+
+SEGUNDO.- Se abroga el Reglamento del Registro Público de Comercio, publicado en el Diario Oficial de la Federación el 22 de enero de 1979, y se derogan todas las disposiciones administrativas de carácter general que se opongan al presente Reglamento.
+
+TERCERO.- Los recursos iniciados con anterioridad a la entrada en vigor del presente Reglamento, se substanciarán y resolverán, hasta su total conclusión, conforme a las disposiciones que les fueron aplicables al momento de iniciarse o interponerse.
+
+Los recursos que se interpongan con posterioridad a dicha entrada en vigor se substanciarán y resolverán, hasta su total conclusión, conforme a lo dispuesto por el artículo 42 del presente Reglamento.
+
+CUARTO.- La Secretaría proveerá lo conducente en materia de capacitación en la operación del SIGER al personal de las oficinas del Registro Público de la Propiedad de aquellas entidades federativas que continúen con la prestación del Registro Público de Comercio, particularmente a analistas y registradores o al personal operativo de las oficinas registrales que bajo cualquier otra denominación realicen las funciones de análisis y calificación en los términos previstos por el presente Reglamento.
+
+QUINTO.- La Secretaría dentro del año siguiente a la publicación del presente Reglamento, emitirá los lineamientos para la administración de imágenes en el SIGER, de los testimonios, pólizas o actas en los que constan los actos inscritos en el Registro Público de Comercio.
+
+SEXTO.- La Secretaría expedirá las habilitaciones e integrará el Padrón a que se refieren los artículos 36 y 37 del presente Reglamento, dentro de los nueve meses siguientes a la entrada en vigor de este ordenamiento. Durante este periodo, las autoridades de las entidades federativas que actualmente prestan el servicio del Registro se entenderán habilitadas para dicha función.
+
+SÉPTIMO.- La Secretaría, dentro de los seis meses siguientes a la entrada en vigor del presente Reglamento, notificará a las autoridades de las entidades federativas los casos en que los servidores públicos que han tenido a su cargo la prestación del servicio del Registro, no reúnan los requisitos que para ser habilitados establece el presente ordenamiento, a efecto de que dentro de los dos meses siguientes pueda subsanarse dicha omisión o la autoridad local designe otro servidor público que pueda ser habilitado por la Secretaría como responsable de oficina del registro.
+
+De concluir este último plazo y persistir la imposibilidad de otorgar la habilitación indicada, la Secretaría procederá a publicar en el Diario Oficial de la Federación el aviso por el que se notifique la suspensión del servicio del Registro en la oficina de que se trate. Hasta en tanto exista responsable de oficina habilitado, el servicio se prestará por la oficina del Registro más cercana dentro de la entidad federativa o en su defecto por la Secretaría.
+
+OCTAVO.- Para efecto de lo dispuesto en el artículo 18 del Código de Comercio, previa suscripción del convenio de coordinación correspondiente, las autoridades responsables del Registro Público de la Propiedad continuarán prestando el servicio del Registro Público de Comercio, en los términos previstos por el Capítulo II del Título Segundo del Libro Primero del Código de Comercio, en este Reglamento y en los lineamientos que en esta materia emita la Secretaría.
+
+En los supuestos de aquellas oficinas que se ubiquen en entidades federativas que comuniquen a la Secretaría su decisión de no continuar con la prestación del servicio del Registro Público de Comercio o que no estén en condiciones de operar dicho servicio conforme a lo indicado en el párrafo anterior, será responsabilidad de la Secretaría asegurar la prestación del servicio conforme a lo dispuesto por el Capítulo referido en el párrafo anterior.
+
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de octubre de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
