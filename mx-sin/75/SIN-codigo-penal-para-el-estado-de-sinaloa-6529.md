@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2003-03-28"
+last_updated: "2003-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2003.
 
 Código publicado en la Sección Primera del Periódico Oficial "El Estado de Sinaloa", el miércoles 28 de octubre de 1992.
 
@@ -319,7 +319,7 @@ La duración de la semilibertad no podrá exceder del tiempo correspondiente a l
 
 La reclusión a que se refiere el presente artículo tendrá lugar en centros distintos a los establecidos para la prisión preventiva y de los señalados para la extinción de la pena.
 
-### CAPITULO IV. SANCION PECUNIARIA
+### CAPITULO V. DECOMISO Y PERDIDA DE LOS INSTRUMENTOS Y OBJETOS RELACIONADOS CON EL DELITO
 
 ###### ARTICULO 32.
 
@@ -443,7 +443,7 @@ Los objetos de uso lícito con que se cometa el delito, propiedad del acusado, s
 
 Si las personas que tienen derecho a la reparación del daño renuncian a ella o se abstienen de recibir su importe, éste se aplicará en favor del Fondo Auxiliar para la Administración de Justicia del Estado, conforme a la ley respectiva.
 
-### CAPITULO V. DECOMISO Y PERDIDA DE LOS INSTRUMENTOS Y OBJETOS RELACIONADOS CON EL DELITO
+### CAPITULO IV. SANCION PECUNIARIA
 
 ###### ARTICULO 51.
 
@@ -1631,7 +1631,13 @@ Para la aplicación de la sanción se dará por consumado el robo desde el momen
 
 Cuando el valor de lo robado sea:
 
-I.- Menor a cincuenta veces el salario mínimo o no sea posible determinar su valor, se impondrá prisión de tres meses a dos años y de cuarenta a cien días multa;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
+
+I.- Mayor de veinte veces y menor a cincuenta veces el salario mínimo vigente o no sea posible determinar su valor, se impondrá prisión de tres meses a dos años y de cuarenta a cien días multa.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
+
+La pena prevista en esta fracción se aplicará aún cuando el valor de lo robado no sea mayor de veinte salarios mínimos si el robo se realiza en alguno de los supuestos previstos en los artículos 204 y 205.
 
 II.- De cincuenta a doscientas cincuenta veces el salario mínimo, se impondrá prisión de seis meses a tres años y de cuarenta a doscientos días multa;
 
@@ -2019,7 +2025,7 @@ Al que dolosamente se coloque en estado de insolvencia, con el objeto de eludir 
 
 Este delito se perseguirá por querella de parte, excepto cuando el ofendido sea incapaz y no tenga representante legal, caso en el cual el Ministerio Público procederá de oficio, a reserva de que promueva la designación de un tutor especial.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2003)</small>
 
 ### CAPITULO I. ATAQUES A LAS VIAS DE COMUNICACION Y A LOS MEDIOS DE TRANSPORTE
 
@@ -2075,7 +2081,7 @@ VII.- Registre o haga registrar un divorcio o nulidad de matrimonio que no hubie
 
 VIII.- Declare falsamente el fallecimiento de una persona en el acta respectiva.
 
-### CAPITULO I. CORRUPCION DE MENORES E INCAPACES
+### CAPITULO I. CORRUPCION Y EXPLOTACION DE MENORES E INCAPACES, PORNOGRAFIA INFANTIL Y PROSTITUCION DE MENORES
 
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 2003)</small>
 
@@ -2273,7 +2279,7 @@ Las mismas penas se aplicarán al que sin tener título o autorización para eje
 
 ## TITULO CUARTO. DELITOS CONTRA LA MORAL PUBLICA
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE AGOSTO DE 2003)</small>
 
 ### CAPITULO IV. ABUSO DE AUTORIDAD
 
@@ -2293,6 +2299,28 @@ A los padres o tutores que acepten que los menores sujetos a su patria potestad,
 
 Para los efectos de este precepto, se considerará que es empleado, el menor de edad que preste sus servicios por un salario, o cualquier otra prestación.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
+
+ARTICULO 274 BIS.- Al que procure, facilite, obligue o induzca por cualquier medio a uno o más menores de dieciocho años, con o sin su consentimiento, a realizar actos de exhibicionismo corporal, lascivos o sexuales, con el objeto y fin de videograbarlos, fotografiarlos o exhibirlos por cualesquier medio, con o sin el ánimo de obtener un lucro, se le impondrán de cinco a diez años de prisión y de quinientos a mil días multa.
+
+Al que por cualquier medio fije, grabe o imprima actos de exhibicionismo corporal, lascivos o sexuales en que participen uno o más menores de dieciocho años se le impondrá la pena de ocho a catorce años de prisión y de quinientos a mil días multa. La misma pena se impondrá a quien con fines de lucro o sin él, elabore, reproduzca, venda, arriende, exponga, publicite, distribuya o transmita el material a que se refieren las acciones anteriores.
+
+Se impondrá prisión de ocho a dieciséis años y de ochocientos a mil días multa, así como el decomiso de los objetos, instrumentos y productos del delito, a quien por sí o a través de terceros, dirija, administre o supervise cualquier tipo de asociación con el propósito que se realicen las conductas previstas en los dos párrafos anteriores.
+
+Si el delito es cometido con un menor de doce años de edad las penas se aumentarán hasta una tercera parte.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
+
+ARTICULO 274 BIS A.- Al que promueva, facilite, consiga o entregue a una persona menor de dieciocho años de edad, para que ejerza la prostitución dentro o fuera del territorio de la Entidad, se le impondrá prisión de cinco a doce años y de cien a mil días multa.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
+
+ARTICULO 274 BIS B.- Las penas previstas en los artículos 274 Bis y 274 Bis A se aumentarán hasta una mitad cuando el delincuente tenga parentesco por consanguinidad, por afinidad o civil con la víctima, sea su tutor o curador o habite en el mismo domicilio con ella, aunque no existiera parentesco alguno; asimismo perderá la patria potestad respecto del ofendido y el derecho que pudiera tener respecto a los bienes de éste, en su caso.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
+
+ARTICULO 274 BIS C.- Si en la comisión de los delitos previstos en este capítulo se emplease la violencia, o el agente se valiese de la función pública que desempeña o aproveche los medios o circunstancias que le proporciona la profesión, oficio o cargo que ejerza, la pena se agravará en una mitad más y se le destituirá del empleo, cargo o comisión pública e inhabilitará para ocupar o ejercer otro similar, o se le suspenderá en el ejercicio de la profesión, según sea el caso.
+
 ### CAPITULO V. INTIMIDACION
 
 ### CAPITULO VI. COALICION DE SERVIDORES PUBLICOS
@@ -2309,7 +2337,9 @@ Si el agente fuere ascendiente, tutor, curador, cónyuge, concubinario o concubi
 
 Al que promueva, facilite, consiga o entregue a una persona para que ejerza la prostitución dentro o fuera del Estado, se le impondrá prisión de seis meses a ocho años y de cien a quinientos días multa.
 
-Si el ofendido fuere menor de edad o se emplease la violencia o el agente se valiese de una función pública que tuviere, la pena de prisión se aumentará hasta en una mitad.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
+
+Si se empleare la violencia o el agente se valiese de la función pública que tuviere, la pena se aumentará hasta una mitad.
 
 ## TITULO QUINTO. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
 
@@ -3166,3 +3196,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 28 DE MARZO DE 2003.
 
 Artículo Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 11 DE AGOSTO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
