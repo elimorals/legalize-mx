@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-salud-en-materia-de-control-216
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-01-18"
-last_updated: "1988-01-18"
+last_updated: "1998-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=216&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-01-04"
 
 REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE FEBRERO DE 1998.
 
 Reglamento publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el lunes 18 de enero de 1988.
 
@@ -127,7 +127,7 @@ p) Bebidas alcohólicas;
 
 q) Tabaco;
 
-r) Medicamentos, estupefacientes y sustancias psicotrópicas;
+r) (DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 s) Sustancias tóxicas;
 
@@ -145,7 +145,7 @@ b) Destinados al transporte de los productos a que se refiere la fracción III d
 
 c) De transporte federal de pasajeros.
 
-V.- Sistemas de abastecimiento de agua y equipos domésticos de purificación de la misma.
+V.- (DEROGADA, D.O.F. 4 DE FEBRERO DE 1998).
 
 ###### ARTICULO 3o.
 
@@ -435,7 +435,7 @@ La Secretaría fomentará prácticas de alimentación balanceada entre la poblac
 
 ###### ARTICULO 46.
 
-Los medicamentos, fármacos y sus materias primas, deberán cumplir con lo que establezca la Farmacopea de los Estados Unidos Mexicanos, y en su caso, el Consejo de Salubridad General.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 47.
 
@@ -1053,9 +1053,9 @@ A) Alimentos y aditivos alimentarios;
 
 B) Bebidas alcohólicas y no alcohólicas;
 
-C) Medicamentos;
+C) (DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
-D) Estupefacientes, sustancias psicotrópicas y productos preparados que las contengan;
+D) (DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 E) Los de perfumería y belleza;
 
@@ -1065,7 +1065,7 @@ G) Tabaco y sus productos.
 
 II.- Las muestras de los productos a que se refiere la fracción anterior, necesarias para la obtención de su registro sanitario;
 
-III.- Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos que determine la Secretaría en listas que publicará en la gaceta sanitaria;
+III.- (DEROGADA, D.O.F. 4 DE FEBRERO DE 1998)
 
 IV.- Las fuentes de radiación, consistentes en reactores nucleares, aceleradores de partículas cargadas de electricidad, unidades de radioterapia, fuentes de neutrones, aparatos de microondas, de radar y de rayos X, infrarrojos, ultravioletas y laser, así como los isótopos radiactivos y cualquiera otra fuente de naturaleza análoga con fines médicos que determine la Secretaría;
 
@@ -1083,7 +1083,7 @@ El registro sanitario a que se refiere el párrafo anterior no será necesario e
 
 ###### ARTICULO 151.
 
-Sólo se autorizará la importación de los productos a que se refiere la fracción III del artículo 149 del presente Reglamento, para que se destine a la venta o suministro al público, cuando estén registrados ante la autoridad sanitaria.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 152.
 
@@ -1103,15 +1103,15 @@ El importador deberá informar, a requerimiento de la Secretaría, el destino qu
 
 ###### ARTICULO 156.
 
-Para permitir la importación o exportación con fines de comercialización, de las especialidades farmacéuticas, se debe contar previamente con el registro del producto autorizado por la Secretaría. Quedan exceptuados del registro los medicamentos en tránsito por el país.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 157.
 
-Para el caso de las importaciones ó exportaciones de estupefacientes, sustancias psicotrópicas, productos o preparados, que las contengan, se deberá estar a las disposiciones de la Ley y de este Reglamento.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 158.
 
-Para obtener permiso sanitario de importación de medicamentos para uso o consumo personal, que no se produzcan en el país, el interesado deberá acreditar la prescripción médica de los mismos.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 159.
 
@@ -1157,11 +1157,11 @@ II.- Bebidas alcohólicas;
 
 III.- Bebidas no alcohólicas;
 
-IV.- Medicamentos;
+IV.- (DEROGADA, D.O.F. 4 DE FEBRERO DE 1998)
 
-V.- Estupefacientes;
+V.- (DEROGADA, D.O.F. 4 DE FEBRERO DE 1998)
 
-VI.- Sustancias psicotrópicas;
+VI.- (DEROGADA, D.O.F. 4 DE FEBRERO DE 1998)
 
 VII.- Productos de perfumería y belleza;
 
@@ -1169,7 +1169,7 @@ VIII.- Productos de aseo;
 
 IX.- Productos de tabaco;
 
-X.- Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos;
+X.- (DEROGADA, D.O.F. 4 DE FEBRERO DE 1998)
 
 XI.- Purificadores de agua de tipo doméstico;
 
@@ -1285,55 +1285,15 @@ III.- Documento que contenga en detalle, la descripción del establecimiento, de
 
 ###### ARTICULO 181.
 
-En la Solicitud de registro para cada especialidad farmacéutica, podrá pedirse la aprobación para los siguientes tipos de presentación.
-
-I.- Para venta al público,
-
-II.- Para el Sector Salud, y
-
-III.- Para exportación.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 182.
 
-El registro de un medicamento se integrará por los siguientes datos indispensables:
-
-I.- Clave alfa numérica asignada por la Secretaría para identificar cada medicamento, en base al fármaco, fármacos o sustancias químicas que lo componen;
-
-II.- Clave numérica asignada por la Secretaría, para identificar la forma farmacéutica;
-
-III.- Clave identificadora del titular del Registro;
-
-IV.- Inicial "M" para medicamentos alopáticos y "H" para medicamentos homeopáticos;
-
-V.- Las dos últimas cifras del año del registro; y
-
-VI.- Las siglas "SSA".
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 183.
 
-La revisión del registro sanitario de una especialidad farmacéutica será procedente cuando:
-
-I.- La investigación científica o la experiencia clínica indique que el medicamento tiene efectos tóxicos inmediatos o tardíos intolerables en relación con los beneficios esperados, y
-
-II.- En una asociación de medicamentos se presuma alguna de las siguientes condiciones:
-
-a) El efecto terapéutico de la combinación no sea mayor que la suma de los efectos de cada uno da los componentes por separado.
-
-b) Aumente los efectos adversos o secundarios de cualquiera de los principios activos.
-
-c) La asociación deteriore las características químicas o biodisponibilidad de alguno de los componentes.
-
-d) La concentración prefijada de los fármacos no permita al médico utilizar con flexibilidad los fármacos activos.
-
-e) Las acciones de los fármacos asociados sean antagónicas y causen pérdida del efecto terapéutico deseado.
-
-f) La asociación favorezca el uso inapropiado de alguno de los componentes de ésta.
-
-g) La investigación clínica no justifique el uso de más de un fármaco.
-
-En la revisión a que se refiere este artículo los titulares de los registros presentarán, en la forma que establezca la Secretaría, la documentación científica y técnica completa en los aspectos físico-químicos, biológicos, farmacéutico y farmacológico, así como la relativa al proceso de fabricación. Cuando de la revisión efectuada, la Secretaría determine que una especialidad farmacéutica o producto similar debe sufrir algún cambio, lo notificará al titular del registro y le hará saber el o los motivos científicos y técnicos de la determinación, concediéndole un plazo no mayor de 60 días, para que exprese lo que a su derecho convenga.
-
-Transcurrido el anterior plazo sin que el titular del registro haya hecho manifestación alguna o no hubiere efectuado el cambio propuesto, la Secretaría ordenará al titular del registro la realización de los cambios determinados, apercibiéndolo que de no hacerlo, se actualizará la causal de revocación que prevé el artículo 380 en su fracción IV de la Ley, sin perjuicio de otras causales que en el caso pudieran ser procedentes, iniciándose, desde luego, el procedimiento que establece el Capítulo II del Título Décimo Sexto de la Ley.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ### CAPITULO XI. Tarjeta de Control Sanitario
 
@@ -8579,867 +8539,385 @@ Los productos de tabaco y sus sucedáneos estarán libres de insectos y otras pl
 
 Los productos de tabaco y sus sucedáneos, no rebasarán los límites máximos de residuos de plaguicidas y sustancias tóxicas que establezca la Secretaría.
 
-## TITULO VIGESIMO PRIMERO. Insumos Médicos, Estupefacientes y Sustancias Psicotrópicas
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE FEBRERO DE 1998)</small>
 
-### CAPITULO I. Insumos Médicos
+## TITULO VIGESIMO PRIMERO
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE FEBRERO DE 1998)</small>
+
+### CAPITULO I
 
 ###### ARTICULO 1123.
 
-Se considera medicamento toda sustancia o mezcla de sustancias de origen natural o sintético, que tengan efecto terapéutico, preventivo o rehabilitatorio, que se presenten en forma farmacéutica y que se identifiquen como tal, por su actividad farmacológica, características físicas, químicas y biológicas.
-
-Los medicamentos se clasifican en:
-
-I. Magistrales: Los que se preparan conforme a la fórmula prescrita por un médico;
-
-II. Oficinales: Los que se preparan de acuerdo a las normas de la farmacopea de los Estados Unidos Mexicanos, y
-
-III. Especialidades Farmacéuticas: Las que se elaboran en los establecimientos de la industria químico farmacéutica, con las fórmulas autorizadas por la Secretaría.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1124.
 
-Para los efectos de este Reglamento, se entiende por:
-
-I. FARMACO: Toda sustancia natural o sintética, que tenga alguna actividad farmacológica, y que se identifique por sus propiedades físicas, químicas o acciones biológicas, que no se presentan en forma farmacéutica y que reúnan condiciones para ser empleadas como medicamentos o ingredientes de un medicamento;
-
-II. MATERIA PRIMA: Sustancias de cualquier origen que se usen para la elaboración de medicamentos o fármacos naturales o sintéticos;
-
-III. ADITIVO: Toda sustancia que se incluya en la fórmula de los medicamentos que actúe como vehículo, conservador o modificador de alguna de las características para favorecer su eficacia, seguridad, estabilidad, apariencia o aceptabilidad, y
-
-IV. MATERIALES: Los insumos necesarios para el envase y empaque de los medicamentos.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1125.
 
-En materia de medicamentos se entiende por:
-
-I. Elaboración o fabricación: El conjunto de operaciones, procedimientos y métodos destinados a la producción de materias primas farmacéuticas;
-
-II. Preparación: La asociación de uno o más fármacos dispuestos en forma física adecuada y excipientes, diluyentes, estabilizantes, conservadores u otros componentes destinados a la producción de medicamentos, y
-
-III. Acondicionamiento: Son todas las operaciones necesarias para envasar y empacar el producto a granel hasta llegar a su presentación como producto terminado.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1126.
 
-Los establecimientos que se dedican al proceso de medicamentos, pueden ser:
-
-I. Establecimientos para la producción de medicamentos para uso humano;
-
-II. Laboratorio de control químico biológico, farmacéutico o de toxicología, para el estudio y experimentación de medicamentos y materias primas;
-
-III. Almacén de depósito y distribución de medicamentos para uso humano;
-
-IV. Fábrica, laboratorio, almacén de depósito y distribución o expendio de materias primas para la elaboración de medicamentos para uso humano;
-
-V. Droguería;
-
-VI. Farmacia;
-
-VII. Botica;
-
-VIII. Botiquín;
-
-IX. Fábrica, laboratorio, almacén de depósito y distribución o expendio de medicamentos y materias primas de uso veterinario, y
-
-X. Los demás que determine el Consejo de Salubridad General.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1127.
 
-Los establecimientos a que se refiere este Capítulo, deberán contar en su caso, con las instalaciones, equipo necesario y manual de procedimientos para efectuar los controles analíticos de materias primas, productos en proceso, preparados farmacéuticos, productos terminados y material de acondicionamiento, debiéndose conservar constancia de todas las operaciones que se efectúen.
-
-Los controles deberán incluir en su caso:
-
-I. Las técnicas y especificaciones apropiadas para analizar cada uno de los componentes que se empleen en la fabricación o preparación;
-
-II. a) Las técnicas y especificaciones para la elaboración o fabricación de materias primas, y la comprobación durante el proceso incluyendo toma de muestra del lote en cada caso;
-
-b) Las técnicas y especificaciones generales para la preparación y acondicionamiento de los medicamentos y la comprobación durante el proceso, incluyendo toma de muestra del lote en cada caso;
-
-III. Las especificaciones para el producto terminado y la técnica detallada para su control analítico, toma de muestras representativas del lote final, límites de tolerancia y, márgenes de seguridad aprobados;
-
-IV. Elementos para comprobar la seguridad, esterilidad y apirogenicidad cuando se requiera, y sección adecuada para alojar, cuidar y alimentar a los animales que se utilicen;
-
-V. La comprobación del resultado y la validación de cualquier técnica empleada;
-
-VI. El museo de muestras, en cantidad suficiente de cada lote, y que se deberán conservar como mínimo durante 5 años después de la elaboración de los mismos a efecto de realizar comprobaciones posteriores. En el caso de productos que tengan fecha de caducidad, se conservarán un año después de la fecha de expiración, y
-
-VII. La constancia de los datos empleados, concerniente a las pruebas que se efectuarán para cada lote, con la firma del personal técnico que las realizó, del jefe del departamento de control de calidad del laboratorio. Estos protocolos, deberán conservarse por lo menos 3 años a partir de la fecha de elaboración.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1128.
 
-Los siguientes productos biológicos requieren de control específico por parte de la Secretaría:
-
-I. Toxoides, vacunas y preparaciones bacterianas de uso parenteral y oral;
-
-II. Vacunas virales de uso oral o parenteral;
-
-III. Sueros y antitoxinas de origen animal;
-
-IV. Derivados de la sangre humana;
-
-V. Levaduras y preparaciones microbianas para uso oral, y
-
-VI: Otros que determine la Secretaría.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1129.
 
-Los productos de origen biológico, requieren de control interno en los laboratorios de la planta productora y de control externo en los laboratorios de la Secretaría y los que ésta autorice para estos fines.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1130.
 
-Los medicamentos de origen biológico de acción inmunológica, ostentarán en su etiqueta, además de lo previsto en el artículo 210 de la Ley, las especificaciones del organismo vivo que se utilizó en la preparación, en su utilización, y el nombre de la enfermedad a la cual se destina, de acuerdo a la nomenclatura, internacional aceptada. Excepcionalmente se podrá omitir este último dato, cuando el medicamento tenga diversidad de aplicaciones.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1131.
 
-Los productos biológicos señalados en el artículo anterior, excepción hecha de las "preparaciones microbianas para uso oral", requieren, para su distribución o venta, que cada lote sea previamente autorizado por la Secretaría, sea de fabricación nacional o de importación, presentando la documentación que al efecto señale la Secretaría.
-
-Asimismo, las materias primas activas utilizadas en la elaboración de los productos enunciados en las fracciones IV y VI del artículo 1128 de este Reglamento, requerirán de previa autorización de la Secretaría para su uso, distribución o venta, independientemente de los requisitos exigidos por otras dependencias; cuando se trate de fabricación inicial en el país, se requiere la autorización del proceso y que se tomen muestras de los lotes que considere la Secretaría.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1132.
 
-La denominación distintiva de las especialidades farmacéuticas, se sujetará a lo siguiente:
-
-I. No podrá emplearse una denominación distintiva que indique que la especialidad farmacéutica contiene determinadas sustancias, si ellas no entran en su composición o si éstas no producen la acción terapéutica principal del producto.
-
-II. No podrá utilizarse una denominación distintiva en la que expresen clara o veladamente, indicaciones en relación con enfermedades, síntomas o síndromes o aquellas que recuerden datos anatómicos o fenómenos fisiológicos, excepto en vacunas y productos biológicos;
-
-III. No podrá usarse la misma denominación distintiva por otro producto que tenga registro de la Secretaría, vigente o revocado, o bien, que esté en trámite, y
-
-IV. La denominación distintiva de dos o más productos, cuando ortográfica o fonéticamente sean semejantes, deberán diferenciarse por lo menos en tres letras.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1133.
 
-La verificación del control de calidad en materias primas y especialidades farmacéuticas, deberá provenir de las normas de la Farmacopea Nacional de los Estados Unidos Mexicanos y de las que hayan sido certificadas por la Secretaría.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1134.
 
-Se considera como receta médica, el documento que contenga la prescripción de uno o varios medicamentos, simples o compuestos, en cualquier forma farmacéutica y que haya sido suscrito por:
-
-I. Médicos cirujanos;
-
-II. Médicos odontólogos;
-
-III. Médicos homeópatas;
-
-IV. Médicos veterinarios, en el área de su competencia;
-
-V. Pasantes de cualquiera de las carreras anteriores, en servicio social, y
-
-VI. Enfermeras y parteras.
-
-Todos ellos, deberán estar registrados o autorizados por las autoridades educativas competentes y efectuar la prescripción en casos relacionados con su respectiva área de ejercicio profesional.
-
-Los pasantes y las enfermeras y parteras podrán prescribir, ajustándose a las especificaciones que determine la Secretaría.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1135.
 
-La venta o suministro de la prescripción médica contenida en una receta, deberá ajustarse precisamente al medicamento expresado en la misma; toda sustitución queda estrictamente prohibida a menos que la autorice quien la prescriba.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1136.
 
-Quedan prohibidas la venta de especialidades farmacéuticas autorizadas como muestra médica y la venta al público de las destinadas para uso exclusivo del Sector Salud, que aparezcan enlistadas en el Cuadro Básico de Medicamentos.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1137.
 
-Los envases, etiquetas y contraetiquetas de las muestras médicas, deben ajustarse a las especificaciones autorizadas, agregando únicamente las leyendas "muestra médica no negociable" o en su caso, "original de obsequio".
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1138.
 
-Los medicamentos, para su venta o suministro al público, se consideran:
-
-I. Medicamentos que sólo pueden adquirirse con receta o permiso especial, expedido por la Secretaría de acuerdo a los términos señalados en los artículos 1207, 1208, 1209, 1210, 1211, 1212 y 1213 de este Reglamento;
-
-II. Medicamentos que requieren, para su adquisición, receta médica, que deberá retenerse en la farmacia y ser registrada en los libros de control que al efecto se lleven, de acuerdo a los términos señalados en los artículos 1180, 1181 y 1182 de este Reglamento.
-
-III. Medicamentos que sólo pueden adquirirse con receta médica, misma que no se retendrá en la farmacia y puede surtirse hasta en tres ocasiones;
-
-IV. Medicamentos que para adquirirse requieren receta médica, pero pueden resurtirse tantas veces como lo indique el facultativo que prescriba;
-
-V. Medicamentos disponibles sin receta, y
-
-VI. Medicamentos que para adquirirse no requieren receta médica y que pueden expenderse en otros establecimientos que no sean farmacias.
-
-Las droguerías, farmacias y boticas, contarán con sello fechador y etiquetas con todos los datos correspondientes al mismo y al responsable. Los botiquines solamente contarán con sello fechador.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1139.
 
-Las especialidades farmacéuticas que ostenten en sus etiquetas, envases o empaques, la leyenda en la que se indique que su venta o suministro requiera de receta médica, sólo podrán ser surtidas bajo esa condición.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1140.
 
-La Secretaría determinará los medicamentos y especialidades farmacéuticas que integran cada uno de los grupos a que se refieren los artículos anteriores.
-
-Las listas de especialidades farmacéuticas que integren cada grupo, serán publicadas en la Gaceta Sanitaria.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1141.
 
-Las materias primas y fármacos que se utilicen en la fabricación de medicamentos y productos biológicos, sin importar que aparezcan en la fórmula del producto terminado, deberán ser analizados, identificados, almacenados, manejados y controlados, a fin de que se tenga la seguridad que cumplen con las condiciones sanitarias de identidad, pureza, esterilidad cuando procede, inocuidad, potencia, seguridad, estabilidad y calidad según especificaciones de la farmacopea de los Estados Unidos Mexicanos y otras que se señalen por la Secretaría.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1142.
 
-Los medicamentos que requieran refrigeración, deberán conservarse a una temperatura comprendida entre 0° y 10° C.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1143.
 
-En relación a las plantas medicinales, la Secretaría advertirá, a través de los medios de difusión adecuados, las propiedades y riesgos de uso de aquellas que sean consideradas nocivas para la salud, sin perjuicio de prohibir su comercialización y suministro al público, cuando así lo requiera.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1144.
 
-El establecimiento de un expendio de plantas medicinales, deberá estar independiente de otros giros.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1145.
 
-Las plantas medicinales deberán expenderse en bolsas de papel, de polietileno u otro envase adecuado, con el nombre botánico o popular de la planta, nombre y ubicación del establecimiento expendedor. En dichos envases queda prohibido usar dibujos o alegorías que indiquen o sugieran alguna acción terapéutica.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1146.
 
-Sólo se permitirá el almacenamiento y venta de plantas medicinales, que no impliquen un peligro para la salud de las personas.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE FEBRERO DE 1998)</small>
 
 ### CAPITULO II
 
-Equipos Médicos, Prótesis, Ortesis, Ayudas Funcionales, Agentes de Diagnóstico, Insumos de uso Odontológico, Materiales Quirúrgicos de Curación y Productos Higiénicos.
-
 ###### ARTICULO 1147.
 
-Se entiende por:
-
-I. Equipo médico: los aparatos, accesorios e instrumentos para uso específico, destinados a la atención médica, quirúrgica o a procedimientos de exploración, diagnóstico, tratamiento y rehabilitación de pacientes, así como de aquellos para efectuar actividades de investigación biomédica.
-
-II. Prótesis: El elemento artificial mediante el cual se sustituye la parte de un órgano y suple, compensa o ayuda a su función.
-
-III. Ortesis: El aparato que suple parcial o totalmente las funciones de un órgano que no ha sido extraído o amputado;
-
-IV. Ayudas funcionales: Los insumos sin propiedades farmacológicas que ayudan a mejorar una función del organismo;
-
-V. Agentes de diagnóstico: Los insumos, incluyendo los antígenos y reactivos, que puedan utilizarse como auxiliares de otros procedimientos clínicos y paraclínicos;
-
-VI. Insumos de uso odontológico: Las sustancias o materiales empleados para la atención a la salud, en el área odontológica;
-
-VII. Materiales quirúrgicos: los dispositivos o materiales que, adicionados o no de desinfectantes, se emplean en la práctica médico-quirúrgica;
-
-VIII. Materiales de curación: Los que, adicionados o no de antisépticos o germicidas, sean utilizados en el tratamiento de soluciones de continuidad y de otros tipos de lesiones de la piel y sus anexos, y
-
-IX. Productos higiénicos: Los materiales y sustancias, adicionados de antisépticos, que se apliquen en la superficie de la piel o cavidades corporales, y que tengan acción farmacológica.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1148.
 
-Para el uso de materias primas, el promovente del registro deberá sujetarse a los lineamientos que la Secretaría establezca en las especificaciones correspondientes.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1149.
 
-A solicitud de la Secretaría, los fabricantes de los productos a que se refiere este Título, están obligados a informarle de las medidas de control que adopten para asegurar la correcta dosificación de las sustancias de usos restringidos, que aparezcan en las fórmulas autorizadas, en su caso.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1150.
 
-Cuando se revoque la autorización de algún producto a los que se refiere este Capítulo, se concederá un plazo no mayor de treinta días para retirarlo del mercado.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
+
+(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE FEBRERO DE 1998
 
 ### CAPITULO III
 
-Estupefacientes y Sustancias Psicotrópicas.
-
 ###### ARTICULO 1151.
 
-Se consideran estupefacientes las substancias y vegetales a que se refiere el artículo 234 de la Ley.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1152.
 
-Para efectos de vigilancia y control se consideran substancias psicotrópicas las señaladas en el artículo 245 de la Ley y las que determinen específicamente el Consejo de Salubridad General o la Secretaría de Salud conforme a lo establecido en el artículo 244 de la Ley y las señaladas en el artículo 1155 de este Reglamento.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1153.
 
-La obtención, elaboración, fabricación, preparación, mezclado, acondicionamiento, envasado, manipulación, almacenamiento, importación, exportación, prescripción médica, suministro, posesión, transporte, empleo, uso, consumo, y en general todo acto relacionado con el tráfico o suministro de estupefacientes y substancias psicotrópicas, con excepción de las que forman parte del grupo V a que se refiere el artículo 1155 de este Reglamento, sólo podrá realizarse con fines médicos o científicos, siempre que se cuente con la autorización de la Secretaría y con sujeción a lo previsto en la Ley y en las disposiciones de este Reglamento.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1154.
 
-Se consideran actos relacionados con estupefacientes o con substancias psicotrópicas para fines médicos, los que se realicen con propósitos de diagnóstico, preventivos, terapéuticos o para rehabilitación; y para fines científicos, los que están destinados a la investigación.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1155.
 
-Las substancias a que se refiere el grupo V del artículo 245 de la Ley son las siguientes:
-
-A.- Materias primas que se utilizan en la industria, aisladamente o en combinación, cuya inhalación produce o puede producir efectos psicotrópicos:
-
-Hidrocarburos
-
-Hidrocarburos Halogenados
-
-Hidrocarburos Nitrados
-
-Esteres
-
-Cetonas
-
-Alcoholes
-
-Eteres
-
-Glicoéteres
-
-B.- Productos terminados que contengan alguna de las materias primas de la primera fracción de este grupo, cuya inhalación produzca o pueda producir efectos psicotrópicos:
-
-Sub-Grupo I:
-
-Adelgazadores (También conocidos como Tíneres)
-
-Adhesivos, pegamentos o cementos
-
-Pinturas
-
-Barnices
-
-Lacas
-
-Esmaltes
-
-Gasolinas
-
-Removedores
-
-Desmanchadores
-
-Desengrasantes
-
-Sub-Grupo II:
-
-Selladores
-
-Tintas
-
-Impermeabilizantes
-
-Sub-Grupo III:
-
-Aerosoles
-
-Desodorantes
-
-Anticongelantes
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1156.
 
-Los organismos e instituciones del Sector Público, instituciones o establecimientos que manejen estupefacientes o substancias psicotrópicas de los que señalan los artículos 234 y 245 en las fracciones I, II, III y IV de la Ley, deberán:
-
-I. Llevar libro de control autorizado por la Secretaría, y
-
-II. Tener un sistema de seguridad para su guarda, a satisfacción de la propia Secretaría.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1157.
 
-Queda prohibido todo acto relacionado con las substancias enumeradas en el grupo I del artículo 245 de la Ley. Solamente pueden emplearse para fines de Investigación Científica.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1158.
 
-Queda prohibida la presentación en forma de muestra médica o de originales de obsequio, de los medicamentos que contengan estupefacientes o substancias psicotrópicas del grupo II del artículo 245 de la Ley.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1159.
 
-En relación con los estupefacientes y las substancias psicotrópicas, se considera materia prima; toda substancia de cualquier origen con acciones estupefacientes o psicotrópicas, que se use para la preparación de medicamentos o bien pueda ser empleada para fines de investigación.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1160.
 
-Al concluir el proceso de elaboración de la materia prima, estupefacientes o sustancias psicotrópicas del Grupo II del artículo 245 de la Ley, el personal técnico comisionado formulará de acuerdo con lo especificado en el Capítulo correspondiente a la vigilancia sanitaria, un acta en la que hará constar que se tomaron las tres muestras a que se refiere el artículo 41 de este Reglamento; la cantidad de materia prima elaborada que queda debidamente sellada, lacrada y guardada bajo el sistema de seguridad aprobado por la Secretaría; la fecha del permiso correspondiente, y que estos datos se asienten en el libro de control en presencia del responsable del establecimiento.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1161.
 
-La preparación de lotes de especialidades farmacéuticas que contengan estupefacientes o sustancias psicotrópicas del Grupo II del artículo 245 de la Ley, destinadas a obtener el registro sanitario de medicamento, se sujetará, en lo conducente, a los artículos 1154, 1157, 1159, 1163 y 1164 de este Reglamento y las disposiciones que al efecto señala la Secretaría.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1162.
 
-Las especialidades farmacéuticas que contengan estupefacientes o sustancias psicotrópicas del Grupo II del artículo 245 de la Ley, deberán llevar en la etiqueta del producto, además de los datos que determinen las disposiciones legales correspondientes, una doble banda roja perfectamente visible.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1163.
 
-Las especialidades farmacéuticas que contengan estupefacientes o sustancias psicotrópicas del Grupo II del artículo 245 de la Ley, deberán ir acompañadas de un instructivo en el que se expresen las advertencias que, a juicio de la Secretaría, sean necesarias para la seguridad del usuario.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1164.
 
-La preparación de medicamentos de uso veterinario que contengan estupefacientes o sustancias psicotrópicas del Grupo II del artículo 245 de la Ley, se sujetará al control que determinen coordinadamente la Secretaría y las dependencias competentes del Ejecutivo Federal.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1165.
 
-La elaboración, preparación y acondicionamiento de las especialidades farmacéuticas que contengan sustancias psicotrópicas de los Grupos III y IV del artículo 245 de la Ley, se sujetarán a lo dispuesto en el Capítulo VI del Título Décimo Segundo de la misma.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1166.
 
-Los establecimientos que cuenten con licencia sanitaria que los acredite como droguerías o farmacias, están autorizados para preparar medicamentos magistrales y oficinales que contengan estupefacientes o sustancias psicotrópicas, siempre que cumplan con los requisitos señalados en este Título.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1167.
 
-Los productores de algunas o varias de las sustancias a que se refiere el artículo 1155 de este Reglamento, deberán proporcionar a la Secretaría, cuando ésta lo solicite, la información que a su juicio sea necesaria para la debida observancia y estricto cumplimiento de este Reglamento.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1168.
 
-Sin perjuicio de la información que debe satisfacerse conforme a otras disposiciones legales o reglamentarias, las etiquetas de los envases de los productos que contengan sustancias de las que se mencionan en el artículo 1155 de este Reglamento deberán ostentar lo siguiente:
-
-"CONTIENE SUSTANCIAS ALTAMENTE TOXICAS CUYO CONSUMO POR CUALQUIER VIA O INHALACION PROLONGADA O REITERADA, ORIGINA GRAVES DAÑOS PARA LA SALUD. PROHIBIDA SU VENTA A MENORES DE EDAD". "NO SE DEJE AL ALCANCE DE LOS MENORES DE EDAD".
-
-En la misma etiqueta o impresión que contenga las anteriores leyendas, se hará referencia a las sustancias y las cantidades en que se encuentren expresadas porcentualmente.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1169.
 
-Se considera de riesgo para la salud de las personas, la fabricación, el uso y manejo de las sustancias psicotrópicas por inhalación a que se hace referencia en el artículo 1155 de este Reglamento. La Secretaría podrá hacer uso de las facultades que le confiere la Ley, cuando exista un peligro grave para la salud de los trabajadores.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1170.
 
-Corresponde a la Secretaría y al Consejo de Salubridad General, en coordinación con las Secretarías de Comercio y Fomento Industrial, de Educación Pública y del Trabajo y Previsión Social, la aplicación de las normas referentes a las sustancias señaladas en el artículo 1155 de este Reglamento de acuerdo a las facultades que sobre la materia otorgan a estas últimas las leyes y reglamentos vigentes.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1171.
 
-Los envases y los surtidores de productos que contengan las sustancias mencionadas en el artículo 1155 de este Reglamento, deberán estar protegidos de tal manera que no permitan el derrame de tales productos, con motivo de su almacenamiento, transporte o posesión.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1172.
 
-La Secretaría y las Secretarías de Educación Pública y del Trabajo y Previsión Social, en sus respectivos ámbitos de competencia, vigilarán que los talleres destinados a elaborar artesanías, escuelas y otros centros similares en los que se utilice alguna o algunas de las sustancias señaladas en el artículo 1155 de este Reglamento, tengan las normas de seguridad recomendadas para el manejo y uso de tales productos, según lo establezcan estas mismas Secretarías para cada sustancia en particular.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1173.
 
-La Secretaria, en coordinación con las Secretarías de Comercio y Fomento Industrial y del Trabajo y Previsión Social, a fin de prevenir y combatir el uso por inhalación de las sustancias señaladas en el artículo 1155 de este Reglamento mediante los acuerdos correspondientes, podrá promover o implantar, según corresponda, en los establecimientos que produzcan, utilicen o expendan las sustancias tóxicas referidas, las siguientes medidas:
-
-I.- La prohibición de venta en recipiente abierto, a menores de edad, de las sustancias comprendidas en el artículo 1155 de este Reglamento;
-
-II.- Determinación de la supresión o la sustitución por sustancias de menor riesgo, en caso de ser posible;
-
-III.- La manifestación a cargo de los industriales que utilicen en sus procesos las materias o sustancias citadas en el apartado A del artículo 1155 de este Reglamento, del uso que se les dará con la obligación de no desviarlas de su destino, suministrándolas a terceras personas para efectos diversos a sus fines industriales;
-
-IV.- La adopción de medidas o procedimientos pertinentes para modificar la comercialización de los productos comprendidos en el artículo 1155 de este Reglamento, con el objeto de impedir el libre acceso de los menores de edad a dichos productos;
-
-V.- El expendio o suministro de los productos terminados a que se refiere el apartado B del artículo 1155 de este Reglamento, en su envase original o surtidor, y
-
-VI.- Otras que considere adecuadas.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1174.
 
-En los programas de promoción de la salud y control sanitario, la Secretaría en coordinación con la Secretaría de Educación Pública, dará atención preferente a la educación de la población en lo concerniente al uso adecuado de las sustancias señaladas en el artículo 1155 de este Reglamento.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1175.
 
-La Secretaría realizará actividades tendientes a mejorar la higiene ocupacional de las personas que en el desempeño de sus labores estén en contacto con las sustancias señaladas en el artículo 1155 de este Reglamento. Asimismo se establecerán periódicamente, de acuerdo a las normas internacionales, las máximas concentraciones permisibles de estas sustancias en el ambiente laboral.
-
-Tratándose de los trabajadores sujetos al Apartado "A" del artículo 123 Constitucional, se estará a las disposiciones sobre seguridad e higiene en el trabajo competencia de las autoridades laborales.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1176.
 
-Los propietarios, encargados o responsables de establecimientos industriales, comerciales o de servicios, en los que se usen o expendan productos que contengan las sustancias señaladas en el artículo 1155 de este Reglamento, deberán comunicar a las autoridades sanitarias, en un plazo máximo de tres días naturales, a partir del suceso, los casos de intoxicación por tales sustancias que se produzcan en sus establecimientos, sin perjuicio de las obligaciones que tengan en materia de seguridad e higiene en el trabajo, competencia de las autoridades laborales.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1177.
 
-Los profesionales de las (sic) salud que tengan conocimiento de algún caso de intoxicación grave por inhalación de las sustancias señaladas en el artículo 1155 de este Reglamento, deberán avisar inmediatamente a la autoridad sanitaria.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1178.
 
-El empleo de sustancias psicotrópicas señaladas en el artículo 1155 de este Reglamento, cuando se utilicen en la preparación de medicamentos, se sujetará a lo dispuesto en el capítulo VI del Título Décimo Segundo de la Ley y a las disposiciones correspondientes de este Reglamento.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1179.
 
-La receta con que se prescriben medicamentos que contengan estupefacientes o sustancias psicotrópicas del Grupo II del artículo 245 de la Ley, consignará los siguientes datos:
-
-I.- Nombre, domicilio, firma del profesional y número de registro del título expedido por autoridad educativa correspondiente;
-
-II.- Fecha de la expedición de la receta;
-
-III.- Nombre, cantidad, presentación y dosificación del medicamento;
-
-IV.- Nombre y dirección del paciente, y
-
-V.- Diagnóstico.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1180.
 
-La prescripción de medicamentos que contengan sustancias psicotrópicas de los grupos III y IV del artículo 245 de la Ley, se hará en receta médica escrita por los profesionales mencionados en el artículo 1207 de este Reglamento, la cual deberá consignar nombre, domicilio y número de la Cédula Profesional de quien prescribe.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1181.
 
-Los establecimientos que cuenten con licencia sanitaria que los acredite como droguerías o farmacias, estarán autorizados para suministrar al público medicamentos que contengan estupefacientes o sustancias psicotrópicas y estarán obligados a surtir los permisos especiales y las recetas que reúnan los requisitos señalados.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1182.
 
-El responsable de una droguería o de una farmacia, al surtir una receta o permiso especial en el que se prescriben medicamentos que contengan estupefacientes o sustancias psicotrópicas de los Grupos II y III del artículo 245 de la Ley, retendrá la receta o permiso y anotará en el libro de control correspondiente, los siguientes datos:
-
-I. Número y fecha de la receta o del permiso;
-
-II. Nombre del medicamento prescrito, cantidad, dosificación y en su caso, preparación;
-
-III. Nombre, domicilio y número de la Cédula Profesional de quien prescribe, expedida por las autoridades educativas competentes, y
-
-IV. En caso de que sean medicamentos incluidos en el grupo III, se podrán surtir como máximo dos presentaciones comerciales comunes y la venta tendrá vigencia de treinta días.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1183.
 
-Cuando se suspenda o termine un tratamiento con medicamentos que contengan estupefacientes o sustancias psicotrópicas del Grupo II del artículo 245 de la Ley y existan sobrantes, estos deberán ser entregados a la Secretaría por quien los posea, dentro de los diez días siguientes. Esta obligación deberá prescribirse en la etiqueta del envase del medicamento.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1184.
 
-La posesión o el transporte de estupefacientes, sustancias psicotrópicas de los Grupos I y II del artículo 245 de la Ley o productos preparados que los contengan, deberá acreditarse; cuando así lo requieran las autoridades, con la documentación expedida por la Secretaría en los términos de este Reglamento, relativa al acto que motive la posesión o el transporte.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1185.
 
-Las (sic) posesión de medicamento que contengan estupefacientes o sustancias psicotrópicas del Grupo II del artículo 245 de la Ley, para uso personal de pacientes en tratamiento, deberá comprobarse, cuando así lo requieran las autoridades, con la copia de la receta o del permiso especial.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1186.
 
-El responsable de una droguería o de una farmacia, al surtir una receta médica que contenga sustancias psicotrópicas del Grupo IV del artículo 245 de la Ley, deberá anotar en el libro de control correspondiente, los siguientes datos:
-
-I.- Fecha de la receta;
-
-II.- Nombre del medicamento prescrito, cantidad y dosificación, y
-
-III.- Nombre, domicilio y número de registro ante las autoridades educativas competentes, del profesional que prescribe.
-
-Esta receta se podrá surtir hasta por tres veces, con una vigencia de seis meses a partir de la fecha de su expedición y no requerirá ser retenida en la farmacia.
-
-La receta debe ser fechada en cada ocasión con sello de la farmacia.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1187.
 
-La posesión de medicamentos que contengan estupefacientes o sustancias psicotrópicas del Grupo II del artículo 245 de la Ley, por extranjeros que se intenten al país y que los requieran para su tratamiento, deberá ampararse con receta médica o permiso expedido por las autoridades competentes de su país en términos de Ley. Para el caso de este artículo, la cantidad máxima de medicamentos no excederá de la requerida para un período de treinta días.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1188.
 
-Las embarcaciones y aeronaves con matrícula mexicana destinadas al transporte nacional o internacional, si cuentan con la licencia sanitaria y la autorización correspondiente, podrán poseer en sus botiquines medicamentos o substancias psicotrópicas del Grupo II del artículo 245 de la Ley, en cantidad limitada para la prestación de primeros auxilios o para casos urgentes durante el viaje.
-
-La cantidad y los requisitos para su posesión, incluyendo el sistema de seguridad para la guarda de los mismos; serán determinados por la Secretaría.
-
-Tratándose de transportes internacionales de matrícula extranjera, la posesión de los medicamentos que señala este artículo, se sujetará a las disposiciones de los tratados internacionales en la materia.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1189.
 
-El manejo de los botiquines y el suministro de medicamentos que contengan estupefacientes o sustancias psicotrópicas del Grupo II del artículo 245 de la Ley, en casos de urgencias o para la prestación de primeros auxilios durante el viaje de embarcaciones y aeronaves, se hará bajo la responsabilidad de los capitanes de las naves. Estos deberán informar a la Secretaría del empleo de los citados medicamentos en los términos que la misma determine.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1190.
 
-La Secretaría determinará la cantidad de medicamentos que contengan estupefacientes o sustancias psicotrópicas del Grupo II del artículo 245 de la Ley, los requisitos para su posesión y el sistema de seguridad para su guarda en los botiquines de los establecimientos para la salud, centros industriales y agrícolas.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1191.
 
-Los estupefacientes, sustancias psicotrópicas del Grupo II del artículo 245 de la Ley, productos o preparados que los contengan, en tránsito por el territorio nacional, deberá contar con autorización de exportación correspondiente, el que se sujetará a las medidas que dicte la Secretaría para comprobar su autenticidad, legalidad y el cumplimiento de su destino.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1192.
 
-La solicitud de cambio de destino de los estupefacientes o sustancias psicotrópicas del Grupo II, del artículo 245 de la Ley, productos o preparados que los contengan, a que se refiere el artículo anterior, se sujetará a las disposiciones que establece este Reglamento.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1193.
 
-La investigación en materia de estupefacientes o sustancias psicotrópicas, se sujetará a lo dispuesto en el Título V de la Ley y las disposiciones contenidas en este Reglamento.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1194.
 
-Se considera producto preparado, toda solución o mezcla en cualquier estado físico, que contenga estupefacientes o una o más sustancias psicotrópicas.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1195.
 
-Los profesionales de la salud que atienden casos de farmacodependencia, deberán comunicarlo a la unidad más cercana de la Secretaría, dentro de los ocho días siguientes al de su conocimiento, acompañado del diagnóstico probable y opinión sobre la necesidad de la intervención de la Secretaría.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1196.
 
-Para obtener permiso del libro de control de estupefacientes o sustancias psicotrópicas se deberá contar con un responsable y, en su caso, con su auxiliar respectivo.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1197.
 
-Requiere de permiso sanitario expedido por la Secretaría, la realización de cualquier acto de los señalados en el artículo 1153 de este Reglamento, relacionado con estupefacientes y sustancias psicotrópicas de los Grupos I, II, III y IV del artículo 245 de la Ley.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1198.
 
-El trámite del permiso de elaboración de estupefacientes o sustancias psicotrópicas del Grupo II del artículo 245 de la Ley, que tengan el carácter de materia prima, se sujetará al siguiente procedimiento.
-
-I. Se presentará solicitud firmada por el propietario del establecimiento o su representante legal y por el responsable del mismo, en la que harán constar los siguientes datos:
-
-a) Nombre y domicilio del interesado;
-
-b) Cantidad, denominación internacional y química del estupefaciente o de la sustancia psicotrópica por elaborar;
-
-c) Pasos fundamentales de la técnica de elaboración del estupefaciente o de la sustancia psicotrópica;
-
-d) Duración aproximada del proceso de elaboración;
-
-e) Fines a los que se destinará el estupefaciente o sustancia psicotrópica;
-
-f) Número de permiso del libro de control a que se refiere el artículo 146 fracción II de este Reglamento, y
-
-g) Otros datos complementarios que señale la Secretaría.
-
-II. Se deberá comprobar que cuenta con laboratorio o fábrica de materia prima para la elaboración de medicamentos;
-
-III. Al concluir el proceso de elaboración de la materia prima, estupefacientes o sustancias psicotrópicas del Grupo II, el responsable del establecimiento deberá notificar a la Secretaría para que designe personal que levante un acta donde haga constar:
-
-a) Que se tomaron las tres muestras a que se refiere el artículo 41 de este Reglamento;
-
-b) La cantidad de materia prima elaborada que queda debidamente sellada, lacrada y guardada bajo el sistema de seguridad aprobado por la Secretaría, y
-
-c) La fecha del permiso correspondiente.
-
-El personal técnico designado anotará en el libro de control, ante la presencia del responsable del establecimiento, los datos contenidos en el acta referida en el anterior párrafo.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1199.
 
-El trámite del permiso de preparación de especialidades farmacéuticas que contengan estupefacientes o sustancias psicotrópicas del Grupo II del artículo 245 de la Ley, se sujetará al siguiente procedimiento:
-
-I. Se presentará solicitud firmada por el propietario del establecimiento o su representante legal y por el responsable del mismo, en la que harán constar los siguientes datos:
-
-a) Nombre y domicilio del interesado;
-
-b) Denominación del estupefaciente o de la sustancia psicotrópica a emplear;
-
-c) Cantidad de estupefacientes, sustancias psicotrópicas y su equivalencia en sustancias básicas en caso de que se trate de una sal de los mismos;
-
-d) Nombre comercial, número de unidades, contenido unitario y forma de presentación de la especialidad farmacéutica por preparar;
-
-e) Numero de permiso del libro de control correspondiente, y
-
-f) Otros datos complementarios que señale la Secretaría.
-
-II. Se deberá comprobar:
-
-a) La posesión legal del estupefaciente o de la sustancia psicotrópica;
-
-b) Que cuenta con licencia sanitaria de laboratorio y fábrica de medicamentos, y
-
-c) Que cuenta con registro sanitario de la especialidad farmacéutica por preparar.
-
-III. Concedido el permiso, la Secretaría designará personal técnico que levante un acta donde asiente que:
-
-a) Constató el peso, mezcla, dilución y adición de los distintos componentes de la especialidad farmacéutica por preparar;
-
-b) Que el resto de la materia prima, estupefacientes o sustancias psicotrópicas del Grupo II, quedó debidamente sellada, lacrada y guardada bajo el sistema de seguridad aprobado por la Secretaría, y
-
-c) Que en presencia del responsable del establecimiento anotó en el libro de control la cantidad de materia prima utilizada.
-
-IV. Concluido el proceso de preparación de la especialidad farmacéutica, el responsable del establecimiento deberá notificar a la Secretaría para que designe personal técnico que levante un acta donde haga constar:
-
-a) El número de unidades obtenidas;
-
-b) El número de lote;
-
-c) La orden de fabricación;
-
-d) El contenido unitario;
-
-e) La fecha del permiso correspondiente, y
-
-f) En su caso, el número de unidades que fueron destruidas por presentar irregularidades.
-
-El mismo personal técnico elaborará un informe sobre los distintos pasos del proceso de preparación, la especialidad farmacéutica y anotará en el libro de control, en presencia del responsable del establecimiento, los datos contenidos en el acta a que se refiere esta fracción.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1200.
 
-Para obtener permiso de adquisición con fines médicos de estupefacientes o sustancias psicotrópicas que tengan el carácter de materia prima, se deberá presentar solicitud, firmada por el propietario del establecimiento o su representante legal, y por el responsable del mismo, en la que se harán constar los siguientes datos:
-
-I. Nombre y domicilio del adquirente y del proveedor;
-
-II. Denominación internacional y química del estupefaciente o de la sustancia psicotrópica;
-
-III. Cantidad de estupefacientes, sustancias psicotrópicas y su equivalente en sustancia base, en caso de que se trate de una sal de los mismos;
-
-IV. Final que se le destinará el estupefaciente o la sustancia psicotrópica;
-
-V. Número de los permisos de los libros de control a que se refiere el artículo 146 fracción II de este Reglamento tanto del establecimiento adquirente como del proveedor;
-
-VI. Otros datos complementarios que señale la propia Secretaría;
-
-Además se deberá comprobar:
-
-a) La posesión legal de la materia prima, estupefacientes o sustancias psicotrópicas, por parte del proveedor;
-
-b) Que el establecimiento adquirente esté establecido en el país y cuente con laboratorios o fábrica de medicamentos, laboratorio de investigación o droguería;
-
-c) Que el establecimiento proveedor cuente con laboratorio o fábrica de materia prima para la elaboración de medicamentos, en el caso de estupefacientes; tratándose de sustancias psicotrópicas, también podrán ser adquiridas de almacenes de depósitos, distribución o expendio de materias primas;
-
-d) Que los establecimientos adquirentes y proveedor cuenten con profesionales y auxiliares autorizados, y
-
-e) Si la finalidad de la adquisición es la elaboración de alguna especialidad farmacéutica, que cuente con el registro sanitario correspondiente.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1201.
 
-Tratándose de estupefacientes y sustancias psicotrópicas del Grupo II del artículo 245 de la Ley, sólo podrá realizarse la adquisición en presencia del personal técnico que designe la Secretaría, el que constatará en el establecimiento del proveedor, el peso de la materia prima que se vende, y que el resto de la misma quede debidamente sellada, lacrada y guardada bajo el sistema de seguridad aprobado por la propia Secretaría; en el libro de control de este mismo establecimiento se asentará en presencia de su responsable, la cantidad y nombre de la materia prima que se vende y el número y la fecha del permiso de adquisición; los datos anteriores los hará constar en el acta respectiva. El original del permiso de adquisición quedará en poder del proveedor y la copia será retenida por el adquirente.
-
-El personal técnico anotará en el libro de control del establecimiento adquirente, en presencia del responsable del mismo, cantidad y nombre de la materia prima adquirida, número y fecha del permiso respectivo, haciendo constar estos datos en el acta respectiva.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1202.
 
-Para obtener autorización de adquisición de especialidades farmacéuticas que contengan estupefacientes o sustancias psicotrópicas del Grupo II del artículo 245 de la Ley para fines de investigación, se deberá presentar solicitud de la empresa, o de la institución en la que se harán constar los siguientes datos:
-
-I. Nombre y domicilio del solicitante;
-
-II. Nombre del profesional investigador responsable;
-
-III. Denominación internacional y química del estupefaciente o de las sustancias psicotrópicas. En su caso, nombre comercial del producto;
-
-IV. Cantidad de estupefacientes, sustancias psicotrópicas y su equivalencia en base, cuando se trate de una sal de los mismos;
-
-V. Número de permiso del libro de control a que se refiere el artículo 146 fracción II de este Reglamento.
-
-Acompañar el protocolo correspondiente, en el que se especificará:
-
-a) Los objetivos de la investigación;
-
-b) El método de la investigación, incluyendo: Cantidad, tipo y forma de los estupefacientes o sustancias psicotrópicas a emplear, duración, sujetos y procedimiento;
-
-c) Dichos organismos o instituciones deben comunicar a la Secretaría el resultado de las investigaciones, y
-
-d) Otros datos o requisitos complementarios que señale la propia Secretaría.
-
-Los establecimientos y los organismos o instituciones del sector público federal que obtengan permiso, deberán rendir un informe a la Secretaría sobre el cumplimiento del protocolo respectivo, con la temporalidad y en los términos que la misma determina.
-
-Cuando a la terminación o suspensión de las investigaciones queden preparados que los contengan, estos deberán ponerse a disposición de la Secretaría, dentro de los diez días siguientes.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1203.
 
-Para obtener autorización de importación de estupefacientes o sustancias psicotrópicas que tengan el carácter de materia prima o de medicamentos que contengan estupefacientes o sustancias psicotrópicas del Grupo II del artículo 245 de la Ley, con fines médicos, se deberá presentar solicitud, firmada por el propietario del establecimiento o de su representante legal, y por el responsable del mismo, en que se harán constar los siguientes datos:
-
-I. Nombre y domicilio del importador y del proveedor, precisando el país de éste;
-
-II. Denominación internacional y química del estupefaciente o de la sustancia psicotrópica, y en su caso, nombre o nombres comerciales del medicamento;
-
-III. Cantidades de estupefacientes, sustancias psicotrópicas y su equivalencia en sustancia base, si se trata de una sal de los mismos. En su caso, cantidad de medicamentos, indicando su fórmula autorizada, número de unidades, contenido unitario y forma farmacéutica;
-
-IV. Fin al que pretende destinar la importación;
-
-V. Medio de transporte y aduana por los que llegarán al país; en el caso de estupefacientes y sustancias psicotrópicas del Grupo II, solamente se podrán realizar operaciones por la aduana del aeropuerto de la ciudad de México;
-
-VI. Número de permiso del libro de control a que se refiere el artículo 146 fracción II de este Reglamento, y
-
-VII. Otros datos complementarios que señale la propia Secretaría.
-
-Además se deberá comprobar:
-
-a) Que el establecimiento adquirente cuenta con licencia sanitaria de laboratorio o fábrica de medicamentos o materia prima, laboratorio de investigación o droguería, y
-
-b) Que cuenta con el registro sanitario respectivo la especialidad farmacéutica por importar o por preparar, si la finalidad de la importación de ésta.
-
-La Secretaría designará al personal técnico que verificará en el establecimiento solicitante, la necesidad de la importación, haciéndolo constar en el acta respectiva.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1204.
 
-Las oficinas consulares mexicanas en el extranjero certificarán la documentación que ampare estupefacientes, sustancias psicotrópicas, productos o preparados que contengan, para lo cual los interesados deberán presentar los siguientes documentos:
-
-I. Permiso sanitario expedido por las autoridades competentes del país de donde procedan, autorizando la salida de los productos que se declaren en los documentos consulares correspondientes, y
-
-II. Permiso sanitario expedido por la Secretaria autorizando la importación de los productos que se indiquen en el documento consular. Este permiso será retenido por el cónsul al certificar el documento.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1205.
 
-Para recibir de la aduana los estupefacientes, sustancias psicotrópicas o medicamentos que los contengan, el establecimiento importador, dentro de los tres días siguientes a la llegada de los mismos al país, deberá informarlo por escrito a la Secretaría, manifestando:
-
-I. Número y fecha del permiso de importación;
-
-II. Cantidad importada;
-
-III. Procedencia;
-
-IV. Compañía transportadora y número de la guía, y
-
-V. Copia de la factura certificada por la autoridad consular mexicana en el país exportador.
-
-Cuando el importador tenga en su poder el estupefaciente, la sustancia psicotrópica o los medicamentos que los contengan, dará aviso a la Secretaría para que se designe al personal técnico que levante un acta en el establecimiento importador, en la que se hará constar:
-
-I. El número y fecha del permiso de importación;
-
-II. La toma de tres muestras, una de las cuales va al laboratorio que indique la Secretaría, otra queda en poder del interesado para su análisis particular y la tercera sellada y lacrada se considera como muestra testigo;
-
-III. Cuando se trate de materia prima, se anotará la cantidad y nombre del estupefaciente o de la sustancia psicotrópica importada, la que quedará debidamente sellada, lacrada y guardada en el laboratorio que determine la propia Secretaría;
-
-IV. Si se trata de medicamentos, se anotará el nombre comercial, número de unidades, capacidad unitaria y forma farmacéutica, y
-
-V. Que los datos anteriores se anotaron en el libro de control del establecimiento, en presencia del responsable.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1206.
 
-Para obtener autorización de exportación de estupefacientes o sustancias psicotrópicas del Grupo II del artículo 245 de la Ley, se deberá:
-
-I. Presentar solicitud, firmada por el propietario del establecimiento o su representante legal, y por el responsable del mismo, en la que se harán constar los siguientes datos:
-
-a) Nombre y domicilio del exportador y del importador, precisando el país de este;
-
-b) Denominación internacional y química del estupefaciente o de la sustancia psicotrópica y, en su caso, nombre comercial del medicamento;
-
-c) Cantidad de estupefacientes, sustancias psicotrópicas y su equivalente en sustancias base, si se trata de una sal de los mismos. En su caso, cantidad de medicamentos indicando su fórmula autorizada, número de unidades, contenido unitario, contenido y forma farmacéutica;
-
-d) La aduana de salida será la del aeropuerto internacional de la ciudad de México;
-
-e) Número de permiso del libro de control a que se refiere el artículo 146 fracción II de este Reglamento.
-
-f) Anexar permiso de importación del país solicitante, y
-
-g) Otros datos complementarios que señale la propia Secretaría.
-
-II. Además se deberá comprobar:
-
-a) El análisis químico, mediante certificado firmado por el responsable del establecimiento exportador, si se trata de materia prima;
-
-b) Que cuenta con licencia sanitaria, profesional responsable y auxiliar autorizados;
-
-c) En caso de ser especialidad farmacéutica, deberá contar con registro, y
-
-d) En su caso, mediante certificación de las autoridades competentes del país importador, de que la sustancia no es motivo de control.
-
-Concedido el permiso a que se refiere este artículo, el interesado dará aviso a la Secretaría de la fecha en que se pretende realizar la exportación para que se designe el personal técnico que levantará en el establecimiento exportador, acta en la que harán constar los número (sic) y fechas de los permisos de exportación y de importación del país destinatario, así como del nombre de la compañía transportadora; anotará que procedió a constatar que el envío corresponde al autorizado, sellándolo y lacrándolo debidamente; asentará también que en presencia del responsable se anotaron los datos anteriores en el libro de control del establecimiento.
-
-La Secretaría publicará en la Gaceta Sanitaria la relación de giros que comprenden cada grupo de establecimientos mencionados en el párrafo anterior.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1207.
 
-Sólo podrán prescribir medicamentos que contengan estupefacientes o sustancias psicotrópicas los profesionales que a continuación se mencionan, siempre que tengan título registrado por las autoridades educativas competentes, cumplan con las condiciones que señala la Ley, este Reglamento y con los requisitos que determine la Secretaría:
-
-I. Los médicos cirujanos;
-
-II. Los médicos veterinarios, cuando los prescriban para aplicación en animales;
-
-III. Los cirujanos dentistas, para casos odontológicos, y
-
-IV. Médicos homeópatas.
-
-Los pasantes de medicina, durante la prestación del servicio social, podrán prescribir los medicamentos mencionados, con las limitaciones que la Secretaría determine.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1208.
 
-La prescripción de medicamentos que contengan estupefacientes o sustancias psicotrópicas del grupo II del artículo 245 de la Ley, destinados a seres humanos, se hará en recetarios o permisos especiales editados, autorizados y suministrados por la Secretaría:
-
-Los recetarios se utilizarán para la prescripción de medicamentos que contengan estupefacientes y sustancia psicotrópicas del Grupo II del artículo 245 de la Ley, en tratamientos menores de cinco días. Para prescribirlos por períodos mayores se requiere de permiso especial.
-
-La prescripción de los medicamentos mencionados en este artículo, de uso veterinario, se hará en la forma que determine coordinadamente la Secretaría y las dependencias del Ejecutivo Federal competente.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1209.
 
-Para obtener por primera vez los recetarios especiales de estupefacientes, el interesado deberá anexar a la solicitud que presente ante la Secretaría, la documentación que lo acredite como profesional o pasante de alguna de las carreras señaladas en el artículo 1207 de este Reglamento.
-
-Los recetarios subsecuentes podrán obtenerse mediante la entrega de la matriz del talonario anterior.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1210.
 
-Sólo podrán obtener los permisos especiales a que se refiere el artículo 1208 de este Reglamento los médicos cirujanos, mediante:
-
-I. Solicitud en la que figuren los siguientes datos:
-
-a) Nombre, domicilio y firma del solicitante y número de su registro ante las autoridades educativas competentes;
-
-b) Nombre, cantidad, presentación y dosificación diaria;
-
-c) Nombre y domicilio del paciente, y
-
-d) Diagnóstico
-
-II. Comprobación física de la existencia y necesidad médica del paciente. En el caso de enfermos foráneos se requerirá la opinión de la autoridad sanitaria local.
-
-En los casos en que ya no se requiera el suministro del producto o sustancias a que se refiera el permiso; será obligación del médico y del paciente o de sus familiares, entregar a la Secretaría el sobrante.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1211.
 
-Los recetarios que proporcione la Secretaría para prescribir medicamentos que contengan estupefacientes o sustancias psicotrópicas del Grupo II del artículo 245 de la Ley, sólo podrán ser utilizados por el profesional a cuyo nombre se expidan.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1212.
 
-Los permisos especiales contendrán los siguientes datos:
-
-I. Número que les corresponda;
-
-II. Nombre y domicilio del profesional a quien se expiden;
-
-III. Nombre, presentación y cantidad prescrita de medicamentos que contengan estupefacientes o sustancias psicotrópicas del Grupo II del artículo 245 de la Ley;
-
-IV. Especificaciones de uso terapéutico, y
-
-V. Nombre y Domicilio del paciente.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ###### ARTICULO 1213.
 
-La perdida de recetarios o permisos especiales, deberá comunicarse de inmediato a la Secretaría anexando copia del acta levantada ante el agente del Ministerio Público Federal. La Secretaría cancelará el recetario extraviado comunicándolo a los establecimientos autorizados para surtirlo.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 1998)
 
 ## TITULO VIGESIMO SEGUNDO. Sustancias Tóxicas
 
@@ -10872,3 +10350,11 @@ En tanto se expidan las normas técnicas a que se refiere este Reglamento, segui
 Dado en la residencia del Poder Ejecutivo Federal, a los cuatro días del mes de enero de mil novecientos ochenta y ocho.- Miguel de la Madrid H..- Rúbrica.
 
 El Secretario de Energía, Minas e Industria Paraestatal, Alfredo del Mazo González.- Rúbrica.- El Secretario de Agricultura y Recursos Hidráulicos, Eduardo Pesqueira Olea.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Héctor Hernández Cervantes.- Rúbrica.- El Secretario de Desarrollo Urbano y Ecología, Manuel Camacho Solís.- Rúbrica.- El Secretario de Salud, Guillermo Soberón Acevedo.- Rúbrica.- El Secretario de Pesca, Pedro Ojeda Paullada.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Arsenio Farell Cubillas.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ramón Aguirre Velázquez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS DEL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 4 DE FEBRERO DE 1998.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE REGLAMENTO.
+
+SEGUNDO. Se derogan los artículos 2º., fracciones III, inciso r) y V; 46; 149 fracciones I, incisos c) y d) y III; 151; 156; 157; 158; 167, fracciones IV, V, VI y X; 181, 182 y 183, y el Título Vigesimoprimero, relativo a Insumos médicos, estupefacientes y substancias psicotrópicas, del Reglamento de la Ley General de Salud en Materia de Control Sanitario de Actividades, Establecimientos, Productos y Servicios, publicado en el Diario Oficial de la Federación el 18 de enero de 1988.
