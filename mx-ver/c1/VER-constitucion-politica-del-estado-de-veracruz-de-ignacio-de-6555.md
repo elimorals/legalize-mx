@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1996-11-09"
+last_updated: "1996-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE NOVIEMBRE DE 1996.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -831,9 +831,9 @@ d). La educación que imparte el estado será laica y por tanto, se mantendrá p
 
 e). La educación primaria y la secundaria son obligatorias y se impartirán gratuitamente por el Estado y los Municipios;
 
-> <small>(REFORMADO, G.O. 5 DE ENERO DE 1993)</small>
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 1996)</small>
 
-f). La educación superior a cargo de la Universidad Veracruzana tendrá como fines: conservar, crear y transmitir la cultura, a través de las funciones de docencia, investigación, difusión y extensión;
+f). La Universidad Veracruzana será autónoma; tendrá la facultad y la responsabilidad de gobernarse a sí misma y realizará sus fines de conservar, crear y transmitir la cultura, a través de las funciones de docencia, investigación, difusión y extensión, respetando las libertades de cátedra, de investigación y de libre examen y discusión de las ideas; determinará sus planes y programas; fijará los términos de ingreso, promoción y permanencia de su personal académico, y administrará su patrimonio;
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1993)</small>
 
@@ -931,9 +931,9 @@ VIII. Establecer exenciones o subsidios respecto de los impuestos, derechos, pro
 
 Son iniciativas de ley o decreto:
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 1996)</small>
 
-I. Las proposiciones que dirigen a la Legislatura el Gobernador del Estado, las Legislaturas de otros Estados de la Federación, el Tribunal Superior de Justicia y la Universidad Veracruzana en lo tocante a sus ramos;
+I. Las proposiciones que dirigen a la Legislatura, el Gobernador del Estado, las Legislaturas de otros Estados de la Federación y el Tribunal Superior de Justicia;
 
 II. Las proposiciones de los miembros de la Legislatura admitidas a discusión, conforme al Reglamento; y
 
@@ -1179,9 +1179,9 @@ XXII. Poner sobre las armas la Guardia Nacional con aprobación de la Legislatur
 
 XXIII. Disponer de las fuerzas de Seguridad Pública y movilizar la Guardia Nacional, dentro de los límites del Estado, según lo exijan las necesidades públicas, y ordenar que pase la Guardia a otros Estados, en los términos que disponga la Constitución General;
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 1996)</small>
 
-XXIV. Presidir las sesiones de los Ayuntamientos, y en las de toda clase de juntas a que concurra con carácter oficial;
+XXIV. Expedir los títulos profesionales de las instituciones de educación superior con arreglo a las leyes y reconocer la validez de los que se expidan en otras entidades, observando lo dispuesto en la fracción V del Artículo 121 de la Constitución Federal;
 
 > <small>(REFORMADA, G.O. 10 DE DICIEMBRE DE 1932)</small>
 
@@ -1577,7 +1577,7 @@ VIII. La Legislatura analizará y aprobará la Ley de Ingresos de los ayuntamien
 
 IX. Los presupuestos de egresos serán aprobados por los ayuntamientos, según los ingresos disponibles y conforme a las bases normativas que para tal efecto expida la Legislatura;
 
-X. Los municipios, con el concurso del Estado cuando así fuere necesario y lo determinen las leyes, tendrán a su cargo los siguientes servicios públicos:
+X. Los municipios , con el concurso del Estado cuando así fuere necesario y lo determinen las leyes, tendrán a su cargo los siguientes servicios públicos:
 
 a). Agua potable y alcantarillado;
 
@@ -2306,3 +2306,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenami
 G.O. 9 DE NOVIEMBRE DE 1996.
 
 UNICO. La presente Ley entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 26 DE NOVIEMBRE DE 1996.
+
+UNICO. La presente ley entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
