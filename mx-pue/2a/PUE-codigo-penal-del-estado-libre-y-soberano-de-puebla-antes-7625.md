@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "1999-03-26"
+last_updated: "1999-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 1999.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1728,6 +1728,26 @@ Para los efectos de los tres artículos anteriores se considerará como empleado
 ###### Artículo 224.
 
 Las sanciones que señalan los artículos 217, 219 y 221 se duplicarán cuando el delincuente percibiere un lucro derivado de su conducta o sea ascendiente, hermano, hermana, padrastro, madrastra, tutor o tutora del menor o persona que viva en la casa de éste. En el segundo supuesto se privará al reo de todo derecho a los bienes del ofendido y de la patria potestad sobre sus descendientes.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 1999)</small>
+
+###### Artículo 224 Bis.
+
+Al que utilice un menor o menores de dieciséis años a posar en fotografías y o participar en videos pornográficos, se le impondrá prisión de dos a diez años y multa de veinte a ciento veinte días de salario.
+
+Se entiende por pornografía infantil, la reproducción sexualmente explícita de la imagen de un menor o menores de dieciséis años mediante fotografías o videos pornográficos.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 1999)</small>
+
+###### Artículo 224 Ter.
+
+Quien por cualquier medio, sea directo, mecánico o con soporte informático, electrónico o de cualquier otro tipo, venda, publique, distribuya, exhiba y difunda; transporte o posea con algunos de estos fines, material pornográfico infantil, se le impondrá prisión de dos a cinco años y multa de diez a cien días de salario.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 1999)</small>
+
+###### Artículo 224 Quáter.
+
+Se duplicará la sanción a la persona que cometa o consienta cualquiera de las conductas descritas con anterioridad, si fuere ascendiente, hermano, hermana, padrastro, madrastra, tutor, tutora, o todo aquél que tenga relación de amistad o de otra índole con el menor.
 
 #### SECCION TERCERA.- FALSIFICACION DE DOCUMENTOS EN GENERAL
 
@@ -3908,3 +3928,13 @@ P.O. 26 DE MARZO DE 1999.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
+
+P.O. 16 DE AGOSTO DE 1999.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
