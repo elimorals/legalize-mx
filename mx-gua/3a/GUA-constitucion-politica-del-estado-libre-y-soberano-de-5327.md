@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1929-09-08"
+last_updated: "1932-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 1929.
-
-(REPUBLICADO, P.O. 29 DE DICIEMBRE DE 1929)
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1932.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -534,6 +532,10 @@ I. Ser Ciudadano guanajuatense en ejercicio de sus derechos y no haber sido cond
 II. Haber terminado la instrucción primaria.
 
 III. Tener veinticinco años cumplidos al tiempo de la elección.
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 1932)</small>
+
+IV. Haber residido en el Estado durante los dos años anteriores al día de la elección.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
 
@@ -1076,5 +1078,9 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 8 DE SEPTIEMBRE DE 1929.
 
 REPUBLICADO, P.O. 29 DE DICIEMBRE DE 1929.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+
+P.O. 14 DE ENERO DE 1932.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
