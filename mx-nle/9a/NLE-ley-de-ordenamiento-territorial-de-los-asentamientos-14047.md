@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ordenamiento-territorial-de-los-asentamientos-14047"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-03"
-last_updated: "2000-12-08"
+last_updated: "2003-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ORDENAMIENTO TERRITORIAL DE LOS ASENTAMIENTOS HUMANOS Y DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 3 de marzo de 1999.
 
@@ -1637,13 +1637,23 @@ IX.- La distancia máxima entre vías locales o entre vías locales y parque ser
 
 X.- Las señales de tránsito, lámparas, casetas y cualquier otro mobiliario de calles serán dispuestos de manera que no estorben a los peatones o a la visibilidad de los automovilistas, y que contribuyan a la estética urbana;
 
-XI.- Las instalaciones subterráneas para los servicios públicos, teléfonos, alumbrado, semáforos y energía eléctrica, deberán localizarse a lo largo de aceras o camellones excepto los cruces; y,
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
 
-XII.- A cada lado de los derechos de vía federales se establecerán restricciones de construcciones en una franja de 30.00 metros de anchura mínima sin perjuicio de lo que además establezcan las leyes federales.
+XI.- Las instalaciones subterráneas para los servicios públicos, teléfonos, alumbrado, semáforos y energía eléctrica, deberán localizarse a lo largo de aceras o camellones excepto los cruces;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+XII.- A cada lado de los derechos de vía federales se establecerán restricciones de construcciones en una franja de 30.00 metros de anchura mínima sin perjuicio de lo que además establezcan las leyes federales; y,
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+XIII.- Tener las características de textura y fricción adecuadas para un rodamiento seguro, de acuerdo al tipo de vía de que se trate y a su pendiente, conforme al reglamento que al efecto expida el Gobernado del Estado.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 125.
 
-Para todos los casos mencionados en el artículo anterior, los arroyos de las calles deberán pavimentarse de acuerdo a las especificaciones que establezca la autoridad municipal.
+Para todos los casos mencionados en el artículo anterior, los arroyos de las calles deberán pavimentarse de acuerdo a las especificaciones y normas técnicas que para tal efecto expida el Gobernador del Estado, en el reglamento respectivo.
 
 ###### Artículo 126.
 
@@ -3415,9 +3425,17 @@ V.- Llevar a cabo la ejecución de obras o instalaciones de cualquier naturaleza
 
 VI.- Establecer o cambiar el uso de suelo o destino de un predio, inmueble o edificación, distinto a lo autorizado o al proyecto aprobado, sin la debida autorización de la autoridad competente;
 
-VII.- Incurrir en actos u obras referentes a un fraccionamiento sin contar con la aprobación del proyecto y la autorización respectiva, y propiciar la ocupación irregular de esas áreas y predios; y,
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
 
-VIII.- Continuar ejerciendo los derechos derivados de un permiso o autorización al vencerse el término del mismo, sin haber obtenido su renovación.
+VII.- Incurrir en actos u obras referentes a un fraccionamiento sin contar con la aprobación del proyecto y la autorización respectiva, y propiciar la ocupación irregular de esas áreas y predios;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+VIII.- Continuar ejerciendo los derechos derivados de un permiso o autorización al vencerse el término del mismo sin haber obtenido su renovación; y,
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+IX.- La contravención a las normas básicas para las vías públicas establecidas en la presente Ley y en el reglamento respectivo.
 
 Quienes incurran en reiteración de conductas constitutivas de infracción, serán considerados reincidentes.
 
@@ -3431,7 +3449,9 @@ II.- La suspensión o demolición de construcciones e instalaciones, para los su
 
 III.- La revocación de las licencias y permisos otorgados, cuando se incurra en el supuesto contemplado en la fracción VI y en su caso multas de 1,000 a 2,000 veces el salario mínimo prevaleciente en la zona económica;
 
-IV.- Multas de 250 a 2,000 veces el salario mínimo prevaleciente en la zona económica, conforme a lo dispuesto por esta Ley, en caso de incurrir en el supuesto que establecen las fracciones VII y VIII;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+IV.- Multas de 250 a 2000 veces el salario mínimo prevaleciente en la zona económica, conforme a lo dispuesto por esta Ley y, en caso de incurrir en el supuesto que establecen las fracciones VII, VIII y IX;
 
 V.- Las demás que señalen las disposiciones de carácter general que al efecto expidan los ayuntamientos;
 
@@ -3746,3 +3766,7 @@ P.O. 8 DE DICIEMBRE DE 2000.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE SEPTIEMBRE DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
