@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-los-organismos-publicos-descentralizados-de-14954"
 country: "mx"
 rank: "ley"
 publication_date: "1985-07-16"
-last_updated: "1985-07-16"
+last_updated: "1994-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA LOS ORGANISMOS PUBLICOS DESCENTRALIZADOS, DE ASISTENCIA SOCIAL, DE CARACTER MUNICIPAL, DENOMINADOS «SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA»
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JULIO DE 1994.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 16 de julio de 1985.
 
@@ -39,9 +39,11 @@ LEY QUE CREA LOS ORGANISMOS PUBLICOS DESCENTRALIZADOS, DE ASISTENCIA SOCIAL, DE 
 
 ### CAPITULO PRIMERO. CONSTITUCION Y FINES
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 1994)</small>
+
 ###### ARTICULO PRIMERO.
 
-Se crean los Organismos Públicos Descentralizados de Asistencia Social, de carácter Municipal, denominados «SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA» de los Municipios de: NAUCALPAN, TLALNEPANTLA DE BAZ, ECATEPEC, NEZAHUALCOYOTL, TOLUCA, CUAUTITLAN IZCALLI, ATIZAPAN DE ZARAGOZA, TULTITLAN, HUIXQUILUCAN, LERMA, COACALCO, LA PAZ, METEPEC, CUAUTITLAN, VALLE DE BRAVO, TEXCOCO, TECAMAC, NICOLAS ROMERO, IXTAPALUCA, ATLACOMULCO, TEPOTZOTLAN, ZUMPANGO, IXTLAHUACA, JILOTEPEC, TENANCINGO, TIANGUISTENCO, ZINACANTEPEC, TEJUPILCO, HUEHUETOCA Y CHALCO, MEX.
+Se crean los Organismos Públicos Descentralizados, de asistencia social, de carácter municipal, denominados "SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA" de los Municipios de: NAUCALPAN DE JUAREZ, TLALNEPANTLA DE BAZ, ECATEPEC, NEZAHUALCOYOTL, TOLUCA, CUAUTITLAN IZCALLI, ATIZAPAN DE ZARAGOZA, TULTITLAN, HUIXQUILUCAN, LERMA, COACALCO DE BERRIOZABAL, LA PAZ, METEPEC, CUATITLAN, VALLE DE BRAVO, TEXCOCO, TECAMAC, NICOLAS ROMERO, IXTAPALUCA, ATLACOMULCO, TEPOZOTLAN, ZUMPANGO, IXTLAHUACA, JILOTEPEC, TENANCINGO, TIANGUISTENCO, ZINACATEPEC, TEJUPILCO, HUEHUETOCA, CHALCO, ACULCO, ALMOLOYA DEL RIO, ALMOLOYA DE ALQUISIRAS, ALMOLOYA DE JUAREZ, AMATEPEC, ATLAUTLA, APAXCO, AXAPUSCO, COATEPEC HARINAS, CHAPA DE MOTA, CHAPULTEPEC, CHIAUTLA, CHIMALHUACAN, DONATO GUERRA, EL ORO, IXTAPAN DE LA SAL, IXTAPAN DEL ORO, JOCOTITLAN, JOQUICINGO, JUCHITEPEC, MEXICALCINGO, NOPALTEPEC, OCUILAN, OTZOLOAPAN, OTZOLOTEPEC, OTUMBA, POLOTITLAN, PAPALOTLA, RAYON, SAN SIMON DE GUERRERO, SOYANIQUILPAN DE JUAREZ, SULTEPEC, TEMAMATLA, TEMASCALTEPEC, TEMASCALCINGO, TEMOAYA, TENANGO DEL AIRE, TANANGO DEL VALLE, TEOTIHUACAN, TEPETLIXPA, TEXCALYACAC, TIMILPAN, VILLA DE ALLENDE, VLLA DEL CARBON, ZACAZONAPAN Y ZUMPAHUACAN.
 
 ###### ARTICULO SEGUNDO.
 
@@ -57,11 +59,17 @@ II. Promover los mínimos de bienestar social y el desarrollo de la comunidad, p
 
 III. Fomentar la educación escolar y extra-escolar e impulsar el sano crecimiento físico y mental de la niñez;
 
-IV. Coordinar las tareas que en materia de asistencia social realicen otras Instituciones del Municipio;
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 1994)</small>
 
-V. Proporcionar la creación de establecimientos de asistencia social en beneficio de menores en estado de abandono, de ancianos y de los minusválidos sin recursos;
+IV. Coordinar las actividades que en materia de asistencia social realicen otras instituciones públicas o privadas en el municipio;
 
-VI.- Prestar servicios de asistencia jurídica y de orientación social a los menores, ancianos y minusválidos sin recursos, así como a la familia, en la búsqueda de su integración y bienestar;
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 1994)</small>
+
+V.- Impulsar, promover o gestionar la creación de instituciones o establecimientos de asistencia social, en beneficio de menores en estado de abandono, de senescentes y de discapacitados sin recursos.
+
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 1994)</small>
+
+VI.- Prestar servicios jurídicos y de orientación social a menores, senectos y discapacitados carentes de recursos económicos, así como a la familia para su integración y bienestar.
 
 VII. Procurar permanentemente la adecuación de los objetivos y programas del Sistema Municipal y los que lleve a cabo el D.I.F. Estatal, a través de Acuerdos, Convenios o cualquier figura jurídica, encaminados a la obtención del bienestar social;
 
@@ -151,7 +159,71 @@ VIII. Extender los nombramientos del personal del Sistema Municipal de acuerdo c
 
 IX. Proponer los planes y programas de trabajo del Sistema Municipal; y
 
-X. Todas las demás que sean necesarias para el cumplimiento de los objetivos del Sistema Municipal.
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 1994)</small>
+
+X. Fomentar y apoyar a las organizaciones o asociaciones privadas cuyo objeto sea la prestación de servicios de asistencia social;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 1994)</small>
+
+XI. Autorizar la contratación de créditos, así como la aceptación de herencias, legados o donaciones, cuando éstas sean condicionadas o se refieran a bienes en litigio;
+
+XII. Todas las demás que sean necesarias para el cumplimiento de los objetivos del Sistema Municipal.
+
+> <small>(ADICIONADO, G.G. 27 DE JULIO DE 1994)</small>
+
+ARTICULO DECIMO TERCERO BIS.- La Junta de Gobierno celebrará sesiones ordinarias por lo menos en forma bimestral y las extraordinarias que sean necesarias cuando las convoque el Presidente o la mayoría de sus miembros.
+
+> <small>(ADICIONADO, G.G. 27 DE JULIO DE 1994)</small>
+
+ARTICULO DECIMO TERCERO BIS A.- Habrá quórum en las sesiones de la Junta de Gobierno cuando concurran más de la mitad de sus integrantes, entre los que deberá estar el Presidente o quien legalmente lo supla, y sus resoluciones se tomarán por mayoría de votos de los miembros presentes. El Director tendrá voz pero no voto en las sesiones.
+
+> <small>(ADICIONADO, G.G. 27 DE JULIO DE 1994)</small>
+
+ARTICULO DECIMO TERCERO BIS B.- Por cada miembro propietario de la Junta se nombrará un suplente, con excepción del Presidente, quien será suplido por el Secretario.
+
+> <small>(ADICIONADO, G.G. 27 DE JULIO DE 1994)</small>
+
+ARTICULO DECIMO TERCERO BIS C.- Los cargos de los miembros de la Junta serán honoríficos.
+
+> <small>(ADICIONADO, G.G. 27 DE JULIO DE 1994)</small>
+
+ARTICULO DECIMO TERCERO BIS D.- Corresponde al Secretario de la Junta, entre otras actividades administrativas que le encargue el Presidente, llevar actualizado el libro de actas que él redactará, elaborar el orden del día de las sesiones y formular la convocatoria a éstas.
+
+> <small>(ADICIONADO, G.G. 27 DE JULIO DE 1994)</small>
+
+ARTICULO DECIMO TERCERO BIS E.- La Presidencia tendrá las atribuciones y obligaciones siguientes:
+
+I. Cumplir los objetivos, funciones y labores sociales del Organismo;
+
+II. Ejecutar los acuerdos y disposiciones de la Junta de Gobierno;
+
+III. Dictar las medidas y acuerdos necesarios para la protección de la infancia, el senescente, el discapacitado y la integración de la familia; así como para cumplir con los objetivos del Organismo;
+
+IV. Proponer a la Junta de Gobierno el Reglamento Interno del Organismo y sus modificaciones; así como los manuales de organización, de procedimientos y de servicios al público;
+
+V. Proponer a la Junta de Gobierno los planes y programas de trabajo del Organismo;
+
+VI. Celebrar los convenios necesarios con las dependencias y entidades públicas para el cumplimiento de los objetivos del Organismo;
+
+VII.- Otorgar poder general o especial en nombre del organismo, previo acuerdo de la Junta de Gobierno;
+
+VIII. Presidir el Patronato a que se refiere el artículo 19 de la presente Ley y proponer a la Junta de Gobierno a las personas que puedan integrarlo.
+
+IX. Proponer a la Junta de Gobierno los nombramientos y remociones del personal del Organismo;
+
+X. Presentar a la Junta de Gobierno los proyectos de presupuestos, informes de actividades y de estados financieros anuales para su aprobación;
+
+XI. Solicitar asesoría de cualquier naturaleza a las personas o instituciones que estime conveniente;
+
+XII. Conducir las relaciones laborales del Organismo de acuerdo con las disposiciones legales aplicables;
+
+XIII. Rendir los informes que la Junta de Gobierno le solicite;
+
+XIV. Revisar y autorizar los libros de Contabilidad y de inventarios que deba llevar el Organismo;
+
+XV. Pedir y recibir los informes que requiera del personal del Organismo;
+
+XVI. Las demás que le confieran los ordenamientos legales y la Junta de Gobierno.
 
 ###### ARTICULO DECIMO CUARTO.
 
@@ -193,11 +265,13 @@ Las relaciones laborales del Sistema Municipal y sus trabajadores, se regirán p
 
 ### CAPITULO CUARTO. CONTROL Y VIGILANCIA
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 1994)</small>
+
 ### CAPITULO QUINTO. PRERROGATIVAS Y FRANQUICIAS
 
 ###### ARTICULO VIGESIMO PRIMERO.
 
-Los Sistemas Municipales para el Desarrollo Integral de la Familia de los Municipios, estarán sujetos al control y vigilancia de la Contaduría General de Glosa del Estado de México, quien la ejercerá a través de un representante.
+Los Sistemas Municipales para el Desarrollo Integral de la Familia estarán sujetos al control y vigilancia de los ayuntamientos y deberán coordinarse con el Sistema Estatal por medio de los convenios correspondientes para la concordancia de programas y actividades.
 
 ###### ARTICULO VIGESIMO SEGUNDO.
 
@@ -240,3 +314,11 @@ EL SECRETARIO DE GOBIERNO
 Lic. Leopoldo Velasco Mercado
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 27 DE JULIO DE 1994.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta del Gobierno.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en la Gaceta del Gobierno.
