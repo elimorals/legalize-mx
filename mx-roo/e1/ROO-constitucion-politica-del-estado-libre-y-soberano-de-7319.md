@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1984-07-20"
+last_updated: "1985-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1985.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -485,9 +485,9 @@ No podrá ser diputado:
 
 I.- El Gobernador en ejercicio, aún cuando se separe definitivamente de su puesto, cualesquiera sea su calidad, el origen y la forma de designación.
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1985)</small>
 
-II.- El Secretario de Gobierno, el Secretario de Desarrollo Económico, el Secretario de Finanzas, el Secretario de Obras Públicas y Desarrollo Urbano, el Secretario Estatal de Turismo, el Secretario de Educación Pública y Bienestar Social, el Secretario de Fomento Agropecuario, el Contralor de Gobierno, el Oficial Mayor, el Procurador General, los Magistrados del Tribunal Superior de Justicia, los Jueces y cualquiera otra persona que desempeñe cargo público Estatal a menos que se separe definitivamente de su cargo 90 días antes de la fecha de la elección.
+II.- El Secretario de Gobierno, el Secretario de Desarrollo Económico, el Secretario de Finanzas, el Secretario de Obras Públicas y Desarrollo Urbano, el Secretario Estatal de Turismo, el Secretario de Educación Pública y Cultura Popular, el Secretario de Salud y Bienestar Social, el Secretario de Fomento Agropecuario, el Contralor de Gobierno, el Oficial Mayor de Gobierno, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Jueces y cualquiera otra persona que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo 90 días antes de la fecha de la elección.
 
 III.- Los presidentes municipales o quienes ocupen cualquier cargo municipal, a menos que se separe (sic) del mismo 90 días antes de la elección.
 
@@ -791,9 +791,9 @@ IV.- No ser militar en servicio activo o ciudadano con mando en los cuerpos de s
 
 V.- No ser Secretario de Estado o Jefe de Departamento, Ministro de la Suprema Corte de Justicia de la Nación o Procurador General de Justicia de la Nación, en funciones, dentro de los noventa días anteriores a la fecha de la elección.
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1985)</small>
 
-VI.- No ser Secretario de Gobierno, Secretario de Desarrollo Económico, Secretario de Finanzas, Secretario de Obras Públicas y Desarrollo Urbano, Secretario de Educación Pública y Bienestar Social, Secretario de Fomento Agropecuario, Secretario Estatal de Turismo, Contralor del Estado, Oficial Mayor, Procurador, Magistrado del Tribunal Superior de Justicia del Estado, dentro de los 90 días anteriores a la fecha de la elección; y
+VI.- No ser Secretario de Gobierno, Secretario de Desarrollo Económico, Secretario de Finanzas, Secretario de Obras Públicas y Desarrollo Urbano, Secretario Estatal de Turismo, Secretario de Educación Pública y Cultura Popular, Secretario de Salud y Bienestar Social, Secretario de Fomento Agropecuario, Contralor de Gobierno, Oficial Mayor, Procurador General de Justicia, Magistrados del Tribunal Superior de Justicia del Estado, dentro de los 90 días anteriores a la fecha de elección, y
 
 VII.- No estar comprendido en alguna de las prohibiciones establecidas por el artículo 89 de esta Constitución.
 
@@ -949,9 +949,11 @@ Toda Ley o decreto será refrendada por el Secretario de Gobierno y por el funci
 
 El Ministerio Público estará a cargo deun (sic) Procurador General de Justicia y del número de agentes que la ley determine.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE ENERO DE 1985)</small>
+
 ###### ARTICULO 95.
 
-Para ser Secretario de Gobierno, Secretario de Desarrollo Económico, Secretario de Finanzas y oficial Mayor, se requiere:
+Para ser Secretario de Gobierno, Secretario de Desarrollo Económico, Secretario de Finanzas, Secretario de Obras Públicas y Desarrollo Urbano, Secretario Estatal de Turismo, Secretario de Educación Pública y Cultura Popular, Secretario de Salud y Bienestar Social, Secretario de Fomento Agropecuario, Contralor de Gobierno y Oficial Mayor de Gobierno, se requiere:
 
 I.- Ser ciudadano quintanarroense y nativo de la entidad o con residencia efectiva no menor de 5 años.
 
@@ -1888,3 +1890,7 @@ P.O. 20 DE JULIO DE 1984.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE ENERO DE 1985.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
