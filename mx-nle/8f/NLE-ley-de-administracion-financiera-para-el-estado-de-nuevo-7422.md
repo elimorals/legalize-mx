@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-administracion-financiera-para-el-estado-de-nuevo-7422"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-18"
-last_updated: "2002-12-27"
+last_updated: "2004-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ADMINISTRACION FINANCIERA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 18 de noviembre de 1994.
 
@@ -1073,7 +1073,9 @@ I.- El Gobierno del Estado;
 
 II.- Los organismos descentralizados del Estado; y
 
-III.- Los fideicomisos en los que el fideicomitente sea alguna de las entidades mencionadas en este artículo.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+
+III.- Los Fideicomisos Públicos constituidos en los términos del Artículo 159.
 
 ###### ARTICULO 125.
 
@@ -1085,11 +1087,11 @@ Para los efectos de esta ley se entiende por financiamiento a través del crédi
 
 El titular del Ejecutivo Estatal informará al Congreso del Estado la situación relativa a los saldos del crédito público a cargo del Estado, al rendir la cuenta pública anual.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTICULO 127.
 
-Se requerirá autorización del Congreso del Estado para contratar créditos directos o contingentes, cuando se afecten en pago o en garantía ingresos o bienes del Estado. En los demás casos, incluyendo la reestructuración de créditos en los que no se afecten o incrementen las garantías de ingresos o bienes del Estado, los créditos serán autorizados por el Ejecutivo, a través de la Secretaría de Finanzas y Tesorería General del Estado.
+Se requerirá autorización del Congreso del Estado para que cualquiera de las entidades a que se refieren las fracciones I a III del Artículo 2 de esta Ley, contrate créditos directos o contingentes, cuando se afecten en pago o en garantía ingresos o bienes del Estado. En los demás casos, incluyendo la reestructuración de créditos en los que no se afecten o incrementen las garantías de ingresos o bienes del Estado y los créditos contratados por fideicomisos que no sean considerados fideicomisos públicos en términos del Artículo 159 de esta Ley, serán autorizados por el Ejecutivo, a través de la Secretaría de Finanzas y Tesorería General del Estado.
 
 ###### ARTICULO 128.
 
@@ -1269,9 +1271,11 @@ Los presupuestos de egresos de las entidades serán aprobados por sus respectivo
 
 Para que se considere aprobado el presupuesto, deberá contar con el voto favorable del Titular del Ejecutivo y del Secretario de Finanzas y Tesorero General del Estado.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 155.
 
-Las tarifas de los bienes que enajenan y de los servicios que prestan las entidades, cuando no estén establecidos en las leyes fiscales, serán aprobadas por sus respectivos consejos de administración u órgano equivalente, considerando las opiniones a que se refieren los artículos 29 y 30.
+Las tarifas de los bienes que enajenan y de los servicios que prestan las entidades, se determinarán de acuerdo a lo dispuesto en sus respectivas leyes orgánicas u otros actos constitutivos; a falta de disposición en la respectiva ley orgánica o el acto constitutivo correspondiente, se estará a lo que dispongan las leyes fiscales, y cuando no estén establecidos en las leyes fiscales, serán aprobadas por sus respectivos consejos de administración u órgano equivalente, considerando la opinión a que se refiere el Artículo 29 de esta Ley; cuando así lo establezca la Ley Orgánica o el acto constitutivo correspondiente, podrá prescindirse de dicha opinión.
 
 ###### ARTICULO 156.
 
@@ -1297,9 +1301,13 @@ Lo dispuesto en este artículo no limita las facultades que esta y otras leyes o
 
 La evaluación financiera de las entidades será realizada a través de sus órganos internos, con la intervención que corresponda a la Secretaría de Finanzas y Tesorería General del Estado y a la Secretaría de la Contraloría General del Estado.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 159.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Tesorería General del Estado, será el fideicomitente único del Gobierno del Estado.
+Son Fideicomisos Públicos únicamente aquellos que se constituyan por el Ejecutivo del Estado, a través de la Secretaría de Finanzas y Tesorería General del Estado como fideicomitente, y que se organicen de manera análoga a los organismos descentralizados o empresas de participación estatal mayoritaria. Los Fideicomisos Públicos serán considerados como integrantes de la administración pública paraestatal y estarán sujetos a la normatividad administrativa correspondiente.
+
+Los fideicomisos constituidos por los organismos descentralizados y demás entidades del sector paraestatal que cuenten con patrimonio propio no serán considerados como fideicomisos públicos y se sujetarán en su operación, control y régimen financiero exclusivamente a la Ley Orgánica o el acto constitutivo que les corresponda y a las disposiciones que se estipulen en los contratos respectivos.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 1995)</small>
 
@@ -1444,3 +1452,13 @@ UNICO:- El presente Decreto entrará en vigor el día de su publicación en el P
 P.O. 27 DE DICIEMBRE DE 2002.
 
 Artículo Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2003.
+
+P.O. 3 DE SEPTIEMBRE DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- A la entrada en vigor de la presente reforma se ratifica el derecho del Organismo Público Descentralizado Denominado Red Estatal de Autopistas de Nuevo León, para explotar la Autopista Monterrey-Cadereyta.
+
+Artículo Tercero.- Los derechos de reversión y los derechos fideicomisarios que correspondan al Estado de Nuevo León conforme al Fideicomiso 1339 de fecha 27 de mayo de 1992 redundarán en beneficio del Organismo Público Descentralizado Red Estatal de Autopistas de Nuevo León.
+
+Artículo Cuarto.- En caso de que se modifique posteriormente la Ley que crea el Organismo Público Descentralizado Red Estatal de Autopistas de Nuevo León, se deberán respetar los derechos de los terceros que hayan contratado con el organismo, en los términos y condiciones pactados.
