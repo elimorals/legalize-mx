@@ -4,7 +4,7 @@ identifier: "MOR-codigo-civil-para-el-estado-libre-y-soberano-de-morelos-35441"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "2000-09-06"
+last_updated: "2002-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2002.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 13 de octubre de 1993.
 
@@ -3375,6 +3375,8 @@ SANCION AL OFICIAL DEL REGISTRO CIVIL POR RETARDO INJUSTIFICADO DEL MATRIMONIO. 
 
 ### CAPITULO VI. DE LAS ACTAS DE DEFUNCION
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 507.
 
 LEVANTAMIENTO Y ENVIO DEL ACTA DE DIVORCIO. Ejecutoriada la sentencia de divorcio, el Juez que la hubiere decretado remitirá copia certificada de ella al Oficial del Registro Civil que corresponda, para que levante el acta respectiva, la que contendrá los requisitos especificados en el artículo 508 de este Código.
@@ -3391,7 +3393,7 @@ ANOTACION DEL ACTA DE DIVORCIO EN OTRAS ACTAS. Extendida el acta de divorcio, se
 
 ###### ARTICULO 510.
 
-INTERVENCION DEL OFICIAL DEL REGISTRO CIVIL PARA EFECTUAR INHUMACION O CREMACION. Ninguna inhumación o cremación se hará sin autorización escrita del Oficial del Registro Civil, quien se asegurará del fallecimiento mediante certificado expedido por médico legalmente autorizado. No se procederá a la inhumación o cremación sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto los casos en que se ordene lo contrario por autoridad competente.
+INTERVENCION DEL OFICIAL DEL REGISTRO CIVIL PARA EFECTUAR INHUMACION O CREMACION. Ninguna inhumación o cremación se hará sin autorización escrita del Oficial del Registro Civil, quien se asegurará del fallecimiento mediante certificado expedido por médico legalmente autorizado. No se procederá a la inhumación o cremación sino hasta después de que transcurran doce horas y antes de cuarenta y ocho horas del fallecimiento, excepto los casos en que se ordene lo contrario por autoridad competente.
 
 ###### ARTICULO 511.
 
@@ -15264,3 +15266,9 @@ P.O. 6 DE SEPTIEMBRE DE 2000.
 PRIMERO.- Remítase al Titular del Poder Ejecutivo del Estado, para los efectos contenidos en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado.
+
+P.O. 10 DE JULIO DE 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo previsto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
