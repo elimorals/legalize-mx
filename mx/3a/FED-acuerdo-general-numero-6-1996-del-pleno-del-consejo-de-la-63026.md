@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-6-1996-del-pleno-del-consejo-de-la-63026
 country: "mx"
 rank: "acuerdo"
 publication_date: "1996-03-13"
-last_updated: "1996-03-13"
+last_updated: "1996-09-27"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63026&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1996-03-01"
 
 ACUERDO GENERAL NUMERO 6/1996, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES DEL CONCURSO INTERNO DE OPOSICION, PARA LA DESIGNACION DE JUECES DE DISTRITO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL ACUERDO GENERAL NUMERO 20/1996, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 27 DE SEPTIEMBRE DE 1996, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: SIN EFECTOS.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 13 de marzo de 1996.
 
@@ -152,3 +154,13 @@ PRIMERO.- Este Acuerdo entrará en vigor en la fecha de su publicación en el Di
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
 
 EL LICENCIADO ADOLFO O. ARAGON MENDIA, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General número 6/1996, que fija las bases del concurso interno de oposición, para la designación de jueces de Distrito, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de primero de marzo de mil novecientos noventa y seis, por unanimidad de votos de los señores Consejeros: Presidente ministro José Vicente Aguinaco Alemán, Alonso Galván Villagómez, Hilda Cecilia Martínez González, Mario Melgar Adalid, Ricardo Méndez Silva, Alfonso Oñate Laborde y Luis Gilberto Vargas Chávez.- México, Distrito Federal, a siete de marzo de mil novecientos noventa y seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 27 DE SEPTIEMBRE DE 1996.
+
+PRIMERO.- Se deja sin efectos el Acuerdo General número 6/1996, del Pleno del Consejo de la Judicatura Federal, que fija las bases del concurso interno de oposición, para la designación de jueces de Distrito, publicado en el Diario Oficial de la Federación el trece de marzo de mil novecientos noventa y seis.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
