@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-universidad-de-quintana-roo-8610"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-09-14"
-last_updated: "1994-09-14"
+last_updated: "1998-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DE LA UNIVERSIDAD DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 14 de septiembre de 1994.
 
@@ -47,17 +47,21 @@ La Universidad de Quintana Roo es un Organismo Público Descentralizado del Esta
 
 ###### Artículo 2º.
 
-El domicilio y sede oficial de la Universidad de Quintana Roo es el que tiene actualmente en la Ciudad de Chetumal, pero podrá establecer unidades académicas en otras ciudades del Estado, conforme a las necesidades del desarrollo social y cultural del Estado, y a los recursos de que pueda disponer, así como establecer representaciones en otras entidades de la República o del extranjero, atendiendo a su vocación regional, de acuerdo a los convenios celebrados con instituciones similares de esas entidades federativas o del extranjero.
+EI domicilio y sede oficial de la Universidad de Quintana Roo es el que tiene actualmente en la Ciudad de Chetumal, pero podrá establecer unidades académicas en otras ciudades del Estado, conforme a las necesidades del desarrollo social y cultural del Estado, y a los recursos de que pueda disponer, así como establecer representaciones en otras entidades de la República o del extranjero, atendiendo a su vocación regional, de acuerdo a los convenios celebrados con instituciones similares de esas entidades federativas o del extranjero.
 
 ### CAPITULO II.
 
 FINES, FACULTADES, PRINCIPIOS E INTEGRACION.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 1998)</small>
+
 ###### Artículo 3º.
 
-Se le encomiendan a la Universidad de Quintana Roo los siguientes fines:
+Se le encomienda a la Universidad de Quintana Roo los siguientes fines:
 
-I.- Impartir educación superior en los niveles de licenciatura, estudios de postgrado, cursos de actualización y especialización mediante las diferentes modalidades de enseñanza para formar los profesionistas, profesores e investigadores que requiere el Estado de Quintana Roo, la región y el país, en su armónico desarrollo socioeconómico y cultural.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 1998)</small>
+
+I.- Impartir educación superior en los niveles técnicos, de licenciatura, estudios de posgrado, cursos de actualización y especialización mediante las diferentes modalidades de enseñanza para formar los profesionistas, profesores e investigadores que requiere el Estado de Quintana Roo, la región y el país, en su armónico desarrollo socioeconómico y cultural.
 
 La formación de los individuos se orientará a ser integral, con clara actitud humanística, social y científica; dotados de espíritu emprendedor, innovador y de logro de objetivos; encauzados a la superación personal, comprometidos con el progreso del ser humano, del amor a la patria y a la conciencia de responsabilidad social;
 
@@ -85,7 +89,7 @@ V.- Incorporar estudios y otorgar o retirar reconocimiento de validez a los curs
 
 VI.- Conceder validez, para fines académicos, mediante revalidación o establecimiento de equivalencias a los estudios cursados en otros establecimientos educativos, nacionales o extranjeros, de acuerdo con lo previsto en la normatividad interna y demás disposiciones aplicables;
 
-VII: Expedir las normas y fijar los requisitos para el ingreso y la permanencia de los alumnos, tomando en cuenta su capacidad y aprovechamiento.
+VII.- Expedir las normas y fijar los requisitos para el ingreso y la permanencia de los alumnos, tomando en cuenta su capacidad y aprovechamiento.
 
 Para la fijación de los requisitos no se considerarán limitaciones derivadas de sexo, edad, estado civil, condición socioeconómica, militancia política, ni creencias personales;
 
@@ -103,7 +107,9 @@ X.- Designar y remover a las autoridades, funcionarios, personal académico y ad
 
 XI.- Celebrar toda clase de actos jurídicos para el cumplimiento de sus fines;
 
-XII.- Administrar libremente su patrimonio y realizar las actividades que permitan su incremento;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 1998)</small>
+
+XII.- Administrar libremente su patrimonio y realizar las actividades que permitan su incremento; para tal fin, promoverá la creación de empresas, industrias y servicios que la vinculen a los sistemas Estatal y Nacional de producción y le permitan coadyuvar al desarrollo de la comunidad. Asimismo podrá participar en la constitución de asociaciones, sociedades y fundaciones que tengan por objeto impulsar el desarrollo de sus actividades, y celebrar los convenios necesarios para el logro de los propósitos establecidos en esta fracción.
 
 XIII.- Colaborar con el Gobierno del Estado de Quintana Roo, a solicitud expresa del Gobernador del Estado, en la formulación, coordinación, apoyo y desarrollo de actividades tendientes a elevar el nivel de la educación superior en el Estado y en la Región.
 
@@ -135,7 +141,7 @@ AUTORIDADES UNIVERSITARIAS.
 
 ###### Artículo 7º.
 
-El gobierno de la Universidad queda encomendado a las siguientes autoridades:
+EI gobierno de la Universidad queda encomendado a las siguientes autoridades:
 
 I.- La Junta Directiva;
 
@@ -249,7 +255,7 @@ VIII.- Un representante del Patronato, designado por dicho órgano;
 
 IX.- El Secretario General de la Universidad, quien fungirá como Secretario del Consejo;
 
-X.- Los demás Secretarios de la Universidad, quienes tendrán derecho a voz, pero no a voto.
+X.- Los demás Secretarios de la Universidad, quienes tendrán derecho a voz, pero no a voto;
 
 Los representantes del personal académico durarán dos años en el cargo; los
 
@@ -287,15 +293,19 @@ V.- No ser funcionario o empleado municipal, estatal o federal tanto al momento 
 
 El cargo de Consejero Universitario es honorífico, personal e intransferible.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 1998)</small>
+
 ###### Artículo 19.
 
-Son atribuciones del Consejo universitario:
+Son atribuciones del Consejo Universitario:
 
 I.- Expedir y aprobar todas las normas y disposiciones generales destinadas al mejoramiento de la organización y funcionamiento académico, técnico y administrativo de la Universidad;
 
 II.- Designar a los integrantes de la Junta Directiva, correspondientes al personal académico de la Universidad;
 
-III.- Aprobar la creación, modificación o supresión de carreras de licenciatura y de postgrado;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 1998)</small>
+
+III.- Aprobar la creación, modificación o supresión de carreras de licenciatura y posgrado;
 
 IV.- Aprobar, modificar o suprimir los planes, proyectos y programas para el desarrollo de la Universidad; los planes y programas académicos, de investigación, de difusión y extensión de la cultura; así como, los mecanismos, criterios y periodicidad de la planeación y evaluación institucional;
 
@@ -491,7 +501,7 @@ IV.- Formular y ejecutar los planes, proyectos y programas académicos y para el
 
 V.- Proponer al rector el nombramiento de los funcionarios, del personal académico y administrativo de la unidad;
 
-VI.- Formular el anteproyecto de presupuesto de la unidad y ponerlo a consideración del rector
+VI.- Formular el anteproyecto de presupuesto de la unidad y ponerlo a consideración del rector;
 
 VII.- Presentar al consejo académico correspondiente, durante el mes de febrero, el informe de actividades del año anterior, incluyendo las actividades relacionadas con la evaluación de las diferentes actividades de la unidad;
 
@@ -657,9 +667,15 @@ El Presidente del Patronato contará con la facultad de delegar los poderes a qu
 
 PATRIMONIO DE LA UNIVERSIDAD.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1998)</small>
+
 ###### Artículo 48.
 
 El compromiso social de la Universidad de cumplir sus funciones de servicio con una mayor calidad cotidiana, compromete a la sociedad y al Estado a ofrecerle apoyo y recursos financieros adecuados; y a los beneficiarios del servicio público de tipo superior, a cubrir a la Universidad las aportaciones económicas establecidas, que le permitan consolidar, mejorar y ampliar sus servicios.
+
+La universidad destinará la totalidad de sus activos exclusivamente a los fines propios de su objeto social, no pudiendo otorgar beneficios sobre el remanente distribuible a persona física alguna o a sus integrantes personas físicas o morales.
+
+La universidad al momento de su liquidación y con motivo de la misma, destinará la totalidad de su patrimonio a entidades autorizadas por la Secretaría de Hacienda y Crédito Público para recibir donativos deducibles para efectos de la determinación del impuesto sobre la renta.
 
 ###### Artículo 49.
 
@@ -753,7 +769,7 @@ NELSON LEZAMA MENDOZA
 
 DIPUTADO SECRETARIO
 
-MARGARITO BUTRON HERNANDEZ
+MARGARITO BUITRON HERNANDEZ
 
 EN CUMPLIMIENTO DE LO DISPUESTO EN EL ARTICULO 91 FRACCION II, DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Y PARA SU DEBIDA OBSERVANCIA MANDO SE PUBLIQUE EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO. DADO EN LA RESIDENCIA DEL PODER EJECUTIVO EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS TRECE DIAS DEL MES DE SEPTIEMBRE DE MIL NOVECIENTOS NOVENTA Y CUATRO.
 
@@ -764,3 +780,15 @@ ING. MARIO ERNESTO VILLANUEVA MADRID.
 EL C. SECRETARIO GENERAL DE GOBIERNO.
 
 C. PROFR. RAUL OMAR SANTANA BASTARRACHEA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE JULIO DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+###### ARTICULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones legales y reglamentarias que contravengan lo dispuesto en las presentes reformas.
