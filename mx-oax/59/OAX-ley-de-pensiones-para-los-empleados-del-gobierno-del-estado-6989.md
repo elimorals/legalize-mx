@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pensiones-para-los-empleados-del-gobierno-del-estado-698
 country: "mx"
 rank: "ley"
 publication_date: "1958-06-07"
-last_updated: "1984-01-14"
+last_updated: "1984-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PENSIONES PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 1984.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el sábado 7 de junio de 1958.
 
@@ -603,51 +603,77 @@ Los trabajadores y pensionistas deben manifestar por escrito a la Oficina de Pen
 
 A falta de la designación a que se refiere el artículo anterior, los gastos de funeral se entregarán a los deudos en el orden señalado en el artículo 51 de esta Ley. Si no existieren deudos, la Oficina de Pensiones se encargará del sepelio limitándose a las cantidades señaladas en los artículos 74 y 75. Cuando el fallecimiento ocurra en lugares alejados de la Oficina de Pensiones, el Recaudador o Sub-Recaudador de Rentas, o en su caso el Presidente Municipal de la jurisdicción correspondiente, se encargará del sepelio con las mismas limitaciones, pasándole cuentas comprobadas a la Oficina de Pensiones para que ésta le reembolse desde luego los gastos efectuados.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1984)</small>
+
 ### CAPITULO XIII.
 
 DE LOS PRESTAMOS EN GENERAL.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1984)</small>
+
 ###### ARTICULO 78.
 
-Tendrán derecho a los préstamos que haga la Oficina de Pensiones los trabajadores y los pensionistas. Los trabajadores adquirirán ese derecho cuando tengan un año de contribuir al Fondo de Pensiones, si se trata de préstamos a corto plazo, y tres años para los hipotecarios.
+Tendrán derecho a los préstamos que haga la Oficina de Pensiones, los trabajadores y los pensionistas. Los trabajadores adquirirán ese derecho cuando tengan seis meses de contribuir al Fondo de Pensiones, si se trata de préstamos a corto plazo, y tres años para los hipotecarios.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1984)</small>
 
 ###### ARTICULO 79.
 
-Los préstamos serán de tal manera que los abonos para reintegrarlos junto con los intereses respectivos y los descuentos que deban hacerse por cualquier otro concepto, no excedan del cincuenta por ciento de los sueldos del interesado.
+Los préstamos serán de tal manera que los abonos para reintegrarlos no excedan del 50% de los sueldos del interesado.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1984)</small>
 
 ### CAPITULO XIV.
 
 DE LOS PRESTAMOS A CORTO PLAZO.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1984)</small>
 
 ###### ARTICULO 80.
 
-Los préstamos no excederán del importe de tres meses de sueldo del trabajador o de la cuota por noventa días que disfrute el pensionista. El interés que se cubrirá será de seis por ciento anual sobre saldos insolutos y el plazo para liquidar dicho préstamo no excederá de doce meses, mediante pagos iguales de acuerdo con la periodicidad con que se cubran los sueldos y salarios por el Gobierno del Estado, por la Oficina de Pensiones o por las Instituciones descentralizadas, en su caso.
+Los préstamos no excederán del importe de seis meses de sueldo del trabajador o de la cuota por noventa días que disfrute el jubilado o pensionado. El interés que se cubrirá será de SEIS POR CIENTO ANUAL, sobre saldos insolutos, interés que se descontará al hacer la operación y el plazo para liquidar dicho préstamo podrá ser hasta de veinticuatro meses, mediante pagos iguales de acuerdo a la periodicidad con que se cubran los sueldos y salarios por el Gobierno del Estado, por la Oficina de Pensiones o por las Instituciones Descentralizadas en su caso. Estos préstamos se otorgarán conforme a la tabla siguiente:
+
+a) Hasta el importe de 3 meses de sueldo básico cuando el solicitante tenga de seis meses a un año de aportaciones. El plazo para liquidarse será de doce meses.
+
+b) Hasta el importe de 4 meses de su sueldo básico, cuando el solicitante tenga de un año un día a cinco años de de (sic) aportaciones. El plazo para liquidarse será de 18 meses.
+
+c) Hasta el importe de 5 meses de sueldo básico, cuando el solicitante tenga de cinco años un día a diez años de aportaciones. El plazo para liquidarse será de 18 meses.
+
+d) Hasta el importe de 6 meses de su sueldo básico, cuando el solicitante tenga más de diez años de aportaciones. El plazo para liquidarse será de 24 meses.
+
+El porcentaje de interés a que se refiere este Artículo será revisable anualmente, y podrá modificarse en los términos en que lo acuerde el Consejo Directivo de Pensiones.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1984)</small>
 
 ###### ARTICULO 81.
 
-No se concederá nuevo préstamo mientras permanezca insoluto el anterior; pero podrá renovarse cuando hayan transcurrido tres meses de la fecha en que se concedió, que se hayan cubierto los abonos por dicho período, y el deudor pague la prima de renovación que, por medio de acuerdos generales, fije la Oficina de Pensiones.
+No se concederá nuevo préstamo mientras permanezca insoluto el anterior; pero podrá renovarse cuando hayan transcurrido a partir de la fecha en que se concedió, 6 meses en el caso al que se refiere el inciso "a" del Artículo 80, 12 meses en el caso de los préstamos a que se refieren los incisos "b" y "c" y 18 meses en el caso a que se refiere el inciso "d", estos últimos también del Artículo 80 y el deudor pague la prima de renovación que por medio de acuerdos generales fije la Oficina de Pensiones.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1984)</small>
 
 ###### ARTICULO 82.
 
-Los préstamos quedarán garantizados con el importe de los descuentos hechos al interesado para el Fondo de Pensiones; pero cuando éstos sean inferiores a aquéllos la diferencia se protegerá con el Fondo de Garantía, que se formará con una cuota con que deberá contribuir el interesado. Esta cuota, que podrá variar, será fijada por la Oficina de Pensiones mediante acuerdos generales.
+Cuando el fondo aportado por el interesado no alcance a cubrir la cantidad solicitada, ésta se garantizará con uno o dos avales a satisfacción de la Oficina de Pensiones, que deberán ser trabajadores en servicio activo. Se protegerá también con el fondo de garantía que se constituirá con una cuota con que deberá contribuir el interesado. Esta cuota que podrá variar, será fijada por la Oficina de Pensiones mediante acuerdos generales. Los trabajadores podrán avalar con su firma los compromisos de pago de otros trabajadores hasta en dos ocasiones pero entre tanto no sean liquidados completamente, éstos créditos, quedará a juicio de la propia Oficina de Pensiones la autorización de créditos que soliciten dichos Avales.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1984)</small>
 
 ### CAPITULO XV.
 
 DE LOS PRESTAMOS HIPOTECARIOS.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1984)</small>
 
 ###### ARTICULO 83.
 
-Los préstamos hipotecarios se harán con un plazo para redimirlos que no excederá de diez años y el interés que se aplique no será mayor del seis por ciento anual sobre saldos insolutos. Se señalarán periodos de pago iguales a los que rigen para el pago de la remuneración al personal que contribuye al Fondo de Pensiones.
+Los préstamos hipotecarios se harán con un plazo para redimirlos que no excederá de diez años, y el interés que se aplique será del 6% anual sobre saldos insolutos. Se señalarán periodos de pagos iguales a los que rigen para el pago de la remuneración al personal que contribuye al Fondo de Pensiones.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
+El porcentaje de interés a que se refiere éste Artículo, será revisable anualmente, y podrá modificarse en los términos en que lo acuerde el Consejo Directivo de Pensiones.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1984)</small>
 
 ###### ARTICULO 84.
 
-Los préstamos no podrán ser mayores del noventa por ciento del valor comercial fijado, por los peritos al inmueble, materia de la operación.
+Los préstamos hipotecarios, se harán hasta por $800,000.00 OCHOCIENTOS MIL PESOS, CERO CENTAVOS, pero en todo caso no podrán ser mayores del 90% del valor comercial fijado por los peritos de la Oficina de Pensiones, al inmueble materia de la operación, y se otorgarán mediante acuerdo expreso del Consejo Directivo de Pensiones, quien tomará en consideración para fundamentarlo la liquidez y disposición de recursos financieros que tenga la institución.
 
 ###### ARTICULO 85.
 
@@ -659,11 +685,13 @@ Los préstamos se concederán si están destinados a adquirir casas de habitaci�
 
 Esta clase de préstamos también podrán hacerse para redimir gravámenes de los bienes inmuebles propiedad de los trabajadores o de los pensionistas.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1984)</small>
+
 ###### ARTICULO 87.
 
-Si por haber sido cesado el trabajador o por otras causas graves a juicio de la Oficina de Pensiones, no pudiere cubrir los abonos provenientes del préstamo, podrá concedérsele un plazo hasta de seis meses de prórroga.
+Si por haber sido cesado el trabajador o por otras causas graves, a juicio de la Oficina de Pensiones no pudiere cubrir los abonos provenientes del préstamo, podrá concedérsele un plazo hasta de 12 meses de prórroga para redimirlo. Pasado este tiempo la misma Oficina de Pensiones tomará las medidas que crea pertinentes para garantizar el préstamo concedido.
 
-Tratándose de trabajadores que hayan pasado a ser pensionistas, podrán gozar de la misma prerrogativa, cuando las causas que motivaron la suspensión del pago se juzguen graves a juicio de la Oficina de Pensiones.
+Tratándose de trabajadores que hayan pasado a ser pensionistas podrá gozar de la misma prerrogativa, cuando las causas que motivaron la suspensión del pago se juzguen graves a juicio de la Oficina de Pensiones.
 
 ###### ARTICULO 88.
 
@@ -982,3 +1010,9 @@ P.O. 14 DE ENERO DE 1984.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 1984.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
