@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-2623"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-05-29"
-last_updated: "2001-11-26"
+last_updated: "2004-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2004.
 
 Código publicado en la Sección Primera del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -573,9 +573,7 @@ XIV.- Participar con la SEDESO y los Ayuntamientos en la realización de los est
 
 XV.- Apoyar y asesorar a los Ayuntamientos que lo soliciten, en la construcción, conservación, operación y administración de los sistemas de agua potable y alcantarillado;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 1995)</small>
-
-XVI.- Efectuar los estudios sobre el comportamiento dinámico de las grietas y la formulación de las cartas urbanas que contengan las fallas geológicas detectadas;
+XVI.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2004)
 
 XVII.- Resolver sobre los recursos administrativos que conforme a su competencia les sean planteados y que deriven de la aplicación de este Código; y
 
@@ -6986,3 +6984,7 @@ NOVENO.- Las disposiciones reglamentarias de la presente Ley deberán expedirse 
 P.O. 26 DE NOVIEMBRE DE 2001.
 
 UNICO.- El presente decreto entrará en vigor a partir del 1o. de enero del año 2002.
+
+P.O. 13 DE SEPTIEMBRE DE 2004.
+
+UNICO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
