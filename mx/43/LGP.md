@@ -4,7 +4,7 @@ identifier: "LGP"
 country: "mx"
 rank: "ley_general"
 publication_date: "1974-01-07"
-last_updated: "1979-12-31"
+last_updated: "1981-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGP"
 
 LEY GENERAL DE POBLACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1981.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 7 de enero de 1974.
 
@@ -404,11 +404,11 @@ Los diplomáticos y agentes consulares extranjeros acreditados en el país, así
 
 Ningún extranjero podrá tener dos calidades o características migratorias simultáneamente.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 59.
 
-No se cambiará calidad ni característica migratoria en el caso comprendido en la fracción II, del artículo 42. En los demás, queda a juicio de la Secretaría de Gobernación hacerlo cuando se llenen los registros que esta Ley fija para la nueva calidad o característica migratoria que se pretenda adquirir y previo pago de los derechos que establezcan las disposiciones fiscales.
+No se cambiará la calidad ni característica migratoria en el caso comprendido en la fracción II, del artículo 42. En los demás queda a juicio de la Secretaría de Gobernación hacerlo cuando se llenen los requisitos que esta Ley fija para la nueva calidad o característica migratoria que se pretende adquirir.
 
 ###### ARTICULO 60.
 
@@ -464,11 +464,9 @@ En todos los casos deberán asentarse las comprobaciones a que se refiere este a
 
 Ninguna autoridad judicial o administrativa dará trámite al divorcio o nulidad de matrimonio de los extranjeros, si no se acompaña la certificación que expida la Secretaría de Gobernación de su legal residencia en el país y de que sus condiciones y calidad migratoria les permite realizar tal acto.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
-
 ###### ARTICULO 70.
 
-En relación con las materias de que esta Ley se ocupa, los extranjeros pagarán los derechos que determinen las disposiciones fiscales correspondientes.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 71.
 
@@ -596,9 +594,11 @@ Las autoridades de la Federación, de los Estados, de los Territorios, de los Mu
 
 Una vez hecho el registro dentro del plazo fijado por la Secretaría de Gobernación, el registro y la cédula de identidad que se expidan, tendrán la vigencia que señale el Reglamento de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### ARTICULO 92.
 
-El registro de los nacionales residentes dentro y fuera del país es gratuito y obligatorio; el de los extranjeros es también obligatorio en los casos que señala esta Ley y quedará sujeto al pago de la cuota correspondiente.
+El registro de los nacionales residentes dentro y fuera del país es gratuito y obligatorio, el de los extranjeros es también obligatorio en los casos que señale esta Ley.
 
 ###### ARTICULO 93.
 
@@ -797,3 +797,13 @@ Al entrar en vigor la presente Ley, quedan abrogadas las leyes y decretos siguie
 4.- Ley de Impuestos de Migración.
 
 .....
+
+D.O.F. 31 DE DICIEMBRE DE 1981.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1982.
+
+ARTICULO TRIGESIMO.- Se derogan los artículos 70 de la Ley General de Población; ...
