@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-266
 country: "mx"
 rank: "codigo"
 publication_date: "1980-09-13"
-last_updated: "1992-04-04"
+last_updated: "1994-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE ABRIL DE 1992.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE SEPTIEMBRE DE 1994.
 
 Código publicado en la Gaceta Oficial de Veracruz-Llave, el sábado 13 de septiembre de 1980.
 
@@ -87,29 +87,87 @@ La concurrencia entre una norma general y otra especial y la que exista entre un
 
 ## TITULO II. EL DELITO
 
-### CAPITULO I. CONDUCTA O HECHO
+> <small>(REFORMADA SU DENOMINACION, G.O. 1 DE SEPTIEMBRE DE 1994)</small>
+
+### CAPITULO I.
+
+CONDUCTA, HECHOS Y DELITOS GRAVES.
 
 ###### ARTICULO 9°.
 
 El delito puede ser realizado por acción u omisión.
 
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 1994)</small>
+
 ###### ARTICULO 10.
 
 El resultado será atribuido al agente cuando fuere consecuencia de una conducta idónea para producirlo, salvo que hubiese sobrevenido en virtud de un acontecimiento extraño a su propia conducta.
 
-Responde también del resultado producido, el que omite impedirlo, teniendo el deber jurídico de evitarlo.
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 11.
 
-El delito es instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos sus elementos constitutivos.
+Responde también del resultado producido, el que omite impedirlo teniendo el deber jurídico de evitarlo
+
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 12.
 
-El delito es permanente o continuo, cuando la consumación se prolonga en el tiempo.
+El delito es:
+
+I.-Instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos sus elementos constitutivos;
+
+II.- Permanente o contínuo, cuando la consumación se prolonga en el tiempo;
+
+III.-Continuado, cuando hay repeticiones de conductas o hechos con el mismo designio delictuoso, e identidad de disposición legal, incluso de diversa gravedad.
+
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 13.
 
-El delito es continuado, cuando hay repeticiones de conductas o hechos con el mismo designio delictuoso e identidad de disposición legal, incluso de diversa gravedad.
+Para todos los efectos legales, se califican como graves, por afectar valores fundamentales de la sociedad, los siguientes ilícitos tipificados en este Código:
+
+I.-El homicidio, a que se refieren los artículos 109, 110, 111 y 112;
+
+II.-El homicidio por culpa, previsto en el párrafo segundo del artículo 66;
+
+III.-Las lesiones, a que se refiere el artículo 114, fracciones V y VI;
+
+IV.-La inducción o ayuda al suicidio, a que se refiere el artículo 128, en su primer párrafo y la primera parte del párrafo tercero;
+
+V.-El aborto, siempre que se configure la hipótesis prevista en la parte final del artículo 131;
+
+VI.-El secuestro, a que se refieren los artículos 141 y 142, excepto la hipótesis prevista en el último párrafo del artículo 141;
+
+VII.-El asalto, previsto en el artículo 147;
+
+VIII.-La violación, a que se refieren los artículos del 152, 153 párrafo primero, 154 y 155;
+
+IX.-El robo, previsto en el artículo 173, fracción I, párrafo tercero; el robo calificado, en los casos a que se refiere la fracción II del artículo 176, en cualquiera de sus incisos; y el robo tipificado en los artículos 177, fracción II y 178;
+
+X.-El abigeato, previsto en los artículos 180 y 181;
+
+XI.-El encubrimiento por receptación, a que se refiere la fracción II del artículo 197;
+
+XII.-El delito contra la seguridad vial y los medios de transporte, a que se refiere el párrafo segundo del artículo 216;
+
+XIII.-El lenocinio, a que se refiere el artículo 235;
+
+XIV.-La rebelión, a que se refieren los artículos 239 y 244;
+
+XV.-El terrorismo, a que se refiere el artículo 249;
+
+XVI.-El sabotaje, a que se refiere el artículo 250;
+
+XVII.-El abuso de autoridad, cuando se obligue a declarar al inculpado por medio de intimidación, incomunicación o tortura, a que se refiere la fracción VIII del artículo 254;
+
+XVIII.-El peculado, a que se refiere el artículo 257, en su primer párrafo;
+
+XIX.-El enriquecimiento ilícito, a que se refiere el artículo 261;
+
+XX.-La evasión de presos, a que se refiere el segundo párrafo del artículo 276, y 277, en su segundo párrafo;
+
+XXI.-El fraccionamiento indebido y la venta o promesa de venta indebida, a que se refieren los artículos 285 y 286.
 
 ### CAPITULO II. DOLO, CULPA Y PRETERINTENCIONALIDAD
 
@@ -1621,15 +1679,13 @@ Se procederá a instancia del ofendido, cuando, sin darse la violencia física o
 
 Asimismo, se perseguirá a petición de la parte ofendida el fraude, cuando su monto no exceda del equivalente a quinientas veces el salario mínimo general vigente en el lugar y en el momento en que se cometió el delito y el ofendido sea un solo particular. Si hubiere varios particulares ofendidos, se procederá de oficio, pero el Juez podrá prescindir de la imposición de pena cuando el agente haya reparado los daños y perjuicios causados a los ofendidos y no exista oposición de cualquiera de éstos.
 
-> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 200.
 
-Las sanciones previstas para los delitos de robo, abigeato, fraude, administración fraudulenta, usura, despojo, daños y encubrimiento por receptación, se disminuirán en una tercera parte cuando se repare el daño causado antes de que se dicte sentencia. Lo dispuesto en este artículo no procederá, cuando el responsable sea reincidente o cuando se trate de robo calificado en términos de la fracción II del artículo 176 de este Código, o el delito de que se trate se haya cometido con violencia a las personas, durante su ejecución o fuga.
+Las sanciones previstas para los delitos de robo, abigeato, fraude, administración fraudulenta, usura, despojo, daños, encubrimiento por receptación, y las previstas en los artículos 177 y 178, se disminuirán en una tercera parte cuando se repare el daño causado antes de que se dicte sentencia. El pago producirá además el efecto de permitir que el inculpado obtenga el beneficio de la libertad provisional bajo caución.
 
-> <small>(ADICIONADO, G.O. 23 DE JULIO DE 1991)</small>
-
-Lo dispuesto en la párrafo anterior se aplicará cuando se trate de los delitos previstos en los artículos 177 y 178 de este Código.
+Lo dispuesto en este artículo no procederá cuando el responsable sea reincidente, o cuando se trate de robo calificado en términos de la fracción II del artículo 176 de este Código, o el delito de que se trate se haya cometido con violencia a las personas, durante su ejecución o fuga.
 
 ## TITULO VII. DELITOS CONTRA LA FAMILIA
 
@@ -2185,6 +2241,10 @@ VI.-Teniendo a su cargo fondos públicos les dé, a sabiendas, una aplicación p
 
 VII.-Valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones y que no sea del conocimiento público; haga por sí o por interpósita persona, inversiones, enajenaciones o adquisiciones o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o algún tercero.
 
+> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 1994)</small>
+
+VIII.-Intimide, torture o incomunique a un inculpado, para obligarlo a declarar.
+
 ### CAPITULO V. PECULADO
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
@@ -2491,7 +2551,7 @@ V.-Pida términos para probar lo que notoriamente no puede demostrar o no ha apr
 
 ### CAPITULO I. DE LOS DELITOS ELECTORALES
 
-> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 4 DE ABRIL DE 1992)</small>
 
 ## TITULO XVI. DELITOS CONTRA EL DESARROLLO URBANO Y EL DERECHO A LA VIVIENDA
 
@@ -2591,7 +2651,9 @@ I.-Abusando de sus funciones obligue a sus subordinados a emitir sus votos a fav
 
 II.-Condicione la prestación de un servicio público a la emisión del sufragio a favor de un partido político o candidato; o
 
-III.-Destine fondos o bienes que tenga a su disposición en virtud de su cargo, al apoyo de un partido político o de un candidato sin perjuicio de las penas que puedan corresponder por el delito de peculado o proporcione ese apoyo a través de sus subordinados, usando del tiempo correspondiente a sus labores para que éstos presten servicios a un partido político o candidato.
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 1994)</small>
+
+III.-Destine fondos o bienes que tenga a su disposición en virtud de su cargo, al apoyo de un partido político o de un candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado; o bien proporcione ese apoyo a través de sus subordinados, dentro del tiempo correspondiente a sus labores. En la comisión de este delito, no tendrá derecho el inculpado a obtener el beneficio de la libertad caucional.
 
 > <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
 
@@ -2706,3 +2768,9 @@ El presente ordenamiento entrará en vigor al día siguiente de su publicación 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a este ordenamiento.
+
+G.O. 1 DE SEPTIEMBRE DE 1994.
+
+PRIMERO.-El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz - Llave.
+
+SEGUNDO.-Se derogan todas las disposiciones que se opongan al presente.
