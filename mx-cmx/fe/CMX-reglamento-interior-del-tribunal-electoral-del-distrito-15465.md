@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-del-distrito-15465"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-21"
-last_updated: "2000-01-21"
+last_updated: "2005-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15465&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-01-14"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE ENERO DE 2005.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 21 de enero de 2000.
 
@@ -354,7 +354,7 @@ De sus atribuciones
 
 ###### ARTÍCULO 5°.
 
-Son atribuciones del Pleno, además de las que señala el artículo 227 del Código, las siguientes:
+Son atribuciones del Pleno, además de las que le señala el artículo 227 del Código, las siguientes:
 
 I Elegir, de entre los Magistrados Numerarios, al que fungirá como Presidente del Tribunal, en los términos del artículo 224, párrafo penúltimo del Código;
 
@@ -390,7 +390,13 @@ XVI Emitir el acuerdo relativo a las reglas para la elaboración y publicación 
 
 XVII Celebrar reuniones generales de trabajo, de análisis, de información o de opinión con los Magistrados Supernumerarios, en asuntos que no requieran votación del Pleno y que sean necesarios para el correcto funcionamiento del Tribunal; y
 
-XVIII Dictar los acuerdos que considere necesarios para el adecuado funcionamiento del Tribunal.
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2005)</small>
+
+XVIII. Conocer y resolver del procedimiento especial contenido en el artículo 273 del Código, cuando se trate de la imposición de sanciones por responsabilidad administrativa a servidores o ex servidores públicos del Tribunal; y
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2005)</small>
+
+XIX. Dictar los acuerdos que considere necesarios para el adecuado funcionamiento del Tribunal.
 
 SECCIÓN 3ª
 
@@ -570,7 +576,13 @@ XI Llevar la correspondencia del Tribunal;
 
 XII Dictar y poner en práctica las medidas necesarias para el despacho pronto y expedito de los asuntos propios del Tribunal; y
 
-XIII Rendir anualmente ante el Pleno, un informe general de actividades, dando cuanta de la marcha del Tribunal y de los principales criterios adoptados en sus resoluciones, así como ordenar su publicación.
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2005)</small>
+
+XIII. Imponer las sanciones administrativas a los servidores o ex servidores públicos del Tribunal, previo el procedimiento respectivo; y
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2005)</small>
+
+XIV. Rendir anualmente ante el Pleno, un informe general de actividades, dando cuenta de la marcha del Tribunal y de los principales criterios adoptados en sus resoluciones, así como ordenar su publicación.
 
 SECCIÓN 3ª
 
@@ -610,11 +622,11 @@ VII Solicitar al Secretario General la información necesaria para el correcto e
 
 VIII Solicitar a cualquier servidor público del Tribunal, los informes, apoyos técnicos y logísticos necesarios para la adecuada sustanciación y resolución de los medios de impugnación que les sean turnados;
 
-IX Proponer, en el caso de los Numerarios, la integración de las comisiones a que se refiere el artículo 12 de este Reglamento, con excepción de la prevista por el artículo 227, fracción II, inciso c) del Código
+IX Proponer, en el caso de los Numerarios, la integración de las comisiones a que se refiere el artículo 12 de este Reglamento, con excepción de la prevista por el artículo 227, fracción II, inciso c) del Código;
 
 X Formar parte, en su caso, de las comisiones a que se refiere la fracción anterior; y
 
-XI. Las demás que les confieran las disposiciones aplicables y este Reglamento;
+XI Las demás que les confieran las disposiciones aplicables y este Reglamento.
 
 ARTÍCULO 21
 
@@ -1396,6 +1408,10 @@ El Tribunal contará con un Contralor Interno que será designado por el Pleno, 
 
 El Contralor Interno dependerá directamente del Pleno y deberá reunir los requisitos que se exigen en el artículo 51 de este Reglamento, con excepción de la antigüedad prevista en la fracción III de dicho numeral, ya que deberá contar con práctica profesional de cuando menos cinco años.
 
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+En ausencia del Contralor Interno, sus atribuciones las realizará el inferior jerárquico inmediato que determine el Pleno.
+
 SECCIÓN 2ª
 
 De sus atribuciones
@@ -1418,7 +1434,9 @@ VI Revisar el cumplimiento de los objetivos y metas fijados en los programas pre
 
 VII Informar al Pleno de las deficiencias o desviaciones que detecte con motivo del ejercicio de sus atribuciones, para que se determinen las medidas legales y administrativas conducentes;
 
-VIII Vigilar, en el ámbito de su competencia y cuando así proceda, la instauración de los procedimientos relacionados con las responsabilidades administrativas en que incurran los servidores del Tribunal;
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2005)</small>
+
+VIII Sustanciar los procedimientos para identificar, investigar y determinar las responsabilidades administrativas de los servidores o ex servidores públicos del Tribunal, así como someter al Presidente el proyecto de resolución correspondiente;
 
 IX Analizar y evaluar los sistemas de procedimientos y control interno;
 
@@ -1428,11 +1446,503 @@ XI Revisar que las adquisiciones de bienes y prestación de servicios, obra púb
 
 XII Elaborar el instructivo para la creación y manejo de fondos revolventes;
 
-XIII Instrumentar los procedimientos administrativos necesarios para que los servidores del Tribunal presenten ante él, sus declaraciones inicial, anual y de conclusión de situación patrimonial y llevar el registro y seguimiento respectivo;
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2005)</small>
+
+XIII Instrumentar los procedimientos administrativos necesarios para que los servidores del Tribunal presenten ante él, sus declaraciones inicial, anual y de conclusión de situación patrimonial y llevar el registro y seguimiento respectivo, aplicando en lo conducente el Título Cuarto de la Ley Federal de Responsabilidades de los Servidores Públicos;
 
 XIV Proponer al Pleno la estructura administrativa de su área; y
 
 XV Las demás que le confieran las disposiciones aplicables y las que le encomienden el Pleno o la Comisión de Administración.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.O. 26 DE ENERO DE 2005)</small>
+
+### CAPÍTULO XIII. Del Régimen de Responsabilidades Administrativas de los Servidores y ex Servidores Públicos del Tribunal
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 26 DE ENERO DE 2005)</small>
+
+SECCIÓN 1ª
+
+De la legislación aplicable
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+###### Artículo 77
+
+Artículo 77-A
+
+Para los efectos del presente Capítulo, resultan aplicables en lo conducente, las disposiciones de la Ley Federal de Responsabilidades de los Servidores Públicos.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 26 DE ENERO DE 2005)</small>
+
+SECCIÓN 2ª
+
+De los sujetos
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+###### Artículo 77
+
+B
+
+Son sujetos de este Capítulo los servidores y ex servidores públicos que desempeñen o hayan desempeñado un empleo, cargo o comisión de cualquier naturaleza en el Tribunal, quienes serán responsables de los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+Los Magistrados del Tribunal estarán sujetos, en lo conducente, al régimen de responsabilidades administrativas que disponen los artículos 108 y 109 de la Constitución Política de los Estados Unidos Mexicanos; 130 y 131 del Estatuto de Gobierno del Distrito Federal; así como 237 del Código Electoral del Distrito Federal.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 26 DE ENERO DE 2005)</small>
+
+SECCIÓN 3ª
+
+De las obligaciones
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+###### Artículo 77
+
+C
+
+Son obligaciones de los servidores del Tribunal, para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el desempeño de su empleo, cargo o comisión, y cuyo incumplimiento dará lugar al procedimiento y a las sanciones que correspondan, sin perjuicio de sus derechos laborales, las siguientes:
+
+I. Cumplir con la máxima diligencia el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de un empleo, cargo o comisión;
+
+II. Formular y ejecutar legalmente, en su caso, los planes, programas y presupuestos correspondientes a su competencia, y cumplir las leyes y otras normas que determinen el manejo de recursos económicos públicos;
+
+III. Utilizar los recursos que tengan asignados para el desempeño de su empleo, cargo o comisión, las facultades que le sean atribuidas o la información reservada a que tenga acceso por su función exclusivamente para los fines a que están afectos;
+
+IV. Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, conserve bajo su cuidado o a la cual tenga acceso, impidiendo o evitando el uso, la sustracción, destrucción, ocultamiento o inutilización indebidas de aquéllas;
+
+V. Observar buena conducta en su empleo, cargo o comisión, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con las que tenga relación con motivo de éste;
+
+VI. Observar en la dirección de sus inferiores jerárquicos las debidas reglas del trato y abstenerse de incurrir en agravio, desviación o abuso de autoridad;
+
+VII. Observar respeto y subordinación legítimas con respecto a sus superiores jerárquicos inmediatos o mediatos, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
+
+VIII. Comunicar por escrito al titular de la dependencia o entidad en la que presten sus servicios, las dudas fundadas que le suscite la procedencia de las órdenes que reciba;
+
+IX. Abstenerse de ejercer las funciones de un empleo, cargo o comisión después de concluido el periodo para el cual se le designó o de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones;
+
+X. Abstenerse de disponer o autorizar a un subordinado a no asistir sin causa justificada a sus labores por más de quince días continuos o treinta discontinuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio público no lo exijan;
+
+XI. Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la Ley le prohíba;
+
+XII. Abstenerse de autorizar la selección, contratación, nombramiento o designación de quien se encuentre inhabilitado por resolución firme de la autoridad competente para ocupar un empleo, cargo o comisión en el servicio público;
+
+XIII. Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
+
+XIV. Informar por escrito al jefe inmediato y en su caso, al superior jerárquico sobre la atención, trámite o resolución de los asuntos a que hace referencia la fracción anterior y que sean de su conocimiento; y observar sus instrucciones por escrito sobre su atención, tramitación y resolución, cuando el servidor público no pueda abstenerse de intervenir en ellos;
+
+XV. Abstenerse, durante el ejercicio de sus funciones de solicitar, aceptar o recibir, por sí o por interpósita persona, dinero, objetos mediante enajenación a su favor en precio notoriamente inferior al que el bien de que se trate y que tenga en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para sí, o para las personas a que se refiere la fracción XIII, y que procedan de cualquier persona física o moral cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión y que implique intereses en conflicto. Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión;
+
+XVI. Desempeñar su empleo, cargo o comisión sin obtener o pretender obtener beneficios adicionales a las contraprestaciones comprobables que el Estado le otorga por el desempeño de su función, sean para él o para las personas a las que se refiere la fracción XIII;
+
+XVII. Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en el caso, o pueda derivar alguna ventaja o beneficio para él o para las personas a las que se refiere la fracción XIII;
+
+XVIII. Presentar con oportunidad y veracidad, las declaraciones de situación patrimonial, en los términos establecidos por este Reglamento;
+
+XIX. Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba del Pleno, Magistrado o Titular de la Unidad Administrativa a que se encuentre adscrito, conforme a la competencia de éstos;
+
+XX. Supervisar que los servidores públicos sujetos a su dirección, cumplan con las disposiciones de este artículo; y denunciar por escrito, ante el superior jerárquico o la contraloría interna, los actos u omisiones que en ejercicio de sus funciones llegare a advertir respecto de cualquier servidor público que pueda ser causa de responsabilidad administrativa en los términos de este Reglamento, y de las normas que al efecto se expidan;
+
+XXI. Proporcionar en forma oportuna y veraz, toda la información y datos solicitados por la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, a efecto de que aquélla pueda cumplir con las facultades y atribuciones que le correspondan;
+
+XXII. Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público;
+
+XXIII. Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública, con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien con las sociedades de las que dichas personas formen parte, sin la autorización previa y específica del Pleno a propuesta razonada, conforme a las disposiciones legales aplicables, del titular de la dependencia o entidad de que se trate. Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
+
+XXIV. Participar en la esfera de su respectiva competencia, en los programas y cursos de formación y desarrollo profesional y en las actividades de capacitación jurisdiccional electoral;
+
+XXV. Guardar absoluta reserva sobre los asuntos del Tribunal; y,
+
+XXVI. Las demás que le impongan las leyes y reglamentos.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 26 DE ENERO DE 2005)</small>
+
+SECCIÓN 4ª
+
+De las autoridades
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+###### Artículo 77
+
+D
+
+El Titular de la Contraloría Interna del Tribunal, será competente para identificar, investigar y determinar las responsabilidades que deriven del incumplimiento de las obligaciones establecidas en el presente Capítulo.
+
+La imposición y aplicación de las sanciones correspondientes será competencia del Presidente del Tribunal.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 26 DE ENERO DE 2005)</small>
+
+SECCIÓN 5ª
+
+De los procedimientos de investigación y disciplinario
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+###### Artículo 77
+
+E
+
+En todas las cuestiones relativas a los procedimientos administrativos no previstas en este Capítulo, se aplicará la Ley Federal de Responsabilidades de los Servidores Públicos.
+
+Tratándose de la apreciación de las pruebas, se observarán las disposiciones del Código Federal de Procedimientos Penales.
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+###### Artículo 77
+
+F
+
+La Contraloría Interna será competente para conocer y recibir de cualquier persona las quejas o denuncias respecto al incumplimiento de las obligaciones de los servidores o ex servidores públicos del Tribunal, con las que se iniciará el procedimiento de investigación correspondiente.
+
+Si de las investigaciones o auditorías que practique la Contraloría Interna apareciera la probable responsabilidad de los servidores o ex servidores del Tribunal, iniciará de inmediato el procedimiento disciplinario respectivo.
+
+Los procedimientos de investigación, podrán iniciarse de oficio, por queja o denuncia. Las denuncias anónimas sólo serán tramitadas cuando estén acompañadas de pruebas fehacientes.
+
+Si la falta también pudiera constituir un delito, se dará vista a la autoridad competente.
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+###### Artículo 77
+
+G
+
+Todo servidor público deberá denunciar por escrito a la Contraloría Interna del Tribunal los hechos que, a su juicio, sean causa de responsabilidad administrativa imputables a servidores o ex servidores públicos.
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+###### Artículo 77
+
+H
+
+En el procedimiento de investigación, la Contraloría Interna podrá practicar todas las diligencias que estime necesarias a fin de determinar si existen elementos suficientes o no, que acrediten la probable responsabilidad de los servidores o ex servidores del Tribunal involucrados en dicho procedimiento, observando en todo cuanto sea aplicable, las reglas contenidas en el artículo siguiente.
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+###### Artículo 77
+
+I
+
+La Contraloría Interna sustanciará el procedimiento para determinar la responsabilidad de los servidores o ex servidores públicos del Tribunal, en los términos siguientes:
+
+I. Citará al probable responsable a una audiencia, haciéndole saber la conducta o conductas que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y alegar en la misma lo que a sus intereses convenga, por sí o por medio de un defensor.
+
+También podrá asistir a la audiencia el quejoso o denunciante.
+
+Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
+
+II. Desahogadas las pruebas, si las hubiere, se oirán los alegatos del probable responsable. La Contraloría Interna emitirá el proyecto de resolución dentro de los treinta días hábiles siguientes, sobre la inexistencia de responsabilidad o en su caso, determinando las responsabilidades administrativas y proponiendo las sanciones correspondientes, remitiéndolo al Presidente, para que éste en un plazo no mayor de quince días hábiles, determine si ha lugar a absolver o imponer la sanción respectiva y notifique la resolución al interesado y a su jefe inmediato, dentro de las setenta y dos horas siguientes;
+
+III. Si en la audiencia la Contraloría encontrara que no cuenta con elementos suficientes para resolver o advierta elementos que impliquen nueva responsabilidad administrativa a cargo del probable responsable o de otras personas, deberá disponer la práctica de investigaciones, las cuales se realizarán por separado y en forma autónoma;
+
+IV. En cualquier momento, previo o posterior al citatorio al que se refiere la fracción I del presente artículo, el Contralor Interno, podrá determinar la suspensión temporal de los probables responsables de sus cargos, empleos o comisiones, si a su juicio así conviene para la conducción o continuación de los procedimientos. La suspensión temporal no prejuzga sobre la responsabilidad que se impute. La determinación del Contralor hará constar expresamente esta salvedad.
+
+Para que proceda la suspensión temporal del Secretario General, Secretario Administrativo, Contralor Interno, Coordinadores y Secretarios de Estudio y Cuenta, se requerirá la aprobación del Pleno.
+
+La resolución a que se refiere el párrafo anterior suspenderá los efectos del acto que haya dado origen a la ocupación del empleo, cargo o comisión, y regirá desde el momento en que sea notificada al interesado o éste quede enterado de la misma por cualquier medio. La suspensión cesará cuando así lo resuelva el Contralor Interno, independientemente de la iniciación, continuación o conclusión de los procedimientos a que se refiere el presente Capítulo.
+
+Si los servidores suspendidos temporalmente no resultaren responsables de la falta que se les imputa, serán restituidos en el goce de sus derechos y se les cubrirán las percepciones que debieran recibir durante el tiempo en que se hallaron suspendidos.
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+###### Artículo 77
+
+J
+
+Se levantará acta circunstanciada de todas las diligencias que se practiquen en los procedimientos, que suscribirán quienes intervengan en ellas, apercibidos de las sanciones en que incurran quienes falten a la verdad.
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+###### Artículo 77
+
+K
+
+Las resoluciones de la Contraloría durante los procedimientos a que se refiere este Capítulo constarán por escrito, y se asentarán en el registro respectivo, que comprenderá las secciones correspondientes a los procedimientos de investigación y disciplinarios así como a las sanciones impuestas, entre ellas, en todo caso, las de inhabilitación.
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+###### Artículo 77
+
+L
+
+La Contraloría expedirá constancias que acrediten la no existencia de registro de inhabilitación, que serán exhibidas, para los efectos pertinentes, por las personas que sean requeridas para desempeñar un empleo, cargo o comisión en el servicio público.
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+###### Artículo 77
+
+M
+
+El Presidente aplicará las sanciones correspondientes al Contralor Interno, cuando éste incurra en actos u omisiones que impliquen responsabilidad administrativa.
+
+El Contralor Interno también incurrirá en responsabilidad administrativa cuando se abstenga injustificadamente de llevar a cabo la sustanciación de los procedimientos de investigación o disciplinario, o bien, al hacerlo, no se ajuste a lo previsto en este Reglamento.
+
+En los procedimientos que se sigan para la investigación y aplicación de sanciones al Contralor Interno, se observarán, en todo cuanto sea aplicable, las reglas contenidas en este Capítulo.
+
+El Pleno adoptará las medidas pertinentes para la substanciación de este tipo de procedimientos.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 26 DE ENERO DE 2005)</small>
+
+SECCIÓN 7ª
+
+Del procedimiento especial para la impugnación de las sanciones administrativas
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+###### Artículo 77
+
+S
+
+Las resoluciones por las que impongan sanciones administrativas, podrán ser impugnadas por el servidor o ex servidor público a través del procedimiento especial que se contempla tanto en el artículo 273 del Código, así como en el Título Quinto del presente Reglamento.
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+###### Artículo 77
+
+T
+
+La resolución que se emita en el procedimiento especial, tendrá como efectos la revocación, modificación o confirmación de la determinación impugnada.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 26 DE ENERO DE 2005)</small>
+
+SECCIÓN 6ª
+
+De las sanciones
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+###### Artículo 77
+
+N
+
+Los servidores y ex servidores públicos del Tribunal que incurran en responsabilidad administrativa por incumplimiento de las obligaciones establecidas en el artículo 77-C de este Reglamento, serán sancionados conforme al presente Capítulo por el Presidente de este Órgano Colegiado. Las sanciones se aplicarán en atención a la gravedad de la falta cometida.
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+###### Artículo 77
+
+O
+
+Las sanciones por falta administrativa consistirán en:
+
+I. Apercibimiento privado o público;
+
+II. Amonestación privada o pública;
+
+III. Suspensión;
+
+IV. Destitución del puesto;
+
+V. Sanción económica; y
+
+VI. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+###### Artículo 77
+
+P
+
+Las sanciones administrativas se impondrán tomando en cuenta los elementos siguientes:
+
+I. La gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de este Capítulo o las que se dicten con base en él;
+
+II. Las circunstancias socioeconómicas del servidor público;
+
+III. El nivel jerárquico, los antecedentes y las condiciones del infractor;
+
+IV. Las condiciones exteriores y los medios de ejecución;
+
+V. La antigüedad del servicio;
+
+VI. La reincidencia en el incumplimiento de las obligaciones; y
+
+VII. El monto del beneficio, daño o perjuicio económicos derivado del incumplimiento de las obligaciones.
+
+Si el servidor público probable responsable confesare su responsabilidad por el incumplimiento de las obligaciones a que hace referencia el Código de la materia, el presente Reglamento y demás disposiciones, se procederá de inmediato a dictar resolución, a no ser que quien conoce del procedimiento disponga la recepción de pruebas para acreditar la veracidad de la confesión.
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+###### Artículo 77
+
+Q
+
+En todos los casos, la imposición y aplicación de sanciones estará a cargo del Presidente del Tribunal.
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+###### Artículo 77
+
+R
+
+El Presidente podrá abstenerse de aplicar la sanción al infractor, por una sola vez, cuando lo estime pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el salario mínimo diario vigente en el Distrito Federal.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 26 DE ENERO DE 2005)</small>
+
+## TÍTULO TERCERO. Del Régimen de los Trabajadores del Tribunal
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2005)</small>
+
+ARTÍCULO 78
+
+Todos los servidores del Tribunal se considerarán trabajadores de confianza y quedarán sujetos al régimen establecido en la fracción XIV del Apartado B del artículo 123 de la Constitución, así como a las disposiciones particulares del presente ordenamiento.
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2005)</small>
+
+ARTÍCULO 79
+
+La relación de trabajo entre el Tribunal y sus trabajadores se establece en virtud del nombramiento que se expida, cuyos efectos podrán darse por terminados, sin responsabilidad para el Tribunal, cuando exista un motivo razonable de pérdida de la confianza.
+
+En este caso, el superior jerárquico deberá comunicar por escrito al servidor de la fecha y causa o causas de la rescisión de la relación laboral y demás consecuencias legales. Si el trabajador se negare a recibir el aviso de rescisión, el superior jerárquico deberá hacerlo del conocimiento del Secretario General para que éste, por conducto de la Oficina de Actuarios, practique su notificación.
+
+Para estos efectos, se entenderá por superior jerárquico al titular de la ponencia o área a la que se encuentre adscrito el trabajador. Tratándose del Secretario General, Secretario Administrativo y Contralor Interno, el superior jerárquico será el Pleno, en tanto que respecto a los titulares de las Coordinaciones, lo será el Presidente.
+
+ARTÍCULO 80
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2005)</small>
+
+Son obligaciones de los trabajadores del Tribunal, las siguientes:
+
+I Desempeñar sus labores en el tiempo y lugar convenidos, con la intensidad, eficacia y esmero apropiados, sujetándose invariablemente a las disposiciones legales y reglamentarias, así como a las instrucciones de sus superiores;
+
+II Formular y ejecutar, en su caso, los planes, programas y actividades correspondientes a su competencia y manejar, cuando corresponda, los recursos económicos y materiales, de conformidad con lo dispuesto en las disposiciones aplicables;
+
+III Custodiar y hacer entrega, cuando corresponda, de los fondos, valores y bienes que le sean confiados para el desempeño de su empleo, cargo o comisión;
+
+IV Utilizar los recursos que tengan asignados para el desempeño de su empleo, cargo o comisión, exclusivamente para los fines a que están afectos;
+
+V Custodiar y manejar con el debido cuidado la documentación e información que por razón de su empleo, cargo o comisión, conserven bajo su custodia, evitando la sustracción, destrucción, ocultamiento o uso indebido de aquéllas;
+
+VI Observar en su relación con los demás servidores del Tribunal la consideración, respeto y diligencia debidos;
+
+VII Observar respeto y subordinación legítimos hacia sus superiores jerárquicos, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
+
+VIII Participar en la esfera de su respectiva competencia, en los programas y cursos de formación y desarrollo profesional y en las actividades de capacitación jurisdiccional electoral;
+
+IX Guardar absoluta reserva sobre los asuntos del Tribunal; y
+
+X Las demás que les impongan la ley, este Reglamento y las demás disposiciones aplicables.
+
+ARTÍCULO 81
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2005)</small>
+
+Los trabajadores del Tribunal, en el desempeño de sus labores, se abstendrán de:
+
+I. Incurrir en cualquier acto u omisión que entorpezca o perjudique el debido cumplimiento de las funciones o que implique abuso o ejercicio indebido de su empleo, cargo o comisión;
+
+II. Intervenir en asuntos electorales que no sean competencia del Tribunal, ni ejecutar, apoyar o impulsar actos que contengan una conducta parcial a favor o en contra de partidos, agrupaciones u organizaciones políticas, así como de sus dirigentes, candidatos o militantes, salvo que se trate de defensa propia por acusación que el servidor estime infundada;
+
+III. Comprometer, por imprudencia o descuido inexcusable, la seguridad del centro de trabajo, de las personas o de los bienes que se encuentren dentro del Tribunal;
+
+IV. Sustraer documentos, equipo, mobiliario o útiles de trabajo del Tribunal, sin la autorización previa y expresa de sus superiores jerárquicos;
+
+V. Incurrir en faltas injustificadas a sus labores, que redunden en perjuicio de las funciones del Tribunal;
+
+VI. Concurrir a sus labores en estado de embriaguez o bajo la influencia, sin causa justificada, de algún narcótico, sea droga enervante o estupefaciente;
+
+VII. Realizar actos inmorales, de violencia o maltrato en las instalaciones del Tribunal;
+
+VIII. Realizar, con carácter lucrativo, colectas, rifas, sorteos, o la venta de bienes o servicios en las instalaciones del Tribunal; y
+
+IX. Portar armas de cualquier clase en el interior del Tribunal, salvo que por la naturaleza de sus labores las requieran.
+
+ARTÍCULO 82
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2005)</small>
+
+Son derechos de los trabajadores del Tribunal:
+
+I Disfrutar de las medidas de protección al salario;
+
+II Recibir oportunamente la remuneración correspondiente por los servicios prestados, de conformidad con los tabuladores del Tribunal y el presupuesto autorizado;
+
+III Disfrutar de los periodos de vacacionales que determine el Pleno;
+
+IV Percibir con anticipación a la fecha de inicio de su periodo vacacional la prima correspondiente en el monto previsto en el presupuesto autorizado;
+
+V Recibir las demás prestaciones que con carácter general se fijen para todo el personal, de conformidad con las disponibilidades presupuestales y con los lineamientos que al efecto establezcan las autoridades en la materia;
+
+VI Gozar de los beneficios de la seguridad social, para lo cual serán incorporados al régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
+VII Participar en los programas de capacitación, formación o desarrollo profesional; y
+
+VIII Inconformarse ante el Pleno del Tribunal en el caso de la imposición de sanciones.
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+Durante los procesos electorales y de participación ciudadana en los que todos los días y horas son hábiles, no se pagarán horas extras, pero el Pleno preverá en el presupuesto las compensaciones extraordinarias que deban otorgarse a los trabajadores del Tribunal de acuerdo con los horarios y cargas de trabajo que hubiesen desahogado.
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2005)</small>
+
+ARTÍCULO 83
+
+El incumplimiento de las obligaciones por parte de los trabajadores del Tribunal, dará lugar a la imposición de las sanciones establecidas en el Código y en este Reglamento, sin perjuicio de la aplicación de las previstas en otras disposiciones legales.
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2005)</small>
+
+ARTÍCULO 84
+
+Las sanciones en el ámbito laboral serán impuestas a los trabajadores del Tribunal por el incumplimiento de sus obligaciones y se aplicarán en atención a la gravedad de la falta en que se hubiese incurrido.
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2005)</small>
+
+ARTÍCULO 85
+
+Las sanciones en el ámbito laboral consistirán en:
+
+I. Amonestación;
+
+II. Suspensión;
+
+III. Remoción; y
+
+IV. Cese.
+
+Estas sanciones podrán aplicarse indistintamente sin sujetarse al orden enunciado.
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2005)</small>
+
+ARTÍCULO 86
+
+Amonestación es la llamada de atención, verbal o escrita, que se dirige al trabajador del Tribunal, a través de la cual se hacen de su conocimiento las faltas laborales cometidas, exhortándolo a corregir su conducta y apercibiéndole de que en caso de reincidencia se hará acreedor a una sanción más severa.
+
+Suspensión es el acto por el cual queda sin efecto temporalmente la relación de trabajo existente entre el Tribunal y su trabajador. Esta sanción no excederá de treinta días naturales.
+
+Remoción es el acto por el cual se determina el cambio de adscripción del trabajador.
+
+Cese es el acto mediante el cual se da por terminada la relación de trabajo existente entre el Tribunal y el trabajador, por incurrir éste en acciones u omisiones graves en el desempeño de sus obligaciones.
+
+ARTÍCULO 87
+
+La determinación de la sanción se hará tomando en cuenta los elementos siguientes:
+
+I La naturaleza y gravedad de la acción u omisión, así como las consecuencias que con dicha conducta se generen;
+
+II El grado de responsabilidad, los antecedentes y circunstancias socioeconómicas del infractor;
+
+III En su caso, el beneficio obtenido, así como el daño o perjuicio ocasionado; y
+
+IV (DEROGADA, G.O. 26 DE ENERO DE 2005)
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2005)</small>
+
+ARTÍCULO 88
+
+Con el objeto de dar cumplimiento a lo previsto en el artículo 235, último párrafo del Código, cometida la acción u omisión constitutiva de la falta laboral, los Magistrados y los titulares de las unidades administrativas en donde se encuentre adscrito el trabajador, lo harán del conocimiento del Presidente del Tribunal, el cual, por conducto del Secretario General, procederá a citarlo en un plazo no menor de cinco ni mayor de quince días hábiles, para que comparezca en día y hora ciertos, a fin de que manifieste por escrito lo que a su derecho convenga, levantándose el acta correspondiente.
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2005)</small>
+
+ARTÍCULO 89
+
+Para la imposición de las sanciones previstas en el artículo 85 de este Reglamento, se estará a lo siguiente:
+
+I. La aplicación de cualesquiera de ellas corresponde al Presidente del Tribunal; requiriéndose, cuando se trate de la suspensión, remoción o cese del Secretario General, Secretario Administrativo, Contralor Interno, Coordinadores y Secretarios de Estudio y Cuenta, de la solicitud previa de la mayoría de los integrantes del Pleno; y
+
+II. Una vez decretada la sanción, se comunicará por escrito al trabajador de que se trate, quien deberá firmar de recibido, quedando constancia de ello en el expediente personal; si éste se negare a recibir la resolución, el Presidente ordenará su notificación por los conductos legales que estime procedentes.
+
+En contra de esta resolución procederá, el procedimiento previsto en el artículo 273 del Código Electoral del Distrito Federal.
+
+## TÍTULO CUARTO. De los medios de impugnación en materia electoral
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
@@ -1726,139 +2236,7 @@ ARTÍCULO 131
 
 En ningún caso, la definición de un criterio obligatorio modificará los efectos de las sentencias dictadas con anterioridad.
 
-## TÍTULO TERCERO. Del régimen de los servidores del Tribunal
-
-ARTÍCULO 78
-
-La relación de trabajo entre el Tribunal y sus servidores se establece en virtud del nombramiento que al efecto se expida.
-
-ARTÍCULO 79
-
-Todos los servidores del Tribunal serán considerados de confianza y tendrán las obligaciones y derechos que establezcan las disposiciones aplicables.
-
-ARTÍCULO 80
-
-Son obligaciones de los servidores del Tribunal, además de las previstas por el artículo 47 de la Ley Federal de Responsabilidades de los Servidores Públicos y que no sean contrarias a la naturaleza de la función jurisdiccional, las siguientes:
-
-I Desempeñar sus labores en el tiempo y lugar convenidos, con la intensidad, eficacia y esmero apropiados, sujetándose invariablemente a las disposiciones legales y reglamentarias, así como a las instrucciones de sus superiores;
-
-II Formular y ejecutar, en su caso, los planes, programas y actividades correspondientes a su competencia y manejar, cuando corresponda, los recursos económicos y materiales, de conformidad con lo dispuesto en las disposiciones aplicables;
-
-III Custodiar y hacer entrega, cuando corresponda, de los fondos, valores y bienes que le sean confiados para el desempeño de su empleo, cargo o comisión;
-
-IV Utilizar los recursos que tengan asignados para el desempeño de su empleo, cargo o comisión, exclusivamente para los fines a que están afectos;
-
-V Custodiar y manejar con el debido cuidado la documentación e información que por razón de su empleo, cargo o comisión, conserven bajo su custodia, evitando la sustracción, destrucción, ocultamiento o uso indebido de aquéllas;
-
-VI Observar en su relación con los demás servidores del Tribunal la consideración, respeto y diligencia debidos;
-
-VII Observar respeto y subordinación legítimos hacia sus superiores jerárquicos, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
-
-VIII Participar en la esfera de su respectiva competencia, en los programas y cursos de formación y desarrollo profesional y en las actividades de capacitación jurisdiccional electoral;
-
-IX Guardar absoluta reserva sobre los asuntos del Tribunal; y
-
-X Las demás que les impongan la ley, este Reglamento y las demás disposiciones aplicables.
-
-ARTÍCULO 81
-
-Los servidores del Tribunal, en el desempeño de sus funciones, se abstendrán de:
-
-I Incurrir en cualquier acto u omisión que entorpezca o perjudique el debido cumplimiento de las funciones o que implique abuso o ejercicio indebido de su empleo, cargo o comisión;
-
-II Intervenir en asuntos electorales que no sean competencia del Tribunal, ni ejecutar, apoyar o impulsar actos que contengan una conducta parcial a favor o en contra de partidos, agrupaciones u organizaciones políticas, así como de sus dirigentes, candidatos o militantes, salvo que se trate de defensa propia por acusación que el servidor estime infundada;
-
-III Comprometer, por imprudencia o descuido inexcusable, la seguridad del centro de trabajo, de las personas o de los bienes que se encuentren dentro del Tribunal;
-
-IV Sustraer documentos, equipo, mobiliario o útiles de trabajo del Tribunal, sin la autorización previa y expresa de sus superiores jerárquicos;
-
-V Incurrir en faltas injustificadas a sus labores, que redunden en perjuicio de las funciones del Tribunal;
-
-VI Concurrir a sus labores en estado de embriaguez o bajo la influencia, sin causa justificada, de algún narcótico, sea droga enervante o estupefaciente;
-
-VII Realizar actos inmorales, de violencia o maltrato en las instalaciones del Tribunal;
-
-VIII Realizar, con carácter lucrativo, colectas, rifas, sorteos, o la venta de bienes o servicios en las instalaciones del Tribunal; y
-
-IX Portar armas de cualquier clase en el interior del Tribunal, salvo que por la naturaleza de sus labores las requieran.
-
-ARTÍCULO 82
-
-Son derechos de los servidores del Tribunal:
-
-I Disfrutar de las medidas de protección al salario;
-
-II Recibir oportunamente la remuneración correspondiente por los servicios prestados, de conformidad con los tabuladores del Tribunal y el presupuesto autorizado;
-
-III Disfrutar de los periodos de vacacionales que determine el Pleno;
-
-IV Percibir con anticipación a la fecha de inicio de su periodo vacacional la prima correspondiente en el monto previsto en el presupuesto autorizado;
-
-V Recibir las demás prestaciones que con carácter general se fijen para todo el personal, de conformidad con las disponibilidades presupuestales y con los lineamientos que al efecto establezcan las autoridades en la materia;
-
-VI Gozar de los beneficios de la seguridad social, para lo cual serán incorporados al régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
-
-VII Participar en los programas de capacitación, formación o desarrollo profesional; y
-
-VIII Inconformarse ante el Pleno del Tribunal en el caso de la imposición de sanciones.
-
-ARTÍCULO 83
-
-El incumplimiento de las obligaciones por parte de los servidores del Tribunal, dará lugar a la imposición de las sanciones establecidas en el Código y en este Reglamento, sin perjuicio de la aplicación de las previstas en otras disposiciones legales.
-
-ARTÍCULO 84
-
-Las sanciones administrativas serán impuestas a los servidores del Tribunal por el incumplimiento de sus obligaciones y se aplicarán en atención a la gravedad de la falta en que se hubiese incurrido.
-
-ARTÍCULO 85
-
-Las sanciones administrativas consistirán en:
-
-I Amonestación;
-
-II Suspensión;
-
-III Remoción; y
-
-IV Cese.
-
-Estas sanciones podrán aplicarse indistintamente sin sujetarse al orden enunciado.
-
-ARTÍCULO 86
-
-Amonestación es la llamada de atención, verbal o escrita, que se dirige al servidor del Tribunal, a través de la cual se hacen de su conocimiento las faltas cometidas, exhortándolo a corregir su conducta y apercibiéndole de que en caso de reincidencia se hará acreedor a una sanción más severa.
-
-Suspensión es el acto por el cual queda sin efecto temporalmente la relación de trabajo existente entre el Tribunal y su servidor. Esta sanción no excederá de treinta días naturales.
-
-Remoción es el acto por el cual se determina el cambio de adscripción del servidor, hasta que se resuelva lo conducente a su situación jurídica.
-
-Cese es el acto mediante el cual se da por terminada la relación de trabajo existente entre el Tribunal y el servidor, por incurrir éste en acciones u omisiones graves en el desempeño de sus funciones.
-
-ARTÍCULO 87
-
-La determinación de la sanción se hará tomando en cuenta los elementos siguientes:
-
-I La naturaleza y gravedad de la acción u omisión, así como las consecuencias que con dicha conducta se generen;
-
-II El grado de responsabilidad, los antecedentes y circunstancias socioeconómicas del infractor;
-
-III En su caso, el beneficio obtenido, así como el daño o perjuicio ocasionado; y
-
-IV La reincidencia en el incumplimiento de sus obligaciones.
-
-ARTÍCULO 88
-
-Con el objeto de dar cumplimiento a lo previsto en el artículo 235, último párrafo, del Código, cometida la acción u omisión constitutiva de la falta, el superior jerárquico del infractor lo hará del conocimiento del Presidente del Tribunal, el cual, por conducto del Secretario General, procederá a citarlo para que comparezca en día y hora ciertos, a fin de que manifieste por escrito lo que a su derecho convenga, levantándose el acta correspondiente.
-
-ARTÍCULO 89
-
-Para la imposición de las sanciones se estará a lo siguiente:
-
-I La aplicación de cualesquiera de ellas corresponde al Presidente del Tribunal; requiriéndose, cuando se trate de la suspensión, remoción o cese del Secretario General, Secretario Administrativo, Contralor Interno, Coordinadores y Secretarios de Estudio y Cuenta, de la solicitud previa de la mayoría de los integrantes del Pleno; y
-
-II Una vez decretada la sanción, se comunicará por escrito al servidor público de que se trate, quien deberá firmar de recibido, quedando constancia de ello en el expediente personal.
-
-## TÍTULO CUARTO. De los medios de impugnación en materia electoral
+## TÍTULO QUINTO. De los procedimientos especiales
 
 ### CAPÍTULO I. Disposiciones Generales
 
@@ -1877,8 +2255,6 @@ Para la sustanciación y resolución de los procedimientos previstos en este Tí
 ARTÍCULO 135
 
 Notificada la sentencia, y en un plazo de tres días, las partes podrán solicitar su aclaración para precisar o corregir algún punto. El Pleno podrá aclarar la resolución, siempre que esto no implique una alteración sustancial de los puntos resolutivos o del sentido del fallo.
-
-## TÍTULO QUINTO. De los procedimientos especiales
 
 ### CAPÍTULO II. De las diferencias o conflictos laborales entre el Tribunal Electoral del Distrito Federal y sus servidores
 
@@ -2036,6 +2412,8 @@ IV Los principios generales de derechos; y
 
 V La equidad.
 
+## TÍTULO SEXTO. De las reformas al Reglamento
+
 ### CAPÍTULO ÚNICO. Del procedimiento de Reforma
 
 ARTÍCULO 152
@@ -2051,8 +2429,6 @@ I Toda iniciativa de reforma se presentará ante la Comisión de Reglamento Inte
 II El Pleno decidirá lo conducente, rechazando, aprobando o modificando la propuesta de reforma planteada; y
 
 III De ser aprobada la reforma, quedará incorporada de inmediato al texto de este Reglamento, debiendo ordenarse su publicación en los estrados del Tribunal y en la Gaceta; en caso contrario, la iniciativa se archivará.
-
-## TÍTULO SEXTO. De las reformas al Reglamento
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -2135,3 +2511,15 @@ Que en ejercicio de la facultad conferida al Pleno del Tribunal Electoral del Di
 En lo general, y en lo particular por unanimidad de cinco votos de los señores Magistrados Raciel Garrido Maldonado, Presidente, Estuardo Mario Bermúdez Molina, Juan Martínez Veloz, Hermilo Herrejón Silva y Rodolfo Terrazas Salgado, salvo lo siguiente: por mayoría de cuatro votos y un voto en contra del señor Magistrado Estuardo Mario Bermúdez Molina, los artículos 4°., fracción V, primer párrafo, 5º., fracción IV, primer enunciado, 8º., fracción VIII, vinculado con el 26, fracción III, 13 y 122, por la supresión a este último de un párrafo que preveía dar vista al Ministerio Público, en caso de que el domicilio señalado por el actor, tercero interesado o coadyuvante resultare falso, en virtud de que la variación del domicilio se encuentra tipificada como delito en el artículo 249, fracción II, del Código Penal local; todo ello, al tenor del voto particular razonado que se agregó al acta correspondiente a la sesión privada del Pleno de catorce de enero de dos mil. Así mismo, se hace constar que los señores Magistrados Raciel Garrido Maldonado y Hermilo Herrejón Silva, presentaron propuesta para adicionar el artículo 24, en el sentido de impedir el desempeño de otros empleos, cargos o comisiones remunerados, por parte de los Magistrados, la cual fue votada en contra por lo señores Magistrados Estuardo Mario Bermúdez Molina, Juan Martínez Veloz y Rodolfo Terrazas Salgado, por lo que los proponentes presentaron voto particular razonado, el cual forma parte de la misma acta.-------------------------------------------------------
 
 México, Distrito Federal a los catorce días del mes de enero de dos mil.- Doy fe.------------------------(Firma)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 26 DE ENERO DE 2005.
+
+PRIMERO.- La presente reforma iniciará su vigencia una vez que sea aprobada por el Pleno del Tribunal Electoral del Distrito Federal.
+
+SEGUNDO.- Las denuncias y quejas administrativas que se hayan presentado antes de la entrada en vigor de la presente reforma, se regirán por las disposiciones establecidas en la misma.
+
+TERCERO.- Se derogan todas las disposiciones que sean contrarias a lo previsto en la presente reforma.
+
+CUARTO.- Se ordena la publicación de la presente reforma en la Gaceta Oficial del Distrito Federal, así como en los estrados de este Tribunal.
