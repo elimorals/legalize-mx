@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-17884"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2000-12-15"
+last_updated: "2001-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MERIDA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O. DE 15 DE DICIEMBRE DE 2000, SU ENTRADA EN VIGOR SERA CINCO DIAS DESPUES DE SU PUBLICACION.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 30 de diciembre de 1999.
 
@@ -44,6 +42,8 @@ LEY DE HACIENDA DEL MUNICIPIO DE MERIDA
 DE LOS INGRESOS MUNICIPALES
 
 ### CAPITULO I. IMPUESTO PREDIAL
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
 DE LOS SUJETOS
 
@@ -145,11 +145,15 @@ d).- El Subdirector, jefe o encargado de la Oficina de ingresos.
 
 e).- El titular de la oficina encargada de aplicar el procedimiento administrativo de ejecución.
 
-Corresponde al Director de Finanzas y Tesorero Municipal, determinar, liquidar y recaudar los ingresos municipales y ejercer, en su caso, la facultad económico-coactiva. Dichas autoridades contarán con los interventores, visitadores, auditores, peritos e inspectores necesarios para verificar el cumplimiento de las obligaciones fiscales municipales, llevar a cabo notificaciones, requerir documentación, practicar auditorías, visitas de inspección y visitas domiciliarias; mismas diligencias que, se ajustarán a los términos y condiciones que, para cada caso, disponga el Código Fiscal del Estado.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+Corresponde al Director de Finanzas y Tesorero Municipal, determinar, liquidar y recaudar los ingresos municipales y ejercer, en su caso, la facultad económico-coactiva. Dicha autoridad designará a los interventores, visitadores, auditores, peritos, notificadores e inspectores, necesarios para verificar el cumplimiento de las obligaciones fiscales municipales, llevar a cabo notificaciones, requerir documentación, practicar auditorías, visitas de inspección y visitas domiciliarias; mismas diligencias que, se ajustarán a los términos y condiciones que, para cada caso, disponga el Código Fiscal del Estado.
 
 Las facultades discrecionales del Director de Finanzas y Tesorero Municipal no podrán ser delegadas en ningún caso o forma.
 
-El Tesorero Municipal y las demás autoridades a que se refiere este artículo gozarán, en el ejercicio de las facultades de comprobación, de las facultades que el Código Fiscal del Estado otorga al Tesorero del Estado y las demás autoridades estatales.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+El Director de Finanzas y Tesorero Municipal y las demás autoridades a que se refiere este artículo gozarán, en el ejercicio de las facultades de comprobación, de las facultades que el Código Fiscal del Estado otorga al Tesorero del Estado y las demás autoridades estatales.
 
 DEL ORGANO ADMINISTRATIVO
 
@@ -237,7 +241,9 @@ Las contribuciones se causan, conforme se realizan las situaciones jurídicas o 
 
 Dichas contribuciones se determinarán de acuerdo con las disposiciones vigentes en el momento de su causación, pero les serán aplicables las normas sobre procedimientos que se expidan con posterioridad.
 
-La determinación de las contribuciones corresponde a las autoridades fiscales, con excepción del Impuesto Sobre Adquisición de Inmuebles cuya determinación corresponde a los fedatarios públicos y a las personas que por disposición legal tengan funciones notariales; y la del Impuesto Predial, Base y Contraprestación, que corresponde a los sujetos obligados.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+La determinación de las contribuciones corresponde a las autoridades fiscales, con excepción del Impuesto Sobre Adquisición de lnmuebles cuya determinación corresponde a los fedatarios públicos y a las personas que por disposición legal tengan funciones notariales; y la del Impuesto Predial, Base Contraprestación, que corresponde a los sujetos obligados.
 
 Los contribuyentes, proporcionarán a las mencionadas autoridades, la información necesaria y suficiente para determinar las citadas contribuciones, en un plazo máximo de quince días siguientes, a la fecha de su causación, salvo en los casos que la propia Ley fije otro plazo.
 
@@ -266,6 +272,8 @@ En los términos establecidos en el párrafo anterior, para el pago de los créd
 La existencia de personal de guardia no habilita los días en que se suspendan las labores. Si al término del vencimiento fuere día inhábil, el plazo se prorrogará al siguiente día hábil.
 
 DEL PAGO A PLAZOS
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 23.
 
@@ -303,7 +311,9 @@ DE LAS OBLIGACIONES EN GENERAL
 
 Las personas físicas y morales, además de las obligaciones especiales contenidas en la presente Ley, deberán cumplir con las siguientes:
 
-I.- Empadronarse en la Dirección de Finanzas y Tesorería Municipal, antes de la apertura del comercio, negocio o establecimiento, o de la iniciación de actividades, si realizan actividades permanentes, con el objeto de obtener la licencia Municipal de funcionamiento.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+I.- Empadronarse en la Dirección de Finanzas y Tesorería Municipal, a más tardar treinta días naturales después de la apertura del comercio, negocio o establecimiento, o de la iniciación de actividades, si realizan actividades permanentes con el objeto de obtener la licencia Municipal de funcionamiento.
 
 II.- Recabar de la Dirección de Desarrollo Urbano la carta de uso de suelo en donde se determine que el giro del comercio, negocio o establecimiento que se pretende instalar, es compatible con la zona de conformidad con el Plan Director de Desarrollo Urbano del Municipio y que cumple además, con lo dispuesto en el Reglamento de Construcciones del propio Municipio.
 
@@ -329,23 +339,33 @@ Las licencias de funcionamiento que expida la Dirección de Finanzas y Tesorerí
 
 Tendrán una vigencia que iniciará en la fecha de su expedición y terminará el último día del período constitucional de la administración municipal que la expidió.
 
-No obstante lo dispuesto en el párrafo anterior, la vigencia de las licencias podrá concluir anticipadamente e incluso, condicionarse el funcionamiento, cuando por la actividad de la persona física o moral, se requieran permisos, licencias o autorizaciones de otras dependencias municipales, estatales o federales. En cuyo caso, el plazo de vigencia o la condición serán iguales a las expresadas por dichas dependencias. En ningún caso la vigencia de la licencia de funcionamiento excederá del período de la administración municipal que la expidió.
+> <small>(REFORMADO D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+No obstante lo dispuesto en el párrafo anterior, la vigencia de las licencias podrá concluir anticipadamente e incluso, condicionarse el funcionamiento cuando por la actividad de la persona física o moral se requieran permisos, licencias o autorizaciones de otras dependencias municipales, estatales o federales. En cuyo caso, el plazo de vigencia o la condición serán iguales a las expresadas por dichas dependencias. En ningún caso la vigencia de la licencia de funcionamiento excederá del período de la administración municipal que la expidió.
 
 Los interesados deberán revalidar sus licencias durante los cuatro primeros meses de cada administración municipal.
 
 Las personas físicas o morales que deseen obtener la licencia municipal de funcionamiento, deberán presentar a la Dirección de Finanzas y Tesorería Municipal los siguientes documentos:
 
-a).- Certificado de no adeudar impuesto predial.
+> <small>(REFORMADO D.O. 31 DE DICIEMBRE DE 2001)</small>
 
-b).- Carta de uso de suelo.
+a).- Documento que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento.
+
+> <small>(REFORMADO D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+b).- Licencia de uso de suelo.
 
 c).- Determinación sanitaria, en su caso.
 
 Para la revalidación de la licencia municipal de funcionamiento deberán presentarse:
 
-a).- Licencia de funcionamiento anterior.
+> <small>(REFORMADO D.O. 31 DE DICIEMBRE DE 2001)</small>
 
-b).- Certificado de no adeudar impuesto predial.
+a).- Licencia de funcionamiento expedida por la administración municipal inmediata anterior.
+
+> <small>(REFORMADO D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+b).- Documento que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento.
 
 DE LA ACTUALIZACION
 
@@ -373,13 +393,15 @@ Los recargos se causarán por cada mes o fracción que transcurra desde el día 
 
 Cuando el pago de las contribuciones o de los créditos fiscales, hubiese sido menor al que corresponda, los recargos se causarán sobre la diferencia.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
 DEL CHEQUE PRESENTADO EN TIEMPO Y NO PAGADO
 
-###### ARTICULO 31.
+###### ARTÍCULO 31.
 
-El cheque recibido por el Municipio de Mérida, en pago de algún crédito fiscal o garantía en términos de la presente ley, que sea presentado en tiempo al librado y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del importe del propio cheque, y se exigirá independientemente de los otros conceptos a que se refiere este título.
+El cheque recibido por el Municipio de Mérida, en pago de alguna contribución, crédito fiscal o garantía, en términos de la presente ley, que sea presentado en tiempo al librado y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización suficiente para resarcirlo de los daños y perjuicios que con ello le ocasionó. En ningún caso la indemnización será menor del 20% del importe del propio cheque, y se exigirá independientemente de los otros conceptos a que se refiere este título.
 
-Para tal efecto la autoridad requerirá al librador del cheque para que, dentro de un plazo de siete días efectúe el pago junto con la mencionada indemnización del 20%, o bien, acredite fehacientemente, con las pruebas documentales procedentes que se realizó el pago o que éste no se realizó, por causas exclusivamente imputables a la institución de crédito. Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualquiera de los extremos antes señalados, la autoridad fiscal municipal requerirá y cobrará el monto del cheque, la indemnización y, en su caso, los recargos, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal, que en su caso, proceda.
+Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro de un plazo de siete días efectúe el pago de su importe junto con la mencionada indemnización, o bien, acredite fehacientemente, con las pruebas documentales procedentes que se realizó el pago o que éste no se realizó, por causas exclusivamente imputables a la institución de crédito. Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualquiera de los extremos antes señalados, la autoridad fiscal municipal requerirá y cobrará el monto del cheque, la indemnización y, en su caso, los recargos mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal, que en su caso, proceda.
 
 DE LOS RECARGOS EN PAGOS ESPONTANEOS
 
@@ -395,7 +417,9 @@ Las autoridades fiscales municipales están obligadas a devolver las cantidades 
 
 Si el pago de lo indebido, se hubiese efectuado en el cumplimiento de un acto de autoridad, el derecho a la devolución nace, cuando dicho acto hubiere quedado insubsistente.
 
-Las autoridades fiscales tendrán un plazo máximo de treinta días naturales, para efectuar las devoluciones mencionadas en este artículo.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+Las autoridades fiscales municipales tendrán un plazo máximo de treinta días naturales, para efectuar las devoluciones mencionadas en este artículo.
 
 Las autoridades fiscales municipales deberán pagar la devolución que proceda, actualizada conforme al procedimiento establecido en el artículo 28 de esta ley, desde el mes en que se efectuó el pago en exceso hasta aquel en que la devolución se efectúe. Si la devolución no se hubiese efectuado en el plazo previsto en este artículo, las mismas autoridades fiscales municipales pagarán intereses que se calcularán a partir del día siguiente al del vencimiento de dicho plazo, conforme a la tasa que se aplicará sobre la devolución actualizada y que será igual a la prevista para los recargos en los términos del Artículo 29 de esta propia Ley.
 
@@ -432,6 +456,8 @@ II.- Los fideicomitentes por todo el tiempo que el fiduciario no transmitiere la
 III.- Los fideicomisarios, cuando tengan la posesión o el uso del inmueble.
 
 IV.- Los fiduciarios, cuando por virtud del contrato del fideicomiso tengan la posesión o el uso del inmueble.
+
+V.- Los subarrendadores, cuya base será la diferencia que resulte a su favor entre la contraprestación que recibe y la que paga.
 
 DE LOS OBLIGADOS SOLIDARIOS
 
@@ -473,39 +499,73 @@ I.- El valor catastral del inmueble.
 
 II.- La contraprestación que produzcan los inmuebles, los terrenos o las construcciones ubicadas en los mismos y que por el uso o goce fuere susceptible de ser cobrada por el propietario, el fideicomisario o el usufructuario, independientemente de que se pacte en efectivo, especie o servicios.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
 DE LA BASE: VALOR CATASTRAL
 
 ###### ARTICULO 41.
 
-Cuando la base del impuesto predial, sea el valor catastral de un inmueble, dicha base estará determinada por el valor consignado en la cédula, que de conformidad con la Ley del Catastro y su reglamento, expedirá la Dirección del Catastro del Municipio de Mérida o la Dirección del Catastro del Estado.
+Cuando la base del impuesto predial, sea el valor catastral de un inmueble, dicha base estará determinada por el valor consignado en la cédula, que de conformidad con la Ley del Catastro del Estado de Yucatán y su reglamento, expedirá la Dirección del Catastro del Municipio de Mérida.
 
-Cuando la Dirección de Catastro del Municipio de Mérida expidiere una cédula con diferente valor a la que existe registrada en el padrón municipal, el nuevo valor servirá como base para calcular el impuesto predial a partir del bimestre siguiente al mes que se recepcione la citada cédula.
+Cuando la Dirección de Catastro del Municipio de Mérida expidiere una cédula con diferente valor a la que existe registrada en el padrón municipal, el nuevo valor servirá como base para calcular el impuesto predial a partir del mes siguiente al en que se emita la citada cédula.
 
-Lo dispuesto en el párrafo anterior no se aplicará a los contribuyentes que a la fecha de la recepción de la nueva cédula catastral ya hubieren pagado el impuesto predial correspondiente. En este caso, el nuevo valor consignado en la cédula servirá como base del cálculo del impuesto predial para el siguiente bimestre no cubierto.
+Lo dispuesto en el párrafo anterior no se aplicará a los contribuyentes que a la fecha, de la emisión de la nueva cédula catastral ya hubieren pagado el impuesto predial correspondiente. En este caso, el nuevo valor consignado en la cédula servirá como base del cálculo del impuesto predial para el siguiente mes no cubierto.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 41
+
+Bis.- Para la determinación de los valores catastrales correspondientes se tomarán en cuenta:
+
+I.- Los valores unitarios para el terreno correspondiente a las secciones catastrales de la zona urbana de la ciudad de Mérida, de la uno a la treinta que aparecen en las tablas que delimitan esas secciones; y sus comisarías, conforme a las tablas siguientes:
+
+> <small>N. DE E. VEASE TABLAS EN EL D.O. DE 31 DE DICIEMBRE DE 2001, PAGINAS DE LA 51 A LA 92.</small>
+
+II.- Los valores unitarios para los terrenos rústicos;
+
+III.- Los valores unitarios para los locales correspondientes a las plazas comerciales, que incluyan su área privativa y sus pro indiviso de las áreas comunes;
+
+IV.- Los valores unitarios para los diferentes tipos de construcción y factores por zona, que se expresan en la tabla respectiva, y
+
+V.- Los coeficientes de demérito que afectan los valores unitarios de terreno para la valuación de predios urbanos que se especifican en la tabla respectiva.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
 DE LA TARIFA
 
 ###### ARTICULO 42.
 
-Cuando la base del impuesto predial sea el valor catastral del inmueble, el impuesto se determinará multiplicando el factor fijo anual que corresponda al valor catastral señalado en la tabla, por el salario mínimo vigente. El producto será el impuesto a pagar.
+Cuando la base del impuesto predial sea el valor catastral del inmueble, el impuesto se determinará aplicando al valor catastral de la siguiente,
 
-TABLA
+TARIFA
 
-Para valores Hasta valores Factor fijo Factor
+VALORES CATASTRALES CUOTA FIJA + TASA POR EXCEDENTE
 
-Catastrales de Catastrales de anual excedente
+Límite Límite Superior Cuota fija Factor
 
-0.01 4,000.00 pesos 0.18
+Inferior s/ecx. L.I.
 
-4,001.00 7,000.00 pesos 0.60
+0.01 50,000.00 $ - 0.00075
 
-7,001.00 9,000.00 pesos 0.96
+50,000.01 100,000.00 $ 37.50 0.00100
 
-9,001.00 en adelante 1.2 0.000168
+100,000.01 200,000.00 $ 87.50 0.00150
 
-En el caso de predios cuyo valor catastral exceda de nueve mil pesos el impuesto predial se calculará como sigue:
+200,000.01 450,000.00 $ 237.50 0.00200
 
-Se aplicará el factor fijo de 1.2 al salario mínimo vigente. Posteriormente, se restará al valor catastral del predio el importe de nueve mil pesos, la diferencia se multiplicará por el resultado de la aplicación del factor excedente de 0.000168 al salario mínimo vigente; el producto, se sumará al resultado de la primera multiplicación del salario mínimo vigente por el factor fijo de 1.2 y la cantidad así obtenida será el impuesto a pagar.
+450,000.01 800,000.00 $ 737.50 0.00230
+
+800,000.01 1,250,000.00 $ 1,542.50 0.00260
+
+1,250,000.01 1,800,000.00 $ 2,712.50 0.00290
+
+1,800,000.01 2,450,000.00 $ 4,307.50 0.00320
+
+2,450,000.01 3,200,000.00 $ 6,387.50 0.00360
+
+3,200,000.01 En adelante $ 9,087.50 0.00400
+
+Se calculará de la siguiente manera: la diferencia entre el valor catastral y el límite inferior se multiplicará por la tasa aplicable y el producto obtenido se sumará a la cuota fija.
 
 Los predios que se encuentren en alguna de las situaciones siguientes:
 
@@ -513,23 +573,27 @@ a) Sin construcción, con maleza y sin cercar.
 
 b) Con construcción, pero deshabitados, con maleza.
 
-c) Causarán una tarifa de tres veces el factor aplicable al valor catastral.
+Causarán una tarifa de tres veces la tarifa anual aplicable al valor catastral.
 
 DEL PAGO
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 43.
 
-El impuesto predial sobre la base de valor catastral deberá cubrirse por bimestres anticipados dentro de los primeros quince días de cada uno de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año.
+El impuesto predial sobre la base de valor catastral deberá cubrirse por meses vencidos dentro de los primeros quince días de cada uno de los meses siguientes, excepto el que corresponde a enero cuyo vencimiento será el último día del mes de febrero de cada año.
 
 Cuando el contribuyente pague el impuesto predial correspondiente a una anualidad, durante los meses de enero y febrero de dicho año, gozará de una bonificación del 0.10 sobre el importe de dicho impuesto.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
 DE LA BASE CONTRAPRESTACION (SIC)
 
 ###### ARTICULO 44.
 
-El impuesto predial, se causará sobre la base de rentas, frutos civiles o cualquier otra contraprestación pactada, cuando el inmueble de que se trate, hubiese sido otorgado en uso, goce, se permitiere su ocupación por cualquier título y genere dicha contraprestación por la ocupación; siempre y cuando, al determinarse el impuesto conforme a la tarifa establecida en el artículo 46 de esta Ley, diere como resultado un impuesto mayor al que se pagaría sobre la base del valor catastral, conforme a la tarifa del artículo 42.
+El impuesto predial, se causará sobre la base de rentas, frutos civiles o cualquier otra contraprestación pactada, cuando el inmueble de que se trate, hubiese sido otorgado en uso, goce, se permitiera su ocupación por cualquier título y genere dicha contraprestación por la ocupación; siempre y cuando, al determinarse el impuesto conforme a la tarifa establecida en el artículo 46 de esta Ley, diere como resultado un impuesto mayor al que se pagaría sobre la base del valor catastral, conforme a la tarifa del artículo 42.
 
-No será aplicada esta base cuando los inmuebles sean destinados a sanatorios de beneficencia y centros de enseñanza reconocidos por la autoridad educativa correspondiente.
+No será aplicada esta base cuando los inmuebles sean destinados a instituciones de beneficencia y centros de enseñanza reconocidos por la autoridad educativa correspondiente.
 
 DE LAS OBLIGACIONES DEL CONTRIBUYENTE
 
@@ -555,11 +619,15 @@ HABITACIONAL 0.03 mensual sobre el monto de la contraprestación.
 
 OTROS 0.05 mensual sobre el monto de la contraprestación.
 
-DEL PAGO
+> <small>(REFORMADA SU DENOMINACION, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+DEL PAGO (DEL PREDIAL SOBRE BASE CONTRAPRESTACION)
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 47.
 
-Cuando el impuesto predial se cause sobre la base de la contraprestación pactada por usar, gozar o permitir la ocupación de un inmueble, el impuesto deberá cubrirse durante la primera quincena del mes siguiente a aquél en que se cumpla alguno de los siguientes supuestos: que sea exigible el pago de la contraprestación; que se expida el comprobante de la misma; o se cobre el monto pactado por el uso o goce, lo que suceda primero, salvo el caso en que los propietarios, usufructuarios, fideicomisarios o fideicomitentes estuviesen siguiendo un procedimiento judicial para el cobro de la contraprestación pactada, en contra del ocupante o arrendatario.
+Cuando el impuesto predial se cause sobre la base de la contraprestación pactada por usar, gozar o permitir la ocupación de un inmueble, el impuesto deberá cubrirse durante la primera quincena del mes siguiente a aquél en que se cumpla alguno de los siguientes supuestos: que sea exigible el pago de la contraprestación; que se expida el comprobante de la misma o se cobre el monto pactado por el uso o goce, lo que suceda primero, salvo el caso en que los sujetos de este impuesto estuviesen siguiendo un procedimiento judicial para el cobro de la contraprestación pactada, en contra del ocupante o arrendatario.
 
 En este caso, para que los propietarios, usufructuarios, fideicomisarios o fideicomitentes tributen sobre la base del valor catastral del inmueble objeto, deberán notificar dicha situación, a la Dirección de Finanzas y Tesorería Municipal, dentro de los quince días siguientes a la fecha de inicio del procedimiento correspondiente, anexando copia del memorial respectivo.
 
@@ -569,9 +637,13 @@ DE LAS OBLIGACIONES DE TERCEROS
 
 Los fedatarios públicos, las personas que por disposición legal tengan funciones notariales y los funcionarios ante quienes se ratifiquen las firmas, no deberán autorizar o ratificar escrituras o contratos que se refieran a predios urbanos o rústicos ubicados en el Municipio de Mérida, o a construcciones edificadas en los mismos, sin obtener un certificado expedido por la Dirección de Finanzas y Tesorería Municipal, en el cual conste que el predio objeto de la escritura, acto o contrato, se encuentra al corriente en el pago del impuesto predial. El certificado que menciona el presente artículo deberá anexarse al documento que contenga la escritura; el acto o el contrato correspondiente.
 
-Los empleados y funcionarios del Registro Público de la Propiedad del Estado, se abstendrán de inscribir el documento que carezca del certificado de no adeudar contribuciones prediales, cuya fecha corresponda al bimestre de la fecha del otorgamiento del documento o a bimestre posterior a dicha fecha.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
-La Dirección de Finanzas y Tesorería Municipal, expedirá los certificados de no adeudar impuesto predial, conforme a la solicitud que por escrito presente el interesado, quien deberá señalar el bimestre y el año, respecto de los cuales solicite la certificación.
+Los empleados y funcionarios del Registro Público de la Propiedad del Estado, se abstendrán de inscribir el documento que carezca del certificado de no adeudar contribuciones prediales, cuya fecha corresponda al mes anterior al de la fecha del otorgamiento del documento.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+La Dirección de Finanzas y Tesorería Municipal, expedirá los certificados de no adeudar impuesto predial, conforme a la solicitud que por escrito presente el interesado, quien deberá señalar el mes y el año, respecto de los cuales solicite la certificación.
 
 La propia Dirección, emitirá la forma correspondiente para solicitar el certificado mencionado en el párrafo que antecede.
 
@@ -639,15 +711,25 @@ IV.- La disolución de la copropiedad, siempre que las partes adjudicadas no exc
 
 V.- Cuando se adquieran inmuebles por herencia o legado.
 
-VI.- La donación entre consortes, ascendientes o descendientes en línea directa, previa comprobación del parentesco ante la Dirección de Finanzas y Tesorería Municipal.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+VI.- la donación entre cónyuges, ascendientes o descendientes en línea directa, previa comprobación del parentesco ante la Dirección de Finanzas y Tesorería Municipal.
 
 DE LA BASE
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 15 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 53.
 
-La base del impuesto sobre adquisición de inmuebles será el valor que resulte mayor entre el precio de adquisición, el valor contenido en la cédula catastral vigente, el valor contenido en el avalúo pericial tratándose de las operaciones consignadas en las fracciones IX, XI y XII del artículo 51 de esta ley, el avalúo expedido por las autoridades fiscales, las instituciones de crédito, la Comisión de Avalúos de Bienes Nacionales o por corredor público.
+la base del impuesto sobre adquisición de inmuebles, será el valor que resulte mayor entre el precio de adquisición, el valor contenido en la cédula catastral vigente, el valor contenido en el avalúo pericial tratándose de las operaciones consignadas en las fracciones IX, XI y XII del artículo 51 de esta Ley, el avalúo expedido por las autoridades fiscales, las instituciones de crédito, la Comisión de Avalúos de Bienes Nacionales, por corredor público o perito valuador que se registre ante la Dirección de Finanzas y Tesorería Municipal, previo cumplimiento de los siguientes requisitos:
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+a).- Ser ciudadano mexicano en pleno goce de sus derechos.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+b).- Acreditar con documentación fehaciente, experiencia valuatoria mínima de tres años inmediatos anteriores a la fecha de solicitud del registro.
 
 Cuando el adquirente asuma la obligación de pagar alguna deuda del enajenante o de perdonarla, el importe de dicha deuda, se considerará parte del precio pactado.
 
@@ -695,11 +777,13 @@ Para los efectos del presente artículo el usufructo y la nuda propiedad tienen 
 
 En la elaboración de los avalúos referidos así como para determinar el costo de los mismos con cargo a los contribuyentes, las autoridades fiscales municipales observarán las disposiciones del Código Fiscal del Estado o, en su defecto, las disposiciones relativas del Código Fiscal de la Federación y su reglamento.
 
-VIGENCIA DE LOS AVALUOS
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+VIGENCIA DE LOS AVALÚOS
 
 ###### ARTICULO 54.
 
-Los avalúos que se practiquen para el efecto del pago del Impuesto Sobre Adquisición de Bienes Inmuebles, tendrán una vigencia de seis meses a contar de la fecha de su expedición.
+Los avalúos que se practiquen para el efecto del pago del Impuesto Sobre Adquisición de Bienes lnmuebles, tendrán una vigencia de seis meses, contados a partir de la fecha de su expedición.
 
 DE LA TASA
 
@@ -707,11 +791,15 @@ DE LA TASA
 
 El impuesto a que se refiere este capítulo, se calculará aplicando la tasa del 0.02, a la base señalada en el artículo 53 de esta Ley.
 
-DEL MANIFIESTO A LA AUTORIDAD
+> <small>(REFORMADA SU DENOMINACION, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+DEL MANIFIESTO DE LA AUTORIDAD
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 56.
 
-Los fedatarios públicos y las personas que por disposición legal tengan funciones notariales, deberán manifestar a la Dirección de Finanzas y Tesorería Municipal, por duplicado, dentro de los treinta días siguientes a la fecha del acto o contrato, la adquisición de inmuebles realizadas ante ellos, expresando:
+Los fedatarios públicos y las personas que por disposición legal tengan funciones notariales, deberán manifestar a la Dirección de Finanzas y Tesorería Municipal, por duplicado, dentro de los treinta días hábiles siguientes a la fecha del acto o contrato, la adquisición de inmuebles realizadas ante ellos, expresando:
 
 I.- Nombres y domicilios de los contratantes.
 
@@ -725,9 +813,17 @@ V.- Naturaleza del acto, contrato o concepto de adquisición.
 
 VI.- Identificación del inmueble.
 
-VII.- Valor de la operación consignada en el contrato.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
-VIII.- Liquidación del impuesto.
+VII.- Valor catastral vigente.
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+VIII.- Valor de la operación consignada en el contrato.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+IX.- Liquidación del impuesto.
 
 A la manifestación señalada en este artículo, se acumulará copia del avalúo practicado al efecto.
 
@@ -789,9 +885,11 @@ La base del Impuesto Sobre Diversiones y Espectáculos Públicos, será la total
 
 DE LA TASA
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 63.
 
-La tasa del Impuesto Sobre Diversiones y Espectáculos Públicos, será del 0.10, misma que se aplicará sobre la base determinada, conforme al artículo inmediato anterior.
+La tasa del Impuesto Sobre Diversiones y Espectáculos Públicos, será del 0.05, misma que se aplicará sobre la base determinada, conforme al artículo inmediato anterior.
 
 Cuando el espectáculo público consista, en la puesta en escena de obras teatrales o en espectáculos de circo, la tasa será del 0.04, aplicada a la totalidad del ingreso percibido.
 
@@ -1103,137 +1201,173 @@ Se exceptúan de lo dispuesto en este artículo, los derechos por certificados s
 
 Por los servicios que presta la Dirección Municipal de Catastro se causarán derechos que se calcularán multiplicando la tasa que se especifica en cada uno de ellos, por el salario mínimo diario vigente en el Municipio de Mérida a la fecha de solicitud:
 
-I.- Por la Emisión de copias fotostáticas simples:
+I.- Por la emisión de copias fotostáticas simples:
 
-a).- Por cada hoja simple tamaño carta
+a).- Por cada copia simple tamaño carta de cédulas, planos, parcelas, formas de manifestación de traslación de dominio o cualquier otra manifestación 0.3
 
-de cédulas, planos, parcelas, formas
+b).- Por cada copia tamaño doble carta: 0.4
 
-de manifestación de traslación de
+c).- Por cada copia tamaño hasta cuatro cartas: 2.0
 
-dominio o cualquier otra manifestación. 0.3
-
-b).- Por cada copia simple tamaño oficio. 0.4
+d).- Por cada copia mayor de cuatro cartas: 5.0
 
 II.- Por la expedición de copias fotostáticas certificadas de:
 
-a).- Cédulas, planos, parcelas,
+a).- Cédulas, planos, parcelas manifestaciones (tamaño carta) cada una: 0.5
 
-manifestaciones (tamaño carta) cada una 0.5
+b).- Planos tamaño doble carta, cada una: 0.6
 
-b).- Planos tamaño oficio, cada una 0.6
+c).- Planos tamaño hasta cuatro cartas cada una: 2.2
 
-c).- Planos tamaño hasta 4 oficios,
-
-cada una 1.2
-
-d).- Planos mayores de 4 veces tamaño
-
-oficio, cada una 2.5
+d).- Planos mayores de cuatro veces tamaño carta, cada uno: 5.2
 
 III.- Por la expedición de oficios de:
 
-a).- División (Por cada parte) 0.3
+a).- División (por cada parte): 0.5
 
-b).- Unión, rectificación de medidas,
+b).- Unión, rectificación de medidas, urbanización y cambio de
 
-urbanización y cambio de nomenclatura 0.6
+nomenclatura: 1.0
 
-c).- Cédulas catastrales 0.6
+c).- Cédulas catastrales:(cada una): 1.0
 
-d).- Constancias de no propiedad, única
+d).- Constancias de no propiedad, única propiedad, valor catastral,
 
-propiedad, valor catastral, número
+número oficial de predio, y certificado de inscripción vigente: 1.5
 
-oficial de predio, certificado de
+e).- Constancia de información de bienes inmuebles:
 
-inscripción vigente, información de bienes
+1.- Por predio: 1.5
 
-inmuebles 1.5
+2.- Por Propietario:
 
-IV.- Por la elaboración de planos:
+de 1 hasta 3 predios 1.5
 
-a).- Catastrales a escala 4.1
+de 4 hasta 10 predios 3.0
 
-b).- Planos topográficos hasta 100 Has. 7.4
+de 11 hasta 20 predios 5.0
 
-V.- Por revalidación de oficios de división,
+de 21 predios en adelante 5.0 más 0.05 por excedente de 20.
 
-unión y rectificación de medidas 0.5
+f).- Certificado de no inscripción predial: 2.0
 
-VI.- Por reproducción de documentos microfilmados:
+IV.- Por revalidación de oficios de división, unión y rectificación de
 
-a).- Tamaño carta 1.2
+Medidas: 1.0
 
-b).- Tamaño oficio 1.5
+V.- Por la elaboración de planos:
 
-VII.- Por diligencias de verificación de
+a).- Tamaño carta: 4.0
 
-medidas físicas y de colindancias de predios 3.5
+b).- Hasta cuatro cartas: 7.4
 
-VIII.- Cuando la diligencia incluya trabajos de topografía, adicionalmente a la tasa de la fracción anterior, se causarán los siguientes derechos de acuerdo a la superficie:
+c).- Más de cuatro cartas: 12.0
 
-De 00-00-01 a 10-00-00 17.8
+VI.- Por diligencias de verificación de colindancias de predios o de
 
-De 10-00-01 a 20-00-00 35.6
+medidas físicas por cada una: 5.0
 
-De 20-00-01 a 30-00-00 53.4
+VII.- Cuando la elaboración de planos o la diligencia de verificación incluya trabajos de topografía, adicionalmente a la tasa de las fracciones III inciso f), V y VI, se causarán los siguientes derechos de acuerdo a la superficie.
 
-De 30-00-01 a 40-00-00 71.2
+de 0.01 a 1000.00 m2 7.4
 
-De 40-00-01 a 50-00-00 89.0
+de 1000.01 a 2500.00 m2 10.0
 
-De 50-00-01 en adelante 1.80 Por Hectárea
+de 2500.01 a 5000.00 m2 12.0
+
+de 5000.01 a 10,000.00 m2 17.8
+
+de 10,000.01 a 100,000.00 m2 35.6
+
+de 100,000.01 a 200,000.00 m2 53.4
+
+de 200,000.01 a 300,000.00 m2 71.2
+
+de 300,000.01 a 400,000.00 m2 89.0
+
+de 400,000.01 a 500,000.00 m2 100.0
+
+de 500,000.01 m2 en adelante 2.0 por hectárea
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 85.
 
-Por la actualización de predios urbanos se causarán y pagarán los siguientes derechos:
+Por la actualización o mejoras de predios se causarán y pagarán los siguientes derechos de acuerdo a la mejora a manifestar.
 
-De un valor de 1,000 a $ 4,000 0
+De un valor de $1.00 a $15,000.00 0.0
 
-De un valor de 4,001 a $ 10,000 3.9
+De un valor de $15,001.00 a $50,000.00 4.0
 
-De un valor de 10,001 a $ 75,000 8.0
+De un valor de $50,001.00 a $150,000.00 8.0
 
-De un valor de 75,001 En adelante 9.8
+De un valor de $150,001.00 a $500,000.00 10.0
+
+De un valor de $500,001.00 a $1,000,000.00 20.0
+
+De un valor de $1,000,001.00 en adelante 40.0
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 86.
 
-No causarán derecho alguno las divisiones o fracciones de terrenos en zonas rústicas que sean destinadas plenamente a la producción agrícola o ganadera.
+No causarán derecho alguno las divisiones o fracciones de terrenos en las zonas rústicas que sean destinadas plenamente a la producción agrícola o ganadera.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 87.
 
-Los fraccionamientos causarán derechos de deslinde, excepción hecha de lo dispuesto en el artículo anterior, de conformidad con lo siguiente:
+Los fraccionamientos causarán derechos de deslindes, excepción hecha de lo dispuesto en el artículo anterior, de conformidad con lo siguiente:
 
-Hasta 160,000 m2. 160 salarios mínimos.
+Hasta 5000 m2 80.0
 
-Más de 160,000 m2 .001 de salario por metro cuadrado excedente.
+Hasta 5000.01 m2 hasta 10,000 m2 120.0
+
+De 10,000.01 hasta 160,000.00 m2 160.0
+
+Más de 160,000.00 m2 0.001 por metro cuadrado excedente.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 88.
 
-Por la revisión de la documentación de construcción en régimen de propiedad en condominio, se causarán derechos de acuerdo a su tipo:
+Por la revisión técnica de la documentación de constitución en régimen de propiedad en condominio, se causarán derechos de acuerdo a su tipo.
 
-Tipo comercial 0.9 por departamento
+Comercial 0.9 por departamento.
 
-Tipo habitacional 0.6 por departamento
+Habitacional 0.6 por departamento.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 89.
 
-Quedan exentas del pago de los derechos que establecen esta sección, las Instituciones Públicas.
+Quedan exentas del pago de los derechos que se establecen en este capítulo las instituciones públicas.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 90.
 
-Otros Servicios Prestados por Catastro:
+Otros servicios prestados por el Catastro Municipal.
 
-Manifestación catastral 0.6 salario
+Manifestación catastral. 0.6 salario
 
-Certificado de no inscripción predial 1.5 salario mínimo
+Certificado de no inscripción predial. 1.5 salario mínimo
 
-Definitiva de División 0.6 salario mínimo
+Definitiva de División. 0.6 salario mínimo
 
-Definitiva de Unión 0.6 salario mínimo
+Definitiva de Unión. 0.6 salario mínimo
 
-Definitiva de rectificación 0.6 salario mínimo
+Definitiva de rectificación. 0.6 salario mínimo
+
+I.- Impresión de imagen satelital del municipio de Mérida por metro cuadrado de impresión, como base mínima 15.0
+
+II.- Impresión de planos
+
+a).- De una colonia o fraccionamiento 8.0
+
+b).- De una sección catastral 10.0
+
+c).- De la ciudad 12.0
 
 ###### ARTICULO 91.
 
@@ -1269,9 +1403,191 @@ Los fedatarios públicos y las personas que tengan funciones notariales, no auto
 
 Para el caso de que, alguna de las personas mencionadas en este artículo, viole lo dispuesto en el párrafo inmediato anterior, quien o quienes hubiesen incurrido en la violación, serán solidariamente responsables, con el contribuyente, del pago de los derechos que se hubiesen omitido.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+### CAPITULO VIII. DERECHOS POR EL USO DE CEMENTERIOS Y LA PRESTACION DE SERVICIOS CONEXOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 95-A.
+
+Los derechos a que se refiere este capítulo se pagarán de conformidad con la siguiente:
+
+TARIFA
+
+I.- Por el uso o servicio de cámara refrigerante, por día $ 170.00
+
+II.- Por el servicio funerario particular se causará un derecho de $ 260.00
+
+III.- Por renta de bóveda por un período de dos años o su prórroga por el mismo período.
+
+a) Bóveda grande
+
+$ 300.00
+
+b) Bóveda chica
+
+$ 130.00
+
+IV.- Por concesión para usar a perpetuidad una sepultura en la ciudad de Mérida:
+
+a) General y Xoclán se pagará:
+
+1).- Osario o cripta mural
+
+$ 240.00
+
+2).- Bóveda chica
+
+$ 1,300.00
+
+3).- Bóveda grande
+
+$ 3,000.00
+
+4).- Bóveda grande doble
+
+$ 4,600.00
+
+5).- Cripta en la capilla de Xoclán
+
+$ 900.00
+
+6).- Mausoleos de 5 x 11 mts. por m2
+
+$ 170.00
+
+b) Jardines de la Paz, se pagará en bóveda grande.
+
+$ 4,300.00
+
+V.- Cuando se trate de inhumaciones en fosa común, no se causará derecho alguno.
+
+VI.- Por autorización de inhumación o exhumación
+
+$ 100.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 95-B.
+
+Por servicios funerarios se pagarán los servicios que establece la siguiente:
+
+TARIFA
+
+I.- Por los servicios prestados en Xoclán:
+
+a) Velación
+
+$ 170.00
+
+b) Ambulancia
+
+$ 150.00
+
+c) Carroza
+
+$ 350.00
+
+d) Preparación
+
+$ 100.00
+
+II.- Embalsamamientos:
+
+a) Adulto
+
+$ 1,250.00
+
+b) Niño
+
+$ 600.00
+
+III.- Por traslado fuera de la ciudad de Mérida, se pagarán $150.00 más $5.00 por kilómetro recorrido.
+
+Considerándose para este efecto la distancia que haya del local del estacionamiento del vehículo, hasta su destino.
+
+Cuando sea fuera del Estado de Yucatán, se pagarán $150.00 más $9.00 por kilómetro recorrido.
+
+IV.- Cremación:
+
+a) Adulto
+
+$ 2,300.00
+
+b) Niño
+
+$ 1,200.00
+
+c) Restos áridos:
+
+$ 900.00
+
+Cuando el servicio sea prestado por un particular, éste deberá informar a la Dirección General de Cementerios, previamente a la prestación de dicho servicio y cubrir el 20% señalado en esta fracción.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+### CAPITULO IX. DERECHOS POR SERVICIO DE ALUMBRADO PUBLICO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 95-C.
+
+El derecho por el alumbrado público se causará como compensación por el disfrute del citado servicio que se preste en la ciudad de Mérida.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+ARTICULO. 95-D.- La cuota del derecho de alumbrado público será igual al 5% sobre los consumos de energía eléctrica en tarifa 1-A, 2, 3.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 95-E.
+
+Son sujetos del pago de los derechos que se establecen, los consumidores de energía eléctrica en tarifas 1-A, 2, 3 publicadas en el Diario Oficial de la Federación el 15 de noviembre de 1976 o en las que en su caso las sustituyan.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 95-F.
+
+El derecho por el servicio de alumbrado público será recaudado por conducto de la Comisión Federal de Electricidad, mediante la aplicación de la tasa relativa, calculándose el importe del derecho, el cual deberá hacerse constar en las facturaciones que formule a sus consumidores sujetos de este derecho, para los efectos del pago, de acuerdo con el convenio celebrado entre el Ayuntamiento de Mérida y la Comisión Federal de Electricidad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 95-G.
+
+La Comisión Federal de Electricidad deberá aplicar el monto de los derechos que se recauden en la forma siguiente:
+
+I.- Para cubrir en primer término, el importe de la energía eléctrica para el alumbrado público, que sea suministrada al municipio de Mérida y sus comisarías.
+
+II.- los remanentes serán utilizados en la siguiente forma:
+
+a) Para cubrir el mantenimiento y reposición de lámparas de alumbrado público del municipio de Mérida y sus comisarías; tarea que quedará bajo la responsabilidad de la Comisión Federal de Electricidad.
+
+b) Para amortizar los adeudos anteriores que el municipio de Mérida y sus comisarías tengan por suministro de energía por el alumbrado público con la Comisión Federal de Electricidad.
+
+c) Para ampliar o mejorar, en su caso, las instalaciones del alumbrado público a solicitud del Ayuntamiento de Mérida.
+
 ### CAPITULO UNICO. DE LOS SUJETOS
 
-### CAPITULO UNICO. DE LA CLASIFICACION
+### CAPITULO UNICO. DE LOS PRODUCTOS
 
 ### CAPITULO UNICO. DE LAS MULTAS FEDERALES NO FISCALES
 
@@ -1407,7 +1723,11 @@ DE LA FACULTAD PARA DISMINUIR LA CONTRIBUCION
 
 El Director de Finanzas y Tesorero Municipal previa solicitud por escrito de la Dirección de Desarrollo Social del Ayuntamiento de Mérida o de la dependencia que corresponda; podrá disminuir la contribución a aquéllos contribuyentes de ostensible pobreza que tengan dependientes económicos en los términos del artículo 76.
 
-## TITULO V. DE LOS PRODUCTOS
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
+## TITULO V
+
+> <small>(REFORMADA SU DENOMINACION, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 108.
 
@@ -1475,17 +1795,21 @@ Tirada de camión de más de
 
 Tiradas menores .05 de salario por c/u
 
+REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)
+
 DEL USO DE VERTEDEROS
 
 ###### ARTICULO 113.
 
 Por el uso de los vertederos, de aguas negras y residuos, propiedad del Municipio, se pagará conforme la siguiente tarifa:
 
-a).- Por transporte con capacidad de hasta 5000 litros, .5 de un salario por viaje.
+a).- Por contenedores con capacidad de hasta 8000 litros, 1.5 salarios por viaje.
 
-b).- Por transporte con capacidad de hasta 10000 litros, 1 salario por viaje.
+b).- Por contenedores con capacidad de hasta 10000 litros, 1.75 salarios por viaje.
 
-c).- Por transporte con capacidad de más de 10000 litros, 1.5 de salario por viaje.
+c).- Por contenedores con capacidad de más de 10000 litros, 2.25 salarios por viaje.
+
+d).- Por descargas que por su densidad requieran permiso especial de la Dirección de Ecología, 2.8 salarios por viaje.
 
 DE LA VENTA DE FORMAS OFICIALES
 
@@ -1507,27 +1831,31 @@ De conformidad con lo establecido en la Ley de Coordinación Fiscal y en los con
 
 ## TITULO VII. PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
 ORDENAMIENTO APLICABLE
 
 ###### ARTICULO 117.
 
-Las autoridades fiscales exigirán el pago de las contribuciones y de los créditos fiscales que no hubiesen sido cubiertos o garantizados en las fechas y plazos señalados en la presente Ley, mediante el procedimiento administrativo de ejecución, sujetándose en todo caso, a lo dispuesto en el Código Fiscal del Estado y a falta de disposición expresa en este último, se estará a lo dispuesto en el Código Fiscal de la Federación.
+Las autoridades fiscales municipales exigirán el pago de las contribuciones y de los créditos fiscales que no hubiesen sido cubiertos o garantizados en las fechas y plazos señalados en la presente Ley, mediante el procedimiento administrativo de ejecución, sujetándose en todo caso, a lo dispuesto en el Código Fiscal del Estado y a falta de disposición expresa en este último, se estará a lo dispuesto en el Código Fiscal de la Federación.
 
 En todo caso las autoridades fiscales municipales deberán señalar en los mandamientos escritos correspondientes el texto legal en el que se fundamenten.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
 DE LOS GASTOS DE EJECUCION
 
 ###### ARTICULO 118.
 
-Cuando las autoridades fiscales utilicen el procedimiento administrativo de ejecución, para el cobro de una contribución o de un crédito fiscal, el contribuyente estará obligado a pagar el .02 de la contribución o del crédito fiscal correspondiente, por concepto de gastos de ejecución, y además, pagará los gastos erogados, por cada una de las diligencias que a continuación, se relacionan:
+Cuando las autoridades fiscales municipales utilicen el procedimiento administrativo de ejecución, para el cobro de una contribución o de un crédito fiscal, el contribuyente estará obligado a pagar el .02 de la contribución o del crédito fiscal correspondiente, por concepto de gastos de ejecución, y, además, pagará los gastos erogados, por cada una de las diligencias que a continuación, se relacionan:
 
 I.- Requerimiento.
 
 II.- Embargo.
 
-III.- Honorarios ó enajenación fuera de remate.
+III.- Honorarios o enajenación fuera de remate.
 
-Cuando el .02 del importe del crédito omitido, fuere inferior al importe de un salario mínimo, se cobrará el monto de un salario en lugar del mencionado .02 del crédito omitido.
+Cuando el .02 del importe del crédito omitido, fuere inferior al importe de tres salarios mínimos, se cobrará esta cantidad en lugar del mencionado .02 del crédito omitido.
 
 DE LOS GASTOS EXTRAORDINARIOS DE EJECUCION
 
@@ -1543,37 +1871,31 @@ c).- Gastos de inscripción o de cancelación de gravámenes, en el Registro Pú
 
 d).- Gastos del certificado de libertad de gravamen.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
 DE LA DISTRIBUCION
 
 ###### ARTICULO 120.
 
 Los gastos de ejecución mencionados en los artículos 118 y 119 de esta Ley, no serán objeto de exención, disminución, condonación o convenio.
 
-El importe corresponderá a los empleados y funcionarios de la Dirección de Finanzas y Tesorería Municipal, dividiéndose dicho importe, mediante el siguiente procedimiento:
+El importe de los gastos previstos en el artículo 118, corresponderá a los empleados de la Dirección de Finanzas y Tesorería Municipal, dividiéndose dicho importe, mediante el siguiente procedimiento:
 
 Para el caso de que el ingreso por gastos de ejecución, fueren generados en el cobro de multas federales no fiscales:
 
-.10 Director de Finanzas y Tesorero Municipal.
+.15 Jefe del Departamento de ejecución.
 
-.10 Subdirector de Ingresos.
+.07 Cajeros.
 
-.15 Jefe del Departamento.
+.04 Departamento de Contabilidad.
 
-.06 Cajeros.
-
-.03 Departamento de Contabilidad.
-
-.56 Empleados del Departamento.
+.74 Empleados del Departamento de ejecución.
 
 Para el caso de que los ingresos por gastos de ejecución, fueren generados en el cobro de cualesquiera otras multas:
 
-.10 Director de Finanzas y Tesorero Municipal.
-
-.10 Subdirector de ingresos.
-
 .15 Jefe del Departamento de Ejecución.
 
-.20 Notificadores.
+.40 Empleados del Departamento de ejecución.
 
 .45 Empleados del Departamento Generador.
 
@@ -1597,11 +1919,13 @@ DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS Y EMPLEADOS
 
 Los funcionarios y empleados públicos, que en ejercicio de sus funciones, conozcan hechos u omisiones que entrañen o puedan entrañar infracciones a la presente Ley, lo comunicarán por escrito al Director de Finanzas y Tesorero Municipal, para no incurrir en responsabilidad, dentro de los tres días siguientes a la fecha en que tengan conocimiento de tales hechos u omisiones.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 125.
 
 Son infracciones:
 
-a).- La falta de presentación o la presentación extemporánea de los avisos o manifestaciones que exige esta Ley.
+a).- la falta de presentación o la presentación extemporánea de los avisos o manifestaciones que exige esta Ley.
 
 b).- La falta de cumplimiento de las obligaciones establecidas en esta Ley, a los fedatarios públicos, las personas que tengan funciones notariales, los empleados y funcionarios del Registro Público de la Propiedad y a los que por cualquier medio evadan o pretendan evadir, dicho cumplimiento.
 
@@ -1611,7 +1935,7 @@ d).- La falta de revalidación de la licencia municipal de funcionamiento.
 
 e).- La falta de presentación de los documentos que conforme a esta Ley, se requieran para acreditar el pago de las contribuciones municipales.
 
-f).- La ocupación de la vía pública, con el objeto de realizar alguna actividad comercial.
+f).- La ocupación de la vía pública, con el objeto de realizar alguna actividad comercial, si no cuentan con el permiso de las autoridades correspondientes.
 
 g).- La matanza de ganado fuera de los rastros públicos municipales, sin obtener la licencia o la autorización respectiva.
 
@@ -1667,6 +1991,8 @@ DE LOS SUJETOS
 
 ### CAPITULO VI. DE LOS DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCION DEL CATASTRO DEL MUNICIPIO DE MERIDA
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+
 ### CAPITULO VII. DE LOS DERECHOS POR EL USO Y APROVECHAMIENTO DE LOS BIENES DE DOMINIO PUBLICO DEL PATRIMONIO MUNICIPAL
 
 > <small>(REFORMADO, D.O. 15 DE DICIEMBRE DE 2000)</small>
@@ -1676,3 +2002,9 @@ DEL USO DE AREAS EN LOS MERCADOS PUBLICOS
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor cinco días después de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 31 DE DICIEMBRE DE 2001.
+
+PRIMERO.- Las reformas y adiciones a que se refiere este decreto, entrarán en vigor el primero de enero de 2002, previa publicación en el Diario Oficial del Gobierno del Estado, con excepción de las adiciones a que se refieren los capítulos VIII y IX del Título III de esta Ley, mismas que entrarán en vigor en la fecha que se señale en el Convenio de Coordinación que celebrará el Ayuntamiento de Mérida con el Ejecutivo del Estado.
+
+SEGUNDO.- Se deroga el Decreto No. 74 que se publicó en el Diario Oficial del Gobierno del Estado, con fecha 30 de Diciembre de 1988 y todas las demás normas que se opongan a lo dispuesto por el presente Decreto.
