@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-de-la-junta-general-ejecutiva-del-15789"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-03-14"
-last_updated: "2000-03-14"
+last_updated: "2000-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15789&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-02-29"
 
 REGLAMENTO DE SESIONES DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2000.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 14 de marzo de 2000.
 
@@ -37,11 +37,15 @@ REGLAMENTO DE SESIONES DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECT
 
 I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
+
 ARTICULO 1
 
 OBJETO DE APLICACION
 
-1. El presente Reglamento tiene por objeto regular la celebración de las sesiones de la Junta General Ejecutiva del Instituto Federal Electoral y la actuación de sus integrantes.
+1. El presente Reglamento tiene por objeto regular la celebración de las sesiones de la Juntas Locales y Distritales Ejecutivas del Instituto Federal Electoral y la actuación de sus integrantes en las mismas.
+
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
 
 ARTICULO 2
 
@@ -49,13 +53,17 @@ ARTICULO 2
 
 2. Los titulares de las Unidades Técnicas asistirán a las sesiones de la Junta General Ejecutiva y tendrán derecho de voz para ilustrar la discusión de alguno de los puntos del orden del día relacionados con el área de su competencia.
 
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
+
 ARTICULO 3
 
 CRITERIOS PARA SU INTERPRETACION
 
-1. Para la interpretación de las disposiciones de este Reglamento, se estará a los criterios establecidos en el párrafo 2, del artículo 3, del Código Federal de Instituciones y Procedimientos Electorales y a las prácticas que mejor garanticen y reflejen la integración de la Junta General Ejecutiva, la libre expresión y participación de sus integrantes, y la eficacia de los acuerdos o resoluciones que se tomen en su seno, en ejercicio de sus atribuciones.
+1. Para la interpretación de las disposiciones de este reglamento, se estará a los criterios establecidos en el párrafo 2, del artículo 3, del Código Federal de Instituciones y Procedimientos Electorales y a las prácticas que mejor garanticen y reflejen la integración de la Junta General Ejecutiva, la libre expresión y participación de sus integrantes, y la eficacia de los acuerdos o resoluciones que se tomen en su seno, en ejercicio de sus atribuciones.
 
 II. DE LAS ATRIBUCIONES DEL PRESIDENTE, DEL SECRETARIO DE LA JUNTA GENERAL EJECUTIVA Y DIRECTORES EJECUTIVOS
+
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
 
 ARTICULO 4
 
@@ -79,11 +87,13 @@ g) Solicitar al Secretario de la Junta que someta a votación los proyectos de a
 
 h) Mantener o llamar al orden.
 
-i) Aplicar el presente Reglamento.
+i) Aplicar el presente reglamento.
 
 j) Vigilar el cumplimiento de los acuerdos y resoluciones adoptados por la Junta.
 
 k) Las demás que le otorgue el Consejo General y la Junta General Ejecutiva de conformidad con el Código Federal de Instituciones y Procedimientos Electorales.
+
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
 
 ARTICULO 5
 
@@ -97,31 +107,31 @@ a) Convocar, por instrucciones del Presidente, a las sesiones.
 
 b) Preparar el orden del día de las sesiones y someterla a la consideración del Presidente de la Junta General Ejecutiva, así como elaborar las respectivas convocatorias.
 
-c) Ordenar que se impriman y circulen en los plazos a que se refieren los artículos 8 y 9 del presente Reglamento, entre los integrantes de la Junta y titulares de las Unidades Técnicas, los documentos y anexos necesarios para la comprensión y discusión de los asuntos contenidos en el orden del día.
+c) Ordenar que se impriman y circulen en los plazos a que se refieren los artículos 8 y 9 del presente reglamento, entre los integrantes de la Junta y titulares de las Unidades Técnicas, los documentos y anexos necesarios para la comprensión y discusión de los asuntos contenidos en el orden del día.
 
-d) Enviar a los Consejeros Electorales los documentos y anexos, en los términos del artículo 9, párrafo 2, del presente Reglamento.
+d) Llevar el registro de asistencia de los miembros de la Junta.
 
-e) Llevar el registro de asistencia de los miembros de la Junta.
+e) Declarar la existencia del quórum legal.
 
-f) Declarar la existencia del quórum legal.
+f) Levantar el acta de las sesiones y someterla a la aprobación de los integrantes de la Junta, tomando en cuenta las observaciones realizadas a la misma por sus integrantes y titulares de las Unidades Técnicas.
 
-g) Levantar el acta de las sesiones y someterla a la aprobación de los integrantes de la Junta, tomando en cuenta las observaciones realizadas a la misma por sus integrantes y titulares de las Unidades Técnicas.
+g) Dar cuenta con los escritos presentados a la Junta.
 
-h) Dar cuenta con los escritos presentados a la Junta.
+h) Tomar las votaciones de los integrantes de la Junta y dar a conocer el resultado de las mismas.
 
-i) Tomar las votaciones de los integrantes de la Junta y dar a conocer el resultado de las mismas.
+i) Informar sobre el cumplimiento de los acuerdos y resoluciones de la Junta.
 
-j) Informar sobre el cumplimiento de los acuerdos y resoluciones de la Junta.
+j) Firmar junto con el Presidente de la Junta, todos los acuerdos y resoluciones que ésta emita.
 
-k) Firmar junto con el Presidente de la Junta, todos los acuerdos y resoluciones que ésta emita.
+k) Llevar el archivo de la Junta y un registro de las actas, acuerdos y resoluciones aprobados por ésta.
 
-l) Llevar el archivo de la Junta y un registro de las actas, acuerdos y resoluciones aprobados por ésta.
+l) Dar fe de lo actuado en las sesiones.
 
-m) Dar fe de lo actuado en las sesiones.
+m) Legalizar los documentos de la Junta y expedir las copias certificadas de los mismos que le sean solicitados.
 
-n) Legalizar los documentos de la Junta y expedir las copias certificadas de los mismos que le sean solicitados.
+n) Las demás que le sean conferidas por el Código Federal de Instituciones y Procedimientos Electorales, el presente reglamento, el Consejo General, la Junta General Ejecutiva o su Presidente.
 
-o) Las demás que le sean conferidas por el Código Federal de Instituciones y Procedimientos Electorales, el presente Reglamento, el Consejo General, la Junta General Ejecutiva o su Presidente.
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
 
 ARTICULO 6
 
@@ -138,6 +148,8 @@ c) Solicitar al Secretario de la Junta la inclusión de asuntos en el orden del 
 d) Presentar a consideración de la Junta General Ejecutiva proyectos de acuerdo o resolución, informes y cualquier asunto que estimen oportuno.
 
 III. DE LOS TIPOS DE SESIONES Y SU DURACION
+
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
 
 ARTICULO 7
 
@@ -159,6 +171,8 @@ SESION PERMANENTE
 
 IV. DE LA CONVOCATORIA DE LAS SESIONES
 
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
+
 ARTICULO 8
 
 CONVOCATORIA A SESION ORDINARIA
@@ -169,17 +183,17 @@ CONVOCATORIA A SESION EXTRAORDINARIA
 
 2. Tratándose de las sesiones extraordinarias, la convocatoria deberá realizarse por lo menos con dos días de anticipación. Sin embargo, en aquellos casos en que el Presidente de la Junta lo considere de extrema urgencia o gravedad, podrá convocar a sesión extraordinaria fuera del plazo señalado e incluso no será necesaria convocatoria por escrito cuando se encuentren presentes en un mismo local todos los miembros de la Junta.
 
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
+
 ARTICULO 9
 
 CONTENIDO DE LA CONVOCATORIA
 
-1. La convocatoria a sesión deberá contener el día y la hora en que la misma se deba celebrar, la mención de ser ésta ordinaria o extraordinaria y un proyecto de orden del día para ser desahogado. A dicha convocatoria se acompañarán los documentos y anexos necesarios para la discusión de los asuntos contenidos en la misma.
+1. La convocatoria a sesión deberá contener el día y la hora en que la misma se deba celebrar, la mención de ser esta ordinaria o extraordinaria y un proyecto de orden del día para ser desahogado. A dicha convocatoria se acompañarán los documentos y anexos necesarios para la discusión de los asuntos contenidos en la misma.
 
 2. Los miembros de la Junta y los titulares de las Unidades Técnicas deberán remitir al Secretario los documentos y anexos indispensables con por lo menos veinticuatro horas de anticipación a la fecha de expedición de la convocatoria, a excepción de los informes que se presentarán con al menos 48 horas de anticipación a la celebración de la sesión tratándose de ordinarias y de 24 horas tratándose de extraordinarias.
 
-Los Consejeros Electorales podrán solicitar al Secretario Ejecutivo, copia de los documentos y anexos necesarios contenidos en el orden del día dentro de las 48 horas anteriores a la celebración de la sesión respectiva.
-
-3. La convocatoria y el orden del día serán difundidas a los integrantes de la Junta, a los miembros del Consejo General y a los titulares de las Unidades Técnicas en los plazos a que se refieren los párrafos 1 y 2 del artículo anterior.
+3. La convocatoria y el orden del día serán difundidas a los integrantes de la Junta, y a los titulares de las Unidades Técnicas en los plazos a que se refieren los párrafos 1 y 2 del artículo anterior.
 
 INCLUSION DE NUEVOS ASUNTOS EN EL ORDEN DEL DIA
 
@@ -192,6 +206,8 @@ ASUNTOS GENERALES
 6. El Secretario de la Junta dará cuenta a la Junta General Ejecutiva de dichas solicitudes a fin de que ésta decida, sin debate, si se discuten en la sesión o se difieren para una posterior.
 
 V. DE LA INSTALACION Y DESARROLLO DE LA SESION
+
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
 
 ARTICULO 10
 
@@ -207,11 +223,15 @@ SUSPENSION DE LAS SESIONES
 
 3. En caso de que no se reúna la mayoría a que se refiere el párrafo anterior, o bien, si durante el transcurso de la sesión se ausentaran definitivamente de ésta alguno o algunos de los miembros de la Junta, y con ello no se alcanzare el quórum, el Presidente, previa instrucción al Secretario de la Junta para verificar esta situación, deberá citar para su realización o, en su caso, reanudación, dentro de las veinticuatro horas siguientes.
 
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
+
 ARTICULO 11
 
 ORDEN DE DISCUSION DE LOS ASUNTOS
 
 1. Instalada la sesión, serán discutidos y en su caso votados los asuntos contenidos en el orden del día, salvo cuando con base en consideraciones fundadas, la propia Junta acuerde posponer la discusión o votación de algún asunto en particular, sin que ello implique la contravención de disposiciones legales.
+
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
 
 ARTICULO 12
 
@@ -222,6 +242,8 @@ USO DE LA PALABRA
 CONDUCCION PROVISIONAL DE LAS SESIONES POR EL SECRETARIO DE LA JUNTA
 
 2. En caso de que el Presidente de la Junta se ausente momentáneamente de la mesa de deliberaciones, el Secretario de la Junta lo auxiliará en la conducción de la sesión con el propósito de no interrumpir su desarrollo.
+
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
 
 ARTICULO 13
 
@@ -243,23 +265,29 @@ DISCUSION EN LO PARTICULAR
 
 4. La Junta determinará cuáles puntos se discutirán en lo particular.
 
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
+
 ARTICULO 14
 
 PROHIBICION DE DIALOGOS Y ALUSIONES PERSONALES
 
-1. En el curso de las deliberaciones, los integrantes de la Junta y titulares de las Unidades Técnicas, se abstendrán de entablar polémicas o debates en forma de diálogo con otro miembro de la Junta, así como de realizar alusiones personales que pudiesen generar controversias o discusiones ajenas a los asuntos agendados en el orden del día que en su caso se discutan. El Presidente de la Junta podrá interrumpir las manifestaciones de quien cometa las referidas conductas, con el objeto de conminarlo a que se conduzca en los términos previstos en el presente Reglamento.
+1. En el curso de las deliberaciones, los integrantes de la Junta y titulares de las Unidades Técnicas, se abstendrán de entablar polémicas o debates en forma de diálogo con otro miembro de la Junta, así como de realizar alusiones personales que pudiesen generar controversias o discusiones ajenas a los asuntos agendados en el orden del día que en su caso se discutan. El Presidente de la Junta podrá interrumpir las manifestaciones de quien cometa las referidas conductas, con el objeto de conminarlo a que se conduzca en los términos previstos en el presente reglamento.
+
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
 
 ARTICULO 15
 
 PROHIBICION DE INTERRUMPIR A ORADORES
 
-1. Los oradores no podrán ser interrumpidos, salvo por medio de una moción siguiendo las reglas establecidas en los artículos 16 y 17 de este Reglamento, o bien por el Presidente para conminarlo a que se conduzca dentro de los supuestos previstos por el presente ordenamiento.
+1. Los oradores no podrán ser interrumpidos, salvo por medio de una moción siguiendo las reglas establecidas en los artículos 16 y 17 de este reglamento, o bien por el Presidente para conminarlo a que se conduzca dentro de los supuestos previstos por el presente ordenamiento.
 
 DESVIO DEL ASUNTO EN DEBATE POR PARTE DEL ORADOR
 
 2. Si el orador se aparta de la cuestión en debate o hace una referencia que ofenda a cualquiera de los miembros de la Junta, el Presidente le advertirá. Si un orador recibiera una segunda advertencia, en ese momento el Presidente puede retirarle el uso de la palabra en relación al punto de que se trate.
 
 VI. DE LAS MOCIONES
+
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
 
 ARTICULO 16
 
@@ -273,17 +301,19 @@ b) La realización de algún receso durante la sesión.
 
 c) Tratar una cuestión de preferencia en el debate.
 
-d) Suspender la sesión por alguna de las causas establecidas en este Reglamento.
+d) Suspender la sesión por alguna de las causas establecidas en este reglamento.
 
 e) Pedir la suspensión de una intervención que se salga de orden, que se aparte del punto o discusión o que sea ofensiva o calumniosa para algún otro miembro de la Junta o Titular de Unidad Técnica.
 
 f) Ilustrar la discusión con la lectura de algún documento.
 
-g) Pedir la aplicación del Reglamento de sesiones de la Junta General Ejecutiva.
+g) Pedir la aplicación del reglamento de sesiones de la Junta General Ejecutiva.
 
 MOCION DE ORDEN (PROCEDIMIENTO)
 
 2. Toda moción de orden deberá dirigirse al Presidente de la Junta, quien la aceptará o la negará. En caso de que la acepte tomará las medidas pertinentes para que se lleve a cabo; de no ser así, la sesión seguirá su curso.
+
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
 
 ARTICULO 17
 
@@ -296,6 +326,8 @@ MOCION AL ORADOR (PROCEDIMIENTO)
 2. Las mociones al orador deberán dirigirse al Presidente y contar con la anuencia de aquél a quien se hace. En caso de ser aceptadas, la intervención del promotor no podrá durar más de dos minutos.
 
 VII. DE LAS VOTACIONES
+
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
 
 ARTICULO 18
 
@@ -313,15 +345,17 @@ PROCEDIMIENTO PARA LA VOTACION
 
 VIII. DE LA PUBLICACION DE LOS ACUERDOS Y RESOLUCIONES
 
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
+
 ARTICULO 19
 
 PUBLICACION DE ACUERDOS Y RESOLUCIONES
 
 1. La Junta General Ejecutiva ordenará la publicación en la Gaceta del Instituto Federal Electoral, de los acuerdos y resoluciones que defina y en el Diario Oficial de la Federación de aquellos que ordene la ley y que la propia Junta determine.
 
-2. El Secretario de la Junta notificará de los acuerdos y resoluciones aprobados a los miembros del Consejo General, dentro de los tres días hábiles siguientes a su aprobación.
-
 IX. DE LAS ACTAS DE LAS SESIONES
+
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2000)</small>
 
 ARTICULO 20
 
@@ -340,3 +374,13 @@ SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su aprobación.
 TERCERO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
 
 El presente Acuerdo fue aprobado en sesión ordinaria del Consejo General celebrada el 29 de febrero de 2000.- El Consejero Presidente del Consejo General, José Woldenberg Karakowsky.- Rúbrica.- El Secretario del Consejo General, Fernando Zertuche Muñoz.- Rúbrica.
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+D.O.F. 20 DE JUNIO DE 2000.
+
+PRIMERO.- Las modificaciones al presente Reglamento entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Secretario Ejecutivo dará cuenta del presente Acuerdo, por el que se acata la sentencia SUP-RAP-012/2000, al Tribunal Electoral del Poder Judicial de la Federación.
+
+TERCERO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
