@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "1992-12-29"
+last_updated: "1993-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1993.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -346,9 +346,9 @@ Tampoco podrá decretarse, a instancia de parte, la comunicación, entrega o rec
 
 ###### Art. 44.
 
-Fuera de los casos prefijados en el artículo anterior, sólo podrá decretarse la exhibición de los libros registros y documentos de los comerciantes, a instancia de parte o de oficio, cuando la persona a quien pertenezcan tenga interés o responsabilidad en el asunto en que proceda la exhibición.
+Fuera de los casos prefijados en el artículo anterior, sólo podrá decretarse la exhibición de los libros, registros y documentos de los comerciantes, a instancia de parte o de oficio, cuando la persona a quien pertenezcan tenga interés o responsabilidad en el asunto en que proceda la exhibición.
 
-El reconocimiento se hará en el lugar en que habitualmente se guarden o conserven los libros, registros o documentos, o en el que de común acuerdo fijen las partes, en presencia del comerciante o de la persona que comisione y se contraerá exclusivamente a los puntos que tengan relación directa con la acción deducida comprendiendo en ellos aún los que sean extraños a la cuenta especial del que ha solicitado el reconocimiento.
+El reconocimiento se hará en el lugar en que habitualmente se guarden o conserven los libros registros o documentos, o en el que de común acuerdo fijen las partes, en presencia del comerciante o de la persona que comisione y se contraerá exclusivamente a los puntos que tengan relación directa con la acción deducida comprendiendo en ellos aún los que sean extraños a la cuenta especial del que ha solicitado el reconocimiento.
 
 ###### Art. 45.
 
@@ -5332,7 +5332,7 @@ Art. 1,413. Las partes, durante el juicio, podrán convenir en que los bienes em
 
 Art. 1,414. Cualquier incidente que se suscitare en el juicio mercantil ejecutivo, se decidirá por el juez sin sustanciar artículo, pero sin perjuicio del derecho de los interesados para que se les oiga en audiencia verbal siempre que así lo pidieren.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE ENERO DE 1989)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
 
 ### CAPÍTULO III.
 
@@ -6316,27 +6316,45 @@ Art. 1,346. Debe ejecutar la sentencia el juez que la dictó en primera instanci
 
 Art. 1,347. Cuando se pida la ejecución de sentencia ó convenio, si no hay bienes embargados, se procederá al embargo, observándose lo dispuesto en los artículos 1,397, 1,400 y 1,410 á 1,413 de este Libro.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1993)</small>
 
-Art. 1,347-A. Las sentencias, laudos y resoluciones dictadas en el extranjero podrán tener fuerza de ejecución si se cumplen las siguientes condiciones:
+Art. 1,347-A. Las sentencias y resoluciones dictadas en el extranjero podrán tener fuerza de ejecución si se cumplen las siguientes condiciones:
 
-I. Que se hayan cumplido las formalidades establecidas en los tratados y convenios en que México sea parte, en materia de exhorto provenientes del extranjero; en el caso de ejecución de laudos no se requerirá exhorto;
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1993)</small>
+
+I. Que se hayan cumplido las formalidades establecidas en los tratados en que México sea parte en materia de exhortos provenientes del extranjero;
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1989)</small>
 
 II. Que no hayan sido dictados como consecuencia del ejercicio de una acción real;
 
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1989)</small>
+
 III. Que el juez o tribunal sentenciador haya tenido competencia para conocer y juzgar el asunto de acuerdo con las reglas reconocidas en el derecho internacional que sean compatibles con las adoptadas por este Código;
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1989)</small>
 
 IV. Que el demandado haya sido notificado o emplazado en forma personal a efecto de asegurarle la garantía de audiencia y el ejercicio de sus defensas;
 
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1989)</small>
+
 V. Que tenga el carácter de cosa juzgada en el país en que fueron dictados, o que no exista recurso ordinario en su contra;
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1989)</small>
 
 VI. Que la acción que les dio origen no sea materia de juicio que esté pendiente entre las mismas partes ante tribunales mexicanos y en el cual hubiere prevenido el Tribunal Mexicano o cuando menos que el exhorto o carta rogatoria para emplazar hubieren sido tramitados y entregados a la Secretaría de Relaciones Exteriores o a las autoridades del Estado donde deba practicarse el emplazamiento. La misma regla se aplicará cuando se hubiera dictado sentencia definitiva;
 
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1989)</small>
+
 VII. Que la obligación para cuyo cumplimiento se haya procedido no sea contraria al orden público en México; y
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1989)</small>
 
 VIII. Que llenen los requisitos para ser considerados como auténticos.
 
-No obstante el cumplimiento de las anteriores condiciones el juez podrá negar la ejecución si se probara que en el país de origen no se ejecutan sentencias, resoluciones jurisdiccionales o laudos extranjeros en casos análogos.
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+No obstante el cumplimiento de las anteriores condiciones, el juez podrá negar la ejecución si se probara que en el país de origen no se ejecutan sentencias o resoluciones jurisdiccionales extranjeras en casos análogos.
 
 Art. 1,348. Si la sentencia no contiene cantidad líquida, la parte á cuyo favor se pronunció, al promover la ejecución, presentará su liquidación, de la cual se dará vista por tres días á la parte condenada. Si ésta nada expusiese dentro del termino fijado se decretará la ejecución por la cantidad que importe la liquidación; mas si expresare su inconformidad, se dará vista de las razones que alegue á la parte promovente, la cual contestará dentro de tres días fallando el juez ó tribunal dentro de igual término lo que estime justo. De esta resolución no habrá sino el recurso de responsabilidad.
 
@@ -6408,71 +6426,429 @@ Art. 1,375. Bastará la interposición de una tercería excluyente, para que el 
 
 Art. 1,376. Si la tercería, cualquiera que sea, se interpone ante un juez de paz o menor, y el interés de ella excede del que la ley respectivamente somete á la jurisdicción de estos jueces, aquel ante quien se interponga remitirá lo actuado en el negocio principal y tercería, al juez que designe el tercer opositor y sea competente para conocer del negocio que representa mayor interés. El juez designado correrá traslado de la demanda verbal entablada y decidirá la tercería, sujetándose en la sustanciación á lo prevenido en los artículos anteriores.
 
-### CAPÍTULO III. (SIC)
+### CAPÍTULO I.
 
-De la rectificación de créditos.
+Disposiciones generales.
 
-Art. 1,438. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
 
-Art. 1,439. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,415. Las disposiciones del presente título se aplicarán al arbitraje comercial nacional, y al internacional cuando el lugar del arbitraje se encuentre en territorio nacional, salvo lo dispuesto en los tratados internacionales de que México sea parte o en otras leyes que establezcan un procedimiento distinto o dispongan que determinadas controversias no sean susceptibles de arbitraje.
 
-Art. 1,440. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Lo dispuesto en los artículos 1424, 1425, 1461, 1462 y 1463, se aplicará aún cuando el lugar del arbitraje se encuentre fuera del territorio nacional.
 
-Art. 1,441. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
 
-Art. 1,442. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,416. Para los efectos del presente título se entenderá por:
 
-Art. 1,443. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+I. Acuerdo de arbitraje, el acuerdo por el que las partes deciden someter a arbitraje todas o ciertas controversias que hayan surgido o puedan surgir entre ellas respecto de una determinada relación jurídica, contractual o no contractual. El acuerdo de arbitraje podrá adoptar la forma de una cláusula compromisoria incluida en un contrato o la forma de un acuerdo independiente;
 
-Art. 1,444. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+II. Arbitraje, cualquier procedimiento arbitral de carácter comercial, con independencia de que sea o no una institución arbitral permanente ante la que se lleve a cabo;
 
-Art. 1,445. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+III. Arbitraje internacional, aquél en el que:
 
-Art. 1,446. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+a) Las partes al momento de la celebración del acuerdo de arbitraje, tengan sus establecimientos en países diferentes; o
 
-Art. 1,447. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+b) El lugar de arbitraje, determinado en el acuerdo de arbitraje o con arreglo al mismo, el lugar del cumplimiento de una parte sustancial de las obligaciones de la relación comercial o el lugar con el cual el objeto del litigio tenga una relación más estrecha, esté situado fuera del país en el que las partes tienen su establecimiento.
 
-Art. 1,448. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Para los efectos de esta fracción, si alguna de las partes tienen más de un establecimiento, el establecimiento será el que guarde una relación más estrecha con el acuerdo de arbitraje; y si una parte no tiene ningún establecimiento, se tomará en cuenta su residencia habitual;
 
-Art. 1,449. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+IV. Costas, los honorarios del tribunal arbitral; los gastos de viaje y demás expensas realizadas por los árbitros; costo de la asesoría pericial o de cualquier otra asistencia requerida por el tribunal arbitral; gastos de viaje y otras expensas realizadas por los testigos, siempre que sean aprobados por el tribunal arbitral; costo de representación y asistencia legal de la parte vencedora si se reclamó dicho costo durante el procedimiento arbitral y sólo en la medida en que el tribunal arbitral decida que el monto es razonable; y honorarios y gastos de la institución que haya designado a los árbitros;
 
-Art. 1,450. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+V. Tribunal arbitral, el árbitro o árbitros designados para decidir una controversia.
 
-Art. 1,451. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
 
-Art. 1,452. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,417. Cuando una disposición del presente título:
 
-Art. 1,453. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+I. Deje a las partes la facultad de decidir libremente sobre un asunto, esa facultad entrañará la de autorizar a un tercero, incluida una Institución, a que adopte la decisión de que se trate, excepto en los casos previstos en el artículo 1445;
 
-Art. 1,454. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+II. Se refiera a un acuerdo entre las partes, se entenderán comprendidas en ese acuerdo todas las disposiciones del reglamento de arbitraje a que dicho acuerdo, en su caso, remita;
 
-Art. 1,455. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+III. Se refiera a una demanda, se aplicará también a una reconvención, y cuando se refiera a una contestación se aplicará asimismo a la contestación a esa reconvención, excepto en los casos previstos en la fracción I del artículo 1441 y el inciso a) de la fracción II del artículo 1449. Lo anterior, sin perjuicio de la decisión de los árbitros sobre su competencia para conocer de la demanda y de la reconvención.
 
-Art. 1,456. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
 
-Art. 1,457. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,418. En materia de notificación y cómputo de plazos se estará a lo siguiente:
 
-Art. 1,458. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+I. Salvo acuerdo en contrario de las partes:
 
-Art. 1,459. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+a) Se considerará recibida toda comunicación escrita que haya sido entregada personalmente al destinatario o que haya sido entregada en su establecimiento, residencia habitual o domicilio postal; en el supuesto de que no se obtenga después de una indagación razonable la ubicación de alguno de esos lugares, se considerará recibida toda comunicación escrita enviada al último establecimiento, residencia habitual o domicilio postal conocido del destinatario, por carta certificada o cualquier otro medio que deje constancia del intento de entrega;
 
-Art. 1,460. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+b) La comunicación se considerará recibida el día en que se haya realizado tal entrega.
 
-Art. 1,461. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+II. Las disposiciones de este artículo no serán aplicables a las comunicaciones habidas en un procedimiento judicial.
 
-Art. 1,462. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
 
-Art. 1,463. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,419. Para los fines del cómputo de plazos establecidos en el presente título, dichos plazos comenzarán a correr desde el día siguiente a aquél en que se reciba una notificación, nota, comunicación o propuesta. Si el último día de ese plazo es feriado oficial o no laborable en el lugar de residencia o establecimiento de los negocios del destinatario, dicho plazo se prorrogará hasta el primer día laborable siguiente. Los demás días feriados oficiales o no laborables que ocurran durante el transcurso del plazo se incluirán en el cómputo del plazo.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,420. Si una parte prosigue el arbitraje sabiendo que no se ha cumplido alguna disposición del presente título de la que las partes puedan apartarse o algún requisito del acuerdo de arbitraje y no exprese su objeción a tal incumplimiento sin demora justificada o, si se prevé un plazo para hacerlo y no lo hace, se entenderá renunciado su derecho a impugnar.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,421. Salvo disposición en contrario, en los asuntos que se rijan por el presente título, no se requerirá intervención judicial.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,422. Cuando se requiera la intervención judicial será competente para conocer el juez de primera instancia federal o del orden común del lugar donde se lleve a cabo el arbitraje.
+
+Cuando el lugar del arbitraje se encuentre fuera del territorio nacional, conocerá del reconocimiento y de la ejecución del laudo el juez de primera instancia federal o del orden común competente, del domicilio del ejecutado o, en su defecto, el de la ubicación de los bienes.
+
+> <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
+
+### CAPÍTULO II.
+
+Acuerdo de arbitraje.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,423. El acuerdo de arbitraje deberá constar por escrito, y consignarse en documento firmado por las partes o en un intercambio de cartas, télex, telegramas, facsímil u otros medios de telecomunicación que dejen constancia del acuerdo, o en un intercambio de escritos de demanda y contestación en los que la existencia de un acuerdo sea afirmada por una parte sin ser negada por la otra. La referencia hecha en un contrato a un documento que contenga una cláusula compromisoria, constituirá acuerdo de arbitraje siempre que dicho contrato conste por escrito y la referencia implique que esa cláusula forma parte del contrato.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,424. El juez al que se someta un litigio sobre un asunto que sea objeto de un acuerdo de arbitraje, remitirá a las partes al arbitraje en el momento en que lo solicite cualquiera de ellas, a menos que se compruebe que dicho acuerdo es nulo, ineficaz o de ejecución imposible.
+
+Si se ha entablado la acción a que se refiere el párrafo anterior, se podrá no obstante, iniciar o proseguir las actuaciones arbitrales y dictar un laudo mientras la cuestión esté pendiente ante el juez.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,425. Aun cuando exista un acuerdo de arbitraje las partes podrán, con anterioridad a las actuaciones arbitrales o durante su transcurso, solicitar al juez la adopción de medidas cautelares provisionales.
+
+> <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
+
+## TÍTULO CUARTO.
+
+DEL ARBITRAJE COMERCIAL.
+
+> <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
+
+### CAPÍTULO III.
+
+Composición del tribunal arbitral.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,426. Las partes podrán determinar libremente el número de árbitros. A falta de tal acuerdo, será un solo árbitro.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,427. Para el nombramiento de árbitros se estará a lo siguiente:
+
+I. Salvo acuerdo en contrario de las partes, la nacionalidad de una persona no será obstáculo para que actúe como árbitro.
+
+II. Sin perjuicio de lo dispuesto en las fracciones IV y V del presente artículo, las partes podrán acordar libremente el procedimiento para el nombramiento de los árbitros.
+
+III. A falta de tal acuerdo:
+
+a) En el arbitraje con árbitro único, si las partes no logran ponerse de acuerdo sobre la designación del árbitro, éste será nombrado, a petición de cualquiera de las partes, por el juez;
+
+b) En el arbitraje con tres árbitros, cada parte nombrará un árbitro, y los dos árbitros así designados nombrarán al tercero; si una parte no nombra al árbitro dentro de los treinta días del recibo de un requerimiento de la otra parte para que lo haga, o si los dos árbitros no consiguen ponerse de acuerdo sobre el tercer árbitro dentro de los treinta días siguientes contados a partir de su nombramiento, la designación será hecha, a petición de cualquiera de las partes, por el juez;
+
+IV. Cuando en un procedimiento de nombramiento convenido por las partes, una de ellas no actúe conforme a lo estipulado en dicho procedimiento, o las partes o dos árbitros no puedan llegar a un acuerdo conforme al mencionado procedimiento, o bien, un tercero, incluida una Institución, no cumpla alguna función que se le confiera en dicho procedimiento, cualquiera de las partes podrá solicitar al juez que adopte las medidas necesarias, a menos que en el acuerdo sobre el procedimiento de nombramiento se prevean otros medios para conseguirlo, y
+
+V. Toda decisión sobre las cuestiones encomendadas al juez en las fracciones III o IV del presente artículo, será inapelable. Al nombrar un árbitro, el juez tendrá debidamente en cuenta las condiciones requeridas para un árbitro estipuladas en el acuerdo entre las partes y tomará las medidas necesarias para garantizar el nombramiento de un árbitro independiente e imparcial. En el caso de árbitro único o del tercer árbitro, tomará en cuenta asimismo, la conveniencia de nombrar un árbitro de nacionalidad distinta a la de las partes.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,428. La persona a quien se comunique su posible nombramiento como árbitro deberá revelar todas las circunstancias que puedan dar lugar a dudas justificadas acerca de su imparcialidad o independencia. El árbitro, desde el momento de su nombramiento y durante todas las actuaciones arbitrales, revelará sin demora tales circunstancias a las partes, a menos que ya se hubiera hecho de su conocimiento.
+
+Un árbitro sólo podrá ser recusado si existen circunstancias que den lugar a dudas justificadas respecto de su imparcialidad o independencia, o si no posee las cualidades convenidas por las partes. Una parte sólo podrá recusar al árbitro nombrado por ella, o en cuyo nombramiento haya participado, por causas de las que haya tenido conocimiento después de efectuada la designación.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,429. Las partes podrán acordar libremente el procedimiento de recusación de los árbitros.
+
+A falta de acuerdo, la parte que desee recusar a un árbitro enviará al tribunal arbitral, dentro de los quince días siguientes a aquél en que tenga conocimiento de su constitución o de circunstancias que den lugar a dudas justificadas respecto de la imparcialidad del árbitro o su independencia, o si no posee las cualidades convenidas, un escrito en el que exponga los motivos para la recusación. A menos que el árbitro recusado renuncie a su cargo o que la otra parte acepte la recusación, corresponderá al tribunal arbitral decidir sobre ésta.
+
+Si no prosperase la recusación incoada en los términos del párrafo anterior, la parte recusante podrá pedir al juez, dentro de los treinta días siguientes de notificada la decisión por la que se rechaza la recusación, resuelva sobre su procedencia, decisión que será inapelable. Mientras esa petición esté pendiente, el tribunal arbitral, incluso el árbitro recusado, podrán proseguir las actuaciones arbitrales y dictar un laudo.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,430. Cuando un árbitro se vea impedido de hecho o por disposición legal para ejercer sus funciones o por otros motivos no las ejerza dentro de un plazo razonable, cesará en su cargo si renuncia o si las partes acuerdan su remoción. Si existe desacuerdo, cualquiera de las partes podrá solicitar al juez dé por terminado el encargo, decisión que será inapelable.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,431. Cuando un árbitro cese en su cargo en virtud de lo dispuesto en los artículos 1429 o 1430, renuncia, remoción por acuerdo de las partes o terminación de su encargo por cualquier otra causa, se procederá al nombramiento de un sustituto conforme al mismo procedimiento por el que se designó al árbitro que se ha de sustituir.
+
+> <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
+
+### CAPÍTULO IV.
+
+Competencia del Tribunal Arbitral.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,432. El tribunal arbitral estará facultado para decidir sobre su propia competencia, incluso sobre las excepciones relativas a la existencia o validez del acuerdo de arbitraje. A ese efecto, la cláusula compromisoria que forme parte de un contrato se considerará como un acuerdo independiente de las demás estipulaciones del contrato. La decisión de un tribunal arbitral declarando nulo un contrato, no entrañará por ese solo hecho la nulidad de la cláusula compromisoria.
+
+La excepción de incompetencia del tribunal arbitral deberá oponerse a más tardar en el momento de presentar la contestación. Las partes no se verán impedidas de oponer la excepción por el hecho de que hayan designado a un árbitro o participado en su designación. La excepción basada en que el tribunal arbitral ha excedido su mandato, deberá oponerse tan pronto como se plantee durante las actuaciones arbitrales la materia que supuestamente exceda su mandato. El tribunal arbitral podrá, en cualquiera de los casos, estimar una excepción presentada con posterioridad si considera justificada la demora.
+
+El tribunal arbitral podrá decidir las excepciones a que se hace referencia en el párrafo anterior, desde luego o en el laudo sobre el fondo del asunto. Si antes de emitir laudo sobre el fondo, el tribunal arbitral se declara competente, cualquiera de las partes dentro de los treinta días siguientes a aquél en que se le notifique esta decisión, podrá solicitar al juez resuelva en definitiva; resolución que será inapelable. Mientras esté pendiente dicha solicitud, el tribunal arbitral podrá proseguir sus actuaciones y dictar laudo.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,433. Salvo acuerdo en contrario de las partes, el tribunal arbitral podrá, a petición de una de ellas, ordenar la adopción de las providencias precautorias necesarias respecto del objeto de litigio. El tribunal arbitral podrá exigir de cualquiera de las partes una garantía suficiente en relación con esas medidas.
+
+> <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
+
+### CAPÍTULO V.
+
+Sustanciación de las actuaciones arbitrales.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,434. Deberá tratarse a las partes con igualdad y darse a cada una de ellas plena oportunidad de hacer valer sus derechos.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,435. Con sujeción a las disposiciones del presente título, las partes tendrán libertad para convenir el procedimiento a que se haya de ajustar el tribunal arbitral en sus actuaciones.
+
+A falta de acuerdo, el tribunal arbitral podrá, con sujeción a lo dispuesto por el presente título, dirigir el arbitraje del modo que considere apropiado. Esta facultad conferida al tribunal arbitral incluye la de determinar la admisibilidad, pertinencia y valor de las pruebas.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,436. Las partes podrán determinar libremente el lugar del arbitraje. En caso de no haber acuerdo al respecto, el tribunal arbitral determinará el lugar del arbitraje, atendiendo las circunstancias del caso, inclusive las conveniencias de las partes.
+
+Sin perjuicio de lo dispuesto en el párrafo precedente, el tribunal arbitral podrá, salvo acuerdo en contrario de las partes, reunirse en cualquier lugar que estime apropiado para celebrar deliberaciones entre sus miembros, oír a las partes, a los testigos, o a los peritos, o para examinar mercancías u otros bienes o documentos.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,437. Salvo que las partes hayan convenido otra cosa, las actuaciones arbitrales con respecto a una determinada controversia, se iniciarán en la fecha en que el demandado haya recibido el requerimiento de someter esa controversia al arbitraje.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,438. Las partes podrán acordar libremente el idioma o los idiomas que hayan de utilizarse en las actuaciones arbitrales. A falta de tal acuerdo, el tribunal arbitral determinará el o los idiomas que hayan de emplearse en las actuaciones. Este acuerdo o esta determinación será aplicable, salvo pacto en contrario, a todos los escritos de las partes, a todas las audiencias y a cualquier laudo, decisión o comunicación de otra índole que emita el tribunal arbitral.
+
+El tribunal arbitral podrá ordenar que cualquier prueba documental vaya acompañada de una traducción a uno de los idiomas convenidos por las partes o determinados por el tribunal arbitral.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,439. Dentro del plazo convenido por las partes o del determinado por el tribunal arbitral, el actor deberá expresar los hechos en que se funda la demanda, los puntos controvertidos y las prestaciones que reclama; y el demandado deberá referirse a todo lo planteado en la demanda, a menos que las partes hayan acordado otra cosa respecto de los elementos que la demanda y la contestación deban necesariamente contener. Las partes aportarán, al formular sus alegatos, todos los documentos que consideran pertinentes con que cuenten o harán referencia a los documentos u otras pruebas que vayan a presentar.
+
+Salvo acuerdo en contrario de las partes, éstas podrán modificar o ampliar su demanda o contestación, a menos que el tribunal arbitral considere improcedente la alteración de que se trate en razón de la demora con que se haya hecho.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,440. Salvo acuerdo en contrario de las partes, el tribunal arbitral decidirá si han de celebrarse audiencias para la presentación de pruebas o de alegatos orales, o si las actuaciones se sustanciarán sobre la base de documentos y demás pruebas. Si las partes no hubiesen acordado la no celebración de audiencias, el tribunal arbitral celebrará dichas audiencias en la fase apropiada de las actuaciones, a petición de una de las partes.
+
+Deberá notificarse a las partes con suficiente antelación la celebración de las audiencias y las reuniones del tribunal arbitral para examinar mercancías u otros bienes o documentos.
+
+De todas las declaraciones, documentos probatorios, peritajes o demás información que una de las partes suministre al tribunal arbitral se dará traslado a la otra parte.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,441. Salvo acuerdo en contrario de las partes, cuando, sin invocar causa justificada:
+
+I. El actor no presente su demanda con arreglo al primer párrafo del artículo 1439, el tribunal arbitral dará por terminadas las actuaciones.
+
+II. El demandado no presente su contestación con arreglo a lo dispuesto en el primer párrafo del artículo 1439, el tribunal arbitral continuará las actuaciones, sin que esa omisión se considere por sí misma como una aceptación de lo alegado por el actor, y
+
+III. Una de las partes no comparezca a una audiencia o no presente pruebas documentales, el tribunal arbitral podrá continuar las actuaciones y dictar el laudo basándose en las pruebas de que disponga.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,442. Salvo acuerdo en contrario de las partes, el tribunal arbitral podrá nombrar uno o más peritos para que le informen sobre materias concretas y solicitar a cualquiera de las partes que proporcione al perito toda la información pertinente, o le presente para su inspección o le proporcione acceso a todos los documentos, mercancías u otros bienes pertinentes.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,443. Salvo acuerdo en contrario de las partes, cuando una parte lo solicite o el tribunal arbitral lo considere necesario, el perito, después de la presentación de su dictamen escrito u oral, deberá participar en una audiencia en la que las partes tendrán oportunidad de formular preguntas y presentar peritos para que informen sobre los puntos controvertidos.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,444. El tribunal arbitral o cualquiera de las partes con la aprobación de éste, podrá solicitar la asistencia del juez para el desahogo de pruebas.
+
+> <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
+
+### CAPÍTULO VI.
+
+Pronunciamiento del laudo y terminación de las actuaciones.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,445. El tribunal arbitral decidirá el litigio de conformidad con las normas de derecho elegidas por las partes. Se entenderá que toda indicación del derecho u ordenamiento jurídico de un país determinado se refiere, a menos que se exprese lo contrario, al derecho sustantivo de ese país y no a sus normas de conflicto de leyes.
+
+Si las partes no indicaren la ley que debe regir el fondo de litigio, el tribunal arbitral, tomando en cuenta las características y conexiones del caso, determinará el derecho aplicable.
+
+El tribunal arbitral decidirá como amigable componedor o en conciencia, sólo si las partes le han autorizado expresamente a hacerlo.
+
+En todos los casos, el tribunal arbitral decidirá con arreglo a las estipulaciones del convenio y tendrá en cuenta los usos mercantiles aplicables al caso.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,446. En las actuaciones arbitrales en que hubiere más de un árbitro, toda decisión del tribunal arbitral se adoptará, salvo acuerdo en contrario de las partes, por mayoría de votos. Sin embargo, el árbitro presidente podrá decidir cuestiones de procedimiento, si así lo autorizan las partes o todos los miembros del tribunal arbitral.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,447. Si durante las actuaciones arbitrales, las partes llegaren a una transacción que resuelva el litigio, el tribunal arbitral dará por terminadas las actuaciones y, si lo piden ambas partes y el tribunal arbitral no se opone, hará constar la transacción en forma de laudo arbitral en los términos convenidos por las partes.
+
+Dicho laudo se dictará con arreglo a lo dispuesto en el artículo 1448.
+
+Este laudo tendrá la misma naturaleza y efectos que cualquier otro dictado sobre el fondo del litigio.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,448. El laudo se dictará por escrito y será firmado por el o los árbitros. En actuaciones arbitrales con más de un árbitro, bastarán las firmas de la mayoría de los miembros del tribunal arbitral, siempre que se deje constancia de las razones de la falta de una o más firmas.
+
+El laudo del tribunal arbitral deberá ser motivado, a menos que las partes hayan convenido otra cosa o se trate de un laudo pronunciado en los términos convenidos por las partes conforme al artículo 1447.
+
+Constarán en el laudo la fecha en que ha sido dictado y el lugar del arbitraje determinado de conformidad con el primer párrafo del artículo 1436. El laudo se considerará dictado en ese lugar.
+
+Después de dictado el laudo, el tribunal arbitral lo notificará a cada una de las partes mediante entrega de una copia firmada por los árbitros de conformidad con el primer párrafo del presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,449. Las actuaciones del tribunal arbitral terminan por:
+
+I. Laudo definitivo, y
+
+II. Orden del tribunal arbitral cuando:
+
+a) El actor retire su demanda, a menos que el demandado se oponga a ello y el tribunal arbitral reconozca su legítimo interés en obtener una solución definitiva de litigio;
+
+b) Las partes acuerden dar por terminadas las actuaciones; y
+
+c) El tribunal arbitral compruebe que la prosecución de las actuaciones resultaría innecesaria o imposible.
+
+El tribunal arbitral cesará en sus funciones al terminar las actuaciones arbitrales, salvo lo dispuesto en los artículos 1450, 1451 y 1459.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,450. Dentro de los treinta días siguientes a la notificación del laudo, salvo que las partes hayan acordado otro plazo, cualquiera de ellas podrá, con notificación a la otra, pedir al tribunal arbitral:
+
+I. Corrija en el laudo cualquier error de cálculo, de copia, tipográfico o de naturaleza similar.
+
+El tribunal arbitral podrá corregir cualquiera de los errores mencionados por su propia iniciativa, dentro de los treinta días siguientes a la fecha del laudo;
+
+II. Si así lo acuerdan las partes, dé una interpretación sobre un punto o una parte concreta de laudo. Si el tribunal arbitral lo estima justificado, efectuará la corrección o dará la interpretación dentro de los treinta días siguientes a la recepción de la solicitud. Dicha interpretación formará parte del laudo.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,451. Salvo acuerdo en contrario de las partes, dentro de los treinta días siguientes a la recepción del laudo, cualquiera de las partes, con notificación a la otra parte, podrá solicitar al tribunal arbitral que dicte un laudo adicional respecto de reclamaciones formuladas en las actuaciones arbitrales pero omitidas en el laudo. Si el tribunal arbitral lo estima justificado, dictará el laudo adicional dentro de sesenta días.
+
+El tribunal arbitral podrá prorrogar, de ser necesario, el plazo para efectuar una corrección, dar una interpretación o dictar un laudo adicional, con arreglo a lo dispuesto en el párrafo anterior o en el artículo 1450.
+
+En las correcciones o interpretaciones del laudo o en los laudos adicionales, se aplicará lo dispuesto en el artículo 1448.
+
+> <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
+
+### CAPÍTULO VII.
+
+De las costas.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,452. Las partes tienen la facultad de adoptar, ya sea directamente o por referencia a un reglamento de arbitraje, reglas relativas a las costas del arbitraje. A falta de acuerdo entre las partes, se aplicarán las disposiciones del presente capítulo.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,453. El tribunal arbitral fijará en el laudo las costas del arbitraje.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,454. Los honorarios del tribunal arbitral serán de un monto razonable, teniendo en cuenta el monto en disputa, la complejidad del tema, el tiempo dedicado por los árbitros y cualesquiera otras circunstancias pertinentes del caso.
+
+Los honorarios de cada árbitro, se indicarán por separado y los fijará el propio tribunal arbitral.
+
+Cuando una parte lo pida y el juez consienta en desempeñar esta función, el tribunal arbitral fijará sus honorarios solamente tras consultar al juez, el cual podrá hacer al tribunal arbitral las observaciones que considere apropiadas respecto de los honorarios.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,455. Salvo lo dispuesto en el párrafo siguiente, las costas del arbitraje serán a cargo de la parte vencida. Sin embargo, el tribunal arbitral podrá prorratear los elementos de estas costas entre las partes si decide que el prorrateo es razonable, teniendo en cuenta las circunstancias del caso.
+
+Respecto del costo de representación y de asistencia legal, el tribunal arbitral decidirá, teniendo en cuenta las circunstancias del caso, qué parte deberá pagar dicho costo o podrá prorratearlo entre las partes si decide que es lo razonable.
+
+Cuando el tribunal arbitral dicte una orden de conclusión del procedimiento arbitral o un laudo en los términos convenidos por las partes, fijará las costas del arbitraje en el texto de esa orden o laudo.
+
+El tribunal arbitral no podrá cobrar honorarios adicionales por la interpretación, rectificación o por completar su laudo.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,456. Una vez constituido, el tribunal arbitral podrá requerir a cada una de las partes que deposite una suma igual, por concepto de anticipo de honorarios del tribunal arbitral, gastos de viaje y demás expensas de los árbitros, y del costo de asesoría pericial o de cualquier otra asistencia requerida por el tribunal arbitral.
+
+En el curso de las actuaciones, el tribunal arbitral podrá requerir depósitos adicionales de las partes.
+
+Cuando una parte lo solicite y el juez consienta en desempeñar esa función, el tribunal arbitral fijará el monto de los depósitos o depósitos adicionales sólo después de consultar al juez, que podrá formular al tribunal arbitral todas las observaciones que estime apropiadas relativas al monto de tales depósitos y depósitos adicionales.
+
+Si transcurridos treinta días desde la comunicación del requerimiento del tribunal arbitral los depósitos requeridos no se han abonado en su totalidad, el tribunal arbitral informará de este hecho a las partes a fin de que cada una de ellas haga el pago requerido. Si este pago no se efectúa, el tribunal arbitral podrá ordenar la suspensión o la conclusión del procedimiento de arbitraje.
+
+Una vez dictado el laudo, el tribunal arbitral entregará a las partes un estado de cuenta de los depósitos recibidos y les reembolsará todo saldo no utilizado.
+
+> <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
+
+### CAPÍTULO VIII.
+
+De la nulidad del laudo.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,457. Los laudos arbitrales sólo podrán ser anulados por el juez competente cuando:
+
+I. La parte que intente la acción pruebe que:
+
+a) Una de las partes en el acuerdo de arbitraje estaba afectada por alguna incapacidad, o que dicho acuerdo no es válido en virtud de la ley a que las partes lo han sometido, o si nada se hubiese indicado a ese respecto, en virtud de la legislación mexicana;
+
+b) No fue debidamente notificada de la designación de un árbitro o de las actuaciones arbitrales, o no hubiere podido, por cualquier otra razón, hacer valer sus derechos;
+
+c) El laudo se refiere a una controversia no prevista en el acuerdo de arbitraje o contiene decisiones que exceden los términos del acuerdo de arbitraje. No obstante, si las disposiciones del laudo que se refieren a las cuestiones sometidas al arbitraje pueden separarse de las que no lo están, sólo se podrán anular estas últimas; o
+
+d) La composición del tribunal arbitral o el procedimiento arbitral no se ajustaron en el acuerdo celebrado entre las partes, salvo que dicho acuerdo estuviera en conflicto con una disposición del presente título de la que las partes no pudieran apartarse o, a falta de dicho acuerdo, que no se ajustaron al presente título; o
+
+II. El juez compruebe que, según la legislación mexicana, el objeto de la controversia no es susceptible de arbitraje, o que el laudo es contrario al orden público.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,458. La petición de nulidad deberá formularse dentro de un plazo de tres meses contado a partir de la fecha de la notificación del laudo o, si la petición se ha hecho con arreglo a los artículos 1450 y 1451 desde la fecha en que esa petición haya sido resuelta por el tribunal arbitral.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,459. El juez, cuando se le solicite la anulación de un laudo, podrá suspender las actuaciones de nulidad, cuando corresponda y así lo solicite una de las partes, por el plazo que determine a fin de dar al tribunal arbitral la oportunidad de reanudar las actuaciones arbitrales o de adoptar cualquier otra medida que a juicio del tribunal arbitral elimine los motivos para la petición de la nulidad.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,460. El procedimiento de nulidad se sustanciará incidentalmente, de conformidad con lo dispuesto por el artículo 360 del Código Federal de Procedimientos Civiles.
+
+La resolución no será objeto de recurso alguno.
+
+> <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
+
+### CAPÍTULO IX.
+
+Reconocimiento y ejecución de laudos.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,461. Un laudo arbitral, cualquiera que sea el país en que haya sido dictado, será reconocido como vinculante y, después de la presentación de una petición por escrito al juez, será ejecutado de conformidad con las disposiciones de este capítulo.
+
+La parte que invoque un laudo o pida su ejecución deberá presentar el original del laudo debidamente autenticado o copia certificada del mismo, y el original del acuerdo de arbitraje a que se refieren los artículos 1416 fracción I y 1423 o copia certificada del mismo. Si el laudo o el acuerdo no estuviera redactado en español, la parte que lo invoca deberá presentar una traducción a este idioma de dichos documentos, hecha por perito oficial.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,462. Sólo se podrá denegar el reconocimiento o la ejecución de un laudo arbitral, cualquiera que sea el país en que se hubiere dictado, cuando:
+
+I. La parte contra la cual se invoca el laudo, pruebe ante el juez competente del país en que se pide en reconocimiento o la ejecución que:
+
+a) Una de las partes en el acuerdo de arbitraje estaba afectada por alguna incapacidad, o que dicho acuerdo no es válido en virtud de la ley a que las partes lo han sometido, o si nada se hubiere indicado a este respecto, en virtud de la ley del país en que se haya dictado el laudo;
+
+b) No fue debidamente notificada de la designación de un árbitro o de las actuaciones arbitrales, o no hubiere podido, por cualquier otra razón, hacer valer sus derechos;
+
+c) El laudo se refiere a una controversia no prevista en el acuerdo de arbitraje o contiene decisiones que exceden los términos del acuerdo de arbitraje. No obstante, si las disposiciones del laudo que se refieren a las cuestiones sometidas al arbitraje pueden separarse de las que no lo están, se podrá dar reconocimiento y ejecución a las primeras;
+
+d) La composición del tribunal arbitral o el procedimiento arbitral no se ajustaron al acuerdo celebrado entre las partes o, en defecto de tal acuerdo, que no se ajustaron a la ley del país donde se efectuó el arbitraje; o
+
+e) El laudo no sea aún obligatorio para las partes o hubiere sido anulado o suspendido por el juez del país en que, o conforme a cuyo derecho, hubiere sido dictado ese laudo; o
+
+II. El juez compruebe que, según la legislación mexicana, el objeto de la controversia no es susceptible de arbitraje; o que el reconocimiento o la ejecución del laudo son contrarios al orden público.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
+
+Art. 1,463. Si se solicitó a un juez del país en que, o conforme a su derecho, fue dictado el laudo, su nulidad o suspensión, el juez al que se solicita el reconocimiento o la ejecución de laudo podrá, si lo considera procedente, aplazar su decisión y a instancia de la parte que pida el reconocimiento o la ejecución del laudo, podrá también ordenar a la otra parte que otorgue garantías suficientes.
+
+El procedimiento de reconocimiento o ejecución se sustanciará incidentalmente de conformidad con el Artículo 360 del Código Federal de Procedimientos Civiles. La resolución no será objeto de recurso alguno.
 
 Art. 1,464. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 Art. 1,465. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
-
-### CAPÍTULO IV.
-
-De la liquidación judicial.
 
 Art. 1,466. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
@@ -6486,153 +6862,9 @@ Art. 1,470. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA L
 
 Art. 1,471. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
-
-## TÍTULO CUARTO.. DEL PROCEDIMIENTO ARBITRAL
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,415. Cuando las partes sean comerciantes podrán convenir en someter a decisión arbitral las diferencias que surjan de sus relaciones comerciales. El acuerdo de arbitraje podrá adoptar la fórmula de una cláusula compromisoria incluída en un contrato o la forma de acuerdo independiente.
-
-El acuerdo de arbitraje deberá constar por escrito, pudiendo consistir en un canje de cartas, telex, telegramas o cualquier otro medio semejante.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,416. Solamente las personas capaces pueden comprometer en árbitros sus negocios.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,417. En el acuerdo de arbitraje se designará el negocio o los negocios que serán sometidos a juicio arbitral, así como el nombre del o de los árbitros o el procedimiento para su designación. Si falta la mención del negocio materia del acuerdo, éste será nulo de pleno derecho sin necesidad de previa declaración judicial.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,418. Cuando por cualquiera de los medios citados en el Artículo 1415 conste que los interesados sometieron sus diferencias a la decisión arbitral y no estén nombrados el o los árbitros, ni convenida la forma de su designación, debe prepararse el juicio arbitral para que el nombramiento sea hecho por el juez.
-
-Una vez que se haya presentado ante el juez el documento en que conste el acuerdo, por cualquiera de los interesados, se citará a la junta dentro del tercer día para que éstos se presenten a elegir árbitro, apercibiéndolos de que, en caso de no hacerlo, lo hará en su rebeldía.
-
-En caso de que la cláusula compromisoria forme parte de documento privado, al citar a la otra parte a la junta a que se refiere el párrafo anterior, se le requerirá previamente para que reconozca el documento; si se rehusare a contestar o no compareciere, se tendrá por reconocido.
-
-Durante la junta el juez exhortará a las partes para que elijan árbitro de común acuerdo y en caso de no conseguirlo, será el juez quien lo designe, procurando que dicho nombramiento recaiga en persona idónea atendiendo a sus cualidades personales.
-
-Con el acta de la junta a que se refiere este artículo se iniciarán las labores del árbitro, emplazando a las partes como se determina en este Código.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,419. El acuerdo arbitral será válido aún cuando no se haya establecido el término del juicio arbitral, pero en este caso, dicho término será de sesenta días hábiles, contándose el plazo desde la iniciación del procedimiento arbitral.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,420. Durante el plazo del arbitraje el nombramiento de los árbitros no podrá ser revocado sino por el consentimiento unánime de las partes.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,421. El arbitraje podrá ser nacional o internacional; las disposiciones de este Código se aplicarán en los dos ámbitos, salvo en lo previsto por los convenios y tratados internacionales en que México sea parte. Si el arbitraje se llevare a cabo en México, a falta de acuerdo expreso de las partes y de las reglas del procedimiento acordadas por éstas en los términos de los artículos siguientes, se observarán las disposiciones del presente Código, o en su defecto del Código de Procedimientos Civiles de la entidad federativa donde se realice el arbitraje, salvo que las leyes mercantiles establezcan un procedimiento especial.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,422. En el acuerdo de arbitraje las partes podrán pactar expresamente las reglas procesales que se han de observar, siempre y cuando en ellas se respeten las formalidades esenciales del procedimiento. Asimismo, podrán convenir que el arbitraje se regulará por los reglamentos aprobados o utilizados por instituciones que administren procedimientos arbitrales.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,423. En el acuerdo de arbitraje las partes podrán convenir en:
-
-I. El número de árbitros y el procedimiento para su designación, que podrá encomendarse a un tercero, el cual podrá ser una institución administradora de procedimientos arbitrales;
-
-II. El lugar donde se llevará a cabo el arbitraje;
-
-III. El idioma o idiomas que deberán utilizarse en las actuaciones, pero en juicios que se ventilen en territorio nacional, necesariamente se usará el español, sin perjuicio de otro;
-
-IV. Renunciar al recurso de apelación; y
-
-V. Cualquier otra estipulación que estimen conveniente incluyendo las normas que habrán de aplicarse en cuanto al fondo y al procedimiento sin perjuicio de lo dispuesto en el artículo anterior.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,424. Los árbitros estarán siempre obligados a recibir pruebas y oír alegatos, si cualquiera de las partes lo pidiere. Cualquier pacto en contrario se tendrá por no puesto.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,425. Cuando el compromiso en árbitros se celebre respecto de un negocio en grado de apelación, el laudo arbitral será definitivo, sin ulterior recurso.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,426. Las partes podrán elegir la ley que deba regir en cuanto al fondo del litigio, a menos que dicha elección no fuere válida por disposición de orden público. En caso de ausencia o invalidez de dicha elección, el árbitro o en su caso, el tribunal arbitral, tomando en cuenta las características y conexiones del caso, determinará el derecho aplicable al fondo.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,427. El acuerdo arbitral produce las excepciones de incompetencia y litispendencia, si encontrándose vigente se promueve el negocio ante un tribunal ordinario.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,428. El arbitraje termina:
-
-I. Por muerte del árbitro elegido en el compromiso o en cláusula compromisoria, si no se hubiese designado sustituto o si en un plazo de treinta días naturales no se pusieren de acuerdo las partes en uno nuevo o no se hubiese previsto procedimiento para sustituirlo. En caso de que no hubieren las partes designado el árbitro, si no por intervención judicial, el compromiso no se extinguirá y se proveerá al nombramiento de sustituto en la misma forma que para el primero;
-
-II. Por excusa del árbitro o árbitros designados por las partes, por causa justificada que les impida desempeñar su oficio si las partes en un plazo de treinta días naturales, no se pusieren de acuerdo en la designación de uno nuevo; en caso de que la excusa sea presentada por el árbitro designado con intervención judicial, se proveerá al nombramiento del sustituto en la misma forma que para el primero. Si el árbitro designado en segundo término se excusa del conocimiento del asunto, por causa justificada, el compromiso se entenderá extinguido;
-
-III. Por recusación, con causa declarada procedente cuando el árbitro hubiere sido designado por segunda vez por el juez, pues al nombrado de común acuerdo no se le puede recusar;
-
-IV. Por nombramiento recaído en el árbitro designado por las partes para el desempeño por más de tres meses, de cualquier cargo de la administración de justicia, que impida de hecho o de derecho la función de arbitraje. En caso de árbitro designado por el Juez, se proveerá a una nueva designación; y
-
-V. Por la expiración del plazo a que se refiere el Artículo 1419, salvo que las partes convengan expresamente en prorrogarlo.
-
-Si las partes transigen en cuanto al fondo del litigio el árbitro dará por concluído el procedimiento y, si no es contraria a las normas de orden público aprobará la transacción dándole efectos de laudo definitivo.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,429. Siempre que haya de designarse un árbitro sustituto se suspenderán los términos durante el tiempo necesario para hacer el nuevo nombramiento.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,430. El laudo arbitral será firmado por todos los árbitros, pero en caso de haber más de dos, si la minoría rehusare hacerlo, los otros lo harán constar y dicho laudo tendrá el mismo efecto que si hubiese sido firmado por todos.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,431. Si los árbitros estuviesen autorizados a designar un tercero en discordia, y no lograsen ponerse de acuerdo, sobre en quien ha de recaer dicha designación, acudirán el (sic) juez de primera instancia.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,432. Los árbitros decidirán según las reglas del derecho, a menos que, en el compromiso o en la cláusula se les encomendare la amigable composición o el fallo en conciencia.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,433. Los árbitros sólo son recusables por las mismas causas que lo fueren los jueces; de las recusaciones y excusas de los árbitros conocerá el juez de primera instancia, conforme a las leyes y sin ulterior recurso.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,434. Los árbitros pueden conocer de los incidentes, sin cuya resolución no fuere posible decidir el negocio principal. También pueden conocer de las excepciones perentorias, pero no de la reconvención, sino en el caso en que se oponga como compensación hasta la cantidad que importe la demanda, o cuando así se haya pactado expresamente.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,435. Los árbitros pueden condenar a las partes en costas, daños y perjuicios. Para emplear los medios de apremio se debe acudir ante el juez de primera instancia.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,436. Una vez que haya sido notificado el laudo arbitral, se pasarán los autos al juez de primera instancia para efectos de su ejecución, a no ser que las partes pidieren la aclaración de dicho laudo.
-
-Para la ejecución de autos y decretos, se acudirá también al juez de primera instancia.
-
-Si hubiere lugar a algún recurso que fuere admisible, lo admitirá el juez que recibió los autos y remitirá éstos al tribunal superior sujetándose, en todos sus procedimientos a lo dispuesto para los juicios comunes.
-
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,437. La ejecución en el país de laudos arbitrales extranjeros, salvo lo dispuesto en los tratados y convenios de los que México sea parte, se regirán por las disposiciones de este Código o por lo previsto en el acuerdo de arbitraje y en el Código de Procedimientos local respectivo, aplicándose supletoriamente el Código Federal de Procedimientos Civiles.
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
-
-### CAPÍTULO V.
-
-Del abandono de activo.
-
 Art. 1,472. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 Art. 1,473. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
-
-### CAPÍTULO VI.
-
-Del concurso necesario.
 
 Art. 1,474. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
@@ -6656,12 +6888,6 @@ Art. 1,483. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA L
 
 Art. 1,484. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
-
-### CAPÍTULO VII.
-
-De la administración de la quiebra.
-
 Art. 1,485. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 Art. 1,486. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
@@ -6674,12 +6900,6 @@ Art. 1,489. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA L
 
 Art. 1,490. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
-
-### CAPÍTULO VIII.
-
-De la graduación.
-
 Art. 1,491. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 Art. 1,492. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
@@ -6695,42 +6915,6 @@ Art. 1,496. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA L
 Art. 1,497. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 Art. 1,498. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
-
-### CAPÍTULO IX.
-
-De la segunda instancia.
-
-Art. 1,499. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,500. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-### CAPÍTULO VIII.
-
-De la graduación.
-
-Art. 1,491. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,492. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,493. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,494. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,495. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,496. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,497. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,498. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
-
-### CAPÍTULO IX.
-
-De la segunda instancia.
 
 Art. 1,499. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
@@ -7099,3 +7283,9 @@ TERCERO.- A partir de que entre en vigor la presente ley, sólo podrán ser habi
 CUARTO.- Los corredores públicos que hayan sido habilitados conforme a las disposiciones del Código de Comercio se continuarán regulando por éste. Los corredores públicos que hayan sido habilitados antes de la entrada en vigor de la presente Ley podrán solicitar y obtener una nueva habilitación sin más requisitos, en cuyo caso serán regulados por la presente ley a partir de la publicación del acuerdo correspondiente en el Diario Oficial de la Federación.
 
 QUINTO.- Mientras se expide el reglamento correspondiente, continuará siendo aplicable en toda la República el Reglamento de Corredores para la Plaza de México de 1o. de noviembre de 1891, en cuanto no se oponga a lo establecido en la presente ley.
+
+D.O.F. 22 DE JULIO DE 1993.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Lo establecido en el presente decreto se aplicará a los procedimientos arbitrales de carácter comercial en trámite, así como al reconocimiento y a la ejecución de los laudos arbitrales comerciales, salvo acuerdo en contrario de las partes.
