@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-congreso-del-estado-de-morelos-13127"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-11-12"
-last_updated: "2002-09-27"
+last_updated: "2002-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13127&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial, el día 12 de Noviembre de 1997.
 
@@ -1713,15 +1713,15 @@ El presente decreto entrará en vigor el día de su aprobación, con las salveda
 
 Las reformas al artículo 66, entrarán en vigor el primero de octubre del dos mil dos.
 
-> <small>(F. DE E., P.O. 16 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO TERCERO.
 
-Las reformas, adiciones y derogaciones a los artículos 24; 25; 27, incisos f), p) y u); 32; 33; 34; 35; 36; 37; 38; el Capítulo IV BIS del Título Cuarto; 38 BIS; 38 TER; 44 párrafo segundo; el Capítulo V BIS del Título Cuarto; 65; 67; 68; 70; 71; 72; 73; 74; 76 fracciones III, VI y XI; el Capítulo II del Título Séptimo; 77 y 78, entrarán en vigor el primero de enero del dos mil tres. La fracción IV del artículo 68, entrará en vigor el primero de septiembre del dos mil tres.
+Las reformas, adiciones y derogaciones a los artículos 24; 25; 27, incisos f), p) y u); la denominación del Capítulo IV del Título Cuarto; 32; 33; 34; 35; 36; 37; 38; el Capítulo IV BIS del Título Cuarto; 38 BIS; 38 TER; 44 párrafo segundo; 65; 67; 68; 70; 71; 72; 73; 74; 76, fracciones III, VI y XI; el Capítulo II del Título Séptimo; 77 y 78, entrarán en vigor el primero de enero del dos mil tres. La fracción IV del artículo 68, entrará en vigor el primero de septiembre del dos mil tres.
 
 En lo que respecta a las facultades establecidas a la Junta de Coordinación Política y a la Conferencia para la Dirección y Programación de los Trabajos Legislativos, las asumirá la Comisión de Régimen Interno y Concertación Política, hasta en tanto inician su vigencia los órganos anteriormente citados.
 
-Asimismo, todos aquellos ordenamientos que hagan referencia u otorguen alguna retribución o facultad a la Comisión de Régimen Interno y Concertación Política, se entenderán conferidas a la Junta de Coordinación Política, a partir de su vigencia.
+Asimismo, todos aquellos ordenamientos que hagan referencia u otorguen alguna atribución o facultad a la Comisión de Régimen Interno y Concertación Política, se entenderán conferidas a la Junta de Coordinación Política, a partir de su vigencia.
 
 ###### ARTÍCULO CUARTO.
 
@@ -1734,3 +1734,13 @@ El Congreso del Estado contará con el término de treinta días, para la adecua
 ###### ARTÍCULO SEXTO.
 
 Remítase al titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, está en vigor desde su aprobación por el Congreso.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal, para su publicación en el Periódico Oficial "Tierra y Libertad".
