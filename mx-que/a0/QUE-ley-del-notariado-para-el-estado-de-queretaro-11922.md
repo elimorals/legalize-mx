@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-notariado-para-el-estado-de-queretaro-11922"
 country: "mx"
 rank: "ley"
 publication_date: "1976-10-28"
-last_updated: "1976-10-28"
+last_updated: "1986-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1986.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el 28 de octubre de 1976.
 
@@ -297,9 +297,11 @@ VII.- El cotejo de las actas parroquiales.
 
 La autorización a que se refiere la Fracción V, del Artículo anterior, la harán constar los notarios por medio de una acta que extenderá al calce del contrato respectivo, expresando en ella día y lugar en que fué presentado; si conocen a los contratantes y el hecho de que éstos reconocen, tanto el contenido como las firmas que aparecen en el correspondiente documento. El acta firmada por los interesados y autorizada por el Notario, probará plenamente que los interesados estuvieron de acuerdo con su contenido, al igual que con el contrato materia de la diligencia. Si alguno de los interesados no sabe firmar, lo hará a su nombre un testigo e imprimirá aquel la huella digital del pulgar derecho.
 
+> <small>(REFORMADO, P.O. 02 DE ENERO DE 1986)</small>
+
 ###### ARTICULO 41.
 
-No podrán pasar de dos los libros del Protocolo que se lleven, al mismo tiempo, en una Notaría; para llevar más de uno, será necesario que, previamente lo apruebe el Ejecutivo, quien procederá en su caso, de un modo discrecional, según los informes que tenga sobre el movimiento de negocios en la oficina del Notario que lo solicite.
+No podrán pasar de cinco los libros del Protocolo que se lleven al mismo tiempo en una Notaría. Para llevar más de uno será necesaria la aprobación previa del Ejecutivo, quien procederá, en su caso, discrecionalmente, según los informes que tenga sobre el movimiento de negocios en la oficina del Notario que lo solicite.
 
 ###### ARTICULO 42.
 
@@ -333,6 +335,10 @@ No se inscribirán más de cuarenta líneas por página, a igual distancia unas 
 
 El uso de los libros del Protocolo debe hacerse por el orden riguroso de la numeración de las escrituras y actas notariales, pasando de un libro al que le sigue en número, hasta después que aquél haya sido cerrado, poniendo la razón de clausura, para lo cual cada libro o volumen serán numerado en orden progresivo del uno en adelante.
 
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 1986)</small>
+
+Cuando el protocolo del Notario esté integrado por más de un libro en donde se asienten los instrumentos notariales, los libros se usarán de la manera siguiente: La primera escritura o acta en tiempo que se haya de asentar se anotará en el libro número uno; la segunda, en su caso, en el libro número dos, y así sucesivamente hasta terminar el último libro en uso en la primera vuelta. Se iniciará la segunda y demás vueltas de la misma manera, hasta agotar el juego de libros autorizados.
+
 ###### ARTICULO 48.
 
 La numeración de los instrumentos, o sea, de las escrituras y de las actas notariales, será progresiva desde el primer volumen en adelante, es decir, sin interrumpirla de un volumen a otro, aún cuando "no pase" alguna de dichas escrituras o actas.
@@ -348,6 +354,10 @@ El Notario, cuando calcule que ya no puede dar cabida a otro instrumento más en
 Si durante el lapso de cuarenta días, después de la clausura del libro, fueren autorizadas alguna y algunas escrituras de las que hubieren quedado pendientes, o se anotaren como no pasadas, se pondrá razón adicional a la clausura, haciendo constar tales hechos. Transcurridos los cuarenta días, el libro respectivo quedará definitivamente clausurado, salvo el caso de revalidación de instrumentos.
 
 La circunstancia de no llevar al Archivo General de Notarías el libro del Protocolo, en el supuesto a que se contrae este precepto, con la oportunidad que el mismo señala, establece contra el Notario omiso la presunción de dolo.
+
+> <small>(ADICIONADO, P.O. 02 DE ENERO DE 1986)</small>
+
+Cuando el notario tenga su protocolo en varios libros, al cerrar uno, tendrá que cerrarlos todos en los términos a que se refiere este artículo y para los efectos expresados en el mismo.
 
 ###### ARTICULO 50.
 
@@ -649,9 +659,9 @@ IV.- Si ha sido redactada en idioma extranjero;
 
 V.- Si se omitió la constancia relativa a la lectura;
 
-VI.- Si no se hizo constar, en caso de que alguno de los interesados sea sordo o sordomudo, que esté leyó por él mismo instrumento o que se cercioró de su contenido por algún medio, si no sabe o no puede leer;
+VI.- Si no se hizo constar, en caso de que alguno de los interesados sea sordo o sordomudo que esté leyó por él mismo instrumento o que se cercioró de su contenido por algún medio, si no sabe o no puede leer;
 
-VII.- Si carecieren de las firmas de las partes, testigos o intérpretes que supieren escribir y pudieran firmar y, en su caso, cuando se omita hacer mérito de esta circunstancia;
+VII.- Si carecieren de las firmas de las partes, testigos o intérpretes que supieren escribir y pudieran firmar y, en caso contrario, cuando se omita hacer mérito de esta circunstancia;
 
 VIII.- Si no está autorizada preventivamente con la firma y sello del Notario o falta la nota "ante mi" o la razón de la autorización definitiva;
 
@@ -881,8 +891,6 @@ El Presidente proveerá a la ejecución de los acuerdos y de las resoluciones de
 
 El Secretario dará cuenta al Presidente de los asuntos y comunicará sus acuerdos; redactará las actas de las sesiones del Consejo y de la Directiva; llevará la correspondencia y los libros de actas y registro y tendrá a su cargo el archivo y la biblioteca.
 
-}
-
 El Tesorero hará los pagos, previo acuerdo del Presidente; llevará la contabilidad y rendirá cuenta justificada al término de cada ejercicio.
 
 ### CAPITULO XVI. DEL ARCHIVO GENERAL DE NOTARIAS
@@ -1019,7 +1027,7 @@ Diputado Secretario,
 
 FRANCISCO BRISEÑO LÓPEZ.
 
-EN CUMPLIMIENTO DE LO DISPUESTO POR LA FRACCIÓN SEGUNDA DEL ARTICULO NOVENTA Y TRES, DE LA CONSTITUCIÓN POLÍTICA DE ESTA ENTIDAD Y PARA SU DEBIDA PUBLICACIÓN Y OBSERVANCIA, EXPIDO LA PRESENTE LEY EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, A LOS VEINTE DIAS DEL MES DE AGOSTO DE MIL NOVECIENTOS SETENTA Y SEIS.
+EN CUMPLIMIENTO DE LO DISPUESTO POR LA FRACCIÓN SEGUNDA DEL ARTICULO NOVENTA Y TRES, DE LA CONSTITUCIÓN POLÍTICA DE ESTA ENTIDAD Y PARA SU DEBIDA PUBLICACIÓN Y OBSERVANCIA, EXPIDO LA PRESENTE LEY EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, A LOS VEINTE DIAS DEL MES DE AGOSTO DE MIL NOVECIENTOS SETENTA Y SEIS
 
 El Gobernador Constitucional del Estado,
 
@@ -1028,3 +1036,15 @@ ANTONIO CALZADA.
 El Secretario General de Gobierno,
 
 LIC. ALEJANDRO MALDONADO FRANCO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 02 DE ENERO DE 1986
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial " La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a la presente.
