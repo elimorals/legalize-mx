@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-2-2004-de-la-comision-de-creacion-de-nuevos-59000"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-01-30"
-last_updated: "2004-01-30"
+last_updated: "2004-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59000&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-01-22"
 
 ACUERDO CCNO/2/2004, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA PRORROGA DEL PLAZO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL QUINTO TRIBUNAL COLEGIADO EN MATERIA PENAL DEL PRIMER CIRCUITO, CON RESIDENCIA EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE ABRIL DE 2004.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de enero de 2004.
 
@@ -51,6 +51,8 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL ACUERDO CCNO/6/2004 DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 2 DE ABRIL DE 2004, SE INTERRUMPE DEL PLAZO DE EXCLUSION DEL TURNO DE ASUNTOS NUEVOS AL QUINTO TRIBUNAL COLEGIADO EN MATERIA PENAL DEL PRIMER CIRCUITO, CON RESIDENCIA EN EL DISTRITO FEDERAL, A PARTIR DE LAS 24 HORAS DEL 31 DE MARZO DE 2004.</small>
+
 PRIMERO.- Se prorroga el plazo de exclusión de turno de nuevos asuntos al Quinto Tribunal Colegiado en Materia Penal del Primer Circuito, por el lapso de dos meses y medio, al establecido en el punto PRIMERO del Acuerdo CCNO/11/2003.
 
 El periodo de exclusión señalado comprenderá del uno de febrero al quince de abril de dos mil cuatro; por ende, los asuntos nuevos presentados en ese lapso en la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia Penal del Primer Circuito, serán del conocimiento de los tribunales colegiados primero, segundo, tercero, cuarto, sexto, séptimo, octavo, noveno y décimo, todos de la materia y Circuito aludidos, con excepción de los asuntos relacionados los que serán turnados al órgano jurisdiccional correspondiente con el propósito de aprovechar el conocimiento previo y evitar el pronunciamiento de resoluciones contradictorias, conforme a lo dispuesto en el Acuerdo General 23/2002, del Pleno del Consejo de la Judicatura Federal.
@@ -68,3 +70,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 LA LICENCIADA GUADALUPE MARGARITA ORTIZ BLANCO, SECRETARIA EJECUTIVA DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo CCNO/2/2004 de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, relativo a la prórroga del plazo de exclusión del turno de nuevos asuntos al Quinto Tribunal Colegiado en Materia Penal del Primer Circuito, con residencia en el Distrito Federal, fue aprobado por la propia Comisión en sesión privada ordinaria celebrada el veintidós de enero de dos mil cuatro, por los señores Consejeros: Presidente Adolfo O. Aragón Mendía y Sergio A. Valls Hernández.- México, Distrito Federal, a veintidós de enero de dos mil cuatro.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. DE 2 DE ABRIL DE 2004.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
