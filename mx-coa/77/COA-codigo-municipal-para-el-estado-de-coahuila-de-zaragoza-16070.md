@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "1999-07-20"
+last_updated: "2001-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -1845,7 +1845,9 @@ El ayuntamiento podrá prestar los servicios públicos municipales, de las sigui
 
 I. Directamente, a través de sus propias dependencias administrativas y de organismos desconcentrados.
 
-II. A través de los organismos públicos descentralizados de la administración municipal, creados para tal fin.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2001)</small>
+
+II. A través de los organismos públicos descentralizados de la administración municipal y/o entidades o empresas paramunicipales, creados para tal fin.
 
 III. Mediante el régimen de concesión.
 
@@ -3568,3 +3570,13 @@ ROGELIO MONTEMAYOR SEGUY
 EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE ENERO DE 2001.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los ayuntamientos, en la esfera de su competencia, podrán constituir conforme a las disposiciones aplicables los organismos operadores que emiten necesarios para la prestación de los servicios públicos municipales a que se refiere el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este decreto.
