@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1974-12-23"
+last_updated: "1974-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1974.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -714,9 +714,11 @@ Los trabajadores del campo, dentro de los lineamientos señalados en el artícul
 
 Los salarios mínimos serán fijados por las Comisiones Regionales y serán sometidos para su ratificación o modificación a la Comisión Nacional de los Salarios Mínimos.
 
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1974)</small>
+
 ###### Artículo 95.
 
-Las Comisiones Regionales y la Comisión Nacional fijarán los salarios mínimos profesionales cuando no exista algún otro procedimiento legal para su fijación, ni existan contratos colectivos dentro de la zona respectiva, aplicables a la mayoría de los trabajadores de determinadas profesiones u oficios y la importancia de éstos lo amerite.
+Las Comisiones Regionales y la Comisión Nacional fijarán los salarios mínimos profesionales.
 
 ###### Artículo 96.
 
@@ -4214,6 +4216,10 @@ IV. Recibir directa o indirectamente cualquier dádiva de los trabajadores o de 
 
 V. No cumplir las órdenes recibidas de su superior jerárquico.
 
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1974)</small>
+
+VI. No denunciar al Ministerio Público, al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que omita el pago o haya dejado de pagar el salario mínimo general a un trabajador a su servicio.
+
 ###### Artículo 548.
 
 Las sanciones que pueden imponerse a los Inspectores del Trabajo, independientemente de lo que dispongan las leyes penales, son:
@@ -4768,7 +4774,13 @@ IV. Actuar como Juntas de Conciliación y Arbitraje para conocer y resolver los 
 
 V. Cumplimentar los exhortos y practicar las diligencias que les encomienden otras Juntas Federales o Locales de Conciliación y las Juntas Federales y Locales de Conciliación y Arbitraje; y
 
-VI. Las demás que les confieran las leyes.
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 24 DE DICIEMBRE DE 1974)</small>
+
+VI.- Denunciar ante el Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar el salario mínimo general a uno o varios de sus trabajadores; y
+
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1974)</small>
+
+VII. Las demás que les confieren las leyes.
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -5172,7 +5184,11 @@ II. No proveer oportunamente a la ejecución de los laudos;
 
 III. No informar oportunamente al Presidente de la Junta de la conducta irregular o delictuosa de alguno de los representantes de los trabajadores o de los patrones ante la Junta Especial que presidan; y
 
-IV. Las demás que establezcan las leyes.
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1974)</small>
+
+IV.- No denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que hubiera sido condenado por laudo definitivo al pago del salario mínimo general o las diferencias que aquél hubiera dejado de cubrir, a uno o varios de sus trabajadores.
+
+V. Las demás que establezcan las leyes.
 
 ###### Artículo 644.
 
@@ -6284,7 +6300,7 @@ La solicitud deberá contener una exposición de los hechos y causas que dieron 
 
 ###### Artículo 792.
 
-El patrón presentará con su solicitud:
+el patrón presentará con su solicitud:
 
 I. Los documentos públicos o privados que tiendan a comprobar la situación de la empresa o establecimiento y la necesidad de las medidas que solicite;
 
@@ -6904,7 +6920,7 @@ Se impondrá multa:
 
 I. De cien a cinco mil pesos al patrón que no cumpla las disposiciones contenidas en los artículos 61, 69, 76 y 77;
 
-II. De quinientos a diez mil pesos al patrón que no pague a sus trabajadores el salario mínimo;
+II. (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 1974)
 
 III. De quinientos a diez mil pesos al patrón que no cumpla las obligaciones que le impone el capítulo VIII del Título Tercero;
 
@@ -6966,9 +6982,27 @@ La autoridad después de oír al interesado, impondrá la sanción correspondien
 
 Las sanciones se harán efectivas por las autoridades que designen las leyes.
 
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1974)</small>
+
 ###### Artículo 890.
 
-Los trabajadores, los patrones y los sindicatos, federaciones y confederaciones de unos y otros, podrán denunciar ante las autoridades del trabajo, las violaciones a las normas del trabajo.
+Los trabajadores, los patrones y los sindicatos, federaciones y confederaciones y otros, podrán denunciar ante las autoridades del trabajo las violaciones a las normas del trabajo.
+
+Los Presidentes de las Juntas Especiales, los de las Juntas Federales Permanentes de Conciliación, los de las Locales de Conciliación y los inspectores del trabajo tienen la obligación de denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar o pague a sus trabajadores cantidades inferiores a las señaladas como salario mínimo general.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1974)</small>
+
+###### Artículo 891.
+
+Al patrón de cualquier negociación industrial, agrícola, minera, comercial o de servicios que haga entrega a uno o varios de sus trabajadores de cantidades inferiores al salario fijado como mínimo general o haya entregado comprobantes de pago que amparen sumas de dinero superiores de las que efectivamente hizo entrega, se les castigará con las penas siguientes:
+
+I. Con prisión de tres meses a dos años y multa hasta dos mil pesos, cuando el monto de la omisión no exceda del importe de un mes de salario mínimo general de la zona correspondiente.
+
+II. Con prisión de tres meses a dos años y multa de cinco mil pesos cuando el monto de la omisión sea mayor al importe de un mes, pero no exceda de tres meses de salario mínimo general de la zona correspondiente.
+
+III. Con prisión de tres meses a dos años y multa hasta diez mil pesos si la omisión excede a los tres meses de salario mínimo general de la zona correspondiente.
+
+Si el patrón de la negociación industrial, agrícola, minera, comercial o de servicio, paga al trabajador lo que le adeuda, más los intereses moratorios, antes de formular conclusiones al Ministerio Público, se le condenará únicamente al pago de la multa.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -7089,3 +7123,15 @@ CUARTO.- El presente Decreto entrará en vigor al día siguiente al de la fecha 
 D.O.F. 23 DE DICIEMBRE DE 1974.
 
 UNICO.- El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 24 DE DICIEMBRE DE 1974.
+
+DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY FEDERAL DEL TRABAJO.
+
+UNICO.- Las reformas y adiciones entrarán en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 24 DE DICIEMBRE DE 1974.
+
+DECRETO QUE REFORMA EL ARTICULO 95 DE LA LEY FEDERAL DEL TRABAJO.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
