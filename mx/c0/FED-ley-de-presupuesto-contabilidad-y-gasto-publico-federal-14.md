@@ -4,7 +4,7 @@ identifier: "FED-ley-de-presupuesto-contabilidad-y-gasto-publico-federal-14"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1982-01-11"
+last_updated: "1985-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1976-12-30"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ENERO DE 1985.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 31 de diciembre de 1976
 
@@ -357,13 +357,13 @@ Los responsables garantizarán a través de embargo precautorio y en forma indiv
 
 Las responsabilidades que se constituyan tendrán por objeto indemnizar por los daños y perjuicios que ocasionen a la Hacienda Pública Federal y a la del Departamento del Distrito Federal, o a las entidades de la administración pública paraestatal, las que tendrán el carácter de créditos fiscales y se fijarán por la Secretaría de Programación y Presupuesto en cantidad líquida, misma que se exigirá se cubra desde luego, sin perjuicio de que, en su caso, la Tesorería de la Federación o la Tesorería del Departamento del Distrito Federal, las hagan efectivas a través del procedimiento de ejecución respectivo.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### Artículo 48.
 
-La Secretaría de Programación y Presupuesto podrá dispensar las responsabilidades en que se incurra, siempre que los hechos que las constituyan, no revistan un carácter delictuoso ni se deban a culpa grave o descuido notorio del responsable y que los daños causados no excedan de $5,000.00.
+La Secretaría de la Contraloría General de la Federación podrá dispensar las responsabilidades en que se incurra, siempre que los hechos que las constituyan no revistan un carácter delictuoso, ni se deban a culpa grave o descuido notorio del responsable, y que los daños causados no excedan de cien veces el salario mínimo diario vigente en el Distrito Federal.
 
-La Secretaría de Programación y Presupuesto podrá cancelar los créditos derivados de responsabilidades que no excedan de $10,000.00, siempre que no se haya podido obtener su cobro por algún medio legal o por incosteabilidad práctica de cobro. Cuando los créditos excedan de $10,000.00, se propondrá su cancelación a la Cámara de Diputados al rendir la Cuenta Anual correspondiente, acompañando los datos que funden la propuesta.
+La propia Secretaría podrá cancelar los créditos derivados del fincamiento de responsabilidades que no excedan de cien veces el salario mínimo diario vigente en el Distrito Federal, por incosteabilidad práctica de cobro. En los demás casos se propondrá su cancelación a la Cámara de Diputados, al rendirse la Cuenta Anual correspondiente, previa fundamentación.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
 
@@ -448,3 +448,13 @@ D.O.F. 11 DE ENERO DE 1982.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE ENERO DE 1985.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a lo dispuesto por este Decreto.
