@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1996-05-13"
+last_updated: "1996-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MAYO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE NOVIEMBRE DE 1996.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -1874,9 +1874,7 @@ VII.- Al que destruya en todo o en parte o paralice por otro medio de los especi
 
 VIII.- Al que con objeto de perjudicar o dificultar las comunicaciones, modifique o altere el mecanismo de un vehículo haciendo que pierda potencia, velocidad o seguridad.
 
-> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 1982)</small>
-
-IX.- Al que dolosa e indebidamente intervenga la comunicación telefónica de terceras personas.
+IX.- (DEROGADA, D.O.F. 7 DE NOVIEMBRE DE 1996)
 
 ###### ARTICULO 168.
 
@@ -1958,9 +1956,11 @@ La disposición del artículo 173 no comprende la correspondencia que circule po
 
 Al empleado de telégrafo, estación telefónica o estación inalámbrica que conscientemente dejare de transmitir un mensaje que se le entregue con ese objeto, o de comunicar al destinatario el que recibiere de otra oficina, si causare daño, se le impondrá de quince días a un año de prisión o de 30 a 180 días multa.
 
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
+
 ###### ARTICULO 177.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1991)
+A quien intervenga comunicaciones privadas sin mandato de autoridad judicial competente, se le aplicarán sanciones de seis a doce años de prisión y de trescientos a seiscientos días multa.
 
 ## TITULO SEXTO. Delitos contra la autoridad
 
@@ -2122,13 +2122,7 @@ VI.- El agente determine a otra persona a cometer algún delito de los previstos
 
 VII.- Se trate del propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza y lo empleare para realizar algunos de los delitos previstos en este capítulo o permitiere su realización por terceros. En este caso además, se clausurará en definitiva el establecimiento.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
-
-ARTICULO 196 bis.- Se impondrá prisión de veinte a cuarenta años y de quinientos a diez mil días multa, así como decomiso de los objetos, instrumentos y productos del delito, a quien por sí, a través de terceros o a nombre de otros, dirija, administre o supervise cualquier tipo de asociación delictuosa constituida con el propósito de practicar o que practique cualquiera de las actividades delictivas a que se refiere este capítulo.
-
-Si el autor no tiene facultades de decisión, pero colabora en cualquier forma para el logro de los fines ilícitos de dichas organizaciones, las penas señaladas serán de hasta una mitad.
-
-Si el delito es cometido por servidor público de alguna corporación policial, además de la pena a que se refiere el párrafo anterior, se le impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación hasta por un tiempo igual al de la pena impuesta. Si se tratare de un miembro de las Fuerzas Armadas Mexicanas en situación de retiro, de reserva o en activo, se le impondrá, además, la baja definitiva de la Fuerza Armada a que pertenezca y se le inhabilitará hasta por un tiempo igual al de la pena impuesta para desempeñar cargo o comisión públicos.
+ARTICULO 196 bis.- (DEROGADO, D.O.F. 7 DE NOVIEMBRE DE 1996)
 
 > <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
@@ -2315,6 +2309,10 @@ Se impondrán de treinta a doscientas jornadas de trabajo en favor de la comunid
 ###### ARTICULO 211.
 
 La sanción será de uno a cinco años, multa de cincuenta a quinientos pesos y suspensión de profesión en su caso, de dos meses a un año, cuando la revelación punible sea hecha por persona que presta servicios profesionales o técnicos o por funcionario o empleado público o cuando el secreto revelado o publicado sea de carácter industrial.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
+
+ARTICULO 211 bis.- A quien revele, divulgue o utilice indebidamente o en perjuicio de otro, información o imágenes obtenidas en una intervención de comunicación privada, se le aplicarán sanciones de seis a doce años de prisión y de trescientos a seiscientos días multa.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -4122,8 +4120,6 @@ V. Efectúe el cambio de moneda nacional por divisas, o de éstas por moneda nac
 
 VI. Intimide a la víctima, a sus familiares o a sus representantes o gestores, durante o después del secuestro, para que no colaboren con las autoridades competentes.
 
-> <small>N. DE E. ANTES ARTICULO 366 BIS</small>
-
 > <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
 ARTICULO 366 TER.- Al que con el consentimiento de un ascendiente que ejerza la patria potestad o de quien tenga a su cargo la custodia de un menor, aunque ésta no haya sido declarada, ilegítimamente lo entregue a un tercero para su custodia definitiva, a cambio de un beneficio económico, se le aplicará pena de prisión de dos a nueve años y de doscientos a quinientos días multa.
@@ -5379,3 +5375,9 @@ Para proceder penalmente en los casos a que se refiere el artículo 115 bis del 
 Para efectos de la aplicación de las penas respectivas, regirá lo dispuesto en el artículo 56 del Código Penal citado, sin que ello implique la extinción de los tipos penales.
 
 TERCERO.- Para los supuestos, sujetos y efectos del artículo anterior, los delitos previstos en el artículo 115 bis del Código Fiscal de la Federación, se seguirán calificando como graves, en los términos del artículo 194 del Código Federal de Procedimientos Penales, para todos los efectos legales procedentes.
+
+D.O.F. 7 DE NOVIEMBRE DE 1996.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los artículos 167, fracción IX, y 196 bis del Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal, vigentes hasta la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código Penal.
