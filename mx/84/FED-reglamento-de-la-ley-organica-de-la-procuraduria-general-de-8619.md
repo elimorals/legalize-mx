@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-861
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-08-27"
-last_updated: "1996-12-27"
+last_updated: "1997-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8619&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-08-26"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 1997.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el martes 27 de agosto de 1996.
 
@@ -47,6 +47,10 @@ Subprocuraduría Jurídica y de Asuntos Internacionales.
 
 Subprocuradurías de Procedimientos Penales "A", "B" y "C".
 
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1997)</small>
+
+Fiscalía Especializada para la Atención de Delitos contra la Salud.
+
 Fiscalía Especializada para la Atención de Delitos Electorales.
 
 Oficialía Mayor.
@@ -54,6 +58,10 @@ Oficialía Mayor.
 Visitaduría General.
 
 Contraloría Interna.
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1997)</small>
+
+Unidad Especializada en Delincuencia Organizada.
 
 Dirección General de Comunicación Social.
 
@@ -111,15 +119,17 @@ Dirección General de Protección a los Derechos Humanos.
 
 Delegaciones.
 
-Instituto Nacional para el Combate a las Drogas
+> <small>(DEROGADO, D.O.F. 30 DE ABRIL DE 1997)</small>
 
 Instituto de Capacitación.
 
 Agregadurías.
 
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1997)</small>
+
 ###### Artículo 3.
 
-Son Agentes del Ministerio Público de la Federación el Procurador, los Subprocuradores, el Fiscal Especializado para la Atención de Delitos Electorales, el Visitador General, los Directores Generales de lo Contencioso y Consultivo, de Asuntos Legales Internacionales, de Amparo, de Constitucionalidad y Documentación Jurídica, de Normatividad Técnico Penal, de Control de Procedimientos Penales "A", "B" y "C", del Ministerio Público Especializado "A", "B" y "C", de Visitaduría, de Inspección Interna, de Protección a los Derechos Humanos y los Delegados Estatales, así como todos aquellos servidores públicos a quienes se les confiera dicha calidad.
+Son Agentes del Ministerio Público de la Federación el Procurador, los Subprocuradores, el Fiscal Especializado para la Atención de Delitos contra la Salud, el Fiscal Especializado para la Atención de Delitos Electorales, el Visitador General, el Titular de la Unidad Especializada en Delincuencia Organizada, los Directores Generales de lo Contencioso y Consultivo, de Asuntos Legales Internacionales, de Amparo, de Constitucionalidad y Documentación Jurídica, de Normatividad Técnico-Penal, de Control de Procedimientos Penales "A", "B" y "C", del Ministerio Público Especializado "A", "B" y "C", de Visitaduría, de Inspección Interna, de Protección a los Derechos Humanos y los Delegados Estatales, así como todos aquellos servidores públicos a quienes se les confiera dicha calidad.
 
 ###### Artículo 4.
 
@@ -221,9 +231,71 @@ IV. Vigilar la constitucionalidad y legalidad como lo prevé el artículo 5o. de
 
 V. Cumplir con las atribuciones contenidas en el artículo 11 de la Ley Orgánica, en materia internacional.
 
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1997)</small>
+
+Artículo 11 bis. Al frente de la Fiscalía Especializada para la Atención de Delitos contra la Salud habrá un Fiscal, nombrado por el Ejecutivo Federal, quien deberá cumplir con los requisitos previstos en los artículos 22 de la Ley Orgánica de la Procuraduría General de la República y 7, 11 bis-1 y 11 bis-2 de este Reglamento y tendrá las facultades siguientes:
+
+I. Investigar y perseguir los delitos contra la salud y los conexos a éstos, así como ejercer la facultad de atracción para investigar y perseguir delitos del fuero común que tengan conexidad con delitos federales contra la salud, de acuerdo con lo previsto en los artículos 8o. y 13 de la Ley Orgánica de la Procuraduría General de la República y demás disposiciones aplicables;
+
+II. Desarrollar y operar sistemas de intersección aérea, marítima, portuaria y terrestre del tráfico ilícito de narcóticos, en coordinación con otras dependencias y entidades competentes;
+
+III. Desarrollar y ejecutar programas de erradicación de cultivos ilícitos de narcóticos, en coordinación con las dependencias y entidades que tengan facultades para ello;
+
+IV. Apoyar y, en su caso, coordinar los programas nacionales, regionales y estatales en materia de control de drogas, así como fungir como Secretario Técnico del Programa Nacional para el Control de Drogas y de los demás que determinen las normas aplicables;
+
+V. Desarrollar y operar sistemas de información sobre actividades de organizaciones dedicadas al narcotráfico en el ámbito nacional e internacional, en coordinación con las dependencias y entidades competentes;
+
+VI. Proponer políticas y estrategias de acción para el combate al narcotráfico, tanto en el ámbito nacional como internacional, en coordinación con las dependencias y entidades competentes;
+
+VII. Promover ante las autoridades competentes el establecimiento de mecanismos para el control y fiscalización de actividades relacionadas con el tráfico de drogas;
+
+VIII. Establecer y operar un sistema estadístico uniforme de control de drogas, así como enlazarse con otros nacionales e internacionales, en coordinación con las dependencias y entidades competentes, con el fin de analizar la situación y las tendencias del narcotráfico, de la delincuencia organizada vinculada a éste y de la farmacodependencia;
+
+IX. Fortalecer mecanismos de cooperación y coordinación con dependencias y entidades de los tres ámbitos de gobierno y fomentar la corresponsabilidad interinstitucional en la lucha contra las drogas;
+
+X. Participar, en coordinación con las autoridades competentes, en organismos internacionales especializados en la lucha contra las drogas;
+
+XI. Establecer y operar unidades de la Fiscalía en el territorio nacional, y
+
+XII. Las demás necesarias para el buen funcionamiento de la Fiscalía.
+
+La Fiscalía Especializada para la Atención de Delitos contra la Salud estará integrada por el Fiscal, los coordinadores, directores generales, directores de área, subdirectores, jefes de departamento, Agentes del Ministerio Público de la Federación, de la Policía Judicial Federal, los Peritos y demás personal administrativo necesario para el desempeño de sus funciones, de conformidad con la disponibilidad presupuestal y los manuales de organización.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1997)</small>
+
+Artículo 11 bis-1. Para comprobar que el Fiscal y los demás servidores públicos adscritos a la Fiscalía Especializada para la Atención de Delitos contra la Salud dan debido cumplimiento a los principios de legalidad, eficiencia, profesionalismo, honradez, lealtad e imparcialidad señalados en los artículos 21, 109 y 113 de la Constitución Política de los Estados Unidos Mexicanos, 51 de la Ley Orgánica de la Procuraduría General de la República y 47 de la Ley Federal de Responsabilidades de los Servidores Públicos, deberán aprobar, entre otros requisitos, las evaluaciones periódicas siguientes:
+
+I. Médica y de aptitudes físicas;
+
+II. Toxicológica;
+
+III. Psicológica;
+
+IV. Del entorno social y situación patrimonial;
+
+V. Poligráfica, y
+
+VI. Las demás que establezca el Procurador.
+
+Los Agentes del Ministerio Público de la Federación, de la Policía Judicial Federal y los Peritos adscritos a la Fiscalía, además de los anteriores requisitos, deberán cumplir con los previstos en los artículos 22, 23 y 24 de la Ley Orgánica de la Procuraduría General de la República, según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1997)</small>
+
+Artículo 11 bis-2. El Procurador determinará las características, términos, modalidades y periodicidad con que se practicarán las evaluaciones previstas en el artículo anterior, así como otras que estime convenientes para garantizar la adecuada selección, promoción, permanencia y alto nivel profesional de los servidores públicos adscritos a la Fiscalía Especializada para la Atención de Delitos contra la Salud.
+
+Los resultados de las evaluaciones se mantendrán en reserva, con excepción de lo dispuesto en la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública y otras disposiciones legales aplicables, así como en aquellos casos en que deban presentarse en procedimientos administrativos o judiciales.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1997)</small>
+
+Artículo 11 bis-3. El Fiscal, los Agentes del Ministerio Público de la Federación, de la Policía Judicial Federal, los Peritos y demás servidores públicos, sólo podrán ingresar a la Fiscalía Especializada para la Atención de Delitos contra la Salud, cuando hayan obtenido resultados satisfactorios en las evaluaciones a que se refieren los artículos 11 bis-1 y 11 bis-2 de este Reglamento.
+
+El Fiscal y demás servidores públicos adscritos a la Fiscalía Especializada para la Atención de Delitos contra la Salud, que no aprueben cualquiera de las evaluaciones periódicas a que se refieren los artículos 11 bis-1 y 11 bis-2 de este Reglamento, dejarán de prestar sus servicios en la Procuraduría General de la República.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 1997)</small>
+
 ###### Artículo 12.
 
-La Fiscalía Especializada para la Atención de Delitos Electorales y en materia de Registro Nacional de Ciudadanos, tendrá las siguientes facultades:
+La Fiscalía Especializada para la Atención de Delitos Electorales conocerá de los delitos electorales y en materia de registro nacional de ciudadanos previstos en el Título Vigesimocuarto del Libro Segundo del Código Penal para el Distrito Federal en Materia del Fuero Común, y para toda la República en Materia de Fuero Federal, y tendrá las facultades siguientes:
 
 I. Ejercer las atribuciones que en materia de investigación y persecusión (sic) de los delitos, de su exclusiva competencia, le confieren al Ministerio Público de la Federación los artículos 8o. y 13 de la Ley Orgánica.
 
@@ -285,7 +357,9 @@ IV. Proponer al Procurador los cambios en materia de organización interna y mod
 
 V. Conducir las relaciones laborales de la Procuraduría, de conformidad con los lineamientos que al efecto establezca el titular de la misma. Designar y remover a los representantes de la Procuraduría ante las comisiones mixtas que se integren, conforme a las Condiciones Generales de Trabajo;
 
-VI. Expedir los nombramientos de los empleados y autorizar los movimientos del personal administrativo, así como decir los casos de terminación de los efectos del nombramiento como consecuencia de faltas laborales, previo dictamen de la Dirección General de lo Contencioso y Consultivo, a excepción de los relativos al personal ministerial, policial y pericial;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1997)</small>
+
+VI. Expedir los nombramientos de los servidores públicos de la Institución, autorizar los movimientos del personal y resolver los casos de terminación de los efectos del nombramiento, previo dictamen de la unidad administrativa competente;
 
 VII. Otorgar los reconocimientos y recompensas que determine la Ley y las Condiciones Generales de Trabajo, y emitir los lineamientos relativos a la aplicación, modificación y revocación de las sanciones administrativas a que se haga acreedor el personal de la Procuraduría, dentro del ámbito de su competencia;
 
@@ -363,13 +437,31 @@ VIII. Actualizar conjuntamente con el área competente el padrón de servidores 
 
 IX. Atender las relaciones con las organizaciones de protección de los derechos humanos, y especialmente, con la Comisión Nacional de Derechos Humanos en materia de seguimiento de las recomendaciones y amigables composiciones, instruyendo los procedimientos necesarios y fomentar la cultura de los derechos humanos.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE ABRIL DE 1997)</small>
+
+### CAPÍTULO SEXTO BIS. DE LA UNIDAD ESPECIALIZADA EN DELINCUENCIA ORGANIZADA
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1997)</small>
+
+Artículo 19 bis. La Unidad Especializada en Delincuencia Organizada tendrá las atribuciones que le confiere la Ley Federal contra la Delincuencia Organizada, la Ley Orgánica de la Procuraduría General de la República y las demás disposiciones aplicables.
+
+El Titular de la Unidad Especializada será nombrado por el Procurador General de la República, y deberá cumplir con los requisitos establecidos en los artículos 22 de la Ley Orgánica de la Procuraduría General de la República y 7, 11 bis-1 y 11 bis-2 de este ordenamiento.
+
+La Unidad Especializada estará integrada por el Titular, Agentes del Ministerio Público de la Federación, de la Policía Judicial Federal, los Peritos y demás personal administrativo necesario para el desempeño de sus funciones, de conformidad con la disponibilidad presupuestal y los manuales de organización. Además, contará con un cuerpo técnico de control que tendrá las atribuciones previstas en el segundo párrafo del artículo 8o. de la Ley Federal contra la Delincuencia Organizada.
+
+El Titular y los Agentes del Ministerio Público de la Federación adscritos a la Unidad Especializada, tendrán las atribuciones previstas en los artículos 8o. y 13 de la Ley Orgánica de la Procuraduría General de la República y en la Ley Federal contra la Delincuencia Organizada.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1997)</small>
+
+Artículo 19 bis-1. Al Titular, Agentes del Ministerio Público de la Federación, de la Policía Judicial Federal, los Peritos y demás servidores públicos de la Unidad Especializada en Delincuencia Organizada les será aplicable lo dispuesto en los artículos 11 bis-1, 11 bis-2 y 11 bis-3 del presente Reglamento.
+
 ### CAPÍTULO SÉPTIMO. DE LAS DIRECCIONES GENERALES
 
 ### CAPÍTULO OCTAVO. DE LOS ÓRGANOS DESCONCENTRADOS
 
-### CAPÍTULO NOVENO. DE LOS CONSEJOS
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1997)</small>
 
-### CAPÍTULO DÉCIMO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
+### CAPÍTULO NOVENO. DE LOS CONSEJOS
 
 ###### Artículo 20.
 
@@ -761,9 +853,11 @@ IV. Establecer las relaciones de la Institución con las Comisiones Estatales de
 
 V. Ejercer las atribuciones a que se refieren los artículos 8o. y 13 de la Ley Orgánica, en contra de los servidores públicos de la Institución, cuando derive de una recomendación de la Comisión Nacional de Derechos Humanos.
 
+### CAPÍTULO DÉCIMO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
+
 ###### Artículo 45.
 
-Para la atención de los asuntos de su competencia, la Procuraduría se auxiliará, de las Delegaciones, del Instituto Nacional para el Combate a las Drogas, del Instituto de Capacitación y de las Agregadurías, como órganos desconcentrados. Estos tendrán las facultades específicas que se determinen en cada caso, de conformidad con las normas que establezcan la Ley Orgánica de la Procuraduría General de la República, el presente Reglamento y los instrumentos jurídicos que los regulen.
+Para la atención de los asuntos de su competencia, la Procuraduría se auxiliará de las Delegaciones, del Instituto de Capacitación y de las Agregadurías, como órganos desconcentrados. Estos tendrán las facultades específicas que se determinen en cada caso, de conformidad con las normas que establezcan la Ley Orgánica de la Procuraduría General de la República, el presente Reglamento y los instrumentos jurídicos que los regulen.
 
 DE LAS DELEGACIONES
 
@@ -795,23 +889,7 @@ DEL INSTITUTO NACIONAL PARA EL COMBATE A LAS DROGAS
 
 ###### Artículo 47.
 
-El Instituto Nacional para el Combate a las Drogas es una Unidad Especializada del Ministerio Público de la Federación, desconcentrada por función, jerárquicamente dependiente del Procurador. Al frente de éste habrá un Comisionado, que será nombrado por el Ejecutivo Federal y tendrá las siguientes facultades:
-
-I. Investigar y perseguir los delitos contra la salud y otros conexos a éstos, de acuerdo con las facultades que señalan los artículos 8o. y 13 de la Ley Orgánica de la Procuraduría General de la República en relación con la fracción I del artículo 50 de la Ley Orgánica del Poder Judicial de la Federación, así como ejercer la facultad de atracción de delitos del fuero común que tengan conexidad con delitos federales;
-
-II. Desarrollar sistemas de intercepción aérea, marítima, portuaria y terrestre que establezca el Instituto, en coordinación con las instituciones involucradas en el desarrollo de los mismos;
-
-III. Operar y desarrollar un sistema de erradicación de cultivos ilícitos, en coordinación con las dependencias que tengan facultades legales para ello;
-
-IV. Apoyar y coordinar los Programas Nacionales, Regionales y Estatales en materia de control de drogas, y de delincuencia organizada, entre las diversas unidades que intervienen en los mismos, así como desarrollar la función de Secretariado Técnico en dichos programas;
-
-V. Desarrollar y operar sistemas de información sobre actividades de delincuencia organizada, particularmente el narcotráfico y sus secuelas, en el ámbito nacional e internacional, así como de la farmacodependencia;
-
-VI. Proponer políticas y estrategias de acción para el combate a la delincuencia organizada y al narcotráfico, apoyado en un banco de datos sobre la materia, tanto en el ámbito nacional e internacional, que servirá para auxiliar al Ministerio Público de la Federación en el desempeño de sus funciones legales;
-
-VII. Establecer y operar un sistema estadístico uniforme para el control de drogas, enlazarse a nivel nacional e internacional con el Sistema Hemisférico de Información, o cualquier otro análogo, con el fin de lograr el análisis de la situación y tendencias de la delincuencia organizada y del narcotráfico, y
-
-VIII. Las demás que le confieran otras disposiciones.
+(DEROGADO, D.O.F. 30 DE ABRIL DE 1997)
 
 DEL INSTITUTO DE CAPACITACIÓN
 
@@ -843,27 +921,35 @@ La Procuraduría contará con Agregadurías que serán órganos desconcentrados,
 
 La Procuraduría contará con un Consejo General; un Consejo de Profesionalización del Ministerio Público de la Federación, y los consejos técnicos que sean necesarios. El Procurador podrá crear los Consejos Asesores o de Apoyo, que tendrán por función coadyuvar en la solución de la problemática que implican las distintas actividades de la Institución.
 
-El Consejo General será presidido por el Procurador y se integrará con el Subprocurador de Coordinación General y Desarrollo, Subprocurador Jurídico y de Asuntos Internacionales, los Subprocuradores de Procedimientos Penales "A", "B" y "C", el Fiscal Especializado para la Atención de Delitos Electorales, el Oficial Mayor, el Visitador General, el Contralor Interno, el Director General de Comunicación Social y el Director General de Prevención del Delito y Servicios a la Comunidad. El ámbito de su competencia será el actuar institucional, proponiendo acciones que permitan contar con políticas coherentes, sistemáticas y articuladas.
+> <small>(REFORMADO, D. O. 30 DE ABRIL DE 1997)</small>
+
+El Consejo General será presidido por el Procurador y se integrará con el Subprocurador de Coordinación General y Desarrollo, Subprocurador Jurídico y de Asuntos Internacionales, los Subprocuradores de Procedimientos Penales "A", "B" y "C", el Fiscal Especializado para la Atención de Delitos contra la Salud, el Fiscal Especializado para la Atención de Delitos Electorales, el Oficial Mayor, el Visitador General, el Contralor Interno, el Director General de Comunicación Social y el Director General de Prevención del Delito y Servicios a la Comunidad. El ámbito de su competencia será el actuar institucional, proponiendo acciones que permitan contar con políticas coherentes, sistemáticas y articuladas.
 
 El Consejo General se auxiliará de los consejos técnicos de Evaluación; de Programación y Administración; de Servicios Periciales, y de Informática y Telecomunicaciones.
 
 El Procurador determinará mediante acuerdos la integración, facultades y funcionamiento de los Consejos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 1997)</small>
+
 ###### Artículo 52.
 
-El Consejo de Profesionalización del Ministerio Público de la Federación estará integrado por el Procurador General de la República; el Subprocurador de Coordinación General y Desarrollo; el Subprocurador Jurídico y de Asuntos Internacionales, y los Subprocuradores de Procedimientos Penales “A”, “B” y “C”, el Comisionado del Instituto Nacional para el Combate a las Drogas; el Oficial Mayor; el Contralor Interno; el Visitador General; el Director General del Instituto de Capacitación, y el Director General del Instituto Nacional de Ciencias Penales. Además, el Procurador designará a tres Agentes del Ministerio Público de la Federación, dos Agentes de la Policía Judicial Federal y dos peritos, que deberán cumplir con los requisitos señalados en las fracciones VII, VIII y IX del artículo 40 de la Ley Orgánica. Será la instancia normativa de supervisión, control y evaluación del Servicio Civil de Carrera.
+El Consejo de Profesionalización del Ministerio Público de la Federación estará integrado por el Procurador General de la República; el Subprocurador de Coordinación General y Desarrollo; el Subprocurador Jurídico y de Asuntos Internacionales; y los Subprocuradores de Procedimientos Penales “A”, “B” y “C”; el Fiscal Especializado para la Atención de Delitos contra la Salud; el Oficial Mayor; el Visitador General; el Contralor Interno; el Director General de Planeación y Operación de la Policía Judicial Federal; el Director General del Instituto de Capacitación y el Director General del Instituto Nacional de Ciencias Penales. Además, el Procurador designará a tres Agentes del Ministerio Público de la Federación, dos Agentes de la Policía Judicial Federal y dos peritos, que deberán cumplir con los requisitos señalados en las fracciones VII, VIII y IX del artículo 40 de la Ley Orgánica de la Procuraduría General de la República. Será la instancia normativa de supervisión, control y evaluación del Servicio Civil de Carrera.
 
 Los Comités de Zona se integrarán por el Subprocurador de Procedimientos Penales correspondiente; representantes del Procurador y del Subprocurador de Coordinación General y Desarrollo; por el Director General de lo Contencioso y Consultivo en representación del Subprocurador Jurídico y de Asuntos Internacionales; representantes del Oficial Mayor; del Contralor Interno; y del Visitador General; tres delegados de la zona correspondiente y dos Agentes del Ministerio Público de la Federación; de la Policía Judicial Federal y de los Peritos que el Consejo de Profesionalización determine. Dichos Comités auxiliarán en la ejecución de las normas del Servicio Civil de Carrera y ejercerán las facultades que señala la fracción II del artículo 52 y el recurso de rectificación a que se refiere el tercer párrafo del artículo 58 de la Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 1997)</small>
+
 ###### Artículo 53.
 
-El Consejo Técnico de Planeación y Coordinación de Operaciones de la Policía Judicial Federal será presidido por el Subprocurador de Coordinación General y Desarrollo, y participarán el Comisionado del Instituto Nacional de Combate a las Drogas, el Director General de Coordinación Interinstitucional, y el Director General de Planeación y Operación de la Policía Judicial Federal. También participarán los demás responsables de las unidades de policía judicial en las diversas zonas, así como los de las unidades especializadas del Ministerio Público, que el Procurador designe.
+El Consejo Técnico de Planeación y Coordinación de Operaciones de la Policía Judicial Federal será presidido por el Subprocurador de Coordinación General y Desarrollo, y participarán el Fiscal Especializado para la Atención de Delitos contra la Salud, el Director General de Coordinación Interinstitucional, y el Director General de Planeación y Operación de la Policía Judicial Federal. También participarán los demás responsables de las unidades de policía judicial en las diversas zonas, así como los de las unidades especializadas del Ministerio Público, que el Procurador designe.
 
 Tendrá las facultades a que se refiere el artículo 27 fracción I de la Ley Orgánica.
 
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1997)</small>
+
 ###### Artículo 54.
 
-El Consejo Técnico de Administración de la Policía Judicial Federal se integrará por el Procurador, los Subprocuradores de Coordinación General y Desarrollo y de Procedimientos Penales "A", "B" y "C", el Comisionado del Instituto Nacional para el Combate a las Drogas, el Oficial Mayor, el Visitador General y el Contralor Interno; y tendrá como facultades las indicadas en la fracción II del artículo 27 de la Ley Orgánica.
+El Consejo Técnico de Administración de la Policía Judicial Federal se integrará por el Procurador, los Subprocuradores de Coordinación General y Desarrollo y de Procedimientos Penales "A", "B" y "C", el Fiscal Especializado para la Atención de Delitos contra la Salud, el Oficial Mayor, el Visitador General y el Contralor Interno; y tendrá como facultades las indicadas en la fracción II del artículo 27 de la Ley Orgánica de la Procuraduría General de la República.
 
 ###### Artículo 55.
 
@@ -897,13 +983,13 @@ Salvo que el Procurador lo determine de otra forma, los servidores públicos de 
 
 PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1997)</small>
 
-Los artículos 2, en lo relativo a las Subprocuradurías de Procedimientos Penales "A", "B" y "C", 26, 29, 30, 31, 32 y 42 de este Reglamento entrarán en vigor el 1o. de junio de 1997.
+Los artículos 2, en lo relativo a las Subprocuradurías de Procedimientos Penales "A", "B" y "C", 26, 29, 30, 31, 32 y 42 de este Reglamento entrarán en vigor el 1o. de enero de 1998.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1997)</small>
 
-SEGUNDO. Se abroga el Reglamento de la Ley Orgánica de la Procuraduría General de la República, publicado en el Diario Oficial de la Federación el 8 de octubre de 1993, excepto el artículo 5o. bis referente a la Subprocuraduría Especial que seguirá con sus funciones hasta en tanto sean terminados los asuntos a su cargo y los artículos 1o., 5o., 14, 16 y 17, en lo relativo a las Subprocuradurías de Averiguaciones Previas y Control de Procesos, Direcciones Generales de Averiguaciones Previas, de Control de Procesos y Jurídica, que continuarán en vigor hasta el 31 de mayo de 1997; se derogan todas las disposiciones internas que se opongan al presente Reglamento.
+SEGUNDO. Se abroga el Reglamento de la Ley Orgánica de la Procuraduría General de la República, publicado en el Diario Oficial de la Federación el 8 de octubre de 1993, excepto los artículos 1o., 5o., 14, 16 y 17, en lo relativo a las Subprocuradurías de Averiguaciones Previas y Control de Procesos, Direcciones Generales de Averiguaciones Previas, de Control de Procesos y Jurídica, que continuarán en vigor hasta el 31 de diciembre de 1997; se derogan todas las disposiciones internas que se opongan al presente Reglamento.
 
 TERCERO. En tanto se expidan y entren en vigor los Manuales Generales o Especiales de Organización, Procedimientos o de cualesquiera otras materias, referidos al Ministerio Público de la Federación, Policía Judicial Federal, Servicios Periciales, o de otras funciones de la Procuraduría General de la República, que se ajusten a las disposiciones de este Reglamento, se estará a los que actualmente rigen, en lo que no se oponga al mismo.
 
@@ -919,6 +1005,12 @@ SÉPTIMO. En tanto entran en vigor los artículos 2o., en lo relativo a los Subp
 
 OCTAVO. En tanto se expide la nueva reglamentación sobre la Carrera del Ministerio Público de la Federación y de la Policía Judicial Federal, las funciones de la Junta de Honor que prevén los reglamentos de Carrera de Agente Ministerio Público de la Federación y de la Policía Judicial Federal las desarrollará el Consejo de Profesionalización y los Comités de Zona en los ámbitos de su competencia.
 
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1997)</small>
+
+NOVENO. La Subprocuraduría Especial continuará en funciones hasta la conclusión de las averiguaciones previas y procesos penales relacionados con el homicidio de Luis Donaldo Colosio Murrieta.
+
+Las averiguaciones previas y procesos penales relacionados con los homicidios de José Francisco Ruiz Massieu y de Juan Jesús Posadas Ocampo, se substanciarán por la Subprocuraduría de Coordinación General y Desarrollo.
+
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de agosto de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
@@ -926,3 +1018,19 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 D.O.F. 27 DE DICIEMBRE DE 1996.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE ABRIL DE 1997.
+
+Primero.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se deroga el Decreto por el que se crea el Instituto Nacional para el Combate a las Drogas como órgano técnico desconcentrado, dependiente de la Procuraduría General de la República, publicado en el Diario Oficial de la Federación del 17 de junio de 1993.
+
+TERCERO.- La Dirección General de Constitucionalidad y Documentación Jurídica, prevista en el artículo 29 del Reglamento de la Ley Orgánica de la Procuraduría General de la República, iniciará sus funciones en la fecha de entrada en vigor del presente Decreto.
+
+CUARTO.- Los recursos financieros y materiales asignados al Instituto Nacional para el Combate a las Drogas, pasarán a la Fiscalía Especializada para la Atención de Delitos contra la Salud.
+
+QUINTO.- Los Agentes del Ministerio Público de la Federación, de la Policía Judicial Federal y los Peritos, así como todo el personal que ingrese a la Fiscalía Especializada para la Atención de Delitos contra la Salud y a la Unidad Especializada en Delincuencia Organizada deberán presentar y aprobar, previamente las evaluaciones a que se refieren los artículos 11 bis-1 y 11 bis-2 del Reglamento de la Ley Orgánica de la Procuraduría General de la República.
+
+SEXTO.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en el Instituto Nacional para el Combate a las Drogas, quedarán a cargo de la Fiscalía Especializada para la Atención de Delitos contra la Salud.
+
+SÉPTIMO.- Las referencias que los acuerdos, circulares, instructivos y demás disposiciones administrativas hagan al Instituto Nacional para el Combate a las Drogas, se entenderán a la Fiscalía Especializada para la Atención de Delitos contra la Salud.
