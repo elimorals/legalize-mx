@@ -4,7 +4,7 @@ identifier: "GUA-ley-reglamentaria-del-articulo-7o-de-la-constitucion-21645"
 country: "mx"
 rank: "ley"
 publication_date: "1959-08-16"
-last_updated: "1974-08-25"
+last_updated: "1987-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY REGLAMENTARIA DEL ARTICULO 7o. DE LA CONSTITUCION POLITICA DEL ESTADO DE GUANAJUATO -ANTES LEY REGLAMENTARIA DEL ARTICULO 4o. DE LA CONSTITUCION POLITICA DEL ESTADO DE GUANAJUATO-
 
-LEY REGLAMENTARIA DEL ARTICULO 4o. DE LA CONSTITUCION POLITICA DEL ESTADO DE GUANAJUATO
+LEY REGLAMENTARIA DEL ARTICULO 7 DE LA CONSTITUCION POLITICA DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 1987.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato el 16 de agosto de 1959.
 
@@ -35,7 +35,9 @@ Que la H. Legislatura del Estado, se ha servido dirigirme el siguiente:
 
 El H. XLIII Congreso Constitucional del Estado Libre y Soberano de Guanajuato, decreta:
 
-LEY REGLAMENTARIA DEL ARTICULO 4o. DE LA CONSTITUCION POLITICA DEL ESTADO DE GUANAJUATO.
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE SEPTIEMBRE DE 1987)</small>
+
+LEY REGLAMENTARIA DEL ARTICULO 7 DE LA CONSTITUCION POLITICA DEL ESTADO DE GUANAJUATO.
 
 ###### ARTICULO 1o.
 
@@ -147,9 +149,11 @@ No se reconocerá ninguna validez a los títulos profesionales o a cualquier otr
 
 DIRECCION DE PROFESIONES.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1987)</small>
+
 ###### ARTICULO 14.
 
-Dependiente de la Secretaría General del Gobierno se establecerá una Dirección que se denominará: Dirección de Profesiones, que se encargará de la vigilancia del ejercicio profesional y será el Organo de conexión entre el Estado y los Colegios de Profesionistas.
+Dependiente de la Secretaría de Gobierno se establecerá una Dirección que se denominará: Dirección de Profesiones, que se encargará de la vigilancia del ejercicio profesional y será el Organo de conexión entre el Estado y los Colegios de Profesionistas.
 
 ###### ARTICULO 15.
 
@@ -257,9 +261,11 @@ Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico
 
 Esta Ley deroga todas las leyes y disposiciones de carácter general que se le opongan, excepto las contenidas en las leyes orgánicas del Poder Judicial del Estado y del Ministerio Público y de cualquiera otra que regule los requisitos y condiciones que deben llenar los funcionarios y empleados en general.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1987)</small>
+
 ###### ARTICULO TERCERO.
 
-Los títulos profesionales que con anterioridad a esta Ley hubieren sido expedidos y registrados en la Secretaría General de Gobierno, no necesitan registrarse en la Dirección de Profesiones, teniendo derecho sus poseedores a solicitar se les expida por dicha Dirección, la Cédula a que se refiere la Fracción III del artículo 16 de esta propia Ley.
+Los títulos profesionales que con anterioridad a esta Ley hubieren sido expedidos y registrados en la Secretaría de Gobierno, no necesitan registrarse en la Dirección de Profesiones, teniendo derecho sus poseedores a solicitar se les expida por dicha Dirección, la Cédula a que se refiere la Fracción III del artículo 16 de esta propia Ley.
 
 ###### ARTICULO CUARTO.
 
@@ -293,9 +299,11 @@ El ejercicio de la profesión de abogado o notario público es incompatible con 
 
 A la persona que contravenga esta disposición se le cancelará el registro de su título y será expulsado del colegio a que pertenezca.
 
+(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1987
+
 ###### ARTICULO SEXTO.
 
-En tanto no se establezca la Dirección de Profesiones, la Secretaría General de Gobierno tendrá las facultades que la presente Ley concede a la mencionada Dirección.
+En tanto no se establezca la Dirección de Profesiones, la Secretaría de Gobierno tendrá las facultades que la presente Ley concede a la mencionada Dirección.
 
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1960)</small>
 
@@ -346,3 +354,9 @@ P.O. 25 DE AGOSTO DE 1974.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE SEPTIEMBRE DE 1987.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
