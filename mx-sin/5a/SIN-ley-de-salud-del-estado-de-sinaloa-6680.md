@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-6680"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-02"
-last_updated: "1987-11-02"
+last_updated: "1993-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6680&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 1993.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el lunes 2 de noviembre de 1987.
 
@@ -1113,7 +1113,7 @@ El Gobierno del Estado, en coordinación con las autoridades federales e institu
 
 ###### ARTICULO 115.
 
-Las autoridades sanitarias estatales, en coordinación con las autoridades sanitarias federales, elaborarán programas o campañas temporales o permanentes, para el control o erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la Salubridad general de la república.
+Las autoridades sanitarias estatales, en coordinación con las autoridades sanitas (sic) federales, elaborarán programas o campañas temporales o permanentes, para el control o erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la Salubridad general de la república.
 
 Asimismo, realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
 
@@ -1139,9 +1139,13 @@ X.- Micosis profundas;
 
 XI.- Helmintiasis intestinales y extraintestinales;
 
-XII.- Toxoplasmosis, y
+XII.- Toxoplasmosis,
 
-XIII.- Las demás que determinen el Consejo de Salubridad General y los tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte.
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 1993)</small>
+
+XIII.- Síndrome de Inmuno Deficiencia Adquirida (SIDA), y
+
+XIV.- Las demás que determinen el Consejo de Salubridad General y los tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte.
 
 ###### ARTICULO 116.
 
@@ -2414,3 +2418,11 @@ LIC. FRANCISCO LABASTIDA OCHOA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. DIEGO VALADES
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 18 DE AGOSTO DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
