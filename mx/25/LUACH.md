@@ -4,7 +4,7 @@ identifier: "LUACH"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-30"
-last_updated: "1974-12-30"
+last_updated: "1977-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=821&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LUACH"
 
 LEY QUE CREA LA UNIVERSIDAD AUTONOMA CHAPINGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1977.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 30 de diciembre de 1974.
 
@@ -122,7 +122,9 @@ I.- Ser mexicano;
 
 II.- Tener menos de sesenta y cinco años de edad el día de la elección;
 
-III.- Poseer título a nivel de licenciatura, como mínimo, y tener cuando menos cinco años de experiencia profesional, tres de los cuales deberán ser de experiencia académica en la Escuela Nacional de Agricultura, Colegio de Postgraduados o en la Universidad Autónoma Chapingo; y
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+III.- Poseer título a nivel licenciatura, tener cuando menos cinco años de experiencia profesional, tres de los cuales deberá ser de experiencia académica en la Escuela Nacional de Agricultura o en la Universidad Autónoma Chapingo;
 
 IV.- Ser persona honorable y de reconocido prestigio y competencia profesional.
 
@@ -144,7 +146,9 @@ IV.- Las demás que le señale este ordenamiento y sus disposiciones reglamentar
 
 El patrimonio de la Universidad estará constituido por:
 
-I.- Los bienes que le asigne el Gobierno Federal y que se encuentren al servicio de la Escuela Nacional de Agricultura, y del Colegio de Postgraduados;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+I.- Los bienes que asigne el Gobierno Federal y que se encuentren al servicio de la Escuela Nacional de Agricultura;
 
 II.- Los subsidios que le otorguen los gobiernos de la Federación, de los Estados y de los Municipios;
 
@@ -174,26 +178,28 @@ TRANSITORIOS:
 
 PRIMERO.- Esta Ley entrará en vigor a los quince días de la fecha de su publicación en el "Diario Oficial" de la Federación.
 
-SEGUNDO.- Al entrar en vigor esta Ley, la Escuela Nacional de Agricultura y el Colegio de Postgraduados continuarán en sus funciones. Asimismo, cada Institución nombrará una comisión de diez profesores y diez estudiantes, quienes conjuntamente elaborarán las normas reglamentarias para establecer las estructuras que permitan el pleno funcionamiento de la Universidad y los mecanismos de elección del Rector y demás funcionarios de elección; así como la constitución de los cuerpos colegiados. Estos reglamentos entrarán en vigor cuando sean aprobados por todas y cada una de las comunidades representadas; o sea profesores de la Escuela Nacional de Agricultura, profesores del Colegio de Postgraduados, alumnos de la Escuela Nacional de Agricultura y alumnos del Colegio de Postgraduados.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
 
-En el caso de que los reglamentos no sean aprobados en el término de 30 días, contados a partir de la integración de la Comisión Conjunta, por todas y cada una de las comunidades representadas, las diferencias que existan sobre los reglamentos serán resueltas a través de un plebiscito escrito y secreto, que deberá llevarse a cabo dentro de los 30 días siguientes, en el que se consulte a todos y cada uno de los miembros de la Comunidad y para su aprobación se requerirá el voto favorable del 66% del total. Cada comunidad representada contará con un poder decisional del 25% en las votaciones.
+SEGUNDO.- Al entrar en vigor la presente Ley, la Escuela Nacional de Agricultura designará una comisión de once profesores y once alumnos, que se encargará de elaborar en un plazo no mayor de 30 días, las normas reglamentarias para el establecimiento de las estructuras que permitan el pleno funcionamiento de la Universidad, los mecanismos de elección de Rector y demás funcionarios, así como la integración de los cuerpos colegiados. El estatuto reglamentario que corresponda, para su perfeccionamiento y obligatoriedad deberá ser aprobado por la comunidad, profesores y alumnos, de la Escuela Nacional de Agricultura dentro de los siguientes 30 días a la fecha en que se le dé a conocer el proyecto respectivo.
 
-Para tal efecto, se seguirá el procedimiento siguiente:
+El Colegio de Postgraduados continuará estructurado y funcionando como órgano desconcentrado de la Secretaría de Agricultura y Recursos Hidráulicos. Dicha Dependencia del Ejecutivo Federal en un plazo no mayor de tres años, con base en las necesidades que se presenten y los recursos de que se disponga, determinará la conveniencia de reubicar el Colegio de Postgraduados; entretanto, éste continuará en posición y goce de las instalaciones, equipos y demás bienes muebles e inmuebles de que ha venido haciendo uso en el desarrollo de sus funciones.
 
-a).- Se deberán obtener el número total de los miembros de la comunidad y el número de los miembros de todos y cada uno de los cuatro sectores que la integran.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
 
-b).- El total de los votos favorables en cada sector se multiplicará por 0.25; después de este resultado se multiplicará por el total de miembros de todos los sectores y por último, se dividirá esta cantidad entre el número de integrantes del sector respectivo.
+TERCERO.- El Consejo Directivo de la Escuela Nacional de Agricultura cesará en sus funciones, una vez que las autoridades universitarias elegidas conforme a las normas reglamentarias aplicables tomen posesión de sus cargos.
 
-c).- Los reglamentos serán aprobados si la suma de las cuatro cantidades así obtenidas iguala o excede al 66% del total de los miembros de la comunidad.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
 
-d).- La propia comisión dirigirá el proceso del plebiscito y dará a conocer los resultados en las 48 horas siguientes a su ejecución.
-
-TERCERO.- Tanto el Cuerpo Directivo del Colegio de Postgraduados como el Consejo Directivo de la Escuela Nacional de Agricultura cesarán en sus funciones una vez que las autoridades universitarias tomen posesión de sus cargos de acuerdo a la presente Ley.
-
-CUARTO.- La Universidad reconocerá los derechos adquiridos por el personal que ha venido prestando sus servicios a la Escuela Nacional de Agricultura y al Colegio de Postgraduados, conforme a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional.
+CUARTO.- La Universidad reconocerá los derechos adquiridos por el personal que ha prestado sus servicios a la Escuela Nacional de Agricultura conforme a la Ley de los Trabajaodres (sic) al Servicio del Estado Reglamentaria del Apartado "B" del Artículo 123 Constitucional.
 
 QUINTO.- Se abroga la Ley de Educación Agrícola de 1946 y se derogan todas las disposiciones que se opongan a la presente Ley.
 
 México, D. F., a 21 de diciembre de 1974.- Víctor Cervera Pacheco, D. P.- Francisco Luna Kan, S. P.- José Octavio Ferrer Guzmán, D. S.- Carlos Pérez Cámara, S. S.- Rúbricas"
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto, en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, D. F., a los veintidós días del mes de diciembre de mil novecientos setenta y cuatro.- "Año de la República Federal y del Senado".- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Educación Pública, Víctor Bravo Ahuja.- Rúbrica.- El Secretario de Agricultura y Ganadería, Oscar Brauer Herrera.- Rúbrica.- El Secretario del (sic) Hacienda y Crédito Público, José López Portillo.- Rúbrica.- El Secretario del Patrimonio Nacional, Horacio Flores de la Peña.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 30 DE DICIEMBRE DE 1977.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
