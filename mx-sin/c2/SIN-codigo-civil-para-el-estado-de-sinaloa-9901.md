@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1992-11-09"
+last_updated: "1996-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1996.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -4199,19 +4199,25 @@ I.- Los provenientes por adeudos al Fisco, siempre que no procedan éstos de los
 
 II.- De alimentos que deban ministrarse por resolución judicial, podrán embargarse únicamente el 50% de los frutos del Patrimonio.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1996)</small>
+
 ###### Artículo 725.
 
 Son objeto del Patrimonio de Familia:
 
-I.- La casa habitación de la familia, adquirida en propiedad por el jefe de la familia o por alguno de sus miembros;
+I.- La casa habitada por la familia y el terreno sobre el cual esté construida, y que se adquirió en propiedad por el jefe de la familia o por alguno de sus miembros;
 
-II.- En algunos casos una parcela cultivable;
+II.- En el medio rural reconstituyen el patrimonio familiar, además de los bienes previstos en la fracción anterior, la parcela cultivable y los animales de que dependa exclusivamente la subsistencia de la familia;
 
-III.- El mobiliario de uso doméstico;
+III.- Los bienes muebles indispensables para el normal funcionamiento del hogar o por las condiciones climatológicas de la región, así como los estrictamente necesarios para la información y el esparcimiento familiar;
 
-IV.- Tratándose de familias campesinas, el equipo agrícola, considerándose como tal, los semovientes, las semillas, los útiles, implementos y aperos de labranza;
+IV.- Tratándose de familias campesinas, el equipo agrícola, considerándose como tal, la maquinaria, los semovientes, las semillas, los útiles, implementos y aperos de labranza;
 
-V.- Tratándose de familias obreras, el equipo de trabajo, considerándose como tal, la maquinaria, los útiles, las herramientas y en general toda clase de utensilios propios para el ejercicio del arte u oficio a que la familia se dedique.
+V.- Tratándose de familias obreras el equipo de trabajo, considerándose como tal, la maquinaria, los útiles, las herramientas y en general toda clase de utensilios propios para el ejercicio del arte, trabajo u oficio a que la familia se dedique;
+
+VI.- Tratándose de familias que dependen económicamente del trabajo profesional, el equipo de trabajo, considerándose como tal, los libros, escritorios, útiles, aparatos e instrumentos científicos y en general toda clase de utensilios propios para el ejercicio de la profesión a que se dedique quien sostenga la familiar (sic); y
+
+VII.- El vehículo automotor que sea necesario para el transporte y desarrollo de las actividades familiares o de trabajo.
 
 ###### Artículo 726.
 
@@ -4223,11 +4229,11 @@ Tienen derecho de habitar la casa y de disfrutar los frutos de la parcela afecta
 
 Los beneficiarios de los bienes afectos al Patrimonio de la Familia serán representados en sus relaciones con tercero, en todo lo que al Patrimonio se refiere, por el que lo constituyó, y, en su defecto, por el que nombre la mayoría. El representante tendrá también la administración de dichos bienes.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1996)</small>
 
 ###### Artículo 728.
 
-El valor máximo de los bienes afectos al patrimonio de familia, conforme al Artículo 725, será la cantidad que resulte de multiplicar por 1825 el importe del salario mínimo general diario vigente en el Estado de Sinaloa, en la época en que se constituya el patrimonio.
+El valor máximo de los bienes afectados al Patrimonio de Familia, conforme al artículo 725, será la cantidad que resulte de multiplicar por cuarenta y un mil el importe del salario mínimo general diario vigente en el Estado de Sinaloa, en la época en que se constituya el patrimonio.
 
 ###### Artículo 729.
 
@@ -15622,3 +15628,9 @@ P.O. 9 DE NOVIEMBRE DE 1992.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 3 DE JULIO DE 1996.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
