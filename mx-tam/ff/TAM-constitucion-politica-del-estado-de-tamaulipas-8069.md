@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1977-08-13"
+last_updated: "1978-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 1978.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -607,7 +607,7 @@ L. Conocer y resolver sobre la renuncia que presenten los Magistrados del Suprem
 
 LI. (DEROGADA, P.O. 7 DE DICIEMBRE DE 1946)
 
-LII. (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
+LII.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
 
 LIII. Crear nuevas Municipalidades dentro de las existentes, variar sus límites y suprimir alguna o algunas de ellas.
 
@@ -965,9 +965,9 @@ XXXI. Pedir al Congreso, o a la Comisión Permanente, si aquel no estuviere reun
 
 XXXII. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a estos el auxilio que necesiten para el ejercicio expedito de sus funciones.
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 1977)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 1978)</small>
 
-XXXIII.- Concurrir a la apertura de los períodos de sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la administración pública, cuando lo estime conveniente o así lo solicite el Congreso, pero deberá rendir un Informe completo sobre ésta Sesión Pública Extraordinaria del Congreso, que se celebrará el 18 de marzo de 1977.
+XXXIII.- Concurrir a la apertura de los períodos de Sesiones del Congreso, pudiendo informar en ellas acerca de todos o algunos de los ramos de la administración pública, cuando lo estime conveniente o así lo solicite el Congreso, pero deberá rendir un informe completo sobre ésta, en Sesión Pública Extraordinaria del Congreso que se celebrará el día doce del mes de febrero próximo.
 
 XXXIV. Fomentar por todos los medios posibles la instrucción y educación públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad.
 
@@ -1970,3 +1970,9 @@ SEGUNDO.- La presente modificación a la Constitución Política tendrá vigor p
 P.O. 13 DE AGOSTO DE 1977.
 
 UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE ENERO DE 1978.
+
+PRIMERO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La presente modificación tendrá vigencia por esta única vez, por lo que rendido el Informe y pasada la fecha mencionada, seguirá en vigor el texto anterior del propio Artículo.
