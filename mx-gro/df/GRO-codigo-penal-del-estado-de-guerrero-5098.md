@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "1999-04-20"
+last_updated: "1999-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PENAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -2449,7 +2449,9 @@ Son aplicables por este delito, en lo conducente, los artículos 159, 160, 161 y
 
 ### CAPITULO IV. EVASION DE PRESOS
 
-273.- Al que indebidamente ponga en libertad o favorezca la evasión de una persona que se encuentre legalmente privada de aquélla, se le impondrá prisión de tres meses a cinco años. Si los evadidos fuesen dos o más, se duplicará la sanción.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1999)</small>
+
+273.- Al que indebidamente ponga en libertad o favorezca la evasión de una persona que se encuentre legalmente privada de aquella, se le impondrá prisión de dos a diez años. Si los evadidos fuesen dos o más, se duplicará la sanción.
 
 > <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 1986)</small>
 
@@ -2730,3 +2732,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 20 DE ABRIL DE 1999.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE SEPTIEMBRE DE 1999.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
