@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-ingresos-del-estado-para-el-ejercicio-fiscal-2004-41526"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2003-12-16"
-last_updated: "2003-12-16"
+last_updated: "2004-10-22"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL 2004
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 16 de diciembre de de 2003.
 
@@ -39,7 +39,9 @@ En el Ejercicio Fiscal del 2004, el Estado de Quintana Roo percibirá los ingres
 
 CONCEPTO PESOS
 
-INGRESOS TOTALES DEL ESTADO $ 7,150,434,540
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2004)</small>
+
+INGRESOS TOTALES DEL ESTADO $ 8,414,045,079
 
 I.- IMPUESTOS $ 352,232,256
 
@@ -261,7 +263,9 @@ fortalecimiento de los municipios. 239,464,163
 
 pública. 36,181,614
 
-VII. INGRESOS EXTRAORDINARIOS $ 584,138,545
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2004)</small>
+
+VII. INGRESOS EXTRAORDINARIOS $ 1,847,749,084
 
 1.- Aportaciones especiales. 66,831,049
 
@@ -273,13 +277,51 @@ tradicionales del estado (PAFEF). 93,390,154
 
 3.- Apoyo para universidades. 73,917,342
 
-4.- Empréstitos. 350,000,000
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2004)</small>
+
+4.- Empréstitos. 1,613,610,539
 
 5-. Apoyos extraordinarios. 0
 
 VIII.- INGRESOS POR COORDINACIÓN 0
 
 MUNICIPAL
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2004)</small>
+
+###### ARTICULO 1º.
+
+A.- Los Ingresos Extraordinarios que bajo el rubro de Empréstitos obtenga el Estado, a que se refiere el Artículo 1º., Apartado VII, punto 4, de esta Ley, se destinarán exclusivamente al refinanciamiento de la Deuda Pública Directa a cargo del Estado de Quintana Roo mediante la liquidación y sustitución de empréstitos vigentes hasta por un monto de $1,263'610,539.29 (MIL DOSCIENTOS SESENTA Y TRES MILLONES SEISCIENTOS DIEZ MIL QUINIENTOS TREINTA Y NUEVE PESOS 29/100 M.N.)
+
+###### ARTICULO 2º.
+
+El pago extemporáneo de créditos fiscales dará lugar al cobro de recargos, de conformidad con lo que establezca el Código Fiscal del Estado.
+
+###### ARTICULO 3º.
+
+La recaudación de los gravámenes provenientes de los conceptos enumerados en el artículo 1º de esta Ley, se hará en las cajas de las oficinas recaudadoras de rentas de la Secretaría de Hacienda del Gobierno del Estado o en las oficinas autorizadas.
+
+###### ARTICULO 4º.
+
+Para que tenga validez el pago de las diversas obligaciones fiscales que establece esta Ley, el contribuyente deberá obtener en todo caso el recibo oficial o la forma valorada que para el efecto expida la Secretaría de Hacienda del Gobierno del Estado. Las cantidades que se recauden por estos conceptos serán concentradas en la misma Secretaría de Hacienda y deberán reflejarse cualquiera que sea su naturaleza en el registro de la misma.
+
+###### ARTICULO 5º.
+
+La Secretaría de Hacienda del Gobierno del Estado podrá administrar en forma transitoria los impuestos y derechos patrimoniales del municipio, según se establece en el artículo 14 de la Ley de Coordinación Fiscal del Estado, siempre y cuando cuente con la autorización correspondiente del Ayuntamiento que así lo desee, en la forma y bases del convenio que para tal efecto se realice.
+
+###### ARTICULO 6º.
+
+Se derogan las disposiciones que contengan exenciones totales o parciales, o consideren a personas como no sujetos de contribuciones Estatales, otorguen tratamientos preferenciales o diferenciales en materia de ingresos y contribuciones Estatales distintos de los establecidos en la Ley de Hacienda del Estado y ordenamientos legales referentes a organismos descentralizados Federales, Estatales y Municipales que presten los servicios de seguridad social.
+
+Lo dispuesto en el párrafo anterior también será aplicable cuando las disposiciones que contengan exenciones, totales o parciales o consideren a personas como no sujetos de contribuciones Federales, Estatales y Municipales otorgue tratamientos preferenciales o diferenciales en materia de ingresos y contribuciones municipales, se encuentren contenidas en normas jurídicas que tengan por objeto la creación de organismos descentralizados, órganos desconcentrados y empresas de participación Estatal.
+
+Se derogan las disposiciones que establezcan que los ingresos que obtengan las dependencias o entidades por concepto de derechos, productos o aprovechamientos, tienen un destino específico distintos de los contenidos en la Ley de Hacienda del Estado, en la presente Ley y en las demás leyes fiscales.
+
+Asimismo, se derogan las disposiciones contenidas, en las leyes de carácter no fiscal que establezcan que los ingresos que obtenga las dependencias, incluyendo a sus órganos administrativos desconcentrados, o entidades, por concepto de derechos, productos, o aprovechamientos, e ingresos de cualquier otra naturaleza, serán considerados como ingresos excedentes en el ejercicio fiscal en que se generen.
+
+Quedan sin efecto las exenciones relativas a los gravámenes a bienes muebles previstas en leyes federales a favor de organismos descentralizados sobre contribuciones locales, salvo en lo que se refiere a bienes propiedad de dichos organismos que se consideren del dominio público de la Federación.
+
+## TRANSITORIOS
 
 ###### ARTICULO 1º.
 
@@ -345,36 +387,6 @@ También se consideran como derechos para los efectos de este artículo, las con
 
 ###### ARTICULO 2º.
 
-El pago extemporáneo de créditos fiscales dará lugar al cobro de recargos, de conformidad con lo que establezca el Código Fiscal del Estado.
-
-###### ARTICULO 3º.
-
-La recaudación de los gravámenes provenientes de los conceptos enumerados en el artículo 1º de esta Ley, se hará en las cajas de las oficinas recaudadoras de rentas de la Secretaría de Hacienda del Gobierno del Estado o en las oficinas autorizadas.
-
-###### ARTICULO 4º.
-
-Para que tenga validez el pago de las diversas obligaciones fiscales que establece esta Ley, el contribuyente deberá obtener en todo caso el recibo oficial o la forma valorada que para el efecto expida la Secretaría de Hacienda del Gobierno del Estado. Las cantidades que se recauden por estos conceptos serán concentradas en la misma Secretaría de Hacienda y deberán reflejarse cualquiera que sea su naturaleza en el registro de la misma.
-
-###### ARTICULO 5º.
-
-La Secretaría de Hacienda del Gobierno del Estado podrá administrar en forma transitoria los impuestos y derechos patrimoniales del municipio, según se establece en el artículo 14 de la Ley de Coordinación Fiscal del Estado, siempre y cuando cuente con la autorización correspondiente del Ayuntamiento que así lo desee, en la forma y bases del convenio que para tal efecto se realice.
-
-###### ARTICULO 6º.
-
-Se derogan las disposiciones que contengan exenciones totales o parciales, o consideren a personas como no sujetos de contribuciones Estatales, otorguen tratamientos preferenciales o diferenciales en materia de ingresos y contribuciones Estatales distintos de los establecidos en la Ley de Hacienda del Estado y ordenamientos legales referentes a organismos descentralizados Federales, Estatales y Municipales que presten los servicios de seguridad social.
-
-Lo dispuesto en el párrafo anterior también será aplicable cuando las disposiciones que contengan exenciones, totales o parciales o consideren a personas como no sujetos de contribuciones Federales, Estatales y Municipales otorgue tratamientos preferenciales o diferenciales en materia de ingresos y contribuciones municipales, se encuentren contenidas en normas jurídicas que tengan por objeto la creación de organismos descentralizados, órganos desconcentrados y empresas de participación Estatal.
-
-Se derogan las disposiciones que establezcan que los ingresos que obtengan las dependencias o entidades por concepto de derechos, productos o aprovechamientos, tienen un destino específico distintos de los contenidos en la Ley de Hacienda del Estado, en la presente Ley y en las demás leyes fiscales.
-
-Asimismo, se derogan las disposiciones contenidas, en las leyes de carácter no fiscal que establezcan que los ingresos que obtenga las dependencias, incluyendo a sus órganos administrativos desconcentrados, o entidades, por concepto de derechos, productos, o aprovechamientos, e ingresos de cualquier otra naturaleza, serán considerados como ingresos excedentes en el ejercicio fiscal en que se generen.
-
-Quedan sin efecto las exenciones relativas a los gravámenes a bienes muebles previstas en leyes federales a favor de organismos descentralizados sobre contribuciones locales, salvo en lo que se refiere a bienes propiedad de dichos organismos que se consideren del dominio público de la Federación.
-
-## TRANSITORIOS
-
-###### ARTICULO 2º.
-
 Todos los contribuyentes quedarán obligados a presentar sus declaraciones con el Registro Estatal de Contribuyentes asignado por la Secretaría de Hacienda Estatal.
 
 ###### ARTICULO 3°.
@@ -394,3 +406,15 @@ SERGIO M. LÓPEZ VILLANUEVA.
 DIPUTADO SECRETARIO:
 
 PABLO DE J. RIVERO ARCEO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE OCTUBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
