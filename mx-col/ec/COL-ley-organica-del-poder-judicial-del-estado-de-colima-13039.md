@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-13039"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-10-08"
-last_updated: "1990-01-06"
+last_updated: "1990-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1990.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de octubre de 1988.
 
@@ -861,7 +861,11 @@ VI.- El Centro de Estudios Judiciales;
 
 VII.- La Oficina Central de Depósitos y Consignaciones; y
 
-VIII.- Conserjerías.
+VIII.- Conserjerías;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 1990)</small>
+
+IX.- La Oficialía de Partes.
 
 ### CAPITULO VIII. OFICINA CENTRAL DE DEPOSITOS Y CONSIGNACIONES
 
@@ -947,7 +951,9 @@ Para el cumplimiento de las atribuciones y obligaciones que corresponden al Cent
 
 El Centro de Cómputo se integrará con el personal especializado que el Presupuesto de egresos autorice y se regirá por el reglamento que para el efecto se expida, teniendo el carácter de servidores públicos de confianza.
 
-### CAPITULO I. DESIGNACIONES
+### CAPITULO X. OFICIALIA DE PARTES
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 1990)</small>
 
 ###### ARTICULO 98.
 
@@ -989,7 +995,7 @@ La planta del Archivo se compondrá: de un Director, Oficiales y Escribientes qu
 
 El reglamento respectivo fijará las atribuciones de los Servidores Públicos de la administración de justicia del archivo y determinará la forma de los asientos, índices y libros que en la misma oficina deban llevarse, y el Presidente del Tribunal podrá acordar, en todo caso, las disposiciones que crea convenientes.
 
-### CAPITULO II. INCOMPATIBILIDADES
+### CAPITULO I. DESIGNACIONES
 
 ###### ARTICULO 106.
 
@@ -1017,7 +1023,7 @@ VI.- Llevar la estadística de usuarios; y
 
 VII.- Las demás que le prescriban las leyes, reglamentos respectivos y los acuerdos del Tribunal o de su Presidente.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. INCOMPATIBILIDADES
 
 ###### ARTICULO 109.
 
@@ -1039,7 +1045,7 @@ El Boletín Judicial será editado por el Consejo Editorial que se integrará co
 
 En todo lo relativo a la Administración del Boletín, el Consejo Editorial tendrá las más amplias facultades, tanto para el manejo y la aplicación de los ingresos que se obtengan, como para la designación y remoción del personal administrativo.
 
-### CAPITULO II. FALTAS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 112.
 
@@ -1049,7 +1055,7 @@ El Supremo Tribunal de Justicia contará con un Centro de Estudios Judiciales, e
 
 El Centro de Estudios Judiciales funcionará como lo determine el reglamento que al efecto expida el Supremo Tribunal de Justicia y contará con el personal docente y administrativo necesario para la ejecución de sus propios programas.
 
-### CAPITULO III. ORGANOS Y SISTEMAS PARA LA IMPOSICION DE LAS SANCIONES ADMINISTRATIVAS
+### CAPITULO II. FALTAS
 
 ###### ARTICULO 114.
 
@@ -1095,7 +1101,7 @@ El Director de la Oficina, bajo su más estricta responsabilidad, rendirá un in
 
 El Supremo Tribunal de Justicia creará en los respectivos Partidos Judiciales, en los casos que lo ameriten, las correspondientes Oficinas de Depósito y Consignaciones.
 
-### CAPITULO I. DEPOSITARIOS
+### CAPITULO III. ORGANOS Y SISTEMAS PARA LA IMPOSICION DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 122.
 
@@ -1116,6 +1122,28 @@ El intendente hará los servicios necesarios del Juzgado, de mensajero y de los 
 ###### ARTICULO 126.
 
 Los jefes de las oficinas radicadas en los edificios presentarán al Presidente del Tribunal cualquier queja de tuvieren respecto a los servicios encomendados a los intendentes o a sus subordinados.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE NOVIEMBRE DE 1990)</small>
+
+### CAPITULO I. DEPOSITARIOS
+
+###### ARTICULO 126-I.
+
+La Oficialía de Partes tendrá como función recibir, en las horas que marque el Reglamento respectivo, las demandas, peticiones, correspondencia y todo tipo de documentación dirigida a los Juzgados de lo Civil, de lo Familiar y Mixto del Primer Partido Judicial del Estado de Colima, a las Salas y Presidencia del Supremo Tribunal de Justicia debiendo señalar en los escritos recibidos, la fecha y hora de presentación, haciendo constar los documentos que se anexan y estampando el sello de la oficina y la firma de quien realice la recepción.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 1990)</small>
+
+###### ARTICULO 126
+
+II.- La Oficialía de Partes se integrará con un titular que será nombrado por el Pleno del Supremo Tribunal de Justicia, y por el personal administrativo que el presupuesto le señale.
+
+Para ser Titular de la Oficialía de Partes, se requiere tener Título de Licenciado en Derecho debidamente registrado; dos años cuando menos de ejercicio profesional y ser de reconocida solvencia moral.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 1990)</small>
+
+###### ARTICULO 126
+
+III.- El Supremo Tribunal de Justicia podrá crear Oficialías de Partes en los Partidos Judiciales en que existan dos o más Juzgados que conozcan de una misma rama del Derecho, asignándoles al efecto el personal correspondiente y las funciones que tendrán a su cargo.
 
 ### CAPITULO II. INTERPRETES Y TRADUCTORES
 
@@ -1428,3 +1456,9 @@ LIC. HECTOR DUEÑAS GONZALEZ.
 P.O. 6 DE ENERO DE 1990.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 24 DE NOVIEMBRE DE 1990.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se faculta al H. Supremo Tribunal de Justicia del Estado para que disponga las providencias administrativas necesarias a fin de cumplimentarlo.
