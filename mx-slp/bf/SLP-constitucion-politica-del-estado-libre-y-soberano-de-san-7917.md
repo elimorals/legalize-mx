@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1992-09-07"
+last_updated: "1992-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1992.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -297,37 +297,41 @@ ART. 17.- El Poder Legislativo será ejercido por una asamblea de diputados que 
 
 De la elección y cualidades de los diputados
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1978)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1992)</small>
 
-ART. 18.- El Congreso del Estado se integrará con once diputados electos por mayoría relativa en igual número de distritos uninominales, y hasta nueve Diputados electos según el principio de representación proporcional. Por cada Diputado Propietario habrá un Suplente.
+ART. 18.- El Congreso del Estado se integra con trece Diputados electos por mayoría relativa en igual número de Distritos uninominales y hasta once Diputados electos según el principio de representación proporcional. Por cada Diputado propietario habrá un suplente.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1978)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1992)</small>
 
-ART. 19.- Los Partidos Políticos con derecho a participar en las elecciones locales podrán postular un candidato por cada distrito uninominal y una lista de nueve candidatos para elegirse por representación proporcional en una sola circunscripción estatal.
+ART. 19.- Los Partidos políticos con derecho a participar en las elecciones locales, podrán postular un candidato para cada Distrito uninominal y una lista de once candidatos para elegirse por representación proporcional en una sola circunscripción estatal.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1978)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1992)</small>
 
-ART. 20.- La Ley Reglamentará la forma y procedimientos relativos a la elección de diputados de mayoría. Para la asignación de diputados por representación proporcional, se observarán además las siguientes bases:
+ART. 20.- La Ley reglamentará la forma y procedimientos relativos a la elección de Diputados de mayoría. Para la asignación de Diputados de representación proporcional, se observarán además las siguientes bases:
 
-I.- Con los votos sufragados en todo el Estado a favor de las listas de candidatos presentadas por los partidos que están en el caso del artículo 22, se obtendrá cociente electoral.
+I.- En primer término, se asignarán dos Diputados de representación proporcional al Partido político que hubiera obtenido la mayoría de los votos sufragados en todo el Estado.
 
-II.- La asignación de diputados se hará en los términos de la Ley secundaria y en proporción a la votación recabada por las listas de cada partido.
+II.- Posteriormente, se asignará un Diputado de representación proporcional a cada uno de los Partidos políticos que hayan obtenido por lo menos el uno y medio por ciento de la votación total.
 
-Siempre se respetará el orden que guarden los candidatos en dichas listas.
+III.- Las diputaciones pendientes de asignar después de la aplicación de las fracciones anteriores, serán distribuidas de acuerdo a los porcentajes de la votación total en el Estado.
 
-III.- Ningún partido podrá obtener más de quince diputados en total. Llegado este caso habiendo aún diputaciones por repartir, se procederá a obtener un nuevo cociente electoral tomando en cuenta exclusivamente los votos de los demás partidos. La distribución de las diputaciones faltantes se hará conforme a la fracción anterior.
+IV.- Si aún hubiera diputaciones por asignar, se recurrirá al porcentaje de resto mayor.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1978)</small>
+V.- Del total del Congreso del Estado, ningún Partido podrá obtener más de dieciséis Diputados.
 
-ART. 21.- Cuando en las elecciones contendieren únicamente dos partidos que cumplan con lo dispuesto en el artículo siguiente, se repartirán sólo seis diputaciones por medio de lista; si concurriera nada más un Partido con dichos requisitos no se asignará ninguna representación proporcional. En el primer caso los Partidos no podrán tener más de trece Diputados en total.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1992)</small>
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1978)</small>
+ART. 21.- Cuando en las elecciones contendieren únicamente dos Partidos que cumplan con lo dispuesto en el Artículo siguiente, se asignarán sólo seis diputaciones por medio de lista, en cuyo caso ningún Partido político tendrá más de trece Diputados.
 
-ART. 22.- Sólo se asignarán Diputados por el sistema de Representación Proporcional, a los Partidos Políticos que acrediten los siguientes requisitos:
+Si concurriera sólo un Partido político, no se asignará ninguna representación proporcional.
 
-I.- Haber postulado candidatos en seis distritos electorales uninominales, como mínimo.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1992)</small>
 
-II.- Conseguir por lo menos el uno y medio por ciento de la votación total para las listas de candidatos.
+ART. 22.- Sólo se asignarán Diputados por el sistema de representación proporcional a los Partidos políticos que acrediten los siguientes requisitos:
+
+I.- Haber postulado candidatos en siete Distritos electorales uninominales, como mínimo.
+
+II.- Haber obtenido por lo menos el uno y medio por ciento de la votación total.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -387,9 +391,9 @@ La infracción de este artículo se castiga con la pérdida del carácter de dip
 
 ART. 26.- Los diputados son inviolables por las opiniones que manifiesten en el desempeño de su encargo, y jamás podrán ser reconvenidos ni procesados por ellas.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1978)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1992)</small>
 
-ART. 27.- Las elecciones de diputados serán calificadas por un Colegio Electoral compuesto por cinco presuntos diputados de mayoría y cuatro presuntos diputados de representación proporcional. La Ley determinará la forma de seleccionar a los miembros del Colegio.
+ART. 27.- Las elecciones de Diputados serán calificadas por un Colegio Electoral compuesto por cinco Diputados de mayoría y cuatro Diputados de representación proporcional de la Legislatura saliente. La Ley Orgánica del Poder Legislativo determinará la forma de seleccionar a los miembros del Colegio Electoral.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -1303,6 +1307,10 @@ ART. 119.- Los funcionarios que, según el artículo 37° de esta Constitución,
 
 ART. 120.- Esta Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requerirá su aprobación por el voto de las dos terceras partes del número total de Diputados y el voto posterior de las tres cuartas partes de los Ayuntamientos.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 1992)</small>
+
+El Congreso del Estado o la Diputación Permanente, en su caso, harán en Cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
+
 ## TITULO OCTAVO.
 
 De las Reformas a la Constitución.
@@ -1460,3 +1468,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se autoriza al Ejecutivo del Estado, para que designe la Partida Presupuestal destinada al buen funcionamiento de la Comisión Estatal de Derechos Humanos.
+
+P.O. 22 DE NOVIEMBRE DE 1992.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, una vez que se haya cumplido el trámite especial a que se refiere el Artículo 120 de la propia Constitución Política.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido de este Decreto.
