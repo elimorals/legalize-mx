@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-del-estado-de-san-luis-7940
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-01"
-last_updated: "1992-06-04"
+last_updated: "1992-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1992.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de San Luis Potosí, el 1o. de enero de 1988.
 
@@ -867,9 +867,9 @@ Cuando un edificio se encuentre dividido en departamentos, viviendas, locales co
 
 Las cuotas o tarifas de derechos por servicio doméstico, industrial, comercial, artesanal, público, urbano y otros no especificados se establecerán en la respectiva Ley de Ingresos Municipal de aquellos Ayuntamientos que no hayan descentralizado los servicios de agua potable y alcantarillado.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1992)</small>
 
-Los Municipios en que los servicios sean prestados por Organismos Paramunicipales autorizados por el H. Congreso del Estado, sus Consejos de Administración aprobarán las cuotas y tarifas que deban cubrir los usuarios por todos los servicios públicos de agua potable, presentándolos anualmente a más tardar el quince de noviembre de cada año, y para su obligatoriedad el Congreso del Estado las revisará y ordenará su publicación en el Periódico Oficial del Estado, en su caso. Asimismo quedan obligados estos organismos para que su Consejo de Administración remita para su revisión al propio Congreso a más tardar el treinta y uno de diciembre de cada año un informe de manejo de los recursos financieros que tengan a su cargo.
+Los Municipios en que los servicios sean prestados por Organismos Paramunicipales autorizados por el H. Congreso del Estado, los Consejos de Administración, mediante el voto de las dos terceras partes de sus integrantes, autorizarán las cuotas y tarifas que deban cubrir los usuarios por todos los servicios públicos de agua potable, las cuales se remitirán al H. Congreso anualmente, a más tardar el 15 de noviembre de cada año para su revisión, y para su obligatoriedad ordenará su publicación en el Periódico Oficial del Estado. Asimismo quedan obligados estos Organismos para que sus Consejos de Administración remitan bimestralmente al propio Poder Legislativo, un informe del manejo de los recursos financieros que tengan a su cargo, indistintamente del informe anual que deban rendir a más tardar el 15 de noviembre de cada año.
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 1991)</small>
 
@@ -943,7 +943,7 @@ II.- Sobre el importe del adeudo fiscal por las diligencias de embargo.
 
 III.- Por los demás gastos que se eroguen hasta la conclusión del procedimiento.
 
-## TITULO SEXTO (SIC). CONTRIBUCIONES DE MEJORAS
+## TITULO SEPTIMO. CONTRIBUCIONES DE MEJORAS
 
 ###### ARTICULO 137.
 
@@ -1270,5 +1270,9 @@ SEGUNDO.- El Artículos 63.-" de la presente Ley, surtirá sus efectos y una vez
 TERCERO.- Esta Ley entrará en vigor a partir del 1o. de enero de 1992.
 
 P.O. 4 DE JUNIO DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
