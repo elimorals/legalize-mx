@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-colima-colima-26736"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2003-12-31"
+last_updated: "2004-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2004.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -64,6 +64,10 @@ El Municipio de Colima, para cubrir su gasto público, percibirá en cada ejerci
 Únicamente el Congreso del Estado, mediante disposición de carácter general, podrá condonar o eximir total o parcialmente del cumplimiento de obligaciones fiscales cuando por causas graves se afecte la situación de alguna región o rama de actividad económica del municipio, con excepción de lo previsto por el artículo 115, fracción IV, inciso c), párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos.
 
 El Cabildo, de conformidad con la reglamentación correspondiente, podrá otorgar incentivos y apoyos para promover la inversión, a fin de impulsar el crecimiento económico de los sectores productivos, de manera integral, sostenido y sustentable, e incrementar el bienestar social de sus habitantes.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2004)</small>
+
+Para determinar el pago de las contribuciones se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en las oficinas ó módulos de atención automatizados se deberá observar la regla de ajuste prevista en el artículo 12 del Código Fiscal Municipal del Estado de Colima. No se considerará como error en la determinación y liquidación de contribuciones o créditos fiscales, cuando se aplique la regla de ajuste correspondiente a que se refiere el citado precepto.
 
 ###### ARTICULO 3º.
 
@@ -211,9 +215,13 @@ Los contribuyentes podrán hacer pagos anticipados de este impuesto respecto a t
 
 Cuando se hayan establecido bases provisionales para determinar el monto del impuesto, al aplicarse la base definitiva se cobrarán o reintegrarán las diferencias que resulten.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 16.
 
-El pago de este impuesto deberá efectuarse en la Tesorería Municipal o donde ésta lo disponga.
+El pago de este impuesto deberá efectuarse en la Tesorería Municipal o donde esta lo disponga mediante autorización expresa. También se efectuará en las oficinas o módulos de atención automatizados, permanentes o temporales, establecidos fuera de las instalaciones de la Tesorería.
+
+Para determinar el pago de este impuesto se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en las oficinas o módulos de atención automatizados se deberá observar la siguiente regla de ajuste: los montos que contengan cantidades que incluyan de 1 hasta 50 centavos se ajustarán a la unidad inmediata inferior y los que contengan cantidades de 51 a 99 centavos, se ajustarán a la unidad inmediata superior.
 
 ###### ARTICULO 17.
 
@@ -589,9 +597,13 @@ Son solidariamente responsables del pago de esta contribución los adquirentes d
 
 Los derechos por la prestación de servicios que proporcionen las diversas dependencias del Ayuntamiento, se causarán en el momento en que el particular reciba el servicio.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 57.
 
-El importe de las tasas, cuotas o tarifas que para cada derecho se señale en los siguientes Capítulos deberá ser cubierto previamente a la prestación del servicio, cuando así proceda, en la Tesorería Municipal o en el lugar que ésta designe.
+El importe de las tasas, cuotas o tarifas que para cada derecho se señale en los siguientes capítulos deberá ser cubierto previamente a la prestación del servicio, cuando así proceda, en la Tesorería Municipal o en el lugar que esta designe. También se efectuará en las oficinas o módulos de atención automatizados, permanentes o temporales, establecidos fuera de las instalaciones de la Tesorería.
+
+Para determinar el pago de los derechos se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en los módulos de atención automatizados se deberá observar la siguiente regla de ajuste: los montos que contengan cantidades que incluyan de 1 hasta 50 centavos se ajustarán a la unidad inmediata inferior y los que contengan cantidades de 51 a 99 centavos, se ajustarán a la unidad inmediata superior.
 
 ###### ARTICULO 58.
 
@@ -911,6 +923,10 @@ Los servicios públicos que de conformidad con la Ley del Municipio Libre del Es
 
 Son productos los ingresos que perciba el municipio por actividades que no corresponden al desarrollo de sus funciones propias de derecho público o por la explotación de sus bienes patrimoniales.
 
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2004)</small>
+
+El importe de los ingresos por concepto de productos que se señale en los siguientes capítulos deberá ser cubierto en la Tesorería Municipal o en el lugar que esta designe. También se efectuará en las oficinas o módulos de atención automatizados, permanentes o temporales, establecidos fuera de las instalaciones de la Tesorería. Para determinar el pago por concepto de productos se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en los módulos de atención automatizados se deberá observar la siguiente regla de ajuste: los montos que contengan cantidades que incluyan de 1 hasta 50 centavos se ajustarán a la unidad inmediata inferior y los que contengan cantidades de 51 a 99 centavos, se ajustarán a la unidad inmediata superior.
+
 ### CAPITULO III. RENDIMIENTOS FINANCIEROS DE CAPITAL Y VALORES
 
 ###### ARTICULO 107.
@@ -947,7 +963,7 @@ Los ingresos que se obtengan por los rendimientos financieros o intereses genera
 
 ###### ARTICULO 112.
 
-Por la venta de formas impresas de la autoridad municipal se cobrará or juego:
+Por la venta de formas impresas de la autoridad municipal se cobrará por juego:
 
 (VEASE ARCHIVO ANEXO)
 
@@ -1023,6 +1039,14 @@ X. Otros no especificados.
 
 Las multas de orden administrativo que en uso de sus facultades imponga la autoridad municipal, serán aplicadas conforme a los ordenamientos correspondientes.
 
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2004)</small>
+
+El importe de los ingresos por concepto de multas deberá ser cubierto en la Tesorería Municipal o en el lugar que esta designe. También se efectuará en las oficinas o módulos de atención automatizados, permanentes o temporales, establecidos fuera de las instalaciones de la Tesorería.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2004)</small>
+
+Para determinar el pago por concepto de multas se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en los módulos de atención automatizados se deberá observar la siguiente regla de ajuste: los montos que contengan cantidades que incluyan de 1 hasta 50 centavos se ajustarán a la unidad inmediata inferior y los que contengan cantidades de 51 a 99 centavos, se ajustarán a la unidad inmediata superior.
+
 ## TITULO SEPTIMO. DE LAS PARTICIPACIONES FEDERALES
 
 ### CAPITULO UNICO
@@ -1067,7 +1091,7 @@ Los créditos fiscales no cubiertos en el año en que se causaron, se liquidará
 
 ###### ARTICULO CUARTO.
 
-Con motivo de la actualización de los valores catastrales para adecuarlas a las reformas del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y a fin de evitar impactos desproporcionados en el pago del impuesto predial, la base para la determinación de dicho impuesto se continuará ajustando hasta alcanzar el 100 por ciento del valor catastral , como a continuación se señala:
+Con motivo de la actualización de los valores catastrales para adecuarlas a las reformas del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y a fin de evitar impactos desproporcionados en el pago del impuesto predial, la base para la determinación de dicho impuesto se continuará ajustando hasta alcanzar el 100 por ciento del valor catastral, como a continuación se señala:
 
 AÑO 2003 2004 2005 2006 2007
 
@@ -1112,3 +1136,7 @@ P.O. 31 DE DICIEMBRE DE 2003.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día 1° de enero del año 2004, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE OCTUBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
