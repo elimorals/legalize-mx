@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2003-06-03"
+last_updated: "2003-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -375,9 +375,11 @@ Los Magistrados no podrán ausentarse de la capital ni faltar a sus labores, sin
 
 ### CAPITULO V. DE LAS MAGISTRATURAS SUPERNUMERARIAS
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTICULO 31.
 
-Los Magistrados Supernumerarios no integrarán Sala, excepto cuando por faltas temporales de los de Número, suplan a éstos, o cuando así lo requieran las necesidades de la administración de justicia, previo acuerdo del Pleno del tribunal.
+Los Magistrados Supernumerarios integrarán Sala cuando así lo requieran las necesidades de la administración e impartición de justicia, previo acuerdo del Pleno del Tribunal.
 
 ###### ARTICULO 32.
 
@@ -409,7 +411,7 @@ Son atribuciones y obligaciones de los Magistrados Supernumerarios:
 
 I.- Integrar Salas Supernumerarias en los casos que determine el Pleno, a fin de conocer los asuntos que el mismo acuerde remitirle;
 
-II.- Suplir las ausencias temporales y definitivas de los Magistrados de Número en los términos que determine el Pleno;
+II.- (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2003)
 
 III.- Asistir a las sesiones públicas del Supremo Tribunal de Justicia con voz informativa, sin derecho a voto; y previo acuerdo del Presidente, solicitar autorización para asistir a las sesiones privadas, con la obligación de guardar sigilo de los asuntos en ellas tratados;
 
@@ -1057,7 +1059,9 @@ Las faltas temporales del Presidente, cuando no excedan de quince días, serán 
 
 Si la ausencia del Presidente excede de quince días, la sustitución se hará por acuerdo del Pleno, y en igual forma se suplirá la ausencia definitiva, en cuyo caso el designado concluirá el período legal correspondiente.
 
-Las faltas temporales de los Magistrados serán suplidas por un Magistrado Supernumerario; de igual manera será en el caso de ausencia definitiva, en tanto se hace la designación que corresponda.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2003)</small>
+
+Las ausencias temporales de los Magistrados serán suplidas por el Presidente. En el caso de ausencia definitiva y en tanto se hace la designación correspondiente, el propio Presidente cubrirá la falta.
 
 ###### ARTICULO 101.
 
@@ -1684,3 +1688,7 @@ Las reformas a que se contrae el presente Decreto entrarán en vigor a los trein
 ###### ARTÍCULO SEGUNDO.
 
 Los asuntos de naturaleza familiar que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán desahogándose en los Juzgados que sean especializados por acuerdo Plenario, los que a su vez entregarán los de índole patrimonial de que estén conociendo por los de contenido familiar con los Jueces que conserven la competencia civil patrimonial; igual procedimiento se observará en tratándose de los negocios que se encuentren en trámite en la Segunda Instancia.
+
+P.O. 13 DE NOVIEMBRE DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
