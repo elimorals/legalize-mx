@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-turismo-del-estado-de-campeche-3666"
 country: "mx"
 rank: "ley"
 publication_date: "1988-10-26"
-last_updated: "1988-10-26"
+last_updated: "1992-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY DE TURISMO DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+N. DE. E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 285, PUBLICADO EN EL P.O. DE 8 DE JULIO DE 1992, LAS REFERENCIAS Y ATRIBUCIONES QUE SE OTORGAN EN LAS LEYES Y REGLAMENTOS VIGENTES EN EL ESTADO A LA SECRETARIA DE DESARROLLO URBANO Y MEDIO AMBIENTE SE ENTENDERAN HECHAS Y OTORGADAS A LA SECRETARIA DE DESARROLLO SOCIAL.
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 26 de octubre de 1988.
 
@@ -568,3 +570,19 @@ SECRETARIO
 DIP. MANUEL ABREU ARRIBALZA,
 
 SECRETARIO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE JULIO DE 1992.
+
+Artículo Primero.- El presente Decreto, iniciará su vigencia en los términos señalados en el Artículo tercero del Código Civil del Estado, después de que sea publicado en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+Artículo Tercero.- Las referencias que se hacen en las leyes y reglamentos vigentes en el Estado a la Secretaría de Desarrollo Urbano y Medio Ambiente se entenderán hechas a la Secretaría de Desarrollo Social. Asimismo, las atribuciones que en dichas leyes y reglamentos se otorgan a la indicada Secretaría de Desarrollo Urbano y Medio Ambiente, se entenderán otorgadas a la de Desarrollo Social.
+
+Artículo Cuarto.- Las referencias que se hacen en las leyes y Reglamentos vigentes en el Estado a la Secretaría de Planeación en las materias que con motivo de la supresión de ésta pasan a la Secretaría de Finanzas del Estado, se entenderán hechas a esta última, así como las atribuciones que en esas mismas materias se otorgaren en las anotadas leyes y reglamentos a la mencionada Secretaría de Planeación.
+
+Artículo Quinto.- El personal de base, así como los recursos financieros y materiales, incluidos mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general el equipo que la Secretaría de Planeación que desaparece por efectos del presente Decreto de reformas, utiliza para la operación de los asuntos a su cargo, pasarán a la Secretaría de Desarrollo Social, con excepción de aquellos destinados a las funciones que por este mismo Decreto se transfieren a la Secretaría de Finanzas. Asimismo, pasarán a la Secretaría de Desarrollo Social el personal de base y los recursos financieros y materiales asignados en el presupuesto de egresos vigente en el Estado en el Ramo 11, con motivo de la supresión de la Secretaría de Desarrollo Urbano y Medio Ambiente y la absorción de ésta por la nueva de Desarrollo Social.
+
+Artículo Sexto.- Los programas y asuntos a cargo de la Secretaría de Desarrollo Urbano y Medio Ambiente que se encontraren en curso o pendientes de resolución en el momento de iniciar su vigencia el presente Decreto, se continuarán o serán despachados por la Secretaría de Desarrollo Social; de la misma manera, los programas y asuntos a cargo de la Secretaría de Planeación, que se transfieren a la Secretaría de Finanzas, se continuarán o serán despachos por está conforme a las nuevas atribuciones.
