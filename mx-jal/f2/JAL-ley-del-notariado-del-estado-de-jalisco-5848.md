@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-5848"
 country: "mx"
 rank: "ley"
 publication_date: "1991-10-08"
-last_updated: "1991-10-08"
+last_updated: "1991-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 1991.
 
 Ley publicada en la Sección Segunda del Periódico del Estado de Jalisco, el martes 8 de octubre de 1991.
 
@@ -1021,23 +1021,31 @@ Podrán expedirse y autorizarse Testimonios, copias certificadas y certificacion
 
 Los Notarios, en el ejercicio de sus funciones, y los jueces que actúen como Notarios por Ministerio de Ley, percibirán los siguientes honorarios:
 
-I. Por la autorización de escrituras o actos notariales de valor determinado, que no tenga señalada cuota especial en este arancel, se cobrará la cantidad de $200,000.00 M.N., con excepción de las Escrituras Constitutivas o de Aumento de Capital de Sociedades Mercantiles y Civiles, en las que se cobrará la cantidad de $500,000.00 M.N. Además, sobre el importe de la operación:
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1991)</small>
 
-a) Sobre la cantidad que no exceda de $5'000,000.00 M.N., el 6%;
+I. Por la autorización de escrituras o actos notariales de valor determinado, que no tengan señalada cuota especial en este arancel, se cobrará la cantidad de $500,000.00 M. N. Además sobre el importe de la operación:
 
-b) Sobre la cantidad que exceda de $5'000,000.00 M.N., hasta $15'000,000.00 M.N., el 5.5% además de lo señalado en el inciso anterior;
+a) Sobre la cantidad que no exceda de $50'000,000.00 M. N., el 3%;
 
-c) Sobre la cantidad que exceda de $15'000,000.00 M.N., hasta $50'000,000.00 M.N., el 5%, además de lo señalado en los incisos anteriores;
+b) Sobre la cantidad que exceda de $50'000,000.00 M.N., hasta $500'000,000.00 M.N., el 2% además de lo señalado en el inciso anterior;
 
-d) Sobre la cantidad que exceda de $50'000,000.00 M.N., hasta $100'000,000.00 M.N., el 4%, además de lo señalado en los incisos anteriores;
+c) Sobre la cantidad que exceda de $500'000,000.00 M.N., hasta $1,000'000,000.00 M.N., el 1.5%, además de lo señalado en los incisos anteriores;
 
-e) Sobre la cantidad que exceda de $100'000,000.00 M.N., hasta $300'000,000.00 M.N., el 3%, además de lo señalado en los incisos anteriores;
+d) Sobre la cantidad que exceda de $1,000'000,000.00 M.N., hasta $2,500'000,000.00, M.N., el 1%, además de lo señalado en los incisos anteriores;
 
-f) Sobre la cantidad que exceda de $300'000,000.00 M.N., hasta $600'000,000.00, el 2.5%, además de lo señalado en los incisos anteriores; y
+e) Sobre la cantidad que exceda de $2,500'000,000.00 M.N., hasta $5,000'000,000.00 M.N., el 0.50%, además de lo señalado en los incisos anteriores;
 
-g) Sobre la cantidad que exceda de $600'000,000.00 M.N., en adelante, el 2%, además de lo señalado en los incisos anteriores;
+f) Sobre la cantidad que exceda de $5,000'000,000.00 M.N., en adelante el 0.25% además de lo señalado en los incisos anteriores
 
-II. En los casos de las escrituras concernientes a todo tipo de créditos otorgados por las Instituciones de Crédito, así como los que se relacionen con operaciones de viviendas unifamiliares y condominales, constituidos por Entidades Públicas y Privadas, Organismos Oficiales Descentralizados e Instituciones de Crédito, así como en todas aquellas que, para adquirirlas, sea necesario la obtención de créditos del sistema bancario nacional, de los gobiernos federales, estatales, municipales, IMSS, ISSSTE, o de cualquiera otra empresa u organismos descentralizado, y el interesado demuestre no ser propietario de ningún otro inmueble, se cobrará el 50% sobre los honorarios que resulten, conforme al procedimiento establecido en la fracción anterior y, únicamente, por el contrato de mayor valor, aun cuando los contratos relativos a la compra-venta de la vivienda y el de mutuo o apertura de crédito, se consignen en diversos instrumentos;
+g) (DEROGADA, P.O. 7 DE DICIEMBRE DE 1991)
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1991)</small>
+
+II. Se cobrará el 50% sobre los honorarios que resulten conforme al procedimiento establecido en la fracción anterior, en los siguientes casos:
+
+a) En todo tipo de contratos de crédito otorgados por las Instituciones de Crédito y las Organizaciones Auxiliares; y
+
+b) Por cada contrato, en las escrituras de adquisición de vivienda unifamiliar, cuyo precio se financie por Entidades Públicas o descentralizadas o pertenecientes al sistema crediticio nacional.
 
 III. Si en una misma escritura, a excepción de lo dispuesto en la fracción precedente, se consignan dos o más contratos celebrados entre los mismos otorgantes, cobrarán por el contrato de mayor valor, la totalidad de lo señalado en este Arancel y, por los demás, la mitad de la remuneración establecida, según el valor y naturaleza de los contratos. No se considerarán contratos distintos las Fianzas, Prendas, Hipotecas y Cláusulas Penales;
 
@@ -1045,13 +1053,27 @@ IV. En los contratos de prestaciones periódicas se considerará como valor de l
 
 V. En las escrituras relativas a la constitución del Régimen de Propiedad en Condominio o sus modificaciones, se cobrará:
 
-a) Por autorizar la escritura constitutiva en la que se contenga su reglamento, o la modificatoria la cantidad de $1'500,000.00 M.N.;
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1991)</small>
 
-b) Además de la cantidad anterior, se cobrará por cada unidad privativa o por la modificación que ésta sufra, la cantidad de $75,000.00 M.N., si no excede de 50 unidades privativas, y
+a) En los condominios integrados por unidades privativas destinadas a vivienda cuya superficie no exceda de 80.00 metros cuadrados:
 
-c) Si el condominio excede de 50 unidades privativas, se cobrará además de las cantidades señaladas en los incisos que anteceden, la cantidad de $50,000.00 M.N., por cada una de las unidades privativas restantes;
+1. Por autorizar la escritura constructiva en la que se contenga su reglamento, o la modificatoria, la cantidad de $1,500,000.00 M.N.;
 
-VI. Por la protocolización de actas de asamblea de sociedades o asociaciones en que no se determine valor, se cobrará la cantidad de $500,000.00 M.N.;
+2. Además de la cantidad anterior, se cobrará por cada unidad privativa o por la modificación que ésta sufra, la cantidad de $75,000.00 M.N. si no excede de 50 unidades privativas; y
+
+3. Si el condominio excede de 50 unidades privativas, se cobrará además de las cantidades señaladas en los incisos que anteceden, la cantidad de $50,000.00 M.N., por cada una de las unidades privativas restantes;
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1991)</small>
+
+b) En los demás condominios se cobrará el 50% de los honorarios que resulten conforme al procedimiento establecido en el inciso a), precedente, sobre el valor del condominio.
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1991)</small>
+
+VI. Por la protocolización de actas de asamblea de sociedades o asociaciones en que no se determine valor, se cobrará la cantidad de $500,000.00 M.N.
+
+En la constitución de Sociedades Mercantiles y en la protocolización de actas de aumento de capital hasta de $500'000,000.00 M.N., se cobrará conforme a lo establecido en la fracción I, incisos a) y b), de este artículo.
+
+Sobre las cantidades que excedan del monto antes señalado, se cobrará además de lo establecido en el párrafo anterior, el 50% de lo que resulte de aplicar los incisos del c) al f) de la misma fracción.
 
 VII. Por la autorización de testamentos otorgados en el local de la Notaría, se cobrarán $300,000.00 M.N.; fuera de la misma, se cobrará $450,000.00 M.N.
 
@@ -1059,7 +1081,9 @@ Por razón de tiempo, si el otorgamiento tiene lugar fuera de las horas de ofici
 
 VIII. Por cada protesto de documentos mercantiles con valor hasta de $10'000,000.00 M.N., se cobrarán $50,000.00 M.N. y, sobre la cantidad excedente, percibirán además el 2 al millar;
 
-IX. Por el otorgamiento de poderes generales o especiales, por su revocación, substitución, modificación o renuncia de los mismos, se cobrarán, $200,000.00 M.N., cuando el otorgante sea una persona física, y cuando el que confiere sea una persona moral, se cobrarán $300,000.00 M.N.;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1991)</small>
+
+IX. Por el otorgamiento de poderes generales o especiales, por su revocación, substitución, modificación o renuncia de los mismos, se cobrarán, $200,000.00 M.N., y cuando el otorgante sea una persona moral mercantil se cobrarán $500,000.00 M.N.;
 
 X. Por certificaciones de hechos $250,000.00 M.N. Si la diligencia pasare de una hora, se cobrarán $50,000.00 M.N. Por cada hora excedente. Igual cuota causarán las notificaciones o interpelaciones que haga el Notario, y las demás actuaciones que se practiquen fuera del Protocolo;
 
@@ -1095,11 +1119,17 @@ XXIV. Por gestionar permisos que, de acuerdo con las leyes federales, estatales 
 
 XXV. Si una escritura se contiene en más de tres fojas o folios, incluyendo su terminación, cobrarán $30,000.00 M.N., por cada foja o folio excedente, y
 
-XXVI. En los demás instrumentos en los que no se determine el valor ni haya datos para fijarlo, se cobrará $200,000.00 M.N.
+XXVI. En los demás instrumentos en los que no se determine el valor ni haya datos para fijarlo, se cobrará $200,000.00 M.N.;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 1991)</small>
+
+XXVII. En las escrituras de créditos bancarios, en las que se pacte un sistema de refinanciamiento adicional para el pago de los intereses, se aplicará el arancel únicamente sobre el monto del crédito inicial.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 134.
 
-Las cuotas señaladas en el presente arancel, se considerarán aumentadas, automáticamente, en la misma proporción en que resulten incrementados los salarios mínimos generales en la forma y términos establecidos por la Ley Federal del Trabajo; con excepción de los porcentajes a que se refieren los incisos a), b), c), d), e), f) y g), de la Fracción I, del artículo anterior, y las correspondientes a las Fracciones II y III, de dicho artículo.
+Las cuotas y bases señaladas en el presente arancel, se modificarán por periodos anuales en el mes de enero de cada año, aplicándoles el factor que resulte de dividir el índice nacional de precios al consumidor del mes inmediato anterior, entre el índice nacional de precios al consumidor del mismo mes correspondiente, al año precedente.
 
 ###### Artículo 135.
 
@@ -1800,3 +1830,9 @@ Lic. Guillermo Cosío Vidaurri
 El Secretario General de Gobierno
 
 Lic. Enrique Romero González.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE DICIEMBRE DE 1991.
+
+Unico. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial el Estado de Jalisco.
