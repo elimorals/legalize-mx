@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1945-08-19"
+last_updated: "1950-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 1945.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 1950.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -319,9 +319,9 @@ III. Velar por la conservación del orden, de la tranquilidad y de la seguridad 
 
 IV. Velar igualmente por la eficacia de los servicios y administración públicos, iniciando, al efecto, las leyes y decretos que fueren pertinentes.
 
-(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 1929) (REPUBLICADA, P.O. 29 DE DICIEMBRE DE 1929)
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 1950)</small>
 
-V. Presentar en el segundo período de sesiones de la Legislatura, el día que éstas comiencen, el informe a que se refiere el Artículo 45 y la cuenta de gastos de la Administración, correspondientes al año fiscal anterior.
+V. Presentar, en la primera sesión del primer período ordinario de sesiones de la Legislatura, el informe a que se refiere el artículo 45 y la cuenta de gastos de la Administración, correspondiente al año fiscal anterior.
 
 (REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 1929) (REPUBLICADA, P.O. 29 DE DICIEMBRE DE 1929)
 
@@ -657,11 +657,11 @@ La Legislatura celebrará sesiones extraordinarias cada vez que para ello fuere 
 
 No podrá celebrarse ninguna sesión sin la concurrencia de más de la mitad del número total de Diputados.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 1943)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 1950)</small>
 
 ###### Art. 45.
 
-El Gobernador del Estado y el Presidente del Supremo Tribunal de Justicia, asistirán a la apertura del segundo período ordinario de sesiones; y leerá el primero de ellos, un informe en el que expondrá en términos generales, el estado que guarda su administración.
+El Gobernador del Estado y el Presidente del Supremo Tribunal de Justicia, asistirán a la primera sesión del primer período ordinario de sesiones, en la que el primero de ellos leerá un informe en el que expondrá, en términos generales, el estado que guarda su administración.
 
 ###### Art. 46.
 
@@ -1149,7 +1149,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 P.O. 28 DE ABRIL DE 1932.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE.
 
 P.O. 15 DE ENERO DE 1933.
 
@@ -1182,3 +1182,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 19 DE AGOSTO DE 1945.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+
+P.O. 19 DE ENERO DE 1950.
+
+Este Decreto surtirá efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
